@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:228440:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1970-03-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "45350fb5f6619247"
+   ]
+  },
+  {
+   "date": "1973-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:422069:por",
+     "title": "Decreto n.º 242/73",
+     "published": "1973-05-16",
+     "dre_path": "/dr/detalhe/decreto/242-1973-422069"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "f818158e324abfa1",
+    "a6a62f33824f19a1",
+    "dbc54fcba95307f3",
+    "402b18ee32b13990",
+    "117726763e2105e3",
+    "422ebc742871efed",
+    "69cff9cd8e990465",
+    "3a3ea31ab0ee7019",
+    "7ed6997644f88323",
+    "716c0b5cb7a5a772",
+    "7f7009f0a8ac028e",
+    "8c22eab4fb68b281",
+    "6f6ce394a9177cb0",
+    "d0a8b0d1b0f49497",
+    "81e69e3724feea6a",
+    "5b9b04ce99e51fa2",
+    "3121e818fe18cc35",
+    "b19c25ee28badfdf"
+   ]
+  }
+ ],
+ "fragments": {
+  "45350fb5f6619247": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo em conta o disposto no artigo 5.º do [Decreto-Lei n.º 78/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1970-228439), de 3 de Março de 1970;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nREGULAMENTO DAS IMPOSIÇÕES MARÍTIMAS GERAIS\n\nDisposições gerais\n\nArtigo 1.º As imposições marítimas gerais, encargos do navio, compreendem as seguintes classes de impostos:\n\na) Imposto de tonelagem, devido pela entrada no porto;\n\nb) Imposto de comércio marítimo, devido pelo tráfego.\n\nArt. 2.º - 1. Para efeitos do disposto no presente Regulamento, considera-se navio entrado no porto o que for registado pela alfândega, recebendo a competente contramarca fiscal na estância aduaneira em cuja jurisdição estiver esse porto.\n\n2. O navio entrado no porto faz tráfego reservado à bandeira nacional quando o objecto do tráfego nesse porto provier e tenha por destino exclusivamente portos das zonas reservadas à bandeira nacional, embora nas respectivas viagens o navio efectue operações comerciais com portos estrangeiros.\n\nImposto de tonelagem\n\nArt. 3.º - 1. As taxas a aplicar, por tonelada de arqueação bruta, no imposto de tonelagem serão as seguintes:\n\na) Navios de carga efectuando operações de carga e descarga ou só descarga ... 1$30\n\nb) Navios de carga efectuando sòmente operações de carga ... $70\n\nc) Navios de passageiros ... $40\n\nd) Navios que em determinado porto só façam tráfego reservado à bandeira nacional ... $15\n\n2. As taxas indicadas nas alíneas a), b) e c) do número anterior são aplicáveis no primeiro porto do continente e ilhas adjacentes em que o navio entrar, sendo reduzidas para 50 por cento nos portos seguintes em que o navio entre.\n\nArt. 4.º Para os efeitos da liquidação do imposto de tonelagem consideram-se como um só os portos do Douro e Leixões, assim como os portos de Faro e Olhão e ainda Angra do Heroísmo e Vila da Praia da Vitória, mesmo que o navio faça operações comerciais em ambos os portos.\n\nArt. 5.º Nos portos dos arquipélagos dos Açores e Madeira a taxa do imposto de tonelagem para os navios de passageiros e de carga, quando devido aquele imposto, é de $15.\n\nArt. 6.º - 1. Os barcos empregados em serviço de assistência e salvação pagarão imposto de tonelagem com a taxa de 1$25.\n\n2. Não havendo num determinado porto outros barcos para o mesmo fim, não será devido imposto de tonelagem quando o barco de salvação regresse do mar alto a esse porto sem ter efectuado quaisquer trabalhos de assistência ou salvação.\n\nArt. 7.º - 1. A tonelagem bruta a considerar no cálculo do imposto de tonelagem é a que consta do certificado de arqueação.\n\n2. À tonelagem bruta deve juntar-se a tonelagem dos espaços excluídos da arqueação bruta, quando tais espaços estejam ocupados por carga.\n\n3. A descrição dos espaços excluídos da arqueação bruta, caso existam, consta, em geral, do certificado de arqueação.\n\n4. Nos casos de dúvida sobre a aplicação das normas estabelecidas neste artigo pode a autoridade aduaneira consultar directamente a Direcção da Marinha Mercante.\n\n5. Para fiscalização do determinado no n.º 2 deverá o comandante entregar no acto da entrada, juntamente com os documentos descritos no Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, declaração da qual conste que os espaços a que se refere aquele número estão ou não ocupados.\n\nArt. 8.º Os navios que, devido ao seu calado, para entrarem em certos portos precisam de, fora deles, fazer uma primeira descarga ou que, saindo, vão completar a carga fora do porto, pagam uma só vez o imposto de tonelagem.\n\nImposto de comércio marítimo\n\nArt. 9.º - 1. Os navios que entrem nos portos nacionais e neles realizem operações comerciais pagam imposto de comércio marítimo por toda a carga descarregada e pelos passageiros embarcados e desembarcados.\n\n2. As taxas a aplicar pelo tráfego que não é reservado à bandeira nacional são as seguintes:\n\na) Carga descarregada:\n\nPor cada tonelada métrica de trigo, milho e centeio ... $40\n\nPor cada tonelada métrica de carvão mineral, óleos minerais em rama para destilação, óleos minerais pesados para combustão, enxofre, fosfatos em bruto e a granel e adubos para a agricultura, excepto superfosfatos ... 4$50\n\nPor cada tonelada métrica de qualquer outra mercadoria ... 15$00\n\nb) Passageiros desembarcados:\n\nCada um ... 20$00\n\nc) Passageiros embarcados:\n\nCada um ... 30$00\n\n3. Os navios portugueses e os das nações cujos tratados ou acordos comerciais com Portugal estipulam explícita ou implìcitamente bonificação no imposto de comércio marítimo pagam o imposto estabelecido na tabela do número anterior com redução de 25 por cento.\n\n4. Se os tratados ou acordos não especificarem tal redução, ela só será aplicada às cargas desembarcadas para o trânsito internacional, assim considerado do ponto de vista aduaneiro.\n\n5. As taxas a considerar pelo tráfego de carga que é reservado à bandeira nacional serão iguais a 2 por cento das indicadas na alínea a) do n.º 2 deste artigo.\n\n6. Aos barcos registados para a cabotagem ou que só façam tráfego nas zonas de cabotagem são aplicadas taxas iguais a 1 por cento das indicadas na alínea a) do n.º 2.\n\n7. Para os portos dos arquipélagos dos Açores e Madeira são reduzidas de 50 por cento, para os navios registados no longo curso, as taxas do imposto de comércio marítimo.\n\nIsenções\n\nArt. 10.º São isentos do imposto de tonelagem:\n\na) Os navios de guerra e os navios mercantes que os abasteçam, quando da mesma nacionalidade, havendo reciprocidade de tratamento, desde que não sejam efectuadas operações comerciais;\n\nb) Os navios do Estado Português;\n\nc) Os navios encarregados de missões científicas;\n\nd) Os navios das corporações nacionais de pilotos;\n\ne) Os navios nacionais registados para a navegação costeira;\n\nf) Os navios nacionais registados para a cabotagem;\n\ng) Os navios de passageiros que nos portos dos arquipélagos dos Açores e Madeira não realizem quaisquer operações comerciais além do embarque e desembarque de passageiros e que, quando efectuem simultâneamente operações de carga e descarga, a totalidade destas não ultrapasse as 50 t;\n\nh) Os navios de excursionistas que não façam operações comerciais além do embarque e desembarque de passageiros em excursão;\n\ni) Os navios de exposições que não façam operações comerciais;\n\nj) Os navios que limitem as operações comerciais ao embarque e desembarque de material de guerra, referido no [Decreto-Lei n.º 38707](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38707-1952-598090), de 31 de Março de 1952;\n\nl) Os navios que não façam operações comerciais e que tenham entrado, quer por motivo de arribada forçada, quer para efectuar reparações ou transformações, quer para meter combustível, mantimentos ou aguada para seu consumo, incluindo-se na arribada forçada os casos de reboque de corpos flutuantes abandonados no mar, mas não o reboque de assistência ou salvação de navio em perigo ou para efectuar sòmente as operações indicadas nas alíneas g) e h) do artigo 11.º;\n\nm) Os contentores flutuantes embarcados ou desembarcados em navios sujeitos ao imposto de tonelagem;\n\nn) Os rebocadores que reboquem material flutuante entrando em porto nacional para que aquele material seja reparado ou registado;\n\no) Os navios nacionais de pesca e os navios nacionais que transportem pescado de navios de pesca portugueses para portos nacionais, quer a baldeação do pescado se faça no alto mar, quer em portos nacionais ou estrangeiros, mesmo que o pescado tenha sido armazenado temporàriamente em terra para simples conservação;\n\np) Os barcos de recreio pertencentes a sociedades de desporto náutico ou a sócios efectivos das mesmas ou a indivíduos singulares, usados exclusivamente em recreio.\n\nArt. 11.º São isentos do imposto de comércio marítimo:\n\na) Os navios isentos do imposto de tonelagem pelo disposto nas alíneas a), b), c), d), e), g), h), i), j), l), n), o) e p) do artigo 10.º;\n\nb) O desembarque de mercadorias para se proceder a qualquer conserto de que um navio careça ou para saneamento no caso de quarentena;\n\nc) A venda de mercadorias avariadas ou a venda de alguma carga para custeamento das despesas do navio, quando o comandante justifique não poder levantar o dinheiro de outro modo para o fim indicado;\n\nd) A baldeação para outro navio de mercadorias trazidas por navios arribados por força maior que não possam ser transportadas nestes, ao seu destino, com a devida segurança, ou sejam susceptíveis de deterioração ou perda de valor pelo retardamento da sua expedição;\n\ne) A baldeação, quando permitida, a requerimento do comandante ou consignatário, de mercadorias que não dêem entrada na alfândega ou no cais;\n\nf) A reexportação de mercadoria que não chegue a sair de bordo;\n\ng) A descarga que se limite ao desembarque de mercadorias que deveriam ter sido descarregadas em viagens anteriores, de cujo manifesto fizessem parte;\n\nh) O desembarque de mercadorias que faziam parte da lista de sobresselentes das embarcações, junta ao processo do navio;\n\ni) O desembarque de automóveis e outros veículos usados que acompanhem os passageiros para seu uso e aos mesmos pertencentes;\n\nj) O desembarque de combustíveis para caldeiras ou para motores, destinados ao Estado;\n\nl) O desembarque de contentores ou paletas, quando a operação se faça por motivo da utilização do contentor ou paleta no tráfego de mercadorias, não sendo, porém, extensiva a isenção nem às mercadorias contidas nos contentores ou paletas, nem ao desembarque destes equipamentos quando mercadorias.\n\nArt. 12.º Não é devido imposto de comércio marítimo:\n\na) Pelos passageiros procedentes ou que seguem para portos do território português;\n\nb) Pelos náufragos, feridos por acidentes de mar, presos, indigentes, portugueses remetidos pelos consulados ou pelas autoridades locais da procedência, militares em serviço e pessoal em missão de serviços sanitários do Estado, assistência aos emigrantes, ou da Sociedade da Cruz Vermelha;\n\nc) Pelos funcionários diplomáticos e consulares portugueses e seus dependentes e os correios de gabinete, quando apresentem diploma especial passado pelo Ministério dos Negócios Estrangeiros;\n\nd) Pelo embarque e desembarque de funcionários diplomáticos estrangeiros, creditados em Portugal, e seus dependentes, quando os respectivos países concedam reciprocidade de tratamento;\n\ne) Pelo desembarque de passageiros de navios, arribados por força maior, impedidos de seguir viagem;\n\nf) Pelo embarque de passageiros em trânsito, provenientes de navios arribados por força maior;\n\ng) Pelos estudantes e pelos professores que viajem conjuntamente em excursão promovida pela escola respectiva;\n\nh) Pelos tripulantes que desembarcam de um navio e pelos indivíduos que se matriculam como tripulantes a bordo de navio nacional ou estrangeiro, obtida a indicação da qualidade de tripulante por informação das capitanias dos portos, no caso de navios portugueses, ou dos consulados, confirmada pela Direcção-Geral de Segurança, nos casos de navios estrangeiros;\n\ni) Pelos armadores ou membros dos corpos gerentes das empresas de navegação, suas famílias e criados respectivos, quando viajem em navios das suas próprias empresas.\n\nDisposições finais\n\nArt. 13.º As quantias devidas pelos impostos de tonelagem e de comércio marítimo entrarão em receita decorridos dois meses, a contar da data da contramarca fiscal de entrada, se antes desse prazo o navio não houver saído do porto.\n\nArt. 14.º Quando num porto se reconheça ter havido erro para menos na liquidação do imposto de tonelagem ou de comércio marítimo devidos em porto anterior, deve a alfândega respectiva exigir que essa diferença fique garantida por depósito, que só será liquidado perante certidão comprovativa de o proprietário do navio, armador ou seu representante haver pago na alfândega competente a quantia a menos cobrada.\n\nArt. 15.º - 1. Haverá restituição do imposto de tonelagem ou de comércio marítimo pago a mais por erros de liquidação ou de classificação de navio cometidos e reconhecidos pela alfândega.\n\n2. O processo de restituição de que trata o presente artigo é organizado na alfândega onde a cobrança se houver efectuado e, se for motivado pela mudança de categoria do navio (de carga para passageiros), é instruído com informação da Direcção da Marinha Mercante.\n\n3. Em vez de restituição, podem a agência ou a empresa de navegação requerer encontro nos termos legais da quantia a mais paga em futuras liquidações de impostos de tonelagem ou de comércio marítimo que tiverem de efectuar na alfândega, observando-se no respectivo processo o disposto no parágrafo anterior.\n\nArt. 16.º - 1. A Direcção da Marinha Mercante funcionará como organismo consultor das entidades que cobram as imposições.\n\n2. As empresas e agentes de navegação deverão remeter à Direcção da Marinha Mercante, até ao dia 30 de cada mês, duplicados de todas as listas de passageiros devidamente autenticadas por visto do Ministério do Interior, com o pedido de isenção de impostos, sempre que julguem que há lugar para isenção.\n\n3. Os duplicados das listas, mas sem vistos, deverão ser entregues quando não se julgue haver motivos para isenção de imposições.\n\n4. A Direcção da Marinha Mercante comunicará às entidades aduaneiras as isenções relativas a tráfego de passageiros que julgue que são devidas em relação às listas que lhe forem submetidas com os respectivos pedidos de isenção.\n\nArt. 17.º A execução do presente Regulamento inicia-se depois de decorridos trinta dias sobre a data da sua publicação no Diário do Governo.\n\nMarcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.\n\nPromulgado em 18 de Fevereiro de 1970.\n\nPublique-se.\n\nPresidência da República, 3 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "f818158e324abfa1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo em conta o disposto no artigo 5.º do [Decreto-Lei n.º 78/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1970-228439), de 3 de Março de 1970;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nREGULAMENTO DAS IMPOSIÇÕES MARÍTIMAS GERAIS\n\nDisposições gerais"
+  },
+  "a6a62f33824f19a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs imposições marítimas gerais, encargos do navio, compreendem as seguintes classes de impostos:\n\na) Imposto de tonelagem, devido pela entrada no porto;\n\nb) Imposto de comércio marítimo, devido pelo tráfego."
+  },
+  "dbc54fcba95307f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Para efeitos do disposto no presente Regulamento, considera-se navio entrado no porto o que for registado pela alfândega, recebendo a competente contramarca fiscal na estância aduaneira em cuja jurisdição estiver esse porto.\n\n2. O navio entrado no porto faz tráfego reservado à bandeira nacional quando o objecto do tráfego nesse porto provier e tenha por destino exclusivamente portos das zonas reservadas à bandeira nacional, embora nas respectivas viagens o navio efectue operações comerciais com portos estrangeiros.\n\nImposto de tonelagem"
+  },
+  "402b18ee32b13990": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As taxas a aplicar, por tonelada de arqueação bruta, no imposto de tonelagem serão as seguintes:\n\na) Navios de carga efectuando operações de carga e descarga ou só descarga ... 1$30\n\nb) Navios de carga efectuando sòmente operações de carga ... $70\n\nc) Navios de passageiros ... $40\n\nd) Navios que em determinado porto só façam tráfego reservado à bandeira nacional ... $15\n\n2. As taxas indicadas nas alíneas a), b) e c) do número anterior são aplicáveis no primeiro porto do continente e ilhas adjacentes em que o navio entrar, sendo reduzidas para 50 por cento nos portos seguintes em que o navio entre."
+  },
+  "117726763e2105e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPara os efeitos da liquidação do imposto de tonelagem consideram-se como um só os portos do Douro e Leixões, assim como os portos de Faro e Olhão e ainda Angra do Heroísmo e Vila da Praia da Vitória, mesmo que o navio faça operações comerciais em ambos os portos."
+  },
+  "422ebc742871efed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNos portos dos arquipélagos dos Açores e Madeira a taxa do imposto de tonelagem para os navios de passageiros e de carga, quando devido aquele imposto, é de $15."
+  },
+  "69cff9cd8e990465": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os barcos empregados em serviço de assistência e salvação pagarão imposto de tonelagem com a taxa de 1$25.\n\n2. Não havendo num determinado porto outros barcos para o mesmo fim, não será devido imposto de tonelagem quando o barco de salvação regresse do mar alto a esse porto sem ter efectuado quaisquer trabalhos de assistência ou salvação."
+  },
+  "3a3ea31ab0ee7019": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A tonelagem bruta a considerar no cálculo do imposto de tonelagem é a que consta do certificado de arqueação.\n\n2. À tonelagem bruta deve juntar-se a tonelagem dos espaços excluídos da arqueação bruta, quando tais espaços estejam ocupados por carga.\n\n3. A descrição dos espaços excluídos da arqueação bruta, caso existam, consta, em geral, do certificado de arqueação.\n\n4. Nos casos de dúvida sobre a aplicação das normas estabelecidas neste artigo pode a autoridade aduaneira consultar directamente a Direcção da Marinha Mercante.\n\n5. Para fiscalização do determinado no n.º 2 deverá o comandante entregar no acto da entrada, juntamente com os documentos descritos no Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, declaração da qual conste que os espaços a que se refere aquele número estão ou não ocupados."
+  },
+  "7ed6997644f88323": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs navios que, devido ao seu calado, para entrarem em certos portos precisam de, fora deles, fazer uma primeira descarga ou que, saindo, vão completar a carga fora do porto, pagam uma só vez o imposto de tonelagem.\n\nImposto de comércio marítimo"
+  },
+  "716c0b5cb7a5a772": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1973-05-16",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 242/73](https://diariodarepublica.pt/dr/detalhe/decreto/242-1973-422069), publicado em 1973-05-16."
+   ],
+   "markdown": "###### Artigo 9.º\n\n1. Os navios que entrem nos portos nacionais e neles realizem operações comerciais pagam imposto de comércio marítimo por toda a carga descarregada e pelos passageiros embarcados e desembarcados.\n\n2. As taxas a aplicar pelo tráfego que não é reservado à bandeira nacional são as seguintes:\n\na) Carga descarregada:\n\nPor cada tonelada métrica de trigo, milho e centeio ... $40\n\nPor cada tonelada métrica de minério de ferro, carvão mineral, óleos minerais em rama para destilação, óleos minerais pesados para combustão, enxofre, fosfatos em bruto e a granel e adubos para a agricultura, excepto superfosfatos ... 4$50\n\nPor cada tonelada métrica de qualquer outra mercadoria ... 15$00\n\nb) Passageiros desembarcados:\n\nCada um ... 20$00\n\nc) Passageiros embarcados:\n\nCada um ... 30$00\n\n3. Os navios portugueses e os das nações cujos tratados ou acordos comerciais com Portugal estipulam explícita ou implìcitamente bonificação no imposto de comércio marítimo pagam o imposto estabelecido na tabela do número anterior com redução de 25 por cento.\n\n4. Se os tratados ou acordos não especificarem tal redução, ela só será aplicada às cargas desembarcadas para o trânsito internacional, assim considerado do ponto de vista aduaneiro.\n\n5. As taxas a considerar pelo tráfego de carga que é reservado à bandeira nacional serão iguais a 2 por cento das indicadas na alínea a) do n.º 2 deste artigo.\n\n6. Aos barcos registados para a cabotagem ou que só façam tráfego nas zonas de cabotagem são aplicadas taxas iguais a 1 por cento das indicadas na alínea a) do n.º 2.\n\n7. Para os portos dos arquipélagos dos Açores e Madeira são reduzidas de 50 por cento, para os navios registados no longo curso, as taxas do imposto de comércio marítimo.\n\nIsenções\n\n> Alterado pelo/a [Decreto n.º 242/73](https://diariodarepublica.pt/dr/detalhe/decreto/242-1973-422069), publicado em 1973-05-16."
+  },
+  "7f7009f0a8ac028e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nSão isentos do imposto de tonelagem:\n\na) Os navios de guerra e os navios mercantes que os abasteçam, quando da mesma nacionalidade, havendo reciprocidade de tratamento, desde que não sejam efectuadas operações comerciais;\n\nb) Os navios do Estado Português;\n\nc) Os navios encarregados de missões científicas;\n\nd) Os navios das corporações nacionais de pilotos;\n\ne) Os navios nacionais registados para a navegação costeira;\n\nf) Os navios nacionais registados para a cabotagem;\n\ng) Os navios de passageiros que nos portos dos arquipélagos dos Açores e Madeira não realizem quaisquer operações comerciais além do embarque e desembarque de passageiros e que, quando efectuem simultâneamente operações de carga e descarga, a totalidade destas não ultrapasse as 50 t;\n\nh) Os navios de excursionistas que não façam operações comerciais além do embarque e desembarque de passageiros em excursão;\n\ni) Os navios de exposições que não façam operações comerciais;\n\nj) Os navios que limitem as operações comerciais ao embarque e desembarque de material de guerra, referido no [Decreto-Lei n.º 38707](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38707-1952-598090), de 31 de Março de 1952;\n\nl) Os navios que não façam operações comerciais e que tenham entrado, quer por motivo de arribada forçada, quer para efectuar reparações ou transformações, quer para meter combustível, mantimentos ou aguada para seu consumo, incluindo-se na arribada forçada os casos de reboque de corpos flutuantes abandonados no mar, mas não o reboque de assistência ou salvação de navio em perigo ou para efectuar sòmente as operações indicadas nas alíneas g) e h) do artigo 11.º;\n\nm) Os contentores flutuantes embarcados ou desembarcados em navios sujeitos ao imposto de tonelagem;\n\nn) Os rebocadores que reboquem material flutuante entrando em porto nacional para que aquele material seja reparado ou registado;\n\no) Os navios nacionais de pesca e os navios nacionais que transportem pescado de navios de pesca portugueses para portos nacionais, quer a baldeação do pescado se faça no alto mar, quer em portos nacionais ou estrangeiros, mesmo que o pescado tenha sido armazenado temporàriamente em terra para simples conservação;\n\np) Os barcos de recreio pertencentes a sociedades de desporto náutico ou a sócios efectivos das mesmas ou a indivíduos singulares, usados exclusivamente em recreio."
+  },
+  "8c22eab4fb68b281": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nSão isentos do imposto de comércio marítimo:\n\na) Os navios isentos do imposto de tonelagem pelo disposto nas alíneas a), b), c), d), e), g), h), i), j), l), n), o) e p) do artigo 10.º;\n\nb) O desembarque de mercadorias para se proceder a qualquer conserto de que um navio careça ou para saneamento no caso de quarentena;\n\nc) A venda de mercadorias avariadas ou a venda de alguma carga para custeamento das despesas do navio, quando o comandante justifique não poder levantar o dinheiro de outro modo para o fim indicado;\n\nd) A baldeação para outro navio de mercadorias trazidas por navios arribados por força maior que não possam ser transportadas nestes, ao seu destino, com a devida segurança, ou sejam susceptíveis de deterioração ou perda de valor pelo retardamento da sua expedição;\n\ne) A baldeação, quando permitida, a requerimento do comandante ou consignatário, de mercadorias que não dêem entrada na alfândega ou no cais;\n\nf) A reexportação de mercadoria que não chegue a sair de bordo;\n\ng) A descarga que se limite ao desembarque de mercadorias que deveriam ter sido descarregadas em viagens anteriores, de cujo manifesto fizessem parte;\n\nh) O desembarque de mercadorias que faziam parte da lista de sobresselentes das embarcações, junta ao processo do navio;\n\ni) O desembarque de automóveis e outros veículos usados que acompanhem os passageiros para seu uso e aos mesmos pertencentes;\n\nj) O desembarque de combustíveis para caldeiras ou para motores, destinados ao Estado;\n\nl) O desembarque de contentores ou paletas, quando a operação se faça por motivo da utilização do contentor ou paleta no tráfego de mercadorias, não sendo, porém, extensiva a isenção nem às mercadorias contidas nos contentores ou paletas, nem ao desembarque destes equipamentos quando mercadorias."
+  },
+  "6f6ce394a9177cb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nNão é devido imposto de comércio marítimo:\n\na) Pelos passageiros procedentes ou que seguem para portos do território português;\n\nb) Pelos náufragos, feridos por acidentes de mar, presos, indigentes, portugueses remetidos pelos consulados ou pelas autoridades locais da procedência, militares em serviço e pessoal em missão de serviços sanitários do Estado, assistência aos emigrantes, ou da Sociedade da Cruz Vermelha;\n\nc) Pelos funcionários diplomáticos e consulares portugueses e seus dependentes e os correios de gabinete, quando apresentem diploma especial passado pelo Ministério dos Negócios Estrangeiros;\n\nd) Pelo embarque e desembarque de funcionários diplomáticos estrangeiros, creditados em Portugal, e seus dependentes, quando os respectivos países concedam reciprocidade de tratamento;\n\ne) Pelo desembarque de passageiros de navios, arribados por força maior, impedidos de seguir viagem;\n\nf) Pelo embarque de passageiros em trânsito, provenientes de navios arribados por força maior;\n\ng) Pelos estudantes e pelos professores que viajem conjuntamente em excursão promovida pela escola respectiva;\n\nh) Pelos tripulantes que desembarcam de um navio e pelos indivíduos que se matriculam como tripulantes a bordo de navio nacional ou estrangeiro, obtida a indicação da qualidade de tripulante por informação das capitanias dos portos, no caso de navios portugueses, ou dos consulados, confirmada pela Direcção-Geral de Segurança, nos casos de navios estrangeiros;\n\ni) Pelos armadores ou membros dos corpos gerentes das empresas de navegação, suas famílias e criados respectivos, quando viajem em navios das suas próprias empresas.\n\nDisposições finais"
+  },
+  "d0a8b0d1b0f49497": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAs quantias devidas pelos impostos de tonelagem e de comércio marítimo entrarão em receita decorridos dois meses, a contar da data da contramarca fiscal de entrada, se antes desse prazo o navio não houver saído do porto."
+  },
+  "81e69e3724feea6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nQuando num porto se reconheça ter havido erro para menos na liquidação do imposto de tonelagem ou de comércio marítimo devidos em porto anterior, deve a alfândega respectiva exigir que essa diferença fique garantida por depósito, que só será liquidado perante certidão comprovativa de o proprietário do navio, armador ou seu representante haver pago na alfândega competente a quantia a menos cobrada."
+  },
+  "5b9b04ce99e51fa2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Haverá restituição do imposto de tonelagem ou de comércio marítimo pago a mais por erros de liquidação ou de classificação de navio cometidos e reconhecidos pela alfândega.\n\n2. O processo de restituição de que trata o presente artigo é organizado na alfândega onde a cobrança se houver efectuado e, se for motivado pela mudança de categoria do navio (de carga para passageiros), é instruído com informação da Direcção da Marinha Mercante.\n\n3. Em vez de restituição, podem a agência ou a empresa de navegação requerer encontro nos termos legais da quantia a mais paga em futuras liquidações de impostos de tonelagem ou de comércio marítimo que tiverem de efectuar na alfândega, observando-se no respectivo processo o disposto no parágrafo anterior."
+  },
+  "3121e818fe18cc35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. A Direcção da Marinha Mercante funcionará como organismo consultor das entidades que cobram as imposições.\n\n2. As empresas e agentes de navegação deverão remeter à Direcção da Marinha Mercante, até ao dia 30 de cada mês, duplicados de todas as listas de passageiros devidamente autenticadas por visto do Ministério do Interior, com o pedido de isenção de impostos, sempre que julguem que há lugar para isenção.\n\n3. Os duplicados das listas, mas sem vistos, deverão ser entregues quando não se julgue haver motivos para isenção de imposições.\n\n4. A Direcção da Marinha Mercante comunicará às entidades aduaneiras as isenções relativas a tráfego de passageiros que julgue que são devidas em relação às listas que lhe forem submetidas com os respectivos pedidos de isenção."
+  },
+  "b19c25ee28badfdf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA execução do presente Regulamento inicia-se depois de decorridos trinta dias sobre a data da sua publicação no Diário do Governo.\n\nMarcello Caetano - João Augusto Dias Rosas - Manuel Pereira Crespo.\n\nPromulgado em 18 de Fevereiro de 1970.\n\nPublique-se.\n\nPresidência da República, 3 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

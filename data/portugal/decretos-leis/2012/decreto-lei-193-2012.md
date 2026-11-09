@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2016-06-29'
+version_history:
+  file: decreto-lei-193-2012.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-08-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-06-29'
+    amending: pt:dre:74813524:por
+    amending_title: Decreto-Lei n.º 35/2016
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/193/2012/08/23/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:17:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 35/2016. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2012/decreto-lei-193-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -206,7 +223,7 @@ Ao abrigo do disposto no n.º 1 do artigo 16.º da [Lei n.º 3/2004](https://dia
 
 2 - São atribuições do IASFA, I. P.:
 
-a) Assegurar ações de bem-estar social dos beneficiários;
+a) Assegurar ações de bem-estar social dos beneficiários, no quadro da ação social complementar (ASC);
 
 b) Assegurar a gestão do sistema de assistência na doença aos militares das Forças Armadas (ADM);
 
@@ -220,25 +237,29 @@ f) Recolher e manter permanentemente atualizada informação sobre o universo de
 
 g) Promover a realização de estudos conducentes à melhoria da ação social complementar desenvolvida e propor as medidas ou os instrumentos legais necessários.
 
-3 - A ação social complementar dos beneficiários do IASFA, I. P. (ASC), concretiza-se, nomeadamente, através dos seguintes meios:
+h) Divulgar, anualmente, os resultados apurados, por atividade, no âmbito da gestão da ADM e da promoção da ASC.
 
-a) Equipamentos sociais;
+3 - A ASC concretiza-se através dos seguintes meios e de acordo com a seguinte priorização:
+
+a) Equipamentos sociais, nomeadamente de apoio à velhice;
 
 b) Apoio domiciliário;
 
-c) Comparticipações financeiras;
+c) Apoio à habitação, que se concretiza, nomeadamente, através da promoção do arrendamento social;
 
-d) Concessão de empréstimos;
+d) (Revogada.)
 
-e) Apoio à habitação.
+e) Comparticipações financeiras;
 
-4 - O apoio à habitação previsto na alínea e) do número anterior concretiza-se, nomeadamente, através da promoção do arrendamento social.
+4 - Outras ações que visem assegurar o bem-estar social dos beneficiários do IASFA, I. P., que não estejam previstas no número anterior, e que consubstanciem, nomeadamente, atividades de lazer, de turismo e de férias, alojamento temporário individual e serviços de restauração, devem ter retorno financeiro positivo ou neutro para o IASFA, I. P.
 
 5 - Compete ainda ao IASFA, I. P., garantir as ações de âmbito social consagradas no estatuto do extinto Cofre de Previdência das Forças Armadas, nomeadamente:
 
 a) Assegurar o pagamento do subsídio pecuniário a que se refere o artigo 3.º do Estatuto do Cofre de Previdência das Forças Armadas, aprovado pelo [Decreto-Lei n.º 42945](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42945-1960-281444), de 26 de abril de 1960;
 
 b) Assegurar o processamento dos empréstimos hipotecários que foram concedidos ao abrigo da alínea d) do parágrafo 1.º do artigo 35.º do Estatuto referido na alínea anterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 35/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2016-74813524), publicado em 2016-06-29.
 
 ###### Artigo 4.º — Beneficiários titulares da ASC
 
@@ -282,11 +303,11 @@ c) O conselho consultivo.
 
 ###### Artigo 7.º — Conselho diretivo
 
-1 - O conselho diretivo é composto por um presidente e por um vogal.
+1 - O conselho diretivo é composto por um presidente e por dois vogais.
 
-2 - O presidente pode ser designado de entre vice-almirantes ou tenentes-generais e o vogal pode ser designado de entre contra-almirantes e majores-generais dos ramos das Forças Armadas.
+2 - O presidente é designado de entre os oficiais generais, por despacho do membro do Governo responsável pela área da defesa nacional, devendo a designação apenas ser precedida de audição do Conselho de Chefes de Estado-Maior.
 
-3 - Nos casos previstos no número anterior, os membros do conselho diretivo são designados por despacho do membro do Governo responsável pela área da defesa nacional, sendo a designação apenas precedida de audição do Conselho de Chefes de Estado-Maior.
+3 - Os dois vogais são designados, na sequência de procedimento concursal, por despacho do membro do Governo responsável pela área da defesa nacional.
 
 4 - Sem prejuízo das competências que lhe forem conferidas por lei, ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo no âmbito da gestão do sistema ADM:
 
@@ -294,9 +315,11 @@ a) Celebrar acordos com outras entidades, públicas ou privadas, que tenham por 
 
 b) Confirmar a suspensão e a perda da qualidade de beneficiário.
 
-5 - O conselho diretivo pode delegar, com ou sem faculdade de subdelegação, competências num ou em ambos os seus membros, estabelecendo os respetivos limites e condições.
+5 - O conselho diretivo pode delegar, com ou sem faculdade de subdelegação, competências em qualquer dos seus membros, estabelecendo os respetivos limites e condições.
 
 6 - A atribuição de um pelouro implica a delegação das competências necessárias para dirigir e fiscalizar os serviços respetivos e para praticar os atos de gestão corrente das unidades orgânicas envolvidas.
+
+> Alterado pelo/a [Decreto-Lei n.º 35/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2016-74813524), publicado em 2016-06-29.
 
 ###### Artigo 8.º — Fiscal único
 
@@ -326,7 +349,9 @@ d) Um representante de cada associação profissional de militares legalmente co
 
 ###### Artigo 10.º — Vinculação do IASFA, I. P.
 
-O IASFA, I. P., obriga-se mediante as assinaturas do presidente do conselho diretivo, ou de quem o substituir, e do vogal.
+O IASFA, I. P., obriga-se mediante as assinaturas do presidente do conselho diretivo e de qualquer dos vogais.
+
+> Alterado pelo/a [Decreto-Lei n.º 35/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2016-74813524), publicado em 2016-06-29.
 
 ###### Artigo 11.º — Organização interna
 

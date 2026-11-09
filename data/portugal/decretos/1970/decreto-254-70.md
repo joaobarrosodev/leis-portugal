@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-12-26'
+version_history:
+  file: decreto-254-70.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1970-06-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-12-26'
+    amending: pt:dre:468273:por
+    amending_title: Decreto n.º 738/74
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:12:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 738/74. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1970/decreto-254-70.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -99,11 +114,15 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º - 1. É autorizado o Governo da província de Macau a prestar aval ao Banco de Fomento Nacional para garantia de um empréstimo a contrair pelo Leal Senado da Câmara de Macau, até ao montante de 25000 contos e respectivos encargos.
+###### Artigo 1.º
+
+1. É autorizado o Governo da província de Macau a prestar aval ao Banco de Fomento Nacional para garantia de um empréstimo a contrair pelo Leal Senado da Câmara de Macau, até ao montante de 25000 contos e respectivos encargos.
 
 2. Os fundos mutuados destinam-se exclusivamente a financiar, em condições idênticas às que o Banco estabelecer ao Leal Senado, os investimentos realizados e a realizar pela Melco - The Macao Electric Lighting Company, Ltd., nos anos de 1969, 1970 e 1971, com vista a melhorar e desenvolver os seus serviços de produção, transporte e distribuição de energia eléctrica.
 
-Art. 2.º - 1. O empréstimo terá um prazo de cinco anos, o qual poderá ser prorrogado por mais dois anos, mediante acordo prévio entre o Leal Senado da Câmara de Macau e o Banco de Fomento Nacional.
+###### Artigo 2.º
+
+1. O empréstimo terá um prazo de oito anos, pelo que o seu reembolso deverá ter lugar até 17 de Outubro de 1978.
 
 2. O empréstimo é passível, durante o período de utilização, de uma comissão semestral de 0,5 por cento sobre o seu montante total e de juros à taxa anual de 4 por cento sobre a parte efectivamente utilizada, e durante o período de amortização de juros à taxa de 5 por cento ao ano.
 
@@ -111,9 +130,15 @@ Art. 2.º - 1. O empréstimo terá um prazo de cinco anos, o qual poderá ser pr
 
 4. A amortização do empréstimo terá lugar em prestações semestrais, de montantes a acordar entre o Leal Senado e o Banco de Fomento Nacional, vencendo-se a primeira dois anos e meio após a celebração do contrato.
 
-Art. 3.º Os levantamentos por conta do empréstimo serão feitos à medida das necessidades da Melco, mediante a apresentação, pelo Leal Senado de Macau, de documentos comprovativos de despesas já realizadas ou a realizar imediatamente por aquela empresa no âmbito dos investimentos em causa.
+> Alterado pelo/a [Decreto n.º 738/74](https://diariodarepublica.pt/dr/detalhe/decreto/738-1974-468273), publicado em 1974-12-26.
 
-Art. 4.º Os encargos resultantes do empréstimo constituem despesa obrigatória e preferencial do Leal Senado da Câmara de Macau, devendo ser inscritas anualmente no seu orçamento privativo as verbas necessárias à sua liquidação.
+###### Artigo 3.º
+
+Os levantamentos por conta do empréstimo serão feitos à medida das necessidades da Melco, mediante a apresentação, pelo Leal Senado de Macau, de documentos comprovativos de despesas já realizadas ou a realizar imediatamente por aquela empresa no âmbito dos investimentos em causa.
+
+###### Artigo 4.º
+
+Os encargos resultantes do empréstimo constituem despesa obrigatória e preferencial do Leal Senado da Câmara de Macau, devendo ser inscritas anualmente no seu orçamento privativo as verbas necessárias à sua liquidação.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 

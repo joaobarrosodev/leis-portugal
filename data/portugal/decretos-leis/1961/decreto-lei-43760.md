@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-09-25'
+version_history:
+  file: decreto-lei-43760.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-06-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-09-25'
+    amending: pt:dre:412818:por
+    amending_title: Decreto-Lei n.º 476/73
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:37:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 476/73. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-43760.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -108,21 +124,37 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É criada no Ministério da Saúde e Assistência uma comissão de reapetrechamento dos hospitais, encarregada de submeter à aprovação dos Ministros das Finanças e da Saúde e Assistência os planos de aplicação da verba inscrita de acordo com o disposto no § único do artigo 12.º da [Lei n.º 2106](https://diariodarepublica.pt/dr/detalhe/lei/2106-1960-513578), de 21 de Dezembro de 1960, na despesa extraordinária do orçamento do Ministério da Saúde e Assistência.
+###### Artigo 1.º
 
-Art. 2.º A comissão será constituída pelo vice-presidente do Conselho Coordenador do Ministério da Saúde e Assistência, que presidirá, pelo director-geral da Contabilidade Pública e por um director-geral do Ministério da Saúde e Assistência ou por um administrador dos hospitais a designar pelo Ministro da Saúde e Assistência.
+É criada no Ministério da Saúde e Assistência uma comissão de reapetrechamento dos hospitais, encarregada de submeter à aprovação dos Ministros das Finanças e da Saúde e Assistência os planos de aplicação da verba inscrita de acordo com o disposto no § único do artigo 12.º da [Lei n.º 2106](https://diariodarepublica.pt/dr/detalhe/lei/2106-1960-513578), de 21 de Dezembro de 1960, na despesa extraordinária do orçamento do Ministério da Saúde e Assistência.
 
-Art. 3.º É autorizado o Ministro da Saúde e Assistência a constituir, mediante proposta da comissão, grupos de trabalho encarregados de averiguar as necessidades dos diferentes hospitais no que respeita a material.
+###### Artigo 2.º
 
-Art. 4.º Os membros da comissão, do conselho administrativo e dos grupos de trabalho terão direito a abono de ajudas de custo e de transportes quando se desloquem por motivo de serviço.
+A Comissão será constituída pelo secretário-geral do Ministério da Saúde e Assistência, que presidirá, por representantes do respectivo Gabinete de Estudos e Planeamento e dos directores-gerais da Contabilidade Pública, de Saúde e dos Hospitais.
+
+> Alterado pelo/a [Decreto-Lei n.º 476/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1973-412818), publicado em 1973-09-25.
+
+###### Artigo 3.º
+
+É autorizado o Ministro da Saúde e Assistência a constituir, mediante proposta da comissão, grupos de trabalho encarregados de averiguar as necessidades dos diferentes hospitais no que respeita a material.
+
+###### Artigo 4.º
+
+Os membros da comissão, do conselho administrativo e dos grupos de trabalho terão direito a abono de ajudas de custo e de transportes quando se desloquem por motivo de serviço.
 
 § único. Todos os encargos resultantes do presente diploma serão pagos pela verba global destinada ao reapetrechamento hospitalar.
 
-Art. 5.º A administração de fundos afectos ao reapetrechamento dos estabelecimentos hospitalares compete a um conselho administrativo constituído pelo director-geral da Contabilidade Pública, que presidirá, por um director-geral do Ministério da Saúde e Assistência a designar pelo respectivo Ministro e por um funcionário superior especializado em administração pública, que coadjuvará o presidente.
+###### Artigo 5.º
+
+A administração dos fundos afectos ao reapetrechamento dos estabelecimentos hospitalares compete a um conselho administrativo constituído por um representante da Contabilidade Pública, que presidirá, por representantes dos directores-gerais de Saúde e dos Hospitais e por um funcionário superior especializado em administração pública, que coadjuvará o presidente.
 
 § único. O funcionário superior referido no presente artigo será proposto pelo presidente do conselho administrativo, com o acordo dos Ministros das Finanças e da Saúde e Assistência.
 
-Art. 6.º Compete especialmente ao conselho administrativo:
+> Alterado pelo/a [Decreto-Lei n.º 476/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1973-412818), publicado em 1973-09-25.
+
+###### Artigo 6.º
+
+Compete especialmente ao conselho administrativo:
 
 1.º Promover a aquisição e distribuição do material destinado aos estabelecimentos hospitalares, de harmonia com o plano superiormente aprovado;
 
@@ -132,11 +164,15 @@ Art. 6.º Compete especialmente ao conselho administrativo:
 
 4.º Apresentar, dentro do prazo de 60 dias, as contas de cada ano de actividade da comissão à aprovação do Ministro da Saúde e Assistência e visto do Ministro das Finanças, os quais, a serem concedidos, legitimam a competente prestação de contas.
 
-Art. 7.º Os levantamentos de fundos por conta das verbas inscritas para os fins deste diploma serão efectuados em folhas especiais processadas pelo conselho administrativo e remetidas à 3.ª Repartição da Direcção-Geral da Contabilidade Pública para efeitos de autorização de pagamento; as respectivas importâncias serão depositadas, em conta especial, na Caixa Geral de Depósitos, Crédito e Previdência, fazendo-se a sua movimentação por meio de cheques assinados por dois dos membros.
+###### Artigo 7.º
+
+Os levantamentos de fundos por conta das verbas inscritas para os fins deste diploma serão efectuados em folhas especiais processadas pelo conselho administrativo e remetidas à 3.ª Repartição da Direcção-Geral da Contabilidade Pública para efeitos de autorização de pagamento; as respectivas importâncias serão depositadas, em conta especial, na Caixa Geral de Depósitos, Crédito e Previdência, fazendo-se a sua movimentação por meio de cheques assinados por dois dos membros.
 
 § único. Poderá o conselho administrativo manter em cofre um fundo permanente até à importância de 5000$00.
 
-Art. 8.º As remunerações certas serão fixadas por proposta do conselho administrativo, com o acordo dos Ministros das Finanças e da Saúde e Assistência. Estes abonos e as restantes despesas estão apenas sujeitos ao visto do diretor-geral da Contabilidade Pública.
+###### Artigo 8.º
+
+As remunerações certas serão fixadas por proposta do conselho administrativo, com o acordo dos Ministros das Finanças e da Saúde e Assistência. Estes abonos e as restantes despesas estão apenas sujeitos ao visto do diretor-geral da Contabilidade Pública.
 
 Publique-se e cumpra-se como nele se contém.
 

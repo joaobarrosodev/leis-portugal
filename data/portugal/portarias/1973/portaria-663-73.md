@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-02-26'
+version_history:
+  file: portaria-663-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-10-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-02-26'
+    amending: pt:dre:412991:por
+    amending_title: Portaria n.º 155/74
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T04:12:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 155/74. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1973/portaria-663-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,7 +131,9 @@ Assim:
 
 Manda o Governo da República Portuguesa, pelos Secretários de Estado do Comércio e da Indústria, ao abrigo do estabelecido no artigo 11.º do Regulamento de Preparação e Comércio de Alimentos para Animais e sob proposta da Comissão Técnica Permanente de Nutrição Animal, nos termos estabelecidos na alínea c) do artigo 10.º do mesmo Regulamento e ainda ouvida a competente Comissão Técnica de Normalização, o seguinte:
 
-Artigo 1.º Os alimentos compostos para animais, além do disposto no Regulamento de Preparação e Comércio de Alimentos para Animais, deverão obedecer às designações, tipos, características e condições seguintes:
+###### Artigo 1.º
+
+Os alimentos compostos para animais, além do disposto no Regulamento de Preparação e Comércio de Alimentos para Animais, deverão obedecer às designações, tipos, características e condições seguintes:
 
 1.º As designações, tipos e características serão os constantes do quadro anexo a este diploma.
 
@@ -124,11 +143,15 @@ b) O teor mínimo de gordura para os alimentos a que correspondem as designaçõ
 
 3.º O valor da proteína bruta solubilizada pela pepsina em HCl dos alimentos compostos para aves, suínos e ruminantes jovens não deverá ser inferior a 80% e nos restantes alimentos compostos a 75% do valor da proteína bruta.
 
-4.º Os alimentos compostos melaçados deverão conter o mínimo de 14% de açúcares totais expressos em sacarose. O teor máximo em água destes alimentos não poderá exceder 16%.
+4.º Os alimentos compostos melaçados deverão conter um mínimo de 4% de açúcares totais expressos em sacarose. O teor máximo em água destes alimentos não poderá exceder 16%.
 
 5.º A designação referida no § 1.º do artigo 11.º do Regulamento de Preparação e Comércio de Alimentos para Animais para qualquer outro alimento que não conste da lista integrada no quadro referido no n.º 1.º será proposta pela competente Comissão Técnica de Normalização.
 
-Art. 2.º A inclusão de ureia ou de biureto nos alimentos compostos para animais é permitida em alimentos compostos complementares e complementares proteicos destinados a ruminantes nas seguintes condições:
+> Alterado pelo/a [Portaria n.º 155/74](https://diariodarepublica.pt/dr/detalhe/portaria/155-1974-412991), publicado em 1974-02-26.
+
+###### Artigo 2.º
+
+A inclusão de ureia ou de biureto nos alimentos compostos para animais é permitida em alimentos compostos complementares e complementares proteicos destinados a ruminantes nas seguintes condições:
 
 § 1.º A incorporação de ureia ou de biureto nos alimentos compostos para animais, sem prejuízo do estabelecido na alínea c) do § 2.º, só é permitida nos alimentos constantes do quadro seguinte, devendo ser respeitadas as percentagens máximas nele contidas:
 
@@ -150,7 +173,9 @@ d) Forma de administração destes alimentos, devendo ser indicadas, pelo menos,
 
 No estabelecimento desta prescrição, a empresa responsável pelo alimento deverá ter em consideração, de acordo com a percentagem de ureia ou biureto incorporada, que as quantidades máximas destes produtos, por dia e por 100 kg de peso vivo, deverão ser, respectivamente, de 30 g e 36 g.
 
-Art. 3.º Para efeitos de comercialização, os alimentos compostos deverão ser convenientemente acondicionados, de forma inviolável, em embalagens perdidas, e acompanhados de dísticos, rótulos ou etiquetas, dos quais deverão constar obrigatoriamente:
+###### Artigo 3.º
+
+Para efeitos de comercialização, os alimentos compostos deverão ser convenientemente acondicionados, de forma inviolável, em embalagens perdidas, e acompanhados de dísticos, rótulos ou etiquetas, dos quais deverão constar obrigatoriamente:
 
 a) Nome da empresa industrial ou comercial responsável;
 
@@ -174,7 +199,7 @@ i) Outras indicações julgadas convenientes pela empresa responsável.
 
 § 1.º Quando a incorporação de suplementos alimentares ou aditivos for voluntariamente mencionada ou declarada, nos termos da legislação que vier a ser publicada sobre a matéria, deverá indicar-se a quantidade, por quilograma de alimento composto, de cada um dos elementos activos que o constituem e o prazo durante o qual o fabricante garante a sua actividade biológica.
 
-§ 2.º Quando haja incorporação de melaços, deverá apor-se, devidamente destacada, a designação «Melaçado».
+§ 2.º Quando haja incorporação de melaços acima de 5%, deverá apor-se, devidamente destacada, a designação «Melaçado».
 
 § 3.º Todas as indicações contidas nos dísticos, rótulos ou etiquetas são da exclusiva responsabilidade das empresas a que se refere a alínea a) deste artigo.
 
@@ -200,14 +225,24 @@ No cálculo e fixação das tolerâncias estabelecidas em percentagem dos teores
 
 § 5.º No caso de se tratar de embalagens de papel ou de cartão, devem estas ser fabricadas com pastas isentas de materiais de recuperação de papéis ou trapos; se se tratar de embalagens confeccionadas com matérias plásticas artificiais ou de outro material, não devem estas originar qualquer inconveniente para a saúde dos animais.
 
-Art. 4.º É permitida a comercialização dos alimentos compostos a granel desde que obedeça às seguintes condições:
+> Alterado pelo/a [Portaria n.º 155/74](https://diariodarepublica.pt/dr/detalhe/portaria/155-1974-412991), publicado em 1974-02-26.
+
+###### Artigo 4.º
+
+É permitida a comercialização dos alimentos compostos a granel desde que obedeça às seguintes condições:
 
 a) Que os produtos sejam expedidos directamente das fábricas para as explorações pecuárias utilizadoras e transportados em veículos apetrechados com contentores adequados;
 
 b) Serem acompanhados de guia de remessa, passada pelo fabricante, onde obrigatoriamente deverão constar as indicações exigidas nos termos do artigo 3.º desta portaria.
 
-Art. 5.º São revogados os artigos 8.º e 9.º da [Portaria n.º 22767](https://diariodarepublica.pt/dr/detalhe/portaria/22767-1967-314055), de 5 de Julho de 1967, e as Portarias n.os 22921, de 23 de Setembro de 1967, e n.º 23896, de 4 de Fevereiro de 1969.
+###### Artigo 5.º
 
-Art. 6.º Esta portaria entra imediatamente em vigor, excepto no que respeita às designações, tipos e características mencionados no artigo 1.º e ao estipulado no artigo 3.º, em que é dado o prazo de cento e vinte dias para elaboração de novas etiquetas e de cento e oitenta dias para efeitos de fiscalização, a partir da data da sua publicação.
+São revogados os artigos 6.º, 8.º e 9.º da [Portaria n.º 22767](https://diariodarepublica.pt/dr/detalhe/portaria/22767-1967-314055), de 5 de Julho de 1967, e as Portarias n.º 22921, de 23 de Setembro de 1967, e n.º 23896, de 4 de Fevereiro de 1969.
+
+> Alterado pelo/a [Portaria n.º 155/74](https://diariodarepublica.pt/dr/detalhe/portaria/155-1974-412991), publicado em 1974-02-26.
+
+###### Artigo 6.º
+
+Esta portaria entra imediatamente em vigor, excepto no que respeita às designações, tipos e características mencionados no artigo 1.º e ao estipulado no artigo 3.º, em que é dado o prazo de cento e vinte dias para elaboração de novas etiquetas e de cento e oitenta dias para efeitos de fiscalização, a partir da data da sua publicação.
 
 Secretarias de Estado do Comércio e da Indústria, 6 de Setembro de 1973. - O Secretário de Estado do Comércio, Alexandre de Azeredo Vaz Pinto. - O Secretário de Estado da Indústria, Hermes Augusto dos Santos.

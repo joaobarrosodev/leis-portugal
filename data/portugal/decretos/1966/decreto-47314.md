@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-04-09'
+version_history:
+  file: decreto-47314.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1966-11-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-04-09'
+    amending: pt:dre:225847:por
+    amending_title: Decreto n.º 146/70
+    changes:
+    - Altera Artigo 34.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:53:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 146/70. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1966/decreto-47314.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,7 +161,9 @@ Do arrendamento rural em Cabo Verde
 
 ### CAPÍTULO I — Disposições gerais
 
-Artigo 1.º - 1. Na província de Cabo Verde, o arrendamento de prédios rústicos para fins agrícolas, pecuários ou florestais denomina-se arrendamento rural e consiste na transferência para o locatário, por certo tempo e mediante determinada retribuição, do uso e fruição do prédio nas condições de uma exploração regular.
+###### Artigo 1.º
+
+1. Na província de Cabo Verde, o arrendamento de prédios rústicos para fins agrícolas, pecuários ou florestais denomina-se arrendamento rural e consiste na transferência para o locatário, por certo tempo e mediante determinada retribuição, do uso e fruição do prédio nas condições de uma exploração regular.
 
 2. Se o arrendamento recair sobre o prédio rústico, e do contrato e respectivas circunstâncias não resultar o destino atribuído ao prédio, presumir-se-á que o arrendamento é rural. Exceptuam-se os arrendamentos em que intervenha como arrendatária qualquer pessoa colectiva de direito público, os quais se entendem celebrados para fins de interesse público.
 
@@ -154,11 +171,15 @@ Artigo 1.º - 1. Na província de Cabo Verde, o arrendamento de prédios rústic
 
 4. Nos contratos mistos de arrendamento e parceria considera-se predominante o regime do contrato de arrendamento.
 
-Art. 2.º - 1. O prédio ou prédios presumem-se sempre arrendados com todas as suas partes integrantes; mas, salvo usos e costumes em contrário, as coisas acessórias só se consideram compreendidas no arrendamento se tiverem sido expressamente mencionadas em documento escrito.
+###### Artigo 2.º
+
+1. O prédio ou prédios presumem-se sempre arrendados com todas as suas partes integrantes; mas, salvo usos e costumes em contrário, as coisas acessórias só se consideram compreendidas no arrendamento se tiverem sido expressamente mencionadas em documento escrito.
 
 2. A locação das coisas acessórias é aplicável, salvo estipulação ou uso e costume em contrário, o regime do respectivo arrendamento.
 
-Art. 3.º - 1. O arrendamento rural será sempre reduzido a escrito e assinado pelo senhorio e arrendatário, sem necessidade da intervenção notarial ou da entidade referida na parte final do n.º 4.
+###### Artigo 3.º
+
+1. O arrendamento rural será sempre reduzido a escrito e assinado pelo senhorio e arrendatário, sem necessidade da intervenção notarial ou da entidade referida na parte final do n.º 4.
 
 2. Se qualquer deles não puder ou não souber escrever, as suas assinaturas serão feitas a rogo, com a assistência e assinatura de duas testemunhas, em presença do notário ou da entidade referida no n.º 4 deste artigo, que assim o certifique.
 
@@ -180,7 +201,9 @@ c) Se o contrato representa o livre acordo dos contraentes.
 
 8. Os contratos celebrados na forma deste artigo estão livres de quaisquer encargos.
 
-Art. 4.º - 1. São absolutamente nulas, considerando-se como não escritas, as cláusulas em virtude das quais:
+###### Artigo 4.º
+
+1. São absolutamente nulas, considerando-se como não escritas, as cláusulas em virtude das quais:
 
 a) O arrendatário se obrigue, por qualquer título, a serviços que não devam ser prestados em benefício directo do prédio, ou se sujeite a encargos extraordinários ou casuais não compreendidos na renda;
 
@@ -196,13 +219,17 @@ f) Qualquer dos contraentes renuncie ao direito de pedir a rescisão do contrato
 
 2. Se os prémios de seguro ou as contribuições acresciam à renda estipulada, será esta aumentada das respectivas importâncias, na medida em que não ultrapassar o limite da renda justa.
 
-Art. 5.º - 1. São anuláveis as cláusulas concernentes à técnica cultural que constituam obstáculo ao aumento da rentabilidade do prédio e não sejam justificadas pela necessidade de preservar a fertilidade da terra.
+###### Artigo 5.º
+
+1. São anuláveis as cláusulas concernentes à técnica cultural que constituam obstáculo ao aumento da rentabilidade do prédio e não sejam justificadas pela necessidade de preservar a fertilidade da terra.
 
 2. É competente para conhecer do pedido de anulação a comissão arbitral a que se referem os artigos 34.º e seguintes.
 
 3. Têm legitimidade para formular o pedido qualquer dos contraentes e o Ministério Público quando o governador lho ordene, através do serviço competente,
 
-Art. 6.º - 1. Os arrendamentos rurais não podem ser celebrados por menos de três anos. Se for estabelecido prazo mais curto, valerão por aquele prazo.
+###### Artigo 6.º
+
+1. Os arrendamentos rurais não podem ser celebrados por menos de três anos. Se for estabelecido prazo mais curto, valerão por aquele prazo.
 
 2. Findo o prazo referido no número anterior, ou o convencionado, se for superior, presume-se renovado o contrato por mais três anos, e assim sucessivamente, se o arrendatário se não tiver despedido ou o senhorio o não despedir, no tempo e pela forma designados no Código de Processo Civil.
 
@@ -210,25 +237,35 @@ Art. 6.º - 1. Os arrendamentos rurais não podem ser celebrados por menos de tr
 
 4. Os órgãos legislativos da província poderão aumentar os prazos mínimos estabelecidos nos números anteriores, tendo em conta a diferenciação regional, as convenientes rotações culturais e a estabilidade dos arrendatários.
 
-Art. 7.º - 1. O senhorio não poderá opor-se às três primeiras renovações, salvo nos casos indicados no artigo 25.º, ou se pretender explorar o prédio, pelo prazo mínimo de seis anos, por conta própria ou por seus descendentes e fizer a prova de não possuir outros bens que excedam o valor dos bens arrendados.
+###### Artigo 7.º
+
+1. O senhorio não poderá opor-se às três primeiras renovações, salvo nos casos indicados no artigo 25.º, ou se pretender explorar o prédio, pelo prazo mínimo de seis anos, por conta própria ou por seus descendentes e fizer a prova de não possuir outros bens que excedam o valor dos bens arrendados.
 
 2. Se o senhorio ou seus descendentes deixarem de explorar o prédio no decurso do prazo de seis anos, sem motivo de força maior, o arrendatário cessante terá direito a uma indemnização equivalente ao rendimento ilíquido do prédio, correspondente ao tempo durante o qual esteja impossibilitado de continuar o arrendamento. Além disso, terá direito a reocupar o prédio, principiando de novo a contar-se o prazo inicial do contrato.
 
-Art. 8.º - 1. Os arrendamentos não podem celebrar-se por mais de 30 anos; quando estipulados por tempo superior ou como contratos perpétuos, serão reduzidos àquele prazo.
+###### Artigo 8.º
+
+1. Os arrendamentos não podem celebrar-se por mais de 30 anos; quando estipulados por tempo superior ou como contratos perpétuos, serão reduzidos àquele prazo.
 
 2. Exceptuam-se os arrendamentos para exploração florestal, os quais podem ser celebrados pelo prazo máximo de 99 anos. Se forem convencionados prazos superiores, serão reduzidos àquele limite.
 
-Art. 9.º - 1. Ficam sujeitos a registos os arrendamentos cujo prazo inicial seja superior a três anos.
+###### Artigo 9.º
+
+1. Ficam sujeitos a registos os arrendamentos cujo prazo inicial seja superior a três anos.
 
 2. Os arrendamentos sujeitos a registo devem constar de escritura pública; mas a falta desta não impede que o contrato subsista pelo prazo convencionado.
 
-Art. 10.º - 1. A renda será fixada pelos contraentes, em dinheiro ou em géneros que sejam normalmente produzidos pelo prédio, à escolha do arrendatário, no momento da celebração do contrato e dentro dos limites em que deve ser considerada justa.
+###### Artigo 10.º
+
+1. A renda será fixada pelos contraentes, em dinheiro ou em géneros que sejam normalmente produzidos pelo prédio, à escolha do arrendatário, no momento da celebração do contrato e dentro dos limites em que deve ser considerada justa.
 
 2. Se, nos termos do número anterior, a renda for fixada em géneros que, por qualquer motivo, incluindo a alteração de culturas, o prédio deixar de produzir, a renda será paga pelo valor deles ao preço médio dos três anos imediatamente anteriores.
 
 3. A renda vence-se, salvo estipulação em contrário, no último dia de cada ano agrícola, contando-se o ano data a data, a partir do início do prazo do contrato.
 
-Art. 11.º - 1. Decorridos três anos após o início do contrato, é permitida a revisão da renda, a pedido de qualquer dos contraentes.
+###### Artigo 11.º
+
+1. Decorridos três anos após o início do contrato, é permitida a revisão da renda, a pedido de qualquer dos contraentes.
 
 2. A renda poderá ser revista, a pedido dos contraentes, no termo do prazo do contrato ou do das renovações, desde que tenham decorrido pelo menos seis anos a partir da última revisão.
 
@@ -236,11 +273,15 @@ Art. 11.º - 1. Decorridos três anos após o início do contrato, é permitida 
 
 4. Salvo casos especiais previstos neste decreto, o montante da renda fixada pelas comissões arbitrais não poderá ser alterado durante o período de seis anos, indicado no n.º 2 deste artigo, ainda que, por motivo de despedimento do arrendatário, o senhorio celebre novo contrato de arrendamento.
 
-Art. 12.º - 1. O governador da província poderá estabelecer para cada região ou tipo de exploração os limites máximos e mínimos das rendas, relacionando-as, quando conveniente, com o rendimento colectável. Para esse efeito, ouvirá, sempre que possível e pelo processo que julgar conveniente, representantes dos senhorios e dos arrendatários interessados ou a comissão arbitral prevista nos artigos 34.º e seguintes.
+###### Artigo 12.º
+
+1. O governador da província poderá estabelecer para cada região ou tipo de exploração os limites máximos e mínimos das rendas, relacionando-as, quando conveniente, com o rendimento colectável. Para esse efeito, ouvirá, sempre que possível e pelo processo que julgar conveniente, representantes dos senhorios e dos arrendatários interessados ou a comissão arbitral prevista nos artigos 34.º e seguintes.
 
 2. As rendas contratuais que se contenham dentro dos limites fixados consideram-se justas.
 
-Art. 13.º - 1. Quando, por causas imprevisíveis ou fortuitas, como inundações que não permitam culturas de recurso, estiagens extraordinárias, ciclones, outros acidentes meteorológicos ou geológicos e pragas de natureza excepcional, o prédio não produziu frutos ou os frutos pendentes se perderam em quantidade não inferior, no todo, a metade dos que produziria normalmente, o arrendatário pode pedir a redução equitativa da renda.
+###### Artigo 13.º
+
+1. Quando, por causas imprevisíveis ou fortuitas, como inundações que não permitam culturas de recurso, estiagens extraordinárias, ciclones, outros acidentes meteorológicos ou geológicos e pragas de natureza excepcional, o prédio não produziu frutos ou os frutos pendentes se perderam em quantidade não inferior, no todo, a metade dos que produziria normalmente, o arrendatário pode pedir a redução equitativa da renda.
 
 2. O exercício dos direitos facultados no n.º 1 ao arrendatário fica dependente de aviso ao senhorio, de modo a permitir-lhe a verificação dos prejuízos.
 
@@ -250,7 +291,9 @@ Art. 13.º - 1. Quando, por causas imprevisíveis ou fortuitas, como inundaçõe
 
 5. O pedido de redução da renda deverá ser formulado ao senhorio dentro dos 30 dias seguintes à cessação da causa que deu origem aos prejuízos.
 
-Art. 14.º - 1. Quando as causas imprevisíveis ou fortuitas, referidas no n.º 1 do artigo anterior, foram reconhecidas oficialmente, por portaria publicada no Boletim Oficial, o regime de redução da renda será estabelecido em diploma legal da província.
+###### Artigo 14.º
+
+1. Quando as causas imprevisíveis ou fortuitas, referidas no n.º 1 do artigo anterior, foram reconhecidas oficialmente, por portaria publicada no Boletim Oficial, o regime de redução da renda será estabelecido em diploma legal da província.
 
 2. O reconhecimento oficial implicará a redução da contribuição predial rústica, conforme for estabelecido em diploma legal da província.
 
@@ -258,11 +301,17 @@ Art. 14.º - 1. Quando as causas imprevisíveis ou fortuitas, referidas no n.º 
 
 4. Os pedidos de redução de renda nos casos prevenidos neste artigo deverão ser feitos à comissão arbitral no prazo de 30 dias, e esta, por sua vez, notificará o senhorio no menor prazo possível. Aquele prazo conta-se a partir da data da afixação dos editais referidos no número anterior.
 
-Art. 15.º Nos pedidos de redução das rendas deverá ter-se em consideração, se for caso disso, a influência da eventual incúria do arrendatário no montante dos prejuízos, por não ter procedido como lhe impunha a normal conservação do, prédio, competindo à comissão arbitral a apreciação desse facto em caso de desacordo.
+###### Artigo 15.º
 
-Art. 16.º Se, por virtude de nova lei ou de providências tomadas pela Administração ou empresas concessionárias, for alterada a rentabilidade do prédio, qualquer dos contraentes pode, conforme os casos, pedir o aumento ou a redução equitativa da renda.
+Nos pedidos de redução das rendas deverá ter-se em consideração, se for caso disso, a influência da eventual incúria do arrendatário no montante dos prejuízos, por não ter procedido como lhe impunha a normal conservação do, prédio, competindo à comissão arbitral a apreciação desse facto em caso de desacordo.
 
-Art. 17.º - 1. O senhorio pode fazer as benfeitorias que não alterem a exploração normal e todas as demais que sejam consentidas pelo arrendatário ou autorizadas pela comissão arbitral.
+###### Artigo 16.º
+
+Se, por virtude de nova lei ou de providências tomadas pela Administração ou empresas concessionárias, for alterada a rentabilidade do prédio, qualquer dos contraentes pode, conforme os casos, pedir o aumento ou a redução equitativa da renda.
+
+###### Artigo 17.º
+
+1. O senhorio pode fazer as benfeitorias que não alterem a exploração normal e todas as demais que sejam consentidas pelo arrendatário ou autorizadas pela comissão arbitral.
 
 2. O senhorio indemnizará o arrendatário pelos prejuízos que lhe causaram as obras.
 
@@ -274,7 +323,9 @@ Art. 17.º - 1. O senhorio pode fazer as benfeitorias que não alterem a explora
 
 6. O prazo para o arrendatário pedir a fixação da renda justa é de 30 dias a partir da recepção da notificação pelo senhorio do aumento da renda.
 
-Art. 18.º - 1. O arrendatário pode fazer benfeitorias úteis ou voluptuárias sem consentimento do proprietário, salvo se afectarem a substância do prédio ou o seu destino económico.
+###### Artigo 18.º
+
+1. O arrendatário pode fazer benfeitorias úteis ou voluptuárias sem consentimento do proprietário, salvo se afectarem a substância do prédio ou o seu destino económico.
 
 2. Se houver consentimento por escrito ou se este tiver sido suprido pela comissão arbitral, o arrendatário, findo o contrato, tem direito a exigir o valor das benfeitorias úteis que não levantar.
 
@@ -288,35 +339,49 @@ Art. 18.º - 1. O arrendatário pode fazer benfeitorias úteis ou voluptuárias 
 
 7. O arrendatário goza do direito de retenção enquanto não estiver pago das benfeitorias úteis, mas o proprietário poderá obter o despejo desde que garanta o pagamento com hipoteca ou preste caução.
 
-Art. 19.º - 1. O arrendatário pode levantar, até ao termo do contrato, as benfeitorias úteis ou voluptuárias que tenha feito, se o puder fazer sem detrimento e sem que o nível de produtividade do prédio fique prejudicado. Cessa neste caso, em relação às benfeitorias úteis levantadas, o direito conferido no n.º 2 do artigo anterior.
+###### Artigo 19.º
+
+1. O arrendatário pode levantar, até ao termo do contrato, as benfeitorias úteis ou voluptuárias que tenha feito, se o puder fazer sem detrimento e sem que o nível de produtividade do prédio fique prejudicado. Cessa neste caso, em relação às benfeitorias úteis levantadas, o direito conferido no n.º 2 do artigo anterior.
 
 2. As benfeitorias só poderão, porém, ser levantadas depois de a comissão arbitral declarar que não se verificam as circunstâncias de que o corpo do artigo faz depender o levantamento.
 
-Art. 20.º - 1. A não renovação do contrato não dispensa o arrendatário da obrigação de assegurar para futuro a produtividade normal do prédio.
+###### Artigo 20.º
+
+1. A não renovação do contrato não dispensa o arrendatário da obrigação de assegurar para futuro a produtividade normal do prédio.
 
 2. Exceptua-se a prática de actos que já não possam trazer qualquer proveito ao arrendatário cessante; mas, neste caso, não tem ele direito a opor-se a que o senhorio promova os trabalhos necessários para assegurar aquela produtividade, desde que o faça sem prejuízo para o arrendatário ou o indemnize dos danos que lhe causar.
 
-Art. 21.º - 1. É proibido o subarrendamento total.
+###### Artigo 21.º
+
+1. É proibido o subarrendamento total.
 
 2. O subarrendamento parcial é permitido quando autorizado, para cada caso, pelo senhorio.
 
 3. A cessão do direito ao arrendamento é também permitida quando autorizada pelo senhorio.
 
-Art. 22.º - 1. São aplicáveis aos arrendamentos rurais os artigos 14.º e 17.º do [Decreto n.º 43525](https://diariodarepublica.pt/dr/detalhe/decreto/43525-1961-561040), de 7 de Março de 1961.
+###### Artigo 22.º
+
+1. São aplicáveis aos arrendamentos rurais os artigos 14.º e 17.º do [Decreto n.º 43525](https://diariodarepublica.pt/dr/detalhe/decreto/43525-1961-561040), de 7 de Março de 1961.
 
 2. Em qualquer dos casos, os arrendamentos só se consideram resolvidos no fim do ano agrícola em curso.
 
-Art. 23.º - 1. Os arrendamentos não caducam por morte do senhorio nem pela transmissão do prédio, seja qual for a natureza da transmissão.
+###### Artigo 23.º
+
+1. Os arrendamentos não caducam por morte do senhorio nem pela transmissão do prédio, seja qual for a natureza da transmissão.
 
 2. O arrendamento também não caduca por morte do arrendatário se este deixar cônjuge ou descendentes que, habitando ou cultivando o prédio arrendado, queiram manter o contrato. Quando estas circunstâncias se não verifiquem, a denúncia pelo senhorio será efectuada nos três meses seguintes à morte, mas só produz efeitos no fim do ano agrícola que estiver em curso naquele prazo.
 
-Art. 24.º - 1. A expropriação do prédio por utilidade pública importa a caducidade do arrendamento.
+###### Artigo 24.º
+
+1. A expropriação do prédio por utilidade pública importa a caducidade do arrendamento.
 
 2. Se a expropriação for total, o arrendamento é considerado como encargo autónomo para o efeito de o arrendatário ser indemnizado pelo expropriante. Nesta indemnização será considerado, além do valor dos frutos pendentes ou das colheitas inutilizadas, acrescido das importâncias a que se refere o artigo 18.º, o prejuízo do arrendatário pela cessação da exploração em função do tempo que faltar para o termo do contrato.
 
 3. Se a expropriação for parcial, o arrendatário, independentemente dos direitos facultados no número anterior em relação à parte expropriada, pode optar pela resolução do contrato ou pela diminuição proporcional da renda.
 
-Art. 25.º O senhorio pode obter o despejo imediato do prédio arrendado, sem prejuízo do direito à reparação por perdas e danos, quando o arrendatário:
+###### Artigo 25.º
+
+O senhorio pode obter o despejo imediato do prédio arrendado, sem prejuízo do direito à reparação por perdas e danos, quando o arrendatário:
 
 a) Tiver faltado ao cumprimento de alguma obrigação contratual ou legal;
 
@@ -326,9 +391,13 @@ c) Não tiver velado pela boa conservação dos bens ou cause prejuízos graves 
 
 ### CAPÍTULO II — Disposições especiais
 
-Art. 26.º Se o arrendatário for cultivador directo, o direito conferido no n.º 2 do artigo 18.º não depende do consentimento do proprietário, mas não gozará do direito de retenção quando as benfeitorias não tenham sido autorizadas.
+###### Artigo 26.º
 
-Art. 27.º - 1. O arrendatário que for cultivador directo tem direito de preferência na compra do prédio arrendado, salvo se a venda tiver por fim pôr termo a uma indivisão.
+Se o arrendatário for cultivador directo, o direito conferido no n.º 2 do artigo 18.º não depende do consentimento do proprietário, mas não gozará do direito de retenção quando as benfeitorias não tenham sido autorizadas.
+
+###### Artigo 27.º
+
+1. O arrendatário que for cultivador directo tem direito de preferência na compra do prédio arrendado, salvo se a venda tiver por fim pôr termo a uma indivisão.
 
 2. Havendo vários arrendatários, o direito de preferência poderá ser exercido em conjunto.
 
@@ -336,19 +405,27 @@ Art. 27.º - 1. O arrendatário que for cultivador directo tem direito de prefer
 
 4. Aos arrendatários nas condições deste preceito poderão ser concedidos empréstimos pelo Estado, através da Caixa de Crédito Agro-Pecuário de Cabo Verde, para efectuarem a compra de prédios por eles arrendados.
 
-Art. 28.º - 1. Para efeitos do disposto no presente capítulo, considera-se cultivador directo o arrendatário que explore o prédio, exclusivamente ou predominantemente, com o seu próprio trabalho ou de pessoas do seu agregado familiar.
+###### Artigo 28.º
+
+1. Para efeitos do disposto no presente capítulo, considera-se cultivador directo o arrendatário que explore o prédio, exclusivamente ou predominantemente, com o seu próprio trabalho ou de pessoas do seu agregado familiar.
 
 2. Por agregado familiar entende-se o conjunto de pessoas ligadas entre si por qualquer grau de parentesco que vivam habitualmente em comunhão de mesa e habitação com o arrendatário e, bem assim, os trabalhadores ao seu serviço, ou simples serviçais, vivendo em idêntico regime.
 
 ### CAPÍTULO III — Da parceria agrícola
 
-Art. 29.º São aplicáveis, com as necessárias adaptações, à parceria agrícola as disposições dos capítulos anteriores, em tudo o que não for regulado por disposições especiais.
+###### Artigo 29.º
 
-Art. 30.º - 1. O contrato de parceria estipulará a qual dos parceiros pertence a gestão da empresa ou em que medida nela deve participar cada um dos parceiros.
+São aplicáveis, com as necessárias adaptações, à parceria agrícola as disposições dos capítulos anteriores, em tudo o que não for regulado por disposições especiais.
+
+###### Artigo 30.º
+
+1. O contrato de parceria estipulará a qual dos parceiros pertence a gestão da empresa ou em que medida nela deve participar cada um dos parceiros.
 
 2. Na falta de estipulação, a gestão pertencerá ao cultivador.
 
-Art. 31.º - 1. Compete aos contraentes a fixação da quota de frutos, que, todavia, poderá ser revista nos termos do artigo 11.º
+###### Artigo 31.º
+
+1. Compete aos contraentes a fixação da quota de frutos, que, todavia, poderá ser revista nos termos do artigo 11.º
 
 2. A comissão arbitral, caso tenha de intervir, fixará a quota justa, tendo em consideração a contribuição de cada um dos parceiros.
 
@@ -356,47 +433,77 @@ Art. 31.º - 1. Compete aos contraentes a fixação da quota de frutos, que, tod
 
 4. Consideram-se justas as quotas que se contenham dentro dos limites estabelecidos pelo Governo da província, devendo observar-se, com as necessárias adaptações, o artigo 12.º
 
-Art. 32.º - 1. São exclusivamente de conta do proprietário as benfeitorias necessárias e as destinadas a manter a capacidade produtiva do prédio. Se o proprietário as não fizer, o cultivador poderá substituir-se ao proprietário na execução das obras, depois de obtida a autorização da comissão arbitral, ficando com direito a ser reembolsado das respectivas despesas.
+###### Artigo 32.º
+
+1. São exclusivamente de conta do proprietário as benfeitorias necessárias e as destinadas a manter a capacidade produtiva do prédio. Se o proprietário as não fizer, o cultivador poderá substituir-se ao proprietário na execução das obras, depois de obtida a autorização da comissão arbitral, ficando com direito a ser reembolsado das respectivas despesas.
 
 2. O proprietário que fizer benfeitorias que aumentem a produtividade do prédito tem direito a exigir o correspondente aumento da quota de frutos.
 
 3. No caso de a gestão da empresa pertencer exclusivamente ao cultivador, observar-se-á o disposto nos artigos 17.º, 18.º, n.os 1 a 6, e 19.º
 
-Art. 33.º - 1. A separação dos frutos nas proporções decorrentes do artigo 31.º far-se-á conforme for acordado ou, na falta, de estipulação, segundo os usos e costumes, e terá lugar depois das colheitas, no caso dos produtos arvenses de grão ou de terminados os trabalhos agrícolas nas culturas restantes.
+###### Artigo 33.º
+
+1. A separação dos frutos nas proporções decorrentes do artigo 31.º far-se-á conforme for acordado ou, na falta, de estipulação, segundo os usos e costumes, e terá lugar depois das colheitas, no caso dos produtos arvenses de grão ou de terminados os trabalhos agrícolas nas culturas restantes.
 
 2. Feita a divisão, o transporte dos frutos corre por conta e risco do respectivo proprietário.
 
 ### CAPÍTULO IV — Da comissão arbitral
 
-Art. 34.º - 1. As questões entre senhorios e arrendatários ou entre parceiros serão decididas, com recurso para o tribunal da comarca, por uma comissão arbitral, composta pelo juízo municipal, que presidirá, por um representante dos serviços de agricultura, por um representante dos serviços a cargo de quem estiver o desenvolvimento agrário, por um representante dos proprietários da região e, conforme os casos, por um representante dos arrendatários ou parceiros cultivadores da região.
+###### Artigo 34.º
+
+1. As questões entre senhorios e arrendatários ou entre parceiros serão decididas, com recurso para o tribunal da comarca, por uma comissão arbitral, composta pelo juízo municipal, que presidirá, por um representante dos serviços de agricultura, por um representante dos serviços a cargo de quem estiver o desenvolvimento agrário, por um representante dos proprietários da região e, conforme os casos, por um representante dos arrendatários ou parceiros cultivadores da região.
 
 2. As nomeações dos vogais serão da competência do governador, devendo o diploma regulamentar definir o processo de designação dos vogais representantes dos proprietários, arrendatários e parceiros cultivadores.
 
-Art. 35.º Quanto ao processo de julgamento das questões e à interposição de recursos, as comissões arbitrais observarão na parte aplicável o disposto nos artigos 28.º a 37.º, inclusive, e 43.º do [Decreto n.º 43898](https://diariodarepublica.pt/dr/detalhe/decreto/43898-1961-180997), de 6 de Setembro de 1961, relativo aos tribunais municipais e de paz.
+3. Nas sedes de comarca a comissão arbitral será presidida pelo administrador do concelho.
+
+> Alterado pelo/a [Decreto n.º 146/70](https://diariodarepublica.pt/dr/detalhe/decreto/146-1970-225847), publicado em 1970-04-09.
+
+###### Artigo 35.º
+
+Quanto ao processo de julgamento das questões e à interposição de recursos, as comissões arbitrais observarão na parte aplicável o disposto nos artigos 28.º a 37.º, inclusive, e 43.º do [Decreto n.º 43898](https://diariodarepublica.pt/dr/detalhe/decreto/43898-1961-180997), de 6 de Setembro de 1961, relativo aos tribunais municipais e de paz.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-Art. 36.º Os senhorios e parceiros proprietários enviarão aos serviços de agricultura e de Fazenda, até 31 de Outubro de cada ano, relações organizadas por prédios rústicos e freguesias, das rendas e quotas dos frutos recebidos no ano agrícola anterior.
+###### Artigo 36.º
 
-Art. 37.º Os agentes dos serviços de agricultura e as autoridades administrativas e policiais fiscalizarão o cumprimento do presente decreto e, especialmente, se são observadas as disposições respeitantes à forma escrita e ao visto dos contratos.
+Os senhorios e parceiros proprietários enviarão aos serviços de agricultura e de Fazenda, até 31 de Outubro de cada ano, relações organizadas por prédios rústicos e freguesias, das rendas e quotas dos frutos recebidos no ano agrícola anterior.
 
-Art. 38.º - 1. O presente diploma entrará em vigor em 1 de Julho de 1967.
+###### Artigo 37.º
+
+Os agentes dos serviços de agricultura e as autoridades administrativas e policiais fiscalizarão o cumprimento do presente decreto e, especialmente, se são observadas as disposições respeitantes à forma escrita e ao visto dos contratos.
+
+###### Artigo 38.º
+
+1. O presente diploma entrará em vigor em 1 de Julho de 1967.
 
 2. Até à data referida no número anterior, o Governo da província deverá fazer publicar no Boletim Oficial o diploma regulamentar, que poderá cominar multas, dentro dos limites legais, para a falta de observância das imposições imperativas deste decreto.
 
-Art. 39.º Enquanto não estiverem nomeados os vogais das comissões arbitrais, a competência destas pertencerá aos tribunais municipais, que nomearão para perito um técnico profissionalmente qualificado.
+###### Artigo 39.º
 
-Art. 40.º - 1. O presente decreto aplica-se aos contratos que se celebrarem depois da sua entrada em vigor e às renovações dos contratos vigentes.
+Enquanto não estiverem nomeados os vogais das comissões arbitrais, a competência destas pertencerá aos tribunais municipais, que nomearão para perito um técnico profissionalmente qualificado.
+
+###### Artigo 40.º
+
+1. O presente decreto aplica-se aos contratos que se celebrarem depois da sua entrada em vigor e às renovações dos contratos vigentes.
 
 2. Os subarrendamentos totais, se houver renovação, serão tidos, para todos os efeitos, como contratos de cessão do direito ao arrendamento, assumindo o subarrendatário, em relação ao senhorio, a posição de arrendatário directo.
 
-Art. 41.º O presente diploma será aplicado, na falta de disposições legais especiais e na medida do possível, a todos os casos de exploração agrícola de carácter fortuito em propriedade alheia. À comissão arbitral competirá conhecer das questões relativas a essas explorações.
+###### Artigo 41.º
 
-Art. 42.º Dentro do espírito que informa o regime instituído pela [Lei n.º 2114](https://diariodarepublica.pt/dr/detalhe/lei/2114-1962-164863), de 15 de Junho de 1962, considerada como direito subsidiário, pertence ao Ministro do Ultramar resolver, por portaria, as dúvidas e casos omissos que surjam com a aplicação em Cabo Verde do regime previsto no presente diploma.
+O presente diploma será aplicado, na falta de disposições legais especiais e na medida do possível, a todos os casos de exploração agrícola de carácter fortuito em propriedade alheia. À comissão arbitral competirá conhecer das questões relativas a essas explorações.
 
-Art. 43.º São excluídos da aplicação deste diploma os contratos regulados pelo [Decreto-Lei n.º 42390](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42390-1959-431814), de 1 de Agosto de 1959.
+###### Artigo 42.º
 
-Art. 44.º São revogados o [Decreto n.º 2637](https://diariodarepublica.pt/dr/detalhe/decreto/2637-1916-269463), de 21 de Setembro de 1916, e a [Portaria n.º 233](https://diariodarepublica.pt/dr/detalhe/portaria/233-1914-491707), de 28 de Junho de 1917.
+Dentro do espírito que informa o regime instituído pela [Lei n.º 2114](https://diariodarepublica.pt/dr/detalhe/lei/2114-1962-164863), de 15 de Junho de 1962, considerada como direito subsidiário, pertence ao Ministro do Ultramar resolver, por portaria, as dúvidas e casos omissos que surjam com a aplicação em Cabo Verde do regime previsto no presente diploma.
+
+###### Artigo 43.º
+
+São excluídos da aplicação deste diploma os contratos regulados pelo [Decreto-Lei n.º 42390](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42390-1959-431814), de 1 de Agosto de 1959.
+
+###### Artigo 44.º
+
+São revogados o [Decreto n.º 2637](https://diariodarepublica.pt/dr/detalhe/decreto/2637-1916-269463), de 21 de Setembro de 1916, e a [Portaria n.º 233](https://diariodarepublica.pt/dr/detalhe/portaria/233-1914-491707), de 28 de Junho de 1917.
 
 Publique-se e cumpra-se como nele se contém.
 

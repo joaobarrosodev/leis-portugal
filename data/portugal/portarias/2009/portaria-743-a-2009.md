@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-17'
+version_history:
+  file: portaria-743-a-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-17'
+    amending: pt:dre:482821:por
+    amending_title: Portaria n.º 1270/2009
+    changes:
+    - Adita Artigo 48.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/743-a/2009/07/10/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:42:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1270/2009. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-743-a-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1013,6 +1028,24 @@ e) As vagas que, até ao início da seriação dos candidatos, sejam utilizadas 
 5 - Os valores a que se referem as alíneas a) a e) do n.º 1 são divulgados, através de edital do director-geral do Ensino Superior, em simultâneo com a divulgação do resultado final da 3.ª fase do concurso.
 
 6 - Na 3.ª fase há um único contingente e não são aplicados os regimes preferenciais.
+
+###### Artigo 48.º-A — Vagas adicionais
+
+1 - Às vagas a que se refere o artigo anterior acrescem ainda as vagas adicionais que sejam fixadas pelas instituições de ensino superior em relação aos pares estabelecimento/curso em que demonstrem:
+
+a) A existência de procura na respectiva área sem a correspondente oferta no conjunto da rede pública, tendo em consideração os resultados do concurso nacional;
+
+b) Dispor de condições adequadas, designadamente em recursos humanos e materiais, para o aumento do número de vagas.
+
+2 - Compete à Direcção-Geral do Ensino Superior proceder à verificação da satisfação das condições a que se refere o n.º 1.
+
+3 - As vagas adicionais a que se refere o número anterior:
+
+a) Devem ser comunicadas pelos estabelecimentos de ensino superior à Direcção-Geral do Ensino Superior no prazo fixado nos termos do artigo 61.º;
+
+b) São divulgadas nos termos e prazo fixados pelo n.º 4 do artigo anterior.
+
+> Aditado pelo/a [Portaria n.º 1270/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1270-2009-482821), publicado em 2009-10-16.
 
 ###### Artigo 49.º — Candidatos
 

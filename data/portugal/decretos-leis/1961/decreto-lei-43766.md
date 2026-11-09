@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-12-28'
+version_history:
+  file: decreto-lei-43766.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-12-28'
+    amending: pt:dre:141596:por
+    amending_title: Decreto-Lei n.º 331/70; Decreto-Lei n.º 653/70
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:37:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 331/70; Decreto-Lei
+    n.º 653/70. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-43766.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,45 +143,61 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Os tabacos destinados ao consumo da metrópole, quer nela fabricados (1.º grupo), quer no estrangeiro, ilhas adjacentes ou províncias ultramarinas (2.º grupo), ficam sujeitos a um imposto de consumo, de taxas que vão ser indicadas, sobre o qual não incidirá adicional algum, seja para o Estado, seja para os corpos administrativos.
+###### Artigo 1.º
+
+Os tabacos destinados ao consumo do continente e ilhas adjacentes, quer de fabrico nacional (1.º grupo), quer estrangeiro (2.º grupo), ficam sujeitos a um imposto de consumo, das taxas a seguir indicadas, sobre o qual não incidirá adicional algum, seja para o Estado, seja para os corpos administrativos.
 
 § único. As importâncias arrecadadas através deste tributo não serão consideradas para determinação dos descontos mencionados no artigo 23.º do [Decreto-Lei n.º 41386](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41386-1957-251642), de 22 de Novembro de 1957, e sobre as mesmas não incidirá o imposto ad valorem prescrito nos n.os 1.º dos artigos 14.º e 16.º deste diploma.
 
-Art. 2.º As espécies de tabacos em que incidirá o imposto de consumo e correspondentes taxas são as seguintes:
+> Alterado pelo/a [Decreto-Lei n.º 331/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1970-141596), publicado em 1970-07-14.
+
+###### Artigo 2.º
+
+As espécies de tabacos em que incidirá o imposto de consumo e correspondentes taxas são as seguintes:
 
 a) 1.º grupo:
 
-Picados - taxa de $50 sobre cada unidade de 15 g.
+Picados - taxa de 1$50 sobre cada unidade de 15 g.
 
 Cigarros:
 
-Taxa de $30 sobre cada maço de 10 ou 12 cigarros, com exclusão dos cigarros ordinários ou fortes.
+Taxa de $90 sobre cada maço ou caixa de 10 ou 12 cigarros, quando de peso superior a 7,5 g;
 
-Taxa de $50 sobre cada maço de 20 ou 24 cigarros.
+Taxa de 1$50 sobre cada maço ou caixa de 20 ou 24 cigarros;
 
-Taxa de 2$50 sobre cada caixa de 100 cigarros.
+Taxa de 4$00 sobre cada maço ou caixa de 25 a 50 cigarros;
 
-Cigarrilhas com capa de tabaco - taxa de $30 sobre cada cigarrilha.
+Taxa de 9$00 sobre cada maço ou caixa de 51 a 100 cigarros.
 
-Charutos - taxa de 1$00 sobre cada charuto.
+Cigarrilhas com capa de tabaco:
+
+Taxa de $10 sobre cada cigarrilha cujo preço unitário de venda ao público seja igual ou inferior a 1$00;
+
+Taxa de $90 sobre cada cigarrilha, quando o preço unitário de venda ao público seja superior a 1$00.
+
+Charutos - taxa de 4$00 sobre cada charuto.
 
 b) 2.º grupo:
 
-Picados - taxa de $50 sobre cada 15 g ou fracção.
+Picados - taxa de 1$50 sobre cada 15 g ou fracção.
 
 Cigarros:
 
-Taxa de $30 sobre cada maço ou caixa de 10 ou 12 cigarros.
+Taxa de $90 sobre cada maço ou caixa de 10 a 12 cigarros, quando de peso superior a 7,5 g;
 
-Taxa de $50 sobre cada maço ou caixa de 20 a 24 cigarros.
+Taxa de 1$50 sobre cada maço ou caixa de 20 ou 24 cigarros;
 
-Taxa de 1$00 sobre cada maço ou caixa de 25 a 50 cigarros.
+Taxa de 4$00 sobre cada maço ou caixa de 25 a 50 cigarros;
 
-Taxa de 2$50 sobre cada maço ou caixa de 51 a 100 cigarros.
+Taxa de 9$00 sobre cada maço ou caixa de 51 a 100 cigarros.
 
-Cigarrilhas com capa de tabaco - taxa de $30 sobre cada cigarrilha.
+Cigarrilhas com capa de tabaco:
 
-Charutos - taxa de 1$00 sobre cada charuto.
+Taxa de $10 sobre cada cigarrilha cujo preço unitário de venda ao público seja igual ou inferior a 1$00;
+
+Taxa de $90 sobre cada cigarrilha, quando o preço unitário de venda ao público seja superior a 1$00.
+
+Charutos - taxa de 4$00 sobre cada charuto.
 
 § 1.º Nas manufacturas especificadas no 1.º grupo o valor das taxas será impresso nos respectivos invólucros com a indicação «Imposto de consumo ...$...» ou, simplesmente, «I. C. ...$...».
 
@@ -173,19 +205,31 @@ Charutos - taxa de 1$00 sobre cada charuto.
 
 § 3.º As marcas lançadas futuramente no mercado pela indústria metropolitana ficam sujeitas ao pagamento do imposto de consumo igual àquele que neste artigo foi fixado para os tipos e espécies de tabacos que se lhes assemelhem.
 
-Art. 3.º O imposto de consumo sobre o tabaco manufacturado na metrópole será fiscalizado pela Inspecção-Geral de Finanças, cobrado pelas fábricas aos compradores e liquidado nas condições prescritas no § único do artigo 48.º do [Decreto n.º 41397](https://diariodarepublica.pt/dr/detalhe/decreto/41397-1957-251579), de 26 de Novembro de 1957.
+> Alterado pelo/a [Decreto-Lei n.º 653/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/653-1970-689182), publicado em 1970-12-28.
 
-Art. 4.º O imposto de consumo dos tabacos manufacturados sujeitos a despacho de importação ou vendidos em hasta pública nas alfândegas será cobrado por estas no acto da liquidação dos respectivos direitos aduaneiros ou do pagamento do valor da adjudicação, conforme o caso.
+###### Artigo 3.º
 
-Art. 5.º As transgressões por falta de pagamento do imposto de consumo ou por pagamento fora do prazo estabelecido serão punidas com multa igual ao dobro do montante da importância devida.
+O imposto de consumo sobre o tabaco manufacturado na metrópole será fiscalizado pela Inspecção-Geral de Finanças, cobrado pelas fábricas aos compradores e liquidado nas condições prescritas no § único do artigo 48.º do [Decreto n.º 41397](https://diariodarepublica.pt/dr/detalhe/decreto/41397-1957-251579), de 26 de Novembro de 1957.
+
+###### Artigo 4.º
+
+O imposto de consumo dos tabacos manufacturados sujeitos a despacho de importação ou vendidos em hasta pública nas alfândegas será cobrado por estas no acto da liquidação dos respectivos direitos aduaneiros ou do pagamento do valor da adjudicação, conforme o caso.
+
+###### Artigo 5.º
+
+As transgressões por falta de pagamento do imposto de consumo ou por pagamento fora do prazo estabelecido serão punidas com multa igual ao dobro do montante da importância devida.
 
 § 1.º A instrução e julgamento do respectivo processo é da competência das autoridades e tribunais do contencioso fiscal aduaneiro.
 
 § 2.º As multas que forem impostas por inobservância do disposto neste artigo reverterão integralmente para o Estado.
 
-Art. 6.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro das Finanças.
+###### Artigo 6.º
 
-Art. 7.º Este decreto-lei entra imediatamente em vigor.
+As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro das Finanças.
+
+###### Artigo 7.º
+
+Este decreto-lei entra imediatamente em vigor.
 
 Publique-se e cumpra-se como nele se contém.
 

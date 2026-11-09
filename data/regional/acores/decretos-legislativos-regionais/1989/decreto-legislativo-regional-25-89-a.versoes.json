@@ -1,0 +1,186 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:262100:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7ab81e1771a31027",
+    "3c965ddcaf13324a",
+    "ac5ebb9afc8c4aea",
+    "cf31d45fded5f466",
+    "3b1d7af29f1bfbc3",
+    "335ac7a2e43835c7",
+    "4042b8b95f957c67",
+    "d78e275a716f7922",
+    "5bb8baf1c205517c",
+    "ba3aa9220cb2a2fd",
+    "e828d1f28e6fcfd8",
+    "d617a7c229359779",
+    "d532a1afc6965a38",
+    "39d4988dce8c9e42"
+   ]
+  },
+  {
+   "date": "1990-12-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:274446:por",
+     "title": "Decreto Legislativo Regional n.º 20/90/A",
+     "published": "1990-12-27",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/20-1990-274446"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "7ab81e1771a31027",
+    "3c965ddcaf13324a",
+    "ac5ebb9afc8c4aea",
+    "cf31d45fded5f466",
+    "3b1d7af29f1bfbc3",
+    "335ac7a2e43835c7",
+    "cf47a8bc28a8dd33",
+    "d78e275a716f7922",
+    "5bb8baf1c205517c",
+    "ba3aa9220cb2a2fd",
+    "e828d1f28e6fcfd8",
+    "d617a7c229359779",
+    "d532a1afc6965a38",
+    "39d4988dce8c9e42"
+   ]
+  }
+ ],
+ "fragments": {
+  "7ab81e1771a31027": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprova o Orçamento da Região Autónoma dos Açores para 1990\n\nA Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea o) do n.º 1 do artigo 229.º e do n.º 1 do artigo 234.º da Constituição e da alínea m) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo, o seguinte:"
+  },
+  "3c965ddcaf13324a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Aprovação do Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Aprovação do Orçamento"
+  },
+  "ac5ebb9afc8c4aea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação\n\nSão aprovados pelo presente diploma:\n\na) O Orçamento da Região Autónoma dos Açores para 1990, constante dos mapas I a IV, e respectivos anexos aos mapas I e II;\n\nb) Os programas do Plano para 1990, constantes do mapa V."
+  },
+  "cf31d45fded5f466": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Orçamentos privativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Orçamentos privativos\n\n1 - Os serviços e fundos autónomos não poderão aplicar as suas receitas próprias na realização das suas despesas sem que o Governo Regional aprove os respectivos orçamentos ordinários e suplementares.\n\n2 - Os orçamentos referidos no número anterior estão sujeitos a visto do Secretário Regional das Finanças e Planeamento.\n\n3 - A emissão de garantias a favor de terceiros pelos serviços e fundos autónomos depende de autorização prévia do Secretário Regional das Finanças e Planeamento."
+  },
+  "3b1d7af29f1bfbc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Empréstimos"
+  },
+  "335ac7a2e43835c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Necessidades de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Necessidades de financiamento\n\nRevelando-se insuficientes os recursos entregues pelo Estado à Região Autónoma dos Açores com base nos artigos 93.º e 98.º do Estatuto Político-Administrativo da Região Autónoma dos Açores (EPARAA) e, bem assim, os recursos financeiros provenientes dos fundos estruturais da CEE, fica o Governo Regional autorizado, nos termos da alínea n) do artigo 32.º do EPARAA, a contrair empréstimos, incluindo créditos bancários, inscrevendo a verba correspondente ao valor do empréstimo, para fazer face exclusivamente ao défice do Orçamento da Região Autónoma dos Açores, ou a utilizar os mecanismos de financiamento que para o mesmo efeito vierem a ficar estabelecidos por lei, dentro da programação global do endividamento do sector público."
+  },
+  "4042b8b95f957c67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições gerais dos empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições gerais dos empréstimos\n\nOs empréstimos a realizar pelo Governo devem subordinar-se às seguintes condições gerais:\n\na) Não ultrapassarem o montante global correspondente ao limite que vier a ser estabelecido por lei, não podendo em caso algum exceder os 8 milhões de contos;\n\nb) Serem empréstimos amortizáveis a colocar junto das instituições financeiras, incluindo o Banco de Portugal, ou outras entidades nacionais e internacionais;\n\nc) Serem aplicados no financiamento de investimentos ou de outros empreendimentos especialmente reprodutivos;\n\nd) Serem os empréstimos externos contraídos, em caso de insuficiência do mercado interno, em condições mais favoráveis do que as praticadas no mercado nacional de capitais em matéria de prazo, taxa de juro e demais encargos."
+  },
+  "d78e275a716f7922": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Garantia de empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Garantia de empréstimos\n\n1 - Fica o Governo Regional autorizado a garantir, nas condições correntes nos respectivos mercados, operações financeiras internas e externas requeridas pela execução de empreendimentos de reconhecido interesse económico e social para a Região.\n\n2 - A concessão de avales da Região fica subordinada ao limite fixado por resolução da Assembleia Regional, nos termos da alínea o) do artigo 32.º do EPARAA, e ao disposto no [Decreto Legislativo Regional n.º 23/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1987-498732), de 3 de Dezembro."
+  },
+  "5bb8baf1c205517c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Execução e alterações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Execução e alterações orçamentais"
+  },
+  "ba3aa9220cb2a2fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6. — Realização de despesas públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6. — Realização de despesas públicas\n\nO Governo Regional tomará as medidas necessárias à rigorosa contenção das despesas públicas e ao controlo da sua eficiência, de forma a alcançar possíveis reduções do défice orçamental e uma melhor aplicação dos recursos públicos."
+  },
+  "e828d1f28e6fcfd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Alterações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alterações orçamentais\n\n1 - Na execução do Orçamento da Região Autónoma dos Açores para 1990, a dotação provisional a que se refere o n.º 2 do artigo 19.º do [Decreto Legislativo Regional n.º 17/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1987-496889), de 13 de Novembro, poderá ser aplicada para fazer face às despesas com pessoal determinadas por medidas de política orçamental de âmbito nacional, e de outras, igualmente não previstas e inadiáveis, que eventualmente ocorram nos orçamentos dos diferentes departamentos governamentais.\n\n2 - Quando se verifique a deslocação ou transferência de serviços entre departamentos da administração regional e transferências de pessoal justificadas pela mobilidade e reafectação de recursos humanos e seu racional aproveitamento, as dotações orçamentais inscritas nos orçamentos dos serviços de origem poderão ser transferidas para os departamentos de destino."
+  },
+  "d617a7c229359779": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais"
+  },
+  "d532a1afc6965a38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Execução orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Execução orçamental\n\nO Orçamento da Região Autónoma dos Açores será posto em execução pelo Governo Regional dos Açores mediante decreto regulamentar regional."
+  },
+  "39d4988dce8c9e42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Produção de efeitos\n\nO presente decreto legislativo regional produz efeitos a partir de 1 de Janeiro de 1990.\n\nAprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 24 de Novembro de 1989.\n\nO Presidente da Assembleia Legislativa Regional, José Guilherme Reis Leite.\n\nAssinado em Angra do Heroísmo em 18 de Dezembro de 1989.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.\n\nDo MAPA I ao MAPA V\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1989/12/29904/00530058.pdf)"
+  },
+  "cf47a8bc28a8dd33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições gerais dos empréstimos",
+   "in_force_from": "1990-12-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 20/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-274446), publicado em 1990-12-27."
+   ],
+   "markdown": "###### Artigo 4.º — Condições gerais dos empréstimos\n\nOs empréstimos a realizar pelo Governo devem subordinar-se às seguintes condições gerais:\n\na) Não ultrapassarem o montante global de 10 milhões de contos, sendo 2 milhões de contos de curto prazo.\n\nb) Serem empréstimos amortizáveis a colocar junto das instituições financeiras, incluindo o Banco de Portugal, ou outras entidades nacionais e internacionais;\n\nc) Serem aplicados no financiamento de investimentos ou de outros empreendimentos especialmente reprodutivos;\n\nd) Serem os empréstimos externos contraídos, em caso de insuficiência do mercado interno, em condições mais favoráveis do que as praticadas no mercado nacional de capitais em matéria de prazo, taxa de juro e demais encargos.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 20/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-274446), publicado em 1990-12-27."
+  }
+ }
+}

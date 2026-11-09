@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-04-30'
+version_history:
+  file: decreto-52-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-02-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-04-30'
+    amending: pt:dre:427471:por
+    amending_title: Decreto n.º 317/76
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:38:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 317/76. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1975/decreto-52-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,7 +172,9 @@ Tendo em vista que o desconto para compensação de aposentação apenas deve in
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º Os n.os 1.º e 2.º do corpo do artigo 430.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966, passam a ter a redacção seguinte:
+###### Artigo 1.º
+
+Os n.os 1.º e 2.º do corpo do artigo 430.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966, passam a ter a redacção seguinte:
 
 1.º Tenham satisfeito ou venham a satisfazer os descontos para aposentação previstos no presente diploma.
 
@@ -165,11 +182,15 @@ Artigo 1.º Os n.os 1.º e 2.º do corpo do artigo 430.º do Estatuto do Funcion
 
 3.º ...
 
-Art. 2.º - 1. A aposentação voluntária é concedida a requerimento do interessado, no qual este indicará logo os factos em que fundamentam o seu pedido.
+###### Artigo 2.º
+
+1. A aposentação voluntária é concedida a requerimento do interessado, no qual este indicará logo os factos em que fundamentam o seu pedido.
 
 2. A apresentação às juntas de saúde para o mesmo efeito basear-se-á, igualmente, em petição feita pelo interessado.
 
-Art. 3.º São aditados ao artigo 431.º do Estatuto do Funcionalismo Ultramarino os parágrafos seguintes:
+###### Artigo 3.º
+
+São aditados ao artigo 431.º do Estatuto do Funcionalismo Ultramarino os parágrafos seguintes:
 
 § 1.º ...
 
@@ -185,7 +206,9 @@ No caso de o devedor estar já desligado do serviço para efeitos de aposentaç�
 
 § 5.º O pagamento de quotas para aposentação em relação a determinado período de tempo não envolve só por si o reconhecimento do direito à contagem desse tempo para efeitos de aposentação.
 
-Art. 4.º - 1. A remuneração mensal a considerar para efeitos de cálculo da pensão é a que respeitar à categoria ou cargo do agente à data em que ocorrer o facto ou acto determinante da aposentação, qualquer que seja o título legal do seu desempenho.
+###### Artigo 4.º
+
+1. A remuneração mensal a considerar para efeitos de cálculo da pensão é a que respeitar à categoria ou cargo do agente à data em que ocorrer o facto ou acto determinante da aposentação, qualquer que seja o título legal do seu desempenho.
 
 2. Se durante os dois últimos anos o servidor houver exercido sucessivamente dois ou mais cargos a que a lei em vigor no momento em que se verificaram as condições determinativas de aposentação atribua remunerações diferentes, atender-se-á à média destas, na proporção do tempo de serviço em cada cargo.
 
@@ -209,13 +232,21 @@ Nos casos de exercício de cargo em regime de tempo parcial, será este converti
 
 7. No cálculo da pensão serão levadas em conta as diuturnidades atribuídas pelo exercício de lugares sem acesso.
 
-Art. 5.º - 1. Os descontos para a aposentação passam a incidir exclusivamente sobre os ordenados, salários, gratificações, emolumentos e outras retribuições, certas ou acidentais, fixas ou variáveis, correspondentes ao cargo ou cargos exercidos e não isentas do desconto nos termos do n.º 2.
+8 - A remuneração mensal a considerar para efeitos de cálculo da pensão não poderá exceder os limites fixados no artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, com a redacção dada pelo [Decreto-Lei n.º 27/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1974-173159), de 31 de Janeiro.
+
+> Alterado pelo/a [Decreto n.º 317/76](https://diariodarepublica.pt/dr/detalhe/decreto/317-1976-427471), publicado em 1976-04-30.
+
+###### Artigo 5.º
+
+1. Os descontos para a aposentação passam a incidir exclusivamente sobre os ordenados, salários, gratificações, emolumentos e outras retribuições, certas ou acidentais, fixas ou variáveis, correspondentes ao cargo ou cargos exercidos e não isentas do desconto nos termos do n.º 2.
 
 2. Estão isentos do desconto para a aposentação os abonos provenientes de participações em multas, senhas de presença, prémios por sugestões, trabalho extraordinário, simples inerências e outros análogos, bem como todos os demais abonos que, por força do presente diploma ou de lei especial, não possam igualmente influir, em qualquer medida, na pensão de aposentação.
 
 3. Não constituem remuneração o abono de família, as ajudas de custo, os abonos ou subsídios de residência, de campo, de transportes, de viagens ou caminhos, para falhas, para despesas de representação, para vestuário e outros de natureza similar.
 
-Art. 6.º - 1. A pensão de aposentação é igual à quadragésima parte da remuneração que lhe serve de base, multiplicada pelo número de anos de serviço contados para a aposentação, até ao limite máximo de quarenta anos.
+###### Artigo 6.º
+
+1. A pensão de aposentação é igual à quadragésima parte da remuneração que lhe serve de base, multiplicada pelo número de anos de serviço contados para a aposentação, até ao limite máximo de quarenta anos.
 
 2. Nos casos de aposentação extraordinária, o tempo de serviço do agente considera-se equivalente a quarenta anos.
 
@@ -227,17 +258,25 @@ b) Fracção da pensão relativa ao número de anos que faltarem para quarenta, 
 
 3. O disposto no n.º 1 do presente artigo é também aplicável às pensões de aposentação respeitantes aos servidores que tenham sido desligados do serviço para efeitos de aposentação ou aposentados a partir de 1 de Janeiro de 1973.
 
-Art. 7.º Quando residentes nos territórios sob administração portuguesa, os servidores terão direito a uma pensão complementar, calculada nos precisos termos dos artigos anteriores, tomando por base o vencimento complementar em vigor no território em que residirem.
+###### Artigo 7.º
 
-Art. 8.º - 1. Para instrução do processo de aposentação, o servidor fica obrigado a apresentar, dentro do prazo de quatro meses, contado da data em que tomou conhecimento do facto ou acto determinante da aposentação, os documentos comprovativos do tempo de serviço prestado para o efeito.
+Quando residentes nos territórios sob administração portuguesa, os servidores terão direito a uma pensão complementar, calculada nos precisos termos dos artigos anteriores, tomando por base o vencimento complementar em vigor no território em que residirem.
+
+###### Artigo 8.º
+
+1. Para instrução do processo de aposentação, o servidor fica obrigado a apresentar, dentro do prazo de quatro meses, contado da data em que tomou conhecimento do facto ou acto determinante da aposentação, os documentos comprovativos do tempo de serviço prestado para o efeito.
 
 2. A não apresentação dos documentos dentro do prazo referido no número anterior por facto ou omissão imputáveis ao agente implicará a suspensão da pensão durante o lapso decorrido entre o termo desse prazo e a data em que fizer a entrega dos mesmos documentos.
 
-Art. 9.º - 1. Têm direito à pensão de sobrevivência os herdeiros hábeis dos funcionários e agentes civis da administração pública dos territórios ultramarinos e do Ministério da Coordenação Interterritorial e organismos dele dependentes com direito a aposentação, seja qual for a forma de provimento ou a natureza da prestação de serviço, desde que estes tenham prestado, pelo menos, cinco anos de serviço.
+###### Artigo 9.º
+
+1. Têm direito à pensão de sobrevivência os herdeiros hábeis dos funcionários e agentes civis da administração pública dos territórios ultramarinos e do Ministério da Coordenação Interterritorial e organismos dele dependentes com direito a aposentação, seja qual for a forma de provimento ou a natureza da prestação de serviço, desde que estes tenham prestado, pelo menos, cinco anos de serviço.
 
 2. Para os efeitos do disposto no número anterior, consideram-se herdeiros hábeis os referidos nas alíneas a), b), c) e d) do n.º 1 do artigo 40.º do [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março, aos quais são aplicáveis as disposições dos n.os 2, 3 e 4 do mesmo artigo e, bem assim, as dos artigos 41.º a 48.º daquele decreto-lei.
 
-Art. 10.º - 1. A pensão de sobrevivência consiste numa prestação pecuniária mensal, cujo montante, salvo no caso do n.º 5 deste artigo, é função da pensão de aposentação que corresponderia ao tempo de serviço sujeito ao respectivo desconto.
+###### Artigo 10.º
+
+1. A pensão de sobrevivência consiste numa prestação pecuniária mensal, cujo montante, salvo no caso do n.º 5 deste artigo, é função da pensão de aposentação que corresponderia ao tempo de serviço sujeito ao respectivo desconto.
 
 2. O disposto no número anterior é aplicável ainda que, por insuficiência de tempo de serviço ou por qualquer outro motivo, não haja direito a pensão de aposentação.
 
@@ -247,7 +286,9 @@ Art. 10.º - 1. A pensão de sobrevivência consiste numa prestação pecuniári
 
 5. No caso de pensão extraordinária de aposentação, a pensão de sobrevivência será igual a metade daquela, independentemente do tempo em que o servidor haja estado sujeito a descontos para efeito da pensão de sobrevivência.
 
-Art. 11.º - 1. O desconto para a pensão de sobrevivência é de 1% sobre as remunerações passíveis de desconto para aposentação e passa a ser obrigatório para todos os agentes na situação de activo serviço.
+###### Artigo 11.º
+
+1. O desconto para a pensão de sobrevivência é de 1% sobre as remunerações passíveis de desconto para aposentação e passa a ser obrigatório para todos os agentes na situação de activo serviço.
 
 2. Aos agentes desligados do serviço ou aposentados é facultada a constituição da pensão de sobrevivência prevista no presente diploma, mediante requerimento a apresentar na Direcção-Geral de Fazenda do Ministério da Coordenação Interterritorial ou nos respectivos serviços de finanças provinciais no prazo de cento e oitenta dias a contar da entrada em vigor do presente diploma.
 
@@ -273,7 +314,9 @@ No caso de o servidor falecer antes de perfazer os cinco anos completos de tempo
 
 O direito à restituição prescreve no prazo de três anos a contar da data em que o interessado teve conhecimento dele. E o direito ao recebimento das importâncias cuja restituição foi autorizada prescreve no prazo de um ano a contar da comunicação do despacho respectivo.
 
-Art. 12.º - 1. Os descontos relativos ao período de retroacção previsto no artigo 11.º serão liquidados, sem acréscimo de juros, com base na percentagem referida no n.º 1 do mesmo artigo e na remuneração definida no n.º 5 do artigo 4.º, correspondente ao cargo em relação ao qual, na data do pedido de retroacção, o servidor esteja a descontar para efeitos de aposentação.
+###### Artigo 12.º
+
+1. Os descontos relativos ao período de retroacção previsto no artigo 11.º serão liquidados, sem acréscimo de juros, com base na percentagem referida no n.º 1 do mesmo artigo e na remuneração definida no n.º 5 do artigo 4.º, correspondente ao cargo em relação ao qual, na data do pedido de retroacção, o servidor esteja a descontar para efeitos de aposentação.
 
 2. Nos casos a que se referem os n.os 2 a 4 do artigo 11.º, a remuneração a considerar será a correspondente ao montante da pensão ilíquida que estiver a ser abonada ao interessado na data do pedido de constituição da pensão de sobrevivência.
 
@@ -285,7 +328,9 @@ Art. 12.º - 1. Os descontos relativos ao período de retroacção previsto no a
 
 6. Se a dívida não for integralmente paga em vida do servidor, autor da pensão de sobrevivência, o saldo devedor será satisfeito pelos seus herdeiros hábeis na devida proporção, mediante desconto na respectiva pensão de sobrevivência, em tantas prestações mensais quantas as que faltarem para preencher as resultantes da aplicação do disposto no n.º 3 do presente artigo e no n.º 4 do artigo 11.º
 
-Art. 13.º - 1. Dentro do prazo de dezoito meses, a contar do dia em que o servidor falecer, os herdeiros hábeis deste poderão requerer:
+###### Artigo 13.º
+
+1. Dentro do prazo de dezoito meses, a contar do dia em que o servidor falecer, os herdeiros hábeis deste poderão requerer:
 
 a) A constituição facultativa da pensão de sobrevivência prevista no n.º 2 do artigo 11.º, se o servidor tiver falecido no decurso do prazo em que a podia requerer;
 
@@ -295,11 +340,15 @@ c) A regularização de quaisquer descontos em dívida.
 
 2. A dívida resultante da aplicação do disposto no número anterior será liquidada pela forma estabelecida no artigo 12.º e paga proporcionalmente pelos herdeiros hábeis, mediante desconto na respectiva pensão de sobrevivência.
 
-Art. 14.º - 1. A pensão de sobrevivência deve ser requerida por quem se julgue com direito a ela, no prazo referido no n.º 1 do artigo anterior, instruindo-se o pedido com os documentos necessários à prova do mesmo direito.
+###### Artigo 14.º
+
+1. A pensão de sobrevivência deve ser requerida por quem se julgue com direito a ela, no prazo referido no n.º 1 do artigo anterior, instruindo-se o pedido com os documentos necessários à prova do mesmo direito.
 
 2. Quando o requerimento estiver deficientemente instruído, o interessado deverá completá-lo com os elementos que lhe forem solicitados, no prazo que para tal fim se lhe fixar, sob pena de o pedido ficar sem efeito.
 
-Art. 15.º - 1. Os servidores que anteriormente requereram a constituição da pensão de sobrevivência instituída pelo [Decreto n.º 47109](https://diariodarepublica.pt/dr/detalhe/decreto/47109-1966-475166), de 21 de Julho de 1966, ficam, de futuro, sujeitos ao novo regime estabelecido pelo presente diploma.
+###### Artigo 15.º
+
+1. Os servidores que anteriormente requereram a constituição da pensão de sobrevivência instituída pelo [Decreto n.º 47109](https://diariodarepublica.pt/dr/detalhe/decreto/47109-1966-475166), de 21 de Julho de 1966, ficam, de futuro, sujeitos ao novo regime estabelecido pelo presente diploma.
 
 2. Os efeitos de sujeição ao novo regime reportar-se-ão sempre à data da entrada em vigor deste diploma.
 
@@ -319,19 +368,29 @@ Art. 15.º - 1. Os servidores que anteriormente requereram a constituição da p
 
 10. Nos casos em que o saldo credor apurado nos termos dos n.os 6 e 9, relativamente a descontos anteriores efectuados ao abrigo do [Decreto n.º 47109](https://diariodarepublica.pt/dr/detalhe/decreto/47109-1966-475166), de 21 de Julho de 1966, depois de feita a dedução do que for devido por virtude da retroacção ou da conversão, conforme os casos, não haja de ser levado em conta em descontos futuros, no todo ou em parte, não haverá lugar, em caso algum, à restituição da importância que, no futuro, não tenha de ser encontrada em quaisquer descontos.
 
-Art. 16.º O novo regime instituído pelo presente diploma não é aplicável aos servidores referidos no n.º 1 do artigo anterior que, sendo contribuintes do Montepio dos Servidores do Estado anteriormente a 1 de Março de 1973, vieram a sujeitar-se ao regime do Estatuto das Pensões de Sobrevivência, aprovado pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março, dado o preceituado no artigo 23.º desse Estatuto e o princípio da não acumulação de pensões de sobrevivência.
+###### Artigo 16.º
 
-Art. 17.º Os herdeiros hábeis dos servidores a que se refere o n.º 1 do artigo 15.º poderão, no prazo estabelecido no n.º 1 do artigo 13.º, pedir a aplicação do novo regime instituído pelo presente diploma, bem como a retroacção prevista no n.º 3 do artigo 15.º, se o servidor tiver falecido no decurso do prazo em que as podia requerer.
+O novo regime instituído pelo presente diploma não é aplicável aos servidores referidos no n.º 1 do artigo anterior que, sendo contribuintes do Montepio dos Servidores do Estado anteriormente a 1 de Março de 1973, vieram a sujeitar-se ao regime do Estatuto das Pensões de Sobrevivência, aprovado pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março, dado o preceituado no artigo 23.º desse Estatuto e o princípio da não acumulação de pensões de sobrevivência.
+
+###### Artigo 17.º
+
+Os herdeiros hábeis dos servidores a que se refere o n.º 1 do artigo 15.º poderão, no prazo estabelecido no n.º 1 do artigo 13.º, pedir a aplicação do novo regime instituído pelo presente diploma, bem como a retroacção prevista no n.º 3 do artigo 15.º, se o servidor tiver falecido no decurso do prazo em que as podia requerer.
 
 2. Havendo herdeiros do servidor falecido que só no regime instituído pelo [Decreto n.º 47109](https://diariodarepublica.pt/dr/detalhe/decreto/47109-1966-475166), de 21 de Julho de 1966, poderiam ser considerados herdeiros hábeis e que tenham efectivo direito à pensão, o pedido de aplicação do regime do presente diploma será indeferido se o requerente não provar o acordo desses herdeiros no prazo que para o efeito se lhes fixar.
 
-Art. 18.º - 1. As disposições contidas neste diploma sobre pensão de sobrevivência entram em vigor a partir do dia 1 do mês seguinte ao da sua publicação, ficando revogado, a partir da mesma data, o [Decreto n.º 47109](https://diariodarepublica.pt/dr/detalhe/decreto/47109-1966-475166), de 21 de Julho de 1966.
+###### Artigo 18.º
+
+1. As disposições contidas neste diploma sobre pensão de sobrevivência entram em vigor a partir do dia 1 do mês seguinte ao da sua publicação, ficando revogado, a partir da mesma data, o [Decreto n.º 47109](https://diariodarepublica.pt/dr/detalhe/decreto/47109-1966-475166), de 21 de Julho de 1966.
 
 2. Quaisquer dúvidas que surjam na execução dos artigos 9.º a 18.º do presente diploma serão resolvidas por despacho ministerial.
 
-Art. 19.º São revogados os §§ 1.º a 7.º do artigo 437.º do Estatuto do Funcionalismo Ultramarino e, bem assim, os artigos 440.º, 441.º, 442.º, 445.º, 447.º, 448.º e 450.º do mesmo Estatuto.
+###### Artigo 19.º
 
-Art. 20.º Este diploma entra em vigor imediatamente.
+São revogados os §§ 1.º a 7.º do artigo 437.º do Estatuto do Funcionalismo Ultramarino e, bem assim, os artigos 440.º, 441.º, 442.º, 445.º, 447.º, 448.º e 450.º do mesmo Estatuto.
+
+###### Artigo 20.º
+
+Este diploma entra em vigor imediatamente.
 
 Vasco dos Santos Gonçalves - António de Almeida Santos - José da Silva Lopes.
 

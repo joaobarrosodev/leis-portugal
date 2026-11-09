@@ -38,10 +38,51 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-05-16'
+version_history:
+  file: decreto-lei-196-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-05-16'
+    amending: pt:dre:275431:por
+    amending_title: Decreto-Lei n.º 84/2000
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 32.º
+    - Adita Artigo 20.º-A
+    - Adita Artigo 43.º-A
+    - Adita Artigo 43.º-B
+    - Adita Artigo 47.º-A
+    - Adita Artigo 48.º-A
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/196/1997/07/31/p/dre/pt/html
@@ -67,7 +108,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:50:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 84/2000. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-196-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -177,11 +219,13 @@ a) Rendimento mínimo - montante indexado ao valor legalmente fixado para a pens
 
 b) Prestação de rendimento mínimo - atribuição pecuniária, de carácter temporário, variável em função do rendimento e da composição dos agregados familiares dos requerentes e calculada por referência ao valor fixado como rendimento mínimo;
 
-c) Programa de inserção - conjunto de acções, estabelecido, no respeito pelos princípios definidos pelos Ministérios da Solidariedade e Segurança Social e para a Qualificação e o Emprego, por acordo entre os núcleos executivos das comissões locais de acompanhamento, adiante designadas CLA, e os titulares do direito à prestação de rendimento mínimo e membros dos respectivos agregados familiares, que visa, de forma adequada às respectivas situações, criar condições facilitadoras do acesso à sua autonomia social e económica;
+c) Programa de inserção - conjunto articulado e coerente de acções faseadas no tempo, estabelecido entre os núcleos executivos das comissões locais de acompanhamento (CLA) e os titulares do direito à prestação do rendimento mínimo e membros dos respectivos agregados familiares, no respeito pelos princípios definidos pelo Ministério do Trabalho e da Solidariedade, construído de forma adequada às respectivas situações e tendo em conta os diversos aspectos objectivos e subjectivos que interferem nos processos de participação activa na vida em sociedade, com vista a criar condições facilitadoras do acesso à autonomia social e económica dessas pessoas;
 
 d) Menor em situação de autonomia económica - situação de indivíduo com idade inferior a 18 anos que não esteja na efectiva dependência económica de outrem a quem incumba, legalmente, obrigação alimentar, nem se encontre em instituição, oficial ou particular, ou em situação de colocação familiar;
 
 e) Dispensa de disponibilidade activa para a inserção profissional - procedimento aplicável a quem tenha uma situação pessoal ou familiar que implique, transitória ou definitivamente, que o processo de inserção social possa concretizar-se sem a inserção profissional.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ### CAPÍTULO II — Titularidade e condições de atribuição
 
@@ -205,13 +249,23 @@ b) Estejam dispensados da disponibilidade activa para a inserção profissional,
 
 c) O agregado familiar possua, no seu conjunto, rendimentos iguais ou superiores ao valor do rendimento mínimo correspondente.
 
-2 - Os indivíduos maiores referidos nas alíneas do n.º 2 do artigo 6.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009) e que não se enquadrem numa das situações referidas no n.º 1 deste artigo constituem agregado próprio, mesmo que vivam em economia comum e na dependência económica de um membro do agregado que reúna as condições necessárias à titularidade da prestação.
+2 - Não se consideram estudantes para os efeitos do disposto no número anterior os indivíduos maiores que se encontrem a frequentar o ensino recorrente nocturno.
+
+3 - Os indivíduos maiores referidos nas alíneas do n.º 2 do artigo 6.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009) e que não se enquadrem numa das situações referidas no n.º 1 deste artigo constituem agregado próprio, mesmo que vivam em economia comum e na dependência económica de um membro do agregado que reúna as condições necessárias à titularidade da prestação.
+
+4 - Nos casos em que o requerente da prestação viva em economia comum com alguma das pessoas referidas nas alíneas do n.º 2 do artigo 6.º da Lei n.º 19-A/96, de 29 de Junho, e na exclusiva dependência económica da mesma ou do respectivo agregado familiar, considera-se que, para efeitos do presente diploma, é este o agregado familiar do requerente desde que se verifique a situação referida na alínea c) do n.º 1.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ###### Artigo 5.º — Economia comum
 
 1 - Para efeitos do artigo 6.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009), considera-se que vivem em economia comum com o requerente da prestação de rendimento mínimo as pessoas referidas nas alíneas dos n.os 1 e 2 daquele artigo que com o mesmo habitem.
 
-2 - A situação de economia comum mantém-se nos casos em que se verifique a deslocação temporária de algum dos membros do agregado familiar por razões de saúde, estudo, formação profissional ou trabalho.
+2 - Considera-se que a situação de economia comum se mantém nos casos em que se verifique a deslocação, por período igual ou inferior a 30 dias, do titular ou de algum dos membros do agregado familiar e, ainda que por período superior, se a mesma for devida a razões de saúde, cumprimento de medida ou pena privativa de liberdade, estudo, formação profissional ou de relação de trabalho que revista carácter temporário.
+
+3 - Quando a ausência do titular ou de algum dos membros do agregado familiar for devida a cumprimento de medida ou pena privativa de liberdade, considera-se que a situação de economia comum se mantém pelo prazo máximo de dois anos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ###### Artigo 6.º — Exclusiva dependência económica
 
@@ -231,15 +285,21 @@ Considera-se que estão em situação de exclusiva dependência económica as pe
 
 1 - Nos casos em que o titular da prestação não possa, por si, requerer outras prestações de segurança social a que tenha direito, devem as mesmas ser requeridas, em seu nome, pelo centro regional de segurança social com competência para atribuição da prestação de rendimento mínimo, como determina o n.º 4 do artigo 5.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009).
 
-2 - Os centros regionais de segurança social ficam sub-rogados no direito aos valores correspondentes às prestações de rendimento mínimo que concedam enquanto não forem pagas as prestações do regime geral a que os titulares tenham direito e até à concorrência do respectivo montante.
+2 - Quando aos requerentes da prestação de rendimento mínimo venha a ser reconhecido, com efeitos retroactivos, o direito a outras prestações dos regimes de segurança social, de índole contributiva ou não contributiva, ficam as instituições de segurança social competentes sub-rogadas no direito aos montantes correspondentes à prestação de rendimento mínimo, entretanto pagos, e até à concorrência do respectivo valor.
 
 3 - Sempre que o titular da prestação não possa, por si, exercer o direito de acção para cobrança dos seus créditos ou para reconhecimento do direito a alimentos, é conferido ao centro regional de segurança social competente para atribuição daquela prestação o direito de interpor as respectivas acções judiciais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ### CAPÍTULO III — Rendimentos
 
 ###### Artigo 9.º — Rendimentos ilíquidos
 
-Para efeitos da atribuição e do cálculo do montante da prestação, devem considerar-se os valores ilíquidos dos rendimentos referidos no n.º 1 do artigo 9.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009).
+1 - Para efeitos da atribuição e do cálculo do montante da prestação, devem considerar-se os valores ilíquidos dos rendimentos referidos no n.º 1 do artigo 9.º da Lei n.º 19-A/96, de 29 de Junho.
+
+2 - No âmbito do presente diploma considera-se equiparado às prestações familiares o complemento de dependência a que se refere o Decreto-Lei n.º 265/99, de 14 de Julho, regulamentado pela Portaria n.º 764/99, de 27 de Agosto, do Ministério do Trabalho e da Solidariedade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ###### Artigo 10.º — Consideração dos rendimentos de trabalho
 
@@ -249,9 +309,23 @@ Para efeitos da atribuição e do cálculo do montante da prestação, devem con
 
 3 - A prorrogação do período de concessão da prestação não determina alteração da percentagem referida no número anterior.
 
+4 - Para efeitos do presente diploma considera-se equiparado a rendimentos de trabalho o subsídio mensal atribuído aos trabalhadores em situação de comprovada carência económica abrangidos pelos programas de actividade ocupacionais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
+
 ###### Artigo 11.º — Rendimentos de trabalho dependente
 
-Os rendimentos de trabalho dependente a declarar para efeitos da atribuição da prestação são os efectivamente auferidos, não podendo, no entanto, os mesmos ser inferiores aos declarados como base de incidência contributiva para o regime geral de segurança social dos trabalhadores por conta de outrem, mesmo que convencionais.
+1 - Os rendimentos de trabalho dependente a declarar para efeitos da atribuição da prestação são os efectivamente auferidos no mês anterior ao da apresentação do requerimento, não podendo, no entanto, os mesmos ser inferiores aos declarados como base de incidência contributiva para o regime geral de segurança social dos trabalhadores por conta de outrem, mesmo que convencionais.
+
+2 - Para efeitos do disposto no número anterior não são considerados os montantes das remunerações auferidas no mês em causa mas que se reportem a anteriores períodos de actividade.
+
+3 - Excepcionam-se do disposto no n.º 1 as situações em que, à data do requerimento, tenha ocorrido a cessação da relação de trabalho subordinado ou tenha sido alterado o montante das remunerações, casos em que se deverá atender à declaração do requerente, sem prejuízo da averiguação oficiosa que se tenha por necessária.
+
+4 - Sempre que as remunerações da actividade dependente sejam variáveis, pode o requerente solicitar que seja tido em conta o valor médio das remunerações auferidas nos três meses imediatamente anteriores ao do requerimento.
+
+5 - Nos casos em que a remuneração auferida no mês anterior ao da apresentação do requerimento se reporte a mais de um mês de trabalho deve ser considerado o valor médio correspondente aos meses a que aquela remuneração se refere.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ###### Artigo 12.º — Rendimentos de trabalho independente
 
@@ -265,7 +339,11 @@ Para determinação dos rendimentos e consequente cálculo do montante da presta
 
 1 - Nos casos em que os requerentes ou os membros do seu agregado familiar detenham capital, mobiliário ou imobiliário, deve o respectivo rendimento ser considerado para efeitos da atribuição e cálculo da prestação.
 
-2 - Sempre que do capital imobiliário não sejam, de facto, auferidos rendimentos, devem considerar-se, para os efeitos referidos no número anterior, os rendimentos colectáveis fixados para fins fiscais.
+2 - Sempre que do capital imobiliário não sejam, de facto, auferidos rendimentos, deve considerar-se como rendimento anual, para os efeitos referidos no número anterior, o montante igual a 5% do valor tributável dos imóveis.
+
+3 - O disposto no número anterior não se aplica aos imóveis destinados à habitação permanente do titular da prestação e do respectivo agregado familiar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ###### Artigo 15.º — Outros rendimentos
 
@@ -299,6 +377,12 @@ Nos casos em que do cálculo da prestação resulte montante inferior a 5% do va
 
 A prestação é paga mensalmente, por referência a cada mês do ano civil.
 
+###### Artigo 20.º-A — Compensação
+
+As prestações de rendimento mínimo não podem ser objecto de compensação com quaisquer valores pecuniários devidos à segurança social pelo seu titular ou por membros do respectivo agregado familiar.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
+
 ### CAPÍTULO V — Processo de atribuição da prestação
 
 ###### Artigo 21.º — Competência para atribuição da prestação
@@ -327,23 +411,31 @@ Do requerimento deve constar compromisso de honra sobre a veracidade de todas as
 
 1 - Os rendimentos declarados devem ser verificados quer no processo de atribuição da prestação, no âmbito da informação social, quer em momento posterior a essa atribuição.
 
-2 - Da verificação referida no n.º 1, bem como da existência de indícios objectivos e seguros de que o requerente dispõe de rendimentos suficientes para satisfazer as necessidades do seu agregado familiar, pode resultar a alteração dos montantes declarados e, consequentemente, a revisão do valor da prestação a atribuir, ou o seu indeferimento, sem prejuízo do disposto no artigo 14.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009), de 29 de Julho.
+2 - As entidades que detenham informações relevantes para a atribuição e cálculo da prestação, nomeadamente os serviços da administração fiscal, devem prestar as referidas informações sempre que tal lhes seja solicitado pelos centros regionais de segurança social no exercício da autorização concedida pelos beneficiários, nos termos previstos na alínea e) do n.º 1 do artigo 5.º da Lei n.º 19-A/96, de 29 de Junho.
+
+3 - Da verificação referida no n.º 1, bem como da existência de indícios objectivos e seguros de que o requerente dispõe de rendimentos suficientes para satisfazer as necessidades do seu agregado familiar, pode resultar a alteração dos montantes declarados e, consequentemente, a revisão do valor da prestação a atribuir, ou o seu indeferimento, sem prejuízo do disposto no artigo 14.º da Lei n.º 19-A/96, de 29 de Junho.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ###### Artigo 26.º — Documentação justificativa das declarações
 
-1 - Sem prejuízo da averiguação oficiosa dos rendimentos declarados, devem os interessados apresentar a documentação que lhes for solicitada, nomeadamente os recibos comprovativos das remunerações auferidas à data do requerimento.
+1 - Sem prejuízo da averiguação oficiosa dos rendimentos declarados, devem os interessados apresentar a documentação que lhes for solicitada, nomeadamente os recibos comprovativos das remunerações auferidas no mês anterior ao do requerimento.
 
 2 - Para efeitos da atribuição do apoio especial para compensação de despesas de habitação ou alojamento, deve o requerimento ser acompanhado de documento comprovativo daquelas despesas.
 
-3 - Nos casos em que o interessado não possa apresentar parte ou a totalidade da documentação solicitada, devem as suas declarações ser aceites, sem prejuízo de os serviços procederem, a todo o tempo, às diligências necessárias à verificação da sua veracidade.
+3 - Nos casos em que o interessado não possa apresentar parte ou a totalidade da documentação solicitada, devem as suas declarações ser aceites, sem prejuízo de os serviços competentes procederem, a todo o tempo, às diligências necessárias à verificação da sua veracidade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ###### Artigo 27.º — Identificação do requerente e dos membros do agregado familiar
 
 1 - Para efeitos da identificação dos requerentes e dos membros dos seus agregados familiares, deve o requerimento ser acompanhado de fotocópias dos respectivos bilhetes de identidade, cédulas pessoais ou certidões de nascimento e, sempre que possível, dos cartões de identificação fiscal.
 
-2 - Nos casos em que o requerente seja cidadão estrangeiro, deve o requerimento ser acompanhado de fotocópia de título de residência válido.
+2 - Nos casos em que o requerente ou qualquer dos membros do agregado familiar seja cidadão estrangeiro deve o requerimento ser acompanhado de fotocópia do respectivo título de residência válido.
 
 3 - Sempre que a identificação do requerente ou de membros do seu agregado familiar já conste dos ficheiros da segurança social, pode, em relação aos mesmos, ser dispensada a apresentação dos documentos referidos no n.º 1.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ###### Artigo 28.º — Produção de efeitos
 
@@ -371,11 +463,13 @@ Os requerimentos produzem efeitos quanto à atribuição da prestação a partir
 
 3 - Findo o prazo para audiência prévia sem que haja resposta do requerente ou se a mesma não for susceptível de alterar o sentido da decisão, deve ser proferido despacho de indeferimento e comunicado o mesmo ao requerente.
 
-###### Artigo 32.º — Remessa para elaboração do relatório social
+###### Artigo 32.º — Remessa para elaboração de relatório social
 
-1 - Nas situações referidas no n.º 2 do artigo 27.º deve ser, de imediato, solicitada ao núcleo executivo da CLA competente a elaboração do relatório social a que se refere o n.º 2 do artigo 10.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009), sendo-lhe, na mesma altura, remetida fotocópia do requerimento, acompanhada da informação para despacho e de todos os elementos pertinentes de que os serviços disponham.
+1 - Nas situações referidas no n.º 2 do artigo 30.º deve ser, de imediato, solicitada ao núcleo executivo da CLA competente a elaboração de relatório social a que se refere o n.º 2 do artigo 10.º da Lei n.º 19-A/96, de 29 de Junho, sendo-lhe, na mesma altura, remetida fotocópia do requerimento, acompanhada da informação para despacho e de todos os elementos pertinentes de que os serviços disponham.
 
 2 - Nos dois dias úteis seguintes à recepção da solicitação de relatório social deve o núcleo executivo da CLA remetê-la ao técnico previamente designado para o efeito, nos termos definidos no regulamento interno da CLA.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ###### Artigo 33.º — Informação social
 
@@ -391,15 +485,23 @@ Os requerimentos produzem efeitos quanto à atribuição da prestação a partir
 
 2 - Constitui fundamento para indeferimento da prestação o parecer constante da informação social que, justificadamente, aduza a existência de indícios de rendimentos do requerente ou do respectivo agregado familiar superiores ao montante do rendimento mínimo correspondente.
 
-###### Artigo 35.º — Audição prévia do requerente
+###### Artigo 35.º — Audição do requerente
 
-Sempre que a entidade competente para a decisão conclua pela existência de indícios fortes no sentido do indeferimento, deve proceder-se à audição prévia do requerente.
+1 - Sempre que a entidade competente para a decisão conclua pela existência de indícios fortes no sentido do indeferimento, deve proceder-se à audição prévia do requerente.
+
+2 - Nos casos em que o requerente apresente elementos que ponham em causa a prevista decisão de indeferimento, devem os serviços competentes do centro regional de segurança social proceder às averiguações que sejam consideradas indispensáveis à respectiva confirmação, designando para tal fim técnicos que não tenham responsabilidades directas no acompanhamento dos programas de inserção.
+
+> Alterado pelo/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ### CAPÍTULO VI — Programa de inserção
 
 ###### Artigo 36.º — Elaboração do programa de inserção
 
-Logo que seja atribuída a prestação, deve ser dado conhecimento do facto ao núcleo executivo da CLA, para aprofundamento da análise da situação do agregado familiar conducente à elaboração do relatório social e para que, com base nos dados dele constantes, seja elaborado o programa de inserção, em conjunto com o titular da prestação e com os membros do respectivo agregado familiar que o devam subscrever.
+1 - Com vista ao aprofundamento da análise da situação do agregado familiar e à consequente elaboração do relatório social, logo que seja atribuída a prestação deve ser dado conhecimento desse facto ao núcleo executivo da CLA, bem como da data a partir da qual a prestação é devida, respectivo montante e data prevista para o primeiro pagamento.
+
+2 - Com base nos dados constantes do relatório social deve ser elaborado o programa de inserção em conjunto com o titular da prestação e com os restantes membros do agregado familiar que o devam subscrever.
+
+> Alterado pelo/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ###### Artigo 37.º — Relatório social
 
@@ -413,7 +515,7 @@ c) Rendimentos e situação patrimonial do titular e dos restantes membros do ag
 
 d) Situações determinantes da dispensa de disponibilidade activa para a inserção profissional;
 
-e) Identificação dos principais problemas que condicionam a autonomia social e económica do titular e dos membros do seu agregado familiar;
+e) Identificação dos principais problemas e das situações jurídico-legais que condicionam a autonomia social e económica do titular e dos membros do seu agregado familiar;
 
 f) Identificação das capacidades e potencialidades reveladas pelo titular e pelos membros do seu agregado familiar que devam subscrever o programa de inserção;
 
@@ -422,6 +524,8 @@ g) Parecer do técnico responsável pela elaboração do relatório social sobre
 h) Projecto de programa de inserção, elaborado em conjunto pelo técnico referido na alínea anterior, pelo titular da prestação e pelos membros do respectivo agregado familiar em condições de o subscrever.
 
 2 - O relatório social tem natureza confidencial, sem prejuízo de deverem ser extractados os elementos necessários, por um lado, à confirmação ou refutação das declarações constantes do requerimento para atribuição da prestação e, por outro, à fundamentação do projecto de programa de inserção a apresentar ao núcleo executivo da CLA.
+
+> Alterado pelo/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ###### Artigo 38.º — Dispensa da disponibilidade activa para a inserção profissional
 
@@ -443,19 +547,27 @@ O projecto de programa de inserção deve integrar os objectivos que se propõe 
 
 ###### Artigo 40.º — Acordo de inserção
 
-1 - Elaborado o projecto de programa de inserção, deve o mesmo ser remetido ao núcleo executivo da CLA, para aprovação.
+1 - Elaborado o projecto de programa de inserção, deve o mesmo ser remetido ao núcleo executivo da CLA, para aprovação, tendo em conta o disposto na alínea c) do artigo 2.º do presente diploma.
 
-2 - A aprovação do projecto de programa de inserção pelo núcleo executivo da CLA determina a imediata formalização do acordo de inserção, o qual será subscrito pelo representante do referido núcleo executivo, pelo titular da prestação e pelos indivíduos que integrem o respectivo agregado familiar e que detenham as condições para serem titulares do direito à prestação.
+2 - A aprovação do projecto de programa de inserção pelo núcleo executivo da CLA determina a imediata formalização do acordo de inserção, o qual será subscrito pelo coordenador da CLA, pelos representantes das entidades parceiras responsáveis pelas acções de inserção previstas, pelo titular da prestação e pelos indivíduos maiores de 16 anos que integrem o respectivo agregado familiar e sejam beneficiários daquelas acções.
 
 3 - Do acordo de inserção devem constar, para além do programa de inserção aprovado, as obrigações assumidas por cada um dos signatários.
 
-###### Artigo 41.º — Acompanhamento do acordo de inserção
+> Alterado pelo/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
+
+###### Artigo 41.º — Acompanhamento do programa de inserção
 
 1 - O desenvolvimento do programa de inserção deve ser acompanhado, de forma contínua, pelo técnico para tal designado pela CLA.
 
 2 - O acompanhamento do programa de inserção abrange a coordenação das acções nele inscritas e, em conjunto com as pessoas nelas envolvidas, a avaliação da respectiva eficácia e da eventual necessidade de introdução de alterações ao programa.
 
-3 - Para informação do núcleo executivo da CLA deve o técnico referido no n.º 1 apresentar pontos da situação trimestrais, bem como relatórios no final de cada período de concessão, dos quais deve constar parecer fundamentado sobre eventuais prorrogações e respectiva duração, cada uma das quais não poderá ser superior a 12 meses.
+3 - O técnico a quem compete o acompanhamento do programa de inserção deve comunicar ao núcleo executivo da CLA as alterações da situação relevantes para a concessão da prestação e para a definição do respectivo montante de que tenha conhecimento por força do exercício daquela competência, devendo o referido núcleo executivo, por sua vez, transmitir, de imediato, aquela informação ao centro regional de segurança social competente.
+
+4 - Sem prejuízo do disposto no número anterior, deve o técnico proceder, no 7.º mês posterior àquele a que se reporta o início da prestação, à apresentação ao núcleo executivo do ponto de situação sobre o programa de inserção.
+
+5 - Durante o mês anterior àquele em que termine cada período de concessão deve o técnico elaborar relatório detalhado, do qual constará parecer fundamentado sobre eventuais prorrogações da concessão da prestação e respectiva duração, cada uma das quais não pode ser superior a 12 meses.
+
+> Alterado pelo/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ###### Artigo 42.º — Revisão do acordo de inserção
 
@@ -463,15 +575,43 @@ O projecto de programa de inserção deve integrar os objectivos que se propõe 
 
 2 - Obtido o consenso para a alteração do programa de inserção acordado, deve o mesmo ser formalizado em adicional ao acordo, passando a fazer dele parte integrante.
 
-###### Artigo 43.º — Consequências da não celebração ou do incumprimento
+###### Artigo 43.º — Não celebração ou incumprimento do acordo pelo titular
 
-1 - A não celebração do acordo de inserção nos 90 dias seguintes à data do despacho de atribuição da prestação, por motivos imputáveis ao titular determina a cessação da prestação.
+1 - O acordo de inserção deve ser apresentado ao titular no prazo máximo de 90 dias após a data da atribuição da prestação e deve ser subscrito nos 15 dias seguintes à sua apresentação.
 
-2 - O incumprimento do acordo de inserção pelo titular ou por motivos imputáveis ao mesmo determina igualmente a cessação da prestação.
+2 - A não celebração do acordo de inserção, ou o seu posterior incumprimento, por motivos imputáveis ao titular determina a cessação da prestação.
 
-3 - Se o indivíduo referido nos números anteriores requerer de novo a prestação nos seis meses imediatamente a seguir à sua cessação, a mesma será indeferida, não podendo aquele ser considerado membro de um agregado familiar, para efeitos de determinação do valor de rendimento mínimo correspondente ao respectivo agregado, durante o referido período.
+3 - Considera-se que a não celebração do acordo é imputável ao titular quando, sem que se verifique causa justificativa relevante, o mesmo não compareça a três entrevistas para que seja convocado em datas seguidas ou interpoladas, directamente ou por carta com aviso de recepção, ou que, no decurso do processo de negociação do acordo, adopte, injustificadamente, atitude de rejeição das acções de inserção disponibilizadas.
 
-4 - O disposto no artigo anterior aplica-se aos restantes membros do agregado familiar que tenham condições para subscrever o acordo de inserção e não o façam ou não o cumpram por motivos que lhes sejam imputáveis.
+4 - São causas justificativas relevantes da não comparência às entrevistas as situações, devidamente comprovadas, de doença, própria ou de membro do agregado familiar a quem o titular preste assistência, a prestação de trabalho ou a realização de diligências tendentes à sua obtenção, bem como o cumprimento de obrigações legais ou judiciais inadiáveis.
+
+5 - Não se considera justificada a recusa de acções de inserção quando as mesmas sejam, objectivamente, adequadas às aptidões físicas, habilitações escolares e à formação e experiência profissional do titular ou desde que não sejam susceptíveis de causar prejuízo ao mesmo ou ao respectivo agregado familiar.
+
+6 - Se o titular referido no n.º 2 requerer, de novo, a prestação nos seis meses imediatamente a seguir à sua cessação, a mesma ser-lhe-á indeferida, não podendo, durante o referido período, ser o mesmo indivíduo considerado como membro do respectivo agregado familiar para efeitos da determinação do valor do rendimento mínimo correspondente, sem prejuízo de serem tidos em conta os rendimentos por si auferidos no cálculo do montante da prestação.
+
+> Alterado pelo/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
+
+###### Artigo 43.º-A — Não celebração ou incumprimento do acordo por membro do agregado familiar
+
+1 - Os membros do agregado familiar de um titular do direito à prestação que, tendo condições para subscrever o acordo de inserção, o não façam ou não o cumpram por motivos que lhes sejam imputáveis deixam de ser considerados para efeitos da determinação do valor do rendimento mínimo correspondente ao mesmo agregado, sem prejuízo de serem tidos em conta os rendimentos por si auferidos no cálculo do montante da prestação, não lhes podendo ser, igualmente, reconhecido o direito à prestação durante os seis meses imediatamente sequentes àquele em que ocorra a recusa de celebração do acordo ou em que se interrompa o cumprimento do mesmo.
+
+2 - Aplica-se aos indivíduos referidos no número anterior, com as devidas adaptações, o disposto nos n.os 3, 4 e 5 do artigo anterior.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
+
+###### Artigo 43.º-B — Alteração da residência
+
+1 - Os requerentes e os beneficiários da prestação são obrigados a comunicar, no prazo de 10 dias úteis, aos serviços competentes da zona de origem ou da nova zona residencial a mudança da respectiva residência.
+
+2 - Quando, no decurso da concessão da prestação de rendimento mínimo, ocorra a mudança de residência do beneficiário e do respectivo agregado familiar para área geográfica não abrangida pelo serviço responsável por aquela concessão, deve este proceder à transferência do respectivo processo para o serviço competente que abranja a área da nova residência, acompanhado de informação, elaborada pelo núcleo executivo da CLA que vinha acompanhando o processo de inserção, sobre a situação em que se encontra aquele processo, nomeadamente quanto às acções em curso ou já programadas, com parecer sobre a possibilidade da sua manutenção.
+
+3 - Nos casos em que a comunicação é feita na área da nova residência, devem os respectivos serviços solicitar, no prazo de cinco dias úteis, informação e documentação idêntica à do número anterior aos serviços da área de origem.
+
+4 - Nos casos previstos nos números anteriores, o novo serviço competente para a concessão da prestação deve comunicar a transferência do processo ao núcleo executivo da CLA correspondente ao novo local de residência do beneficiário, remetendo-lhe a informação sobre o processo de inserção, tendo em vista a continuidade do acompanhamento da situação.
+
+5 - A transferência da residência de um beneficiário da prestação de rendimento mínimo e do respectivo agregado familiar da área geográfica de uma CLA para outra determina sempre a elaboração e o envio ao núcleo executivo da nova CLA competente da informação prevista no n.º 2.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ### CAPÍTULO VII — Revisão da prestação
 
@@ -483,13 +623,17 @@ a) Termine o período de concessão previsto;
 
 b) Haja alteração da composição do agregado familiar ou dos respectivos rendimentos.
 
-2 - Da revisão da prestação pode resultar o recálculo do seu montante ou a cessação da mesma.
+2 - Da revisão da prestação pode resultar o recálculo do seu montante, bem como a suspensão ou a cessação da mesma.
 
-###### Artigo 45.º — Excepção ao recálculo da prestação
+> Alterado pelo/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
-1 - Não há lugar ao recálculo do montante da prestação por alteração da composição do agregado familiar nos casos em que a mesma seja temporária.
+###### Artigo 45.º — Excepção à revisão da prestação
+
+1 - A alteração da composição do agregado familiar não dá lugar à revisão da prestação nos casos em que aquela alteração seja temporária.
 
 2 - Entende-se que a alteração do agregado familiar é temporária se a mesma tiver duração igual ou inferior a 30 dias ou se, sendo superior, ocorrer por qualquer dos motivos previstos no n.º 2 do artigo 5.º do presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ###### Artigo 46.º — Suspensão da prestação
 
@@ -497,21 +641,45 @@ b) Haja alteração da composição do agregado familiar ou dos respectivos rend
 
 a) Não concretização das acções necessárias ao efectivo exercício dos direitos a que se refere a alínea d) do n.º 1 do artigo 5.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009) no prazo de 90 dias contado a partir da data do despacho de atribuição da prestação, sem prejuízo do disposto no n.º 4 do mesmo artigo;
 
-b) Exercício de actividade remunerada que determinasse a cessação da prestação por alteração dos rendimentos, desde que essa actividade tenha duração inferior a 180 dias.
+b) Exercício de actividade profissional por período inferior a 180 dias ou frequência de curso de formação, quando as respectivas remunerações determinassem a cessação da prestação por alteração dos rendimentos.
 
 2 - A suspensão prevista na alínea a) do número anterior mantém-se enquanto não forem concretizadas as acções aí referidas e tem a duração máxima de 90 dias, findos os quais a prestação cessa.
 
-3 - A suspensão prevista na alínea b) do número anterior tem duração igual à da actividade que lhe deu causa.
+3 - A suspensão prevista na alínea b) do n.º 1 tem duração igual à da situação que lhe deu origem.
+
+> Alterado pelo/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ###### Artigo 47.º — Cessação da prestação
 
-Para além dos casos previstos no artigo 44.º, há lugar à cessação da prestação quando deixem de se verificar as condições previstas nas alíneas a) e b) do n.º 1 artigo 5.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009).
+1 - Para além dos casos previstos nos n.os 1 e 2 do artigo 43.º e no n.º 2 do artigo 46.º, há lugar à cessação da prestação quando deixem de se verificar as condições previstas nas alíneas a) e b) do n.º 1 do artigo 5.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009), de 29 de Junho.
 
-###### Artigo 48.º — Produção de efeitos
+2 - Determina, igualmente, a cessação da prestação a recusa injustificada do fornecimento de meios de prova necessários à verificação da manutenção das condições de que depende a respectiva concessão.
 
-1 - A alteração do montante da prestação e a respectiva suspensão ou cessação ocorrem no mês seguinte àquele em que se verifiquem as circunstâncias determinantes daquelas situações, com a excepção constante do número seguinte.
+> Alterado pelo/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
+
+###### Artigo 47.º-A — Manutenção dos programas de inserção
+
+A suspensão ou a cessação da prestação em virtude da alteração de rendimentos ou da composição do agregado familiar não prejudica a manutenção das acções de inserção em curso e das que tenham sido programadas no âmbito de acordo de inserção já formalizado, mantendo-se, igualmente, a concessão dos apoios que tenham sido aprovados no âmbito das acções de inserção em curso.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
+
+###### Artigo 48.º — Produção de efeitos da alteração da prestação
+
+1 - A alteração do montante da prestação e a respectiva suspensão ou cessação ocorrem no mês seguinte àquele em que se verifiquem as circunstâncias determinantes daquelas situações, com as excepções dos números seguintes.
 
 2 - Se a declaração sobre a verificação de circunstâncias determinantes da alteração do montante da prestação para valor superior não for efectuada no prazo previsto no n.º 4 do artigo 13.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009), a mesma produz efeitos a partir do mês seguinte àquele em que a declaração tenha lugar.
+
+3 - A alteração do valor das prestações determinada pelo aumento do montante da pensão social ou de rendimentos dos agregados familiares que se reportem a um mês inteiro produz efeitos no próprio mês em que estes aumentos ocorram.
+
+> Alterado pelo/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
+
+###### Artigo 48.º-A — Restituição das prestações indevidamente pagas
+
+1 - As instituições de segurança social competentes podem autorizar, a requerimento do beneficiário e sob parecer favorável do núcleo executivo da CLA respectiva, que a restituição das prestações indevidamente pagas seja efectuada em prestações.
+
+2 - Os montantes referentes a prestações de rendimento mínimo indevidamente pagas podem ser objecto de compensação com outras prestações dos regimes de segurança social a que o mesmo titular tenha direito.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2000-275431), publicado em 2000-05-11.
 
 ### CAPÍTULO VIII — Disposições transitórias e finais
 

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-06-24'
+version_history:
+  file: decreto-lei-177-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-05-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-06-24'
+    amending: pt:dre:574953:por
+    amending_title: Decreto-Lei n.º 200/90
+    changes:
+    - Adita Artigo 28.º-A
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:42:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 200/90. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-177-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,7 +125,9 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Consti
 
 ### CAPÍTULO I — Finalidade e diferentes modalidades das medalhas
 
-Artigo 1.º - 1 - As medalhas de segurança pública, nas suas diferentes modalidades, destinam-se a galardoar os serviços notáveis prestados às forças de segurança e à Nação e bem assim a distinguir altas virtudes reveladas no serviço por agentes da força pública ou militares ao seu serviço.
+###### Artigo 1.º
+
+1 - As medalhas de segurança pública, nas suas diferentes modalidades, destinam-se a galardoar os serviços notáveis prestados às forças de segurança e à Nação e bem assim a distinguir altas virtudes reveladas no serviço por agentes da força pública ou militares ao seu serviço.
 
 2 - As medalhas de segurança pública compreendem as seguintes modalidades:
 
@@ -122,11 +139,17 @@ Assiduidade;
 
 Comportamento exemplar.
 
-Art. 2.º As medalhas de serviços distintos, mérito de segurança pública e assiduidade destinam-se aos agentes da força pública que, ao serviço da ordem ou por motivo dela, estejam nas condições previstas neste decreto.
+###### Artigo 2.º
 
-Art. 3.º A medalha de comportamento exemplar é exclusiva da Polícia de Segurança Pública.
+As medalhas de serviços distintos, mérito de segurança pública e assiduidade destinam-se aos agentes da força pública que, ao serviço da ordem ou por motivo dela, estejam nas condições previstas neste decreto.
 
-Art. 4.º Para a concessão das medalhas de segurança pública é criado, como órgão consultivo do Ministro da Administração Interna, o Conselho da Medalha, que tem a seguinte constituição:
+###### Artigo 3.º
+
+A medalha de comportamento exemplar é exclusiva da Polícia de Segurança Pública.
+
+###### Artigo 4.º
+
+Para a concessão das medalhas de segurança pública é criado, como órgão consultivo do Ministro da Administração Interna, o Conselho da Medalha, que tem a seguinte constituição:
 
 Secretário-geral do Ministério da Administração Interna, que preside;
 
@@ -138,13 +161,19 @@ Chefe do Estado-Maior da Guarda Nacional Republicana (secretário sem voto);
 
 Chefe do Estado-Maior da Polícia de Segurança Pública (secretário sem voto).
 
-Art. 5.º As medalhas de serviços distintos, mérito de segurança pública, assiduidade e comportamento exemplar, de que trata este decreto, serão fornecidas pelo Estado e sempre impostas em formaturas e com a maior solenidade.
+###### Artigo 5.º
 
-Art. 6.º Por morte do condecorado, as medalhas de serviços distintos e de mérito de segurança pública serão impostas como recordação à família, pela seguinte ordem: filho, viúva ou filha mais velha, pai, mãe ou outro ascendente, irmão ou irmã mais velha.
+As medalhas de serviços distintos, mérito de segurança pública, assiduidade e comportamento exemplar, de que trata este decreto, serão fornecidas pelo Estado e sempre impostas em formaturas e com a maior solenidade.
+
+###### Artigo 6.º
+
+Por morte do condecorado, as medalhas de serviços distintos e de mérito de segurança pública serão impostas como recordação à família, pela seguinte ordem: filho, viúva ou filha mais velha, pai, mãe ou outro ascendente, irmão ou irmã mais velha.
 
 ### CAPÍTULO II — Da medalha de serviços distintos
 
-Art. 7.º - 1 - A medalha de serviços distintos é destinada a premiar actos extraordinários individuais ou colectivos ligados à actividade das forças de segurança nos quais se tenham revelado qualidades de bravura, coragem, provado esforço, energia ou grande dedicação em serviço de segurança pública.
+###### Artigo 7.º
+
+1 - A medalha de serviços distintos é destinada a premiar actos extraordinários individuais ou colectivos ligados à actividade das forças de segurança nos quais se tenham revelado qualidades de bravura, coragem, provado esforço, energia ou grande dedicação em serviço de segurança pública.
 
 2 - A medalha de serviços distintos compreende os seguintes graus:
 
@@ -152,13 +181,17 @@ Medalha de ouro;
 
 Medalha de prata.
 
-Art. 8.º - 1 - As medalhas de ouro e de prata de serviços distintos serão do formato da cruz de Cristo, com os braços iguais e a cruz central aberta. O inverso será formado pelas armas nacionais ao centro e circundadas pela legenda «República Portuguesa», levando no reverso a legenda «Medalha de Segurança Pública - 1926», a circundar a legenda central «Serviços Distintos», que será acompanhada de coroa de louros e florão, nos termos do modelo constante no anexo I a este diploma.
+###### Artigo 8.º
+
+1 - As medalhas de ouro e de prata de serviços distintos serão do formato da cruz de Cristo, com os braços iguais e a cruz central aberta. O inverso será formado pelas armas nacionais ao centro e circundadas pela legenda «República Portuguesa», levando no reverso a legenda «Medalha de Segurança Pública - 1926», a circundar a legenda central «Serviços Distintos», que será acompanhada de coroa de louros e florão, nos termos do modelo constante no anexo I a este diploma.
 
 2 - A medalha será suspensa de uma fita de seda preta e branca de larguras iguais, no sentido vertical, com a cor branca para o lado esquerdo.
 
 3 - O comprimento total dos braços da cruz, quer na vertical, quer na horizontal, será de 0,045 m e a espessura de 0,01 m.
 
-Art. 9.º - 1 - A medalha de ouro de serviços distintos pode ser concedida aos agentes ao serviço da ordem pública que, no exercício das suas funções ou com elas relacionadas, tenham prestado serviços extraordinariamente importantes e distintos e como tal classificados em louvor individual publicado no Diário da República.
+###### Artigo 9.º
+
+1 - A medalha de ouro de serviços distintos pode ser concedida aos agentes ao serviço da ordem pública que, no exercício das suas funções ou com elas relacionadas, tenham prestado serviços extraordinariamente importantes e distintos e como tal classificados em louvor individual publicado no Diário da República.
 
 2 - Esta medalha pode também ser concedida aos comandos regionais, comandos distritais e equiparados, às unidades e aos estabelecimentos de ensino da Polícia de Segurança Pública ou outras forças de segurança que tenham prestado à causa pública ou às instituições nacionais serviços considerados muito importantes e distintos.
 
@@ -166,13 +199,19 @@ Art. 9.º - 1 - A medalha de ouro de serviços distintos pode ser concedida aos 
 
 4 - A concessão desta medalha implica a anulação de todas as punições disciplinares, para efeitos de promoção, petição ou qualquer outra em que deva influir o comportamento exemplar.
 
-Art. 10.º - 1 - A concessão da medalha de prata de serviços distintos é feita com base em louvor publicado no Diário da República, onde as acções ou serviços prestados sejam expressamente classificados de distintos ou, com a mesma classificação, em louvor publicado na ordem de serviço do comando-geral respectivo quando o agente, desempenhando missão policial importante, tenha revelado excepcionais qualidades físicas e morais.
+###### Artigo 10.º
+
+1 - A concessão da medalha de prata de serviços distintos é feita com base em louvor publicado no Diário da República, onde as acções ou serviços prestados sejam expressamente classificados de distintos ou, com a mesma classificação, em louvor publicado na ordem de serviço do comando-geral respectivo quando o agente, desempenhando missão policial importante, tenha revelado excepcionais qualidades físicas e morais.
 
 2 - Esta medalha anula, nos mesmos termos do n.º 4 do artigo 10.º, todas as punições disciplinares aplicadas nos últimos 10 anos.
 
-Art. 11.º As medalhas de serviços distintos podem ser concedidas tantas vezes ao mesmo indivíduo quantas aquelas em que ele estiver compreendido nos casos previstos nos artigos 10.º e 11.º
+###### Artigo 11.º
 
-Art. 12.º Não é permitido o uso de mais de uma medalha, devendo a repetição ser representada por fivelas de ouro e de prata e por algarismos colocados sobre essas fivelas, do seguinte modo:
+As medalhas de serviços distintos podem ser concedidas tantas vezes ao mesmo indivíduo quantas aquelas em que ele estiver compreendido nos casos previstos nos artigos 10.º e 11.º
+
+###### Artigo 12.º
+
+Não é permitido o uso de mais de uma medalha, devendo a repetição ser representada por fivelas de ouro e de prata e por algarismos colocados sobre essas fivelas, do seguinte modo:
 
 1.º Os agraciados com uma medalha de ouro e uma de prata usarão na fita da medalha uma fivela de ouro e outra de prata;
 
@@ -180,7 +219,9 @@ Art. 12.º Não é permitido o uso de mais de uma medalha, devendo a repetição
 
 ### CAPÍTULO III — Da medalha de mérito de segurança pública
 
-Art. 13.º - 1 - A medalha de mérito de segurança pública destina-se a galardoar os elementos das forças de segurança que revelem excepcionais qualidades e virtudes profissionais com merecimento de serem apontados ao respeito e consideração pública, podendo ainda ser atribuída a civis ou instituições que prestem acções relevantes à segurança pública.
+###### Artigo 13.º
+
+1 - A medalha de mérito de segurança pública destina-se a galardoar os elementos das forças de segurança que revelem excepcionais qualidades e virtudes profissionais com merecimento de serem apontados ao respeito e consideração pública, podendo ainda ser atribuída a civis ou instituições que prestem acções relevantes à segurança pública.
 
 2 - A medalha de mérito de segurança pública compreende os graus a seguir indicados:
 
@@ -192,7 +233,9 @@ Medalha de 3.ª classe;
 
 Medalha de 4.ª classe.
 
-Art. 14.º - 1 - A medalha de mérito de segurança pública será constituída por uma estrela de prata de 5 pontas, tendo ao centro as armas nacionais e a legenda «República Portuguesa» com letras a ouro sobre fundo azul a circundar as mesmas. Levará também a circundar o conjunto central uma coroa de louros de ouro envolvente.
+###### Artigo 14.º
+
+1 - A medalha de mérito de segurança pública será constituída por uma estrela de prata de 5 pontas, tendo ao centro as armas nacionais e a legenda «República Portuguesa» com letras a ouro sobre fundo azul a circundar as mesmas. Levará também a circundar o conjunto central uma coroa de louros de ouro envolvente.
 
 2 - O reverso será composto pelas peças exteriores no anverso e levando ao centro, sobre campo azul, ladeado de coroa de louros de ouro, um sabre policial, modelo cabeça de leão, com lâmina de prata e punho de ouro, colocado verticalmente a eixo do campo com a ponta virada para cima. A circundar a coroa de louros interior levará a legenda «Mérito - Segurança Pública» com as letras a ouro sobre fundo azul, nos termos do modelo constante no anexo II a este diploma.
 
@@ -212,7 +255,9 @@ Art. 14.º - 1 - A medalha de mérito de segurança pública será constituída 
 
 6 - Para os outros casos de distinção da segurança pública, a medalha de mérito não levará a estrela de 6 pontas sobre a fita de seda, uma vez que este elemento heráldico é atributo privativo da PSP, sendo a estrela de 6 pontas substituída por uma de 5 pontas.
 
-Art. 15.º Os graus da medalha de mérito de segurança pública constantes deste artigo poderão ser concedidos aos elementos que possuam a patente ou graduação e o tempo de serviço seguintes:
+###### Artigo 15.º
+
+Os graus da medalha de mérito de segurança pública constantes deste artigo poderão ser concedidos aos elementos que possuam a patente ou graduação e o tempo de serviço seguintes:
 
 1.ª classe - Capitão comissário principal e categorias superiores com, pelo menos, 20 anos de serviço;
 
@@ -222,7 +267,9 @@ Art. 15.º Os graus da medalha de mérito de segurança pública constantes dest
 
 4.ª classe - Cabos, guardas, marinheiros e soldados com o mínimo de 5 anos de serviço.
 
-Art. 16.º Para que os elementos possam ser agraciados com a medalha de mérito, é necessário que, durante o período de serviço já prestado, se tenham tornado detentores das virtudes a seguir enunciadas:
+###### Artigo 16.º
+
+Para que os elementos possam ser agraciados com a medalha de mérito, é necessário que, durante o período de serviço já prestado, se tenham tornado detentores das virtudes a seguir enunciadas:
 
 a) Tenham revelado dotes de carácter, espírito de obediência e aptidão para bem servir em todas as circunstâncias;
 
@@ -230,7 +277,9 @@ b) Pratiquem, em elevado grau, a virtude da lealdade e tenham revelado qualidade
 
 e) Se mostrem sempre dignos, pela sua competência e pela afirmação constante de reconhecida coragem moral, de ocupar postos ou cargos de grande responsabilidade.
 
-Art. 17.º A medalha de mérito será especialmente concedida àqueles elementos que, satisfazendo as condições dos artigos anteriores, reúnam qualquer mais das seguintes:
+###### Artigo 17.º
+
+A medalha de mérito será especialmente concedida àqueles elementos que, satisfazendo as condições dos artigos anteriores, reúnam qualquer mais das seguintes:
 
 a) Terem desempenhado serviços de elevado mérito, principalmente na manutenção da ordem, na segurança e tranquilidade públicas;
 
@@ -242,7 +291,9 @@ d) Terem prestado serviços docentes particularmente importantes em escolas ou c
 
 e) Terem realizado feito que evidencie alto sentido de patriotismo ou de lealdade e de extrema dedicação pelas instituições nacionais.
 
-Art. 18.º Para que se possa ser agraciado com qualquer das modalidades da medalha de mérito, é necessário:
+###### Artigo 18.º
+
+Para que se possa ser agraciado com qualquer das modalidades da medalha de mérito, é necessário:
 
 a) Ter bom comportamento;
 
@@ -250,9 +301,13 @@ b) Ter registado, pelo menos, 1 louvor individual concedido pelo ministro da pas
 
 c) Ter boas informações dos seus comandantes ou chefes acerca das qualidades morais e profissionais.
 
-Art. 19.º A concessão da medalha de mérito de segurança pública é feita por iniciativa do Ministro da Administração Interna ou proposta dos comandantes-gerais das forças de segurança.
+###### Artigo 19.º
 
-Art. 20.º A instrução do processo para a concessão da medalha de mérito de segurança pública deve obedecer às seguintes formalidades:
+A concessão da medalha de mérito de segurança pública é feita por iniciativa do Ministro da Administração Interna ou proposta dos comandantes-gerais das forças de segurança.
+
+###### Artigo 20.º
+
+A instrução do processo para a concessão da medalha de mérito de segurança pública deve obedecer às seguintes formalidades:
 
 a) Quando seja iniciativa do Ministro da Administração Interna, serão ouvidas as entidades, referidas na parte final do artigo 19.º, de quem o elemento dependa, para informarem se o proposto reúne as condições exigidas;
 
@@ -266,11 +321,15 @@ Cópia de todos os documentos cujo exame se torne necessário;
 
 Nota de assentos do proposto.
 
-Art. 21.º Pelo Gabinete do Ministro da Administração Interna serão passados diplomas de concessão das medalhas de serviços distintos e de mérito de segurança pública, sendo a sua emissão gratuita.
+###### Artigo 21.º
+
+Pelo Gabinete do Ministro da Administração Interna serão passados diplomas de concessão das medalhas de serviços distintos e de mérito de segurança pública, sendo a sua emissão gratuita.
 
 ### CAPÍTULO IV — Da medalha de assiduidade
 
-Art. 22.º - 1 - A medalha de assiduidade será destinada exclusivamente às forças de segurança pública e será conferida aos elementos das mesmas com 10, 20 e 30 anos de serviço efectivo que tenham, respectivamente, pelo menos, 2/3, 50% e 2/3 destes períodos de serviço no comando de esquadras e de postos e na via pública.
+###### Artigo 22.º
+
+1 - A medalha de assiduidade será destinada exclusivamente às forças de segurança pública e será conferida aos elementos das mesmas com 10, 20 e 30 anos de serviço efectivo que tenham, respectivamente, pelo menos, 2/3, 50% e 2/3 destes períodos de serviço no comando de esquadras e de postos e na via pública.
 
 2 - É considerado serviço na via pública o serviço de guarda, piquete, patrulha, ronda, comando de esquadra ou posto, vigilância na via pública, serviço de motorista e de ordenança.
 
@@ -284,13 +343,19 @@ Art. 22.º - 1 - A medalha de assiduidade será destinada exclusivamente às for
 
 3 estrelas.
 
-Art. 23.º A medalha de assiduidade será de prata e do formato da medalha militar, tendo de um lado a efígie da República, circundada pelas palavras «República Portuguesa - Segurança Pública», e do outro lado a legenda «Humanidade - Pátria - Dever - Dedicação - Altruísmo - 1926», e será suspensa de uma fita de 9 riscas verticais e alternadas, das cores preta e branca, de larguras iguais, ficando a cor preta nos bordos, nos termos do modelo constante do anexo III a este diploma.
+###### Artigo 23.º
 
-Art. 24.º A concessão desta medalha será feita por proposta dos respectivos comandos, devidamente documentada, ao Ministro da Administração Interna e os respectivos despachos publicados no Diário da República.
+A medalha de assiduidade será de prata e do formato da medalha militar, tendo de um lado a efígie da República, circundada pelas palavras «República Portuguesa - Segurança Pública», e do outro lado a legenda «Humanidade - Pátria - Dever - Dedicação - Altruísmo - 1926», e será suspensa de uma fita de 9 riscas verticais e alternadas, das cores preta e branca, de larguras iguais, ficando a cor preta nos bordos, nos termos do modelo constante do anexo III a este diploma.
+
+###### Artigo 24.º
+
+A concessão desta medalha será feita por proposta dos respectivos comandos, devidamente documentada, ao Ministro da Administração Interna e os respectivos despachos publicados no Diário da República.
 
 ### CAPÍTULO V — Da medalha de comportamento exemplar
 
-Art. 25.º - 1 - A medalha de comportamento exemplar é destinada a distinguir os elementos da Polícia de Segurança Pública que servem ao longo da sua carreira profissional com exemplar conduta moral e disciplinar e comprovado espírito de lealdade.
+###### Artigo 25.º
+
+1 - A medalha de comportamento exemplar é destinada a distinguir os elementos da Polícia de Segurança Pública que servem ao longo da sua carreira profissional com exemplar conduta moral e disciplinar e comprovado espírito de lealdade.
 
 2 - A medalha de comportamento exemplar compreende os seguintes graus:
 
@@ -300,23 +365,45 @@ Medalha de prata;
 
 Medalha de cobre.
 
-Art. 26.º A medalha de ouro será concedida aos elementos da Polícia de Segurança Pública que contarem 25 anos de serviço efectivo com exemplar comportamento e tenham sempre revelado dotes notáveis de zelo pelo serviço e alto sentido da virtude da obediência e das regras de disciplina.
+###### Artigo 26.º
 
-Art. 27.º A medalha de prata será concedida aos elementos da Polícia de Segurança Pública que contarem 15 anos de serviço efectivo com exemplar comportamento.
+A medalha de ouro será concedida aos elementos da Polícia de Segurança Pública que contarem 25 anos de serviço efectivo com exemplar comportamento e tenham sempre revelado dotes notáveis de zelo pelo serviço e alto sentido da virtude da obediência e das regras de disciplina.
 
-Art. 28.º A medalha de cobre será concedida aos elementos da Polícia de Segurança Pública que contarem 8 anos de serviço efectivo com exemplar comportamento.
+###### Artigo 27.º
 
-Art. 29.º Esta medalha será do formato da medalha militar, tendo de um lado a efígie da República e as palavras «República Portuguesa - Segurança Pública» e do outro lado a legenda «Comportamento Exemplar - 1926», e será suspensa de uma fita de riscas pretas e brancas, no sentido horizontal, de larguras iguais, nos termos do modelo constante na anexo IV a este diploma.
+A medalha de prata será concedida aos elementos da Polícia de Segurança Pública que contarem 15 anos de serviço efectivo com exemplar comportamento.
 
-Art. 30.º Os agraciados com esta medalha e que venham a ser condecorados com outras medalhas da mesma classe, correspondentes a maior número de anos de serviço, deixam de usar a que anteriormente lhes fora concedida.
+###### Artigo 28.º
 
-Art. 31.º A concessão desta medalha será feita por proposta dos respectivos comandos, devidamente documentada, ao Ministro da Administração Interna e os respectivos despachos publicados no Diário da República.
+A medalha de cobre será concedida aos elementos da Polícia de Segurança Pública que contarem 8 anos de serviço efectivo com exemplar comportamento.
+
+###### Artigo 28.º-A
+
+Para efeitos do disposto no presente capítulo, o tempo de serviço efectivo dos oficiais oriundos do quadro permanente e do quadro de complemento do Exército é o resultante do somatório do tempo de serviço efectivo prestado nas forças armadas e do tempo de serviço efectivo prestado na Polícia de Segurança Pública, após a respectiva integração.
+
+> Aditado pelo/a [Decreto-Lei n.º 200/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1990-574953), publicado em 1990-06-19.
+
+###### Artigo 29.º
+
+Esta medalha será do formato da medalha militar, tendo de um lado a efígie da República e as palavras «República Portuguesa - Segurança Pública» e do outro lado a legenda «Comportamento Exemplar - 1926», e será suspensa de uma fita de riscas pretas e brancas, no sentido horizontal, de larguras iguais, nos termos do modelo constante na anexo IV a este diploma.
+
+###### Artigo 30.º
+
+Os agraciados com esta medalha e que venham a ser condecorados com outras medalhas da mesma classe, correspondentes a maior número de anos de serviço, deixam de usar a que anteriormente lhes fora concedida.
+
+###### Artigo 31.º
+
+A concessão desta medalha será feita por proposta dos respectivos comandos, devidamente documentada, ao Ministro da Administração Interna e os respectivos despachos publicados no Diário da República.
 
 ### CAPÍTULO VI — Disposições gerais
 
-Art. 32.º O uso destas condecorações deverá ser sempre indicado em ordem de serviço.
+###### Artigo 32.º
 
-Art. 33.º As medalhas serão usadas do lado esquerdo do peito e com a seguinte precedência:
+O uso destas condecorações deverá ser sempre indicado em ordem de serviço.
+
+###### Artigo 33.º
+
+As medalhas serão usadas do lado esquerdo do peito e com a seguinte precedência:
 
 1.º Medalha de serviços distintos de segurança pública;
 
@@ -326,9 +413,13 @@ Art. 33.º As medalhas serão usadas do lado esquerdo do peito e com a seguinte 
 
 4.º Medalha de comportamento exemplar da PSP.
 
-Art. 34.º Perderá o direito a usar qualquer destas medalhas o condecorado que for condenado a pena maior ou qualquer outra imposta por crime ou infracção considerada infamante pelo Conselho, ao qual será enviada pela autoridade superior sob cujas ordens ele servir a cópia da sentença condenatória ou do artigo da ordem que aplicou a punição para efeito de cancelamento da condecoração no competente registo, o qual será publicado na ordem de serviço da força a que pertencer o destituído.
+###### Artigo 34.º
 
-Art. 35.º Fica revogada toda a legislação em contrário, nomeadamente o [Decreto n.º 17746](https://diariodarepublica.pt/dr/detalhe/decreto/17746-1929-289004), de 30 de Novembro de 1929, e o [Decreto-Lei n.º 37517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37517-1949-264932), de 12 de Agosto de 1949.
+Perderá o direito a usar qualquer destas medalhas o condecorado que for condenado a pena maior ou qualquer outra imposta por crime ou infracção considerada infamante pelo Conselho, ao qual será enviada pela autoridade superior sob cujas ordens ele servir a cópia da sentença condenatória ou do artigo da ordem que aplicou a punição para efeito de cancelamento da condecoração no competente registo, o qual será publicado na ordem de serviço da força a que pertencer o destituído.
+
+###### Artigo 35.º
+
+Fica revogada toda a legislação em contrário, nomeadamente o [Decreto n.º 17746](https://diariodarepublica.pt/dr/detalhe/decreto/17746-1929-289004), de 30 de Novembro de 1929, e o [Decreto-Lei n.º 37517](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37517-1949-264932), de 12 de Agosto de 1949.
 
 Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1982. - Francisco José Pereira Pinto Balsemão.
 

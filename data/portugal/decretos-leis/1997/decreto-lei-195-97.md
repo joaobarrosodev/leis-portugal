@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-08-19'
+version_history:
+  file: decreto-lei-195-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-08-19'
+    amending: pt:dre:437814:por
+    amending_title: Decreto-Lei n.º 256/98
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/195/1997/07/31/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:50:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 256/98. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-195-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -172,31 +188,41 @@ c) Ao pessoal referido na última parte do artigo anterior.
 
 ###### Artigo 3.º — Categoria de integração
 
-1 - A integração do pessoal nos quadros dos serviços e organismos da Administração Pública faz-se no escalão 1 da categoria de ingresso das carreiras que correspondam às funções efectivamente desempenhadas, sem prejuízo das habilitações literárias e profissionais exigidas.
+1 - A integração de pessoal nos quadros dos serviços e organismos da Administração Pública faz-se no escalão 1 da categoria de ingresso das carreiras que correspondam às funções efectivamente desempenhadas, constantes dos contratos a termo certo autorizados nos termos dos artigos 3.º, 4.º e 5.º do [Decreto-Lei n.º 81-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-a-1996-485381), de 21 de Junho, e do n.º 3 do artigo 2.º do presente diploma, sem prejuízo das habilitações literárias e profissionais exigidas.
 
-2 - Nos casos em que o interessado não possua as habilitações literárias ou profissionais adequadas às funções efectivamente desempenhadas, a integração é feita em categoria de ingresso de carreira em que se verifique o preenchimento do requisito habilitacional, cujo conteúdo funcional mais se aproxime daquele que vem sendo exercido.
+2 - Nos casos em que as categorias constantes dos contratos a termo certo prorrogados em conformidade com o artigo 3.º do [Decreto-Lei n.º 81-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-a-1996-485381), de 21 de Junho, não correspondam às funções efectivamente desempenhadas no momento da prorrogação, devem os serviços e organismos proceder à elaboração de novas propostas de contratação, instruídas nos termos dos artigos 4.º ou 5.º daquele diploma legal.
 
-3 - A habilitação literária poderá ser dispensada nas categorias de ingresso das carreiras dos grupos operário e auxiliar e para os trabalhadores agrícolas em que se exija a escolaridade obrigatória, desde que, independentemente da idade, se mostre, por meios idóneos, que a falta da habilitação literária não prejudica a sua capacidade de trabalho nas respectivas funções.
+3 - Nos casos em que o interessado não possua as habilitações literárias ou profissionais adequadas às funções efectivamente desempenhadas, a integração é feita em categoria de ingresso de carreira em que se verifique o preenchimento do requisito habilitacional, cujo conteúdo funcional mais se aproxime daquele que vem sendo exercido.
 
-4 - A integração é feita nas vagas existentes na respectiva categoria, considerando-se os quadros automaticamente alterados na estrita medida do indispensável, se os lugares vagos não forem suficientes, sendo os lugares assim criados a extinguir quando vagarem.
+4 - A habilitação literária poderá ser dispensada nas categorias de ingresso das carreiras dos grupos operário e auxiliar e para os trabalhadores agrícolas em que se exija a escolaridade obrigatória, desde que, independentemente da idade, se mostre, por meios idóneos, que a falta da habilitação literária não prejudica a sua capacidade de trabalho nas respectivas funções.
 
-5 - Sem prejuízo do disposto no artigo 8.º, os serviços que não disponham de quadro de pessoal devem abrir os concursos necessários à integração do pessoal, a qual se opera em situação de nomeação definitiva em mapas que deverão integrar o referido quadro.
+5 - A integração é feita nas vagas existentes na respectiva categoria, considerando-se os quadros automaticamente alterados na estrita medida do indispensável, se os lugares vagos não forem suficientes, sendo os lugares assim criados a extinguir quando vagarem.
 
-6 - Os serviços assegurarão no agrupamento económico «Despesas com o pessoal», através de mecanismos legais em vigor e sem aumento da despesa pública, as dotações necessárias à satisfação dos encargos decorrentes da integração prevista no número anterior.
+6 - Sem prejuízo do disposto no artigo 8.º, os serviços que não disponham de quadro de pessoal devem abrir os concursos necessários à integração do pessoal, a qual se opera em situação de nomeação definitiva em mapas que deverão integrar o referido quadro.
+
+7 - Os serviços assegurarão no agrupamento económico «Despesas com o pessoal», através de mecanismos legais em vigor e sem aumento da despesa pública, as dotações necessárias à satisfação dos encargos decorrentes da integração prevista no número anterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 256/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1998-437814), publicado em 1998-08-14.
 
 ###### Artigo 4.º — Processo de integração
 
 1 - A integração nos quadros do pessoal a que se refere o artigo 1.º depende da aprovação em concurso.
 
-2 - Os concursos necessários à integração do pessoal são obrigatoriamente abertos, independentemente da existência de vagas:
+2 - Os concursos necessários à integração do pessoal são abertos, independentemente da existência de vagas:
 
 a) Até ao final do mês de Setembro de 1997, para o pessoal que até 30 de Abril de 1997 conte mais de três anos de serviço;
 
 b) Durante os meses de Novembro de 1997 e de Fevereiro, Maio, Setembro e Dezembro de 1998, para o pessoal que entretanto tenha completado três anos de serviço;
 
-c) Durante o mês de Janeiro de 1999, para o pessoal que entretanto complete três anos de serviço.
+c) Durante os meses de Janeiro, Abril e Junho de 1999, para o pessoal que entretanto complete três anos de serviço;
 
-3 - O pessoal abrangido pelo presente diploma é candidato obrigatório ao concurso aberto no respectivo serviço ou organismo para a categoria correspondente às funções que desempenha, sem prejuízo do disposto no n.º 2 do artigo 3.º, sem o que o seu contrato é rescindido no termo do prazo fixado para a apresentação de candidaturas.
+d) Durante os meses de Setembro e Dezembro de 1999 e de Fevereiro, Maio, Junho e Setembro do ano 2000, para o pessoal abrangido pelo n.º 5 do artigo 13.º do [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), de 18 de Agosto, que entretanto complete três anos de serviço.
+
+3 - Se a emissão do despacho conjunto autorizador previsto no n.º 4 do artigo 2.º for posterior ao mês previsto para a abertura do concurso, será este obrigatoriamente aberto até ao final do mês que mais se aproxime daquele, de acordo com a calendarização prevista no número anterior.
+
+4 - O pessoal abrangido pelo presente diploma é candidato obrigatório ao concurso aberto no respectivo serviço ou organismo para a categoria correspondente às funções que desempenha, sem prejuízo do disposto no n.º 2 do artigo 3.º, sem o que o seu contrato é rescindido no termo do prazo fixado para a apresentação de candidaturas.
+
+> Alterado pelo/a [Decreto-Lei n.º 256/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1998-437814), publicado em 1998-08-14.
 
 ###### Artigo 5.º — Concursos
 

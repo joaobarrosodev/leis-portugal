@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:687999:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1963-11-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3793a81e491c73a8"
+   ]
+  },
+  {
+   "date": "1984-10-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:400007:por",
+     "title": "Decreto do Governo n.º 64/84",
+     "published": "1984-10-11",
+     "dre_path": "/dr/detalhe/decreto-governo/64-1984-400007"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "979a43741361814e",
+    "2f104cee1f3b0d5a",
+    "77af7cd0d0dea032",
+    "e383e946adbec718",
+    "1ac52e3d473c24ee"
+   ]
+  }
+ ],
+ "fragments": {
+  "3793a81e491c73a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Sendo necessário definir a zona confinante com as instalações do grupo n.º 1 de escolas da Armada, no concelho e freguesia de Vila Franca de Xira, sujeita a servidão militar;\n\nConsiderando o disposto na [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º Fica sujeita a servidão militar a área confinante com as instalações do grupo n.º 1 de escolas da Armada, assim delimitada:\n\na) A oeste, pela auto-estrada do Norte;\n\nb) A leste, pela linha da margem esquerda do rio Tejo;\n\nc) A norte, pela linha paralela ao muro que separa as instalações do grupo n.º 1 de escolas da Armada da propriedade municipal (Quinta do Cevadeiro) e seus prolongamentos, à distância de 150 m a norte do mesmo muro;\n\nd) A sul, pelo muro e seus prolongamentos situados à distância de 260 m da estrema sul dos terrenos do grupo n.º 1 de escolas da Armada e que separa as propriedades de António Botelho da Costa das da Sociedade Técnica de Hidráulica (Cimianto).\n\nArt. 2.º Na área sujeita a servidão militar, e nos termos do estabelecido na [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), são proibidos, sem prévia licença da autoridade militar competente, os trabalhos e actividades seguintes:\n\na) Construções de qualquer natureza, mesmo que sejam enterradas, subterrâneas ou aquáticas;\n\nb) Depósitos permanentes ou temporários de materiais explosivos ou inflamáveis;\n\nc) Outros trabalhos ou actividades que possam inequìvocamente prejudicar a segurança das instalações ou a execução das funções que competem ao grupo n.º 1 de escolas da Armada.\n\n§ 1.º Os trabalhos e actividades referidos neste artigo, quando executados pelo Estado ou autarquias locais, não carecem de licença militar, mas só podem realizar-se mediante a prévia e favorável apreciação do Ministério da Marinha.\n\n§ 2.º Em caso de desacordo entre os Ministérios interessados nos trabalhos e actividades mencionadas no parágrafo anterior, será o respectivo processo submetido a Conselho de Ministros.\n\n§ 3.º As licenças referidas no corpo deste artigo não dispensam as de outros serviços públicos com jurisdição no local.\n\n§ 4.º A obras ou actividades que a Administração-Geral do Porto de Lisboa licenciar dentro da zona onde, na área da servidão instituída pelo presente diploma, aquele organismo portuário exerce a sua jurisdição exceptuam-se da proibição exarada no artigo 2.º, ficando, por isso, dispensadas da licença militar prevista no artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070).\n\n§ 5.º As obras ou actividades referidas no parágrafo anterior só poderão ser licenciadas mediante prévia consulta ao Ministério da Marinha, nos termos do § 2.º do artigo 5.º do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), de 20 de Julho de 1948.\n\n§ 6.º A exigência da licença referida no corpo deste artigo não impedirá a urbanização nem a realização de obras portuárias ou de regularização marginal na área sujeita a servidão militar e a sua concessão será feita incondicionalmente, sempre que sejam observados os requisitos julgados indispensáveis pela autoridade militar.\n\nArt. 3.º As zonas indicadas no artigo 1.º serão demarcadas na carta militar de Portugal, na escala de 1:25000, sendo destinados exemplares às seguintes entidades:\n\na) Secretariado-Geral da Defesa Nacional;\n\nb) Ministério da Marinha;\n\nc) Ministério das Obras Públicas;\n\nd) Ministério das Comunicações.\n\nArt. 4.º Compete ao Ministério da Marinha, pela Superintendência dos Serviços da Armada, ouvido o Estado-Maior da Armada e o comando do grupo n.º 1 de escolas da Armada, a concessão das licenças a que se referem os artigos 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) e 2.º do presente decreto, ficando a cargo do comando do referido grupo a fiscalização do exacto cumprimento da lei e da rigorosa observância das condições impostas nas licenças concedidas.\n\n§ único. Das decisões tomadas ao abrigo deste artigo, poderão os interessados recorrer para o Ministro da Defesa Nacional.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 2 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Carlos Gomes da Silva Ribeiro."
+  },
+  "979a43741361814e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Sendo necessário definir a zona confinante com as instalações do grupo n.º 1 de escolas da Armada, no concelho e freguesia de Vila Franca de Xira, sujeita a servidão militar;\n\nConsiderando o disposto na [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "2f104cee1f3b0d5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1984-10-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto do Governo n.º 64/84](https://diariodarepublica.pt/dr/detalhe/decreto-governo/64-1984-400007), publicado em 1984-10-11."
+   ],
+   "markdown": "###### Artigo 1.º\n\nFica sujeita a servidão militar a área confinante com as instalações do grupo n.º 1 de escolas da Armada, assim delimitada:\n\na) A oeste, pela auto-estrada do Norte;\n\nb) A leste, pela linha da margem esquerda do rio Tejo;\n\nc) A norte, pela linha paralela ao muro que separa as instalações do grupo n.º 1 de escolas da Armada da propriedade municipal (Quinta do Cevadeiro) e seus prolongamentos, à distância de 150 m a norte do mesmo muro;\n\nd) A sul, pela perpendicular à linha de caminho de ferro que passa junto às instalações do Grupo n.º 1 de Escolas da Armada, traçada à distância de 130 m da esquina sudoeste do pavilhão gimnodesportivo das mesmas instalações.\n\n> Alterado pelo/a [Decreto do Governo n.º 64/84](https://diariodarepublica.pt/dr/detalhe/decreto-governo/64-1984-400007), publicado em 1984-10-11."
+  },
+  "77af7cd0d0dea032": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNa área sujeita a servidão militar, e nos termos do estabelecido na [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), são proibidos, sem prévia licença da autoridade militar competente, os trabalhos e actividades seguintes:\n\na) Construções de qualquer natureza, mesmo que sejam enterradas, subterrâneas ou aquáticas;\n\nb) Depósitos permanentes ou temporários de materiais explosivos ou inflamáveis;\n\nc) Outros trabalhos ou actividades que possam inequìvocamente prejudicar a segurança das instalações ou a execução das funções que competem ao grupo n.º 1 de escolas da Armada.\n\n§ 1.º Os trabalhos e actividades referidos neste artigo, quando executados pelo Estado ou autarquias locais, não carecem de licença militar, mas só podem realizar-se mediante a prévia e favorável apreciação do Ministério da Marinha.\n\n§ 2.º Em caso de desacordo entre os Ministérios interessados nos trabalhos e actividades mencionadas no parágrafo anterior, será o respectivo processo submetido a Conselho de Ministros.\n\n§ 3.º As licenças referidas no corpo deste artigo não dispensam as de outros serviços públicos com jurisdição no local.\n\n§ 4.º A obras ou actividades que a Administração-Geral do Porto de Lisboa licenciar dentro da zona onde, na área da servidão instituída pelo presente diploma, aquele organismo portuário exerce a sua jurisdição exceptuam-se da proibição exarada no artigo 2.º, ficando, por isso, dispensadas da licença militar prevista no artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070).\n\n§ 5.º As obras ou actividades referidas no parágrafo anterior só poderão ser licenciadas mediante prévia consulta ao Ministério da Marinha, nos termos do § 2.º do artigo 5.º do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672), de 20 de Julho de 1948.\n\n§ 6.º A exigência da licença referida no corpo deste artigo não impedirá a urbanização nem a realização de obras portuárias ou de regularização marginal na área sujeita a servidão militar e a sua concessão será feita incondicionalmente, sempre que sejam observados os requisitos julgados indispensáveis pela autoridade militar."
+  },
+  "e383e946adbec718": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs zonas indicadas no artigo 1.º serão demarcadas na carta militar de Portugal, na escala de 1:25000, sendo destinados exemplares às seguintes entidades:\n\na) Secretariado-Geral da Defesa Nacional;\n\nb) Ministério da Marinha;\n\nc) Ministério das Obras Públicas;\n\nd) Ministério das Comunicações."
+  },
+  "1ac52e3d473c24ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nCompete ao Ministério da Marinha, pela Superintendência dos Serviços da Armada, ouvido o Estado-Maior da Armada e o comando do grupo n.º 1 de escolas da Armada, a concessão das licenças a que se referem os artigos 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) e 2.º do presente decreto, ficando a cargo do comando do referido grupo a fiscalização do exacto cumprimento da lei e da rigorosa observância das condições impostas nas licenças concedidas.\n\n§ único. Das decisões tomadas ao abrigo deste artigo, poderão os interessados recorrer para o Ministro da Defesa Nacional.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 2 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Carlos Gomes da Silva Ribeiro."
+  }
+ }
+}

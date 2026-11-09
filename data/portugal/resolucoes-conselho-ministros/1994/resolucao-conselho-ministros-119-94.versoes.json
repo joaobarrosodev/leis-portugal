@@ -1,0 +1,892 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:549200:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-12-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ecbe3234d55dc09c",
+    "23836370ae405d04",
+    "eb44bd3bed11bcc1",
+    "f048ce8b0c25c709",
+    "1f8478d80953512a",
+    "796c0954c3129c8c",
+    "38be7cb902033c7a",
+    "421b18732e9ba4a3",
+    "27d6a44835457b7b",
+    "63e99ae2f191163b",
+    "38a0973c5c98d9d7",
+    "2320019c5281e397",
+    "38fc3634831fd022",
+    "22c5a2dcfd802d0d",
+    "e680cef520d2ae4a",
+    "b8f554f677cffc5b",
+    "cfa65be42b0edc09",
+    "045319fbd94617a8",
+    "e9fe672ddde1d8b6",
+    "9b68366c042e6ed2",
+    "a61252cacc4a3839",
+    "fa8e59d9123f18d8",
+    "9636ad79b1b453cf",
+    "d7f8e7ccd6066bc3",
+    "66af72459de4912f",
+    "c6697e0b2900bbf6",
+    "9bdd1e9eee5647f3",
+    "7f7921962d771d0f",
+    "8978790003b65092",
+    "9c406371be81c371",
+    "dd9c422b671f7018",
+    "463aa2ba8bba2758",
+    "30cb8c3312a20794",
+    "3c93fa25e2f205d2",
+    "afe55984b7ed208a",
+    "e2d9c439e6df6719",
+    "e8b71976c382cb5e",
+    "d88d760a219a8a81",
+    "902878fc81e7b738",
+    "c4b86928b5963dbe",
+    "4b271922368a6a93",
+    "9fd00bd237aa2022",
+    "e9fe672ddde1d8b6",
+    "34bab6ecae104751",
+    "1e89414966b93810",
+    "291b8cad9a3669bd",
+    "98bbb23e47b0fec7",
+    "80b2997bdfe8a41f",
+    "073d88a84baea4a0",
+    "fa10f48a830b8e8c",
+    "ca7a05c6fa2c0add",
+    "295837ea5d2149c2",
+    "a2024d8921c97a8f",
+    "f848661923576b7d",
+    "e0ca25c6df44be8f",
+    "d57848b4c1bc5f7d",
+    "0cfe26a9c5df7a0e",
+    "d5a73ab23b31cca5",
+    "e60cfb93aef44639",
+    "ee49a284bd9af631",
+    "d6af0bea2fe3ef46",
+    "ab8eb2bb7c92bd71",
+    "c05619cbffb32615",
+    "fd21326e4df55c58",
+    "dda74e7b2de86f34",
+    "b3adfd73a04435ed",
+    "0894e8cf0dc40ba1",
+    "52004cd7a47f30c8",
+    "c685ed5d63eb0905",
+    "dd65ac063898466d",
+    "b062123c4731a700",
+    "703694a7c62e8391",
+    "0e500d63febec632",
+    "356750ebe2d3c975",
+    "cf3717f8d4a2466b",
+    "0ef3222776891da4",
+    "a2c2ef1078895512",
+    "0e4f9bdea2daf1f1",
+    "51769c018d2b9892",
+    "e10eb18b8fd5203c",
+    "0f1d838c521632af"
+   ]
+  },
+  {
+   "date": "1997-07-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:160516:por",
+     "title": "Resolução do Conselho de Ministros n.º 101/97",
+     "published": "1997-07-01",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/101-1997-160516"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 43.º"
+   ],
+   "fragments": [
+    "ecbe3234d55dc09c",
+    "23836370ae405d04",
+    "eb44bd3bed11bcc1",
+    "f048ce8b0c25c709",
+    "1f8478d80953512a",
+    "796c0954c3129c8c",
+    "38be7cb902033c7a",
+    "421b18732e9ba4a3",
+    "27d6a44835457b7b",
+    "63e99ae2f191163b",
+    "38a0973c5c98d9d7",
+    "2320019c5281e397",
+    "38fc3634831fd022",
+    "22c5a2dcfd802d0d",
+    "e680cef520d2ae4a",
+    "b8f554f677cffc5b",
+    "cfa65be42b0edc09",
+    "045319fbd94617a8",
+    "e9fe672ddde1d8b6",
+    "9b68366c042e6ed2",
+    "a61252cacc4a3839",
+    "fa8e59d9123f18d8",
+    "9636ad79b1b453cf",
+    "d7f8e7ccd6066bc3",
+    "66af72459de4912f",
+    "c6697e0b2900bbf6",
+    "02ded76a84e0015a",
+    "7f7921962d771d0f",
+    "2835c1269038c49c",
+    "9c406371be81c371",
+    "dd9c422b671f7018",
+    "463aa2ba8bba2758",
+    "d4b3243c7747d630",
+    "3c93fa25e2f205d2",
+    "afe55984b7ed208a",
+    "e2d9c439e6df6719",
+    "e8b71976c382cb5e",
+    "d88d760a219a8a81",
+    "902878fc81e7b738",
+    "c4b86928b5963dbe",
+    "4b271922368a6a93",
+    "9fd00bd237aa2022",
+    "e9fe672ddde1d8b6",
+    "34bab6ecae104751",
+    "1e89414966b93810",
+    "291b8cad9a3669bd",
+    "98bbb23e47b0fec7",
+    "80b2997bdfe8a41f",
+    "073d88a84baea4a0",
+    "fa10f48a830b8e8c",
+    "ca7a05c6fa2c0add",
+    "295837ea5d2149c2",
+    "a2024d8921c97a8f",
+    "f848661923576b7d",
+    "e0ca25c6df44be8f",
+    "6125a357c1e70957",
+    "0cfe26a9c5df7a0e",
+    "d5a73ab23b31cca5",
+    "e60cfb93aef44639",
+    "d711e2098e976ff9",
+    "d6af0bea2fe3ef46",
+    "ab8eb2bb7c92bd71",
+    "c05619cbffb32615",
+    "fd21326e4df55c58",
+    "dda74e7b2de86f34",
+    "b3adfd73a04435ed",
+    "0894e8cf0dc40ba1",
+    "52004cd7a47f30c8",
+    "c685ed5d63eb0905",
+    "dd65ac063898466d",
+    "b062123c4731a700",
+    "703694a7c62e8391",
+    "0e500d63febec632",
+    "356750ebe2d3c975",
+    "cf3717f8d4a2466b",
+    "0ef3222776891da4",
+    "a2c2ef1078895512",
+    "0e4f9bdea2daf1f1",
+    "51769c018d2b9892",
+    "e10eb18b8fd5203c",
+    "0f1d838c521632af"
+   ]
+  }
+ ],
+ "fragments": {
+  "ecbe3234d55dc09c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia Municipal da Sertã aprovou, em 26 de Julho de 1994, o seu Plano Director Municipal.\n\nNa sequência daquela aprovação, a Câmara Municipal respectiva iniciou o processo de ratificação daquele instrumento de planeamento, conforme dispõe o n.º 5 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.\n\nO Plano Director Municipal da Sertã foi objecto de parecer favorável da comissão técnica que, nos termos da legislação em vigor, acompanhou a elaboração daquele Plano.\n\nEste parecer favorável está consubstanciado no relatório final daquela comissão, subscrito por todos os representantes dos serviços da administração central que a compõem.\n\nForam cumpridas todas as formalidades exigidas pelo [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, designadamente no que se refere ao inquérito público.\n\nVerifica-se, ainda, a conformidade formal do Plano Director Municipal da Sertã com as demais disposições legais e regulamentares em vigor, nomeadamente com as das Reservas Agrícola e Ecológica Nacionais.\n\nDeve, também, ser referido que o disposto no n.º 2 do artigo 16.º e no artigo 56.º deve ser articulado com o [Decreto-Lei n.º 117/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1994-250666), de 3 de Maio, que regula a localização e o licenciamento de parques de sucata.\n\nNa aplicação prática do Plano há, também, a observar as servidões e restrições de utilidade pública, constantes da planta de condicionantes, a qual, embora não seja publicada, constitui elemento fundamental do Plano, a atender no âmbito da respectiva gestão.\n\nConsiderando o disposto no [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, alterado pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro:\n\nNos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:\n\nRatificar o Plano Director Municipal da Sertã.\n\nPresidência do Conselho de Ministros, 10 de Novembro de 1994. - O Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nRegulamento do Plano Director Municipal da Sertã"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "eb44bd3bed11bcc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definição\n\nO Plano Director Municipal da Sertã, adiante designado por Plano, constitui o instrumento definidor das linhas gerais de política de ordenamento físico e de gestão urbanística do território municipal, tendo em atenção os objectivos de desenvolvimento definidos para o concelho."
+  },
+  "f048ce8b0c25c709": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos do Plano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos do Plano\n\nSão objectivos do Plano:\n\na) Racionalizar e programar a expansão urbana;\n\nb) Proporcionar a oferta de solo adequada à cobertura das necessidades de habitação e equipamento social indispensáveis à população e à instalação das actividades económicas do concelho;\n\nc) Proteger e ordenar a estrutura verde territorial e urbana;\n\nd) Preservar, recuperar e proteger o património cultural;\n\ne) Estabelecer as bases para a melhoria das ligações do concelho ao exterior e das ligações internas;\n\nf) Fornecer indicadores para o planeamento, designadamente para a elaboração de outros planos municipais de nível inferior ou de planos de natureza sub-regional, regional ou nacional;\n\ng) Servir de enquadramento à elaboração de planos de actividade do município."
+  },
+  "1f8478d80953512a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Delimitação territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Delimitação territorial\n\nO Plano abrange todo o território municipal, com a delimitação constante da planta de ordenamento."
+  },
+  "796c0954c3129c8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Composição do Plano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição do Plano\n\n1 - O Plano é composto de elementos fundamentais, elementos complementares e elementos anexos.\n\n2 - São elementos fundamentais o Regulamento, a planta de ordenamento, à escala de 1:25000, a planta actualizada de condicionantes I - Reserva Ecológica Nacional, à escala de 1:25000, a planta actualizada de condicionantes II - Reserva Agrícola Nacional, à escala de 1:25000 e a planta actualizada de condicionantes III - Outros condicionantes, à escala de 1:25000.\n\n3 - São elementos complementares o relatório e respectivas plantas, a planta de enquadramento, à escala de 1:800000, e as plantas de propostas de ordenamento dos aglomerados urbanos.\n\n4 - São elementos anexos os estudos de caracterização e respectivas plantas e a planta da situação existente, à escala de 1:25000."
+  },
+  "38be7cb902033c7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Prazo de vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prazo de vigência\n\n1 - O Plano tem a vigência de 10 anos, devendo a sua implementação ser objecto de avaliação bienal pela Câmara Municipal.\n\n2 - A Câmara Municipal procederá aos estudos necessários para garantir que a revisão do Plano seja efectuada com a antecedência suficiente para se encontrar em condições de ser aprovada logo que findo o prazo de vigência do Plano em vigor."
+  },
+  "421b18732e9ba4a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Natureza e força vinculativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Natureza e força vinculativa\n\n1 - O Plano reveste a natureza de regulamento administrativo, sendo as respectivas disposições de cumprimento obrigatório, quer para as intervenções de iniciativa pública, quer para as promoções de iniciativa privada ou cooperativa.\n\n2 - Nas matérias do seu âmbito, o Plano também implementa a legislação geral e especial vigente.\n\n3 - As normas relativas à protecção do património natural e cultural e dos espaços-canais prevalecem sobre as prescrições de ocupação e utilização do solo.\n\n4 - As disposições legais em vigor relativas à Reserva Ecológica Nacional e à Reserva Agrícola Nacional prevalecem sobre todas as prescrições de ocupação e utilização do solo do Plano.\n\n5 - A área da zona envolvente da albufeira de Castelo de Bode rege-se pelo plano de ordenamento e regulamento respectivos, aprovados pelo despacho conjunto dos Ministros do Planeamento e da Administração do Território e do Ambiente e Recursos Naturais, publicado no Diário da República, 2.ª série, n.º 133, de 8 de Junho de 1993.\n\n6 - Na ausência de instrumentos de planeamento de hierarquia inferior, as orientações e disposições do Plano são de aplicação directa."
+  },
+  "27d6a44835457b7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Definições e abreviaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Definições e abreviaturas\n\nPara efeitos da aplicação do Plano são consideradas as seguintes definições e abreviaturas:\n\na) Plano de urbanização - é o plano municipal de ordenamento do território definido com esta designação na legislação em vigor;\n\nb) Plano de pormenor - é o plano municipal de ordenamento do território definido com esta designação na legislação em vigor, podendo assumir características de salvaguarda e valorização quando tenha como objectivo incentivar e enquadrar a conservação e revitalização de conjuntos ou núcleos históricos;\n\nc) Operação de loteamento - é toda a acção que tenha por objecto ou por efeito a divisão em lotes, qualquer que seja a sua dimensão, de um ou vários prédios, desde que pelo menos um dos lotes se destine imediata ou subsequentemente a construção urbana;\n\nd) Perímetro urbano - é a linha que delimita exteriormente o aglomerado urbano, de acordo com o Plano, e que inclui o conjunto dos espaços urbanos, dos espaços urbanizáveis e dos espaços industriais que lhes sejam contíguos;\n\ne) Área bruta de implantação - é a projecção vertical da área total edificada ou susceptível de edificação em cada lote;\n\nf) Área bruta de pavimento - é a área por piso delimitada pelas paredes exteriores, incluindo a espessura das mesmas, adicionada à área das varandas;\n\ng) Área bruta de construção - é o somatório das áreas brutas de pavimento edificadas ou susceptíveis de edificação, acima e abaixo da cota de soleira, em cada lote. Se a área a construir abaixo da cota de soleira se destinar exclusivamente a estacionamento, o seu valor não será considerado para efeito do cálculo da área bruta de construção;\n\nh) Coeficiente de ocupação do solo (COS) - é o quociente entre a área bruta de implantação e a área do lote;\n\ni) Índice de utilização do solo (IUS) - é o quociente entre a área bruta de construção e a área do lote;\n\nj) Coeficiente volumétrico (CVol) - é o quociente entre o volume de construção e a área do lote;\n\nl) Altura da edificação - é a medida vertical da edificação, a partir da rasante da respectiva via de acesso principal até à platibanda ou beirado da construção, expressa também para efeitos do presente Plano em número de pisos;\n\nm) Habitação unifamiliar - é o imóvel destinado a alojar apenas um agregado familiar, independentemente do número de pisos;\n\nn) Habitação colectiva - é o imóvel destinado a alojar mais do que um agregado familiar, independentemente do número de pisos e em que existem circulações comuns a vários fogos entre as respectivas portas e a via pública;\n\no) Fogo - é uma unidade destinada à instalação da função habitacional ou outra utilização, constituindo uma unidade de utilização;\n\np) Densidade bruta é o quociente, expresso em fogos por hectare, entre o número de fogos edificado ou edificável e a área de uma unidade de ordenamento sujeita a plano de pormenor ou de um prédio sujeito a operação de loteamento;\n\nq) Espaços verdes e de utilização colectiva - são espaços livres, entendidos como espaços exteriores que se prestam a uma utilização menos condicionada, a comportamentos espontâneos e a uma estada descontraída por parte da população utente;\n\nr) Infra-estruturas viárias - é o conjunto das áreas da rede viária, definida como espaço construído destinado à circulação de pessoas e viaturas e ao estacionamento de veículos;\n\ns) Equipamentos - são áreas e edificações destinadas à prestação de serviços à colectividade (nomeadamente saúde, educação, assistência social, segurança, protecção civil), à prestação de serviços de carácter económico (nomeadamente matadouros, feiras) e à prática, pela colectividade, de actividades culturais, de desporto e de recreio e lazer."
+  },
+  "63e99ae2f191163b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Licenciamento ou autorização de obras e actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Licenciamento ou autorização de obras e actividades\n\n1 - Sem prejuízo do estabelecido em lei geral ou especial, fica dependente de licenciamento pela Câmara Municipal:\n\na) A execução de obras de construção civil, de reconstrução, ampliação, alteração, reparação ou demolição de edificações;\n\nb) A realização de trabalhos não previstos na alínea b) do n.º 2 deste artigo que impliquem a alteração da topografia local;\n\nc) A instalação de abrigos, fixos ou móveis, utilizáveis ou não para habitação, se a ocupação do terreno se prolongar para além de três meses;\n\nd) A instalação de depósitos de sucata, de resíduos sólidos, de combustíveis sólidos, líquidos ou gasosos e de veículos;\n\ne) A instalação de recintos de jogos ou desportos;\n\nf) A instalação de áreas permanentes de estacionamento público de veículos automóveis;\n\ng) A instalação de parques de campismo e de parques para caravanas.\n\n2 - Sem prejuízo do cumprimento das disposições legais cometidas a entidades exteriores, estão sujeitas a autorização da Câmara Municipal:\n\na) As acções de destruição do revestimento vegetal que não tenham finalidade agrícola;\n\nb) A execução de aterros ou escavações que conduzam à alteração do relevo natural e das camadas de solo arável.\n\n3 - Dependem de licença da Câmara as acções de arborização com espécies de crescimento rápido em parcelas com área inferior a 50 ha.\n\n4 - Para efeitos do limite referido no número anterior, consideram-se os povoamentos contíguos das mesmas espécies, mesmo que localizados em prédios distintos."
+  },
+  "38a0973c5c98d9d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Taxa pela realização de infra-estruturas urbanísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Taxa pela realização de infra-estruturas urbanísticas\n\nA Câmara Municipal submeterá à aprovação da Assembleia Municipal no prazo de 12 meses regulamentos tendo por objecto, respectivamente, a criação e cobrança de taxa municipal de urbanização e o regime de compensação e licenciamento de operações de loteamento urbano, quando não haja cedência de terrenos para espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos que devam integrar o domínio público."
+  },
+  "2320019c5281e397": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Valores culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Valores culturais"
+  },
+  "38fc3634831fd022": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Definição\n\nO património cultural concelhio, formado pelo conjunto dos valores culturais, é constituído pelos monumentos, conjuntos ou locais que, pelas suas características, se assumem como valores de reconhecido interesse histórico, arqueológico, artístico, científico, técnico ou social."
+  },
+  "22c5a2dcfd802d0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Elementos do património cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Elementos do património cultural\n\n1 - O património cultural do concelho da Sertã compreende as seguintes categorias de elementos:\n\na) Monumentos e edifícios de valor concelhio, que são obras arquitectónicas, composições importantes ou criações mais modestas, notáveis pela sua coerência estilística, pelo seu interesse histórico, arqueológico, artístico, científico, técnico ou social, incluindo as instalações ou elementos decorativos que fazem parte integrante destas obras;\n\nb) Conjuntos, que são os agrupamentos arquitectónicos urbanos, podendo englobar edifícios e espaços exteriores, de suficiente coesão de modo a serem delimitados geograficamente e notáveis simultaneamente pela sua unidade ou integração na paisagem e pelo seu interesse arquitectónico, urbanístico, histórico ou sócio-cultural;\n\nc) Locais de interesse arqueológico, em que predomina o interesse arqueológico conhecido ou potencial.\n\n2 - No caso de os conjuntos disporem de uma dimensão e coerência urbanística significativas, correspondendo a núcleos suficientemente tipificados e representativos de uma ou mais épocas da evolução histórica dos aglomerados, são designados núcleos históricos.\n\n3 - Sem prejuízo da zona de protecção expressamente delimitada, todos os elementos classificados como património cultural dispõem de uma área de protecção de 50 m para além dos seus limites físicos."
+  },
+  "e680cef520d2ae4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Responsabilidade pelos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Responsabilidade pelos projectos\n\nOs projectos de loteamento e arquitectura relativos a obras que tenham por objecto elementos pertencentes ou situados em zonas de património cultural classificadas no Plano, nomeadamente nos núcleos históricos, ou que se localizem nas respectivas zonas de protecção, têm obrigatoriamente de ser elaborados por equipas integrando os elementos técnicos que assegurem uma correcta cobertura das diversas áreas disciplinares e serão obrigatoriamente dirigidos por um arquitecto, que subscreverá esses projectos na qualidade de técnico responsável."
+  },
+  "b8f554f677cffc5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Núcleos históricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Núcleos históricos\n\n1 - O regime de protecção de núcleos históricos delimitados no Plano visa a protecção e conservação dos aspectos homogéneos da sua imagem e do perfil da paisagem e é constituído pelos condicionamentos indicados nos números seguintes.\n\n2 - Todos os projectos apresentados à Câmara Municipal para os núcleos históricos, quer para obras de conservação e restauro, quer para novas construções, incluirão obrigatoriamente mapa de acabamentos com a especificação de todos os materiais a utilizar.\n\n3 - As obras relativas a edificações existentes são condicionadas de acordo com as alíneas seguintes:\n\na) Salvo o disposto na alínea seguinte, as edificações existentes apenas poderão ser objecto de obras de conservação e de restauro;\n\nb) Em situações excepcionais, ditadas por razões de ordem técnica ou social, a Câmara Municipal poderá autorizar obras de adaptação, de remodelação ou de reconstrução, com prévia demolição da edificação existente;\n\nc) No caso previsto na alínea anterior, a altura da edificação não poderá exceder a cércea da preexistência ou, em casos excepcionais, a cércea mais alta das edificações imediatamente contíguas;\n\nd) O pedido de licenciamento de obras nestas edificações deve ser instruído com o levantamento rigoroso do existente, ilustrado com documentação fotográfica completa;\n\ne) Quando admissíveis, a Câmara Municipal poderá condicionar as mudanças de uso de habitação para serviços à execução de obras de conservação e de restauro de toda a edificação.\n\n4 - As obras relativas a novas edificações são condicionadas de acordo com as alíneas seguintes:\n\na) O traçado arquitectónico das edificações deverá integrar-se na imagem urbana das construções envolventes e na arquitectura tradicional da região, procurando-se, em particular, a integração dos elementos da fachada, devendo utilizar-se tanto quanto possível no projecto elementos tipológicos de composição e materiais tradicionais;\n\nb) A altura máxima das edificações não poderá ultrapassar a cércea mais alta das edificações imediatamente contíguas;\n\nc) O alinhamento definido pelas edificações imediatamente contíguas será obrigatoriamente respeitado."
+  },
+  "cfa65be42b0edc09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Achados arqueológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Achados arqueológicos\n\nSempre que em qualquer obra, particular ou não, se verificarem achados arqueológicos, tal facto será comunicado à Câmara Municipal, que procederá conforme a legislação aplicável."
+  },
+  "045319fbd94617a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Uso dominante do solo - Espaços não urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Uso dominante do solo - Espaços não urbanos"
+  },
+  "e9fe672ddde1d8b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "9b68366c042e6ed2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Classes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Classes\n\nOs espaços não urbanos compreendem as seguintes classes:\n\na) Espaços agrícolas;\n\nb) Espaços agrícolas e florestais;\n\nc) Espaços florestais;\n\nd) Espaços naturais."
+  },
+  "a61252cacc4a3839": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Regime de restrições e condicionamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regime de restrições e condicionamentos\n\n1 - Sem prejuízo das restrições e condicionantes constantes da lei, ficam interditas nestes espaços as práticas de destruição do revestimento vegetal, do relevo natural e das camadas de solo arável, desde que não integradas em práticas de exploração ou destinadas a ocupações expressamente autorizadas para cada classe e categoria de espaço.\n\n2 - A instalação de depósitos de sucata, de ferro-velho, de resíduos sólidos, de combustíveis sólidos, líquidos ou gasosos e de veículos fica sujeita ao licenciamento municipal mediante a apresentação de projecto, sendo obrigatoriamente respeitados os seguintes condicionamentos:\n\na) Terão de ficar situados a mais de 500 m dos perímetros urbanos;\n\nb) O afastamento mínimo a partir das vias de comunicação é de 50 m;\n\nc) Serão murados e inacessíveis pelo exterior.\n\n3 - Para qualquer edificação a erigir nestes espaços o acesso pavimentado, o abastecimento de água, a drenagem de esgotos e o abastecimento de energia eléctrica devem ser assegurados por sistema autónomo cuja construção e manutenção serão a cargo dos interessados, a menos que estes suportem o custo da extensão das redes públicas.\n\n4 - O licenciamento de construções pela Câmara Municipal terá em conta critérios no âmbito da protecção de incêndios florestais."
+  },
+  "fa8e59d9123f18d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Edificações isoladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Edificações isoladas"
+  },
+  "9636ad79b1b453cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Habitação\n\n1 - A Câmara Municipal poderá autorizar a edificação isolada para habitação, não integrada em loteamento aprovado, desde que:\n\na) Em caso de destaque, a parcela constitua uma unidade registral e matricial ou cadastral e seja contígua a via pavimentada já infra-estruturada com distribuição de energia eléctrica e abastecimento de água. A parcela sobrante terá a área mínima de cultura fixada para a região, a parcela destacada terá pelo menos 1500 m2, e o índice de utilização do solo máximo é de 0,10;\n\nb) Em todos os outros casos, a parcela constitua uma unidade registral e matricial ou cadastral e tenha a área mínima de 4000 m2. O índice de utilização do solo máximo é de 0,05.\n\n2 - A altura máxima destas construções é de 6,5 m, medidos à platibanda ou beirado e dois pisos, excepto quando disposto diferentemente para determinadas classes ou categorias de espaços.\n\n3 - O número máximo de fogos por construção é de um."
+  },
+  "d7f8e7ccd6066bc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Instalações agro-pecuárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Instalações agro-pecuárias\n\nSem prejuízo do disposto na legislação aplicável a cada caso, a Câmara Municipal poderá autorizar a edificação de instalações destinadas à actividade agro-pecuária sujeitas aos seguintes condicionamentos:\n\na) Índice de utilização do solo máximo de 0,15;\n\nb) Área de implantação máxima de 2000 m2;\n\nc) Altura máxima de 3,5 m, medidos à platibanda ou beirado e um piso;\n\nd) Os efluentes de instalações agro-pecuárias ou de nitreiras não podem ser lançados directamente em linhas de água, devendo ser previamente assegurado o seu tratamento bacteriológico e químico;\n\ne) O afastamento mínimo a zonas residenciais e equipamentos colectivos é de 200 m."
+  },
+  "66af72459de4912f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Espaços agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Espaços agrícolas"
+  },
+  "c6697e0b2900bbf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Categorias\n\nOs espaços agrícolas dividem-se nas seguintes categorias:\n\na) Espaços agrícolas de produção (Reserva Agrícola Nacional);\n\nb) Espaços de uso ou aptidão agrícola."
+  },
+  "9bdd1e9eee5647f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Regime de restrições e condicionamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regime de restrições e condicionamentos\n\n1 - Nos espaços agrícolas são interditas:\n\na) Operações de loteamento;\n\nb) Obras de urbanização.\n\n2 - O regime de edificabilidade nestes espaços é o seguinte:\n\na) A área bruta de implantação máxima por parcela é de 1000 m2, incluindo habitação, que terá no máximo 200 m2 de área bruta de pavimento, devendo a construção ser concentrada;\n\nb) A altura máxima das construções, medida à platibanda ou beirado, é de 6,5 m e dois pisos para as habitacionais e 3,5 m e um piso para as não habitacionais;\n\nc) Constituem excepções ao disposto na alínea anterior os silos, depósitos de água ou instalações especiais devidamente justificadas."
+  },
+  "7f7921962d771d0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Espaços agrícolas de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Espaços agrícolas de produção\n\n1 - Estes espaços são os que detêm maior potencial agrícola no concelho, englobando, nomeadamente, os solos integrados na Reserva Agrícola Nacional.\n\n2 - Aplica-se a estes espaços, para além do disposto no artigo 21.º, o regime de edificabilidade previsto na legislação aplicável que regulamenta utilizações na Reserva Agrícola Nacional."
+  },
+  "8978790003b65092": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Espaços de uso ou aptidão agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Espaços de uso ou aptidão agrícola\n\n1 - Estes espaços constituem espaços não integrados na Reserva Agrícola Nacional mas cujas características pedológicas, de ocupação actual ou de localização os potenciam para possíveis usos agrícolas.\n\n2 - O regime de edificabilidade é o previsto no Plano para os espaços agrícolas, sendo expressamente autorizadas edificações destinadas às seguintes finalidades:\n\na) Habitação;\n\nb) Usos auxiliares da agricultura;\n\nc) Turismo rural;\n\nd) Turismo de habitação;\n\ne) Agro-turismo;\n\nf) Outras edificações de reconhecido interesse público."
+  },
+  "9c406371be81c371": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Espaços agrícolas e florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Espaços agrícolas e florestais"
+  },
+  "dd9c422b671f7018": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Espaços agrícolas e florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Espaços agrícolas e florestais\n\n1 - Estes espaços são aqueles cujas características pedológicas, de ocupação actual ou de localização os potenciam para possíveis usos agrícolas ou, em alternativa, se preconiza a sua reconversão para usos florestais, visando fundamentalmente a produção de madeiras nobres.\n\n2 - O regime de edificabilidade é o previsto no Plano para os espaços agrícolas."
+  },
+  "463aa2ba8bba2758": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Espaços florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Espaços florestais"
+  },
+  "30cb8c3312a20794": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Categorias\n\n1 - Os espaços florestais dividem-se nas seguintes categorias:\n\na) Espaços florestais de produção;\n\nb) Espaços florestais de produção condicionada;\n\nc) Espaços florestais de reconversão;\n\nd) Espaços florestais de protecção.\n\n2 - Estes espaços ficam sujeitos aos seguintes condicionamentos, salvo indicação em contrário na regulamentação de cada uma das categorias:\n\na) São interditas operações de loteamento e obras de urbanização;\n\nb) Para cada parcela pode ser autorizada a construção isolada de edificações destinadas a equipamentos, a habitação para proprietários ou titulares dos direitos de exploração, a trabalhadores permanentes e ainda de apoio a explorações florestais viáveis, a turismo de habitação, turismo rural e agro-turismo, a apoio de explorações agrícolas e florestais e instalações de vigilância e combate a incêndios florestais, bem como outras obras de reconhecido interesse municipal;\n\nc) A área bruta de implantação máxima por parcela é de 1000 m2, incluindo habitação, que terá no máximo 200 m2 de área bruta de pavimento;\n\nd) A altura máxima das construções, medida à platibanda ou beirado, é de 6,5 m e dois pisos para as habitacionais e 3,5 m e um piso para as não habitacionais;\n\ne) Constituem excepções ao disposto na alínea anterior os silos, depósitos de água ou instalações especiais devidamente justificadas."
+  },
+  "3c93fa25e2f205d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Espaços florestais de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Espaços florestais de produção\n\n1 - Estes espaços apresentam aptidão para utilizações intensivas em termos de produção e aproveitamento de produtos florestais.\n\n2 - É permitida a ocupação com espécies florestais resinosas ou folhosas, de preferência autóctones ou tradicionais na paisagem portuguesa."
+  },
+  "afe55984b7ed208a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Espaços florestais de produção condicionada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Espaços florestais de produção condicionada\n\n1 - Estes espaços apresentam características idênticas, em termos de vocação, aos espaços florestais de produção, mas coincidindo com áreas de sensibilidade ecológica.\n\n2 - Devem ser incentivadas acções de reconversão progressiva para povoamentos em mosaico ou mistos de espécies folhosas autóctones, visando a compartimentação, sendo permitida a florestação utilizando também espécies resinosas ou folhosas de rápido crescimento.\n\n3 - Pelo menos 30% da área do novo povoamento florestal deverá ser plantada com espécies folhosas autóctones, a instalar em faixas, manchas ou ao longo das linhas de água."
+  },
+  "e2d9c439e6df6719": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Espaços florestais de reconversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Espaços florestais de reconversão\n\n1 - Estes espaços correspondem actualmente a espaços florestais de exploração intensiva, nomeadamente com espécies de crescimento rápido implantadas em zonas ecologicamente sensíveis.\n\n2 - Deverão ser incentivadas acções de reconversão progressiva para povoamentos em mosaico ou mistos de espécies folhosas autóctones, sendo permitida a florestação também espécies resinosas ou folhosas de rápido crescimento, no sentido do aumento do valor ecológico destes espaços.\n\n3 - Pelo menos 50% da área do novo povoamento florestal deverá ser plantada com espécies folhosas autóctones, a instalar em faixas, manchas ou ao longo das linhas de água."
+  },
+  "e8b71976c382cb5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Espaços florestais de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Espaços florestais de protecção\n\n1 - Estes espaços são destinados à preservação e regeneração natural do coberto florestal, à estabilização geodinâmica dos escarpados e à actividade biológica e ambiental.\n\n2 - Nestes espaços deverão ser incentivadas as acções que visem acelerar a evolução das sucessões naturais, com recurso exclusivo a espécies vegetais autóctones e não recorrendo a mobilizações profundas do solo.\n\n3 - Estes espaços são de construção absolutamente proibida, com excepção de instalações de vigilância e combate a incêndios florestais."
+  },
+  "d88d760a219a8a81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Espaços naturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Espaços naturais"
+  },
+  "902878fc81e7b738": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Definição e categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Definição e categorias\n\n1 - Os espaços naturais constituem espaços de grande valor ecológico, paisagístico e ambiental.\n\n2 - Os espaços naturais dividem-se nas seguintes categorias:\n\na) Espaços de salvaguarda biofísica;\n\nb) Espaços de vocação recreativa."
+  },
+  "c4b86928b5963dbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Espaços de salvaguarda biofísica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Espaços de salvaguarda biofísica\n\n1 - Estes espaços caracterizam-se pelo grande interesse ambiental ou paisagístico que torna aconselhável uma intervenção humana restrita.\n\n2 - O Plano define como objectivo para estes espaços um correcto e racional ordenamento florestal e cinegético, com a gradual reconversão dos povoamentos de espécies resinosas e folhosas de rápido crescimento para povoamentos mistos de resinosas com espécies folhosas autóctones.\n\n3 - Os espaços de salvaguarda biofísica são de construção absolutamente proibida, com a excepção de construções de inquestionável interesse público, condicionadas, todavia, à apresentação de estudo de integração na envolvente.\n\n4 - O disposto no número anterior não impede a recuperação das estruturas edificadas existentes, mediante a apresentação de projecto específico e estudo de integração na envolvente.\n\n5 - A altura máxima das construções, com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, é de 3,5 m, medidos à platibanda ou beirado e um piso."
+  },
+  "4b271922368a6a93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Espaços de vocação recreativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Espaços de vocação recreativa\n\n1 - Os espaços de vocação recreativa são espaços que apresentam condições naturais, paisagísticas, culturais e de humanização que os vocacionam para uso recreativo, actividades turísticas ou de lazer.\n\n2 - Sem prejuízo da legislação aplicável relativa à Reserva Ecológica Nacional, a outras servidões administrativas ou restrições de utilidade pública legalmente estabelecidas e do disposto nos artigos 16.º, 17.º e 18.º, nestes espaços pode ser autorizada a construção de edificações destinadas a equipamentos colectivos, a habitação, a qualquer tipo de turismo, incluindo turismo de habitação, turismo rural e agro-turismo, a apoio de explorações agrícolas e florestais e instalações de vigilância e combate a incêndios florestais.\n\n3 - Estes espaços ficam sujeitos aos seguintes condicionamentos:\n\na) Qualquer edificação só poderá ser licenciada desde que esteja em conformidade com um plano de pormenor plenamente eficaz e assegure a realização das necessárias infra-estruturas urbanísticas por conta do promotor;\n\nb) A densidade habitacional bruta máxima é de um fogo por hectare;\n\nc) O traçado arquitectónico das edificações deverá adoptar os valores essenciais da arquitectura tradicional da região, procurando-se, em particular, a integração dos elementos da fachada, devendo utilizar-se tanto quanto possível no projecto elementos tipológicos de composição e materiais tradicionais da região."
+  },
+  "9fd00bd237aa2022": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Uso dominante do solo - Espaços predominantemente urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Uso dominante do solo - Espaços predominantemente urbanos"
+  },
+  "34bab6ecae104751": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Classes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Classes\n\nOs espaços predominantemente urbanos compreendem as seguintes classes:\n\na) Espaços urbanos;\n\nb) Espaços urbanizáveis;\n\nc) Aglomerados rurais;\n\nd) Espaços industriais existentes;\n\ne) Espaços industriais de expansão."
+  },
+  "1e89414966b93810": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Aglomerados populacionais e perímetros urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Aglomerados populacionais e perímetros urbanos\n\n1 - Os espaços predominantemente urbanos dispõem-se formando aglomerados populacionais.\n\n2 - Os aglomerados populacionais dividem-se em aglomerados urbanos e aglomerados rurais.\n\n3 - Entendem-se por aglomerados urbanos do concelho da Sertã os principais aglomerados populacionais do concelho em termos de população, área ocupada, hierarquia funcional e taxa de variação populacional.\n\n4 - Os restantes aglomerados constituem aglomerados rurais.\n\n5 - A linha que delimita exteriormente os aglomerados populacionais identificados na planta de ordenamento constitui o perímetro urbano dos mesmos.\n\n6 - No interior dos perímetros urbanos pode ocorrer qualquer das classes de espaços predominantemente urbanos."
+  },
+  "291b8cad9a3669bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Hierarquia dos aglomerados populacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Hierarquia dos aglomerados populacionais\n\n1 - O Plano estabelece uma hierarquia para os aglomerados urbanos de acordo com a população, o seu crescimento, a acessibilidade e as funções centrais.\n\n2 - A hierarquia compreende os escalões de níveis I, II, III e os aglomerados rurais, por ordem decrescente de importância.\n\n3 - A hierarquia dos aglomerados urbanos do concelho da Sertã é estabelecida da seguinte forma:\n\nNível I - Sertã;\n\nNível II - Cernache do Bonjardim;\n\nNível III - Pedrógão Pequeno, Várzea de Cavaleiros, Troviscal, Cabeçudo, Castelo e Carvalhal;\n\nAglomerados rurais - restantes aglomerados."
+  },
+  "98bbb23e47b0fec7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Restrições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Restrições gerais\n\n1 - No espaço compreendido dentro dos perímetros urbanos, na acepção referida no artigo anterior, é interdita a instalação de parques de sucata, depósitos de resíduos sólidos, depósitos de produtos explosivos, de produtos inflamáveis por grosso e de veículos.\n\n2 - Exceptuam-se do disposto no número anterior os espaços industriais, sendo no entanto a instalação dependente de licenciamento municipal mediante a apresentação de projecto."
+  },
+  "80b2997bdfe8a41f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Condicionamentos à localização de indústrias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Condicionamentos à localização de indústrias\n\nAs actividades industriais das classes C e D são compatíveis com as zonas habitacionais, desde que sejam respeitados os condicionamentos a que alude o mesmo diploma e o disposto nas alíneas seguintes:\n\na) As indústrias da classe C só podem ser instaladas em locais devidamente isolados em relação aos prédios de habitação, devendo ser assegurados os afastamentos necessários à superação dos eventuais inconvenientes resultantes dos respectivos processos de laboração, nomeadamente ruído, fumos, gases, cheiros e movimento de veículos;\n\nb) As indústrias da classe D só podem ser instaladas, ao nível do piso térreo, em edifício construído ou adaptado por forma a garantir o devido isolamento e insonorização, devendo as máquinas, sempre que necessário, ser assentes em massiços antivibratórios, devendo ser assegurada a inexistência dos inconvenientes indicados na alínea anterior."
+  },
+  "073d88a84baea4a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Espaços urbanos e urbanizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Espaços urbanos e urbanizáveis"
+  },
+  "fa10f48a830b8e8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Regime geral dos espaços urbanos e urbanizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Regime geral dos espaços urbanos e urbanizáveis"
+  },
+  "ca7a05c6fa2c0add": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Implementação do Plano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Implementação do Plano\n\n1 - A implementação do Plano processar-se-á mediante a elaboração e aprovação de planos de urbanização, planos de pormenor ou de operações de loteamento, de iniciativa pública ou privada, e da execução das obras de urbanização necessárias, ou ainda de projectos de construção em terrenos reunindo condições para o efeito.\n\n2 - Os índices estabelecidos nos artigos seguintes referem-se a planos de urbanização ou planos de pormenor.\n\n3 - Na ausência de plano referido no número anterior, os índices estabelecidos são de aplicação directa."
+  },
+  "295837ea5d2149c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Regime de edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Regime de edificabilidade\n\nOs índices máximos admitidos, que se encontram também resumidos no quadro n.º 1, são os seguintes:\n\na) A densidade bruta é de 50 fogos por hectare no aglomerado de nível I, 40 fogos por hectare nos aglomerados de nível II, de 30 fogos por hectare nos de nível III e de 20 fogos por hectare nos aglomerados rurais;\n\nb) O coeficiente de ocupação do solo bruto é de 0,35 nos aglomerados de níveis I e II, de 0,30 nos de nível III e de 0,25 nos aglomerados rurais;\n\nc) O índice de utilização do solo bruto é de 1 no aglomerado de nível I, de 0,75 nos aglomerados de nível II, de 0,50 nos de nível III e de 0,40 nos aglomerados rurais;\n\nd) A altura máxima das construções, com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, é de 12 m e quatro pisos nos aglomerados de níveis I e II, de 9 m e três pisos, nos aglomerados de nível III e de 6,5 m e dois pisos, nos aglomerados rurais;\n\ne) No aglomerado de nível I poderão admitir-se construções com altura máxima de 18 m e seis pisos, mas apenas em zonas expressamente definidas em planos de urbanização ou de pormenor eficazes.\n\nQUADRO n.º 1\n\nRegime de edificabilidade para espaços urbanos, urbanizáveis e aglomerados rurais\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/278b00/70727083.pdf)"
+  },
+  "a2024d8921c97a8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Parâmetros de dimensionamento de espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Parâmetros de dimensionamento de espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos\n\n1 - As áreas sujeitas a planos de urbanização, planos de pormenor e operações de loteamento integrarão parcelas de terreno destinadas a espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos, definidos segundo o artigo 9.º e dimensionadas de acordo com os parâmetros constantes do quadro n.º 2.\n\n2 - Para aferir o respeito dos parâmetros a que alude o n.º 1, consideram-se quer as parcelas destinadas a espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos de natureza privada, quer as parcelas a ceder à Câmara Municipal para aqueles fins.\n\n3 - Se o prédio a lotear já estiver servido pelas infra-estruturas necessárias à operação de loteamento, nomeadamente arruamentos viários e pedonais e redes de abastecimento de água, de esgotos, de electricidade, de gás e de telecomunicações, se estiver abrangido por plano de urbanização ou plano de pormenor eficazes que disponham diferentemente sobre a localização de equipamento público no referido prédio, ou se não se justificar, no todo ou em parte, essa localização, não há lugar a cedências para estes fins, ficando, no entanto, o proprietário obrigado a pagar à Câmara Municipal uma compensação em numerário ou espécie, de acordo com regulamento aprovado nos termos do artigo 9.º\n\n4 - O regime dos espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos de natureza privada ou a ceder à Câmara Municipal em operações de loteamento é o constante do [Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro, com as alterações introduzidas pela [Lei n.º 25/92](https://diariodarepublica.pt/dr/detalhe/lei/25-1992-241193), de 31 de Agosto.\n\nQUADRO n.º 2\n\nParâmetros de dimensionamento de espaços verdes e de utilização colectiva, infra-estruturas viárias e equipamentos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/278b00/70727083.pdf)"
+  },
+  "f848661923576b7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Espaços urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Espaços urbanos"
+  },
+  "e0ca25c6df44be8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Definição\n\n1 - Os espaços urbanos têm o estatuto de ocupação para fins urbanos, habitacionais, comerciais, de serviços, incluindo equipamentos públicos ou privados edificados ou não, por disporem ou serem susceptíveis de vir a dispor a curto ou médio prazos de infra-estruturas urbanísticas adequadas, caracterizando-se por uma concentração de funções urbanas.\n\n2 - Os espaços urbanos podem ainda ter outras utilizações ou ocupações, desde que compatíveis com o uso dominante atrás estipulado, designadamente com a função habitacional."
+  },
+  "d57848b4c1bc5f7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Regime de edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Regime de edificabilidade\n\nOs espaços urbanos estão sujeitos aos seguintes condicionamentos:\n\na) As construções novas deverão integrar-se harmoniosamente no tecido urbano construído, mantendo as características de alinhamento, cércea, volumetria e ocupação do lote tradicionais do aglomerado em que se inserem;\n\nb) Sem prejuízo do disposto no Regulamento Geral das Edificações Urbanas (RGEU), a profundidade das edificações habitacionais não excederá os 12 m, medidos a partir do plano marginal à via pública."
+  },
+  "0cfe26a9c5df7a0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Espaços urbanizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Espaços urbanizáveis"
+  },
+  "d5a73ab23b31cca5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Definição\n\n1 - Os espaços urbanizáveis poderão adquirir durante o período de vigência do Plano as características dos espaços urbanos.\n\n2 - A implementação do Plano processar-se-á mediante a elaboração e aprovação de planos de pormenor ou de operações de loteamento, de iniciativa pública ou privada, e da execução das obras de urbanização necessárias."
+  },
+  "e60cfb93aef44639": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Aglomerados rurais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Aglomerados rurais"
+  },
+  "ee49a284bd9af631": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Aglomerados rurais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Aglomerados rurais\n\n1 - Os aglomerados rurais representam uma forma de povoamento originariamente ligada à exploração agrícola.\n\n2 - Os aglomerados rurais estão sujeitos aos seguintes condicionamentos:\n\na) As construções novas deverão integrar-se harmoniosamente no tecido urbano construído, mantendo as características de alinhamento, cércea, volumetria e ocupação do lote tradicionais do aglomerado em que se inserem;\n\nb) Sem prejuízo do disposto no RGEU, a profundidade das edificações habitacionais não excederá os 12 m, medidos a partir do plano marginal à via pública."
+  },
+  "d6af0bea2fe3ef46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Espaços rurais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Espaços rurais"
+  },
+  "ab8eb2bb7c92bd71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Definição e categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Definição e categorias\n\n1 - Estes espaços destinam-se à instalação de unidades industriais, em geral, e, suplementarmente, de actividades que se mostrem incompatíveis com as funções urbanas, nomeadamente armazéns.\n\n2 - Os espaços industriais dividem-se nas seguintes categorias:\n\na) Espaços industriais existentes;\n\nb) Espaços industriais propostos."
+  },
+  "c05619cbffb32615": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Espaços industriais existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Espaços industriais existentes\n\n1 - Os espaços industriais existentes, dotados de infra-estruturas urbanísticas adequadas e dispondo de disposições relativas à implantação dos edifícios, caracterizam-se pela permanência de instalações com funções industriais.\n\n2 - Para os estabelecimentos industriais existentes fora dos espaços industriais e devidamente licenciados à data de entrada em vigor do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542) e [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, poderá ser autorizada a alteração da respectiva classe após análise caso a caso e parecer favorável da Câmara Municipal, que poderá solicitar pareceres às entidades responsáveis pelo licenciamento industrial.\n\n3 - Para os estabelecimentos industriais existentes fora dos espaços industriais e não licenciados à data de entrada em vigor do [Decreto-Lei n.º 109/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-1991-475542) e [Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março, poderá ser emitida a competente certidão de localização desde que cumpram cumulativamente os seguintes requisitos:\n\na) Disporem da respectiva licença de obra emitida pela Câmara Municipal;\n\nb) Cumprirem a legislação aplicável em vigor, nomeadamente a relativa a poluição sonora e atmosférica, resíduos de óleos e líquidos;\n\nc) Parecer favorável da Câmara Municipal, que poderá solicitar pareceres às entidades responsáveis pelo licenciamento industrial.\n\n4 - Os estabelecimentos industriais da classe B ou C instalados fora dos espaços industriais à data de entrada em vigor do Plano só poderão alterar o seu equipamento produtivo e proceder à alteração ou ampliação das suas instalações e equipamentos desde que cumpram as seguintes condições:\n\na) Não dêem origem à produção de ruídos, fumos, cheiros ou resíduos que agravem as condições de salubridade ou dificultem a sua eliminação;\n\nb) Não perturbem as condições de trânsito e de estacionamento nem provoquem movimentos de carga e descarga em regime permanente;\n\nc) Não criem efeitos prejudiciais à imagem e ambiente da zona em que se inserem;\n\nd) No caso dos estabelecimentos da classe B, a sua actividade se limitar ao período diurno;\n\ne) Obtenham parecer favorável da Câmara Municipal, que poderá solicitar pareceres às entidades responsáveis pelo licenciamento industrial."
+  },
+  "fd21326e4df55c58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Espaços industriais propostos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Espaços industriais propostos\n\n1 - As condições de ocupação e instalação de indústrias e outras actividades nos espaços industriais propostos são estabelecidas em planos de pormenor e regulamentos de utilização de elaboração obrigatória pelo município e condicionados à apresentação de estudos de integração na envolvente.\n\n2 - Para os espaços industriais propostos no Plano são estabelecidos os seguintes condicionamentos:\n\na) O coeficiente de ocupação do solo (bruto) máximo é de 0,25;\n\nb) A percentagem de áreas destinadas a espaços verdes públicos, equipamentos colectivos e outras utilizações de interesse social será no mínimo 10% da área total da zona;\n\nc) O coeficiente de ocupação do solo (líquido) máximo, em cada lote, é de 0,40;\n\nd) O coeficiente volumétrico (líquido) máximo, em cada lote, é de 5 m3/m2;\n\ne) O afastamento das edificações aos limites frontais, posteriores ou laterais dos lotes não deverá ser inferior a 5 m, com excepção dos lotes situados junto ao perímetro definido para a zona, onde será observado como afastamento mínimo o decorrente da aplicação da regra do plano inclinado a 45.º, contado a partir dos limites dos lotes com frente para o exterior da zona;\n\nf) A área obrigatoriamente não impermeabilizada é, no mínimo, de 20% da área de cada lote.\n\n3 - Os planos de pormenor referidos no n.º 1 deste artigo devem obrigatoriamente prever as seguinte soluções:\n\na) O espaço industrial será obrigatoriamente provido de uma faixa de protecção ao longo de todo o seu limite exterior, quer este confine com outras classes de espaços, quer com vias de comunicação, com pelo menos 50 m de largura e provida de uma cortina arbórea com espessura e altura que não permita o contacto visual a partir de áreas residenciais ou de equipamentos colectivos e que ocupe pelo menos 60% da área dessa faixa de protecção;\n\nb) O abastecimento de água será realizado a partir da rede pública de distribuição;\n\nc) O tratamento dos efluentes das unidades industriais, antes de serem lançados na rede urbana de saneamento ou nas linhas de drenagem natural, deverá ser realizado em estação de tratamento própria do espaço industrial, devidamente projectada em função dos caudais e tipos de efluentes previsíveis."
+  },
+  "dda74e7b2de86f34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Espaços-canais - Protecção a infra-estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Espaços-canais - Protecção a infra-estruturas"
+  },
+  "b3adfd73a04435ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Rede rodoviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Rede rodoviária"
+  },
+  "0894e8cf0dc40ba1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Hierarquia da rede viária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Hierarquia da rede viária\n\n1 - O Plano estabelece uma hierarquia para a rede rodoviária do concelho, representada graficamente na planta de ordenamento e que é constituída pelos seguintes níveis: primário, secundário e terciário.\n\n2 - A hierarquia estabelecida no Plano define a importância relativa das vias no que diz respeito às funções e níveis de serviço que asseguram ao concelho, independentemente da sua classificação nos termos da legislação em vigor.\n\n3 - O regime de protecções de cada via é o estabelecido pela legislação em vigor em função da respectiva categoria."
+  },
+  "52004cd7a47f30c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Vias a desclassificar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Vias a desclassificar\n\nNos troços pertencentes a estradas nacionais a desclassificar, após a sua efectiva entrega à jurisdição da autarquia, manter-se-á em vigor o regime de protecções existente à data da desclassificação."
+  },
+  "c685ed5d63eb0905": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Vias previstas da rede nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Vias previstas da rede nacional\n\nNas zonas adjacentes ao corredor definido na planta de ordenamento para a implantação da variante à Sertã, estabelece-se uma faixa provisória de construção rigorosamente proibida de 200 m para cada lado, que se manterá em vigor até à aprovação superior do estudo prévio desta nova infra-estrutura viária da rede nacional."
+  },
+  "dd65ac063898466d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Vias em zonas urbanas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Vias em zonas urbanas\n\nPara os troços urbanos de vias para os quais não exista regulamentação em planos municipais ou outros, a Câmara Municipal estabelecerá os respectivos alinhamentos."
+  },
+  "b062123c4731a700": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Outras infra-estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Outras infra-estruturas"
+  },
+  "703694a7c62e8391": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Sistemas de saneamento básico e irrigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Sistemas de saneamento básico e irrigação\n\n1 - É interdita a deposição de resíduos sólidos ao longo de uma faixa de 25 m, medida para um e para outro lado das condutas de adução de água, de adução-distribuição de água, dos emissários das redes de drenagem de esgotos e das condutas de rega.\n\n2 - É interdita a deposição de resíduos sólidos ao longo de uma faixa de 5 m, medida para um e para outro lado das condutas distribuidoras de água e dos colectores de drenagem de esgotos.\n\n3 - É estabelecida uma faixa de protecção com a largura de 15 m, em redor dos reservatórios de água, na qual ficam interditas a construção, a deposição de resíduos sólidos e a plantação de espécies arbóreas ou arbustivas cujo desenvolvimento possa provocar danos.\n\n4 - Fora dos espaços urbanos, é interdita a plantação de espécies arbóreas ou arbustivas danosas ao longo de uma faixa de 10 m, medida para um e para outro lado das condutas de água, dos emissários e colectores de drenagem de esgotos e das conduta de rega.\n\n5 - Nos espaços urbanos, a faixa de respeito a que alude o número anterior é definida caso a caso, mediante a aprovação dos projectos de arranjo exteriores.\n\n6 - É interdita a edificação numa faixa de 200 m, definida a partir dos limites exteriores das estações de tratamento de águas residuais e dos limites das áreas ocupadas por depósitos ou estações de tratamento de resíduos sólidos.\n\n7 - Nas faixas de protecção a que se refere o número anterior são apenas permitidas explorações agrícolas e florestais, sendo proibida a abertura de poços ou furos que se destinem à captação de água para consumo doméstico."
+  },
+  "0e500d63febec632": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Rede de distribuição de energia eléctrica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Rede de distribuição de energia eléctrica\n\nNa implantação de construções terão de ser respeitados os afastamentos calculados de acordo com as disposições próprias previstas no Regulamento de Segurança de Linhas Eléctricas de Alta Tensão."
+  },
+  "356750ebe2d3c975": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Protecção a captações subterrâneas de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Protecção a captações subterrâneas de água"
+  },
+  "cf3717f8d4a2466b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Captações subterrâneas de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Captações subterrâneas de água\n\n1 - São estabelecidos os seguintes perímetros de protecção a captações subterrâneas de água:\n\na) Perímetros de protecção próxima, definidos por um raio de 50 m em torno da captação;\n\nb) Perímetros de protecção à distância, definidos por um raio de 200 m em torno da captação.\n\n2 - No caso de as captações se situarem em linhas de água, deverá o perímetro de protecção à distância estender-se até uma distância de 400 m para montante das captações e ao longo da linha de água.\n\n3 - Os perímetros fixados no número anterior, poderão ser alargados em função da natureza geológica dos solos.\n\n4 - Nos perímetros de protecção próxima, para além das restrições constantes do número seguinte, não devem existir:\n\na) Depressões onde se possam acumular as águas pluviais;\n\nb) Linhas de água não revestidas;\n\nc) Caixas ou caleiras subterrâneas sem esgoto devidamente tratado;\n\nd) Canalizações, fossas ou sumidouros de águas negras;\n\ne) Edificações, excepto as relativas ao próprio sistema de captação;\n\nf) Culturas adubadas, estrumadas ou regadas.\n\n5 - Nos perímetros de protecção à distância não devem existir ou executar-se:\n\na) Sumidouros de águas negras abertas na camada aquífera captada;\n\nb) Outras captações;\n\nc) Regas com águas negras e acções de adubação;\n\nd) Instalações pecuárias;\n\ne) Depósitos ou estações de tratamento de resíduos sólidos;\n\nf) Indústrias que produzam efluentes nocivos, independentemente dos dispositivos anti-poluição de que possam dispor;\n\ng) Instalações sanitárias."
+  },
+  "0ef3222776891da4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Unidades operativas de planeamento e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Unidades operativas de planeamento e gestão"
+  },
+  "a2c2ef1078895512": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Caracterização\n\n1 - As unidades operativas de planeamento e gestão demarcam espaços de intervenção dispondo de, ou para os quais se pretende obter, uma coerência própria, e que deverão ser tratados a um nível de planeamento de maior detalhe.\n\n2 - É obrigatória a elaboração de planos para as unidades operativas de planeamento e gestão."
+  },
+  "0e4f9bdea2daf1f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Descrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Descrição\n\nDistinguem-se as seguintes unidades operativas de planeamento e gestão:\n\na) Áreas a sujeitar a planos de urbanização:\n\nSertã;\n\nCernache do Bonjardim;\n\nPedrógão Pequeno;\n\nb) Áreas a sujeitar a planos de pormenor de salvaguarda e valorização:\n\nNúcleo histórico da Sertã;\n\nNúcleo histórico de Pedrógão Pequeno;\n\nc) Áreas a sujeitar a planos de pormenor:\n\nZona PP1 da Sertã;\n\nPedrógão Pequeno;\n\nd) Áreas com planos de ordenamento eficazes:\n\nZona envolvente da albufeira da Barragem de Castelo de Bode, cujo plano de ordenamento se encontra aprovado pelo despacho conjunto dos Ministros do Planeamento e da Administração do Território e do Ambiente e Recursos Naturais, publicado no Diário da República, 2.ª série, n.º 133, de 8 de Junho de 1993;\n\ne) Áreas a sujeitar a planos de ordenamento:\n\nZona envolvente da albufeira da Barragem da Bouça;\n\nZona envolvente da albufeira da Barragem de Cabril."
+  },
+  "51769c018d2b9892": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Disposições finais e transitórias"
+  },
+  "e10eb18b8fd5203c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Desactivação de instalações interditas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Desactivação de instalações interditas\n\nSem prejuízo do estabelecido em normas legais ou regulamentares aplicáveis, que possam aconselhar ou determinar o seu levantamento antecipado, são estabelecidos os seguintes prazos máximos para o licenciamento ou a desactivação e remoção voluntária dos parques de sucata, depósitos e instalações existentes à data da entrada em vigor do presente Regulamento, em desconformidade com o disposto no n.º 2 do artigo 16.º e no artigo 35.º:\n\na) 6 meses, se localizados em espaços urbanos;\n\nb) 12 meses, se localizados em espaços urbanizáveis, aglomerados rurais ou espaços não urbanos."
+  },
+  "0f1d838c521632af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Entrada em vigor\n\nO Plano entra em vigor na data da sua publicação no Diário da República.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1994/12/278b00/70727083.pdf)\n\nRelação da legislação\n\nLegislação mais significativa que, consoante a situação concreta da pretensão, acto ou actividade, deverá ser considerada com a aplicação das disposições regulamentares do Plano Director Municipal.\n\n[Decreto n.º 20985](https://diariodarepublica.pt/dr/detalhe/decreto/20985-1932-523016), de 7 de Março de 1932, alterado pelo [Decreto-Lei n.º 116-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-b-1976-317159), de 9 de Fevereiro.\n\n[Decreto n.º 21875](https://diariodarepublica.pt/dr/detalhe/decreto/21875-1932-596932), de 18 de Novembro de 1932, alterado pelo [Decreto-Lei n.º 31467](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31467-1941-356912), de 19 de Agosto de 1941, e pelo [Decreto-Lei n.º 34993](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34993-1945-468233), de 11 de Outubro de 1945.\n\nDecreto n.º 34993, de 11 de Outubro de 1945.\n\nDecreto n.º 40388, de 21 de Novembro de 1955.\n\n[Decreto n.º 46349](https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970), de 2 de Maio de 1965 (zonas de protecção a edifícios não classificados como monumentos nacionais).\n\n[Lei n.º 2032](https://diariodarepublica.pt/dr/detalhe/lei/2032-1949-258368), de 11 de Junho de 1949 (valores concelhios).\n\n[Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949 (alterada pelo [Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712), de 23 de Janeiro e pelo [Decreto-Lei n.º 219/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1972-673852), de 27 de Junho) (Estatuto das Estradas Nacionais).\n\n[Lei n.º 2110](https://diariodarepublica.pt/dr/detalhe/lei/2110-1961-172974), de 19 de Agosto de 1961, alterada pelo [Decreto-Lei n.º 360/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1977-286523), de 1 de Setembro (estradas e caminhos municipais).\n\n[Decreto-Lei n.º 13/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1971-446712), de 22 de Janeiro (licenciamento de obras junto a estradas nacionais).\n\n[Portaria n.º 114/71](https://diariodarepublica.pt/dr/detalhe/portaria/114-1971-445533), de 1 de Março (estradas nacionais).\n\n[Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro, e legislação complementar, nomeadamente o [Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), de 26 de Fevereiro (regime jurídico do domínio público hídrico).\n\n[Decreto-Lei n.º 502/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1971-631657), de 18 de Novembro (zonas de protecção às albufeiras de águas públicas).\n\n[Decreto-Lei n.º 219/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1972-673852), de 27 de Junho (ampliação de instalações industriais existentes em zonas non aedificandi).\n\n[Decreto-Lei n.º 637/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1976-430871), de 29 de Julho (licenciamento de objectos de publicidade junto das estradas nacionais e dentro de áreas urbanas).\n\n[Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho e legislação complementar (áreas naturais classificadas).\n\n[Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro (Lei dos Solos).\n\n[Decreto-Lei n.º 14/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1977-492721), de 6 de Janeiro (protecção aos montados de azinho).\n\n[Decreto-Lei n.º 360/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1977-286523), de 1 de Setembro (estradas e caminhos municipais).\n\n[Decreto-Lei n.º 327/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1980-469788), de 26 de Agosto (prevenção de incêndios florestais.)\n\n[Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro (regulamentação do sistema de prevenção, detecção e combate a fogos florestais).\n\n[Decreto-Lei n.º 152/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1982-393009), de 3 de Maio (regime jurídico das áreas de desenvolvimento urbano prioritário e das áreas de construção prioritária).\n\n[Decreto-Lei n.º 64/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1983-308276), de 3 de Fevereiro (zonas non aedificandi em itinerários principais).\n\n[Lei n.º 13/85](https://diariodarepublica.pt/dr/detalhe/lei/13-1985-182874) de 6 de Julho (Lei do Património Cultural).\n\n[Decreto-Lei n.º 380/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1985-176998), de 26 de Setembro (Plano Rodoviário Nacional).\n\n[Decreto-Lei n.º 89/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1987-662721), de 26 de Fevereiro (zonas adjacentes às linhas de água).\n\n[Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, e legislação complementar, nomeadamente o [Decreto Regulamentar n.º 37/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/37-1991-662300), de 23 de Julho (classificação das albufeiras de águas públicas).\n\n[Decreto-Lei n.º 139/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1988-285306), de 22 de Abril (reflorestação de áreas percorridas por incêndios).\n\n[Decreto-Lei n.º 172/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1988-374809), de 16 de Maio (protecção aos montados de sobro).\n\n[Decreto-Lei n.º 175/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1988-374803), de 31 de Maio (impõe medidas correctivas às entidades que efectuam explorações mineiras).\n\n[Decreto-Lei n.º 196/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1988-374254), de 16 de Março (actividade de pedreiras).\n\n[Decreto-Lei n.º 442-C/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-c-1988-519024), de 30 de Novembro (Código da Contribuição Autárquica).\n\n[Decreto-Lei n.º 139/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1989-625604), de 28 de Abril (protecção do relevo natural e do revestimento vegetal).\n\n[Decreto-Lei n.º 180/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1989-610020) (incêndios em áreas florestais).\n\n[Decreto-Lei n.º 196/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1989-620361), de 14 de Junho, alterado pelo [Decreto-Lei n.º 274/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1992-616449), de 12 de Dezembro (Reserva Agrícola Nacional).\n\n[Portaria n.º 528/89](https://diariodarepublica.pt/dr/detalhe/portaria/528-1989-619560), de 11 de Julho (acções de florestação ou reflorestação com espécies florestais de crescimento rápido).\n\n[Portaria n.º 513/89](https://diariodarepublica.pt/dr/detalhe/portaria/513-1989-619701), de 6 de Junho (concelhos com área de eucaliptal superior a 25%).\n\n[Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, alterado pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186) de 8 de Outubro, e pelo [Decreto-Lei n.º 281/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1993-329988), de 17 de Agosto (regime jurídico dos planos municipais de ordenamento do território).\n\n[Decreto-Lei n.º 70/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1990-332410), de 2 de Março (regime de bens do domínio público hídrico e fiscalizacão da prescrição de infracções).\n\n[Decreto-Lei n.º 74/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1990-332430), de 7 de Março (normas de qualidade da água).\n\n[Decreto-Lei n.º 89/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-1990-333156), de 16 de Março (actividade de pedreiras).\n\n[Decreto-Lei n.º 90/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1990-333160), de 16 de Março e legislação complementar (regime jurídico da exploração de inertes).\n\n[Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172) de 19 de Março e legislação complementar, nomeadamente o [Decreto-Lei n.º 213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005), de 12 de Outubro (Reserva Ecológica Nacional).\n\n[Decreto-Lei n.º 327/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1990-565445), de 22 de Outubro (áreas percorridas por incêndios).\n\n[Decreto-Lei n.º 334/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1990-565874), de 29 de Outubro (incêndios florestais).\n\n[Decreto-Lei n.º 341/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1990-565861) de 7 de Maio (normas regulamentares sobre prevenção e detecção de incêndio florestais).\n\n[Decreto-Lei n.º 367/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1990-564664), de 26 de Novembro (planos regionais de ordenamento do território).\n\n[Decreto Regulamentar n.º 37/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/37-1991-662300), de 23 de Julho [classificação das albufeiras de águas públicas (altera o [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro)].\n\n[Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro (Código do Procedimento Administrativo).\n\n[Decreto-Lei n.º 445/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1991-321486) de 20 de Novembro (regime jurídico do licenciamento de obras).\n\n[Decreto-Lei n.º 448/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1991-308715), de 29 de Novembro (regime jurídico do licenciamento das operações de loteamento urbano e de obras de urbanização).\n\n[Decreto Regulamentar n.º 63/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/63-1991-308336), de 29 de Novembro (operações de loteamento urbano e de obras de urbanização).\n\n[Decreto Regulamentar n.º 10/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1991-475547), de 15 de Março (licenciamento de estabelecimentos e actividades industriais).\n\n[Decreto Regulamentar n.º 1/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1992-158575), de 18 de Fevereiro (Regulamento de Segurança das Linhas de Alta Tensão).\n\n[Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186) de 8 de Outubro (regime jurídico dos planos municipais de ordenamento do território).\n\n[Decreto-Lei n.º 213/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1992-226005) de 12 de Outubro (regime da Reserva Ecológica Nacional).\n\n[Decreto-Lei n.º 274/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1992-616449), de 12 de Dezembro (regime da Reserva Agrícola Nacional).\n\nDespacho SEOP 37-XII/92, de 22 de Dezembro (estradas nacionais).\n\n[Portaria n.º 1182/92](https://diariodarepublica.pt/dr/detalhe/portaria/1182-1992-624389), de 22 de Dezembro (operações de loteamento e obras de urbanização).\n\n[Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro (áreas protegidas).\n\nDespacho conjunto dos Ministros do Planeamento e da Administração do Território e do Ambiente e Recursos Naturais, publicado no Diário da República, 2.ª série, n.º 133, de 8 de Junho de 1993 (aprova o Plano de Ordenamento da Zona Envolvente da Albufeira de Castelo de Bode).\n\n[Decreto-Lei n.º 281/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1993-329988), de 17 de Agosto (planos directores municipais).\n\n[Decreto-Lei n.º 282/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1993-329987), de 17 de Agosto (exercício da actividade industrial).\n\n[Decreto Regulamentar n.º 25/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1993-329816), de 17 de Agosto (licenciamento de estabelecimentos e actividades industriais).\n\n[Portaria n.º 744-B/93](https://diariodarepublica.pt/dr/detalhe/portaria/744-b-1993-620754), de 18 de Agosto (exercício da actividade industrial).\n\n[Lei n.º 68/93](https://diariodarepublica.pt/dr/detalhe/lei/68-1993-630414), de 4 de Setembro (Lei dos Baldios).\n\n[Decreto-Lei n.º 13/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1994-509198), de 15 de Janeiro (estradas nacionais)."
+  },
+  "02ded76a84e0015a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Regime de restrições e condicionamentos",
+   "in_force_from": "1997-07-06",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01."
+   ],
+   "markdown": "###### Artigo 20.º — Regime de restrições e condicionamentos\n\n1 - Nos espaços agrícolas são interditas:\n\na) Operações de loteamento;\n\nb) Obras de urbanização.\n\n2 - O regime de edificabilidade nestes espaços é o seguinte:\n\na) A área bruta de implantação máxima por parcela é de 1000 m2, incluindo habitação, que terá no máximo 200 m2 de área bruta de pavimento, devendo a construção ser concentrada;\n\nb) A altura máxima das construções, medida à platibanda ou beirado, é de 6,5 m e dois pisos para as habitacionais e 3,5 m e um piso para as não habitacionais;\n\nc) Constituem excepções ao disposto nas alíneas anteriores os silos, depósitos de água e instalações especiais devidamente justificadas, bem como as edificações destinadas aos fins previstos na alínea f) do artigo 22.º\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01."
+  },
+  "2835c1269038c49c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Espaços de uso ou aptidão agrícola",
+   "in_force_from": "1997-07-06",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01."
+   ],
+   "markdown": "###### Artigo 22.º — Espaços de uso ou aptidão agrícola\n\n1 - Estes espaços constituem espaços não integrados na Reserva Agrícola Nacional mas cujas características pedológicas, de ocupação actual ou de localização os potenciam para possíveis usos agrícolas.\n\n2 - O regime de edificabilidade é o previsto no Plano para os espaços agrícolas, sendo expressamente autorizadas edificações destinadas às seguintes finalidades:\n\na) Habitação;\n\nb) Usos auxiliares da agricultura;\n\nc) Turismo rural;\n\nd) Turismo de habitação;\n\ne) Agro-turismo;\n\nf) Outras edificações de interesse concelhio, reconhecido por deliberação expressa da Assembleia Municipal, nomeadamente postos de abastecimento de combustíveis.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01."
+  },
+  "d4b3243c7747d630": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Categorias",
+   "in_force_from": "1997-07-06",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01."
+   ],
+   "markdown": "###### Artigo 24.º — Categorias\n\n1 - Os espaços florestais dividem-se nas seguintes categorias:\n\na) Espaços florestais de produção;\n\nb) Espaços florestais de produção condicionada;\n\nc) Espaços florestais de reconversão;\n\nd) Espaços florestais de protecção.\n\n2 - Estes espaços ficam sujeitos aos seguintes condicionamentos, salvo indicação em contrário na regulamentação de cada uma das categorias:\n\na) São interditas operações de loteamento e obras de urbanização;\n\nb) Para cada parcela pode ser autorizada a construção isolada de edificações destinadas a equipamentos, a habitação para proprietários ou titulares dos direitos de exploração, a trabalhadores permanentes e ainda de apoio a explorações florestais viáveis, a turismo de habitação, turismo rural e agro-turismo, a apoio de explorações agrícolas e florestais e instalações de vigilância e combate a incêndios florestais, bem como obras de reconhecido interesse concelhio, reconhecido por deliberação expressa da Assembleia Municipal, nomeadamente postos de abastecimento de combustíveis;\n\nc) A área bruta de implantação máxima por parcela é de 1000 m2, incluindo habitação, que terá no máximo 200 m2 de área bruta de pavimento;\n\nd) A altura máxima das construções, medida à platibanda ou beirado, é de 6,5 m e dois pisos para as habitacionais e 3,5 m e um piso para as não habitacionais;\n\ne) Constituem excepções ao disposto nas alíneas c) e d) os silos, depósitos de água, instalações especiais devidamente justificadas, bem como edificações de reconhecido interesse concelhio, nos termos da alínea b) deste número.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01."
+  },
+  "6125a357c1e70957": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Regime de edificabilidade",
+   "in_force_from": "1997-07-06",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01."
+   ],
+   "markdown": "###### Artigo 41.º — Regime de edificabilidade\n\nOs espaços urbanos estão sujeitos aos seguintes condicionamentos:\n\na) As construções novas deverão integrar-se harmoniosamente no tecido urbano construído, mantendo as características de alinhamento, cércea, volumetria e ocupação do lote tradicionais do aglomerado em que se inserem;\n\nb) Sem prejuízo do disposto no Regulamento Geral das Edificações Urbanas (RGEU), a profundidade das edificações habitacionais não excederá os 15 m, medidos a partir do plano marginal da via pública.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01."
+  },
+  "d711e2098e976ff9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Aglomerados rurais",
+   "in_force_from": "1997-07-06",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01."
+   ],
+   "markdown": "###### Artigo 43.º — Aglomerados rurais\n\n1 - Os aglomerados rurais representam uma forma de povoamento originariamente ligada à exploração agrícola.\n\n2 - Os aglomerados rurais estão sujeitos aos seguintes condicionamentos:\n\na) As construções novas deverão integrar-se harmoniosamente no tecido urbano construído, mantendo as características de alinhamento, cércea, volumetria e ocupação do lote tradicionais do aglomerado em que se inserem;\n\nb) Sem prejuízo do disposto no RGEU, a profundidade das edificações habitacionais não excederá os 15 m, medidos a partir do plano marginal da via pública.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01."
+  }
+ }
+}

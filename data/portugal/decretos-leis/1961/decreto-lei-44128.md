@@ -29,10 +29,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-02-29'
+version_history:
+  file: decreto-lei-44128.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-02-29'
+    amending: pt:dre:678834:por
+    amending_title: Decreto-Lei n.º 27/80
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:39:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 27/80. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-44128.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -109,37 +127,59 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Para efeitos estatísticos, a duração da gravidez será classificada nos seguintes grupos:
+###### Artigo 1.º
 
-1.º grupo: menos de 20 semanas completas;
+Para efeitos estatísticos, a duração da gestação, que se designa por idade gestacional, será classificada nos seguintes grupos:
 
-2.º grupo: de 20 semanas a menos de 28 semanas completas;
+1.º grupo: menos de vinte e duas semanas completas;
 
-3.º grupo: 28 semanas ou superior;
+2.º grupo: de vinte e duas semanas a menos de vinte e oito semanas completas;
+
+3.º grupo: vinte e oito semanas completas ou mais;
 
 4.º grupo: duração desconhecida.
 
-§ único. A duração da gravidez é contada desde o primeiro dia do último cataménio até ao dia do nascimento.
+§ único. A idade gestacional é expressa em dias ou semanas completas e é calculada a partir do primeiro dia do último período menstrual normal.
 
-Art. 2.º Considera-se nascimento de criança viva a expulsão ou extracção completa, relativamente ao corpo materno e independentemente da duração da gravidez, do produto da fecundação que, após esta separação, respire ou manifeste quaisquer outros sinais de vida, tais como pulsações do coração ou do cordão umbilical ou contracção efectiva de qualquer músculo sujeito à acção da vontade, quer o cordão umbilical tenha sido cortado, quer não, e quer a placenta esteja ou não retida.
+> Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29.
+
+###### Artigo 2.º
+
+Considera-se nascimento de criança viva a expulsão ou extracção completa, relativamente ao corpo materno e independentemente da duração da gravidez, do produto da fecundação que, após esta separação, respire ou manifeste quaisquer outros sinais de vida, tais como pulsações do coração ou do cordão umbilical ou contracção efectiva de qualquer músculo sujeito à acção da vontade, quer o cordão umbilical tenha sido cortado, quer não, e quer a placenta esteja ou não retida.
 
 § único. O produto do nascimento ocorrido nestas condições denomina-se nado vivo.
 
-Art. 3.º Designar-se-ão por prematuros os nado vivos cujo nascimento se verifique com menos de 37 semanas de gravidez provável ou que pesem ao nascer 2,5 kg ou menos.
+###### Artigo 3.º
 
-Art. 4.º Sempre que se produza antes do nascimento, a morte do produto da fecundação será designada por morte fetal.
+1 - Segundo a duração da gestação, é de pré-termo o nascimento que ocorra antes de trinta e sete semanas completas de gestação; é de termo o que ocorre entre trinta e sete semanas e quarenta e uma semanas e seis dias de gestação; é de pós-termo o que ocorre com quarenta e duas semanas completas ou mais de gestação.
 
-§ único. A morte fetal, com relação à duração da gravidez, poderá ser:
+2 - Segundo o peso ao nascer, é de baixo peso o feto ou recém-nascido cuja primeira medida de peso seja inferior a 2500 g.
 
-a) Precoce, se a gravidez pertencer ao 1.º grupo;
+§ único. A primeira medida de peso deverá ser feita, de preferência, na primeira hora de vida, antes que ocorra uma significativa perda de peso pós-natal.
+
+> Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29.
+
+###### Artigo 4.º
+
+Sempre que se produza antes do nascimento, a morte do produto da fecundação será designada por morte fetal.
+
+§ único. A morte fetal, com relação à duração da gestação, poderá ser:
+
+a) Precoce, se a gestação pertencer ao 1.º grupo;
 
 b) Intermédia, se pertencer ao 2.º;
 
 c) Tardia, caso se classifique no 3.º
 
-Art. 5.º Para todos os efeitos legais, são ùnicamente de adoptar os conceitos e designação técnica constantes deste decreto-lei.
+> Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29.
 
-§ único. A anterior designação de abortamento corresponde às actuais designações de morte fetal precoce ou intermédia, consoante a duração de gravidez; e as de mortinatalidade ou de nado morto, respectivamente à de morte fetal tardia ou de feto que a sofreu.
+###### Artigo 5.º
+
+Para todos os efeitos legais, são ùnicamente de adoptar os conceitos e designação técnica constantes deste decreto-lei.
+
+§ único. A anterior designação de abortamento corresponde à actual designação de morte fetal precoce. A anterior designação de mortinatalidade, à de morte fetal intermédia ou tardia; e a de nado-morto, à de feto morto.
+
+> Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29.
 
 Publique-se e cumpra-se como nele se contém.
 

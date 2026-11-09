@@ -1,0 +1,77 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:665141:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1972-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9ddb97f234f5bb1f"
+   ]
+  },
+  {
+   "date": "1974-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:235962:por",
+     "title": "Decreto n.º 820/74",
+     "published": "1974-12-31",
+     "dre_path": "/dr/detalhe/decreto/820-1974-235962"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "b2cadec5b57c0006",
+    "e1faa6c01ac61d11",
+    "0ff7fbcc044ee3b5"
+   ]
+  }
+ ],
+ "fragments": {
+  "9ddb97f234f5bb1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Dezembro\n\nTendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º É autorizada a Santa Casa da Misericórdia de Lisboa a celebrar contrato para o fornecimento dos bilhetes para os concursos das apostas mútuas desportivas até à importância de 48180000$00.\n\nArt. 2.º - 1. O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:\n\nAno de 1973 ... 9300000$00\n\nAno de 1974 ... 9300000$00\n\nAno de 1975 ... 9860000$00\n\nAno de 1976 ... 9860000$00\n\nAno de 1977 ... 9860000$00\n\n2. O saldo apurado em cada ano será adicionado à importância fixada para o ano seguinte.\n\nMarcello Caetano - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 29 de Dezembro de 1972.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "b2cadec5b57c0006": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Dezembro\n\nTendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "e1faa6c01ac61d11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1974-12-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 820/74](https://diariodarepublica.pt/dr/detalhe/decreto/820-1974-235962), publicado em 1974-12-31."
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ autorizada a Santa Casa da Misericórdia de Lisboa a celebrar contrato para fornecimento dos bilhetes para os concursos das apostas mútuas desportivas até à importância de 55600000$00.\n\n> Alterado pelo/a [Decreto n.º 820/74](https://diariodarepublica.pt/dr/detalhe/decreto/820-1974-235962), publicado em 1974-12-31."
+  },
+  "0ff7fbcc044ee3b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1974-12-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 820/74](https://diariodarepublica.pt/dr/detalhe/decreto/820-1974-235962), publicado em 1974-12-31."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:\n\nAno de 1974 ... 12000000$00\n\nAno de 1975 ... 13200000$00\n\nAno de 1976 ... 14500000$00\n\nAno de 1977 ... 15900000$00\n\n2. O saldo apurado em cada ano será adicionado à importância fixada para o ano seguinte.\n\n> Alterado pelo/a [Decreto n.º 820/74](https://diariodarepublica.pt/dr/detalhe/decreto/820-1974-235962), publicado em 1974-12-31.\n\nMarcello Caetano - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 29 de Dezembro de 1972.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

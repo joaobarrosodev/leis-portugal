@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-02-15'
+version_history:
+  file: decreto-lei-48136.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-02-15'
+    amending: pt:dre:407489:por
+    amending_title: Decreto-Lei n.º 52/74; Decreto-Lei n.º 52/74
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:03:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 52/74; Decreto-Lei
+    n.º 52/74. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-48136.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,19 +128,23 @@ Convindo, portanto, proceder desde já, sem aumentos de encargos para o Tesouro,
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O quadro de oficiais médicos fixado pelo artigo 28.º do [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, passa a ser o seguinte:
+###### Artigo 1.º
 
-Coronéis ... 5
+O quadro de oficiais médicos fixado pelo artigo 28.º do [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, passa a ser o seguinte:
+
+Coronéis ... 6
 
 Tenentes-coronéis ... 9
 
-Majores ... 12
+Majores ... 18
 
-Capitães ... 40
+Capitães e subalternos ... 60
 
-Subalternos ... 30
+> Alterado pelo/a [Decreto-Lei n.º 52/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1974-407489), publicado em 1974-02-15.
 
-Art. 2.º Os encargos resultantes do reajustamento do quadro de oficiais do Serviço de Saúde Militar, de acordo com o artigo 1.º do presente diploma, serão suportados, no corrente ano, pelas disponibilidades da verba consignada no capítulo 8.º, artigo 326.º, n.º 1) «Pessoal dos quadros aprovados por lei», do orçamento do Ministério do Exército para o ano de 1967.
+###### Artigo 2.º
+
+Os encargos resultantes do reajustamento do quadro de oficiais do Serviço de Saúde Militar, de acordo com o artigo 1.º do presente diploma, serão suportados, no corrente ano, pelas disponibilidades da verba consignada no capítulo 8.º, artigo 326.º, n.º 1) «Pessoal dos quadros aprovados por lei», do orçamento do Ministério do Exército para o ano de 1967.
 
 Publique-se e cumpra-se como nele se contém.
 

@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-01-04'
+version_history:
+  file: decreto-lei-353-c-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-08-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-01-04'
+    amending: pt:dre:298034:por
+    amending_title: Decreto-Lei n.º 164/78; Decreto-Lei n.º 485/88
+    changes:
+    - Altera Artigo 5.º
+    - Adita Artigo 20.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:05:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 164/78; Decreto-Lei
+    n.º 485/88. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-353-c-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,13 +147,17 @@ Nestes termos:
 
 O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1. Entre o Estado e as empresas públicas que se encontrem em alguma das situações referidas no artigo 2.º poderão ser celebrados acordos para o reequilíbrio económico-financeiro das mesmas empresas.
+###### Artigo 1.º
+
+1. Entre o Estado e as empresas públicas que se encontrem em alguma das situações referidas no artigo 2.º poderão ser celebrados acordos para o reequilíbrio económico-financeiro das mesmas empresas.
 
 2. Os acordos poderão ser celebrados conjuntamente com grupos de empresas públicas, definindo-se com precisão a responsabilidade de cada uma nas obrigações estabelecidas e a sua parte na realização das metas e dos objectivos parciais e globais convencionados.
 
 3. Os acordos constituirão instrumentos básicos de gestão das empresas públicas que os outorgarem, com vista ao restabelecimento ou consolidação do seu equilíbrio económico-financeiro.
 
-Art. 2.º Deverão propor a celebração de acordos de saneamento económico-financeiro, ouvidos os respectivos trabalhadores, as empresas públicas ou os grupos de empresas públicas que se encontrem em alguma das seguintes situações:
+###### Artigo 2.º
+
+Deverão propor a celebração de acordos de saneamento económico-financeiro, ouvidos os respectivos trabalhadores, as empresas públicas ou os grupos de empresas públicas que se encontrem em alguma das seguintes situações:
 
 a) Apresentarem deficits de exploração, efectivos ou previsionais, em três exercícios sucessivos;
 
@@ -147,9 +167,13 @@ c) Apresentarem um resultado negativo no último exercício ou previsto para o a
 
 d) Terem sido declaradas em situação económica difícil, nos termos do [Decreto-Lei n.º 353-H/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-h-1977-240853).
 
-Art. 3.º Nos acordos, as empresas públicas ficarão obrigadas ao cumprimento de metas e objectivos específicos de equilíbrio financeiro, de produtividade e de rentabilidade; em contrapartida, o Estado garantirá a concessão de benefícios determinados, de entre os previstos neste decreto-lei.
+###### Artigo 3.º
 
-Art. 4.º - 1. Os objectivos e metas finais deverão, sempre que possível, ser decompostos em objectivos e metas anuais ou parcelares claramente definidos, e terão em vista a optimização dos recursos disponíveis e dos ratios de eficiência técnico-económica.
+Nos acordos, as empresas públicas ficarão obrigadas ao cumprimento de metas e objectivos específicos de equilíbrio financeiro, de produtividade e de rentabilidade; em contrapartida, o Estado garantirá a concessão de benefícios determinados, de entre os previstos neste decreto-lei.
+
+###### Artigo 4.º
+
+1. Os objectivos e metas finais deverão, sempre que possível, ser decompostos em objectivos e metas anuais ou parcelares claramente definidos, e terão em vista a optimização dos recursos disponíveis e dos ratios de eficiência técnico-económica.
 
 2. Estes objectivos e metas devem ser expressos, sempre que possível, em:
 
@@ -159,7 +183,9 @@ b) Número de trabalhadores, horas anuais e trabalho e massa salarial.
 
 3. Para o estabelecimento de medidas de saneamento financeiro, nível de endividamento ou outros objectivos não especificados no número anterior, devem considerar-se os indicadores de gestão recomendados pelo Governo.
 
-Art. 5.º - 1. Nos acordos, o Estado garantirá às empresas algum ou alguns dos seguintes benefícios:
+###### Artigo 5.º
+
+1. Nos acordos, o Estado garantirá às empresas algum ou alguns dos seguintes benefícios:
 
 a) Consolidação do passivo, nos termos do artigo 9.º;
 
@@ -177,21 +203,29 @@ g) Comparticipação, até ao limite de 30%, no custo dos estudos, projectos e o
 
 h) A concessão de um subsídio por trabalhador, durante um certo período, caso a empresa tenha sido previamente declarada em situação económica difícil, e enquanto se mantiver nessa situação, e faça prova de lhe ser impossível pagar os salários mínimos em vigor; esse subsídio cobrirá metade da diferença entre os salários que a empresa possa efectivamente pagar e os mínimos referidos, sendo a outra metade suportada pelos trabalhadores;
 
-i) Benefícios fiscais previstos na lei;
+i) (Revogada.)
 
 j) Outros subsídios que se justifiquem, face à situação e à especialidade da empresa.
 
 2. As espécies de benefícios a conceder, bem como a sua medida e as condições de que depender a sua efectivação, serão rigorosamente fixadas no acordo, graduando-se os benefícios em função das metas e obrigações da empresa.
 
-Art. 6.º - 1. Os acordos terão duração adequada aos objectivos, metas e benefícios que forem convencionados, podendo ser revistos em qualquer altura, por sugestão de uma das partes.
+> Alterado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30.
+
+###### Artigo 6.º
+
+1. Os acordos terão duração adequada aos objectivos, metas e benefícios que forem convencionados, podendo ser revistos em qualquer altura, por sugestão de uma das partes.
 
 2. Os acordos cujo prazo ultrapasse cinco anos estabelecerão obrigatoriamente termos e condições para a sua revisão.
 
-Art. 7.º - 1. As propostas de acordo deverão ser remetidas ao Ministério da Tutela, com envio simultâneo de cópias aos Ministérios do Plano e Coordenação Económica e das Finanças, no prazo de cento e vinte dias, a contar da data em que se verifique alguma das situações previstas no artigo 2.º
+###### Artigo 7.º
+
+1. As propostas de acordo deverão ser remetidas ao Ministério da Tutela, com envio simultâneo de cópias aos Ministérios do Plano e Coordenação Económica e das Finanças, no prazo de cento e vinte dias, a contar da data em que se verifique alguma das situações previstas no artigo 2.º
 
 2. As empresas públicas que já se encontrem em alguma das referidas situações à data da entrada em vigor deste decreto-lei deverão apresentar a proposta de acordo no prazo de noventa dias, a contar desta data.
 
-Art. 8.º - 1. As propostas de acordo deverão ser instruídas com os seguintes elementos:
+###### Artigo 8.º
+
+1. As propostas de acordo deverão ser instruídas com os seguintes elementos:
 
 a) Estudo económico e financeiro devidamente fundamentado, discriminando os elementos de exploração por produtos ou serviços e centros de produção, de forma a permitir avaliar os custos sociais envolvidos ou determinados por razões de serviço público de interesse nacional;
 
@@ -207,7 +241,9 @@ f) Pareceres que, sob o conteúdo da proposta, tenham sido emitidos pelos repres
 
 g) Quaisquer outros elementos julgados úteis para apreciação do processo.
 
-Art. 9.º - 1. Uma fracção do passivo das empresas será consolidada, nomeadamente através de juros bonificados e de garantias de pagamento, nos termos que vierem a ser acordados.
+###### Artigo 9.º
+
+1. Uma fracção do passivo das empresas será consolidada, nomeadamente através de juros bonificados e de garantias de pagamento, nos termos que vierem a ser acordados.
 
 2. O prazo de consolidação não poderá exceder dez anos, admitindo-se um período de deferimento máximo de três anos, durante o qual apenas haverá lugar ao pagamento dos juros devidos.
 
@@ -223,13 +259,17 @@ c) Outras dívidas da empresa cuja consolidação se mostre necessária.
 
 5. A consolidação das dívidas referidas na alínea c) do n.º 3 obedecerá a moldes adequados às circunstâncias, sendo assegurada a mobilização dos créditos consolidados pelo sistema bancário.
 
-Art. 10.º - 1. Com vista à consolidação do passivo, as empresas iniciarão com os credores, desde logo e em simultâneo com as outras diligências para a organização da proposta, as negociações tendentes ao estabelecimento de um protocolo de amortização.
+###### Artigo 10.º
+
+1. Com vista à consolidação do passivo, as empresas iniciarão com os credores, desde logo e em simultâneo com as outras diligências para a organização da proposta, as negociações tendentes ao estabelecimento de um protocolo de amortização.
 
 2. As negociações serão conduzidas, por parte das instituições de crédito nacionais, pelo banco maior credor.
 
 3. As propostas de acordo serão sempre acompanhadas dos protocolos referidos no n.º 1, ou da exposição detalhada das posições assumidas pelos diversos interessados.
 
-Art. 11.º - 1. Também em simultâneo com as outras diligências para a organização do processo, as empresas iniciarão negociações tendentes ao estabelecimento de acordos colectivos de trabalho ou à alteração, se necessário, do regime de contratação colectiva que estiver em vigor.
+###### Artigo 11.º
+
+1. Também em simultâneo com as outras diligências para a organização do processo, as empresas iniciarão negociações tendentes ao estabelecimento de acordos colectivos de trabalho ou à alteração, se necessário, do regime de contratação colectiva que estiver em vigor.
 
 2. Estas negociações visarão compatibilizar o regime laboral com as metas e os objectivos do acordo a propor, quer no respeitante aos direitos e obrigações nele previstos, quer no respeitante ao condicionalismo das alterações futuras, que ficarão sempre subordinadas ao cumprimento dos objectivos e metas do acordo.
 
@@ -237,7 +277,9 @@ Art. 11.º - 1. Também em simultâneo com as outras diligências para a organiz
 
 4. O regime laboral que venha a ser fixado em consequência das negociações referidas nos n.os 1 e 2 só poderá ser alterado, no todo ou em parte, durante a vigência do acordo, mediante aprovação do Ministro da Tutela, fundada em informação escrita no conselho de gerência da empresa de que as alterações propostas não obstam nem prejudicam a realização dos objectivos e metas do acordo.
 
-Art. 12.º - 1. Recebida a proposta do acordo e por despacho conjunto dos Ministros do Plano e Coordenação Económica, das Finanças e da Tutela, será nomeada uma comissão constituída por representantes de cada um daqueles Ministérios e da empresa ou do grupo de empresas proponente e que funcionará no âmbito do Ministério do Plano e Coordenação Económica.
+###### Artigo 12.º
+
+1. Recebida a proposta do acordo e por despacho conjunto dos Ministros do Plano e Coordenação Económica, das Finanças e da Tutela, será nomeada uma comissão constituída por representantes de cada um daqueles Ministérios e da empresa ou do grupo de empresas proponente e que funcionará no âmbito do Ministério do Plano e Coordenação Económica.
 
 2. À comissão incumbirá a apreciação da proposta, podendo solicitar às empresa proponentes ou a quaisquer entidades os elementos que julgar convenientes.
 
@@ -245,7 +287,9 @@ Art. 12.º - 1. Recebida a proposta do acordo e por despacho conjunto dos Minist
 
 4. A comissão apresentará o relatório final, devidamente fundamentado e instruído, no prazo de trinta dias, a contar da nomeação.
 
-Art. 13.º - 1. Nos dez dias subsequentes à apresentação do relatório será proferida decisão final, nos termos seguintes:
+###### Artigo 13.º
+
+1. Nos dez dias subsequentes à apresentação do relatório será proferida decisão final, nos termos seguintes:
 
 a) Se for contrária à celebração do acordo, por despacho conjunto dos Ministros indicados no artigo 12.º, n.º 1;
 
@@ -253,21 +297,39 @@ b) Se for favorável, mediante a assinatura de um instrumento de «Acordo de San
 
 2. O instrumento referido na alínea b) do n.º 1 será publicado na 2.ª série do Diário da República, produzindo desde logo os seus efeitos em relação a todos os interessados.
 
-Art. 14.º O incumprimento por parte das empresas públicas de qualquer das obrigações previstas neste decreto-lei e nos acordos que vierem a ser celebrados em sua execução fará incorrer os respectivos gestores em responsabilidade disciplinar e poderá determinar a aplicação às empresas pelo Governo das medidas administrativas que forem julgadas convenientes.
+###### Artigo 14.º
 
-Art. 15.º - 1. O efectivo direito aos benefícios, em especial aos de natureza financeira e fiscal, dependerá sempre da consecução pelas empresas dos objectivos e metas acordados, salvo motivos excepcionais e alheios à responsabilidade das empresas.
+O incumprimento por parte das empresas públicas de qualquer das obrigações previstas neste decreto-lei e nos acordos que vierem a ser celebrados em sua execução fará incorrer os respectivos gestores em responsabilidade disciplinar e poderá determinar a aplicação às empresas pelo Governo das medidas administrativas que forem julgadas convenientes.
+
+###### Artigo 15.º
+
+1. O efectivo direito aos benefícios, em especial aos de natureza financeira e fiscal, dependerá sempre da consecução pelas empresas dos objectivos e metas acordados, salvo motivos excepcionais e alheios à responsabilidade das empresas.
 
 2. Caberá às empresas o ónus de provarem a efectiva consecução dos objectivos e metas e, eventualmente, os motivos excepcionais referidos no número anterior.
 
-Art. 16.º A cobertura de eventuais prejuízos que resultem dos acordos, designadamente da garantia de pagamento e da bonificação de juro, a que se refere o n.º 1 do artigo 9.º, será feita através do Orçamento Geral do Estado.
+###### Artigo 16.º
 
-Art. 17.º - 1. Os acordos deverão estabelecer um regime de natureza arbitral para o esclarecimento de dúvidas ou resolução de diferendos que surjam na sua interpretação ou execução.
+A cobertura de eventuais prejuízos que resultem dos acordos, designadamente da garantia de pagamento e da bonificação de juro, a que se refere o n.º 1 do artigo 9.º, será feita através do Orçamento Geral do Estado.
+
+###### Artigo 17.º
+
+1. Os acordos deverão estabelecer um regime de natureza arbitral para o esclarecimento de dúvidas ou resolução de diferendos que surjam na sua interpretação ou execução.
 
 2. Se, por qualquer motivo, não for possível obter decisão de acordo com esse regime, as dúvidas ou os diferendos serão solucionados por resolução do Conselho de Ministros.
 
-Art. 18.º Com as necessárias adaptações, os princípios instituídos pelo [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, serão aplicados subsidiariamente à matéria regulada neste diploma.
+###### Artigo 18.º
 
-Art. 19.º Os acordos celebrados serão revistos em função do que a lei vier a estatuir em matéria dos benefícios fiscais a conceder às empresas que celebrarem os acordos a que se refere este diploma.
+Com as necessárias adaptações, os princípios instituídos pelo [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril, serão aplicados subsidiariamente à matéria regulada neste diploma.
+
+###### Artigo 19.º
+
+Os acordos celebrados serão revistos em função do que a lei vier a estatuir em matéria dos benefícios fiscais a conceder às empresas que celebrarem os acordos a que se refere este diploma.
+
+###### Artigo 20.º
+
+As disposições do presente diploma podem ser aplicadas às empresas concessionárias de transportes públicos colectivos urbanos de passageiros, em cujo capital social o Estado detenha a maioria, através de despacho conjunto dos Ministros das Finanças e do Plano e da Tutela, devidamente fundamentado.
+
+> Aditado pelo/a [Decreto-Lei n.º 164/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1978-298034), publicado em 1978-07-06.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 

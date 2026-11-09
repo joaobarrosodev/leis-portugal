@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-03-10'
+version_history:
+  file: decreto-lei-68-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-03-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-03-10'
+    amending: pt:dre:610469:por
+    amending_title: Decreto-Lei n.º 15/2010
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/68/2009/03/20/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:11:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 15/2010. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2009/decreto-lei-68-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,11 +172,15 @@ O presente decreto-lei estabelece um conjunto de medidas de apoio aos desemprega
 
 ###### Artigo 2.º — Prorrogação
 
-1 - É prorrogada, por um período de seis meses, a atribuição do subsídio social de desemprego inicial ou subsequente ao subsídio de desemprego que cesse no decurso do ano de 2009.
+1 - É prorrogada, por um período de seis meses, a atribuição do subsídio social de desemprego inicial ou subsequente ao subsídio de desemprego que cesse no decurso do ano de 2010, sem prejuízo do disposto no número seguinte.
 
-2 - O montante diário do subsídio referido no número anterior corresponde a 1/30 de 60 % do valor do indexante dos apoios sociais (IAS), sem prejuízo do disposto no número seguinte.
+2 - A prorrogação prevista no número anterior não se aplica às situações de prorrogação da atribuição do subsídio social de desemprego inicial ou subsequente ao subsídio de desemprego ocorridas durante o ano de 2009.
 
-3 - O montante diário do subsídio é majorado em 1/30 de 10 % do IAS por cada filho que integre o agregado familiar do titular da prestação, não podendo o montante diário total exceder 1/30 do valor do IAS.
+3 - O montante diário do subsídio referido no número anterior corresponde a 1/30 de 60 % do valor do indexante dos apoios sociais (IAS), sem prejuízo do disposto no número seguinte.
+
+4 - O montante diário do subsídio é majorado em 1/30 de 10 % do IAS por cada filho que integre o agregado familiar do titular da prestação, não podendo o montante diário total exceder 1/30 do valor do IAS.
+
+> Alterado pelo/a [Decreto-Lei n.º 15/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2010-610469), publicado em 2010-03-09.
 
 ###### Artigo 3.º — Alteração ao [Decreto-Lei n.º 220/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2006-546202), de 20 de Novembro
 

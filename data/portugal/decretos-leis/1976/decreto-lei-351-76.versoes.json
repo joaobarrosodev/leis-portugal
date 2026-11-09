@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:427831:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1976-05-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d07d7d8c2e01be36"
+   ]
+  },
+  {
+   "date": "1976-07-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:431448:por",
+     "title": "Decreto-Lei n.º 532/76",
+     "published": "1976-07-08",
+     "dre_path": "/dr/detalhe/decreto-lei/532-1976-431448"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º"
+   ],
+   "fragments": [
+    "31434641242e4a7f",
+    "d0744c172b22ce1e",
+    "57a2e9bc6e6ec67b",
+    "e0462503d7ace153"
+   ]
+  }
+ ],
+ "fragments": {
+  "d07d7d8c2e01be36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Maio\n\nA promulgação do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, culmina o processo de definição da situação dos militares das forças armadas deficientes em consequência de acidentes ou doenças resultantes de serviço.\n\nO processo iniciado com a publicação do [Decreto-Lei n.º 210/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1973-421985), de 9 de Maio, teve a sua sequência nos Decretos-Leis n.os [291/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1973-422802) e [295/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1973-422660), respectivamente de 8 e 9 de Junho.\n\nQualquer destes últimos diplomas foi tomado extensível aos militares da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública, e bem assim aos comissários e agentes da Polícia de Segurança Pública, por força do disposto no [Decreto-Lei n.º 592/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/592-1973-411621), de 7 de Novembro.\n\nJusto é, portanto, que também as disposições do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028) se tornem extensíveis àqueles elementos.\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º As disposições do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, são extensíveis aos militares da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública, e bem assim aos comissários e agentes desta Polícia.\n\nArt. 2.º - 1. As juntas de saúde e juntas extraordinárias de recurso referidas no artigo 6.º do [Decreto-Lei n.º 46/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1976-506021) são substituídas pelas juntas de saúde ou juntas de recurso da corporação a que pertença o interessado.\n\n2. O despacho referido no n.º 4 do artigo 6.º será proferido pelo comandante-geral da corporação a que o interessado esteja vinculado.\n\nJosé Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa.\n\nPromulgado em 3 de Maio de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "31434641242e4a7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Maio\n\nA promulgação do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, culmina o processo de definição da situação dos militares das forças armadas deficientes em consequência de acidentes ou doenças resultantes de serviço.\n\nO processo iniciado com a publicação do [Decreto-Lei n.º 210/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1973-421985), de 9 de Maio, teve a sua sequência nos Decretos-Leis n.os [291/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1973-422802) e [295/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-1973-422660), respectivamente de 8 e 9 de Junho.\n\nQualquer destes últimos diplomas foi tomado extensível aos militares da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública, e bem assim aos comissários e agentes da Polícia de Segurança Pública, por força do disposto no [Decreto-Lei n.º 592/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/592-1973-411621), de 7 de Novembro.\n\nJusto é, portanto, que também as disposições do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028) se tornem extensíveis àqueles elementos.\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "d0744c172b22ce1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs disposições do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, são extensíveis aos militares da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública, e bem assim aos comissários e agentes desta Polícia."
+  },
+  "57a2e9bc6e6ec67b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As juntas de saúde e juntas extraordinárias de recurso referidas no artigo 6.º do [Decreto-Lei n.º 46/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1976-506021) são substituídas pelas juntas de saúde ou juntas de recurso da corporação a que pertença o interessado.\n\n2. O despacho referido no n.º 4 do artigo 6.º será proferido pelo comandante-geral da corporação a que o interessado esteja vinculado."
+  },
+  "e0462503d7ace153": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1976-07-08",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 532/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1976-431448), publicado em 1976-07-08."
+   ],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma produz efeitos a partir de 1 de Setembro de 1975, data a partir da qual terão eficácia os direitos que reconhece aos deficientes.\n\n> Aditado pelo/a [Decreto-Lei n.º 532/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1976-431448), publicado em 1976-07-08.\n\nJosé Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa.\n\nPromulgado em 3 de Maio de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}

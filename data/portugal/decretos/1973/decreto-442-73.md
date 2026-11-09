@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-10-31'
+version_history:
+  file: decreto-442-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-09-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-10-31'
+    amending: pt:dre:412625:por
+    amending_title: Decreto n.º 570/73
+    changes:
+    - Altera Artigo 18.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:29:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 570/73. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1973/decreto-442-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,19 +161,29 @@ Por motivo de urgência, nos termos do § 3.º do artigo 136.º da Constituiçã
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-Artigo 1.º Os juizes das relações do ultramar darão andamento normal a todos os processos que lhes forem distribuídos, nos termos do n.º 3 do artigo 8.º do [Decreto n.º 49374](https://diariodarepublica.pt/dr/detalhe/decreto/49374-1969-215761), de 12 de Novembro de 1969, só se dando a baixa na distribuição prevista no n.º 2 do artigo 227.º do Código de Processo Civil, ao cessar o impedimento do substituto da presidência, naqueles processos que à data da cessação não tenham ainda sido conclusos para o visto final, destinado à elaboração do projecto de acórdão.
+###### Artigo 1.º
 
-Art. 2.º - 1. Sempre que os inspectores superiores de justiça venham à metrópole depois de completado um tempo de permanência no ultramar de, pelo menos, vinte e dois meses, terão direito a licença para férias de dois meses, e em qualquer altura do ano, nos mesmos termos dos restantes magistrados, constituindo os vencimentos a que têm direito, correspondentes à sua categoria no quadro geral da magistratura, encargo da província onde tenham estado a prestar serviço durante aquele período ou, quando o tenham prestado em mais de uma, daquela em que permaneceram por mais tempo.
+Os juizes das relações do ultramar darão andamento normal a todos os processos que lhes forem distribuídos, nos termos do n.º 3 do artigo 8.º do [Decreto n.º 49374](https://diariodarepublica.pt/dr/detalhe/decreto/49374-1969-215761), de 12 de Novembro de 1969, só se dando a baixa na distribuição prevista no n.º 2 do artigo 227.º do Código de Processo Civil, ao cessar o impedimento do substituto da presidência, naqueles processos que à data da cessação não tenham ainda sido conclusos para o visto final, destinado à elaboração do projecto de acórdão.
+
+###### Artigo 2.º
+
+1. Sempre que os inspectores superiores de justiça venham à metrópole depois de completado um tempo de permanência no ultramar de, pelo menos, vinte e dois meses, terão direito a licença para férias de dois meses, e em qualquer altura do ano, nos mesmos termos dos restantes magistrados, constituindo os vencimentos a que têm direito, correspondentes à sua categoria no quadro geral da magistratura, encargo da província onde tenham estado a prestar serviço durante aquele período ou, quando o tenham prestado em mais de uma, daquela em que permaneceram por mais tempo.
 
 2. A licença referida no número anterior não pode ser acumulada com quaisquer outras licenças para férias.
 
-Art. 3.º - 1. No Tribunal da Comarca de Lourenço Marques são criados os 4.º e 5.º Juízos Criminais, cada um deles com a competência e quadros de pessoal idênticos aos dos já existentes na mesma comarca.
+###### Artigo 3.º
+
+1. No Tribunal da Comarca de Lourenço Marques são criados os 4.º e 5.º Juízos Criminais, cada um deles com a competência e quadros de pessoal idênticos aos dos já existentes na mesma comarca.
 
 2. Em cada uma das comarcas do Bié, Malanje, Gaza, Matola e Tete é criado mais um lugar de delegado do procurador da República, nos termos e para os efeitos do [Decreto n.º 431/71](https://diariodarepublica.pt/dr/detalhe/decreto/431-1971-633508), de 13 de Outubro.
 
-Art. 4.º Os conservadores dos registos dos quadros do ultramar poderão ser admitidos aos concursos para juiz de direito, independentemente do requisito de tempo de serviço actualmente exigido, desde que completem quatro anos de exercício da judicatura por substituição ou interinamente, com boas informações de serviço.
+###### Artigo 4.º
 
-Art. 5.º - 1. Os candidatos obrigatórios aos concursos para juiz de direito que, tendo faltado a anterior concurso, se encontrem absolutamente impedidos de comparecer à prestação das provas práticas poderão ser admitidos a novas provas, a realizar dentro do mais curto prazo possível e com pontos diferentes dos anteriormente tirados, se, no dia da prestação do primeiro ponto ou, não sendo então possível, até cinco dias após a cessação do impedimento, for apresentada ao presidente do júri de fiscalização justificação do impedimento que o Conselho Superior Judiciário venha a considerar atendível.
+Os conservadores dos registos dos quadros do ultramar poderão ser admitidos aos concursos para juiz de direito, independentemente do requisito de tempo de serviço actualmente exigido, desde que completem quatro anos de exercício da judicatura por substituição ou interinamente, com boas informações de serviço.
+
+###### Artigo 5.º
+
+1. Os candidatos obrigatórios aos concursos para juiz de direito que, tendo faltado a anterior concurso, se encontrem absolutamente impedidos de comparecer à prestação das provas práticas poderão ser admitidos a novas provas, a realizar dentro do mais curto prazo possível e com pontos diferentes dos anteriormente tirados, se, no dia da prestação do primeiro ponto ou, não sendo então possível, até cinco dias após a cessação do impedimento, for apresentada ao presidente do júri de fiscalização justificação do impedimento que o Conselho Superior Judiciário venha a considerar atendível.
 
 2. Só serão atendíveis os factos devida e oportunamente comprovados que tornem absolutamente impossível a comparência ou constituam doença grave do candidato, existente à data da prestação das provas, mas não impeditiva do regresso ao serviço em condições normais no prazo máximo de trinta dias após o termo das provas prestadas pelos restantes candidatos.
 
@@ -166,15 +191,25 @@ Art. 5.º - 1. Os candidatos obrigatórios aos concursos para juiz de direito qu
 
 4. O presidente do júri de fiscalização remeterá imediatamente ao Conselho Superior Judiciário, pela via mais rápida e com a sua informação, os elementos apresentados com a invocação do justo impedimento.
 
-Art. 6.º Os lugares de distribuidor-geral serão providos, por escolha do Ministro do Ultramar, em escrivão de direito de 1.ª classe e contadores com a classificação de Muito bom e cinco anos de exercício efectivo na classe e na categoria.
+###### Artigo 6.º
 
-Art. 7.º Nas comarcas de Luanda e de Lourenço Marques o distribuidor-geral procederá à distribuição de todas as cartas, ofícios ou telegramas precatórios para citação ou notificação por todos os oficiais de diligências dos tribunais competentes para o seu cumprimento.
+Os lugares de distribuidor-geral serão providos, por escolha do Ministro do Ultramar, em escrivão de direito de 1.ª classe e contadores com a classificação de Muito bom e cinco anos de exercício efectivo na classe e na categoria.
 
-Art. 8.º Nas relações do ultramar os lugares de escrivão serão preenchidos por escrivães de direito de 1.ª classe, nomeados em comissão de serviço por três anos, renováveis, que tenham, pelo menos, dois anos de efectivo serviço na classe e classificação não inferior à ide Bom, sendo os lugares de chefe de secção de expediente e contabilidade preenchidos nas mesmas condições por contadores.
+###### Artigo 7.º
 
-Art. 9.º Os lugares de escrivão de direito de 1.ª classe são providos pelo Ministro do Ultramar em escrivães de direito de 2.ª classe com classificação não inferior à de Bom, com excepção das comarcas de Sotavento, Barlavento, Guiné, S. Tomé, Macau e Timor, em que o provimento é feito por concurso, nos termos do artigo 64.º do [Decreto n.º 352/72](https://diariodarepublica.pt/dr/detalhe/decreto/352-1972-688981), de 9 de Setembro.
+Nas comarcas de Luanda e de Lourenço Marques o distribuidor-geral procederá à distribuição de todas as cartas, ofícios ou telegramas precatórios para citação ou notificação por todos os oficiais de diligências dos tribunais competentes para o seu cumprimento.
 
-Art. 10.º - 1. Os lugares de escrivão de direito de 2.ª classe são providos pelo Ministro do Ultramar em indivíduos habilitados com o respectivo concurso documental.
+###### Artigo 8.º
+
+Nas relações do ultramar os lugares de escrivão serão preenchidos por escrivães de direito de 1.ª classe, nomeados em comissão de serviço por três anos, renováveis, que tenham, pelo menos, dois anos de efectivo serviço na classe e classificação não inferior à ide Bom, sendo os lugares de chefe de secção de expediente e contabilidade preenchidos nas mesmas condições por contadores.
+
+###### Artigo 9.º
+
+Os lugares de escrivão de direito de 1.ª classe são providos pelo Ministro do Ultramar em escrivães de direito de 2.ª classe com classificação não inferior à de Bom, com excepção das comarcas de Sotavento, Barlavento, Guiné, S. Tomé, Macau e Timor, em que o provimento é feito por concurso, nos termos do artigo 64.º do [Decreto n.º 352/72](https://diariodarepublica.pt/dr/detalhe/decreto/352-1972-688981), de 9 de Setembro.
+
+###### Artigo 10.º
+
+1. Os lugares de escrivão de direito de 2.ª classe são providos pelo Ministro do Ultramar em indivíduos habilitados com o respectivo concurso documental.
 
 2. São admitidos ao concurso para escrivão de direito:
 
@@ -188,17 +223,25 @@ c) Os ajudantes de escrivão de 1.ª classe e de contador com três anos de serv
 
 4. Nas nomeações a realizar entre os candidatos da alínea a) do n.º 2, por um lado, e os candidatos das alíneas b) e c) do mesmo número, por outro, o preenchimento das vagas é feito na proporção de um para três.
 
-Art. 11.º - 1. Os lugares de escrivão dos tribunais do trabalho do ultramar são providos entre ajudantes de escrivão dos mesmos tribunais, mediante concurso documental, aberto na Direcção-Geral de Justiça.
+###### Artigo 11.º
+
+1. Os lugares de escrivão dos tribunais do trabalho do ultramar são providos entre ajudantes de escrivão dos mesmos tribunais, mediante concurso documental, aberto na Direcção-Geral de Justiça.
 
 2. Os candidatos a este concurso deverão ter cinco anos de serviço com informação não inferior à de Bom, ou três anos de serviço com informação não inferior à de Muito bom.
 
-Art. 12.º Os lugares de contador serão providos pelo Ministro do Ultramar, mediante concurso documental, em escrivães de direito de 2.ª classe com dois anos de serviço efectivo na classe e classificação não inferior à de Bom e em ajudantes de contador com cinco anos de serviço efectivo e a classificação de Muito bom nos últimos três anos.
+###### Artigo 12.º
 
-Art. 13.º - 1. Os lugares de ajudante de escrivão de direito de 1.ª classe serão providos em ajudantes de escrivão de 2.ª classe com dois anos de serviço efectivo e boas informações.
+Os lugares de contador serão providos pelo Ministro do Ultramar, mediante concurso documental, em escrivães de direito de 2.ª classe com dois anos de serviço efectivo na classe e classificação não inferior à de Bom e em ajudantes de contador com cinco anos de serviço efectivo e a classificação de Muito bom nos últimos três anos.
+
+###### Artigo 13.º
+
+1. Os lugares de ajudante de escrivão de direito de 1.ª classe serão providos em ajudantes de escrivão de 2.ª classe com dois anos de serviço efectivo e boas informações.
 
 2. Nas comarcas de Sotavento, Barlavento, Guiné, S. Tomé, Macau e Timor o provimento dos ajudantes de escrivão é feito por concurso, nos termos dos artigos 68.º e 69.º do [Decreto n.º 352/72](https://diariodarepublica.pt/dr/detalhe/decreto/352-1972-688981), de 9 de Setembro, aberto pelo Governador ida província, sob proposta do juiz da comarca.
 
-Art. 14.º - 1. São admitidos ao concurso para ajudantes de escrivão de 2.ª classe os intérpretes e os escriturários com, pelo menos, um ano de serviço efectivo e boas informações.
+###### Artigo 14.º
+
+1. São admitidos ao concurso para ajudantes de escrivão de 2.ª classe os intérpretes e os escriturários com, pelo menos, um ano de serviço efectivo e boas informações.
 
 2. Podem concorrer os oficiais de diligências e os dactilógrafos, quando tenham cinco anos de serviço efectivo e classificação não inferior à de Bom.
 
@@ -208,7 +251,9 @@ Art. 14.º - 1. São admitidos ao concurso para ajudantes de escrivão de 2.ª c
 
 5. Para o efeito do número anterior, podem os juizes de direito autorizar o estágio nele referido, sob proposta do respectivo escrivão, mas os estagiários terão os deveres de sigilo e de lealdade dos funcionários públicos e ficam equiparados a estes para fins disciplinares e penais.
 
-Art. 15.º - 1. Os lugares de oficial de diligências
+###### Artigo 15.º
+
+1. Os lugares de oficial de diligências
 
 são providos pelo Governador da província em indivíduos do sexo masculino, habilitados, pelo menos, com o ciclo preparatório do ensino secundário, sob proposta do presidente da Relação, em Angola e Moçambique, e sob proposta do juiz da comarca, nas restantes províncias.
 
@@ -216,7 +261,9 @@ são providos pelo Governador da província em indivíduos do sexo masculino, ha
 
 3. Os oficiais de diligências dos julgados municipais de 2.ª classe podem ser nomeados para os lugares das comarcas de 2.ª classe e para os dos julgados municipais de 1.ª classe, embora não tenham as habilitações escolares exigidas no n.º 2 deste artigo, desde que tenham três anos de serviço efectivo e informações não inferiores às de Bom.
 
-Art. 16.º - 1. Pelas presidências da Relação, em Angola e Moçambique, e pelo juiz de direito da comarca da capital, nas restantes províncias, serão elaboradas, anualmente, as listas de antiguidade dos funcionários de justiça, com referência a 31 de Dezembro do ano anterior.
+###### Artigo 16.º
+
+1. Pelas presidências da Relação, em Angola e Moçambique, e pelo juiz de direito da comarca da capital, nas restantes províncias, serão elaboradas, anualmente, as listas de antiguidade dos funcionários de justiça, com referência a 31 de Dezembro do ano anterior.
 
 2. As listas de antiguidade dos funcionários de justiça das secretarias judiciais do quadro comum serão publicadas no Boletim Judiciário do Ultramar.
 
@@ -234,13 +281,17 @@ Art. 16.º - 1. Pelas presidências da Relação, em Angola e Moçambique, e pel
 
 9. Para efeito da promoção a ajudante de escrivão de direito de 1.ª classe, o tempo de serviço mandado contar aos ajudantes no artigo 8.º, n.º 3.º, do [Decreto n.º 47859](https://diariodarepublica.pt/dr/detalhe/decreto/47859-1967-315079), de 24 de Agosto de 1967, só poderá ser considerado depois de completado um ano de serviço efectivo no ultramar na categoria de ajudante de escrivão de 2.ª classe.
 
-Art. 17.º - 1. Se o concurso para provimento de qualquer lugar das secretarias judiciais ficar deserto ou se for imperioso prover rapidamente o lugar, este será ocupado interinamente, por tempo não superior a um ano, por funcionário de categoria ou classe imediatamente inferior ou, não o havendo, por indivíduo que esteja, pelo menos, habilitado com o ciclo preparatório do ensino secundário.
+###### Artigo 17.º
+
+1. Se o concurso para provimento de qualquer lugar das secretarias judiciais ficar deserto ou se for imperioso prover rapidamente o lugar, este será ocupado interinamente, por tempo não superior a um ano, por funcionário de categoria ou classe imediatamente inferior ou, não o havendo, por indivíduo que esteja, pelo menos, habilitado com o ciclo preparatório do ensino secundário.
 
 2. Sendo impossível efectuar-se o provimento do lugar referido no número anterior antes de terminado o período de um ano, poderá a interinidade ser prorrogada pelo Ministro do Ultramar, desde que se verifiquem motivos ponderosos devidamente justificados.
 
-Art. 18.º - 1. Em cada tribunal do ultramar o imposto de justiça, contado nos respectivos processos em qualquer jurisdição, terá o seguinte destino:
+###### Artigo 18.º
 
-a) Na relação, tribunais criminais, do trabalho, de menores de competência especializada, de execução das penas e julgados municipais de 1.ª classe:
+1. Em cada tribunal do ultramar o imposto de justiça, contado nos respectivos processos de qualquer jurisdição, terá o seguinte destino:
+
+a) Na Relação, tribunais do trabalho, de execução das penas e julgados municipais de 1.ª classe:
 
 ... Percentagens
 
@@ -250,9 +301,7 @@ Para o Cofre Geral de Justiça ... 15
 
 Participação emolumentar ... 65
 
-b) Nos tribunais cíveis ou de comarca com competência comum:
-
-... Percentagens
+b) Nos tribunais cíveis:
 
 Para o Estado ... 35
 
@@ -262,13 +311,31 @@ Participação emolumentar ... 55
 
 c) Nos tribunais administrativos:
 
-... Percentagens
-
 Para o Estado ... 60
 
 Para o Cofre Geral de Justiça ... 10
 
 Participação emolumentar ... 30
+
+d) Nos tribunais criminais e de menores de competência especializada:
+
+... Percentagens
+
+Para o Estado ... 10
+
+Para os Cofres Geral de Justiça e da Polícia Judiciária, nos termos do n.º 6 do artigo 26.º do [Decreto n.º 462/72](https://diariodarepublica.pt/dr/detalhe/decreto/462-1972-686245), e em partes iguais ... 10
+
+Participação emolumentar ... 80
+
+e) Nos tribunais de comarca de competência comum:
+
+... Percentagens
+
+Para o Estado ... 30
+
+Para os Cofres Geral de Justiça e da Polícia Judiciária, nos termos do n.º 6 do artigo 26.º do [Decreto n.º 462/72](https://diariodarepublica.pt/dr/detalhe/decreto/462-1972-686245), e em partes iguais ... 10
+
+Participação emolumentar ... 60
 
 2. Em cada mês, a quantia depositada por cada cartório como participação emolumentar é devida aos funcionários que durante esse mês, proporcionalmente ao número de dias e respectivos vencimentos, prestaram serviço no cartório, com excepção de contínuos, porteiros, motoristas, serventes e intérpretes de línguas europeias.
 
@@ -298,17 +365,29 @@ g) Oficiais de diligências e intérpretes em comarcas de 2.ª classe e em julga
 
 8. O escrivão que sem justa causa exceder o prazo de remessa à conta e o contador que, por igual razão, exceder em mais de dez dias o prazo de contagem de qualquer processo ou papel perdem, na participação emolumentar mensal, a quantia correspondente à proporção em que se encontrem os processos remetidos ou contados fora do prazo relativamente aos processos remetidos ou contados, com observância do prazo legal.
 
-Art. 19.º O imposto de justiça aplicado nos processos criminais não é convertível em prisão.
+> Alterado pelo/a [Decreto n.º 570/73](https://diariodarepublica.pt/dr/detalhe/decreto/570-1973-412625), publicado em 1973-10-31.
 
-Art. 20.º Ao artigo 120.º do Estatuto da Polícia de Segurança Pública de Angola, aprovado pelo [Decreto n.º 47360](https://diariodarepublica.pt/dr/detalhe/decreto/47360-1966-477306), de 2 de Dezembro de 1966, é aditado um § 3.º com a seguinte redacção:
+###### Artigo 19.º
+
+O imposto de justiça aplicado nos processos criminais não é convertível em prisão.
+
+###### Artigo 20.º
+
+Ao artigo 120.º do Estatuto da Polícia de Segurança Pública de Angola, aprovado pelo [Decreto n.º 47360](https://diariodarepublica.pt/dr/detalhe/decreto/47360-1966-477306), de 2 de Dezembro de 1966, é aditado um § 3.º com a seguinte redacção:
 
 § 3.º Às pessoas que, devidamente notificadas, não comparecerem a qualquer diligência relativa a processo crime será aplicável, com a devida adaptação, o disposto no artigo 91.º do Código de Processo Penal, salvo tratando-se de notificação para pagamento de multa por contravenção, em que unicamente se remeterá o processo à entidade competente para os ulteriores termos.
 
-Art. 21.º A competência normal da Directoria da Polícia Judiciária de Lourenço Marques passa a abranger a área da comarca da Matola.
+###### Artigo 21.º
 
-Art. 22.º Os magistrados do Ministério Público com mais de cinco anos de serviço podem ser nomeados conservadores e notários de 2.ª classe do ultramar, independentemente de concurso.
+A competência normal da Directoria da Polícia Judiciária de Lourenço Marques passa a abranger a área da comarca da Matola.
 
-Art. 23.º - 1. O regime de secretaria notarial estabelecido no artigo 9.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, é extinto na comarca da Beira, a partir de 1 de Janeiro de 1974.
+###### Artigo 22.º
+
+Os magistrados do Ministério Público com mais de cinco anos de serviço podem ser nomeados conservadores e notários de 2.ª classe do ultramar, independentemente de concurso.
+
+###### Artigo 23.º
+
+1. O regime de secretaria notarial estabelecido no artigo 9.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, é extinto na comarca da Beira, a partir de 1 de Janeiro de 1974.
 
 2. O Governo-Geral de Moçambique, sob proposta do procurador da República, determinará, a tempo de se dar execução ao disposto no número anterior, na data nele prevista:
 
@@ -324,15 +403,25 @@ e) Quaisquer outras medidas atinentes à boa execução do desmembramento da sec
 
 3. Os cartórios destacados da secretaria devem instalar-se em edifícios distanciados um do outro, de forma a poderem ser utilizados com a maior vantagem e menor incómodo por quem necessitar dos seus serviços.
 
-Art. 24.º No Estado Português de Moçambique o provimento dos lugares do pessoal auxiliar dos cartórios notariais, conservatórias e delegações é feito mediante concurso de provas práticas.
+###### Artigo 24.º
 
-Art. 25.º As providências previstas nos artigos 1.º a 6.º do [Decreto n.º 89/73](https://diariodarepublica.pt/dr/detalhe/decreto/89-1973-684442), de 9 de Março, poderão ser adoptadas nos cartórios notariais das províncias ultramarinas, pertencendo ao respectivo notário as funções que naqueles preceitos cabem aos conservadores.
+No Estado Português de Moçambique o provimento dos lugares do pessoal auxiliar dos cartórios notariais, conservatórias e delegações é feito mediante concurso de provas práticas.
 
-Art. 26.º Passa a competir aos Governadores das províncias ultramarinas a criação ou extinção dos lugares de oficial privativo dos registos e do registo civil, mediante proposta do procurador da República, nas províncias de Governo-Geral, e do conservador competente nas outras províncias.
+###### Artigo 25.º
 
-Art. 27.º Os bilhetes de identidade profissional, cuja passagem compete à Direcção-Geral de Justiça, estão isentos do pagamento de emolumentos.
+As providências previstas nos artigos 1.º a 6.º do [Decreto n.º 89/73](https://diariodarepublica.pt/dr/detalhe/decreto/89-1973-684442), de 9 de Março, poderão ser adoptadas nos cartórios notariais das províncias ultramarinas, pertencendo ao respectivo notário as funções que naqueles preceitos cabem aos conservadores.
 
-Art. 28.º É revogada a alínea f) da [Portaria n.º 7872](https://diariodarepublica.pt/dr/detalhe/portaria/7872-1934-457777), de 17 de Agosto de 1934.
+###### Artigo 26.º
+
+Passa a competir aos Governadores das províncias ultramarinas a criação ou extinção dos lugares de oficial privativo dos registos e do registo civil, mediante proposta do procurador da República, nas províncias de Governo-Geral, e do conservador competente nas outras províncias.
+
+###### Artigo 27.º
+
+Os bilhetes de identidade profissional, cuja passagem compete à Direcção-Geral de Justiça, estão isentos do pagamento de emolumentos.
+
+###### Artigo 28.º
+
+É revogada a alínea f) da [Portaria n.º 7872](https://diariodarepublica.pt/dr/detalhe/portaria/7872-1934-457777), de 17 de Agosto de 1934.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 

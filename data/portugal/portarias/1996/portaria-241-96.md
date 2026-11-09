@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-09-16'
+version_history:
+  file: portaria-241-96.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-07-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-09-16'
+    amending: pt:dre:291862:por
+    amending_title: Portaria n.º 493-A/96
+    changes:
+    - Adita Artigo 36.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/241/1996/07/04/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:20:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 493-A/96. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1996/portaria-241-96.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -751,6 +766,14 @@ d) Os candidatos colocados em fase ou fases anteriores, desde que não tenham ob
 3 - Os estudantes colocados que não procedam à matrícula no prazo fixado sem motivo de força maior devidamente justificado não podem candidatar-se em fase subsequente do concurso no próprio ano lectivo, nem à matrícula e inscrição no ano lectivo imediato.
 
 4 - A aceitação ou rejeição da justificação referida no n.º 3 é da competência do director do Departamento do Ensino Superior.
+
+###### Artigo 36.º-A — Matrícula e inscrição dos estudantes residentes nas Regiões Autónomas dos Açores e da Madeira
+
+1 - Os estudantes residentes na Região Autónoma dos Açores e na Região Autónoma da Madeira colocados na 1.ª fase da candidatura podem realizar a matrícula e inscrição até 27 de Setembro de 1996, desde que até ao dia 20 de Setembro de 1996 apresentem, nos respectivos serviços regionais de acesso ao ensino superior, uma declaração de intenção de matrícula na vaga em que foram colocados.
+
+2 - Os serviços regionais do acesso remetem as declarações, por fax, aos estabelecimentos de ensino superior em causa até ao dia 23 de Setembro.
+
+> Aditado pelo/a [Portaria n.º 493-A/96](https://diariodarepublica.pt/dr/detalhe/portaria/493-a-1996-291862), publicado em 1996-09-16.
 
 ###### Artigo 37.º — Ficha individual
 

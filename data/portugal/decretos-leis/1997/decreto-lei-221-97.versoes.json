@@ -1,0 +1,355 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:195800:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fdbc9a5d94677a24",
+    "1320ce82c826b938",
+    "2e5e8f3143cfaac9",
+    "76eebd3192caa6ec",
+    "d6cc86d54e1b5732",
+    "7deccb919d88fc89",
+    "a0c519cf4b8a4fd1",
+    "0ce0c4e8db9cef23",
+    "09ff4e936450b703",
+    "d5ab6f03650f316f",
+    "0eb8d2ea07176638",
+    "525631718cefba93",
+    "3aed12d8f093fd6a",
+    "882123276dad0b3f",
+    "a9c5763dcf66d64c",
+    "dc34122bbb3a0082",
+    "cccb0937d6051269",
+    "36e380797c29460c",
+    "ff49c77a66b7dfc4",
+    "0137eb70025df4e1",
+    "c1dc3aa84eeb81b3"
+   ]
+  },
+  {
+   "date": "2004-06-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:281197:por",
+     "title": "Decreto-Lei n.º 136/2004",
+     "published": "2004-06-03",
+     "dre_path": "/dr/detalhe/decreto-lei/136-2004-281197"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "fdbc9a5d94677a24",
+    "3dd9a7f4ceb8a74c",
+    "2e5e8f3143cfaac9",
+    "3780a19fc423ee76",
+    "d6cc86d54e1b5732",
+    "7deccb919d88fc89",
+    "a0c519cf4b8a4fd1",
+    "0ce0c4e8db9cef23",
+    "593ba34328edcb77",
+    "703aa2680bed66b9",
+    "6231ac2377a20554",
+    "c040c49d1b76c153",
+    "3aed12d8f093fd6a",
+    "882123276dad0b3f",
+    "a9c5763dcf66d64c",
+    "dc34122bbb3a0082",
+    "cccb0937d6051269",
+    "4de84757e8a6d279",
+    "4458f01e27fe0b27",
+    "ce302e8eb6060abb",
+    "d390267416eb1acc"
+   ]
+  }
+ ],
+ "fragments": {
+  "fdbc9a5d94677a24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Agosto\n\nA natureza das questões ambientais, ponderado o seu carácter horizontal, determina uma rede de interacções complexas e por vezes controversas com as restantes áreas de governação e com a sociedade civil.\n\nTal interacção assume um especial relevo após a Conferência do Rio, onde ficou evidenciada a necessidade de congregação das diversas sensibilidades e interesses em causa em torno da noção de desenvolvimento sustentável, ali equacionada à escala planetária.\n\nEste contexto determina a existência de um órgão nacional de natureza consultiva que congregue os diversos interesses em presença, quer institucionais, quer dimanados da sociedade civil, o qual, de modo independente, constitua um fórum de reflexão útil à formulação e desenvolvimento da política do ambiente.\n\nA abrangência e independência que se pretendem para este conselho, designado Conselho Nacional do\n\nAmbiente e do Desenvolvimento Sustentável, determinam que a sua presidência seja assegurada por personalidade para o efeito designada pelo Conselho de Ministros.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1320ce82c826b938": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Conselho Nacional do Ambiente e do Desenvolvimento Sustentável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Conselho Nacional do Ambiente e do Desenvolvimento Sustentável\n\n1 - É criado o Conselho Nacional do Ambiente e do Desenvolvimento Sustentável, adiante designado por Conselho, cuja composição, competência e regime de funcionamento são regulados no presente diploma.\n\n2 - O Conselho é um órgão com funções consultivas, que deve proporcionar a participação das várias forças sociais, culturais e económicas na procura de consensos alargados relativamente à política ambiental.\n\n3 - O Conselho é um órgão independente, que funciona junto do Ministro do Ambiente."
+  },
+  "2e5e8f3143cfaac9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - Compete ao Conselho, por sua iniciativa ou a solicitação dos membros do Governo responsáveis pela área do ambiente, de entidades públicas ou de organizações de defesa do ambiente, emitir pareceres e recomendações sobre todas as questões relativas ao ambiente e ao desenvolvimento sustentável:\n\na) Bases da política ambiental;\n\nb) Planos e programas estratégicos;\n\nc) Convenções e outros instrumentos jurídicos que nesta matéria consubstanciem compromissos internacionais a subscrever pelo Estado Português;\n\nd) Acompanhamento da política comunitária e internacional, em especial da política de cooperação no quadro da comunidade dos países de língua portuguesa (CPLP).\n\n2 - Compete ainda ao Conselho:\n\na) Acompanhar a aplicação e o desenvolvimento do disposto na Lei de Bases do Ambiente;\n\nb) Emitir parecer sobre o Plano Nacional da Política de Ambiente e a Estratégia Nacional da Conservação da Natureza;\n\nc) Publicar os relatórios, pareceres ou quaisquer outros trabalhos emitidos ou realizados no âmbito das suas competências;\n\nd) Aprovar o plano anual de actividades e respectivo relatório."
+  },
+  "76eebd3192caa6ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição\n\nO Conselho tem a seguinte composição:\n\na) Um presidente, designado pelo Conselho de Ministros;\n\nb) Entre cinco e oito elementos a designar pelo Conselho de Ministros, sendo um indicado pelo Ministério do Ambiente;\n\nc) Um elemento a designar, respectivamente, pelo Governo Regional dos Açores e pelo Governo Regional da Madeira;\n\nd) Três elementos a designar pelas associações de defesa do ambiente;\n\ne) Dois elementos a designar pela Associação Nacional dos Municípios Portugueses;\n\nf) Dois elementos a designar pelas associações industriais;\n\ng) Dois elementos a designar pelas associações comerciais;\n\nh) Dois elementos a designar pelas associações de agricultores;\n\ni) Dois elementos a designar pelas associações sócio-profissionais da área do ambiente;\n\nj) Dois elementos a designar pelas organizações sindicais;\n\nl) Dois elementos a designar pelo Conselho de Reitores;\n\nm) Três elementos cooptados pelo Conselho de entre personalidades de reconhecido mérito na área do ambiente, nos termos do regulamento interno do Conselho."
+  },
+  "d6cc86d54e1b5732": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Tomada de posse",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tomada de posse\n\n1 - O presidente do Conselho toma posse perante o Primeiro-Ministro.\n\n2 - Os membros do Conselho tomam posse perante o presidente do Conselho."
+  },
+  "7deccb919d88fc89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Duração do mandato\n\n1 - Os membros do Conselho são designados por um período de três anos, renovável.\n\n2 - O mandato dos membros do Conselho considera-se prorrogado, por prazo que não ultrapassará seis meses, até que seja comunicada por escrito a designação dos novos membros."
+  },
+  "a0c519cf4b8a4fd1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Preenchimento de vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Preenchimento de vagas\n\nAs vagas que ocorram durante o funcionamento do Conselho são preenchidas por processo idêntico ao adoptado para a designação do membro a substituir."
+  },
+  "0ce0c4e8db9cef23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Inamovibilidade e perda de mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inamovibilidade e perda de mandato\n\n1 - Os membros do Conselho são inamovíveis e não podem cessar funções antes do termo do mandato, salvo nos casos seguintes:\n\na) Morte ou incapacidade física permanente;\n\nb) Renúncia ao mandato;\n\nc) Perda do mandato.\n\n2 - Perdem o mandato os membros do Conselho que:\n\na) Sofram condenação judicial em cuja sentença seja determinada incompatibilidade com o exercício do mandato;\n\nb) Faltem reiteradamente às reuniões, nos termos a definir no regulamento."
+  },
+  "09ff4e936450b703": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Presidente\n\n1 - Compete ao presidente:\n\na) Representar o Conselho;\n\nb) Convocar e presidir às reuniões plenárias;\n\nc) Convidar a participar nas reuniões do plenário, sem direito a voto, quaisquer entidades cuja presença seja julgada útil;\n\nd) Promover a elaboração do plano de actividades e respectivo relatório;\n\ne) Exercer quaisquer outros poderes que lhe sejam atribuídos por lei.\n\n2 - Nas suas ausências e impedimentos, o presidente é substituído por qualquer membro do Conselho por si designado.\n\n3 - Quando exerça o cargo em regime de dedicação exclusiva, o presidente é equiparado, para efeitos remuneratórios, a director-geral.\n\n4 - Quando o cargo de presidente não seja exercido nas condições referidas no número anterior, a remuneração será a correspondente a 60% da remuneração de director-geral."
+  },
+  "d5ab6f03650f316f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Secretário executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Secretário executivo\n\n1 - O Conselho dispõe de um secretário executivo, nomeado pelo Ministro do Ambiente de entre técnicos superiores do Ministério do Ambiente, sob proposta do presidente.\n\n2 - O secretário executivo exerce funções em comissão de serviço por um período de três anos, renovável, sendo remunerado pelo índice 820 da escala salarial do regime geral.\n\n3 - Ao secretário executivo compete praticar os actos internos indispensáveis à dinamização das actividades do Conselho, em especial:\n\na) Coordenar os serviços de assessoria técnica e administrativa;\n\nb) Assegurar o secretariado das reuniões do Conselho;\n\nc) Preparar as reuniões do Conselho, nas quais participa sem direito a voto."
+  },
+  "0eb8d2ea07176638": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reuniões\n\n1 - O Conselho reúne ordinariamente duas vezes por ano e extraordinariamente por iniciativa do presidente, por solicitação do Ministro do Ambiente ou a requerimento de, pelo menos, um terço dos membros do Conselho.\n\n2 - As deliberações do Conselho são tomadas por maioria dos membros em efectividade de funções, tendo o presidente voto de qualidade.\n\n3 - A participação nas reuniões confere direito ao abono de senhas de presença, de montante a fixar por despacho conjunto dos Ministros das Finanças e do Ambiente."
+  },
+  "525631718cefba93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Serviços de apoio técnico e administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Serviços de apoio técnico e administrativo\n\n1 - O Conselho dispõe de uma assessoria técnica e administrativa, assegurada pelo Ministério do Ambiente e coordenada pelo secretário executivo.\n\n2 - Compete à assessoria o apoio às actividades do Conselho, designadamente as de natureza técnica, informação, documentação, secretariado, expediente e arquivo.\n\n3 - O pessoal necessário ao funcionamento da assessoria técnica e administrativa é designado por despacho do Ministro do Ambiente, sob proposta do presidente do Conselho, de entre o pessoal dos quadros de pessoal do Ministério do Ambiente, cujas funções são exercidas em regime de requisição ou destacamento."
+  },
+  "3aed12d8f093fd6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Regimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regimento\n\nO Conselho elabora e aprova o seu próprio regimento, que deve ser publicado na 2.ª série do Diário da República."
+  },
+  "882123276dad0b3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Direito de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direito de informação\n\nO Conselho pode requerer a quaisquer entidades públicas ou privadas os elementos que considere indispensáveis para a realização das suas tarefas, os quais devem ser por estas disponibilizados, nos termos da legislação em vigor."
+  },
+  "a9c5763dcf66d64c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Pareceres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pareceres\n\n1 - Os processos serão distribuídos pelo presidente a um relator designado de entre os membros do Conselho.\n\n2 - O relator deverá elaborar, no prazo que lhe for fixado pelo presidente, o projecto de parecer final.\n\n3 - O parecer final deverá ser submetido à aprovação do plenário do Conselho."
+  },
+  "dc34122bbb3a0082": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Publicidade dos actos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Publicidade dos actos\n\n1 - Os pareceres e recomendações do Conselho, incluindo os votos de vencido, devem ser publicitados, nomeadamente através de publicação na 2.ª série do Diário da República, quando o Conselho assim o determinar.\n\n2 - No final de cada reunião será elaborado um relatório sucinto contendo o fundamental de todas as propostas apresentadas e das conclusões extraídas, a distribuir pelos órgãos de informação."
+  },
+  "cccb0937d6051269": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Relatórios de actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Relatórios de actividade\n\nO Conselho deve elaborar um relatório anual de actividade, que é publicado na 2.ª série do Diário da República."
+  },
+  "36e380797c29460c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Encargos financeiros e instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Encargos financeiros e instalações\n\n1 - Os encargos com o funcionamento do Conselho são cobertos por dotação orçamental inscrita no orçamento da Secretaria-Geral do Ministério do Ambiente.\n\n2 - Constituem, entre outros, encargos de funcionamento do Conselho os seguintes:\n\na) Remuneração do presidente;\n\nb) Remuneração do secretário executivo;\n\nc) Senhas de presença;\n\nd) Aquisição de serviços, pareceres e assessoria técnica;\n\ne) Os que resultem do seu normal funcionamento e das actividades dos seus membros.\n\n3 - As instalações necessárias ao funcionamento do Conselho serão asseguradas pelo Ministério do Ambiente."
+  },
+  "ff49c77a66b7dfc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Entrada em funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em funcionamento\n\n1 - O presidente do Conselho, após a tomada de posse, deverá adoptar as providências necessárias à rápida constituição e entrada em funcionamento do Conselho.\n\n2 - O Conselho deverá estar constituído no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei e entrar em funcionamento nos 90 dias subsequentes, desde que estejam designados mais de metade dos seus membros."
+  },
+  "0137eb70025df4e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regime transitório\n\nOs encargos resultantes da execução do presente decreto-lei são satisfeitos no ano corrente por força das dotações para o Ministério do Ambiente."
+  },
+  "c1dc3aa84eeb81b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Extinção da Comissão Consultiva do Ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Extinção da Comissão Consultiva do Ambiente\n\nCom a entrada em funcionamento do Conselho extingue-se a Comissão Consultiva do Ambiente (CCA), prevista no n.º 1 do artigo 4.º do [Decreto-Lei n.º 187/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1993-283521), de 24 de Maio.\n\nVisto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 1 de Agosto de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 4 de Agosto de 1997.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Vitorino."
+  },
+  "3dd9a7f4ceb8a74c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Conselho Nacional do Ambiente e do Desenvolvimento Sustentável",
+   "in_force_from": "2004-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+   ],
+   "markdown": "###### Artigo 1.º — Conselho Nacional do Ambiente e do Desenvolvimento Sustentável\n\n1 - É criado o Conselho Nacional do Ambiente e do Desenvolvimento Sustentável, adiante designado por Conselho, cuja composição, competência e regime de funcionamento são regulados no presente diploma.\n\n2 - O Conselho é um órgão com funções consultivas, que deve proporcionar a participação das várias forças sociais, culturais e económicas na procura de consensos alargados relativamente à política ambiental.\n\n3 - O Conselho é um órgão independente, que funciona junto do Ministro das Cidades, Ordenamento do Território e Ambiente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+  },
+  "3780a19fc423ee76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2004-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\nO Conselho tem a seguinte composição:\n\na) Um presidente, designado pelo Conselho de Ministros;\n\nb) Entre cinco e oito elementos a designar pelo Conselho de Ministros, sendo um indicado pelo Ministro das Cidades, Ordenamento do Território e Ambiente;\n\nc) Um elemento a designar, respectivamente, pelo Governo Regional dos Açores e pelo Governo Regional da Madeira;\n\nd) Três elementos a designar pelas associações de defesa do ambiente;\n\ne) Dois elementos a designar pela Associação Nacional dos Municípios Portugueses;\n\nf) Dois elementos a designar pelas associações industriais;\n\ng) Dois elementos a designar pelas associações comerciais e do turismo;\n\nh) Dois elementos a designar pelas associações de agricultores;\n\ni) Dois elementos a designar pelas associações sócio-profissionais da área do ambiente;\n\nj) Dois elementos a designar pelas organizações sindicais;\n\nl) Dois elementos a designar pelo Conselho de Reitores;\n\nm) Dois elementos a designar pelas entidades representativas da comunidade científica;\n\nn) Dois elementos a designar por organizações não governamentais do desenvolvimento regional e para a cooperação;\n\no) Um elemento a designar pelas associações dos consumidores;\n\np) Quatro elementos cooptados pelo Conselho de entre personalidades de reconhecido mérito na área do ambiente e do desenvolvimento sustentável, nos termos do regimento interno do Conselho.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+  },
+  "593ba34328edcb77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Presidente",
+   "in_force_from": "2004-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+   ],
+   "markdown": "###### Artigo 8.º — Presidente\n\n1 - Compete ao presidente:\n\na) Representar o Conselho;\n\nb) Convocar as reuniões e dirigir os trabalhos do Conselho de acordo com a ordem do dia previamente estabelecida e assegurar o cumprimento das respectivas deliberações;\n\nc) Solicitar, por iniciativa própria ou mediante deliberação do Conselho, a colaboração de representantes de serviços ou organismos da Administração Pública ou quaisquer outras entidades cuja presença seja considerada útil no âmbito das matérias a tratar;\n\nd) Convidar a participar nas reuniões do Conselho, sem direito a voto, quaisquer entidades ou personalidades de reputado mérito, cuja presença seja considerada útil;\n\ne) Determinar a elaboração de estudos técnicos e de apoio à actividade do Conselho, confiando a sua realização a entidades públicas ou privadas, dando disso informação ao Conselho;\n\nf) Elaborar e submeter à apreciação do Conselho o plano e o relatório anual de actividades;\n\ng) Outorgar os protocolos ou acordos de cooperação com entidades nacionais ou congéneres estrangeiras, nos termos da lei, após aprovação do Conselho;\n\nh) Superintender os serviços de apoio técnico-administrativo;\n\ni) Exercer quaisquer outros poderes que lhe sejam atribuídos por lei.\n\n2 - Nas suas ausências e impedimentos, o presidente é substituído por qualquer membro do Conselho por si designado.\n\n3 - Quando exerça o cargo em regime de dedicação exclusiva, o presidente é equiparado, para efeitos remuneratórios, a director-geral.\n\n4 - Quando o cargo de presidente não seja exercido nas condições referidas no número anterior, a remuneração será a correspondente a 60% da remuneração de director-geral.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+  },
+  "703aa2680bed66b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Secretário executivo",
+   "in_force_from": "2004-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+   ],
+   "markdown": "###### Artigo 9.º — Secretário executivo\n\n1 - O Conselho dispõe de um secretário executivo, nomeado pelo Ministro das Cidades, Ordenamento do Território e Ambiente, sob proposta do presidente, de entre indivíduos providos na carreira técnica superior ou na carreira técnica, de categoria não inferior a técnico especialista principal.\n\n2 - O secretário executivo exerce funções em comissão de serviço por um período de três anos, renovável, sendo remunerado pelo índice 820 da escala salarial do regime geral.\n\n3 - Ao secretário executivo compete praticar os actos internos indispensáveis à dinamização das actividades do Conselho, em especial:\n\na) Coordenar os serviços de assessoria técnica e administrativa;\n\nb) Assegurar o secretariado das reuniões do Conselho;\n\nc) Preparar as reuniões do Conselho, nas quais participa sem direito a voto.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+  },
+  "6231ac2377a20554": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Reuniões",
+   "in_force_from": "2004-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+   ],
+   "markdown": "###### Artigo 10.º — Reuniões\n\n1 - O Conselho reúne ordinariamente seis vezes por ano e extraordinariamente por iniciativa do presidente, por solicitação do Ministro das Cidades, Ordenamento do Território e Ambiente ou a requerimento de, pelo menos, um terço dos membros do Conselho.\n\n2 - As deliberações do Conselho são tomadas por maioria dos membros em efectividade de funções, tendo o presidente voto de qualidade.\n\n3 - A participação nas reuniões confere direito ao abono de senhas de presença, de montante a fixar por despacho conjunto dos Ministros das Finanças e do Ambiente.\n\n4 - Ao funcionamento do Conselho aplicam-se as regras constantes do seu regimento e, supletivamente, as regras relativas aos órgãos colegiais previstas no Código do Procedimento Administrativo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+  },
+  "c040c49d1b76c153": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Serviços de apoio técnico e administrativo",
+   "in_force_from": "2004-06-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+   ],
+   "markdown": "###### Artigo 11.º — Serviços de apoio técnico e administrativo\n\n1 - O Conselho dispõe de uma assessoria técnica e administrativa, assegurada com o apoio da Secretaria-Geral do Ministério das Cidades, Ordenamento do Território e Ambiente e coordenada pelo secretário executivo.\n\n2 - Compete à assessoria o apoio às actividades do Conselho, designadamente as de natureza técnica, informação, documentação, secretariado, expediente e arquivo.\n\n> Alterado pelo/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+  },
+  "4de84757e8a6d279": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Encargos financeiros e instalações",
+   "in_force_from": "2004-06-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+   ],
+   "markdown": "###### Artigo 17.º — Encargos financeiros e instalações\n\n1 - Os encargos com o funcionamento do Conselho são cobertos por dotação orçamental inscrita no orçamento do Ministério das Cidades, Ordenamento do Território e Ambiente.\n\n2 - Constituem, entre outros, encargos de funcionamento do Conselho os seguintes:\n\na) Remuneração do presidente;\n\nb) Remuneração do secretário executivo;\n\nc) Senhas de presença;\n\nd) Aquisição de serviços, pareceres e assessoria técnica;\n\ne) Os que resultem do seu normal funcionamento e das actividades dos seus membros.\n\n3 - As instalações necessárias ao funcionamento do Conselho serão asseguradas pelo Ministério do Ambiente.\n\n> Alterado pelo/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+  },
+  "4458f01e27fe0b27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Entrada em funcionamento",
+   "in_force_from": "2004-06-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+   ],
+   "markdown": "###### Artigo 18.º — Entrada em funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+  },
+  "ce302e8eb6060abb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Regime transitório",
+   "in_force_from": "2004-06-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+   ],
+   "markdown": "###### Artigo 19.º — Regime transitório\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+  },
+  "d390267416eb1acc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Extinção da Comissão Consultiva do Ambiente",
+   "in_force_from": "2004-06-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03."
+   ],
+   "markdown": "###### Artigo 20.º — Extinção da Comissão Consultiva do Ambiente\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03.\n\nVisto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 1 de Agosto de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 4 de Agosto de 1997.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Vitorino."
+  }
+ }
+}

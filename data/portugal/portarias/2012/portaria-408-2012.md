@@ -39,10 +39,35 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-04-19'
+version_history:
+  file: portaria-408-2012.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-12-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-04-19'
+    amending: pt:dre:260404:por
+    amending_title: Portaria n.º 156/2013
+    changes:
+    - Adita Artigo 14.º-A
+    - Altera Artigo Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::1.º
+    - Altera Artigo Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::5.º
+    - Altera Artigo Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::8.º
+    - Altera Artigo Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::9.º
+    - Altera Artigo Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::11.º
+    - Altera Artigo Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::14.º
+    - Altera Artigo Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::15.º
+    - Altera Artigo Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::16.º
+    - Altera Artigo Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::17.º
+    - Altera Artigo Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::18.º
+    - Altera Artigo Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i::32.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/408/2012/12/14/p/dre/pt/html
@@ -68,7 +93,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:54:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 156/2013. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2012/portaria-408-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -250,6 +276,14 @@ A presente portaria entra em vigor no dia seguinte ao da sua publicação e vigo
 
 O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 5 dezembro de 2012.
 
+###### Artigo 14.º-A — Emissão de certificado
+
+1 - No termo do estágio a entidade promotora deve entregar ao estagiário um certificado comprovativo de frequência e avaliação final, de acordo com modelo definido pelas autoridades de gestão dos Programas Operacionais Regionais Norte, Centro e Alentejo.
+
+2 - No caso dos destinatários que sejam detentores de qualificação de nível 3 do QNQ, a conclusão do estágio com avaliação final positiva dá lugar à obtenção do nível 4 de qualificação do QNQ, nos termos da Portaria n.º 782/2009, de 23 de julho, o qual deve constar do certificado previsto no número anterior.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 156/2013](https://diariodarepublica.pt/dr/detalhe/portaria/156-2013-260404), publicado em 2013-04-18.
+
 ## Anexo — REGULAMENTO ESPECÍFICO PASSAPORTES EMPREGO 3i
 
 ###### Artigo 1.º — Objeto
@@ -264,11 +298,13 @@ O Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 5 dezembro de 20
 
 5. Não são abrangidos pelo presente regulamento:
 
-a) Os estágios que tenham como objetivo o cumprimento de requisitos adicionais e específicos para acesso a títulos profissionais;
+a) (Revogada.)
 
 b) Os estágios curriculares de quaisquer cursos;
 
 c) Os estágios cujo plano requeira perfil de formação e competências nas áreas da medicina e da enfermagem.
+
+> Alterado pelo/a [Portaria n.º 156/2013](https://diariodarepublica.pt/dr/detalhe/portaria/156-2013-260404), publicado em 2013-04-18.
 
 ###### Artigo 2.º — Âmbito
 
@@ -296,9 +332,9 @@ c) Passaporte Emprego Internacionalização, para projetos de investimento que v
 
 ###### Artigo 5.º — Destinatários
 
-1. São destinatários das Medidas Passaporte Emprego Industrialização e Passaporte Emprego Internacionalização os jovens entre os 18 e os 30 anos, com ou sem ensino secundário completo, licenciatura e ou mestrado, inscritos nos centros de emprego há pelo menos quatro meses.
+1 - São destinatários das Medidas Passaporte Emprego Industrialização e Passaporte Emprego Internacionalização os jovens entre os 18 e os 30 anos, com ou sem ensino secundário completo, licenciatura e ou mestrado, inscritos nos centros de emprego.
 
-2. São destinatários da Medida Passaporte Emprego Inovação os jovens entre os 23 e os 34 anos, com mestrado ou doutoramento, inscritos nos centros de emprego há pelo menos quatro meses.
+2 - São destinatários da Medida Passaporte Emprego Inovação os jovens entre os 23 e os 34 anos, com mestrado ou doutoramento, inscritos nos centros de emprego.
 
 3. Os destinatários que tenham frequentado um estágio profissional financiado por fundos públicos só podem frequentar um estágio ao abrigo do presente regulamento no caso de, após a saída do anterior estágio, se encontrarem numa das seguintes situações:
 
@@ -313,6 +349,8 @@ b) Terem obtido uma qualificação em área diferente e o novo estágio ser ness
 a) Declaração por parte do destinatário, no caso do n.º 3;
 
 b) Declaração por parte da empresa beneficiária, no caso do n.º 4.
+
+> Alterado pelo/a [Portaria n.º 156/2013](https://diariodarepublica.pt/dr/detalhe/portaria/156-2013-260404), publicado em 2013-04-18.
 
 ###### Artigo 6.º — Entidades Promotoras
 
@@ -344,13 +382,17 @@ e) Disporem de contabilidade organizada, de acordo com o respetivo enquadramento
 
 f) Terem um projeto de investimento nos SI QREN, no caso das empresas beneficiárias.
 
-2. As empresas beneficiárias com 10 trabalhadores ou menos só podem beneficiar até um máximo de dois estágios em simultâneo ao abrigo dos Passaportes Emprego 3i.
+2 - As empresas beneficiárias, com 10 trabalhadores ou menos, só podem beneficiar até um máximo de cinco estágios em simultâneo ao abrigo dos Passaportes Emprego 3i.
 
 3. A observância dos requisitos previstos no presente regulamento é exigida no momento da apresentação da candidatura, bem como durante o período de duração do apoio financeiro.
 
+> Alterado pelo/a [Portaria n.º 156/2013](https://diariodarepublica.pt/dr/detalhe/portaria/156-2013-260404), publicado em 2013-04-18.
+
 ###### Artigo 9.º — Duração do estágio
 
-O estágio tem a duração de seis meses, não prorrogável.
+O estágio tem a duração de doze meses, não prorrogável.
+
+> Alterado pelo/a [Portaria n.º 156/2013](https://diariodarepublica.pt/dr/detalhe/portaria/156-2013-260404), publicado em 2013-04-18.
 
 ###### Artigo 10.º — Local de realização do estágio
 
@@ -358,19 +400,25 @@ O estágio deve realizar-se nos estabelecimentos localizados no Norte, Centro ou
 
 ###### Artigo 11.º — Formação profissional
 
-1. A entidade promotora obriga-se a proporcionar formação profissional, com uma carga horária mínima de 50 horas, em competências transversais, em empreendedorismo ou em área de formação necessária para o desempenho do estágio na entidade beneficiária, designadamente:
+1 - A entidade promotora obriga-se a proporcionar formação profissional, em competências transversais, em empreendedorismo ou em área de formação necessária para o desempenho do estágio na entidade beneficiária, designadamente:
 
 a) No caso do Passaporte Emprego Industrialização, em áreas relevantes para promover a industrialização das empresas;
 
 b) No caso do Passaporte Emprego Internacionalização, em áreas relevantes para promover a internacionalização das empresas.
 
-2. A formação deve ser ministrada, preferencialmente, durante o horário de realização do estágio.
+2 - A formação deve ser ministrada numa das seguintes modalidades:
 
-3. No caso de a formação ser realizada, total ou parcialmente, fora do horário de realização do estágio, o estagiário tem direito a uma redução idêntica no horário do estágio.
+a) Formação em contexto de trabalho, pelo período de duração do estágio;
 
-4. A formação deve ser realizada por entidade formadora certificada.
+b) Formação realizada por entidade formadora certificada, com uma carga horária mínima de 50 horas.
 
-5. A formação referida no presente artigo deve estar prevista no Catálogo Nacional de Qualificações.
+3 - A formação deve ser ministrada, preferencialmente, durante o horário de realização do estágio.
+
+4 - No caso de a formação ser realizada, total ou parcialmente, fora do horário de realização do estágio, o estagiário tem direito a uma redução idêntica no horário do estágio.
+
+5 - A formação referida na alínea b) do n.º 2 do presente artigo deve estar prevista no Catálogo Nacional de Qualificações.
+
+> Alterado pelo/a [Portaria n.º 156/2013](https://diariodarepublica.pt/dr/detalhe/portaria/156-2013-260404), publicado em 2013-04-18.
 
 ###### Artigo 12.º — Contrato de estágio
 
@@ -412,13 +460,15 @@ c) No momento em que o estagiário atingir o número de cinco dias seguidos ou i
 
 d) No momento em que o estagiário, ainda que justificadamente, atinja o número de 15 dias de faltas seguidas ou interpoladas, e não tenha ocorrido suspensão nos termos da alínea b) do n.º 2 do artigo 13.º;
 
-e) Decorrido o prazo de 12 meses após o início do estágio, incluindo-se naquele prazo os períodos de tempo de suspensão a que se refere a alínea b) do n.º 2 do artigo 13.º.
+e) Decorrido o prazo de 18 meses após o início do estágio, incluindo-se naquele prazo os períodos de tempo de suspensão a que se refere a alínea b) do n.º 2 do artigo 13.º.
 
 3. O contrato de estágio cessa por acordo das partes se, no decurso do mesmo, essa for a sua vontade, expressa de forma clara e inequívoca em documento assinado por ambas, no qual se menciona a data de celebração do acordo e do início da produção de efeitos.
 
 4. O contrato de estágio cessa por denúncia, quando uma das partes comunicar à outra e à entidade promotora, mediante carta registada e com antecedência não inferior a 15 dias, a sua intenção de não pretender a manutenção do contrato, com indicação do respetivo motivo.
 
-5. A cessação do contrato, nas situações previstas no n.º 1, nas alíneas b) a e) do n.º 2 e no n.º 3, deve igualmente ser comunicada aos Organismos Intermédios definidos no n.º 3 do artigo 24.º do presente regulamento, pela entidade promotora até ao dia seguinte ao do início da respetiva produção de efeitos, pela forma referida no número anterior.
+5 - A cessação do contrato, nas situações previstas no n.º 1, nas alíneas b) a e) do n.º 2 e nos ns.º 3 e 4, deve igualmente ser comunicada aos Organismos Intermédios definidos no n.º 3 do artigo 24.º do presente regulamento, pela entidade promotora até ao dia seguinte ao do início da respetiva produção de efeitos pela forma referida no número anterior.
+
+> Alterado pelo/a [Portaria n.º 156/2013](https://diariodarepublica.pt/dr/detalhe/portaria/156-2013-260404), publicado em 2013-04-18.
 
 ###### Artigo 15.º — Orientador de estágio
 
@@ -426,11 +476,15 @@ e) Decorrido o prazo de 12 meses após o início do estágio, incluindo-se naque
 
 2. Compete ao orientador de estágio, nomeadamente:
 
-a) Realizar o acompanhamento técnico e pedagógico do estagiário, supervisionando o seu progresso face aos objetivos indicados no plano individual de estágio;
+a) Acompanhar a formação em contexto de trabalho, prevista na alínea a) do n.º 2 do artigo 11.º;
 
-b) Avaliar os resultados obtidos pelo estagiário no final do estágio.
+b) Realizar o acompanhamento técnico e pedagógico do estagiário, supervisionando o seu progresso face aos objetivos indicados no plano individual de estágio;
+
+c) Avaliar os resultados obtidos pelo estagiário no final do estágio.
 
 3. Cada orientador de estágio pode acompanhar no máximo três estagiários.
+
+> Alterado pelo/a [Portaria n.º 156/2013](https://diariodarepublica.pt/dr/detalhe/portaria/156-2013-260404), publicado em 2013-04-18.
 
 ###### Artigo 16.º — Bolsa de estágio
 
@@ -438,17 +492,23 @@ A empresa beneficiária deve pagar aos estagiários uma bolsa mensal definida em
 
 a) No Passaporte Emprego Industrialização e no Passaporte Emprego Internacionalização:
 
-i. O valor correspondente ao Indexante de Apoios Sociais (IAS), para o estagiário sem ensino secundário completo;
+i. 1,65 vezes do valor correspondente ao indexante dos apoios sociais (IAS), para o estagiário com qualificação de nível 6 ou 7 do QNQ;
 
-ii. 1,25 vezes do valor correspondente ao IAS, para o estagiário com ensino secundário completo ou ensino pós-secundário completo;
+ii. 1,4 vezes do valor correspondente ao IAS, para o estagiário com qualificação de nível 5 do QNQ;
 
-iii. 1,65 vezes do valor correspondente ao IAS, para o estagiário com licenciatura ou mestrado;
+iii. 1,3 vezes do valor correspondente ao IAS, para o estagiário com qualificação de nível 4 do QNQ;
+
+iv. 1,2 vezes do valor correspondente ao IAS, para o estagiário com qualificação de nível 3 do QNQ;
+
+v. O valor correspondente ao IAS, para os restantes casos.
 
 b) No Passaporte Emprego Inovação:
 
-i. 1,65 vezes do valor correspondente ao IAS, para o estagiário com mestrado;
+i. 1,65 vezes do valor correspondente ao IAS, para o estagiário com qualificação de nível 7 do QNQ;
 
-ii. 2,25 vezes do valor correspondente ao IAS, para o estagiário com doutoramento.
+ii. 2,25 vezes do valor correspondente ao IAS, para o estagiário com qualificação de nível 8 do QNQ.
+
+> Alterado pelo/a [Portaria n.º 156/2013](https://diariodarepublica.pt/dr/detalhe/portaria/156-2013-260404), publicado em 2013-04-18.
 
 ###### Artigo 17.º — Elegibilidade das despesas
 
@@ -462,7 +522,7 @@ b) O prémio de integração;
 
 a) O subsídio de alimentação;
 
-b) O subsídio de transporte;
+b) (Revogada.)
 
 c) O seguro de acidentes de trabalho;
 
@@ -476,7 +536,9 @@ a) Ao subsídio de alimentação, até ao valor fixado para os trabalhadores que
 
 b) Às despesas de transporte de montante equivalente ao custo das viagens realizadas em transporte coletivo ou, se não for possível a utilização deste, subsídio de transporte, no montante máximo mensal de 10% do IAS;
 
-c) Ao prémio devido pelo seguro de acidentes de trabalho, até ao valor correspondente a 3% do valor total da bolsa de estágio definida nos termos da subalínea ii) da alínea b) do artigo 16.º.
+c) Ao prémio devido pelo seguro de acidentes de trabalho, até ao valor correspondente a 3% do valor total da bolsa de estágio referida na subalínea iii. da alínea a) do artigo 16.º, reportado ao período de duração do estágio respetivo.
+
+> Alterado pelo/a [Portaria n.º 156/2013](https://diariodarepublica.pt/dr/detalhe/portaria/156-2013-260404), publicado em 2013-04-18.
 
 ###### Artigo 18.º — Transporte, Alimentação e Seguros
 
@@ -484,11 +546,13 @@ c) Ao prémio devido pelo seguro de acidentes de trabalho, até ao valor corresp
 
 i. O subsídio de alimentação por cada dia de estágio, de valor correspondente ao da generalidade dos seus trabalhadores;
 
-ii. Caso não assegure o transporte entre a residência habitual e o local do estágio, as despesas de transporte em montante equivalente ao custo das viagens realizadas em transporte coletivo ou, se não for possível a sua utilização, subsídio de transporte mensal no montante máximo de 10% do IAS.
+ii. Relativamente aos estagiários com deficiência e incapacidade, caso não assegure o transporte entre a residência habitual e o local do estágio, despesas de transporte em montante equivalente ao custo das viagens realizadas em transporte coletivo ou, se não for possível a sua utilização, subsídio de transporte mensal no montante máximo de 10% do IAS.
 
 2. Na ausência de atribuição de subsídio de alimentação por parte da empresa beneficiária aos seus trabalhadores, o estagiário pode optar entre o valor do subsídio fixado para os trabalhadores que exercem funções públicas ou a refeição na própria empresa beneficiária, se essa for a prática para os respetivos trabalhadores.
 
 3. A empresa beneficiária deve efetuar um seguro de acidentes de trabalho relativo ao estagiário.
+
+> Alterado pelo/a [Portaria n.º 156/2013](https://diariodarepublica.pt/dr/detalhe/portaria/156-2013-260404), publicado em 2013-04-18.
 
 ###### Artigo 19.º — Efeitos do contrato de estágio
 
@@ -634,7 +698,9 @@ b) Proporcionalmente, no caso de despedimento por inadaptação ou de cessação
 
 ###### Artigo 32.º — Financiamento comunitário
 
-Os Passaportes Emprego 3i referidos no presente regulamento recebem financiamento comunitário proveniente dos Programas Operacionais Regionais das regiões de convergência NUTS II Norte, Centro ou Alentejo.
+Os Passaportes Emprego 3i referidos no presente regulamento recebem financiamento comunitário proveniente dos Programas Operacionais Regionais das regiões de convergência NUTS II Norte, Centro ou Alentejo e na parte relativa ao prémio de integração respeitam o Regulamento (CE) n.º 1998/2006, de 15 de dezembro, relativo aos auxílios minimis.
+
+> Alterado pelo/a [Portaria n.º 156/2013](https://diariodarepublica.pt/dr/detalhe/portaria/156-2013-260404), publicado em 2013-04-18.
 
 ###### Artigo 33.º — Legislação supletiva
 

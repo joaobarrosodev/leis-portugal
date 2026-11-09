@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-08-12'
+version_history:
+  file: decreto-legislativo-regional-19-2004-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-08-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-08-12'
+    amending: pt:dre:671467:por
+    amending_title: Decreto Legislativo Regional n.º 17/2011/M
+    changes:
+    - Altera Artigo ANEXO — REGULAMENTO DE LICENCIAMENTO DE PARQUES EMPRESARIAIS NA REGIÃO AUTÓNOMA DA MADEIRA::26.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/19/2004/08/02/m/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:40:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    17/2011/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2004/decreto-legislativo-regional-19-2004-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -357,11 +372,15 @@ v) As modalidades de prestação de serviços aos estabelecimentos;
 
 vi) As regras de funcionamento, no sentido de garantir a segurança e a protecção ambiental, designadamente no que se refere ao pré-tratamento de efluentes líquidos industriais, à gestão de resíduos, ao ruído, às emissões atmosféricas, às substâncias perigosas, aos riscos de acidentes graves, à gestão de tráfego e ao estacionamento;
 
-p) Quaisquer outros documentos previstos no presente Regulamento ou noutras normas aplicáveis.
+p) Planta com a identificação das áreas previstas no n.º 1 do artigo 43.º do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de Dezembro, e que, nos termos do artigo 1.º-C do [Decreto Legislativo Regional n.º 37/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2006-538807), de 18 de Agosto, permanecerão propriedade privada da pessoa jurídica interessada na sua exploração e promotora do loteamento;
+
+q) Quaisquer outros documentos previstos no presente Regulamento ou noutras normas aplicáveis.
 
 2 - Todos os elementos atrás referidos são entregues em seis exemplares no formato papel e um exemplar em formato digital adequado para integração num sistema de informação geográfica (SIG).
 
 3 - No caso dos parques empresariais que integram a MPE - Madeira Parques Empresariais, Sociedade Gestora, S. A., a concessionária de serviço público poderá emitir regras gerais de utilização e frequência para o conjunto destes, a par de outras, que concretizem para cada um, ou para cada grupo destes, requisitos específicos.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 17/2011/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2011-671467), publicado em 2011-08-11.
 
 ###### Artigo 27.º — Instrução de pedido para licenciamento provisório
 

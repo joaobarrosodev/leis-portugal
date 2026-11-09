@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1966-04-26'
+version_history:
+  file: decreto-45928.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-09-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1966-04-26'
+    amending: pt:dre:487314:por
+    amending_title: Decreto n.º 46972
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:42:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 46972. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1964/decreto-45928.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -104,11 +119,15 @@ Ouvidos o Conselho Ultramarino e os Governos das províncias ultramarinas;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º São autorizados os Governos das províncias a criar um fundo designado Fundo de Acção Social no Trabalho.
+###### Artigo 1.º
+
+São autorizados os Governos das províncias a criar um fundo designado Fundo de Acção Social no Trabalho.
 
 § único. Os Fundos de Acção Social no Trabalho já criados em Angola e Moçambique deverão ser harmonizados em conformidade com o que se estabelece no presente decreto.
 
-Art. 2.º O Fundo funcionará adstrito à presidência dos Institutos do Trabalho, Previdência e Acção Social e será gerido por uma comissão administrativa com a seguinte constituição:
+###### Artigo 2.º
+
+O Fundo funcionará adstrito à presidência dos Institutos do Trabalho, Previdência e Acção Social e será gerido por uma comissão administrativa com a seguinte constituição:
 
 Nas províncias de governo-geral:
 
@@ -148,9 +167,17 @@ O assistente de 1.ª classe ou, na sua falta, um funcionário do Instituto do Tr
 
 § único. Enquanto as entidades empregadoras e os trabalhadores não estiverem profissionalmente organizados, as primeiras serão representadas na comissão administrativa do Fundo de Acção Social por um membro das associações industriais, comerciais e agrícolas, escolhido de uma lista tríplice proposta conjuntamente pelas mesmas associações ao Governo da província; o representante dos trabalhadores será nomeado pelo Governo da província na pessoa de missionário católico proposto pelo respectivo prelado da diocese ou pelo vigário ou prefeito apostólico da circunscrição missionária, conforme os casos.
 
-Art. 3.º O Fundo é constituído por receitas próprias destinadas a custear os encargos com a acção social a desenvolver juntos dos trabalhadores rurais e por valores consignados aos fins previstos no Código do Trabalho Rural, incluindo as importâncias depositadas para despesas de repatriação.
+###### Artigo 3.º
 
-Art. 4.º São receitas próprias do Fundo:
+O Fundo é constituído por receitas próprias destinadas a custear os encargos com a acção social a desenvolver juntos dos trabalhadores rurais e por valores consignados aos fins previstos no Código do Trabalho Rural, incluindo as importâncias depositadas para despesas de repatriação.
+
+§ único. Embora o Fundo vise principalmente o trabalho rural e equiparado, serão abrangidos também na sua acção social os trabalhadores não rurais que para ele hajam contribuído financeiramente, aproveitando os respectivos benefícios na medida da sua contribuição.
+
+> Alterado pelo/a [Decreto n.º 46972](https://diariodarepublica.pt/dr/detalhe/decreto/46972-1966-487314), publicado em 1966-04-26.
+
+###### Artigo 4.º
+
+São receitas próprias do Fundo:
 
 a) O produto das percentagens, taxas, multas e outros rendimentos que vierem a ser fixados com tal destino, incluindo a importância das cauções perdidas nos termos do Código do Trabalho Rural;
 
@@ -168,7 +195,9 @@ f) O remanescente das receitas depositadas à ordem do Fundo, nos termos do arti
 
 § 2.º A Delegação Comercial do Ultramar promoverá a remessa urgente a cada uma das províncias ultramarinas do respectivo inventário dos bens adquiridos e das importâncias aplicadas e, bem assim, acertará com cada uma sobre o modo de contabilização e liquidação dos correspondentes rendimentos.
 
-Art. 5.º Quando os respectivos governos o julguem conveniente, podem determinar que passem a constituir valores consignados, a depositar à ordem do Fundo e sujeitos à fiscalização da comissão administrativa:
+###### Artigo 5.º
+
+Quando os respectivos governos o julguem conveniente, podem determinar que passem a constituir valores consignados, a depositar à ordem do Fundo e sujeitos à fiscalização da comissão administrativa:
 
 a) Os espólios dos trabalhadores falecidos;
 
@@ -178,19 +207,27 @@ c) As importâncias das percentagens sobre os salários dos trabalhadores destin
 
 d) Os saldos de salários.
 
-Art. 6.º Para garantia das despesas de repatriação dentro da mesma província ou para província diferente, desde o local do trabalho até à residência do trabalhador, os governos-gerais e de província fixarão uma percentagem única sobre a quantia certa em dinheiro paga ao trabalhador conforme a alínea a) do artigo 77.º do Código do Trabalho Rural, a qual será depositada nos termos da alínea c) do artigo 5.º, conjuntamente com a parte cativa do salário, de harmonia com a alínea b) do artigo 80.º do mesmo código.
+###### Artigo 6.º
+
+Para garantia das despesas de repatriação dentro da mesma província ou para província diferente, desde o local do trabalho até à residência do trabalhador, os governos-gerais e de província fixarão uma percentagem única sobre a quantia certa em dinheiro paga ao trabalhador conforme a alínea a) do artigo 77.º do Código do Trabalho Rural, a qual será depositada nos termos da alínea c) do artigo 5.º, conjuntamente com a parte cativa do salário, de harmonia com a alínea b) do artigo 80.º do mesmo código.
 
 § 1.º No caso de a importância do depósito, apurada no termo do contrato do trabalhador, ser inferior às despesas da repatriação, o patrão é obrigado ao pagamento da diferença até à liquidação integral dos respectivos encargos, sendo-lhe porém restituído o excedente da importância em depósito se o seu montante for superior às despesas efectuadas.
 
 § 2.º A percentagem a depositar poderá ser substituída por garantia bancária numa importância correspondente aos encargos da repatriação.
 
-Art. 7.º O Fundo disporá de autonomia administrativa e financeira e processará a gerência das suas receitas através de um orçamento anual aprovado por portaria do governador-geral ou de província, sendo a comissão administrativa responsável pela sua gestão perante o tribunal administrativo, ao qual submeterá as respectivas contas de gerência anual, para efeitos de julgamento até 30 de Março de cada ano.
+###### Artigo 7.º
+
+O Fundo disporá de autonomia administrativa e financeira e processará a gerência das suas receitas através de um orçamento anual aprovado por portaria do governador-geral ou de província, sendo a comissão administrativa responsável pela sua gestão perante o tribunal administrativo, ao qual submeterá as respectivas contas de gerência anual, para efeitos de julgamento até 30 de Março de cada ano.
 
 § único. Sempre que se verifique o disposto no artigo 5.º, serão inscritas na tabela de despesa do Fundo as verbas correspondentes às importâncias dos valores consignados a fim de serem restituídos aos interessados quando reclamados em forma legal.
 
-Art. 8.º Junto das delegações e subdelegações do Instituto do Trabalho, Previdência e Acção Social poderão ser criadas delegações do Fundo de Acção Social no Trabalho com a composição e a competência que os governos-gerais e de província entendam dever atribuir-lhes.
+###### Artigo 8.º
 
-Art. 9.º Os governadores-gerais e de província regulamentarão, na medida das atribuições estabelecidas no presente decreto, a organização e o funcionamento do Fundo de Acção Social no Trabalho.
+Junto das delegações e subdelegações do Instituto do Trabalho, Previdência e Acção Social poderão ser criadas delegações do Fundo de Acção Social no Trabalho com a composição e a competência que os governos-gerais e de província entendam dever atribuir-lhes.
+
+###### Artigo 9.º
+
+Os governadores-gerais e de província regulamentarão, na medida das atribuições estabelecidas no presente decreto, a organização e o funcionamento do Fundo de Acção Social no Trabalho.
 
 Publique-se e cumpra-se como nele se contém.
 

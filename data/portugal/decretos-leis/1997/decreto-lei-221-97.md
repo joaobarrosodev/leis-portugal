@@ -38,10 +38,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-06-04'
+version_history:
+  file: decreto-lei-221-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-06-04'
+    amending: pt:dre:281197:por
+    amending_title: Decreto-Lei n.º 136/2004
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Altera Artigo 11.º
+    - Altera Artigo 17.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/221/1997/08/20/p/dre/pt/html
@@ -67,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:51:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 136/2004. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-221-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -163,7 +187,9 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 2 - O Conselho é um órgão com funções consultivas, que deve proporcionar a participação das várias forças sociais, culturais e económicas na procura de consensos alargados relativamente à política ambiental.
 
-3 - O Conselho é um órgão independente, que funciona junto do Ministro do Ambiente.
+3 - O Conselho é um órgão independente, que funciona junto do Ministro das Cidades, Ordenamento do Território e Ambiente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03.
 
 ###### Artigo 2.º — Competências
 
@@ -193,7 +219,7 @@ O Conselho tem a seguinte composição:
 
 a) Um presidente, designado pelo Conselho de Ministros;
 
-b) Entre cinco e oito elementos a designar pelo Conselho de Ministros, sendo um indicado pelo Ministério do Ambiente;
+b) Entre cinco e oito elementos a designar pelo Conselho de Ministros, sendo um indicado pelo Ministro das Cidades, Ordenamento do Território e Ambiente;
 
 c) Um elemento a designar, respectivamente, pelo Governo Regional dos Açores e pelo Governo Regional da Madeira;
 
@@ -203,7 +229,7 @@ e) Dois elementos a designar pela Associação Nacional dos Municípios Portugue
 
 f) Dois elementos a designar pelas associações industriais;
 
-g) Dois elementos a designar pelas associações comerciais;
+g) Dois elementos a designar pelas associações comerciais e do turismo;
 
 h) Dois elementos a designar pelas associações de agricultores;
 
@@ -213,7 +239,15 @@ j) Dois elementos a designar pelas organizações sindicais;
 
 l) Dois elementos a designar pelo Conselho de Reitores;
 
-m) Três elementos cooptados pelo Conselho de entre personalidades de reconhecido mérito na área do ambiente, nos termos do regulamento interno do Conselho.
+m) Dois elementos a designar pelas entidades representativas da comunidade científica;
+
+n) Dois elementos a designar por organizações não governamentais do desenvolvimento regional e para a cooperação;
+
+o) Um elemento a designar pelas associações dos consumidores;
+
+p) Quatro elementos cooptados pelo Conselho de entre personalidades de reconhecido mérito na área do ambiente e do desenvolvimento sustentável, nos termos do regimento interno do Conselho.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03.
 
 ###### Artigo 4.º — Tomada de posse
 
@@ -253,13 +287,21 @@ b) Faltem reiteradamente às reuniões, nos termos a definir no regulamento.
 
 a) Representar o Conselho;
 
-b) Convocar e presidir às reuniões plenárias;
+b) Convocar as reuniões e dirigir os trabalhos do Conselho de acordo com a ordem do dia previamente estabelecida e assegurar o cumprimento das respectivas deliberações;
 
-c) Convidar a participar nas reuniões do plenário, sem direito a voto, quaisquer entidades cuja presença seja julgada útil;
+c) Solicitar, por iniciativa própria ou mediante deliberação do Conselho, a colaboração de representantes de serviços ou organismos da Administração Pública ou quaisquer outras entidades cuja presença seja considerada útil no âmbito das matérias a tratar;
 
-d) Promover a elaboração do plano de actividades e respectivo relatório;
+d) Convidar a participar nas reuniões do Conselho, sem direito a voto, quaisquer entidades ou personalidades de reputado mérito, cuja presença seja considerada útil;
 
-e) Exercer quaisquer outros poderes que lhe sejam atribuídos por lei.
+e) Determinar a elaboração de estudos técnicos e de apoio à actividade do Conselho, confiando a sua realização a entidades públicas ou privadas, dando disso informação ao Conselho;
+
+f) Elaborar e submeter à apreciação do Conselho o plano e o relatório anual de actividades;
+
+g) Outorgar os protocolos ou acordos de cooperação com entidades nacionais ou congéneres estrangeiras, nos termos da lei, após aprovação do Conselho;
+
+h) Superintender os serviços de apoio técnico-administrativo;
+
+i) Exercer quaisquer outros poderes que lhe sejam atribuídos por lei.
 
 2 - Nas suas ausências e impedimentos, o presidente é substituído por qualquer membro do Conselho por si designado.
 
@@ -267,9 +309,11 @@ e) Exercer quaisquer outros poderes que lhe sejam atribuídos por lei.
 
 4 - Quando o cargo de presidente não seja exercido nas condições referidas no número anterior, a remuneração será a correspondente a 60% da remuneração de director-geral.
 
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03.
+
 ###### Artigo 9.º — Secretário executivo
 
-1 - O Conselho dispõe de um secretário executivo, nomeado pelo Ministro do Ambiente de entre técnicos superiores do Ministério do Ambiente, sob proposta do presidente.
+1 - O Conselho dispõe de um secretário executivo, nomeado pelo Ministro das Cidades, Ordenamento do Território e Ambiente, sob proposta do presidente, de entre indivíduos providos na carreira técnica superior ou na carreira técnica, de categoria não inferior a técnico especialista principal.
 
 2 - O secretário executivo exerce funções em comissão de serviço por um período de três anos, renovável, sendo remunerado pelo índice 820 da escala salarial do regime geral.
 
@@ -281,21 +325,27 @@ b) Assegurar o secretariado das reuniões do Conselho;
 
 c) Preparar as reuniões do Conselho, nas quais participa sem direito a voto.
 
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03.
+
 ###### Artigo 10.º — Reuniões
 
-1 - O Conselho reúne ordinariamente duas vezes por ano e extraordinariamente por iniciativa do presidente, por solicitação do Ministro do Ambiente ou a requerimento de, pelo menos, um terço dos membros do Conselho.
+1 - O Conselho reúne ordinariamente seis vezes por ano e extraordinariamente por iniciativa do presidente, por solicitação do Ministro das Cidades, Ordenamento do Território e Ambiente ou a requerimento de, pelo menos, um terço dos membros do Conselho.
 
 2 - As deliberações do Conselho são tomadas por maioria dos membros em efectividade de funções, tendo o presidente voto de qualidade.
 
 3 - A participação nas reuniões confere direito ao abono de senhas de presença, de montante a fixar por despacho conjunto dos Ministros das Finanças e do Ambiente.
 
+4 - Ao funcionamento do Conselho aplicam-se as regras constantes do seu regimento e, supletivamente, as regras relativas aos órgãos colegiais previstas no Código do Procedimento Administrativo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03.
+
 ###### Artigo 11.º — Serviços de apoio técnico e administrativo
 
-1 - O Conselho dispõe de uma assessoria técnica e administrativa, assegurada pelo Ministério do Ambiente e coordenada pelo secretário executivo.
+1 - O Conselho dispõe de uma assessoria técnica e administrativa, assegurada com o apoio da Secretaria-Geral do Ministério das Cidades, Ordenamento do Território e Ambiente e coordenada pelo secretário executivo.
 
 2 - Compete à assessoria o apoio às actividades do Conselho, designadamente as de natureza técnica, informação, documentação, secretariado, expediente e arquivo.
 
-3 - O pessoal necessário ao funcionamento da assessoria técnica e administrativa é designado por despacho do Ministro do Ambiente, sob proposta do presidente do Conselho, de entre o pessoal dos quadros de pessoal do Ministério do Ambiente, cujas funções são exercidas em regime de requisição ou destacamento.
+> Alterado pelo/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03.
 
 ###### Artigo 12.º — Regimento
 
@@ -325,7 +375,7 @@ O Conselho deve elaborar um relatório anual de actividade, que é publicado na 
 
 ###### Artigo 17.º — Encargos financeiros e instalações
 
-1 - Os encargos com o funcionamento do Conselho são cobertos por dotação orçamental inscrita no orçamento da Secretaria-Geral do Ministério do Ambiente.
+1 - Os encargos com o funcionamento do Conselho são cobertos por dotação orçamental inscrita no orçamento do Ministério das Cidades, Ordenamento do Território e Ambiente.
 
 2 - Constituem, entre outros, encargos de funcionamento do Conselho os seguintes:
 
@@ -341,19 +391,25 @@ e) Os que resultem do seu normal funcionamento e das actividades dos seus membro
 
 3 - As instalações necessárias ao funcionamento do Conselho serão asseguradas pelo Ministério do Ambiente.
 
+> Alterado pelo/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03.
+
 ###### Artigo 18.º — Entrada em funcionamento
 
-1 - O presidente do Conselho, após a tomada de posse, deverá adoptar as providências necessárias à rápida constituição e entrada em funcionamento do Conselho.
+(Revogado.)
 
-2 - O Conselho deverá estar constituído no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei e entrar em funcionamento nos 90 dias subsequentes, desde que estejam designados mais de metade dos seus membros.
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03.
 
 ###### Artigo 19.º — Regime transitório
 
-Os encargos resultantes da execução do presente decreto-lei são satisfeitos no ano corrente por força das dotações para o Ministério do Ambiente.
+(Revogado.)
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03.
 
 ###### Artigo 20.º — Extinção da Comissão Consultiva do Ambiente
 
-Com a entrada em funcionamento do Conselho extingue-se a Comissão Consultiva do Ambiente (CCA), prevista no n.º 1 do artigo 4.º do [Decreto-Lei n.º 187/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1993-283521), de 24 de Maio.
+(Revogado.)
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 136/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2004-281197), publicado em 2004-06-03.
 
 Visto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago - Jorge Paulo Sacadura Almeida Coelho.
 

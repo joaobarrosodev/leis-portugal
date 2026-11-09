@@ -38,10 +38,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-07-18'
+version_history:
+  file: regulamento-cmvm-4-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-02-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-07-18'
+    amending: pt:dre:3116982:por
+    amending_title: Regulamento da CMVM n.º 6/2003
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:41:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Regulamento da CMVM n.º 6/2003. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/regulamentos-cmvm/2002/regulamento-cmvm-4-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,11 +178,7 @@ A política de investimentos dos fundos de índices consiste na reprodução int
 
 1 - A política de investimentos dos fundos de índices deve restringir-se aos valores mobiliários que integrem o cabaz do índice, a direitos associados a esses valores e a liquidez.
 
-2 - Os fundos de índices que efectuem reprodução parcial devem manter uma composição de carteira que, a todo momento:
-
-a) Assegure uma exposição mínima ao índice de 75%;
-
-b) Não origine diferenças relativas superiores ou inferiores a 10% entre o peso de cada valor mobiliário na carteira do fundo e no cabaz do índice.
+2 - Os fundos de índices que efectuem reprodução parcial devem manter uma composição de carteira que a todo momento assegure uma exposição mínima ao índice de 75%.
 
 3 - Na prossecução dos objectivos de gestão dos fundos de índices, as entidades gestoras podem recorrer aos mercados a contado e aos mercados a prazo, assegurando, sempre que utilizados instrumentos do mercado a prazo, que a exposição dos fundos aos subjacentes desses instrumentos não seja superior, em qualquer momento, ao seu valor líquido global.
 
@@ -171,9 +188,11 @@ a) Não cumprir as regras relativas à utilização de instrumentos financeiros 
 
 b) Sujeito à aprovação da CMVM, onerar o património dos fundos para além do previsto no n.º 1, alínea c), do artigo 11.º do [Decreto-Lei n.º 276/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1994-621311), de 2 de Novembro.
 
+> Alterado pelo/a [Regulamento da CMVM n.º 6/2003](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2003-3116982), publicado em 2003-07-17.
+
 ###### Artigo 5.º — Índices
 
-1 - São elegíveis para utilização pelas entidades gestoras os índices de valores mobiliários admitidos à negociação em mercado regulamentado em que os fundos de investimento mobiliário estejam legalmente autorizados a efectuar os seus investimentos, assim como os índices desses índices, com a excepção daqueles que:
+1 - São elegíveis para utilização pelas entidades gestoras os índices de valores mobiliários apurados por entidade gestora de mercado regulamentado em que os fundos de investimento mobiliário estejam legalmente autorizados a efectuar os seus investimentos ou utilizados como referência nos mercados internacionais, com excepção daqueles que:
 
 a) Sejam compostos por valores mobiliários com um peso individual superior a 25% do seu total;
 
@@ -181,7 +200,7 @@ b) Tenham mais de 65% do seu peso concentrado em três ou menos valores mobiliá
 
 c) Sejam compostos por menos de oito valores mobiliários.
 
-2 - Os índices devem reflectir de forma adequada a evolução de um ou mais mercados ou segmentos de mercados.
+2 - A CMVM pode reconhecer índices que não cumpram os requisitos referidos no número anterior desde que existam garantias de eficiente funcionamento do índice e este seja demonstrado pela entidade gestora.
 
 3 - Os índices devem possuir regras relativas aos procedimentos de revisão e correcção do seu cabaz, designadamente sempre que se verifiquem vicissitudes relevantes relativamente a algum dos valores que os integrem.
 
@@ -195,9 +214,15 @@ c) Outros que sejam objecto de aprovação pela CMVM.
 
 5 - As entidades gestoras dos fundos devem apresentar junto da CMVM um documento comprovativo da autorização da utilização da designação do índice emitido pela entidade gestora deste último.
 
+> Alterado pelo/a [Regulamento da CMVM n.º 6/2003](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2003-3116982), publicado em 2003-07-17.
+
 ###### Artigo 6.º — Subscrição e resgate
 
-Os fundos de índices cujas unidades de participação sejam admitidas à negociação em mercado regulamentado são susceptíveis de apresentar restrições significativas aos valores mínimos de subscrição e resgate, podendo ambas estas operações, de acordo com o determinado pelas entidades gestoras, ser processadas em numerário ou através de entrega em espécie dos valores mobiliários que possam fazer parte integrante das carteiras dos fundos.
+1 - Os fundos de índices cujas unidades de participação sejam admitidas à negociação em mercado liquidam as operações de subscrição e resgate através de entrega em espécie dos valores que integram as carteiras dos fundos.
+
+2 - Sem prejuízo do disposto no número anterior, as entidades gestoras podem, se assim o determinarem, prever a subscrição e resgate das unidades de participação em numerário.
+
+> Alterado pelo/a [Regulamento da CMVM n.º 6/2003](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2003-3116982), publicado em 2003-07-17.
 
 ###### Artigo 7.º — Adaptação
 
@@ -215,11 +240,13 @@ c) Não se assegura o disposto nos n.os 2 a 4 do artigo 5.º
 
 ###### Artigo 8.º — Regime
 
-1 - Os fundos regulados no presente capítulo constituem-se como fundos fechados e podem ter associadas garantias de capital e de um determinado perfil de rendimentos.
+1 - Os fundos regulados no presente capítulo têm associadas garantias de capital ou de um determinado perfil de rendimentos.
 
 2 - A administração dos fundos deve ser conduzida de modo autónomo à eventual necessidade de accionamento das garantias no estrito cumprimento da política de investimentos e salvaguarda do interesse dos participantes.
 
 3 - É aplicável aos fundos o disposto no n.º 4 do artigo 4.º do presente regulamento.
+
+> Alterado pelo/a [Regulamento da CMVM n.º 6/2003](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2003-3116982), publicado em 2003-07-17.
 
 ###### Artigo 9.º — Garantias
 
@@ -227,9 +254,11 @@ c) Não se assegura o disposto nos n.os 2 a 4 do artigo 5.º
 
 2 - Quando sejam utilizadas garantias bancárias, deve ser celebrado contrato entre a entidade gestora do fundo e a entidade garante legalmente habilitada para o efeito, devendo o mesmo ser submetido à aprovação da CMVM.
 
-3 - A CMVM pode não autorizar a utilização de garantias que, em caso de necessidade de accionamento, não possibilitem ou dificultem o imediato pagamento aos participantes das quantias garantidas.
+3 - A entidade gestora promove os procedimentos necessários ao accionamento das garantias bancárias.
 
-4 - Quando a garantia seja proporcionada através da estruturação do património do fundo, as entidades gestoras submetem à apreciação da CMVM memorando explicativo da operação, o qual, sem prejuízo dos elementos adicionais que aquela possa vir a requerer, deve conter como mínimo:
+4 - A CMVM pode não autorizar a utilização de garantias que, em caso de necessidade de accionamento, não possibilitem ou dificultem o imediato pagamento aos participantes das quantias garantidas.
+
+5 - Quando a garantia seja proporcionada através da estruturação do património do fundo, as entidades gestoras submetem à apreciação da CMVM memorando explicativo da operação, o qual, sem prejuízo dos elementos adicionais que aquela possa vir a requerer, deve conter como mínimo:
 
 a) O tipo e as características dos instrumentos financeiros a utilizar;
 
@@ -241,13 +270,13 @@ d) As eventuais contrapartes do fundo nesses instrumentos;
 
 e) Informação actualizada sobre a situação económico-financeira das contrapartes.
 
+> Alterado pelo/a [Regulamento da CMVM n.º 6/2003](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2003-3116982), publicado em 2003-07-17.
+
 ###### Artigo 10.º — Entidades garantes
 
-1 - Não podem ser garantes ou contrapartes dos fundos as entidades que se encontrem, relativamente à entidade gestora, nas situações previstas no artigo 21.º do [Decreto-Lei n.º 276/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1994-621311), de 2 de Novembro, bem como aquelas que, de modo fundamentado, a CMVM entenda serem susceptíveis de colocar em causa a observância do princípio constante do n.º 2 do artigo 8.º
+No caso de se constituírem como garantes ou contrapartes dos fundos entidades que se encontrem, relativamente à entidade gestora, nas situações previstas no artigo 21.º do [Decreto-Lei n.º 276/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1994-621311), de 2 de Novembro, compete à entidade gestora demonstrar a observância do princípio constante do n.º 2 do artigo 8.º
 
-2 - Em conjunto com a documentação instrutora do processo de autorização dos fundos, as entidades gestoras devem remeter à CMVM, devidamente preenchida, a declaração constante do anexo I ao presente regulamento.
-
-3 - Caso no decurso da vida do fundo, por razões alheias à vontade das entidades gestoras, se venha a verificar a violação do disposto no n.º 1, devem as entidades gestoras, em conjunto com as entidades garantes, dar cumprimento ao disposto no mesmo no prazo de seis meses a contar da verificação do incumprimento.
+> Alterado pelo/a [Regulamento da CMVM n.º 6/2003](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2003-3116982), publicado em 2003-07-17.
 
 ### CAPÍTULO IV — Publicidade e informação
 
@@ -257,7 +286,7 @@ e) Informação actualizada sobre a situação económico-financeira das contrap
 
 a) Nos termos da regulamentação em vigor para a divulgação de medidas de rendibilidade e risco dos fundos de investimento mobiliário, a rendibilidade e risco do fundo e do índice nesse trimestre;
 
-b) Nos termos do anexo II ao presente regulamento, os motivos subjacentes à eventual divergência nas rendibilidades referidas na alínea anterior.
+b) Nos termos do anexo ao presente regulamento, os motivos subjacentes à eventual divergência nas rendibilidades referidas na alínea anterior.
 
 2 - As entidades gestoras enviam à CMVM, até ao 3.º dia útil subsequente ao final de cada mês, a informação referida nas alíneas a) e b) do número anterior.
 
@@ -268,6 +297,8 @@ b) Nos termos do anexo II ao presente regulamento, os motivos subjacentes à eve
 5 - As entidades gestoras divulgam nos relatórios e contas dos fundos, com respeito ao período de referência do relatório, os custos efectivamente suportados pela utilização das garantias, assim como as rendibilidades dos fundos efectivamente verificadas e aquelas que se verificariam caso a garantia não tivesse sido contratada.
 
 6 - As entidades gestoras de fundos prestam à CMVM toda a informação que seja do seu conhecimento e que seja susceptível de afectar o cumprimento das obrigações das entidades garantes com quem contratou.
+
+> Alterado pelo/a [Regulamento da CMVM n.º 6/2003](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/6-2003-3116982), publicado em 2003-07-17.
 
 ###### Artigo 12.º — Entrada em vigor
 

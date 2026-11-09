@@ -1,0 +1,402 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:283681:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-01-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "33409054c454bc45",
+    "de982cfa301bfd2b",
+    "a5d318607443afab",
+    "ecc24efd204c3f38",
+    "868935ece73f902f",
+    "6261911e59d95607",
+    "c688004f56af226e",
+    "7baa42f278875d12",
+    "9128794a80161e57",
+    "b2feb818c27101e2",
+    "74cbf66e3f39df78",
+    "b5ba149c79d1a8b0",
+    "da4412b65b9d50e0",
+    "63d29a643e74af29",
+    "654c8afb35a82add",
+    "463e98a74ce0aed5",
+    "4eb18eb66de97a3a",
+    "c6cfa26c1038b95b",
+    "1e5802c4fa6e3c52",
+    "a4cfc9a15b24673d",
+    "4b56667bfcb9d9c9",
+    "fb87f7c4825c7e67",
+    "9eae975b21b6230f",
+    "e89e46686cdd17d8",
+    "a9f252b7e75af11a",
+    "8af254d4f6d0990a",
+    "977d4b1d4f8f2afc",
+    "f476cda1c2d9d9ce",
+    "b9a646a3fa2d7ed0",
+    "1eb5db3ba57f5068",
+    "4c0bca1f4883efa4",
+    "0ea6ed8296903536",
+    "57c37b30b62baf8c"
+   ]
+  },
+  {
+   "date": "2009-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:490394:por",
+     "title": "Decreto-Lei n.º 246/2009",
+     "published": "2009-09-22",
+     "dre_path": "/dr/detalhe/decreto-lei/246-2009-490394"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 24.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 26.º"
+   ],
+   "fragments": [
+    "33409054c454bc45",
+    "de982cfa301bfd2b",
+    "a5d318607443afab",
+    "ecc24efd204c3f38",
+    "868935ece73f902f",
+    "6261911e59d95607",
+    "762066818a328d43",
+    "7baa42f278875d12",
+    "9128794a80161e57",
+    "b2feb818c27101e2",
+    "74cbf66e3f39df78",
+    "b5ba149c79d1a8b0",
+    "da4412b65b9d50e0",
+    "63d29a643e74af29",
+    "654c8afb35a82add",
+    "463e98a74ce0aed5",
+    "4eb18eb66de97a3a",
+    "c6cfa26c1038b95b",
+    "1e5802c4fa6e3c52",
+    "a4cfc9a15b24673d",
+    "4b56667bfcb9d9c9",
+    "fb87f7c4825c7e67",
+    "9eae975b21b6230f",
+    "e89e46686cdd17d8",
+    "a9f252b7e75af11a",
+    "8af254d4f6d0990a",
+    "977d4b1d4f8f2afc",
+    "f476cda1c2d9d9ce",
+    "9b006ff8ad5f4576",
+    "1eb5db3ba57f5068",
+    "4c0bca1f4883efa4",
+    "6d1d634503bb2bd8",
+    "57c37b30b62baf8c"
+   ]
+  }
+ ],
+ "fragments": {
+  "33409054c454bc45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Janeiro\n\nO cálculo e a cobrança das taxas das instalações eléctricas são basicamente regulados pelo [Decreto-Lei n.º 31226](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31226-1941-413249), de 21 de Abril de 1941, estando os seus critérios de aplicação totalmente desajustados das realidades actuais.\n\nAlém disso, é imperioso rever o actual regime da cobrança de taxas das instalações eléctricas, adoptando-se um processo expedito e desburocratizado, com recurso a novas formas de pagamento e à optimização dos meios informáticos.\n\nA simplificação do processo da cobrança de taxas estabelecido neste diploma irá necessariamente conferir maior eficácia à actividade dos serviços da Administração Pública, assegurando uma uniformização de critérios e correspondendo, assim, à satisfação das necessidades dos cidadãos e de todas as entidades que a eles recorrem.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º É aprovado o Regulamento de Taxas de Instalações Eléctricas, abreviadamente designado por RTIE, anexo ao presente decreto-lei e que dele faz parte integrante.\n\nArt. 2.º Por portaria do Ministro da Indústria e Energia serão estabelecidos os coeficientes e os montantes das taxas a aplicar no âmbito deste diploma.\n\nArt. 3.º Ficam revogados os §§ 1.º e 2.º do artigo 41.º do [Decreto n.º 9424](https://diariodarepublica.pt/dr/detalhe/decreto/9424-1924-654353), de 11 de Fevereiro de 1924, o § 1.º do artigo 23.º e os §§ 1.º e 2.º do artigo 37.º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936, os Decretos-Leis n.os 31226 e 35565, respectivamente de 21 de Abril de 1941 e de 29 de Março de 1946, e os artigos 1.º e 2.º do [Decreto-Lei n.º 40722](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40722-1956-232502), de 2 de Agosto de 1956.\n\nArt. 4.º Este diploma entra em vigor 60 dias após a data da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 3 de Setembro de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Luís Fernando Mira Amaral.\n\nPromulgado em 17 de Dezembro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 18 de Dezembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nRegulamento de Taxas de Instalações Eléctricas"
+  },
+  "de982cfa301bfd2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Generalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Generalidades"
+  },
+  "a5d318607443afab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente Regulamento estabelece as disposições relativas à incidência e à cobrança das taxas de instalações eléctricas.\n\n2 - Não estão abrangidas por este Regulamento as taxas devidas pela prática dos actos previstos no [Decreto-Lei n.º 131/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1987-662150), de 17 de Março, e demais legislação complementar."
+  },
+  "ecc24efd204c3f38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Serviços competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Serviços competentes\n\n1 - Para efeitos do presente Regulamento, entende-se por serviços competentes a Direcção-Geral de Energia ou delegação regional do Ministério da Indústria e Energia territorialmente competente, sem prejuízo das competências exercidas nas Regiões Autónomas pelos serviços e organismos das respectivas administrações regionais.\n\n2 - As competências dos serviços a que se refere o número anterior para a prática dos actos previstos neste Regulamento serão definidas, no âmbito da administração central, por portaria do Ministro da Indústria e Energia."
+  },
+  "868935ece73f902f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Tipos de taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipos de taxas\n\nAs taxas de instalações eléctricas compreendem:\n\na) Taxas de estabelecimento;\n\nb) Taxas de exploração;\n\nc) Taxas diversas."
+  },
+  "6261911e59d95607": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Isenções\n\n1 - São isentos de taxa de exploração:\n\na) Os serviços do Estado;\n\nb) Os serviços das Regiões Autónomas dos Açores e da Madeira;\n\nc) As autarquias locais e suas associações e federações;\n\nd) As juntas de turismo;\n\ne) O INATEL;\n\nf) As instituições de segurança social;\n\ng) As instituições de culto;\n\nh) As instituições de fins científicos;\n\ni) As instituições privadas de solidariedade social e suas uniões e federações;\n\nj) As associações culturais, juvenis, recreativas, desportivas e de assistência, quando reconhecidas de utilidade pública;\n\nl) As entidades abrangidas por legislação específica.\n\n2 - Ficarão ainda isentos de taxa de exploração os exploradores de instalações eléctricas provisórias estabelecidas com o fim de realizar, com carácter temporário, qualquer evento de natureza social, cultural ou desportiva, desde que o mesmo prossiga fins não lucrativos ou de beneficência."
+  },
+  "c688004f56af226e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Forma de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma de pagamento\n\n1 - O pagamento será feito nas tesourarias da Fazenda Pública ou no Banco de Portugal no prazo de 30 dias após o envio ao requerente pelo serviço competente das respectivas guias de pagamento em quintuplicado.\n\n2 - O requerente, após o pagamento, deve enviar ao serviço competente uma cópia da guia.\n\n3 - O processo de comunicação das cobranças efectuadas, bem como a distribuição das importâncias arrecadadas, rege-se pelo disposto no [Decreto-Lei n.º 5/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1984-531830), de 5 de Janeiro.\n\n4 - Os montantes das taxas que não forem pagos nos prazos indicados no n.º 1 serão cobrados coercivamente através dos serviços de justiça fiscal, servindo de título executivo a certidão emitida pelo serviço processador competente."
+  },
+  "7baa42f278875d12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Taxas de estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Taxas de estabelecimento"
+  },
+  "9128794a80161e57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Âmbito\n\n1 - As taxas de estabelecimento são devidas pelos requerentes do licenciamento das instalações eléctricas de abastecimento público ou particular que careçam de licença de estabelecimento nos termos do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo [Decreto-Lei n.º 26852](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26852-1936-360077), de 30 de Julho de 1936.\n\n2 - Tratando-se de instalações cuja construção seja objecto de autorização preliminar de estabelecimento, nos termos do referido Regulamento, será devida, para além da taxa referida no número anterior, uma taxa de autorização preliminar de estabelecimento."
+  },
+  "b2feb818c27101e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Taxas de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Taxas de exploração"
+  },
+  "74cbf66e3f39df78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Grupos de instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Grupos de instalações\n\n1 - As taxas de exploração são devidas pelas entidades que explorem ou utilizem instalações eléctricas de abastecimento público ou instalações eléctricas particulares.\n\n2 - Para efeitos do cálculo das taxas de exploração, as instalações eléctricas devidem-se em três grupos, consoante a classificação definida no Regulamento de Licenças para Instalações Eléctricas:\n\na) 1.º grupo - instalações eléctricas de abastecimento público;\n\nb) 2.º grupo - instalações eléctricas de serviço particular de 1.ª, 2.ª e 4.ª categorias;\n\nc) 3.º grupo - instalações eléctricas de serviço particular de 3.ª e 5.ª categorias."
+  },
+  "b5ba149c79d1a8b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Coexistência de instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Coexistência de instalações\n\nSe no mesmo local, para o mesmo fim ou fins diferentes, coexistirem duas ou mais instalações de diferentes grupos exploradas pela mesma entidade, aplicar-se-á a cada uma delas a respectiva taxa de exploração."
+  },
+  "da4412b65b9d50e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Aplicação da taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Aplicação da taxa\n\n1 - As taxas de exploração de instalações dos 1.º e 2.º grupos são devidas enquanto a instalação estiver estabelecida, independentemente do seu funcionamento, salvo o previsto no artigo 15.º\n\n2 - As taxas de exploração de instalações do 3.º grupo são devidas enquanto as mesmas estiverem ligadas à rede de distribuição."
+  },
+  "63d29a643e74af29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Instalações em situação ilegal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Instalações em situação ilegal\n\nQuando uma instalação se encontre a funcionar ilegalmente, a entidade exploradora fica sujeita, independentemente das sanções legais aplicáveis por falta de licenciamento, ao pagamento da taxa devida, desde que iniciou a exploração em causa, a valores correspondentes ao do ano em que foi detectada a infracção."
+  },
+  "654c8afb35a82add": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Remessa de boletins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Remessa de boletins\n\nDurante o 1.º trimestre de cada ano, as entidades exploradoras das instalações do 1.º grupo deverão enviar aos serviços competentes, devidamente preenchidos e referentes ao ano anterior, os boletins cujos modelos serão aprovados por despacho do director-geral de Energia."
+  },
+  "463e98a74ce0aed5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Pagamento e ano de incidência da taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamento e ano de incidência da taxa\n\nAs taxas de exploração de instalações dos 1.º e 2.º grupos, ou das suas ampliações, são devidas a partir do ano civil seguinte àquele em que se iniciou a exploração e pagas anualmente pelas entidades exploradoras."
+  },
+  "4eb18eb66de97a3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Transmissão de instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Transmissão de instalações\n\n1 - No caso de transmissão, por qualquer título, da exploração de uma instalação dos 1.º e 2.º grupos, o transmitente é obrigado a comunicar o facto aos serviços competentes no prazo de 30 dias contados da data da transmissão, indicando o nome, firma ou denominação social do transmissário, bem como a sua morada ou sede.\n\n2 - O transmissário deverá, no prazo de 60 dias contados da data da transmissão, proceder à legalização da exploração."
+  },
+  "c6cfa26c1038b95b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Desmontagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Desmontagem\n\n1 - A desmontagem de instalações do 1.º grupo só pode fazer-se mediante autorização concedida pelos serviços competentes.\n\n2 - A desmontagem de instalações do 2.º grupo não carece de autorização prévia, devendo, contudo, ser comunicada aos serviços competentes logo que concluída."
+  },
+  "1e5802c4fa6e3c52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Selagem de instalações dos 1.º e 2.º grupos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Selagem de instalações dos 1.º e 2.º grupos\n\n1 - Se em qualquer instalação de produção ou transformação a totalidade ou parte das máquinas eléctricas não funcionar e não convier desmontá-las, não será contada a potência dessas máquinas para efeito do cálculo da taxa de exploração, desde que a entidade exploradora requeira a sua selagem aos serviços competentes.\n\n2 - A selagem não deverá impedir o movimento das máquinas rotativas para efeito de limpeza ou conservação."
+  },
+  "a4cfc9a15b24673d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Cessação do pagamento da taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cessação do pagamento da taxa\n\nA cessação do pagamento da taxa de exploração ou a sua redução por efeito das comunicações ou requerimentos referidos nos artigos 14.º e 15.º só se verificará no ano civil seguinte àquele em que forem apresentados."
+  },
+  "4b56667bfcb9d9c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Desselagem das instalações dos 1.º e 2.º grupos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Desselagem das instalações dos 1.º e 2.º grupos\n\n1 - Sempre que a entidade exploradora necessite utilizar uma máquina selada, poderá quebrar os selos, dando do facto conhecimento, no prazo de três dias, aos serviços competentes.\n\n2 - A quebra dos selos de uma máquina dará lugar a que, para efeito do cálculo da taxa de exploração, se considere em funcionamento durante todo o ano, qualquer que seja o período de tempo em que funcione."
+  },
+  "fb87f7c4825c7e67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Delegação da cobrança de taxas das instalações do 2.º grupo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Delegação da cobrança de taxas das instalações do 2.º grupo\n\n1 - Por portaria do Ministro da Indústria e Energia poderá ser delegada nos distribuidores licenciados ao abrigo do [Decreto-Lei n.º 99/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1991-468022), de 3 de Março, a cobrança de taxas de exploração das instalações eléctricas do 2.º grupo.\n\n2 - As taxas cobradas por delegação, nos termos do número anterior, serão entregues nos serviços competentes, com dedução de 5%, que constitui receita do distribuidor."
+  },
+  "9eae975b21b6230f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Taxas das instalações do 3.º grupo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Taxas das instalações do 3.º grupo\n\nA taxa de exploração das instalações do 3.º grupo é devida pelos utilizadores e o seu valor será fixado por portaria do Ministro da Indústria e Energia."
+  },
+  "e89e46686cdd17d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Remessa de boletins das instalações do 3.º grupo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Remessa de boletins das instalações do 3.º grupo\n\nOs distribuidores de energia eléctrica em baixa tensão enviarão à Direcção-Geral de Energia, por cada município e até ao dia 15 de cada mês, o boletim de modelo a aprovar por despacho do director-geral de Energia, devidamente preenchido e referente à facturação do penúltimo mês."
+  },
+  "a9f252b7e75af11a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Registo de instalações do 3.º grupo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Registo de instalações do 3.º grupo\n\n1 - Os distribuidores deverão ter permanentemente actualizado um registo para consulta, com indicação, nomeadamente, do nome do utilizador, local da instalação e datas de início e fim da facturação.\n\n2 - A ligação das instalações provisórias, bem como as isenções, deverão ser devidamente anotadas no registo referido no número anterior."
+  },
+  "8af254d4f6d0990a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Cobrança de taxas das instalações do 3.º grupo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Cobrança de taxas das instalações do 3.º grupo\n\n1 - A cobrança das taxas de exploração de instalações eléctricas do 3.º grupo será feita por intermédio dos distribuidores, os quais deverão incluir nos recibos a rubrica «Taxas de exploração».\n\n2 - Os distribuidores são responsáveis perante o Estado pelo pagamento das taxas de exploração, quando não procedam para com os utilizadores que se neguem a satisfazê-las, de acordo com o que a legislação estabelece para a falta de pagamento da energia eléctrica."
+  },
+  "977d4b1d4f8f2afc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Emissão de guias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Emissão de guias\n\nAté ao final de cada mês, os serviços competentes procederão à emissão dos recibos referentes às taxas arrecadadas pelos distribuidores com a dedução de 5%, que constitui receita destes."
+  },
+  "f476cda1c2d9d9ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Taxas diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Taxas diversas"
+  },
+  "b9a646a3fa2d7ed0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Âmbito e valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Âmbito e valores\n\n1 - As taxas diversas são devidas por serviços prestados nos seguintes casos:\n\na) Apreciação do projecto de instalações eléctricas de abastecimento público que não carecem de licença de estabelecimento;\n\nb) Vistoria de instalações eléctricas de serviço particular que não carecem de licença de estabelecimento;\n\nc) Revistoria para verificação de cláusulas impostas;\n\nd) Aprovação de projectos de instalações eléctricas tipo ou elementos tipo de instalações eléctricas.\n\n2 - As taxas de revistoria referidas na alínea c) do número anterior, quando sejam cobradas no âmbito da administração central, constituem receita do serviço competente."
+  },
+  "1eb5db3ba57f5068": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Pagamento\n\n1 - O pagamento da taxa prevista na alínea a) do n.º 1 do artigo anterior é devido com a apresentação do projecto devidamente instruído.\n\n2 - O pagamento das taxas correspondentes a vistorias ou revistorias previstas nas alíneas b) e c) do n.º 1 do artigo anterior é devido com a apresentação do requerimento de vistoria ou antes de expirar o prazo das cláusulas impostas.\n\n3 - O pagamento da taxa prevista na alínea d) do n.º 1 do artigo anterior é devido com a apresentação do projecto devidamente instruído."
+  },
+  "4c0bca1f4883efa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Sanções"
+  },
+  "0ea6ed8296903536": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Contra-ordenações\n\n1 - Constituem contra-ordenação punível com coima:\n\na) De 10000$00 a 50000$00, a falta da comunicação prevista no artigo 13.º;\n\nb) De 10000$00 a 50000$00, a falta dos registos permanentes actualizados nos termos do artigo 21.º;\n\nc) De 10000$00 a 60000$00, o não envio dos boletins referidos nos artigos 11.º e 20.º;\n\nd) De 10000$00 a 70000$00, a falta de participação prevista no artigo 17.º;\n\ne) De 10000$00 a 100000$00, a desmontagem de uma instalação do 1.º grupo com infracção do disposto no artigo 14.º;\n\nf) De 50000$00 a 500000$00, o preenchimento errado dos boletins previstos nos artigos 11.º e 20.º com prejuízos para o Estado.\n\n2 - A negligência e a tentativa são puníveis.\n\n3 - Simultaneamente com a coima e a título de sanção acessória poderá ser ordenada a suspensão do fornecimento de energia, que se manterá enquanto não for reparada a situação que lhe deu origem."
+  },
+  "57c37b30b62baf8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Tramitação e julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Tramitação e julgamento\n\n1 - A instrução dos processos de contra-ordenação é feita pelas delegações regionais do Ministério da Indústria e Energia e pela Direcção-Geral de Energia, no quadro das competências próprias de cada um destes serviços, competindo aos respectivos directores regionais ou ao director-geral de Energia a aplicação das coimas e sanções acessórias.\n\n2 - O produto da aplicação das coimas constitui receita:\n\na) Em 60% do Estado;\n\nb) Em 40% dos serviços que procederam à instrução do processo.\n\n3 - Nas Regiões Autónomas, os processos de contra-ordenação são instruídos e decididos pelos órgãos e serviços competentes das respectivas administrações regionais, constituindo receita da Região o produto da aplicação das coimas."
+  },
+  "762066818a328d43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Forma de pagamento",
+   "in_force_from": "2009-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.",
+    "Alterado pelo/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22."
+   ],
+   "markdown": "###### Artigo 5.º — Forma de pagamento\n\n1 - As taxas são pagas, no prazo de 30 dias, mediante documento a emitir pelas entidades competentes, privilegiando o pagamento através de meios electrónicos, nomeadamente através de terminal Multibanco, de sistema de homebanking na Internet.\n\n2 - As taxas previstas no presente decreto-lei, quando sejam cobradas no âmbito da administração central, constituem receita, na sua totalidade, das entidades competentes.\n\n3 - (Revogado.)\n\n4 - A cobrança coerciva das dívidas provenientes da falta de pagamento das taxas faz-se pelo processo de execução fiscal, servindo de título executivo a certidão passada pela entidade que prestar os serviços.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.\n\n> Alterado pelo/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22."
+  },
+  "9b006ff8ad5f4576": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Âmbito e valores",
+   "in_force_from": "2009-09-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.",
+    "Alterado pelo/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22."
+   ],
+   "markdown": "###### Artigo 24.º — Âmbito e valores\n\n1 - As taxas diversas são devidas por serviços prestados nos seguintes casos:\n\na) Apreciação do projecto de instalações eléctricas de abastecimento público que não carecem de licença de estabelecimento;\n\nb) Vistoria de instalações eléctricas de serviço particular que não carecem de licença de estabelecimento;\n\nc) Revistoria para verificação de cláusulas impostas;\n\nd) Aprovação de projectos de instalações eléctricas tipo ou elementos tipo de instalações eléctricas.\n\ne) Apreciação de projecto de instalações eléctricas de serviço particular;\n\nf) Averbamentos e emissão de segunda via de licenças;\n\ng) Transferência de titularidade de licenças.\n\n2 - (Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.\n\n> Alterado pelo/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22."
+  },
+  "6d1d634503bb2bd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Contra-ordenações",
+   "in_force_from": "2009-09-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22."
+   ],
+   "markdown": "###### Artigo 26.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de (euro) 100 a (euro) 1000, no caso de pessoas singulares, e de (euro) 500 a (euro) 5000, no caso de pessoas colectivas:\n\na) A falta de comunicação prevista no artigo 13.º;\n\nb) A falta dos registos permanentes actualizados nos termos do artigo 21.º;\n\nc) O não envio dos boletins referidos nos artigos 11.º e 20.º;\n\nd) A falta de participação prevista no artigo 17.º;\n\ne) A desmontagem de uma instalação do 1.º grupo com infracção do disposto no artigo 14.º;\n\nf) O preenchimento errado dos boletins previstos nos artigos 11.º e 20.º com prejuízos para o Estado.\n\n2 - A negligência e a tentativa são puníveis, sendo os limites mínimos e máximos das coimas aplicáveis reduzidos a metade.\n\n3 - Simultaneamente com a coima e a título de sanção acessória poderá ser ordenada a suspensão do fornecimento de energia, que se manterá enquanto não for reparada a situação que lhe deu origem.\n\n> Alterado pelo/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22."
+  }
+ }
+}

@@ -28,10 +28,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-06-18'
+version_history:
+  file: despacho-normativo-31-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-08-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-06-18'
+    amending: pt:dre:3620231:por
+    amending_title: Despacho Normativo n.º 16/2010
+    changes:
+    - Altera Artigo ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::9.º
+    - Altera Artigo ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::10.º
+    - Altera Artigo ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::16.º
+    - Altera Artigo ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::19.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:07:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 16/2010. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2009/despacho-normativo-31-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -262,19 +280,25 @@ d) Taxa máxima de juro de mora: taxa máxima aplicada pelo Turismo de Portugal,
 
 2 - O prazo de carência de capital integra-se no prazo máximo de reembolso.
 
-3 - A taxa de cobertura dos investimentos por capital próprio não deve ser inferior a 10 %.
+3 - A taxa de cobertura dos investimentos por capital próprio não pode ser inferior a 10 %, salvo, por razões devidamente justificadas e autorizadas pelo membro do Governo responsável pela área do turismo, no caso de projectos desenvolvidos pelas entidades a que se refere a alínea a) do artigo 4.º do presente Regulamento.
 
-4 - Por motivos devidamente fundamentados e desde que as características dos respectivos projectos o justifiquem, pode o membro do Governo responsável pela área do turismo autorizar que os financiamentos a conceder excedam os prazos máximos a que se referem as alíneas a) e b) do n.º 1.
+4 - Por motivos devidamente fundamentados e desde que as características dos respectivos projectos o justifiquem, pode o membro do Governo responsável pela área do turismo autorizar que os financiamentos a conceder excedam, no máximo, em um terço os prazos máximos a que se referem as alíneas a) e b) do n.º 1 do presente artigo.
 
-5 - O reembolso dos financiamentos é assegurado por garantia bancária ou hipoteca, podendo o Turismo de Portugal, I. P., fundamentadamente, aceitar outras garantias admitidas em direito.
+5 - Sem prejuízo do disposto no número seguinte, o reembolso dos financiamentos é assegurado por garantia bancária.
+
+6 - O Turismo de Portugal, I. P., pode, fundamentadamente, admitir a dispensa de prestação de garantia às entidades regionais de turismo.
+
+> Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18.
 
 ##### SUBSECÇÃO III — Procedimentos
 
 ###### Artigo 10.º — Candidaturas
 
-1 - As candidaturas são apresentadas a todo o tempo, em formulário electrónico disponível no sítio da internet do Turismo de Portugal, I. P.
+1 - As candidaturas podem efectuar-se a todo o tempo, através do formulário electrónico disponível no sítio www.turismodeportugal.pt.
 
-2 - Os processos de candidatura são instruídos com os seguintes elementos:
+2 - Por despacho do membro do Governo responsável pela área do turismo, e no âmbito do presente Regulamento, podem ser criados programas de apoio ou concursos específicos, com períodos de vigência, condições e dotações orçamentais próprias.
+
+3 - Os processos de candidatura são instruídos com os seguintes elementos:
 
 a) Projectos aprovados pelas entidades para tanto competentes, sempre que os investimentos a realizar os exijam;
 
@@ -286,9 +310,11 @@ d) Cronogramas dos investimentos e demonstração da sustentabilidade dos mesmos
 
 e) Comprovativos da regularidade das situações devedora e contributiva junto da administração fiscal e da segurança social.
 
-3 - O Turismo de Portugal, I. P., aprecia tecnicamente as candidaturas no prazo máximo de 30 dias úteis.
+4 - O Turismo de Portugal, I. P., aprecia tecnicamente as candidaturas no prazo máximo de 30 dias úteis.
 
-4 - O prazo referido no número anterior suspende-se sempre que o Turismo de Portugal, I. P., solicite esclarecimentos complementares, até à data da prestação destes.
+5 - O prazo referido no número anterior suspende-se sempre que o Turismo de Portugal, I. P., solicite esclarecimentos complementares, até à data da prestação destes.
+
+> Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18.
 
 ###### Artigo 11.º — Processo negocial e decisão final
 
@@ -356,7 +382,7 @@ c) Resolução por mútuo acordo dos contratos a que se refere a alínea anterio
 
 ###### Artigo 16.º — Prazos máximos de reembolso
 
-1 - Os prazos máximos a acordar para o reembolso dos financiamentos total ou parcialmente reembolsáveis não pode exceder o menor de dois limites:
+1 - Sem prejuízo do disposto no artigo 19.º, os prazos máximos a acordar para o reembolso dos financiamentos total ou parcialmente reembolsáveis não pode exceder o menor de dois limites:
 
 a) Cinco anos;
 
@@ -369,6 +395,8 @@ b) O termo final do prazo para a amortização dos financiamentos caso os corres
 4 - Os prazos máximos definidos nos n.os 1 e 2 podem ser excepcionalmente alargados sempre que as entidades devedoras demonstrem incapacidade financeira para efectuar o reembolso integral das dívidas nos prazos aí definidos.
 
 5 - Sempre que as obrigações das entidades devedoras estejam assistidas por garantias especiais de reembolso, o alargamento de prazos a que se refere o número anterior não pode prejudicar a manutenção e a consistência de tais garantias especiais.
+
+> Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18.
 
 ###### Artigo 17.º — Juros de capital
 
@@ -394,7 +422,9 @@ Taxa mínima: 50 % da EURIBOR.
 
 1 - O Turismo de Portugal, I. P., pode consentir o diferimento do pagamento de prestações dos planos acordados vencidas e não pagas.
 
-2 - As prestações cujo pagamento é diferido nos termos do número anterior vencem juros remuneratórios.
+2 - As prestações cujo pagamento é diferido nos termos do número anterior podem vencer juros remuneratórios ou moratórios.
+
+> Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18.
 
 ###### Artigo 20.º — Renegociação de acordos de recuperação de crédito
 

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-08-26'
+version_history:
+  file: decreto-48708.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-11-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-08-26'
+    amending: pt:dre:198685:por
+    amending_title: Decreto n.º 49208
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:04:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 49208. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1968/decreto-48708.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -101,13 +116,17 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo único. É alterada da seguinte forma a distribuição de encargos fixada no artigo 2.º do [Decreto n.º 47582](https://diariodarepublica.pt/dr/detalhe/decreto/47582-1967-503626), de 9 de Março de 1967:
+###### Artigo único
 
-1968 ... 112777$80
+É alterada da seguinte forma a distribuição de encargos fixada no artigo 2.º do [Decreto n.º 47582](https://diariodarepublica.pt/dr/detalhe/decreto/47582-1967-503626), de 9 de Março de 1967:
 
-1969 ... 387222$20
+1969 ... 166666$60
 
-§ único. A importância fixada para o ano de 1969 será acrescida do saldo eventualmente apurado no ano anterior.
+1970 ... 333333$40
+
+§ único. A importância fixada para o ano de 1970 será acrescida do saldo eventualmente apurado no ano anterior.
+
+> Alterado pelo/a [Decreto n.º 49208](https://diariodarepublica.pt/dr/detalhe/decreto/49208-1969-198685), publicado em 1969-08-26.
 
 Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 

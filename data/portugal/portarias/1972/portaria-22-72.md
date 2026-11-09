@@ -29,10 +29,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-07-14'
+version_history:
+  file: portaria-22-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-01-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-07-14'
+    amending: pt:dre:381170:por
+    amending_title: Portaria n.º 306/79
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 35.º
+    - Altera Artigo 39.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:44:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 306/79. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1972/portaria-22-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,17 +135,25 @@ REGULAMENTO DOS PROCESSOS RELATIVOS A ACIDENTES COM VIATURAS AUTOMÓVEIS DA ARMA
 
 ### CAPÍTULO I — Disposições gerais
 
-Artigo 1.º - 1. Todo o acidente de viação ocorrido com viaturas da Armada dará lugar a processo disciplinar ou a processo criminal quando nas circunstâncias previstas no artigo 23.º deste Regulamento.
+###### Artigo 1.º
+
+1. Todo o acidente de viação ocorrido com viaturas da Armada dará lugar a processo disciplinar ou a processo criminal quando nas circunstâncias previstas no artigo 23.º deste Regulamento.
 
 2. Quando do acidente resultarem danos nas viaturas intervenientes, instaurar-se-á ainda processo administrativo.
 
 3. Poderá também haver lugar a processo por desastre em serviço, nos termos da regulamentação própria.
 
-Art. 2.º As infracções às normas reguladoras da utilização das viaturas da Armada darão também origem a processo disciplinar se não tiverem natureza criminal.
+###### Artigo 2.º
 
-Art. 3.º Para os efeitos do presente Regulamento, considera-se acidente de viação todo o facto danoso proveniente de culpa do condutor ou dos riscos próprios da condução, mesmo que a viatura da Armada não se encontre em circulação ou que a circulação se faça em locais que não sejam vias públicas.
+As infracções às normas reguladoras da utilização das viaturas da Armada darão também origem a processo disciplinar se não tiverem natureza criminal.
 
-Art. 4.º - 1. Entende-se por condução abusiva de viaturas militares:
+###### Artigo 3.º
+
+Para os efeitos do presente Regulamento, considera-se acidente de viação todo o facto danoso proveniente de culpa do condutor ou dos riscos próprios da condução, mesmo que a viatura da Armada não se encontre em circulação ou que a circulação se faça em locais que não sejam vias públicas.
+
+###### Artigo 4.º
+
+1. Entende-se por condução abusiva de viaturas militares:
 
 a) A utilização para fins estranhos ao serviço;
 
@@ -135,7 +161,9 @@ b) A condução por quem não seja o condutor para o efeito designado.
 
 2. Não é considerada abusiva a condução que, embora realizada em qualquer das circunstâncias previstas no número anterior, se efectue em cumprimento de ordem superior, de imperativo legal ou em estado de necessidade.
 
-Art. 5.º - 1. Sem prejuízo de qualquer acção fiscalizadora específica, todo o militar ao qual assista pelo Regulamento de Disciplina Militar ou Código de Justiça Militar o dever de participação incorrerá em responsabilidade disciplinar se tomar conhecimento de acidente de viação com viaturas da Armada, ou verificar que alguma circula em contravenção das disposições regulamentares, e não o comunicar superiormente.
+###### Artigo 5.º
+
+1. Sem prejuízo de qualquer acção fiscalizadora específica, todo o militar ao qual assista pelo Regulamento de Disciplina Militar ou Código de Justiça Militar o dever de participação incorrerá em responsabilidade disciplinar se tomar conhecimento de acidente de viação com viaturas da Armada, ou verificar que alguma circula em contravenção das disposições regulamentares, e não o comunicar superiormente.
 
 2. Igual dever impende sobre todo o militar que tome conhecimento de acidente de viação com viaturas civis ou verificar que alguma circula em contravenção das disposições regulamentares, desde que tais factos ocorram dentro da área de jurisdição do Ministério da Marinha.
 
@@ -143,13 +171,19 @@ Art. 5.º - 1. Sem prejuízo de qualquer acção fiscalizadora específica, todo
 
 #### SECÇÃO I — Objecto do processo e competência para a instrução
 
-Art. 6.º O processo disciplinar tem por fim o apuramento da responsabilidade do arguido ou arguidos em face do dever de respeito, quer pelas regras de trânsito, quer pelas normas reguladoras da utilização das viaturas da Armada, e ainda o apuramento de responsabilidade pelos danos patrimoniais causados.
+###### Artigo 6.º
 
-Art. 7.º A competência para a instrução dos processos disciplinares fixa-se no momento em que ocorreu o facto a investigar e é atribuída apenas aos militares que detenham poderes de chefia, direcção ou comando relativamente aos subordinados a punir.
+O processo disciplinar tem por fim o apuramento da responsabilidade do arguido ou arguidos em face do dever de respeito, quer pelas regras de trânsito, quer pelas normas reguladoras da utilização das viaturas da Armada, e ainda o apuramento de responsabilidade pelos danos patrimoniais causados.
+
+###### Artigo 7.º
+
+A competência para a instrução dos processos disciplinares fixa-se no momento em que ocorreu o facto a investigar e é atribuída apenas aos militares que detenham poderes de chefia, direcção ou comando relativamente aos subordinados a punir.
 
 #### SECÇÃO II — Organização do processo e prazos para a sua conclusão
 
-Art. 8.º Dos processos disciplinares por acidente de viação deverá constar:
+###### Artigo 8.º
+
+Dos processos disciplinares por acidente de viação deverá constar:
 
 a) A participação do facto que lhes dá origem;
 
@@ -175,7 +209,9 @@ l) As cópias do boletim de serviço da viatura e da carta de condução do argu
 
 m) O relatório do oficial averiguante, com a descrição sumária e clara da ocorrência e conclusões sobre a responsabilidade ou irresponsabilidade do arguido, indicando-se os factos não comprovados e as circunstâncias agravantes e atenuantes.
 
-Art. 9.º - 1. O exame de reconstituição do acidente será levado a efeito tanto quanto possível em seguida à verificação da ocorrência e, de qualquer modo, no prazo máximo de dez dias, a contar da data de entrada da participação na unidade competente, por dois peritos militares, ambos oficiais ou sargentos, ou, na sua falta, por dois peritos civis de reconhecida idoneidade.
+###### Artigo 9.º
+
+1. O exame de reconstituição do acidente será levado a efeito tanto quanto possível em seguida à verificação da ocorrência e, de qualquer modo, no prazo máximo de dez dias, a contar da data de entrada da participação na unidade competente, por dois peritos militares, ambos oficiais ou sargentos, ou, na sua falta, por dois peritos civis de reconhecida idoneidade.
 
 2. No relatório da reconstituição do acidente devem ser descritas as condições do local e do tempo na altura do acidente e da respectiva reconstituição e as posições relativas dos veículos intervenientes e relatadas pormenorizadamente as causas que lhe terão dado origem, bem como as conclusões sobre a culpabilidade.
 
@@ -183,9 +219,13 @@ Art. 9.º - 1. O exame de reconstituição do acidente será levado a efeito tan
 
 4. À reconstituição do acidente assistirão sempre o participante, os arguidos, os declarantes e as testemunhas, salvo impedimento devidamente justificado.
 
-Art. 10.º O exame de reconstituição do acidente tem carácter obrigatório, só podendo ser dispensado em caso de emergência ou impossibilidade devidamente comprovadas.
+###### Artigo 10.º
 
-Art. 11.º - 1. Desde que se torne necessário efectuar a avaliação dos danos sofridos por veículos civis, o respectivo exame pericial deverá ser feito pelos peritos militares e por um perito civil, a requisitar pelo oficial averiguante à companhia seguradora ou ao proprietário do veículo, conforme este estiver ou não seguro.
+O exame de reconstituição do acidente tem carácter obrigatório, só podendo ser dispensado em caso de emergência ou impossibilidade devidamente comprovadas.
+
+###### Artigo 11.º
+
+1. Desde que se torne necessário efectuar a avaliação dos danos sofridos por veículos civis, o respectivo exame pericial deverá ser feito pelos peritos militares e por um perito civil, a requisitar pelo oficial averiguante à companhia seguradora ou ao proprietário do veículo, conforme este estiver ou não seguro.
 
 2. O oficial averiguante deve providenciar para que se proceda a esta peritagem no prazo máximo de oito dias, a contar da data da entrada da participação na unidade competente, bem como informar a companhia seguradora ou o proprietário do veículo da conveniência de, entretanto, não procederem à sua reparação.
 
@@ -193,29 +233,47 @@ Art. 11.º - 1. Desde que se torne necessário efectuar a avaliação dos danos 
 
 4. Incorre em responsabilidade disciplinar o oficial averiguante que, por exceder injustificadamente aquele prazo ou não fazer a referida informação, causar prejuízos à Fazenda Nacional.
 
-Art. 12.º - 1. Se por motivo justificado a viatura civil tiver sido mandada reparar antes do exame pericial de que trata o artigo anterior, de modo a tornar impossível esse exame, o oficial averiguante solicitará ao proprietário do veículo ou à respectiva companhia seguradora as facturas comprovativas da sua reparação.
+###### Artigo 12.º
+
+1. Se por motivo justificado a viatura civil tiver sido mandada reparar antes do exame pericial de que trata o artigo anterior, de modo a tornar impossível esse exame, o oficial averiguante solicitará ao proprietário do veículo ou à respectiva companhia seguradora as facturas comprovativas da sua reparação.
 
 2. Estas facturas serão submetidas à apreciação dos peritos militares para que estes se pronunciem sobre a veracidade dos danos nelas descritos em face das circunstâncias em que o acidente ocorreu.
 
-Art. 13.º Os peritos e as testemunhas serão ajuramentados nos termos legais, sob pena de nulidade dos respectivos actos.
+###### Artigo 13.º
 
-Art. 14.º Salvo caso de força maior, o processo deverá estar concluído no prazo de quarenta e cinco dias após a data do acidente.
+Os peritos e as testemunhas serão ajuramentados nos termos legais, sob pena de nulidade dos respectivos actos.
 
-Art. 15.º - 1. Incorre em responsabilidade disciplinar o oficial instrutor do processo que sem devida justificação exceder o prazo estabelecido no artigo anterior ou no n.º 1 do artigo 9.º
+###### Artigo 14.º
+
+Salvo caso de força maior, o processo deverá estar concluído no prazo de vinte dias após a data do acidente.
+
+> Alterado pelo/a [Portaria n.º 306/79](https://diariodarepublica.pt/dr/detalhe/portaria/306-1979-381170), publicado em 1979-06-29.
+
+###### Artigo 15.º
+
+1. Incorre em responsabilidade disciplinar o oficial instrutor do processo que sem devida justificação exceder o prazo estabelecido no artigo anterior ou no n.º 1 do artigo 9.º
 
 2. A Chefia do Serviço de Justiça do Ministério da Marinha fiscalizará o cumprimento daqueles prazos e, quando excedidos, apreciará os motivos alegados como justificação.
 
 #### SECÇÃO III — Decisão do processo e sua tramitação
 
-Art. 16.º O processo instaurado em conformidade com a secção II do presente Regulamento será enviado à Chefia do Serviço de Justiça para que se pronuncie acerca da sua elaboração.
+###### Artigo 16.º
 
-Art. 17.º Cumprido o disposto no número anterior, será o processo de novo presente à entidade que determinou a instrução, que decidirá em despacho conclusivo.
+O processo instaurado em conformidade com a secção II do presente Regulamento será enviado à Chefia do Serviço de Justiça para que, dentro do prazo de vinte dias, se pronuncie acerca da sua elaboração.
+
+> Alterado pelo/a [Portaria n.º 306/79](https://diariodarepublica.pt/dr/detalhe/portaria/306-1979-381170), publicado em 1979-06-29.
+
+###### Artigo 17.º
+
+Cumprido o disposto no número anterior, será o processo de novo presente à entidade que determinou a instrução, que decidirá em despacho conclusivo.
 
 #### SECÇÃO IV — Disposições diversas
 
 ##### SUBSECÇÃO I — Responsabilidade disciplinar do militar de maior posto ou antiguidade que seguir na viatura
 
-Art. 18.º - 1. Quando numa viatura da Armada seguir militar de maior posto ou antiguidade do que o condutor ou, sendo este civil, militar de posto igual ou superior a segundo-sargento, assumirá ele a chefia da viatura, ficando responsável pela disciplina do pessoal transportado e, bem assim, pelo cumprimento das ordens recebidas ou das disposições em vigor sobre a circulação de viaturas da Armada.
+###### Artigo 18.º
+
+1. Quando numa viatura da Armada seguir militar de maior posto ou antiguidade do que o condutor ou, sendo este civil, militar de posto igual ou superior a segundo-sargento, assumirá ele a chefia da viatura, ficando responsável pela disciplina do pessoal transportado e, bem assim, pelo cumprimento das ordens recebidas ou das disposições em vigor sobre a circulação de viaturas da Armada.
 
 2. Em caso de acidente devido a excesso de velocidade, aquele militar só será disciplinarmente responsável quando forem ultrapassados os limites máximos para a circulação de viaturas da Armada.
 
@@ -223,17 +281,25 @@ Art. 18.º - 1. Quando numa viatura da Armada seguir militar de maior posto ou a
 
 ##### SUBSECÇÃO II — Responsabilidade disciplinar dos instrutores, instruendos e examinandos
 
-Art. 19.º Os instrutores de condução são disciplinarmente responsáveis pelos acidentes e infracções causados pelos instruendos, excepto quando resultantes de desobediência intencional às indicações de instrução ou, sendo esta ministrada em viaturas de comando simples, quando lhes for impossível intervir de modo a evitar o acidente ou a infracção.
+###### Artigo 19.º
 
-Art. 20.º Sem prejuízo do disposto no artigo 18.º, os examinandos respondem disciplinarmente pelos acidentes que causem durante o exame.
+Os instrutores de condução são disciplinarmente responsáveis pelos acidentes e infracções causados pelos instruendos, excepto quando resultantes de desobediência intencional às indicações de instrução ou, sendo esta ministrada em viaturas de comando simples, quando lhes for impossível intervir de modo a evitar o acidente ou a infracção.
+
+###### Artigo 20.º
+
+Sem prejuízo do disposto no artigo 18.º, os examinandos respondem disciplinarmente pelos acidentes que causem durante o exame.
 
 SUBSECÇAO III
 
 A atenuante do pagamento voluntário dos danos patrimoniais
 
-Art. 21.º A espontânea reparação dos danos patrimoniais resultantes de um acidente de viação constitui sempre circunstância atenuante no julgamento das infracções cometidas.
+###### Artigo 21.º
 
-Art. 22.º - 1. Para beneficiar da atenuante referida no artigo anterior, deverá o arguido, antes do julgamento disciplinar, constituir-se na obrigação de pagar, total ou parcialmente, os danos patrimoniais resultantes do acidente de viação.
+A espontânea reparação dos danos patrimoniais resultantes de um acidente de viação constitui sempre circunstância atenuante no julgamento das infracções cometidas.
+
+###### Artigo 22.º
+
+1. Para beneficiar da atenuante referida no artigo anterior, deverá o arguido, antes do julgamento disciplinar, constituir-se na obrigação de pagar, total ou parcialmente, os danos patrimoniais resultantes do acidente de viação.
 
 2. O pagamento voluntário entender-se-á realizado mediante depósito, efectuado no prazo de trinta dias, a contar da data em que foi assumida a obrigação de pagar, no conselho administrativo da unidade a que pertencer o arguido, do quantitativo apurado dos danos, salvo quando, a seu pedido, lhe seja admitido efectivá-lo através de descontos mensais, que, sempre que possível, deverão ser no valor mínimo de um sexto e no máximo de um terço do vencimento.
 
@@ -241,29 +307,41 @@ Art. 22.º - 1. Para beneficiar da atenuante referida no artigo anterior, dever�
 
 ### CAPÍTULO III — Do processo criminal
 
-Art. 23.º Haverá lugar a auto de corpo de delito nas circunstâncias seguintes:
+###### Artigo 23.º
+
+Haverá lugar a auto de corpo de delito nas circunstâncias seguintes:
 
 a) Quando do acidente de viação resultarem mortes ou ofensas corporais;
 
 b) No caso de condução abusiva, quando esta tenha natureza criminal.
 
-Art. 24.º Quando se apurar que das ofensas corporais não resulta um período de doença ou impossibilidade para o trabalho superior a dez dias, deverá ser perguntado aos ofendidos se desejam procedimento criminal contra o arguido, o que, em caso negativo, determinará apenas que seja instaurado processo disciplinar.
+###### Artigo 24.º
 
-Art. 25.º - 1. O exame directo aos sinistrados será levado a efeito por dois peritos médicos, cuja nomeação será superiormente solicitada pelo agente da polícia judiciária da Armada logo após o conhecimento do acidente.
+Quando se apurar que das ofensas corporais não resulta um período de doença ou impossibilidade para o trabalho superior a dez dias, deverá ser perguntado aos ofendidos se desejam procedimento criminal contra o arguido, o que, em caso negativo, determinará apenas que seja instaurado processo disciplinar.
+
+###### Artigo 25.º
+
+1. O exame directo aos sinistrados será levado a efeito por dois peritos médicos, cuja nomeação será superiormente solicitada pelo agente da polícia judiciária da Armada logo após o conhecimento do acidente.
 
 2. Na falta de peritos médicos da Armada na localidade onde se deve efectuar o exame, recorrer-se-á, de preferência, a peritos médicos do Exército ou da Força Aérea, e, na falta destes, a peritos civis, sendo a diligência deprecada, respectivamente no primeiro caso, ao comandante da unidade do Exército ou da Força Aérea, e, no segundo caso, ao delegado do procurador da República junto do tribunal da comarca a que pertencer a referida localidade.
 
 3. Em caso de manifesta impossibilidade, os exames médicos poderão ser levados a efeito por um só perito.
 
-Art. 26.º Os instrutores de condução figuram no auto de corpo de delito como autores morais dos crimes cometidos pelos instruendos sempre que não se verifique desobediência intencional destes.
+###### Artigo 26.º
 
-Art. 27.º Instaurado auto de corpo de delito, seguir-se-á, quanto à prisão preventiva, o disposto no Código de Justiça Militar, na parte aplicável, conjugado com o disposto no Código da Estrada.
+Os instrutores de condução figuram no auto de corpo de delito como autores morais dos crimes cometidos pelos instruendos sempre que não se verifique desobediência intencional destes.
+
+###### Artigo 27.º
+
+Instaurado auto de corpo de delito, seguir-se-á, quanto à prisão preventiva, o disposto no Código de Justiça Militar, na parte aplicável, conjugado com o disposto no Código da Estrada.
 
 ### CAPÍTULO IV — Do impedimento temporário de condução de viaturas da Armada e do cancelamento definitivo e privação temporária da carta militar de condução
 
 #### SECÇÃO I — Impedimento temporário de condução de viaturas da Armada
 
-Art. 28.º - 1. O condutor da viatura da Armada acidentada aguardará em liberdade a decisão do processo e será imediatamente impedido de conduzir viaturas da Armada pelo oficial instrutor do processo se desde logo se verificar uma das seguintes circunstâncias:
+###### Artigo 28.º
+
+1. O condutor da viatura da Armada acidentada aguardará em liberdade a decisão do processo e será imediatamente impedido de conduzir viaturas da Armada pelo oficial instrutor do processo se desde logo se verificar uma das seguintes circunstâncias:
 
 a) Culpa grave do condutor na produção do acidente;
 
@@ -273,9 +351,13 @@ b) Perigosidade no exercício da condução.
 
 #### SECÇÃO II — Cancelamento definitivo e privação temporária da carta militar de condução
 
-Art. 29.º Entende-se por carta militar de condução o certificado de condução para fins militares e o boletim de condução de veículos automóveis a que se refere o [Decreto-Lei n.º 44949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44949-1963-195588), de 30 de Março de 1963.
+###### Artigo 29.º
 
-Art. 30.º A carta militar de condução poderá ser definitivamente cancelada quando:
+Entende-se por carta militar de condução o certificado de condução para fins militares e o boletim de condução de veículos automóveis a que se refere o [Decreto-Lei n.º 44949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44949-1963-195588), de 30 de Março de 1963.
+
+###### Artigo 30.º
+
+A carta militar de condução poderá ser definitivamente cancelada quando:
 
 a) O condutor tiver sofrido punições disciplinares relacionadas com a sua actividade de condução que, por si ou suas equivalências, perfaçam quarenta ou mais dias de detenção;
 
@@ -283,13 +365,17 @@ b) Por qualquer circunstância se prove que o condutor se acha diminuído por fo
 
 c) O condutor tenha dado origem a um acidente de viação com viatura militar agindo com culpa grave, a qual supõe, como causa do acidente, a embriaguez completa ou incompleta, não imprevista, do condutor ou o excesso de velocidade.
 
-Art. 31.º A privação temporária da carta militar de condução poderá ter lugar quando:
+###### Artigo 31.º
+
+A privação temporária da carta militar de condução poderá ter lugar quando:
 
 a) Existam circunstâncias que atenuem a responsabilidade do condutor no acidente de viação ou na transgressão das normas reguladoras da utilização das viaturas;
 
 b) Se prove que o condutor se acha diminuído temporàriamente na sua aptidão psico-física para o desempenho das suas funções.
 
-Art. 32.º - 1. Sempre que na instrução de um processo disciplinar se verifique alguma ou algumas das circunstâncias referidas nos dois artigos anteriores, deverão os processos ser enviados à Chefia do Serviço de Justiça acompanhados de:
+###### Artigo 32.º
+
+1. Sempre que na instrução de um processo disciplinar se verifique alguma ou algumas das circunstâncias referidas nos dois artigos anteriores, deverão os processos ser enviados à Chefia do Serviço de Justiça acompanhados de:
 
 a) Nota de assentamentos do condutor;
 
@@ -299,15 +385,23 @@ c) Proposta do comandante, director ou chefe da unidade ou serviço, da qual dev
 
 2. Nos casos em que não tenha havido lugar a instauração de qualquer processo, mas se verifiquem circunstâncias que justifiquem a privação da carta de condução, deverá ser organizado, especialmente para o efeito, processo, do qual deverão constar as peças discriminadas, no número anterior.
 
-Art. 33.º É da competência do superintendente dos Serviços do Pessoal da Armada, por delegação do chefe do Estado-Maior da Armada, a aplicação do cancelamento definitivo ou da privação temporária da carta militar de condução a todos os militares da Armada na efectividade do serviço ou em qualquer situação, desde que pertencentes ao quadro permanente, quando não seja da competência dos tribunais militares.
+###### Artigo 33.º
+
+É da competência do superintendente dos Serviços do Pessoal da Armada, por delegação do chefe do Estado-Maior da Armada, a aplicação do cancelamento definitivo ou da privação temporária da carta militar de condução a todos os militares da Armada na efectividade do serviço ou em qualquer situação, desde que pertencentes ao quadro permanente, quando não seja da competência dos tribunais militares.
 
 ### CAPÍTULO V — Do processo administrativo por danos
 
 #### SECÇÃO I — Objecto do processo
 
-Art. 34.º Sempre que de um acidente de viação com viaturas da Armada resultem danos, terá lugar um processo autónomo com vista ao apuramento exacto dos danos sofridos e à decisão quanto às reparações a efectuar, viaturas a abater e indemnizações a satisfazer.
+###### Artigo 34.º
 
-Art. 35.º A organização do processo ficará a cargo do mesmo oficial que for nomeado para instruir o processo disciplinar e criminal.
+Sempre que de um acidente de viação com viaturas da Armada resultem danos, terá lugar um processo autónomo com vista ao apuramento exacto dos danos sofridos e à decisão quanto às reparações a efectuar, viaturas a abater e indemnizações a satisfazer.
+
+###### Artigo 35.º
+
+A organização do processo ficará a cargo do oficial que for nomeado para instruir o processo disciplinar, com observância do mesmo prazo estabelecido no n.º 14.º
+
+> Alterado pelo/a [Portaria n.º 306/79](https://diariodarepublica.pt/dr/detalhe/portaria/306-1979-381170), publicado em 1979-06-29.
 
 #### SECÇÃO II — Organização e decisão do processo quando no acidente apenas intervenham viaturas da Armada
 
@@ -315,7 +409,9 @@ SUBSECÇAO I
 
 Organização do processo
 
-Art. 36.º Este processo será constituído por:
+###### Artigo 36.º
+
+Este processo será constituído por:
 
 a) Descrição sumária do acidente, feita pelo oficial instrutor e baseada nos factos averiguados, no caso de ter havido lugar a processo criminal; ou cópia do relatório do oficial averiguante a que se refere a alínea m) do artigo 8.º, no caso de o acidente ter originado processo disciplinar;
 
@@ -327,17 +423,29 @@ d) Orçamento de casa civil especializada, no caso em que a reparação não pos
 
 e) Duplicado ou cópia autenticada do documento comprovativo do depósito efectuado nos termos do n.º 2 do artigo 22.º, quando o arguido se tenha responsabilizado pelos danos causados.
 
-Art. 37.º No relatório pericial a que se refere a alínea b) do artigo anterior, os peritos deverão cingir-se, exclusivamente, aos danos causados pelo acidente, discriminando o valor atribuído aos materiais inutilizados e ao custo da mão-de-obra a empregar na reparação da viatura.
+###### Artigo 37.º
 
-Art. 38.º As declarações a que se refere a alínea c) do artigo 36.º poderão ser exaradas por simples termo no processo.
+No relatório pericial a que se refere a alínea b) do artigo anterior, os peritos deverão cingir-se, exclusivamente, aos danos causados pelo acidente, discriminando o valor atribuído aos materiais inutilizados e ao custo da mão-de-obra a empregar na reparação da viatura.
+
+###### Artigo 38.º
+
+As declarações a que se refere a alínea c) do artigo 36.º poderão ser exaradas por simples termo no processo.
 
 ##### SUBSECÇÃO II — Decisão do processo e sua tramitação
 
-Art. 39.º O processo assim instaurado será enviado à Chefia do Serviço de Justiça para que se pronuncie acerca da sua elaboração.
+###### Artigo 39.º
 
-Art. 40.º Cumprido o disposto no artigo anterior, será o processo remetido ao chefe, director ou comandante do organismo a que pertencer a viatura, que decidirá a reparação ou proporá o abate da viatura à Superintendência dos Serviços do Material, nos termos do artigo 41.º
+O processo assim instaurado será enviado à Chefia do Serviço de Justiça para que, dentro do mesmo prazo estabelecido no n.º 16.º, se pronuncie acerca da sua elaboração.
 
-Art. 41.º É da competência do superintendente dos Serviços do Material o abate das viaturas acidentadas.
+> Alterado pelo/a [Portaria n.º 306/79](https://diariodarepublica.pt/dr/detalhe/portaria/306-1979-381170), publicado em 1979-06-29.
+
+###### Artigo 40.º
+
+Cumprido o disposto no artigo anterior, será o processo remetido ao chefe, director ou comandante do organismo a que pertencer a viatura, que decidirá a reparação ou proporá o abate da viatura à Superintendência dos Serviços do Material, nos termos do artigo 41.º
+
+###### Artigo 41.º
+
+É da competência do superintendente dos Serviços do Material o abate das viaturas acidentadas.
 
 #### SECÇÃO III
 
@@ -345,7 +453,9 @@ Organização e decisão do processo quando no acidente intervenham viaturas ou 
 
 ##### SUBSECÇÃO I — Organização do processo
 
-Art. 42.º O processo será organizado nos termos do artigo 36.º, com as seguintes alterações:
+###### Artigo 42.º
+
+O processo será organizado nos termos do artigo 36.º, com as seguintes alterações:
 
 a) Para a avaliação dos danos sofridos pela viatura da Armada e pela viatura civil será pedida a assistência do proprietário desta ou perito por ele nomeado ou pela companhia seguradora, o mesmo valendo em relação a qualquer outro agente causador ou interveniente no acidente, desde que estranho ao Ministério da Marinha;
 
@@ -353,16 +463,26 @@ b) Serão tomadas declarações ao proprietário da viatura civil ou à companhi
 
 ##### SUBSECÇÃO II — Decisão do processo e sua tramitação
 
-Art. 43.º O processo assim organizado seguirá a mesma tramitação estabelecida nos artigos 39.º e seguintes, devendo, todavia, a Chefia do Serviço de Justiça na sua informação ter também em conta o disposto no artigo 44.º
+###### Artigo 43.º
 
-Art. 44.º A autorização da verba para a reparação das viaturas civis ou de outros quaisquer danos causados a terceiros será obtida após parecer da Chefia do Serviço de Justiça, que apreciará a responsabilidade civil emergente de todo o acidente em que intervenham viaturas ou elementos estranhos ao Ministério da Marinha.
+O processo assim organizado seguirá a mesma tramitação estabelecida nos artigos 39.º e seguintes, devendo, todavia, a Chefia do Serviço de Justiça na sua informação ter também em conta o disposto no artigo 44.º
+
+###### Artigo 44.º
+
+A autorização da verba para a reparação das viaturas civis ou de outros quaisquer danos causados a terceiros será obtida após parecer da Chefia do Serviço de Justiça, que apreciará a responsabilidade civil emergente de todo o acidente em que intervenham viaturas ou elementos estranhos ao Ministério da Marinha.
 
 ### CAPÍTULO VI — Disposições finais
 
-Art. 45.º Sempre que de um acidente de viação resultem danos para o Estado e se prove caber a responsabilidade a elementos estranhos ao Ministério da Marinha, será o processo, depois de concluído, enviado ao tribunal competente se o responsável, ou seu representante, não cobrir voluntàriamente os danos, a fim de que o Estado seja indemnizado.
+###### Artigo 45.º
 
-Art. 46.º Os casos omissos serão regulados pelas disposições aplicáveis em vigor para a organização e encaminhamento de autos de corpo de delito, processos de averiguações e disciplinares.
+Sempre que de um acidente de viação resultem danos para o Estado e se prove caber a responsabilidade a elementos estranhos ao Ministério da Marinha, será o processo, depois de concluído, enviado ao tribunal competente se o responsável, ou seu representante, não cobrir voluntàriamente os danos, a fim de que o Estado seja indemnizado.
 
-Art. 47.º É revogada a [Portaria n.º 171/71](https://diariodarepublica.pt/dr/detalhe/portaria/171-1971-445902), de 30 de Março.
+###### Artigo 46.º
+
+Os casos omissos serão regulados pelas disposições aplicáveis em vigor para a organização e encaminhamento de autos de corpo de delito, processos de averiguações e disciplinares.
+
+###### Artigo 47.º
+
+É revogada a [Portaria n.º 171/71](https://diariodarepublica.pt/dr/detalhe/portaria/171-1971-445902), de 30 de Março.
 
 O Ministro da Marinha, Manuel Pereira Crespo.

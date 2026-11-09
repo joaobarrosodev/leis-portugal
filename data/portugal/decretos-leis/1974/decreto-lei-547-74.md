@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-09-29'
+version_history:
+  file: decreto-lei-547-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-10-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-09-29'
+    amending: pt:dre:278703:por
+    amending_title: Decreto-Lei n.º 412/77
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:34:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 412/77. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-547-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,13 +156,19 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Os casos de arrendamento rural em que as terras foram dadas de arrendamento no estado de incultas ou em mato e se tornaram produtivas mediante o trabalho e investimento do rendeiro regem-se, além do disposto na lei sobre o arrendamento rural, pelas disposições especiais constantes dos artigos seguintes.
+###### Artigo 1.º
 
-Art. 2.º - 1. As benfeitorias feitas pelos rendeiros constituem propriedade destes.
+Os casos de arrendamento rural em que as terras foram dadas de arrendamento no estado de incultas ou em mato e se tornaram produtivas mediante o trabalho e investimento do rendeiro regem-se, além do disposto na lei sobre o arrendamento rural, pelas disposições especiais constantes dos artigos seguintes.
+
+###### Artigo 2.º
+
+1. As benfeitorias feitas pelos rendeiros constituem propriedade destes.
 
 2. Entende-se por benfeitoria, para os efeitos deste diploma, todo e qualquer melhoramento feito pelo rendeiro ou seus sucessores sobre os terrenos incultos ou em mato.
 
-Art. 3.º - 1. Cabe às comissões arbitrais decidir sobre a existência dos factos referidos no artigo 1.º e das benfeitorias e fixar o valor destas.
+###### Artigo 3.º
+
+1. Cabe às comissões arbitrais decidir sobre a existência dos factos referidos no artigo 1.º e das benfeitorias e fixar o valor destas.
 
 2. As comissões arbitrais são constituídas por três membros, sendo o presidente o juiz de direito da comarca, outro representante dos proprietários e outro dos colonos-rendeiros, ambos designados pelas respectivas associações, se existirem, ou eleitos em assembleias expressamente convocadas para esse fim pelo Instituto de Reorganização Agrária.
 
@@ -157,11 +178,15 @@ Art. 3.º - 1. Cabe às comissões arbitrais decidir sobre a existência dos fac
 
 5. Os rendeiros estão isentos de quaisquer encargos, quando recorrerem às comissões arbitrais para os efeitos prescritos neste diploma, e não são por eles devidas custas nos recursos interpostos para o tribunal da relação.
 
-Art. 4.º - 1. O senhorio só pode fazer cessar o contrato se o rendeiro não pagar a renda em dois anos seguidos ou se prejudicar gravemente a potencialidade produtiva da terra.
+###### Artigo 4.º
+
+1. O senhorio só pode fazer cessar o contrato se o rendeiro não pagar a renda em dois anos seguidos ou se prejudicar gravemente a potencialidade produtiva da terra.
 
 2. Na hipótese da cessação do contrato prevista no número anterior, o rendeiro goza do direito de retenção enquanto não for pago do valor das benfeitorias.
 
-Art. 5.º - 1. O rendeiro tem o direito de remir o contrato, tornando-se dono da terra pelo pagamento do preço que for fixado pela comissão arbitral.
+###### Artigo 5.º
+
+1. O rendeiro tem o direito de remir o contrato, tornando-se dono da terra pelo pagamento do preço que for fixado pela comissão arbitral.
 
 2. Este preço será determinado pelo valor potencial da terra, excluídas as benfeitorias, tendo em conta o estado em que se encontrava a terra no início do contrato.
 
@@ -169,19 +194,33 @@ Art. 5.º - 1. O rendeiro tem o direito de remir o contrato, tornando-se dono da
 
 4. As certidões ou fotocópias notariais da deliberação da comissão referida no número anterior são havidas, para todos os efeitos, como escrituras públicas.
 
-Art. 6.º Ao rendeiro que use do direito facultado no artigo anterior será prestada assistência financeira pelos Fundos de Melhoramentos Agrícolas ou de Reestruturação Fundiária, para pagamento do preço da remição e da sisa.
+5. O direito conferido pelo n.º 1 deste artigo exerce-se independentemente das áreas mínimas de unidade de cultura fixadas pela [Portaria n.º 202/70](https://diariodarepublica.pt/dr/detalhe/portaria/202-1970-225977), de 21 de Abril.
 
-Art. 7.º - 1. São suspensas as acções de despejo, bem como as acções cíveis cujo objectivo seja o da restituição de terras e aquelas em que se peça a destruição de casas e benfeitorias levadas a efeito pelos rendeiros, de qualquer natureza e em qualquer fase, intentadas contra os rendeiros referidos no artigo 1.º
+> Alterado pelo/a [Decreto-Lei n.º 412/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1977-278703), publicado em 1977-09-29.
+
+###### Artigo 6.º
+
+Ao rendeiro que use do direito facultado no artigo anterior será prestada assistência financeira pelos Fundos de Melhoramentos Agrícolas ou de Reestruturação Fundiária, para pagamento do preço da remição e da sisa.
+
+###### Artigo 7.º
+
+1. São suspensas as acções de despejo, bem como as acções cíveis cujo objectivo seja o da restituição de terras e aquelas em que se peça a destruição de casas e benfeitorias levadas a efeito pelos rendeiros, de qualquer natureza e em qualquer fase, intentadas contra os rendeiros referidos no artigo 1.º
 
 2. A instância será suspensa com a apresentação de requerimento onde se invoque a existência da situação de arrendamento rural prevista neste diploma.
 
 3. Os processos judiciais assim suspensos transitarão para as comissões arbitrais.
 
-Art. 8.º Os rendeiros que, embora na situação prevista no artigo 1.º, foram judicialmente despejados podem, no prazo de dois anos, requerer à comissão arbitral o regresso às terras, a partir do ano agrícola que então estiver em curso, ou o pagamento das benfeitorias por eles realizadas.
+###### Artigo 8.º
 
-Art. 9.º Constará de portaria do Secretário de Estado da Agricultura o regulamento do processo a seguir pelas comissões arbitrais para a fixação do preço da terra, defesa dos direitos de terceiros, e bem assim do que for necessário à execução do disposto neste decreto-lei.
+Os rendeiros que, embora na situação prevista no artigo 1.º, foram judicialmente despejados podem, no prazo de dois anos, requerer à comissão arbitral o regresso às terras, a partir do ano agrícola que então estiver em curso, ou o pagamento das benfeitorias por eles realizadas.
 
-Art. 10.º Este decreto-lei entra imediatamente em vigor.
+###### Artigo 9.º
+
+Constará de portaria do Secretário de Estado da Agricultura o regulamento do processo a seguir pelas comissões arbitrais para a fixação do preço da terra, defesa dos direitos de terceiros, e bem assim do que for necessário à execução do disposto neste decreto-lei.
+
+###### Artigo 10.º
+
+Este decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Francisco Salgado Zenha - José da Silva Lopes.
 

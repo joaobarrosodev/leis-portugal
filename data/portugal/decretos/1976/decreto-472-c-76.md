@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-01-11'
+version_history:
+  file: decreto-472-c-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-06-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-01-11'
+    amending: pt:dre:407694:por
+    amending_title: Decreto n.º 849/76; Decreto-Lei n.º 1-C/80
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 27.º
+    - Altera Artigo 34.º
+    - Altera Artigo 24.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:42:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 849/76; Decreto-Lei n.º
+    1-C/80. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-472-c-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -167,11 +185,17 @@ Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da [Lei n.º
 
 ### CAPÍTULO I — Natureza e atribuições
 
-Artigo 1.º O Gabinete de Estudos e Planeamento de Transportes e Comunicações (GEPTC), adiante designado abreviadamente por Gabinete, constitui um órgão de planeamento e programação económica e de apoio técnico aos membros do Governo do Ministério dos Transportes e Comunicações, directamente dependente do Ministro respectivo.
+###### Artigo 1.º
 
-Art. 2.º Os programas de trabalho anuais do Gabinete deverão incluir os estudos e outras iniciativas que o mesmo se proponha levar a efeito para o desempenho das respectivas atribuições, sua justificação, escalonamento no tempo, meios necessários e custos inerentes.
+O Gabinete de Estudos e Planeamento de Transportes e Comunicações (GEPTC), adiante designado abreviadamente por Gabinete, constitui um órgão de planeamento e programação económica e de apoio técnico aos membros do Governo do Ministério dos Transportes e Comunicações, directamente dependente do Ministro respectivo.
 
-Art. 3.º - 1. Para cabal desempenho das atribuições que lhe são cometidas pelo presente diploma, o Gabinete articulará a sua actividade com a de outros serviços ou entidades, quer públicas, quer privadas, que de qualquer modo se ocupem ou interessem pelas actividades por aquele prosseguidas, designadamente com:
+###### Artigo 2.º
+
+Os programas de trabalho anuais do Gabinete deverão incluir os estudos e outras iniciativas que o mesmo se proponha levar a efeito para o desempenho das respectivas atribuições, sua justificação, escalonamento no tempo, meios necessários e custos inerentes.
+
+###### Artigo 3.º
+
+1. Para cabal desempenho das atribuições que lhe são cometidas pelo presente diploma, o Gabinete articulará a sua actividade com a de outros serviços ou entidades, quer públicas, quer privadas, que de qualquer modo se ocupem ou interessem pelas actividades por aquele prosseguidas, designadamente com:
 
 a) A secção permanente do Conselho Superior de Obras Públicas e Transportes;
 
@@ -183,7 +207,9 @@ c) Os órgãos central, regionais e sectoriais de planeamento.
 
 3. Os serviços ou entidades a que se refere o n.º 2 prestarão ao Gabinete a colaboração necessária, no âmbito dos diversos domínios em que este exerce a sua acção.
 
-Art. 4.º As atribuições do Gabinete, no âmbito da missão que lhe é confiada de acordo com o artigo 1.º, exercem-se fundamentalmente nos domínios seguintes:
+###### Artigo 4.º
+
+As atribuições do Gabinete, no âmbito da missão que lhe é confiada de acordo com o artigo 1.º, exercem-se fundamentalmente nos domínios seguintes:
 
 a) Planeamento;
 
@@ -195,7 +221,9 @@ d) Estatística e informática;
 
 e) Documentação e informação.
 
-Art. 5.º No exercício das suas atribuições compete, nomeadamente, ao Gabinete:
+###### Artigo 5.º
+
+No exercício das suas atribuições compete, nomeadamente, ao Gabinete:
 
 1. Em matéria de planeamento:
 
@@ -257,13 +285,17 @@ e) Promover, em colaboração com os serviços, a publicação periódica de uma
 
 ### CAPÍTULO II — Organização interna
 
-Art. 6.º - 1. O Gabinete é dirigido por um director, com a categoria de director-geral.
+###### Artigo 6.º
+
+1. O Gabinete é dirigido por um director, com a categoria de director-geral.
 
 2. O director será coadjuvado nas suas funções por um subdirector, com a categoria de subdirector-geral.
 
 3. O subdirector-geral tem como atribuição principal a coordenação das acções do Gabinete nos domínios dos estudos, planeamento, programação e contrôle.
 
-Art. 7.º O Gabinete compreenderá os departamentos seguintes:
+###### Artigo 7.º
+
+O Gabinete compreenderá os departamentos seguintes:
 
 a) Direcção de Serviços de Estudos e Planeamento;
 
@@ -273,7 +305,9 @@ c) Direcção de Serviços de Documentação, Estatística e Informática;
 
 d) Repartição de Apoio Administrativo.
 
-Art. 8.º A Direcção de Serviços de Estudos e Planeamento compreenderá as divisões seguintes:
+###### Artigo 8.º
+
+A Direcção de Serviços de Estudos e Planeamento compreenderá as divisões seguintes:
 
 a) Divisão de Transportes Interiores;
 
@@ -281,7 +315,9 @@ b) Divisão de Transportes Exteriores;
 
 c) Divisão de Comunicações.
 
-Art. 9.º - 1. À Direcção de Serviços de Estudos e Planeamento compete, em geral, o exercício das atribuições cometidas ao Gabinete relativamente a:
+###### Artigo 9.º
+
+1. À Direcção de Serviços de Estudos e Planeamento compete, em geral, o exercício das atribuições cometidas ao Gabinete relativamente a:
 
 a) Estudos;
 
@@ -297,9 +333,13 @@ b) Os assuntos dependentes do Serviço Meteorológico Nacional.
 
 4. A Divisão de Comunicações ocupar-se-á, em especial, dos sistemas de comunicações que servem o País, nomeadamente das telecomunicações e comunicações postais.
 
-Art. 10.º À Direcção de Serviços de Coordenação e Contrôle de Programas compete coordenar a elaboração e acompanhar e controlar a execução dos programas de investimento do âmbito do Ministério.
+###### Artigo 10.º
 
-Art. 11.º À Direcção de Serviços de Documentação, Estatística e Informática compete, em geral, o exercício das atribuições cometidas ao Gabinete relativamente a:
+À Direcção de Serviços de Coordenação e Contrôle de Programas compete coordenar a elaboração e acompanhar e controlar a execução dos programas de investimento do âmbito do Ministério.
+
+###### Artigo 11.º
+
+À Direcção de Serviços de Documentação, Estatística e Informática compete, em geral, o exercício das atribuições cometidas ao Gabinete relativamente a:
 
 a) Estatística;
 
@@ -307,17 +347,23 @@ b) Informática;
 
 c) Documentação e informação.
 
-Art. 12.º À Repartição de Apoio Administrativo compete ocupar-se dos assuntos seguintes:
+###### Artigo 12.º
 
-a) Desenho, mecanografia e reprografia;
+1. A Repartição de Apoio Administrativo compreende a secção administrativa e a secção de reprografia.
 
-b) Expediente, arquivo e pessoal;
+2. À secção administrativa compete dar andamento a todos os assuntos relativos a expediente, arquivo, pessoal, contabilidade e património.
 
-c) Contabilidade e património.
+3. À secção de reprografia compete a execução dos trabalhos de desenho, mecanográficos e de reprodução de documentos.
 
-Art. 13.º Para o exercício das suas atribuições, o Gabinete disporá de um Conselho Coordenador (CC), que constitui um órgão integrado do Gabinete, exercendo uma acção coordenadora das actividades dos serviços e empresas dependentes do Ministério dos Transportes e Comunicações, directamente dependente do director do Gabinete.
+> Alterado pelo/a [Decreto n.º 849/76](https://diariodarepublica.pt/dr/detalhe/decreto/849-1976-407694), publicado em 1976-12-16.
 
-Art. 14.º - 1. O Conselho Coordenador será composto, obrigatoriamente, pelos membros seguintes:
+###### Artigo 13.º
+
+Para o exercício das suas atribuições, o Gabinete disporá de um Conselho Coordenador (CC), que constitui um órgão integrado do Gabinete, exercendo uma acção coordenadora das actividades dos serviços e empresas dependentes do Ministério dos Transportes e Comunicações, directamente dependente do director do Gabinete.
+
+###### Artigo 14.º
+
+1. O Conselho Coordenador será composto, obrigatoriamente, pelos membros seguintes:
 
 a) Director do Gabinete, que presidirá;
 
@@ -335,7 +381,9 @@ e) Representantes das empresas públicas sob tutela do Ministério.
 
 4. Os representantes referidos no número antecedente serão designados pelos responsáveis dos organismos ou empresas consideradas, de preferência de entre indivíduos que neles exerçam funções directivas.
 
-Art. 15.º Ao Conselho Coordenador compete coordenar as actividades dos serviços e empresas dependentes do Ministério dos Transportes e Comunicações nos domínios de planeamento, programação, estatística e informática, devendo pronunciar-se sobre:
+###### Artigo 15.º
+
+Ao Conselho Coordenador compete coordenar as actividades dos serviços e empresas dependentes do Ministério dos Transportes e Comunicações nos domínios de planeamento, programação, estatística e informática, devendo pronunciar-se sobre:
 
 a) As questões que sejam submetidas à sua apreciação pelo director do Gabinete ou por qualquer dos serviços e empresas representados no Conselho Coordenador;
 
@@ -343,7 +391,9 @@ b) Os estudos e trabalhos relacionados com a preparação e execução dos plano
 
 c) Os programas anuais de trabalho a realizar pelo Gabinete no desempenho das suas funções coordenadoras, nos domínios da sua competência, com vista a uma acção integrada do Ministério nessas matérias.
 
-Art. 16.º - 1. Consoante a natureza dos assuntos a tratar, o Conselho Coordenador reunirá em:
+###### Artigo 16.º
+
+1. Consoante a natureza dos assuntos a tratar, o Conselho Coordenador reunirá em:
 
 a) Sessões plenárias;
 
@@ -359,9 +409,13 @@ a) Os membros do Conselho que nelas devam participar, podendo fazer-se acompanha
 
 b) As entidades chamadas ou convidadas a participar ou fazer-se representar nas mesmas, quando a sua presença seja considerada útil.
 
-Art. 17.º Junto do Gabinete funcionará a Comissão Consultiva de Estatística do Ministério dos Transportes e Comunicações (CCE), órgão que se ocupará especialmente de assuntos de natureza estatística que interessam aos diversos departamentos e serviços do Ministério ou por ele tutelados, exercendo a sua actividade em estreita colaboração com os restantes órgãos do sistema estatístico nacional.
+###### Artigo 17.º
 
-Art. 18.º - 1. A Comissão Consultiva de Estatística compreenderá as secções seguintes:
+Junto do Gabinete funcionará a Comissão Consultiva de Estatística do Ministério dos Transportes e Comunicações (CCE), órgão que se ocupará especialmente de assuntos de natureza estatística que interessam aos diversos departamentos e serviços do Ministério ou por ele tutelados, exercendo a sua actividade em estreita colaboração com os restantes órgãos do sistema estatístico nacional.
+
+###### Artigo 18.º
+
+1. A Comissão Consultiva de Estatística compreenderá as secções seguintes:
 
 a) Secção de Transportes;
 
@@ -369,11 +423,17 @@ b) Secção de Comunicações.
 
 2. A composição e competência das diversas secções serão fixadas por despacho do Ministro dos Transportes e Comunicações, ouvido o director do Gabinete.
 
-Art. 19.º A Comissão Consultiva de Estatística será presidida pelo vogal representante do Ministério no Conselho Nacional de Estatística, designado nos termos do n.º 2 do artigo 4.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, e terá a composição que for determinada por despacho do Ministro dos Transportes e Comunicações.
+###### Artigo 19.º
 
-Art. 20.º A competência da Comissão Consultiva de Estatística é a que consta do n.º 1 do artigo 8.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto.
+A Comissão Consultiva de Estatística será presidida pelo vogal representante do Ministério no Conselho Nacional de Estatística, designado nos termos do n.º 2 do artigo 4.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, e terá a composição que for determinada por despacho do Ministro dos Transportes e Comunicações.
 
-Art. 21.º Consoante a natureza dos assuntos a tratar, a Comissão Consultiva de Estatística reunirá em:
+###### Artigo 20.º
+
+A competência da Comissão Consultiva de Estatística é a que consta do n.º 1 do artigo 8.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto.
+
+###### Artigo 21.º
+
+Consoante a natureza dos assuntos a tratar, a Comissão Consultiva de Estatística reunirá em:
 
 a) Sessões plenárias;
 
@@ -395,11 +455,15 @@ b) As entidades chamadas ou convidadas a participar ou fazer-se representar nas 
 
 ### CAPÍTULO III — Pessoal
 
-Art. 22.º - 1. A dotação e remuneração do pessoal do quadro do Gabinete são as constantes do quadro anexo a este diploma, que dele ficam a constituir parte integrante.
+###### Artigo 22.º
+
+1. A dotação e remuneração do pessoal do quadro do Gabinete são as constantes do quadro anexo a este diploma, que dele ficam a constituir parte integrante.
 
 2. A organização dos serviços do Gabinete e a composição dos quadros do pessoal poderão ser alteradas de acordo com o disposto no artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro.
 
-Art. 23.º O pessoal do Gabinete agrupar-se-á de harmonia com a classificação seguinte:
+###### Artigo 23.º
+
+O pessoal do Gabinete agrupar-se-á de harmonia com a classificação seguinte:
 
 a) Pessoal dirigente;
 
@@ -409,13 +473,15 @@ c) Pessoal administrativo;
 
 d) Pessoal auxiliar.
 
-Art. 24.º - 1. O pessoal dirigente do Gabinete será recrutado pela forma seguinte:
+###### Artigo 24.º
+
+1. O pessoal dirigente do Gabinete será recrutado pela forma seguinte:
 
 a) Director - por escolha do Ministro dos Transportes e Comunicações de entre indivíduos com curso superior adequado;
 
 b) Subdirector, directores de serviço e chefes de divisão - por escolha do Ministro, sob proposta do director do Gabinete, de entre indivíduos de reconhecido mérito e com curso superior adequado;
 
-c) Chefe de repartição - por escolha do Ministro, sob proposta do director do Gabinete, de entre indivíduos de reconhecido mérito e com curso superior adequado ou de entre chefes de secção com três anos de bom e efectivo serviço na categoria.
+c) (Revogada.)
 
 2. O pessoal a que se refere o número anterior será provido do modo seguinte:
 
@@ -423,7 +489,11 @@ a) Director e subdirector - em comissão por tempo indeterminado;
 
 b) Directores de serviços, chefes de divisão e chefe de repartição - por nomeação.
 
-Art. 25.º - 1. O pessoal técnico deverá possuir as habilitações mínimas seguintes:
+> Alterado pelo/a [Decreto-Lei n.º 1-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-c-1980-615852), publicado em 1980-01-11.
+
+###### Artigo 25.º
+
+1. O pessoal técnico deverá possuir as habilitações mínimas seguintes:
 
 a) Técnicos - curso superior adequado;
 
@@ -445,37 +515,59 @@ b) Restante pessoal técnico - através de concurso de provas práticas.
 
 4. O provimento do pessoal técnico efectuar-se-á por nomeação.
 
-Art. 26.º O recrutamento para terceiros-oficiais será feito por concurso a que serão admitidos:
+###### Artigo 26.º
+
+O recrutamento para terceiros-oficiais será feito por concurso a que serão admitidos:
 
 a) Os indivíduos com o 2.º ciclo do ensino liceal ou habilitações equivalentes;
 
 b) Os escriturários-dactilógrafos do Gabinete que possuam a escolaridade obrigatória, desde que tenham, pelo menos, três anos de bom e efectivo serviço na categoria
 
-Art. 27.º - 1. Os chefes de secção serão providos, por escolha do Ministro, sob proposta do director do Gabinete, de entre os primeiros-oficiais com três anos de bom e efectivo serviço ou indivíduos diplomados com o curso superior adequado ou pelos institutos comerciais.
+###### Artigo 27.º
 
-2. Os escriturários-dactilógrafos serão admitidos através de concurso de entre indivíduos habilitados com o ciclo preparatório do ensino secundário ou habilitação equivalente.
+1. O lugar de chefe da secção administrativa será provido por escolha do Ministro dos Transportes e Comunicações, sob proposta do director do Gabinete, de entre os primeiros-oficiais do respectivo quadro que contem, pelo menos, três anos de bom e efectivo serviço nessa categoria ou de entre indivíduos habilitados com curso superior adequado.
 
-Art. 28.º O provimento dos lugares de primeiro-oficial e segundo-oficial far-se-á por concurso de entre os segundos-oficiais e terceiros-oficiais com três anos de bom e efectivo serviço na categoria.
+2. O lugar de chefe da secção de reprografia será provido por escolha do Ministro dos Transportes e Comunicações, sob proposta do director do Gabinete, de entre os desenhadores de 1.ª classe ou os litógrafos de offset principais do respectivo quadro que contem, pelo menos, três anos de bom e efectivo serviço nessas categorias e classes ou de entre indivíduos habilitados com curso superior adequado.
 
-Art. 29.º - 1. O recrutamento do pessoal auxiliar será feito, por escolha do director do Gabinete, de entre os indivíduos que reúnam as necessárias condições legais.
+3. Os escriturários-dactilógrafos serão admitidos, através de concurso, de entre indivíduos habilitados com o ciclo preparatório do ensino secundário ou habilitação equivalente.
+
+> Alterado pelo/a [Decreto n.º 849/76](https://diariodarepublica.pt/dr/detalhe/decreto/849-1976-407694), publicado em 1976-12-16.
+
+###### Artigo 28.º
+
+O provimento dos lugares de primeiro-oficial e segundo-oficial far-se-á por concurso de entre os segundos-oficiais e terceiros-oficiais com três anos de bom e efectivo serviço na categoria.
+
+###### Artigo 29.º
+
+1. O recrutamento do pessoal auxiliar será feito, por escolha do director do Gabinete, de entre os indivíduos que reúnam as necessárias condições legais.
 
 2. O provimento do mesmo pessoal será efectuado por contrato.
 
-Art. 30.º Sempre que as necessidades de serviço o justifiquem, o Gabinete poderá contratar pessoal além do quadro.
+###### Artigo 30.º
 
-Art. 31.º - 1. Quando as exigências do serviço o imponham, poderá, mediante despacho do Ministro ou Ministros respectivos, ser requisitado pessoal a outros serviços ou Ministérios.
+Sempre que as necessidades de serviço o justifiquem, o Gabinete poderá contratar pessoal além do quadro.
+
+###### Artigo 31.º
+
+1. Quando as exigências do serviço o imponham, poderá, mediante despacho do Ministro ou Ministros respectivos, ser requisitado pessoal a outros serviços ou Ministérios.
 
 2. No caso de se verificar a requisição de funcionários nos termos do número antecedente, o serviço de origem poderá prover, interinamente, a vaga deixada pelo funcionário requisitado.
 
 3. O tempo de serviço prestado pelo funcionário requisitado será contado para todo e qualquer efeito como se fosse prestado no quadro de origem.
 
-Art. 32.º - 1. Para a realização de estudos que exijam elevado nível técnico, poderão ser destacados, temporariamente, para o Gabinete, por despacho ministerial e mediante proposta do director daquele organismo, técnicos de outros departamentos do Ministério dos Transportes e Comunicações ou de empresas sob tutela deste.
+###### Artigo 32.º
+
+1. Para a realização de estudos que exijam elevado nível técnico, poderão ser destacados, temporariamente, para o Gabinete, por despacho ministerial e mediante proposta do director daquele organismo, técnicos de outros departamentos do Ministério dos Transportes e Comunicações ou de empresas sob tutela deste.
 
 2. O pessoal destacado nos termos do número antecedente considerar-se-á, para todos os efeitos legais, e enquanto permanecer naquela situação, como se continuasse em serviço no departamento ou empresa de origem.
 
-Art. 33.º Mediante despacho ministerial, o Gabinete poderá ser autorizado a contratar com entidades ou indivíduos a ele estranhos a realização de estudos ou projectos, inquéritos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+###### Artigo 33.º
 
-Art. 34.º - 1. O primeiro provimento dos lugares do quadro a que se refere o n.º 1 do artigo 26.º efectuar-se-á obrigatória e prioritariamente de entre o pessoal que se encontre a qualquer título a prestar serviço para o Ministério dos Transportes e Comunicações, no âmbito do Gabinete de Planeamento do Ministério das Obras Públicas.
+Mediante despacho ministerial, o Gabinete poderá ser autorizado a contratar com entidades ou indivíduos a ele estranhos a realização de estudos ou projectos, inquéritos ou outros trabalhos de carácter eventual que se mostrem necessários ao desempenho das suas atribuições.
+
+###### Artigo 34.º
+
+1. O primeiro provimento dos lugares do quadro a que se refere o n.º 1 do artigo 26.º efectuar-se-á obrigatória e prioritariamente de entre o pessoal que se encontre a qualquer título a prestar serviço para o Ministério dos Transportes e Comunicações, no âmbito do Gabinete de Planeamento do Ministério das Obras Públicas.
 
 2. O provimento quanto ao número anterior resultará de lista aprovada pelo Ministro dos Transportes e Comunicações e publicada no Diário da República, no prazo de trinta dias a contar da data de publicação deste diploma, donde conste o lugar em que cada funcionário fica provido.
 
@@ -485,15 +577,27 @@ Art. 34.º - 1. O primeiro provimento dos lugares do quadro a que se refere o n.
 
 5. O primeiro provimento de lugares do quadro que não forem preenchidos nos termos do disposto nos números anteriores poderá ser feito por escolha do Ministro dos Transportes e Comunicações, entre pessoas de reconhecida competência que possuam habilitações mínimas exigidas pelo presente diploma para admissão dos respectivos lugares, no prazo de cento e oitenta dias, a contar da publicação do presente diploma.
 
-Art. 35.º Para o preenchimento de quaisquer vagas dos quadros, poderá o Ministro dos Transportes e Comunicações, sempre que não haja funcionários em número suficiente com tempo mínimo de serviço, autorizar que sejam opositores facultativos funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do Decreto-Lei n.º 27236, de 23 de Novembro de 1936.
+6. O provimento dos lugares de terceiro-mecanógrafo, nos termos do número anterior, poderá ser feito, independentemente das habilitações literárias exigidas pela alínea d) do n.º 1 do artigo 25.º, de entre escriturários-dactilógrafos que contem, pelo menos, três anos de bom e efectivo serviço nessa categoria e possuam curso de mecanografia adequado.
+
+> Alterado pelo/a [Decreto n.º 849/76](https://diariodarepublica.pt/dr/detalhe/decreto/849-1976-407694), publicado em 1976-12-16.
+
+###### Artigo 35.º
+
+Para o preenchimento de quaisquer vagas dos quadros, poderá o Ministro dos Transportes e Comunicações, sempre que não haja funcionários em número suficiente com tempo mínimo de serviço, autorizar que sejam opositores facultativos funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do Decreto-Lei n.º 27236, de 23 de Novembro de 1936.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-Art. 36.º Os membros do Conselho Coordenador não pertencentes ao Gabinete, bem como as entidades a que se refere a alínea b) do n.º 3 do artigo 16.º deste diploma, terão direito, por cada reunião a que assistam, a uma senha de presença no quantitativo estabelecido na lei geral.
+###### Artigo 36.º
 
-Art. 37.º Os membros do CCE não pertencentes ao Gabinete, bem como as entidades a que se refere a alínea b) do n.º 2 do artigo 21.º deste diploma, terão direito, por cada reunião a que assistem, a uma senha de presença no quantitativo estabelecido na lei geral.
+Os membros do Conselho Coordenador não pertencentes ao Gabinete, bem como as entidades a que se refere a alínea b) do n.º 3 do artigo 16.º deste diploma, terão direito, por cada reunião a que assistam, a uma senha de presença no quantitativo estabelecido na lei geral.
 
-Art. 38.º Enquanto não for criado no Ministério dos Transportes e Comunicações um órgão especificamente votado ao tratamento dos problemas de financiamento do sector, competirá ainda ao Gabinete de Estudos e Planeamento, através da Direcção de Serviços de Coordenação e Contrôle de Programas:
+###### Artigo 37.º
+
+Os membros do CCE não pertencentes ao Gabinete, bem como as entidades a que se refere a alínea b) do n.º 2 do artigo 21.º deste diploma, terão direito, por cada reunião a que assistem, a uma senha de presença no quantitativo estabelecido na lei geral.
+
+###### Artigo 38.º
+
+Enquanto não for criado no Ministério dos Transportes e Comunicações um órgão especificamente votado ao tratamento dos problemas de financiamento do sector, competirá ainda ao Gabinete de Estudos e Planeamento, através da Direcção de Serviços de Coordenação e Contrôle de Programas:
 
 a) Elaborar, em colaboração com os serviços e empresas sob tutela, os programas anuais e plurianuais de financiamento decorrentes dos programas de investimento;
 
@@ -503,13 +607,21 @@ c) Acompanhar e controlar a execução dos programas de financiamento e dos cont
 
 d) Elaborar pareceres sobre os orçamentos de exploração e investimentos das empresas sob tutela enquanto os mesmos não estiverem integrados em contratos-programa.
 
-Art. 39.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações, ouvidos os Ministros da Administração Interna e das Finanças, quando for caso disso.
+###### Artigo 39.º
 
-Art. 40.º Os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento do Ministério dos Transportes e Comunicações, com os necessários ajustamentos e reforços indispensáveis à cobertura das despesas previstas.
+As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações, ouvidos os Ministros da Administração Interna e das Finanças, quando for caso disso.
 
-Art. 41.º O Ministro dos Transportes e Comunicações fará publicar em portaria os regulamentos necessários à boa execução do presente diploma.
+###### Artigo 40.º
 
-Art. 42.º Este diploma entra em vigor na data da sua publicação.
+Os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento do Ministério dos Transportes e Comunicações, com os necessários ajustamentos e reforços indispensáveis à cobertura das despesas previstas.
+
+###### Artigo 41.º
+
+O Ministro dos Transportes e Comunicações fará publicar em portaria os regulamentos necessários à boa execução do presente diploma.
+
+###### Artigo 42.º
+
+Este diploma entra em vigor na data da sua publicação.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - José Augusto Fernandes.
 

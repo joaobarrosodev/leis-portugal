@@ -37,10 +37,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-12-17'
+version_history:
+  file: portaria-68-2013.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-02-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-12-17'
+    amending: pt:dre:65889974:por
+    amending_title: Portaria n.º 261/2014
+    changes:
+    - Altera Artigo Anexo — REGULAMENTO DO SISTEMA DE INCENTIVOS DE APOIO LOCAL A MICROEMPRESAS::6.º
+    - Altera Artigo Anexo — REGULAMENTO DO SISTEMA DE INCENTIVOS DE APOIO LOCAL A MICROEMPRESAS::8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/68/2013/02/15/p/dre/pt/html
@@ -66,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:56:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 261/2014. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2013/portaria-68-2013.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -212,9 +228,11 @@ e) Manter afetos à respetiva atividade os ativos respeitantes ao investimento a
 
 3. Os sócios e gerentes, bem como trabalhadores de outras empresas do grupo contratados pelo beneficiário não são contabilizados para efeitos de aferição da criação líquida de postos de trabalho.
 
-4. A duração máxima do projeto, incluindo a realização do investimento e a criação dos postos de trabalho, é de 18 meses, contados a partir da data de início da sua realização.
+4 - A duração máxima do projeto, incluindo a realização do investimento e a criação dos postos de trabalho, é de 24 meses, contados a partir da data de início da sua realização, sem prejuízo de prazo mais curto ditado pelas regras de encerramento do QREN (Quadro de Referência Estratégico Nacional).
 
-5. Considera-se o início da realização do projeto com a realização da primeira despesa ou a primeira contratação do posto de trabalho previsto, a que primeiramente tiver lugar, e conclui-se com a formalização do pedido de pagamento final incluindo o pagamento relativo ao último dos postos de trabalho criados objeto de financiamento.
+5 - Considera-se o início da realização do projeto com a realização da primeira despesa ou a primeira contratação do posto de trabalho previsto, a que primeiramente tiver lugar, e conclui-se com a formalização do pedido de pagamento final incluindo o pedido relativo ao último dos postos de trabalho criados objeto de financiamento.
+
+> Alterado pelo/a [Portaria n.º 261/2014](https://diariodarepublica.pt/dr/detalhe/portaria/261-2014-65889974), publicado em 2014-12-16.
 
 ###### Artigo 7.º — Despesas elegíveis e não elegíveis
 
@@ -262,11 +280,13 @@ c) A 1,65 vezes do valor do IAS, para o trabalhador com licenciatura ou mestrado
 
 7. Os postos de trabalho preenchidos por jovens, entre os 18 e os 30 anos, desempregados ou à procura do primeiro emprego, inscritos no centro de emprego há pelo menos 4 meses, terão uma majoração de 50% aplicada aos valores estabelecidos no número anterior.
 
-8. O pagamento do financiamento, por posto de trabalho, é realizado desde que verificada a criação do posto de trabalho, em duas prestações de igual montante, devendo a primeira ser concretizada a pedido do beneficiário, devendo este pedido ser apresentado após o fim do primeiro mês subsequente à celebração do contrato de trabalho sem termo, a tempo inteiro, e a segunda a pedido do beneficiário, devendo este pedido ser apresentado 12 meses após o pagamento da primeira prestação.
+8 - O pagamento do financiamento, por posto de trabalho, é realizado desde que verificada a criação do posto de trabalho, em duas prestações de igual montante, sendo concretizadas a pedido do beneficiário, devendo o primeiro pedido ser apresentado após o fim do mês subsequente à celebração do contrato de trabalho sem termo, a tempo inteiro, e o segundo pedido ser apresentado 12 meses após a celebração do contrato de trabalho sem termo.
 
 9. Considera-se criado o posto de trabalho quando o mesmo se encontre preenchido e tenha sido mantido até ao encerramento do projeto.
 
 10. A partir da contratação e durante o período de vigência do contrato de concessão de incentivos, a empresa deve registar, com periodicidade mensal, um número total de trabalhadores igual ou superior ao número de trabalhadores registados no dia seguinte à data da(s) contratação(ões) objeto de apoio.
+
+> Alterado pelo/a [Portaria n.º 261/2014](https://diariodarepublica.pt/dr/detalhe/portaria/261-2014-65889974), publicado em 2014-12-16.
 
 ###### Artigo 9.º — Estruturas de gestão
 

@@ -1,0 +1,131 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:312061:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1975-09-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f851269e1b167560"
+   ]
+  },
+  {
+   "date": "1980-06-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:506013:por",
+     "title": "Decreto-Lei n.º 53/76",
+     "published": "1976-01-21",
+     "dre_path": "/dr/detalhe/decreto-lei/53-1976-506013"
+    },
+    {
+     "id": "pt:dre:473696:por",
+     "title": "Decreto-Lei n.º 201/80",
+     "published": "1980-06-25",
+     "dre_path": "/dr/detalhe/decreto-lei/201-1980-473696"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 7.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "c7f97933be43d4e6",
+    "441ae37e476d2577",
+    "fb5f0c1bed07cc4f",
+    "88bdd053910c4fac",
+    "dc2a91d7dc5fc196",
+    "c6dba4b5f89f60b7",
+    "2531848eafb86335",
+    "f9c2338d0804ce4c"
+   ]
+  }
+ ],
+ "fragments": {
+  "f851269e1b167560": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Setembro\n\nA atribuição da categoria de hospitais distritais a vários estabelecimentos hospitalares anteriormente classificados de concelhios tem, como consequência, a extensão aos mesmos das carreiras médicas estabelecidas pelo [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro.\n\nEste processo envolve a integração nas referidas carreiras do pessoal que actualmente presta serviço nesses estabelecimentos, desde que habilitado com os requisitos legalmente exigidos, e a consideração das legítimas expectativas de alguns médicos que, embora não possuindo tais requisitos, têm desde há muito garantido o funcionamento hospitalar e prestado indiscutíveis serviços às populações.\n\nA definição legal das normas de integração e das que permitam contemplar as referidas situações constitui conveniente oportunidade de reformulação de alguns problemas da organização hospitalar, nomeadamente no que respeita a formas de prestação de alguns serviços médicos e transferências.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º O pessoal médico que nesta data se encontra ao serviço dos hospitais distritais pode ser distribuído pelas vagas existentes nos seus mapas ou quadros de pessoal, após concursos a realizar nos termos da [Portaria n.º 455/73](https://diariodarepublica.pt/dr/detalhe/portaria/455-1973-421233), de 3 de Julho, desde que possua os necessários requisitos.\n\nArt. 2.º - 1. O pessoal médico que nesta data se encontra ao serviço dos referidos hospitais e não reúna os requisitos necessários para ingressar na carreira, nos termos do artigo anterior, será integrado num quadro eventual, a fixar para cada hospital, ficando equiparado à categoria correspondente às funções que desempenha nesta data e percebendo remunerações idênticas às do respectivo lugar de carreira, salvo se vier a ingressar no internato de policlínica ou de especialidade, de acordo com as habilitações que possuir.\n\n2. Os lugares dos quadros eventuais serão extintos à medida que forem vagando.\n\nArt. 3.º Após a integração a que se refere o presente decreto-lei, será regulamentado o regime de acumulação, consignando-se desde já o princípio de que não poderão ser acumulados lugares da carreira médica hospitalar, com excepção das funções de consultor a que se refere o artigo seguinte.\n\nArt. 4.º - 1. Os hospitais centrais e distritais poderão contratar consultores médicos, com vista a garantir apoio técnico no âmbito de especialidades, quando tal se revele necessário.\n\n2. A função de consultor médico só poderá ser exercida por médicos que possuam, pelo menos, o grau de especialista.\n\n3. Os consultores médicos deverão prestar o mínimo de doze horas de serviço semanal.\n\n4. Os consultores médicos perceberão, pelo exercício desse cargo, remunerações calculadas na base do vencimento/hora da sua categoria no âmbito da carreira médica, acrescidas de subsídio para deslocação a estabelecer em cada caso.\n\n5. Os encargos a que se refere o número anterior serão suportados pelos hospitais em que os consultores exerçam estas funções.\n\nArt. 5.º A passagem ao regime de trabalho médico em tempo completo passa a depender de simples autorização, caso a caso, dos órgãos de gestão dos hospitais centrais e distritais.\n\nArt. 6.º Em situações em que haja vantagem para um mais conveniente funcionamento dos serviços, poderá ser estipulado para médicos hospitalares, caso a caso, por decisão dos órgãos de gestão dos hospitais, o regime de quarenta ou de quarenta e oito horas semanais, com direito a remuneração das horas que excedam as trinta e seis horas semanais, calculada na base do vencimento/hora da categoria a que o médico pertence.\n\nArt. 7.º Será fixado em despacho do Secretário de Estado da Saúde a data dos concursos a realizar em execução do artigo 1.º deste diploma, bem como as adaptações da [Portaria n.º 455/73](https://diariodarepublica.pt/dr/detalhe/portaria/455-1973-421233), de 3 de Julho, que se mostrarem indispensáveis à sua realização até final do corrente ano.\n\nVisto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso - Francisco José Cruz Pereira de Moura.\n\nPromulgado em 15 de Setembro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "c7f97933be43d4e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Setembro\n\nA atribuição da categoria de hospitais distritais a vários estabelecimentos hospitalares anteriormente classificados de concelhios tem, como consequência, a extensão aos mesmos das carreiras médicas estabelecidas pelo [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro.\n\nEste processo envolve a integração nas referidas carreiras do pessoal que actualmente presta serviço nesses estabelecimentos, desde que habilitado com os requisitos legalmente exigidos, e a consideração das legítimas expectativas de alguns médicos que, embora não possuindo tais requisitos, têm desde há muito garantido o funcionamento hospitalar e prestado indiscutíveis serviços às populações.\n\nA definição legal das normas de integração e das que permitam contemplar as referidas situações constitui conveniente oportunidade de reformulação de alguns problemas da organização hospitalar, nomeadamente no que respeita a formas de prestação de alguns serviços médicos e transferências.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "441ae37e476d2577": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1980-06-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 53/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1976-506013), publicado em 1976-01-21."
+   ],
+   "markdown": "###### Artigo 1.º\n\nO pessoal médico que nesta data se encontra ao serviço dos hospitais distritais pode ser distribuído pelas vagas de especialista existentes nos seus mapas ou quadros de pessoal, desde que possua os requisitos exigidos pela [Portaria n.º 455/73](https://diariodarepublica.pt/dr/detalhe/portaria/455-1973-421233), de 3 de Julho, mediante concursos que constam de prova de curriculum e prova prática, dispensável esta para os candidatos que na primeira tenham a classificação de Bom.\n\n> Alterado pelo/a [Decreto-Lei n.º 53/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1976-506013), publicado em 1976-01-21."
+  },
+  "fb5f0c1bed07cc4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O pessoal médico que nesta data se encontra ao serviço dos referidos hospitais e não reúna os requisitos necessários para ingressar na carreira, nos termos do artigo anterior, será integrado num quadro eventual, a fixar para cada hospital, ficando equiparado à categoria correspondente às funções que desempenha nesta data e percebendo remunerações idênticas às do respectivo lugar de carreira, salvo se vier a ingressar no internato de policlínica ou de especialidade, de acordo com as habilitações que possuir.\n\n2. Os lugares dos quadros eventuais serão extintos à medida que forem vagando."
+  },
+  "88bdd053910c4fac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nApós a integração a que se refere o presente decreto-lei, será regulamentado o regime de acumulação, consignando-se desde já o princípio de que não poderão ser acumulados lugares da carreira médica hospitalar, com excepção das funções de consultor a que se refere o artigo seguinte."
+  },
+  "dc2a91d7dc5fc196": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1980-06-25",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 201/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1980-473696), publicado em 1980-06-25."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 201/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1980-473696), publicado em 1980-06-25."
+  },
+  "c6dba4b5f89f60b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA passagem ao regime de trabalho médico em tempo completo passa a depender de simples autorização, caso a caso, dos órgãos de gestão dos hospitais centrais e distritais."
+  },
+  "2531848eafb86335": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nEm situações em que haja vantagem para um mais conveniente funcionamento dos serviços, poderá ser estipulado para médicos hospitalares, caso a caso, por decisão dos órgãos de gestão dos hospitais, o regime de quarenta ou de quarenta e oito horas semanais, com direito a remuneração das horas que excedam as trinta e seis horas semanais, calculada na base do vencimento/hora da categoria a que o médico pertence."
+  },
+  "f9c2338d0804ce4c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1980-06-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 53/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1976-506013), publicado em 1976-01-21."
+   ],
+   "markdown": "###### Artigo 7.º\n\nSerá fixada em despacho do Secretário de Estado da Saúde a data dos concursos a realizar em execução do artigo 1.º deste diploma, observando-se o disposto na [Portaria n.º 455/73](https://diariodarepublica.pt/dr/detalhe/portaria/455-1973-421233), de 3 de Julho, no que não for contrariado pelo presente diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 53/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-1976-506013), publicado em 1976-01-21.\n\nVisto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Mário Luís da Silva Murteira - José Joaquim Fragoso - Francisco José Cruz Pereira de Moura.\n\nPromulgado em 15 de Setembro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}

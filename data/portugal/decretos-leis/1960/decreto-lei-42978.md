@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1967-06-24'
+version_history:
+  file: decreto-lei-42978.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-05-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1967-06-24'
+    amending: pt:dre:554605:por
+    amending_title: Decreto-Lei n.º 43509; Decreto-Lei n.º 47763
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:32:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 43509; Decreto-Lei
+    n.º 47763. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-42978.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -109,27 +125,45 @@ Considerando que a ratificação da Convenção n.º 68 da Organização Geral d
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º São integrados em direito interno, para serem aplicados a todos os navios de mar, os princípios contidos na Convenção n.º 68 da Conferência Internacional do Trabalho, entendendo-se que, para efeitos deste diploma, se consideram navios de mar as embarcações que se destinam a navegar no mar em exercício de comércio.
+###### Artigo 1.º
 
-Art. 2.º Todos os navios devem estar convenientemente abastecidos e ter cozinhas que permitam fornecer e servir as refeições aos membros da tripulação, de acordo com as viagens que vão efectuar e as tabelas de racionamento anexas ao presente decreto-lei.
+São integrados em direito interno, para serem aplicados a todos os navios de mar, os princípios contidos na Convenção n.º 68 da Conferência Internacional do Trabalho, entendendo-se que, para efeitos deste diploma, se consideram navios de mar as embarcações que se destinam a navegar no mar em exercício de comércio.
 
-Art. 3.º Para os serviços de mesa e cozinha serão nomeados inscritos marítimos devidamente habilitados a desempenhar tais funções nos termos dos Decretos-Leis n.os 23764, de 13 de Abril de 1934, e 41643, de 23 de Maio de 1958.
+###### Artigo 2.º
+
+Todos os navios devem estar convenientemente abastecidos e ter cozinhas que permitam fornecer e servir as refeições aos membros da tripulação, de acordo com as viagens que vão efectuar e as tabelas de racionamento anexas ao presente decreto-lei.
+
+###### Artigo 3.º
+
+Para os serviços de mesa e cozinha serão nomeados inscritos marítimos devidamente habilitados a desempenhar tais funções nos termos dos Decretos-Leis n.os 23764, de 13 de Abril de 1934, e 41643, de 23 de Maio de 1958.
 
 § 1.º As refeições da marinhagem deverão ser servidas por um tripulante da secção de câmaras (criado), que será responsável não só por este serviço como também pela limpeza, arrumação e conservação dos respectivos refeitórios e de todo o material que lhe for entregue, bem como pela higiene das instalações e corredores anexos e salas de estar, quando as haja.
 
 § 2.º Ao tripulante da secção de câmaras (criado) encarregado do serviço de mesa, além das determinações indicadas no parágrafo anterior, cabe também a responsabilidade do serviço parcelar ou individual de todas as comidas e bebidas das refeições diárias, do extravio ou estrago de alimentos e da guarda em local apropriado do que não for consumido.
 
-Art. 4.º Compete à autoridade marítima, pelos médicos ao seu serviço, assegurar a inspecção à qualidade e quantidade das refeições fornecidas, bem como aos locais, instalações e utensílios destinados à armazenagem, manipulação e preparação dos géneros alimentícios.
+###### Artigo 4.º
 
-Art. 5.º Os médicos encarregados da inspecção a que se refere o artigo anterior têm o direito de ir a bordo de qualquer embarcação como delegados da autoridade marítima e de fazer recomendações com o fim de melhorar o nível do serviço de cozinha e de mesa, cumprindo ao proprietário, capitão ou armador facilitar a inspecção com a minúcia julgada indispensável e facultar sem qualquer restrição todos os documentos que lhe forem pedidos, incluindo os papéis de bordo.
+Compete à autoridade marítima, pelos médicos ao seu serviço, assegurar a inspecção à qualidade e quantidade das refeições fornecidas, bem como aos locais, instalações e utensílios destinados à armazenagem, manipulação e preparação dos géneros alimentícios.
 
-Art. 6.º Os médicos são obrigados a apresentar à autoridade marítima relatório circunstanciado das inspecções que efectuarem, quer ordinárias, quer extraordinárias.
+###### Artigo 5.º
 
-Art. 7.º Sempre que haja queixa formulada pelo Grémio dos Armadores ou pela União dos Sindicatos de Oficiais, Mestrança e Marinhagem da Navegação Marítima, deve a autoridade marítima determinar uma inspecção extraordinária.
+Os médicos encarregados da inspecção a que se refere o artigo anterior têm o direito de ir a bordo de qualquer embarcação como delegados da autoridade marítima e de fazer recomendações com o fim de melhorar o nível do serviço de cozinha e de mesa, cumprindo ao proprietário, capitão ou armador facilitar a inspecção com a minúcia julgada indispensável e facultar sem qualquer restrição todos os documentos que lhe forem pedidos, incluindo os papéis de bordo.
 
-§ único. Só serão consideradas as queixas que dêem entrada na repartição marítima pelo menos 24 horas antes da hora fixada para a saída do navio.
+###### Artigo 6.º
 
-Art. 8.º No mar, o capitão ou um oficial especialmente designado por ele deve proceder a inspecções periódicas, pelo menos semanalmente, acompanhado por um membro responsável do pessoal da secção de câmaras:
+Os médicos são obrigados a apresentar à autoridade marítima relatório circunstanciado das inspecções que efectuarem, quer ordinárias, quer extraordinárias.
+
+###### Artigo 7.º
+
+Sempre que haja queixa formulada pelo Grémio dos Armadores, pela União dos Sindicatos de Oficiais, Mestrança e Marinhagem da Navegação ou por membros da tripulação em número nunca inferior a 10 por cento da lotação, deve a autoridade marítima determinar uma inspecção extraordinária.
+
+§ único. Só serão consideradas as queixas que dêem entrada na repartição marítima pelo menos 24 horas antes da hora fixada para a partida do navio.
+
+> Alterado pelo/a [Decreto-Lei n.º 47763](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47763-1967-312011), publicado em 1967-06-24.
+
+###### Artigo 8.º
+
+No mar, o capitão ou um oficial especialmente designado por ele deve proceder a inspecções periódicas, pelo menos semanalmente, acompanhado por um membro responsável do pessoal da secção de câmaras:
 
 a) Às provisões dos víveres e da água;
 
@@ -139,21 +173,29 @@ b) A todos os locais e utensílios empregados no armazenamento e manipulação d
 
 § 2.º Cópias dos relatórios destas inspecções devem ser entregues no fim da viagem às autoridades marítimas, juntamente com os demais papéis de bordo.
 
-Art. 9.º Os relatórios a que se referem os artigos 6.º e 8.º serão remetidos à 1.ª Repartição da Direcção da Marinha Mercante para a elaboração do relatório anual.
+###### Artigo 9.º
+
+Os relatórios a que se referem os artigos 6.º e 8.º serão remetidos à 1.ª Repartição da Direcção da Marinha Mercante para a elaboração do relatório anual.
 
 § único. Do relatório anual serão extraídas cópias para:
 
 a) A Repartição Internacional do Trabalho;
 
-b) A Direcção-Geral de Saúde;
+b) A Junta Nacional da Marinha Mercante;
 
-c) O Ministério das Corporações e Previdência Social;
+c) A Direcção-Geral de Saúde;
 
-d) O Grémio dos Armadores;
+d) O Ministério das Corporações e Previdência Social;
 
-e) A União dos Sindicatos de Oficiais, Mestrança e Marinhagem.
+e) O Grémio dos Armadores;
 
-Art. 10.º Estão sujeitos às penalidades previstas no artigo 49.º do Código Penal e Disciplinar da Marinha Mercante os tripulantes que cometam qualquer das seguintes faltas:
+f) A União dos Sindicatos de Oficiais, Mestrança e Marinhagem.
+
+> Alterado pelo/a [Decreto-Lei n.º 43509](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43509-1961-554605), publicado em 1961-02-16.
+
+###### Artigo 10.º
+
+Estão sujeitos às penalidades previstas no artigo 49.º do Código Penal e Disciplinar da Marinha Mercante os tripulantes que cometam qualquer das seguintes faltas:
 
 a) Que dificultem ou tentem dificultar a inspecção a que se refere o artigo 5.º;
 
@@ -169,9 +211,13 @@ f) Que aproveitem o refeitório para outros fins, salvo se o navio não possuir 
 
 g) Que sem autorização superior convidem ou recebam pessoas estranhas no refeitório ou na sala de marinhagem.
 
-Art. 11.º A inobservância das disposições deste diploma, quando da responsabilidade dos armadores, fará incorrer estes nas multas de 500$00 a 50000$00, aplicáveis pela autoridade marítima.
+###### Artigo 11.º
 
-Art. 12.º Fica revogada a legislação em contrário, designadamente o [Decreto n.º 12384](https://diariodarepublica.pt/dr/detalhe/decreto/12384-1926-158934), de 27 de Setembro de 1926.
+A inobservância das disposições deste diploma, quando da responsabilidade dos armadores, fará incorrer estes nas multas de 500$00 a 50000$00, aplicáveis pela autoridade marítima.
+
+###### Artigo 12.º
+
+Fica revogada a legislação em contrário, designadamente o [Decreto n.º 12384](https://diariodarepublica.pt/dr/detalhe/decreto/12384-1926-158934), de 27 de Setembro de 1926.
 
 Publique-se e cumpra-se como nele se contém.
 

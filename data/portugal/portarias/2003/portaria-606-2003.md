@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-01-12'
+version_history:
+  file: portaria-606-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-07-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-01-12'
+    amending: pt:dre:241014:por
+    amending_title: Portaria n.º 35/2004
+    changes:
+    - Adita Artigo 57.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/606/2003/07/21/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:50:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 35/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-606-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -986,6 +1001,44 @@ e) Ter nota de candidatura igual ou superior à nota do último colocado no par 
 7 - Em caso algum os requerentes podem ser autorizados a iniciar a frequência das aulas antes da comunicação de autorização.
 
 8 - A transferência da matrícula e inscrição processa-se oficiosamente.
+
+###### Artigo 57.º-A — Recolocação institucional
+
+1 - Nos casos em que, terminada a 3.ª fase do concurso ou, não tendo havido lugar a esta, terminada a 2.ª fase, o número total de estudantes matriculados num par estabelecimento/curso seja inferior a seis, pode haver lugar à recolocação institucional da totalidade dos estudantes noutros pares estabelecimento/curso, nos termos dos números seguintes.
+
+2 - São condições cumulativas para a recolocação:
+
+a) Quando terminada a 3.ª fase do concurso ou, se esta não teve lugar, quando terminada a 2.ª fase, a existência de vagas nos pares estabelecimento/curso onde se pretende recolocar os estudantes;
+
+b) O preenchimento, por parte dos estudantes, de todas as condições necessárias para a candidatura ao par estabelecimento/curso onde vão ser recolocados, designadamente:
+
+i) Terem realizado as provas de ingresso exigidas para esse par;
+
+ii) Terem a classificação mínima exigida nas provas de ingresso fixadas para esse par;
+
+iii) Terem a nota mínima de candidatura exigida para esse par;
+
+iv) Preencherem, se exigidos, os pré-requisitos fixados para acesso a esse par;
+
+c) A anuência dos estudantes a recolocar;
+
+d) A anuência dos estabelecimentos de ensino onde os estudantes vão ser recolocados;
+
+e) A recolocação da totalidade dos estudantes que haviam sido colocados e se matricularam no par estabelecimento/curso em causa.
+
+3 - A decisão sobre o desencadeamento do processo de recolocação compete ao órgão legal e estatuariamente competente do estabelecimento de ensino onde ocorreu a situação do n.º 1.
+
+4 - A decisão de recolocação é tomada por despacho conjunto dos órgãos legal e estatuariamente competentes dos dois estabelecimentos de ensino superior, uma vez verificada a satisfação da totalidade das condições a que se refere o n.º 2.
+
+5 - O estabelecimento onde o estudante se encontrava colocado:
+
+a) Comunica ao estudante, por carta registada com aviso de recepção, a recolocação;
+
+b) Remete ao estabelecimento onde o estudante foi recolocado o respectivo processo, bem como as importâncias recebidas a título de propina de matrícula e de inscrição.
+
+6 - O disposto neste artigo aplica-se com as necessárias adaptações à recolocação noutro curso do mesmo estabelecimento de ensino.
+
+> Aditado pelo/a [Portaria n.º 35/2004](https://diariodarepublica.pt/dr/detalhe/portaria/35-2004-241014), publicado em 2004-01-12.
 
 ###### Artigo 58.º — Matrículas e inscrições múltiplas
 

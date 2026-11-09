@@ -1,0 +1,188 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:397904:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-08-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bf54547afd5b81d7"
+   ]
+  },
+  {
+   "date": "1989-05-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:625606:por",
+     "title": "Decreto-Lei n.º 142/89",
+     "published": "1989-04-28",
+     "dre_path": "/dr/detalhe/decreto-lei/142-1989-625606"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "5b624121a40d00c2",
+    "c1398c10d282cff3",
+    "90c2493efb75cfe1",
+    "cb2d74d6e3dba19f",
+    "c1c7139e99a4998c",
+    "87ef179c93e96dab",
+    "a55ca92cfb013c6b",
+    "7d7eacb6bf4afba9",
+    "151732541d4b7bf8",
+    "cf301ee61eb990da",
+    "11497050fde3cd1f",
+    "5f97fbc0d87bc2c2",
+    "dd21152fa85b6403",
+    "94b42ad421385794",
+    "924c8fca0c8ff887"
+   ]
+  }
+ ],
+ "fragments": {
+  "bf54547afd5b81d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Agosto\n\nConsiderando que o turismo, nos seus múltiplos aspectos, nomeadamente culturais e económicos, não surge nem se desenvolve sem particular esforço e dedicação;\n\nConsiderando que o [Decreto-Lei n.º 49265](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49265-1969-214263), de 26 de Setembro de 1969, que criou a medalha de mérito turístico, não corresponde já às exigências actuais de distinguir e premiar pessoas singulares e instituições, nacionais ou estrangeiras, que hajam contribuído, de modo relevante, para o desenvolvimento do turismo nacional e para o conhecimento de Portugal como país de turismo:\n\nEntendeu o Governo reformular o regime legal e definir os termos em que poderão ser atribuídas as medalhas nacionais de mérito turístico.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º Para distinguir pessoas singulares ou colectivas, nacionais ou estrangeiras, por serviços ou iniciativas relevantes para o turismo nacional poderá ser concedido pelo Governo o reconhecimento de mérito turístico, que constará da atribuição de medalhas ou de menções honrosas.\n\nArt. 2.º - 1 - As medalhas compreendem os seguintes graus:\n\n1.º grau - medalha de ouro;\n\n2.º grau - medalha de prata;\n\n3.º grau - medalha de bronze.\n\n2 - As menções honrosas incluem as modalidades a seguir indicadas:\n\n1.º grau - menção honrosa com placa de metal;\n\n2.º grau - menção honrosa com diploma.\n\n3 - Os diversos graus serão conferidos, tendo em atenção somente a importância objectiva dos serviços prestados, iniciativas e méritos revelados.\n\n4 - Os modelos das medalhas e das menções honrosas serão aprovados por portaria do membro do Governo com tutela sobre o sector do turismo.\n\nArt. 3.º - 1 - A concessão de todos os graus das medalhas e das menções honrosas são da exclusiva competência do membro do Governo com tutela sobre o sector do turismo.\n\n2 - O referido membro do Governo poderá solicitar parecer do secretário do Conselho Nacional do Turismo, que, para o efeito, deverá ouvir os organismos representativos ou as entidades a que, porventura, pertençam as pessoas singulares ou colectivas, nacionais ou estrangeiras, a distinguir.\n\nArt. 4.º - 1 - A medalha de ouro será atribuída a pessoas colectivas, nacionais ou estrangeiras, que se hajam distinguido por serviços extraordinários e de invulgar relevo para o turismo nacional prestados, pelo menos, durante 5 anos.\n\n2 - Excepcionalmente, poderá ser concedida a medalha de ouro a pessoas singulares, nacionais ou estrangeiras, desde que estejam indissociavelmente ligadas às entidades previstas no número anterior.\n\nArt. 5.º A medalha de prata será atribuída a pessoas singulares ou colectivas, nacionais ou estrangeiras, que se tenham evidenciado no exercício das suas actividades, por forma a que delas resulte o engrandecimento e a valorização do turismo nacional.\n\nArt. 6.º A medalha de bronze destina-se a galardoar os profissionais de turismo que demonstrem especial competência e dedicação nas suas funções ou que hajam sido distinguidos em quaisquer concursos ou manifestações internacionais como resultado da capacidade que lhe foi reconhecida.\n\nArt. 7.º A menção honrosa é concedida para distinguir iniciativas e realizações de interesse para o turismo nacional, quando a relevância das mesmas possa ser apontada como exemplo a seguir.\n\nArt. 8.º - 1 - A concessão das menções honrosas revestirá a forma de alvará publicado na 2.ª série do Diário da República.\n\n2 - Os alvarás de concessão de qualquer grau de reconhecimento de mérito turístico especificarão fundamentadamente os serviços, iniciativas ou realizações pelos quais tenha sido atribuído.\n\nArt. 9.º - 1 - Da concessão das medalhas e das menções honrosas será passado um diploma pela Secretaria de Estado do Turismo.\n\n2 - A concessão de qualquer grau de reconhecimento de mérito turístico constará de registo da Direcção-Geral de Turismo.\n\n3 - Na mesma Direcção-Geral correrão os processos e demais expediente respeitantes ao reconhecimento de mérito turístico.\n\nArt. 10.º - 1 - A investidura de qualquer grau de reconhecimento de mérito turístico terá lugar em acto público.\n\n2 - A solenidade consistirá na leitura do despacho de reconhecimento de mérito turístico e do respectivo alvará da concessão, na imposição das respectivas insígnias, no caso de atribuição de medalhas, e na entrega das menções honrosas.\n\nArt. 11.º Perderão o direito ao reconhecimento de mérito turístico e às respectivas insígnias e diplomas:\n\na) As pessoas singulares condenadas por crimes praticados no exercício da sua actividade ou que sofram qualquer sanção por actos dolosos lesivos do interesse ou do prestígio do País ou do turismo nacional:\n\nb) As pessoas colectivas que sejam objecto de sanção por infracção grave, quer relativa à sua actividade em geral, quer no domínio específico do turismo.\n\nArt. 12.º - 1 - A perda do direito mencionado no artigo anterior será notificado aos interessados por despacho do membro de Governo com tutela sobre o sector do turismo, publicado na 2.ª série do Diário da República.\n\n2 - O despacho será averbado no registo a que se refere o n.º 2 do artigo 9.º\n\nArt. 13.º revogado o [Decreto-Lei n.º 49265](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49265-1969-214263), de 26 de Setembro de 1969.\n\nArt. 14.º As dúvidas suscitadas na interpretação deste diploma serão resolvidas por despacho do membro do Governo com tutela sobre o sector do turismo.\n\nVisto e aprovado em Conselho de Ministros de 8 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 31 de Julho de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "5b624121a40d00c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Agosto\n\nConsiderando que o turismo, nos seus múltiplos aspectos, nomeadamente culturais e económicos, não surge nem se desenvolve sem particular esforço e dedicação;\n\nConsiderando que o [Decreto-Lei n.º 49265](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49265-1969-214263), de 26 de Setembro de 1969, que criou a medalha de mérito turístico, não corresponde já às exigências actuais de distinguir e premiar pessoas singulares e instituições, nacionais ou estrangeiras, que hajam contribuído, de modo relevante, para o desenvolvimento do turismo nacional e para o conhecimento de Portugal como país de turismo:\n\nEntendeu o Governo reformular o regime legal e definir os termos em que poderão ser atribuídas as medalhas nacionais de mérito turístico.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "c1398c10d282cff3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara distinguir pessoas singulares ou colectivas, nacionais ou estrangeiras, por serviços ou iniciativas relevantes para o turismo nacional poderá ser concedido pelo Governo o reconhecimento de mérito turístico, que constará da atribuição de medalhas ou de menções honrosas."
+  },
+  "90c2493efb75cfe1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - As medalhas compreendem os seguintes graus:\n\n1.º grau - medalha de ouro;\n\n2.º grau - medalha de prata;\n\n3.º grau - medalha de bronze.\n\n2 - As menções honrosas incluem as modalidades a seguir indicadas:\n\n1.º grau - menção honrosa com placa de metal;\n\n2.º grau - menção honrosa com diploma.\n\n3 - Os diversos graus serão conferidos, tendo em atenção somente a importância objectiva dos serviços prestados, iniciativas e méritos revelados.\n\n4 - Os modelos das medalhas e das menções honrosas serão aprovados por portaria do membro do Governo com tutela sobre o sector do turismo."
+  },
+  "cb2d74d6e3dba19f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A concessão de todos os graus das medalhas e das menções honrosas são da exclusiva competência do membro do Governo com tutela sobre o sector do turismo.\n\n2 - O referido membro do Governo poderá solicitar parecer do secretário do Conselho Nacional do Turismo, que, para o efeito, deverá ouvir os organismos representativos ou as entidades a que, porventura, pertençam as pessoas singulares ou colectivas, nacionais ou estrangeiras, a distinguir."
+  },
+  "c1c7139e99a4998c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1989-05-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 142/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1989-625606), publicado em 1989-04-28."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - A medalha de ouro será atribuída a pessoas colectivas, nacionais ou estrangeiras, que se hajam distinguido por serviços extraordinários e de invulgar relevo para o turismo nacional prestados, pelo menos, durante 5 anos.\n\n2 - Poderá também ser concedida a medalha de ouro a pessoas singulares, nacionais ou estrangeiras, que ao turismo nacional hajam prestado serviços extraordinários e de excepcional relevo e mérito.\n\n> Alterado pelo/a [Decreto-Lei n.º 142/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1989-625606), publicado em 1989-04-28."
+  },
+  "87ef179c93e96dab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA medalha de prata será atribuída a pessoas singulares ou colectivas, nacionais ou estrangeiras, que se tenham evidenciado no exercício das suas actividades, por forma a que delas resulte o engrandecimento e a valorização do turismo nacional."
+  },
+  "a55ca92cfb013c6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1989-05-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 142/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1989-625606), publicado em 1989-04-28."
+   ],
+   "markdown": "###### Artigo 6.º\n\nA medalha de bronze destina-se a galardoar as pessoas colectivas, nacionais ou estrangeiras, que tenham contribuído para a dignificação e valorização do turismo nacional e, bem assim, os profissionais de turismo que demonstrem especial competência no exercício das suas funções ou hajam sido distinguidos em quaisquer manifestações internacionais como resultado da capacidade que lhes foi reconhecida.\n\n> Alterado pelo/a [Decreto-Lei n.º 142/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1989-625606), publicado em 1989-04-28."
+  },
+  "7d7eacb6bf4afba9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1989-05-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 142/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1989-625606), publicado em 1989-04-28."
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - A menção honrosa é concedida para distinguir iniciativas e realizações de interesse para o turismo nacional quando a relevância da mesma possa ser apresentada como exemplo a seguir.\n\n2 - A menção honrosa atribuída à entidade organizadora de acontecimentos que revistam especial importância como atractivo turístico e, com carácter de regularidade, sirvam a defesa e promoção de valores tradicionais, culturais ou etnológicos, confere a faculdade de aqueles eventos usarem a designação de acontecimento de «interesse turístico internacional» ou «interesse turístico nacional».\n\n3 - A menção honrosa concedida a autor de livro ou obra impressa, filme ou outro suporte áudio-visual de comunicação confere o direito a designar como de «interesse turístico» a obra em atenção à qual haja sido atribuída.\n\n4 - A menção honrosa concedida a pessoa ou entidade que tenha realizado um trabalho especialmente relevante na valorização da gastronomia e dos vinhos portugueses confere o direito a designarem como de «interesse turístico» as obras ou iniciativas em atenção às quais haja sido atribuída.\n\n> Alterado pelo/a [Decreto-Lei n.º 142/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1989-625606), publicado em 1989-04-28."
+  },
+  "151732541d4b7bf8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - A concessão das menções honrosas revestirá a forma de alvará publicado na 2.ª série do Diário da República.\n\n2 - Os alvarás de concessão de qualquer grau de reconhecimento de mérito turístico especificarão fundamentadamente os serviços, iniciativas ou realizações pelos quais tenha sido atribuído."
+  },
+  "cf301ee61eb990da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Da concessão das medalhas e das menções honrosas será passado um diploma pela Secretaria de Estado do Turismo.\n\n2 - A concessão de qualquer grau de reconhecimento de mérito turístico constará de registo da Direcção-Geral de Turismo.\n\n3 - Na mesma Direcção-Geral correrão os processos e demais expediente respeitantes ao reconhecimento de mérito turístico."
+  },
+  "11497050fde3cd1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - A investidura de qualquer grau de reconhecimento de mérito turístico terá lugar em acto público.\n\n2 - A solenidade consistirá na leitura do despacho de reconhecimento de mérito turístico e do respectivo alvará da concessão, na imposição das respectivas insígnias, no caso de atribuição de medalhas, e na entrega das menções honrosas."
+  },
+  "5f97fbc0d87bc2c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nPerderão o direito ao reconhecimento de mérito turístico e às respectivas insígnias e diplomas:\n\na) As pessoas singulares condenadas por crimes praticados no exercício da sua actividade ou que sofram qualquer sanção por actos dolosos lesivos do interesse ou do prestígio do País ou do turismo nacional:\n\nb) As pessoas colectivas que sejam objecto de sanção por infracção grave, quer relativa à sua actividade em geral, quer no domínio específico do turismo."
+  },
+  "dd21152fa85b6403": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - A perda do direito mencionado no artigo anterior será notificado aos interessados por despacho do membro de Governo com tutela sobre o sector do turismo, publicado na 2.ª série do Diário da República.\n\n2 - O despacho será averbado no registo a que se refere o n.º 2 do artigo 9.º"
+  },
+  "94b42ad421385794": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nrevogado o [Decreto-Lei n.º 49265](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49265-1969-214263), de 26 de Setembro de 1969."
+  },
+  "924c8fca0c8ff887": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs dúvidas suscitadas na interpretação deste diploma serão resolvidas por despacho do membro do Governo com tutela sobre o sector do turismo.\n\nVisto e aprovado em Conselho de Ministros de 8 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 31 de Julho de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

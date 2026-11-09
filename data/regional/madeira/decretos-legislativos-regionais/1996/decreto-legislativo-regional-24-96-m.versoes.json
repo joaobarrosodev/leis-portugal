@@ -1,0 +1,106 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:219693:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-09-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2c61160c9be97921",
+    "e526d022fcab8d5d",
+    "bbd8f0ae7c558a02",
+    "459a906bbd10392a",
+    "eee0bcd20bdc639b",
+    "a709e9fa1721f492"
+   ]
+  },
+  {
+   "date": "2022-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205450899:por",
+     "title": "Decreto Legislativo Regional n.º 26/2022/M",
+     "published": "2022-12-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/26-2022-205450899"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "2c61160c9be97921",
+    "0cafabb3d6e8f3a1",
+    "bbd8f0ae7c558a02",
+    "459a906bbd10392a",
+    "eee0bcd20bdc639b",
+    "a709e9fa1721f492"
+   ]
+  }
+ ],
+ "fragments": {
+  "2c61160c9be97921": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Dispensa de serviço para actividades culturais\n\nNo âmbito da actividade cultural, muitos são os agentes que interpretam a arte, a história, o artesanato, a criatividade da Região, quer no interior, quer no exterior, o que, para além do mais, constitui importante meio de divulgação da realidade e da especificidade regionais e, ainda, de captação de visitantes, em busca da descoberta e da vivência dessa realidade.\n\nO desempenho dessas actividades culturais, normalmente com brio, profissionalismo e orgulho, acarreta por vezes prejuízo à vida familiar e profissional dos intervenientes.\n\nÉ justo que sejam atenuados tais prejuízos.\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira, ao abrigo da alínea a) do n.º 1 do artigo 229.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 29.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:"
+  },
+  "e526d022fcab8d5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs intervenientes, funcionários da administração pública regional e local, que, isoladamente ou integrados em grupos, participem em actividades de cariz cultural, na Região ou fora dela, e consideradas pelo Governo Regional como de interesse para a Região, têm direito a que o tempo disponibilizado nessas actividades seja considerado como tempo de serviço, para efeitos de antiguidade, sendo as faltas ao trabalho daí decorrentes havidas como justificadas."
+  },
+  "bbd8f0ae7c558a02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A classificação das actividades como de interesse para a Região será definida pelo secretário regional que tutela o sector da cultura, até ao dia 31 de Dezembro do ano anterior.\n\n2 - Em caso de lacuna, esta poderá ser preenchida por despacho fundamentado da respectiva tutela do funcionário."
+  },
+  "459a906bbd10392a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs faltas que ultrapassem o número de 15 dias úteis por ano serão analisadas, caso a caso, pelo serviço a que o funcionário está ligado, após parecer da secretaria regional que tutela o sector da cultura."
+  },
+  "eee0bcd20bdc639b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA participação nas referidas actividades, nos termos deste diploma, não provoca a perda de remunerações."
+  },
+  "a709e9fa1721f492": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente diploma entra imediatamente em vigor.\n\nAprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 23 de Julho de 1996.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 22 de Agosto de 1996.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
+  },
+  "0cafabb3d6e8f3a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2022-12-30",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 26/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), publicado em 2022-12-29."
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs trabalhadores a qualquer título vinculados à Região Autónoma da Madeira ou outras pessoas coletivas de direito público, que, isoladamente ou integrados em grupos, participem em atividades de cariz cultural, na Região ou fora dela, e consideradas pelo Governo Regional como de interesse para a Região, têm direito a que o tempo disponibilizado nessas atividades seja considerado como tempo de serviço, para efeitos de antiguidade, sendo as faltas ao trabalho daí decorrentes havidas como justificadas.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), publicado em 2022-12-29."
+  }
+ }
+}

@@ -1,0 +1,1276 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:308334:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-11-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cd0a5b647364fa1e",
+    "ac8749421030e736",
+    "0fe23a96cf7a7bf7",
+    "b8ab2426dd4515fc",
+    "f76efe09341eaad2",
+    "53760dbe2931b8cd",
+    "e9f57842fe2a2c4f",
+    "35a1d4ec4c05dc3c",
+    "06e1a8a98cf3db53",
+    "162bb8020f488c2f",
+    "002e4af71a004b7e",
+    "fd5e8c244c043fe4",
+    "ac8e09da428ce022",
+    "3217d568f4e2aed8",
+    "4b956e4fb8966407",
+    "9d199a274b5b0be9",
+    "65837d0289c19a27",
+    "325c23e73e187e2c",
+    "ffc8495b076ce861",
+    "28a3414db48a2925",
+    "963978e08748502f",
+    "e454ed69f71995c3",
+    "efb16f392b6d0f34",
+    "eac0e415773eb123",
+    "ea142243dc432fcf",
+    "8e81966c7a5f984f",
+    "e57516e65938e1f9",
+    "9db83dea15702487",
+    "dcfc74a2aa9b3b2d",
+    "e9680213306d64cc",
+    "79a04d6a0fcce5e4",
+    "23333334b690a109",
+    "cad6b23236467ed3",
+    "5825861614c549f0",
+    "5b3eabff49d69d90",
+    "18490aa33f19d724",
+    "9cc62a50468b940e",
+    "b990eb4c4965f71c",
+    "16f27ed5b16d6e83",
+    "9537e6f4238b3216",
+    "4599d06f60e63588",
+    "ad1813843afcadde",
+    "c978937ef74fa1df",
+    "38a7049dd94c9e69",
+    "54aa36f6bd89f877",
+    "e790b6c3f6df9e03",
+    "f7841893eb5dcd06",
+    "3c79098369da6afa",
+    "5e35f3a4cf2c9e51",
+    "2d9e58322c60801a",
+    "07243093fafeb042",
+    "df74037fa0168b8e",
+    "4083ca6e73a68ddb",
+    "a989a2c07607bf99",
+    "e1c72810f3135048",
+    "751944c6de657aab",
+    "e084566b7a30a547",
+    "342f712bbc15263e",
+    "f8b9afa38d4dcb31",
+    "ffaa2a2951a9a4df",
+    "1a82760a764a8486",
+    "8083c78188228c9f",
+    "a0a51bed5f843b73",
+    "fd8ab9da86534b71",
+    "537bf6095962fa10",
+    "95f2762b05ed8361",
+    "bcdca7e0aee1339d",
+    "7b88a54993fa6e72",
+    "b82990f0704d2401",
+    "79cece303edf558f",
+    "f7b0d4adcb77b795",
+    "7e7ccadf6d98a8be",
+    "16c923509c098810",
+    "f5131833a421567a",
+    "1368c2f615b28d6b",
+    "c855ed765cf93f24",
+    "f54ea96d2db8478a",
+    "387bc36e7472ab9b",
+    "c97a8cf039c4b7aa",
+    "7339a2dbdd74d4cd",
+    "2eaa1853306c9b8e",
+    "48432457260ee536",
+    "9b9ba14ba0399b55",
+    "56631a0105844782",
+    "2fde29a1cd8e3011",
+    "fe84d46e3d7e0454",
+    "9bdb35ab5091773e",
+    "1d933c47e6eb02bc",
+    "d05337da8c593480",
+    "27d238529a12082f",
+    "3cca8d14999fe721",
+    "07f7558797b96938",
+    "8be55dadb132da8f",
+    "97d3181cbff46e5e",
+    "3a733929c8d460da",
+    "ca384d518a3941e5",
+    "c4657736f0a38773",
+    "a83b5cfe9544f4f3",
+    "6beddd7ecc019e58",
+    "0c4a75ea1da455cd",
+    "e87c76a55d1419f3",
+    "fd0f793c1f85395a",
+    "a73b40d446a59bf4",
+    "5ea7b4ef7cc8d257",
+    "a84334d8bbd70ee1",
+    "35bb861cc8705a11",
+    "12f92980aba63d1b",
+    "51769c018d2b9892",
+    "f8f4dc4673e8f65e",
+    "251eec1f8106860a",
+    "90f6e2caae386a75",
+    "d17646a77d07f4d0"
+   ]
+  },
+  {
+   "date": "2015-04-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67059137:por",
+     "title": "Lei n.º 31/2015",
+     "published": "2015-04-23",
+     "dre_path": "/dr/detalhe/lei/31-2015-67059137"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::48.º",
+    "Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::49.º",
+    "Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::54.º",
+    "Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::55.º",
+    "Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::56.º",
+    "Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::57.º",
+    "Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::58.º",
+    "Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::59.º",
+    "Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::60.º",
+    "Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::61.º",
+    "Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::62.º"
+   ],
+   "fragments": [
+    "cd0a5b647364fa1e",
+    "ac8749421030e736",
+    "0fe23a96cf7a7bf7",
+    "b8ab2426dd4515fc",
+    "f76efe09341eaad2",
+    "53760dbe2931b8cd",
+    "e9f57842fe2a2c4f",
+    "35a1d4ec4c05dc3c",
+    "06e1a8a98cf3db53",
+    "162bb8020f488c2f",
+    "002e4af71a004b7e",
+    "fd5e8c244c043fe4",
+    "ac8e09da428ce022",
+    "3217d568f4e2aed8",
+    "4b956e4fb8966407",
+    "9d199a274b5b0be9",
+    "65837d0289c19a27",
+    "325c23e73e187e2c",
+    "ffc8495b076ce861",
+    "28a3414db48a2925",
+    "963978e08748502f",
+    "e454ed69f71995c3",
+    "efb16f392b6d0f34",
+    "eac0e415773eb123",
+    "ea142243dc432fcf",
+    "8e81966c7a5f984f",
+    "e57516e65938e1f9",
+    "9db83dea15702487",
+    "dcfc74a2aa9b3b2d",
+    "e9680213306d64cc",
+    "79a04d6a0fcce5e4",
+    "23333334b690a109",
+    "cad6b23236467ed3",
+    "5825861614c549f0",
+    "5b3eabff49d69d90",
+    "18490aa33f19d724",
+    "9cc62a50468b940e",
+    "b990eb4c4965f71c",
+    "16f27ed5b16d6e83",
+    "9537e6f4238b3216",
+    "4599d06f60e63588",
+    "ad1813843afcadde",
+    "c978937ef74fa1df",
+    "38a7049dd94c9e69",
+    "54aa36f6bd89f877",
+    "e790b6c3f6df9e03",
+    "f7841893eb5dcd06",
+    "3c79098369da6afa",
+    "5e35f3a4cf2c9e51",
+    "2d9e58322c60801a",
+    "07243093fafeb042",
+    "df74037fa0168b8e",
+    "4083ca6e73a68ddb",
+    "a989a2c07607bf99",
+    "59a0e1e3ef949944",
+    "fd75b2d2a7ba3ab3",
+    "e084566b7a30a547",
+    "342f712bbc15263e",
+    "f8b9afa38d4dcb31",
+    "ffaa2a2951a9a4df",
+    "432f28d35b5d3dca",
+    "61983edd309bd03b",
+    "c4f686349cbc95dc",
+    "519257dd8ad0a773",
+    "dfe2187a7cf14f54",
+    "d689a69a38dd323c",
+    "bc940677e5e5bd07",
+    "f453af1ebc98beb5",
+    "25ce3fe7bc828fa6",
+    "79cece303edf558f",
+    "f7b0d4adcb77b795",
+    "7e7ccadf6d98a8be",
+    "16c923509c098810",
+    "f5131833a421567a",
+    "1368c2f615b28d6b",
+    "c855ed765cf93f24",
+    "f54ea96d2db8478a",
+    "387bc36e7472ab9b",
+    "c97a8cf039c4b7aa",
+    "7339a2dbdd74d4cd",
+    "2eaa1853306c9b8e",
+    "48432457260ee536",
+    "9b9ba14ba0399b55",
+    "56631a0105844782",
+    "2fde29a1cd8e3011",
+    "fe84d46e3d7e0454",
+    "9bdb35ab5091773e",
+    "1d933c47e6eb02bc",
+    "d05337da8c593480",
+    "27d238529a12082f",
+    "3cca8d14999fe721",
+    "07f7558797b96938",
+    "8be55dadb132da8f",
+    "97d3181cbff46e5e",
+    "3a733929c8d460da",
+    "ca384d518a3941e5",
+    "c4657736f0a38773",
+    "a83b5cfe9544f4f3",
+    "6beddd7ecc019e58",
+    "0c4a75ea1da455cd",
+    "e87c76a55d1419f3",
+    "fd0f793c1f85395a",
+    "a73b40d446a59bf4",
+    "5ea7b4ef7cc8d257",
+    "a84334d8bbd70ee1",
+    "35bb861cc8705a11",
+    "12f92980aba63d1b",
+    "51769c018d2b9892",
+    "f8f4dc4673e8f65e",
+    "251eec1f8106860a",
+    "90f6e2caae386a75",
+    "d17646a77d07f4d0"
+   ]
+  }
+ ],
+ "fragments": {
+  "cd0a5b647364fa1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Novembro\n\nConsiderando que é intenção do [Decreto-Lei n.º 306/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1991-674436), de 17 de Agosto, dignificar o espectáculo tauromáquico em Portugal;\n\nConsiderando também que essa dignificação passa, entre outros, pela revisão do Regulamento do Espectáculo Tauromáquico;\n\nConsiderando que o supracitado decreto-lei habilita o Governo, através de adequado instrumento legal, a proceder à referida revisão;\n\nConsiderando, por último, que foram ouvidas as associações representativas do sector;\n\nAssim:\n\nAo abrigo do disposto no artigo 6.º do [Decreto-Lei n.º 306/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1991-674436), de 17 de Agosto, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:\n\nArtigo único. É aprovado o Regulamento do Espectáculo Tauromáquico, anexo ao presente diploma e que dele faz parte integrante.\n\nPresidência do Conselho de Ministros, 20 de Junho de 1991.\n\nAníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Manuel Pereira - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.\n\nPromulgado em 8 de Novembro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 18 de Novembro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "ac8749421030e736": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Regulamento do Espectáculo Tauromáquico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Regulamento do Espectáculo Tauromáquico"
+  },
+  "0fe23a96cf7a7bf7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Do espectáculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Do espectáculo"
+  },
+  "b8ab2426dd4515fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Espectáculos tauromáquicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Espectáculos tauromáquicos\n\nConsideram-se espectáculos tauromáquicos todos os que tenham por finalidade a lide de reses bravas, os quais só se poderão realizar em recintos licenciados para o efeito pela Direcção-Geral dos Espectáculos e do Direito de Autor (DGEDA)."
+  },
+  "f76efe09341eaad2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Tipos de espectáculos tauromáquicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tipos de espectáculos tauromáquicos\n\n1 - Os espectáculos tauromáquicos podem ser dos seguintes tipos:\n\na) Corridas de touros;\n\nb) Novilhadas;\n\nc) Corridas mistas:\n\nd) Novilhadas populares;\n\ne) Variedades taurinas.\n\n2 - Os espectáculos tauromáquicos ou diversões de natureza análoga que apresentem aspectos não previstos no número anterior devem ser autorizados pela DGEDA, nas condições a estabelecer para cada caso, de acordo com as características dos mesmos.\n\n3 - Os intervenientes nos espectáculos tauromáquicos devem apresentar-se com os seus trajos tradicionais, à excepção das variedades taurinas e dos espectáculos de beneficência a que se refere o artigo 102.º do presente Regulamnto, nos quais é obrigatório o uso pelos artistas do trajo curto."
+  },
+  "53760dbe2931b8cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Corridas de touros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Corridas de touros\n\n1 - São corridas de touros os espectáculos em que reses com as características definidas no artigo 25.º são lidadas por cavaleiros ou «matadores» de touros.\n\n2 - Nos espectáculos referidos no número anterior, sempre que actuem cavaleiros, é obrigatória a inclusão de um ou mais grupos de forcados."
+  },
+  "e9f57842fe2a2c4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Novilhadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Novilhadas\n\nSão novilhadas os espectáculos em que reses com as características definidas no artigo 26.º são lidadas por cavaleiros ou novilheiros e novilheiros praticantes."
+  },
+  "35a1d4ec4c05dc3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Corridas mistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Corridas mistas\n\nSão corridas mistas os espectáculos tauromáquicos que conjugarem cumulativamente características dos espectáculos definidos nos dois artigos anteriores."
+  },
+  "06e1a8a98cf3db53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Novilhadas populares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Novilhadas populares\n\nSão novilhadas populares os espectáculos tauromáquicos em que reses com as características definidas no artigo 26.º são lidadas por cavaleiros praticantes e amadores e ou novilheiros praticantes."
+  },
+  "162bb8020f488c2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Variedades taurinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Variedades taurinas\n\n1 - São variedades taurinas os espectáculos tauromáquicos em que são lidados, indistintamente, garraios, vacas ou novilhos por praticantes e ou amadores ou toureiros cómicos.\n\n2 - As variedades taurinas em que sejam lidados apenas garraios por praticantes ou amadores podem ser anunciadas como garraiadas."
+  },
+  "002e4af71a004b7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Publicidade\n\n1 - A publicidade, sob qualquer forma, dos espectáculos tauromáquicos incluirá sempre a indicação do tipo de espectáculo, da respectiva empresa promotora, do tipo e do número de reses a lidar, do elenco artístico, da ganadaria ou ganadarias e da classificação etária.\n\n2 - Todos os aspectos do espectáculo a publicitar devem estar conformes ao presente Regulamento."
+  },
+  "fd5e8c244c043fe4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Alteração ao espectáculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração ao espectáculo\n\nQualquer alteração ao espectáculo anunciado implica a comunicação prévia ao director de corrida, que ordenará a sua afixação em local bem visível, nomeadamente nas bilheteiras, para conhecimento antecipado do público, sem prejuízo do disposto no artigo 49.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), de 20 de Novembro de 1959."
+  },
+  "ac8e09da428ce022": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Poder exclusivo do director de corrida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Poder exclusivo do director de corrida\n\nSó o director de corrida pode determinar a não realização ou suspensão do espectáculo por não cumprimento do disposto no presente Regulamento."
+  },
+  "3217d568f4e2aed8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Acesso do público à praça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acesso do público à praça\n\nO acesso do público deve ser facultado pelo menos com uma hora de antecedência em relação ao início do espectáculo, após autorização do director de corrida para abertura das portas da praça."
+  },
+  "4b956e4fb8966407": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Bandas de música",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Bandas de música\n\nEm todas as praças, os espectáculos são obrigatoriamente abrilhantados por uma banda de música, que deve tocar antes do seu início, durante as cortesias ou passeio das quadrilhas e no fim da lide de cada rês, quando se aplaudem os lidadores e, ainda, durante o decorrer da lide, sempre que o director de corrida o determinar."
+  },
+  "9d199a274b5b0be9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Da direcção do espectáculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Da direcção do espectáculo"
+  },
+  "65837d0289c19a27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Poder de orientação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Poder de orientação\n\nCabe ao director de corrida orientar o espectáculo, fazendo respeitar o disposto no presente Regulamento."
+  },
+  "325c23e73e187e2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Delegados técnicos tauromáquicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Delegados técnicos tauromáquicos\n\n1 - Os espectáculos tauromáquicos são dirigidos por um director de corrida, assessorado por um médico veterinário, ambos nomeados pela DGEDA de entre os seus delegados técnicos tauromáquicos.\n\n2 - A estrutura, recrutamento e selecção do corpo de delegados técnicos tauromáquicos serão definidos por decreto regulamentar.\n\n3 - O director de corrida tem como auxiliar um avisador, a indicar pela entidade organizadora do espectáculo, destacado para actuar dentro da trincheira, com o fim de receber e transmitir as suas ordens.\n\n4 - Na falta ou impedimento do director de corrida, nomeado pela DGEDA, exerce aquelas funções um indivíduo de reconhecida competência, desde que o empresário e os artistas intervenientes estejam de acordo.\n\n5 - Os delegados técnicos tauromáquicos, no uso da sua competência, gozam das atribuições e poderes legais do pessoal de inspecção da DGEDA.\n\n6 - Os delegados técnicos tauromáquicos ocupam lugares privativos, a designar previamente pela DGEDA.\n\n7 - Junto do director de corrida deve haver um cornetim para efectuar os toques tradicionais que lhe forem ordenados por aquele."
+  },
+  "ffc8495b076ce861": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Obrigações do director de corrida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Obrigações do director de corrida\n\nO director de corrida tem por obrigação assistir a todas as operações preliminares e trabalhos finais mencionados neste Regulamento e, designadamente:\n\na) À verificação do peso das reses, assim como do ferro da ganadaria a que as mesmas pertencem, juntamente com o médico veterinário;\n\nb) À inspecção das reses a lidar, feita pelo médico veterinário, bem como à verificação dos respectivos certificados de inscrição e documentação oficial de trânsito;\n\nc) À verificação das farpas e bandarilhas a utilizar no espectáculo tauromáquico;\n\nd) Ao sorteio das reses;\n\ne) Ao trabalho do embolador e do pessoal do curro, certificando-se de que a saída das reses à arena está marcada pela ordem estabelecida no sorteio;\n\nf) Ao despontar das hastes, na presença do médico veterinário, que deve ser verificado por meio de uma bitola de que será portador, bitola essa que obedecerá ao disposto no n.º 3 do artigo 35.º"
+  },
+  "28a3414db48a2925": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Competências do director de corrida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências do director de corrida\n\nSão competências do director de corrida:\n\na) Proceder ao pormenor do espectáculo, o qual deve ser afixado em quadro próprio, na parede da barreira, por debaixo do local que lhe é destinado;\n\nb) Informar a autoridade policial, por escrito, da impossibilidade da realização do espectáculo;\n\nc) Ordenar o início do espectáculo;\n\nd) Mandar assinalar, por toques de cornetim, as mudanças de tércio, segundo indicação dos artistas ou por critério próprio, quando os artistas não tenham ainda a alternativa de «matador de touros» ou de cavaleiro;\n\ne) Mandar recolher a rês, por indicação do médico veterinário, quando verifique que esta entra na praça diminuída fisicamente ou adquire qualquer defeito físico impeditivo da lide, não havendo neste último caso lugar a substituição pela rês de reserva;\n\nf) Ordenar a saída da rês de reserva;\n\ng) Limitar o intervalo, entre a lide de cada rês, ao tempo necessário para o lidador agradecer os aplausos do público e para o pessoal limpar e alisar a arena e colocar ou retirar os esconderijos;\n\nh) Autorizar, quando o lidador tiver de lidar sozinho mais de três reses seguidas, um pequeno intervalo de cinco a dez minutos, caso o lidador o solicite;\n\ni) Permitir aos lidadores, forcados e ganadeiros ou seus representantes a volta à arena, quando o público o solicitar;\n\nj) Permitir que qualquer cabeça de cartaz abandone a praça depois de terminada a sua actuação, quando alegue motivos ponderosos e tenha a aquiescência dos colegas com quem alternar;\n\nl) Solicitar a colaboração da autoridade policial para identificação dos intervenientes no espectáculo, campinos, pessoal auxiliar e avisador que não acatem as suas determinações, nomeadamente lidadores que, sem motivo considerado justificativo, se recusem a iniciar ou a concluir a lide das reses que lhes competem e, bem assim, os espectadores ou vendedores que, de algum modo, perturbem o espectáculo."
+  },
+  "963978e08748502f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Outras competências do director de corrida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Outras competências do director de corrida\n\nAo director de corrida compete ainda:\n\na) Receber do médico veterinário os certificados de inscrição relativos às reses a lidar e, após o espectáculo, apor-lhes o carimbo «Corrido»;\n\nb) Verificar se todos os intervenientes no espectáculo se encontram presentes quinze minutos antes da hora marcada para o seu início;\n\nc) Verificar se o piso da arena se encontra apto, de acordo com as normas legais;\n\nd) Decidir sobre divergências que possam surgir entre a empresa, ganadeiros e lidadores ou seus representantes, ouvindo o parecer do médico veterinário sempre que o mesmo se justifique;\n\ne) Entregar na DGEDA, até quarenta e oito horas depois de terminado o espectáculo, o relatório das ocorrências nele verificadas, acompanhado dos certificados e documentos referidos nos artigos 24.º e 28.º que lhe tenham sido entregues."
+  },
+  "e454ed69f71995c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Identificação dos delegados técnicos tauromáquicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Identificação dos delegados técnicos tauromáquicos\n\nOs delegados técnicos tauromáquicos - director de corrida e médico veterinário - são identificados, em todas as praças de touros, mediante cartão de identificação emitido pela DGEDA, que lhes dá acesso a todos os locais das praças quando no exercício das respectivas funções."
+  },
+  "efb16f392b6d0f34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Competências do médico veterinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competências do médico veterinário\n\nSão competências do médico veterinário designado pela DGEDA para serviço num espectáculo tauromáquico:\n\na) Exercer as funções que lhe são determinadas pelo presente Regulamento;\n\nb) Assessorar o director de corrida, emitindo parecer sobre todos os assuntos para que for solicitado no âmbito da sua competência."
+  },
+  "eac0e415773eb123": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Das praças de touros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Das praças de touros"
+  },
+  "ea142243dc432fcf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Classificação\n\nAs praças de touros são classificadas pela DGEDA, ouvida a Comissão de Tauromaquia, em 1.ª, 2.ª e 3.ª categorias, tendo em conta, nomeadamente, a tradição da localidade, a lotação, o número de espectáculos normalmente realizados em cada ano e o tipo de construção."
+  },
+  "8e81966c7a5f984f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Vistoria anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Vistoria anual\n\nTodas as entidades responsáveis pelas praças de touros devem requerer à DGEDA, anualmente, durante os meses de Janeiro e Fevereiro, a vistoria para verificação das correspondentes condições técnicas e de segurança."
+  },
+  "e57516e65938e1f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Balanças e esconderijos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Balanças e esconderijos\n\n1 - Nas praças de touros de 1.ª e 2.ª categorias devem existir obrigatoriamente balanças destinadas à pesagem das reses.\n\n2 - Nas praças de 1.ª e 2.ª categorias é obrigatória a existencia de esconderijos entre barreiras, com as seguintes características:\n\na) Devem ser em número mínimo de oito, distribuídos ao longo de toda a circunferência;\n\nb) Devem ter, de dimensão, 3,5 m;\n\nc) Devem ter portas de ambos os lados;\n\nd) O que for destinado à equipa médica deve estar assinalado e colocado junto à porta que comunica com o posto de socorros, dispondo de lugares sentados."
+  },
+  "9db83dea15702487": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Posto de socorros e assistência médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Posto de socorros e assistência médica\n\n1 - Em todas as praças é obrigatória a existência de instalações destinadas a um posto de socorros para assistência aos artistas tauromáquicos.\n\n2 - O posto de socorros deve ser composto, sempre que possível, por duas divisões contíguas com a dimensão mínima de 4 m x 4 m, comunicando largamente entre si, apresentando-se o pavimento e as paredes revestidos por material próprio, lavável e impermeável, devendo dispor de águas correntes.\n\n3 - Na primeira das divisões indicadas, que se destina a primeiros socorros, devem existir macas, leitos e mesas ou marquesas para observação e primeiros tratamentos de urgência, designadamente intervenções de pequena cirurgia.\n\n4 - É exigido como mínimo no posto de socorros o seguinte equipamento:\n\na) Instrumentos para dissecações, laqueações e sotura, nomeadamente pinças hemostáticas, tesouras, bisturis e garrotes para membros;\n\nb) Material de imobilização provisória de fracturas, nomeadamente talas kramer e ligaduras gessadas.\n\n5 - O equipamento cirúrgico do posto de socorros cabe à entidade proprietária da praça.\n\n6 - É da responsabilidade da entidade exploradora da praça o apetrechamento dos materiais perecíveis, tendo em atenção a sua validade de utilização.\n\n7 - Em todos os espectáculos, sem prejuízo do disposto no n.º 9 do presente artigo, a respectiva entidade organizadora deverá assegurar tanto a presença de uma ambulância medicalizada como a presença de uma equipa médica composta de, pelo menos, um médico-cirurgião e um enfermeiro.\n\n8 - A ambulância medicalizada deverá estar munida de oxigénio e de, pelo menos, um litro de sangue «dador universal» (ORh +), bem como de soros e plasma na quantidade de 2 l de cada um.\n\n9 - Quando se trate de espectáculos de variedades taurinas em que não participem novilheiros praticantes e reses em pontas, deve a entidade organizadora assegurar a presença de um enfermeiro e de uma ambulância simples e é bastante a existência no posto de socorros de material de dissecação, corte e sotura, para eventual tratamento de pequenas cirurgias, bem como de material de imobilização de fracturas.\n\n10 - Compete ao chefe da equipa médica verificar se o posto de socorros está nas condições estabelecidas no presente capítulo e entregar o seu parecer ao director de corrida, por escrito, até quatro horas antes do início do espectáculo.\n\n11 - A entidade organizadora do espectáculo deverá comunicar previamente ao hospital mais próximo que disponha de serviço de urgência a realização do espectáculo, com vista à eventualidade de se verificar acidente grave.\n\n12 - Relativamente à comunicação referida no número anterior, a empresa organizadora entregará ao director de corrida, até à hora da apartação e sorteio das reses, um documento comprovativo de que fez a comunicação.\n\n13 - A falta de cumprimento quanto ao que se estabelece neste capítulo impede a realização do espectáculo, nos termos do artigo 10.º"
+  },
+  "dcfc74a2aa9b3b2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Das reses e da sua lide",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Das reses e da sua lide"
+  },
+  "e9680213306d64cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Obrigatoriedade de reses puras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Obrigatoriedade de reses puras\n\n1 - Só é permitida a lida de reses puras e que sejam provenientes de ganadarias sanitariamente avalizadas pela autoridade sanitária veterinária inscritas no Livro Genealógico dos Bovinos da Raça Brava de Lide e acompanhadas dos respectivos certificados de inscrição, a entregar na hora da inspecção ao médico veterinário.\n\n2 - Os certificados referidos no número anterior devem ser requeridos pelo ganadeiro aos competentes serviços do Livro Genealógico.\n\n3 - Exceptuam-se do disposto no n.º 1 as reses que, em garraiadas ou outras variedades taurinas, se não destinem à lide apeada."
+  },
+  "79a04d6a0fcce5e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Reses para corridas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Reses para corridas\n\nAs reses a lidar em corridas de touros devem ser do sexo masculino e obedecer às seguintes características:\n\na) Em praças de 1.ª categoria, devem ter pelo menos 3 anos de idade e 440 kg de peso;\n\nb) Em praças de 2.ª categoria, devem ter pelo menos 3 anos de idade e 430 kg de peso;\n\nc) Em praças de 3.ª categoria, devem ter pelo menos 3 anos de idade e 420 kg de peso."
+  },
+  "23333334b690a109": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Reses para novilhadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reses para novilhadas\n\nAs reses a lidar em novilhadas devem ser do sexo masculino e ter 3 anos de idade e os pesos mínimos de 380 kg, 370 kg e 360 kg, respectivamente para praças de 1.ª, 2.ª e 3.ª categorias."
+  },
+  "cad6b23236467ed3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Inspecção das reses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Inspecção das reses\n\n1 - As reses destinadas às lides devem dar entrada nas praças de 1.ª categoria na véspera do dia de espectáculo, excepto quando se trate de variedades taurinas, e nas restantes até quatro horas antes do início do sorteio.\n\n2 - A inspecção e pesagem das reses devem realizar-se até quatro horas antes do sorteio, na presença do director de corrida e do médico veterinário."
+  },
+  "5825861614c549f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Documentação oficial de trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Documentação oficial de trânsito\n\nO ganadeiro ou seu representante deve entregar ao médico veterinário, até ao momento da inspecção, a documentação oficial de trânsito das reses que irão ser lidadas."
+  },
+  "5b3eabff49d69d90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Motivos de rejeição das reses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Motivos de rejeição das reses\n\nA inspecção visa a verificação da documentação de carácter zootécnico e sanitário, o peso, a idade e o aspecto morfológico das reses a lidar, considerando-se como motivo de rejeição, além da deficiente apresentação, os defeitos seguintes:\n\na) A cegueira, mesmo parcial;\n\nb) Notáveis defeitos na visão;\n\nc) Criptorquidia;\n\nd) Defeitos de locomação;\n\ne) Defeitos acentuados nas hastes."
+  },
+  "18490aa33f19d724": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Certificação da inspecção às reses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Certificação da inspecção às reses\n\nDo resultado definitivo da inspecção é passado certificado pelo médico veterinário, em duplicado e de modelo a aprovar pela DGEDA, sendo um exemplar entregue ao director de corrida e o outro ao promotor do espectáculo."
+  },
+  "9cc62a50468b940e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Avaliação do peso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Avaliação do peso\n\n1 - Nas praças de 1.ª e 2.ª categorias é considerado o peso resultante da pesagem na balança existente na praça.\n\n2 - Nas praças de 3.ª categoria que não disponham de balança é considerado o peso aparente das reses, estimado pelo médico veterinário com o acordo do director de corrida.\n\n3 - Caso não seja possível um acordo sobre o peso, é considerado aquele que resultar da média entre os dois pesos divergentes.\n\n4 - O ganadeiro e o empresário podem ainda recorrer à pesagem das reses na balança mais próxima, sendo as despesas resultantes desta diligência da responsabilidade de ambos."
+  },
+  "b990eb4c4965f71c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Hastes despontadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Hastes despontadas\n\nNos espectáculos em que os touros ou novilhos saiam à arena com as hastes despontadas não podem ser anunciados touros ou novilhos em hastes íntegras."
+  },
+  "16f27ed5b16d6e83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Reses emboladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Reses emboladas\n\n1 - Devem ser emboladas as reses destinadas ao toureio a cavalo e desemboladas as que se destinam ao toureiro a pé.\n\n2 - Os cavaleiros podem lidar reses desemboladas devidamente despontadas, desde que haja acordo prévio entre eles, os forcados e as empresas."
+  },
+  "9537e6f4238b3216": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Embolação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Embolação\n\nNa embolação das reses a lidar nos espectáculos tauromáquicos só podem ser empregues «bolas» de couro que cubram integralmente as hastes."
+  },
+  "4599d06f60e63588": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Requisitos a que deve obedecer o despontar das hastes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Requisitos a que deve obedecer o despontar das hastes\n\n1 - Os touros ou novilhos podem apresentar-se com hastes ligeiramente despontadas, não podendo o corte das pontas exceder a dimensão menor do rectângulo da bitola.\n\n2 - O despontar das hastes deve ser efectuado na presença do director de corrida e do médico veterinário, podendo também assistir os cabeças de cartaz, empresários e ganadeiros ou seus representantes.\n\n3 - Para efeito do controlo do disposto no número anterior, deve o director de corrida ser portador de uma bitola, de chapa metálica, que apresente uma abertura rectangular, cujo lado menor medirá 12 mm."
+  },
+  "ad1813843afcadde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Sorteio das reses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Sorteio das reses\n\n1 - O sorteio das reses a lidar deve ser efectuado com a assistência do director de corrida, do médico veterinário, do ganadeiro, do empresário e dos cabeças de cartaz ou dos respectivos representantes.\n\n2 - O sorteio efectuar-se-á às 12 horas para os espectáculos da tarde e às 17 horas para os espectáculos nocturnos, mas, no caso de à hora prevista não se encontrar algum dos intervenientes ou seus representantes, o director de corrida, na presença do médico veterinário e do empresário, fará o sorteio, não havendo recurso dos faltosos."
+  },
+  "c978937ef74fa1df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Apartação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Apartação\n\n1 - Na apartação devem ser separadas as reses destinadas à lide a cavalo e à lide a pé.\n\n2 - De entre as reses destinadas a cada uma das modalidades de lide devem ser feitos tantos lotes quantos os lidadores.\n\n3 - Os lotes devem ser constituídos por reses, tanto quanto possível, equilibradas em casta, peso, idade e forma de armação.\n\n4 - Se as reses não pertencerem à mesma ganadaria, devem dividir-se, tanto quanto possível, pelos diferentes lotes, tendo em atenção a modalidade de lide para que foram anunciadas.\n\n5 - Feitos os lotes, esses são sorteados entre os correspondentes lidadores.\n\n6 - Nos espectáculos tauromáquicos de concurso de ganadarias, as reses a lidar devem sair por ordem de antiguidade das respectivas ganadarias."
+  },
+  "38a7049dd94c9e69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Isolamento das reses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Isolamento das reses\n\nTerminado o sorteio, as reses são encurraladas isoladamente em compartimentos, sobre os quais deve ser afixado o número de ordem de saída à arena, estabelecido pelos lidadores ou seus representantes, sem prejuízo do disposto no n.º 6 do artigo anterior."
+  },
+  "54aa36f6bd89f877": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Proibição de acesso aos curros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Proibição de acesso aos curros\n\nDepois de isoladas as reses devem ser deixadas em completo sossego até à hora do espectáculo, sendo proibida a entrada de qualquer pessoa na zona dos curros, salvo se autorizada pelos delegados técnicos tauromáquicos e desde que acompanhada por representante de ganadaria, excepto o embolador e ajudante."
+  },
+  "e790b6c3f6df9e03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Rês inutilizada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Rês inutilizada\n\n1 - As empresas não têm obrigação de fazer correr mais reses do que as anunciadas, nem são obrigadas a substituir alguma que se inutilize durante a lide.\n\n2 - Neste último caso, o lidador a quem competir a rês inutilizada perde o turno, como se a tivesse lidado até ao fim."
+  },
+  "f7841893eb5dcd06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Rês de reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Rês de reserva\n\n1 - Em todos os espectáculos tauromáquicos, com excepção das variedades taurinas, as empresas devem ter nos currais, à disposição dos delegados técnicos tauromáquicos, uma rês de reserva com o peso exigido, para substituição de alguma que se tenha inutilizado antes de sair à arena ou que antes do início da lide apresente defeitos físicos não revelados na inspecção.\n\n2 - À rês de reserva aplicam-se todas as disposições do presente Regulamento relativas às reses a lidar.\n\n3 - Substituída a rês, o lidador a quem aquela competir não perde o turno, salvo motivo atendível pelo director de corrida.\n\n4 - A rês de reserva pode excepcionalmente não pertencer à ganadaria anunciada.\n\n5 - Na falta da rês de reserva, o director de corrida não deve permitir a realização do espectáculo."
+  },
+  "3c79098369da6afa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Jogo de cabrestos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Jogo de cabrestos\n\n1 - Durante os espectáculos tauromáquicos é obrigatória a permanência nos curros da praça de um jogo de cabrestos devidamente adestrados e de preferência do mesmo ganadeiro que forneça as reses, para a recolha destas.\n\n2 - O jogo de cabrestos deve compor-se de um mínimo de seis reses.\n\n3 - Exceptuam-se do disposto nos números anteriores os espectáculos a realizar em praças desmontáveis."
+  },
+  "5e35f3a4cf2c9e51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Ferragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Ferragem\n\n1 - A ferragem destinada à lide dos touros e novilhos obedece às características seguintes:\n\na) As bandarilhas devem medir 70 cm de comprimento, ser enfeitadas com papel de seda de variadas cores e rematadas com um ferro de 8 cm, com um arpão de 4 cm de comprimento e 20 mm de largura;\n\nb) As farpas ou ferros compridos e os ferros curtos devem medir, respectivamente, 140 cm e 80 cm de comprimento, com ferragem idêntica à da bandarilha, mas com dois arpões, e ser enfeitados e rematados da mesma forma que as bandarilhas.\n\n2 - As bandarilhas a colocar a duas mãos pelo cavaleiro devem medir 90 cm de comprimento.\n\n3 - Os ferros compridos devem partir de modo que 35 cm fiquem na rês e o restante na mão do cavaleiro.\n\n4 - A ferragem a utilizar na lide de garraios ou vacas deve ser enfeitada da mesma forma que as bandarilhas e rematar com um ferro que não exceda 3 cm de comprimento, com arpão até 1 cm de largura.\n\n5 - A ferragem é fornecida, junto dos curros, pelo embolador aos moços de cavalos e moços de espadas, sendo entregue por estes aos lidadores em zonas fixas da trincheira, definidas pela DGEDA e devidamente assinaladas."
+  },
+  "2d9e58322c60801a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Da lida e das pegas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Da lida e das pegas\n\n1 - A lide a cavalo de cada rês não deve exceder dez minutos, findos os quais será dado o primeiro aviso; dois minutos depois deste será dado o segundo aviso e um minuto depois o terceiro, ao que de imediato se seguirá a pega.\n\n2 - As pegas de caras ou de cernelha não podem exceder cinco minutos e três tentativas, sendo dados avisos pelo director de corrida ao fim dos dois ou dos quatro minutos.\n\n3 - Quando uma modalidade de pega for utilizada como recurso de outra frustrada, não se pode recorrer de novo à inicial, aplicando-se à modalidade de recurso o disposto no número anterior.\n\n4 - Para concretização da pega, o forcados são obrigatoriamente auxiliados pelos bandarilheiros que compõem a quadrilha do cavaleiro que tiver lidado a rês correspondente, os quais deverão bregar e colocar a rês no sítio e posição que lhes foi indicado pelo cabo do grupo ou pelo forcado encarregado da pega.\n\n5 - Na lide a pé, a faena de muleta não deve exceder oito minutos, findo os quais será dado o primeiro aviso; dois minutos depois deste será dado o segundo aviso e um minuto depois o terceiro, indicando que vão entrar os cabrestos, a fim de recolher a rês."
+  },
+  "07243093fafeb042": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Proibição durante as lides",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Proibição durante as lides\n\nÉ proibido o acesso do público a quaisquer lugares, bem como a actividade de vendedores, durante as lides."
+  },
+  "df74037fa0168b8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Pessoas entre barreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Pessoas entre barreiras\n\n1 - Sem prejuízo das forças policiais e dos bombeiros, o director de corrida autorizará a permanência entre barreiras apenas das seguintes entidades, com funções ligadas ao espectáculo:\n\na) Os artistas intervenientes no espectáculo, não podendo cada grupo de forcados exceder oito efectivos e quatro suplentes;\n\nb) O avisador;\n\nc) A equipa médica de serviço e os maqueiros;\n\nd) Um representante de cada cabeça de cartaz;\n\ne) Dois moços de cavalos por cada cavaleiro;\n\nf) Um moço de espadas e respectivo ajudante por cada espada;\n\ng) Um representante de cada ganadaria;\n\nh) Até dois representantes da empresa organizadora;\n\ni) O embolador e seu ajudante, dois campinos e demais pessoal de serviço entre barreiras e na arena;\n\nj) Até dois representantes da comunicação social;\n\nk) Até quatro profissionais de captação de imagens, nomeadamente fotógrafos, operadores de televisão e cinema.\n\n2 - As entidades referidas no número anterior, à excepção do avisador, devem manter-se nos esconderijos durante os períodos de tempo em que não participem no espectáculo.\n\n3 - A entidades referidas no n.º 1 são obrigatoriamente identificadas por processo a definir pela DGEDA."
+  },
+  "4083ca6e73a68ddb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Afixação obrigatória sobre o touril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Afixação obrigatória sobre o touril\n\n1 - Em todos os espectáculos tauromáquicos, excepto nas variedades taurinas, é obrigatória a afixação, sobre o touril, do peso, número e ano de nascimento da rês a lidar, bem como da ganadaria a que a mesma pertence.\n\n2 - A inscrição a que se refere o número anterior deve ser feita sobre um quadro com dimensões a definir pela DGEDA."
+  },
+  "a989a2c07607bf99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Dos artistas tauromáquicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Dos artistas tauromáquicos"
+  },
+  "e1c72810f3135048": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Inscrição na DGEDA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Inscrição na DGEDA\n\nÉ obrigatória a inscrição de todos os artistas tauromáquicos em registo especial a criar na DGEDA, a qual será comprovada por cartão de identificação específico."
+  },
+  "751944c6de657aab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Artistas e suas categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Artistas e suas categorias\n\n1 - Para efeitos do presente Regulamento são considerados artistas tauromáquicos os indivíduos que em espectáculos tauromáquicos exercem a actividade nas modalidades de actuação a que correspondem as seguintes categorias:\n\na) Cavaleiros e cavaleiros praticantes;\n\nb) «Matadores de touros», novilheiros e novilheiros praticantes;\n\nc) Grupo de forcados;\n\nd) Toureiro cómico;\n\ne) Bandarilheiro e bandarilheiro praticante;\n\nf) Amadores de todas as modalidades.\n\n2 - São considerados auxiliares os moços de espada e o embolador.\n\n3 - Os artistas referidos nas alíneas a), b), c) e d) do n.º 1 do presente artigo são designados genericamente de «cabeças de cartaz».\n\n4 - Para efeitos do disposto no artigo anterior, os grupos de forcados devem indicar todos os seus elementos constitutivos, bem como o respectivo cabo, responsável pelo grupo para efeitos do presente Regulamento.\n\n5 - Considera-se «elenco» o conjunto dos cabeças de cartaz que actuam em cada espectáculo e «quadrilha» o conjunto de artistas que coadjuvam os cabeças de cartaz nas suas actuações - bandarilheiros e bandarilheiros praticantes."
+  },
+  "e084566b7a30a547": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Elenco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Elenco\n\nEm cada espectáculo, o número de cavaleiros praticantes, novilheiros e novilheiros praticantes não pode exceder, respectivamente, os de cavaleiros, de «matadores de touros» e de novilheiros."
+  },
+  "342f712bbc15263e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Praticantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Praticantes\n\nEm todas as praças onde sejam promovidos mais de três espectáculos anuais, a respectiva empresa exploradora é obrigada a incluir nos elencos, pelo menos uma vez, um cavaleiro praticante e um novilheiro praticante."
+  },
+  "f8b9afa38d4dcb31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Quadrilhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Quadrilhas\n\n1 - Nos espectáculos tauromáquicos, as quadrilhas devem ser constituídas por bandarilheiros em número igual ao das reses a lidar, com as seguintes excepções:\n\na) Na lide a cavalo de uma só rês, cada quadrilha deve ser constituída por dois bandarilheiros;\n\nb) Na lide apeada, o número de bandarilheiros deve ser acrescido de uma unidade.\n\n2 - Em todas as quadrilhas pode ser substituído um bandarilheiro por dois bandarilheiros praticantes.\n\n3 - Quando a lide ficar a cargo do cavaleiro praticante ou do novilheiro praticante, um dos bandarilheiros deve ser substituído por dois bandarilheiros praticantes.\n\n4 - No caso de o cabeça de cartaz ser praticante e lidar apenas uma rês, a quadrilha deve ser constituída por um bandarilheiro e por um bandarilheiro praticante.\n\n5 - O número dos artistas indicados no n.º 1 pode ser excedido por acordo entre as empresas e os cabeças de cartaz.\n\n6 - O disposto neste artigo não é aplicável às garraiadas e às variedades taurinas."
+  },
+  "ffaa2a2951a9a4df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Elenco nas variedades taurinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Elenco nas variedades taurinas\n\n1 - Nas variedades taurinas, quando o número de vacas não exceder o de garraios, o de bandarilheiros não pode inferior a três e, quando o de garraios for igual ou superior ao de vacas, o de bandarilheiros não pode ser inferior a quatro.\n\n2 - Nas garraiadas, um dos bandarilheiros a que se refere o número anterior pode ser substituído por dois bandarilheiros praticantes.\n\n3 - Nas garraiadas, cada novilheiro praticante deve ser coadjuvado por um bandarilheiro praticante."
+  },
+  "1a82760a764a8486": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Inscrição - condições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Inscrição - condições gerais\n\nA inscrição a que se refere o artigo 48.º é reservada a indivíduos habilitados com a escolaridade obrigatória que possuam condições físicas para o exercíco da actividade e preencham os demais requisitos para tanto exigidos neste Regulamento."
+  },
+  "8083c78188228c9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Inscrição - condições específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Inscrição - condições específicas\n\nSão condições específicas para a atribuição das seguintes categorias:\n\na) De cavaleiro praticante - actuação em, pelo menos, cinco espectáculos tauromáquicos como cavaleiro amador e aprovação na prova de aptidão respectiva;\n\nb) De novilheiro praticante - actuação em, pelo menos, cinco espectáculos tauromáquicos como amador e aprovação na respectiva prova de aptidão:\n\nc) De bandarilheiro praticante - actuação em, pelo menos, cinco espectáculos tauromáquicos como amador e aprovação na respectiva prova de aptidão;\n\nd) De toureiro cómico - actuação em, pelo menos, cinco espectáculos como estagiário e apresentação de documento comprovativo de aptidão artística assinado por dois toureiros cómicos e três bandarilheiros;\n\ne) De moço de espada - apresentação de documento comprovativo de aptidão artística assinado por dois «matadores de touros» e dois moços de espada;\n\nf) De embolador - apresentação de documento comprovativo de aptidão artística assinado por um cavaleiro, um bandarilheiro e dois emboladores."
+  },
+  "a0a51bed5f843b73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Provas de aptidão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Provas de aptidão\n\n1 - As provas de aptidão referidas nas alíneas a), b) e c) do artigo anterior são prestadas em festivais taurinos, novilhadas ou novilhadas populares.\n\n2 - A prestação das provas referidas no número anterior deve ser requerida à DGEDA, devendo o requerente comprovar encontrar-se nas condições exigidas."
+  },
+  "fd8ab9da86534b71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Acesso a cavaleiro e bandarilheiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Acesso a cavaleiro e bandarilheiro\n\nO acesso às categorias de cavaleiro tauromáquico e de bandarilheiro só é permitido aos indivíduos que tenham actuado, respectivamente, como cavaleiro praticante e como bandarilheiro praticante em, pelo menos, 10 espectáculos e hajam sido aprovados na respectiva prova de alternativa."
+  },
+  "537bf6095962fa10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Provas de alternativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Provas de alternativa\n\n1 - As provas de alternativa são prestadas em corridas de touros.\n\n2 - Os cavaleiros e bandarilheiros só devem tomar alternativa nas praças de 1.ª e 2.ª categorias."
+  },
+  "95f2762b05ed8361": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Acesso a novilheiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Acesso a novilheiro\n\n1 - O acesso à categoria de novilheiro é reservado aos novilheiros praticantes com, pelo menos, dois anos na categoria e que tenham actuado em, pelo menos, oito espectáculos.\n\n2 - Só pode ser atribuída a categoria de «matador de touros» aos novilheiros que tenham obtido alternativa em corrida de touros «de morte», que terá de ser comprovada por documento passado pelo organismo competente do país onde a tomaram."
+  },
+  "bcdca7e0aee1339d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Datas e locais das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Datas e locais das provas\n\n1 - As datas e as praças em que se realizam as provas de aptidão e de alternativa referidas neste Regulamento devem ser indicadas à DGEDA pelos respectivos candidatos.\n\n2 - Os candidatos às categorias de cavaleiro e cavaleiro praticante são considerados como tendo estas categorias durante a prestação das provas respectivas, para efeito da composição dos elencos."
+  },
+  "7b88a54993fa6e72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Júris",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Júris\n\nOs júris das provas de aptidão são designados pelo director-geral dos Espectáculos e do Direito de Autor, sob proposta da Comissão de Tauromaquia."
+  },
+  "b82990f0704d2401": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Recurso\n\nAs decisões dos júris, devidamente fundamentadas, devem constar de actas assinadas por todos os membros e delas cabe recurso para o director-geral dos Espectáculos e do Direito de Autor."
+  },
+  "79cece303edf558f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Da Comissão de Tauromaquia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Da Comissão de Tauromaquia"
+  },
+  "f7b0d4adcb77b795": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — Constituição e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Constituição e funcionamento\n\n1 - É criada a Comissão de Tauromaquia (CT), presidida pelo director-geral dos Espectáculos e do Direito de Autor e constituída por:\n\na) Cinco vogais de reconhecido prestígio no meio tauromáquico nacional nomeados pelo membro do Governo responsável pela área da cultura;\n\nb) Seis delegados técnicos tauromáquicos, sendo três directores de corrida e três médicos veterinários;\n\nc) Membros das associações representativas dos artistas tauromáquicos, dos empresários, dos criadores de touros de lide, da crítica tauromáquica e dos clubes e tertúlias tauromáquicas em número de um por cada entidade.\n\n2 - Os membros da CT são nomeados pelo membro do Governo responsável pela área da cultura, sob proposta do director-geral dos Espectáculos e do Direito de Autor.\n\n3 - A CT reúne ordinariamente duas vezes por ano e extraordinariamente sempre que o seu presidente o entender necessário ou a requerimento de mais de metade dos seus membros.\n\n4 - Os membros da CT têm direito a senhas de presença, nos termos da lei geral."
+  },
+  "7e7ccadf6d98a8be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Competência\n\nÀ CT compete:\n\na) Assessorar a DGEDA sobre todos os assuntos relativos a espectáculos tauromáquicos;\n\nb) Analisar a forma como decorre a temporada tauromáquica e propor as medidas correctivas necessárias;\n\nc) Exercer as demais competências que lhe são cometidas neste Regulamento."
+  },
+  "16c923509c098810": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Das contra-ordenações"
+  },
+  "f5131833a421567a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — Dos trajos tradicionais e do grupo de forcados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Dos trajos tradicionais e do grupo de forcados\n\n1 - Constitui contra-ordenação punida com coima de 100000$00 a 500000$00 o incumprimento da obrigação de os intervenientes no espectáculo se apresentarem com os seus trajos tradicionais ou em trajo curto nos espectáculos de variedades taurinas e nos referidos no artigo 102.º\n\n2 - Constitui contra-ordenação punida com coima de 100000$00 a 500000$00 o incumprimento da obrigação de inclusão de, pelo menos, um grupo de forcados nas corridas de touros em que participem cavaleiros."
+  },
+  "1368c2f615b28d6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — Publicidade irregular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Publicidade irregular\n\n1 - Constitui contra-ordenação punida com coima de 100000$00 a 500000$00 a falta de indicação na publicidade dos espectáculos tauromáquicos de qualquer dos seguintes elementos:\n\na) Tipo de espectáculo;\n\nb) Empresa promotora;\n\nc) Tipo e número de reses a lidar;\n\nd) Elenco artístico;\n\ne) Ganadaria ou ganadarias;\n\nf) Classificação etária.\n\n2 - Constitui contra-ordenação punida com coima de 50000$00 a 500000$00 a não conformidade da publicidade do espectáculo com o presente Regulamento.\n\n3 - A negligência é punível."
+  },
+  "c855ed765cf93f24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — Incumprimento do horário de abertura da praça ao público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Incumprimento do horário de abertura da praça ao público\n\n1 - Constitui contra-ordenação punida com coima de 25000$00 a 250000$00 o incumprimento da obrigação de promover o acesso do público com, pelo menos, uma hora de antecedência, após autorização do director de corrida para abertura das portas da praça.\n\n2 - A negligência é punível."
+  },
+  "f54ea96d2db8478a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — Falta de banda de música e de afixação de pesos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Falta de banda de música e de afixação de pesos\n\nConstitui contra-ordenação punida com coima de 100000$00 a 500000$00 o incumprimento das obrigações estabelecidas nos artigos 12.º e 47.º"
+  },
+  "387bc36e7472ab9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — Falta de reses puras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Falta de reses puras\n\n1 - Constitui contra-ordenação punida com coima de 100000$00 a 500000$00 a colocação em lide de reses que não obedeçam aos requisitos previstos no n.º 1 do artigo 24.º\n\n2 - A negligência é punível."
+  },
+  "c97a8cf039c4b7aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — Falta de instalação de balanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Falta de instalação de balanças\n\nConstitui contra-ordenação punida com coima de 100000$00 a 500000$00 o incumprimento da obrigação da instalação de balanças nas praças de touros de 1.ª e 2.ª categorias."
+  },
+  "7339a2dbdd74d4cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — Falta de instalação de esconderijos entre barreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Falta de instalação de esconderijos entre barreiras\n\n1 - Constitui contra-ordenação punida com coima de 100000$00 a 500000$00 o incumprimento da obrigação de instalar nas praças de touros de 1.ª e 2.ª categorias esconderijos entre barreiras, com as características definidas no n.º 2 do artigo 22.º\n\n2 - A negligência é punível."
+  },
+  "2eaa1853306c9b8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º — Falta de instalação de áreas destinadas a posto de socorros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Falta de instalação de áreas destinadas a posto de socorros\n\n1 - Constitui contra-ordenação punida com coima de 100000$00 a 500000$00 a omissão de instalação de áreas destinadas a um posto de socorros para assistência aos lidadores.\n\n2 - A negligência é punível."
+  },
+  "48432457260ee536": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º — Falta de equipamentos adequados ao posto de socorros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Falta de equipamentos adequados ao posto de socorros\n\n1 - Constitui contra-ordenação punida com coima de 100000$00 a 500000$00 a omissão de instalação dos equipamentos previstos nos n.os 4, 8 e 9 do artigo 23.º\n\n2 - A negligência é punível."
+  },
+  "9b9ba14ba0399b55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º — Falta de apetrechamento de materiais perecíveis no posto de socorros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Falta de apetrechamento de materiais perecíveis no posto de socorros\n\n1 - Constitui contra-ordenação punida com coima de 100000$00 a 500000$00:\n\na) Falta de apetrechamento dos materiais perecíveis;\n\nb) A sua manutenção para além dos respectivos prazos de validade de utilização.\n\n2 - A negligência é punível."
+  },
+  "56631a0105844782": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º — Falta de condições de assistência hospitalar imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Falta de condições de assistência hospitalar imediata\n\n1 - Constitui contra-ordenação punida com coima de 100000$00 a 500000$00 o incumprimento das obrigações previstas nos n.os 7, 11 e 12 do artigo 23.º\n\n2 - A negligência é punível."
+  },
+  "2fde29a1cd8e3011": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º — Violação do dever de verificação do posto de socorros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Violação do dever de verificação do posto de socorros\n\n1 - Constitui contra-ordenação punida com coima de 100000$00 a 500000$00 o incumprimento da obrigação prevista no n.º 10 do artigo 23.º\n\n2 - A negligência é punível."
+  },
+  "fe84d46e3d7e0454": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º — Utilização de reses sujeitas a inscrição, registo, autorização ou verificação de requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Utilização de reses sujeitas a inscrição, registo, autorização ou verificação de requisitos\n\n1 - Constitui contra-ordenação punida com coima de 100000$00 a 500000$00 a colocação em lide de corridas de touros de reses que não obedeçam aos requisitos previstos no n.º 1 do artigo 24.º\n\n2 - A negligência é punível."
+  },
+  "9bdb35ab5091773e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º — Violação das características de peso e idade das reses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Violação das características de peso e idade das reses\n\n1 - Constitui contra-ordenação punida com coima de 250000$00 a 500000$00 a colocação em lide de reses que não obedeçam às características enunciadas no n.º 1 do artigo 25.º e no artigo 26.º\n\n2 - A negligência é punível."
+  },
+  "1d933c47e6eb02bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — Não apresentação das reses no prazo estabelecido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Não apresentação das reses no prazo estabelecido\n\n1 - Constitui contra-ordenação punida com coima de 50000$00 a 500000$00 a apresentação na praça das reses destinadas à lide para além dos prazos definidos no artigo 27.º\n\n2 - A negligência é punível."
+  },
+  "d05337da8c593480": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º — Falta de entrega da documentação oficial de trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Falta de entrega da documentação oficial de trânsito\n\nConstitui contra-ordenação punida com coima de 25000$00 a 250000$00 o incumprimento da obrigação de entrega ao médico veterinário, até ao momento da inspecção, da documentação oficial de trânsito das reses que serão lidadas."
+  },
+  "27d238529a12082f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º — Publicidade enganadora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Publicidade enganadora\n\nConstitui contra-ordenação punida com coima de 25000$00 a 250000$00 o anúncio público de espectáculos com touros ou novilhos em hastes íntegras quando nos espectáculos são lidados touros ou novilhos com hastes despontadas."
+  },
+  "3cca8d14999fe721": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82.º — Utilização de reses emboladas e não emboladas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Utilização de reses emboladas e não emboladas\n\n1 - Constitui contra-ordenação punida com coima de 25000$00 a 250000$00 a utilização de reses em desobediência ao disposto nos n.os 1 e 2 do artigo 33.º\n\n2 - A negligência é punível."
+  },
+  "07f7558797b96938": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º — Incumprimento da utilização do modelo legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Incumprimento da utilização do modelo legal\n\n1 - Constitui contra-ordenação punida com coima de 25000$00 a 250000$00 o incumprimento da obrigação prevista no artigo 34.º\n\n2 - A negligência é punível."
+  },
+  "8be55dadb132da8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º — Falta de satisfação de requisitos ou características legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Falta de satisfação de requisitos ou características legais\n\n1 - Constitui contra-ordenação punida com coima de 25000$00 a 250000$00 o incumprimento das obrigações resultantes dos n.os 2 e 3 do artigo 35.º\n\n2 - A negligência é punível."
+  },
+  "97d3181cbff46e5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 85.º — Falta de isolamento das reses e de indicação do número de ordem de saída",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Falta de isolamento das reses e de indicação do número de ordem de saída\n\nConstitui contra-ordenação punida com coima de 25000$00 a 250000$00 o incumprimento das obrigações previstas no artigo 38.º"
+  },
+  "3a733929c8d460da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º — Proibição de acesso aos curros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Proibição de acesso aos curros\n\nConstitui contra-ordenação punida com coima de 25000$00 a 250000$00 a entrada na zona dos curros depois do sorteio das rês até à hora do espectáculo, salvo se autorizada nos termos previstos no artigo 39.º"
+  },
+  "ca384d518a3941e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 87.º — Falta da rês de reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Falta da rês de reserva\n\nConstitui contra-ordenação punida com coima de 100000$00 a 500000$00 o incumprimento do dever de ter na praça uma rês de reserva."
+  },
+  "c4657736f0a38773": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 88.º — Falta de jogo de cabrestos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Falta de jogo de cabrestos\n\nConstitui contra-ordenação punida com coima de 50000$00 a 500000$00 o incumprimento da obrigação prevista do artigo 42.º"
+  },
+  "a83b5cfe9544f4f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 89.º — Violação dos requisitos a que deve obedecer a ferragem na lide de touros ou novilhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Violação dos requisitos a que deve obedecer a ferragem na lide de touros ou novilhos\n\n1 - Constitui contra-ordenação punida com coima de 50000$00 a 500000$00 a lide de touros e novilhos em corridas de touros com ferragem que não obedeça aos requisitos previstos nos n.os 1, 2 e 3 do artigo 43.º\n\n2 - Constitui contra-ordenação punida com coima de 25000$00 a 250000$00 a entrega de ferragem aos lidadores fora dos locais referidos no n.º 5 do artigo 43.º"
+  },
+  "6beddd7ecc019e58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 90.º — Violação dos requisitos a que deve obedecer a ferragem na lide de garraios ou vacas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Violação dos requisitos a que deve obedecer a ferragem na lide de garraios ou vacas\n\nConstitui contra-ordenação punida com coima de 50000$00 a 500000$00 a utilização, na lide de garraios ou vacas, em espectáculos tauromáquicos de ferragem que não obedeça aos requisitos previstos no n.º 4 do artigo 43.º"
+  },
+  "0c4a75ea1da455cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 91.º — Violação dos tempos da lide",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Violação dos tempos da lide\n\nConstitui contra-ordenação punida com coima de 25000$00 a 250000$00 a desobediência ao disposto nos n.os 1, 2, 3 e 4 do artigo 44.º"
+  },
+  "e87c76a55d1419f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 92.º — Proibição de acesso do público aos lugares e da actividade dos vendedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Proibição de acesso do público aos lugares e da actividade dos vendedores\n\n1 - Constitui contra-ordenação punida com coima de 50000$00 a 500000$00 o facto de a entidade responsável pela praça não vedar ao público o acesso aos lugares a este destinados, a partir do momento em que soe o toque de entrada da rês na arena.\n\n2 - A mesma coima será aplicável no caso de aquela entidade não vedar a actividade dos vendedores ambulantes quando se verificarem as condições previstas no número anterior."
+  },
+  "fd0f793c1f85395a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 93.º — Proibição de permanência entre barreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Proibição de permanência entre barreiras\n\n1 - Constitui contra-ordenação punida com coima de 25000$00 a 250000$00 a permanência entre barreiras de indivíduos estranhos ao espectáculo, sem prejuízo do disposto no n.º 1 do artigo 46.º\n\n2 - Com a mesma coima será punido quem infringir o disposto no n.º 2 do artigo 46.º"
+  },
+  "a73b40d446a59bf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 94.º — Violação do número de artistas participantes em lide",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Violação do número de artistas participantes em lide\n\nConstitui contra-ordenação punida com coima de 25000$00 a 250000$00 a participação em espectáculos tauromáquicos de cavaleiros praticantes, novilheiros e novilheiros praticantes em número que exceda, respectivamente, o dos cavaleiros, o dos «matadores de touros» e o dos novilheiros."
+  },
+  "5ea7b4ef7cc8d257": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 95.º — Obrigatoriedade de participação de artistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Obrigatoriedade de participação de artistas\n\nConstitui contra-ordenação punida com coima de 25000$00 a 250000$00 o incumprimento da obrigação prevista no artigo 51.º"
+  },
+  "a84334d8bbd70ee1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 96.º — Violação da composição das quadrilhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Violação da composição das quadrilhas\n\nContitui contra-ordenação punida com coima de 25000$00 a 250000$00 o incumprimento da obrigação prevista no artigo 52.º"
+  },
+  "35bb861cc8705a11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 97.º — Violação da composição das quadrilhas nas garraiadas e variedades taurinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Violação da composição das quadrilhas nas garraiadas e variedades taurinas\n\nConstitui contra-ordenação punida com coima de 25000$00 a 250000$00 o incumprimento da obrigação prevista no artigo 53.º"
+  },
+  "12f92980aba63d1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 98.º — Violação das determinações do director de corrida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Violação das determinações do director de corrida\n\n1 - Constitui contra-ordenação punida com coima de 100000$00 a 500000$00 o incumprimento da obrigação de acatar as determinações do director de corrida por parte dos intervenientes no espectáculo.\n\n2 - Constitui contra-ordenação punida com coima de 25000$00 a 250000$00 o incumprimento da obrigação de acatar as determinações do director de corrida por parte do avisador, dos campinos e pessoal auxiliar, bem como dos espectadores ou vendedores que, de algum modo, perturbem o espectáculo."
+  },
+  "51769c018d2b9892": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Disposições finais e transitórias"
+  },
+  "f8f4dc4673e8f65e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 99.º — Inscrições de artistas na DGEDA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º — Inscrições de artistas na DGEDA\n\nPara efeitos do disposto no artigo 48.º, as associações sindicais devem proceder, sem mais formalidades, à inscrição na DGEDA dos seus associados nas correspondentes categorias artísticas."
+  },
+  "251eec1f8106860a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 100.º — Funções dos actuais directores de corrida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100.º — Funções dos actuais directores de corrida\n\nAté ao preenchimento do corpo a que se refere o n.º 2 do artigo 14.º continuam em funções os actuais directores de corrida."
+  },
+  "90f6e2caae386a75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 101.º — Comissão de Tauromaquia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º — Comissão de Tauromaquia\n\nA CT pode reunir sem os vogais referidos na alínea b) do n.º 1 do artigo 63.º até ao preenchimento do corpo a que se refere o n.º 2 do artigo 14.º"
+  },
+  "d17646a77d07f4d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 102.º — Festivais taurinos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 102.º — Festivais taurinos\n\nNos espectáculos de beneficência, vulgarmente conhecidos por festivais taurinos, não existe a obrigatoriedade de cumprimento do disposto nos artigos 25.º e 26.º, podendo intervir artistas amadores."
+  },
+  "59a0e1e3ef949944": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Inscrição na DGEDA",
+   "in_force_from": "2015-04-28",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+   ],
+   "markdown": "###### Artigo 48.º — Inscrição na DGEDA\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+  },
+  "fd75b2d2a7ba3ab3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Artistas e suas categorias",
+   "in_force_from": "2015-04-28",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+   ],
+   "markdown": "###### Artigo 49.º — Artistas e suas categorias\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+  },
+  "432f28d35b5d3dca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Inscrição - condições gerais",
+   "in_force_from": "2015-04-28",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+   ],
+   "markdown": "###### Artigo 54.º — Inscrição - condições gerais\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+  },
+  "61983edd309bd03b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Inscrição - condições específicas",
+   "in_force_from": "2015-04-28",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+   ],
+   "markdown": "###### Artigo 55.º — Inscrição - condições específicas\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+  },
+  "c4f686349cbc95dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Provas de aptidão",
+   "in_force_from": "2015-04-28",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+   ],
+   "markdown": "###### Artigo 56.º — Provas de aptidão\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+  },
+  "519257dd8ad0a773": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Acesso a cavaleiro e bandarilheiro",
+   "in_force_from": "2015-04-28",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+   ],
+   "markdown": "###### Artigo 57.º — Acesso a cavaleiro e bandarilheiro\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+  },
+  "dfe2187a7cf14f54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Provas de alternativa",
+   "in_force_from": "2015-04-28",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+   ],
+   "markdown": "###### Artigo 58.º — Provas de alternativa\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+  },
+  "d689a69a38dd323c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Acesso a novilheiro",
+   "in_force_from": "2015-04-28",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+   ],
+   "markdown": "###### Artigo 59.º — Acesso a novilheiro\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+  },
+  "bc940677e5e5bd07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Datas e locais das provas",
+   "in_force_from": "2015-04-28",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+   ],
+   "markdown": "###### Artigo 60.º — Datas e locais das provas\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+  },
+  "f453af1ebc98beb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Júris",
+   "in_force_from": "2015-04-28",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+   ],
+   "markdown": "###### Artigo 61.º — Júris\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+  },
+  "25ce3fe7bc828fa6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Recurso",
+   "in_force_from": "2015-04-28",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+   ],
+   "markdown": "###### Artigo 62.º — Recurso\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23."
+  }
+ }
+}

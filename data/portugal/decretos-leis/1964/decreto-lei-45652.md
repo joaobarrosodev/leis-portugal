@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-12-22'
+version_history:
+  file: decreto-lei-45652.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-04-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-12-22'
+    amending: pt:dre:146056:por
+    amending_title: Decreto-Lei n.º 637/70
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:48:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 637/70. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-45652.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -104,7 +119,9 @@ Considerando a necessidade de se adoptar nos mesmos estabelecimentos o regime qu
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo único. Nas Universidades o desdobramento dos cursos em turmas é permitido nos casos seguintes:
+###### Artigo único
+
+Nas Universidades o desdobramento dos cursos em turmas é permitido nos casos seguintes:
 
 a) Para as aulas teóricas, quando as respectivas salas não comportem o número de alunos inscritos;
 
@@ -115,6 +132,10 @@ c) Para as restantes aulas práticas, quando houver mais de trinta alunos, núme
 § 1.º Nos casos das alíneas b) e c), o director-geral do Ensino Superior e das Belas-Artes pode determinar, quando isso se mostre conveniente, que as turmas tenham até trinta e quarenta alunos, respectivamente.
 
 § 2.º Não podem manter-se os desdobramentos se no decorrer do ano lectivo, por redução da frequência, deixarem de verificar-se as condições estabelecidas neste artigo.
+
+§ 3.º Poderá ser autorizada a dispensa das condições estabelecidas no presente artigo quando isso se mostrar conveniente para impedir a dispersão da actividade científica do pessoal docente.
+
+> Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22.
 
 Publique-se e cumpra-se como nele se contém.
 

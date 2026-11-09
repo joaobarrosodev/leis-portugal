@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:298055:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-07-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3e3cd14a5f6602c2"
+   ]
+  },
+  {
+   "date": "1980-02-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:679620:por",
+     "title": "Decreto-Lei n.º 16/80",
+     "published": "1980-02-27",
+     "dre_path": "/dr/detalhe/decreto-lei/16-1980-679620"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "98d14e49bd54f46d",
+    "8968e13362d7cfb7",
+    "3c91e8e803928558",
+    "7cedbc5675b7676d",
+    "cd9f2c7622586efe",
+    "7beef70e9b610949",
+    "bc328cf6a46e1401",
+    "4bfae387b34a9b21",
+    "7ce8c9fd0be3a2d8",
+    "e241f17ce582269d"
+   ]
+  }
+ ],
+ "fragments": {
+  "3e3cd14a5f6602c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Julho\n\nConsiderando a necessidade de criar um bilhete de identidade que legalmente identifique o pessoal da Polícia de Segurança Pública como cidadão e agente da autoridade policial, instrumento que é necessário ao exercício da respectiva missão e cuja falta de há muito se fazia sentir;\n\nAtendendo a que a obtenção de um bilhete de identidade que reconheça a identidade e funções do portador e assegure as prerrogativas atribuídas por lei ao bilhete de identidade civil é uma aspiração antiga de quantos servem na PSP;\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º É criado o bilhete de identidade do pessoal militarizado da Polícia de Segurança Pública, que substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil, para o que conterá todos os dados essenciais de identificação.\n\nArt. 2.º - 1 - O bilhete de identidade a que se refere o artigo anterior é do modelo anexo ao presente diploma e é impresso, em ambas as faces, sobre campo azul-claro ou verde-azeitona-claro, consoante se destinar, respectivamente, a pessoal em serviço activo ou pessoal aposentado, constituído pelo escudo nacional, por um desenho repetitivo do distintivo da Polícia de Segurança Pública, alternadamente disposto em colunas paralelas, e pelos dizeres «República Portuguesa» e «Polícia de Segurança Pública».\n\n2 - A inscrição «síntese biossanitária» e os respectivos traços limitativos são impressos a encarnado.\n\n3 - O bilhete de identidade é protegido por um invólucro transparente de matéria plástica aplicada directamente sobre o cartão.\n\nArt. 3.º A fotografia a inserir no bilhete de identidade é do tipo passe, tirada a três quartos, da linha do ombro para cima, com o uniforme tipo D constante da [Portaria n.º 140/70](https://diariodarepublica.pt/dr/detalhe/portaria/140-1970-228387), de 11 de Março.\n\nArt. 4.º No verso do bilhete de identidade são registadas referências aos direitos e faculdades reconhecidos por lei aos seus titulares de mais interesse ao exercício das suas funções.\n\nArt. 5.º O bilhete de identidade é emitido pelo Comando-Geral da Polícia de Segurança Pública e autenticado com o selo branco aposto no canto inferior direito da fotografia.\n\nArt. 6.º - 1 - O bilhete de identidade de que trata o presente diploma é renovado em termos idênticos aos estabelecidos na lei para o bilhete de identidade civil, condicionado pela ocorrência de promoção ou mudança de situação do respectivo titular que não implique perda de condição de elemento militarizado dos quadros da Polícia de Segurança Pública.\n\n2 - Quando se verifique renovação do bilhete de identidade, o novo bilhete será atribuído contra entrega, na Repartição de Pessoal do Comando-Geral ia Polícia de Segurança Pública, do bilhete caducado.\n\nArt. 7.º O bilhete de identidade é de uso obrigatório noventa dias após a entrada em vigor do presente diploma.\n\nArt. 8.º Os tipos de bilhete de identidade criados pelo presente diploma poderão ser alterados mediante portaria conjunta dos Ministros da Administração Interna e da Justiça.\n\nArt. 9.º A Polícia de Segurança Pública estabelecerá as normas internas relativas a:\n\na) Emissão do bilhete de identidade;\n\nb) Contrôle dos impressos utilizados.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - Jaime José Matos da Gama.\n\nPromulgado em 21 de Junho de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/15400/12611261.pdf)"
+  },
+  "98d14e49bd54f46d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Julho\n\nConsiderando a necessidade de criar um bilhete de identidade que legalmente identifique o pessoal da Polícia de Segurança Pública como cidadão e agente da autoridade policial, instrumento que é necessário ao exercício da respectiva missão e cuja falta de há muito se fazia sentir;\n\nAtendendo a que a obtenção de um bilhete de identidade que reconheça a identidade e funções do portador e assegure as prerrogativas atribuídas por lei ao bilhete de identidade civil é uma aspiração antiga de quantos servem na PSP;\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "8968e13362d7cfb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado o bilhete de identidade do pessoal militarizado da Polícia de Segurança Pública, que substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil, para o que conterá todos os dados essenciais de identificação."
+  },
+  "3c91e8e803928558": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - O bilhete de identidade a que se refere o artigo anterior é do modelo anexo ao presente diploma e é impresso, em ambas as faces, sobre campo azul-claro ou verde-azeitona-claro, consoante se destinar, respectivamente, a pessoal em serviço activo ou pessoal aposentado, constituído pelo escudo nacional, por um desenho repetitivo do distintivo da Polícia de Segurança Pública, alternadamente disposto em colunas paralelas, e pelos dizeres «República Portuguesa» e «Polícia de Segurança Pública».\n\n2 - A inscrição «síntese biossanitária» e os respectivos traços limitativos são impressos a encarnado.\n\n3 - O bilhete de identidade é protegido por um invólucro transparente de matéria plástica aplicada directamente sobre o cartão."
+  },
+  "7cedbc5675b7676d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1980-02-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 16/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1980-679620), publicado em 1980-02-27."
+   ],
+   "markdown": "###### Artigo 3.º\n\nA fotografia a inserir no bilhete de identidade é do tipo passe, tirada a três quartos, da linha do ombro para cima, com uniforme do tipo D constante da [Portaria n.º 140/70](https://diariodarepublica.pt/dr/detalhe/portaria/140-1970-228387), de 11 de Março, para o pessoal do activo ou equiparado e em traje civil para os aposentados.\n\n> Alterado pelo/a [Decreto-Lei n.º 16/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1980-679620), publicado em 1980-02-27."
+  },
+  "cd9f2c7622586efe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNo verso do bilhete de identidade são registadas referências aos direitos e faculdades reconhecidos por lei aos seus titulares de mais interesse ao exercício das suas funções."
+  },
+  "7beef70e9b610949": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO bilhete de identidade é emitido pelo Comando-Geral da Polícia de Segurança Pública e autenticado com o selo branco aposto no canto inferior direito da fotografia."
+  },
+  "bc328cf6a46e1401": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - O bilhete de identidade de que trata o presente diploma é renovado em termos idênticos aos estabelecidos na lei para o bilhete de identidade civil, condicionado pela ocorrência de promoção ou mudança de situação do respectivo titular que não implique perda de condição de elemento militarizado dos quadros da Polícia de Segurança Pública.\n\n2 - Quando se verifique renovação do bilhete de identidade, o novo bilhete será atribuído contra entrega, na Repartição de Pessoal do Comando-Geral ia Polícia de Segurança Pública, do bilhete caducado."
+  },
+  "4bfae387b34a9b21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO bilhete de identidade é de uso obrigatório noventa dias após a entrada em vigor do presente diploma."
+  },
+  "7ce8c9fd0be3a2d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs tipos de bilhete de identidade criados pelo presente diploma poderão ser alterados mediante portaria conjunta dos Ministros da Administração Interna e da Justiça."
+  },
+  "e241f17ce582269d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA Polícia de Segurança Pública estabelecerá as normas internas relativas a:\n\na) Emissão do bilhete de identidade;\n\nb) Contrôle dos impressos utilizados.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - Jaime José Matos da Gama.\n\nPromulgado em 21 de Junho de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/15400/12611261.pdf)"
+  }
+ }
+}

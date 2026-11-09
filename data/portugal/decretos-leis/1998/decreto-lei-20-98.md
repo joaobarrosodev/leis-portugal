@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-08-12'
+version_history:
+  file: decreto-lei-20-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-02-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-08-12'
+    amending: pt:dre:438175:por
+    amending_title: Decreto-Lei n.º 253/98
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/20/1998/02/03/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:58:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 253/98. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-20-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -202,9 +218,15 @@ e) Artigo 6.º, n.º 2, do [Decreto-Lei n.º 394/88](https://diariodarepublica.p
 
 f) Artigo 5.º do [Decreto-Lei n.º 423/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1989-550794), de 4 de Dezembro.
 
+g) Artigo 7.º, n.º 3, do Decreto-Lei n.º 74/89, de 3 de Março;
+
+h) Artigo 4.º do Decreto-Lei n.º 239/92, de 29 de Outubro.
+
 2 - Compete ao director-geral das Florestas, ao presidente da câmara municipal da área onde foi praticado o facto integrador da contra-ordenação ou ainda ao comandante da Guarda Nacional Republicana a decisão de aplicação das coimas previstas no [Decreto-Lei n.º 334/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1990-565874), de 29 de Outubro.
 
 3 - Nas áreas integradas no Sistema Nacional de Áreas Protegidas compete ao presidente do Instituto da Conservação da Natureza (ICN) a aplicação das coimas a que se referem o n.º 1 do artigo 1.º do presente diploma e o [Decreto-Lei n.º 334/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1990-565874), de 29 de Outubro.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 253/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1998-438175), publicado em 1998-08-11.
 
 ###### Artigo 2.º — Instrução de processos
 
@@ -218,9 +240,13 @@ O produto das coimas aplicadas nos termos do presente diploma reverte a favor da
 
 a) 60% para o Estado;
 
-b) 30% para a Direcção-Geral das Florestas ou, nos casos previstos no n.º 2 do artigo 2.º, para o ICN;
+b) 20% para a Direcção-Geral das Florestas ou, nos casos previstos no n.º 2 do artigo 2.º, para o ICN;
 
-c) 10% para a entidade autuante.
+c) 10% para a entidade instrutora;
+
+d) 10% para a entidade autuante.
+
+> Alterado pelo/a [Decreto-Lei n.º 253/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1998-438175), publicado em 1998-08-11.
 
 ###### Artigo 4.º
 

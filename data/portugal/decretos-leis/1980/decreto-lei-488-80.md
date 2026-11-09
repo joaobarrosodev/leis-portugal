@@ -28,10 +28,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-07-29'
+version_history:
+  file: decreto-lei-488-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-10-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-07-29'
+    amending: pt:dre:579352:por
+    amending_title: Lei n.º 13/81
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +78,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:33:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 13/81. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-488-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,13 +150,15 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º — (Área da Região de Turismo)
+###### Artigo 1.º — (Área da Região de Turismo)
 
-1 - A Região de Turismo do Algarve, criada pelo [Decreto-Lei n.º 114/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1970-228801), de 18 de Março, é dotada de personalidade jurídica e abrange a área dos municípios que integram o distrito de Faro.
+1 - Transitoriamente, até à criação da Região Administrativa do Algarve, continuará a existir a Região de Turismo do Algarve, criada pelo [Decreto-Lei n.º 114/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-1970-228801), de 18 de Março, a qual é dotada de personalidade jurídica e abrange a área dos municípios que integram o distrito de Faro.
 
-2 - A Região de Turismo terá a sua sede na cidade de Faro e delegações em quaisquer locais da Região cujo interesse turístico o justifique, de acordo com a deliberação do Conselho Regional.
+2 - A Região de Turismo terá a sua sede na cidade de Faro e delegações em quaisquer locais da Região cujo interesse turístico o justifique, de acordo com a deliberação do Conselho Regional, ouvidos os municípios directamente interessados.
 
-###### ARTIGO 2.º — (Administração)
+> Alterado pelo/a [Lei n.º 13/81](https://diariodarepublica.pt/dr/detalhe/lei/13-1981-579352), publicado em 1981-07-29.
+
+###### Artigo 2.º — (Administração)
 
 1 - A Região de Turismo do Algarve será administrada por uma Comissão Regional, constituída pelos seguintes órgãos:
 
@@ -146,13 +170,13 @@ c) A comissão executiva.
 
 2 - A Comissão Regional goza de autonomia administrativa e financeira.
 
-###### ARTIGO 3.º — (Atribuições da Comissão Regional)
+###### Artigo 3.º — (Atribuições da Comissão Regional)
 
 1 - Além das atribuições definidas no artigo 5.º do [Decreto n.º 41035](https://diariodarepublica.pt/dr/detalhe/decreto/41035-1957-653691), de 20 de Março de 1957, à Comissão Regional de Turismo do Algarve incumbirá, no quadro das orientações e directivas da política de turismo definida no plano nacional, a gestão dos interesses turísticos da sua área, designadamente em matéria de valorização e desenvolvimento do respectivo património turístico e sua animação e promoção.
 
 2 - A Comissão Regional poderá participar em sociedades visando o desenvolvimento da respectiva área territorial e a criação e manutenção de infra-estruturas e equipamentos turísticos.
 
-###### ARTIGO 4.º — (Competência da Comissão Regional)
+###### Artigo 4.º — (Competência da Comissão Regional)
 
 À Comissão Regional de Turismo competirá, em conformidade com a política de turismo definida no plano nacional, designadamente:
 
@@ -166,7 +190,7 @@ d) A promoção ou comparticipação em projectos com interesse para o fomento d
 
 e) O licenciamento, acompanhamento e fiscalização das actividades e empresas turísticas da Região, nos termos a definir por portaria do Ministro do Comércio e Turismo.
 
-###### ARTIGO 5.º — (Presidente da Comissão Regional)
+###### Artigo 5.º — (Presidente da Comissão Regional)
 
 1 - O presidente da Comissão Regional será nomeado pelo Ministro do Comércio e Turismo, ouvido o Conselho Regional.
 
@@ -174,7 +198,7 @@ e) O licenciamento, acompanhamento e fiscalização das actividades e empresas t
 
 3 - O mandato do presidente poderá ser revogado, a todo o tempo, pelo Ministro do Comércio e Turismo, ouvido o Conselho Regional.
 
-###### ARTIGO 6.º — (Competência do presidente da Comissão Regional)
+###### Artigo 6.º — (Competência do presidente da Comissão Regional)
 
 1 - Compete ao presidente da Comissão Regional:
 
@@ -196,7 +220,7 @@ h) Coordenar e incentivar a acção dos serviços da Comissão Regional de Turis
 
 2 - Os cheques e demais documentos respeitantes ao movimento financeiro da Comissão Regional deverão conter, obrigatoriamente, duas assinaturas, devendo uma delas ser do presidente ou da pessoa em quem ele expressamente delegar e a outra de um dos vogais da comissão executiva.
 
-###### ARTIGO 7.º — (Do Conselho Regional)
+###### Artigo 7.º — (Do Conselho Regional)
 
 1 - O Conselho Regional tem a seguinte composição:
 
@@ -238,6 +262,8 @@ s) Um representante de cada um dos sindicatos dos trabalhadores da indústria ho
 
 t) Um representante da empresa concessionária do jogo do Algarve.
 
+u) Os capitães dos portos do Algarve.
+
 2 - O Conselho Regional, quando julgar conveniente, poderá convocar para assistir às suas reuniões pessoas ou entidades a ele estranhas, para nelas participarem sem direito a voto.
 
 3 - A designação dos vogais do Conselho Regional é feita sem limitação de tempo, podendo no entanto o respectivo mandato ser revogado em qualquer momento pela entidade representada.
@@ -248,7 +274,9 @@ t) Um representante da empresa concessionária do jogo do Algarve.
 
 6 - Por decisão do Conselho Regional, os seus vogais poderão ter igualmente direito a abono para transportes e ajudas de custo, nos termos estabelecidos para os funcionários públicos de categoria correspondente à letra E.
 
-###### ARTIGO 8.º — (Competência do Conselho Regional)
+> Alterado pelo/a [Lei n.º 13/81](https://diariodarepublica.pt/dr/detalhe/lei/13-1981-579352), publicado em 1981-07-29.
+
+###### Artigo 8.º — (Competência do Conselho Regional)
 
 1 - Compete ao Conselho Regional de Turismo:
 
@@ -264,13 +292,17 @@ e) Homologar as deliberações da comissão executiva respeitantes à alienaçã
 
 f) Dar parecer sobre assuntos de interesse turístico regional que sejam submetidos à sua apreciação.
 
-2 - Os planos de actividades, orçamentos, relatório anual e contas de gerência, referidos nas alíneas b) e c) do número anterior, serão submetidos a homologação do Ministro do Comércio e Turismo.
+g) Velar pela correcta coordenação entre a actividade da Comissão e a actividade das câmaras municipais da respectiva área.
 
-###### ARTIGO 9.º — (Reuniões do Conselho Regional)
+2 - Os planos de actividades, orçamentos, relatório anual e contas de gerência, referidos nas alíneas b) e c) do número anterior, serão enviados para conhecimento ao Ministro do Comércio e Turismo.
+
+> Alterado pelo/a [Lei n.º 13/81](https://diariodarepublica.pt/dr/detalhe/lei/13-1981-579352), publicado em 1981-07-29.
+
+###### Artigo 9.º — (Reuniões do Conselho Regional)
 
 1 - As reuniões do Conselho Regional são ordinárias e extraordinárias.
 
-2 - As reuniões ordinárias terão lugar duas vezes por ano para deliberação, respectivamente, sobre o relatório e contas de gerência respeitantes ao ano anterior e os planos de actividades e orçamento para o ano ou anos seguintes.
+2 - As reuniões ordinárias terão lugar quatro vezes por ano, em Fevereiro, Maio, Setembro e Dezembro, devendo a primeira ter lugar para deliberação sobre o relatório e contas de gerência respeitantes ao ano anterior e a última para deliberação sobre os planos de actividade e orçamento para o ano ou anos seguintes.
 
 3 - O Conselho reúne extraordinariamente sempre que for convocado pelo respectivo presidente ou a solicitação de, pelo menos, um terço dos seus membros.
 
@@ -278,13 +310,15 @@ f) Dar parecer sobre assuntos de interesse turístico regional que sejam submeti
 
 5 - As reuniões do Conselho terão lugar em qualquer local da Região designado pelo presidente.
 
-###### ARTIGO 10.º — (Secretário do Conselho Regional)
+> Alterado pelo/a [Lei n.º 13/81](https://diariodarepublica.pt/dr/detalhe/lei/13-1981-579352), publicado em 1981-07-29.
+
+###### Artigo 10.º — (Secretário do Conselho Regional)
 
 1 - O Conselho Regional terá um secretário, que assistirá às reuniões sem direito a voto e ao qual competirá elaborar a acta das mesmas e dar andamento a todo o seu expediente.
 
 2 - Servirá de secretário o funcionário designado, para o efeito, pelo presidente.
 
-###### ARTIGO 11.º — (Funcionamento do Conselho Regional)
+###### Artigo 11.º — (Funcionamento do Conselho Regional)
 
 1 - O Conselho Regional funcionará desde que esteja presente a maioria dos membros.
 
@@ -296,7 +330,7 @@ f) Dar parecer sobre assuntos de interesse turístico regional que sejam submeti
 
 5 - Das reuniões do Conselho será lavrada acta, em livro próprio; depois de aprovada, será assinada pelo presidente e secretário.
 
-###### ARTIGO 12.º — (Da comissão executiva)
+###### Artigo 12.º — (Da Comissão Executiva)
 
 1 - A comissão executiva é constituída pelo presidente da Comissão Regional, que presidirá, e por cinco vogais.
 
@@ -312,13 +346,15 @@ Um pelas associações sindicais representadas no Conselho Regional.
 
 3 - O presidente designará um dos vogais para o substituir nas suas faltas ou impedimentos.
 
-4 - Por deliberação do Conselho Regional, o presidente e dois vogais poderão exercer funções em regime de tempo inteiro.
+4 - Por deliberação do Conselho Regional, o presidente e dois vogais poderão exercer funções em regime de tempo inteiro, sendo um destes vogais necessariamente um dos designados pelos municípios.
 
-5 - Os vencimentos do presidente e dos vogais referidos no número anterior serão fixados pelo Ministro do Comércio e Turismo, sob proposta do Conselho Regional, não podendo auferir vencimentos superiores aos equivalentes, no funcionalismo público, às letras C e E, respectivamente.
+5 - O presidente e os vogais referidos no número anterior auferirão vencimentos equivalentes, respectivamente, às letras C e E do funcionalismo público.
 
 6 - Por decisão do Conselho Regional, os vogais referidos no n.º 2 poderão ter direito a abono para transportes e ajudas de custo, em termos semelhantes aos estabelecidos para o funcionalismo público de categoria correspondente à letra E.
 
-###### ARTIGO 13.º — (Competência da comissão executiva)
+> Alterado pelo/a [Lei n.º 13/81](https://diariodarepublica.pt/dr/detalhe/lei/13-1981-579352), publicado em 1981-07-29.
+
+###### Artigo 13.º — (Competência da Comissão Executiva)
 
 Compete à comissão executiva:
 
@@ -328,7 +364,7 @@ b) Organizar as contas e elaborar o relatório anual de gerência;
 
 c) Deliberar sobre todos os assuntos de gestão corrente da Comissão Regional em conformidade com os planos e orçamentos aprovados;
 
-d) Inspeccionar o exercício das profissões e actividades relacionadas com o turismo, comunicando as faltas verificadas às entidades competentes;
+d) Inspeccionar o exercício das profissões e actividades relacionadas com o turismo, ordenando as medidas urgentes que julgue inadiáveis, sem prejuízo de posterior ratificação pelas entidades competentes;
 
 e) Realizar a promoção turística da Região, de acordo com os planos aprovados, e em estreita colaboração e coordenação com a Secretaria de Estado do Turismo;
 
@@ -346,7 +382,9 @@ l) Submeter a aprovação do Ministro do Comércio e Turismo o quadro de pessoal
 
 m) Sem prejuízo da competência da Direcção-Geral das Contribuições e Impostos e das câmaras municipais, fiscalizar a liquidação e cobrança do imposto de turismo nos concelhos da Região.
 
-###### ARTIGO 14.º — (Receitas)
+> Alterado pelo/a [Lei n.º 13/81](https://diariodarepublica.pt/dr/detalhe/lei/13-1981-579352), publicado em 1981-07-29.
+
+###### Artigo 14.º — (Receitas)
 
 Constituem receitas da Comissão Regional de Turismo:
 
@@ -378,15 +416,17 @@ n) A receita resultante da organização de espectáculos;
 
 o) Quaisquer outras receitas resultantes da administração da Região, ou que por lei lhe venham a ser atribuídas.
 
-###### ARTIGO 15.º — (Pessoal e serviços)
+###### Artigo 15.º — (Pessoal e serviços)
 
 1 - O quadro de pessoal da Comissão Regional de Turismo será aprovado ou actualizado mediante portaria do Ministro do Comércio e Turismo, sob proposta da comissão executiva.
 
-2 - O recrutamento e provimento de pessoal fica sujeito às regras estabelecidas para o pessoal das autarquias locais.
+2 - O recrutamento e provimento de pessoal fica sujeito ao regime geral da função pública.
 
 3 - Quando houver conveniência, a comissão executiva poderá, com dispensa de quaisquer formalidades, promover que a execução de tarefas - designadamente as que carecem de colaboração de especialistas - seja feita em regime de prestação de serviços, desde que os respectivos encargos tenham cabimento nas verbas especialmente inscritas no orçamento para esse fim.
 
-###### ARTIGO 16.º — (Comissões de serviço e requisições)
+> Alterado pelo/a [Lei n.º 13/81](https://diariodarepublica.pt/dr/detalhe/lei/13-1981-579352), publicado em 1981-07-29.
+
+###### Artigo 16.º — (Comissões de serviço e requisições)
 
 1 - Os cargos de presidente ou vogal da comissão executiva, bem como os lugares do quadro da Comissão Regional, poderão ser exercidos, em comissão de serviço, por funcionários dos serviços do Estado e seus institutos públicos ou das autarquias locais, pelo prazo de três anos, renovável, podendo a todo o tempo ser dada como finda a comissão de serviço.
 
@@ -394,21 +434,23 @@ o) Quaisquer outras receitas resultantes da administração da Região, ou que p
 
 3 - A Comissão Regional poderá requisitar técnicos do sector privado, de harmonia com a legislação em vigor.
 
-###### ARTIGO 17.º — (Fiscalização)
+###### Artigo 17.º — (Fiscalização)
 
-1 - O pessoal de fiscalização do quadro da Comissão Regional de Turismo tem direito de entrada e permanência, pelo tempo necessário ao exercício das suas funções, em quaisquer locais sujeitos a fiscalização.
+1 - Sem prejuízo do direito atribuído por disposição legal ao pessoal de fiscalização dos quadros da Direcção-Geral das Contribuições e Impostos e das câmaras municipais, o pessoal de fiscalização do quadro da Comissão Regional de Turismo tem direito de entrada e permanência, pelo tempo necessário ao exercício das suas funções, em quaisquer locais sujeitos a fiscalização.
 
 2 - É aplicável ao pessoal de fiscalização o disposto no artigo 16.º do [Decreto-Lei n.º 74/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1971-445505), de 17 de Março.
 
-###### ARTIGO 18.º — (Entrada em funções)
+> Alterado pelo/a [Lei n.º 13/81](https://diariodarepublica.pt/dr/detalhe/lei/13-1981-579352), publicado em 1981-07-29.
+
+###### Artigo 18.º — (Entrada em funções)
 
 Os órgãos de administração da Região de Turismo a que se refere o artigo 2.º do presente diploma deverão entrar em funcionamento no prazo de trinta dias após a sua publicação, para tanto promovendo a actual comissão administrativa as necessárias diligências.
 
-###### ARTIGO 19.º — (Legislação supletiva)
+###### Artigo 19.º — (Legislação supletiva)
 
 Em tudo o que não for contrário ao presente decreto-lei é aplicável à Região de Turismo do Algarve o regime estabelecido na [Lei n.º 2082](https://diariodarepublica.pt/dr/detalhe/lei/2082-1956-231319), de 4 de Junho de 1956, e no [Decreto n.º 41035](https://diariodarepublica.pt/dr/detalhe/decreto/41035-1957-653691), de 20 de Março de 1957.
 
-###### ARTIGO 20.º — (Legislação revogada)
+###### Artigo 20.º — (Legislação revogada)
 
 Ficam revogados:
 

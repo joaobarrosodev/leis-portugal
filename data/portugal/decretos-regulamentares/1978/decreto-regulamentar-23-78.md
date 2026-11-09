@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-09-03'
+version_history:
+  file: decreto-regulamentar-23-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-09-03'
+    amending: pt:dre:463999:por
+    amending_title: Decreto Regulamentar n.º 45/80
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:58:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 45/80. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1978/decreto-regulamentar-23-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,21 +139,43 @@ O presente diploma consubstancia o consenso que nesta matéria se pode obter, cu
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - Os Deputados à Assembleia da República, ainda que não abrangidos por qualquer regime de previdência social, beneficiam do regime de protecção social aplicável ao funcionalismo público, enquanto se mantiverem no exercício do seu mandato.
+###### Artigo 1.º
+
+1 - Os Deputados à Assembleia da República, ainda que não abrangidos por qualquer regime de previdência social, beneficiam do regime de protecção social aplicável ao funcionalismo público, enquanto se mantiverem no exercício do seu mandato.
 
 2 - Poderão os Deputados, porém, optar pelo regime de previdência da sua actividade profissional anterior.
 
-Art. 2.º A base de incidência das contribuições é o subsídio atribuído pelo exercício do mandato, devendo o encargo inerente ao Deputado ser deduzido no respectivo subsídio.
+###### Artigo 2.º
 
-Art. 3.º - 1 - Quando se verifique a opção prevista no n.º 2 do artigo 1.º, a Assembleia da República assume o encargo relativo à parte patronal das contribuições.
+1 - A base de incidência das contribuições é o subsídio atribuído pelo exercício do mandato, devendo o encargo respeitante ao beneficiário ser deduzido no respectivo subsídio.
 
-2 - A entidade competente para a gestão do esquema de protecção a que se refere este artigo é a Caixa de Previdência e Abono de Família dos Serviços do Distrito de Lisboa.
+2 - Se a remuneração da actividade profissional, passível de contribuição para a Previdência, for de valor superior ao do subsídio devido pelo exercício do mandato de Deputado, a diferença, até à concorrência do salário máximo nacional, será equiparada, para efeitos de previdência, a remuneração com entrada de contribuições.
 
-Art. 4.º - 1 - O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+3 - Os subsídios extraordinários de valor igual ao do subsídio mensal pagos aos Deputados em Junho e Dezembro são passíveis de contribuição para a Previdência.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1980-463999), publicado em 1980-09-03.
+
+###### Artigo 3.º
+
+1 - Quando se verifique a opção prevista no n.º 2 do artigo 1.º, a Assembleia da República assume o encargo relativo à parte patronal das contribuições.
+
+2 - Os Deputados que optem pelo regime de previdência da sua actividade profissional anterior mantém a inscrição na instituição que os abrangia.
+
+3 - Os Deputados que, pela sua actividade profissional, estejam abrangidos pela regulamentação colectiva de trabalho aplicável à actividade bancária e não optem pelo regime de protecção social aplicável ao funcionalismo público mantêm a inscrição na Caixa de Abono de Família dos Empregados Bancários.
+
+4 - Para execução do presente diploma, a secretaria da Assembleia da República pode, sempre que o considere necessário, solicitar apoio técnico e administrativo à Caixa de Previdência e Abono de Família dos Serviços do Distrito de Lisboa.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1980-463999), publicado em 1980-09-03.
+
+###### Artigo 4.º
+
+1 - O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.
 
 2 - Qualquer que seja o regime de previdência por que os Deputados tenham optado, considera-se para todos os efeitos equivalente à entrada de contribuições o período decorrido entre o início do mandato dos Deputados e a entrada em vigor deste decreto regulamentar.
 
-Art. 5.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministérios das Finanças e do Plano e dos Assuntos Sociais.
+###### Artigo 5.º
+
+As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministérios das Finanças e do Plano e dos Assuntos Sociais.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - António Duarte Arnaut.
 

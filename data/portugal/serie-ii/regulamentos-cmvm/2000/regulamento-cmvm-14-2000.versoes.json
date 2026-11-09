@@ -1,0 +1,826 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:3317501:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-02-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fab7f6fa91f22e34",
+    "e525daecb9844cd6",
+    "23836370ae405d04",
+    "c9d4d89012434301",
+    "0c874262d6398403",
+    "1685bc1359be6bc8",
+    "8b5f6e2f9aced4db",
+    "a76442935f714df4",
+    "737a392e46003a67",
+    "c22cd4127207ef34",
+    "14cca5f282afc90d",
+    "72abf8be47761b96",
+    "bed51f0bda16efbd",
+    "4969c50c4c833481",
+    "ff9fba167c213708",
+    "8bb2606d82c9df2f",
+    "e4d695ceeeb9c4f0",
+    "edbdbd4775f5e4b5",
+    "4887917896daf7e3",
+    "25ab941998a1d4a9",
+    "a57d16346a810915",
+    "8fb024445d0c9902",
+    "7229f59657b5f6c0",
+    "3588d5d18c4963ee",
+    "fa3db2a170b29148",
+    "447b7b8591cb3642",
+    "bda8ee5cf77d7378",
+    "c40fa395bac0cb0d",
+    "b6536b659f5c9e0a",
+    "9d07236d321722aa",
+    "8a9d98945f7b3406",
+    "b385f17d498aee67",
+    "26a8a1317190af96",
+    "a705069af00b9e4b",
+    "0c183756e334cb51",
+    "61ad0ea86d61fe76",
+    "937015d7453d02c6",
+    "67daeb1afe8dcdf2",
+    "e609788b66f9823e",
+    "e72dd308bfc43ab7",
+    "7b4e0dec975b8909",
+    "d1e0d558939aa654",
+    "14fefc9b2be33105",
+    "fd8268fde05fd5ab",
+    "5e9afdfc8da4de24",
+    "d6396d9f624795fc",
+    "9f69a04a32375203",
+    "c06e49de8dab404b",
+    "4b4ef7f4feb5b03a",
+    "fb332dcd1bc519e7",
+    "1dc0bc6dfdd7dc4c",
+    "f2239f32412c6c4a",
+    "b258d8a8facd9f2e",
+    "83605fdd066677d8",
+    "16cece85a76b0754",
+    "2972a731616f84c0",
+    "f44ca54f1f2d34bf",
+    "c91eaa2b70e22cfe",
+    "bc68841c823b5ae2",
+    "051e8c753ffdce0b",
+    "dc14d31011f7db88",
+    "d17bc109dfbb10c9",
+    "2d839ce5ad920a7b",
+    "a94ac7dd24d45f5a",
+    "ffed83cadaf98bc5",
+    "e5b15ee9ecfc0d39",
+    "63747ee3fdcea31a",
+    "c5715ded3f05c605",
+    "56001fbb6822cec6",
+    "d1bbd8f88f37f671",
+    "91623285ec1ef405",
+    "8427b1ef968a9a62",
+    "c2e8fd3c682ad050",
+    "91ab420a0ed26755",
+    "279ec274b4b7d937",
+    "0354ed437920494b",
+    "f75324680c7d3162",
+    "9631aa6b86f79813"
+   ]
+  },
+  {
+   "date": "2003-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3039677:por",
+     "title": "Regulamento da CMVM n.º 3/2003",
+     "published": "2003-04-01",
+     "dre_path": "/dr/detalhe/regulamento-cmvm/3-2003-3039677"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 35.º"
+   ],
+   "fragments": [
+    "fab7f6fa91f22e34",
+    "e525daecb9844cd6",
+    "23836370ae405d04",
+    "c9d4d89012434301",
+    "0c874262d6398403",
+    "1685bc1359be6bc8",
+    "8b5f6e2f9aced4db",
+    "a76442935f714df4",
+    "737a392e46003a67",
+    "c22cd4127207ef34",
+    "14cca5f282afc90d",
+    "72abf8be47761b96",
+    "bed51f0bda16efbd",
+    "4969c50c4c833481",
+    "ff9fba167c213708",
+    "8bb2606d82c9df2f",
+    "e4d695ceeeb9c4f0",
+    "edbdbd4775f5e4b5",
+    "4887917896daf7e3",
+    "25ab941998a1d4a9",
+    "a57d16346a810915",
+    "8fb024445d0c9902",
+    "7229f59657b5f6c0",
+    "3588d5d18c4963ee",
+    "fa3db2a170b29148",
+    "447b7b8591cb3642",
+    "bda8ee5cf77d7378",
+    "c40fa395bac0cb0d",
+    "b6536b659f5c9e0a",
+    "9d07236d321722aa",
+    "8a9d98945f7b3406",
+    "b385f17d498aee67",
+    "26a8a1317190af96",
+    "a705069af00b9e4b",
+    "0c183756e334cb51",
+    "61ad0ea86d61fe76",
+    "937015d7453d02c6",
+    "67daeb1afe8dcdf2",
+    "e609788b66f9823e",
+    "e72dd308bfc43ab7",
+    "7b4e0dec975b8909",
+    "d1e0d558939aa654",
+    "14fefc9b2be33105",
+    "fd8268fde05fd5ab",
+    "5e9afdfc8da4de24",
+    "d6396d9f624795fc",
+    "3d8120ac0c038ef7",
+    "c06e49de8dab404b",
+    "4b4ef7f4feb5b03a",
+    "fb332dcd1bc519e7",
+    "1dc0bc6dfdd7dc4c",
+    "f2239f32412c6c4a",
+    "b258d8a8facd9f2e",
+    "83605fdd066677d8",
+    "16cece85a76b0754",
+    "2972a731616f84c0",
+    "f44ca54f1f2d34bf",
+    "c91eaa2b70e22cfe",
+    "bc68841c823b5ae2",
+    "051e8c753ffdce0b",
+    "dc14d31011f7db88",
+    "d17bc109dfbb10c9",
+    "2d839ce5ad920a7b",
+    "a94ac7dd24d45f5a",
+    "ffed83cadaf98bc5",
+    "e5b15ee9ecfc0d39",
+    "63747ee3fdcea31a",
+    "c5715ded3f05c605",
+    "56001fbb6822cec6",
+    "d1bbd8f88f37f671",
+    "91623285ec1ef405",
+    "8427b1ef968a9a62",
+    "c2e8fd3c682ad050",
+    "91ab420a0ed26755",
+    "279ec274b4b7d937",
+    "0354ed437920494b",
+    "f75324680c7d3162",
+    "9631aa6b86f79813"
+   ]
+  }
+ ],
+ "fragments": {
+  "fab7f6fa91f22e34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regulamento da CMVM n.º 14/2000. - Sistemas de registo de valores mobiliários. - O Código dos Valores Mobiliários atribui competência à Comissão do Mercado de Valores Mobiliários (CMVM) para a regulamentação dos sistemas centralizados de valores mobiliários e do registo obrigatório de valores mobiliários em intermediário financeiro único. Preserva-se a continuidade de funcionamento dos sistemas, não impondo inovações que não resultem daquele Código. Havia, por outro lado, que generalizar a regulação de uma matéria que até ao momento se encontrava dispersa pelo Código do Mercado de Valores Mobiliários, pela [Portaria n.º 834-A/91](https://diariodarepublica.pt/dr/detalhe/portaria/834-a-1991-209609), de 14 de Agosto, e pelo Regulamento da Central de Valores Mobiliários. O que une os regimes do sistema centralizado e do registo em intermediário financeiro único é mais significativo do que o que os separa, pelo que se estruturou a sua regulação com base em regras gerais (título I), aplicáveis tanto a um como a outro regime, deixando para uma segunda parte (título II) as regras especiais dos sistemas centralizados.\n\nO título I distribui-se pelas matérias estruturadoras: disposições comuns, participantes, tipos de contas e sistemas de registo de valores. Assim, expresso o regime geral, tornou-se possível definir com generalidade algumas questões fundamentais como o princípio das partidas dobradas, que até ao momento se encontrava aflorado em diversos diplomas, mas não recebia o tratamento central que merecia. Regulam-se seguidamente os aspectos dinâmicos do regime, a integração, a exclusão e a transferência de sistema, novo instituto que se impõe pela diversificação de sistemas de registo de valores. A estas regras segue-se a disciplina das vicissitudes das contas e o exercício de direitos, cujo regime se unificou, reduzindo-se a uma tipologia que diferencia os direitos financeiros e os direitos a valores mobiliários, que sintetiza os regimes actualmente em vigor. Finalmente regulam-se as informações e declarações.\n\nO título II é dedicado aos sistemas centralizados, comportando eles mesmos uma parte geral e uma segunda parte em que se estabelecem regras especiais sobre os valores titulados.\n\nRemetem-se para anexo matérias que até ao momento não tinham merecido atenção expressa, pelo menos com a generalidade com que são ora enunciadas, ou que em geral poderão estar mais sujeitas a flutuações de regime, como é o caso das contas especiais e das transferências especiais. Regulam-se as contas que os sistemas de registo de valores devem ter para efeitos de conexão com serviços de liquidação. São igualmente reguladas as contas de valores mobiliários integrados noutros sistemas, mas que em sistema situado ou a funcionar em Portugal e as contas de valores mobiliários integrados em sistema registado na CMVM, mas que parcialmente circulam em sistema situado ou funcionar no estrangeiro. As transferências especiais regulam os efeitos nos sistemas de valores das aquisições e alienações potestativas previstas no Código dos Valores Mobiliários e no Código das Sociedades Comerciais.\n\nOs valores titulados merecem uma referência especial. O regime geral aplica-se tanto às emissões representadas por título único como às representadas por uma pluralidade de títulos, neste caso desde que estejam integrados num sistema. Quando há uma pluralidade de títulos integrados em sistema centralizado o regulamento prevê regras especiais de controlo das contas, da integração e exclusão do sistema, do exercício de direitos a valores mobiliários, bem como da guarda e controlo dos títulos.\n\nNos termos conjugados dos artigos 2.º e 3.º do [Decreto-Lei n.º 486/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1999-682983), de 13 de Novembro, o presente regulamento entra em vigor em 1 de Março de 2000, cessando a vigência nesse momento a anterior regulamentação da CMVM nesta matéria, salvo no que respeita ao regime aplicável à Central de Valores Mobiliários cuja vigência cessa na medida em que as suas regras operacionais sejam registadas na CMVM, nos termos do artigo 4.º do citado Decreto-Lei.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 5.º, no n.º 2 do artigo 59.º, no artigo 60.º, no n.º 6 do artigo 91.º, no n.º 5 do artigo 99.º, no artigo 105.º e na alínea b) do n.º 1 do artigo 353.º, todos do Código dos Valores Mobiliários, o conselho directivo da CMVM, ouvidos o Banco de Portugal, a Associação da Bolsa de Valores de Lisboa, a Associação da Bolsa de Derivados do Porto e a Interbolsa - Associação para a Prestação de Serviços às Bolsas de Valores, aprovou o seguinte regulamento:"
+  },
+  "e525daecb9844cd6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO I — Regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Regras gerais"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "c9d4d89012434301": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente regulamento aplica-se aos sistemas de registo de valores mobiliários previstos nos artigos 63.º, 88.º a 94.º, na alínea b) do n.º 2 do artigo 99.º, e nos artigos 105.º a 107.º do Código dos Valores Mobiliários."
+  },
+  "0c874262d6398403": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Participantes nos sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Participantes nos sistemas\n\n1 - São participantes comuns nos sistemas as entidades de controlo, as entidades de custódia e as entidades emitentes.\n\n2 - Podem também ser participantes nos sistemas:\n\na) O Banco de Portugal;\n\nb) O Instituto de Gestão do Crédito Público;\n\nc) As entidades gestoras de sistemas de liquidação nacionais e estrangeiras;\n\nd) As entidades gestoras de mercados regulamentados;\n\ne) As entidades de controlo estrangeiras.\n\n3 - Quando as entidades mencionadas nas alíneas c) a e) do número anterior não estejam registadas na CMVM devem estar sujeitas a supervisão que garanta equivalentes níveis de segurança."
+  },
+  "1685bc1359be6bc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Tipos de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipos de contas\n\n1 - São contas comuns as contas de emissão, as contas globais e as contas individualizadas.\n\n2 - Sempre que no presente regulamento se referirem contas de valores mobiliários o mesmo regime é aplicável às contas de direitos deles destacados, salvo disposição em contrário.\n\n3 - As contas especiais regem-se pelo disposto no anexo I ao presente regulamento e que dele faz parte integrante."
+  },
+  "8b5f6e2f9aced4db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Princípio da inscrição prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípio da inscrição prévia\n\nQualquer operação sobre valores mobiliários realizada através dos sistemas de registo exige a inscrição prévia da respectiva emissão junto da entidade de controlo."
+  },
+  "a76442935f714df4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conexão com sistemas de liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conexão com sistemas de liquidação\n\n1 - As entidades de controlo estabelecem conexões com os sistemas de liquidação de operações nos seguintes termos:\n\na) De acordo com regras registadas previamente na CMVM, caso seja a mesma entidade;\n\nb) Com base em contrato registado previamente na CMVM, caso a entidade gestora do sistema de liquidação seja diferente da entidade de controlo.\n\n2 - Se tiver sido pedida a admissão dos valores mobiliários a um mercado, os actos previstos no número anterior devem ser emitidos em tempo útil por forma a que o seu registo na CMVM seja anterior ao início da negociação dos valores."
+  },
+  "737a392e46003a67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Participantes"
+  },
+  "c22cd4127207ef34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Entidades de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entidades de controlo\n\n1 - São entidades de controlo:\n\na) As entidades gestoras de sistemas centralizados de valores mobiliários;\n\nb) Os intermediários financeiros a que se refere o n.º 1 do artigo 63.º do Código dos Valores Mobiliários.\n\n2 - As entidades de controlo asseguram, para além do previsto na lei:\n\na) A estruturação, a administração e o funcionamento dos sistemas de registo;\n\nb) A prestação de um serviço adequado para o exercício de direitos de conteúdo patrimonial inerentes aos valores mobiliários que controlam;\n\nc) A gestão do sistema informático, interligando-o com os demais participantes no sistema;\n\nd) A fiscalização do cumprimento pelos restantes participantes das normas aplicáveis;\n\ne) A abertura e a movimentação das contas de controlo da emissão e das contas globais das entidades de custódia."
+  },
+  "14cca5f282afc90d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Entidades de custódia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entidades de custódia\n\n1 - Podem ser entidades de custódia as autorizadas por lei para prestar o serviço de registo de valores escriturais ou de depósito de valores titulados.\n\n2 - No caso de suspensão, caducidade ou revogação da autorização mencionada no número anterior:\n\na) Tratando-se de sistema centralizado, as entidades de custódia comunicam o facto aos seus clientes e transferem os valores mobiliários para outra entidade de custódia, nos termos definidos pelos titulares dos valores mobiliários, ou, na falta desta definição, pelo acto que determinou a a suspensão, caducidade ou revogação;\n\nb) Tratando-se de um único intermediário financeiro, este informa os clientes do facto e contacta a entidade emitente para indicar outro intermediário financeiro.\n\n3 - Às entidades de custódia incumbe:\n\na) A abertura e movimentação das contas individualizadas;\n\nb) A abertura e movimentação das contas globais correspondentes ao somatório dos valores mobiliários inscritos nas contas individualizadas;\n\nc) A prevenção, controlo e correcção de irregularidades dos valores mobiliários junto de si inscritos;\n\nd) A denúncia à entidade de controlo de todas as situações de irregularidade dos valores mobiliários junto de si inscritos."
+  },
+  "72abf8be47761b96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Entidades emitentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entidades emitentes\n\nÀs entidades emitentes incumbe:\n\na) A abertura e movimentação de uma conta de emissão por cada categoria de valores mobiliários que emitam;\n\nb) A prevenção, controlo e correcção de irregularidades dos valores mobiliários por si emitidos;\n\nc) A denúncia à entidade de controlo das irregularidades dos valores mobiliários por si emitidos de que tenham conhecimento."
+  },
+  "bed51f0bda16efbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Contas"
+  },
+  "4969c50c4c833481": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Contas individualizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contas individualizadas\n\n1 - As contas individualizadas contêm, para além das menções do artigo 68.º do Código dos Valores Mobiliários:\n\na) A descrição da conversão dos valores mobiliários inscritos noutros de diferente natureza, indicando a data de conversão;\n\nb) A indicação da conta ou contas bancárias que devem ser creditadas, salvo quando o método de percepção de quantias escolhido pelo cliente for outro, caso que em se menciona este último.\n\n2 - São cancelados os registos dos valores mobiliários que se extinguem pelo seu exercício ou pelo reembolso desde o momento da prova dessa extinção.\n\n3 - As contas individualizadas indicam o número de arquivo da documentação que lhe sirva de suporte.\n\n4 - Os registos provisórios indicam a sua natureza e o fundamento da provisoriedade.\n\n5 - Se a entidade de custódia recusar o registo comunica esse facto imediatamente ao titular da conta, e, se for diferente, ao requerente do registo."
+  },
+  "ff9fba167c213708": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Contas de subscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contas de subscrição\n\n1 - As contas de subscrição previstas no n.º 3 do artigo 73.º do Código dos Valores Mobiliários contêm as seguintes menções:\n\na) Identificação do subscritor, e em caso de contitularidade, do representante comum, com a indicação das quotas de cada subscritor, sem o que se presume que as quotas são iguais;\n\nb) A identificação do valor mobiliário e da quantidade subscrita;\n\nc) A data de abertura e encerramento da conta.\n\n2 - Às contas de subscrição é aplicável o disposto nos n.os 3 a 5 do artigo anterior."
+  },
+  "8bb2606d82c9df2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Contas globais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contas globais\n\n1 - O saldo das contas globais corresponde ao somatório das contas individualizadas.\n\n2 - As contas de liquidação ou outras que sejam necessárias para efeitos de liquidação de operações são integradas nas contas globais como subcontas da mesma."
+  },
+  "e4d695ceeeb9c4f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Contas de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contas de emissão\n\n1 - As contas de emissão inscrevem o total de valores mobiliários da mesma categoria, emitidos pela mesma entidade.\n\n2 - Entre a abertura das contas de subscrição e a sua conversão em contas individualizadas é aberta uma conta de emissão provisória, distinguindo os valores mobiliários subscritos e os valores por subscrever."
+  },
+  "edbdbd4775f5e4b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Contas e subcontas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contas e subcontas\n\n1 - As contas globais e as contas individualizadas contêm sub-contas para a mesma categoria de valores mobiliários em que são distinguidos, nomeadamente:\n\na) Os valores mobiliários admitidos à negociação em bolsa ou noutros mercados regulamentados e neles livremente negociáveis dos não admitidos ou neles não livremente negociáveis;\n\nb) Os regimes fiscais dos valores mobiliários;\n\nc) A categoria dos titulares, quando existam limites legais ou estatutários à titularidade desses valores;\n\nd) Os valores mobiliários pertencentes às entidades de custódia e os pertencentes a outros titulares;\n\ne) As subcontas necessárias para o cumprimento dos deveres de informação, liquidação e regularização por parte das entidades de controlo ou de custódia;\n\nf) Os valores mobiliários sobre os quais foram constituídas vinculações quando o seu titular assim o ordenar.\n\n2 - Os valores agregados de cada sub-conta estão permanentemente disponíveis nas entidades de custódia e de controlo, nomeadamente para cumprimento dos seus deveres de informação."
+  },
+  "4887917896daf7e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Dever de conservadoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Dever de conservadoria\n\nA informação constante das contas e dos demais documentos é conservada durante cinco anos a contar do seu cancelamento definitivo."
+  },
+  "25ab941998a1d4a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Sistemas de registo de valores mobiliários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Sistemas de registo de valores mobiliários"
+  },
+  "a57d16346a810915": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Princípio das partidas dobradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Princípio das partidas dobradas\n\n1 - A cada movimento, inscrição ou averbamento numa conta ou subconta corresponde o movimento, inscrição ou averbamento inversos na sua recíproca.\n\n2 - Os participantes nos sistemas trocam tempestivamente entre si todas as informações necessárias à boa execução do princípio referido no número anterior.\n\n3 - Os participantes regularizam no mais curto prazo todas as situações de irregularidades dos valores mobiliários ou de discrepâncias nas contas."
+  },
+  "8fb024445d0c9902": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Registo num único intermediário financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Registo num único intermediário financeiro\n\nNos sistemas previstos no artigo 63.º e no n.º 5 do artigo 99.º do Código dos Valores Mobiliários:\n\na) O intermediário financeiro previsto nesses artigos é a entidade de controlo e simultaneamente a única entidade de custódia;\n\nb) Não se inscrevem contas globais;\n\nc) A conta de emissão junto da entidade emitente é a recíproca da conta de emissão no intermediário financeiro;\n\nd) Os saldos das contas de emissão são sempre iguais ao somatório dos saldos das contas individualizadas."
+  },
+  "7229f59657b5f6c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Sistemas centralizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Sistemas centralizados\n\n1 - Nos sistemas previstos nos artigos 88.º a 94.º e 105.º a 107.º do Código dos Valores Mobiliários:\n\na) A entidade de controlo é uma entidade gestora de sistemas centralizados de valores, adiante designada por entidade gestora, que tem abertas junto de si a recíproca da conta de emissão e das contas globais das entidades de custódia;\n\nb) As entidades de custódia têm junto de si as contas individualizadas e as contas globais discriminando os valores mobiliários junto de si inscritos;\n\nc) A conta de emissão junto da entidade emitente é a recíproca da conta de emissão junto da entidade gestora;\n\nd) Os saldos das contas de emissão são sempre iguais ao somatório dos saldos das contas globais;\n\ne) A conta global de cada entidade de custódia é a recíproca de cada conta global aberta junto da entidade gestora;\n\nf) A conta global de cada entidade de custódia é sempre igual ao somatório dos saldos das contas individualizadas junto de si abertas.\n\n2 - As contas individualizadas podem ter uma recíproca na entidade gestora, sendo neste caso movimentadas pelas entidades de custódia, de acordo com regras emitidas pela primeira."
+  },
+  "3588d5d18c4963ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Integração e exclusão do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Integração e exclusão do sistema"
+  },
+  "fa3db2a170b29148": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Integração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Integração\n\n1 - As entidades emitentes promovem por si ou através de intermediário financeiro participante no sistema de registo a inscrição das emissões.\n\n2 - São oficiosamente inscritos:\n\na) A emissão de valores mobiliários resultantes do exercício de direitos inerentes a valores integrantes de emissões já inscritas, se os primeiros forem da mesma categoria dos segundos;\n\nb) Os direitos destacados de valores já integrados no sistema de registo.\n\n3 - A inscrição é requerida:\n\na) Nos valores escriturais, antes do início do período de subscrição pelo público ou do exercício dos direitos a valores mobiliários;\n\nb) No caso de conversão de valores titulados em escriturais antes do início do prazo definido pela entidade emitente para depósito dos valores mobiliários a converter.\n\n4 - Os prazos de antecedência referidos no número anterior são definidos pela entidade de controlo.\n\n5 - O pedido é instruído com todos os documentos legalmente bastantes para a descrição da emissão e da entidade emitente.\n\n6 - Se ocorrer qualquer alteração nos documentos mencionados no número anterior, a entidade emitente remete à entidade de controlo versão actualizada dos mesmos até trinta dias após a sua verificação."
+  },
+  "447b7b8591cb3642": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Exclusão da emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Exclusão da emissão\n\n1 - A exclusão da emissão processa-se através do cancelamento da inscrição das emissões, que depende de verificação pela entidade de controlo da sua regularidade.\n\n2 - O cancelamento apenas pode ocorrer nos seguintes casos:\n\na) Extinção de uma categoria de valores mobiliários;\n\nb) Transferência de sistema;\n\nc) Falta de pagamento das comissões devidas à entidade de controlo pela entidade emitente.\n\n3 - Pode também ocorrer o cancelamento se:\n\na) Os valores mobiliários forem escriturais e se proceda à sua conversão em titulados, salvo se passarem a ser representados por um título único;\n\nb) A emissão for representada por um título único e houver desdobramento do título.\n\n4 - Os cancelamentos mencionados nas alíneas b) e c) do n.º 2 e no n.º 3 apenas podem ocorrer depois de certificada a regular extinção das contas individualizadas pela entidade de controlo e:\n\na) No caso da alínea c) do n.º 2, depois da transferência de sistema ou da conversão de valores escriturais em titulados;\n\nb) No caso do n.º 3, depois de verificada pela entidade de controlo a regular entrega dos títulos aos seus titulares."
+  },
+  "bda8ee5cf77d7378": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Transferência de sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Transferência de sistema\n\n1 - A transferência de sistema de registo apenas se considera realizada quando se encontram preenchidos os requisitos da integração no novo sistema de registo e depois de certificação pela anterior entidade de controlo da exclusão do sistema nos termos do artigo anterior.\n\n2 - As entidades de custódia, se não participarem no sistema de registo centralizado para que a emissão é transferida, transferem as contas individualizadas e a documentação de suporte necessária para a nova entidade de controlo, que abre uma conta global especial discriminando as contas individualizadas até à sua inscrição junto de entidades de custódia a pedido dos respectivos titulares."
+  },
+  "c40fa395bac0cb0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Vicissitudes das contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Vicissitudes das contas"
+  },
+  "b6536b659f5c9e0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Transferências em conta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Transferências em conta\n\n1 - Os registos em conta individualizada que resultem de transferências em consequência de operações em mercado são feitos imediatamente após a liquidação física das operações.\n\n2 - Se a transferência implicar alteração de entidade de custódia, a que recebe o pedido de transferência, seja a crédito, seja a débito, aceita-o ou recusa-o no prazo máximo de um dia, salvo se for outro o estabelecido pelo sistema de liquidação em que se integra a transferência.\n\n3 - O pedido de transferência é recusado pela entidade de custódia se os elementos do pedido não coincidirem com os elementos caracterizadores da operação em causa.\n\n4 - As transferências que visam a regularização de erros ou outros vícios regem-se pelo disposto no artigo 71.º do Código dos Valores Mobiliários e nos números anteriores.\n\n5 - As transferências especiais regem-se pelos n.os 1 a 3 do presente artigo e pelo anexo II ao presente regulamento e que dele faz parte integrante.\n\n6 - Nas transferências que tenham por causa empréstimos, cauções e factos que não tenham por efeito a transmissão definitiva da titularidade dos valores mobiliários:\n\na) As contas individualizadas debitadas mantêm os valores mobiliários objecto dos mesmos factos inscritos com a menção do facto que deu origem ao débito e identificação da conta a creditar;\n\nb) As contas individualizadas creditadas mencionam o fundamento do crédito em conta dos valores mobiliários creditados;"
+  },
+  "9d07236d321722aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Interrupções técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Interrupções técnicas\n\nSempre que haja interrupção técnica do sistema são aplicáveis as seguintes normas, salvo se as regras do sistema consagrarem procedimentos alternativos:\n\na) Não pode ser registado qualquer pedido de transferência, depósito ou levantamento de valores mobiliários;\n\nb) Os pedidos de transferência, depósito ou levantamento pendentes são cancelados se não puderem ser confirmados no prazo determinado pela entidade de controlo;\n\nc) Apenas são permitidas as transferências para cuja realização a interrupção tenha sido decidida."
+  },
+  "8a9d98945f7b3406": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Modificações do código da emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Modificações do código da emissão\n\nA modificação do código de identificação dos valores mobiliários é feita no dia determinado pela entidade de controlo em todas as contas individualizadas."
+  },
+  "b385f17d498aee67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Conversão de valores titulados em escriturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Conversão de valores titulados em escriturais\n\n1 - A conversão das emissões de valores titulados em escriturais obedece às regras de integração no sistema.\n\n2 - A conversão de títulos e a abertura das respectivas contas individualizadas depende da entrega desses títulos ao emitente ou a uma entidade de custódia e da comunicação da sua regularidade por estes à entidade de controlo.\n\n3 - O prazo de entrega dos títulos e a identificação das entidades que os podem receber são publicados num jornal de grande circulação nacional e no boletim do mercado em que estão admitidos à negociação ou, caso não o estejam, no boletim da bolsa de valores a contado com pelo menos 15 dias de antecedência em relação ao termo daquele prazo.\n\n4 - Os títulos são entregues pelas entidades de custódia à entidade emitente a fim de serem inutilizados, comunicando esta à entidade de controlo a entrega, identificando a sua data, os títulos e a entidade de custódia.\n\n5 - A abertura das contas individualizadas apenas pode ocorrer no primeiro dia útil após o prazo do n.º 3 e na medida em que a entidade de controlo tenha verificado as comunicações referidas no número anterior, abrindo as contas globais correspondentes.\n\n6 - Findo o prazo do n.º 3, a entidade emitente:\n\na) Publica nos mesmos locais anúncio informando do regime do n.º 3 do artigo 50.º do Código dos Valores Mobiliários;\n\nb) Quando não houver conversão de todos os valores mobiliários, abre contas bancárias especiais destinadas ao crédito das remunerações geradas pelos valores mobiliários não convertidos.\n\n7 - Nas contas de emissão são abertas subcontas distinguindo os valores mobiliários convertidos dos não convertidos."
+  },
+  "26a8a1317190af96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Conversão de valores escriturais em titulados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Conversão de valores escriturais em titulados\n\nNa conversão de valores escriturais do cancelamento das contas individualizadas é efectuado no momento da entrega dos títulos e da verificação da sua regularidade pelas entidades de custódia.\n\n2 - Nas contas de emissão são abertas subcontas distinguindo os valores mobiliários convertidos dos não convertidos."
+  },
+  "a705069af00b9e4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Bloqueios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Bloqueios\n\nA entidade de custódia comunica imediatamente os bloqueios ao intermediário financeiro incumbido de realizar a operação."
+  },
+  "0c183756e334cb51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Exercício de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Exercício de direitos"
+  },
+  "61ad0ea86d61fe76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Transferência de direitos inerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Transferência de direitos inerentes\n\nAté ao fim do último dia útil anterior ao início do período dos pagamentos em dinheiro ou da entrega de valores mobiliários decorrente do exercício dos direitos procede-se à interrupção técnica do sistema quanto a estes mesmos direitos salvo se as regras do sistema consagrarem procedimentos alternativos."
+  },
+  "937015d7453d02c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Exercício de direitos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Exercício de direitos financeiros\n\n1 - O exercício dos direitos a atribuições em dinheiro é previamente comunicado à entidade de controlo pela entidade emitente, que presta todas as informações necessárias para o efeito, sob pena de o pagamento dos direitos não ser processado no dia fixado pela entidade emitente, nomeadamente:\n\na) Indicando a instituição de crédito responsável pelo respectivo pagamento; e\n\nb) Enviando declaração da aceitação da instituição de crédito.\n\n2 - As entidades de custódia, a requerimento da entidade de controlo, indicam à instituição de crédito responsável pelo pagamento as contas bancárias que devem ser movimentadas em contrapartida, sob pena de o pagamento dos direitos não ser processado no dia fixado pela entidade emitente.\n\n3 - A entidade de controlo indica à instituição de crédito responsável pelo pagamento os montantes definitivos a liquidar, que apura com base nos saldos e no regime fiscal das contas das entidades de custódia.\n\n4 - Na data fixada para o exercício dos direitos, são movimentadas, por contrapartida, as contas correntes junto do Banco de Portugal da instituição de crédito que assegura o pagamento e das instituições de crédito indicadas pelas entidades de custódia.\n\n5 - Se apenas for possível processar parcialmente o pagamento, o montante da conta corrente junto do Banco de Portugal da instituição de crédito responsável pelo pagamento é proporcionalmente rateado pelas contas das instituições de crédito indicadas pelas entidades de custódia.\n\n6 - Processado o pagamento, global ou parcialmente, a instituição de crédito responsável confirma-o à entidade de controlo."
+  },
+  "67daeb1afe8dcdf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Exercício de direitos a valores mobiliários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Exercício de direitos a valores mobiliários\n\n1 - O exercício dos direitos a valores mobiliários é previamente comunicado à entidade de controlo pela entidade emitente, que presta todas as informações necessárias para o efeito, nomeadamente o factor de atribuição e os critérios de rateio.\n\n2 - Findo o período de exercício, as entidades de custódia comunicam à entidade de controlo os resultados do exercício.\n\n3 - Com base na comunicação referida no número anterior, a entidade de controlo procede ao lançamento, nas contas das entidades de custódia, dos valores mobiliários resultantes do exercício, e numa conta da entidade emitente junto de um intermediário financeiro por ela indicado, dos valores mobiliários que corresponderiam aos direitos não exercidos, salvo se outra solução resultar das condições de emissão.\n\n4 - Se for devida indemnização, a cargo da entidade emitente, pelo não exercício de direitos, ou pagamento, a cargo dos titulares, pelo seu exercício, as comunicações referidas nos n.os 2 e 3 são acompanhadas da identificação das contas bancárias que devem ser movimentadas para o efeito.\n\n5 - Findo o período de exercício, a entidade de controlo indica às instituições de crédito junto das quais se encontram as contas bancárias que são movimentadas a débito quais são as contas bancárias a movimentar em contrapartida."
+  },
+  "e609788b66f9823e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Informações e declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Informações e declarações"
+  },
+  "e72dd308bfc43ab7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Deveres da entidade de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Deveres da entidade de controlo\n\n1 - As entidades de controlo fornecem às entidades emitentes:\n\na) As informações necessárias para o exercício de direitos patrimoniais inerentes aos valores mobiliários emitidos;\n\nb) Quando os valores mobiliários sejam nominativos ou sigam o seu regime as relações que as entidades emitentes solicitem, periódica ou esporadicamente, contendo a identificação dos titulares ou de outros beneficiários e da quantidade dos mesmos que cada um detenha;\n\nc) A quantidade de valores mobiliários pertencentes a cada categoria de titulares quando existam limites legais ou estatutários à sua detenção.\n\n2 - As entidades de controlo informam imediatamente a CMVM de todas as situações de insuficiência de saldo nas contas ou discrepâncias nos saldos das contas que não sejam imediatamente regularizadas, bem como os casos de irregularidade de valores mobiliários.\n\n3 - As entidades de controlo comunicam imediatamente às entidades gestoras de mercados as medidas adoptadas que afectem a circulação dos valores mobiliários neles negociados."
+  },
+  "7b4e0dec975b8909": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Deveres das entidades de custódia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Deveres das entidades de custódia\n\nOs certificados previstos no artigo 78.º do Código dos Valores Mobiliários contêm, além das menções nele previstas, a identificação completa da entidade de custódia, dos valores mobiliários e do seu titular."
+  },
+  "d1e0d558939aa654": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO II — Sistemas centralizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Sistemas centralizados"
+  },
+  "14fefc9b2be33105": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições comuns"
+  },
+  "fd8268fde05fd5ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Regras da entidade gestora do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regras da entidade gestora do sistema\n\nA entidade gestora emite regras, registadas previamente na CMVM e publicadas no boletim da bolsa de valores a contado, regendo os procedimentos operacionais e de segurança necessários ao adequado funcionamento do sistema de registo."
+  },
+  "5e9afdfc8da4de24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Aderentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Aderentes\n\n1 - A adesão das entidades de custódia ou outros participantes junto da entidade gestora constitui-se por contrato entre eles celebrados de acordo com cláusulas gerais previamente registadas junto da CMVM e depende de apresentação de documento comprovativo do registo junto da CMVM quando seja obrigatório.\n\n2 - A adesão junto da entidade gestora das entidades de custódia ou outros participantes:\n\na) Implica a respectiva inscrição junto dos serviços competentes da entidade gestora;\n\nb) É objecto de publicação no boletim da bolsa de valores a contado.\n\n3 - A adesão é recusada pela entidade gestora quando as entidades referidas no n.º 1 não comprovem dispor dos meios adequados para prestar o serviço a que se propõem.\n\n4 - Os aderentes podem pedir a suspensão da adesão por um período não superior a três anos.\n\n5 - Cessa a adesão à entidade gestora:\n\na) Decorrido o prazo previsto no número anterior;\n\nb) Se os aderentes deixarem de preencher os requisitos da sua adesão;\n\nc) Por vontade das partes.\n\n6 - A cessação nos casos das alíneas b) e c) o número anterior ocorre sem prejuízo de se manterem os seus deveres até ao regular cancelamento de todas as contas individualizadas junto de si inscritas."
+  },
+  "d6396d9f624795fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Codificação de valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Codificação de valores\n\n1 - Os valores mobiliários e os direitos destacados são identificados nas contas pelo código ISIN.\n\n2 - A codificação é atribuída no momento da integração no sistema pela Agência Nacional de Codificação, escolhida de entre as entidades gestoras pela CMVM por iniciativa desta última ou a pedido daquelas.\n\n3 - A CMVM pode transferir a qualidade de Agência Nacional de Codificação para outra entidade gestora quando esta assegure melhores condições na prestação deste serviço.\n\n4 - A Agência Nacional de Codificação é igualmente competente para codificar os valores não integrados em sistema centralizado quando por força de lei, de regulamento, ou da vontade do emitente se deva proceder a esta codificação.\n\n5 - A codificação é atribuída de acordo com condições definidas em regras previamente registadas na CMVM."
+  },
+  "9f69a04a32375203": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Contas de titularidade directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Contas de titularidade directa\n\n1 - Ainda que não se adopte o sistema previsto no n.º 2 do artigo 17.º inscrevem-se obrigatoriamente contas de titularidade directa na entidade gestora em relação aos valores mobiliários pertencentes às seguintes entidades:\n\na) Investidores institucionais previstos no n.º 1 do artigo 30.º do Código dos Valores Mobiliários;\n\nb) Sociedades abertas;\n\nc) Titulares de participação qualificada em sociedade aberta;\n\nd) Consultores autónomos;\n\ne) Entidades colocadoras de unidades de participação;\n\nf) Fundos de pensões.\n\n2 - Podem ainda abrir contas de titularidade directa as entidades que possam prestar serviços de liquidação de valores mobiliários ou outros instrumentos financeiros.\n\n3 - O somatório dos saldos das contas globais é igual à diferença entre o saldo da conta de emissão e o somatório dos saldos das contas de titularidade directa."
+  },
+  "c06e49de8dab404b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Integração no sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Integração no sistema\n\n1 - A decisão de qualquer pedido de inscrição é notificada no prazo de quatro dias úteis a contar da data de recepção do pedido ou da completa instrução do mesmo.\n\n2 - Da decisão de indeferimento cabe recurso para a CMVM, a ser interposto no prazo de cinco dias úteis a contar da data de notificação do requerente.\n\n3 - A inscrição da emissão é requerida dentro de um prazo definido pela entidade gestora após a comunicação da decisão de admissão ao mercado regulamentado."
+  },
+  "4b4ef7f4feb5b03a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Transferência e exclusão de sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Transferência e exclusão de sistema\n\n1 - Da decisão de exclusão de sistema centralizado cabe recurso para a CMVM, a ser interposto no prazo de cinco dias úteis a contar da data em que o requerente haja sido notificado.\n\n2 - A exclusão do sistema de registo centralizado apenas pode ocorrer depois de tornada definitiva a decisão de exclusão do mercado regulamentado em que são negociados os valores mobiliários\n\n3 - A transferência para outro sistema centralizado implica a interrupção da negociação em mercado regulamentado antes do início do cancelamento das contas individualizadas, definido pela entidade gestora de origem e a consumação da transferência."
+  },
+  "fb332dcd1bc519e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Conversão de valores titulados em escriturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Conversão de valores titulados em escriturais\n\n1 - É automaticamente interrompida a negociação em mercado regulamentado dos valores titulados a converter pelo período igual ao fixado para a liquidação de operações nesse mercado, antecedendo o termo do prazo fixado pela entidade emitente para a conversão.\n\n2 - Se os valores mobiliários forem negociados em mais de um mercado regulamentado o prazo mencionado no número anterior é o maior prazo de liquidação aplicável.\n\n3 - A conversão dos valores titulados em escriturais ocorre apenas no fim da interrupção prevista nos números anteriores."
+  },
+  "1dc0bc6dfdd7dc4c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Exercício de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Exercício de direitos\n\n1 - Em alternativa ao disposto no n.º 2 do artigo 28.º, a indicação das contas bancárias que são movimentadas em contrapartida pode ser feita pela entidade gestora de acordo com as informações recebidas pelas entidades de custódia, aplicando-se o disposto na parte final do n.º 2 do mesmo artigo 28.º caso as informações recebidas não sejam completas.\n\n2 - Quanto se tratar de direitos de subscrição resultantes de oferta reservada exclusivamente a accionistas ou de direitos de incorporação, de fusão ou de cisão os procedimentos previstos nos n.os 2 a 4 do artigo 29.º podem ser substituídos, de acordo com as regras da entidade gestora, pelos seguintes:\n\na) As entidades de custódia comunicam à entidade de controlo as informações necessárias para se proceder a atribuição ou o rateio, bem como os elementos constantes do n.º 4 do artigo 29.º;\n\nb) A entidade de controlo apura os resultados da operações de acordo com as informações recebidas."
+  },
+  "f2239f32412c6c4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Comissões\n\n1 - O preçário da entidade gestora é aprovado pela CMVM, sendo publicado no boletim da bolsa de valores a contado.\n\n2 - Os preços de serviços não previstos no preçário carecem de aprovação pela CMVM."
+  },
+  "b258d8a8facd9f2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Valores titulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Valores titulares"
+  },
+  "83605fdd066677d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Contas de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Contas de emissão\n\n1 - As contas de emissão têm subcontas que distinguem os títulos integrados dos não integrados na entidade gestora.\n\n2 - Os saldos das subcontas de títulos integrados são sempre iguais ao somatório dos saldos das contas globais"
+  },
+  "16cece85a76b0754": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Contas e subcontas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Contas e subcontas\n\n1 - As contas das entidades de custódia contêm subcontas que distinguem:\n\na) Títulos já inscritos na entidade gestora, mas ainda não entregues para guarda nesta;\n\nb) Títulos inscritos e entregues para guarda na entidade gestora.\n\n2 - Os títulos mencionados na alínea a) são inscritos na subconta \"não integrados\" junto da entidade gestora."
+  },
+  "2972a731616f84c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Integração no sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Integração no sistema\n\n1 - São obrigatoriamente inscritas as emissões de valores titulados resultantes do exercício de direitos inerentes a valores integrantes de emissões já inscritas, desde que pertençam à mesma categoria.\n\n2 - A inscrição é requerida com antecedência em relação ao início do período de subscrição pelo público ou do exercício de direitos a valores mobiliários.\n\n3 - A entidade gestora pode exigir ao emitente exemplares de cada espécime de título representativo dos valores mobiliários a integrar e a distribuição de espécimes pela numeração dos valores mobiliários integrantes da emissão.\n\n4 - As regras operacionais estabelecem os procedimentos de segurança a adoptar e as transferências de regularização visando a adequação dos registos em conta aos valores depositados com vista à sua integração no sistema."
+  },
+  "f44ca54f1f2d34bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Exclusão de valores mobiliários do sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Exclusão de valores mobiliários do sistema\n\n1 - Os títulos são excluídos do sistema com o seu levantamento:\n\na) Pelos seus titulares; ou\n\nb) Por transferência para intermediário financeiro não aderente ao sistema de registo.\n\n2 - O pedido de levantamento é feito pelo interessado junto da entidade de custódia.\n\n3 - A entrega dos títulos ao requerente depende de passagem de quitação por este.\n\n4 - Se o pedido de levantamento implicar o desdobramento de títulos:\n\na) A entidade gestora promove o desdobramento junto da entidade emitente, que procede ao desdobramento e à entrega dos títulos junto da entidade gestora;\n\nb) A entidade gestora entrega os títulos à entidade de custódia, depois de inutilizados os títulos antigos e de inscritos os novos no diário de depósitos.\n\n5 - Para além das situações previstas nos n.os 2 e 3 do artigo 19.º, a emissão pode ser excluída do sistema a pedido a entidade emitente desde que os valores mobiliários não se encontrem admitidos em mercado regulamentado."
+  },
+  "c91eaa2b70e22cfe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Exercício de direitos a valores mobiliários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Exercício de direitos a valores mobiliários\n\nSe os valores mobiliários resultantes do exercício forem titulados, a entidade emitente acorda com a entidade de controlo o plano de entrega dos títulos definitivos e promove o depósito dos títulos que correspondem aos direitos não exercidos na conta referida no n.º 3 do artigo 29.º"
+  },
+  "bc68841c823b5ae2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Guarda de títulos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Guarda de títulos\n\n1 - A entidade gestora cria e mantém em adequadas condições de funcionamento um sistema de guarda de títulos.\n\n2 - A entidade gestora pode exigir às entidades de custódia a entrega de títulos aos intermediários financeiros previstos no n.º 2 do artigo 106.º do Código dos Valores Mobiliários, adiante designados de intermediários financeiros de guarda, para efeitos de integração em sistema.\n\n3 - Os intermediários financeiros de guarda conferem os títulos na presença de funcionário da entidade de custódia devidamente habilitado para o efeito, passando-lhe documento de quitação.\n\n4 - Os intermediários financeiros de guarda recusam o depósito de títulos que apresentem irregularidades, dando conhecimento do facto às entidade de custódia e à entidade gestora.\n\n5 - As transferências de títulos entre os intermediários financeiros de guarda apenas podem ocorrer com o consentimento da entidade gestora.\n\n6 - De todas as transferências de títulos entre intermediários financeiros de guarda e entre estes e a entidade gestora se passam quitações."
+  },
+  "051e8c753ffdce0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Diário de depósitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Diário de depósitos\n\n1 - A entidade gestora mantém um registo informático actualizado, discriminando, em relação aos que estão à sua guarda e por cada intermediário financeiro de guarda:\n\na) Os títulos depositados;\n\nb) Os títulos que apresentem irregularidades, descrevendo-as;\n\nc) Datas de entrega e levantamento de títulos.\n\n2 - Cada intermediário financeiro de guarda mantém um registo actualizado com as mesmas menções referidas no número anterior, comunicando imediatamente à entidade gestora todas as informações necessárias para a actualização dos seus registos."
+  },
+  "dc14d31011f7db88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Irregularidades nos títulos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Irregularidades nos títulos\n\nA entidade gestora comunica imediatamente à CMVM as irregularidades nos títulos de que tenha conhecimento, nomeadamente a duplicação de numeração."
+  },
+  "d17bc109dfbb10c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO III — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Disposição transitória"
+  },
+  "2d839ce5ad920a7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Codificação de valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Codificação de valores\n\nA codificação de valores actualmente vigente mantém-se em vigor enquanto não for substituída pela Agência Nacional de Codificação prevista no artigo 34.º"
+  },
+  "a94ac7dd24d45f5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia 1 de Março de 2000.\n\n10 de Fevereiro de 2000. - O Presidente, José Nunes Pereira."
+  },
+  "ffed83cadaf98bc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Contas especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Contas especiais"
+  },
+  "e5b15ee9ecfc0d39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Contas para liquidações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Contas para liquidações"
+  },
+  "63747ee3fdcea31a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Contas para liquidações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Contas para liquidações\n\n1 - As contas para liquidações podem ser detidas por entidades, adiante designadas por entidades autorizadas, a quem é permitido dar ordens de transferência directamente à entidade de controlo enquanto tal.\n\n2 - São entidades autorizadas, no exercício das suas funções:\n\na) O Banco de Portugal, nessa qualidade, em nome do fundo de garantia de depósitos e do fundo de garantia do crédito agrícola mútuo;\n\nb) As entidades gestoras de mercados;\n\nc) As entidades gestoras de sistemas de liquidação.\n\n3 - As contas para liquidações são compostas por contas de garantias e contas de titularidade directa, abertas nos termos do n.º 2 do artigo 17.º"
+  },
+  "c5715ded3f05c605": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Contas de garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Contas de garantias\n\n1 - Quando as vinculações dos valores mobiliários forem inscritas a favor de uma entidade autorizada nessa qualidade, ficam integrados em subcontas das contas individualizadas e das contas globais por cada tipo de vinculação a que estão sujeitos e por cada beneficiário.\n\n2 - Às subcontas de vinculação das contas globais é aplicável o regime destas últimas, salvo no que respeita à relação dos seus saldos com os da conta de emissão.\n\n3 - O somatório das subcontas globais de vinculações tem como recíproca uma conta de garantias, aberta em nome do beneficiário das mesmas e que representa o conjunto de posições activas que este detém por força dessas mesmas vinculações.\n\n4 - As contas de garantias identificam:\n\na) A categoria dos valores dados em garantia e a sua quantidade;\n\nb) A natureza da garantia;\n\nc) A identificação das subcontas mencionadas no n.º 1."
+  },
+  "56001fbb6822cec6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Contas para liquidações. Regimes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Contas para liquidações. Regimes especiais\n\nNos sistemas previstos no artigo 16.º e no n.º 2 do artigo 17.º do presente regulamento:\n\na) As vinculações inscrevem-se apenas nas contas individualizadas;\n\nb) Os saldos das contas de garantias previstas nos n.os 3 e 4 do artigo anterior é igual ao somatório das vinculações inscritas nas contas da alínea anterior."
+  },
+  "d1bbd8f88f37f671": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Informações\n\nAs entidades de controlo fornecem às entidades autorizadas informação permanentemente actualizada das suas contas para liquidações."
+  },
+  "91623285ec1ef405": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Contas de entidades de controlo estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Contas de entidades de controlo estrangeiras"
+  },
+  "8427b1ef968a9a62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime\n\n1 - Quando uma emissão estiver integrada em sistema de registo gerido por entidade de controlo estrangeira pode ser integrada numa conta de emissão especial para efeito de circulação em contas junto de uma entidade de controlo registada na CMVM.\n\n2 - A conta de emissão especial pode ser inscrita junto de:\n\na) Entidade de controlo estrangeira onde estão integrados os valores mobiliários;\n\nb) Intermediário financeiro aderente a ambos os sistemas de valores mobiliários;\n\nc) Intermediário financeiro de interligação aderente à entidade de controlo registada na CMVM.\n\n3 - À conta de emissão especial e às entidades mencionadas no número anterior é aplicável o regime, respectivamente, das contas de emissão e das entidades emitentes no sistema de registo.\n\n4 - As entidades referidas no n.º 2 garantem:\n\na) Informação completa sobre a quantidade de valores nela integrados e a quantidade total de valores mobiliários emitidos;\n\nb) O bloqueio dos valores mobiliários inscritos na conta de emissão especial junto do sistema de valores estrangeiros;\n\nc) A igualdade das quantidades inscritas na conta de emissão especial com as bloqueadas nos termos da alínea anterior.\n\n5 - As contas individualizadas em sistema registado na CMVM, indicam que se trata de valores integrados em entidade de controlo estrangeira, identificando-a.\n\n6 - A abertura de conta de emissão especial depende de indicação de instituição de crédito aderente ao sistema de valores registado na CMVM para efeitos de exercício dos direitos previstos nos artigos 27.º e 28.º do presente regulamento, juntando-se a sua aceitação.\n\n7 - Quando a conta de emissão especial estiver inscrita junto de um intermediário financeiro de interligação, a aceitação deste pela entidade de controlo registada na CMVM depende de apresentação de contrato entre o mesmo intermediário financeiro e a entidade de controlo estrangeira ou intermediário financeiro aderente ao sistema de registo estrangeiro pelo qual estes últimos garantem perante o intermediário financeiro de interligação e a entidade de controlo registada na CMVM os deveres previstos no n.º 4."
+  },
+  "c2e8fd3c682ad050": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Exercício de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Exercício de direitos\n\nNo momento da integração da emissão a entidade de controlo estrangeira, o intermediário financeiro de interligação, ou a entidade emitente determinam quem se responsabiliza pela indicação de uma instituição de crédito, aderente ao sistema de registo registado na CMVM, responsável pelo pagamento das remunerações, juntando prova da aceitação desta última."
+  },
+  "91ab420a0ed26755": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Declarações e informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Declarações e informações\n\nNas declarações e informações previstas nos artigos 30.º e 31.º do presente regulamento indica-se que os valores estão integrados em entidade de controlo estrangeira, identificando-a."
+  },
+  "279ec274b4b7d937": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Emissões parcialmente integradas em entidades de controlo estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Emissões parcialmente integradas em entidades de controlo estrangeiras"
+  },
+  "0354ed437920494b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Integração parcial em sistema estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Integração parcial em sistema estrangeiro\n\nSe, no momento da integração em sistema registado na CMVM, ou em momento posterior, o emitente integrar parte da emissão junto de entidades de controlo estrangeiras:\n\na) As contas de emissão contêm uma subconta por cada entidade de controlo estrangeira identificando-a e indicando a quantidade de valores mobiliários que é por ela controlada;\n\nb) Para efeitos da alínea d) do artigo 16.º e da alínea d) do n.º 1 do artigo 17.º do presente regulamento considera-se como saldo da conta de emissão o que resulta da dedução da quantidade dos valores mobiliários integrados noutras entidades de controlo à quantidade total de valores emitidos."
+  },
+  "f75324680c7d3162": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Transferências especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Transferências especiais"
+  },
+  "9631aa6b86f79813": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo único — Aquisições e alienações potestativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo único — Aquisições e alienações potestativas\n\n1 - Nas situações previstas no artigo 490.º do Código das Sociedades Comerciais e nos artigos 194.º a 196.º do Código dos Valores Mobiliários, o adquirente envia à entidade de controlo:\n\na) Identificação da entidade de custódia e respectiva conta para a qual devem ser transferidas as acções;\n\nb) Identificação da conta, junto de entidade de custódia ou de instituição de crédito, onde se encontra depositada a contrapartida da aquisição.\n\n2 - Ocorrendo a aquisição ao abrigo do artigo 490.º do Código das Sociedades Comerciais, a sociedade adquirente envia ainda à entidade de controlo certidão de teor do registo da escritura de aquisição e cópia da respectiva publicação em Diário da República ou da sentença judicial a que se refere o n.º 6 daquele artigo.\n\n3 - A entidade de controlo, mediante a recepção dos elementos referidos nos números anteriores, indica às entidades de custódia a data em que vai proceder à transferência das acções e os elementos relativos ao depósito da contrapartida da aquisição.\n\n4 - A entidade de controlo transfere as acções das contas globais das entidades de custódia para a conta global da entidade de custódia indicada pelo adquirente.\n\n5 - Na data da transferência, as entidades de custódia dos valores mobiliários a transferir emitem para os respectivos titulares declaração, para exercício do direito à contrapartida da aquisição, contendo as seguintes menções:\n\na) Identificação do titular das acções a transferir;\n\nb) Quantidade de acções a transferir;\n\nc) Efeitos a que se destina a declaração;\n\nd) Identificação da conta em que se encontra depositada a contrapartida da aquisição;\n\ne) Indicação da transferência das acções a favor da sociedade adquirente;\n\nf) Descrição dos ónus ou encargos sobre as acções, se for o caso, sendo emitida uma via da declaração para o seu beneficiário."
+  },
+  "3d8120ac0c038ef7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Contas de titularidade directa",
+   "in_force_from": "2003-04-01",
+   "changed_by": [
+    "Alterado pelo/a [Regulamento da CMVM n.º 3/2003](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/3-2003-3039677), publicado em 2003-04-01."
+   ],
+   "markdown": "###### Artigo 35.º — Contas de titularidade directa\n\n1 - Ainda que não se adopte o sistema previsto no n.º 2 do artigo 17.º, inscrevem-se obrigatoriamente junto da entidade gestora contas de titularidade directa relativas aos valores mobiliários pertencentes às seguintes entidades:\n\na) Instituições de investimento colectivo;\n\nb) Fundos de pensões.\n\n2 - Podem ainda abrir contas de titularidade directa as entidades que possam prestar serviços de liquidação de valores mobiliários ou outros instrumentos financeiros.\n\n3 - O somatório dos saldos das contas globais é igual à diferença entre o saldo da conta de emissão e o somatório dos saldos das contas de titularidade directa.\n\n> Alterado pelo/a [Regulamento da CMVM n.º 3/2003](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/3-2003-3039677), publicado em 2003-04-01."
+  }
+ }
+}

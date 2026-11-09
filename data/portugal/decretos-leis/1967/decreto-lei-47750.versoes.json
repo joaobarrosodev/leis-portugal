@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:312227:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1967-06-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a30d5d840b935c78"
+   ]
+  },
+  {
+   "date": "1967-11-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:388801:por",
+     "title": "Decreto-Lei n.º 48018",
+     "published": "1967-11-02",
+     "dre_path": "/dr/detalhe/decreto-lei/48018-1967-388801"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "ff094d8c3a10ff07",
+    "61903f1982ba4456",
+    "e1e729ed8919851f",
+    "483a9e633d11e658",
+    "de00ae9141407612",
+    "053bdf8641ee387f",
+    "e52c744789f8ac1e",
+    "3f56bc8a89b4cd5f",
+    "4a8b692aa32bd480",
+    "dd9eb3fbfa842caa"
+   ]
+  }
+ ],
+ "fragments": {
+  "a30d5d840b935c78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Mostrando-se conveniente prorrogar até 30 de Setembro de 1967 o prazo para a liquidação dos empréstimos concedidos pela Caixa Nacional de Crédito e pelas caixas de crédito agrícola mútuo respeitantes à campanha do trigo de 1965-1966, bem como o prazo de vencimento da primeira prestação da dívida em regime de moratória ao Fundo de Abastecimento;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º É prorrogado até 30 de Setembro de 1967 o prazo para a liquidação dos empréstimos referidos no artigo 27.º do [Decreto-Lei n.º 46595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46595-1965-510663), de 15 de Outubro de 1965.\n\nArt. 2.º A Federação Nacional dos Produtores de Trigo responderá subsidiàriamente, perante a Caixa Nacional de Crédito, pelo reembolso do saldo em dívida do capital mutuado, pelos juros devidos até à liquidação do mesmo saldo e pelos encargos resultantes da cobrança coerciva dos empréstimos referidos no artigo anterior.\n\n§ único. São consignadas à satisfação das responsabilidades previstas neste artigo, e até à concorrência do respectivo saldo, as receitas percebidas pela Federação Nacional dos Produtores de Trigo, provenientes da importação dos trigos exóticos destinados às ilhas adjacentes.\n\nArt. 3.º Para além da concorrência do saldo referido no § único do artigo anterior, cessa a responsabilidade da Federação Nacional dos Produtores de Trigo, e o Fundo de Abastecimento responderá subsidiàriamente, perante a Caixa Nacional de Crédito, pelo reembolso do capital, juros e encargos referidos no artigo 2.º deste diploma.\n\nArt. 4.º A efectivação da responsabilidade atribuída pelos artigos anteriores à Federação Nacional dos Produtores de Trigo e ao Fundo de Abastecimento só poderá ser exigida pela Caixa Nacional de Crédito quando se verifiquem cumulativamente as seguintes condições:\n\n1.ª Não se encontrarem liquidados, até 30 de Setembro de 1967, os empréstimos a que se refere o artigo 1.º deste diploma ou os juros correspondentes ao período de moratória;\n\n2.ª Ter sido instaurada execução contra os devedores em mora e seus fiadores, mostrando-se prèviamente excutidos os bens de uns e outros.\n\nArt. 5.º Ao reembolso do capital mutuado, bem como ao pagamento dos juros e encargos resultantes da cobrança coerciva dos empréstimos a que se refere o artigo 1.º, ficam consignadas as garantias constituídas a favor da Caixa Nacional de Crédito, as quais poderão ser acrescidas das que forem julgadas indispensáveis pela Federação Nacional dos Produtores de Trigo ou pelo Fundo de Abastecimento.\n\nArt. 6.º As importâncias já pagas pelos mutuários à data da publicação deste diploma poderão ser restituídas, a pedido dos interessados, com intervenção dos respectivos fiadores, se os houver.\n\n§ único. O disposto no corpo deste artigo é extensivo às importâncias entregues à Caixa Nacional de Crédito pelas companhias seguradoras a título de indemnização por incêndio de searas.\n\nArt. 7.º O prazo estabelecido no corpo do artigo 27.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963, é prorrogado até 30 de Setembro de 1967.\n\n§ único. O disposto no artigo 6.º deste diploma é aplicável às importâncias pagas pelos mutuários a partir de 1 de Junho de 1966, relativas à primeira prestação da dívida a que se referem os artigos 25.º e 27.º do citado [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803).\n\nArt. 8.º A Federação Nacional dos Produtores de Trigo não liquidará, nem directamente, nem por intermédio das suas delegações ou dos grémios da lavoura, as importâncias correspondentes aos cereais entregues na campanha de 1966-1967, sem fazer, em cada caso, as seguintes deduções, pela ordem de precedência indicada:\n\n1.º Do montante que se mostre em dívida referente aos financiamentos à campanha do trigo de 1965-1966, concedidos pela Caixa Nacional de Crédito e pelas caixas de crédito agrícola mútuo, ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 46595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46595-1965-510663), de 15 de Outubro de 1965;\n\n2.º Da quinta parte do saldo em dívida dos empréstimos em regime de moratória, a que se referem os artigos 25.º, 27.º e 30.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963;\n\n3.º Da verba necessária para a liquidação dos empréstimos de outras campanhas de trigo actualmente em dívida;\n\n4.º Do valor dos cereais e sementes de forragens fornecidos a crédito pela Federação Nacional dos Produtores de Trigo, quer ele se encontre ou não titulado por meio de livranças subscritas ou letras aceites pelos produtores.\n\nArt. 9.º O disposto nos artigos anteriores é extensivo aos empréstimos concedidos pelas caixas de crédito agrícola mútuo.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 6 de Junho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Manuel Alves Machado."
+  },
+  "ff094d8c3a10ff07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Mostrando-se conveniente prorrogar até 30 de Setembro de 1967 o prazo para a liquidação dos empréstimos concedidos pela Caixa Nacional de Crédito e pelas caixas de crédito agrícola mútuo respeitantes à campanha do trigo de 1965-1966, bem como o prazo de vencimento da primeira prestação da dívida em regime de moratória ao Fundo de Abastecimento;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "61903f1982ba4456": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ prorrogado até 30 de Setembro de 1967 o prazo para a liquidação dos empréstimos referidos no artigo 27.º do [Decreto-Lei n.º 46595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46595-1965-510663), de 15 de Outubro de 1965."
+  },
+  "e1e729ed8919851f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Federação Nacional dos Produtores de Trigo responderá subsidiàriamente, perante a Caixa Nacional de Crédito, pelo reembolso do saldo em dívida do capital mutuado, pelos juros devidos até à liquidação do mesmo saldo e pelos encargos resultantes da cobrança coerciva dos empréstimos referidos no artigo anterior.\n\n§ único. São consignadas à satisfação das responsabilidades previstas neste artigo, e até à concorrência do respectivo saldo, as receitas percebidas pela Federação Nacional dos Produtores de Trigo, provenientes da importação dos trigos exóticos destinados às ilhas adjacentes."
+  },
+  "483a9e633d11e658": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara além da concorrência do saldo referido no § único do artigo anterior, cessa a responsabilidade da Federação Nacional dos Produtores de Trigo, e o Fundo de Abastecimento responderá subsidiàriamente, perante a Caixa Nacional de Crédito, pelo reembolso do capital, juros e encargos referidos no artigo 2.º deste diploma."
+  },
+  "de00ae9141407612": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA efectivação da responsabilidade atribuída pelos artigos anteriores à Federação Nacional dos Produtores de Trigo e ao Fundo de Abastecimento só poderá ser exigida pela Caixa Nacional de Crédito quando se verifiquem cumulativamente as seguintes condições:\n\n1.ª Não se encontrarem liquidados, até 30 de Setembro de 1967, os empréstimos a que se refere o artigo 1.º deste diploma ou os juros correspondentes ao período de moratória;\n\n2.ª Ter sido instaurada execução contra os devedores em mora e seus fiadores, mostrando-se prèviamente excutidos os bens de uns e outros."
+  },
+  "053bdf8641ee387f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAo reembolso do capital mutuado, bem como ao pagamento dos juros e encargos resultantes da cobrança coerciva dos empréstimos a que se refere o artigo 1.º, ficam consignadas as garantias constituídas a favor da Caixa Nacional de Crédito, as quais poderão ser acrescidas das que forem julgadas indispensáveis pela Federação Nacional dos Produtores de Trigo ou pelo Fundo de Abastecimento."
+  },
+  "e52c744789f8ac1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs importâncias já pagas pelos mutuários à data da publicação deste diploma poderão ser restituídas, a pedido dos interessados, com intervenção dos respectivos fiadores, se os houver.\n\n§ único. O disposto no corpo deste artigo é extensivo às importâncias entregues à Caixa Nacional de Crédito pelas companhias seguradoras a título de indemnização por incêndio de searas."
+  },
+  "3f56bc8a89b4cd5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1967-11-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 48018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48018-1967-388801), publicado em 1967-11-02."
+   ],
+   "markdown": "###### Artigo 7.º\n\nO prazo estabelecido no corpo do artigo 27.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963, é prorrogado até 30 de Setembro de 1968.\n\n§ único. O disposto no artigo 6.º deste diploma é aplicável às importâncias pagas pelos mutuários a partir de 1 de Junho de 1966, relativas à primeira prestação da dívida a que se referem os artigos 25.º e 27.º do citado [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803).\n\n> Alterado pelo/a [Decreto-Lei n.º 48018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48018-1967-388801), publicado em 1967-11-02."
+  },
+  "4a8b692aa32bd480": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA Federação Nacional dos Produtores de Trigo não liquidará, nem directamente, nem por intermédio das suas delegações ou dos grémios da lavoura, as importâncias correspondentes aos cereais entregues na campanha de 1966-1967, sem fazer, em cada caso, as seguintes deduções, pela ordem de precedência indicada:\n\n1.º Do montante que se mostre em dívida referente aos financiamentos à campanha do trigo de 1965-1966, concedidos pela Caixa Nacional de Crédito e pelas caixas de crédito agrícola mútuo, ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 46595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46595-1965-510663), de 15 de Outubro de 1965;\n\n2.º Da quinta parte do saldo em dívida dos empréstimos em regime de moratória, a que se referem os artigos 25.º, 27.º e 30.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963;\n\n3.º Da verba necessária para a liquidação dos empréstimos de outras campanhas de trigo actualmente em dívida;\n\n4.º Do valor dos cereais e sementes de forragens fornecidos a crédito pela Federação Nacional dos Produtores de Trigo, quer ele se encontre ou não titulado por meio de livranças subscritas ou letras aceites pelos produtores."
+  },
+  "dd9eb3fbfa842caa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO disposto nos artigos anteriores é extensivo aos empréstimos concedidos pelas caixas de crédito agrícola mútuo.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 6 de Junho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Fernando Manuel Alves Machado."
+  }
+ }
+}

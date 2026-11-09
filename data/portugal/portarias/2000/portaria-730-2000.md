@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-02-27'
+version_history:
+  file: portaria-730-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-09-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-02-27'
+    amending: pt:dre:386815:por
+    amending_title: Portaria n.º 110/2001
+    changes:
+    - Altera Artigo ANEXO — Estatuto das Ligas dos Amigos dos Museus Militares::23.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/730/2000/09/07/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:25:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 110/2001. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-730-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -359,7 +374,7 @@ h) Deliberar, de um modo geral, sobre os assuntos que lhe sejam presentes e que 
 
 ###### Artigo 23.º — Mesa
 
-1 - A mesa da assembleia geral é constituída por um presidente e dois secretários, eleitos de entre os sócios inscritos há mais de seis meses.
+1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e dois secretários, eleitos de entre os sócios inscritos há mais de seis meses.
 
 2 - Compete ao presidente da mesa da assembleia geral, designadamente:
 
@@ -373,13 +388,17 @@ d) Dar posse aos membros dos corpos sociais, assinando os respectivos termos de 
 
 3 - O presidente da mesa da assembleia geral pode corresponder-se com qualquer entidade, pública ou privada, sobre assuntos cuja competência não pertença a outros corpos sociais.
 
-4 - Aos secretários da mesa da assembleia geral compete, designadamente:
+4 - Compete ao vice-presidente da mesa da assembleia geral substituir o presidente nas suas faltas e impedimentos.
+
+5 - Aos secretários da mesa da assembleia geral compete, designadamente:
 
 a) Elaborar e assinar as actas das reuniões da assembleia geral;
 
 b) Elaborar e fazer seguir o expediente da mesa da assembleia geral;
 
 c) Arquivar os documentos e zelar pela segurança dos respectivos arquivos.
+
+> Alterado pelo/a [Portaria n.º 110/2001](https://diariodarepublica.pt/dr/detalhe/portaria/110-2001-386815), publicado em 2001-02-22.
 
 #### SECÇÃO III — Da direcção
 

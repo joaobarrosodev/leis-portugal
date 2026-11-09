@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-05-09'
+version_history:
+  file: decreto-lei-44589.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-09-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-05-09'
+    amending: pt:dre:627984:por
+    amending_title: Decreto-Lei n.º 45019
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:42:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 45019. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44589.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -100,11 +115,19 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Nos termos do n.º 1.º do artigo 69.º do Decreto n.º 38969, de 27 de Outubro de 1952, é autorizado o Governo, pelo Ministro da Educação Nacional, a aceitar do benemérito Joaquim Faria Moreira Ramalhão a importância de 250000$00 para fundo de manutenção da Cantina Escolar Joaquim Ramalhão, anexa às escolas do núcleo da Maia, concelho da Maia.
+###### Artigo 1.º
 
-Art. 2.º A administração da cantina é autónoma e atribuída a uma comissão de, pelo menos, três membros, nomeada pelo Ministro da Educação Nacional, da qual farão parte dois agentes de ensino e, como presidente, o benemérito ou seu representante.
+Nos termos do n.º 1 do artigo 69.º do Decreto n.º 38969, de 27 de Outubro de 1952, é autorizado o Governo, pelo Ministro da Educação Nacional, a aceitar do benemérito Joaquim Faria Moreira Ramalhão a importância da 250000$00 para fundo de manutenção da Cantina Escolar Joaquim Ramalhão, anexa às escolas do núcleo de Pedras Rubras, freguesia de Moreira, concelho da Maia.
 
-Art. 3.º Ao doador é reservado o privilégio de indicar dois professores para o preenchimento de vagas existentes nas escolas do núcleo beneficiado pela cantina ou que no mesmo núcleo venham a verificar-se durante o prazo de dez anos, após a publicação do presente diploma.
+> Alterado pelo/a [Decreto-Lei n.º 45019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45019-1963-627984), publicado em 1963-05-09.
+
+###### Artigo 2.º
+
+A administração da cantina é autónoma e atribuída a uma comissão de, pelo menos, três membros, nomeada pelo Ministro da Educação Nacional, da qual farão parte dois agentes de ensino e, como presidente, o benemérito ou seu representante.
+
+###### Artigo 3.º
+
+Ao doador é reservado o privilégio de indicar dois professores para o preenchimento de vagas existentes nas escolas do núcleo beneficiado pela cantina ou que no mesmo núcleo venham a verificar-se durante o prazo de dez anos, após a publicação do presente diploma.
 
 Publique-se e cumpra-se como nele se contém.
 

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-11-08'
+version_history:
+  file: decreto-lei-436-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-08-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-11-08'
+    amending: pt:dre:411617:por
+    amending_title: Decreto-Lei n.º 599/73
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:28:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 599/73. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-436-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,15 +147,29 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O quadro do pessoal da Biblioteca Geral da Universidade de Coimbra passa a ser o constante do mapa anexo a este diploma.
+###### Artigo 1.º
 
-Art. 2.º Poderá ser contratado ou assalariado além do quadro outro pessoal auxiliar necessário ao serviço, nas condições fixadas pelo § 2.º do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+O quadro do pessoal da Biblioteca Geral da Universidade de Coimbra passa a ser o constante do mapa anexo a este diploma.
 
-Art. 3.º Os contínuos, guardas e serventes têm direito à concessão de fardamento, sendo-lhes aplicável, para o efeito, o disposto no [Decreto-Lei n.º 45678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45678-1964-472289), de 25 de Abril de 1964.
+###### Artigo 2.º
 
-Art. 4.º - 1. O pessoal do quadro actual irá ocupar, sem dependência de quaisquer formalidades, lugares da sua categoria no novo quadro, segundo relação a publicar no Diário do Governo.
+Poderá ser contratado ou assalariado além do quadro outro pessoal auxiliar necessário ao serviço, nas condições fixadas pelo § 2.º do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+
+###### Artigo 3.º
+
+Os contínuos, guardas e serventes têm direito à concessão de fardamento, sendo-lhes aplicável, para o efeito, o disposto no [Decreto-Lei n.º 45678](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45678-1964-472289), de 25 de Abril de 1964.
+
+###### Artigo 4.º
+
+1. O pessoal nomeado ou contratado que actualmente presta serviço na Biblioteca Geral da Universidade de Coimbra será provido em lugares idênticos ou de categoria equivalente do quadro anexo ao presente diploma, mediante lista aprovada pelo Ministro da Educação Nacional e publicada no Diário do Governo, independentemente de outras formalidades, salvo a anotação das novas situações pelo Tribunal de Contas, mantendo-se válidos os respectivos contratos até à publicação da referida lista.
 
 2. O Ministro da Educação Nacional poderá livremente nomear os actuais funcionários da Biblioteca para lugares de categoria imediatamente superior previstos no novo quadro, desde que para tanto possuam as habilitações legais.
+
+3. O pessoal contratado que não for possível prover nos termos previstos no n.º 1 deste artigo transita para a Biblioteca Geral na situação em que se encontrar à data da publicação deste decreto-lei.
+
+4. Os actuais funcionários do quadro da Biblioteca que não for possível prover nos termos do n.º 1 deste artigo continuarão ao serviço, sem perda dos direitos adquiridos e na situação de supranumerários ao quadro.
+
+> Alterado pelo/a [Decreto-Lei n.º 599/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/599-1973-411617), publicado em 1973-11-08.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-12-25'
+version_history:
+  file: decreto-lei-241-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-09-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-12-25'
+    amending: pt:dre:420407:por
+    amending_title: Decreto-Lei n.º 365/97
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/241/1994/09/22/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:33:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 365/97. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-241-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -231,19 +246,23 @@ b) A avaliação periódica da eficiência e eficácia dos serviços.
 
 ###### Artigo 3.º — Transição do pessoal da área de psicologia clínica
 
-1 - O pessoal provido em lugares da carreira técnica superior do regime geral e que, sendo possuidor de licenciatura em Psicologia Clínica, se encontre no exercício efectivo de funções próprias do ramo de psicologia clínica há, pelo menos, três anos, à data da publicação do presente diploma, comprovado por documento emitido pelo órgão máximo de gestão do estabelecimento, pode transitar para a carreira dos técnicos superiores de saúde, ramo de psicologia clínica, mediante listas de transição homologadas por despacho ministerial e publicadas no Diário da República.
+1 - O pessoal provido em lugares da carreira técnica superior ou técnica do regime geral e que, sendo possuidor de licenciatura em Psicologia Clínica, em Psicologia, em Filosofia ou em Ciências Histórico-Filosóficas, estas duas últimas obtidas até 1979, se encontre no exercício efectivo de funções próprias do ramo de psicologia clínica há, pelo menos, três anos, à data da publicação do presente diploma, comprovado por documento emitido pelo órgão máximo de gestão do estabelecimento, pode transitar para a carreira de técnico superior de saúde, ramo de psicologia clínica, após parecer favorável de uma comissão técnica a designar por despacho ministerial composta por três individualidades de reconhecida competência.
 
-2 - O pessoal que vier a transitar nos termos do número anterior é posicionado em escalão a que corresponda remuneração igual à auferida ou imediatamente superior, se não houver coincidência, de acordo com as seguintes regras:
+2 - A transição a que se refere o número anterior efectua-se por listas de transição homologadas por despacho ministerial e publicadas no Diário da República.
 
-a) Os técnicos superiores de 2.ª e 1.ª classes para a categoria de assistente;
+3 - O pessoal que vier a transitar nos termos do número anterior é posicionado em escalão a que corresponda remuneração igual à auferida ou imediatamente superior, se não houver coincidência, de acordo com as seguintes regras:
 
-b) Os técnicos superiores principais para a categoria de assistente principal;
+a) Os técnicos superiores de 2.ª classe e de 1.ª classe e os técnicos de 2.ª classe, de 1.ª classe, principais e especialistas para a categoria de assistente;
+
+b) Os técnicos superiores principais e técnicos especialistas principais para a categoria de assistente principal;
 
 c) Os assessores para a categoria de assessor;
 
 d) Os assessores principais para a categoria de assessor superior.
 
-3 - A antiguidade nas novas categorias decorrentes da transição prevista nos n.os 1 e 2, bem como o tempo de serviço a considerar para efeitos de progressão nas mesmas, é contada a partir da data da entrada em vigor do presente diploma.
+4 - A antiguidade nas novas categorias decorrentes da transição prevista nos n.os 1 e 2, bem como o tempo de serviço a considerar para efeitos de progressão nas mesmas, é contada a partir da data da entrada em vigor do presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 365/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1997-420407), publicado em 1997-12-20.
 
 ###### Artigo 4.º — Acesso até à categoria de assessor
 

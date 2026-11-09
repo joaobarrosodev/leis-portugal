@@ -1,0 +1,646 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:476108:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1974-07-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e90169eb505f07cf",
+    "cef0f7717c498098",
+    "69ce96c3339ee17e",
+    "3bbbd7312324996d",
+    "1bb2bb6a5c79fe25",
+    "4bedc8dec69a9385",
+    "95dc4531ed62f1bc",
+    "6bd7aa8c6127081b",
+    "8611719ea23b10bb",
+    "574dd9af1463552f",
+    "c07b42a6fd389cd8",
+    "c8c63287d69d677c",
+    "ac7b6cca6ef8a4f0",
+    "97f1e60ef81fb950",
+    "8d79ca38a41a0cb5",
+    "90ed241f4eac6b9a",
+    "ea77d066cfe0754e",
+    "fb602d6fa73f896c",
+    "3a8b41dc4c988bbd",
+    "f24f059332074cfb",
+    "e589233f70d17520",
+    "ac60facd6eb6253f",
+    "20f1e3863b1e3d24",
+    "e00ca8b2445abee4",
+    "afa44a2794d7b0d0",
+    "63d204856947d810",
+    "58564131524af9ef",
+    "8829013aabc4f4da",
+    "56aab79d7c2eda08",
+    "c0c68c4322210e29",
+    "c4db749fd2dcb680",
+    "471af12f583860a1",
+    "d617a7c229359779",
+    "09d25444982de105",
+    "a38923814c3a23b1",
+    "6fa13dbb8bb3fb75"
+   ]
+  },
+  {
+   "date": "1974-11-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:466223:por",
+     "title": "Resolução n.º 4/74",
+     "published": "1974-11-28",
+     "dre_path": "/dr/detalhe/resolucao/4-1974-466223"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "e90169eb505f07cf",
+    "cef0f7717c498098",
+    "320e8324373ae08e",
+    "a95d01b15bb23e8d",
+    "bb978efe356d1e6f",
+    "f420561f62c2dd44",
+    "cd5f745a6cf43d89",
+    "0b55d0ba536fb4a7",
+    "85a7e94e9167c475",
+    "2f71b53d1b0b9791",
+    "faff68a31fbc2023",
+    "c8c63287d69d677c",
+    "60dc1a2f1d14693e",
+    "8195ca83d7cb8336",
+    "a4253f2ba3dfbd31",
+    "024326dceebc3cdb",
+    "cd74b4a77e88d597",
+    "02f6c956c003f85d",
+    "8ff54eb34416a3d0",
+    "4197bb9b1cf1c51e",
+    "f4cd3607e902a909",
+    "63014002d1aaf33c",
+    "7a91deb035203b71",
+    "49b81050011d3cfb",
+    "afa44a2794d7b0d0",
+    "35261514b88fcf2d",
+    "d658189618b19cba",
+    "472c61e3fa0b5bf6",
+    "2df074204cb6b124",
+    "50461412f109c1c7",
+    "7f6121af43a0dc44",
+    "51de1a0637301935",
+    "d617a7c229359779",
+    "a1a43793c79b2660",
+    "1c933aaace03f8e1",
+    "c321124fe709f1dd"
+   ]
+  }
+ ],
+ "fragments": {
+  "e90169eb505f07cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Julho\n\nO Conselho de Estado decreta, para valer como resolução, e eu promulgo o seguinte:\n\nREGIMENTO DO CONSELHO DE ESTADO"
+  },
+  "cef0f7717c498098": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Do Conselho de Estado e dos seus membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Do Conselho de Estado e dos seus membros"
+  },
+  "69ce96c3339ee17e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º\n\nO Conselho de Estado é um órgão de soberania que se rege pelo disposto na Lei Constitucional n.º 3/74, de 14 de Maio, e no presente diploma."
+  },
+  "3bbbd7312324996d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º\n\nConstituem o Conselho de Estado:\n\na) Os membros da Junta de Salvação Nacional;\n\nb) Sete representantes das forças armadas;\n\nc) Sete cidadãos de reconhecido mérito."
+  },
+  "1bb2bb6a5c79fe25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º\n\nOs membros da Junta de Salvação Nacional são membros natos do Conselho de Estado, não carecendo de nomeação nem de investidura."
+  },
+  "4bedc8dec69a9385": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º\n\nOs membros referidos na alínea b) do artigo 2.º são nomeados pelo Presidente da República, de acordo com as designações feitas pelo Movimento das Forças Armadas."
+  },
+  "95dc4531ed62f1bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º\n\nOs membros referidos na alínea c) do artigo 2.º são da livre escolha do Presidente da República e por ele nomeados."
+  },
+  "6bd7aa8c6127081b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º\n\nNo caso de cessação das funções de qualquer dos membros referidos nas alíneas b) e c) do artigo 2.º, o Presidente da República designará o novo membro no prazo de quinze dias após a verificação do respectivo evento."
+  },
+  "8611719ea23b10bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º\n\nOs membros referidos nas alíneas b) e c) do artigo 2.º tomam posse e prestam compromisso de honra perante o Presidente da República."
+  },
+  "574dd9af1463552f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º\n\n1. As funções de conselheiro de Estado são gratuitas e compatíveis com o exercício de qualquer função política ou administrativa e com o desempenho de qualquer actividade privada.\n\n2. Os membros referidos na alínea b) do artigo 2.º não podem ser colocados, sem prévio consentimento do Conselho de Estado, em situações que impeçam o exercício efectivo das suas funções.\n\n3. O exercício das funções de conselheiro de Estado por parte dos membros referidos na alínea b) do artigo 2.º prefere ao de quaisquer outras."
+  },
+  "c07b42a6fd389cd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º\n\n1. Determinam a perda da qualidade de conselheiro de Estado os seguintes factos:\n\na) Morte;\n\nb) Renúncia;\n\nc) Impossibilidade física permanente.\n\n2. O reconhecimento da impossibilidade física permanente é da competência do Conselho de Estado."
+  },
+  "c8c63287d69d677c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Das atribuições e competência do Conselho de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Das atribuições e competência do Conselho de Estado"
+  },
+  "ac7b6cca6ef8a4f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º\n\nCompete ao Conselho de Estado:\n\n1.º Exercer os poderes constituintes assumidos em consequência do Movimento das Forças Armadas até à eleição da Assembleia Constituinte;\n\n2.º Sancionar os diplomas do Governo Provisório que respeitem:\n\na) À eleição da Assembleia Constituinte;\n\nb) À definição das linhas gerais da política económica, social e financeira;\n\nc) Ao exercício da liberdade de expressão de pensamento, de ensino, de reunião, de associação e de crenças e práticas religiosas;\n\nd) À organização da defesa nacional e à definição dos deveres desta decorrentes;\n\ne) À definição do regime geral do Governo dos territórios ultramarinos;\n\n3.º Vigiar pelo cumprimento das normas constitucionais e das leis ordinárias e apreciar os actos do Governo ou da Administração;\n\n4.º Autorizar o Presidente da República a fazer a guerra, se não couber o recurso à arbitragem, ou esta se malograr, salvo o caso de agressão efectiva ou iminente de forças estrangeiras, e a fazer a paz;\n\n5.º Pronunciar-se sobre a impossibilidade física do Presidente da República;\n\n6.º Emitir parecer sobre a prorrogação do prazo fixado para a aprovação da nova Constituição Política pela Assembleia Constituinte;\n\n7.º Emitir parecer sobre a declaração do estado de sítio;\n\n8.º Designar, no prazo de quinze dias, os novos membros da Junta de Salvação Nacional, no caso de cessação das funções por parte de algum ou alguns dos seus membros;\n\n9.º Pronunciar-se sobre a colocação de qualquer dos conselheiros de Estado referidos na alínea b) do artigo 2.º em situações que impeçam o exercício efectivo das respectivas funções;\n\n10.º Pronunciar-se em todas as emergências graves para a vida da Nação e sobre outros assuntos de interesse nacional sempre que o Presidente da República o julgue conveniente."
+  },
+  "97f1e60ef81fb950": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 11.º\n\n1. A iniciativa do exercício dos poderes constituintes que competem ao Conselho de Estado pertence a qualquer dos membros do Conselho.\n\n2. As normas constitucionais emanadas do Conselho de Estado serão decretadas como leis constitucionais e promulgadas pelo Presidente da República, não carecendo de referenda."
+  },
+  "8d79ca38a41a0cb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 12.º\n\n1. Os diplomas do Governo Provisório que devem ser sancionados pelo Conselho de Estado não poderão ser promulgados pelo Presidente da República sem que a sanção tenha sido concedida, devendo mencionar-se nos textos publicados no Diário do Governo o facto de tais diplomas terem sido vistos e aprovados em Conselho de Estado.\n\n2. No caso de o Conselho de Estado recusar a sanção a algum diploma, será este remetido ao Governo Provisório com uma nota justificativa dos fundamentos da recusa ou com uma sugestão de nova redacção.\n\n3. Se o Conselho de Ministros concordar com a redacção sugerida pelo Conselho de Estado, o texto seguirá sem mais formalidades para promulgação pelo Presidente da República, considerando-se sancionado pelo Conselho de Estado."
+  },
+  "90ed241f4eac6b9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 13.º\n\n1. A função de vigiar pelo cumprimento das normas constitucionais será exercida por iniciativa de qualquer dos membros do Conselho de Estado.\n\n2. O Conselho de Estado, quando considerar inconstitucional qualquer norma, anulá-la-á mediante resolução, a qual será promulgada pelo Presidente da República e não carecerá de referenda.\n\n3. As resoluções do Conselho de Estado que anulem normas inconstitucionais terão força obrigatória geral, mas sempre com ressalva das situações criadas pelos casos julgados."
+  },
+  "ea77d066cfe0754e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 14.º\n\n1. A fim de vigiar pelo cumprimento das leis ordinárias e de apreciar os actos do Governo e da Administração, poderá o Conselho de Estado solicitar ao Governo que esclareça o Conselho, por escrito ou verbalmente, sobre qualquer assunto da sua competência.\n\n2. A iniciativa do exercício dos poderes referidos no número anterior pertence a qualquer membro do Conselho de Estado, mas o seu seguimento depende de aprovação do Conselho."
+  },
+  "fb602d6fa73f896c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 15.º\n\nO pedido de autorização para o Presidente da República fazer a guerra ou fazer a paz será apresentado ao Conselho de Estado pelo próprio Presidente da República."
+  },
+  "3a8b41dc4c988bbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 16.º\n\n1. A declaração de impossibilidade física do Presidente da República só pode ser feita pelo Conselho de Estado em reunião especialmente convocada para esse fim, pertencendo o direito de convocação ao membro da Junta de Salvação Nacional que estiver a desempenhar interinamente as funções de Presidente da República.\n\n2. A declaração referida no número anterior será promulgada como resolução do Conselho de Estado pelo Presidente da República interino, não carecendo de referenda, e importa de per si a imediata vacatura do cargo."
+  },
+  "f24f059332074cfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 17.º\n\n1. O Conselho de Estado só pode emitir parecer sobre a prorrogação do prazo fixado para a aprovação da nova Constituição Política, bem como sobre a declaração do estado de sítio, por iniciativa do Presidente da República.\n\n2. O parecer do Conselho de Estado poderá ser publicado no Diário do Governo se o Presidente da República assim o decidir."
+  },
+  "e589233f70d17520": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 18.º\n\nA designação de novos membros da Junta de Salvação Nacional será promulgada pelo Presidente da República como resolução do Conselho de Estado, não carecendo de referenda."
+  },
+  "ac60facd6eb6253f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 19.º\n\nAs deliberações referidas no n.º 9.º do artigo 10.º serão publicadas no Diário do Governo."
+  },
+  "20f1e3863b1e3d24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 20.º\n\nO parecer do Conselho de Estado sobre qualquer das questões mencionadas no n.º 10.º do artigo 10.º poderá ser publicado no Diário do Governo se o Presidente da República assim o decidir."
+  },
+  "e00ca8b2445abee4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 21.º\n\nAs deliberações do Conselho de Estado que reconheçam a impossibilidade física permanente de algum dos seus membros, bem como a exoneração de qualquer destes resultante de renúncia, serão publicadas no Diário do Governo."
+  },
+  "afa44a2794d7b0d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Do funcionamento do Conselho de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Do funcionamento do Conselho de Estado"
+  },
+  "63d204856947d810": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 22.º\n\nA convocação e a presidência do Conselho de Estado competem ao Presidente da República, salvo nos casos de impedimento ou impossibilidade física dele, em que essa competência pertence ao membro da Junta de Salvação Nacional que estiver a desempenhar interinamente as funções de Presidente da República."
+  },
+  "58564131524af9ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 23.º\n\n1. As convocatórias devem ser feitas, salvo casos excepcionais, com uma antecedência mínima de cinco dias e delas constarão o dia, hora e local da reunião, bem como a respectiva ordem do dia.\n\n2. Juntamente com a convocatória serão enviados os textos que hajam de ser apreciados na reunião."
+  },
+  "8829013aabc4f4da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 24.º\n\nO Conselho de Estado funciona apenas em reuniões plenárias, sem prejuízo da faculdade de cometer o estudo de assuntos determinados a qualquer dos seus membros ou a grupos de trabalho formados no seu seio."
+  },
+  "56aab79d7c2eda08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 25.º\n\nO Conselho de Estado só pode deliberar validamente quando estiver presente a maioria do número legal dos seus membros."
+  },
+  "c0c68c4322210e29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 26.º\n\n1. As deliberações do Conselho de Estado são tomadas à pluralidade absoluta de votos dos membros presentes.\n\n2. Em caso de empate, o Presidente da República tem voto de qualidade.\n\n3. As deliberações serão sempre tomadas por votação nominal, não sendo permitidas as abstenções.\n\n4. São admitidas as declarações de voto."
+  },
+  "c4db749fd2dcb680": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 27.º\n\n1. De tudo o que ocorrer nas reuniões do Conselho de Estado será lavrada acta em livro especial, cujos termos de abertura e encerramento serão assinados pelo Presidente da República.\n\n2. O projecto de acta de cada reunião será redigido por um secretário, designado pelo Conselho de Estado de entre os seus membros, e será submetido à aprovação do Conselho no início da reunião seguinte.\n\n3. As actas, depois de lançadas no livro respectivo, serão subscritas pelo secretário e assinadas pelo Presidente da República."
+  },
+  "471af12f583860a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 28.º\n\nOs serviços de expediente do Conselho de Estado ficam a cargo da Secretaria-Geral da Presidência da República."
+  },
+  "d617a7c229359779": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais"
+  },
+  "09d25444982de105": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 29.º\n\nA interpretação deste Regimento e, bem assim, a integração das suas lacunas competem ao próprio Conselho de Estado."
+  },
+  "a38923814c3a23b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 30.º\n\nAs alterações ao presente Regimento só poderão ser introduzidas em reunião expressamente convocada para esse fim."
+  },
+  "6fa13dbb8bb3fb75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 31.º\n\nEste Regimento será promulgado como resolução do Conselho de Estado e publicado no Diário do Governo.\n\nPromulgado em 23 de Julho de 1974.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO DE SPÍNOLA."
+  },
+  "320e8324373ae08e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Conselho de Estado é um órgão de soberania que se rege pelo disposto na Lei Constitucional n.º 3/74, de 14 de Maio, e no presente diploma."
+  },
+  "a95d01b15bb23e8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nConstituem o Conselho de Estado:\n\na) Os membros da Junta de Salvação Nacional;\n\nb) Sete representantes das forças armadas;\n\nc) Sete cidadãos de reconhecido mérito."
+  },
+  "bb978efe356d1e6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs membros da Junta de Salvação Nacional são membros natos do Conselho de Estado, não carecendo de nomeação nem de investidura."
+  },
+  "f420561f62c2dd44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs membros referidos na alínea b) do artigo 2.º são nomeados pelo Presidente da República, de acordo com as designações feitas pelo Movimento das Forças Armadas."
+  },
+  "cd5f745a6cf43d89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs membros referidos na alínea c) do artigo 2.º são da livre escolha do Presidente da República e por ele nomeados."
+  },
+  "0b55d0ba536fb4a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNo caso de cessação das funções de qualquer dos membros referidos nas alíneas b) e c) do artigo 2.º, o Presidente da República designará o novo membro no prazo de quinze dias após a verificação do respectivo evento."
+  },
+  "85a7e94e9167c475": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs membros referidos nas alíneas b) e c) do artigo 2.º tomam posse e prestam compromisso de honra perante o Presidente da República."
+  },
+  "2f71b53d1b0b9791": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1974-11-28",
+   "changed_by": [
+    "Alterado pelo/a [Resolução n.º 4/74](https://diariodarepublica.pt/dr/detalhe/resolucao/4-1974-466223), publicado em 1974-11-28."
+   ],
+   "markdown": "###### Artigo 8.º\n\n1. As funções de conselheiro de Estado são compatíveis com o exercício de qualquer função política ou administrativa e com o desempenho de qualquer actividade privada.\n\n2. Os membros referidos na alínea b) do artigo 2.º não podem ser colocados, sem prévio consentimento do Conselho de Estado, em situações que impeçam o exercício efectivo das suas funções.\n\n3. O exercício das funções de conselheiro de Estado por parte dos membros referidos na alínea b) do artigo 2.º prefere ao de quaisquer outras.\n\n> Alterado pelo/a [Resolução n.º 4/74](https://diariodarepublica.pt/dr/detalhe/resolucao/4-1974-466223), publicado em 1974-11-28."
+  },
+  "faff68a31fbc2023": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Determinam a perda da qualidade de conselheiro de Estado os seguintes factos:\n\na) Morte;\n\nb) Renúncia;\n\nc) Impossibilidade física permanente.\n\n2. O reconhecimento da impossibilidade física permanente é da competência do Conselho de Estado."
+  },
+  "60dc1a2f1d14693e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nCompete ao Conselho de Estado:\n\n1.º Exercer os poderes constituintes assumidos em consequência do Movimento das Forças Armadas até à eleição da Assembleia Constituinte;\n\n2.º Sancionar os diplomas do Governo Provisório que respeitem:\n\na) À eleição da Assembleia Constituinte;\n\nb) À definição das linhas gerais da política económica, social e financeira;\n\nc) Ao exercício da liberdade de expressão de pensamento, de ensino, de reunião, de associação e de crenças e práticas religiosas;\n\nd) À organização da defesa nacional e à definição dos deveres desta decorrentes;\n\ne) À definição do regime geral do Governo dos territórios ultramarinos;\n\n3.º Vigiar pelo cumprimento das normas constitucionais e das leis ordinárias e apreciar os actos do Governo ou da Administração;\n\n4.º Autorizar o Presidente da República a fazer a guerra, se não couber o recurso à arbitragem, ou esta se malograr, salvo o caso de agressão efectiva ou iminente de forças estrangeiras, e a fazer a paz;\n\n5.º Pronunciar-se sobre a impossibilidade física do Presidente da República;\n\n6.º Emitir parecer sobre a prorrogação do prazo fixado para a aprovação da nova Constituição Política pela Assembleia Constituinte;\n\n7.º Emitir parecer sobre a declaração do estado de sítio;\n\n8.º Designar, no prazo de quinze dias, os novos membros da Junta de Salvação Nacional, no caso de cessação das funções por parte de algum ou alguns dos seus membros;\n\n9.º Pronunciar-se sobre a colocação de qualquer dos conselheiros de Estado referidos na alínea b) do artigo 2.º em situações que impeçam o exercício efectivo das respectivas funções;\n\n10.º Pronunciar-se em todas as emergências graves para a vida da Nação e sobre outros assuntos de interesse nacional sempre que o Presidente da República o julgue conveniente."
+  },
+  "8195ca83d7cb8336": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A iniciativa do exercício dos poderes constituintes que competem ao Conselho de Estado pertence a qualquer dos membros do Conselho.\n\n2. As normas constitucionais emanadas do Conselho de Estado serão decretadas como leis constitucionais e promulgadas pelo Presidente da República, não carecendo de referenda."
+  },
+  "a4253f2ba3dfbd31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Os diplomas do Governo Provisório que devem ser sancionados pelo Conselho de Estado não poderão ser promulgados pelo Presidente da República sem que a sanção tenha sido concedida, devendo mencionar-se nos textos publicados no Diário do Governo o facto de tais diplomas terem sido vistos e aprovados em Conselho de Estado.\n\n2. No caso de o Conselho de Estado recusar a sanção a algum diploma, será este remetido ao Governo Provisório com uma nota justificativa dos fundamentos da recusa ou com uma sugestão de nova redacção.\n\n3. Se o Conselho de Ministros concordar com a redacção sugerida pelo Conselho de Estado, o texto seguirá sem mais formalidades para promulgação pelo Presidente da República, considerando-se sancionado pelo Conselho de Estado."
+  },
+  "024326dceebc3cdb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. A função de vigiar pelo cumprimento das normas constitucionais será exercida por iniciativa de qualquer dos membros do Conselho de Estado.\n\n2. O Conselho de Estado, quando considerar inconstitucional qualquer norma, anulá-la-á mediante resolução, a qual será promulgada pelo Presidente da República e não carecerá de referenda.\n\n3. As resoluções do Conselho de Estado que anulem normas inconstitucionais terão força obrigatória geral, mas sempre com ressalva das situações criadas pelos casos julgados."
+  },
+  "cd74b4a77e88d597": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. A fim de vigiar pelo cumprimento das leis ordinárias e de apreciar os actos do Governo e da Administração, poderá o Conselho de Estado solicitar ao Governo que esclareça o Conselho, por escrito ou verbalmente, sobre qualquer assunto da sua competência.\n\n2. A iniciativa do exercício dos poderes referidos no número anterior pertence a qualquer membro do Conselho de Estado, mas o seu seguimento depende de aprovação do Conselho."
+  },
+  "02f6c956c003f85d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nO pedido de autorização para o Presidente da República fazer a guerra ou fazer a paz será apresentado ao Conselho de Estado pelo próprio Presidente da República."
+  },
+  "8ff54eb34416a3d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. A declaração de impossibilidade física do Presidente da República só pode ser feita pelo Conselho de Estado em reunião especialmente convocada para esse fim, pertencendo o direito de convocação ao membro da Junta de Salvação Nacional que estiver a desempenhar interinamente as funções de Presidente da República.\n\n2. A declaração referida no número anterior será promulgada como resolução do Conselho de Estado pelo Presidente da República interino, não carecendo de referenda, e importa de per si a imediata vacatura do cargo."
+  },
+  "4197bb9b1cf1c51e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. O Conselho de Estado só pode emitir parecer sobre a prorrogação do prazo fixado para a aprovação da nova Constituição Política, bem como sobre a declaração do estado de sítio, por iniciativa do Presidente da República.\n\n2. O parecer do Conselho de Estado poderá ser publicado no Diário do Governo se o Presidente da República assim o decidir."
+  },
+  "f4cd3607e902a909": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nA designação de novos membros da Junta de Salvação Nacional será promulgada pelo Presidente da República como resolução do Conselho de Estado, não carecendo de referenda."
+  },
+  "63014002d1aaf33c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nAs deliberações referidas no n.º 9.º do artigo 10.º serão publicadas no Diário do Governo."
+  },
+  "7a91deb035203b71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO parecer do Conselho de Estado sobre qualquer das questões mencionadas no n.º 10.º do artigo 10.º poderá ser publicado no Diário do Governo se o Presidente da República assim o decidir."
+  },
+  "49b81050011d3cfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nAs deliberações do Conselho de Estado que reconheçam a impossibilidade física permanente de algum dos seus membros, bem como a exoneração de qualquer destes resultante de renúncia, serão publicadas no Diário do Governo."
+  },
+  "35261514b88fcf2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nA convocação e a presidência do Conselho de Estado competem ao Presidente da República, salvo nos casos de impedimento ou impossibilidade física dele, em que essa competência pertence ao membro da Junta de Salvação Nacional que estiver a desempenhar interinamente as funções de Presidente da República."
+  },
+  "d658189618b19cba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. As convocatórias devem ser feitas, salvo casos excepcionais, com uma antecedência mínima de cinco dias e delas constarão o dia, hora e local da reunião, bem como a respectiva ordem do dia.\n\n2. Juntamente com a convocatória serão enviados os textos que hajam de ser apreciados na reunião."
+  },
+  "472c61e3fa0b5bf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nO Conselho de Estado funciona apenas em reuniões plenárias, sem prejuízo da faculdade de cometer o estudo de assuntos determinados a qualquer dos seus membros ou a grupos de trabalho formados no seu seio."
+  },
+  "2df074204cb6b124": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nO Conselho de Estado só pode deliberar validamente quando estiver presente a maioria do número legal dos seus membros."
+  },
+  "50461412f109c1c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. As deliberações do Conselho de Estado são tomadas à pluralidade absoluta de votos dos membros presentes.\n\n2. Em caso de empate, o Presidente da República tem voto de qualidade.\n\n3. As deliberações serão sempre tomadas por votação nominal, não sendo permitidas as abstenções.\n\n4. São admitidas as declarações de voto."
+  },
+  "7f6121af43a0dc44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. De tudo o que ocorrer nas reuniões do Conselho de Estado será lavrada acta em livro especial, cujos termos de abertura e encerramento serão assinados pelo Presidente da República.\n\n2. O projecto de acta de cada reunião será redigido por um secretário, designado pelo Conselho de Estado de entre os seus membros, e será submetido à aprovação do Conselho no início da reunião seguinte.\n\n3. As actas, depois de lançadas no livro respectivo, serão subscritas pelo secretário e assinadas pelo Presidente da República."
+  },
+  "51de1a0637301935": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nOs serviços de expediente do Conselho de Estado ficam a cargo da Secretaria-Geral da Presidência da República."
+  },
+  "a1a43793c79b2660": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nA interpretação deste Regimento e, bem assim, a integração das suas lacunas competem ao próprio Conselho de Estado."
+  },
+  "1c933aaace03f8e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nAs alterações ao presente Regimento só poderão ser introduzidas em reunião expressamente convocada para esse fim."
+  },
+  "c321124fe709f1dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nEste Regimento será promulgado como resolução do Conselho de Estado e publicado no Diário do Governo.\n\nPromulgado em 23 de Julho de 1974.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO DE SPÍNOLA."
+  }
+ }
+}

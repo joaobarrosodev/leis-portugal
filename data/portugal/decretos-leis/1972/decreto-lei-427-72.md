@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-04-12'
+version_history:
+  file: decreto-lei-427-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-04-12'
+    amending: pt:dre:161890:por
+    amending_title: Decreto-Lei n.º 195/75
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:24:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 195/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1972/decreto-lei-427-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -197,13 +212,17 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Constituição e fins
 
-Artigo 1.º - 1. O Instituto dos Cereais, criado ao abrigo do disposto no artigo 5.º do [Decreto-Lei n.º 283/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1972-676052), de 11 de Agosto, é um organismo de coordenação económica dotado de personalidade jurídica e autonomia financeira.
+###### Artigo 1.º
+
+1. O Instituto dos Cereais, criado ao abrigo do disposto no artigo 5.º do [Decreto-Lei n.º 283/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1972-676052), de 11 de Agosto, é um organismo de coordenação económica dotado de personalidade jurídica e autonomia financeira.
 
 2. A acção do Instituto exerce-se em toda a área do continente e ilhas adjacentes.
 
 3. O Instituto tem a sua sede em Lisboa, podendo estabelecer delegações onde for julgado necessário.
 
-Art. 2.º São atribuições do Instituto:
+###### Artigo 2.º
+
+São atribuições do Instituto:
 
 a) Coordenar e disciplinar as actividades de produção, transformação e comercialização de cereais, sementes forraginosas, farinhas, sêmolas, pão e produtos afins, massas alimentícias, bolachas, e biscoitos e, em geral, dos produtos e subprodutos das indústrias transformadoras dos sectores coordenados, ficando os respectivos organismos corporativos obrigados a cumprir e a fazer cumprir as instruções regulamentares emanadas do Instituto;
 
@@ -213,7 +232,9 @@ c) Realizar estudos técnicos e económicos relativos aos sectores coordenados, 
 
 d) Certificar a origem e a qualidade dos produtos.
 
-Art. 3.º - 1. Para o desempenho das suas atribuições, compete, em especial, ao Instituto:
+###### Artigo 3.º
+
+1. Para o desempenho das suas atribuições, compete, em especial, ao Instituto:
 
 a) Propor as condições a que devem obedecer as actividades coordenadas e prestar-lhes assistência técnica, em ordem ao aperfeiçoamento do fabrico, rendibilidade da exploração e melhoria da qualidade dos produtos;
 
@@ -267,15 +288,23 @@ z') Exercer as demais funções que lhe sejam cometidas por lei ou que se mostre
 
 ### CAPÍTULO II — Organização e funcionamento
 
-Art. 4.º São órgãos do Instituto a direcção e o conselho geral.
+###### Artigo 4.º
 
-Art. 5.º - 1. A direcção é constituída por um presidente e três directores.
+São órgãos do Instituto a direcção e o conselho geral.
+
+###### Artigo 5.º
+
+1. A direcção é constituída por um presidente e quatro directores.
 
 2. O presidente da direcção e os directores são escolhidos por decisão conjunta do Ministro da Economia e do Secretário de Estado do Comércio.
 
 3. O presidente da direcção será substituído, nas suas faltas ou impedimentos, pelo director designado pelo Secretário de Estado do Comércio, mediante proposta do presidente da direcção.
 
-Art. 6.º - 1. À direcção compete:
+> Alterado pelo/a [Decreto-Lei n.º 195/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1975-161890), publicado em 1975-04-12.
+
+###### Artigo 6.º
+
+1. À direcção compete:
 
 a) Pronunciar-se sobre os quadros do pessoal a a organização interna dos serviços necessários à realização dos fins do Instituto;
 
@@ -291,7 +320,9 @@ f) Apreciar e deliberar sobre os assuntos que o presidente entenda deverem ser r
 
 2. Para obrigar o Instituto, assinar cheques e outros documentos relativos ao levantamento e recebimento de fundos, é indispensável a intervenção do presidente da direcção e de um director ou, na falta ou impedimento do primeiro, de dois directores.
 
-Art. 7.º - 1. Compete especialmente ao presidente da direcção:
+###### Artigo 7.º
+
+1. Compete especialmente ao presidente da direcção:
 
 a) Representar o Instituto em juízo e fora dele;
 
@@ -315,7 +346,9 @@ j) Desempenhar, por delegação do Governo, os serviços ou funções que lhe fo
 
 2. O presidente pode delegar nos directores os poderes de orientação que lhe são conferidos na alínea d) do n.º 1 deste preceito, relativamente a serviços ou sectores diferenciados da actividade do Instituto.
 
-Art. 8.º - 1. O conselho geral é constituído por um presidente e pelos seguintes vogais:
+###### Artigo 8.º
+
+1. O conselho geral é constituído por um presidente e pelos seguintes vogais:
 
 a) Os membros da direcção;
 
@@ -359,7 +392,9 @@ t) Um representante do Ministério do Ultramar.
 
 3. Os representantes dos serviços serão designados pelos respectivos membros do Governo, os dos consumidores nos termos a estabelecer pelo Secretário de Estado do Comércio e os das actividades de acordo com o disposto na [Lei n.º 1/71](https://diariodarepublica.pt/dr/detalhe/lei/1-1971-445933), de 29 de Janeiro.
 
-Art. 9.º - 1. O presidente do conselho geral é eleito pelo conselho de entre os vogais que não sejam membros da direcção, ficando a eleição sujeita a sancionamento do Secretário de Estado do Comércio.
+###### Artigo 9.º
+
+1. O presidente do conselho geral é eleito pelo conselho de entre os vogais que não sejam membros da direcção, ficando a eleição sujeita a sancionamento do Secretário de Estado do Comércio.
 
 2. O presidente fica impedido da representação que lhe cabia como vogal no conselho geral, sendo substituído pela forma prescrita para a respectiva representação.
 
@@ -369,7 +404,9 @@ Art. 9.º - 1. O presidente do conselho geral é eleito pelo conselho de entre o
 
 5. O mandato do presidente do conselho geral tem a mesma duração e deve coincidir com o dos representantes das actividades.
 
-Art. 10.º - 1. O conselho geral compreende três secções:
+###### Artigo 10.º
+
+1. O conselho geral compreende três secções:
 
 1.ª Cereais panificáveis;
 
@@ -383,7 +420,9 @@ Art. 10.º - 1. O conselho geral compreende três secções:
 
 4. Por portaria do Secretário de Estado do Comércio podem ser criadas novas secções, modificadas as existentes ou alterada a sua composição.
 
-Art. 11.º Compete ao conselho geral:
+###### Artigo 11.º
+
+Compete ao conselho geral:
 
 a) Eleger o presidente e o seu substituto;
 
@@ -397,23 +436,33 @@ e) Pronunciar-se sobre os regulamentos das actividades coordenadas pelo Institut
 
 f) Dar parecer sobre todos as assuntos que lhe forem submetidos pelo presidente e pelo presidente da direcção.
 
-Art. 12.º - 1. O conselho geral poderá reunir por secções ou com a totalidade dos seus membros, mediante convocação do presidente, por iniciativa própria ou por solicitação do presidente da direcção ou da maioria dos vogais.
+###### Artigo 12.º
+
+1. O conselho geral poderá reunir por secções ou com a totalidade dos seus membros, mediante convocação do presidente, por iniciativa própria ou por solicitação do presidente da direcção ou da maioria dos vogais.
 
 2. As deliberações do conselho geral serão tomadas por maioria, tendo o presidente voto de qualidade.
 
 3. O presidente pode suspender qualquer deliberação do conselho geral que repute contrária à lei, aos interesses dos sectores coordenados ou da economia nacional, submetendo-a à decisão do Secretário de Estado do Comércio.
 
-Art. 13.º - 1. Os vogais do conselho geral, com excepção do seu presidente e dos membros da direcção, têm direito a uma senha de presença e ao pagamento de despesas de deslocação, se residirem fora de Lisboa, competindo ao Instituto o respectivo pagamento.
+###### Artigo 13.º
+
+1. Os vogais do conselho geral, com excepção do seu presidente e dos membros da direcção, têm direito a uma senha de presença e ao pagamento de despesas de deslocação, se residirem fora de Lisboa, competindo ao Instituto o respectivo pagamento.
 
 2. A remuneração do presidente do conselho geral será fixada em despacho do Secretário de Estado do Comércio.
 
 ### CAPÍTULO III — Serviços e pessoal
 
-Art. 14.º O Instituto será dotado dos serviços necessários ao seu funcionamento, os quais serão aprovados em despacho do Secretário de Estado do Comércio.
+###### Artigo 14.º
 
-Art. 15.º O quadro do pessoal do Instituto e os respectivos vencimentos serão aprovados por despacho conjunto do Ministro da Economia e do Secretário de Estado do Comércio.
+O Instituto será dotado dos serviços necessários ao seu funcionamento, os quais serão aprovados em despacho do Secretário de Estado do Comércio.
 
-Art. 16.º - 1. Aos serviços laboratoriais do Instituto dos Cereais compete realizar estudos de carácter tecnológico dos produtos das actividades coordenadas e proceder às análises que forem necessárias para o exercício das suas funções ou que lhe forem requeridas pelas entidades públicas ou privadas relacionadas com os sectores coordenados.
+###### Artigo 15.º
+
+O quadro do pessoal do Instituto e os respectivos vencimentos serão aprovados por despacho conjunto do Ministro da Economia e do Secretário de Estado do Comércio.
+
+###### Artigo 16.º
+
+1. Aos serviços laboratoriais do Instituto dos Cereais compete realizar estudos de carácter tecnológico dos produtos das actividades coordenadas e proceder às análises que forem necessárias para o exercício das suas funções ou que lhe forem requeridas pelas entidades públicas ou privadas relacionadas com os sectores coordenados.
 
 2. Os laboratórios do Instituto são, para todos os efeitos considerados oficiais.
 
@@ -421,21 +470,33 @@ Art. 16.º - 1. Aos serviços laboratoriais do Instituto dos Cereais compete rea
 
 ### CAPÍTULO IV — Disciplina e fiscalização
 
-Art. 17.º As entidades que exercem as actividades coordenadas pelo Instituto ficam sujeitas à acção disciplinar do organismo.
+###### Artigo 17.º
+
+As entidades que exercem as actividades coordenadas pelo Instituto ficam sujeitas à acção disciplinar do organismo.
 
 2. Independentemente da sua competência própria em matéria de infracções disciplinares contra a economia nacional, o Instituto exercerá sempre e directamente a acção disciplinar da competência dos organismos corporativos quando as respectivas actividades não estejam organizadas corporativamente.
 
-Art. 18.º O Secretário de Estado do Comércio poderá determinar em portaria a obrigatoriedade de inscrição no Instituto das entidades que exerçam qualquer das actividades coordenadas, bem como fixar as condições necessárias à sua inscrição.
+###### Artigo 18.º
 
-Art. 19.º Ao presidente da direcção, directores e funcionários da fiscalização é concedida, no desempenho das atribuições de fiscalização, a livre entrada em estações, cais de embarque e outros locais de expedição, trânsito ou recepção de mercadorias, mesmo quando sujeitos à fiscalização aduaneira.
+O Secretário de Estado do Comércio poderá determinar em portaria a obrigatoriedade de inscrição no Instituto das entidades que exerçam qualquer das actividades coordenadas, bem como fixar as condições necessárias à sua inscrição.
 
-Art. 20.º - 1. Os funcionários da fiscalização são considerados agentes de autoridade pública, devem usar cartão de identidade especial para pronto reconhecimento da sua qualidade, de modelo aprovado pelo Secretário de Estado do Comércio, têm o direito de uso e porte de arma de defesa, mediante requisição do Instituto, e podem requisitar o auxílio da força pública sempre que seja oposta resistência ao exercício das suas funções.
+###### Artigo 19.º
+
+Ao presidente da direcção, directores e funcionários da fiscalização é concedida, no desempenho das atribuições de fiscalização, a livre entrada em estações, cais de embarque e outros locais de expedição, trânsito ou recepção de mercadorias, mesmo quando sujeitos à fiscalização aduaneira.
+
+###### Artigo 20.º
+
+1. Os funcionários da fiscalização são considerados agentes de autoridade pública, devem usar cartão de identidade especial para pronto reconhecimento da sua qualidade, de modelo aprovado pelo Secretário de Estado do Comércio, têm o direito de uso e porte de arma de defesa, mediante requisição do Instituto, e podem requisitar o auxílio da força pública sempre que seja oposta resistência ao exercício das suas funções.
 
 2. A fiscalização deverá exercer-se em todos os locais onde se exerçam as actividades coordenadas ou os respectivos produtos e subprodutos se encontrem à venda, armazenados, em trânsito ou em laboração.
 
-Art. 21.º Os funcionários encarregados dos serviços de fiscalização devem tomar declarações, exigir a apresentação de elementos de informação e proceder às diligências necessárias à repressão de infracções, nos termos do Código de Processo Penal.
+###### Artigo 21.º
 
-Art. 22.º - 1. Sempre que verifiquem, por qualquer forma, infracções de normas cuja fiscalização lhes compete, os funcionários devem levantar auto de notícia.
+Os funcionários encarregados dos serviços de fiscalização devem tomar declarações, exigir a apresentação de elementos de informação e proceder às diligências necessárias à repressão de infracções, nos termos do Código de Processo Penal.
+
+###### Artigo 22.º
+
+1. Sempre que verifiquem, por qualquer forma, infracções de normas cuja fiscalização lhes compete, os funcionários devem levantar auto de notícia.
 
 2. O cumprimento do dever de levantar auto de notícia e de lhe dar seguimento não depende de ordem expressa, considerando-se os funcionários da fiscalização ou equiparados permanentemente em serviço para o efeito, os quais incorrem em responsabilidade disciplinar e criminal, nos termos do artigo 168.º do Código de Processo Penal, se não derem aos autos o destino legal.
 
@@ -443,19 +504,31 @@ Art. 22.º - 1. Sempre que verifiquem, por qualquer forma, infracções de norma
 
 4. Do auto de notícia constará a apreensão dos géneros e artigos que forem objecto de infracções, sempre que a ela haja lugar.
 
-Art. 23.º Os factos criminosos e restantes infracções verificados pelos funcionários dos serviços de fiscalização e relativos a normas cuja fiscalização não seja da sua competência devem ser imediatamente participados às autoridades competentes.
+###### Artigo 23.º
 
-Art. 24.º Os funcionários em serviço de fiscalização são obrigados a guardar rigoroso sigilo profissional, não podendo revelar segredos de fabrico ou comércio, ou processos de exportação, de que tomem conhecimento no exercício das suas funções.
+Os factos criminosos e restantes infracções verificados pelos funcionários dos serviços de fiscalização e relativos a normas cuja fiscalização não seja da sua competência devem ser imediatamente participados às autoridades competentes.
 
-Art. 25.º Cometem o crime previsto e punido no artigo 186.º do Código Penal todos aqueles que, depois de identificadas os funcionários dos serviços de fiscalização pela exibição do respectivo cartão de identidade, se oponham à sua entrada e ao livre exercício das suas funções nos locais onde vão prestar serviço.
+###### Artigo 24.º
 
-Art. 26.º Os que se recusarem a prestar aos funcionários dos serviços de fiscalização, no exercício das suas funções, declarações, informações, depoimentos e outros elementos de informação que lhes forem exigidos nos termos deste diploma cometem o crime previsto e punido no artigo 188.º do Código Penal.
+Os funcionários em serviço de fiscalização são obrigados a guardar rigoroso sigilo profissional, não podendo revelar segredos de fabrico ou comércio, ou processos de exportação, de que tomem conhecimento no exercício das suas funções.
 
-Art. 27.º Aqueles que prestem falsas informações ou declarações aos funcionários da fiscalização no exercício das suas funções cometem o crime previsto e punido no artigo 242.º do Código Penal.
+###### Artigo 25.º
+
+Cometem o crime previsto e punido no artigo 186.º do Código Penal todos aqueles que, depois de identificadas os funcionários dos serviços de fiscalização pela exibição do respectivo cartão de identidade, se oponham à sua entrada e ao livre exercício das suas funções nos locais onde vão prestar serviço.
+
+###### Artigo 26.º
+
+Os que se recusarem a prestar aos funcionários dos serviços de fiscalização, no exercício das suas funções, declarações, informações, depoimentos e outros elementos de informação que lhes forem exigidos nos termos deste diploma cometem o crime previsto e punido no artigo 188.º do Código Penal.
+
+###### Artigo 27.º
+
+Aqueles que prestem falsas informações ou declarações aos funcionários da fiscalização no exercício das suas funções cometem o crime previsto e punido no artigo 242.º do Código Penal.
 
 ### CAPÍTULO V — Regime financeiro
 
-Art. 28.º - 1. Constituem receitas do Instituto dos Cereais:
+###### Artigo 28.º
+
+1. Constituem receitas do Instituto dos Cereais:
 
 a) As importâncias resultantes das taxas que incidam sobre os produtos das actividades coordenadas;
 
@@ -473,31 +546,53 @@ g) Quaisquer outras receitas que lhe sejam legalmente atribuídas.
 
 2. Os quantitativos das taxas, a sua incidência e forma de cobrança serão estabelecidos em portaria conjunta do Ministro das Finanças e do Secretário de Estado do Comércio.
 
-Art. 29.º As receitas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, nos termas do artigo 11.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, e movimentadas por meio de cheques, assinados nos termos do n.º 2 do artigo 6.º deste decreto-lei.
+###### Artigo 29.º
 
-Art. 30.º As despesas do Instituto são as que resultam da execução dos diplomas que o regem, em conformidade com os orçamentos superiormente aprovados.
+As receitas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, nos termas do artigo 11.º do [Decreto-Lei n.º 48953](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48953-1969-526586), de 5 de Abril de 1969, e movimentadas por meio de cheques, assinados nos termos do n.º 2 do artigo 6.º deste decreto-lei.
 
-Art. 31.º Por despacho conjunto do Ministro das Finanças e do Secretário de Estado do Comércio, poderá determinar-se que uma parte das receitas cobradas nos termos do artigo 28.º seja expressamente destinada à aquisição ou construção de celeiros e silos, ou armazéns e seu equipamento.
+###### Artigo 30.º
 
-Art. 32. º Mediante despacho conjunto do Ministro das Finanças e do Secretário de Estado do Comércio, o Instituto poderá contrair na Caixa Geral de Depósitos, Crédito e Previdência ou em outras instituições de crédito empréstimos e assumir as responsabilidades que forem indispensáveis à realização das suas atribuições, com consignação de receita própria ou outras garantias.
+As despesas do Instituto são as que resultam da execução dos diplomas que o regem, em conformidade com os orçamentos superiormente aprovados.
 
-Art. 33.º O Instituto poderá conceder ou obter, em benefício das actividades coordenadas, créditos directos de natureza geral, ou sobre mercadorias depositadas em regime de armazéns gerais nas condições que vierem a ser estabelecidas e de harmonia com as disposições legais e regulamentares aplicáveis.
+###### Artigo 31.º
 
-Art. 34.º - 1. Os empréstimos concedidos pelo Instituto ou outras formas de crédito serão sempre assegurados por garantia idónea.
+Por despacho conjunto do Ministro das Finanças e do Secretário de Estado do Comércio, poderá determinar-se que uma parte das receitas cobradas nos termos do artigo 28.º seja expressamente destinada à aquisição ou construção de celeiros e silos, ou armazéns e seu equipamento.
+
+###### Artigo 32.º
+
+Mediante despacho conjunto do Ministro das Finanças e do Secretário de Estado do Comércio, o Instituto poderá contrair na Caixa Geral de Depósitos, Crédito e Previdência ou em outras instituições de crédito empréstimos e assumir as responsabilidades que forem indispensáveis à realização das suas atribuições, com consignação de receita própria ou outras garantias.
+
+###### Artigo 33.º
+
+O Instituto poderá conceder ou obter, em benefício das actividades coordenadas, créditos directos de natureza geral, ou sobre mercadorias depositadas em regime de armazéns gerais nas condições que vierem a ser estabelecidas e de harmonia com as disposições legais e regulamentares aplicáveis.
+
+###### Artigo 34.º
+
+1. Os empréstimos concedidos pelo Instituto ou outras formas de crédito serão sempre assegurados por garantia idónea.
 
 2. Nos casos em que os produtos sobre que incida garantia real possam ser transformados ou vendidos, o Instituto conserva sobre o produto transformado, sobre a quantia paga a título de preço ou sobre o crédito resultante da venda as preferências que lhe cabiam em relação aos produtos onerados.
 
-Art. 35.º Os empréstimos concedidos pelo Instituto, seja qual for o seu montante, serão válidos, mesmo quando celebrados por simples escrito particular, sujeito ùnicamente ao imposto do selo.
+###### Artigo 35.º
 
-Art. 36.º As certidões passadas pelo Instituto de que constem as importâncias dos empréstimos em dívida, bem como dos respectivos encargos, servem de título executivo e a cobrança coerciva terá lugar nos termos do artigo único do [Decreto-Lei n.º 48704](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48704-1968-263180), de 25 de Novembro de 1968.
+Os empréstimos concedidos pelo Instituto, seja qual for o seu montante, serão válidos, mesmo quando celebrados por simples escrito particular, sujeito ùnicamente ao imposto do selo.
+
+###### Artigo 36.º
+
+As certidões passadas pelo Instituto de que constem as importâncias dos empréstimos em dívida, bem como dos respectivos encargos, servem de título executivo e a cobrança coerciva terá lugar nos termos do artigo único do [Decreto-Lei n.º 48704](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48704-1968-263180), de 25 de Novembro de 1968.
 
 ### CAPÍTULO VI — Disposições gerais e transitórias
 
-Art. 37.º O presidente da direcção do Instituto corresponder-se-á directamente com todas as entidades oficiais, de quem poderá solicitar, sempre que o julgue conveniente, os elementos e a colaboração da que necessite.
+###### Artigo 37.º
 
-Art. 38.º O Instituto usará um selo branco, cuja aposição produzirá os mesmos efeitos do que os de qualquer serviço do Estado.
+O presidente da direcção do Instituto corresponder-se-á directamente com todas as entidades oficiais, de quem poderá solicitar, sempre que o julgue conveniente, os elementos e a colaboração da que necessite.
 
-Art. 39.º - 1. O Instituto Nacional do Pão, a Comissão Reguladora das Moagens de Ramas, a Comissão Reguladora do Comércio de Arroz, a Comissão Reguladora dos Cereais do Arquipélago dos Açores e a Federação Nacional dos Produtores de Trigo são extintos a partir da data de entrada em vigor do presente diploma.
+###### Artigo 38.º
+
+O Instituto usará um selo branco, cuja aposição produzirá os mesmos efeitos do que os de qualquer serviço do Estado.
+
+###### Artigo 39.º
+
+1. O Instituto Nacional do Pão, a Comissão Reguladora das Moagens de Ramas, a Comissão Reguladora do Comércio de Arroz, a Comissão Reguladora dos Cereais do Arquipélago dos Açores e a Federação Nacional dos Produtores de Trigo são extintos a partir da data de entrada em vigor do presente diploma.
 
 2. A competência atribuída aos organismos extintos nos diplomas que regulam as actividades coordenadas passa para o Instituto dos Cereais.
 
@@ -507,11 +602,15 @@ Art. 39.º - 1. O Instituto Nacional do Pão, a Comissão Reguladora das Moagens
 
 5. Só são exigíveis as dívidas provenientes de taxas em débito à Comissão Reguladora das Moagens de Ramas referentes aos últimos cinco anos anteriores à entrada em vigor deste diploma.
 
-Art. 40.º - 1. São extintos os fundos especiais existentes nos organismos referidos no n. º 1 do artigo anterior, considerando-se os respectivos saldos integrados no património geral do Instituto dos Cereais.
+###### Artigo 40.º
+
+1. São extintos os fundos especiais existentes nos organismos referidos no n. º 1 do artigo anterior, considerando-se os respectivos saldos integrados no património geral do Instituto dos Cereais.
 
 2. Por despacho conjunto do Ministro das Finanças e do Secretário de Estado do Comércio, será estabelecida a parte dos saldos existentes que deverá ser destinada aos fins referidos no artigo 31.º
 
-Art. 41.º - 1. Enquanto não foram estabelecidas as taxas a que se refere a alínea a) do n.º 1 do artigo 28.º continuarão a vigorar a favor do Instituto todas as taxas e outras receitas que vinham sendo cobradas pelos organismos extintos, para ocorrer às suas despesas ou constituição dos seus fundos especiais.
+###### Artigo 41.º
+
+1. Enquanto não foram estabelecidas as taxas a que se refere a alínea a) do n.º 1 do artigo 28.º continuarão a vigorar a favor do Instituto todas as taxas e outras receitas que vinham sendo cobradas pelos organismos extintos, para ocorrer às suas despesas ou constituição dos seus fundos especiais.
 
 2. Serão igualmente arrecadadas por intermédio do Instituto:
 
@@ -519,11 +618,17 @@ a) A taxa de $005 sobre cada quilograma de trigo manifestado para venda e cobrad
 
 b) As receitas destinadas a outras entidades, cuja cobrança incumbia aos organismos extintos, de conformidade com as respectivas disposições.
 
-Art. 42.º O Instituto submeterá à aprovação superior o orçamento para 1973 nas condições que lhe forem determinadas pelo Secretário de Estado do Comércio.
+###### Artigo 42.º
 
-Art. 43.º Ficam revogados os seguintes diplomas: [Decreto-Lei n.º 24949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24949-1935-467801), de 10 de Janeiro de 1935, [Decreto-Lei n.º 26695](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26695-1936-361899), de 16 de Junho de 1936, [Decreto-Lei n.º 26890](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26890-1936-358679), de 14 de Agosto de 1936, [Decreto n.º 27148](https://diariodarepublica.pt/dr/detalhe/decreto/27148-1936-322328), de 30 de Outubro de 1936, [Decreto-Lei n.º 27286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27286-1936-322928), de 24 de Novembro de 1936, [Decreto-Lei n.º 28009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28009-1937-434576), de 3 de Setembro de 1937, [Decreto-Lei n.º 29779](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29779-1939-202271), de 25 de Julho de 1939, [Decreto n.º 30094](https://diariodarepublica.pt/dr/detalhe/decreto/30094-1939-193210), de 27 de Novembro de 1939, [Decreto-Lei n.º 32222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32222-1942-315678), de 25 de Agosto de 1942, [Decreto-Lei n.º 33066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33066-1943-259178), de 18 de Setembro de 1943, [Decreto-Lei n.º 36843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36843-1948-151496), de 20 de Abril de 1948, [Decreto-Lei n.º 40681](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40681-1956-231937), de 11 de Julho de 1956, e [Decreto n.º 41600](https://diariodarepublica.pt/dr/detalhe/decreto/41600-1958-302572), de 28 de Abril de 1958.
+O Instituto submeterá à aprovação superior o orçamento para 1973 nas condições que lhe forem determinadas pelo Secretário de Estado do Comércio.
 
-Art. 44.º Este decreto-lei entra em vigor em 1 de Janeiro de 1973.
+###### Artigo 43.º
+
+Ficam revogados os seguintes diplomas: [Decreto-Lei n.º 24949](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24949-1935-467801), de 10 de Janeiro de 1935, [Decreto-Lei n.º 26695](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26695-1936-361899), de 16 de Junho de 1936, [Decreto-Lei n.º 26890](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26890-1936-358679), de 14 de Agosto de 1936, [Decreto n.º 27148](https://diariodarepublica.pt/dr/detalhe/decreto/27148-1936-322328), de 30 de Outubro de 1936, [Decreto-Lei n.º 27286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27286-1936-322928), de 24 de Novembro de 1936, [Decreto-Lei n.º 28009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28009-1937-434576), de 3 de Setembro de 1937, [Decreto-Lei n.º 29779](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29779-1939-202271), de 25 de Julho de 1939, [Decreto n.º 30094](https://diariodarepublica.pt/dr/detalhe/decreto/30094-1939-193210), de 27 de Novembro de 1939, [Decreto-Lei n.º 32222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32222-1942-315678), de 25 de Agosto de 1942, [Decreto-Lei n.º 33066](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33066-1943-259178), de 18 de Setembro de 1943, [Decreto-Lei n.º 36843](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36843-1948-151496), de 20 de Abril de 1948, [Decreto-Lei n.º 40681](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40681-1956-231937), de 11 de Julho de 1956, e [Decreto n.º 41600](https://diariodarepublica.pt/dr/detalhe/decreto/41600-1958-302572), de 28 de Abril de 1958.
+
+###### Artigo 44.º
+
+Este decreto-lei entra em vigor em 1 de Janeiro de 1973.
 
 visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 

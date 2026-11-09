@@ -1,0 +1,901 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:596901:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-11-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "da002d67291dd1e8",
+    "2ac52c5103f3970f",
+    "2191560359b3a875",
+    "d667ec553aab1215",
+    "7af33267006aa341",
+    "d659652ffba0defb",
+    "50d792b583e8702c",
+    "fce30fcd2d203841",
+    "ef25f649283472ae",
+    "6400d6337a8b4c17",
+    "be7a046f64a8b263",
+    "5fbc34aebb9835dd",
+    "7b4e6c7101226a50",
+    "ab75eb3c0a7fe29d",
+    "d55f0b5b15103b0d",
+    "b7d9a54df076b62e",
+    "578a8b08595e5164",
+    "5b4acf95949ea818",
+    "3bd80e7e63c0c803",
+    "af6892d31eaa2d89",
+    "02d3ebce61a75ba9",
+    "022d5377883f2e37",
+    "cf4fdc35e8216905",
+    "b082a0cc46293e86",
+    "34b13b06ac382177",
+    "cee05c1a02fafbdb",
+    "c9b36789957e7540",
+    "298cc1c46e12cbe8",
+    "b8d686ce048bbf6d",
+    "b65151ded2236daf",
+    "d97533756afc65a3",
+    "880eaa026c10be84",
+    "bf3f7d8903a18c01",
+    "1e1d0df0e9d3a450",
+    "405a54635e6f0192",
+    "45cabdf91486712b",
+    "0f2b7168a7d18cce",
+    "0d2ed0847e61092c",
+    "d1d808137d49f3c2",
+    "58293935a42f2c5e",
+    "6b33635c4dd93437",
+    "9245cb65415b789c",
+    "c741a9fc7ddcbe68",
+    "fee355c5046c7752",
+    "871d05b908634843",
+    "a93059191ccc8bfc",
+    "fedd091f183f2b01"
+   ]
+  },
+  {
+   "date": "2001-03-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:371872:por",
+     "title": "Decreto-Lei n.º 80/2001",
+     "published": "2001-03-06",
+     "dre_path": "/dr/detalhe/decreto-lei/80-2001-371872"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º"
+   ],
+   "fragments": [
+    "da002d67291dd1e8",
+    "2ac52c5103f3970f",
+    "82779185418ad9f2",
+    "74de769869660052",
+    "e6a2d1c8128f0531",
+    "d659652ffba0defb",
+    "f1ad784573de5623",
+    "0f1d3be5491481ad",
+    "6f1235c8453a748f",
+    "23e0fffe48f966fe",
+    "a01b2ecc9ccffe4b",
+    "2fd3cc8d1a9796ef",
+    "f38ac6c5703571ed",
+    "578ca452ca09c745",
+    "d55f0b5b15103b0d",
+    "4e69b9a5776530b0",
+    "55acc853d5f86599",
+    "df3891c2ca103b27",
+    "aec64b55eaad39dc",
+    "7fedba730cfe2ca9",
+    "e2feddee763d82df",
+    "5e8cb58fe2bc3e61",
+    "79a94624f23f9e83",
+    "b082a0cc46293e86",
+    "c5784fac888b2f5c",
+    "2edc06b8822a424e",
+    "c9b36789957e7540",
+    "22da151d42c00652",
+    "2a9e19def871e43c",
+    "139636900977e49f",
+    "69a8e4a41bb31199",
+    "880eaa026c10be84",
+    "ca9ab1ea400d0edb",
+    "06522a1eab9badf0",
+    "92dff0ce51cd3929",
+    "24c592fe3aba219e",
+    "f36f73e7122aa702",
+    "885a2b8e1745f1ba",
+    "d1d808137d49f3c2",
+    "e9b97791be79b1a2",
+    "7882f812df9e0a75",
+    "374dad98b406f135",
+    "82271a113296c8dd",
+    "b0fb531106002e0c",
+    "871d05b908634843",
+    "a93059191ccc8bfc",
+    "fedd091f183f2b01"
+   ]
+  }
+ ],
+ "fragments": {
+  "da002d67291dd1e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Novembro\n\nO [Decreto-Lei n.º 83/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1991-487122), de 20 de Fevereiro, que aprovou a Lei Orgânica do Ministério do Emprego e da Segurança Social, define, no seu artigo 20.º, a Inspecção-Geral da Segurança Social como o serviço central de inspecção e fiscalização do cumprimento das normas relativas ao funcionamento dos órgãos, serviços e instituições de segurança social e das instituições não lucrativas de fins análogos ao daquelas instituições.\n\nTem, pois, basicamente, a Inspecção-Geral da Segurança Social como atribuições fundamentais o exercício da missão inspectiva e de fiscalização do sistema de segurança social, visando a eficácia da gestão, a correcta utilização dos seus recursos e a salvaguarda do interesse geral pela rigorosa observância da legalidade.\n\nPor sua vez, o artigo 28.º do referido decreto-lei determina que devem constar de diploma próprio as normas referentes a organização e competências, funcionamento, regime jurídico de pessoal e demais disposições necessárias para a prossecução dos objectivos dos serviços do Ministério, um dos quais e, evidentemente, a Inspecção-Geral da Segurança Social.\n\nCom um campo de acção que abarca, além dos outros serviços e instituições do sistema de segurança social, 18 centros regionais e cerca de 2600 instituições particulares de solidariedade social, importa ter presente, por outro lado, os importantes recursos humanos e os elevadíssimos recursos materiais envolvidos.\n\nNa concepção do presente diploma tiveram-se em atenção os parâmetros que vêm presidindo à reestruturação dos órgãos e serviços da Administração Pública e, por outro lado, a mobilidade exigida para um serviço desta natureza.\n\nÉ assim que se perfilham, como regras, a gestão por objectivos e o controlo financeiro de resultados e, como instrumentos básicos de programação, os planos e relatórios de actividades e o orçamento anual.\n\nNo que se refere à estrutura e funcionamento, consagram-se formas flexíveis de actuação, susceptíveis de garantir níveis de eficácia consentâneos com as elevadas responsabilidades atribuídas.\n\nNo que respeita a pessoal, introduzem-se algumas alterações, com o fim de garantir um quadro de funcionários devidamente qualificados. Aumenta-se o número de inspectores em quase todas as categorias da carreira técnica superior de inspecção, nomeadamente na de inspectores superiores, assessores principais e inspectores superiores assessores, garantindo-se, assim, possibilidades de acesso àqueles que detêm condições para tanto.\n\nTendo em atenção as condicionantes orçamentais da presente conjuntura, evidencia-se que este desiderato se consegue sem aumentar os encargos com pessoal e com uma diminuição real de efectivos, pois faz-se corresponder a estrutura do quadro de pessoal ao tipo de orgânica adoptada.\n\nInovação importante é a da criação dos lugares de director de serviços, indispensável na tarefa de coordenação e conjugação das áreas técnicas, pretendendo-se, dessa forma, reunir condições para um mais eficaz processo de decisão.\n\nO presente diploma constitui um instrumento positivo como reforço da legalidade, valorizando e dignificando, por outro lado, com o rigor e transparência que dele sobressaem, a acção de um serviço que é fundamental no contexto do sistema de segurança social português.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "2ac52c5103f3970f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza, objectivos e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza, objectivos e atribuições"
+  },
+  "2191560359b3a875": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Inspecção-Geral da Segurança Social, adiante designada por IGSS, é um serviço central de inspecção e fiscalização da estrutura orgânica do Ministério do Emprego e da Segurança Social, abreviadamente referido por MESS, para a área da segurança social.\n\n2 - A IGSS exerce a sua acção sobre os órgãos, serviços e instituições do sistema de segurança social, bem como sobre as instituições privadas não lucrativas que prossigam fins lucrativos análogos aos daquelas instituições."
+  },
+  "d667ec553aab1215": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\n1 - A acção da IGSS visa essencialmente verificar:\n\na) O cumprimento das leis e regulamentos;\n\nb) O bom funcionamento dos órgãos, serviços e instituições;\n\nc) A eficácia da gestão e administração;\n\nd) A regularidade das operações financeiras;\n\ne) A legalidade dos processos e decisões;\n\nf) A adequação das normas em vigor e a eventual necessidade de adopção de novas providências;\n\ng) O cumprimento das disposições normativas referentes à cobrança da dívida à segurança social.\n\n2 - No exercício das suas atribuições, a IGSS participa na realização dos fins do sistema, desenvolve acções de prevenção e correcção e articula-se com os demais órgãos, serviços e instituições."
+  },
+  "7af33267006aa341": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nSão atribuições da IGSS:\n\na) Realizar acções de inspecção, fiscalização e auditoria nos domínios da gestão em geral, da aplicação dos regimes de segurança social e das modalidades de acção social, bem como da utilização adequada dos meios financeiros;\n\nb) Propor e determinar medidas preventivas e correctivas que resultem da apreciação feita no decorrer das acções efectuadas;\n\nc) Transmitir aos órgãos, serviços e instituições do sistema de segurança social, bem como às instituições particulares de solidariedade social, os resultados da actividade desenvolvida, verificando o cumprimento das medidas necessárias e adequadas à rectificação das anomalias, irregularidades e deficiências registadas;\n\nd) Detectar, para estudo nos serviços competentes, divergências na aplicação de normas e procedimentos, inteirando-se das respectivas motivações, de modo a conseguir-se uma indispensável uniformidade;\n\ne) Colaborar e participar, com os serviços centrais e instituições, no estudo e elaboração de projectos de diplomas legislativos respeitantes a problemas relacionados com aspectos jurídicos, económicos, financeiros e administrativos do sistema;\n\nf) Realizar inspecções ordinárias e extraordinárias, bem como efectuar inquéritos, averiguações, sindicâncias, peritagens e exames;\n\ng) Propor, na sequência da sua acção, a instauração de processos disciplinares e instruir os que lhe forem superiormente determinados ou solicitados;\n\nh) Promover análises comparativas das várias acções empreendidas pela IGSS, com vista ao aperfeiçoamento do sistema, e elaborar informações e pareceres sobre matérias das suas atribuições;\n\ni) Exercer quaisquer outras funções impostas por lei ou que lhe sejam determinadas superiormente."
+  },
+  "d659652ffba0defb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Estrutura orgânica e competências dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Estrutura orgânica e competências dos serviços"
+  },
+  "50d792b583e8702c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direcção\n\n1 - A IGSS é dirigida por um inspector-geral, coadjuvado por um subinspector-geral.\n\n2 - O inspector-geral e o subinspector-geral são equiparados, respectivamente, a director-geral e a subdirector-geral."
+  },
+  "fce30fcd2d203841": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competência do inspector-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência do inspector-geral\n\n1 - Além das competências que lhe estão conferidas nos termos do disposto no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, compete, em especial, ao inspector-geral:\n\na) Submeter a aprovação superior o plano anual das acções a realizar pela IGSS, designadamente as de auditoria previstas na alínea a) do artigo 3.º;\n\nb) Determinar ou propor superiormente as acções inerentes ao exercício das atribuições da IGSS, nomeadamente a realização de inspecções ordinárias e extraordinárias, inquéritos, sindicâncias, averiguações, peritagens e exames;\n\nc) Propor superiormente ou determinar as medidas preventivas e correctivas decorrentes das actividades da IGSS;\n\nd) Fixar o início e os prazos de execução das acções da IGSS, bem como designar o pessoal que lhes deve dar cumprimento, podendo avocar, a todo o momento, qualquer processo;\n\ne) Representar a IGSS em juízo e fora dele.\n\n2 - O inspector-geral poderá cometer ao subinspector-geral a coordenação e superintendência de domínios de actividade específicos, para o que delegará as competências adequadas."
+  },
+  "ef25f649283472ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços\n\n1 - Para o cumprimento das atribuições que lhe estão cometidas, a IGSS compreende os seguintes serviços:\n\na) Serviço de Auditoria (SA);\n\nb) Serviço de Inspecção dos Serviços e Organismos Oficiais (SISOO);\n\nc) Serviço de Inspecção das Instituições Particulares de Solidariedade Social (SIIPSS);\n\nd) Repartição Administrativa (RA).\n\n2 - O Serviço de Auditoria é dirigido directamente pelo subinspector-geral.\n\n3 - O Serviço de Inspecção dos Serviços e Organismos Oficiais e das Instituições Particulares de Solidariedade Social são dirigidos por directores de serviços.\n\n4 - Na dependência do inspector-geral, ou de quem ele designar, funciona o Núcleo de Apoio Técnico aos Processos."
+  },
+  "6400d6337a8b4c17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Serviço de Auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviço de Auditoria\n\n1 - O SA realiza as acções necessárias ao exercício das atribuições previstas no artigo 3.º e visa, em especial:\n\na) A avaliação da actividade global dos órgãos, serviços e instituições do sistema de segurança social, em termos de economia, eficiência e eficácia, designadamente através do controlo financeiro e orçamental e do acompanhamento da execução dos projectos e acções;\n\nb) Proceder a intervenções temáticas com o fim de fiscalizar pormenorizadamente aspectos específicos relevantes das actividades dos órgãos, serviços e instituições do sistema de segurança social, utilizando-se, sempre que tal se mostre necessário, o método de amostragem;\n\nc) Apreciar os resultados obtidos nos domínios das acções de auditoria e dos outros serviços de inspecção e propor os objectivos a prosseguir.\n\n2 - O SA compreende o pessoal das várias carreiras e categorias que lhe for afectado por despacho do inspector-geral."
+  },
+  "be7a046f64a8b263": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Serviço de Inspecção dos Serviços e Organismos Oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviço de Inspecção dos Serviços e Organismos Oficiais\n\n1 - O SISOO realiza, na sua área de actuação, as acções necessárias ao exercício das atribuições a que se refere o artigo 3.º\n\n2 - O SISOO compreende o pessoal das várias carreiras e categorias que lhe for afectado por despacho do inspector-geral."
+  },
+  "5fbc34aebb9835dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Serviço de Inspecção das Instituições Particulares de Solidariedade Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Serviço de Inspecção das Instituições Particulares de Solidariedade Social\n\n1 - O SIIPSS realiza, na sua área de actuação, as acções necessárias à prossecução das atribuições estabelecidas no artigo 3.º\n\n2 - Sem prejuízo da fiscalização que cabe aos centros regionais de segurança social, compete, em especial, aos SIIPSS velar:\n\na) Pelo cumprimento das normas legais que regulamentam as instituições, nomeadamente quanto às condições de admissão e comparticipação dos utentes;\n\nb) Pelo cumprimento dos acordos de cooperação celebrados com órgãos, serviços e instituições do sistema de segurança social;\n\nc) Pela correcta aplicação dos subsídios oficiais.\n\n3 - O SIIPSS compreende o pessoal das várias carreiras e categorias que lhe for afectado por despacho do inspector-geral."
+  },
+  "7b4e6c7101226a50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Repartição Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Repartição Administrativa\n\n1 - A RA é um serviço de gestão interna e apoio administrativo e compreende as Secções de Pessoal e Assuntos Gerais e de Administração Financeira e Patrimonial.\n\n2 - Compete à Secção de Pessoal e Assuntos Gerais:\n\na) Realizar todas as acções relativas ao recrutamento, selecção, provimento, promoção, exoneração e aposentação do pessoal;\n\nb) Assegurar, mantendo-o organizado e actualizado, o cadastro do pessoal, elaborar a lista de antiguidades e efectuar o controlo da assiduidade e pontualidade;\n\nc) Superintender no pessoal auxiliar;\n\nd) Executar as demais acções relativas aos recursos humanos da IGSS;\n\ne) Proceder à recepção, registo, classificação e expedição de correspondência;\n\nf) Garantir a circulação das normas de funcionamento e restante legislação aplicável à IGSS;\n\ng) Assegurar o correcto funcionamento dos serviços de reprografia e velar pela manutenção dos ficheiros, registos e arquivos;\n\nh) Executar as restantes tarefas que superiormente lhe forem cometidas.\n\n3 - Compete à Secção de Administração Financeira e Patrimonial:\n\na) Preparar o projecto de orçamento da IGSS e acompanhar a respectiva execução;\n\nb) Assegurar os procedimentos administrativos relativos ao processamento e pagamento das remunerações do pessoal da IGSS;\n\nc) Instruir e efectuar, de acordo com a lei, os processos relativos às despesas inerentes ao funcionamento da IGSS, designadamente os relativos à aquisição de bens e serviços;\n\nd) Organizar e manter actualizado um inventário dos bens, móveis e imóveis, e zelar pela sua conservação e segurança;\n\ne) Gerir as viaturas ao serviço da IGSS;\n\nf) Executar as demais tarefas que superiormente lhe forem cometidas."
+  },
+  "ab75eb3c0a7fe29d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Núcleo de Apoio Técnico aos Processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Núcleo de Apoio Técnico aos Processos\n\nAo Núcleo de Apoio Técnico aos Processos compete:\n\na) Reunir e distribuir os instrumentos de apoio técnico especializado, necessários à organização dos processos técnicos da IGSS;\n\nb) Desempenhar as tarefas relativas à movimentação dos processos técnicos da IGSS, designadamente quanto à sua entrada, classificação, registo, conclusão e preparação para despacho superior;\n\nc) Proceder ao acompanhamento dos inspectores e dos trabalhos dos processos técnicos da IGSS;\n\nd) Organizar o arquivo dos processos técnicos da IGSS, elaborando a estatística do seu movimento anual;\n\ne) Colaborar na elaboração do plano anual das acções a realizar pela IGSS;\n\nf) Proceder ao tratamento e divulgação da documentação nacional e internacional sobre matérias das atribuições da IGSS;\n\ng) Proceder ao tratamento de texto e reprodução dos processos técnicos da IGSS."
+  },
+  "d55f0b5b15103b0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Funcionamento"
+  },
+  "b7d9a54df076b62e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Autonomia técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Autonomia técnica\n\nA IGSS, no exercício das suas atribuições, goza de autonomia técnica, regendo-se a sua actuação pelas disposições legais vigentes e pelas determinações e orientações do Ministro do Emprego e da Segurança Social."
+  },
+  "578a8b08595e5164": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Constituição de equipas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Constituição de equipas\n\n1 - Os serviços referidos no artigo 6.º funcionam por planos de acção e programas, mediante a constituição de equipas, com vista ao melhor aproveitamento da preparação e experiência profissionais do pessoal técnico superior de inspecção que lhes esteja afecto.\n\n2 - O número e a composição das equipas são definidos por despacho do inspector-geral."
+  },
+  "5b4acf95949ea818": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Princípios de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Princípios de gestão\n\n1 - A IGSS observa na sua gestão os seguintes princípios:\n\na) Gestão por objectivos;\n\nb) Controlo financeiro de resultados;\n\nc) Informação permanente da evolução orçamental.\n\n2 - Na programação e controlo utilizam-se como instrumentos básicos:\n\na) Os planos de actividades;\n\nb) O orçamento anual;\n\nc) Os relatórios de actividades.\n\n3 - Na elaboração dos planos de actividades serão definidas e calendarizadas as acções a desenvolver, fixando-se prioridades e áreas de actuação."
+  },
+  "3bd80e7e63c0c803": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Questionário das inspecções ordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Questionário das inspecções ordinárias\n\nAs inspecções ordinárias obedecem a questionários sistemáticos, que deverão abranger os aspectos essenciais à averiguação da legalidade, da eficácia e da regularidade financeira do funcionamento dos serviços e instituições inspeccionados."
+  },
+  "af6892d31eaa2d89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Verificação dos resultados das acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Verificação dos resultados das acções\n\n1 - A IGSS controla os efeitos da execução das suas acções, entre outros meios, através de relatórios apresentados pelos serviços e instituições, com o objectivo de se conseguir a correcção ou reparação das irregularidades, deficiências ou anomalias encontradas e, nomeadamente, verificará a efectivação das penas aplicadas em consequência de processos disciplinares por si instruídos ou instaurados.\n\n2 - Para cumprimento do disposto no número anterior, os serviços e instituições darão conhecimento à IGSS das providências e decisões adoptadas em consequência de quaisquer acções por ela desenvolvidas."
+  },
+  "02d3ebce61a75ba9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Duração e relatório das acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Duração e relatório das acções\n\n1 - As acções deverão ser iniciadas e concluídas dentro do prazo que, para cada caso, for superiormente fixado.\n\n2 - Excepcionalmente, poderá ser concedida prorrogação do prazo, desde que comprovadamente tal se justifique.\n\n3 - No final de cada acção será elaborado relatório dos trabalhos realizados, para o que se concederá o respectivo prazo, e, além de outros casos em que tal seja considerado necessário, quando se trate de inspecção, deverá dele constar a enumeração das providências que se entenda devam ser adoptadas.\n\n4 - O relatório acompanha sempre o respectivo processo, devendo este ser entregue para despacho superior após o termo do prazo concedido para elaboração daquele, salvo se houver sido concedida prorrogação por despacho do inspector-geral."
+  },
+  "022d5377883f2e37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Requisição de testemunhas ou declarantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Requisição de testemunhas ou declarantes\n\n1 - A comparência para prestação de declarações ou depoimentos, em processos de inspecção, inquérito, averiguação, sindicância ou disciplinares, de funcionários ou agentes do Estado ou das autarquias locais, bem como de trabalhadores do sector público empresarial, deverá ser requisitada à entidade a que prestam serviço.\n\n2 - A notificação para comparência, para os efeitos referidos no número anterior, de membros dos corpos sociais ou de trabalhadores das instituições particulares de solidariedade social deverá ser feita aos próprios e, no segundo caso, com conhecimento dos primeiros, podendo ainda, observadas as disposições aplicáveis do Código de Processo Penal, ser requisitada às autoridades policiais.\n\n3 - As declarações e depoimentos mencionados nos números anteriores devem ser colhidos no município de residência dos respectivos autores ou, quando conhecida, na localidade de trabalho ou actividade profissional do declarante ou deponente.\n\n4 - Toda a pessoa notificada ou avisada que não compareça no dia, hora e local designados nem justifique a falta será punida nos termos da lei, sem prejuízo do procedimento disciplinar a que haja lugar."
+  },
+  "cf4fdc35e8216905": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Dever de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Dever de cooperação\n\nOs dirigentes de qualquer serviço do Estado e do sector público empresarial, os membros dos órgãos autárquicos e as demais autoridades públicas, bem como os corpos sociais das instituições particulares de solidariedade social, têm o dever de prestar a colaboração e, do mesmo modo, os elementos, informações e esclarecimentos que lhes sejam solicitados pela IGSS como consequência e no exercício das suas atribuições e competências."
+  },
+  "b082a0cc46293e86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do pessoal"
+  },
+  "34b13b06ac382177": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Quadro de pessoal\n\n1 - A IGSS dispõe do quadro de pessoal que for estabelecido por portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social.\n\n2 - O conteúdo funcional das carreira técnica superior e técnica de inspecção, bem como das carreira técnico-profissionais, é o constante do anexo I a este diploma, dele fazendo parte integrante."
+  },
+  "cee05c1a02fafbdb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Distribuição do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Distribuição do pessoal\n\nA distribuição do pessoal pelos serviços da IGSS é feita por despacho do inspector-geral."
+  },
+  "c9b36789957e7540": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Carreira de técnico superior de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Carreira de técnico superior de inspecção\n\n1 - A carreira de técnico superior de inspecção desenvolve-se pelas categorias de inspector superior assessor principal, inspector superior assessor, inspector superior principal, inspector superior de 1.ª classe e inspector superior de 2.ª classe.\n\n2 - Os lugares da carreira de técnico superior de inspecção são providos nos termos definidos na lei geral para a carreira técnica superior, fazendo-se o recrutamento de entre indivíduos habilitados com licenciatura em Direito, Economia, Finanças, Organização e Gestão de Empresas, Sociologia, Serviço Social e Controlo Financeiro ou Auditoria."
+  },
+  "298cc1c46e12cbe8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Formação e aperfeiçoamento profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Formação e aperfeiçoamento profissional\n\nA IGSS promoverá, com vista a um adequado desempenho de funções dos funcionários do seu quadro de pessoal, as acções de formação e aperfeiçoamento profissionais consideradas necessárias, utilizando, sempre que possível, os serviços e organismos competentes do MESS e da Administração Pública e, nos casos em que tal se verificar indispensável, através da celebração de contratos de prestação de serviços com outras entidades."
+  },
+  "b8d686ce048bbf6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Poderes\n\nOs dirigentes e o pessoal de inspecção da IGSS, quando em serviço e sempre que necessário ao desempenho das suas funções, gozam, para além de outros previstos na lei geral, dos seguintes poderes de autoridade e prerrogativas:\n\na) Ter livre acesso a todos os serviços e instituições em que tenham de exercer as suas funções;\n\nb) Utilizar nos locais de trabalho, por cedência dos respectivos responsáveis, instalações adequadas ao exercício, em condições de dignidade e eficácia, das respectivas funções;\n\nc) Obter, para auxílio dos trabalhos a desenvolver, nos serviços e instituições onde decorra a sua acção, a cedência de material e equipamento, bem como a colaboração de pessoal do respectivo quadro;\n\nd) Requisitar, para consulta ou junção dos autos, quaisquer processos ou documentos;\n\ne) Proceder à selagem de quaisquer instalações, dependências, cofres ou móveis, requisitar ou reproduzir quaisquer documentos ou objectos de prova nos serviços e instituições objecto da sua acção, quando isso se mostre indispensável, lavrando o competente auto, dispensável no caso de simples reprodução de documentos;\n\nf) Corresponder-se, quando em serviço fora da sede, com quaisquer entidades públicas ou privadas e pessoas singulares para obtenção de elementos de interesse para o exercício das suas funções;\n\ng) Requisitar às autoridades policiais e administrativas a colaboração que se mostre necessária para cabal execução das suas funções;\n\nh) Participar ao Ministério Público, para efeito do disposto na lei penal, a recusa de quaisquer informações ou elementos solicitados, bem como a falta injustificada de colaboração."
+  },
+  "b65151ded2236daf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Verificação de infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Verificação de infracções\n\nOs dirigentes e o pessoal técnico superior de inspecção têm competência para levantar autos de notícia por infracções disciplinares pessoalmente verificadas no exercício das respectivas funções, nos termos e para os efeitos previstos nos artigos 47.º e 49.º do Estatuto Disciplinar aprovado pelo [Decreto-Lei n.º 24/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1984-660172), de 16 de Janeiro."
+  },
+  "d97533756afc65a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Uso e porte de arma de defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Uso e porte de arma de defesa\n\nOs dirigentes, o pessoal técnico superior de inspecção e os motoristas gozam do direito de possuir e usar arma de defesa com dispensa da respectiva licença, nos termos da lei geral aplicável."
+  },
+  "880eaa026c10be84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Regime de duração do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Regime de duração do trabalho\n\n1 - O regime de duração do trabalho do pessoal de inspecção é o estabelecido para a função pública, podendo, no entanto, as respectivas funções ser exercidas, quando as necessidades de serviço imperiosamente o impuserem, a qualquer hora do dia ou da noite, bem como nos dias de descanso semanal ou feriados.\n\n2 - Quando ocorra o circunstancialismo previsto no número anterior, o pessoal terá direito às retribuições e compensações previstas na lei geral para trabalho nocturno, extraordinário e em dias de descanso semanal e feriados, tendo direito a igual período de descanso num dos oitos dias seguintes."
+  },
+  "bf3f7d8903a18c01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Gratificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Gratificação\n\nMantém-se, em conformidade com o disposto nos n.os 1 e 2 do artigo 37.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e nos precisos termos nele definidos, a gratificação instituída pelo [Decreto-Lei n.º 105/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1985-325504), de 11 de Abril."
+  },
+  "1e1d0df0e9d3a450": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Abonos de transporte e ajudas de custo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Abonos de transporte e ajudas de custo\n\n1 - Os dirigentes e o pessoal de inspecção, sempre que se desloquem, por motivo de serviço, da sua residência oficial, têm direito à utilização de transporte de 1.ª classe, podendo fazer uso de automóvel próprio, nos termos da lei geral aplicável.\n\n2 - Sempre que numa mesma localidade e para realização do mesmo serviço ou missão se encontrem deslocados funcionários de categorias diferentes, serão a todos abonadas ajudas de custo do quantitativo que competir ao de maior categoria."
+  },
+  "405a54635e6f0192": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Sigilo profissional\n\n1 - Além dos deveres gerais inerentes ao exercício de funções públicas, todos os funcionários ou agentes da IGSS ficam sujeitos a guardar sigilo profissional em todas as matérias e assuntos que se relacionem com o serviço.\n\n2 - Ficam igualmente abrangidos pelo sigilo profissional todos os funcionários e agentes chamados a colaborar em acções a executar por pessoal da IGSS."
+  },
+  "45cabdf91486712b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Incompatibilidades\n\n1 - É vedado ao pessoal da IGSS:\n\na) Intervir em processos disciplinares, de inspecção, de inquérito, de averiguação, de sindicância, de peritagem e de exame em que sejam visados parentes ou afins de qualquer grau da linha recta ou até ao 3.º grau da linha colateral;\n\nb) Exercer, por si ou por interposta pessoa, qualquer ramo de comércio ou indústria;\n\nc) Exercer advocacia, qualquer outra forma de procuradoria ou consultadoria ou outro tipo de profissão liberal.\n\n2 - O exercício das actividades mencionadas nas alíneas b) e c) do número anterior poderá, porém, ser autorizado, nos termos da legislação aplicável, desde que conjuntamente:\n\na) Não cause prejuízo ao serviço, não afecte a dignidade e o prestígio da função, não contribua para enfraquecer a respectiva autoridade ou não ponha em causa a isenção profissional;\n\nb) Não respeite, directa ou indirectamente, a órgãos, serviços e instituições de segurança social ou a interesses com eles relacionados."
+  },
+  "0f2b7168a7d18cce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Funcionários e agentes de outros serviços ou organismos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Funcionários e agentes de outros serviços ou organismos\n\nOs funcionários e agentes de outros serviços ou organismos que por qualquer das formas previstas na lei se encontrem a exercer funções na IGSS têm os mesmos direitos, poderes e prerrogativas e ficam sujeitos aos mesmos deveres previstos neste capítulo para os funcionários e agentes do quadro de pessoal da IGSS."
+  },
+  "0d2ed0847e61092c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Identificação e livre-trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Identificação e livre-trânsito\n\n1 - Os dirigentes e, bem assim, o pessoal das carreiras de inspecção têm direito a cartão de identidade, passado pela Secretaria-Geral do MESS, sendo assinado pelo ministro da tutela o do inspector-geral, subinspector-geral e directores de serviços e pelo inspector-geral o do outro pessoal acima referido.\n\n2 - O cartão a que se refere o número anterior, de modelo constante do anexo II a este diploma, do qual faz parte integrante, é simultaneamente de livre-trânsito e de acesso a todos os locais de funcionamento dos órgãos, serviços e instituições de segurança social, bem como das instituições particulares de solidariedade social, devendo também dele constar a possibilidade de requisitar às autoridades policiais e administrativas a colaboração que se mostre necessária para cabal exercício das suas funções.\n\n3 - O restante pessoal da IGSS usará, para sua identificação, um cartão do modelo aprovado para os funcionários do MESS, passado pela Secretaria-Geral do Ministério e assinado pelo inspector-geral."
+  },
+  "d1d808137d49f3c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições transitórias e finais"
+  },
+  "58293935a42f2c5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Transição para o quadro da IGSS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Transição para o quadro da IGSS\n\n1 - O pessoal do quadro da IGSS, e, bem assim, o pertencente a outros serviços e organismos do MESS a prestar serviço na IGSS à data da entrada em vigor deste decreto-lei, transita para o quadro de pessoal a aprovar nos termos do n.º 1 do artigo 20.º do presente diploma, de harmonia com as disposições constantes da secção II do capítulo IV do [Decreto-Lei n.º 83/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1991-487122), de 20 de Fevereiro.\n\n2 - A transição prevista no número anterior far-se-á por despacho do Ministro do Emprego e da Segurança Social, a proferir no prazo de 60 dias a contar da data da entrada em vigor deste diploma."
+  },
+  "6b33635c4dd93437": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Transição da carreira de técnico superior de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Transição da carreira de técnico superior de inspecção\n\n1 - A transição do pessoal actualmente provido na carreira técnica superior de inspecção faz-se, de acordo com o mapa constante do anexo III ao presente diploma e que dele faz parte integrante, para as correspondentes categorias neste definidas.\n\n2 - Releva, para todos os efeitos legais, como prestado nas novas categorias o tempo de serviço contado nas categorias anteriores."
+  },
+  "9245cb65415b789c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Pessoal a exercer funções em outros serviços ou organismos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Pessoal a exercer funções em outros serviços ou organismos\n\nOs destacamentos e as requisições de funcionários da IGSS, bem como outras situações precárias previstas na lei, cessam no prazo de 120 dias sobre a data da entrada em vigor deste diploma ou no termo do prazo por que foram constituídos, se anterior, sem prejuízo de poderem ser de novo autorizados, de acordo com a conveniência do serviço."
+  },
+  "c741a9fc7ddcbe68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Encargos orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Encargos orçamentais\n\nOs encargos decorrentes da aplicação deste decreto-lei serão suportados nos termos do disposto no artigo 35.º do [Decreto-Lei n.º 83/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1991-487122), de 20 de Fevereiro."
+  },
+  "fee355c5046c7752": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Entrada em vigor\n\nO presente diploma entra em vigor 60 dias após a data da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 3 de Setembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.\n\nPromulgado em 6 de Novembro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Novembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "871d05b908634843": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Conteúdo funcional das carreiras e categorias previstas no quadro de pessoal da inspecção Geral da Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Conteúdo funcional das carreiras e categorias previstas no quadro de pessoal da inspecção Geral da Segurança Social\n\nCarreira técnica superior de inspecção\n\nInspector superior assessor principal. - Compete ao inspector superior assessor principal efectuar trabalho de natureza técnica de elevado grau de qualificação e responsabilidade da competência da Inspecção-Geral da Segurança Social; coordenar equipas de inspecção, efectuar, designadamente, inspecções, inquéritos, sindicâncias e peritagens e instruir processos disciplinares quando, pela sua natureza e responsabilidade, superiormente se julgue que lhes devam ser cometidas tais missões; zelar pela adopção de critérios uniformes na execução das tarefas de cuja coordenação seja incumbido; emitir pareceres e elaborar estudos sobre matérias que exijam conhecimentos especializados e uma visão global do sistema de segurança social.\n\nInspector superior assessor. - Compete ao inspector superior assessor efectuar trabalho de natureza técnica da competência da Inspecção-Geral da Segurança Social; coordenar equipas de inspecção, efectuar, designadamente, inspecções, inquéritos, sindicâncias e peritagens e instruir processos disciplinares quando, pela sua natureza e responsabilidade, superiormente se julgue que lhes devam ser cometidas tais missões; zelar pela adopção de critérios uniformes na execução das tarefas de cuja coordenação seja incumbido; emitir pareceres e elaborar informações ou estudos sobre matérias que exijam um conhecimento aprofundado e global do sistema de segurança social.\n\nInspector superior principal. - Compete ao inspector superior principal realizar o trabalho de natureza técnica da competência da Inspecção-Geral da Segurança Social, que consiste, designadamente em efectuar inspecções, inquéritos, sindicâncias, peritagens e outras missões de teor inspectivo ou disciplinar; chefiar e orientar equipas inspectivas, procedendo à distribuição das respectivas tarefas pelos seus auxiliares, à avaliação da utilidade e quantidade das informações parcelares que os mesmos lhes prestem, bem como à elaboração dos relatórios finais das missões executadas e ainda elaborar informações, estudos e pareceres sobre matérias específicas que lhe foram cometidas.\n\nInspector superior de 1.ª classe. - Compete ao inspector superior de 1.ª classe realizar o trabalho de natureza técnica da competência da Inspecção-Geral da Segurança Social, que consiste, designadamente, em efectuar inspecções, inquéritos, sindicâncias, peritagens e outras missões de teor inspectivo ou disciplinar, chefiar e orientar equipas inspectivas, procedendo à distribuição das respectivas tarefas pelos seus auxiliares, a avaliação da utilidade e quantidade das informações parcelares que os mesmos lhes prestem, bem como à elaboração dos relatórios finais das missões executadas e ainda elaborar informações, estudos e pareceres sobre matérias específicas que lhe foram cometidas.\n\nInspector superior de 2.ª classe. - Compete ao inspector superior de 2.ª classe executar trabalho de natureza técnica da competência da Inspecção-Geral da Segurança Social, que consiste, designadamente, em efectuar inspecções, inquéritos, sindicâncias, peritagens e todas as demais missões de natureza inspectiva e disciplinar que lhe forem distribuídas, bem como elaborar os relatórios finais das missões executadas e elaborar informações, estudos e pareceres sobre matérias específicas que lhe forem cometidas.\n\nCarreira técnica de inspecção\n\nInspector-adjunto. - Compete, genericamente, as funções de estudo e aplicação de métodos e processos de natureza técnica inerentes à inspecção de actividades da segurança social quer cooperando na realização de inspecções, inquéritos, sindicâncias, peritagens e outras missões de teor inspectivo ou disciplinar quer elaborando relatórios das missões executadas, informações, estudos ou pareceres.\n\nCarreira de subinspector\n\nSubinspector. - Compete ao subinspector, genericamente, executar inspecções simples e, integrados em equipas, outros trabalhos de inspecção que se insiram nas missões a executar na Inspecção-Geral da Segurança Social; elaborar informações referentes às tarefas cuja responsabilidade lhe tenha sido atribuída; coadjuvar na organização, acompanhamento e movimentação dos processos, assegurando a sua preparação para despacho superior e seguidamente o respectivo arquivo; secretariar processos disciplinares e de inquérito ou de sindicância; distribuir instrumentos de apoio técnico especializado.\n\nCarreira técnica auxiliar\n\nTécnico auxiliar. - Compete ao técnico auxiliar, genericamente, executar, a partir de orientações concretas, pequenos trabalhos de inspecção; proceder à organização, controlo, acompanhamento e movimentação dos processos, assegurando a sua preparação para despacho superior e seguidamente o respectivo arquivo; secretariar processos disciplinares e de inquérito ou de sindicância; distribuir instrumentos de apoio técnico especializado; proceder ao tratamento de texto e reprodução dos processos inspectivos.\n\nCarreira de operador de reprografia\n\nOperador de reprografia. - Compete ao operador de reprografia efectuar a reprodução de documentos por fotocópia, podendo reduzi-los ou ampliá-los, operando com as máquinas copiadoras ou duplicadores, e zelar pela limpeza e conservação do equipamento de reprografia."
+  },
+  "a93059191ccc8bfc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/277a00/55145521.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/277a00/55145521.pdf)"
+  },
+  "fedd091f183f2b01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/277a00/55145521.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — [(ver documento original)](https://files.diariodarepublica.pt/1s/1992/11/277a00/55145521.pdf)"
+  },
+  "82779185418ad9f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "74de769869660052": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 2.º — Objectivos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "e6a2d1c8128f0531": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "f1ad784573de5623": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Direcção",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 4.º — Direcção\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "0f1d3be5491481ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competência do inspector-geral",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 5.º — Competência do inspector-geral\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "6f1235c8453a748f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Serviços",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 6.º — Serviços\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "23e0fffe48f966fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Serviço de Auditoria",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 7.º — Serviço de Auditoria\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "a01b2ecc9ccffe4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Serviço de Inspecção dos Serviços e Organismos Oficiais",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 8.º — Serviço de Inspecção dos Serviços e Organismos Oficiais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "2fd3cc8d1a9796ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Serviço de Inspecção das Instituições Particulares de Solidariedade Social",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 9.º — Serviço de Inspecção das Instituições Particulares de Solidariedade Social\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "f38ac6c5703571ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Repartição Administrativa",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 10.º — Repartição Administrativa\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "578ca452ca09c745": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Núcleo de Apoio Técnico aos Processos",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 11.º — Núcleo de Apoio Técnico aos Processos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "4e69b9a5776530b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Autonomia técnica",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 12.º — Autonomia técnica\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "55acc853d5f86599": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Constituição de equipas",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 13.º — Constituição de equipas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "df3891c2ca103b27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Princípios de gestão",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 14.º — Princípios de gestão\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "aec64b55eaad39dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Questionário das inspecções ordinárias",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 15.º — Questionário das inspecções ordinárias\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "7fedba730cfe2ca9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Verificação dos resultados das acções",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 16.º — Verificação dos resultados das acções\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "e2feddee763d82df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Duração e relatório das acções",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 17.º — Duração e relatório das acções\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "5e8cb58fe2bc3e61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Requisição de testemunhas ou declarantes",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 18.º — Requisição de testemunhas ou declarantes\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "79a94624f23f9e83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Dever de cooperação",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 19.º — Dever de cooperação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "c5784fac888b2f5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Quadro de pessoal",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 20.º — Quadro de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "2edc06b8822a424e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Distribuição do pessoal",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 21.º — Distribuição do pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "22da151d42c00652": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Formação e aperfeiçoamento profissional",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 23.º — Formação e aperfeiçoamento profissional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "2a9e19def871e43c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Poderes",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 24.º — Poderes\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "139636900977e49f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Verificação de infracções",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 25.º — Verificação de infracções\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "69a8e4a41bb31199": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Uso e porte de arma de defesa",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 26.º — Uso e porte de arma de defesa\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "ca9ab1ea400d0edb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Gratificação",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 28.º — Gratificação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "06522a1eab9badf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Abonos de transporte e ajudas de custo",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 29.º — Abonos de transporte e ajudas de custo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "92dff0ce51cd3929": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Sigilo profissional",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 30.º — Sigilo profissional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "24c592fe3aba219e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Incompatibilidades",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 31.º — Incompatibilidades\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "f36f73e7122aa702": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Funcionários e agentes de outros serviços ou organismos",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 32.º — Funcionários e agentes de outros serviços ou organismos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "885a2b8e1745f1ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Identificação e livre-trânsito",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 33.º — Identificação e livre-trânsito\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "e9b97791be79b1a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Transição para o quadro da IGSS",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 34.º — Transição para o quadro da IGSS\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "7882f812df9e0a75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Transição da carreira de técnico superior de inspecção",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 35.º — Transição da carreira de técnico superior de inspecção\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "374dad98b406f135": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Pessoal a exercer funções em outros serviços ou organismos",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 36.º — Pessoal a exercer funções em outros serviços ou organismos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "82271a113296c8dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Encargos orçamentais",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 37.º — Encargos orçamentais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+  },
+  "b0fb531106002e0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Entrada em vigor",
+   "in_force_from": "2001-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06."
+   ],
+   "markdown": "###### Artigo 38.º — Entrada em vigor\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.\n\nVisto e aprovado em Conselho de Ministros de 3 de Setembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.\n\nPromulgado em 6 de Novembro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 10 de Novembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

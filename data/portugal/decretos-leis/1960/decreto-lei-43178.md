@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1965-10-15'
+version_history:
+  file: decreto-lei-43178.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-09-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1965-10-15'
+    amending: pt:dre:510664:por
+    amending_title: Decreto-Lei n.º 46596
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:33:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 46596. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43178.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,7 +156,9 @@ Atendendo a que se torna mister alterar e completar algumas das disposições le
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O agrupamento das secções e subsecções da Câmara Corporativa faz-se pela forma que de seguida se indica:
+###### Artigo 1.º
+
+O agrupamento das secções e subsecções da Câmara Corporativa faz-se pela forma que de seguida se indica:
 
 Secção I - Interesses de ordem espiritual e moral:
 
@@ -383,9 +400,13 @@ Secção XII - Interesses de ordem administrativa:
 
 § 3.º Quando não se encontrar expressamente indicada a forma de designação dos Procuradores, competirá ao Conselho Corporativo proceder a essa designação ou estabelecer a forma por que esta deva ser feita.
 
-Art. 2.º Os presidentes das Corporações serão, por direito próprio, Procuradores à Câmara Corporativa pelas secções correspondentes e fazem parte de todas as subsecções em que estas se encontram divididas.
+###### Artigo 2.º
 
-Art. 3.º Os bastonários das Ordens serão igualmente Procuradores à Câmara Corporativa por direito próprio, tendo assento nas seguintes secções e subsecções:
+Os presidentes das Corporações serão, por direito próprio, Procuradores à Câmara Corporativa pelas secções correspondentes e fazem parte de todas as subsecções em que estas se encontram divididas.
+
+###### Artigo 3.º
+
+Os bastonários das Ordens serão igualmente Procuradores à Câmara Corporativa por direito próprio, tendo assento nas seguintes secções e subsecções:
 
 Bastonário da Ordem dos Advogados: 3.ª subsecção (Justiça) da secção XII (Interesses de ordem administrativa);
 
@@ -393,17 +414,29 @@ Bastonário da Ordem dos Engenheiros: subsecções das secções III (Lavoura) e
 
 Bastonário da Ordem dos Médicos: secção I (Interesses de ordem espiritual e moral); 4.ª subsecção (Educação física e desportos) da secção II (Interesses de ordem cultural).
 
-Art. 4.º Quando qualquer das secções das corporações não puder ser constituída, os representantes das respectivas actividades serão designados pelo Conselho Corporativo ou pela forma que este fixar.
+###### Artigo 4.º
 
-Art. 5.º O Conselho Corporativo poderá alterar o número e a designação dos agrupamentos de actividades e interesses previstos nos artigos anteriores, nomeadamente para adoptar a organização da Câmara Corporativa às corporações que forem instituídas.
+Quando qualquer das secções das corporações não puder ser constituída, os representantes das respectivas actividades serão designados pelo Conselho Corporativo ou pela forma que este fixar.
 
-§ único. À medida que forem instituídas novas corporações, os respectivos representantes substituir-se-ão aos que estiverem a representar na Câmara os mesmos interesses.
+###### Artigo 5.º
 
-Art. 6.º O Conselho Corporativo enviará à Câmara Corporativa, até oito dias antes do início de cada legislatura, uma relação dos Procuradores que tiver designado ao abrigo da sua competência.
+O Conselho Corporativo poderá alterar o número, a composição e a designação dos agrupamentos de actividades e interesses previstos nos artigos anteriores, independentemente da forma como os mesmos se encontram estruturados nas corporações, nomeadamente para permitir a melhor representatividade de tais agrupamentos na Câmara Corporativa ou para adaptar a organização desta às corporações que forem instituídas.
 
-Art. 7.º Até à data indicada no artigo anterior serão enviados à Câmara Corporativa, pelas entidades competentes, os documentos comprovativos da eleição ou escolha dos Procuradores que devam ser designados por qualquer destes meios ou a indicação das pessoas a quem compete a representação por inerência dos seus cargos.
+§ único. À medida que forem instituídas novas corporações, os respectivos representantes substituir-se-ão aos que estiverem a representar na Câmara os mesmos interesses, nos termos a fixar pelo Conselho Corporativo.
 
-Art. 8.º O acórdão da Comissão de Verificação de Poderes da Câmara Corporativa que for lido na segunda sessão preparatória de cada legislatura deverá indicar os nomes dos Procuradores em relação às secções e subsecções da Câmara. A lista dos Procuradores será publicada no Diário do Governo.
+> Alterado pelo/a [Decreto-Lei n.º 46596](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46596-1965-510664), publicado em 1965-10-15.
+
+###### Artigo 6.º
+
+O Conselho Corporativo enviará à Câmara Corporativa, até oito dias antes do início de cada legislatura, uma relação dos Procuradores que tiver designado ao abrigo da sua competência.
+
+###### Artigo 7.º
+
+Até à data indicada no artigo anterior serão enviados à Câmara Corporativa, pelas entidades competentes, os documentos comprovativos da eleição ou escolha dos Procuradores que devam ser designados por qualquer destes meios ou a indicação das pessoas a quem compete a representação por inerência dos seus cargos.
+
+###### Artigo 8.º
+
+O acórdão da Comissão de Verificação de Poderes da Câmara Corporativa que for lido na segunda sessão preparatória de cada legislatura deverá indicar os nomes dos Procuradores em relação às secções e subsecções da Câmara. A lista dos Procuradores será publicada no Diário do Governo.
 
 Publique-se e cumpra-se como nele se contém.
 

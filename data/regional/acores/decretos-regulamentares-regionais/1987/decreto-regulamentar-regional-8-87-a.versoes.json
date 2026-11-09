@@ -1,0 +1,164 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:666548:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1987-04-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "14f8db246d9b0463"
+   ]
+  },
+  {
+   "date": "1988-06-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:371672:por",
+     "title": "Decreto Regulamentar Regional n.º 26/88/A",
+     "published": "1988-06-18",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/26-1988-371672"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º"
+   ],
+   "fragments": [
+    "589077b8fb374dab",
+    "ca52a5dedeb38354",
+    "51dac8522beb2228",
+    "13e8b153b3acaba9",
+    "5eb417d87ba8807d",
+    "5091294476994d01",
+    "56b951b458bdbae7",
+    "5473013a37ddc5f4",
+    "c39c06b9c794c4b0",
+    "8fcab20079baf5eb",
+    "2cebbad033c1bf10",
+    "908b9818d06eeb77",
+    "53cfb83885111d6a"
+   ]
+  }
+ ],
+ "fragments": {
+  "14f8db246d9b0463": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo em conta a recente reestruturação das carreiras da função pública operada pelo [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, adaptado à administração regional autónoma dos Açores pelo Decreto Legislativo Regional n.º 13/86/A, de 21 de Abril, torna-se necessário proceder à revisão dos quadros de pessoal da Direcção Regional de Segurança Social e serviços dependentes, no sentido de os adaptar às alterações introduzidas.\n\nÉ também oportuno introduzir as alterações resultantes da reforma das carreiras do pessoal docente constante do [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, no que diz respeito aos educadores de infância e auxiliares de educação.\n\nFinalmente, procede-se a algumas reclassificações que resultam da lei e cuja concretização já tardava.\n\nAssim:\n\nO Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:\n\nArtigo 1.º Os quadros de pessoal da Direcção Regional de Segurança Social e serviços dependentes, anexos aos Decretos Regulamentares Regionais n.os [9/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1983-312398), de 6 de Abril, e [29/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1986-218938), de 9 de Agosto, são substituídos pelos quadros anexos ao presente diploma.\n\nArt. 2.º - 1 - Aos educadores de infância e auxiliares de educação aplica-se o regime de carreira previsto no [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio.\n\n2 - A transição para as fases e escalões previstos efectua-se nos termos do mesmo diploma.\n\nArt. 3.º Os encarregados de pessoal auxiliar transitam para a categoria de encarregado de pessoal auxiliar administrativo.\n\nArt. 4.º - 1 - Os operadores de reprografia transitam para a carreira de impressor de offset, nos termos dos artigos 8.º, n.º 6, e 15.º do [Decreto-Lei n.º 278/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1982-394150), de 20 de Julho, com efeitos a partir de 1 de Janeiro de 1983.\n\n2 - A transição terá ainda em conta o tempo já decorrido para efeitos de acesso na carreira.\n\nArt. 5.º - 1 - As condições de ingresso e acesso das carreiras de cozinheiro, auxiliar de alimentação e fiel auxiliar de armazém são as constantes do [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro.\n\n2 - Os actuais cozinheiros, serventes de cantina e serventes de armazém transitam para as carreiras de cozinheiro, auxiliar de alimentação e fiel auxiliar de armazém, de acordo com o disposto na alínea c) do artigo 14.º do decreto regulamentar mencionado no número anterior, com efeitos a partir de 14 de Fevereiro de 1983.\n\nArt. 6.º - 1 - O lugar de chefe de centro de informática será preenchido em comissão de serviço, por um período de dois anos, renovável, por nomeação do Secretário Regional dos Assuntos Sociais, mediante proposta do conselho administrativo do centro de prestações pecuniárias de segurança social, após selecção, mediante testes específicos, entre os chefes de secção dos respectivos centros.\n\n2 - O restante pessoal de informática será recrutado e provido nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.\n\nArt. 7.º - 1 - As delegações de ilha dos serviços de acção social directa são coordenadas por um elemento do respectivo pessoal técnico ou técnico auxiliar, nomeado em comissão de serviço, pelo período de dois anos, renovável, por despacho do Secretário Regional dos Assuntos Sociais, que auferirá a remuneração correspondente à letra imediatamente superior à que lhe corresponde no quadro de pessoal.\n\n2 - A nomeação referida poderá recair num funcionário administrativo, se em alguma delegação não existir pessoal técnico ou técnico auxiliar, correspondendo a remuneração, neste caso, à da categoria de primeiro-oficial.\n\nArt. 8.º - 1 - O provimento na categoria de ajudante de creche e jardim-de-infância de 2.ª classe será feito de entre indivíduos habilitados com o curso geral dos liceus ou equiparado e frequência de um estágio adequado na instituição interessada.\n\n2 - O acesso à categoria superior depende da permanência mínima de cinco anos de bom e efectivo serviço na categoria anterior.\n\nArt. 9.º - 1 - O ingresso nas carreiras de ecónomo e encarregado de instalações faz-se de entre indivíduos habilitados com a escolaridade obrigatória.\n\n2 - O acesso à categoria imediatamente superior depende da permanência de cinco anos de bom e efectivo serviço na categoria anterior.\n\nArt. 10.º Os requisitos para ingresso e acesso na carreira de técnico auxiliar de BAD são os constantes do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.\n\nArt. 11.º As reclassificações previstas no presente diploma operam-se por diploma individual de provimento e estão sujeitas ao visto da Secção Regional do Tribunal de Contas.\n\nAprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 15 de Janeiro de 1987.\n\nO Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Angra do Heroísmo em 4 de Março de 1987.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/07600/13191327.pdf)"
+  },
+  "589077b8fb374dab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo em conta a recente reestruturação das carreiras da função pública operada pelo [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, adaptado à administração regional autónoma dos Açores pelo Decreto Legislativo Regional n.º 13/86/A, de 21 de Abril, torna-se necessário proceder à revisão dos quadros de pessoal da Direcção Regional de Segurança Social e serviços dependentes, no sentido de os adaptar às alterações introduzidas.\n\nÉ também oportuno introduzir as alterações resultantes da reforma das carreiras do pessoal docente constante do [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio, no que diz respeito aos educadores de infância e auxiliares de educação.\n\nFinalmente, procede-se a algumas reclassificações que resultam da lei e cuja concretização já tardava.\n\nAssim:\n\nO Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:"
+  },
+  "ca52a5dedeb38354": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs quadros de pessoal da Direcção Regional de Segurança Social e serviços dependentes, anexos aos Decretos Regulamentares Regionais n.os [9/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1983-312398), de 6 de Abril, e [29/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1986-218938), de 9 de Agosto, são substituídos pelos quadros anexos ao presente diploma."
+  },
+  "51dac8522beb2228": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Aos educadores de infância e auxiliares de educação aplica-se o regime de carreira previsto no [Decreto-Lei n.º 100/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1986-227192), de 17 de Maio.\n\n2 - A transição para as fases e escalões previstos efectua-se nos termos do mesmo diploma."
+  },
+  "13e8b153b3acaba9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs encarregados de pessoal auxiliar transitam para a categoria de encarregado de pessoal auxiliar administrativo."
+  },
+  "5eb417d87ba8807d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Os operadores de reprografia transitam para a carreira de impressor de offset, nos termos dos artigos 8.º, n.º 6, e 15.º do [Decreto-Lei n.º 278/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1982-394150), de 20 de Julho, com efeitos a partir de 1 de Janeiro de 1983.\n\n2 - A transição terá ainda em conta o tempo já decorrido para efeitos de acesso na carreira."
+  },
+  "5091294476994d01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - As condições de ingresso e acesso das carreiras de cozinheiro, auxiliar de alimentação e fiel auxiliar de armazém são as constantes do [Decreto Regulamentar n.º 10/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1983-311004), de 9 de Fevereiro.\n\n2 - Os actuais cozinheiros, serventes de cantina e serventes de armazém transitam para as carreiras de cozinheiro, auxiliar de alimentação e fiel auxiliar de armazém, de acordo com o disposto na alínea c) do artigo 14.º do decreto regulamentar mencionado no número anterior, com efeitos a partir de 14 de Fevereiro de 1983."
+  },
+  "56b951b458bdbae7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - O lugar de chefe de centro de informática será preenchido em comissão de serviço, por um período de dois anos, renovável, por nomeação do Secretário Regional dos Assuntos Sociais, mediante proposta do conselho administrativo do centro de prestações pecuniárias de segurança social, após selecção, mediante testes específicos, entre os chefes de secção dos respectivos centros.\n\n2 - O restante pessoal de informática será recrutado e provido nos termos do [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio."
+  },
+  "5473013a37ddc5f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - As delegações de ilha dos serviços de acção social directa são coordenadas por um elemento do respectivo pessoal técnico ou técnico auxiliar, nomeado em comissão de serviço, pelo período de dois anos, renovável, por despacho do Secretário Regional dos Assuntos Sociais, que auferirá a remuneração correspondente à letra imediatamente superior à que lhe corresponde no quadro de pessoal.\n\n2 - A nomeação referida poderá recair num funcionário administrativo, se em alguma delegação não existir pessoal técnico ou técnico auxiliar, correspondendo a remuneração, neste caso, à da categoria de primeiro-oficial."
+  },
+  "c39c06b9c794c4b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - O provimento na categoria de ajudante de creche e jardim-de-infância de 2.ª classe será feito de entre indivíduos habilitados com o curso geral dos liceus ou equiparado e frequência de um estágio adequado na instituição interessada.\n\n2 - O acesso à categoria superior depende da permanência mínima de cinco anos de bom e efectivo serviço na categoria anterior."
+  },
+  "8fcab20079baf5eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - O ingresso nas carreiras de ecónomo e encarregado de instalações faz-se de entre indivíduos habilitados com a escolaridade obrigatória.\n\n2 - O acesso à categoria imediatamente superior depende da permanência de cinco anos de bom e efectivo serviço na categoria anterior."
+  },
+  "2cebbad033c1bf10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs requisitos para ingresso e acesso na carreira de técnico auxiliar de BAD são os constantes do [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto."
+  },
+  "908b9818d06eeb77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs reclassificações previstas no presente diploma operam-se por diploma individual de provimento e estão sujeitas ao visto da Secção Regional do Tribunal de Contas."
+  },
+  "53cfb83885111d6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1988-06-18",
+   "changed_by": [
+    "Aditado pelo/a [Decreto Regulamentar Regional n.º 26/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1988-371672), publicado em 1988-06-18."
+   ],
+   "markdown": "###### Artigo 12.º\n\nO pessoal que, sendo agente, desempenhe funções em regime de tempo completo, se encontre sujeito à disciplina, hierarquia e horário da Direcção Regional da Segurança Social ou serviços dependentes, conte, pelo menos, três anos de serviço ininterrupto e foi admitido com observância dos requisitos habilitacionais pode ser integrado, directamente, em lugares do quadro, em categoria correspondente às funções que desempenha actualmente.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 26/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1988-371672), publicado em 1988-06-18.\n\nAprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 15 de Janeiro de 1987.\n\nO Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Angra do Heroísmo em 4 de Março de 1987.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim da Rocha Vieira.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/07600/13191327.pdf)"
+  }
+ }
+}

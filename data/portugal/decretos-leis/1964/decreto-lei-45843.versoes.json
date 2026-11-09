@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:580100:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1964-08-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8c1a601980f9b596"
+   ]
+  },
+  {
+   "date": "1973-10-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:412261:por",
+     "title": "Decreto-Lei n.º 538/73",
+     "published": "1973-10-23",
+     "dre_path": "/dr/detalhe/decreto-lei/538-1973-412261"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "24f44e5bc01c313f",
+    "16e16b38f700eb41",
+    "8d1d713aaa64e9a7",
+    "d1c60c256b419c90",
+    "9ac97cee41c77b16"
+   ]
+  }
+ ],
+ "fragments": {
+  "8c1a601980f9b596": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Torna-se necessária a publicação de disposições legais que determinem as isenções fiscais de que devem gozar os vencimentos e quaisquer outras remunerações percebidas pela prestação de serviço nas infra-estruturas N. A. T. O. existentes em Portugal.\n\nVerifica-se também ser necessário definir o regime de isenção dos materiais que sejam importados com destino ao funcionamento e manutenção das referidas infra-estruturas.\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:\n\nArtigo 1.º São isentos de imposto do selo, de imposto profissional, de imposto complementar e de contribuição para o Fundo de Desemprego os vencimentos e quaisquer outras remunerações auferidas pela prestação de serviços nas infra-estruturas N. A. T. O. situadas em território nacional.\n\nArt. 2.º São isentas de direitos e dos respectivos emolumentos gerais da tabela II anexa à Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 31665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31665-1941-321313), de 22 de Novembro de 1941, e de quaisquer outras imposições, a importação de materiais e equipamentos que se destinam à manutenção e funcionamento das infra-estruturas N. A. T. O. existentes em Portugal e bem assim a sua exportação, quando tenham de sair do País.\n\n§ único. Para efeitos do disposto neste artigo, a Comissão de Manutenção de Infra-Estruturas N. A. T. O. enviará à Direcção-Geral das Alfândegas lista discriminativa, em triplicado, dos materiais e equipamentos a isentar, relativa a cada importação ou exportação.\n\nArt. 3.º Os materiais e equipamentos importados ao abrigo do artigo anterior não poderão ser alienados a qualquer entidade existente no País que não seja o Governo Português, e consideram-se em descaminho de direitos quando desviados para fins diferentes daquele para que legalmente foi concedido o benefício da isenção de direitos.\n\nArt. 4.º À Comissão de Manutenção de Infra-Estruturas N. A. T. O. cumpre verificar a aplicação do material importado com isenção de direitos ao abrigo do presente decreto-lei, sem prejuízo da fiscalização que caiba às autoridades aduaneiras, de acordo com as leis em vigor, e sempre que tenha conhecimento de desvios de destino ou aplicação deverá deles dar conhecimento imediata à Direcção-Geral das Alfândegas.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 1 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas."
+  },
+  "24f44e5bc01c313f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Torna-se necessária a publicação de disposições legais que determinem as isenções fiscais de que devem gozar os vencimentos e quaisquer outras remunerações percebidas pela prestação de serviço nas infra-estruturas N. A. T. O. existentes em Portugal.\n\nVerifica-se também ser necessário definir o regime de isenção dos materiais que sejam importados com destino ao funcionamento e manutenção das referidas infra-estruturas.\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:"
+  },
+  "16e16b38f700eb41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão isentos de imposto do selo, de imposto profissional, de imposto complementar e de contribuição para o Fundo de Desemprego os vencimentos e quaisquer outras remunerações auferidas pela prestação de serviços nas infra-estruturas N. A. T. O. situadas em território nacional."
+  },
+  "8d1d713aaa64e9a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1973-10-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 538/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1973-412261), publicado em 1973-10-23."
+   ],
+   "markdown": "###### Artigo 2.º\n\nSão isentas de direitos e dos respectivos emolumentos gerais da tabela II anexa à Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1963, e de quaisquer outras imposições a importação de materiais e equipamentos que se destinem à criação, manutenção e funcionamento de infra-estruturas N. A. T. O., a construir ou já existentes em Portugal.\n\n§ único. Para efeitos do disposto neste artigo, a comissão de manutenção de infra-estruturas N. A. T. O. enviará à Direcção-Geral das Alfândegas lista discriminativa, em triplicado, dos materiais e equipamentos a isentar, relativa a cada importação.\n\n> Alterado pelo/a [Decreto-Lei n.º 538/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/538-1973-412261), publicado em 1973-10-23."
+  },
+  "d1c60c256b419c90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs materiais e equipamentos importados ao abrigo do artigo anterior não poderão ser alienados a qualquer entidade existente no País que não seja o Governo Português, e consideram-se em descaminho de direitos quando desviados para fins diferentes daquele para que legalmente foi concedido o benefício da isenção de direitos."
+  },
+  "9ac97cee41c77b16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nÀ Comissão de Manutenção de Infra-Estruturas N. A. T. O. cumpre verificar a aplicação do material importado com isenção de direitos ao abrigo do presente decreto-lei, sem prejuízo da fiscalização que caiba às autoridades aduaneiras, de acordo com as leis em vigor, e sempre que tenha conhecimento de desvios de destino ou aplicação deverá deles dar conhecimento imediata à Direcção-Geral das Alfândegas.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 1 de Agosto de 1964. - ANTÓNIO DE OLIVEIRA SALAZAR - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas."
+  }
+ }
+}

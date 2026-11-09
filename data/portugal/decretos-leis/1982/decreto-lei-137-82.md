@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-05-05'
+version_history:
+  file: decreto-lei-137-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-04-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-05-05'
+    amending: pt:dre:195218:por
+    amending_title: Decreto-Lei n.º 76/86
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:42:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 76/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-137-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,7 +166,9 @@ DAS CONTADORIAS-GERAIS DAS SECÇÕES REGIONAIS DO TRIBUNAL DE CONTAS
 
 ### CAPÍTULO I — Constituição, estrutura e competência
 
-Artigo 1.º - 1 - A contadoria-geral referida no artigo 19.º da [Lei n.º 23/81](https://diariodarepublica.pt/dr/detalhe/lei/23-1981-576494), de 19 de Agosto, é constituída por:
+###### Artigo 1.º
+
+1 - A contadoria-geral referida no artigo 19.º da [Lei n.º 23/81](https://diariodarepublica.pt/dr/detalhe/lei/23-1981-576494), de 19 de Agosto, é constituída por:
 
 a) Contadoria de contas;
 
@@ -187,7 +206,9 @@ d) A execução do serviço de dactilografia e de reprografia;
 
 e) Orientar a actividade do pessoal auxiliar, bem como os serviços relativos à limpeza e conservação das instalações.
 
-Art. 2.º A contadoria-geral remeterá à Direcção-Geral do Tribunal de Contas, devidamente autenticados:
+###### Artigo 2.º
+
+A contadoria-geral remeterá à Direcção-Geral do Tribunal de Contas, devidamente autenticados:
 
 a) Cópias das decisões e pareceres proferidos pela secção regional;
 
@@ -199,45 +220,77 @@ d) Cópias dos despachos de execução permanente;
 
 e) Qualquer documentação de interesse respeitante ao funcionamento da secção regional.
 
-Art. 3.º A Direcção-Geral do Tribunal de Contas remeterá às secções regionais os elementos necessários a assegurar uniformidade de critérios e de orientação.
+###### Artigo 3.º
+
+A Direcção-Geral do Tribunal de Contas remeterá às secções regionais os elementos necessários a assegurar uniformidade de critérios e de orientação.
 
 ### CAPÍTULO II — Do pessoal
 
-Art. 4.º - 1 - Ao contador-geral compete dirigir, coordenar e orientar as actividades da contadoria-geral.
+###### Artigo 4.º
+
+1 - Ao contador-geral compete dirigir, coordenar e orientar as actividades da contadoria-geral.
 
 2 - Aos contadores-chefes compete a direcção da contadoria ou do serviço de secretaria, contabilidade e arquivo que lhes estiver confiado, segundo a orientação definida pelo contador-geral.
 
 3 - O restante pessoal das secções regionais tem a competência que estiver definida para a respectiva categoria pela lei reguladora da Direcção-Geral do Tribunal de Contas.
 
-Art. 5.º O quadro do pessoal da secção regional será o que vier a ser fixado após apresentação do relatório a que se refere o n.º 3 do artigo 33.º da [Lei n.º 23/81](https://diariodarepublica.pt/dr/detalhe/lei/23-1981-576494).
+###### Artigo 5.º
 
-Art. 6.º - 1 - O provimento, bem como o regime das carreiras do pessoal das secções regionais, regula-se pelas disposições aplicáveis ao pessoal da Direcção-Geral do Tribunal de Contas, com as excepções constantes dos números seguintes.
+O quadro do pessoal da secção regional será o que vier a ser fixado após apresentação do relatório a que se refere o n.º 3 do artigo 33.º da [Lei n.º 23/81](https://diariodarepublica.pt/dr/detalhe/lei/23-1981-576494).
+
+###### Artigo 6.º
+
+1 - O provimento, bem como o regime das carreiras do pessoal das secções regionais, regula-se pelas disposições aplicáveis ao pessoal da Direcção-Geral do Tribunal de Contas, com as excepções constantes dos números seguintes.
 
 2 - A competência para a nomeação é do Ministro de Estado e das Finanças e do Plano, obtida a prévia concordância do secretário regional competente.
 
 3 - A nomeação do contador-geral e a dos contadores-chefes carecem da anuência, respectivamente, do presidente do tribunal e do juiz da secção regional respectiva.
 
-4 - Não sendo possível, nos termos da lei aplicável, o provimento de entre funcionários da direcção-geral ou das secções regionais, podem ser nomeados para os lugares de contador-geral ou de contador-chefe, mediante concurso documental, técnicos superiores de categoria não inferior à 1.ª classe de qualquer quadro ou administração central regional ou local e possuidores da experiência necessária ao exercício da função.
+4 - Durante o regime de instalação, os cargos de contador-geral e de contador-chefe poderão também ser preenchidos de entre funcionários pertencentes aos quadros da administração central, regional ou local habilitados com licenciatura em Direito, Economia, Finanças ou Organização e Gestão de Empresas.
 
 5 - No caso de inexistência de candidatos que reúnam os requisitos a que se refere o número anterior, será aberto concurso de prestação de provas, a que poderão candidatar-se indivíduos possuidores de licenciatura adequada.
 
-Art. 7.º Os funcionários colocados na Direcção-Geral do Tribunal de Contas ou nas secções regionais podem, satisfeitos os requisitos legais, ser nomeados, desde que assim o requeiram, para vagas que ocorrerem em qualquer dos quadros.
+> Alterado pelo/a [Decreto-Lei n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1986-195218), publicado em 1986-04-30.
 
-Art. 8.º É permitida a permuta entre funcionários da mesma categoria e carreira com a anuência de ambos e autorização do Ministro de Estado e das Finanças e do Plano e dos secretários regionais competentes.
+###### Artigo 7.º
 
-Art. 9.º - 1 - Os funcionários colocados nos serviços centrais poderão ser destacados para as secções regionais para o exercício de funções correspondentes à sua categoria ou à categoria imediatamente superior, por despacho do presidente, sob proposta do director-geral e o acordo dos interessados.
+Os funcionários colocados na Direcção-Geral do Tribunal de Contas ou nas secções regionais podem, satisfeitos os requisitos legais, ser nomeados, desde que assim o requeiram, para vagas que ocorrerem em qualquer dos quadros.
 
-2 - O destacamento far-se-á por períodos de 3 meses renováveis, até ao limite de 2 anos.
+###### Artigo 8.º
 
-3 - Os funcionários destacados nos termos do n.º 1 poderão ser providos a título definitivo e em qualquer momento, tendo, no entanto, de reunir as condições legais de promoção e provimento, no caso de exercício de funções correspondentes a categoria superior à sua.
+É permitida a permuta entre funcionários da mesma categoria e carreira com a anuência de ambos e autorização do Ministro de Estado e das Finanças e do Plano e dos secretários regionais competentes.
 
-Art. 10.º Os funcionários a que se refere o n.º 1 do artigo anterior têm direito, além das remunerações próprias das funções que vão exercer, aos seguintes abonos:
+###### Artigo 9.º
+
+1 - Os lugares dos mapas anexos a este diploma poderão ser preenchidos por funcionários do quadro da Direcção-Geral do Tribunal de Contas, mediante despacho do Ministro das Finanças, obtida a concordância do secretário regional competente, do presidente do Tribunal de Contas e dos interessados, da seguinte forma:
+
+a) O cargo de contador-chefe, em comissão de serviço, de entre contadores-chefes, técnicos superiores ou contadores-verificadores principais;
+
+b) Os lugares das várias carreiras, em comissão de serviço, de entre funcionários providos na mesma categoria ou na categoria imediatamente inferior.
+
+2 - A comissão de serviço referida no número anterior poderá manter-se enquanto vigorar o regime de instalação.
+
+3 - Sempre que o preenchimento do cargo de contador-chefe recaia em contadores-chefes que venham desempenhando o cargo em comissão de serviço, esta ficará suspensa, podendo as suas funções na Direcção-Geral do Tribunal de Contas ser asseguradas em regime de substituição.
+
+4 - Os funcionários que, nos termos do n.º 1, vão prestar serviço nas secções regionais poderão ser providos a título definitivo e em qualquer momento, tendo, no entanto, de reunir as condições legais de promoção e provimento, no caso de exercício de funções correspondentes a categoria superior à sua.
+
+> Alterado pelo/a [Decreto-Lei n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1986-195218), publicado em 1986-04-30.
+
+###### Artigo 10.º
+
+1 - Os funcionários a que se refere o n.º 1 do artigo anterior têm direito, além das remunerações próprias das funções que vão exercer, aos seguintes abonos:
 
 a) Um subsídio equivalente a 3 meses do vencimento do contador-geral, a pagar antes do embarque;
 
 b) Um subsídio de residência correspondente a um terço do vencimento base, após o primeiro trimestre de serviço.
 
-Art. 11.º - 1 - O pessoal colocado nas secções regionais poderá deslocar-se à Direcção-Geral do Tribunal de Contas para efeitos de estágio ou frequência de cursos de formação ou promoção, quando de tal deslocação não resultarem inconvenientes para o serviço.
+2 - Os encargos com os abonos referidos nas alíneas a) e b) do número anterior serão suportados por verbas do orçamento privativo do Cofre do Tribunal de Contas, mantendo-se quanto às restantes remunerações o regime em vigor para os funcionários da Direcção-Geral do Tribunal de Contas.
+
+> Alterado pelo/a [Decreto-Lei n.º 76/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-1986-195218), publicado em 1986-04-30.
+
+###### Artigo 11.º
+
+1 - O pessoal colocado nas secções regionais poderá deslocar-se à Direcção-Geral do Tribunal de Contas para efeitos de estágio ou frequência de cursos de formação ou promoção, quando de tal deslocação não resultarem inconvenientes para o serviço.
 
 2 - Quando não for conveniente a deslocação prevista no número anterior, podem ser nomeados monitores para leccionar, nas secções regionais, as matérias ministradas na Direcção-Geral do Tribunal de Contas, de modo a assegurar uniformidade na preparação técnica dos funcionários.
 
@@ -247,25 +300,37 @@ Art. 11.º - 1 - O pessoal colocado nas secções regionais poderá deslocar-se 
 
 5 - O pessoal referido no presente artigo tem direito, aquando das suas deslocações, a transporte e, durante o período de duração dos cursos ou estágios, a ajudas de custo.
 
-Art. 12.º - 1 - As vagas que não puderem ser preenchidas por não haver funcionários satisfazendo os requisitos legais que aceitem os lugares poderão ser providas, interinamente, pelos funcionários mais antigos de categoria imediatamente inferior, colocados nos serviços onde tais vagas se verifiquem.
+###### Artigo 12.º
+
+1 - As vagas que não puderem ser preenchidas por não haver funcionários satisfazendo os requisitos legais que aceitem os lugares poderão ser providas, interinamente, pelos funcionários mais antigos de categoria imediatamente inferior, colocados nos serviços onde tais vagas se verifiquem.
 
 2 - A situação prevista no número anterior termina quando houver funcionários satisfazendo os requisitos legais para o provimento das vagas que aceitem os lugares.
 
-Art. 13.º Os assessores das secções regionais perceberão, em conformidade com o disposto no artigo 28.º da [Lei n.º 23/81](https://diariodarepublica.pt/dr/detalhe/lei/23-1981-576494), uma gratificação mensal correspondente a 15% do vencimento base do contador-geral.
+###### Artigo 13.º
+
+Os assessores das secções regionais perceberão, em conformidade com o disposto no artigo 28.º da [Lei n.º 23/81](https://diariodarepublica.pt/dr/detalhe/lei/23-1981-576494), uma gratificação mensal correspondente a 15% do vencimento base do contador-geral.
 
 ### CAPÍTULO III — Dos conselhos administrativos e dos cofres das secções regionais
 
-Art. 14.º As secções regionais do Tribunal de Contas gozam de autonomia administrativa, sendo o respectivo conselho administrativo constituído pelo contador-geral, pelo contador-chefe responsável pelo serviço de secretaria, contabilidade e arquivo e pelo contador-chefe da contadoria de contas, que desempenharão as funções, respectivamente, de presidente, tesoureiro e secretário.
+###### Artigo 14.º
 
-Art. 15.º - 1 - Pelos serviços das secções regionais do Tribunal de Contas e sua contadoria-geral são devidos os emolumentos constantes na tabela anexa ao [Decreto-Lei n.º 356/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1973-421409), de 14 de Julho, com os valores actualizados pela aplicação do coeficiente 2 fixado no n.º 1 do artigo 18.º do [Decreto-Lei n.º 667/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/667-1976-430006), de 5 de Agosto.
+As secções regionais do Tribunal de Contas gozam de autonomia administrativa, sendo o respectivo conselho administrativo constituído pelo contador-geral, pelo contador-chefe responsável pelo serviço de secretaria, contabilidade e arquivo e pelo contador-chefe da contadoria de contas, que desempenharão as funções, respectivamente, de presidente, tesoureiro e secretário.
+
+###### Artigo 15.º
+
+1 - Pelos serviços das secções regionais do Tribunal de Contas e sua contadoria-geral são devidos os emolumentos constantes na tabela anexa ao [Decreto-Lei n.º 356/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1973-421409), de 14 de Julho, com os valores actualizados pela aplicação do coeficiente 2 fixado no n.º 1 do artigo 18.º do [Decreto-Lei n.º 667/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/667-1976-430006), de 5 de Agosto.
 
 2 - Dos processos relativamente aos quais os serviços sejam prestados constará sempre se são ou não devidos emolumentos e qual o seu quantitativo.
 
-Art. 16.º - 1 - São criados os cofres das secções regionais do Tribunal de Contas, dotados de autonomia administrativa e financeira, cuja administração compete ao conselho administrativo referido no artigo 14.º e será exercida com base em orçamento aprovado pelo secretário regional competente.
+###### Artigo 16.º
+
+1 - São criados os cofres das secções regionais do Tribunal de Contas, dotados de autonomia administrativa e financeira, cuja administração compete ao conselho administrativo referido no artigo 14.º e será exercida com base em orçamento aprovado pelo secretário regional competente.
 
 2 - Serão definidas por despacho do secretário regional competente as receitas a atribuir aos cofres, nomeadamente a percentagem dos emolumentos cobrados pela secção regional respectiva que lhe devam ser anualmente afectos, bem como os encargos que por aquele devem ser suportados.
 
-Art. 17.º - 1 - As importâncias percebidas nos termos do artigo 15.º serão entregues na delegação do Banco de Portugal por meio de guia em quintuplicado e escrituradas nas seguintes rubricas do orçamento das receitas da região autónoma:
+###### Artigo 17.º
+
+1 - As importâncias percebidas nos termos do artigo 15.º serão entregues na delegação do Banco de Portugal por meio de guia em quintuplicado e escrituradas nas seguintes rubricas do orçamento das receitas da região autónoma:
 
 a) Impostos indirectos:
 
@@ -287,15 +352,21 @@ Cofre da secção regional do Tribunal de Contas.
 
 3 - Um dos exemplares da guia a que se refere o n.º 1 será enviado à secção regional do Tribunal de Contas no prazo de 30 dias após o seu pagamento.
 
-Art. 18.º No orçamento da despesa de cada uma das regiões autónomas, sob o capítulo «Contas de ordem», existirá um artigo com a epígrafe seguinte:
+###### Artigo 18.º
+
+No orçamento da despesa de cada uma das regiões autónomas, sob o capítulo «Contas de ordem», existirá um artigo com a epígrafe seguinte:
 
 Cofre da secção regional do Tribunal de Contas.
 
-Art. 19.º - 1 - As alterações que no decurso de cada gerência houver necessidade de introduzir no orçamento dos cofres serão autorizadas por despacho do secretário regional competente, sob proposta do conselho administrativo.
+###### Artigo 19.º
+
+1 - As alterações que no decurso de cada gerência houver necessidade de introduzir no orçamento dos cofres serão autorizadas por despacho do secretário regional competente, sob proposta do conselho administrativo.
 
 2 - Os saldos anuais dos cofres transitarão para as gerências seguintes.
 
-Art. 20.º - 1 - O conselho administrativo prestará contas ao Tribunal de Contas.
+###### Artigo 20.º
+
+1 - O conselho administrativo prestará contas ao Tribunal de Contas.
 
 2 - As contas, quer da secção, quer do respectivo cofre, serão enviadas à Direcção-Geral do Tribunal de Contas até 31 de Maio do ano seguinte àquele a que respeitem, devendo igualmente ser enviados duplicados das mesmas à secretaria regional competente.
 
@@ -303,7 +374,9 @@ Art. 20.º - 1 - O conselho administrativo prestará contas ao Tribunal de Conta
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-Art. 21.º - 1 - A instalação material das secções regionais constitui encargo das regiões autónomas, competindo-lhes, nomeadamente:
+###### Artigo 21.º
+
+1 - A instalação material das secções regionais constitui encargo das regiões autónomas, competindo-lhes, nomeadamente:
 
 a) Promover a obtenção de instalações privativas;
 
@@ -313,25 +386,37 @@ b) Proceder à aquisição de equipamento e mobiliário.
 
 3 - O início do funcionamento das secções regionais no regime de instalação a que se refere o artigo 33.º da [Lei n.º 23/81](https://diariodarepublica.pt/dr/detalhe/lei/23-1981-576494), de 19 de Agosto, depende de verificação pelo presidente do Tribunal de Contas de que se encontram reunidas as condições materiais indispensáveis a tal funcionamento.
 
-Art. 22.º A comissão instaladora no período a que se refere o artigo 33.º da [Lei n.º 23/81](https://diariodarepublica.pt/dr/detalhe/lei/23-1981-576494) será constituída pelo juiz da secção regional e pelas entidades que irão constituir o conselho administrativo nos termos do artigo 14.º do presente decreto-lei.
+###### Artigo 22.º
 
-Art. 23.º - 1 - Durante o período de instalação, a dotação de pessoal será a constante dos mapas anexos ao presente diploma.
+A comissão instaladora no período a que se refere o artigo 33.º da [Lei n.º 23/81](https://diariodarepublica.pt/dr/detalhe/lei/23-1981-576494) será constituída pelo juiz da secção regional e pelas entidades que irão constituir o conselho administrativo nos termos do artigo 14.º do presente decreto-lei.
+
+###### Artigo 23.º
+
+1 - Durante o período de instalação, a dotação de pessoal será a constante dos mapas anexos ao presente diploma.
 
 2 - Os mapas referidos no número anterior poderão ser alterados, mediante proposta do juiz da secção regional que mereça a aprovação do secretário regional competente, por portaria do Ministro de Estado e das Finanças e do Plano.
 
-Art. 24.º - 1 - No período referido no artigo anterior poderá ser recrutado pessoal para a categoria de contador-verificador de 2.ª classe até ao limite das vagas existentes nas 3 categorias de contador-verificador, mediante contrato anual renovável, nos termos do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, tendo em atenção as habilitações literárias exigidas por lei.
+###### Artigo 24.º
+
+1 - No período referido no artigo anterior poderá ser recrutado pessoal para a categoria de contador-verificador de 2.ª classe até ao limite das vagas existentes nas 3 categorias de contador-verificador, mediante contrato anual renovável, nos termos do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, tendo em atenção as habilitações literárias exigidas por lei.
 
 2 - Poderão também ser admitidos, em comissão de serviço, por períodos de um ano renováveis, funcionários de quaisquer serviços públicos regionais que satisfaçam às exigências legais de habilitações literárias.
 
 3 - O recrutamento a que aludem os números anteriores será autorizado pelo secretário regional competente, sob proposta do contador-geral, obtida a concordância do juiz de secção.
 
-Art. 25.º - 1 - Findo o regime de instalação e organizados os mapas definitivos, o pessoal em exercício, contratado ou em comissão, com classificação de serviço não inferior a Bom, será provido em lugares correspondentes do quadro, mediante diploma de provimento, independentemente de quaisquer formalidades, salvo o visto da respectiva secção regional do Tribunal de Contas e a publicação no Diário da República e no jornal oficial da região.
+###### Artigo 25.º
+
+1 - Findo o regime de instalação e organizados os mapas definitivos, o pessoal em exercício, contratado ou em comissão, com classificação de serviço não inferior a Bom, será provido em lugares correspondentes do quadro, mediante diploma de provimento, independentemente de quaisquer formalidades, salvo o visto da respectiva secção regional do Tribunal de Contas e a publicação no Diário da República e no jornal oficial da região.
 
 2 - Ao pessoal que não obtiver a classificação de serviço referida no número anterior será dado por findo o respectivo contrato ou comissão.
 
-Art. 26.º Durante o período de instalação, é aplicável ao pessoal das secções regionais o disposto no artigo 27.º da [Lei n.º 23/81](https://diariodarepublica.pt/dr/detalhe/lei/23-1981-576494).
+###### Artigo 26.º
 
-Art. 27.º - 1 - Durante o período de instalação, a gestão da secção regional e do seu cofre compete à comissão instaladora.
+Durante o período de instalação, é aplicável ao pessoal das secções regionais o disposto no artigo 27.º da [Lei n.º 23/81](https://diariodarepublica.pt/dr/detalhe/lei/23-1981-576494).
+
+###### Artigo 27.º
+
+1 - Durante o período de instalação, a gestão da secção regional e do seu cofre compete à comissão instaladora.
 
 2 - À gestão referida no número precedente aplicar-se-ão, sempre que possível, as leis e regulamentos gerais da contabilidade pública.
 

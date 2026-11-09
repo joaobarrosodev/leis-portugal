@@ -37,10 +37,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-09-21'
+version_history:
+  file: regulamento-cmvm-7-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-09-21'
+    amending: pt:dre:2589066:por
+    amending_title: Regulamento n.º 67/2005
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -66,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:40:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Regulamento n.º 67/2005. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/regulamentos-cmvm/2004/regulamento-cmvm-7-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,7 +143,9 @@ Assim, ao abrigo da alínea v) do artigo 83.º do Regime Jurídico dos Organismo
 
 ###### Artigo 1.º — Âmbito
 
-O presente regulamento estabelece as regras de comercialização em Portugal dos organismos de investimento colectivo domiciliados em Estado membro da União Europeia, que obedeçam ao disposto na Directiva n.º 85/611/CEE, do Conselho, de 20 de Dezembro, mas cujo Estado membro de origem, ao abrigo do disposto no n.º 2 do artigo 2.º da Directiva n.º 2001/108/CE, do Parlamento Europeu e do Conselho, de 21 de Janeiro de 2002, permita transitoriamente a sua comercialização sem a aprovação de um prospecto simplificado.
+O presente regulamento define os requisitos informativos relativos à comercialização em Portugal de organismos de investimento colectivo em valores mobiliários, domiciliados em Estado membro da União Europeia, que obedeçam ao disposto na Directiva n.º 85/611/CEE, do Conselho, de 20 de Dezembro, e que até 30 de Setembro de 2005 não disponham de prospecto simplificado, elaborado nos termos desta directiva.
+
+> Alterado pelo/a [Regulamento n.º 67/2005](https://diariodarepublica.pt/dr/detalhe/regulamento/67-2005-2589066), publicado em 2005-09-21.
 
 ###### Artigo 2.º — Nota informativa complementar
 
@@ -163,11 +181,13 @@ o) Declaração em que se indique que o prospecto e os relatórios anual e semes
 
 p) Indicação de um contacto (pessoa ou serviço, horários, etc.) onde podem ser obtidos, se necessário, esclarecimentos adicionais.
 
-###### Artigo 3.º — Substituição da nota informativa complementar
+###### Artigo 3.º — Prospecto simplificado
 
-1 - As entidades comercializadoras de organismos de investimento colectivo que se encontrem nas condições previstas no artigo 1.º e cuja comunicação prévia para a respectiva comercialização em Portugal se efectuou ao abrigo do disposto no artigo 37.º do [Decreto-Lei n.º 276/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1994-621311), de 2 de Novembro, enviam à CMVM, até 31 de Dezembro de 2005, a nota informativa complementar alterada em conformidade com o estabelecido no artigo 2.º
+1 - Após 30 de Setembro de 2005, a comunicação à CMVM para efeitos de comercialização de organismos de investimento colectivo em valores mobiliários, efectuada nos termos do artigo 78.º do Regime Jurídico dos Organismos de Investimento Colectivo, aprovado pelo [Decreto-Lei n.º 252/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2003-476110), de 17 de Outubro, implica o envio do respectivo prospecto simplificado, elaborado nos termos do disposto na Directiva n.º 85/611/CEE, do Conselho, de 20 de Dezembro.
 
-2 - As entidades comercializadoras, cujos organismos de investimento colectivo domiciliados noutro Estado membro adoptem o prospecto simplificado, remetem o mesmo à CMVM para substituição da nota informativa complementar, no prazo de 30 dias após a respectiva aprovação pelas autoridades do Estado membro de origem.
+2 - Os organismos de investimento colectivo em valores mobiliários cuja comunicação prévia para a respectiva comercialização em Portugal tenha implicado a elaboração de uma nota informativa complementar, remetem à CMVM, até 31 de Dezembro de 2005, directamente ou através de uma entidade comercializadora, o prospecto simplificado, para efeitos de substituição da nota informativa complementar, enquanto documento de comercialização.
+
+> Alterado pelo/a [Regulamento n.º 67/2005](https://diariodarepublica.pt/dr/detalhe/regulamento/67-2005-2589066), publicado em 2005-09-21.
 
 ###### Artigo 4.º — Entrada em vigor
 

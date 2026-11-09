@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1967-04-15'
+version_history:
+  file: decreto-lei-46826.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1966-01-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1967-04-15'
+    amending: pt:dre:509834:por
+    amending_title: Decreto-Lei n.º 47643
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:55:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 47643. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1966/decreto-lei-46826.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,7 +133,9 @@ Tendo em vista o disposto nos artigos 1.º e 3.º do Decreto com força de lei n
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É instituído o Serviço Postal Militar (S. P. M.), a cargo do Ministério do Exército, destinado a apoiar as forças militares ou militarizadas sempre que, pelo mesmo Ministério, assim seja reconhecido necessário, com as atribuições seguintes:
+###### Artigo 1.º
+
+É instituído o Serviço Postal Militar (S. P. M.), a cargo do Ministério do Exército, destinado a apoiar as forças militares ou militarizadas sempre que, pelo mesmo Ministério, assim seja reconhecido necessário, com as atribuições seguintes:
 
 1) Movimentar todas as correspondências postais e telegráficas e todas as encomendas postais destinadas às tropas ou por elas expedidas, nos termos do presente diploma, e, no que nele não for expresso, em conformidade com as normas que disciplinam os monopólios do Estado atribuídos às Administrações dos CTT e dos CTTU;
 
@@ -127,11 +145,27 @@ Artigo 1.º É instituído o Serviço Postal Militar (S. P. M.), a cargo do Mini
 
 § único. Pode o Ministro do Exército, quando o entender conveniente, criar na metrópole um órgão de direcção e coordenação das actividades do S. P. M., com carácter de permanência, e assistido por pessoal técnico-postal, militarizado nas condições previstas nos artigos 5.º e 6.º deste diploma.
 
-Art. 2.º O S. P. M. exerce as suas actividades, tanto na metrópole como no ultramar ou estrangeiro, em cooperação estreita com a rede do serviço a cargo das Administrações dos CTT e dos CTTU, nas condições que forem acordadas entre os respectivos serviços.
+###### Artigo 2.º
 
-Art. 3.º Na execução dos serviços que lhe são cometidos, o S. P. M. procederá de acordo com o preceituado nos seus regulamentos privativos, os quais, porém, deverão subordinar-se, quanto possível, ao disposto nas leis e regulamentos em vigor nas Administrações dos CTT metropolitanos e ultramarinos, especialmente no que respeita à cooperação das respectivas redes, previstas no artigo anterior.
+O S. P. M. exerce as suas actividades, tanto na metrópole como no ultramar ou estrangeiro, em cooperação estreita com a rede do serviço a cargo das Administrações dos CTT e dos CTTU, nas condições que forem acordadas entre os respectivos serviços.
 
-Art. 4.º O S. P. M. depende do chefe do Estado-Maior do Exército, por intermédio do ajudante-general, e compreende:
+###### Artigo 3.º
+
+Na execução dos serviços que lhe são cometidos, o S. P. M. procederá de acordo com o preceituado nos seus regulamentos privativos, os quais, porém, deverão subordinar-se, quanto possível, ao disposto nas leis e regulamentos em vigor nas Administrações dos CTT metropolitanos e ultramarinos, especialmente no que respeita à cooperação das respectivas redes, previstas no artigo anterior.
+
+§ único. Serão suportadas pelos correios, telégrafos e telefones (CTT) e correios, telégrafos e telefones ultramarinos (CTTU) as indemnizações que, eventualmente, hajam de ser pagas aos remetentes ou destinatários das correspondências e encomendas simplesmente registadas e das cartas, caixas e encomendas registadas com valor declarado.
+
+Para o efeito, serão tidas em atenção as disposições aplicáveis dos respectivos regulamentos.
+
+Os órgãos postais militares (estações e postos), nestes casos, são considerados como delegações dos correios, telégrafos e telefones (CTT) ou dos correios, telégrafos e telefones ultramarinos (CTTU), quando se situem, respectivamente, na metrópole ou no ultramar.
+
+Este condicionalismo pode ser suspenso por despacho dos Ministros das Comunicações ou do Ultramar, conforme o caso.
+
+> Alterado pelo/a [Decreto-Lei n.º 47643](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47643-1967-509834), publicado em 1967-04-15.
+
+###### Artigo 4.º
+
+O S. P. M. depende do chefe do Estado-Maior do Exército, por intermédio do ajudante-general, e compreende:
 
 1) Como órgãos de direcção:
 
@@ -147,27 +181,47 @@ b) Os postos militares de correio e de trânsito de malas;
 
 c) As estações postais militares auto.
 
-Art. 5.º O S. P. M. é desempenhado por pessoal militar dos quadros permanentes ou de complemento ou por funcionários dos CTT e dos CTTU, convocados nos termos da segunda parte do n.º 2.º do artigo 24.º da [Lei n.º 1960](https://diariodarepublica.pt/dr/detalhe/lei/1960-1937-434591), de 1 de Setembro de 1937.
+###### Artigo 5.º
 
-Art. 6.º Os funcionários dos CTT e dos CTTU convocados para o S. P. M. são militarizados nos termos do [Decreto n.º 31495](https://diariodarepublica.pt/dr/detalhe/decreto/31495-1941-363947), de 1 de Setembro de 1941, e graduados de acordo com a correspondência entre os vários graus da hierarquia civil nos quadros dos correios, telégrafos e telefones metropolitanos ou seus equivalentes ultramarinos e a hierarquia militar, segundo o esquema que consta dos quadros anexos A e B.
+O S. P. M. é desempenhado por pessoal militar dos quadros permanentes ou de complemento ou por funcionários dos CTT e dos CTTU, convocados nos termos da segunda parte do n.º 2.º do artigo 24.º da [Lei n.º 1960](https://diariodarepublica.pt/dr/detalhe/lei/1960-1937-434591), de 1 de Setembro de 1937.
+
+###### Artigo 6.º
+
+Os funcionários dos CTT e dos CTTU convocados para o S. P. M. são militarizados nos termos do [Decreto n.º 31495](https://diariodarepublica.pt/dr/detalhe/decreto/31495-1941-363947), de 1 de Setembro de 1941, e graduados de acordo com a correspondência entre os vários graus da hierarquia civil nos quadros dos correios, telégrafos e telefones metropolitanos ou seus equivalentes ultramarinos e a hierarquia militar, segundo o esquema que consta dos quadros anexos A e B.
 
 § 1.º Sem prejuízo das necessidades do serviço, as convocações dos funcionários dos CTT e dos CTTU que não sejam para lugares de chefia devem limitar-se a funcionários cuja graduação militar corresponda aos postos de aspirante a oficial e de furriel.
 
 § 2.º Os funcionários dos CTT e dos CTTU convocados para o S. P. M. têm acesso, por graduação, aos postos imediatos, em condições a estabelecer por portaria do Ministro do Exército.
 
-Art. 7.º Os funcionários dos CTT e dos CTTU convocados nos termos do presente decreto-lei ficam obrigados a prestar serviço no S. P. M. durante um primeiro período de quatro anos, findo o qual, se não fizerem falta ao Serviço e se não se encontrarem em comissão no ultramar, poderão regressar à sua anterior situação nos CTT e nos CTTU, se assim o requererem. Em caso contrário, manter-se-ão no S. P. M. por períodos renováveis de dois anos.
+###### Artigo 7.º
+
+Os funcionários dos CTT e dos CTTU convocados nos termos do presente decreto-lei ficam obrigados a prestar serviço no S. P. M. durante um primeiro período de quatro anos, findo o qual, se não fizerem falta ao Serviço e se não se encontrarem em comissão no ultramar, poderão regressar à sua anterior situação nos CTT e nos CTTU, se assim o requererem. Em caso contrário, manter-se-ão no S. P. M. por períodos renováveis de dois anos.
 
 § único. A obrigatoriedade do tempo previsto no corpo deste artigo é válida enquanto permanecerem as condições de interesse para o Exército nesse sentido.
 
-Art. 8.º Os encargos com a manutenção do S. P. M. no ultramar e com órgãos de execução e de apoio técnico na metrópole são liquidados pela dotação global das forças militares extraordinárias no ultramar.
+###### Artigo 8.º
 
-Art. 9.º Os encargos com elementos de direcção e coordenação previstos no § único do artigo 1.º serão suportados por verba a inscrever no orçamento do Ministério do Exército.
+Os encargos com a manutenção do S. P. M. no ultramar e com órgãos de execução e de apoio técnico na metrópole são liquidados pela dotação global das forças militares extraordinárias no ultramar.
 
-Art. 10.º Os encargos com a actividade do S. P. M. no aspecto de apoio às tropas nacionais ou estrangeiras, derivado das obrigações do âmbito da Organização do Tratado do Atlântico Norte, serão suportados por verba a inscrever no Orçamento Suplementar de Defesa.
+§ único. O disposto no corpo deste artigo não se aplica ao material normalizado destinado aos órgãos militares, que poderá ser cedido gratuitamente pelos correios, telégrafos e telefones (CTT) ou pelos correios, telégrafos e telefones ultramarinos (CTTU) mediante acordo a estabelecer com o serviço postal militar.
 
-Art. 11.º Consideram-se legais para todos os efeitos as despesas realizadas até ao presente com o funcionamento do S. P. M.
+> Alterado pelo/a [Decreto-Lei n.º 47643](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47643-1967-509834), publicado em 1967-04-15.
 
-Art. 12.º A organização e funcionamento do S. P. M., bem como a distribuição do pessoal pelos diversos cargos, são fixados por portaria do Ministro do Exército.
+###### Artigo 9.º
+
+Os encargos com elementos de direcção e coordenação previstos no § único do artigo 1.º serão suportados por verba a inscrever no orçamento do Ministério do Exército.
+
+###### Artigo 10.º
+
+Os encargos com a actividade do S. P. M. no aspecto de apoio às tropas nacionais ou estrangeiras, derivado das obrigações do âmbito da Organização do Tratado do Atlântico Norte, serão suportados por verba a inscrever no Orçamento Suplementar de Defesa.
+
+###### Artigo 11.º
+
+Consideram-se legais para todos os efeitos as despesas realizadas até ao presente com o funcionamento do S. P. M.
+
+###### Artigo 12.º
+
+A organização e funcionamento do S. P. M., bem como a distribuição do pessoal pelos diversos cargos, são fixados por portaria do Ministro do Exército.
 
 Publique-se e cumpra-se como nele se contém.
 

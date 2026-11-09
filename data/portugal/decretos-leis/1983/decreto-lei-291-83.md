@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-07-29'
+version_history:
+  file: decreto-lei-291-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-06-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-07-29'
+    amending: pt:dre:381568:por
+    amending_title: Decreto-Lei n.º 250/84
+    changes:
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:52:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 250/84. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1983/decreto-lei-291-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,11 +150,17 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º Os serviços de apoio aos Gabinetes dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira, cujos quadros únicos foram criados pelos Decretos-Leis n.os [414/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1978-325159) e [415/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1978-325168), ambos de 20 de Dezembro, passam a ter as atribuições constantes do presente diploma.
+###### Artigo 1.º
 
-Art. 2.º Os serviços de apoio compreendem o sector de administração, contabilidade e documentação e o sector de conservação e economato.
+Os serviços de apoio aos Gabinetes dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira, cujos quadros únicos foram criados pelos Decretos-Leis n.os [414/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1978-325159) e [415/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1978-325168), ambos de 20 de Dezembro, passam a ter as atribuições constantes do presente diploma.
 
-Art. 3.º As atribuições do sector de administração, contabilidade e documentação são:
+###### Artigo 2.º
+
+Os serviços de apoio compreendem o sector de administração, contabilidade e documentação e o sector de conservação e economato.
+
+###### Artigo 3.º
+
+As atribuições do sector de administração, contabilidade e documentação são:
 
 a) Assegurar o expediente e contabilidade do Gabinete do Ministro da República e dos serviços de apoio;
 
@@ -157,7 +178,9 @@ g) Movimentar o fundo permanente, bem como a organização dos respectivos proce
 
 h) Coordenar os elementos necessários à preparação do projecto do orçamento anual.
 
-Art. 4.º As atribuições do sector de conservação e economato, que fica à responsabilidade do encarregado das instalações, são:
+###### Artigo 4.º
+
+As atribuições do sector de conservação e economato, que fica à responsabilidade do encarregado das instalações, são:
 
 a) Assegurar a administração, conservação e guarda das instalações do Gabinete e residência do Ministro da República, assim como de todos os bens;
 
@@ -165,11 +188,17 @@ b) Promover a organização, registo e escrituração do cadastro dos bens e do 
 
 c) Proceder à aquisição dos bens e serviços necessários à conservação, limpeza das instalações e funcionamento dos serviços.
 
-Art. 5.º Os serviços serão coordenados e orientados pelo chefe de gabinete, que submeterá a despacho do Ministro da República os assuntos que careçam de decisão superior.
+###### Artigo 5.º
 
-Art. 6.º Os serviços de apoio dispõem do pessoal constante do quadro anexo ao presente diploma.
+Os serviços serão coordenados e orientados pelo chefe de gabinete, que submeterá a despacho do Ministro da República os assuntos que careçam de decisão superior.
 
-Art. 7.º - 1 - Nos serviços de apoio ao Gabinete do Ministro da República para a Região Autónoma da Madeira, os 2 funcionários que ocupam os lugares de operador de telecomunicações, que agora são extintos, serão providos nos lugares de técnico auxiliar, mediante despacho do Ministro da República, visado pelo Tribunal de Contas, em letra igual à que possuem, contando-se o tempo de serviço prestado no actual lugar para efeitos de progressão na referida carreira.
+###### Artigo 6.º
+
+Os serviços de apoio dispõem do pessoal constante do quadro anexo ao presente diploma.
+
+###### Artigo 7.º
+
+1 - Nos serviços de apoio ao Gabinete do Ministro da República para a Região Autónoma da Madeira, os 2 funcionários que ocupam os lugares de operador de telecomunicações, que agora são extintos, serão providos nos lugares de técnico auxiliar, mediante despacho do Ministro da República, visado pelo Tribunal de Contas, em letra igual à que possuem, contando-se o tempo de serviço prestado no actual lugar para efeitos de progressão na referida carreira.
 
 2 - Salvo a alteração referida no número anterior, a transição do pessoal para os novos lugares do quadro far-se-á, na situação em que se encontre provido, sem necessidade de qualquer formalidade e com respeito pelas habilitações legais exigíveis:
 
@@ -177,9 +206,17 @@ a) Para categoria idêntica à que o funcionário já possui;
 
 b) Para categoria correspondente às funções que o funcionário ou agente actualmente desempenha, remunerada pela mesma letra de vencimento ou letra de vencimento imediatamente superior, quando não se verifique coincidência de remuneração.
 
-Art. 8.º O provimento dos lugares vagos no quadro será efectuado mediante provas de selecção a definir por despacho do Ministro da República respectivo, nos termos dos n.os 1 e 2 do artigo 2.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e demais legislação complementar.
+3 - Os funcionários já providos há mais de 5 anos nas categorias de encarregado das instalações e de mordomo, às quais são atribuídas novas letras de vencimento, transitam para o novo quadro por despacho do Ministro da República, visado pelo Tribunal de Contas, com dispensa das habilitações literárias exigíveis.
 
-Art. 9.º No provimento dos lugares vagos nos quadros dos serviços de apoio aos Gabinetes dos Ministros da República para as Regiões Autónomas fica dispensada a observância das disposições do artigo 7.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861) e do artigo 2.º do [Decreto-Lei n.º 166/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1982-392862), ambos de 10 de Maio.
+> Alterado pelo/a [Decreto-Lei n.º 250/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/250-1984-381568), publicado em 1984-07-24.
+
+###### Artigo 8.º
+
+O provimento dos lugares vagos no quadro será efectuado mediante provas de selecção a definir por despacho do Ministro da República respectivo, nos termos dos n.os 1 e 2 do artigo 2.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, e demais legislação complementar.
+
+###### Artigo 9.º
+
+No provimento dos lugares vagos nos quadros dos serviços de apoio aos Gabinetes dos Ministros da República para as Regiões Autónomas fica dispensada a observância das disposições do artigo 7.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861) e do artigo 2.º do [Decreto-Lei n.º 166/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1982-392862), ambos de 10 de Maio.
 
 Visto e aprovado em Conselho de Ministros de 5 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - Alípio Barrosa Pereira Dias - António Jorge de Figueiredo Lopes.
 

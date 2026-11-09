@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-12-24'
+version_history:
+  file: decreto-regulamentar-63-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-11-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-12-24'
+    amending: pt:dre:563608:por
+    amending_title: Decreto Regulamentar n.º 43/90
+    changes:
+    - Altera Artigo 17.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:13:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 43/90. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1986/decreto-regulamentar-63-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -535,9 +550,11 @@ b) Promover, através da transferência de tecnologia, a divulgação e incremen
 
 ###### Artigo 17.º — Núcleos de apoio administrativo
 
-1 - As divisões das zonas agrárias dispõem de núcleos de apoio administrativo, na dependência do respectivo chefe de zona, coadjuvado por um oficial administrativo, tendo como atribuições assegurar as tarefas de natureza administrativa, financeira e patrimonial necessárias ao desenvolvimento das actividades da zona agrária.
+1 - As divisões das zonas agrárias dispõem de núcleos de apoio administrativo, orientados por chefes de secção, directamente dependentes do respectivo chefe de zona, competindo-lhes assegurar a execução das tarefas de natureza administrativa, designadamente no âmbito da administração do pessoal, financeira, patrimonial e geral necessárias ao desenvolvimento das actividades das zonas agrárias.
 
 2 - Junto do Centro de Estudos Vitivinícolas do Douro, sediado na Régua, funciona uma secção administrativa.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 43/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1990-563608), publicado em 1990-12-19.
 
 ###### Artigo 18.º — Unidades experimentais e centros de formação técnico-profissional
 

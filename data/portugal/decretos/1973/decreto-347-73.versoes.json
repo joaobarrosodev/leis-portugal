@@ -1,0 +1,1238 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:421599:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1973-07-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "53465156498fcc9d",
+    "ff4e3da3f56b61df",
+    "48cbcca464e8e5ce",
+    "090e2be245090edf",
+    "46b3bc143e89df85",
+    "434145b453ed6b1f",
+    "b7f9ae404b6bbc43",
+    "b5888c87db5b7f53",
+    "836cdb8d81b1c5d5",
+    "2c7120f026de258a",
+    "3f755d7992ce741c",
+    "0c5d2834d2cb81e1",
+    "e4f2aaa8d57867fc",
+    "a95b247829c5b907"
+   ]
+  },
+  {
+   "date": "1974-12-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:467069:por",
+     "title": "Decreto n.º 707/74",
+     "published": "1974-12-10",
+     "dre_path": "/dr/detalhe/decreto/707-1974-467069"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 64.º"
+   ],
+   "fragments": [
+    "53465156498fcc9d",
+    "ff4e3da3f56b61df",
+    "d26c3e04a487e36e",
+    "65790d462937db7c",
+    "846997cd77920345",
+    "f1bf4223dd9d3203",
+    "813c51d5b19f395a",
+    "9f1b36a7d8e272fa",
+    "1ab134d5834970b8",
+    "bc648d7a40c9e849",
+    "60540a70c0c98af5",
+    "61019923573f740d",
+    "c4b26b1fca85ff31",
+    "ba1e55ccbe5b1e93",
+    "7597064e2344bc31",
+    "90213c58d455d958",
+    "f38a9839069d70f1",
+    "a460d95ad97f6db0",
+    "9d526888c643c780",
+    "e65003165ca590cf",
+    "99305d0bff59592f",
+    "4196e76f6d222548",
+    "f16a413d712c5d2a",
+    "acb9fd13b50346b2",
+    "9cd2cb12fdb454c7",
+    "dc666da188f85483",
+    "5b25c21db2e4508a",
+    "fd63de9ed3cf2975",
+    "644eef172816cc65",
+    "a78ebed4866e50f5",
+    "5e641602d1097c9c",
+    "66b3023a3cf353c8",
+    "3fb97d711f8f45d7",
+    "09dab0c009a64052",
+    "c881bb73a26a7fe5",
+    "a53a258bbaea9c39",
+    "588c0968fb798dbf",
+    "80613fce71d64ff8",
+    "7ee716dbc87d22e6",
+    "7b7ee6d5b848d22a",
+    "545769b87a0faaab",
+    "a44c31494c5bc778",
+    "28a457eac1659aa4",
+    "4df9a4d34e3d097e",
+    "d935ca4f8f41979a",
+    "457f6d8755f9eb8b",
+    "b4a5a0502daafe41",
+    "23c8128396285bd7",
+    "d51a177789982864",
+    "301d60490e1b2c6e",
+    "00a7f077c972072a",
+    "1e1457e533d3865f",
+    "790763c782ab51e1",
+    "73915f5634259350",
+    "ec2d1027a25a4604",
+    "37500ef9a597794a",
+    "4f7c6b69e6d9479a",
+    "3edd3546f700f237",
+    "cd8697210a4fbf8a",
+    "eb5e56def1d4aa06",
+    "fd2043143cb802d7",
+    "020dfef2bcf5d8fa",
+    "9feb86f7b6eef0ea",
+    "d0d456cb2dec2cc9",
+    "19fb63f439c84e35",
+    "485c187a9c7d839a",
+    "ff50f7eb66bc3113",
+    "a149cf9d107f7ec8",
+    "366cfa17cd9c8ccc",
+    "8d0fbb0ce95783dd",
+    "fd856c2257327cf9",
+    "836cdb8d81b1c5d5",
+    "e8681000fa06bfda",
+    "8cbae733686b6ae3",
+    "fa62fa54efe20a06",
+    "ca1807d340446ebd",
+    "6268cf176967fdd2",
+    "a4d5dec622231fea",
+    "9ee1bd75a61d7568",
+    "47067e511f23aba7",
+    "2797b7d259bf5190",
+    "6c4ef914d3eb5ea4",
+    "b20341280f905464",
+    "c181a3587e3f2762",
+    "2e4dc59641ae79bb",
+    "c1248f5b9388b88d",
+    "9ef6eb69f2acc711",
+    "28ad205199d9c337",
+    "0e37f495e0609ac8",
+    "3c28cc085eaf11a7",
+    "0a40beab09d7b0eb",
+    "0da96b66f7e57ac3",
+    "9e108da018c966d5",
+    "4d59ac176e1fe56f",
+    "00aa03b4eac59832",
+    "ce509b394e4b1d3a",
+    "b800df7693ad57f3",
+    "18d2e53b4d7154bd",
+    "24b63a3058d1b481",
+    "21c2db6a73a11647",
+    "c6d9e5ed486f489d",
+    "a072d8b989ae4973",
+    "6aa78fe516466343",
+    "64c1f51e6b0651f3",
+    "665ce90db66e7841",
+    "d92260314cc309f6",
+    "02ebaff098a19f09",
+    "8b8cced64276d59b",
+    "eef0e681165b5246",
+    "8c555910f4456da1",
+    "9f7b978c7dc6c6b7",
+    "12cc299d422d6857",
+    "ff70adade2b3104f",
+    "88cc3b53d4a30fd2",
+    "c7b8c343cc10787b",
+    "22e3f68bd413b5f2",
+    "5946011d757ca1be",
+    "72daf9ed8d6cd0d8",
+    "0a1dea66aba03637",
+    "47f5fe6f5767fff4",
+    "6f699b97a89505f6",
+    "fb9829f8093b1a11"
+   ]
+  }
+ ],
+ "fragments": {
+  "53465156498fcc9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Julho\n\nTendo em vista o disposto nos artigos 6.º e 9.º do [Decreto-Lei n.º 320/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1973-421074), de 28 de Junho;\n\nUsando da faculdade conferida, pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "ff4e3da3f56b61df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Organização e competência dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Organização e competência dos serviços"
+  },
+  "48cbcca464e8e5ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Secretaria-Geral\n\nArtigo 1.º A Secretaria-Geral do Ministério do Interior é um órgão de estudo, planeamento, coordenação e apoio técnico-administrativo, incumbido especialmente:\n\na) De realizar os estudos e trabalhos que lhe forem cometidos pelo Ministro do Interior, com vista ao aperfeiçoamento dos serviços do Ministério e à coordenação das respectivas actividades;\n\nb) De promover a aplicação, no âmbito do Ministério, das providências de reforma administrativa, de harmonia com as determinações legais e a orientação da Presidência do Conselho;\n\nc) De se pronunciar, quando o Ministro o determinar, sobre os projectos de diplomas legais submetidos à apreciação do mesmo Ministro;\n\nd) De proporcionar as notícias e esclarecimentos respeitantes aos vários departamentos do Ministério, necessários para que se assegure informação pública verídica;\n\ne) De organizar, nos termos da lei, os processos sobre pedidos de naturalização e de reaquisição de nacionalidade;\n\nf) De promover a instrução dos processos sobre pedidos de reconhecimento a nacionais do Brasil da igualdade de direitos e deveres relativamente a portugueses;\n\ng) De assegurar o expediente relativo à legalização de associações, nos casos em que a respectiva competência pertença ao Ministro do Interior;\n\nh) De dar andamento a tudo quanto se refira à concessão de mercês honoríficas por proposta do Ministro;\n\ni) De se desempenhar das demais funções atribuídas por lei.\n\nArt. 2.º Para prosseguimento das suas atribuições, compete especialmente à Secretaria-Geral:\n\n1.º Funcionar como elo de ligação e de coordenação entre todos os serviços dependentes do Ministério, com ou sem autonomia;\n\n2.º Manter em ordem o registo da legislação que interesse aos serviços do Ministério;\n\n3.º Colaborar, segundo as determinações do Ministro, no estudo ou revisão de projectos de diplomas que respeitem aos vários organismos do Ministério;\n\n4.º Promover a aplicação, relativamente aos organismos do Ministério, das providências de ordem geral que pelo Governo sejam aprovadas no sentido da gradual realização da reforma administrativa;\n\n5.º Fazer executar as leis, regulamentos e ordens respeitantes ao serviço, mantendo a regularidade necessária à boa execução dos trabalhos;\n\n6.º Transmitir aos organismos e serviços dependentes do Ministério as normas e instruções da Presidência do Conselho, do Ministro ou do secretário-geral;\n\n7.º Superintender na instalação dos serviços no edifício central do Ministério e na aquisição e conservação do mobiliário e utensílios destinados ao Gabinete do Ministro e à Secretaria-Geral;\n\n8.º Assegurar o expediente do Gabinete do Ministro, do Serviço de Repressão da Mendicidade e da Comissão Consultiva de Estatística;\n\n9.º Assegurar o expediente relativo ao provimento, transferência, promoção, licenças, aposentação, exoneração ou demissão e processos disciplinares do pessoal afecto à Secretaria-Geral e, bem assim, o que se refira à nomeação e exoneração do pessoal do Gabinete do Ministro;\n\n10.º Lavrar os termos de posse dos magistrados ou funcionários quando a lei estabelecer que tais actos se realizem perante o Ministro ou o secretário-geral;\n\n11.º Assegurar o expediente relativo à publicação dos decretos-leis, decretos e demais diplomas, que não for da exclusiva competência de qualquer outro organismo do Ministério;\n\n12.º Requisitar à Imprensa Nacional e, promover a distribuição, consoante as necessidades, pelos governos civis e pela Direcção-Geral de Segurança, dos impressos destinados à emissão de passaportes, nos termos da respectiva legislação;\n\n13.º Proceder à classificação, catalogação e guarda dos livros e papéis existentes no arquivo e biblioteca do Ministério;\n\n14.º Elaborar o inventário do mobiliário e utensílios afectos à Secretaria-Geral e ao Gabinete do Ministro;\n\n15.º Assegurar o expediente relativo a telefones de todos os serviços do Ministério e dele dependentes e das residências dos funcionários;\n\n16.º Prestar à 3.ª Repartição da Direcção-Geral da Contabilidade Pública todos os esclarecimentos precisos para a elaboração do orçamento do Gabinete do Ministro e da Secretaria-Geral;\n\n17.º Assegurar o expediente relativo à aprovação dos modelos de cartões de identidade emitidos por associações, institutos ou empresas, nas condições estabelecidas por portaria do Ministro do Interior;\n\n18.º Assegurar o expediente relativo à concessão de medalhas de serviços distintos de segurança pública aos agentes da Polícia de Segurança Pública, Guarda Nacional Republicana e Direcção-Geral de Segurança;\n\n19.º Assegurar o expediente relativo à junta médica do Ministério;\n\n20.º Assegurar o expediente relativo a pedidos de suprimento de autorização paternal para deslocações ao estrangeiro;\n\n21.º Superintender na disciplina geral, polícia e economia do Ministério;\n\n22.º Proceder à recepção, registo e distribuição da correspondência destinada ao Gabinete do Ministro, à Secretaria-Geral e aos serviços a que alude o n.º 8.º, bem como ao registo e arquivo de cópia da correspondência expedida pelos referidos serviços, adoptando livro ou livros do modelo que, para o efeito, for aprovado;\n\n23.º Assegurar a execução de todo o expediente dactilográfico, tiragem de fotocópias e trabalhos de natureza semelhante, respeitantes aos assuntos afectos aos mesmos serviços;\n\n24.º Assegurar o arquivo geral dos processos que tenham corrido seus termos nos serviços referidos nos dois números anteriores, logo que tais processos deixem de se considerar pendentes;\n\n25.º Executar tudo o mais que as leis e regulamentos determinarem e o que não for da competência exclusiva das direcções-gerais ou outros serviços dependentes do Ministério.\n\nArt. 3.º Os serviços da Secretaria-Geral correm por uma divisão, que comportará duas secções: a dos serviços administrativos e a do expediente geral.\n\nArt. 4.º Os serviços da Secretaria-Geral serão distribuídos por cada uma das secções, conforme for determinado pelo secretário-geral, competindo, porém, em especial, à secção de expediente geral a execução de expediente dactilográfico e extracção de fotocópias e o registo, distribuição e arquivo de correspondência.\n\nArt. 5.º Compete especialmente ao secretário-geral:\n\n1.º Exercer, de harmonia com a lei e as indicações do Ministro, a representação do Ministério;\n\n2.º Superintender nos serviços da Secretaria-Geral, promover o seu regular andamento, resolvendo todas as dúvidas que lhe forem apresentadas pelos seus subordinados, e dar cumprimento aos despachos ministeriais;\n\n3.º Submeter a despacho ministerial os processos que dele careçam, informando-os e emitindo parecer, por escrito, sobre a decisão que deverá ser tomada;\n\n4.º Assinar contratos e autorizar despesas, nos termos legais;\n\n5.º Conferir posse aos funcionários da Secretaria-Geral;\n\n6.º Promover a instauração de processos disciplinares e propor louvores aos funcionários seus subordinados;\n\n7.º Coordenar os diversos serviços do Ministério, emitindo, em nome do Ministro, as instruções que se tornarem necessárias;\n\n8.º Elaborar os projectos de diplomas legislativos, portarias e relatórios de que for incumbido pelo Ministro;\n\n9.º Ordenar a publicação dos diplomas que tiverem de ser inseridos no Diário do Governo e assinar os anúncios expedidos pela Secretaria-Geral;\n\n10.º Assinar a correspondência expedida pela Secretaria-Geral;\n\n11.º Mandar passar certidões, independentemente de despacho do Ministro, excepto nos casos do n.º 2 do artigo 103.º;\n\n12.º Executar tudo o mais que as leis e regulamentos expressamente lhe cometerem ou que for decorrência lógica do normal desempenho das suas funções.\n\nArt. 6.º O secretário-geral é substituído, nas suas faltas e impedimentos, pelo funcionário que o Ministro designar.\n\nArt. 7.º Compete ao chefe de divisão:\n\n1.º Dar cumprimento às ordens e instruções do Ministro e do secretário-geral, velando pela sua fiel observância;\n\n2.º Coordenar, dirigir e fiscalizar os trabalhos da Secretaria-Geral e distribuir o serviço pelas secções segundo as instruções do secretário-geral;\n\n3.º Assinar as certidões e cópias autênticas que o Ministro ou o secretário-geral mandarem passar;\n\n4.º Conservar sob a sua guarda o selo da Secretaria-Geral;\n\n5.º Prestar toda a cooperação ao secretário-geral, dando-lhe conhecimento imediato de tudo quanto possa influir no funcionamento dos serviços e sugerindo-lhe as providências que reputar convenientes;\n\n6.º Encerrar o livro de ponto, conservando-o à sua guarda, e considerar justificadas ou não as faltas dos funcionários;\n\n7.º Organizar índice alfabético e por assuntos da legislação respeitante aos serviços do Ministério;\n\n8.º Informar e emitir parecer, por escrito, em todos os processos que tiverem de ser submetidos a despacho do secretário-geral ou do Ministro;\n\n9.º Velar pela boa ordem do serviço do arquivo e da biblioteca;\n\n10.º Executar tudo o mais que, na forma da lei, lhe for determinado.\n\nArt. 8.º O chefe de divisão é substituído nas suas faltas e impedimentos por técnico ou chefe de secção designado pelo secretário-geral.\n\nArt. 9.º Compete aos chefes de secção coadjuvar o chefe de divisão, emitindo os pareceres e prestando as informações convenientes à boa ordem dos serviços, e velar pela pronta execução dos serviços e pela disciplina do pessoal deles dependente.\n\nArt. 10.º - 1. Será mantida a organização da biblioteca, onde se processará a classificação, catalogação e guarda de todos os livros e outras publicações existentes e daquelas que, por oferta ou compra, derem entrada nos vários serviços do Ministério, com excepção das colecções do Diário do Governo e exemplares de códigos e outros livros necessários aos mesmos serviços, que nestes serão guardados.\n\n2. Far-se-á um registo diário das entradas de livros e outras publicações, com a nota da proveniência, casa editora e data da edição.\n\n3. Da biblioteca poderão sair livros, revistas ou quaisquer outras publicações mediante requisição do modelo aprovado para o efeito, assinada por qualquer das entidades designadas no n.º 4.º do artigo 97.º, ficando o requisitante civil e disciplinarmente responsável pela sua restituição.\n\n4. Das publicações a que se refere o número anterior, e designadamente daquelas que se consideram de utilização permanente nos vários serviços, haverá registos especiais respeitantes a cada um dos referidos serviços.\n\nArt. 11.º Compete ao bibliotecário-arquívista:\n\n1.º Arrumar, catalogar e manter à sua guarda todos os documentos, papéis, livros e outras publicações que lhe forem remetidos pelos diversos departamentos do Ministério;\n\n2.º Lançar diariamente, com o respectivo número, em livro a esse fim destinado, a nota de todos os livros e restantes publicações que derem entrada na biblioteca, nos quais aporá o mesmo número de ordem;\n\n3.º Satisfazer as requisições de livros e documentos que lhe forem dirigidas, anotando em livro próprio as entradas e saídas;\n\n4.º Praticar todos os demais actos de que for incumbido pelo secretário-geral ou pelo chefe da divisão.\n\nArt. 12.º A fim de auxiliar o bibliotecário-arquivista na execução dos serviços a seu cargo, será destacado um funcionário de carteira e um contínuo."
+  },
+  "090e2be245090edf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Auditoria Jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Auditoria Jurídica\n\nArt. 13.º A Auditoria Jurídica é exercida por um ajudante do procurador-geral da República, designado pelo Ministro da Justiça, após consulta ao Ministro do Interior.\n\nArt. 14.º Compete à Auditoria Jurídica:\n\n1.º Emitir pareceres e elaborar os estudos jurídicos que lhe sejam determinados pelo Ministro do Interior;\n\n2.º Prestar aos serviços do Ministério apoio de carácter jurídico, segundo as directrizes do Ministro do Interior."
+  },
+  "46b3bc143e89df85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Direcção-Geral de Administração Local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Direcção-Geral de Administração Local\n\nArt. 15.º A Direcção-Geral de Administração Local é um órgão de estudo, coordenação e apoio técnico-administrativo, incumbido, em especial:\n\na) De realizar estudos e trabalhos com vista à actualização e ao aperfeiçoamento da gestão e dos serviços das autarquias locais;\n\nb) De exercer inspecção sobre os corpos administrativos e os serviços das autarquias locais e de colaborar com o Governo em tudo quanto respeite à sua superintendência na administração local autárquica e à coordenação desta com a Administração Central;\n\nc) De superintender nos serviços dos governos civis e das administrações dos bairros de Lisboa e do Porto;\n\nd) De superintender em tudo quanto se relacione com os recenseamentos e os actos eleitorais, em conformidade com a lei;\n\ne) De se desempenhar das demais funções que lhe estiverem cometidas por lei.\n\nArt. 16.º - 1. A Direcção-Geral de Administração Local compreende:\n\na) Direcção de Serviços de Administração Local;\n\nb) Direcção de Serviços de Gestão do Pessoal e de Expediente Geral;\n\nc) Gabinete de Estudos de Administração Local;\n\nd) Inspecção Administrativa.\n\n2. Junto da Direcção-Geral funciona o Conselho Nacional dos Serviços de Incêndios, de acordo com a respectiva legislação especial.\n\nArt. 17.º Compete ao director-geral:\n\n1.º Exercer, relativamente aos serviços da Direcção-Geral, as funções prescritas no artigo 5.º, com excepção dos seus n.os 1.º e 7.º;\n\n2.º Propor as reformas e regulamentos que julgar convenientes;\n\n3.º Manter o Ministro informado das deficiências e irregularidades que se verifiquem na gerência e nos serviços das autarquias locais;\n\n4.º Designar os funcionários que hão-de prestar serviço em cada um dos departamentos da Direcção-Geral;\n\n5.º Determinar, em caso de dúvida, quais os serviços que cabem a cada uma das direcções.\n\nArt. 18.º O director-geral é substituído, nas suas faltas ou impedimentos, pelo funcionário que designar, de categoria não inferior à de director de serviços."
+  },
+  "434145b453ed6b1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Direcções de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Direcções de serviços\n\nArt. 19.º Compete à Direcção de Serviços de Adnistração Local:\n\n1.º Dar andamento ao expediente relativo à divisão administrativa do País;\n\n2.º Proceder à instrução e ao exame dos processos sobre deliberações dos corpos administrativos sujeitas a intervenção do Ministro do Interior;\n\n3.º Promover a resolução dos assuntos que respeitem às autarquias locais;\n\n4.º Pronunciar-se, em matéria da sua competência, sobre as consultas formuladas pelos corpos administrativos ou pelos governos civis e propor a expedição de instruções tendentes à boa execução das leis e à uniformidade da sua interpretação;\n\n5.º Instruir os processos respeitantes a sugestões, queixas ou reclamações dos administrados que visem a gerência das autarquias locais e o funcionamento dos seus serviços;\n\n6.º Prover ao expediente do Conselho Nacional dos Serviços de Incêndios;\n\n7.º Examinar os orçamentos elaborados pelas câmaras municipais, federações de municípios, juntas gerais dos distritos autónomos e juntas distritais, chamando a atenção para as irregularidades verificadas;\n\n8.º Executar tudo o mais que, por lei ou determinação do director-geral, lhe seja confiado.\n\nArt. 20.º Compete à Direcção de Serviços de Gestão de Pessoal e Expediente Geral:\n\n1.º Assegurar o expediente relativo à nomeação e exoneração de magistrados administrativos e sobre provimento, transferência, promoção, licenças e aposentação de funcionários;\n\n2.º Lavrar termos de posse dos funcionários;\n\n3.º Organizar o cadastro e registo biográfico dos magistrados administrativos, do pessoal dirigente, técnico, administrativo e auxiliar afecto à Direcção-Geral e dos funcionários do quadro geral administrativo dos serviços externos, com todas as indicações necessárias sobre a sua identificação, mérito e demérito, e elaborar as listas de antiguidade dos mesmos funcionários;\n\n4.º Assegurar o expediente relativo a concursos para o preenchimento de lugares do quadro único e do quadro geral administrativo dos serviços externos, bem como dos lugares dos quadros privativos dos governos civis dos distritos do continente e das administrações dos bairros de Lisboa e Porto;\n\n5.º Executar quanto se refira a processos relacionados com os quadros privativos das autarquias locais;\n\n6.º Assegurar o expediente sobre processos de autorização de acumulação de cargos;\n\n7.º Elaborar e manter actualizado o inventário do mobiliário e utensílios afectos aos serviços da Direcção-Geral e cuidar da respectiva aquisição e conservação;\n\n8.º Prestar à 3.ª Repartição da Direcção-Geral da Contabilidade Pública os esclarecimentos necessários para elaboração do orçamento da Direcção-Geral;\n\n9.º Assegurar os serviços de contabilidade e economato da Direcção-Geral;\n\n10.º Pronunciar-se, em matéria da sua competência, sobre as consultas formuladas pelos corpos administrativos ou pelos governos civis e propor a expedição de instruções tendentes à boa execução das leis e à uniformidade da sua interpretação;\n\n11.º Promover a instrução dos processos sobre garantia administrativa;\n\n12.º Assegurar o expediente respeitante à intervenção da Direcção-Geral nos recenseamentos eleitorais e nas eleições do Chefe do Estado, da Assembleia Nacional e dos corpos administrativos;\n\n13.º Emitir parecer sobre os orçamentos dos cofres privativos dos governos civis;\n\n14.º Executar tudo o mais que, por lei ou por determinação do director-geral, lhe seja confiado.\n\nArt. 21.º Compete especialmente aos directores de serviços:\n\n1.º Coadjuvar o director-geral no desempenho das suas funções, dando-lhe conhecimento imediato de tudo quanto possa influir no funcionamento dos serviços, prestar-lhe toda a cooperação e sugerir-lhe as providências que reputarem convenientes;\n\n2.º Superintender nos serviços da Direcção, promovendo o seu regular andamento, a resolução de todas as dúvidas que lhes forem apresentadas pelos seus subordinados e o cumprimento dos despachos do director-geral;\n\n3.º Conferir posse aos funcionários da respectiva Direcção, de categoria não superior à de primeiro-oficial;\n\n4.º Promover a instauração de processos disciplinares e propor louvores aos funcionários seus subordinados;\n\n5.º Emitir parecer nos processos que devam submeter à apreciação do director-geral, ainda que já estejam informados por funcionários seus subordinados, podendo, no entanto, limitar-se a manifestar, por escrito, a sua concordância com os pareceres e informações destes;\n\n6.º Assegurar a representação da Direcção-Geral ou do Ministério em comissões de estudo ou grupos de trabalho para que forem designados;\n\n7.º Praticar quaisquer outros actos para que tenham recebido delegação do director-geral;\n\n8.º Executar tudo o mais de que forem incumbidos pelo director-geral.\n\nArt. 22.º Nas suas faltas e impedimentos, cada director de serviços será substituído pelo chefe de divisão que designar, com o acordo do director-geral.\n\nArt. 23.º Os serviços de cada uma das direcções repartir-se-ão por divisões, conforme despacho do Ministro, sob proposta do director-geral.\n\nArt. 24.º Compete aos chefes de divisão:\n\n1.º Exercer, relativamente à respectiva divisão, as funções prescritas no artigo 7.º e nos n.os 1.º e 5.º do artigo 21.º, com as necessárias adaptações;\n\n2.º Prover ao expediente relativo à elaboração e publicação de diplomas legais, despachos e instruções;\n\n3.º Executar tudo o mais de que forem incumbidos pelo director-geral ou pelo respectivo director de serviços.\n\nArt. 25.º Nas suas faltas e impedimentos, cada chefe de divisão será substituído pelo funcionário mais antigo da classe imediatamente inferior da respectiva divisão."
+  },
+  "b7f9ae404b6bbc43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Gabinete de Estudos de Administração Local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Gabinete de Estudos de Administração Local\n\nArt. 26.º O Gabinete de Estudos de Administração Local destina-se à investigação, estudo, informação e difusão das matérias relacionadas com a gestão das autarquias locais, à formação e ao aperfeiçoamento dos seus dirigentes e funcionários e à recolha e análise dos elementos destinados à realização daqueles objectivos.\n\nArt. 27.º Sem prejuízo da competência estabelecida para a Inspecção Administrativa e demais serviços da Direcção-Geral de Administração Local, a organização do Gabinete de Estudos será utilizada com vista à solução dos problemas gerais de carácter jurídico, administrativo, social e económico da vida local.\n\nArt. 28.º - 1. As funções do Gabinete de Estudos serão exercidas, fundamentalmente, nos seguintes domínios da administração local:\n\na) Formação e aperfeiçoamento profissional dos funcionários dos governos civis e das autarquias locais;\n\nb) Métodos de trabalho, simplificação de serviços e técnicas de gestão científica;\n\nc) Coordenação de actividades locais, nos domínios da informática, mediante a criação de programas de utilização geral;\n\nd) Recolha de dados que permitam, depois de refundidos, elaborar estudos de administração comparada nos diversos sectores das autarquias;\n\ne) Promoção de estudos tendentes ao aperfeiçoamento da administração local.\n\n2. A actuação a que se referem as alíneas a) e b) do número anterior poderá tornar-se extensiva ao pessoal e aos serviços da Secretaria-Geral e da Direcção-Geral.\n\nArt. 29.º Para o exercício das suas atribuições, compete ao Gabinete de Estudos proceder, por iniciativa própria ou por determinação do director-geral, aos estudos, inquéritos ou trabalhos de outra natureza sobre qualquer das matérias indicadas no artigo anterior e, nomeadamente:\n\n1.º Emitir parecer acerca dos projectos de diplomas relativos à organização administrativa das autarquias locais;\n\n2.º Fomentar e coordenar as actividades de organização e métodos no domínio da administração local;\n\n3.º Fomentar a criação e coordenar as actividades de centros mecanográficos ou de informática, nos termos adiante especificados;\n\n4.º Organizar cursos, seminários, colóquios e conferências sobre temas ligados à administração local;\n\n5.º Recolher elementos estatísticos sobre as diversas actividades dos corpos administrativos e seus serviços municipalizados ou federados;\n\n6.º Promover a criação de um boletim periódico de informação das actividades locais, tendente à difusão das matérias que interessem à organização científica das autarquias locais;\n\n7.º Encarregar-se da elaboração e publicação do Anuário da Direcção-Geral de Administração Local, recolhendo e coligindo os elementos necessários;\n\n8.º Orientar e coordenar a recolha de elementos com vista à preparação de manuais práticos de procedimento administrativo para uso dos serviços burocráticos;\n\n9.º Assegurar a ligação com serviços estrangeiros similares, tendo em vista o conhecimento das medidas adoptadas nos países respectivos, relativamente ao aperfeiçoamento da administração local autárquica;\n\n10.º Promover a realização de missões e visitas, no País ou no estrangeiro, para o estudo dos assuntos referidos na alínea anterior e, bem assim, para a frequência de cursos a eles respeitantes;\n\n11.º Estudar as medidas, em geral, que visem a racionalização ou simplificação burocrática dos serviços dos organismos locais, tendo em vista a sua maior eficiência e produtividade, bem como a comodidade do público.\n\nArt. 30.º - 1. O Gabinete de Estudos deverá manter estreita colaboração com os corpos administrativos, de modo a actuar conforme as realidades da vida administrativa local.\n\n2. Com vista à realização dos objectivos a que alude o número anterior, o Gabinete de Estudos deverá tomar conhecimento dos relatórios elaborados pelos serviços da Inspecção Administrativa e fornecer a estes as conclusões e os dados estatísticos recolhidos, de interesse geral ou específico.\n\nArt. 31.º - 1. A chefia do Gabinete de Estudos será confiada a um inspector superior administrativo, competindo-lhe, designadamente:\n\n1.º Assumir a responsabilidade pela gestão directa do Gabinete de Estudos e pela chefia do seu pessoal;\n\n2.º Elaborar o plano e relatório anual de actividades para serem submetidos à apreciação do Ministro do Interior, com referência especial, no segundo daqueles documentos, ao mérito demonstrado pelos funcionários adstritos ao serviço.\n\n2. Em caso de ausência ou impedimento, o director será substituído por funcionário designado pelo director-geral.\n\nArt. 32.º Tendo em conta a eficiência dos serviços e a especialização do pessoal, o Gabinete de Estudos de Administração Local será organizado com vista ao desempenho das seguintes actividades:\n\na) Actividades mecanográficas e de informática;\n\nb) Documentação, estatística e publicações;\n\nc) Gestão financeira e económica;\n\nd) Estudos jurídicos.\n\nArt. 33.º No domínio das actividades mecanográficas caberá, em geral, ao Gabinete de Estudos fomentar o estabelecimento de centros de informática e orientar e programar o seu funcionamento, tendo em vista o planeamento, à escala nacional, das várias actividades locais relacionadas com aquelas matérias, evitar a duplicação de tarefas e obter a integral utilização respectiva.\n\nArt. 34.º Para o cumprimento destes objectivos incumbe-lhe, em especial:\n\n1.º A realização de estudos económicos e técnicos, com vista à criação de novos centros mecanográficos;\n\n2.º A elaboração de programas e de rotinas administrativas de aplicação comum, com destino aos centros mecanográficos ao serviço da administração local autárquica;\n\n3.º A elaboração de programas para aproveitamento de dados indispensáveis à gestão ou dos que se tornem necessários ao contrôle dos serviços;\n\n4.º A preparação e aperfeiçoamento do pessoal técnico e administrativo destinado aos centros mecanográficos;\n\n5.º A coordenação das actividades dos vários centros distritais ou regionais, tendo em vista a uniformização dos sistemas e dos métodos de trabalho nos domínios da mecanografia e informática.\n\nArt. 35.º - 1. O Gabinete de Estudos poderá requisitar a colaboração de qualquer dos centros mecanográficos estabelecidos, quer para a preparação ou estágio do pessoal de outros serviços locais, quer para realização de experiências que se julguem de utilidade.\n\n2. Sempre que o movimento dos estudos e de preparação do pessoal o aconselhem, poderá também o Gabinete adquirir ou alugar equipamentos que se tornem indispensáveis para a realização dos objectivos descritos no número anterior.\n\n3. O centro assim criado prestará o apoio que for julgado útil, tendente à mecanização dos processos burocráticos ou de estatística das direcções de serviços da Direcção-Geral de Administração Local, nomeadamente os relacionados com os sistemas de arquivo de processos e demais documentos, tratamento de dados eleitorais e gestão de pessoal.\n\nArt. 36.º No domínio da documentação, estatística e publicações o Gabinete de Estudos ocupar-se-á, especialmente, das seguintes matérias:\n\n1.º Administração e formação de um fundo bibliográfico e documental, por meio de aquisição de publicações de interesse geral e difusão de informações-resumo acerca dos temas ali contidos;\n\n2.º Recolha, junto das entidades locais, dos documentos e informações que convenha centralizar e eventualmente comunicar a outros organismos interessados;\n\n3.º Edição de todas as publicações do Gabinete de Estudos e, em especial, do seu boletim de informações, assim como do Anuário da Direcção-Geral de Administração Local;\n\n4.º Formação, com carácter periódico, de elementos estatísticos respeitantes à administração local, recolhendo e ordenando os dados necessários e refundindo-os em documentos susceptíveis de ulterior publicação e difusão.\n\nArt. 37.º - 1. No domínio da gestão financeira e económica incumbirá ao Gabinete de Estudos a investigação e o estudo dos processos relativos à teorização ou simplificação dos orçamentos e contabilidade dos corpos administrativos e seus serviços municipalizados ou federados, tendo em consideração, quanto a estes, a necessidade de procurar meios de trabalho e de gestão compatíveis com a sua natureza.\n\n2. Cumprir-lhe-á ainda o desenvolvimento dos estudos relacionados com as modernas técnicas de gestão científica aplicadas às empresas privadas e sua possível adaptação ao sector industrial das autarquias locais.\n\nArt. 38.º - 1. No domínio dos estudos jurídicos incumbe ao Gabinete de Estudos desenvolver os conhecimentos relacionados com o direito administrativo e a compilação dos diplomas emanados de outros sectores públicos que estejam em relação com as autarquias locais.\n\n2. Compete-lhe, igualmente, organizar e manter actualizada uma secção de biblioteca sobre direito político e administrativo e ciência da administração e coligir elementos para o estudo comparativo da legislação nacional com a legislação estrangeira.\n\nArt. 39.º O director-geral poderá, sob proposta do director do Gabinete de Estudos, destacar inspectores administrativos para ali prestarem serviço.\n\nArt. 40.º O Gabinete de Estudos organizará cursos periódicos de formação ou aperfeiçoamento de pessoal, de acordo com as categorias respectivas, podendo o Ministro do Interior determinar que a sua frequência se torne obrigatória para certos funcionários ou constitua condição necessária para admissão a concursos.\n\nArt. 41.º - 1. Os cursos a que alude o artigo anterior constarão de uma parte prática e outra teórica.\n\n2. A primeira, a realizar nas direcções de serviços da Direcção-Geral de Administração Local, visará promover contacto amplo dos funcionários com os problemas das autarquias locais submetidos à apreciação do Ministério do Interior, em ordem a desenvolver nos mesmos a experiência de vários casos em situações múltiplas.\n\n3. A parte teórica, que será, em regra, ministrada pelos chefes de divisão em serviço no Gabinete de Estudos ou por outros funcionários qualificados, visará o aperfeiçoamento dos participantes nos campos do direito administrativo e da organização dos serviços e gestão das autarquias.\n\n4. Será sempre levado em conta, na classificação dos funcionários, o aproveitamento por eles demonstrado durante a frequência dos cursos a que aludem os números anteriores.\n\n5. Os funcionários chamados a frequentar cursos de aperfeiçoamento ou que neles sejam autorizados a participar terão direito à totalidade dos vencimentos, tal como se estivessem no exercício do cargo, e, bem assim, às ajudas de custo e abonos para transportes, nos termos legais.\n\nArt. 42.º O Gabinete de Estudos disporá de secretaria privativa, pela qual correrá o expediente respeitante aos assuntos que lhe devam estar afectos."
+  },
+  "b5888c87db5b7f53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Inspecção Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Inspecção Administrativa\n\nArt. 43.º A inspecção do Ministério do Interior sobre os corpos administrativos exerce-se, conforme o disposto no Código Administrativo e no presente diploma, por intermédio da Inspecção Administrativa, à qual incumbe ainda, em estreita cooperação com os demais serviços da Direcção-Geral de Administração Local, nomeadamente o Gabinete de Estudos de Administração Local, a função de orientar com regularidade os órgãos e serviços da administração autárquica local.\n\nArt. 44.º - 1. Compete, em especial, à Inspecção Administrativa:\n\n1.º Averiguar quais as necessidades públicas mais instantes cuja satisfação pertence às autarquias e dar parecer sobre o grau de urgência das obras e melhoramentos, colocando em primeiro plano as de carácter sanitário e de fomento;\n\n2.º Verificar quais os obstáculos que se tenham oposto à realização dessas obras e melhoramentos e contribuir para que sejam removidos;\n\n3.º Orientar os presidentes dos corpos administrativos sobre a ordem de resolução dos problemas, quando estes forem interdependentes, e sobre as diligências a fazer e as formalidades a cumprir para obter o que, desde logo, se afigurar viável sob os aspectos económicos e financeiros;\n\n4.º Sugerir o modo de obter novos rendimentos ou elevar os existentes, tendo em vista a capacidade económica local, quando se verifique que para as obras e melhoramentos necessários não bastam os recursos actuais, mesmo com a participação do Estado;\n\n5.º Conhecer o modo como são aplicadas as disposições legais em vigor e as ordens e instruções superiores;\n\n6.º Prestar aos presidentes e funcionários das autarquias locais os esclarecimentos necessários para boa ordem dos serviços, remédio das deficiências ou irregularidades encontradas e para o estudo e resolução dos problemas de administração local;\n\n7.º Receber as queixas que lhe sejam apresentadas e conhecer dos seus fundamentos;\n\n8.º Informar acerca da competência e zelo dos funcionários do quadro geral administrativo, utilizando, para o efeito, boletim de modelo uniforme e devidamente aprovado, e propor a instauração de processos disciplinares.\n\n2. As informações a que se refere o n.º 8.º versarão os seguintes pontos:\n\na) Actividade e zelo do funcionário;\n\nb) Saber revelado no desempenho das funções;\n\nc) Método e pontualidade na execução do serviço;\n\nd) Assiduidade, licenças e doenças;\n\ne) Comportamento moral e civil;\n\nf) Qualidades de direcção ou chefia;\n\ng) Espírito de disciplina revelado na execução das ordens e instruções;\n\nh) Castigos e louvores;\n\ni) Aumento da sua cultura geral e especial;\n\nj) Relações sociais;\n\nl) Decoro externo;\n\nm) Espírito de iniciativa e de colaboração com os seus superiores e sentimento das responsabilidades.\n\n3. Tendo em vista as informações prestadas pela Inspecção Administrativa, o serviço dos funcionários será classificado pelo Ministro, sob proposta do director-geral, de Muito bom, Bom, Suficiente, Sofrível ou Mau.\n\nArt. 45.º Compete ao Ministro do Interior despachar os processos instruídos pela Inspecção Administrativa e ordenar as sindicâncias, inquéritos e processos disciplinares que hajam de ser instaurados pela mesma.\n\nArt. 46.º - 1. Na sua função de superintendência nos serviços da Inspecção Administrativa, compete especialmente ao director-geral:\n\n1.º Organizar e dirigir os serviços da Inspecção, orientando e fiscalizando a acção dos seus subordinados;\n\n2.º Emitir parecer sobre o relatório dos processos;\n\n3.º Distribuir pelos seus subordinados os serviços de inspecção, sindicâncias, inquéritos e processos disciplinares, bem como os serviços de visita para simples orientação dos órgãos e serviços da administração local autárquica;\n\n4.º Elaborar relatório anual sobre o funcionamento dos serviços;\n\n5.º Dar conhecimento ao Ministro das deficiências encontradas nos serviços e dos incidentes ocorridos na actividade da Inspecção, propondo o que entender conveniente ao bom funcionamento dos mesmos serviços;\n\n6.º Aprovar os modelos de questionário a preencher pelos funcionários encarregados das visitas de inspecção ou orientação e estabelecer as normas que devem ser adoptadas na organização dos processos;\n\n7.º Desempenhar as demais funções que por lei ou determinação superior lhe sejam cometidas.\n\n2. O director-geral pode designar um dos inspectores superiores administrativos para exercer, com carácter de permanência, as suas funções na sede, ficando o mesmo com a incumbência de o coadjuvar nos trabalhos de coordenação dos serviços da Inspecção e de transmitir aos demais funcionários da Inspecção Administrativa as ordens e instruções superiores, além de lhe competir a fiscalização regular dos trabalhos a cargo da Inspecção, bem como do pessoal administrativo que lhe esteja afecto.\n\n3. Ao funcionário designado nos termos do número anterior compete ainda exercer, por delegação do director-geral, todos ou alguns dos poderes a que se referem os n.os 2.º, 4.º e 6.º do n.º 1 deste artigo, sem prejuízo da faculdade, que ao director-geral assiste, de fazer idêntica delegação em qualquer dos outros inspectores superiores.\n\nArt. 47.º - 1. Compete, em geral, aos inspectores superiores administrativos:\n\n1.º Coadjuvar o director-geral no exercício da respectiva competência, executando as suas ordens e observando as suas instruções;\n\n2.º Elaborar os relatórios das visitas de inspecção, sindicâncias, inquéritos e processos disciplinares de que hajam sido incumbidos;\n\n3.º Dar conhecimento ao director-geral de todos os factos que possam interessar à Inspecção Administrativa ou à própria Direcção-Geral;\n\n4.º Exercer a competência delegada a que se refere o n.º 3 do artigo antecedente;\n\n5.º Velar pela disciplina dos inspectores administrativos de 1.ª e 2.ª classes;\n\n6.º Desempenhar as demais funções que, por lei ou por determinação do Ministro ou do director-geral, lhes sejam cometidas.\n\n2. Nos casos de vacatura do cargo de director de serviços ou de impedimento do seu titular, podem as respectivas funções ser confiadas pelo Ministro, por proposta do director-geral, a um inspector superior administrativo.\n\nArt. 48.º Compete, exclusivamente, aos inspectores superiores administrativos realizar as visitas de inspecção, sindicâncias e inquéritos aos órgãos e serviços das câmaras municipais dos concelhos de Lisboa e Porto e urbanos de 1.ª ordem.\n\nArt. 49.º Compete aos inspectores administrativos de 1.ª classe:\n\n1.º Coadjuvar os inspectores superiores administrativos;\n\n2.º Elaborar os relatórios das visitas de inspecção que forem chamados a efectuar;\n\n3.º Prestar na Direcção-Geral o serviço que lhes for determinado;\n\n4.º Cumprir as ordens e instruções que lhes forem dadas, em matéria de serviço, pelo director-geral ou pelos inspectores superiores administrativos.\n\nArt. 50.º Os inspectores administrativos de 1.ª classe podem ser incumbidos do desempenho de funções idênticas às que competem, quanto ao serviço externo, aos inspectores superiores administrativos, sem prejuízo do disposto no artigo 48.º\n\nArt. 51.º Compete aos inspectores administrativos de 2.ª classe:\n\n1.º Coadjuvar os inspectores superiores administrativos ou os inspectores administrativos de 1.ª classe;\n\n2.º Prestar na Direcção-Geral o serviço que lhes for determinado;\n\n3.º Cumprir as ordens e instruções que lhes forem dadas, em matéria de serviço, pelo director-geral ou demais superiores hierárquicos.\n\nArt. 52.º As inspecções são ordinárias e extraordinárias: as primeiras são determinadas pelo director-geral; as segundas dependem de ordem do Ministro.\n\nArt. 53.º - 1. O director-geral fixará, em cada caso, o prazo dentro do qual a inspecção ou outro serviço deva concluir-se.\n\n2. Só com autorização do Ministro poderá qualquer serviço exceder o prazo de noventa dias.\n\n3. A inobservância dos prazos fixados será punida com a reposição das ajudas de custo, independentemente do procedimento disciplinar a que houver lugar.\n\nArt. 54.º Os inspectores superiores administrativos e os inspectores administrativos de 1.ª classe podem, quando no exercício das suas funções e se as circunstâncias o exigirem, determinar a imediata comparência ao serviço de qualquer funcionário, fazendo-o interromper a licença para férias que, porventura, esteja a gozar.\n\nArt. 55.º Nos processos de inspecção não devem, em regra, ser ouvidas testemunhas nem tomadas declarações.\n\nArt. 56.º Os factos irregulares susceptíveis de implicar procedimento disciplinar devem ser desde logo participados superiormente.\n\nArt. 57.º Os funcionários da Inspecção deverão proceder, em todas as circunstâncias, de modo a salvaguardar o prestígio e a autoridade dos órgãos das autarquias locais.\n\nArt. 58.º Os inspectores podem ser incumbidos de realizar sindicâncias ou inquéritos respeitantes aos serviços da Direcção-Geral, da Secretaria-Geral ou dos governos civis e de instruir processos disciplinares em que sejam arguidos os respectivos funcionários.\n\nArt. 59.º É proibido, em especial, aos inspectores:\n\n1.º Aceitar hospedagem em casa de funcionários dos corpos administrativos ou componentes dos órgãos das autarquias locais;\n\n2.º Revelar a qualquer pessoa estranha aos serviços os factos de que tomarem conhecimento no exercício das suas funções;\n\n3.º Ausentar-se do concelho onde se encontrem sem autorização do director-geral.\n\nArt. 60.º - 1. No final da inspecção, o funcionário que a dirigir elaborará relatório sucinto que verse todas as matérias indicadas no artigo 44.º, n.os 1 e 2, e as mais que constarem das instruções que lhe forem transmitidas, devendo chamar a atenção para os pontos que justifiquem providências de ordem geral ou particular.\n\n2. Os relatórios, com os respectivos processos, darão entrada na secretaria da Inspecção até vinte dias depois de terminada inspecção ou outro serviço, se prazo diferente não tiver sido especialmente fixado pelo director-geral.\n\n3. O disposto no número anterior aplica-se aos processos de sindicância e de inquérito.\n\nArt. 61.º Os funcionários da Inspecção Administrativa, quando se encontrem a prestar serviço externo, perceberão ajudas de custo e subsídios de transporte em 1.ª classe, podendo utilizar automóvel próprio, tudo nas condições estabelecidas na lei geral aplicável.\n\nArt. 62.º A Inspecção Administrativa terá secretaria privativa, pela qual correrá o expediente respeitante aos assuntos que lhe devam estar afectos.\n\nArt. 63.º Na secretaria da Inspecção Administrativa proceder-se-á ao registo de ordens de serviço, processos, pareceres e despachos, bem como ao de outros documentos ou actos que o director-geral repute conveniente."
+  },
+  "836cdb8d81b1c5d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Pessoal"
+  },
+  "2c7120f026de258a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais e condições de provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais e condições de provimento\n\nArt. 64.º - 1. O lugar de director-geral de Administração Local será provido, por escolha do Presidente do Conselho e do Ministro do Interior, de entre licenciados em Direito com reconhecida capacidade para o desempenho das respectivas funções.\n\n2. O director-geral de Administração Local desempenhará, por inerência, as funções de secretário-geral do Ministério.\n\nArt. 65.º - 1. Os lugares de inspector superior administrativo, director de serviços e chefe de divisão serão providos, por escolha do Ministro do Interior, entre diplomados com curso superior adequado ao exercício das respectivas funções e que satisfaçam, em especial, às condições seguintes:\n\na) Inspector superior administrativo - director de serviços, chefe de divisão, inspector administrativo de 1.ª classe ou técnico de 1.ª classe do quadro interno, ou funcionário da 1.ª categoria do quadro geral dos serviços externos da Direcção-Geral de Administração Local;\n\nb) Director de serviços - chefe de divisão, inspector administrativo de 1.ª classe ou técnico de 1.ª classe do quadro interno, ou funcionário da 1.ª categoria do quadro geral dos serviços externos da Direcção-Geral de Administração Local;\n\nc) Chefe de divisão - inspector administrativo de 1.ª classe ou técnico de 1.ª classe do quadro interno, ou funcionário da 1.ª categoria do quadro geral dos serviços externos da Direcção-Geral de Administração Local.\n\n2. Quando se verifique a impossibilidade ou inconveniência de o provimento se efectuar entre indivíduos que satisfaçam às condições do número anterior, poderá a nomeação recair em diplomado com curso superior adequado de reconhecida competência.\n\nArt. 66.º - 1. A nomeação para os lugares de inspector administrativo de 2.ª classe será feita, por escolha do Ministro do Interior, entre diplomados com curso superior adequado.\n\n2. A nomeação poderá também recair em funcionário de categoria não inferior a primeiro-oficial com boas informações e mais de dez anos de serviço no quadro único ou no quadro geral administrativo dos serviços externos da Direcção-Geral.\n\nArt. 67.º - 1. O provimento dos lugares de inspector administrativo de 1.ª classe far-se-á, por escolha do Ministro do Interior, entre os inspectores administrativos de 2.ª classe diplomados com curso superior, podendo também recair em licenciados em Direito com a classificação mínima de Bom.\n\n2. Neste último caso, a nomeação será feita nos termos dos artigos 70.º ou 71.º do presente diploma.\n\nArt. 68.º - 1. Os lugares de chefe de secção serão providos, por escolha do Ministro do Interior, entre funcionários do quadro único ou do quadro geral administrativo dos serviços externos da Direcção-Geral com mais de três anos de bom e efectivo serviço em categoria não inferior à de primeiro-oficial, ou entre diplomados com curso superior.\n\n2. Neste último caso, a nomeação será feita nos termos dos artigos 70.º ou 71.º do presente diploma.\n\nArt. 69.º - 1. Os lugares de técnico auxiliar de 2.ª classe serão providos, por escolha do Ministro, entre indivíduos que possuam cursos de formação das escolas técnicas apropriadas ou o 2.º ciclo liceal ou habilitação equiparada.\n\n2. O provimento dos lugares de técnico auxiliar de 1.ª classe far-se-á, por escolha do Ministro, entre os técnicos auxiliares de 2.ª classe.\n\nArt. 70.º - 1. A nomeação para os cargos a que se referem os artigos 65.º e 66.º e o n.º 1 do artigo 69.º terá carácter provisório durante dois anos, prorrogáveis por mais um ano.\n\n2. Findo o período inicial ou o da sua prorrogação, o funcionário será provido definitivamente, se tiver revelado aptidão, ou exonerado, no caso contrário.\n\nArt. 71.º - 1. Os funcionários do Estado ou das autarquias locais que exerçam, sem provimento definitivo, qualquer dos cargos abrangidos pelo artigo anterior consideram-se em comissão de serviço, aplicando-se aos funcionários administrativos o regime prescrito no artigo 522.º do Código Administrativo.\n\n2. O tempo de serviço prestado contar-se-á, para todos os efeitos, como se o fosse em cargo da classe a que pertençam no quadro de origem ou para a qual hajam sido aprovados no respectivo concurso.\n\n3. A nomeação poderá converter-se em definitiva após um ano de bom e efectivo serviço.\n\n4. Enquanto se conservarem em regime de comissão, podem os funcionários regressar ao quadro de origem na categoria ou classe que tinham ou naquela que tenham obtido posteriormente.\n\n5. Se a comissão cessar por decisão ministerial e não existir vaga onde o funcionário possa ser provido, ou até que o provimento se efectue, passará este a prestar serviço em qualquer departamento do Ministério do Interior ou do Ministério ou da autarquia local donde proveio, conforme decisão do Ministro do Interior, de acordo, quando for caso disso, com o Ministro respectivo.\n\n6. No decurso dessa situação, o funcionário terá direito ao vencimento correspondente à sua categoria, a cargo do departamento onde prestar serviço ou, se tal não for possível, a cargo da Direcção-Geral ou da Secretaria-Geral, conforme os casos.\n\n7. Tratando-se de funcionário do quadro geral administrativo dos serviços externos da Direcção-Geral, será considerado opositor obrigatório aos concursos de provimento posteriores à data do respectivo despacho.\n\nArt. 72.º O provimento dos cargos de técnicos de 1.ª classe e técnicos de 2.ª classe far-se-á nos mesmos termos prescritos para provimento dos cargos de inspectores administrativos de 1.ª e 2.ª classes.\n\nArt. 73.º O lugar de bibliotecário-arquivista será provido, mediante concurso documental, de entre indivíduos com as habilitações legalmente exigíveis.\n\nArt. 74.º - 1. Os lugares de primeiro-oficial e segundo-oficial serão providos mediante concurso de provas escritas, de entre funcionários da classe imediatamente inferior.\n\n2. Excluem-se do preceituado no número anterior os funcionários com menos de três anos de bom e efectivo serviço na classe a que pertençam.\n\n3. Não poderão ser admitidos a concurso para os lugares de primeiro-oficial os funcionários que não possuam a habilitação do 2.º ciclo liceal ou equiparada.\n\n4. Se o concurso ficar deserto ou o número de candidatos aprovados for insuficiente para preencher todas as vagas existentes e não se julgar conveniente recorrer ao provimento por funcionários da classe correspondente do quadro geral administrativo dos serviços externos ou por indivíduos aprovados no respectivo concurso de habilitação, abrir-se-á novo concurso, a que poderão ser admitidos os funcionários da classe imediatamente inferior, independentemente do tempo de serviço a que se refere o n.º 2 deste artigo.\n\nArt. 75.º - 1. Os lugares de terceiro-oficial e de escriturário-dactilógrafo serão providos mediante concurso de provas escritas, nos termos da lei geral.\n\n2. Se o concurso para o cargo de terceiro-oficial ficar deserto ou o número de candidatos aprovados for insuficiente para preencher todas as vagas existentes, poderá o provimento efectuar-se, por escolha, entre funcionários da classe correspondente do quadro geral administrativo dos serviços externos da Direcção-Geral ou indivíduos habilitados no respectivo concurso.\n\nArt. 76.º Em igualdade de classificação nos concursos constituem preferências para o provimento:\n\na) A prestação de serviço militar, nos termos legalmente prescritos;\n\nb) Maiores habilitações literárias;\n\nc) Ter exercido funções públicas, ainda que interinamente, por contrato ou por assalariamento a título permanente;\n\nd) Mais tempo de serviço no exercício das funções a que se refere a alínea anterior.\n\nArt. 77.º Os funcionários pertencentes ao quadro comum da Secretaria-Geral e da Direcção-Geral podem ser transferidos, a todo o tempo, mediante despacho do Ministro, de um para outro dos referidos serviços.\n\nArt. 78.º - 1. Quando a nomeação der ingresso no quadro e o nomeado não for funcionário com provimento definitivo, o provimento terá carácter provisório durante dois anos, prorrogáveis por mais um ano.\n\n2. Findo o período inicial ou o da sua prorrogação, a nomeação poderá ser convertida em definitiva, sob proposta do secretário-geral ou do director-geral, conforme o quadro de que se trate, fundamentada na qualidade do serviço. Se a nomeação não for convertida em definitiva, o funcionário será exonerado.\n\nArt. 79.º Haverá um fiel de 1.ª classe, de escolha do Ministro, ao qual compete:\n\n1.º Zelar pela guarda e segurança do edifício do Ministério;\n\n2.º Organizar os serviços de higiene e limpeza e zelar pela conservação do edifício do Ministério e dos móveis nele existentes;\n\n3.º Verificar, depois de findos os respectivos trabalhos, se todas as repartições foram devidamente fechadas, fazendo retirar do edifício as pessoas que ali não devam permanecer;\n\n4.º Dirigir e fiscalizar o pessoal auxiliar que presta serviço no Ministério e velar pela correcção do seu vestuário e porte;\n\n5.º Participar as faltas do pessoal auxiliar;\n\n6.º Expedir e receber a correspondência;\n\n7.º Ter à sua guarda o livro de ponto do pessoal auxiliar, entregando, até ao dia 5 de cada mês, as notas mensais de assiduidade do mesmo pessoal;\n\n8.º Executar tudo o mais de que for incumbido pelo secretário-geral.\n\nArt. 80.º Os porteiros ficam sujeitos ao horário de serviço fixado pelo secretário-geral.\n\nArt. 81.º Os motoristas e o correio, quando sigam nas viaturas com o Ministro, podem usar dos mesmos poderes que cabem aos agentes da Polícia de Segurança Pública.\n\nArt. 82.º - 1. Os lugares de servente são providos por assalariamento.\n\n2. As serventes ficam sujeitas ao horário de trabalho a estabelecer pelo secretário-geral, de acordo com as conveniências do serviço.\n\nArt. 83.º Sempre que o recrutamento se efectue independentemente de concurso, o provimento far-se-á sob proposta do secretário-geral ou do director-geral, conforme os casos."
+  },
+  "3f755d7992ce741c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Concursos\n\nArt. 84.º - 1. Os concursos serão abertos por prazo não inferior a quinze dias, mediante anúncio publicado no Diário do Governo.\n\n2. Os concursos têm três anos de validade, a qual cessará, porém, desde logo, relativamente aos candidatos que não tomarem posse dos cargos em que hajam sido providos.\n\n3. Pode, todavia, qualquer candidato desistir do provimento, por declaração expressa ou deixando de entregar a documentação exigida para o efeito, no prazo que lhe for fixado.\n\n4. O candidato que desista passará a figurar no último lugar da lista de classificação do respectivo concurso de habilitação, perdendo definitivamente o direito ao provimento no caso de não haver qualquer outro candidato por colocar ou de reincidir na desistência.\n\nArt. 85.º Aplica-se aos concursos documentais o disposto no n.º 1 do artigo anterior.\n\nArt. 86.º São requisitos gerais para a admissão aos concursos:\n\n1.º Ter nacionalidade portuguesa originária ou adquirida há mais de dez anos;\n\n2.º Ter 18 anos de idade, pelo menos, mas não mais de 35, salvo, quanto a este limite, os que já forem funcionários do Estado ou das autarquias locais ou se encontrem em situação que legalmente dele os dispense;\n\n3.º Não estar interdito judicialmente nem suspenso do exercício de direitos políticos;\n\n4.º Possuir a robustez física necessária para o exercício do cargo, não sofrer de doença contagiosa, particularmente tuberculose contagiosa ou evolutiva, ter sido vacinado ou haver sofrido ataque de varíola nos últimos sete anos e encontrar-se vacinado contra o tétano, nos termos da legislação aplicável;\n\n5.º Haver cumprido os deveres militares que, nos termos das leis sobre recrutamento, tenham cabido ao concorrente até à data do concurso;\n\n6.º Estar livre de culpa no respectivo registo criminal e não ter sofrido anteriormente pena que importe demissão de funções públicas, salvo tendo sido reabilitado em revisão de sentença;\n\n7.º Possuir a habilitação exigida para o provimento do cargo;\n\n8.º Possuir bilhete de identidade actualizado.\n\nArt. 87.º - 1. Os candidatos serão sempre dispensados de juntar aos seus requerimentos os documentos necessários à comprovação dos requisitos essenciais para a admissão, nas condições legalmente previstas.\n\n2. O provimento dos candidatos será precedido da apresentação dos documentos comprovativos de satisfazerem os requisitos essenciais.\n\n3. Os candidatos poderão utilizar os documentos já existentes na Secretaria-Geral ou na Direcção-Geral, com excepção daqueles cuja validade haja caducado, desde que indiquem esses documentos e mencionem a data da entrega.\n\n4. Os candidatos que já sejam funcionários apenas serão obrigados a comprovar essa qualidade e o requisito do n.º 7.º do artigo anterior.\n\nArt. 88.º Os funcionários com mais de três anos de serviço em cada categoria ou classe são opositores obrigatórios aos concursos de promoção à categoria ou classe imediata, sem prejuízo das inibições previstas na lei geral.\n\nArt. 89.º Os funcionários na situação de licença ilimitada não podem ser admitidos a concursos, salvo tratando-se de concursos de ingresso e desde que reúnam os requisitos estabelecidos no artigo 86.º\n\nArt. 90.º O júri dos concursos será constituído por três funcionários designados pelo director-geral, um dos quais servirá de presidente.\n\nArt. 91.º - 1. As provas são classificadas por notas de 0 a 20, considerando-se excluídos os candidatos que obtenham média inferior a 10 valores.\n\n2. Nos concursos de promoção a classificação será corrigida pelas informações de serviço.\n\nArt. 92.º Os programas dos concursos serão os estabelecidos por portaria do Ministro do Interior.\n\nArt. 93.º Em tudo quanto não estiver especialmente previsto neste diploma aplicam-se as disposições que regulam os concursos para recrutamento dos funcionários do quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Local."
+  },
+  "0c5d2834d2cb81e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Cadastro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Cadastro\n\nArt. 94.º - 1. Na Secretaria-Geral e na Direcção-Geral haverá cadastro do pessoal que lhes estiver afecto.\n\n2. Na Direcção-Geral haverá ainda cadastro do pessoal do quadro geral administrativo dos serviços externos.\n\n3. O cadastro de cada funcionário consiste no respectivo processo individual, constituído pelos documentos que se lhe refiram, e pela folha de serviço, com indicação da idade, estado, naturalidade e morada, lugar que exerce, dos que tenha exercido, datas das nomeações ou contratos, posses, licenças, faltas, promoções, transferências, aposentação, exoneração, louvores e distinções, penalidades, classificações de serviço e nos concursos de habilitação, livros publicados e tudo o mais que possa interessar à carreira profissional.\n\nArt. 95.º Os dirigentes dos respectivos serviços são obrigados a comunicar, no prazo de dois dias, a data da posse dos funcionários e todos os demais elementos que devem constar do processo individual e da folha de serviço, cumprindo aos próprios funcionários participar aos seus chefes as alterações ao estado civil e as mudanças de residência.\n\nArt. 96.º Sempre que qualquer funcionário encontre nos processos que lhe hajam sido confiados matéria que interesse ao cadastro, deve comunicá-la superiormente, para que se promova o seu lançamento na respectiva folha de serviço."
+  },
+  "e4f2aaa8d57867fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições gerais sobre serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições gerais sobre serviços\n\nArt. 97.º - l. O arquivo da Secretaria-Geral e dos restantes serviços centrais dependentes do Ministério conterá, devidamente arrumados, catalogados e com as respectivas etiquetas, todos os livros, processos, documentos e demais papéis referentes aos últimos dez anos e, bem assim, os que superiormente se entenda deverem ali manter-se para além desse período.\n\n2. As remessas para o arquivo constarão de guia de entrega, em duplicado, assinada por funcionário de categoria não inferior à de chefe de divisão e pelo bibliotecário-arquivista, ficando um exemplar na secretaria ou departamento donde hajam saído os livros ou documentos e outro no arquivo.\n\n3. Não é permitida a saída do arquivo de qualquer livro ou documento sem requisição do modelo aprovado para o efeito, datada e assinada, que será devolvida com a nota de recebimento logo que sejam de novo entregues.\n\n4. As requisições ao arquivo deverão ser feitas pelo Ministro, secretário-geral ou dirigentes dos vários serviços do Ministério, de categoria não inferior a chefe de divisão, ou por funcionário pelos mesmos designado.\n\nArt. 98.º - 1. Haverá na Secretaria-Geral e na Direcção-Geral um ou mais livros destinados ao registo de entrada de todos os documentos, petições, reclamações e ofícios, andamento de processos e despachos que hajam obtido.\n\n2. O registo deve fazer-se de modo que a correspondência entrada num dia fique nesse mesmo dia distribuída.\n\n3. Nenhum documento será apresentado a despacho sem nota de registo, salvo tratando-se de assuntos urgentes, caso em que o registo se fará em seguida.\n\n4. Para a correspondência classificada haverá livro próprio.\n\nArt. 99.º - 1. Não serão registados nem terão andamento os requerimentos que não estiverem devidamente assinados e, quando necessário, escritos em papel selado.\n\n2. Os requerimentos nas condições a que se refere o número anterior serão guardados em arquivo especial.\n\nArt. 100.º - 1. Em nenhuma representação, informação, requerimento ou ofício será permitido tratar de mais de um assunto.\n\n2. Os documentos que não satisfizerem este preceito serão devolvidos.\n\nArt. 101.º Não serão restituídos os requerimentos e representações desde que hajam sido registados.\n\nArt. 102.º Os documentos juntos a requerimentos só serão entregues aos requerentes quando estes desistam das pretensões antes de sobre eles haver recaído qualquer despacho, ou quando os mencionados requerimentos tenham sido indeferidos, não havendo recurso.\n\nArt. 103.º - 1. Só devem ser passadas certidões de documentos, requerimentos ou despachos a quem demonstre justificado interesse nos assuntos respectivos.\n\n2. Em caso de dúvida sobre a justificação desse interesse ou quando pareça haver inconveniente para o serviço na passagem de qualquer certidão, decidirá o Ministro.\n\nArt. 104.º - 1. Os processos que exijam resolução serão devidamente informados pelo funcionário a quem forem distribuídos.\n\n2. As informações serão dadas por escrito, datadas e assinadas, e devem, normalmente, conter os seguintes elementos:\n\na) Resumo da matéria de facto sobre que versa o processo;\n\nb) Menção das disposições legais aplicáveis ao caso, se as houver, ou expressa declaração de que nenhuma existe aplicável;\n\nc) Indicação da forma como, sob o domínio das mesmas regras legais, têm sido resolvidos casos semelhantes e da solução que parecer mais justa e eficiente.\n\n3. Se o chefe dos respectivos serviços perfilhar inteiramente a informação do funcionário seu subordinado, pode limitar-se a declarar a sua concordância.\n\nArt. 105.º Toda a correspondência se considera reservada, não podendo ser dada a conhecer a pessoas estranhas ao serviço sem autorização expressa do secretário-geral, director-geral ou chefe do Gabinete, conforme o serviço a que respeite."
+  },
+  "a95b247829c5b907": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições transitórias e finais\n\nArt. 106.º - 1. O primeiro provimento nos lugares de inspector administrativo de 1.ª classe poderá recair nos actuais subinspectores administrativos com mais de dez anos de bom e efectivo serviço na categoria.\n\n2. O primeiro provimento nos cargos de técnicos de 1.ª classe poderá recair nos actuais chefes de secção do quadro interno da Direcção-Geral com mais de dez anos de bom e efectivo serviço no mesmo quadro.\n\n3. O primeiro provimento nos lugares de oficial poderá efectuar-se independentemente de concurso, desde que a escolha recaia em funcionário dos actuais quadros da Secretaria-Geral ou da Direcção-Geral da mesma categoria e de classe imediatamente inferior ou de categoria imediatamente inferior que satisfaça aos requisitos legais, com três anos, pelo menos, de bom e efectivo serviço nessa categoria e classe.\n\n4. As primeiras nomeações para os cargos de terceiro-oficial e de segundo-oficial podem ainda recair, por escolha, em funcionários da 4.ª ou da 3.ª classe, conforme os casos, da 2.ª categoria do quadro geral administrativo dos serviços externos da Direcção-Geral ou em candidatos aprovados no respectivo concurso de habilitação.\n\nArt. 107.º Serão resolvidas por despacho do Ministro do Interior todas as dúvidas que se suscitem na aplicação do presente diploma.\n\nArt. 108.º Este diploma entra em vigor no dia 1 de Agosto de 1973.\n\nMarcello Caetano - António Manuel Gonçalves Rapazote.\n\nPromulgado em 2 de Julho de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "d26c3e04a487e36e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Secretaria-Geral"
+  },
+  "65790d462937db7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Secretaria-Geral do Ministério do Interior é um órgão de estudo, planeamento, coordenação e apoio técnico-administrativo, incumbido especialmente:\n\na) De realizar os estudos e trabalhos que lhe forem cometidos pelo Ministro do Interior, com vista ao aperfeiçoamento dos serviços do Ministério e à coordenação das respectivas actividades;\n\nb) De promover a aplicação, no âmbito do Ministério, das providências de reforma administrativa, de harmonia com as determinações legais e a orientação da Presidência do Conselho;\n\nc) De se pronunciar, quando o Ministro o determinar, sobre os projectos de diplomas legais submetidos à apreciação do mesmo Ministro;\n\nd) De proporcionar as notícias e esclarecimentos respeitantes aos vários departamentos do Ministério, necessários para que se assegure informação pública verídica;\n\ne) De organizar, nos termos da lei, os processos sobre pedidos de naturalização e de reaquisição de nacionalidade;\n\nf) De promover a instrução dos processos sobre pedidos de reconhecimento a nacionais do Brasil da igualdade de direitos e deveres relativamente a portugueses;\n\ng) De assegurar o expediente relativo à legalização de associações, nos casos em que a respectiva competência pertença ao Ministro do Interior;\n\nh) De dar andamento a tudo quanto se refira à concessão de mercês honoríficas por proposta do Ministro;\n\ni) De se desempenhar das demais funções atribuídas por lei."
+  },
+  "846997cd77920345": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara prosseguimento das suas atribuições, compete especialmente à Secretaria-Geral:\n\n1.º Funcionar como elo de ligação e de coordenação entre todos os serviços dependentes do Ministério, com ou sem autonomia;\n\n2.º Manter em ordem o registo da legislação que interesse aos serviços do Ministério;\n\n3.º Colaborar, segundo as determinações do Ministro, no estudo ou revisão de projectos de diplomas que respeitem aos vários organismos do Ministério;\n\n4.º Promover a aplicação, relativamente aos organismos do Ministério, das providências de ordem geral que pelo Governo sejam aprovadas no sentido da gradual realização da reforma administrativa;\n\n5.º Fazer executar as leis, regulamentos e ordens respeitantes ao serviço, mantendo a regularidade necessária à boa execução dos trabalhos;\n\n6.º Transmitir aos organismos e serviços dependentes do Ministério as normas e instruções da Presidência do Conselho, do Ministro ou do secretário-geral;\n\n7.º Superintender na instalação dos serviços no edifício central do Ministério e na aquisição e conservação do mobiliário e utensílios destinados ao Gabinete do Ministro e à Secretaria-Geral;\n\n8.º Assegurar o expediente do Gabinete do Ministro, do Serviço de Repressão da Mendicidade e da Comissão Consultiva de Estatística;\n\n9.º Assegurar o expediente relativo ao provimento, transferência, promoção, licenças, aposentação, exoneração ou demissão e processos disciplinares do pessoal afecto à Secretaria-Geral e, bem assim, o que se refira à nomeação e exoneração do pessoal do Gabinete do Ministro;\n\n10.º Lavrar os termos de posse dos magistrados ou funcionários quando a lei estabelecer que tais actos se realizem perante o Ministro ou o secretário-geral;\n\n11.º Assegurar o expediente relativo à publicação dos decretos-leis, decretos e demais diplomas, que não for da exclusiva competência de qualquer outro organismo do Ministério;\n\n12.º Requisitar à Imprensa Nacional e, promover a distribuição, consoante as necessidades, pelos governos civis e pela Direcção-Geral de Segurança, dos impressos destinados à emissão de passaportes, nos termos da respectiva legislação;\n\n13.º Proceder à classificação, catalogação e guarda dos livros e papéis existentes no arquivo e biblioteca do Ministério;\n\n14.º Elaborar o inventário do mobiliário e utensílios afectos à Secretaria-Geral e ao Gabinete do Ministro;\n\n15.º Assegurar o expediente relativo a telefones de todos os serviços do Ministério e dele dependentes e das residências dos funcionários;\n\n16.º Prestar à 3.ª Repartição da Direcção-Geral da Contabilidade Pública todos os esclarecimentos precisos para a elaboração do orçamento do Gabinete do Ministro e da Secretaria-Geral;\n\n17.º Assegurar o expediente relativo à aprovação dos modelos de cartões de identidade emitidos por associações, institutos ou empresas, nas condições estabelecidas por portaria do Ministro do Interior;\n\n18.º Assegurar o expediente relativo à concessão de medalhas de serviços distintos de segurança pública aos agentes da Polícia de Segurança Pública, Guarda Nacional Republicana e Direcção-Geral de Segurança;\n\n19.º Assegurar o expediente relativo à junta médica do Ministério;\n\n20.º Assegurar o expediente relativo a pedidos de suprimento de autorização paternal para deslocações ao estrangeiro;\n\n21.º Superintender na disciplina geral, polícia e economia do Ministério;\n\n22.º Proceder à recepção, registo e distribuição da correspondência destinada ao Gabinete do Ministro, à Secretaria-Geral e aos serviços a que alude o n.º 8.º, bem como ao registo e arquivo de cópia da correspondência expedida pelos referidos serviços, adoptando livro ou livros do modelo que, para o efeito, for aprovado;\n\n23.º Assegurar a execução de todo o expediente dactilográfico, tiragem de fotocópias e trabalhos de natureza semelhante, respeitantes aos assuntos afectos aos mesmos serviços;\n\n24.º Assegurar o arquivo geral dos processos que tenham corrido seus termos nos serviços referidos nos dois números anteriores, logo que tais processos deixem de se considerar pendentes;\n\n25.º Executar tudo o mais que as leis e regulamentos determinarem e o que não for da competência exclusiva das direcções-gerais ou outros serviços dependentes do Ministério."
+  },
+  "f1bf4223dd9d3203": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs serviços da Secretaria-Geral correm por uma divisão, que comportará duas secções: a dos serviços administrativos e a do expediente geral."
+  },
+  "813c51d5b19f395a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs serviços da Secretaria-Geral serão distribuídos por cada uma das secções, conforme for determinado pelo secretário-geral, competindo, porém, em especial, à secção de expediente geral a execução de expediente dactilográfico e extracção de fotocópias e o registo, distribuição e arquivo de correspondência."
+  },
+  "9f1b36a7d8e272fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nCompete especialmente ao secretário-geral:\n\n1.º Exercer, de harmonia com a lei e as indicações do Ministro, a representação do Ministério;\n\n2.º Superintender nos serviços da Secretaria-Geral, promover o seu regular andamento, resolvendo todas as dúvidas que lhe forem apresentadas pelos seus subordinados, e dar cumprimento aos despachos ministeriais;\n\n3.º Submeter a despacho ministerial os processos que dele careçam, informando-os e emitindo parecer, por escrito, sobre a decisão que deverá ser tomada;\n\n4.º Assinar contratos e autorizar despesas, nos termos legais;\n\n5.º Conferir posse aos funcionários da Secretaria-Geral;\n\n6.º Promover a instauração de processos disciplinares e propor louvores aos funcionários seus subordinados;\n\n7.º Coordenar os diversos serviços do Ministério, emitindo, em nome do Ministro, as instruções que se tornarem necessárias;\n\n8.º Elaborar os projectos de diplomas legislativos, portarias e relatórios de que for incumbido pelo Ministro;\n\n9.º Ordenar a publicação dos diplomas que tiverem de ser inseridos no Diário do Governo e assinar os anúncios expedidos pela Secretaria-Geral;\n\n10.º Assinar a correspondência expedida pela Secretaria-Geral;\n\n11.º Mandar passar certidões, independentemente de despacho do Ministro, excepto nos casos do n.º 2 do artigo 103.º;\n\n12.º Executar tudo o mais que as leis e regulamentos expressamente lhe cometerem ou que for decorrência lógica do normal desempenho das suas funções."
+  },
+  "1ab134d5834970b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO secretário-geral é substituído, nas suas faltas e impedimentos, pelo funcionário que o Ministro designar."
+  },
+  "bc648d7a40c9e849": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nCompete ao chefe de divisão:\n\n1.º Dar cumprimento às ordens e instruções do Ministro e do secretário-geral, velando pela sua fiel observância;\n\n2.º Coordenar, dirigir e fiscalizar os trabalhos da Secretaria-Geral e distribuir o serviço pelas secções segundo as instruções do secretário-geral;\n\n3.º Assinar as certidões e cópias autênticas que o Ministro ou o secretário-geral mandarem passar;\n\n4.º Conservar sob a sua guarda o selo da Secretaria-Geral;\n\n5.º Prestar toda a cooperação ao secretário-geral, dando-lhe conhecimento imediato de tudo quanto possa influir no funcionamento dos serviços e sugerindo-lhe as providências que reputar convenientes;\n\n6.º Encerrar o livro de ponto, conservando-o à sua guarda, e considerar justificadas ou não as faltas dos funcionários;\n\n7.º Organizar índice alfabético e por assuntos da legislação respeitante aos serviços do Ministério;\n\n8.º Informar e emitir parecer, por escrito, em todos os processos que tiverem de ser submetidos a despacho do secretário-geral ou do Ministro;\n\n9.º Velar pela boa ordem do serviço do arquivo e da biblioteca;\n\n10.º Executar tudo o mais que, na forma da lei, lhe for determinado."
+  },
+  "60540a70c0c98af5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO chefe de divisão é substituído nas suas faltas e impedimentos por técnico ou chefe de secção designado pelo secretário-geral."
+  },
+  "61019923573f740d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nCompete aos chefes de secção coadjuvar o chefe de divisão, emitindo os pareceres e prestando as informações convenientes à boa ordem dos serviços, e velar pela pronta execução dos serviços e pela disciplina do pessoal deles dependente."
+  },
+  "c4b26b1fca85ff31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Será mantida a organização da biblioteca, onde se processará a classificação, catalogação e guarda de todos os livros e outras publicações existentes e daquelas que, por oferta ou compra, derem entrada nos vários serviços do Ministério, com excepção das colecções do Diário do Governo e exemplares de códigos e outros livros necessários aos mesmos serviços, que nestes serão guardados.\n\n2. Far-se-á um registo diário das entradas de livros e outras publicações, com a nota da proveniência, casa editora e data da edição.\n\n3. Da biblioteca poderão sair livros, revistas ou quaisquer outras publicações mediante requisição do modelo aprovado para o efeito, assinada por qualquer das entidades designadas no n.º 4.º do artigo 97.º, ficando o requisitante civil e disciplinarmente responsável pela sua restituição.\n\n4. Das publicações a que se refere o número anterior, e designadamente daquelas que se consideram de utilização permanente nos vários serviços, haverá registos especiais respeitantes a cada um dos referidos serviços."
+  },
+  "ba1e55ccbe5b1e93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nCompete ao bibliotecário-arquívista:\n\n1.º Arrumar, catalogar e manter à sua guarda todos os documentos, papéis, livros e outras publicações que lhe forem remetidos pelos diversos departamentos do Ministério;\n\n2.º Lançar diariamente, com o respectivo número, em livro a esse fim destinado, a nota de todos os livros e restantes publicações que derem entrada na biblioteca, nos quais aporá o mesmo número de ordem;\n\n3.º Satisfazer as requisições de livros e documentos que lhe forem dirigidas, anotando em livro próprio as entradas e saídas;\n\n4.º Praticar todos os demais actos de que for incumbido pelo secretário-geral ou pelo chefe da divisão."
+  },
+  "7597064e2344bc31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA fim de auxiliar o bibliotecário-arquivista na execução dos serviços a seu cargo, será destacado um funcionário de carteira e um contínuo."
+  },
+  "90213c58d455d958": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Auditoria Jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Auditoria Jurídica"
+  },
+  "f38a9839069d70f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA Auditoria Jurídica é exercida por um ajudante do procurador-geral da República, designado pelo Ministro da Justiça, após consulta ao Ministro do Interior."
+  },
+  "a460d95ad97f6db0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nCompete à Auditoria Jurídica:\n\n1.º Emitir pareceres e elaborar os estudos jurídicos que lhe sejam determinados pelo Ministro do Interior;\n\n2.º Prestar aos serviços do Ministério apoio de carácter jurídico, segundo as directrizes do Ministro do Interior."
+  },
+  "9d526888c643c780": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Direcção-Geral de Administração Local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Direcção-Geral de Administração Local"
+  },
+  "e65003165ca590cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA Direcção-Geral de Administração Local é um órgão de estudo, coordenação e apoio técnico-administrativo, incumbido, em especial:\n\na) De realizar estudos e trabalhos com vista à actualização e ao aperfeiçoamento da gestão e dos serviços das autarquias locais;\n\nb) De exercer inspecção sobre os corpos administrativos e os serviços das autarquias locais e de colaborar com o Governo em tudo quanto respeite à sua superintendência na administração local autárquica e à coordenação desta com a Administração Central;\n\nc) De superintender nos serviços dos governos civis e das administrações dos bairros de Lisboa e do Porto;\n\nd) De superintender em tudo quanto se relacione com os recenseamentos e os actos eleitorais, em conformidade com a lei;\n\ne) De se desempenhar das demais funções que lhe estiverem cometidas por lei."
+  },
+  "99305d0bff59592f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. A Direcção-Geral de Administração Local compreende:\n\na) Direcção de Serviços de Administração Local;\n\nb) Direcção de Serviços de Gestão do Pessoal e de Expediente Geral;\n\nc) Gabinete de Estudos de Administração Local;\n\nd) Inspecção Administrativa.\n\n2. Junto da Direcção-Geral funciona o Conselho Nacional dos Serviços de Incêndios, de acordo com a respectiva legislação especial."
+  },
+  "4196e76f6d222548": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nCompete ao director-geral:\n\n1.º Exercer, relativamente aos serviços da Direcção-Geral, as funções prescritas no artigo 5.º, com excepção dos seus n.os 1.º e 7.º;\n\n2.º Propor as reformas e regulamentos que julgar convenientes;\n\n3.º Manter o Ministro informado das deficiências e irregularidades que se verifiquem na gerência e nos serviços das autarquias locais;\n\n4.º Designar os funcionários que hão-de prestar serviço em cada um dos departamentos da Direcção-Geral;\n\n5.º Determinar, em caso de dúvida, quais os serviços que cabem a cada uma das direcções."
+  },
+  "f16a413d712c5d2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO director-geral é substituído, nas suas faltas ou impedimentos, pelo funcionário que designar, de categoria não inferior à de director de serviços."
+  },
+  "acb9fd13b50346b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Direcções de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Direcções de serviços"
+  },
+  "9cd2cb12fdb454c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nCompete à Direcção de Serviços de Adnistração Local:\n\n1.º Dar andamento ao expediente relativo à divisão administrativa do País;\n\n2.º Proceder à instrução e ao exame dos processos sobre deliberações dos corpos administrativos sujeitas a intervenção do Ministro do Interior;\n\n3.º Promover a resolução dos assuntos que respeitem às autarquias locais;\n\n4.º Pronunciar-se, em matéria da sua competência, sobre as consultas formuladas pelos corpos administrativos ou pelos governos civis e propor a expedição de instruções tendentes à boa execução das leis e à uniformidade da sua interpretação;\n\n5.º Instruir os processos respeitantes a sugestões, queixas ou reclamações dos administrados que visem a gerência das autarquias locais e o funcionamento dos seus serviços;\n\n6.º Prover ao expediente do Conselho Nacional dos Serviços de Incêndios;\n\n7.º Examinar os orçamentos elaborados pelas câmaras municipais, federações de municípios, juntas gerais dos distritos autónomos e juntas distritais, chamando a atenção para as irregularidades verificadas;\n\n8.º Executar tudo o mais que, por lei ou determinação do director-geral, lhe seja confiado."
+  },
+  "dc666da188f85483": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nCompete à Direcção de Serviços de Gestão de Pessoal e Expediente Geral:\n\n1.º Assegurar o expediente relativo à nomeação e exoneração de magistrados administrativos e sobre provimento, transferência, promoção, licenças e aposentação de funcionários;\n\n2.º Lavrar termos de posse dos funcionários;\n\n3.º Organizar o cadastro e registo biográfico dos magistrados administrativos, do pessoal dirigente, técnico, administrativo e auxiliar afecto à Direcção-Geral e dos funcionários do quadro geral administrativo dos serviços externos, com todas as indicações necessárias sobre a sua identificação, mérito e demérito, e elaborar as listas de antiguidade dos mesmos funcionários;\n\n4.º Assegurar o expediente relativo a concursos para o preenchimento de lugares do quadro único e do quadro geral administrativo dos serviços externos, bem como dos lugares dos quadros privativos dos governos civis dos distritos do continente e das administrações dos bairros de Lisboa e Porto;\n\n5.º Executar quanto se refira a processos relacionados com os quadros privativos das autarquias locais;\n\n6.º Assegurar o expediente sobre processos de autorização de acumulação de cargos;\n\n7.º Elaborar e manter actualizado o inventário do mobiliário e utensílios afectos aos serviços da Direcção-Geral e cuidar da respectiva aquisição e conservação;\n\n8.º Prestar à 3.ª Repartição da Direcção-Geral da Contabilidade Pública os esclarecimentos necessários para elaboração do orçamento da Direcção-Geral;\n\n9.º Assegurar os serviços de contabilidade e economato da Direcção-Geral;\n\n10.º Pronunciar-se, em matéria da sua competência, sobre as consultas formuladas pelos corpos administrativos ou pelos governos civis e propor a expedição de instruções tendentes à boa execução das leis e à uniformidade da sua interpretação;\n\n11.º Promover a instrução dos processos sobre garantia administrativa;\n\n12.º Assegurar o expediente respeitante à intervenção da Direcção-Geral nos recenseamentos eleitorais e nas eleições do Chefe do Estado, da Assembleia Nacional e dos corpos administrativos;\n\n13.º Emitir parecer sobre os orçamentos dos cofres privativos dos governos civis;\n\n14.º Executar tudo o mais que, por lei ou por determinação do director-geral, lhe seja confiado."
+  },
+  "5b25c21db2e4508a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nCompete especialmente aos directores de serviços:\n\n1.º Coadjuvar o director-geral no desempenho das suas funções, dando-lhe conhecimento imediato de tudo quanto possa influir no funcionamento dos serviços, prestar-lhe toda a cooperação e sugerir-lhe as providências que reputarem convenientes;\n\n2.º Superintender nos serviços da Direcção, promovendo o seu regular andamento, a resolução de todas as dúvidas que lhes forem apresentadas pelos seus subordinados e o cumprimento dos despachos do director-geral;\n\n3.º Conferir posse aos funcionários da respectiva Direcção, de categoria não superior à de primeiro-oficial;\n\n4.º Promover a instauração de processos disciplinares e propor louvores aos funcionários seus subordinados;\n\n5.º Emitir parecer nos processos que devam submeter à apreciação do director-geral, ainda que já estejam informados por funcionários seus subordinados, podendo, no entanto, limitar-se a manifestar, por escrito, a sua concordância com os pareceres e informações destes;\n\n6.º Assegurar a representação da Direcção-Geral ou do Ministério em comissões de estudo ou grupos de trabalho para que forem designados;\n\n7.º Praticar quaisquer outros actos para que tenham recebido delegação do director-geral;\n\n8.º Executar tudo o mais de que forem incumbidos pelo director-geral."
+  },
+  "fd63de9ed3cf2975": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nNas suas faltas e impedimentos, cada director de serviços será substituído pelo chefe de divisão que designar, com o acordo do director-geral."
+  },
+  "644eef172816cc65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs serviços de cada uma das direcções repartir-se-ão por divisões, conforme despacho do Ministro, sob proposta do director-geral."
+  },
+  "a78ebed4866e50f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nCompete aos chefes de divisão:\n\n1.º Exercer, relativamente à respectiva divisão, as funções prescritas no artigo 7.º e nos n.os 1.º e 5.º do artigo 21.º, com as necessárias adaptações;\n\n2.º Prover ao expediente relativo à elaboração e publicação de diplomas legais, despachos e instruções;\n\n3.º Executar tudo o mais de que forem incumbidos pelo director-geral ou pelo respectivo director de serviços."
+  },
+  "5e641602d1097c9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nNas suas faltas e impedimentos, cada chefe de divisão será substituído pelo funcionário mais antigo da classe imediatamente inferior da respectiva divisão."
+  },
+  "66b3023a3cf353c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Gabinete de Estudos de Administração Local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Gabinete de Estudos de Administração Local"
+  },
+  "3fb97d711f8f45d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nO Gabinete de Estudos de Administração Local destina-se à investigação, estudo, informação e difusão das matérias relacionadas com a gestão das autarquias locais, à formação e ao aperfeiçoamento dos seus dirigentes e funcionários e à recolha e análise dos elementos destinados à realização daqueles objectivos."
+  },
+  "09dab0c009a64052": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nSem prejuízo da competência estabelecida para a Inspecção Administrativa e demais serviços da Direcção-Geral de Administração Local, a organização do Gabinete de Estudos será utilizada com vista à solução dos problemas gerais de carácter jurídico, administrativo, social e económico da vida local."
+  },
+  "c881bb73a26a7fe5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1. As funções do Gabinete de Estudos serão exercidas, fundamentalmente, nos seguintes domínios da administração local:\n\na) Formação e aperfeiçoamento profissional dos funcionários dos governos civis e das autarquias locais;\n\nb) Métodos de trabalho, simplificação de serviços e técnicas de gestão científica;\n\nc) Coordenação de actividades locais, nos domínios da informática, mediante a criação de programas de utilização geral;\n\nd) Recolha de dados que permitam, depois de refundidos, elaborar estudos de administração comparada nos diversos sectores das autarquias;\n\ne) Promoção de estudos tendentes ao aperfeiçoamento da administração local.\n\n2. A actuação a que se referem as alíneas a) e b) do número anterior poderá tornar-se extensiva ao pessoal e aos serviços da Secretaria-Geral e da Direcção-Geral."
+  },
+  "a53a258bbaea9c39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nPara o exercício das suas atribuições, compete ao Gabinete de Estudos proceder, por iniciativa própria ou por determinação do director-geral, aos estudos, inquéritos ou trabalhos de outra natureza sobre qualquer das matérias indicadas no artigo anterior e, nomeadamente:\n\n1.º Emitir parecer acerca dos projectos de diplomas relativos à organização administrativa das autarquias locais;\n\n2.º Fomentar e coordenar as actividades de organização e métodos no domínio da administração local;\n\n3.º Fomentar a criação e coordenar as actividades de centros mecanográficos ou de informática, nos termos adiante especificados;\n\n4.º Organizar cursos, seminários, colóquios e conferências sobre temas ligados à administração local;\n\n5.º Recolher elementos estatísticos sobre as diversas actividades dos corpos administrativos e seus serviços municipalizados ou federados;\n\n6.º Promover a criação de um boletim periódico de informação das actividades locais, tendente à difusão das matérias que interessem à organização científica das autarquias locais;\n\n7.º Encarregar-se da elaboração e publicação do Anuário da Direcção-Geral de Administração Local, recolhendo e coligindo os elementos necessários;\n\n8.º Orientar e coordenar a recolha de elementos com vista à preparação de manuais práticos de procedimento administrativo para uso dos serviços burocráticos;\n\n9.º Assegurar a ligação com serviços estrangeiros similares, tendo em vista o conhecimento das medidas adoptadas nos países respectivos, relativamente ao aperfeiçoamento da administração local autárquica;\n\n10.º Promover a realização de missões e visitas, no País ou no estrangeiro, para o estudo dos assuntos referidos na alínea anterior e, bem assim, para a frequência de cursos a eles respeitantes;\n\n11.º Estudar as medidas, em geral, que visem a racionalização ou simplificação burocrática dos serviços dos organismos locais, tendo em vista a sua maior eficiência e produtividade, bem como a comodidade do público."
+  },
+  "588c0968fb798dbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1. O Gabinete de Estudos deverá manter estreita colaboração com os corpos administrativos, de modo a actuar conforme as realidades da vida administrativa local.\n\n2. Com vista à realização dos objectivos a que alude o número anterior, o Gabinete de Estudos deverá tomar conhecimento dos relatórios elaborados pelos serviços da Inspecção Administrativa e fornecer a estes as conclusões e os dados estatísticos recolhidos, de interesse geral ou específico."
+  },
+  "80613fce71d64ff8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1. A chefia do Gabinete de Estudos será confiada a um inspector superior administrativo, competindo-lhe, designadamente:\n\n1.º Assumir a responsabilidade pela gestão directa do Gabinete de Estudos e pela chefia do seu pessoal;\n\n2.º Elaborar o plano e relatório anual de actividades para serem submetidos à apreciação do Ministro do Interior, com referência especial, no segundo daqueles documentos, ao mérito demonstrado pelos funcionários adstritos ao serviço.\n\n2. Em caso de ausência ou impedimento, o director será substituído por funcionário designado pelo director-geral."
+  },
+  "7ee716dbc87d22e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nTendo em conta a eficiência dos serviços e a especialização do pessoal, o Gabinete de Estudos de Administração Local será organizado com vista ao desempenho das seguintes actividades:\n\na) Actividades mecanográficas e de informática;\n\nb) Documentação, estatística e publicações;\n\nc) Gestão financeira e económica;\n\nd) Estudos jurídicos."
+  },
+  "7b7ee6d5b848d22a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nNo domínio das actividades mecanográficas caberá, em geral, ao Gabinete de Estudos fomentar o estabelecimento de centros de informática e orientar e programar o seu funcionamento, tendo em vista o planeamento, à escala nacional, das várias actividades locais relacionadas com aquelas matérias, evitar a duplicação de tarefas e obter a integral utilização respectiva."
+  },
+  "545769b87a0faaab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nPara o cumprimento destes objectivos incumbe-lhe, em especial:\n\n1.º A realização de estudos económicos e técnicos, com vista à criação de novos centros mecanográficos;\n\n2.º A elaboração de programas e de rotinas administrativas de aplicação comum, com destino aos centros mecanográficos ao serviço da administração local autárquica;\n\n3.º A elaboração de programas para aproveitamento de dados indispensáveis à gestão ou dos que se tornem necessários ao contrôle dos serviços;\n\n4.º A preparação e aperfeiçoamento do pessoal técnico e administrativo destinado aos centros mecanográficos;\n\n5.º A coordenação das actividades dos vários centros distritais ou regionais, tendo em vista a uniformização dos sistemas e dos métodos de trabalho nos domínios da mecanografia e informática."
+  },
+  "a44c31494c5bc778": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1. O Gabinete de Estudos poderá requisitar a colaboração de qualquer dos centros mecanográficos estabelecidos, quer para a preparação ou estágio do pessoal de outros serviços locais, quer para realização de experiências que se julguem de utilidade.\n\n2. Sempre que o movimento dos estudos e de preparação do pessoal o aconselhem, poderá também o Gabinete adquirir ou alugar equipamentos que se tornem indispensáveis para a realização dos objectivos descritos no número anterior.\n\n3. O centro assim criado prestará o apoio que for julgado útil, tendente à mecanização dos processos burocráticos ou de estatística das direcções de serviços da Direcção-Geral de Administração Local, nomeadamente os relacionados com os sistemas de arquivo de processos e demais documentos, tratamento de dados eleitorais e gestão de pessoal."
+  },
+  "28a457eac1659aa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nNo domínio da documentação, estatística e publicações o Gabinete de Estudos ocupar-se-á, especialmente, das seguintes matérias:\n\n1.º Administração e formação de um fundo bibliográfico e documental, por meio de aquisição de publicações de interesse geral e difusão de informações-resumo acerca dos temas ali contidos;\n\n2.º Recolha, junto das entidades locais, dos documentos e informações que convenha centralizar e eventualmente comunicar a outros organismos interessados;\n\n3.º Edição de todas as publicações do Gabinete de Estudos e, em especial, do seu boletim de informações, assim como do Anuário da Direcção-Geral de Administração Local;\n\n4.º Formação, com carácter periódico, de elementos estatísticos respeitantes à administração local, recolhendo e ordenando os dados necessários e refundindo-os em documentos susceptíveis de ulterior publicação e difusão."
+  },
+  "4df9a4d34e3d097e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1. No domínio da gestão financeira e económica incumbirá ao Gabinete de Estudos a investigação e o estudo dos processos relativos à teorização ou simplificação dos orçamentos e contabilidade dos corpos administrativos e seus serviços municipalizados ou federados, tendo em consideração, quanto a estes, a necessidade de procurar meios de trabalho e de gestão compatíveis com a sua natureza.\n\n2. Cumprir-lhe-á ainda o desenvolvimento dos estudos relacionados com as modernas técnicas de gestão científica aplicadas às empresas privadas e sua possível adaptação ao sector industrial das autarquias locais."
+  },
+  "d935ca4f8f41979a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1. No domínio dos estudos jurídicos incumbe ao Gabinete de Estudos desenvolver os conhecimentos relacionados com o direito administrativo e a compilação dos diplomas emanados de outros sectores públicos que estejam em relação com as autarquias locais.\n\n2. Compete-lhe, igualmente, organizar e manter actualizada uma secção de biblioteca sobre direito político e administrativo e ciência da administração e coligir elementos para o estudo comparativo da legislação nacional com a legislação estrangeira."
+  },
+  "457f6d8755f9eb8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nO director-geral poderá, sob proposta do director do Gabinete de Estudos, destacar inspectores administrativos para ali prestarem serviço."
+  },
+  "b4a5a0502daafe41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nO Gabinete de Estudos organizará cursos periódicos de formação ou aperfeiçoamento de pessoal, de acordo com as categorias respectivas, podendo o Ministro do Interior determinar que a sua frequência se torne obrigatória para certos funcionários ou constitua condição necessária para admissão a concursos."
+  },
+  "23c8128396285bd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1. Os cursos a que alude o artigo anterior constarão de uma parte prática e outra teórica.\n\n2. A primeira, a realizar nas direcções de serviços da Direcção-Geral de Administração Local, visará promover contacto amplo dos funcionários com os problemas das autarquias locais submetidos à apreciação do Ministério do Interior, em ordem a desenvolver nos mesmos a experiência de vários casos em situações múltiplas.\n\n3. A parte teórica, que será, em regra, ministrada pelos chefes de divisão em serviço no Gabinete de Estudos ou por outros funcionários qualificados, visará o aperfeiçoamento dos participantes nos campos do direito administrativo e da organização dos serviços e gestão das autarquias.\n\n4. Será sempre levado em conta, na classificação dos funcionários, o aproveitamento por eles demonstrado durante a frequência dos cursos a que aludem os números anteriores.\n\n5. Os funcionários chamados a frequentar cursos de aperfeiçoamento ou que neles sejam autorizados a participar terão direito à totalidade dos vencimentos, tal como se estivessem no exercício do cargo, e, bem assim, às ajudas de custo e abonos para transportes, nos termos legais."
+  },
+  "d51a177789982864": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nO Gabinete de Estudos disporá de secretaria privativa, pela qual correrá o expediente respeitante aos assuntos que lhe devam estar afectos."
+  },
+  "301d60490e1b2c6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Inspecção Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Inspecção Administrativa"
+  },
+  "00a7f077c972072a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nA inspecção do Ministério do Interior sobre os corpos administrativos exerce-se, conforme o disposto no Código Administrativo e no presente diploma, por intermédio da Inspecção Administrativa, à qual incumbe ainda, em estreita cooperação com os demais serviços da Direcção-Geral de Administração Local, nomeadamente o Gabinete de Estudos de Administração Local, a função de orientar com regularidade os órgãos e serviços da administração autárquica local."
+  },
+  "1e1457e533d3865f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n1. Compete, em especial, à Inspecção Administrativa:\n\n1.º Averiguar quais as necessidades públicas mais instantes cuja satisfação pertence às autarquias e dar parecer sobre o grau de urgência das obras e melhoramentos, colocando em primeiro plano as de carácter sanitário e de fomento;\n\n2.º Verificar quais os obstáculos que se tenham oposto à realização dessas obras e melhoramentos e contribuir para que sejam removidos;\n\n3.º Orientar os presidentes dos corpos administrativos sobre a ordem de resolução dos problemas, quando estes forem interdependentes, e sobre as diligências a fazer e as formalidades a cumprir para obter o que, desde logo, se afigurar viável sob os aspectos económicos e financeiros;\n\n4.º Sugerir o modo de obter novos rendimentos ou elevar os existentes, tendo em vista a capacidade económica local, quando se verifique que para as obras e melhoramentos necessários não bastam os recursos actuais, mesmo com a participação do Estado;\n\n5.º Conhecer o modo como são aplicadas as disposições legais em vigor e as ordens e instruções superiores;\n\n6.º Prestar aos presidentes e funcionários das autarquias locais os esclarecimentos necessários para boa ordem dos serviços, remédio das deficiências ou irregularidades encontradas e para o estudo e resolução dos problemas de administração local;\n\n7.º Receber as queixas que lhe sejam apresentadas e conhecer dos seus fundamentos;\n\n8.º Informar acerca da competência e zelo dos funcionários do quadro geral administrativo, utilizando, para o efeito, boletim de modelo uniforme e devidamente aprovado, e propor a instauração de processos disciplinares.\n\n2. As informações a que se refere o n.º 8.º versarão os seguintes pontos:\n\na) Actividade e zelo do funcionário;\n\nb) Saber revelado no desempenho das funções;\n\nc) Método e pontualidade na execução do serviço;\n\nd) Assiduidade, licenças e doenças;\n\ne) Comportamento moral e civil;\n\nf) Qualidades de direcção ou chefia;\n\ng) Espírito de disciplina revelado na execução das ordens e instruções;\n\nh) Castigos e louvores;\n\ni) Aumento da sua cultura geral e especial;\n\nj) Relações sociais;\n\nl) Decoro externo;\n\nm) Espírito de iniciativa e de colaboração com os seus superiores e sentimento das responsabilidades.\n\n3. Tendo em vista as informações prestadas pela Inspecção Administrativa, o serviço dos funcionários será classificado pelo Ministro, sob proposta do director-geral, de Muito bom, Bom, Suficiente, Sofrível ou Mau."
+  },
+  "790763c782ab51e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nCompete ao Ministro do Interior despachar os processos instruídos pela Inspecção Administrativa e ordenar as sindicâncias, inquéritos e processos disciplinares que hajam de ser instaurados pela mesma."
+  },
+  "73915f5634259350": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n1. Na sua função de superintendência nos serviços da Inspecção Administrativa, compete especialmente ao director-geral:\n\n1.º Organizar e dirigir os serviços da Inspecção, orientando e fiscalizando a acção dos seus subordinados;\n\n2.º Emitir parecer sobre o relatório dos processos;\n\n3.º Distribuir pelos seus subordinados os serviços de inspecção, sindicâncias, inquéritos e processos disciplinares, bem como os serviços de visita para simples orientação dos órgãos e serviços da administração local autárquica;\n\n4.º Elaborar relatório anual sobre o funcionamento dos serviços;\n\n5.º Dar conhecimento ao Ministro das deficiências encontradas nos serviços e dos incidentes ocorridos na actividade da Inspecção, propondo o que entender conveniente ao bom funcionamento dos mesmos serviços;\n\n6.º Aprovar os modelos de questionário a preencher pelos funcionários encarregados das visitas de inspecção ou orientação e estabelecer as normas que devem ser adoptadas na organização dos processos;\n\n7.º Desempenhar as demais funções que por lei ou determinação superior lhe sejam cometidas.\n\n2. O director-geral pode designar um dos inspectores superiores administrativos para exercer, com carácter de permanência, as suas funções na sede, ficando o mesmo com a incumbência de o coadjuvar nos trabalhos de coordenação dos serviços da Inspecção e de transmitir aos demais funcionários da Inspecção Administrativa as ordens e instruções superiores, além de lhe competir a fiscalização regular dos trabalhos a cargo da Inspecção, bem como do pessoal administrativo que lhe esteja afecto.\n\n3. Ao funcionário designado nos termos do número anterior compete ainda exercer, por delegação do director-geral, todos ou alguns dos poderes a que se referem os n.os 2.º, 4.º e 6.º do n.º 1 deste artigo, sem prejuízo da faculdade, que ao director-geral assiste, de fazer idêntica delegação em qualquer dos outros inspectores superiores."
+  },
+  "ec2d1027a25a4604": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\n1. Compete, em geral, aos inspectores superiores administrativos:\n\n1.º Coadjuvar o director-geral no exercício da respectiva competência, executando as suas ordens e observando as suas instruções;\n\n2.º Elaborar os relatórios das visitas de inspecção, sindicâncias, inquéritos e processos disciplinares de que hajam sido incumbidos;\n\n3.º Dar conhecimento ao director-geral de todos os factos que possam interessar à Inspecção Administrativa ou à própria Direcção-Geral;\n\n4.º Exercer a competência delegada a que se refere o n.º 3 do artigo antecedente;\n\n5.º Velar pela disciplina dos inspectores administrativos de 1.ª e 2.ª classes;\n\n6.º Desempenhar as demais funções que, por lei ou por determinação do Ministro ou do director-geral, lhes sejam cometidas.\n\n2. Nos casos de vacatura do cargo de director de serviços ou de impedimento do seu titular, podem as respectivas funções ser confiadas pelo Ministro, por proposta do director-geral, a um inspector superior administrativo."
+  },
+  "37500ef9a597794a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nCompete, exclusivamente, aos inspectores superiores administrativos realizar as visitas de inspecção, sindicâncias e inquéritos aos órgãos e serviços das câmaras municipais dos concelhos de Lisboa e Porto e urbanos de 1.ª ordem."
+  },
+  "4f7c6b69e6d9479a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nCompete aos inspectores administrativos de 1.ª classe:\n\n1.º Coadjuvar os inspectores superiores administrativos;\n\n2.º Elaborar os relatórios das visitas de inspecção que forem chamados a efectuar;\n\n3.º Prestar na Direcção-Geral o serviço que lhes for determinado;\n\n4.º Cumprir as ordens e instruções que lhes forem dadas, em matéria de serviço, pelo director-geral ou pelos inspectores superiores administrativos."
+  },
+  "3edd3546f700f237": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nOs inspectores administrativos de 1.ª classe podem ser incumbidos do desempenho de funções idênticas às que competem, quanto ao serviço externo, aos inspectores superiores administrativos, sem prejuízo do disposto no artigo 48.º"
+  },
+  "cd8697210a4fbf8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nCompete aos inspectores administrativos de 2.ª classe:\n\n1.º Coadjuvar os inspectores superiores administrativos ou os inspectores administrativos de 1.ª classe;\n\n2.º Prestar na Direcção-Geral o serviço que lhes for determinado;\n\n3.º Cumprir as ordens e instruções que lhes forem dadas, em matéria de serviço, pelo director-geral ou demais superiores hierárquicos."
+  },
+  "eb5e56def1d4aa06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nAs inspecções são ordinárias e extraordinárias: as primeiras são determinadas pelo director-geral; as segundas dependem de ordem do Ministro."
+  },
+  "fd2043143cb802d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n1. O director-geral fixará, em cada caso, o prazo dentro do qual a inspecção ou outro serviço deva concluir-se.\n\n2. Só com autorização do Ministro poderá qualquer serviço exceder o prazo de noventa dias.\n\n3. A inobservância dos prazos fixados será punida com a reposição das ajudas de custo, independentemente do procedimento disciplinar a que houver lugar."
+  },
+  "020dfef2bcf5d8fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nOs inspectores superiores administrativos e os inspectores administrativos de 1.ª classe podem, quando no exercício das suas funções e se as circunstâncias o exigirem, determinar a imediata comparência ao serviço de qualquer funcionário, fazendo-o interromper a licença para férias que, porventura, esteja a gozar."
+  },
+  "9feb86f7b6eef0ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\nNos processos de inspecção não devem, em regra, ser ouvidas testemunhas nem tomadas declarações."
+  },
+  "d0d456cb2dec2cc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\nOs factos irregulares susceptíveis de implicar procedimento disciplinar devem ser desde logo participados superiormente."
+  },
+  "19fb63f439c84e35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\nOs funcionários da Inspecção deverão proceder, em todas as circunstâncias, de modo a salvaguardar o prestígio e a autoridade dos órgãos das autarquias locais."
+  },
+  "485c187a9c7d839a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\nOs inspectores podem ser incumbidos de realizar sindicâncias ou inquéritos respeitantes aos serviços da Direcção-Geral, da Secretaria-Geral ou dos governos civis e de instruir processos disciplinares em que sejam arguidos os respectivos funcionários."
+  },
+  "ff50f7eb66bc3113": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\nÉ proibido, em especial, aos inspectores:\n\n1.º Aceitar hospedagem em casa de funcionários dos corpos administrativos ou componentes dos órgãos das autarquias locais;\n\n2.º Revelar a qualquer pessoa estranha aos serviços os factos de que tomarem conhecimento no exercício das suas funções;\n\n3.º Ausentar-se do concelho onde se encontrem sem autorização do director-geral."
+  },
+  "a149cf9d107f7ec8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\n1. No final da inspecção, o funcionário que a dirigir elaborará relatório sucinto que verse todas as matérias indicadas no artigo 44.º, n.os 1 e 2, e as mais que constarem das instruções que lhe forem transmitidas, devendo chamar a atenção para os pontos que justifiquem providências de ordem geral ou particular.\n\n2. Os relatórios, com os respectivos processos, darão entrada na secretaria da Inspecção até vinte dias depois de terminada inspecção ou outro serviço, se prazo diferente não tiver sido especialmente fixado pelo director-geral.\n\n3. O disposto no número anterior aplica-se aos processos de sindicância e de inquérito."
+  },
+  "366cfa17cd9c8ccc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\nOs funcionários da Inspecção Administrativa, quando se encontrem a prestar serviço externo, perceberão ajudas de custo e subsídios de transporte em 1.ª classe, podendo utilizar automóvel próprio, tudo nas condições estabelecidas na lei geral aplicável."
+  },
+  "8d0fbb0ce95783dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\nA Inspecção Administrativa terá secretaria privativa, pela qual correrá o expediente respeitante aos assuntos que lhe devam estar afectos."
+  },
+  "fd856c2257327cf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\nNa secretaria da Inspecção Administrativa proceder-se-á ao registo de ordens de serviço, processos, pareceres e despachos, bem como ao de outros documentos ou actos que o director-geral repute conveniente."
+  },
+  "e8681000fa06bfda": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais e condições de provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais e condições de provimento"
+  },
+  "8cbae733686b6ae3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º",
+   "in_force_from": "1974-12-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 707/74](https://diariodarepublica.pt/dr/detalhe/decreto/707-1974-467069), publicado em 1974-12-10."
+   ],
+   "markdown": "###### Artigo 64.º\n\n1. Os lugares de secretário-geral e de director-geral de Administração Local serão providos, por nomeação do Primeiro-Ministro e do Ministro da Administração Interna, de entre licenciados em Direito com reconhecida capacidade para o desempenho das respectivas funções.\n\n2. Sempre que a nomeação recaia em quem já seja funcionário público ou administrativo, os lugares serão exercidos em comissão de serviço, pelo período de três anos, renovável, sem prejuízo das remunerações e regalias atribuídas ao cargo de origem, e contando-se, para todos os efeitos legais, como se neste fora prestado, todo o tempo em que o funcionário se mantiver no desempenho dos referidos lugares.\n\n> Alterado pelo/a [Decreto n.º 707/74](https://diariodarepublica.pt/dr/detalhe/decreto/707-1974-467069), publicado em 1974-12-10."
+  },
+  "fa62fa54efe20a06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\n1. Os lugares de inspector superior administrativo, director de serviços e chefe de divisão serão providos, por escolha do Ministro do Interior, entre diplomados com curso superior adequado ao exercício das respectivas funções e que satisfaçam, em especial, às condições seguintes:\n\na) Inspector superior administrativo - director de serviços, chefe de divisão, inspector administrativo de 1.ª classe ou técnico de 1.ª classe do quadro interno, ou funcionário da 1.ª categoria do quadro geral dos serviços externos da Direcção-Geral de Administração Local;\n\nb) Director de serviços - chefe de divisão, inspector administrativo de 1.ª classe ou técnico de 1.ª classe do quadro interno, ou funcionário da 1.ª categoria do quadro geral dos serviços externos da Direcção-Geral de Administração Local;\n\nc) Chefe de divisão - inspector administrativo de 1.ª classe ou técnico de 1.ª classe do quadro interno, ou funcionário da 1.ª categoria do quadro geral dos serviços externos da Direcção-Geral de Administração Local.\n\n2. Quando se verifique a impossibilidade ou inconveniência de o provimento se efectuar entre indivíduos que satisfaçam às condições do número anterior, poderá a nomeação recair em diplomado com curso superior adequado de reconhecida competência."
+  },
+  "ca1807d340446ebd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º\n\n1. A nomeação para os lugares de inspector administrativo de 2.ª classe será feita, por escolha do Ministro do Interior, entre diplomados com curso superior adequado.\n\n2. A nomeação poderá também recair em funcionário de categoria não inferior a primeiro-oficial com boas informações e mais de dez anos de serviço no quadro único ou no quadro geral administrativo dos serviços externos da Direcção-Geral."
+  },
+  "6268cf176967fdd2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º\n\n1. O provimento dos lugares de inspector administrativo de 1.ª classe far-se-á, por escolha do Ministro do Interior, entre os inspectores administrativos de 2.ª classe diplomados com curso superior, podendo também recair em licenciados em Direito com a classificação mínima de Bom.\n\n2. Neste último caso, a nomeação será feita nos termos dos artigos 70.º ou 71.º do presente diploma."
+  },
+  "a4d5dec622231fea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º\n\n1. Os lugares de chefe de secção serão providos, por escolha do Ministro do Interior, entre funcionários do quadro único ou do quadro geral administrativo dos serviços externos da Direcção-Geral com mais de três anos de bom e efectivo serviço em categoria não inferior à de primeiro-oficial, ou entre diplomados com curso superior.\n\n2. Neste último caso, a nomeação será feita nos termos dos artigos 70.º ou 71.º do presente diploma."
+  },
+  "9ee1bd75a61d7568": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º\n\n1. Os lugares de técnico auxiliar de 2.ª classe serão providos, por escolha do Ministro, entre indivíduos que possuam cursos de formação das escolas técnicas apropriadas ou o 2.º ciclo liceal ou habilitação equiparada.\n\n2. O provimento dos lugares de técnico auxiliar de 1.ª classe far-se-á, por escolha do Ministro, entre os técnicos auxiliares de 2.ª classe."
+  },
+  "47067e511f23aba7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º\n\n1. A nomeação para os cargos a que se referem os artigos 65.º e 66.º e o n.º 1 do artigo 69.º terá carácter provisório durante dois anos, prorrogáveis por mais um ano.\n\n2. Findo o período inicial ou o da sua prorrogação, o funcionário será provido definitivamente, se tiver revelado aptidão, ou exonerado, no caso contrário."
+  },
+  "2797b7d259bf5190": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º\n\n1. Os funcionários do Estado ou das autarquias locais que exerçam, sem provimento definitivo, qualquer dos cargos abrangidos pelo artigo anterior consideram-se em comissão de serviço, aplicando-se aos funcionários administrativos o regime prescrito no artigo 522.º do Código Administrativo.\n\n2. O tempo de serviço prestado contar-se-á, para todos os efeitos, como se o fosse em cargo da classe a que pertençam no quadro de origem ou para a qual hajam sido aprovados no respectivo concurso.\n\n3. A nomeação poderá converter-se em definitiva após um ano de bom e efectivo serviço.\n\n4. Enquanto se conservarem em regime de comissão, podem os funcionários regressar ao quadro de origem na categoria ou classe que tinham ou naquela que tenham obtido posteriormente.\n\n5. Se a comissão cessar por decisão ministerial e não existir vaga onde o funcionário possa ser provido, ou até que o provimento se efectue, passará este a prestar serviço em qualquer departamento do Ministério do Interior ou do Ministério ou da autarquia local donde proveio, conforme decisão do Ministro do Interior, de acordo, quando for caso disso, com o Ministro respectivo.\n\n6. No decurso dessa situação, o funcionário terá direito ao vencimento correspondente à sua categoria, a cargo do departamento onde prestar serviço ou, se tal não for possível, a cargo da Direcção-Geral ou da Secretaria-Geral, conforme os casos.\n\n7. Tratando-se de funcionário do quadro geral administrativo dos serviços externos da Direcção-Geral, será considerado opositor obrigatório aos concursos de provimento posteriores à data do respectivo despacho."
+  },
+  "6c4ef914d3eb5ea4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º\n\nO provimento dos cargos de técnicos de 1.ª classe e técnicos de 2.ª classe far-se-á nos mesmos termos prescritos para provimento dos cargos de inspectores administrativos de 1.ª e 2.ª classes."
+  },
+  "b20341280f905464": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º\n\nO lugar de bibliotecário-arquivista será provido, mediante concurso documental, de entre indivíduos com as habilitações legalmente exigíveis."
+  },
+  "c181a3587e3f2762": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º\n\n1. Os lugares de primeiro-oficial e segundo-oficial serão providos mediante concurso de provas escritas, de entre funcionários da classe imediatamente inferior.\n\n2. Excluem-se do preceituado no número anterior os funcionários com menos de três anos de bom e efectivo serviço na classe a que pertençam.\n\n3. Não poderão ser admitidos a concurso para os lugares de primeiro-oficial os funcionários que não possuam a habilitação do 2.º ciclo liceal ou equiparada.\n\n4. Se o concurso ficar deserto ou o número de candidatos aprovados for insuficiente para preencher todas as vagas existentes e não se julgar conveniente recorrer ao provimento por funcionários da classe correspondente do quadro geral administrativo dos serviços externos ou por indivíduos aprovados no respectivo concurso de habilitação, abrir-se-á novo concurso, a que poderão ser admitidos os funcionários da classe imediatamente inferior, independentemente do tempo de serviço a que se refere o n.º 2 deste artigo."
+  },
+  "2e4dc59641ae79bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º\n\n1. Os lugares de terceiro-oficial e de escriturário-dactilógrafo serão providos mediante concurso de provas escritas, nos termos da lei geral.\n\n2. Se o concurso para o cargo de terceiro-oficial ficar deserto ou o número de candidatos aprovados for insuficiente para preencher todas as vagas existentes, poderá o provimento efectuar-se, por escolha, entre funcionários da classe correspondente do quadro geral administrativo dos serviços externos da Direcção-Geral ou indivíduos habilitados no respectivo concurso."
+  },
+  "c1248f5b9388b88d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º\n\nEm igualdade de classificação nos concursos constituem preferências para o provimento:\n\na) A prestação de serviço militar, nos termos legalmente prescritos;\n\nb) Maiores habilitações literárias;\n\nc) Ter exercido funções públicas, ainda que interinamente, por contrato ou por assalariamento a título permanente;\n\nd) Mais tempo de serviço no exercício das funções a que se refere a alínea anterior."
+  },
+  "9ef6eb69f2acc711": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º\n\nOs funcionários pertencentes ao quadro comum da Secretaria-Geral e da Direcção-Geral podem ser transferidos, a todo o tempo, mediante despacho do Ministro, de um para outro dos referidos serviços."
+  },
+  "28ad205199d9c337": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º\n\n1. Quando a nomeação der ingresso no quadro e o nomeado não for funcionário com provimento definitivo, o provimento terá carácter provisório durante dois anos, prorrogáveis por mais um ano.\n\n2. Findo o período inicial ou o da sua prorrogação, a nomeação poderá ser convertida em definitiva, sob proposta do secretário-geral ou do director-geral, conforme o quadro de que se trate, fundamentada na qualidade do serviço. Se a nomeação não for convertida em definitiva, o funcionário será exonerado."
+  },
+  "0e37f495e0609ac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º\n\nHaverá um fiel de 1.ª classe, de escolha do Ministro, ao qual compete:\n\n1.º Zelar pela guarda e segurança do edifício do Ministério;\n\n2.º Organizar os serviços de higiene e limpeza e zelar pela conservação do edifício do Ministério e dos móveis nele existentes;\n\n3.º Verificar, depois de findos os respectivos trabalhos, se todas as repartições foram devidamente fechadas, fazendo retirar do edifício as pessoas que ali não devam permanecer;\n\n4.º Dirigir e fiscalizar o pessoal auxiliar que presta serviço no Ministério e velar pela correcção do seu vestuário e porte;\n\n5.º Participar as faltas do pessoal auxiliar;\n\n6.º Expedir e receber a correspondência;\n\n7.º Ter à sua guarda o livro de ponto do pessoal auxiliar, entregando, até ao dia 5 de cada mês, as notas mensais de assiduidade do mesmo pessoal;\n\n8.º Executar tudo o mais de que for incumbido pelo secretário-geral."
+  },
+  "3c28cc085eaf11a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º\n\nOs porteiros ficam sujeitos ao horário de serviço fixado pelo secretário-geral."
+  },
+  "0a40beab09d7b0eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º\n\nOs motoristas e o correio, quando sigam nas viaturas com o Ministro, podem usar dos mesmos poderes que cabem aos agentes da Polícia de Segurança Pública."
+  },
+  "0da96b66f7e57ac3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º\n\n1. Os lugares de servente são providos por assalariamento.\n\n2. As serventes ficam sujeitas ao horário de trabalho a estabelecer pelo secretário-geral, de acordo com as conveniências do serviço."
+  },
+  "9e108da018c966d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º\n\nSempre que o recrutamento se efectue independentemente de concurso, o provimento far-se-á sob proposta do secretário-geral ou do director-geral, conforme os casos."
+  },
+  "4d59ac176e1fe56f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Concursos"
+  },
+  "00aa03b4eac59832": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º\n\n1. Os concursos serão abertos por prazo não inferior a quinze dias, mediante anúncio publicado no Diário do Governo.\n\n2. Os concursos têm três anos de validade, a qual cessará, porém, desde logo, relativamente aos candidatos que não tomarem posse dos cargos em que hajam sido providos.\n\n3. Pode, todavia, qualquer candidato desistir do provimento, por declaração expressa ou deixando de entregar a documentação exigida para o efeito, no prazo que lhe for fixado.\n\n4. O candidato que desista passará a figurar no último lugar da lista de classificação do respectivo concurso de habilitação, perdendo definitivamente o direito ao provimento no caso de não haver qualquer outro candidato por colocar ou de reincidir na desistência."
+  },
+  "ce509b394e4b1d3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 85.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º\n\nAplica-se aos concursos documentais o disposto no n.º 1 do artigo anterior."
+  },
+  "b800df7693ad57f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º\n\nSão requisitos gerais para a admissão aos concursos:\n\n1.º Ter nacionalidade portuguesa originária ou adquirida há mais de dez anos;\n\n2.º Ter 18 anos de idade, pelo menos, mas não mais de 35, salvo, quanto a este limite, os que já forem funcionários do Estado ou das autarquias locais ou se encontrem em situação que legalmente dele os dispense;\n\n3.º Não estar interdito judicialmente nem suspenso do exercício de direitos políticos;\n\n4.º Possuir a robustez física necessária para o exercício do cargo, não sofrer de doença contagiosa, particularmente tuberculose contagiosa ou evolutiva, ter sido vacinado ou haver sofrido ataque de varíola nos últimos sete anos e encontrar-se vacinado contra o tétano, nos termos da legislação aplicável;\n\n5.º Haver cumprido os deveres militares que, nos termos das leis sobre recrutamento, tenham cabido ao concorrente até à data do concurso;\n\n6.º Estar livre de culpa no respectivo registo criminal e não ter sofrido anteriormente pena que importe demissão de funções públicas, salvo tendo sido reabilitado em revisão de sentença;\n\n7.º Possuir a habilitação exigida para o provimento do cargo;\n\n8.º Possuir bilhete de identidade actualizado."
+  },
+  "18d2e53b4d7154bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 87.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º\n\n1. Os candidatos serão sempre dispensados de juntar aos seus requerimentos os documentos necessários à comprovação dos requisitos essenciais para a admissão, nas condições legalmente previstas.\n\n2. O provimento dos candidatos será precedido da apresentação dos documentos comprovativos de satisfazerem os requisitos essenciais.\n\n3. Os candidatos poderão utilizar os documentos já existentes na Secretaria-Geral ou na Direcção-Geral, com excepção daqueles cuja validade haja caducado, desde que indiquem esses documentos e mencionem a data da entrega.\n\n4. Os candidatos que já sejam funcionários apenas serão obrigados a comprovar essa qualidade e o requisito do n.º 7.º do artigo anterior."
+  },
+  "24b63a3058d1b481": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 88.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º\n\nOs funcionários com mais de três anos de serviço em cada categoria ou classe são opositores obrigatórios aos concursos de promoção à categoria ou classe imediata, sem prejuízo das inibições previstas na lei geral."
+  },
+  "21c2db6a73a11647": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 89.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º\n\nOs funcionários na situação de licença ilimitada não podem ser admitidos a concursos, salvo tratando-se de concursos de ingresso e desde que reúnam os requisitos estabelecidos no artigo 86.º"
+  },
+  "c6d9e5ed486f489d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 90.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º\n\nO júri dos concursos será constituído por três funcionários designados pelo director-geral, um dos quais servirá de presidente."
+  },
+  "a072d8b989ae4973": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 91.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º\n\n1. As provas são classificadas por notas de 0 a 20, considerando-se excluídos os candidatos que obtenham média inferior a 10 valores.\n\n2. Nos concursos de promoção a classificação será corrigida pelas informações de serviço."
+  },
+  "6aa78fe516466343": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 92.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º\n\nOs programas dos concursos serão os estabelecidos por portaria do Ministro do Interior."
+  },
+  "64c1f51e6b0651f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 93.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º\n\nEm tudo quanto não estiver especialmente previsto neste diploma aplicam-se as disposições que regulam os concursos para recrutamento dos funcionários do quadro geral administrativo dos serviços externos da Direcção-Geral de Administração Local."
+  },
+  "665ce90db66e7841": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Cadastro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Cadastro"
+  },
+  "d92260314cc309f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 94.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º\n\n1. Na Secretaria-Geral e na Direcção-Geral haverá cadastro do pessoal que lhes estiver afecto.\n\n2. Na Direcção-Geral haverá ainda cadastro do pessoal do quadro geral administrativo dos serviços externos.\n\n3. O cadastro de cada funcionário consiste no respectivo processo individual, constituído pelos documentos que se lhe refiram, e pela folha de serviço, com indicação da idade, estado, naturalidade e morada, lugar que exerce, dos que tenha exercido, datas das nomeações ou contratos, posses, licenças, faltas, promoções, transferências, aposentação, exoneração, louvores e distinções, penalidades, classificações de serviço e nos concursos de habilitação, livros publicados e tudo o mais que possa interessar à carreira profissional."
+  },
+  "02ebaff098a19f09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 95.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º\n\nOs dirigentes dos respectivos serviços são obrigados a comunicar, no prazo de dois dias, a data da posse dos funcionários e todos os demais elementos que devem constar do processo individual e da folha de serviço, cumprindo aos próprios funcionários participar aos seus chefes as alterações ao estado civil e as mudanças de residência."
+  },
+  "8b8cced64276d59b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 96.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º\n\nSempre que qualquer funcionário encontre nos processos que lhe hajam sido confiados matéria que interesse ao cadastro, deve comunicá-la superiormente, para que se promova o seu lançamento na respectiva folha de serviço."
+  },
+  "eef0e681165b5246": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições gerais sobre serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições gerais sobre serviços"
+  },
+  "8c555910f4456da1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 97.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º\n\nl. O arquivo da Secretaria-Geral e dos restantes serviços centrais dependentes do Ministério conterá, devidamente arrumados, catalogados e com as respectivas etiquetas, todos os livros, processos, documentos e demais papéis referentes aos últimos dez anos e, bem assim, os que superiormente se entenda deverem ali manter-se para além desse período.\n\n2. As remessas para o arquivo constarão de guia de entrega, em duplicado, assinada por funcionário de categoria não inferior à de chefe de divisão e pelo bibliotecário-arquivista, ficando um exemplar na secretaria ou departamento donde hajam saído os livros ou documentos e outro no arquivo.\n\n3. Não é permitida a saída do arquivo de qualquer livro ou documento sem requisição do modelo aprovado para o efeito, datada e assinada, que será devolvida com a nota de recebimento logo que sejam de novo entregues.\n\n4. As requisições ao arquivo deverão ser feitas pelo Ministro, secretário-geral ou dirigentes dos vários serviços do Ministério, de categoria não inferior a chefe de divisão, ou por funcionário pelos mesmos designado."
+  },
+  "9f7b978c7dc6c6b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 98.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º\n\n1. Haverá na Secretaria-Geral e na Direcção-Geral um ou mais livros destinados ao registo de entrada de todos os documentos, petições, reclamações e ofícios, andamento de processos e despachos que hajam obtido.\n\n2. O registo deve fazer-se de modo que a correspondência entrada num dia fique nesse mesmo dia distribuída.\n\n3. Nenhum documento será apresentado a despacho sem nota de registo, salvo tratando-se de assuntos urgentes, caso em que o registo se fará em seguida.\n\n4. Para a correspondência classificada haverá livro próprio."
+  },
+  "12cc299d422d6857": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 99.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º\n\n1. Não serão registados nem terão andamento os requerimentos que não estiverem devidamente assinados e, quando necessário, escritos em papel selado.\n\n2. Os requerimentos nas condições a que se refere o número anterior serão guardados em arquivo especial."
+  },
+  "ff70adade2b3104f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 100.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100.º\n\n1. Em nenhuma representação, informação, requerimento ou ofício será permitido tratar de mais de um assunto.\n\n2. Os documentos que não satisfizerem este preceito serão devolvidos."
+  },
+  "88cc3b53d4a30fd2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 101.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º\n\nNão serão restituídos os requerimentos e representações desde que hajam sido registados."
+  },
+  "c7b8c343cc10787b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 102.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 102.º\n\nOs documentos juntos a requerimentos só serão entregues aos requerentes quando estes desistam das pretensões antes de sobre eles haver recaído qualquer despacho, ou quando os mencionados requerimentos tenham sido indeferidos, não havendo recurso."
+  },
+  "22e3f68bd413b5f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 103.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 103.º\n\n1. Só devem ser passadas certidões de documentos, requerimentos ou despachos a quem demonstre justificado interesse nos assuntos respectivos.\n\n2. Em caso de dúvida sobre a justificação desse interesse ou quando pareça haver inconveniente para o serviço na passagem de qualquer certidão, decidirá o Ministro."
+  },
+  "5946011d757ca1be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 104.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 104.º\n\n1. Os processos que exijam resolução serão devidamente informados pelo funcionário a quem forem distribuídos.\n\n2. As informações serão dadas por escrito, datadas e assinadas, e devem, normalmente, conter os seguintes elementos:\n\na) Resumo da matéria de facto sobre que versa o processo;\n\nb) Menção das disposições legais aplicáveis ao caso, se as houver, ou expressa declaração de que nenhuma existe aplicável;\n\nc) Indicação da forma como, sob o domínio das mesmas regras legais, têm sido resolvidos casos semelhantes e da solução que parecer mais justa e eficiente.\n\n3. Se o chefe dos respectivos serviços perfilhar inteiramente a informação do funcionário seu subordinado, pode limitar-se a declarar a sua concordância."
+  },
+  "72daf9ed8d6cd0d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 105.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 105.º\n\nToda a correspondência se considera reservada, não podendo ser dada a conhecer a pessoas estranhas ao serviço sem autorização expressa do secretário-geral, director-geral ou chefe do Gabinete, conforme o serviço a que respeite."
+  },
+  "0a1dea66aba03637": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições transitórias e finais"
+  },
+  "47f5fe6f5767fff4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 106.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 106.º\n\n1. O primeiro provimento nos lugares de inspector administrativo de 1.ª classe poderá recair nos actuais subinspectores administrativos com mais de dez anos de bom e efectivo serviço na categoria.\n\n2. O primeiro provimento nos cargos de técnicos de 1.ª classe poderá recair nos actuais chefes de secção do quadro interno da Direcção-Geral com mais de dez anos de bom e efectivo serviço no mesmo quadro.\n\n3. O primeiro provimento nos lugares de oficial poderá efectuar-se independentemente de concurso, desde que a escolha recaia em funcionário dos actuais quadros da Secretaria-Geral ou da Direcção-Geral da mesma categoria e de classe imediatamente inferior ou de categoria imediatamente inferior que satisfaça aos requisitos legais, com três anos, pelo menos, de bom e efectivo serviço nessa categoria e classe.\n\n4. As primeiras nomeações para os cargos de terceiro-oficial e de segundo-oficial podem ainda recair, por escolha, em funcionários da 4.ª ou da 3.ª classe, conforme os casos, da 2.ª categoria do quadro geral administrativo dos serviços externos da Direcção-Geral ou em candidatos aprovados no respectivo concurso de habilitação."
+  },
+  "6f699b97a89505f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 107.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 107.º\n\nSerão resolvidas por despacho do Ministro do Interior todas as dúvidas que se suscitem na aplicação do presente diploma."
+  },
+  "fb9829f8093b1a11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 108.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 108.º\n\nEste diploma entra em vigor no dia 1 de Agosto de 1973.\n\nMarcello Caetano - António Manuel Gonçalves Rapazote.\n\nPromulgado em 2 de Julho de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

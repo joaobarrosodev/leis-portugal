@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:506793:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1976-02-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b5111cbb5c580aaf"
+   ]
+  },
+  {
+   "date": "1983-02-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:311375:por",
+     "title": "Lei n.º 3/83",
+     "published": "1983-02-26",
+     "dre_path": "/dr/detalhe/lei/3-1983-311375"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "19b68164e0b2c896",
+    "c2dd524c634971da",
+    "4322721e1c2aafd4",
+    "6295634358169a58"
+   ]
+  }
+ ],
+ "fragments": {
+  "b5111cbb5c580aaf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Fevereiro\n\nO recente encarecimento da via postal, numa época em que há necessidade de compressão das despesas públicas, aliado às exigências de simplificação dos actos burocráticos e à acumulação de serviço nos tribunais do País, aconselha a adopção de providências que tornem menos dispendiosos e mais fáceis os actos processuais.\n\nAfigura-se possível e sem inconvenientes a supressão dos avisos de recepção na comunicação dos actos de processo, pois o simples registo, com as necessárias adaptações legais, garante suficientemente a segurança dessa comunicação.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. É abolida a exigência de avisos de recepção para as notificações em quaisquer processos, sendo contudo obrigatório o registo postal em todos os avisos e notificações, incluindo os relativos a preparos, multas e custas.\n\n2. O funcionário que emitir qualquer aviso ou notificação mencionará por escrito, no canto superior esquerdo do seu rosto ou do respectivo sobrescrito, o número e secção do processo, bem como a data do registo, assinando estas menções.\n\n3. Todas as notificações e avisos efectuados nos termos dos números anteriores se presumem feitos no terceiro dia posterior ao do registo ou no primeiro dia útil seguinte a esse, quando o não seja, não produzindo efeitos anteriores.\n\n4. A presunção do n.º 3 só pode ser ilidida pelo avisado ou notificado quando o facto da recepção do aviso ou notificação ocorra em data posterior à presumida, por razões que não lhe sejam imputáveis, requerendo no processo que seja requisitada aos correios informação sobre a data efectiva dessa recepção.\n\nArt. 2.º O preceituado no artigo anterior é aplicável em todos os processos, qualquer que seja a sua natureza ou espécie, ficando revogadas todas as disposições em contrário, ainda que especiais.\n\nArt. 3.º Este decreto-lei entra em vigor na data da publicação.\n\nVisto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha.\n\nPromulgado em 30 de Janeiro de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "19b68164e0b2c896": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Fevereiro\n\nO recente encarecimento da via postal, numa época em que há necessidade de compressão das despesas públicas, aliado às exigências de simplificação dos actos burocráticos e à acumulação de serviço nos tribunais do País, aconselha a adopção de providências que tornem menos dispendiosos e mais fáceis os actos processuais.\n\nAfigura-se possível e sem inconvenientes a supressão dos avisos de recepção na comunicação dos actos de processo, pois o simples registo, com as necessárias adaptações legais, garante suficientemente a segurança dessa comunicação.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "c2dd524c634971da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1983-02-26",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 3/83](https://diariodarepublica.pt/dr/detalhe/lei/3-1983-311375), publicado em 1983-02-26."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1. É abolida a exigência de avisos de recepção para as notificações em quaisquer processos, sendo contudo obrigatório o registo postal em todos os avisos e notificações, incluindo os relativos a preparos, multas e custas.\n\n2. O funcionário que emitir qualquer aviso ou notificação mencionará por escrito, no canto superior esquerdo do seu rosto ou do respectivo sobrescrito, o número e secção do processo, bem como a data do registo, assinando estas menções.\n\n3 - Todas as notificações e avisos efectuados nos termos dos números anteriores presumem-se feitos no quinto dia posterior ao do registo, ainda que não seja dia útil, contando-se como um só qualquer prazo que se siga àquele quinto dia.\n\n4. A presunção do n.º 3 só pode ser ilidida pelo avisado ou notificado quando o facto da recepção do aviso ou notificação ocorra em data posterior à presumida, por razões que não lhe sejam imputáveis, requerendo no processo que seja requisitada aos correios informação sobre a data efectiva dessa recepção.\n\n> Alterado pelo/a [Lei n.º 3/83](https://diariodarepublica.pt/dr/detalhe/lei/3-1983-311375), publicado em 1983-02-26."
+  },
+  "4322721e1c2aafd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO preceituado no artigo anterior é aplicável em todos os processos, qualquer que seja a sua natureza ou espécie, ficando revogadas todas as disposições em contrário, ainda que especiais."
+  },
+  "6295634358169a58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEste decreto-lei entra em vigor na data da publicação.\n\nVisto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha.\n\nPromulgado em 30 de Janeiro de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}

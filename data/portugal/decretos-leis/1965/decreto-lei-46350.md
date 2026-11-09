@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1968-07-18'
+version_history:
+  file: decreto-lei-46350.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1965-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1968-07-18'
+    amending: pt:dre:272629:por
+    amending_title: Decreto-Lei n.º 48489
+    changes:
+    - Altera Artigo 15.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:53:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48489. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46350.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -263,7 +278,9 @@ Desta forma, o que deve constituir objectivo fundamental e preocupação dominan
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º À Direcção-Geral do Ensino Superior e das Belas-Artes compete pelos seus serviços de inspecção das bibliotecas e arquivos:
+###### Artigo 1.º
+
+À Direcção-Geral do Ensino Superior e das Belas-Artes compete pelos seus serviços de inspecção das bibliotecas e arquivos:
 
 1.º Informar os processos que devam subir directamente à apreciação do Ministro e encaminhar para a Junta Nacional da Educação aqueles em que haja lugar à intervenção deste organismo, bem como promover a execução das decisões que vierem a ser proferidas.
 
@@ -341,7 +358,9 @@ c) Propor a transferência por tempo determinado de espécies de uma biblioteca 
 
 § 2.º Aos representantes da Direcção-Geral será em qualquer altura obrigatòriamente facultado pelos respectivos proprietários ou possuidores o exame das espécies e núcleos inventariados e dos que se presuma terem valor para inventariação.
 
-Art. 2.º Os directores dos arquivos distritais são delegados da Direcção-Geral no respectivo distrito, cabendo-lhes nessa qualidade:
+###### Artigo 2.º
+
+Os directores dos arquivos distritais são delegados da Direcção-Geral no respectivo distrito, cabendo-lhes nessa qualidade:
 
 a) Vigiar pela guarda, segurança e conservação dos arquivos e bibliotecas dos serviços do Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado, fornecendo aos respectivos directores as convenientes instruções técnicas e comunicando superiormente o que se lhes oferecer;
 
@@ -351,15 +370,23 @@ c) Informar sobre a existência de espécies que pelo seu valor mereçam ser inv
 
 d) Chamar a atenção para a necessidade de em qualquer caso se adoptarem as medidas previstas nos n.os 3.º e 4.º do artigo 1.º
 
-Art. 3.º Nos arquivos distritais serão obrigatòriamente incorporados, além dos documentos referidos no § 1.º do artigo 26.º do [Decreto n.º 19952](https://diariodarepublica.pt/dr/detalhe/decreto/19952-1931-530981), os das câmaras municipais, salvo quanto aos concelhos em que existirem arquivos municipais com instalação e organização que pela Direcção-Geral forem consideradas satisfatórias.
+###### Artigo 3.º
 
-Art. 4.º Junto dos arquivos distritais poderão ser criadas bibliotecas públicas, passando neste caso os estabelecimentos ter a designação de «Biblioteca Pública e Arquivo Distrital».
+Nos arquivos distritais serão obrigatòriamente incorporados, além dos documentos referidos no § 1.º do artigo 26.º do [Decreto n.º 19952](https://diariodarepublica.pt/dr/detalhe/decreto/19952-1931-530981), os das câmaras municipais, salvo quanto aos concelhos em que existirem arquivos municipais com instalação e organização que pela Direcção-Geral forem consideradas satisfatórias.
+
+###### Artigo 4.º
+
+Junto dos arquivos distritais poderão ser criadas bibliotecas públicas, passando neste caso os estabelecimentos ter a designação de «Biblioteca Pública e Arquivo Distrital».
 
 § único. A medida a que se refere o presente artigo será tomada mediante portaria dos Ministros das Finanças e da Educação Nacional, se o arquivo pertencer ao Ministério da Educação Nacional, ou, caso contrário, mediante portaria dos Ministros do Interior e da Educação Nacional.
 
-Art. 5.º O Estado, as câmaras municipais das sedes dos distritos e quaisquer outras entidades poderão, nas condições que em cada caso vierem a ser acordadas, depositar na respectiva biblioteca pública os núcleos bibliográficos que lhes pertencerem.
+###### Artigo 5.º
 
-Art. 6.º A cada uma das bibliotecas públicas distritais que não beneficiarem do Depósito Legal serão obrigatòriamente enviados:
+O Estado, as câmaras municipais das sedes dos distritos e quaisquer outras entidades poderão, nas condições que em cada caso vierem a ser acordadas, depositar na respectiva biblioteca pública os núcleos bibliográficos que lhes pertencerem.
+
+###### Artigo 6.º
+
+A cada uma das bibliotecas públicas distritais que não beneficiarem do Depósito Legal serão obrigatòriamente enviados:
 
 a) Por todas as tipografias estabelecidas em território nacional, um exemplar das publicações que imprimirem para os serviços do Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado;
 
@@ -371,17 +398,25 @@ c) Pelos editores, um exemplar das publicações que não estejam abrangidas pel
 
 § 2.º Compete à Biblioteca Nacional de Lisboa, pelo serviço do Depósito Legal, fiscalizar o cumprimento do preceituado neste artigo e promover a aplicação das sanções a que houver lugar.
 
-Art. 7.º São criados, de harmonia com o disposto nos artigos 27.º e seus §§ 1.º e 2.º e 28.º do [Decreto n.º 19952](https://diariodarepublica.pt/dr/detalhe/decreto/19952-1931-530981), no n.º 1.º do artigo 313.º do Código Administrativo (redacção do [Decreto-Lei n.º 42536](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)) e no n.º 6.º do artigo 24.º do Estatuto dos Distritos Autónomos, os Arquivos Distritais de Aveiro, Beja, Castelo Branco, Faro, Guarda, Horta, Santarém, Setúbal, Viana do Castelo e Vila Real.
+###### Artigo 7.º
+
+São criados, de harmonia com o disposto nos artigos 27.º e seus §§ 1.º e 2.º e 28.º do [Decreto n.º 19952](https://diariodarepublica.pt/dr/detalhe/decreto/19952-1931-530981), no n.º 1.º do artigo 313.º do Código Administrativo (redacção do [Decreto-Lei n.º 42536](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42536-1959-429818)) e no n.º 6.º do artigo 24.º do Estatuto dos Distritos Autónomos, os Arquivos Distritais de Aveiro, Beja, Castelo Branco, Faro, Guarda, Horta, Santarém, Setúbal, Viana do Castelo e Vila Real.
 
 § único. Os Arquivos Distritais de Bragança e de Leiria ficam submetidos ao regime legal dos arquivos a que se refere o corpo do presente artigo.
 
-Art. 8.º A Biblioteca Erudita de Bragança e o Arquivo Distrital de Bragança passam a constituir um único estabelecimento, sob a designação de Biblioteca Pública e Arquivo Distrital de Bragança. A Biblioteca Erudita e Arquivo Distrital de Leiria passa a ter a designação de Biblioteca Pública e Arquivo Distrital de Leiria. A Biblioteca Pública de Vila Real e o arquivo distrital agora criado na mesma cidade constituem a Biblioteca Pública e Arquivo Distrital de Vila Real.
+###### Artigo 8.º
+
+A Biblioteca Erudita de Bragança e o Arquivo Distrital de Bragança passam a constituir um único estabelecimento, sob a designação de Biblioteca Pública e Arquivo Distrital de Bragança. A Biblioteca Erudita e Arquivo Distrital de Leiria passa a ter a designação de Biblioteca Pública e Arquivo Distrital de Leiria. A Biblioteca Pública de Vila Real e o arquivo distrital agora criado na mesma cidade constituem a Biblioteca Pública e Arquivo Distrital de Vila Real.
 
 § único. As colecções que actualmente formam as três bibliotecas mencionadas no corpo deste artigo continuam a ser propriedade do Estado.
 
-Art. 9.º O Arquivo da Universidade de Coimbra é desligado da Faculdade de Letras, passando a constituir, nas mesmas condições da Biblioteca Geral, um estabelecimento anexo à reitoria.
+###### Artigo 9.º
 
-Art. 10.º O quadro de pessoal de cada um dos Arquivos Distritais de Aveiro, Beja, Castelo Branco, Faro, Guarda, Horta, Santarém, Setúbal e Viana do Castelo e das Bibliotecas Públicas e Arquivos Distritais de Bragança, Leiria e Vila Real é o que consta do mapa anexo ao presente decreto-lei.
+O Arquivo da Universidade de Coimbra é desligado da Faculdade de Letras, passando a constituir, nas mesmas condições da Biblioteca Geral, um estabelecimento anexo à reitoria.
+
+###### Artigo 10.º
+
+O quadro de pessoal de cada um dos Arquivos Distritais de Aveiro, Beja, Castelo Branco, Faro, Guarda, Horta, Santarém, Setúbal e Viana do Castelo e das Bibliotecas Públicas e Arquivos Distritais de Bragança, Leiria e Vila Real é o que consta do mapa anexo ao presente decreto-lei.
 
 § 1.º Em relação aos estabelecimentos que têm ou que, nos termos do artigo 4.º, vierem a ter a designação de «Biblioteca Pública e Arquivo Distrital», o quadro, sempre que isso se mostre necessário, poderá ser ampliado de um lugar de escriturário ou aspirante, de um lugar de servente ou dos dois lugares, mediante portaria dos Ministros das Finanças e da Educação Nacional, se o estabelecimento pertencer ao Ministério da Educação Nacional, ou, em caso contrário, mediante portaria dos Ministros do Interior e da Educação Nacional.
 
@@ -389,7 +424,9 @@ Art. 10.º O quadro de pessoal de cada um dos Arquivos Distritais de Aveiro, Bej
 
 § 3.º O pessoal da Biblioteca Erudita e Arquivo Distrital de Leiria irá ocupar, sem dependência de quaisquer formalidades, lugares da sua categoria no novo quadro da Biblioteca Pública e Arquivo Distrital de Leiria, mas o director não adquire por esse facto a categoria de conservador.
 
-Art. 11.º O Ministro da Educação Nacional promoverá, através de decreto também referendado pelo Ministro das Finanças, a reorganização do curso de bibliotecário-arquivista.
+###### Artigo 11.º
+
+O Ministro da Educação Nacional promoverá, através de decreto também referendado pelo Ministro das Finanças, a reorganização do curso de bibliotecário-arquivista.
 
 § único. Até à publicação desse decreto o curso continuará a funcionar segundo o preceituado no [Decreto-Lei n.º 26026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26026-1935-537200), de 7 de Novembro de 1935, com as alterações seguintes:
 
@@ -397,7 +434,9 @@ a) Salvo nos casos previstos no presente decreto-lei, a realização com aprovei
 
 b) O Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação, poderá dispensar o estágio se o interessado tiver realizado trabalhos que, pela sua índole, volume e condições em que decorreram, sejam equiparáveis aos normalmente exigidos para a aprovação dos estagiários.
 
-Art. 12.º O diploma de bibliotecário-arquivista é título indispensável para o provimento nos lugares técnicos de categoria igual ou superior a terceiro-bibliotecário ou terceiro-conservador das bibliotecas e arquivos do Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado.
+###### Artigo 12.º
+
+O diploma de bibliotecário-arquivista é título indispensável para o provimento nos lugares técnicos de categoria igual ou superior a terceiro-bibliotecário ou terceiro-conservador das bibliotecas e arquivos do Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado.
 
 § único. O disposto no presente artigo não é aplicável:
 
@@ -407,23 +446,37 @@ b) Aos lugares das bibliotecas escolares que por disposição expressa de lei te
 
 c) Aos funcionários que à data da publicação deste decreto-lei ocuparem lugares técnicos de categoria igual ou superior a terceiro-bibliotecário ou terceiro-conservador, relativamente ao provimento em outros lugares do seu quadro.
 
-Art. 13.º Fora dos casos previstos no artigo anterior e seu parágrafo, o diploma de bibliotecário-arquivista constitui título de preferência para provimento nos restantes lugares técnicos das bibliotecas e arquivos do Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado.
+###### Artigo 13.º
 
-Art. 14.º Na falta de diplomados com o curso de bibliotecário-arquivista poderá abrir-se, para provimento dos lugares a que se refere o corpo do artigo 12.º, concurso documental entre habilitados com aprovação nos exames finais de todas as disciplinas daquele curso. Mas o provimento terá carácter provisório durante seis meses de exercício da função e só será convertido em definitivo se o interessado obtiver boas informações de serviço.
+Fora dos casos previstos no artigo anterior e seu parágrafo, o diploma de bibliotecário-arquivista constitui título de preferência para provimento nos restantes lugares técnicos das bibliotecas e arquivos do Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado.
+
+###### Artigo 14.º
+
+Na falta de diplomados com o curso de bibliotecário-arquivista poderá abrir-se, para provimento dos lugares a que se refere o corpo do artigo 12.º, concurso documental entre habilitados com aprovação nos exames finais de todas as disciplinas daquele curso. Mas o provimento terá carácter provisório durante seis meses de exercício da função e só será convertido em definitivo se o interessado obtiver boas informações de serviço.
 
 § 1.º Se este concurso não der resultado útil, poderá abrir-se concurso documental entre habilitados com um curso superior. Mas o provimento terá carácter provisório, e só será convertido em definitivo se o interessado obtiver aprovação nos exames finais de todas as disciplinas do curso de bibliotecário-arquivista e, além disso, boas informações de serviço. Em hipótese alguma o interessado poderá ser provido definitivamente antes de decorridos seis meses de exercício da função ou nela permanecer além de três anos com provimento provisório.
 
 § 2.º Os que obtiverem provimento definitivo, nos termos do corpo deste artigo ou do parágrafo anterior, ficam dispensados do estágio exigido para a passagem do diploma de bibliotecário-arquivista.
 
-Art. 15.º Os bibliotecários e conservadores das bibliotecas e arquivos do Ministério da Educação Nacional e dos restantes arquivos distritais constituem um único quadro para efeito de ingresso, transferência e promoção, sendo inteiramente livre a passagem de uma para outra daquelas categorias.
+###### Artigo 15.º
 
-§ único. Exceptuam-se do disposto neste artigo os professores providos nos lugares a que se refere a alínea b) do artigo 12.º e os funcionários das bibliotecas privativas das Faculdades e escolas e institutos universitários.
+Os bibliotecários e conservadores das bibliotecas e arquivos do Ministério da Educação Nacional e dos restantes arquivos distritais constituem um único quadro para efeito de ingresso, transferência e promoção, sendo inteiramente livre a passagem de uma para outra daquelas categorias.
 
-Art. 16.º O ingresso no quadro far-se-á por concurso documental entre diplomados com o curso de bibliotecário-arquivista, salvo nos casos previstos no artigo 14.º, e a transferência e a promoção também por concurso documental.
+§ único. Exceptuam-se do disposto neste artigo os professores providos nos lugares a que se refere a alínea b) do artigo 12.º
 
-Art. 17.º O provimento inicial no quadro será por contrato anual, que se considerará renovado por iguais períodos de tempo até cinco anos, se não houver denúncia. Decorrido este prazo, a Direcção-Geral, tendo em conta a qualidade do serviço do contratado, poderá propor a recondução definitiva.
+> Alterado pelo/a [Decreto-Lei n.º 48489](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48489-1968-272629), publicado em 1968-07-18.
 
-Art. 18.º Os directores das bibliotecas e arquivos do Ministério da Educação Nacional, com excepção das bibliotecas escolares, e dos restantes arquivos distritais serão escolhidos pela forma seguinte:
+###### Artigo 16.º
+
+O ingresso no quadro far-se-á por concurso documental entre diplomados com o curso de bibliotecário-arquivista, salvo nos casos previstos no artigo 14.º, e a transferência e a promoção também por concurso documental.
+
+###### Artigo 17.º
+
+O provimento inicial no quadro será por contrato anual, que se considerará renovado por iguais períodos de tempo até cinco anos, se não houver denúncia. Decorrido este prazo, a Direcção-Geral, tendo em conta a qualidade do serviço do contratado, poderá propor a recondução definitiva.
+
+###### Artigo 18.º
+
+Os directores das bibliotecas e arquivos do Ministério da Educação Nacional, com excepção das bibliotecas escolares, e dos restantes arquivos distritais serão escolhidos pela forma seguinte:
 
 a) Os directores da Biblioteca Nacional de Lisboa e do Arquivo Nacional da Torre do Tombo, livremente pelo Ministro, de entre pessoas de reconhecida competência;
 
@@ -437,15 +490,21 @@ c) Os directores das outras bibliotecas e arquivos, pela forma estabelecida para
 
 § 3.º A direcção dos Arquivos Distritais do Porto e de Viseu será exercida, até se reorganizarem os quadros desses arquivos, por pessoas designadas nos termos do artigo seguinte.
 
-Art. 19.º Os directores das demais bibliotecas e arquivos do Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado, quando o lugar não tiver a categoria prevista no artigo 12.º e não houver candidatos diplomados com o curso de bibliotecário-arquivista, serão escolhidos entre pessoas a quem a Junta Nacional da Educação reconhecer a necessária idoneidade.
+###### Artigo 19.º
+
+Os directores das demais bibliotecas e arquivos do Estado, corpos administrativos, organismos paraestatais e entidades subsidiadas pelo Estado, quando o lugar não tiver a categoria prevista no artigo 12.º e não houver candidatos diplomados com o curso de bibliotecário-arquivista, serão escolhidos entre pessoas a quem a Junta Nacional da Educação reconhecer a necessária idoneidade.
 
 § único. Na hipótese prevista na parte final deste artigo a Junta poderá exigir que a pessoa designada realize, antes de entrar em exercício, um estágio em estabelecimentos do Ministério da Educação Nacional e ainda que frequente cursos previstos na alínea m) do n.º 10.º do artigo 1.º
 
-Art. 20.º Os emolumentos a cobrar nas bibliotecas e arquivos do Estado e nos restantes arquivos distritais por certidões, cópias, fotocópias e buscas são os constantes da tabela anexa ao presente diploma.
+###### Artigo 20.º
+
+Os emolumentos a cobrar nas bibliotecas e arquivos do Estado e nos restantes arquivos distritais por certidões, cópias, fotocópias e buscas são os constantes da tabela anexa ao presente diploma.
 
 § único. As fotocópias com os requisitos estabelecidos no artigo 117.º do Código do Notariado aprovado pelo [Decreto-Lei n.º 42933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42933-1960-281616), de 20 de Abril de 1960, valem para todos os efeitos legais como certidões de teor.
 
-Art. 21.º Compete à Direcção-Geral do Ensino Superior e das Belas-Artes assegurar pela forma estabelecida no artigo 2.º do [Decreto-Lei n.º 37461](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37461-1949-261087), de 30 de Junho de 1949, o registo da propriedade científica, literária e artística.
+###### Artigo 21.º
+
+Compete à Direcção-Geral do Ensino Superior e das Belas-Artes assegurar pela forma estabelecida no artigo 2.º do [Decreto-Lei n.º 37461](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37461-1949-261087), de 30 de Junho de 1949, o registo da propriedade científica, literária e artística.
 
 Publique-se e cumpra-se como nele se contém.
 

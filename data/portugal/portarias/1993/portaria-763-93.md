@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-08-24'
+version_history:
+  file: portaria-763-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-08-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-08-24'
+    amending: pt:dre:321357:por
+    amending_title: Portaria n.º 500/2000; Portaria n.º 1038/2001
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/763/1993/08/27/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:09:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 500/2000; Portaria n.º
+    1038/2001. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-763-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -338,7 +355,7 @@ e) Psiquiatria de ligação.
 
 ###### Artigo 4.º — Serviços assistenciais de apoio
 
-O hospital dispõe ainda dos seguintes serviços assistênciais de apoio:
+O hospital dispõe ainda dos seguintes serviços assistenciais de apoio:
 
 a) Farmácia;
 
@@ -348,7 +365,9 @@ c) Saúde ocupacional;
 
 d) Assistência religiosa;
 
-e) Nutrição e dietética.
+e) Nutrição clínica.
+
+> Alterado pelo/a [Portaria n.º 1038/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2001-516015), publicado em 2001-08-23.
 
 ###### Artigo 5.º — Departamento de gestão operativa
 
@@ -382,9 +401,11 @@ a) Instalações e equipamentos;
 
 b) Transportes e comunicações;
 
-c) Alimentação;
+c) Alimentação e dietética;
 
 d) Segurança.
+
+> Alterado pelo/a [Portaria n.º 1038/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1038-2001-516015), publicado em 2001-08-23.
 
 ###### Artigo 6.º — Serviços culturais e de educação permanente
 
@@ -490,7 +511,9 @@ A forma de nomeação e competência, responsabilidade e mandato do enfermeiro-d
 
 ###### Artigo 14.º — Adjuntos do enfermeiro-director
 
-Como órgão de direcção técnica, o enfermeiro-director é coadjuvado por três adjuntos, por si escolhidos e nomeados pelo conselho de administração.
+Como órgão de direcção técnica, o enfermeiro-director é coadjuvado por cinco adjuntos, por si escolhidos e nomeados pelo conselho de administração.
+
+> Alterado pelo/a [Portaria n.º 500/2000](https://diariodarepublica.pt/dr/detalhe/portaria/500-2000-321357), publicado em 2000-07-24.
 
 #### SECÇÃO III — Disposições comuns
 

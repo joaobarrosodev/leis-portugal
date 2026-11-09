@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:503254:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1967-03-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "78642ed21f108511"
+   ]
+  },
+  {
+   "date": "1970-01-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:227226:por",
+     "title": "Decreto n.º 28/70",
+     "published": "1970-01-15",
+     "dre_path": "/dr/detalhe/decreto/28-1970-227226"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "a85562f16a39be3b",
+    "41379d28a1186765",
+    "4219a3cac10a0df1",
+    "4ce20fa7912ac100",
+    "bc260b837a3fb54b",
+    "6bf8ab2c3e294dea",
+    "6444d8528424019f",
+    "2e04199a9fd3a31a",
+    "1b3beb179cbdc706"
+   ]
+  }
+ ],
+ "fragments": {
+  "78642ed21f108511": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que o actual regime de recrutamento do pessoal não docente dos estabelecimentos do ensino técnico profissional vem dificultando gravemente o provimento dos correspondentes lugares dos quadros, pelo que se torna indispensável alterá-lo;\n\nConsiderando que igualmente se justifica a adopção de algumas novas providências relativamente ao pessoal docente, ao aproveitamento e valorização dos seus serviços;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º O pessoal administrativo e menor de todos os estabelecimentos dependentes da Direcção-Geral do Ensino Técnico Profissional passa a constituir um quadro único para efeito de concurso de habilitação, quando este seja de exigir, bem como para efeito de ingresso, transferência e promoção.\n\nArt. 2.º Aos concursos de habilitação para as categorias de escriturário de 2.ª classe e de dactilógrafo são admitidos os candidatos que possuam qualquer curso profissional de comércio, o ciclo preparatório ou habilitação equivalente e, para a categoria de aspirante, os candidatos que possuam o curso geral ou complementar de comércio, o curso geral dos liceus ou equivalente e, ainda, os que nas categorias de escriturário de 2.ª classe ou de dactilógrafo tenham prestado nos quadros dos estabelecimentos do ensino técnico oficial, pelo menos, três anos de serviço com boa informação.\n\nArt. 3.º - 1. Se antes de decorrido um ano sobre a realização, para qualquer categoria, do concurso de habilitação a que se refere o artigo anterior e após o subsequente concurso de provimento se mantiverem vagos lugares reservados, nos termos da legislação vigente, a candidatos masculinos, podem, em segundo concurso de provimento, ser também admitidos candidatos femininos.\n\n2. O disposto no número anterior é aplicável aos concursos de provimento em que a admissão dependa sòmente do tempo e da qualidade do serviço prestado.\n\nArt. 4.º - 1. O limite fixado nos artigos 187.º, 202.º, 221.º e 299.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, para o aumento da classificação profissional do pessoal docente do ensino técnico profissional em consequência do serviço prestado é elevado para 10 valores.\n\n2. O ano de serviço é constituído por 365 dias, mas para o pessoal não pertencente aos quadros o ano computa-se em 314 dias.\n\nArt. 5.º O prazo para requerer o exame de admissão ao estágio para professores do ensino profissional passa a decorrer, em cada ano, de 20 a 30 de Abril e a prestação das provas terá início na data que for anunciada no Diário do Governo.\n\nArt. 6.º Os licenciados em qualquer das secções do Instituto Superior de Ciências Económicas e Financeiras e os licenciados em Economia pela Universidade do Porto podem ser admitidos ao estágio para professores efectivos do 6.º grupo.\n\nArt. 7.º Com autorização do Ministro competente, podem funcionários do Estado e dos corpos administrativos ser nomeados, interina ou provisòriamente, para, em comissão de serviço público, desempenharem cargos docentes em estabelecimentos dependentes da Direcção-Geral do Ensino Técnico Profissional por período não superior a um ano, renovável, dispensando-se novo diploma sempre que a situação se mantenha no ano imediatamente seguinte.\n\nArt. 8.º O n.º 1 do artigo 425.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, passa a ter a seguinte redacção:\n\n1. O ano escolar começa em 1 de Outubro e termina em 30 de Setembro seguinte. O ano lectivo começa em 1 de Outubro e termina em 30 de Junho seguinte.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 17 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles."
+  },
+  "a85562f16a39be3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que o actual regime de recrutamento do pessoal não docente dos estabelecimentos do ensino técnico profissional vem dificultando gravemente o provimento dos correspondentes lugares dos quadros, pelo que se torna indispensável alterá-lo;\n\nConsiderando que igualmente se justifica a adopção de algumas novas providências relativamente ao pessoal docente, ao aproveitamento e valorização dos seus serviços;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "41379d28a1186765": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO pessoal administrativo e menor de todos os estabelecimentos dependentes da Direcção-Geral do Ensino Técnico Profissional passa a constituir um quadro único para efeito de concurso de habilitação, quando este seja de exigir, bem como para efeito de ingresso, transferência e promoção."
+  },
+  "4219a3cac10a0df1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAos concursos de habilitação para as categorias de escriturário de 2.ª classe e de dactilógrafo são admitidos os candidatos que possuam qualquer curso profissional de comércio, o ciclo preparatório ou habilitação equivalente e, para a categoria de aspirante, os candidatos que possuam o curso geral ou complementar de comércio, o curso geral dos liceus ou equivalente e, ainda, os que nas categorias de escriturário de 2.ª classe ou de dactilógrafo tenham prestado nos quadros dos estabelecimentos do ensino técnico oficial, pelo menos, três anos de serviço com boa informação."
+  },
+  "4ce20fa7912ac100": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1970-01-15",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 28/70](https://diariodarepublica.pt/dr/detalhe/decreto/28-1970-227226), publicado em 1970-01-15."
+   ],
+   "markdown": "###### Artigo 3.º\n\nSe antes de decorrido um ano sobre a realização, para qualquer categoria, de concurso de habilitação e após o subsequente concurso de provimento se mantiverem vagos lugares reservados, nos termos da legislação vigente, a candidatos masculinos, podem, em segundo concurso de provimento, ser também admitidos candidatos femininos.\n\n> Alterado pelo/a [Decreto n.º 28/70](https://diariodarepublica.pt/dr/detalhe/decreto/28-1970-227226), publicado em 1970-01-15."
+  },
+  "bc260b837a3fb54b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O limite fixado nos artigos 187.º, 202.º, 221.º e 299.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, para o aumento da classificação profissional do pessoal docente do ensino técnico profissional em consequência do serviço prestado é elevado para 10 valores.\n\n2. O ano de serviço é constituído por 365 dias, mas para o pessoal não pertencente aos quadros o ano computa-se em 314 dias."
+  },
+  "6bf8ab2c3e294dea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO prazo para requerer o exame de admissão ao estágio para professores do ensino profissional passa a decorrer, em cada ano, de 20 a 30 de Abril e a prestação das provas terá início na data que for anunciada no Diário do Governo."
+  },
+  "6444d8528424019f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs licenciados em qualquer das secções do Instituto Superior de Ciências Económicas e Financeiras e os licenciados em Economia pela Universidade do Porto podem ser admitidos ao estágio para professores efectivos do 6.º grupo."
+  },
+  "2e04199a9fd3a31a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nCom autorização do Ministro competente, podem funcionários do Estado e dos corpos administrativos ser nomeados, interina ou provisòriamente, para, em comissão de serviço público, desempenharem cargos docentes em estabelecimentos dependentes da Direcção-Geral do Ensino Técnico Profissional por período não superior a um ano, renovável, dispensando-se novo diploma sempre que a situação se mantenha no ano imediatamente seguinte."
+  },
+  "1b3beb179cbdc706": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO n.º 1 do artigo 425.º do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, passa a ter a seguinte redacção:\n\n1. O ano escolar começa em 1 de Outubro e termina em 30 de Setembro seguinte. O ano lectivo começa em 1 de Outubro e termina em 30 de Junho seguinte.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 17 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles."
+  }
+ }
+}

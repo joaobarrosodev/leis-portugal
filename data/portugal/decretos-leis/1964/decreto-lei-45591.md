@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-09-11'
+version_history:
+  file: decreto-lei-45591.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-03-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-09-11'
+    amending: pt:dre:214068:por
+    amending_title: Decreto-Lei n.º 49235
+    changes:
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:48:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49235. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-45591.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,13 +146,21 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Disposições gerais
 
-Artigo 1.º criado o Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto, que funcionará na dependência do Instituto Maternal e nas instalações que constituem o conjunto assistencial da Quinta da Rainha.
+###### Artigo 1.º
 
-Art. 2.º O Centro goza de autonomia técnica e administrativa e das regalias concedidas aos demais estabelecimentos oficiais de assistência. Pode receber heranças, legados e donativos, possuir bens próprios e administrar as suas receitas.
+criado o Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto, que funcionará na dependência do Instituto Maternal e nas instalações que constituem o conjunto assistencial da Quinta da Rainha.
 
-Art. 3.º O Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto rege-se pelo presente diploma, pelos regulamentos do Instituto Maternal e pelos regulamentos privativos que vierem a ser aprovados pelo Ministro da Saúde e Assistência.
+###### Artigo 2.º
 
-Art. 4.º Compete ao Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto:
+O Centro goza de autonomia técnica e administrativa e das regalias concedidas aos demais estabelecimentos oficiais de assistência. Pode receber heranças, legados e donativos, possuir bens próprios e administrar as suas receitas.
+
+###### Artigo 3.º
+
+O Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto rege-se pelo presente diploma, pelos regulamentos do Instituto Maternal e pelos regulamentos privativos que vierem a ser aprovados pelo Ministro da Saúde e Assistência.
+
+###### Artigo 4.º
+
+Compete ao Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto:
 
 1.º Exercer todas as actividades relacionadas com a assistência médico-sanitária e social do âmbito da protecção materno-infantil;
 
@@ -151,7 +174,9 @@ a) Ninho dos Pequeninos, Parque Infantil do Doutor Oliveira Salazar e Creche de 
 
 b) Maternidade de Bissaia Barreto, dispensários materno-infantis da área de Coimbra e Escola de Enfermagem, até agora integrados na Delegação do Centro do Instituto Maternal.
 
-Art. 6.º O Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto tem como receitas próprias:
+###### Artigo 6.º
+
+O Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto tem como receitas próprias:
 
 a) As heranças, doações, legados e donativos instituídos ou efectuados a seu favor;
 
@@ -171,9 +196,13 @@ h) Outros subsídios do Estado ou das autarquias.
 
 ### CAPÍTULO II — Da direcção
 
-Art. 7.º O Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto será dirigido por um director, coadjuvado por um director clínico.
+###### Artigo 7.º
 
-Art. 8.º Ao director compete dirigir e coordenar todos os serviços, imprimindo-lhes unidade, continuidade e eficiência, e designadamente:
+O Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto será dirigido por um director, coadjuvado por um director clínico.
+
+###### Artigo 8.º
+
+Ao director compete dirigir e coordenar todos os serviços, imprimindo-lhes unidade, continuidade e eficiência, e designadamente:
 
 1.º Superintender na preparação dos orçamentos e das contas de gerência e promover e fiscalizar a cobrança das receitas e o pagamento das despesas;
 
@@ -195,7 +224,9 @@ Art. 8.º Ao director compete dirigir e coordenar todos os serviços, imprimindo
 
 10.º Dirigir a Escola de Enfermagem, de acordo com o Regulamento das Escolas de Enfermagem do Instituto Maternal.
 
-Art. 9.º Ao director clínico compete dirigir e coordenar os serviços clínicos e orientar os de estudo e investigação científica, e em particular:
+###### Artigo 9.º
+
+Ao director clínico compete dirigir e coordenar os serviços clínicos e orientar os de estudo e investigação científica, e em particular:
 
 1.º Exercer directamente as actividades de assistência médica de que ficar incumbido na distribuição das funções pelo pessoal médico;
 
@@ -203,23 +234,29 @@ Art. 9.º Ao director clínico compete dirigir e coordenar os serviços clínico
 
 3.º Propor as instruções regulamentares indispensáveis à boa execução dos serviços e as providências necessárias à resolução dos casos omissos.
 
-Art. 10.º O director e o director clínico são substituídos nas suas faltas ou impedimentos pelos funcionários que para o efeito estiverem designados.
+###### Artigo 10.º
 
-Art. 11.º Presidido pelo director funciona um conselho administrativo, de que fazem parte:
+O director e o director clínico são substituídos nas suas faltas ou impedimentos pelos funcionários que para o efeito estiverem designados.
+
+###### Artigo 11.º
+
+1. Presidido pelo director, funciona um conselho administrativo, de que fazem parte:
 
 a) O director clínico;
 
-b) O chefe dos serviços administrativos;
+b) O administrador;
 
-c) O chefe dos serviços gerais e económicos;
+c) A enfermeira que chefiar os serviços de enfermagem,
 
-d) A enfermeira que chefiar os serviços de enfermagem.
+d) O chefe dos serviços administrativos.
 
-§ 1.º O chefe da contabilidade assistirá, com voto consultivo, às reuniões do conselho.
+2. Podem ser convocados para assistir às reuniões do conselho, embora sem direito a voto, os funcionários cujos pareceres ou informações sejam considerados necessários ou convenientes para as decisões a tomar.
 
-§ 2.º Podem ser convocados para assistir às reuniões do conselho, embora sem direito a voto, os funcionários cujos pareceres ou informações sejam considerados necessários ou convenientes para as decisões a tomar.
+> Alterado pelo/a [Decreto-Lei n.º 49235](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49235-1969-214068), publicado em 1969-09-11.
 
-Art. 12.º Compete ao conselho administrativo:
+###### Artigo 12.º
+
+Compete ao conselho administrativo:
 
 1.º Definir os planos gerais das actividades e estabelecer os programas de gerência;
 
@@ -233,9 +270,13 @@ Art. 12.º Compete ao conselho administrativo:
 
 6.º Apreciar os regulamentos internos que tenham de ser submetidos à aprovação superior.
 
-Art. 13.º O conselho administrativo reúne ordinàriamente todos os meses e, extraordinàriamente, sempre que o presidente o convocar, com uma antecedência nunca inferior a 24 horas.
+###### Artigo 13.º
 
-Art. 14.º Presidido pelo director clínico funciona um conselho técnico, de que fazem parte:
+O conselho administrativo reúne ordinàriamente todos os meses e, extraordinàriamente, sempre que o presidente o convocar, com uma antecedência nunca inferior a 24 horas.
+
+###### Artigo 14.º
+
+Presidido pelo director clínico funciona um conselho técnico, de que fazem parte:
 
 1.º Os chefes dos serviços clínicos;
 
@@ -253,19 +294,25 @@ Art. 14.º Presidido pelo director clínico funciona um conselho técnico, de qu
 
 § 2.º O director poderá assistir às reuniões do conselho técnico, de que assumirá a presidência, mas sem direito a voto.
 
-Art. 15.º Ao conselho técnico compete:
+###### Artigo 15.º
+
+Ao conselho técnico compete:
 
 1.º Dar parecer sobre os assuntos de natureza técnica para os quais tenha sido convocado;
 
 2.º Sugerir o que julgue útil e conveniente para a melhoria técnica dos serviços e para o aumento da sua eficiência.
 
-Art. 16.º Os pareceres do conselho técnico são submetidos à apreciação do conselho administrativo e remetidos à consideração superior quando a matéria exceder a competência deste e a do director.
+###### Artigo 16.º
+
+Os pareceres do conselho técnico são submetidos à apreciação do conselho administrativo e remetidos à consideração superior quando a matéria exceder a competência deste e a do director.
 
 ### CAPÍTULO III — Da organização dos serviços
 
 #### SECÇÃO I — Disposições gerais
 
-Art. 17.º O Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto terá os seguintes serviços:
+###### Artigo 17.º
+
+O Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto terá os seguintes serviços:
 
 a) Serviços clínicos;
 
@@ -279,13 +326,19 @@ e) Serviços administrativos.
 
 § único. Haverá ainda uma secção psicopedagógica que terá a seu cargo os semi-internatos e dependerá directamente do director, sem prejuízo das atribuições dos conselhos administrativo e técnico.
 
-Art. 18.º A assistência religiosa é assegurada nos termos da Concordata com a Santa Sé.
+###### Artigo 18.º
 
-Art. 19.º O director, ouvido o conselho administrativo e o conselho técnico, ou por sugestão destes, poderá propor que sejam criados novos serviços ou reorganizados os existentes, quando as exigências da assistência materno-infantil o mostrarem aconselhável.
+A assistência religiosa é assegurada nos termos da Concordata com a Santa Sé.
+
+###### Artigo 19.º
+
+O director, ouvido o conselho administrativo e o conselho técnico, ou por sugestão destes, poderá propor que sejam criados novos serviços ou reorganizados os existentes, quando as exigências da assistência materno-infantil o mostrarem aconselhável.
 
 #### SECÇÃO II — Dos serviços clínicos
 
-Art. 20.º Os serviços clínicos compreendem:
+###### Artigo 20.º
+
+Os serviços clínicos compreendem:
 
 a) Serviço de obstetrícia;
 
@@ -297,7 +350,9 @@ d) Serviços auxiliares de diagnóstico e terapêutica.
 
 § único. Funcionarão ainda consultas de estomatologia, de otorrinolaringologia e de outras especialidades cuja necessidade vier a verificar-se.
 
-Art. 21.º Os serviços auxiliares de diagnóstico e terapêutica abrangem:
+###### Artigo 21.º
+
+Os serviços auxiliares de diagnóstico e terapêutica abrangem:
 
 a) Análises clínicas;
 
@@ -315,15 +370,23 @@ g) Dietética.
 
 #### SECÇÃO III — Dos serviços farmacêuticos
 
-Art. 22.º Os serviços farmacêuticos têm a seu cargo a verificação, preparação, conservação, armazenagem e fornecimento dos medicamentos.
+###### Artigo 22.º
 
-Art. 23.º Quanto à produção, estes serviços serão organizados em regime de exploração industrial, com possível recurso ao laboratório dos serviços centrais do Instituto Maternal, quando essa prática se revelar mais económica.
+Os serviços farmacêuticos têm a seu cargo a verificação, preparação, conservação, armazenagem e fornecimento dos medicamentos.
+
+###### Artigo 23.º
+
+Quanto à produção, estes serviços serão organizados em regime de exploração industrial, com possível recurso ao laboratório dos serviços centrais do Instituto Maternal, quando essa prática se revelar mais económica.
 
 #### SECÇÃO IV — Dos serviços de enfermagem
 
-Art. 24.º Os serviços de enfermagem exercem a sua acção junto dos serviços clínicos e dos outros que lhes forem designados pela direcção.
+###### Artigo 24.º
 
-Art. 25.º Compete a estes serviços:
+Os serviços de enfermagem exercem a sua acção junto dos serviços clínicos e dos outros que lhes forem designados pela direcção.
+
+###### Artigo 25.º
+
+Compete a estes serviços:
 
 a) Cuidar dos internados, de harmonia com os conhecimentos técnicos da profissão e os princípios da caridade cristã;
 
@@ -337,13 +400,19 @@ e) Dirigir os serventes e criadas destacados nos serviços a seu cargo.
 
 #### SECÇÃO V — Do serviço social
 
-Art. 26.º O serviço social tem a seu cargo o exercício de todas as actividades que lhes são próprias no campo da assistência materno-infantil, em estreita ligação com o serviço social familiar.
+###### Artigo 26.º
 
-Art. 27.º O serviços social prestará a sua colaboração técnica às iniciativas particulares que se proponham completar ou ampliar a sua acção.
+O serviço social tem a seu cargo o exercício de todas as actividades que lhes são próprias no campo da assistência materno-infantil, em estreita ligação com o serviço social familiar.
+
+###### Artigo 27.º
+
+O serviços social prestará a sua colaboração técnica às iniciativas particulares que se proponham completar ou ampliar a sua acção.
 
 #### SECÇÃO VI — Dos serviços administrativos
 
-Art. 28.º Os serviços administrativos compreendem:
+###### Artigo 28.º
+
+Os serviços administrativos compreendem:
 
 a) Secretaria;
 
@@ -357,29 +426,47 @@ e) Serviços gerais e económicos.
 
 ### CAPÍTULO IV — Do pessoal
 
-Art. 29.º É aplicável à constituição e remodelação dos quadros e provimentos do pessoal do Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto o disposto na legislação em vigor para o Instituto Maternal e para os estabelecimentos oficiais de saúde e assistência.
+###### Artigo 29.º
 
-Art. 30.º O lugar de director será provido em indivíduo diplomado com um curso superior que haja revelado capacidade administrativa e organizadora que o qualifique para o seu exercício.
+É aplicável à constituição e remodelação dos quadros e provimentos do pessoal do Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto o disposto na legislação em vigor para o Instituto Maternal e para os estabelecimentos oficiais de saúde e assistência.
 
-Art. 31.º O cargo de director clínico será provido por um médico de reconhecido mérito e capacidade habilitado com qualquer das especialidades de pediatria, obstetrícia ou ginecologia.
+###### Artigo 30.º
+
+O lugar de director será provido em indivíduo diplomado com um curso superior que haja revelado capacidade administrativa e organizadora que o qualifique para o seu exercício.
+
+###### Artigo 31.º
+
+O cargo de director clínico será provido por um médico de reconhecido mérito e capacidade habilitado com qualquer das especialidades de pediatria, obstetrícia ou ginecologia.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-Art. 32.º Ao Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto é aplicável o disposto no [Decreto-Lei n.º 39805](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39805-1954-639290), de 4 de Setembro de 1954, para os Hospitais centrais.
+###### Artigo 32.º
 
-Art. 33.º Durante os primeiros cinco anos de funcionamento, a contar da data da publicação deste diploma, o conselho administrativo do Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto será presidido pelo presidente da Comissão Instaladora do Conjunto Assistencial da Quinta da Rainha, que desempenhará essas funções a título gratuito e poderá também exercer a faculdade que é conferida ao director no artigo 19.º do presente diploma.
+Ao Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto é aplicável o disposto no [Decreto-Lei n.º 39805](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39805-1954-639290), de 4 de Setembro de 1954, para os Hospitais centrais.
+
+###### Artigo 33.º
+
+Durante os primeiros cinco anos de funcionamento, a contar da data da publicação deste diploma, o conselho administrativo do Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto será presidido pelo presidente da Comissão Instaladora do Conjunto Assistencial da Quinta da Rainha, que desempenhará essas funções a título gratuito e poderá também exercer a faculdade que é conferida ao director no artigo 19.º do presente diploma.
 
 Findo o prazo de cinco anos referido neste artigo, pode o mesmo ser prorrogado por mais dois anos, por despacho do Ministro da Saúde e Assistência.
 
-Art. 34.º Enquanto durar a situação transitória a que se refere o artigo anterior, o director exercerá as funções de vice-presidente do conselho administrativo e poderá tornar a iniciativa da sua convocação, nos termos do disposto no artigo 13.º
+###### Artigo 34.º
 
-Art. 35.º Os quadros do pessoal do Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto serão fixados findo o regime de instalação previsto no artigo 7.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942.
+Enquanto durar a situação transitória a que se refere o artigo anterior, o director exercerá as funções de vice-presidente do conselho administrativo e poderá tornar a iniciativa da sua convocação, nos termos do disposto no artigo 13.º
 
-Art. 36.º O pessoal que actualmente presta serviço na sede da Delegação do Centro do Instituto Maternal e nos estabelecimentos constantes da alínea b) do artigo 5.º do presente diploma transitará, mediante despacho do Ministro da Saúde e Assistência, para lugares no Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto, quanto possível correspondentes aos que vinham exercendo, com ressalva dos direitos adquiridos, inclusive os de provimento definitivo e sem que da mudança de situação resulte redução nas remunerações, quer durante o período de instalação, quer findo este.
+###### Artigo 35.º
+
+Os quadros do pessoal do Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto serão fixados findo o regime de instalação previsto no artigo 7.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942.
+
+###### Artigo 36.º
+
+O pessoal que actualmente presta serviço na sede da Delegação do Centro do Instituto Maternal e nos estabelecimentos constantes da alínea b) do artigo 5.º do presente diploma transitará, mediante despacho do Ministro da Saúde e Assistência, para lugares no Centro de Saúde e Assistência Materno-Infantil do Doutor Bissaia Barreto, quanto possível correspondentes aos que vinham exercendo, com ressalva dos direitos adquiridos, inclusive os de provimento definitivo e sem que da mudança de situação resulte redução nas remunerações, quer durante o período de instalação, quer findo este.
 
 § único. Os funcionários a que se refere este artigo entrarão no exercício das suas funções independentemente de nova nomeação, diploma, visto do Tribunal de Contas ou posse.
 
-Art. 37.º Ao vagar o lugar de delegado do Centro do Instituto Maternal, o Ministro da Saúde e Assistência poderá determinar que a direcção dos respectivos serviços seja assumida directamente pelo director ou pelo subdirector do Instituto Maternal, a título gratuito e nos termos do disposto no § 3.º do artigo 171.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945.
+###### Artigo 37.º
+
+Ao vagar o lugar de delegado do Centro do Instituto Maternal, o Ministro da Saúde e Assistência poderá determinar que a direcção dos respectivos serviços seja assumida directamente pelo director ou pelo subdirector do Instituto Maternal, a título gratuito e nos termos do disposto no § 3.º do artigo 171.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945.
 
 Publique-se e cumpra-se como nele se contém.
 

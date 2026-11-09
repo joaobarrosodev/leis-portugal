@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-10-02'
+version_history:
+  file: decreto-lei-282-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-10-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-10-02'
+    amending: pt:dre:399650:por
+    amending_title: Decreto-Lei n.º 314/84
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:39:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 314/84. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1981/decreto-lei-282-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,29 +133,53 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - O pessoal militar da Guarda Fiscal que, por imposição ou escolha, for nomeado para prestar serviço temporariamente nas unidades das Regiões Autónomas da Madeira e dos Açores terá direito ao subsídio mensal de deslocação abaixo designado:
+###### Artigo 1.º
 
-a) Oficiais - 5300$00;
+1 - O pessoal militar da Guarda Fiscal que, por imposição ou escolha, for nomeado para prestar serviço temporariamente nas unidades das Regiões Autónomas dos Açores e da Madeira terá direito ao subsídio mensal de deslocação nos termos seguintes:
 
-b) Sargentos - 4500$00;
+a) Oficiais ... 14000$00
 
-e) Praças - 3700$00.
+b) Sargentos ... 12000$00
 
-2 - Quando ao militar da Guarda Fiscal for fornecida, consoante os casos, habitação ou alojamento, ser-lhe-ão abonados apenas 2500$00.
+c) Praças ... 10000$00
 
-Art. 2.º O subsídio referido no artigo anterior não é acumulável com o criado pelos Decretos-Leis n.os 38477, de 29 de Outubro de 1951.º e 47939, de 15 de Setembro de 1967, podendo, contudo, o pessoal deslocado nas ilhas de Santa Maria e de Porto Santo optar pelo quantitativo mais elevado.
+2 - Quando aos militares da Guarda Fiscal for fornecida, consoante os casos, habitação ou alojamento, ser-lhes-ão abonados os seguintes quantitativos:
 
-Art. 3.º O subsídio criado por este diploma não é atribuído aos soldados quando se trate da sua primeira colocação após o curso de alistados.
+a) Oficiais ... 6000$00
 
-Art. 4.º Os oficiais do Exército colocados nas unidades da Guarda Fiscal das Regiões Autónomas serão abonados do subsídio previsto neste diploma ou dos que estiverem em vigor para as forças armadas, conforme os diplomas de nomeação.
+b) Sargentos ... 5000$00
 
-Art. 5.º Por despacho do comandante-geral da Guarda Fiscal será estabelecido o tempo de permanência nos comandos insulares do pessoal abrangido pelas disposições deste diploma.
+c) Praças ... 4000$00
 
-Art. 6.º Os encargos resultantes da execução deste diploma serão satisfeitos no corrente ano económico pela rubrica respectiva do orçamento em vigor para a Guarda Fiscal.
+> Alterado pelo/a [Decreto-Lei n.º 314/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1984-399650), publicado em 1984-09-27.
 
-Art. 7.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+###### Artigo 2.º
 
-Art. 8.º Este diploma produz efeitos a partir do dia 1 de Julho de 1981.
+O subsídio referido no artigo anterior não é acumulável com o criado pelos Decretos-Leis n.os 38477, de 29 de Outubro de 1951.º e 47939, de 15 de Setembro de 1967, podendo, contudo, o pessoal deslocado nas ilhas de Santa Maria e de Porto Santo optar pelo quantitativo mais elevado.
+
+###### Artigo 3.º
+
+O subsídio criado por este diploma não é atribuído aos soldados quando se trate da sua primeira colocação após o curso de alistados.
+
+###### Artigo 4.º
+
+Os oficiais do Exército colocados nas unidades da Guarda Fiscal das Regiões Autónomas serão abonados do subsídio previsto neste diploma ou dos que estiverem em vigor para as forças armadas, conforme os diplomas de nomeação.
+
+###### Artigo 5.º
+
+Por despacho do comandante-geral da Guarda Fiscal será estabelecido o tempo de permanência nos comandos insulares do pessoal abrangido pelas disposições deste diploma.
+
+###### Artigo 6.º
+
+Os encargos resultantes da execução deste diploma serão satisfeitos no corrente ano económico pela rubrica respectiva do orçamento em vigor para a Guarda Fiscal.
+
+###### Artigo 7.º
+
+As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+
+###### Artigo 8.º
+
+Este diploma produz efeitos a partir do dia 1 de Julho de 1981.
 
 Visto e aprovado em Conselho de Ministros de 20 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
 

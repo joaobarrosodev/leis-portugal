@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-04-20'
+version_history:
+  file: decreto-lei-503-g-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-04-20'
+    amending: pt:dre:681613:por
+    amending_title: Decreto-Lei n.º 82/80
+    changes:
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:55:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 82/80. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-503-g-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -272,13 +287,15 @@ O estatuto dos titulares dos órgãos da empresa será regulado por lei especial
 
 ###### Artigo 14.º — (Composição)
 
-1. O conselho de gerência é composto por um mínimo de cinco e um máximo de sete administradores, nomeados por três anos, renováveis.
+1 - O conselho de gerência é composto por um mínimo de três e um máximo de cinco administradores, nomeados por três anos, renováveis.
 
 2. Os administradores, e de entre eles o presidente e o vice-presidente, são nomeados, reconduzidos, demitidos ou exonerados pelo Conselho de Ministros, mediante proposta do Ministro da Indústria e Tecnologia.
 
 3. As propostas de nomeação dos administradores serão elaboradas com a prévia audiência dos trabalhadores da empresa.
 
 4. Consideram-se ouvidos os trabalhadores da empresa se não se pronunciarem nos quinze dias seguintes ao da recepção da lista nominal que, para os efeitos do número precedente, lhes for entregue.
+
+> Alterado pelo/a [Decreto-Lei n.º 82/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1980-681613), publicado em 1980-04-19.
 
 ###### Artigo 15.º — (Responsabilidade pela condução da gestão)
 

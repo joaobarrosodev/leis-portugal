@@ -28,10 +28,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-02-03'
+version_history:
+  file: portaria-21407.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1965-07-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-02-03'
+    amending: pt:dre:446972:por
+    amending_title: Portaria n.º 173/78; Portaria n.º 164/81
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:03:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 173/78; Portaria n.º
+    164/81. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1965/portaria-21407.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,7 +143,9 @@ REGULAMENTO DAS JUNTAS MÉDICAS DA ARMADA
 
 ### CAPÍTULO I — Finalidade e classificação das juntas médicas da Armada
 
-Artigo 1.º As juntas médicas da Armada (J. M. A.) são organismos técnicos de consulta destinados a pronunciarem-se sobre a aptidão física e psicofisiológica dos militares da Armada, dos funcionários civis do Ministério da Marinha e dos candidatos ao desempenho das referidas funções.
+###### Artigo 1.º
+
+As juntas médicas da Armada (J. M. A.) são organismos técnicos de consulta destinados a pronunciarem-se sobre a aptidão física e psicofisiológica dos militares da Armada, dos funcionários civis do Ministério da Marinha e dos candidatos ao desempenho das referidas funções.
 
 § único As J. M. A. compreendem:
 
@@ -137,7 +159,9 @@ d) A junta de revisão da Armada (J. R. A.).
 
 ### CAPÍTULO II — Juntas de recrutamento e selecção
 
-Art. 2.º As juntas de recrutamento e selecção (J. R. S.) funcionam:
+###### Artigo 2.º
+
+As juntas de recrutamento e selecção (J. R. S.) funcionam:
 
 a) Na Direcção do Serviço do Pessoal da Superintendência dos Serviços da Armada;
 
@@ -149,31 +173,45 @@ b) Nos comandos navais e das defesas marítimas territoriais das ilhas adjacente
 
 § 3.º A constituição de juntas de recrutamento e selecção dos comandos navais e de defesas marítimas territoriais, das ilhas adjacentes ou províncias ultramarinas, carece de despacho favorável do Ministro da Marinha, mediante proposta do superintendente dos Serviços da Armada.
 
-Art. 3.º As juntas de recrutamento e selecção têm por finalidade inspeccionar os indivíduos destinados a prestar serviço no Ministério da Marinha e, quando se trate de pessoal militar, apreciar a sua aptidão para as diversas classes, ramos ou especialidades.
+###### Artigo 3.º
 
-Art. 4.º A Junta de Recrutamento e Selecção da Direcção do Serviço do Pessoal é presidida pelo chefe da 7.ª Repartição da mesma Direcção e constituída por mais dois médicos navais menos graduados ou mais modernos, servindo de secretário o menos graduado ou mais moderno.
+As juntas de recrutamento e selecção têm por finalidade inspeccionar os indivíduos destinados a prestar serviço no Ministério da Marinha e, quando se trate de pessoal militar, apreciar a sua aptidão para as diversas classes, ramos ou especialidades.
 
-§ 1.º Nos casos de impedimento do chefe da 7.ª Repartição da Direcção do Serviço do Pessoal, a Junta a que se refere este artigo será presidida por um oficial superior da classe de marinha, mais graduado ou antigo que os restantes membros da Junta.
+###### Artigo 4.º
 
-§ 2.º Quando o número de indivíduos a inspeccionar o justifique, será aumentado o número de médicos navais, na medida do necessário, e nomeado um oficial do serviço geral para servir de secretário.
+A Junta de Recrutamento e Selecção da Direcção do Serviço do Pessoal é constituída por três médicos navais, servindo o mais antigo de presidente e o mais moderno de secretário.
 
-Art. 5.º As juntas de recrutamento e selecção dos comandos navais e de defesas marítimas territoriais, das ilhas adjacentes e províncias ultramarinas, são constituídas por um oficial superior da classe de marinha, servindo de presidente, e por dois médicos navais menos graduados ou mais modernos, servindo de secretário o menos graduado ou mais moderno.
+§ único. Quando o número de indivíduos a inspeccionar o justifique, será aumentado o número de médicos navais, na medida do necessário, e nomeado um oficial da classe dos oficiais técnicos para servir de secretário.
+
+> Alterado pelo/a [Portaria n.º 173/78](https://diariodarepublica.pt/dr/detalhe/portaria/173-1978-446972), publicado em 1978-03-30.
+
+###### Artigo 5.º
+
+As juntas de recrutamento e selecção dos comandos navais e de defesas marítimas territoriais, das ilhas adjacentes e províncias ultramarinas, são constituídas por um oficial superior da classe de marinha, servindo de presidente, e por dois médicos navais menos graduados ou mais modernos, servindo de secretário o menos graduado ou mais moderno.
 
 § único. Quando não existam dois médicos navais disponíveis, um deles pode ser substituído por um médico do Exército ou da Força Aérea.
 
-Art. 6.º As decisões sobre as opiniões formuladas pelas juntas de recrutamento e selecção pertencem:
+###### Artigo 6.º
+
+As decisões sobre as opiniões formuladas pelas juntas de recrutamento e selecção pertencem:
 
 a) Ao Ministro da Marinha, quando se trate do alistamento de indivíduos na Armada como cadetes ou oficiais ou da admissão de pessoal civil;
 
 b) Ao superintendente dos serviços da Armada, nos restantes casos.
 
-Art. 7.º Compete à Direcção do Serviço do Pessoal nomear os membros das juntas de recrutamento e selecção.
+###### Artigo 7.º
 
-Art. 8.º O funcionamento interno das juntas de recrutamento e selecção é regulado por instruções a elaborar pela Direcção do Serviço do Pessoal e fixadas por despacho do Ministro da Marinha, mediante proposta do superintendente dos Serviços da Armada.
+Compete à Direcção do Serviço do Pessoal nomear os membros das juntas de recrutamento e selecção.
+
+###### Artigo 8.º
+
+O funcionamento interno das juntas de recrutamento e selecção é regulado por instruções a elaborar pela Direcção do Serviço do Pessoal e fixadas por despacho do Ministro da Marinha, mediante proposta do superintendente dos Serviços da Armada.
 
 ### CAPÍTULO III — Juntas de saúde dos comandos
 
-Art. 9.º As juntas de saúde dos comandos (J. S. C.) podem ser constituídas:
+###### Artigo 9.º
+
+As juntas de saúde dos comandos (J. S. C.) podem ser constituídas:
 
 a) Nos comandos navais e de defesas marítimas territoriais das ilhas adjacentes e das províncias ultramarinas;
 
@@ -185,7 +223,9 @@ b) Nas forças e unidades navais fora dos portos do continente.
 
 § 3.º Para efeitos do disposto neste artigo, uma reunião acidental de navios pode ser considerada como uma força naval.
 
-Art. 10.º São atribuições das juntas de saúde dos comandos:
+###### Artigo 10.º
+
+São atribuições das juntas de saúde dos comandos:
 
 a) Julgar da aptidão dos militares da Armada para efeitos de promoção ou de recondução, nos casos em que essa aptidão deva ser verificada por junta médica;
 
@@ -201,7 +241,9 @@ f) Propor a apresentação dos militares ou civis observados à Junta de Saúde 
 
 § único. O pessoal que regresse ao continente nas condições referidas na alínea c) deste artigo deve sempre ser presente à Junta de Saúde Naval.
 
-Art. 11.º As juntas de saúde dos comandos constituem-se da seguinte forma:
+###### Artigo 11.º
+
+As juntas de saúde dos comandos constituem-se da seguinte forma:
 
 a) Havendo três ou mais médicos navais:
 
@@ -223,7 +265,9 @@ Vogal secretário - o outro médico naval.
 
 § 2.º Os presidentes das juntas constituídas conforme a alínea b) devem ser sempre mais graduados ou antigos que os restantes membros.
 
-Art. 12.º As decisões sobre as opiniões formuladas pelas juntas de saúde dos comandos competem:
+###### Artigo 12.º
+
+As decisões sobre as opiniões formuladas pelas juntas de saúde dos comandos competem:
 
 a) Ao Ministro da Marinha, no caso da alínea a) do artigo 10.º, quando se trate de oficiais e nos restantes casos indicados no mesmo artigo quando das decisões possam resultar despesas de carácter eventual;
 
@@ -231,25 +275,43 @@ b) Ao comandante naval, da defesa marítima territorial, da força naval ou do n
 
 § único. Nos casos em que o comandante não homologue as opiniões formuladas pela respectiva junta de saúde, deverá do facto dar conhecimento ao superintendente dos Serviços da Armada, justificando a sua decisão.
 
-Art. 13.º Nos comandos cujos efectivos o justifiquem, a constituição das respectivas juntas de saúde tem carácter permanente; quando tal não suceda, as juntas de saúde dos comandos apenas são constituídas quando se reconheça a sua necessidade.
+###### Artigo 13.º
+
+Nos comandos cujos efectivos o justifiquem, a constituição das respectivas juntas de saúde tem carácter permanente; quando tal não suceda, as juntas de saúde dos comandos apenas são constituídas quando se reconheça a sua necessidade.
 
 § único. O estabelecimento das juntas de saúde dos comandos e a nomeação dos respectivos membros é da competência do comando em que funcionam, devendo ser publicados na respectiva ordem e comunicados, para conhecimento, à Direcção do Serviço de Saúde Naval.
 
-Art. 14.º A apresentação dos militares às juntas de saúde dos comandos é promovida pelos comandantes ou chefes dos organismos em que aqueles prestam serviço, por sua iniciativa ou mediante proposta do respectivo chefe do serviço de saúde, ou pela Direcção do Serviço do Pessoal.
+###### Artigo 14.º
 
-Art. 15.º O funcionamento interno das juntas de saúde dos comandos é regulado por instruções a elaborar pela Direcção do Serviço de Saúde Naval e aprovadas por despacho do Ministro da Marinha, mediante proposta do superintendente dos Serviços da Armada.
+A apresentação dos militares às juntas de saúde dos comandos é promovida pelos comandantes ou chefes dos organismos em que aqueles prestam serviço, por sua iniciativa ou mediante proposta do respectivo chefe do serviço de saúde, ou pela Direcção do Serviço do Pessoal.
 
-Art. 16.º Quando no caso previsto no § único do artigo 10.º a Junta de Saúde Naval não dê a sua concordância à opinião formulada pelas juntas de saúde dos comandos, os membros destas juntas podem ser responsabilizados pelos prejuízos causados ao Estado.
+###### Artigo 15.º
 
-Art. 17.º As juntas de saúde dos comandos são equivalentes às juntas hospitalares do Exército.
+O funcionamento interno das juntas de saúde dos comandos é regulado por instruções a elaborar pela Direcção do Serviço de Saúde Naval e aprovadas por despacho do Ministro da Marinha, mediante proposta do superintendente dos Serviços da Armada.
 
-Art. 18.º Nas províncias ultramarinas onde não possam ser constituídas juntas de saúde dos comandos poderão ser utilizadas, para os fins a que aquelas juntas se destinam, outras juntas de saúde militares ou a junta de saúde da respectiva província.
+###### Artigo 16.º
+
+Quando no caso previsto no § único do artigo 10.º a Junta de Saúde Naval não dê a sua concordância à opinião formulada pelas juntas de saúde dos comandos, os membros destas juntas podem ser responsabilizados pelos prejuízos causados ao Estado.
+
+###### Artigo 17.º
+
+As juntas de saúde dos comandos são equivalentes às juntas hospitalares do Exército.
+
+###### Artigo 18.º
+
+Nas províncias ultramarinas onde não possam ser constituídas juntas de saúde dos comandos poderão ser utilizadas, para os fins a que aquelas juntas se destinam, outras juntas de saúde militares ou a junta de saúde da respectiva província.
 
 ### CAPÍTULO IV — Junta de Saúde Naval
 
-Art. 19.º A Junta de Saúde Naval (J. S. N.) funciona com carácter permanente na directa dependência do director do Serviço de Saúde Naval.
+###### Artigo 19.º
 
-Art. 20.º Compete à Junta de Saúde Naval:
+A Junta de Saúde Naval (JSN) funciona com carácter permanente, na directa dependência do superintendente dos Serviços do Pessoal da Armada.
+
+> Alterado pelo/a [Portaria n.º 164/81](https://diariodarepublica.pt/dr/detalhe/portaria/164-1981-389790), publicado em 1981-02-03.
+
+###### Artigo 20.º
+
+Compete à Junta de Saúde Naval:
 
 a) Julgar da aptidão dos militares da Armada, em serviço no continente, para efeito de promoção ou recondução, nos casos em que essa aptidão deva ser verificada por junta médica;
 
@@ -269,21 +331,33 @@ h) Propor dispensas temporárias de qualquer serviço para pessoal que preste se
 
 i) Julgar da aptidão para o serviço, em todos os casos que não sejam da jurisdição de outras juntas.
 
-Art. 21.º A Junta de Saúde Naval é presidida por um capitão-de-mar-e-guerra médico naval e constituída por mais dois oficiais superiores médicos navais, servindo o menos graduado ou mais moderno de secretário.
+###### Artigo 21.º
+
+A Junta de Saúde Naval é presidida por um contra-almirante ou capitão-de-mar-e-guerra da classe de médicos navais e constituída por mais dois oficiais superiores da mesma classe, servindo o menos graduado ou o mais moderno de secretário.
 
 § 1.º Também deverão ser nomeados, com carácter permanente, dois membros suplentes da Junta de Saúde Naval, sendo um do presidente e o outro dos vogais.
 
-§ 2.º Quando se verificar impedimento legal e simultâneo dos membros efectivos e suplentes da Junta de Saúde Naval, o superintendente dos Serviços da Armada nomeará membros ad hoc para que a mesma Junta possa funcionar durante tal impedimento.
+§ 2.º Quando se verificar impedimento legal e simultâneo dos membros efectivos e suplentes da Junta de Saúde Naval, o superintendente dos Serviços do Pessoal da Armada nomeará membros ad hoc para que a mesma Junta possa funcionar durante tal impedimento.
 
-Art. 22.º As decisões sobre as opiniões formuladas pela Junta de Saúde Naval pertencem:
+> Alterado pelo/a [Portaria n.º 164/81](https://diariodarepublica.pt/dr/detalhe/portaria/164-1981-389790), publicado em 1981-02-03.
 
-a) Ao Ministro da Marinha, nos casos referidos nas alíneas a), c), f), g), h) e i) do artigo 20.º, quando se trate de oficiais e nas alíneas d) e e) para todo o pessoal;
+###### Artigo 22.º
 
-b) Ao director do Serviço do Pessoal, ao chefe da 2.ª Repartição da mesma Direcção ou à entidade interessada nos restantes casos, conforme se trate, respectivamente, de oficiais, de sargentos e praças ou de civis.
+As decisões sobre as opiniões formuladas pela Junta de Saúde Naval pertencem:
 
-§ único. Na medida em que o julgar conveniente, o Ministro da Marinha poderá delegar no superintendente dos Serviços da Armada algumas das atribuições referidas na alínea a) deste artigo.
+a) Ao Chefe do Estado-Maior da Armada, nos casos referidos nas alíneas a), c), f), g), h) e i) do artigo 20.º, quando se trate de oficiais, e nas alíneas d) e e), para todo o pessoal;
 
-Art. 23.º A apresentação à Junta de Saúde Naval pode ser promovida:
+b) Ao superintendente dos Serviços do Pessoal da Armada nos restantes casos;
+
+§ 1.º Na medida em que o julgar conveniente, o Chefe do Estado-Maior da Armada poderá delegar no superintendente dos Serviços do Pessoal da Armada algumas das atribuições referidas na alínea a) deste artigo.
+
+§ 2.º Poderá também o superintendente dos Serviços do Pessoal da Armada delegar no director do Serviço do Pessoal da Armada, no chefe da 2.ª Repartição da mesma Direcção ou na entidade interessada, conforme se trate, respectivamente, de oficiais, de sargentos e praças ou de civis, algumas das atribuições referidas na alínea b) deste artigo.
+
+> Alterado pelo/a [Portaria n.º 164/81](https://diariodarepublica.pt/dr/detalhe/portaria/164-1981-389790), publicado em 1981-02-03.
+
+###### Artigo 23.º
+
+A apresentação à Junta de Saúde Naval pode ser promovida:
 
 a) Pela Direcção do Serviço do Pessoal;
 
@@ -293,23 +367,39 @@ c) Pela Direcção do Hospital da Marinha, no que respeita aos indivíduos ali h
 
 d) Pelas juntas de saúde dos comandos ou pelas juntas de recrutamento e selecção.
 
-Art. 24.º As sessões da Junta de Saúde Naval são reservadas.
+###### Artigo 24.º
 
-Art. 25.º Quando o indivíduo a inspeccionar não possa, por motivo justificado, apresentar-se à Junta de Saúde Naval na sua sede, poderá o director do Serviço de Saúde Naval, por conveniência do serviço ou a requerimento do interessado, determinar que se proceda à inspecção no local onde ele estiver.
+As sessões da Junta de Saúde Naval são reservadas.
+
+###### Artigo 25.º
+
+Quando o indivíduo a inspeccionar não possa, por motivo justificado, apresentar-se à Junta de Saúde Naval na sua sede, poderá o superintendente dos Serviços do Pessoal da Armada, por conveniência do serviço ou a requerimento do interessado, determinar que se proceda à inspecção no local onde ele estiver.
 
 § único. Neste caso, a Junta poderá delegar num dos seus vogais a inspecção do candidato, ou até dispensá-la, se possuir os elementos suficientes para formar a sua opinião.
 
-Art. 26.º O funcionamento interno da Junta de Saúde Naval é regulado por instruções a elaborar pela Direcção do Serviço de Saúde Naval e aprovadas por despacho do Ministro da Marinha, mediante proposta do superintendente dos Serviços da Armada.
+> Alterado pelo/a [Portaria n.º 164/81](https://diariodarepublica.pt/dr/detalhe/portaria/164-1981-389790), publicado em 1981-02-03.
 
-Art. 27.º A Junta de Saúde Naval funciona no Hospital da Marinha, utilizando o seu pessoal e serviços e sendo apoiada pelo respectivo conselho administrativo.
+###### Artigo 26.º
+
+O funcionamento interno da Junta de Saúde Naval é regulado por instruções a elaborar pela Superintendência dos Serviços do Pessoal e aprovadas por despacho do Chefe do Estado-Maior da Armada.
+
+> Alterado pelo/a [Portaria n.º 164/81](https://diariodarepublica.pt/dr/detalhe/portaria/164-1981-389790), publicado em 1981-02-03.
+
+###### Artigo 27.º
+
+A Junta de Saúde Naval funciona no Hospital da Marinha, utilizando o seu pessoal e serviços e sendo apoiada pelo respectivo conselho administrativo.
 
 § único. A secretaria do Hospital da Marinha disporá de uma secção especialmente destinada ao serviço da Junta de Saúde Naval.
 
 ### CAPÍTULO V — Junta de Revisão da Armada
 
-Art. 28.º A Junta de Revisão da Armada (J. R. A.) funciona, com carácter permanente, na dependência do Ministro da Marinha.
+###### Artigo 28.º
 
-Art. 29.º A Junta de Revisão da Armada tem por finalidade apreciar os recursos relativos às opiniões formuladas pelas juntas de saúde dos comandos, juntas de recrutamento e selecção e Junta de Saúde Naval.
+A Junta de Revisão da Armada (J. R. A.) funciona, com carácter permanente, na dependência do Ministro da Marinha.
+
+###### Artigo 29.º
+
+A Junta de Revisão da Armada tem por finalidade apreciar os recursos relativos às opiniões formuladas pelas juntas de saúde dos comandos, juntas de recrutamento e selecção e Junta de Saúde Naval.
 
 § 1.º Os recursos serão interpostos:
 
@@ -319,7 +409,9 @@ b) A requerimento do interessado, apresentado até oito dias após a notificaç�
 
 § 2.º Quando se trate de candidatos ao alistamento na Armada ou da admissão de pessoal civil, o recurso só pode ser interposto por determinação do Ministro da Marinha.
 
-Art. 30.º A Junta de Revisão da Armada (J. R. A.) é constituída:
+###### Artigo 30.º
+
+A Junta de Revisão da Armada (J. R. A.) é constituída:
 
 a) Por um comodoro médico naval, da reserva, que servirá de presidente;
 
@@ -333,27 +425,45 @@ c) Por dois oficiais médicos navais, do activo ou da reserva.
 
 § 3.º O vogal mais moderno servirá de secretário.
 
-Art. 31.º A decisão sobre as opiniões formuladas pela Junta de Revisão da Armada é da competência do Ministro da Marinha.
+###### Artigo 31.º
 
-Art. 32.º O recorrente poderá juntar ao processo submetido à apreciação da Junta de Revisão da Armada relatórios ou atestados dos seus clínicos assistentes, civis ou militares.
+A decisão sobre as opiniões formuladas pela Junta de Revisão da Armada é da competência do Ministro da Marinha.
 
-Art. 33.º Antes da discussão do processo, a Junta de Revisão da Armada ouvirá o presidente da junta recorrida.
+###### Artigo 32.º
+
+O recorrente poderá juntar ao processo submetido à apreciação da Junta de Revisão da Armada relatórios ou atestados dos seus clínicos assistentes, civis ou militares.
+
+###### Artigo 33.º
+
+Antes da discussão do processo, a Junta de Revisão da Armada ouvirá o presidente da junta recorrida.
 
 § único. Com autorização superior poderão ainda ser ouvidos, a título de esclarecimento, o vogal vencido da junta recorrida, havendo-o, e outros médicos de reconhecida e especial competência sobre a doença em causa, ou serviços clínicos do Estado que possuam adequada aparelhagem médica para o estudo do caso.
 
-Art. 34.º Quando na apreciação do recurso se verificar que a opinião recorrida enfermou de erro evidente e injustificável, os responsáveis ficarão sujeitos a sanções disciplinares.
+###### Artigo 34.º
 
-Art. 35.º Tanto o julgamento como o processo da Junta de Revisão são confidenciais.
+Quando na apreciação do recurso se verificar que a opinião recorrida enfermou de erro evidente e injustificável, os responsáveis ficarão sujeitos a sanções disciplinares.
 
-Art. 36.º O funcionamento interno da Junta de Revisão da Armada é regulado por instruções a elaborar pela Direcção do Serviço de Saúde Naval e aprovadas por despacho do Ministro da Marinha, mediante proposta do superintendente dos Serviços da Armada.
+###### Artigo 35.º
 
-Art. 37.º As tarefas de expediente e contabilidade da Junta de Revisão da Armada correrão, respectivamente, pela secretaria (secção da Junta de Saúde Naval) e conselho administrativo do Hospital da Marinha.
+Tanto o julgamento como o processo da Junta de Revisão são confidenciais.
+
+###### Artigo 36.º
+
+O funcionamento interno da Junta de Revisão da Armada é regulado por instruções a elaborar pela Direcção do Serviço de Saúde Naval e aprovadas por despacho do Ministro da Marinha, mediante proposta do superintendente dos Serviços da Armada.
+
+###### Artigo 37.º
+
+As tarefas de expediente e contabilidade da Junta de Revisão da Armada correrão, respectivamente, pela secretaria (secção da Junta de Saúde Naval) e conselho administrativo do Hospital da Marinha.
 
 ### CAPÍTULO VI — Disposições gerais relativas às juntas médicas da Armada
 
-Art. 38.º As deliberações das juntas médicas da Armada são tomadas por pluralidade de votos. O membro que discordar da opinião votada assinará vencido e deverá fazer declaração na acta justificando o seu ponto de vista.
+###### Artigo 38.º
 
-Art. 39.º Em cada junta médica da Armada deverá existir:
+As deliberações das juntas médicas da Armada são tomadas por pluralidade de votos. O membro que discordar da opinião votada assinará vencido e deverá fazer declaração na acta justificando o seu ponto de vista.
+
+###### Artigo 39.º
+
+Em cada junta médica da Armada deverá existir:
 
 a) Um livro de registo de inspecções, no qual o vogal secretário lançará, em relação a cada indivíduo inspeccionado, a opinião da junta formulada em síntese;
 
@@ -365,12 +475,18 @@ b) Um livro de actas, no qual o vogal secretário registará o relato das sessõ
 
 § 3.º Nas juntas de recrutamento e selecção é dispensável o livro referido na alínea b) deste artigo.
 
-Art. 40.º Pertence ao vogal secretário transcrever nos livretes de saúde os registos lançados no livro de registo de inspecções, datando-os e rubricando-os.
+###### Artigo 40.º
 
-Art. 41.º Nos casos em que as juntas de saúde reconheçam que as lesões apresentadas resultam de acidente ocorrido em serviço ou de doença adquirida em serviço e por motivo do mesmo, tal circunstância será registada no livro de actas e no livro de registo de inspecções, devidamente justificada.
+Pertence ao vogal secretário transcrever nos livretes de saúde os registos lançados no livro de registo de inspecções, datando-os e rubricando-os.
+
+###### Artigo 41.º
+
+Nos casos em que as juntas de saúde reconheçam que as lesões apresentadas resultam de acidente ocorrido em serviço ou de doença adquirida em serviço e por motivo do mesmo, tal circunstância será registada no livro de actas e no livro de registo de inspecções, devidamente justificada.
 
 § único. Em relação ao pessoal que, nos termos do disposto no artigo 20.º, for considerado com incapacidade para o serviço, deverá ser expressamente indicado se se verifica a circunstância mencionada neste artigo.
 
-Art. 42.º Enquanto estiverem em vigor as disposições relativas às juntas hospitalares de inspecção, a que se refere a [Portaria n.º 19245](https://diariodarepublica.pt/dr/detalhe/portaria/19245-1962-164584), de 23 de Junho de 1962, as mesmas juntas serão utilizadas nas condições expressas naquele diploma.
+###### Artigo 42.º
+
+Enquanto estiverem em vigor as disposições relativas às juntas hospitalares de inspecção, a que se refere a [Portaria n.º 19245](https://diariodarepublica.pt/dr/detalhe/portaria/19245-1962-164584), de 23 de Junho de 1962, as mesmas juntas serão utilizadas nas condições expressas naquele diploma.
 
 Ministério da Marinha, 19 de Julho de 1965. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

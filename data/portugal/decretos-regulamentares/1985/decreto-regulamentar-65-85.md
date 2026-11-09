@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-05-17'
+version_history:
+  file: decreto-regulamentar-65-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-10-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-05-17'
+    amending: pt:dre:227181:por
+    amending_title: Decreto Regulamentar n.º 17/86
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:12:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 17/86. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1985/decreto-regulamentar-65-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,9 +145,17 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º A Academia Internacional da Cultura Portuguesa é declarada instituição de índole cultural, dependente do Ministério da Cultura através do Instituto Português do Património Cultural, e incluída na lista anexa ao [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.
+###### Artigo 1.º
 
-Art. 2.º Os encargos resultantes da execução do presente diploma serão suportados, no corrente e no próximo ano económico, por conta das dotações orçamentais afectas ao Ministério da Cultura.
+1 - A Academia Internacional da Cultura Portuguesa é declarada instituição de índole cultural, dependente do Ministério da Cultura através do Instituto Português do Património Cultural, e incluída na lista anexa ao [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.
+
+2 - A Academia Internacional da Cultura Portuguesa, sendo uma instituição de índole cultural, é considerada de utilidade pública, dotada de personalidade jurídica e de autonomia administrativa.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 17/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1986-227181), publicado em 1986-05-16.
+
+###### Artigo 2.º
+
+Os encargos resultantes da execução do presente diploma serão suportados, no corrente e no próximo ano económico, por conta das dotações orçamentais afectas ao Ministério da Cultura.
 
 Mário Soares - Rui Manuel Parente Chancerelle de Machete - José Manuel San-Bento de Menezes - Ernâni Rodrigues Lopes - António Antero Coimbra Martins.
 

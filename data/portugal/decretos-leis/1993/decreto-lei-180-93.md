@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-12-29'
+version_history:
+  file: decreto-lei-180-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-05-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-12-29'
+    amending: pt:dre:469065:por
+    amending_title: Lei n.º 59/2005
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/180/1993/05/12/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:23:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 59/2005. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-180-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,11 +139,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo único - 1 - Os auxiliares de educação dos serviços e estabelecimentos do sector da segurança social que realizaram, com aproveitamento, o curso de promoção a educadores de infância e que desempenham as correspondentes funções há mais de 10 anos transitam para lugares de educador de infância dos respectivos quadros de pessoal, podendo progredir até ao 3.º escalão da carreira do pessoal docente do ensino não superior.
+###### Artigo único
+
+1 - Os auxiliares de educação dos serviços e estabelecimentos do sector da segurança social que realizaram, com aproveitamento, o curso de promoção a educadores de infância e que desempenhem as correspondentes funções há mais de 10 anos transitam para lugares de educador de infância dos respectivos quadros de pessoal, a extinguir quando vagarem.
 
 2 - No caso de inexistência de vagas, serão criados, nos respectivos quadros de pessoal, através de portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social, os lugares necessários à execução do presente diploma, a extinguir quando vagarem.
 
 3 - São extintos os lugares de auxiliar de educação que vagarem por motivo das transições previstas no presente diploma.
+
+> Alterado pelo/a [Lei n.º 59/2005](https://diariodarepublica.pt/dr/detalhe/lei/59-2005-469065), publicado em 2005-12-29.
 
 Visto e aprovado em Conselho de Ministros de 8 de Abril de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 

@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-05-05'
+version_history:
+  file: decreto-lei-674-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-05-05'
+    amending: pt:dre:409485:por
+    amending_title: Decreto-Lei n.º 755/76; Decreto-Lei n.º 182/77
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 15.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:46:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 755/76; Decreto-Lei
+    n.º 182/77. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-674-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -161,7 +177,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. As funções assistenciais, de educação médica e de investigação científica que competem aos hospitais centrais gerais são idênticas para todos eles, cessando a distinção até agora existente entre os hospitais escolares e os restantes, nomeadamente no que se refere à sua participação activa no ensino do curso da licenciatura em medicina.
+###### Artigo 1.º
+
+1. As funções assistenciais, de educação médica e de investigação científica que competem aos hospitais centrais gerais são idênticas para todos eles, cessando a distinção até agora existente entre os hospitais escolares e os restantes, nomeadamente no que se refere à sua participação activa no ensino do curso da licenciatura em medicina.
 
 2. Os hospitais centrais gerais, enquanto instituições de ensino e de investigação científica, constituem unidades de ensino médico, equiparadas a Faculdades, integradas em Universidades, mediante portaria do Ministério da Educação e Investigação Científica, e dependentes simultaneamente do Ministério dos Assuntos Sociais e do Ministério da Educação e Investigação Científica, para efeitos académicos, pedagógicos e de apoio à investigação científica.
 
@@ -169,7 +187,9 @@ Artigo 1.º - 1. As funções assistenciais, de educação médica e de investig
 
 4. Mediante despacho conjunto dos Ministros interessados, os hospitais centrais especializados, bem como outros serviços adequados ao ensino da medicina, poderão nele participar, integrados, uns e outros, para este efeito, nas unidades de ensino médico das respectivas regiões.
 
-Art. 2.º - 1. A inscrição dos alunos de cada unidade de ensino médico far-se-á na secretaria da Universidade a que essa unidade estiver ligada.
+###### Artigo 2.º
+
+1. A inscrição dos alunos de cada unidade de ensino médico far-se-á na secretaria da Universidade a que essa unidade estiver ligada.
 
 2. A capacidade de acolhimento de alunos nas várias unidades hospitalares e serviços referidos no artigo anterior será definida anualmente por despacho conjunto dos Ministros interessados, ouvido o conselho superior de ensino médico, cuja constituição e competência serão objecto de portaria conjunta do Ministro da Educação e Investigação Científica e do Ministro dos Assuntos Sociais.
 
@@ -183,7 +203,9 @@ Art. 2.º - 1. A inscrição dos alunos de cada unidade de ensino médico far-se
 
 7. O Ministério da Educação e Investigação Científica poderá financiar, através de verbas inscritas no orçamento da Direcção-Geral do Ensino Superior, despesas de aquisição de material didáctico e bibliográfico ou outras, ligadas a actividades de inovação pedagógica ou de investigação científica.
 
-Art. 3.º - 1. Os hospitais centrais gerais serão geridos por um órgão de gestão homologado pelo Secretário de Estado da Saúde.
+###### Artigo 3.º
+
+1. Os hospitais centrais gerais serão geridos por um órgão de gestão homologado pelo Secretário de Estado da Saúde.
 
 2. Enquanto unidades de ensino e investigação científica, serão orientadas por um conselho pedagógico e científico, que dependerá conjuntamente do Ministério da Educação e Investigação Científica e do Ministério dos Assuntos Sociais nos domínios das suas competências.
 
@@ -191,31 +213,41 @@ Art. 3.º - 1. Os hospitais centrais gerais serão geridos por um órgão de ges
 
 4. Enquanto não estiverem constituídos os órgãos a que se referem os números anteriores, as unidades hospitalares e os serviços referidos no artigo 1.º serão geridos e orientados pelos seus actuais órgãos de gestão hospitalares e universitários.
 
-Art. 4.º - 1. As funções assistenciais, de ensino e investigação científica das unidades de ensino médico fazem parte das tarefas que incumbem ao pessoal dos referidos hospitais e serviços.
+###### Artigo 4.º
 
-2. Quando essas funções sejam exercidas por licenciados em Medicina, serão asseguradas por elementos dos respectivos quadros de pessoal médico integrados numa carreira única.
+1. Para além do exercício das funções assistenciais que lhe são próprias, incumbe ao pessoal médico dos referidos hospitais e serviços ministrar ensino quando para tal preencha os requisitos legalmente exigidos.
 
-3. A carreira médica a que se refere o número anterior será, a título transitório e enquanto não for reformulada a legislação sobre carreiras médicas, a que se encontra definida para os hospitais centrais não escolares, salvo no que se refere aos graus 5 e 6, correspondentes a chefe de serviço e director de serviço, que serão fundidos numa única categoria, com a designação de chefe de clínica, percebendo o vencimento correspondente à letra D.
+2. A carreira médica hospitalar será, a título transitório e enquanto não for reformulada a legislação sobre carreiras médicas, a que se encontra definida para os hospitais centrais não escolares, salvo no que se refere aos graus 5 e 6, correspondente a chefe de serviço e director de serviço, que serão fundidos numa única categoria com a designação de chefe de clínica, percebendo o vencimento correspondente à letra D.
 
-4. Enquanto não for publicada a legislação que defina uma carreira unificada para todos os estabelecimentos, os quadros e mapas de pessoal médico permanente dos hospitais distritais compreenderão as seguintes categorias:
+3. Enquanto não for publicada a legislação que define uma carreira unificada para todos os estabelecimentos, os quadros e mapas de pessoal médico permanente dos hospitais distritais compreenderão as seguintes categorias:
 
 a) Especialista, com vencimento correspondente à letra F;
 
-b) Chefe de clínica, com o vencimento correspondente à letra D, que substitui a categoria de director de serviço de hospital distrital.
+b) Chefe de clínica, com vencimento correspondente à letra D, que substitui a categoria de director de serviço de hospital distrital.
 
-5. Os internos de policlínica e os internos de especialidades dos hospitais passam a ter as letras I e H, respectivamente.
+4. Os internos de policlínica e os internos de especialidades dos hospitais passam a ter as letras I e H, respectivamente.
 
-Art. 5.º - 1. A partir da publicação deste diploma, todos os médicos da carreira hospitalar dos hospitais centrais e distritais serão considerados funcionários do Estado, ingressando nos quadros dependentes da Secretaria de Estado da Saúde.
+> Alterado pelo/a [Decreto-Lei n.º 182/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1977-301226), publicado em 1977-05-04.
+
+###### Artigo 5.º
+
+1. A partir da publicação deste diploma, todos os médicos da carreira hospitalar dos hospitais centrais e distritais serão considerados funcionários do Estado, ingressando nos quadros dependentes da Secretaria de Estado da Saúde.
 
 2. Aos médicos que ingressem na carreira hospitalar dos hospitais centrais e distritais será assegurado lugar no futuro serviço nacional de saúde.
 
-Art. 6.º - 1. No prazo de trinta dias, a contar da data da publicação do presente diploma, as comissões instaladoras do Hospital de Santa Maria, dos Hospitais da Universidade de Coimbra e do Hospital de S. João deverão submeter à aprovação do Secretário de Estado da Saúde os mapas de pessoal médico dos respectivos estabelecimentos, elaborados de acordo com o disposto no artigo 4.º, n.º 3, deste diploma.
+###### Artigo 6.º
+
+1. No prazo de trinta dias, a contar da data da publicação do presente diploma, as comissões instaladoras do Hospital de Santa Maria, dos Hospitais da Universidade de Coimbra e do Hospital de S. João deverão submeter à aprovação do Secretário de Estado da Saúde os mapas de pessoal médico dos respectivos estabelecimentos, elaborados de acordo com o disposto no artigo 4.º, n.º 3, deste diploma.
 
 2. A elaboração dos mapas e a distribuição, pelos diferentes graus da carreira médica hospitalar, dos totais dos lugares permanentes definidos para cada estabelecimento deverá ter em conta o número de serviços existentes e respectivas lotações, as características próprias dos diversos serviços e outros condicionalismos locais, obedecendo a critérios concretizados em memórias justificativas, que deverão acompanhar os mapas propostos para aprovação.
 
-Art. 7.º Também no prazo de trinta dias, a contar da data de publicação do presente diploma, deverão as comissões instaladoras ou administrações dos restantes hospitais centrais e as dos hospitais distritais submeter à aprovação do Secretário de Estado da Saúde propostas de modificações dos mapas ou quadros actualmente em vigor, que reputem indispensáveis para o conveniente funcionamento dos serviços, de acordo com o disposto no artigo 4.º, n.os 3 e 4, do presente diploma.
+###### Artigo 7.º
 
-Art. 8.º - 1. Uma vez aprovados e publicados no Diário do Governo os mapas a que se refere o artigo 6.º do presente diploma, terá imediatamente início o processo de integração nos mesmos do pessoal médico da carreira docente actualmente ao serviço nos respectivos hospitais, devendo esse processo estar completado no prazo de sessenta dias, a contar da data da publicação dos referidos mapas, de acordo com as seguintes normas:
+Também no prazo de trinta dias, a contar da data de publicação do presente diploma, deverão as comissões instaladoras ou administrações dos restantes hospitais centrais e as dos hospitais distritais submeter à aprovação do Secretário de Estado da Saúde propostas de modificações dos mapas ou quadros actualmente em vigor, que reputem indispensáveis para o conveniente funcionamento dos serviços, de acordo com o disposto no artigo 4.º, n.os 3 e 4, do presente diploma.
+
+###### Artigo 8.º
+
+1. Uma vez aprovados e publicados no Diário do Governo os mapas a que se refere o artigo 6.º do presente diploma, terá imediatamente início o processo de integração nos mesmos do pessoal médico da carreira docente actualmente ao serviço nos respectivos hospitais, devendo esse processo estar completado no prazo de sessenta dias, a contar da data da publicação dos referidos mapas, de acordo com as seguintes normas:
 
 a) Os assistentes eventuais e assistentes das cadeiras clínicas poderão ser integrados no internato de policlínica ou no internato de especialidade (tendo em conta a situação em que se encontram os médicos que concluíram a licenciatura no mesmo ano), a menos que possuidores de habilitações que permitam a sua integração em grau mais elevado da carreira hospitalar, segundo as regras definidas no artigo 9.º, n.º 1, alíneas c) ou d), conforme tenham ou não obtido aprovação em mérito relativo em concurso para graduado;
 
@@ -227,7 +259,9 @@ c) Os professores catedráticos e os professores extraordinários serão integra
 
 3. A avaliação das habilitações e currículos a que se referem as alíneas a) e b) do n.º 1 ficarão a cargo de júris locais eleitos, de entre os médicos com categoria superior à dos candidatos, pelo corpo clínico do respectivo hospital, que proporão a despacho a lista nominal referida no n.º 2.
 
-Art. 9.º - 1. Os médicos actualmente ao serviço dos hospitais centrais escolares que não pertençam à carreira docente serão integrados nos novos mapas de acordo com as seguintes normas:
+###### Artigo 9.º
+
+1. Os médicos actualmente ao serviço dos hospitais centrais escolares que não pertençam à carreira docente serão integrados nos novos mapas de acordo com as seguintes normas:
 
 a) Os internos de policlínica e os internos de especialidades serão integrados nas mesmas categorias e no ano que actualmente frequentam;
 
@@ -247,9 +281,13 @@ e) Os médicos habilitados pela organização profissional dos médicos com o t�
 
 5. Os contratos realizados a título eventual ao abrigo do disposto no número anterior caducam logo que se realizem os primeiros concursos para especialistas dos hospitais distritais a que sejam admitidos candidatos actualmente ao serviço em outros estabelecimentos.
 
-Art. 10.º Os médicos técnicos e investigadores dos hospitais centrais escolares e das Faculdades de Medicina em exercício nos hospitais escolares serão integrados, se o requererem, nos lugares da carreira hospitalar de acordo com os graus de carreira que possuírem e segundo as normas estabelecidas no artigo 9.º, mantendo-se caso contrário nas suas categorias e lugares actuais a extinguir quando vagarem.
+###### Artigo 10.º
 
-Art. 11.º - 1. Uma vez aprovados e publicados no Diário do Governo os mapas actualizados dos actuais hospitais centrais não escolares, terá imediatamente início o processo de integração nesses mapas do pessoal médico actualmente ao serviço nos respectivos hospitais, devendo esse processo estar completado decorridos sessenta dias sobre a data da publicação dos referidos mapas, de acordo com as seguintes normas:
+Os médicos técnicos e investigadores dos hospitais centrais escolares e das Faculdades de Medicina em exercício nos hospitais escolares serão integrados, se o requererem, nos lugares da carreira hospitalar de acordo com os graus de carreira que possuírem e segundo as normas estabelecidas no artigo 9.º, mantendo-se caso contrário nas suas categorias e lugares actuais a extinguir quando vagarem.
+
+###### Artigo 11.º
+
+1. Uma vez aprovados e publicados no Diário do Governo os mapas actualizados dos actuais hospitais centrais não escolares, terá imediatamente início o processo de integração nesses mapas do pessoal médico actualmente ao serviço nos respectivos hospitais, devendo esse processo estar completado decorridos sessenta dias sobre a data da publicação dos referidos mapas, de acordo com as seguintes normas:
 
 a) Os internos de policlínica, internos de especialidades e especialistas serão integrados nas categorias que possuam à data da publicação do respectivo mapa;
 
@@ -265,11 +303,15 @@ f) Os médicos que, tendo desempenhado funções de assistente hospitalar preced
 
 2. As integrações referidas no número anterior serão feitas nos termos do n.º 2 do artigo 9.º do presente diploma.
 
-Art. 12.º - 1. Após as integrações a que se referem os artigos anteriores, as vagas de chefe de clínica que fiquem por preencher nos hospitais centrais escolares e não escolares serão postas a concurso, que será de provas públicas, segundo normas a fixar por portaria do Secretário de Estado da Saúde.
+###### Artigo 12.º
+
+1. Após as integrações a que se referem os artigos anteriores, as vagas de chefe de clínica que fiquem por preencher nos hospitais centrais escolares e não escolares serão postas a concurso, que será de provas públicas, segundo normas a fixar por portaria do Secretário de Estado da Saúde.
 
 2. O concurso a que se refere o número anterior, e a que serão admitidos exclusivamente os candidatos que se encontrem ao serviço de cada estabelecimento, deverá estar concluído decorridos não mais de sessenta dias sobre a data da respectiva abertura.
 
-Art. 13.º - 1. Logo que se verifique a publicação no Diário do Governo das modificações que forem aprovadas dos mapas dos hospitais distritais, terá início o processo de distribuição nos mesmos do pessoal que actualmente presta serviço nesses estabelecimentos, de acordo com as seguintes normas:
+###### Artigo 13.º
+
+1. Logo que se verifique a publicação no Diário do Governo das modificações que forem aprovadas dos mapas dos hospitais distritais, terá início o processo de distribuição nos mesmos do pessoal que actualmente presta serviço nesses estabelecimentos, de acordo com as seguintes normas:
 
 a) Os especialistas de hospital distrital são integrados na mesma categoria;
 
@@ -279,7 +321,9 @@ b) Os directores de serviço de hospital distrital serão integrados como chefe 
 
 3. Os concursos serão de provas públicas e realizar-se-ão segundo normas a fixar por portaria do Secretário de Estado da Saúde.
 
-Art. 14.º - 1. Decorridos não mais de trinta dias sobre a conclusão do processo de distribuição e dos concursos previstos no artigo 12.º nos hospitais centrais, deverão as respectivas comissões instaladoras ou administrações promover a abertura de concursos à escala nacional para as vagas restantes das diversas categorias dos respectivos mapas de pessoal médico.
+###### Artigo 14.º
+
+1. Decorridos não mais de trinta dias sobre a conclusão do processo de distribuição e dos concursos previstos no artigo 12.º nos hospitais centrais, deverão as respectivas comissões instaladoras ou administrações promover a abertura de concursos à escala nacional para as vagas restantes das diversas categorias dos respectivos mapas de pessoal médico.
 
 2. Os concursos serão de provas públicas, e a realizar segundo normas a fixar por portaria do Secretário de Estado da Saúde, com base no parecer de uma comissão a nomear especialmente para o efeito pela mesma entidade.
 
@@ -287,13 +331,23 @@ Art. 14.º - 1. Decorridos não mais de trinta dias sobre a conclusão do proces
 
 4. Os concursos devem estar terminados dentro de sessenta dias, a contar da data da sua abertura.
 
-Art. 15.º - 1. Decorridos não mais de trinta dias sobre a conclusão dos concursos a que se refere o artigo anterior, serão abertos concursos à escala nacional para as vagas das diferentes categorias existentes nos quadros ou mapas dos hospitais distritais.
+###### Artigo 15.º
 
-2. Os concursos para cada grau terão lugar de acordo com as regras de admissibilidade e execução inteiramente idênticas às que forem praticadas nos concursos realizados para os hospitais centrais.
+1. Dentro dos trinta dias seguintes à conclusão dos concursos previstos no n.º 2 do artigo 13.º serão abertos concursos à escala nacional para as vagas das diferentes categorias existentes nos quadros ou mapas dos hospitais distritais.
 
-Art. 16.º Até à publicação da nova lei orgânica hospitalar, caberá à Direcção-Geral dos Hospitais, sob proposta das comissões instaladoras ou administrações de cada hospital, emitir normas quanto à forma de se exercer a direcção dos serviços em cada estabelecimento.
+2. Os concursos serão de provas públicas e realizar-se-ão segundo normas a fixar por portaria do Secretário de Estado da Saúde.
 
-Art. 17.º - 1. Os médicos providos em lugares da carreira hospitalar através dos concursos de integração e dos concursos subsequentes, a que se refere o presente diploma, exercerão funções em regime de tempo completo.
+3. Os médicos que, prestando serviço nos hospitais centrais, venham a candidatar-se a estes concursos não perdem, por este facto, os direitos que possuam relativamente àqueles hospitais para efeitos de concursos a realizar nos termos deste diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 755/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/755-1976-409485), publicado em 1976-10-20.
+
+###### Artigo 16.º
+
+Até à publicação da nova lei orgânica hospitalar, caberá à Direcção-Geral dos Hospitais, sob proposta das comissões instaladoras ou administrações de cada hospital, emitir normas quanto à forma de se exercer a direcção dos serviços em cada estabelecimento.
+
+###### Artigo 17.º
+
+1. Os médicos providos em lugares da carreira hospitalar através dos concursos de integração e dos concursos subsequentes, a que se refere o presente diploma, exercerão funções em regime de tempo completo.
 
 2. Ao regime de tempo completo, e até ser estabelecido o horário nacional de trabalho, correspondem trinta e seis horas de trabalho semanal.
 
@@ -301,13 +355,17 @@ Art. 17.º - 1. Os médicos providos em lugares da carreira hospitalar através 
 
 4. Em situações em que haja vantagem, para um mais conveniente funcionamento dos serviços, poderá ser estipulado para médicos hospitalares o regime previsto no artigo 6.º do [Decreto-Lei n.º 536/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1975-312061), de 26 de Setembro.
 
-Art. 18.º - 1. Os médicos pertencentes aos quadros ou mapas de qualquer dos estabelecimentos hospitalares dependentes da Secretaria de Estado da Saúde não poderão acumular essas funções com quaisquer outras funções hospitalares, mesmo que em estabelecimentos dependentes de outros Ministérios, com excepção das funções de consultor referidas no [Decreto-Lei n.º 536/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1975-312061), de 26 de Setembro.
+###### Artigo 18.º
+
+1. Os médicos pertencentes aos quadros ou mapas de qualquer dos estabelecimentos hospitalares dependentes da Secretaria de Estado da Saúde não poderão acumular essas funções com quaisquer outras funções hospitalares, mesmo que em estabelecimentos dependentes de outros Ministérios, com excepção das funções de consultor referidas no [Decreto-Lei n.º 536/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/536-1975-312061), de 26 de Setembro.
 
 2. Durante um período transitório, em que se admita que a execução do disposto no número anterior possa determinar dificuldades de funcionamento, por carência de pessoal médico, em estabelecimentos dependentes de outros Ministérios, será permitido que, com prévio acordo das instituições interessadas, os médicos da carreira hospitalar prestem serviço em estabelecimentos hospitalares não dependentes da Secretaria de Estado da Saúde, segundo normas a estipular, mas com um único lugar e vencimento.
 
 3. As remunerações dos médicos que venham a exercer funções em estabelecimentos não dependentes da Secretaria de Estado da Saúde ao abrigo do disposto no número anterior serão, no que a essas funções se refere, suportadas pelos referidos estabelecimentos, em termos a estipular mediante acordo entre aquela Secretaria de Estado e o departamento a que pertencer o estabelecimento em causa.
 
-Art. 19.º - 1. Os médicos pertencentes aos quadros permanentes dos hospitais centrais com prestação de bom e efectivo serviço na categoria que possuem e no estabelecimento em que se encontram colocados poderão requerer a sua transferência para lugares da mesma categoria que se encontrem vagos nos quadros ou mapas da respectiva especialidade de qualquer outro hospital central ou distrital.
+###### Artigo 19.º
+
+1. Os médicos pertencentes aos quadros permanentes dos hospitais centrais com prestação de bom e efectivo serviço na categoria que possuem e no estabelecimento em que se encontram colocados poderão requerer a sua transferência para lugares da mesma categoria que se encontrem vagos nos quadros ou mapas da respectiva especialidade de qualquer outro hospital central ou distrital.
 
 2. Os especialistas pertencentes aos quadros dos hospitais distritais com prestação de bom e efectivo serviço na categoria que possuem e no estabelecimento em que se encontram colocados poderão, caso o seu provimento tenha tido lugar através dos concursos a que se refere o artigo 14.º do presente diploma, requerer a sua transferência para lugares da mesma categoria que se encontrem vagos nos quadros ou mapas da respectiva especialidade de qualquer hospital central ou distrital.
 
@@ -319,15 +377,21 @@ Art. 19.º - 1. Os médicos pertencentes aos quadros permanentes dos hospitais c
 
 6. No caso de o número de candidatos ser superior ao número de vagas, a transferência será feita mediante apreciação curricular de todos os candidatos.
 
-Art. 20.º - 1. Logo que concluídos os processos de integração e os concursos subsequentes a que se refere o presente decreto-lei, as comissões instaladoras ou administrações de todos os hospitais centrais e distritais deverão enviar à Direcção-Geral dos Hospitais relações de que constem o número de vagas para internos de policlínica e de especialidade que considerem compatível com a preparação conveniente dos mesmos a nível local.
+###### Artigo 20.º
+
+1. Logo que concluídos os processos de integração e os concursos subsequentes a que se refere o presente decreto-lei, as comissões instaladoras ou administrações de todos os hospitais centrais e distritais deverão enviar à Direcção-Geral dos Hospitais relações de que constem o número de vagas para internos de policlínica e de especialidade que considerem compatível com a preparação conveniente dos mesmos a nível local.
 
 2. De posse dos elementos fornecidos pelos estabelecimentos, a Direcção-Geral dos Hospitais elaborará o mapa das vagas para o internato de policlínica e o internato das várias especialidades, tendo em conta as necessidades gerais e regionais do País, discriminando as vagas a abrir nas próximas admissões nos vários estabelecimentos.
 
-Art. 21.º - 1. Os próximos concursos de admissão ao internato policlínico e ao internato de especialidades serão realizados de modo a garantir uma distribuição equilibrada dos candidatos pelas vagas existentes em hospitais centrais e distritais.
+###### Artigo 21.º
+
+1. Os próximos concursos de admissão ao internato policlínico e ao internato de especialidades serão realizados de modo a garantir uma distribuição equilibrada dos candidatos pelas vagas existentes em hospitais centrais e distritais.
 
 2. Para cumprimento do disposto no número anterior, a distribuição será objecto de regulamentação adequada a propor por uma comissão, nomeada especificamente para esse efeito pelo Secretário de Estado da Saúde e de que farão parte representantes da Direcção-Geral dos Hospitais, dos hospitais centrais e distritais e dos internos.
 
-Art. 22.º - 1. Os lugares dos quadros ou mapas dos hospitais distritais que ficarem por preencher após os concursos previstos neste diploma e cuja ocupação se verifique indispensável ao funcionamento do estabelecimento serão preenchidos, sempre que possível e em regime temporário, por médicos ou equipas médicas oriundos dos hospitais centrais da região respectiva.
+###### Artigo 22.º
+
+1. Os lugares dos quadros ou mapas dos hospitais distritais que ficarem por preencher após os concursos previstos neste diploma e cuja ocupação se verifique indispensável ao funcionamento do estabelecimento serão preenchidos, sempre que possível e em regime temporário, por médicos ou equipas médicas oriundos dos hospitais centrais da região respectiva.
 
 2. Serão criadas comissões de região responsáveis pela planificação e coordenação das necessidades de todos os estabelecimentos hospitalares da respectiva área.
 
@@ -335,11 +399,17 @@ Art. 22.º - 1. Os lugares dos quadros ou mapas dos hospitais distritais que fic
 
 4. Até criação das comissões de região, as suas funções serão da competência da Direcção-Geral dos Hospitais.
 
-Art. 23.º Fica revogado o [Decreto-Lei n.º 676/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/676-1974-466220), de 29 de Novembro, e bem assim o que diz respeito às designações de chefe de serviço e director de serviço de hospital central e de director de serviço de hospital distrital no [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro.
+###### Artigo 23.º
 
-Art. 24.º Os casos omissos e as dúvidas resultantes da aplicação do presente diploma serão resolvidos por despacho do Secretário de Estado da Saúde ou, sendo caso disso, por despacho conjunto deste com o Secretário de Estado do Ensino Superior e Investigação Científica.
+Fica revogado o [Decreto-Lei n.º 676/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/676-1974-466220), de 29 de Novembro, e bem assim o que diz respeito às designações de chefe de serviço e director de serviço de hospital central e de director de serviço de hospital distrital no [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro.
 
-Art. 25.º Este diploma entra em vigor na data da publicação.
+###### Artigo 24.º
+
+Os casos omissos e as dúvidas resultantes da aplicação do presente diploma serão resolvidos por despacho do Secretário de Estado da Saúde ou, sendo caso disso, por despacho conjunto deste com o Secretário de Estado do Ensino Superior e Investigação Científica.
+
+###### Artigo 25.º
+
+Este diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Vítor Manuel Rodrigues Alves - Jorge de Carvalho Sá Borges.
 

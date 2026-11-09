@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1966-08-26'
+version_history:
+  file: decreto-44239.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-03-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1966-08-26'
+    amending: pt:dre:627387:por
+    amending_title: Decreto n.º 45083; Decreto n.º 47167
+    changes:
+    - Altera Artigo 13.º
+    - Altera Artigo 74.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:28:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 45083; Decreto n.º 47167.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1962/decreto-44239.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,9 +163,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 #### SECÇÃO I — Dos fins e atribuições
 
-Artigo 1.º Os serviços de agrimensura das províncias ultramarinas passam a designar-se serviços geográficos e cadastrais e têm por objectivo promover a elaboração de cartas topográficas e do cadastro geométrico da propriedade com base numa geodesia rigorosa e completa ou noutros processos científicos de igual rigor e, bem assim, realizar a intervenção administrativa prevista nas leis quanto à ocupação e utilização dos terrenos.
+###### Artigo 1.º
 
-Art. 2.º Para os fins estabelecidos no artigo anterior compete especialmente aos serviços geográficos e cadastrais das províncias ultramarinas:
+Os serviços de agrimensura das províncias ultramarinas passam a designar-se serviços geográficos e cadastrais e têm por objectivo promover a elaboração de cartas topográficas e do cadastro geométrico da propriedade com base numa geodesia rigorosa e completa ou noutros processos científicos de igual rigor e, bem assim, realizar a intervenção administrativa prevista nas leis quanto à ocupação e utilização dos terrenos.
+
+###### Artigo 2.º
+
+Para os fins estabelecidos no artigo anterior compete especialmente aos serviços geográficos e cadastrais das províncias ultramarinas:
 
 1.º O estudo, organização, execução e fiscalização dos trabalhos geográficos e topográficos relativos à elaboração das cartas e plantas necessárias ao conhecimento do território da respectiva província, bem como a execução de cartas especiais que interessarem à Administração;
 
@@ -179,7 +199,9 @@ Art. 2.º Para os fins estabelecidos no artigo anterior compete especialmente ao
 
 #### SECÇÃO II — Da orgânica geral
 
-Art. 3.º Os serviços geográficos e cadastrais nas províncias ultramarinas, directamente dependentes dos respectivos governadores, compreendem serviços de execução e serviços de inspecção.
+###### Artigo 3.º
+
+Os serviços geográficos e cadastrais nas províncias ultramarinas, directamente dependentes dos respectivos governadores, compreendem serviços de execução e serviços de inspecção.
 
 § 1.º Os serviços de execução são constituídos por:
 
@@ -195,13 +217,17 @@ e) Secção Técnica da Repartição Provincial de Economia na província de S. 
 
 § 2.º Em Angola e Moçambique os serviços de inspecção são constituídos por inspecções provinciais e nas restantes províncias ficarão a cargo de funcionários dos respectivos serviços, especialmente designados pelos governadores para esse fim.
 
-Art. 4.º Os serviços geográficos e cadastrais das províncias ultramarinas, para os efeitos de competência territorial, podem dividir-se em centrais e regionais, funcionando os primeiros nas respectivas capitais.
+###### Artigo 4.º
+
+Os serviços geográficos e cadastrais das províncias ultramarinas, para os efeitos de competência territorial, podem dividir-se em centrais e regionais, funcionando os primeiros nas respectivas capitais.
 
 § único. Nas regiões em que as necessidades locais o justifiquem poderão ser instalados serviços regionais, que, sem prejuízo do disposto no artigo antecedente, ficam a depender dos respectivos governadores. Em todos os assuntos de carácter técnico correspondem-se com os serviços centrais.
 
 #### SECÇÃO III — Dos serviços centrais
 
-Art. 5.º Cada uma das Direcções de Serviços Geográficos e Cadastrais de Angola e Moçambique compreende:
+###### Artigo 5.º
+
+Cada uma das Direcções de Serviços Geográficos e Cadastrais de Angola e Moçambique compreende:
 
 1.º Gabinete de estudos;
 
@@ -217,7 +243,9 @@ Art. 5.º Cada uma das Direcções de Serviços Geográficos e Cadastrais de Ang
 
 § único. Nos regulamentos provinciais serão fixadas as secções de cada um dos serviços referidos no corpo do artigo.
 
-Art. 6.º A Repartição Provincial da Guiné e a Repartição da Índia compreendem três secções:
+###### Artigo 6.º
+
+A Repartição Provincial da Guiné e a Repartição da Índia compreendem três secções:
 
 a) Secção técnica;
 
@@ -225,13 +253,19 @@ b) Secção de contencioso;
 
 c) Secretaria.
 
-Art. 7.º Sob proposta dos serviços, os governos provinciais criarão as brigadas de cadastro, de cartografia e de demarcação de vistorias necessárias à execução do plano de trabalhos anualmente aprovado.
+###### Artigo 7.º
 
-Art. 8.º Para a constituição das brigadas de demarcação e vistorias serão destacados dos serviços provinciais de agricultura e florestas, de veterinária e de economia os técnicos necessários à execução do programa estabelecido em cada ano.
+Sob proposta dos serviços, os governos provinciais criarão as brigadas de cadastro, de cartografia e de demarcação de vistorias necessárias à execução do plano de trabalhos anualmente aprovado.
+
+###### Artigo 8.º
+
+Para a constituição das brigadas de demarcação e vistorias serão destacados dos serviços provinciais de agricultura e florestas, de veterinária e de economia os técnicos necessários à execução do programa estabelecido em cada ano.
 
 #### SECÇÃO IV — Dos serviços regionais
 
-Art. 9.º Os serviços regionais, com sede nas capitais de distrito, dependem dos governadores respectivos e são designados Repartição Distrital dos Serviços Geográficos e Cadastrais.
+###### Artigo 9.º
+
+Os serviços regionais, com sede nas capitais de distrito, dependem dos governadores respectivos e são designados Repartição Distrital dos Serviços Geográficos e Cadastrais.
 
 § único. Enquanto as circunstâncias não permitirem a instalação de uma repartição em cada distrito, poderá a competência de uma delas abranger área superior.
 
@@ -239,7 +273,9 @@ Art. 9.º Os serviços regionais, com sede nas capitais de distrito, dependem do
 
 #### SECÇÃO I — Das inspecções provinciais
 
-Art. 10.º Compete à inspecção provincial:
+###### Artigo 10.º
+
+Compete à inspecção provincial:
 
 1.º Verificar a forma como os serviços exercem a sua competência e realizam as suas atribuições;
 
@@ -251,17 +287,23 @@ Art. 10.º Compete à inspecção provincial:
 
 #### SECÇÃO II — Da directoria ou chefia dos serviços
 
-Art. 11.º O director ou chefe da repartição provincial, conforme os casos, sob a imediata superintendência do governador, orienta, estimula, coordena, fiscaliza e mantém a harmonia entre os vários ramos do serviço, entre estes e o público, em ordem à eficiente e económica realização dos seus fins.
+###### Artigo 11.º
 
-Art. 12.º O gabinete de estudos será dirigido por um engenheiro-chefe, que exercerá também as funções de adjunto do director dos serviços.
+O director ou chefe da repartição provincial, conforme os casos, sob a imediata superintendência do governador, orienta, estimula, coordena, fiscaliza e mantém a harmonia entre os vários ramos do serviço, entre estes e o público, em ordem à eficiente e económica realização dos seus fins.
+
+###### Artigo 12.º
+
+O gabinete de estudos será dirigido por um engenheiro-chefe, que exercerá também as funções de adjunto do director dos serviços.
 
 #### SECÇÃO III — Dos serviços centrais
 
-Art. 13.º Compete ao gabinete de estudos:
+###### Artigo 13.º
+
+Compete ao gabinete de estudos:
 
 1.º Realizar os estudos que lhe forem determinados em relação a matéria do âmbito dos serviços e, em especial:
 
-a) Organizar por si ou com a colaboração de técnicos de outros serviços planos de parcelamento de zonas urbanas ou rústicas;
+a) Organizar planos de parcelamento de zonas rústicas com excepção daquelas que, pelas suas características especiais ou de proximidade de centros populacionais, devam estar sob a jurisdição e competência urbanística de outros serviços.
 
 b) Estudar os problemas relacionados com o aperfeiçoamento das técnicas empregadas pelos serviços e com a introdução de novos processos de medição, de cálculo ou de registo;
 
@@ -279,9 +321,13 @@ c) Estudar processos e técnicas sugeridos e sobre eles dar parecer quanto às v
 
 § 1.º Nos trabalhos do gabinete de estudos participam, além do seu pessoal próprio, todos os funcionários da direcção dos serviços cuja intervenção o director julgue conveniente.
 
-§ 2.º Para a execução dos estudos previstos na alínea a) do n.º 1 do corpo do artigo será destacado um arquitecto dos serviços de urbanização das obras públicas.
+§ 2.º Para os fins do disposto na parte final da alínea a) do n.º 1.º do corpo deste artigo, é obrigatória a audição da Comissão Provincial de Urbanização referida no artigo 22.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964.
 
-Art. 14.º Compete aos serviços administrativos:
+> Alterado pelo/a [Decreto n.º 47167](https://diariodarepublica.pt/dr/detalhe/decreto/47167-1966-469428), publicado em 1966-08-26.
+
+###### Artigo 14.º
+
+Compete aos serviços administrativos:
 
 1.º Assegurar à direcção as suas relações com os restantes órgãos da administração da província, com os serviços regionais e com os organismos e entidades particulares;
 
@@ -303,7 +349,9 @@ a) O expediente necessário à aquisição de material e à sua conveniente guar
 
 b) A reparação do material técnico e de acampamento e das viaturas dos serviços.
 
-Art. 15.º Compete aos serviços de cartografia:
+###### Artigo 15.º
+
+Compete aos serviços de cartografia:
 
 1.º Estudar, organizar e executar os trabalhos técnicos respeitantes ao estabelecimento e cálculo das redes de triangulação e assegurar a conservação dos seus vértices;
 
@@ -321,7 +369,9 @@ Art. 15.º Compete aos serviços de cartografia:
 
 8.º Organizar, guardar e conservar o respectivo arquivo técnico.
 
-Art. 16.º Compete aos serviços de agrimensura e cadastro:
+###### Artigo 16.º
+
+Compete aos serviços de agrimensura e cadastro:
 
 1.º Estudar, organizar e executar os trabalhos técnicos respeitantes à demarcação definitiva de concessões e de reservas;
 
@@ -339,7 +389,9 @@ Art. 16.º Compete aos serviços de agrimensura e cadastro:
 
 8.º Organizar, guardar e conservar o respectivo arquivo técnico.
 
-Art. 17.º Compete aos serviços de fotogrametria:
+###### Artigo 17.º
+
+Compete aos serviços de fotogrametria:
 
 1.º Planear e executar os voos fotográficos relacionados com a obtenção da fotografia aérea nas províncias em que tal serviço não esteja entregue a outro departamento do Estado;
 
@@ -357,7 +409,9 @@ Art. 17.º Compete aos serviços de fotogrametria:
 
 8.º Organizar, guardar e conservar o respectivo arquivo técnico.
 
-Art. 18.º Compete aos serviços de contencioso:
+###### Artigo 18.º
+
+Compete aos serviços de contencioso:
 
 1.º Executar as leis e regulamentos respeitantes ao regime de terras na província e à sua ocupação e concessão;
 
@@ -371,7 +425,9 @@ Art. 18.º Compete aos serviços de contencioso:
 
 6.º Organizar e conservar o tombo geral da propriedade.
 
-Art. 19.º Compete à secção técnica da Repartição Provincial da Guiné e da Repartição Técnica da Índia:
+###### Artigo 19.º
+
+Compete à secção técnica da Repartição Provincial da Guiné e da Repartição Técnica da Índia:
 
 1.º Estudar, organizar e executar os trabalhos técnicos respeitantes ao estabelecimento da triangulação, ao levantamento topográfico de plantas e à implantação de povoações sem foral;
 
@@ -385,7 +441,9 @@ Art. 19.º Compete à secção técnica da Repartição Provincial da Guiné e d
 
 6.º Organizar e conservar o arquivo técnico da Repartição.
 
-Art. 20.º Compete à secção de contencioso da Repartição Provincial da Guiné e da Repartição Técnica da Índia:
+###### Artigo 20.º
+
+Compete à secção de contencioso da Repartição Provincial da Guiné e da Repartição Técnica da Índia:
 
 1.º Executar e fiscalizar as normas legais e os regulamentos respeitantes ao regime de terras na província no que se refere à ocupação, reserva e concessão de terrenos e ao cadastro geométrico da, propriedade e sua conservação;
 
@@ -393,7 +451,9 @@ Art. 20.º Compete à secção de contencioso da Repartição Provincial da Guin
 
 3.º Organizar e conservar o tombo geral da propriedade.
 
-Art. 21.º Compete à secretaria da Repartição Provincial da Guiné e da Repartição Técnica da Índia:
+###### Artigo 21.º
+
+Compete à secretaria da Repartição Provincial da Guiné e da Repartição Técnica da Índia:
 
 1.º Efectuar o expediente relativo ao pessoal e à contabilidade da Repartição;
 
@@ -403,7 +463,9 @@ Art. 21.º Compete à secretaria da Repartição Provincial da Guiné e da Repar
 
 4.º Organizar e manter permanentemente ordenado o arquivo geral da Repartição.
 
-Art. 22.º Nas províncias de governo simples poder-se-á agrupar numa subsecção técnica as seguintes funções:
+###### Artigo 22.º
+
+Nas províncias de governo simples poder-se-á agrupar numa subsecção técnica as seguintes funções:
 
 1.º Executar os trabalhos técnicos relativos à demarcação de parcelas, ao cadastro geométrico da propriedade e aos levantamentos topográficos que interessarem aos fins da secção;
 
@@ -413,7 +475,9 @@ Art. 22.º Nas províncias de governo simples poder-se-á agrupar numa subsecç�
 
 4.º Organizar e conservar o arquivo técnico da subsecção.
 
-Art. 23.º Nas províncias referidas no artigo anterior poder-se-á agrupar numa subsecção de expediente as seguintes funções:
+###### Artigo 23.º
+
+Nas províncias referidas no artigo anterior poder-se-á agrupar numa subsecção de expediente as seguintes funções:
 
 1.º Executar e fiscalizar as normas legais e administrativas respeitantes ao regime de terras na província e fazer o expediente relativo ao pessoal e à contabilidade da secção;
 
@@ -423,7 +487,9 @@ Art. 23.º Nas províncias referidas no artigo anterior poder-se-á agrupar numa
 
 #### SECÇÃO IV — Dos serviços regionais
 
-Art. 24.º Compete às repartições distritais:
+###### Artigo 24.º
+
+Compete às repartições distritais:
 
 1.º Assegurar aos governadores de distrito a execução e fiscalização das disposições legais da sua competência sobre o regime de terras nas província.
 
@@ -433,7 +499,9 @@ Art. 24.º Compete às repartições distritais:
 
 #### SECÇÃO V — Das brigadas
 
-Art. 25.º Compete às brigadas a execução dos trabalhos que lhe foram confiados, em harmonia com as instruções de serviço formuladas para cada caso.
+###### Artigo 25.º
+
+Compete às brigadas a execução dos trabalhos que lhe foram confiados, em harmonia com as instruções de serviço formuladas para cada caso.
 
 § único. As brigadas poderão colaborar com outros órgãos dos serviços ou actuar independentemente, em harmonia com as conveniências e necessidades relativas ao cumprimento dos programas de trabalho.
 
@@ -441,7 +509,9 @@ Art. 25.º Compete às brigadas a execução dos trabalhos que lhe foram confiad
 
 #### SECÇÃO I — Dos quadros
 
-Art. 26.º O pessoal dos serviços geográficos e cadastrais das províncias ultramarinas é classificado pela seguinte forma:
+###### Artigo 26.º
+
+O pessoal dos serviços geográficos e cadastrais das províncias ultramarinas é classificado pela seguinte forma:
 
 1.º Pessoal técnico;
 
@@ -461,17 +531,23 @@ Art. 26.º O pessoal dos serviços geográficos e cadastrais das províncias ult
 
 § 4.º O pessoal operário e serventuário compreende os operários de qualquer ramo de actividade necessário ao desempenho dos serviços e trabalhos técnicos.
 
-Art. 27.º Os quadros do pessoal dos serviços geográficos e cadastrais pertencerão ao quadro comum do ultramar e aos quadros privativos das respectivas províncias ultramarinas.
+###### Artigo 27.º
+
+Os quadros do pessoal dos serviços geográficos e cadastrais pertencerão ao quadro comum do ultramar e aos quadros privativos das respectivas províncias ultramarinas.
 
 § 1.º O pessoal do quadro comum e respectivas categorias são os fixados no mapa I anexo ao presente diploma e o pessoal dos quadros privativos e respectivas categorias são os constantes do mapa II.
 
 § 2.º Além do pessoal dos quadros poderá ser admitido, dentro das dotações globais para tal fim inscritas no orçamento, pessoal técnico eventual para a execução de serviços para que se torne necessária uma especialização que o pessoal dos quadros permanentes não possua.
 
-Art. 28.º Os quadros privativos poderão ser alterados pelos respectivos governadores sempre que as circunstâncias o aconselharem e desde que não sejam excedidas as dotações orçamentais, totais, que estiverem consignadas aos encargos com o pessoal dos mesmos quadros.
+###### Artigo 28.º
+
+Os quadros privativos poderão ser alterados pelos respectivos governadores sempre que as circunstâncias o aconselharem e desde que não sejam excedidas as dotações orçamentais, totais, que estiverem consignadas aos encargos com o pessoal dos mesmos quadros.
 
 #### SECÇÃO II — Do recrutamento e ingresso nos quadros
 
-Art. 29.º O ingresso dos funcionários no quadro comum será feito na menor categoria dos cargos a preencher, mediante concurso documental, válido por dois anos, aberto no Ministério do Ultramar.
+###### Artigo 29.º
+
+O ingresso dos funcionários no quadro comum será feito na menor categoria dos cargos a preencher, mediante concurso documental, válido por dois anos, aberto no Ministério do Ultramar.
 
 § 1.º As habilitações exigidas para provimento de cada um dos lugares do quadro comum são as seguintes:
 
@@ -491,11 +567,15 @@ Art. 29.º O ingresso dos funcionários no quadro comum será feito na menor cat
 
 3.ª Apresentação de publicações ou trabalhos da especialidade em que os candidatos demonstrem conhecimentos de assuntos relacionados com as atribuições dos serviços.
 
-Art. 30.º A admissão do pessoal nos quadros privativos das províncias ultramarinas deverá ser feita, nos termos dos respectivos regulamentos, por concursos de provas, práticas e na menor categoria dos cargos a preencher.
+###### Artigo 30.º
+
+A admissão do pessoal nos quadros privativos das províncias ultramarinas deverá ser feita, nos termos dos respectivos regulamentos, por concursos de provas, práticas e na menor categoria dos cargos a preencher.
 
 #### SECÇÃO III — Das promoções
 
-Art. 31.º As funções de director provincial e de inspector provincial são desempenhadas por diplomados com curso superior que se adapte à natureza dos serviços, com a categoria de director de serviços.
+###### Artigo 31.º
+
+As funções de director provincial e de inspector provincial são desempenhadas por diplomados com curso superior que se adapte à natureza dos serviços, com a categoria de director de serviços.
 
 § único. A categoria de director nos serviços geográficos e cadastrais do ultramar adquire-se por um dos seguintes meios:
 
@@ -503,7 +583,9 @@ a) Pela promoção por escolha entre os engenheiros geógrafos-chefes e os actua
 
 b) Pelo exercício do cargo durante quatro anos, com boas informações, nos termos do § 1.º do artigo 37.º do Estatuto do Funcionalismo Ultramarino.
 
-Art. 32.º As promoções a engenheiro geógrafo-chefe, engenheiro geógrafo de 1.ª classe, topógrafo geómetra-chefe, topógrafo geómetra e chefe de secção far-se-ão por concurso documental, aberto no Ministério do Ultramar, entre os funcionários de categoria imediatamente inferior que satisfaçam às condições a seguir indicadas, salvo o disposto no artigo 70.º do Estatuto do Funcionalismo, Ultramarino:
+###### Artigo 32.º
+
+As promoções a engenheiro geógrafo-chefe, engenheiro geógrafo de 1.ª classe, topógrafo geómetra-chefe, topógrafo geómetra e chefe de secção far-se-ão por concurso documental, aberto no Ministério do Ultramar, entre os funcionários de categoria imediatamente inferior que satisfaçam às condições a seguir indicadas, salvo o disposto no artigo 70.º do Estatuto do Funcionalismo, Ultramarino:
 
 1.º Para, engenheiro geógrafo-chefe, ser funcionário dos serviços geográficos e cadastrais, ter boas informações e mais de quatro anos de engenheiro geógrafo de 1.ª classe;
 
@@ -537,11 +619,15 @@ b) Ter servido em repartições distritais, fora da capital da província, pelo 
 
 4.º Classificação do curso de engenheiro geógrafo ou do curso complementar de topografia, conforme, os casos.
 
-Art. 33.º A promoção do pessoal dos quadros privativos das províncias ultramarinas será feita por concurso de provas práticas. Os regulamentos dos serviços estabelecerão as condições a satisfazer e as normas a seguir para a realização dos concursos e promoção do pessoal.
+###### Artigo 33.º
+
+A promoção do pessoal dos quadros privativos das províncias ultramarinas será feita por concurso de provas práticas. Os regulamentos dos serviços estabelecerão as condições a satisfazer e as normas a seguir para a realização dos concursos e promoção do pessoal.
 
 #### SECÇÃO IV — Das colocações
 
-Art. 34.º As funções de inspecção, de direcção e de chefia dos serviços geográficos e cadastrais são atribuídas a funcionários com as seguintes categorias:
+###### Artigo 34.º
+
+As funções de inspecção, de direcção e de chefia dos serviços geográficos e cadastrais são atribuídas a funcionários com as seguintes categorias:
 
 1.º Inspecção provincial - director;
 
@@ -553,7 +639,9 @@ Art. 34.º As funções de inspecção, de direcção e de chefia dos serviços 
 
 5.º Secção técnica da Repartição Provincial de Economia de Timor - topógrafo geómetra.
 
-Art. 35.º A chefia dos serviços provinciais compete:
+###### Artigo 35.º
+
+A chefia dos serviços provinciais compete:
 
 a) Na Direcção de Serviços de Angola e Moçambique:
 
@@ -577,11 +665,15 @@ b) Na Repartição Provincial da Guiné e na Repartição Técnica da Índia:
 
 3.º A secretaria a um primeiro-oficial.
 
-Art. 36.º As repartições distritais serão, em regra, chefiadas por engenheiros geógrafos de 1.ª ou 2.ª classes ou por topógrafos geómetras-chefes.
+###### Artigo 36.º
+
+As repartições distritais serão, em regra, chefiadas por engenheiros geógrafos de 1.ª ou 2.ª classes ou por topógrafos geómetras-chefes.
 
 #### SECÇÃO V — Dos vencimentos e remunerações
 
-Art. 37.º Aos funcionários empregados na direcção, fiscalização, estudo ou execução de trabalhos de campo que fixem a residência permanente fora das povoações classificadas poderá ser abonado um subsídio diário de campo, que substituirá a ajuda de custo.
+###### Artigo 37.º
+
+Aos funcionários empregados na direcção, fiscalização, estudo ou execução de trabalhos de campo que fixem a residência permanente fora das povoações classificadas poderá ser abonado um subsídio diário de campo, que substituirá a ajuda de custo.
 
 § 1.º Este subsídio só será devido quando os funcionários não tenham direito a remuneração especial pelas condições em que o seu trabalho é exercido e se reconheça, em despacho fundamentado, a necessidade de recompensar o grau de isolamento, a violência do trabalho e o custo de vida no respectivo local.
 
@@ -589,17 +681,25 @@ Art. 37.º Aos funcionários empregados na direcção, fiscalização, estudo ou
 
 § 3.º Os trabalhos de campo serão, em regra, autorizados por período não superior a 30 dias, dependendo a sua prorrogação da proposta fundamentada do director ou chefe do respectivo serviço e de despacho favorável do governador da província.
 
-Art. 38.º Na falta de lei especial o subsídio de campo será igual à ajuda de custo que competir ao respectivo funcionário, acrescido de uma percentagem da mesma não superior a 50 por cento e fixada por despacho do governador da respectiva província, tendo em vista as circunstâncias indicadas no artigo 37.º
+###### Artigo 38.º
 
-Art. 39.º Os trabalhos de restituição fotogramétrica, de laboratório fotográfico e de desenho deverão ser efectuados, quanto possível, de modo contínuo, por turnos de funcionários empregados na sua direcção, fiscalização e execução, a fim de obter o maior rendimento possível da aparelhagem dos serviços.
+Na falta de lei especial o subsídio de campo será igual à ajuda de custo que competir ao respectivo funcionário, acrescido de uma percentagem da mesma não superior a 50 por cento e fixada por despacho do governador da respectiva província, tendo em vista as circunstâncias indicadas no artigo 37.º
+
+###### Artigo 39.º
+
+Os trabalhos de restituição fotogramétrica, de laboratório fotográfico e de desenho deverão ser efectuados, quanto possível, de modo contínuo, por turnos de funcionários empregados na sua direcção, fiscalização e execução, a fim de obter o maior rendimento possível da aparelhagem dos serviços.
 
 § único. Sempre que o pessoal dos quadros seja insuficiente pata os trabalhos de restituição a efectuar poderão esses trabalhos ser realizados por pessoal estranho aos mesmos quadros, em regime de tarefa, segundo tabela aprovada pelo governador.
 
-Art. 40.º Ao director e a cada um dos professores da escola de topografia e agrimensura será abonada a gratificação mensal de 1000$00, aos instrutores a de 600$00 e ao secretário a de 300$00.
+###### Artigo 40.º
+
+Ao director e a cada um dos professores da escola de topografia e agrimensura será abonada a gratificação mensal de 1000$00, aos instrutores a de 600$00 e ao secretário a de 300$00.
 
 ### CAPÍTULO IV — Da preparação técnica do pessoal e intercâmbio dos serviços
 
-Art. 41.º Nos serviços geográficos e cadastrais das províncias de Angola, de Moçambique, da Guiné e da Índia funcionará a escola de topografia e agrimensura, na qual será ministrado o ensino teórico e prático dos cursos necessários ao aperfeiçoamento técnico dos seus funcionários, à preparação dos indivíduos para a sua admissão no quadro dos serviços como topógrafos e ao exercício da profissão de topógrafo e de agrimensor.
+###### Artigo 41.º
+
+Nos serviços geográficos e cadastrais das províncias de Angola, de Moçambique, da Guiné e da Índia funcionará a escola de topografia e agrimensura, na qual será ministrado o ensino teórico e prático dos cursos necessários ao aperfeiçoamento técnico dos seus funcionários, à preparação dos indivíduos para a sua admissão no quadro dos serviços como topógrafos e ao exercício da profissão de topógrafo e de agrimensor.
 
 § 1.º Na escola referida no corpo do artigo serão obrigatòriamente professados os seguintes cursos:
 
@@ -609,21 +709,33 @@ Art. 41.º Nos serviços geográficos e cadastrais das províncias de Angola, de
 
 § 2.º Sob proposta dos serviços e mediante portaria do governo da província, poderão ser ministrados na mesma escola cursos de preparação e de aperfeiçoamento técnico profissional de desenhadores, calculadores, fotógrafos e operadores de restituição, sempre que tal medida seja julgada necessária ou conveniente.
 
-Art. 42.º O director ou o chefe da Repartição Provincial ou Técnica dos serviços geográficos e cadastrais conforme os casos, será o director da escola de topografia e agrimensura respectiva, o qual orientará o ensino e assegurará o funcionamento da escola.
+###### Artigo 42.º
+
+O director ou o chefe da Repartição Provincial ou Técnica dos serviços geográficos e cadastrais conforme os casos, será o director da escola de topografia e agrimensura respectiva, o qual orientará o ensino e assegurará o funcionamento da escola.
 
 § único. Os professores e os instrutores que forem necessários ao ensino dos cursos, bem como o secretário da escola, serão nomeados e exonerados em portaria do governador, sob proposta do director ou chefe da repartição.
 
-Art. 43.º As condições de funcionamento da escola, em especial os programas, matéria e duração dos cursos, a natureza e duração dos tirocínios de campo e dos estágios, as condições de admissão dos candidatos, a limitação da frequência e o serviço de exames, serão definidos no regulamento da escola.
+###### Artigo 43.º
 
-Art. 44.º Os alunos do curso de topografia poderão ser admitidos nos serviços em regime de assalariamento e integrados nas brigadas como topógrafos praticantes durante os períodos exigidos para o seu tirocínio de campo.
+As condições de funcionamento da escola, em especial os programas, matéria e duração dos cursos, a natureza e duração dos tirocínios de campo e dos estágios, as condições de admissão dos candidatos, a limitação da frequência e o serviço de exames, serão definidos no regulamento da escola.
 
-Art. 45.º Os funcionários dos serviços geográficos e cadastrais devem procurar aumentar a sua preparação profissional no sentido de melhor desempenho das funções que lhes são atribuídas e contribuir com estudos escritos para a documentação que o director ou o chefe dos serviços julgar útil inserir nas publicações dos serviços, para os quais também podem ser aceites originais da autoria de agrimensores particulares.
+###### Artigo 44.º
 
-Art. 46.º O Ministro pode autorizar que os técnicos dos quadros comum e privativos das províncias realizem missões de estudo noutras províncias, na metrópole ou no estrangeiro.
+Os alunos do curso de topografia poderão ser admitidos nos serviços em regime de assalariamento e integrados nas brigadas como topógrafos praticantes durante os períodos exigidos para o seu tirocínio de campo.
+
+###### Artigo 45.º
+
+Os funcionários dos serviços geográficos e cadastrais devem procurar aumentar a sua preparação profissional no sentido de melhor desempenho das funções que lhes são atribuídas e contribuir com estudos escritos para a documentação que o director ou o chefe dos serviços julgar útil inserir nas publicações dos serviços, para os quais também podem ser aceites originais da autoria de agrimensores particulares.
+
+###### Artigo 46.º
+
+O Ministro pode autorizar que os técnicos dos quadros comum e privativos das províncias realizem missões de estudo noutras províncias, na metrópole ou no estrangeiro.
 
 § único. Quando as missões se realizem durante as licenças graciosas, com o assentimento dos interessados, aquelas não poderão prolongar-se no estrangeiro por mais de metade do período de licença, nem efectuar-se em regiões tropicais.
 
-Art. 47.º De dois em dois anos realizar-se-ão jornadas geográfico-cadastrais, alternadamente nos serviços geográficos e cadastrais de Angola e Moçambique, com a colaboração das respectivas missões geográficas, reunindo os respectivos técnicos para apresentação e debate de temas, em plena actualidade, que se revistam de reconhecida importância para a eficiência dos serviço, e para a economia das respectivas províncias.
+###### Artigo 47.º
+
+De dois em dois anos realizar-se-ão jornadas geográfico-cadastrais, alternadamente nos serviços geográficos e cadastrais de Angola e Moçambique, com a colaboração das respectivas missões geográficas, reunindo os respectivos técnicos para apresentação e debate de temas, em plena actualidade, que se revistam de reconhecida importância para a eficiência dos serviço, e para a economia das respectivas províncias.
 
 § 1.º Às jornadas de Angola assistirá sempre uma delegação de Moçambique e, quando possível, técnicos dos serviços geográficos e cadastrais da Guiné; às de Moçambique assistirá sempre uma de Angola e, quando possível, técnicos dos serviços geográficos e cadastrais da Índia e de Timor.
 
@@ -631,19 +743,29 @@ Art. 47.º De dois em dois anos realizar-se-ão jornadas geográfico-cadastrais,
 
 § 3.º Um dos membros das delegações referidas no § 1.º fará sempre numa das sessões públicas da jornada uma exposição em que se foquem os problemas fotogramétricos, geográficos ou cadastrais de maior relevo, interesse e projecção para a sua província.
 
-Art. 48.º Os serviços geográficos e cadastrais de Angola e Moçambique estabelecerão intercâmbio técnico, trocando entre si relatórios e outras publicações dos serviços, recorrendo, quando necessário, a consultas de natureza técnico-científica e efectuando, periódica ou eventualmente, missões de estudo a uma e a outra província, autorizadas pelo Ministro do Ultramar.
+###### Artigo 48.º
+
+Os serviços geográficos e cadastrais de Angola e Moçambique estabelecerão intercâmbio técnico, trocando entre si relatórios e outras publicações dos serviços, recorrendo, quando necessário, a consultas de natureza técnico-científica e efectuando, periódica ou eventualmente, missões de estudo a uma e a outra província, autorizadas pelo Ministro do Ultramar.
 
 ### CAPÍTULO V — Do exercício da profissão de agrimensor e de topógrafo
 
-Art. 49.º Nas províncias onde houver escola de topografia e agrimensura só os indivíduos habilitados com o respectivo diploma podem exercer a profissão de topógrafo em relação a actos que tenham de produzir efeitos nos serviços públicos ou municipais.
+###### Artigo 49.º
 
-Art. 50.º O diploma de topógrafo será conferido, a requerimento dos interessados, aos indivíduos que estejam no uso dos seus direitos civis e políticos e que tenham sido aprovados nos exames finais do curso de topografia da escola de topografia e agrimensura.
+Nas províncias onde houver escola de topografia e agrimensura só os indivíduos habilitados com o respectivo diploma podem exercer a profissão de topógrafo em relação a actos que tenham de produzir efeitos nos serviços públicos ou municipais.
+
+###### Artigo 50.º
+
+O diploma de topógrafo será conferido, a requerimento dos interessados, aos indivíduos que estejam no uso dos seus direitos civis e políticos e que tenham sido aprovados nos exames finais do curso de topografia da escola de topografia e agrimensura.
 
 § único. O diploma de topógrafo deverá ser assinado pelo director da escola de topografia e agrimensura.
 
-Art. 51.º Podem exercer a profissão de agrimensor particular os indivíduos de nacionalidade portuguesa habilitados com o alvará de agrimensor.
+###### Artigo 51.º
 
-Art. 52.º O alvará de agrimensor será conferido pelos serviços geográficos e cadastrais ou pelos serviços onde estes se integram, a requerimento dos interessados, depois de terem prestado compromisso de honra, aos indivíduos que estejam no uso dos seus direitos civis e políticos e que satisfaçam a uma das seguintes condições:
+Podem exercer a profissão de agrimensor particular os indivíduos de nacionalidade portuguesa habilitados com o alvará de agrimensor.
+
+###### Artigo 52.º
+
+O alvará de agrimensor será conferido pelos serviços geográficos e cadastrais ou pelos serviços onde estes se integram, a requerimento dos interessados, depois de terem prestado compromisso de honra, aos indivíduos que estejam no uso dos seus direitos civis e políticos e que satisfaçam a uma das seguintes condições:
 
 a) Possuir o diploma de topógrafo referido no artigo 50.º;
 
@@ -659,15 +781,21 @@ Afirmo solenemente, pela minha honra, que respeitarei e cumprirei as leis e regu
 
 § 2.º O alvará de agrimensor particular deverá ser assinado pelo director ou chefe da repartição provincial que o emitir.
 
-Art. 53.º Os agrimensores particulares e as sociedades por eles constituídas são as únicas entidades técnicas estranhas ao quadro do pessoal dos serviços geográficos e cadastrais que podem realizar, mediante contrato, trabalhos respeitantes a demarcações provisórias e definitivas de terrenos e a operações de cadastro para titulação de propriedades perfeitas.
+###### Artigo 53.º
+
+Os agrimensores particulares e as sociedades por eles constituídas são as únicas entidades técnicas estranhas ao quadro do pessoal dos serviços geográficos e cadastrais que podem realizar, mediante contrato, trabalhos respeitantes a demarcações provisórias e definitivas de terrenos e a operações de cadastro para titulação de propriedades perfeitas.
 
 § 1.º É expressamente vedado aos agrimensores particulares efectuar trabalhos técnicos referentes a processos de concessão em que tenham interesse, por si ou interposta pessoa.
 
 § 2.º Os agrimensores particulares que tenham exercido funções de procuradoria em processos de concessão não podem executar as respectivas demarcações nem qualquer outro trabalho técnico que aos mesmos respeite.
 
-Art. 54.º Nos serviços geográficos e cadastrais serão organizados e mantidos sempre actualizados os registos de topógrafos e de agrimensor particular.
+###### Artigo 54.º
 
-Art. 55.º Pode o Governo da província contratar com os agrimensores particulares, ou com sociedade por eles constituída ou ainda com organizações particulares fotogramétricas de reconhecida idoneidade, por intermédio dos serviços geográficos e cadastrais, a execução de demarcações provisórias e definitivas, de levantamento e implantação de povoações e de operações de cadastro geométrico da propriedade.
+Nos serviços geográficos e cadastrais serão organizados e mantidos sempre actualizados os registos de topógrafos e de agrimensor particular.
+
+###### Artigo 55.º
+
+Pode o Governo da província contratar com os agrimensores particulares, ou com sociedade por eles constituída ou ainda com organizações particulares fotogramétricas de reconhecida idoneidade, por intermédio dos serviços geográficos e cadastrais, a execução de demarcações provisórias e definitivas, de levantamento e implantação de povoações e de operações de cadastro geométrico da propriedade.
 
 § único. Os encargos provenientes dos contratos referidos no corpo do artigo serão suportados:
 
@@ -675,9 +803,13 @@ Art. 55.º Pode o Governo da província contratar com os agrimensores particular
 
 2.º Por conta dos depósitos efectuados pelos demarcantes e concessionários, quando se trate de demarcação provisória ou definitiva e aqueles sejam suficientes para o efeito.
 
-Art. 56.º Na realização de trabalhos para os serviços geográficos e cadastrais os agrimensores particulares são considerados agentes daqueles serviços para efeito do exercício da autoridade e da requisição de diligências, de auxílios e de protecção da autoridade administrativa local.
+###### Artigo 56.º
 
-Art. 57.º Compete aos agrimensores particulares, como agentes dos serviços geográficos e cadastrais:
+Na realização de trabalhos para os serviços geográficos e cadastrais os agrimensores particulares são considerados agentes daqueles serviços para efeito do exercício da autoridade e da requisição de diligências, de auxílios e de protecção da autoridade administrativa local.
+
+###### Artigo 57.º
+
+Compete aos agrimensores particulares, como agentes dos serviços geográficos e cadastrais:
 
 1.º Cumprir e fazer cumprir as disposições legais em vigor sobre concessões de terrenos vagos, sobre titulação de propriedades perfeitas e sobre operações de cadastro;
 
@@ -685,7 +817,9 @@ Art. 57.º Compete aos agrimensores particulares, como agentes dos serviços geo
 
 3.º Cumprir as instruções e preceitos técnicos emanados dos serviços.
 
-Art. 58.º Os agrimensores particulares ficam sujeitos a procedimento disciplinar, mediante processo devidamente organizado, pelas faltas ou irregularidades cometidas no exercício da sua profissão, designadamente nos casos de:
+###### Artigo 58.º
+
+Os agrimensores particulares ficam sujeitos a procedimento disciplinar, mediante processo devidamente organizado, pelas faltas ou irregularidades cometidas no exercício da sua profissão, designadamente nos casos de:
 
 1.º Erros do ofício;
 
@@ -697,7 +831,9 @@ Art. 58.º Os agrimensores particulares ficam sujeitos a procedimento disciplina
 
 5.º Mau comportamento moral e civil.
 
-Art. 59.º As penas disciplinares aplicáveis aos agrimensores particulares são as seguintes:
+###### Artigo 59.º
+
+As penas disciplinares aplicáveis aos agrimensores particulares são as seguintes:
 
 1.º Censura por escrito;
 
@@ -709,13 +845,21 @@ Art. 59.º As penas disciplinares aplicáveis aos agrimensores particulares são
 
 § único. As penalidades dos n.os 1.º e 2.º são da competências dos directores e dos chefes das repartições e as restantes do governador da província, delas cabendo recurso nos termos legais.
 
-Art. 60.º O procedimento disciplinar é independente do procedimento criminal, no que respeita à sua instauração e à aplicação das penas disciplinares.
+###### Artigo 60.º
 
-Art. 61.º A pena do n.º 1.º do artigo 59.º será aplicado por faltas leves enquadradas nos n.os 1.º ou 2.º do artigo 58.º, de que não tenham resultado prejuízo para o Estado ou para terceiros nem descrédito para a classe dos agrimensores.
+O procedimento disciplinar é independente do procedimento criminal, no que respeita à sua instauração e à aplicação das penas disciplinares.
 
-Art. 62.º A pena do n.º 2.º do artigo 59.º será aplicável, em geral, nos casos de negligência ou má compreensão dos seus deveres profissionais e, em especial, por faltas previstas nos n.os 1.º e 2.º do artigo 58.º com carácter de maior gravidade do que no caso do artigo anterior.
+###### Artigo 61.º
 
-Art. 63.º A pena do n.º 3.º do artigo 59.º será aplicável, em geral, nos casos de:
+A pena do n.º 1.º do artigo 59.º será aplicado por faltas leves enquadradas nos n.os 1.º ou 2.º do artigo 58.º, de que não tenham resultado prejuízo para o Estado ou para terceiros nem descrédito para a classe dos agrimensores.
+
+###### Artigo 62.º
+
+A pena do n.º 2.º do artigo 59.º será aplicável, em geral, nos casos de negligência ou má compreensão dos seus deveres profissionais e, em especial, por faltas previstas nos n.os 1.º e 2.º do artigo 58.º com carácter de maior gravidade do que no caso do artigo anterior.
+
+###### Artigo 63.º
+
+A pena do n.º 3.º do artigo 59.º será aplicável, em geral, nos casos de:
 
 1.º Negligência indesculpável, que mostre falta de zelo pelo cumprimento dos seus deveres;
 
@@ -725,7 +869,9 @@ Art. 63.º A pena do n.º 3.º do artigo 59.º será aplicável, em geral, nos c
 
 § único. A pena referida neste artigo será especialmente aplicada por faltas enquadradas no n.º 1.º, quando se mostrem de extrema gravidade e nos n.os 3.º e 4.º do artigo 58.º
 
-Art. 64.º A pena do n.º 4.º do artigo 59.º será, em geral, aplicável aos casos em que o agrimensor revele impossibilidade de adaptação profissional ou moral às exigências do exercício da profissão e, em especial, nos casos de:
+###### Artigo 64.º
+
+A pena do n.º 4.º do artigo 59.º será, em geral, aplicável aos casos em que o agrimensor revele impossibilidade de adaptação profissional ou moral às exigências do exercício da profissão e, em especial, nos casos de:
 
 1.º Mau comportamento moral e civil;
 
@@ -739,39 +885,59 @@ Art. 64.º A pena do n.º 4.º do artigo 59.º será, em geral, aplicável aos c
 
 § 2.º A anulação de qualquer alvará de agrimensor feita pelo governador de uma província será comunicada aos governos das outras províncias.
 
-Art. 65.º Na instrução do processo disciplinar e nos recursos seguir-se-ão as disposições aplicáveis do Estatuto do Funcionalismo Ultramarino, tendo em vista a natureza de prestação de serviço do arguido e do vínculo que o prende aos serviços públicos.
+###### Artigo 65.º
+
+Na instrução do processo disciplinar e nos recursos seguir-se-ão as disposições aplicáveis do Estatuto do Funcionalismo Ultramarino, tendo em vista a natureza de prestação de serviço do arguido e do vínculo que o prende aos serviços públicos.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-Art. 66.º Os trabalhos técnicos que forem efectuados pelos serviços para pessoas ou entidades particulares serão pagos em conformidade com a tabela aprovada pelo governador. As importâncias respectivas, bem como as que se apurarem na venda de cartas ou de quaisquer publicações dos serviços, constituem receita do Estado e serão entregues mensalmente nos cofres da Fazenda por meio de guia.
+###### Artigo 66.º
 
-Art. 67.º As fotografias aéreas necessárias à realização de trabalhos cartográficos, topográficos e cadastrais poderão ser executadas directamente pelos serviços, através de aparelhagem e técnicos próprios, ou por entidades oficiais ou particulares organizadas e preparadas tècnicamente para o efeito, mediante contrato elaborado nos termos dos n.os 2.º e 7.º do artigo 17.º e aprovado pelo governador.
+Os trabalhos técnicos que forem efectuados pelos serviços para pessoas ou entidades particulares serão pagos em conformidade com a tabela aprovada pelo governador. As importâncias respectivas, bem como as que se apurarem na venda de cartas ou de quaisquer publicações dos serviços, constituem receita do Estado e serão entregues mensalmente nos cofres da Fazenda por meio de guia.
+
+###### Artigo 67.º
+
+As fotografias aéreas necessárias à realização de trabalhos cartográficos, topográficos e cadastrais poderão ser executadas directamente pelos serviços, através de aparelhagem e técnicos próprios, ou por entidades oficiais ou particulares organizadas e preparadas tècnicamente para o efeito, mediante contrato elaborado nos termos dos n.os 2.º e 7.º do artigo 17.º e aprovado pelo governador.
 
 § 1.º A execução de todas ou de parte das operações fotogramétricas destinadas à realização de levantamentos cartográficos ou topográficos poderá ser confiada a entidade privada fotogrométrica reconhecidamente idónea, mediante contrato estudado e elaborado pelos serviços e aprovado pelo governador.
 
 § 2.º Os encargos resultantes dos contratos referidos no corpo do artigo e no § 1.º serão suportados pela verba global inscrita no orçamento sob a rubrica «Levantamentos fotogramétricos» ou por outra verba própria prevista.
 
-Art. 68.º Para reparação e conservação dos instrumentos e demais material técnico, do material de acampamento, funcionarão nas Direcções Provinciais de Angola e Moçambique oficinas próprias com pessoal habilitado e apetrechamento adequado ao funcionamento das mesmas.
+###### Artigo 68.º
+
+Para reparação e conservação dos instrumentos e demais material técnico, do material de acampamento, funcionarão nas Direcções Provinciais de Angola e Moçambique oficinas próprias com pessoal habilitado e apetrechamento adequado ao funcionamento das mesmas.
 
 § 1.º As direcções provinciais poderão ter também oficinas para reparação das suas viaturas quando as não haja do Estado ou particulares que ofereçam as necessárias garantias.
 
 § 2.º Poderão também ser instaladas, nas mesmas direcções, oficinas de impressão de cartas, quando a produção cartográfica dos serviços e a deficiência de meios da província o justifiquem.
 
-Art. 69.º Além do pessoal fixado nos seus quadros, será contratado ou assalariado nos termos legais o pessoal coadjuvante que for necessário à acção dos serviços, por conta da verba global adequada inscrita no orçamento.
+###### Artigo 69.º
 
-Art. 70.º As dotações orçamentais dos serviços destinadas ao pagamento de salários, de alimentação, vestuário, transporte e outras despesas com o pessoal serventuário e as destinadas a suportar as despesas com material constarão de verbas globais.
+Além do pessoal fixado nos seus quadros, será contratado ou assalariado nos termos legais o pessoal coadjuvante que for necessário à acção dos serviços, por conta da verba global adequada inscrita no orçamento.
 
-Art. 71.º É aplicável aos funcionários dos serviços geográficos e cadastrais o disposto no artigo 104.º do Estatuto do Funcionalismo Ultramarino.
+###### Artigo 70.º
+
+As dotações orçamentais dos serviços destinadas ao pagamento de salários, de alimentação, vestuário, transporte e outras despesas com o pessoal serventuário e as destinadas a suportar as despesas com material constarão de verbas globais.
+
+###### Artigo 71.º
+
+É aplicável aos funcionários dos serviços geográficos e cadastrais o disposto no artigo 104.º do Estatuto do Funcionalismo Ultramarino.
 
 § 1.º Os funcionários técnicos e os licenciados em Direito de categoria inferior à letra E só poderão exercer uma profissão liberal, não incompatível com as suas funções nos serviços, se para isso forem autorizados pelo governador da província.
 
 § 2.º A autorização referida no parágrafo anterior considera-se sempre concedida a título precário, podendo, por isso, ser revogada logo que se faça sentir que a actividade liberal dos funcionários beneficiários prejudica a sua actuação nos serviços ou traz para estes inconvenientes de qualquer ordem.
 
-Art. 72.º São extintos os quadros do pessoal da Repartição, Central dos Serviços Geográficos e Cadastrais e em sua substituição criados os quadros da Direcção Provincial dos Serviços Geográficos e Cadastrais.
+###### Artigo 72.º
 
-Art. 73.º Os quadros dos serviços geográficos e cadastrais são os que constam dos mapas anexos a este diploma, com as categorias que neles são atribuídas às unidades que os constituem, segundo o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+São extintos os quadros do pessoal da Repartição, Central dos Serviços Geográficos e Cadastrais e em sua substituição criados os quadros da Direcção Provincial dos Serviços Geográficos e Cadastrais.
 
-Art. 74.º O pessoal dos actuais quadros será colocado, independentemente de qualquer formalidade ou visto e com todos os direitos adquiridos, mediante portaria publicada no Boletim Oficial, no quadro do pessoal referido no artigo 73.º, mantendo-se nas províncias onde actualmente presta serviço pela forma seguinte e dentro dos limites estabelecidos nos mapas anexos a este diploma:
+###### Artigo 73.º
+
+Os quadros dos serviços geográficos e cadastrais são os que constam dos mapas anexos a este diploma, com as categorias que neles são atribuídas às unidades que os constituem, segundo o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+
+###### Artigo 74.º
+
+O pessoal dos actuais quadros será colocado, independentemente de qualquer formalidade ou visto e com todos os direitos adquiridos, mediante portaria publicada no Boletim Oficial, no quadro do pessoal referido no artigo 73.º, mantendo-se nas províncias onde actualmente presta serviço pela forma seguinte e dentro dos limites estabelecidos nos mapas anexos a este diploma:
 
 a) Os inspectores chefes dos serviços transitam para os lugares de director provincial dos serviços;
 
@@ -803,15 +969,23 @@ o) Os desenhadores de 3.ª classe e os desenhadores auxiliares transitam para os
 
 p) Os restantes funcionários e agentes transitam, no mesmo regime de prestação de serviço, para os lugares de categoria igual à que presentemente possuem.
 
+q) Os topógrafos de 2.ª classe transitam para os lugares de topógrafo de 1.ª classe.
+
 § 1.º O actual chefe da Repartição dos Serviços de Agrimensura da índia transita para o lugar de engenheiro geógrafo-chefe e continua a desempenhar as funções de chefe de repartição dos mesmos serviços.
 
 § 2.º O lugar de piloto aviador fotogramétrico criado no quadro de pessoal contratado poderá ser provido pelo piloto aviador fotogramétrico contratado dos serviços de Angola, se assim o requerer no prazo de 30 dias.
 
 § 3.º Os lugares de operador de restituição principal poderão ser providos pelos operadores e pelos operadores de restituição de 1.ª classe que presentemente estão contratados nos serviços de Moçambique e de Angola, respectivamente, se assim o requererem no prazo de 30 dias.
 
-Art. 75.º Os funcionários actualmente contratados poderão ser nomeados para os lugares de categoria igual à sua que ficarem vagos depois do movimento indicado no artigo 74.º, se o requererem no prazo de 30 dias.
+> Alterado pelo/a [Decreto n.º 45083](https://diariodarepublica.pt/dr/detalhe/decreto/45083-1963-627387), publicado em 1963-06-24.
 
-Art. 76.º Para preenchimento das vagas que se mantiverem depois do movimento de pessoal referido nos artigos 74.º e 75.º abrir-se-ão concursos entre os funcionários de categoria imediatamente inferior com qualquer tempo de serviço.
+###### Artigo 75.º
+
+Os funcionários actualmente contratados poderão ser nomeados para os lugares de categoria igual à sua que ficarem vagos depois do movimento indicado no artigo 74.º, se o requererem no prazo de 30 dias.
+
+###### Artigo 76.º
+
+Para preenchimento das vagas que se mantiverem depois do movimento de pessoal referido nos artigos 74.º e 75.º abrir-se-ão concursos entre os funcionários de categoria imediatamente inferior com qualquer tempo de serviço.
 
 § 1.º Aos concursos para topógrafo de 1.ª classe e para desenhador cartográfico-chefe só serão admitidos, respectivamente, os topógrafos de 2.ª classe e os desenhadores cartográficos que anteriormente ao movimento referido tenham exercido as funções de topógrafo de 2.ª classe e de desenhado de 1.ª classe por mais de um ano.
 
@@ -821,9 +995,13 @@ Art. 76.º Para preenchimento das vagas que se mantiverem depois do movimento de
 
 § 4.º No caso de não ser possível preencher os lugares por falta de opositores dos serviços, mesmo depois de se ter recorrido à faculdade conferida ao Ministro pelo artigo 70.º do Estatuto do Funcionalismo Ultramarino, poderá abrir-se concurso entre funcionários de categoria igual à dos opositores legais que pertençam a outros serviços públicos da província.
 
-Art. 77.º O provimento dos lugares criados nos quadros de pessoal contratado e de pessoal assalariado será feito por escolha pelo governador da província de entre os funcionários e agentes dos serviços que presentemente se encontram desempenhando as mesmas ou similares funções, contratados ou assalariados por verbas globais.
+###### Artigo 77.º
 
-Art. 78.º Para a execução deste diploma os governadores publicarão o regulamento dos serviços, no qual se estabelecerá em especial:
+O provimento dos lugares criados nos quadros de pessoal contratado e de pessoal assalariado será feito por escolha pelo governador da província de entre os funcionários e agentes dos serviços que presentemente se encontram desempenhando as mesmas ou similares funções, contratados ou assalariados por verbas globais.
+
+###### Artigo 78.º
+
+Para a execução deste diploma os governadores publicarão o regulamento dos serviços, no qual se estabelecerá em especial:
 
 a) A organização interna dos serviços, atribuições e competência dos funcionários;
 
@@ -831,7 +1009,9 @@ b) Condições de admissão e de promoção de pessoal, programas e normas dos r
 
 c) Regulamento da escola de topografia e agrimensura e programas dos cursos.
 
-Art. 79.º Este diploma entrará em vigor 60 dias depois da sua publicação no Diário do Governo.
+###### Artigo 79.º
+
+Este diploma entrará em vigor 60 dias depois da sua publicação no Diário do Governo.
 
 § único. O preenchimento dos lugares criados por este diploma efectuar-se-á à medida que forem orçamentadas as verbas respectivas, devendo os governos provinciais tomar as providências necessárias para que, entretanto, se mantenha a actividade dos serviços.
 

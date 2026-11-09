@@ -1,0 +1,373 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:637689:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-03-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e5695d80b7c6f893",
+    "8d1f11b8d637394d",
+    "6042d7fafbe4ec93",
+    "9af909cf2ef44385",
+    "969ce19bfa3c7935",
+    "47755ccaf617accf",
+    "dec978d7d8327a7b",
+    "93f39c167b520f94"
+   ]
+  },
+  {
+   "date": "1996-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:157776:por",
+     "title": "Decreto Regulamentar n.º 34-A/95",
+     "published": "1995-12-22",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/34-a-1995-157776"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "e5695d80b7c6f893",
+    "4b71ce648033bd3c",
+    "da7c4ea666f5c39c",
+    "6042d7fafbe4ec93",
+    "826b7acb0dbe1b75",
+    "92354f55ecf47755",
+    "738978a64d829107",
+    "710a2ca2ca317b8c",
+    "f49285980e2a7d8d",
+    "2763ac47c923fc3b",
+    "e847a3c92d84afaa",
+    "838695a7c23ee4fd",
+    "d9692c0218eeaacf",
+    "3b6a541b988052d5",
+    "548a9d1431855a41",
+    "aa4953ccf9dc80f9",
+    "283a1bfb09cec37a",
+    "a18be103c5f308e5",
+    "bbf1a065e9e3543c",
+    "ce99ad3500616e8a",
+    "4b5ae7786f8ef241",
+    "b082a0cc46293e86",
+    "e001c55eac7de94a",
+    "4833f7247020bf77",
+    "dc8061e190a2a30a",
+    "260a9f4ecd4b5740",
+    "4008b59f9a4ccbb1",
+    "835b840a512465e2"
+   ]
+  }
+ ],
+ "fragments": {
+  "e5695d80b7c6f893": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Março\n\nCom a entrada na segunda etapa do período de adesão da agricultura portuguesa às regras da política agrícola comum (PAC) e a consequente introdução dos regimes de intervenção e de ajudas ao rendimento dos agricultores asseguradas pelo FEOGA - Garantia, o Instituto Nacional de Intervenção e Garantia Agrícola (INGA) ficou sujeito a novas solicitações, quer no que respeita às organizações comuns de mercado, quer às medidas específicas para Portugal, designadamente as ajudas à produção de cereais.\n\nTambém a recente reforma da PAC e a respectiva regulamentação vieram determinar um acréscimo significativo de tarefas àquele organismo, do qual se exige a resposta atempada na implementação e pagamento das ajudas compensatórias da redução dos preços institucionais e das alterações às regras comuns de mercado.\n\nPor outro lado, a filosofia subjacente às medidas aprovadas para a nova PAC vem criar a absoluta necessidade de efectuar a gestão dessas medidas numa perspectiva progressivamente integradora, que garanta o eficaz inter-relacionamento das várias ajudas, de forma a assegurar-se a maior celeridade e segurança nos processos de pagamento e a eficácia na prevenção contra fraudes e irregularidades.\n\nNestes termos, por forma que o INGA possa dar resposta cabal às novas responsabilidades que lhe incumbem como interlocutor nacional do FEOGA - Garantia, urge proceder a algumas alterações à respectiva estrutura orgânica, estabelecida pelo [Decreto Regulamentar n.º 9/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1989-614638), de 31 de Março, com as alterações introduzidas pelo [Decreto Regulamentar n.º 35/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-1990-564443), de 14 de Novembro, com especial realce para a autonomização do departamento de informática e de gestão da base de dados de beneficiários, de importância crescente para a modernização e racionalização dos procedimentos administrativos.\n\nNesta oportunidade reúne-se num só diploma toda a legislação orgânica do INGA, ora dispersa, visando assim uma simplificação legislativa que melhore a relação entre o cidadão e a Administração.\n\nAssim:\n\nAo abrigo do n.º 1 do artigo 30.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "8d1f11b8d637394d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Legislação aplicável\n\nArtigo 1.º - 1 - O Instituto Nacional de Intervenção e Garantia Agrícola, abreviadamente designado por INGA, rege-se, quanto ao seu objecto, atribuições, competências, orgânica e funcionamento, pelas disposições constantes do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 56/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1990-334646), de 13 de Fevereiro, bem como pelo disposto no presente diploma.\n\n2 - Relativamente ao funcionamento e competências do conselho directivo e da comissão de fiscalização, o INGA, em tudo que não for especificamente regulado nos diplomas a que se refere o número anterior, rege-se subsidiariamente pelas disposições correspondentes do ordenamento jurídico das empresas públicas."
+  },
+  "6042d7fafbe4ec93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Dos órgãos"
+  },
+  "9af909cf2ef44385": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Conselho directivo\n\nArt. 2.º - 1 - O conselho directivo é o órgão de direcção do INGA e rege-se, quanto à sua composição, competências e funcionamento, pela legislação invocada no artigo 1.º\n\n2 - Os membros do conselho directivo do INGA estão sujeitos ao Estatuto do Gestor Público, nos termos do n.º 4 do artigo 8.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, auferem remuneração e têm regalias idênticas às dos membros dos conselhos de gestão ou das comissões executivas das empresas públicas do grupo B.\n\n3 - O conselho directivo reúne nos termos do artigo 10.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto.\n\n4 - De todas as reuniões serão lavradas actas em livro próprio, que serão assinadas pelos membros presentes.\n\n5 - Os membros do conselho directivo são solidariamente responsáveis pelas deliberações tomadas, salvo se não estiverem presentes ou se tiverem feito exarar em acta a sua discordância, não sendo permitido o voto por correspondência ou por procuração.\n\n6 - Poderão ser chamados a participar nas reuniões do conselho, sem direito a voto, funcionários com competência específica nos assuntos a tratar, bem como um técnico superior do INGA, que desempenhará as funções de secretário.\n\n7 - Para as reuniões do conselho directivo apenas são válidas as convocações quando feitas a todos os seus membros, considerando-se validamente convocados quando:\n\na) Tenham recebido o aviso convocatório;\n\nb) Tenham assistido a qualquer reunião anterior em que tenham sido fixados o dia e a hora da reunião;\n\nc) Compareçam às reuniões.\n\n8 - Os membros do conselho directivo consideram-se sempre convocados para as reuniões que se realizem em dias e horas preestabelecidos."
+  },
+  "969ce19bfa3c7935": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Comissão de fiscalização\n\nArt. 3.º - 1 - A comissão de fiscalização reúne ordinariamente uma vez por mês, ou sempre que convocada pelo seu presidente ou a solicitação de qualquer dos seus membros.\n\n2 - Às reuniões da comissão de fiscalização é aplicável, com as necessárias adaptações, o disposto no artigo 2.º quanto ao funcionamento do conselho directivo."
+  },
+  "47755ccaf617accf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Dos serviços\n\nArt. 4.º São serviços do INGA:\n\na) Direcção de Serviços Financeiros (DSF);\n\nb) Departamento de Gestão Integrada de Intervenção (DGI);\n\nc) Direcção de Serviços de Intervenção de Produtos Vegetais (DIV);\n\nd) Direcção de Serviços de Intervenção de Produtos Animais (DIA);\n\ne) Direcção de Serviços de Apoio Técnico (DAT);\n\nf) Departamento de Controlo e Apuramento de Contas FEOGA (DCA);\n\ng) Departamento de Apoio Informático (DAI).\n\nArt. 5.º - 1 - Compete à DSF:\n\na) Assegurar os procedimentos técnico-administrativos respeitantes à gestão financeira do organismo e dos fundos provenientes do FEOGA - Secção Garantia;\n\nb) Elaborar os orçamentos do INGA e assegurar a sua gestão e controlo;\n\nc) Elaborar planos e relatórios de actividade;\n\nd) Processar e contabilizar todas as receitas e despesas;\n\ne) Arrecadar as receitas e efectuar os pagamentos;\n\nf) Assegurar a representação nacional no Comité FEOGA da Comunidade Europeia.\n\n2 - Para prossecução das suas competências, a DSF dispõe das seguintes unidades orgânicas:\n\na) Divisão de Gestão Financeira;\n\nb) Divisão de Contabilidade;\n\nc) Divisão de Orçamento e Plano;\n\nd) Secção de Controlo de Documentação;\n\ne) Tesouraria.\n\nArt. 6.º - 1 - Compete à Divisão de Gestão Financeira:\n\na) Estudar, propor e aplicar sistemas optimizados de gestão dos fluxos financeiros do INGA;\n\nb) Elaborar programas mensais de pagamentos e recebimentos;\n\nc) Centralizar os elementos necessários à preparação do relatório de actividades e assegurar a sua elaboração;\n\nd) Preparar e remeter à Comunidade os elementos relativos às despesas efectuadas e a efectuar nos termos dos regulamentos comunitários;\n\ne) Obter informações dos mercados financeiros que permitam o seu permanente acompanhamento.\n\n2 - Compete à Divisão de Contabilidade:\n\na) A execução e manutenção dos registos contabilísticos adaptados às funções do INGA no âmbito nacional e comunitário;\n\nb) Garantir todos os registos inerentes à gestão de stocks em operações comerciais resultantes das intervenções efectuadas pelo INGA;\n\nc) Organizar a conta de gerência e preparar os elementos para a elaboração do respectivo relatório.\n\n3 - Compete à Divisão de Orçamento e Plano:\n\na) Contabilizar os elementos dos serviços e de outros organismos necessários à elaboração dos orçamentos e plano de actividades, assegurar a sua actualização e o respectivo controlo;\n\nb) Executar os processamentos relacionados com todos os pagamentos e recebimentos do INGA.\n\n4 - Compete à Secção de Controlo de Documentação tratar, registar, controlar e articular, com os demais serviços da DSF, toda a documentação de natureza financeira e contabilística.\n\n5 - Compete à Tesouraria:\n\na) Arrecadar as receitas pertencentes ao INGA;\n\nb) Efectuar os pagamentos das despesas devidamente autorizadas;\n\nc) Efectuar os movimentos financeiros relacionados com o FEOGA - Secção Garantia;\n\nd) Manter à sua guarda os valores do INGA.\n\nArt. 7.º - 1 - Compete ao DGI:\n\na) Criar e manter actualizada uma base de dados, com a colaboração do DAI, que permita a identificação de todos os beneficiários das medidas e das ajudas pagas pelo INGA, bem como das suas explorações agrícolas e agro-industriais, respectivos pagamentos e resultados de controlo;\n\nb) Promover e acompanhar a harmonização dos procedimentos e metodologias de execução dos diferentes mecanismos previstos nas organizações nacionais e comuns de mercado, implementados e utilizados pelos serviços de intervenção;\n\nc) Preparar e coordenar as operações de verificação e os controlos administrativos e físicos, junto dos beneficiários das medidas e das ajudas cujo processo de pagamento seja condicionado, nos termos da regulamentação aplicável, à realização prévia dessas operações, transmitindo às direcções de intervenção responsáveis por cada medida os respectivos resultados.\n\n2 - O DGI é dirigido por um director, equiparado para todos os efeitos legais a director de serviços.\n\n3 - Para o desempenho das suas funções, o DGI dispõe das seguintes unidades orgânicas:\n\na) Divisão da Gestão Integrada da Base de Dados;\n\nb) Divisão de Verificação e de Normalização de Procedimentos Comuns de Intervenção.\n\nArt. 8.º - 1 - À Divisão de Gestão Integrada da Base de Dados compete:\n\na) Criar e manter actualizada a base de dados, com a colaboração do DAI, de todos os beneficiários do INGA, das suas explorações agrícolas e agro-industriais e de todas as medidas de intervenção e ajudas pagas pelo INGA, bem como os consequentes pagamentos e resultados de controlo;\n\nb) Conceber, divulgar e distribuir os suportes documentais necessários à prévia inscrição dos candidatos às medidas de intervenção e ajudas, bem como a emissão do título identificativo de utente do INGA;\n\nc) Definir os procedimentos de acesso à base de dados central pelos restantes serviços do INGA e ordenar a concepção dos suportes documentais a utilizar na aplicação específica de cada medida de intervenção e de ajuda, por forma a adequá-los ao sistema de gestão integrada e de base de dados.\n\n2 - À Divisão de Verificação e de Normalização de Procedimentos Comuns de Intervenção compete:\n\na) Realizar as verificações e controlos exigidos pela regulamentação aplicável que constituem condição prévia para o pagamento das medidas de intevenção e das ajudas, por parte dos respectivos serviços, quer por acção directa, quer coordenando as acções de verificação e controlo a cargo do INGA ou entidades para o efeito credenciadas;\n\nb) Acompanhar de forma sistemática os procedimentos e metodologias de execução utilizados pelos serviços de intervenção no âmbito da aplicação dos mecanismos de intervenção e das ajudas, por forma a garantir a sua rigorosa compatibilização com os regulamentos nacionais e comunitários aplicáveis, estudando e propondo as adaptações e alterações que se mostrem necessárias.\n\nArt. 9.º - 1 - Compete à DIV:\n\na) Assegurar a execução dos mecanismos de intervenção e de concessão de ajudas, previstos nas organizações nacionais e comuns de mercado, ou regulamentadas de forma avulsa, relativamente aos produtos agrícolas e agro-industriais de origem vegetal;\n\nb) Estudar e emitir parecer sobre todos os assuntos que se relacionem com as suas competências sectoriais, bem como prestar toda a colaboração que neste âmbito se considere necessária;\n\nc) Assegurar a participação na representação nacional nos órgãos comunitários de gestão dos mercados da sua competência.\n\n2 - Para o desempenho das suas funções, a DIV dispõe das seguintes unidades orgânicas:\n\na) Divisão de Invervenção dos Cereais e Arroz;\n\nb) Divisão de Invervenção das Frutas e Produtos Hortícolas e do Açúcar;\n\nc) Divisão de Invervenção do Azeite;\n\nd) Divisão de Intervenção das Oleaginosas, Proteaginosas, Tabaco e Outros Produtos.\n\n3 - No âmbito especializado dos respectivos mercados e produtos, a cada uma das divisões referidas no número anterior compete:\n\na) Desenvolver todas as acções necessárias à instrução dos processos conducentes ao pagamento das respectivas ajudas nacionais e comunitárias;\n\nb) Executar as medidas de intervenção previstas na correspondente regulamentação nacional e comunitária, assegurando, se for caso disso, a compra, a armazenagem, gestão de existências e venda de produtos;\n\nc) Preparar, em articulação com o departamento competente do INGA, as normas e os procedimentos a observar na aplicação das medidas de intervenção e das ajudas previstas no âmbito das suas competências sectoriais, bem como emitir os pareceres e as informações sobre as mesmas matérias;\n\nd) Participar na representação nacional nos órgãos comunitários de gestão dos mercados da sua competência.\n\nArt. 10.º - 1 - Compete à DIA:\n\na) Assegurar a execução dos mecanismos de intervenção e de concessão de ajudas, previstos nas organizações nacionais e comuns de mercado, ou regulamentados de forma avulsa, relativamente aos produtos agrícolas e agro-industriais de origem animal;\n\nb) Estudar e emitir parecer sobre todos os assuntos que se relacionem com as suas competências sectoriais, bem como prestar toda a colaboração que neste âmbito se considere necessária;\n\nc) Assegurar a participação na representação nacional nos órgãos comunitários de gestão dos mercados da sua competência.\n\n2 - Para o desempenho das suas funções, a DIA dispõe das seguintes unidades orgânicas:\n\na) Divisão do Leite e Produtos Lácteos;\n\nb) Divisão da Carne de Bovino;\n\nc) Divisão da Carne de Ovinos e Caprinos;\n\nd) Divisão de Suínos, Aves e Ovos e das Ajudas Especiais.\n\n3 - No âmbito especializado dos respectivos mercados e produtos, bem como das medidas e ajudas especiais, a cada uma das divisões referidas no número anterior compete:\n\na) Desenvolver todas as acções necessárias à instrução dos processos conducentes ao pagamento das respectivas ajudas nacionais e comunitárias;\n\nb) Executar as medidas de intervenção previstas na correspondente regulamentação nacional e comunitária, assegurando, se for caso disso, a compra, armazenagem, gestão de existências e venda de produtos;\n\nc) Preparar, em articulação com o departamento competente do INGA, as normas e os procedimentos a observar na aplicação das medidas de intervenção e das ajudas previstas no âmbito das suas competências sectoriais, bem como emitir pareceres e informações sobre as mesmas matérias;\n\nd) Participar na representação nacional nos órgãos comunitários de gestão dos mercados da sua competência.\n\nArt. 11.º - 1 - Compete à DAT:\n\na) Assegurar a assessoria jurídica directa ao conselho directivo e a todos os órgãos e serviços do INGA, mediante a elaboração de estudos, pareceres, informações e projectos de diplomas legais;\n\nb) Intervir nas questões litigiosas em que o instituto seja parte e na celebração de contratos, protocolos e acordos com terceiros;\n\nc) Promover, organizar, manter e divulgar toda a documentação no âmbito das funções do INGA, quer de índole jurídica nacional e comunitária, quer de âmbito económico, científico e técnico, estabelecendo a respectiva circulação de documentos, organizando uma biblioteca;\n\nd) Assegurar a representação do INGA em feiras ou mostras indicadas pelo conselho directivo;\n\ne) Assegurar as acções necessárias à gestão de recursos humanos, designadamente ao recrutamento, selecção, colocação, movimentação, retribuição e formação do pessoal ao serviço do INGA;\n\nf) Assegurar a centralização da correspondência recebida e expedida e sua circulação interna;\n\ng) Desenvolver todas as acções necessárias à gestão dos recursos patrimoniais e ao aprovisionamento do Instituto e à produção de impressos e publicações.\n\n2 - Para o desenvolvimento das suas funções, a DAT dispõe das seguintes unidades orgânicas:\n\na) Divisão Jurídica;\n\nb) Divisão de Documentação;\n\nc) Repartição Administrativa.\n\nArt. 12.º - 1 - Compete à Divisão Jurídica:\n\na) A prestação de consultadoria jurídica ao conselho directivo e, sempre que por este solicitado, a todos os serviços do INGA;\n\nb) A elaboração de estudos, pareceres, informações e projectos de diplomas, quer no âmbito da legislação nacional, quer comunitária;\n\nc) Acompanhar a celebração de contratos e intervir nos litígios em que o organismo seja parte;\n\nd) Dar parecer sobre todas as questões relacionadas com o pessoal do organismo, nomeadamente as respeitantes a nomeação, promoção e aplicação dos mecanismos de mobilidade.\n\n2 - Compete à Divisão de Documentação:\n\na) Promover, organizar, manter e divulgar toda a documentação, quer de índole jurídica, quer de âmbito económico, técnico e científico, que se relacione com as atribuições e competências do INGA, estabelecendo e aplicando os métodos de circulação interna e externa mais adequados;\n\nb) Organizar e manter a biblioteca;\n\nc) Preparar e assegurar a representação do INGA nas feiras indicadas pelo conselho directivo;\n\nd) Executar a produção de impressos e publicações.\n\n3 - Compete à Repartição Administrativa:\n\na) Assegurar todas as acções administrativas relativas aos recursos humanos ao serviço do INGA;\n\nb) Processar os vencimentos e quaisquer outros abonos;\n\nc) Instruir os processos relativos às prestações sociais;\n\nd) Organizar, manter actualizado e de fácil utilização o arquivo de toda a documentação expedida e recebida no INGA e sua circulação;\n\ne) Assegurar todas as operações necessárias à aquisição de material para o funcionamento dos serviços, procedendo à sua armazenagem, conservação e distribuição e gestão dos stocks;\n\nf) Manter actualizado o inventário e controlo de todos os bens do organismo.\n\n4 - A Repartição Administrativa compreende as seguintes secções:\n\na) Secção de Recursos Humanos, à qual compete assegurar todas as acções administrativas relacionadas com a gestão dos recuros humanos, assim como processar os vencimentos e quaisquer abonos e ainda instruir os processos relativos às prestações sociais;\n\nb) Secção Patrimonial e Economato, à qual compete assegurar todas as operações necessárias à aquisição de material e equipamento para o funcionamento dos serviços, procedendo à sua armazenagem, conservação e distribuição, e manter actualizado o inventário dos bens móveis e imóveis do organismo, de acordo com o sistema de gestão de stocks adoptado pela Repartição;\n\nc) Secção de Arquivo Geral e Apoio Administrativo, à qual compete organizar, manter actualizado e de fácil utilização o arquivo de toda a documentação expedida e recebida no INGA, assim como assegurar a circulação e divulgação interna de todos os documentos e a expedição e recebimento de toda a correspondência.\n\nArt. 13.º - 1 - Compete ao DCA:\n\na) Proceder às acções de controlo e auditoria indispensáveis para assegurar que as medidas de intervenção e as ajudas executadas pelo INGA foram correctamente aplicadas, quer através de inspecções junto dos beneficiários, previstas na regulamentação específica, quer mediante a verificação dos procedimentos contabilísticos, orçamentais e administrativos seguidos pelos serviços do INGA e de outros organismos pagadores no âmbito do FEOGA - Garantia, propondo, se for caso disso, as adequadas correcções;\n\nb) Assegurar a centralização das informações dos outros serviços e de outros organismos, necessárias à elaboração do relatório anual de apuramento de contas para o FEOGA - Garantia, e elaborar o referido relatório;\n\nc) Representar o INGA junto da Comunidade Europeia em todos os assuntos que se relacionem com a auditoria e controlo, apuramento de contas e fraudes e irregularidades.\n\n2 - O DCA é dirigido por um director equiparado para todos os efeitos legais a director de serviços.\n\n3 - Para o desempenho das suas funções, o DCA dispõe das seguintes unidades orgânicas:\n\na) Divisão de Auditoria e Controlo;\n\nb) Divisão de Apuramento de Contas.\n\nArt. 14.º - 1 - À Divisão de Auditoria e Controlo compete:\n\na) Realizar auditorias periódicas ou inopinadas aos procedimentos contabilísticos, orçamentais e administrativos adoptadas pelos serviços competentes do INGA e de outros organismos que apliquem medidas financiadas pelo FEOGA - Garantia, elaborando os respectivos relatórios e propondo as adequadas modificações;\n\nb) Efectuar as acções de controlo e inspecção junto dos beneficiários das medidas de intervenção efectuadas e das ajudas pagas pelo INGA, nos termos definidos pela regulamentação aplicável, recorrendo predominantemente ao método de amostragem, de forma a verificar a existência de compatibilização entre a situação efectiva do beneficiário, suporte documental apresentado e a regulamentação aplicável.\n\n2 - À Divisão de Apuramento de Contas compete:\n\na) Centralizar os elementos a fornecer pelos serviços do INGA e por outros organismos, necessários à elaboração do relatório anual de apuramento de contas para o FEOGA, bem como verificar a sua compatibilização com o formulário regulamentarmente definido;\n\nb) Elaborar o relatório anual de apuramento de contas para o FEOGA, bem como centralizar todos os contactos que tenham de ser efectuados com os serviços da Comunidade Europeia e fornecer-lhe o apoio e os elementos solicitados, no âmbito das atribuições do DCA.\n\nArt. 15.º - 1 - Ao DAI compete:\n\na) Colaborar com os utilizadores na concepção de sistemas de informação;\n\nb) Implementar e manter sistemas de informação, nomeadamente que lhe sejam cometidos por planos directores;\n\nc) Contribuir para o desenvolvimento e adaptação de suportes lógicos orientados para as necessidades do INGA;\n\nd) Estudar e propor as alterações ao sistema informático instalado, bem como a aquisição de novos sistemas;\n\ne) Promover a utilização de normas e procedimentos comuns relativos a códigos, linguagem, documentação, segurança, confidencialidade e gestão da informação;\n\nf) Desenvolver ou colaborar nos estudos de organização dos sistemas para os quais se pretendam aplicar meios e métodos informáticos;\n\ng) Colaborar na concepção dos impressos destinados à recolha e comunicação da informação de e para os sistemas que utilizem suporte informático;\n\nh) Participar na elaboração do plano de informática do INGA;\n\ni) Executar quaisquer outras tarefas que lhe sejam cometidas.\n\n2 - O DAI é dirigido por um director, para todos os efeitos legais equiparado a director de serviços.\n\n3 - Para a prossecução das respectivas competências, o DAI tem a seguinte estrutura:\n\na) Divisão de Apoio e Desenvolvimento de Aplicações e Formação;\n\nb) Núcleo de Exploração.\n\n4 - Compete à Divisão de Apoio e Desenvolvimento de Aplicações e Formação:\n\na) Planear e executar os trabalhos de concepção e implementação dos sistemas de informação;\n\nb) Exercer a função de administração dos meios informáticos necessários à criação e manutenção de bases de dados;\n\nc) Implementar e manter actualizados os suportes do sistema, tanto em termos de produção como da utilização;\n\nd) Encarregar-se dos projectos de desenvolvimento ou de investigação própria da sua área funcional ou que lhe hajam sido expressamente cometidos;\n\ne) Administrar a rede de teleprocessamento;\n\nf) Promover a edição de documentação didáctica;\n\ng) Executar quaisquer outras tarefas que lhe sejam cometidas.\n\n5 - Compete ao Núcleo de Exploração:\n\na) Optimizar a utilização do material disponível, preparando e planificando diariamente o trabalho em conformidade com as rotinas vigentes;\n\nb) Manter e gerir a biblioteca de ficheiros e programas;\n\nc) Exercer algumas funções residuais que eventualmente surjam relacionadas com as antigas actividades do controlo e do registo de dados;\n\nd) Avaliar a capacidade de resposta do sistema aferindo das condições da exploração em termos de tempo, dos prazos, dos erros e dos custos.\n\n6 - O Núcleo de Exploração é coordenado pelo técnico superior de informática que o conselho directivo designar."
+  },
+  "dec978d7d8327a7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do pessoal\n\nArt. 16.º O quadro de pessoal do INGA é estabelecido por portaria conjunta dos Ministros das Finanças e da Agricultura.\n\nArt. 17.º A transição do pessoal para o novo quadro do INGA é feita nos termos da lei geral.\n\nArt. 18.º O quadro de pessoal dirigente é o constante do mapa anexo ao presente diploma."
+  },
+  "93f39c167b520f94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias\n\nArt. 19.º Com a entrada em vigor do presente diploma são revogados os Decretos Regulamentares n.os [9/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1989-614638), de 31 de Março, e [35/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-1990-564443), de 14 de Novembro.\n\nArt. 20.º O presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.\n\nPresidência do Conselho de Ministros, 17 de Dezembro de 1992.\n\nAníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.\n\nPromulgado em 16 de Fevereiro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 18 de Fevereiro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa anexo referido no artigo 18.º\n\nPessoal dirigente (directores de serviço, chefes de divisão e chefes de repartição)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/068b00/14271431.pdf)"
+  },
+  "4b71ce648033bd3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Legislação aplicável"
+  },
+  "da7c4ea666f5c39c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - O Instituto Nacional de Intervenção e Garantia Agrícola, abreviadamente designado por INGA, rege-se, quanto ao seu objecto, atribuições, competências, orgânica e funcionamento, pelas disposições constantes do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 56/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1990-334646), de 13 de Fevereiro, bem como pelo disposto no presente diploma.\n\n2 - Relativamente ao funcionamento e competências do conselho directivo e da comissão de fiscalização, o INGA, em tudo que não for especificamente regulado nos diplomas a que se refere o número anterior, rege-se subsidiariamente pelas disposições correspondentes do ordenamento jurídico das empresas públicas."
+  },
+  "826b7acb0dbe1b75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Conselho directivo"
+  },
+  "92354f55ecf47755": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - O conselho directivo é o órgão de direcção do INGA e rege-se, quanto à sua composição, competências e funcionamento, pela legislação invocada no artigo 1.º\n\n2 - Os membros do conselho directivo do INGA estão sujeitos ao Estatuto do Gestor Público, nos termos do n.º 4 do artigo 8.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto, auferem remuneração e têm regalias idênticas às dos membros dos conselhos de gestão ou das comissões executivas das empresas públicas do grupo B.\n\n3 - O conselho directivo reúne nos termos do artigo 10.º do [Decreto-Lei n.º 282/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1988-376841), de 12 de Agosto.\n\n4 - De todas as reuniões serão lavradas actas em livro próprio, que serão assinadas pelos membros presentes.\n\n5 - Os membros do conselho directivo são solidariamente responsáveis pelas deliberações tomadas, salvo se não estiverem presentes ou se tiverem feito exarar em acta a sua discordância, não sendo permitido o voto por correspondência ou por procuração.\n\n6 - Poderão ser chamados a participar nas reuniões do conselho, sem direito a voto, funcionários com competência específica nos assuntos a tratar, bem como um técnico superior do INGA, que desempenhará as funções de secretário.\n\n7 - Para as reuniões do conselho directivo apenas são válidas as convocações quando feitas a todos os seus membros, considerando-se validamente convocados quando:\n\na) Tenham recebido o aviso convocatório;\n\nb) Tenham assistido a qualquer reunião anterior em que tenham sido fixados o dia e a hora da reunião;\n\nc) Compareçam às reuniões.\n\n8 - Os membros do conselho directivo consideram-se sempre convocados para as reuniões que se realizem em dias e horas preestabelecidos."
+  },
+  "738978a64d829107": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Comissão de fiscalização"
+  },
+  "710a2ca2ca317b8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A comissão de fiscalização reúne ordinariamente uma vez por mês, ou sempre que convocada pelo seu presidente ou a solicitação de qualquer dos seus membros.\n\n2 - Às reuniões da comissão de fiscalização é aplicável, com as necessárias adaptações, o disposto no artigo 2.º quanto ao funcionamento do conselho directivo."
+  },
+  "f49285980e2a7d8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Dos serviços"
+  },
+  "2763ac47c923fc3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1996-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+   ],
+   "markdown": "###### Artigo 4.º\n\nSão serviços do INGA:\n\na) Direcção de Serviços Financeiros (DSF);\n\nb) Direcção de Serviços de Intervenção de Produtos Vegetais (DIV);\n\nc) Direcção de Serviços de Intervenção de Produtos Animais (DIA);\n\nd) Direcção de Serviços de Apoio Técnico (DAT);\n\ne) Direcção de Serviços de Verificação e Controlo (DVC);\n\nf) Direcção de Serviços de Apoio Informático (DAI);\n\ng) Direcção de Serviços de Normalização, Harmonização e Auditoria (DNA).\n\n> Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+  },
+  "e847a3c92d84afaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1996-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Compete à DSF:\n\na) Assegurar os procedimentos técnico-administrativos respeitantes à gestão financeira do organismo;\n\nb) Elaborar os orçamentos do INGA e assegurar a sua gestão e controlo;\n\nc) Elaborar planos e relatórios de actividade;\n\nd) Processar e contabilizar todas as receitas e despesas;\n\ne) Arrecadar as receitas e efectuar os pagamentos;\n\nf) Assegurar a centralização das informações dos serviços do INGA e de outros organismos, necessárias à elaboração das prestações de contas ao FEOGA - Garantia, e elaborar os necessários relatórios;\n\ng) Assegurar a representação nacional no Comité FEOGA a funcionar junto da Comissão Europeia nos assuntos relativos às questões financeiras.\n\n2 - Para prossecução das suas competências, a DSF dispõe das seguintes unidades orgânicas:\n\na) Divisão de Gestão Financeira;\n\nb) Divisão de Contabilidade;\n\nc) Divisão de Orçamento e Plano;\n\nd) Secção de Controlo de Documentação;\n\ne) Tesouraria.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+  },
+  "838695a7c23ee4fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1996-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - Compete à Divisão de Gestão Financeira:\n\na) Estudar, propor e aplicar sistemas optimizados de gestão dos fluxos financeiros do INGA;\n\nb) Elaborar programas mensais de pagamentos e recebimentos;\n\nc) Centralizar os elementos necessários à preparação do relatório de actividades e assegurar a sua elaboração;\n\nd) Preparar e remeter à União Europeia os elementos relativos às despesas efectuadas e a efectuar nos termos dos regulamentos comunitários;\n\ne) Obter informações dos mercados financeiros que permitam o seu permanente acompanhamento;\n\nf) Centralizar os elementos a fornecer pelos serviços do INGA e por outros organismos necessários à elaboração dos relatórios de prestação de contas ao FEOGA - Garantia, bem como verificar a sua compatibilização com o regulamentarmente definido;\n\ng) Elaborar os relatórios de prestação de contas ao FEOGA - Garantia, bem como centralizar os contactos que tenham de ser efectuados com os serviços da União Europeia, e fornecer-lhe o apoio e os elementos solicitados.\n\n2 - Compete à Divisão de Contabilidade:\n\na) A execução e manutenção dos registos contabilísticos adaptados às funções do INGA no âmbito nacional e comunitário;\n\nb) Garantir todos os registos inerentes à gestão de stocks em operações comerciais resultantes das intervenções efectuadas pelo INGA;\n\nc) Organizar a conta de gerência e preparar os elementos para a elaboração do respectivo relatório.\n\n3 - Compete à Divisão de Orçamento e Plano:\n\na) Contabilizar os elementos dos serviços e de outros organismos necessários à elaboração dos orçamentos e plano de actividades, assegurar a sua actualização e o respectivo controlo;\n\nb) Executar os processamentos relacionados com todos os pagamentos e recebimentos do INGA.\n\n4 - Compete à Secção de Controlo de Documentação tratar, registar, controlar e articular, com os demais serviços da DSF, toda a documentação de natureza financeira e contabilística.\n\n5 - Compete à Tesouraria:\n\na) Arrecadar as receitas pertencentes ao INGA;\n\nb) Efectuar os pagamentos das despesas devidamente autorizadas;\n\nc) Efectuar os movimentos financeiros relacionados com o FEOGA - Secção Garantia;\n\nd) Manter à sua guarda os valores do INGA.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+  },
+  "d9692c0218eeaacf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1996-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+   ],
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+  },
+  "3b6a541b988052d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1996-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+  },
+  "548a9d1431855a41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1996-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - Compete à DIV:\n\na) Assegurar a execução dos mecanismos de intervenção e de concessão de ajudas, previstos nas organizações nacionais e comuns de mercado, ou regulamentadas de forma avulsa, relativamente aos produtos agrícolas e agro-industriais de origem vegetal;\n\nb) Estudar e emitir parecer sobre todos os assuntos que se relacionem com as suas competências sectoriais, bem como prestar toda a colaboração que neste âmbito se considere necessária;\n\nc) Assegurar a participação na representação nacional nos órgãos comunitários de gestão dos mercados da sua competência.\n\nd) Acompanhar e aplicar os procedimentos e metodologias de execução dos mecanismos previstos nas organizações nacionais e comuns de mercado no que respeita aos produtos vegetais.\n\n2 - Para o desempenho das suas funções, a DIV dispõe das seguintes unidades orgânicas:\n\na) Divisão de Intervenção das Culturas Arvenses;\n\nb) Divisão de Intervenção das Frutas e Produtos Hortícolas e do Açúcar;\n\nc) Divisão de Intervenção do Vinho, Tabaco e Outros Produtos;\n\nd) Divisão de Intervenção do Azeite.\n\n3 - No âmbito especializado dos respectivos mercados e produtos, a cada uma das divisões referidas no número anterior compete:\n\na) Desenvolver todas as acções necessárias à instrução dos processos conducentes ao pagamento das respectivas ajudas nacionais e comunitárias;\n\nb) Executar as medidas de intervenção previstas na correspondente regulamentação nacional e comunitária, assegurando, se for caso disso, a compra, a armazenagem, gestão de existências e venda de produtos;\n\nc) Preparar, em articulação com o departamento competente do INGA, as normas e os procedimentos a observar na aplicação das medidas de intervenção e das ajudas previstas no âmbito das suas competências sectoriais, bem como emitir os pareceres e as informações sobre as mesmas matérias;\n\nd) Participar na representação nacional nos órgãos comunitários de gestão dos mercados da sua competência.\n\ne) Acompanhar a execução por outras entidades das acções necessárias à obtenção de candidaturas às medidas e ajudas financiadas pelo FEOGA - Garantia e concluir os processos com vista ao respectivo pagamento.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+  },
+  "aa4953ccf9dc80f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1996-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+   ],
+   "markdown": "###### Artigo 10.º\n\n1 - Compete à DIA:\n\na) Assegurar a execução dos mecanismos de intervenção e de concessão de ajudas, previstos nas organizações nacionais e comuns de mercado, ou regulamentados de forma avulsa, relativamente aos produtos agrícolas e agro-industriais de origem animal;\n\nb) Estudar e emitir parecer sobre todos os assuntos que se relacionem com as suas competências sectoriais, bem como prestar toda a colaboração que neste âmbito se considere necessária;\n\nc) Assegurar a participação na representação nacional nos órgãos comunitários de gestão dos mercados da sua competência.\n\nd) Acompanhar e aplicar os procedimentos e metodologias de execução dos mecanismos previstos nas organizações nacionais e comuns de mercado no que respeita aos produtos animais.\n\n2 - Para o desempenho das suas funções a DIA dispõe das seguintes unidades orgânicas:\n\na) Divisão do Leite e Produtos Lácteos;\n\nb) Divisão da Carne de Bovino;\n\nc) Divisão da Carne de Ovinos e Caprinos;\n\nd) Divisão de Suínos, Aves, Pescas e das Ajudas Especiais.\n\n3 - No âmbito especializado dos respectivos mercados e produtos, bem como das medidas e ajudas especiais, a cada uma das divisões referidas no número anterior compete:\n\na) Desenvolver todas as acções necessárias à instrução dos processos conducentes ao pagamento das respectivas ajudas nacionais e comunitárias;\n\nb) Executar as medidas de intervenção previstas na correspondente regulamentação nacional e comunitária, assegurando, se for caso disso, a compra, armazenagem, gestão de existências e venda de produtos;\n\nc) Divisão de Carne de Ovinos, Caprinos e de Ajudas às Zonas Desfavorecidas;\n\nd) Participar na representação nacional nos órgãos comunitários de gestão dos mercados da sua competência.\n\ne) Acompanhar a execução por outras entidades das acções necessárias à obtenção de candidaturas às medidas e ajudas financiadas pelo FEOGA - Garantia e concluir os processos com vista ao respectivo pagamento.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+  },
+  "283a1bfb09cec37a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - Compete à DAT:\n\na) Assegurar a assessoria jurídica directa ao conselho directivo e a todos os órgãos e serviços do INGA, mediante a elaboração de estudos, pareceres, informações e projectos de diplomas legais;\n\nb) Intervir nas questões litigiosas em que o instituto seja parte e na celebração de contratos, protocolos e acordos com terceiros;\n\nc) Promover, organizar, manter e divulgar toda a documentação no âmbito das funções do INGA, quer de índole jurídica nacional e comunitária, quer de âmbito económico, científico e técnico, estabelecendo a respectiva circulação de documentos, organizando uma biblioteca;\n\nd) Assegurar a representação do INGA em feiras ou mostras indicadas pelo conselho directivo;\n\ne) Assegurar as acções necessárias à gestão de recursos humanos, designadamente ao recrutamento, selecção, colocação, movimentação, retribuição e formação do pessoal ao serviço do INGA;\n\nf) Assegurar a centralização da correspondência recebida e expedida e sua circulação interna;\n\ng) Desenvolver todas as acções necessárias à gestão dos recursos patrimoniais e ao aprovisionamento do Instituto e à produção de impressos e publicações.\n\n2 - Para o desenvolvimento das suas funções, a DAT dispõe das seguintes unidades orgânicas:\n\na) Divisão Jurídica;\n\nb) Divisão de Documentação;\n\nc) Repartição Administrativa."
+  },
+  "a18be103c5f308e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Compete à Divisão Jurídica:\n\na) A prestação de consultadoria jurídica ao conselho directivo e, sempre que por este solicitado, a todos os serviços do INGA;\n\nb) A elaboração de estudos, pareceres, informações e projectos de diplomas, quer no âmbito da legislação nacional, quer comunitária;\n\nc) Acompanhar a celebração de contratos e intervir nos litígios em que o organismo seja parte;\n\nd) Dar parecer sobre todas as questões relacionadas com o pessoal do organismo, nomeadamente as respeitantes a nomeação, promoção e aplicação dos mecanismos de mobilidade.\n\n2 - Compete à Divisão de Documentação:\n\na) Promover, organizar, manter e divulgar toda a documentação, quer de índole jurídica, quer de âmbito económico, técnico e científico, que se relacione com as atribuições e competências do INGA, estabelecendo e aplicando os métodos de circulação interna e externa mais adequados;\n\nb) Organizar e manter a biblioteca;\n\nc) Preparar e assegurar a representação do INGA nas feiras indicadas pelo conselho directivo;\n\nd) Executar a produção de impressos e publicações.\n\n3 - Compete à Repartição Administrativa:\n\na) Assegurar todas as acções administrativas relativas aos recursos humanos ao serviço do INGA;\n\nb) Processar os vencimentos e quaisquer outros abonos;\n\nc) Instruir os processos relativos às prestações sociais;\n\nd) Organizar, manter actualizado e de fácil utilização o arquivo de toda a documentação expedida e recebida no INGA e sua circulação;\n\ne) Assegurar todas as operações necessárias à aquisição de material para o funcionamento dos serviços, procedendo à sua armazenagem, conservação e distribuição e gestão dos stocks;\n\nf) Manter actualizado o inventário e controlo de todos os bens do organismo.\n\n4 - A Repartição Administrativa compreende as seguintes secções:\n\na) Secção de Recursos Humanos, à qual compete assegurar todas as acções administrativas relacionadas com a gestão dos recuros humanos, assim como processar os vencimentos e quaisquer abonos e ainda instruir os processos relativos às prestações sociais;\n\nb) Secção Patrimonial e Economato, à qual compete assegurar todas as operações necessárias à aquisição de material e equipamento para o funcionamento dos serviços, procedendo à sua armazenagem, conservação e distribuição, e manter actualizado o inventário dos bens móveis e imóveis do organismo, de acordo com o sistema de gestão de stocks adoptado pela Repartição;\n\nc) Secção de Arquivo Geral e Apoio Administrativo, à qual compete organizar, manter actualizado e de fácil utilização o arquivo de toda a documentação expedida e recebida no INGA, assim como assegurar a circulação e divulgação interna de todos os documentos e a expedição e recebimento de toda a correspondência."
+  },
+  "bbf1a065e9e3543c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1996-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+   ],
+   "markdown": "###### Artigo 13.º\n\n1 - Compete à DVC:\n\na) Preparar, coordenar e executar as operações de verificação e de controlo administrativo, físico e contabilístico junto dos beneficiários das medidas e das ajudas cujo processo de pagamento seja condicionado, nos termos da regulamentação aplicável, à realização prévia dessas operações, transmitindo às direcções de intervenção e às entidades que desenvolvam acções em cada medida os respectivos resultados;\n\nb) Proceder às acções de controlo indispensáveis para assegurar que as medidas de intervenção e as ajudas executadas pelo INGA foram correctamente aplicadas, quer através de inspecções junto dos beneficiários, previstas na regulamentação específica, quer mediante o cruzamento de informação contabilística do INGA e de outros organismos pagadores propondo, se for caso disso, as adequadas correcções;\n\nc) Representar o INGA junto da União Europeia em todos os assuntos que se relacionem com a verificação, o controlo e as fraudes e irregularidades;\n\nd) Preparar, coordenar e executar todas as acções necessárias à obtenção dos meios específicos necessários ao prosseguimento das suas atribuições, previamente autorizadas pelo CD.\n\n2 - Para o desempenho das suas funções, a DVC dispõe das seguintes unidades orgânicas:\n\na) Divisão de Verificação;\n\nb) Divisão de Controlo.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+  },
+  "ce99ad3500616e8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1996-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+   ],
+   "markdown": "###### Artigo 14.º\n\n1 - À Divisão de Verificação compete realizar as verificações e controlos exigidos pela regulamentação aplicável que constituam condição prévia para o pagamento das medidas de intervenção e das ajudas, por parte dos respectivos serviços, quer por acção directa quer coordenando as acções de verificação e controlo efectuadas por entidades para o efeito credenciadas;\n\n2 - À Divisão de Controlo compete efectuar as acções de controlo e inspecção junto dos beneficiários das medidas de intervenção efectuadas e das ajudas pagas pelos organismos pagadores, nos termos definidos pela regulamentação aplicável, recorrendo predominantemente às técnicas de amostragem, de forma a verificar a existência de compatibilização entre a situação efectiva do beneficiário, suporte documental apresentado e a regulamentação aplicada.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+  },
+  "4b5ae7786f8ef241": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1996-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+   ],
+   "markdown": "###### Artigo 15.º\n\n1 - Compete a DAI:\n\na) Planear, coordenar e executar os trabalhos de concepção e implementação dos sistemas de informação;\n\nb) Encarregar-se dos projectos de desenvolvimento ou de investigação, próprios da sua área funcional;\n\nc) Efectuar o acompanhamento dos projectos adjudicados a empresas, coordenando a sua actividade e exercendo o controlo de qualidade dos mesmos, na sua vertente aplicacional;\n\nd) Promover a formação informática adequada aos quadros do INGA;\n\ne) Promover a edição/divulgação de documentação didáctica;\n\nf) Preparar e planificar o trabalho a executar pelos operadores, optimizando a utilização dos meios disponíveis;\n\ng) Elaborar e ou adaptar as run's de produção, de forma a executar os trabalhos em conformidade com o planeamento descrito na alínea a);\n\nh) Efectuar todos os trabalhos de salvaguarda da informação;\n\ni) Executar a recuperação de trabalhos mediante instruções da Divisão de Administração de Sistemas e Base de Dados;\n\nj) Administrar a rede de teleprocessamento;\n\nl) Zelar pelo bom funcionamento do parque informático do INGA;\n\nm) Avaliar a capacidade de resposta do sistema, aferindo das condições da exploração em termos de tempo, de prazos, de erros e dos custos;\n\nn) Supervisionar as aplicações e ramos de execução, de forma a optimizar as performances das mesmas;\n\no) Implementar e gerir o modelo de dados, tendo em conta as regras de normalização e performances das aplicações;\n\np) Definir os procedimentos de acesso aos dados, de acordo com as exigências dos serviços utilizadores, gerir e implementar as respectivas regras de acesso;\n\nq) Zelar pela coerência e fiabilidade dos dados, bem como pela segurança e integridade dos mesmos.\n\n2 - Para o desempenho das suas funções, a DAI dispõe das seguintes unidades orgânicas:\n\na) Divisão de Desenvolvimento de Aplicações e Formação;\n\nb) Divisão de Exploração e Comunicações;\n\nc) Divisão de Administração de Sistemas e Base de Dados.\n\n3 - Compete à Divisão de Desenvolvimento de Aplicações e Formação:\n\na) Planear, coordenar e executar os trabalhos de concepção e implementação dos sistemas de informação;\n\nb) Encarregar-se dos projectos de desenvolvimento ou de investigação, próprios da sua área funcional;\n\nc) Efectuar o acompanhamento dos projectos adjudicados a empresas, coordenando a sua actividade e exercendo o controlo de qualidade dos mesmos, na sua vertente aplicacional;\n\nd) Promover a formação informática adequada aos quadros do INGA;\n\ne) Promover a edição/divulgação de documentação didáctica.\n\n4 - Compete à Divisão de Exploração e Comunicações:\n\na) Preparar e planificar o trabalho a executar pelos operadores, optimizando a utilização do material disponível;\n\nb) Elaborar e adaptar as run's de produção, de forma a executar os trabalhos em conformidade com o planeamento descrito na alínea a);\n\nc) Efectuar todos os trabalhos de salvaguarda da informação;\n\nd) Executar a recuperação de trabalhos, mediante instruções da Divisão de Administração de Sistemas e Base de Dados;\n\ne) Manter a Divisão de Administração de Sistema e Base de Dados informada sobre todos os problemas que ocorram na execução dos trabalhos;\n\nf) Administrar a rede de teleprocessamento;\n\ng) Zelar pelo bom funcionamento do parque informático do INGA.\n\n5 - Compete à Divisão de Administração de Sistemas e Base de Dados:\n\na) Avaliar a capacidade de resposta do sistema, aferindo das condições da exploração em termos de tempo, de prazos, de erros e dos custos;\n\nb) Supervisionar as aplicações e run's de execução, de forma a optimizar as performances das mesmas;\n\nc) Implementar e gerir o modelo de dados, tendo em conta as regras de normalização e performances das aplicações;\n\nd) Definir os procedimentos de acesso aos dados, de acordo com as exigências dos serviços utilizadores, gerir e implementar as respectivas regras de acesso;\n\ne) Zelar pela coerência e fiabilidade dos dados, bem como pela segurança e integridade dos mesmos;\n\nf) Gerir e actualizar tabelas.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 34-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-a-1995-157776), publicado em 1995-12-22."
+  },
+  "b082a0cc46293e86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do pessoal"
+  },
+  "e001c55eac7de94a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nO quadro de pessoal do INGA é estabelecido por portaria conjunta dos Ministros das Finanças e da Agricultura."
+  },
+  "4833f7247020bf77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA transição do pessoal para o novo quadro do INGA é feita nos termos da lei geral."
+  },
+  "dc8061e190a2a30a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO quadro de pessoal dirigente é o constante do mapa anexo ao presente diploma."
+  },
+  "260a9f4ecd4b5740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias"
+  },
+  "4008b59f9a4ccbb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nCom a entrada em vigor do presente diploma são revogados os Decretos Regulamentares n.os [9/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1989-614638), de 31 de Março, e [35/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/35-1990-564443), de 14 de Novembro."
+  },
+  "835b840a512465e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação.\n\nPresidência do Conselho de Ministros, 17 de Dezembro de 1992.\n\nAníbal António Cavaco Silva - Jorge Braga de Macedo - Arlindo Marques da Cunha.\n\nPromulgado em 16 de Fevereiro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 18 de Fevereiro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa anexo referido no artigo 18.º\n\nPessoal dirigente (directores de serviço, chefes de divisão e chefes de repartição)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1993/03/068b00/14271431.pdf)"
+  }
+ }
+}

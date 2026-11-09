@@ -29,10 +29,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-11-24'
+version_history:
+  file: decreto-48275.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-03-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-11-24'
+    amending: pt:dre:176290:por
+    amending_title: Decreto-Lei n.º 49409
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:01:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49409. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1968/decreto-48275.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,15 +143,23 @@ Atendendo ao disposto no artigo 15.º do [Decreto-Lei n.º 44506](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º É criado no Ministério das Corporações e Previdência Social, na dependência da Direcção-Geral do Trabalho e Corporações, através do Fundo de Desenvolvimento da Mão-de-Obra (F. D. M. O.), o Serviço de Formação Profissional (S. F. P.).
+###### Artigo 1.º
 
-Art. 2.º Cabe ao S. F. P. orientar, executar e coordenar a intervenção do Ministério das Corporações e Previdência Social no campo da formação profissional.
+É criado no Ministério das Corporações e Previdência Social, na dependência da Direcção-Geral do Trabalho e Corporações, através do Fundo de Desenvolvimento da Mão-de-Obra (F. D. M. O.), o Serviço de Formação Profissional (S. F. P.).
 
-§ 1.º Ficam integrados neste S. F. P. os três departamentos já existentes no F. D. M. O. com responsabilidades no domínio da formação profissional: o Centro Nacional de Formação de Monitores (C. N. F. M.), o Instituto de Formação Profissional Acelerada (I. F. P. A.) e a Divisão de Formação Profissional.
+###### Artigo 2.º
 
-§ 2.º A Divisão de Formação Profissional passa a designar-se Instituto de Cooperação para a Formação Profissional (I. C. F. P.).
+Cabe ao S. F. P. orientar, executar e coordenar a intervenção do Ministério das Corporações e Previdência Social no campo da formação profissional.
 
-Art. 3.º No âmbito da sua acção, compete ao S. F. P., nomeadamente:
+§ 1.º Ficam integradas no S. F. P. as funções que vêm sendo exercidas pelos três departamentos existentes no F. D. M. O. com responsabilidades no domínio de formação profissional: o Centro Nacional de Formação de Monitores (C. N. F. M.), o Instituto de Formação Profissional Acelerada (I. F. P. A.) e o Instituto de Cooperação para a Formação Profissional (I. C. F. P.).
+
+§ 2.º Ficam igualmente integradas no S. F. P. as funções de formação profissional que eram desempenhadas pelo S. R. P. e a que se referem as alíneas n), o) e p) do artigo 3.º deste diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 49409](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49409-1969-176290), publicado em 1969-11-24.
+
+###### Artigo 3.º
+
+No âmbito da sua acção, compete ao S. F. P., nomeadamente:
 
 a) Garantir o funcionamento, com o máximo aproveitamento e rentabilidade, dos centros criados pelo Ministério das Corporações e Previdência Social, tendo em vista a reconversão profissional dos trabalhadores que dela necessitem e a valorização profissional dos trabalhadores indiferenciados ou pouco qualificados;
 
@@ -159,23 +185,35 @@ l) Colaborar, dentro dos campos da sua competência, na preparação e execuçã
 
 m) Dar pareceres sobre as matérias respeitantes a formação profissional constantes de projectos de regulamentação do trabalho.
 
-Art. 4.º Das funções descritas no artigo 3.º cabem, especialmente:
+n) Assegurar a adaptação ou readaptação profissional dos trabalhadores que, em consequência de uma diminuição física, delas necessitem;
 
-1.º Ao C. N. F. M., as atribuições constantes das alíneas e) e f);
+o) Estabelecer acordos com as empresas, as instituições de previdência e outras entidades, para efeitos de recuperação e readaptação profissional;
 
-2.º Ao I. F. P. A., as atribuições constantes da alínea a);
+p) Instalar e manter centros oficinais especialmente equipados para o exercício de tarefas profissionais pelos grandes incapacitados.
 
-3.º Ao I. C. F. P., as atribuições constantes das alíneas b), c) e d).
+> Alterado pelo/a [Decreto-Lei n.º 49409](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49409-1969-176290), publicado em 1969-11-24.
 
-Art. 5.º O S. F. P. deve colaborar com as corporações e organismos corporativos representativos das entidades patronais e dos trabalhadores, bem como com os departamentos oficiais aos quais a sua actividade possa interessar.
+###### Artigo 4.º
 
-§ único. O S. F. P. deve coordenar de modo especial a sua actividade com os outros serviços dependentes do F. D. M. O., designadamente o Serviço de Reabilitação Profissional e o Serviço Nacional de Emprego (S. N. E.), ao qual cabe, nos termos do artigo 12.º do [Decreto-Lei n.º 46731](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46731-1965-507846), de 9 de Dezembro de 1965, fazer a escolha dos frequentadores dos cursos de formação profissional e sua colocação após aquela frequência.
+O S. F. P. deve colaborar com as corporações e organismos corporativos representativos das entidades patronais e dos trabalhadores, bem como com os departamentos oficiais aos quais a sua actividade possa interessar.
 
-Art. 6.º O S. F. P. terá uma direcção constituída por um director e dois ou mais adjuntos, a designar pelo Ministro das Corporações e Previdência Social.
+> Alterado pelo/a [Decreto-Lei n.º 49409](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49409-1969-176290), publicado em 1969-11-24.
+
+###### Artigo 5.º
+
+O S. F. P. deve coordenar de modo especial a sua actividade com os outros departamentos dependentes do F. D. M. O., em particular o Serviço Nacional de Emprego (S. N. E.), ao qual cabe, nos termos do artigo 12.º do [Decreto-Lei n.º 46731](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46731-1965-507846), de 9 de Dezembro de 1965, fazer a escolha dos frequentadores dos cursos de formação profissional e a sua colocação após aquela frequência.
+
+> Alterado pelo/a [Decreto-Lei n.º 49409](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49409-1969-176290), publicado em 1969-11-24.
+
+###### Artigo 6.º
+
+O S. F. P. terá uma direcção constituída por um director e dois ou mais adjuntos, a designar pelo Ministro das Corporações e Previdência Social.
 
 § único. A direcção do S. F. P. elaborará os regulamentos internos necessários ao bom funcionamento dos serviços, os quais serão submetidos à aprovação do Ministro das Corporações e Previdência Social.
 
-Art. 7.º O quadro de pessoal do S. F. P., inteiramente a cargo do F. D. M. O., será aprovado pelo Ministro das Corporações e Previdência Social.
+###### Artigo 7.º
+
+O quadro de pessoal do S. F. P., inteiramente a cargo do F. D. M. O., será aprovado pelo Ministro das Corporações e Previdência Social.
 
 § único. A admissão do pessoal fica dependente de despacho ministerial e efectivar-se-á por meio de contrato em que intervirá o director do F. D. M. O., quando não se tratar de funcionários públicos designados em comissão de serviço.
 

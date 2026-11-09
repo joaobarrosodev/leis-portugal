@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-09-30'
+version_history:
+  file: decreto-lei-39-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-01-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-09-30'
+    amending: pt:dre:501411:por
+    amending_title: Decreto-Lei n.º 205/76; Decreto-Lei n.º 702/76
+    changes:
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:53:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 205/76; Decreto-Lei
+    n.º 702/76. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-39-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,19 +165,31 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Dizem-se baldios os terrenos comunitariamente usados e fruídos por moradores de determinada freguesia ou freguesias, ou parte delas.
+###### Artigo 1.º
 
-Art. 2.º Os terrenos baldios encontram-se fora do comércio jurídico, não podendo, no todo ou em parte, ser objecto de apropriação privada por qualquer forma ou título, incluída a usucapião.
+Dizem-se baldios os terrenos comunitariamente usados e fruídos por moradores de determinada freguesia ou freguesias, ou parte delas.
 
-Art. 3.º São devolvidos ao uso, fruição e administração dos respectivos compartes, nos termos do presente diploma, por cujas disposições passam a reger-se, os baldios submetidos ao regime florestal e os reservados ao abrigo do n.º 4 do artigo 173.º do [Decreto-Lei n.º 27207](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27207-1936-323368), de 16 de Novembro de 1936, aos quais a Junta de Colonização Interna não tenha dado destino ou aproveitamento.
+###### Artigo 2.º
 
-Art. 4.º São compartes dos terrenos baldios os moradores que exerçam a sua actividade no local e que, segundo os usos e costumes reconhecidos pela comunidade, tenham direito à sua fruição.
+Os terrenos baldios encontram-se fora do comércio jurídico, não podendo, no todo ou em parte, ser objecto de apropriação privada por qualquer forma ou título, incluída a usucapião.
 
-Art. 5.º - 1. Os compartes têm direitos iguais sobre o uso e fruição do baldio.
+###### Artigo 3.º
+
+São devolvidos ao uso, fruição e administração dos respectivos compartes, nos termos do presente diploma, por cujas disposições passam a reger-se, os baldios submetidos ao regime florestal e os reservados ao abrigo do n.º 4 do artigo 173.º do [Decreto-Lei n.º 27207](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27207-1936-323368), de 16 de Novembro de 1936, aos quais a Junta de Colonização Interna não tenha dado destino ou aproveitamento.
+
+###### Artigo 4.º
+
+São compartes dos terrenos baldios os moradores que exerçam a sua actividade no local e que, segundo os usos e costumes reconhecidos pela comunidade, tenham direito à sua fruição.
+
+###### Artigo 5.º
+
+1. Os compartes têm direitos iguais sobre o uso e fruição do baldio.
 
 2. Com vista a facilitar o cumprimento do disposto no número anterior, os serviços do Ministério da Agricultura e Pescas poderão elaborar projectos de regulamentação do uso e fruição adaptados às características próprias dos vários tipos de baldios, os quais servirão de base de trabalho às assembleias de compartes, nos termos da alínea a) do artigo seguinte.
 
-Art. 6.º Os compartes constituir-se-ão obrigatoriamente em assembleia, à qual competirá:
+###### Artigo 6.º
+
+Os compartes constituir-se-ão obrigatoriamente em assembleia, à qual competirá:
 
 a) Regulamentar e disciplinar o uso e fruição do baldio;
 
@@ -187,25 +215,35 @@ k) Resolver, sob proposta do conselho directivo, as questões ligadas à delimit
 
 l) Assegurar, em geral, a defesa dos interesses comunitários.
 
-Art. 7.º A mesa da assembleia será composta por um presidente e dois secretários, eleitos na primeira reunião pelos seus membros, competindo ao presidente a direcção dos trabalhos da assembleia.
+###### Artigo 7.º
 
-Art. 8.º Podem convocar a assembleia, sempre com a antecedência mínima de cinco dias:
+A mesa da assembleia será composta por um presidente e dois secretários, eleitos na primeira reunião pelos seus membros, competindo ao presidente a direcção dos trabalhos da assembleia.
+
+###### Artigo 8.º
+
+Podem convocar a assembleia, sempre com a antecedência mínima de cinco dias:
 
 a) O conselho directivo;
 
 b) Um número de compartes não inferior a dez.
 
-Art. 9.º Os terrenos baldios podem ser administrados por uma das seguintes formas, a escolher pela assembleia de compartes:
+###### Artigo 9.º
+
+Os terrenos baldios podem ser administrados por uma das seguintes formas, a escolher pela assembleia de compartes:
 
 a) Exclusivamente pelos compartes, através de um conselho directivo composto por cinco compartes eleitos pela assembleia;
 
 b) Em regime de associação entre os compartes e o Estado, através de um conselho directivo composto por quatro compartes eleitos pela assembleia e um representante do Ministério da Agricultura e Pescas.
 
-Art. 10.º - 1. São elegíveis para o conselho directivo os compartes que sejam eleitores, nos termos da legislação geral.
+###### Artigo 10.º
+
+1. São elegíveis para o conselho directivo os compartes que sejam eleitores, nos termos da legislação geral.
 
 2. Os mandatos dos membros eleitos do conselho directivo são de três anos, não podendo ser reeleitos no triénio seguinte.
 
-Art. 11.º Compete ao conselho directivo a administração do baldio, nos termos e com os limites estabelecidos nos artigos seguintes, e em geral:
+###### Artigo 11.º
+
+Compete ao conselho directivo a administração do baldio, nos termos e com os limites estabelecidos nos artigos seguintes, e em geral:
 
 a) Providenciar pelo cumprimento do regulamento do baldio;
 
@@ -225,13 +263,17 @@ h) Convocar a assembleia de compartes, assegurar a elaboração de actas e a exe
 
 i) Elaborar anualmente e manter actualizado o recenseamento dos compartes do baldio, nos termos do artigo 4.º, e proceder à sua afixação, podendo solicitar, para o efeito, a colaboração de juntas de freguesia, câmaras municipais e serviços regionais do Ministério da Agricultura e Pescas.
 
-Art. 12.º Nos casos em que for escolhida pela assembleia de compartes a modalidade de administração prevista na alínea a) do artigo 9.º:
+###### Artigo 12.º
+
+Nos casos em que for escolhida pela assembleia de compartes a modalidade de administração prevista na alínea a) do artigo 9.º:
 
 a) O conselho directivo exercerá a plenitude dos poderes de administração do baldio, sem prejuízo do disposto na alínea seguinte;
 
 b) O Estado, através dos serviços competentes do Ministério da Agricultura e Pescas, assegurará o apoio técnico necessário, proporá e zelará pelo cumprimento do plano de utilização dos recursos e verificará a aplicação de técnicas convenientes de instalação e condução de povoamentos.
 
-Art. 13.º Nos casos em que for escolhida pela assembleia de compartes a modalidade de administração prevista na alínea b) do artigo 9.º:
+###### Artigo 13.º
+
+Nos casos em que for escolhida pela assembleia de compartes a modalidade de administração prevista na alínea b) do artigo 9.º:
 
 a) O conselho directivo exercerá os poderes de administração que não estejam compreendidos ou não fiquem prejudicados pelo disposto na alínea seguinte;
 
@@ -247,9 +289,13 @@ Informar o conselho directivo, sempre que haja solicitação nesse sentido, sobr
 
 Apresentar os relatórios e contas anuais da sua actividade.
 
-Art. 14.º Dos actos e decisões do conselho directivo podem sempre os interessados interpor recurso para a assembleia de compartes.
+###### Artigo 14.º
 
-Art. 15.º A compensação dos encargos suportados pelo Estado na arborização e na gestão do património florestal far-se-á pela forma estabelecida nas alíneas seguintes:
+Dos actos e decisões do conselho directivo podem sempre os interessados interpor recurso para a assembleia de compartes.
+
+###### Artigo 15.º
+
+A compensação dos encargos suportados pelo Estado na arborização e na gestão do património florestal far-se-á pela forma estabelecida nas alíneas seguintes:
 
 a) Nos casos em que for escolhida pela assembleia de compartes a modalidade de administração prevista na alínea a) do artigo 8.º, o conselho directivo depositará à ordem do Estado 30% de todas as receitas brutas obtidas na venda de material lenhoso proveniente de cortes realizados em povoamentos instalados pelo Estado;
 
@@ -259,25 +305,39 @@ c) Nos casos em que for escolhida pela assembleia de compartes a modalidade prev
 
 d) Sempre que nos baldios existam terrenos classificados como zonas de reserva, protecção ou predominantemente produtores de serviços de interesse colectivo, qualquer que seja a modalidade de administração escolhida, será paga pelo Estado uma renda anual a acordar com as assembleias de compartes interessadas, que será posta à disposição dos respectivos conselhos directivos.
 
-Art. 16.º A escolha de uma das modalidades de administração previstas no artigo 9.º poderá ser alterada, com base em deliberação da assembleia de compartes, mediante acordo a estabelecer com o Ministério da Agricultura e Pescas, o qual deverá ter em conta as restituições devidas por receitas antecipadas, nomeadamente as provenientes da aplicação do artigo anterior.
+###### Artigo 16.º
 
-Art. 17.º - 1. A deliberação da assembleia de compartes que aprove o plano anual de aplicação das receitas arrecadadas carece de executoriedade, qualquer que tenha sido a modalidade de administração escolhida, enquanto não for homologada pelo governo civil e pelos serviços regionais do Ministério da Agricultura e Pescas.
+A escolha de uma das modalidades de administração previstas no artigo 9.º poderá ser alterada, com base em deliberação da assembleia de compartes, mediante acordo a estabelecer com o Ministério da Agricultura e Pescas, o qual deverá ter em conta as restituições devidas por receitas antecipadas, nomeadamente as provenientes da aplicação do artigo anterior.
+
+###### Artigo 17.º
+
+1. A deliberação da assembleia de compartes que aprove o plano anual de aplicação das receitas arrecadadas carece de executoriedade, qualquer que tenha sido a modalidade de administração escolhida, enquanto não for homologada pelo governo civil e pelos serviços regionais do Ministério da Agricultura e Pescas.
 
 2. A homologação considerar-se-á concedida se, no prazo de vinte dias após a recepção de cópia autêntica da acta da reunião em que tiver sido tomada a deliberação, não houver comunicação em contrário.
 
-Art. 18.º - 1. A entrega aos respectivos compartes do uso, fruição e administração dos baldios operar-se-á, em cada caso, por efeito da recepção, no Ministério da Agricultura e Pescas, de cópia autêntica da acta da reunião ou reuniões da assembleia de compartes em que tenha sido escolhida a forma de administração e eleitos os membros do conselho directivo, através da qual se verifique terem sido preenchidos os requisitos estabelecidos neste diploma.
+###### Artigo 18.º
+
+1. A entrega aos respectivos compartes do uso, fruição e administração dos baldios operar-se-á, em cada caso, por efeito da recepção, no Ministério da Agricultura e Pescas, de cópia autêntica da acta da reunião ou reuniões da assembleia de compartes em que tenha sido escolhida a forma de administração e eleitos os membros do conselho directivo, através da qual se verifique terem sido preenchidos os requisitos estabelecidos neste diploma.
 
 2. Para os efeitos do número anterior, as juntas de freguesia, em colaboração com os serviços regionais do Ministério da Agricultura e Pescas e as câmaras municipais, deverão elaborar e afixar nos lugares de estilo um recenseamento provisório dos compartes de cada baldio, com base no disposto no artigo 4.º, no prazo de sessenta dias a contar da entrada em vigor deste diploma.
 
 3. As entidades referidas no número anterior deverão providenciar no sentido da convocação da assembleia de compartes para os efeitos previstos no n.º 1 deste artigo.
 
-4. A escolha da forma de administração e a eleição do conselho directivo só poderão validamente efectuar-se se se registar a presença na assembleia de, pelo menos, 50% dos inscritos no recenseamento provisório.
+4. A escolha da forma de administração e a eleição do conselho directivo só poderão validamente efectuar-se quando se verificar a presença na assembleia de, pelo menos, 50% dos inscritos no recenseamento provisório, excepto se após terceira convocatória não se reunir o número necessário de compartes, caso em que aquelas deliberações serão válidas ainda que tomadas com qualquer número de presenças.
 
-Art. 19.º Enquanto se não tiver operado a entrega nos termos previstos no artigo anterior, serão transitoriamente entregues às autarquias locais 60% das receitas resultantes das vendas de produtos de exploração florestal provenientes de povoamentos instalados pelo Estado e 80% das provenientes de povoamentos de regeneração natural ou já existentes à data da submissão ao regime florestal.
+> Alterado pelo/a [Decreto-Lei n.º 702/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/702-1976-408926), publicado em 1976-09-30.
 
-Art. 20.º - 1. As normas que se revelarem necessárias para a execução do presente diploma serão estabelecidas através de portaria do Ministério da Agricultura e Pescas e do Ministério das Finanças, quando for caso disso.
+###### Artigo 19.º
+
+Enquanto se não tiver operado a entrega nos termos previstos no artigo anterior, serão transitoriamente entregues às autarquias locais 60% das receitas resultantes das vendas de produtos de exploração florestal provenientes de povoamentos instalados pelo Estado e 80% das provenientes de povoamentos de regeneração natural ou já existentes à data da submissão ao regime florestal.
+
+###### Artigo 20.º
+
+1. As normas que se revelarem necessárias para a execução do presente diploma serão estabelecidas através de portaria do Ministério da Agricultura e Pescas e, ainda, dos Ministérios das Finanças e da Administração Interna, quando for caso disso.
 
 2. As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro da Agricultura e Pescas.
+
+> Alterado pelo/a [Decreto-Lei n.º 205/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-1976-501411), publicado em 1976-03-20.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - António Poppe Lopes Cardoso.
 

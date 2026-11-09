@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:648747:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-02-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2ecd6c2ed9ca2d99"
+   ]
+  },
+  {
+   "date": "1988-12-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:356573:por",
+     "title": "Decreto-Lei n.º 456/88",
+     "published": "1988-12-13",
+     "dre_path": "/dr/detalhe/decreto-lei/456-1988-356573"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "7a0f1664aeea657b",
+    "7e685790fb5151c7",
+    "df3934914b72945f",
+    "70e9b2e69c753ca2",
+    "00665ec7c909c4db"
+   ]
+  }
+ ],
+ "fragments": {
+  "2ecd6c2ed9ca2d99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Fevereiro\n\nTendo surgido dúvidas sobre certos termos do processo de contratação de monitores pelas universidades e institutos universitários, impõe-se dissipar essas dúvidas, não só para o futuro mas também para o ano lectivo em curso, por forma a não comprometer o funcionamento normal do ensino superior universitário.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - Sem prejuízo do disposto no n.º 3 do artigo 3.º do Estatuto da Carreira Docente Universitária, aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, com as alterações introduzidas pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, são aplicáveis à contratação de monitores pelas universidades e institutos universitários as disposições constantes dos n.os 1 a 4 do artigo 34.º do mesmo Estatuto.\n\n2 - O contrato é anual, renovável por 3 vezes, mediante parecer favorável do conselho científico, e não confere a qualidade de agente para efeitos de ingresso nos quadros da administração central ou local.\n\nArt. 2.º A competência conferida aos reitores das universidades e institutos universitários pelo [Decreto-Lei n.º 323/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032), de 9 de Outubro, abrange também os monitores, para todos os efeitos previstos nesse diploma.\n\nArt. 3.º O disposto no presente decreto-lei aplica-se aos contratos de monitores propostos pelos conselhos científicos e autorizados pelos reitores com referência ao ano lectivo de 1984-1985.\n\nArt. 4.º Este decreto-lei entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 24 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - José Augusto Seabra - José Manuel San-Bento de Menezes.\n\nPromulgado em 31 de Janeiro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 31 de Janeiro de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "7a0f1664aeea657b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Fevereiro\n\nTendo surgido dúvidas sobre certos termos do processo de contratação de monitores pelas universidades e institutos universitários, impõe-se dissipar essas dúvidas, não só para o futuro mas também para o ano lectivo em curso, por forma a não comprometer o funcionamento normal do ensino superior universitário.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "7e685790fb5151c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1988-12-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 456/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-1988-356573), publicado em 1988-12-13."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Sem prejuízo do disposto no n.º 3 do artigo 3.º do Estatuto da Carreira Docente Universitária, aprovado pelo [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, com as alterações introduzidas pela [Lei n.º 19/80](https://diariodarepublica.pt/dr/detalhe/lei/19-1980-471325), de 16 de Julho, são aplicáveis à contratação de monitores pelas universidades e institutos universitários as disposições constantes dos n.os 1 a 4 do artigo 34.º do mesmo Estatuto.\n\n2 - O contrato é anual, renovável por 3 vezes, mediante parecer favorável do conselho científico, e não confere a qualidade de agente para efeitos de ingresso nos quadros da administração central ou local.\n\n3 - Quando o monitor for contratado para desempenhar a sua actividade no âmbito de uma disciplina, o contrato poderá ter a duração correspondente ao período de leccionação dessa disciplina.\n\n> Alterado pelo/a [Decreto-Lei n.º 456/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-1988-356573), publicado em 1988-12-13."
+  },
+  "df3934914b72945f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA competência conferida aos reitores das universidades e institutos universitários pelo [Decreto-Lei n.º 323/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1984-400032), de 9 de Outubro, abrange também os monitores, para todos os efeitos previstos nesse diploma."
+  },
+  "70e9b2e69c753ca2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO disposto no presente decreto-lei aplica-se aos contratos de monitores propostos pelos conselhos científicos e autorizados pelos reitores com referência ao ano lectivo de 1984-1985."
+  },
+  "00665ec7c909c4db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nEste decreto-lei entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 24 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - José Augusto Seabra - José Manuel San-Bento de Menezes.\n\nPromulgado em 31 de Janeiro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 31 de Janeiro de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

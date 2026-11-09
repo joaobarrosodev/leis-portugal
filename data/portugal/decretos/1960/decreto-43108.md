@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1962-07-16'
+version_history:
+  file: decreto-43108.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1962-07-16'
+    amending: pt:dre:162607:por
+    amending_title: Decreto n.º 44465
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:19:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 44465. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1960/decreto-43108.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -102,13 +117,23 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º É autorizado o conselho de administração dos serviços autónomos dos correios, telégrafos e telefones da província de Moçambique a contrair na Caixa Económica Postal da mesma província um empréstimo até ao montante de 132000000$00, destinado aos trabalhos mencionados no preâmbulo deste decreto.
+###### Artigo 1.º
 
-Art. 2.º Este empréstimo vencerá um juro de 2,5 por cento ao ano e será levantado da seguinte maneira: 44000000$00 em 1960 e 22000000$00 em cada um dos anos de 1961 a 1964.
+É autorizado o conselho de administração dos serviços autónomos dos correios, telégrafos e telefones da província de Moçambique a contrair na Caixa Económica Postal da mesma província um empréstimo até ao montante de 132000000$00, destinado aos trabalhos mencionados no preâmbulo deste decreto.
 
-Art. 3.º Este empréstimo será amortizado no prazo de três anos, com início em 1962, por meio de prestações anuais e sucessivas, podendo, todavia, o governador-geral de Moçambique determinar a antecipação das amortizações sempre que o julgar conveniente.
+###### Artigo 2.º
 
-Art. 4.º Os encargos do empréstimo a que este diploma se refere constituem despesa obrigatória dos serviços autónomos dos correios, telégrafos e telefones da província de Moçambique, devendo anualmente ser inscrita no orçamento a verba necessária à sua liquidação.
+Este empréstimo vencerá o juro de 2,5 por cento ao ano e será levantado da seguinte maneira: 44000000$00 em 1960; 22000000$00 em 1961; 44000000$00 em 1962, e 22000000$00 em 1963.
+
+> Alterado pelo/a [Decreto n.º 44465](https://diariodarepublica.pt/dr/detalhe/decreto/44465-1962-162607), publicado em 1962-07-16.
+
+###### Artigo 3.º
+
+Este empréstimo será amortizado no prazo de três anos, com início em 1962, por meio de prestações anuais e sucessivas, podendo, todavia, o governador-geral de Moçambique determinar a antecipação das amortizações sempre que o julgar conveniente.
+
+###### Artigo 4.º
+
+Os encargos do empréstimo a que este diploma se refere constituem despesa obrigatória dos serviços autónomos dos correios, telégrafos e telefones da província de Moçambique, devendo anualmente ser inscrita no orçamento a verba necessária à sua liquidação.
 
 Publique-se e cumpra-se como nele se contém.
 

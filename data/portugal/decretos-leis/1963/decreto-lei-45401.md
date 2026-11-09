@@ -32,10 +32,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-10-08'
+version_history:
+  file: decreto-lei-45401.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-12-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-10-08'
+    amending: pt:dre:215933:por
+    amending_title: Decreto-Lei n.º 49294
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -61,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:47:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49294. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1963/decreto-lei-45401.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,15 +140,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º A amortização dos empréstimos concedidos ao abrigo da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, e legislação complementar e destinados a arborizações florestais ou frutícolas terá início quando o arvoredo entrar em exploração.
+###### Artigo 1.º
 
-§ 1.º O capital do empréstimo vencerá juros a partir do ano imediatamente anterior ao início de amortização.
+A amortização dos empréstimos concedidos ao abrigo da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, e legislação complementar e destinados a arborizações florestais ou frutícolas terá início quando o arvoredo entrar em exploração.
+
+§ 1.º O capital do empréstimo vencerá juros a partir do ano seguinte ao da plantação, contando-se como ano completo o tempo que decorre desde a data da plantação até ao começo do ano seguinte.
 
 § 2.º A importância a amortizar, capital e juros, poderá ser dividida em fracções, até três, fixando-se para essas fracções períodos de amortização, no total máximo de 30 anos, e dividindo-se a importância a pagar em cada período em prestações anuais e iguais.
 
-Art. 2.º O limite de 20 contos estabelecido nos §§ 2.º e 3.º do artigo 10.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, passa a ser de 50 contos.
+> Alterado pelo/a [Decreto-Lei n.º 49294](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49294-1969-215933), publicado em 1969-10-08.
 
-Art. 3.º É aplicável a todas as associações agrícolas com estatutos aprovados pelo Secretário de Estado da Agricultura e sujeitas à fiscalização da repartição respectiva da Direcção-Geral dos Serviços Agrícolas o disposto no § 1.º do artigo 10.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960.
+###### Artigo 2.º
+
+O limite de 20 contos estabelecido nos §§ 2.º e 3.º do artigo 10.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, passa a ser de 50 contos.
+
+###### Artigo 3.º
+
+É aplicável a todas as associações agrícolas com estatutos aprovados pelo Secretário de Estado da Agricultura e sujeitas à fiscalização da repartição respectiva da Direcção-Geral dos Serviços Agrícolas o disposto no § 1.º do artigo 10.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960.
 
 Publique- se e cumpra-se como nele se contém.
 

@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-09-01'
+version_history:
+  file: decreto-lei-241-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-09-01'
+    amending: pt:dre:574312:por
+    amending_title: Lei n.º 51/90
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 24.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:40:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 51/90. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-241-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -222,7 +238,7 @@ a) SNPRCN, que a coordena e orienta;
 
 b) Câmaras Municipais de Vila do Bispo, Aljezur, Odemira e Sines;
 
-c) Comissão de Coordenação da Região do Algarve, Comissão de Coordenação da Região do Alentejo, Direcção-Geral do Ordenamento do Território, Direcção-Geral da Marinha e Direcção-Geral de Hidráulica e Engenharia Agrícola.
+c) Comissão de Coordenação da Região do Algarve, Comissão de Coordenação da Região do Alentejo, Direcção-Geral do Ordenamento do Território, Direcção-Geral da Marinha, Direcção-Geral de Hidráulica e Engenharia Agrícola e Direcção-Geral dos Portos.
 
 2 - O SNPRCN é representado pelo respectivo presidente, pelo vice-presidente ou por um director de serviços com poderes delegados para o efeito.
 
@@ -249,6 +265,8 @@ f) Tomar as medidas administrativas de reposição e renaturalização previstas
 7 - A comissão directiva reunirá ordinariamente de dois em dois meses e extraordinariamente sempre que convocada por três dos seus membros.
 
 8 - A comissão directiva elabora e aprova o seu próprio regimento.
+
+> Alterado pelo/a [Lei n.º 51/90](https://diariodarepublica.pt/dr/detalhe/lei/51-1990-574312), publicado em 1990-08-27.
 
 ###### Artigo 7.º — Designação e estatuto do director
 
@@ -566,7 +584,9 @@ Aplicam-se subsidiariamente a esta Paisagem Protegida as normas legais especific
 
 ###### Artigo 24.º — Regulamentação
 
-O presente diploma será regulamentado por decreto regulamentar.
+O presente diploma será regulamentado por decreto regulamentar no prazo de 90 dias.
+
+> Alterado pelo/a [Lei n.º 51/90](https://diariodarepublica.pt/dr/detalhe/lei/51-1990-574312), publicado em 1990-08-27.
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 1988. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - José António da Silveira Godinho - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins - Joaquim Martins Ferreira do Amaral.
 

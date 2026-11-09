@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:427174:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1976-06-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "901681478e094041"
+   ]
+  },
+  {
+   "date": "1984-09-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:399253:por",
+     "title": "Decreto do Governo n.º 54/84",
+     "published": "1984-09-19",
+     "dre_path": "/dr/detalhe/decreto-governo/54-1984-399253"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "0fc1a17dd83efab4",
+    "d5f91fccc9970c19",
+    "9e59d14ae72feb21",
+    "cb1bbe63ea7fef64",
+    "3b26d6dee4e5f7c2",
+    "e7960b260dc4f158",
+    "faf831d93fb7f9a0"
+   ]
+  }
+ ],
+ "fragments": {
+  "901681478e094041": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Junho\n\nO [Decreto-Lei n.º 44204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44204-1962-517785), de 22 de Fevereiro de 1962, no artigo 21.º, veio permitir a criação da Comissão Permanente do Formulário Hospitalar de Medicamentos, que foi, ulteriormente, constituída pela [Portaria n.º 21161](https://diariodarepublica.pt/dr/detalhe/portaria/21161-1965-237991), de 10 de Março de 1965.\n\nA referida Comissão, embora sem dotações financeiras, produziu trabalho apreciável, que conduziu à publicação do Formulário Hospitalar Nacional de Medicamentos, em 1972, e do suplemento de 1975. Importa agora que o Formulário se mantenha constantemente actualizado, sendo, para isso, conveniente que se modifique a composição de Comissão, se definam melhor as suas atribuições à luz da legislação actual sobre os serviços de farmácia hospitalar e se lhe confiem os meios convenientes de actuação.\n\nNestes termos, e tendo em atenção o disposto na alínea e) do n.º 1 e no n.º 5 do artigo 39.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro;\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º É criada na Direcção-Geral dos Hospitais a Comissão Permanente do Formulário e de Informação de Medicamentos, em substituição da Comissão Permanente do Formulário Hospitalar de Medicamentos, criada pela [Portaria n.º 21161](https://diariodarepublica.pt/dr/detalhe/portaria/21161-1965-237991), de 10 de Março de 1965.\n\nArt. 2.º Compete à Comissão:\n\na) Elaborar e manter actualizado o Formulário Nacional de Medicamentos;\n\nb) Orientar a impressão e divulgação do referido Formulário;\n\nc) Apoiar tecnicamente as comissões de farmácia e terapêutica dos hospitais;\n\nd) Organizar um sistema de informações sobre medicamentos;\n\ne) Divulgar, na medida do possível, as informações referidas na alínea anterior por todos os estabelecimentos hospitalares e outros sectores da saúde pública.\n\nArt. 3.º - 1. A Comissão é composta por:\n\na) Dois médicos farmacologistas;\n\nb) Três médicos pertencentes à carreira hospitalar, dos quais um pediatra;\n\nc) Cinco farmacêuticos pertencentes à carreira hospitalar;\n\nd) Um representante da Direcção de Serviços de Farmácia e Medicamentos da Direcção-Geral de Saúde.\n\n2. Os membros da Comissão são nomeados por períodos de três anos, renováveis.\n\n3. O presidente é eleito pela Comissão, de entre os seus membros, por um período de três anos.\n\nArt. 4.º A Comissão poderá solicitar a colaboração eventual de técnicos cujo concurso julgue conveniente para a solução de problemas específicos.\n\nArt. 5.º - 1. Os membros da Comissão têm direito a senhas de presença nos termos da lei geral e, quando a sua residência se situe em localidade diversa daquela onde se realizem as reuniões, terão direito a ajudas de custo e o pagamento de transportes.\n\n2. Os colaboradores eventuais referidos no artigo 4.º deste diploma podem ser remunerados, em termos a propor pela Comissão.\n\nArt. 6.º No orçamento da Direcção-Geral dos Hospitais será inscrita a verba necessária à execução do presente diploma.\n\nJosé Baptista Pinheiro de Azevedo - Rui Manuel Parente Chancerelle de Machete - Vítor Manuel Ribeiro Constâncio.\n\nPromulgado em 19 de Maio de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "0fc1a17dd83efab4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Junho\n\nO [Decreto-Lei n.º 44204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44204-1962-517785), de 22 de Fevereiro de 1962, no artigo 21.º, veio permitir a criação da Comissão Permanente do Formulário Hospitalar de Medicamentos, que foi, ulteriormente, constituída pela [Portaria n.º 21161](https://diariodarepublica.pt/dr/detalhe/portaria/21161-1965-237991), de 10 de Março de 1965.\n\nA referida Comissão, embora sem dotações financeiras, produziu trabalho apreciável, que conduziu à publicação do Formulário Hospitalar Nacional de Medicamentos, em 1972, e do suplemento de 1975. Importa agora que o Formulário se mantenha constantemente actualizado, sendo, para isso, conveniente que se modifique a composição de Comissão, se definam melhor as suas atribuições à luz da legislação actual sobre os serviços de farmácia hospitalar e se lhe confiem os meios convenientes de actuação.\n\nNestes termos, e tendo em atenção o disposto na alínea e) do n.º 1 e no n.º 5 do artigo 39.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro;\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "d5f91fccc9970c19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada na Direcção-Geral dos Hospitais a Comissão Permanente do Formulário e de Informação de Medicamentos, em substituição da Comissão Permanente do Formulário Hospitalar de Medicamentos, criada pela [Portaria n.º 21161](https://diariodarepublica.pt/dr/detalhe/portaria/21161-1965-237991), de 10 de Março de 1965."
+  },
+  "9e59d14ae72feb21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCompete à Comissão:\n\na) Elaborar e manter actualizado o Formulário Nacional de Medicamentos;\n\nb) Orientar a impressão e divulgação do referido Formulário;\n\nc) Apoiar tecnicamente as comissões de farmácia e terapêutica dos hospitais;\n\nd) Organizar um sistema de informações sobre medicamentos;\n\ne) Divulgar, na medida do possível, as informações referidas na alínea anterior por todos os estabelecimentos hospitalares e outros sectores da saúde pública."
+  },
+  "cb1bbe63ea7fef64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1984-09-20",
+   "changed_by": [
+    "Alterado pelo/a [Decreto do Governo n.º 54/84](https://diariodarepublica.pt/dr/detalhe/decreto-governo/54-1984-399253), publicado em 1984-09-19."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1. A Comissão é composta por:\n\na) Dois médicos farmacologistas;\n\nb) Três médicos pertencentes à carreira hospitalar, dos quais um pediatra;\n\nc) 3 farmacêuticos pertencentes à carreira hospitalar, um dos quais com experiência em farmácia clínica, e 2 farmacêuticos, sendo um deles tecnologista;\n\nd) Um representante da Direcção de Serviços de Farmácia e Medicamentos da Direcção-Geral de Saúde.\n\n2. Os membros da Comissão são nomeados por períodos de três anos, renováveis.\n\n3. O presidente é eleito pela Comissão, de entre os seus membros, por um período de três anos.\n\n> Alterado pelo/a [Decreto do Governo n.º 54/84](https://diariodarepublica.pt/dr/detalhe/decreto-governo/54-1984-399253), publicado em 1984-09-19."
+  },
+  "3b26d6dee4e5f7c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Comissão poderá solicitar a colaboração eventual de técnicos cujo concurso julgue conveniente para a solução de problemas específicos."
+  },
+  "e7960b260dc4f158": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os membros da Comissão têm direito a senhas de presença nos termos da lei geral e, quando a sua residência se situe em localidade diversa daquela onde se realizem as reuniões, terão direito a ajudas de custo e o pagamento de transportes.\n\n2. Os colaboradores eventuais referidos no artigo 4.º deste diploma podem ser remunerados, em termos a propor pela Comissão."
+  },
+  "faf831d93fb7f9a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNo orçamento da Direcção-Geral dos Hospitais será inscrita a verba necessária à execução do presente diploma.\n\nJosé Baptista Pinheiro de Azevedo - Rui Manuel Parente Chancerelle de Machete - Vítor Manuel Ribeiro Constâncio.\n\nPromulgado em 19 de Maio de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}

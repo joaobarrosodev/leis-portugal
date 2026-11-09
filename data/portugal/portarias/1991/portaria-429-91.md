@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-07-31'
+version_history:
+  file: portaria-429-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-05-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-07-31'
+    amending: pt:dre:521470:por
+    amending_title: Declaração de Rectificação n.º 167/91
+    changes:
+    - Altera Artigo 27.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/429/1991/05/24/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:48:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 167/91.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-429-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -147,11 +162,11 @@ b) ...
 
 a) Dos veículos automóveis:
 
-As indicadas na alínea a), 1.º, 2.º, 4.º, 6.º e 7.º, e na alínea b), 1.º, 2.º, 3.º, 4.º, 9.º, este apenas quanto ao número de cilindros, cilindrada e combustível, e 13.º, do n.º 2 do presente artigo.
+As indicadas na alínea a), 1.º, 4.º e 6.º, e na alínea b), 1.º, 2.º, 3.º, 4.º, 9.º, este apenas quanto ao número de cilindros, cilindrada de combustível, e 13.º, do n.º 2 do presente artigo.
 
 b) Dos reboques:
 
-As indicadas na alínea a), 1.º, 2.º, 4.º e 6.º, e na alínea b), 1.º, 2.º, 3.º, 4.º, 5.º, 6.º e 9.º, do n.º 2 do presente artigo.
+As indicadas na alínea a), 1.º e 4.º, e na alínea b), 1.º, 2.º, 3.º, 4.º, 5.º, 6.º e 9.º, do n.º 3 do presente artigo.
 
 5 - ...
 
@@ -160,6 +175,8 @@ As indicadas na alínea a), 1.º, 2.º, 4.º e 6.º, e na alínea b), 1.º, 2.º
 2.º O presente diploma entra imediatamente em vigor.
 
 Ministério das Obras Públicas, Transportes e Comunicações.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 167/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/167-1991-521470), publicado em 1991-07-31.
 
 Assinada em 15 de Maio de 1991.
 

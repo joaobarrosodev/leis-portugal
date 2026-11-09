@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:405349:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1967-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0240062661d19344"
+   ]
+  },
+  {
+   "date": "1973-05-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:422440:por",
+     "title": "Decreto-Lei n.º 264/73",
+     "published": "1973-05-28",
+     "dre_path": "/dr/detalhe/decreto-lei/264-1973-422440"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "8fd9cd41cfd6ee56",
+    "020f8d48a889dd40",
+    "58b13f31860acfc4",
+    "a82091642bde3ad5",
+    "dbe5053374e33f62"
+   ]
+  }
+ ],
+ "fragments": {
+  "0240062661d19344": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º É autorizado o Ministro das Finanças a actualizar, por despacho, a tabela de emolumentos especiais referida no [Decreto n.º 33023](https://diariodarepublica.pt/dr/detalhe/decreto/33023-1943-400235), de 6 de Setembro de 1943, e bem assim as gratificações de serviço aos oficiais e sargentos da Guarda Fiscal, dentro dos limites estabelecidos para a Guarda Nacional Republicana.\n\nArt. 2.º É autorizada a Guarda Fiscal a contratar, mediante aprovação do Ministro das Finanças, o pessoal civil necessário à boa execução dos seus serviços, dentro dos limites das verbas inscritas no Orçamento Geral do Estado para esse fim.\n\nArt. 3.º O chefe da 2.ª Repartição do Comando-Geral da Guarda Fiscal será um oficial superior do serviço de administração militar.\n\nArt. 4.º No corrente ano económico os encargos que resultarem da execução do presente decreto-lei serão satisfeitos em conta das disponibilidades da verba consignada ao pessoal dos quadros da Guarda Fiscal.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 30 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "8fd9cd41cfd6ee56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "020f8d48a889dd40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1973-05-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 264/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1973-422440), publicado em 1973-05-28."
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ autorizado o Ministro das Finanças a substituir, por despacho, a tabela de emolumentos especiais referida no [Decreto n.º 33023](https://diariodarepublica.pt/dr/detalhe/decreto/33023-1943-400235), de 6 de Setembro de 1943, e bem assim as gratificações de serviço aos oficiais e sargentos da Guarda Fiscal, dentro dos limites estabelecidos para a Guarda Nacional Republicana.\n\n> Alterado pelo/a [Decreto-Lei n.º 264/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1973-422440), publicado em 1973-05-28."
+  },
+  "58b13f31860acfc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1973-05-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 264/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1973-422440), publicado em 1973-05-28."
+   ],
+   "markdown": "###### Artigo 2.º\n\nÉ autorizada a Guarda Fiscal a contratar ou assalariar, mediante aprovação do Ministro das Finanças, o pessoal civil necessário à boa execução dos seus serviços, dentro dos limites das verbas inscritas no Orçamento Geral do Estado para esses fins.\n\n> Alterado pelo/a [Decreto-Lei n.º 264/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1973-422440), publicado em 1973-05-28."
+  },
+  "a82091642bde3ad5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO chefe da 2.ª Repartição do Comando-Geral da Guarda Fiscal será um oficial superior do serviço de administração militar."
+  },
+  "dbe5053374e33f62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNo corrente ano económico os encargos que resultarem da execução do presente decreto-lei serão satisfeitos em conta das disponibilidades da verba consignada ao pessoal dos quadros da Guarda Fiscal.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 30 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-06-21'
+version_history:
+  file: decreto-lei-328-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-09-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-06-21'
+    amending: pt:dre:372197:por
+    amending_title: Decreto-Lei n.º 204/88
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:21:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 204/88. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1987/decreto-lei-328-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,7 +160,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - As declarações, avisos ou outros documentos relativos à situação e movimentação dos funcionários e agentes da administração central e dos institutos públicos nas modalidades de serviços personalizados do Estado ou de fundos públicos, destinados a publicação na 2.ª série do Diário da República, poderão ser efectuados em apêndice à mesma série, relativo a cada ministério.
+###### Artigo 1.º
+
+1 - As declarações, avisos ou outros documentos relativos à situação e movimentação dos funcionários e agentes da administração central e dos institutos públicos nas modalidades de serviços personalizados do Estado ou de fundos públicos, destinados a publicação na 2.ª série do Diário da República, poderão ser efectuados em apêndice à mesma série, relativo a cada ministério.
 
 2 - No caso de incluir no mesmo apêndice matéria relativa a mais de um ministério, a Imprensa Nacional-Casa da Moeda promoverá a distribuição dos apêndices por todos os serviços dos ministérios em causa, nos termos do n.º 7 do presente artigo.
 
@@ -159,9 +176,19 @@ Artigo 1.º - 1 - As declarações, avisos ou outros documentos relativos à sit
 
 7 - Os apêndices são de distribuição obrigatória por todas as direcções-gerais do ministério a que pertence o serviço que promoveu a respectiva publicação.
 
-Art. 2.º A publicidade dos resultados dos concursos abertos nos termos do [Decreto-Lei n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1984-367853), de 3 de Fevereiro, será feita mediante aviso a publicar na 2.ª série, informando os interessados do local ou locais onde podem ser consultadas as listas provisória, definitiva ou de classificação final de candidatos, consoante os casos.
+###### Artigo 2.º
 
-Art. 3.º - 1 - Os funcionários ou agentes, quando providos a título definitivo em lugar diverso, em consequência de concurso, transferência, reclassificação ou reconversão profissional, são exonerados dos lugares que vêm ocupando, com efeitos à data da posse.
+1 - A publicidade dos resultados dos concursos abertos nos termos do [Decreto-Lei n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1984-367853), de 3 de Fevereiro, quando o número de candidatos for igual ou superior a 70, será feita mediante aviso a publicar na 2.ª série do Diário da República, donde constem as listas provisória, definitiva ou de classificação final, consoante os casos.
+
+2 - Quando o número de candidatos não ultrapasse o limite referido no número anterior, será publicado na 2.ª série do Diário da República aviso informando do local ou locais onde podem ser consultadas as listas, devendo ainda os serviços promover o envio aos interessados, por carta registada, de fotocópia da lista respectiva, com indicação dos motivos determinantes da admissão condicional ou da exclusão do concurso, quando for caso disso.
+
+3 - Nas situações referidas no número anterior, o prazo para a interposição de eventuais recursos da lista provisória ou da lista de classificação final, nos termos do [Decreto-Lei n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1984-367853), de 3 de Fevereiro, conta-se a partir da data do registo da comunicação, respeitada a dilação de três dias.
+
+> Alterado pelo/a [Decreto-Lei n.º 204/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1988-372197), publicado em 1988-06-16.
+
+###### Artigo 3.º
+
+1 - Os funcionários ou agentes, quando providos a título definitivo em lugar diverso, em consequência de concurso, transferência, reclassificação ou reconversão profissional, são exonerados dos lugares que vêm ocupando, com efeitos à data da posse.
 
 2 - Os extractos a publicar na 2.ª série do Diário da República, ou nos apêndices relativos ao provimento de funcionários ou agentes, de acordo com o disposto no n.º 1 do presente artigo, conterão obrigatoriamente referência ao estipulado no final do mesmo número.
 
@@ -169,9 +196,13 @@ Art. 3.º - 1 - Os funcionários ou agentes, quando providos a título definitiv
 
 4 - É obrigatória a apresentação da declaração relativa a incompatibilidades e acumulações não permitidas, prevista na alínea c) do n.º 1 do artigo 7.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio, em todos os casos em que o funcionário mantenha o direito ao lugar de origem.
 
-Art. 4.º Os diplomas de demissão, exoneração, passagem à situação de licença ilimitada, actividades fora do quadro, despachos de rescisão de contratos ou de assalariamentos e, de um modo geral, de todos os actos que modifiquem a situação dos funcionários, sem aumento de vencimento nem mudança de verba por onde se efectue o seu pagamento, não estão sujeitos a anotação pelo Tribunal de Contas.
+###### Artigo 4.º
 
-Art. 5.º - 1 - Não se fará a publicação na 2.ª série do Diário da República dos despachos que concedam licenças ilimitadas, devendo os serviços competentes promover a comunicação aos interessados, bem como aos departamentos envolvidos, nomeadamente ao Tribunal de Contas, à Direcção-Geral da Contabilidade Pública, à Caixa Geral de Aposentações, ao Montepio dos Servidores do Estado, à Direcção-Geral de Protecção Social dos Funcionários e Agentes da Administração Pública (ADSE) e ao Instituto de Informática do Ministério das Finanças.
+Os diplomas de demissão, exoneração, passagem à situação de licença ilimitada, actividades fora do quadro, despachos de rescisão de contratos ou de assalariamentos e, de um modo geral, de todos os actos que modifiquem a situação dos funcionários, sem aumento de vencimento nem mudança de verba por onde se efectue o seu pagamento, não estão sujeitos a anotação pelo Tribunal de Contas.
+
+###### Artigo 5.º
+
+1 - Não se fará a publicação na 2.ª série do Diário da República dos despachos que concedam licenças ilimitadas, devendo os serviços competentes promover a comunicação aos interessados, bem como aos departamentos envolvidos, nomeadamente ao Tribunal de Contas, à Direcção-Geral da Contabilidade Pública, à Caixa Geral de Aposentações, ao Montepio dos Servidores do Estado, à Direcção-Geral de Protecção Social dos Funcionários e Agentes da Administração Pública (ADSE) e ao Instituto de Informática do Ministério das Finanças.
 
 2 - Não se fará, igualmente, a publicação no Diário da República de declarações relativas a termos de requisição ou interinidade, destacamentos de pessoal e alteração do nome dos funcionários ou agentes em virtude de mudança do respectivo estado civil.
 

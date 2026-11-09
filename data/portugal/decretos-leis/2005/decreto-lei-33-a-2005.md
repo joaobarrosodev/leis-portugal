@@ -41,10 +41,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2013-03-01'
+version_history:
+  file: decreto-lei-33-a-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-02-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-03-01'
+    amending: pt:dre:638769:por
+    amending_title: Decreto-Lei n.º 225/2007; Decreto-Lei n.º 35/2013
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/33-a/2005/02/16/p/dre/pt/html
@@ -70,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:50:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 225/2007; Decreto-Lei
+    n.º 35/2013. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2005/decreto-lei-33-a-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -349,7 +368,7 @@ ii) Prevalência do disposto neste diploma, em caso de opção da autarquia, cas
 
 ###### Artigo 3.º — Remuneração da electricidade produzida em regime especial
 
-1 - O valor final resultante da aplicação das fórmulas de cálculo constantes do anexo II do Decreto-Lei n.º 189/88, de 27 de Maio, com as alterações constantes do artigo anterior, pode ser alterado para valor inferior, mediante proposta do produtor, aceite pela Direcção-Geral de Geologia e Energia (DGGE).
+1 - O valor final resultante da aplicação das fórmulas de cálculo constantes do anexo II do Decreto-Lei n.º 189/88, de 27 de maio, pode ser alterado para valor inferior, mediante proposta do produtor, aceite pela Direção-Geral de Energia e Geologia (DGEG).
 
 2 - Caso o montante da remuneração seja alterado nos termos do número anterior, as alterações introduzidas constarão da respectiva licença de exploração.
 
@@ -359,37 +378,39 @@ ii) Prevalência do disposto neste diploma, em caso de opção da autarquia, cas
 
 5 - Enquanto a comunicação referida no número anterior não for efectuada presume-se que o produtor opta pela remuneração nos termos do anexo II do Decreto-Lei n.º 189/88, de 27 de Maio, sendo os certificados verdes correspondentes à electricidade por si produzida emitidos a favor do operador do sistema que os transaccionará revertendo o respectivo valor a favor do uso geral do sistema.
 
+> Alterado pelo/a [Decreto-Lei n.º 35/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2013-259256), publicado em 2013-02-28.
+
 ###### Artigo 4.º — Âmbito de aplicação
 
 1 - À electricidade produzida em instalações que já tenham obtido licença de estabelecimento à data da entrada em vigor do presente diploma e à electricidade produzida em instalações cujo pedido de informação prévia tenha sido respondido favoravelmente pela DGGE até à data de entrada em vigor do presente diploma e venham a obter a respectiva licença de estabelecimento no prazo de um ano após a entrada em vigor do presente diploma não são aplicáveis as alterações ao anexo II do Decreto-Lei n.º 189/88, de 27 de Maio, previstas no presente diploma.
 
 2 - O prazo referido no número anterior será prorrogado por período não superior a um ano, mediante despacho do director-geral de Geologia e Energia, a requerimento do promotor, desde que o não cumprimento do prazo tenha origem em motivos que não sejam imputáveis ao promotor.
 
-3 - Para as instalações previstas no n.º 1, o regime de remuneração em vigor até à data de entrada em vigor do presente diploma mantém-se:
+3 - (Revogado.)
 
-a) Até ao final da respectiva licença de utilização de água para produção de electricidade no caso das PCH (pequenas centrais hídricas);
+4 - (Revogado.)
 
-b) Por um prazo de 15 anos a contar da data de entrada em vigor do presente diploma, para as instalações não hídricas já em exploração;
-
-c) Por um prazo de 15 anos a contar da data de atribuição da licença de exploração, para as restantes instalações.
-
-4 - No final do período de 15 anos referido no número anterior, excepto no caso das PCH, as instalações são remuneradas pelo fornecimento da electricidade entregue à rede a preços de mercado e pelas receitas obtidas pela venda de certificados verdes mencionados no preâmbulo da Directiva n.º [2001/77/CE](https://data.europa.eu/eli/dir/2001/77/oj?locale=pt), do Parlamento Europeu e do Conselho, de 27 de Setembro.
-
-5 - Se no final do período referido nas alíneas b) e c) do n.º 3 não existirem certificados verdes transaccionáveis, aplica-se, durante um período adicional de cinco anos, a tarifa referente às centrais renováveis com início de exploração nessa data.
+5 - (Revogado.)
 
 6 - A aplicação do regime anteriormente em vigor às instalações previstas no n.º 1 fica dependente de o início de exploração ocorrer no prazo de 24 meses após a data de emissão de licença de estabelecimento ou dentro de 6 meses contados da entrada em vigor do presente diploma, conforme o prazo mais alargado.
 
-7 - O prazo referido no número anterior será prorrogado por um ou mais períodos, cada um deles de até um ano, mediante despacho do director-geral de Geologia e Energia, a requerimento do promotor, desde que o não cumprimento do prazo tenha origem em motivos que não sejam comprovadamente imputáveis ao promotor.
+7 - A requerimento do promotor, o prazo referido no número anterior pode ser prorrogado, por despacho do director-geral de Geologia e Energia, por um ou mais períodos com a duração máxima de um ano, desde que o prazo de prorrogação não ultrapasse a data de 31 de Dezembro de 2008 ou 12 meses após a efectiva disponibilização da potência de ligação pelo operador da rede, conforme o prazo mais alargado, e desde que o incumprimento do prazo tenha origem em motivos que não sejam comprovadamente imputáveis ao promotor.
 
 8 - As centrais electroprodutoras já licenciadas ao abrigo dos Decretos-Leis n.os 189/88, de 27 de Maio, e 312/2001, de 10 de Dezembro, poderão optar pela remuneração resultante da aplicação das fórmulas constantes deste anexo, nas condições dele constantes e tendo em consideração a electricidade produzida desde a data da respectiva licença de exploração, mediante requerimento dirigido ao director-geral de Geologia e Energia.
 
 9 - O disposto no presente diploma não prejudica o direito de entrega e recepção da electricidade nas redes do Sistema Eléctrico Português, nos termos dos artigos 4.º e 5.º do Decreto-Lei n.º 312/2001, de 10 de Dezembro.
 
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 225/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2007-638769), publicado em 2007-05-31.
+
+> Alterado pelo/a [Decreto-Lei n.º 35/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2013-259256), publicado em 2013-02-28.
+
 ###### Artigo 5.º — Prazo para obtenção de licença de estabelecimento
 
 1 - A licença de estabelecimento referida no Decreto-Lei n.º 312/2001, de 10 de Dezembro, e relativa a pontos de recepção atribuídos após a entrada em vigor do presente diploma, deve ser obtida pelo promotor no prazo de 12 meses contados da data em que lhe for atribuído o correspondente ponto de recepção, sob pena de caducidade do mesmo.
 
-2 - O membro do Governo que tutele a DGGE pode, a requerimento fundamentado do promotor dirigido à DGGE, prorrogar o prazo referido no número anterior por período não superior a 18 meses, nos casos em que o atraso não seja imputável ao promotor.
+2 - O membro do Governo responsável pela área da energia pode, a requerimento fundamentado do promotor dirigido à DGGE e nos casos em que o atraso não seja imputável ao promotor, prorrogar o prazo referido no número anterior por período não superior a 36 meses, no caso das centrais hídricas, ou por período não superior a 24 meses nos restantes casos.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 225/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2007-638769), publicado em 2007-05-31.
 
 ###### Artigo 6.º — Caducidade dos pontos de recepção de electricidade e da reserva de capacidade na rede
 
@@ -397,7 +418,13 @@ c) Por um prazo de 15 anos a contar da data de atribuição da licença de explo
 
 2 - Exceptuam-se do disposto no número anterior os casos em que o promotor efectuou reserva de capacidade nos termos do n.º 6 do artigo 12.º do Decreto-Lei n.º 312/2001, de 10 de Dezembro, ou em que a calendarização da disponibilidade da rede implique o não cumprimento do prazo do número anterior, situação em que o prazo de 12 meses referido no número anterior é contado da data em que a totalidade da capacidade se encontre disponível na rede.
 
-3 - O membro do Governo que tutele a DGGE pode, a requerimento fundamentado do promotor dirigido à DGGE, prorrogar os prazos referidos nos números anteriores por período não superior a 12 meses.
+3 - O membro do Governo responsável pela área da energia pode, a requerimento fundamentado do promotor dirigido à DGGE, prorrogar os prazos referidos nos números anteriores por período adicional não superior a 12 meses, que no caso das centrais hídricas poderá ser concedido por período não superior a 36 meses.
+
+4 - No caso de ser atribuída, no âmbito de concurso público realizado nos termos do artigo 14.º do Decreto-Lei n.º 312/2001, de 10 de Dezembro, capacidade de injecção de potência na rede do Sistema Eléctrico de Serviço Público e esta não possa ser disponibilizada na respectiva zona de rede por motivos não imputáveis ao adjudicatário, pode este propor, até ao prazo limite em que a capacidade de injecção de potência lhe tenha sido reservada, a permuta dos pontos de recepção cuja identificação consta do contrato por outros com características idênticas e relativamente aos quais o promotor reúna todos os requisitos para atribuição.
+
+5 - A permuta referida no número anterior é autorizada pelo director-geral de Geologia e Energia desde que exista capacidade de injecção na rede do Sistema Eléctrico de Serviço Público, não resultem prejuízos para o interesse público e não prejudique interesses de terceiros já constituídos à data.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 225/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2007-638769), publicado em 2007-05-31.
 
 ###### Artigo 7.º — Custos de ligação à rede
 

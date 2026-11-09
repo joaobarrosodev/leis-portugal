@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-06-29'
+version_history:
+  file: decreto-regulamentar-82-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-11-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-06-29'
+    amending: pt:dre:182047:por
+    amending_title: Decreto Regulamentar n.º 38/85
+    changes:
+    - Revoga Artigo 44.º
+    - Altera Artigo 37.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:06:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 38/85. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1982/decreto-regulamentar-82-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -744,6 +760,10 @@ c) Promover, a nível regional, a divulgação das actividades da DGEFAP.
 
 2 - Consideram-se desde já criadas as Delegações Regionais do Porto e Coimbra.
 
+3 - As delegações mencionadas no número anterior têm o nível orgânico de direcções de serviço.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 38/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1985-182047), publicado em 1985-06-28.
+
 ### CAPÍTULO III — Funcionamento dos serviços
 
 #### SECÇÃO I — Funcionamento dos serviços
@@ -806,9 +826,11 @@ c) Fomentar, manter contactos e recorrer à colaboração de entidades públicas
 
 2 - A DGEFAP dispõe ainda do pessoal administrativo e auxiliar constante do quadro II anexo a este diploma, o qual faz parte do quadro único do Ministério da Reforma Administrativa, adstrito à Direcção de Serviços de Administração Geral, nos termos do n.º 1 do artigo 20.º do [Decreto-Lei n.º 170/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1982-392869), de 10 de Maio.
 
-3 - Dos lugares constantes do quadro do pessoal a que aludem os números anteriores, os mencionados no quadro III anexo a este diploma serão obrigatoriamente providos por pessoal do quadro geral de adidos ou por funcionários e agentes constituídos em excedentes ao abrigo dos Decretos-Leis n.os [294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033) e [819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), respectivamente de 24 de Abril e de 12 de Novembro, e legislação complementar sobre a matéria.
+3 - (Revogado.)
 
 4 - A distribuição de pessoal pelos diversos serviços da DGEFAP será feita mediante despacho do director-geral, tendo em conta as necessidades de serviço e as qualificações profissionais dos funcionários.
+
+> Revogado pelo/a [Decreto Regulamentar n.º 38/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/38-1985-182047), publicado em 1985-06-28.
 
 ###### Artigo 45.º — (Transição de pessoal)
 

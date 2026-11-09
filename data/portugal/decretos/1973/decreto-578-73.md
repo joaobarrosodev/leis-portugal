@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-07-08'
+version_history:
+  file: decreto-578-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-11-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-07-08'
+    amending: pt:dre:250457:por
+    amending_title: Decreto n.º 96/77
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:30:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 96/77. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1973/decreto-578-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,9 +128,13 @@ Considerando o disposto nos artigos 1.º, 6.º, alínea a), 8.º, 9.º e 11.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com o Centro Transmissor do Comiberlant na área compreendida pelo polígono de lados paralelos à vedação daquelas instalações e à distância de 300 m da mesma vedação.
+###### Artigo 1.º
 
-Art. 2.º Na área definida no artigo anterior é proibida, sem licença da autoridade competente, a execução de quaisquer trabalhos e actividades seguintes:
+Fica sujeita a servidão militar a área de terreno confinante com o Centro Transmissor do Comiberlant na área compreendida pelo polígono de lados paralelos à vedação daquelas instalações e à distância de 300 m da mesma vedação.
+
+###### Artigo 2.º
+
+Na área definida no artigo anterior é proibida, sem licença da autoridade competente, a execução de quaisquer trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;
 
@@ -131,17 +150,29 @@ f) Levantamentos topográficos ou fotográficos;
 
 g) Outros trabalhos ou actividades que possam prejudicar o funcionamento das instalações citadas.
 
-Art. 3.º - 1. A concessão de licenças a que se faz referência neste decreto compete ao Secretariado-Geral da Defesa Nacional, depois de ouvido o Estado-Maior da Armada e outros departamentos militares interessados.
+###### Artigo 3.º
+
+1. A concessão de licenças a que se faz referência neste decreto compete ao Secretariado-Geral da Defesa Nacional, depois de ouvido o Estado-Maior da Armada e outros departamentos militares interessados.
 
 2. As licenças concedidas nos termos deste artigo, bem como quaisquer condições impostas na sua concessão, são comunicadas pelo Secretariado-Geral da Defesa Nacional ao Ministério da Marinha para efeitos do disposto nos artigos seguintes.
 
-Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando Naval do Continente.
+###### Artigo 4.º
 
-Art. 5.º As demolições das obras feitas ilegalmente e a aplicação de multas consequentes são da competência da Direcção das Infra-Estruturas Navais.
+A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do Corpo de Fuzileiros.
 
-Art. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o Ministro da Defesa Nacional e das decisões tomadas nos termos do artigo anterior, referentes à demolição das obras feitas ilegalmente, cabe recurso para o superintendente dos Serviços do Material da Armada.
+> Alterado pelo/a [Decreto n.º 96/77](https://diariodarepublica.pt/dr/detalhe/decreto/96-1977-250457), publicado em 1977-07-08.
 
-Art. 7.º A zona descrita no artigo 1.º será demarcada na carta n.º 443 dos Serviços Cartográficos do Exército, na escala 1:25000, sendo distribuídos exemplares às seguintes entidades:
+###### Artigo 5.º
+
+As demolições das obras feitas ilegalmente e a aplicação de multas consequentes são da competência da Direcção das Infra-Estruturas Navais.
+
+###### Artigo 6.º
+
+Das decisões tomadas nos termos do artigo 3.º cabe recurso para o Ministro da Defesa Nacional e das decisões tomadas nos termos do artigo anterior, referentes à demolição das obras feitas ilegalmente, cabe recurso para o superintendente dos Serviços do Material da Armada.
+
+###### Artigo 7.º
+
+A zona descrita no artigo 1.º será demarcada na carta n.º 443 dos Serviços Cartográficos do Exército, na escala 1:25000, sendo distribuídos exemplares às seguintes entidades:
 
 Secretariado-Geral da Defesa Nacional;
 

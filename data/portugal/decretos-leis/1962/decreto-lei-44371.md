@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-07-10'
+version_history:
+  file: decreto-lei-44371.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-05-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-07-10'
+    amending: pt:dre:693036:por
+    amending_title: Decreto-Lei n.º 45118
+    changes:
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:41:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 45118. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44371.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,21 +141,29 @@ Tornando-se, contudo necessário, para seu pleno rendimento, enquadrá-los na or
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para, valer como lei, o seguinte:
 
-Artigo 1.º Nas organizações referidas no artigo 1.º do [Decreto-Lei n.º 41281](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41281-1957-254659), de 21 de Setembro de 1957, e no artigo 1.º do [Decreto n.º 43808](https://diariodarepublica.pt/dr/detalhe/decreto/43808-1961-172681), de 20 de Julho de 1961, podem constituir-se formações aéreas voluntárias destinadas à execução de missões aéreas complementares da acção militar.
+###### Artigo 1.º
+
+Nas organizações referidas no artigo 1.º do [Decreto-Lei n.º 41281](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41281-1957-254659), de 21 de Setembro de 1957, e no artigo 1.º do [Decreto n.º 43808](https://diariodarepublica.pt/dr/detalhe/decreto/43808-1961-172681), de 20 de Julho de 1961, podem constituir-se formações aéreas voluntárias destinadas à execução de missões aéreas complementares da acção militar.
 
 § único. Exceptuam-se das organizações referidas no corpo deste artigo as relativas a pára-quedismo e aeromodelismo.
 
-Art. 2.º As formações aéreas voluntárias são, normalmente, compostas por pessoal navegante e pessoal terrestre de apoio, dispondo de aeronaves e outro material.
+###### Artigo 2.º
+
+As formações aéreas voluntárias são, normalmente, compostas por pessoal navegante e pessoal terrestre de apoio, dispondo de aeronaves e outro material.
 
 Sem prejuízo do disposto no artigo 23.º da [Lei n.º 2056](https://diariodarepublica.pt/dr/detalhe/lei/2056-1952-566238), de 2 de Junho de 1952, a constituição de formações aéreas voluntárias carece de autorização dos comandos das regiões ou zonas aéreas em que deva ter lugar.
 
-Art. 3.º O pedido de autorização deve ser apresentado por uma das organizações referidas no artigo 1.º do presente diploma e instruído com as declarações individuais de aceitação do pessoal navegante e pessoal terrestre de apoio, assim como da relação das aeronaves e outro material que ficarão à disposição da formação aérea voluntária respectiva.
+###### Artigo 3.º
+
+O pedido de autorização deve ser apresentado por uma das organizações referidas no artigo 1.º do presente diploma e instruído com as declarações individuais de aceitação do pessoal navegante e pessoal terrestre de apoio, assim como da relação das aeronaves e outro material que ficarão à disposição da formação aérea voluntária respectiva.
 
 § 1.º Os comandos das regiões ou zonas aéreas podem condicionar a autorização, referida no corpo deste artigo, à prestação de provas reveladoras da necessária capacidade.
 
 § 2.º Quando as aeronaves e outro material pertencerem à Direcção-Geral da Aeronáutica Civil ou aos serviços provinciais da aeronáutica civil, a sua inclusão na relação referida no corpo deste artigo carece de prévia autorização daquela Direcção-Geral ou destes serviços.
 
-Art. 4.º As formações aéreas voluntárias ficam na dependência dos comandos das regiões ou zonas aéreas onde forem constituídas, para tudo o que diga respeito à instrução e assistência técnica ligadas com a execução de missões aéreas e para tudo o que diga respeito a estas missões.
+###### Artigo 4.º
+
+As formações aéreas voluntárias ficam na dependência dos comandos das regiões ou zonas aéreas onde forem constituídas, para tudo o que diga respeito à instrução e assistência técnica ligadas com a execução de missões aéreas e para tudo o que diga respeito a estas missões.
 
 § 1.º Sem prejuízo do disposto no corpo deste artigo, as autoridades aeronáuticas civis mantêm a plenitude da sua competência sobre as organizações referidas no artigo 1.º, decorrentes do disposto no Decreto-Lei. n.º 41281, de 21 de Setembro de 1957, e no [Decreto n.º 43808](https://diariodarepublica.pt/dr/detalhe/decreto/43808-1961-172681), de 20 de Julho de 1961.
 
@@ -148,9 +171,13 @@ Art. 4.º As formações aéreas voluntárias ficam na dependência dos comandos
 
 § 3.º A execução das missões aéreas só deve ter lugar em emergência ou em guerra.
 
-Art. 5.º As aeronaves e outro material cedidos pelo Estado com a finalidade exclusiva de instrução e assistência técnica, ligadas com a execução de missões aéreas e de execução destas missões não podem ser desviados daquela finalidade.
+###### Artigo 5.º
 
-Art. 6.º As formações aéreas voluntárias, no que respeita a actividade ordenada pelos comandos das regiões ou zonas aéreas, podem beneficiar de:
+As aeronaves e outro material cedidos pelo Estado com a finalidade exclusiva de instrução e assistência técnica, ligadas com a execução de missões aéreas e de execução destas missões não podem ser desviados daquela finalidade.
+
+###### Artigo 6.º
+
+As formações aéreas voluntárias, no que respeita a actividade ordenada pelos comandos das regiões ou zonas aéreas, podem beneficiar de:
 
 a) Facilidades de instrução de pessoal navegante e de pessoal terrestre de apoio;
 
@@ -176,7 +203,9 @@ c) Aos governadores das províncias ultramarinas, pelos respectivos serviços pr
 
 § 4.º As aeronaves de matrícula civil empregadas nas formações aéreas voluntárias só poderão ser conduzidas por pessoal da Força Aérea ou por pessoal civil titular das licenças civis competentes.
 
-Art. 7.º O pessoal navegante e pessoal terrestre de apoio têm os seguintes direitos:
+###### Artigo 7.º
+
+O pessoal navegante e pessoal terrestre de apoio têm os seguintes direitos:
 
 a) Dispensa de comparência, sem perda de remunerações, nos serviços públicos e privados, quando, em emergência ou em guerra, sejam designados pelos comandos de regiões ou zonas aéreas para missões aéreas inadiáveis;
 
@@ -184,19 +213,21 @@ b) Gratificações de serviço aéreo ou de especialidade, quando, em emergênci
 
 c) Pensões por incapacidade e pensões de preço de sangue, quando sofram acidentes em missões de serviço ordenadas pelos comandos das regiões ou zonas aéreas.
 
-§ 1.º Para efeitos do disposto nas alíneas b) e c) do Corpo deste artigo deve observar-se a seguinte equiparação:
-
-Pessoal navegante - tenente piloto aviador.
-
-Pessoal terrestre de apoio - segundo-sargento especialista.
+§ 1.º Para efeitos do disposto nas alíneas b) e c) do corpo deste artigo o pessoal navegante e o pessoal terrestre de apoio é equiparado a pessoal militar da Força Aérea com os postos e especialidades a fixar, para cada indivíduo, pelo Secretário de Estado da Aeronáutica, sob proposta dos comandantes de regiões ou zonas aéreas baseada nas habilitações literárias e preparação militar do interessado.
 
 § 2.º O benefício referido na alínea b) é concedido, sujeito a sanção do Secretário de Estado da Aeronáutica, pela Força Aérea e por forma e em condições idênticas às vigentes para o pessoal militar da Força Aérea.
 
 § 3.º O benefício referido na alínea c) é concedido por forma e em condições idênticas às vigentes para o pessoal militar da Força Aérea.
 
-Art. 8.º As dotações necessárias à cobertura das despesas que, por força do presente diploma, incumbem à Força Aérea, Direcção-Geral da Aeronáutica Civil e serviços provinciais da aeronáutica civil serão inscritas nos respectivos orçamentos.
+> Alterado pelo/a [Decreto-Lei n.º 45118](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45118-1963-693036), publicado em 1963-07-10.
 
-Art. 9.º As instruções que venham a verificar-se necessárias para execução do disposto no presente diploma serão emanadas, na metrópole, conjuntamente do Estado-Maior da Força Aérea e da Direcção-Geral da Aeronáutica Civil e, nas províncias ultramarinas, dos respectivos conselhos aeronáuticos provinciais.
+###### Artigo 8.º
+
+As dotações necessárias à cobertura das despesas que, por força do presente diploma, incumbem à Força Aérea, Direcção-Geral da Aeronáutica Civil e serviços provinciais da aeronáutica civil serão inscritas nos respectivos orçamentos.
+
+###### Artigo 9.º
+
+As instruções que venham a verificar-se necessárias para execução do disposto no presente diploma serão emanadas, na metrópole, conjuntamente do Estado-Maior da Força Aérea e da Direcção-Geral da Aeronáutica Civil e, nas províncias ultramarinas, dos respectivos conselhos aeronáuticos provinciais.
 
 Publique-se e cumpra-se como nele se contém.
 

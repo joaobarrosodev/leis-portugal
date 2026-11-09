@@ -28,10 +28,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-01-01'
+version_history:
+  file: portaria-770-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-01-01'
+    amending: pt:dre:662733:por
+    amending_title: Portaria n.º 131/87
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 13.º
+    - Altera Artigo 24.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:48:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 131/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-770-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,7 +191,11 @@ REGULAMENTO DO FUNDO ESPECIAL DA CAIXA DE PREVIDÊNCIA DOS PROFISSIONAIS DE ESPE
 
 ###### Artigo 2.º — (Âmbito pessoal)
 
-Têm direito às prestações previstas no presente Regulamento os beneficiários activos abrangidos pela Caixa de Previdência dos Profissionais de Espectáculos e os pensionistas que à data do início da pensão se encontrem abrangidos pela mesma instituição.
+1 - Têm direito às prestações previstas no presente Regulamento os beneficiários activos abrangidos pela Caixa de Previdência dos Profissionais de Espectáculos e os pensionistas que, à data do início da pensão, se encontrem abrangidos pela mesma instituição.
+
+2 - As prestações a que se refere o número anterior são também concedidas aos subsidiados do Fundo de Assistência da Caixa.
+
+> Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25.
 
 ###### Artigo 3.º — (Âmbito material)
 
@@ -199,7 +221,7 @@ b) Prestações de apoio social.
 
 ###### Artigo 5.º — (Condições de atribuição)
 
-1 - Têm acesso a complemento de pensão os pensionistas que tenham rendimentos ilíquidos mensais iguais ou inferiores a 40% da remuneração mínima mensal garantida à generalidade dos trabalhadores, desde que o rendimento ilíquido do respectivo agregado familiar não seja superior àquela remuneração.
+1 - Têm acesso a complemento de pensão os pensionistas que tenham rendimentos ilíquidos mensais iguais ou inferiores a 50% da remuneração mínima mensal garantida à generalidade dos trabalhadores, desde que o rendimento ilíquido do respectivo agregado familiar não seja superior àquela remuneração.
 
 2 - Para efeito do número anterior, o agregado familiar é constituído pelos parentes e afins de linha recta e os de linha colateral até ao 3.º grau que convivam em economia familiar com o requerente.
 
@@ -208,6 +230,8 @@ b) Prestações de apoio social.
 a) Tenham um agregado familiar cuja capitação de rendimentos não seja superior a 30% da remuneração mínima mensal;
 
 b) Se encontrem em situação de risco social grave, a determinar pelos competentes serviços de acção social, em consequência de perda ou diminuição de rendimentos ou acréscimo anormal de encargos determinados, designadamente por doença ou acidente.
+
+> Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25.
 
 ###### Artigo 6.º — (Averiguação oficiosa)
 
@@ -279,9 +303,13 @@ f) Encarceramento.
 
 ###### Artigo 13.º — (Montante das prestações)
 
-1 - O montante global das prestações de apoio social será fixado caso a caso e tendo em atenção os elementos constantes do processo, não podendo, no entanto, exceder o valor igual a 4 vezes a remuneração mínima mensal garantida à generalidade dos trabalhadores, mesmo nos casos em que se verifique renovação.
+1 - O montante global das prestações de apoio social será fixado caso a caso e tendo em atenção os elementos constantes do processo, não podendo, no entanto, exceder o valor igual a quatro vezes a remuneração mínima mensal garantida à generalidade dos trabalhadores.
 
 2 - Desde que existam disponibilidades financeiras, poderá a instituição gestora propor superiormente a concessão de uma prestação de apoio social de valor superior ao fixado no número anterior, sempre que a situação de risco social agravado o justifique.
+
+3 - O montante total das prestações de apoio social atribuídas em cada ano não pode exceder o valor correspondente a 1,5% das receitas do Fundo no ano anterior.
+
+> Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25.
 
 ### CAPÍTULO II — Do processo
 
@@ -367,8 +395,8 @@ A gestão das prestações previstas neste Regulamento compete à Caixa de Previ
 
 ###### Artigo 24.º — (Revisão)
 
-1 - O presente Regulamento será obrigatoriamente revisto 2 anos após a sua entrada em vigor, com vista a adaptá-lo, na base da experiência decorrida, às reais situações de carência dos beneficiários e às disponibilidades financeiras do Fundo.
+O presente Regulamento deve ser revisto de dois em dois anos com vista a adaptá-lo às reais situações de carência dos beneficiários e às disponibilidades financeiras do Fundo.
 
-2 - No final do primeiro ano de gestão do Fundo, de acordo com o presente Regulamento, proceder-se-á à avaliação dos dados físicos e financeiros recolhidos pela Caixa de Previdência dos Profissionais de Espectáculos e pelo Instituto de Gestão Financeira da Segurança Social, por forma a possibilitar uma eventual adequação pontual das prestações aos meios existentes.
+> Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25.
 
 O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.

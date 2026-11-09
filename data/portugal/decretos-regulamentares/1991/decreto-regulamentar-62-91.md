@@ -38,10 +38,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-04-28'
+version_history:
+  file: decreto-regulamentar-62-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-11-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-04-28'
+    amending: pt:dre:67059137:por
+    amending_title: Lei n.º 31/2015
+    changes:
+    - Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::48.º
+    - Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::49.º
+    - Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::54.º
+    - Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::55.º
+    - Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::56.º
+    - Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::57.º
+    - Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::58.º
+    - Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::59.º
+    - Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::60.º
+    - Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::61.º
+    - Revoga Artigo ANEXO — Regulamento do Espectáculo Tauromáquico::62.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/62/1991/11/29/p/dre/pt/html
@@ -67,7 +91,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:19:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 31/2015. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1991/decreto-regulamentar-62-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -577,31 +602,15 @@ k) Até quatro profissionais de captação de imagens, nomeadamente fotógrafos,
 
 ###### Artigo 48.º — Inscrição na DGEDA
 
-É obrigatória a inscrição de todos os artistas tauromáquicos em registo especial a criar na DGEDA, a qual será comprovada por cartão de identificação específico.
+(Revogado.)
+
+> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23.
 
 ###### Artigo 49.º — Artistas e suas categorias
 
-1 - Para efeitos do presente Regulamento são considerados artistas tauromáquicos os indivíduos que em espectáculos tauromáquicos exercem a actividade nas modalidades de actuação a que correspondem as seguintes categorias:
+(Revogado.)
 
-a) Cavaleiros e cavaleiros praticantes;
-
-b) «Matadores de touros», novilheiros e novilheiros praticantes;
-
-c) Grupo de forcados;
-
-d) Toureiro cómico;
-
-e) Bandarilheiro e bandarilheiro praticante;
-
-f) Amadores de todas as modalidades.
-
-2 - São considerados auxiliares os moços de espada e o embolador.
-
-3 - Os artistas referidos nas alíneas a), b), c) e d) do n.º 1 do presente artigo são designados genericamente de «cabeças de cartaz».
-
-4 - Para efeitos do disposto no artigo anterior, os grupos de forcados devem indicar todos os seus elementos constitutivos, bem como o respectivo cabo, responsável pelo grupo para efeitos do presente Regulamento.
-
-5 - Considera-se «elenco» o conjunto dos cabeças de cartaz que actuam em cada espectáculo e «quadrilha» o conjunto de artistas que coadjuvam os cabeças de cartaz nas suas actuações - bandarilheiros e bandarilheiros praticantes.
+> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23.
 
 ###### Artigo 50.º — Elenco
 
@@ -639,59 +648,57 @@ b) Na lide apeada, o número de bandarilheiros deve ser acrescido de uma unidade
 
 ###### Artigo 54.º — Inscrição - condições gerais
 
-A inscrição a que se refere o artigo 48.º é reservada a indivíduos habilitados com a escolaridade obrigatória que possuam condições físicas para o exercíco da actividade e preencham os demais requisitos para tanto exigidos neste Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23.
 
 ###### Artigo 55.º — Inscrição - condições específicas
 
-São condições específicas para a atribuição das seguintes categorias:
+(Revogado.)
 
-a) De cavaleiro praticante - actuação em, pelo menos, cinco espectáculos tauromáquicos como cavaleiro amador e aprovação na prova de aptidão respectiva;
-
-b) De novilheiro praticante - actuação em, pelo menos, cinco espectáculos tauromáquicos como amador e aprovação na respectiva prova de aptidão:
-
-c) De bandarilheiro praticante - actuação em, pelo menos, cinco espectáculos tauromáquicos como amador e aprovação na respectiva prova de aptidão;
-
-d) De toureiro cómico - actuação em, pelo menos, cinco espectáculos como estagiário e apresentação de documento comprovativo de aptidão artística assinado por dois toureiros cómicos e três bandarilheiros;
-
-e) De moço de espada - apresentação de documento comprovativo de aptidão artística assinado por dois «matadores de touros» e dois moços de espada;
-
-f) De embolador - apresentação de documento comprovativo de aptidão artística assinado por um cavaleiro, um bandarilheiro e dois emboladores.
+> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23.
 
 ###### Artigo 56.º — Provas de aptidão
 
-1 - As provas de aptidão referidas nas alíneas a), b) e c) do artigo anterior são prestadas em festivais taurinos, novilhadas ou novilhadas populares.
+(Revogado.)
 
-2 - A prestação das provas referidas no número anterior deve ser requerida à DGEDA, devendo o requerente comprovar encontrar-se nas condições exigidas.
+> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23.
 
 ###### Artigo 57.º — Acesso a cavaleiro e bandarilheiro
 
-O acesso às categorias de cavaleiro tauromáquico e de bandarilheiro só é permitido aos indivíduos que tenham actuado, respectivamente, como cavaleiro praticante e como bandarilheiro praticante em, pelo menos, 10 espectáculos e hajam sido aprovados na respectiva prova de alternativa.
+(Revogado.)
+
+> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23.
 
 ###### Artigo 58.º — Provas de alternativa
 
-1 - As provas de alternativa são prestadas em corridas de touros.
+(Revogado.)
 
-2 - Os cavaleiros e bandarilheiros só devem tomar alternativa nas praças de 1.ª e 2.ª categorias.
+> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23.
 
 ###### Artigo 59.º — Acesso a novilheiro
 
-1 - O acesso à categoria de novilheiro é reservado aos novilheiros praticantes com, pelo menos, dois anos na categoria e que tenham actuado em, pelo menos, oito espectáculos.
+(Revogado.)
 
-2 - Só pode ser atribuída a categoria de «matador de touros» aos novilheiros que tenham obtido alternativa em corrida de touros «de morte», que terá de ser comprovada por documento passado pelo organismo competente do país onde a tomaram.
+> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23.
 
 ###### Artigo 60.º — Datas e locais das provas
 
-1 - As datas e as praças em que se realizam as provas de aptidão e de alternativa referidas neste Regulamento devem ser indicadas à DGEDA pelos respectivos candidatos.
+(Revogado.)
 
-2 - Os candidatos às categorias de cavaleiro e cavaleiro praticante são considerados como tendo estas categorias durante a prestação das provas respectivas, para efeito da composição dos elencos.
+> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23.
 
 ###### Artigo 61.º — Júris
 
-Os júris das provas de aptidão são designados pelo director-geral dos Espectáculos e do Direito de Autor, sob proposta da Comissão de Tauromaquia.
+(Revogado.)
+
+> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23.
 
 ###### Artigo 62.º — Recurso
 
-As decisões dos júris, devidamente fundamentadas, devem constar de actas assinadas por todos os membros e delas cabe recurso para o director-geral dos Espectáculos e do Direito de Autor.
+(Revogado.)
+
+> Revogado pelo/a [Lei n.º 31/2015](https://diariodarepublica.pt/dr/detalhe/lei/31-2015-67059137), publicado em 2015-04-23.
 
 ### CAPÍTULO VI — Da Comissão de Tauromaquia
 

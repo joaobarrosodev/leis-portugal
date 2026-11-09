@@ -1,0 +1,357 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:2631610:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-04-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "add2cc7aefe95d6e",
+    "e63fb18376314318",
+    "e9fe672ddde1d8b6",
+    "f4ea176b20ae1114",
+    "56f0667912c5734b",
+    "b69bab293c7ce16c",
+    "a105f8de210ff3cf",
+    "14b943dc680460df",
+    "659388c7b50e14d4",
+    "88969beb285418cd",
+    "4704d6f36f9df3e7",
+    "b57ce0b5a32bd6e3",
+    "ee5627264e064f84",
+    "d2bf62c7d55716a6",
+    "49e224f712d6985a",
+    "aabc3b2900720c37",
+    "55091de69388762a",
+    "892896e8f33efa5a",
+    "36254d1f20de7bec",
+    "3856b6fd8473c9b9",
+    "23460642d193e8f5",
+    "67aefc72318ea608",
+    "1d3ecc4e3300ef6c",
+    "75beeaff2938f98f",
+    "88ee330e611a7072",
+    "2bae39bf968f33d2",
+    "919319e99520824d",
+    "304379f5b241c0d5",
+    "4146d994680cf15b",
+    "97d476d94d8630f5"
+   ]
+  },
+  {
+   "date": "2003-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:2171638:por",
+     "title": "Portaria n.º 1129/2003 (2.ª série)",
+     "published": "2003-08-28",
+     "dre_path": "/dr/detalhe/portaria/1129-2003-2171638"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — Regulamento da organização interna dos serviços::6.º",
+    "Altera Artigo ANEXO — Regulamento da organização interna dos serviços::7.º"
+   ],
+   "fragments": [
+    "add2cc7aefe95d6e",
+    "e63fb18376314318",
+    "e9fe672ddde1d8b6",
+    "f4ea176b20ae1114",
+    "56f0667912c5734b",
+    "b69bab293c7ce16c",
+    "a105f8de210ff3cf",
+    "14b943dc680460df",
+    "659388c7b50e14d4",
+    "82d5e18908723254",
+    "2b2337a225952459",
+    "b57ce0b5a32bd6e3",
+    "ee5627264e064f84",
+    "d2bf62c7d55716a6",
+    "49e224f712d6985a",
+    "aabc3b2900720c37",
+    "55091de69388762a",
+    "892896e8f33efa5a",
+    "36254d1f20de7bec",
+    "3856b6fd8473c9b9",
+    "23460642d193e8f5",
+    "67aefc72318ea608",
+    "1d3ecc4e3300ef6c",
+    "75beeaff2938f98f",
+    "88ee330e611a7072",
+    "2bae39bf968f33d2",
+    "919319e99520824d",
+    "304379f5b241c0d5",
+    "4146d994680cf15b",
+    "97d476d94d8630f5"
+   ]
+  }
+ ],
+ "fragments": {
+  "add2cc7aefe95d6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 484/2003 (2.ª série). - Considerando a fusão realizada no [Decreto-Lei n.º 269-A/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-a-2002-401909), de 29 de Novembro, das instituições que operam na área da droga e da toxicodependência quais sejam o Instituto Português da Droga e da Toxicodependência, e o Serviço de Prevenção e Tratamento da Toxicodependência, importa dar sequência às necessidades de complementaridade e de implementação nos diferentes serviços internos de tais instituições.\n\nA fusão de tais organismos no Instituto da Droga e da Toxicodependência (IDT) deve ser feita de maneira a que a integração dos serviços internos se faça sem prejuízo da flexibilidade e coerência da sua estrutura de coordenação e de concertação das políticas prosseguidas por outras entidades com competência em matéria de luta contra a droga.\n\nProcura ainda o regulamento ora aprovado organizar os serviços do IDT, obedecendo a critérios de especialização horizontal e vertical de funções que se mostram mais adequados para a prossecução das atribuições do Instituto.\n\nNestes termos, e sob proposta do conselho de administração do IDT e ao abrigo do disposto no artigo 11.º do Decreto-Lei\n\nn.º 269-A/2002, de 29 de Novembro, e do n.º 1 do artigo 9.º dos Estatutos do Instituto da Droga e da Toxicodependência (IDT), manda o Governo, pelo Ministro da Saúde, que seja homologado o regulamento interno do Instituto da Droga e da Toxicodependência (IDT), que define a estrutura orgânica interna dos seus serviços centrais, regionais e locais, que se publica em anexo à presente portaria e que dela faz parte integrante.\n\n26 de Março de 2003. - O Ministro da Saúde, Luís Filipe Pereira."
+  },
+  "e63fb18376314318": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Regulamento da organização interna dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Regulamento da organização interna dos serviços\n\ndo Instituto da Droga e da Toxicodependência (IDT)"
+  },
+  "e9fe672ddde1d8b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "f4ea176b20ae1114": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Serviços\n\n1 - Para a prossecução das suas atribuições, o Instituto da Droga e da Toxicodependência (IDT) dispõe de serviços centrais, regionais e locais.\n\n2 - São serviços centrais:\n\na) O Departamento de Prevenção (DP);\n\nb) O Departamento de Tratamento, Redução de Danos e Reinserção (DTRDR);\n\nc) O Departamento de Planeamento e Administração Geral (DPAG);\n\nd) O Observatório de Drogas e Toxicodependências (ODT);\n\ne) O Departamento de Apoio às Comissões de Dissuasão da Toxicodependência (DACDT);\n\nf) O Gabinete de Relações Internacionais (GRI);\n\ng) O Gabinete de Estudos Jurídicos (GEJ);\n\nh) O Gabinete de Relações Exteriores (GRE);\n\ni) O Gabinete de Formação (GF);\n\nj) A Assessoria do Conselho de Administração do IDT (ACA).\n\n3 - São serviços regionais:\n\na) A Delegação Regional do Norte (DRN);\n\nb) A Delegação Regional do Centro (DRC);\n\nc) A Delegação Regional de Lisboa e Vale do Tejo (DRLVT);\n\nd) A Delegação Regional do Alentejo (DRA);\n\ne) A Delegação Regional do Algarve (DRAL).\n\n4 - São serviços locais as unidades especializadas."
+  },
+  "56f0667912c5734b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Equipas de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Equipas de trabalho\n\nQuando, em função do plano de actividades a executar, se tornar necessária a realização de determinada missão, de carácter interdepartamental e ou interdisciplinar, que não possa ser eficazmente prosseguida através dos serviços existentes, são criadas equipas de trabalho, constituídas por elementos dos diversos serviços, funcionando na directa dependência do conselho de administração, cujos objectivos, duração, hierarquia funcional interna e remunerações dos efectivos são estabelecidas no acto da respectiva criação."
+  },
+  "b69bab293c7ce16c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Níveis de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Níveis de direcção\n\n1 - Os cargos dos serviços centrais, de director-coordenador, director, responsável de gabinete, de núcleo e de unidade e chefe de área são providos por deliberação do conselho de administração por mandato idêntico aos dos seus membros, sendo equiparados, para efeitos de vencimento, a subdirector-geral, director de serviços, chefe de divisão e chefe de secção, respectivamente.\n\n2 - O cargo de delegado regional e de subdelegado regional é provido por deliberação do conselho de administração, por um mandato idêntico aos membros do conselho de administração, sendo equiparado, para efeitos de vencimento, a subdirector-geral e director de serviços, respectivamente.\n\n3 - O cargo de director de unidade especializada é provido por deliberação do conselho de administração, sob proposta do delegado regional respectivo, por um mandato idêntico ao deste, sendo equiparado, para efeitos de vencimento, a chefe de divisão, com um acréscimo remuneratório de 10% em função e na proporção do horário prestado."
+  },
+  "a105f8de210ff3cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Serviços centrais"
+  },
+  "14b943dc680460df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Departamento de Prevenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Departamento de Prevenção\n\n1 - O Departamento de Prevenção (DP) exerce as competências definidas no artigo 22.º dos Estatutos aprovados em anexo ao [Decreto-Lei n.º 269-A/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-a-2002-401909), de 29 de Novembro, adiante designados simplesmente por Estatutos, e é dirigido por um director-coordenador.\n\n2 - O DP compreende os seguintes núcleos:\n\na) O Núcleo de Planeamento e Avaliação (NPA), ao qual cabe o exercício das competências definidas nas alíneas a) a e) do artigo 22.º dos Estatutos e ainda, em colaboração com as delegações regionais, as de avaliar e fiscalizar financeira e tecnicamente os programas e projectos no domínio da prevenção da droga e das toxicodependências que tenham sido apoiados pelo IDT;\n\nb) O Núcleo de Atendimento e Informação (NAI), ao qual cabe o exercício das competências definidas na alínea f) do artigo 22.º dos Estatutos.\n\n3 - Cada um dos núcleos referidos no número anterior é dirigido por um responsável de núcleo."
+  },
+  "659388c7b50e14d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Departamento de Tratamento, Redução de Danos e Reinserção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Departamento de Tratamento, Redução de Danos e Reinserção\n\n1 - O Departamento de Tratamento, Redução de Danos e Reinserção (DTRDR) exerce as competências definidas no artigo 23.º dos Estatutos e é dirigido por um director-coordenador, nomeado nos termos do regulamento previsto no artigo 3.º do presente regulamento de entre médicos, desempenhando ainda as funções de director clínico nacional.\n\n2 - O DTRDR compreende os seguintes núcleos:\n\na) O Núcleo de Tratamento e Redução de Danos (NTRD), ao qual cabe o exercício das competências definidas nas alíneas a) e b) do n.º 1 do artigo 23.º dos Estatutos, no que ao tratamento e redução de danos se refere, e ainda a definida na alínea c) do mesmo dispositivo;\n\nb) O Núcleo de Reinserção (NR), ao qual cabe o exercício das competências definidas nas alíneas a) e b) do n.º 1 do artigo 23.º dos Estatutos, no que à reinserção se refere.\n\n3 - O NTRD e o NR são dirigidos por um responsável de núcleo."
+  },
+  "88969beb285418cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Departamento de Planeamento e Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Departamento de Planeamento e Administração Geral\n\n1 - O Departamento de Planeamento e Administração Geral (DPAG) exerce as competências definidas no artigo 24.º dos Estatutos e é dirigido por um director-coordenador.\n\n2 - O DPAG compreende as seguintes unidades:\n\na) A Unidade Económica e Financeira (UEF);\n\nb) A Unidade de Gestão de Recursos Humanos (UGRH);\n\nc) A Unidade de Informática (UI);\n\nd) A Unidade de Gestão e Planeamento (UGP);\n\ne) A Unidade de Inspecção, Fiscalização e Avaliação (UIFA).\n\n3 - A UEF é dirigida por um responsável de unidade e é constituída pela área de contabilidade, a qual exerce as competências definidas na primeira parte da alínea m) do artigo 24.º dos Estatutos, com excepção do processamento dos vencimentos, e pela área de aprovisionamento e património, a qual exerce as competências definidas na alínea l) do artigo 24.º dos Estatutos.\n\n4 - A UGRH é dirigida por um responsável de unidade e é constituída pela área de pessoal, a qual exerce as competências definidas na alínea a) e na primeira parte da alínea m), no que aos vencimentos diz respeito, do artigo 24.º dos Estatutos, pela área de gestão de concursos, a qual exerce a competência definida na segunda parte da alínea m) do artigo 24.º dos Estatutos, e pela área de expediente e arquivo, a qual exerce as competências definidas nas alíneas b), c) e d) do artigo 24.º dos Estatutos.\n\n5 - A UI é dirigida por um responsável de unidade e exerce as competências definidas nas alíneas n), o) e p) do artigo 24.º dos Estatutos.\n\n6 - A UGP é dirigida por um responsável de unidade e exerce as competências definidas nas alíneas e), g), h), i) e j) do artigo 24.º dos Estatutos.\n\n7 - A UIFA é dirigida por um responsável de unidade e tem por missão assegurar a qualidade dos serviços prestados pelas entidades ligadas à droga e toxicodependência, bem como garantir, a pedido do conselho de administração, o regular funcionamento dos serviços internos do IDT."
+  },
+  "4704d6f36f9df3e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Observatório de Drogas e Toxicodependências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Observatório de Drogas e Toxicodependências\n\n1 - É criado o Observatório de Drogas e Toxicodependências (ODT), que é dirigido por um director, ao qual compete o desenvolvimento das atribuições do IDT referidas nas alíneas e), f), g) e j) do artigo 5.º, nomeadamente através das seguintes competências:\n\na) Proceder à recolha, tratamento e divulgação dos dados reunidos nos diversos serviços da Administração Pública e organizações privadas com intervenção em matéria de droga e de toxicodependência, bem como assegurar a gestão das respectivas bases de dados;\n\nb) Estudar e desenvolver, em articulação com as instâncias competentes, metodologias de recolha e análise de dados e informação que sirvam de quadro de referência, nomeadamente para o previsto na alínea l) do artigo 29.º dos Estatutos, e que assegurem a qualidade da produção final e a comparabilidade dos mesmos;\n\nc) Proceder à recepção, tratamento e divulgação das informações previstas no artigo 12.º do [Decreto Regulamentar n.º 61/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1994-619306), de 12 de Outubro;\n\nd) Assegurar a ligação e a troca de informação com o Observatório Europeu da Droga e da Toxicodependência;\n\ne) Recolher, tratar e divulgar a informação documental científica, técnica e jurídica sobre as drogas e toxicodependências;\n\nf) Facultar, aos serviços e entidades com intervenção nesta área, dados e informações necessários à sua actividade;\n\ng) Gerir o espólio documental do IDT e assegurar o atendimento ao público que a ele se dirija;\n\nh) Apoiar a edição e divulgação das publicações do IDT;\n\ni) Desenvolver e apoiar a investigação científica sobre as drogas e as toxicodependências, por si ou através da celebração de protocolos, acordos de colaboração ou contratos com entidades, públicas ou privadas, designadamente com instituições universitárias;\n\nj) Estabelecer, em colaboração com os respectivos serviços centrais e regionais, metodologias e procedimentos de avaliação das iniciativas públicas e privadas nas áreas da prevenção, tratamento, redução de danos e reinserção, que sirvam de quadro de referência, nomeadamente para o previsto nas alíneas e) do artigo 24.º, a) do artigo 25.º e b), d), i) e l) do artigo 29.º dos Estatutos.\n\n2 - O ODT compreende os seguintes núcleos:\n\na) O Núcleo de Estatística (NE), ao qual cabe o exercício das competências previstas nas alíneas a) a c);\n\nb) O Núcleo de Informação, Publicações e Documentação (NIPD), ao qual cabe o exercício das competências previstas nas alíneas e) a h);\n\nc) O Núcleo de Investigação (NI), ao qual cabe o exercício das competências previstas nas alíneas i) e j).\n\n3 - Cada um dos núcleos referidos no número anterior é dirigido por um responsável de núcleo."
+  },
+  "b57ce0b5a32bd6e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Departamento de Apoio às Comissões para a Dissuasão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Departamento de Apoio às Comissões para a Dissuasão\n\nda Toxicodependência\n\n1 - É criado o Departamento de Apoio às Comissões de Dissuasão da Toxicodependência (DACDT), que é dirigido por um director, ao qual compete:\n\na) Apoiar o funcionamento das Comissões para a Dissuasão da Toxicodependência, designadamente o previsto no artigo 36.º do [Decreto-Lei n.º 130-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-a-2001-475755), de 23 de Abril;\n\nb) Manter o registo centralizado atinente aos processos de contra-ordenação, recolhendo e tratando a informação prevista no artigo 37.º do [Decreto-Lei n.º 130-A/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-a-2001-475755), de 23 de Abril, de forma a ser utilizada designadamente pelos serviços do IDT com competência na área de investigação, nos termos definidos pelo conselho de administração ao abrigo da [Portaria n.º 604/2001](https://diariodarepublica.pt/dr/detalhe/portaria/604-2001-364946), de 12 de Junho;\n\nc) Elaborar propostas de acções e medidas tendentes à uniformização de divergências acentuadas entre as decisões proferidas pelas comissões quando, por força do exercício das suas competências, as constate, a fim de serem submetidas ao membro do Governo responsável pela coordenação da luta contra a droga e a toxicodependência;\n\nd) Propor a adopção de medidas legislativas, regulamentares ou outras, designadamente em matéria processual, relativas ao funcionamento das comissões de dissuasão da toxicodependência e sua articulação com as restantes entidades públicas;\n\ne) Promover, em articulação com as comissões de dissuasão da toxicodependência e as restantes entidades públicas envolvidas, a elaboração de um relatório anual sobre o funcionamento das comissões.\n\n2 - O DACDT compreende o Núcleo de Apoio Técnico (NAT), ao qual compete o exercício das competências previstas nas alíneas a), b), c) e e), sendo dirigido por um responsável de núcleo."
+  },
+  "ee5627264e064f84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Gabinete de Relações Internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gabinete de Relações Internacionais\n\n1 - É criado o Gabinete de Relações Internacionais (GRI), que é dirigido por um responsável de gabinete, ao qual compete:\n\na) Elaborar ou participar na elaboração de estudos necessários à definição das políticas nacionais relativas à droga e à toxicodependência no âmbito das relações internacionais, de tipo multilateral ou bilateral;\n\nb) Estudar e analisar as implicações resultantes da participação de Portugal em acordos de cooperação multilateral ou bilateral sobre droga e toxicodependência;\n\nc) Acompanhar a preparação e execução dos acordos internacionais sobre droga e toxicodependência;\n\nd) Participar na preparação e integrar a representação portuguesa em organismos e actividades relativas à droga e à toxicodependência;\n\ne) Participar em grupos de trabalho de âmbito internacional sobre droga e toxicodependência;\n\nf) Dar parecer sobre os projectos de cooperação internacional no domínio da droga e da toxicodependência que possam ser apoiados, bem como sobre as formas de financiamento e de acompanhamento de execução dos mesmos;\n\ng) Colaborar, de acordo com as disposições legais em vigor, na execução do controlo do mercado ilícito de estupefacientes, substâncias psicotrópicas e precursores;\n\nh) Apoiar a participação de Portugal no Grupo Pompidou do Conselho da Europa, assegurando a representação nacional a nível do colectivo dos correspondentes permanentes e garantindo a colaboração nas actividades desenvolvidas pelo Grupo;\n\ni) Desenvolver e executar projectos de cooperação internacional na área da droga e toxicodependência, designadamente com os países da Comunidade de Países de Língua Portuguesa (CPLP);\n\nj) Organizar e acompanhar, em articulação com os diferentes departamentos do IDT, a visita de entidades e instituições congéneres estrangeiras ou internacionais.\n\n2 - O GRI desenvolve as suas competências sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros e da Direcção-Geral da Saúde e de acordo com os objectivos definidos para a política externa portuguesa."
+  },
+  "d2bf62c7d55716a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Gabinete de Estudos Jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Gabinete de Estudos Jurídicos\n\nÉ criado o Gabinete de Estudos Jurídicos (GEJ), que é dirigido por um responsável de gabinete, ao qual compete:\n\na) Participar na análise e preparação de projectos de diplomas legais e de regulamentos;\n\nb) Elaborar ou apreciar minutas de contratos, acordos, protocolos e despachos referentes a actos administrativos de gestão que lhe sejam solicitados;\n\nc) Preparar projectos de resposta a reclamações e recursos administrativos;\n\nd) Instruir processos, nomeadamente disciplinares, e assegurar o patrocínio judicial do IDT;\n\ne) Emitir pareceres, elaborar informações e proceder a estudos jurídicos sobre quaisquer assuntos que lhe sejam submetidos."
+  },
+  "49e224f712d6985a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Gabinete de Relações Exteriores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Gabinete de Relações Exteriores\n\nÉ criado o Gabinete de Relações Exteriores (GRE), que é dirigido por um responsável de gabinete, ao qual compete:\n\na) A concepção e desenvolvimento da imagem institucional do IDT;\n\nb) Garantir as funções de informação, relações públicas e comunicação social;\n\nc) Assegurar um sistema moderno e flexível de recolha, tratamento e divulgação da informação."
+  },
+  "aabc3b2900720c37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Gabinete de Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Gabinete de Formação\n\nÉ criado o Gabinete de Formação (GF), que é dirigido por um responsável de gabinete, ao qual compete:\n\na) Planificar, com o apoio do DPAG, do Observatório e dos serviços regionais, acções de formação para os profissionais dos diferentes serviços sectoriais e organizações privadas que actuem no domínio da droga e da toxicodependência;\n\nb) Planificar e promover, em concertação com a acção desenvolvida, designadamente, pelos serviços de saúde e de educação, acções de formação dirigidas aos profissionais ou instituições privadas com intervenção no domínio da prevenção, do tratamento e da reinserção da droga e da toxicodependência;\n\nc) Planificar e promover acções de formação dirigidas aos profissionais do IDT, de maneira a garantir uma maior qualificação;\n\nd) Acompanhar a execução das acções de formação realizadas pelas delegações regionais."
+  },
+  "55091de69388762a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Assessoria do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Assessoria do conselho de administração\n\n1 - É criada a Assessoria do conselho de administração do IDT, que é um serviço de apoio ao conselho de administração, à qual compete:\n\na) Apoiar o funcionamento do conselho de administração previsto no artigo 16.º dos Estatutos;\n\nb) Assessorar o conselho de administração em projectos especiais que não caibam apenas a um serviço do IDT;\n\nc) Coordenar e dirigir equipas de trabalho constituídas ao abrigo do disposto no artigo 2.º do presente regulamento;\n\nd) Apoiar o funcionamento do conselho técnico e científico;\n\ne) Exercer as demais competências que lhe forem delegadas pelo conselho de administração.\n\n2 - A Assessoria é constituída por pessoal livremente nomeado pelo conselho de administração, que cessa as suas funções aquando da cessação do mandato dos membros do conselho de administração."
+  },
+  "892896e8f33efa5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Serviços regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Serviços regionais"
+  },
+  "36254d1f20de7bec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Delegações regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Delegações regionais\n\n1 - As delegações regionais são serviços desconcentrados do IDT, cabendo-lhes desenvolver a sua actividade a nível regional, no âmbito das atribuições do IDT.\n\n2 - As delegações regionais são dirigidas por um delegado regional, coadjuvado por um a três subdelegados regionais, em função do volume e das especificidades de trabalho.\n\n3 - Dependentes de cada delegação regional existem unidades especializadas.\n\n4 - Os serviços desconcentrados estão sujeitos ao poder de direcção dos órgãos de administração do IDT e ao poder de tutela do Ministro da Saúde."
+  },
+  "3856b6fd8473c9b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Áreas de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Áreas de intervenção\n\nAs delegações regionais exercem a sua actividade na área territorial definida nos termos do artigo 26.º dos Estatutos."
+  },
+  "23460642d193e8f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competência\n\nÀs delegações regionais compete o exercício das competências previstas no artigo 27.º dos Estatutos."
+  },
+  "67aefc72318ea608": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Serviços\n\nAs delegações regionais compreendem os seguintes serviços:\n\na) Serviços de coordenação e apoio técnico;\n\nb) Serviços de apoio administrativo;\n\nc) Unidades especializadas."
+  },
+  "1d3ecc4e3300ef6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Competência do delegado regional e do subdelegado regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência do delegado regional e do subdelegado regional\n\n1 - Ao delegado regional compete dirigir a delegação regional e coordenar as suas actividades, designadamente:\n\na) Coordenar as actividades das unidades especializadas;\n\nb) Aplicar ao nível regional a política nacional e as orientações do IDT em matéria de prevenção, tratamento, redução de danos e reinserção social;\n\nc) Assegurar o funcionamento da delegação regional e a gestão dos meios humanos, financeiros e materiais, em articulação com os serviços centrais;\n\nd) Coordenar a execução de programas e projectos de prevenção primária, tratamento, de redução de danos e reinserção, das toxicodependências e das acções de formação desenvolvidas a nível regional;\n\ne) Propor os planos de actividades anuais e plurianuais;\n\nf) Promover a elaboração dos relatórios anuais, bem como dos relatórios periódicos de avaliação qualitativa e quantitativa das actividades;\n\ng) Emitir parecer sobre a relevância dos programas e projectos apresentados na delegação regional com vista ao seu financiamento pelo IDT;\n\nh) Participar na elaboração dos critérios e das metodologias de selecção, execução e avaliação dos programas e projectos de intervenção comunitária;\n\ni) Exercer as competências que lhe forem delegadas ou subdelegadas pelo conselho de administração do IDT.\n\n2 - Nas suas ausências, faltas e impedimentos, o delegado regional é substituído pelo subdirector regional que para o efeito for designado.\n\n3 - Os subdelegados regionais exercem as competências que neles forem delegadas ou subdelegadas pelo delegado regional."
+  },
+  "75beeaff2938f98f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Serviços de coordenação e apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Serviços de coordenação e apoio técnico\n\n1 - Aos serviços de coordenação e apoio técnico (SCAT) compete:\n\na) Apoiar o delegado regional na gestão das actividades e dos serviços da delegação regional;\n\nb) Prestar apoio técnico às unidades especializadas que estão dependentes da respectiva delegação regional;\n\nc) Promover estudos de âmbito regional, em articulação com o serviço central e o tratamento da informação que permita a elaboração de indicadores de mudança e impacte na população;\n\nd) Desenvolver as actividades necessárias relacionadas com a organização e avaliação das acções de formação;\n\ne) Apoiar os serviços da delegação regional em matéria de organização, informática e estatística das actividades;\n\nf) Elaborar os relatórios anuais e preparar os planos de actividades anuais e plurianuais da delegação regional;\n\ng) Colaborar na produção de instrumentos e materiais de apoio ou divulgação da acção preventiva;\n\nh) Planear e executar as acções de formação dirigidas aos profissionais ou instituições, públicas e privadas, com intervenção na área da prevenção primária, tratamento, redução de danos e reinserção, das toxicodependências, sempre que possível em concertação com a acção desenvolvida com outros organismos que actuem nesta área;\n\ni) Apoiar, acompanhar e ou supervisionar a execução das acções de formação realizadas neste domínio.\n\n2 - O SCAT é dirigido por um responsável de núcleo."
+  },
+  "88ee330e611a7072": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Serviços de apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Serviços de apoio administrativo\n\n1 - Aos serviços de apoio administrativo (SAA) compete:\n\na) Participar na preparação das propostas orçamentais e assegurar a elaboração de contas, em articulação com os serviços centrais;\n\nb) Assegurar o expediente necessário ao pagamento das remunerações e abonos diversos ao pessoal, em articulação com os serviços centrais;\n\nc) Promover a aquisição de bens e serviços necessários ao bom funcionamento da delegação regional, em articulação com os serviços centrais;\n\nd) Executar as tarefas inerentes à recepção, expedição e arquivo de correspondência;\n\ne) Manter a conservação, limpeza e manutenção das instalações e equipamentos;\n\nf) Gerir o respectivo contingente de viaturas;\n\ng) Manter actualizado o inventário geral dos bens afectos à delegação regional;\n\nh) Assegurar as operações de natureza administrativa relacionadas com o desenvolvimento das actividades da delegação regional.\n\n2 - O SAA é dirigido por um responsável de unidade."
+  },
+  "2bae39bf968f33d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Serviços locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Serviços locais"
+  },
+  "919319e99520824d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Unidades especializadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Unidades especializadas\n\n1 - Para a prossecução das suas atribuições, o IDT dispõe das seguintes unidades especializadas (UE):\n\na) Centros de atendimento ao toxicodependente (CAT);\n\nb) Unidades de desabituação (UD);\n\nc) Comunidades terapêuticas (CT);\n\nd) Unidades de prevenção (UP).\n\n2 - Aos CAT compete prestar cuidados compreensivos e globais a toxicodependentes, individualmente ou em grupo, seguindo as modalidades terapêuticas mais apropriadas para cada situação, em regime ambulatório.\n\n3 - Às UD compete designadamente realizar o tratamento de síndromes de privação em toxicodependentes, sob responsabilidade médica, em regime de internamento.\n\n4 - Às CT compete prestar cuidados a toxicodependentes que necessitem de internamento prolongado, com apoio psicoterapêutico e socioterapêutico, sob supervisão psiquiátrica.\n\n5 - Às UP compete executar, na área do seu distrito, as acções promovidas pela delegação regional e serviços centrais e ainda:\n\na) Colaborar, quando determinado pelo delegado regional, com outras entidades, nos termos do n.º 1 do artigo 6.º do [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), de 18 de Maio;\n\nb) Desenvolver programas e projectos com interesse no âmbito da prevenção primária das toxicodependências ao nível distrital;\n\nc) Promover a articulação interinstitucional ao nível distrital;\n\nd) Incentivar e apoiar a participação das instituições da comunidade no desenvolvimento de acções no âmbito da prevenção primária das toxicodependências.\n\n6 - Cada unidade especializada é dirigida por um director, que, no caso da prevista na alínea b) do n.º 1, é provida por médico."
+  },
+  "304379f5b241c0d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Director\n\nCompete ao director das UE assegurar a organização, a prestação e a qualidade dos serviços prestados aos utentes e, em especial:\n\na) Definir a organização da prestação de serviços e emitir orientações técnicas;\n\nb) Promover processos de garantia e de melhoria contínua da qualidade dos serviços;\n\nc) Organizar e supervisionar as actividades de formação e investigação;\n\nd) Elaborar planos de actividades anuais ou plurianuais;\n\ne) Elaborar relatórios anuais;\n\nf) Enviar à direcção regional as notas de receitas e de despesas realizadas e a estimativa das despesas a realizar no mês seguinte;\n\ng) Exercer as competências que lhe forem delegadas."
+  },
+  "4146d994680cf15b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Serviços\n\n1 - As UE dispõem de uma equipa de apoio técnico e administrativo, cuja dotação integra o quadro da respectiva direcção regional.\n\n2 - A dotação prevista no número anterior é fixada por deliberação do conselho de administração."
+  },
+  "97d476d94d8630f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Coordenação\n\nA actividade das UE deve, de acordo com as orientações das respectivas delegações regionais, ser coordenada com a dos serviços prestadores de cuidados de saúde do Serviço Nacional de Saúde."
+  },
+  "82d5e18908723254": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Departamento de Planeamento e Administração Geral",
+   "in_force_from": "2003-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1129/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/1129-2003-2171638), publicado em 2003-08-28."
+   ],
+   "markdown": "###### Artigo 6.º — Departamento de Planeamento e Administração Geral\n\n1 - O Departamento de Planeamento e Administração Geral (DPAG) exerce as competências definidas no artigo 24.º dos Estatutos e é dirigido por um director-coordenador.\n\n2 - O DPAG compreende as seguintes unidades:\n\na) A Unidade Económica e Financeira (UEF);\n\nb) A Unidade de Gestão de Recursos Humanos (UGRH);\n\nc) A Unidade de Informática (UI);\n\nd) A Unidade de Gestão e Planeamento (UGP);\n\ne) A Unidade de Inspecção, Fiscalização e Avaliação (UIFA).\n\n3 - A UEF é dirigida por um responsável de unidade e é constituída pela área de contabilidade, a qual exerce as competências definidas na primeira parte da alínea m) do artigo 24.º dos Estatutos, com excepção do processamento de vencimentos, e pelas áreas de aprovisionamento e de património, as quais exercem as competências definidas na alínea i) do artigo 24.º dos Estatutos.\n\n4 - A UGRH é dirigida por um responsável de unidade e é constituída pela área de pessoal, a qual exerce as competências definidas na alínea a) e na primeira parte da alínea m), no que aos vencimentos diz respeito, do artigo 24.º dos Estatutos, pela área de gestão de concursos, a qual exerce a competência definida na segunda parte da alínea m) do artigo 24.º dos Estatutos, e pela área de expediente e arquivo, a qual exerce as competências definidas nas alíneas b), c) e d) do artigo 24.º dos Estatutos.\n\n5 - A UI é dirigida por um responsável de unidade e exerce as competências definidas nas alíneas n), o) e p) do artigo 24.º dos Estatutos.\n\n6 - A UGP é dirigida por um responsável de unidade e exerce as competências definidas nas alíneas e), g), h), i) e j) do artigo 24.º dos Estatutos.\n\n7 - A UIFA é dirigida por um responsável de unidade e tem por missão assegurar a qualidade dos serviços prestados pelas entidades ligadas à droga e toxicodependência, bem como garantir, a pedido do conselho de administração, o regular funcionamento dos serviços internos do IDT.\n\n> Alterado pelo/a [Portaria n.º 1129/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/1129-2003-2171638), publicado em 2003-08-28."
+  },
+  "2b2337a225952459": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Observatório de Drogas e Toxicodependências",
+   "in_force_from": "2003-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1129/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/1129-2003-2171638), publicado em 2003-08-28."
+   ],
+   "markdown": "###### Artigo 7.º — Observatório de Drogas e Toxicodependências\n\n1 - É criado o Observatório de Drogas e Toxicodependências (ODT), que é dirigido por um director, ao qual compete o desenvolvimento das atribuições do IDT referidas nas alíneas e), f), g) e j) do artigo 5.º, nomeadamente através das seguintes competências:\n\na) Proceder à recolha, tratamento e divulgação dos dados reunidos nos diversos serviços da Administração Pública e organizações privadas com intervenção em matéria de droga e de toxicodependência, bem como assegurar a gestão das respectivas bases de dados;\n\nb) Estudar e desenvolver, em articulação com as instâncias competentes, metodologias de recolha e análise de dados e informação que sirvam de quadro de referência, nomeadamente para o previsto na alínea i) do artigo 27.º dos Estatutos, e que assegurem a qualidade da produção final e a comparabilidade dos mesmos;\n\nc) Proceder à recepção, tratamento e divulgação das informações previstas no artigo 12.º do [Decreto Regulamentar n.º 61/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1994-619306), de 12 de Outubro;\n\nd) Assegurar a ligação e a troca de informação com o Observatório Europeu da Droga e da Toxicodependência;\n\ne) Recolher, tratar e divulgar a informação documental científica, técnica e jurídica sobre as drogas e toxicodependências;\n\nf) Facultar, aos serviços e entidades com intervenção nesta área, dados e informações necessários à sua actividade;\n\ng) Gerir o espólio documental do IDT e assegurar o atendimento ao público que a ele se dirija;\n\nh) Apoiar a edição e divulgação das publicações do IDT;\n\ni) Desenvolver e apoiar a investigação científica sobre as drogas e as toxicodependências, por si ou através da celebração de protocolos, acordos de colaboração ou contratos com entidades, públicas ou privadas, designadamente com instituições universitárias;\n\nj) Estabelecer, em colaboração com os respectivos serviços centrais e regionais, metodologias e procedimentos de avaliação das iniciativas públicas e privadas nas áreas da prevenção, do tratamento, da redução de danos e da reinserção que sirvam de quadro de referência, nomeadamente para o previsto nas alíneas e) do artigo 22.º, a) do n.º 1 do artigo 23.º e b), c), i) e j) do artigo 27.º dos Estatutos.\n\n2 - O ODT compreende os seguintes núcleos:\n\na) O Núcleo de Estatística (NE), ao qual cabe o exercício das competências previstas nas alíneas a) a c);\n\nb) O Núcleo de Informação, Publicações e Documentação (NIPD), ao qual cabe o exercício das competências previstas nas alíneas e) a h);\n\nc) O Núcleo de Investigação (NI), ao qual cabe o exercício das competências previstas nas alíneas i) e j).\n\n3 - Cada um dos núcleos referidos no número anterior é dirigido por um responsável de núcleo.\n\n> Alterado pelo/a [Portaria n.º 1129/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/1129-2003-2171638), publicado em 2003-08-28."
+  }
+ }
+}

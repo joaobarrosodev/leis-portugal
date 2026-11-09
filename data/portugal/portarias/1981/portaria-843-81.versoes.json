@@ -1,0 +1,305 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:563797:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1981-09-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "80c0d45eb9817e98",
+    "d2e6beae211e816a",
+    "769f29caa93eed04",
+    "0284a5b5d6b2b210",
+    "025dd01f06dd1834",
+    "9ffdc3bef0c9432a",
+    "7e41e799cf21c67e",
+    "90e891de76f17b0d",
+    "b45ebaaa167376d9",
+    "20a30775f7cdf4a0",
+    "271cd39b3bba4efd",
+    "4b86045c9b80186c",
+    "ba85d6f4b29aca90",
+    "2fd7e1862b77f2f3",
+    "37d05507c5f93b78",
+    "a5815bcc54508a64",
+    "374442daaa63e610"
+   ]
+  },
+  {
+   "date": "1989-12-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:421032:por",
+     "title": "Portaria n.º 400/87",
+     "published": "1987-05-13",
+     "dre_path": "/dr/detalhe/portaria/400-1987-421032"
+    },
+    {
+     "id": "pt:dre:550461:por",
+     "title": "Portaria n.º 1073/89",
+     "published": "1989-12-13",
+     "dre_path": "/dr/detalhe/portaria/1073-1989-550461"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "80c0d45eb9817e98",
+    "d2e6beae211e816a",
+    "386c1db04f0772df",
+    "89be9870468d4ee6",
+    "c6c3f6a5a4c9dba3",
+    "3014df48ea4ba375",
+    "50ee46d7e620c9ed",
+    "6e45a385e5f80c8c",
+    "b7868188427c0c8a",
+    "20a30775f7cdf4a0",
+    "5b1245062f966e8e",
+    "67ace311d5538dcd",
+    "da3f0b80a136a43c",
+    "ff4272393b27a311",
+    "37d05507c5f93b78",
+    "a5815bcc54508a64",
+    "374442daaa63e610"
+   ]
+  }
+ ],
+ "fragments": {
+  "80c0d45eb9817e98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Setembro\n\n1 - No ano lectivo de 1975-1976, ao abrigo do regime de experiências pedagógicas ([Decreto-Lei n.º 47587](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47587-1967-503611), de 10 de Março de 1967), iniciou-se no Instituto Politécnico de Vila Real o funcionamento dos bacharelatos em Produção Agrícola, Produção Animal e Produção Florestal.\n\n2 - Pelo [Decreto-Lei n.º 183/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1978-297448), de 18 de Julho, foi reconhecida a validade da experiência pedagógica então iniciada e formalizada a criação dos referidos bacharelatos, determinando-se, no entanto, de imediato, que para os mesmos já não seriam abertas novas inscrições destinadas ao 1.º ano.\n\n3 - Pelo Despacho n.º 300/78, de 12 de Outubro, do Ministro da Educação e Cultura, foram criados cursos de Produção Agrícola, Produção Animal e Produção Florestal, que viriam a conferir, no quadro do ensino superior politécnico, o diploma de estudos superiores.\n\n4 - Pela [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), de 14 de Setembro, foi criado o Instituto Universitário de Trás-os-Montes e Alto Douro, em substituição do Instituto Politécnico de Vila Real. A referida lei prevê expressamente no n.º 1 do seu artigo 4.º que passarão a ser conferidas no Instituto Universitário de Trás-os-Montes e Alto Douro licenciaturas em Produção Agrícola, Produção Animal e Produção Florestal.\n\n5 - Torna-se, pois, necessário, em cumprimento da lei:\n\na) Aprovar os planos de estudo das licenciaturas;\n\nb) Homologar os planos de estudo dos bacharelatos que funcionaram até ao ano lectivo de 1980-1981;\n\nc) Definir as linhas gerais do regime de transição do bacharelato para a licenciatura.\n\nAo abrigo do disposto no artigo 4.º da [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), de 14 de Setembro, e do disposto no n.º 3 do artigo 2. do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Ciência:"
+  },
+  "d2e6beae211e816a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Licenciaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Licenciaturas"
+  },
+  "769f29caa93eed04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — (Organização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — (Organização)\n\nOs cursos de licenciatura em Produção Agrícola, Produção Animal e Produção Florestal do Instituto Universitário de Trás-os-Montes e Alto Douro (IUTAD), criados pelo n.º 1 do artigo 4.º da [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), de 14 de Setembro, são organizados pelo sistema de unidades de crédito."
+  },
+  "0284a5b5d6b2b210": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — (Licenciatura em Produção Agrícola)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — (Licenciatura em Produção Agrícola)\n\n1 - A área científica do curso de licenciatura em Produção Agrícola é a Produção Agrícola.\n\n2 - A duração normal do curso é de cinco anos.\n\n3 - O número total de unidades de crédito necessárias à concessão do grau é de 158, assim distribuídas:\n\n3.1 - Áreas obrigatórias:\n\na) Agronomia ... 56\n\nb) Engenharia Rural ... 12\n\nc) Física ... 7\n\nd) Química ... 7\n\ne) Matemática ... 10\n\nf) Biologia ... 20\n\ng) Geociências ... 9\n\nh) Economia e Sociologia ... 8\n\ni) Línguas Vivas Estrangeiras ... 2\n\n3.2 - Áreas opcionais:\n\na) Engenharia Rural ... 15\n\nb) Matemática ... 15\n\nc) Economia e Sociologia ... 15\n\nd) Tecnologia Alimentar ... 15\n\n3.3 - Estágio ... 12"
+  },
+  "025dd01f06dd1834": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — (Licenciatura em Produção Animal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — (Licenciatura em Produção Animal)\n\n1 - A área científica do curso de licenciatura em Produção Animal é a Produção Animal.\n\n2 - A duração normal do curso é de cinco anos.\n\n3 - O número total de unidades de crédito necessárias à concessão do grau é de 169,5, assim distribuídas.\n\n3.1 - Áreas obrigatórias:\n\na) Biologia ... 43\n\nb) Biotecnologia ... 15\n\nc) Geociências ... 12\n\nd) Economia e Sociologia ... 18,5\n\ne) Matemática ... 19\n\nf) Física ... 7\n\ng) Química ... 14\n\nh) Fitotecnia e Engenharia Rural ... 12\n\ni) Línguas Vivas Estrangeiras ... 2\n\n3.2 - Áreas opcionais:\n\na) Avicultura e Cunicultura ... 10\n\nb) Piscicultura ... 10\n\nc) Apicultura ... 10\n\nd) Aquacultura ... 5\n\ne) Silvopastorícia ... 5\n\n3.3 - Estágio ... 12"
+  },
+  "9ffdc3bef0c9432a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — (Licenciatura em Produção Florestal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — (Licenciatura em Produção Florestal)\n\n1 - A área científica do curso de licenciatura em Produção Florestal é a Produção Florestal.\n\n2 - A duração normal do curso é de cinco anos.\n\n3 - O número total de unidades de crédito necessárias à concessão do grau é de 158, assim distribuídas:\n\na) Silvicultura ... 41\n\nb) Física ... 7\n\nc) Química ... 7\n\nd) Matemática ... 21\n\ne) Biologia ... 32\n\nf) Geociências ... 15\n\ng) Economia e Sociologia ... 15,5\n\nh) Engenharia Rural ... 3\n\ni) Agronomia ... 2,5\n\nj) Línguas Vivas Estrangeiras ... 2"
+  },
+  "7e41e799cf21c67e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — (Estágio)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — (Estágio)\n\n1 - O estágio das licenciaturas tem como objectivo o desenvolvimento dos conhecimentos e das técnicas de investigação na área sobre a qual incide.\n\n2 - O estágio será objecto de regulamento, a aprovar por despacho ministerial, sob proposta do IUTAD."
+  },
+  "90e891de76f17b0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — (Precedências)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — (Precedências)\n\nA tabela e regime de precedências serão fixados pelo conselho científico, ouvido o conselho pedagógico."
+  },
+  "b45ebaaa167376d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — (Classificação final)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — (Classificação final)\n\n1 - A classificação final da licenciatura é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas e estágio que integram cada um dos planos de estudo.\n\n2 - Os coeficientes de ponderação são aprovados pelo conselho científico, ouvido o conselho pedagógico.\n\n3 - As disciplinas da área de Línguas Vivas Estrangeiras não serão objecto de classificação, sendo, no entanto, obrigatória a aprovação nas mesmas."
+  },
+  "20a30775f7cdf4a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Bacharelatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Bacharelatos"
+  },
+  "271cd39b3bba4efd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — (Planos de estudo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — (Planos de estudo)\n\n1 - São homologados os planos de estudo que vigoraram entre 1975-1976 e 1980-1981 nos bacharelatos em Produção Agrícola, Produção Animal e Produção Florestal, ministrados no Instituto Politécnico de Vila Real e posteriormente no IUTAD, aos quais se refere o artigo 1.º do [Decreto-Lei n.º 183/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1978-297448), de 18 de Julho, e que constam dos anexos I a III desta portaria.\n\n2 - Integra igualmente o plano de estudos de cada bacharelato, a título facultativo, um estágio introdutório à actividade profissional, o qual consta da aprendizagem de tecnologias (laboratoriais ou de produção) que integram conhecimentos interdisciplinares no domínio do bacharelato respectivo.\n\n3 - Este plano de estudos deixa de ser ministrado a partir do ano lectivo de 1981-1982, inclusive."
+  },
+  "4b86045c9b80186c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — (Grau de bacharel)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — (Grau de bacharel)\n\n1 - Considera-se titular do grau de bacharel o aluno que tenha obtido aprovação em todas as disciplinas constantes do plano de estudos a que se refere o artigo 8.º\n\n2 - Aos alunos que, obtida a aprovação em todas as disciplinas que integram o plano de estudos, requeiram a passagem de diploma, considerar-se-á que optaram pela não realização do estágio referido no n.º 2 do artigo 8.º\n\n3 - O grau de bacharel pelo IUTAD deixará de ser conferido a partir do final do ano lectivo de 1980-1981."
+  },
+  "ba85d6f4b29aca90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º — (Classificação final)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º — (Classificação final)\n\nA classificação final do bacharelato será a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), de todas as disciplinas constantes do plano de estudos respectivo, que terão cada uma o peso 1, e do estágio (se realizado), que terá o peso 5."
+  },
+  "2fd7e1862b77f2f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 11.º — (Transição para os planos de estudo da licenciatura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 11.º — (Transição para os planos de estudo da licenciatura)\n\nOs alunos que, tendo concluído o bacharelato, pretendam, nos termos do n.º 3 do artigo 4.º da [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), a integração na licenciatura respectiva, bem como os alunos que tenham estado inscritos no plano de estudos do bacharelato e que o não tenham concluído até ao fim do prazo a que se refere o n.º 3 do artigo 8.º e pretendam a integração na licenciatura respectiva, deverão realizar um plano de estudos de transição, a fixar pelo conselho científico, de forma a assegurar uma formação globalmente equivalente à dos planos fixados nos termos dos artigos 2.º a 4.º\n\nMinistério da Educação e Ciência, 2 de Setembro de 1981. - O Ministro da Educação e Ciência, Vítor Pereira Crespo."
+  },
+  "37d05507c5f93b78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Plano de estudos do bacharelato em Produção Agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Plano de estudos do bacharelato em Produção Agrícola\n\nCurso de Produção Agrícola\n\nGrau: bacharelato\n\nDo QUADRO I ao QUADRO VI\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf)"
+  },
+  "a5815bcc54508a64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Plano de estudos do bacharelato em Produção Animal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Plano de estudos do bacharelato em Produção Animal\n\nCurso de Produção Animal\n\nGrau: bacharelato\n\nDo QUADRO I ao QUADRO VI\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf)"
+  },
+  "374442daaa63e610": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Plano de estudos do bacharelato em Produção Florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Plano de estudos do bacharelato em Produção Florestal\n\nCurso de Produção Florestal\n\nGrau: bacharelato\n\nDo QUADRO I ao QUADRO VI\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1981/09/22000/25572561.pdf)"
+  },
+  "386c1db04f0772df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Organização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Organização)\n\nOs cursos de licenciatura em Produção Agrícola, Produção Animal e Produção Florestal do Instituto Universitário de Trás-os-Montes e Alto Douro (IUTAD), criados pelo n.º 1 do artigo 4.º da [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), de 14 de Setembro, são organizados pelo sistema de unidades de crédito."
+  },
+  "89be9870468d4ee6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Licenciatura em Produção Agrícola)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Licenciatura em Produção Agrícola)\n\n1 - A área científica do curso de licenciatura em Produção Agrícola é a Produção Agrícola.\n\n2 - A duração normal do curso é de cinco anos.\n\n3 - O número total de unidades de crédito necessárias à concessão do grau é de 158, assim distribuídas:\n\n3.1 - Áreas obrigatórias:\n\na) Agronomia ... 56\n\nb) Engenharia Rural ... 12\n\nc) Física ... 7\n\nd) Química ... 7\n\ne) Matemática ... 10\n\nf) Biologia ... 20\n\ng) Geociências ... 9\n\nh) Economia e Sociologia ... 8\n\ni) Línguas Vivas Estrangeiras ... 2\n\n3.2 - Áreas opcionais:\n\na) Engenharia Rural ... 15\n\nb) Matemática ... 15\n\nc) Economia e Sociologia ... 15\n\nd) Tecnologia Alimentar ... 15\n\n3.3 - Estágio ... 12"
+  },
+  "c6c3f6a5a4c9dba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Licenciatura em Engenharia Zootécnica",
+   "in_force_from": "1989-12-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 400/87](https://diariodarepublica.pt/dr/detalhe/portaria/400-1987-421032), publicado em 1987-05-13."
+   ],
+   "markdown": "###### Artigo 3.º — Licenciatura em Engenharia Zootécnica\n\n1 - A área científica do curso de licenciatura em Produção Animal é a Produção Animal.\n\n2 - A duração normal do curso é de cinco anos.\n\n3 - O número total de unidades de crédito necessárias à concessão do grau é de 158,5, assim distribuídas:\n\n3.1 - Áreas obrigatórias:\n\na) Biologia ... 43\n\nb) Biotecnologia ... 15\n\nc) Geociências ... 6\n\nd) Economia e Sociologia ... 18,5\n\ne) Matemática ... 19\n\nf) Física ... 7\n\ng) Química ... 14\n\nh) Fitotecnia e Engenharia Rural ... 12\n\ni) Línguas Vivas Estrangeiras ... 2\n\n3.2 - Áreas opcionais:\n\na) Avicultura e Cunicultura ... 10\n\nb) Piscicultura ... 10\n\nc) Apicultura ... 10\n\nd) Aquacultura ... 10\n\ne) Silvo-pastorícia ... 10\n\n3.3 - Estágio ... 12\n\n> Alterado pelo/a [Portaria n.º 400/87](https://diariodarepublica.pt/dr/detalhe/portaria/400-1987-421032), publicado em 1987-05-13."
+  },
+  "3014df48ea4ba375": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Licenciatura em Engenharia Florestal",
+   "in_force_from": "1989-12-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1073/89](https://diariodarepublica.pt/dr/detalhe/portaria/1073-1989-550461), publicado em 1989-12-13."
+   ],
+   "markdown": "###### Artigo 4.º — Licenciatura em Engenharia Florestal\n\n1 - A área científica do curso de licenciatura em Produção Florestal é a Produção Florestal.\n\n2 - A duração normal do curso é de cinco anos.\n\n3 - O número total de unidades de crédito necessárias à concessão do grau é de 159, assim distribuídas:\n\n3.1 - Áreas científicas obrigatórias:\n\na) Silvicultura ... 43,5\n\nb) Física ... 7\n\nc) Química ... 7\n\nd) Matemática ... 20\n\ne) Biologia ... 29,5\n\nf) Geociências ... 12\n\ng) Economia e Sociologia ... 10,5\n\nh) Engenharia Rural ... 3\n\ni) Agronomia ... 2,5\n\n3.2 - Conjunto de áreas científicas optativas:\n\na) Línguas Vivas Estrangeiras ... 12\n\nb) Biologia ... 12\n\nc) Economia e Sociologia ... 12\n\nd) Matemática ... 12\n\ne) Silvicultura ... 12\n\n3.3 - Estágio ... 12\n\n> Alterado pelo/a [Portaria n.º 1073/89](https://diariodarepublica.pt/dr/detalhe/portaria/1073-1989-550461), publicado em 1989-12-13."
+  },
+  "50ee46d7e620c9ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Estágio)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Estágio)\n\n1 - O estágio das licenciaturas tem como objectivo o desenvolvimento dos conhecimentos e das técnicas de investigação na área sobre a qual incide.\n\n2 - O estágio será objecto de regulamento, a aprovar por despacho ministerial, sob proposta do IUTAD."
+  },
+  "6e45a385e5f80c8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Precedências)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Precedências)\n\nA tabela e regime de precedências serão fixados pelo conselho científico, ouvido o conselho pedagógico."
+  },
+  "b7868188427c0c8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Classificação final)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Classificação final)\n\n1 - A classificação final da licenciatura é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas e estágio que integram cada um dos planos de estudo.\n\n2 - Os coeficientes de ponderação são aprovados pelo conselho científico, ouvido o conselho pedagógico.\n\n3 - As disciplinas da área de Línguas Vivas Estrangeiras não serão objecto de classificação, sendo, no entanto, obrigatória a aprovação nas mesmas."
+  },
+  "5b1245062f966e8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Planos de estudo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Planos de estudo)\n\n1 - São homologados os planos de estudo que vigoraram entre 1975-1976 e 1980-1981 nos bacharelatos em Produção Agrícola, Produção Animal e Produção Florestal, ministrados no Instituto Politécnico de Vila Real e posteriormente no IUTAD, aos quais se refere o artigo 1.º do [Decreto-Lei n.º 183/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1978-297448), de 18 de Julho, e que constam dos anexos I a III desta portaria.\n\n2 - Integra igualmente o plano de estudos de cada bacharelato, a título facultativo, um estágio introdutório à actividade profissional, o qual consta da aprendizagem de tecnologias (laboratoriais ou de produção) que integram conhecimentos interdisciplinares no domínio do bacharelato respectivo.\n\n3 - Este plano de estudos deixa de ser ministrado a partir do ano lectivo de 1981-1982, inclusive."
+  },
+  "67ace311d5538dcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Grau de bacharel)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Grau de bacharel)\n\n1 - Considera-se titular do grau de bacharel o aluno que tenha obtido aprovação em todas as disciplinas constantes do plano de estudos a que se refere o artigo 8.º\n\n2 - Aos alunos que, obtida a aprovação em todas as disciplinas que integram o plano de estudos, requeiram a passagem de diploma, considerar-se-á que optaram pela não realização do estágio referido no n.º 2 do artigo 8.º\n\n3 - O grau de bacharel pelo IUTAD deixará de ser conferido a partir do final do ano lectivo de 1980-1981."
+  },
+  "da3f0b80a136a43c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Classificação final)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Classificação final)\n\nA classificação final do bacharelato será a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), de todas as disciplinas constantes do plano de estudos respectivo, que terão cada uma o peso 1, e do estágio (se realizado), que terá o peso 5."
+  },
+  "ff4272393b27a311": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Transição para os planos de estudo da licenciatura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Transição para os planos de estudo da licenciatura)\n\nOs alunos que, tendo concluído o bacharelato, pretendam, nos termos do n.º 3 do artigo 4.º da [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), a integração na licenciatura respectiva, bem como os alunos que tenham estado inscritos no plano de estudos do bacharelato e que o não tenham concluído até ao fim do prazo a que se refere o n.º 3 do artigo 8.º e pretendam a integração na licenciatura respectiva, deverão realizar um plano de estudos de transição, a fixar pelo conselho científico, de forma a assegurar uma formação globalmente equivalente à dos planos fixados nos termos dos artigos 2.º a 4.º\n\nMinistério da Educação e Ciência, 2 de Setembro de 1981. - O Ministro da Educação e Ciência, Vítor Pereira Crespo."
+  }
+ }
+}

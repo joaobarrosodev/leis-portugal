@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1972-03-03'
+version_history:
+  file: decreto-lei-48340.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-04-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1972-03-03'
+    amending: pt:dre:398799:por
+    amending_title: Decreto-Lei n.º 68/72
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:05:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 68/72. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48340.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,13 +130,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º As funções de juiz militar, promotor de justiça e defensor oficioso dos tribunais militares territoriais serão exercidas por oficiais de qualquer arma ou serviço com o curso da Academia Militar ou extintas escolas suas antecessoras, no activo ou na reserva, de preferência habilitados com a licenciatura em Direito ou com prática dos serviços de justiça militar, de posto não inferior a major, no caso dos juízes militares, ou a capitão, nos restantes casos, nomeados pelo Ministro do Exército.
+###### Artigo 1.º
 
-§ único. Excepcionalmente, a nomeação para o cargo de defensor oficioso dos tribunais militares territoriais poderá recair em oficial de patente inferior a capitão desde que habilitado com a licenciatura em Direito.
+As funções de juiz militar, promotor de justiça e defensor oficioso dos tribunais militares territoriais serão exercidas por oficiais de qualquer arma ou serviço com o curso da Academia Militar ou extintas escolas suas antecessoras, no activo ou na reserva, de preferência habilitados com a licenciatura em Direito ou com prática dos serviços de justiça militar, de posto não inferior a major, no caso dos juizes militares, ou a capitão, nos restantes casos, nomeados pelo Ministro do Exército.
 
-Art. 2.º Os oficiais do quadro de complemento licenciados em Direito poderão ser nomeados para os cargos de promotor de justiça e defensor oficioso dos tribunais militares territoriais.
+§ 1.º Nas províncias ultramarinas poderá recorrer-se a militares de qualquer ramo das forças armadas, em comissão de serviço noutros Ministérios, autorizados pelo respectivo titular, mas, se assim mesmo não for possível nomear um oficial superior para o desempenho das funções de juiz militar, poderá o Ministro do Exército nomear para o cargo um capitão que preencha as condições expressas no corpo deste artigo.
 
-Art. 3.º O Ministro do Exército poderá delegar nos comandantes das regiões militares e comandos territoriais independentes, no todo ou em parte, a competência prevista no artigo 1.º
+§ 2.º Excepcionalmente, a nomeação para o cargo de defensor oficioso dos tribunais militares territoriais poderá recair em oficial de patente inferior a capitão desde que habilitado com a licenciatura em Direito.
+
+> Alterado pelo/a [Decreto-Lei n.º 68/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1972-398799), publicado em 1972-03-03.
+
+###### Artigo 2.º
+
+Os oficiais do quadro de complemento licenciados em Direito poderão ser nomeados para os cargos de promotor de justiça e defensor oficioso dos tribunais militares territoriais.
+
+###### Artigo 3.º
+
+O Ministro do Exército poderá delegar nos comandantes das regiões militares e comandos territoriais independentes, no todo ou em parte, a competência prevista no artigo 1.º
 
 Publique-se e cumpra-se como nele se contém.
 

@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-07-19'
+version_history:
+  file: decreto-lei-678-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-12-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-07-19'
+    amending: pt:dre:297402:por
+    amending_title: Decreto-Lei n.º 194/78
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:47:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 194/78. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-678-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,21 +147,33 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O disposto nos artigos 45.º a 125.º do Código Penal e Disciplinar da Marinha Mercante não se aplica aos indivíduos mencionados nas alíneas a) e d) do artigo 44.º do referido Código.
+###### Artigo 1.º
 
-Art. 2.º - 1. Em relação aos indivíduos abrangidos pelo artigo anterior, a competência em matéria disciplinar caberá a um conselho de disciplina constituído a bordo.
+O disposto nos artigos 45.º a 125.º do Código Penal e Disciplinar da Marinha Mercante não se aplica aos indivíduos mencionados nas alíneas a) e d) do artigo 44.º do referido Código.
 
-2. Desse conselho de disciplina fará parte o comandante, mestre ou arrais da embarcação, que presidirá e terá voto de qualidade.
+###### Artigo 2.º
 
-3. Nos navios com mais de quinze tripulantes integrarão o conselho de disciplina, além do comandante, dois trabalhadores dos oficiais, dois trabalhadores da mestrança e dois trabalhadores da marinhagem.
+1 - Em relação aos indivíduos abrangidos pelo artigo anterior, a competência em matéria disciplinar caberá ao armador ou ao comandante, mestre ou arrais da embarcação como seu representante legal.
 
-4. Nos navios com quinze ou menos tripulantes integrarão o conselho de disciplina, além do comandante, mestre ou arrais, um trabalhador dos oficiais, um trabalhador da mestrança e dois da marinhagem.
+2 - A entidade a quem cabe o exercício do poder disciplinar ouvirá, antes da decisão final, o conselho de disciplina, quando exista, o qual se pronunciará, mediante parecer fundamentado, no prazo de dois dias úteis a contar da data em que o processo lhe seja entregue por cópia.
 
-5. A eleição dos membros do conselho de disciplina é feita por escrutínio secreto, entre os trabalhadores dos oficiais, mestrança e marinhagem, que elegem os respectivos representantes.
+3 - Para efeitos do disposto nos números anteriores, poderão ser constituídos conselhos de disciplina a bordo.
 
-Art. 3.º São revogados os artigos 49.º a 58.º e 69.º a 90.º do Código.
+4 - Nos navios com mais de quinze tripulantes, integrarão o conselho de disciplina dois trabalhadores dos oficiais, dois trabalhadores da mestrança e dois trabalhadores da marinhagem.
 
-Art. 4.º As penas aplicáveis por faltas disciplinares, qualquer que seja a qualidade do infractor, são as seguintes:
+5 - Nos navios com quinze ou menos tripulantes, integrarão o conselho de disciplina um trabalhador dos oficiais, um trabalhador da mestrança e dois trabalhadores da marinhagem.
+
+6 - A eleição dos membros do conselho de disciplina é feita por escrutínio secreto, entre os trabalhadores dos oficiais, mestrança e marinhagem, que elegem os respectivos representantes.
+
+> Alterado pelo/a [Decreto-Lei n.º 194/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1978-297402), publicado em 1978-07-19.
+
+###### Artigo 3.º
+
+São revogados os artigos 49.º a 58.º e 69.º a 90.º do Código.
+
+###### Artigo 4.º
+
+As penas aplicáveis por faltas disciplinares, qualquer que seja a qualidade do infractor, são as seguintes:
 
 1.º Admoestação;
 
@@ -155,25 +183,39 @@ Art. 4.º As penas aplicáveis por faltas disciplinares, qualquer que seja a qua
 
 4.º Multa de 300$00 a 10000$00, se o infractor não for tripulante.
 
-Art. 5.º - 1. As penas dos n.os 1.º e 2.º serão aplicadas por faltas leves.
+###### Artigo 5.º
+
+1. As penas dos n.os 1.º e 2.º serão aplicadas por faltas leves.
 
 2. A pena de multa será aplicada por faltas mais graves, devendo ser graduada conforme tenha havido intenção ou mera negligência.
 
 3. Na fixação ou graduação das penas serão tidas como agravantes a sucessão, a acumulação de infracções e a reincidência.
 
-Art. 6.º Não poderá ser aplicada qualquer pena sem audiência prévia do arguido, podendo este apresentar os meios de defesa que achar convenientes.
+###### Artigo 6.º
 
-Art. 7.º - 1. Das penas aplicadas pelo conselho de disciplina cabe recurso para o conselho disciplinar da Federação dos Sindicatos do Mar.
+Não poderá ser aplicada qualquer pena sem audiência prévia do arguido, podendo este apresentar os meios de defesa que achar convenientes.
 
-2. Quando os arguidos sejam pescadores, o conselho disciplinar da Federação dos Sindicatos do Mar será ampliado com representante do respectivo sindicato.
+###### Artigo 7.º
 
-Art. 8.º As importâncias provenientes da aplicação da pena de multa reverterão a favor do Fundo de Desemprego.
+Das penas aplicadas cabe recurso, nos termos gerais de direito.
 
-Art. 9.º Mantêm-se em vigor as disposições do Código Penal e Disciplinar da Marinha Mercante em tudo aquilo que não seja contrariado pelo disposto neste diploma.
+> Alterado pelo/a [Decreto-Lei n.º 194/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1978-297402), publicado em 1978-07-19.
 
-Art. 10.º A competência dos tribunais marítimos em matéria penal mantém-se até à revisão do Código Penal e Disciplinar da Marinha Mercante.
+###### Artigo 8.º
 
-Art. 11.º Este diploma entra em vigor na data da publicação.
+As importâncias provenientes da aplicação da pena de multa reverterão a favor do Fundo de Desemprego.
+
+###### Artigo 9.º
+
+Mantêm-se em vigor as disposições do Código Penal e Disciplinar da Marinha Mercante em tudo aquilo que não seja contrariado pelo disposto neste diploma.
+
+###### Artigo 10.º
+
+A competência dos tribunais marítimos em matéria penal mantém-se até à revisão do Código Penal e Disciplinar da Marinha Mercante.
+
+###### Artigo 11.º
+
+Este diploma entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - António Poppe Lopes Cardoso - Walter Ruivo Pinto Gomes Rosa - João Pedro Tomás Rosa.
 

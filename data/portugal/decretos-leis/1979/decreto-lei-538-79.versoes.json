@@ -1,0 +1,254 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:230891:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a0e3ff5fcbb0cd12"
+   ]
+  },
+  {
+   "date": "1981-07-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:647322:por",
+     "title": "Decreto-Lei n.º 187-D/80",
+     "published": "1980-06-14",
+     "dre_path": "/dr/detalhe/decreto-lei/187-d-1980-647322"
+    },
+    {
+     "id": "pt:dre:579969:por",
+     "title": "Decreto-Lei n.º 220/81",
+     "published": "1981-07-16",
+     "dre_path": "/dr/detalhe/decreto-lei/220-1981-579969"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 19.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "fe1a1af1d1a1342a",
+    "ed1c421e5adff464",
+    "0b2cd91ed7fb7d16",
+    "b35648f4ff6e4ec4",
+    "21ffccb9cc6677b3",
+    "23c6316e4c27d698",
+    "4bcb1abc89b3cf44",
+    "ce0dd35a100eb37e",
+    "00239745973acd36",
+    "d5442f81e27fc3c8",
+    "1d40b070c395fd2e",
+    "7a1eeb64a78335a6",
+    "435f46d85cfacb6a",
+    "3dc70e52fddd8c0f",
+    "260fa471d34bee46",
+    "5aa81e48e5de40e8",
+    "74c5bd32313d29c9",
+    "925c457fab3edca5",
+    "4670f215ec6234a2",
+    "3b65ab4c519be408",
+    "052fe24c7b62f1c9",
+    "ad8387b33925004c"
+   ]
+  }
+ ],
+ "fragments": {
+  "a0e3ff5fcbb0cd12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro\n\nConsiderando a necessidade de assegurar um efectivo cumprimento da escolaridade obrigatória em toda a sua amplitude e relativamente a todas as crianças portuguesas;\n\nConsiderando igualmente a necessidade de se criarem condições que propiciem esse cumprimento da escolaridade;\n\nConsiderando ainda que a incapacidade para concluir a escolaridade obrigatória e as limitações no campo escolar não correspondem necessariamente a manifesta incapacidade para o exercício de determinadas actividades e a ausência de aptidões profissionais, pelo que não poderão os deficientes em tais circunstâncias ser privados do dever e do direito ao trabalho:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º - 1 - O ensino básico é universal, obrigatório e gratuito.\n\n2 - O ensino básico abrange os seis primeiros anos de escolaridade.\n\nArt. 2.º - 1 - É garantida, para todas as crianças residentes em território português, a escolarização correspondente ao ensino básico, ainda que por utilização de recursos múltiplos.\n\n2 - O Estado assegurará o cumprimento da escolaridade obrigatória às crianças que careçam de ensino especial, para o que promoverá uma cuidada despistagem dessas crianças, expandirá o ensino básico especial e o apoio às respectivas escolas e intensificará a formação dos correspondentes docentes e pessoal técnico.\n\n3 - A iniciativa do Estado no domínio da escolaridade obrigatória, relativamente às crianças residentes em território português, concretizar-se-á pela acção conjunta dos órgãos da Administração Central, das Regiões Autónomas e da Administração Regional e Local, com respeito pelo princípio da descentralização administrativa.\n\nArt. 3.º O Estado promoverá gradualmente, relativamente às crianças portuguesas residentes no estrangeiro, a difusão de cursos de língua e cultura portuguesa de nível básico, o apoio de escolas portuguesas e a organização do ensino básico por meios de ensino a distância, nomeadamente ensino por correspondência apoiado por meios áudio-visuais.\n\nArt. 4.º - 1 - A frequência do ensino básico é obrigatória para todos os menores em idade escolar.\n\n2 - A idade escolar é fixada entre os 6 anos completos e os 14 anos.\n\n3 - Ficam sujeitos à obrigatoriedade de matrícula em cada ano escolar os menores que completarem 6 anos até 30 de Setembro do ano civil em que o ano escolar tiver início.\n\n4 - A idade escolar considera-se terminada com a obtenção do diploma da escolaridade obrigatória ou, não o tendo obtido, no termo do ano escolar em que os menores atinjam a idade determinada como limite superior da escolaridade obrigatória.\n\nArt. 5.º - 1 - O âmbito da escolaridade obrigatória poderá em qualquer momento ser ampliado, por decisão do Governo, logo que estejam reunidas as condições financeiras e estruturais para uma efectiva cobertura total do território português e as condições sócio-económicas para um efectivo cumprimento dessa escolaridade, ou por decisão da Assembleia da República, nomeadamente mediante nova Lei de Bases da Educação.\n\n2 - O alargamento do âmbito da escolaridade obrigatória provocará o alargamento da idade escolar, o que deverá ser determinado por decreto-lei.\n\nArt. 6.º - 1 - A matrícula e a frequência até final da escolaridade obrigatória poderão ser dispensadas quando se verificar incapacidade comprovada.\n\n2 - Para o efeito referido no número anterior, os encarregados de educação apresentarão na escola respectiva um pedido de dispensa da frequência escolar, o qual, através dos delegados de zona escolar, será encaminhado para os Centros de Medicina Pedagógica de Lisboa, Porto e Coimbra e, nas restantes zonas, para as unidades de apoio médico da Direcção-Geral de Apoio Médico ou, onde estas ainda não estiverem implantadas, para os centros de saúde do Ministério dos Assuntos Sociais.\n\n3 - Caberá aos serviços enunciados no número anterior promover a observação dos alunos para fins de dispensa da frequência escolar obrigatória total e emitir o correspondente parecer.\n\n4 - O reconhecimento da impossibilidade de frequência total do ensino obrigatório e a dispensa das habilitações a que se refere o n.º 1 deste artigo serão obtidos, caso a caso, por despacho do Ministro que superintender no sector em que se integra o estabelecimento de ensino.\n\nArt. 7.º - 1 - O ensino básico para os menores referidos nos n.os 1 e 2 do artigo 2.º é ministrado em escolas públicas e em escolas particulares ou cooperativas, incluindo os postos de recepção do ensino preparatório TV, e em regime de ensino individual ou de ensino doméstico.\n\n2 - O ensino básico é gratuito nas escolas públicas e nas escolas particulares ou cooperativas com as quais o Estado mantenha contratos com esse objectivo.\n\nArt. 8.º - 1 - A gratuitidade do ensino básico envolve:\n\na) Isenção do pagamento de propinas, de inscrição, de matrícula, de frequência e de exames;\n\nb) Transportes gratuitos em áreas suburbanas, sempre que os alunos residam a mais de 3 km ou 4 km da escola, respectivamente nos casos de escolas sem cantina ou com cantina;\n\nc) Suplemento alimentar fornecido aos alunos do ensino primário e do ensino preparatório TV;\n\nd) Alimentação e alojamento, quando necessários, fornecidos em condições fortemente bonificadas;\n\ne) Auxílios económicos directos, no caso de crianças cujas dificuldades económicas do agregado familiar constituam obstáculos à frequência escolar;\n\nf) Isenção do imposto do selo e de emolumentos nos documentos que lhes digam respeito, à excepção do previsto no n.º 2 do artigo 11.º do presente diploma.\n\n2 - O Estado, à medida que as disponibilidades orçamentais do Ministério da Educação o forem permitindo, procurará ampliar os auxílios económicos directos e procurará ainda assegurar a extensão da gratuitidade total de ensino às seguintes áreas: material escolar, alimentação e alojamento.\n\nArt. 9.º - 1 - Salvo disposição em contrário, a matrícula deve efectuar-se no estabelecimento escolar ou na delegação de zona escolar da área pedagógica da residência do aluno.\n\n2 - Constitui dever dos encarregados de educação proceder à matrícula e garantir a regularidade da frequência dos menores a seu cargo sujeitos à escolaridade obrigatória.\n\n3 - Para efeitos do presente diploma, consideram-se encarregados de educação os que tiverem menores à sua guarda por detenção do poder paternal, por decisão judicial ou por mera autoridade de facto.\n\nArt. 10.º - 1 - Aos alunos que concluírem com aproveitamento a escolaridade obrigatória de seis anos será atribuído gratuitamente, mediante requerimento isento do imposto do selo, o respectivo diploma.\n\n2 - Os alunos que concluírem com aproveitamento os cursos supletivos do ensino preparatório terão igualmente direito ao diploma de escolaridade obrigatória.\n\n3 - O diploma será passado em modelo de fundo reticulado, fixado pela Direcção-Geral do Ensino Básico e editado pela Imprensa Nacional-Casa da Moeda.\n\n4 - A habilitação a que este artigo se refere é condição indispensável para a sequência de estudos.\n\nArt. 11.º - 1 - Não será passado qualquer diploma correspondente a parte da escolaridade obrigatória de seis anos.\n\n2 - Em relação a qualquer fase ou ano de escolaridade pode ser passada certidão de habilitações aos alunos que mediante requerimento a solicitem.\n\n3 - Aos alunos que tenham frequentado o ensino básico com regularidade, durante a idade escolar, sem conseguirem concluí-lo com aproveitamento, será passado certificado comprovativo dessa frequência, com indicação do nível de escolaridade atingido.\n\n4 - Aos alunos dispensados da frequência total do ensino obrigatório, nos termos do artigo 6.º deste diploma, será passado, pela Direcção-Geral do Ensino Básico, certificado comprovativo do aproveitamento escolar obtido, do qual constará a indicação da incapacidade que fundamentou a dispensa.\n\n5 - Sempre que os alunos dispensados nos termos do artigo 6.º deste diploma frequentem estabelecimento público de educação não integrado no Ministério da Educação, competirá àquele estabelecimento passar os certificados referidos no número anterior.\n\nArt. 12.º - 1 - Aos indivíduos nascidos a partir de 1 de Janeiro de 1967 é já exigida a posse do diploma a que se refere o artigo 10.º do presente decreto-lei, para efeitos de:\n\na) Desempenho de quaisquer actividades em organismos públicos centrais, regionais ou locais, sem prejuízo das habilitações legais superiores exigidas por lei;\n\nb) Emprego em actividades nacionalizadas ou privadas;\n\nc) Entrada em competições oficiais desportivas;\n\nd) Exercício de funções directivas em associações ou clubes desportivos, recreativos ou culturais;\n\ne) Obtenção de carta de condução.\n\n2 - Ao disposto no número anterior exceptuam-se, com o condicionalismo expresso no número seguinte, os indivíduos que se encontrem nas condições dos n.os 3 e 4 do artigo 11.º do presente diploma, para os quais o diploma de habilitações é substituído pelos certificados aí referidos.\n\n3 - Para os efeitos referidos na alínea e) do n.º 1, aos mesmos indivíduos será, entretanto, exigida a prestação de provas adequadas comprovativas de habilitações suficientes.\n\n4 - A nenhum indivíduo que se encontre nas condições referidas no n.º 3 do artigo 11.º ou que seja portador de deficiência física, sensorial ou motora poderá ser negado o direito ao trabalho, independentemente do grau de escolaridade atingido, desde que tenha a idade mínima de 14 anos e que, no segundo caso, possua condições devidamente comprovadas para o exercício de uma determinada profissão ou actividade.\n\n5 - A confirmação a que se refere o número anterior será documentada por certificado da alegada insuficiência e da aptidão profissional de que o aluno é possuidor.\n\n6 - No exercício de uma actividade, e uma vez satisfeitas as condições previstas no número anterior, o deficiente será abrangido pelos mesmos direitos comuns aos restantes trabalhadores, consignados na lei ou nas convenções gerais de trabalho ou estabelecidos pela entidade patronal, designadamente o de promoção, desde que a exigência de habilitação escolar seja a da escolaridade obrigatória e que o grau de responsabilidade das novas funções não implique condições específicas que o deficiente não satisfaça.\n\nArt. 13.º - 1 - Aos indivíduos nascidos anteriormente à data fixada no n.º 1 do artigo 12.º é apenas exigida, para todos os efeitos ali determinados, a posse do antigo diploma de habilitação da 4.ª classe do ensino primário.\n\n2 - Mediante uma autorização da Direcção-Geral da Educação Permanente, são dispensados da apresentação do diploma da 4.ª classe os indivíduos maiores de 14 anos à data da publicação do presente diploma, desde que se encontrem numa das situações abaixo indicadas devidamente justificados pela idade, saúde ou condições de vida:\n\n1.º Comprovarem possuir o exame da 3.ª classe das classes de ensino especial ou serem recuperados no Instituto Adolfo Coelho e noutras instituições similares e destinarem-se a profissões especiais e em casos bem definidos;\n\n2.º Já se encontrarem na situação de funcionários ou de assalariados dos quadros ou além dos quadros para efeitos de manutenção dos lugares que ocupam ou de promoção nos mesmos quadros;\n\n3.º Mediante exame feito nos dispensários do Instituto da Assistência Psiquiátrica ou no Instituto António Aurélio da Costa Ferreira, comprovarem não possuir desenvolvimento mental suficiente para adquirirem as habilitações normalmente exigidas e destinarem-se a profissões especiais e em casos bem definidos.\n\nArt. 14.º - 1 - No prosseguimento do objectivo do presente decreto-lei, as autarquias locais procederão anualmente, com a colaboração das estruturas próprias do Ministério da Educação e demais serviços e órgãos interessados, ao recenseamento das crianças em idade escolar que se não encontrem matriculadas nos ensinos público, particular ou cooperativo.\n\n2 - O Governo regulamentará por diploma, no prazo de noventa dias, a forma de contrôle do cumprimento da escolaridade obrigatória por todos os menores em idade escolar não abrangidos na alínea b) do n.º 3 do artigo 15.º\n\nArt. 15.º - 1 - dever de todos os cidadãos, e mais especificamente dos educadores de infância, dos professores e de todas as autoridades, actuar junto dos encarregados de educação que não dêem cumprimento às disposições relativas à escolaridade obrigatória, esclarecendo-os sobre os seus deveres e sensibilizando-os para o valor pessoal e social do cumprimento da escolaridade.\n\n2 - O cumprimento das obrigações que, nos termos do presente diploma, incumbem aos encarregados de educação constitui condição indispensável para a atribuição e processamento do abono de família.\n\n3 - Para efeitos do disposto neste artigo:\n\na) Os encarregados de educação entregarão anualmente, na entidade ou serviço processador do abono de família, certificado comprovativo da matrícula dos menores sujeitos à escolaridade obrigatória ou da dispensa de frequência, no prazo do estabelecido em regulamento;\n\nb) As direcções de distrito escolar ou direcções escolares, os órgãos de gestão das escolas de ensino preparatório e os responsáveis pelos estabelecimentos de ensino particular ou cooperativo enviarão mensalmente às entidades ou serviços processadores de abono de família nota dos beneficiários cujos educandos tenham faltado, no mês anterior, mais de três dias, sem motivo devidamente justificado nos termos da legislação vigente.\n\nArt. 16.º - 1 - As infracções ao disposto no artigo 12.º do presente diploma implicam para as entidades ou serviços contratadores ou infractores as seguintes consequências:\n\na) Instauração de procedimento disciplinar, quando se trate de serviços do Estado ou das autarquias locais;\n\nb) Pagamento de multa a fixar entre 50000$00 e 200000$00, em todos os outros casos.\n\n2 - Os actos praticados em contravenção ao disposto no presente diploma consideram-se juridicamente inexistentes.\n\n3 - Nos casos de reincidência, a pena de multa a aplicar não poderá ser inferior a metade do máximo previsto na aliena b) do n.º 1.\n\nArt. 17.º - 1 - A prestação de falsas declarações em matéria de escolaridade obrigatória integra o crime previsto e punido no artigo 242.º do Código Penal.\n\n2 - Para efeitos do disposto no número anterior, as entidades escolares competentes farão a respectiva comunicação ao tribunal da comarca.\n\nArt. 18.º Os indivíduos ou entidades privadas que admitam, durante as horas lectivas, em salas de espectáculos ou outros lugares de divertimento, menores sujeitos ao cumprimento da frequência escolar obrigatória ou os empreguem durante essas horas incorrem na multa prevista na alínea b) do artigo 16.º do presente diploma, a qual nunca será inferior a 100000$00.\n\nArt. 19.º A posse dos diplomas previstos nos artigos 10.º ou 13.º, consoante a idade, ou de qualquer dos certificados previstos nos n.os 3 e 4 do artigo 11.º do presente decreto-lei, constitui condição indispensável para a passagem de autorização para emigração.\n\nArt. 20.º - 1 - São revogados:\n\na) Os artigos 1.º a 4.º, 10.º e 12.º a 16.º do [Decreto-Lei n.º 38968](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38968-1952-249177), de 27 de Outubro de 1952;\n\nb) Os artigos 1.º, 2.º e 19.º a 26.º do [Decreto-Lei n.º 40964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40964-1956-293489), de 31 de Dezembro de 1956;\n\nc) O [Decreto-Lei n.º 42443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42443-1959-432253), de 10 de Agosto de 1959;\n\nd) O [Decreto-Lei n.º 42994](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42994-1960-504301), de 28 de Maio de 1960;\n\ne) O artigo 4.º do [Decreto-Lei n.º 45810](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45810-1964-578769), de 9 de Julho de 1964:\n\nf) O [Decreto-Lei n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1978-468838), de 11 de Janeiro.\n\n2 - Mantém-se em vigor a matéria regulamentar constante do Decreto n.º 38969, de 27 de Outubro de 1952, e legislação complementar, em tudo o que for compatível com o presente diploma e enquanto não for publicado novo regulamento.\n\nArt. 21.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 6 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Luís Eugénio Caldas Veiga da Cunha.\n\nPromulgado em 31 de Dezembro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "fe1a1af1d1a1342a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro\n\nConsiderando a necessidade de assegurar um efectivo cumprimento da escolaridade obrigatória em toda a sua amplitude e relativamente a todas as crianças portuguesas;\n\nConsiderando igualmente a necessidade de se criarem condições que propiciem esse cumprimento da escolaridade;\n\nConsiderando ainda que a incapacidade para concluir a escolaridade obrigatória e as limitações no campo escolar não correspondem necessariamente a manifesta incapacidade para o exercício de determinadas actividades e a ausência de aptidões profissionais, pelo que não poderão os deficientes em tais circunstâncias ser privados do dever e do direito ao trabalho:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "ed1c421e5adff464": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - O ensino básico é universal, obrigatório e gratuito.\n\n2 - O ensino básico abrange os seis primeiros anos de escolaridade."
+  },
+  "0b2cd91ed7fb7d16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - É garantida, para todas as crianças residentes em território português, a escolarização correspondente ao ensino básico, ainda que por utilização de recursos múltiplos.\n\n2 - O Estado assegurará o cumprimento da escolaridade obrigatória às crianças que careçam de ensino especial, para o que promoverá uma cuidada despistagem dessas crianças, expandirá o ensino básico especial e o apoio às respectivas escolas e intensificará a formação dos correspondentes docentes e pessoal técnico.\n\n3 - A iniciativa do Estado no domínio da escolaridade obrigatória, relativamente às crianças residentes em território português, concretizar-se-á pela acção conjunta dos órgãos da Administração Central, das Regiões Autónomas e da Administração Regional e Local, com respeito pelo princípio da descentralização administrativa."
+  },
+  "b35648f4ff6e4ec4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Estado promoverá gradualmente, relativamente às crianças portuguesas residentes no estrangeiro, a difusão de cursos de língua e cultura portuguesa de nível básico, o apoio de escolas portuguesas e a organização do ensino básico por meios de ensino a distância, nomeadamente ensino por correspondência apoiado por meios áudio-visuais."
+  },
+  "21ffccb9cc6677b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1981-07-16",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 220/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1981-579969), publicado em 1981-07-16."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - A frequência do ensino básico é obrigatória para todos os menores em idade escolar.\n\n2 - A idade escolar é fixada entre os 6 anos completos e os 14 anos.\n\n3 - Ficam sujeitos à obrigatoriedade de matrícula em cada ano escolar os menores que completarem 6 anos até 31 de Dezembro do ano civil em que o ano escolar tiver início.\n\n4 - Poderão ainda ser matriculados, a título voluntário, os menores que completem os referidos seis anos, até 31 de Dezembro do mesmo ano.\n\n5 - A idade escolar considera-se terminada com a obtenção do diploma de escolaridade obrigatória ou, não o tendo obtido, no termo do ano escolar em que os menores atinjam a idade determinada como limite superior da escolaridade obrigatória.\n\n> Alterado pelo/a [Decreto-Lei n.º 220/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1981-579969), publicado em 1981-07-16."
+  },
+  "23c6316e4c27d698": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O âmbito da escolaridade obrigatória poderá em qualquer momento ser ampliado, por decisão do Governo, logo que estejam reunidas as condições financeiras e estruturais para uma efectiva cobertura total do território português e as condições sócio-económicas para um efectivo cumprimento dessa escolaridade, ou por decisão da Assembleia da República, nomeadamente mediante nova Lei de Bases da Educação.\n\n2 - O alargamento do âmbito da escolaridade obrigatória provocará o alargamento da idade escolar, o que deverá ser determinado por decreto-lei."
+  },
+  "4bcb1abc89b3cf44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - A matrícula e a frequência até final da escolaridade obrigatória poderão ser dispensadas quando se verificar incapacidade comprovada.\n\n2 - Para o efeito referido no número anterior, os encarregados de educação apresentarão na escola respectiva um pedido de dispensa da frequência escolar, o qual, através dos delegados de zona escolar, será encaminhado para os Centros de Medicina Pedagógica de Lisboa, Porto e Coimbra e, nas restantes zonas, para as unidades de apoio médico da Direcção-Geral de Apoio Médico ou, onde estas ainda não estiverem implantadas, para os centros de saúde do Ministério dos Assuntos Sociais.\n\n3 - Caberá aos serviços enunciados no número anterior promover a observação dos alunos para fins de dispensa da frequência escolar obrigatória total e emitir o correspondente parecer.\n\n4 - O reconhecimento da impossibilidade de frequência total do ensino obrigatório e a dispensa das habilitações a que se refere o n.º 1 deste artigo serão obtidos, caso a caso, por despacho do Ministro que superintender no sector em que se integra o estabelecimento de ensino."
+  },
+  "ce0dd35a100eb37e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O ensino básico para os menores referidos nos n.os 1 e 2 do artigo 2.º é ministrado em escolas públicas e em escolas particulares ou cooperativas, incluindo os postos de recepção do ensino preparatório TV, e em regime de ensino individual ou de ensino doméstico.\n\n2 - O ensino básico é gratuito nas escolas públicas e nas escolas particulares ou cooperativas com as quais o Estado mantenha contratos com esse objectivo."
+  },
+  "00239745973acd36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - A gratuitidade do ensino básico envolve:\n\na) Isenção do pagamento de propinas, de inscrição, de matrícula, de frequência e de exames;\n\nb) Transportes gratuitos em áreas suburbanas, sempre que os alunos residam a mais de 3 km ou 4 km da escola, respectivamente nos casos de escolas sem cantina ou com cantina;\n\nc) Suplemento alimentar fornecido aos alunos do ensino primário e do ensino preparatório TV;\n\nd) Alimentação e alojamento, quando necessários, fornecidos em condições fortemente bonificadas;\n\ne) Auxílios económicos directos, no caso de crianças cujas dificuldades económicas do agregado familiar constituam obstáculos à frequência escolar;\n\nf) Isenção do imposto do selo e de emolumentos nos documentos que lhes digam respeito, à excepção do previsto no n.º 2 do artigo 11.º do presente diploma.\n\n2 - O Estado, à medida que as disponibilidades orçamentais do Ministério da Educação o forem permitindo, procurará ampliar os auxílios económicos directos e procurará ainda assegurar a extensão da gratuitidade total de ensino às seguintes áreas: material escolar, alimentação e alojamento."
+  },
+  "d5442f81e27fc3c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Salvo disposição em contrário, a matrícula deve efectuar-se no estabelecimento escolar ou na delegação de zona escolar da área pedagógica da residência do aluno.\n\n2 - Constitui dever dos encarregados de educação proceder à matrícula e garantir a regularidade da frequência dos menores a seu cargo sujeitos à escolaridade obrigatória.\n\n3 - Para efeitos do presente diploma, consideram-se encarregados de educação os que tiverem menores à sua guarda por detenção do poder paternal, por decisão judicial ou por mera autoridade de facto."
+  },
+  "1d40b070c395fd2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Aos alunos que concluírem com aproveitamento a escolaridade obrigatória de seis anos será atribuído gratuitamente, mediante requerimento isento do imposto do selo, o respectivo diploma.\n\n2 - Os alunos que concluírem com aproveitamento os cursos supletivos do ensino preparatório terão igualmente direito ao diploma de escolaridade obrigatória.\n\n3 - O diploma será passado em modelo de fundo reticulado, fixado pela Direcção-Geral do Ensino Básico e editado pela Imprensa Nacional-Casa da Moeda.\n\n4 - A habilitação a que este artigo se refere é condição indispensável para a sequência de estudos."
+  },
+  "7a1eeb64a78335a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - Não será passado qualquer diploma correspondente a parte da escolaridade obrigatória de seis anos.\n\n2 - Em relação a qualquer fase ou ano de escolaridade pode ser passada certidão de habilitações aos alunos que mediante requerimento a solicitem.\n\n3 - Aos alunos que tenham frequentado o ensino básico com regularidade, durante a idade escolar, sem conseguirem concluí-lo com aproveitamento, será passado certificado comprovativo dessa frequência, com indicação do nível de escolaridade atingido.\n\n4 - Aos alunos dispensados da frequência total do ensino obrigatório, nos termos do artigo 6.º deste diploma, será passado, pela Direcção-Geral do Ensino Básico, certificado comprovativo do aproveitamento escolar obtido, do qual constará a indicação da incapacidade que fundamentou a dispensa.\n\n5 - Sempre que os alunos dispensados nos termos do artigo 6.º deste diploma frequentem estabelecimento público de educação não integrado no Ministério da Educação, competirá àquele estabelecimento passar os certificados referidos no número anterior."
+  },
+  "435f46d85cfacb6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Aos indivíduos nascidos a partir de 1 de Janeiro de 1967 é já exigida a posse do diploma a que se refere o artigo 10.º do presente decreto-lei, para efeitos de:\n\na) Desempenho de quaisquer actividades em organismos públicos centrais, regionais ou locais, sem prejuízo das habilitações legais superiores exigidas por lei;\n\nb) Emprego em actividades nacionalizadas ou privadas;\n\nc) Entrada em competições oficiais desportivas;\n\nd) Exercício de funções directivas em associações ou clubes desportivos, recreativos ou culturais;\n\ne) Obtenção de carta de condução.\n\n2 - Ao disposto no número anterior exceptuam-se, com o condicionalismo expresso no número seguinte, os indivíduos que se encontrem nas condições dos n.os 3 e 4 do artigo 11.º do presente diploma, para os quais o diploma de habilitações é substituído pelos certificados aí referidos.\n\n3 - Para os efeitos referidos na alínea e) do n.º 1, aos mesmos indivíduos será, entretanto, exigida a prestação de provas adequadas comprovativas de habilitações suficientes.\n\n4 - A nenhum indivíduo que se encontre nas condições referidas no n.º 3 do artigo 11.º ou que seja portador de deficiência física, sensorial ou motora poderá ser negado o direito ao trabalho, independentemente do grau de escolaridade atingido, desde que tenha a idade mínima de 14 anos e que, no segundo caso, possua condições devidamente comprovadas para o exercício de uma determinada profissão ou actividade.\n\n5 - A confirmação a que se refere o número anterior será documentada por certificado da alegada insuficiência e da aptidão profissional de que o aluno é possuidor.\n\n6 - No exercício de uma actividade, e uma vez satisfeitas as condições previstas no número anterior, o deficiente será abrangido pelos mesmos direitos comuns aos restantes trabalhadores, consignados na lei ou nas convenções gerais de trabalho ou estabelecidos pela entidade patronal, designadamente o de promoção, desde que a exigência de habilitação escolar seja a da escolaridade obrigatória e que o grau de responsabilidade das novas funções não implique condições específicas que o deficiente não satisfaça."
+  },
+  "3dc70e52fddd8c0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - Aos indivíduos nascidos anteriormente à data fixada no n.º 1 do artigo 12.º é apenas exigida, para todos os efeitos ali determinados, a posse do antigo diploma de habilitação da 4.ª classe do ensino primário.\n\n2 - Mediante uma autorização da Direcção-Geral da Educação Permanente, são dispensados da apresentação do diploma da 4.ª classe os indivíduos maiores de 14 anos à data da publicação do presente diploma, desde que se encontrem numa das situações abaixo indicadas devidamente justificados pela idade, saúde ou condições de vida:\n\n1.º Comprovarem possuir o exame da 3.ª classe das classes de ensino especial ou serem recuperados no Instituto Adolfo Coelho e noutras instituições similares e destinarem-se a profissões especiais e em casos bem definidos;\n\n2.º Já se encontrarem na situação de funcionários ou de assalariados dos quadros ou além dos quadros para efeitos de manutenção dos lugares que ocupam ou de promoção nos mesmos quadros;\n\n3.º Mediante exame feito nos dispensários do Instituto da Assistência Psiquiátrica ou no Instituto António Aurélio da Costa Ferreira, comprovarem não possuir desenvolvimento mental suficiente para adquirirem as habilitações normalmente exigidas e destinarem-se a profissões especiais e em casos bem definidos."
+  },
+  "260fa471d34bee46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - No prosseguimento do objectivo do presente decreto-lei, as autarquias locais procederão anualmente, com a colaboração das estruturas próprias do Ministério da Educação e demais serviços e órgãos interessados, ao recenseamento das crianças em idade escolar que se não encontrem matriculadas nos ensinos público, particular ou cooperativo.\n\n2 - O Governo regulamentará por diploma, no prazo de noventa dias, a forma de contrôle do cumprimento da escolaridade obrigatória por todos os menores em idade escolar não abrangidos na alínea b) do n.º 3 do artigo 15.º"
+  },
+  "5aa81e48e5de40e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - dever de todos os cidadãos, e mais especificamente dos educadores de infância, dos professores e de todas as autoridades, actuar junto dos encarregados de educação que não dêem cumprimento às disposições relativas à escolaridade obrigatória, esclarecendo-os sobre os seus deveres e sensibilizando-os para o valor pessoal e social do cumprimento da escolaridade.\n\n2 - O cumprimento das obrigações que, nos termos do presente diploma, incumbem aos encarregados de educação constitui condição indispensável para a atribuição e processamento do abono de família.\n\n3 - Para efeitos do disposto neste artigo:\n\na) Os encarregados de educação entregarão anualmente, na entidade ou serviço processador do abono de família, certificado comprovativo da matrícula dos menores sujeitos à escolaridade obrigatória ou da dispensa de frequência, no prazo do estabelecido em regulamento;\n\nb) As direcções de distrito escolar ou direcções escolares, os órgãos de gestão das escolas de ensino preparatório e os responsáveis pelos estabelecimentos de ensino particular ou cooperativo enviarão mensalmente às entidades ou serviços processadores de abono de família nota dos beneficiários cujos educandos tenham faltado, no mês anterior, mais de três dias, sem motivo devidamente justificado nos termos da legislação vigente."
+  },
+  "74c5bd32313d29c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - As infracções ao disposto no artigo 12.º do presente diploma implicam para as entidades ou serviços contratadores ou infractores as seguintes consequências:\n\na) Instauração de procedimento disciplinar, quando se trate de serviços do Estado ou das autarquias locais;\n\nb) Pagamento de multa a fixar entre 50000$00 e 200000$00, em todos os outros casos.\n\n2 - Os actos praticados em contravenção ao disposto no presente diploma consideram-se juridicamente inexistentes.\n\n3 - Nos casos de reincidência, a pena de multa a aplicar não poderá ser inferior a metade do máximo previsto na aliena b) do n.º 1."
+  },
+  "925c457fab3edca5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - A prestação de falsas declarações em matéria de escolaridade obrigatória integra o crime previsto e punido no artigo 242.º do Código Penal.\n\n2 - Para efeitos do disposto no número anterior, as entidades escolares competentes farão a respectiva comunicação ao tribunal da comarca."
+  },
+  "4670f215ec6234a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs indivíduos ou entidades privadas que admitam, durante as horas lectivas, em salas de espectáculos ou outros lugares de divertimento, menores sujeitos ao cumprimento da frequência escolar obrigatória ou os empreguem durante essas horas incorrem na multa prevista na alínea b) do artigo 16.º do presente diploma, a qual nunca será inferior a 100000$00."
+  },
+  "3b65ab4c519be408": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1981-07-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-d-1980-647322), publicado em 1980-06-14."
+   ],
+   "markdown": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-d-1980-647322), publicado em 1980-06-14."
+  },
+  "052fe24c7b62f1c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - São revogados:\n\na) Os artigos 1.º a 4.º, 10.º e 12.º a 16.º do [Decreto-Lei n.º 38968](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38968-1952-249177), de 27 de Outubro de 1952;\n\nb) Os artigos 1.º, 2.º e 19.º a 26.º do [Decreto-Lei n.º 40964](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40964-1956-293489), de 31 de Dezembro de 1956;\n\nc) O [Decreto-Lei n.º 42443](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42443-1959-432253), de 10 de Agosto de 1959;\n\nd) O [Decreto-Lei n.º 42994](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42994-1960-504301), de 28 de Maio de 1960;\n\ne) O artigo 4.º do [Decreto-Lei n.º 45810](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45810-1964-578769), de 9 de Julho de 1964:\n\nf) O [Decreto-Lei n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1978-468838), de 11 de Janeiro.\n\n2 - Mantém-se em vigor a matéria regulamentar constante do Decreto n.º 38969, de 27 de Outubro de 1952, e legislação complementar, em tudo o que for compatível com o presente diploma e enquanto não for publicado novo regulamento."
+  },
+  "ad8387b33925004c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO presente decreto-lei entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 6 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Luís Eugénio Caldas Veiga da Cunha.\n\nPromulgado em 31 de Dezembro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

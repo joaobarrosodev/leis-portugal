@@ -1,0 +1,266 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:448515:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-02-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3c3482bf7a07948c",
+    "8c9df84e7900b691",
+    "4e849a9bbbc65b00",
+    "5b036fbbbbab8c66",
+    "2f4852a0ccbbb5ca",
+    "c8ddb15e63b5fdd0",
+    "8854b21a631177cd",
+    "c5c5edc509334a3b",
+    "2c46a15020b5d791",
+    "a7110bd18e69cb1c",
+    "b3fff7e543516dd7",
+    "1cbe2677fb986e18",
+    "ada2a8ccdec33126",
+    "a644633ac6ae47d6",
+    "fae6adcd67d5661a",
+    "6ca522390246bac8",
+    "4f41a1a8beb747be",
+    "9bb7b8bc448290dc",
+    "d6193fe7a9834e61",
+    "6a9ffc5379d7e096",
+    "2c09927e8398e3d4",
+    "f086eb02ad751fea"
+   ]
+  },
+  {
+   "date": "1979-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:382780:por",
+     "title": "Decreto Regulamentar n.º 26/79",
+     "published": "1979-05-23",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/26-1979-382780"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "3c3482bf7a07948c",
+    "8c9df84e7900b691",
+    "4e849a9bbbc65b00",
+    "5b036fbbbbab8c66",
+    "2f4852a0ccbbb5ca",
+    "c8ddb15e63b5fdd0",
+    "8854b21a631177cd",
+    "c5c5edc509334a3b",
+    "2c46a15020b5d791",
+    "a7110bd18e69cb1c",
+    "260f3f791e029678",
+    "1cbe2677fb986e18",
+    "ada2a8ccdec33126",
+    "a644633ac6ae47d6",
+    "fae6adcd67d5661a",
+    "6ca522390246bac8",
+    "4f41a1a8beb747be",
+    "9bb7b8bc448290dc",
+    "d6193fe7a9834e61",
+    "6a9ffc5379d7e096",
+    "2c09927e8398e3d4",
+    "f086eb02ad751fea"
+   ]
+  }
+ ],
+ "fragments": {
+  "3c3482bf7a07948c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Fevereiro\n\n1. A evolução técnica e o aumento substancial de tráfego do transporte aéreo têm vindo a impor não só a ampliação e actualização das instalações aeroportuárias de apoio como a actualização e uma maior especialização dos serviços que tornam possível e garantem a eficiente exploração aeroportuária.\n\n2. Para satisfazer as exigências que neste campo têm vindo a ser postas à administração da Aeronáutica Civil, foi por esta inicialmente criado o Serviço de Movimento ([Decreto-Lei n.º 36619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36619-1947-636700), de 24 de Novembro de 1947), que integrava pessoal especializado nesta matéria - oficiais de movimento.\n\nEsta estrutura, que nunca chegou a ser regulamentada, mostrou-se a breve trecho incapaz de satisfazer a complexidade crescente e a inerente responsabilidade das operações que lhe vinham a ser cometidas. Por esta razão se ampliou o âmbito do Serviço, regulamentando e criando novas categorias de pessoal a que correspondesse uma maior especialização.\n\nAssim se passou a designar por Serviço de Tráfego e Movimento e o pessoal nele integrado por oficiais de tráfego e movimento.\n\n3. Na sequência do processo evolutivo, que no passado, e apesar das transformações operadas, se manteve sempre em sensível atraso em relação às realidades do momento, pretende-se agora normalizar a situação actualizando um serviço não só indispensável como de tão grande importância na utilização da capacidade aeroportuária e, inerentemente, na evolução e expansão do transporte aéreo.\n\nFace à situação exposta, facilmente se alcançará a oportunidade e urgência da publicação do presente diploma, visando a reorganização do Serviço no sentido de o aproximar das modernas estruturas internacionais da aviação civil, sem perder de vista, contudo, as realidades nacionais.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "8c9df84e7900b691": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Carreiras do pessoal do Serviço de Operações Aeroportuárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Carreiras do pessoal do Serviço de Operações Aeroportuárias"
+  },
+  "4e849a9bbbc65b00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Da carreira)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Da carreira)\n\nA carreira profissional do pessoal técnico assistente do Serviço de Operações Aeroportuárias desenvolver-se-á do seguinte modo:\n\na) Assistente-chefe de operações aeroportuárias;\n\nb) Assistente principal de operações aeroportuárias;\n\nc) Assistente graduado de operações aeroportuárias;\n\nd) Assistente de operações aeroportuárias."
+  },
+  "5b036fbbbbab8c66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Efectivos do pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Efectivos do pessoal)\n\n1 - Os efectivos do pessoal a que se refere o artigo anterior são os constantes do mapa I anexo a este diploma, que fica a constituir parte integrante do mesmo.\n\n2 - A revisão dos efectivos será feita por portaria conjunta dos Ministros das Finanças e dos Transportes e Comunicações e Secretário de Estado da Administração Pública, sempre que as necessidades de serviço ou as exigências da evolução técnica aeronáutica assim o imponham.\n\n3 - A distribuição do pessoal pelos diversos serviços e organismos da Direcção-Geral da Aeronáutica Civil será feita em mapas aprovados por despacho do Ministro dos Transportes e Comunicações."
+  },
+  "2f4852a0ccbbb5ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Regime jurídico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Regime jurídico)\n\n1 - O pessoal do Serviço de Operações Aeroportuárias fica sujeito ao regime jurídico estabelecido para a função pública, sem prejuízo do disposto neste diploma e noutras normas específicas.\n\n2 - Do mesmo modo, ser-lhe-ão também aplicáveis as normas e procedimentos recomendados pela Organização da Aviação Civil Internacional - OACI -, desde que ratificadas pelo Governo Português."
+  },
+  "c8ddb15e63b5fdd0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Do provimento em lugares da carreira de assistente de operações aeroportuárias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Do provimento em lugares da carreira de assistente de operações aeroportuárias)\n\n1 - O provimento na categoria de assistente-chefe de operações aeroportuárias far-se-á por concurso documental de entre os assistentes principais de operações aeroportuárias que reúnam os seguintes requisitos:\n\na) Tenham prestado, no mínimo, seis anos de bom e efectivo serviço na categoria;\n\nb) Tenham frequentado com aproveitamento o curso complementar de chefia de operações aeroportuárias.\n\n2 - O provimento na categoria de assistente principal de operações aeroportuárias far-se-á de entre os assistente graduados de operações aeroportuárias que reúnam, cumulativamente, as seguintes condições:\n\na) Tenham prestado, no mínimo, três anos de bom e efectivo serviço na categoria;\n\nb) Tenham obtido aproveitamento no curso de operações de terminal.\n\n3 - O provimento na categoria de assistente graduado de operações aeroportuárias far-se-á de entre os assistente de operações aeroportuárias com pelo menos três anos de bom e efectivo serviço na categoria, incluindo naquele prazo o período do curso básico de assistente de operações aeroportuárias.\n\n4 - O provimento na categoria de assistente de operações aeroportuárias far-se-á mediante concurso de provas práticas de entre indivíduos que satisfaçam as seguintes condições:\n\na) Não terem idade superior a 25 anos;\n\nb) Possuírem o curso complementar dos liceus ou equiparado;\n\nc) Serem titulares da carta de condução de automóveis ligeiros;\n\nd) Possuírem conhecimentos de língua inglesa."
+  },
+  "8854b21a631177cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Preferência na admissão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Preferência na admissão)\n\nEm igualdade de condições, terão preferência os candidatos que:\n\na) Tenham prestado na DGAC pelo menos três anos de bom e efectivo serviço numa das categorias de qualquer dos grupos de menores habilitações;\n\nb) Possuam habilitações superiores aos mínimos exigidos no presente diploma;\n\nc) Possuam conhecimentos de língua francesa;\n\nd) Tenham cumprido o serviço militar."
+  },
+  "c5c5edc509334a3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Formas de provimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Formas de provimento)\n\n1 - A nomeação dos candidatos a que se refere o n.º 4 do artigo 4.º terá carácter provisório até que se verifiquem cumulativamente as seguintes condições:\n\na) Tenham decorrido pelo menos dois anos;\n\nb) Tenham concluído com aproveitamento o curso básico de assistente de operações aeroportuárias;\n\nc) Tenham revelado aptidão para o lugar.\n\n2 - Observadas as condições referidas no número anterior, o funcionário será provido definitivamente ou exonerado, no caso contrário."
+  },
+  "2c46a15020b5d791": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Formação profissional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Formação profissional)\n\n1 - A Direcção-Geral da Aeronáutica Civil tomará as providências necessárias para a realização de cursos de formação previstos no presente diploma e demais acções de actualização e aperfeiçoamento profissionais.\n\n2 - Os planos dos cursos a que se refere o número anterior serão os constantes do anexo I ao presente decreto, que dele fazem parte integrante.\n\n3 - Os planos dos cursos atrás referidos poderão ser alterados por portaria conjunta do Ministro dos Transportes e Comunicações e do Secretário de Estado da Administração Pública sempre que o imponham as necessidades do serviço ou a evolução tecnológica."
+  },
+  "a7110bd18e69cb1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Das funções do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Das funções do pessoal"
+  },
+  "b3fff7e543516dd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Funções do pessoal da carreira de assistente de operações aeroportuárias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Funções do pessoal da carreira de assistente de operações aeroportuárias)\n\n1 - Ao assistente-chefe de operações aeroportuárias compete o desempenho de funções de chefia de um órgão ou unidade do serviço e as que lhe vierem a ser cometidas no âmbito das suas qualificações, designadamente:\n\na) Dirigir, coordenar e inspeccionar todas as actividades do órgão ou unidade de que é responsável;\n\nb) Coadjuvar na superintendência e direcção dos órgãos do Serviço e executar as missões de inspecção que lhe forem confiadas;\n\nc) Dar parecer e elaborar os relatórios que lhe sejam solicitados pelas entidades competentes;\n\nd) Estudar procedimentos, analisar situações de serviço e propor a adopção de normas e técnicas com vista a uma maior eficiência do Serviço;\n\ne) Exercer as funções de supervisão e coordenação dos sectores do Serviço e neste âmbito assegurar a coordenação com os serviços de fronteira (alfândega, imigração e sanidade) e a cooperação com o serviço de socorros e serviços e entidades afectos ao sistema de segurança da aviação civil, de acordo com as normas estabelecidas;\n\nf) Supervisionar as acções de actualização e aperfeiçoamento estabelecidas;\n\ng) Desempenhar outras funções que, no âmbito do Serviço e de acordo com as suas qualificações, lhe forem atribuídas.\n\n2 - Ao assistente principal de operações aeroportuárias compete o desempenho das funções inerentes à verificação da documentação de tripulações e aeronaves e da respeitante ao voo, proceder ou promover o despacho de tráfego e ou operacional dos voos e assegurar as missões atribuídas à exploração dos terminais, designadamente:\n\na) Verificar os documentos de bordo das aeronaves e as licenças dos tripulantes, em conformidade com as normas nacionais e internacionais em vigor;\n\nb) Verificar, quando for necessário, os planos de carregamento das aeronaves, tendo em especial consideração as limitações de centragem e peso máximo (factores relevantes na segurança do voo);\n\nc) Receber e verificar o formulário de tráfego e outra documentação, para efeitos de despacho, de contrôle de direitos de tráfego, de estatística de aplicação de taxas;\n\nd) Proceder ao despacho de tráfego das aeronaves, de acordo com as normas vigentes;\n\ne) Desempenhar, quando necessário e lhe forem atribuídas, as funções que são cometidas ao Posto dos Serviços de Tráfego Aéreo;\n\nf) Efectuar o registo de chegadas e partidas das aeronaves, aplicar as taxas de tráfego, procedendo à cobrança daquelas que forem de pagamento imediato, e, eventualmente, elaborar a estatística do movimento e do tráfego;\n\ng) Controlar e, eventualmente, promover, no todo ou em parte, as operações de assistência às aeronaves respeitantes ao tráfego;\n\nh) Promover a execução das missões atribuídas à exploração dos terminais, tais como:\n\n1) Assistência de tráfego:\n\nInformações;\n\nAcolhimento;\n\n2) Contrôle de transportadores de bagagens e das portas de embarque;\n\n3) Contrôle e disciplina da movimentação, nas aerogares, de passageiros e suas bagagens, tripulações e outras pessoas;\n\n4) Coordenação dos serviços de fronteira (alfândega, imigração e sanidade);\n\n5) Utilização dos parques de viaturas;\n\ni) Desempenhar outras funções que, no âmbito do Serviço e de acordo com as suas qualificações, lhe forem atribuídas.\n\n3 - Ao assistente graduado de operações aeroportuárias compete o desempenho das funções inerentes ao contrôle e segurança na área de movimento, designadamente:\n\na) Controlar as manobras das aeronaves no solo, incluindo as operações de estacionamento nas áreas de tráfego e manutenção;\n\nb) Controlar e disciplinar, na área de movimento, toda a movimentação de pessoas, veículos e equipamento;\n\nc) Inspeccionar a área de movimento e estabelecer nesta a necessária vigilância, de forma a assegurar os padrões e normas de segurança recomendados pela OACI e homologados ou estabelecidos pela DGAC;\n\nd) Cooperar, no âmbito das suas atribuições, com o serviço de socorros e serviços e entidades afectos ao sistema de segurança da aviação civil;\n\ne) Controlar e, eventualmente, promover ou executar, no todo ou em parte e de acordo com as suas qualificações, as operações de assistência às aeronaves;\n\nf) Desempenhar outras funções que, no âmbito do serviço e de acordo com as suas qualificações, lhe forem atribuídas.\n\n4 - Ao assistente de operações aeroportuárias compete, quando integrado na actividade operacional do serviço, coadjuvar o restante pessoal assistente nas actividades do respectivo serviço, desempenhando as tarefas que lhe forem cometidas."
+  },
+  "1cbe2677fb986e18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Da prestação de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Da prestação de serviço"
+  },
+  "ada2a8ccdec33126": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Duração e horário de serviço normal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Duração e horário de serviço normal)\n\n1 - A duração média de prestação semanal de serviço será a seguinte:\n\na) Pessoal em funções operacionais (regime de turnos) - trinta e seis horas;\n\nb) Pessoal em funções de instrução - trinta e seis horas, com o máximo de vinte e duas horas de aulas;\n\nc) Pessoal desempenhando outras funções - a duração que estiver em vigor para o pessoal de secretaria da função pública.\n\n2 - No regime de turnos, a escala de serviço deverá obedecer, entre outras, às seguintes condições:\n\na) Elaboração e divulgação mensal dos horários;\n\nb) Intervalo mínimo entre o fim de um turno e o início do turno seguinte não inferior a doze horas;\n\nc) Concessão ao pessoal, sem prejuízo do serviço, de sessenta minutos para refeição, quando o turno inclua um período de refeição principal."
+  },
+  "a644633ac6ae47d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Serviço extraordinário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Serviço extraordinário)\n\n1 - A prestação de serviço extraordinário só poderá verificar-se em casos excepcionais, quando razões imperiosas de serviço o exijam, e dependerá sempre de autorização do director-geral ou de entidade em quem aquele delegue competência para o efeito.\n\n2 - O pagamento de horas extraordinárias não poderá verificar-se se o documento de prestação de serviço se não encontrar visado pelo respectivo superior hierárquico.\n\n3 - Quando se verificar a circunstância prevista no n.º 1, o tempo de serviço extraordinário, adicionado ao tempo de serviço normal imediatamente seguido ou antecedente, não poderá exceder doze horas seguidas."
+  },
+  "fae6adcd67d5661a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Primeiro provimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Primeiro provimento)\n\nO primeiro provimento do pessoal a que se refere o artigo 1.º deste diploma em lugares das carreiras criadas pelo mesmo será feito mediante lista nominativa aprovada pelo Ministro dos Transportes e Comunicações, visada pelo Tribunal de Contas e publicada no Diário da República, de acordo com as seguintes regras:\n\na) Para qualquer das categorias constantes dos mapas anexos para a qual possua as respectivas habilitações e tempo de serviço na actual carreira previsto para o acesso a essa categoria, nos termos do presente diploma;\n\nb) Para as categorias que nos mapas anexos correspondem às funções que os agentes já actualmente desempenham."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "4f41a1a8beb747be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Extinção de categorias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Extinção de categorias)\n\nConsiderar-se-ão automaticamente extintas as seguintes categorias, a partir da data em que tenham sido integrados nas novas categorias criadas por este diploma todos os servidores nelas colocados e se verifique vacatura de todos os lugares existentes no quadro:\n\na) Chefe dos serviços de tráfego e movimento;\n\nb) Oficial de tráfego e movimento de 1.ª, 2.ª e 3.ª classes;\n\nc) Oficial de movimento de 1.ª, 2.ª e 3.ª classes;\n\nd) Auxiliar de tráfego e movimento."
+  },
+  "9bb7b8bc448290dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Encargos decorrentes da execução deste diploma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Encargos decorrentes da execução deste diploma)\n\nOs encargos decorrentes da execução deste diploma serão suportados pelos Ministérios das Finanças e dos Transportes e Comunicações (Direcção-Geral da Aeronáutica Civil), nos termos que vierem a ser acordados."
+  },
+  "d6193fe7a9834e61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Dúvidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Dúvidas)\n\nAs dúvidas surgidas na aplicação do presente diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações, ouvidos o Ministro das Finanças e o Secretário de Estado da Administração Pública, quando for caso disso."
+  },
+  "6a9ffc5379d7e096": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Legislação revogada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Legislação revogada)\n\nÉ revogada toda a legislação que disponha em contrário a este diploma, designadamente na parte respeitante a:\n\na) [Decreto-Lei n.º 36619](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36619-1947-636700), de 24 de Novembro de 1947;\n\nb) [Decreto-Lei n.º 45839](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45839-1964-579335), de 30 de Julho de 1964;\n\nc) [Decreto-Lei n.º 49191](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49191-1969-198715), de 16 de Agosto de 1969."
+  },
+  "2c09927e8398e3d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Entrada em vigor)\n\nEste diploma produz efeitos a partir de 1 de Janeiro de 1978.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.\n\nPromulgado em 30 de Janeiro de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMAPA I\n\nMapa a que se refere o artigo 2.º do Decreto Regulamentar n.º 4/78\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/03500/03320338.pdf)"
+  },
+  "f086eb02ad751fea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — (A que se refere o n.º 2 do artigo 7.º do Decreto Regulamentar n.º 4/78)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — (A que se refere o n.º 2 do artigo 7.º do Decreto Regulamentar n.º 4/78)\n\nCursos de formação para a carreira de assistente de operações aeroportuárias\n\nA - Curso básico de operações aeroportuárias\n\nMatéria do curso\n\n1 - Organização dos aeroportos:\n\n1.1 - Sua origem e objectivos.\n\n1.2 - Características da profissão.\n\n1.3 - Hierarquias do serviço.\n\n1.4 - Atitude em serviço.\n\n1.5 - Disciplina no trabalho.\n\n1.6 - Apresentação e aprumo.\n\n1.7 - Relações humanas na profissão.\n\n1.8 - Manuais de consulta e trabalho.\n\n2 - Regulamentação dos aeroportos:\n\n2.1 - Categorias profissionais.\n\n2.2 - Trabalho e contrôle de entradas e saídas.\n\n2.3 - Horários em regime de turnos.\n\n2.4 - Férias, faltas, dispensas e casos de doença.\n\n2.5 - Acidentes de trabalho.\n\n2.6 - Uniformes.\n\n2.7 - Documentos pessoais.\n\n2.8 - Disciplina.\n\n3 - Organização e atribuições gerais do serviço:\n\n3.1 - Funções genéricas do sector de operações aeroportuárias.\n\n3.2 - Funções genéricas do sector de operações terminal.\n\n3.3 - Interdependência funcional dos sectores.\n\n4 - Meios de comunicação:\n\n4.1 - Escritos:\n\n4.1.1 - Comunicações de serviço.\n\n4.1.2 - Circulares.\n\n4.1.3 - Ordens de serviço.\n\n4.1.4 - Relatórios.\n\n4.1.5 - Instruções de serviço.\n\n4.2 - Diversos:\n\n4.2.1 - Telefone.\n\n4.2.2 - Telex:\n\na) Via SITA;\n\nb) Via ICAO.\n\n4.2.3 - Circuito interno TV.\n\n4.2.4 - Teletalkies.\n\n4.2.5 - Walky-talkies.\n\n4.2.6 - Autowriters.\n\n4.2.7 - Teleindicadores.\n\n5 - Legislação e organizações aeronáuticas:\n\n5.1 - Organização da aeronáutica civil nacional.\n\n5.2 - Legislação aérea nacional:\n\n5.2.1 - Principais disposições sobre navegação aérea.\n\n5.3 - Legislação aérea internacional:\n\n5.3.1 - Convenção de Varsóvia.\n\n5.3.2 - Convenção de Chicago.\n\n5.3.3 - Outras convenções.\n\n5.4 - Organizações internacionais:\n\n5.4.1 - A nível governamental:\n\n5.4.1.1 - ICAO:\n\na) Origem, organização e objectivos;\n\nb) Liberdades do ar;\n\nc) Anexos.\n\n5.4.2 - A nível comercial:\n\n5.4.2.1 - IATA:\n\na) Origem, organização e finalidades.\n\n6 - Noções sobre generalidades técnicas:\n\n6.1 - Características gerais das aeronaves:\n\n6.1.1 - Constituição e descrição dos aviões.\n\n6.2 - Marcas e nacionalidade de matrículas.\n\n6.3 - Documentação de aeronaves:\n\n6.3.1 - Diário de navegação.\n\n6.3.2 - Certificado de navegabilidade.\n\n6.3.3 - Certificado de matrícula.\n\n6.3.4 - Licenças de rádio.\n\n6.3.5 - Responsabilidade e localização.\n\n6.4 - Documentação de tráfego:\n\n6.4.1 - No despacho.\n\n6.4.2 - Relativo a passageiros, carga e correio.\n\n7 - Aeródromos e aeroportos da rede nacional:\n\n7.1 - Localização e funcionamento.\n\n7.2 - Características físicas:\n\n7.2.1 - Área de movimento.\n\n7.2.2 - Área de manobra.\n\n7.2.3 - Plataforma de estacionamento.\n\n7.2.4 - Sinais para o tráfego de aeródromo.\n\n7.2.5 - Sinais visuais no solo.\n\n8 - Normas de circulação e estacionamento de aeronaves:\n\n8.1 - No solo.\n\n8.2 - Operações de estacionamento nas áreas:\n\na) De tráfego;\n\nb) De manutenção.\n\n9 - Normas relativas à segurança:\n\n9.1 - Procedimento de embarque.\n\n9.2 - Procedimento de desembarque.\n\n9.3 - Assistência técnica.\n\n9.4 - Abastecimento das aeronaves.\n\n9.5 - Inspecção das áreas de manobra:\n\n9.5.1 - Medidas a tomar quando observadas situações difíceis.\n\n9.6 - Colaboração com os serviços de socorros em situações de emergência.\n\n9.7 - Circulação de pessoas e veículos na plataforma de estacionamento.\n\n10 - Coordenação e colaboração com os serviços aeroportuários não dependentes da DGAC:\n\na) Aduaneiros;\n\nb) Imigração;\n\nc) Sanidade;\n\nd) Outros.\n\n11 - Geografia física e política.\n\n12 - Prática de inglês e francês.\n\n13 - Visitas guiadas:\n\na) A serviços;\n\nb) À área de movimento.\n\nDuração do curso - 600 horas.\n\nB - Curso de operações terminal\n\nMatéria do curso\n\n1 - Organizações aeronáuticas:\n\n1.1 - Legislação nacional:\n\n1.1.1 - Direcção-Geral da Aeronáutica Civil.\n\n1.1.2 - Serviços centrais.\n\n1.1.3 - Serviços exteriores:\n\na) Aeródromos e aeroportos;\n\nb) Centro de Contrôle Regional e de Navegação Aérea.\n\n1.2 - Legislação internacional:\n\n1.2.1 - Acordos multilaterais:\n\na) Convenção de Varsóvia;\n\nb) Convenção de Chicago;\n\nc) Convenção de Genebra;\n\nd) Convenção de Roma;\n\ne) Convenção de Tóquio.\n\n1.2.2 - Organizações a nível de Estado:\n\na) Organização da Aviação Civil Internacional (ICAO):\n\nOrigem;\n\nEstrutura;\n\nObjectivo e realização;\n\nAnexos;\n\nb) Comissão Europeia da Aviação Civil (CEAC):\n\nOrigem;\n\nOrganização;\n\nFinalidade.\n\n1.2.3 - Acordos bilaterais.\n\n1.2.4 - Direitos de tráfego:\n\na) Acordados;\n\nb) Especificamente autorizados.\n\n2 - Serviços aeroportuários não dependentes da DGAC:\n\n2.1 - Atribuições destes serviços.\n\n2.2 - Estruturação das relações de serviço.\n\n3 - Comunicações:\n\n3.1 - Utilização das vias telex:\n\na) Rede ICAO;\n\nb) Rede SITA.\n\n3.2 - Redacção do texto em mensagens:\n\na) Caracteres a utilizar;\n\nb) Idiomas utilizados;\n\nc) Texto de mensagens;\n\nd) Categorias de mensagens;\n\ne) Prefixos de prioridade.\n\n4 - Serviço de Operações Aeroportuárias:\n\n4.1 - Atribuições.\n\n4.2 - Orgânica e estrutura do Serviço.\n\n4.3 - Esquema funcional.\n\n4.4 - Regulamento.\n\n5 - Generalidades técnicas:\n\n5.1 - Regulamento da Navegação Aérea.\n\n5.2 - Convenção sobre a Aviação Civil Internacional.\n\n5.3 - Liberdades do ar.\n\n5.4 - Serviços aéreos:\n\na) Regulares;\n\nb) Não regulares;\n\nc) Internos ou cabotagem;\n\nd) Territoriais;\n\ne) Internacionais.\n\n5.5 - Despacho operacional:\n\n5.5.1 - Relações de dependência e colaboração entre os sectores intervenientes.\n\n5.5.2 - Noções de:\n\na) Espaço aéreo controlado ou não controlado;\n\nb) Corredor aéreo;\n\nc) Ajudas-rádio;\n\nd) Carta de rota;\n\ne) Contrôle de voo e seus órgãos.\n\n5.5.3 - Regras de voo: VFR e IFR.\n\n5.5.4 - Planos de voo:\n\na) Função;\n\nb) Finalidade.\n\n5.5.5 - Planos de carregamento:\n\na) Limitação de centragem;\n\nb) Peso máximo.\n\n5.6 - Despacho de tráfego:\n\n5.6.1 - Verificação de documentos de bordo.\n\n5.6.2 - Licenças de tripulantes.\n\n5.6.3 - Tarifas e bilhetes.\n\n5.6.4 - Folha de carga.\n\n5.6.5 - Formulário de tráfego.\n\n5.6.6 - Registo geral de aeronaves.\n\n5.6.7 - Aplicação de taxas.\n\n6 - Assistência a aeronaves:\n\n6.1 - Procedimentos que antecedem a chegada dos aviões.\n\n6.2 - Noções de segurança.\n\n6.3 - Emergências.\n\n6.4 - Posições das aeronaves na placa.\n\n6.5 - Verificação do equipamento de placa.\n\n6.6 - Procedimento durante o estacionamento de aviões:\n\na) Posicionamento do equipamento de placa;\n\nb) Contrôle de descarga e carregamento.\n\n6.7 - Procedimento para a partida do avião:\n\na) Avião OK para embarque;\n\nb) Contrôle de embarque;\n\nc) Retirada do equipamento;\n\nd) Avião pronto.\n\n7 - Assistência a passageiros e bagagens:\n\n7.1 - Relações com passageiros:\n\n7.1.1 - Valor das relações com passageiros na promoção do aeroporto.\n\n7.1.2 - Apresentação do pessoal e representação da direcção do aeroporto.\n\n7.1.3 - Atitude em serviço.\n\n7.1.4 - Informação ao público.\n\n7.2 - Serviço a passageiros em terra:\n\na) Informações operacionais.\n\n7.3 - Procedimento à partida:\n\na) Contrôle aduaneiro e imigração;\n\nb) Medidas de segurança;\n\nc) Procedimento de check-in;\n\nd) Cartões de embarque e sua utilização;\n\ne) Verificação de documentos de viagem.\n\n7.4 - Procedimento de check-in/bagagem:\n\na) Procedimento de embarque;\n\nb) Definições para:\n\nBagagem registada;\n\nBagagem de cabina;\n\nBagagem de tripulação.\n\n7.5 - Procedimento à chegada:\n\na) Passageiros locais;\n\nb) Passageiros em trânsito;\n\nc) Passageiros em transbordo.\n\n7.5.1 - Imigração/alfândega/sanidade.\n\n7.5.2 - Entrega de bagagem.\n\n7.6 - Irregularidades:\n\na) Noções gerais:\n\nPassageiros;\n\nBagagem;\n\nServiço de perdidos e achados.\n\n8 - Manuais:\n\n8.1 - AIP - Piloto civil - Serviço - Outros:\n\na) Divisão do manual;\n\nb) Conteúdo;\n\nc) Aplicação;\n\nd) Modo de consulta.\n\n9 - Aeroportos:\n\n9.1 - Classificação.\n\n9.2 - Definições.\n\n9.3 - Utilização.\n\n9.4 - Características físicas.\n\n10 - Transportadores aéreos:\n\n10.1 - Definições.\n\n10.2 - Responsabilidade.\n\n10.3 - Interligação com serviços aeroportuários.\n\n11 - Aerodinâmica:\n\n11.1 - Conhecimentos básicos.\n\n11.2 - Principais características das aeronaves.\n\n12 - Meteorologia:\n\n12.1 - Conhecimentos básicos.\n\n13 - Exploração de terminais:\n\n13.1 - Finalidade.\n\n13.2 - Acção e execução.\n\n14 - Geografia física e política:\n\n14.1 - Noções gerais.\n\n15 - Inglês e francês:\n\n15.1 - Escrito e falado.\n\nDuração do curso - 300 horas.\n\nC - Curso complementar de chefia de operações aeroportuárias\n\nMatéria do curso\n\n1 - Reciclagem da matéria dos cursos básico de operações aeroportuários e de operações terminal.\n\n2 - Legislação geral do aeroporto.\n\n3 - Funcionamento do sistema aeroportuário.\n\n4 - Legislação dos sectores de serviço:\n\n4.1 - Dependentes.\n\n4.2 - Não dependentes.\n\n5 - Orgânica e funcionamento dos serviços aeroportuários estatais:\n\n5.1 - Aduaneiros.\n\n5.2 - Imigração.\n\n5.3 - Sanidade.\n\n5.4 - Segurança.\n\n6 - Leis nacionais e internacionais da navegação aérea.\n\n7 - Gestão do pessoal:\n\n7.1 - Condução do pessoal.\n\n7.2 - Contrôle e motivação.\n\n7.3 - Escalas de serviço.\n\n7.4 - Disposições regulamentares.\n\n7.5 - Deliberações superiores.\n\n8 - Normas de aplicação no trabalho.\n\n9 - Relatórios:\n\n9.1 - Finalidade.\n\n9.2 - Aplicação.\n\n10 - Coordenação dos sectores de serviço.\n\n11 - Taxas aeroportuárias.\n\n12 - Facilitação do tráfego:\n\n12.1 - Aplicação da legislação para a coordenação das formalidades com os outros serviços aeroportuários.\n\n13 - Contrôle de qualidade:\n\n13.1 - Finalidade.\n\n13.2 - Aplicação.\n\n14 - Relações públicas.\n\nDuração do curso - 150 horas.\n\nO Ministro das Finanças, Henrique Medina Carreira. - O Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar. - O Secretário de Estado da Administração Pública, José Dias dos Santos Pais."
+  },
+  "260f3f791e029678": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Funções do pessoal da carreira de assistente de operações aeroportuárias)",
+   "in_force_from": "1979-05-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 26/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1979-382780), publicado em 1979-05-23."
+   ],
+   "markdown": "###### Artigo 8.º — (Funções do pessoal da carreira de assistente de operações aeroportuárias)\n\n1 - Ao assistente-chefe de operações aeroportuárias compete o desempenho de funções de chefia de um órgão ou unidade do serviço e as que lhe vierem a ser cometidas no âmbito das suas qualificações, designadamente:\n\na) Dirigir, coordenar e inspeccionar todas as actividades do órgão ou unidade de que é responsável;\n\nb) Coadjuvar na superintendência e direcção dos órgãos do Serviço e executar as missões de inspecção que lhe forem confiadas;\n\nc) Dar parecer e elaborar os relatórios que lhe sejam solicitados pelas entidades competentes;\n\nd) Estudar procedimentos, analisar situações de serviço e propor a adopção de normas e técnicas com vista a uma maior eficiência do Serviço;\n\ne) Exercer as funções de supervisão e coordenação dos sectores do Serviço e neste âmbito assegurar a coordenação com os serviços de fronteira (alfândega, imigração e sanidade) e a cooperação com o serviço de socorros e serviços e entidades afectos ao sistema de segurança da aviação civil, de acordo com as normas estabelecidas;\n\nf) Supervisionar as acções de actualização e aperfeiçoamento estabelecidas;\n\ng) Desempenhar outras funções que, no âmbito do Serviço e de acordo com as suas qualificações, lhe forem atribuídas.\n\n2 - Ao assistente principal de operações aeroportuárias compete o desempenho das funções inerentes à verificação da documentação de tripulações e aeronaves e da respeitante ao voo, proceder ou promover o despacho de tráfego e ou operacional dos voos e assegurar as missões atribuídas à exploração dos terminais, designadamente:\n\na) Verificar os documentos de bordo das aeronaves e as licenças dos tripulantes, em conformidade com as normas nacionais e internacionais em vigor;\n\nb) Verificar, quando for necessário, os planos de carregamento das aeronaves, tendo em especial consideração as limitações de centragem e peso máximo (factores relevantes na segurança do voo);\n\nc) Receber e verificar o formulário de tráfego e outra documentação, para efeitos de despacho, de contrôle de direitos de tráfego, de estatística de aplicação de taxas;\n\nd) Proceder ao despacho de tráfego das aeronaves, de acordo com as normas vigentes;\n\ne) Desempenhar, quando necessário e lhe forem atribuídas, as funções que são cometidas ao Posto dos Serviços de Tráfego Aéreo;\n\nf) Efectuar o registo de chegadas e partidas das aeronaves, aplicar as taxas de tráfego, procedendo à cobrança daquelas que forem de pagamento imediato, e, eventualmente, elaborar a estatística do movimento e do tráfego;\n\ng) Controlar e, eventualmente, promover, no todo ou em parte, as operações de assistência às aeronaves respeitantes ao tráfego;\n\nh) Promover a execução das missões atribuídas à exploração dos terminais, tais como:\n\n1) Assistência de tráfego:\n\nInformações;\n\nAcolhimento;\n\n2) Contrôle de transportadores de bagagens e das portas de embarque;\n\n3) Contrôle e disciplina da movimentação, nas aerogares, de passageiros e suas bagagens, tripulações e outras pessoas;\n\n4) Coordenação dos serviços de fronteira (alfândega, imigração e sanidade);\n\n5) Utilização dos parques de viaturas;\n\ni) Desempenhar outras funções que, no âmbito do Serviço e de acordo com as suas qualificações, lhe forem atribuídas.\n\n3 - Ao assistente graduado de operações aeroportuárias compete o desempenho de funções inerentes à segurança na área de movimento, designadamente:\n\na) Auxiliar, em coordenação com os órgãos de contrôle do tráfego aéreo apropriados, as manobras das aeronaves no solo, incluindo as operações de estacionamento nos parques;\n\nb) Disciplinar e fiscalizar toda a movimentação de pessoas e equipamentos na área de movimento;\n\nc) Inspeccionar a área de movimento e estabelecer a necessária vigilância para, em colaboração com os órgãos apropriados de contrôle do tráfego aéreo, assegurar o cumprimento dos padrões e normas de segurança estabelecidos pela OACI e homologados pela DGAC;\n\nd) Cooperar, no âmbito das suas atribuições, e entidades afectos ao sistema de segurança da aviação civil;\n\ne) Controlar e, eventualmente, promover ou executar, no todo ou em parte e de acordo com as suas qualificações, as operações de assistência às aeronaves no solo;\n\nf) Desempenhar outras funções que, no âmbito do serviço e de acordo com as suas qualificações, lhe forem atribuídas.\n\n4 - Ao assistente de operações aeroportuárias compete, quando integrado na actividade operacional do serviço, coadjuvar o restante pessoal assistente nas actividades do respectivo serviço, desempenhando as tarefas que lhe forem cometidas.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 26/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1979-382780), publicado em 1979-05-23."
+  }
+ }
+}

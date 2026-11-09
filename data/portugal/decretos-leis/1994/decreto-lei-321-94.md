@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-01-18'
+version_history:
+  file: decreto-lei-321-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-01-18'
+    amending: pt:dre:575732:por
+    amending_title: Decreto-Lei n.º 255/95; Decreto-Lei n.º 2-A/96
+    changes:
+    - Altera Artigo 23.º
+    - Altera Artigo 147.º
+    - Altera Artigo 60.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/321/1994/12/29/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:34:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 255/95; Decreto-Lei
+    n.º 2-A/96. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-321-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -529,7 +546,7 @@ f) O comandante da Escola Prática de Polícia;
 
 g) Os comandantes metropolitanos;
 
-h) Os comandantes regionais;
+h) O comandante regional da Região Autónoma da Madeira e o comandante regional da Região Autónoma dos Açores mais graduado, aplicando-se subsidiariamente o princípio da maior antiguidade;
 
 i) O comandante das forças especiais;
 
@@ -546,6 +563,8 @@ o) O guarda principal mais antigo.
 3 - São membros nomeados três comandantes de comandos de polícia, a nomear pelo comandante-geral.
 
 4 - São membros eleitos três vogais eleitos de entre os candidatos apresentados pelas associações profissionais, nos termos da lei.
+
+> Alterado pelo/a [Decreto-Lei n.º 255/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1995-575732), publicado em 1995-09-30.
 
 ###### Artigo 24.º — Competência do Conselho Superior de Polícia
 
@@ -953,13 +972,15 @@ g) Pessoal auxiliar.
 
 ###### Artigo 60.º — Comandante-geral
 
-1 - O comandante-geral da PSP é nomeado pelo Ministro da Administração Interna de entre os oficiais-generais do Exército com a patente de general ou de entre os oficiais de polícia de posto não inferior a superintendente-chefe.
+1 - O comandante-geral da PSP é nomeado pelo Ministro da Administração Interna e será um oficial general do Exército, um oficial de polícia de posto não inferior a superintendente-chefe, um magistrado judicial ou do Ministério Público, ou outra personalidade de reconhecida idoneidade.
 
 2 - As funções referidas no número anterior serão desempenhadas em comissão normal com a duração de quatro anos, considerando-se renovada se, até 30 dias antes do seu termo, o Ministro da Administração Interna, o Ministro da Defesa Nacional, neste caso quando a nomeação incidir em oficial-general do Exército, ou o interessado não tiverem manifestado a intenção de a fazer cessar.
 
 3 - Em qualquer momento a comissão de serviço referida no número anterior pode ser dada por finda por despacho do Ministro da Administração Interna, por iniciativa deste ou a requerimento do interessado.
 
 4 - Quando a nomeação incidir em oficiais-generais do Exército, a mesma depende de despacho dos Ministros da Defesa Nacional e da Administração Interna.
+
+> Alterado pelo/a [Decreto-Lei n.º 2-A/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-a-1996-261165), publicado em 1996-01-13.
 
 ###### Artigo 61.º — 2.º comandante-geral
 
@@ -1812,6 +1833,10 @@ Em matéria de continências e honras, o pessoal da PSP com funções policiais 
 1 - Têm ainda direito a um suplemento de residência, nos termos estabelecidos no artigo 102.º e por um período até 24 meses, quando se proceda à extinção da unidade policial na qual prestavam serviço, desde que ocorra até 31 de Dezembro de 1997, os oficiais, subchefes e guardas colocados por imposição em local distanciado em mais de 30 km da sede do comando da unidade extinta ou da localidade da sua residência habitual.
 
 2 - Não é concedido suplemento de residência nos casos em que previamente tenha havido um pedido de colocação cujo destino coincida com o destino da colocação referida no número anterior.
+
+3 - Os oficiais, subchefes e guardas que prestaram serviço a partir de 1 de Janeiro de 1992 nas unidades policiais extintas antes da data de entrada em vigor da presente Lei Orgânica, no âmbito do processo de reestruturação das forças de segurança, têm direito ao suplemento previsto no n.º 1, nos termos aí prescritos.
+
+> Alterado pelo/a [Decreto-Lei n.º 255/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1995-575732), publicado em 1995-09-30.
 
 ###### Artigo 148.º — Norma revogatória
 

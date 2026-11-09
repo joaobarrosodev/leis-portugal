@@ -1,0 +1,1099 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:3647619:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2011-12-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e423a8bf55da8559",
+    "80f7d3794720c41b",
+    "08bb5e36433e43d2",
+    "3e94038ded495249",
+    "4ca1d1e7257d22d3",
+    "3977d0789926c172",
+    "03703bbcae173039",
+    "3be29ecbc79dae01",
+    "f2069a3abd484639",
+    "b422d0c2b3aa42b6",
+    "69afcb3b5ff30ac0",
+    "a40d7152bde69a34",
+    "cca34fef45ab45c3",
+    "97058d64d8612b34",
+    "ad7812e4cbe18deb",
+    "5b528b11954c2684",
+    "7a65ee8aaeab3174",
+    "1fd8f5afe41b3f86",
+    "96a0dedda59b68d7",
+    "4a2d0a4f35e4d90f",
+    "7c3d1e20a61f51b4",
+    "01baf51f5bd0e8f7",
+    "f41c7ff9fb08ece0",
+    "3e65b30c27074659",
+    "bece7a0421e625d9",
+    "ffd544f668b6625b",
+    "a214ebd0854371e9",
+    "a2d8e7a7a57d3eea",
+    "78200ae96ff9553b",
+    "556f177933676c9c",
+    "6dd493fea423e2ab",
+    "0e611bcff59b24e0",
+    "3ee3c92d49b523e0",
+    "7642880f5ac97265",
+    "abb09e6b236887c6",
+    "9a2683310ec6e356",
+    "3d7365fd58b99beb",
+    "7edc8e9aa958e9b5",
+    "24fcde74107ad43e",
+    "67e3342b3333c5ab",
+    "1080eccd89875bb4",
+    "57e3dfe5dc8fd25a",
+    "a7a920d9d5337b00",
+    "2f2e0ac288fb2105",
+    "8d82f15594006c22",
+    "8c236163e4ba5884",
+    "ffa6b46531ea8233",
+    "eb40020d80e0c4ed",
+    "2509fd1f88a51f9d",
+    "f0412f80b837f2b1",
+    "c7767f22720fe242",
+    "c0b9f0b26fe1c7de",
+    "1698b14d5be3401a",
+    "0f7cb8c9f77a5dbd",
+    "bea34a011927cab0",
+    "e102acb8bd2c07bb",
+    "ab660efb16bf6dc0",
+    "01cfc14ba6942841"
+   ]
+  },
+  {
+   "date": "2024-01-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:836161933:por",
+     "title": "Resolução n.º 3/2023-PG",
+     "published": "2024-01-08",
+     "dre_path": "/dr/detalhe/resolucao/3-2024-836161933"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::1.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::2.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::3.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::4.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::5.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::6.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::7.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::8.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::9.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::10.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::11.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::12.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::13.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::14.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::15.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::16.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::17.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::18.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::19.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::20.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::21.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::22.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::23.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::24.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::25.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::26.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::27.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::28.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::29.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::30.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::31.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::32.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::33.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::34.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::35.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::36.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::37.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::38.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::39.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::40.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::41.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::42.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::43.º",
+    "Revoga Artigo ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas::44.º"
+   ],
+   "fragments": [
+    "e423a8bf55da8559",
+    "80f7d3794720c41b",
+    "08bb5e36433e43d2",
+    "3e94038ded495249",
+    "62d7c5bd1475296c",
+    "1fe5814cb608c24e",
+    "03703bbcae173039",
+    "9fcfd5d39e0b71d9",
+    "d1cacaeb2012552f",
+    "1b441aabb4329068",
+    "e97c447e31c2ccc2",
+    "863bd3512e008002",
+    "9721364d3a9ebefc",
+    "6b3497e21124daad",
+    "ad7812e4cbe18deb",
+    "f50c15c8d984039b",
+    "c3a5186ac9a39707",
+    "1fd8f5afe41b3f86",
+    "1f10e71165175e3a",
+    "4dc5a44774abfa50",
+    "66838b93d879777a",
+    "37b7d46c18d65717",
+    "7d76895163364ba9",
+    "3e65b30c27074659",
+    "7713d6c802df25c5",
+    "3f6a3f51b0aecc23",
+    "a214ebd0854371e9",
+    "b3bbfacb28bc8c10",
+    "27b4f764d8416886",
+    "9cbb18a2b5c38b72",
+    "811d0b9725b47f34",
+    "209fc486cdcb9ce6",
+    "3ee3c92d49b523e0",
+    "7642880f5ac97265",
+    "67accdfb5dbdc6d4",
+    "4085002bc24dcdfe",
+    "3aaabdea97adb926",
+    "454fa2cb68ff0c06",
+    "24fcde74107ad43e",
+    "d38e9586902188b9",
+    "e8fc5572e49ab071",
+    "fcfc8c0534452f30",
+    "454a8b5be8d84156",
+    "e4fa92a454aebbb6",
+    "8d82f15594006c22",
+    "c8df013907fcdc19",
+    "18c257f8dc8bc246",
+    "92d2e28580f692bb",
+    "0236d467273cfb7a",
+    "032cab88ef16d7b0",
+    "6b3c57d3c787f4ba",
+    "a14062cb70af3243",
+    "4564c889fb92df1c",
+    "0f7cb8c9f77a5dbd",
+    "d25962fe47e139b5",
+    "bfde8bbc70d0b912",
+    "d0ca676ec1b2e81d",
+    "698078ca54de62f4"
+   ]
+  }
+ ],
+ "fragments": {
+  "e423a8bf55da8559": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regulamento das Secções Regionais dos Açores e da Madeira do Tribunal de Contas\n\nO Plenário Geral do Tribunal de Contas, em reunião de 14 de Dezembro de 2011, ao abrigo do artigo 75.º, alínea d), conjugado com o artigo 104.º, alínea b), da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto, delibera:\n\n1 - Aprovar o Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas, em anexo.\n\n2 - São revogados:\n\na) O Regulamento da Secção Regional dos Açores do Tribunal de Contas, aprovado pelo Plenário Geral de 28 de Maio de 2001 (Resolução n.º 2/2001 - PG), publicado na 2.ª série do Diário da República, n.º 165, de 18 de Julho de 2001 (Resolução n.º 2/2001 - PG - 2.ª série), e na 2.ª série do Jornal Oficial da Região Autónoma dos Açores, n.º 29, de 17 de Julho de 2001 (R/TC/2001/3);\n\nb) O Regulamento da Secção Regional da Madeira do Tribunal de Contas, aprovado pelo Plenário Geral de 28 de Maio de 2001 (Resolução n.º 3/2001 - PG), publicado na 2.ª série do Diário da República, n.º 165, de 18 de Julho de 2001 (Resolução n.º 3/2001 - PG - 2.ª série), e na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, n.º 132, de 10 de Julho de 2001 (Resolução n.º 3/2001 - PG).\n\n3 - A presente Resolução entra em vigor no dia 1 do mês seguinte ao da sua publicação no Diário da República.\n\nPublique-se na 2.ª série do Diário da República e na 2.ª série dos Jornais Oficiais das Regiões Autónomas dos Açores e da Madeira.\n\n14 de Dezembro de 2011. - O Conselheiro Presidente, Guilherme d' Oliveira Martins."
+  },
+  "80f7d3794720c41b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Regulamento Interno das Secções Regionais dos Açores e da Madeira do Tribunal de Contas"
+  },
+  "08bb5e36433e43d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Funcionamento das Secções Regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Funcionamento das Secções Regionais"
+  },
+  "3e94038ded495249": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições Gerais"
+  },
+  "4ca1d1e7257d22d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente Regulamento Interno rege o funcionamento das Secções Regionais dos Açores e da Madeira do Tribunal de Contas em tudo o que não estiver previsto na lei e no Regulamento Geral do Tribunal de Contas.\n\n2 - Ao funcionamento das Secções Regionais aplicam-se, subsidiariamente, os regulamentos das Secções especializadas do Tribunal de Contas."
+  },
+  "3977d0789926c172": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - As referências feitas no presente regulamento ao juiz reportam-se ao juiz da respectiva Secção Regional.\n\n2 - As referências feitas no presente regulamento aos assessores, ao subdirector-geral, ao auditor-coordenador e aos auditores-chefes reportam-se aos correspondentes cargos do Serviço de Apoio da respectiva Secção Regional."
+  },
+  "03703bbcae173039": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Regime das Sessões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Regime das Sessões"
+  },
+  "3be29ecbc79dae01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Sessões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sessões\n\nAs Secções Regionais reúnem em:\n\na) Colectivo especial para aprovação do relatório e parecer sobre as contas da respectiva Região Autónoma e da correspondente Assembleia Legislativa;\n\nb) Sessão ordinária semanal ou sessão extraordinária;\n\nc) Sessão diária de visto;\n\nd) Audiência de discussão e julgamento nos processos de efectivação de responsabilidade financeira."
+  },
+  "f2069a3abd484639": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Colectivo Especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Colectivo Especial\n\n1 - O colectivo especial para aprovação do relatório e parecer sobre as contas da respectiva Região Autónoma e da correspondente Assembleia Legislativa é constituído pelo Presidente do Tribunal de Contas, que preside, e pelos juízes de ambas as Secções Regionais, com a presença do representante do Ministério Público.\n\n2 - A data da sessão para a discussão e votação do relatório e parecer é fixada pelo Presidente, obtido o acordo de todos os membros do colectivo.\n\n3 - As sessões do colectivo especial são secretariadas pelo director-geral ou, nas suas faltas ou impedimentos, pelo subdirector-geral do respectivo Serviço de Apoio da Secção Regional."
+  },
+  "b422d0c2b3aa42b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Sessões Ordinárias e Extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sessões Ordinárias e Extraordinárias\n\n1 - As sessões ordinárias e extraordinárias são presididas pelo juiz, a quem compete dirigir e orientar os trabalhos, com a assistência obrigatória do Ministério Público e a participação dos assessores.\n\n2 - As sessões começam pela leitura e aprovação da acta da sessão anterior, seguindo-se o período de antes da ordem do dia e, finalmente, a apreciação e a decisão das matérias inscritas na agenda.\n\n3 - Antes de ser tomada qualquer decisão pelo juiz, será dada a palavra ao Ministério Público e aos assessores, para alegarem o que tiverem por conveniente.\n\n4 - As sessões ordinárias têm lugar, em regra, uma vez por semana e as extraordinárias, sempre que o juiz o considere necessário.\n\n5 - As sessões ordinárias realizam-se às quintas-feiras, salvo se o juiz, ouvidos o Ministério Público e os assessores, as marcar para outro dia da semana.\n\n6 - Nas férias judiciais não há sessões ordinárias."
+  },
+  "69afcb3b5ff30ac0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Vistas dos Processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Vistas dos Processos\n\n1 - Os processos a decidir em sessão ordinária ou extraordinária vão com vista ao Ministério Público e aos assessores, que podem emitir parecer sobre a legalidade das questões deles emergentes, por escrito ou, nas sessões, oralmente.\n\n2 - O prazo para o Ministério Público e para cada um dos assessores emitirem parecer é de:\n\na) Dois dias úteis, em processos de visto;\n\nb) Cinco dias úteis, nos demais processos.\n\n3 - Nos processos de visto a decidir em sessão ordinária ou extraordinária, só terá vista do processo o assessor que não interveio na sessão diária."
+  },
+  "a40d7152bde69a34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Agenda e Secretariado das Sessões Ordinárias ou Extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Agenda e Secretariado das Sessões Ordinárias ou Extraordinárias\n\n1 - A agenda dos trabalhos para cada sessão ordinária ou extraordinária é mandada organizar pelo juiz, tendo em atenção as indicações fornecidas pelos assessores.\n\n2 - A minuta da agenda, contendo a relação dos processos e demais matérias inscritas, é apresentada ao juiz, para aprovação final, com um mínimo de dois dias úteis de antecedência, em relação à data da sessão.\n\n3 - A agenda de cada sessão ordinária ou extraordinária é distribuída pelo Ministério Público e pelos assessores, com a antecedência mínima de dois dias úteis, acompanhada do projecto da acta da sessão anterior e de cópias das peças relevantes para a apreciação das matérias agendadas, nomeadamente, projectos de decisões e de relatórios.\n\n4 - As sessões ordinárias e extraordinárias são secretariadas pelo auditor-chefe mais antigo."
+  },
+  "cca34fef45ab45c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Sessões Diárias de Visto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sessões Diárias de Visto\n\n1 - As sessões diárias de visto funcionam com o juiz e um dos assessores.\n\n2 - Os assessores alternam semanalmente, segundo uma escala aprovada pelo juiz, que poderá ser alterada por mútuo acordo.\n\n3 - A escala é afixada no lugar de estilo e distribuída aos assessores e às chefias das unidades de apoio técnico-operativo.\n\n4 - A agenda de cada sessão diária de visto é mandada organizar pelo juiz, tendo em atenção as indicações fornecidas pelo auditor-chefe da unidade de apoio técnico operativo com competência na matéria.\n\n5 - Nas férias judiciais realizam-se sessões diárias de visto."
+  },
+  "97058d64d8612b34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Audiência de Discussão e Julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Audiência de Discussão e Julgamento\n\n1 - Nos processos jurisdicionais, a audiência de discussão e julgamento é presidida, em cada Secção Regional, pelo juiz da outra Secção Regional.\n\n2 - O juiz competente fixa, com a antecedência mínima de 20 dias, a data da audiência, sendo o despacho notificado, no próprio dia, por correio electrónico, ao Ministério Público, ao mandatário judicial constituído ou nomeado e ao subdirector-geral da Secção Regional onde o processo foi instaurado.\n\n3 - A audiência realiza-se na sede da Secção Regional onde o processo foi instaurado."
+  },
+  "ad7812e4cbe18deb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Actos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Actos"
+  },
+  "5b528b11954c2684": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Denominação dos Actos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Denominação dos Actos\n\n1 - Nas Secções Regionais, os actos processuais têm as seguintes denominações:\n\na) Sentenças - são as decisões finais proferidas em processos jurisdicionais, incluindo a aplicação de multas a que se refere o artigo 66.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto;\n\nb) Decisões - são os actos de concessão, recusa, isenção ou dispensa de visto;\n\nc) Pareceres - são as deliberações proferidas no âmbito da função opinativa;\n\nd) Relatórios - são os resultados finais das auditorias e das verificações de contas;\n\ne) Homologações - são as confirmações das verificações internas de contas, quando estas se limitem à demonstração numérica das operações realizadas, que integram o débito e o crédito da gerência com evidência dos saldos de abertura e encerramento;\n\nf) Despachos - são os actos processuais interlocutórios e os posteriores à decisão final.\n\n2 - Os actos de natureza regulamentar têm as seguintes denominações:\n\na) Instruções - são as decisões, de eficácia essencialmente externa, sobre o modo como as entidades devem organizar as suas contas de gerência e fornecer os elementos ou informações necessários à fiscalização prévia, concomitante ou sucessiva;\n\nb) Despachos - são as restantes decisões de eficácia essencialmente interna.\n\n3 - Sem prejuízo do disposto nos números seguintes, cada tipo de acto é identificado sucessivamente por:\n\na) Número sequencial;\n\nb) Ano;\n\nc) Sigla FP, FC, FS, VEC ou VIC, no caso de relatórios elaborados no âmbito da fiscalização prévia, da fiscalização concomitante, da fiscalização sucessiva, da verificação externa de contas ou da verificação interna de contas;\n\nd) Sigla SRATC ou SRMTC, conforme se trate de acto da Secção Regional dos Açores do Tribunal de Contas ou da Secção Regional da Madeira do Tribunal de Contas, respectivamente.\n\n4 - As decisões tomadas em sessão diária de visto são identificadas apenas por referência ao número do processo e à data em que foram proferidas.\n\n5 - Os relatórios de verificação de contas têm uma numeração sequencial própria, independente da dos restantes relatórios."
+  },
+  "7a65ee8aaeab3174": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Confidencialidade dos Processos e Publicidade das Decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Confidencialidade dos Processos e Publicidade das Decisões\n\n1 - Na fiscalização concomitante e sucessiva, até à aprovação e fixação final dos textos dos relatórios, os relatos, os anteprojectos e os projectos de relatórios, bem como os documentos de suporte e demais elementos dos processos de auditoria, são confidenciais.\n\n2 - Os relatos e demais documentos de auditoria mantêm-se confidenciais mesmo após a aprovação do relatório de auditoria, sem prejuízo do disposto no número seguinte.\n\n3 - Só havendo interesse legítimo, a decidir pelo juiz da respectiva Secção Regional, poderão ser passadas certidões ou prestadas informações sobre processos, anexos e demais documentação, bem como autorizada a respectiva consulta.\n\n4 - A publicitação dos actos das Secções Regionais é decidida pelo respectivo juiz."
+  },
+  "1fd8f5afe41b3f86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Juízes das Secções Regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Juízes das Secções Regionais"
+  },
+  "96a0dedda59b68d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência\n\n1 - Compete ao juiz:\n\na) O exercício das competências em matéria regulamentar, de programação da actividade da Secção Regional e de controlo definidas nos artigos seguintes;\n\nb) Aplicar as multas previstas no n.º 1 do artigo 66.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto;\n\nc) Apreciar as demais matérias que, pela sua relevância, interessem à respectiva Secção Regional, bem como exercer as demais competências que lhes sejam atribuídas pela lei ou por delegação.\n\n2 - Relativamente ao respectivo Serviço de Apoio, o juiz é ouvido sobre a nomeação do pessoal dirigente e sobre a classificação do pessoal de apoio técnico-operativo, competindo-lhe ainda:\n\na) Aprovar orientações sobre as carências prioritárias de formação dos auditores, as aptidões qualitativas dos novos auditores a admitir, bem como sobre outras necessidades das respectivas unidades de apoio técnico-operativo;\n\nb) Dar as orientações necessárias à boa execução das acções a cargo dos serviços de apoio técnico-operativo;"
+  },
+  "4a2d0a4f35e4d90f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Competência Regulamentar e de Programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competência Regulamentar e de Programação\n\n1 - Em matéria regulamentar, compete ao juiz:\n\na) Emitir instruções e despachos regulamentares;\n\nb) Elaborar os projectos de regulamento interno e das suas alterações.\n\n2 - Em matéria de programação, compete ao juiz:\n\na) Elaborar os projectos dos planos trienal e anual de fiscalização;\n\nb) Elaborar os projectos de relatório anual de actividades;\n\nc) Velar pela boa execução do programa anual de controlo."
+  },
+  "7c3d1e20a61f51b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competência em Matéria de Fiscalização Prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência em Matéria de Fiscalização Prévia\n\n1 - Em matéria de fiscalização prévia, compete ao juiz, em sessão ordinária ou em sessão extraordinária:\n\na) Decidir os processos de fiscalização prévia com dúvidas quanto à concessão, isenção, dispensa ou recusa de visto, bem como a concessão de visto com recomendações;\n\nb) Aprovar relatórios de auditoria de fiscalização prévia.\n\n2 - Compete ao juiz, em sessão diária de visto, decidir os processos de fiscalização prévia dos quais não resultem dúvidas sobre a legalidade do acto ou contrato."
+  },
+  "01baf51f5bd0e8f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Competência em Matéria de Fiscalização Concomitante e Sucessiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência em Matéria de Fiscalização Concomitante e Sucessiva\n\n1 - Em matéria de fiscalização concomitante e sucessiva, compete ao juiz, em sessão ordinária ou em sessão extraordinária, aprovar os relatórios, incluindo:\n\na) Relatórios de auditoria;\n\nb) Relatórios de verificação de contas;\n\nc) Relatórios de auditoria realizados a solicitação da Assembleia Legislativa da Região Autónoma ou do Governo Regional;\n\n2 - Em matéria de fiscalização concomitante e sucessiva, compete ao juiz, singularmente:\n\na) Ordenar a realização de auditorias não programadas;\n\nb) Aprovar os planos de auditoria e a composição das equipas de auditoria;\n\nc) Presidir aos trabalhos de campo de auditorias, sempre que a importância, a complexidade ou o melindre das acções o justifiquem;\n\nd) Ordenar o contraditório, com observância do disposto no artigo 38.º\n\n3 - Em matéria de fiscalização sucessiva, compete ao juiz, singularmente:\n\na) Aprovar os procedimentos necessários com vista à articulação com a correspondente Assembleia Legislativa das respectivas competências em matéria de fiscalização da execução orçamental e, bem assim, as orientações que permitam dar execução ao disposto na lei em matéria de sistema de controlo;\n\nb) Fixar os critérios de apreciação das contas que não constam do plano anual e que são arquivadas ou devolvidas;\n\nc) Homologar as verificações internas de contas, quando estas se limitem à demonstração numérica das operações realizadas que integram o débito e o crédito da gerência com evidência dos saldos de abertura e encerramento;\n\nd) Prorrogar o prazo de remessa das contas."
+  },
+  "f41c7ff9fb08ece0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Substituição\n\n1 - O juiz de cada Secção Regional é substituído, nas suas faltas e impedimentos, pelo juiz da outra Secção Regional, que, para o efeito, deve ser informado pelo próprio ou pelo subdirector-geral do respectivo Serviço de Apoio.\n\n2 - A colocação transitória de juiz numa Secção Regional processar-se-á de harmonia com o disposto no n.º 6 do artigo 18.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto.\n\n3 - Durante as respectivas férias judiciais, o juiz pode ser substituído nos termos do disposto no n.º 4 do artigo 12.º do Regulamento Geral do Tribunal de Contas.\n\n4 - Os juízes das Secções Regionais devem comunicar reciprocamente e ao Presidente, com uma antecedência de 30 dias, os seus períodos de férias, a fim de serem providenciadas as respectivas substituições."
+  },
+  "3e65b30c27074659": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Ministério Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Ministério Público"
+  },
+  "bece7a0421e625d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Intervenção\n\n1 - O representante do Ministério Público assiste obrigatoriamente às sessões ordinárias e extraordinárias e intervém nos processos jurisdicionais, de acordo com as normas de processo.\n\n2 - São entregues ao representante do Ministério Público os processos de fiscalização prévia, concomitante e sucessiva, após aprovação da decisão ou relatório, sem prejuízo das vistas dos processos nos termos do artigo 6.º"
+  },
+  "ffd544f668b6625b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Apoio Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Apoio Administrativo\n\nO Serviço de Apoio da respectiva Secção Regional assegura o apoio administrativo ao representante do Ministério Público junto desta."
+  },
+  "a214ebd0854371e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Serviços de Apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Serviços de Apoio"
+  },
+  "a2d8e7a7a57d3eea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Cooperação Entre as Unidades de Apoio Técnico-Operativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Cooperação Entre as Unidades de Apoio Técnico-Operativo\n\nAs unidades de apoio técnico-operativo (UAT) cooperam na prossecução das suas missões, devendo, sem prejuízo da independência funcional de cada uma, participar, activamente, no planeamento, execução e acompanhamento recíprocos das actividades gerais e comuns da respectiva Secção Regional."
+  },
+  "78200ae96ff9553b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Preparação dos Projectos dos Programas Trienal e Anual e do Relatório de Actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Preparação dos Projectos dos Programas Trienal e Anual e do Relatório de Actividades\n\n1 - São preparadas, no âmbito de cada UAT, sob a orientação do auditor-coordenador, a parte respectiva dos projectos de programas trienal e anual, bem como das alterações a introduzir nos mesmos, com subordinação aos objectivos estratégicos e às grandes linhas de orientação traçadas pelo Plenário Geral, de modo a que tais projectos sejam aprovados pelo juiz competente e remetidos ao Presidente para integração no correspondente programa do Tribunal.\n\n2 - Será também preparado, no âmbito de cada UAT, o projecto do relatório das actividades realizadas, a submeter, através do auditor-coordenador, à aprovação do respectivo juiz e posterior remessa ao Presidente até 30 de Abril do ano seguinte àquele a que diga respeito."
+  },
+  "556f177933676c9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Estabilidade e Independência Técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Estabilidade e Independência Técnicas\n\n1 - No exercício das missões de controlo, são asseguradas aos auditores, consultores e demais técnicos estabilidade e independência técnica.\n\n2 - O disposto no número anterior não prejudica, porém, a emissão de ordens ou instruções a título de orientação, revisão ou controlo de qualidade, mas tão-só no âmbito da cadeia hierárquico-funcional e sempre na exclusiva dependência do juiz.\n\n3 - Havendo discordância técnica a qualquer nível da hierarquia, será a mesma decidida pelo respectivo juiz."
+  },
+  "6dd493fea423e2ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Equipas de Projecto e de Auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Equipas de Projecto e de Auditoria\n\nNo âmbito do apoio técnico-operativo, poderão ser constituídas equipas de projecto e de auditoria, nos termos do artigo 6.º do [Decreto-Lei n.º 440/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1999-694226), de 2 de Novembro, para a realização de acções específicas, devendo, para o efeito, ser remetida pelo juiz ao Presidente proposta fundamentada sobre o objecto respectivo, acompanhada de informação dos subdirectores-gerais, no tocante aos encargos financeiros daí decorrentes e respectiva cabimentação da despesa."
+  },
+  "0e611bcff59b24e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Consultadoria Externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Consultadoria Externa\n\n1 - Quando, no decurso de fiscalização prévia, concomitante ou sucessiva, a percepção ou apreciação dos factos exigirem especiais conhecimentos técnicos, científicos ou artísticos, poderá suscitar-se a assistência de consultores técnicos, que será decidida, caso a caso, pelo juiz, oficiosamente ou sob proposta do auditor-coordenador.\n\n2 - Compete ainda ao juiz, em despacho fundamentado, decidir da necessidade de contratação de empresas de auditoria, oficiosamente ou sob proposta do auditor-coordenador.\n\n3 - O Serviço de Apoio da respectiva Secção Regional desenvolve os procedimentos administrativos necessários às contratações mencionadas nos números anteriores, devendo as peças dos procedimentos ser elaboradas em estreita cooperação com o respectivo auditor-coordenador."
+  },
+  "3ee3c92d49b523e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Controlo Financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Controlo Financeiro"
+  },
+  "7642880f5ac97265": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Relatório e Parecer Sobre as Contas da Região Autónoma e da Assembleia Legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Relatório e Parecer Sobre as Contas da Região Autónoma e da Assembleia Legislativa"
+  },
+  "abb09e6b236887c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Trabalhos Preparatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Trabalhos Preparatórios\n\n1 - Cada Secção Regional prepara o projecto de parecer sobre a Conta da respectiva Região Autónoma.\n\n2 - A preparação e a elaboração do relatório e parecer sobre a Conta da Região Autónoma inicia-se imediatamente a seguir à apresentação, pelo Governo Regional, à respectiva Assembleia Legislativa, da proposta de Orçamento da Região para o ano económico seguinte.\n\n3 - Compete ao auditor-coordenador, sob a direcção do juiz, a elaboração do anteprojecto do relatório e parecer sobre a Conta da Região, o qual assenta, para além da Conta, em estudos, pareceres, relatórios globais e parcelares sobre a preparação, discussão e execução orçamentais, bem como nos relatórios das auditorias realizadas, segundo o programa anual aprovado pelo Tribunal.\n\n4 - Só podem ser incluídos no anteprojecto os textos referidos no número anterior que tenham sido sujeitos a contraditório."
+  },
+  "9a2683310ec6e356": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Projecto de Parecer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Projecto de Parecer\n\n1 - O anteprojecto de relatório e parecer, acompanhado das respostas do contraditório, será mandado distribuir pelo juiz aos membros do colectivo definido no artigo 42.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto, e ao Ministério Público, para colher observações, sugestões e propostas de emenda, as quais devem ser apresentadas no prazo de cinco dias úteis, a fim de poderem ser tidas em consideração no projecto de parecer.\n\n2 - O projecto de relatório e parecer é distribuído aos membros do colectivo e ao Ministério Público, a fim de obter o seu acordo quanto à data da sessão para a discussão e votação."
+  },
+  "3d7365fd58b99beb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Conclusão e Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Conclusão e Publicação\n\n1 - O texto final do relatório e parecer é rubricado pelo relator, em todas as folhas, e assinado por todos os membros do colectivo e pelo Ministério Público.\n\n2 - O parecer sobre a Conta da Região, uma vez aprovado, é entregue à Assembleia Legislativa da Região Autónoma.\n\n3 - Posteriormente, o parecer deverá ser enviado para publicação na 2.ª série do Diário da República e na 2.ª série do Jornal Oficial da respectiva Região Autónoma."
+  },
+  "7edc8e9aa958e9b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Conta da Assembleia Legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Conta da Assembleia Legislativa\n\n1 - Cada Secção Regional prepara o projecto de parecer sobre a conta da correspondente Assembleia Legislativa da Região Autónoma.\n\n2 - À preparação, elaboração e aprovação do parecer sobre a conta da Assembleia Legislativa aplica-se, com as necessárias adaptações, o disposto nos artigos 24.º, n.os 3 e 4, 25.º e 26.º, n.os 1 e 2."
+  },
+  "24fcde74107ad43e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Fiscalização Prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Fiscalização Prévia"
+  },
+  "67e3342b3333c5ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Instrução dos Processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Instrução dos Processos\n\n1 - A organização dos processos para efeitos do exercício da actividade de fiscalização prévia rege-se pela Lei de Organização e Processo do Tribunal de Contas e demais legislação aplicável, bem como pelas instruções aprovadas pelo Tribunal de Contas.\n\n2 - O auditor-chefe da respectiva unidade de apoio técnico-operativo pode promover a devolução dos processos de fiscalização prévia aos serviços ou organismos para qualquer diligência instrutória, suspendendo-se o prazo do visto tácito."
+  },
+  "1080eccd89875bb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Procedimentos nas Sessões Diárias de Visto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Procedimentos nas Sessões Diárias de Visto\n\n1 - Nas sessões diárias de visto, cabe ao auditor-chefe da respectiva unidade de apoio técnico-operativo a apresentação dos processos.\n\n2 - Sempre que não resultem dúvidas sobre a legalidade do acto ou contrato submetido a fiscalização prévia, poderá ser concedido o visto ou reconhecida a sua isenção ou dispensa.\n\n3 - As decisões de concessão de visto, isenção ou dispensa, tomadas em sessão diária de visto, são assinadas pelo juiz e pelo assessor.\n\n4 - Se não se encontrar na Secção Regional o juiz ou o seu substituto legal, o subdirector-geral remete-lhe por correio electrónico as peças essenciais do processo com o parecer do assessor, podendo para a decisão final ser utilizado um meio electrónico, sendo comunicada ao serviço ou organismo nos termos do n.º 2 do artigo 35.º\n\n5 - Quando haja dúvidas sobre a legalidade do acto ou contrato, o processo deve conter o relatório previsto no n.º 1 do artigo 84.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto, expressamente confirmado pelo auditor-chefe.\n\n6 - Quando se suscitem dúvidas que possam fundamentar a recusa do visto, quer no relatório a que se refere o número anterior, quer ao juiz ou ao assessor, o juiz submete o processo a sessão ordinária ou extraordinária, podendo ainda, previamente, ordenar aos serviços ou organismos que se pronunciem sobre elas, no prazo de dez dias, suspendendo-se o prazo do visto tácito nos termos do n.º 3 do artigo 85.º da Lei n.º 97/98, de 26 de Agosto."
+  },
+  "57e3dfe5dc8fd25a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Auditorias de Fiscalização Prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Auditorias de Fiscalização Prévia\n\n1 - Se a análise do processo de fiscalização prévia implicar a verificação in loco, o juiz pode ordenar a realização de auditoria, por sua iniciativa ou por proposta do auditor-chefe da respectiva unidade de apoio técnico-operativo, com a concordância do auditor-coordenador.\n\n2 - Na decisão de realização da auditoria, especifica-se os objectivos da acção, a sua calendarização, bem como a equipa que a executará.\n\n3 - Aplica-se aos relatórios, com as necessárias adaptações, o disposto nos artigos 34.º a 36.º, bem como nos n.os 1, 2, alíneas a) e b), e 4 do artigo 37.º"
+  },
+  "a7a920d9d5337b00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Procedimentos nas Sessões Ordinárias e Extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Procedimentos nas Sessões Ordinárias e Extraordinárias\n\n1 - Nos processos duvidados, as decisões de concessão ou de recusa de visto devem ser fundamentadas.\n\n2 - Se, no relatório referido no n.º 1, se suscitarem dúvidas conducentes à recusa de visto e não se encontrar na Secção Regional o juiz ou o seu substituto legal, o subdirector-geral remete-lhe por correio electrónico as peças essenciais do processo com o seu parecer, do outro assessor e do Ministério Público, podendo para a decisão final ser utilizado um meio electrónico."
+  },
+  "2f2e0ac288fb2105": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Conteúdo das Decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Conteúdo das Decisões\n\n1 - As decisões em processos com dúvidas quanto à concessão ou recusa de visto devem mencionar:\n\na) O acto ou contrato submetido a fiscalização prévia, identificando-o pelos seus elementos essenciais;\n\nb) Os fundamentos de facto e de direito em que assenta a decisão;\n\nc) As recomendações tendentes ao suprimento das ilegalidades detectadas, sendo caso disso;\n\nd) O sentido da decisão;\n\ne) O montante dos emolumentos e encargos com consultores externos quando devidos, e respectivos sujeitos passivos;\n\nf) As entidades a quem deverão ser integral ou parcialmente comunicadas;\n\ng) A publicidade a dar-lhes e os respectivos modos, se for caso disso.\n\n2 - As decisões tomadas em sessão ordinária ou extraordinária são assinadas pelo juiz, pelos assessores e pelo representante do Ministério Público."
+  },
+  "8d82f15594006c22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Fiscalização Concomitante e Sucessiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Fiscalização Concomitante e Sucessiva"
+  },
+  "8c236163e4ba5884": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Acções\n\n1 - A realização de acções de fiscalização concomitante e sucessiva depende da sua previsão no programa de acção anual, sem prejuízo do disposto no número seguinte.\n\n2 - A realização de acções não incluídas no programa de acção anual, se não for ordenada pelo juiz por sua iniciativa, depende de proposta do auditor-coordenador, em que se especifique a entidade, departamento, organismo ou serviço e as matérias ou os actos ou contratos sobre que devam incidir, a sua calendarização, assim como a equipa que as deve executar.\n\n3 - As acções de fiscalização concomitante e sucessiva são realizadas com observância do manual de auditoria e procedimentos aprovado pelo Tribunal de Contas."
+  },
+  "ffa6b46531ea8233": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Relato de Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Relato de Relatório\n\n1 - Os resultados do trabalho das equipas de auditoria consubstanciam-se num relato de auditoria que, em regra, deverá ter a estrutura e conteúdo definidos no artigo 37.º\n\n2 - O relato é elaborado sob a orientação do auditor-chefe e supervisão do auditor-coordenador, que o submeterá à apreciação do juiz.\n\n3 - O relato deve ser claro, preciso, objectivo, sustentado, de preferência não adjectivado, em particular no domínio das conclusões, e não deverá conter referências a irregularidades cuja materialidade financeira seja pouco relevante, considerando-se, em regra, como tais, aquelas cujo valor não ultrapasse o montante correspondente a 5 UC.\n\n4 - Para efeitos de fixação do conteúdo do relato, o juiz dará as instruções que tiver por necessárias e adoptará as medidas que tiver por convenientes\"."
+  },
+  "eb40020d80e0c4ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Contraditório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Contraditório\n\n1 - Após a fixação do texto do relato, o juiz ordena a audição dos serviços e dos responsáveis individuais, nos termos do disposto no artigo 13.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto, ou quando o considere conveniente face à natureza ou complexidade das observações.\n\n2 - O relato é remetido aos serviços e aos responsáveis individuais por correio electrónico ou, não sendo este possível, por telecópia ou por via postal, sendo os mesmos notificados para, querendo, dizerem o que se lhes oferecer, em prazo não inferior a 10 dias úteis.\n\n3 - A análise das respostas, logo que recebidas, é efectuada pela equipa de auditoria sob a orientação do auditor-chefe e supervisão do auditor-coordenador.\n\n4 - Na presença das respostas, a equipa de auditoria prepara o anteprojecto do relatório, o qual conterá uma súmula daquelas respostas, acompanhada dos comentários julgados pertinentes.\n\n5 - As respostas dos serviços e dos responsáveis ou auditados são incluídas no processo.\n\n6 - Concluída a análise das respostas obtidas em contraditório, ou na falta delas, o auditor-coordenador submete ao juiz o anteprojecto de relatório."
+  },
+  "2509fd1f88a51f9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Projecto de Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Projecto de Relatório\n\n1 - O juiz fixa o texto dos projectos de relatório a apresentar em sessão.\n\n2 - Sempre que possível, as respostas dadas em contraditório constam de anexo ao relatório."
+  },
+  "f0412f80b837f2b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Relatório\n\n1 - Os relatórios devem conter:\n\na) Um índice;\n\nb) Um glossário;\n\nc) Uma listagem das siglas utilizadas e seu significado;\n\nd) Uma ficha técnica com a indicação dos técnicos intervenientes na acção;\n\ne) Um sumário que incluirá uma síntese das conclusões e das recomendações;\n\nf) A opinião dos responsáveis no âmbito do contraditório, nos termos do artigo 35.º;\n\ng) A descrição das eventuais infracções, com indicação dos factos, normas violadas, identificação dos responsáveis, montantes a repor ou a pagar, elementos de prova que for possível recolher, bem como a informação aos responsáveis de que poderão pôr termo ao procedimento através do pagamento voluntário das multas aplicáveis, pelo mínimo legal, e, sendo caso disso, das quantias a repor;\n\nh) A verificação dos pressupostos estabelecidos no n.º 8 do artigo 65.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto, quando se decida relevar responsabilidades ou quando tal questão tenha sido suscitada no processo;\n\ni) Grau de acatamento de anteriores recomendações formuladas à entidade auditada;\n\nj) Recomendações para correcção das deficiências, se for caso disso;\n\nk) O montante dos emolumentos, bem como dos encargos com consultores externos ou empresas de auditoria, quando devidos, e respectivos sujeitos passivos;\n\nl) A indicação das entidades a quem deverá ser enviado o relatório.\n\n2 - Os relatórios de auditoria devem ainda conter:\n\na) Uma parte introdutória, que, sempre que pertinente, identificará o objecto da auditoria, a entidade controlada e seus responsáveis, fará menção dos objectivos, metodologias e técnicas de controlo, do período por ele abrangido, conterá um enquadramento normativo e a descrição e avaliação dos sistemas de controlo interno e dará conta das dificuldades encontradas e do grau de colaboração dos responsáveis;\n\nb) Uma parte expositivo-descritiva, da qual deverão constar as verificações efectuadas, os resultados obtidos, as demais apreciações previstas no n.º 3 do artigo 54.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto, quando aplicáveis, e a especificação da situação em que se encontravam os procedimentos ou a execução dos actos ou contratos no início da acção, se for caso disso;\n\nc) A demonstração numérica referida no n.º 2 do artigo 53.º da mesma lei, se for caso disso;\n\n3 - Para além dos elementos referidos no n.º 1, os relatórios de verificação de contas devem ainda conter:\n\na) A indicação da entidade cuja conta é objecto de verificação, período financeiro a que diz respeito e identificação dos responsáveis;\n\nb) A demonstração numérica referida no n.º 2 do artigo 53.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto;\n\nc) O juízo sobre a legalidade e regularidade das operações examinadas, bem como sobre a impossibilidade da verificação das contas, se for caso disso.\n\n4 - Todos os relatórios são entregues ao Ministério Público, após a aprovação."
+  },
+  "c7767f22720fe242": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Esclarecimento ou Rectificação de Erros Materiais dos Relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Esclarecimento ou Rectificação de Erros Materiais dos Relatórios\n\n1 - Se os relatórios aprovados contiverem erros de escrita ou de cálculo ou quaisquer inexactidões devidas a omissão ou lapso manifesto, bem como alguma obscuridade ou ambiguidade, qualquer interessado directo pode reclamar com vista a rectificação ou esclarecimento.\n\n2 - Qualquer interessado directo pode ainda reclamar nos casos em que nos relatórios tenha ocorrido manifesto lapso na determinação da matéria de facto ou na sua qualificação jurídica.\n\n3 - A reclamação é dirigida ao juiz, no prazo de 30 dias após a notificação do relatório, e é decidida após audiência dos interessados que, eventualmente, possam vir a ser prejudicados com a sua procedência."
+  },
+  "c0b9f0b26fe1c7de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Relatórios dos Órgãos de Controlo Interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Relatórios dos Órgãos de Controlo Interno\n\n1 - Os relatórios enviados a cada Secção Regional pelos órgãos de controlo interno são distribuídos pelas unidades de apoio técnico-operativo competentes em razão da matéria.\n\n2 - A unidade de apoio técnico-operativo elabora uma informação da qual deve constar, designadamente:\n\na) A análise das situações de facto e de direito integradoras de eventuais infracções financeiras indiciadas no relatório do órgão de controlo interno;\n\nb) A referência às acções de controlo eventualmente desenvolvidas pelo Tribunal de Contas relativamente à mesma entidade e matérias abrangidas pelo relatório, para efeitos, nomeadamente, de verificar se o Tribunal já se pronunciou sobre as mesmas e de acompanhamento de recomendações formuladas.\n\n3 - Para efeitos de apuramento dos factos objecto dos relatórios, o juiz pode determinar a realização de diligências complementares.\n\n4 - Os relatórios dos órgãos de controlo interno podem servir de base à realização de acções no âmbito da fiscalização concomitante e sucessiva.\n\n5 - Sempre que os relatórios dos órgãos de controlo interno evidenciem situações, de facto e de direito, integradoras de eventuais infracções financeiras, deverão ser remetidos pelo juiz ao Ministério Público."
+  },
+  "1698b14d5be3401a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Denúncias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Denúncias\n\n1 - As denúncias enviadas às Secções Regionais, que contenham factualidade pertinente, são distribuídas pelas unidades de apoio técnico-operativo competentes em razão da matéria.\n\n2 - A unidade de apoio técnico-operativo elabora uma informação da qual deve constar, designadamente:\n\na) A opinião sobre se a matéria descrita na denúncia indicia a prática de eventuais infracções financeiras;\n\nb) A referência às acções de controlo eventualmente desenvolvidas ou programadas pelo Tribunal de Contas relativamente à matéria objecto da denúncia.\n\n3 - O juiz pode determinar a realização de diligências sumárias.\n\n4 - As denúncias podem servir de base à realização de acções no âmbito da fiscalização prévia, concomitante e sucessiva.\n\n5 - Os resultados da análise realizada às denúncias serão levados ao conhecimento do denunciante devidamente identificado, por determinação do juiz da Secção Regional."
+  },
+  "0f7cb8c9f77a5dbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Processos Jurisdicionais de efectivação de responsabilidades financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Processos Jurisdicionais de efectivação de responsabilidades financeiras"
+  },
+  "bea34a011927cab0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Gestão Processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Gestão Processual\n\n1 - A gestão e movimentação dos processos jurisdicionais é assegurada pela secretaria.\n\n2 - Compete à secretaria:\n\na) Movimentar o processo, efectuar as notificações devidas e cumprir as diligências ordenadas pelo juiz;\n\nb) Prestar assistência às audiências de produção de prova;\n\nc) Proceder ao trabalho de processamento de texto que lhe for atribuído e executar os demais serviços e tarefas que lhe forem atribuídos pelo juiz;\n\nd) Passar as certidões relativas aos processos nos termos da lei.\n\n3 - A elaboração, pela secretaria, das actas de julgamento, das citações, de notificações e de certidões obedece aos modelos aprovados pelo juiz."
+  },
+  "e102acb8bd2c07bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Registo de Entrada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Registo de Entrada\n\n1 - Nenhum processo, requerimento ou papel deverá ter seguimento sem que nele seja lançada a nota de registo de entrada, com o respectivo número de ordem.\n\n2 - Os registos são efectuados em livros próprios e (ou) suporte informático e dele constará, designadamente:\n\na) A data de entrada do requerimento inicial;\n\nb) A data dos subsequentes actos das partes ou de terceiros;\n\nc) A data de qualquer acto do juiz ou de termo processual;\n\nd) A data da remessa do processo ou de fotocópia das principais peças ao juiz da outra Secção Regional;\n\ne) A data da entrada na Secção Regional dos documentos referidos na alínea anterior;\n\nf) A data da audiência de produção de prova;\n\ng) A data da decisão final;\n\nh) A data do trânsito em julgado ou, se for caso disso, da admissão do recurso;\n\ni) A data de envio do recurso para a Sede;\n\nj) A data do acórdão final;\n\nk) A data do pagamento ou, se for caso disso, da remessa do título para execução no tribunal tributário."
+  },
+  "ab660efb16bf6dc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Processo Autónomo de Multa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Processo Autónomo de Multa\n\nNos processos autónomos de multa, previamente à decisão o juiz ouve o responsável pela infracção, a quem são notificados os factos, a sua qualificação jurídica e respectivo regime legal, devendo, ainda, ser indicada a possibilidade de poder ser posto termo ao procedimento, através do pagamento voluntário da multa, pelo mínimo legal."
+  },
+  "01cfc14ba6942841": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Audiência de Discussão e Julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Audiência de Discussão e Julgamento\n\n1 - Segundo as orientações do juiz, o subdirector-geral, por despacho interno, providencia pelas condições de acesso e instalação dos cidadãos que pretendam assistir à audiência, bem como o acesso e permanência condigna dos intervenientes processuais, antes da entrada na sala da audiência.\n\n2 - Nos casos de audiência de produção de prova em que, nos termos da lei, haja lugar a inquirição por videoconferência, deverá a secretaria da Secção Regional onde foi instaurado o processo providenciar pela realização dessa diligência nos termos da lei.\n\n205470395"
+  },
+  "62d7c5bd1475296c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "1fe5814cb608c24e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "9fcfd5d39e0b71d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Sessões",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 3.º — Sessões\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "d1cacaeb2012552f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Colectivo Especial",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 4.º — Colectivo Especial\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "1b441aabb4329068": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Sessões Ordinárias e Extraordinárias",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 5.º — Sessões Ordinárias e Extraordinárias\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "e97c447e31c2ccc2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Vistas dos Processos",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 6.º — Vistas dos Processos\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "863bd3512e008002": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Agenda e Secretariado das Sessões Ordinárias ou Extraordinárias",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 7.º — Agenda e Secretariado das Sessões Ordinárias ou Extraordinárias\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "9721364d3a9ebefc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Sessões Diárias de Visto",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 8.º — Sessões Diárias de Visto\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "6b3497e21124daad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Audiência de Discussão e Julgamento",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 9.º — Audiência de Discussão e Julgamento\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "f50c15c8d984039b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Denominação dos Actos",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 10.º — Denominação dos Actos\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "c3a5186ac9a39707": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Confidencialidade dos Processos e Publicidade das Decisões",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 11.º — Confidencialidade dos Processos e Publicidade das Decisões\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "1f10e71165175e3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competência",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 12.º — Competência\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "4dc5a44774abfa50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Competência Regulamentar e de Programação",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 13.º — Competência Regulamentar e de Programação\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "66838b93d879777a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competência em Matéria de Fiscalização Prévia",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 14.º — Competência em Matéria de Fiscalização Prévia\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "37b7d46c18d65717": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Competência em Matéria de Fiscalização Concomitante e Sucessiva",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 15.º — Competência em Matéria de Fiscalização Concomitante e Sucessiva\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "7d76895163364ba9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Substituição",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 16.º — Substituição\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "7713d6c802df25c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Intervenção",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 17.º — Intervenção\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "3f6a3f51b0aecc23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Apoio Administrativo",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 18.º — Apoio Administrativo\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "b3bbfacb28bc8c10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Cooperação Entre as Unidades de Apoio Técnico-Operativo",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 19.º — Cooperação Entre as Unidades de Apoio Técnico-Operativo\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "27b4f764d8416886": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Preparação dos Projectos dos Programas Trienal e Anual e do Relatório de Actividades",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 20.º — Preparação dos Projectos dos Programas Trienal e Anual e do Relatório de Actividades\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "9cbb18a2b5c38b72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Estabilidade e Independência Técnicas",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 21.º — Estabilidade e Independência Técnicas\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "811d0b9725b47f34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Equipas de Projecto e de Auditoria",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 22.º — Equipas de Projecto e de Auditoria\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "209fc486cdcb9ce6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Consultadoria Externa",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 23.º — Consultadoria Externa\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "67accdfb5dbdc6d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Trabalhos Preparatórios",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 24.º — Trabalhos Preparatórios\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "4085002bc24dcdfe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Projecto de Parecer",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 25.º — Projecto de Parecer\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "3aaabdea97adb926": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Conclusão e Publicação",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 26.º — Conclusão e Publicação\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "454fa2cb68ff0c06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Conta da Assembleia Legislativa",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 27.º — Conta da Assembleia Legislativa\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "d38e9586902188b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Instrução dos Processos",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 28.º — Instrução dos Processos\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "e8fc5572e49ab071": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Procedimentos nas Sessões Diárias de Visto",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 29.º — Procedimentos nas Sessões Diárias de Visto\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "fcfc8c0534452f30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Auditorias de Fiscalização Prévia",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 30.º — Auditorias de Fiscalização Prévia\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "454a8b5be8d84156": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Procedimentos nas Sessões Ordinárias e Extraordinárias",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 31.º — Procedimentos nas Sessões Ordinárias e Extraordinárias\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "e4fa92a454aebbb6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Conteúdo das Decisões",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 32.º — Conteúdo das Decisões\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "c8df013907fcdc19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Acções",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 33.º — Acções\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "18c257f8dc8bc246": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Relato de Relatório",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 34.º — Relato de Relatório\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "92d2e28580f692bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Contraditório",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 35.º — Contraditório\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "0236d467273cfb7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Projecto de Relatório",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 36.º — Projecto de Relatório\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "032cab88ef16d7b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Relatório",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 37.º — Relatório\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "6b3c57d3c787f4ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Esclarecimento ou Rectificação de Erros Materiais dos Relatórios",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 38.º — Esclarecimento ou Rectificação de Erros Materiais dos Relatórios\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "a14062cb70af3243": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Relatórios dos Órgãos de Controlo Interno",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 39.º — Relatórios dos Órgãos de Controlo Interno\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "4564c889fb92df1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Denúncias",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 40.º — Denúncias\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "d25962fe47e139b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Gestão Processual",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 41.º — Gestão Processual\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "bfde8bbc70d0b912": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Registo de Entrada",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 42.º — Registo de Entrada\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "d0ca676ec1b2e81d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Processo Autónomo de Multa",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 43.º — Processo Autónomo de Multa\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  },
+  "698078ca54de62f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Audiência de Discussão e Julgamento",
+   "in_force_from": "2024-01-09",
+   "changed_by": [
+    "Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+   ],
+   "markdown": "###### Artigo 44.º — Audiência de Discussão e Julgamento\n\n(Revogado.)\n\n> Revogado pelo/a [Resolução n.º 3/2023-PG](https://diariodarepublica.pt/dr/detalhe/resolucao/3-2024-836161933), publicado em 2024-01-08."
+  }
+ }
+}

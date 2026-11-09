@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-09-18'
+version_history:
+  file: decreto-lei-309-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-12-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-09-18'
+    amending: pt:dre:563025:por
+    amending_title: Decreto-Lei n.º 235/95
+    changes:
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/309/1994/12/21/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:34:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 235/95. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-309-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,11 +146,15 @@ Assim:
 
 No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, e nos termos das alíneas a) e c) do n.º l do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - É aprovada a alienação da totalidade das acções correspondentes ao capital social da sociedade Rodoviária de Lisboa, S. A., de que é única titular a RNIP - Rodoviária Nacional, Investimentos e Participações, SGPS, S. A.
+###### Artigo 1.º
+
+1 - É aprovada a alienação da totalidade das acções correspondentes ao capital social da sociedade Rodoviária de Lisboa, S. A., de que é única titular a RNIP - Rodoviária Nacional, Investimentos e Participações, SGPS, S. A.
 
 2 - A reprivatização referida no número anterior realizar-se-á nos termos do presente diploma.
 
-Art. 2.º - 1 - Será reservado para aquisição por trabalhadores, pequenos subscritores e emigrantes um montante de acções até 25% do capital social da sociedade a alienar.
+###### Artigo 2.º
+
+1 - Será reservado para aquisição por trabalhadores, pequenos subscritores e emigrantes um montante de acções até 25% do capital social da sociedade a alienar.
 
 2 - Será ainda efectuada a alienação em bloco de um lote de acções correspondente a, pelo menos, 75% do capital social da sociedade, a alienar em leilão competitivo.
 
@@ -143,7 +162,9 @@ Art. 2.º - 1 - Será reservado para aquisição por trabalhadores, pequenos sub
 
 4 - Para efeitos do disposto no n.º 1, entendem-se como trabalhadores as pessoas referidas no artigo 12.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
-Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas e mínimas individuais, a fixar mediante resolução do Conselho de Ministros.
+###### Artigo 3.º
+
+1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas e mínimas individuais, a fixar mediante resolução do Conselho de Ministros.
 
 2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades máximas e mínimas, a fixar em resolução do Conselho de Ministros, procedendo-se a rateio em função do número de subscritores, se disso for caso.
 
@@ -153,7 +174,9 @@ Art. 3.º - 1 - As aquisições de acções por trabalhadores serão sujeitas a 
 
 5 - Nos 15 dias seguintes ao termo do processo de reprivatização, a sociedade publicará, nos termos prescritos para os anúncios sociais pelo artigo 167.º do Código das Sociedades Comerciais, a lista dos seus accionistas, com indicação da quantidade de acções de que cada um é titular.
 
-Art. 4.º - 1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores, bem como a forma de licitação das acções que sejam alienadas em bloco.
+###### Artigo 4.º
+
+1 - A resolução do Conselho de Ministros fixará os preços base de alienação por oferta em bolsa de valores, bem como a forma de licitação das acções que sejam alienadas em bloco.
 
 2 - A mesma resolução fixará preços especiais fixos para as acções a adquirir por trabalhadores, pequenos subscritores e emigrantes.
 
@@ -169,23 +192,45 @@ Art. 4.º - 1 - A resolução do Conselho de Ministros fixará os preços base d
 
 8 - As acções adquiridas por pequenos subscritores e emigrantes não conferem o direito de voto durante o período de indisponibilidade.
 
-Art. 5.º As concessões de transporte colectivo de passageiros de que, nos termos da legislação em vigor, seja detentora a sociedade objecto de reprivatização à data da sua alienação e tenham o termo do seu prazo no período de cinco anos a contar daquela data serão necessariamente prorrogadas até ao fim deste período, excepto se, comprovadamente, for afectado o interesse público.
+###### Artigo 5.º
 
-Art. 6.º Compete ao conselho de administração da sociedade alienante propor ao Ministro das Finanças o valor das empresas, com base em avaliações especialmente efectuadas por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
+As concessões de transporte colectivo de passageiros de que, nos termos da legislação em vigor, seja detentora a sociedade objecto de reprivatização à data da sua alienação e tenham o termo do seu prazo no período de cinco anos a contar daquela data serão necessariamente prorrogadas até ao fim deste período, excepto se, comprovadamente, for afectado o interesse público.
 
-Art. 7.º Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para a execução deste diploma.
+###### Artigo 6.º
 
-Art. 8.º Para efeitos da primeira assembleia geral de accionistas da Rodoviária de Lisboa, S. A., não serão consideradas as transmissões de acções subsequentes às operações de reprivatização até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização.
+Compete ao conselho de administração da sociedade alienante propor ao Ministro das Finanças o valor das empresas, com base em avaliações especialmente efectuadas por duas entidades independentes, a escolher de entre as que foram pré-qualificadas por despacho do Ministro das Finanças.
 
-Art. 9.º - 1 - Nos 30 dias seguintes à alienação das acções será convocada a assembleia geral de accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
+###### Artigo 7.º
+
+Cabe ao Conselho de Ministros aprovar, mediante resolução, as condições finais e concretas das operações a realizar para a execução deste diploma.
+
+###### Artigo 8.º
+
+Para efeitos da primeira assembleia geral de accionistas da Rodoviária de Lisboa, S. A., não serão consideradas as transmissões de acções subsequentes às operações de reprivatização até essa data realizadas, fazendo-se prova da titularidade das acções pelos documentos de aquisição no processo de reprivatização.
+
+###### Artigo 9.º
+
+1 - Nos 30 dias seguintes à alienação das acções será convocada a assembleia geral de accionistas para se reunir no prazo mínimo permitido por lei, a fim de serem eleitos os membros dos órgãos sociais.
 
 2 - Nos 90 dias seguintes à conclusão da reprivatização prevista no presente diploma a sociedade deverá proceder às necessárias adaptações estatutárias.
 
-Art. 10.º - 1 - É extinta a RNIP - Rodoviária Nacional, Investimentos e Participações, SGPS, S. A.
+###### Artigo 10.º
 
-2 - A extinção efectivar-se-á no último dia do 3.º mês seguinte à reprivatização da Rodoviária de Lisboa, S. A.
+1 - É dissolvida, com efeitos reportados a 15 de Julho de 1995, a RNIP - Rodoviária Nacional, Investimentos e Participações, SGPS, S. A.
 
-3 - Em assembleia geral da RNIP, SGPS, S. A., a realizar nos 30 dias subsequentes à reprivatização da Rodoviária de Lisboa, S. A., serão definidos os termos em que se fará a dissolução e liquidação da sociedade.
+2 - Os documentos de prestação de contas a que se refere o artigo 149.º do Código das Sociedades Comerciais devem estar organizados e aprovados até 31 de Agosto de 1995.
+
+3 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral, sem prejuízo do disposto nos números seguintes.
+
+4 - Se a assembleia geral deliberar proceder à liquidação de todo o património, activo e passivo, da sociedade dissolvida mediante transmissão para o seu accionista único, é dispensado o acordo a que se refere o n.º 1 do artigo 148.º do Código das Sociedades Comerciais.
+
+5 - Com a transmissão prevista no número anterior considera-se imediatamente encerrada a liquidação, não havendo lugar à observância do disposto no artigo 157.º do Código das Sociedades Comerciais, operando-se a extinção da sociedade pelo registo daquele acto.
+
+6 - A posição da RNIP nas acções judiciais pendentes em que esta seja parte será assumida pelo Estado, não se suspendendo a instância nem sendo necessária habilitação.
+
+7 - Os actos a praticar pelo conselho de administração ou pelos liquidatários da RNIP, SGPS, S. A., respeitantes à dissolução, liquidação e extinção da sociedade são efectuados com dispensa de escritura pública e com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois dos seus membros.
+
+> Alterado pelo/a [Decreto-Lei n.º 235/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1995-563025), publicado em 1995-09-13.
 
 Visto e aprovado em Conselho de Ministros de 3 de Novembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral.
 

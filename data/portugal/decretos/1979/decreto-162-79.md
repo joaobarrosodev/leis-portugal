@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-06-05'
+version_history:
+  file: decreto-162-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-06-05'
+    amending: pt:dre:226985:por
+    amending_title: Decreto-Lei n.º 123/86
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:52:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 123/86. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1979/decreto-162-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,13 +177,17 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea d) do artigo 202.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º — (Extinção)
+###### Artigo 1.º — Extinção
 
 1 - É extinta a Empresa Pública do Jornal O Século.
 
-2 - A EPJS mantém, porém, a capacidade jurídica para efeitos de liquidação até à aprovação das contas apresentadas pela comissão liquidatária.
+2 - A EPJS mantém a personalidade jurídica para efeitos de liquidação até aprovação das contas.
 
-###### ARTIGO 2.º — (Consequências da extinção)
+3 - O Estado, representado pela Direcção-Geral da Comunicação Social, constitui-se liquidatário da EPJS, cumprindo-lhe exercer todos os poderes necessários à liquidação do património da Empresa extinta.
+
+> Alterado pelo/a [Decreto-Lei n.º 123/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1986-226985), publicado em 1986-05-31.
+
+###### Artigo 2.º — (Consequências da extinção)
 
 1 - Com a entrada em vigor do presente decreto, caducam imediatamente todos os contratos de trabalho em que seja parte a Empresa Pública do Jornal O Século, com excepção dos relativos aos trabalhadores que se encontrem afectos às Livrarias de Lisboa e Porto e à delegação da distribuidora em Coimbra.
 
@@ -176,13 +195,13 @@ O Governo decreta, nos termos da alínea d) do artigo 202.º da Constituição, 
 
 3 - Mantêm-se igualmente todos os contratos de arrendamento em que seja arrendatária a Empresa Pública do Jornal O Século.
 
-###### ARTIGO 3.º — (Assunção de dívidas pelo Estado)
+###### Artigo 3.º — (Assunção de dívidas pelo Estado)
 
 1 - Para além das dívidas mencionadas no artigo 5.º do [Decreto-Lei n.º 465-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-a-1979-149793), de 6 de Dezembro, são assumidas também pelo Estado as dívidas resultantes da garantia assegurada na alínea d) do [Despacho Normativo n.º 43/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/43-1977-141791), de 5 de Fevereiro, do Secretário de Estado da Comunicação Social.
 
 2 - O Estado substituí-se aos trabalhadores nas suas posições credoras para com a EPJS com a graduação que por lei àqueles competia.
 
-###### ARTIGO 4.º — (Competência da comissão liquidatária)
+###### Artigo 4.º — (Competência da comissão liquidatária)
 
 1 - A comissão liquidatária terá os poderes necessários à liquidação da EPJS, nos limites da lei, do disposto no presente decreto e das directrizes que lhe forem fixadas pelos Ministros das Finanças da tutela.
 
@@ -202,7 +221,7 @@ f) Preservar a integridade do arquivo de documentação de informação do jorna
 
 g) Desempenhar as demais funções que lhe sejam atribuídas por lei ou por este decreto.
 
-###### ARTIGO 5.º — (Deliberações da comissão liquidatária)
+###### Artigo 5.º — (Deliberações da comissão liquidatária)
 
 1 - As deliberações da comissão liquidatária são tomadas por maioria absoluta dos seus membros.
 
@@ -210,27 +229,27 @@ g) Desempenhar as demais funções que lhe sejam atribuídas por lei ou por este
 
 3 - As deliberações ficarão a constar de acta em que se consigne se foram tomadas por unanimidade ou por maioria e, neste último caso, com a menção de quem votou contra.
 
-###### ARTIGO 6.º — (Vinculação)
+###### Artigo 6.º — (Vinculação)
 
 1 - Os actos e documentos relativos à liquidação deverão ser praticados ou assinados por dois membros da comissão liquidatária.
 
 2 - Exceptuam-se do disposto no número anterior os casos de mero expediente, em que bastará uma assinatura.
 
-###### ARTIGO 7.º — (Avaliação de bens)
+###### Artigo 7.º — (Avaliação de bens)
 
 Os bens que permaneçam no sector público serão avaliados nos termos do artigo 44.º, n.º 3, do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
 
-###### ARTIGO 8.º — (Reclamação de créditos)
+###### Artigo 8.º — (Reclamação de créditos)
 
 1 - os credores da EPJS deverão reclamar os seus créditos no prazo de trinta dias a contar da data em que forem avisados da liquidação pelas formas previstas no artigo 43.º, n.º 2, do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.
 
 2 - O disposto no artigo 3.º, n.º 1, do presente decreto não dispensa os trabalhadores de cumprirem o preceituado no número anterior.
 
-###### ARTIGO 9.º — (Nomeação da comissão liquidatária)
+###### Artigo 9.º — (Nomeação da comissão liquidatária)
 
 São nomeados para integrarem a comissão liquidatária os membros da comissão administrativa da EPJS.
 
-###### ARTIGO 10.º — (Entrada em vigor)
+###### Artigo 10.º — (Entrada em vigor)
 
 O presente decreto-lei entra em vigor na data da sua publicação.
 

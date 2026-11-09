@@ -1,0 +1,228 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:476695:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-01-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d18c56287e29b1d8",
+    "10c076a22a2d63f2",
+    "69a6f9d677df896c",
+    "356ac6c38d34674b",
+    "8c8e895754547310",
+    "e2626fd126c73af7",
+    "1afe16fcc1f564c2",
+    "a0180edb44a6c096",
+    "8faa3471bd431c07",
+    "5ccf24d9ef574fbc",
+    "824813a132724c2b"
+   ]
+  },
+  {
+   "date": "1981-02-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:391018:por",
+     "title": "Lei n.º 2/81",
+     "published": "1981-02-18",
+     "dre_path": "/dr/detalhe/lei/2-1981-391018"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "d18c56287e29b1d8",
+    "6a063500158d1068",
+    "b9bf9eadb79ecd13",
+    "1466849f46c2d39c",
+    "e106bf2bc410dd9c",
+    "741eaf1b60ad7b6e",
+    "dc8883494c37dd39",
+    "bf38d48ede9a7d6c",
+    "e4c69416e6bc31f9",
+    "620ed0117b42407e",
+    "0e5ccf6b05aad0a1"
+   ]
+  }
+ ],
+ "fragments": {
+  "d18c56287e29b1d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Janeiro\n\nEliminação do analfabetismo\n\nA Assembleia da República decreta, nos termos da alínea d) do artigo 164.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:"
+  },
+  "10c076a22a2d63f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — (Princípios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — (Princípios)\n\n1 - Incumbe ao Estado, nos termos da Constituição, assegurar o ensino básico universal e eliminar o analfabetismo.\n\n2 - A iniciativa do Estado deve concretizar-se pela acção conjunta dos órgãos de administração central e local, com respeito pelo princípio da descentralização administrativa.\n\n3 - O Estado reconhece e apoia as iniciativas existentes no domínio da alfabetização e educação de base dos adultos, designadamente as de associações de educação popular, de colectividades de cultura e recreio, de cooperativas de cultura, de organizações populares de base territorial, de organizações sindicais, de comissões de trabalhadores e de organizações confessionais."
+  },
+  "69a6f9d677df896c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — (Definição e âmbito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — (Definição e âmbito)\n\n1 - A alfabetização e educação de base são entendidas na dupla perspectiva da valorização pessoal dos adultos e da sua progressiva participação na vida cultural, social e política, tendo em vista a construção de uma sociedade democrática e independente.\n\n2 - O processo de alfabetização desenvolve-se a partir da aprendizagem da leitura e da escrita, acompanhada de outros programas de educação não formal de interesse para os adultos.\n\n3 - A educação de base implica, numa primeira etapa, a preparação correspondente à prova de avaliação do ensino básico elementar e, posteriormente, a definição de curricula adequadas aos adultos, a nível dos outros graus da escolaridade obrigatória."
+  },
+  "356ac6c38d34674b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — (Plano Nacional de Alfabetização e Educação de Base de Adultos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — (Plano Nacional de Alfabetização e Educação de Base de Adultos)\n\n1 - A actividade do Estado em matéria de alfabetização e educação de base dos adultos é definida no Plano Nacional de Alfabetização e Educação de Base de Adultos.\n\n2 - O Plano Nacional de Alfabetização e Educação de Base de Adultos tem como objectivo a eliminação sistemática e gradual do analfabetismo e o progressivo acesso de todos os adultos que o desejem aos vários graus da escolaridade obrigatória.\n\n3 - O Plano Nacional de Alfabetização e Educação de Base de Adultos deve ser coordenado com as políticas de desenvolvimento cultural e de animação sócio-cultural e integrado num plano mais amplo de educação de adultos, a definir pelo Governo.\n\n4 - O Plano Nacional de Alfabetização e Educação de Base de Adultos determina as grandes metas da alfabetização e da escolaridade base dos adultos e os meios para as atingir, bem como os respectivos agentes e programas de acção."
+  },
+  "8c8e895754547310": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — (Elaboração do Plano Nacional de Alfabetização e Educação de Base de Adultos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — (Elaboração do Plano Nacional de Alfabetização e Educação de Base de Adultos)\n\n1 - A elaboração do Plano Nacional de Alfabetização e Educação de Base de Adultos incumbe ao Governo, com a participação do Conselho Nacional de Alfabetização e Educação de Base de Adultos (CNAEBA), a fim de possibilitar a intervenção das autarquias locais e, de forma geral, de todos os interessados em colaborar na sua realização.\n\n2 - O Conselho Nacional de Alfabetização e Educação de Base de Adultos (CNAEBA) participa na elaboração do Plano Nacional de Alfabetização e Educação de Base de Adultos através de pareceres sobre as questões que lhe sejam submetidas pelo Governo e através de propostas que julgue oportuno apresentar aos órgãos governamentais competentes."
+  },
+  "e2626fd126c73af7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — (Conselho Nacional de Alfabetização e Educação de Base de Adultos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — (Conselho Nacional de Alfabetização e Educação de Base de Adultos)\n\n1 - É criado junto da Assembleia da República o Conselho Nacional de Alfabetização e Educação de Base de Adultos (CNAEBA).\n\n2 - O CNAEBA é constituído por:\n\na) Um representante de cada grupo parlamentar designado pela Assembleia da República, de entre os quais será eleito um presidente, considerando-se os restantes como vice-presidentes;\n\nb) Quatro representantes dos departamentos governamentais responsáveis pela elaboração e realização do PNAEBA, a nomear pelo Governo;\n\nc) Um representante de cada uma das assembleias das regiões autónomas;\n\nd) Um representante de cada região administrativa;\n\ne) Sete representantes de organizações referidas no n.º 3 do artigo 1.º\n\n3 - Enquanto não forem instituídas as regiões administrativas, os representantes referidos na alínea d) do número anterior são substituídos por um representante de cada assembleia distrital.\n\n4 - O Conselho deve estar constituído no prazo de sessenta dias após a entrada em vigor da presente lei.\n\n5 - O Presidente da Assembleia da República empossará, no prazo referido no número anterior, o presidente e os vice-presidentes do CNAEBA."
+  },
+  "1afe16fcc1f564c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — (Atribuições do CNAEBA)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — (Atribuições do CNAEBA)\n\n1 - Ao Conselho Nacional de Alfabetização e Educação de Base de Adultos incumbe especialmente:\n\na) Sensibilizar a consciência nacional para as tarefas de alfabetização e educação de base de adultos e apoiar os órgãos governamentais e outras entidades empenhadas na realização dessas tarefas;\n\nb) Participar na elaboração do PNAEBA, nos termos da presente lei;\n\nc) Acompanhar a execução do Plano Nacional de Alfabetização e Educação de Base de Adultos, propor medidas tendentes a melhorá-lo, participar na sua avaliação e pronunciar-se sobre as questões que lhe sejam submetidas pelo Governo.\n\n2 - A fim de poder desempenhar as atribuições que lhe são cometidas, o CNAEBA tem acesso à informação de que, para esse efeito, necessite.\n\n3 - O CNAEBA elabora o seu regimento e normas de funcionamento."
+  },
+  "a0180edb44a6c096": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — (Encargos e instalações do CNAEBA)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — (Encargos e instalações do CNAEBA)\n\nOs encargos com o funcionamento do Conselho Nacional de Alfabetização e Educação de Base de Adultos são cobertos pela dotação orçamental atribuída à Assembleia da República, à qual o Conselho pode requisitar as instalações e o apoio técnico e administrativo de que necessite para o exercício das suas funções."
+  },
+  "8faa3471bd431c07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — (Autarquias locais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — (Autarquias locais)\n\nAs câmaras municipais e as juntas de freguesia participam no PNAEBA, competindo-lhes colaborar com os órgãos governamentais e outras entidades empenhadas em acções de alfabetização e educação de base de adultos no lançamento e execução do programa na respectiva área."
+  },
+  "5ccf24d9ef574fbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — (Dos agentes e das instalações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — (Dos agentes e das instalações)\n\n1 - No recrutamento dos agentes executivos do Plano Nacional de Alfabetização e Educação de Base de Adultos dá-se prioridade aos professores do ensino primário que não tenham obtido colocação e se disponham a adquirir formação adequada.\n\n2 - Para além de outros agentes especificamente qualificados, podem também ser recrutados professores do ensino básico já colocados, desde que manifestem esse interesse, se disponham a adquirir a formação adequada e não haja incompatibilidade de horário entre as duas funções.\n\n3 - Sempre que necessário à realização dos objectivos do Plano Nacional de Alfabetização e Educação de Base de Adultos, são utilizadas, fora das horas normais de serviço escolar, as escolas de ensino básico disponíveis."
+  },
+  "824813a132724c2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º — (Competência do Governo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º — (Competência do Governo)\n\n1 - Compete ao Governo:\n\na) Elaborar o Plano Nacional de Alfabetização e Educação de Base de Adultos e promover a sua publicação e execução em colaboração com os órgãos definidos na presente lei;\n\nb) Incluir nas propostas de lei do Orçamento Geral do Estado as verbas necessárias à efectivação da presente lei.\n\n2 - No prazo de seis meses após a publicação da presente lei, o Governo promoverá a apresentação ao Conselho Nacional de Alfabetização e Educação de Base de Adultos do projecto do Plano Nacional de Alfabetização e Educação de Base de Adultos.\n\nAprovada em 14 de Novembro de 1978.\n\nO Presidente da Assembleia da República, Teófilo Carvalho dos Santos.\n\nPromulgada em 14 de Dezembro de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto."
+  },
+  "6a063500158d1068": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Princípios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Princípios)\n\n1 - Incumbe ao Estado, nos termos da Constituição, assegurar o ensino básico universal e eliminar o analfabetismo.\n\n2 - A iniciativa do Estado deve concretizar-se pela acção conjunta dos órgãos de administração central e local, com respeito pelo princípio da descentralização administrativa.\n\n3 - O Estado reconhece e apoia as iniciativas existentes no domínio da alfabetização e educação de base dos adultos, designadamente as de associações de educação popular, de colectividades de cultura e recreio, de cooperativas de cultura, de organizações populares de base territorial, de organizações sindicais, de comissões de trabalhadores e de organizações confessionais."
+  },
+  "b9bf9eadb79ecd13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Definição e âmbito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Definição e âmbito)\n\n1 - A alfabetização e educação de base são entendidas na dupla perspectiva da valorização pessoal dos adultos e da sua progressiva participação na vida cultural, social e política, tendo em vista a construção de uma sociedade democrática e independente.\n\n2 - O processo de alfabetização desenvolve-se a partir da aprendizagem da leitura e da escrita, acompanhada de outros programas de educação não formal de interesse para os adultos.\n\n3 - A educação de base implica, numa primeira etapa, a preparação correspondente à prova de avaliação do ensino básico elementar e, posteriormente, a definição de curricula adequadas aos adultos, a nível dos outros graus da escolaridade obrigatória."
+  },
+  "1466849f46c2d39c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Plano Nacional de Alfabetização e Educação de Base de Adultos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Plano Nacional de Alfabetização e Educação de Base de Adultos)\n\n1 - A actividade do Estado em matéria de alfabetização e educação de base dos adultos é definida no Plano Nacional de Alfabetização e Educação de Base de Adultos.\n\n2 - O Plano Nacional de Alfabetização e Educação de Base de Adultos tem como objectivo a eliminação sistemática e gradual do analfabetismo e o progressivo acesso de todos os adultos que o desejem aos vários graus da escolaridade obrigatória.\n\n3 - O Plano Nacional de Alfabetização e Educação de Base de Adultos deve ser coordenado com as políticas de desenvolvimento cultural e de animação sócio-cultural e integrado num plano mais amplo de educação de adultos, a definir pelo Governo.\n\n4 - O Plano Nacional de Alfabetização e Educação de Base de Adultos determina as grandes metas da alfabetização e da escolaridade base dos adultos e os meios para as atingir, bem como os respectivos agentes e programas de acção."
+  },
+  "e106bf2bc410dd9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Elaboração do Plano Nacional de Alfabetização e Educação de Base de Adultos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Elaboração do Plano Nacional de Alfabetização e Educação de Base de Adultos)\n\n1 - A elaboração do Plano Nacional de Alfabetização e Educação de Base de Adultos incumbe ao Governo, com a participação do Conselho Nacional de Alfabetização e Educação de Base de Adultos (CNAEBA), a fim de possibilitar a intervenção das autarquias locais e, de forma geral, de todos os interessados em colaborar na sua realização.\n\n2 - O Conselho Nacional de Alfabetização e Educação de Base de Adultos (CNAEBA) participa na elaboração do Plano Nacional de Alfabetização e Educação de Base de Adultos através de pareceres sobre as questões que lhe sejam submetidas pelo Governo e através de propostas que julgue oportuno apresentar aos órgãos governamentais competentes."
+  },
+  "741eaf1b60ad7b6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Conselho Nacional de Alfabetização e Educação de Base de Adultos)",
+   "in_force_from": "1981-02-18",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 2/81](https://diariodarepublica.pt/dr/detalhe/lei/2-1981-391018), publicado em 1981-02-18."
+   ],
+   "markdown": "###### Artigo 5.º — (Conselho Nacional de Alfabetização e Educação de Base de Adultos)\n\n1 - É criado junto da Assembleia da República o Conselho Nacional de Alfabetização e Educação de Base de Adultos (CNAEBA).\n\n2 - O CNAEBA é constituído por:\n\na) Um presidente e quatro vice-presidentes dos grupos parlamentares com maior número de deputados, designados pela Assembleia da República;\n\nb) Um representante de cada um dos grupos parlamentares cuja representação não seja assegurada pela alínea anterior, designados pela Assembleia da República;\n\nc) Quatro representantes dos departamentos governamentais responsáveis pela elaboração e realização do CNAEBA, a nomear pelo Governo;\n\nd) Um representante de cada uma das assembleias das regiões autónomas;\n\ne) Um representante de cada região administrativa;\n\nf) Sete representantes de organizações referidas no n.º 3 do artigo 1.º\n\n3 - Enquanto não forem instituídas as regiões administrativas, os representantes referidos na alínea d) do número anterior são substituídos por um representante de cada assembleia distrital.\n\n4 - O Conselho deve estar constituído no prazo de sessenta dias após a entrada em vigor da presente lei.\n\n5 - O Presidente da Assembleia da República empossará, no prazo referido no número anterior, o presidente e os vice-presidentes do CNAEBA.\n\n> Alterado pelo/a [Lei n.º 2/81](https://diariodarepublica.pt/dr/detalhe/lei/2-1981-391018), publicado em 1981-02-18."
+  },
+  "dc8883494c37dd39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Atribuições do CNAEBA)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Atribuições do CNAEBA)\n\n1 - Ao Conselho Nacional de Alfabetização e Educação de Base de Adultos incumbe especialmente:\n\na) Sensibilizar a consciência nacional para as tarefas de alfabetização e educação de base de adultos e apoiar os órgãos governamentais e outras entidades empenhadas na realização dessas tarefas;\n\nb) Participar na elaboração do PNAEBA, nos termos da presente lei;\n\nc) Acompanhar a execução do Plano Nacional de Alfabetização e Educação de Base de Adultos, propor medidas tendentes a melhorá-lo, participar na sua avaliação e pronunciar-se sobre as questões que lhe sejam submetidas pelo Governo.\n\n2 - A fim de poder desempenhar as atribuições que lhe são cometidas, o CNAEBA tem acesso à informação de que, para esse efeito, necessite.\n\n3 - O CNAEBA elabora o seu regimento e normas de funcionamento."
+  },
+  "bf38d48ede9a7d6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Encargos e instalações do CNAEBA)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Encargos e instalações do CNAEBA)\n\nOs encargos com o funcionamento do Conselho Nacional de Alfabetização e Educação de Base de Adultos são cobertos pela dotação orçamental atribuída à Assembleia da República, à qual o Conselho pode requisitar as instalações e o apoio técnico e administrativo de que necessite para o exercício das suas funções."
+  },
+  "e4c69416e6bc31f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Autarquias locais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Autarquias locais)\n\nAs câmaras municipais e as juntas de freguesia participam no PNAEBA, competindo-lhes colaborar com os órgãos governamentais e outras entidades empenhadas em acções de alfabetização e educação de base de adultos no lançamento e execução do programa na respectiva área."
+  },
+  "620ed0117b42407e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Dos agentes e das instalações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Dos agentes e das instalações)\n\n1 - No recrutamento dos agentes executivos do Plano Nacional de Alfabetização e Educação de Base de Adultos dá-se prioridade aos professores do ensino primário que não tenham obtido colocação e se disponham a adquirir formação adequada.\n\n2 - Para além de outros agentes especificamente qualificados, podem também ser recrutados professores do ensino básico já colocados, desde que manifestem esse interesse, se disponham a adquirir a formação adequada e não haja incompatibilidade de horário entre as duas funções.\n\n3 - Sempre que necessário à realização dos objectivos do Plano Nacional de Alfabetização e Educação de Base de Adultos, são utilizadas, fora das horas normais de serviço escolar, as escolas de ensino básico disponíveis."
+  },
+  "0e5ccf6b05aad0a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Competência do Governo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Competência do Governo)\n\n1 - Compete ao Governo:\n\na) Elaborar o Plano Nacional de Alfabetização e Educação de Base de Adultos e promover a sua publicação e execução em colaboração com os órgãos definidos na presente lei;\n\nb) Incluir nas propostas de lei do Orçamento Geral do Estado as verbas necessárias à efectivação da presente lei.\n\n2 - No prazo de seis meses após a publicação da presente lei, o Governo promoverá a apresentação ao Conselho Nacional de Alfabetização e Educação de Base de Adultos do projecto do Plano Nacional de Alfabetização e Educação de Base de Adultos.\n\nAprovada em 14 de Novembro de 1978.\n\nO Presidente da Assembleia da República, Teófilo Carvalho dos Santos.\n\nPromulgada em 14 de Dezembro de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto."
+  }
+ }
+}

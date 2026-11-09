@@ -31,10 +31,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-08-09'
+version_history:
+  file: decreto-lei-48618.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-10-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-08-09'
+    amending: pt:dre:635636:por
+    amending_title: Decreto-Lei n.º 338/71
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -60,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:06:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 338/71. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48618.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,23 +125,33 @@ Há muito é reconhecida em todos os países a necessidade de um órgão consult
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. Haverá na Câmara Corporativa uma secção permanente composta pelo Presidente da Câmara e por oito Procuradores designados por este de entre os membros da secção de Interesses de ordem administrativa.
+###### Artigo 1.º
+
+1. Haverá na Câmara Corporativa uma secção permanente composta pelo Presidente da Câmara e por oito Procuradores designados por este de entre os membros da secção de Interesses de ordem administrativa.
 
 2. Compete à secção permanente emitir parecer no prazo de 30 dias, ou no que for fixado pelo Governo em caso de urgência, sobre os projectos de diploma que sejam submetidos à Câmara nos termos do artigo 105.º da Constituição.
 
 3. O Presidente da Câmara, ouvido o Conselho da presidência, poderá agregar à secção permanente, para efeito de dar parecer sobre determinado projecto, até oito Procuradores escolhidos em quaisquer secções pela sua competência na matéria a estudar.
 
-Art. 2.º A Câmara emitirá parecer, na forma estabelecida pelo seu Regimento, quando, mesmo no intervalo das sessões legislativas, seja consultada pelo Governo sobre projectos de propostas de lei a apresentar à Assembleia Nacional ou sobre planos de fomento ou de administração.
+###### Artigo 2.º
 
-Art. 3.º O Conselho da Presidência da Câmara Corporativa é composto pelos antigos Presidentes da Câmara que sejam Procuradores, pelos Vice-Presidentes da Mesa, pelos presidentes das corporações e por quatro Procuradores escolhidos pelo Presidente de entre antigos membros do Governo.
+A Câmara emitirá parecer, na forma estabelecida pelo seu Regimento, quando, mesmo no intervalo das sessões legislativas, seja consultada pelo Governo sobre projectos de propostas de lei a apresentar à Assembleia Nacional ou sobre planos de fomento ou de administração.
 
-Art. 4.º - 1. São criados no quadro da Secretaria-Geral da Assembleia Nacional três lugares de auditor e três de técnico de 1.ª classe, para prestarem serviço na Câmara Corporativa, nomeados pelo Presidente do Conselho, sob proposta do Presidente da Câmara, de entre licenciados em Direito ou em Economia.
+###### Artigo 3.º
+
+O Conselho da Presidência da Câmara Corporativa é composto pelos antigos Presidentes da Câmara que sejam Procuradores, pelos Vice-Presidentes da Mesa, pelos presidentes das corporações e por quatro Procuradores escolhidos pelo Presidente de entre antigos membros do Governo.
+
+###### Artigo 4.º
+
+1. São criados no quadro da Secretaria-Geral da Assembleia Nacional e da Câmara Corporativa três lugares de auditor e três de técnico de 1.ª classe para prestarem serviço na Câmara Corporativa, nomeados pelo Presidente do Conselho, sob proposta do Presidente da Câmara, entre diplomados com um curso superior adequado ao exercício das respectivas funções.
 
 2. Os auditores e técnicos coadjuvarão os relatores dos pareceres em tudo o que por estes lhes seja incumbido.
 
 3. As funções de auditor e de técnico da Câmara Corporativa poderão ser desempenhadas em comissão de serviço por magistrados judiciais ou do Ministério Público ou por funcionários em que concorram os requisitos necessários, mas a comissão durará apenas até ao termo da legislatura em que tiver lugar, sendo-lhes contado para todos os efeitos legais o tempo de exercício nessas funções como prestado nos próprios quadros.
 
 4. Os lugares de auditor a que se refere o n.º 1 terão a categoria correspondente à letra E do quadro do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+
+> Alterado pelo/a [Decreto-Lei n.º 338/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1971-635636), publicado em 1971-08-09.
 
 Publique-se e cumpra-se como nele se contém.
 

@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-01-01'
+version_history:
+  file: portaria-807-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-08-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-01-01'
+    amending: pt:dre:609990:por
+    amending_title: Lei n.º 3-B/2010; Lei n.º 55-A/2010
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/807/2008/08/08/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:34:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 3-B/2010; Lei n.º 55-A/2010.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-807-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,7 +204,13 @@ Nos termos do n.º 1 do artigo 151.º e dos artigos 154.º e 155.º, todos do [D
 
 ###### Artigo 5.º — Orçamento
 
-A dotação anual disponível para o financiamento de cada plano de obras tem por limite máximo, incluindo eventuais saldos transitados, a previsão constante do orçamento do Turismo de Portugal, I. P., para o exercício correspondente.
+1 - A dotação anual disponível para o financiamento de cada plano de obras tem por limite máximo, incluindo eventuais saldos transitados, a previsão constante do orçamento do Turismo de Portugal, I. P., para o exercício correspondente, a qual deve cumprir integralmente o disposto no n.º 3 do artigo 84.º do Decreto-Lei n.º 422/89, de 2 de Dezembro, alterado pela Lei n.º 64-A/2008, de 31 de Dezembro.
+
+2 - A previsão constante do orçamento do Turismo de Portugal, I. P., no que refere à dotação anual disponível para o financiamento de cada plano de obras não pode ser nunca inferior ao disposto no n.º 3 do artigo 84.º do Decreto-Lei n.º 422/89, de 2 de Dezembro, alterado pela lei n.º 64-A/2008, de 8 de Agosto, podendo o referido plano de obras ter natureza plurianual, desde que seja demonstrada a sua compatibilidade de execução com o valor estimado das correspondentes dotações anuais.
+
+> Alterado pelo/a Artigo 143.º do/a [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), publicado em 2010-04-28.
+
+> Alterado pelo/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.
 
 ###### Artigo 6.º — Execução financeira dos planos de obras
 

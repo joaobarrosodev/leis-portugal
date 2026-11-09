@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-10-09'
+version_history:
+  file: despacho-normativo-23-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-10-09'
+    amending: pt:dre:2417222:por
+    amending_title: Despacho Normativo n.º 52/2008
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Adita Artigo 2.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:06:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 52/2008. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2007/despacho-normativo-23-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,15 +162,23 @@ O presente diploma define as regras nacionais de execução da ajuda à reestrut
 
 5 - Cabe ao IFAP notificar os candidatos da decisão referida no n.º 3 nos cinco dias seguintes à data da recepção da informação referida no número anterior.
 
+###### Artigo 2.º-A — Ajuda
+
+As empresas mencionadas na alínea a) do n.º 8 do artigo 3.º do Regulamento (CE) n.º 320/2006, recebem um montante de (euro) 12,92 por tonelada de açúcar renunciado.
+
+> Aditado pelo/a [Despacho Normativo n.º 52/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-2008-2417222), publicado em 2008-10-09.
+
 #### SECÇÃO III — Ajuda aos produtores
 
 ###### Artigo 3.º — Dos beneficiários da ajuda
 
 1 - Na campanha de comercialização de 2006-2007, são beneficiários da ajuda os produtores de beterraba sacarina de Portugal continental detentores de direitos de contratação para esta campanha e que tenham entregue beterraba sacarina produzida no continente em, pelo menos, uma das campanhas de comercialização de 2003-2004, de 2004-2005 e de 2005-2006, que corresponda a açúcar de quota.
 
-2 - Na campanha de comercialização de 2007-2008, são beneficiários da ajuda os produtores de beterraba sacarina de Portugal continental detentores de direitos de contratação que tenham entregue beterraba durante o período de reestruturação imediatamente anterior.
+2 - Nas campanhas de comercialização de 2007-2008 e 2008-2009, são beneficiários da ajuda os produtores de beterraba sacarina de Portugal continental que tenham celebrado contratos de entrega na campanha imediatamente anterior com as empresas referidas no n.º 1 do artigo 2.º
 
-3 - Os produtores que não tenham entregue beterraba sacarina nos termos dos números anteriores por motivos de força maior mantêm o direito à ajuda.
+3 - Os produtores que não tenham entregue beterraba sacarina nos termos do n.º 1 por motivos de força maior mantêm o direito à ajuda.
+
+> Alterado pelo/a [Despacho Normativo n.º 52/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-2008-2417222), publicado em 2008-10-09.
 
 ###### Artigo 4.º — Do pedido de ajuda
 
@@ -161,9 +188,17 @@ O presente diploma define as regras nacionais de execução da ajuda à reestrut
 
 ###### Artigo 5.º — Do valor da ajuda
 
-1 - Os valores da ajuda a atribuir correspondem aos montantes de Euro 899 820 e de Euro 1 395 030 para as campanhas de 2006-2007 e de 2007-2008, respectivamente.
+1 - Os valores da ajuda a atribuir para as campanhas de 2006-2007, 2007-2008 e 2008-2009 são de (euro) 899 820, (euro) 1 395 030 e (euro) 328 125, respectivamente.
 
 2 - O montante a atribuir por tonelada de beterraba sacarina de qualidade tipo conforme definida no anexo I do Regulamento (CE) n.º 318/2006, do Conselho, de 20 de Fevereiro, é o resultante da divisão do montante referido no número anterior pelo total dos direitos de contratação objecto de renúncia.
+
+3 - O pagamento suplementar referido n.º 7 do artigo 3.º do Regulamento (CE) n.º 320/2006 é atribuído por tonelada de beterraba sacarina de qualidade tipo conforme definida no anexo I do Regulamento (CE) n.º 318/2006, que tenha originado quota de açúcar objecto de renúncia.
+
+4 - São também atribuídos nos termos do n.º 2 aos produtores de beterraba sacarina que se encontrem nas condições referidas na alínea b) do n.º 8 do artigo 3.º do Regulamento (CE) n.º 320/2006, os montantes retroactivos de (euro) 8 235 025 e de (euro) 3 662 880, respectivamente, a título das campanhas de comercialização 2006-2007 e 2007-2008.
+
+> Alterado pelo/a [Despacho Normativo n.º 52/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-2008-2417222), publicado em 2008-10-09.
+
+> Alterado pelo/a [Despacho Normativo n.º 52/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-2008-2417222), publicado em 2008-10-09.
 
 #### SECÇÃO IV — Disposições finais
 
@@ -173,7 +208,11 @@ Para efeitos da atribuição da ajuda prevista neste diploma, devem as empresas 
 
 a) No que respeita à campanha de 2006-2007, a lista dos produtores com quotas de produção que tenham entregue beterraba sacarina numa das campanhas de 2003-2004 a 2005-2006, com indicação dos respectivos direitos de contratação renunciados;
 
-b) No que respeita à campanha de 2007-2008, a lista dos produtores com quota que tenham entregue beterraba na campanha de 2006-2007, com indicação dos respectivos direitos de contratação renunciados.
+b) No que respeita à campanha 2007-2008, a lista dos produtores que tenham celebrado contrato com a empresa na campanha 2006-2007, com a indicação dos respectivos direitos de contratação renunciados.
+
+c) No que respeita à campanha 2008-2009, a lista dos produtores que tenham celebrado contrato com a empresa na campanha 2007-2008 com a indicação dos respectivos direitos de contratação renunciados.
+
+> Alterado pelo/a [Despacho Normativo n.º 52/2008](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-2008-2417222), publicado em 2008-10-09.
 
 ###### Artigo 7.º — Entrada em vigor
 

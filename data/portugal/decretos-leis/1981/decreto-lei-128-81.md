@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-01-04'
+version_history:
+  file: decreto-lei-128-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-01-04'
+    amending: pt:dre:401901:por
+    amending_title: Decreto-Lei n.º 485/88
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:36:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 485/88. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1981/decreto-lei-128-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,9 +139,17 @@ Usando da autorização legislativa concedida pelo artigo 34.º da [Lei n.º 4/8
 
 O Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º O Ministro das Finanças e do Plano pode, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos, depois de ouvidos os serviços competentes dos Ministérios que superintendam nas respectivas actividades, conceder isenção de contribuições, impostos, taxas, emolumentos e outros encargos legais, relativamente às cisões de sociedades que se revistam de superior interesse para o desenvolvimento nacional ou das regiões economicamente desfavorecidas.
+###### Artigo 1.º
 
-Art. 2.º Os requerimentos, solicitando a concessão dos benefícios previstos no artigo anterior, devem ser apresentados, antes de efectuada a cisão, na Direcção-Geral das Contribuições e Impostos, sem o que serão indeferidos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30.
+
+###### Artigo 2.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
 

@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1968-11-02'
+version_history:
+  file: decreto-lei-48438.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-06-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1968-11-02'
+    amending: pt:dre:263912:por
+    amending_title: Decreto-Lei n.º 48651
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:05:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48651. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48438.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -106,19 +121,35 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Fica a Câmara Municipal de Lisboa autorizada a contrair um empréstimo externo, em dólares dos Estados Unidos da América, até ao montante equivalente a 320000 contos, e a celebrar os contratos que forem necessários para a realização desta operação.
+###### Artigo 1.º
 
-Art. 2.º Serão fixadas por despacho do Ministro das Finanças, sob proposta da Câmara Municipal de Lisboa, as condições do empréstimo a que se refere o presente diploma.
+Fica a Câmara Municipal de Lisboa autorizada a contrair um empréstimo externo, de montante não superior a 320000 contos, e a celebrar os contratos que forem necessários para a realização desta operação.
 
-Art. 3.º A Câmara Municipal de Lisboa fica autorizada a transferir o produto do empréstimo para o Metropolitano de Lisboa, S. A. R. L., em condições compatíveis com a economia do empreendimento e, bem assim, a aprovar os orçamentos suplementares que pela realização do empréstimo e do financiamento se mostrarem necessários, além dos referidos no § 1.º do artigo 680.º do Código Administrativo.
+> Alterado pelo/a [Decreto-Lei n.º 48651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48651-1968-263912), publicado em 1968-11-02.
 
-Art. 4.º Desde já se permite a aquisição e transferência dos dólares correspondentes ao serviço deste empréstimo.
+###### Artigo 2.º
 
-Art. 5.º As operações financeiras previstas neste diploma gozam de isenção total de impostos.
+Serão fixadas por despacho do Ministro das Finanças, sob proposta da Câmara Municipal de Lisboa, as condições do empréstimo a que se refere o presente diploma.
 
-Art. 6.º Para ocorrer à amortização antecipada deste empréstimo poderá o Ministro das Finanças autorizar a Câmara Municipal de Lisboa a emitir obrigações no mercado interno, nas condições e com as isenções fiscais que forem julgadas convenientes.
+###### Artigo 3.º
 
-Art. 7.º Este diploma entra imediatamente em vigor.
+A Câmara Municipal de Lisboa fica autorizada a transferir o produto do empréstimo para o Metropolitano de Lisboa, S. A. R. L., em condições compatíveis com a economia do empreendimento e, bem assim, a aprovar os orçamentos suplementares que pela realização do empréstimo e do financiamento se mostrarem necessários, além dos referidos no § 1.º do artigo 680.º do Código Administrativo.
+
+###### Artigo 4.º
+
+Desde já se permite a aquisição e transferência dos dólares correspondentes ao serviço deste empréstimo.
+
+###### Artigo 5.º
+
+As operações financeiras previstas neste diploma gozam de isenção total de impostos.
+
+###### Artigo 6.º
+
+Para ocorrer à amortização antecipada deste empréstimo poderá o Ministro das Finanças autorizar a Câmara Municipal de Lisboa a emitir obrigações no mercado interno, nas condições e com as isenções fiscais que forem julgadas convenientes.
+
+###### Artigo 7.º
+
+Este diploma entra imediatamente em vigor.
 
 Publique-se e cumpra-se como nele se contém.
 

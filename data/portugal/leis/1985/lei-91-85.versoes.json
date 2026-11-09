@@ -1,0 +1,156 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:261687:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-10-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2ad56c955b6656be",
+    "e19ffa3861be11ac",
+    "503b9c863c95ebb4",
+    "beac0c81377fca54",
+    "21890abf1c81bd55",
+    "e7e9cabedfb6a847",
+    "12e3789feeaa4361"
+   ]
+  },
+  {
+   "date": "1988-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:374232:por",
+     "title": "Lei n.º 73/88",
+     "published": "1988-05-28",
+     "dre_path": "/dr/detalhe/lei/73-1988-374232"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "2ad56c955b6656be",
+    "fe8c88ded759331b",
+    "205fc4984e0ca6c5",
+    "5bbfbef00ac928e0",
+    "389ae702f72a5175",
+    "afba18a85f1daf29",
+    "f14459932740dfa9"
+   ]
+  }
+ ],
+ "fragments": {
+  "2ad56c955b6656be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Outubro\n\nCriação da freguesia de Pedrouços no concelho da Maia\n\nA Assembleia da República decreta, nos termos da alínea j) do artigo 167.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:"
+  },
+  "e19ffa3861be11ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º\n\nÉ criada no concelho da Maia a freguesia de Pedrouços."
+  },
+  "503b9c863c95ebb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º\n\nOs limites da nova freguesia, conforme representação cartográfica anexa, são:\n\nA norte, pela linha da cintura (ponte do Brasoleiro) Lei tudo o que actualmente, pertence à freguesia de Águas Santas, seguindo pela linha da cintura à Travessa de D. Amélia Moutinho Alves, que da linha vai à Rua de Augusta Simões, frente ao n.º 406, seguindo a partilha pela Rua de Macau, a norte do paiol da pólvora de Pedrouços, seguindo pela Rua de Macau em direcção ao hectómetro 8 da estrada nacional n.º 208 (que de São Mamede de Infesta vai ao Alto da Maia) (é desde cerca de 10 m antes do hectómetro 1 do quilómetro 8 da mesma estrada);\n\nA oeste, parte pela estrada acima referida Lei tudo o que actualmente é de Águas Santas, a partir de São Mamede de Infesta até à Rua da Arroteia, pela Rua da Arroteia e pela Travessa da Circunvalação até à Circunvalação\n\nA sul, pela Circunvalação a partir com Faranhos;\n\nA este, desde a Circunvalação até ao Brasoleiro (linha da cintura) a partir com Rio Tinto."
+  },
+  "beac0c81377fca54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º\n\n1 - A comissão instaladora da nova freguesia será constituída nos termos e no prazo previstos no artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832), de 2 de Junho.\n\n2 - Para os efeitos da disposição referida no número anterior, a Assembleia Municipal da Maia nomeará uma comissão instaladora constituída por:\n\na) 1 representante da Câmara Municipal da Maia;\n\nb) 1 representante da Assembleia Municipal da Maia;\n\nc) 1 representante da Assembleia de Freguesia de Águas Santas;\n\nd) 1 representante da junta de Freguesia de Águas Santas;\n\ne) 5 cidadãos eleitores designados de acordo com o n.º 3 do artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832)."
+  },
+  "21890abf1c81bd55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º\n\n1 - A comissão instaladora exercerá funções até à tomada de posse dos órgãos autárquicos da nova freguesia.\n\n2 - O artigo 10.º, n.º 6, da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832) não se aplica à criação da presente freguesia."
+  },
+  "e7e9cabedfb6a847": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º\n\nAs eleições para a assembleia da nova freguesia realizar-se-ão na data das primeiras eleições autárquicas gerais posteriores à entrada em vigor da presente lei."
+  },
+  "12e3789feeaa4361": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º\n\nA presente lei entra em vigor 5 dias após a sua publicação.\n\nAprovada em 9 de Julho de 1985.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 2 de Setembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 4 de Setembro de 1985.\n\nO Primeiro-Ministro, Mário Soares.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/22901/00290030.pdf)"
+  },
+  "fe8c88ded759331b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada no concelho da Maia a freguesia de Pedrouços."
+  },
+  "205fc4984e0ca6c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1988-06-02",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 73/88](https://diariodarepublica.pt/dr/detalhe/lei/73-1988-374232), publicado em 1988-05-28."
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs limites da nova freguesia, conforme representação cartográfica anexa, são:\n\nA norte, pela linha de cintura (ponte do Brasileiro) - tudo o que actualmente pertence à freguesia de Águas Santas, seguindo pela linha de cintura à Travessa de D. Amélia Moutinho Alves, que da linha vai à Rua de Augusto Simões, frente ao n.º 406, seguindo a partilha pela Rua de Macau, a norte do paiol da pólvora de Pedrouços, seguindo pela Rua de Macau em direcção à face poente do prédio onde se encontra implantado o edifício com o número de polícia 435 da Rua do Paço, seguindo por esta até ao entroncamento com a Rua de D. António Castro Meireles, flectindo para sul até ao número de polícia 981, entrando pelo caminho público de servidão agrícola até à linha de água (ribeira do Boi Morto), continuando para montante da referida linha de água até ao limite com a freguesia de São Mamede de Infesta, concelho de Matosinhos;\n\nA oeste, pela linha de água (ribeira do Boi Morto) - tudo o que actualmente é de Águas Santas, a partir de São Mamede de Infesta até à Rua da Arroteia, pela Rua da Arroteia e pela Travessa da Circunvalação até à Circunvalação;\n\nA sul, pela Circunvalação a partir com Faranhos;\n\nA este, desde a Circunvalação até ao Brasoleiro (linha de cintura) a partir com o rio Tinto.\n\n> Alterado pelo/a [Lei n.º 73/88](https://diariodarepublica.pt/dr/detalhe/lei/73-1988-374232), publicado em 1988-05-28."
+  },
+  "5bbfbef00ac928e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A comissão instaladora da nova freguesia será constituída nos termos e no prazo previstos no artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832), de 2 de Junho.\n\n2 - Para os efeitos da disposição referida no número anterior, a Assembleia Municipal da Maia nomeará uma comissão instaladora constituída por:\n\na) 1 representante da Câmara Municipal da Maia;\n\nb) 1 representante da Assembleia Municipal da Maia;\n\nc) 1 representante da Assembleia de Freguesia de Águas Santas;\n\nd) 1 representante da junta de Freguesia de Águas Santas;\n\ne) 5 cidadãos eleitores designados de acordo com o n.º 3 do artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832)."
+  },
+  "389ae702f72a5175": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A comissão instaladora exercerá funções até à tomada de posse dos órgãos autárquicos da nova freguesia.\n\n2 - O artigo 10.º, n.º 6, da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832) não se aplica à criação da presente freguesia."
+  },
+  "afba18a85f1daf29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs eleições para a assembleia da nova freguesia realizar-se-ão na data das primeiras eleições autárquicas gerais posteriores à entrada em vigor da presente lei."
+  },
+  "f14459932740dfa9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA presente lei entra em vigor 5 dias após a sua publicação.\n\nAprovada em 9 de Julho de 1985.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 2 de Setembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 4 de Setembro de 1985.\n\nO Primeiro-Ministro, Mário Soares.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/22901/00290030.pdf)"
+  }
+ }
+}

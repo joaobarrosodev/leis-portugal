@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:469644:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1964-02-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3b29a16e98129276"
+   ]
+  },
+  {
+   "date": "1970-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:141868:por",
+     "title": "Decreto-Lei n.º 184/70",
+     "published": "1970-04-29",
+     "dre_path": "/dr/detalhe/decreto-lei/184-1970-141868"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "c3f04a7d1113122b",
+    "8ac124e3a17e2611",
+    "9ac336ece693e72f",
+    "80f9b1d41c3d7af6",
+    "b6082a6d09981708",
+    "368c1802b66c3782",
+    "5e4dc350b0e0243c"
+   ]
+  }
+ ],
+ "fragments": {
+  "3b29a16e98129276": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo em conta o disposto no [Decreto-Lei n.º 44894](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44894-1963-193271), de 21 de Fevereiro de 1963;\n\nConsiderando a necessidade de estabelecer as condições em que se verificará a manutenção e funcionamento das infra-estruturas N. A. T. O. existentes em Portugal na dependência do Ministério da Marinha, infra-estruturas para as quais é necessário fixar princípios reguladores que definam atribuições e responsabilidades tanto no que se refere à sua administração financeira, como à admissão do respectivo pessoal;\n\nUsando da faculdade conferida pela 1.ª parte do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Compete ao Ministro da Marinha, de harmonia com as directivas aprovadas pelo Ministro da Defesa Nacional, assegurar a manutenção, funcionamento e defesa das infra-estruturas N. A. T. O. existentes em Portugal na dependência do Ministério da Marinha.\n\n§ único. A administração financeira destas infra-estruturas será regulada segundo normas a fixar pelos organismos de manutenção de infra-estruturas N. A. T. O. do Secretariado-Geral da Defesa Nacional e é exercida pelos organismos executivos de manutenção de infra-estruturas N. A. T. O. do Ministério da Marinha.\n\nArt. 2.º Por despacho do Ministro da Marinha serão definidos os organismos da Armada que apoiarão dos pontos de vista militar, técnico e logístico as referidas infra-estruturas e reguladas as condições em que se realizará esse apoio.\n\nArt. 3.º Por despacho do Ministro da Defesa Nacional, sob proposta do Ministro da Marinha, serão fixadas as lotações das infra-estruturas N. A. T. O. dependentes do Ministério da Marinha em pessoal militar e em pessoal civil ou militar em comissão civil.\n\nArt. 4.º O pessoal civil oriundo do funcionalismo público manterá, quando em serviço nas infra-estruturas N. A. T. O., todos os seus direitos como se estivesse em serviço nos respectivos quadros, nomeadamente no que se refere à contagem de tempo de serviço, desconto para a Caixa Geral de Aposentações e organismos de previdência ou quaisquer outros de que por imposição legal sejam contribuintes.\n\nArt. 5.º O pessoal militar, quando em serviço nas infra-estruturas N. A. T. O., mantém os direitos consignados na legislação especial que lhe diz respeito relativamente às situações em que prestar serviço nas mesmas infra-estruturas.\n\nArt. 6.º Fica revogado o [Decreto n.º 44680](https://diariodarepublica.pt/dr/detalhe/decreto/44680-1962-155849), de 12 de Novembro de 1962, considerando-se, porém, legalizadas todas as disposições que ao seu abrigo foram tomadas.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 5 de Fevereiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "c3f04a7d1113122b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo em conta o disposto no [Decreto-Lei n.º 44894](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44894-1963-193271), de 21 de Fevereiro de 1963;\n\nConsiderando a necessidade de estabelecer as condições em que se verificará a manutenção e funcionamento das infra-estruturas N. A. T. O. existentes em Portugal na dependência do Ministério da Marinha, infra-estruturas para as quais é necessário fixar princípios reguladores que definam atribuições e responsabilidades tanto no que se refere à sua administração financeira, como à admissão do respectivo pessoal;\n\nUsando da faculdade conferida pela 1.ª parte do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "8ac124e3a17e2611": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nCompete ao Ministro da Marinha, de harmonia com as directivas aprovadas pelo Ministro da Defesa Nacional, assegurar a manutenção, funcionamento e defesa das infra-estruturas N. A. T. O. existentes em Portugal na dependência do Ministério da Marinha.\n\n§ único. A administração financeira destas infra-estruturas será regulada segundo normas a fixar pelos organismos de manutenção de infra-estruturas N. A. T. O. do Secretariado-Geral da Defesa Nacional e é exercida pelos organismos executivos de manutenção de infra-estruturas N. A. T. O. do Ministério da Marinha."
+  },
+  "9ac336ece693e72f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPor despacho do Ministro da Marinha serão definidos os organismos da Armada que apoiarão dos pontos de vista militar, técnico e logístico as referidas infra-estruturas e reguladas as condições em que se realizará esse apoio."
+  },
+  "80f9b1d41c3d7af6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPor despacho do Ministro da Defesa Nacional, sob proposta do Ministro da Marinha, serão fixadas as lotações das infra-estruturas N. A. T. O. dependentes do Ministério da Marinha em pessoal militar e em pessoal civil ou militar em comissão civil."
+  },
+  "b6082a6d09981708": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1970-04-29",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 184/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1970-141868), publicado em 1970-04-29."
+   ],
+   "markdown": "###### Artigo 4.º\n\nO pessoal civil oriundo do funcionalismo público manterá, quando em serviço nas infra-estruturas N. A. T. O., todos os seus direitos como se estivesse em serviço nos respectivos quadros, nomeadamente no que se refere à contagem de tempo de serviço, desconto para a Caixa Geral de Aposentações e organismos de previdência ou quaisquer outros de que por imposição legal sejam contribuintes.\n\n§ único. Os lugares deixados vagos nos quadros de origem por este pessoal poderão ser preenchidos, até terminar o impedimento dos titulares respectivos, por funcionários de nomeação provisória ou interina que possuam idêntica aptidão profissional, devendo ser dada preferência a indivíduos já classificados em concurso a aguardar vacatura.\n\n> Alterado pelo/a [Decreto-Lei n.º 184/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1970-141868), publicado em 1970-04-29."
+  },
+  "368c1802b66c3782": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO pessoal militar, quando em serviço nas infra-estruturas N. A. T. O., mantém os direitos consignados na legislação especial que lhe diz respeito relativamente às situações em que prestar serviço nas mesmas infra-estruturas."
+  },
+  "5e4dc350b0e0243c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nFica revogado o [Decreto n.º 44680](https://diariodarepublica.pt/dr/detalhe/decreto/44680-1962-155849), de 12 de Novembro de 1962, considerando-se, porém, legalizadas todas as disposições que ao seu abrigo foram tomadas.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 5 de Fevereiro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

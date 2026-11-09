@@ -1,0 +1,173 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:448926:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-01-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ae3ea66ad7503089"
+   ]
+  },
+  {
+   "date": "1978-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:325921:por",
+     "title": "Decreto Regulamentar Regional n.º 22/78/A",
+     "published": "1978-11-14",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/22-1978-325921"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "d724bfa326f4b2e7",
+    "afebfa7796ca500d",
+    "09099750fff58b6c",
+    "59e2e85daf1f200a",
+    "8ffb4145ea98a6a5",
+    "6816a2f2dac8c5a7",
+    "49e951df3fef7a08",
+    "1692dd44de947494",
+    "5d01941051304708",
+    "a9dedf92d540f57a",
+    "746e1d60356c8e3f",
+    "21c9c1d4a40065f7",
+    "57d4814e56bdd22f",
+    "1615f2323d5d213e"
+   ]
+  }
+ ],
+ "fragments": {
+  "ae3ea66ad7503089": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1 - A ilha do Pico é, de entre as ilhas açorianas, aquela que apresenta o mais baixo índice de população servida por rede eléctrica (25% em 1976) e a mais baixa capitação de consumo, que se situa actualmente em 25 kWh/hab./ano, enquanto a média açoriana é de cerca de 300 kWh/hab./ano.\n\nA produção e distribuição de energia eléctrica tem sido assegurada até esta data pelas três câmaras municipais - Madalena, S. Roque e Lajes do Pico -, ocupando-se cada uma delas do respectivo concelho. Além disto, começaram a surgir há alguns anos instalações particulares de centrais e redes de distribuição por diversos aglomerados da ilha que vêm dando satisfação, de forma precária embora, a algumas necessidades de consumo das respectivas populações.\n\nDos estudos realizados já na vigência do Governo Regional se verifica que a taxa média de crescimento dos consumos verificada nos últimos sete anos se situou ligeiramente acima dos 22%, sendo de prever que nos anos mais próximos esta taxa ascenda a cerca de 33%, devido ao programa de electrificação rural da ilha que vem sendo realizado pela Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, que, além disto, tem em estudo o aproveitamento hidroeléctrico da lagoa do Paul.\n\nNestas condições, as câmaras municipais da ilha do Pico começam a sentir dificuldades para se ocuparem do sector da electricidade, por falta de capacidade técnica dos seus serviços para implementar os empreendimentos e para assegurar o funcionamento da rede em condições de eficiência. Acrescem a estas as dificuldades fianceiras decorrentes da situação deficitária em que se encontram os serviços de electricidade.\n\nReconheceram, assim, as três câmaras municipais a necessidade de se associarem para fins de produção e distribuição de electricidade, através da criação da Federação dos Municípios da Ilha do Pico, já então com dimensão para, com economia de meios, assegurar a satisfação das necessidades de consumo da ilha. E reconhece-o o Governo Regional, que agora decide a sua criação.\n\n2 - Prevê o presente diploma que as instalações de produção e distribuição de energia eléctrica em alta e baixa tensão das câmaras municipais da ilha do Pico transitem em posse e administração para a Federação logo que os respectivos serviços entrem em funcionamento. Estando, porém, em curso nesta ilha obras de electrificação sob a responsabilidade da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos e financiadas pelo Estado, fica igualmente prevista a transferência destas para a Federação, em condições a acordar com o Governo Central.\n\n3 - Com a colaboração das câmaras municipais da ilha do Pico foi elaborado pela Secretaria Regional do Comércio e Indústria um estudo económico-financeiro do sector eléctrico daquela ilha, do qual se pode concluir, desde já, que a viabilidade económica da Federação requer, em alguns aspectos, o apoio do Governo Regional. Entende o Governo que tal apoio não deverá ser prestado através de comparticipações financeiras nas obras da rede eléctrica, mas, preferentemente, através de isenções fiscais e da criação de condições especiais de acesso ao crédito e de bonificação do preço dos combustíveis destinados à produção de electricidade de origem térmica.\n\nPretende, assim, o Governo Regional criar, à partida, as condições para que a Federação possa assumir integralmente as responsabilidades da administração, em moldes empresariais, do serviço de interesse público que lhe fica confiado.\n\nNestas condições se prevê no presente diploma a celebração de um contrato-programa entre o Governo Regional e a Federação, com a vigência de três anos, através do qual fiquem definidas a estrutura financeira da Federação, as condições dos empréstimos a longo prazo, a bonificação do preço do gasóleo e os valores guia dos principais indicadores da gestão, bem como o programa de investimentos na rede eléctrica da ilha do Pico para o período de 1978-1980.\n\nAssim, o Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - É criada a Federação dos Municípios da Ilha do Pico, com sede na vila das Lajes do Pico, tendo por objecto a produção, transporte e distribuição de energia eléctrica em toda a ilha.\n\n2 - A comissão administrativa da Federação será constituída pelos presidentes das câmaras municipais dos concelhos de Madalena, S. Roque e Lajes do Pico, servindo o último de presidente.\n\n3 - Os serviços da Federação serão geridos por um conselho de administração constituído pelo presidente da comissão administrativa, que presidirá, e por dois vogais escolhidos por aquela comissão, de preferência entre os vereadores das câmaras municipais federadas ou vogais dos respectivos concelhos municipais.\n\n4 - O pessoal dos serviços de electricidade das câmaras municipais federadas transitará para a Federação, independentemente de quaisquer formalidades, na situação actual ou naquela que vier a ser-lhe atribuída no quadro aprovado nos termos do n.º 5 deste artigo, sem quaisquer prejuízos dos respectivos direitos e regalias.\n\n5 - A aprovação do regulamento interno e do quadro do pessoal técnico e administrativo da Federação é da competência da Secretaria Regional da Administração Pública, ouvida a Secretaria Regional do Comércio e Indústria, e deverá ser proposta pela Federação no prazo de trinta dias a contar da data da publicação deste diploma.\n\nArt. 2.º - 1 - Dentro do prazo de trinta dias, a contar da data da publicação do presente diploma, o conselho de administração da Federação proporá à aprovação do Secretário Regional do Comércio e Indústria a nomeação de um engenheiro electrotécnico ou engenheiro técnico de electrotecnia e máquinas para desempenhar as funções de director-delegado dos seus serviços e, bem assim, o vencimento mensal que pretende atribuir-lhe.\n\n2 - Se o proposto pertencer aos quadros do Estado ou da Região, será considerado em comissão de serviço, mantendo todos os direitos e regalias como se permanecesse na efectividade do quadro.\n\n3 - Se o proposto não pertencer aos quadros do Estado ou da Região, deverá ser contratado pelo prazo de três anos, considerando-se o contrato sucessivamente renovado por períodos iguais se não for denunciado com antecedência de três meses relativamente ao termo do período em curso.\n\nArt. 3.º Dentro do prazo de três meses, a contar da data da publicação do presente diploma, a Federação proporá à aprovação do Governo Regional, por intermédio da Secretaria Regional do Comércio e Indústria, o programa de investimentos na rede eléctrica do Pico para o período de 1978-1980 subordinado ao esquema geral que constar do contrato-programa a que se refere o artigo 15.º do presente diploma.\n\nArt. 4.º - 1 - O aproveitamento hidroeléctrico da lagoa do Paul será concedido à Federação com o mínimo de formalidades, incluindo a dispensa de inquérito público e de licença para estudos e sem prejuízo do andamento do projecto em curso.\n\n2 - Os estudos deste aproveitamento serão acompanhados pela Direcção Regional de Obras Públicas e Equipamento, à qual competirá também a fiscalização das respectivas obras.\n\nArt. 5.º - 1 - As instalações de produção e distribuição de energia eléctrica em alta e baixa tensão das câmaras municipais federadas transitam para a Federação logo que os respectivos serviços estejam em funcionamento.\n\n2 - Esta afectação das instalações de produção e distribuição será precedida da avaliação das mesmas a realizar por uma comissão constituída por um representante da Secretaria Regional do Comérico e Indústria, que presidirá, com voto de qualidade, e por um representante de cada uma das câmaras municipais.\n\n3 - A nomeação desta comissão e a homologação dos valores por ela determinados é da competência do Secretário Regional do Comércio e Indústria.\n\nArt. 6.º - 1 - Os proprietários e possuidores, a qualquer título, de terrenos em que tenha de proceder-se a estudos ou trabalhos das obras de electrificação ou à manutenção das instalações de produção e distribuição existentes e, bem assim, os dos terrenos que lhes derem acesso ficam obrigados a consentir na sua ocupação e trânsito enquanto durarem os referidos estudos e trabalhos.\n\n2 - As indemnizações a que os proprietários e possuidores tiverem direito serão determinadas e satisfeitas pela Federação no prazo de três meses depois de iniciados os estudos ou a prática de qualquer dos outros actos previstos no n.º 1 deste artigo, ressalvado, quanto ao valor das indemnizações, o direito de recurso para os tribunais.\n\nArt. 7.º - 1 - Para fazer face aos encargos que incumbem à Federação para a realização dos seus planos de investimentos, ser-lhes-á facilitada pelo Governo Regional a concessão de empréstimos nas condições de juro a fixar no contrato-programa a que se refere o artigo 15.º do presente diploma.\n\n2 - Para os efeitos previstos no n.º 1 deste artigo, o Governo Regional habilitará, desde já, a Federação com uma importância de 4500 contos.\n\nArt. 8.º Até à aprovação do novo sistema tarifário a consignar no contrato-programa a que se refere o artigo 15.º manter-se-ão em vigor as tarifas vigentes à data da publicação deste diploma.\n\nArt. 9.º - 1 - Constituem créditos das câmaras municipais federadas as quantias correspondentes aos consumos verificados nas instalações ligadas às suas redes até ao dia 1 do mês seguinte àquele em que essas redes sejam afectadas à Federação.\n\n2 - Será de conta das câmaras municipais federadas a liquidação dos encargos correntes de exploração dos seus serviços de electricidade, contraídos até à data prescrita no n.º 1 deste artigo.\n\nArt. 10.º Serão transferidas para a Federação as responsabilidades financeiras das câmaras municipais federadas, adquiridas por virtude da actividade dos seus serviços de electricidade.\n\nArt. 11.º Serão integradas no património da Federação as obras em curso incluídas no plano de electrificação da ilha do Pico que está a decorrer sob a égide da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, nas condições a acordar com o Governo Central.\n\nArt. 12.º - 1 - Dentro do prazo de sessenta dias, a contar da data da publicação do presente diploma, será celebrado, entre o Governo Regional e a Federação, um contrato-programa, com a vigência de três anos, através do qual fiquem definidas: a estrutura financeira da Federação; as condições dos empréstimos a longo prazo, bem como o seu montante escalonado pelos três anos de vigência do contrato; a bonificação do preço do gasóleo; o sistema tarifário a adoptar; o programa trienal de investimentos, e os valores guia dos principais indicadores de gestão.\n\n2 - A minuta do contrato será elaborada por uma comissão, a nomear por despacho do Secretário Regional do Comércio e Indústria e constituída por três membros, sendo um designado pela Federação, outro pelo Secretário Regional das Finanças e o terceiro, que presidirá, pelo Secretário Regional do Comércio e Indústria.\n\nArt. 13.º Todos os programas com vista à instalação e arranque da Federação serão previamente aprovados pelo Secretário Regional do Comércio e Indústria, incluindo o recrutamento do pessoal.\n\nAprovado em Plenário do Governo em 15 de Dezembro de 1977.\n\nO Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Angra do Heroísmo em 22 de Janeiro de 1978.\n\nPublique-se.\n\nO Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general."
+  },
+  "d724bfa326f4b2e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1 - A ilha do Pico é, de entre as ilhas açorianas, aquela que apresenta o mais baixo índice de população servida por rede eléctrica (25% em 1976) e a mais baixa capitação de consumo, que se situa actualmente em 25 kWh/hab./ano, enquanto a média açoriana é de cerca de 300 kWh/hab./ano.\n\nA produção e distribuição de energia eléctrica tem sido assegurada até esta data pelas três câmaras municipais - Madalena, S. Roque e Lajes do Pico -, ocupando-se cada uma delas do respectivo concelho. Além disto, começaram a surgir há alguns anos instalações particulares de centrais e redes de distribuição por diversos aglomerados da ilha que vêm dando satisfação, de forma precária embora, a algumas necessidades de consumo das respectivas populações.\n\nDos estudos realizados já na vigência do Governo Regional se verifica que a taxa média de crescimento dos consumos verificada nos últimos sete anos se situou ligeiramente acima dos 22%, sendo de prever que nos anos mais próximos esta taxa ascenda a cerca de 33%, devido ao programa de electrificação rural da ilha que vem sendo realizado pela Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, que, além disto, tem em estudo o aproveitamento hidroeléctrico da lagoa do Paul.\n\nNestas condições, as câmaras municipais da ilha do Pico começam a sentir dificuldades para se ocuparem do sector da electricidade, por falta de capacidade técnica dos seus serviços para implementar os empreendimentos e para assegurar o funcionamento da rede em condições de eficiência. Acrescem a estas as dificuldades fianceiras decorrentes da situação deficitária em que se encontram os serviços de electricidade.\n\nReconheceram, assim, as três câmaras municipais a necessidade de se associarem para fins de produção e distribuição de electricidade, através da criação da Federação dos Municípios da Ilha do Pico, já então com dimensão para, com economia de meios, assegurar a satisfação das necessidades de consumo da ilha. E reconhece-o o Governo Regional, que agora decide a sua criação.\n\n2 - Prevê o presente diploma que as instalações de produção e distribuição de energia eléctrica em alta e baixa tensão das câmaras municipais da ilha do Pico transitem em posse e administração para a Federação logo que os respectivos serviços entrem em funcionamento. Estando, porém, em curso nesta ilha obras de electrificação sob a responsabilidade da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos e financiadas pelo Estado, fica igualmente prevista a transferência destas para a Federação, em condições a acordar com o Governo Central.\n\n3 - Com a colaboração das câmaras municipais da ilha do Pico foi elaborado pela Secretaria Regional do Comércio e Indústria um estudo económico-financeiro do sector eléctrico daquela ilha, do qual se pode concluir, desde já, que a viabilidade económica da Federação requer, em alguns aspectos, o apoio do Governo Regional. Entende o Governo que tal apoio não deverá ser prestado através de comparticipações financeiras nas obras da rede eléctrica, mas, preferentemente, através de isenções fiscais e da criação de condições especiais de acesso ao crédito e de bonificação do preço dos combustíveis destinados à produção de electricidade de origem térmica.\n\nPretende, assim, o Governo Regional criar, à partida, as condições para que a Federação possa assumir integralmente as responsabilidades da administração, em moldes empresariais, do serviço de interesse público que lhe fica confiado.\n\nNestas condições se prevê no presente diploma a celebração de um contrato-programa entre o Governo Regional e a Federação, com a vigência de três anos, através do qual fiquem definidas a estrutura financeira da Federação, as condições dos empréstimos a longo prazo, a bonificação do preço do gasóleo e os valores guia dos principais indicadores da gestão, bem como o programa de investimentos na rede eléctrica da ilha do Pico para o período de 1978-1980.\n\nAssim, o Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:"
+  },
+  "afebfa7796ca500d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É criada a Federação dos Municípios da Ilha do Pico, com sede na vila das Lajes do Pico, tendo por objecto a produção, transporte e distribuição de energia eléctrica em toda a ilha.\n\n2 - A comissão administrativa da Federação será constituída pelos presidentes das câmaras municipais dos concelhos de Madalena, S. Roque e Lajes do Pico, servindo o último de presidente.\n\n3 - Os serviços da Federação serão geridos por um conselho de administração constituído pelo presidente da comissão administrativa, que presidirá, e por dois vogais escolhidos por aquela comissão, de preferência entre os vereadores das câmaras municipais federadas ou vogais dos respectivos concelhos municipais.\n\n4 - O pessoal dos serviços de electricidade das câmaras municipais federadas transitará para a Federação, independentemente de quaisquer formalidades, na situação actual ou naquela que vier a ser-lhe atribuída no quadro aprovado nos termos do n.º 5 deste artigo, sem quaisquer prejuízos dos respectivos direitos e regalias.\n\n5 - A aprovação do regulamento interno e do quadro do pessoal técnico e administrativo da Federação é da competência da Secretaria Regional da Administração Pública, ouvida a Secretaria Regional do Comércio e Indústria, e deverá ser proposta pela Federação no prazo de trinta dias a contar da data da publicação deste diploma."
+  },
+  "09099750fff58b6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1978-11-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 22/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1978-325921), publicado em 1978-11-14."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - O conselho de administração da Federação proporá à aprovação dos Secretários Regionais da Administração Pública e do Comércio e Indústria a nomeação de um engenheiro electrotécnico ou engenheiro técnico de electrotecnia e máquinas para desempenhar as funções de director-delegado dos seus serviços e, bem assim, o vencimento mensal que pretende atribuir-lhe.\n\n2 - Se o proposto pertencer aos quadros do Estado ou da Região, será considerado em comissão de serviço, mantendo todos os direitos e regalias como se permanecesse na efectividade do quadro.\n\n3 - Se o proposto não pertencer aos quadros do Estado ou da Região, deverá ser contratado pelo prazo de três anos, considerando-se o contrato sucessivamente renovado por períodos iguais se não for denunciado com antecedência de três meses relativamente ao termo do período em curso.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1978-325921), publicado em 1978-11-14."
+  },
+  "59e2e85daf1f200a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nDentro do prazo de três meses, a contar da data da publicação do presente diploma, a Federação proporá à aprovação do Governo Regional, por intermédio da Secretaria Regional do Comércio e Indústria, o programa de investimentos na rede eléctrica do Pico para o período de 1978-1980 subordinado ao esquema geral que constar do contrato-programa a que se refere o artigo 15.º do presente diploma."
+  },
+  "8ffb4145ea98a6a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O aproveitamento hidroeléctrico da lagoa do Paul será concedido à Federação com o mínimo de formalidades, incluindo a dispensa de inquérito público e de licença para estudos e sem prejuízo do andamento do projecto em curso.\n\n2 - Os estudos deste aproveitamento serão acompanhados pela Direcção Regional de Obras Públicas e Equipamento, à qual competirá também a fiscalização das respectivas obras."
+  },
+  "6816a2f2dac8c5a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - As instalações de produção e distribuição de energia eléctrica em alta e baixa tensão das câmaras municipais federadas transitam para a Federação logo que os respectivos serviços estejam em funcionamento.\n\n2 - Esta afectação das instalações de produção e distribuição será precedida da avaliação das mesmas a realizar por uma comissão constituída por um representante da Secretaria Regional do Comérico e Indústria, que presidirá, com voto de qualidade, e por um representante de cada uma das câmaras municipais.\n\n3 - A nomeação desta comissão e a homologação dos valores por ela determinados é da competência do Secretário Regional do Comércio e Indústria."
+  },
+  "49e951df3fef7a08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Os proprietários e possuidores, a qualquer título, de terrenos em que tenha de proceder-se a estudos ou trabalhos das obras de electrificação ou à manutenção das instalações de produção e distribuição existentes e, bem assim, os dos terrenos que lhes derem acesso ficam obrigados a consentir na sua ocupação e trânsito enquanto durarem os referidos estudos e trabalhos.\n\n2 - As indemnizações a que os proprietários e possuidores tiverem direito serão determinadas e satisfeitas pela Federação no prazo de três meses depois de iniciados os estudos ou a prática de qualquer dos outros actos previstos no n.º 1 deste artigo, ressalvado, quanto ao valor das indemnizações, o direito de recurso para os tribunais."
+  },
+  "1692dd44de947494": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Para fazer face aos encargos que incumbem à Federação para a realização dos seus planos de investimentos, ser-lhes-á facilitada pelo Governo Regional a concessão de empréstimos nas condições de juro a fixar no contrato-programa a que se refere o artigo 15.º do presente diploma.\n\n2 - Para os efeitos previstos no n.º 1 deste artigo, o Governo Regional habilitará, desde já, a Federação com uma importância de 4500 contos."
+  },
+  "5d01941051304708": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAté à aprovação do novo sistema tarifário a consignar no contrato-programa a que se refere o artigo 15.º manter-se-ão em vigor as tarifas vigentes à data da publicação deste diploma."
+  },
+  "a9dedf92d540f57a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Constituem créditos das câmaras municipais federadas as quantias correspondentes aos consumos verificados nas instalações ligadas às suas redes até ao dia 1 do mês seguinte àquele em que essas redes sejam afectadas à Federação.\n\n2 - Será de conta das câmaras municipais federadas a liquidação dos encargos correntes de exploração dos seus serviços de electricidade, contraídos até à data prescrita no n.º 1 deste artigo."
+  },
+  "746e1d60356c8e3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nSerão transferidas para a Federação as responsabilidades financeiras das câmaras municipais federadas, adquiridas por virtude da actividade dos seus serviços de electricidade."
+  },
+  "21c9c1d4a40065f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nSerão integradas no património da Federação as obras em curso incluídas no plano de electrificação da ilha do Pico que está a decorrer sob a égide da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, nas condições a acordar com o Governo Central."
+  },
+  "57d4814e56bdd22f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Dentro do prazo de sessenta dias, a contar da data da publicação do presente diploma, será celebrado, entre o Governo Regional e a Federação, um contrato-programa, com a vigência de três anos, através do qual fiquem definidas: a estrutura financeira da Federação; as condições dos empréstimos a longo prazo, bem como o seu montante escalonado pelos três anos de vigência do contrato; a bonificação do preço do gasóleo; o sistema tarifário a adoptar; o programa trienal de investimentos, e os valores guia dos principais indicadores de gestão.\n\n2 - A minuta do contrato será elaborada por uma comissão, a nomear por despacho do Secretário Regional do Comércio e Indústria e constituída por três membros, sendo um designado pela Federação, outro pelo Secretário Regional das Finanças e o terceiro, que presidirá, pelo Secretário Regional do Comércio e Indústria."
+  },
+  "1615f2323d5d213e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nTodos os programas com vista à instalação e arranque da Federação serão previamente aprovados pelo Secretário Regional do Comércio e Indústria, incluindo o recrutamento do pessoal.\n\nAprovado em Plenário do Governo em 15 de Dezembro de 1977.\n\nO Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Angra do Heroísmo em 22 de Janeiro de 1978.\n\nPublique-se.\n\nO Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general."
+  }
+ }
+}

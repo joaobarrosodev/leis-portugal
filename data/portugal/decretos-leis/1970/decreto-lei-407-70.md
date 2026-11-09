@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-12-22'
+version_history:
+  file: decreto-lei-407-70.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1970-08-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-12-22'
+    amending: pt:dre:146056:por
+    amending_title: Decreto-Lei n.º 637/70
+    changes:
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:15:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 637/70. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1970/decreto-lei-407-70.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -266,9 +281,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Os quadros de pessoal das Universidades de Coimbra, Lisboa e Porto e da Universidade Técnica de Lisboa são acrescidos dos lugares constantes do mapa anexo ao presente diploma.
+###### Artigo 1.º
 
-Art. 2.º A afectação dos lugares de professor catedrático e extraordinário a disciplinas ou grupos de disciplinas afins será feita por despacho do Ministro da Educação Nacional, sob proposta dos conselhos escolares e de harmonia com as normas seguintes:
+Os quadros de pessoal das Universidades de Coimbra, Lisboa e Porto e da Universidade Técnica de Lisboa são acrescidos dos lugares constantes do mapa anexo ao presente diploma.
+
+###### Artigo 2.º
+
+A afectação dos lugares de professor catedrático e extraordinário a disciplinas ou grupos de disciplinas afins será feita por despacho do Ministro da Educação Nacional, sob proposta dos conselhos escolares e de harmonia com as normas seguintes:
 
 a) Os lugares de professor catedrático corresponderão a uma disciplina ou a um grupo de disciplinas afins;
 
@@ -280,37 +299,57 @@ d) Poderão ser afectados um ou mais lugares de professor extraordinário a uma 
 
 e) Para efeitos do disposto na alínea anterior, e sem prejuízo dos desdobramentos de regência assegurados por um mesmo elemento do pessoal docente, adoptar-se-á como critério geral o de se afectar um lugar de professor extraordinário a cada grupo de duzentos alunos, para além de um primeiro grupo de igual número, cuja responsabilidade incumbirá a um professor catedrático ou extraordinário.
 
-Art. 3.º - 1. O professor de Canto Coral da Universidade de Coimbra tem direito, após dez e vinte anos de bom e efectivo serviço, respectivamente, à 1.ª e à 2.ª diuturnidades.
+###### Artigo 3.º
+
+1. O professor de Canto Coral da Universidade de Coimbra tem direito, após dez e vinte anos de bom e efectivo serviço, respectivamente, à 1.ª e à 2.ª diuturnidades.
 
 2. É contado para efeito do disposto no número anterior o tempo de bom e efectivo serviço prestado como professor de Canto Coral em outros quadros do ensino oficial.
 
 3. À 1.ª e à 2.ª diuturnidades correspondem, respectivamente, os ordenados das letras H e F do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-Art. 4.º - 1. O professor de Educação Física do Instituto Superior Técnico tem direito ao ordenado da letra J do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), e, após dez e vinte anos de bom e efectivo serviço, respectivamente, à 1.ª e à 2.ª diuturnidades.
+###### Artigo 4.º
+
+1. O professor de Educação Física do Instituto Superior Técnico tem direito ao ordenado da letra J do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), e, após dez e vinte anos de bom e efectivo serviço, respectivamente, à 1.ª e à 2.ª diuturnidades.
 
 2. É contado para efeito do disposto no número anterior o tempo de bom e efectivo serviço prestado como professor de Educação Física em outros quadros do ensino oficial.
 
 3. À 1.ª e à 2.ª diuturnidades correspondem, respectivamente, os ordenados das letras H e F do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301).
 
-Art. 5.º - 1. Sem prejuízo do disposto no artigo 15.º e seu § único do [Decreto-Lei n.º 46350](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46350-1965-294971), de 22 de Maio de 1965 (redacção do [Decreto-Lei n.º 48489](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48489-1968-272629), de 18 de Agosto de 1968), os bibliotecários e conservadores de bibliotecas e arquivos constituirão um quadro em cada Universidade, devendo os respectivos funcionários ser distribuídos pelos vários serviços em harmonia com as disposições regulamentares, que para cada um destes fixarão apenas o número de unidades independentemente de indicação de categoria.
+###### Artigo 5.º
+
+1. Sem prejuízo do disposto no artigo 15.º e seu § único do [Decreto-Lei n.º 46350](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46350-1965-294971), de 22 de Maio de 1965 (redacção do [Decreto-Lei n.º 48489](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48489-1968-272629), de 18 de Agosto de 1968), os bibliotecários e conservadores de bibliotecas e arquivos constituirão um quadro em cada Universidade, devendo os respectivos funcionários ser distribuídos pelos vários serviços em harmonia com as disposições regulamentares, que para cada um destes fixarão apenas o número de unidades independentemente de indicação de categoria.
 
 2. Não farão parte do quadro a que se refere o número anterior os bibliotecários da Biblioteca Geral da Universidade de Coimbra (Biblioteca Nacional Central) e do Arquivo da mesma Universidade (Arquivo Distrital de Coimbra).
 
-Art. 6.º - 1. Os lugares de chefe de secção das Universidades serão providos pelo Ministro da Educação Nacional, ouvido o respectivo reitor, de entre diplomados com um curso superior adequado ou de entre primeiros-oficiais ou chefes de secretaria do quadro único referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957, com, pelo menos, cinco anos de exercício nessas categorias ou na de secretário de uma escola superior e com a informação de Muito bom.
+###### Artigo 6.º
+
+1. Os lugares de chefe de secção das Universidades serão providos pelo Ministro da Educação Nacional, ouvido o respectivo reitor, de entre diplomados com um curso superior adequado ou de entre primeiros-oficiais ou chefes de secretaria do quadro único referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957, com, pelo menos, cinco anos de exercício nessas categorias ou na de secretário de uma escola superior e com a informação de Muito bom.
 
 2. Os lugares de chefe de secretaria existentes nas Universidades considerar-se-ão extintos à medida que ficarem vagos.
 
-Art. 7.º Os tesoureiros das Universidades passam a ter a categoria e o ordenado correspondentes à letra L do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301).
+###### Artigo 7.º
 
-Art. 8.º As funções de bedel das Faculdades da Universidade de Coimbra passam a ser exercidas por primeiros ou segundos-oficiais.
+Os tesoureiros das Universidades passam a ter a categoria e o ordenado correspondentes à letra L do artigo 2.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301).
 
-Art. 9.º - 1. Poderá o Ministro da Educação Nacional preencher em primeiro provimento, independentemente de concurso, lugares de pessoal administrativo criados pelo presente diploma com funcionários de categoria imediatamente inferior do respectivo quadro, desde que tenham boa informação e as habilitações literárias exigidas para aquele provimento.
+###### Artigo 8.º
+
+As funções de bedel das escolas universitárias são exercidas por primeiros, segundos ou terceiros-oficiais.
+
+> Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22.
+
+###### Artigo 9.º
+
+1. Poderá o Ministro da Educação Nacional preencher em primeiro provimento, independentemente de concurso, lugares de pessoal administrativo criados pelo presente diploma com funcionários de categoria imediatamente inferior do respectivo quadro, desde que tenham boa informação e as habilitações literárias exigidas para aquele provimento.
 
 2. Poderá ainda o Ministro prover, independentemente de concurso e de limite de idade, em lugares de pessoal administrativo criados pelo presente diploma de categoria correspondente à daqueles que actualmente exercem indivíduos que, além dos quadros e sob qualquer designação, estejam a prestar serviço administrativo nos estabelecimentos escolares, desde que tenham boa informação e as habilitações literárias exigidas por lei para o provimento.
 
-Art. 10.º Quando forem providos os quatro lugares de catalogador de 1.ª classe criados por este diploma no quadro da Faculdade de Direito da Universidade de Coimbra, considerar-se-ão extintos os dois lugares de catalogador de 2.ª classe do mesmo quadro, caducando também os contratos dos actuais dois catalogadores de 2.ª classe além do quadro.
+###### Artigo 10.º
 
-Art. 11.º Os encargos resultantes da publicação do presente diploma serão satisfeitos no ano de 1970 pelas disponibilidades da verba comum referida na parte final do n.º 2 do artigo 60.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 23 de Março de 1970, a qual poderá ser reforçada, nos termos previstos no n.º 3 da já citada disposição legal, se tal se mostrar necessário.
+Quando forem providos os quatro lugares de catalogador de 1.ª classe criados por este diploma no quadro da Faculdade de Direito da Universidade de Coimbra, considerar-se-ão extintos os dois lugares de catalogador de 2.ª classe do mesmo quadro, caducando também os contratos dos actuais dois catalogadores de 2.ª classe além do quadro.
+
+###### Artigo 11.º
+
+Os encargos resultantes da publicação do presente diploma serão satisfeitos no ano de 1970 pelas disponibilidades da verba comum referida na parte final do n.º 2 do artigo 60.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 23 de Março de 1970, a qual poderá ser reforçada, nos termos previstos no n.º 3 da já citada disposição legal, se tal se mostrar necessário.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.
 

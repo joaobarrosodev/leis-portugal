@@ -38,10 +38,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-08-27'
+version_history:
+  file: decreto-regulamentar-8-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-01-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-08-27'
+    amending: pt:dre:453254:por
+    amending_title: Declaração de Rectificação n.º 49/2008
+    changes:
+    - Altera Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
+    - Revoga Artigo 39.º
+    - Revoga Artigo 40.º
+    - Revoga Artigo 41.º
+    - Revoga Artigo 42.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:15:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 49/2008.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1987/decreto-regulamentar-8-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,11 +168,17 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ### CAPÍTULO I — Natureza e atribuições
 
-Artigo 1.º Os Serviços Sociais da Universidade Nova de Lisboa, adiante designados por SSUNL, são uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, e funcionam na Universidade Nova de Lisboa (UNL).
+###### Artigo 1.º
 
-Art. 2.º Os SSUNL têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que forem fixados no contexto da política de acção social escolar superiormente definida.
+Os Serviços Sociais da Universidade Nova de Lisboa, adiante designados por SSUNL, são uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, e funcionam na Universidade Nova de Lisboa (UNL).
 
-Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUNL beneficiará todos os estudantes interessados, desde que estejam matriculados na UNL e preencham as restantes condições legalmente fixadas.
+###### Artigo 2.º
+
+Os SSUNL têm por fim a concessão de auxílios económicos e a prestação de serviços a estudantes, nos termos e condições que forem fixados no contexto da política de acção social escolar superiormente definida.
+
+###### Artigo 3.º
+
+1 - A acção social escolar a desenvolver pelos SSUNL beneficiará todos os estudantes interessados, desde que estejam matriculados na UNL e preencham as restantes condições legalmente fixadas.
 
 2 - Os estudantes matriculados em estabelecimentos de ensino superior não integrados na UNL que não sejam abrangidos pela acção social escolar de quaisquer outros serviços sociais do ensino superior poderão beneficiar da acção desenvolvida pelos SSUNL, nos termos do disposto nos números seguintes.
 
@@ -166,7 +194,9 @@ Art. 3.º - 1 - A acção social escolar a desenvolver pelos SSUNL beneficiará 
 
 #### SECÇÃO I — Dos órgãos
 
-Art. 4.º São órgãos dos SSUNL:
+###### Artigo 4.º
+
+São órgãos dos SSUNL:
 
 a) O presidente;
 
@@ -174,7 +204,9 @@ b) O CG;
 
 c) O CA.
 
-Art. 5.º - 1 - O cargo de presidente dos SSUNL é inerente ao cargo de reitor da UNL.
+###### Artigo 5.º
+
+1 - O cargo de presidente dos SSUNL é inerente ao cargo de reitor da UNL.
 
 2 - O presidente será coadjuvado nas suas funções por um vice-presidente, no qual poderá delegar algumas das suas competências.
 
@@ -196,7 +228,9 @@ g) Submeter ao CASES os projectos de regulamentos e assuntos relativos ao funcio
 
 4 - O presidente dos SSUNL poderá receber do MEC delegação de competência para despachar assuntos relativos a funções de administração geral, considerando-se como tais as que respeitem às actividades correntes dos SSUNL e à gestão dos recursos humanos.
 
-Art. 6.º - 1 - O CG tem a seguinte composição:
+###### Artigo 6.º
+
+1 - O CG tem a seguinte composição:
 
 a) O presidente dos SSUNL, que preside:
 
@@ -218,7 +252,9 @@ f) Dois representantes das associações de estudantes da UNL.
 
 5 - Os membros do CG referidos nas alíneas d), e) e f) do n.º 1 manter-se-ão em funções após os termos dos respectivos mandatos, até que sejam designados os novos membros que os irão substituir.
 
-Art. 7.º - 1 - Compete ao CG:
+###### Artigo 7.º
+
+1 - Compete ao CG:
 
 a) Aprovar as propostas dos planos anuais e plurianuais de actividades a submeter a aprovação do CASES;
 
@@ -250,7 +286,9 @@ h) Acompanhar o funcionamento e consultar a documentação dos serviços operati
 
 8 - Poderão participar nas reuniões do CG, sem direito a voto, desde que convocados pelo presidente, os funcionários dos SSUNL cuja presença se mostre aconselhável face aos assuntos a tratar.
 
-Art. 8.º - 1 - O CA é constituído por:
+###### Artigo 8.º
+
+1 - O CA é constituído por:
 
 a) O presidente dos SSUNL, que preside;
 
@@ -266,7 +304,9 @@ d) O responsável pelos serviços de administração dos SSUNL, que secretaria.
 
 4 - O membro do CA a que se refere a alínea c) do n.º 1 será designado de entre funcionários públicos de reconhecida competência nos domínios da Administração Pública.
 
-Art. 9.º - 1 - Compete ao CA:
+###### Artigo 9.º
+
+1 - Compete ao CA:
 
 a) Promover a elaboração dos planos financeiros anuais e plurianuais;
 
@@ -306,7 +346,9 @@ j) Promover a organização e permanente actualização do inventário e cadastr
 
 #### SECÇÃO II — Dos serviços
 
-Art. 10.º - 1 - Os SSUNL dispõem de serviços operativos, que exercem as suas atribuições nos domínios:
+###### Artigo 10.º
+
+1 - Os SSUNL dispõem de serviços operativos, que exercem as suas atribuições nos domínios:
 
 a) Do alojamento;
 
@@ -318,7 +360,9 @@ d) Da procuradoria, livraria e material escolar.
 
 2 - Os serviços a que se refere o número anterior serão coordenados directamente pelo vice-presidente dos SSUNL, o qual será coadjuvado, em cada um deles, por um funcionário que revele experiência e formação adequadas e aptidão para o lugar.
 
-Art. 11.º - 1 - Os SSUNL dispõem dos seguintes serviços de apoio, que integrarão uma direcção de serviços:
+###### Artigo 11.º
+
+1 - Os SSUNL dispõem dos seguintes serviços de apoio, que integrarão uma direcção de serviços:
 
 a) Repartição Administrativa (RA);
 
@@ -338,7 +382,9 @@ a) Economato, Lavandaria e Rouparia (SELR);
 
 b) Gestão de Stocks, Armazéns, Transportes e Distribuição (SGSATD).
 
-Art. 12.º Em matéria de alojamento, compete aos SSUNL:
+###### Artigo 12.º
+
+Em matéria de alojamento, compete aos SSUNL:
 
 a) Providenciar pela abertura e assegurar o funcionamento de residências estudantis;
 
@@ -354,7 +400,9 @@ f) Zelar pela manutenção e conservação do equipamento e instalações afecto
 
 g) Enviar à RA os elementos necessários à cobrança pontual das receitas dos alojamentos e à elaboração dos orçamentos e relatórios anuais dos SSUNL.
 
-Art. 13.º Em matéria de alimentação, compete aos SSUNL:
+###### Artigo 13.º
+
+Em matéria de alimentação, compete aos SSUNL:
 
 a) Providenciar pela abertura e assegurar o funcionamento de cantinas, refeitórios, snacks e bares;
 
@@ -368,7 +416,9 @@ e) Enviar directamente à tesouraria as receitas das cantinas, refeitórios, sna
 
 f) Enviar à RA os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUNL.
 
-Art. 14.º Em matéria de bolsas e empréstimos, compete aos SSUNL:
+###### Artigo 14.º
+
+Em matéria de bolsas e empréstimos, compete aos SSUNL:
 
 a) Propor superiormente a concessão de bolsas de estudo, subsídios, empréstimos e outros benefícios pecuniários a estudantes matriculados em estabelecimentos de ensino superior abrangidos pelos SSUNL, de acordo com os regulamentos em vigor, e organizar os respectivos processos individuais;
 
@@ -380,7 +430,9 @@ d) Estudar e propor superiormente a adopção de novos esquemas e tipos de auxí
 
 e) Enviar à RA os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUNL.
 
-Art. 15.º Em matéria de procuradoria, livraria e material escolar, compete aos SSUNL:
+###### Artigo 15.º
+
+Em matéria de procuradoria, livraria e material escolar, compete aos SSUNL:
 
 a) Efectuar inscrições e pagamentos de propinas, bem como quaisquer outros actos resultantes da carreira académica a definir em regulamento próprio, aos estudantes da UNL que recorram aos serviços de procuradoria;
 
@@ -400,9 +452,13 @@ h) Enviar à tesouraria as receitas do serviço;
 
 i) Enviar à RA os elementos necessários à elaboração dos orçamentos e relatórios anuais dos SSUNL.
 
-Art. 16.º A RA exerce a sua acção nos domínios de administração financeira e patrimonial, do pessoal, expediente geral e arquivo e é dirigida por um chefe de repartição.
+###### Artigo 16.º
 
-Art. 17.º À SCOC compete:
+A RA exerce a sua acção nos domínios de administração financeira e patrimonial, do pessoal, expediente geral e arquivo e é dirigida por um chefe de repartição.
+
+###### Artigo 17.º
+
+À SCOC compete:
 
 a) Executar a escrituração respeitante à contabilidade dos SSUNL;
 
@@ -428,7 +484,9 @@ l) Registar e tratar os dados com interesse estatístico que proporcionem conhec
 
 m) Promover a elaboração do balanço anual do património dos SSUNL.
 
-Art. 18.º À SPEGA compete:
+###### Artigo 18.º
+
+À SPEGA compete:
 
 a) Organizar e movimentar os processos relativos ao recrutamento, selecção e provimento, bem como à promoção, recondução, prorrogação, transferência, exoneração, rescisão de contratos, demissão e aposentação do pessoal dos SSUNL;
 
@@ -448,7 +506,9 @@ h) Assegurar a adequada circulação de documentos e normas pelos serviços;
 
 i) Assegurar o apoio dactilográfico a todos os sectores dos SSUNL.
 
-Art. 19.º À SPOM compete:
+###### Artigo 19.º
+
+À SPOM compete:
 
 a) Organizar e manter actualizado o inventário e cadastro dos bens móveis e imóveis dos SSUNL;
 
@@ -472,7 +532,9 @@ j) Manter actualizado um ficheiro de trabalhos executados e a executar, bem como
 
 l) Enviar aos serviços competentes os elementos necessários à elaboração do programa de trabalhos a executar em cada ano.
 
-Art. 20.º Adstrita à RA funciona uma tesouraria, coordenada por um tesoureiro, à qual compete:
+###### Artigo 20.º
+
+Adstrita à RA funciona uma tesouraria, coordenada por um tesoureiro, à qual compete:
 
 a) Receber todas as receitas dos SSUNL;
 
@@ -484,9 +546,13 @@ d) Manter rigorosamente actualizada a escrita relativa às operações da tesour
 
 e) Fornecer todos os elementos à SCOC necessários ao desempenho das respectivas competências.
 
-Art. 21.º A R. Ap. exerce a sua acção nos domínios do economato, lavandaria e rouparia, gestão de stocks, armazéns, transportes e distribuição e é dirigida por um chefe de repartição.
+###### Artigo 21.º
 
-Art. 22.º À SELR compete:
+A R. Ap. exerce a sua acção nos domínios do economato, lavandaria e rouparia, gestão de stocks, armazéns, transportes e distribuição e é dirigida por um chefe de repartição.
+
+###### Artigo 22.º
+
+À SELR compete:
 
 a) Proceder à prospecção de mercados e centralizar os processos de aquisição e de consultas, nos termos das disposições legais vigentes;
 
@@ -498,7 +564,9 @@ d) Receber, distribuir e proceder a todos os trabalhos de passagem a ferro e dob
 
 e) Zelar pela manutenção e conservação do equipamento que lhe estiver adstrito.
 
-Art. 23.º À SGSATD compete:
+###### Artigo 23.º
+
+À SGSATD compete:
 
 a) Assegurar a existência de stocks mínimos de todo o material em armazém;
 
@@ -520,9 +588,13 @@ i) Enviar aos serviços competentes os elementos necessários à apreciação de
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-Art. 24.º Para realização dos seus fins os SSUNL administrarão os bens do domínio público a seu cargo.
+###### Artigo 24.º
 
-Art. 25.º - 1 - Os SSUNL arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
+Para realização dos seus fins os SSUNL administrarão os bens do domínio público a seu cargo.
+
+###### Artigo 25.º
+
+1 - Os SSUNL arrecadarão e administrarão as suas receitas e satisfarão, por meio delas, os encargos que legalmente lhes caibam.
 
 2 - Constituem receitas dos SSUNL:
 
@@ -542,35 +614,51 @@ g) Os saldos da conta de gerência do ano anterior;
 
 h) Quaisquer outras receitas que por lei, contrato ou a outro título lhes sejam atribuídas.
 
-Art. 26.º - 1 - As disponibilidades dos SSUNL serão depositadas na CGD, sem prejuízo de poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
+###### Artigo 26.º
+
+1 - As disponibilidades dos SSUNL serão depositadas na CGD, sem prejuízo de poderem levantar e ter em tesouraria as importâncias indispensáveis ao pagamento de despesas que devam ser feitas em dinheiro.
 
 2 - Os pagamentos serão efectuados, em regra, por meio de cheques e estes entregues em troca dos respectivos recibos devidamente legalizados.
 
-Art. 27.º A gestão económica e financeira dos SSUNL será disciplinada pelos seguintes instrumentos de previsão:
+###### Artigo 27.º
+
+A gestão económica e financeira dos SSUNL será disciplinada pelos seguintes instrumentos de previsão:
 
 a) Planos de actividade financeira, anuais e plurianuais;
 
 b) Orçamentos privativos anuais e suas actualizações.
 
-Art. 28.º - 1 - Com base no programa de trabalho para cada ano económico, o CA promoverá a elaboração do orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
+###### Artigo 28.º
+
+1 - Com base no programa de trabalho para cada ano económico, o CA promoverá a elaboração do orçamento privativo anual, sem prejuízo dos desdobramentos internos necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
 
 2 - O orçamento privativo será submetido à aprovação do MEC, após apreciação do CG e do CASES, e ao visto do Ministro das Finanças, nos prazos legais.
 
 3 - Os SSUNL poderão ainda submeter à aprovação superior, no decurso de cada ano económico, os orçamentos suplementares previstos na lei geral, destinados quer a reforçar verbas inscritas no orçamento privativo, quer a ocorrer a despesas nele previstas, quer ainda para fins de alteração de rubricas.
 
-Art. 29.º O CA requisitará, mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações orçamentais atribuídas no OE e das constantes de contas de ordem.
+###### Artigo 29.º
 
-Art. 30.º Os SSUNL gozam da isenção de custas, encargos fiscais e licenças administrativas.
+O CA requisitará, mensalmente, nos termos da lei vigente, à delegação competente da Direcção-Geral da Contabilidade Pública as importâncias que forem necessárias, por conta das dotações orçamentais atribuídas no OE e das constantes de contas de ordem.
 
-Art. 31.º Os SSUNL gozam das vantagens que a Manutenção Militar tem em matéria de aquisição de géneros alimentícios e outros produtos.
+###### Artigo 30.º
+
+Os SSUNL gozam da isenção de custas, encargos fiscais e licenças administrativas.
+
+###### Artigo 31.º
+
+Os SSUNL gozam das vantagens que a Manutenção Militar tem em matéria de aquisição de géneros alimentícios e outros produtos.
 
 ### CAPÍTULO IV — Pessoal
 
-Art. 32.º - 1 - Os SSUNL dispõem do quadro de pessoal anexo ao presente diploma.
+###### Artigo 32.º
+
+1 - Os SSUNL dispõem do quadro de pessoal anexo ao presente diploma.
 
 2 - Sempre que as circunstâncias o justifiquem, o quadro de pessoal dos SSUNL poderá ser revisto, por proposta do CASES, mediante portaria dos Ministros das Finanças e da Educação e Cultura.
 
-Art. 33.º O quadro de pessoal dos SSUNL compreenderá os seguintes grupos profissionais:
+###### Artigo 33.º
+
+O quadro de pessoal dos SSUNL compreenderá os seguintes grupos profissionais:
 
 a) Pessoal dirigente;
 
@@ -586,7 +674,9 @@ f) Pessoal administrativo;
 
 g) Pessoal operário.
 
-Art. 34.º - 1 - O provimento do pessoal a que se refere o presente diploma poderá ser feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
+###### Artigo 34.º
+
+1 - O provimento do pessoal a que se refere o presente diploma poderá ser feito por nomeação provisória ou em comissão de serviço pelo período de um ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -604,47 +694,63 @@ a) No lugar de origem, quando à comissão de serviço se não seguir provimento
 
 b) No lugar do quadro em que vier a ser provido definitivamente finda a comissão.
 
-Art. 35.º - 1 - As formas de recrutamento e regime de provimento do pessoal dirigente são as previstas no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e no artigo 14.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, no que se refere ao vice-presidente.
+###### Artigo 35.º
+
+1 - As formas de recrutamento e regime de provimento do pessoal dirigente são as previstas no [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e no artigo 14.º do [Decreto-Lei n.º 132/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1980-474080), de 17 de Maio, no que se refere ao vice-presidente.
 
 2 - O cargo de vice-presidente dos SSUNL é equiparado, para todos os efeitos legais, ao de subdirector-geral.
 
-3 - Os lugares de chefe de repartição serão providos de entre chefes de secção com, pelo menos, três anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com curso superior adequado e reconhecida competência para o exercício do cargo.
+3 - (Revogado.)
 
-Art. 36.º Os lugares de assessor principal, primeiro-assessor, assessor, técnico superior principal, técnico superior de 1.ª classe e técnico superior de 2.ª classe serão providos, nos termos previstos na lei geral, de entre indivíduos habilitados com licenciatura adequada.
+> Alterado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
 
-Art. 37.º - 1 - Os lugares de técnico de 2.ª classe serão providos de entre indivíduos habilitados com curso superior, que não confira o grau de licenciatura, adequado ao lugar a prover.
+###### Artigo 36.º
 
-2 - O disposto no número anterior é aplicável às carreiras de engenheiro técnico, técnico de contabilidade e administração e técnico de serviço social.
+(Revogado.)
 
-3 - A progressão nas respectivas carreiras far-se-á nos termos da lei geral.
+> Revogado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
 
-Art. 38.º O recrutamento e regime de provimento do pessoal de informática são os previstos no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+###### Artigo 37.º
 
-Art. 39.º O lugar de técnico-adjunto de 2.ª classe da carreira de técnico auxiliar de serviço social será provido de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado, acrescido de formação técnico-profissional de serviço social com duração não inferior a três anos, ficando o acesso nesta carreira condicionado ao disposto na lei geral.
+(Revogado.)
 
-Art. 40.º - 1 - Os lugares de chefe de secção serão providos nos termos da lei geral.
+> Revogado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
 
-2 - O recrutamento para os lugares de oficial administrativo e tesoureiro, bem como a progressão nas respectivas carreiras, far-se-á nos termos da lei geral.
+###### Artigo 38.º
 
-Art. 41.º - 1 - O recrutamento, ingresso e acesso do pessoal auxiliar e operário regem-se pelo disposto na lei geral.
+(Revogado.)
 
-2 - O recrutamento de encarregado de refeitório far-se-á de entre cozinheiros principais com, pelo menos, três anos de serviço na categoria e classificação de serviço não inferior a Bom, ou, na sua falta, de entre encarregados de bar/snack ou cozinheiros de 1.ª classe com, pelo menos, seis anos de serviço na categoria e classificação de serviço não inferior a Bom, ou ainda de entre indivíduos habilitados com o curso geral do ensino secundário ou equiparado e experiência adequada ao exercício do cargo.
+> Revogado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
 
-3 - O recrutamento de governante de residência far-se-á de entre empregados de andar/quarto de 1.ª classe com, pelo menos, cinco anos de bom e efectivo serviço na categoria e mediante provas de selecção, ou, na sua falta, por indivíduos habilitados com o curso geral do ensino secundário ou equiparado e com experiência adequada.
+###### Artigo 39.º
 
-4 - As carreiras de cozinheiro, fiel de armazém, empregado de bar/snack, auxiliar de alimentação, operador de lavandaria, empregado de andar/quarto e auxiliar de armazém, bem como de operador de reprografia, são carreiras horizontais, cujo recrutamento obedecerá às seguintes regras:
+(Revogado.)
 
-a) O ingresso na categoria mais baixa da respectiva carreira fica condicionado à prestação de provas e far-se-á de entre indivíduos habilitados com a escolaridade obrigatória e experiência adequada;
+> Revogado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
 
-b) O acesso fica condicionado à permanência de cinco anos de bom e efectivo serviço na categoria anterior;
+###### Artigo 40.º
 
-c) Os cozinheiros principais são recrutados de entre cozinheiros de 1.ª classe com, pelo menos, três anos na categoria e mediante provas de selecção.
+(Revogado.)
 
-Art. 42.º Os lugares de telefonista, motorista e auxiliar administrativo serão providos nos termos da lei geral.
+> Revogado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
+
+###### Artigo 41.º
+
+(Revogado.)
+
+> Revogado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
+
+###### Artigo 42.º
+
+(Revogado.)
+
+> Revogado pelo/a [Declaração de Rectificação n.º 49/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/49-2008-453254), publicado em 2008-08-27.
 
 ### CAPÍTULO V — Disposições transitórias e finais
 
-Art. 43.º - 1 - A integração em lugares do quadro anexo a este decreto regulamentar do pessoal que a qualquer título presta serviço nos SSUNL à data da entrada em vigor deste diploma far-se-á por diploma individual de provimento, com respeito pelas habilitações legalmente exigidas, sem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, de acordo com as seguintes regras:
+###### Artigo 43.º
+
+1 - A integração em lugares do quadro anexo a este decreto regulamentar do pessoal que a qualquer título presta serviço nos SSUNL à data da entrada em vigor deste diploma far-se-á por diploma individual de provimento, com respeito pelas habilitações legalmente exigidas, sem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário ou agente já possui;
 
@@ -664,9 +770,13 @@ c) Para categoria que resulte da aplicação da tabela de equivalência constant
 
 7 - As regras de transição para o regime referido no número anterior serão fixadas em decreto regulamentar dos Ministros das Finanças e da Educação e Cultura.
 
-Art. 44.º O pessoal não vinculado à função pública que, encontrando-se a prestar serviço ao abrigo da lei geral do trabalho nos SSUNL à data de entrada em vigor do presente decreto regulamentar, opte pela não integração ou não possa ser integrado no quadro anexo a este diploma será remunerado com vencimento e outras regalias correspondentes aos dos funcionários públicos integrados em carreiras e categorias com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
+###### Artigo 44.º
 
-Art. 45.º Os encargos resultantes da aplicação do presente diploma serão suportados pelas dotações do orçamento dos SSUNL.
+O pessoal não vinculado à função pública que, encontrando-se a prestar serviço ao abrigo da lei geral do trabalho nos SSUNL à data de entrada em vigor do presente decreto regulamentar, opte pela não integração ou não possa ser integrado no quadro anexo a este diploma será remunerado com vencimento e outras regalias correspondentes aos dos funcionários públicos integrados em carreiras e categorias com conteúdos funcionais equivalentes, não podendo ter tratamento mais favorável do que o aplicável aos restantes trabalhadores.
+
+###### Artigo 45.º
+
+Os encargos resultantes da aplicação do presente diploma serão suportados pelas dotações do orçamento dos SSUNL.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
 

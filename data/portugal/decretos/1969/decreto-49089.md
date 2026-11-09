@@ -31,10 +31,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-02-19'
+version_history:
+  file: decreto-49089.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-02-19'
+    amending: pt:dre:160298:por
+    amending_title: Decreto n.º 65/75
+    changes:
+    - Revoga Artigo 2.º
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -60,7 +77,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:08:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 65/75. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1969/decreto-49089.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,23 +149,41 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida no n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º Todos os servidores do Estado, dependentes do Ministério do Ultramar ou ao seu serviço, e seus familiares, quando com passagens por conta da Fazenda Nacional, têm direito, durante a viagem, a assistência médica e medicamentosa e ao internamento na enfermaria de bordo, nos precisos termos dos artigos 303.º e 304.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
+###### Artigo 1.º
 
-Art. 2.º A igual assistência têm direito, nos termos do artigo 81.º do regulamento aprovado pelo [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, todos aqueles que, econòmicamente débeis, não sendo funcionários, viajem com passagens a expensas da Fazenda Nacional ou dos organismos assistenciais das províncias ultramarinas, especificadamente:
+1. Todas as pessoas que viajem por conta dos territórios ultramarinos têm direito, durante a viagem, a assistência médica e medicamentosa e ao internamento na enfermaria de bordo, nos precisos termos dos artigos 303.º e 304.º do Estatuto do Funcionalismo Ultramarino.
 
-a) Doentes pobres que, por opinião das juntas provinciais de saúde, venham à metrópole a fim de receberem tratamento adequado no Hospital do Ultramar ou em estabelecimentos metropolitanos especialmente destinados ao estudo e tratamento de doenças tropicais e outras de natureza diversa, de acordo com o que se acha disposto no [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964;
+2. A igual assistência têm direito os repatriados que utilizem as passagens fornecidas gratuitamente pela Junta Nacional da Marinha Mercante.
 
-b) Repatriados, mesmo no caso de utilizarem alguma das passagens oferecidas gratuitamente pelas companhias de navegação;
+> Alterado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19.
 
-c) Colonos e seus familiares.
+###### Artigo 2.º
 
-Art. 3.º Esta assistência, porém, apenas será concedida nos casos de doença ou acidente ocorrido a bordo, salvo se, antes do embarque, médico de estabelecimento oficial emitir o parecer de que a saúde do interessado corre perigo se for interrompido o tratamento.
+(Revogado.)
 
-Art. 4.º As companhias de navegação apresentarão ao Ministério do Ultramar relação das pessoas tratadas, assinada pelo médico de bordo e confirmada pelos assistidos e pelo comandante do barco, com a indicação das doenças e ainda se estas se declararam a bordo.
+> Revogado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19.
 
-Art. 5.º A despesa só será liquidada depois de a Junta de Saúde do Ultramar ou de as juntas provinciais de saúde haverem emitido parecer favorável, conforme a doença se tenha verificado em viagem para a metrópole ou vice-versa.
+###### Artigo 3.º
 
-Art. 6.º Os serviços de saúde respectivos darão parecer acerca dos preços dos medicamentos e dos honorários médicos e de enfermagem que tenham sido debitados pelas companhias de navegação; e só se fará a liquidação da despesa quanto este seja favorável.
+Esta assistência, porém, apenas será concedida nos casos de doença ou acidente ocorrido a bordo, salvo se, antes do embarque, médico de estabelecimento oficial emitir o parecer de que a saúde do interessado corre perigo se for interrompido o tratamento.
+
+###### Artigo 4.º
+
+1. As companhias de navegação apresentarão na Direcção-Geral de Saúde e Assistência, do Ministério da Coordenação Interterritorial, ou nos Serviços Provinciais de Saúde, conforme o local de destino das viagens, factura com relação das pessoas tratadas, assinada pelo médico de bordo e confirmada pelos assistidos e pelo comandante do barco.
+
+2. Com essas relações serão apresentados elementos que identifiquem os assistidos e os serviços a que pertençam ou devam suportar os encargos, indicação das doenças e ainda se estas se declararam a bordo.
+
+> Alterado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19.
+
+###### Artigo 5.º
+
+As despesas só serão liquidadas na metrópole ou nos territórios ultramarinos, consoante o local de destino das viagens, depois de a Junta de Saúde do Ultramar ou de as juntas provinciais de saúde haverem emitido parecer favorável, conforme a doença se tenha verificado em viagem para a metrópole ou vice-versa.
+
+> Alterado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19.
+
+###### Artigo 6.º
+
+Os serviços de saúde respectivos darão parecer acerca dos preços dos medicamentos e dos honorários médicos e de enfermagem que tenham sido debitados pelas companhias de navegação; e só se fará a liquidação da despesa quanto este seja favorável.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 

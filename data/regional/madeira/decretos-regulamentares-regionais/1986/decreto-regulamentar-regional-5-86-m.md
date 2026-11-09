@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-01-01'
+version_history:
+  file: decreto-regulamentar-regional-5-86-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-04-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-01-01'
+    amending: pt:dre:549989:por
+    amending_title: Decreto Regulamentar Regional n.º 22/89/M
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:44:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    22/89/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1986/decreto-regulamentar-regional-5-86-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,23 +141,41 @@ Considerando que os motivos que levaram à publicação do referido diploma, em 
 
 O Governo da Região Autónoma da Madeira, ao abrigo do disposto na alínea b) do artigo 229.º da Constituição, decreta o seguinte:
 
-Artigo 1.º É aplicável na Região Autónoma da Madeira o [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, com as adaptações constantes dos artigos seguintes.
+###### Artigo 1.º
 
-Art. 2.º - 1 - O produto das coimas aplicadas em matéria de higiene e segurança e medicina do trabalho e de protecção contra acidentes de trabalho e doenças profissionais reverterá para o Fundo de Garantia e Actualização de Pensões.
+É aplicável na Região Autónoma da Madeira o [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, com as adaptações constantes dos artigos seguintes.
 
-2 - O produto das demais coimas reverterá para o Fundo de Desemprego, que transferirá anualmente 30% da receita efectivamente arrecadada para o orçamento da Região.
+###### Artigo 2.º
 
-3 - A receita transferida nos termos do número anterior será destinada a custear, a título de compensação, as despesas de funcionamento e processuais a suportar pela Inspecção Regional do Trabalho.
+1 - Metade do produto das coimas aplicadas em processos cuja instrução esteja cometida à Inspecção Regional do Trabalho reverterá para esta, a título de compensação de custos de funcionamento e despesas processuais.
 
-Art. 3.º As entidades sujeitas a fiscalização da Inspecção Regional do Trabalho deverão comunicar a este organismo, antes do início da actividade, a denominação social, ramos de actividade ou objecto social, endereço da sede e locais de trabalho, indicação do Diário da República ou Jornal Oficial da Região em que haja sido publicado o respectivo pacto social, estatuto ou acto constitutivo, identificação e domicílio dos respectivos gerentes, administradores, directores ou membros do órgão gestor e o número de trabalhadores ao serviço.
+2 - O remanescente terá o seguinte destino:
 
-Art. 4.º - 1 - O processamento das contra-ordenações laborais previstas no [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, compete, na Região Autónoma da Madeira, à Inspecção Regional do Trabalho.
+a) Entidade gestora do Fundo de Garantia e Actualização de Pensões, quanto ao produto das coimas aplicadas em matéria de higiene, segurança e medicina do trabalho e de protecção contra acidentes de trabalho e doenças profissionais;
+
+b) 35% para a Segurança Social e 15% para o orçamento da Região, quanto ao produto das coimas que por lei lhes não seja dado outro destino.
+
+3 - O produto das coimas será depositado, mediante guias, em conta corrente à ordem da Região Autónoma da Madeira, competindo à entidade gestora daquela proceder às respectivas transferências.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1989-549989), publicado em 1989-11-09.
+
+###### Artigo 3.º
+
+As entidades sujeitas a fiscalização da Inspecção Regional do Trabalho deverão comunicar a este organismo, antes do início da actividade, a denominação social, ramos de actividade ou objecto social, endereço da sede e locais de trabalho, indicação do Diário da República ou Jornal Oficial da Região em que haja sido publicado o respectivo pacto social, estatuto ou acto constitutivo, identificação e domicílio dos respectivos gerentes, administradores, directores ou membros do órgão gestor e o número de trabalhadores ao serviço.
+
+###### Artigo 4.º
+
+1 - O processamento das contra-ordenações laborais previstas no [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, compete, na Região Autónoma da Madeira, à Inspecção Regional do Trabalho.
 
 2 - A aplicação das coimas estabelecidas para as contra-ordenações referidas no número anterior compete ao inspector regional do Trabalho e, nas suas ausências ou impedimentos, a funcionário do quadro técnico superior para o efeito designado por despacho do Secretário Regional dos Assuntos Sociais.
 
-Art. 5.º A instrução dos processos contra-ordenacionais será confiada a funcionários devidamente habilitados para o efeito, os quais poderão ser coadjuvados por pessoal administrativo, a designar pelo inspector regional do Trabalho.
+###### Artigo 5.º
 
-Art. 6.º O presente diploma entrará em vigor no dia 1 de Junho de 1986.
+A instrução dos processos contra-ordenacionais será confiada a funcionários devidamente habilitados para o efeito, os quais poderão ser coadjuvados por pessoal administrativo, a designar pelo inspector regional do Trabalho.
+
+###### Artigo 6.º
+
+O presente diploma entrará em vigor no dia 1 de Junho de 1986.
 
 Aprovado em Conselho do Governo Regional em 30 de Janeiro de 1986.
 

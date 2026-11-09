@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-01-25'
+version_history:
+  file: decreto-47982.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-10-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-01-25'
+    amending: pt:dre:526816:por
+    amending_title: Decreto n.º 48851
+    changes:
+    - Revoga Artigo único
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:58:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 48851. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1967/decreto-47982.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -99,9 +114,11 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo único. É alterada a redacção do corpo do artigo 2.º do Diploma Legislativo Ministerial n.º 1 publicado no Boletim Oficial de Cabo Verde de 25 de Agosto de 1962, que passará a ter a seguinte redacção:
+###### Artigo único
 
-Art. 2.º A Caixa realizará, com vista ao fomento económico da província, operações de crédito a médio e longo prazos, nos sectores da agricultura e pecuária, das pescas e das indústrias transformadoras conexas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 48851](https://diariodarepublica.pt/dr/detalhe/decreto/48851-1969-526816), publicado em 1969-01-25.
 
 Publique-se e cumpra-se como nele se contém.
 

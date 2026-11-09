@@ -1,0 +1,131 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:171351:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1961-06-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a606c55d58903bbb"
+   ]
+  },
+  {
+   "date": "1973-09-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:412818:por",
+     "title": "Decreto-Lei n.º 476/73",
+     "published": "1973-09-25",
+     "dre_path": "/dr/detalhe/decreto-lei/476-1973-412818"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "8fd9cd41cfd6ee56",
+    "0607f4b307912a0d",
+    "cf3edf0203fe9cb3",
+    "c8775d76c327267f",
+    "a06eeb5984c9e95c",
+    "9d569d874e2f1a95",
+    "66ed1cc831f9c6a8",
+    "67a0aa96da77a92b",
+    "59833fc4f5ce95ea"
+   ]
+  }
+ ],
+ "fragments": {
+  "a606c55d58903bbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º É criada no Ministério da Saúde e Assistência uma comissão de reapetrechamento dos hospitais, encarregada de submeter à aprovação dos Ministros das Finanças e da Saúde e Assistência os planos de aplicação da verba inscrita de acordo com o disposto no § único do artigo 12.º da [Lei n.º 2106](https://diariodarepublica.pt/dr/detalhe/lei/2106-1960-513578), de 21 de Dezembro de 1960, na despesa extraordinária do orçamento do Ministério da Saúde e Assistência.\n\nArt. 2.º A comissão será constituída pelo vice-presidente do Conselho Coordenador do Ministério da Saúde e Assistência, que presidirá, pelo director-geral da Contabilidade Pública e por um director-geral do Ministério da Saúde e Assistência ou por um administrador dos hospitais a designar pelo Ministro da Saúde e Assistência.\n\nArt. 3.º É autorizado o Ministro da Saúde e Assistência a constituir, mediante proposta da comissão, grupos de trabalho encarregados de averiguar as necessidades dos diferentes hospitais no que respeita a material.\n\nArt. 4.º Os membros da comissão, do conselho administrativo e dos grupos de trabalho terão direito a abono de ajudas de custo e de transportes quando se desloquem por motivo de serviço.\n\n§ único. Todos os encargos resultantes do presente diploma serão pagos pela verba global destinada ao reapetrechamento hospitalar.\n\nArt. 5.º A administração de fundos afectos ao reapetrechamento dos estabelecimentos hospitalares compete a um conselho administrativo constituído pelo director-geral da Contabilidade Pública, que presidirá, por um director-geral do Ministério da Saúde e Assistência a designar pelo respectivo Ministro e por um funcionário superior especializado em administração pública, que coadjuvará o presidente.\n\n§ único. O funcionário superior referido no presente artigo será proposto pelo presidente do conselho administrativo, com o acordo dos Ministros das Finanças e da Saúde e Assistência.\n\nArt. 6.º Compete especialmente ao conselho administrativo:\n\n1.º Promover a aquisição e distribuição do material destinado aos estabelecimentos hospitalares, de harmonia com o plano superiormente aprovado;\n\n2.º Organizar a escrituração pormenorizada das despesas;\n\n3.º Providenciar para que as verbas sob a sua administração sejam aplicadas por forma a obter-se delas o máximo rendimento útil;\n\n4.º Apresentar, dentro do prazo de 60 dias, as contas de cada ano de actividade da comissão à aprovação do Ministro da Saúde e Assistência e visto do Ministro das Finanças, os quais, a serem concedidos, legitimam a competente prestação de contas.\n\nArt. 7.º Os levantamentos de fundos por conta das verbas inscritas para os fins deste diploma serão efectuados em folhas especiais processadas pelo conselho administrativo e remetidas à 3.ª Repartição da Direcção-Geral da Contabilidade Pública para efeitos de autorização de pagamento; as respectivas importâncias serão depositadas, em conta especial, na Caixa Geral de Depósitos, Crédito e Previdência, fazendo-se a sua movimentação por meio de cheques assinados por dois dos membros.\n\n§ único. Poderá o conselho administrativo manter em cofre um fundo permanente até à importância de 5000$00.\n\nArt. 8.º As remunerações certas serão fixadas por proposta do conselho administrativo, com o acordo dos Ministros das Finanças e da Saúde e Assistência. Estes abonos e as restantes despesas estão apenas sujeitos ao visto do diretor-geral da Contabilidade Pública.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 29 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho."
+  },
+  "8fd9cd41cfd6ee56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "0607f4b307912a0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada no Ministério da Saúde e Assistência uma comissão de reapetrechamento dos hospitais, encarregada de submeter à aprovação dos Ministros das Finanças e da Saúde e Assistência os planos de aplicação da verba inscrita de acordo com o disposto no § único do artigo 12.º da [Lei n.º 2106](https://diariodarepublica.pt/dr/detalhe/lei/2106-1960-513578), de 21 de Dezembro de 1960, na despesa extraordinária do orçamento do Ministério da Saúde e Assistência."
+  },
+  "cf3edf0203fe9cb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1973-09-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 476/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1973-412818), publicado em 1973-09-25."
+   ],
+   "markdown": "###### Artigo 2.º\n\nA Comissão será constituída pelo secretário-geral do Ministério da Saúde e Assistência, que presidirá, por representantes do respectivo Gabinete de Estudos e Planeamento e dos directores-gerais da Contabilidade Pública, de Saúde e dos Hospitais.\n\n> Alterado pelo/a [Decreto-Lei n.º 476/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1973-412818), publicado em 1973-09-25."
+  },
+  "c8775d76c327267f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ autorizado o Ministro da Saúde e Assistência a constituir, mediante proposta da comissão, grupos de trabalho encarregados de averiguar as necessidades dos diferentes hospitais no que respeita a material."
+  },
+  "a06eeb5984c9e95c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs membros da comissão, do conselho administrativo e dos grupos de trabalho terão direito a abono de ajudas de custo e de transportes quando se desloquem por motivo de serviço.\n\n§ único. Todos os encargos resultantes do presente diploma serão pagos pela verba global destinada ao reapetrechamento hospitalar."
+  },
+  "9d569d874e2f1a95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1973-09-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 476/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1973-412818), publicado em 1973-09-25."
+   ],
+   "markdown": "###### Artigo 5.º\n\nA administração dos fundos afectos ao reapetrechamento dos estabelecimentos hospitalares compete a um conselho administrativo constituído por um representante da Contabilidade Pública, que presidirá, por representantes dos directores-gerais de Saúde e dos Hospitais e por um funcionário superior especializado em administração pública, que coadjuvará o presidente.\n\n§ único. O funcionário superior referido no presente artigo será proposto pelo presidente do conselho administrativo, com o acordo dos Ministros das Finanças e da Saúde e Assistência.\n\n> Alterado pelo/a [Decreto-Lei n.º 476/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/476-1973-412818), publicado em 1973-09-25."
+  },
+  "66ed1cc831f9c6a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nCompete especialmente ao conselho administrativo:\n\n1.º Promover a aquisição e distribuição do material destinado aos estabelecimentos hospitalares, de harmonia com o plano superiormente aprovado;\n\n2.º Organizar a escrituração pormenorizada das despesas;\n\n3.º Providenciar para que as verbas sob a sua administração sejam aplicadas por forma a obter-se delas o máximo rendimento útil;\n\n4.º Apresentar, dentro do prazo de 60 dias, as contas de cada ano de actividade da comissão à aprovação do Ministro da Saúde e Assistência e visto do Ministro das Finanças, os quais, a serem concedidos, legitimam a competente prestação de contas."
+  },
+  "67a0aa96da77a92b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs levantamentos de fundos por conta das verbas inscritas para os fins deste diploma serão efectuados em folhas especiais processadas pelo conselho administrativo e remetidas à 3.ª Repartição da Direcção-Geral da Contabilidade Pública para efeitos de autorização de pagamento; as respectivas importâncias serão depositadas, em conta especial, na Caixa Geral de Depósitos, Crédito e Previdência, fazendo-se a sua movimentação por meio de cheques assinados por dois dos membros.\n\n§ único. Poderá o conselho administrativo manter em cofre um fundo permanente até à importância de 5000$00."
+  },
+  "59833fc4f5ce95ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs remunerações certas serão fixadas por proposta do conselho administrativo, com o acordo dos Ministros das Finanças e da Saúde e Assistência. Estes abonos e as restantes despesas estão apenas sujeitos ao visto do diretor-geral da Contabilidade Pública.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 29 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho."
+  }
+ }
+}

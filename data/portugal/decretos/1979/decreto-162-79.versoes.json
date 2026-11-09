@@ -1,0 +1,228 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:156809:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "163fa086784a3048",
+    "4e9635e7d5beb4b2",
+    "e2c16bd9aaadaabf",
+    "392ca0c67dd76796",
+    "33ce887f46089f31",
+    "495e1b1a295614e0",
+    "2c2d77a7a5aa9e3f",
+    "6e8839ec7707c7aa",
+    "6f527fb8142c443d",
+    "f5ccc6574fd501cf",
+    "0a197c1234b651d1"
+   ]
+  },
+  {
+   "date": "1986-06-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:226985:por",
+     "title": "Decreto-Lei n.º 123/86",
+     "published": "1986-05-31",
+     "dre_path": "/dr/detalhe/decreto-lei/123-1986-226985"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "163fa086784a3048",
+    "a62c901073cc4e5a",
+    "ad5e614857d5a199",
+    "174088a2c9e3ed88",
+    "ffb1b85ffe2a8a1d",
+    "eb132c0bfc1374f9",
+    "ab276eea0a795af2",
+    "0e421b79a869376b",
+    "f11eb6296d994fcf",
+    "1932d63a76f0047c",
+    "29f9a33883a9036e"
+   ]
+  }
+ ],
+ "fragments": {
+  "163fa086784a3048": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Dezembro\n\nSegundo o balanço de 31 de Dezembro de 1978, as contas referentes a esse ano da Empresa Pública do Jornal O Século - nessa altura ainda integrada na Empresa Pública dos Jornais Século e Popular - apresentavam a seguinte situação:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29914/03000302.pdf)\n\nEstes números revelam, na sua frieza, que a empresa chegou a uma situação insustentável de tal modo que as probabilidades de recuperação são nulas.\n\nAliás, aquela situação já era de extrema gravidade na data da nacionalização, 29 de Julho de 1976, o que facilmente se pode comprovar pelo balanço de 31 de Dezembro de 1975, e que é revelada pelo quadro seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1979/12/29914/03000302.pdf)\n\nBaseando-se na situação de extrema gravidade a que a empresa chegara, o Despacho Normativo do Secretário de Estado da Comunicação Social n.º 43/77, de 5 de Fevereiro, determinou a suspensão, a título temporário, da edição das publicações pertencentes à ex-Sociedade Nacional de Tipografia, S. A. R. L., e o Conselho de Ministros, pela [Resolução n.º 242/77](https://diariodarepublica.pt/dr/detalhe/resolucao/242-1977-278737), de 31 de Agosto, deliberou a cessação das mesmas publicações.\n\nApós a referida suspensão, foram elaborados diversos estudos com vista a encontrar uma solução para o problema da ex-SNT, sobre os quais o Governo nunca tomou, porém, qualquer posição.\n\nSó em 14 de Março de 1979, através da [Resolução n.º 90/79](https://diariodarepublica.pt/dr/detalhe/resolucao/90-1979-382811), o Governo viria a delinear um sentido para a solução do «caso O Século», ao considerar como hipótese menos desfavorável a alienação da totalidade ou parte do património da ex-SNT, autorizando, para o efeito, a EPSP a abrir um concurso público.\n\nContudo, pelos motivos constantes da [Resolução n.º 360-A/79](https://diariodarepublica.pt/dr/detalhe/resolucao/360-a-1979-676851), de 6 de Dezembro, o Conselho de Ministros decidiu não adjudicar aquele património a nenhum dos concorrentes que se apresentaram a concurso.\n\nAssim, e porque a situação da EPJS atrás enunciada é de tal forma grave que não admite qualquer hipótese de saneamento económico-financeiro, não resta outra alternativa que não seja a da sua extinção e liquidação, com a consequente caducidade da quase totalidade dos contratos de trabalho.\n\nO Governo tem perfeita consciência dos custos sociais em que uma tal medida se traduz.\n\nNão deverão, contudo, empolar-se excessivamente aqueles custos, porquanto muitos dos trabalhadores agora despedidos já têm outras colocações, em resultado quer do duplo emprego praticado anteriormente quer da necessidade de assegurarem a sua sobrevivência, dada a situação de insegurança em que foram colocados ao longo de quase três anos.\n\nAs responsabilidades que o Estado contraiu para com os trabalhadores nos termos da alínea d) do [Despacho Normativo n.º 43/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/43-1977-141791), de 5 de Fevereiro, do Secretário de Estado da Comunicação Social são assumidas pelo mesmo Estado por forma que aqueles sejam por ele directamente pagos.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea d) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "4e9635e7d5beb4b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — (Extinção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — (Extinção)\n\n1 - É extinta a Empresa Pública do Jornal O Século.\n\n2 - A EPJS mantém, porém, a capacidade jurídica para efeitos de liquidação até à aprovação das contas apresentadas pela comissão liquidatária."
+  },
+  "e2c16bd9aaadaabf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — (Consequências da extinção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — (Consequências da extinção)\n\n1 - Com a entrada em vigor do presente decreto, caducam imediatamente todos os contratos de trabalho em que seja parte a Empresa Pública do Jornal O Século, com excepção dos relativos aos trabalhadores que se encontrem afectos às Livrarias de Lisboa e Porto e à delegação da distribuidora em Coimbra.\n\n2 - Os contratos em vigor entre a Empresa Pública do Jornal O Século e os seus clientes e fornecedores mantêm-se até que as respectivas posições contratuais sejam transferidas ou que se verifique a sua rescisão, por qualquer motivo.\n\n3 - Mantêm-se igualmente todos os contratos de arrendamento em que seja arrendatária a Empresa Pública do Jornal O Século."
+  },
+  "392ca0c67dd76796": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — (Assunção de dívidas pelo Estado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — (Assunção de dívidas pelo Estado)\n\n1 - Para além das dívidas mencionadas no artigo 5.º do [Decreto-Lei n.º 465-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-a-1979-149793), de 6 de Dezembro, são assumidas também pelo Estado as dívidas resultantes da garantia assegurada na alínea d) do [Despacho Normativo n.º 43/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/43-1977-141791), de 5 de Fevereiro, do Secretário de Estado da Comunicação Social.\n\n2 - O Estado substituí-se aos trabalhadores nas suas posições credoras para com a EPJS com a graduação que por lei àqueles competia."
+  },
+  "33ce887f46089f31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — (Competência da comissão liquidatária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — (Competência da comissão liquidatária)\n\n1 - A comissão liquidatária terá os poderes necessários à liquidação da EPJS, nos limites da lei, do disposto no presente decreto e das directrizes que lhe forem fixadas pelos Ministros das Finanças da tutela.\n\n2 - Compete-lhe nomeadamente:\n\na) Alienar bens móveis, sem precedência de qualquer autorização, e imóveis, depois de obtida anuência dos Ministros das Finanças e da tutela;\n\nb) Contratar a prestação de serviços de qualquer natureza;\n\nc) Cobrar os créditos de que a EPJS seja titular;\n\nd) Apreciar as reclamações de créditos;\n\ne) Intentar ou contestar acções judiciais constituindo mandatários para o efeito;\n\nf) Preservar a integridade do arquivo de documentação de informação do jornal O Século até definição do destino ulterior;\n\ng) Desempenhar as demais funções que lhe sejam atribuídas por lei ou por este decreto."
+  },
+  "495e1b1a295614e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — (Deliberações da comissão liquidatária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — (Deliberações da comissão liquidatária)\n\n1 - As deliberações da comissão liquidatária são tomadas por maioria absoluta dos seus membros.\n\n2 - Não é permitido o voto por representação.\n\n3 - As deliberações ficarão a constar de acta em que se consigne se foram tomadas por unanimidade ou por maioria e, neste último caso, com a menção de quem votou contra."
+  },
+  "2c2d77a7a5aa9e3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — (Vinculação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — (Vinculação)\n\n1 - Os actos e documentos relativos à liquidação deverão ser praticados ou assinados por dois membros da comissão liquidatária.\n\n2 - Exceptuam-se do disposto no número anterior os casos de mero expediente, em que bastará uma assinatura."
+  },
+  "6e8839ec7707c7aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — (Avaliação de bens)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — (Avaliação de bens)\n\nOs bens que permaneçam no sector público serão avaliados nos termos do artigo 44.º, n.º 3, do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril."
+  },
+  "6f527fb8142c443d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — (Reclamação de créditos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — (Reclamação de créditos)\n\n1 - os credores da EPJS deverão reclamar os seus créditos no prazo de trinta dias a contar da data em que forem avisados da liquidação pelas formas previstas no artigo 43.º, n.º 2, do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.\n\n2 - O disposto no artigo 3.º, n.º 1, do presente decreto não dispensa os trabalhadores de cumprirem o preceituado no número anterior."
+  },
+  "f5ccc6574fd501cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — (Nomeação da comissão liquidatária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — (Nomeação da comissão liquidatária)\n\nSão nomeados para integrarem a comissão liquidatária os membros da comissão administrativa da EPJS."
+  },
+  "0a197c1234b651d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º — (Entrada em vigor)\n\nO presente decreto-lei entra em vigor na data da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 6 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - João António de Figueiredo.\n\nPromulgado em 18 de Dezembro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "a62c901073cc4e5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Extinção",
+   "in_force_from": "1986-06-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 123/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1986-226985), publicado em 1986-05-31."
+   ],
+   "markdown": "###### Artigo 1.º — Extinção\n\n1 - É extinta a Empresa Pública do Jornal O Século.\n\n2 - A EPJS mantém a personalidade jurídica para efeitos de liquidação até aprovação das contas.\n\n3 - O Estado, representado pela Direcção-Geral da Comunicação Social, constitui-se liquidatário da EPJS, cumprindo-lhe exercer todos os poderes necessários à liquidação do património da Empresa extinta.\n\n> Alterado pelo/a [Decreto-Lei n.º 123/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-1986-226985), publicado em 1986-05-31."
+  },
+  "ad5e614857d5a199": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Consequências da extinção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Consequências da extinção)\n\n1 - Com a entrada em vigor do presente decreto, caducam imediatamente todos os contratos de trabalho em que seja parte a Empresa Pública do Jornal O Século, com excepção dos relativos aos trabalhadores que se encontrem afectos às Livrarias de Lisboa e Porto e à delegação da distribuidora em Coimbra.\n\n2 - Os contratos em vigor entre a Empresa Pública do Jornal O Século e os seus clientes e fornecedores mantêm-se até que as respectivas posições contratuais sejam transferidas ou que se verifique a sua rescisão, por qualquer motivo.\n\n3 - Mantêm-se igualmente todos os contratos de arrendamento em que seja arrendatária a Empresa Pública do Jornal O Século."
+  },
+  "174088a2c9e3ed88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Assunção de dívidas pelo Estado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Assunção de dívidas pelo Estado)\n\n1 - Para além das dívidas mencionadas no artigo 5.º do [Decreto-Lei n.º 465-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-a-1979-149793), de 6 de Dezembro, são assumidas também pelo Estado as dívidas resultantes da garantia assegurada na alínea d) do [Despacho Normativo n.º 43/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/43-1977-141791), de 5 de Fevereiro, do Secretário de Estado da Comunicação Social.\n\n2 - O Estado substituí-se aos trabalhadores nas suas posições credoras para com a EPJS com a graduação que por lei àqueles competia."
+  },
+  "ffb1b85ffe2a8a1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Competência da comissão liquidatária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Competência da comissão liquidatária)\n\n1 - A comissão liquidatária terá os poderes necessários à liquidação da EPJS, nos limites da lei, do disposto no presente decreto e das directrizes que lhe forem fixadas pelos Ministros das Finanças da tutela.\n\n2 - Compete-lhe nomeadamente:\n\na) Alienar bens móveis, sem precedência de qualquer autorização, e imóveis, depois de obtida anuência dos Ministros das Finanças e da tutela;\n\nb) Contratar a prestação de serviços de qualquer natureza;\n\nc) Cobrar os créditos de que a EPJS seja titular;\n\nd) Apreciar as reclamações de créditos;\n\ne) Intentar ou contestar acções judiciais constituindo mandatários para o efeito;\n\nf) Preservar a integridade do arquivo de documentação de informação do jornal O Século até definição do destino ulterior;\n\ng) Desempenhar as demais funções que lhe sejam atribuídas por lei ou por este decreto."
+  },
+  "eb132c0bfc1374f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Deliberações da comissão liquidatária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Deliberações da comissão liquidatária)\n\n1 - As deliberações da comissão liquidatária são tomadas por maioria absoluta dos seus membros.\n\n2 - Não é permitido o voto por representação.\n\n3 - As deliberações ficarão a constar de acta em que se consigne se foram tomadas por unanimidade ou por maioria e, neste último caso, com a menção de quem votou contra."
+  },
+  "ab276eea0a795af2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Vinculação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Vinculação)\n\n1 - Os actos e documentos relativos à liquidação deverão ser praticados ou assinados por dois membros da comissão liquidatária.\n\n2 - Exceptuam-se do disposto no número anterior os casos de mero expediente, em que bastará uma assinatura."
+  },
+  "0e421b79a869376b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Avaliação de bens)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Avaliação de bens)\n\nOs bens que permaneçam no sector público serão avaliados nos termos do artigo 44.º, n.º 3, do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril."
+  },
+  "f11eb6296d994fcf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Reclamação de créditos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Reclamação de créditos)\n\n1 - os credores da EPJS deverão reclamar os seus créditos no prazo de trinta dias a contar da data em que forem avisados da liquidação pelas formas previstas no artigo 43.º, n.º 2, do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril.\n\n2 - O disposto no artigo 3.º, n.º 1, do presente decreto não dispensa os trabalhadores de cumprirem o preceituado no número anterior."
+  },
+  "1932d63a76f0047c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Nomeação da comissão liquidatária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Nomeação da comissão liquidatária)\n\nSão nomeados para integrarem a comissão liquidatária os membros da comissão administrativa da EPJS."
+  },
+  "29f9a33883a9036e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Entrada em vigor)\n\nO presente decreto-lei entra em vigor na data da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 6 de Dezembro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - João António de Figueiredo.\n\nPromulgado em 18 de Dezembro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

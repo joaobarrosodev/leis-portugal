@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-07-08'
+version_history:
+  file: decreto-lei-425-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-10-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-07-08'
+    amending: pt:dre:288072:por
+    amending_title: Decreto-Lei n.º 126/92
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:46:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 126/92. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-425-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,29 +136,43 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - O presente diploma autoriza o Estado e as empresas públicas do sector de seguros a transformarem a empresa pública Companhia Portuguesa de Resseguros, E. P. - criada pelo [Decreto-Lei n.º 403/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1979-365530), de 22 de Setembro, alterado pelo [Decreto-Lei n.º 517/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1979-365747), de 28 de Dezembro - em sociedade anónima de capitais públicos, sob a denominação «Companhia Portuguesa de Resseguros, S. A. R. L.».
+###### Artigo 1.º
+
+1 - O presente diploma autoriza o Estado e as empresas públicas do sector de seguros a transformarem a empresa pública Companhia Portuguesa de Resseguros, E. P. - criada pelo [Decreto-Lei n.º 403/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/403-1979-365530), de 22 de Setembro, alterado pelo [Decreto-Lei n.º 517/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/517-1979-365747), de 28 de Dezembro - em sociedade anónima de capitais públicos, sob a denominação «Companhia Portuguesa de Resseguros, S. A. R. L.».
 
 2 - A Companhia Portuguesa de Resseguros, S. A. R. L., reger-se-á pelos seus estatutos e, subsidiariamente, pelas regras aplicáveis às sociedades anónimas.
 
-Art. 2.º - 1 - A Companhia Portuguesa de Resseguros, S. A. R. L., mantém, nos termos do presente diploma, a personalidade jurídica atribuída à Companhia Portuguesa de Resseguros, E. P., conservando a universalidade dos bens, direitos e obrigações, incluindo as posições contratuais integrantes do activo e passivo desta.
+###### Artigo 2.º
+
+1 - A Companhia Portuguesa de Resseguros, S. A. R. L., mantém, nos termos do presente diploma, a personalidade jurídica atribuída à Companhia Portuguesa de Resseguros, E. P., conservando a universalidade dos bens, direitos e obrigações, incluindo as posições contratuais integrantes do activo e passivo desta.
 
 2 - O presente diploma é título bastante para a comprovação do previsto no número anterior, para todos os efeitos legais, incluindo os de registo.
 
-Art. 3.º - 1 - A Companhia Portuguesa de Resseguros, S. A. R. L., tem inicialmente como accionistas as empresas públicas do sector de seguros e os fundos autónomos existentes no âmbito da actividade seguradora.
+###### Artigo 3.º
 
-2 - Poderão igualmente ser accionistas o Estado e empresas públicas de qualquer sector de actividade.
+1 - A Companhia Portuguesa de Resseguros, S. A. R. L., tem inicialmente como accionistas as empresas públicas do sector de seguros e os fundos autónomos existentes no âmbito da actividade seguradora.
+
+2 - Poderão igualmente ser accionistas o Estado e quaisquer outras entidades públicas, incluindo as empresas públicas ou as sociedades de capitais públicos, umas e outras sem distinção de ramos de actividade, e, bem assim, sem prejuízo do estabelecido na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, pessoas singulares ou colectivas do sector privado.
 
 3 - O capital estatutário inicial é de 250000 contos, que se encontra integralmente realizado.
 
-Art. 4.º As acções da Companhia Portuguesa de Resseguros, S. A. R. L., poderão ser utilizadas para representação das provisões técnicas das seguradoras.
+> Alterado pelo/a [Decreto-Lei n.º 126/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1992-288072), publicado em 1992-07-03.
 
-Art. 5.º - 1 - Os trabalhadores da Companhia Portuguesa de Resseguros, S. A. R. L., encontram-se submetidos ao contrato colectivo de trabalho para a actividade seguradora e ao regime geral da segurança social.
+###### Artigo 4.º
+
+As acções da Companhia Portuguesa de Resseguros, S. A. R. L., poderão ser utilizadas para representação das provisões técnicas das seguradoras.
+
+###### Artigo 5.º
+
+1 - Os trabalhadores da Companhia Portuguesa de Resseguros, S. A. R. L., encontram-se submetidos ao contrato colectivo de trabalho para a actividade seguradora e ao regime geral da segurança social.
 
 2 - Os trabalhadores ao serviço da Companhia Portuguesa de Resseguros, E. P., mantêm todos os direitos e regalias emergentes do contrato colectivo de trabalho que detiverem à data da entrada em funcionamento da Companhia Portuguesa de Resseguros, S. A. R. L.
 
 3 - Os funcionários do Estado, de institutos públicos ou de empresas públicas podem ser autorizados pelos respectivos ministros das tutelas a exercer funções na Companhia Portuguesa de Resseguros, S. A. R. L., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem.
 
-Art. 6.º O estatuto inicial da Companhia Portuguesa de Resseguros, S. A. R. L., que deverá constar de escritura pública, será o que for estabelecido em diploma legal, a publicar no prazo de 30 dias a contar da data da publicação do presente diploma.
+###### Artigo 6.º
+
+O estatuto inicial da Companhia Portuguesa de Resseguros, S. A. R. L., que deverá constar de escritura pública, será o que for estabelecido em diploma legal, a publicar no prazo de 30 dias a contar da data da publicação do presente diploma.
 
 Visto e aprovado em Conselho de Ministros de 5 de Agosto de 1982. - Francisco José Pereira Pinto Balsemão.
 

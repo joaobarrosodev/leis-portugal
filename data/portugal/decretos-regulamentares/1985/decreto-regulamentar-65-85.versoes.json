@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:178373:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-10-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "48f328ab81df10f4"
+   ]
+  },
+  {
+   "date": "1986-05-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:227181:por",
+     "title": "Decreto Regulamentar n.º 17/86",
+     "published": "1986-05-16",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/17-1986-227181"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "7c8d7acded580f7d",
+    "f18ffb740b1f7bf7",
+    "90c5827fed1a808d"
+   ]
+  }
+ ],
+ "fragments": {
+  "48f328ab81df10f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Outubro\n\nNo sentido de salvaguardar a nossa herança cultural, de que partilham as comunidades portuguesas dispersas pelo mundo, foi fundada em 1965, por iniciativa dos Ministérios dos Negócios Estrangeiros e da Educação Nacional, a Academia Internacional da Cultura Portuguesa ([Decreto n.º 46180](https://diariodarepublica.pt/dr/detalhe/decreto/46180-1965-238651), de 6 de Fevereiro de 1965).\n\nDaí que, nos respectivos estatutos e regulamento interno, a Academia tenha sido incumbida de fomentar os esforços tendentes à investigação, inventário e sistematização das tradições e dos padrões culturais portugueses no estrangeiro e à identificação e estudo das comunidades filiadas na cultura portuguesa radicadas fora de Portugal.\n\nTais finalidades permanecem específicas da Academia, não se conhecendo instituições ou departamentos oficiais de criação ou reestruturação posterior a 1965 que, mesmo parcialmente, as venham prosseguindo ou disponham de estruturas adequadas à sua implementação.\n\nCom efeito, para além da promoção e presença actuante em congressos, da apresentação de numerosas comunicações científicas e dos continuados contactos culturais com as diversas comunidades de cultura portuguesa espalhadas pelo mundo, destaca-se, na actividade da Academia, uma acção editorial, concretizada na publicação de um boletim e de cerca de três dezenas de obras, em grande parte esgotadas.\n\nPorque é necessário assegurar canais de comunicação eficazes entre aquela Academia e os restantes serviços da Administração encarregados de tornar efectiva a acção do Estado no plano das relações internacionais de carácter cultural, e atendendo a que as finalidades por ela prosseguidas se enquadram na missão coordenadora e de preservação do património cultural, é declarada, pelo presente diploma, a Academia Internacional da Cultura Portuguesa instituição de índole cultural, dependente do Ministério da Cultura através do Instituto Português do Património Cultural.\n\nAssim:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:\n\nArtigo 1.º A Academia Internacional da Cultura Portuguesa é declarada instituição de índole cultural, dependente do Ministério da Cultura através do Instituto Português do Património Cultural, e incluída na lista anexa ao [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.\n\nArt. 2.º Os encargos resultantes da execução do presente diploma serão suportados, no corrente e no próximo ano económico, por conta das dotações orçamentais afectas ao Ministério da Cultura.\n\nMário Soares - Rui Manuel Parente Chancerelle de Machete - José Manuel San-Bento de Menezes - Ernâni Rodrigues Lopes - António Antero Coimbra Martins.\n\nPromulgado em 27 de Setembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado, em 30 de Setembro de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "7c8d7acded580f7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Outubro\n\nNo sentido de salvaguardar a nossa herança cultural, de que partilham as comunidades portuguesas dispersas pelo mundo, foi fundada em 1965, por iniciativa dos Ministérios dos Negócios Estrangeiros e da Educação Nacional, a Academia Internacional da Cultura Portuguesa ([Decreto n.º 46180](https://diariodarepublica.pt/dr/detalhe/decreto/46180-1965-238651), de 6 de Fevereiro de 1965).\n\nDaí que, nos respectivos estatutos e regulamento interno, a Academia tenha sido incumbida de fomentar os esforços tendentes à investigação, inventário e sistematização das tradições e dos padrões culturais portugueses no estrangeiro e à identificação e estudo das comunidades filiadas na cultura portuguesa radicadas fora de Portugal.\n\nTais finalidades permanecem específicas da Academia, não se conhecendo instituições ou departamentos oficiais de criação ou reestruturação posterior a 1965 que, mesmo parcialmente, as venham prosseguindo ou disponham de estruturas adequadas à sua implementação.\n\nCom efeito, para além da promoção e presença actuante em congressos, da apresentação de numerosas comunicações científicas e dos continuados contactos culturais com as diversas comunidades de cultura portuguesa espalhadas pelo mundo, destaca-se, na actividade da Academia, uma acção editorial, concretizada na publicação de um boletim e de cerca de três dezenas de obras, em grande parte esgotadas.\n\nPorque é necessário assegurar canais de comunicação eficazes entre aquela Academia e os restantes serviços da Administração encarregados de tornar efectiva a acção do Estado no plano das relações internacionais de carácter cultural, e atendendo a que as finalidades por ela prosseguidas se enquadram na missão coordenadora e de preservação do património cultural, é declarada, pelo presente diploma, a Academia Internacional da Cultura Portuguesa instituição de índole cultural, dependente do Ministério da Cultura através do Instituto Português do Património Cultural.\n\nAssim:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "f18ffb740b1f7bf7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1986-05-17",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 17/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1986-227181), publicado em 1986-05-16."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A Academia Internacional da Cultura Portuguesa é declarada instituição de índole cultural, dependente do Ministério da Cultura através do Instituto Português do Património Cultural, e incluída na lista anexa ao [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto.\n\n2 - A Academia Internacional da Cultura Portuguesa, sendo uma instituição de índole cultural, é considerada de utilidade pública, dotada de personalidade jurídica e de autonomia administrativa.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 17/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1986-227181), publicado em 1986-05-16."
+  },
+  "90c5827fed1a808d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs encargos resultantes da execução do presente diploma serão suportados, no corrente e no próximo ano económico, por conta das dotações orçamentais afectas ao Ministério da Cultura.\n\nMário Soares - Rui Manuel Parente Chancerelle de Machete - José Manuel San-Bento de Menezes - Ernâni Rodrigues Lopes - António Antero Coimbra Martins.\n\nPromulgado em 27 de Setembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado, em 30 de Setembro de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

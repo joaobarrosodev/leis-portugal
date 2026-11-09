@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1961-11-11'
+version_history:
+  file: decreto-lei-43446.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1961-11-11'
+    amending: pt:dre:181407:por
+    amending_title: Decreto-Lei n.º 44023
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:35:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 44023. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43446.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,25 +156,37 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É aplicável ao aeroporto do Funchal, a construir em Santa Catarina, freguesia e concelho de Santa Cruz, na ilha da Madeira, o disposto no [Decreto-Lei n.º 42488](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42488-1959-429253), de 3 de Setembro de 1959, para o aeroporto de Porto Santo, com as seguintes modificações:
+###### Artigo 1.º
+
+É aplicável ao aeroporto do Funchal, a construir em Santa Catarina, freguesia e concelho de Santa Cruz, na ilha da Madeira, o disposto no [Decreto-Lei n.º 42488](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42488-1959-429253), de 3 de Setembro de 1959, para o aeroporto de Porto Santo, com as seguintes modificações:
 
 1.º A Junta Geral do Distrito Autónomo do Funchal não será reembolsada das despesas previstas no artigo 2.º do supracitado [Decreto-Lei n.º 42488](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42488-1959-429253), sem prejuízo do disposto no artigo 3.º do presente diploma;
 
 2.º O termo referido no artigo 3.º daquele decreto-lei lavrar-se-á perante o chefe da secretaria da câmara municipal do concelho onde se situar o prédio a adquirir, sendo igualmente na presença de um representante da mesma câmara que, nos casos de expropriação, se procederá à vistoria a que alude a alínea b) do artigo 4.º do mesmo diploma.
 
-Art. 2.º Para os fins do artigo 19.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, a Junta Geral do Distrito Autónomo do Funchal poderá conceder subsídios aos moradores desalojados em consequência das obras e que se encontrem nas demais condições previstas naquele artigo.
+###### Artigo 2.º
 
-§ 1.º A Junta Geral poderá ainda adquirir ou expropriar edificações para habitação dos desalojados ou terrenos para construção das mesmas, transmitindo-lhes a respectiva propriedade pela importância por que forem adquiridos ou expropriados e com isenção de quaisquer impostos ou contribuições.
+Para os fins do artigo 19.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948, a Junta Geral do Distrito Autónomo do Funchal poderá conceder subsídios aos moradores desalojados em consequência das obras e que se encontrem nas demais condições previstas naquele artigo.
 
-§ 2.º Os terrenos transmitidos na conformidade do § 1.º reverterão para os expropriados, ou, não querendo estes exercer tal direito, para a Junta Geral, mediante a restituição da importância ali referida, se neles não forem construídas as habitações a que se destinam, no prazo marcado no acto da transmissão.
+§ 1.º A Junta Geral, para reinstalação dos desalojados, poderá ainda expropriar, ou adquirir por outra forma, imóveis urbanos ou rústicos, transmitindo-lhes a respectiva propriedade pela importância por que forem adquiridos ou expropriados e com isenção de quaisquer impostos.
+
+§ 2.º Os imóveis transmitidos na conformidade do § 1.º reverterão para os expropriados, ou, não querendo eles exercer tal direito, para a Junta Geral, mediante a restituição da importância ali referida, quando, destinando-se a construção, as habitações não forem concluídas no prazo marcado no acto da transmissão.
 
 § 3.º Os registos da transmissão para os adquirentes só poderão ser feitos uma vez concluída a construção das respectivas habitações.
 
-Art. 3.º Como comparticipação do Estado para a execução do disposto nos artigos anteriores, o Governo concede o subsídio de 2400000$00, que será suportado pela dotação do orçamento do Ministério das Comunicações destinado à construção do aeródromo de Santa Catarina.
+§ 4.º A Junta Geral poderá ainda transmitir para os expropriados os terrenos sobrantes da reinstalação dos desalojados, com as isenções previstas na parte final do § 1.º até ao valor, para cada adquirente, dos bens que lhe forem expropriados.
+
+> Alterado pelo/a [Decreto-Lei n.º 44023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44023-1961-181407), publicado em 1961-11-11.
+
+###### Artigo 3.º
+
+Como comparticipação do Estado para a execução do disposto nos artigos anteriores, o Governo concede o subsídio de 2400000$00, que será suportado pela dotação do orçamento do Ministério das Comunicações destinado à construção do aeródromo de Santa Catarina.
 
 § único. A importância do subsídio a que se refere este artigo será entregue de uma só vez, a simples requisição da Junta Geral do Distrito Autónomo do Funchal, através da Direcção-Geral da Aeronáutica Civil.
 
-Art. 4.º Este decreto-lei entra imediatamente em vigor.
+###### Artigo 4.º
+
+Este decreto-lei entra imediatamente em vigor.
 
 Publique-se e cumpra-se como nele se contém.
 

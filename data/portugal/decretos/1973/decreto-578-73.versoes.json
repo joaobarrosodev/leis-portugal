@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:412609:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1973-11-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "84581bf0f1c2de9a"
+   ]
+  },
+  {
+   "date": "1977-07-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:250457:por",
+     "title": "Decreto n.º 96/77",
+     "published": "1977-07-08",
+     "dre_path": "/dr/detalhe/decreto/96-1977-250457"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "e79ebd1e8978c197",
+    "129cd7c033a5c888",
+    "a97e190c2fb8c57f",
+    "f0bb5f3b1a7a4b60",
+    "39dd44f11c6e4ee9",
+    "72399bde157cee03",
+    "05365166355c4826",
+    "ab62e5af6a22b5e1"
+   ]
+  }
+ ],
+ "fragments": {
+  "84581bf0f1c2de9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Novembro\n\nConsiderando a necessidade de garantir as medidas de segurança indispensáveis e a possibilidade de execução das missões que competem às instalações do Centro Transmissor do Comiberlant, na Quinta da Machada, freguesia de Palhais, concelho do Barreiro, distrito de Setúbal;\n\nConsiderando o disposto nos artigos 1.º, 6.º, alínea a), 8.º, 9.º e 11.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e as disposições do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º Fica sujeita a servidão militar a área de terreno confinante com o Centro Transmissor do Comiberlant na área compreendida pelo polígono de lados paralelos à vedação daquelas instalações e à distância de 300 m da mesma vedação.\n\nArt. 2.º Na área definida no artigo anterior é proibida, sem licença da autoridade competente, a execução de quaisquer trabalhos e actividades seguintes:\n\na) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;\n\nb) Alteração, por meio de escavações ou aterros, do relevo ou da configuração do solo;\n\nc) Construção de estradas;\n\nd) Depósitos permanentes ou temporários de materiais explosivos ou perigosos que possam prejudicar a instalação militar;\n\ne) Instalação de linhas de energia eléctrica ou telefónica, quer aéreas, quer subterrâneas;\n\nf) Levantamentos topográficos ou fotográficos;\n\ng) Outros trabalhos ou actividades que possam prejudicar o funcionamento das instalações citadas.\n\nArt. 3.º - 1. A concessão de licenças a que se faz referência neste decreto compete ao Secretariado-Geral da Defesa Nacional, depois de ouvido o Estado-Maior da Armada e outros departamentos militares interessados.\n\n2. As licenças concedidas nos termos deste artigo, bem como quaisquer condições impostas na sua concessão, são comunicadas pelo Secretariado-Geral da Defesa Nacional ao Ministério da Marinha para efeitos do disposto nos artigos seguintes.\n\nArt. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando Naval do Continente.\n\nArt. 5.º As demolições das obras feitas ilegalmente e a aplicação de multas consequentes são da competência da Direcção das Infra-Estruturas Navais.\n\nArt. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o Ministro da Defesa Nacional e das decisões tomadas nos termos do artigo anterior, referentes à demolição das obras feitas ilegalmente, cabe recurso para o superintendente dos Serviços do Material da Armada.\n\nArt. 7.º A zona descrita no artigo 1.º será demarcada na carta n.º 443 dos Serviços Cartográficos do Exército, na escala 1:25000, sendo distribuídos exemplares às seguintes entidades:\n\nSecretariado-Geral da Defesa Nacional;\n\nMinistério da Marinha;\n\nMinistério do Interior;\n\nMinistério das Obras Públicas;\n\nMinistério das Comunicações.\n\nMarcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Rui Alves da Silva Sanches.\n\nPromulgado em 17 de Outubro de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "e79ebd1e8978c197": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Novembro\n\nConsiderando a necessidade de garantir as medidas de segurança indispensáveis e a possibilidade de execução das missões que competem às instalações do Centro Transmissor do Comiberlant, na Quinta da Machada, freguesia de Palhais, concelho do Barreiro, distrito de Setúbal;\n\nConsiderando o disposto nos artigos 1.º, 6.º, alínea a), 8.º, 9.º e 11.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e as disposições do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "129cd7c033a5c888": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nFica sujeita a servidão militar a área de terreno confinante com o Centro Transmissor do Comiberlant na área compreendida pelo polígono de lados paralelos à vedação daquelas instalações e à distância de 300 m da mesma vedação."
+  },
+  "a97e190c2fb8c57f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNa área definida no artigo anterior é proibida, sem licença da autoridade competente, a execução de quaisquer trabalhos e actividades seguintes:\n\na) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;\n\nb) Alteração, por meio de escavações ou aterros, do relevo ou da configuração do solo;\n\nc) Construção de estradas;\n\nd) Depósitos permanentes ou temporários de materiais explosivos ou perigosos que possam prejudicar a instalação militar;\n\ne) Instalação de linhas de energia eléctrica ou telefónica, quer aéreas, quer subterrâneas;\n\nf) Levantamentos topográficos ou fotográficos;\n\ng) Outros trabalhos ou actividades que possam prejudicar o funcionamento das instalações citadas."
+  },
+  "f0bb5f3b1a7a4b60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. A concessão de licenças a que se faz referência neste decreto compete ao Secretariado-Geral da Defesa Nacional, depois de ouvido o Estado-Maior da Armada e outros departamentos militares interessados.\n\n2. As licenças concedidas nos termos deste artigo, bem como quaisquer condições impostas na sua concessão, são comunicadas pelo Secretariado-Geral da Defesa Nacional ao Ministério da Marinha para efeitos do disposto nos artigos seguintes."
+  },
+  "39dd44f11c6e4ee9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1977-07-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 96/77](https://diariodarepublica.pt/dr/detalhe/decreto/96-1977-250457), publicado em 1977-07-08."
+   ],
+   "markdown": "###### Artigo 4.º\n\nA fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do Corpo de Fuzileiros.\n\n> Alterado pelo/a [Decreto n.º 96/77](https://diariodarepublica.pt/dr/detalhe/decreto/96-1977-250457), publicado em 1977-07-08."
+  },
+  "72399bde157cee03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs demolições das obras feitas ilegalmente e a aplicação de multas consequentes são da competência da Direcção das Infra-Estruturas Navais."
+  },
+  "05365166355c4826": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nDas decisões tomadas nos termos do artigo 3.º cabe recurso para o Ministro da Defesa Nacional e das decisões tomadas nos termos do artigo anterior, referentes à demolição das obras feitas ilegalmente, cabe recurso para o superintendente dos Serviços do Material da Armada."
+  },
+  "ab62e5af6a22b5e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA zona descrita no artigo 1.º será demarcada na carta n.º 443 dos Serviços Cartográficos do Exército, na escala 1:25000, sendo distribuídos exemplares às seguintes entidades:\n\nSecretariado-Geral da Defesa Nacional;\n\nMinistério da Marinha;\n\nMinistério do Interior;\n\nMinistério das Obras Públicas;\n\nMinistério das Comunicações.\n\nMarcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Rui Alves da Silva Sanches.\n\nPromulgado em 17 de Outubro de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

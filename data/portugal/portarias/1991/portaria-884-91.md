@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-11-11'
+version_history:
+  file: portaria-884-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-08-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-11-11'
+    amending: pt:dre:331408:por
+    amending_title: Portaria n.º 1161/91
+    changes:
+    - Altera Artigo 37.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/884/1991/08/28/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:03:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1161/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-884-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -163,9 +178,13 @@ Só poderão ser utilizadas chapas de matrícula cujo modelo tenha sido aprovado
 
 6 - A contravenção ao disposto neste artigo será punida com multa de 3000$00 a 15000$00, salvo quando se tratar de contravenção ao disposto no número anterior, em que a multa será de 10000$00 a 50000$00.
 
-2.º A presente portaria entra em vigor no dia 1 de Janeiro de 1992 para os veículos a matricular a partir daquela data e um mês contado da sua publicação no que se refere às matrículas de exportação.
+2.º O disposto no presente diploma entrará em vigor em 2 de Janeiro de 1992 para os veículos a matricular a partir daquela data e imediatamente para as matrículas de exportação, salvo no que respeita ao artigo 35.º do Regulamento do Código da Estrada na redacção que lhe é conferida por esta portaria, o qual entrará em vigor durante o ano de 1992, quando a Direcção-Geral de Viação esgotar as séries de matrículas ainda disponíveis.
+
+3.º Sem prejuízo do disposto no número anterior, é permitido desde já o uso de chapas de matrícula retrorreflectorizadas que obedeçam às características fixadas no artigo 37.º do Regulamento do Código da Estrada, na redacção que lhe é conferida pelo presente diploma, nos veículos matriculados ou a matricular até 31 de Dezembro de 1991.
 
 Ministério das Obras Públicas, Transportes e Comunicações.
+
+> Alterado pelo/a [Portaria n.º 1161/91](https://diariodarepublica.pt/dr/detalhe/portaria/1161-1991-331408), publicado em 1991-11-11.
 
 Assinada em 7 de Agosto de 1991.
 

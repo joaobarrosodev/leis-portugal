@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-08-22'
+version_history:
+  file: decreto-regulamentar-24-a-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-05-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-08-22'
+    amending: pt:dre:434786:por
+    amending_title: Decreto Regulamentar n.º 15/99
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/24-a/1997/05/30/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:24:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 15/99. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1997/decreto-regulamentar-24-a-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,9 +184,13 @@ d) Rendimentos prediais;
 
 e) Pensões.
 
+f) Outras prestações sociais compensatórias da perda ou inexistência de rendimentos concedidas no âmbito dos regimes de protecção social.
+
 2 - Os rendimentos compreendidos no âmbito das categorias enunciadas nas alíneas a) a e) do número anterior são os estabelecidos para as correspondentes categorias na legislação que regula o imposto sobre os rendimentos das pessoas singulares (IRS).
 
 3 - Não são considerados os rendimentos relativos a prestações familiares e ao subsídio por assistência de terceira pessoa concedidos no âmbito dos regimes de protecção social.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 15/99](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1999-434786), publicado em 1999-08-17.
 
 ###### Artigo 4.º — Momento e periodicidade da apresentação da declaração de rendimentos
 
@@ -210,7 +230,17 @@ c) A concessão dos montantes de subsídio familiar a crianças e jovens pelos v
 
 ###### Artigo 9.º — Actuação das instituições ou serviços gestores das prestações
 
-As instituições ou serviços gestores das prestações podem solicitar, sempre que se justifique, quaisquer elementos que permitam comprovar a veracidade das declarações de rendimentos prestadas pelos interessados, designadamente a especificação das despesas regulares dos agregados familiares.
+1 - Sempre que da obrigação de declarar anualmente os rendimentos resulte, por acção ou omissão, posicionamento em escalão de rendimentos de que venha a resultar valor de subsídio familiar a crianças e jovens inferior ao que vinha sendo concedido ao seu titular, devem as instituições gestoras das prestações observar os seguintes procedimentos:
+
+a) Notificar os interessados de que o valor do subsídio familiar a crianças e jovens irá sofrer redução a partir do início do ano civil subsequente àquele em que a prova de rendimentos teve lugar, como consequência do posicionamento em escalão diferente daquele em que estavam posicionados;
+
+b) Conceder prazo até 31 de Dezembro do ano civil em que é feita a prova de rendimentos para os interessados requererem a respectiva rectificação de escalão, sendo caso disso;
+
+c) O não cumprimento do prazo referido na alínea anterior sem justificação atendível determina a concessão da prestação pelos montantes inferiores no ano civil subsequente àquele em que a prova de rendimentos teve lugar.
+
+2 - As instituições ou serviços gestores das prestações podem solicitar, sempre que se justifique, quaisquer elementos que permitam comprovar a veracidade das declarações de rendimentos prestadas pelos interessados, designadamente a especificação das despesas regulares dos agregados familiares.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 15/99](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1999-434786), publicado em 1999-08-17.
 
 ###### Artigo 10.º — Produção de efeitos
 

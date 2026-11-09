@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-06-30'
+version_history:
+  file: decreto-lei-150-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-04-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-06-30'
+    amending: pt:dre:419632:por
+    amending_title: Lei n.º 25/87
+    changes:
+    - Adita Artigo 1.º-A
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:49:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 25/87. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1983/decreto-lei-150-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,11 +131,23 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º Aos trabalhadores dos CTT será contado, para efeitos de aposentação, o tempo em que permaneceram nos quadros de reserva da empresa, sem serviço, desde que efectuem os descontos para a Caixa Geral de Aposentações correspondentes a esse período.
+###### Artigo 1.º
 
-Art. 2.º O cálculo das quotas em dívida, pelo tempo que vier a ser requerido, deve ser feito nos termos da [Portaria n.º 1079/81](https://diariodarepublica.pt/dr/detalhe/portaria/1079-1981-567175), de 21 de Dezembro.
+Aos trabalhadores dos CTT será contado, para efeitos de aposentação, o tempo em que permaneceram nos quadros de reserva da empresa, sem serviço, desde que efectuem os descontos para a Caixa Geral de Aposentações correspondentes a esse período.
 
-Art. 3.º O disposto no artigo 1.º não é aplicável aos trabalhadores que, por sua iniciativa, requereram a passagem à situação de sem serviço.
+###### Artigo 1.º-A
+
+Idêntico tratamento será aplicado aos trabalhadores contratados além dos quadros de pessoal da empresa, em relação ao período de tempo em que permaneceram em regime de disponibilidade, sem serviço.
+
+> Aditado pelo/a [Lei n.º 25/87](https://diariodarepublica.pt/dr/detalhe/lei/25-1987-419632), publicado em 1987-06-25.
+
+###### Artigo 2.º
+
+O cálculo das quotas em dívida, pelo tempo que vier a ser requerido, deve ser feito nos termos da [Portaria n.º 1079/81](https://diariodarepublica.pt/dr/detalhe/portaria/1079-1981-567175), de 21 de Dezembro.
+
+###### Artigo 3.º
+
+O disposto no artigo 1.º não é aplicável aos trabalhadores que, por sua iniciativa, requereram a passagem à situação de sem serviço.
 
 Visto e aprovado em Conselho de Ministros de 17 de Fevereiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Carlos Pinto Soromenho Viana Baptista.
 

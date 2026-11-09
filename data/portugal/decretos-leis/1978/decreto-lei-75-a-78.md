@@ -37,10 +37,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-01-04'
+version_history:
+  file: decreto-lei-75-a-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-04-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-01-04'
+    amending: pt:dre:401901:por
+    amending_title: Decreto-Lei n.º 485/88
+    changes:
+    - Revoga Artigo 28.º
 identifiers:
   celex: null
   eli: null
@@ -66,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:16:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 485/88. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1978/decreto-lei-75-a-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -1073,9 +1088,11 @@ Os benefícios fiscais previstos na [Lei n.º 36/77](https://diariodarepublica.p
 
 O Ministro das Finanças e do Plano pode, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos e ouvido o Ministério da Tutela, permitir a aplicação do regime de benefícios fiscais estabelecidos na [Lei n.º 36/77](https://diariodarepublica.pt/dr/detalhe/lei/36-1977-253193), de 17 de Junho, a casos especiais de desintervenção de empresas que não celebrem contratos de viabilização.
 
-###### Artigo 28.º — (Benefícios fiscais às estruturas de empresas públicas)
+###### Artigo 28.º — Benefícios fiscais às estruturas de empresas públicas
 
-O Ministro das Finanças e do Plano pode, com base em parecer fundamentado da Direcção-Geral das Contribuições e Impostos e ouvido o Ministério da Tutela, conceder a isenção de contribuições, impostos, taxas, emolumentos e outros encargos legais, relativamente às fusões, incorporações ou cisões de empresas públicas integradas em sectores vedados à iniciativa privada.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30.
 
 ###### Artigo 29.º — (Criação de adicionais)
 

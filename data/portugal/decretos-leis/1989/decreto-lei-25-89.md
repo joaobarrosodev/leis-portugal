@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-10-20'
+version_history:
+  file: decreto-lei-25-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-01-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-10-20'
+    amending: pt:dre:555422:por
+    amending_title: Decreto-Lei n.º 319/90
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:51:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 319/90. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-25-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,15 +144,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - A QUIMIGAL - Química de Portugal, E. P., criada pelo [Decreto-Lei n.º 530/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1977-276642), de 30 de Dezembro, é transformada pelo presente diploma em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se QUIMIGAL - Química de Portugal, S. A.
+###### Artigo 1.º
+
+1 - A QUIMIGAL - Química de Portugal, E. P., criada pelo [Decreto-Lei n.º 530/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/530-1977-276642), de 30 de Dezembro, é transformada pelo presente diploma em sociedade anónima de capitais maioritariamente públicos, passando a denominar-se QUIMIGAL - Química de Portugal, S. A.
 
 2 - A QUIMIGAL - Química de Portugal, S. A., rege-se pelo presente diploma, pelos seus estatutos e pelas normas de direito privado que regulam as sociedades anónimas.
 
-Art. 2.º - 1 - A QUIMIGAL - Química de Portugal, S. A., sucede automática e globalmente à QUIMIGAL - Química de Portugal, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações legais, estatutárias e contratuais que constituem o seu património no momento da transformação.
+###### Artigo 2.º
+
+1 - A QUIMIGAL - Química de Portugal, S. A., sucede automática e globalmente à QUIMIGAL - Química de Portugal, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações legais, estatutárias e contratuais que constituem o seu património no momento da transformação.
 
 2 - O presente diploma é título bastante para a comprovação do previsto no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da QUIMIGAL - Química de Portugal, S. A.
 
-Art. 3.º - 1 - A QUIMIGAL - Química de Portugal, S. A., tem inicialmente um capital social de 34006060000$00, que se encontra integralmente realizado pelo Estado à data da entrada em vigor do presente diploma.
+###### Artigo 3.º
+
+1 - A QUIMIGAL - Química de Portugal, S. A., tem inicialmente um capital social de 34006060000$00, que se encontra integralmente realizado pelo Estado à data da entrada em vigor do presente diploma.
 
 2 - O capital social é representado por acções do tipo A e do tipo B, com as seguintes características:
 
@@ -149,13 +170,25 @@ b) As acções do tipo B são nominativas ou ao portador, podendo delas ser titu
 
 4 - Os fundos públicos e organismos congéneres do sector público administrativo com receitas próprias, não integradas no Orçamento do Estado, e que, nos termos legais, apenas excepcionalmente possam recorrer a dotações do Estado podem subscrever acções representativas do capital social da QUIMIGAL - Química de Portugal, S. A., desde que para esse efeito sejam autorizados por despacho do Ministro das Finanças.
 
-5 - As acções representativas do capital social da QUIMIGAL - Química de Portugal, S. A., e as novas acções emitidas por força de aumentos de capital poderão ser alienadas nos termos da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
+5 - A alienação do capital social da QUIMIGAL - Química de Portugal, S. A., quando o Estado o julgue oportuno, será regulada nos termos da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183) de 5 de Abril, por decreto-lei específico.
 
 6 - Os direitos do Estado, como accionista da sociedade, são exercidos através de representante designado por despacho conjunto dos Ministros das Finanças e da Indústria e Energia, salvo quando a gestão das acções tenha sido confiada a outra entidade nos termos do n.º 3.
 
-Art. 4.º A QUIMIGAL - Química de Portugal, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+7 - A alienação de capital social das sociedades resultantes da autonomização de áreas de actividade da QUIMIGAL - Química de Portugal, S. A., ainda que pela associação ou fusão com terceiros, para as quais tenham sido transferidos activos produtivos da mesma, bem como a da titularidade ou do direito de exploração de meios de produção nacionalizados, será feita por venda directa, precedida de consultas limitadas, competindo ao Conselho de Ministros a aprovação do caderno de encargos, a escolha dos adquirentes e a definição das condições específicas da transacção.
 
-Art. 5.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará aos Ministérios das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
+8 - O produto total das alienações de participações sociais, incluindo as referidas no n.º 7, será integralmente aplicado na amortização da dívida da QUIMIGAL - Química de Portugal, S. A., e do respectivo equilíbrio económico-financeiro.
+
+9 - As disposições constantes dos n.os 7 e 8 vigoram apenas até que a resolução do Conselho de Ministros dê por findo o processo de reestruturação empresarial e reequilibro financeiro da QUIMIGAL - Química de Portugal, S. A.
+
+> Alterado pelo/a [Decreto-Lei n.º 319/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1990-555422), publicado em 1990-10-15.
+
+###### Artigo 4.º
+
+A QUIMIGAL - Química de Portugal, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, com as competências fixadas na lei e nos estatutos.
+
+###### Artigo 5.º
+
+1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará aos Ministérios das Finanças e da Indústria e Energia, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -163,7 +196,9 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal enviará trimestralmente aos Ministérios das Finanças e da Indústria e Energia um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-Art. 6.º - 1 - Os trabalhadores e pensionistas da QUIMIGAL - Química de Portugal, E. P., mantêm perante a QUIMIGAL - Química de Portugal, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
+###### Artigo 6.º
+
+1 - Os trabalhadores e pensionistas da QUIMIGAL - Química de Portugal, E. P., mantêm perante a QUIMIGAL - Química de Portugal, S. A., todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
 
 2 - Os direitos, obrigações e regalias dos trabalhadores que fiquem afectos à QUIMIGAL - Química de Portugal, S. A., serão transferidos para as empresas a criar a partir desta sociedade, a partir da data em que sejam constituídas, e conforme a respectiva subordinação.
 
@@ -171,13 +206,19 @@ Art. 6.º - 1 - Os trabalhadores e pensionistas da QUIMIGAL - Química de Portug
 
 4 - A situação dos trabalhadores da QUIMIGAL - Química de Portugal, S. A., que sejam chamados a ocupar cargos nos órgãos da empresa, bem como os que sejam requisitados para exercer funções em outras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares logo que terminem o mandato ou o tempo de requisição.
 
-Art. 7.º Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a QUIMIGAL - Química de Portugal, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
+###### Artigo 7.º
 
-Art. 8.º - 1 - São aprovados os estatutos da QUIMIGAL - Química de Portugal, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
+Até ao termo dos correspondentes contratos, o Estado mantém perante as instituições financeiras que celebraram contratos com a QUIMIGAL - Química de Portugal, E. P., as mesmas relações de suporte que mantinha relativamente àquela empresa pública, não podendo o presente decreto-lei ser considerado como alteração de circunstâncias para efeitos dos referidos contratos.
+
+###### Artigo 8.º
+
+1 - São aprovados os estatutos da QUIMIGAL - Química de Portugal, S. A., anexos a este diploma, os quais não carecem de redução a escritura pública, devendo os respectivos registos ser feitos oficiosamente, sem taxas ou emolumentos, com base no Diário da República em que hajam sido publicados.
 
 2 - As eventuais alterações aos estatutos, que em caso algum poderão contrariar o disposto na [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, produzirão todos os seus efeitos desde que deliberadas segundo o próprio regime estatutário vigente e com observância das disposições aplicáveis da lei comercial e do presente diploma, sendo bastante a sua redução a escritura pública e o subsequente registo.
 
-Art. 9.º - 1 - É por esta forma convocada a assembleia geral da QUIMIGAL - Química de Portugal, S. A., a qual deve reunir na sede da sociedade, pelas 17 horas do 30.º dia posterior à data da entrada em vigor do presente diploma ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
+###### Artigo 9.º
+
+1 - É por esta forma convocada a assembleia geral da QUIMIGAL - Química de Portugal, S. A., a qual deve reunir na sede da sociedade, pelas 17 horas do 30.º dia posterior à data da entrada em vigor do presente diploma ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos cargos sociais e aprovar o respectivo estatuto remuneratório.
 
 2 - Os membros em exercício do conselho de gestão e da comissão de fiscalização da QUIMIGAL - Química de Portugal, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da QUIMIGAL - Química de Portugal, S. A., com as competências fixadas nos estatutos para o conselho de administração e conselho fiscal, respectivamente.
 
@@ -197,13 +238,19 @@ O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto
 
-Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de QUIMIGAL - Química de Portugal, S. A.
+###### Artigo 1.º
 
-Art. 2.º - 1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa, na Avenida do Infante Santo, 2.
+A sociedade adopta a forma de sociedade anónima e a denominação de QUIMIGAL - Química de Portugal, S. A.
+
+###### Artigo 2.º
+
+1 - A sociedade tem duração por tempo indeterminado e sede social em Lisboa, na Avenida do Infante Santo, 2.
 
 2 - Por deliberação do conselho de administração a sociedade poderá criar e manter em qualquer ponto do território nacional, ou fora dele, agências, sucursais, delegações ou qualquer outra forma de representação.
 
-Art. 3.º - 1 - A QUIMIGAL - Química de Portugal, S. A., tem por objecto principal a exploração, quer directamente, quer através das suas participações detidas em outras empresas ou organizações, de industrias químicas em geral e actividades delas derivadas ou com elas relacionadas.
+###### Artigo 3.º
+
+1 - A QUIMIGAL - Química de Portugal, S. A., tem por objecto principal a exploração, quer directamente, quer através das suas participações detidas em outras empresas ou organizações, de industrias químicas em geral e actividades delas derivadas ou com elas relacionadas.
 
 2 - Estão contidas neste objecto principal, entre outras:
 
@@ -223,7 +270,9 @@ c) Alienar participações que detenha noutras sociedades, empresas e associaç�
 
 ### CAPÍTULO II — Capital social, acções e obrigações
 
-Art. 4.º - 1 - O capital social é de 34006060000$00, está integralmente realizado pelo Estado e é representado por acções com o valor nominal de 1000$00.
+###### Artigo 4.º
+
+1 - O capital social é de 34006060000$00, está integralmente realizado pelo Estado e é representado por acções com o valor nominal de 1000$00.
 
 2 - O capital social é representado por acções do tipo A e do tipo B com as seguintes características:
 
@@ -237,23 +286,31 @@ b) As acções do tipo B são nominativas ou ao portador, podendo delas ser titu
 
 5 - O custo das operações de registo das transmissões, desdobramentos, conversões ou outras relativas aos títulos referidos no número anterior será suportado pelos interessados, segundo critério a fixar pela assembleia geral.
 
-Art. 5.º - 1 - As acções representativas do capital social da QUIMIGAL - Química de Portugal, S. A., e as novas acções emitidas por força de aumentos de capital poderão ser alienadas nos termos da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
+###### Artigo 5.º
+
+1 - As acções representativas do capital social da QUIMIGAL - Química de Portugal, S. A., e as novas acções emitidas por força de aumentos de capital poderão ser alienadas nos termos da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
 2 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem.
 
 3 - Sempre que num aumento de capital haja accionistas que renunciem à subscrição das acções que lhes competiam, poderão as mesmas ser subscritas pelos demais accionistas, na proporção das suas participações.
 
-Art. 6.º - 1 - A sociedade poderá emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
+###### Artigo 6.º
+
+1 - A sociedade poderá emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
 
 2 - Pode haver acções preferenciais sem voto, nos termos da legislação geral sobre sociedades anónimas, até ao montante de 20% do capital social e respeitando sempre as disposições da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho.
 
 ### CAPÍTULO III — Órgãos sociais
 
-Art. 7.º São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+###### Artigo 7.º
+
+São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 #### SECÇÃO I — Assembleia geral
 
-Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto.
+###### Artigo 8.º
+
+1 - A assembleia geral é formada pelos accionistas com direito a voto.
 
 2 - A cada 1000 acções corresponde um voto na assembleia geral.
 
@@ -269,7 +326,9 @@ Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito a vo
 
 8 - Os membros do conselho de administração e do conselho fiscal poderão estar presentes nas reuniões da assembleia geral e participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto.
 
-Art. 9.º - 1 - Compete à assembleia geral:
+###### Artigo 9.º
+
+1 - Compete à assembleia geral:
 
 a) Apreciar o relatório do conselho de administração, discutir e votar o balanço e as contas e o parecer do conselho fiscal e deliberar sobre a aplicação dos resultados do exercício;
 
@@ -289,7 +348,9 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 3 - As votações poderão ser efectuadas nominalmente ou por sinais convencionais, conforme seja decidido pelo presidente.
 
-Art. 10.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo ainda constituída por um vice-presidente e um secretário, eleitos trienalmente pela assembleia de entre os accionistas ou outras pessoas, sendo as respectivas faltas supridas nos termos da lei comercial.
+###### Artigo 10.º
+
+1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo ainda constituída por um vice-presidente e um secretário, eleitos trienalmente pela assembleia de entre os accionistas ou outras pessoas, sendo as respectivas faltas supridas nos termos da lei comercial.
 
 2 - A convocação da assembleia geral faz-se com a antecedência mínima de 30 dias, com indicação expressa dos assuntos a tratar.
 
@@ -299,19 +360,25 @@ Art. 10.º - 1 - A assembleia geral será convocada e dirigida pelo presidente d
 
 5 - O mandato dos membros da mesa da assembleia geral é renovável, mantendo-se estes em efectividade de funções até à posse dos membros que os venham substituir.
 
-Art. 11.º - 1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem pelo menos 5% do capital social.
+###### Artigo 11.º
+
+1 - A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem pelo menos 5% do capital social.
 
 2 - Para efeitos das alíneas b) e c) do n.º 1 do artigo 9.º, a assembleia geral só pode reunir encontrando-se presentes accionistas que representem pelo menos 51% do capital social.
 
 #### SECÇÃO II — Conselho de administração
 
-Art. 12.º - 1 - O conselho de administração é composto por um presidente e por quatro ou seis vogais.
+###### Artigo 12.º
+
+1 - O conselho de administração é composto por um presidente e por quatro ou seis vogais.
 
 2 - O mandato dos membros do conselho de administração é de três anos e é renovável.
 
 3 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidas por nomeação do próprio conselho até que em assembleia geral se proceda à competente eleição.
 
-Art. 13.º - 1 - Ao conselho de administração compete:
+###### Artigo 13.º
+
+1 - Ao conselho de administração compete:
 
 a) Gerir os negócios sociais e praticar todos os actos e operações relativos ao objecto social que não caibam na competência atribuída a outros órgãos da sociedade;
 
@@ -327,7 +394,9 @@ f) Exercer as demais competências que lhe sejam atribuídas por lei ou pela ass
 
 2 - O conselho de administração poderá delegar numa ou mais comissões executivas, permanentes ou eventuais, compostas por algum dos seus membros, ou em comissões especiais constituídas por algum ou alguns dos seus membros e por empregados da sociedade, mas sempre com maioria de representantes do sector público, algum ou alguns dos poderes que lhe são conferidos, definindo em acta os limites e condições de tal delegação.
 
-Art. 14.º - 1 - Compete especialmente ao presidente do conselho de administração:
+###### Artigo 14.º
+
+1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho de administração em juízo ou fora dele;
 
@@ -339,7 +408,9 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos o presidente será substituído pelo vogal do conselho de administração por si designado para o efeito.
 
-Art. 15.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que convocado pelo respectivo presidente, o qual poderá proceder a tal convocação por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
+###### Artigo 15.º
+
+1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões ordinárias e reunirá extraordinariamente sempre que convocado pelo respectivo presidente, o qual poderá proceder a tal convocação por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
 
 2 - O conselho de administração só poderá funcionar estando presentes ou representados a maioria dos seus membros, sendo as suas deliberações tomadas por maioria dos votos expressos.
 
@@ -349,7 +420,9 @@ Art. 15.º - 1 - O conselho de administração fixará as datas ou a periodicida
 
 5 - As deliberações do conselho de administração constarão sempre de acta, que consignará os votos de vencido.
 
-Art. 16.º - 1 - A sociedade obriga-se:
+###### Artigo 16.º
+
+1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois administradores;
 
@@ -363,7 +436,9 @@ c) Pela assinatura dos mandatários constituídos nos termos dos correspondentes
 
 #### SECÇÃO III — Conselho fiscal
 
-Art. 17.º - 1 - A fiscalização da sociedade compete a um conselho fiscal composto por um presidente e dois vogais efectivos e um suplente, todos eleitos em assembleia geral, por três anos, sendo reelegíveis uma ou mais vezes.
+###### Artigo 17.º
+
+1 - A fiscalização da sociedade compete a um conselho fiscal composto por um presidente e dois vogais efectivos e um suplente, todos eleitos em assembleia geral, por três anos, sendo reelegíveis uma ou mais vezes.
 
 2 - Um dos membros efectivos do conselho fiscal e o suplente serão revisores oficiais de contas.
 
@@ -371,11 +446,15 @@ Art. 17.º - 1 - A fiscalização da sociedade compete a um conselho fiscal comp
 
 4 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-Art. 18.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício e o presidente tem voto de qualidade.
+###### Artigo 18.º
+
+As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício e o presidente tem voto de qualidade.
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-Art. 19.º - Os resultados positivos do exercício, devidamente aprovados, terão a seguinte aplicação:
+###### Artigo 19.º
+
+Os resultados positivos do exercício, devidamente aprovados, terão a seguinte aplicação:
 
 a) Um mínimo de 10% para constituição de reserva legal até atingir o montante exigível;
 
@@ -387,12 +466,18 @@ d) O restante para os fins que a assembleia geral delibere de interesse para a s
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-Art. 20.º Os membros dos órgãos sociais são dispensados de prestar caução pelo exercício dos seus cargos.
+###### Artigo 20.º
 
-Art. 21.º - 1 - Para as situações não reguladas nestes estatutos devem ser observadas as disposições gerais de direito aplicáveis a sociedades anónimas e as especiais que vigorarem para as actividades análogas àquelas que a sociedade prossegue.
+Os membros dos órgãos sociais são dispensados de prestar caução pelo exercício dos seus cargos.
+
+###### Artigo 21.º
+
+1 - Para as situações não reguladas nestes estatutos devem ser observadas as disposições gerais de direito aplicáveis a sociedades anónimas e as especiais que vigorarem para as actividades análogas àquelas que a sociedade prossegue.
 
 2 - As eventuais alterações aos estatutos produzirão todos os seus efeitos desde que deliberadas segundo o seu regime e com observância das disposições aplicáveis da lei comercial, da [Lei n.º 84/88](https://diariodarepublica.pt/dr/detalhe/lei/84-1988-372781), de 20 de Julho, e do diploma que aprova estes estatutos, sendo bastante a sua redução a escritura pública e subsequente registo.
 
-Art. 22.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
+###### Artigo 22.º
+
+1 - A sociedade dissolve-se nos casos e nos termos legais.
 
 2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.

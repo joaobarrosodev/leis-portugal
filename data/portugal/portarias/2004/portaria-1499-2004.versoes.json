@@ -1,0 +1,441 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:348921:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-12-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "35afd69066338abe",
+    "5b0a1233954358f6",
+    "3c05655f9f0909e0",
+    "99e15c2294e60f5c",
+    "b4c3757247c1551f",
+    "f273d67a47ac11b8",
+    "cf83dd16c27ddbbf",
+    "a35bca94bd2e5d3b",
+    "2738ff597d85b5b5",
+    "014254d83803f04f",
+    "eea901991f4b9473",
+    "7fe165c8504b12ca",
+    "22525cfbe3fc39c9",
+    "f60fb2b74959f407",
+    "702a7752f95769f0",
+    "3b6060384483d43f",
+    "8c282940b6e78cc9",
+    "243b98e362aa075f",
+    "8d6b9f36d290ff26",
+    "7ad5065874b6e5b0",
+    "1570f8b24b0d2b09",
+    "219315576a182900",
+    "b199fdc19468af98"
+   ]
+  },
+  {
+   "date": "2018-09-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116460405:por",
+     "title": "Portaria n.º 268/2018",
+     "published": "2018-09-21",
+     "dre_path": "/dr/detalhe/portaria/268-2018-116460405"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::1.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::2.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::3.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::4.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::5.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::6.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::7.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::8.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::9.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::10.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::11.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::12.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::13.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::14.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::15.º",
+    "Revoga Artigo ANEXO — Programa de formação do ano comum::16.º"
+   ],
+   "fragments": [
+    "35afd69066338abe",
+    "5b0a1233954358f6",
+    "3c05655f9f0909e0",
+    "d9923dc4d17337fa",
+    "e9a442e74cf6d9ed",
+    "b3d12b14d3aaf745",
+    "ba97ed060e6def14",
+    "a6040920f63daf40",
+    "2738ff597d85b5b5",
+    "347eff56f0075ad8",
+    "033d1f7f0b45c9e1",
+    "f6cf5b3088c235aa",
+    "3e09074e2f941d78",
+    "786a1a57d324f335",
+    "702a7752f95769f0",
+    "663ff7b1dea1dfa4",
+    "95c52132cf7b1e01",
+    "54d32ff5bcfcecc5",
+    "5cfe110636284549",
+    "7ad5065874b6e5b0",
+    "210c0bd346f9b607",
+    "219315576a182900",
+    "ab4671559dc0ccc4"
+   ]
+  }
+ ],
+ "fragments": {
+  "35afd69066338abe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Dezembro\n\nO [Decreto-Lei n.º 203/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2004-480703), de 18 de Agosto, veio definir o regime jurídico da formação médica após a licenciatura em Medicina, com vista à especialização, estabelecendo os princípios gerais a que deve obedecer o respectivo processo.\n\nCom a publicação deste diploma, procedeu-se à unificação do internato geral e do internato complementar, previstos no [Decreto-Lei n.º 128/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1992-288258), de 4 de Julho, criando-se um único internato médico.\n\nDe acordo com o novo regime, o internato médico corresponde a um processo único de formação médica especializada, teórica e prática, tendo como objectivo habilitar o médico ao exercício tecnicamente diferenciado na respectiva área profissional de especialização, sendo composto por um período de formação inicial designado por ano comum.\n\nO ano comum abrange todos os ramos de diferenciação profissional e engloba estágios cujas áreas em que são ministrados e respectivas durações são aprovadas por portaria do Ministro da Saúde, sob proposta da Ordem dos Médicos, em colaboração com o Conselho Nacional do Internato Médico.\n\nAssim:\n\nAo abrigo do n.º 3 do artigo 4.º, do n.º 1 do artigo 10.º e da alínea a) do n.º 2 do artigo 29.º, todos do [Decreto-Lei n.º 203/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2004-480703), de 18 de Agosto:\n\nManda o Governo, pelo Ministro da Saúde, o seguinte:\n\n1.º É aprovado o programa de formação do ano comum, anexo a esta portaria e que dela faz parte integrante.\n\n2.º A presente portaria entra em vigor em 1 de Janeiro de 2005.\n\nO Ministro da Saúde, Luís Filipe da Conceição Pereira, em 22 de Outubro de 2004."
+  },
+  "5b0a1233954358f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Programa de formação do ano comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Programa de formação do ano comum"
+  },
+  "3c05655f9f0909e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Programa de formação do ano comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Programa de formação do ano comum"
+  },
+  "99e15c2294e60f5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Ano comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Ano comum\n\nO ano comum corresponde a um processo de formação inicial do internato médico e abrange todos os ramos de diferenciação profissional."
+  },
+  "b4c3757247c1551f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Duração do ano comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Duração do ano comum\n\nO ano comum tem a duração de 12 meses, incluindo 1 mês de férias."
+  },
+  "f273d67a47ac11b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura do ano comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura do ano comum\n\n1 - O ano comum é constituído por cinco blocos formativos:\n\na) Formação em medicina interna;\n\nb) Formação em pediatria geral;\n\nc) Formação em obstetrícia;\n\nd) Formação em cirurgia geral;\n\ne) Formação em cuidados de saúde primários:\n\ni) Formação em clínica geral;\n\nii) Formação em saúde pública.\n\n2 - A sequência dos blocos formativos não tem carácter obrigatório."
+  },
+  "cf83dd16c27ddbbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Duração dos blocos formativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Duração dos blocos formativos\n\nOs blocos formativos a que se refere o artigo anterior têm a seguinte duração:\n\na) Formação em medicina interna, quatro meses, incluindo doze horas semanais em serviço de urgência;\n\nb) Formação em pediatria geral, dois meses, incluindo doze horas semanais em serviço de urgência;\n\nc) Formação em obstetrícia, um mês, incluindo doze horas semanais em serviço de urgência;\n\nd) Formação em cirurgia geral, dois meses, incluindo doze horas semanais em serviço de urgência.\n\ne) Formação em cuidados de saúde primários, três meses."
+  },
+  "a35bca94bd2e5d3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Locais de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Locais de formação\n\n1 - Formação em medicina interna:\n\na) Serviço de medicina interna com idoneidade reconhecida para ministrar, no mínimo, 12 meses do estágio de medicina interna do internato complementar de medicina interna;\n\nb) Serviço de urgência, integrando equipa de medicina interna.\n\n2 - Formação em pediatria geral:\n\na) Consulta externa de serviço de pediatria com idoneidade reconhecida para ministrar, no mínimo, 12 meses do estágio de pediatria geral do internato complementar de pediatria;\n\nb) Serviço de urgência, integrando equipa de pediatria geral.\n\n3 - Formação em obstetrícia:\n\na) Serviço de obstetrícia ou de ginecologia/obstetrícia com idoneidade reconhecida para ministrar, no mínimo, 12 meses do estágio de obstetrícia do internato complementar de ginecologia/obstetrícia;\n\nb) Serviço de urgência, integrando equipa de obstetrícia.\n\n4 - Formação em cirurgia geral:\n\na) Serviço de cirurgia geral de hospital com idoneidade reconhecida para ministrar, no mínimo, 12 meses do estágio em cirurgia geral do internato complementar de cirurgia geral, integrando equipa de cirurgia geral.\n\n5 - Formação em cuidados de saúde primários:\n\na) Centro de saúde com idoneidade reconhecida para ministrar a formação em centro de saúde do internato complementar de clínica geral e com serviço de saúde pública."
+  },
+  "2738ff597d85b5b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Objectivos da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Objectivos da formação"
+  },
+  "014254d83803f04f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Formação em medicina interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formação em medicina interna\n\n1 - A formação em medicina interna tem como objectivos gerais:\n\na) Objectivos de desempenho:\n\ni) Participação na execução de técnicas correntes em medicina interna;\n\nii) Elaboração de histórias clínicas, com fundamentação clínica e laboratorial do diagnóstico, proposta terapêutica e definição do prognóstico;\n\niii) Elaboração de nota de alta ou transferência;\n\niv) Participação activa em reuniões clínicas e apresentação de casos clínicos;\n\nv) Articulação e comunicação com outros prestadores de cuidados de saúde;\n\nb) Objectivos de conhecimento, etiopatogenia, epidemiologia, fisiopatologia, anatomia patológica, semiologia clínica e laboratorial, diagnóstico e terapêutica dos principais grupos diagnósticos, referentes aos seguintes aparelhos e sistemas:\n\ni) Aparelho cardiovascular;\n\nii) Aparelho respiratório;\n\niii) Aparelho digestivo;\n\niv) Aparelho urinário;\n\nv) Sistema nervoso;\n\nvi) Sistema hematopoiético;\n\nvii) Glândulas endócrinas, metabolismo e nutrição.\n\n2 - No que diz respeito aos cuidados urgentes em medicina interna, a formação tem os seguintes objectivos:\n\na) Objectivos de desempenho:\n\ni) Diagnóstico e intervenção nas situações agudas urgentes e emergentes, nomeadamente reanimação cardiorespiratória;\n\nii) Técnicas de diagnóstico em situações urgentes;\n\niii) Interpretação dos resultados dos exames complementares de diagnóstico mais usados em urgência;\n\nb) Objectivos de conhecimento:\n\ni) Semiologia, fisiopatologia, diagnóstico diferencial e terapêutica das situações patológicas mais comuns no serviço de urgência."
+  },
+  "eea901991f4b9473": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Formação em pediatria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formação em pediatria\n\n1 - A formação em pediatria tem como objectivos gerais:\n\na) Objectivos de desempenho:\n\ni) Diagnosticar, tratar e acompanhar as situações mais frequentes na patologia pediátrica hospitalar, particularmente as que recorrem à consulta externa;\n\nii) Familiarizar-se com a execução e interpretação de exames complementares de diagnóstico e terapêutica;\n\niii) Articulação e comunicação com outros prestadores de cuidados à criança;\n\nb) Objectivos de conhecimento:\n\ni) Conhecimentos básicos sobre a patologia pediátrica mais comum;\n\nii) Terapêutica das situações patológicas mais frequentes;\n\niii) Interpretação dos exames complementares de diagnóstico mais usuais.\n\n2 - No que diz respeito aos cuidados urgentes em pediatria geral, a formação tem os seguintes objectivos:\n\na) Objectivos de desempenho:\n\ni) Diagnosticar e tratar as situações mais frequentes da patologia pediátrica urgente ou emergente;\n\nii) Familiarizar-se com a execução e interpretação dos exames complementares de diagnóstico;\n\nb) Objectivos de conhecimento:\n\ni) Noções básicas de emergência médica pediátrica: diagnóstico e tratamento."
+  },
+  "7fe165c8504b12ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Formação em obstetrícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Formação em obstetrícia\n\n1 - A formação em obstetrícia tem como objectivos gerais:\n\na) Objectivos de desempenho:\n\ni) Identificação da gravidez de risco;\n\nii) Assistência ao parto em todos os seus períodos;\n\niii) Assistência imediata ao recém-nascido;\n\nb) Objectivos de conhecimento:\n\ni) Gravidez normal;\n\nii) Fisiologia e mecanismos do parto e princípios da assistência ao parto normal;\n\niii) Avaliação fetal intraparto;\n\niv) Recém-nascido normal;\n\nv) Doenças de transmissão sexual.\n\n2 - No que diz respeito aos cuidados urgentes em obstetrícia, a formação tem os seguintes objectivos:\n\na) Objectivos de desempenho:\n\ni) Identificação de casos urgentes em obstetrícia;\n\nii) Participação na execução de partos;\n\niii) Interpretação de exames complementares de diagnóstico;\n\nb) Objectivos de conhecimento:\n\ni) Noções básicas de emergência obstétrica;\n\nii) Hemorragias obstétricas."
+  },
+  "22525cfbe3fc39c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Formação em cirurgia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Formação em cirurgia geral\n\n1 - A formação em cirurgia geral tem como objectivos gerais:\n\na) Objectivos de desempenho:\n\ni) Participação na execução de técnicas correntes em cirurgia geral;\n\nii) Elaboração de histórias clínicas, com fundamentação clínica e laboratorial do diagnóstico, proposta terapêutica e definição do prognóstico;\n\niii) Elaboração de nota de alta ou transferência;\n\niv) Participação activa em reuniões clínicas e apresentação de casos clínicos;\n\nv) Articulação e comunicação com outros prestadores de cuidados de saúde;\n\nb) Objectivos de conhecimento, etiopatogenia, epidemiologia, fisiopatologia, anatomia patológica, semiologia clínica e laboratorial, diagnóstico, intervenção e terapêutica dos principais grupos diagnósticos do âmbito da cirurgia geral.\n\n2 - No que diz respeito aos cuidados urgentes em cirurgia geral, a formação tem os seguintes objectivos:\n\na) Objectivos de desempenho:\n\ni) Abordagem do doente cirúrgico;\n\nii) Técnicas de assepsia;\n\niii) Técnica de pequena cirurgia;\n\niv) Emergência cirúrgica;\n\nv) Politraumatizados;\n\nb) Objectivos de conhecimento:\n\ni) Noções básicas de urgência em cirurgia geral: diagnóstico, tratamento e encaminhamento."
+  },
+  "f60fb2b74959f407": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Formação em cuidados de saúde primários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Formação em cuidados de saúde primários\n\n1 - A formação em clínica geral tem como objectivos:\n\na) Objectivos de desempenho:\n\ni) Familiarização com o processo de recolha e anotação da informação clínica pertinente, em medicina geral e familiar;\n\nii) Contacto com a aplicação de procedimentos de natureza preventiva e educativa na prática clínica diária;\n\niii) Conhecer técnicas de diagnóstico e terapêutica aplicáveis aos problemas mais frequentes na comunidade;\n\niv) Sensibilização para a importância da articulação e comunicação com outros prestadores de cuidados de saúde;\n\nb) Objectivos de conhecimento:\n\ni) Conhecer os problemas de saúde mais frequentes na comunidade;\n\nii) Conhecer os princípios da promoção da saúde, prevenção da doença e diagnóstico precoce;\n\niii) Conhecer técnicas de diagnóstico e terapêutica aplicáveis aos problemas mais frequentes na comunidade;\n\niv) Conhecer as normas de vigilância da saúde.\n\n2 - A formação em saúde pública tem como objectivos:\n\na) Objectivos de desempenho:\n\ni) Familiarização com as actividades de diagnóstico e monitorização do nível de saúde de uma população ou dos grupos que a integram;\n\nii) Familiarização com as actividades de monitorização e controlo das doenças transmissíveis e de riscos ambientais;\n\nb) Objectivos de conhecimento:\n\ni) Epidemiologia descritiva, planeamento em saúde;\n\nii) Doenças transmissíveis, doenças de declaração obrigatória, vacinação, inquéritos epidemiológicos."
+  },
+  "702a7752f95769f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Avaliação"
+  },
+  "3b6060384483d43f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Avaliação\n\n1 - A avaliação de desempenho e de conhecimentos será contínua e incidirá sobre os seguintes parâmetros:\n\na) Capacidade de execução técnica;\n\nb) Interesse pela valorização profissional;\n\nc) Responsabilidade profissional;\n\nd) Relações humanas no trabalho;\n\ne) Integração de conhecimentos adequada à fase de formação em que se encontra.\n\n2 - A classificação de cada bloco formativo é feita em termos de Apto ou Não apto, considerando-se apto o interno que obtenha uma classificação igual ou superior a 10 valores.\n\n3 - Uma classificação de Não apto implica a repetição ou compensação do bloco formativo sem aproveitamento.\n\n4 - A repetição de blocos formativos rege-se pelos princípios consagrados na legislação em vigor para a formação médica pós-graduada."
+  },
+  "8c282940b6e78cc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Responsabilidade pela avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Responsabilidade pela avaliação\n\nA avaliação é feita pelo director do serviço, director do serviço de urgência ou director do centro de saúde, por proposta do responsável de estágio, ouvidos, quando for caso disso, outros médicos formalmente envolvidos no treino do interno."
+  },
+  "243b98e362aa075f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Classificação final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Classificação final\n\n1 - Considera-se aprovado no ano comum do internato médico o interno que tenha obtido uma classificação de Apto em cada um dos blocos formativos.\n\n2 - A classificação da avaliação dos diferentes blocos formativos deve ser formalmente comunicada à direcção do internato do hospital de colocação, que deverá dar conhecimento do resultado da classificação final do interno à respectiva comissão regional dos internatos médicos.\n\n3 - A classificação final no ano comum será expressa sob a forma de Apto ou Não apto."
+  },
+  "8d6b9f36d290ff26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Registo da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Registo da informação\n\n1 - A frequência de cada um dos blocos e períodos de formação, os parâmetros de avaliação usados, bem como a classificação obtida em cada um deles, devem ser registados em suporte individual, cujo modelo será aprovado e distribuído aos serviços formadores pelo Ministério da Saúde.\n\n2 - As informações registadas deverão ser confirmadas pelos intervenientes directos na formação e pela direcção do internato médico do hospital de colocação."
+  },
+  "7ad5065874b6e5b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Orientadores directos da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Orientadores directos da formação"
+  },
+  "1570f8b24b0d2b09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Responsável de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Responsável de estágio\n\n1 - Durante o ano comum do internato médico, os internos terão um responsável de estágio designado em cada um dos blocos formativos.\n\n2 - Durante a formação em cuidados urgentes dos blocos formativos de medicina interna, pediatria, obstetrícia e cirurgia geral, o interno deverá, preferencialmente, integrar a equipa do responsável de estágio nomeado.\n\n3 - Em caso de impossibilidade absoluta, o responsável de estágio nomeado poderá ser substituído, para este efeito, por um outro responsável de estágio.\n\n4 - Durante os blocos de formação hospitalar, os responsáveis de estágio serão um dos médicos do respectivo serviço, habilitados, no mínimo, com o grau de assistente da respectiva especialidade e a necessária qualificação técnica, a nomear pela direcção de internato por proposta do director ou responsável pelo serviço.\n\n5 - Durante o bloco de formação em cuidados de saúde primários, o responsável de estágio será um médico do centro de saúde, habilitado, no mínimo, com o grau de assistente de clínica geral e a necessária qualificação técnica, a nomear pela administração regional de saúde por proposta do coordenador do internato de clínica geral da respectiva zona.\n\n6 - Durante o período de formação em saúde pública, será responsável pela formação um médico do centro de saúde habilitado, no mínimo, com o grau de assistente de saúde pública e a necessária qualificação técnica, a nomear pela administração regional de saúde, por proposta do coordenador do internato de saúde pública da respectiva zona.\n\n7 - Na designação dos responsáveis de estágio deve ser observada, em regra, a proposta máxima de um responsável de estágio por cada três internos, salvo em casos excepcionais, autorizados pela comissão regional respectiva.\n\n8 - Aos responsáveis de estágio são facultadas as condições necessárias para o desempenho das funções de formadores.\n\n9 - O desempenho das funções de responsável de estágio é objecto de valorização curricular para progressão na respectiva carreira.\n\n10 - Durante o período de formação hospitalar, as funções de responsável de estágio não devem ser exercidas pelos directores de serviço ou de departamento ou equiparável."
+  },
+  "219315576a182900": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Regime e condições de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Regime e condições de trabalho"
+  },
+  "b199fdc19468af98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Regime de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regime de trabalho\n\n1 - O regime semanal de trabalho durante o ano comum é semelhante aos restantes anos do internato médico, inclui doze horas semanais prestadas em serviço de urgência e a impossibilidade de exercício profissional fora do âmbito do programa.\n\n2 - Os internos do ano comum poderão gozar a licença para férias prevista na legislação específica da função pública, designadamente no [Decreto-Lei n.º 100/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1999-138777), de 31 de Março, com a redacção dada pela [Lei n.º 117/99](https://diariodarepublica.pt/dr/detalhe/lei/117-1999-423055), de 11 de Agosto.\n\n3 - Sem prejuízo do disposto no número anterior, no seu limite máximo, o período de férias a gozar em cada bloco formativo será de cinco dias úteis por cada mês de duração da formação.\n\n4 - Aos internos que tenham de frequentar parte do programa de formação noutro serviço ou estabelecimento situado a mais de 50 km do hospital de colocação e onde não possam utilizar residência própria é atribuído um subsídio mensal de deslocação correspondente a 10% do valor do índice 100 da escala salarial das carreiras médicas."
+  },
+  "d9923dc4d17337fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Ano comum",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 1.º — Ano comum\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "e9a442e74cf6d9ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Duração do ano comum",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 2.º — Duração do ano comum\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "b3d12b14d3aaf745": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura do ano comum",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 3.º — Estrutura do ano comum\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "ba97ed060e6def14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Duração dos blocos formativos",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 4.º — Duração dos blocos formativos\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "a6040920f63daf40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Locais de formação",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 5.º — Locais de formação\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "347eff56f0075ad8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Formação em medicina interna",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 6.º — Formação em medicina interna\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "033d1f7f0b45c9e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Formação em pediatria",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 7.º — Formação em pediatria\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "f6cf5b3088c235aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Formação em obstetrícia",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 8.º — Formação em obstetrícia\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "3e09074e2f941d78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Formação em cirurgia geral",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 9.º — Formação em cirurgia geral\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "786a1a57d324f335": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Formação em cuidados de saúde primários",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 10.º — Formação em cuidados de saúde primários\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "663ff7b1dea1dfa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Avaliação",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 11.º — Avaliação\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "95c52132cf7b1e01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Responsabilidade pela avaliação",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 12.º — Responsabilidade pela avaliação\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "54d32ff5bcfcecc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Classificação final",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 13.º — Classificação final\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "5cfe110636284549": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Registo da informação",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 14.º — Registo da informação\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "210c0bd346f9b607": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Responsável de estágio",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 15.º — Responsável de estágio\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  },
+  "ab4671559dc0ccc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Regime de trabalho",
+   "in_force_from": "2018-09-21",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+   ],
+   "markdown": "###### Artigo 16.º — Regime de trabalho\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 268/2018](https://diariodarepublica.pt/dr/detalhe/portaria/268-2018-116460405), publicado em 2018-09-21."
+  }
+ }
+}

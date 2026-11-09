@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-08-26'
+version_history:
+  file: decreto-lei-42943.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-04-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-08-26'
+    amending: pt:dre:475731:por
+    amending_title: Decreto-Lei n.º 386/74
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:32:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 386/74. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-42943.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -109,9 +124,13 @@ Considerando que actualmente algumas destas actividades estão simultâneamente 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º São reunidos num só órgão, com a designação de Depósito Geral de Adidos (D. G. A.), o Depósito de Tropas do Ultramar e a companhia de adidos do Governo Militar de Lisboa.
+###### Artigo 1.º
 
-Art. 2.º O Depósito Geral de Adidos terá a sua sede em Lisboa, competindo-lhe:
+São reunidos num só órgão, com a designação de Depósito Geral de Adidos (D. G. A.), o Depósito de Tropas do Ultramar e a companhia de adidos do Governo Militar de Lisboa.
+
+###### Artigo 2.º
+
+O Depósito Geral de Adidos terá a sua sede em Lisboa, competindo-lhe:
 
 a) Fornecer alojamento, alimentação, vencimento e outros meios de manutenção às praças não pertencentes aos quadros das unidades, formações ou estabelecimentos militares da guarnição de Lisboa e em serviço nos vários órgãos do Ministério do Exército com carácter de permanência;
 
@@ -119,45 +138,57 @@ b) Receber o pessoal não pertencente à guarnição de Lisboa que deva permanec
 
 c) Fornecer alojamento e alimentação às praças apresentadas aguardando embarque para o ultramar ou ilhas adjacentes ou destino para a sua nova situação, quando ali regressadas;
 
-d) passar requisições de transporte, pela via adequada, conforme as conveniências de serviço ou determinações superiores, para os militares não integrados em forças destinados ao ultramar e ilhas adjacentes e providenciar pela sua satisfação;
+d) Informar e dar seguimento aos requerimentos do pessoal nomeado para o ultramar, solicitando os abonos legais a que tenha direito para a família;
 
-e) Informar e dar seguimento aos requerimentos do pessoal nomeado para o ultramar, solicitando os abonos legais e transportes a que tenha direito para sua família, satisfazendo os primeiros e providenciando a satisfação dos segundos, logo que autorizados;
+e) Fornecer requisições de transporte, nos termos da regulamentação em vigor, para os militares e suas famílias regressados à metrópole;
 
-f) Fornecer requisições de transporte, nos termos da regulamentação em vigor, para os militares e suas famílias regressados à metrópole;
+f) Promover a vacinação do pessoal apresentado com destino ao ultramar e providenciar o fornecimento às unidades organizadas para o mesmo fim das doses de vacinas que lhes sejam necessárias;
 
-g) Promover a vacinação do pessoal apresentado com destino ao ultramar e providenciar o fornecimento às unidades organizadas para o mesmo fim das doses de vacinas que lhes sejam necessárias;
+g) Promover a recepção e evacuação dos detidos, doentes ou deficientes que regressem do ultramar ou ilhas adjacentes;
 
-h) Promover a recepção e evacuação dos detidos, doentes ou estropiados que regressem do ultramar ou ilhas adjacentes;
+h) Proceder à distribuição dos artigos de uniforme e equipamento ao pessoal apresentado destinado ao ultramar e, no regresso, efectuar os respectivos espólios de harmonia com a regulamentação vigente;
 
-i) Proceder à distribuição dos artigos de uniforme e equipamento, ao pessoal apresentado destinado ao ultramar e, no regresso, efectuar os respectivos espólios, de harmonia com a regulamentação vigente;
+i) Prestar ao pessoal apresentado a necessária assistência moral e religiosa e proporcionar-lhe, quando em trânsito, em especial às praças naturais do ultramar, visitas culturais ou recreativas, excursões e assistência a espectáculos públicos de carácter educativo;
 
-j) Prestar ao pessoal apresentado a necessária assistência moral e religiosa e proporcionar-lhe, quando em trânsito, em especial às praças naturais do ultramar, visitas culturais ou recreativas, excursões e assistência a espectáculos públicos de carácter educativo;
+j) Orientar devidamente o pessoal apresentado e nomeado para serviço no ultramar, por forma a esclarecê-lo, tão completamente quanto possível, sobre o meio ambiente da província a que se destina;
 
-l) Orientar devidamente o pessoal apresentado e nomeado para serviço no ultramar, por forma a esclarecê-lo, tão completamente quanto possível, sobre o meio ambiente da província a que se destina;
+l) Facultar aos militares em trânsito e suas famílias os possíveis meios de transporte para si e suas bagagens dentro de Lisboa e prestar-lhes todos os esclarecimentos inerentes à sua nova situação militar na altura dos embarques e desembarques;
 
-m) Facultar aos militares em trânsito e suas famílias os possíveis meios de transporte para si e suas bagagens dentro de Lisboa e prestar-lhes todos os esclarecimentos inerentes à sua nova situação militar na altura dos embarques e desembarques;
+m) Estabelecer contacto com os comandos militares ultramarinos, quando tal for solicitado e as circunstâncias o justifiquem, por forma a possibilitar o restabelecimento de ligações entre os militares ali em serviço e suas famílias residentes na metrópole, procurando satisfazer, por seu turno, os pedidos de informações que com idêntico objectivo lhe sejam dirigidos pelos mesmos comandos;
 
-n) Estabelecer contacto com os comandos militares ultramarinos, quando tal for solicitado e as circunstâncias o justifiquem, por forma a possibilitar o restabelecimento de ligações entre os militares ali em serviço e suas famílias residentes na metrópole, procurando satisfazer, por seu turno, os pedidos de informações que com idêntico objectivo lhe sejam dirigidos pelos mesmos comandos;
+n) Intervir na entrega às respectivas famílias dos espólios dos militares falecidos no ultramar ou ilhas adjacentes;
 
-o) Intervir na entrega às respectivas famílias dos espólios dos militares falecidos no ultramar ou ilhas adjacentes;
-
-p) Diligenciar pela regularização da situação militar dos mancebos naturais do ultramar e residentes na metrópole, estabelecendo a necessária ligação com os comandos militares ultramarinos.
+o) Diligenciar pela regularização da situação militar dos mancebos naturais do ultramar e residentes na metrópole, estabelecendo a necessária ligação com os comandos militares ultramarinos.
 
 § 1.º Quando for julgado conveniente e determinado superiormente, o D. G. A. receberá pessoal em condições diferentes das indicadas, designadamente unidades constituídas, devendo, porém, ficar a seu cargo apenas a instalação daquelas cujo efectivo seja comportado pela sua capacidade.
 
 § 2.º Pode ser ainda incumbida ao D. G. A., por determinação do Estado-Maior do Exército, por intermédio da 4.ª Repartição ou pela Direcção-Geral do Serviço de Transportes, a organização do transporte de forças de pequeno efectivo.
 
-Art. 3.º O D. G. A. depende do Governo Militar de Lisboa para efeitos de justiça, disciplina e ordem pública e do director do Serviço de Pessoal para todos os outros efeitos, de harmonia com o artigo 64.º do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959.
+> Alterado pelo/a [Decreto-Lei n.º 386/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1974-475731), publicado em 1974-08-26.
 
-Art. 4.º O quadro orgânico do D. G. A. será estabelecido em portaria a publicar pelo Ministério do Exército, dentro dos quadros gerais aprovados.
+###### Artigo 3.º
 
-Art. 5.º O serviço prestado pelo pessoal do quadro do D. G. A. é considerado, para todos os efeitos, como serviço nas tropas.
+O D. G. A. depende do Governo Militar de Lisboa para efeitos de justiça, disciplina e ordem pública e do director do Serviço de Pessoal para todos os outros efeitos, de harmonia com o artigo 64.º do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959.
 
-Art. 6.º São transferidas para o D. G. A. as disponibilidades à data existentes nas dotações e verbas destinadas no corrente ano económico ao Depósito de Tropas do Ultramar e à companhia de adidos do Governo Militar de Lisboa, bem como as verbas dos seus orçamentos privativos.
+###### Artigo 4.º
 
-Art. 7.º A partir da data da entrada em vigor do presente diploma consideram-se extintos o Depósito de Tropas do Ultramar e a companhia de adidos do Governo Militar de Lisboa.
+O quadro orgânico do D. G. A. será estabelecido em portaria a publicar pelo Ministério do Exército, dentro dos quadros gerais aprovados.
 
-Art. 8.º Fica revogada toda a legislação em contrário, continuando a reger-se pelas normas aplicáveis estabelecidas do antecedente os casos não previstos neste decreto-lei.
+###### Artigo 5.º
+
+O serviço prestado pelo pessoal do quadro do D. G. A. é considerado, para todos os efeitos, como serviço nas tropas.
+
+###### Artigo 6.º
+
+São transferidas para o D. G. A. as disponibilidades à data existentes nas dotações e verbas destinadas no corrente ano económico ao Depósito de Tropas do Ultramar e à companhia de adidos do Governo Militar de Lisboa, bem como as verbas dos seus orçamentos privativos.
+
+###### Artigo 7.º
+
+A partir da data da entrada em vigor do presente diploma consideram-se extintos o Depósito de Tropas do Ultramar e a companhia de adidos do Governo Militar de Lisboa.
+
+###### Artigo 8.º
+
+Fica revogada toda a legislação em contrário, continuando a reger-se pelas normas aplicáveis estabelecidas do antecedente os casos não previstos neste decreto-lei.
 
 Publique-se e cumpra-se como nele se contém.
 

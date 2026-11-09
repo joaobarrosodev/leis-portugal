@@ -1,0 +1,173 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:505203:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1960-05-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "edaf1ccc2f8a2f06"
+   ]
+  },
+  {
+   "date": "1967-06-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:554605:por",
+     "title": "Decreto-Lei n.º 43509",
+     "published": "1961-02-16",
+     "dre_path": "/dr/detalhe/decreto-lei/43509-1961-554605"
+    },
+    {
+     "id": "pt:dre:312011:por",
+     "title": "Decreto-Lei n.º 47763",
+     "published": "1967-06-24",
+     "dre_path": "/dr/detalhe/decreto-lei/47763-1967-312011"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "8faf25028f1eccc8",
+    "b2f3f3d4eac9c410",
+    "ac56bf8df4a807d8",
+    "727709e9a6f1108e",
+    "a58a13d26a5200f2",
+    "5e9e6948a9c5bd39",
+    "0fa357bd171c3d49",
+    "c5cb3c6c9479c72b",
+    "6c01d6a6da8f996b",
+    "72cc1d89aaaad8da",
+    "84cda4f1b4bdbc48",
+    "72ef0e1304d41c39",
+    "99c083b6671014cc"
+   ]
+  }
+ ],
+ "fragments": {
+  "edaf1ccc2f8a2f06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que a ratificação da Convenção n.º 68 da Organização Geral do Trabalho implica, além da regulamentação que se torne necessária, a actualização e aperfeiçoamento do que entre nós está estabelecido sobre alimentação e serviço de mesa das tripulações dos navios no mar;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º São integrados em direito interno, para serem aplicados a todos os navios de mar, os princípios contidos na Convenção n.º 68 da Conferência Internacional do Trabalho, entendendo-se que, para efeitos deste diploma, se consideram navios de mar as embarcações que se destinam a navegar no mar em exercício de comércio.\n\nArt. 2.º Todos os navios devem estar convenientemente abastecidos e ter cozinhas que permitam fornecer e servir as refeições aos membros da tripulação, de acordo com as viagens que vão efectuar e as tabelas de racionamento anexas ao presente decreto-lei.\n\nArt. 3.º Para os serviços de mesa e cozinha serão nomeados inscritos marítimos devidamente habilitados a desempenhar tais funções nos termos dos Decretos-Leis n.os 23764, de 13 de Abril de 1934, e 41643, de 23 de Maio de 1958.\n\n§ 1.º As refeições da marinhagem deverão ser servidas por um tripulante da secção de câmaras (criado), que será responsável não só por este serviço como também pela limpeza, arrumação e conservação dos respectivos refeitórios e de todo o material que lhe for entregue, bem como pela higiene das instalações e corredores anexos e salas de estar, quando as haja.\n\n§ 2.º Ao tripulante da secção de câmaras (criado) encarregado do serviço de mesa, além das determinações indicadas no parágrafo anterior, cabe também a responsabilidade do serviço parcelar ou individual de todas as comidas e bebidas das refeições diárias, do extravio ou estrago de alimentos e da guarda em local apropriado do que não for consumido.\n\nArt. 4.º Compete à autoridade marítima, pelos médicos ao seu serviço, assegurar a inspecção à qualidade e quantidade das refeições fornecidas, bem como aos locais, instalações e utensílios destinados à armazenagem, manipulação e preparação dos géneros alimentícios.\n\nArt. 5.º Os médicos encarregados da inspecção a que se refere o artigo anterior têm o direito de ir a bordo de qualquer embarcação como delegados da autoridade marítima e de fazer recomendações com o fim de melhorar o nível do serviço de cozinha e de mesa, cumprindo ao proprietário, capitão ou armador facilitar a inspecção com a minúcia julgada indispensável e facultar sem qualquer restrição todos os documentos que lhe forem pedidos, incluindo os papéis de bordo.\n\nArt. 6.º Os médicos são obrigados a apresentar à autoridade marítima relatório circunstanciado das inspecções que efectuarem, quer ordinárias, quer extraordinárias.\n\nArt. 7.º Sempre que haja queixa formulada pelo Grémio dos Armadores ou pela União dos Sindicatos de Oficiais, Mestrança e Marinhagem da Navegação Marítima, deve a autoridade marítima determinar uma inspecção extraordinária.\n\n§ único. Só serão consideradas as queixas que dêem entrada na repartição marítima pelo menos 24 horas antes da hora fixada para a saída do navio.\n\nArt. 8.º No mar, o capitão ou um oficial especialmente designado por ele deve proceder a inspecções periódicas, pelo menos semanalmente, acompanhado por um membro responsável do pessoal da secção de câmaras:\n\na) Às provisões dos víveres e da água;\n\nb) A todos os locais e utensílios empregados no armazenamento e manipulação de víveres e de água, bem como da cozinha e de qualquer outra instalação utilizada para a preparação das refeições e sua distribuição.\n\n§ 1.º Os resultados de cada inspecção devem ser reduzidos a escrito.\n\n§ 2.º Cópias dos relatórios destas inspecções devem ser entregues no fim da viagem às autoridades marítimas, juntamente com os demais papéis de bordo.\n\nArt. 9.º Os relatórios a que se referem os artigos 6.º e 8.º serão remetidos à 1.ª Repartição da Direcção da Marinha Mercante para a elaboração do relatório anual.\n\n§ único. Do relatório anual serão extraídas cópias para:\n\na) A Repartição Internacional do Trabalho;\n\nb) A Direcção-Geral de Saúde;\n\nc) O Ministério das Corporações e Previdência Social;\n\nd) O Grémio dos Armadores;\n\ne) A União dos Sindicatos de Oficiais, Mestrança e Marinhagem.\n\nArt. 10.º Estão sujeitos às penalidades previstas no artigo 49.º do Código Penal e Disciplinar da Marinha Mercante os tripulantes que cometam qualquer das seguintes faltas:\n\na) Que dificultem ou tentem dificultar a inspecção a que se refere o artigo 5.º;\n\nb) Que se apresentem às refeições em deficientes condições de higiene ou em estado de embriaguez;\n\nc) Que tomem atitudes incorrectas entre si ou para com o encarregado do serviço de mesa durante as refeições;\n\nd) Que não aguardem com compostura a devida altura de serem servidos e não respeitem as diferentes categorias, idade e antiguidade no navio;\n\ne) Que tentem servir-se de utensílios estranhos ao refeitório, ou guardem alimentos e bebidas em proveito próprio;\n\nf) Que aproveitem o refeitório para outros fins, salvo se o navio não possuir sala de estar para marinhagem, e, neste caso, sem prejuízo dos serviços de mesa;\n\ng) Que sem autorização superior convidem ou recebam pessoas estranhas no refeitório ou na sala de marinhagem.\n\nArt. 11.º A inobservância das disposições deste diploma, quando da responsabilidade dos armadores, fará incorrer estes nas multas de 500$00 a 50000$00, aplicáveis pela autoridade marítima.\n\nArt. 12.º Fica revogada a legislação em contrário, designadamente o [Decreto n.º 12384](https://diariodarepublica.pt/dr/detalhe/decreto/12384-1926-158934), de 27 de Setembro de 1926.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 14 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nTabela de racionamento a que se refere a artigo 2.º do Decreto-Lei n.º 42978, desta data\n\nI\n\na) Para oficiais\n\n1.ª refeição (pequeno almoço) - das 6 às 8 horas:\n\nCafé ou chá com leite e pão com manteiga.\n\n2.ª refeição (almoço) - das 11 às 12 horas:\n\nDois pratos (um de peixe e um de carne), fruta, chá ou café.\n\n3.ª refeição (jantar) - das 18 horas e 30 minutos às 20 horas:\n\nSopa, dois pratos (um de peixe e um de carne), fruta, chá ou café.\n\n4.ª refeição (chá) - às 21 horas:\n\nChá, pão com manteiga ou bolacha.\n\nb) Para os restantes tripulantes\n\n1.ª refeição (pequeno almoço) - das 6 às 8 horas:\n\nCafé com leite e pão com manteiga.\n\n2.ª refeição (almoço) - das 11 às 12 horas:\n\nSopa, um prato, fruta, chá ou café.\n\n3.ª refeição (jantar) - das 17 horas às 18 horas:\n\nSopa, um prato, fruta, chá ou café.\n\nII\n\nPara a confecção das refeições serão distribuídos os seguintes géneros\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/11300/10761077.pdf)\n\nObservações\n\n1.ª O pessoal de serviço, dentro dos períodos de tempo acima indicados, terá as refeições a seguir aos respectivos quartos;\n\n2.ª Nos portos o horário das refeições será estabelecido em conformidade com o horário dos trabalhadores do porto. Sendo o almoço antes das 10 horas, será fornecida uma refeição fria antes do jantar, para o que se abonarão os géneros indicados na observação 7.ª;\n\n3.ª A carne de vaca poderá ser substituída, até três vezes por semana, por igual quantidade de qualquer outra carne fresca. Só excepcionalmente, por motivos devidamente justificados, poderá ser substituída por carne de conserva;\n\n4.ª O peixe fresco (300 g) poderá ainda ser substituído, até duas vezes por semana, por motivo justificado, pela ração equivalente (150 g) de bacalhau;\n\n5.ª Haverá a bordo os alimentos necessários (leite, farinha, compotas, ovos) à confecção das dietas mais frequentes para o tratamento de doentes;\n\n6.ª Os oficiais que entrem de serviço às 0 horas ou às 4 horas terão uma refeição de chá ou café e pão com manteiga ou bolacha;\n\n7.ª os tripulantes que entrem de quarto às 0 horas ou às 4 horas terão uma refeição fria, para a qual serão abonados 100 g de pão e 60 g de carne ou 50 g de bacalhau;\n\n8.ª Aos jantares de domingo e feriados nacionais a sobremesa de todos os tripulantes será acrescida de um prato de doce e a ração diária de vinho acrescida de 0,5 l;\n\n9.ª Nos climas de temperatura média inferior a 10ºC haverá um suplemento de 30 g de manteiga. Nos climas de temperatura média superior a 30ºC abonar-se-á mais uma dose de fruta por cada refeição (almoço e jantar) e empregar-se-ão, sempre que possível, verduras frescas, como acompanhamento dos vários pratos;\n\n10.ª Será servido a todos os elementos da guarnição dos navios petroleiros e a todo o pessoal de fogo dos navios de motores um suplemento diário de 1 l de leite. Este leite deve ser, sempre que possível, fresco. Nos outros casos será substituído por quantidades equivalentes de leite em pó total ou leite condensado.\n\nMinistério da Marinha, 14 de Maio de 1960. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias."
+  },
+  "8faf25028f1eccc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que a ratificação da Convenção n.º 68 da Organização Geral do Trabalho implica, além da regulamentação que se torne necessária, a actualização e aperfeiçoamento do que entre nós está estabelecido sobre alimentação e serviço de mesa das tripulações dos navios no mar;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "b2f3f3d4eac9c410": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão integrados em direito interno, para serem aplicados a todos os navios de mar, os princípios contidos na Convenção n.º 68 da Conferência Internacional do Trabalho, entendendo-se que, para efeitos deste diploma, se consideram navios de mar as embarcações que se destinam a navegar no mar em exercício de comércio."
+  },
+  "ac56bf8df4a807d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nTodos os navios devem estar convenientemente abastecidos e ter cozinhas que permitam fornecer e servir as refeições aos membros da tripulação, de acordo com as viagens que vão efectuar e as tabelas de racionamento anexas ao presente decreto-lei."
+  },
+  "727709e9a6f1108e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara os serviços de mesa e cozinha serão nomeados inscritos marítimos devidamente habilitados a desempenhar tais funções nos termos dos Decretos-Leis n.os 23764, de 13 de Abril de 1934, e 41643, de 23 de Maio de 1958.\n\n§ 1.º As refeições da marinhagem deverão ser servidas por um tripulante da secção de câmaras (criado), que será responsável não só por este serviço como também pela limpeza, arrumação e conservação dos respectivos refeitórios e de todo o material que lhe for entregue, bem como pela higiene das instalações e corredores anexos e salas de estar, quando as haja.\n\n§ 2.º Ao tripulante da secção de câmaras (criado) encarregado do serviço de mesa, além das determinações indicadas no parágrafo anterior, cabe também a responsabilidade do serviço parcelar ou individual de todas as comidas e bebidas das refeições diárias, do extravio ou estrago de alimentos e da guarda em local apropriado do que não for consumido."
+  },
+  "a58a13d26a5200f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nCompete à autoridade marítima, pelos médicos ao seu serviço, assegurar a inspecção à qualidade e quantidade das refeições fornecidas, bem como aos locais, instalações e utensílios destinados à armazenagem, manipulação e preparação dos géneros alimentícios."
+  },
+  "5e9e6948a9c5bd39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs médicos encarregados da inspecção a que se refere o artigo anterior têm o direito de ir a bordo de qualquer embarcação como delegados da autoridade marítima e de fazer recomendações com o fim de melhorar o nível do serviço de cozinha e de mesa, cumprindo ao proprietário, capitão ou armador facilitar a inspecção com a minúcia julgada indispensável e facultar sem qualquer restrição todos os documentos que lhe forem pedidos, incluindo os papéis de bordo."
+  },
+  "0fa357bd171c3d49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs médicos são obrigados a apresentar à autoridade marítima relatório circunstanciado das inspecções que efectuarem, quer ordinárias, quer extraordinárias."
+  },
+  "c5cb3c6c9479c72b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1967-06-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47763](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47763-1967-312011), publicado em 1967-06-24."
+   ],
+   "markdown": "###### Artigo 7.º\n\nSempre que haja queixa formulada pelo Grémio dos Armadores, pela União dos Sindicatos de Oficiais, Mestrança e Marinhagem da Navegação ou por membros da tripulação em número nunca inferior a 10 por cento da lotação, deve a autoridade marítima determinar uma inspecção extraordinária.\n\n§ único. Só serão consideradas as queixas que dêem entrada na repartição marítima pelo menos 24 horas antes da hora fixada para a partida do navio.\n\n> Alterado pelo/a [Decreto-Lei n.º 47763](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47763-1967-312011), publicado em 1967-06-24."
+  },
+  "6c01d6a6da8f996b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nNo mar, o capitão ou um oficial especialmente designado por ele deve proceder a inspecções periódicas, pelo menos semanalmente, acompanhado por um membro responsável do pessoal da secção de câmaras:\n\na) Às provisões dos víveres e da água;\n\nb) A todos os locais e utensílios empregados no armazenamento e manipulação de víveres e de água, bem como da cozinha e de qualquer outra instalação utilizada para a preparação das refeições e sua distribuição.\n\n§ 1.º Os resultados de cada inspecção devem ser reduzidos a escrito.\n\n§ 2.º Cópias dos relatórios destas inspecções devem ser entregues no fim da viagem às autoridades marítimas, juntamente com os demais papéis de bordo."
+  },
+  "72cc1d89aaaad8da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1967-06-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 43509](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43509-1961-554605), publicado em 1961-02-16."
+   ],
+   "markdown": "###### Artigo 9.º\n\nOs relatórios a que se referem os artigos 6.º e 8.º serão remetidos à 1.ª Repartição da Direcção da Marinha Mercante para a elaboração do relatório anual.\n\n§ único. Do relatório anual serão extraídas cópias para:\n\na) A Repartição Internacional do Trabalho;\n\nb) A Junta Nacional da Marinha Mercante;\n\nc) A Direcção-Geral de Saúde;\n\nd) O Ministério das Corporações e Previdência Social;\n\ne) O Grémio dos Armadores;\n\nf) A União dos Sindicatos de Oficiais, Mestrança e Marinhagem.\n\n> Alterado pelo/a [Decreto-Lei n.º 43509](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43509-1961-554605), publicado em 1961-02-16."
+  },
+  "84cda4f1b4bdbc48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nEstão sujeitos às penalidades previstas no artigo 49.º do Código Penal e Disciplinar da Marinha Mercante os tripulantes que cometam qualquer das seguintes faltas:\n\na) Que dificultem ou tentem dificultar a inspecção a que se refere o artigo 5.º;\n\nb) Que se apresentem às refeições em deficientes condições de higiene ou em estado de embriaguez;\n\nc) Que tomem atitudes incorrectas entre si ou para com o encarregado do serviço de mesa durante as refeições;\n\nd) Que não aguardem com compostura a devida altura de serem servidos e não respeitem as diferentes categorias, idade e antiguidade no navio;\n\ne) Que tentem servir-se de utensílios estranhos ao refeitório, ou guardem alimentos e bebidas em proveito próprio;\n\nf) Que aproveitem o refeitório para outros fins, salvo se o navio não possuir sala de estar para marinhagem, e, neste caso, sem prejuízo dos serviços de mesa;\n\ng) Que sem autorização superior convidem ou recebam pessoas estranhas no refeitório ou na sala de marinhagem."
+  },
+  "72ef0e1304d41c39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA inobservância das disposições deste diploma, quando da responsabilidade dos armadores, fará incorrer estes nas multas de 500$00 a 50000$00, aplicáveis pela autoridade marítima."
+  },
+  "99c083b6671014cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nFica revogada a legislação em contrário, designadamente o [Decreto n.º 12384](https://diariodarepublica.pt/dr/detalhe/decreto/12384-1926-158934), de 27 de Setembro de 1926.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 14 de Maio de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nTabela de racionamento a que se refere a artigo 2.º do Decreto-Lei n.º 42978, desta data\n\nI\n\na) Para oficiais\n\n1.ª refeição (pequeno almoço) - das 6 às 8 horas:\n\nCafé ou chá com leite e pão com manteiga.\n\n2.ª refeição (almoço) - das 11 às 12 horas:\n\nDois pratos (um de peixe e um de carne), fruta, chá ou café.\n\n3.ª refeição (jantar) - das 18 horas e 30 minutos às 20 horas:\n\nSopa, dois pratos (um de peixe e um de carne), fruta, chá ou café.\n\n4.ª refeição (chá) - às 21 horas:\n\nChá, pão com manteiga ou bolacha.\n\nb) Para os restantes tripulantes\n\n1.ª refeição (pequeno almoço) - das 6 às 8 horas:\n\nCafé com leite e pão com manteiga.\n\n2.ª refeição (almoço) - das 11 às 12 horas:\n\nSopa, um prato, fruta, chá ou café.\n\n3.ª refeição (jantar) - das 17 horas às 18 horas:\n\nSopa, um prato, fruta, chá ou café.\n\nII\n\nPara a confecção das refeições serão distribuídos os seguintes géneros\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1960/05/11300/10761077.pdf)\n\nObservações\n\n1.ª O pessoal de serviço, dentro dos períodos de tempo acima indicados, terá as refeições a seguir aos respectivos quartos;\n\n2.ª Nos portos o horário das refeições será estabelecido em conformidade com o horário dos trabalhadores do porto. Sendo o almoço antes das 10 horas, será fornecida uma refeição fria antes do jantar, para o que se abonarão os géneros indicados na observação 7.ª;\n\n3.ª A carne de vaca poderá ser substituída, até três vezes por semana, por igual quantidade de qualquer outra carne fresca. Só excepcionalmente, por motivos devidamente justificados, poderá ser substituída por carne de conserva;\n\n4.ª O peixe fresco (300 g) poderá ainda ser substituído, até duas vezes por semana, por motivo justificado, pela ração equivalente (150 g) de bacalhau;\n\n5.ª Haverá a bordo os alimentos necessários (leite, farinha, compotas, ovos) à confecção das dietas mais frequentes para o tratamento de doentes;\n\n6.ª Os oficiais que entrem de serviço às 0 horas ou às 4 horas terão uma refeição de chá ou café e pão com manteiga ou bolacha;\n\n7.ª os tripulantes que entrem de quarto às 0 horas ou às 4 horas terão uma refeição fria, para a qual serão abonados 100 g de pão e 60 g de carne ou 50 g de bacalhau;\n\n8.ª Aos jantares de domingo e feriados nacionais a sobremesa de todos os tripulantes será acrescida de um prato de doce e a ração diária de vinho acrescida de 0,5 l;\n\n9.ª Nos climas de temperatura média inferior a 10ºC haverá um suplemento de 30 g de manteiga. Nos climas de temperatura média superior a 30ºC abonar-se-á mais uma dose de fruta por cada refeição (almoço e jantar) e empregar-se-ão, sempre que possível, verduras frescas, como acompanhamento dos vários pratos;\n\n10.ª Será servido a todos os elementos da guarnição dos navios petroleiros e a todo o pessoal de fogo dos navios de motores um suplemento diário de 1 l de leite. Este leite deve ser, sempre que possível, fresco. Nos outros casos será substituído por quantidades equivalentes de leite em pó total ou leite condensado.\n\nMinistério da Marinha, 14 de Maio de 1960. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias."
+  }
+ }
+}

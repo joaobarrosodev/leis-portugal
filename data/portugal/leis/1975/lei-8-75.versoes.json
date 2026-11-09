@@ -1,0 +1,203 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:336482:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1975-07-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fe584f27635690b1"
+   ]
+  },
+  {
+   "date": "1975-12-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:310847:por",
+     "title": "Lei n.º 16/75",
+     "published": "1975-12-23",
+     "dre_path": "/dr/detalhe/lei/16-1975-310847"
+    },
+    {
+     "id": "pt:dre:667568:por",
+     "title": "Lei n.º 18/75",
+     "published": "1975-12-26",
+     "dre_path": "/dr/detalhe/lei/18-1975-667568"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "871473a55f61fc63",
+    "c817c9f3266fe341",
+    "b580123835b10a3f",
+    "cc7ad3b5d4048e6d",
+    "e547a00d07908534",
+    "c688e8d9913a88fc",
+    "adf1e3f510a1ee2c",
+    "8b8c7ccb83b89b8f",
+    "a3c53b07fde47d4a",
+    "8bb63c8e1afb4b4d",
+    "02324b7ffd6b6ef8",
+    "7aa02aa035e410a1",
+    "bdebd44ec513854e",
+    "aaa9944cfde2abea",
+    "f2fa204badb71722",
+    "d64c065bab722d92"
+   ]
+  }
+ ],
+ "fragments": {
+  "fe584f27635690b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Julho\n\n1. É do conhecimento geral que a extinta Direcção-Geral de Segurança e polícias políticas que a precederam, entre 28 de Maio de 1926 e 25 de Abril de 1974, constituíram autênticas organizações de terrorismo político e social, com o objectivo de impedir o livre exercício dos direitos cívicos no nosso país.\n\n2. Essas organizações visaram, durante a sua existência, a prática sistemática de crimes contra o povo português e o arbítrio e a desumanidade de que deram sobejas provas sempre mereceram a condenação da opinião pública nacional e internacional.\n\n3. As actividades terroristas das mencionadas organizações, que fizeram do crime institucionalizado a sua razão de ser, desenvolviam-se na mais completa impunidade dos seus agentes, já que era o próprio regime fascista que lhes dava cobertura.\n\nDaí que, não permitindo as leis vigentes sob o fascismo, como é óbvio, a incriminação e punição desses indivíduos, haja que publicar legislação que, assente na legitimidade revolucionária do poder democrático instituído pelo Movimento das Forças Armadas, corresponda à profunda exigência sentida pela consciência colectiva dos Portugueses da punição dos elementos responsáveis pela repressão fascista.\n\nSó assim se poderá reparar a histórica injustiça que constituíram as actividades criminosas exercidas durante dezenas de anos contra o povo português pela extinta polícia política e seus directos responsáveis.\n\n4. Sublinha-se ainda que a prolongada existência das mencionadas organizações, bem como os métodos de repressão que utilizavam - dos quais avultavam os vários pocessos de sistemática tortura física e psicológica exercida sobre os presos -, constituíam factos públicos e notórios, por tal forma que a nenhum dos seus elementos, do quadro ou colaboradores, era lícito ignorar o carácter essencialmente criminoso das suas actividades.\n\nNestes termos, e no uso dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei constitucional, o seguinte:\n\nArtigo 1.º Serão punidos com a pena de prisão maior de oito a doze anos:\n\na) Os membros do Governo (Presidente do Conselho de Ministros e Ministro do Interior) responsáveis directos pelas actividades criminosas da Direcção-Geral de Segurança e da sua predecessora Polícia Internacional e de Defesa do Estado;\n\nb) Todos os funcionários da Direcção-Geral de Segurança, pertencentes às categorias de pessoal dirigente e pessoal técnico de investigação criminal, superior e auxiliar, até chefe de brigada, inclusive, nos termos constantes do mapa I anexo ao [Decreto-Lei n.º 368/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1972-691070), de 30 de Setembro, e bem assim os funcionários da sua antecessora Polícia Internacional e de Defesa do Estado, das categorias de pessoal de direcção e investigação, até chefe de brigada, inclusive, conforme o mapa I anexo ao [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954.\n\nArt. 2.º - 1. Serão punidos com a pena de prisão maior de quatro a oito anos todos os demais indivíduos que pertenceram aos quadros de investigação das polícias mencionadas no artigo 1.º\n\n2. Os médicos que prestaram serviço nas mesmas polícias, e acerca dos quais existam provas de terem excedido as suas funções de assistência aos doentes, para colaborarem nas actividades criminosas daquelas organizações, ficam sujeitos à pena pevista neste artigo.\n\nArt. 3.º A pena de prisão maior de dois a oito anos será aplicada a todos os demais funcionários do quadro da Direcção-Geral de Segurança e das polícias políticas suas predecessoras, bem como aos professores da respectiva escola técnica, desde que existam elementos comprovativos da sua participação nas actividades repressivas fascistas.\n\nArt. 4.º A pena de prisão maior de dois a doze anos poderá ser aplicada:\n\na) A todos aqueles que, por sua iniciativa ou mediante remuneração, colaboraram com a Direcção-Geral de Segurança e polícias políticas que a precederam, formulando denúncias ou prestando informações sobre actividades políticas;\n\nb) Aos que utilizaram os serviços dessas polícias causando prejuízos morais ou materiais a qualquer pessoa física ou jurídica.\n\nArt. 5.º Todos os indivíduos abrangidos pelo presente diploma que exerçam quaisquer actividades visando a perturbação, por meios violentos, do processo revolucionário iniciado em 25 de Abril de 1974 ficam sujeitos à pena de quatro a doze anos de prisão maior.\n\nArt. 6.º - 1. Na graduação da pena ter-se-ão em conta as actividades desenvolvidas pelo arguido, bem como a gravidade da culpa, e ainda o grau da sua responsabilidade hierárquica e funcional.\n\n2. As penas aplicadas, nos termos deste diploma, aos indivíduos referidos nos artigos 1.º, 2.º e 3.º não prejudicam o apuramento de responsabilidades pelas actividades criminosas como tal definidas na lei penal e que igualmente tenham sido praticadas pelos mesmos indivíduos.\n\nArt. 7.º As penas previstas neste diploma não podem ser suspensas na sua aplicação, nem substituídas por multa, sendo, no entanto, passíveis de atenuação extraordinária.\n\nArt. 8.º Na pena aplicada será levado em conta, por inteiro, o tempo de prisão do arguido, posterior a 25 de Abril de 1974.\n\nArt. 9.º - 1. Serão julgados à revelia, como se estivessem presentes a todos os termos do processo, incluindo a audiência de julgamento, os indivíduos que, abrangidos por este diploma e encontrando-se em liberdade à data da sua publicação, não se apresentarem até à data do julgamento.\n\n2. O réu julgado nos termos do número anterior não poderá requerer que se proceda a novo julgamento pelos mesmos factos por que tenha sido condenado.\n\nArt. 10.º - 1. Verificando-se a prática de diversas actividades criminosas pelos indivíduos abrangidos no presente diploma, as penas serão graduadas pela seguinte forma:\n\na) Se forem julgados no mesmo processo, a pena correspondente ao crime mais grave sofrerá aumento não inferior a metade da pena máxima prevista para cada um dos outros crimes;\n\nb) Se forem julgados em processos diferentes, a pena correspondente ao crime mais grave sofrerá aumento não inferior a metade da pena efectivamente aplicada no processo anterior.\n\n2. O cúmulo das penas autónomas aplicadas é obrigatório, mesmo que as decisões respectivas tenham transitado em julgado, fazendo-se sempre a discriminação das penas parcelares.\n\n3. O tribunal competente para efectuar o cúmulo das penas, no caso da alínea b) do n.º 1 deste artigo, é o da última condenação.\n\nArt. 11.º O procedimento criminal pelos factos a que se refere o presente diploma é imprescritível.\n\nArt. 12.º Da sentença que condene qualquer dos indivíduos abrangidos pelos artigos 1.º, 2.º e 3.º, pelos motivos aí referidos, cabe recurso com o único fundamento de erro de identidade do réu.\n\nArt. 13.º - 1. Compete a um tribunal militar o julgamento dos indivíduos abrangidos por este diploma, para apuramento dos factos criminosos nele assim definidos.\n\n2. Com o fim de garantir a necessária celeridade processual, serão definidos em lei própria o funcionamento e as normas processuais a adoptar no julgamento a que se refere o número anterior.\n\n3. O mesmo tribunal militar será também competente para julgar os indivíduos abrangidos por este diploma pela prática das actividades criminosas a que se refere o n.º 2 do artigo 6.º\n\n4. Nos casos mencionados no número anterior serão observadas as normas processuais que regulam o processo criminal militar.\n\nArt. 14.º A execução das sentenças proferidas nos termos deste diploma compete às autoridades militares e regula-se pelas disposições do Código de Justiça Militar.\n\nArt. 15.º Este diploma entra imediatamente em vigor.\n\nVista e aprovada em Conselho da Revolução.\n\nPromulgada em 22 de Julho de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "871473a55f61fc63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Julho\n\n1. É do conhecimento geral que a extinta Direcção-Geral de Segurança e polícias políticas que a precederam, entre 28 de Maio de 1926 e 25 de Abril de 1974, constituíram autênticas organizações de terrorismo político e social, com o objectivo de impedir o livre exercício dos direitos cívicos no nosso país.\n\n2. Essas organizações visaram, durante a sua existência, a prática sistemática de crimes contra o povo português e o arbítrio e a desumanidade de que deram sobejas provas sempre mereceram a condenação da opinião pública nacional e internacional.\n\n3. As actividades terroristas das mencionadas organizações, que fizeram do crime institucionalizado a sua razão de ser, desenvolviam-se na mais completa impunidade dos seus agentes, já que era o próprio regime fascista que lhes dava cobertura.\n\nDaí que, não permitindo as leis vigentes sob o fascismo, como é óbvio, a incriminação e punição desses indivíduos, haja que publicar legislação que, assente na legitimidade revolucionária do poder democrático instituído pelo Movimento das Forças Armadas, corresponda à profunda exigência sentida pela consciência colectiva dos Portugueses da punição dos elementos responsáveis pela repressão fascista.\n\nSó assim se poderá reparar a histórica injustiça que constituíram as actividades criminosas exercidas durante dezenas de anos contra o povo português pela extinta polícia política e seus directos responsáveis.\n\n4. Sublinha-se ainda que a prolongada existência das mencionadas organizações, bem como os métodos de repressão que utilizavam - dos quais avultavam os vários pocessos de sistemática tortura física e psicológica exercida sobre os presos -, constituíam factos públicos e notórios, por tal forma que a nenhum dos seus elementos, do quadro ou colaboradores, era lícito ignorar o carácter essencialmente criminoso das suas actividades.\n\nNestes termos, e no uso dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei constitucional, o seguinte:"
+  },
+  "c817c9f3266fe341": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSerão punidos com a pena de prisão maior de oito a doze anos:\n\na) Os membros do Governo (Presidente do Conselho de Ministros e Ministro do Interior) responsáveis directos pelas actividades criminosas da Direcção-Geral de Segurança e da sua predecessora Polícia Internacional e de Defesa do Estado;\n\nb) Todos os funcionários da Direcção-Geral de Segurança, pertencentes às categorias de pessoal dirigente e pessoal técnico de investigação criminal, superior e auxiliar, até chefe de brigada, inclusive, nos termos constantes do mapa I anexo ao [Decreto-Lei n.º 368/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-1972-691070), de 30 de Setembro, e bem assim os funcionários da sua antecessora Polícia Internacional e de Defesa do Estado, das categorias de pessoal de direcção e investigação, até chefe de brigada, inclusive, conforme o mapa I anexo ao [Decreto-Lei n.º 39749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39749-1954-638114), de 9 de Agosto de 1954."
+  },
+  "b580123835b10a3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Serão punidos com a pena de prisão maior de quatro a oito anos todos os demais indivíduos que pertenceram aos quadros de investigação das polícias mencionadas no artigo 1.º\n\n2. Os médicos que prestaram serviço nas mesmas polícias, e acerca dos quais existam provas de terem excedido as suas funções de assistência aos doentes, para colaborarem nas actividades criminosas daquelas organizações, ficam sujeitos à pena pevista neste artigo."
+  },
+  "cc7ad3b5d4048e6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA pena de prisão maior de dois a oito anos será aplicada a todos os demais funcionários do quadro da Direcção-Geral de Segurança e das polícias políticas suas predecessoras, bem como aos professores da respectiva escola técnica, desde que existam elementos comprovativos da sua participação nas actividades repressivas fascistas."
+  },
+  "e547a00d07908534": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA pena de prisão maior de dois a doze anos poderá ser aplicada:\n\na) A todos aqueles que, por sua iniciativa ou mediante remuneração, colaboraram com a Direcção-Geral de Segurança e polícias políticas que a precederam, formulando denúncias ou prestando informações sobre actividades políticas;\n\nb) Aos que utilizaram os serviços dessas polícias causando prejuízos morais ou materiais a qualquer pessoa física ou jurídica."
+  },
+  "c688e8d9913a88fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nTodos os indivíduos abrangidos pelo presente diploma que exerçam quaisquer actividades visando a perturbação, por meios violentos, do processo revolucionário iniciado em 25 de Abril de 1974 ficam sujeitos à pena de quatro a doze anos de prisão maior."
+  },
+  "adf1e3f510a1ee2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Na graduação da pena ter-se-ão em conta as actividades desenvolvidas pelo arguido, bem como a gravidade da culpa, e ainda o grau da sua responsabilidade hierárquica e funcional.\n\n2. As penas aplicadas, nos termos deste diploma, aos indivíduos referidos nos artigos 1.º, 2.º e 3.º não prejudicam o apuramento de responsabilidades pelas actividades criminosas como tal definidas na lei penal e que igualmente tenham sido praticadas pelos mesmos indivíduos."
+  },
+  "8b8c7ccb83b89b8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs penas previstas neste diploma não podem ser suspensas na sua aplicação, nem substituídas por multa, sendo, no entanto, passíveis de atenuação extraordinária."
+  },
+  "a3c53b07fde47d4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nNa pena aplicada será levado em conta, por inteiro, o tempo de prisão do arguido, posterior a 25 de Abril de 1974."
+  },
+  "8bb63c8e1afb4b4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Serão julgados à revelia, como se estivessem presentes a todos os termos do processo, incluindo a audiência de julgamento, os indivíduos que, abrangidos por este diploma e encontrando-se em liberdade à data da sua publicação, não se apresentarem até à data do julgamento.\n\n2. O réu julgado nos termos do número anterior não poderá requerer que se proceda a novo julgamento pelos mesmos factos por que tenha sido condenado."
+  },
+  "02324b7ffd6b6ef8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Verificando-se a prática de diversas actividades criminosas pelos indivíduos abrangidos no presente diploma, as penas serão graduadas pela seguinte forma:\n\na) Se forem julgados no mesmo processo, a pena correspondente ao crime mais grave sofrerá aumento não inferior a metade da pena máxima prevista para cada um dos outros crimes;\n\nb) Se forem julgados em processos diferentes, a pena correspondente ao crime mais grave sofrerá aumento não inferior a metade da pena efectivamente aplicada no processo anterior.\n\n2. O cúmulo das penas autónomas aplicadas é obrigatório, mesmo que as decisões respectivas tenham transitado em julgado, fazendo-se sempre a discriminação das penas parcelares.\n\n3. O tribunal competente para efectuar o cúmulo das penas, no caso da alínea b) do n.º 1 deste artigo, é o da última condenação."
+  },
+  "7aa02aa035e410a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO procedimento criminal pelos factos a que se refere o presente diploma é imprescritível."
+  },
+  "bdebd44ec513854e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1975-12-26",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 18/75](https://diariodarepublica.pt/dr/detalhe/lei/18-1975-667568), publicado em 1975-12-26."
+   ],
+   "markdown": "###### Artigo 12.º\n\nDa sentença final que condene qualquer dos indivíduos abrangidos por este diploma cabe recurso nos termos do Código de Justiça Militar.\n\n> Alterado pelo/a [Lei n.º 18/75](https://diariodarepublica.pt/dr/detalhe/lei/18-1975-667568), publicado em 1975-12-26."
+  },
+  "aaa9944cfde2abea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1975-12-26",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 18/75](https://diariodarepublica.pt/dr/detalhe/lei/18-1975-667568), publicado em 1975-12-26."
+   ],
+   "markdown": "###### Artigo 13.º\n\n1. Compete aos tribunais militares o julgamento dos indivíduos abrangidos por este diploma, para apuramento dos factos criminosos nele assim definidos.\n\n2. Os mesmos tribunais militares serão também competentes para julgar os indivíduos abrangidos por este diploma pela prática das actividades criminosas, a que se refere o n.º 2 do artigo 6.º\n\n3. Nos casos mencionados no número anterior serão observadas as normas processuais que regulam o processo criminal militar.\n\n4. Os indivíduos abrangidos por este diploma pela prática das actividades criminosas previstas pelos artigos 1.º, 2.º, 3.º e 4.º poderão aguardar, em regime de liberdade provisória, o julgamento nos termos fixados nos artigos 269.º, 270.º, 274.º a 285.º e 291.º, todos do Código de Processo Penal.\n\n5. A decisão sobre a aplicação do regime de liberdade provisória regulada no número anterior, na fase do corpo de delito, compete ao Conselho da Revolução mediante proposta do presidente do Serviço de Coordenação da Extinção da PIDE/DGS e LP.\n\n6. Uma vez remetidos os processos ao tribunal miiltar competente, poderá este, oficiosamente ou a requerimento do promotor de Justiça, manter ou revogar o regime de liberdade provisória mencionado no número anterior, quer pela existência de circunstâncias supervenientes, quer pela ponderação das disposições legais aplicáveis.\n\n> Alterado pelo/a [Lei n.º 18/75](https://diariodarepublica.pt/dr/detalhe/lei/18-1975-667568), publicado em 1975-12-26."
+  },
+  "f2fa204badb71722": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1975-12-26",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 16/75](https://diariodarepublica.pt/dr/detalhe/lei/16-1975-310847), publicado em 1975-12-23."
+   ],
+   "markdown": "###### Artigo 14.º\n\nA execução das sentenças proferidas nos termos deste diploma regula-se pelas disposições do Código de Justiça Militar.\n\n> Alterado pelo/a [Lei n.º 16/75](https://diariodarepublica.pt/dr/detalhe/lei/16-1975-310847), publicado em 1975-12-23."
+  },
+  "d64c065bab722d92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nEste diploma entra imediatamente em vigor.\n\nVista e aprovada em Conselho da Revolução.\n\nPromulgada em 22 de Julho de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}

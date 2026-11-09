@@ -1,0 +1,247 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:232124:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-11-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e5953aef4d3d3b7d",
+    "a690b547d268258a",
+    "be39e2e3371250d3",
+    "0d6973b737cefaa3",
+    "5b4183be78e5cad9",
+    "1132f68cbbb5caec",
+    "e6909d23db64ec9e",
+    "dd1b764d3e45c2eb",
+    "186aa2dfd23a54da",
+    "5049f34450d9cd8a",
+    "da982ca7dd557b49"
+   ]
+  },
+  {
+   "date": "2010-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:229157:por",
+     "title": "Lei n.º 109-B/2001",
+     "published": "2001-12-27",
+     "dre_path": "/dr/detalhe/lei/109-b-2001-229157"
+    },
+    {
+     "id": "pt:dre:518010:por",
+     "title": "Decreto-Lei n.º 33/2007",
+     "published": "2007-02-15",
+     "dre_path": "/dr/detalhe/decreto-lei/33-2007-518010"
+    },
+    {
+     "id": "pt:dre:609990:por",
+     "title": "Lei n.º 3-B/2010",
+     "published": "2010-04-28",
+     "dre_path": "/dr/detalhe/lei/3-b-2010-609990"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "e5953aef4d3d3b7d",
+    "6424d00ced6ee5e6",
+    "d8c446f769837941",
+    "eb0afd53101d67cc",
+    "b93d05b51e5b098d",
+    "1132f68cbbb5caec",
+    "9f9bff8f136cbaa1",
+    "55e0186806f6a701",
+    "f069949b6b45670a",
+    "5049f34450d9cd8a",
+    "0ca0cb084bd46b91"
+   ]
+  }
+ ],
+ "fragments": {
+  "e5953aef4d3d3b7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Novembro\n\nTem sido preocupação crescente do Governo melhorar a segurança rodoviária por forma a reduzir os elevados níveis de sinistralidade nas estradas portuguesas.\n\nPara tanto, têm vindo a ser implementadas diversas medidas, mostrando-se ainda aconselhável incentivar a retirada de circulação dos veículos que, pela idade e estado de conservação, sejam susceptíveis de comprometer quer a segurança quer a qualidade do ambiente.\n\nVisa assim o presente diploma criar um incentivo fiscal que motive os proprietários de tais automóveis ligeiros a entregá-los para destruição e, em sua substituição, optar pela aquisição de automóveis ligeiros novos, articulando-se, desde já, com o diploma que, em sede de protecção ambiental, vem definir as regras de emissão dos certificados de destruição.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo n.º 5 do artigo 51.º da [Lei n.º 3-B/2000](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2000-679669), de 4 de Abril, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "a690b547d268258a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma tem por objecto a criação de um incentivo fiscal à destruição de automóveis ligeiros em fim de vida, visando a melhoria da segurança rodoviária e da qualidade do ambiente.\n\n2 - As regras relativas à emissão dos certificados de destruição constam do [Decreto-Lei n.º 292-B/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-b-2000-232125), de 15 de Novembro."
+  },
+  "be39e2e3371250d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Incentivo fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Incentivo fiscal\n\n1 - O incentivo fiscal referido no artigo anterior reveste a forma de redução no imposto automóvel devido na compra de automóvel ligeiro novo sem matrícula, admitido ou importado.\n\n2 - O incentivo previsto no número anterior deve ser requerido à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC), mediante exibição do certificado de destruição a que alude o n.º 1 do artigo 4.º, e nos termos seguintes:\n\na) Automóveis ligeiros a destruir com 10 anos ou mais e menos de 15 anos: redução de 150000$00 no imposto automóvel;\n\nb) Automóveis ligeiros a destruir com 15 anos ou mais: redução de 200000$00 no imposto automóvel.\n\n3 - Podem beneficiar do incentivo previsto neste diploma os proprietários, há mais de um ano, de automóveis ligeiros, desde que:\n\na) Os veículos estejam matriculados há mais de 10 anos;\n\nb) Sobre os mesmos não incidam ónus ou encargos de ordem fiscal ou outros;\n\nc) Os veículos estejam em condições de circulação pelos seus próprios meios;\n\nd) Sejam os mesmos entregues para destruição nos termos do presente diploma."
+  },
+  "0d6973b737cefaa3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Controlo de documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Controlo de documentação\n\n1 - O proprietário de automóvel ligeiro que pretenda beneficiar da redução do imposto automóvel deverá entregar o veículo a destruir, com os respectivos documentos, num dos centros de inspecção de veículos (CIV) constantes da lista divulgada pela Direcção-Geral de Viação (DGV), bem como o requerimento para cancelamento da matrícula, acompanhado de fotocópia do bilhete de identidade do requerente e a quantia correspondente ao valor fixado para uma inspecção obrigatória.\n\n2 - O CIV que receber o veículo deverá proceder à sua identificação e registo fotográfico, conferir a documentação a ele relativa e remetê-lo ao serviço regional da DGV da sua área.\n\n3 - A DGV procederá ao cancelamento da matrícula e emitirá uma autorização de destruição, que remeterá ao CIV referido no número anterior.\n\n4 - Recebida a autorização no CIV e comunicada por este ao operador autorizado, na área, para a destruição, deverá este proceder ao levantamento do veículo no prazo máximo de oito dias."
+  },
+  "5b4183be78e5cad9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Controlo de destruição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Controlo de destruição\n\n1 - O operador deverá proceder à destruição do veículo obedecendo às normas ambientais aplicáveis, emitir o certificado de destruição e remetê-lo à DGV, no prazo de cinco dias após recepção do veículo.\n\n2 - A DGV entregará o certificado de destruição, no prazo de cinco dias, ao proprietário do veículo, que o deverá apresentar à DGAIEC para obtenção do incentivo fiscal referido no artigo 1.º\n\n3 - Para efeitos de obtenção do incentivo previsto no presente diploma, o certificado deve ser utilizado no prazo de um ano a contar da respectiva emissão, só podendo ser utilizado um certificado em cada aquisição de veículo novo."
+  },
+  "1132f68cbbb5caec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Exclusão de aplicabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Exclusão de aplicabilidade\n\nAos veículos novos adquiridos ao abrigo do presente diploma não é aplicável o disposto no artigo 12.º do [Decreto-Lei n.º 40/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-1993-656424), de 18 de Fevereiro."
+  },
+  "e6909d23db64ec9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime sancionatório\n\n1 - Constitui contra-ordenação punível com coima de 50000$00 a 250000$00:\n\na) O incumprimento dos deveres previstos no n.º 2 do artigo 3.º;\n\nb) A falta de comunicação, ao operador autorizado, da autorização de destruição emitida pela DGV, prevista no n.º 3 do artigo 4.º;\n\nc) O levantamento do veículo fora do prazo referido no n.º 4 do artigo 3.º\n\n2 - Constitui contra-ordenação punível com coima de 100000$00 a 500000$00 a destruição de veículo abrangido pelo presente diploma, pelo operador autorizado, sem que possua autorização de destruição emitida pela DGV.\n\n3 - Nas contra-ordenações previstas é punível a negligência."
+  },
+  "dd1b764d3e45c2eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fiscalização\n\nA fiscalização do cumprimento do presente diploma compete à DGV, à Guarda Nacional Republicana, à Polícia de Segurança Pública, à DGAIEC, à Direcção-Geral da Indústria, à Inspecção-Geral do Ambiente e às direcções regionais do ambiente e ordenamento do território."
+  },
+  "186aa2dfd23a54da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicação de sanções\n\n1 - A instrução dos processos de contra-ordenação compete à DGV, aplicando-se ao seu processamento as disposições previstas no Código da Estrada para as infracções rodoviárias.\n\n2 - A aplicação das coimas é da competência da DGV."
+  },
+  "5049f34450d9cd8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Destino das receitas provenientes da aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Destino das receitas provenientes da aplicação das coimas\n\nA distribuição das receitas provenientes da aplicação das coimas previstas no presente diploma rege-se pelo disposto nos n.os 1, 2 e 4 do artigo 1.º do [Decreto-Lei n.º 369/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-1999-569892), de 18 de Setembro."
+  },
+  "da982ca7dd557b49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no dia 1 de Dezembro de 2000, vigorando pelo período de um ano.\n\n2 - O disposto no número anterior não prejudica a validade do certificado de destruição emitido pelo operador autorizado, o qual, para efeitos de obtenção do incentivo fiscal previsto no presente diploma, poderá ser utilizado no prazo previsto no n.º 3 do artigo 4.º do mesmo, para além de 30 de Novembro de 2001.\n\nVisto e aprovado em Conselho de Ministros de 28 de Setembro de 2000. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Mário Cristina de Sousa - António Luís Santos Costa - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 14 de Novembro de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Novembro de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "6424d00ced6ee5e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 33/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010), publicado em 2007-02-15."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei tem por objecto a criação de um incentivo fiscal à destruição de automóveis ligeiros em fim de vida, visando a melhoria da segurança rodoviária e da qualidade do ambiente, designadamente de forma a dar cumprimento ao disposto no Programa Nacional para as Alterações Climáticas.\n\n2 - As regras relativas à emissão dos certificados de destruição e cancelamento de matrícula constam do Decreto-Lei n.º 196/2003, de 23 de Agosto.\n\n> Alterado pelo/a [Decreto-Lei n.º 33/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010), publicado em 2007-02-15."
+  },
+  "d8c446f769837941": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Conteúdo e condições do incentivo",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), publicado em 2010-04-28."
+   ],
+   "markdown": "###### Artigo 2.º — Conteúdo e condições do incentivo\n\n1 - O incentivo fiscal à destruição de automóveis em fim de vida reveste a forma de redução do imposto sobre veículos devido pelo proprietário na compra de automóvel ligeiro novo cujo nível de emissões de CO(índice 2) não ultrapasse os 130 g/km, nos termos seguintes:\n\na) Redução de (euro) 750, para automóveis ligeiros a destruir, cuja primeira matrícula haja sido atribuída em período igual ou superior a 10 anos e inferior a 15 anos;\n\nb) Redução de (euro) 1000, para automóveis ligeiros a destruir, cuja primeira matrícula haja sido atribuída em período igual ou superior a 15 anos.\n\n2 - Só podem beneficiar do incentivo fiscal referido no número anterior os automóveis ligeiros que, sendo propriedade do requerente há mais de seis meses, preencham cumulativamente as seguintes condições:\n\na) Possuam matrícula por um período igual ou superior a 10 anos;\n\nb) Estejam livres de quaisquer ónus ou encargos;\n\nc) Estejam em condições de circulação pelos seus próprios meios ou, não sendo esse o caso, possuam ainda todos os seus componentes;\n\nd) Sejam entregues para destruição nos termos fixados pelo presente decreto-lei.\n\n3 - O incentivo fiscal deve ser requerido à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) mediante exibição do certificado de destruição a que se refere o n.º 1 do artigo 4.º\n\n> Alterado pelo/a [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), publicado em 2010-04-28."
+  },
+  "eb0afd53101d67cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Controlo de documentação",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 33/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010), publicado em 2007-02-15."
+   ],
+   "markdown": "###### Artigo 3.º — Controlo de documentação\n\n1 - O proprietário de automóvel ligeiro que pretenda beneficiar da redução do imposto automóvel deve entregar o veículo a destruir num dos centros de recepção ou operadores de desmantelamento licenciados nos termos do Decreto-Lei n.º 196/2003, de 23 de Agosto, ou, alternativamente, num dos centros de inspecção de veículos (CIV) constantes da lista divulgada pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT).\n\n2 - Nos casos em que o veículo a destruir seja entregue num dos centros de recepção ou operadores de desmantelamento referidos no número anterior, o seu proprietário deve:\n\na) Entregar o documento de identificação do veículo e o título de registo de propriedade ou, em alternativa, o certificado de matrícula;\n\nb) Requerer o cancelamento da respectiva matrícula, através do preenchimento de impresso de modelo legal, que é disponibilizado pelo operador.\n\n3 - Nos casos em que o veículo a destruir seja entregue num dos CIV referidos no n.º 1, o seu proprietário deve:\n\na) Entregar o documento de identificação do veículo e o título de registo de propriedade ou, em alternativa, o certificado de matrícula;\n\nb) Requerer o cancelamento da respectiva matrícula, através do preenchimento de impresso de modelo legal, que deve ser adquirido no IMTT;\n\nc) Entregar a quantia correspondente ao valor fixado para uma inspecção obrigatória.\n\n4 - O CIV que receber o veículo deve proceder à sua identificação e registo fotográfico, conferir a documentação a ele relativa e comunicar a um operador de desmantelamento para que proceda ao seu levantamento.\n\n5 - Aos CIV encontra-se vedada a comercialização dos veículos entregues ou dos seus componentes.\n\n> Alterado pelo/a [Decreto-Lei n.º 33/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010), publicado em 2007-02-15."
+  },
+  "b93d05b51e5b098d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Controlo de destruição",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 40.º do/a [Lei n.º 109-B/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), publicado em 2001-12-27.",
+    "Alterado pelo/a [Decreto-Lei n.º 33/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010), publicado em 2007-02-15."
+   ],
+   "markdown": "###### Artigo 4.º — Controlo de destruição\n\n1 - O operador de desmantelamento que recebe o veículo, directamente ou através de um centro de recepção ou CIV, deve proceder à sua identificação, conferir a respectiva documentação, desmantelá-lo e proceder à emissão do certificado de destruição nos termos dos n.os 7 a 10 do artigo 17.º do Decreto-Lei n.º 196/2003, de 23 de Agosto.\n\n2 - Para obtenção do incentivo fiscal referido no artigo 1.º, o proprietário do veículo deve apresentar à DGAIEC cópia do certificado de destruição.\n\n3 - Para efeitos de obtenção do incentivo previsto no presente diploma, o certificado deve ser utilizado no prazo de um ano a contar da respectiva emissão, só podendo ser utilizado um certificado em cada aquisição de veículo novo.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 40.º do/a [Lei n.º 109-B/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), publicado em 2001-12-27.\n\n> Alterado pelo/a [Decreto-Lei n.º 33/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010), publicado em 2007-02-15."
+  },
+  "9f9bff8f136cbaa1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Regime sancionatório",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 33/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010), publicado em 2007-02-15."
+   ],
+   "markdown": "###### Artigo 6.º — Regime sancionatório\n\n1 - Constitui contra-ordenação punível com coima de (euro) 250 a (euro) 1250 o incumprimento dos deveres previstos nos n.os 4 e 5 do artigo 3.º\n\n2 - Constitui contra-ordenação punível com coima de (euro) 500 a (euro) 2500 a falsificação do certificado de destruição ou a prestação de falsas informações.\n\n3 - A tentativa e a negligência são sempre puníveis, sendo os limites mínimos e máximos das coimas previstas nos números anteriores reduzidos para metade.\n\n> Alterado pelo/a [Decreto-Lei n.º 33/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010), publicado em 2007-02-15."
+  },
+  "55e0186806f6a701": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Fiscalização",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 33/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010), publicado em 2007-02-15."
+   ],
+   "markdown": "###### Artigo 7.º — Fiscalização\n\nA fiscalização do cumprimento do presente decreto-lei compete ao IMTT, à Guarda Nacional Republicana, à Polícia de Segurança Pública, à DGAIEC, à Inspecção-Geral do Ambiente e do Ordenamento do Território e às comissões de coordenação e desenvolvimento regional.\n\n> Alterado pelo/a [Decreto-Lei n.º 33/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010), publicado em 2007-02-15."
+  },
+  "f069949b6b45670a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Aplicação de sanções",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 33/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010), publicado em 2007-02-15."
+   ],
+   "markdown": "###### Artigo 8.º — Aplicação de sanções\n\n1 - A instrução dos processos de contra-ordenação compete ao IMTT, aplicando-se ao seu processamento as disposições previstas no Código da Estrada para as infracções rodoviárias.\n\n2 - A aplicação das coimas é da competência do IMTT.\n\n> Alterado pelo/a [Decreto-Lei n.º 33/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2007-518010), publicado em 2007-02-15."
+  },
+  "0ca0cb084bd46b91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), publicado em 2010-04-28."
+   ],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor no dia 1 de Dezembro de 2000, vigorando até 31 de Dezembro de 2010.\n\n2 - Nas Regiões Autónomas dos Açores e da Madeira, na impossibilidade de os veículos serem destruídos por operadores autorizados nos termos do Decreto-Lei n.º 196/2003, de 23 de Agosto, o incentivo fiscal é concedido na condição de a destruição ser efectuada sob controlo aduaneiro, observando-se as demais condições previstas no presente decreto-lei.\n\n3 - Os incentivos previstos no n.º 1 do artigo 2.º são aplicáveis aos pedidos de redução do imposto sobre veículos que sejam instruídos com certificados de destruição que se encontrem válidos.\n\n4 - O incentivo fiscal previsto no n.º 1 do artigo 2.º pode ser concedido sob a forma de reembolso, relativamente aos automóveis ligeiros novos, matriculados entre 1 de Janeiro de 2010 e a entrada em vigor da Lei do Orçamento do Estado para 2010, mediante pedido apresentado pelo proprietário, nos termos dos procedimentos a regulamentar pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo.\n\n5 - O incentivo fiscal previsto no n.º 1 do artigo 2.º pode excepcionalmente ser concedido durante o ano de 2010, nos termos dos procedimentos a regulamentar pela Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, aos veículos destruídos ou irreparavelmente danificados em virtude da catástrofe natural ocorrida a 20 de Fevereiro deste ano na Região Autónoma da Madeira, com as seguintes especificidades:\n\na) A redução de imposto reveste o valor de (euro) 3000;\n\nb) As autoridades aduaneiras devem comprovar a destruição ou danificação do veículo em virtude da catástrofe, bem como o seu reencaminhamento para centro de recepção ou CIV;\n\nc) A concessão do incentivo é feita com dispensa das condições relativas ao período de matrícula, de propriedade e condições de circulação.\n\n6 - A receita cessante resultante da medida prevista no número anterior, compensada pela alteração de valores prevista no artigo 2.º, é integralmente suportada pelo Orçamento do Estado.\n\n> Alterado pelo/a [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), publicado em 2010-04-28.\n\nVisto e aprovado em Conselho de Ministros de 28 de Setembro de 2000. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Mário Cristina de Sousa - António Luís Santos Costa - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 14 de Novembro de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Novembro de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

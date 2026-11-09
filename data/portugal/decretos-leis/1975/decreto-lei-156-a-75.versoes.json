@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:666750:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1975-03-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9556571064ddddba"
+   ]
+  },
+  {
+   "date": "1975-07-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:336988:por",
+     "title": "Decreto-Lei n.º 366/75",
+     "published": "1975-07-12",
+     "dre_path": "/dr/detalhe/decreto-lei/366-1975-336988"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "301a0a71993fbed2",
+    "4a5dd0cc191a0b79",
+    "bfa72c37db4c7a04",
+    "19e142b69b6948d0",
+    "3719164a0662ecb8",
+    "7885eaa0297cf67d",
+    "1ae61d311d2fc763",
+    "3522352d208c684c",
+    "0be4021b905adfc5",
+    "6791c42847b6ddf0",
+    "202e77fffd241004"
+   ]
+  }
+ ],
+ "fragments": {
+  "9556571064ddddba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Março\n\nO [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março, que nacionalizou as instituições de crédito, não abrange as caixas económicas. Segundo o ali preceituado, deverão as mesmas ser objecto de legislação especial, a publicar dentro de noventa dias.\n\nSem prejuízo da sua integração no novo regime legal anunciado para as entidades do seu tipo, carece de intervenção imediata do Estado a Caixa Económica de Lisboa, instituição de crédito anexa ao Montepio Geral e que tem por corpos sociais os desta associação de socorros mútuos.\n\nO poder económico de que dispõe esta Caixa é muito apreciável e manifesta-se com evidência a necessidade de o pôr ao serviço da dinamização da actividade económica, à luz das realidades nacionais, entre as quais se conta a capacidade demonstrada pelos trabalhadores da banca na fiscalização e contrôle do respectivo sector de actividade.\n\nTal intervenção não porá, de qualquer modo, em causa a prossecução dos fins do Montepio Geral como instituição de previdência, a qual continuará, nos termos legais e estatutários.\n\nNestes termos:\n\nUsando os poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. O Primeiro-Ministro, ouvidos os Ministros das Finanças e dos Assuntos Sociais e os sindicatos dos bancários, nomeará, por despacho, uma comissão administrativa para o Montepio Geral, associação de socorros mútuos, com sede em Lisboa.\n\n2. A comissão administrativa será composta por três a cinco elementos de reconhecida competência, entre os quais dois sócios do Montepio Geral no pleno exercício dos seus direitos.\n\nArt. 2.º Consideram-se dissolvidos, a partir da publicação do despacho de nomeação da comissão administrativa, os actuais corpos sociais do Montepio Geral, associação de socorros mútuos, com sede em Lisboa.\n\nArt. 3.º A comissão administrativa, nomeada nos termos do artigo 1.º, exercerá funções até à entrada em funcionamento dos órgãos de gestão que venham a ser constituídos, nos termos da legislação especial prevista na alínea b) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março.\n\nArt. 4.º - 1. A comissão administrativa terá todos os poderes que, pela lei ou pelos estatutos, pertenciam à direcção do Montepio Geral, com excepção:\n\na) Da faculdade de admissão, promoção, transferência, demissão ou alteração de remunerações ou quaisquer outras regalias dos trabalhadores;\n\nb) Da capacidade para a prática de actos que não estejam estritamente relacionados com as necessidades de gestão corrente da instituição.\n\n2. A prática de actos mencionados nas alíneas a) e b) do número anterior dependerá, em cada caso, de despacho de autorização dos Ministros das Finanças e dos Assuntos Sociais.\n\nArt. 5.º - 1. Por proposta da comissão administrativa, o Banco de Portugal poderá autorizar genericamente a realização, pela Caixa Económica de Lisboa, anexa ao Montepio Geral, de outras operações bancárias além das enunciadas nos seus estatutos.\n\n2. Não se aplica à Caixa Económica de Lisboa, anexa ao Montepio Geral, o disposto no corpo do artigo 79.º do [Decreto n.º 20944](https://diariodarepublica.pt/dr/detalhe/decreto/20944-1932-523236), de 27 de Fevereiro de 1932.\n\nArt. 6.º As remunerações dos membros da comissão administrativa, a atribuir enquanto esses membros exercerem tais funções, serão fixadas por despacho dos Ministros das Finanças e dos Assuntos Sociais, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, constituindo encargo da respectiva instituição.\n\nArt. 7.º A responsabilidade perante terceiros decorrente dos actos de gestão praticados pelos membros da comissão administrativa será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.\n\nArt. 8.º A comissão administrativa elaborará, após o termo do seu mandato, relatório circunstanciado sobre a sua actividade e prestará contas da mesma para apreciação pelos Ministros das Finanças e dos Assuntos Sociais.\n\nArt. 9.º Os membros da direcção e do conselho fiscal, a dissolver nos termos do presente diploma, ficam obrigados a prestar à comissão administrativa as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.\n\nArt. 10.º O presente diploma entra imediatamente em vigor.\n\nVisto e aprovado em Conselho da Revolução.\n\nPromulgado em 25 de Março de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "301a0a71993fbed2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de Março\n\nO [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março, que nacionalizou as instituições de crédito, não abrange as caixas económicas. Segundo o ali preceituado, deverão as mesmas ser objecto de legislação especial, a publicar dentro de noventa dias.\n\nSem prejuízo da sua integração no novo regime legal anunciado para as entidades do seu tipo, carece de intervenção imediata do Estado a Caixa Económica de Lisboa, instituição de crédito anexa ao Montepio Geral e que tem por corpos sociais os desta associação de socorros mútuos.\n\nO poder económico de que dispõe esta Caixa é muito apreciável e manifesta-se com evidência a necessidade de o pôr ao serviço da dinamização da actividade económica, à luz das realidades nacionais, entre as quais se conta a capacidade demonstrada pelos trabalhadores da banca na fiscalização e contrôle do respectivo sector de actividade.\n\nTal intervenção não porá, de qualquer modo, em causa a prossecução dos fins do Montepio Geral como instituição de previdência, a qual continuará, nos termos legais e estatutários.\n\nNestes termos:\n\nUsando os poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "4a5dd0cc191a0b79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O Primeiro-Ministro, ouvidos os Ministros das Finanças e dos Assuntos Sociais e os sindicatos dos bancários, nomeará, por despacho, uma comissão administrativa para o Montepio Geral, associação de socorros mútuos, com sede em Lisboa.\n\n2. A comissão administrativa será composta por três a cinco elementos de reconhecida competência, entre os quais dois sócios do Montepio Geral no pleno exercício dos seus direitos."
+  },
+  "bfa72c37db4c7a04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nConsideram-se dissolvidos, a partir da publicação do despacho de nomeação da comissão administrativa, os actuais corpos sociais do Montepio Geral, associação de socorros mútuos, com sede em Lisboa."
+  },
+  "19e142b69b6948d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA comissão administrativa, nomeada nos termos do artigo 1.º, exercerá funções até à entrada em funcionamento dos órgãos de gestão que venham a ser constituídos, nos termos da legislação especial prevista na alínea b) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março."
+  },
+  "3719164a0662ecb8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1975-07-12",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 366/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1975-336988), publicado em 1975-07-12."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1. A comissão administrativa terá todos os poderes que, pela lei ou pelos estatutos, pertenciam, com ou sem prévia concordância dos corpos sociais, à direcção do Montepio Geral, com excepção:\n\na) Da faculdade de admissão, promoção, transferência, demissão ou alteração de remunerações ou quaisquer outras regalias dos trabalhadores;\n\nb) Da capacidade para a prática de actos que não estejam estritamente relacionados com as necessidades de gestão corrente da instituição.\n\n2. A prática de actos mencionados nas alíneas a) e b) do número anterior dependerá, em cada caso, de despacho de autorização dos Ministros das Finanças e dos Assuntos Sociais.\n\n> Alterado pelo/a [Decreto-Lei n.º 366/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1975-336988), publicado em 1975-07-12."
+  },
+  "7885eaa0297cf67d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Por proposta da comissão administrativa, o Banco de Portugal poderá autorizar genericamente a realização, pela Caixa Económica de Lisboa, anexa ao Montepio Geral, de outras operações bancárias além das enunciadas nos seus estatutos.\n\n2. Não se aplica à Caixa Económica de Lisboa, anexa ao Montepio Geral, o disposto no corpo do artigo 79.º do [Decreto n.º 20944](https://diariodarepublica.pt/dr/detalhe/decreto/20944-1932-523236), de 27 de Fevereiro de 1932."
+  },
+  "1ae61d311d2fc763": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs remunerações dos membros da comissão administrativa, a atribuir enquanto esses membros exercerem tais funções, serão fixadas por despacho dos Ministros das Finanças e dos Assuntos Sociais, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, constituindo encargo da respectiva instituição."
+  },
+  "3522352d208c684c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA responsabilidade perante terceiros decorrente dos actos de gestão praticados pelos membros da comissão administrativa será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos."
+  },
+  "0be4021b905adfc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA comissão administrativa elaborará, após o termo do seu mandato, relatório circunstanciado sobre a sua actividade e prestará contas da mesma para apreciação pelos Ministros das Finanças e dos Assuntos Sociais."
+  },
+  "6791c42847b6ddf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs membros da direcção e do conselho fiscal, a dissolver nos termos do presente diploma, ficam obrigados a prestar à comissão administrativa as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada."
+  },
+  "202e77fffd241004": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO presente diploma entra imediatamente em vigor.\n\nVisto e aprovado em Conselho da Revolução.\n\nPromulgado em 25 de Março de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}

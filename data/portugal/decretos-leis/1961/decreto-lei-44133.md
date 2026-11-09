@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-11-06'
+version_history:
+  file: decreto-lei-44133.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-11-06'
+    amending: pt:dre:631389:por
+    amending_title: Decreto-Lei n.º 472/71
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:39:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 472/71. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-44133.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,17 +127,21 @@ Considerando a conveniência de assegurar o bom funcionamento do serviço de sa�
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Os lugares de chefe do serviço de saúde da Polícia de Segurança Pública e de oficiais médicos dos comandos de Lisboa e Porto, a que se referem os artigos 1.º e 2.º do [Decreto-Lei n.º 42942](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42942-1960-281470), de 25 de Abril de 1960, poderão ser desempenhados, em comissão, por oficiais das seguintes patentes:
+###### Artigo 1.º
 
-Chefe do serviço de saúde: major ou tenente-coronel;
+Os lugares de chefe do serviço de saúde da Polícia de Segurança Pública e de inspector do serviço de saúde dos Comandos de Lisboa, Porto e Coimbra, a que se referem os artigos 1.º e 2.º do [Decreto-Lei n.º 42942](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42942-1960-281470), de 25 de Abril de 1960, poderão ser desempenhados, em comissão, por oficiais médicos do Exército, do activo ou da reserva, das seguintes patentes:
 
-Comandos de Lisboa e Porto: capitão ou major;
+Chefe do serviço de saúde: tenente-coronel ou coronel;
 
-Comando de Coimbra: tenente ou capitão.
+Inspectores do serviço de saúde de Lisboa, Porto e Coimbra: capitão ou major.
 
-§ único. Os vencimentos inerentes a estes cargos são os já fixados no § 2.º do artigo 2.º do mencionado diploma.
+§ único. Os vencimentos destes cargos são os fixados no artigo 1.º do [Decreto-Lei n.º 49477](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49477-1969-213061), de 30 de Dezembro de 1969.
 
-Art. 2.º O cargo de inspector do Comando-Geral da Polícia de Segurança Pública será desempenhado por um major ou tenente-coronel do serviço de administração militar.
+> Alterado pelo/a [Decreto-Lei n.º 472/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1971-631389), publicado em 1971-11-06.
+
+###### Artigo 2.º
+
+O cargo de inspector do Comando-Geral da Polícia de Segurança Pública será desempenhado por um major ou tenente-coronel do serviço de administração militar.
 
 § único. Os vencimentos atribuídos a este cargo são os consignados no artigo 1.º do [Decreto-Lei n.º 42364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42364-1959-433002), de 4 de Julho de 1959.
 

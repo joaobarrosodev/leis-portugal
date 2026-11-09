@@ -1,0 +1,236 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:261964:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1968-12-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "962dc76fbe8bc136"
+   ]
+  },
+  {
+   "date": "1969-08-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:198896:por",
+     "title": "Decreto-Lei n.º 49174",
+     "published": "1969-08-06",
+     "dre_path": "/dr/detalhe/decreto-lei/49174-1969-198896"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "867d2a4c7b7bbb94",
+    "525ef17abe30b611",
+    "a22789dcd69a4e32",
+    "3448bcaf4e104678",
+    "f2ed5a34c99ddbc8",
+    "b27d9c0765e5a4f7",
+    "8d492e88d97b9036",
+    "6bbf9a8440c2e38d",
+    "af051b7599a87294",
+    "00325a87c5c6278f",
+    "1f38ff8596074598",
+    "e8a2372b9a45c8ef",
+    "6b459ae2bdf31f0b",
+    "2618c10c05a87aa9",
+    "2e27df1e0546d55b",
+    "83cfa75e4184d01b",
+    "7a17a76084b8f9c6",
+    "a32b1379c19e1ebe",
+    "ad32b5e0f0f5c32c",
+    "68a72c990eeaa166",
+    "5670b60735225c9a"
+   ]
+  }
+ ],
+ "fragments": {
+  "962dc76fbe8bc136": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O fomento pecuário é um dos sectores considerados prioritários para acelerar o ritmo do desenvolvimento económico do País, não só por nele assentar uma das mais eficazes bases da reconversão da nossa agricultura e consequente aumento da sua rentabilidade, como também para satisfação das necessidades crescentes da população portuguesa em produtos de origem animal.\n\nPor este motivo, tal sector tem merecido aos planos de fomento nacional e à política do Ministério da Economia particular atenção e interesse, que se têm traduzido por um conjunto de medidas de natureza diversa, entre as quais se destacam as de apoio financeiro, de assistência técnica, de investigação e de formação profissional.\n\nNo entanto, verifica-se que o número de diplomados pela Escola Superior de Medicina Veterinária tem vindo progressivamente a diminuir, situando-se presentemente esse número a nível perigosamente baixo, facto que, a manter-se, virá a agravar cada vez mais o problema da falta de médicos veterinários para, nas diferentes regiões do País, poderem prestar assistência técnica às explorações pecuárias nos múltiplos ramos para que o respectivo curso os habilita.\n\nDa análise cuidadosa deste problema chegou-se à conclusão de que a diminuição da frequência e do número de diplomados por aquele estabelecimento de ensino está directamente relacionada com as precárias condições, agravadas de ano para ano, em que se encontram os veterinários municipais, facto que contribui fortemente para que o curso de Medicina Veterinária não ofereça atractivo de natureza económica para ser procurado pelos finalistas do ensino secundário.\n\nPor outro lado, e no referido estudo, chegou-se também à conclusão de que vantajoso se torna, quer para efeitos de intensificação da citada assistência técnica, quer para melhoria dos serviços de saúde pública, nos quais a medicina veterinária ocupa também papel destacado, criar subintendências de pecuária na directa dependência da Direcção-Geral dos Serviços Pecuários, ficando os respectivos cargos de subintendente a ser desempenhados pelos veterinários municipais.\n\nAdopta-se, deste modo, critério semelhante ao seguido no campo da saúde humana com a existência de subdelegações de saúde.\n\nAos subintendentes de pecuária ficará também a competir o desempenho das funções de subdelegados da Junta Nacional dos Produtos Pecuários.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Em cada concelho do continente e das ilhas adjacentes onde exista partido veterinário funcionará uma subintendência de pecuária.\n\n§ único. Quando dois ou mais partidos veterinários estiverem providos nos termos dos §§ 1.º a 3.º do artigo 152.º do Código Administrativo, haverá uma só subintendência de pecuária para os concelhos associados.\n\nArt. 2.º Cada subintendência de pecuária estará a cargo de um subintendente de pecuária, nomeado pelo Secretário de Estado da Agricultura.\n\n§ único. Nos concelhos em que exista mais do que um partido veterinário e o volume de serviço o justifique, poderá o Secretário de Estado da Agricultura nomear tantos subintendentes de pecuária quantos os partidos.\n\nArt. 3.º Nos concelhos onde não exista partido veterinário municipal ou onde este se encontre vago, as funções de subintendente de pecuária serão exercidas pelo subintendente de pecuária que for designado pelo director-geral dos Serviços Pecuários, tendo em conta as necessidades do serviço e os meios de comunicação existentes.\n\nArt. 4.º Compete aos subintendentes de pecuária coadjuvar os intendentes de pecuária em tudo o que respeita à saúde dos animais e ao fomento pecuário, bem como à higiene pública, nos termas das leis e regulamentos em vigor, desempenhando, para o efeito, as funções que lhes forem determinadas pela Direcção-Geral dos Serviços Pecuários.\n\nArt. 5.º As funções de subintendente de pecuária serão exercidas pelo veterinário municipal do respectivo partido veterinário.\n\nArt. 6.º Os veterinários municipais perceberão mensalmente, pelo exercício das funções de subintendente de pecuária, complemento de vencimento, pago por dotação a considerar na verba do pessoal dos quadros aprovados por lei, da Direcção-Geral dos Serviços Pecuários, na seguinte conformidade:\n\nSubintendente de pecuária em concelhos de 1.ª ordem - 1800$00;\n\nSubintendente de pecuária em concelhos de 2.ª ordem - 1500$00;\n\nSubintendente de pecuária em concelhos de 3.ª ordem - 1300$00.\n\n§ único. Havendo lugar ao aumento do complemento de vencimento do subintendente de pecuária por virtude de mudança da ordem administrativa do concelho, será o excesso transitòriamente pago pelas disponibilidades das dotações para pessoal dos quadros da Direcção-Geral dos Serviços Pecuários.\n\nArt. 7.º A concessão de quaisquer licenças aos veterinários municipais e a justificação de quaisquer outras faltas ao serviço produz efeitos relativamente ao cargo do subintendente de pecuária.\n\n§ único. A licença graciosa ou ilimitada carece de parecer favorável da Direcção-Geral dos Serviços Pecuários.\n\nArt. 8.º Para efeitos de aposentação dos subintendentes de pecuária será contado o tempo de serviço prestado como veterinário municipal anteriormente à nomeação para aquele cargo.\n\n§ único. A indemnização à Caixa Geral de Aposentações relativa àquela contagem será calculada em função do vencimento do cargo de subintendente de pecuária, com observância das disposições aplicáveis do artigo 12.º e seus §§ 1.º e 2.º do Decreto n.º 26503, de 6 de Abril de 1936, e artigo 11.º e seu § único do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957.\n\nArt. 9.º Os subintendentes de Pecuária e veterinários municipais serão sempre aposentados, simultâneamente, pelos dois cargos.\n\nArt. 10.º Os serviços mandados executar pela Direcção-Geral dos Serviços Pecuários que tenham carácter de campanhas que obriguem a intervenções repetidas em tempo predeterminado, serão remunerados nos termos que forem fixados por despacho do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças.\n\nArt. 11.º Para todos os efeitos legais, designadamente para atribuição de quaisquer abonos ou regalias e para determinação dos descontos obrigatórios que lhes competirem, quando uns e outros estejam relacionados com escalões de vencimentos, considera-se remuneração dos subintendentes de pecuária e veterinários municipais o somatório do ordenado e complemento de vencimento auferido pelo desempenho dos mencionados cargos.\n\nArt. 12.º Salvo nos casos em que haja lugar ao abono referido no artigo 10.º deste diploma, todas as deslocações que os subintendentes de pecuária sejam abrigados a efectuar no exercício das suas funções darão direito ao abono para despesas de transportes e a ajudas de custo, de harmonia com os preceitos gerais aplicáveis à generalidade dos servidores do Estado.\n\nArt. 13.º Constitui encargo das juntas gerais dos distritos autónomos das ilhas adjacentes o pagamento dos complementos de vencimentos e demais abonos a que tenham direito os subintendentes de pecuária dos mesmos distritos.\n\nArt. 14.º Os poderes conferidos neste decreto-lei à Direcção-Geral dos Serviços Pecuários competem, nas ilhas adjacentes, às respectivos juntas gerais.\n\nArt. 15.º A subintendente de pecuária compete, na área do partido veterinário onde tenha fixada a sua residência oficial, o desempenho das funções de subdelegado da Junta Nacional dos Produtos Pecuários sempre que nessa área exista subdelegação deste organismo.\n\n§ 1.º A Junta Nacional dos Produtos Pecuários depositará nos cofres do Estado e nos das juntas gerais dos distritos autónomos o valor das gratificações que correspondam às funções de subdelegado, a que se refere o corpo deste artigo, respectivamente no continente e nas ilhas adjacentes.\n\n§ 2.º Aqueles depósitos serão efectuados até ao dia 10 do mês seguinte àquele a que essas gratificações respeitam, mediante guias a emitir pela Direcção-Geral dos Serviços Pecuários, no que se refere ao continente, e pelas juntas gerais dos distritos autónomos, no que se refere às ilhas adjacentes.\n\nArt. 16.º Consideram-se providos a partir do início da vigência deste decreto-lei nos cargos de subintendente de pecuária, independentemente de quaisquer formalidades, incluindo o visto do Tribunal de Contas, os veterinários municipais constantes da relação que entretanto será publicada pela Secretaria de Estado da Agricultura.\n\nArt. 17.º O capítulo V da tabela A anexa ao Código Administrativo passa a ter a seguinte redacção:\n\nOrdenados do pessoal maior dos serviços especiais:\n\n...\n\nVeterinários municipais: ... Fixos\n\nNos concelhos de 1.ª ordem ... 3600$00\n\nNos concelhos de 2.ª ordem ... 3000$00\n\nNos concelhos de 3.ª ordem ... 2700$00\n\n...\n\nArt. 18.º As dúvidas que se suscitem acerca da execução e interpretação do presente diploma serão resolvidas por despacho do Ministro do Interior e do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças quando se trate de matéria de natureza financeira.\n\nArt. 19.º Ficam revogados o artigo 9.º do [Decreto-Lei n.º 37051](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37051-1948-372262), de 9 de Setembro de 1948, e o [Decreto-Lei n.º 39122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39122-1953-527074), de 4 de Março de 1953.\n\nArt. 20.º Este decreto-lei entra em vigor no dia 1 do mês seguinte àquele em que se completarem sessenta dias após a sua publicação. Entretanto serão publicadas, para entrarem em vigor na mesma data, as alterações orçamentais necessárias à execução deste diploma, as quais poderão ter lugar mediante simples decreto referendado pelo Ministro das Finanças e o Secretário de Estado da Agricultura.\n\nMarcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - João José Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado.\n\nPromulgado em 30 de Novembro de 1968.\n\nPublique-se.\n\nPresidência da República, 11 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "867d2a4c7b7bbb94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O fomento pecuário é um dos sectores considerados prioritários para acelerar o ritmo do desenvolvimento económico do País, não só por nele assentar uma das mais eficazes bases da reconversão da nossa agricultura e consequente aumento da sua rentabilidade, como também para satisfação das necessidades crescentes da população portuguesa em produtos de origem animal.\n\nPor este motivo, tal sector tem merecido aos planos de fomento nacional e à política do Ministério da Economia particular atenção e interesse, que se têm traduzido por um conjunto de medidas de natureza diversa, entre as quais se destacam as de apoio financeiro, de assistência técnica, de investigação e de formação profissional.\n\nNo entanto, verifica-se que o número de diplomados pela Escola Superior de Medicina Veterinária tem vindo progressivamente a diminuir, situando-se presentemente esse número a nível perigosamente baixo, facto que, a manter-se, virá a agravar cada vez mais o problema da falta de médicos veterinários para, nas diferentes regiões do País, poderem prestar assistência técnica às explorações pecuárias nos múltiplos ramos para que o respectivo curso os habilita.\n\nDa análise cuidadosa deste problema chegou-se à conclusão de que a diminuição da frequência e do número de diplomados por aquele estabelecimento de ensino está directamente relacionada com as precárias condições, agravadas de ano para ano, em que se encontram os veterinários municipais, facto que contribui fortemente para que o curso de Medicina Veterinária não ofereça atractivo de natureza económica para ser procurado pelos finalistas do ensino secundário.\n\nPor outro lado, e no referido estudo, chegou-se também à conclusão de que vantajoso se torna, quer para efeitos de intensificação da citada assistência técnica, quer para melhoria dos serviços de saúde pública, nos quais a medicina veterinária ocupa também papel destacado, criar subintendências de pecuária na directa dependência da Direcção-Geral dos Serviços Pecuários, ficando os respectivos cargos de subintendente a ser desempenhados pelos veterinários municipais.\n\nAdopta-se, deste modo, critério semelhante ao seguido no campo da saúde humana com a existência de subdelegações de saúde.\n\nAos subintendentes de pecuária ficará também a competir o desempenho das funções de subdelegados da Junta Nacional dos Produtos Pecuários.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "525ef17abe30b611": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nEm cada concelho do continente e das ilhas adjacentes onde exista partido veterinário funcionará uma subintendência de pecuária.\n\n§ único. Quando dois ou mais partidos veterinários estiverem providos nos termos dos §§ 1.º a 3.º do artigo 152.º do Código Administrativo, haverá uma só subintendência de pecuária para os concelhos associados."
+  },
+  "a22789dcd69a4e32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCada subintendência de pecuária estará a cargo de um subintendente de pecuária, nomeado pelo Secretário de Estado da Agricultura.\n\n§ único. Nos concelhos em que exista mais do que um partido veterinário e o volume de serviço o justifique, poderá o Secretário de Estado da Agricultura nomear tantos subintendentes de pecuária quantos os partidos."
+  },
+  "3448bcaf4e104678": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNos concelhos onde não exista partido veterinário municipal ou onde este se encontre vago, as funções de subintendente de pecuária serão exercidas pelo subintendente de pecuária que for designado pelo director-geral dos Serviços Pecuários, tendo em conta as necessidades do serviço e os meios de comunicação existentes."
+  },
+  "f2ed5a34c99ddbc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nCompete aos subintendentes de pecuária coadjuvar os intendentes de pecuária em tudo o que respeita à saúde dos animais e ao fomento pecuário, bem como à higiene pública, nos termas das leis e regulamentos em vigor, desempenhando, para o efeito, as funções que lhes forem determinadas pela Direcção-Geral dos Serviços Pecuários."
+  },
+  "b27d9c0765e5a4f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs funções de subintendente de pecuária serão exercidas pelo veterinário municipal do respectivo partido veterinário."
+  },
+  "8d492e88d97b9036": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1969-08-06",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 49174](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49174-1969-198896), publicado em 1969-08-06."
+   ],
+   "markdown": "###### Artigo 6.º\n\nOs veterinários municipais perceberão mensalmente, pelo exercício das funções de subintendente de pecuária, complemento de vencimento, pago por dotação a considerar na verba do pessoal dos quadros aprovados por lei, da Direcção-Geral dos Serviços Pecuários, na seguinte conformidade:\n\nSubintendente de pecuária em concelhos de 1.ª ordem - 1800$00;\n\nSubintendente de pecuária em concelhos de 2.ª ordem - 1500$00;\n\nSubintendente de pecuária em concelhos de 3.ª ordem - 1300$00.\n\n§ 1.º É aplicável ao complemento de vencimento dos subintendentes de pecuária o regime prescrito no § 1.º do artigo 527.º do Código Administrativo.\n\n§ 2.º Havendo lugar ao aumento do complemento de vencimento do subintendente de pecuária, por virtude de mudança da ordem administrativa do concelho, será o excesso transitòriamente pago pelas disponibilidades das dotações para pessoal dos quadros da Direcção-Geral dos Serviços Pecuários.\n\n> Alterado pelo/a [Decreto-Lei n.º 49174](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49174-1969-198896), publicado em 1969-08-06."
+  },
+  "6bbf9a8440c2e38d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA concessão de quaisquer licenças aos veterinários municipais e a justificação de quaisquer outras faltas ao serviço produz efeitos relativamente ao cargo do subintendente de pecuária.\n\n§ único. A licença graciosa ou ilimitada carece de parecer favorável da Direcção-Geral dos Serviços Pecuários."
+  },
+  "af051b7599a87294": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara efeitos de aposentação dos subintendentes de pecuária será contado o tempo de serviço prestado como veterinário municipal anteriormente à nomeação para aquele cargo.\n\n§ único. A indemnização à Caixa Geral de Aposentações relativa àquela contagem será calculada em função do vencimento do cargo de subintendente de pecuária, com observância das disposições aplicáveis do artigo 12.º e seus §§ 1.º e 2.º do Decreto n.º 26503, de 6 de Abril de 1936, e artigo 11.º e seu § único do [Decreto-Lei n.º 41387](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41387-1957-251643), de 22 de Novembro de 1957."
+  },
+  "00325a87c5c6278f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs subintendentes de Pecuária e veterinários municipais serão sempre aposentados, simultâneamente, pelos dois cargos."
+  },
+  "1f38ff8596074598": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs serviços mandados executar pela Direcção-Geral dos Serviços Pecuários que tenham carácter de campanhas que obriguem a intervenções repetidas em tempo predeterminado, serão remunerados nos termos que forem fixados por despacho do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças."
+  },
+  "e8a2372b9a45c8ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nPara todos os efeitos legais, designadamente para atribuição de quaisquer abonos ou regalias e para determinação dos descontos obrigatórios que lhes competirem, quando uns e outros estejam relacionados com escalões de vencimentos, considera-se remuneração dos subintendentes de pecuária e veterinários municipais o somatório do ordenado e complemento de vencimento auferido pelo desempenho dos mencionados cargos."
+  },
+  "6b459ae2bdf31f0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nSalvo nos casos em que haja lugar ao abono referido no artigo 10.º deste diploma, todas as deslocações que os subintendentes de pecuária sejam abrigados a efectuar no exercício das suas funções darão direito ao abono para despesas de transportes e a ajudas de custo, de harmonia com os preceitos gerais aplicáveis à generalidade dos servidores do Estado."
+  },
+  "2618c10c05a87aa9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nConstitui encargo das juntas gerais dos distritos autónomos das ilhas adjacentes o pagamento dos complementos de vencimentos e demais abonos a que tenham direito os subintendentes de pecuária dos mesmos distritos."
+  },
+  "2e27df1e0546d55b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs poderes conferidos neste decreto-lei à Direcção-Geral dos Serviços Pecuários competem, nas ilhas adjacentes, às respectivos juntas gerais."
+  },
+  "83cfa75e4184d01b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA subintendente de pecuária compete, na área do partido veterinário onde tenha fixada a sua residência oficial, o desempenho das funções de subdelegado da Junta Nacional dos Produtos Pecuários sempre que nessa área exista subdelegação deste organismo.\n\n§ 1.º A Junta Nacional dos Produtos Pecuários depositará nos cofres do Estado e nos das juntas gerais dos distritos autónomos o valor das gratificações que correspondam às funções de subdelegado, a que se refere o corpo deste artigo, respectivamente no continente e nas ilhas adjacentes.\n\n§ 2.º Aqueles depósitos serão efectuados até ao dia 10 do mês seguinte àquele a que essas gratificações respeitam, mediante guias a emitir pela Direcção-Geral dos Serviços Pecuários, no que se refere ao continente, e pelas juntas gerais dos distritos autónomos, no que se refere às ilhas adjacentes."
+  },
+  "7a17a76084b8f9c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nConsideram-se providos a partir do início da vigência deste decreto-lei nos cargos de subintendente de pecuária, independentemente de quaisquer formalidades, incluindo o visto do Tribunal de Contas, os veterinários municipais constantes da relação que entretanto será publicada pela Secretaria de Estado da Agricultura."
+  },
+  "a32b1379c19e1ebe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO capítulo V da tabela A anexa ao Código Administrativo passa a ter a seguinte redacção:\n\nOrdenados do pessoal maior dos serviços especiais:\n\n...\n\nVeterinários municipais: ... Fixos\n\nNos concelhos de 1.ª ordem ... 3600$00\n\nNos concelhos de 2.ª ordem ... 3000$00\n\nNos concelhos de 3.ª ordem ... 2700$00\n\n..."
+  },
+  "ad32b5e0f0f5c32c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAs dúvidas que se suscitem acerca da execução e interpretação do presente diploma serão resolvidas por despacho do Ministro do Interior e do Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças quando se trate de matéria de natureza financeira."
+  },
+  "68a72c990eeaa166": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nFicam revogados o artigo 9.º do [Decreto-Lei n.º 37051](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37051-1948-372262), de 9 de Setembro de 1948, e o [Decreto-Lei n.º 39122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39122-1953-527074), de 4 de Março de 1953."
+  },
+  "5670b60735225c9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nEste decreto-lei entra em vigor no dia 1 do mês seguinte àquele em que se completarem sessenta dias após a sua publicação. Entretanto serão publicadas, para entrarem em vigor na mesma data, as alterações orçamentais necessárias à execução deste diploma, as quais poderão ter lugar mediante simples decreto referendado pelo Ministro das Finanças e o Secretário de Estado da Agricultura.\n\nMarcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - João José Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado.\n\nPromulgado em 30 de Novembro de 1968.\n\nPublique-se.\n\nPresidência da República, 11 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

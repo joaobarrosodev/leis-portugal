@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-05-26'
+version_history:
+  file: decreto-lei-287-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-05-26'
+    amending: pt:dre:639974:por
+    amending_title: Decreto-Lei n.º 191/91
+    changes:
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: null
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:20:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 191/91. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1987/decreto-lei-287-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -195,9 +210,11 @@ Ao subsídio previsto no artigo 83.º do [Decreto-Lei n.º 498/72](https://diari
 
 ###### Artigo 6.º — Contribuição para a Caixa Nacional de Previdência
 
-1 - O IACAPS, na qualidade de entidade patronal, entregará mensalmente à Caixa Nacional de Previdência (CGA e Montepio dos Servidores do Estado) uma quantia correspondente a 5% das remunerações sujeitas a desconto para esta instituição, de todo o seu pessoal, como contribuição para o financiamento do sistema.
+1 - O IACAPS, na qualidade de entidade patronal, entregará mensalmente à Caixa Nacional de Previdência (CGA e Montepio dos Servidores do Estado) uma quantia correspondente a 8% das remunerações sujeitas a desconto para esta instituição de todo o seu pessoal, como contribuição para o financiamento do sistema.
 
 2 - O desconto referido no número anterior será efectuado simultaneamente com a entrega das quotas do respectivo pessoal e poderá ser actualizado por portaria do Ministro das Finanças, caso se verifiquem alterações nos parâmetros estruturais do sistema de aposentação da função pública.
+
+> Alterado pelo/a [Decreto-Lei n.º 191/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1991-639974), publicado em 1991-05-21.
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1987. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Manuel Carlos Carvalho Fernandes - António Amaro de Matos.
 

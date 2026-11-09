@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-08-19'
+version_history:
+  file: decreto-regional-24-82-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-09-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-08-19'
+    amending: pt:dre:455116:por
+    amending_title: Decreto Legislativo Regional n.º 26/83/A
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:24:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    26/83/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regionais/1982/decreto-regional-24-82-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,15 +173,27 @@ Por isso, parece evidente que este projecto não ofende a Constituição nem qua
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-Artigo 1.º - Na Região Autónoma dos Açores, a formação do contrato de arrendamento urbano para habitação e a fixação ou alteração das respectivas rendas regulam-se pelo presente diploma.
+###### Artigo 1.º
 
-Art. 2.º - 1 - Sem prejuízo do disposto no n.º 3 do artigo 5.º, é livre a estipulação de rendas nos novos contratos de arrendamento.
+Na Região Autónoma dos Açores, a formação do contrato de arrendamento urbano para habitação e a fixação ou alteração das respectivas rendas regulam-se pelo presente diploma.
+
+###### Artigo 2.º
+
+1 - Sem prejuízo do disposto no n.º 3 do artigo 5.º, é livre a estipulação de rendas nos novos contratos de arrendamento.
 
 2 - É de 2 anos o prazo para, após a fixação de qualquer renda, requerer avaliação fiscal para alteração da mesma.
 
-Art. 3.º - Os senhorios que levarem a efeito, em fogos dados de arrendamento, quaisquer benfeitorias necessárias de carácter extraordinário podem, findos os respectivos trabalhos, requerer avaliação para fixação de nova renda, independentemente dos limites estabelecidos nos artigos anteriores.
+###### Artigo 3.º
 
-Art. 4.º - Não pode ser recusado o arrendamento de qualquer fogo desocupado, salvo se:
+1 - Os senhorios que levarem a efeito, em fogos dados de arrendamento, quaisquer benfeitorias necessárias de carácter extraordinário podem, findos os respectivos trabalhos, requerer avaliação para fixação de nova renda, independentemente dos limites estabelecidos nos artigos anteriores.
+
+2 - Sempre que a renda resultante da avaliação referida no número anterior exceder o dobro da renda praticada à data do pedido, a nova renda não será superior àquele limite nos 12 meses subsequentes à fixação.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 26/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1983-455116), publicado em 1983-08-19.
+
+###### Artigo 4.º
+
+Não pode ser recusado o arrendamento de qualquer fogo desocupado, salvo se:
 
 a) For destinado a venda, e apenas durante o período de 6 meses após a emissão da respectiva licença de utilização, em que não tiver sido transmitido;
 
@@ -173,13 +201,17 @@ b) For destinado a habitação própria do seu dono ou possuidor em nome própri
 
 c) For destinado pela empresa sua proprietária a alojamento do respectivo pessoal.
 
-Art. 5.º - 1 - O interessado em tomar de arrendamento qualquer fogo, com base no artigo anterior, que não consiga para o efeito chegar a acordo com o potencial senhorio, poderá requerer o suprimento judicial do respectivo consentimento.
+###### Artigo 5.º
+
+1 - O interessado em tomar de arrendamento qualquer fogo, com base no artigo anterior, que não consiga para o efeito chegar a acordo com o potencial senhorio, poderá requerer o suprimento judicial do respectivo consentimento.
 
 2 - A petição indicará, além do mais, os elementos do contrato proposto.
 
 3 - A sentença fixará a renda e as demais cláusulas do contrato, de harmonia com o prudente arbítrio do julgador.
 
-Art. 6.º - 1 - Nos contratos de arrendamento que tiverem a sua renda fixada, em regime legal de liberdade contratual, após 12 de Setembro de 1974 a primeira avaliação não poderá fixar renda superior às resultantes da aplicação à vigente dos seguintes coeficientes, em relação ao ano a que disser respeito aquela fixação:
+###### Artigo 6.º
+
+1 - Nos contratos de arrendamento que tiverem a sua renda fixada, em regime legal de liberdade contratual, após 12 de Setembro de 1974 a primeira avaliação não poderá fixar renda superior às resultantes da aplicação à vigente dos seguintes coeficientes, em relação ao ano a que disser respeito aquela fixação:
 
 ... Percentagens
 
@@ -215,21 +247,35 @@ De 1966 a 1970 ... 2000$00
 
 De 1971 a 12 de Setembro de 1974 ... 2250$00
 
-Art. 7.º - Nas futuras avaliações dos prédios cujas rendas porventura tenham sido revistas entre 27 de Junho de 1981 e a data de entrada em vigor deste decreto regional serão tidos em conta os critérios estabelecidos neste diploma, desde que seja necessário torná-las compatíveis com os mesmos.
+###### Artigo 7.º
 
-Art. 8.º - 1 - Em todos os demais arrendamentos não rurais aplica-se o disposto no artigo 2.º do presente diploma.
+Nas futuras avaliações dos prédios cujas rendas porventura tenham sido revistas entre 27 de Junho de 1981 e a data de entrada em vigor deste decreto regional serão tidos em conta os critérios estabelecidos neste diploma, desde que seja necessário torná-las compatíveis com os mesmos.
 
-2 - Porém, os arrendamentos para fins comerciais, industriais e para exercício de profissão liberal ficam sujeitos à legislação especial existente a nível nacional.
+###### Artigo 8.º
 
-Art. 9.º - Em todos os arrendamentos não rurais a entidades não portuguesas é lícita a estipulação de rendas em moeda estrangeira, nos termos do artigo 558.º do Código Civil.
+Em todos os demais arrendamentos não rurais aplica-se o disposto nos artigos 2.º e 3.º do presente diploma.
 
-Art. 10.º - Em tudo o mais vigorará o disposto no Código Civil e legislação complementar.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 26/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1983-455116), publicado em 1983-08-19.
 
-Art. 11.º - O disposto no presente diploma entende-se sem prejuízo da legislação regional sobre arrendamento por períodos limitados.
+###### Artigo 9.º
 
-Art. 12.º - São revogados os decretos regionais que foram publicados sob os números 2/77/A e 6/77/A, respectivamente em 14 de Março e em 21 de Abril.
+Em todos os arrendamentos não rurais a entidades não portuguesas é lícita a estipulação de rendas em moeda estrangeira, nos termos do artigo 558.º do Código Civil.
 
-Art. 13.º - O presente decreto regional entra em vigor na data da sua publicação.
+###### Artigo 10.º
+
+Em tudo o mais vigorará o disposto no Código Civil e legislação complementar.
+
+###### Artigo 11.º-O
+
+disposto no presente diploma entende-se sem prejuízo da legislação regional sobre arrendamento por períodos limitados.
+
+###### Artigo 12.º
+
+São revogados os decretos regionais que foram publicados sob os números 2/77/A e 6/77/A, respectivamente em 14 de Março e em 21 de Abril.
+
+###### Artigo 13.º-O
+
+presente decreto regional entra em vigor na data da sua publicação.
 
 Aprovado pela Assembleia Regional dos Açores em 30 de Junho de 1982.
 

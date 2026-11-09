@@ -1,0 +1,353 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:642956:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-07-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e82d5be5bd62d89d",
+    "5c41cf953d23dc74",
+    "7a9c7580e3365a9a",
+    "555b8220abab00ed",
+    "ef06bde2fd2f1906",
+    "7c59d4f1e1bc8036",
+    "3ebead66f21810e5"
+   ]
+  },
+  {
+   "date": "1986-12-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221287:por",
+     "title": "Decreto-Lei n.º 408/86",
+     "published": "1986-12-11",
+     "dre_path": "/dr/detalhe/decreto-lei/408-1986-221287"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º"
+   ],
+   "fragments": [
+    "713f98b1088765a0",
+    "ec7f00bb31a3f8b1",
+    "4063a5c549d4ffb1",
+    "78791b7e587dce18",
+    "0df9e65dc9f48731",
+    "ec54d54e7dc94c52",
+    "e207bf76a09e4a4f",
+    "f64558354b108547",
+    "681a081e464e8a31",
+    "c8eb5618626b8116",
+    "91ff49ec8d8081eb",
+    "e2186c634bbaabf5",
+    "866dd440dd04d3fd",
+    "a334d122eff787ca",
+    "3739251be16b3e81",
+    "a49b20efc12563f5",
+    "ba4d196a44e8b7e5",
+    "ed43815006502155",
+    "08694afc6d04ab88",
+    "751831f26268b21b",
+    "fa72cd5cac51b895",
+    "358078e37ae68636",
+    "5c41cf953d23dc74",
+    "7a9c7580e3365a9a",
+    "555b8220abab00ed",
+    "ef06bde2fd2f1906",
+    "7c59d4f1e1bc8036",
+    "3ebead66f21810e5"
+   ]
+  }
+ ],
+ "fragments": {
+  "e82d5be5bd62d89d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Julho\n\nA [Lei n.º 3/70](https://diariodarepublica.pt/dr/detalhe/lei/3-1970-225987), de 28 de Abril, autorizou o Governo a outorgar a uma empresa de economia mista, a constituir, a concessão exclusiva da exploração do turismo e dos desportos na serra da Estrela.\n\nTal orientação foi tomada tendo em vista propósitos de progressivo aproveitamento das potencialidades turísticas nacionais e conveniente integração do desenvolvimento regional na política de fomento económico-social do País e correcção dos desequilíbrios regionais.\n\nO presente diploma concretiza a política já definida, ao considerar a constituição da empresa de economia mista, Turismo da Serra da Estrela, Turistrela, S. A. R. L., e ao aprovar as bases do respectivo contrato de concessão.\n\nA existência de uma concessão em exclusivo e as particularidades de uma empresa de economia mista recomendam ainda que se encarem com algum pormenor aspectos específicos que decorrem destas circunstâncias.Nestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º É outorgada a Turismo da Serra da Estrela, Turistrela, S. A. R. L., empresa de economia mista, a constituir de acordo com a [Lei n.º 3/70](https://diariodarepublica.pt/dr/detalhe/lei/3-1970-225987), de 28 de Abril, a concessão em exclusivo da exploração do turismo e dos desportos na serra da Estrela.\n\nArt.2.º - 1. São aprovadas as bases do respectivo contrato de concessão do exclusivo, anexas ao presente decreto-lei, que, para todos os efeitos, são consideradas como fazendo dele parte integrante.\n\n2. As áreas abrangidas pela concessão do exclusivo são as que constam da planta anexa a este diploma.\n\n3. Ressalvam-se os direitos das entidades particulares, actualmente instaladas nas áreas da concessão, que demonstrem desenvolver uma actividade efectiva e regular na exploração do turismo e dos desportos.\n\n4. A Direcção-Geral do Turismo será o organismo competente para proceder ao inventário das actividades referidas no número anterior.\n\n5. Poderão ainda ser integradas na zona do exclusivo, se nisso acordarem o Estado e a concessionária, determinadas áreas e os estabelecimentos que interessem ao exercício de actividades relacionadas com a exploração do turismo na serra da Estrela.\n\nArt. 3.º - 1. No contrato administrativo de concessão outorgará, por parte do Estado, o Secretário de Estado da Informação e Turismo.\n\n2. Os poderes do concedente no que respeita ao objecto desta concessão serão igualmente exercidos pelo Secretário de Estado da Informação e Turismo, depois de ouvidos, conforme a natureza dos interesses em jogo, os Ministérios competentes.\n\nArt. 4.º - 1. A aprovação dos planos de urbanização das áreas incluídas na zona da concessão, e de que obrigatóriamente deverão constar as localizações dos conjuntos turísticos, pertence conjuntamente ao Ministério das Obras Públicas e ao Secretário de Estado da Informação e Turismo, ouvidas as instâncias competentes.\n\n2. Se no prazo de cento e vinte dias a contar da entrega, pela empresa concessionária, dos respectivos projectos de planos de urbanização, não recair sobre os mesmos despacho definitivo, consideram-se estes aprovados.\n\nArt. 5.º - 1. A aprovação dos projectos das obras integradas nos conjuntos turísticos é da competência da Direcção-Geral do Turismo, com audiência prévia e vinculante de outras entidades ou serviços a que, nos termos da lei, houver lugar.\n\n2. Se a Direcção-Geral do Turismo não se pronunciar definitivamente no prazo de cento e vinte dias, a contar da apresentação dos projectos, considerar-se-ão os mesmos aprovados.\n\nArt. 6.º Compete à câmara municipal do concelho onde se localizar a obra a atribuição das licenças de construção, de harmonia com os planos de urbanização e os projectos aprovados, devendo o respectivo alvará ser expedido no prazo de cinco dias.\n\nArt. 7.º O prazo da presente concessão é de sessenta anos, contados a partir da data da celebração do respectivo contrato.\n\nArt. 8.º - 1. Os limites máximos das taxas e dos preços a cobrar, relativos aos vários serviços explorados na zona da concessão, e bem assim as respectivas regras de aplicação, serão fixados pelo Governo nos termos legais, sob proposta da concessionária.\n\n2. Se o Governo não se pronunciar definitivamente, no prazo de sessenta dias, a contar da apresentação das propostas de fixação ou alteração de taxas e das regras de aplicação, consideram-se as mesmas aprovadas.\n\nArt. 9.º - 1. Compete ao Governo, sob proposta da concessionária, aprovar os regulamentos necessários à exploração da concessão.\n\n2. Consideram-se aprovados os regulamentos apresentados pela concessionária, decorridos noventa dias a partir da apresentação, se o Governo não se pronunciar definitivamente sobre o seu conteúdo.\n\nArt. 10.º Os regulamentos de exploração podem cominar a aplicação aos seus contraventores de penas de multas até 500$00, acrescidos de um terço por cada reincidência, cujo produto reverterá para o Estado.\n\nArt. 11.º - 1. A concessionária gozará, relativamente ao objecto da concessão, dos benefícios seguintes:\n\na) Isenção de todos os impostos devidos ao Estado e às autarquias locais, salvo o imposto do selo, por um período de quinze anos, a contar da data da celebração do contrato;\n\nb) Isenção de direitos de importação relativos aos materiais e equipamentos destinados definitivamente às obras, instalações e apetrechamentos turísticos e desportivos;\n\nc) Concessão do regime de importação temporária para os equipamentos, ferramentas e utensílios destinados à execução das obras e trabalhos preliminares pelo prazo que para esse efeito for necessário.\n\n2. A isenção prevista na alínea a) do n.º 1 deste artigo não abrange o imposto de transacções nem o imposto extraordinário para defesa e valorização do ultramar.\n\nArt. 12.º - 1. A empresa de economia mista Turismo da Serra da Estrela, Turistrela, S. A. R. L., constituir-se-á com um capital social inicial de 60000000$00, elevável, por simples deliberação do conselho de administração, até 120000000$00.\n\n2. A participação do sector público e do sector privado no capital social inicial traduzir-se-á, respectivamente, em 31000000$00 e 29000000$00.\n\n3. A participação do sector público será obtida à custa do Fundo de Turismo, da Comissão Regional de Turismo da Serra da Estrela, das câmaras municipais dos concelhos abrangidos na área da concessão e das juntas de freguesia das zonas de actuação da empresa.\n\n4. Os limites da participação da Comissão Regional de Turismo da Serra da Estrela e das autarquias locais no capital social inicial totalizarão, respectivamente, 10000000$00 e 6000000$00.\n\n5. O Fundo de Turismo subscreverá, no capital social inicial, não só os restantes 15000000$00 até ao limite da participação pública de 31000000$00. como ainda a parte do montante das acções atribuídas à Comissão Regional de Turismo da Serra da Estrela e às autarquias locais que não venham a ser efectivamente tomadas por estas entidades.\n\n6. Ficam desde já autorizados os entes públicos a subscrever futuros aumentos de capital, na proporção das respectivas posições iniciais.\n\n7. O Fundo de Turismo goza do direito de preferência no rateio dos aumentos de capital social que couberem aos entes públicos e por estes não subscritos.\n\nArt. 13.º - 1. As acções de Turismo da Serra da Estrela, Turistrela, S. A. R. L., serão nominativas ou ao portador, livremente convertíveis com excepção das acções dos entes públicos que, enquanto se mantiverem na sua posse, serão sempre nominativas.\n\n2. A Comissão Regional de Turismo da Serra da Estrela e as autarquias locais não poderão negociar as acções que possuam na sociedade.\n\nArt. 14.º - 1. O conselho de administração da sociedade será constituído por cinco administradores, três em representação do sector público e dois em representação do sector privado.\n\n2. Na representação do sector público haverá um administrador pelo Fundo de Turismo, outro pela Comissão Regional de Turismo da Serra da Estrela e o terceiro pelas câmaras municipais e juntas de freguesia.\n\n3. Os dois administradores pelo sector privado serão eleitos em assembleia geral constituída apenas pelos accionistas deste sector.\n\nArt. 15.º - 1. O administrador por parte do Fundo de Turismo será nomeado pela comissão administrativa do Fundo e terá todos os direitos e obrigações que o [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, atribui aos administradores nomeados pelo Governo.\n\n2. O Fundo de Turismo terá um administrador na sociedade enquanto dispuser na mesma uma participação accionista de pelo menos 10 por cento do capital social.\n\n3. Enquanto existir na empresa um administrador pelo Fundo de Turismo o Estado não usará da faculdade do [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), quanto à nomeação de administradores pelo Governo.\n\nArt. 16.º A Comissão Regional de Turismo da Serra da Estrela nomeará, em reunião extraordinária especialmente convocada pelo seu presidente para esse fim, o administrador que a representará na sociedade, devendo a escolha recair sobre um indivíduo com residência habitual na região de turismo.\n\nArt. 17.º - 1. O administrador por parte das câmaras municipais e juntas de freguesia será eleito em reunião de representantes destas autarquias locais expressamente realizadas para esse fim, devendo a escolha recair sobre indivíduo com residência habitual na região de turismo.\n\n2. O número de votos de cada representante das câmaras municipais e das juntas de freguesia na reunião eleitoral será proporcional às acções que dispuserem na sociedade.\n\n3. A iniciativa da organização desta assembleia eleitoral caberá à câmara municipal do concelho onde a empresa tem a sua sede.\n\n4. O representante de cada município na assembleia eleitoral será escolhido entre os indivíduos residentes no concelho, pela respectiva câmara municipal, em reunião expressamente convocada para esse fim.\n\n5. O representante de cada junta de freguesia na assembleia eleitoral será escolhido em reunião de junta, expressamente convocada para tal fim de entre os chefes de família residentes na área da freguesia.\n\nArt.18.º - 1. O mandato dos administradores por parte do sector público tem a duração do dos administradores que representam o sector privado.\n\n2. É admitida a recondução expressa do administrador pelo Fundo de Turismo e a reeleição dos administradores pela Comissão Regional de Turismo e pelas câmaras municipais e juntas de freguesia.\n\nArt. 19.º O presidente do conselho administrativo será designado pelo Secretário de Estado da Informação e Turismo, de entre os administradores que tenham residência habitual na área da região de turismo.\n\nArt. 20.º - 1. O conselho fiscal da sociedade será composto por três membros efectivos e um suplente.\n\n2. O presidente do conselho fiscal será nomeado pelo Secretário de Estado da Informação e Turismo entre os indivíduos com residência habitual na região de turismo.\n\n3. Os restantes vogais do conselho fiscal serão eleitos em assembleia constituída por todos os accionistas, com excepção do Fundo de Turismo.\n\nArt. 21.º A empresa de economia mista Turismo da Serra da Estrela, Turistrela, S. A. R. L., terá a sua sede na Covilhã.\n\nVisto o aprovado em Conselho de Ministros. - Marcello Caetano.\n\nPromulgado em 12 de Julho de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/17600/11001106.pdf)\n\nO Presidente do Conselho, Marcello Caetano.\n\nAnexo ao Decreto-Lei n.º 325/71\n\nBases do contrato da concessão a Turismo da Serra da Estrela, Turistrela, S. A. R. L., do exclusivo da exploração do turismo e dos desportos na serra da Estrela."
+  },
+  "5c41cf953d23dc74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO I — Objecto da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Objecto da concessão\n\nBASE I\n\n(Objecto)\n\nA concessão a que se refere o presente contrato tem por objectivo o exclusivo da exploração do turismo e dos desportos na serra da Estrela, de acordo com a [Lei n.º 3/70](https://diariodarepublica.pt/dr/detalhe/lei/3-1970-225987), de 28 de Abril."
+  },
+  "7a9c7580e3365a9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO II — Planos, construções e apetrechamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Planos, construções e apetrechamentos\n\nBASE II\n\n(Plano das obras e instalações)\n\n1. As obras de exploração do turismo e desportos serão realizadas por fases.\n\n2. Numa primeira fase, a concessionária obriga-se a executar todas as obras indispensáveis ao funcionamento do teleférico Piornos-Torre e ao aproveitamento para fins turísticos das instalações cedidas pela Secretaria de Estado da Aeronáutica.\n\n3. A localização das restantes instalações de exploração do turismo e dos desportos e o seu adequado apetrechamento constarão de planos a aprovar pelo Governo.\n\n4. Se no prazo de cento e vinte dias, a contar da entrega, pela concessionária, de cada um dos planos previstos no número anterior, não recair sobre os mesmos decisão definitiva, considerar-se-ão aprovados.\n\nBASE III\n\n(Execução das obras)\n\n1. Constitui encargo da concessionária elaborar e submeter à aprovação da fiscalização os projectos, os cadernos de encargos ou as normas de construção e os programas de trabalho.\n\n2. Cabe também à concessionária elaborar e submeter à aprovação da fiscalização as especificações técnicas e os cadernos de encargos relativos aos funcionamentos dos equipamentos.\n\n3. Se a fiscalização não se pronunciar, no prazo de sessenta dias, sobre a matéria dos números anteriores, o silêncio significa aprovação.\n\n4. A execução das obras não efectuadas em regime de administração directa e os fornecimentos de equipamentos só poderão ser feitos mediante concurso público ou limitado.\n\nBASE IV\n\n(Instalações e equipamentos)\n\n1. Competirá à concessionária o estabelecimento e a exploração, com carácter permanente, das instalações e dos equipamentos necessários à exploração do turismo e dos desportos.\n\n2. A concessionária instalará e explorará a rede de distribuição de água potável, a rede de distribuição de energia eléctrica para iluminação e força motriz e a rede de esgotos.\n\nBASE V\n\n(Prazos)\n\n1. O prazo para a conclusão da primeira fase das obras e instalações é fixado em dois anos, a contar da data da assinatura do contrato de concessão.\n\n2. Os prazos referentes às obras das fases posteriores serão fixados pelo Governo, depois de ouvidas as entidades oficiais competentes e a empresa concessionária, sobre a oportunidade da respectiva execução e do tempo necessário para as realizar.\n\nBASE VI\n\n(Entrada em serviço)\n\nConcluídas as obras de cada fase, a concessionária comunicá-lo-á ao Governo por intermédio da fiscalização, a fim de ser constituída a comissão de vistoria, autorizando-se a exploração logo que esteja aprovado o respectivo auto, se deste constar parecer em tal sentido.\n\nBASE VII\n\n(Despesas de conservação e reparação)\n\nA conservação e reparação das obras, instalações e equipamentos referidos nas bases anteriores é da exclusiva responsabilidade da concessionária.\n\nBASE VIII\n\n(Fundo de renovação)\n\n1. Para ocorrer aos encargos emergentes das obrigações de reparação, conservação e reapetrechamento poderá o Governo determinar, decorridos que sejam os primeiros dez anos de exploração, a constituição de um fundo de amortização e renovação, em termos a estabelecer sob proposta da concessionária.\n\n2. Com autorização do Governo, poderá o fundo ser investido em novas aquisições ou ter outra aplicação reputada útil."
+  },
+  "555b8220abab00ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO III — Exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Exploração\n\nBASE IX\n\n(Serviços operacionais de natureza turística e desportiva)\n\n1. A concessionária promoverá a instalação e explorará em exclusivo, de forma regular e contínua, os serviços de natureza turística e desportiva.\n\n2. Os serviços abrangidos no número anterior compreendem:\n\na) Hotéis, pensões, estalagens, motéis e outros meios similares ou complementares;\n\nb) Restaurantes, cafés, bares e estabelecimentos similares;\n\nc) Teleféricos, telesqui e restantes meios necessários à prática dos desportos da neve, incluindo escolas de esqui e montanhismo;\n\nd) Parques de campismo, campos de golfe, campos de ténis, piscinas e outros núcleos receptores desportivos, incluindo os respeitantes à caça e à pesca;\n\ne) Teatros, cinemas, dancings e demais estabelecimentos de distracção e cultura;\n\nf) Outros estabelecimentos da concessão.\n\n3. Estes serviços deverão ser instalados dentro da zona da concessão, em locais que melhor permitam prestar um conveniente apoio turístico e desportivo.\n\nBASE X\n\n(Serviços complementares e instrumentais)\n\nA concessionária providenciará igualmente ao estabelecimento directo ou indirecto de outros serviços, complementares ou instrumentais, exigidos pela boa exploração do seu exclusivo, incluindo os que respeitam à segurança na montanha.\n\nBASE XI\n\n(Normas de exploração dos serviços)\n\n1. A exploração dos serviços da concessionária deve ser realizada segundo métodos racionais de empresa industrial e comercial, tendo presente os progressos técnicos adoptados em actividades similares.\n\n2. As condições de prestação dos serviços a que der lugar a execução da presente concessão serão, tanto quanto possível, idênticas para todos os utentes colocados em igualdade de condições.\n\nBASE XII\n\n(Execução e exploração de serviços por terceiros)\n\nA concessionária pode subconceder, mediante autorização do Governo, a execução e a exploração, total ou parcial, pelo prazo máximo da concessão, de quaisquer serviços complementares e instrumentais, tanto de natureza comercial como industrial ou desportiva, integrados, ainda que parcialmente, na zona da concessão.\n\nBASE XIII\n\n(Pessoal da concessionária)\n\nA concessionária assegurará, por pessoal seu, de preferência de nacionalidade portuguesa, o eficiente funcionamento dos serviços, a fácil utilização das instalações e apetrechamentos e a fiscalização do cumprimento das normas dos respectivos regulamentos de exploração.\n\nBASE XIV\n\n(Aprovação e alteração dos regulamentos de exploração)\n\n1. Antes da entrada em funcionamento dos vários serviços, deverá a concessionária elaborar e propor à aprovação do Governo os regulamentos necessários à sua exploração.\n\n2. Se o Governo se não pronunciar no prazo de noventa dias, contados da data da entrega do requerimento, ter-se-ão por aprovados os regulamentos propostos.\n\n3. Será observado idêntico procedimento relativamente à alteração dos regulamentos já aprovados.\n\nBASE XV\n\n(Conteúdo e sanção dos regulamentos)\n\n1. Os regulamentos de exploração deverão incluir, além do mais, as normas reputadas necessárias para assegurar o ambiente adequado aos objectivos de promoção turística da região da serra da Estrela.\n\n2. Os regulamentos de exploração podem cominar a aplicação aos seus contraventores da pena de multa até 500$00, acrescida de um terço por cada reincidência, cujo produto reverterá para o Estado.\n\nBASE XVI\n\n(Publicidade dos regulamentos)\n\nOs regulamentos aprovados deverão estar patentes ao público e afixados em locais bem visíveis, quanto possível próximo das instalações e dos serviços a cujas condições de utilização ou de prestação digam respeito.\n\nBASE XVII\n\n(Policiamento da zona da concessão)\n\nCompete à concessionária, sob fiscalização do Estado, assegurar o policiamento da área da concessão e, em especial, a observância dos regulamentos de exploração pelos respectivos utentes.\n\nBASE XVIII\n\n(Dever de informação)\n\nA concessionária fornecerá periòdicamente à fiscalização do Estado as estatísticas e outros elementos de informação relativos à exploração turística e desportiva das áreas do exclusivo."
+  },
+  "ef06bde2fd2f1906": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO IV — Tarifas e isenções fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Tarifas e isenções fiscais\n\nBASE XIX\n\n(Regras gerais em matéria de tarifas)\n\n1. Os limites máximos das taxas e preços a cobrar pela concessionária relativos à utilização dos vários serviços previstos na base X, assim como as respectivas regras gerais de aplicação, serão fixados em regulamento de tarifas a aprovar pelo Governo, sob proposta da concessionária.\n\n2. Os máximos tarifários poderão ser revistos de cinco em cinco anos, devendo ainda sê-lo, por iniciativa do Governo ou da concessionária, sempre que circunstâncias anormais determinem a necessidade inadiável da sua alteração.\n\nBASE XX\n\n(Isenção de direitos, de impostos, de contribuições e de taxas)\n\n1. A concessionária gozará, relativamente ao objecto da concessão, dos seguintes benefícios:\n\na) Isenção de todos os impostos devidos ao Estado e às autarquias locais, salvo o imposto do selo, por um período de quinze anos, a contar da data da celebração do contrato;\n\nb) Isenção de direitos de importação relativos aos materiais e equipamentos destinados definitivamente às obras, instalações e apetrechamentos turísticos.\n\n2. A isenção prevista na alínea a) do n.º 1 deste artigo não abrange o imposto de transacções nem o imposto extraordinário para defesa e valorização do ultramar."
+  },
+  "7c59d4f1e1bc8036": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO V — Tempo da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — Tempo da concessão\n\nBASE XXI\n\n(Prazo da concessão)\n\n1. O prazo da concessão é de sessenta anos, contados a partir da data da celebração do contrato.\n\n2. Tal prazo considera-se tàcitamente prorrogado por períodos de dez anos se, pelo menos cinco anos antes do seu termo ou dois anos antes do termo da respectiva prorrogação, uma das partes não notificar a outra de que deseja dar por finda a concessão.\n\nBASE XXII\n\n(Resgate)\n\n1. Decorridos vinte anos, a contar da data da celebração do contrato, pode o Governo notificar a concessionária de que pretende resgatar a concessão, mas o resgate só poderá efectivar-se decorridos dez anos sobre tal notificação.\n\n2. Por cada ano que falte para o termo da concessão a concessionária receberá uma anuidade igual à média da receita líquida de exploração dos cinco anos de maior rendimento escolhidos entre os sete que precederam o resgate.\n\n3. A concessionária terá ainda direito a receber uma indemnização correspondente ao valor das instalações abrangidas pela concessão que tiverem sido estabelecidas nos últimos dez anos anteriores à data do resgate com acordo do concedente, com a dedução de um décimo por cada ano decorrido, sendo aquele valor fixado, na falta de acordo, pelo tribunal arbitral referido na base XXX.\n\n4. Considerar-se-ão como receita líquida de exploração, para efeitos da aplicação do disposto nesta base, 15 por cento das receitas totais cobradas pela concessionária.\n\nBASE XXIII\n\n(Rescisão da concessão)\n\n1. O Governo poderá declarar rescindido o contrato de concessão quando a concessionária não cumpra com as obrigações essenciais a que fica vinculada e daí resultem graves perturbações na organização e funcionamento do serviço concedido.\n\n2. São, designadamente, causa de rescisão:\n\na) A recusa de proceder devidamente à conservação e reparação das obras, instalações e equipamentos;\n\nb) A cobrança dolosa de taxas superiores às fixadas;\n\nc) A repetição de actos graves de indisciplina do pessoal ou dos utentes por culpa grave da concessionária;\n\nd) A reiterada desobediência às determinações do Governo relativas à organização e funcionamento do serviço, ou a sistemática reincidência em infracções às disposições deste contrato ou dos regulamentos de exploração, quando se mostrem ineficazes as sanções previstas para as mesmas infracções;\n\ne) A falência da concessionária, excepto se o Governo autorizar que os credores assumam os direitos e encargos resultantes do presente contrato de concessão.\n\n3. Não constituem causas de rescisão os casos de força maior como tais reconhecidos.\n\n4. Tratando-se de faltas meramente culposas, a rescisão não será declarada sem que a concessionária tenha sido prèviamente avisada para, em prazo não inferior a noventa dias, cumprir integralmente as suas obrigações, sob pena de, não o fazendo, incorrer naquela sanção.\n\n5. Decretada a rescisão, a concessionária terá direito a receber do Estado uma indemnização de valor correspondente ao investimento total realizado, deduzidos tantos 1/60 deste valor quantos anos decorridos desde a celebração do contrato.\n\n6. Na falta de acordo, o valor da indemnização a pagar à concessionária será fixado pelo tribunal arbitral referido na base XXX, podendo o Estado tomar conta das instalações mediante o pagamento ou o depósito do valor fixado.\n\nBASE XXIV\n\n(Termo da concessão)\n\n1. Decorrido o prazo por que foi outorgada a concessão, ou qualquer das suas prorrogações, a concessionária entregará ao Governo, sem qualquer encargo para o Estado, as zonas dominais bem como as instalações e equipamentos nelas existentes.\n\n2. Pelas novas instalações que tenham sido estabelecidas nos últimos vinte anos do prazo da concessão com acordo do concedente, terá a concessionária direito a receber do Estado, no acto da entrega uma indemnização correspondente ao valor dessas instalações, deduzindo-se 1/20 desse valor por cada ano decorrido a partir da sua entrada em exploração.\n\n3. Na falta de acordo, o valor das instalações referidas no número anterior será fixado pelo tribunal arbitral referido na base XXX.\n\n4. A concessionária não poderá abandonar a exploração dos serviços de concessão, no todo ou em parte, sem que esteja assegurada a sua continuidade ou a suspensão dos serviços tenha sido autorizada, respondendo o Estado pelos prejuízos que advierem à concessionária pela manutenção dos serviços não lucrativos que o Estado considere conveniente manter."
+  },
+  "3ebead66f21810e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO VI — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO VI — Disposições diversas\n\nBASE XXV\n\n(Caução)\n\n1. Dentro do prazo de trinta dias a contar da data da assinatura do contrato de concessão, deverá a concessionária depositar na Caixa Geral de Depósitos, Crédito e Previdência, em dinheiro ou títulos da dívida pública, a importância de 1000000$00.\n\n2. A caução servirá de garantia ao efectivo cumprimento das obrigações assumidas pela concessionária e ao pagamento das multas que lhe forem impostas.\n\n3. A caução a que se refere esta base poderá ser substituída por garantia bancária aceite pelo Governo.\n\n4. Vistoriadas e aprovadas as obras da primeira fase, a caução será reduzida para 200000$00.\n\nBASE XXVI\n\n(Caso de guerra ou de emergência grave)\n\n1. Em caso de guerra ou de emergência grave, o Governo reserva-se o direito de gerir e explorar as instalações, nas condições estabelecidas pelas leis de mobilização.\n\n2. Durante o período em que o Governo exercer este direito suspende-se, em relação a todo o objecto da concessão, o prazo por que esta foi outorgada ou qualquer das suas prorrogações.\n\nBASE XXVII\n\n(Sequestro)\n\n1. Quando se verifique ou esteja iminente a cessão ou interrupção total ou de elementos fundamentais da exploração ou se mostrem graves deficiências na respectiva organização e funcionamento ou no estado geral das instalações e do equipamento, susceptíveis de comprometer a regularidade da mesma exploração e a segurança dos utentes, poderá o Governo substituir-se à concessionária na gestão da exploração.\n\n2. A concessionária suportará os encargos resultantes da manutenção dos serviços e as despesas extraordinárias necessárias ao restabelecimento da normalidade da exploração que não possam ser cobertas pelas taxas cobradas.\n\n3. Logo que cessem as razões do sequestro e o Governo julgue oportuno, a concessionária será notificada para retomar, no prazo que lhe for fixado, a regular exploração do serviço.\n\n4. Se a concessionária o não puder ou não quiser fazer ou quando, tendo retomado a exploração, continuem a verificar-se graves deficiências na organização e funcionamento do serviço, o Governo poderá declarar a imediata rescisão da concessão.\n\n5. Não se aplica o disposto no n.º 1 se a cessão ou interrupção tiver sido autorizada, ou qualquer das causas nele referidas seja devida a força maior.\n\nBASE XXVIII\n\n(Sanções)\n\n1. A inobservância, por parte da concessionária, de qualquer das disposições deste contrato, a que não corresponda outra sanção nele prevista ou nos regulamentos a publicar para a boa execução do serviço concedido, será punida com a multa de 1000$00 a 50000$00.\n\n2. Será punida do mesmo modo a inobservância das determinações relativas à organização, funcionamento e fiscalização do serviço, transmitidas à concessionária pela entidade competente, ao abrigo deste contrato ou regulamento em vigor.\n\n3. O pagamento das multas aplicadas nos termos desta base não isenta a concessionária da responsabilidade civil a que dê lugar a infracção.\n\n4. A aplicação de multas superiores a 10000$00, em virtude da mesma infracção antes de decorridos quinze dias sobre a aplicação da primeira, carece de homologação ministerial.\n\nBASE XXIX\n\n(Deliberação a aprovar pelo Governo)\n\n1. Carecem de aprovação do Governo quaisquer deliberações da concessionária que visem:\n\na) A alteração do objectivo turístico da concessão;\n\nb) A alteração de capital social da concessionária;\n\nc) A emissão de obrigações;\n\nd) A subconcessão e o traspasse da concessão;\n\ne) A cessação, temporária ou definitiva, total ou fundamental, de serviços ou da concessão;\n\nf) A alienação ou oneração de quaisquer bens que integrem o estabelecimento da concessão e o respectivo equipamento, exceptuada a substituição decorrente do normal funcionamento dos serviços.\n\n2. As deliberações a que se refere o número anterior ter-se-ão por aprovadas se o Governo se não pronunciar no prazo de noventa dias, a contar da data da entrega do pedido de aprovação.\n\nBASE XXX\n\n(Diferendos)\n\n1. Todas as questões que venham a suscitar-se entre o Governo e a concessionária sobre o que neste contrato se dispõe serão resolvidas por um tribunal arbitral, composto de três membros, um nomeado pelo Governo, outro pela empresa concessionária e o terceiro por acordo entre as duas partes e, na falta de acordo, pelo presidente do Supremo Tribunal de Justiça.\n\n2. Os árbitros poderão ser assistidos pelos peritos que julgarem necessários.\n\n3. O tribunal julgará segundo a equidade, e das suas decisões não cabe recurso.\n\nO Presidente do Conselho, Marcello Caetano."
+  },
+  "713f98b1088765a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Julho\n\nA [Lei n.º 3/70](https://diariodarepublica.pt/dr/detalhe/lei/3-1970-225987), de 28 de Abril, autorizou o Governo a outorgar a uma empresa de economia mista, a constituir, a concessão exclusiva da exploração do turismo e dos desportos na serra da Estrela.\n\nTal orientação foi tomada tendo em vista propósitos de progressivo aproveitamento das potencialidades turísticas nacionais e conveniente integração do desenvolvimento regional na política de fomento económico-social do País e correcção dos desequilíbrios regionais.\n\nO presente diploma concretiza a política já definida, ao considerar a constituição da empresa de economia mista, Turismo da Serra da Estrela, Turistrela, S. A. R. L., e ao aprovar as bases do respectivo contrato de concessão.\n\nA existência de uma concessão em exclusivo e as particularidades de uma empresa de economia mista recomendam ainda que se encarem com algum pormenor aspectos específicos que decorrem destas circunstâncias.Nestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "ec7f00bb31a3f8b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ outorgada a Turismo da Serra da Estrela, Turistrela, S. A. R. L., empresa de economia mista, a constituir de acordo com a [Lei n.º 3/70](https://diariodarepublica.pt/dr/detalhe/lei/3-1970-225987), de 28 de Abril, a concessão em exclusivo da exploração do turismo e dos desportos na serra da Estrela."
+  },
+  "4063a5c549d4ffb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. São aprovadas as bases do respectivo contrato de concessão do exclusivo, anexas ao presente decreto-lei, que, para todos os efeitos, são consideradas como fazendo dele parte integrante.\n\n2. As áreas abrangidas pela concessão do exclusivo são as que constam da planta anexa a este diploma.\n\n3. Ressalvam-se os direitos das entidades particulares, actualmente instaladas nas áreas da concessão, que demonstrem desenvolver uma actividade efectiva e regular na exploração do turismo e dos desportos.\n\n4. A Direcção-Geral do Turismo será o organismo competente para proceder ao inventário das actividades referidas no número anterior.\n\n5. Poderão ainda ser integradas na zona do exclusivo, se nisso acordarem o Estado e a concessionária, determinadas áreas e os estabelecimentos que interessem ao exercício de actividades relacionadas com a exploração do turismo na serra da Estrela."
+  },
+  "78791b7e587dce18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "0df9e65dc9f48731": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "ec54d54e7dc94c52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "e207bf76a09e4a4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "f64558354b108547": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO prazo da presente concessão é de sessenta anos, contados a partir da data da celebração do respectivo contrato."
+  },
+  "681a081e464e8a31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "c8eb5618626b8116": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "91ff49ec8d8081eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "e2186c634bbaabf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 11.º\n\n1. A concessionária gozará, relativamente ao objecto da concessão, dos benefícios seguintes:\n\na) Isenção de todos os impostos devidos ao Estado e às autarquias locais, salvo o imposto do selo, por um período de quinze anos, a contar da data da celebração do contrato;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "866dd440dd04d3fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "a334d122eff787ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 13.º\n\n1. As acções de Turismo da Serra da Estrela, Turistrela, S. A. R. L., serão nominativas ou ao portador, livremente convertíveis com excepção das acções dos entes públicos que, enquanto se mantiverem na sua posse, serão sempre nominativas.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "3739251be16b3e81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "a49b20efc12563f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 15.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "ba4d196a44e8b7e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 16.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "ed43815006502155": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 17.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "08694afc6d04ab88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 18.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "751831f26268b21b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "fa72cd5cac51b895": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1986-12-16",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+   ],
+   "markdown": "###### Artigo 20.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11."
+  },
+  "358078e37ae68636": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nA empresa de economia mista Turismo da Serra da Estrela, Turistrela, S. A. R. L., terá a sua sede na Covilhã.\n\nVisto o aprovado em Conselho de Ministros. - Marcello Caetano.\n\nPromulgado em 12 de Julho de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/07/17600/11001106.pdf)\n\nO Presidente do Conselho, Marcello Caetano.\n\nAnexo ao Decreto-Lei n.º 325/71\n\nBases do contrato da concessão a Turismo da Serra da Estrela, Turistrela, S. A. R. L., do exclusivo da exploração do turismo e dos desportos na serra da Estrela."
+  }
+ }
+}

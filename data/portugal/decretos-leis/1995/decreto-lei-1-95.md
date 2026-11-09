@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-06-04'
+version_history:
+  file: decreto-lei-1-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-01-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-06-04'
+    amending: pt:dre:684059:por
+    amending_title: Decreto-Lei n.º 115/2003; Decreto-Lei n.º 131/2004
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/1/1995/01/12/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:36:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 115/2003; Decreto-Lei
+    n.º 131/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-1-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -151,7 +167,11 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º — Centro Emissor para a Rede Consular
 
-É criado no Ministério dos Negócios Estrangeiros o Centro Emissor para a Rede Consular, adiante designado por Centro Emissor.
+1 - É criado no Ministério dos Negócios Estrangeiros o Centro Emissor para a Rede Consular, adiante designado por Centro Emissor.
+
+2 - Por despacho conjunto dos Ministros dos Negócios Estrangeiros e das Comunidades Portuguesas e da Justiça poderão ser criadas extensões do Centro Emissor nos postos consulares portugueses, aplicando-se-lhes, com as necessárias adaptações, o disposto no presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 115/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2003-684059), publicado em 2003-06-12.
 
 ###### Artigo 2.º — Competência
 
@@ -169,7 +189,11 @@ c) Transmitir aos postos consulares as informações, orientações e instruçõ
 
 1 - A emissão de bilhetes de identidade pelo Centro Emissor é restrita aos pedidos apresentados, nos postos consulares, por cidadãos nacionais residentes no estrangeiro.
 
-2 - A prova de residência do titular na circunscrição consular é feita mediante verificação da inscrição consular.
+2 - A emissão de bilhetes de identidade pelas extensões do Centro Emissor é restrita aos pedidos apresentados nos postos consulares por cidadãos nacionais residentes nas áreas consulares que forem definidas no despacho a que se refere o n.º 2 do artigo 1.º
+
+3 - A prova de residência do titular na circunscrição consular é feita mediante verificação da inscrição consular.
+
+> Alterado pelo/a [Decreto-Lei n.º 131/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2004-281195), publicado em 2004-06-03.
 
 ### CAPÍTULO II — Orgânica
 

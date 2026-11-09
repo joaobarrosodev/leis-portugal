@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-01-11'
+version_history:
+  file: decreto-legislativo-regional-23-85-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-01-11'
+    amending: pt:dre:599567:por
+    amending_title: Decreto Legislativo Regional n.º 1/87/M
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:38:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    1/87/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1985/decreto-legislativo-regional-23-85-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,15 +144,23 @@ Daí que se tivesse feito sentir a necessidade imperiosa de prorrogar os prazos 
 
 Assim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional aprova, para valer como lei, o seguinte:
 
-Artigo 1.º Os prazos de remição do [Decreto Legislativo Regional n.º 17/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1983-444431), de 21 de Dezembro, passam a ser os seguintes:
+###### Artigo 1.º
 
-a) Até 31 de Dezembro de 1986 e até 31 de Dezembro de 1989, os contemplados na alínea a) do artigo 1.º, respectivamente;
+Os prazos de remição do [Decreto Legislativo Regional n.º 17/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1983-444431), de 21 de Dezembro, passam a ser os seguintes:
 
-b) Até 31 de Dezembro de 1991, o contemplado na alínea b) do artigo 1.º
+a) Até 30 de Abril de 1987 e até 30 de Abril de 1990, os contemplados na alínea a) do artigo 1.º, respectivamente;
 
-Art. 2.º Fica revogada qualquer legislação em contrário.
+b) Até 30 de Abril de 1992, o contemplado na alínea b) do artigo 1.º
 
-Art. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 1/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1987-599567), publicado em 1987-01-10.
+
+###### Artigo 2.º
+
+Fica revogada qualquer legislação em contrário.
+
+###### Artigo 3.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 17 de Dezembro de 1985.
 

@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-09-18'
+version_history:
+  file: decreto-lei-48506.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-09-18'
+    amending: pt:dre:632771:por
+    amending_title: Decreto-Lei n.º 388/71
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 14.º
+    - Altera Artigo 20.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:06:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 388/71. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48506.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,27 +162,37 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. As Casas dos Pescadores são instituições de representação profissional e cooperação social, dotadas de personalidade jurídica, que constituem a organização corporativa primária do trabalho da pesca.
+###### Artigo 1.º
+
+1. As Casas dos Pescadores são instituições de representação profissional e cooperação social, dotadas de personalidade jurídica, que constituem a organização corporativa primária do trabalho da pesca.
 
 2. Só podem usar a denominação de Casas dos Pescadores as instituições constituídas de harmonia com o presente diploma.
 
-Art. 2.º - 1. A área de cada Casa dos Pescadores é limitada à das capitanias, delegações marítimas ou patronias respectivas.
+###### Artigo 2.º
+
+1. A área de cada Casa dos Pescadores é limitada à das capitanias, delegações marítimas ou patronias respectivas.
 
 2. Dentro da sua área, as Casas dos Pescadores podem criar secções nos centros de pesca onde tal se justifique, com atribuições, extensão e regime fixados nos seus estatutos.
 
 3. As secções podem ascender à categoria de Casa dos Pescadores sempre que tenham condições de autonomia, ficando neste caso a sua área circunscrita à da delegação marítima ou patronia a que pertencerem.
 
-Art. 3.º - 1. São atribuições das Casas dos Pescadores:
+###### Artigo 3.º
+
+1. São atribuições das Casas dos Pescadores:
 
 a) Representar os sócios efectivos, tendo em vista a defesa dos seus interesses profissionais perante as empresas, os outros organismos corporativos e o Estado;
 
-b) Realizar, em benefício dos sócios efectivos e seus familiares, os objectivos de previdência, assistência e acção educativa prescritos na base II da [Lei n.º 1953](https://diariodarepublica.pt/dr/detalhe/lei/1953-1937-418072), de 11 de Março de 1937, e na [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962;
+b) Realizar, em benefício dos sócios efectivos e seus familiares, os objectivos de previdência, assistência e acção educativa prescritos na base II da [Lei n.º 1953](https://diariodarepublica.pt/dr/detalhe/lei/1953-1937-418072), de 11 de Março de 1937, e na metrópole na [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, e no estatuto da segurança social nas províncias ultramarinas;
 
 c) Promover ou exercer outras actividades de interesse comum para os seus associados.
 
-2. No exercício das suas actividades culturais, desportivas e recreativas as Casas dos Pescadores são consideradas centros de recreio popular, nos termos e para os efeitos do artigo 24.º e seu § único dos Estatutos da Fundação Nacional para a Alegria no Trabalho, aprovados pelo [Decreto-Lei n.º 37835](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37835-1950-657781), de 24 de Maio do 1950.
+2. No exercício das suas actividades culturais, desportivas e recreativas as Casas dos Pescadores são consideradas centros de recreio popular.
 
-Art. 4.º - 1. São sócios efectivos das Casas dos Pescadores todos os marítimos que tenham cédula de inscrição na área respectiva como pescadores ou auxiliares de pesca e exerçam a profissão efectivamente.
+> Alterado pelo/a [Decreto-Lei n.º 388/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1971-632771), publicado em 1971-09-18.
+
+###### Artigo 4.º
+
+1. São sócios efectivos das Casas dos Pescadores todos os marítimos que tenham cédula de inscrição na área respectiva como pescadores ou auxiliares de pesca e exerçam a profissão efectivamente.
 
 2. Podem também inscrever-se como sócios efectivos todas as pessoas com cédula marítima que, não estando abrangidos pelo número anterior, exerçam, efectivamente, em território nacional ou estrangeiro, misteres que lhes dêem a característica de gente do mar.
 
@@ -173,11 +200,15 @@ Art. 4.º - 1. São sócios efectivos das Casas dos Pescadores todos os marítim
 
 4. As pessoas referidas no n.º 1 que exerçam a sua actividade em território nacional, mas fora da área de qualquer Casa dos Pescadores, podem inscrever-se, mediante autorização da Junta Central das Casas dos Pescadores, na Casa ou secção mais próxima.
 
-Art. 5.º - 1. São obrigatòriamente sócios contribuintes todas as empresas de pesca e os armadores ou proprietários de embarcações de pesca, em relação ao local do armamento.
+###### Artigo 5.º
+
+1. São obrigatòriamente sócios contribuintes todas as empresas de pesca e os armadores ou proprietários de embarcações de pesca, em relação ao local do armamento.
 
 2. Podem também inscrever-se como sócios contribuintes as pessoas singulares ou colectivas que desejem auxiliar as Casas dos Pescadores.
 
-Art. 6.º As Casas dos Pescadores têm como órgãos:
+###### Artigo 6.º
+
+As Casas dos Pescadores têm como órgãos:
 
 a) A assembleia geral;
 
@@ -187,11 +218,17 @@ c) O conselho consultivo;
 
 d) As comissões directivas dos núcleos.
 
-Art. 7.º A assembleia geral é constituída pelos sócios efectivos que se encontrem no pleno gozo dos seus direitos de associados.
+###### Artigo 7.º
 
-Art. 8.º A mesa da assembleia geral é composta por um presidente e dois secretários.
+A assembleia geral é constituída pelos sócios efectivos que se encontrem no pleno gozo dos seus direitos de associados.
 
-Art. 9.º Compete à assembleia geral:
+###### Artigo 8.º
+
+A mesa da assembleia geral é composta por um presidente e dois secretários.
+
+###### Artigo 9.º
+
+Compete à assembleia geral:
 
 a) Eleger de entre os sócios contribuintes o presidente e de entre os sócios efectivos os secretários da mesa da assembleia geral, bem como os vogais da direcção;
 
@@ -205,17 +242,23 @@ e) Dar parecer sobre os assuntos que lhe foram submetidos pela direcção ou pel
 
 f) Discutir e votar as alterações dos estatutos.
 
-Art. 10.º - 1. A assembleia geral reúne ordinàriamente até 31 de Outubro e 15 de Março de cada ano para discutir e votar, respectivamente, o orçamento e as contas de gerência, e de quatro em quatro anos, até 15 de Setembro, em sincronização com os mandatos à Câmara Corporativa, para eleição dos corpos gerentes.
+###### Artigo 10.º
+
+1. A assembleia geral reúne ordinàriamente até 31 de Outubro e 15 de Março de cada ano para discutir e votar, respectivamente, o orçamento e as contas de gerência, e de quatro em quatro anos, até 15 de Setembro, em sincronização com os mandatos à Câmara Corporativa, para eleição dos corpos gerentes.
 
 2. A assembleia geral reúne extraordinàriamente quando for convocada pelo presidente, por iniciativa própria ou a requerimento da direcção, do conselho consultivo ou de um terço dos sócios efectivos.
 
-Art. 11.º - 1. A direcção é constituída por um presidente conforme o previsto na base VI da [Lei n.º 1953](https://diariodarepublica.pt/dr/detalhe/lei/1953-1937-418072), de 11 de Março de 1937, e dois vogais eleitos.
+###### Artigo 11.º
+
+1. A direcção é constituída por um presidente conforme o previsto na base VI da [Lei n.º 1953](https://diariodarepublica.pt/dr/detalhe/lei/1953-1937-418072), de 11 de Março de 1937, e dois vogais eleitos.
 
 2. Na primeira reunião da direcção distribuem-se entre os vogais os cargos de secretário e tesoureiro.
 
 3. Além dos vogais efectivos há dois suplentes.
 
-Art. 12.º Compete à direcção:
+###### Artigo 12.º
+
+Compete à direcção:
 
 a) Representar o organismo em juízo e fora dele e defender os legítimos interesses dos sócios efectivos como profissionais da pesca;
 
@@ -233,15 +276,23 @@ g) Admitir, suspender e demitir o pessoal e fixar a sua remuneração, bem como 
 
 h) Elaborar os regulamentos internos necessários à boa organização dos serviços, submetendo-os à aprovação da Junta Central das Casas dos Pescadores.
 
-Art. 13.º A direcção deve reunir sempre que se torne necessário e obrigatòriamente uma vez em cada mês.
+###### Artigo 13.º
 
-Art. 14.º - 1. O conselho consultivo é constituído por um membro de cada uma das comissões directivas dos núcleos ou, se ainda os não houver, pelas pessoas designadas nos termos da alínea b) do artigo 9.º e por outros tantos sócios contribuintes.
+A direcção deve reunir sempre que se torne necessário e obrigatòriamente uma vez em cada mês.
 
-2. O conselho consultivo é presidido pelo presidente da mesa da assembleia geral, como voto de qualidade.
+###### Artigo 14.º
+
+1. O conselho consultivo é constituído por um membro de cada uma das comissões directivas dos núcleos ou, se ainda os não houver, pelas pessoas designadas nos termos da alínea b) do artigo 9.º e por outros tantos sócios contribuintes.
+
+2. O conselho consultivo é presidido pelo presidente da mesa da assembleia geral, com voto de qualidade.
 
 3. Os membros contribuintes são eleitos entre os sócios daquela categoria, em reunião convocada e dirigida pelo presidente da mesa da assembleia geral.
 
-Art. 15.º Compete ao conselho consultivo:
+> Alterado pelo/a [Decreto-Lei n.º 388/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1971-632771), publicado em 1971-09-18.
+
+###### Artigo 15.º
+
+Compete ao conselho consultivo:
 
 a) Apreciar e dar parecer sobre as actividades respeitantes a instrução, educação, previdência e assistência, cujo estudo lhe seja proposto pela direcção;
 
@@ -249,9 +300,13 @@ b) Apreciar e dar parecer sobre as propostas orçamentais e relatório e contas 
 
 c) Propor ao presidente da mesa da assembleia geral a reunião desta última quando o considerar necessário.
 
-Art. 16.º O conselho consultivo reúne sempre que se torne necessário e obrigatòriamente uma vez em cada trimestre, para apreciação das actividades de cooperação social e revisão das contas que lhe sejam apresentadas pela direcção ou por si solicitadas.
+###### Artigo 16.º
 
-Art. 17.º - 1. Nas Casas dos Pescadores funcionam, quando a assembleia geral o julgue conveniente, núcleos de actividade piscatória agrupando os sócios efectivos que exerçam predominantemente a mesma modalidade de pesca.
+O conselho consultivo reúne sempre que se torne necessário e obrigatòriamente uma vez em cada trimestre, para apreciação das actividades de cooperação social e revisão das contas que lhe sejam apresentadas pela direcção ou por si solicitadas.
+
+###### Artigo 17.º
+
+1. Nas Casas dos Pescadores funcionam, quando a assembleia geral o julgue conveniente, núcleos de actividade piscatória agrupando os sócios efectivos que exerçam predominantemente a mesma modalidade de pesca.
 
 2. O início do funcionamento de cada núcleo deve ser comunicado à Junta Central das Casas dos Pescadores com a antecedência de 30 dias.
 
@@ -259,13 +314,17 @@ Art. 17.º - 1. Nas Casas dos Pescadores funcionam, quando a assembleia geral o 
 
 4. Os sócios efectivos inscritos no núcleo de actividade formam a sua assembleia quando reunidos por convocação do presidente da mesa da assembleia geral, por sua iniciativa ou a requerimento de um terço daqueles sócios.
 
-Art. 18.º - 1. Cada um dos núcleos de actividade elege, em reunião da sua assembleia, uma comissão directiva formada por três sócios nele integrados, a qual será obrigatòriamente ouvida pela direcção sempre que seja necessário deliberar sobre assuntos que interessem à respectiva modalidade de pesca.
+###### Artigo 18.º
+
+1. Cada um dos núcleos de actividade elege, em reunião da sua assembleia, uma comissão directiva formada por três sócios nele integrados, a qual será obrigatòriamente ouvida pela direcção sempre que seja necessário deliberar sobre assuntos que interessem à respectiva modalidade de pesca.
 
 2. As comissões directivas reúnem separadamente, sempre que se torne necessário e obrigatòriamente uma vez em cada trimestre, para apreciação das actividades respeitantes à modalidade de pesca abrangida pelo núcleo, transmitindo ao presidente da direcção os seus pontos de vista e pretensões.
 
 3. Cada comissão directiva elege de entre os seus membros o representante ao conselho consultivo.
 
-Art. 19.º - 1. São elegíveis para os corpos gerentes os sócios de nacionalidade portuguesa, maiores, que se encontrem no pleno gozo dos seus direitos sociais.
+###### Artigo 19.º
+
+1. São elegíveis para os corpos gerentes os sócios de nacionalidade portuguesa, maiores, que se encontrem no pleno gozo dos seus direitos sociais.
 
 2. A verificação das condições de elegibilidade cabe à mesa da assembleia geral, com recurso para a Junta Central das Casas dos Pescadores.
 
@@ -273,7 +332,9 @@ Art. 19.º - 1. São elegíveis para os corpos gerentes os sócios de nacionalid
 
 4. A eleição dos representantes das Casas dos Pescadores na Junta Central das Casas dos Pescadores e na Corporação da Pesca e Conservas é feita em colégio eleitoral constituído por um vogal da direcção de cada Casa, que reúne na Junta Central. Os vogais podem fazer-se representar por outro membro do colégio eleitoral desde que por carta deleguem expressamente essa representação. Os membros presentes escolherão entre si um presidente e dois secretários.
 
-Art. 20.º - 1. As receitas das Casas dos Pescadores são constituídas por:
+###### Artigo 20.º
+
+1. As receitas das Casas dos Pescadores são constituídas por:
 
 a) Quotizações dos sócios efectivos e contribuintes;
 
@@ -293,15 +354,21 @@ g) Dotações do Estado da importância mínima de 50000$00, quando da sua const
 
 3. Para efeito da primeira parte do n.º 2, a Casa da Moeda procederá à emissão de estampilhas das Casas dos Pescadores, a entregar à Junta Central das Casas dos Pescadores para serem vendidas nas capitanias dos portos, delegações marítimas ou patronias dos centros piscatórios, no acto da matrícula ou concessão da licença de pesca.
 
-4. As quotizações dos sócios contribuintes são determinadas por uma comissão constituída pelo presidente da direcção, que preside com voto de qualidade, pelo tesoureiro da direcção e por dois representantes eleitos daqueles sócios, e são pagas às Casas dos Pescadores nos termos estabelecidos nos estatutos. Da decisão da comissão cabe recurso para o Ministro das Corporações e Previdência Social com audiência da Junta Central das Casas dos Pescadores.
+4. As quotizações dos sócios contribuintes são determinadas por uma comissão constituída pelo presidente de direcção, que preside com voto de qualidade, pelo tesoureiro da direcção e por dois representantes eleitos daqueles sócios, e são pagas às Casas dos Pescadores nos termos estabelecidos nos estatutos. Das decisões da comissão cabe recurso para o Ministro das Corporações e Previdência Social ou para o governador da respectiva província ultramarina, com audiência da Junta Central das Casas dos Pescadores ou da sua delegação.
 
 5. Serão enviadas ao tribunal do trabalho competente, para efeitos de execução, certidões comprovativas da falta de pagamento de quotas de sócios contribuintes respeitantes a seis meses, pelo menos, ou à totalidade da dívida, quando ela disser respeito a menor período de tempo.
 
 6. As receitas destinadas à realização dos fins submetidos à centralização, orientação e fiscalização da Junta Central das Casas dos Pescadores são-lhe consignadas em comum.
 
-Art. 21.º A criação das Casas dos Pescadores é da livre iniciativa dos interessados, devendo o pedido para a sua homologação pelo Ministro das Corporações e Previdência Social ou governador da província ultramarina ser acompanhado por três exemplares dos estatutos a aprovar, assinados por dez inscritos marítimos e por uma empresa de pesca ou armador, precedendo audiência da Junta Central das Casas dos Pescadores ou sua delegação.
+> Alterado pelo/a [Decreto-Lei n.º 388/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1971-632771), publicado em 1971-09-18.
 
-Art. 22.º Os estatutos das Casas dos Pescadores deverão conter disposições sobre:
+###### Artigo 21.º
+
+A criação das Casas dos Pescadores é da livre iniciativa dos interessados, devendo o pedido para a sua homologação pelo Ministro das Corporações e Previdência Social ou governador da província ultramarina ser acompanhado por três exemplares dos estatutos a aprovar, assinados por dez inscritos marítimos e por uma empresa de pesca ou armador, precedendo audiência da Junta Central das Casas dos Pescadores ou sua delegação.
+
+###### Artigo 22.º
+
+Os estatutos das Casas dos Pescadores deverão conter disposições sobre:
 
 a) Nome, sede e área do organismo;
 
@@ -335,13 +402,19 @@ p) Sanções aplicáveis em caso de violação dos deveres estatutários;
 
 q) Alteração dos estatutos.
 
-Art. 23.º - 1. Os membros dos corpos gerentes são responsáveis solidàriamente pela violação das disposições legais ou estatutárias.
+###### Artigo 23.º
+
+1. Os membros dos corpos gerentes são responsáveis solidàriamente pela violação das disposições legais ou estatutárias.
 
 2. Salvaguardam-se dessa responsabilidade os que, estando presentes, votem contra.
 
-Art. 24.º As Casas dos Pescadores só podem ser extintas por fusão com outras.
+###### Artigo 24.º
 
-Art. 25.º São revogadas as bases I, III, IV, V, VII, IX e X da [Lei n.º 1953](https://diariodarepublica.pt/dr/detalhe/lei/1953-1937-418072), de 11 de Março de 1937, e o [Decreto n.º 37751](https://diariodarepublica.pt/dr/detalhe/decreto/37751-1950-659143), de 4 de Fevereiro de 1950.
+As Casas dos Pescadores só podem ser extintas por fusão com outras.
+
+###### Artigo 25.º
+
+São revogadas as bases I, III, IV, V, VII, IX e X da [Lei n.º 1953](https://diariodarepublica.pt/dr/detalhe/lei/1953-1937-418072), de 11 de Março de 1937, e o [Decreto n.º 37751](https://diariodarepublica.pt/dr/detalhe/decreto/37751-1950-659143), de 4 de Fevereiro de 1950.
 
 Publique-se e cumpra-se como nele se contém.
 

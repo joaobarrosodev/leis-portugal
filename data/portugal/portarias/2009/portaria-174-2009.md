@@ -37,10 +37,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-09-02'
+version_history:
+  file: portaria-174-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-02-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-09-02'
+    amending: pt:dre:488506:por
+    amending_title: Portaria n.º 974/2009
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/174/2009/02/18/p/dre/pt/html
@@ -66,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:38:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 974/2009. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-174-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -222,9 +239,11 @@ d) Um veículo florestal de combate a incêndios (VFCI);
 
 e) Um veículo de socorro e assistência táctico (VSAT);
 
-f) Uma ambulância de socorro (ABSC).
+f) Um veículo de comando táctico (VCOT);
 
-2 - Na aferição da dotação de veículos a apoiar pelo PAE, o resultado final obtido através da soma entre a dotação mínima por corpo de bombeiros, expressa no número anterior, com excepção da ABSC, e o cálculo dos parâmetros constantes do n.º 1 do artigo anterior, à escala municipal, é condicionado em função da dotação do quadro homologado do conjunto dos corpos de bombeiros do município.
+g) Uma ambulância de socorro (ABSC).
+
+2 - Na aferição da dotação de veículos a apoiar pelo PAE, o resultado do cálculo dos parâmetros constantes do n.º 1 do artigo anterior, à escala municipal, é condicionado em função da dotação do quadro homologado do conjunto dos corpos de bombeiros do município, e inclui a dotação mínima definida no número anterior.
 
 3 - Para efeitos do número anterior é considerada uma guarnição média de 5 elementos para cada viatura e a capacidade de accionamento dos meios em dois terços do dia, equivalente a dezasseis horas, o que corresponde a um mínimo de 10 elementos por viatura.
 
@@ -234,13 +253,15 @@ Número máximo de veículos = QH/GMV/T
 
 em que:
 
-QH - dotação do quadro homologado correspondente ao efectivo máximo das respectivas tipologias dos corpos de bombeiros (conforme definido no n.º 3 do artigo 10.º do [Decreto-Lei n.º 247/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2007-635841), de 27 de Junho);
+QH - dotação do quadro homologado;
 
 GMV - guarnição média por viatura (cinco elementos);
 
 T - número de turnos correspondente a dois terços do dia (dois turnos).
 
-5 - Nos corpos de bombeiros com mais de 120 elementos será considerada a dotação dos quadros de pessoal homologados, para efeitos do cálculo referido no número anterior.
+5 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 974/2009](https://diariodarepublica.pt/dr/detalhe/portaria/974-2009-488506), publicado em 2009-09-01.
 
 ###### Artigo 6.º — Plano de equipamento
 
@@ -268,11 +289,13 @@ f) No apoio à aquisição de equipamentos de protecção individual.
 
 ###### Artigo 8.º — Alocação dos veículos e equipamentos operacionais
 
-Nos municípios em que exista mais que um corpo de bombeiros, atentos os princípios da afectação racional e coordenação de meios, a alocação dos veículos e equipamentos operacionais, dentro de cada município e atendendo às características da área de actuação de cada corpo de bombeiros, compete à ANPC, mediante parecer do comandante operacional municipal.
+Em cada município em que exista mais do que um corpo de bombeiros, considerando os princípios da afectação racional e da coordenação de meios, a alocação dos veículos e equipamentos operacionais compete à ANPC, atendendo às características da área de actuação dos respectivos corpos de bombeiros.
+
+> Alterado pelo/a [Portaria n.º 974/2009](https://diariodarepublica.pt/dr/detalhe/portaria/974-2009-488506), publicado em 2009-09-01.
 
 ###### Artigo 9.º — Veículos e equipamentos operacionais
 
-1 - Para efeitos da presente portaria, a tipologia dos veículos de socorro e combate a incêndios previstos no n.º 1 dos artigos 4.º e 5.º, e contemplados no plano de equipamento, são:
+1 - Para efeitos da presente portaria, os veículos previstos no n.º 1 dos artigos 4.º e 5.º, e contemplados no plano de equipamento, são:
 
 a) Veículo ligeiro de combate a incêndios (VLCI);
 
@@ -288,13 +311,25 @@ f) Veículo de socorro e assistência táctico (VSAT);
 
 g) Veículo de socorro e assistência especial (VSAE);
 
-h) Ambulância de socorro (ABSC).
+h) Um veículo de comando táctico (VCOT);
+
+i) Ambulância de socorro (ABSC).
 
 2 - Para efeitos da presente portaria, e tendo em conta o seu carácter de complementaridade ao dispositivo operacional, o apoio à aquisição de ambulâncias de socorro (ABSC) é concedido mediante protocolo e condicionado ao reconhecimento, pela ANPC, da existência de recursos humanos qualificados para a respectiva operação.
 
 3 - Para além dos equipamentos identificados no n.º 1, cujas normas técnicas serão definidas por despacho do presidente da ANPC, o apoio à aquisição de outros equipamentos operacionais, nomeadamente para missões em meio aquático, resgate em grande ângulo e operações na neve, é condicionado ao reconhecimento, pela ANPC, da existência de capacidade operacional e qualificação técnica nos corpos de bombeiros para execução das respectivas missões, tendo em consideração a vulnerabilidade do município.
 
 4 - O equipamento a afectar a cada uma das missões, identificadas no ponto anterior, corresponde ao necessário para a operação do efectivo mínimo de uma brigada.
+
+5 - O apoio à aquisição de veículos com escada giratória (VE) ou veículos com plataforma giratória (VP) incide sobre 50 % do respectivo valor e a prioridade atribuída a estas tipologias é a indicada nas alíneas a) e b) do artigo 7.º do presente diploma, em que:
+
+a) O quantitativo mínimo corresponde a um VE ou VP por município com mais de 100 edifícios com 5 ou mais andares;
+
+b) A substituição de VE ou VP deve respeitar, obrigatoriamente, o indicado no n.º 2 do artigo 7.º;
+
+c) Em casos devidamente justificados poderá ser autorizado o referido apoio em municípios que já disponham de VE ou VP, mediante parecer favorável da ANPC, homologado pelo Secretário de Estado da Protecção Civil.
+
+> Alterado pelo/a [Portaria n.º 974/2009](https://diariodarepublica.pt/dr/detalhe/portaria/974-2009-488506), publicado em 2009-09-01.
 
 ###### Artigo 10.º — Veículos e equipamentos especiais
 

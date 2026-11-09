@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:195421:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1963-03-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "747f5aaf79bc709a"
+   ]
+  },
+  {
+   "date": "1975-04-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:162077:por",
+     "title": "Decreto-Lei n.º 200/75",
+     "published": "1975-04-15",
+     "dre_path": "/dr/detalhe/decreto-lei/200-1975-162077"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "8fd9cd41cfd6ee56",
+    "2f11c00747ad06ff",
+    "3d1296e6dae1b8cd",
+    "ac833e6a398cb7e2",
+    "caa1867053a2f059",
+    "284ad9223e1491ce",
+    "fa3fcb9eb0600814",
+    "f20131aecd75ac1e"
+   ]
+  }
+ ],
+ "fragments": {
+  "747f5aaf79bc709a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Têm direito ao abono de alimentação e alojamento por conta do Estado:\n\n1.º Oficiais e sargentos, ou equiparados, nas seguintes situações:\n\na) Quando em regime de prevenção que os obrigue a permanecer no aquartelamento;\n\nb) Quando em manobras ou exercícios em tempo de paz, de duração superior a doze horas, ou fazendo parte de destacamentos cuja concentração tenha sido determinada;\n\nc) Quando presos, nas condições estabelecidas pelo [Decreto-Lei n.º 39044](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39044-1952-665713), de 19 de Dezembro de 1952;\n\nd) Quando colocados no quadro do comando e do destacamento do campo de instrução militar de Santa Margarida ou nas unidades que neste se encontrem instaladas a título permanente ou eventual;\n\ne) Quando escalados para serviço diário nas unidades, estabelecimentos militares e outros serviços do Exército;\n\nf) Durante o tempo em que estiverem com baixa aos hospitais ou enfermarias;\n\ng) Na frequência de tirocínios, cursos ou estágios nos estabelecimentos militares de ensino ou de instrução ou outros que como tal estejam funcionando;\n\nh) Em diligência nas escolas práticas e 2.º grupo de companhias de administração militar, enquanto esta unidade funcionar no aquartelamento da Escola Prática de Administração Militar.\n\n2.º Os alunos dos estabelecimentos de ensino do Ministério do Exército, durante os períodos de trabalhos escolares e férias, nos termos dos respectivos regulamentos.\n\n3.º Os indivíduos na prestação do serviço militar quando cabos, ainda que readmitidos, soldados ou recrutas.\n\n4.º Os mancebos nas seguintes situações:\n\na) Em contravenção da Lei do Recrutamento e Serviço Militar, enquanto não for esclarecida a sua situação militar;\n\nb) Presentes às juntas de inspecção e mandados baixar aos hospitais militares, bem como os que nas ilhas adjacentes aguardam o embarque para o continente, mas apenas no dia do embarque.\n\n5.º Os militares que em casos especiais sejam autorizados por despacho ministerial.\n\nArt. 2.º Têm direito apenas ao abono de almoço por conta do Estado os oficiais e sargentos, ou equiparados, em serviço nas unidades, estabelecimentos militares e outros serviços do Exército, fixados anualmente por despacho ministerial.\n\nArt. 3.º Os abonos referidos nas alíneas d) e g) do artigo 1.º e no artigo 2.º não são devidos quando os oficiais e sargentos, ou equiparados, beneficiem de residência do Estado na localidade onde estejam a prestar serviço e a utilizem.\n\nArt. 4.º Os quantitativos a abonar nas diversas situações previstas no presente diploma serão fixados anualmente por despacho do Ministro do Exército, com a concordância do Ministro das Finanças quando deles resulte aumento de encargos para o orçamento do Ministério do Exército.\n\nArt. 5.º O abono de alimentação será sempre feito em género, salvo os casos especiais de abono em dinheiro que no regulamento a publicar venham a ser expressamente referidos.\n\nArt. 6.º São considerados legais, para todos os efeitos, os abonos concedidos nos termos do regulamento aprovado pelo [Decreto n.º 41964](https://diariodarepublica.pt/dr/detalhe/decreto/41964-1958-339235), de 19 de Novembro de 1958.\n\nArt. 7.º Ficam revogados o [Decreto-Lei n.º 41896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41896-1958-337672), de 8 de Outubro de 1958, e o [Decreto n.º 41964](https://diariodarepublica.pt/dr/detalhe/decreto/41964-1958-339235), de 19 de Novembro de 1958, ressalvadas, quanto a este último, as suas disposições de carácter regulamentar, enquanto não for publicado novo regulamento ao abrigo do presente decreto-lei.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 28 de Março de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alfredo Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "8fd9cd41cfd6ee56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "2f11c00747ad06ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1975-04-15",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 200/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1975-162077), publicado em 1975-04-15."
+   ],
+   "markdown": "###### Artigo 1.º\n\nTêm direito ao abono de alimentação e alojamento por conta do Estado:\n\n1.º Oficiais e sargentos, ou equiparados, nas seguintes situações:\n\na) Quando em regime de prevenção que os obrigue a permanecer no aquartelamento;\n\nb) Quando em manobras ou exercícios em tempo de paz, de duração superior a doze horas, ou fazendo parte de destacamentos cuja concentração tenha sido determinada;\n\nc) Quando presos, nas condições estabelecidas pelo [Decreto-Lei n.º 39044](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39044-1952-665713), de 19 de Dezembro de 1952;\n\nd) Quando colocados no quadro do comando e do destacamento do campo de instrução militar de Santa Margarida ou nas unidades que neste se encontrem instaladas a título permanente ou eventual;\n\ne) Quando escalados para serviço diário nas unidades, estabelecimentos militares e outros serviços do Exército;\n\nf) Durante o tempo em que estiverem com baixa aos hospitais ou enfermarias;\n\ng) Na frequência de tirocínios, cursos ou estágios nos estabelecimentos militares de ensino ou de instrução ou outros que como tal estejam funcionando;\n\nh) Em diligência nas escolas práticas e 2.º grupo de companhias de administração militar, enquanto esta unidade funcionar no aquartelamento da Escola Prática de Administração Militar.\n\n2.º Os alunos dos estabelecimentos de ensino do Ministério do Exército, durante os períodos de trabalhos escolares e férias, nos termos dos respectivos regulamentos.\n\n3.º Os indivíduos na prestação do serviço militar quando cabos, ainda que readmitidos, soldados ou recrutas.\n\n4.º Os mancebos nas seguintes situações:\n\na) Em contravenção da Lei do Recrutamento e Serviço Militar, enquanto não for esclarecida a sua situação militar;\n\nb) Presentes às juntas de inspecção e mandados baixar aos hospitais militares, bem como os que nas ilhas adjacentes aguardam o embarque para o continente, mas apenas no dia do embarque.\n\nc) Deslocados às juntas de recrutamento, sempre que tais deslocações, pela sua distância ou duração, impliquem a necessidade de pernoita ou de refeições fora do seu domicílio habitual, segundo normas regulamentares a fixar.\n\n5.º Os militares que em casos especiais sejam autorizados por despacho ministerial.\n\n> Alterado pelo/a [Decreto-Lei n.º 200/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1975-162077), publicado em 1975-04-15."
+  },
+  "3d1296e6dae1b8cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nTêm direito apenas ao abono de almoço por conta do Estado os oficiais e sargentos, ou equiparados, em serviço nas unidades, estabelecimentos militares e outros serviços do Exército, fixados anualmente por despacho ministerial."
+  },
+  "ac833e6a398cb7e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs abonos referidos nas alíneas d) e g) do artigo 1.º e no artigo 2.º não são devidos quando os oficiais e sargentos, ou equiparados, beneficiem de residência do Estado na localidade onde estejam a prestar serviço e a utilizem."
+  },
+  "caa1867053a2f059": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs quantitativos a abonar nas diversas situações previstas no presente diploma serão fixados anualmente por despacho do Ministro do Exército, com a concordância do Ministro das Finanças quando deles resulte aumento de encargos para o orçamento do Ministério do Exército."
+  },
+  "284ad9223e1491ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO abono de alimentação será sempre feito em género, salvo os casos especiais de abono em dinheiro que no regulamento a publicar venham a ser expressamente referidos."
+  },
+  "fa3fcb9eb0600814": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSão considerados legais, para todos os efeitos, os abonos concedidos nos termos do regulamento aprovado pelo [Decreto n.º 41964](https://diariodarepublica.pt/dr/detalhe/decreto/41964-1958-339235), de 19 de Novembro de 1958."
+  },
+  "f20131aecd75ac1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nFicam revogados o [Decreto-Lei n.º 41896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41896-1958-337672), de 8 de Outubro de 1958, e o [Decreto n.º 41964](https://diariodarepublica.pt/dr/detalhe/decreto/41964-1958-339235), de 19 de Novembro de 1958, ressalvadas, quanto a este último, as suas disposições de carácter regulamentar, enquanto não for publicado novo regulamento ao abrigo do presente decreto-lei.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 28 de Março de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alfredo Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

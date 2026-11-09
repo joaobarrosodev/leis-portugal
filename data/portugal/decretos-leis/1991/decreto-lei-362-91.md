@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-06-23'
+version_history:
+  file: decreto-lei-362-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-10-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-06-23'
+    amending: pt:dre:268839:por
+    amending_title: Decreto-Lei n.º 221/93
+    changes:
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/362/1991/10/03/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:12:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 221/93. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-362-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,11 +169,15 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - A empresa pública INDEP - Indústrias Nacionais de Defesa, E. P., criada pelo [Decreto-Lei n.º 515/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1980-457672), de 31 de Outubro, cujos estatutos foram alterados pelo [Decreto-Lei n.º 272/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1984-382271), de 7 de Agosto, é transformada em sociedade anónima de capitais exclusivamente públicos, passando a denominar-se INDEP - Indústrias e Participações de Defesa, S. A., adiante designada por INDEP, S. A.
+###### Artigo 1.º
+
+1 - A empresa pública INDEP - Indústrias Nacionais de Defesa, E. P., criada pelo [Decreto-Lei n.º 515/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/515-1980-457672), de 31 de Outubro, cujos estatutos foram alterados pelo [Decreto-Lei n.º 272/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1984-382271), de 7 de Agosto, é transformada em sociedade anónima de capitais exclusivamente públicos, passando a denominar-se INDEP - Indústrias e Participações de Defesa, S. A., adiante designada por INDEP, S. A.
 
 2 - A INDEP, S. A., rege-se pelo presente diploma, pelos seus estatutos, pela legislação geral aplicável às sociedades anónimas e pelas normas especiais cuja aplicação decorra do objecto da sociedade.
 
-Art. 2.º - 1 - A INDEP, S. A., sucede automática e globalmente à INDEP - Indústrias Nacionais de Defesa, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que integram a sua esfera jurídica no momento da transformação.
+###### Artigo 2.º
+
+1 - A INDEP, S. A., sucede automática e globalmente à INDEP - Indústrias Nacionais de Defesa, E. P., e continua a personalidade jurídica desta, conservando a universalidade dos direitos e obrigações que integram a sua esfera jurídica no momento da transformação.
 
 2 - Exceptuam-se do disposto no número anterior as obrigações contraídas pela INDEP, E. P., relativamente à Caixa Geral de Aposentações e ao Montepio dos Servidores do Estado.
 
@@ -186,7 +205,9 @@ b) Quando se encontre na situação de requisitado na INDEP, S. A., a Caixa Gera
 
 10 - O presente diploma é título bastante para a comprovação e efectivação do previsto no n.º 1 para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da INDEP, S. A.
 
-Art. 3.º - 1 - O capital inicial da INDEP, S. A., é de 2300000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
+###### Artigo 3.º
+
+1 - O capital inicial da INDEP, S. A., é de 2300000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade.
 
 2 - O valor do capital social pode ser alterado em conformidade com a avaliação do património da sociedade prevista no n.º 3 do artigo 9.º, sendo substituído pelo valor que daquela avaliação resultar, sem outra formalidade, para além do registo da alteração.
 
@@ -196,17 +217,25 @@ Art. 3.º - 1 - O capital inicial da INDEP, S. A., é de 2300000000$00 e encontr
 
 5 - Os direitos do Estado são exercidos por um representante nomeado por despacho conjunto dos Ministros da Defesa Nacional e das Finanças, salvo quando a gestão das acções tenha sido cometida a outra entidade, nos termos do número anterior.
 
-Art. 4.º - 1 - São aprovados os Estatutos da INDEP, S. A., anexos ao presente diploma.
+###### Artigo 4.º
+
+1 - São aprovados os Estatutos da INDEP, S. A., anexos ao presente diploma.
 
 2 - A alteração da natureza jurídica determinada pelo artigo 1.º, bem como os Estatutos da INDEP, S. A., produzem efeitos independentemente do registo, que, no entanto, deve ser requerido nos 30 dias seguintes à entrada em vigor deste diploma.
 
-Art. 5.º A INDEP, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, cujas competências são as fixadas na lei e nos Estatutos.
+###### Artigo 5.º
 
-Art. 6.º - 1 - Fica desde já convocada a assembleia geral da INDEP, S. A., a qual reunirá no 30.º dia posterior à entrada em vigor do presente diploma, ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos corpos sociais e aprovar o respectivo estatuto remuneratório.
+A INDEP, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, cujas competências são as fixadas na lei e nos Estatutos.
+
+###### Artigo 6.º
+
+1 - Fica desde já convocada a assembleia geral da INDEP, S. A., a qual reunirá no 30.º dia posterior à entrada em vigor do presente diploma, ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos corpos sociais e aprovar o respectivo estatuto remuneratório.
 
 2 - Os membros em exercício do conselho de administração e da comissão de fiscalização da INDEP, E. P., mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da INDEP, S. A., com as competências fixadas nos Estatutos para o conselho de administração e o conselho fiscal, respectivamente.
 
-Art. 7.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração deve enviar aos Ministros da Defesa Nacional e das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:
+###### Artigo 7.º
+
+1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração deve enviar aos Ministros da Defesa Nacional e das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:
 
 a) O relatório de gestão e as contas do exercício;
 
@@ -214,7 +243,9 @@ b) Quaisquer elementos adequados à compreensão integral da situação económi
 
 2 - O conselho fiscal deve enviar trimestralmente aos Ministros da Defesa Nacional e das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
 
-Art. 8.º - 1 - A situação do pessoal efectivo que pertence aos quadros da INDEP, E. P., à data da entrada em vigor do presente diploma é regulada nos termos das regras constantes dos números seguintes.
+###### Artigo 8.º
+
+1 - A situação do pessoal efectivo que pertence aos quadros da INDEP, E. P., à data da entrada em vigor do presente diploma é regulada nos termos das regras constantes dos números seguintes.
 
 2 - O pessoal beneficiário do regime geral da segurança social transita automaticamente para a INDEP, S. A.
 
@@ -230,7 +261,9 @@ c) Contagem de tempo de serviço prestado, para todos os efeitos.
 
 5 - A situação dos trabalhadores da INDEP, S. A., chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer funções noutras empresas ou em serviços públicos, em nada será prejudicada por esse facto, regressando os trabalhadores aos seus lugares logo que terminem o mandato ou tempo de requisição.
 
-Art. 9.º - 1 - A INDEP, S. A., deve proceder à formação de novas sociedades mediante cisão simples ou cisão-fusão, com respeito pelo disposto na lei de delimitação de sectores.
+###### Artigo 9.º
+
+1 - A INDEP, S. A., deve proceder à formação de novas sociedades mediante cisão simples ou cisão-fusão, com respeito pelo disposto na lei de delimitação de sectores.
 
 2 - Para os efeitos do disposto no número anterior, o conselho de administração deve promover a avaliação do património da INDEP, S. A., a qual deve estar concluída no prazo de 120 dias após a entrada em vigor do presente diploma.
 
@@ -240,7 +273,9 @@ Art. 9.º - 1 - A INDEP, S. A., deve proceder à formação de novas sociedades 
 
 5 - Todas as avaliações previstas neste artigo estão sujeitas à aprovação dos Ministros da Defesa Nacional e das Finanças.
 
-Art. 10.º - 1 - Após a aprovação da avaliação do património da INDEP, S. A., o conselho de administração submete aos Ministros da Defesa Nacional e das Finanças o plano geral de quaisquer cisões ou fusões ao abrigo do disposto no n.º 1 do artigo anterior, com menção e justificação dos seguintes pontos, quando aplicáveis, para cada uma das sociedades cuja constituição seja prevista:
+###### Artigo 10.º
+
+1 - Após a aprovação da avaliação do património da INDEP, S. A., o conselho de administração submete aos Ministros da Defesa Nacional e das Finanças o plano geral de quaisquer cisões ou fusões ao abrigo do disposto no n.º 1 do artigo anterior, com menção e justificação dos seguintes pontos, quando aplicáveis, para cada uma das sociedades cuja constituição seja prevista:
 
 a) Fundamentação da operação por meio de estudos de viabilidade económico-financeira do projecto;
 
@@ -262,13 +297,19 @@ h) Identificação das pessoas, singulares ou colectivas, que suscrevem o respec
 
 3 - As sociedades resultantes de qualquer das operações previstas no n.º 2 do artigo anterior respondem apenas pelas dívidas da INDEP, S. A., que pelo acto da transformação lhes sejam transmitidas.
 
-Art. 11.º - 1 - Cada uma das sociedades constituídas ao abrigo do n.º 1 do artigo 9.º tem como capital participado pela INDEP, S. A., o correspondente ao valor do activo líquido de passivo que para ela é destacado do património desta.
+###### Artigo 11.º
+
+1 - Cada uma das sociedades constituídas ao abrigo do n.º 1 do artigo 9.º tem como capital participado pela INDEP, S. A., o correspondente ao valor do activo líquido de passivo que para ela é destacado do património desta.
 
 2 - A participação no capital das novas sociedades a que se refere o número anterior deve ser certificada por uma sociedade de revisores oficiais de contas.
 
-Art. 12.º Não é aplicável ao Estado relativamente à INDEP, S. A., nem a esta relativamente às sociedades resultantes das transformações efectuadas de acordo com o n.º 1 do artigo 9.º, o disposto nos artigos 83.º, 84.º e 501.º a 504.º do Código das Sociedades Comerciais.
+###### Artigo 12.º
 
-Art. 13.º - 1 - Constituídas as novas sociedades ao abrigo do n.º 1 do artigo 9.º, deve o órgão social competente da INDEP, S. A., alterar os Estatutos de modo a adequá-los à nova realidade, podendo delibrar que o respectivo objecto seja unicamente a gestão de participações sociais, assim que se encontrem reunidas as condições formais para o efeito.
+Não é aplicável ao Estado relativamente à INDEP, S. A., nem a esta relativamente às sociedades resultantes das transformações efectuadas de acordo com o n.º 1 do artigo 9.º, o disposto nos artigos 83.º, 84.º e 501.º a 504.º do Código das Sociedades Comerciais.
+
+###### Artigo 13.º
+
+1 - Constituídas as novas sociedades ao abrigo do n.º 1 do artigo 9.º, deve o órgão social competente da INDEP, S. A., alterar os Estatutos de modo a adequá-los à nova realidade, podendo delibrar que o respectivo objecto seja unicamente a gestão de participações sociais, assim que se encontrem reunidas as condições formais para o efeito.
 
 2 - A alteração prevista na parte final do número anterior regula-se pela legislação aplicável, designadamente o [Decreto-Lei n.º 495/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/495-1988-401897), de 30 de Dezembro.
 
@@ -276,9 +317,13 @@ Art. 13.º - 1 - Constituídas as novas sociedades ao abrigo do n.º 1 do artigo
 
 4 - Podem ser transferidas para as sociedades a que se refere o n.º 1 participações de que o Estado ou outras entidades públicas sejam titulares.
 
-Art. 14.º - 1 - A constituição de novas sociedades determinadas pelo artigo 9.º é documentada apenas pelas actas das respectivas deliberações, as quais constituem título suficiente para os necessários registos.
+###### Artigo 14.º
 
-2 - São isentos de taxas e emolumentos devidos ao Registo Nacional de Pessoas Colectivas e às conservatórias dos registos predial ou comercial e de automóveis todos os actos a praticar para a execução do disposto no presente diploma.
+1 - Para constituição de novas sociedades criadas na execução do disposto no artigo 9.º em que a INDEP, S. A., detenha a totalidade ou a maioria do capital social, bem como para as alterações dos estatutos desta até à sua constituição em sociedade gestora de participações sociais, incluindo a própria transformação, serão título bastante as actas das referidas deliberações, que, para todos os efeitos legais, substituem a respectiva escritura notarial e são título suficiente para os necessários registos, averbamentos e publicações.
+
+2 - Até que seja efectivada a alteração a que se refere o n.º 1 do artigo 13.º, são isentos de taxas e emolumentos devidos aos cartórios notariais, ao Registo Nacional de Pessoas Colectivas e às conservatórias dos registos predial, comercial e de automóveis todos os actos a praticar pela INDEP, S. A., para a execução do disposto no presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 221/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1993-268839), publicado em 1993-06-18.
 
 Visto e aprovado em Conselho de Ministros de 20 de Junho de 1991. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - José Manuel Cardoso Borges Soeiro.
 
@@ -296,13 +341,19 @@ O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto
 
-Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de INDEP - Indústrias e Participações de Defesa, S. A., podendo ser designada, de forma abreviada, apenas por INDEP, S. A.
+###### Artigo 1.º
 
-Art. 2.º - 1 - A sociedade é constituída por tempo indeterminado e a sua sede é na cidade de Lisboa.
+A sociedade adopta a forma de sociedade anónima e a denominação de INDEP - Indústrias e Participações de Defesa, S. A., podendo ser designada, de forma abreviada, apenas por INDEP, S. A.
+
+###### Artigo 2.º
+
+1 - A sociedade é constituída por tempo indeterminado e a sua sede é na cidade de Lisboa.
 
 2 - Por deliberação do conselho de administração, a sociedade pode mudar a sua sede e ainda criar ou extinguir, em qualquer ponto do território nacional ou fora dele, agências, delegações ou quaisquer outras formas de representação.
 
-Art. 3.º - 1 - A sociedade tem por objecto principal:
+###### Artigo 3.º
+
+1 - A sociedade tem por objecto principal:
 
 a) O estudo, desenvolvimento, produção, ensaio e reparação industrial de materiais e equipamentos militares, designadamente armamento;
 
@@ -328,7 +379,9 @@ b) Exercer outras actividades industriais ou comerciais, incluindo a venda e pre
 
 ### CAPÍTULO II — Capital, acções e obrigações
 
-Art. 4.º - 1 - O capital social é de 2300000000$00 e encontra-se totalmente realizado pelos valores integrantes do património da sociedade.
+###### Artigo 4.º
+
+1 - O capital social é de 2300000000$00 e encontra-se totalmente realizado pelos valores integrantes do património da sociedade.
 
 2 - O capital é dividido em 2300000 acções com o valor nominal de 1000$00 cada uma.
 
@@ -336,15 +389,21 @@ Art. 4.º - 1 - O capital social é de 2300000000$00 e encontra-se totalmente re
 
 4 - As acções serão escriturais ou representadas por títulos de 1, 5, 10, 50, 100, 500, 1000 ou 5000, sendo reciprocamente convertíveis a expensas dos accionistas interessados.
 
-Art. 5.º Mediante deliberação da assembleia geral poderão ser emitidas acções preferenciais sem voto e convertidas acções ordinárias em acções preferenciais sem voto.
+###### Artigo 5.º
 
-Art. 6.º - 1 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem.
+Mediante deliberação da assembleia geral poderão ser emitidas acções preferenciais sem voto e convertidas acções ordinárias em acções preferenciais sem voto.
+
+###### Artigo 6.º
+
+1 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem.
 
 2 - Sempre que num aumento de capital haja accionistas que renunciem à subscrição das acções que lhes competiam, poderão as mesmas ser subscritas pelos demais accionistas na proporção das suas participações.
 
 ### CAPÍTULO III — Órgãos sociais
 
-Art. 7.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+###### Artigo 7.º
+
+1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - O mandato dos titulares dos órgãos sociais tem a duração de três anos, sendo permitida a sua renovação por uma ou mais vezes.
 
@@ -354,7 +413,9 @@ Art. 7.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de adm
 
 #### SECÇÃO I — Assembleia geral
 
-Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto.
+###### Artigo 8.º
+
+1 - A assembleia geral é formada pelos accionistas com direito a voto.
 
 2 - A cada 1000 acções corresponde um voto na assembleia geral.
 
@@ -370,7 +431,9 @@ Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito a vo
 
 8 - Os membros do conselho de administração e do conselho fiscal poderão estar presente nas reuniões da assembleia geral e participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto.
 
-Art. 9.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.
+###### Artigo 9.º
+
+1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.
 
 2 - Compete especialmente à assembleia geral:
 
@@ -392,21 +455,29 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 4 - As votações poderão ser efectuadas nominalmente ou por sinais convencionais, conforme seja decidido pelo presidente.
 
-Art. 10.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo esta constituída ainda por um vice-presidente e um secretário, devendo as respectivas faltas ser supridas nos termos da lei.
+###### Artigo 10.º
+
+1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo esta constituída ainda por um vice-presidente e um secretário, devendo as respectivas faltas ser supridas nos termos da lei.
 
 2 - A convocação da assembleia geral faz-se com antecedência mínima de 30 dias, mediante cartas registadas dirigidas a todos os accionistas, com indicação expressa dos assuntos a tratar.
 
 3 - Relativamente ao Estado, a convocação é feita por cartas dirigidas ao representante daquele e ao Ministério das Finanças ou, quando seja caso disso, à entidade a quem foi cometida a gestão das acções prevista no n.º 5 do artigo 8.º
 
-Art. 11.º A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que for requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
+###### Artigo 11.º
+
+A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que for requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelo menos, 5% do capital social.
 
 #### SECÇÃO II — Conselho de administração
 
-Art. 12.º - 1 - O conselho de administração é composto por um presidente, um vice-presidente e três vogais.
+###### Artigo 12.º
+
+1 - O conselho de administração é composto por um presidente, um vice-presidente e três vogais.
 
 2 - As vagas ou impedimentos que ocorram no conselho de administração serão preenchidos por nomeação do próprio conselho até que em assembleia geral se proceda à competente eleição.
 
-Art. 13.º Ao conselho de administração, além das competências que por lei lhe são conferidas, compete, nomeadamente:
+###### Artigo 13.º
+
+Ao conselho de administração, além das competências que por lei lhe são conferidas, compete, nomeadamente:
 
 a) Aprovar os objectivos e as políticas de gestão da empresa;
 
@@ -426,13 +497,19 @@ h) Constituir sociedades e subscrever, adquirir, onerar e alienar participaçõe
 
 i) Exercer as demais competências que lhe sejam atribuídas por lei ou pela assembleia geral.
 
-Art. 14.º Na gestão das actividades da sociedade, o conselho de administração deve subordinar-se às deliberações da assembleia geral.
+###### Artigo 14.º
 
-Art. 15.º - 1 - O conselho de administração poderá delegar numa ou mais comissões executivas, permanentes ou eventuais, compostas por algum dos seus membros, ou em comissões especiais constituídas por algum ou alguns dos seus membros e por empregados da sociedade, algum ou alguns dos poderes que lhe são conferidos, definindo em acta os limites e condições de tal delegação.
+Na gestão das actividades da sociedade, o conselho de administração deve subordinar-se às deliberações da assembleia geral.
+
+###### Artigo 15.º
+
+1 - O conselho de administração poderá delegar numa ou mais comissões executivas, permanentes ou eventuais, compostas por algum dos seus membros, ou em comissões especiais constituídas por algum ou alguns dos seus membros e por empregados da sociedade, algum ou alguns dos poderes que lhe são conferidos, definindo em acta os limites e condições de tal delegação.
 
 2 - A aquisição e a alienação de participações sociais, embora autorizadas pela assembleia geral, não se incluem nos poderes delegáveis.
 
-Art. 16.º - 1 - Compete especialmente ao presidente do conselho de administração:
+###### Artigo 16.º
+
+1 - Compete especialmente ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo ou fora dele;
 
@@ -444,7 +521,9 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos, o presidente será substituído pelo vice-presidente e, na falta ou impedimento de ambos, pelo administrador que aquele designar.
 
-Art. 17.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões e reunirá extraordinariamente sempre que convocado pelo respectivo presidente, por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
+###### Artigo 17.º
+
+1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões e reunirá extraordinariamente sempre que convocado pelo respectivo presidente, por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
 
 2 - O conselho de administração só poderá deliberar estando presente ou representada a maioria dos seus membros, sendo as suas deliberações tomadas por maioria dos votos expressos.
 
@@ -454,7 +533,9 @@ Art. 17.º - 1 - O conselho de administração fixará as datas ou a periodicida
 
 5 - As deliberações do conselho de administração constarão sempre de acta, que consignará os votos de vencido.
 
-Art. 18.º - 1 - A sociedade obriga-se:
+###### Artigo 18.º
+
+1 - A sociedade obriga-se:
 
 a) Pela assinatura de dois membros do conselho de administração;
 
@@ -470,15 +551,21 @@ c) Pela assinatura de mandatário constituído no âmbito dos poderes que lhe fo
 
 #### SECÇÃO III — Conselho fiscal
 
-Art. 19.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente e dois vogais efectivos e um suplente.
+###### Artigo 19.º
+
+1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente e dois vogais efectivos e um suplente.
 
 2 - Um dos vogais efectivos e o suplente serão revisores oficiais de contas.
 
 3 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para esse efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-Art. 20.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício e tendo o presidente voto de qualidade.
+###### Artigo 20.º
 
-Art. 21.º - 1 - O conselho fiscal tem a competência estabelecida na lei e nestes estatutos.
+As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício e tendo o presidente voto de qualidade.
+
+###### Artigo 21.º
+
+1 - O conselho fiscal tem a competência estabelecida na lei e nestes estatutos.
 
 2 - Ao conselho fiscal compete especialmente:
 
@@ -498,10 +585,14 @@ g) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-Art. 22.º Os resultados líquidos constantes do balanço anual terão a aplicação que for deliberada em assembleia geral, após a dedução das importâncias necessárias à constituição ou reintegração do fundo de reserva legal, nos termos previstos na lei.
+###### Artigo 22.º
+
+Os resultados líquidos constantes do balanço anual terão a aplicação que for deliberada em assembleia geral, após a dedução das importâncias necessárias à constituição ou reintegração do fundo de reserva legal, nos termos previstos na lei.
 
 ### CAPÍTULO V — Dissolução e liquidação
 
-Art. 23.º - 1 - A sociedade dissolve-se nos casos e nos termos legais.
+###### Artigo 23.º
+
+1 - A sociedade dissolve-se nos casos e nos termos legais.
 
 2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral.

@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:373581:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1988-05-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f2ba08f4b4634ac1"
+   ]
+  },
+  {
+   "date": "2005-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:534776:por",
+     "title": "Decreto Legislativo Regional n.º 1/2005/A",
+     "published": "2005-05-09",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2005-534776"
+    }
+   ],
+   "changes": [
+    "Altera Artigo único"
+   ],
+   "fragments": [
+    "a1caf54b3c7043d1",
+    "4c093d50ad265eb0"
+   ]
+  }
+ ],
+ "fragments": {
+  "f2ba08f4b4634ac1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Alteração ao [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795) (criação de serviços, mobilidade e contenção de efectivos)\n\nA necessidade de possibilitar a contratação além dos quadros aos serviços que tenham natureza transitória e que, por isso, não possuem quadros de pessoal, dos quais constituem exemplo o Gabinete de Execução do Programa Agro-Pecuário do Pico (GEPAP), bem como o Gabinete Executivo do Projecto de Melhoramento da Produção Leiteira (PMPL), uma vez que o recurso a este regime contratual se revela indispensável ao seu funcionamento, impõe a alteração da alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, aplicado à Região, com adaptações, pelo [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795), de 26 de Maio, dado que a redacção em vigor não contempla estas situações.\n\nDe igual modo se introduz um aditamento ao artigo 2.º do [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795), de 26 de Maio, visando permitir que os contratos celebrados ao abrigo do [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho, se possam realizar por urgente conveniência de serviço, dado em muitos casos não ser possível prever e programar com antecedência as necessidades de pessoal que irão ocorrer e noutros casos a própria natureza do trabalho e a urgência das tarefas a realizar não se compadecerem com a tramitação normal.\n\nAssim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:\n\nArtigo único - 1 - A alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, aplicado à Região Autónoma dos Açores, com adaptações, pelo [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795), de 26 de Maio, passa a ter a seguinte redacção:\n\n1 - ...\n\na) Quando a única forma de provimento prevista seja contrato e se destine ao preenchimento de lugares do quadro, bem como a contratação além dos quadros quando esta se revele indispensável ao funcionamento dos serviços de natureza transitória.\n\n2 - Ao artigo 2.º do [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795), de 26 de Maio, é aditado o n.º 4, com a seguinte redacção:\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - A contratação a prazo certo ao abrigo do [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho, poderá ser celebrada por urgente conveniência de serviço, de harmonia com o disposto nos n.os 2 e 3 do artigo 3.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.\n\nAprovado pela Assembleia Regional dos Açores, na Horta, em 10 de Março de 1988.\n\nO Presidente da Assembleia Regional, José Guilherme Reis Leite.\n\nAssinado em Angra do Heroísmo em 15 de Abril de 1988.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira."
+  },
+  "a1caf54b3c7043d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Alteração ao [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795) (criação de serviços, mobilidade e contenção de efectivos)\n\nA necessidade de possibilitar a contratação além dos quadros aos serviços que tenham natureza transitória e que, por isso, não possuem quadros de pessoal, dos quais constituem exemplo o Gabinete de Execução do Programa Agro-Pecuário do Pico (GEPAP), bem como o Gabinete Executivo do Projecto de Melhoramento da Produção Leiteira (PMPL), uma vez que o recurso a este regime contratual se revela indispensável ao seu funcionamento, impõe a alteração da alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, aplicado à Região, com adaptações, pelo [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795), de 26 de Maio, dado que a redacção em vigor não contempla estas situações.\n\nDe igual modo se introduz um aditamento ao artigo 2.º do [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795), de 26 de Maio, visando permitir que os contratos celebrados ao abrigo do [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho, se possam realizar por urgente conveniência de serviço, dado em muitos casos não ser possível prever e programar com antecedência as necessidades de pessoal que irão ocorrer e noutros casos a própria natureza do trabalho e a urgência das tarefas a realizar não se compadecerem com a tramitação normal.\n\nAssim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:"
+  },
+  "4c093d50ad265eb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo único",
+   "in_force_from": "2005-06-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 1/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-534776), publicado em 2005-05-09."
+   ],
+   "markdown": "###### Artigo único\n\n1 - A alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, aplicado à Região Autónoma dos Açores, com adaptações, pelo [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795), de 26 de Maio, passa a ter a seguinte redacção:\n\n1 - ...\n\na) Quando a única forma de provimento prevista seja contrato e se destine ao preenchimento de lugares do quadro, bem como a contratação além dos quadros quando esta se revele indispensável ao funcionamento dos serviços de natureza transitória.\n\n2 - (Revogado.)\n\nAprovado pela Assembleia Regional dos Açores, na Horta, em 10 de Março de 1988.\n\nO Presidente da Assembleia Regional, José Guilherme Reis Leite.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 1/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-534776), publicado em 2005-05-09.\n\nAssinado em Angra do Heroísmo em 15 de Abril de 1988.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira."
+  }
+ }
+}

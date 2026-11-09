@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:571446:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1990-05-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "06e9c86d2f3f10ac"
+   ]
+  },
+  {
+   "date": "1991-07-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:667945:por",
+     "title": "Decreto-Lei n.º 246/91",
+     "published": "1991-07-06",
+     "dre_path": "/dr/detalhe/decreto-lei/246-1991-667945"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "275061f0118fc51c",
+    "fb6144e1b235efa6",
+    "6cf76cd2d8388b84",
+    "dd47807f0bc419a8"
+   ]
+  }
+ ],
+ "fragments": {
+  "06e9c86d2f3f10ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Maio\n\nAs normas jurídicas portuguesas existentes no âmbito das comparticipações financeiras do Fundo Social Europeu prevêem a restituição voluntária sempre que as mesmas não sejam utilizadas ou, sendo-o, sejam utilizadas para fins diferentes daqueles para que foram concedidas.\n\nPortugal é, nos termos do direito comunitário, subsidiariamente responsável, perante a Comissão das Comunidades Europeias, pelo reembolso das comparticipações pagas e não utilizadas ou indevidamente aplicadas.\n\nA natureza das verbas envolvidas impõe, assim, que as acções contenciosas conducentes à reposição daqueles subsídios, quando irregularmente utilizados, se processem no domínio da justiça fiscal. Isto, obviamente, sem prejuízo da responsabilidade criminal que, eventualmente, se verifique em cada situação concreta.\n\nEste decreto-lei tem por objectivo fixar a instância processual competente, definir os títulos executivos necessários à propositura da acção e, ainda, graduar os créditos emergentes daquelas situações, em ordem a garantir o respectivo pagamento na concorrência de mais credores.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º - 1 - Sempre que as entidades obrigadas à restituição de qualquer quantia recebida no âmbito das comparticipações do Fundo Social Europeu e do Estado Português não cumpram a sua obrigação no prazo estipulado, será a mesma realizada através de execução fiscal.\n\n2 - O pedido de execução fiscal referido no número anterior, a promover pelo Ministério Público em representação do Estado Português, é instruído com os seguintes documentos, que servirão de título executivo para todos os efeitos legais:\n\na) Cópia da notificação da decisão de aprovação do apoio financeiro em causa e da declaração da respectiva aceitação ou documento equivalente;\n\nb) Cópia das autorizações de pagamento emitidas pelo Departamento para os Assuntos do Fundo Social Europeu (DAFSE);\n\nc) Cópia do despacho do director-geral do DAFSE que determinou a restituição;\n\nd) Cópia da notificação à entidade do despacho referido na alínea anterior.\n\nArt. 2.º Os créditos do DAFSE resultantes da não utilização ou aplicação indevida dos subsídios concedidos pelo Fundo Social Europeu e pelo Estado Português gozam das seguintes garantias especiais:\n\na) Privilégio mobiliário geral, graduando-se logo após os créditos referidos na alínea a) do n.º 1 do artigo 747.º do Código Civil;\n\nb) Privilégio imobiliário, graduando-se logo após os créditos referidos no artigo 748.º do Código Civil;\n\nc) Hipoteca legal, graduando-se nos mesmos termos dos créditos referidos na alínea a) do artigo 705.º do Código Civil.\n\nArt. 3.º O presente diploma aplica-se às reposições pendentes no momento da sua entrada em vigor.\n\nVisto e aprovado em Conselho de Ministros de 29 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - José Albino da Silva Peneda.\n\nPromulgado em 4 de Maio de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 8 de Maio de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "275061f0118fc51c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Maio\n\nAs normas jurídicas portuguesas existentes no âmbito das comparticipações financeiras do Fundo Social Europeu prevêem a restituição voluntária sempre que as mesmas não sejam utilizadas ou, sendo-o, sejam utilizadas para fins diferentes daqueles para que foram concedidas.\n\nPortugal é, nos termos do direito comunitário, subsidiariamente responsável, perante a Comissão das Comunidades Europeias, pelo reembolso das comparticipações pagas e não utilizadas ou indevidamente aplicadas.\n\nA natureza das verbas envolvidas impõe, assim, que as acções contenciosas conducentes à reposição daqueles subsídios, quando irregularmente utilizados, se processem no domínio da justiça fiscal. Isto, obviamente, sem prejuízo da responsabilidade criminal que, eventualmente, se verifique em cada situação concreta.\n\nEste decreto-lei tem por objectivo fixar a instância processual competente, definir os títulos executivos necessários à propositura da acção e, ainda, graduar os créditos emergentes daquelas situações, em ordem a garantir o respectivo pagamento na concorrência de mais credores.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "fb6144e1b235efa6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1991-07-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 246/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1991-667945), publicado em 1991-07-06."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Sempre que as entidades obrigadas à restituição de qualquer quantia recebida no âmbito das comparticipações do Fundo Social Europeu e do Estado Português não cumpram a sua obrigação no prazo estipulado, será a mesma realizada através de execução fiscal.\n\n2 - A execução fiscal será promovida pelos serviços competentes de justiça fiscal com base em certidão do despacho do director-geral do Departamento para os Assuntos do Fundo Social Europeu que determine a restituição e sua notificação à entidade devedora.\n\n3 - A representação do exequente nos tribunais tributários faz-se nos termos do disposto no artigo 42.º do Código de Processo Tributário, aprovado pelo Decreto-Lei n.º 154/91, de 23 de Abril.\n\n> Alterado pelo/a [Decreto-Lei n.º 246/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1991-667945), publicado em 1991-07-06."
+  },
+  "6cf76cd2d8388b84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs créditos do DAFSE resultantes da não utilização ou aplicação indevida dos subsídios concedidos pelo Fundo Social Europeu e pelo Estado Português gozam das seguintes garantias especiais:\n\na) Privilégio mobiliário geral, graduando-se logo após os créditos referidos na alínea a) do n.º 1 do artigo 747.º do Código Civil;\n\nb) Privilégio imobiliário, graduando-se logo após os créditos referidos no artigo 748.º do Código Civil;\n\nc) Hipoteca legal, graduando-se nos mesmos termos dos créditos referidos na alínea a) do artigo 705.º do Código Civil."
+  },
+  "dd47807f0bc419a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma aplica-se às reposições pendentes no momento da sua entrada em vigor.\n\nVisto e aprovado em Conselho de Ministros de 29 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - José Albino da Silva Peneda.\n\nPromulgado em 4 de Maio de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 8 de Maio de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

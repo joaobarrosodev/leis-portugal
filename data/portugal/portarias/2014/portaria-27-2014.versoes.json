@@ -1,0 +1,86 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:570703:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2014-02-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fc55629b555515f5",
+    "d04b457915585681",
+    "83caccb0f352069f",
+    "b1eb28858a34dc4c"
+   ]
+  },
+  {
+   "date": "2020-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130954976:por",
+     "title": "Portaria n.º 83/2020",
+     "published": "2020-04-01",
+     "dre_path": "/dr/detalhe/portaria/83-2020-130954976"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "fc55629b555515f5",
+    "d04b457915585681",
+    "5ade82f8571cd8a4",
+    "b1eb28858a34dc4c"
+   ]
+  }
+ ],
+ "fragments": {
+  "fc55629b555515f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de fevereiro\n\nO [Decreto-Lei n.º 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro, veio estabelecer o procedimento aplicável à extinção das tarifas reguladas de venda de eletricidade em clientes finais, no continente, com consumos em muito alta tensão (MAT), alta tensão (AT), média tensão (MT) e baixa tensão especial (BTE), tendo fixado um período de aplicação das tarifas transitórias que foi posteriormente alterado pelos Decretos-Leis n.os [75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, [256/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2012-190603), de 29 de novembro, e [13/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2014-571032), de 22 de janeiro.\n\nAtravés do [Decreto-Lei n.º 13/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2014-571032), de 22 de janeiro, ficou estabelecido que os comercializadores de último recurso devem, até data a definir mediante portaria do membro do Governo responsável pela área da energia, ouvida a ERSE, continuar a fornecer eletricidade a clientes finais com consumos em AT, MT e BTE que não tenham contratado no mercado livre o seu fornecimento.\n\nA presente portaria tem precisamente por objeto proceder a essa fixação, não obstante a possibilidade de extinção antecipada do período em causa, relativamente aos clientes finais enquadrados nos segmentos de fornecimento cujo número total de clientes finais de eletricidade fornecidos em regime de mercado de livre atinja a percentagem de 90 %, nos termos previstos no n.º 5 do artigo 6.º do [Decreto-Lei n.º 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro, alterado pelos Decretos-Leis n.os [75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, [256/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2012-190603), de 29 de novembro e [13/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2014-571032), de 22 de janeiro.\n\nFoi ouvida a Entidade Reguladora dos Serviços Energéticos.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 6.º do [Decreto-Lei n.º 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro, alterado pelos Decretos-Leis n.os [75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, [256/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2012-190603), de 29 de novembro e [13/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2014-571032) de 22 de janeiro, manda o Governo, pelo Secretário de Estado da Energia, o seguinte:"
+  },
+  "d04b457915585681": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à aprovação da data prevista no n.º 1 do artigo 6.º do [Decreto-Lei n.º 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro, alterado pelos Decretos-Leis n.os [75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, [256/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2012-190603), de 29 de novembro e [13/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2014-571032), de 22 de janeiro."
+  },
+  "83caccb0f352069f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Data de extinção das tarifas transitórias para fornecimentos de eletricidade a clientes finais com consumos em AT, MT e BTE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Data de extinção das tarifas transitórias para fornecimentos de eletricidade a clientes finais com consumos em AT, MT e BTE\n\nA data prevista no n.º 1 do artigo 6.º do [Decreto-Lei n.º 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro, alterado pelos Decretos-Leis n.os [75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, [256/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2012-190603), de 29 de novembro e [13/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2014-571032), de 22 de janeiro, é fixada em 31 de dezembro de 2014."
+  },
+  "b1eb28858a34dc4c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente Portaria entra em vigor no dia seguinte à sua publicação e produz efeitos desde 1 de janeiro de 2014.\n\nO Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 23 de janeiro de 2014."
+  },
+  "5ade82f8571cd8a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Data de extinção das tarifas transitórias para fornecimentos de eletricidade a clientes finais com consumos em AT, MT e BTE",
+   "in_force_from": "2020-04-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 83/2020](https://diariodarepublica.pt/dr/detalhe/portaria/83-2020-130954976), publicado em 2020-04-01."
+   ],
+   "markdown": "###### Artigo 2.º — Data de extinção das tarifas transitórias para fornecimentos de eletricidade a clientes finais com consumos em AT, MT e BTE\n\nA data prevista no n.º 1 do artigo 6.º do [Decreto-Lei n.º 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro, na sua redação atual, relativa à obrigatoriedade de fornecimento de eletricidade, pelos comercializadores de último recurso, a clientes finais com consumos em MT e BTE que não tenham contratado no mercado livre o seu fornecimento, é fixada, respetivamente em 31 de dezembro de 2021 e 31 de dezembro de 2022.\n\n> Alterado pelo/a [Portaria n.º 83/2020](https://diariodarepublica.pt/dr/detalhe/portaria/83-2020-130954976), publicado em 2020-04-01."
+  }
+ }
+}

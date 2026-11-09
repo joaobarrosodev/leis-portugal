@@ -1,0 +1,807 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:524809:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-07-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0e5390042cb790bd",
+    "23836370ae405d04",
+    "1272b2ee82ecd989",
+    "af109d7e8c28cc53",
+    "b673a8a5b7623dce",
+    "7a1e43da8556a5da",
+    "7e8fa66143bbeba7",
+    "420cbad97e8a4ad5",
+    "61daa8098af20fc2",
+    "11803d6e58aecdc2",
+    "1dffd3ee7555ac7d",
+    "5cb2412cd786d3bb",
+    "055bd5bdce8649fb",
+    "1e25e2964dbec725",
+    "29708978f05f5c3e",
+    "f86a993fe7ad20c4",
+    "88d5e88e9f4fdacf",
+    "d61e2180a3bbcbc0",
+    "8031148ac3867626",
+    "ac9048f806de4ce9",
+    "6764dc3b4af23f6a",
+    "97b93790b9261b05",
+    "f35b4d07f954bf0a",
+    "97bf057ceca5389d",
+    "d23b8d0c7aea36f3",
+    "557b9e66e048b505",
+    "f060e9c735616852",
+    "c396674392d19095",
+    "237f0f5a986cf7a7",
+    "d09fcc3304fc8d50",
+    "327f6d842dddb365",
+    "c89ea24386418a81",
+    "ca55d77f543b34f9",
+    "5618ade8a34949d2",
+    "2da1099814e41013",
+    "471e4c1faba21877",
+    "10410d6ac88ce960",
+    "27ef267d9ddd7f7d",
+    "8f8a810651cd383e",
+    "8d7fec9a130eb58b",
+    "2141a06d2fa16267",
+    "897a93d80ac760aa",
+    "306c998e7e0f7852",
+    "6e7ff7fe4ff716dc",
+    "78056213e4c50a05",
+    "3caa7cfdc375e0cf",
+    "f018c6cabd647617",
+    "eee912c0b0e697bf",
+    "b83ebabf95149aea",
+    "ef4a003367cd7d96",
+    "670831d50f19266e",
+    "42d03f7099c1e32d",
+    "e8f1b8d302203c43",
+    "44eba839c6924743",
+    "0a5844eae764bdc8",
+    "2971d4811dfb3543",
+    "18f761916efd0589",
+    "ee64d9b98c3acd05",
+    "8f968282c8148d65",
+    "82ce54486de505b0",
+    "f12957ad8951fd2a",
+    "cbe04bfeebc8fa89",
+    "42df4230c0820902",
+    "5f4f24b3db069413",
+    "65da74a5169389f0",
+    "cf93754838aa8cdd",
+    "0f469ac9d459b338",
+    "c5ad9ed29e2a3eed",
+    "6e44a954e02b3362",
+    "27fe6828e6e2d86e",
+    "b53984e9770fe140",
+    "1d1b287454294669",
+    "216f9d9524a5f352",
+    "0fdf6281dc34ded0",
+    "af90d2fcd5df0605",
+    "67144de3c53b4bbe"
+   ]
+  },
+  {
+   "date": "2009-10-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:482821:por",
+     "title": "Portaria n.º 1270/2009",
+     "published": "2009-10-16",
+     "dre_path": "/dr/detalhe/portaria/1270-2009-482821"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 48.º-A"
+   ],
+   "fragments": [
+    "0e5390042cb790bd",
+    "23836370ae405d04",
+    "1272b2ee82ecd989",
+    "af109d7e8c28cc53",
+    "b673a8a5b7623dce",
+    "7a1e43da8556a5da",
+    "7e8fa66143bbeba7",
+    "420cbad97e8a4ad5",
+    "61daa8098af20fc2",
+    "11803d6e58aecdc2",
+    "1dffd3ee7555ac7d",
+    "5cb2412cd786d3bb",
+    "055bd5bdce8649fb",
+    "1e25e2964dbec725",
+    "29708978f05f5c3e",
+    "f86a993fe7ad20c4",
+    "88d5e88e9f4fdacf",
+    "d61e2180a3bbcbc0",
+    "8031148ac3867626",
+    "ac9048f806de4ce9",
+    "6764dc3b4af23f6a",
+    "97b93790b9261b05",
+    "f35b4d07f954bf0a",
+    "97bf057ceca5389d",
+    "d23b8d0c7aea36f3",
+    "557b9e66e048b505",
+    "f060e9c735616852",
+    "c396674392d19095",
+    "237f0f5a986cf7a7",
+    "d09fcc3304fc8d50",
+    "327f6d842dddb365",
+    "c89ea24386418a81",
+    "ca55d77f543b34f9",
+    "5618ade8a34949d2",
+    "2da1099814e41013",
+    "471e4c1faba21877",
+    "10410d6ac88ce960",
+    "27ef267d9ddd7f7d",
+    "8f8a810651cd383e",
+    "8d7fec9a130eb58b",
+    "2141a06d2fa16267",
+    "897a93d80ac760aa",
+    "306c998e7e0f7852",
+    "6e7ff7fe4ff716dc",
+    "78056213e4c50a05",
+    "3caa7cfdc375e0cf",
+    "f018c6cabd647617",
+    "eee912c0b0e697bf",
+    "b83ebabf95149aea",
+    "ef4a003367cd7d96",
+    "670831d50f19266e",
+    "42d03f7099c1e32d",
+    "e8f1b8d302203c43",
+    "44eba839c6924743",
+    "0a5844eae764bdc8",
+    "78d27e8ef5c7535f",
+    "2971d4811dfb3543",
+    "18f761916efd0589",
+    "ee64d9b98c3acd05",
+    "8f968282c8148d65",
+    "82ce54486de505b0",
+    "f12957ad8951fd2a",
+    "cbe04bfeebc8fa89",
+    "42df4230c0820902",
+    "5f4f24b3db069413",
+    "65da74a5169389f0",
+    "cf93754838aa8cdd",
+    "0f469ac9d459b338",
+    "c5ad9ed29e2a3eed",
+    "6e44a954e02b3362",
+    "27fe6828e6e2d86e",
+    "b53984e9770fe140",
+    "1d1b287454294669",
+    "216f9d9524a5f352",
+    "0fdf6281dc34ded0",
+    "af90d2fcd5df0605",
+    "67144de3c53b4bbe"
+   ]
+  }
+ ],
+ "fragments": {
+  "0e5390042cb790bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Julho\n\nConsiderando o disposto no [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, alterado pelos Decretos-Leis n.os [99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de Março, [26/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), de 7 de Fevereiro, [76/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), de 27 de Março, [158/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), de 30 de Junho, [147-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), de 31 de Julho, [40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de Fevereiro, [45/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), de 23 de Fevereiro, e [90/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), de 30 de Maio, e rectificado pela [Declaração de Rectificação n.º 32-C/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-c-2008-155582), de 16 de Junho;\n\nConsiderando o disposto nas deliberações da Comissão Nacional de Acesso ao Ensino Superior;\n\nConsiderando o disposto no artigo 5.º do Regulamento de Incentivos à Prestação de Serviço Militar nos Regimes de Contrato (RC) e de Voluntariado (RV), aprovado pelo [Decreto-Lei n.º 320-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-a-2000-393396), de 15 de Dezembro, alterado pelos Decretos-Lei n.os [118/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2004-270806), de 21 de Maio, e [320/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2007-642062), de 27 de Setembro;\n\nOuvida a Comissão Nacional de Acesso ao Ensino Superior e os órgãos de governo próprios das Regiões Autónomas;\n\nConsiderando a revisão em curso das normas referentes aos contingentes especiais, preferências e regimes especiais, tendo em vista o concurso do próximo ano e seguintes;\n\nAo abrigo do disposto nos artigos 28.º e 40.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, alterado pelos Decretos-Leis n.os [99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de Março, [26/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), de 7 de Fevereiro, [76/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), de 27 de Março, [158/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), de 30 de Junho, [147-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), de 31 de Julho, [40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de Fevereiro, [45/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), de 23 de Fevereiro, e [90/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), de 30 de Maio, e rectificado pela [Declaração de Rectificação n.º 32-C/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-c-2008-155582), de 16 de Junho:\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:\n\n1.º\n\nAprovação\n\nÉ aprovado o Regulamento do Concurso Nacional de Acesso e Ingresso no Ensino Superior Público para a Matrícula e Inscrição no Ano Lectivo de 2009-2010, a que se refere o artigo 28.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, alterado pelos Decretos-Leis n.os [99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de Março, [26/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), de 7 de Fevereiro, [76/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), de 27 de Março, [158/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), de 30 de Junho, [147-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), de 31 de Julho, [40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de Fevereiro, [45/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), de 23 de Fevereiro, e [90/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), de 30 de Maio, e rectificado pela [Declaração de Rectificação n.º 32-C/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-c-2008-155582), de 16 de Junho, cujo texto se publica em anexo a esta portaria.\n\n2.º\n\nTexto\n\nO texto referido no número anterior e os respectivos anexos consideram-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria.\n\n3.º\n\nAlterações\n\nTodas as alterações ao Regulamento são nele incorporadas através de nova redacção dos seus artigos ou de aditamento de novos artigos.\n\n4.º\n\nEntrada em vigor\n\nEsta portaria entra em vigor no dia imediato ao da sua publicação.\n\nO Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 9 de Julho de 2009.\n\nREGULAMENTO DO CONCURSO NACIONAL DE ACESSO E INGRESSO NO ENSINO SUPERIOR PÚBLICO PARA A MATRÍCULA E INSCRIÇÃO NO ANO LECTIVO DE 2009-2010"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "1272b2ee82ecd989": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento disciplina o concurso nacional de acesso e ingresso no ensino superior público, a que se refere o n.º 1 do artigo 27.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, alterado pelos Decretos-Leis n.os [99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de Março, [26/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), de 7 de Fevereiro, [76/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), de 27 de Março, [158/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), de 30 de Junho, [147-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), de 31 de Julho, [40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de Fevereiro, [45/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), de 23 de Fevereiro, e [90/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), de 30 de Maio, e rectificado pela [Declaração de Rectificação n.º 32-C/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/32-c-2008-155582), de 16 de Junho, para a matrícula e inscrição no ano lectivo de 2009-2010."
+  },
+  "af109d7e8c28cc53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nOs pares estabelecimento/curso abrangidos pelo concurso são publicados no sítio da Internet da Direcção-Geral do Ensino Superior (www.dges.mctes.pt)."
+  },
+  "b673a8a5b7623dce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Fases",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fases\n\nO concurso organiza-se em três fases."
+  },
+  "7a1e43da8556a5da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Validade do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Validade do concurso\n\nO concurso é válido apenas para o ano em que se realiza."
+  },
+  "7e8fa66143bbeba7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições gerais de apresentação ao concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições gerais de apresentação ao concurso\n\nPode apresentar-se ao concurso o estudante que satisfaça cumulativamente as seguintes condições:\n\na) Ser titular de um curso de ensino secundário ou de habilitação legalmente equivalente concluído até ao ano lectivo de 2008-2009, inclusive;\n\nb) Fazer prova de capacidade para a frequência do ensino superior."
+  },
+  "420cbad97e8a4ad5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Candidatura"
+  },
+  "61daa8098af20fc2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições para a candidatura a cada par estabelecimento/curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições para a candidatura a cada par estabelecimento/curso\n\nPara a candidatura a cada par estabelecimento/curso o estudante deve satisfazer cumulativamente as seguintes condições:\n\na) Ter realizado as provas de ingresso fixadas para esse par estabelecimento/curso;\n\nb) Ter obtido em cada uma das provas de ingresso fixadas para esse par estabelecimento/curso a classificação mínima a que se refere o n.º 2 do artigo 25.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481);\n\nc) Ter satisfeito e ou realizado, conforme os casos, os pré-requisitos fixados para ingresso nesse par estabelecimento/curso, nos termos do n.º 2 do artigo 16.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), se exigidos;\n\nd) Ter obtido, na nota de candidatura, a classificação mínima a que se refere a alínea c) do artigo 24.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481)."
+  },
+  "11803d6e58aecdc2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Provas de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Provas de ingresso\n\n1 - As provas de ingresso realizam-se através dos exames nacionais do ensino secundário nos termos fixados pela Comissão Nacional de Acesso ao Ensino Superior.\n\n2 - Os exames nacionais do ensino secundário que podem ser utilizados como provas de ingresso na 1.ª fase do concurso são os fixados por deliberação da Comissão Nacional de Acesso ao Ensino Superior.\n\n3 - Os pares estabelecimento/curso a que se aplica o disposto no artigo 20.º-A do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481) e os termos e condições em que esta norma se aplica são os fixados por deliberação da Comissão Nacional de Acesso ao Ensino Superior.\n\n4 - Na candidatura a um dos pares estabelecimento/curso a que se aplica o disposto no artigo 20.º-A do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), os estudantes titulares dos cursos não portugueses, legalmente equivalentes ao curso de ensino secundário português, indicados nas deliberações da Comissão Nacional de Acesso ao Ensino Superior a que se refere o número anterior podem, nos termos e condições fixados nas mesmas, substituir as provas de ingresso por exames finais de disciplinas daqueles cursos."
+  },
+  "1dffd3ee7555ac7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Vagas\n\n1 - As vagas para a 1.ª fase do concurso são as fixadas nos termos do artigo 4.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481) e divulgadas no sítio da Internet da Direcção-Geral do Ensino Superior.\n\n2 - As vagas para a 2.ª fase do concurso são aquelas a que se refere o artigo 43.º\n\n3 - As vagas para a 3.ª fase do concurso são aquelas a que se refere o artigo 47.º"
+  },
+  "5cb2412cd786d3bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Contingentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contingentes\n\n1 - Na 1.ª fase as vagas fixadas para cada curso em cada estabelecimento de ensino superior são distribuídas por um contingente geral e por contingentes especiais.\n\n2 - São criados os seguintes contingentes especiais:\n\na) Contingente especial para candidatos oriundos da Região Autónoma dos Açores, com 3,5 % das vagas fixadas para a 1.ª fase;\n\nb) Contingente especial para candidatos oriundos da Região Autónoma da Madeira, com 3,5 % das vagas fixadas para a 1.ª fase;\n\nc) Contingente especial para candidatos emigrantes portugueses e familiares que com eles residam, com 7 % das vagas fixadas para a 1.ª fase;\n\nd) Contingente especial para candidatos que se encontrem a prestar serviço militar efectivo no regime de contrato, com 2,5 % das vagas fixadas para a 1.ª fase;\n\ne) Contingente especial para candidatos portadores de deficiência física ou sensorial, com o maior dos seguintes valores: 2 % das vagas fixadas para a 1.ª fase ou duas vagas.\n\n3 - O resultado do cálculo dos valores a que se refere o número anterior:\n\na) É arredondado para o inteiro superior se tiver parte decimal maior ou igual a 5;\n\nb) Assume o valor 1 se for inferior a 0,5.\n\n4 - As vagas atribuídas ao contingente geral são o resultado da diferença entre o número de vagas fixadas para a 1.ª fase e as vagas afectadas aos contingentes especiais nos termos dos n.os 2 e 3.\n\n5 - O disposto no presente artigo será revisto para a candidatura de 2010 e anos subsequentes."
+  },
+  "055bd5bdce8649fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Contingentes especiais para candidatos oriundos das Regiões Autónomas dos Açores e da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contingentes especiais para candidatos oriundos das Regiões Autónomas dos Açores e da Madeira\n\n1 - Podem concorrer às vagas dos contingentes especiais previstos nas alíneas a) e b) do n.º 2 do artigo anterior os estudantes que, cumulativamente, façam prova de que:\n\na) À data da candidatura residem permanentemente, há pelo menos três anos, na Região Autónoma dos Açores ou na Região Autónoma da Madeira, respectivamente;\n\nb) Durante o período a que se refere a alínea anterior, estiveram inscritos, frequentaram e concluíram um curso de ensino secundário em estabelecimento de ensino secundário localizado na Região Autónoma em que têm residência;\n\nc) Nunca estiveram matriculados em estabelecimento de ensino superior público.\n\n2 - Pode ainda concorrer às vagas do respectivo contingente especial o estudante que, cumulativamente, comprove:\n\na) Ser filho (ou estar sujeito à tutela) tanto de funcionário ou agente, quer da administração pública central, regional e local, quer de organismo de coordenação económica ou de qualquer outro instituto público, como de magistrado, conservador, notário, funcionário judicial, membro das Forças Armadas ou das forças de segurança;\n\nb) Haver a sua residência permanente sido mudada há menos de dois anos para localidade situada fora da área territorial do referido contingente em consequência de o progenitor ou de a pessoa que sobre ele exerce o poder tutelar ter entretanto passado a estar colocado nessa localidade;\n\nc) À data da mudança de residência referida na alínea b), residir permanentemente, há pelo menos três anos, na Região Autónoma dos Açores ou na Região Autónoma da Madeira, respectivamente, e aí ter estado inscrito no ensino secundário;\n\nd) Nunca ter estado matriculado em estabelecimento de ensino superior público.\n\n3 - De entre os candidatos às vagas de cada um dos contingentes especiais referidos nas alíneas a) e b) do n.º 2 do artigo anterior, os candidatos que concorrem ao abrigo do n.º 1 do presente artigo têm prioridade de colocação em relação aos que concorrem ao abrigo do n.º 2.\n\n4 - Os candidatos às vagas do contingente especial para a Região Autónoma dos Açores apenas podem concorrer a vagas desse contingente respeitantes a cursos congéneres dos professados na Universidade dos Açores desde que, na lista ordenada de opções a que se refere o n.º 3 do artigo 20.º, também concorram, antes daquelas, às vagas dos cursos congéneres da referida Universidade.\n\n5 - Os candidatos às vagas do contingente especial para a Região Autónoma dos Açores podem ainda concorrer a vagas desse contingente respeitantes a cursos congéneres dos professados na Universidade dos Açores sem que concorram, antes daquelas, na lista ordenada de opções a que se refere o n.º 3 do artigo 20.º, às vagas dos cursos congéneres da referida Universidade, quando não reúnam, em relação a estes, as condições a que se referem as alíneas b) e d) do artigo 6.º\n\n6 - Os candidatos às vagas do contingente especial para a Região Autónoma da Madeira apenas podem concorrer a vagas desse contingente respeitantes a cursos congéneres dos professados na Universidade da Madeira desde que, na lista ordenada de opções a que se refere o n.º 3 do artigo 20.º, também concorram, antes daquelas, às vagas dos cursos congéneres da referida Universidade.\n\n7 - Os candidatos às vagas do contingente especial para a Região Autónoma da Madeira podem ainda concorrer a vagas desse contingente respeitantes a cursos congéneres dos professados na Universidade da Madeira sem que concorram, antes daquelas, na lista ordenada de opções a que se refere o n.º 3 do artigo 20.º, às vagas dos cursos congéneres da referida Universidade, quando não reúnam, em relação a estes, as condições a que se referem as alíneas b) e d) do artigo 6.º"
+  },
+  "1e25e2964dbec725": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Curso congénere",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Curso congénere\n\n1 - Para efeitos do disposto neste Regulamento, entende-se como curso congénere de um determinado curso aquele que, embora eventualmente designado de forma diferente, tenha o mesmo nível científico e ministre uma formação equivalente.\n\n2 - Por despacho do director-geral do Ensino Superior é fixada a lista dos cursos congéneres dos cursos da Universidade dos Açores e da Universidade da Madeira.\n\n3 - O despacho a que se refere o número anterior é publicado no sítio da Internet da Direcção-Geral do Ensino Superior."
+  },
+  "29708978f05f5c3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Contingente especial para candidatos emigrantes portugueses e familiares que com eles residam",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contingente especial para candidatos emigrantes portugueses e familiares que com eles residam\n\n1 - Para efeitos do disposto neste Regulamento:\n\na) É emigrante português o nacional que tenha residido durante, pelo menos, dois anos, com carácter permanente, em país estrangeiro onde tenha exercido actividade remunerada por conta própria ou por conta de outrem;\n\nb) É familiar de emigrante português o cônjuge, o parente ou afim em qualquer grau da linha recta e até ao 3.º grau da linha colateral que com ele tenha residido, com carácter permanente, no estrangeiro, por período não inferior a dois anos e que não tenha idade superior a 25 anos em 31 de Dezembro de 2009.\n\n2 - Podem concorrer às vagas do contingente especial previsto na alínea c) do n.º 2 do artigo 9.º os estudantes que, cumulativamente, satisfaçam as seguintes condições:\n\na) Sejam emigrantes portugueses ou familiares que com eles residam;\n\nb) Apresentem a sua candidatura no prazo máximo de três anos após o regresso a Portugal;\n\nc) Tenham obtido no país estrangeiro de residência:\n\nc1) Diploma de curso terminal do ensino secundário desse país ou nele obtido que aí constitua habilitação de acesso ao ensino superior; ou\n\nc2) A titularidade de um curso de ensino secundário português;\n\nd) À data da conclusão do curso de ensino secundário residam há, pelo menos, dois anos, com carácter permanente, em país estrangeiro;\n\ne) Não sejam titulares de um curso superior português ou estrangeiro."
+  },
+  "f86a993fe7ad20c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Contingente especial para candidatos militares em regime de contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contingente especial para candidatos militares em regime de contrato\n\nPodem concorrer às vagas do contingente especial previsto na alínea d) do n.º 2 do artigo 9.º os estudantes que, à data da apresentação da candidatura, satisfaçam, cumulativamente, as seguintes condições:\n\na) Tenham prestado, no mínimo, dois anos de serviço efectivo em regime de contrato (RC):\n\na1) Quer se encontrem ainda a prestar serviço em RC;\n\na2) Quer já tenham cessado a prestação de serviço em RC e desde a cessação não tenha decorrido um período superior ao do tempo em que prestaram serviço em RC;\n\nb) Nunca tenham estado matriculados em estabelecimento de ensino superior público."
+  },
+  "88d5e88e9f4fdacf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Contingente especial para candidatos portadores de deficiência física ou sensorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contingente especial para candidatos portadores de deficiência física ou sensorial\n\n1 - Podem concorrer às vagas do contingente especial previsto na alínea e) do n.º 2 do artigo 9.º os estudantes que satisfaçam os requisitos constantes do anexo ii.\n\n2 - Os estudantes que requeiram a candidatura às vagas deste contingente podem, se para tanto reunirem condições, concorrer simultaneamente às vagas de um dos contingentes a que se referem as alíneas a), b) e c) do n.º 2 do artigo 9.º\n\n3 - Os estudantes a quem seja indeferido o requerimento de candidatura às vagas deste contingente especial são considerados no âmbito do contingente geral e, se for caso disso, no âmbito do contingente especial que hajam indicado nos termos do número anterior."
+  },
+  "d61e2180a3bbcbc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Preferência regional para a Região Autónoma dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Preferência regional para a Região Autónoma dos Açores\n\n1 - Na 1.ª fase do concurso, os candidatos que satisfazem as condições para concorrer às vagas do contingente especial previsto na alínea a) do n.º 2 do artigo 9.º beneficiam de prioridade na colocação em 50 % do número de vagas fixadas para cada curso da Universidade dos Açores que, nos termos do n.º 3 do artigo 20.º, tenham indicado antes de quaisquer outros.\n\n2 - O disposto no presente artigo será revisto para a candidatura de 2010 e anos subsequentes."
+  },
+  "8031148ac3867626": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Preferência regional para a Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Preferência regional para a Região Autónoma da Madeira\n\n1 - Na 1.ª fase do concurso, os candidatos que satisfazem as condições para concorrer às vagas do contingente especial previsto na alínea b) do n.º 2 do artigo 9.º beneficiam de prioridade na colocação em 50 % do número de vagas fixadas para cada curso da Universidade da Madeira que, nos termos do n.º 3 do artigo 20.º, tenham indicado antes de quaisquer outros.\n\n2 - O disposto no presente artigo será revisto para a candidatura de 2010 e anos subsequentes."
+  },
+  "ac9048f806de4ce9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Preferências regionais na candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Preferências regionais na candidatura\n\n1 - Na 1.ª fase do concurso podem beneficiar de preferência no acesso a pares estabelecimento/curso de ensino superior politécnico, até um máximo de 50 % do total das respectivas vagas, os candidatos oriundos da área de influência fixada para cada um daqueles pares.\n\n2 - O disposto no número anterior é aplicável à candidatura aos preparatórios de cursos superiores universitários, bem como à candidatura aos cursos de ensino politécnico ministrados em escolas superiores de ensino politécnico integradas em universidades.\n\n3 - O disposto no n.º 1 é igualmente aplicável aos cursos ministrados em instituições universitárias a que, sob proposta do órgão legal e estatutariamente competente, seja reconhecido especial interesse regional, por despacho do Ministro da Ciência, Tecnologia e Ensino Superior publicado na 2.ª série do Diário da República.\n\n4 - Os pares estabelecimento/curso a que se aplicam as preferências regionais, a área de influência respectiva, bem como a percentagem das vagas efectivamente abrangidas pela referida preferência, são fixados pelo órgão legal e estatutariamente competente de cada estabelecimento de ensino e divulgados nos termos do artigo 38.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro.\n\n5 - Beneficiam das preferências regionais os candidatos que, cumulativamente:\n\na) O indiquem expressamente no local adequado do formulário de candidatura online ou do boletim de candidatura;\n\nb) Indiquem os pares estabelecimento/curso em que pretendem beneficiar da preferência regional em primeiro lugar e seguintes, sem interrupção, na lista ordenada de opções a que se refere o n.º 3 do artigo 20.º;\n\nc) Tenham estado matriculados e concluído os 11.º e 12.º anos de escolaridade em estabelecimento de ensino secundário localizado nessa área de influência.\n\n6 - Os candidatos que beneficiam das preferências regionais têm, em relação aos pares estabelecimento/curso delas objecto, prioridade de colocação nas vagas abrangidas pela preferência.\n\n7 - Os candidatos que não sendo abrangidos pelo disposto no n.º 5 satisfaçam às condições dos n.os 5, 6 ou 7 do artigo 17.º do Regulamento do Concurso Nacional de Acesso e Ingresso no Ensino Superior Público para a Matrícula e Inscrição no Ano Lectivo de 2006-2007, aprovado pela [Portaria n.º 714-B/2006](https://diariodarepublica.pt/dr/detalhe/portaria/714-b-2006-230718), de 14 de Julho, alterada pela [Portaria n.º 757/2006](https://diariodarepublica.pt/dr/detalhe/portaria/757-2006-539254), de 3 de Agosto, podem beneficiar da preferência regional nas condições previstas nesse Regulamento desde que expressamente o requeiram.\n\n8 - O disposto no presente artigo será revisto para a candidatura de 2010 e anos subsequentes."
+  },
+  "6764dc3b4af23f6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Preferências habilitacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Preferências habilitacionais\n\n1 - Na 1.ª fase do concurso podem beneficiar de preferência no acesso a pares estabelecimento/curso de ensino superior politécnico, até um máximo de 30 % do total das respectivas vagas, os candidatos oriundos de um dos seguintes cursos:\n\na) Cursos tecnológicos do ensino secundário previstos nos Decretos-Leis n.os [286/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1989-618310), de 29 de Agosto, e [74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 24/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2006-551873), de 6 de Fevereiro;\n\nb) Cursos das escolas profissionais previstos nos Decretos-Leis n.os [26/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-1989-609609), de 21 de Janeiro, e [70/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1993-628044), de 10 de Março, com equivalência ao 12.º ano;\n\nc) Cursos de aprendizagem previstos no [Decreto-Lei n.º 102/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1984-661731), de 29 de Março, com equivalência ao 12.º ano;\n\nd) Cursos técnico-profissionais do ensino secundário;\n\ne) Cursos da via profissionalizante do 12.º ano.\n\n2 - Os pares estabelecimento/curso a que se aplicam as preferências habilitacionais a que se refere o número anterior, os cursos de ensino secundário ou equivalentes cuja titularidade faculta essa preferência, bem como a percentagem das vagas efectivamente abrangida pela referida preferência, são fixados pelo órgão legal e estatutariamente competente de cada estabelecimento de ensino e divulgados nos termos do artigo 38.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro.\n\n3 - Caso os candidatos sejam titulares de mais de um curso de ensino secundário que faculte preferência habilitacional, esta é aplicada ao curso indicado no documento comprovativo do curso de ensino secundário referido na alínea c) do n.º 2 do artigo 23.º\n\n4 - Os candidatos que beneficiam das preferências habilitacionais têm, em relação aos pares estabelecimento/curso delas objecto, prioridade na colocação nas vagas abrangidas pela preferência.\n\n5 - O disposto no presente artigo será revisto para a candidatura de 2010 e anos subsequentes."
+  },
+  "97b93790b9261b05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Pré-requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pré-requisitos\n\n1 - Os pares estabelecimento/curso para que são exigidos pré-requisitos nos termos do n.º 2 do artigo 16.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481) são os constantes de deliberação da Comissão Nacional de Acesso ao Ensino Superior.\n\n2 - A avaliação e a comprovação dos pré-requisitos são feitas nos termos fixados por deliberação da Comissão Nacional de Acesso ao Ensino Superior.\n\n3 - As instituições de ensino superior que procedem à avaliação de pré-requisitos cuja satisfação é verificada através de provas de aptidão física, funcional ou vocacional comunicam, obrigatoriamente, os resultados dos mesmos à Direcção-Geral do Ensino Superior nos termos e prazos por esta fixados."
+  },
+  "f35b4d07f954bf0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Modo de realização da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Modo de realização da candidatura\n\n1 - A candidatura à 1.ª e 2.ª fases do concurso nacional de acesso é apresentada, em alternativa:\n\na) Através do sistema de candidatura online, no sítio da Internet da Direcção-Geral do Ensino Superior;\n\nb) Nos locais de candidatura presencial indicados pela Direcção-Geral do Ensino Superior no seu sítio da Internet.\n\n2 - A candidatura à 3.ª fase do concurso nacional de acesso é apresentada exclusivamente através do sistema de candidatura online, no sítio da Internet da Direcção-Geral do Ensino Superior.\n\n3 - A candidatura consiste na indicação, por ordem decrescente de preferência, dos códigos correspondentes aos pares estabelecimento/curso para os quais o estudante dispõe das condições de candidatura adequadas e onde se pretende matricular e inscrever, até um máximo de seis opções diferentes.\n\n4 - Os estudantes que pretenderem utilizar o sistema de candidatura online devem utilizar a senha de acesso que solicitaram e lhes foi atribuída nos termos constantes do Guia Geral de Exames de 2009 e do sítio da Internet da Direcção-Geral do Ensino Superior.\n\n5 - As indicações referidas no n.º 3 são feitas, em alternativa:\n\na) No formulário de candidatura online;\n\nb) No boletim de candidatura a que se refere a alínea a) do n.º 2 do artigo 23.º, a entregar nos locais de candidatura presencial.\n\n6 - Os erros ou omissões cometidos no preenchimento do formulário de candidatura online ou do boletim de candidatura, ou na instrução do processo de candidatura, são da exclusiva responsabilidade do candidato.\n\n7 - Na candidatura concretizada através do preenchimento do boletim de candidatura, em caso de discrepância entre as indicações fornecidas em algarismos ou letras e as indicações fornecidas através do preenchimento das marcas para leitura óptica do boletim, prevalecem as indicações fornecidas através das marcas para leitura óptica.\n\n8 - Ter-se-ão como não inscritos, sem que tal sanção seja objecto de comunicação expressa aos candidatos, os códigos das opções de candidatura que respeitem a pares estabelecimento/curso:\n\na) Inexistentes;\n\nb) Para os quais o candidato não comprove:\n\nb1) Satisfazer e ou ter realizado os pré-requisitos, se exigidos;\n\nb2) Ter realizado as respectivas provas de ingresso e nelas ter obtido a classificação mínima exigida;\n\nb3) Ter obtido, na nota de candidatura, a classificação mínima exigida."
+  },
+  "97bf057ceca5389d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Local e prazo de apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Local e prazo de apresentação da candidatura\n\n1 - A candidatura à 1.ª e 2.ª fases do concurso nacional é apresentada, em alternativa:\n\na) Através do sistema de candidatura online;\n\nb) Nos locais de candidatura presencial do distrito ou Região Autónoma onde o estudante, conforme o caso:\n\nb1) Tenha realizado a candidatura em anos anteriores;\n\nb2) Tenha residência permanente;\n\nb3) Tenha, se residente no estrangeiro, domicílio constituído nos termos do n.º 3.\n\n2 - A candidatura à 3.ª fase do concurso nacional de acesso é apresentada exclusivamente através do sistema de candidatura online.\n\n3 - Os estudantes residentes no estrangeiro devem constituir domicílio postal em Portugal e designar procurador bastante.\n\n4 - O prazo para a apresentação da candidatura é o fixado nos termos do artigo 61.º\n\n5 - O director-geral do Ensino Superior pode determinar, por seu despacho, que os estudantes que apresentem a candidatura nos locais de candidatura presencial o façam de acordo com uma determinada distribuição, da forma que for julgada mais conveniente para a boa organização do serviço.\n\n6 - O despacho a que se refere o número anterior é divulgado através do sítio da Direcção-Geral do Ensino Superior na Internet."
+  },
+  "d23b8d0c7aea36f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Apresentação da candidatura\n\nTêm legitimidade para efectuar a apresentação da candidatura:\n\na) O estudante;\n\nb) Um seu procurador bastante;\n\nc) Sendo o estudante menor, a pessoa que demonstre exercer o poder paternal ou tutelar."
+  },
+  "557b9e66e048b505": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Instrução do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Instrução do processo de candidatura\n\n1 - Na candidatura apresentada através do sistema online, o estudante deve preencher o formulário de candidatura disponibilizado na Internet, após o que deve «submeter» a candidatura e imprimir o respectivo relatório, o qual serve de recibo.\n\n2 - Na candidatura apresentada nos locais de candidatura presencial, o processo deve ser instruído com:\n\na) Boletim de candidatura, devidamente preenchido, de modelo aprovado por despacho do director-geral do Ensino Superior;\n\nb) Fotocópia simples do cartão do cidadão ou do bilhete de identidade;\n\nc) Ficha ENES 2009: documento comprovativo da titularidade do curso de ensino secundário e da respectiva classificação e das classificações obtidas nos exames nacionais do ensino secundário correspondentes às provas de ingresso exigidas para ingresso nos pares estabelecimento/curso a que concorre;\n\nd) Documentos comprovativos da satisfação dos pré-requisitos que exigem a realização de provas de aptidão física, funcional ou vocacional, se necessários para os pares estabelecimento/curso a que concorre.\n\n3 - O disposto na alínea c) do número anterior também se aplica aos estudantes que pretendam utilizar exames nacionais do ensino secundário realizados em 2007 ou 2008 correspondentes às provas de ingresso exigidas para ingresso nos pares estabelecimento/curso a que concorrem, pelo que também devem instruir o processo de candidatura com a ficha ENES 2008, cuja emissão solicitam na escola secundária onde realizaram os exames nacionais.\n\n4 - Para os estudantes titulares de um curso de ensino secundário organizado em dois ciclos de dois e um ano, o documento referido na alínea c) do n.º 2 deve conter a classificação obtida em cada um dos ciclos (10.º + 11.º e 12.º anos de escolaridade).\n\n5 - Os estudantes que tiverem obtido a titularidade de um curso de ensino secundário através de equivalência devem apresentar, no estabelecimento de ensino secundário onde realizam os exames nacionais do ensino secundário correspondentes às provas de ingresso exigidas para acesso aos pares estabelecimento/curso a que concorrem, documento comprovativo daquela, emitido pela entidade legalmente competente e contendo todos os elementos necessários ao processo de candidatura.\n\n6 - Os estudantes que apresentem a candidatura através do sistema online e:\n\na) Que não pretendam beneficiar dos contingentes especiais a que se refere o n.º 2 do artigo 9.º e das preferências regionais a que se referem os artigos 15.º, 16.º e 17.º; ou\n\nb) Que pretendam beneficiar da preferência regional, estando abrangidos pela alínea c) do n.º 5 do artigo 17.º e essa situação estiver comprovada na ficha ENES 2009, nos termos do n.º 1 do artigo 25.º;\n\nestão dispensados da apresentação dos documentos referidos no n.º 2, devendo apenas indicar no formulário de candidatura o código de activação impresso na ficha ENES 2009.\n\n7 - Os estudantes que pretendam beneficiar dos contingentes especiais a que se refere o n.º 2 do artigo 9.º e das preferências regionais a que se referem os artigos 15.º e 16.º podem apresentar a candidatura através do sistema online mas devem entregar no local de candidatura presencial os documentos comprovativos de que satisfazem as condições que permitem beneficiar dos referidos contingentes e preferências, conforme referem os artigos 24.º a 28.º, acompanhados do relatório comprovativo da apresentação da candidatura através do sistema online."
+  },
+  "f060e9c735616852": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Instrução do processo de candidatura Candidatos às vagas dos contingentes especiais das Regiões Autónomas dos Açores e da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Instrução do processo de candidatura Candidatos às vagas dos contingentes especiais das Regiões Autónomas dos Açores e da Madeira\n\nOs candidatos às vagas dos contingentes especiais das Regiões Autónomas dos Açores e da Madeira devem igualmente apresentar:\n\na) Atestado de residência comprovativo de que satisfazem a condição da alínea a) do n.º 1 do artigo 10.º;\n\nb) Declaração do estabelecimento de ensino secundário comprovativa de que satisfazem as condições da alínea b) do n.º 1 do artigo 10.º;\n\nc) Se estiverem nas condições do n.º 2 do artigo 10.º, documento comprovativo de que satisfazem as mesmas."
+  },
+  "c396674392d19095": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Instrução do processo de candidatura - Candidatos que pretendem beneficiar das preferências regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Instrução do processo de candidatura - Candidatos que pretendem beneficiar das preferências regionais\n\n1 - A comprovação da área de influência (distrito ou Região Autónoma) onde o estudante esteve matriculado e concluiu os 11.º e 12.º anos de escolaridade é feita através da ficha ENES 2009, mediante pedido expresso do candidato ao estabelecimento de ensino secundário que a emite.\n\n2 - Os candidatos que pretendam beneficiar da aplicação do disposto no n.º 7 do artigo 17.º só podem fazer a apresentação da candidatura nos locais de candidatura presencial."
+  },
+  "237f0f5a986cf7a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Instrução do processo de candidatura - Candidatos às vagas do contingente especial para portadores de deficiência física ou sensorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Instrução do processo de candidatura - Candidatos às vagas do contingente especial para portadores de deficiência física ou sensorial\n\n1 - Os estudantes que pretendam candidatar-se às vagas do contingente especial para portadores de deficiência física ou sensorial requerem-no no acto da candidatura, através de impresso de modelo próprio, aprovado pelo director-geral do Ensino Superior.\n\n2 - O requerimento deve ser instruído com todos os documentos que o candidato considere úteis para a avaliação da sua deficiência e das consequências desta no seu desempenho individual no percurso escolar no ensino secundário, sendo obrigatórios:\n\na) No caso de deficiência auditiva, audiograma recente, com indicação da perda de audição nos ouvidos direito e esquerdo;\n\nb) No caso de deficiência visual, indicação da acuidade visual, no olho direito e no olho esquerdo, com e sem correcção;\n\nc) No caso de deficiência física, atestado médico descrevendo o tipo de deficiência, como foi adquirida, sua evolução e situação presente;\n\nd) Em todos os casos, informação detalhada dos serviços especializados de apoio educativo ou, na falta destes, do órgão de gestão do estabelecimento de ensino, sobre o processo educativo do candidato.\n\n3 - Os requerimentos são apreciados nos termos do anexo ii."
+  },
+  "d09fcc3304fc8d50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Instrução do processo de candidatura Candidatos às vagas do contingente especial para emigrantes portugueses e seus familiares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Instrução do processo de candidatura Candidatos às vagas do contingente especial para emigrantes portugueses e seus familiares\n\n1 - Os candidatos às vagas do contingente especial para emigrantes portugueses e familiares que com eles residam devem igualmente apresentar:\n\na) Documento comprovativo da situação de emigrante ou de seu familiar, nos termos do disposto no n.º 1 do artigo 12.º;\n\nb) Quando concorrem com a titularidade do diploma estrangeiro a que se refere a subalínea c1) do n.º 2 do artigo 12.º:\n\nb1) Documento comprovativo da titularidade do curso terminal do ensino secundário obtido no país de emigração e da respectiva classificação, em substituição do documento a que se refere a alínea c) do n.º 2 do artigo 23.º;\n\nb2) Declaração, emitida pelos serviços oficiais de educação do país de emigração, atestando que a habilitação secundária de que são titulares, obtida nesse país, é suficiente para aí ingressar no ensino superior oficial em cursos congéneres daqueles a que se pretendem candidatar.\n\n2 - O documento referido na subalínea b1) do número anterior deve ser autenticado pelos serviços oficiais de educação do respectivo país e reconhecido pela autoridade diplomática ou consular portuguesa ou trazer a apostilha da Convenção da Haia. O mesmo deve acontecer relativamente às traduções de documentos cuja língua original não seja a espanhola, a francesa ou a inglesa."
+  },
+  "327f6d842dddb365": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Instrução do processo de candidatura - Candidatos às vagas do contingente especial para militares em regime de contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Instrução do processo de candidatura - Candidatos às vagas do contingente especial para militares em regime de contrato\n\nOs candidatos às vagas do contingente especial para militares em regime de contrato (RC) devem apresentar documento comprovativo da satisfação da condição a que se refere a alínea a) do artigo 13.º, emitido pela entidade legalmente competente."
+  },
+  "c89ea24386418a81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Instrução do processo de candidatura - Candidatos que pretendem a aplicação do disposto no artigo 20.º-A do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Instrução do processo de candidatura - Candidatos que pretendem a aplicação do disposto no artigo 20.º-A do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481)\n\n1 - Os candidatos que, nos termos do artigo 20.º-A do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), pretendam substituir as provas de ingresso por exames finais de cursos não portugueses legalmente equivalentes aos cursos de ensino secundário português devem entregar:\n\na) Requerimento, a formular em impresso de modelo fixado por despacho do director-geral do Ensino Superior, solicitando a aplicação do regime fixado pelo artigo 20.º-A do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481) e indicando quais os pares estabelecimento/curso e provas de ingresso a abranger por tal aplicação;\n\nb) Em substituição do documento a que se refere a alínea c) do n.º 2 do artigo 23.º, documento emitido pela entidade legalmente competente do país a que respeita a habilitação do ensino secundário não português, indicando:\n\nb1) A classificação final do curso;\n\nb2) As classificações obtidas, nos anos lectivos de 2006-2007, 2007-2008 ou 2008-2009, nos exames finais desse curso que pretendem que substituam as provas de ingresso nos termos do artigo 7.º;\n\nc) Documento comprovativo da equivalência do curso referido na alínea b) ao curso de ensino secundário português, incluindo a classificação final do curso convertida para a escala de 0 a 200 nos termos do disposto no n.º 3 do artigo 26.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481).\n\n2 - Compete ao director-geral do Ensino Superior:\n\na) Decidir quanto ao requerimento referido na alínea a) do n.º 1;\n\nb) Proceder à aplicação das tabelas de correspondência e das regras de conversão das classificações aprovadas pela Comissão Nacional de Acesso ao Ensino Superior, nos termos do n.º 6 do artigo 20.º-A do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481).\n\n3 - Transitoriamente, os candidatos que pretendam a aplicação do presente artigo só podem fazer a apresentação da candidatura nos locais de candidatura presencial."
+  },
+  "ca55d77f543b34f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Preenchimento do formulário ou boletim de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Preenchimento do formulário ou boletim de candidatura\n\n1 - O candidato deve indicar expressamente, no local apropriado do formulário online ou do boletim de candidatura, o contingente ou contingentes especiais a cujas vagas pretende concorrer, se for caso disso. Faltando ou estando errada tal indicação, o candidato é incluído no contingente geral.\n\n2 - O candidato deve igualmente indicar, no local apropriado do formulário online ou do boletim de candidatura, se pretende beneficiar da preferência regional a que se refere o artigo 17.º Faltando ou estando errada a referida indicação, o candidato não beneficia da referida preferência.\n\n3 - Os candidatos a pares estabelecimento/curso para que seja necessária a satisfação de pré-requisitos que exigem a realização de provas de aptidão física, funcional ou vocacional:\n\na) Se apresentarem a candidatura nos locais de candidatura presencial, devem anexar documento(s) comprovativo(s) da satisfação do(s) pré-requisito(s) referido(s) na alínea d) do n.º 2 do artigo 23.º e indicá-lo(s) expressamente no boletim de candidatura;\n\nb) Se apresentarem a candidatura online, estão dispensados da apresentação dos documentos comprovativos da satisfação dos pré-requisitos, devendo apenas indicar no formulário de candidatura os pré-requisitos realizados, sendo essa informação comunicada directamente pelos estabelecimentos de ensino superior à Direcção-Geral do Ensino Superior.\n\n4 - Os candidatos a pares estabelecimento/curso para que seja necessária a satisfação de pré-requisitos que são de comprovação meramente documental, não exigindo a realização de provas de aptidão física, funcional ou vocacional, e que sejam colocados num desses cursos, entregam a respectiva comprovação no acto da matrícula e inscrição no estabelecimento de ensino superior."
+  },
+  "5618ade8a34949d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Recibo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Recibo\n\nDa candidatura formalizada será considerado como recibo:\n\na) O relatório comprovativo da apresentação da candidatura através do sistema online;\n\nb) O duplicado do boletim de candidatura com menção formal de recebido aposta pelos responsáveis pela recepção no local de candidatura presencial."
+  },
+  "2da1099814e41013": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Alteração e anulação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Alteração e anulação da candidatura\n\n1 - O estudante pode alterar livremente as suas opções de candidatura, até ao fim do prazo em que decorre a apresentação da candidatura, quer a tenha apresentado através do sistema online, quer nos locais de candidatura presencial, sendo considerada apenas a última candidatura apresentada, independentemente da via de apresentação.\n\n2 - Sempre que o resultado da reapreciação ou da reclamação de uma classificação de um exame nacional do ensino secundário ou de outro elemento considerado no cálculo da classificação a que se refere o artigo 35.º só seja conhecido após o fim do prazo da candidatura, e dele resulte uma alteração da classificação do exame, é facultada, até três dias úteis após a respectiva divulgação:\n\na) A alteração da candidatura, aos candidatos que já a hajam apresentado;\n\nb) A apresentação da candidatura, aos estudantes que só então reúnam condições para o fazer.\n\n3 - A alteração da candidatura é requerida, conforme os casos:\n\na) No sistema online, através do preenchimento e submissão de novo formulário, onde será indicado o código de activação da nova ficha ENES 2009;\n\nb) Através do preenchimento de novo boletim de candidatura e sua entrega no mesmo local de candidatura presencial onde foi apresentada a candidatura.\n\n4 - Os candidatos que pretendam anular a totalidade da candidatura devem solicitá-lo até 10 dias antes da data fixada nos termos do artigo 61.º para a divulgação dos resultados dessa fase do concurso, em requerimento dirigido ao director-geral do Ensino Superior, por carta registada ou por fax, acompanhado do relatório da candidatura online ou de uma cópia do boletim de candidatura, podendo, em qualquer dos casos, o mesmo ser entregue nos locais de candidatura presencial.\n\n5 - Findo o prazo de candidatura, não é facultada a alteração ou anulação de opções, salvo nos termos dos n.os 2 e 3."
+  },
+  "471e4c1faba21877": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Comunicação dos resultados dos exames nacionais do ensino secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Comunicação dos resultados dos exames nacionais do ensino secundário\n\n1 - Os resultados finais dos exames nacionais do ensino secundário adoptados como provas de ingresso para acesso ao ensino superior são comunicados à Direcção-Geral do Ensino Superior pelos estabelecimentos de ensino secundário.\n\n2 - A comunicação referida no número anterior é feita nos termos de normas aprovadas por despacho conjunto dos directores-gerais do Ensino Superior e de Inovação e de Desenvolvimento Curricular."
+  },
+  "10410d6ac88ce960": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Seriação"
+  },
+  "27ef267d9ddd7f7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Cálculo da nota de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Cálculo da nota de candidatura\n\n1 - A nota de candidatura é uma classificação na escala de 0 a 200, calculada através da aplicação da seguinte fórmula, cujo resultado é arredondado às décimas, considerando como 0,1 o valor não inferior a 0,05:\n\na) Se for exigida uma prova de ingresso:\n\nS x ps + P x pp\n\nb) Se forem exigidas duas provas de ingresso:\n\nS x ps + P1 x pp1 + P2 x pp2\n\nem que:\n\nS = classificação do ensino secundário, fixada nos termos do artigo 35.º;\n\nps = peso atribuído pelo estabelecimento de ensino superior à classificação do ensino secundário;\n\nP, P1 e P2 = classificações, na escala inteira de 0 a 200, dos exames nacionais do ensino secundário correspondentes às provas de ingresso exigidas;\n\npp, pp1 e pp2 = pesos atribuídos pelo estabelecimento de ensino superior às classificações das provas de ingresso.\n\n2 - Nos cursos em que seja exigida a realização de um pré-requisito de seriação ou de selecção e seriação, a fórmula é:\n\na) Se for exigida uma prova de ingresso:\n\nS x ps + P x pp + R x pr\n\nb) Se forem exigidas duas provas de ingresso:\n\nS x ps + P1 x pp1 + P2 x pp2 + R x pr\n\nem que:\n\nR = classificação atribuída ao pré-requisito;\n\npr = peso atribuído pelo estabelecimento de ensino superior à classificação do pré-requisito.\n\n3 - Todos os cálculos intermédios são efectuados sem arredondamento."
+  },
+  "8f8a810651cd383e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Classificação do ensino secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Classificação do ensino secundário\n\n1 - Para os cursos de ensino secundário organizados num só ciclo de três anos, S tem o valor da classificação final do ensino secundário, calculada nos termos das normas legais aplicáveis a cada caso, até às décimas, sem arredondamento, e convertida para a escala de 0 a 200.\n\n2 - Para os cursos de ensino secundário já extintos, S tem o valor da classificação final do ensino secundário atribuída nos termos das normas legais aplicáveis a cada caso, convertida para a escala de 0 a 200.\n\n3 - Para os cursos do ensino secundário organizados em dois ciclos, de dois e um anos, S é calculada através da aplicação da seguinte fórmula:\n\n(0,6 x Sa) + (0,4 x Sb) x 10\n\nem que:\n\nSa = classificação final dos 10.º + 11.º anos de escolaridade ou 1.º + 2.º anos, conforme o caso, fixada nos termos da lei;\n\nSb = classificação final do 12.º ano de escolaridade, fixada nos termos da lei.\n\n4 - Para os cursos de ensino secundário não portugueses legalmente equivalentes ao ensino secundário português, bem como para os cursos a que se refere a parte final do artigo 41.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), S tem o valor atribuído nos termos das normas que os regulam convertida para a escala de 0 a 200, nos termos das regras fixadas por despacho do Ministro da Educação, ao abrigo do disposto no n.º 3 do artigo 26.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481).\n\n5 - Para os candidatos às vagas do contingente especial para emigrantes portugueses e familiares que com eles residam que concorram com a titularidade do 12.º ano de escolaridade português e que não sejam titulares dos 10.º e 11.º anos de escolaridade portugueses, Sa é igual a Sb.\n\n6 - Para os candidatos cujo diploma do ensino secundário, nos termos da lei, não inclua a classificação final, essa classificação é fixada nos termos aprovados pela deliberação n.º 1650/2008, de 13 de Junho, da Comissão Nacional de Acesso ao Ensino Superior."
+  },
+  "8d7fec9a130eb58b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Seriação\n\n1 - A seriação dos candidatos a cada par estabelecimento/curso é realizada pela ordem decrescente das respectivas notas de candidatura.\n\n2 - Em caso de empate, aplicam-se, sucessivamente, as seguintes classificações:\n\na) (P x pp) ou (P1 x pp1) + (P2 x pp2), conforme o caso;\n\nb) S ou Sb;\n\nc) Se aplicável, S ou Sa.\n\n3 - As operações materiais de seriação são realizadas pela Direcção-Geral do Ensino Superior, que elabora e remete a cada estabelecimento de ensino superior as listas ordenadas daí resultantes referentes a cada um dos seus cursos.\n\n4 - A consulta das listas a que se refere o número anterior é facultada a todos os interessados nos respectivos estabelecimentos de ensino superior."
+  },
+  "2141a06d2fa16267": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Colocação"
+  },
+  "897a93d80ac760aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Sequência da colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Sequência da colocação\n\n1 - Na 1.ª fase, a colocação dos candidatos faz-se de acordo com a seguinte sequência de etapas:\n\na) Colocação dos candidatos às vagas do contingente especial para estudantes portadores de deficiência física ou sensorial nas respectivas vagas;\n\nb) Adição das vagas sobrantes da operação a que se refere a alínea a) às vagas do contingente geral;\n\nc) Colocação dos candidatos às vagas do contingente especial para a Região Autónoma dos Açores nas vagas da Universidade dos Açores ao abrigo do disposto no artigo 15.º;\n\nd) Colocação dos candidatos às vagas do contingente especial para a Região Autónoma dos Açores não colocados na operação descrita na alínea c) nas respectivas vagas;\n\ne) Colocação dos candidatos às vagas do contingente especial para a Região Autónoma da Madeira nas vagas da Universidade da Madeira ao abrigo do disposto no artigo 16.º;\n\nf) Colocação dos candidatos às vagas do contingente especial para a Região Autónoma da Madeira não colocados na operação descrita na alínea e) nas respectivas vagas;\n\ng) Colocação dos candidatos às vagas do contingente especial para emigrantes portugueses e familiares que com eles residam nas respectivas vagas;\n\nh) Colocação dos candidatos às vagas do contingente especial para militares em regime de contrato (RC) nas respectivas vagas;\n\ni) Inclusão no âmbito do contingente geral dos candidatos não colocados nas vagas dos contingentes especiais;\n\nj) Adição das vagas sobrantes das operações a que se referem as alíneas c) a h) às vagas do contingente geral;\n\nl) Colocação dos candidatos às vagas do contingente geral ao abrigo da prioridade estabelecida pelas preferências regionais referidas no artigo 17.º;\n\nm) Colocação dos candidatos às vagas do contingente geral ao abrigo da prioridade estabelecida pelas preferências habilitacionais referidas no artigo 18.º;\n\nn) Colocação dos restantes candidatos às vagas do contingente geral nas vagas sobrantes após a operação referida na alínea m).\n\n2 - Se numa etapa da sequência a que se refere o número anterior um candidato já colocado em etapa anterior puder obter colocação em preferência superior, é-lhe atribuída esta colocação, sendo refeitas as duas etapas."
+  },
+  "306c998e7e0f7852": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Colocação\n\n1 - A colocação dos candidatos nas vagas fixadas é feita por ordem decrescente das preferências por eles indicadas no boletim de candidatura.\n\n2 - O processo de colocação tem natureza iterativa, considerando-se concluído quando todos os candidatos tiverem alcançado a situação de colocado ou não colocado.\n\n3 - Em cada iteração:\n\na) Se o candidato, numa das listas ordenadas a que se refere o artigo 36.º, tem lugar na sua primeira preferência, procede-se à colocação;\n\nb) Se o candidato, numa das listas ordenadas a que se refere o artigo 36.º, não tem lugar na sua primeira preferência, conservam-se apenas as suas preferências de ordem igual ou superior à de ordem mais alta em que tem colocação.\n\n4 - Finda cada iteração:\n\na) Eliminam-se todas as preferências onde já não existam vagas;\n\nb) Declaram-se como não colocados os candidatos que já não disponham de preferências.\n\n5 - Sempre que dois ou mais candidatos em situação de empate resultante da aplicação das regras de seriação a que se refere o artigo 36.º disputem a última vaga ou o último conjunto de vagas de um par estabelecimento/curso, são abertas tantas vagas adicionais quanto as necessárias para os admitir.\n\n6 - O processo de colocação é da competência da Direcção-Geral do Ensino Superior, a cujo director-geral compete homologar o resultado final do concurso."
+  },
+  "6e7ff7fe4ff716dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Resultado final e sua divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Resultado final e sua divulgação\n\n1 - O resultado final do concurso exprime-se através de uma das seguintes situações:\n\na) Colocado (par estabelecimento/curso);\n\nb) Não colocado;\n\nc) Excluído da candidatura.\n\n2 - O resultado final é tornado público através de lista divulgada no sítio da Internet da Direcção-Geral do Ensino Superior.\n\n3 - Das listas divulgadas constam, relativamente a cada estudante que se tenha apresentado a concurso:\n\na) Nome;\n\nb) Número de identificação civil;\n\nc) Resultado final.\n\n4 - A menção da situação de Excluído da candidatura carece de ser acompanhada de referência da respectiva fundamentação legal."
+  },
+  "78056213e4c50a05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Listas de colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Listas de colocação\n\n1 - A cada estabelecimento de ensino superior são fornecidas, por via electrónica, as listas dos candidatos colocados em cada curso ministrado no mesmo.\n\n2 - Os estabelecimentos de ensino comunicam à Direcção-Geral do Ensino Superior, por via electrónica, através do ficheiro a que se refere o número anterior, informação sobre os candidatos colocados que efectivamente se matriculem."
+  },
+  "3caa7cfdc375e0cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Reclamações e alterações supervenientes das classificações do ensino secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Reclamações e alterações supervenientes das classificações do ensino secundário\n\n1 - Do resultado final do concurso podem os candidatos apresentar reclamação fundamentada, no prazo fixado nos termos do artigo 61.º, mediante exposição dirigida ao director-geral do Ensino Superior.\n\n2 - A Direcção-Geral do Ensino Superior faculta, através dos locais de candidatura presencial, a todo o candidato que o solicite:\n\na) A transcrição do conteúdo relevante do seu registo informático;\n\nb) As classificações de candidatura e de desempate do último colocado em cada par estabelecimento/curso.\n\n3 - A exposição deve ser apresentada em impresso de modelo aprovado pelo director-geral do Ensino Superior.\n\n4 - A reclamação é entregue em mão, no local de candidatura presencial onde o reclamante apresentou a candidatura, ou enviada pelo correio, à Direcção-Geral do Ensino Superior, em carta registada.\n\n5 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não sejam recebidas até ao fim do prazo fixado nos termos do artigo 61.º, sendo considerada, conforme os casos, a data da entrega nos locais de candidatura presencial ou a data do carimbo dos correios.\n\n6 - As decisões sobre as reclamações que não hajam sido liminarmente rejeitadas nos termos dos números anteriores são proferidas no prazo fixado nos termos do artigo 61.º e notificadas ao reclamante através de carta registada, com aviso de recepção.\n\n7 - No prazo de sete dias sobre a recepção da notificação a que se refere o n.º 6, os reclamantes devem proceder à matrícula e inscrição no par estabelecimento/curso onde hajam sido colocados, se for caso disso.\n\n8 - Sempre que a decisão sobre a reclamação de uma classificação de um exame nacional do ensino secundário ou de outro elemento de que resulte uma alteração da classificação do exame ou da classificação a que se refere o artigo 35.º só seja conhecida em data em que já não possa ser considerada, quer para o cálculo da nota de candidatura, quer para o exercício do direito a que se refere o n.º 2 do artigo 32.º, é facultado, no prazo de três dias úteis após a respectiva divulgação:\n\na) Aos que se hajam candidatado, requerer a alteração do resultado da candidatura;\n\nb) Aos que não se hajam candidatado, apresentar a sua candidatura.\n\n9 - O requerimento de alteração do resultado da candidatura pode abranger a alteração das opções dela constantes.\n\n10 - À decisão sobre os pedidos a que se refere o n.º 8 aplica-se, com as devidas adaptações, o disposto no artigo 60.º\n\n11 - A alteração da candidatura é requerida através do preenchimento de novo boletim de candidatura."
+  },
+  "f018c6cabd647617": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — 2.ª fase do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — 2.ª fase do concurso"
+  },
+  "eee912c0b0e697bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Abertura da 2.ª fase do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Abertura da 2.ª fase do concurso\n\nÀ divulgação dos resultados do concurso nos termos do artigo 39.º segue-se uma 2.ª fase do concurso, no prazo fixado nos termos do artigo 61.º"
+  },
+  "b83ebabf95149aea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Vagas\n\n1 - Na 2.ª fase são colocadas a concurso:\n\na) As vagas sobrantes da 1.ª fase do concurso (VS1);\n\nb) As vagas sobrantes dos concursos especiais a que se refere o [Decreto-Lei n.º 393-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1999-159115), de 2 de Outubro (VSCE);\n\nc) As vagas ocupadas na 1.ª fase do concurso em que não se concretizou a matrícula e inscrição (VSM);\n\nd) As vagas libertadas em consequência da recolocação de estudantes colocados na 1.ª fase (VL);\n\ndepois de deduzidas:\n\ne) As vagas adicionais criadas nos termos do n.º 5 do artigo 38.º (VE);\n\nf) As vagas que, até ao início da seriação dos candidatos, sejam utilizadas nos termos do n.º 1 do artigo 60.º (VR).\n\n2 - Para os pares estabelecimento/curso em que VS1 (maior que) 0, se: (VS1 + VSCE + VSM -VE -VR) (menor que) = 0, o número de vagas colocado a concurso é um.\n\n3 - As vagas sobrantes da 1.ª fase do concurso são divulgadas, através de edital do director-geral do Ensino Superior, em simultâneo com a divulgação do resultado final da 1.ª fase do concurso.\n\n4 - Os estabelecimentos de ensino superior comunicam à Direcção-Geral do Ensino Superior, no prazo fixado nos termos do artigo 61.º\n\na) As vagas ocupadas na 1.ª fase do concurso em que não se concretizou a matrícula e inscrição;\n\nb) As vagas sobrantes dos concursos especiais a que se refere o [Decreto-Lei n.º 393-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1999-159115), de 2 de Outubro.\n\n5 - Os valores a que se referem as alíneas b) e c) do n.º 1 são divulgados através de edital do director-geral do Ensino Superior, no prazo fixado nos termos do artigo 61.º, nos locais de candidatura presencial e na sítio da Internet da Direcção-Geral do Ensino Superior.\n\n6 - Na sequência da divulgação da informação a que se refere o número anterior, é facultada, no prazo fixado nos termos do artigo 61.º:\n\na) A alteração da candidatura aos candidatos que já a hajam apresentado;\n\nb) A apresentação da candidatura aos estudantes que ainda não o hajam feito.\n\n7 - Os valores a que se referem as alíneas a) a f) do n.º 1 são divulgados, através de edital do director-geral do Ensino Superior, em simultâneo com a divulgação do resultado final da 2.ª fase do concurso.\n\n8 - Na 2.ª fase há um único contingente e não são aplicados os regimes preferenciais."
+  },
+  "ef4a003367cd7d96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Candidatos\n\nÀ 2.ª fase do concurso podem apresentar-se:\n\na) Os candidatos à 1.ª fase não colocados;\n\nb) Os candidatos colocados na 1.ª fase, com aplicação do disposto no artigo 46.º;\n\nc) Os candidatos que, embora colocados na 1.ª fase, não procederam à respectiva matrícula e inscrição;\n\nd) Os estudantes que, embora reunindo condições de candidatura no prazo de apresentação das candidaturas da 1.ª fase, a não apresentaram;\n\ne) Os estudantes que só reuniram as condições de candidatura após o fim do prazo de apresentação das candidaturas da 1.ª fase."
+  },
+  "670831d50f19266e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Regras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Regras\n\nÀ 2.ª fase aplicam-se, com as necessárias adaptações, as regras da 1.ª fase."
+  },
+  "42d03f7099c1e32d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Recolocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Recolocação\n\n1 - Aos estudantes colocados na 1.ª fase que concorram à 2.ª fase e nela sejam colocados é automaticamente anulada a colocação na 1.ª fase e, consequentemente, a matrícula e inscrição realizadas.\n\n2 - As vagas ocupadas na 1.ª fase libertadas pela colocação destes estudantes na 2.ª fase são consideradas nesta fase nos termos da alínea d) do n.º 1 do artigo 43.º\n\n3 - A Direcção-Geral do Ensino Superior notifica o estabelecimento de ensino superior em que o estudante foi colocado na 1.ª fase:\n\na) De que a colocação e, consequentemente, a matrícula e inscrição, foram anuladas;\n\nb) Do par estabelecimento/curso em que o estudante foi colocado na 2.ª fase.\n\n4 - O estabelecimento de ensino superior onde o estudante foi colocado na 1.ª fase remete ao estabelecimento de ensino superior onde o estudante foi colocado na 2.ª fase toda a documentação relevante, bem como a importância recebida a título de propina de inscrição.\n\n5 - O estudante deve proceder à matrícula e inscrição no estabelecimento de ensino superior em que foi colocado no prazo fixado nos termos do artigo 61.º"
+  },
+  "e8f1b8d302203c43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — 3.ª fase do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — 3.ª fase do concurso"
+  },
+  "44eba839c6924743": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Abertura da 3.ª fase do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Abertura da 3.ª fase do concurso\n\nÀ divulgação dos resultados da 2.ª fase do concurso nos termos do artigo 39.º segue-se uma 3.ª fase do concurso, no prazo fixado nos termos do artigo 61.º"
+  },
+  "0a5844eae764bdc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Vagas para a 3.ª fase do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Vagas para a 3.ª fase do concurso\n\n1 - Na 3.ª fase são colocadas a concurso:\n\na) As vagas sobrantes da 2.ª fase do concurso (VS2);\n\nb) As vagas ocupadas na 2.ª fase do concurso em que não se concretizou a matrícula e inscrição (VSM2);\n\nc) As vagas libertadas em consequência da recolocação na 3.ª fase de estudantes colocados na 1.ª ou na 2.ª fase (VL2); depois de deduzidas:\n\nd) As vagas adicionais criadas na 2.ª fase nos termos do n.º 5 do artigo 38.º (VE2);\n\ne) As vagas que, até ao início da seriação dos candidatos, sejam utilizadas nos termos do n.º 1 do artigo 60.º (VR2).\n\n2 - Para os pares estabelecimento/curso em que VS2(maior que)0, se: (VS2 + VSM2 + VL2 -VE2 -VR2) (igual ou menor que) 0, o número de vagas colocado a concurso é um.\n\n3 - Os estabelecimentos de ensino superior comunicam à Direcção-Geral do Ensino Superior, no prazo fixado nos termos do artigo 61.º as vagas ocupadas na 2.ª fase do concurso em que não se concretizou a matrícula e inscrição.\n\n4 - As vagas sobrantes da 2.ª fase do concurso bem como as vagas a que se referem as alíneas b) e c) do n.º 1, são divulgadas através de edital do director-geral do Ensino Superior, no prazo fixado nos termos do artigo 61.º, nos locais de candidatura presencial e no sítio da Internet da Direcção-Geral do Ensino Superior.\n\n5 - Os valores a que se referem as alíneas a) a e) do n.º 1 são divulgados, através de edital do director-geral do Ensino Superior, em simultâneo com a divulgação do resultado final da 3.ª fase do concurso.\n\n6 - Na 3.ª fase há um único contingente e não são aplicados os regimes preferenciais."
+  },
+  "2971d4811dfb3543": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Candidatos\n\nÀ 3.ª fase do concurso podem apresentar-se:\n\na) Os candidatos não colocados em todas as fases a que concorreram;\n\nb) Os estudantes que, embora reunindo condições de candidatura no prazo de apresentação das candidaturas das fases anteriores, a não apresentaram;\n\nc) Os candidatos que, embora colocados nas fases anteriores a que concorreram, não procederam à respectiva matrícula e inscrição;\n\nd) Os estudantes que só reuniram as condições de candidatura após o fim do prazo de apresentação das candidaturas da 2.ª fase;\n\ne) Os candidatos colocados na 1.ª ou na 2.ª fase, com aplicação do disposto no artigo 53.º"
+  },
+  "18f761916efd0589": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Apresentação da candidatura\n\nA candidatura à 3.ª fase é apresentada exclusivamente através do sistema online."
+  },
+  "ee64d9b98c3acd05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Contingentes e regimes preferenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Contingentes e regimes preferenciais\n\nNa 3.ª fase há um único contingente e não são aplicados os regimes preferenciais."
+  },
+  "8f968282c8148d65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Regras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Regras\n\n1 - A seriação e colocação dos candidatos a cada par estabelecimento/curso faz-se de acordo com as regras fixadas pelo presente Regulamento.\n\n2 - À 3.ª fase aplicam-se, com as necessárias adaptações, as regras da 1.ª fase."
+  },
+  "82ce54486de505b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Recolocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Recolocação\n\n1 - Aos candidatos colocados na 1.ª ou na 2.ª fase que concorram à 3.ª fase e nela sejam colocados é automaticamente anulada aquela colocação e, consequentemente, a matrícula e inscrição realizadas.\n\n2 - As vagas ocupadas na 1.ª ou na 2.ª fase libertadas pela colocação destes candidatos na 3.ª fase são consideradas nesta fase nos termos da alínea c) do n.º 1 do artigo 48.º\n\n3 - A Direcção-Geral do Ensino Superior notifica o estabelecimento de ensino superior em que o candidato foi colocado na 1.ª ou 2.ª fase:\n\na) De que a colocação e, consequentemente, a matrícula e inscrição, foram anuladas;\n\nb) Do par estabelecimento/curso em que o candidato foi colocado na 3.ª fase.\n\n4 - O estabelecimento de ensino superior onde o candidato foi colocado na 1.ª ou na 2.ª fase remete ao estabelecimento de ensino superior onde o candidato foi colocado na 3.ª fase toda a documentação relevante, bem como a importância recebida a título de propina de inscrição.\n\n5 - O candidato deve proceder à matrícula e inscrição no estabelecimento de ensino superior em que foi colocado no prazo fixado nos termos do artigo 61.º"
+  },
+  "f12957ad8951fd2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Vagas sobrantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Vagas sobrantes"
+  },
+  "cbe04bfeebc8fa89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Utilização das vagas sobrantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Utilização das vagas sobrantes\n\nAs vagas eventualmente sobrantes da 3.ª fase só podem ser utilizadas nos termos e para os fins previstos nos n.os 4 do artigo 18.º do [Decreto-Lei n.º 64/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2006-667773), de 21 de Março, e 7 do artigo 5.º da Portaria n.º 401/2007, de 5 de Abril."
+  },
+  "42df4230c0820902": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Matrícula e inscrição"
+  },
+  "5f4f24b3db069413": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Matrícula e inscrição\n\n1 - Os candidatos têm direito a proceder à matrícula e inscrição no estabelecimento e curso de ensino superior em que foram colocados no ano lectivo de 2009-2010, no prazo fixado nos termos do artigo 61.º\n\n2 - Os candidatos residentes na Região Autónoma dos Açores e na Região Autónoma da Madeira colocados em estabelecimento de ensino superior do continente ou de outra Região Autónoma podem realizar a matrícula e inscrição no prazo especial fixado nos termos do artigo 61.º desde que, até ao fim do prazo normal, entreguem, num local de candidatura presencial da Região Autónoma respectiva, uma declaração de intenção de matrícula e inscrição na vaga em que foram colocados.\n\n3 - Os responsáveis pelos locais de candidatura presencial remetem as declarações a que se refere o número anterior, por fax, aos estabelecimentos de ensino superior em causa no prazo fixado nos termos do artigo 61.º\n\n4 - O prazo especial e os procedimentos previstos nos n.os 2 e 3 aplicam-se também aos candidatos residentes no continente colocados em estabelecimentos de ensino superior da Região Autónoma dos Açores ou da Região Autónoma da Madeira.\n\n5 - A colocação apenas tem efeito para o ano lectivo de 2009-2010, pelo que o direito à matrícula e inscrição no estabelecimento e curso em que o candidato foi colocado caduca com o seu não exercício dentro do prazo fixado nos termos do artigo 61.º"
+  },
+  "65da74a5169389f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Ficha individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Ficha individual\n\n1 - A Direcção-Geral do Ensino Superior remete aos estabelecimentos de ensino superior uma ficha individual de cada estudante aí colocado, matriculado e inscrito, contendo:\n\na) A identificação do estudante;\n\nb) A informação escolar do ensino secundário utilizada no processo de candidatura;\n\nc) O historial da candidatura de 2009.\n\n2 - Pela emissão, a pedido do estudante, do historial da candidatura, bem como de outros documentos que visem comprovar os resultados alcançados num processo de candidatura ao ensino superior no ano de 2009 ou em anos anteriores, ou a satisfação de condições para a candidatura ao ensino superior português, é devida a quantia de (euro) 5,00, que constitui receita da Direcção-Geral do Ensino Superior."
+  },
+  "cf93754838aa8cdd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Permuta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Permuta\n\n1 - No prazo de 15 dias sobre a matrícula e inscrição, os candidatos colocados no ensino superior público do concurso nacional de acesso no ano de 2009 podem solicitar a permuta desde que os pares estabelecimento/curso em que foram colocados exijam as mesmas provas de ingresso e cada um deles satisfaça cumulativamente as seguintes condições:\n\na) Ter realizado as provas de ingresso exigidas para o par estabelecimento/curso para que pretende permutar;\n\nb) Ter a classificação mínima exigida nas provas de ingresso fixadas para o par estabelecimento/curso para que pretende permutar;\n\nc) Ter a nota mínima de candidatura exigida para o par estabelecimento/curso para que pretende permutar;\n\nd) Satisfazer, se exigidos, os pré-requisitos fixados para acesso ao par estabelecimento/curso para que pretende permutar;\n\ne) Ter nota de candidatura igual ou superior à nota do último colocado no par estabelecimento/curso para que pretende permutar.\n\n2 - O prazo a que se refere o n.º 1 conta a partir da data da matrícula e inscrição do requerente que a haja realizado em último lugar.\n\n3 - Os dois interessados fazem um requerimento, em duplicado, nos termos do anexo i, de que entregam um exemplar em cada um dos estabelecimentos de ensino superior em que se encontram matriculados.\n\n4 - Cada requerimento é acompanhado dos certificados de colocação de ambos os candidatos, emitidos pela Direcção-Geral do Ensino Superior.\n\n5 - A nota de candidatura a considerar para os fins da alínea e) do n.º 1 é a do último colocado no contingente geral (ou contingente único, no caso da 2.ª ou da 3.ª fase), na fase em que foi colocado o estudante que liberta a vaga.\n\n6 - A permuta é autorizada por despacho conjunto dos órgãos legal e estatutariamente competentes dos dois estabelecimentos de ensino superior, verificada a satisfação das condições a que se refere o n.º 1 e comunicada a cada um dos estudantes pelo estabelecimento para que pretende permutar.\n\n7 - A permuta autorizada nos termos dos números anteriores deve ser comunicada à Direcção-Geral do Ensino Superior, com a indicação dos estudantes intervenientes.\n\n8 - Em caso algum os requerentes podem ser autorizados a iniciar a frequência das aulas antes da comunicação de autorização.\n\n9 - A transferência da matrícula e inscrição processa-se oficiosamente."
+  },
+  "0f469ac9d459b338": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Recolocação institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Recolocação institucional\n\n1 - Nos casos em que, terminada a 3.ª fase do concurso o número total de estudantes matriculados num par estabelecimento/curso seja inferior a seis, pode haver lugar à recolocação institucional da totalidade dos estudantes noutros pares estabelecimento/curso nos termos dos números seguintes.\n\n2 - São condições cumulativas para a recolocação:\n\na) Quando terminada a 3.ª fase do concurso, a existência de vagas nos pares estabelecimento/curso onde se pretende recolocar os estudantes;\n\nb) O preenchimento, por parte dos estudantes, de todas as condições necessárias para a candidatura ao par estabelecimento/curso onde vão ser recolocados, designadamente:\n\nb1) Terem realizado as provas de ingresso exigidas para esse par estabelecimento/curso;\n\nb2) Terem a classificação mínima exigida nas provas de ingresso fixadas para esse par estabelecimento/curso;\n\nb3) Terem a nota mínima de candidatura exigida para esse par estabelecimento/curso;\n\nb4) Satisfazerem, se exigidos, os pré-requisitos fixados para acesso a esse par estabelecimento/curso;\n\nc) A anuência dos estudantes a recolocar;\n\nd) A anuência dos estabelecimentos de ensino onde os estudantes vão ser recolocados;\n\ne) A recolocação da totalidade dos estudantes que haviam sido colocados e se matricularam no par estabelecimento/curso em causa.\n\n3 - A decisão sobre o desencadeamento do processo de recolocação compete ao órgão legal e estatutariamente competente do estabelecimento de ensino onde ocorreu a situação referida no n.º 1.\n\n4 - A decisão de recolocação é tomada por despacho conjunto dos órgãos legal e estatutariamente competentes dos dois estabelecimentos de ensino superior uma vez verificada a satisfação da totalidade das condições a que se refere o n.º 2.\n\n5 - O estabelecimento onde o estudante se encontrava colocado:\n\na) Comunica ao estudante, por carta registada com aviso de recepção, a recolocação;\n\nb) Remete ao estabelecimento onde o estudante foi recolocado o respectivo processo, bem como as importâncias recebidas a título de propina de matrícula e de inscrição.\n\n6 - O disposto neste artigo aplica-se, com as necessárias adaptações, à recolocação noutro curso do mesmo estabelecimento de ensino."
+  },
+  "c5ad9ed29e2a3eed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Disposições comuns"
+  },
+  "6e44a954e02b3362": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — Exclusão de candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Exclusão de candidatos\n\n1 - Para além dos casos em que, nos termos do presente Regulamento, há lugar à exclusão do concurso, são ainda excluídos deste, a todo o tempo, os candidatos que:\n\na) Não tenham preenchido correctamente o seu formulário online ou o boletim de candidatura, quer por omitirem algum elemento quer por indicarem outros que não correspondam aos constantes dos documentos arquivados no seu processo;\n\nb) Não reúnam as condições para a apresentação a qualquer fase do concurso;\n\nc) Não tenham, sem motivo devidamente justificado perante o director-geral do Ensino Superior e aceite por este, completado a instrução dos respectivos processos nos prazos devidos;\n\nd) Prestem falsas declarações.\n\n2 - É competente para proferir a decisão a que se refere o número anterior o director-geral do Ensino Superior.\n\n3 - Caso haja sido realizada matrícula no ensino superior e se confirme uma das situações previstas no n.º 1, aquela é anulada, bem como todos os actos praticados ao abrigo da mesma, pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n4 - A Direcção-Geral do Ensino Superior comunica aos estabelecimentos de ensino as situações que venha a detectar posteriormente à realização da matrícula."
+  },
+  "27fe6828e6e2d86e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — Erros dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Erros dos serviços\n\n1 - Quando, por erro não imputável directa ou indirectamente ao candidato, não tenha havido colocação ou tenha havido erro na colocação, este é colocado no curso e estabelecimento em que teria sido colocado na ausência do erro, mesmo que para esse fim seja necessário criar vaga adicional.\n\n2 - A rectificação pode ser accionada por iniciativa:\n\na) Do candidato, nos termos do artigo 41.º;\n\nb) De um estabelecimento de ensino superior;\n\nc) Da Direcção-Geral do Ensino Superior.\n\n3 - A rectificação pode revestir a forma de:\n\na) Colocação;\n\nb) Alteração da colocação;\n\nc) Passagem à situação de não colocado;\n\nd) Passagem à situação de excluído da candidatura.\n\n4 - As alterações realizadas nos termos deste artigo são notificadas ao candidato através de carta registada, com aviso de recepção.\n\n5 - A rectificação abrange apenas o candidato em que o erro foi detectado, não tendo qualquer efeito em relação aos restantes candidatos.\n\n6 - Caso o candidato tenha direito a uma nova colocação, ficando sem efeito a colocação anterior, o primeiro estabelecimento de ensino superior remete ao segundo estabelecimento de ensino superior toda a documentação relevante, bem como a importância recebida a título de propina."
+  },
+  "b53984e9770fe140": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Prazos\n\nOs prazos em que devem ser praticados os actos previstos no presente Regulamento são fixados por despacho do director-geral do Ensino Superior, nos termos do artigo 40.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481)."
+  },
+  "1d1b287454294669": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Informação\n\nA informação relevante acerca do acesso e ingresso no ensino superior público, nomeadamente:\n\na) O regulamento do concurso nacional;\n\nb) As provas de ingresso;\n\nc) Os pré-requisitos;\n\nd) As preferências regionais e habilitacionais;\n\ne) As classificações mínimas;\n\nf) A fórmula da nota de candidatura;\n\ng) As vagas para a candidatura a cada par estabelecimento/curso;\n\né divulgada, nos termos do artigo 38.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), no sítio da Internet da Direcção-Geral do Ensino Superior."
+  },
+  "216f9d9524a5f352": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — Orientações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Orientações\n\nA Direcção-Geral do Ensino Superior, a Comissão Nacional de Acesso ao Ensino Superior ou a Direcção-Geral de Inovação e de Desenvolvimento Curricular, conforme os casos, expedem as orientações que se revelem necessárias à uniforme execução do presente Regulamento."
+  },
+  "0fdf6281dc34ded0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Encerramento do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Encerramento do processo\n\nCom a matrícula e inscrição dos candidatos colocados na 3.ª fase do concurso fica encerrado o processo de colocação no ensino superior público em 2009 através do concurso nacional de acesso e ingresso."
+  },
+  "af90d2fcd5df0605": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Modelo de requerimento de permuta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Modelo de requerimento de permuta\n\n(artigo 57.º, n.º 3)\n\nExmo. Sr. ...:\n\n... (nome), com o n.º de identificação civil..., residente em... (endereço), colocado no... (curso e estabelecimento) na... fase do concurso nacional, no ano lectivo de 2009-2010, e... (nome), com o n.º de identificação civil..., residente em... (endereço), colocado na... fase do concurso nacional, no ano lectivo de 2009-2010, vêm solicitar a sua permuta, nos termos do artigo 57.º do Regulamento aprovado pela Portaria n.º... (número e data da presente portaria).\n\nAnexam os respectivos certificados de colocação.\n\nPedem deferimento.\n\na)... (assinatura do primeiro requerente).\n\nb)... (assinatura do segundo requerente).\n\n(A elaborar em duplicado e com as assinaturas reconhecidas notarialmente ou mediante apresentação do cartão de cidadão ou bilhete de identidade.)"
+  },
+  "67144de3c53b4bbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Contingente especial para candidatos portadores de deficiência física ou sensorial - Regras de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Contingente especial para candidatos portadores de deficiência física ou sensorial - Regras de admissão\n\n1.º\n\nDeficiência física ou sensorial\n\nPara efeitos do presente Regulamento, consideram-se:\n\na) «Estudantes com deficiência física» os indivíduos com défices motores permanentes congénitos ou adquiridos que, requerendo cuidados médicos ou terapêuticos durante período prolongado, exigiram, a nível da aprendizagem escolar no ensino secundário, adaptações curriculares e abordagens pedagógicas especializadas;\n\nb) «Estudantes com deficiência sensorial» os indivíduos com:\n\nb1) Défices visuais permanentes bilaterais (cegueira e grande ambliopia) cuja aprendizagem escolar no ensino secundário exigiu meios auxiliares específicos e programas pedagógicos apropriados e adaptações curriculares;\n\nb2) Défices auditivos permanentes com uma perda bilateral de 50 dB (índice de Fletcher) cuja aprendizagem escolar no ensino secundário exigiu, ainda que utilizando adaptações protéticas, o recurso a programas pedagógicos especiais e adaptações curriculares.\n\n2.º\n\nRegras genéricas para a avaliação da deficiência\n\n1 - A avaliação da deficiência faz-se, nomeadamente, nas seguintes áreas:\n\na) Recepção da informação;\n\nb) Mobilidade e locomoção;\n\nc) Manipulação;\n\nd) Comunicação oral e escrita;\n\ne) Autonomia no desempenho das actividades da vida diária.\n\n2 - Na avaliação do desempenho individual dos candidatos devem ser tidos em consideração os seguintes aspectos:\n\na) As repercussões, em termos de capacidade, das suas limitações em relação às áreas referidas no número anterior;\n\nb) O tipo e o grau de êxito das compensações e adaptações que foram desenvolvidas.\n\n3.º\n\nApreciação dos pedidos\n\n1 - A apreciação dos pedidos de admissão ao contingente especial incide sobre a comprovação da deficiência, nos termos dos n.os 1.º e 2.º\n\n2 - A apreciação dos pedidos processa-se através de análise documental e, se considerada necessária, de entrevista e de análise funcional das capacidades dos candidatos.\n\n3 - Os pedidos de admissão a este contingente de estudantes com necessidades educativas especiais decorrentes de situações clínicas devidamente comprovadas e fundamentadas são objecto de análise casuística por parte da comissão de avaliação, tendo em conta as eventuais implicações no processo escolar dos candidatos e considerando o disposto no n.º 2.º\n\n4.º\n\nComissão de avaliação\n\n1 - A apreciação dos pedidos é feita por uma comissão de avaliação nomeada por despacho do Ministro da Ciência, Tecnologia e Ensino Superior, sob proposta conjunta dos directores-gerais de Inovação e de Desenvolvimento Curricular e do Ensino Superior.\n\n2 - A comissão pode solicitar a colaboração de natureza técnico-pedagógica que considerar necessária para o exercício da sua actividade.\n\n3 - A comissão será coordenada pelo representante da Direcção-Geral do Ensino Superior.\n\n5.º\n\nCompetências da comissão de avaliação\n\nSão competências da comissão de avaliação:\n\na) Deliberar acerca da admissão ao contingente especial;\n\nb) Solicitar aos candidatos todos os elementos ou documentos que considere necessários à apreciação da candidatura;\n\nc) Convocar os candidatos para a realização de entrevista ou da análise funcional das suas capacidades.\n\n6.º\n\nDos candidatos\n\n1 - Os candidatos, quando convocados pela comissão de avaliação para a realização de análise funcional das suas capacidades ou entrevista, devem ser portadores dos atestados médicos e outros documentos, eventualmente não entregues no acto da candidatura, que considerem úteis para a avaliação da sua deficiência e do seu desempenho individual no percurso escolar ao nível do ensino secundário, bem como de outros elementos que sejam solicitados pela comissão de avaliação.\n\n2 - A comparência no local, dia e hora fixados pela comissão de avaliação para a realização de análise funcional ou entrevista é obrigatória, salvo em casos de força maior ou justo impedimento, devidamente comprovados no prazo máximo de dois dias úteis após a recepção da convocação.\n\n3 - As convocatórias são enviadas pela Direcção-Geral do Ensino Superior por telegrama ou por correio registado, com aviso de recepção, com uma antecedência mínima de dois dias úteis, para o endereço postal indicado pelos candidatos no seu boletim de candidatura.\n\n4 - O incumprimento pelos candidatos do disposto nos n.os 1 e 2 acarreta a rejeição do pedido de admissão ao contingente especial.\n\n7.º\n\nTramitação processual\n\n1 - A Direcção-Geral do Ensino Superior remete à comissão de avaliação os processos de candidatura apresentados nos termos da presente portaria.\n\n2 - A Direcção-Geral de Inovação e de Desenvolvimento Curricular, as direcções regionais de educação e os estabelecimentos de ensino secundário facultam à comissão de avaliação, a pedido desta, os elementos existentes nos seus serviços relativos aos candidatos.\n\n3 - A comissão de avaliação procede à apreciação documental dos pedidos, convocando os candidatos, sempre que necessário, para a realização de entrevista e ou avaliação funcional das suas capacidades.\n\n4 - A comissão pode, face à prova documental produzida pelo candidato, dispensá-lo da entrevista e ou da avaliação funcional das suas capacidades.\n\n5 - Face aos resultados da apreciação, a comissão de avaliação decide fundamentadamente sobre a comprovação da deficiência nos termos definidos neste anexo.\n\n6 - As deliberações da comissão estão sujeitas a homologação, por despacho conjunto dos directores-gerais de Inovação e de Desenvolvimento Curricular e do Ensino Superior.\n\n7 - Os processos de candidatura são devolvidos à Direcção-Geral do Ensino Superior, acompanhados da deliberação, nos 20 dias subsequentes à sua recepção pela comissão de avaliação.\n\n8 - Compete à Direcção-Geral do Ensino Superior proceder à notificação aos candidatos das deliberações da comissão.\n\n9 - Do despacho homologatório cabe recurso para o Ministro da Ciência, Tecnologia e Ensino Superior.\n\n8.º\n\nApoio logístico\n\nCompete à Direcção-Geral do Ensino Superior prestar todo o apoio necessário ao funcionamento da comissão.\n\n9.º\n\nEncargos\n\nTodos os encargos decorrentes do funcionamento da comissão de avaliação e do processo de análise dos pedidos, nomeadamente os referentes a exames determinados pela comissão para a análise funcional das capacidades dos candidatos e a deslocações dos membros da comissão para a realização de entrevistas, são suportados pelas verbas adequadas do orçamento da Direcção-Geral do Ensino Superior."
+  },
+  "78d27e8ef5c7535f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º-A — Vagas adicionais",
+   "in_force_from": "2009-10-17",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 1270/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1270-2009-482821), publicado em 2009-10-16."
+   ],
+   "markdown": "###### Artigo 48.º-A — Vagas adicionais\n\n1 - Às vagas a que se refere o artigo anterior acrescem ainda as vagas adicionais que sejam fixadas pelas instituições de ensino superior em relação aos pares estabelecimento/curso em que demonstrem:\n\na) A existência de procura na respectiva área sem a correspondente oferta no conjunto da rede pública, tendo em consideração os resultados do concurso nacional;\n\nb) Dispor de condições adequadas, designadamente em recursos humanos e materiais, para o aumento do número de vagas.\n\n2 - Compete à Direcção-Geral do Ensino Superior proceder à verificação da satisfação das condições a que se refere o n.º 1.\n\n3 - As vagas adicionais a que se refere o número anterior:\n\na) Devem ser comunicadas pelos estabelecimentos de ensino superior à Direcção-Geral do Ensino Superior no prazo fixado nos termos do artigo 61.º;\n\nb) São divulgadas nos termos e prazo fixados pelo n.º 4 do artigo anterior.\n\n> Aditado pelo/a [Portaria n.º 1270/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1270-2009-482821), publicado em 2009-10-16."
+  }
+ }
+}

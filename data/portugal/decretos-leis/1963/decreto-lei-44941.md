@@ -31,10 +31,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-04-15'
+version_history:
+  file: decreto-lei-44941.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-03-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-04-15'
+    amending: pt:dre:162077:por
+    amending_title: Decreto-Lei n.º 200/75
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -60,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:44:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 200/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1963/decreto-lei-44941.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,7 +134,9 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Têm direito ao abono de alimentação e alojamento por conta do Estado:
+###### Artigo 1.º
+
+Têm direito ao abono de alimentação e alojamento por conta do Estado:
 
 1.º Oficiais e sargentos, ou equiparados, nas seguintes situações:
 
@@ -149,19 +166,35 @@ a) Em contravenção da Lei do Recrutamento e Serviço Militar, enquanto não fo
 
 b) Presentes às juntas de inspecção e mandados baixar aos hospitais militares, bem como os que nas ilhas adjacentes aguardam o embarque para o continente, mas apenas no dia do embarque.
 
+c) Deslocados às juntas de recrutamento, sempre que tais deslocações, pela sua distância ou duração, impliquem a necessidade de pernoita ou de refeições fora do seu domicílio habitual, segundo normas regulamentares a fixar.
+
 5.º Os militares que em casos especiais sejam autorizados por despacho ministerial.
 
-Art. 2.º Têm direito apenas ao abono de almoço por conta do Estado os oficiais e sargentos, ou equiparados, em serviço nas unidades, estabelecimentos militares e outros serviços do Exército, fixados anualmente por despacho ministerial.
+> Alterado pelo/a [Decreto-Lei n.º 200/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-1975-162077), publicado em 1975-04-15.
 
-Art. 3.º Os abonos referidos nas alíneas d) e g) do artigo 1.º e no artigo 2.º não são devidos quando os oficiais e sargentos, ou equiparados, beneficiem de residência do Estado na localidade onde estejam a prestar serviço e a utilizem.
+###### Artigo 2.º
 
-Art. 4.º Os quantitativos a abonar nas diversas situações previstas no presente diploma serão fixados anualmente por despacho do Ministro do Exército, com a concordância do Ministro das Finanças quando deles resulte aumento de encargos para o orçamento do Ministério do Exército.
+Têm direito apenas ao abono de almoço por conta do Estado os oficiais e sargentos, ou equiparados, em serviço nas unidades, estabelecimentos militares e outros serviços do Exército, fixados anualmente por despacho ministerial.
 
-Art. 5.º O abono de alimentação será sempre feito em género, salvo os casos especiais de abono em dinheiro que no regulamento a publicar venham a ser expressamente referidos.
+###### Artigo 3.º
 
-Art. 6.º São considerados legais, para todos os efeitos, os abonos concedidos nos termos do regulamento aprovado pelo [Decreto n.º 41964](https://diariodarepublica.pt/dr/detalhe/decreto/41964-1958-339235), de 19 de Novembro de 1958.
+Os abonos referidos nas alíneas d) e g) do artigo 1.º e no artigo 2.º não são devidos quando os oficiais e sargentos, ou equiparados, beneficiem de residência do Estado na localidade onde estejam a prestar serviço e a utilizem.
 
-Art. 7.º Ficam revogados o [Decreto-Lei n.º 41896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41896-1958-337672), de 8 de Outubro de 1958, e o [Decreto n.º 41964](https://diariodarepublica.pt/dr/detalhe/decreto/41964-1958-339235), de 19 de Novembro de 1958, ressalvadas, quanto a este último, as suas disposições de carácter regulamentar, enquanto não for publicado novo regulamento ao abrigo do presente decreto-lei.
+###### Artigo 4.º
+
+Os quantitativos a abonar nas diversas situações previstas no presente diploma serão fixados anualmente por despacho do Ministro do Exército, com a concordância do Ministro das Finanças quando deles resulte aumento de encargos para o orçamento do Ministério do Exército.
+
+###### Artigo 5.º
+
+O abono de alimentação será sempre feito em género, salvo os casos especiais de abono em dinheiro que no regulamento a publicar venham a ser expressamente referidos.
+
+###### Artigo 6.º
+
+São considerados legais, para todos os efeitos, os abonos concedidos nos termos do regulamento aprovado pelo [Decreto n.º 41964](https://diariodarepublica.pt/dr/detalhe/decreto/41964-1958-339235), de 19 de Novembro de 1958.
+
+###### Artigo 7.º
+
+Ficam revogados o [Decreto-Lei n.º 41896](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41896-1958-337672), de 8 de Outubro de 1958, e o [Decreto n.º 41964](https://diariodarepublica.pt/dr/detalhe/decreto/41964-1958-339235), de 19 de Novembro de 1958, ressalvadas, quanto a este último, as suas disposições de carácter regulamentar, enquanto não for publicado novo regulamento ao abrigo do presente decreto-lei.
 
 Publique-se e cumpra-se como nele se contém.
 

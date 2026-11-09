@@ -1,0 +1,326 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:518188:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1962-03-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f75caa967378ce73"
+   ]
+  },
+  {
+   "date": "1970-02-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:227783:por",
+     "title": "Decreto n.º 45/70",
+     "published": "1970-02-05",
+     "dre_path": "/dr/detalhe/decreto/45-1970-227783"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "1053db02981e3be8",
+    "01d90e5a959b6da1",
+    "b741f8575bf194fd",
+    "fca0a7c9e1c933f0",
+    "13819b1744aa2950",
+    "9dc0c61bb44f7f3b",
+    "156e70729f513d82",
+    "08dc5133bfcd0d0b",
+    "96366742fc039918",
+    "99c019e2202d13d5",
+    "12238eee27c65bc4",
+    "3798db0820df9e94",
+    "9dba08a4ef4bbf59",
+    "ca8a717773266dbe",
+    "f87a9a3379684c50",
+    "76508d27656a46f9",
+    "4087da9c05d47074",
+    "d0e0e8e578c51974",
+    "f6c8c9481706732c",
+    "af21d8be2e9555a0",
+    "6a476daa3da4cf63",
+    "bb73f08dccb06f95",
+    "a3aacaa216838b64",
+    "ddf6d0b423158ab9",
+    "73743456a89e1583",
+    "701029da30910819",
+    "fd4fbc34f5362f32",
+    "9e6d41a4bb4347a6",
+    "c8f7b8f910d687c6",
+    "9785c30ca771d80c",
+    "edabe1ce65796652"
+   ]
+  }
+ ],
+ "fragments": {
+  "f75caa967378ce73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O aumento do tráfego e consequente desenvolvimento dos serviços dos portos, caminhos de ferro e transportes de Angola e Moçambique aconselham a revisão de alguns dos seus departamentos e a introdução de modificações no quadro do pessoal dirigente e técnico. Mostra também a experiência a necessidade de actualizar a organização e funcionamento das brigadas de estudos, construção e fiscalização de obras dos portos e caminhos de ferro, extinguindo as desnecessárias e integrando as restantes nos serviços que, para o efeito, possuem já divisões especializadas.\n\nEm tal sentido se vai providenciar.\n\nConsiderando que as disposições deste diploma são de urgente aplicação;\n\nOuvidas as províncias interessadas;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:\n\nI\n\nDo quadro comum dos engenheiros e serviços\n\nArtigo 1.º É aprovado o quadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar, constante do mapa anexo a este decreto, que, na parte respeitante a Angola e Moçambique, substitui o referido no artigo 14.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959.\n\nArt. 2.º As nomeações para os lugares do quadro comum a que se refere o artigo antecedente e a colocação dos engenheiros directores são da competência do Ministro do Ultramar. Os engenheiros das restantes categorias serão colocados por portaria do governador-geral, sob proposta do director dos serviços.\n\nArt. 3.º Os cargos constantes do mapa referido no artigo 1.º serão desempenhados por engenheiros das categorias seguintes:\n\na) Engenheiro director: inspector provincial, director e subdirector dos serviços;\n\nb) Engenheiro-chefe: director e subdirector de exploração, chefe e subchefe de divisão, adjuntos da Direcção dos Serviços;\n\nc) Engenheiro de 1.ª classe: chefe de serviço e chefe de brigada de estudos e construção;\n\nd) Engenheiro de 2.ª classe: adjunto do chefe de serviço e adjunto do chefe de brigada.\n\n§ único. Na falta de engenheiros de 1.ª classe podem os cargos referidos na alínea c) ser desempenhados, interinamente, por engenheiros de 2.ª classe.\n\nArt. 4.º Com a concordância do conselho de administração dos portos, caminhos de ferro e transportes, pode o director dos serviços delegar nos directores de exploração os assuntos correntes. As delegações serão sempre dadas em ordem de serviço ou por despacho publicado no Boletim Oficial, conforme a publicidade seja ou não de interesse público.\n\nArt. 5.º O provimento dos cargos do mapa referido no artigo 1.º será feito:\n\na) Por engenheiros civis:\n\nChefe e subchefe da Divisão de Estudos e Construção;\n\nChefe e adjunto das brigadas de estudos e construção;\n\nChefes e adjuntos dos serviços de via e obras.\n\nb) Por engenheiros electrotécnicos e mecânicos:\n\nChefe e subchefe da Divisão dos Serviços Técnicos;\n\nChefes e adjuntos dos serviços de electricidade, de material e tracção, de sinalização e comunicações e de oficinas.\n\n§ 1.º Os restantes cargos serão providos por engenheiros de qualquer das especialidades referidas a quem caiba a promoção à categoria correspondente, desde que possuam a necessária preparação e prática.\n\n§ 2.º Os cargos de chefe e subchefe da Divisão de Estudos e Construção devem ser desempenhados indiferentemente por um engenheiro especializado em portos e outro em caminhos de ferro.\n\n§ 3.º Os cargos de chefe e subchefe da Divisão de Serviços Técnicos devem ser exercidos por engenheiros de especialidades diferentes: quando um for electrotécnico o outro será mecânico.\n\nArt. 6.º Compete aos adjuntos da Direcção dos Serviços coadjuvar o director, executar as funções que este lhes delegue e substituir o subdirector nas suas faltas ou impedimentos.\n\nArt. 7.º Um dos subdirectores de exploração previstos para Angola servirá na Direcção de Exploração dos Transportes Aéreos.\n\nArt. 8.º O cargo de chefe de oficinas passa a designar-se por «chefe de serviço de oficinas».\n\nArt. 9.º Nas Direcções dos Serviços dos Portos, Caminhos de Ferro e Transportes de Angola e Moçambique são criadas divisões de serviços técnicos, às quais compete:\n\n1.º Estabelecer as especificações técnicas e organizar os cadernos de encargos para aquisição de todo o material de tracção, circulante, automóvel, portuário, eléctrico e de oficinas e sobresselentes, por forma a normalizar e unificar, quanto possível, os respectivos tipos, de acordo com as necessidades dos serviços e tendo em vista a economia do trabalho e do capital;\n\n2.º Elaborar projectos-tipos para o material referido no número anterior, incluindo os das instalações oficinais e centrais eléctricas, tendo em atenção as necessidades indicadas pelas direcções de exploração;\n\n3.º Elaborar instruções para ensino técnico do pessoal encarregado do material de tracção, circulante, automóvel, eléctrico e de manuseamento de mercadorias, carga e descarga, de maneira a aumentar os conhecimentos profissionais e o rendimento do trabalho;\n\n4.º Inspeccionar todo o material das várias instalações dos serviços, informando sobre a sua utilização, estado, emprego e o mais que for conveniente;\n\n5.º Elaborar instruções para a concessão de prémios ao pessoal que mais contribua para aumentar a eficiência e o rendimento da exploração.\n\nArt. 10.º Aos mapas II e III anexos ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, são introduzidas as seguintes alterações:\n\n1.º Acrescentar nos dois mapas:\n\na) Na rubrica engenheiros directores: ou inspectores provinciais;\n\nb) Na rubrica engenheiros-chefes: chefe da Divisão de Serviços Técnicos;\n\nc) Na rubrica engenheiros de 1.ª classe: ou de chefe de brigada;\n\nd) Na rubrica engenheiros de 2.ª classe: ou de chefes de brigada.\n\n2.º Acrescentar no mapa II:\n\nEngenheiros de 2.ª classe, quando exercendo funções de adjuntos dos chefes de serviços de oficinas ou de brigada ... 500$00\n\nArt. 11.º Nas direcções de serviços e de exploração haverá apenas um subdirector, considerando-se extinto o lugar criado pelo artigo 58.º do [Decreto n.º 43340](https://diariodarepublica.pt/dr/detalhe/decreto/43340-1960-514185), de 21 de Novembro de 1960.\n\nII\n\nDa Inspecção Provincial dos Serviços dos Portos, Caminhos de Ferro e Transportes\n\nArt. 12.º A Inspecção Provincial dos Serviços dos Portos, Caminhos de Ferro e Transportes, com sede na capital da província, compete inspeccionar periòdicamente, e pelo menos duas vezes por ano, todos os organismos da administração dos mesmos serviços.\n\n§ 1.º As inspecções destinam-se especialmente a conhecer do estado em que se encontram os serviços e a forma como são executados e observados os regulamentos, instruções e preceitos legais aplicáveis.\n\n§ 2.º De cada inspecção se fará circunstanciado relatório, a enviar pelo inspector provincial ao governador-geral.\n\n§ 3.º Sempre que dos relatórios das inspecções constem irregularidades, erros ou omissões na execução dos serviços, enviará o inspector provincial ao conselho de administração no mais curto espaço de tempo cópia da parte que interessar, acompanhada de propostas ou sugestões para remediar ou corrigir as deficiências encontradas.\n\n§ 4.º O conselho de administração deverá também no mais curto espaço de tempo pronunciar-se sobre as propostas ou sugestões da inspecção e tomar as providências que as circunstâncias requererem.\n\nArt. 13.º O expediente da Inspecção Provincial será assegurado pela Repartição dos Serviços Centrais da Direcção dos Serviços pela forma acordada entre o inspector provincial e o director.\n\nArt. 14.º O provimento dos cargos de inspector provincial é feito em comissão por escolha do Ministro do Ultramar de entre engenheiros directores do quadro comum.\n\n§ único. Os inspectores provinciais têm direito aos vencimentos e gratificações constantes dos mapas II e III anexos ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, e a prémios de economia iguais aos abonados aos directores dos serviços.\n\nArt. 15.º A actividade dos inspectores provinciais é independente da exercida pelo conselho fiscal dos portos, caminhos de ferro e transportes e não prejudica ou modifica a competência que a lei a este confere.\n\nArt. 16.º Em matéria das suas atribuições e competência os inspectores provinciais correspondem-se directamente com o governador-geral e com todas as entidades da província e podem consultar os arquivos e processos dos departamentos sujeitos à inspecção ou aqueles que com elas se relacionem e pertençam a outros da Direcção dos Serviços.\n\n§ único. Quando em serviço de inspecção, inquérito ou sindicância, podem os inspectores provinciais requisitar um funcionário para os coadjuvar, como secretário, de categoria não superior a primeiro-oficial.\n\nIII\n\nDisposições transitórias\n\nArt. 17.º São extintas as actuais brigadas de estudos, construção ou fiscalização de portos e caminhos de ferro das províncias de Angola e Moçambique. As funções destas brigadas passam a ser exercidas pelas divisões de estudos e construção das respectivas direcções dos serviços.\n\n§ 1.º Nestas divisões serão constituídas brigadas para, sem interrupção, continuar os trabalhos cometidos às extintas.\n\n§ 2.º Além do pessoal de que as divisões dispõem, poderá ser admitido, em regime eventual e temporário, por contrato ou assalariamento, o indispensável aos estudos e trabalhos de construção.\n\n§ 3.º Quando se trate de estudos ou obras custeados por verbas da tabela da despesa extraordinária, incluídos em programas aprovados, os encargos das brigadas serão suportados pelas dotações globais consignadas a esses empreendimentos.\n\n§ 4.º Os vencimentos e salários do pessoal das brigadas e do admitido ao abrigo dos §§ 1.º e 2.º não podem ser superiores aos dos funcionários dos quadros de idêntica categoria. Sempre que este pessoal preste serviço fora da sede oficial tem direito ao subsídio de campo ou ajudas de custo.\n\n§ 5.º A contabilização, pagamentos e fornecimentos das brigadas ficam a cargo da Direcção dos Serviços dos Portos, Caminhos de Ferro e Transportes, nos termos e regras dos seus regulamentos privativos.\n\nArt. 18.º Consideram-se denunciados e rescindidos no termo dos respectivos prazos todos os contratos do pessoal das brigadas extintas; se pertencer a outros quadros e nelas tiver servido em comissão ou por contrato, regressa imediatamente aos quadros de origem.\n\n§ único. Quando interessar ao Estado conservar ao serviço os engenheiros que não requeiram o seu ingresso no quadro comum, nos termos do artigo seguinte, para a conclusão de trabalhos em curso importantes, podem ser mantidos na situação actual pelo tempo estritamente necessário, mas nunca excedendo o prazo de um ano.\n\nArt. 19.º Sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, os engenheiros contratados para as brigadas agora extintas podem ingressar no quadro referido no artigo 1.º nas seguintes condições e independentemente da idade:\n\na) Como engenheiro de 2.ª classe os engenheiros contratados que tenham menos de 5 anos de serviço nas brigadas e boas informações;\n\nb) Como engenheiros de 1.ª classe os que tenham mais de 5 anos de serviço nas brigadas, boas informações e desde que não haja engenheiros do quadro em condições legais de promoção. Neste último caso poderão ingressar na 2.ª classe;\n\nc) Como engenheiro-chefe os engenheiros que, sendo chefes de brigada, tenham mais de 15 anos de serviço no cargo e boas informações.\n\n§ 1.º O preceituado neste artigo aplica-se também aos engenheiros contratados das brigadas que tenham sido transferidos, por conveniência de serviço, para outras brigadas da mesma ou diferente província.\n\n§ 2.º Os interessados devem requerer o ingresso no quadro dentro de 30 dias, a contar da entrada em vigor deste diploma, sob pena de rescisão dos respectivos contratos, no seu termo, salvo o disposto no § único do artigo 8.º\n\nArt. 20.º O restante pessoal das extintas brigadas, sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, e independentemente da idade, pode ser admitido, com dispensa das habilitações literárias exigidas pela lei e, se assim o requerer, no prazo de 30 dias, aos primeiros concursos para os lugares dos quadros privativos, de categoria e natureza idênticas aos das funções que exerciam nas brigadas, desde que tenham boas informações e, pelo menos, um ano de serviço.\n\nArt. 21.º O pessoal das extintas brigadas tem preferência absoluta no provimento dos cargos das brigadas que se constituírem nas divisões de estudos e construção.\n\nArt. 22.º Os agentes especializados, técnicos e operários, contratados ou assalariados da Direcção dos Serviços com boas informações e mais de um ano de serviço à data da entrada em vigor deste diploma, são admitidos, independentemente da idade, ao primeiro concurso a realizar para cada cargo e providos de harmonia com as classificações obtidas.\n\nArt. 23.º Sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, os engenheiros contratados para os serviços dos portos, caminhos de ferro e transportes de Angola e Moçambique ao abrigo do § 2.º do artigo 45.º e do artigo 46.º daquele diploma podem ingressar, independentemente da idade, na 1.ª ou 2.ª classes do quadro comum, conforme a categoria dos cargos que estejam exercendo, desde que possuam boas informações.\n\n§ único. O ingresso deve ser requerido no prazo de 30 dias, sendo rescindidos no seu termo os contratos dos interessados que o não requeiram.\n\nArt. 24.º Por portaria simplesmente anotada pelo Tribunal de Contas e sem mais formalidades transitam para os respectivos lugares de chefe da Divisão dos Serviços Técnicos, criados por este decreto, o actual adjunto da Direcção dos Serviços de Angola e o mais antigo dos engenheiros adjuntos da Direcção dos Serviços de Moçambique, contando-se, para este efeito, o tempo anterior à mudança de categoria estabelecido pelo [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959.\n\n§ único. O outro adjunto da Direcção dos Serviços de Moçambique transita, nas mesmas condições do corpo do artigo, para o lugar de subchefe da Divisão dos Serviços Técnicos.\n\nIV\n\nDisposições finais\n\nArt. 25.º A concessão de licenças disciplinares aos funcionários e assalariados dos serviços dos portos, caminhos de ferro e transportes de Angola e Moçambique passa a regular-se pelas disposições aplicáveis do Estatuto do Funcionalismo Ultramarino.\n\nArt. 26.º No prazo de um ano, a contar da publicação deste diploma, deverão os directores dos Serviços dos Portos, Caminhos de Ferro e Transportes de Angola e Moçambique elaborar projectos de reorganização dos serviços para aprovação ministerial. Nesse trabalho ter-se-á em conta o disposto no § único do artigo 10.º do [Decreto n.º 43319](https://diariodarepublica.pt/dr/detalhe/decreto/43319-1960-514233), de 16 de Novembro de 1960.\n\nArt. 27.º O provimento dos lugares criados por este decreto será feito de harmonia com as disponibilidades orçamentais.\n\nArt. 28.º Ficam os governadores-gerais de Angola e Moçambique autorizados a abrir os créditos necessários para a execução deste diploma.\n\nArt. 29.º O lugar de adjunto administrativo, criado pelo artigo 1.º do Diploma Legislativo Ministerial, n.º 66, de 25 de Outubro de 1961, considera-se extinto com a verificação da sua vacatura.\n\nArt. 30.º São revogados os artigos 39.º da Portaria Ministerial n.º 29, de 12 de Dezembro de 1942, e 8.º e 9.º da [Portaria n.º 1822](https://diariodarepublica.pt/dr/detalhe/portaria/1822-1919-363480), de 3 de Dezembro de 1932, de Moçambique.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 9 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.\n\nPara ser publicado no Boletim Oficial de Angola e Moçambique. - A. Moreira.\n\nMAPA\n\nQuadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar, a que se refere o artigo 1.º do Decreto n.º 44227, de 9 de Março de 1962\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/05300/02140216.pdf)\n\nMinistério do Ultramar, 9 de Março de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira."
+  },
+  "1053db02981e3be8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O aumento do tráfego e consequente desenvolvimento dos serviços dos portos, caminhos de ferro e transportes de Angola e Moçambique aconselham a revisão de alguns dos seus departamentos e a introdução de modificações no quadro do pessoal dirigente e técnico. Mostra também a experiência a necessidade de actualizar a organização e funcionamento das brigadas de estudos, construção e fiscalização de obras dos portos e caminhos de ferro, extinguindo as desnecessárias e integrando as restantes nos serviços que, para o efeito, possuem já divisões especializadas.\n\nEm tal sentido se vai providenciar.\n\nConsiderando que as disposições deste diploma são de urgente aplicação;\n\nOuvidas as províncias interessadas;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:\n\nI\n\nDo quadro comum dos engenheiros e serviços"
+  },
+  "01d90e5a959b6da1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado o quadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar, constante do mapa anexo a este decreto, que, na parte respeitante a Angola e Moçambique, substitui o referido no artigo 14.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959."
+  },
+  "b741f8575bf194fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs nomeações para os lugares do quadro comum a que se refere o artigo antecedente e a colocação dos engenheiros directores são da competência do Ministro do Ultramar. Os engenheiros das restantes categorias serão colocados por portaria do governador-geral, sob proposta do director dos serviços."
+  },
+  "fca0a7c9e1c933f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs cargos constantes do mapa referido no artigo 1.º serão desempenhados por engenheiros das categorias seguintes:\n\na) Engenheiro director: inspector provincial, director e subdirector dos serviços;\n\nb) Engenheiro-chefe: director e subdirector de exploração, chefe e subchefe de divisão, adjuntos da Direcção dos Serviços;\n\nc) Engenheiro de 1.ª classe: chefe de serviço e chefe de brigada de estudos e construção;\n\nd) Engenheiro de 2.ª classe: adjunto do chefe de serviço e adjunto do chefe de brigada.\n\n§ único. Na falta de engenheiros de 1.ª classe podem os cargos referidos na alínea c) ser desempenhados, interinamente, por engenheiros de 2.ª classe."
+  },
+  "13819b1744aa2950": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nCom a concordância do conselho de administração dos portos, caminhos de ferro e transportes, pode o director dos serviços delegar nos directores de exploração os assuntos correntes. As delegações serão sempre dadas em ordem de serviço ou por despacho publicado no Boletim Oficial, conforme a publicidade seja ou não de interesse público."
+  },
+  "9dc0c61bb44f7f3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO provimento dos cargos do mapa referido no artigo 1.º será feito:\n\na) Por engenheiros civis:\n\nChefe e subchefe da Divisão de Estudos e Construção;\n\nChefe e adjunto das brigadas de estudos e construção;\n\nChefes e adjuntos dos serviços de via e obras.\n\nb) Por engenheiros electrotécnicos e mecânicos:\n\nChefe e subchefe da Divisão dos Serviços Técnicos;\n\nChefes e adjuntos dos serviços de electricidade, de material e tracção, de sinalização e comunicações e de oficinas.\n\n§ 1.º Os restantes cargos serão providos por engenheiros de qualquer das especialidades referidas a quem caiba a promoção à categoria correspondente, desde que possuam a necessária preparação e prática.\n\n§ 2.º Os cargos de chefe e subchefe da Divisão de Estudos e Construção devem ser desempenhados indiferentemente por um engenheiro especializado em portos e outro em caminhos de ferro.\n\n§ 3.º Os cargos de chefe e subchefe da Divisão de Serviços Técnicos devem ser exercidos por engenheiros de especialidades diferentes: quando um for electrotécnico o outro será mecânico."
+  },
+  "156e70729f513d82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nCompete aos adjuntos da Direcção dos Serviços coadjuvar o director, executar as funções que este lhes delegue e substituir o subdirector nas suas faltas ou impedimentos."
+  },
+  "08dc5133bfcd0d0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nUm dos subdirectores de exploração previstos para Angola servirá na Direcção de Exploração dos Transportes Aéreos."
+  },
+  "96366742fc039918": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO cargo de chefe de oficinas passa a designar-se por «chefe de serviço de oficinas»."
+  },
+  "99c019e2202d13d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nNas Direcções dos Serviços dos Portos, Caminhos de Ferro e Transportes de Angola e Moçambique são criadas divisões de serviços técnicos, às quais compete:\n\n1.º Estabelecer as especificações técnicas e organizar os cadernos de encargos para aquisição de todo o material de tracção, circulante, automóvel, portuário, eléctrico e de oficinas e sobresselentes, por forma a normalizar e unificar, quanto possível, os respectivos tipos, de acordo com as necessidades dos serviços e tendo em vista a economia do trabalho e do capital;\n\n2.º Elaborar projectos-tipos para o material referido no número anterior, incluindo os das instalações oficinais e centrais eléctricas, tendo em atenção as necessidades indicadas pelas direcções de exploração;\n\n3.º Elaborar instruções para ensino técnico do pessoal encarregado do material de tracção, circulante, automóvel, eléctrico e de manuseamento de mercadorias, carga e descarga, de maneira a aumentar os conhecimentos profissionais e o rendimento do trabalho;\n\n4.º Inspeccionar todo o material das várias instalações dos serviços, informando sobre a sua utilização, estado, emprego e o mais que for conveniente;\n\n5.º Elaborar instruções para a concessão de prémios ao pessoal que mais contribua para aumentar a eficiência e o rendimento da exploração."
+  },
+  "12238eee27c65bc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1970-02-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 45/70](https://diariodarepublica.pt/dr/detalhe/decreto/45-1970-227783), publicado em 1970-02-05."
+   ],
+   "markdown": "###### Artigo 10.º\n\nAos mapas II e III anexos ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, são introduzidas as seguintes alterações:\n\n1.º Acrescentar nos dois mapas:\n\na) Na rubrica engenheiros directores: ou inspectores provinciais;\n\nb) Na rubrica engenheiros-chefes: chefe da Divisão de Serviços Técnicos;\n\nc) Na rubrica engenheiros de 1.ª classe: ou de chefe de brigada;\n\nd) Na rubrica engenheiros de 2.ª classe: ou de chefes de brigada.\n\n2.º Acrescentar no mapa II:\n\nEngenheiros de 2.ª classe, quando exercendo funções de adjunto de chefes de serviços, adjunto de chefes de oficinas ou de brigada - 500$00.\n\n> Alterado pelo/a [Decreto n.º 45/70](https://diariodarepublica.pt/dr/detalhe/decreto/45-1970-227783), publicado em 1970-02-05."
+  },
+  "3798db0820df9e94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nNas direcções de serviços e de exploração haverá apenas um subdirector, considerando-se extinto o lugar criado pelo artigo 58.º do [Decreto n.º 43340](https://diariodarepublica.pt/dr/detalhe/decreto/43340-1960-514185), de 21 de Novembro de 1960.\n\nII\n\nDa Inspecção Provincial dos Serviços dos Portos, Caminhos de Ferro e Transportes"
+  },
+  "9dba08a4ef4bbf59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA Inspecção Provincial dos Serviços dos Portos, Caminhos de Ferro e Transportes, com sede na capital da província, compete inspeccionar periòdicamente, e pelo menos duas vezes por ano, todos os organismos da administração dos mesmos serviços.\n\n§ 1.º As inspecções destinam-se especialmente a conhecer do estado em que se encontram os serviços e a forma como são executados e observados os regulamentos, instruções e preceitos legais aplicáveis.\n\n§ 2.º De cada inspecção se fará circunstanciado relatório, a enviar pelo inspector provincial ao governador-geral.\n\n§ 3.º Sempre que dos relatórios das inspecções constem irregularidades, erros ou omissões na execução dos serviços, enviará o inspector provincial ao conselho de administração no mais curto espaço de tempo cópia da parte que interessar, acompanhada de propostas ou sugestões para remediar ou corrigir as deficiências encontradas.\n\n§ 4.º O conselho de administração deverá também no mais curto espaço de tempo pronunciar-se sobre as propostas ou sugestões da inspecção e tomar as providências que as circunstâncias requererem."
+  },
+  "ca8a717773266dbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO expediente da Inspecção Provincial será assegurado pela Repartição dos Serviços Centrais da Direcção dos Serviços pela forma acordada entre o inspector provincial e o director."
+  },
+  "f87a9a3379684c50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO provimento dos cargos de inspector provincial é feito em comissão por escolha do Ministro do Ultramar de entre engenheiros directores do quadro comum.\n\n§ único. Os inspectores provinciais têm direito aos vencimentos e gratificações constantes dos mapas II e III anexos ao [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, e a prémios de economia iguais aos abonados aos directores dos serviços."
+  },
+  "76508d27656a46f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA actividade dos inspectores provinciais é independente da exercida pelo conselho fiscal dos portos, caminhos de ferro e transportes e não prejudica ou modifica a competência que a lei a este confere."
+  },
+  "4087da9c05d47074": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nEm matéria das suas atribuições e competência os inspectores provinciais correspondem-se directamente com o governador-geral e com todas as entidades da província e podem consultar os arquivos e processos dos departamentos sujeitos à inspecção ou aqueles que com elas se relacionem e pertençam a outros da Direcção dos Serviços.\n\n§ único. Quando em serviço de inspecção, inquérito ou sindicância, podem os inspectores provinciais requisitar um funcionário para os coadjuvar, como secretário, de categoria não superior a primeiro-oficial.\n\nIII\n\nDisposições transitórias"
+  },
+  "d0e0e8e578c51974": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nSão extintas as actuais brigadas de estudos, construção ou fiscalização de portos e caminhos de ferro das províncias de Angola e Moçambique. As funções destas brigadas passam a ser exercidas pelas divisões de estudos e construção das respectivas direcções dos serviços.\n\n§ 1.º Nestas divisões serão constituídas brigadas para, sem interrupção, continuar os trabalhos cometidos às extintas.\n\n§ 2.º Além do pessoal de que as divisões dispõem, poderá ser admitido, em regime eventual e temporário, por contrato ou assalariamento, o indispensável aos estudos e trabalhos de construção.\n\n§ 3.º Quando se trate de estudos ou obras custeados por verbas da tabela da despesa extraordinária, incluídos em programas aprovados, os encargos das brigadas serão suportados pelas dotações globais consignadas a esses empreendimentos.\n\n§ 4.º Os vencimentos e salários do pessoal das brigadas e do admitido ao abrigo dos §§ 1.º e 2.º não podem ser superiores aos dos funcionários dos quadros de idêntica categoria. Sempre que este pessoal preste serviço fora da sede oficial tem direito ao subsídio de campo ou ajudas de custo.\n\n§ 5.º A contabilização, pagamentos e fornecimentos das brigadas ficam a cargo da Direcção dos Serviços dos Portos, Caminhos de Ferro e Transportes, nos termos e regras dos seus regulamentos privativos."
+  },
+  "f6c8c9481706732c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nConsideram-se denunciados e rescindidos no termo dos respectivos prazos todos os contratos do pessoal das brigadas extintas; se pertencer a outros quadros e nelas tiver servido em comissão ou por contrato, regressa imediatamente aos quadros de origem.\n\n§ único. Quando interessar ao Estado conservar ao serviço os engenheiros que não requeiram o seu ingresso no quadro comum, nos termos do artigo seguinte, para a conclusão de trabalhos em curso importantes, podem ser mantidos na situação actual pelo tempo estritamente necessário, mas nunca excedendo o prazo de um ano."
+  },
+  "af21d8be2e9555a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nSem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, os engenheiros contratados para as brigadas agora extintas podem ingressar no quadro referido no artigo 1.º nas seguintes condições e independentemente da idade:\n\na) Como engenheiro de 2.ª classe os engenheiros contratados que tenham menos de 5 anos de serviço nas brigadas e boas informações;\n\nb) Como engenheiros de 1.ª classe os que tenham mais de 5 anos de serviço nas brigadas, boas informações e desde que não haja engenheiros do quadro em condições legais de promoção. Neste último caso poderão ingressar na 2.ª classe;\n\nc) Como engenheiro-chefe os engenheiros que, sendo chefes de brigada, tenham mais de 15 anos de serviço no cargo e boas informações.\n\n§ 1.º O preceituado neste artigo aplica-se também aos engenheiros contratados das brigadas que tenham sido transferidos, por conveniência de serviço, para outras brigadas da mesma ou diferente província.\n\n§ 2.º Os interessados devem requerer o ingresso no quadro dentro de 30 dias, a contar da entrada em vigor deste diploma, sob pena de rescisão dos respectivos contratos, no seu termo, salvo o disposto no § único do artigo 8.º"
+  },
+  "6a476daa3da4cf63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO restante pessoal das extintas brigadas, sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, e independentemente da idade, pode ser admitido, com dispensa das habilitações literárias exigidas pela lei e, se assim o requerer, no prazo de 30 dias, aos primeiros concursos para os lugares dos quadros privativos, de categoria e natureza idênticas aos das funções que exerciam nas brigadas, desde que tenham boas informações e, pelo menos, um ano de serviço."
+  },
+  "bb73f08dccb06f95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO pessoal das extintas brigadas tem preferência absoluta no provimento dos cargos das brigadas que se constituírem nas divisões de estudos e construção."
+  },
+  "a3aacaa216838b64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs agentes especializados, técnicos e operários, contratados ou assalariados da Direcção dos Serviços com boas informações e mais de um ano de serviço à data da entrada em vigor deste diploma, são admitidos, independentemente da idade, ao primeiro concurso a realizar para cada cargo e providos de harmonia com as classificações obtidas."
+  },
+  "ddf6d0b423158ab9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nSem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, os engenheiros contratados para os serviços dos portos, caminhos de ferro e transportes de Angola e Moçambique ao abrigo do § 2.º do artigo 45.º e do artigo 46.º daquele diploma podem ingressar, independentemente da idade, na 1.ª ou 2.ª classes do quadro comum, conforme a categoria dos cargos que estejam exercendo, desde que possuam boas informações.\n\n§ único. O ingresso deve ser requerido no prazo de 30 dias, sendo rescindidos no seu termo os contratos dos interessados que o não requeiram."
+  },
+  "73743456a89e1583": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nPor portaria simplesmente anotada pelo Tribunal de Contas e sem mais formalidades transitam para os respectivos lugares de chefe da Divisão dos Serviços Técnicos, criados por este decreto, o actual adjunto da Direcção dos Serviços de Angola e o mais antigo dos engenheiros adjuntos da Direcção dos Serviços de Moçambique, contando-se, para este efeito, o tempo anterior à mudança de categoria estabelecido pelo [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959.\n\n§ único. O outro adjunto da Direcção dos Serviços de Moçambique transita, nas mesmas condições do corpo do artigo, para o lugar de subchefe da Divisão dos Serviços Técnicos.\n\nIV\n\nDisposições finais"
+  },
+  "701029da30910819": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nA concessão de licenças disciplinares aos funcionários e assalariados dos serviços dos portos, caminhos de ferro e transportes de Angola e Moçambique passa a regular-se pelas disposições aplicáveis do Estatuto do Funcionalismo Ultramarino."
+  },
+  "fd4fbc34f5362f32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nNo prazo de um ano, a contar da publicação deste diploma, deverão os directores dos Serviços dos Portos, Caminhos de Ferro e Transportes de Angola e Moçambique elaborar projectos de reorganização dos serviços para aprovação ministerial. Nesse trabalho ter-se-á em conta o disposto no § único do artigo 10.º do [Decreto n.º 43319](https://diariodarepublica.pt/dr/detalhe/decreto/43319-1960-514233), de 16 de Novembro de 1960."
+  },
+  "9e6d41a4bb4347a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nO provimento dos lugares criados por este decreto será feito de harmonia com as disponibilidades orçamentais."
+  },
+  "c8f7b8f910d687c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nFicam os governadores-gerais de Angola e Moçambique autorizados a abrir os créditos necessários para a execução deste diploma."
+  },
+  "9785c30ca771d80c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO lugar de adjunto administrativo, criado pelo artigo 1.º do Diploma Legislativo Ministerial, n.º 66, de 25 de Outubro de 1961, considera-se extinto com a verificação da sua vacatura."
+  },
+  "edabe1ce65796652": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nSão revogados os artigos 39.º da Portaria Ministerial n.º 29, de 12 de Dezembro de 1942, e 8.º e 9.º da [Portaria n.º 1822](https://diariodarepublica.pt/dr/detalhe/portaria/1822-1919-363480), de 3 de Dezembro de 1932, de Moçambique.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 9 de Março de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Adriano José Alves Moreira.\n\nPara ser publicado no Boletim Oficial de Angola e Moçambique. - A. Moreira.\n\nMAPA\n\nQuadro comum dos engenheiros dos serviços dos portos, caminhos de ferro e transportes do ultramar, a que se refere o artigo 1.º do Decreto n.º 44227, de 9 de Março de 1962\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/03/05300/02140216.pdf)\n\nMinistério do Ultramar, 9 de Março de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira."
+  }
+ }
+}

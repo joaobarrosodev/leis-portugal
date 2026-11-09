@@ -1,0 +1,84 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176482:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "34d69b7167beba57",
+    "fcc62f29e12f6b11",
+    "065f422c6fb90881"
+   ]
+  },
+  {
+   "date": "1979-09-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:276591:por",
+     "title": "Lei n.º 41/79",
+     "published": "1979-09-07",
+     "dre_path": "/dr/detalhe/lei/41-1979-276591"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "34d69b7167beba57",
+    "dd9285c4e3faff89",
+    "bc0ebd226adfe1b7"
+   ]
+  }
+ ],
+ "fragments": {
+  "34d69b7167beba57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Dezembro\n\nAutorização de empréstimo\n\nA Assembleia da República decreta, nos termos da alínea h) do artigo 164.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:"
+  },
+  "fcc62f29e12f6b11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º\n\nFica o Governo autorizado a emitir um empréstimo interno amortizável, até à importância total de 42 milhões de contos, à taxa de juro igual à taxa básica de desconto do Banco de Portugal."
+  },
+  "065f422c6fb90881": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º\n\nO empréstimo referido no artigo anterior será amortizado em dez anuidades, a partir de 1983, e o seu produto destina-se a financiar despesas orçamentais e a reforçar, no montante de 3,5 milhões de contos, a tesouraria do Estado.\n\nAprovada em 21 de Dezembro de 1977.\n\nO Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgada em 29 de Dezembro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares."
+  },
+  "dd9285c4e3faff89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1979-09-07",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 41/79](https://diariodarepublica.pt/dr/detalhe/lei/41-1979-276591), publicado em 1979-09-07."
+   ],
+   "markdown": "###### Artigo 1.º\n\nFica o Governo autorizado a emitir um empréstimo interno amortizável, até à importância total de 42 milhões de contos, à taxa de juro que não poderá exceder a taxa básica de desconto do Banco de Portugal.\n\n> Alterado pelo/a [Lei n.º 41/79](https://diariodarepublica.pt/dr/detalhe/lei/41-1979-276591), publicado em 1979-09-07."
+  },
+  "bc0ebd226adfe1b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO empréstimo referido no artigo anterior será amortizado em dez anuidades, a partir de 1983, e o seu produto destina-se a financiar despesas orçamentais e a reforçar, no montante de 3,5 milhões de contos, a tesouraria do Estado.\n\nAprovada em 21 de Dezembro de 1977.\n\nO Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgada em 29 de Dezembro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

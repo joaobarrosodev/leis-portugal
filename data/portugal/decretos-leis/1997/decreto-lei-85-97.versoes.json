@@ -1,0 +1,117 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:469589:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-04-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e94b503136fb200b",
+    "11037dc51b7a74fb",
+    "238af81de89a52b9",
+    "6bf6fd4985eaa01d",
+    "0abc23c5fd601813"
+   ]
+  },
+  {
+   "date": "2000-09-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:402750:por",
+     "title": "Decreto-Lei n.º 337/97",
+     "published": "1997-12-04",
+     "dre_path": "/dr/detalhe/decreto-lei/337-1997-402750"
+    },
+    {
+     "id": "pt:dre:580978:por",
+     "title": "Decreto-Lei n.º 201/2000",
+     "published": "2000-09-01",
+     "dre_path": "/dr/detalhe/decreto-lei/201-2000-580978"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "e94b503136fb200b",
+    "84e3ccf092a082ba",
+    "238af81de89a52b9",
+    "09209be8af11a1de",
+    "0abc23c5fd601813"
+   ]
+  }
+ ],
+ "fragments": {
+  "e94b503136fb200b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de Abril\n\nAs condições climáticas profundamente adversas com que a Região Autónoma dos Açores se debateu ao longo deste Inverno, especialmente no período compreendido entre os dias 9 de Novembro e 26 de Dezembro de 1996, provocaram danos num número significativo de infra-estruturas e equipamentos colectivos, os quais, na esmagadora maioria dos casos, se situam claramente para além do usualmente previsto, tendo dado azo a que o Governo, em tempo oportuno, através da [Resolução do Conselho de Ministros n.º 2/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-1997-301673), publicada no Diário da República, 1.ª série-B, de 10 de Janeiro de 1997, tenha declarado situação de calamidade pública na Região durante um período de dois anos.\n\nAs deteriorações afectaram principalmente estradas, onde se verifica uma degradação generalizada dos pavimentos e a destruição total ou parcial de pontes, aquedutos e taludes, portos, com destruição das protecções de tetrápodes, dos pavimentos dos cais e dos respectivos equipamentos e estruturas, e ainda com fracturas evidentes nos muros-cais, bem como alguns aeroportos, onde se verificaram também degradações nos respectivos pavimentos. Existe, de igual modo, um número elevado de famílias, sobretudo de baixos recursos económicos, que, devido à intempérie, viu as suas habitações total ou parcialmente destruídas. Por outro lado, observou-se uma degradação geral e a destruição parcial de caminhos florestais e de acesso a explorações agrícolas em todas as ilhas do arquipélago.\n\nEm face do exposto, e após rigoroso levantamento feito pelo Governo Regional dos Açores, torna-se imprescindível a elaboração de um regime excepcional que, no mais curto espaço de tempo, possibilite a realização das obras necessárias, por um lado, à reposição da operacionalidade de estruturas e equipamentos tão importantes face às características específicas da Região em causa e, por outro, ao realojamento das famílias actualmente sem abrigo ou a residir em condições precárias e arriscadas. Um tal regime permitirá igualmente eliminar as situações de risco ainda existentes, prevenindo futuros danos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "11037dc51b7a74fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente diploma cria um regime excepcional para a execução, em regime de empreitada:\n\na) Das obras necessárias à reparação dos portos, aeroportos, rede viária e caminhos florestais e de acesso a explorações agrícolas, sob jurisdição do Governo Regional dos Açores, especialmente afectados pelas condições climáticas desfavoráveis do presente Inverno;\n\nb) Das obras necessárias ao realojamento das pessoas cujas habitações ficaram total ou parcialmente destruídas por esses temporais ou de edifícios e construções sob jurisdição do Governo Regional dos Açores."
+  },
+  "238af81de89a52b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA identificação das empreitadas a que se aplica o presente regime é definida através de resoluções do Governo Regional dos Açores."
+  },
+  "6bf6fd4985eaa01d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nFica o Governo Regional dos Açores excepcionalmente autorizado, até ao termo do prazo fixado no n.º 6 da [Resolução do Conselho de Ministros n.º 2/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-1997-301673), a proceder ao ajuste directo de trabalhos cuja estimativa de custo global, não considerando o IVA, seja inferior a:\n\na) 30000000$00, quando se trate de obras destinadas à construção ou reparação de habitações, com consulta obrigatória a, pelo menos, cinco entidades;\n\nb) 100000000$00, quando se trate de obras destinadas à construção e reparação de edifícios e equipamentos colectivos, bem como em caminhos agrícolas, com consulta obrigatória a, pelo menos, cinco entidades;\n\nc) 350000000$00, quando se trate de obras respeitantes a estradas, aeroportos e portos, com consulta obrigatória a, pelo menos, cinco entidades."
+  },
+  "0abc23c5fd601813": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 30 de Janeiro de 1997. - António Manuel de Carvalho Ferreira Vitorino - Mário Fernando de Campos Pinto - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho.\n\nPromulgado em 4 de Abril de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 7 de Abril de 1997.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino."
+  },
+  "84e3ccf092a082ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2000-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 337/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1997-402750), publicado em 1997-12-04.",
+    "Alterado pelo/a [Decreto-Lei n.º 201/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2000-580978), publicado em 2000-09-01."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - O presente diploma cria um regime excepcional para a execução, em regime de empreitada:\n\na) Das obras necessárias à reparação dos portos, aeroportos, rede viária, caminhos florestais e de acesso a explorações agrícolas, ribeiras e linhas de água, sob jurisdição do Governo Regional dos Açores, especialmente afectados pelas condições climáticas desfavoráveis;\n\nb) Das obras necessárias à reparação das infra-estruturas e dos equipamentos degradados devido à sua sobreutilização por força do processo de reconstrução e reposição da normalidade das condições de vida;\n\nc) Das obras necessárias ao realojamento das pessoas cujas habitações ficaram total ou parcialmente destruídas por esses temporais ou à reparação de edifícios e construções sob jurisdição do Governo Regional dos Açores.\n\n2 - É igualmente criado um regime excepcional para aquisição de bens e prestações de serviços necessários a complementar as obras referidas no n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 337/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1997-402750), publicado em 1997-12-04.\n\n> Alterado pelo/a [Decreto-Lei n.º 201/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2000-580978), publicado em 2000-09-01."
+  },
+  "09209be8af11a1de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2000-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 337/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1997-402750), publicado em 1997-12-04.",
+    "Alterado pelo/a [Decreto-Lei n.º 201/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2000-580978), publicado em 2000-09-01."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Fica o Governo Regional dos Açores excepcionalmente autorizado, pelo período de um ano a contar da entrada em vigor do presente diploma, a proceder a ajuste directo, bem como à dispensa de contrato escrito, em trabalhos cuja estimativa de custo global, não considerando o IVA, seja inferior a:\n\na) 50000000$00, quando se trate de construção, reabilitação ou reparação de habitações, com consulta obrigatória a, pelo menos, cinco entidades;\n\nb) 150000000$00, quando se trate de construção e reparação de edifícios, equipamentos colectivos e caminhos agrícolas, com consulta obrigatória a, pelo menos, cinco entidades;\n\nc) 450000000$00, quando se trate de obras respeitantes a estradas, portos, aeroportos e intervenções no âmbito dos recursos hídricos, com consulta obrigatória a, pelo menos, cinco entidades.\n\n2 - Os valores referidos em cada uma das alíneas do número anterior são também os aplicáveis às aquisições de bens e às prestações de serviços necessárias a complementar as respectivas obras.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 337/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1997-402750), publicado em 1997-12-04.\n\n> Alterado pelo/a [Decreto-Lei n.º 201/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2000-580978), publicado em 2000-09-01."
+  }
+ }
+}

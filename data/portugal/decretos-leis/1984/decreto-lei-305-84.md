@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-10-21'
+version_history:
+  file: decreto-lei-305-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-09-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-10-21'
+    amending: pt:dre:178328:por
+    amending_title: Decreto-Lei n.º 407/85
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:59:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 407/85. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1984/decreto-lei-305-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,11 +136,21 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º O Estado, através do Ministério das Finanças e do Plano, assume a obrigação de pagamento ao Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas das bonificações complementares às concedidas no âmbito do sistema de financiamento à agricultura e pescas, de molde a garantir que a taxa de juro líquida dos financiamentos concedidos aos mutuários e objecto de refinanciamento ao abrigo do empréstimo n.º 1603 PO do Banco Internacional para a Reconstrução e Desenvolvimento (BIRD) seja de 16% ao ano, constante ao longo da vida dos créditos refinanciados.
+###### Artigo 1.º
 
-Art. 2.º Para execução do disposto no presente decreto-lei, a Direcção-Geral do Tesouro fica autorizada a fazer inscrever nos Orçamentes do Estado as verbas necessárias para o efeito.
+1 - O Estado, através do Ministério das Finanças e do Plano, assume a obrigação de pagamento das bonificações complementares às concedidas no âmbito do sistema de financiamento à agricultura e pescas, de molde a garantir que a taxa de juro líquida dos financiamentos concedidos aos mutuários e objecto de refinanciamento ao abrigo do empréstimo n.º 1603 PO do Banco Internacional para a Reconstrução e Desenvolvimento (BIRD) seja de 16% ao ano, constante ao longo da vida dos créditos refinanciados.
 
-Art. 3.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+2 - Para efeitos do número anterior, o Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas enviará à Direcção-Geral do Tesouro uma relação de todas as operações integradas na presente linha de crédito, com base na qual a Direcção-Geral do Tesouro entregará às instituições de crédito mutuantes as bonificações que são devidas pelo Estado, nos termos do presente diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 407/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1985-178328), publicado em 1985-10-16.
+
+###### Artigo 2.º
+
+Para execução do disposto no presente decreto-lei, a Direcção-Geral do Tesouro fica autorizada a fazer inscrever nos Orçamentes do Estado as verbas necessárias para o efeito.
+
+###### Artigo 3.º
+
+O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes.
 

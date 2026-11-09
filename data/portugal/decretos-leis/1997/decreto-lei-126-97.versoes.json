@@ -1,0 +1,150 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:400397:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-05-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "214365fc0e49c3f4",
+    "cbde7472cb672972",
+    "85c9f8cc421af04b",
+    "c28fa20bd7d80fcb",
+    "7118990ade2966ce",
+    "0a9b83cd70cf54d0"
+   ]
+  },
+  {
+   "date": "1998-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:522843:por",
+     "title": "Decreto-Lei n.º 131/98",
+     "published": "1998-05-13",
+     "dre_path": "/dr/detalhe/decreto-lei/131-1998-522843"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "214365fc0e49c3f4",
+    "2e7d8e5b004942cd",
+    "3c2595dfb8083f09",
+    "44602fad73e0f85b",
+    "bef43a3370c7f765",
+    "fe134a0ff7b4eadf"
+   ]
+  }
+ ],
+ "fragments": {
+  "214365fc0e49c3f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Maio\n\nO [Decreto-Lei n.º 129/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1996-405312), de 12 de Agosto, suspendeu, até 31 de Dezembro de 1996, a vigência do [Decreto-Lei n.º 232/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1995-562271), de 12 de Setembro, diploma que pretendeu regular o processo de devolução do Hospital do Conde de Ferreira à Santa Casa da Misericórdia.\n\nCircunstâncias de vária ordem, designadamente a complexidade das situações a que importa dar solução compatível com o interesse público, aconselham a que se protele a devolução da gestão daquele Hospital, instituindo um período de transição, até que se mostrem reunidas as condições indispensáveis para a assunção, por parte da Santa Casa da Misericórdia do Porto, da responsabilidade pela prestação de cuidados de saúde na área da psiquiatria e da saúde mental que lhe incumbirá assegurar, nos termos a definir pelo necessário protocolo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "cbde7472cb672972": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ prorrogado, pelo prazo máximo de um ano a contar da data da entrada em vigor do presente diploma, o período de suspensão da vigência do [Decreto-Lei n.º 232/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1995-562271), de 12 de Setembro, determinado pelo artigo 1.º do [Decreto-Lei n.º 129/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1996-405312), de 12 de Agosto."
+  },
+  "85c9f8cc421af04b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A aplicação do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 232/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1995-562271), de 12 de Setembro, bem como as matérias relativas à transferência da gestão do Hospital do Conde de Ferreira serão objecto de protocolo a celebrar entre o Ministério da Saúde e a mesa da Santa Casa da Misericórdia do Porto, o qual estabelecerá as condições do processo de transição.\n\n2 - O processo de transição a que se refere o número anterior deve estar concluído até 31 de Dezembro de 1997."
+  },
+  "c28fa20bd7d80fcb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - É garantida a transição do pessoal a que se refere o n.º 2 do artigo 3.º do [Decreto-Lei n.º 232/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1995-562271), de 12 de Setembro, para os estabelecimentos hospitalares e serviços de saúde do âmbito da Sub-Região de Saúde do Porto, em função das necessidades dos serviços e da opção dos funcionários e agentes.\n\n2 - A transição a que se refere o número anterior faz-se nos termos da lei, com manutenção da situação jurídico-funcional dos funcionário ou agentes, sendo os quadros dos serviços que não disponham de vagas automaticamente aumentados dos lugares necessários à integração de funcionários, os quais serão a extinguir à medida que vagarem."
+  },
+  "7118990ade2966ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nMantêm-se válidos os concursos abertos para lugares do quadro de pessoal do Hospital do Conde de Ferreira constante da [Portaria n.º 637/80](https://diariodarepublica.pt/dr/detalhe/portaria/637-1980-460850), de 16 de Setembro, com as alterações subsequentes, que se encontrem pendentes à data da entrada em vigor do presente diploma."
+  },
+  "0a9b83cd70cf54d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente diploma produz efeitos desde 1 de Janeiro de 1997.\n\nVisto e aprovado em Conselho de Ministros de 20 de Março de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Maria de Belém Roseira Martins Coelho Henriques de Pina - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 9 de Maio de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 13 de Maio de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "2e7d8e5b004942cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1998-05-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13."
+  },
+  "3c2595dfb8083f09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1998-05-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13."
+  },
+  "44602fad73e0f85b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1998-05-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - É garantida a transição do pessoal a que se refere o n.º 2 do artigo 3.º do [Decreto-Lei n.º 232/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1995-562271), de 12 de Setembro, para os estabelecimentos hospitalares e serviços de saúde do âmbito da Sub-Região de Saúde do Porto, em função das necessidades dos serviços e da opção dos funcionários e agentes.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13."
+  },
+  "bef43a3370c7f765": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1998-05-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13."
+  },
+  "fe134a0ff7b4eadf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1998-05-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13.\n\nVisto e aprovado em Conselho de Ministros de 20 de Março de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Maria de Belém Roseira Martins Coelho Henriques de Pina - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 9 de Maio de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 13 de Maio de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

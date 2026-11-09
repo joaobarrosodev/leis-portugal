@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:386784:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-02-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8eb3b3bf1c3a71a6",
+    "0bf8bffeff13c638",
+    "db3d8ab9d6073184",
+    "26f8db221208bb01",
+    "ff75788f65701d17",
+    "61dae8887aa9310f",
+    "d7c9555e9cb5be61",
+    "b49ec6d2570c482b",
+    "873e6427b6c0538e",
+    "86c20aedfcae9c7e",
+    "7b8149dc6ab51412",
+    "52397d352e11ecba",
+    "bac788548f3de81c"
+   ]
+  },
+  {
+   "date": "2002-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:300610:por",
+     "title": "Decreto-Lei n.º 78/2002",
+     "published": "2002-03-26",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2002-300610"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "8eb3b3bf1c3a71a6",
+    "0bf8bffeff13c638",
+    "db3d8ab9d6073184",
+    "353a13efe0a2b3b7",
+    "7d82f4541fc7b72a",
+    "61dae8887aa9310f",
+    "d7c9555e9cb5be61",
+    "b49ec6d2570c482b",
+    "546c8aa13deb7e73",
+    "ca4efc8dc6455127",
+    "7b8149dc6ab51412",
+    "52397d352e11ecba",
+    "bac788548f3de81c"
+   ]
+  }
+ ],
+ "fragments": {
+  "8eb3b3bf1c3a71a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Fevereiro\n\nO Ministério da Reforma do Estado e da Administração Pública, cuja Lei Orgânica foi aprovada pelo [Decreto-Lei n.º 269/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2000-621721), de 4 de Novembro, integra, no quadro dos respectivos órgãos e serviços, o Conselho Superior da Reforma do Estado e da Administração Pública como órgão superior de consulta do Governo, ao qual é cometida a missão de reflectir e debater as grandes linhas de orientação no tocante à reforma do Estado e à modernização da Administração e da função pública.\n\nO texto preambular daquela Lei Orgânica faz apelo à necessidade de conferir ao Conselho um cariz representativo e participado pela sociedade civil. E isto deve-se ao facto de os problemas da Administração Pública respeitarem cada vez mais a um leque alargado de actores que extravasam em muito o âmbito restrito dos serviços e organismos públicos.\n\nO presente decreto-lei visa, para além de acautelar essa preocupação no contexto da composição do Conselho, estabelecer a sua natureza e atribuições e o respectivo sistema de funcionamento. Pretende-se, assim, criar um fórum a um tempo ágil e flexível de debate de questões tão relevantes quanto as da organização territorial do Estado, do sistema de estruturação, funcionamento e gestão do serviço público, da política de emprego público, gestão e qualificação dos seus recursos humanos e da operacionalização da sociedade de informação na Administração Pública.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nAo abrigo do disposto do n.º 1 do artigo 17.º do [Decreto-Lei n.º 269/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-2000-621721), de 4 de Novembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "0bf8bffeff13c638": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e atribuições\n\nO Conselho Superior da Reforma do Estado e da Administração Pública, adiante designado por Conselho, é um órgão superior de consulta do Governo que funciona na directa dependência do Ministro da Reforma do Estado e da Administração Pública, tendo por missão reflectir e debater as grandes linhas de orientação da reforma do Estado e da modernização da Administração e da função pública, designadamente, nos domínios da:\n\na) Organização territorial da Administração do Estado;\n\nb) Organização, funcionamento e gestão da Administração Pública;\n\nc) Política de emprego público, gestão e qualificação dos recursos humanos;\n\nd) Sociedade da informação na Administração Pública."
+  },
+  "db3d8ab9d6073184": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\nEm ordem à concretização das suas atribuições, compete, em especial, ao Conselho:\n\na) Pronunciar-se sob a forma de pareceres, propostas ou recomendações sobre assuntos relativos às atribuições do Conselho, a solicitação do Governo ou por sua iniciativa;\n\nb) Proceder ou determinar a realização de investigações e estudos sobre assuntos relativos às atribuições do Conselho."
+  },
+  "26f8db221208bb01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho é presidido pelo Ministro da Reforma do Estado e da Administração Pública e tem a seguinte composição:\n\na) Secretário de Estado da Administração Pública e da Modernização Administrativa;\n\nb) Secretário de Estado do Orçamento;\n\nc) Secretário de Estado da Administração Local;\n\nd) Secretário-geral do Conselho;\n\ne) Presidente do Instituto Nacional de Administração;\n\nf) Presidente do Centro de Estudos de Formação Autárquica;\n\ng) Presidente do Instituto para a Inovação na Administração do Estado;\n\nh) Director-geral da Administração Pública;\n\ni) Inspector-geral da Administração Pública;\n\nj) Director-geral do Orçamento;\n\nk) Director-geral das Autarquias Locais;\n\nl) Director-geral do Departamento de Recursos Humanos da Saúde;\n\nm) Director-geral da Administração Educativa;\n\nn) Um representante das universidades, a designar pelo Conselho de Reitores;\n\no) Um representante de cada uma das Regiões Autónomas, designado pelo respectivo Governo Regional;\n\np) Um representante da Associação Nacional de Municípios Portugueses;\n\nq) Um representante da Associação Nacional de Freguesias;\n\nr) Seis representantes das organizações sindicais representativas dos trabalhadores da Administração Pública;\n\ns) Até sete individualidades designadas pelo Ministro da Reforma do Estado e da Administração Pública;\n\nt) Secretário-geral-adjunto do Conselho, sem direito a voto.\n\n2 - Podem ser convidadas a participar nos trabalhos do Conselho, em função das matérias a abordar, individualidades não referidas no número precedente.\n\n3 - O presidente faz-se substituir, nas suas faltas e impedimentos, pelo Secretário de Estado da Administração Pública e da Modernização Administrativa."
+  },
+  "ff75788f65701d17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competências do presidente e do secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências do presidente e do secretário-geral\n\n1 - Compete, designadamente, ao presidente:\n\na) Convocar e dirigir as reuniões plenárias;\n\nb) Fixar a respectiva ordem de trabalhos;\n\nc) Informar os membros do Conselho sobre quaisquer assuntos de interesse relevante para o mesmo e do seguimento dado às suas deliberações e recomendações.\n\n2 - O secretário-geral possui a competência atribuída aos directores-gerais pelo mapa II anexo à [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho, incumbindo-lhe ainda:\n\na) Assessorar o membro do Governo competente em matéria de reforma do Estado e da Administração Pública e assegurar o normal funcionamento do Conselho, submetendo a despacho os assuntos que dele careçam;\n\nb) Representar o Conselho perante quaisquer entidades públicas ou privadas e outorgar os contratos em que o mesmo seja parte;\n\nc) Orientar os meios técnicos e humanos a que alude o artigo 9.º\n\n3 - Incumbe ao secretário-geral-adjunto:\n\na) Coadjuvar o presidente e o secretário-geral no exercício das suas funções;\n\nb) Preparar as reuniões do plenário;\n\nc) Assegurar a gestão corrente dos assuntos referentes ao Conselho.\n\n4 - O secretário-geral pode delegar no secretário-geral-adjunto o exercício de poderes ou a prática de actos da sua competência."
+  },
+  "61dae8887aa9310f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funcionamento\n\n1 - O Conselho funciona em plenário ou em comissões restritas de acordo com o âmbito, a natureza e a especificidade dos assuntos a tratar.\n\n2 - O plenário reúne em sessões ordinárias e extraordinárias, realizando-se as primeiras trimestralmente e as segundas por iniciativa do presidente ou a requerimento de, pelo menos, um terço dos membros do Conselho.\n\n3 - As comissões restritas terão a composição, o mandato e os prazos que forem fixados pelo plenário e visam preparar os estudos a submeter à sua apreciação.\n\n4 - As comissões restritas serão presididas pelo membro para o efeito designado pelo plenário, sendo-lhes aplicável o disposto no n.º 2 do artigo 3.º"
+  },
+  "d7c9555e9cb5be61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamento\n\nAs normas de funcionamento interno do Conselho constam de regulamento próprio a aprovar pelo plenário."
+  },
+  "b49ec6d2570c482b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Colaboração com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Colaboração com outras entidades\n\n1 - O Conselho pode solicitar a quaisquer entidades públicas ou privadas os elementos indispensáveis à realização das suas atribuições.\n\n2 - O Conselho manterá contacto com organizações e serviços congéneres de outros países bem como com instituições e organismos internacionais que desenvolvam actividade em áreas correspondentes às suas atribuições."
+  },
+  "873e6427b6c0538e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Quadro de pessoal\n\n1 - O Conselho dispõe do quadro de pessoal dirigente constante do mapa anexo ao presente diploma.\n\n2 - O secretário-geral e o secretário-geral-adjunto são equiparados, para todos os efeitos legais, designadamente remuneração, direitos e regalias, a director-geral e subdirector-geral, respectivamente, sendo recrutados nos termos previstos na [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho."
+  },
+  "86c20aedfcae9c7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Meios técnicos e humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Meios técnicos e humanos\n\n1 - O Conselho disporá dos meios técnicos e humanos indispensáveis à consecução das suas atribuições, sendo o apoio prestado pela Secretaria-Geral do Ministério, sem prejuízo do recurso aos instrumentos de mobilidade previstos na legislação geral aplicável sobre a matéria.\n\n2 - Às requisições e destacamentos de pessoal para o Conselho é aplicável o disposto no n.º 5 do artigo 27.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro."
+  },
+  "7b8149dc6ab51412": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Legislação revogada\n\nCom a entrada em vigor do presente diploma é revogado o [Decreto-Lei n.º 187/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1996-212590), de 2 de Outubro, com a redacção dada pelo [Decreto-Lei n.º 406/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1999-667143), de 15 de Outubro."
+  },
+  "52397d352e11ecba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 18 de Janeiro de 2001. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Augusto Ernesto Santos Silva - Maria Manuela de Brito Arcanjo Marques da Costa - José Sócrates Carvalho Pinto de Sousa - José Mariano Rebelo Pires Gago - Alberto de Sousa Martins.\n\nPromulgado em 8 de Fevereiro de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 15 de Fevereiro de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "bac788548f3de81c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Mapa de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Mapa de pessoal\n\n[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2001/02/045a00/09890991.pdf)"
+  },
+  "353a13efe0a2b3b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": "2002-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26."
+   ],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - O Conselho é presidido pelo Ministro da Reforma do Estado e da Administração Pública e tem a seguinte composição:\n\na) Secretário de Estado da Administração Pública e da Modernização Administrativa;\n\nb) Secretário de Estado do Orçamento;\n\nc) Secretário de Estado da Administração Local;\n\nd) Presidente do Instituto Nacional de Administração;\n\ne) Presidente do Centro de Estudos e Formação Autárquica;\n\nf) Presidente do Instituto para a Inovação na Administração do Estado;\n\ng) Director-geral da Administração Pública;\n\nh) Inspector-geral da Administração Pública;\n\ni) Secretário-geral do Ministério da Reforma do Estado e da Administração Pública;\n\nj) Director-geral do Orçamento;\n\nk) Director-geral das Autarquias Locais;\n\nl) Director-geral do Departamento dos Recursos Humanos da Saúde;\n\nm) Director-geral da Administração Educativa;\n\nn) Um representante das universidades, a designar pelo Conselho de Reitores;\n\no) Um representante de cada uma das Regiões Autónomas, designado pelo respectivo Governo Regional;\n\np) Um representante da Associação Nacional de Municípios Portugueses;\n\nq) Um representante da Associação Nacional de Freguesias;\n\nr) Seis representantes das organizações sindicais representativas dos trabalhadores da Administração Pública;\n\ns) Até sete individualidades designadas pelo Ministro da Reforma do Estado e da Administração Pública.\n\n2 - Podem ser convidadas a participar nos trabalhos do Conselho, em função das matérias a abordar, individualidades não referidas no número precedente.\n\n3 - O presidente faz-se substituir, nas suas faltas e impedimentos, pelo Secretário de Estado da Administração Pública e da Modernização Administrativa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26."
+  },
+  "7d82f4541fc7b72a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competências do presidente e do secretário-geral",
+   "in_force_from": "2002-03-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26."
+   ],
+   "markdown": "###### Artigo 4.º — Competências do presidente e do secretário-geral\n\n1 - Compete, designadamente, ao presidente:\n\na) Convocar e dirigir as reuniões plenárias;\n\nb) Fixar a respectiva ordem de trabalhos;\n\nc) Informar os membros do Conselho sobre quaisquer assuntos de interesse relevante para o mesmo e do seguimento dado às suas deliberações e recomendações.\n\n2 - Ao secretário-geral do Ministério da Reforma do Estado e da Administração Pública compete assegurar o normal funcionamento do Conselho, submetendo a despacho os assuntos que dele careçam.\n\n> Alterado pelo/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26."
+  },
+  "546c8aa13deb7e73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Quadro de pessoal",
+   "in_force_from": "2002-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26."
+   ],
+   "markdown": "###### Artigo 8.º — Quadro de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26."
+  },
+  "ca4efc8dc6455127": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Meios técnicos e humanos",
+   "in_force_from": "2002-03-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26."
+   ],
+   "markdown": "###### Artigo 9.º — Meios técnicos e humanos\n\n(Revogado.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26."
+  }
+ }
+}

@@ -1,0 +1,326 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:274265:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1988-12-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "02723d430ff59e77",
+    "31afd2e31ed2d406",
+    "c6edf5fd6a6fc609",
+    "32a06e8b1ce4f4be",
+    "7225ed73dd79fcf1",
+    "eb7c4be8727c974d",
+    "65a705058dcad59f",
+    "509a269b37d513fb",
+    "63d1c694ff57f7ca",
+    "c10fca0ae8e5c862",
+    "c16b94f6044b4344",
+    "9f92038b40e7aaf6",
+    "8cd4cac15ce4a15d",
+    "cd9ac46f17274f81",
+    "3fe209bbe0d1bfc5",
+    "f1baf54dfaec7a4d",
+    "04c7e78aeef989c1",
+    "567d1e01172fea83",
+    "436a7fc00612b63d",
+    "620b945f0e24ea24",
+    "bbdd7ca486574205",
+    "8ddc62e03fbe2230",
+    "a6457d88aaa71bed",
+    "580872163dd1a237",
+    "961fcaf7bad62f1a",
+    "641a236ffb9df609",
+    "dfef968d08a73303",
+    "8c1defa4e17204fe"
+   ]
+  },
+  {
+   "date": "1989-07-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:619960:por",
+     "title": "Decreto-Lei n.º 229/89",
+     "published": "1989-07-20",
+     "dre_path": "/dr/detalhe/decreto-lei/229-1989-619960"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "02723d430ff59e77",
+    "31afd2e31ed2d406",
+    "c6edf5fd6a6fc609",
+    "32a06e8b1ce4f4be",
+    "7225ed73dd79fcf1",
+    "eb7c4be8727c974d",
+    "65a705058dcad59f",
+    "509a269b37d513fb",
+    "63d1c694ff57f7ca",
+    "c10fca0ae8e5c862",
+    "c16b94f6044b4344",
+    "9f92038b40e7aaf6",
+    "8cd4cac15ce4a15d",
+    "0f0a9ac70ae34fb1",
+    "3fe209bbe0d1bfc5",
+    "f1baf54dfaec7a4d",
+    "04c7e78aeef989c1",
+    "567d1e01172fea83",
+    "436a7fc00612b63d",
+    "620b945f0e24ea24",
+    "bbdd7ca486574205",
+    "8ddc62e03fbe2230",
+    "a6457d88aaa71bed",
+    "580872163dd1a237",
+    "961fcaf7bad62f1a",
+    "641a236ffb9df609",
+    "dfef968d08a73303",
+    "8c1defa4e17204fe"
+   ]
+  }
+ ],
+ "fragments": {
+  "02723d430ff59e77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Dezembro\n\nOs Regulamentos (CEE) n.os [3252/88](http://data.europa.eu/eli/reg/1988/3252/oj?locale=pt) e [3608/88](http://data.europa.eu/eli/reg/1988/3608/oj?locale=pt) da Comissão, de 21 de Outubro e 18 de Novembro, respectivamente, vêm introduzir significativas alterações no regime de importações de cereal em grão por Portugal, consagrando, na sequência de acordos comunitários, a renúncia de Portugal ao regime de importação previsto no n.º 2 do artigo 320.º do Acto de Adesão e a possibilidade de recurso a um regime especial, mais favorável que o regime geral previsto nos artigos 270.º e 277.º para os produtos abrangidos pelo regime de transição por etapas, onde se incluem os cereais.\n\nConstituído um passo importante no caminho da liberalização com vista ao futuro mercado único europeu, a publicação daqueles regulamentos (CEE) obriga a que se proceda às necessárias adaptações da legislação interna em vigor no domínio dos cereais, no tocante à supressão do regime de importação de cereal em grão em regime de exclusivo estatal, previsto no Decreto-Lei n.º 367/86, de 3 de Novembro, ao regime de importação de cereal através de quota liberalizada, estabelecido nos Decretos-Leis n.os 61/86 e 65/86, ambos de 25 de Março, e ao processo de cálculo dos preços limiares e direitos niveladores, previstos nos Decretos-Leis n.os 61/86, de 25 de Março, e 340/86, de 7 de Outubro.\n\nPara efeitos de maior clarificação e simplicidade de consulta, optou-se por concentrar num único decreto-lei o regime geral de importações de cereal em grão e de todos os produtos da OCM cereais, que até à data constava dos vários diplomas acima referidos, e fundamentalmente do Decreto-Lei n.º 61/86, de 25 de Março.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "31afd2e31ed2d406": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Regime geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Regime geral"
+  },
+  "c6edf5fd6a6fc609": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - A organização do mercado a que se refere o presente diploma aplica-se aos produtos incluídos nos sectores dos cereais e do arroz, produtos transformados à base de cereais e de arroz e outros produtos pertencentes às organizações comuns do mercado dos cereais e do arroz abrangidos pelos Regulamentos (CEE) n.os [2727/75](http://data.europa.eu/eli/reg/1975/2727/oj?locale=pt) do Conselho, de 29 de Outubro de 1975, e [1418/76](http://data.europa.eu/eli/reg/1976/1418/oj?locale=pt) do Conselho, de 21 de Junho de 1976.\n\n2 - O regime de importação de produtos transformados à base de cereais, de arroz, de farinhas de trigo, centeio e sêmolas e de alimentos compostos para animais será objecto de legislação especial."
+  },
+  "32a06e8b1ce4f4be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Direito aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direito aplicável\n\nO mercado dos produtos abrangidos por este diploma rege-se pelo Acto de Adesão, pela legislação comunitária directamente aplicável e pelo presente diploma e legislação complementar."
+  },
+  "7225ed73dd79fcf1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nA organização do mercado abrangida pelo presente diploma tem com objectivos:\n\na) Proporcionar a sua transição equilibrada no âmbito do processo de integração;\n\nb) Cumprir os objectivos decorrentes do Acto de Adesão."
+  },
+  "eb7c4be8727c974d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Meios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Meios\n\nPara a prossecução dos objectivos referidos no artigo anterior são instituídos os seguintes mecanismos:\n\na) Regime de preços;\n\nb) Regime de intervenção;\n\nc) Regime de trocas comerciais."
+  },
+  "65a705058dcad59f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos\n\nNo funcionamento do mercado de cereais intervêm as seguintes entidades:\n\na) Comissão do Mercado de Cereais;\n\nb) Conselho Consultivo do Mercado de Cereais;\n\nc) Organismo de intervenção (INGA - Instituto Nacional de Intervenção e Garantia Agrícola)."
+  },
+  "509a269b37d513fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Regime de preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime de preços\n\n1 - A campanha de comercialização do trigo, centeio, triticale, aveia, cevada, milho e sorgo inicia-se em 1 de Julho e termina em 30 de Junho do ano seguinte; a do arroz inicia-se em 1 de Outubro e termina em 30 de Setembro do ano seguinte.\n\n2 - Para cada campanha de comercialização de cereais são fixados, por portaria conjunta dos Ministros das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo, e referidos a uma qualidade tipo, os preços de referência à produção, os preços de orientação de mercado, os preços de intervenção e os preços limiares que podem ser objecto de majorações mensais escalonadas durante a campanha de comercialização."
+  },
+  "63d1c694ff57f7ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Definições\n\n1 - Para efeitos do disposto no presente diploma, entende-se por:\n\na) Preços de referência à produção - preço em torno do qual se deverá situar o nível dos preços de venda pela lavoura;\n\nb) Preços de orientação do mercado - preço em torno do qual se deverá processar o aprovisionamento pela indústria;\n\nc) Preços de intervenção - preço a praticar pelo organismo de intervenção;\n\nd) Preços limiares - os preços fixados para efeitos de cálculo dos direitos niveladores, de modo a garantir a protecção necessária ao mercado interno em matéria de cereal em grão e aos restantes produtos da organização comum do mercado dos cereais.\n\n2 - Os preços limiares dos cereais serão fixados com base no preço de intervenção, da seguinte forma:\n\na) Por adição àquele preço de um diferencial correspondente a um elemento de mercado, considerado representativo ao longo da campanha, que não ultrapasse os valores fixados na Comunidade em cada campanha;\n\nb) Por adição àquele preço de um diferencial correspondente ao encargo de transporte entre a zona mais excedentária e a zona mais deficitária, que no máximo não ultrapasse os valores utilizados na Comunidade em cada campanha para o mesmo efeito;\n\nc) Por dedução daquele preço dos encargos inerentes ao transporte da zona de importação para a zona mais deficitária, dos encargos correspondentes à margem do importador e dos encargos da descarga, valores estes que não poderão ultrapassar os valores utilizados pela Comunidade em cada campanha para o mesmo fim.\n\n3 - Os preços limiares a considerar para efeitos da construção dos direitos niveladores a aplicar à importação de cereal em grão serão fixados de molde a atingir o preço de orientação de mercado fixado. Este preço poderá ser variável por produto ou por período ao longo da campanha, em função da exigência de escoamento da produção nacional."
+  },
+  "c10fca0ae8e5c862": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Regime de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime de intervenção\n\n1 - O organismo de intervenção fica obrigado a comprar directamente ou através de outras entidades, ao preço de intervenção, nas condições a estabelecer por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, o cereal de produção nacional que lhe for oferecido.\n\n2 - O organismo de intervenção venderá directamente ou através de outras entidades o cereal proveniente da sua acção de intervenção, nas condições a estabelecer por despacho conjunto dos Ministros das Finanças, da Agricultura, Pescas e Alimentação e do Comércio e Turismo."
+  },
+  "c16b94f6044b4344": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Regime de importação de cereal em grão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regime de importação de cereal em grão\n\n1 - A importação de cereais em grão será efectuada livremente, mediante o pagamento dos direitos niveladores em vigor, nos termos do artigo 12.º do presente diploma.\n\n2 - Sem prejuízo do disposto no número anterior, a importação de trigo mole e de trigo rijo poder-se-á realizar também através do regime de concursos públicos de importação de cereais, nos termos do capítulo II do presente diploma.\n\n3 - A importação de cereais em grão fica sujeita à apresentação de um certificado de importação, emitido pela Direcção-Geral do Comércio Externo, nos termos do artigo 12.º do presente diploma."
+  },
+  "9f92038b40e7aaf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Regime de exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime de exportação\n\n1 - A exportação de cereais, arroz e seus derivados fica sujeita à apresentação de um certificado de exportação, emitido pela Direcção-Geral do Comércio Externo.\n\n2 - Para permitir a exportação de cereais e arroz em natureza ou sob a forma de produtos transformados poderá ser concedida uma restituição à exportação, a qual se baseará na diferença de preços existente entre Portugal e a CEE, ou entre Portugal e países terceiros, consoante o destino das mercadorias, em conformidade com o disposto nos artigos 276.º e 283.º do Acto de Adesão, por portaria conjunta dos Ministros das Finanças, da Agricultura, Pescas e Alimentação, da Indústria e Energia e do Comércio e Turismo.\n\n3 - A obtenção dos certificados referidos no n.º 1 é condicionada à prestação de uma caução que garanta a realização da operação durante o período de validade dos certificados, a qual reverterá a favor do Estado, no todo ou em parte, sempre que a operação se não realize ou se realize apenas parcialmente."
+  },
+  "8cd4cac15ce4a15d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Restituição à produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Restituição à produção\n\nA concessão de restituições à indústria portuguesa, para permitir a competitividade da indústria transformadora em termos análogos aos da legislação comunitária respectiva, é regulamentada por portaria conjunta dos Ministros das Finanças, da Agricultura, Pescas e Alimentação, da Indústria e Energia e do Comércio e Turismo."
+  },
+  "cd9ac46f17274f81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Direitos niveladores para cereal em grão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direitos niveladores para cereal em grão\n\n1 - Os direitos niveladores aplicáveis na importação de cereal em grão a que se refere o n.º 1 do artigo 9.º são fixados, mediante aviso, pela Comissão do Mercado de Cereais.\n\n2 - Os direitos niveladores são fixados para o continente e para as Regiões Autónomas dos Açores e da Madeira tendo em conta os preços CIF de importação mais favoráveis para cereal com procedência de países terceiros, da CEE (10) ou de Espanha, de modo a elevar os preços desses produtos até ao nível dos preços limiares fixados ao abrigo do n.º 3 do artigo 7.º do presente diploma.\n\n3 - Os direitos niveladores a fixar para a importação de cereais procedentes da CEE (10) ou de Espanha diferirão, quando for caso disso, no valor correspondente ao montante compensatório de adesão (MCA) em vigor nas trocas entre a CEE (10) e Espanha.\n\n4 - Os direitos niveladores devidos pela importação de cereal nas Regiões Autónomas da Madeira e dos Açores serão os fixados para o continente, deduzidos de um montante correspondente aos acréscimos das despesas de descarga e de transporte marítimo, a fixar pela Comissão do Mercado de Cereais no próprio aviso que fixe os direitos niveladores.\n\n5 - A Comissão do Mercado de Cereais procederá à alteração dos direitos niveladores sempre que haja alteração nos preços limiares fixados ao abrigo do n.º 3 do artigo 7.º do presente diploma ou se verifique a existência de variações significativas nos preços CIF, nos encargos de descarga e de transporte marítimo entre o continente e as regiões autónomas.\n\n6 - O direito nivelador a pagar pelo importador é o que estiver em vigor no dia em que for aceite a declaração de importação, sem prejuízo do disposto no n.º 8.\n\n7 - Qualquer variação decidida pelo Governo para os preços limiares fixados ao abrigo do n.º 3 do artigo 7.º do presente diploma acarretará o respectivo ajustamento dos direitos niveladores em vigor e dos direitos niveladores que tenham sido fixados de acordo com o disposto no n.º 8, desde que a mercadoria ainda não tenha sido declarada para importação.\n\n8 - A pedido do importador, pode ser aplicado à importação o direito nivelador em vigor no dia da concessão do certificado de importação, nos termos que vierem a ser estabelecidos, de acordo com a legislação comunitária em vigor sobre fixação antecipada.\n\n9 - Para importações procedentes de países terceiros, no caso de os direitos niveladores terem sido fixados nos termos do número anterior, poderão, se for caso disso, ser-lhes adicionados os prémios em vigor na Comunidade.\n\n10:\n\na) Para efeitos do disposto no artigo 6.º do Regulamento (CEE) n.º [3252/88](http://data.europa.eu/eli/reg/1988/3252/oj?locale=pt) da Comissão, deverá ser apresentado à Direcção-Geral do Comércio Externo um pedido de certificado para a importação de cereal em grão;\n\nb) O certificado para importação de cereal em grão não importado em regime de concurso público será emitido no terceiro dia útil seguinte ao da apresentação do pedido, sem prejuízo do disposto no artigo 274.º do Acto de Adesão;\n\nc) Os pedidos de certificados apresentados depois das 13 horas consideram-se apresentados no primeiro dia útil seguinte;\n\nd) A tolerância em relação à quantidade do certificado é de 10%;\n\ne) O prazo de validade do certificado é de 60 dias;\n\nf) O pedido de certificado será obrigatoriamente acompanhado da constituição de uma caução a favor da Direcção-Geral do Comércio Externo, a qual servirá de garantia à boa execução da operação no prazo fixado, e que, salvo caso de força maior ou recurso a aplicação do artigo 274.º do Acto de Adesão, será perdida, no todo ou em parte, caso a operação se não realize ou se realize apenas parcialmente, sendo restituída mediante apresentação do original do certificado, donde conste a respectiva utilização, visada pelas alfândegas;\n\ng) A caução a constituir a favor da Direcção-Geral do Comércio Externo será efectuada por depósito na Caixa Geral de Depósitos, mediante guia em triplicado, ou por garantia bancária;\n\nh) O montante da caução a que se refere a alínea anterior será de 120$00 por tonelada, sendo o direito nivelador a pagar o direito nivelador em vigor à data do desalfandegamento, e será de 3000$00 por tonelada no caso de o importador desejar usar da faculdade prevista no n.º 8 do presente artigo."
+  },
+  "3fe209bbe0d1bfc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Fixação e divulgação de direitos niveladores, restituições à produção e restituições à exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fixação e divulgação de direitos niveladores, restituições à produção e restituições à exportação\n\n1 - Os montantes dos direitos niveladores, das restituições à produção e das restituições à exportação serão fixados por aviso da Comissão do Mercado de Cereais e divulgados dois dias antes da sua entrada em vigor, nos seguintes termos:\n\na) Os direitos niveladores, à Direcção-Geral das Alfândegas, ao Instituto Nacional de Intervenção e Garantia Agrícola e à Direcção-Geral do Comércio Externo;\n\nb) As restituições à produção, ao Instituto Nacional de Intervenção e Garantia Agrícola e à Direcção-Geral da Indústria;\n\nc) As restituições à exportação, à Direcção-Geral das Alfândegas, ao Instituto Nacional de Intervenção e Garantia Agrícola e à Direcção-Geral do Comércio Externo.\n\n2 - Compete à Direcção-Geral das Alfândegas colocar à disposição dos agentes económicos interessados os avisos fixando os direitos niveladores e as restituições à exportação, competindo ao Instituto Nacional de Intervenção e Garantia Agrícola colocar à disposição dos agentes económicos interessados os avisos fixando as restituições à produção."
+  },
+  "f1baf54dfaec7a4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Regime de concursos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Regime de concursos públicos"
+  },
+  "04c7e78aeef989c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Abertura e condições de participação nos concursos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Abertura e condições de participação nos concursos públicos\n\n1 - A abertura de concurso público para importação de cereais, assim como as condições de participação nos mesmos, será decidida pela Comissão do Mercado de Cereais.\n\n2 - As condições de participação no concurso público devem garantir a igualdade de acesso a todos os operadores económicos."
+  },
+  "567d1e01172fea83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Aviso de abertura dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aviso de abertura dos concursos\n\n1 - A abertura de concurso público para importação de cereais é precedida de aviso da Comissão do Mercado de Cereais, publicado no Diário da República, 2.ª série.\n\n2 - O aviso referido no número anterior indicará, nomeadamente, a entidade à qual deve ser dirigida a proposta, o seu prazo de validade, a data limite para a sua entrega, a quantidade total que pode ser adjudicada, assim como, se necessário, condições complementares a respeitar pelos concorrentes.\n\n3 - Entre a data da publicação do aviso do concurso e a data limite para a recepção das propostas deverá ser respeitado um período mínimo de cinco dias úteis."
+  },
+  "436a7fc00612b63d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Forma das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Forma das propostas\n\n1 - O interessado na participação nos concursos de importação de cereais pode fazê-lo mediante a entrega de uma proposta escrita, contra recibo, ou por carta registada, telex, telegrama ou telefax.\n\n2 - A proposta deverá indicar:\n\na) A identificação do concurso público, por referência ao respectivo aviso de abertura;\n\nb) O nome e morada do concorrente, telex, telefone ou telefax;\n\nc) A caracterização e quantidade de cereal que o concorrente se propõe importar;\n\nd) O montante do direito nivelador oferecido, expresso em escudos por tonelada;\n\ne) A proveniência do cereal a importar."
+  },
+  "620b945f0e24ea24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Validade das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Validade das propostas\n\n1 - Apenas serão consideradas válidas as propostas:\n\na) Para as quais, antes de expirado o prazo limite para a apresentação, o concorrente tiver feito prova de ter constituído a caução referida no artigo 18.º do presente diploma;\n\nb) Que reunirem os requisitos constantes do artigo 16.º e as condições constantes do aviso de abertura do concurso público.\n\n2 - As propostas apresentadas não poderão ser retiradas."
+  },
+  "bbdd7ca486574205": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Caucionamento das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Caucionamento das propostas\n\n1 - As propostas apresentadas nos concursos públicos a que se refere o presente diploma só serão aceites mediante prova de que se encontra constituída uma caução a favor da Direcção-Geral do Comércio Externo, constante do respectivo aviso, não podendo esta ser inferior a 5000$00 por tonelada.\n\n2 - A caução será constituída mediante garantia de instituição bancária de 1.ª ordem.\n\n3 - A caução referente às propostas adjudicadas ficará retida e servirá de garantia à boa execução da operação dentro das normas estabelecidas pelo presente diploma e das condições constantes do aviso do respectivo concurso.\n\n4 - A caução a que se refere o número anterior será, salvo caso de força maior, perdida, no todo ou em parte, caso a operação se não realize ou se realize apenas parcialmente."
+  },
+  "8ddc62e03fbe2230": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Abertura das propostas e fixação do direito nivelador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Abertura das propostas e fixação do direito nivelador\n\n1 - A abertura das propostas será efectuada em acto público.\n\n2 - As quantidades postas a concurso serão adjudicadas ao concorrente que oferecer direito nivelador mais elevado.\n\n3 - A Comissão do Mercado de Cereais poderá decidir a fixação de um direito nivelador mínimo ou a não adjudicação de qualquer das propostas.\n\n4 - No caso de fixação de um direito nivelador mínimo serão autorizados a efectuar a importação os concorrentes cujas ofertas se situem ao nível do direito mínimo ou a um nível superior, sendo a autorização de importação concedida por ordem decrescente, a partir do direito nivelador mais elevado.\n\n5 - Se, para respeitar o limite da quantidade de cereal posta a concurso, resultar a atribuição a um concorrente de uma quantidade inferior em mais de 10% à constante da sua proposta, este poderá, no prazo de 24 horas, requerer a retirada da mesma, sendo a respectiva caução libertada.\n\n6 - No caso de mais de um concorrente oferecer o mesmo direito nivelador, a quantidade a adjudicar será rateada proporcionalmente às quantidades oferecidas, ficando o concorrente com o direito previsto na parte final do número anterior.\n\n7 - Para efeitos de comparação de propostas de direitos niveladores oferecidos, as propostas para efeitos de importação de cereais com procedência comunitária serão corrigidas da diferença entre os preços do mercado comunitário e do mercado mundial, ajustada do montante compensatório de adesão em vigor nas trocas entre a CEE (10) e Espanha.\n\n8 - Se no período que decorre entre um concurso público e o desalfandegamento da mercadoria o Governo alterar os preços limiares, o direito nivelador a pagar será corrigido do mesmo montante.\n\n9 - Os resultados do concurso serão comunicados directamente aos concorrentes."
+  },
+  "a6457d88aaa71bed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Libertação da caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Libertação da caução\n\n1 - A caução será libertada para os concorrentes cujas propostas não tenham sido adjudicadas e para os concorrentes que tenham retirado as suas propostas nos termos dos n.os 5 e 6 do artigo 19.º do presente diploma, assim como, no caso de adjudicações parciais, no correspondente à quantidade não adjudicada.\n\n2 - A caução será igualmente libertada para as quantidades relativamente às quais o adjudicatário faça prova da efectivação da importação, nas condições do concurso, mediante apresentação do original do certificado, donde conste a respectiva utilização, visada pelas alfândegas."
+  },
+  "580872163dd1a237": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Emissão do documento de importação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Emissão do documento de importação\n\n1 - A Direcção-Geral do Comércio Externo emitirá os certificados de importação para as quantidades adjudicadas no prazo máximo de três dias úteis após a apresentação do respectivo pedido.\n\n2 - Os certificados de importação previstos no número anterior deverão conter os seguintes elementos:\n\nEmitido ao abrigo do n.º 2 do artigo 20.º do Decreto-Lei n.º 438-F/88, de 28 de Dezembro, referente ao concurso público n.º .../..., de ... de ...\n\nPrazo de validade.\n\nTipo.\n\nQuantidade.\n\nProveniência.\n\nDireito nivelador.\n\nCom ressalva do disposto no n.º 8 do artigo 19.º do Decreto-Lei n.º 483-F/88, de 28 de Dezembro.\n\n3 - O prazo de validade dos certificados de importação emitidos nos termos deste diploma será o constante do aviso de abertura do respectivo concurso.\n\n4 - A tolerância consentida em relação à quantidade constante do certificado de importação é de 10%."
+  },
+  "961fcaf7bad62f1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Cobrança e destino dos direitos niveladores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Cobrança e destino dos direitos niveladores\n\nOs direitos niveladores serão cobrados pelas alfândegas e constituirão receita do Instituto Nacional de Intervenção e Garantia Agrícola."
+  },
+  "641a236ffb9df609": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições finais e transitórias"
+  },
+  "dfef968d08a73303": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Revogação da legislação anterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Revogação da legislação anterior\n\n1 - São revogados os Decretos-Leis n.os 61/86 e 65/86, ambos de 25 de Março, 367/86, de 3 de Novembro, 340/86, de 7 de Outubro, e 241/87, de 12 de Junho.\n\n2 - As operações que tenham sido realizadas ao abrigo dos Decretos-Leis n.os 367/86, de 3 de Novembro, e 65/86, de 25 de Março, antes da entrada em vigor do presente diploma, e em que a chegada da mercadoria venha a ocorrer após a entrada em vigor do presente diploma, serão desalfandegadas ao abrigo do regime anterior.\n\n3 - As referências feitas nas portarias publicadas ao abrigo dos artigos 9.º e 10.º do Decreto-Lei n.º 61/86, de 25 de Março, consideram-se feitas para as disposições correspondentes do presente diploma.\n\n4 - Mantêm-se em vigor as disposições referentes à constituição, atribuições, competências e normas de funcionamento da Comissão do Mercado de Cereais e do Conselho Consultivo do Mercado de Cereais."
+  },
+  "8c1defa4e17204fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Data de entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Data de entrada em vigor\n\nEste diploma produz efeitos a partir de 1 de Janeiro de 1989.\n\nVisto e aprovado em Conselho de Ministros de 22 de Dezembro de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 28 de Dezembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 28 de Dezembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "0f0a9ac70ae34fb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Direitos niveladores para cereal em grão",
+   "in_force_from": "1989-07-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 229/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1989-619960), publicado em 1989-07-20."
+   ],
+   "markdown": "###### Artigo 12.º — Direitos niveladores para cereal em grão\n\n1 - Os direitos niveladores aplicáveis na importação de cereal em grão a que se refere o n.º 1 do artigo 9.º são fixados, mediante aviso, pela Comissão do Mercado de Cereais.\n\n2 - Os direitos niveladores são fixados para o continente e para as Regiões Autónomas dos Açores e da Madeira tendo em conta os preços CIF de importação mais favoráveis para cereal com procedência de países terceiros, da CEE (10) ou de Espanha, de modo a elevar os preços desses produtos até ao nível dos preços limiares fixados ao abrigo do n.º 3 do artigo 7.º do presente diploma.\n\n3 - Os direitos niveladores a fixar para a importação de cereais procedentes da CEE (10) ou de Espanha diferirão, quando for caso disso, no valor correspondente ao montante compensatório de adesão (MCA) em vigor nas trocas entre a CEE (10) e Espanha.\n\n4 - Os direitos niveladores devidos pela importação de cereal nas Regiões Autónomas da Madeira e dos Açores serão os fixados para o continente, deduzidos de um montante correspondente aos acréscimos das despesas de descarga e de transporte marítimo, a fixar pela Comissão do Mercado de Cereais no próprio aviso que fixe os direitos niveladores.\n\n5 - A Comissão do Mercado de Cereais procederá à alteração dos direitos niveladores sempre que haja alteração nos preços limiares fixados ao abrigo do n.º 3 do artigo 7.º do presente diploma ou se verifique a existência de variações significativas nos preços CIF, nos encargos de descarga e de transporte marítimo entre o continente e as regiões autónomas.\n\n6 - O direito nivelador a pagar pelo importador é o que estiver em vigor no dia em que for aceite a declaração de importação, sem prejuízo do disposto no n.º 8.\n\n7 - Qualquer variação decidida pelo Governo para os preços limiares fixados ao abrigo do n.º 3 do artigo 7.º do presente diploma acarretará o respectivo ajustamento dos direitos niveladores em vigor e dos direitos niveladores que tenham sido fixados de acordo com o disposto no n.º 8, desde que a mercadoria ainda não tenha sido declarada para importação.\n\n8 - A pedido do importador, pode ser aplicado à importação o direito nivelador em vigor no dia da concessão do certificado de importação, nos termos que vierem a ser estabelecidos, de acordo com a legislação comunitária em vigor sobre fixação antecipada.\n\n9 - Para importações procedentes de países terceiros, no caso de os direitos niveladores terem sido fixados nos termos do número anterior, poderão, se for caso disso, ser-lhes adicionados os prémios em vigor na Comunidade.\n\n10:\n\na) Para efeitos do disposto no artigo 6.º do Regulamento (CEE) n.º [3252/88](http://data.europa.eu/eli/reg/1988/3252/oj?locale=pt) da Comissão, deverá ser apresentado à Direcção-Geral do Comércio Externo um pedido de certificado para a importação de cereal em grão;\n\nb) O certificado para importação de cereal em grão não importado em regime de concurso público será concedido no 3.º dia útil a contar do dia da apresentação do pedido, considerando-se o dia de apresentação como 1.º dia, sem prejuízo do disposto no artigo 274.º do Acto de Adesão;\n\nc) Os pedidos de certificados apresentados depois das 13 horas consideram-se apresentados no primeiro dia útil seguinte;\n\nd) A tolerância em relação à quantidade do certificado é de 10%;\n\ne) O prazo de validade do certificado é de 60 dias;\n\nf) O pedido de certificado será obrigatoriamente acompanhado da constituição de uma caução a favor da Direcção-Geral do Comércio Externo, a qual servirá de garantia à boa execução da operação no prazo fixado, e que, salvo caso de força maior ou recurso a aplicação do artigo 274.º do Acto de Adesão, será perdida, no todo ou em parte, caso a operação se não realize ou se realize apenas parcialmente, sendo restituída mediante apresentação do original do certificado, donde conste a respectiva utilização, visada pelas alfândegas;\n\ng) A caução a constituir a favor da Direcção-Geral do Comércio Externo será efectuada por depósito na Caixa Geral de Depósitos, mediante guia em triplicado, ou por garantia bancária;\n\nh) O montante da caução a que se refere a alínea anterior será de 120$00 por tonelada, sendo o direito nivelador a pagar o direito nivelador em vigor à data do desalfandegamento, e será de 3000$00 por tonelada no caso de o importador desejar usar da faculdade prevista no n.º 8 do presente artigo.\n\n11 - A prefixação pode ser suspensa, caso ocorram perturbações de mercado, por aviso do INGA - Instituto Nacional de Intervenção e Garantia Agrícola à Direcção-Geral do Comércio Externo, com efeitos imediatos após o seu conhecimento por esta Direcção-Geral, devendo o texto do aviso explicitar a data limite da duração da suspensão.\n\n> Alterado pelo/a [Decreto-Lei n.º 229/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1989-619960), publicado em 1989-07-20."
+  }
+ }
+}

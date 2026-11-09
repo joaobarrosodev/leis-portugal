@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-02-26'
+version_history:
+  file: decreto-lei-121-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-02-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-02-26'
+    amending: pt:dre:311375:por
+    amending_title: Lei n.º 3/83
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:49:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 3/83. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-121-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,17 +129,25 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. É abolida a exigência de avisos de recepção para as notificações em quaisquer processos, sendo contudo obrigatório o registo postal em todos os avisos e notificações, incluindo os relativos a preparos, multas e custas.
+###### Artigo 1.º
+
+1. É abolida a exigência de avisos de recepção para as notificações em quaisquer processos, sendo contudo obrigatório o registo postal em todos os avisos e notificações, incluindo os relativos a preparos, multas e custas.
 
 2. O funcionário que emitir qualquer aviso ou notificação mencionará por escrito, no canto superior esquerdo do seu rosto ou do respectivo sobrescrito, o número e secção do processo, bem como a data do registo, assinando estas menções.
 
-3. Todas as notificações e avisos efectuados nos termos dos números anteriores se presumem feitos no terceiro dia posterior ao do registo ou no primeiro dia útil seguinte a esse, quando o não seja, não produzindo efeitos anteriores.
+3 - Todas as notificações e avisos efectuados nos termos dos números anteriores presumem-se feitos no quinto dia posterior ao do registo, ainda que não seja dia útil, contando-se como um só qualquer prazo que se siga àquele quinto dia.
 
 4. A presunção do n.º 3 só pode ser ilidida pelo avisado ou notificado quando o facto da recepção do aviso ou notificação ocorra em data posterior à presumida, por razões que não lhe sejam imputáveis, requerendo no processo que seja requisitada aos correios informação sobre a data efectiva dessa recepção.
 
-Art. 2.º O preceituado no artigo anterior é aplicável em todos os processos, qualquer que seja a sua natureza ou espécie, ficando revogadas todas as disposições em contrário, ainda que especiais.
+> Alterado pelo/a [Lei n.º 3/83](https://diariodarepublica.pt/dr/detalhe/lei/3-1983-311375), publicado em 1983-02-26.
 
-Art. 3.º Este decreto-lei entra em vigor na data da publicação.
+###### Artigo 2.º
+
+O preceituado no artigo anterior é aplicável em todos os processos, qualquer que seja a sua natureza ou espécie, ficando revogadas todas as disposições em contrário, ainda que especiais.
+
+###### Artigo 3.º
+
+Este decreto-lei entra em vigor na data da publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha.
 

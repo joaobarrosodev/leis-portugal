@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1964-11-13'
+version_history:
+  file: decreto-lei-43344.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-11-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1964-11-13'
+    amending: pt:dre:536407:por
+    amending_title: Decreto-Lei n.º 46030
+    changes:
+    - Altera Artigo 16.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:34:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 46030. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43344.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,11 +137,15 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O serviço do arquivo e biblioteca a que se refere o § 2.º do artigo 2.º da lei orgânica do Ministério dos Negócios Estrangeiros ([Decreto-Lei n.º 29319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29319-1938-151102), de 30 de Dezembro de 1938) será dirigido por um primeiro-bibliotecário-arquivista, livremente contratado pelo Ministro dos Negócios Estrangeiros de entre diplomados com o respectivo curso de reconhecida competência para o exercício das suas funções.
+###### Artigo 1.º
+
+O serviço do arquivo e biblioteca a que se refere o § 2.º do artigo 2.º da lei orgânica do Ministério dos Negócios Estrangeiros ([Decreto-Lei n.º 29319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29319-1938-151102), de 30 de Dezembro de 1938) será dirigido por um primeiro-bibliotecário-arquivista, livremente contratado pelo Ministro dos Negócios Estrangeiros de entre diplomados com o respectivo curso de reconhecida competência para o exercício das suas funções.
 
 § único. Este lugar é aumentado ao quadro do pessoal adjunto da Secretaria de Estado.
 
-Art. 2.º Competem aos serviços do arquivo e biblioteca, além das atribuições expressamente indicadas na lei orgânica e no regulamento do Ministério dos Negócios Estrangeiros, mais as seguintes:
+###### Artigo 2.º
+
+Competem aos serviços do arquivo e biblioteca, além das atribuições expressamente indicadas na lei orgânica e no regulamento do Ministério dos Negócios Estrangeiros, mais as seguintes:
 
 1.º Proceder à reorganização das colecções manuscritas e impressas do arquivo e biblioteca, arrumando-as, classificando-as e catalogando-as de harmonia com os modernos princípios da arquivologia e bibliotecnia;
 
@@ -138,7 +157,9 @@ Art. 2.º Competem aos serviços do arquivo e biblioteca, além das atribuiçõe
 
 5.º Fornecer aos arquivistas das diferentes repartições e serviços do Ministério indicações técnicas sobre a forma como deverão executar os trabalhos a seu cargo.
 
-Art. 3.º Além do primeiro-bibliotecário-arquivista, fica adstrito ao mesmo serviço o seguinte pessoal:
+###### Artigo 3.º
+
+Além do primeiro-bibliotecário-arquivista, fica adstrito ao mesmo serviço o seguinte pessoal:
 
 ... Grupo de vencimento
 
@@ -154,7 +175,9 @@ Art. 3.º Além do primeiro-bibliotecário-arquivista, fica adstrito ao mesmo se
 
 § 3.º No novo lugar de fiel, a prever no futuro ao abrigo das disposições do artigo 81.º do regulamento do Ministério, poderá ser colocado, independentemente de quaisquer formalidades, o actual servidor que desempenha as funções de fiel do arquivo, lugar que se extingue no quadro do pessoal menor.
 
-Art. 4.º São extintos logo que vaguem os lugares de consultor ultramarino e consultor económico e criados, junto do Gabinete do Ministro, os lugares de director dos serviços dos organismos económicos internacionais, director dos serviços políticos do ultramar e director dos serviços de relações públicas.
+###### Artigo 4.º
+
+São extintos logo que vaguem os lugares de consultor ultramarino e consultor económico e criados, junto do Gabinete do Ministro, os lugares de director dos serviços dos organismos económicos internacionais, director dos serviços políticos do ultramar e director dos serviços de relações públicas.
 
 § 1.º O lugar de chefe dos serviços de imprensa será extinto logo que vague.
 
@@ -166,39 +189,63 @@ Art. 4.º São extintos logo que vaguem os lugares de consultor ultramarino e co
 
 § 5.º Quando estas nomeações recaiam em funcionários do Ministério, não carecem de confirmação, sendo consideradas definitivas desde a data da posse do cargo e ficando, neste caso, acrescido o número de ministros plenipotenciários de 2.ª classe previsto no quadro.
 
-Art. 5.º Quando as nomeações efectuadas nos termos do n.º 8 do artigo 7.º da lei orgânica recaiam em funcionários do Ministério, não carecem de confirmação, sendo consideradas definitivas desde a data da posse do cargo.
+###### Artigo 5.º
 
-Art. 6.º O conselho do Ministério será composto pelo secretário-geral, que será o presidente, pelos directores-gerais e os directores dos serviços dos organismos económicos internacionais e dos serviços políticos do ultramar, referidos no artigo 4.º deste decreto-lei, e terá como secretário, sem voto, o chefe da Repartição dos Serviços Administrativos.
+Quando as nomeações efectuadas nos termos do n.º 8 do artigo 7.º da lei orgânica recaiam em funcionários do Ministério, não carecem de confirmação, sendo consideradas definitivas desde a data da posse do cargo.
 
-Art. 7.º Para efeitos de estágio, será contado na Secretaria de Estado o serviço prestado no Gabinete do Ministro.
+###### Artigo 6.º
 
-Art. 8.º Aos directores dos serviços referidos no artigo 4.º, bem como ao ministro plenipotenciário de 2.ª classe especialmente encarregado de inspeccionar os consulados a que se refere o regulamento do Ministério, são aplicáveis as disposições do artigo 112.º do mesmo regulamento.
+O conselho do Ministério será composto pelo secretário-geral, que será o presidente, pelos directores-gerais e os directores dos serviços dos organismos económicos internacionais e dos serviços políticos do ultramar, referidos no artigo 4.º deste decreto-lei, e terá como secretário, sem voto, o chefe da Repartição dos Serviços Administrativos.
 
-Art. 9.º O Ministro poderá, quando a urgência do recrutamento do pessoal o imponha, fixar a classificação final que os concorrentes habilitados com qualquer dos cursos indicados no artigo 72.º do regulamento do Ministério devem ter obtido para serem dispensados das provas do concurso de admissão.
+###### Artigo 7.º
+
+Para efeitos de estágio, será contado na Secretaria de Estado o serviço prestado no Gabinete do Ministro.
+
+###### Artigo 8.º
+
+Aos directores dos serviços referidos no artigo 4.º, bem como ao ministro plenipotenciário de 2.ª classe especialmente encarregado de inspeccionar os consulados a que se refere o regulamento do Ministério, são aplicáveis as disposições do artigo 112.º do mesmo regulamento.
+
+###### Artigo 9.º
+
+O Ministro poderá, quando a urgência do recrutamento do pessoal o imponha, fixar a classificação final que os concorrentes habilitados com qualquer dos cursos indicados no artigo 72.º do regulamento do Ministério devem ter obtido para serem dispensados das provas do concurso de admissão.
 
 § 1.º Exceptuam-se do disposto neste artigo as provas referidas nos n.os 1.º e 2.º do artigo 8.º do [Decreto n.º 29511](https://diariodarepublica.pt/dr/detalhe/decreto/29511-1939-568726), de 31 de Março de 1939, que serão obrigatórias para todos os concorrentes.
 
 § 2.º O júri que apreciará as provas referidas no § 1.º deste artigo será composto por três funcionários do Ministério designados por despacho do Ministro.
 
-Art. 10.º É reduzido a 90 dias antes do início das provas do concurso o prazo estabelecida no § único do artigo 6.º do [Decreto n.º 29511](https://diariodarepublica.pt/dr/detalhe/decreto/29511-1939-568726), de 31 de Março de 1939.
+###### Artigo 10.º
 
-Art. 11.º O júri do concurso de promoção a conselheiros de legação e cônsules gerais será constituído pelo Ministro ou por um embaixador por ele designado, que presidirá em sua representação, e por quatro funcionários do Ministério, de categoria igual ou superior a ministro plenipotenciário de 2.ª classe.
+É reduzido a 90 dias antes do início das provas do concurso o prazo estabelecida no § único do artigo 6.º do [Decreto n.º 29511](https://diariodarepublica.pt/dr/detalhe/decreto/29511-1939-568726), de 31 de Março de 1939.
 
-Art. 12.º A apreciação oral, referida no n.º 3.º do [Decreto n.º 36001](https://diariodarepublica.pt/dr/detalhe/decreto/36001-1946-149175), de 29 de Novembro de 1946, das monografias e das conclusões das provas escritas dos concorrentes será feita metade do tempo em português e outra metade em francês ou inglês, à escolha do candidato.
+###### Artigo 11.º
 
-Art. 13.º Quando não puderem prover-se as vagas de ministros plenipotenciários de 2.ª classe por não haver funcionários em condições de ser elaborada a lista tríplice referida na alínea d) do artigo 76.º do regulamento do Ministério, pode o Ministro nomear para essas vagas os conselheiros de legação ou cônsules gerais com mais de quinze anos de carreira que tenham completado já dois dos estágios legais e se encontrem exercendo as funções correspondentes ao estágio que lhes falte completar.
+O júri do concurso de promoção a conselheiros de legação e cônsules gerais será constituído pelo Ministro ou por um embaixador por ele designado, que presidirá em sua representação, e por quatro funcionários do Ministério, de categoria igual ou superior a ministro plenipotenciário de 2.ª classe.
 
-Art. 14.º As licenças registadas serão contadas desde a data em que o funcionário deixar de prestar serviço no seu respectivo posto.
+###### Artigo 12.º
 
-Art. 15.º Os primeiros-secretários de embaixada, bem como os adidos comerciais, de imprensa e ultramarinos, colocados no quadro externo, que tenham mais de cinco anos de bom e efectivo serviço na respectiva categoria, podem ser autorizados, por despacho do Ministro, a usar o título de conselheiros.
+A apreciação oral, referida no n.º 3.º do [Decreto n.º 36001](https://diariodarepublica.pt/dr/detalhe/decreto/36001-1946-149175), de 29 de Novembro de 1946, das monografias e das conclusões das provas escritas dos concorrentes será feita metade do tempo em português e outra metade em francês ou inglês, à escolha do candidato.
 
-Art. 16.º Na antiguidade e para efeitos de aposentação conta-se o tempo de serviço com os seguintes aumentos:
+###### Artigo 13.º
+
+Quando não puderem prover-se as vagas de ministros plenipotenciários de 2.ª classe por não haver funcionários em condições de ser elaborada a lista tríplice referida na alínea d) do artigo 76.º do regulamento do Ministério, pode o Ministro nomear para essas vagas os conselheiros de legação ou cônsules gerais com mais de quinze anos de carreira que tenham completado já dois dos estágios legais e se encontrem exercendo as funções correspondentes ao estágio que lhes falte completar.
+
+###### Artigo 14.º
+
+As licenças registadas serão contadas desde a data em que o funcionário deixar de prestar serviço no seu respectivo posto.
+
+###### Artigo 15.º
+
+Os primeiros-secretários de embaixada, bem como os adidos comerciais, de imprensa e ultramarinos, colocados no quadro externo, que tenham mais de cinco anos de bom e efectivo serviço na respectiva categoria, podem ser autorizados, por despacho do Ministro, a usar o título de conselheiros.
+
+###### Artigo 16.º
+
+Na antiguidade e para efeitos de aposentação conta-se o tempo de serviço com os seguintes aumentos:
 
 1.º 20 por cento em Adem, Adis Abeba, Baçorá, Bagdade, Banguecoque, Bombaim, Brazzaville, Colombo, Jacatra, Elizabethville, Karachi, Lagos, Léopoldville, Manaus e Nova Deli;
 
 2.º 15 por cento em Baía, Cantão, Dacar, Dar-es-Salaam, Havana, Pará, Singapura, Tananarive e Trindade;
 
-3.º 10 por cento em Pernambuco, Santos, Hong-Kong, Xangai e Naimbi;
+3.º 10 por cento em Caracas, Hong-Kong, La Paz, Manila, México, Nairobi, Recife, Quito e Xangai.
 
 4.º 25 por cento em país em guerra civil ou guerra internacional com o território atacado por forças estrangeiras.
 
@@ -206,15 +253,27 @@ Art. 16.º Na antiguidade e para efeitos de aposentação conta-se o tempo de se
 
 § 2.º A percentagem contada no n.º 4.º não é acumulável com as dos n.os 1.º a 3.º, mas prevalece sobre elas.
 
-Art. 17.º O número de ministros plenipotenciários de 1.ª classe do quadro externo é aumentado em quatro unidades, o de ministros plenipotenciários de 2.ª classe do quadro externo em quatro unidades, o de ministros plenipotenciários de 2.ª classe no quadro da Secretaria de Estado em duas unidades e os de conselheiros e primeiros-secretários do quadro externo, respectivamente, em quatro e cinco unidades. É aumentado um lugar de chefe de secção no quadro do pessoal burocrático privativo da Secretaria de Estado.
+> Alterado pelo/a [Decreto-Lei n.º 46030](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46030-1964-536407), publicado em 1964-11-13.
 
-Art. 18.º O disposto no artigo 4.º do [Decreto-Lei n.º 36376](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36376-1947-183984), de 26 de Junho de 1947, é aplicável aos funcionários do corpo diplomático ou consular que, na vigência do presente diploma e seja qual for a sua situação, regressem definitivamente a Portugal e sejam chamados ao exercício de quaisquer funções na Secretaria de Estado.
+###### Artigo 17.º
 
-Art. 19.º O Ministro dos Negócios Estrangeiros fará publicar até 31 de Dezembro de 1960 a lista das missões diplomáticas e dos consulados de carreira e o quadro geral dos corpos diplomático e consular, do pessoal adjunto e do pessoal privativo da Secretaria de Estado, com as alterações introduzidas até à vigência do presente decreto-lei.
+O número de ministros plenipotenciários de 1.ª classe do quadro externo é aumentado em quatro unidades, o de ministros plenipotenciários de 2.ª classe do quadro externo em quatro unidades, o de ministros plenipotenciários de 2.ª classe no quadro da Secretaria de Estado em duas unidades e os de conselheiros e primeiros-secretários do quadro externo, respectivamente, em quatro e cinco unidades. É aumentado um lugar de chefe de secção no quadro do pessoal burocrático privativo da Secretaria de Estado.
 
-Art. 20.º É revogado o § único do artigo 13.º da lei orgânica do Ministério dos Negócios Estrangeiros ([Decreto-Lei n.º 29319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29319-1938-151102), de 30 de Dezembro de 1938).
+###### Artigo 18.º
 
-Art. 21.º As despesas do pessoal resultantes da execução deste diploma serão satisfeitas no ano corrente pelas sobras das verbas da mesma classe do orçamento do Ministério.
+O disposto no artigo 4.º do [Decreto-Lei n.º 36376](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36376-1947-183984), de 26 de Junho de 1947, é aplicável aos funcionários do corpo diplomático ou consular que, na vigência do presente diploma e seja qual for a sua situação, regressem definitivamente a Portugal e sejam chamados ao exercício de quaisquer funções na Secretaria de Estado.
+
+###### Artigo 19.º
+
+O Ministro dos Negócios Estrangeiros fará publicar até 31 de Dezembro de 1960 a lista das missões diplomáticas e dos consulados de carreira e o quadro geral dos corpos diplomático e consular, do pessoal adjunto e do pessoal privativo da Secretaria de Estado, com as alterações introduzidas até à vigência do presente decreto-lei.
+
+###### Artigo 20.º
+
+É revogado o § único do artigo 13.º da lei orgânica do Ministério dos Negócios Estrangeiros ([Decreto-Lei n.º 29319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29319-1938-151102), de 30 de Dezembro de 1938).
+
+###### Artigo 21.º
+
+As despesas do pessoal resultantes da execução deste diploma serão satisfeitas no ano corrente pelas sobras das verbas da mesma classe do orçamento do Ministério.
 
 Publique-se e cumpra-se como nele se contém.
 

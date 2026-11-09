@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-05-24'
+version_history:
+  file: decreto-lei-47296.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1966-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-05-24'
+    amending: pt:dre:200845:por
+    amending_title: Decreto-Lei n.º 49022
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:58:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49022. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1966/decreto-lei-47296.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,15 +127,27 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É o Ministro das Finanças autorizado a contrair empréstimos externos e internos para assegurar o financiamento de planos de fomento aprovados por lei na qual se preveja o recurso ao crédito, com dispensa das formalidades exigidas pelos Decretos-Leis n.os 42900, de 5 de Abril de 1960, e 46152, de 11 de Janeiro de 1965.
+###### Artigo 1.º
 
-Art. 2.º Os serviços destes empréstimos ficam a cargo da Junta do Crédito Público ou da Direcção-Geral da Fazenda Publica, conforme sejam ou não representados em títulos, devendo ser enviadas a cada uma destas entidades cópias autênticas dos contratos relativos aos empréstimos cujos serviços lhes respeitem.
+É o Ministro das Finanças autorizado a contrair empréstimos externos e internos para assegurar o financiamento de planos de fomento ou de despesas extraordinárias de reapetrechamento, aprovados por lei na qual se preveja o recurso ao crédito, com dispensa das formalidades exigidas pelos Decretos-Leis n.os 42900, de 5 de Abril de 1960, e 46152, de 11 de Janeiro de 1965.
 
-Art. 3.º No Orçamento Geral do Estado indicar-se-ão, em mapa anexo, os montantes, composição e condições da dívida interna e externa contraída ao abrigo do presente diploma e serão inscritas as verbas necessárias para ocorrer aos encargos que constarem dos respectivos contratos, dos quais, para estes efeitos, serão enviadas igualmente cópias autênticas à Direcção-Geral da Contabilidade Pública.
+> Alterado pelo/a [Decreto-Lei n.º 49022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49022-1969-200845), publicado em 1969-05-24.
 
-Art. 4.º As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças, inscritas nos orçamentos dos anos económicos em que tiverem lugar.
+###### Artigo 2.º
 
-Art. 5.º Este diploma entra imediatamente em vigor.
+Os serviços destes empréstimos ficam a cargo da Junta do Crédito Público ou da Direcção-Geral da Fazenda Publica, conforme sejam ou não representados em títulos, devendo ser enviadas a cada uma destas entidades cópias autênticas dos contratos relativos aos empréstimos cujos serviços lhes respeitem.
+
+###### Artigo 3.º
+
+No Orçamento Geral do Estado indicar-se-ão, em mapa anexo, os montantes, composição e condições da dívida interna e externa contraída ao abrigo do presente diploma e serão inscritas as verbas necessárias para ocorrer aos encargos que constarem dos respectivos contratos, dos quais, para estes efeitos, serão enviadas igualmente cópias autênticas à Direcção-Geral da Contabilidade Pública.
+
+###### Artigo 4.º
+
+As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças, inscritas nos orçamentos dos anos económicos em que tiverem lugar.
+
+###### Artigo 5.º
+
+Este diploma entra imediatamente em vigor.
 
 Publique-se e cumpra-se como nele se contém.
 

@@ -38,10 +38,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-10-26'
+version_history:
+  file: portaria-413-a-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-07-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-10-26'
+    amending: pt:dre:147873:por
+    amending_title: Portaria n.º 533-A/99; Portaria n.º 1359/2004
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Adita Artigo 27.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/413-a/1998/07/17/p/dre/pt/html
@@ -67,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:08:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 533-A/99; Portaria n.º
+    1359/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1998/portaria-413-a-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -263,17 +283,19 @@ Os regimes de frequência, avaliação de conhecimentos, transição de ano, pre
 
 2 - A classificação final do grau de licenciado é a resultante do cálculo da expressão seguinte, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):
 
-[(3P) + (n x S)]/3 + n
+((3P) + (n x S))/(3 + n)
 
 em que:
 
 P é a classificação final do grau de bacharel;
 
-n é um coeficiente de ponderação com um valor entre 1 e 2;
+n é um coeficiente de ponderação com um valor entre 1 e 4;
 
 S é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o plano de estudos do 2.º ciclo do curso.
 
 3 - Os coeficientes de ponderação são fixados pelo órgão legal e estatutariamente competente.
+
+> Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22.
 
 ### CAPÍTULO II — Inscrição no 2.º ciclo do curso
 
@@ -281,29 +303,37 @@ S é a média aritmética ponderada, arredondada às unidades (considerando como
 
 1 - Em cada ano lectivo, podem inscrever-se no 2.º ciclo do curso:
 
-a) Sem limitações quantitativas, os estudantes que tenham concluído o 1.º ciclo respectivo na escola em causa no ano lectivo imediatamente anterior;
+a) Sem limitações quantitativas globais, os estudantes que tenham concluído o 1.º ciclo respectivo na escola em causa no ano lectivo imediatamente anterior;
 
 b) Sujeitos a limitações quantitativas:
 
 b1) Os estudantes que tenham concluído o 1.º ciclo respectivo na escola em causa noutros anos lectivos;
 
-b2) Os estudantes que tenham obtido um grau de bacharel na área do curso por outra escola cujo plano de estudos garanta, globalmente, uma formação correspondente à do 1.º ciclo do curso, se tal for previsto no instrumento legal de criação ou de autorização de funcionamento do curso.
+b2) Os estudantes que tenham obtido um grau de bacharel na escola em causa cujo plano de estudos garanta, globalmente, uma formação básica correspondente à do 1.º ciclo do curso, se tal for previsto no instrumento legal de criação ou de autorização de funcionamento do curso;
 
-2 - Nos cursos em que o 1.º ciclo se desdobre em opções e o 2.º ciclo se desdobre em ramos, a inscrição num determinado ramo pode ser condicionada à realização de uma determinada opção no 1.º ciclo.
+b3) Os estudantes que tenham obtido um grau de bacharel na área do curso por outra escola cujo plano de estudos garanta, globalmente, uma formação correspondente à do 1.º ciclo do curso, se tal for previsto no instrumento legal de criação ou de autorização de funcionamento do curso.
 
-3 - Compete ao júri a que se refere o artigo 17.º verificar se os cursos a que se refere a alínea b2) do n.º 1 satisfazem à condição nela expressa.
+2 - Nos cursos em que o segundo ciclo se desdobre em ramos, a inscrição dos estudantes a que se refere a alínea a) do n.º 1 em cada um dos ramos pode ser condicionada a limites quantitativos, sem prejuízo de o total destes dever ser igual ou superior ao número de estudantes abrangidos.
+
+3 - Nos cursos em que o 1.º ciclo se desdobre em opções e o 2.º ciclo se desdobre em ramos, a inscrição num determinado ramo pode ser condicionada à realização de uma determinada opção no 1.º ciclo.
+
+4 - Compete ao júri a que se refere o artigo 17.º verificar se os cursos a que se referem as alíneas b2) e b3) do n.º 1 satisfazem às condições nelas expressas.
+
+> Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22.
 
 ###### Artigo 14.º — Limitações quantitativas
 
-1 - As vagas para a candidatura à matrícula e inscrição dos estudantes a que se refere a alínea b1) do artigo 13.º são fixadas pelo órgão legal e estatutariamente competente e comunicadas ao Departamento do Ensino Superior até 15 de Março de cada ano.
+1 - As vagas para a candidatura à matrícula e inscrição dos estudantes a que se referem as alíneas b1) e b2) do n.º 1 do artigo 13.º são fixadas pelo órgão legal e estatutariamente competente e comunicadas ao Departamento do Ensino Superior até 15 de Março de cada ano.
 
-2 - As vagas para a candidatura à matrícula e inscrição dos estudantes a que se refere a alínea b2) do artigo 13.º são fixadas, até 15 de Junho de cada ano, por portaria do Ministro da Educação, sob proposta do órgão legal e estatutariamente competente remetida ao Departamento do Ensino Superior até 15 de Março de cada ano.
+2 - As vagas para a candidatura à matrícula e inscrição dos estudantes a que se refere a alínea b3) do n.º 1 do artigo 13.º são fixadas, até 15 de Junho de cada ano, por portaria do Ministro da Educação, sob proposta do órgão legal e estatutariamente competente remetida ao Departamento do Ensino Superior até 15 de Março de cada ano.
 
 3 - Nos cursos cujo 2.º ciclo se encontre organizado em ramos, as vagas são fixadas por ramo.
 
 4 - As vagas do curso, e de cada ramo, se for caso disso, podem repartir-se por contingentes, nos termos a fixar pelo órgão legal e estatutariamente competente.
 
 5 - No caso previsto no número anterior, a percentagem de vagas a afectar a cada contingente, bem como as regras de reversão de vagas eventualmente não ocupadas, são igualmente fixadas pelo órgão legal e estatutariamente competente.
+
+> Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22.
 
 ###### Artigo 15.º — Concurso
 
@@ -391,9 +421,11 @@ b2) Os candidatos não admitidos à matrícula e inscrição.
 
 1 - Os prazos para a candidatura, selecção, seriação, matrícula e inscrição e reclamação são fixados anualmente por despacho do órgão legal e estatutariamente competente.
 
-2 - O despacho a que se refere o número anterior só pode ser proferido após a publicação da portaria a que se refere o n.º 2 do artigo 14.º
+2 - No que se refere às vagas fixadas nos termos da alínea b3) do n.º 1 do artigo 13.º, o despacho a que se refere o número anterior só pode ser proferido após a publicação da portaria a que se refere o n.º 2 do artigo 14.º
 
 3 - O despacho a que se refere o n.º 1 é objecto de afixação pública nas instalações da escola, bem como de publicação na 2.ª série do Diário da República, antes do início dos prazos a que o mesmo se refere.
+
+> Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22.
 
 ### CAPÍTULO III — Disposições finais
 
@@ -407,11 +439,15 @@ b2) Os candidatos não admitidos à matrícula e inscrição.
 
 1 - O instrumento legal de criação ou de autorização de funcionamento do curso pode estabelecer que por decisão do órgão legal e estatutariamente competente da escola:
 
-a) Até 25% das vagas fixadas nos termos do artigo 14.º possam ser afectadas prioritariamente a candidatos oriundos de instituições com as quais a escola, ou o instituto, se for caso disso, haja firmado protocolos de formação;
+a) Até 25% das vagas fixadas, para cada uma das alíneas b1), b2) e b3) do n.º 1 do artigo 13.º, nos termos do artigo 14.º, possam ser afectadas prioritariamente a candidatos oriundos de instituições com as quais a escola, ou o instituto, se for caso disso, haja firmado protocolos de formação;
 
-b) Até 25% das vagas fixadas nos termos do artigo 14.º possam ser afectadas prioritariamente a candidatos que desenvolvam a sua actividade profissional principal e com carácter de permanência em organismos ou instituições sediados na área de influência da escola.
+b) Até 25% das vagas fixadas, para cada uma das alíneas b1), b2) e b3) do n.º 1 do artigo 13.º, nos termos do artigo 14.º, possam ser afectadas prioritariamente a candidatos que desenvolvam a sua actividade profissional principal e com carácter de permanência em organismos ou instituições sediados na área de influência da escola.
 
 2 - A decisão a que se refere o número anterior é divulgada através do edital a que se refere o n.º 2 do artigo 18.º
+
+3 - Os limites a que se refere o n.º 1 podem, em situações devidamente fundamentadas, ser aumentados por despacho do Ministro da Educação exarado sobre proposta do órgão legal e estatutariamente competente do estabelecimento de ensino.
+
+> Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22.
 
 ###### Artigo 27.º — Supranumerários
 
@@ -420,6 +456,16 @@ b) Até 25% das vagas fixadas nos termos do artigo 14.º possam ser afectadas pr
 2 - O número de vagas deste contingente é fixado pelo órgão legal e estatutariamente competente e não pode ser superior a 10% das vagas fixadas nos termos do artigo 14.º
 
 3 - Os estudantes a que se refere o n.º 1 devem satisfazer as condições de acesso fixadas nos termos do artigo 13.º e estão sujeitos, se excederem o número de vagas fixadas nos termos do número anterior, às regras e critérios de selecção e seriação estabelecidos nos termos do artigo 16.º
+
+###### Artigo 27.º-A — Inscrição de estudantes titulares de um curso superior
+
+Os estudantes titulares de um curso superior que sejam admitidos à inscrição num curso bietápico de licenciatura ao abrigo do concurso especial a que se refere a alínea b) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 393-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1999-159115), de 2 de Outubro:
+
+a) Podem inscrever-se no 2.º ciclo independentemente da titularidade do grau de bacharel desde que o plano de estudos do curso de que são titulares garanta, globalmente, uma formação básica correspondente à do 1.º ciclo do curso;
+
+b) Podem inscrever-se simultaneamente em unidades curriculares do 1.º e do 2.º ciclos caso, de acordo com o plano de estudos próprio que lhes haja sido fixado nos termos do artigo 17.º do [Decreto-Lei n.º 393-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1999-159115), careçam de realizar unidades curriculares de ambos os ciclos para a obtenção do grau de licenciado.
+
+> Aditado pelo/a [Portaria n.º 1359/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1359-2004-561983), publicado em 2004-10-26.
 
 ###### Artigo 28.º — Órgão legal e estatutariamente competente
 

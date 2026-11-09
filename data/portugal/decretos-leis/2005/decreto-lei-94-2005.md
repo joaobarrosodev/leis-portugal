@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-11-04'
+version_history:
+  file: decreto-lei-94-2005.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-06-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-11-04'
+    amending: pt:dre:584867:por
+    amending_title: Decreto-Lei n.º 183/2005
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/94/2005/06/09/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:51:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 183/2005. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2005/decreto-lei-94-2005.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,29 +156,41 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objecto e âmbito
 
-É criada uma linha de crédito para financiamento das entidades do sector pecuário extensivo criadoras de bovinos, ovinos e caprinos, bem como das entidades que se dediquem à apicultura, com vista a compensar os custos acrescidos resultantes da escassez de pastagens e forragens, em virtude das condições climatéricas adversas verificadas desde Novembro de 2004.
+É criada uma linha de crédito para financiamento das entidades do sector pecuário extensivo criadoras de bovinos, ovinos, caprinos, suínos e equinos, bem como das entidades que se dediquem à apicultura, com vista a compensar os custos acrescidos resultantes da escassez de pastagens e forragens em virtude de condições climatéricas adversas verificadas desde Novembro de 2004.
+
+> Alterado pelo/a [Decreto-Lei n.º 183/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2005-584867), publicado em 2005-11-03.
 
 ###### Artigo 2.º — Condições de acesso
 
-1 - Têm acesso à linha de crédito referida no artigo anterior as pessoas singulares ou colectivas cujas explorações agrícolas do sector pecuário se dediquem às actividades da bovinicultura, ovinicultura, caprinicultura e apicultura e se localizem nas áreas de influência das Direcções Regionais de Agricultura de Trás-os-Montes, da Beira Interior, do Ribatejo e Oeste, do Alentejo e do Algarve.
+1 - Têm acesso à linha de crédito referida no artigo anterior as pessoas singulares ou colectivas cujas explorações agrícolas do sector pecuário se dediquem à bovinicultura, ovinicultura, caprinicultura, suinicultura, equinicultura e apicultura e se localizem nas áreas de influência das Direcções Regionais de Agricultura de Trás-os-Montes, da Beira Interior, do Ribatejo e Oeste, do Alentejo e do Algarve.
 
-2 - As pessoas singulares ou colectivas que se dediquem à apicultura devem encontrar-se registadas nos termos do [Decreto-Lei n.º 37/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2000-411874), de 14 de Março.
+2 - Podem também ter acesso à linha de crédito a que se refere o número anterior as pessoas singulares ou colectivas cujas explorações agrícolas do sector pecuário se dediquem à bovinicultura, ovinicultura, caprinicultura, suinicultura, equinicultura e apicultura e se localizem em concelhos afectados por incêndios florestais na área de influência da Direcção Regional de Agricultura da Beira Litoral.
+
+3 - Os concelhos abrangidos pelo disposto no número anterior são definidos por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+4 - As pessoas singulares ou colectivas que se dediquem à apicultura devem encontrar-se registadas nos termos do [Decreto-Lei n.º 37/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2000-411874), de 14 de Março.
+
+> Alterado pelo/a [Decreto-Lei n.º 183/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2005-584867), publicado em 2005-11-03.
 
 ###### Artigo 3.º — Montante de crédito
 
-1 - O montante global de crédito a conceder não pode exceder os 50 milhões de euros.
+1 - O montante global de crédito a conceder não pode exceder os 90 milhões de euros.
 
 2 - O montante máximo de crédito a conceder aos beneficiários, nos termos do artigo 1.º, é fixado do seguinte modo:
 
-a) (euro) 180 por fêmea da espécie bovina, com idade superior a 24 meses;
+a) (euro) 180 por fêmea das espécies bovina e equina, com idade superior a 24 meses;
 
 b) (euro) 40 por fêmea das espécies ovina e caprina, com idade superior a 12 meses ou que já tenha parido.
+
+c) (euro) 120 por porca reprodutora.
 
 3 - Relativamente à apicultura, o montante máximo de crédito a conceder aos beneficiários é de (euro) 5 por colmeia registada nos termos do [Decreto-Lei n.º 37/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2000-411874), de 14 de Março.
 
 4 - Ao montante a considerar para concessão do crédito devem ser deduzidas todas as ajudas atribuídas a título de regimes de seguro.
 
 5 - Caso o montante de crédito solicitado pelos interessados ultrapasse o limite fixado no n.º 1, os montantes a conceder a título individual são reduzidos na proporção da percentagem do montante ultrapassado.
+
+> Alterado pelo/a [Decreto-Lei n.º 183/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2005-584867), publicado em 2005-11-03.
 
 ###### Artigo 4.º — Forma do crédito
 

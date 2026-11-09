@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:400423:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-11-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f8a1bcb35ebd43d8"
+   ]
+  },
+  {
+   "date": "1995-03-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:173684:por",
+     "title": "Decreto Legislativo Regional n.º 4/95/A",
+     "published": "1995-03-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/4-1995-173684"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º"
+   ],
+   "fragments": [
+    "b4b96e4ac730524e",
+    "d7451b4ade532c5a",
+    "8a54d3b0a61ba15f",
+    "7221a6e3e6ff5a84",
+    "311111f2bac416bb",
+    "6c99d80adb24d9e1",
+    "854bc071c99eb260"
+   ]
+  }
+ ],
+ "fragments": {
+  "f8a1bcb35ebd43d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Adaptação à Região Autónoma dos Açores do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), que estabelece o regime da delimitação e da coordenação das actuações da administração central e local em matéria de investimentos públicos.\n\nA publicação do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, originou a definição do regime da delimitação e da coordenação das actuações da administração central e local em matéria de investimentos.\n\nNos termos do artigo 19.º do mesmo diploma legal, a sua aplicação às regiões autónomas será feita por decreto das respectivas assembleias regionais, com as adaptações impostas pela especificidade regional.\n\nImporta, assim, estender o regime em causa à Região, considerando devidamente as particularidades próprias dos municípios dos Açores.\n\nAssim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:\n\nArtigo 1.º O regime do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 Março, aplica-se à Região Autónoma dos Açores com as adaptações constantes dos artigos seguintes.\n\nArt. 2.º - 1 - As competências previstas na alínea c), nos n.os 2) e 3) da alínea d), na alínea e) e na alínea g) do artigo 8.º do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, serão exercidas pela administração regional autónoma, sem prejuízo de futuramente poderem vir a ser exercidas pelos municípios, nos termos do artigo 12.º do referido diploma legal.\n\n2 - A competência prevista no n.º 1) da alínea b) do artigo 8.º será exercida pelos municípios, em cooperação técnica e financeira com a administração regional autónoma, de acordo com o preceituado na lei das finanças locais.\n\nArt. 3.º É da competência dos municípios a construção de sedes para as juntas de freguesia, bem como a reparação e conservação dos estabelecimentos do ensino primário.\n\nArt. 4.º É da competência das juntas de freguesia garantir a manutenção e o funcionamento dos cemitérios das áreas rurais.\n\nArt. 5.º As referências feitas, bem como as competências atribuídas pelo [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, ao Governo da República ou aos seus serviços, consideram-se reportadas e serão exercidas, na Região, pelo Governo Regional, através dos seus departamentos.\n\nAprovado pela Assembleia Regional dos Açores em 12 de Setembro de 1984.\n\nO Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.\n\nAssinado em Angra do Heroísmo em 18 de Outubro de 1984.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva."
+  },
+  "b4b96e4ac730524e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Adaptação à Região Autónoma dos Açores do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), que estabelece o regime da delimitação e da coordenação das actuações da administração central e local em matéria de investimentos públicos.\n\nA publicação do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, originou a definição do regime da delimitação e da coordenação das actuações da administração central e local em matéria de investimentos.\n\nNos termos do artigo 19.º do mesmo diploma legal, a sua aplicação às regiões autónomas será feita por decreto das respectivas assembleias regionais, com as adaptações impostas pela especificidade regional.\n\nImporta, assim, estender o regime em causa à Região, considerando devidamente as particularidades próprias dos municípios dos Açores.\n\nAssim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:"
+  },
+  "d7451b4ade532c5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO regime do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 Março, aplica-se à Região Autónoma dos Açores com as adaptações constantes dos artigos seguintes."
+  },
+  "8a54d3b0a61ba15f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - As competências previstas na alínea c), nos n.os 2) e 3) da alínea d), na alínea e) e na alínea g) do artigo 8.º do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, serão exercidas pela administração regional autónoma, sem prejuízo de futuramente poderem vir a ser exercidas pelos municípios, nos termos do artigo 12.º do referido diploma legal.\n\n2 - A competência prevista no n.º 1) da alínea b) do artigo 8.º será exercida pelos municípios, em cooperação técnica e financeira com a administração regional autónoma, de acordo com o preceituado na lei das finanças locais."
+  },
+  "7221a6e3e6ff5a84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ da competência dos municípios a construção de sedes para as juntas de freguesia, bem como a reparação e conservação dos estabelecimentos do ensino primário."
+  },
+  "311111f2bac416bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nÉ da competência das juntas de freguesia garantir a manutenção e o funcionamento dos cemitérios das áreas rurais."
+  },
+  "6c99d80adb24d9e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs referências feitas, bem como as competências atribuídas pelo [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, ao Governo da República ou aos seus serviços, consideram-se reportadas e serão exercidas, na Região, pelo Governo Regional, através dos seus departamentos.\n\nAprovado pela Assembleia Regional dos Açores em 12 de Setembro de 1984.\n\nO Presidente da Assembleia Regional dos Açores, Álvaro Monjardino."
+  },
+  "854bc071c99eb260": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1995-03-29",
+   "changed_by": [
+    "Aditado pelo/a [Decreto Legislativo Regional n.º 4/95/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1995-173684), publicado em 1995-03-29."
+   ],
+   "markdown": "###### Artigo 6.º\n\nO disposto no artigo anterior não exclui a intervenção da administração central da realização na Região Autónoma dos Açores de investimentos públicos, mediante acordos de colaboração a celebrar pelo Governo da República com o Governo Regional e as autarquias locais.\n\n> Aditado pelo/a [Decreto Legislativo Regional n.º 4/95/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1995-173684), publicado em 1995-03-29.\n\nAssinado em Angra do Heroísmo em 18 de Outubro de 1984.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva."
+  }
+ }
+}

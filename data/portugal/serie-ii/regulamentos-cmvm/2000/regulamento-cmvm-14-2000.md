@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-04-01'
+version_history:
+  file: regulamento-cmvm-14-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-02-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-04-01'
+    amending: pt:dre:3039677:por
+    amending_title: Regulamento da CMVM n.º 3/2003
+    changes:
+    - Altera Artigo 35.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:46:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Regulamento da CMVM n.º 3/2003. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/regulamentos-cmvm/2000/regulamento-cmvm-14-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -552,23 +567,17 @@ c) Por vontade das partes.
 
 ###### Artigo 35.º — Contas de titularidade directa
 
-1 - Ainda que não se adopte o sistema previsto no n.º 2 do artigo 17.º inscrevem-se obrigatoriamente contas de titularidade directa na entidade gestora em relação aos valores mobiliários pertencentes às seguintes entidades:
+1 - Ainda que não se adopte o sistema previsto no n.º 2 do artigo 17.º, inscrevem-se obrigatoriamente junto da entidade gestora contas de titularidade directa relativas aos valores mobiliários pertencentes às seguintes entidades:
 
-a) Investidores institucionais previstos no n.º 1 do artigo 30.º do Código dos Valores Mobiliários;
+a) Instituições de investimento colectivo;
 
-b) Sociedades abertas;
-
-c) Titulares de participação qualificada em sociedade aberta;
-
-d) Consultores autónomos;
-
-e) Entidades colocadoras de unidades de participação;
-
-f) Fundos de pensões.
+b) Fundos de pensões.
 
 2 - Podem ainda abrir contas de titularidade directa as entidades que possam prestar serviços de liquidação de valores mobiliários ou outros instrumentos financeiros.
 
 3 - O somatório dos saldos das contas globais é igual à diferença entre o saldo da conta de emissão e o somatório dos saldos das contas de titularidade directa.
+
+> Alterado pelo/a [Regulamento da CMVM n.º 3/2003](https://diariodarepublica.pt/dr/detalhe/regulamento-cmvm/3-2003-3039677), publicado em 2003-04-01.
 
 ###### Artigo 36.º — Integração no sistema
 

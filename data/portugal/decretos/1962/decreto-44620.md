@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1968-06-11'
+version_history:
+  file: decreto-44620.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-10-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1968-06-11'
+    amending: pt:dre:272391:por
+    amending_title: Decreto n.º 48429
+    changes:
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:31:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 48429. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1962/decreto-44620.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -153,39 +168,69 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º É criado em Lisboa, de acordo com o disposto na alínea c) da base VI e n.º 3 da base XIV da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956, o Instituto de Estudos Sociais, destinado à investigação e ensino dos princípios informadores da política social no domínio do trabalho, da organização corporativa e da previdência.
+###### Artigo 1.º
 
-Art. 2.º Compete ao Instituto de Estudos Sociais realizar cursos regulares com a duração de três anos, em que serão ministradas noções de direito, economia política, sociologia e política social e se ensinarão as matérias relacionadas com a previdência social, os sistema corporativo, o regime de trabalho e os problemas da vida económica e social portuguesa e a estrutura e funcionamento das instituições internacionais de carácter social.
+É criado em Lisboa, de acordo com o disposto na alínea c) da base VI e n.º 3 da base XIV da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956, o Instituto de Estudos Sociais, destinado à investigação e ensino dos princípios informadores da política social no domínio do trabalho, da organização corporativa e da previdência.
 
-Art. 3.º Compete ainda ao Instituto de Estudos Sociais organizar cursos de especialização e ciclos de conferências, de nível universitário.
+###### Artigo 2.º
 
-Art. 4.º O Instituto de Estudos Sociais manterá estreita colaboração com a Universidade, com as demais instituições nacionais e estrangeiras e serviços dependentes do Ministério das Corporações e Previdência Social ou outros Ministérios interessados no ensino e na investigação dos princípios teóricos da política social ou na sua realização.
+Compete ao Instituto de Estudos Sociais realizar cursos regulares com a duração de três anos, em que serão ministradas noções de direito, economia política, sociologia e política social e se ensinarão as matérias relacionadas com a previdência social, os sistema corporativo, o regime de trabalho e os problemas da vida económica e social portuguesa e a estrutura e funcionamento das instituições internacionais de carácter social.
 
-Art. 5.º A orientação pedagógica e administrativa do Instituto de Estudos Sociais caberá a um director, que será assistido por um conselho directivo.
+###### Artigo 3.º
 
-Art. 6. º O Ministro das Corporações e Previdência Social designará de entre individualidades de reconhecida competência o director e, ouvido o conselho directivo, os professores do Instituto de Estudos Sociais.
+Compete ainda ao Instituto de Estudos Sociais organizar cursos de especialização e ciclos de conferências, de nível universitário.
 
-Art. 7.º Poderão inscrever-se nos cursos regulares do Instituto de Estudos Sociais os indivíduos que tenham, pelo menos, 16 anos e possuam alguma das seguintes habilitações:
+###### Artigo 4.º
+
+O Instituto de Estudos Sociais manterá estreita colaboração com a Universidade, com as demais instituições nacionais e estrangeiras e serviços dependentes do Ministério das Corporações e Previdência Social ou outros Ministérios interessados no ensino e na investigação dos princípios teóricos da política social ou na sua realização.
+
+###### Artigo 5.º
+
+A orientação pedagógica e administrativa do Instituto de Estudos Sociais caberá a um director, que será assistido por um conselho directivo.
+
+###### Artigo 6.º
+
+O Ministro das Corporações e Previdência Social designará de entre individualidades de reconhecida competência o director e, ouvido o conselho directivo, os professores do Instituto de Estudos Sociais.
+
+###### Artigo 7.º
+
+Poderão inscrever-se nos cursos regulares do Instituto de Estudos Sociais os indivíduos que possuam, pelo menos, algumas das seguintes habilitações:
 
 a) O curso complementar dos liceus;
 
-b) Curso dos institutos de ensino médio que habilite à admissão em escola superior;
+b) O curso dos institutos de ensino médio que habilite à admissão em escola superior.
 
-c) O curso geral dos liceus ou equivalente, desde que aprovados em exame de aptidão.
+§ único. As habilitações equivalentes a qualquer dos cursos referidos nas alíneas a) e b) deste artigo apenas permitirão a inscrição nos cursos regulares do Instituto de Estudos Sociais desde que essas equivalências sejam concedidas para efeito de sequência de estudos.
 
-Art. 8.º Os diplomados pelo Instituto de Estudos Sociais terão preferência, em igualdade de condições, no preenchimento de lugares do Ministério das Corporações e Previdência Social, nas instituições dele dependentes e nos organismos corporativos.
+> Alterado pelo/a [Decreto n.º 48429](https://diariodarepublica.pt/dr/detalhe/decreto/48429-1968-272391), publicado em 1968-06-11.
 
-Art. 9.º Os diplomados pelo Instituto de Estudos Sociais poderão também ser nomeados para os lugares dos quadros administrativos das instituições de previdência e das demais instituições dependentes do Ministério das Corporações e Previdência Social que, por determinação administrativa, devam ser providos em indivíduos que tenham curso superior.
+###### Artigo 8.º
 
-Art. 10.º As convenções colectivas e os despachos ou portarias de regulamentação de trabalho, proferidos ao abrigo do artigo 1.º do [Decreto-Lei n.º 32749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32749-1943-596513), de 15 de Abril de 1943, poderão estabelecer que os encarregados das questões do pessoal nas empresas sejam diplomados pelo Instituto de Estudos Sociais.
+Os diplomados pelo Instituto de Estudos Sociais terão preferência, em igualdade de condições, no preenchimento de lugares do Ministério das Corporações e Previdência Social, nas instituições dele dependentes e nos organismos corporativos.
 
-Art. 11.º Os diplomados pelo Instituto de Estudos Sociais poderão exercer funções de consultores em assuntos de natureza social ou de trabalho e, independentemente de procuração, representar os organismos corporativos, as empresas, os trabalhadores e os titulares de direitos estabelecidos na legislação social perante os serviços e instituições dependentes do Ministério das Corporações e Previdência Social e os organismos corporativos.
+###### Artigo 9.º
 
-Art. 12.º A nomeação e a exoneração do pessoal necessário ao funcionamento do Instituto de Estudos Sociais, bem como da fixação das remunerações, serão feitas nos termos da base XXII da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956.
+Os diplomados pelo Instituto de Estudos Sociais poderão também ser nomeados para os lugares dos quadros administrativos das instituições de previdência e das demais instituições dependentes do Ministério das Corporações e Previdência Social que, por determinação administrativa, devam ser providos em indivíduos que tenham curso superior.
 
-Art. 13.º As despesas do Instituto de Estudos Sociais serão asseguradas pelo fundo previsto no n.º 1 da base XXVI da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956.
+###### Artigo 10.º
 
-Art. 14.º O Ministro das Corporações e Previdência Social designará a comissão instaladora e fará publicar, no prazo de 30 dias, o regulamento do Instituto de Estudos Sociais.
+As convenções colectivas e os despachos ou portarias de regulamentação de trabalho, proferidos ao abrigo do artigo 1.º do [Decreto-Lei n.º 32749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32749-1943-596513), de 15 de Abril de 1943, poderão estabelecer que os encarregados das questões do pessoal nas empresas sejam diplomados pelo Instituto de Estudos Sociais.
+
+###### Artigo 11.º
+
+Os diplomados pelo Instituto de Estudos Sociais poderão exercer funções de consultores em assuntos de natureza social ou de trabalho e, independentemente de procuração, representar os organismos corporativos, as empresas, os trabalhadores e os titulares de direitos estabelecidos na legislação social perante os serviços e instituições dependentes do Ministério das Corporações e Previdência Social e os organismos corporativos.
+
+###### Artigo 12.º
+
+A nomeação e a exoneração do pessoal necessário ao funcionamento do Instituto de Estudos Sociais, bem como da fixação das remunerações, serão feitas nos termos da base XXII da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956.
+
+###### Artigo 13.º
+
+As despesas do Instituto de Estudos Sociais serão asseguradas pelo fundo previsto no n.º 1 da base XXVI da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956.
+
+###### Artigo 14.º
+
+O Ministro das Corporações e Previdência Social designará a comissão instaladora e fará publicar, no prazo de 30 dias, o regulamento do Instituto de Estudos Sociais.
 
 Publique-se e cumpra-se como nele se contém.
 

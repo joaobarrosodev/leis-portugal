@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-03-31'
+version_history:
+  file: decreto-785-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-03-31'
+    amending: pt:dre:281828:por
+    amending_title: Decreto-Lei n.º 225-E/76
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:40:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 225-E/76. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1975/decreto-785-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,7 +136,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º O n.º 2 do artigo 116.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passa a ter a seguinte redacção:
+###### Artigo 1.º
+
+O n.º 2 do artigo 116.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passa a ter a seguinte redacção:
 
 Art. 116.º - 1. ...
 
@@ -129,13 +146,21 @@ Art. 116.º - 1. ...
 
 3. ...
 
-Art. 2.º A redacção do n.º 2 do artigo 74.º do [Decreto n.º 46548](https://diariodarepublica.pt/dr/detalhe/decreto/46548-1965-510263), de 23 de Setembro de 1965, é substituída pela seguinte:
+###### Artigo 2.º
 
-Art. 74.º - 1. ...
+A redacção do n.º 2 do artigo 74.º do [Decreto n.º 46548](https://diariodarepublica.pt/dr/detalhe/decreto/46548-1965-510263), de 23 de Setembro de 1965, é substituída pela seguinte:
+
+###### Artigo 74.º
+
+1. ...
 
 2. O juro de mora é de 1,5% em relação a cada um dos meses seguintes àquele a que se referem as contribuições e até ao mês, inclusive, em que o seu pagamento seja efectuado.
 
-Art. 3.º O presente diploma produz efeitos desde 1 de Janeiro de 1976.
+###### Artigo 3.º
+
+O presente diploma produz efeitos desde 1 de Abril de 1976.
+
+> Alterado pelo/a [Decreto-Lei n.º 225-E/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-e-1976-281828), publicado em 1976-03-31.
 
 José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Jorge de Carvalho Sá Borges.
 

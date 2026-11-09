@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-11-07'
+version_history:
+  file: decreto-48914.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-03-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-11-07'
+    amending: pt:dre:215882:por
+    amending_title: Decreto n.º 49363
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:06:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 49363. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1969/decreto-48914.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -95,15 +110,21 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato para a execução da obra de «Tribunais de polícia e de execução das penas - Trabalhos de construção civil», pela importância de 41077153$80.
+###### Artigo 1.º
 
-Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
+É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato para a execução da obra de «Tribunais de polícia e de execução das penas - Trabalhos de construção civil», pela importância de 41077153$80.
 
-Em 1969 ... 24646292$20
+###### Artigo 2.º
 
-Em 1970 ... 16430861$60
+O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
 
-§ único. A importância fixada para o ano seguinte será acrescida do saldo apurado no ano que lhe antecede.
+1969 ... 25000000$00
+
+1970 ... 16077153$80
+
+§ único. A importância fixada para o ano de 1970 será acrescida do saldo eventualmente apurado no ano anterior.
+
+> Alterado pelo/a [Decreto n.º 49363](https://diariodarepublica.pt/dr/detalhe/decreto/49363-1969-215882), publicado em 1969-11-07.
 
 Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 

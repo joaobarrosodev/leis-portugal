@@ -1,0 +1,294 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:484401:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-08-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8263793e17679b99",
+    "8a3e9746ec8fd78a"
+   ]
+  },
+  {
+   "date": "1997-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:517384:por",
+     "title": "Portaria n.º 184/97",
+     "published": "1997-03-17",
+     "dre_path": "/dr/detalhe/portaria/184-1997-517384"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — Tabela de emolumentos do registo civil::4.º",
+    "Altera Artigo ANEXO — Tabela de emolumentos do registo civil::6.º",
+    "Altera Artigo ANEXO — Tabela de emolumentos do registo civil::8.º",
+    "Altera Artigo ANEXO — Tabela de emolumentos do registo civil::9.º",
+    "Altera Artigo ANEXO — Tabela de emolumentos do registo civil::10.º",
+    "Altera Artigo ANEXO — Tabela de emolumentos do registo civil::15.º",
+    "Altera Artigo ANEXO — Tabela de emolumentos do registo civil::16.º",
+    "Altera Artigo ANEXO — Tabela de emolumentos do registo civil::19.º"
+   ],
+   "fragments": [
+    "8263793e17679b99",
+    "f3c035a21e2f6baa",
+    "bcaf931a0ccf0fca",
+    "861a3986489767d4",
+    "e5b852802f6b531d",
+    "9f52cadd30e8c852",
+    "c16c5f390a1415cd",
+    "461ffa7845287917",
+    "837f0ad79f25716a",
+    "df83ae325df5d0b6",
+    "065dc72423a8ed55",
+    "fcb88e5944786e0d",
+    "61cdfca556dcbb38",
+    "e0fd5c56427a8372",
+    "5658947976ae4bb8",
+    "745c9cca12a726eb",
+    "43d4c59d427d3098",
+    "c96066df4d2dc92b",
+    "8aadb1fe0e2fea25",
+    "421cdb59b07ec662",
+    "2fceb436ba76f85f",
+    "da5598416e0c94f9",
+    "2c6e387311565060",
+    "effd278b7fc5acd7",
+    "d870d884be052eaa"
+   ]
+  }
+ ],
+ "fragments": {
+  "8263793e17679b99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Agosto\n\nA aprovação do novo Código do Registo Civil pelo [Decreto-Lei n.º 131/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1995-521238), de 6 de Junho, impõe a criação de uma nova tabela emolumentar.\n\nDe facto, as inovações introduzidas por aquele diploma, designadamente na área das novas competências atribuídas aos conservadores do registo civil, determinam alterações ao modelo existente e preconizam a revisão e reavaliação global da disciplina tabelar em vigor, por forma a obter-se um quadro emolumentar uniforme e harmonioso.\n\nAssim:\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no artigo 3.º, n.º 1, do [Decreto-Lei n.º 145/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-1985-152365), de 8 de Maio, o seguinte:\n\n1.º É aprovada a tabela de emolumentos do registo civil anexa à presente portaria e que dela faz parte integrante.\n\n2.º A presente portaria entra em vigor no dia 15 de Setembro de 1995.\n\nMinistério da Justiça.\n\nAssinada em 10 de Julho de 1995.\n\nPelo Ministro da Justiça, Maria Eduarda de Almeida Azevedo, Secretária de Estado da Justiça."
+  },
+  "8a3e9746ec8fd78a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Tabela de emolumentos do registo civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Tabela de emolumentos do registo civil\n\nArtigo 1.º Assento de nascimento ... Isento\n\nArt. 2.º Assento de declaração de maternidade ou de perfilhação ... Isento\n\nArt. 3.º - 1 - Pelo assento de casamento civil ... 2000$00\n\n2 - Assento de casamento católico ... Isento\n\n3 - Assento de casamento civil ou católico urgente... Isento\n\nArt. 4.º Assento de óbito ou de morte fetal ... Isento\n\nArt. 5.º Por cada assento requerido nos termos dos artigos 95.º ou 123.º ... 600$00\n\nArt. 6.º - 1 - Assento de transcrição efectuada nos termos do artigo 82.º ... Isento\n\n2 - Pelo assento de transcrição de qualquer acto lavrado nos termos do n.º 2 do artigo 6.º ... 2000$00\n\n3 - Assento de transcrição de nascimento lavrado no estrangeiro, perante autoridade estrangeira, respeitante a indivíduo a quem seja atribuída a nacionalidade portuguesa ou que a adquira ... Isento\n\n4 - Pelo assento de transcrição de casamento civil lavrado no estrangeiro, perante autoridade estrangeira, respeitante a nacional português ... 2000$00\n\n5 - Assento de transcrição de casamento católico, de declaração de maternidade, de perfilhação ou de óbito lavrado no estrangeiro, perante autoridade estrangeira, respeitante a nacional português ... Isento\n\n6 - Pelo assento de transcrição de qualquer acto lavrado no território de Macau ... 500$00\n\n7 - Assento de transcrição ou integração na Conservatória dos Registos Centrais de actos de registo lavrados pelos órgãos especiais do registo civil ... Isento\n\nArt. 7.º Assento reformado nos termos dos artigos 25.º e seguintes ... Isento\n\nArt. 8.º - 1 - Pela menção ou averbamento de convenção antenupcial ou de alteração de regime de bens em assento de casamento... 2000$00\n\n2 - Pelo assento de transcrição de convenção antenupcial ou de alteração do regime de bens lavrado no estrangeiro, perante autoridade estrangeira, nos termos do n.º 3 do artigo 11.º ... 2000$00\n\nArt. 9.º - 1 - Pela organização de processo de casamento ... 2000$00\n\n2 - Ao emolumento do n.º 1 acrescem:\n\na) Por cada nota de substituição de certidão lançada no processo nos termos do artigo 138.º, o emolumento correspondente à certidão dispensada;\n\nb) Pela nova publicação de editais nos termos do artigo 145.º ... 750$00\n\nc) Pelo auto de inquirição de testemunhas nos termos do artigo 141.º ... 1500$00\n\nd) Por cada auto de consentimento para casamento de menores lavrado na conservatória ... 500$00\n\ne) Pelo auto de convenção antenupcial ... 6000$00\n\n3 - Pelo certificado previsto no artigo 146.º ... 1500$00\n\nArt. 10.º - 1 - Pelo processo de justificação judicial quando requerido pelos interessados ... 2500$00\n\n2 - Pelo processo de justificação administrativa nos termos do n.º 3 do artigo 92.º ... 2500$00\n\nArt. 11.º - 1 - Processo de impedimento do casamento ... Isento\n\n2 - Pelo processo de dispensa de impedimentos matrimoniais ... 2000$00\n\n3 - Processo de suprimento de autorização para casamento de menores ... Isento\n\n4 - Processo de sanação da nulidade do casamento por falta de testemunhas ... Isento\n\n5 - Pelo processo da verificação da capacidade matrimonial e respectivo certificado ... 2000$00\n\n6 - Pelo processo de suprimento da certidão de registo ... 2000$00\n\n7 - Processo para afastamento da presunção de paternidade ... Isento\n\n8 - Processo de autorização para inscrição tardia de nascimento ... Isento\n\nArt. 12.º - 1 - Pelo processo de divórcio e de separação de pessoas e bens, por mútuo consentimento:\n\na) No acto da instauração do processo ... 7500$00\n\nb) No acto da apresentação do pedido da 2.ª conferência ... 7500$00\n\n2 - Pelo termo de reconciliação, no processo de separação, previsto no n.º 2 do artigo 1795.º-C do Código Civil ... 5000$00\n\nArt. 13.º - 1 - Pelo processo de alteração de nome ... 15000$00\n\n2 - O emolumento previsto no número anterior pertence em partes iguais à conservatória instrutora e à Conservatória dos Registos Centrais.\n\nArt. 14.º - 1 - Pela tradução de documentos realizada pelo conservador, por cada lauda da tradução ... 1000$00\n\n2 - As fracções de lauda, além da primeira, não são consideradas para fins emolumentares.\n\n3 - Pelo certificado de exactidão de tradução feita por tradutor ajuramentado ... 600$00\n\nArt. 15.º - 1 - Por cada certidão de registo ... 500$00\n\n2 - Por cada certidão negativa de registo ... 400$00\n\n3 - Sendo a certidão para fins de abono de família ou de segurança social e de nascimento para bilhete de identidade ... 300$00\n\n4 - As certidões referidas no número anterior devem mencionar o fim a que se destinam, único para que podem ser utilizadas.\n\n5 - Pela certidão de documento, além do emolumento previsto no n.º 1, acresce por cada lauda ... 100$00\n\n6 - Pela requisição de qualquer certidão a outra conservatória ... 250$00\n\nArt. 16.º - 1 - Emissão de boletim original de nascimento, casamento, óbito ou morte fetal ... Isento\n\n2 - Emissão de novo boletim de qualquer daqueles registos ... 500$00\n\nArt. 17.º - 1 - Pela requisição de cada bilhete de identidade, além do custo dos impressos respectivos ... 100$00\n\n2 - Pelo preenchimento, a pedido dos interessados, do conjunto de impressos para bilhete de identidade ... 100$00\n\nArt. 18.º - 1 - Pelo acto de casamento não urgente celebrado, a pedido das partes, fora da conservatória ou nesta, mas fora das horas regulamentares ou em sábado, domingo ou dia de feriado, além do emolumento do assento, acresce o emolumento pessoal de ... 8400$00\n\n2 - Por qualquer outro acto praticado fora da conservatória ou nesta, mas fora das horas regulamentares ou em sábado, domingo ou dia de feriado, sem prejuízo do emolumento respectivo a que houver lugar ... 2000$00\n\n3 - Os emolumentos dos números anteriores não são devidos nos actos praticados em estabelecimentos prisionais ou hospitalares nem quando os requisitantes dos actos se encontrarem na repartição, aguardando a sua vez, dentro das horas regulamentares.\n\n4 - Aos emolumentos respectivos acrescem as despesas de transporte.\n\nArt. 19.º Por cada auto de redução a escrito de declaração ou de requerimento verbal:\n\na) Para a prática de acto de registo ... 600$00\n\nb) Para fins de instauração de processo de casamento ... 600$00\n\nc) Para fins de instauração de qualquer outro processo regulado no Código do Registo Civil ... 1600$00\n\nArt. 20.º - 1 - Os emolumentos previstos nos artigos 14.º, n.º 1, 15.º, n.º 6, 17.º, n.º 2, 18.º e 19.º da presente tabela têm a natureza de emolumentos pessoais.\n\n2 - Dos emolumentos do artigo 18.º reverte:\n\na) A totalidade para o conservador ou para o seu substituto legal, se o acto for por qualquer deles presidido e lavrado;\n\nb) Dois terços para o conservador ou para o seu substituto legal e um terço para o oficial, se o acto for presidido por um daqueles e assistido e lavrado por este;\n\n3 - Os emolumentos dos artigos 14.º, n.º 1, 15.º, n.º 6, 17.º, n.º 2, e 19.º revertem em proveito dos funcionários da conservatória na proporção dos respectivos vencimentos de categoria.\n\n4 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos do número anterior é fixado por despacho do Ministro da Justiça.\n\nArt. 21.º - 1 - Para os efeitos do disposto no artigo 300.º, n.º 1, nos processos de casamento e correspondentes assentos e, bem assim, nos processos de divórcio e de separação de pessoas e bens, quando as situações económicas dos intervenientes sejam diferentes, é devido o pagamento de emolumentos se um deles não beneficiar de isenção.\n\n2 - Havendo contradição entre o conteúdo de documentos apresentados para prova das condições económicas do mesmo interveniente, atende-se, apenas, ao documento que o indicar em melhor situação.\n\nArt. 22.º - 1 - Não são devidos emolumentos nem outros encargos pela substituição ou rectificação de registo ou acto irregular ou deficiente por razão exclusivamente imputável aos serviços.\n\n2 - Os actos que não estiverem expressamente compreendidos nesta tabela são praticados a título gratuito.\n\nArt. 23.º Os artigos citados sem indicação do respectivo diploma pertencem ao Código do Registo Civil."
+  },
+  "f3c035a21e2f6baa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Tabela de emolumentos do registo civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Tabela de emolumentos do registo civil"
+  },
+  "bcaf931a0ccf0fca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAssento de nascimento ... Isento"
+  },
+  "861a3986489767d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAssento de declaração de maternidade ou de perfilhação ... Isento"
+  },
+  "e5b852802f6b531d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Pelo assento de casamento civil ... 2000$00\n\n2 - Assento de casamento católico ... Isento\n\n3 - Assento de casamento civil ou católico urgente... Isento"
+  },
+  "9f52cadd30e8c852": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1997-04-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+   ],
+   "markdown": "###### Artigo 4.º\n\nAssento de óbito ou depósito do certificado médico de morte fetal ... Isento\n\n> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+  },
+  "c16c5f390a1415cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPor cada assento requerido nos termos dos artigos 95.º ou 123.º ... 600$00"
+  },
+  "461ffa7845287917": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1997-04-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - Assento de transcrição efectuada nos termos do artigo 82.º ... Isento\n\n2 - Pelo assento de transcrição de qualquer acto lavrado nos termos do n.º 4 do artigo 6.º ... 2000$00\n\n3 - Assento de transcrição de nascimento lavrado no estrangeiro, perante autoridade estrangeira, respeitante a indivíduo a quem seja atribuída a nacionalidade portuguesa ou que a adquira ... Isento\n\n4 - Pelo assento de transcrição de casamento civil lavrado no estrangeiro, perante autoridade estrangeira, respeitante a nacional português ... 2000$00\n\n5 - Assento de transcrição de casamento católico, de declaração de maternidade, de perfilhação ou de óbito lavrado no estrangeiro, perante autoridade estrangeira, respeitante a nacional português ... Isento\n\n6 - Pelo assento de transcrição de qualquer acto lavrado no território de Macau ... 500$00\n\n7 - Assento de transcrição ou integração na Conservatória dos Registos Centrais de actos de registo lavrados pelos órgãos especiais do registo civil ... Isento\n\n> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+  },
+  "837f0ad79f25716a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAssento reformado nos termos dos artigos 25.º e seguintes ... Isento"
+  },
+  "df83ae325df5d0b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1997-04-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+   ],
+   "markdown": "###### Artigo 8.º\n\nPela menção ou averbamento de convenção antenupcial ou de alteração de regime de bens em assento de casamento ... 2000$00\n\n> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+  },
+  "065dc72423a8ed55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1997-04-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - Pela organização de processo de casamento ... 2000$00\n\n2 - Ao emolumento do n.º 1 acrescem:\n\na) Por cada nota de substituição de certidão lançada no processo nos termos do artigo 138.º, o emolumento correspondente à certidão dispensada;\n\nb) Pela nova publicação de editais nos termos do artigo 145.º ... 750$00\n\nc) Pelo auto de inquirição de testemunhas nos termos do artigo 141.º ... 1500$00\n\nd) Por cada auto de consentimento para casamento de menores lavrado na conservatória ... 500$00\n\ne) Pelo auto de convenção antenupcial ... 6000$00\n\n3 - Por cada um dos certificados previstos nos artigos 146.º e 163.º ... 1500$00\n\n> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+  },
+  "fcb88e5944786e0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1997-04-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+   ],
+   "markdown": "###### Artigo 10.º\n\n1 - Pelo processo de justificação judicial quando requerido pelos interessados ... 2500$00\n\n2 - Pelo processo de justificação administrativa requerido pelos interessados ... 2500$00\n\n> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+  },
+  "61cdfca556dcbb38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - Processo de impedimento do casamento ... Isento\n\n2 - Pelo processo de dispensa de impedimentos matrimoniais ... 2000$00\n\n3 - Processo de suprimento de autorização para casamento de menores ... Isento\n\n4 - Processo de sanação da nulidade do casamento por falta de testemunhas ... Isento\n\n5 - Pelo processo da verificação da capacidade matrimonial e respectivo certificado ... 2000$00\n\n6 - Pelo processo de suprimento da certidão de registo ... 2000$00\n\n7 - Processo para afastamento da presunção de paternidade ... Isento\n\n8 - Processo de autorização para inscrição tardia de nascimento ... Isento"
+  },
+  "e0fd5c56427a8372": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Pelo processo de divórcio e de separação de pessoas e bens, por mútuo consentimento:\n\na) No acto da instauração do processo ... 7500$00\n\nb) No acto da apresentação do pedido da 2.ª conferência ... 7500$00\n\n2 - Pelo termo de reconciliação, no processo de separação, previsto no n.º 2 do artigo 1795.º-C do Código Civil ... 5000$00"
+  },
+  "5658947976ae4bb8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - Pelo processo de alteração de nome ... 15000$00\n\n2 - O emolumento previsto no número anterior pertence em partes iguais à conservatória instrutora e à Conservatória dos Registos Centrais."
+  },
+  "745c9cca12a726eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - Pela tradução de documentos realizada pelo conservador, por cada lauda da tradução ... 1000$00\n\n2 - As fracções de lauda, além da primeira, não são consideradas para fins emolumentares.\n\n3 - Pelo certificado de exactidão de tradução feita por tradutor ajuramentado ... 600$00"
+  },
+  "43d4c59d427d3098": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1997-04-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+   ],
+   "markdown": "###### Artigo 15.º\n\n1 - Por cada certidão de registo ... 500$00\n\n2 - Por cada certidão negativa de registo ... 400$00\n\n3 - Sendo a certidão para fins de abono de família ou de segurança social e de nascimento para bilhete de identidade ... 300$00\n\n4 - As certidões referidas no número anterior devem mencionar o fim a que se destinam, único para que podem ser utilizadas.\n\n5 - Pela certidão de documento, além do emolumento previsto no n.º 1, acresce por cada lauda ... 100$00\n\n6 - Pela requisição de qualquer certidão a outra conservatória ... 250$00\n\n7 - Pelo exame de livros para fins de investigação genealógica, por cada período de duas horas de consulta ... 1000$00\n\n> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+  },
+  "c96066df4d2dc92b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1997-04-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+   ],
+   "markdown": "###### Artigo 16.º\n\n1 - Emissão de boletim original de nascimento, casamento, óbito ou morte fetal ... Isento\n\n2 - Emissão de novo boletim de qualquer dos actos referidos no número anterior ... 500$00\n\n> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+  },
+  "8aadb1fe0e2fea25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - Pela requisição de cada bilhete de identidade, além do custo dos impressos respectivos ... 100$00\n\n2 - Pelo preenchimento, a pedido dos interessados, do conjunto de impressos para bilhete de identidade ... 100$00"
+  },
+  "421cdb59b07ec662": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - Pelo acto de casamento não urgente celebrado, a pedido das partes, fora da conservatória ou nesta, mas fora das horas regulamentares ou em sábado, domingo ou dia de feriado, além do emolumento do assento, acresce o emolumento pessoal de ... 8400$00\n\n2 - Por qualquer outro acto praticado fora da conservatória ou nesta, mas fora das horas regulamentares ou em sábado, domingo ou dia de feriado, sem prejuízo do emolumento respectivo a que houver lugar ... 2000$00\n\n3 - Os emolumentos dos números anteriores não são devidos nos actos praticados em estabelecimentos prisionais ou hospitalares nem quando os requisitantes dos actos se encontrarem na repartição, aguardando a sua vez, dentro das horas regulamentares.\n\n4 - Aos emolumentos respectivos acrescem as despesas de transporte."
+  },
+  "2fceb436ba76f85f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1997-04-02",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+   ],
+   "markdown": "###### Artigo 19.º\n\nPor cada auto de redução a escrito de declaração, salvo se respeitante a assento isento ou a depósito de morte fetal, ou de requerimento verbal:\n\na) Para a prática de acto de registo ... 600$00\n\nb) Para fins de instauração de processo de casamento ... 600$00\n\nc) Para fins de instauração de qualquer outro processo regulado no Código do Registo Civil ... 1600$00\n\n> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17."
+  },
+  "da5598416e0c94f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - Os emolumentos previstos nos artigos 14.º, n.º 1, 15.º, n.º 6, 17.º, n.º 2, 18.º e 19.º da presente tabela têm a natureza de emolumentos pessoais.\n\n2 - Dos emolumentos do artigo 18.º reverte:\n\na) A totalidade para o conservador ou para o seu substituto legal, se o acto for por qualquer deles presidido e lavrado;\n\nb) Dois terços para o conservador ou para o seu substituto legal e um terço para o oficial, se o acto for presidido por um daqueles e assistido e lavrado por este;\n\n3 - Os emolumentos dos artigos 14.º, n.º 1, 15.º, n.º 6, 17.º, n.º 2, e 19.º revertem em proveito dos funcionários da conservatória na proporção dos respectivos vencimentos de categoria.\n\n4 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos do número anterior é fixado por despacho do Ministro da Justiça."
+  },
+  "2c6e387311565060": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - Para os efeitos do disposto no artigo 300.º, n.º 1, nos processos de casamento e correspondentes assentos e, bem assim, nos processos de divórcio e de separação de pessoas e bens, quando as situações económicas dos intervenientes sejam diferentes, é devido o pagamento de emolumentos se um deles não beneficiar de isenção.\n\n2 - Havendo contradição entre o conteúdo de documentos apresentados para prova das condições económicas do mesmo interveniente, atende-se, apenas, ao documento que o indicar em melhor situação."
+  },
+  "effd278b7fc5acd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - Não são devidos emolumentos nem outros encargos pela substituição ou rectificação de registo ou acto irregular ou deficiente por razão exclusivamente imputável aos serviços.\n\n2 - Os actos que não estiverem expressamente compreendidos nesta tabela são praticados a título gratuito."
+  },
+  "d870d884be052eaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs artigos citados sem indicação do respectivo diploma pertencem ao Código do Registo Civil."
+  }
+ }
+}

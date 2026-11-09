@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:561063:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1961-03-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a61c91db506ceb9f"
+   ]
+  },
+  {
+   "date": "1973-09-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:413603:por",
+     "title": "Decreto n.º 457/73",
+     "published": "1973-09-13",
+     "dre_path": "/dr/detalhe/decreto/457-1973-413603"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "40c10b90b51e720f",
+    "f05ab9edd4c85953",
+    "6283e6941e4c5e8d",
+    "4b0764f0eb8eeaf9",
+    "4cb5a1aede4eea31",
+    "2e57dd2e427d6866",
+    "b3795da78b6bd74a",
+    "77fdb344d70f7c15",
+    "7333f093c49237c0",
+    "4581c94a7febb693"
+   ]
+  }
+ ],
+ "fragments": {
+  "a61c91db506ceb9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tornando-se necessário rever os Decretos n.os 42223, de 18 de Abril de 1959, e 43050, de 6 de Julho de 1960, de modo a ajustar os vencimentos e categorias do pessoal;\n\nVisto a urgência das modificações necessárias e sob proposta do Governo de S. Tomé e Príncipe;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:\n\nArtigo 1.º O Corpo de Polícia de Segurança Pública de S. Tomé e Príncipe, criado pelo artigo 1.º do [Decreto n.º 42223](https://diariodarepublica.pt/dr/detalhe/decreto/42223-1959-585817), de 18 de Abril de 1959, passa a designar-se Corpo de Polícia de S. Tomé e Príncipe.\n\nArt. 2.º O Corpo de Polícia de S. Tomé e Príncipe passará a ter dois adjuntos, designados comandante da Polícia Urbana, ou Polícia de Segurança Pública, e comandante da Polícia Rural, ou Guarda Nacional Republicana, dependentes directamente do comandante do Corpo de Polícia.\n\nArt. 3.º O quadro e vencimento do pessoal é o descrito no mapa anexo a este diploma.\n\n§ único. Além dos referidos vencimentos, o pessoal terá os direitos e regalias concedidos aos agentes dos serviços públicos da província de idêntica categoria, subsídio de fardamento e habitação gratuita mobilada.\n\nArt. 4.º O provimento dos lugares constantes do quadro a que se refere o artigo 3.º será feito em comissão amovível, não renovável, de duração não superior a quatro anos e só poderá recair em oficiais, segundos-sargentos, primeiros-cabos, segundos-cabos e soldados da Guarda Nacional Republicana, de preferência em regime de voluntariado.\n\n§ 1.º A nomeação do pessoal da Guarda Nacional Republicana para serviço na Polícia Rural de S. Tomé e Príncipe será feita pelo Ministério do Ultramar, ouvido o Ministério do Interior, e, sempre que possível, por unidades constituídas devidamente enquadradas e comandadas.\n\n§ 2.º Finda a comissão de serviço o pessoal recolherá à Guarda Nacional Republicana, devendo ser imediatamente substituído por outro de igual categoria ou patente, por forma a dar vaga ao que regresse.\n\n§ 3.º Quando a substituição deixe de fazer-se ou seja dispensada, o pessoal que não puder ter imediato ingresso nos quadros da Guarda Nacional Republicana, por falta de vaga nos mesmos quadros, continuará, enquanto se não der a vacatura, a ser pago pela província de S. Tomé e Príncipe com os vencimentos que lhe competir no seu quadro, mas prestando o serviço que lhe for destinado pelo respectivo comando.\n\nArt. 5.º O pessoal da Guarda Nacional Republicana destacado em comissão para serviço do Corpo de Polícia de S. Tomé e Príncipe será considerado adido aos quadros da Guarda Nacional Republicana enquanto durar essa comissão.\n\nArt. 6.º O tempo de serviço prestado nos termos do artigo anterior será contado para todos os efeitos, incluindo promoção e reforma, podendo no seu decurso os agentes apresentar-se aos concursos da Guarda Nacional Republicana no continente que forem abertos para as classes superiores.\n\nArt. 7.º Fica o governador da província de S. Tomé e Príncipe autorizado no corrente ano:\n\na) A reforçar, quando para tanto dispuser dos necessários recursos, as verbas do Corpo de Polícia, quer por meio de transferências, quer por meio de abertura de créditos especiais, com as importâncias necessárias ao pagamento de vencimentos e remunerações acessórias do pessoal da Polícia Rural, utilizando como contrapartida recursos orçamentais;\n\nb) A abrir os créditos especiais necessários à construção de postos e residências do pessoal e, bem assim, ao pagamento das demais despesas de instalação dos serviços da Polícia Rural, utilizando como contrapartida os saldos das contas dos exercícios findos.\n\nArt. 8.º Compete ao governador emitir os regulamentos e expedir as instruções necessárias para a boa execução deste diploma.\n\nArt. 9.º Fica revogado o [Decreto n.º 43050](https://diariodarepublica.pt/dr/detalhe/decreto/43050-1960-502455), de 6 de Julho de 1960, e as disposições do [Decreto n.º 42223](https://diariodarepublica.pt/dr/detalhe/decreto/42223-1959-585817), de 18 de Abril de 1959, que contrariarem as do presente decreto.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 8 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves.\n\nMapa e vencimentos do pessoal da Polícia Rural do Corpo de Polícia da província de S. Tomé e Príncipe\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/03/05500/02460246.pdf)\n\nMinistério do Ultramar, 8 de Março de 1961. - O Ministro do Ultramar, Vasco Lopes Alves."
+  },
+  "40c10b90b51e720f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tornando-se necessário rever os Decretos n.os 42223, de 18 de Abril de 1959, e 43050, de 6 de Julho de 1960, de modo a ajustar os vencimentos e categorias do pessoal;\n\nVisto a urgência das modificações necessárias e sob proposta do Governo de S. Tomé e Príncipe;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:"
+  },
+  "f05ab9edd4c85953": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Corpo de Polícia de Segurança Pública de S. Tomé e Príncipe, criado pelo artigo 1.º do [Decreto n.º 42223](https://diariodarepublica.pt/dr/detalhe/decreto/42223-1959-585817), de 18 de Abril de 1959, passa a designar-se Corpo de Polícia de S. Tomé e Príncipe."
+  },
+  "6283e6941e4c5e8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Corpo de Polícia de S. Tomé e Príncipe passará a ter dois adjuntos, designados comandante da Polícia Urbana, ou Polícia de Segurança Pública, e comandante da Polícia Rural, ou Guarda Nacional Republicana, dependentes directamente do comandante do Corpo de Polícia."
+  },
+  "4b0764f0eb8eeaf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO quadro e vencimento do pessoal é o descrito no mapa anexo a este diploma.\n\n§ único. Além dos referidos vencimentos, o pessoal terá os direitos e regalias concedidos aos agentes dos serviços públicos da província de idêntica categoria, subsídio de fardamento e habitação gratuita mobilada."
+  },
+  "4cb5a1aede4eea31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1973-09-13",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 457/73](https://diariodarepublica.pt/dr/detalhe/decreto/457-1973-413603), publicado em 1973-09-13."
+   ],
+   "markdown": "###### Artigo 4.º\n\nOs lugares constantes do quadro a que se refere o artigo anterior só poderão ser providos por oficiais, sargentos, cabos e soldados da Guarda Nacional Republicana em regime de comissão voluntária ou por imposição, com preferência para a primeira.\n\n§ 1.º A comissão voluntária terá a duração de quatro anos, podendo ser prorrogada por períodos de dois anos até ao limite fixado no Estatuto do Funcionalismo Ultramarino.\n\n§ 2.º A comissão por imposição terá a duração de dois anos e poderá, a pedido, passar ao regime de voluntariado nos termos do § 1.º\n\n§ 3.º A nomeação para comissão por imposição recairá sobre os militares mais modernos em cada um dos postos requeridos.\n\n> Alterado pelo/a [Decreto n.º 457/73](https://diariodarepublica.pt/dr/detalhe/decreto/457-1973-413603), publicado em 1973-09-13."
+  },
+  "2e57dd2e427d6866": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO pessoal da Guarda Nacional Republicana destacado em comissão para serviço do Corpo de Polícia de S. Tomé e Príncipe será considerado adido aos quadros da Guarda Nacional Republicana enquanto durar essa comissão."
+  },
+  "b3795da78b6bd74a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO tempo de serviço prestado nos termos do artigo anterior será contado para todos os efeitos, incluindo promoção e reforma, podendo no seu decurso os agentes apresentar-se aos concursos da Guarda Nacional Republicana no continente que forem abertos para as classes superiores."
+  },
+  "77fdb344d70f7c15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nFica o governador da província de S. Tomé e Príncipe autorizado no corrente ano:\n\na) A reforçar, quando para tanto dispuser dos necessários recursos, as verbas do Corpo de Polícia, quer por meio de transferências, quer por meio de abertura de créditos especiais, com as importâncias necessárias ao pagamento de vencimentos e remunerações acessórias do pessoal da Polícia Rural, utilizando como contrapartida recursos orçamentais;\n\nb) A abrir os créditos especiais necessários à construção de postos e residências do pessoal e, bem assim, ao pagamento das demais despesas de instalação dos serviços da Polícia Rural, utilizando como contrapartida os saldos das contas dos exercícios findos."
+  },
+  "7333f093c49237c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nCompete ao governador emitir os regulamentos e expedir as instruções necessárias para a boa execução deste diploma."
+  },
+  "4581c94a7febb693": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nFica revogado o [Decreto n.º 43050](https://diariodarepublica.pt/dr/detalhe/decreto/43050-1960-502455), de 6 de Julho de 1960, e as disposições do [Decreto n.º 42223](https://diariodarepublica.pt/dr/detalhe/decreto/42223-1959-585817), de 18 de Abril de 1959, que contrariarem as do presente decreto.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 8 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves.\n\nMapa e vencimentos do pessoal da Polícia Rural do Corpo de Polícia da província de S. Tomé e Príncipe\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1961/03/05500/02460246.pdf)\n\nMinistério do Ultramar, 8 de Março de 1961. - O Ministro do Ultramar, Vasco Lopes Alves."
+  }
+ }
+}

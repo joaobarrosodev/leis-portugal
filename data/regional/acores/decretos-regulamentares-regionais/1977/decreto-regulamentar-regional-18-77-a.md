@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-03-22'
+version_history:
+  file: decreto-regulamentar-regional-18-77-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-04-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-03-22'
+    amending: pt:dre:383380:por
+    amending_title: Decreto Regulamentar Regional n.º 9/79/A
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:24:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    9/79/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1977/decreto-regulamentar-regional-18-77-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -108,17 +123,27 @@ Em execução do Decreto Regional n.º 3/76, de 15 de Novembro:
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-Artigo 1.º A Secretaria Regional dos Transportes e Turismo tem as seguintes direcções regionais:
+###### Artigo 1.º
+
+A Secretaria Regional dos Transportes e Turismo tem as seguintes Direcções Regionais:
 
 a) Direcção Regional dos Transportes Terrestres;
 
-b) Direcção Regional dos Transportes Marítimos e Aéreos;
+b) Direcção Regional de Portos e Transportes Marítimos;
 
-c) Direcção Regional de Turismo.
+c) Direcção Regional dos Transportes Aéreos;
 
-Art. 2.º A nomeação dos directores regionais é feita por despacho conjunto do Presidente do Governo Regional e do Secretário Regional dos Transportes e Turismo, sob proposta deste.
+d) Direcção Regional de Turismo.
 
-Art. 3.º As nomeações efectuam-se de acordo com o artigo 19.º do Decreto Regional n.º 3/76 e de entre as pessoas de reconhecida competência técnica.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1979-383380), publicado em 1979-03-22.
+
+###### Artigo 2.º
+
+A nomeação dos directores regionais é feita por despacho conjunto do Presidente do Governo Regional e do Secretário Regional dos Transportes e Turismo, sob proposta deste.
+
+###### Artigo 3.º
+
+As nomeações efectuam-se de acordo com o artigo 19.º do Decreto Regional n.º 3/76 e de entre as pessoas de reconhecida competência técnica.
 
 Aprovado em Plenário do Governo Regional em 10 de Janeiro de 1977.
 

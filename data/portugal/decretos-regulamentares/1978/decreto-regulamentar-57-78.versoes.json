@@ -1,0 +1,665 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:274219:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "40912d5b212551c5",
+    "b65b5dc0617ee6f4",
+    "84abc5ba0bd4ed3e",
+    "c66beb027cb38dbd",
+    "e9fe672ddde1d8b6",
+    "a64ba0d878d2c7c7",
+    "9b826a6f34bec836",
+    "fa0d23b119483a85",
+    "3097561eae7e1df3",
+    "4f1727b438f1381b",
+    "d526c6463cb76c77",
+    "441973b04cd851e1",
+    "135e88811b58dc78",
+    "8cb1a299b8fab7d0",
+    "d9509cbf576f4ba8",
+    "17b3df34572ddccf",
+    "f8eb1ca7f67ed6be",
+    "0d0b1dc20aecc5a3",
+    "e04c056b9cc82b75",
+    "321e2c5e2ff3ddf5",
+    "78d2e751e62f4a05",
+    "c2d71477f75d075f",
+    "acf452117e038d57",
+    "e9fe672ddde1d8b6",
+    "0229af5e94df4c9c",
+    "51fef03dfe8c88c4",
+    "470ff8582518abc4",
+    "0345b5fdefabaf71",
+    "c563b2e2f19c98ed",
+    "3fe91f441205c2dc",
+    "c18d3671d1e24587",
+    "94c31fe74b6b1770",
+    "1e7b9b874f0c0720",
+    "2bfc693f9179aaaa",
+    "5f51dd309970476e",
+    "ed3393211e6d8f3e",
+    "33aabea32c3dccc7",
+    "feefaf69b00bb141",
+    "08f71331e2ad6e76",
+    "bb358fe2818c916f",
+    "14a05d4a0a22146d"
+   ]
+  },
+  {
+   "date": "1981-10-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:561783:por",
+     "title": "Decreto Regulamentar n.º 47/81",
+     "published": "1981-10-13",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/47-1981-561783"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "40912d5b212551c5",
+    "b65b5dc0617ee6f4",
+    "fcc663da1910dd3e",
+    "c66beb027cb38dbd",
+    "e9fe672ddde1d8b6",
+    "f85804720e26bb45",
+    "86f78f672507cb2a",
+    "176fdaad48311f98",
+    "3097561eae7e1df3",
+    "4ce1edebee2ac880",
+    "f6a896692a24b132",
+    "b4e9c90f9682431f",
+    "3e1d7d18b9a1d87e",
+    "8cb1a299b8fab7d0",
+    "55df05366b3ba71e",
+    "20cd62f28ec80c93",
+    "527f1df1bce5695f",
+    "0d0b1dc20aecc5a3",
+    "08867d82f5674803",
+    "2de890d176afcddb",
+    "51bc503aef19de52",
+    "bc006a219146e199",
+    "acf452117e038d57",
+    "e9fe672ddde1d8b6",
+    "4daf9624b4a58e58",
+    "51fef03dfe8c88c4",
+    "470ff8582518abc4",
+    "091da928519c984a",
+    "ef7601a06008170c",
+    "0c1d674caf68d217",
+    "c18d3671d1e24587",
+    "adaf09e3fa2a9acd",
+    "c353a129a9193950",
+    "2bfc693f9179aaaa",
+    "6b65e1466479ae5d",
+    "ed3393211e6d8f3e",
+    "f5ac65b1bf70e1b5",
+    "0459300e0e54f1aa",
+    "826a497f34cf7c77",
+    "4d18b699881485cc",
+    "45ab447d50534b14"
+   ]
+  }
+ ],
+ "fragments": {
+  "40912d5b212551c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Dezembro\n\nEm execução do disposto no artigo 6.º do [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), de 30 de Setembro, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:\n\nRegulamento do Gabinete do Novo Hospital Central de Coimbra"
+  },
+  "b65b5dc0617ee6f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Atribuições do Gabinete",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Atribuições do Gabinete"
+  },
+  "84abc5ba0bd4ed3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — (Definição das atribuições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — (Definição das atribuições)\n\nO Gabinete do Novo Hospital Central de Coimbra, criado pelo [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), de 30 de Setembro, adiante designado por Gabinete, dispõe das competências necessárias à prossecução dos objectivos definidos naquele diploma, designadamente:\n\na) Promover a elaboração dos estudos necessários à realização da obra ou com ela relacionados;\n\nb) Coordenar a actuação dos serviços em todos os actos relacionados com os estudos e a realização do empreendimento;\n\nc) Assegurar a cooperação dos demais serviços e entidades que intervenham no estudo e na execução da obra e prestar essa cooperação aos serviços de outros departamentos do Estado, quando necessário;\n\nd) Propor medidas relativas à ocupação e às expropriações necessárias à execução da obra, incluindo estaleiros, acessos e infra-estruturas, e processar os respectivos trâmites depois das mesmas declaradas;\n\ne) Propor, quando necessário, as aquisições ou arrendamentos dos imóveis necessários ou intervir em tais actos dentro dos limites da competência que lhe é conferida legalmente;\n\nf) Dirigir e fiscalizar os trabalhos;\n\ng) Autorizar despesas e promover os respectivos pagamentos;\n\nh) Preparar, pela forma a acordar com o Ministério dos Assuntos Sociais ou o Ministério da Educação e Investigação Científica, o pessoal especializado necessário ao funcionamento do novo hospital;\n\ni) Proceder ao recrutamento e admissão do pessoal do Gabinete;\n\nj) Mediante autorização superior, enviar missões ao estrangeiro para realizarem estágios, procederem a estudos, colaborarem na elaboração de projectos e pareceres ou exercerem funções de fiscalização."
+  },
+  "c66beb027cb38dbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Conselho director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Conselho director"
+  },
+  "e9fe672ddde1d8b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "a64ba0d878d2c7c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — (Competência)\n\nAo conselho director, no exercício da competência plena estabelecida no artigo 4.º do [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), cabe, designadamente, o seguinte:\n\na) Dirigir o Gabinete;\n\nb) Coordenar a execução de todos os planos e programas superiormente aprovados;\n\nc) Elaborar os relatórios anuais de execução;\n\nd) Desenvolver outras actividades de coordenação, contrôle e demais actos julgados necessários à prossecução dos objectivos do Gabinete."
+  },
+  "9b826a6f34bec836": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — (Funcionamento)\n\n1 - O conselho director é convocado pelo seu presidente e reúne, ordinariamente, de quinze em quinze dias, com a presença do delegado do Tribunal de Contas, e, extraordinariamente, sempre que for convocado pelo presidente, quer por iniciativa deste, quer a solicitação de dois membros.\n\n2 - As deliberações do conselho director serão tomadas por maioria de votos dos seus membros presentes, em número não inferior a três, tendo o presidente voto de qualidade.\n\n3 - De todas as sessões do conselho serão elaboradas actas em livro próprio.\n\n4 - O membro do conselho director nomeado pelo Ministro da Habitação e Obras Públicas substituirá o presidente nas suas faltas e impedimentos.\n\n5 - Os restantes membros do conselho, além de participarem nas respectivas deliberações, promoverão, em conformidade com a representação dos Ministérios que os designaram, a obtenção dos esclarecimentos necessários à resolução dos problemas específicos daqueles Ministérios, podendo também ser-lhes atribuídas outras tarefas."
+  },
+  "fa0d23b119483a85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — (Abonos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — (Abonos)\n\nO delegado do Tribunal de Contas junto do conselho director terá direito a uma gratificação mensal, de quantitativo a fixar, nos termos do n.º 2 do artigo 6.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio, bem como aos abonos relativos a transportes e ajudas de custo, nos termos da lei geral."
+  },
+  "3097561eae7e1df3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Estatuto dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Estatuto dos membros"
+  },
+  "4f1727b438f1381b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — (Categoria dos membros do conselho director)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — (Categoria dos membros do conselho director)\n\nO presidente do conselho director é equiparado, para todos os efeitos, a director-geral e os restantes membros a subdirectores-gerais."
+  },
+  "d526c6463cb76c77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — (Nomeação de funcionários públicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — (Nomeação de funcionários públicos)\n\n1 - As nomeações para o conselho director, quando recaiam em funcionários públicos e estes venham exercer as respectivas funções em tempo completo, serão feitas em comissão de serviço.\n\n2 - As nomeações nas condições do número antecedente não abrirão vagas nos quadros ou mapas de origem, mantendo os funcionários, enquanto durarem as respectivas comissões, todos os direitos que tinham à data do início das funções no Gabinete, designadamente ao exercício de funções que nesse momento desempenhavam, como se permanecessem ao serviço no seu próprio quadro ou mapa, inclusive às promoções legais e à aposentação baseada na remuneração auferida no Gabinete, se a aposentação se verificar durante a comissão."
+  },
+  "441973b04cd851e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — (Exercício de funções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — (Exercício de funções)\n\n1 - Os membros do conselho director exercerão as suas funções em tempo inteiro ou em tempo parcial.\n\n2 - O presidente, bem como um ou mais dos restantes membros, a indicar oportunamente pelo Primeiro-Ministro, exercerão as suas funções em tempo inteiro.\n\n3 - Os membros que exerçam as suas funções em regime de tempo parcial poderão fazê-lo em acumulação com outro cargo ou cargos que estejam desempenhando, tendo em consideração as limitações estabelecidas na alínea a) do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969."
+  },
+  "135e88811b58dc78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — (Abonos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — (Abonos)\n\n1 - Os membros do conselho director terão direito às remunerações acessórias e a demais abonos nos mesmos termos e condições que os estabelecidos para a generalidade dos funcionários públicos.\n\n2 - Os membros do conselho director que exerçam as suas funções em regime de tempo parcial terão direito:\n\na) A uma remuneração calculada nos termos do n.º 1 do artigo 7.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio, com referência ao vencimento correspondente à letra C da escala de vencimentos do funcionalismo público;\n\nb) A ajudas de custo com referência aos vencimentos correspondentes às mesmas funções quando exercidas em tempo inteiro."
+  },
+  "8cb1a299b8fab7d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Conselho consultivo"
+  },
+  "d9509cbf576f4ba8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — (Constituição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — (Constituição)\n\n1 - O conselho director é assistido no exercício da sua competência por um conselho consultivo, que terá representantes de cada uma das seguintes entidades:\n\na) Dois pela Câmara Municipal de Coimbra, sendo um dos Serviços Municipalizados;\n\nb) Um pela Comissão de Planeamento da Região Centro;\n\nc) Um pela Direcção-Geral do Equipamento Regional e Urbano;\n\nd) Um pela Direcção-Geral do Planeamento Urbanístico;\n\ne) Um pela Direcção-Geral do Saneamento Básico;\n\nf) Um pela Junta Autónoma de Estradas;\n\ng) Um pela Direcção-Geral dos Hospitais;\n\nh) Um representante do Ministério da Educação e Investigação Científica.\n\n2 - O conselho consultivo poderá ser ainda integrado por representantes de outras entidades, designadas sob proposta do conselho director em portaria do Ministro da Habitação e Obras Públicas e ainda do Ministro responsável pelo respectivo departamento, se for caso disso."
+  },
+  "17b3df34572ddccf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º — (Funcionamento)\n\n1 - O conselho consultivo poderá ser convocado pelo presidente do conselho director para funcionar em plenário ou por secções, consoante os assuntos a tratar.\n\n2 - As reuniões do conselho consultivo serão presididas pelo presidente do conselho director e este ou o conselho consultivo poderão, quando o considerarem conveniente, solicitar a presença de membros do conselho director, funcionários do Gabinete ou quaisquer outras pessoas, a fim de prestarem ao conselho os esclarecimentos necessários.\n\n3 - De todas as reuniões serão lavradas actas em livro próprio."
+  },
+  "f8eb1ca7f67ed6be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 11.º — (Abonos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 11.º — (Abonos)\n\nOs vogais do conselho consultivos terão direito ao abono de transportes e ajudas de custo, nos termos quantitativos fixados na lei, e a senhas de presença por cada dia de reunião em que tomem parte, conforme o disposto no artigo 8.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio."
+  },
+  "0d0b1dc20aecc5a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Gestão administrativa e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Gestão administrativa e financeira"
+  },
+  "e04c056b9cc82b75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 12.º — (Fundo especial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 12.º — (Fundo especial)\n\nAs importâncias requisitadas pelo Gabinete constituirão, nos termos do n.º 2 do artigo 3.º do [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), um fundo especial, denominado «Gabinete do Novo Hospital Central de Coimbra», que será depositado na Caixa Geral de Depósitos e movimentado por meio de cheques, assinados por dois membros do conselho director, sendo um deles, obrigatoriamente, o presidente ou seu legal substituto."
+  },
+  "321e2c5e2ff3ddf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 13.º — (Encargos do Gabinete)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 13.º — (Encargos do Gabinete)\n\nConstituem encargos do Gabinete as despesas a realizar com a instalação e funcionamento dos serviços e quaisquer outras que sejam necessárias para assegurar o desempenho das suas atribuições, sem prejuízo do disposto no [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381), de 25 de Outubro."
+  },
+  "78d2e751e62f4a05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 14.º — (Fiscalização das despesas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 14.º — (Fiscalização das despesas)\n\nNo caso de parecer desfavorável do delegado do Tribunal de Contas sobre a legalidade de qualquer despesa, deverá ser organizado processo, o qual será submetido à apreciação e decisão do Conselho de Ministros."
+  },
+  "c2d71477f75d075f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 15.º — (Acção do Tribunal de Contas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 15.º — (Acção do Tribunal de Contas)\n\nA acção do Tribunal de Contas no Gabinete exerce-se por intermédio do seu delegado, ficando apenas sujeitos a visto prévio do referido Tribunal os diplomas referentes a pessoal do quadro e os contratos de material e outros encargos."
+  },
+  "acf452117e038d57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Pessoal"
+  },
+  "0229af5e94df4c9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 16.º — (Regime jurídico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 16.º — (Regime jurídico)\n\nO regime do pessoal do Gabinete, em tudo quanto não estiver especialmente previsto neste decreto, será regulado subsidiariamente pela legislação de aplicação geral aos serviços do Ministério da Habitação e Obras Públicas ou pelo regime geral do funcionalismo público."
+  },
+  "51fef03dfe8c88c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Pessoal do quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Pessoal do quadro"
+  },
+  "470ff8582518abc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Disposições gerais"
+  },
+  "0345b5fdefabaf71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 17.º — (Definição de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 17.º — (Definição de pessoal)\n\nO Gabinete disporá do pessoal constante do quadro anexo ao presente diploma."
+  },
+  "c563b2e2f19c98ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 18.º — (Natureza e extinção do quadro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 18.º — (Natureza e extinção do quadro)\n\n1 - O quadro tem natureza temporária e será extinto assim que o Gabinete realize os objectivos para que foi criado.\n\n2 - O pessoal provido em lugares deste quadro terá, no momento da respectiva extinção, o seguinte destino, sem prejuízo do disposto no n.º 3:\n\na) O pessoal pertencente a outros quadros e provido em comissão regressará aos lugares anteriormente exercidos;\n\nb) O restante pessoal terá o destino fixado na lei geral sobre excedentes de pessoal.\n\n3 - Para preenchimento das vagas do mapa ou do quadro do pessoal do novo hospital central de Coimbra, terá preferência o pessoal do Gabinete, sem prejuízo dos direitos adquiridos pelo pessoal do quadro dos Hospitais da Universidade de Coimbra.\n\n4 - O pessoal referido no n.º 3 será provido nas vagas das categorias que, no mapa ou quadro do novo hospital, correspondam às que vinha ocupando no Gabinete, ou, não sendo isso possível, nas que melhor se lhes ajustarem, desde que possuam, num ou outro caso, as necessárias condições legais de ingresso, designadamente as habilitações literárias exigíveis."
+  },
+  "3fe91f441205c2dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 19.º — (Abonos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 19.º — (Abonos)\n\nAo pessoal do Gabinete será também aplicável o disposto no n.º 1 e na alínea b) do n.º 2 do artigo 8.º deste diploma."
+  },
+  "c18d3671d1e24587": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Preenchimento de lugares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Preenchimento de lugares"
+  },
+  "94c31fe74b6b1770": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 20.º — (Recrutamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 20.º — (Recrutamento)\n\n1 - O recrutamento de pessoal do Gabinete será feito por escolha do conselho director de entre os funcionários ou outras pessoas com os requisitos de ingresso na função pública para a respectiva categoria e as qualificações adequadas do desempenho das funções.\n\n2 - Quando se mostre necessário, o conselho director poderá requisitar ou pedir o destacamento de pessoal de outros serviços públicos em termos idênticos aos estabelecidos no [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril."
+  },
+  "1e7b9b874f0c0720": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 21.º — (Provimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 21.º — (Provimento)\n\n1 - O pessoal não pertencente a outros quadros será contratado por períodos de um ano, automaticamente renováveis, ou assalariado, até ao termo de existência do Gabinete.\n\n2 - O pessoal já pertencente a outros quadros será nomeado em comissão pelo período de existência do Gabinete, sem prejuízo de a mesma poder ser dada por finda em qualquer momento, ou, se assim o preferir, contratado, desvinculando-se neste caso do quadro de origem, mas conservando o direito à antiguidade pelo serviço nele prestado."
+  },
+  "2bfc693f9179aaaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Pessoal não pertencente ao quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Pessoal não pertencente ao quadro"
+  },
+  "5f51dd309970476e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 22.º — (Pessoal contratado além do quadro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 22.º — (Pessoal contratado além do quadro)\n\nPoderá ser contratado pessoal além do quadro quando tal se venha a revelar necessário."
+  },
+  "ed3393211e6d8f3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais e transitórias"
+  },
+  "33aabea32c3dccc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 23.º — (Ratificação de actos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 23.º — (Ratificação de actos)\n\nConsideram-se ratificados todos os actos do conselho director conformes com a lei, designadamente o [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), de 30 de Setembro, e que não contrariem o presente diploma, praticados anteriormente à entrada em vigor deste regulamento, e como iniciadas as respectivas funções, para todos os efeitos legais, na data em que foram conferidas posses aos seus membros."
+  },
+  "feefaf69b00bb141": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 24.º — (Instalações do Gabinete)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 24.º — (Instalações do Gabinete)\n\nAlém da sua sede em Coimbra, o Gabinete disporá em Lisboa, enquanto assim for considerado necessário, de dependências das actuais instalações da Direcção-Geral das Construções Hospitalares."
+  },
+  "08f71331e2ad6e76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 25.º — (Encargos com a execução deste diploma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 25.º — (Encargos com a execução deste diploma)\n\nAté final do corrente ano, os encargos emergentes do presente diploma e do [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681) serão custeados por força de dotação já inscrita para o corrente ano no orçamento da Direcção-Geral das Construções Hospitalares ou provenientes do seu eventual reforço."
+  },
+  "bb358fe2818c916f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 26.º — (Resolução de dúvidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 26.º — (Resolução de dúvidas)\n\nAs dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Primeiro-Ministro."
+  },
+  "14a05d4a0a22146d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 27.º — (Entrada em vigor do diploma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 27.º — (Entrada em vigor do diploma)\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - João Orlindo Almeida Pina.\n\nPromulgado em 30 de Dezembro de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nQuadro do Gabinete, anexo ao Decreto Regulamentar n.º 57/78\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29907/01180122.pdf)\n\nO Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina."
+  },
+  "fcc663da1910dd3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Definição das atribuições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Definição das atribuições)\n\nO Gabinete do Novo Hospital Central de Coimbra, criado pelo [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), de 30 de Setembro, adiante designado por Gabinete, dispõe das competências necessárias à prossecução dos objectivos definidos naquele diploma, designadamente:\n\na) Promover a elaboração dos estudos necessários à realização da obra ou com ela relacionados;\n\nb) Coordenar a actuação dos serviços em todos os actos relacionados com os estudos e a realização do empreendimento;\n\nc) Assegurar a cooperação dos demais serviços e entidades que intervenham no estudo e na execução da obra e prestar essa cooperação aos serviços de outros departamentos do Estado, quando necessário;\n\nd) Propor medidas relativas à ocupação e às expropriações necessárias à execução da obra, incluindo estaleiros, acessos e infra-estruturas, e processar os respectivos trâmites depois das mesmas declaradas;\n\ne) Propor, quando necessário, as aquisições ou arrendamentos dos imóveis necessários ou intervir em tais actos dentro dos limites da competência que lhe é conferida legalmente;\n\nf) Dirigir e fiscalizar os trabalhos;\n\ng) Autorizar despesas e promover os respectivos pagamentos;\n\nh) Preparar, pela forma a acordar com o Ministério dos Assuntos Sociais ou o Ministério da Educação e Investigação Científica, o pessoal especializado necessário ao funcionamento do novo hospital;\n\ni) Proceder ao recrutamento e admissão do pessoal do Gabinete;\n\nj) Mediante autorização superior, enviar missões ao estrangeiro para realizarem estágios, procederem a estudos, colaborarem na elaboração de projectos e pareceres ou exercerem funções de fiscalização."
+  },
+  "f85804720e26bb45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Competência)\n\nAo conselho director, no exercício da competência plena estabelecida no artigo 4.º do [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), cabe, designadamente, o seguinte:\n\na) Dirigir o Gabinete;\n\nb) Coordenar a execução de todos os planos e programas superiormente aprovados;\n\nc) Elaborar os relatórios anuais de execução;\n\nd) Desenvolver outras actividades de coordenação, contrôle e demais actos julgados necessários à prossecução dos objectivos do Gabinete."
+  },
+  "86f78f672507cb2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Funcionamento)\n\n1 - O conselho director é convocado pelo seu presidente e reúne, ordinariamente, de quinze em quinze dias, com a presença do delegado do Tribunal de Contas, e, extraordinariamente, sempre que for convocado pelo presidente, quer por iniciativa deste, quer a solicitação de dois membros.\n\n2 - As deliberações do conselho director serão tomadas por maioria de votos dos seus membros presentes, em número não inferior a três, tendo o presidente voto de qualidade.\n\n3 - De todas as sessões do conselho serão elaboradas actas em livro próprio.\n\n4 - O membro do conselho director nomeado pelo Ministro da Habitação e Obras Públicas substituirá o presidente nas suas faltas e impedimentos.\n\n5 - Os restantes membros do conselho, além de participarem nas respectivas deliberações, promoverão, em conformidade com a representação dos Ministérios que os designaram, a obtenção dos esclarecimentos necessários à resolução dos problemas específicos daqueles Ministérios, podendo também ser-lhes atribuídas outras tarefas."
+  },
+  "176fdaad48311f98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Abonos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Abonos)\n\nO delegado do Tribunal de Contas junto do conselho director terá direito a uma gratificação mensal, de quantitativo a fixar, nos termos do n.º 2 do artigo 6.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio, bem como aos abonos relativos a transportes e ajudas de custo, nos termos da lei geral."
+  },
+  "4ce1edebee2ac880": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Categoria dos membros do conselho director)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Categoria dos membros do conselho director)\n\nO presidente do conselho director é equiparado, para todos os efeitos, a director-geral e os restantes membros a subdirectores-gerais."
+  },
+  "f6a896692a24b132": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Nomeação de funcionários públicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Nomeação de funcionários públicos)\n\n1 - As nomeações para o conselho director, quando recaiam em funcionários públicos e estes venham exercer as respectivas funções em tempo completo, serão feitas em comissão de serviço.\n\n2 - As nomeações nas condições do número antecedente não abrirão vagas nos quadros ou mapas de origem, mantendo os funcionários, enquanto durarem as respectivas comissões, todos os direitos que tinham à data do início das funções no Gabinete, designadamente ao exercício de funções que nesse momento desempenhavam, como se permanecessem ao serviço no seu próprio quadro ou mapa, inclusive às promoções legais e à aposentação baseada na remuneração auferida no Gabinete, se a aposentação se verificar durante a comissão."
+  },
+  "b4e9c90f9682431f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Exercício de funções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Exercício de funções)\n\n1 - Os membros do conselho director exercerão as suas funções em tempo inteiro ou em tempo parcial.\n\n2 - O presidente, bem como um ou mais dos restantes membros, a indicar oportunamente pelo Primeiro-Ministro, exercerão as suas funções em tempo inteiro.\n\n3 - Os membros que exerçam as suas funções em regime de tempo parcial poderão fazê-lo em acumulação com outro cargo ou cargos que estejam desempenhando, tendo em consideração as limitações estabelecidas na alínea a) do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969."
+  },
+  "3e1d7d18b9a1d87e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Abonos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Abonos)\n\n1 - Os membros do conselho director terão direito às remunerações acessórias e a demais abonos nos mesmos termos e condições que os estabelecidos para a generalidade dos funcionários públicos.\n\n2 - Os membros do conselho director que exerçam as suas funções em regime de tempo parcial terão direito:\n\na) A uma remuneração calculada nos termos do n.º 1 do artigo 7.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio, com referência ao vencimento correspondente à letra C da escala de vencimentos do funcionalismo público;\n\nb) A ajudas de custo com referência aos vencimentos correspondentes às mesmas funções quando exercidas em tempo inteiro."
+  },
+  "55df05366b3ba71e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Constituição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Constituição)\n\n1 - O conselho director é assistido no exercício da sua competência por um conselho consultivo, que terá representantes de cada uma das seguintes entidades:\n\na) Dois pela Câmara Municipal de Coimbra, sendo um dos Serviços Municipalizados;\n\nb) Um pela Comissão de Planeamento da Região Centro;\n\nc) Um pela Direcção-Geral do Equipamento Regional e Urbano;\n\nd) Um pela Direcção-Geral do Planeamento Urbanístico;\n\ne) Um pela Direcção-Geral do Saneamento Básico;\n\nf) Um pela Junta Autónoma de Estradas;\n\ng) Um pela Direcção-Geral dos Hospitais;\n\nh) Um representante do Ministério da Educação e Investigação Científica.\n\n2 - O conselho consultivo poderá ser ainda integrado por representantes de outras entidades, designadas sob proposta do conselho director em portaria do Ministro da Habitação e Obras Públicas e ainda do Ministro responsável pelo respectivo departamento, se for caso disso."
+  },
+  "20cd62f28ec80c93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Funcionamento)\n\n1 - O conselho consultivo poderá ser convocado pelo presidente do conselho director para funcionar em plenário ou por secções, consoante os assuntos a tratar.\n\n2 - As reuniões do conselho consultivo serão presididas pelo presidente do conselho director e este ou o conselho consultivo poderão, quando o considerarem conveniente, solicitar a presença de membros do conselho director, funcionários do Gabinete ou quaisquer outras pessoas, a fim de prestarem ao conselho os esclarecimentos necessários.\n\n3 - De todas as reuniões serão lavradas actas em livro próprio."
+  },
+  "527f1df1bce5695f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Abonos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Abonos)\n\nOs vogais do conselho consultivos terão direito ao abono de transportes e ajudas de custo, nos termos quantitativos fixados na lei, e a senhas de presença por cada dia de reunião em que tomem parte, conforme o disposto no artigo 8.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio."
+  },
+  "08867d82f5674803": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Fundo especial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Fundo especial)\n\nAs importâncias requisitadas pelo Gabinete constituirão, nos termos do n.º 2 do artigo 3.º do [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), um fundo especial, denominado «Gabinete do Novo Hospital Central de Coimbra», que será depositado na Caixa Geral de Depósitos e movimentado por meio de cheques, assinados por dois membros do conselho director, sendo um deles, obrigatoriamente, o presidente ou seu legal substituto."
+  },
+  "2de890d176afcddb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Encargos do Gabinete)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Encargos do Gabinete)\n\nConstituem encargos do Gabinete as despesas a realizar com a instalação e funcionamento dos serviços e quaisquer outras que sejam necessárias para assegurar o desempenho das suas atribuições, sem prejuízo do disposto no [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381), de 25 de Outubro."
+  },
+  "51bc503aef19de52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Fiscalização das despesas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Fiscalização das despesas)\n\nNo caso de parecer desfavorável do delegado do Tribunal de Contas sobre a legalidade de qualquer despesa, deverá ser organizado processo, o qual será submetido à apreciação e decisão do Conselho de Ministros."
+  },
+  "bc006a219146e199": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Acção do Tribunal de Contas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Acção do Tribunal de Contas)\n\nA acção do Tribunal de Contas no Gabinete exerce-se por intermédio do seu delegado, ficando apenas sujeitos a visto prévio do referido Tribunal os diplomas referentes a pessoal do quadro e os contratos de material e outros encargos."
+  },
+  "4daf9624b4a58e58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Regime jurídico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Regime jurídico)\n\nO regime do pessoal do Gabinete, em tudo quanto não estiver especialmente previsto neste decreto, será regulado subsidiariamente pela legislação de aplicação geral aos serviços do Ministério da Habitação e Obras Públicas ou pelo regime geral do funcionalismo público."
+  },
+  "091da928519c984a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Definição de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Definição de pessoal)\n\nO Gabinete disporá do pessoal constante do quadro anexo ao presente diploma."
+  },
+  "ef7601a06008170c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Natureza e extinção do quadro)",
+   "in_force_from": "1981-10-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13."
+   ],
+   "markdown": "###### Artigo 18.º — (Natureza e extinção do quadro)\n\n1 - O quadro tem natureza temporária e será extinto assim que o Gabinete realize os objectivos para que foi criado.\n\n2 - O pessoal do Gabinete terá, no momento da respectiva extinção, o seguinte destino, sem prejuízo do disposto no n.º 3:\n\na) O pessoal pertencente a outros quadros regressará aos lugares e serviços de origem;\n\nb) O restante pessoal terá o destino fixado na lei geral sobre excedentes de pessoal.\n\n3 - Para preenchimento das vagas do mapa ou do quadro do pessoal do novo hospital central de Coimbra, terá preferência o pessoal do Gabinete, sem prejuízo dos direitos adquiridos pelo pessoal do quadro dos Hospitais da Universidade de Coimbra.\n\n4 - O pessoal referido no n.º 3 será provido nas vagas das categorias que, no mapa ou quadro do novo hospital, correspondam às que vinha ocupando no Gabinete, ou, não sendo isso possível, nas que melhor se lhes ajustarem, desde que possuam, num ou outro caso, as necessárias condições legais de ingresso, designadamente as habilitações literárias exigíveis.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13."
+  },
+  "0c1d674caf68d217": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Abonos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Abonos)\n\nAo pessoal do Gabinete será também aplicável o disposto no n.º 1 e na alínea b) do n.º 2 do artigo 8.º deste diploma."
+  },
+  "adaf09e3fa2a9acd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Recrutamento)",
+   "in_force_from": "1981-10-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13."
+   ],
+   "markdown": "###### Artigo 20.º — (Recrutamento)\n\nO recrutamento do pessoal do Gabinete será feito por escolha do conselho director de entre os funcionários ou outras pessoas com os requisitos de ingresso na função pública para a respectiva categoria e as qualificações adequadas ao desempenho das funções.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13."
+  },
+  "c353a129a9193950": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Provimento)",
+   "in_force_from": "1981-10-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13."
+   ],
+   "markdown": "###### Artigo 21.º — (Provimento)\n\n1 - O pessoal não vinculado a outros serviços públicos será contratado por períodos de um ano automaticamente renováveis ou assalariado até ao termo da existência do Gabinete.\n\n2 - O pessoal já vinculado a outros serviços será nomeado em comissão, nos termos do artigo anterior, pelo período de existência do Gabinete, sem prejuízo de tais situações poderem ser dadas por findas em qualquer momento.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13."
+  },
+  "6b65e1466479ae5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Pessoal além do quadro)",
+   "in_force_from": "1981-10-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13."
+   ],
+   "markdown": "###### Artigo 22.º — (Pessoal além do quadro)\n\n1 - Poderá ser contratado pessoal além dos quadros quando tal venha a revelar-se necessário.\n\n2 - O pessoal já vinculado a outros serviços poderá também, se assim o preferir, ser contratado além do quadro, desvinculando-se, neste caso, do lugar de origem, mas conservando o direito à antiguidade pelo tempo nele prestado.\n\n3 - Quando se mostre conveniente, o conselho directivo poderá promover a requisição ou pedir o destacamento do pessoal de outros serviços públicos.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13."
+  },
+  "f5ac65b1bf70e1b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Ratificação de actos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Ratificação de actos)\n\nConsideram-se ratificados todos os actos do conselho director conformes com a lei, designadamente o [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), de 30 de Setembro, e que não contrariem o presente diploma, praticados anteriormente à entrada em vigor deste regulamento, e como iniciadas as respectivas funções, para todos os efeitos legais, na data em que foram conferidas posses aos seus membros."
+  },
+  "0459300e0e54f1aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Instalações do Gabinete)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Instalações do Gabinete)\n\nAlém da sua sede em Coimbra, o Gabinete disporá em Lisboa, enquanto assim for considerado necessário, de dependências das actuais instalações da Direcção-Geral das Construções Hospitalares."
+  },
+  "826a497f34cf7c77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Encargos com a execução deste diploma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Encargos com a execução deste diploma)\n\nAté final do corrente ano, os encargos emergentes do presente diploma e do [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681) serão custeados por força de dotação já inscrita para o corrente ano no orçamento da Direcção-Geral das Construções Hospitalares ou provenientes do seu eventual reforço."
+  },
+  "4d18b699881485cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Resolução de dúvidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Resolução de dúvidas)\n\nAs dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Primeiro-Ministro."
+  },
+  "45ab447d50534b14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — (Entrada em vigor do diploma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Entrada em vigor do diploma)\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - João Orlindo Almeida Pina.\n\nPromulgado em 30 de Dezembro de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nQuadro do Gabinete, anexo ao Decreto Regulamentar n.º 57/78\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/12/29907/01180122.pdf)\n\nO Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Ministro da Habitação e Obras Públicas, João Orlindo Almeida Pina."
+  }
+ }
+}

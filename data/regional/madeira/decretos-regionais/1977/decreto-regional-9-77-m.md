@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-08-28'
+version_history:
+  file: decreto-regional-9-77-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-07-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-08-28'
+    amending: pt:dre:378565:por
+    amending_title: Decreto Regional n.º 14/79/M
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:43:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regional n.º 14/79/M. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regionais/1977/decreto-regional-9-77-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,19 +147,37 @@ Até ao adequado planeamento considera-se de interesse a aplicação da discipli
 
 Assim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional decreta o seguinte:
 
-Artigo 1.º É proibida a plantação ou sementeira de pinheiros a menos de 15 m de terrenos cultivados e terras de cultura de regadio e a 25 m de prédios urbanos.
+###### Artigo 1.º
 
-§ único. Exceptuam-se do disposto neste artigo as plantações e sementeiras de pinheiros se entre estes e os terrenos, terras de regadio e prédios urbanos mediar estrada nacional ou municipal ou desnível de 4 m ou no caso de se reconhecer que a forma mais conveniente de aproveitamento do terreno em que estiverem radicadas e os terrenos dos vizinhos é a arborização com esta espécie.
+É proibida a plantação ou sementeira de pinheiros a menos de 15 m de terrenos cultivados e terras de cultura de regadio e a 25 m de prédios urbanos.
 
-Art. 2.º Até à promulgação de regulamentação regional, o processo a observar para o arranque das plantações ou sementeiras feitas com a violação do artigo 1.º é o que consta dos Decretos-Leis n.os 28039 e 28040, de 14 de Setembro de 1937.
+§ único. Exceptuam-se do disposto neste artigo as plantações e sementeiras no caso de se reconhecer que a forma mais conveniente de aproveitamento do terreno em que estiveram radicadas e dos terrenos dos vizinhos é a arborização com aquela espécie.
 
-Art. 3.º Quando se trate de plantações ou sementeiras de pinheiros feitas anteriormente à vigência do presente diploma que estejam em contradição com o artigo 1.º é reconhecido ao lesado o direito de requerer o arranque, mediante indemnização, caso a sementeira ou plantação tenha sido feita há menos de seis anos.
+> Alterado pelo/a [Decreto Regional n.º 14/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1979-378565), publicado em 1979-08-27.
 
-Art. 4.º Para efeitos do artigo 3.º só há direito à indemnização em relação a sementeiras ou plantações feitas ao abrigo de disposições legais anteriores ao presente decreto regional.
+###### Artigo 2.º
 
-Art. 5.º As funções adstritas pelo [Decreto-Lei n.º 28039](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28039-1937-434378) e pelo Decreto-Lei n.º 28040, de 14 de Setembro de 1937, ao júri avindor serão desempenhadas pelas juntas de freguesia da área onde estiverem radicadas as árvores a arrancar, com as necessárias adaptações.
+Até à promulgação de regulamentação regional, o processo a observar para o arranque das plantações ou sementeiras feitas com a violação do artigo 1.º é o que consta dos Decretos-Leis n.os 28039 e 28040, de 14 de Setembro de 1937.
 
-Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+###### Artigo 3.º
+
+1 - Quando se trate de plantações ou sementeiras de pinheiros feitas anteriormente à vigência do presente diploma e que à data da sua entrada em vigor estejam em contradição com o artigo 1.º, é reconhecido ao lesado o direito de requerer o arranque.
+
+2 - O exercício do direito previsto no número anterior dá lugar a indemnização, nos termos da legislação em vigor.
+
+> Alterado pelo/a [Decreto Regional n.º 14/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1979-378565), publicado em 1979-08-27.
+
+###### Artigo 4.º
+
+Para efeitos do artigo 3.º só há direito à indemnização em relação a sementeiras ou plantações feitas ao abrigo de disposições legais anteriores ao presente decreto regional.
+
+###### Artigo 5.º
+
+As funções adstritas pelo [Decreto-Lei n.º 28039](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28039-1937-434378) e pelo Decreto-Lei n.º 28040, de 14 de Setembro de 1937, ao júri avindor serão desempenhadas pelas juntas de freguesia da área onde estiverem radicadas as árvores a arrancar, com as necessárias adaptações.
+
+###### Artigo 6.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária de 17 de Junho de 1977.
 

@@ -1,0 +1,653 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:229116:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1970-03-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8899a2006298588a"
+   ]
+  },
+  {
+   "date": "1975-05-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146056:por",
+     "title": "Decreto-Lei n.º 637/70",
+     "published": "1970-12-22",
+     "dre_path": "/dr/detalhe/decreto-lei/637-1970-146056"
+    },
+    {
+     "id": "pt:dre:335971:por",
+     "title": "Decreto-Lei n.º 255/75",
+     "published": "1975-05-24",
+     "dre_path": "/dr/detalhe/decreto-lei/255-1975-335971"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 51.º",
+    "Altera Artigo 55.º",
+    "Altera Artigo 57.º",
+    "Altera Artigo 58.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "9dc3aff66c90c055",
+    "2ed0fa85c5068fcb",
+    "c8fda23d60642d9f",
+    "61b0ae8367f3ab6a",
+    "4c1241e8142ed1f5",
+    "650bb6634b80813e",
+    "0b0d55b8eb57653d",
+    "973a86a48742de22",
+    "087205e49aae929e",
+    "e60aff0e38b44e64",
+    "cb7319906bc3a2e5",
+    "9d4df1f7243b56cd",
+    "2c86b00a6b90da81",
+    "30946a02cbad625c",
+    "1bca65a63527e859",
+    "8f15498d8d2caabe",
+    "2cd6a38fe1c95016",
+    "aae72088bc8eb6da",
+    "5eea043be618b214",
+    "16801822f3207c40",
+    "fc0e42f4bb6dff23",
+    "0ccdf28c7d916c57",
+    "f2f59cbf56244087",
+    "d2985e1e9f38a58e",
+    "34bf0f41fa567b2a",
+    "d9b698ac2671bb1d",
+    "f13348e7401932be",
+    "815451890f8e8d30",
+    "2828c295a031fd92",
+    "c889995c9cbc9614",
+    "46ec21dbf96a290d",
+    "8f539c04c9dd89be",
+    "6529e37f2a3e85d3",
+    "1083ecf970961f59",
+    "4f1db471a8cca1f0",
+    "cb717b472ad3d7b8",
+    "3cf01bf9f9d5935d",
+    "8596b8359e353e2a",
+    "a9b6ad2768eb046c",
+    "e130132703ef972b",
+    "0218ac35910ec3ac",
+    "2224b49fbf69cd04",
+    "2bc83a3318ced65d",
+    "9190aef0fb9ae29d",
+    "ed89c084b6c59d8b",
+    "9f8d677793a0c5a3",
+    "30f7fea1b986417c",
+    "6e6bdca4c4e8cefa",
+    "6c04aeef8b23c86a",
+    "2c1ad9a59a49dbbf",
+    "aed7141ff6b583fd",
+    "ed626c3ecfac18a9",
+    "a96f6b05aea4626d",
+    "d44b16560f015cb8",
+    "69dd802d079a995b",
+    "858ef259aed8cd54",
+    "8b47c41862525804",
+    "0acf7909b56caeae",
+    "e01e8adf7a35a6f5",
+    "3fb6bc1841c719ef",
+    "e77de9e965e980cc",
+    "ecf3618fd82a39fb",
+    "8a5c4841be1aaa99",
+    "02009575648da817"
+   ]
+  }
+ ],
+ "fragments": {
+  "8899a2006298588a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1. Têm-se avolumado nos últimos anos as dificuldades de recrutamento de pessoal qualificado para o exercício de funções docentes e de investigação no ensino superior. Na verdade, se por um lado o grande aumento da população escolar exige um número cada vez maior de agentes de ensino, para que se não degrade o teor formativo das instituições universitárias, por outro as condições da remuneração e de carreira oferecidas aos possíveis candidatos à docência nem sempre são de molde a garantir o concurso dos mais aptos, solicitados muitas vezes por outras ocupações mais bem remuneradas ou de mais sedutoras perspectivas.\n\n2. São de vária ordem as questões a considerar: o nível da remuneração, as condições da prestação do serviço docente, o acesso e a promoção na carreira académica, as garantias de preparação e actualização permanente para o exercício quer da docência, quer da investigação.\n\n3. Com o presente diploma pretende-se contribuir para a resolução de algumas destas questões: nele se contém fundamentalmente um conjunto de providências de que resultará, na medida em que as actuais circunstâncias o permitem, a melhoria de situação do pessoal docente do ensino universitário, sem se prejudicar a possibilidade de virem a introduzir-se outras modificações de fundo quando se definirem, em futuro próximo, as linhas mestras da reforma geral da Universidade.\n\nPor isso mesmo só marginalmente se toca em problemas como o da prestação de serviço em regime de dedicação plena ou exclusiva, o qual será estudado simultâneamente com o da carreira de investigado na Universidade.\n\n4. Procurou-se adaptar a carreira docente universitária às condições presentes, estruturando-a por forma a possibilitar a melhor definição das missões que devem caber a cada uma das categorias e, ao mesmo tempo, o seu mais adequado escalonamento.\n\nA carreira fica dividida, em duas fases: a primeira, especialmente consagrada à preparação para o magistério e ao aprendizado dos métodos da investigação, e a segunda, ao exercício pleno daquele e à formação de investigadores.\n\nAo período inicial correspondem duas categorias: a de assistente eventual e a de assistente.\n\nA situação de assistente eventual constitui o período de formação pedagógica dos candidatos, durante o qual se apreciará a sua aptidão para a docência. A de assistente, a que se ascende mediante simples confirmação dessa aptidão, é já um período de formação científica orientado para a obtenção do grau de doutor.\n\nEste grau passa a permitir o imediato ingresso no professorado, reconhecendo-se por esta forma a importância que efectivamente deve assumir na carreira universitária.\n\nPor outro lado pretende-se valorizar oficialmente a preparação dos assistentes concedendo-se-lhes, no caso de não prosseguirem a carreira universitária, a possibilidade de ingresso directo na categoria de professores do ensino de outros graus e ainda, após o conveniente estudo dos problemas suscitados, o ingresso em carreiras de outros Ministérios.\n\nNa fase da actividades superiores da docência e da investigação estabelecem-se três categorias: professor auxiliar, professor extraordinário e professor catedrático.\n\nÀ primeira, que é a de ingresso no professorado universitário, terão normalmente acesso os assistentes doutorados.\n\nFinalmente, a existência de dois escalões mais elevados constitui um estímulo para a actualização permanente e a realização de investigação por parte dos docentes. Desde já se reconhece, porém, a necessidade de, em futuro próximo, se proceder à modificação do regime de acesso a esses escalões, de forma a torná-lo mais maleável sem diminuição do nível exigido pela índole das funções respectivas. E não deixará de se acentuar aqui a grande conveniência em propiciar uma estreita colaboração entre professores de grupos de disciplinas afins.\n\n5. Presidiu à elaboração deste diploma o objectivo constante de se evitarem os obstáculos que dificultem o progresso na carreira docente ou a colaboração de personalidades que ao ensino e à investigação possam trazer relevante contributo.\n\nDentro deste espírito, consagrou-se uma especial latitude de recrutamento dos monitores, assistentes eventuais, assistentes, leitores e professores auxiliares, o que assegurará maior flexibilidade na expansão dessas categorias. Ao mesmo tempo, oferecem-se ao docentes doutorados possibilidades de promoção, independentemente da existência de vagas nos quadros de professores extraordinários: aqueles que obtenham o título de agregado são equiparados a professores extraordinários e podem concorrer às vagas de catedrático.\n\nPrevêem-se ainda modalidades de recrutamento de pessoal docente, especialmente contratado, o que permitirá suprir deficiências que tendem a acentuar-se.\n\n6. A organização agora estabelecida correria o risco de se tornar improfícua se, a par da melhoria das condições de remuneração e de carreira, não se garantissem os meios de realização de doutoramento a todos aqueles que para tal tenham revelado capacidade. Com essa finalidade prevê-se, desde já, um sistema de atribuição generalizada de bolsas, cujo regulamento será oportunamente publicado.\n\n7. O regime definido pelo presente diploma não se apresenta, nem poderia, de resto, apresentar-se, como definitivo. Sofrerá as correcções e os aditamentos que a experiência aconselhar. Só assim, aliás, se respeita o propósito, que logo de início se afirmou, de, por agora, promulgar apenas algumas disposições que facilitem uma ampla reforma da Universidade. Nomeadamente, haverá mesmo que considerar soluções específicas para o pessoal docente de certas escolas, como o das Faculdades de Medicina nas suas relações com as carreiras médicas.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º de artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nÂmbito de aplicação do diploma\n\nArtigo 1.º - 1. O presente diploma aplica-se ao pessoal docente das Universidades metropolitanas.\n\n2. Dentro de sessenta dias, a contar da sua entrada em vigor, a Direcção-Geral do Ensino Superior e das Belas-Artes proporá as disposições necessárias para que ele possa aplicar-se às Universidades de Luanda e de Lourenço Marques.\n\n1) Categorias e funções do pessoal docente e investigador\n\nCategorias\n\nArt. 2.º - 1. As categorias de professores universitários são as seguintes: catedrático, extraordinário e auxiliar.\n\n2. Como pessoal auxiliar do ensino haverá leitores, assistentes, assistentes eventuais e monitores.\n\n3. Além das categorias referidas nos números anteriores, podem ser contratadas para prestação de serviço docente individualidades especialmente qualificadas.\n\nProfessores\n\nArt. 3.º - 1. O professor catedrático é responsável por uma disciplina, competindo-lhe:\n\na) Reger cursos teóricos ou dirigir seminários;\n\nb) Dirigir os respectivos cursos práticos trabalhos de laboratório, de campo ou de investigação;\n\nc) Coordenar, com os restantes professores catedráticos do seu grupo, os programas e o estudo e a aplicação de métodos de ensino e investigação relativos às disciplinas desse grupo.\n\n2. Ao professor extraordinário cabe:\n\na) Reger cursos teóricos ou dirigir seminários;\n\nb) Dirigir os respectivos cursos práticos e trabalhos de laboratório, de campo ou de investigação;\n\nc) Colaborar com os professores catedráticos do seu grupo na coordenação prevista na alínea c) do número anterior;\n\nd) Substituir os professores catedráticos do grupo nas suas faltas e impedimentos.\n\n3. Ao professor auxiliar compete:\n\na) Reger cursos práticos e acompanhar trabalhos de laboratório ou de campo respeitantes à sua disciplina ou às disciplinas do seu grupo;\n\nb) Realizar e acompanhar trabalhos de investigação segundo as linhas gerais estabelecidas pelos professores e catedráticos e extraordinários do grupo;\n\nc) Colaborar na coordenação prevista na alínea c) do n.º 1;\n\nd) Assegurar, quando as necessidades do serviço o impuseram, a regência de cursos teóricos ou a direcção de seminários, bem como a direcção dos respectivos cursos práticos e trabalhos de laboratório, de campo ou de investigação.\n\nGrau de doutor e título de agregado\n\nArt. 4.º - 1. As Universidades concedem, mediante prestação de provas cuja organização constará do regulamento, o grau de doutor e o título de agregado, ao quais, por si só, não corresponde o exercício de funções docentes.\n\n2. As condições de admissão às provas para o título de agregado e a sua organização são idênticas às do concurso para professor extraordinário, e o título é inerente à aprovação em mérito absoluto neste concurso.\n\n3. Os agregados chamados a prestar serviço docente têm a designação de professor agregado, com atribuições e remuneração idênticas às de professor extraordinário.\n\nLeitores\n\nArt. 5.º - 1. Os leitores são recrutados por convite dos conselhos escolares ou por concurso documental entre licenciados, bacharéis e outras pessoas idóneas, nacionais ou estrangeiras.\n\n2. Cabe aos leitores reger as disciplinas de línguas vivas, podendo ainda, quando as necessidades do serviço o impuserem, ser incumbidos da regência teórica de outras disciplinas do grupo.\n\nAssistentes e assistentes eventuais\n\nArt. 6.º - 1. Os assistentes coadjuvam os professores e desempenham as demais funções que por lei lhes forem atribuídas.\n\n2. Cabe aos assistentes, sob a orientação do professor a respectiva disciplina, reger cursos práticos, podendo ainda se incumbidos da regência de cursos teóricos quando as necessidades de serviço o impuserem.\n\n3. Cabe aos assistentes eventuais, sob a orientação do professor da respectiva disciplina, reger cursos práticos e dirigir trabalhos de laboratório ou de campo, só podendo ser incumbidos da regência de cursos teóricos nos casos previstos nos n.os 3 e 4 do artigo 58.º\n\nAssistentes livres\n\nArt. 7.º - 1. Poderá haver assistentes livres, sem direito a remuneração, nomeados pelo reitor sob proposta dos conselhos escolares.\n\n2. Os assistentes livres desempenham as funções auxiliares de ensino e de investigação que lhes forem atribuídas pelo respectivo professor, e exercem-nas sob inteira responsabilidade deste.\n\n3. A situação de assistente livre pode cessar a todo o tempo e não confere quaisquer direitos ou qualificações, mas sujeita o titular à disciplina universitária.\n\nMonitores\n\nArt. 8.º Os conselhos escolares, quando o julgarem conveniente, poderão recrutar, por convite, entre os alunos dos dois últimos anos dos cursos ou entre profissionais de actividades relacionadas com as respectivas disciplinas, monitores, aos quais compete coadjuvar os professores e os assistentes na realização dos trabalhos de que eles os incumbirem, nomeadamente em aulas práticas e trabalhos de laboratório ou de campo.\n\nPessoal especialmente contratado\n\nArt. 9.º - 1. As individualidades mencionadas no n.º 3 do artigo 2.º podem ter a categoria de professor, de leitor ou de assistente.\n\n2. Os conselhos escolares, quando as necessidades de serviço o impuserem, poderão propor o contrato, como professores, de individualidades nacionais ou estrangeiras de reconhecida competência científica ou profissional.\n\n3. Os contratados nos termos deste artigo são normalmente equiparados a professores auxiliares.\n\n4. O Ministro da Educação Nacional, sob proposta fundamentada do respectivo conselho escolar, poderá autorizar que o contratado seja equiparado a professor extraordinário ou catedrático.\n\n5. Poderá ainda o Ministro da Educação Nacional, sob proposta dos conselhos escolares, autorizar que sejam contratados para o exercício de funções docentes, em condições especiais de prestação de serviço e de remuneração, por períodos anuais renováveis, individualidades que desempenhem outras funções públicas ou privadas e cuja colaboração revista especial interesse para o ensino ou para a investigação.\n\n6. As condições a que se refere o número anterior serão fixadas em cada caso.\n\nDefinição de funções docentes\n\nArt. 10.º - 1. Sem prejuízo da coordenação exigida na alínea c) do n.º 1 do artigo 3.º, a responsabilidade dos programas dos cursos teóricos ou seminários, mesmo em caso de desdobramento, cabe a quem tiver a respectiva regência.\n\n2. Os cursos práticos serão regidos por forma a traduzirem a aplicação dos programas seguidos nos cursos teóricos respectivos.\n\nPessoal investigador\n\nArt. 11.º - 1. Nos centros e institutos de investigação das Universidades ou a elas anexos poderá exercer actividade, além do pessoal docente, pessoal exclusivamente consagrado à pesquisa científica.\n\n2. O estatuto da carreira de investigação e as relações desta com a carreira docente serão objecto de legislação especial.\n\nII) Provimento do pessoal docente\n\nProvimento dos professores\n\nArt. 12.º - 1. O provimento dos professores catedráticos e extraordinários é feito por nomeação.\n\n2. Os professores auxiliares são providos mediante contrato.\n\n3. Os professores catedráticos que não tenham exercido durante três anos, pelo menos, as funções de professor extraordinário serão nomeados por dois anos.\n\n4. Os professores extraordinários são nomeados por três anos.\n\n5. Os professores auxiliares são contratados por períodos de cinco anos.\n\nNomeação definitiva e recondução dos professores\n\nArt. 13.º - 1. Expirados os prazos dos n.os 3, 4 e 5 do artigo anterior, os professores catedráticos e os professores extraordinários serão nomeados definitivamente e os professores auxiliares reconduzidos por novo quinquénio, desde que se verifiquem as condições seguintes:\n\na) Competência, aptidão pedagógica, actualização e assiduidade no ensino;\n\nb) Publicação, no decurso dos prazos referidos, de trabalhos científicos ou didácticos considerados de mérito pelo conselho escolar respectivo.\n\n2. Quando o conselho escolar se pronuncie contra a nomeação definitiva de um professor catedrático ou extraordinário ou a recondução de um professor auxiliar, por não considerar de mérito os seus trabalhos científicos, haverá recurso para o Ministro da Educação Nacional, que decidirá com base em parecer emitido por um júri de especialistas designado para o efeito.\n\nProvimento de leitores\n\nArt. 14.º Os leitores são providos mediante contrato anual renovável por iguais períodos.\n\nProvimento dos assistentes\n\nArt. 15.º - 1. Os assistentes são providos mediante contrato trienal renovável por igual período.\n\n2. O assistente não poderá permanecer no exercício da função se, no termo do segundo período previsto no número anterior, não tiver apresentado a dissertação para o doutoramento.\n\n3. Requeridas as provas, o contrato será prorrogado até à sua realização.\n\n4. Em casos justificados, poderá o Ministro da Educação Nacional, ouvido o conselho escolar, prorrogar até um ano o prazo fixado no n.º 2.\n\n5. Os assistentes eventuais são providos mediante contrato anual, renovável por igual período de tempo se o serviço do assistente for considerado satisfatório pelo conselho escolar.\n\nProvimento dos monitores\n\nArt. 16.º Os monitores são providos mediante contrato anual renovável.\n\nProvimento do pessoal especialmente contratado\n\nArt. 17.º O pessoal a que se refere o artigo 9.º será provido mediante contrato por períodos renováveis de um ano, mas em casos especiais o contrato poderá ter duração inferior a um ano.\n\nEspecial latitude de recrutamento de certas categorias do pessoal docente\n\nArt. 18.º - 1. Os professores auxiliares, leitores, assistentes, assistentes eventuais e monitores poderão ser contratados além dos quadros, segundo as necessidades de cada escola, pelas efectivas disponibilidades das dotações para pessoal ou por força de verbas especialmente inscritas.\n\n2. Os provimentos nestes lugares consideram-se sempre efectuados por conveniência urgente de serviço, aplicando-se, independentemente dos prazos de nomeação, o disposto no [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958.\n\nComissões de serviço para o exercício das funções de assistente\n\nArt. 19.º - 1. Poderão ser contratados como assistentes professores do ensino médio ou secundário, os quais exercerão as respectivas funções em comissão de serviço e poderão optar pelo vencimento de assistente ou pelo que lhes couber no ensino médio ou secundário.\n\n2. A comissão de serviço terá a duração normal de um a três anos, renovável por períodos de um ano, até ao máximo de seis anos.\n\n3. O serviço de assistente prestado nos termos deste artigo considera-se, para todos os efeitos, como prestado no grau e ramo de ensino a que o professor pertencer.\n\nDenúncia e rescisão de contratos\n\nArt. 20.º - 1. Os contratos de professores auxiliares, leitores, assistentes, assistentes eventuais, monitores e elementos do pessoal docente especialmente contratado só poderão ser rescindidos quando se verificar qualquer dos seguintes casos:\n\na) Denúncia por qualquer das partes até trinta dias antes do termo do prazo do contrato;\n\nb) Aviso prévio de sessenta dias por parte do contratado;\n\nc) Proposta do conselho escolar, ouvido, por escrito, o interessado;\n\nd) Processo disciplinar.\n\n2. Não contam para efeito dos limites impostos ao exercício de funções docentes o tempo de prestação de serviço militar obrigatório e aquele em que o interessado estiver impedido no desempenho de outras funções oficiais dentro ou fora do País.\n\nIII) Recrutamento do pessoal docente\n\nIngresso no professorado\n\nArt. 21.º O ingresso no professorado universitário faz-se normalmente pela categoria de professor auxiliar.\n\nRecrutamento dos professores auxiliares\n\nArt. 22.º Podem ser contratados como professores auxiliares os doutores.\n\nRecrutamento dos professores extraordinários\n\nArt. 23.º - 1. Os professores extraordinários são recrutados mediante concurso de provas públicas.\n\n2. Ao concurso serão admitidos:\n\na) Os professores extraordinários do mesmo grupo de outra Universidade ou de grupo análogo de outra escola da mesma ou de diferente Universidade;\n\nb) Os professores auxiliares;\n\nc) Os agregados;\n\nd) Os doutores por Universidades portuguesas ou equiparados;\n\ne) Os professores contratados equiparados a professores extraordinários.\n\n3. Poderão ainda ser admitidas individualidades de cujo e curriculum vitae constem trabalhos profissionais ou estudos científicos sobre matérias do grupo considerados de grande mérito por deliberação de 2/3 do conselho escolar, baseada em relatório de professores, nacionais ou estrangeiros, da especialidade.\n\n4. A organização das provas do concurso constará de regulamento.\n\nRecrutamento dos professores catedráticos\n\nArt. 24.º O recrutamento dos professores catedráticos poderá realizar-se:\n\na) Por convite;\n\nb) Por transferência;\n\nc) Por concurso de provas públicas.\n\nRecrutamento por convite\n\nArt. 25.º - 1. O convite só poderá ser dirigido a individualidades cujo mérito esteja comprovado por valiosa obra científica no domínio da disciplina ou do grupo de disciplinas em causa.\n\n2. O convite fundamentar-se-á em relatório subscrito pelo mínimo de dois professores catedráticos, apresentado ao conselho escolar em sessão expressamente convocada para esse fim, com indicação do nome de individualidade a convidar, e aprovado por 4/5 do conselho escolar.\n\n3. Se o Ministro da Educação Nacional aprovar o convite, o relatório a que se refere o número anterior será publicado no Diário do Governo com o despacho de nomeação.\n\nRecrutamento por transferência\n\nArt. 26.º - 1. A transferência poderá ser requerida:\n\na) Por professor catedrático de mesmo grupo ou disciplina de outra Universidade ou de análogo grupo ou disciplina de outra escola da mesma ou de diferente Universidade;\n\nb) Por professor catedrático de outro grupo ou disciplina da mesma escola.\n\n2. Quando a transferência for requerida por professor catedrático de outro grupo ou disciplina da mesma escola, deverá o requerente juntar os trabalhos científicos que haja publicado sobre matérias respeitantes ao lugar a prover.\n\n3. O requerimento será dirigido ao Ministro da Educação Nacional, que ouvirá a escola onde se verificar a vaga.\n\n4. É condição de deferimento do pedido de transferência o parecer favorável da escola consultada, aprovado por 4/5 do conselho escolar.\n\n5. Quando um elemento do pessoal docente da escola em que existe a vaga reunir as condições legais exigidas para concorrer a esta, poderá o Ministro da Educação Nacional, a seu pedido, determinar que o processo de transferência seja imediatamente arquivado e se abra concurso.\n\nRecrutamento por concurso de provas públicas\n\nArt. 27.º - 1. Ao concurso poderão apresentar-se:\n\na) Os professores extraordinários do mesmo grupo de qualquer das Universidades;\n\nb) Os agregados do grupo em que se verifique a vaga.\n\n2. A organização das provas do concurso constará de regulamento.\n\nAbertura de concursos\n\nArt. 28.º Os reitores das Universidades deverão propor bienalmente, no mês de Julho, ao Ministro da Educação Nacional a abertura de concursos para as vagas de professor nos quadros das respectivas escolas, se os conselhos escolares não tiverem tomado essa iniciativa.\n\nRecrutamento dos assistentes eventuais\n\nArt. 29.º O recrutamento dos assistentes eventuais será feito:\n\na) Por livre escolha;\n\nb) Por concurso documental.\n\nRecrutamento dos assistentes por livre escolha\n\nArt. 30.º O recrutamento por livre escolha far-se-á, mediante proposta do professor da respectiva disciplina, aprovada pelo conselho escolar, entre pessoas que em licenciatura ou curso superior adequados tenham obtido a informação final de Bom ou Muito bom.\n\nRecrutamento dos assistentes por concurso documental\n\nArt. 31.º - 1. Os conselhos escolares poderão promover a abertura de concursos documentais para recrutamento de assistentes eventuais.\n\n2. Aos concursos serão admitidos os licenciados ou diplomados com um curso superior adequado que satisfaçam os demais requisitos especificados no edital.\n\nApreciação do serviço\n\nArt. 32.º - 1. O serviço dos assistentes eventuais será anualmente classificado pelo concelho escolar, com base em informação fundamentada do professor respectivo.\n\n2. Se o serviço não for considerado satisfatório, rescindir-se-á o contrato do assistente.\n\nRecrutamento dos assistentes\n\nArt. 33.º Os assistentes serão recrutados entre os assistentes eventuais com dois anos de serviço considerado satisfatório e os professores do ensino médio ou secundário referidos no artigo 19.º\n\nIV) Deveres e direitos do pessoal docente\n\nDeveres dos professores\n\nArt. 34.º São deveres do professor:\n\n1.º Proceder em todas as circunstâncias como cidadão exemplar;\n\n2.º Cumprir com assiduidade as obrigações docentes e desenvolver uma pedagogia activa, acompanhando os alunos na sua preparação cultural, científica e profissional e contribuindo para o desenvolvimento do seu espírito criador;\n\n3.º Actualizar permanentemente a sua cultura geral e científica;\n\n4.º Procurar, pela investigação e pela prática das ciências ensinadas, aperfeiçoar a experiência pessoal nas matérias da sua especialidade;\n\n5.º Despertar o interesse dos alunos pela cultura e pela ciência, procurando desenvolver as vocações manifestadas tanto para a docência como para a investigação;\n\n6.º Orientar a formação pedagógica e científica dos elementos de pessoal docente que trabalham sob sua direcção, assistindo a aulas por eles dadas e promovendo por outros meios o seu aperfeiçoamento profissional;\n\n7.º Publicar textos didácticos actualizados, com a regularidade aconselhável, e colaborar nas revistas e publicações da sua especialidade, de modo a permitir o conhecimento público do seu labor e a facilitar o estudo aos alunos;\n\n8.º Cooperar nas actividades circum-escolares ou de extensão cultural;\n\n9.º Acatar as ordens e instruções que lhe sejam dadas pelas autoridades competentes em matéria de administração escolar e zelar pela disciplina nas aulas e demais locais escolares;\n\n10.º Desempenhar as funções administrativas para que seja designado pelas autoridades competentes;\n\n11.º Contribuir para o normal funcionamento dos serviços, zelando pelo cumprimento de horários, participando nos actos para que tenha sido designado, comparecendo às reuniões dos conselhos de que faz parte e colaborando nos trabalho pedagógicos e administrativos para que seja solicitado;\n\n12.º Proceder de modo a incutir no espírito dos estudantes o respeito pela Pátria e pelos valores morais que alicerçam a sociedade portuguesa;\n\n13.º Conduzir com imparcial rigor científico a análise dos problemas sociais, políticos ou históricos que o exercício das suas funções docentes imponha.\n\nDeveres do pessoal auxiliar do ensino\n\nArt. 35.º O pessoal auxiliar do ensino tem o dever de colaborar com as autoridades académicas e com os professores respectivos, cumprindo-lhe observar, em tudo o que não seja excluído pela natureza das funções que exerce, o disposto no artigo anterior.\n\nAutoridades académicas\n\nArt. 36.º - 1. Os professores e o pessoal auxiliar do ensino devem obediência às ordens e instruções dadas por legítimo superior em objecto de serviço da administração escolar.\n\n2. São autoridades académicas, consideradas legítimos superiores em matéria de administração escolar, o Ministro da Educação Nacional, os reitores e vice-reitores das Universidades, os senados ou conselho universitários, os directores e subdirectores das escolas e os conselhos escolares.\n\nNúmero de aulas semanais por disciplina\n\nArt. 37.º O número de aulas teóricas e práticas a ministrar por disciplina será fixado no plano de estudos de cada escola.\n\nPrograma das disciplinas\n\nArt. 38.º - 1. Para cada disciplina haverá um programa, que, sem comprometer a liberdade de orientação científica ou pedagógica a imprimir ao ensino, fixe em termos genéricos as matérias que cabem no seu âmbito.\n\n2. A elaboração do projecto do programa compete a quem tiver a seu cargo a regência das disciplinas respectivas.\n\n3. Em cada escola os programas serão coordenados por comissões constituídas pelos professores catedráticos, extraordinários e auxiliares do grupo correspondente.\n\n4. Até 31 de Dezembro de 1970 devem estar organizados programas para todas as disciplinas, que serão revistos obrigatòriamente de dois em dois anos, podendo a revisão de qualquer deles ser antecipada pela competente comissão.\n\n5. As Universidades publicarão anualmente os programas das disciplinas das escolas que as constituem, competindo aos respectivos reitores providenciar no sentido de se manter actualizada a publicação.\n\n6. O Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação, poderá nomear comissões, constituídas por professores de diferentes escolas, para elaborarem os programas, a nível nacional.\n\nSumário das aulas teóricas\n\nArt. 39.º - 1. Quem reger aulas teóricas organizará para cada uma o sumário claro e preciso da matéria ensinada.\n\n2. Os sumários devem constituir, por ano lectivo, o desenvolvimento do programa da disciplina e a indicação das matérias obrigatórias para provas.\n\n3. Em princípio, os sumários serão levados ao conhecimento dos alunos no decurso ou no final da aula, mas, quando esse for o costume, poderão ser publicados periòdicamente dentro do ano lectivo.\n\nLiberdade científica\n\nArt. 40.º O pessoal docente goza de liberdade de orientação e de opinião científica na regência das matérias ensinadas, dentro dos programas aprovados.\n\nParticipação nos órgãos de direcção universitária\n\nArt. 41.º Os elementos do pessoal docente participarão nos órgãos universitários de harmonia com a legislação especial aplicável.\n\nFérias e licenças\n\nArt. 42.º - 1. O pessoal docente tem direito às férias que estiverem decretadas para as respectivas escolas.\n\n2. O pessoal docente poderá gozar ainda as licenças previstas para o restante funcionalismo do Estado, salva a licença para férias.\n\nFérias sabáticas\n\nArt. 43.º - 1. Os professores catedráticos, extraordinários ou auxiliares podem, no fim de cada período de seis anos de efectivo serviço, requerer dispensa das tarefas lectivas, sem perda de vencimento, por tempo não superior a um ano escolar, a fim de se dedicarem a trabalhos de investigação ou à publicação de cursos, tratados, manuais ou monografias.\n\n2. Salva justificação aceite pelo conselho escolar, o professor que, tendo beneficiado da faculdade conferida no número anterior, não apresentar os resultados do seu trabalho dentro de três anos, a contar do termo das férias sabáticas, ficará obrigado a repor os vencimentos durante elas recebidos.\n\nRegência de cursos livres\n\nArt. 44.º - 1. Os conselhos escolares poderão autorizar os professores a reger cursos livres de investigação científica ou monográficos, não incluídos no quadro das disciplinas da escola.\n\n2. A regência desses cursos será considerada, para todos os efeitos, como equivalente à regência de qualquer curso incluído no quadro das disciplinas da escola.\n\nRegência em escola diferente\n\nArt. 45.º - 1. Os professores de uma escola universitária poderão ser convidados, mediante autorização ministerial, pelo conselho escolar de outro estabelecimento da mesma categoria para nele regerem, em acumulação, qualquer disciplina da sua especialidade.\n\n2. À acumulação de regência em escola diferente são aplicáveis os preceitos que fixam a remuneração e regulam as demais condições da acumulação na própria escola.\n\nBolsas de estudo\n\nArt. 46.º - 1. O pessoal docente poderá obter bolsas de estudo no País e no estrangeiro e ser equiparado a bolseiro nos termos que forem estabelecidos por lei.\n\n2. A atribuição de bolsas de estudo para efeito de preparação do doutoramento obedecerá a regime especial.\n\nPreferência para o provimento de leitorados portugueses no estrangeiro\n\nArt. 47.º Os assistentes e os leitores de nacionalidade portuguesa das Faculdades de Letras que prepararem o doutoramento terão prioridade sobre os outros candidatos ao lugar de leitor de Português nos centros universitários estrangeiros especialmente qualificados para a sua preparação científica.\n\nAntiguidade dos elementos do pessoal docente\n\nArt. 48.º - 1. A antiguidade dos professores catedráticos e extraordinários em cada escola conta-se da data da primeira posse, nessa escola, para aquelas categorias de professor, não sendo de considerar para o efeito o tempo de serviço como professor auxiliar, assistente ou monitor.\n\n2. Quando dois ou mais professores tenham tomado a primeira posse no mesmo dia, a precedência na escola será determinada pela antiguidade do grau de doutor, e, se esta também for a mesma ou se não possuírem esse grau, pela ordem de prestação das provas no concurso de provimento ou pela ordem da publicação dos diplomas de nomeação.\n\n3. Até 30 de Junho de cada ano será publicada a lista de antiguidade do pessoal docente de cada escola, com o tempo de serviço referido a 31 de Dezembro do ano anterior.\n\n4. Os interessados poderão deduzir perante o reitor da Universidade, dentro de trinta dias, a contar da publicação da lista, as reclamações que esta lhes suscitar.\n\nPrecedências dos elementos do pessoal docente\n\nArt. 49.º - 1. Em todos os actos universitários ou escolares as precedências dos professores catedráticos e extraordinários, que não sejam reitor ou director de escola, regulam-se pela antiguidade do provimento, nos termos dos n.os 1 e 2 do artigo anterior, independentemente da escola a que os professores pertençam ou em que hajam obtido provimento pela primeira vez.\n\n2. As precedências dos professores agregados e professores auxiliares e dos leitores assistentes, assistentes eventuais e monitores são reguladas por esta ordem de categorias e, dentro delas, pela ordem de antiguidade.\n\nIngresso em outras carreiras\n\nArt. 50.º Os assistentes e os leitores de nacionalidade portuguesa com informação final de Bom ou Muito bom na licenciatura e cinco anos de bom e efectivo serviço, incluindo os de assistente eventual, poderão ingressar nos quadros dos serviços para os quais tenham habilitações, com dispensa de concurso ou Exame de Estado, nos termos que forem indicados nos diplomas regulamentares.\n\nNúmero de horas de aulas por docente\n\nArt. 51.º - 1. Às categorias de professor auxiliar, leitor, assistente e assistente eventual correspondem doze horas semanais de aula ou trabalho de seminário.\n\n2. Aos monitores correspondem seis horas semanais de aula.\n\n3. Estes limites poderão ser excedidos quando se trate de serviço relativo a provas de aproveitamento dos alunos.\n\n4. A regência de cursos teóricos por assistentes não conta para os limites fixados nos números anteriores.\n\n5. Em casos excepcionais, poderão os limites referidos no n.º 1 ser excedidos no máximo de quatro horas semanais.\n\n6. Além do serviço lectivo, o pessoal docente poderá ser encarregado de outros serviços de carácter universitário, escolar ou circum-escolar, até atingirem, com o tempo obrigatório das aulas, o limite de quatro horas diárias.\n\nServiço prestado em outras funções públicas\n\nArt. 52.º - 1. É equiparado, para todos os efeitos, ao efectivo exercício da função própria o serviço prestado pelo pessoal docente nas seguintes situações:\n\na) Presidente da República, Presidente da Assembleia Nacional, Presidente da Câmara Corporativa ou membro do Governo e Deputado à Assembleia Nacional;\n\nb) Presidente da Junta Nacional da Educação ou do Instituto de Alta Cultura, presidente do Gabinete de Estudos e Planeamento da Acção Educativa, director-geral, inspector-geral ou função equivalente em qualquer Ministério;\n\nc) Chefe do Gabinete do Ministro da Educação Nacional;\n\nd) Exercício de funções diplomáticas eventuais;\n\ne) Exercício de funções docentes no estrangeiro em missão oficial ou com autorização do Ministro da Educação Nacional;\n\nf) Exercício de funções directivas ou de investigação em institutos de investigação nacionais ou estrangeiros, quando em comissão de serviço público, em missão oficial ou com autorização do Ministro da Educação Nacional.\n\n2. O afastamento do serviço docente, em virtude do exercício de funções não referidas no número anterior, quando tenha duração superior a um ano, determina a abertura de vaga, ficando o professor na situação de supranumerário além do quadro.\n\nAposentação\n\nArt. 53.º - 1. O pessoal docente tem direito a aposentação nos termos da lei geral.\n\n2. Aos professores aposentados por limite de idade cabe a designação de professor jubilado.\n\n3. Os professores jubilados podem, com prévia aprovação do conselho escolar e sem direito a qualquer remuneração, abrir cursos respeitantes a matérias não incluídas nos planos de estudo e prosseguir trabalhos de investigação ou de direcção de publicações na Universidade ou escola a que pertencerem.\n\nOrdenados e diuturnidades\n\nArt. 54.º - 1. Os ordenados do pessoal docente são os que constam da tabela anexa ao presente diploma.\n\n2. Decorridos quinze anos sobre o exercício das funções de extraordinário ou catedrático, os professores terão direito a uma diuturnidade se do currículo respeitante a esse período constar a publicação de trabalhos científicos de mérito reconhecido pelo conselho escolar.\n\n3. No caso de o professor ter desempenhado, durante um período superior a cinco anos, alguma das funções referidas no n.º 1 do artigo 52.º ou funções de autoridade académica, a atribuição de diuturnidade não será condicionada pelo disposto na parte final do número anterior.\n\n4. Para efeitos de atribuição de diuturnidade aos professores catedráticos será contado o tempo de serviço que tenham prestado na categoria de professor extraordinário a partir da data em que nela houvessem obtido já diuturnidade.\n\n5. A remuneração a que se refere o n.º 5 do artigo 9.º, relativo ao pessoal especialmente contratado, não pode exceder 60 por cento do ordenado da categoria correspondente, fixado na tabela anexa ao presente diploma.\n\nGratificação de regências de cursos teóricos e de direcção de seminários\n\nArt. 55.º - 1. Os professores auxiliares, os leitores e os assistentes terão direito, por cada curso teórico ou seminário, à gratificação mensal de 1800$00, que lhes será abonada enquanto realizarem os correspondentes ensino e serviço de provas.\n\n2. A mesma gratificação será atribuída aos professores catedráticos e extraordinários pela regência de disciplinas ou direcção de seminários além da disciplina ou seminário por que forem normalmente responsáveis.\n\n3. Considera-se também regência, para os efeitos deste artigo, o ensino ministrado a turmas formadas por desdobramento de cursos.\n\n4. Cada elemento do pessoal docente não poderá receber mais de duas gratificações de regência.\n\nGratificação de exercício de funções directivas\n\nArt. 56.º - 1. Têm direito a gratificações os professores que exercerem as funções seguintes:\n\na) Reitor ou vice-reitor da Universidade, director, subdirector ou adjunto de director de escola universitária;\n\nb) Secretário ou bibliotecário de escola universitária;\n\nc) Director de laboratório, instituto, museu ou observatório universitários com quadros de pessoal fixados por lei e especialmente descritos no Orçamento Geral do Estado.\n\n2. As gratificações a que se refere este artigo serão fixadas por despacho conjunto dos Ministros das Finanças e da Educação Nacional.\n\nGratificação de horas extraordinárias\n\nArt. 57.º Os professores auxiliares, leitores e assistentes que prestarem mais de doze horas semanais de serviço docente, excluídos os casos dos n.os 3 e 4 do artigo 51.º, terão direito por cada hora de serviço, além daquele limite, à gratificação mensal correspondente a 1/48 do vencimento.\n\nV) Disposições finais\n\nDisposições transitórias\n\nArt. 58.º - 1. Os segundos-assistentes que à data da entrada em vigor do presente diploma tiverem, pelo menos, dois anos lectivos de serviço passam a assistentes, desde que o conselho escolar, sob proposta do respectivo professor, entenda deverem manter-se na função docente, mas os restantes segundos-assistentes ficam sujeitos ao regime definido no presente diploma para a categoria de assistente eventual.\n\n2. Em relação aos assistentes mencionados na primeira parte do número anterior, o prazo estabelecido no n.º 1 do artigo 15.º conta-se do termo do segundo ano de serviço como segundo-assistente.\n\n3. Os assistentes eventuais a que se refere a parte final do n.º 1 poderão continuar a prestar o serviço que lhes for distribuído para o ano lectivo de 1969-1970, tendo direito, no caso de lhes caber a regência de cursos teóricos, à gratificação fixada por este diploma.\n\n4. Durante o período de três anos, a contar da entrada em vigor do presente diploma, poderão outros assistentes eventuais ser encarregados, a título excepcional, da regência de cursos teóricos, com direito à gratificação respectiva.\n\n5. Os actuais primeiros-assistentes que tiverem o grau de doutor passam a professores auxiliares a partir do dia 1 do mês seguinte ao da entrada em vigor deste diploma, mas aos que tiverem simultâneamente o título de professor agregado será aplicável o disposto no n.º 3 do artigo 4.º\n\n6. Os elementos do pessoal docente contratados, ao abrigo da legislação anterior, como primeiros-assistentes, que não estejam nas condições do número antecedente, poderão manter essa categoria com as obrigações e direitos contratuais estipulados anteriormente.\n\n7. Os actuais contratados como professores, encarregados de curso, incumbidos de regência ou mestres de línguas serão integrados nas modalidades de pessoal docente especialmente contratado previstas neste diploma, ressalvando-se, porém, os direitos contratuais adquiridos e ficando a celebração de novos contratos dependente de proposta dos conselhos escolares.\n\n8. Os actuais professores de cadeiras e cursos anexos continuam a ter, para todos os efeitos, a categoria de professor extraordinário.\n\n9. Até à publicação da legislação prevista no n.º 2 do artigo 11.º serão concedidas facilidades para o contrato de professores auxiliares e de assistentes em regime de acumulação com cargos exercidos em organismos oficiais de investigação científica ou outros, nos termos do n.º 5 do artigo 9.º\n\n10. Até ao final do ano escolar de 1970-1971 poderá ser excedido, mediante autorização do Ministro da Educação Nacional, sob proposta fundamentada do conselho escolar, o limite estabelecido no n.º 4 do artigo 55.º\n\nEscolas superiores de belas-artes\n\nArt. 59.º Dentro de noventa dias, a contar da data da entrada em vigor do presente diploma, os directores das Escolas Superiores de Belas-Artes de Lisboa e do Porto apresentarão ao Ministro da Educação Nacional projectos de regime do pessoal docente dessas Escolas, em termos análogos aos consignados neste diploma para os estabelecimentos universitários.\n\nTécnica orçamental\n\nArt. 60.º - 1. Os encargos que resultem da execução do presente diploma serão satisfeitos no ano de 1970 pelas verbas consignadas a pessoal do respectivo estabelecimento de ensino superior, que, para tanto, serão consideradas como dotações globais.\n\n2. Quando esgotadas no decurso do ano de 1970 as dotações referidas no número anterior, os restantes encargos serão liquidados e pagos pela verba especificadamente inscrita para satisfação das despesas comuns resultantes da execução do presente diploma.\n\n3. O crédito especial a abrir no Orçamento Geral do Estado para 1970 com vista a ser concretizado o disposto no número anterior terá a forma de decreto referendado pelo Ministro das Finanças.\n\nColocação do pessoal\n\nArt. 61.º O Ministro da Educação Nacional fará publicar relações de pessoal com indicação das categorias a que ficam pertencendo em conformidade com o disposto no presente diploma, considerando-se os funcionários nelas integrados a partir do dia 1 do mês seguinte ao da entrada em vigor deste diploma, com dispensa das formalidades legais, incluindo o visto do Tribunal de Contas e posse.\n\nCasos omissos\n\nArt. 62.º As dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Educação Nacional, ouvido o Ministro das Finanças sempre que se trate de assuntos de carácter financeiro ou de execução administrativa com eles relacionados.\n\nEntrada em vigor\n\nArt. 63.º O presente decreto-lei entra em vigor no dia 1 de Abril de 1970.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.\n\nPromulgado em 23 de Março de 1970.\n\nPublique-se.\n\nPresidência da República, 30 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nTabela a que se refere o artigo 54.º do Decreto-Lei n.º 132/70\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/03/07400/03690376.pdf)\n\nMinistério da Educação Nacional, 23 de Março de 1970. - O Ministro da Educação Nacional, José Veiga Simão."
+  },
+  "9dc3aff66c90c055": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1. Têm-se avolumado nos últimos anos as dificuldades de recrutamento de pessoal qualificado para o exercício de funções docentes e de investigação no ensino superior. Na verdade, se por um lado o grande aumento da população escolar exige um número cada vez maior de agentes de ensino, para que se não degrade o teor formativo das instituições universitárias, por outro as condições da remuneração e de carreira oferecidas aos possíveis candidatos à docência nem sempre são de molde a garantir o concurso dos mais aptos, solicitados muitas vezes por outras ocupações mais bem remuneradas ou de mais sedutoras perspectivas.\n\n2. São de vária ordem as questões a considerar: o nível da remuneração, as condições da prestação do serviço docente, o acesso e a promoção na carreira académica, as garantias de preparação e actualização permanente para o exercício quer da docência, quer da investigação.\n\n3. Com o presente diploma pretende-se contribuir para a resolução de algumas destas questões: nele se contém fundamentalmente um conjunto de providências de que resultará, na medida em que as actuais circunstâncias o permitem, a melhoria de situação do pessoal docente do ensino universitário, sem se prejudicar a possibilidade de virem a introduzir-se outras modificações de fundo quando se definirem, em futuro próximo, as linhas mestras da reforma geral da Universidade.\n\nPor isso mesmo só marginalmente se toca em problemas como o da prestação de serviço em regime de dedicação plena ou exclusiva, o qual será estudado simultâneamente com o da carreira de investigado na Universidade.\n\n4. Procurou-se adaptar a carreira docente universitária às condições presentes, estruturando-a por forma a possibilitar a melhor definição das missões que devem caber a cada uma das categorias e, ao mesmo tempo, o seu mais adequado escalonamento.\n\nA carreira fica dividida, em duas fases: a primeira, especialmente consagrada à preparação para o magistério e ao aprendizado dos métodos da investigação, e a segunda, ao exercício pleno daquele e à formação de investigadores.\n\nAo período inicial correspondem duas categorias: a de assistente eventual e a de assistente.\n\nA situação de assistente eventual constitui o período de formação pedagógica dos candidatos, durante o qual se apreciará a sua aptidão para a docência. A de assistente, a que se ascende mediante simples confirmação dessa aptidão, é já um período de formação científica orientado para a obtenção do grau de doutor.\n\nEste grau passa a permitir o imediato ingresso no professorado, reconhecendo-se por esta forma a importância que efectivamente deve assumir na carreira universitária.\n\nPor outro lado pretende-se valorizar oficialmente a preparação dos assistentes concedendo-se-lhes, no caso de não prosseguirem a carreira universitária, a possibilidade de ingresso directo na categoria de professores do ensino de outros graus e ainda, após o conveniente estudo dos problemas suscitados, o ingresso em carreiras de outros Ministérios.\n\nNa fase da actividades superiores da docência e da investigação estabelecem-se três categorias: professor auxiliar, professor extraordinário e professor catedrático.\n\nÀ primeira, que é a de ingresso no professorado universitário, terão normalmente acesso os assistentes doutorados.\n\nFinalmente, a existência de dois escalões mais elevados constitui um estímulo para a actualização permanente e a realização de investigação por parte dos docentes. Desde já se reconhece, porém, a necessidade de, em futuro próximo, se proceder à modificação do regime de acesso a esses escalões, de forma a torná-lo mais maleável sem diminuição do nível exigido pela índole das funções respectivas. E não deixará de se acentuar aqui a grande conveniência em propiciar uma estreita colaboração entre professores de grupos de disciplinas afins.\n\n5. Presidiu à elaboração deste diploma o objectivo constante de se evitarem os obstáculos que dificultem o progresso na carreira docente ou a colaboração de personalidades que ao ensino e à investigação possam trazer relevante contributo.\n\nDentro deste espírito, consagrou-se uma especial latitude de recrutamento dos monitores, assistentes eventuais, assistentes, leitores e professores auxiliares, o que assegurará maior flexibilidade na expansão dessas categorias. Ao mesmo tempo, oferecem-se ao docentes doutorados possibilidades de promoção, independentemente da existência de vagas nos quadros de professores extraordinários: aqueles que obtenham o título de agregado são equiparados a professores extraordinários e podem concorrer às vagas de catedrático.\n\nPrevêem-se ainda modalidades de recrutamento de pessoal docente, especialmente contratado, o que permitirá suprir deficiências que tendem a acentuar-se.\n\n6. A organização agora estabelecida correria o risco de se tornar improfícua se, a par da melhoria das condições de remuneração e de carreira, não se garantissem os meios de realização de doutoramento a todos aqueles que para tal tenham revelado capacidade. Com essa finalidade prevê-se, desde já, um sistema de atribuição generalizada de bolsas, cujo regulamento será oportunamente publicado.\n\n7. O regime definido pelo presente diploma não se apresenta, nem poderia, de resto, apresentar-se, como definitivo. Sofrerá as correcções e os aditamentos que a experiência aconselhar. Só assim, aliás, se respeita o propósito, que logo de início se afirmou, de, por agora, promulgar apenas algumas disposições que facilitem uma ampla reforma da Universidade. Nomeadamente, haverá mesmo que considerar soluções específicas para o pessoal docente de certas escolas, como o das Faculdades de Medicina nas suas relações com as carreiras médicas.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º de artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nÂmbito de aplicação do diploma"
+  },
+  "2ed0fa85c5068fcb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O presente diploma aplica-se ao pessoal docente das Universidades metropolitanas.\n\n2. Dentro de sessenta dias, a contar da sua entrada em vigor, a Direcção-Geral do Ensino Superior e das Belas-Artes proporá as disposições necessárias para que ele possa aplicar-se às Universidades de Luanda e de Lourenço Marques.\n\n1) Categorias e funções do pessoal docente e investigador\n\nCategorias"
+  },
+  "c8fda23d60642d9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As categorias de professores universitários são as seguintes: catedrático, extraordinário e auxiliar.\n\n2. Como pessoal auxiliar do ensino haverá leitores, assistentes, assistentes eventuais e monitores.\n\n3. Além das categorias referidas nos números anteriores, podem ser contratadas para prestação de serviço docente individualidades especialmente qualificadas.\n\nProfessores"
+  },
+  "61b0ae8367f3ab6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O professor catedrático é responsável por uma disciplina, competindo-lhe:\n\na) Reger cursos teóricos ou dirigir seminários;\n\nb) Dirigir os respectivos cursos práticos trabalhos de laboratório, de campo ou de investigação;\n\nc) Coordenar, com os restantes professores catedráticos do seu grupo, os programas e o estudo e a aplicação de métodos de ensino e investigação relativos às disciplinas desse grupo.\n\n2. Ao professor extraordinário cabe:\n\na) Reger cursos teóricos ou dirigir seminários;\n\nb) Dirigir os respectivos cursos práticos e trabalhos de laboratório, de campo ou de investigação;\n\nc) Colaborar com os professores catedráticos do seu grupo na coordenação prevista na alínea c) do número anterior;\n\nd) Substituir os professores catedráticos do grupo nas suas faltas e impedimentos.\n\n3. Ao professor auxiliar compete:\n\na) Reger cursos práticos e acompanhar trabalhos de laboratório ou de campo respeitantes à sua disciplina ou às disciplinas do seu grupo;\n\nb) Realizar e acompanhar trabalhos de investigação segundo as linhas gerais estabelecidas pelos professores e catedráticos e extraordinários do grupo;\n\nc) Colaborar na coordenação prevista na alínea c) do n.º 1;\n\nd) Assegurar, quando as necessidades do serviço o impuseram, a regência de cursos teóricos ou a direcção de seminários, bem como a direcção dos respectivos cursos práticos e trabalhos de laboratório, de campo ou de investigação.\n\nGrau de doutor e título de agregado"
+  },
+  "4c1241e8142ed1f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Grau de doutor e título de agregado",
+   "in_force_from": "1975-05-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+   ],
+   "markdown": "###### Artigo 4.º — Grau de doutor e título de agregado\n\n1. As Universidades concedem, mediante prestação de provas cuja organização constará do regulamento, o grau de doutor e o título de agregado, ao quais, por si só, não corresponde o exercício de funções docentes.\n\n2. As condições de admissão às provas para o título de agregado e a sua organização são idênticas às do concurso para professor extraordinário, e o título é inerente à aprovação em mérito absoluto neste concurso.\n\n3. Os agregados chamados a prestar serviço docente têm a designação de professor agregado, com atribuições e remuneração idênticas às de professor extraordinário, e serão contratados por períodos renováveis de três anos.\n\n> Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+  },
+  "650bb6634b80813e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os leitores são recrutados por convite dos conselhos escolares ou por concurso documental entre licenciados, bacharéis e outras pessoas idóneas, nacionais ou estrangeiras.\n\n2. Cabe aos leitores reger as disciplinas de línguas vivas, podendo ainda, quando as necessidades do serviço o impuserem, ser incumbidos da regência teórica de outras disciplinas do grupo.\n\nAssistentes e assistentes eventuais"
+  },
+  "0b0d55b8eb57653d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Assistentes e assistentes eventuais",
+   "in_force_from": "1975-05-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 255/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1975-335971), publicado em 1975-05-24."
+   ],
+   "markdown": "###### Artigo 6.º — Assistentes e assistentes eventuais\n\n1. Os assistentes coadjuvam os professores e desempenham as demais funções que por lei lhes forem atribuídas.\n\n2. Cabe aos assistentes, sob a orientação do professor a respectiva disciplina, reger cursos práticos, podendo ainda se incumbidos da regência de cursos teóricos quando as necessidades de serviço o impuserem.\n\n3. Cabe aos assistentes eventuais, sob a orientação do professor da respectiva disciplina, reger cursos práticos e dirigir trabalhos de laboratório ou de campo, podendo ainda, em casos excepcionais, ser autorizados a reger aulas teóricas, por despacho do Ministro da Educação e Cultura, exarado sob proposta devidamente fundamentada da respectiva escola, onde se demonstre que assim o impõem imperiosas necessidades de serviço.\n\n> Alterado pelo/a [Decreto-Lei n.º 255/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1975-335971), publicado em 1975-05-24."
+  },
+  "973a86a48742de22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Poderá haver assistentes livres, sem direito a remuneração, nomeados pelo reitor sob proposta dos conselhos escolares.\n\n2. Os assistentes livres desempenham as funções auxiliares de ensino e de investigação que lhes forem atribuídas pelo respectivo professor, e exercem-nas sob inteira responsabilidade deste.\n\n3. A situação de assistente livre pode cessar a todo o tempo e não confere quaisquer direitos ou qualificações, mas sujeita o titular à disciplina universitária.\n\nMonitores"
+  },
+  "087205e49aae929e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs conselhos escolares, quando o julgarem conveniente, poderão recrutar, por convite, entre os alunos dos dois últimos anos dos cursos ou entre profissionais de actividades relacionadas com as respectivas disciplinas, monitores, aos quais compete coadjuvar os professores e os assistentes na realização dos trabalhos de que eles os incumbirem, nomeadamente em aulas práticas e trabalhos de laboratório ou de campo.\n\nPessoal especialmente contratado"
+  },
+  "e60aff0e38b44e64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. As individualidades mencionadas no n.º 3 do artigo 2.º podem ter a categoria de professor, de leitor ou de assistente.\n\n2. Os conselhos escolares, quando as necessidades de serviço o impuserem, poderão propor o contrato, como professores, de individualidades nacionais ou estrangeiras de reconhecida competência científica ou profissional.\n\n3. Os contratados nos termos deste artigo são normalmente equiparados a professores auxiliares.\n\n4. O Ministro da Educação Nacional, sob proposta fundamentada do respectivo conselho escolar, poderá autorizar que o contratado seja equiparado a professor extraordinário ou catedrático.\n\n5. Poderá ainda o Ministro da Educação Nacional, sob proposta dos conselhos escolares, autorizar que sejam contratados para o exercício de funções docentes, em condições especiais de prestação de serviço e de remuneração, por períodos anuais renováveis, individualidades que desempenhem outras funções públicas ou privadas e cuja colaboração revista especial interesse para o ensino ou para a investigação.\n\n6. As condições a que se refere o número anterior serão fixadas em cada caso.\n\nDefinição de funções docentes"
+  },
+  "cb7319906bc3a2e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Sem prejuízo da coordenação exigida na alínea c) do n.º 1 do artigo 3.º, a responsabilidade dos programas dos cursos teóricos ou seminários, mesmo em caso de desdobramento, cabe a quem tiver a respectiva regência.\n\n2. Os cursos práticos serão regidos por forma a traduzirem a aplicação dos programas seguidos nos cursos teóricos respectivos.\n\nPessoal investigador"
+  },
+  "9d4df1f7243b56cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Nos centros e institutos de investigação das Universidades ou a elas anexos poderá exercer actividade, além do pessoal docente, pessoal exclusivamente consagrado à pesquisa científica.\n\n2. O estatuto da carreira de investigação e as relações desta com a carreira docente serão objecto de legislação especial.\n\nII) Provimento do pessoal docente\n\nProvimento dos professores"
+  },
+  "2c86b00a6b90da81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. O provimento dos professores catedráticos e extraordinários é feito por nomeação.\n\n2. Os professores auxiliares são providos mediante contrato.\n\n3. Os professores catedráticos que não tenham exercido durante três anos, pelo menos, as funções de professor extraordinário serão nomeados por dois anos.\n\n4. Os professores extraordinários são nomeados por três anos.\n\n5. Os professores auxiliares são contratados por períodos de cinco anos.\n\nNomeação definitiva e recondução dos professores"
+  },
+  "30946a02cbad625c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Expirados os prazos dos n.os 3, 4 e 5 do artigo anterior, os professores catedráticos e os professores extraordinários serão nomeados definitivamente e os professores auxiliares reconduzidos por novo quinquénio, desde que se verifiquem as condições seguintes:\n\na) Competência, aptidão pedagógica, actualização e assiduidade no ensino;\n\nb) Publicação, no decurso dos prazos referidos, de trabalhos científicos ou didácticos considerados de mérito pelo conselho escolar respectivo.\n\n2. Quando o conselho escolar se pronuncie contra a nomeação definitiva de um professor catedrático ou extraordinário ou a recondução de um professor auxiliar, por não considerar de mérito os seus trabalhos científicos, haverá recurso para o Ministro da Educação Nacional, que decidirá com base em parecer emitido por um júri de especialistas designado para o efeito.\n\nProvimento de leitores"
+  },
+  "1bca65a63527e859": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs leitores são providos mediante contrato anual renovável por iguais períodos.\n\nProvimento dos assistentes"
+  },
+  "8f15498d8d2caabe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os assistentes são providos mediante contrato trienal renovável por igual período.\n\n2. O assistente não poderá permanecer no exercício da função se, no termo do segundo período previsto no número anterior, não tiver apresentado a dissertação para o doutoramento.\n\n3. Requeridas as provas, o contrato será prorrogado até à sua realização.\n\n4. Em casos justificados, poderá o Ministro da Educação Nacional, ouvido o conselho escolar, prorrogar até um ano o prazo fixado no n.º 2.\n\n5. Os assistentes eventuais são providos mediante contrato anual, renovável por igual período de tempo se o serviço do assistente for considerado satisfatório pelo conselho escolar.\n\nProvimento dos monitores"
+  },
+  "2cd6a38fe1c95016": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs monitores são providos mediante contrato anual renovável.\n\nProvimento do pessoal especialmente contratado"
+  },
+  "aae72088bc8eb6da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO pessoal a que se refere o artigo 9.º será provido mediante contrato por períodos renováveis de um ano, mas em casos especiais o contrato poderá ter duração inferior a um ano.\n\nEspecial latitude de recrutamento de certas categorias do pessoal docente"
+  },
+  "5eea043be618b214": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Especial latitude de recrutamento de certas categorias do pessoal docente",
+   "in_force_from": "1975-05-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+   ],
+   "markdown": "###### Artigo 18.º — Especial latitude de recrutamento de certas categorias do pessoal docente\n\n1. Os professores agregados, auxiliares, leitores, assistentes, assistentes eventuais e monitores poderão ser contratados além dos quadros, segundo as necessidades de cada escola, pelas efectivas disponibilidades das dotações para pessoal ou por força de verbas especialmente inscritas.\n\n2. Os provimentos nestes lugares consideram-se sempre efectuados por conveniência urgente de serviço, aplicando-se, independentemente dos prazos de nomeação, o disposto no [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958.\n\n> Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+  },
+  "16801822f3207c40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Comissões de serviço para o exercício das funções de assistente",
+   "in_force_from": "1975-05-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+   ],
+   "markdown": "###### Artigo 19.º — Comissões de serviço para o exercício das funções de assistente\n\n1. Poderão ser contratados como assistentes, dos quadros ou além dos quadros, professores do ensino médio ou secundário, os quais exercerão as respectivas funções em comissão de serviço e poderão optar pelo vencimento de assistente ou pelo que lhes couber no ensino médio ou secundário.\n\n2. A comissão de serviço terá a duração normal de um a três anos, renovável por períodos de um ano, até ao máximo de seis anos.\n\n3. O serviço de assistente prestado nos termos deste artigo considera-se, para todos os efeitos, como prestado no grau e ramo de ensino a que o professor pertencer.\n\n> Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+  },
+  "fc0e42f4bb6dff23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Denúncia e rescisão de contratos",
+   "in_force_from": "1975-05-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+   ],
+   "markdown": "###### Artigo 20.º — Denúncia e rescisão de contratos\n\n1. Os contratos de professores agregados, auxiliares, leitores, assistentes, assistentes eventuais, monitores e elementos do pessoal docente especialmente contratado só poderão ser rescindidos quando se verificar qualquer dos seguintes casos:\n\na) Denúncia por qualquer das partes até trinta dias antes do termo do prazo do contrato;\n\nb) Aviso prévio de sessenta dias por parte do contratado;\n\nc) Proposta do conselho escolar, ouvido, por escrito, o interessado;\n\nd) Processo disciplinar.\n\n2. Não contam para efeito dos limites impostos ao exercício de funções docentes o tempo de prestação de serviço militar obrigatório e aquele em que o interessado estiver impedido no desempenho de outras funções oficiais dentro ou fora do País.\n\n> Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+  },
+  "0ccdf28c7d916c57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO ingresso no professorado universitário faz-se normalmente pela categoria de professor auxiliar.\n\nRecrutamento dos professores auxiliares"
+  },
+  "f2f59cbf56244087": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nPodem ser contratados como professores auxiliares os doutores.\n\nRecrutamento dos professores extraordinários"
+  },
+  "d2985e1e9f38a58e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Os professores extraordinários são recrutados mediante concurso de provas públicas.\n\n2. Ao concurso serão admitidos:\n\na) Os professores extraordinários do mesmo grupo de outra Universidade ou de grupo análogo de outra escola da mesma ou de diferente Universidade;\n\nb) Os professores auxiliares;\n\nc) Os agregados;\n\nd) Os doutores por Universidades portuguesas ou equiparados;\n\ne) Os professores contratados equiparados a professores extraordinários.\n\n3. Poderão ainda ser admitidas individualidades de cujo e curriculum vitae constem trabalhos profissionais ou estudos científicos sobre matérias do grupo considerados de grande mérito por deliberação de 2/3 do conselho escolar, baseada em relatório de professores, nacionais ou estrangeiros, da especialidade.\n\n4. A organização das provas do concurso constará de regulamento.\n\nRecrutamento dos professores catedráticos"
+  },
+  "34bf0f41fa567b2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nO recrutamento dos professores catedráticos poderá realizar-se:\n\na) Por convite;\n\nb) Por transferência;\n\nc) Por concurso de provas públicas.\n\nRecrutamento por convite"
+  },
+  "d9b698ac2671bb1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. O convite só poderá ser dirigido a individualidades cujo mérito esteja comprovado por valiosa obra científica no domínio da disciplina ou do grupo de disciplinas em causa.\n\n2. O convite fundamentar-se-á em relatório subscrito pelo mínimo de dois professores catedráticos, apresentado ao conselho escolar em sessão expressamente convocada para esse fim, com indicação do nome de individualidade a convidar, e aprovado por 4/5 do conselho escolar.\n\n3. Se o Ministro da Educação Nacional aprovar o convite, o relatório a que se refere o número anterior será publicado no Diário do Governo com o despacho de nomeação.\n\nRecrutamento por transferência"
+  },
+  "f13348e7401932be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. A transferência poderá ser requerida:\n\na) Por professor catedrático de mesmo grupo ou disciplina de outra Universidade ou de análogo grupo ou disciplina de outra escola da mesma ou de diferente Universidade;\n\nb) Por professor catedrático de outro grupo ou disciplina da mesma escola.\n\n2. Quando a transferência for requerida por professor catedrático de outro grupo ou disciplina da mesma escola, deverá o requerente juntar os trabalhos científicos que haja publicado sobre matérias respeitantes ao lugar a prover.\n\n3. O requerimento será dirigido ao Ministro da Educação Nacional, que ouvirá a escola onde se verificar a vaga.\n\n4. É condição de deferimento do pedido de transferência o parecer favorável da escola consultada, aprovado por 4/5 do conselho escolar.\n\n5. Quando um elemento do pessoal docente da escola em que existe a vaga reunir as condições legais exigidas para concorrer a esta, poderá o Ministro da Educação Nacional, a seu pedido, determinar que o processo de transferência seja imediatamente arquivado e se abra concurso.\n\nRecrutamento por concurso de provas públicas"
+  },
+  "815451890f8e8d30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. Ao concurso poderão apresentar-se:\n\na) Os professores extraordinários do mesmo grupo de qualquer das Universidades;\n\nb) Os agregados do grupo em que se verifique a vaga.\n\n2. A organização das provas do concurso constará de regulamento.\n\nAbertura de concursos"
+  },
+  "2828c295a031fd92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nOs reitores das Universidades deverão propor bienalmente, no mês de Julho, ao Ministro da Educação Nacional a abertura de concursos para as vagas de professor nos quadros das respectivas escolas, se os conselhos escolares não tiverem tomado essa iniciativa.\n\nRecrutamento dos assistentes eventuais"
+  },
+  "c889995c9cbc9614": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO recrutamento dos assistentes eventuais será feito:\n\na) Por livre escolha;\n\nb) Por concurso documental.\n\nRecrutamento dos assistentes por livre escolha"
+  },
+  "46ec21dbf96a290d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nO recrutamento por livre escolha far-se-á, mediante proposta do professor da respectiva disciplina, aprovada pelo conselho escolar, entre pessoas que em licenciatura ou curso superior adequados tenham obtido a informação final de Bom ou Muito bom.\n\nRecrutamento dos assistentes por concurso documental"
+  },
+  "8f539c04c9dd89be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1. Os conselhos escolares poderão promover a abertura de concursos documentais para recrutamento de assistentes eventuais.\n\n2. Aos concursos serão admitidos os licenciados ou diplomados com um curso superior adequado que satisfaçam os demais requisitos especificados no edital.\n\nApreciação do serviço"
+  },
+  "6529e37f2a3e85d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1. O serviço dos assistentes eventuais será anualmente classificado pelo concelho escolar, com base em informação fundamentada do professor respectivo.\n\n2. Se o serviço não for considerado satisfatório, rescindir-se-á o contrato do assistente.\n\nRecrutamento dos assistentes"
+  },
+  "1083ecf970961f59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nOs assistentes serão recrutados entre os assistentes eventuais com dois anos de serviço considerado satisfatório e os professores do ensino médio ou secundário referidos no artigo 19.º\n\nIV) Deveres e direitos do pessoal docente\n\nDeveres dos professores"
+  },
+  "4f1db471a8cca1f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nSão deveres do professor:\n\n1.º Proceder em todas as circunstâncias como cidadão exemplar;\n\n2.º Cumprir com assiduidade as obrigações docentes e desenvolver uma pedagogia activa, acompanhando os alunos na sua preparação cultural, científica e profissional e contribuindo para o desenvolvimento do seu espírito criador;\n\n3.º Actualizar permanentemente a sua cultura geral e científica;\n\n4.º Procurar, pela investigação e pela prática das ciências ensinadas, aperfeiçoar a experiência pessoal nas matérias da sua especialidade;\n\n5.º Despertar o interesse dos alunos pela cultura e pela ciência, procurando desenvolver as vocações manifestadas tanto para a docência como para a investigação;\n\n6.º Orientar a formação pedagógica e científica dos elementos de pessoal docente que trabalham sob sua direcção, assistindo a aulas por eles dadas e promovendo por outros meios o seu aperfeiçoamento profissional;\n\n7.º Publicar textos didácticos actualizados, com a regularidade aconselhável, e colaborar nas revistas e publicações da sua especialidade, de modo a permitir o conhecimento público do seu labor e a facilitar o estudo aos alunos;\n\n8.º Cooperar nas actividades circum-escolares ou de extensão cultural;\n\n9.º Acatar as ordens e instruções que lhe sejam dadas pelas autoridades competentes em matéria de administração escolar e zelar pela disciplina nas aulas e demais locais escolares;\n\n10.º Desempenhar as funções administrativas para que seja designado pelas autoridades competentes;\n\n11.º Contribuir para o normal funcionamento dos serviços, zelando pelo cumprimento de horários, participando nos actos para que tenha sido designado, comparecendo às reuniões dos conselhos de que faz parte e colaborando nos trabalho pedagógicos e administrativos para que seja solicitado;\n\n12.º Proceder de modo a incutir no espírito dos estudantes o respeito pela Pátria e pelos valores morais que alicerçam a sociedade portuguesa;\n\n13.º Conduzir com imparcial rigor científico a análise dos problemas sociais, políticos ou históricos que o exercício das suas funções docentes imponha.\n\nDeveres do pessoal auxiliar do ensino"
+  },
+  "cb717b472ad3d7b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nO pessoal auxiliar do ensino tem o dever de colaborar com as autoridades académicas e com os professores respectivos, cumprindo-lhe observar, em tudo o que não seja excluído pela natureza das funções que exerce, o disposto no artigo anterior.\n\nAutoridades académicas"
+  },
+  "3cf01bf9f9d5935d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1. Os professores e o pessoal auxiliar do ensino devem obediência às ordens e instruções dadas por legítimo superior em objecto de serviço da administração escolar.\n\n2. São autoridades académicas, consideradas legítimos superiores em matéria de administração escolar, o Ministro da Educação Nacional, os reitores e vice-reitores das Universidades, os senados ou conselho universitários, os directores e subdirectores das escolas e os conselhos escolares.\n\nNúmero de aulas semanais por disciplina"
+  },
+  "8596b8359e353e2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nO número de aulas teóricas e práticas a ministrar por disciplina será fixado no plano de estudos de cada escola.\n\nPrograma das disciplinas"
+  },
+  "a9b6ad2768eb046c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1. Para cada disciplina haverá um programa, que, sem comprometer a liberdade de orientação científica ou pedagógica a imprimir ao ensino, fixe em termos genéricos as matérias que cabem no seu âmbito.\n\n2. A elaboração do projecto do programa compete a quem tiver a seu cargo a regência das disciplinas respectivas.\n\n3. Em cada escola os programas serão coordenados por comissões constituídas pelos professores catedráticos, extraordinários e auxiliares do grupo correspondente.\n\n4. Até 31 de Dezembro de 1970 devem estar organizados programas para todas as disciplinas, que serão revistos obrigatòriamente de dois em dois anos, podendo a revisão de qualquer deles ser antecipada pela competente comissão.\n\n5. As Universidades publicarão anualmente os programas das disciplinas das escolas que as constituem, competindo aos respectivos reitores providenciar no sentido de se manter actualizada a publicação.\n\n6. O Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação, poderá nomear comissões, constituídas por professores de diferentes escolas, para elaborarem os programas, a nível nacional.\n\nSumário das aulas teóricas"
+  },
+  "e130132703ef972b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n1. Quem reger aulas teóricas organizará para cada uma o sumário claro e preciso da matéria ensinada.\n\n2. Os sumários devem constituir, por ano lectivo, o desenvolvimento do programa da disciplina e a indicação das matérias obrigatórias para provas.\n\n3. Em princípio, os sumários serão levados ao conhecimento dos alunos no decurso ou no final da aula, mas, quando esse for o costume, poderão ser publicados periòdicamente dentro do ano lectivo.\n\nLiberdade científica"
+  },
+  "0218ac35910ec3ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nO pessoal docente goza de liberdade de orientação e de opinião científica na regência das matérias ensinadas, dentro dos programas aprovados.\n\nParticipação nos órgãos de direcção universitária"
+  },
+  "2224b49fbf69cd04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nOs elementos do pessoal docente participarão nos órgãos universitários de harmonia com a legislação especial aplicável.\n\nFérias e licenças"
+  },
+  "2bc83a3318ced65d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1. O pessoal docente tem direito às férias que estiverem decretadas para as respectivas escolas.\n\n2. O pessoal docente poderá gozar ainda as licenças previstas para o restante funcionalismo do Estado, salva a licença para férias.\n\nFérias sabáticas"
+  },
+  "9190aef0fb9ae29d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1. Os professores catedráticos, extraordinários ou auxiliares podem, no fim de cada período de seis anos de efectivo serviço, requerer dispensa das tarefas lectivas, sem perda de vencimento, por tempo não superior a um ano escolar, a fim de se dedicarem a trabalhos de investigação ou à publicação de cursos, tratados, manuais ou monografias.\n\n2. Salva justificação aceite pelo conselho escolar, o professor que, tendo beneficiado da faculdade conferida no número anterior, não apresentar os resultados do seu trabalho dentro de três anos, a contar do termo das férias sabáticas, ficará obrigado a repor os vencimentos durante elas recebidos.\n\nRegência de cursos livres"
+  },
+  "ed89c084b6c59d8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n1. Os conselhos escolares poderão autorizar os professores a reger cursos livres de investigação científica ou monográficos, não incluídos no quadro das disciplinas da escola.\n\n2. A regência desses cursos será considerada, para todos os efeitos, como equivalente à regência de qualquer curso incluído no quadro das disciplinas da escola.\n\nRegência em escola diferente"
+  },
+  "9f8d677793a0c5a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n1. Os professores de uma escola universitária poderão ser convidados, mediante autorização ministerial, pelo conselho escolar de outro estabelecimento da mesma categoria para nele regerem, em acumulação, qualquer disciplina da sua especialidade.\n\n2. À acumulação de regência em escola diferente são aplicáveis os preceitos que fixam a remuneração e regulam as demais condições da acumulação na própria escola.\n\nBolsas de estudo"
+  },
+  "30f7fea1b986417c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n1. O pessoal docente poderá obter bolsas de estudo no País e no estrangeiro e ser equiparado a bolseiro nos termos que forem estabelecidos por lei.\n\n2. A atribuição de bolsas de estudo para efeito de preparação do doutoramento obedecerá a regime especial.\n\nPreferência para o provimento de leitorados portugueses no estrangeiro"
+  },
+  "6e6bdca4c4e8cefa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nOs assistentes e os leitores de nacionalidade portuguesa das Faculdades de Letras que prepararem o doutoramento terão prioridade sobre os outros candidatos ao lugar de leitor de Português nos centros universitários estrangeiros especialmente qualificados para a sua preparação científica.\n\nAntiguidade dos elementos do pessoal docente"
+  },
+  "6c04aeef8b23c86a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\n1. A antiguidade dos professores catedráticos e extraordinários em cada escola conta-se da data da primeira posse, nessa escola, para aquelas categorias de professor, não sendo de considerar para o efeito o tempo de serviço como professor auxiliar, assistente ou monitor.\n\n2. Quando dois ou mais professores tenham tomado a primeira posse no mesmo dia, a precedência na escola será determinada pela antiguidade do grau de doutor, e, se esta também for a mesma ou se não possuírem esse grau, pela ordem de prestação das provas no concurso de provimento ou pela ordem da publicação dos diplomas de nomeação.\n\n3. Até 30 de Junho de cada ano será publicada a lista de antiguidade do pessoal docente de cada escola, com o tempo de serviço referido a 31 de Dezembro do ano anterior.\n\n4. Os interessados poderão deduzir perante o reitor da Universidade, dentro de trinta dias, a contar da publicação da lista, as reclamações que esta lhes suscitar.\n\nPrecedências dos elementos do pessoal docente"
+  },
+  "2c1ad9a59a49dbbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\n1. Em todos os actos universitários ou escolares as precedências dos professores catedráticos e extraordinários, que não sejam reitor ou director de escola, regulam-se pela antiguidade do provimento, nos termos dos n.os 1 e 2 do artigo anterior, independentemente da escola a que os professores pertençam ou em que hajam obtido provimento pela primeira vez.\n\n2. As precedências dos professores agregados e professores auxiliares e dos leitores assistentes, assistentes eventuais e monitores são reguladas por esta ordem de categorias e, dentro delas, pela ordem de antiguidade.\n\nIngresso em outras carreiras"
+  },
+  "aed7141ff6b583fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nOs assistentes e os leitores de nacionalidade portuguesa com informação final de Bom ou Muito bom na licenciatura e cinco anos de bom e efectivo serviço, incluindo os de assistente eventual, poderão ingressar nos quadros dos serviços para os quais tenham habilitações, com dispensa de concurso ou Exame de Estado, nos termos que forem indicados nos diplomas regulamentares.\n\nNúmero de horas de aulas por docente"
+  },
+  "ed626c3ecfac18a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Número de horas de aulas por docente",
+   "in_force_from": "1975-05-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+   ],
+   "markdown": "###### Artigo 51.º — Número de horas de aulas por docente\n\n1. Às categorias de professor auxiliar, leitor, assistente e assistente eventual correspondem doze horas semanais de aula ou trabalho de seminário.\n\n2. Aos monitores correspondem seis horas semanais de aula.\n\n3. Estes limites poderão ser excedidos quando se trate de serviço relativo a provas de aproveitamento dos alunos.\n\n4. A regência de cursos teóricos por assistentes não conta para os limites fixados nos números anteriores, salvo se os interessados pedirem o contrário e a direcção da escola não vir inconveniente na satisfação do pedido, mas nesse caso não haverá lugar a gratificação pela regência dos cursos teóricos.\n\n5. Em casos excepcionais, poderão os limites referidos no n.º 1 ser excedidos no máximo de quatro horas semanais.\n\n6. Além do serviço lectivo, o pessoal docente poderá ser encarregado de outros serviços de carácter universitário, escolar ou circum-escolar, até atingirem, com o tempo obrigatório das aulas, o limite de quatro horas diárias.\n\n> Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+  },
+  "a96f6b05aea4626d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\n1. É equiparado, para todos os efeitos, ao efectivo exercício da função própria o serviço prestado pelo pessoal docente nas seguintes situações:\n\na) Presidente da República, Presidente da Assembleia Nacional, Presidente da Câmara Corporativa ou membro do Governo e Deputado à Assembleia Nacional;\n\nb) Presidente da Junta Nacional da Educação ou do Instituto de Alta Cultura, presidente do Gabinete de Estudos e Planeamento da Acção Educativa, director-geral, inspector-geral ou função equivalente em qualquer Ministério;\n\nc) Chefe do Gabinete do Ministro da Educação Nacional;\n\nd) Exercício de funções diplomáticas eventuais;\n\ne) Exercício de funções docentes no estrangeiro em missão oficial ou com autorização do Ministro da Educação Nacional;\n\nf) Exercício de funções directivas ou de investigação em institutos de investigação nacionais ou estrangeiros, quando em comissão de serviço público, em missão oficial ou com autorização do Ministro da Educação Nacional.\n\n2. O afastamento do serviço docente, em virtude do exercício de funções não referidas no número anterior, quando tenha duração superior a um ano, determina a abertura de vaga, ficando o professor na situação de supranumerário além do quadro.\n\nAposentação"
+  },
+  "d44b16560f015cb8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n1. O pessoal docente tem direito a aposentação nos termos da lei geral.\n\n2. Aos professores aposentados por limite de idade cabe a designação de professor jubilado.\n\n3. Os professores jubilados podem, com prévia aprovação do conselho escolar e sem direito a qualquer remuneração, abrir cursos respeitantes a matérias não incluídas nos planos de estudo e prosseguir trabalhos de investigação ou de direcção de publicações na Universidade ou escola a que pertencerem.\n\nOrdenados e diuturnidades"
+  },
+  "69dd802d079a995b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\n1. Os ordenados do pessoal docente são os que constam da tabela anexa ao presente diploma.\n\n2. Decorridos quinze anos sobre o exercício das funções de extraordinário ou catedrático, os professores terão direito a uma diuturnidade se do currículo respeitante a esse período constar a publicação de trabalhos científicos de mérito reconhecido pelo conselho escolar.\n\n3. No caso de o professor ter desempenhado, durante um período superior a cinco anos, alguma das funções referidas no n.º 1 do artigo 52.º ou funções de autoridade académica, a atribuição de diuturnidade não será condicionada pelo disposto na parte final do número anterior.\n\n4. Para efeitos de atribuição de diuturnidade aos professores catedráticos será contado o tempo de serviço que tenham prestado na categoria de professor extraordinário a partir da data em que nela houvessem obtido já diuturnidade.\n\n5. A remuneração a que se refere o n.º 5 do artigo 9.º, relativo ao pessoal especialmente contratado, não pode exceder 60 por cento do ordenado da categoria correspondente, fixado na tabela anexa ao presente diploma.\n\nGratificação de regências de cursos teóricos e de direcção de seminários"
+  },
+  "858ef259aed8cd54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Gratificação de regências de cursos teóricos e de direcção de seminários",
+   "in_force_from": "1975-05-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+   ],
+   "markdown": "###### Artigo 55.º — Gratificação de regências de cursos teóricos e de direcção de seminários\n\n1. Os professores auxiliares, os leitores e os assistentes terão direito, por cada curso teórico ou seminário, à gratificação mensal de 1800$00, que lhes será abonada enquanto realizarem os correspondentes ensino e serviço de provas para além do limite fixado no n.º 1 do artigo 51.º\n\n2. A mesma gratificação será atribuída aos professores catedráticos e extraordinários pela regência de disciplinas ou direcção de seminários além da disciplina ou seminário por que forem normalmente responsáveis.\n\n3. Considera-se também regência, para os efeitos deste artigo, o ensino ministrado a turmas formadas por desdobramento de cursos.\n\n4. Cada elemento do pessoal docente não poderá receber mais de duas gratificações de regência.\n\n> Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+  },
+  "8b47c41862525804": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\n1. Têm direito a gratificações os professores que exercerem as funções seguintes:\n\na) Reitor ou vice-reitor da Universidade, director, subdirector ou adjunto de director de escola universitária;\n\nb) Secretário ou bibliotecário de escola universitária;\n\nc) Director de laboratório, instituto, museu ou observatório universitários com quadros de pessoal fixados por lei e especialmente descritos no Orçamento Geral do Estado.\n\n2. As gratificações a que se refere este artigo serão fixadas por despacho conjunto dos Ministros das Finanças e da Educação Nacional.\n\nGratificação de horas extraordinárias"
+  },
+  "0acf7909b56caeae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Gratificação de horas extraordinárias",
+   "in_force_from": "1975-05-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+   ],
+   "markdown": "###### Artigo 57.º — Gratificação de horas extraordinárias\n\nOs professores auxiliares, leitores e assistentes que prestarem mais de doze horas semanais de serviço docente, excluídos os casos dos n.os 3 e 4 do artigo 51.º, terão direito por cada hora de serviço além daquele limite à gratificação igual a 1/48 do ordenado.\n\n> Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+  },
+  "e01e8adf7a35a6f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — Disposições transitórias",
+   "in_force_from": "1975-05-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+   ],
+   "markdown": "###### Artigo 58.º — Disposições transitórias\n\n1. Os segundos-assistentes que à data da entrada em vigor do presente diploma tiverem, pelo menos, dois anos lectivos de serviço passam a assistentes, desde que o conselho escolar, sob proposta do respectivo professor, entenda deverem manter-se na função docente, mas os restantes segundos-assistentes ficam sujeitos ao regime definido no presente diploma para a categoria de assistente eventual.\n\n2. Em relação aos assistentes mencionados na primeira parte do número anterior, o prazo estabelecido no n.º 1 do artigo 15.º conta-se do termo do segundo ano de serviço como segundo-assistente.\n\n3. Os assistentes eventuais a que se refere a parte final do n.º 1 poderão continuar a prestar o serviço que lhes for distribuído para o ano lectivo de 1969-1970, tendo direito, no caso de lhes caber a regência de cursos teóricos, à gratificação fixada por este diploma.\n\n4. Durante o período de três anos, a contar da entrada em vigor do presente diploma, poderão outros assistentes eventuais ser encarregados, a título excepcional, da regência de cursos teóricos, com direito à gratificação respectiva.\n\n5. Os actuais primeiros-assistentes que tiverem o grau de doutor ou o título de professor agregado passam a professores auxiliares, mas aos que tiverem simultâneamente os referidos grau e título ou este último e cinco anos de bom serviço docente será aplicável o disposto no n.º 3 do artigo 4.º\n\n6. Os elementos do pessoal docente contratados, ao abrigo da legislação anterior, como primeiros-assistentes, que não estejam nas condições do número antecedente, poderão manter essa categoria com as obrigações e direitos contratuais estipulados anteriormente.\n\n7. Os actuais contratados como professores, encarregados de curso, incumbidos de regência ou mestres de línguas serão integrados nas modalidades de pessoal docente especialmente contratado previstas neste diploma, ressalvando-se, porém, os direitos contratuais adquiridos e ficando a celebração de novos contratos dependente de proposta dos conselhos escolares.\n\n8. Os actuais professores de cadeiras e cursos anexos continuam a ter, para todos os efeitos, a categoria de professor extraordinário.\n\n9. Até à publicação da legislação prevista no n.º 2 do artigo 11.º serão concedidas facilidades para o contrato de professores auxiliares e de assistentes em regime de acumulação com cargos exercidos em organismos oficiais de investigação científica ou outros, nos termos do n.º 5 do artigo 9.º\n\n10. Até ao final do ano escolar de 1970-1971 poderá ser excedido, mediante autorização do Ministro da Educação Nacional, sob proposta fundamentada do conselho escolar, o limite estabelecido no n.º 4 do artigo 55.º\n\n> Alterado pelo/a [Decreto-Lei n.º 637/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/637-1970-146056), publicado em 1970-12-22."
+  },
+  "3fb6bc1841c719ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\nDentro de noventa dias, a contar da data da entrada em vigor do presente diploma, os directores das Escolas Superiores de Belas-Artes de Lisboa e do Porto apresentarão ao Ministro da Educação Nacional projectos de regime do pessoal docente dessas Escolas, em termos análogos aos consignados neste diploma para os estabelecimentos universitários.\n\nTécnica orçamental"
+  },
+  "e77de9e965e980cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\n1. Os encargos que resultem da execução do presente diploma serão satisfeitos no ano de 1970 pelas verbas consignadas a pessoal do respectivo estabelecimento de ensino superior, que, para tanto, serão consideradas como dotações globais.\n\n2. Quando esgotadas no decurso do ano de 1970 as dotações referidas no número anterior, os restantes encargos serão liquidados e pagos pela verba especificadamente inscrita para satisfação das despesas comuns resultantes da execução do presente diploma.\n\n3. O crédito especial a abrir no Orçamento Geral do Estado para 1970 com vista a ser concretizado o disposto no número anterior terá a forma de decreto referendado pelo Ministro das Finanças.\n\nColocação do pessoal"
+  },
+  "ecf3618fd82a39fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\nO Ministro da Educação Nacional fará publicar relações de pessoal com indicação das categorias a que ficam pertencendo em conformidade com o disposto no presente diploma, considerando-se os funcionários nelas integrados a partir do dia 1 do mês seguinte ao da entrada em vigor deste diploma, com dispensa das formalidades legais, incluindo o visto do Tribunal de Contas e posse.\n\nCasos omissos"
+  },
+  "8a5c4841be1aaa99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\nAs dúvidas suscitadas na aplicação deste diploma serão resolvidas por despacho do Ministro da Educação Nacional, ouvido o Ministro das Finanças sempre que se trate de assuntos de carácter financeiro ou de execução administrativa com eles relacionados.\n\nEntrada em vigor"
+  },
+  "02009575648da817": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\nO presente decreto-lei entra em vigor no dia 1 de Abril de 1970.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Veiga Simão.\n\nPromulgado em 23 de Março de 1970.\n\nPublique-se.\n\nPresidência da República, 30 de Março de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nTabela a que se refere o artigo 54.º do Decreto-Lei n.º 132/70\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1970/03/07400/03690376.pdf)\n\nMinistério da Educação Nacional, 23 de Março de 1970. - O Ministro da Educação Nacional, José Veiga Simão."
+  }
+ }
+}

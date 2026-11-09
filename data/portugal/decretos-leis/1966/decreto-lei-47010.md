@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-04-14'
+version_history:
+  file: decreto-lei-47010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1966-05-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-04-14'
+    amending: pt:dre:284763:por
+    amending_title: Decreto-Lei n.º 115/88
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:57:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 115/88. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1966/decreto-lei-47010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,27 +138,41 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º As estampilhas fiscais de emolumentos consulares serão dos seguintes valores em moeda portuguesa: 1$00, 5$00, 10$00, 12$00, 25$00, 40$00, 50$00, 80$00, 90$00, 100$00, 110$00, 120$00, 125$00, 150$00, 175$00, 200$00, 300$00 e 600$00, divididos em seis grupos de diferentes cores, composto cada um de três valores seguidos.
+###### Artigo 1.º
 
-Art. 2.º Deixará de vigorar, a partir de 1 de Julho de 1966, a declaração de carga a que se refere o artigo 425.º do Regulamento Consular, aprovado pelo [Decreto n.º 6462](https://diariodarepublica.pt/dr/detalhe/decreto/6462-1920-629816), de 7 de Março de 1920, ficando igualmente revogados naquela data os n.os 65.º e 66.º do artigo 1.º e o artigo 25.º da tabela de emolumentos consulares constante do Decreto n.º 46641, de 13 de Novembro de 1965.
+As estampilhas fiscais de emolumentos consulares serão dos seguintes valores em moeda portuguesa: 1$00, 5$00, 10$00, 25$00, 40$00, 50$00, 80$00, 100$00, 150$00, 200$00, 300$00, 480$00, 500$00, 600$00, 800$00, 1000$00, 1440$00, 1500$00, 2000$00, 3200$00 e 3800$00, divididos em sete grupos de cores diferentes, composto cada um de três valores seguidos.
+
+> Alterado pelo/a [Decreto-Lei n.º 115/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-1988-284763), publicado em 1988-04-09.
+
+###### Artigo 2.º
+
+Deixará de vigorar, a partir de 1 de Julho de 1966, a declaração de carga a que se refere o artigo 425.º do Regulamento Consular, aprovado pelo [Decreto n.º 6462](https://diariodarepublica.pt/dr/detalhe/decreto/6462-1920-629816), de 7 de Março de 1920, ficando igualmente revogados naquela data os n.os 65.º e 66.º do artigo 1.º e o artigo 25.º da tabela de emolumentos consulares constante do Decreto n.º 46641, de 13 de Novembro de 1965.
 
 § 1.º Nos caso em que esteja prevista na respectiva legislação a apresentação de declaração de carga poderá esta ser substituída pela correspondente factura comercial.
 
 § 2.º Tratando-se de mercadorias que hajam sofrido transformação industrial, que não represente processo completo de fabrico, no país de proveniência, ou que tenham simplesmente transitado por portos francos, zonas francas ou entrepostas, a factura comercial carecerá de anotação exarada nos termos dás instruções preliminares da pauta de importação pelo consulado português com jurisdição local.
 
-Art. 3.º O artigo 7.º da tabela de emolumentos consulares passa a ter a seguinte redacção:
+###### Artigo 3.º
+
+O artigo 7.º da tabela de emolumentos consulares passa a ter a seguinte redacção:
 
 Art. 7.º Por actos diversos, de registo civil ou de notariado, realizados dentro das horas de expediente, os funcionários consulares perceberão a compensação pessoal de 12$00 por cada acto.
 
 § único. Sempre que o interessado pretenda que determinado acto se pratique na chancelaria fora das horas de serviço, ao domingo ou em dias feriados, será cobrada como receita do Estado a quantia de 200$00, por meio de estampilhas, sendo a mesma mencionada no recibo a que se refere o artigo 20.º da tabela.
 
-Art. 4.º O artigo 8.º da tabela passa a ter a seguinte redacção:
+###### Artigo 4.º
+
+O artigo 8.º da tabela passa a ter a seguinte redacção:
 
 Art. 8.º Quando o interessado pretender que certo acto se pratique na chancelaria com urgência, dentro das horas de serviço, pagará em dobro, como receita do Estado, o emolumento correspondente da tabela.
 
-Art. 5.º É eliminada no artigo 12.º da tabela a referência aos artigos 7.º e 8.º que no mesmo se contém.
+###### Artigo 5.º
 
-Art. 6.º Compete ao director-geral dos Negócios Económicos e Consulares a resolução das dúvidas e casos omissos que surjam na aplicação do Regulamento Consular e da tabela de emolumentos consulares e bem assim a fixação dos câmbios para a redução dos escudos à moeda do país em que forem cobradas as taxas dos emolumentos consulares estabelecidas nas diversas secções da tabela.
+É eliminada no artigo 12.º da tabela a referência aos artigos 7.º e 8.º que no mesmo se contém.
+
+###### Artigo 6.º
+
+Compete ao director-geral dos Negócios Económicos e Consulares a resolução das dúvidas e casos omissos que surjam na aplicação do Regulamento Consular e da tabela de emolumentos consulares e bem assim a fixação dos câmbios para a redução dos escudos à moeda do país em que forem cobradas as taxas dos emolumentos consulares estabelecidas nas diversas secções da tabela.
 
 Publique-se e cumpra-se como nele se contém.
 

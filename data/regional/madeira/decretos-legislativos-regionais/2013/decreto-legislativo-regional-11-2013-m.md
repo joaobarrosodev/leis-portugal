@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2016-07-19'
+version_history:
+  file: decreto-legislativo-regional-11-2013-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-03-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-07-19'
+    amending: pt:dre:74967188:por
+    amending_title: Decreto Legislativo Regional n.º 30/2016/M
+    changes:
+    - Altera Artigo 18.º
+    - Altera Artigo 16.º
+    - Revoga Artigo 17.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/11/2013/03/08/m/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:41:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    30/2016/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2013/decreto-legislativo-regional-11-2013-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -346,21 +363,25 @@ Da decisão cabe impugnação para o tribunal administrativo de círculo compete
 
 ### CAPÍTULO III — Funcionamento
 
-###### Artigo 16º — Comunicação de abertura
+###### Artigo 16.º — Comunicação de abertura
 
 1 - Sem prejuízo da obtenção do alvará de autorização de utilização, previsto no regime jurídico da urbanização e da edificação, o titular do empreendimento, até 20 dias antes da abertura do estabelecimento ou conjunto comercial, comunica tal facto à DRCIE e à câmara municipal respetiva, acompanhado de termo de responsabilidade segundo o qual o estabelecimento ou conjunto comercial cumpre os compromissos que fundamentaram a autorização de instalação ou de modificação.
 
-2 - A comunicação referida no número anterior é considerada para efeitos do disposto no artigo 2º do Decreto Legislativo Regional nº 7/2008/M, de 4 de março, através do modelo constante da Portaria nº 49/2008, de 29 abril.
+2 - (Revogado.)
 
-###### Artigo 17º — Comunicação do encerramento
+> Alterado pelo/a [Decreto Legislativo Regional n.º 30/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2016-74967188), publicado em 2016-07-18.
 
-O encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente diploma deve ser comunicado à DRCIE, até 20 dias após a sua ocorrência, nos termos do artigo 2º do Decreto Legislativo Regional nº 7/2008/M, de 4 de março, através do modelo constante da Portaria nº 49/2008, de 29 abril.
+###### Artigo 17.º — Comunicação do encerramento
 
-###### Artigo 18º — Registo
+(Revogado.)
 
-1 - A abertura, as modificações e o encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente diploma são objeto de registo, efetuado pela DRCIE, o qual é considerado para efeitos do disposto no Decreto Legislativo Regional nº 8/98/M, de 27 de abril, alterado e republicado pelo Decreto Legislativo Regional nº 19/2008/M, de 6 de junho, e do artigo 6º do Decreto-Lei nº 259/2007, de 17 de julho, adaptado à Região Autónoma da Madeira, pelo Decreto Legislativo Regional nº 7/2008/M, de 4 de março.
+> Revogado pelo/a [Decreto Legislativo Regional n.º 30/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2016-74967188), publicado em 2016-07-18.
 
-2 - O registo é efetuado com base nas comunicações efetuadas ao abrigo do nº 4 do artigo 4º, do nº 1 do artigo 16º e do artigo 17º do presente diploma.
+###### Artigo 18.º — Registo
+
+A abertura, a modificação e o encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente diploma são objeto de registo, efetuado pela Direção Regional da Economia e Transportes (DRET), e devem ser comunicados até 10 dias após a ocorrência do facto, o qual é considerado para efeitos do cadastro comercial nos termos do artigo 148.º do RJACSR.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2016-74967188), publicado em 2016-07-18.
 
 ### CAPÍTULO IV — Pedidos de informação, fiscalização e sanções
 

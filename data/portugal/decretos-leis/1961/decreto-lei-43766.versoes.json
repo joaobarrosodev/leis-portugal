@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:172904:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1961-06-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fe858d3c5868398a"
+   ]
+  },
+  {
+   "date": "1970-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:141596:por",
+     "title": "Decreto-Lei n.º 331/70",
+     "published": "1970-07-14",
+     "dre_path": "/dr/detalhe/decreto-lei/331-1970-141596"
+    },
+    {
+     "id": "pt:dre:689182:por",
+     "title": "Decreto-Lei n.º 653/70",
+     "published": "1970-12-28",
+     "dre_path": "/dr/detalhe/decreto-lei/653-1970-689182"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "8fd9cd41cfd6ee56",
+    "5224ca6c0f50f05f",
+    "59c6d9c158cb1bb5",
+    "4dcd34ae3b9d8515",
+    "b48a6df0b796e71a",
+    "872389cb4f472e14",
+    "7b436251797fe9ec",
+    "5d580b902e18e1da"
+   ]
+  }
+ ],
+ "fragments": {
+  "fe858d3c5868398a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Os tabacos destinados ao consumo da metrópole, quer nela fabricados (1.º grupo), quer no estrangeiro, ilhas adjacentes ou províncias ultramarinas (2.º grupo), ficam sujeitos a um imposto de consumo, de taxas que vão ser indicadas, sobre o qual não incidirá adicional algum, seja para o Estado, seja para os corpos administrativos.\n\n§ único. As importâncias arrecadadas através deste tributo não serão consideradas para determinação dos descontos mencionados no artigo 23.º do [Decreto-Lei n.º 41386](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41386-1957-251642), de 22 de Novembro de 1957, e sobre as mesmas não incidirá o imposto ad valorem prescrito nos n.os 1.º dos artigos 14.º e 16.º deste diploma.\n\nArt. 2.º As espécies de tabacos em que incidirá o imposto de consumo e correspondentes taxas são as seguintes:\n\na) 1.º grupo:\n\nPicados - taxa de $50 sobre cada unidade de 15 g.\n\nCigarros:\n\nTaxa de $30 sobre cada maço de 10 ou 12 cigarros, com exclusão dos cigarros ordinários ou fortes.\n\nTaxa de $50 sobre cada maço de 20 ou 24 cigarros.\n\nTaxa de 2$50 sobre cada caixa de 100 cigarros.\n\nCigarrilhas com capa de tabaco - taxa de $30 sobre cada cigarrilha.\n\nCharutos - taxa de 1$00 sobre cada charuto.\n\nb) 2.º grupo:\n\nPicados - taxa de $50 sobre cada 15 g ou fracção.\n\nCigarros:\n\nTaxa de $30 sobre cada maço ou caixa de 10 ou 12 cigarros.\n\nTaxa de $50 sobre cada maço ou caixa de 20 a 24 cigarros.\n\nTaxa de 1$00 sobre cada maço ou caixa de 25 a 50 cigarros.\n\nTaxa de 2$50 sobre cada maço ou caixa de 51 a 100 cigarros.\n\nCigarrilhas com capa de tabaco - taxa de $30 sobre cada cigarrilha.\n\nCharutos - taxa de 1$00 sobre cada charuto.\n\n§ 1.º Nas manufacturas especificadas no 1.º grupo o valor das taxas será impresso nos respectivos invólucros com a indicação «Imposto de consumo ...$...» ou, simplesmente, «I. C. ...$...».\n\n§ 2.º Para aproveitamento das manufacturas e rotulagens existentes nas fábricas, será permitida, depois de prévia autorização da Inspecção-Geral de Finanças, a aposição de uma sobrecarga, a tinta de óleo, com a indicação determinada no parágrafo anterior e a denominação da empresa produtora.\n\n§ 3.º As marcas lançadas futuramente no mercado pela indústria metropolitana ficam sujeitas ao pagamento do imposto de consumo igual àquele que neste artigo foi fixado para os tipos e espécies de tabacos que se lhes assemelhem.\n\nArt. 3.º O imposto de consumo sobre o tabaco manufacturado na metrópole será fiscalizado pela Inspecção-Geral de Finanças, cobrado pelas fábricas aos compradores e liquidado nas condições prescritas no § único do artigo 48.º do [Decreto n.º 41397](https://diariodarepublica.pt/dr/detalhe/decreto/41397-1957-251579), de 26 de Novembro de 1957.\n\nArt. 4.º O imposto de consumo dos tabacos manufacturados sujeitos a despacho de importação ou vendidos em hasta pública nas alfândegas será cobrado por estas no acto da liquidação dos respectivos direitos aduaneiros ou do pagamento do valor da adjudicação, conforme o caso.\n\nArt. 5.º As transgressões por falta de pagamento do imposto de consumo ou por pagamento fora do prazo estabelecido serão punidas com multa igual ao dobro do montante da importância devida.\n\n§ 1.º A instrução e julgamento do respectivo processo é da competência das autoridades e tribunais do contencioso fiscal aduaneiro.\n\n§ 2.º As multas que forem impostas por inobservância do disposto neste artigo reverterão integralmente para o Estado.\n\nArt. 6.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro das Finanças.\n\nArt. 7.º Este decreto-lei entra imediatamente em vigor.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 30 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho."
+  },
+  "8fd9cd41cfd6ee56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "5224ca6c0f50f05f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1970-12-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 331/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1970-141596), publicado em 1970-07-14."
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs tabacos destinados ao consumo do continente e ilhas adjacentes, quer de fabrico nacional (1.º grupo), quer estrangeiro (2.º grupo), ficam sujeitos a um imposto de consumo, das taxas a seguir indicadas, sobre o qual não incidirá adicional algum, seja para o Estado, seja para os corpos administrativos.\n\n§ único. As importâncias arrecadadas através deste tributo não serão consideradas para determinação dos descontos mencionados no artigo 23.º do [Decreto-Lei n.º 41386](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41386-1957-251642), de 22 de Novembro de 1957, e sobre as mesmas não incidirá o imposto ad valorem prescrito nos n.os 1.º dos artigos 14.º e 16.º deste diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 331/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1970-141596), publicado em 1970-07-14."
+  },
+  "59c6d9c158cb1bb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1970-12-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 653/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/653-1970-689182), publicado em 1970-12-28."
+   ],
+   "markdown": "###### Artigo 2.º\n\nAs espécies de tabacos em que incidirá o imposto de consumo e correspondentes taxas são as seguintes:\n\na) 1.º grupo:\n\nPicados - taxa de 1$50 sobre cada unidade de 15 g.\n\nCigarros:\n\nTaxa de $90 sobre cada maço ou caixa de 10 ou 12 cigarros, quando de peso superior a 7,5 g;\n\nTaxa de 1$50 sobre cada maço ou caixa de 20 ou 24 cigarros;\n\nTaxa de 4$00 sobre cada maço ou caixa de 25 a 50 cigarros;\n\nTaxa de 9$00 sobre cada maço ou caixa de 51 a 100 cigarros.\n\nCigarrilhas com capa de tabaco:\n\nTaxa de $10 sobre cada cigarrilha cujo preço unitário de venda ao público seja igual ou inferior a 1$00;\n\nTaxa de $90 sobre cada cigarrilha, quando o preço unitário de venda ao público seja superior a 1$00.\n\nCharutos - taxa de 4$00 sobre cada charuto.\n\nb) 2.º grupo:\n\nPicados - taxa de 1$50 sobre cada 15 g ou fracção.\n\nCigarros:\n\nTaxa de $90 sobre cada maço ou caixa de 10 a 12 cigarros, quando de peso superior a 7,5 g;\n\nTaxa de 1$50 sobre cada maço ou caixa de 20 ou 24 cigarros;\n\nTaxa de 4$00 sobre cada maço ou caixa de 25 a 50 cigarros;\n\nTaxa de 9$00 sobre cada maço ou caixa de 51 a 100 cigarros.\n\nCigarrilhas com capa de tabaco:\n\nTaxa de $10 sobre cada cigarrilha cujo preço unitário de venda ao público seja igual ou inferior a 1$00;\n\nTaxa de $90 sobre cada cigarrilha, quando o preço unitário de venda ao público seja superior a 1$00.\n\nCharutos - taxa de 4$00 sobre cada charuto.\n\n§ 1.º Nas manufacturas especificadas no 1.º grupo o valor das taxas será impresso nos respectivos invólucros com a indicação «Imposto de consumo ...$...» ou, simplesmente, «I. C. ...$...».\n\n§ 2.º Para aproveitamento das manufacturas e rotulagens existentes nas fábricas, será permitida, depois de prévia autorização da Inspecção-Geral de Finanças, a aposição de uma sobrecarga, a tinta de óleo, com a indicação determinada no parágrafo anterior e a denominação da empresa produtora.\n\n§ 3.º As marcas lançadas futuramente no mercado pela indústria metropolitana ficam sujeitas ao pagamento do imposto de consumo igual àquele que neste artigo foi fixado para os tipos e espécies de tabacos que se lhes assemelhem.\n\n> Alterado pelo/a [Decreto-Lei n.º 653/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/653-1970-689182), publicado em 1970-12-28."
+  },
+  "4dcd34ae3b9d8515": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO imposto de consumo sobre o tabaco manufacturado na metrópole será fiscalizado pela Inspecção-Geral de Finanças, cobrado pelas fábricas aos compradores e liquidado nas condições prescritas no § único do artigo 48.º do [Decreto n.º 41397](https://diariodarepublica.pt/dr/detalhe/decreto/41397-1957-251579), de 26 de Novembro de 1957."
+  },
+  "b48a6df0b796e71a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO imposto de consumo dos tabacos manufacturados sujeitos a despacho de importação ou vendidos em hasta pública nas alfândegas será cobrado por estas no acto da liquidação dos respectivos direitos aduaneiros ou do pagamento do valor da adjudicação, conforme o caso."
+  },
+  "872389cb4f472e14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs transgressões por falta de pagamento do imposto de consumo ou por pagamento fora do prazo estabelecido serão punidas com multa igual ao dobro do montante da importância devida.\n\n§ 1.º A instrução e julgamento do respectivo processo é da competência das autoridades e tribunais do contencioso fiscal aduaneiro.\n\n§ 2.º As multas que forem impostas por inobservância do disposto neste artigo reverterão integralmente para o Estado."
+  },
+  "7b436251797fe9ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro das Finanças."
+  },
+  "5d580b902e18e1da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nEste decreto-lei entra imediatamente em vigor.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 30 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho."
+  }
+ }
+}

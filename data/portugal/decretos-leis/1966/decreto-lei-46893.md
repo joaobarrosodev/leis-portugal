@@ -28,10 +28,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-05-01'
+version_history:
+  file: decreto-lei-46893.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1966-03-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-05-01'
+    amending: pt:dre:445691:por
+    amending_title: Decreto-Lei n.º 131/71
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:56:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 131/71. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1966/decreto-lei-46893.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,17 +132,35 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É criado o Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas (C. A. F. M. O. P.), dotado de personalidade jurídica, o qual tem por fim facilitar a todos os servidores do Ministério das Obras Públicas o preenchimento de necessidades de ordem económica e social, de modo a contribuir para a melhoria das suas condições de existência e para o estreitamento dos laços de solidariedade entre eles.
+###### Artigo 1.º
 
-Art. 2.º O Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas poderá, mediante autorização do Ministro das Obras Públicas, aceitar doações e subsídios, adquirir e alienar, a título gratuito e oneroso, bens mobiliários e imobiliários e ainda praticar actos de registo e todos os restantes necessários à administração dos mesmos bens.
+(Revogado.)
 
-Art. 3.º O Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas poderá aproveitar da organização e bens do Cofre de Auxílio Mútuo do Comissariado do Desemprego, sem prejuízo dos direitos e regalias dos subscritores do mesmo Cofre, nos termos que forem fixados pelo Ministro das Obras Públicas.
+> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06.
 
-Art. 4.º A gerência do Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas é exercida por uma comissão administrativa, composta de cinco membros nomeados pelo Ministro das Obras Públicas.
+###### Artigo 2.º
 
-§ único. A competência e atribuições da comissão administrativa, bem como as normas necessárias à prossecução dos fins do Cofre, serão definidas, em regulamento, pelo Ministro das Obras Públicas.
+(Revogado.)
 
-Art. 5.º As contas de gerência serão anualmente submetidas à aprovação do Ministro das Obras Públicas, juntamente com o parecer de uma comissão especialmente nomeada para esse fim. A aprovação das contas de gerência pelo Ministro das Obras Públicas legitima, para todos os efeitos, as respectivas receitas e despesas.
+> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06.
+
+###### Artigo 3.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06.
+
+###### Artigo 4.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06.
+
+###### Artigo 5.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06.
 
 Publique-se e cumpra-se como nele se contém.
 

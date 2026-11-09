@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2022-12-30'
+version_history:
+  file: decreto-legislativo-regional-24-96-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1996-09-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-12-30'
+    amending: pt:dre:205450899:por
+    amending_title: Decreto Legislativo Regional n.º 26/2022/M
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/24/1996/09/13/m/dre/pt/html
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    26/2022/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1996/decreto-legislativo-regional-24-96-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,7 +136,9 @@ A Assembleia Legislativa Regional da Madeira, ao abrigo da alínea a) do n.º 1 
 
 ###### Artigo 1.º
 
-Os intervenientes, funcionários da administração pública regional e local, que, isoladamente ou integrados em grupos, participem em actividades de cariz cultural, na Região ou fora dela, e consideradas pelo Governo Regional como de interesse para a Região, têm direito a que o tempo disponibilizado nessas actividades seja considerado como tempo de serviço, para efeitos de antiguidade, sendo as faltas ao trabalho daí decorrentes havidas como justificadas.
+Os trabalhadores a qualquer título vinculados à Região Autónoma da Madeira ou outras pessoas coletivas de direito público, que, isoladamente ou integrados em grupos, participem em atividades de cariz cultural, na Região ou fora dela, e consideradas pelo Governo Regional como de interesse para a Região, têm direito a que o tempo disponibilizado nessas atividades seja considerado como tempo de serviço, para efeitos de antiguidade, sendo as faltas ao trabalho daí decorrentes havidas como justificadas.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 26/2022/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), publicado em 2022-12-29.
 
 ###### Artigo 2.º
 

@@ -1,0 +1,389 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1663992:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-08-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5f29aab16841eae9",
+    "6441bf15a93a6c2f",
+    "3bdaf3679f4f5592",
+    "5cc2d0572aeb483a",
+    "7d03ce175cd957ea",
+    "a71bca34a57ba244",
+    "db7306c5d7e03fc1",
+    "21bb51254fe6d5ad",
+    "6d20ef3f4e07a508",
+    "11aaedf5e42b2a4a",
+    "f0a1b4f4ca3dac91",
+    "1e9bf2fa8c5a36e9",
+    "f33e0142961b19b5",
+    "059fbf291a421670",
+    "6e067def8ee80d6e",
+    "20c7526bf7f8efd3",
+    "d672b46e9a44e9cf",
+    "e39e1c04b13bed0c",
+    "fa2d78a81c655556",
+    "c937a4597cda4cad",
+    "3ce74c6474c30739",
+    "d29fc0c8ff29d8dd",
+    "2db24f47a52fc9c4",
+    "600a00adbed85628",
+    "12c109ee54d686eb",
+    "dd3675b650734301",
+    "e18529b7e766c2a1",
+    "601f2bc1cfa43e04",
+    "0dc5f7b9e34a75e6",
+    "a6531853080482d0",
+    "bef41528e32c9a7e"
+   ]
+  },
+  {
+   "date": "2010-06-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3620231:por",
+     "title": "Despacho Normativo n.º 16/2010",
+     "published": "2010-06-18",
+     "dre_path": "/dr/detalhe/despacho-normativo/16-2010-3620231"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::9.º",
+    "Altera Artigo ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::10.º",
+    "Altera Artigo ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::16.º",
+    "Altera Artigo ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.::19.º"
+   ],
+   "fragments": [
+    "5f29aab16841eae9",
+    "6441bf15a93a6c2f",
+    "3bdaf3679f4f5592",
+    "5cc2d0572aeb483a",
+    "7d03ce175cd957ea",
+    "a71bca34a57ba244",
+    "db7306c5d7e03fc1",
+    "21bb51254fe6d5ad",
+    "6d20ef3f4e07a508",
+    "11aaedf5e42b2a4a",
+    "f0a1b4f4ca3dac91",
+    "1e9bf2fa8c5a36e9",
+    "f33e0142961b19b5",
+    "059fbf291a421670",
+    "b9597626c00d96b5",
+    "20c7526bf7f8efd3",
+    "63740b11f05d3d88",
+    "e39e1c04b13bed0c",
+    "fa2d78a81c655556",
+    "c937a4597cda4cad",
+    "3ce74c6474c30739",
+    "d29fc0c8ff29d8dd",
+    "2db24f47a52fc9c4",
+    "d99bf88fd2e85050",
+    "12c109ee54d686eb",
+    "dd3675b650734301",
+    "ed5669e9446b06cb",
+    "601f2bc1cfa43e04",
+    "0dc5f7b9e34a75e6",
+    "a6531853080482d0",
+    "bef41528e32c9a7e"
+   ]
+  }
+ ],
+ "fragments": {
+  "5f29aab16841eae9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Através da aprovação do presente diploma concretiza-se a reformulação do regime jurídico da actividade de financiamento do sector do turismo prosseguida pelo Turismo de Portugal, I. P.\n\nO presente despacho normativo constitui o enquadramento geral de tais financiamentos, sendo aplicável à gestão dos mesmos sempre que a respectiva concessão não seja objecto de diploma especial.\n\nAs opções ora consagradas decorrem da alteração da moldura jurídica que rege o Turismo de Portugal, I. P., em consequência da profunda reestruturação institucional concretizada pelo Governo e cumprem o objectivo de simplificação dos procedimentos da Administração que tem norteado a acção governativa.\n\nDestacam-se a consagração, pela primeira vez, de regras gerais aplicáveis ao financiamento de eventos e outras acções com efeitos de promoção da imagem de Portugal enquanto destino turístico e à recuperação de créditos, neste caso cumprindo-se também uma recomendação do Tribunal de Contas sobre a matéria.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), de 21 de Abril, e no exercício da competência que me foi delegada através do despacho n.º 18 602/2009, de 5 de Agosto, do Ministro da Economia e da Inovação, publicado no Diário da República, 2.ª série, n.º 155, de 12 de Agosto de 2009, determino o seguinte:\n\n1 - É aprovado o regime geral dos financiamentos do Turismo de Portugal, I. P., anexo ao presente diploma.\n\n2 - Sem prejuízo da respectiva aplicação aos financiamentos concedidos ao seu abrigo, é revogado o [Despacho Normativo n.º 14/2001](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/14-2001-390816), de 14 de Março.\n\n20 de Agosto de 2009. - O Secretário de Estado do Turismo, Bernardo Luís Amador Trindade."
+  },
+  "6441bf15a93a6c2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Regime geral dos financiamentos do Turismo de Portugal, I. P."
+  },
+  "3bdaf3679f4f5592": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma define o regime geral dos financiamentos a conceder pelo Turismo de Portugal, I. P., incluindo os atribuídos em associação com outras entidades.\n\n2 - Os financiamentos a conceder pelo Turismo de Portugal, I. P. visam:\n\na) O apoio financeiro ao investimento privado de interesse turístico;\n\nb) O apoio financeiro à realização de investimento público de interesse turístico;\n\nc) O apoio financeiro à realização de eventos de interesse turístico e dimensão relevante nos âmbitos cultural, desportivo ou de animação;\n\nd) O apoio financeiro a iniciativas de formação escolar e profissional e de investigação científica relevantes para o turismo, incluindo o apoio das entidades que as promovam;\n\ne) O apoio financeiro às entidades regionais de turismo no âmbito dos processos de saneamento financeiro decorrentes da reforma institucional operada através do [Decreto-Lei n.º 67/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2008-249827), de 10 de Abril;\n\nf) O apoio a projectos desenvolvidos por associações empresariais do sector do turismo.\n\n3 - O disposto no presente diploma não se aplica à concessão de financiamentos no âmbito da execução de programas co-financiados pela União Europeia que disponham de regulamentação própria, nem prejudica a existência de programas específicos de financiamento com quadros regulamentares próprios.\n\n4 - Sem prejuízo do disposto na secção iii, o desenvolvimento regulamentar previsto no número anterior afasta a aplicação do presente diploma."
+  },
+  "5cc2d0572aeb483a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Dotação e cabimento orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Dotação e cabimento orçamental\n\n1 - A dotação orçamental utilizada para a execução do regime emergente do presente diploma é constituída por receitas próprias do Turismo de Portugal, I. P., e, no que respeita aos financiamentos a que se refere a secção ii, também por receitas não consignadas provenientes das contrapartidas anuais das concessões de zonas de jogo localizadas no território continental, nos termos das disposições a estas aplicáveis.\n\n2 - Em cada exercício económico, os pagamentos de apoios financeiros concedidos contêm-se nos limites dos respectivos cabimentos, ainda que respeitem a financiamentos plurianuais."
+  },
+  "7d03ce175cd957ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Financiamentos em associação com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Financiamentos em associação com outras entidades"
+  },
+  "a71bca34a57ba244": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Protocolos\n\n1 - O Turismo de Portugal, I. P., pode celebrar protocolos de co-financiamento com outras entidades.\n\n2 - Os protocolos a que se refere o número anterior definem:\n\na) O montante máximo do envolvimento financeiro do Turismo de Portugal, I. P., na execução dos protocolos e a cadência anual das correspondentes entregas;\n\nb) As garantias especiais de reembolso do Turismo de Portugal, I. P., relativas a cada operação de co-financiamento, a prestar pelas outras partes subscritoras dos protocolos;\n\nc) A tipologia dos projectos a co-financiar;\n\nd) Os termos dos financiamentos a conceder, incluindo os montantes e prazos máximos de carência e de amortização do capital e as taxas de juro remuneratório e de mora a aplicar;\n\ne) Todas as demais regras aplicáveis à gestão dos co-financiamentos, incluindo as que respeitam aos procedimentos adoptados.\n\n3 - A competência de gestão dos co-financiamentos pode ser delegada pelo Turismo de Portugal, I. P., nas outras partes subscritoras dos protocolos, a título gratuito ou oneroso."
+  },
+  "db7306c5d7e03fc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Financiamentos do Turismo de Portugal, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Financiamentos do Turismo de Portugal, I. P."
+  },
+  "21bb51254fe6d5ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Promotores e projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Promotores e projectos"
+  },
+  "6d20ef3f4e07a508": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Promotores\n\nSão promotores dos projectos a financiar pelo Turismo de Portugal, I. P., nos termos da presente secção:\n\na) Entidades da administração pública, incluindo autarquias locais e as entidades regionais de turismo, sem prejuízo do disposto em legislação específica, ou as entidades em que aquelas deleguem a realização dos projectos objecto de apoio financeiro;\n\nb) Entidades privadas, incluindo as de natureza comercial, desde que, em alternativa, sejam:\n\ni) Detentoras dos direitos de realização ou organização de eventos ou responsáveis pela promoção de actividades, designadamente culturais ou desportivas, de interesse turístico;\n\nii) Responsáveis pela realização de trabalhos de infra-estruturas de interesse turístico."
+  },
+  "11aaedf5e42b2a4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de acesso dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de acesso dos promotores\n\nSob pena de exclusão das candidaturas, os promotores têm de ter as situações devedora e contributiva regularizadas junto da administração fiscal, da segurança social e do Turismo de Portugal, I. P."
+  },
+  "f0a1b4f4ca3dac91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Projectos\n\n1 - Podem ser financiados pelo Turismo de Portugal, I. P., todos os projectos com relevância para o sector do turismo a que se refere o n.º 2 do artigo 1.º, incluindo, nomeadamente:\n\na) A realização de obras de valorização de recursos, qualificação de zonas históricas e de espaços ambientalmente sensíveis, incluindo a adaptação de património a fins de interesse turístico;\n\nb) A aquisição de equipamentos e de tecnologias e sistemas de informação;\n\nc) O desenvolvimento de acções ou projectos de que contribuam para a criação de novos produtos turísticos e a revitalização de produtos turísticos existentes;\n\nd) A realização de eventos e outras acções com aptidão para a promoção de Portugal enquanto destino turístico;\n\ne) A realização de estudos e estatísticas, bem como a concessão de bolsas de estudo e estágios;\n\nf) A organização e divulgação de informação turística;\n\ng) O reforço das estruturas administrativas do sector do turismo e da cooperação entre estas e as entidades privadas do mesmo sector de actividade.\n\n2 - Por decisão do membro do Governo responsável pela área do turismo, pode ainda ser financiada a realização de outras operações e iniciativas, eventos e actividades de relevância para o turismo que, pela respectiva natureza ou características, não possam ser objecto de candidatura, análise e contratação nos termos definidos na presente secção."
+  },
+  "1e9bf2fa8c5a36e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Condições de acesso dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de acesso dos projectos\n\nOs projectos têm de reunir as seguintes condições cumulativas:\n\na) Terem relevância para o turismo;\n\nb) Sempre que legalmente exigível, estarem aprovados pelas entidades competentes para tal efeito;\n\nc) Evidenciarem a reunião das condições materiais e financeiras necessárias para a respectiva execução."
+  },
+  "f33e0142961b19b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Financiamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Financiamentos"
+  },
+  "059fbf291a421670": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Natureza e intensidade dos financiamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Natureza e intensidade dos financiamentos\n\n1 - Os financiamentos do Turismo de Portugal, I. P., podem ser:\n\na) Reembolsáveis, com ou sem remuneração;\n\nb) Não reembolsáveis; ou\n\nc) Mistos, com ou sem remuneração na parte reembolsável.\n\n2 - Sem prejuízo do disposto no número seguinte, os financiamentos têm o limite máximo de 3 milhões de euros.\n\n3 - Por decisão do membro do Governo responsável pela área do turismo, o limite máximo a que se refere o número anterior pode ser afastado em função do mérito dos projectos."
+  },
+  "6e067def8ee80d6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Condições dos financiamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições dos financiamentos\n\n1 - Sem prejuízo do disposto no n.º 3 do presente artigo e no n.º 3 do artigo 8.º, os financiamentos reembolsáveis têm as seguintes condições:\n\na) Prazo máximo de reembolso: 10 anos;\n\nb) Prazo máximo de carência de capital: 3 anos;\n\nc) Taxa máxima de juro de capital: EURIBOR, acrescida de 2 %;\n\nd) Taxa máxima de juro de mora: taxa máxima aplicada pelo Turismo de Portugal, I. P., acrescida de 3 %.\n\n2 - O prazo de carência de capital integra-se no prazo máximo de reembolso.\n\n3 - A taxa de cobertura dos investimentos por capital próprio não deve ser inferior a 10 %.\n\n4 - Por motivos devidamente fundamentados e desde que as características dos respectivos projectos o justifiquem, pode o membro do Governo responsável pela área do turismo autorizar que os financiamentos a conceder excedam os prazos máximos a que se referem as alíneas a) e b) do n.º 1.\n\n5 - O reembolso dos financiamentos é assegurado por garantia bancária ou hipoteca, podendo o Turismo de Portugal, I. P., fundamentadamente, aceitar outras garantias admitidas em direito."
+  },
+  "20c7526bf7f8efd3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Procedimentos"
+  },
+  "d672b46e9a44e9cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Candidaturas\n\n1 - As candidaturas são apresentadas a todo o tempo, em formulário electrónico disponível no sítio da internet do Turismo de Portugal, I. P.\n\n2 - Os processos de candidatura são instruídos com os seguintes elementos:\n\na) Projectos aprovados pelas entidades para tanto competentes, sempre que os investimentos a realizar os exijam;\n\nb) Memórias descritivas dos investimentos;\n\nc) Estimativas dos investimentos, suportadas com orçamentos e com identificação das fontes de financiamento previstas;\n\nd) Cronogramas dos investimentos e demonstração da sustentabilidade dos mesmos;\n\ne) Comprovativos da regularidade das situações devedora e contributiva junto da administração fiscal e da segurança social.\n\n3 - O Turismo de Portugal, I. P., aprecia tecnicamente as candidaturas no prazo máximo de 30 dias úteis.\n\n4 - O prazo referido no número anterior suspende-se sempre que o Turismo de Portugal, I. P., solicite esclarecimentos complementares, até à data da prestação destes."
+  },
+  "e39e1c04b13bed0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Processo negocial e decisão final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Processo negocial e decisão final\n\n1 - Analisadas as candidaturas e, sendo o caso, delimitado o elenco das acções passíveis de financiamento, o Turismo de Portugal, I. P., pode abrir um processo negocial com os promotores.\n\n2 - O processo negocial, caso ocorra, tem por objecto a fixação do conteúdo das acções a desenvolver e de uma proposta, não vinculativa, dos termos dos correspondentes financiamentos.\n\n3 - Terminada a análise ou o processo negocial, as candidaturas são objecto de decisão final.\n\n4 - A decisão final compete:\n\na) Ao membro do Governo responsável pela área do turismo, sempre que o montante máximo dos financiamentos exceda (euro) 250 000 e, independentemente do valor, no caso previsto no n.º 2 do artigo 6.º;\n\nb) Ao conselho directivo do Turismo de Portugal, I. P., nos demais casos.\n\n5 - Sempre que os financiamentos sejam concedidos com mobilização de receitas emergentes das contrapartidas anuais das concessões de zonas de jogo localizadas no território continental, a decisão final cabe ao membro do Governo responsável pela área do turismo, sobre proposta do Turismo de Portugal, I. P."
+  },
+  "fa2d78a81c655556": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Prazo para a contratualização e caducidade dos financiamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prazo para a contratualização e caducidade dos financiamentos\n\n1 - Os documentos necessários para a celebração dos contratos são remetidos ao Turismo de Portugal, I. P., no prazo por este fixado para o efeito, findo o qual o direito aos financiamentos caduca.\n\n2 - O direito aos financiamentos extingue-se, igualmente, por incumprimento das obrigações para os promotores decorrentes dos contratos celebrados."
+  },
+  "c937a4597cda4cad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contratos\n\n1 - Sem prejuízo do disposto em legislação específica, a concessão dos financiamentos é objecto de contratos a celebrar entre o Turismo de Portugal, I. P., e os promotores, cujo conteúdo integra, com as adaptações que em cada caso se justifiquem:\n\na) A natureza e montante dos financiamentos;\n\nb) O prazo de execução dos projectos;\n\nc) As garantias especiais de reembolso constituídas;\n\nd) As condições de libertação dos financiamentos;\n\ne) A indicação de conta bancária específica para a execução dos projectos;\n\nf) As condições de prorrogação dos prazos previstos na alínea b);\n\ng) As consequências do incumprimento das obrigações assumidas pelos promotores;\n\nh) Os termos do acompanhamento dos investimentos realizados e os respectivos indicadores de realização.\n\n2 - Os promotores têm de manter actualizado um dossier com todos os documentos relevantes para o acompanhamento, incluindo, sempre que for o caso, os documentos comprovativos das despesas efectuadas."
+  },
+  "3ce74c6474c30739": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Gestores de projectos e comissões de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Gestores de projectos e comissões de acompanhamento\n\n1 - O Turismo de Portugal, I. P., designa gestores de projectos incumbidos de assegurar o acompanhamento permanente dos processos.\n\n2 - Sem prejuízo do disposto no número anterior, sempre que o entenda conveniente em razão das características dos projectos, o Turismo de Portugal, I. P., pode constituir comissões de acompanhamento dos mesmos, cuja composição é definida em cada caso e nas quais, sempre que possível, participam representantes das entidades públicas intervenientes nas candidaturas ou na execução dos projectos."
+  },
+  "d29fc0c8ff29d8dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Recuperação de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Recuperação de créditos"
+  },
+  "2db24f47a52fc9c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acordos de recuperação de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acordos de recuperação de créditos\n\n1 - A presente secção define os critérios aplicáveis à definição do conteúdo de acordos de recuperação de créditos a celebrar pelo Turismo de Portugal, I. P., em consequência de:\n\na) Incumprimento dos planos de reembolso de financiamentos concedidos, com excepção daqueles a que se refere a secção i;\n\nb) Resolução de contratos de financiamento por incumprimento das entidades promotoras, incluindo, sempre que possível, os acordos celebrados no âmbito de processos judiciais de recuperação de créditos;\n\nc) Resolução por mútuo acordo dos contratos a que se refere a alínea anterior.\n\n2 - As regras constantes dos artigos seguintes não se aplicam sempre que, nos termos dos regimes aplicáveis, estiverem definidas regras especiais para a recuperação de créditos titulados pelo Turismo de Portugal, I. P."
+  },
+  "600a00adbed85628": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Prazos máximos de reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Prazos máximos de reembolso\n\n1 - Os prazos máximos a acordar para o reembolso dos financiamentos total ou parcialmente reembolsáveis não pode exceder o menor de dois limites:\n\na) Cinco anos;\n\nb) O termo final do prazo para a amortização dos financiamentos caso os correspondentes contratos não tivessem sido resolvidos.\n\n2 - O prazo máximo a acordar para recuperação dos financiamentos não reembolsáveis não pode exceder cinco anos.\n\n3 - Os prazos concretamente acordados para o reembolso são determinados em função dos montantes em dívida e da capacidade financeira das entidades devedoras.\n\n4 - Os prazos máximos definidos nos n.os 1 e 2 podem ser excepcionalmente alargados sempre que as entidades devedoras demonstrem incapacidade financeira para efectuar o reembolso integral das dívidas nos prazos aí definidos.\n\n5 - Sempre que as obrigações das entidades devedoras estejam assistidas por garantias especiais de reembolso, o alargamento de prazos a que se refere o número anterior não pode prejudicar a manutenção e a consistência de tais garantias especiais."
+  },
+  "12c109ee54d686eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Juros de capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Juros de capital\n\n1 - As prestações vincendas dos planos de reembolso acordados vencem sempre juros remuneratórios.\n\n2 - As taxas de juro aplicáveis são indexadas à EURIBOR, de prazo correspondente ao da cadência das prestações.\n\n3 - A amplitude das taxas de juro a aplicar é a seguinte:\n\nTaxa máxima: 100 % da EURIBOR;\n\nTaxa mínima: 50 % da EURIBOR."
+  },
+  "dd3675b650734301": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Juros de mora e cláusulas penais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Juros de mora e cláusulas penais\n\n1 - Sempre que aplicável, a taxa de juro de mora não pode ser inferior à taxa prevista na alínea a) do n.º 3 do artigo anterior, ou à taxa supletiva de mora, se esta for mais elevada.\n\n2 - O Turismo de Portugal, I. P., pode renunciar ao recebimento de juros de mora.\n\n3 - O Turismo de Portugal, I. P., pode igualmente, no quadro de uma resolução extrajudicial de diferendos, renunciar ao recebimento de montantes decorrentes da estipulação de cláusulas penais."
+  },
+  "e18529b7e766c2a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Diferimento do pagamento de prestações vencidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Diferimento do pagamento de prestações vencidas\n\n1 - O Turismo de Portugal, I. P., pode consentir o diferimento do pagamento de prestações dos planos acordados vencidas e não pagas.\n\n2 - As prestações cujo pagamento é diferido nos termos do número anterior vencem juros remuneratórios."
+  },
+  "601f2bc1cfa43e04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Renegociação de acordos de recuperação de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Renegociação de acordos de recuperação de crédito\n\nOs termos dos acordos de recuperação de créditos estipulados com as entidades devedoras podem ser renegociados dentro dos limites definidos no presente diploma."
+  },
+  "0dc5f7b9e34a75e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Subordinação aos processos judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Subordinação aos processos judiciais\n\nO disposto nos artigos anteriores não é aplicável sempre que, no âmbito de processos judiciais, a satisfação dos interesses do Turismo de Portugal, I. P., determine a celebração de acordos com conteúdo diverso."
+  },
+  "a6531853080482d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Disposições finais"
+  },
+  "bef41528e32c9a7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Financiamentos concedidos ao abrigo de outros diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Financiamentos concedidos ao abrigo de outros diplomas\n\nSem prejuízo do disposto no n.º 2 do artigo 15.º, as regras constantes da secção iii aplicam-se aos acordos a celebrar relativamente a financiamentos concedidos ao abrigo de outros diplomas.\n\n202220285"
+  },
+  "b9597626c00d96b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Condições dos financiamentos",
+   "in_force_from": "2010-06-18",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18."
+   ],
+   "markdown": "###### Artigo 9.º — Condições dos financiamentos\n\n1 - Sem prejuízo do disposto no n.º 3 do presente artigo e no n.º 3 do artigo 8.º, os financiamentos reembolsáveis têm as seguintes condições:\n\na) Prazo máximo de reembolso: 10 anos;\n\nb) Prazo máximo de carência de capital: 3 anos;\n\nc) Taxa máxima de juro de capital: EURIBOR, acrescida de 2 %;\n\nd) Taxa máxima de juro de mora: taxa máxima aplicada pelo Turismo de Portugal, I. P., acrescida de 3 %.\n\n2 - O prazo de carência de capital integra-se no prazo máximo de reembolso.\n\n3 - A taxa de cobertura dos investimentos por capital próprio não pode ser inferior a 10 %, salvo, por razões devidamente justificadas e autorizadas pelo membro do Governo responsável pela área do turismo, no caso de projectos desenvolvidos pelas entidades a que se refere a alínea a) do artigo 4.º do presente Regulamento.\n\n4 - Por motivos devidamente fundamentados e desde que as características dos respectivos projectos o justifiquem, pode o membro do Governo responsável pela área do turismo autorizar que os financiamentos a conceder excedam, no máximo, em um terço os prazos máximos a que se referem as alíneas a) e b) do n.º 1 do presente artigo.\n\n5 - Sem prejuízo do disposto no número seguinte, o reembolso dos financiamentos é assegurado por garantia bancária.\n\n6 - O Turismo de Portugal, I. P., pode, fundamentadamente, admitir a dispensa de prestação de garantia às entidades regionais de turismo.\n\n> Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18."
+  },
+  "63740b11f05d3d88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Candidaturas",
+   "in_force_from": "2010-06-18",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18."
+   ],
+   "markdown": "###### Artigo 10.º — Candidaturas\n\n1 - As candidaturas podem efectuar-se a todo o tempo, através do formulário electrónico disponível no sítio www.turismodeportugal.pt.\n\n2 - Por despacho do membro do Governo responsável pela área do turismo, e no âmbito do presente Regulamento, podem ser criados programas de apoio ou concursos específicos, com períodos de vigência, condições e dotações orçamentais próprias.\n\n3 - Os processos de candidatura são instruídos com os seguintes elementos:\n\na) Projectos aprovados pelas entidades para tanto competentes, sempre que os investimentos a realizar os exijam;\n\nb) Memórias descritivas dos investimentos;\n\nc) Estimativas dos investimentos, suportadas com orçamentos e com identificação das fontes de financiamento previstas;\n\nd) Cronogramas dos investimentos e demonstração da sustentabilidade dos mesmos;\n\ne) Comprovativos da regularidade das situações devedora e contributiva junto da administração fiscal e da segurança social.\n\n4 - O Turismo de Portugal, I. P., aprecia tecnicamente as candidaturas no prazo máximo de 30 dias úteis.\n\n5 - O prazo referido no número anterior suspende-se sempre que o Turismo de Portugal, I. P., solicite esclarecimentos complementares, até à data da prestação destes.\n\n> Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18."
+  },
+  "d99bf88fd2e85050": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Prazos máximos de reembolso",
+   "in_force_from": "2010-06-18",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18."
+   ],
+   "markdown": "###### Artigo 16.º — Prazos máximos de reembolso\n\n1 - Sem prejuízo do disposto no artigo 19.º, os prazos máximos a acordar para o reembolso dos financiamentos total ou parcialmente reembolsáveis não pode exceder o menor de dois limites:\n\na) Cinco anos;\n\nb) O termo final do prazo para a amortização dos financiamentos caso os correspondentes contratos não tivessem sido resolvidos.\n\n2 - O prazo máximo a acordar para recuperação dos financiamentos não reembolsáveis não pode exceder cinco anos.\n\n3 - Os prazos concretamente acordados para o reembolso são determinados em função dos montantes em dívida e da capacidade financeira das entidades devedoras.\n\n4 - Os prazos máximos definidos nos n.os 1 e 2 podem ser excepcionalmente alargados sempre que as entidades devedoras demonstrem incapacidade financeira para efectuar o reembolso integral das dívidas nos prazos aí definidos.\n\n5 - Sempre que as obrigações das entidades devedoras estejam assistidas por garantias especiais de reembolso, o alargamento de prazos a que se refere o número anterior não pode prejudicar a manutenção e a consistência de tais garantias especiais.\n\n> Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18."
+  },
+  "ed5669e9446b06cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Diferimento do pagamento de prestações vencidas",
+   "in_force_from": "2010-06-18",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18."
+   ],
+   "markdown": "###### Artigo 19.º — Diferimento do pagamento de prestações vencidas\n\n1 - O Turismo de Portugal, I. P., pode consentir o diferimento do pagamento de prestações dos planos acordados vencidas e não pagas.\n\n2 - As prestações cujo pagamento é diferido nos termos do número anterior podem vencer juros remuneratórios ou moratórios.\n\n> Alterado pelo/a [Despacho Normativo n.º 16/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2010-3620231), publicado em 2010-06-18."
+  }
+ }
+}

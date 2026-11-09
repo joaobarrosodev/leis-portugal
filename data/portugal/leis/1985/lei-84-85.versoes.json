@@ -1,0 +1,156 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:261716:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-10-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d5bb80ad27c88060",
+    "fd162fe63820d0de",
+    "21ac84b6e2152665",
+    "21b727eed01a5cc1",
+    "21890abf1c81bd55",
+    "e7e9cabedfb6a847",
+    "40f45c1b7181d20d"
+   ]
+  },
+  {
+   "date": "1989-08-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:618477:por",
+     "title": "Lei n.º 36/89",
+     "published": "1989-08-24",
+     "dre_path": "/dr/detalhe/lei/36-1989-618477"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "d5bb80ad27c88060",
+    "7a7307b0caa003aa",
+    "ee566484d0350437",
+    "bc1d39df8a952104",
+    "389ae702f72a5175",
+    "afba18a85f1daf29",
+    "6670e3ee016de0e8"
+   ]
+  }
+ ],
+ "fragments": {
+  "d5bb80ad27c88060": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Outubro\n\nCriação da freguesia de Pereiras-Gare no concelho de Odemira\n\nA Assembleia da República decreta, nos termos da alínea j) do artigo 167.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:"
+  },
+  "fd162fe63820d0de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º\n\nÉ criada no concelho de Odemira a freguesia de Pereiras-Gare."
+  },
+  "21ac84b6e2152665": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º\n\nOs limites da nova freguesia, conforme representação cartográfica anexa, são:\n\nA norte, com a freguesia de Santa Clara-a-Velha (desde o primeiro marco da Corte Sevilha do Meio, junto à estrada nacional e a sul do restante terreno da Corte Sevilha do Meio, seguindo por partilhas do terreno da Corte Sevilha do Meio com terreno da Tramagueira de Baixo, partindo de seguida com terreno do Monte Velho e da Referta, continuando por partilhas do Montinho com Fitos de Baixo, avançando por partilhas da Fonte do Corcho com terrenos do ribeiro, seguindo pela vertente partindo com terreno dos Fitos Grandes e do Gavião, chegando ao serro do Olival, continuando pela partilha do Gavião com o Gavianito até à Portela da Cruz);\n\nA sul, com a freguesia de São Marcos de Ser;\n\nA nascente, com a freguesia de Santana da Serra;\n\nA poente, com a freguesia de Sabóia."
+  },
+  "21b727eed01a5cc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º\n\n1 - A comissão instaladora da nova freguesia será constituída nos termos e no prazo previstos no artigo 10.º de [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832), de 2 de Junho.\n\n2 - Para os efeitos da disposição referida no número anterior, a Assembleia Municipal de Odemira nomeará uma comissão instaladora constituída por:\n\na) 1 representante da Câmara Municipal de Odemira;\n\nb) 1 representante da Assembleia Municipal de Odemira;\n\nc) 1 representante da Assembleia de Freguesia de Odemira;\n\nd) 1 representante da Junta de Freguesia de Odemira;\n\ne) 5 cidadãos eleitores designados de acordo com o n.º 3 do artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832)."
+  },
+  "21890abf1c81bd55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º\n\n1 - A comissão instaladora exercerá funções até à tomada de posse dos órgãos autárquicos da nova freguesia.\n\n2 - O artigo 10.º, n.º 6, da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832) não se aplica à criação da presente freguesia."
+  },
+  "e7e9cabedfb6a847": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º\n\nAs eleições para a assembleia da nova freguesia realizar-se-ão na data das primeiras eleições autárquicas gerais posteriores à entrada em vigor da presente lei."
+  },
+  "40f45c1b7181d20d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º\n\nA presente lei entra em vigor 5 dias após a sua publicação.\n\nAprovada em 9 de Julho de 1985.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 2 de Setembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 4 de Setembro de 1985.\n\nO Primeiro-Ministro, Mário Soares.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/22901/00150016.pdf)"
+  },
+  "7a7307b0caa003aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada no concelho de Odemira a freguesia de Pereiras-Gare."
+  },
+  "ee566484d0350437": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1989-08-29",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 36/89](https://diariodarepublica.pt/dr/detalhe/lei/36-1989-618477), publicado em 1989-08-24."
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs limites da nova freguesia de Pereiras-Gare, no concelho de Odemira, conforme representação topográfica, que se anexa, são:\n\nA norte: com a freguesia de Santa Clara-a-Velha, desde o primeiro marco da Corte Sevilha, junto à estrada nacional, a sul do referido marco com terreno de Inácio João e a norte do referido marco com terreno de Joaquim Gonçalves Cabrita, chegando à ribeira, seguindo pela linha de água até ao porto da Fragura, seguindo pelo barranco da Casa Branca, partindo com terras de José António Cabrita, seguindo por partilhas com terras de Anastácio da Silva Cabrita, chegando até à partilha com a foz da Reboja, partindo de seguida com terreno do Monte Velho e da Referta, continuando por partilhas do Montinho com Fitos de Baixo, avançando por partilhas da Fonte do Corcho com terreno do ribeiro, seguindo pela vertente, partindo com terreno dos Fitos Grandes e do Gavião, chegando ao serro do Olival, continuando pelas partilhas do Gavião com o Gavianito até à Portela da Cruz;\n\nA sul: com a freguesia de São Marcos da Serra;\n\nA nascente: com a freguesia de Santana da Serra;\n\nA poente: com a freguesia de Sabóia.\n\n> Alterado pelo/a [Lei n.º 36/89](https://diariodarepublica.pt/dr/detalhe/lei/36-1989-618477), publicado em 1989-08-24."
+  },
+  "bc1d39df8a952104": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A comissão instaladora da nova freguesia será constituída nos termos e no prazo previstos no artigo 10.º de [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832), de 2 de Junho.\n\n2 - Para os efeitos da disposição referida no número anterior, a Assembleia Municipal de Odemira nomeará uma comissão instaladora constituída por:\n\na) 1 representante da Câmara Municipal de Odemira;\n\nb) 1 representante da Assembleia Municipal de Odemira;\n\nc) 1 representante da Assembleia de Freguesia de Odemira;\n\nd) 1 representante da Junta de Freguesia de Odemira;\n\ne) 5 cidadãos eleitores designados de acordo com o n.º 3 do artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832)."
+  },
+  "389ae702f72a5175": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A comissão instaladora exercerá funções até à tomada de posse dos órgãos autárquicos da nova freguesia.\n\n2 - O artigo 10.º, n.º 6, da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832) não se aplica à criação da presente freguesia."
+  },
+  "afba18a85f1daf29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs eleições para a assembleia da nova freguesia realizar-se-ão na data das primeiras eleições autárquicas gerais posteriores à entrada em vigor da presente lei."
+  },
+  "6670e3ee016de0e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA presente lei entra em vigor 5 dias após a sua publicação.\n\nAprovada em 9 de Julho de 1985.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 2 de Setembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 4 de Setembro de 1985.\n\nO Primeiro-Ministro, Mário Soares.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/22901/00150016.pdf)"
+  }
+ }
+}

@@ -38,10 +38,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-11-04'
+version_history:
+  file: decreto-regulamentar-regional-41-82-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-11-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-11-04'
+    amending: pt:dre:443676:por
+    amending_title: Decreto Regulamentar Regional n.º 48/83/A
+    changes:
+    - Revoga Artigo 5.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 14.º
+    - Adita Artigo 17.º-A
 identifiers:
   celex: null
   eli: null
@@ -67,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:25:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    48/83/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1982/decreto-regulamentar-regional-41-82-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,6 +171,10 @@ a) Fiscalizar a liquidação, cobrança e pagamento das contribuições para o F
 
 b) Financiar acções e esquemas de promoção e manutenção do emprego, formação e reabilitação profissional, protecção no desemprego e apoio à mobilidade geográfica e profissional dos trabalhadores.
 
+c) Fiscalizar o cumprimento das obrigações dos empregadores e trabalhadores emergentes de diplomas relacionados com a criação, manutenção e recuperação de postos de trabalho e com o sistema de protecção no desemprego e situações equiparadas.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 48/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1983-443676), publicado em 1983-11-04.
+
 ###### Artigo 4.º — (Estrutura)
 
 1 - O GRGFD tem sede em Ponta Delgada, ali funcionando os serviços mencionados no número seguinte.
@@ -166,11 +191,15 @@ c) Gestão financeira e patrimonial.
 
 4 - Compete aos núcleos do GRGFD executar, na área da sua implantação, acções de fiscalização, bem como exercer as funções enumeradas nos artigos 6.º, 7.º e 8.º que sejam da competência do pessoal de inspecção e administrativo e ainda aquelas que lhes forem cometidas pelo director.
 
-5 - Os núcleos do GRGFD serão chefiados pelo funcionário mais qualificado ou, em igualdade de circunstâncias, pelo que tiver maior tempo de serviço e que resida na ilha onde aqueles se encontrem implantados.
+5 - Os núcelos do GRGFD serão chefiados, em comissão de serviço, nos termos do [Decreto Regional n.º 9/80/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/9-1980-682232), de 5 de Abril, pelos funcionários para o efeito designados pelo Secretário Regional do Trabalho, sob proposta do director, os quais são equiparados, para efeitos de remuneração, à categoria de chefe de secção.
 
 6 - A composição de cada um daqueles núcleos será fixada por despacho do Secretário Regional do Trabalho, atendendo às condições e necessidades específicas da respectiva área de implantação.
 
 7 - O GRGFD é dirigido por um director, equiparado, para os devidos efeitos legais, à categoria de director de serviços.
+
+8 - O director é coadjuvado no exercício das suas funções por um subdirector, que o substituirá nas suas ausências e impedimentos e exercerá as demais funções que lhe sejam delegadas.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 48/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1983-443676), publicado em 1983-11-04.
 
 ###### Artigo 5.º — (Director)
 
@@ -184,9 +213,11 @@ c) Exercer na Região as atribuições conferidas por lei ao director do Gabinet
 
 d) Exercer, para além das atribuições que resultem do presente diploma e demais legislação, as que são inerentes aos órgãos dirigentes dos organismos dotados de autonomia administrativa e financeira.
 
-2 - Nas suas ausências e impedimentos o director será substituído por funcionário para o efeito designado pelo Secretário Regional do Trabalho.
+2 - (Revogado.)
 
 3 - O director elaborará e entregará ao Secretário Regional do Trabalho, até 31 de Janeiro de cada ano, um relatório em que exponha as actividades desenvolvidas no ano anterior pelo departamento em que superintende, bem como o plano de actividades para o ano em curso.
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 48/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1983-443676), publicado em 1983-11-04.
 
 ###### Artigo 6.º — (Da Secção dos Serviços Administrativos)
 
@@ -230,7 +261,9 @@ j) Promover a reclamação das contribuições em dívida, nos processos de liqu
 
 l) Organizar os processos de restituição de quantias pagas indevidamente pelos contribuintes, bem como informar os processos de reclamação ou recursos interpostos contra a liquidação de contribuições.
 
-2 - Os Serviços de Fiscalização e Contencioso serão chefiados por um subinspector principal.
+2 - A chefia dos Serviços de Fiscalização e Contencioso exercer-se-á nos termos do n.º 5 do artigo 4.º
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 48/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1983-443676), publicado em 1983-11-04.
 
 ###### Artigo 8.º — (Da gestão financeira e patrimonial)
 
@@ -252,7 +285,9 @@ g) Organizar e processar a movimentação de fundos, controlando as respectivas 
 
 h) Organizar e manter actualizada a contabilidade do GRGFD e, de um modo geral, assegurar a respectiva gestão orçamental.
 
-2 - Os Serviços de Gestão Financeira e Patrimonial serão chefiados por um primeiro-oficial.
+2 - A chefia dos Serviços de Gestão Financeira e Patrimonial exercer-se-á nos termos do n.º 5 do artigo 4.º
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 48/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1983-443676), publicado em 1983-11-04.
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
@@ -308,13 +343,13 @@ Sem prejuízo da organização de orçamentos suplementares, nos termos da lei, 
 
 ###### Artigo 14.º — (Movimentação de fundos)
 
-1 - Os depósitos do GRGFD serão feitos na Caixa Geral de Depósitos, podendo, contudo, o director manter em cofre um fundo de maneio para satisfação das despesas correntes do organismo até um montante máximo a fixar por despacho do Secretário Regional do Trabalho.
+1 - Os fundos do GRGFD serão depositados à sua ordem em qualquer instituição pública de crédito, sem prejuízo de poder manter um fundo de maneio até ao montante máximo a fixar por despacho do Secretário Regional do Trabalho.
 
-2 - O preceituado no número anterior não prejudica o recurso a outras entidades bancárias para processamento de vencimentos.
+2 - A movimentação dos valores depositados só poderá ser efectuada com as assinaturas do director e do chefe de um dos serviços enumerados no n.º 2 do artigo 4.º deste diploma.
 
-3 - O levantamento de fundos do GRGFD só poderá ser efectuado com as assinaturas do director e do chefe de um dos serviços enumerados no n.º 2 do artigo 4.º deste diploma.
+3 - Na falta, impedimento ou ausência dos funcionários a que se refere o número anterior, o Secretário Regional do Trabalho, mediante despacho, designará outros que os substituam para aquele efeito.
 
-4 - Na falta, impedimento ou ausência de algum ou de todos os funcionários a que se refere o número anterior, o Secretário Regional do Trabalho, mediante despacho, designará outros que os substituam para aquele efeito.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 48/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1983-443676), publicado em 1983-11-04.
 
 ### CAPÍTULO IV — Pessoal
 
@@ -343,6 +378,12 @@ d) Subinspector estagiário - por concurso documental entre funcionários da Sec
 ###### Artigo 17.º — (Deslocações)
 
 O pessoal de inspecção adstrito à sede ou aos núcleos poderá, mediante despacho do director do GRGFD, ser deslocado para a execução de acções de fiscalização fora da área em que habitualmente preste serviço ou da ilha em que residir.
+
+###### Artigo 17.º-A — (Identificação)
+
+O pessoal dirigente e técnico de inspecção do GRGFD utilizará, no exercício das suas funções, um cartão de identidade, a emitir nas condições a regulamentar por portaria do Secretário Regional do Trabalho.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 48/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/48-1983-443676), publicado em 1983-11-04.
 
 ###### Artigo 18.º — (Incompatibilidades)
 

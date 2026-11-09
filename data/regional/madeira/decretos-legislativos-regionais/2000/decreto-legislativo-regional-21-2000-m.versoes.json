@@ -1,0 +1,341 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:324318:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3f59ea63fb3783cd",
+    "0f8d3c3b1fea57e5",
+    "3ad7b2afa15ff537",
+    "0f83ddbab82edbbb",
+    "81b0d6c5a9ef42c7",
+    "419d65f4592328d1",
+    "47646fe3e0ed4c4b",
+    "25ef1ec6b63e5b4f",
+    "a1f5a8fe5d3207dc",
+    "14c922b965964946",
+    "5f469a09c8a330a4",
+    "4b7e148ce769e723",
+    "a2e4c582524d87ae",
+    "5cecf71cf1e41efa",
+    "66e11a91b6b65fe4",
+    "398829bd0023182a",
+    "a07b6208f8c5a0de",
+    "91f2c43f07290313",
+    "d9a69e6f76d9efed",
+    "2bcbc946e05a71e0",
+    "19e81aff1f802b4d",
+    "b1b2854418423378",
+    "e18247ef032e99ec",
+    "c047e01c8353a430"
+   ]
+  },
+  {
+   "date": "2001-05-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:313839:por",
+     "title": "Decreto Legislativo Regional n.º 12/2001/M",
+     "published": "2001-05-10",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2001-313839"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "3f59ea63fb3783cd",
+    "0f8d3c3b1fea57e5",
+    "3ad7b2afa15ff537",
+    "0f83ddbab82edbbb",
+    "81b0d6c5a9ef42c7",
+    "419d65f4592328d1",
+    "47646fe3e0ed4c4b",
+    "1ddf9e3185f7c83c",
+    "b72cb22d0975286a",
+    "e27afeb6b1d7cd4f",
+    "5f469a09c8a330a4",
+    "4b7e148ce769e723",
+    "7ec576b31b92a18e",
+    "5cecf71cf1e41efa",
+    "8bf231791ed9084b",
+    "398829bd0023182a",
+    "a07b6208f8c5a0de",
+    "91f2c43f07290313",
+    "d9a69e6f76d9efed",
+    "2bcbc946e05a71e0",
+    "19e81aff1f802b4d",
+    "b304ee3e409ea854",
+    "e18247ef032e99ec",
+    "c047e01c8353a430"
+   ]
+  }
+ ],
+ "fragments": {
+  "3f59ea63fb3783cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Cria o Sistema de Incentivos a Pequenos Projectos Empresariais - SIPPE\n\nNo âmbito do Quadro Comunitário de Apoio 2000-2006, a actividade produtiva na Região Autónoma da Madeira (RAM) será apoiada por diversos sistemas de incentivos englobados no Programa Operacional da Economia (POE), designadamente os inseridos no Eixo 1 - «Favorecer as estratégias empresariais modernas e competitivas», no Eixo 2 - «Promover as áreas estratégicas para o desenvolvimento» e no Eixo 3 - «Melhorar a envolvente empresarial».\n\nA experiência adquirida nos Quadros Comunitários de Apoio anteriores continua a aconselhar que se complementem os apoios de âmbito nacional aos diferentes sectores, com ajudas específicas para a estrutura económica regional.\n\nNesse sentido no Programa Operacional Plurifundos da Região Autónoma da Madeira (POPRAM III) está definido um conjunto de instrumentos de política de acção económica, de curto e médio prazos, de apoio à actividade produtiva para os sectores do comércio, serviços, indústria, construção e turismo.\n\nEste programa foi desenvolvido tendo em atenção o princípio de que os impactes da aplicação dos anteriores fundos no sistema económico, embora materializados em sinais de mudança, ainda não se repercutiram de forma aprofundada no grau de modernidade das empresas.\n\nO POPRAM III, através dos incentivos à actividade produtiva, pretende contribuir para o reforço da base económica regional, para o desenvolvimento local, para o aumento do bem-estar da população, com reforço das identidades locais e atenuação das assimetrias regionais, pela criação e modernização das micro e pequenas empresas, visando a melhoria da sua competitividade e produtividade, diversificando a estrutura produtiva regional, promovendo o reforço da capacidade técnica e tecnológica, através dos factores dinâmicos da competitividade, da modernização das estruturas físicas e da criação e qualificação dos empregos, contribuindo assim para reforçar a sua capacidade para enfrentar os desafios da globalização.\n\nO referido programa pretende, pois, dar início a uma nova era de colaboração entre os sectores público e privado nas actuações que visam robustecer e desenvolver o tecido empresarial, criando condições para potenciar economias externas e para facilitar ganhos de produtividade e competitividade e, além disso, não deixou de ter em conta o progressivo esbatimento de fronteiras entre sectores tradicionais, nem a tendência para as integrações verticais a que se vai assistindo no tecido empresarial.\n\nO Programa Operacional Plurifundos da Região Autónoma da Madeira, a vigorar entre 2000-2006, integra um conjunto coerente e interligado de acções apoiadas pelos fundos estruturais e conta com a colaboração e envolvimento directo de diversas entidades públicas e privadas.\n\nConsubstanciando as orientações estratégicas anteriormente expostas, estão previstos no Eixo Prioritário 2 - «Consolidação da base económica e social da Região», medida n.º 2.3 - «Competitividade eficiência económica», incentivos à actividade produtiva.\n\nPara a implementação dos objectivos atrás referidos, impõe-se a criação de um sistema de incentivos ao desenvolvimento da actividade produtiva, adaptado às especificidades do tecido económico regional, que permita cobrir as lacunas deixadas pelo Programa Operacional da Economia (POE) e privilegiar o desenvolvimento equilibrado e sustentado desta Região Autónoma.\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, na redacção dada pela Lei n.º 130/99, de 21 de Agosto, o seguinte:"
+  },
+  "0f8d3c3b1fea57e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e objectivos\n\n1 - Pelo presente diploma é criado o Sistema de Incentivos a Pequenos Projectos Empresariais da Região Autónoma da Madeira, adiante designado por SIPPE-RAM.\n\n2 - O SIPPE-RAM tem por objectivo contribuir para o reforço da capacidade técnica e tecnológica e da modernização das estruturas físicas, através da criação ou desenvolvimento de micro ou pequenas empresas, visando a melhoria da sua competitividade e produtividade.\n\n3 - O SIPPE-RAM apoia pequenos projectos de investimento da iniciativa de micro ou pequenas empresas, de qualquer natureza e sob qualquer forma jurídica, que se proponham desenvolver projectos de investimento que incidam sobre qualquer das actividades referidas no artigo 2.º"
+  },
+  "3ad7b2afa15ff537": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Tipo e natureza dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tipo e natureza dos projectos\n\n1 - São susceptíveis de apoio, no âmbito do presente sistema de incentivos, os projectos de investimento integrados nos seguintes sectores de actividade, classificados de acordo com a Classificação Portuguesa das Actividades Económicas - CAE, revista pelo Decreto-Lei n.º 182/93, de 14 de Maio:\n\na) Indústria - nas divisões 10 a 37 da CAE, com exclusão das actividades elegíveis no âmbito do FEOGA (apenas para os investimentos produtivos);\n\nb) Construção - na divisão 45 da CAE;\n\nc) Comércio - divisões 50 a 52 da CAE;\n\nd) Turismo - actividades incluídas nos grupos 551, 552, 553, 554, 633 e 711 e as actividades declaradas de interesse para o turismo, nos termos da legislação aplicável, e que se insiram nas classes 9232, 9233, 9234, 9261, 9262 e 9272 e nas subclasses 93041 e 93042 da CAE;\n\ne) Serviços - actividades incluídas nas divisões 72 a 74 e 90; grupos 631, 632 e 634; classes 9211, 9301 e 9302 e nas subclasses 01410, 02012, 02020, 60211, 60212, 60220 e 60240, todas da CAE.\n\n2 - Podem ainda ser consideradas outras actividades reconhecidas por despacho do secretário regional que tutele o IDE-RAM - Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira, adiante apenas designado por IDE-RAM, como de dimensão estratégica.\n\n3 - Os projectos englobam investimentos conducentes à melhoria da gestão, à introdução das melhores técnicas disponíveis e de tecnologias de informação e de comunicações, ao reforço das condições de segurança, higiene e saúde na empresa, à preservação do ambiente, energia e a novas técnicas de distribuição, comercialização, marketing e design, bem como outros factores de competitividade."
+  },
+  "0f83ddbab82edbbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Condições de acesso do promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de acesso do promotor\n\n1 - O promotor do projecto de investimento deve:\n\na) Encontrar-se legalmente constituído;\n\nb) Cumprir as condições legais necessárias ao exercício da respectiva actividade, nomeadamente ter situação regularizada em matéria de licenciamento, quando exigível;\n\nc) Possuir a situação regularizada perante o Estado, a segurança social e as entidades pagadoras do incentivo;\n\nd) Dispor de contabilidade organizada, de acordo com o Plano Oficial de Contabilidade;\n\ne) Ter situação líquida positiva no último ano anterior à data da candidatura;\n\nf) Cumprir os critérios de micro e pequena empresa, de acordo com a Recomendação n.º [96/280/CE](http://data.europa.eu/eli/reco/1996/280/oj?locale=pt), da Comissão Europeia;\n\ng) Comprometer-se a afectar o projecto à actividade e à localização geográfica por um período mínimo de cinco anos, contados a partir da data da celebração do contrato de concessão de incentivos;\n\nh) Ter concluído o projecto anteriormente aprovado no âmbito do presente regime;\n\ni) Indicar um responsável pelo projecto de investimento pertencente à empresa promotora e que seja responsável por aquele até à sua conclusão.\n\n2 - A verificação das condições constantes das alíneas a) a d) do número anterior deve efectuar-se no prazo de 20 dias após a notificação da decisão de concessão do incentivo.\n\n3 - O prazo previsto no número anterior poderá ser prorrogado por igual período, desde que o promotor apresente justificação fundamentada à entidade gestora."
+  },
+  "81b0d6c5a9ef42c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de acesso do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de acesso do projecto\n\nOs projectos candidatos devem satisfazer as seguintes condições:\n\na) Localizar-se na Região Autónoma da Madeira;\n\nb) No que respeita aos projectos de arquitectura ou às memórias descritivas do investimento, quando exigíveis legalmente, encontrarem-se previamente aprovados;\n\nc) Cumprir as condições necessárias à actividade, nomeadamente ter situação regularizada em matéria de licenciamento ou ter o projecto aprovado nos termos legais, quando aplicável;\n\nd) Ter um investimento mínimo elegível de 15000 euros (3007 contos) e máximo elegível de 150000 euros (30072 contos), a preços correntes;\n\ne) Ser apresentado antes do início da sua execução, não sendo considerados como integrantes do projecto as despesas pagas antes da data da candidatura, com a excepção dos adiantamentos para sinalização até 50% e dos estudos realizados há menos de um ano;\n\nf) Ter uma duração máxima de execução de dois anos;\n\ng) Demonstrar que se encontram asseguradas as fontes de financiamento, incluindo, pelo menos, 25% do montante do investimento elegível em capitais próprios, contando para este valor os capitais próprios que excederem os 40% do activo total líquido (dados pré-projecto);\n\nh) Demonstrar viabilidade técnica, económica e financeira."
+  },
+  "419d65f4592328d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Despesas elegíveis\n\n1 - No âmbito do presente sistema e para efeitos de cálculo do incentivo a atribuir, poderá ser apoiado todo o investimento em capital fixo (corpóreo e incorpóreo) afecto directamente à realização do projecto, nomeadamente:\n\na) Construção de edifícios, até ao limite de 25% de investimento elegível, desde que directamente ligados ao processo produtivo e às funções essenciais ao exercício da actividade;\n\nb) Outras construções e obras de adaptação e remodelação de instalações directamente relacionadas com o exercício da actividade ou destinadas a melhorar as condições de segurança, higiene e saúde;\n\nc) Equipamentos sociais que a empresa seja obrigada a possuir por determinação da lei;\n\nd) Máquinas e equipamentos, designadamente nas áreas da produção, gestão, qualidade, segurança e higiene, do ambiente, energia, controlo laboratorial e design;\n\ne) Despesas relativas à gestão e informatização, introdução de melhores técnicas disponíveis, tecnologias de informação e comunicação, modernização de logística, comercialização e marketing;\n\nf) Aquisição de marcas, patentes, licenças e alvarás;\n\ng) Sistemas de planeamento e controlo das acções de segurança, da higiene e saúde e das acções relacionadas com as condições ambientais;\n\nh) Assistência técnica em matéria de gestão, incluindo as vertentes qualidade, ambiente e segurança, organização e gestão da produção e modernização tecnológica, incluindo as melhores técnicas disponíveis, até ao limite de 15% do investimento elegível em capital fixo;\n\ni) Aquisição de equipamentos de protecção ambiental, designadamente os de tratamento de águas residuais, emissões para a atmosfera, resíduos, redução de ruído e de introdução de tecnologias e coeficientes para a utilização sustentável de recursos naturais;\n\nj) Custos inerentes à implementação e certificação de sistemas de gestão de qualidade, ambiente e segurança, incluindo assistência técnica específica;\n\nk) Estudos, diagnósticos, auditorias, projectos de arquitectura e de engenharia associados ao projecto de investimento, até ao limite de 2500 euros (501 contos);\n\nl) Custos com transportes, seguros, montagem e desmontagem de equipamentos.\n\n2 - Constituem, ainda, despesas elegíveis as relacionadas com as garantias bancárias exigidas ao promotor, definidas no contrato de concessão de incentivos, bem como as despesas com a intervenção de técnicos oficiais de contas ou revisores oficiais de contas, previstas no n.º 2 do artigo 16.º\n\n3 - Para a determinação do valor das despesas de investimento comparticipáveis é deduzido o imposto sobre o valor acrescentado (IVA) sempre que o promotor do projecto seja sujeito passivo desse imposto e possa exercer o direito à dedução.\n\n4 - Para efeitos do disposto no número anterior, apenas são considerados os valores declarados pelo promotor do projecto que correspondam aos custos médios do mercado, podendo as entidades gestoras, caso não se verifique essa correspondência, proceder à respectiva adequação.\n\n5 - Excluem-se das despesas elegíveis os seguintes tipos de investimento:\n\na) Aquisição de terrenos, excepto os destinados à exploração de depósitos minerais, de recursos hidrominerais e geotérmicos, de águas de nascentes e de massas minerais;\n\nb) Compra de imóveis;\n\nc) Trespasses e direitos de utilização de espaço;\n\nd) Mobiliário e outros equipamentos não directamente ligados às funções essenciais da actividade;\n\ne) Aquisição de veículos automóveis;\n\nf) Aquisição de equipamentos em estado de uso;\n\ng) Custos internos da empresa;\n\nh) Juros durante a construção;\n\ni) Fundo de maneio;\n\nj) Investimentos previstos na Decisão n.º [94/173/CE](http://data.europa.eu/eli/dec/1994/173/oj?locale=pt), cujas actividades se enquadrem no âmbito do FEOGA, de acordo com protocolo/despacho a estabelecer."
+  },
+  "47646fe3e0ed4c4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de selecção\n\n1 - Aos projectos será atribuída uma valia económica, adiante apenas designada por VE, de acordo com os seguintes critérios:\n\na) Critério A - mérito para a política económica;\n\nb) Critério B - criação de postos de trabalho;\n\nc) Critério C - contributo para a consolidação financeira da empresa.\n\n2 - O cálculo da VE resulta da ponderação dos critérios atrás referidos, segundo metodologia a definir por portaria do secretário regional que tutele o IDE-RAM."
+  },
+  "25ef1ec6b63e5b4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Natureza e intensidade do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Natureza e intensidade do incentivo\n\n1 - O incentivo a conceder pelo SIPPE-RAM assume a forma mista de incentivo não reembolsável e incentivo reembolsável correspondente a uma percentagem das despesas elegíveis do projecto, a definir por portaria do secretário regional que tutele o IDE-RAM.\n\n2 - A percentagem a que se refere o n.º 1 poderá ser acrescida de majoração no caso de projectos liderados por «jovens empresários» e ou «trabalhador originário de uma empresa em reestruturação» e ou localizados em zonas prioritárias.\n\n3 - A taxa de majoração e as zonas prioritárias a que se refere o n.º 2 são definidas por portaria do secretário regional que tutele o IDE-RAM.\n\n4 - Dado tratar-se de um sistema com enquadramento «MINIMIS», os incentivos a conceder não podem ultrapassar 100000 euros (20048200$00) por promotor durante um período de três anos, contados a partir da data da aprovação do primeiro incentivo.\n\n5 - Ficam igualmente sujeitos a este limite máximo por promotor durante o mesmo período os incentivos concedidos no âmbito de outros regimes, cujo apoio máximo atribuível não possa também ultrapassar os 100000 euros (redacção geral minimis).\n\n6 - Para as mesmas despesas elegíveis, os incentivos concedidos ao abrigo do presente regime não são acumuláveis com quaisquer outros da mesma natureza."
+  },
+  "a1f5a8fe5d3207dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Processo de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Processo de decisão\n\n1 - São organismos gestores deste sistema a Direcção Regional de Formação Profissional para a área de formação profissional e o Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira (IDE-RAM) para todos os sectores de actividade previstos no presente diploma.\n\n2 - As candidaturas são formalizadas através da sua entrega no IDE-RAM, que as recepcionará, averiguando se contêm as informações e documentos exigidos.\n\n3 - É criada a comissão de selecção do SIPPE-RAM, presidida pelo IDE-RAM, que integra representantes do IDE-RAM, da Direcção Regional do Planeamento e um representante da Secretaria Regional da Educação para a área da formação profissional.\n\n4 - Podem ser associados à gestão do SIPPE-RAM entes públicos, associações comerciais e industriais, instituições de crédito ou sociedades financeiras com especial vocação para apoio ao investimento produtivo."
+  },
+  "14c922b965964946": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências\n\n1 - Compete ao IDE-RAM, designadamente:\n\na) Verificar o cumprimento das condições de acesso;\n\nb) Analisar o processo de candidatura;\n\nc) Organizar os processos relativos aos projectos candidatos ao SIPPE-RAM;\n\nd) Propor o montante de incentivos a conceder e hierarquizar os projectos de acordo com os critérios definidos nas portarias a que se refere o presente diploma;\n\ne) Fiscalizar e acompanhar a execução dos projectos;\n\nf) Efectuar o pagamento dos incentivos.\n\n2 - Compete à Direcção Regional de Planeamento, nomeadamente, efectuar a avaliação do impacte dos projectos realizados, tendo em conta os seus objectivos e enquadramento estratégico regional, através dos relatórios remetidos ao gestor do POPRAM.\n\n3 - Compete à Direcção Regional de Formação Profissional:\n\na) Analisar o projecto na vertente da formação profissional;\n\nb) Propor o montante de apoio a conceder no âmbito da formação profissional.\n\n4 - Compete à comissão de selecção:\n\na) Analisar as propostas remetidas pelo IDE-RAM;\n\nb) Acompanhar os processos de apreciação das candidaturas, podendo pronunciar-se sobre questões a eles relativas;\n\nc) Solicitar, sempre que necessário, parecer a outras entidades;\n\nd) Elaborar a lista dos projectos seleccionados e não seleccionados, devidamente quantificados e fundamentados, em função dos critérios de selecção;\n\ne) Submeter os referidos projectos a homologação do secretário regional que tutela o IDE-RAM."
+  },
+  "5f469a09c8a330a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Processo e prazos de apreciação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Processo e prazos de apreciação das candidaturas\n\n1 - Compete ao organismo gestor analisar as candidaturas no prazo de 45 dias úteis, contados a partir das datas limite de cada fase de selecção de projectos.\n\n2 - Podem ser solicitados ao promotor esclarecimentos complementares, a prestar no prazo de 10 dias úteis, decorridos os quais a ausência de resposta significará a desistência da candidatura a que se refere."
+  },
+  "4b7e148ce769e723": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Selecção dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Selecção dos projectos\n\n1 - A selecção dos projectos é feita por fases, cujos períodos e dotações orçamentais são definidos por despacho conjunto dos Secretários Regionais do Plano e da Coordenação e da tutela do IDE-RAM.\n\n2 - Os projectos a seleccionar em cada fase, desde que considerados enquadráveis e elegíveis, são hierarquizados com base na pontuação final obtida na VE.\n\n3 - No caso de igualdade de pontuação, a prioridade da concessão dos apoios é estabelecida em função da data mais antiga de entrada das candidaturas no IDE-RAM.\n\n4 - Os projectos não seleccionados, por razões de ordem orçamental, transitam para a fase seguinte, sendo os resultados obtidos nessa fase definitivos.\n\n5 - Os promotores de projectos que sejam considerados não elegíveis ou daqueles que, sendo elegíveis, não sejam apoiados serão ouvidos nos termos e para os efeitos dos artigos 100.º e seguintes do Código do Procedimento Administrativo.\n\n6 - O projecto que, em resultado de reapreciação da candidatura ao abrigo do número anterior, venha a ser pontuado com VE que lhe teria permitido a sua inclusão no conjunto dos projectos seleccionados será considerado seleccionado no âmbito da fase a que se apresentou."
+  },
+  "a2e4c582524d87ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Formalização e concessão dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Formalização e concessão dos apoios\n\n1 - A concessão dos apoios é formalizada mediante contrato.\n\n2 - A minuta do contrato que formaliza a concessão dos apoios é previamente homologada pelo secretário regional que tutela o IDE-RAM, dela devendo constar cláusulas relativas aos objectivos do projecto, ao montante do apoio financeiro concedido, aos direitos e deveres das partes e, sendo caso disso, às garantias a prestar.\n\n3 - A decisão de concessão dos apoios caduca caso os contratos não se celebrem, por razões imputáveis às entidades beneficiárias, no prazo que vier a ser fixado por portaria do secretário que tutela o IDE-RAM.\n\n4 - O contrato pode ser objecto de negociação por motivos devidamente justificados, após autorização da entidade competente, para a decisão do apoio, nos seguintes casos:\n\na) Alteração substancial das condições de mercado, incluindo as financeiras, que justifiquem uma interrupção do investimento, uma alteração do calendário da sua realização ou uma modificação das condições de exploração;\n\nb) Alteração do projecto que implique modificação do montante dos apoios concedidos;\n\nc) Alteração imprevisível dos pressupostos contratuais."
+  },
+  "5cecf71cf1e41efa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Cessão de posição contratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Cessão de posição contratual\n\nA cessão da posição contratual por parte das entidades beneficiárias só pode ter lugar por motivos devidamente justificados e após autorização do secretário regional que tutela o IDE-RAM."
+  },
+  "66e11a91b6b65fe4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Resolução do contrato\n\n1 - O contrato pode ser resolvido unilateralmente, desde que se verifiquem as seguintes situações:\n\na) Não cumprimento, por facto imputável à entidade beneficiária, dos objectivos e obrigações estabelecidos no contrato, incluindo os prazos relativos ao início da realização do investimento e da sua conclusão;\n\nb) Não cumprimento, por facto imputável à entidade beneficiária, das respectivas obrigações legais e fiscais;\n\nc) Prestação de informações falsas sobre a situação da entidade beneficiária ou viciação de dados fornecidos na apresentação e apreciação e acompanhamento dos investimentos.\n\n2 - A resolução do contrato implica a devolução do montante do incentivo já recebido, no prazo de 60 dias a contar da data da sua notificação, acrescido de juros calculados à taxa indicada no contrato de concessão dos incentivos.\n\n3 - Quando a resolução se verificar pelo motivo referido na alínea c) do n.º 1, a entidade beneficiária não poderá apresentar candidaturas a quaisquer apoios pelo período de cinco anos."
+  },
+  "398829bd0023182a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Pagamento de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pagamento de incentivos\n\n1 - O pagamento dos incentivos atribuídos ao abrigo do presente diploma, a efectuar pelo IDE-RAM, pode processar-se de acordo com as seguintes modalidades:\n\na) Pagamento com recurso a adiantamentos até 70% do montante do incentivo atribuído;\n\nb) Pagamento após a conclusão do projecto efectuado mediante a apresentação dos documentos comprovativos das despesas, devidamente classificados.\n\n2 - A modalidade de pagamento a que se refere a alínea a) do n.º 1 pode efectuar-se da seguinte forma:\n\na) Contra a apresentação de garantia bancária autónoma de valor correspondente ao adiantamento solicitado, emitida por instituição de crédito ou outras sociedades financeiras, legalmente constituídas;\n\nb) Através da constituição de um depósito em conta bancária específica do promotor, de montante igual ao adiantamento solicitado e que se destina a caucionar o adequado financiamento bancário para a concretização do projecto, em moldes que serão objecto de protocolo institucional a celebrar com as instituições financeiras;\n\nc) O remanescente do incentivo é pago depois de concluído o projecto e realizada a verificação final;\n\nd) No caso de o adiantamento ter constituído o depósito caução, converter-se-á em incentivo não reembolsável."
+  },
+  "a07b6208f8c5a0de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Acompanhamento e controlo\n\n1 - Sem prejuízo de outros mecanismos de acompanhamento e controlo que venham a ser adoptados, o acompanhamento e a verificação dos projectos efectuam-se por:\n\na) Verificação financeira;\n\nb) Verificação física.\n\n2 - A verificação financeira do projecto tem por base declaração apresentada pelo promotor e ratificada por revisor oficial de contas ou técnico oficial de contas, na qual são confirmados:\n\na) A realização das despesas de investimento efectuadas;\n\nb) O correcto lançamento na contabilidade dos documentos comprovativos das despesas;\n\nc) O lançamento do incentivo na contabilidade de acordo com o Plano Oficial de Contabilidade (POC).\n\n3 - A verificação física dos projectos é efectuada da forma seguinte:\n\na) Pelo IDE-RAM, em qualquer fase do processo, nomeadamente nas de recepção, análise da candidatura, contrato, adiantamento e acompanhamento ou, quando ao organismo gestor assistam dúvidas razoáveis quanto ao objectivo ou à estrutura do investimento, antes do encerramento do projecto;\n\nb) Pelas entidades gestoras, ou pelo sistema de controlo que vier a ser adoptado, por amostragem e sempre que se identifique, em qualquer fase do processo, um incidente de verificação obrigatória ou quando à entidade gestora assistam dúvidas razoáveis quanto ao objectivo ou estrutura do investimento, antes do seu encerramento."
+  },
+  "91f2c43f07290313": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Obrigações dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigações dos promotores\n\n1 - As entidades beneficiárias ficam sujeitas às seguintes obrigações:\n\na) Executar o projecto nos termos e prazos fixados no contrato;\n\nb) Cumprir, atempadamente, as obrigações legais e fiscais, de harmonia com o estabelecido na regulamentação específica;\n\nc) Fornecer todos os elementos que lhes forem solicitados pelas entidades com competências de acompanhamento, controlo e fiscalização;\n\nd) Comunicar ao organismo gestor qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos às condições de acesso com que o projecto foi aprovado, bem como a sua realização pontual;\n\ne) Manter as condições legais necessárias ao exercício da respectiva actividade, nomeadamente quanto à sua situação em matéria de licenciamento;\n\nf) Manter a situação regularizada perante as entidades pagadoras do incentivo;\n\ng) Manter a contabilidade organizada de acordo com o Plano Oficial de Contabilidade;\n\nh) Manter na empresa, devidamente organizados em dossier, todos os documentos susceptíveis de comprovar as declarações prestadas na candidatura.\n\n2 - As entidades beneficiárias ficam sujeitas à verificação da utilização dos incentivos concedidos, não podendo, sem autorização do organismo gestor, ceder, locar, alienar ou, por qualquer modo, onerar ou deslocalizar o investimento, no todo ou em parte, durante o período de cinco anos, contados da data da celebração do contrato."
+  },
+  "d9a69e6f76d9efed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Cobertura orçamental\n\n1 - Os encargos decorrentes da aplicação do SIPPE-RAM são inscritos anualmente no orçamento do IDE-RAM.\n\n2 - Só podem ser processados os incentivos quando o respectivo encargo tenha cabimento orçamental."
+  },
+  "2bcbc946e05a71e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Contabilização do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contabilização do incentivo\n\nOs incentivos atribuídos devem ser contabilizados de acordo com o as regras emergentes do Plano Oficial de Contabilidade."
+  },
+  "19e81aff1f802b4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Obrigações legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Obrigações legais\n\nA concessão dos incentivos previstos neste diploma não isenta os promotores do cumprimento de outras obrigações legais a que estejam sujeitos."
+  },
+  "b1b2854418423378": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposições transitórias\n\n1 - São susceptíveis de apoio pelo SIPPE-RAM os projectos que, tendo dado entrada no âmbito da Iniciativa Comunitária Pequenas e Médias Empresas (ICPME), do Sistema de Apoio às Microempresas Comerciais (SAMEC) e do Sistema de Incentivos ao Desenvolvimento Empresarial da Região Autónoma da Madeira (SIDERAM), dentro dos prazos de candidatura estipulados por esses regimes, não tenham sido objecto de decisão definitiva.\n\n2 - Os projectos referidos no número anterior ficam sujeitos ao cumprimento integral dos requisitos constantes do presente diploma, não podendo o seu processo de selecção ir além da última fase prevista para o ano 2000, podendo ser comparticipadas as despesas anteriormente efectuadas.\n\n3 - Os projectos do Sistema de Apoio às Microempresas Comerciais referido no n.º 1 não estão sujeitos ao limite mínimo previsto na alínea d) do artigo 4.º do presente diploma.\n\n4 - Os projectos cujas candidaturas no âmbito do SIPPE-RAM sejam recepcionadas no âmbito das duas primeiras fases de selecção podem ser comparticipados nas despesas efectuadas após 1 de Julho de 1999."
+  },
+  "e18247ef032e99ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Vigência do SIPPE-RAM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Vigência do SIPPE-RAM\n\nO período de vigência deste sistema de incentivos é o da vigência do Programa Operacional Plurifundos para a Região Autónoma da Madeira 2000-2006."
+  },
+  "c047e01c8353a430": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em sessão plenária da Assembleia Legislativa Regional em 18 de Julho de 2000.\n\nO Presidente da Assembleia Legislativa Regional, em exercício, João Cunha e Silva.\n\nAssinado em 26 de Julho de 2000.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "1ddf9e3185f7c83c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Natureza, intensidade e cumulação do incentivo",
+   "in_force_from": "2001-05-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 7.º — Natureza, intensidade e cumulação do incentivo\n\n1 - O incentivo a conceder pelo SIPPE-RAM assume a forma mista de incentivo não reembolsável e incentivo reembolsável correspondente a uma percentagem das despesas elegíveis do projecto, a definir por portaria do secretário regional que tutele o IDE-RAM.\n\n2 - A percentagem a que se refere o n.º 1 poderá ser acrescida de majoração no caso de projectos liderados por «jovens empresários» e ou «trabalhador originário de uma empresa em reestruturação» e ou localizados em zonas prioritárias.\n\n3 - A taxa de majoração e as zonas prioritárias a que se refere o n.º 2 são definidas por portaria do secretário regional que tutele o IDE-RAM.\n\n4 - Dado tratar-se de um sistema com enquadramento «MINIMIS», os incentivos a conceder, no âmbito do SIPPE-RAM, revestem a natureza minimis, não podendo exceder os (euro) 100000 (20048200$00), por promotor, durante um período de três anos, contados a partir da data de aprovação do primeiro incentivo.\n\n5 - Os incentivos de minimis referidos no número anterior são cumuláveis entre si, não podendo o total de incentivos cumulados ultrapassar o montante máximo de (euro) 100000 (20048200$00), por promotor, durante um período de três anos, contados a partir da data de aprovação do primeiro incentivo.\n\n6 - Os incentivos de minimis, referidos no âmbito do SIPPE-RAM, são também cumuláveis com outros sistemas de incentivos de minimis, desde que de tal cumulação resulte o preenchimento das condições referidas no número anterior.\n\n7 - Para as mesmas despesas elegíveis, os incentivos concedidos ao abrigo do presente regime não são acumuláveis com quaisquer outros da mesma natureza.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10."
+  },
+  "b72cb22d0975286a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Processo de decisão",
+   "in_force_from": "2001-05-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 8.º — Processo de decisão\n\n1 - São organismos gestores deste sistema a Direcção Regional de Formação Profissional para a área de formação profissional e o Instituto de Desenvolvimento Empresarial da Região Autónoma da Madeira (IDE-RAM) para todos os sectores de actividade previstos no presente diploma.\n\n2 - As candidaturas são formalizadas através da sua entrega no IDE-RAM, que as recepcionará, averiguando se contêm as informações e documentos exigidos.\n\n3 - É criada a comissão de selecção do SIPPE-RAM, presidida pelo IDE-RAM, que integra representantes do IDE-RAM, da Direcção Regional do Planeamento e um representante da Secretaria Regional da Educação para a área da formação profissional.\n\n4 - As candidaturas aos apoios financeiros previstos neste diploma são aprovadas pelo gestor regional dos fundos comunitários, sob parecer da unidade de gestão do Programa Operacional Plurifundos da Região Autónoma da Madeira (POPRAM III) e submetidas a homologação do Vice-Presidente do Governo Regional e do Secretário Regional do Plano e Finanças.\n\n5 - Podem ser associados à gestão do SIPPE-RAM entes públicos, associações comerciais e industriais, instituições de crédito ou sociedades financeiras com especial vocação para apoio ao investimento produtivo.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10."
+  },
+  "e27afeb6b1d7cd4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": "2001-05-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 9.º — Competências\n\n1 - Compete ao IDE-RAM, designadamente:\n\na) Verificar o cumprimento das condições de acesso;\n\nb) Analisar o processo de candidatura;\n\nc) Organizar os processos relativos aos projectos candidatos ao SIPPE-RAM;\n\nd) Propor o montante de incentivos a conceder e hierarquizar os projectos de acordo com os critérios definidos nas portarias a que se refere o presente diploma;\n\ne) Fiscalizar e acompanhar a execução dos projectos;\n\nf) Efectuar o pagamento dos incentivos.\n\ng) Elaborar as minutas de contrato de concessão de incentivos;\n\nh) Celebrar com os promotores os contratos de concessão de incentivos.\n\n2 - Compete à Direcção Regional de Planeamento, nomeadamente, efectuar a avaliação do impacte dos projectos realizados, tendo em conta os seus objectivos e enquadramento estratégico regional, através dos relatórios remetidos ao gestor do POPRAM.\n\n3 - Compete à Direcção Regional de Formação Profissional:\n\na) Analisar o projecto na vertente da formação profissional;\n\nb) Propor o montante de apoio a conceder no âmbito da formação profissional.\n\n4 - Compete à comissão de selecção:\n\na) Analisar as propostas remetidas pelo IDE-RAM;\n\nb) Acompanhar os processos de apreciação das candidaturas, podendo pronunciar-se sobre questões a eles relativas;\n\nc) Solicitar, sempre que necessário, parecer a outras entidades;\n\nd) Elaborar a lista dos projectos seleccionados e não seleccionados, devidamente quantificados e fundamentados, em função dos critérios de selecção;\n\ne) Submeter os referidos projectos a aprovação do gestor regional dos fundos comunitários, sob parecer da unidade de gestão do POPRAM III.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10."
+  },
+  "7ec576b31b92a18e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Formalização e concessão dos apoios",
+   "in_force_from": "2001-05-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 12.º — Formalização e concessão dos apoios\n\n1 - A concessão dos apoios é formalizada mediante contrato.\n\n2 - A minuta de contrato que formaliza a concessão dos apoios é previamente homologada pelo Vice-Presidente do Governo Regional e pelo Secretário Regional do Plano e Finanças, dela devendo constar cláusulas relativas aos objectivos do projecto, ao montante do apoio financeiro concedido, aos direitos e deveres das partes e, sendo caso disso, às garantias a prestar.\n\n3 - A decisão de concessão dos apoios caduca caso os contratos não se celebrem, por razões imputáveis às entidades beneficiárias, no prazo que vier a ser fixado por portaria do secretário que tutela o IDE-RAM.\n\n4 - O contrato pode ser objecto de negociação por motivos devidamente justificados, após autorização da entidade competente, para a decisão do apoio, nos seguintes casos:\n\na) Alteração substancial das condições de mercado, incluindo as financeiras, que justifiquem uma interrupção do investimento, uma alteração do calendário da sua realização ou uma modificação das condições de exploração;\n\nb) Alteração do projecto que implique modificação do montante dos apoios concedidos;\n\nc) Alteração imprevisível dos pressupostos contratuais.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10."
+  },
+  "8bf231791ed9084b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Resolução do contrato",
+   "in_force_from": "2001-05-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 14.º — Resolução do contrato\n\n1 - O contrato pode ser resolvido por despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional do Plano e Finanças, sob proposta fundamentada da comissão de selecção e parecer da unidade de gestão, com base nas informações fornecidas pelo IDE-RAM, desde que se verifiquem as seguintes situações:\n\na) Não cumprimento, por facto imputável à entidade beneficiária, dos objectivos e obrigações estabelecidos no contrato, incluindo os prazos relativos ao início da realização do investimento e da sua conclusão;\n\nb) Não cumprimento, por facto imputável à entidade beneficiária, das respectivas obrigações legais e fiscais;\n\nc) Prestação de informações falsas sobre a situação da entidade beneficiária ou viciação de dados fornecidos na apresentação e apreciação e acompanhamento dos investimentos.\n\n2 - A decisão de resolução é comunicada ao promotor pelo IDE-RAM.\n\n3 - A resolução do contrato implica a devolução do montante do incentivo já recebido, no prazo de 60 dias a contar da data da sua notificação, acrescido de juros calculados à taxa indicada no contrato de concessão dos incentivos.\n\n4 - Quando a resolução se verificar pelo motivo referido na alínea c) do n.º 1, a entidade beneficiária não poderá apresentar candidaturas a quaisquer apoios pelo período de cinco anos.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10."
+  },
+  "b304ee3e409ea854": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Disposições transitórias",
+   "in_force_from": "2001-05-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 21.º — Disposições transitórias\n\n1 - São susceptíveis de apoio pelo SIPPE-RAM os projectos que, tendo dado entrada no âmbito da Iniciativa Comunitária Pequenas e Médias Empresas (ICPME), do Sistema de Apoio às Microempresas Comerciais (SAMEC) e do Sistema de Incentivos ao Desenvolvimento Empresarial da Região Autónoma da Madeira (SIDERAM), dentro dos prazos de candidatura estipulados por esses regimes, não tenham sido objecto de decisão definitiva.\n\n2 - Os projectos referidos no número anterior ficam sujeitos ao cumprimento integral dos requisitos constantes do presente diploma, não podendo o seu processo de selecção ir além da última fase prevista para o ano 2000, podendo ser comparticipadas as despesas anteriormente efectuadas.\n\n3 - Os projectos do Sistema de Apoio às Microempresas Comerciais referido no n.º 1 não estão sujeitos ao limite mínimo previsto na alínea d) do artigo 4.º do presente diploma.\n\n4 - Os projectos cujas candidaturas no âmbito do SIPPE-RAM sejam recepcionadas no âmbito das duas primeiras fases de selecção podem ser comparticipados nas despesas efectuadas após 1 de Julho de 1999.\n\n5 - A recepção, análise e aprovação dos projectos de investimento que se enquadrem nas actividades indicadas na alínea e) do n.º 1 do artigo 2.º e incluídas nas subclasses 60211, 60212, 60220 e 60240, todas da CAE, só serão admitidas, após conclusão do procedimento de notificação prévia da Comissão Europeia, nos termos do n.º 3 do artigo 88.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e do Regulamento (CE) n.º [69/2001](http://data.europa.eu/eli/reg/2001/69/oj?locale=pt), da Comissão, de 12 de Janeiro, publicado no Jornal Oficial das Comunidades Europeias (JOCE), de 13 de Janeiro de 2001, referente aos auxílios de minimis.\n\n6 - As referências feitas, no Decreto Legislativo Regional n.º 21/2000/M, de 21 de Agosto, ao Secretário Regional que tutela o IDE-RAM e ao Secretário Regional do Plano e Coordenação consideram-se reportadas ao Vice-Presidente do Governo Regional e ao Secretário Regional do Plano e Finanças, respectivamente.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10."
+  }
+ }
+}

@@ -38,10 +38,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-04-14'
+version_history:
+  file: decreto-legislativo-regional-21-99-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-04-14'
+    amending: pt:dre:66970765:por
+    amending_title: Decreto Legislativo Regional n.º 11/2015/A
+    changes:
+    - Adita Artigo 7.º-A
+    - Adita Artigo 7.º-B
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 16.º
+    - Altera Artigo 19.º
+    - Altera Artigo 24.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/21/1999/07/10/a/dre/pt/html
@@ -67,7 +91,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:19:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    11/2015/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1999/decreto-legislativo-regional-21-99-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,23 +161,45 @@ Em cada uma das ilhas dos Açores funciona um órgão de natureza consultiva, de
 
 ###### Artigo 2.º — Composição
 
-O conselho de ilha é composto por:
+1 - O conselho de ilha é composto por:
 
 a) Presidentes das assembleias municipais e câmaras municipais;
 
 b) Quatro membros eleitos por cada assembleia municipal;
 
-c) Dois representantes dos sectores empresariais;
+c) Três presidentes de junta de freguesia, a serem eleitos de entre todos os presidentes de junta da respetiva ilha, segundo o método da média mais alta de Hondt;
 
-d) Dois representantes dos movimentos sindicais;
+d) Um representante do Governo Regional, sem direito a voto;
 
-e) Dois representantes das associações agrícolas.
+e) Dois representantes dos sectores empresariais;
+
+f) Dois representantes dos movimentos sindicais;
+
+g) Dois representantes das associações agrícolas.
+
+h) Um representante das associações do setor das pescas;
+
+i) Um representante das instituições particulares de solidariedade social;
+
+j) Um representante das associações não governamentais ligadas à área do ambiente;
+
+k) Um representante das associações de defesa da igualdade de género nas ilhas onde tenham sede ou delegações;
+
+l) Um representante da Universidade dos Açores nas ilhas onde estão localizados os respetivos campus universitários.
+
+2 - Podem ainda ser convidados a participar nas reuniões do conselho de ilha, outras entidades ou personalidades da ilha ou da Região, em função das matérias em apreciação.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14.
 
 ###### Artigo 3.º — Participação dos deputados
 
 1 - Os deputados eleitos pelo círculo eleitoral da respectiva ilha podem participar nas reuniões do conselho de ilha, sem direito a voto.
 
-2 - Para efeito do disposto no número anterior, o presidente do conselho de ilha enviará sempre àqueles deputados cópia da convocatória da reunião.
+2 - Os deputados eleitos pelo círculo regional de compensação podem participar nas reuniões do conselho de ilha da sua residência oficial, sem direito a voto.
+
+3 - Para efeito do disposto no número anterior, o presidente do conselho de ilha enviará sempre àqueles deputados cópia da convocatória da reunião.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14.
 
 ###### Artigo 4.º — Membros da assembleia municipal
 
@@ -162,7 +209,7 @@ e) Dois representantes das associações agrícolas.
 
 ###### Artigo 5.º — Representantes dos sectores empresariais
 
-1 - Os representantes a que se refere a alínea c) do artigo 2.º são indicados pelas associações comerciais ou industriais com sede na respectiva ilha, preferencialmente de entre os seus associados que nela exerçam actividade.
+1 - Os representantes a que se refere a alínea e) do n.º 1 do artigo 2.º são indicados pelas associações comerciais ou industriais com sede na respetiva ilha, preferencialmente, de entre os seus associados que nela exerçam atividade, devendo abranger o máximo número possível dos respetivos subsetores de atividade.
 
 2 - Se não existirem associações comerciais ou industriais com sede na ilha, os representantes são indicados pelas associações cuja área de actuação estatutariamente abranja a ilha, preferencialmente de entre os seus associados que nela exerçam actividade.
 
@@ -174,9 +221,11 @@ e) Dois representantes das associações agrícolas.
 
 6 - As entidades referidas nos n.os 1 e 2 do presente artigo podem, a todo o tempo, promover a substituição dos membros que tiverem indicado.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14.
+
 ###### Artigo 6.º — Representantes dos movimentos sindicais
 
-1 - Os representantes a que se refere a alínea d) do artigo 2.º são indicados pelos sindicatos com sede na respectiva ilha, de entre os sindicalizados que nela residam.
+1 - Os representantes a que se refere a alínea f) do n.º 1 do artigo 2.º são indicados pelos sindicatos com sede na respetiva ilha, de entre os sindicalizados que nela residam, devendo abranger o máximo número possível dos respetivos subsetores de atividade.
 
 2 - Se não existirem sindicatos com sede na ilha, os representantes são indicados pelos sindicatos cuja área de actuação estatutariamente abranja a ilha, de entre os sindicalistas que nela residam.
 
@@ -188,9 +237,11 @@ e) Dois representantes das associações agrícolas.
 
 6 - As entidades referidas nos n.os 1 e 2 do presente artigo podem, a todo o tempo, promover a substituição dos membros que tiverem indicado.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14.
+
 ###### Artigo 7.º — Representantes das associações agrícolas
 
-1 - Os representantes a que se refere a alínea e) do artigo 2.º são indicados pelas associações agrícolas com sede na respectiva ilha, preferencialmente de entre os seus associados que nela exerçam actividade.
+1 - Os representantes a que se refere a alínea g) do n.º 1 do artigo 2.º são indicados pelas associações agrícolas com sede na respetiva ilha, preferencialmente, de entre os seus associados que nela exerçam atividade, devendo abranger o máximo número possível dos respetivos subsetores de atividade.
 
 2 - Se não existirem associações agrícolas com sede na ilha, os representantes são indicados pelas associações cuja área de actuação estatutariamente abranja a ilha, preferencialmente de entre os seus associados que nela exerçam actividade.
 
@@ -201,6 +252,38 @@ e) Dois representantes das associações agrícolas.
 5 - As entidades referidas nos n.os 1 e 2 do presente artigo devem indicar os seus representantes no prazo de 30 dias a contar da data da solicitação.
 
 6 - As entidades referidas nos n.os 1 e 2 do presente artigo podem, a todo o tempo, promover a substituição dos membros que tiverem indicado.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14.
+
+###### Artigo 7.º-A
+
+Representantes das associações do setor das pescas, das instituições particulares de solidariedade social, das associações não governamentais ligadas à área do ambiente e das associações de defesa da igualdade de género nas ilhas onde tenham sede ou delegações.
+
+1 - Os representantes a que se referem as alíneas h) a k) do n.º 1 do artigo 2.º são indicados pelas respetivas associações, com sede na respetiva ilha, preferencialmente, de entre os seus associados que nela exerçam atividade.
+
+2 - Se não existirem as associações referidas no número anterior com sede na ilha, os representantes são indicados pelas associações cuja área de atuação estatuariamente abranja a ilha, preferencialmente de entre os seus associados que nela exerçam atividade.
+
+3 - As associações estabelecem entre si os critérios de indicação dos seus representantes.
+
+4 - O presidente da assembleia municipal a quem couber convocar a reunião de instalação do conselho de ilha solicitará a indicação dos representantes com a antecedência mínima de quarenta e cinco dias da data da instalação.
+
+5 - As entidades referidas nos n.os 1 e 2 do presente artigo devem indicar os seus representantes, no prazo de trinta dias a contar da data da solicitação.
+
+6 - As entidades referidas nos n.os 1 e 2 do presente artigo podem, a todo o tempo, promover a substituição dos membros que tiverem indicado.
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14.
+
+###### Artigo 7.º-B — Representante da Universidade dos Açores
+
+1 - O representante a que se refere a alínea l) do n.º 1 do artigo 2.º é indicado pelos respetivos campus da Universidade dos Açores.
+
+2 - O presidente da assembleia municipal a quem couber convocar a reunião de instalação do conselho de ilha solicitará a indicação do representante referido no número anterior com a antecedência mínima de quarenta e cinco dias da data da instalação.
+
+3 - A entidade referida no n.º 1 do presente artigo deve indicar o seu representante no prazo de trinta dias a contar da data da solicitação.
+
+4 - A entidade referida no n.º 1 do presente artigo pode, a todo o tempo, promover a substituição do membro que tiver indicado.
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14.
 
 ###### Artigo 8.º — Reunião de instalação
 
@@ -215,6 +298,10 @@ e) Dois representantes das associações agrícolas.
 2 - O presidente é substituído, durante o período de suspensão do seu cargo e nas suas faltas e impedimentos, pelo vice-presidente.
 
 3 - Na ausência do presidente e do vice-presidente o conselho elege, por voto secreto, um dos seus elementos para presidir à reunião.
+
+4 - A mesa do conselho de ilha funciona como comissão permanente do respetivo órgão.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14.
 
 ###### Artigo 10.º — Representação
 
@@ -282,6 +369,10 @@ Os presidentes das assembleias municipais e os presidentes das câmaras municipa
 
 4 - A data, hora, local e ordem de trabalhos das reuniões são divulgados pelos meios adequados ao seu conhecimento público.
 
+5 - Nas reuniões do conselho de ilha haverá um período previsto na respetiva convocatória para intervenção do público, devendo ser-lhe prestados os esclarecimentos necessários.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14.
+
 ###### Artigo 17.º — Local das reuniões
 
 O conselho de ilha reúne na sede do município do seu presidente, salvo deliberação em sentido diferente.
@@ -322,7 +413,11 @@ f) Classificação, protecção e valorização do património cultural.
 
 ###### Artigo 19.º — Regimento
 
-O conselho de ilha elabora o seu regimento, do qual constam as normas julgadas necessárias ao seu funcionamento.
+1 - O conselho de ilha elabora o seu regimento, do qual constam as normas julgadas necessárias ao seu funcionamento.
+
+2 - Do regimento do conselho de ilha pode constar o respetivo funcionamento por comissões setoriais, sem prejuízo das competências do plenário.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14.
 
 ###### Artigo 20.º — Quórum e deliberações
 
@@ -354,7 +449,11 @@ O conselho de ilha elabora o seu regimento, do qual constam as normas julgadas n
 
 ###### Artigo 24.º — Senhas de presença
 
-As senhas de presença, por cada reunião ordinária ou extraordinária do conselho de ilha, são de valor igual ao estabelecido para os membros da assembleia municipal do município de maior categoria existente na ilha.
+1 - O departamento do Governo Regional competente em matéria de administração pública assume os encargos referentes às senhas de presença devidas pela realização das reuniões ordinárias e extraordinárias, sendo que estas últimas têm por limite um número máximo de três por ano.
+
+2 - Nos casos em que o conselho de ilha realize um número de reuniões superior a seis por ano, o pagamento das senhas de presença devidas pelas reuniões subsequentes poderá ser solicitado, se devidamente fundamentado, ao departamento do Governo Regional competente em matéria de administração pública, cabendo a este a decisão do respetivo pagamento.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14.
 
 ###### Artigo 25.º — Ajudas de custo
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1994-10-04'
+version_history:
+  file: portaria-216-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-04-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1994-10-04'
+    amending: pt:dre:609279:por
+    amending_title: Portaria n.º 875/94
+    changes:
+    - Altera Artigo 35.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/216/1994/04/12/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:22:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 875/94. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1994/portaria-216-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -622,7 +637,7 @@ b) As vagas ocupadas na primeira fase mas em que não se concretizou a matrícul
 
 3 - As instituições a que se refere a alínea b) do número anterior deverão comunicar ao DESUP, dentro do prazo fixado nos termos do artigo 43.º, o número de vagas ocupadas na primeira fase da candidatura em que não se concretizou a matrícula, caso as pretendam colocar a concurso.
 
-4 - À segunda fase da candidatura poderão apresentar-se:
+4 - À 2.ª fase do concurso poderão apresentar-se:
 
 a) Os candidatos não colocados na primeira fase;
 
@@ -630,9 +645,17 @@ b) Os estudantes que, embora reunindo condições de candidatura, no prazo de ap
 
 c) Os estudantes que só reuniram as condições de candidatura após o fim do prazo de apresentação das candidaturas da primeira fase.
 
+d) Os estudantes colocados na 1.ª fase, desde que não tenham obtido colocação em 1.ª opção e apenas concorram às opções anteriores àquela em que obtiveram colocação.
+
 5 - Na segunda fase existirá um único contingente e não serão aplicados os regimes preferenciais.
 
 6 - À segunda fase aplicar-se-ão, com as necessárias adaptações, as regras da primeira fase.
+
+7 - As vagas libertadas na sequência da recolocação de estudantes nas condições da alínea d) do n.º 4 do presente artigo serão colocadas a concurso, desde que o par estabelecimento/curso a que respeitam tenha constado do edital de vagas para a 2.ª fase a que respeita a referência 10 do anexo I.
+
+8 - A colocação obtida na 1.ª fase do concurso para os estudantes referidos na alínea d) do n.º 4 que venham a ser recolocados determina a transferência oficiosa e automática da sua matrícula.
+
+> Alterado pelo/a [Portaria n.º 875/94](https://diariodarepublica.pt/dr/detalhe/portaria/875-1994-609279), publicado em 1994-09-29.
 
 ### CAPÍTULO VI — Matrícula e inscrição
 

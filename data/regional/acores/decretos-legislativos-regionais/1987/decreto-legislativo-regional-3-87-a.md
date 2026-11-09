@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-11-16'
+version_history:
+  file: decreto-legislativo-regional-3-87-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-03-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-11-16'
+    amending: pt:dre:146215:por
+    amending_title: Decreto Legislativo Regional n.º 29/2011/A
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:17:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    29/2011/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1987/decreto-legislativo-regional-3-87-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,17 +125,23 @@ Nestes termos:
 
 A Assembleia Regional dos Açores decreta, ao abrigo da alínea a) do artigo 229.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - Na Região Autónoma dos Açores, compete ao Governo Regional, através da Secretaria Regional da Agricultura e Pescas, determinar o abate compulsivo ou outras medidas de polícia sanitária, e profilácticas no caso do aparecimento de qualquer surto de doença contagiosa de carácter expansivo nos efectivos pecuários.
+###### Artigo 1.º
+
+1 - Na Região Autónoma dos Açores, compete ao Governo Regional, através da Secretaria Regional da Agricultura e Pescas, determinar o abate compulsivo ou outras medidas de polícia sanitária, e profilácticas no caso do aparecimento de qualquer surto de doença contagiosa de carácter expansivo nos efectivos pecuários.
 
 2 - Tais determinações, uma vez devidamente fundamentadas em pareceres técnicos da Direcção Regional de Veterinária, serão objecto de portaria do Secretário Regional da Agricultura e Pescas.
 
-Art. 2.º - 1 - São devidas indemnizações aos respectivos proprietários quando os seus animais forem mandados abater ou quando venham a morrer em consequência de outras medidas aplicadas ao abrigo deste diploma e da demais legislação aplicável.
+###### Artigo 2.º
 
-2 - O montante das indemnizações será fixado tendo em conta o parecer técnico da Direcção Regional de Veterinária e publicado na portaria referida no n.º 2 do artigo anterior.
+1 - São devidas indemnizações aos respectivos proprietários quando os seus animais forem mandados abater ou quando venham a morrer em consequência de outras medidas aplicadas ao abrigo deste diploma e da demais legislação aplicável.
+
+2 - O montante das indemnizações e os métodos de eliminação e destino final dos subprodutos animais resultantes será fixado tendo em conta o parecer técnico dos departamentos da administração regional autónoma com competência em matéria de sanidade animal e de ambiente e publicado na portaria referida no n.º 2 do artigo anterior.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 21 de Janeiro de 1987.
 
 O Presidente da Assembleia Regional, José Guilherme Reis Leite.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 29/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2011-146215), publicado em 2011-11-16.
 
 Assinado em Angra do Heroísmo em 17 de Fevereiro de 1987.
 

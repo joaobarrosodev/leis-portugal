@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-08-09'
+version_history:
+  file: decreto-49417.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-11-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-08-09'
+    amending: pt:dre:419246:por
+    amending_title: Decreto n.º 401/73
+    changes:
+    - Revoga Artigo 8.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:10:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 401/73. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1969/decreto-49417.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,13 +140,19 @@ Por motivo de urgência, de harmonia com o disposto no § 1.º do artigo 150.º 
 
 Usando da Faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º - 1. Em cada uma das províncias de Angola e de Moçambique é reorganizado o Fundo de Fomento Pecuário, adiante designado por «Fundo», de harmonia com as disposições seguintes.
+###### Artigo 1.º
+
+1. Em cada uma das províncias de Angola e de Moçambique é reorganizado o Fundo de Fomento Pecuário, adiante designado por «Fundo», de harmonia com as disposições seguintes.
 
 2. O Fundo é um património autónomo, dotado de personalidade jurídica e gestão administrativa e financeira próprias.
 
-Art. 2.º O Fundo destina-se a incrementar a produção animal, a comercialização e a industrialização dos produtos, subprodutos e despojos de sua origem.
+###### Artigo 2.º
 
-Art. 3.º Para a consecução dos fins previstos no artigo anterior, compete ao Fundo:
+O Fundo destina-se a incrementar a produção animal, a comercialização e a industrialização dos produtos, subprodutos e despojos de sua origem.
+
+###### Artigo 3.º
+
+Para a consecução dos fins previstos no artigo anterior, compete ao Fundo:
 
 a) Apoiar e estimular a produção animal quer directamente junto do produtor, quer indirectamente através da disciplina da comercialização e do fomento da industrialização;
 
@@ -143,27 +166,43 @@ e) Promover a preparação e aperfeiçoamento técnico do pessoal e a divulgaç�
 
 f) Apoiar os serviços provinciais de veterinária no estabelecimento e desenvolvimento das infra-estruturas necessárias ao fomento das explorações animais.
 
-Art. 4.º O Fundo terá receitas próprias e orçamento privativo e será gerido por um conselho administrativo, que prestará contas da sua gestão, presidido pelo director dos serviços de veterinária da respectiva província.
+###### Artigo 4.º
 
-Art. 5.º - 1. Constarão de diploma regulamentar, a publicar pelos Governos-Gerais de Angola e de Moçambique, as receitas do Fundo e a composição e atribuições do conselho administrativo, que poderá ter a participação do sector privado com interesses nas actividades pecuárias.
+O Fundo terá receitas próprias e orçamento privativo e será gerido por um conselho administrativo, que prestará contas da sua gestão, presidido pelo director dos serviços de veterinária da respectiva província.
+
+###### Artigo 5.º
+
+1. Constarão de diploma regulamentar, a publicar pelos Governos-Gerais de Angola e de Moçambique, as receitas do Fundo, a composição dos quadros de pessoal técnico, técnico auxiliar, assalariado e administrativo da sua secretaria privativa e a composição e atribuição do conselho administrativo, que poderá ter a participação do sector privado com interesses nas actividades pecuárias.
 
 2. No diploma a que se refere o número anterior pode ser prevista a criação de comissões e subcomissões com fins específicos de estudo ou orientação de problemas ligados ao fomento da produção, comercialização e industrialização pecuárias, e também fixada a remuneração mensal dos membros do conselho administrativo e o quantitativo de senhas de presença aos membros das comissões e subcomissões, as quais serão acumuláveis com quaisquer vencimentos ou remunerações, sem limite legal.
 
-Art. 6.º - 1. Os planos de acção organizados pelo conselho administrativo, sobre os quais serão elaborados os orçamentos anuais, devem ser aprovados pelo governador-geral, em data a fixar no diploma regulamentar.
+> Alterado pelo/a [Decreto n.º 401/73](https://diariodarepublica.pt/dr/detalhe/decreto/401-1973-419246), publicado em 1973-08-09.
+
+###### Artigo 6.º
+
+1. Os planos de acção organizados pelo conselho administrativo, sobre os quais serão elaborados os orçamentos anuais, devem ser aprovados pelo governador-geral, em data a fixar no diploma regulamentar.
 
 2. O conselho administrativo deve também submeter à aprovação do governador-geral um relatório anual e da sua actividade.
 
-Art. 7.º Os contratos celebrados pelo conselho administrativo do Fundo, em ordem a atingir os objectivos assinalados no artigo 2.º, têm a fé pública dos documentos autênticos e serão lavrados pelo funcionário que o governador-geral designar sob proposta do conselho administrativo.
+###### Artigo 7.º
 
-Art. 8.º O conselho administrativo pode subsidiar, nos termos que forem objecto de prévio acordo, com os serviços de veterinária:
+Os contratos celebrados pelo conselho administrativo do Fundo, em ordem a atingir os objectivos assinalados no artigo 2.º, têm a fé pública dos documentos autênticos e serão lavrados pelo funcionário que o governador-geral designar sob proposta do conselho administrativo.
+
+###### Artigo 8.º
+
+O conselho administrativo pode subsidiar, nos termos que forem objecto de prévio acordo, com os serviços de veterinária:
 
 a) A colaboração dos especialistas dos diversos órgãos da administração;
 
 b) O contrato de técnicos nacionais ou estrangeiros;
 
-c) O contrato ou assalariamento de pessoal estritamente indispensável ao funcionamento da secretaria do conselho administrativo, e das estruturas ou empreendimentos dependentes do apoio do Fundo.
+> Revogado pelo/a [Decreto n.º 401/73](https://diariodarepublica.pt/dr/detalhe/decreto/401-1973-419246), publicado em 1973-08-09.
 
-Art. 9.º O presente decreto entra em vigor na data da publicação do diploma regulamentar a que se refere o artigo 5.º, considerando-se revogados, nessa data: a Diploma Legislativo Ministerial n.º 2, de 26 de Maio de 1967, o Diploma Legislativo n.º 2874, de 26 de Dezembro de 1957, e a [Portaria n.º 10244](https://diariodarepublica.pt/dr/detalhe/portaria/10244-1942-344188), de 2 de Julho de 1958, publicados na província de Angola; o Diploma Legislativo Ministerial n.º 5, de 11 de Outubro de 1961, o artigo 50.º do Diploma Legislativo n.º 2057, de 14 de Janeiro de 1961, e o Diploma Legislativo n.º 2431, de 21 de Dezembro de 1963, publicados na província de Moçambique.
+> Alterado pelo/a [Decreto n.º 401/73](https://diariodarepublica.pt/dr/detalhe/decreto/401-1973-419246), publicado em 1973-08-09.
+
+###### Artigo 9.º
+
+O presente decreto entra em vigor na data da publicação do diploma regulamentar a que se refere o artigo 5.º, considerando-se revogados, nessa data: a Diploma Legislativo Ministerial n.º 2, de 26 de Maio de 1967, o Diploma Legislativo n.º 2874, de 26 de Dezembro de 1957, e a [Portaria n.º 10244](https://diariodarepublica.pt/dr/detalhe/portaria/10244-1942-344188), de 2 de Julho de 1958, publicados na província de Angola; o Diploma Legislativo Ministerial n.º 5, de 11 de Outubro de 1961, o artigo 50.º do Diploma Legislativo n.º 2057, de 14 de Janeiro de 1961, e o Diploma Legislativo n.º 2431, de 21 de Dezembro de 1963, publicados na província de Moçambique.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 

@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-01-04'
+version_history:
+  file: decreto-lei-200-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-01-04'
+    amending: pt:dre:401890:por
+    amending_title: Decreto-Lei n.º 491/88
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Adita Artigo 2.º-A
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:04:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 491/88. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-200-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,7 +155,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - Fica o Ministério das Finanças e do Plano autorizado a admitir, em regime de destacamento, requisição ou por contrato além do quadro, o pessoal que se revele necessário para o reforço dos meios humanos da Direcção-Geral das Contribuições e Impostos afectos à fiscalização tributária, tendo em vista a implantação do imposto sobre o valor acrescentado (IVA).
+###### Artigo 1.º
+
+1 - Esgotadas que sejam as hipóteses de recrutamento nos quadros de efectivos interdepartamentais, mediante comprovação da Direcção-Geral da Administração Pública, fica o Ministro das Finanças autorizado a admitir, em regime de destacamento, requisição ou por contrato além do quadro, o pessoal que se revele necessário para o reforço dos meios humanos da Direcção-Geral das Contribuições e Impostos afecto à fiscalização tributária, tendo em vista a implantação da reforma fiscal.
 
 2 - O destacamento será feito de entre funcionários pertencentes aos quadros da Direcção-Geral das Contribuições e Impostos.
 
@@ -146,7 +165,11 @@ Artigo 1.º - 1 - Fica o Ministério das Finanças e do Plano autorizado a admit
 
 4 - A admissão por contrato será efectuada nos termos do artigo 4.º do [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, com as especialidades constantes do presente diploma.
 
-Art. 2.º - 1 - O pessoal a que se refere o artigo anterior será destacado, requisitado ou contratado, consoante os casos, mediante adequado processo de selecção, para a categoria de técnico verificador tributário de 2.ª classe, letra I, de entre licenciados em Economia, Finanças ou Organização e Gestão de Empresas cujo currículo escolar inclua as disciplinas de Contabilidade Geral e Contabilidade Analítica, ou de entre diplomados pelos institutos superiores de contabilidade e administração.
+> Alterado pelo/a [Decreto-Lei n.º 491/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1988-401890), publicado em 1988-12-30.
+
+###### Artigo 2.º
+
+1 - O pessoal a que se refere o artigo anterior será destacado, requisitado ou contratado, consoante os casos, mediante adequado processo de selecção, para a categoria de perito de fiscalização tributária de 2.ª classe, de entre indivíduos licenciados ou bacharéis nas áreas da Economia, das Finanças, da Administração ou da Organização e Gestão de Empresas cujo currículo escolar, em todos os casos, integre as disciplinas de Contabilidade Geral e Contabilidade Analítica, e ainda de entre diplomados em Contabilidade e Administração pelos institutos superiores de contabilidade e administração.
 
 2 - O processo de selecção será definido por despacho conjunto do Ministro das Finanças e do Plano e do membro do Governo que tiver a seu cargo a Administração Pública.
 
@@ -156,11 +179,23 @@ Art. 2.º - 1 - O pessoal a que se refere o artigo anterior será destacado, req
 
 5 - Os indivíduos a contratar além do quadro constarão de lista classificativa própria, sendo admitidos pela respectiva ordem de classificação depois de o terem sido todos os funcionários e agentes aprovados nas provas de selecção, em regime de destacamento ou de requisição.
 
-Art. 3.º - 1 - Os indivíduos destacados, requisitados ou contratados nos termos do presente decreto-lei terão preferência, em igualdade de circunstâncias, no preenchimento dos lugares dos quadros de pessoal da Direcção-Geral das Contribuições e Impostos correspondentes à categoria de técnico verificador tributário de 2.ª classe, até ao limite das vagas prescritas na parte final da alínea a) do artigo 48.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, desde que obtenham aprovação nas provas a que se refere o n.º 1 do artigo 51.º do mesmo diploma.
+> Alterado pelo/a [Decreto-Lei n.º 491/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1988-401890), publicado em 1988-12-30.
+
+###### Artigo 2.º-A
+
+Podem ainda ser admitidos, nos termos previstos nos artigos 1.º e 2.º do presente decreto-lei, com as devidas adaptações, licenciados em Direito e Engenharia, até ao limite fixado nos avisos de abertura dos concursos.
+
+> Aditado pelo/a [Decreto-Lei n.º 491/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1988-401890), publicado em 1988-12-30.
+
+###### Artigo 3.º
+
+1 - Os indivíduos destacados, requisitados ou contratados nos termos do presente decreto-lei terão preferência, em igualdade de circunstâncias, no preenchimento dos lugares dos quadros de pessoal da Direcção-Geral das Contribuições e Impostos correspondentes à categoria de técnico verificador tributário de 2.ª classe, até ao limite das vagas prescritas na parte final da alínea a) do artigo 48.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio, desde que obtenham aprovação nas provas a que se refere o n.º 1 do artigo 51.º do mesmo diploma.
 
 2 - Ao pessoal que venha a ingressar nos quadros da Direcção-Geral das Contribuições e Impostos será contado, para todos os efeitos, o tempo de serviço prestado na situação anterior.
 
-Art. 4.º Os destacamentos, requisições e contratos previstos no presente diploma serão efectuados pelo prazo de um ano, prorrogável apenas uma vez, por igual período, caducando antes do termo se ocorrer algum dos seguintes factos:
+###### Artigo 4.º
+
+Os destacamentos, requisições e contratos previstos no presente diploma serão efectuados pelo prazo de um ano, prorrogável apenas uma vez, por igual período, caducando antes do termo se ocorrer algum dos seguintes factos:
 
 a) A não apresentação do interessado ao primeiro concurso que for aberto, após o início de funções, para a admissão do pessoal a que se refere o n.º 1 do artigo 51.º do [Decreto Regulamentar n.º 42/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1983-493271), de 20 de Maio;
 
@@ -170,7 +205,9 @@ c) A recusa do provimento nos lugares para cujo preenchimento foi aberto o concu
 
 d) A falta de provimento até ao final do prazo de validade do concurso.
 
-Art. 5.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+###### Artigo 5.º
+
+O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 16 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes.
 

@@ -1,0 +1,1154 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:635246:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9bf01daef05cae99",
+    "204c2580370e2e4d",
+    "a93cfa376c85dfbb",
+    "504d2367dd9d5cb3",
+    "68bc991df0c0cb1a",
+    "fc9b6f07ce7dccce",
+    "24342a5f84135b7b",
+    "41b235926b33ae4e",
+    "4b8e80facb6807a7",
+    "3e5e5c2ed25a8b2a",
+    "2c7429120c221330",
+    "e52640cf20881b18",
+    "48d244cc0f75bed4",
+    "f5921aee4744c0d8",
+    "b595c4c7ae0804f8",
+    "f0e9c5ecec589526",
+    "4b0ebe66a86ead99",
+    "11d3c7250fbe9554",
+    "f8572cbae0714299",
+    "56d7d9e206700751",
+    "66eba60d6fd76201",
+    "1133ddfa3b2acb6c",
+    "84c372d09bf0e109",
+    "764e6a09e84a1420",
+    "43df9cb740a78446",
+    "5d451b233e96ba9c",
+    "0b1a25801f706d20",
+    "0549e00e1cc9adac",
+    "145ea113ff397894",
+    "33ca5c354cdf7204",
+    "8b8f850c290a85d2",
+    "f346b0fe9b8576ef",
+    "5243433f0281940d",
+    "b3da414cec839268",
+    "070216850cfd5987",
+    "e5a1f6f94d83e161",
+    "efdbc7c05466e73e",
+    "70b9d0cfac089281",
+    "0a1ad4e6c168e9e9",
+    "9453e2ca531ef5e2",
+    "15aaf3adc627a5eb",
+    "da73a308b75482f1",
+    "ed3d47581e78e9de",
+    "c6b64528ccf1d5c7",
+    "e1689f8e312f8c38",
+    "1d6bc2a1643eb360",
+    "b0c157d4c0143931",
+    "f7a11da055453a4c",
+    "7af6edff7987adf1",
+    "538fa578e41150e7",
+    "b83c3171aa6a6d69",
+    "09157ea1034b52a3",
+    "adced6b0025dcc32",
+    "036d96b77e7489cd",
+    "43fbaa9c0b967a0d",
+    "3dd9185587db4e8b",
+    "d5ba1d2138a9f3a5",
+    "4059904bc291fa6f",
+    "be8e890014204c6e",
+    "7db0789cc9f93438",
+    "bd3e27ae02d8ef5b",
+    "48b3f4d0b1df66ee",
+    "96164702e32707ea",
+    "7012eafa0417c4a3",
+    "f4b6dd203bcdc03c",
+    "2274c6722c99298e",
+    "e9a1207a62c5b01c",
+    "c39fc8f92613a753",
+    "44287c6af014795a",
+    "5ac972910bb629c5",
+    "1a0a6092b85f6429",
+    "8cacd7f49109b4d0",
+    "4345be731da35e68",
+    "411a1354db3d9fe9",
+    "5dbe6d014ce53241",
+    "c9309824471156d9",
+    "096e939c1e9410b6",
+    "6844c529fe663144",
+    "d2fe56ac17393355",
+    "7f5f291e07e58a31",
+    "a2da759b20920b82",
+    "16c812e9c06ac82c",
+    "fa90ce63201894d4",
+    "7fcd3d35cf9739bc",
+    "7466c9b1d70b892b",
+    "83fd07a1ff4b3365",
+    "b6de1b257fa2ab19",
+    "4035c18635f2c392",
+    "5530768973150662",
+    "7a9cf37d8b0afdec",
+    "ad3c2d75e96da467",
+    "bc66442cb40df562",
+    "d07b26b12b32d73e",
+    "4cd0902741836f6c",
+    "5277bce38fd537d7",
+    "fa2590a80f568803",
+    "fdc25dbbb460bc09",
+    "108b095423711c56",
+    "663b829e3e8da25d",
+    "14f0c34c566951a3",
+    "52f25d06c1180605",
+    "c4f60c4f0def6c69",
+    "f948f72ef33c533a",
+    "489574cb8dabd105"
+   ]
+  },
+  {
+   "date": "1993-09-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:367047:por",
+     "title": "Decreto-Lei n.º 459/79",
+     "published": "1979-11-23",
+     "dre_path": "/dr/detalhe/decreto-lei/459-1979-367047"
+    },
+    {
+     "id": "pt:dre:694039:por",
+     "title": "Decreto-Lei n.º 19/91",
+     "published": "1991-01-10",
+     "dre_path": "/dr/detalhe/decreto-lei/19-1991-694039"
+    },
+    {
+     "id": "pt:dre:623854:por",
+     "title": "Decreto-Lei n.º 283/92",
+     "published": "1992-12-19",
+     "dre_path": "/dr/detalhe/decreto-lei/283-1992-623854"
+    },
+    {
+     "id": "pt:dre:633541:por",
+     "title": "Decreto-Lei n.º 304/93",
+     "published": "1993-09-01",
+     "dre_path": "/dr/detalhe/decreto-lei/304-1993-633541"
+    },
+    {
+     "id": "pt:dre:633541:por",
+     "title": "Decreto-Lei n.º 304/93",
+     "published": "1993-09-01",
+     "dre_path": "/dr/detalhe/decreto-lei/304-1993-633541"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 50.º",
+    "Altera Artigo 64.º",
+    "Altera Artigo 65.º",
+    "Altera Artigo 70.º",
+    "Altera Artigo 74.º"
+   ],
+   "fragments": [
+    "9bf01daef05cae99",
+    "204c2580370e2e4d",
+    "a93cfa376c85dfbb",
+    "504d2367dd9d5cb3",
+    "68bc991df0c0cb1a",
+    "fc9b6f07ce7dccce",
+    "24342a5f84135b7b",
+    "41b235926b33ae4e",
+    "4b8e80facb6807a7",
+    "3e5e5c2ed25a8b2a",
+    "2c7429120c221330",
+    "e52640cf20881b18",
+    "48d244cc0f75bed4",
+    "f5921aee4744c0d8",
+    "b595c4c7ae0804f8",
+    "f0e9c5ecec589526",
+    "4b0ebe66a86ead99",
+    "11d3c7250fbe9554",
+    "f8572cbae0714299",
+    "56d7d9e206700751",
+    "66eba60d6fd76201",
+    "1133ddfa3b2acb6c",
+    "84c372d09bf0e109",
+    "764e6a09e84a1420",
+    "43df9cb740a78446",
+    "5d451b233e96ba9c",
+    "0b1a25801f706d20",
+    "0549e00e1cc9adac",
+    "145ea113ff397894",
+    "33ca5c354cdf7204",
+    "8b8f850c290a85d2",
+    "f346b0fe9b8576ef",
+    "5243433f0281940d",
+    "b3da414cec839268",
+    "070216850cfd5987",
+    "e5a1f6f94d83e161",
+    "efdbc7c05466e73e",
+    "70b9d0cfac089281",
+    "0a1ad4e6c168e9e9",
+    "9453e2ca531ef5e2",
+    "15aaf3adc627a5eb",
+    "da73a308b75482f1",
+    "ed3d47581e78e9de",
+    "c6b64528ccf1d5c7",
+    "e1689f8e312f8c38",
+    "1d6bc2a1643eb360",
+    "b0c157d4c0143931",
+    "f7a11da055453a4c",
+    "7af6edff7987adf1",
+    "538fa578e41150e7",
+    "b83c3171aa6a6d69",
+    "09157ea1034b52a3",
+    "adced6b0025dcc32",
+    "036d96b77e7489cd",
+    "43fbaa9c0b967a0d",
+    "3dd9185587db4e8b",
+    "d5ba1d2138a9f3a5",
+    "f357d7100ffc1f5a",
+    "be8e890014204c6e",
+    "7db0789cc9f93438",
+    "bd3e27ae02d8ef5b",
+    "48b3f4d0b1df66ee",
+    "96164702e32707ea",
+    "7012eafa0417c4a3",
+    "f4b6dd203bcdc03c",
+    "2274c6722c99298e",
+    "e9a1207a62c5b01c",
+    "c39fc8f92613a753",
+    "44287c6af014795a",
+    "5ac972910bb629c5",
+    "1a0a6092b85f6429",
+    "8cacd7f49109b4d0",
+    "4345be731da35e68",
+    "1fda83f15dc6df96",
+    "0637b808815de2c4",
+    "c9309824471156d9",
+    "096e939c1e9410b6",
+    "6844c529fe663144",
+    "d2fe56ac17393355",
+    "7f5f291e07e58a31",
+    "a2da759b20920b82",
+    "16c812e9c06ac82c",
+    "583c7bbbd79eda32",
+    "7fcd3d35cf9739bc",
+    "7466c9b1d70b892b",
+    "83fd07a1ff4b3365",
+    "b6de1b257fa2ab19",
+    "d25a46968b913712",
+    "5530768973150662",
+    "7a9cf37d8b0afdec",
+    "ad3c2d75e96da467",
+    "bc66442cb40df562",
+    "d07b26b12b32d73e",
+    "4cd0902741836f6c",
+    "5277bce38fd537d7",
+    "fa2590a80f568803",
+    "fdc25dbbb460bc09",
+    "108b095423711c56",
+    "663b829e3e8da25d",
+    "14f0c34c566951a3",
+    "52f25d06c1180605",
+    "c4f60c4f0def6c69",
+    "f948f72ef33c533a",
+    "489574cb8dabd105"
+   ]
+  }
+ ],
+ "fragments": {
+  "9bf01daef05cae99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Agosto\n\n1. A amplitude das matérias abrangidas na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536) e as profundas alterações nela previstas relativamente ao anterior sistema de protecção das vítimas de acidentes de trabalho e doenças profissionais ainda em vigor tornam extremamente complexa a respectiva regulamentação de que ficou dependente o começo da sua vigência. Assumem relevância primordial nessas matérias as respeitantes ao regime geral de reparação daqueles riscos profissionais, que se mostra indispensável actualizar e regular nos termos estabelecidos na mesma lei.\n\n2. Corresponde o presente diploma à opção pela imediata realização desse objectivo com prioridade sobre as demais reformas a concretizar mais desenvolvidamente em regulamentação autónoma. Compreende, assim, o presente decreto, além das disposições esclarecedoras de conceitos da [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536) que interessam à reparação - sobre acidente, lugar de trabalho, percurso normal, culpa indesculpável e cura clínica, por exemplo -, as normas aplicáveis à participação dos acidentes e doenças, às prestações de reparação, à ocupação e admissão de sinistrados, à remição de pensões, à cobertura dos riscos e ao sistema de sanções. Expressamente se remetem para regulamentação autónoma as disposições relativas à organização de serviços de primeiros socorros e de medicina do trabalho, à elaboração da lista das doenças profissionais, ao regime especial de reparação da silicose, ao sistema específico de seguro dos trabalhadores rurais, à repressão de insuficientes declarações de pessoal e salários, à estruturação do Fundo de Garantia e Actualização de Pensões, às modalidades de prevenção, segurança e higiene, bem como à adaptação, readaptação e colocação de sinistrados.\n\nTornam-se, porém, aplicáveis desde a entrada em vigor do presente regulamento todas as disposições preceptivas da [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), seja qual for a matéria a que respeitem.\n\n3. Na elaboração do presente decreto foram tidos em conta os preceitos da referida lei e as disposições actualmente em vigor, constantes da [Lei n.º 1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129) e da sua regulamentação, designadamente do [Decreto n.º 27649](https://diariodarepublica.pt/dr/detalhe/decreto/27649-1937-419412), bem como a jurisprudência sobre as mesmas estabelecida e as tendências evolutivas patentes na legislação de outros países e nas convenções internacionais. Adoptou-se na sua articulação a moderna sistematização dos diplomas legislativos.\n\n4. Comparativamente com o regime de reparação ainda em vigor, são de assinalar as diferenças mais consideráveis que directamente resultam das reformas introduzidas na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), tais como as relativas à reparação assegurada aos trabalhadores portugueses que se encontrem no estrangeiro ao serviço de entidades patronais portuguesas, aos quais a base V da [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536) declara aplicável a legislação do país de trabalho se por esta lhes for reconhecido o direito a reparação, sendo-lhes salvaguardado, nos termos do artigo 6.º do presente decreto, o direito ao nível superior de prestações previsto na lei portuguesa em confronto com a mencionada legislação.\n\nDerivam igualmente do disposto na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536) as disposições dos artigos 61.º e 62.º, sobre a ocupação e admissão dos sinistrados, bem como as do artigo 55.º sobre a definição da incapacidade dos familiares beneficiários legais de pensões por morte.\n\n5. Outras modificações presentemente introduzidas resultam da própria experiência do sistema em vigor e da propositada integração do regime de reparação de acidentes na legislação do trabalho e da previdência social, além da atenção prestada às orientações internacionais.\n\nSão desta ordem as disposições relativas aos prazos de participação dos acidentes e à designação das pessoas que a podem efectuar (artigos 16.º e 21.º), à substituição legal do médico assistente (artigo 31.º), ao lugar de prestação da assistência clínica e do internamento (artigos 27.º e 37.º), ao regime de hospedagem, transportes e internamento hospitalar e termal (artigos 37.º a 41.º) e à indicação das entidades isentas da obrigação de transferir a sua responsabilidade (artigo 68.º), bem como ao regime de caucionamento desta (artigos 70.º e 71.º).\n\n6. Interessa em tal capítulo referenciar mais detidamente as inovações sobre a conversão em permanentes das incapacidades temporárias que se prolonguem por mais de dezoito meses (artigo 48.º), os limites quantitativos das pensões e indemnizações (artigo 50.º), a proibição de se reduzirem ou suspenderem as pensões devidas aos sinistrados, salvo exclusivamente no caso de revisão (artigo 53.º), o regime de remição das pensões (artigos 64.º a 67.º) e o sistema de sanções penais (artigos 76.º a 82.º). Seguidamente se desenvolve a justificação desta última série de disposições.\n\n7. Fazendo considerar como permanentes as incapacidades temporárias que ultrapassem dezoito meses e fixar nesse momento o grau de desvalorização, procura-se evitar o protelamento excessivo da atribuição das pensões em consequência da dilação do tratamento do sinistrado. Prevê-se, contudo, a prorrogação do mesmo prazo quando se verifique estar o sinistrado a receber o tratamento clínico necessário. Aos interessados assiste o direito de requererem a revisão das pensões assim fixadas, e, atento o carácter da incapacidade que lhes serve de fundamento, excluem-se tais pensões da remição, até que seja dada alta definitiva do tratamento (artigo 64.º, n.º 4).\n\n8. Na limitação quantitativa das pensões e indemnizações adopta este regulamento sistema análogo ao actualmente estabelecido nos artigos 18.º e 19.º da [Lei n.º 1942](https://diariodarepublica.pt/dr/detalhe/lei/1942-1936-360129). Aumenta para 300$00 o limite máximo da retribuição-base diária a considerar para o cálculo daquelas prestações, presentemente fixado em 100$00. Eleva para 100$00 a parte da retribuição-base diária a tomar em conta sem qualquer dedução, até ao presente estabilizada, para as pensões, em 30$00. Estabelece, como actualmente, a redução a metade da parcela que exceda esse limite, para as retribuições-base de quantitativo superior.\n\nPelo regime vigente as indemnizações ficam em regra limitadas a dois terços de 100$00 ou, seja, em termos de ordenados mensais, ao quantitativo de 2000$00 por mês. O limite superior de incidência de contribuições para as caixas sindicais de previdência (10000$00 por mês) conduz, em valor máximo, os subsídios pecuniários a conceder pelas mesmas caixas em caso de doença a 6000$00 mensais.\n\nA norma contida no presente regulamento admitirá indemnizações no montante máximo de 6000$00 por mês, em referência a retribuições de 15000$00 mensais ou superiores. (À retribuição mensal de 10000$00 corresponderá a indemnização de 4334$00 por mês.)\n\nNo respeitante às pensões, o regime ainda em vigor limita o seu montante ao correspondente a 65$00 diários ou, em termos de ordenados, a 1950$00 mensais. Nas caixas sindicais de previdência o quantitativo das pensões, referindo-se à média dos salários de toda a carreira do beneficiário, não pode comparar-se directamente com o das previstas no regime de acidentes de trabalho, que as afere pela retribuição recebida à data do acidente. No entanto, para uma carreira completa, o montante da pensão de reforma tenderá a aproximar-se de 60 por cento do salário dos dez anos civis com mais elevadas retribuições o que, em relação ao actual limite superior de 10000$00 por mês, corresponderá à pensão mensal de 6000$00.\n\nO disposto no presente diploma conduzirá a pensões por incapacidade permanente para o trabalho habitual do montante máximo de 6000$00, relativamente a ordenados de 15000$00, e a pensão por incapacidade absoluta para todo e qualquer trabalho do sinistrado sem familiares a cargo poderá atingir 8000$00 mensais, no mesmo nível de retribuições. (Em relação ao ordenado de 10000$00 as pensões nas hipóteses consideradas atingirão, no máximo, 4334$00 e 5200$00, respectivamente).\n\nAdmite-se no presente regulamento, a título meramente voluntário, que as entidades patronais assumam e transfiram a responsabilidade quanto a retribuições superiores aos limites estabelecidos.\n\n9. Proibe-se no artigo 53.º a suspensão ou redução das pensões por incapacidade permanente, salvo apenas quando em consequência de revisão, ainda que o sinistrado venha a auferir retribuição superior à que percebia antes do acidente. Afasta-se este preceito do regime de pensões de invalidez das caixas sindicais de previdência e tem como fundamento o critério de avaliação das incapacidades geralmente referido à capacidade geral de ganho na reparação dos acidentes.\n\n10. A remição das pensões é regulada no presente diploma em graduação análoga à estabelecida no sistema em vigor, com algumas alterações de relevo.\n\nAdmite-se a remição das pensões devidas aos ascendentes, além da relativa às pensões dos sinistrados actualmente já prevista.\n\nEstabelecem-se três escalões do montante das pensões, correspondendo ao primeiro a remição obrigatória; ao segundo a remição dependente de autorização do tribunal, mediante simples requerimento de qualquer das partes interessadas, e ao terceiro a dependência do acordo de ambas as partes. Faz-se atender nessa graduação não só, como actualmente, ao quantitativo das pensões, mas ainda, nas relativas aos sinistrados, ao grau de desvalorização sobre que foram fixadas.\n\nCompreendem-se no primeiro grupo as pensões correspondentes a desvalorização não superior a 5 por cento e as de montantes que não excedam 1200$00 anuais (actualmente 250$00 por ano); no segundo, as correspondentes a desvalorizações de mais de 5 até 10 por cento e as de montante superior a 1200$00 até 2400$00 anuais (actualmente 400$00), e no terceiro as correspondentes a desvalorizações de mais de 10 até 20 por cento e as de montante de mais de 2400$00 até 4800$00 por ano (actualmente de mais de 400$00 até 2000$00).\n\nA este terceiro grupo correspondem actualmente duas subdivisões: entre 400$00 e 700$00 e de 700$00 a 2000$00, exigindo-se nesta última a aplicação de pelo menos cinco sextos do capital em certificados de dívida pública ou em imóveis de que resulte para o sinistrado, em qualquer dos casos, rendimento de valor equivalente à pensão anual.\n\nO presente diploma admite, além dessas modalidades de aplicação do capital, a ampliação ou beneficiação de bens imóveis que o pensionista já possua e ainda a aquisição de máquinas e utensílios para exploração agrícola, piscatória ou de pequena indústria doméstica por ele exercida.\n\nTomando-se, porém, em conta os inconvenientes que resultariam de uma desmobilização maciça das reservas matemáticas das pensões existentes, se fosse dada imediata execução às inovações relativas à determinação do montante superior das pensões a remir obrigatòriamente ou por simples requerimento de qualquer das partes, prevê-se um período transitório para sua gradual aplicação (artigo 85.º).\n\nExcluem-se da remição, como actualmente, as pensões devidas a incapazes e, bem assim, as fixadas nos casos de prolongamento das incapacidades temporárias, enquanto não for dada alta em definitivo. Excluem-se igualmente, nos termos da base XXXIX da [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), as pensões relativas a doenças profissionais.\n\nSão inovadoras, ainda nesta matéria, as disposições sobre a possibilidade de remição parcial, atentos os novos limites estabelecidos, e a de ser autorizado o seu pagamento em prestações, havendo acordo das partes e garantia de integral satisfação, bem como a de as remições em numerário passarem a efectuar-se mediante certificados de aforro, os quais são amortizáveis no prazo de sessenta dias.\n\nÉ elevado para 95 por cento do valor actual das pensões o capital de remição, actualmente fixado em 80 por cento, destinando-se 90 por cento ao pensionista e 5 por cento ao Fundo de Garantia e Actualização de Pensões. Salvaguardam-se, finalmente, apesar da remição, o direito dos sinistrados à revisão das pensões, bem como os direitos atribuídos aos familiares em caso de morte em consequência do acidente.\n\n11. Na sistematização das sanções aplicáveis por transgressão do disposto na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536) e no presente regulamento segue-se regime análogo ao do diploma regulador do contrato de trabalho. Fixam-se três ordens de multas: de 400$00 a 10000$00; de 300$00 a 6000$00, e de 100$00 a 2000$00. Concretizam-se em relação às duas primeiras as infracções correspondentes e declara-se a terceira aplicável às demais infracções não especificadas.\n\nSão agravados para o dobro os limites fixados sempre que o infractor use de falsificação, simulação ou de outro meio fraudulento, com ressalva da transgressão já de si definida como fraudulento recurso aos hospitais, fazendo qualificar o sinistrado como indigente. Proporciona-se directamente ao número de trabalhadores com os quais se relacione a infracção o valor das multas aplicáveis, tal como no regime do contrato de trabalho, segundo o qual se regulam igualmente a graduação das multas, os efeitos da reincidência e a inconvertibilidade das multas em prisão.\n\nEstabelece-se a reversão das multas para o Fundo de Garantia e Actualização de Pensões, em conformidade com o disposto na alínea c) do n.º 2 da base XLV da [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536).\n\n12. A exemplo da legislação de previdência social consigna-se expressamente a competência do Ministro das Corporações e Previdência Social para solução das dúvidas suscitadas na execução do presente diploma. Depende igualmente de despacho ministerial a reforma do estatuto da Caixa Nacional de Seguros de Doenças Profissionais, em conformidade com a [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536) e o presente regulamento.\n\n13. Fixa-se a sua entrada em vigor - e simultâneamente a da [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), por força do disposto na base LI da mesma lei - noventa dias após a sua publicação no Diário do Governo, atentas as profundas alterações introduzidas, designadamente no relativo aos montantes das prestações pecuniárias e à generalização da obrigatória transferência da responsabilidade, bem como à conveniência de possibilitar a elaboração da apólice uniforme, de modo a entrar em vigor simultâneamente com o regulamento.\n\n14. Declara-se a subsistência das disposições legais vigentes sobre as matérias a regular por forma autónoma nos termos do n.º 2 do artigo 1.º, bem como se mantém transitòriamente a validade dos modelos anexos ao [Decreto n.º 27649](https://diariodarepublica.pt/dr/detalhe/decreto/27649-1937-419412), enquanto não forem oficialmente substituídos, como se afigura conveniente, em particular com vista a serem tornados susceptíveis de tratamento mecanográfico.\n\nNestes termos, ouvidos os Ministérios das Finanças, Marinha, Saúde e Assistência e as Corporações.\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "204c2580370e2e4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições preliminares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições preliminares"
+  },
+  "a93cfa376c85dfbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Âmbito do regulamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Âmbito do regulamento)\n\n1. O presente decreto regulamenta a [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536) no que respeita à reparação dos acidentes de trabalho e doenças profissionais.\n\n2. Serão objecto de regulamentação autónoma os preceitos da mesma lei referentes a:\n\na) Serviços de primeiros socorros (base XI);\n\nb) Lista das doenças profissionais (base XXV);\n\nc) Reparação especial da silicose (bases XXVIII, XXIX, XXXI, XXXII, XXXIII e XXXIV);\n\nd) Sistema e unidade do seguro, no que se refere aos trabalhadores rurais (n.º 2 da base XLIII);\n\ne) Repressão de fraudes, omissões ou insuficiências quanto a pessoal e salários (n.º 5 da base XLIII);\n\nf) Fundo de Garantia e Actualização de Pensões (base XLV);\n\ng) Prevenção (base XLVI);\n\nh) Segurança e higiene (base XLVII);\n\ni) Adaptação, readaptação e colocação (base XLVIII)."
+  },
+  "504d2367dd9d5cb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Terminologia)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Terminologia)\n\nSalvo se o contexto impuser interpretação diferente, os termos a seguir indicados exprimem:\n\na) «Lei»: [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 3 de Agosto de 1965;\n\nb) «Base»: base da mesma [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536);\n\nc) «Acidente»: acidente de trabalho ou doença profissional;\n\nd) «Lesão»: lesão, perturbação funcional ou doença, quer profissional, quer consequente de acidente de trabalho;\n\ne) «Sinistrado» ou «vítima»: trabalhador que sofreu um acidente de trabalho ou está afectado de doença profissional;\n\nf) «Responsável» ou «entidade responsável»: entidade à qual é imputável a responsabilidade pelo acidente ou pela doença profissional;\n\ng) «Hospital» ou «estabelecimento hospitalar»: hospital, casa de saúde, casa de repouso ou de convalescença;\n\nh) «Tribunal competente»: tribunal do trabalho territorialmente competente;\n\ni) I. N. T. P.: Instituto Nacional do Trabalho e Previdência."
+  },
+  "68bc991df0c0cb1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Disposições gerais"
+  },
+  "fc9b6f07ce7dccce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Trabalhadores abrangidos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Trabalhadores abrangidos)\n\n1. Consideram-se abrangidos pelo disposto no n.º 2 da base II:\n\na) Os trabalhadores, normalmente autónomos, quando prestem serviços em estabelecimentos comerciais ou industriais de terceiros, desde que tais serviços sejam complementares ou do interesse das actividades inerentes aos mesmos estabelecimentos;\n\nb) Os trabalhadores que, em conjunto ou isoladamente, prestem serviços remunerados na proporção do tempo gasto ou da obra executada, em actividades que tenham por objecto exploração lucrativa, sem sujeição à autoridade e direcção da pessoa servida.\n\n2. Quando a lei ou este regulamento não impuserem entendimento diferente, presumir-se-à, até prova em contrário, que os trabalhadores estão na dependência económica da pessoa em proveito da qual prestam serviços."
+  },
+  "24342a5f84135b7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Responsabilidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Responsabilidade)\n\nSão responsáveis pela reparação e mais encargos previstos na lei as pessoais singulares ou colectivas de direito privado e de direito público não abrangidas por legislação especial, relativamente aos trabalhadores ao seu serviço referidos na base II."
+  },
+  "41b235926b33ae4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Licenciamento de obras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Licenciamento de obras)\n\n1. As entidades competentes só devem conceder licenças para obras quando os requerentes tiverem feito prova bastante de que a responsabilidade por acidentes se encontra garantida na forma legal.\n\n2. As referidas entidades certificarão, no documento da licença, a forma legal como está garantida a responsabilidade e, sendo por transferência para uma seguradora, a identidade desta e o número da respectiva apólice."
+  },
+  "4b8e80facb6807a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Trabalhadores portugueses no estrangeiro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Trabalhadores portugueses no estrangeiro)\n\nSe a reparação mencionada na base IV for constituída por prestações inferiores às previstas na lei, a empresa será responsável pelas diferenças apuradas."
+  },
+  "3e5e5c2ed25a8b2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Cura clínica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Cura clínica)\n\nA cura clínica, prevista na lei, corresponde à situação em que as lesões desapareceram totalmente ou se apresentem como insusceptíveis de modificação com terapêutica adequada."
+  },
+  "2c7429120c221330": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Nulidade dos actos contrários à lei)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Nulidade dos actos contrários à lei)\n\nPresumem-se realizados com o fim de impedir a satisfação dos créditos provenientes do direito à reparação prevista na lei todos os actos do devedor, praticados após a data do acidente ou do diagnóstico inequívoco da doença, que envolvam diminuição da garantia patrimonial desses créditos."
+  },
+  "e52640cf20881b18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Exploração lucrativa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Exploração lucrativa)\n\nNão se consideram lucrativas, para efeito do disposto na lei e neste regulamento, as actividades cuja produção se destine exclusivamente ao consumo ou utilização do agregado familiar da entidade patronal."
+  },
+  "48d244cc0f75bed4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Acidentes de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Acidentes de trabalho"
+  },
+  "f5921aee4744c0d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Conceito de acidente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Conceito de acidente)\n\nNa alínea a) do n.º 2 da base V estão compreendidos os acidentes que se verifiquem nas seguintes circunstâncias:\n\na) No local do pagamento da retribuição, enquanto o trabalhador aí permanecer para tal efeito;\n\nb) No local onde ao trabalhador deva ser prestada qualquer forma de assistência ou tratamento por virtude de anterior acidente e enquanto aí permanecer para esses fins."
+  },
+  "b595c4c7ae0804f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Percurso normal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Percurso normal)\n\n1. Não deixa de considerar-se percurso normal, incluído no disposto na alínea b) do n.º 2 da base V, o que o trabalhador tenha de utilizar:\n\na) Entre o local de trabalho e a sua residência habitual ou ocasional;\n\nb) Entre qualquer dos locais preferidos na alínea precedente e os mencionados no artigo 10.º\n\n2. Nos mesmos termos, não deixa de considerar-se normal o percurso que tiver sofrido interrupções ou desvios determinados pela satisfação de necessidades imperiosas do trabalhador, bem como por motivo de força maior ou por caso fortuito."
+  },
+  "f0e9c5ecec589526": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Prova do acidente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Prova do acidente)\n\n1. A lesão observada no local e no tempo de trabalho ou nas circunstâncias previstas no n.º 2 da base V presume-se, até prova em contrário, consequência de acidente de trabalho.\n\n2. Se a lesão não for reconhecida a seguir ao acidente ou tiver manifestação posterior, compete à vítima ou aos beneficiários legais provar que foi consequência dele."
+  },
+  "4b0ebe66a86ead99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Falta grave e indesculpável)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Falta grave e indesculpável)\n\nNão se considera falta grave e indesculpável da vítima do acidente o acto ou a omissão resultante da habitualidade ao perigo do trabalho executado, da confiança na experiência profissional ou dos usos e costumes da profissão."
+  },
+  "11d3c7250fbe9554": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Participação do acidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Participação do acidente"
+  },
+  "f8572cbae0714299": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Sinistrados e familiares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Sinistrados e familiares)\n\n1. Ocorrido um acidente, a vítima ou os familiares beneficiários legais de pensões devem participá-lo, verbalmente ou por escrito, nas quarenta e oito horas seguintes, à entidade patronal ou à pessoa que a represente na direcção do trabalho, salvo se estas o presenciaram ou dele vieram a ter conhecimento no mesmo período.\n\n2. Se o estado da vitima ou outra circunstância, devidamente comprovada, não permitir o cumprimento do disposto no número anterior, o prazo ali fixado contar-se-á a partir da cessação do impedimento.\n\n3. Se a lesão se revelar ou for reconhecida em data posterior à data do acidente, o prazo contar-se-á a partir dessa data.\n\n4. Quando o sinistrado não participar o acidente tempestivamente e por tal motivo tiver sido impossível à entidade patronal ou a quem a represente na direcção do trabalho prestar-lhe a assistência necessária, as incapacidades judicialmente reconhecidas como consequência daquela falta não conferem direito às prestações estabelecidas na lei, mas só na medida em que dela tenham resultado."
+  },
+  "56d7d9e206700751": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Entidades patronais com a responsabilidade transferida)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Entidades patronais com a responsabilidade transferida)\n\nAs entidades patronais que tenham transferido a sua responsabilidade, devem participar à entidade seguradora a ocorrência do acidente, nos termos estabelecidos na apólice."
+  },
+  "66eba60d6fd76201": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Entidades patronais sem responsabilidade transferida)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Entidades patronais sem responsabilidade transferida)\n\n1. As entidades patronais, cuja responsabilidade não esteja garantida na forma legal, devem participar o acidente ao tribunal competente, por escrito, independentemente de qualquer apreciação das condições legais da reparação.\n\n2. O prazo para a participação é de oito dias, contados a partir da data do acidente ou do seu conhecimento.\n\n3. Nos casos de morte, o acidente deverá ser participado ao tribunal competente, imediata e telegràficamente, sem prejuízo do disposto nos números anteriores.\n\n4. Sempre que as entidades patronais estejam impossibilitadas de dar cumprimento às obrigações impostas nos números anteriores, cumpri-las-ão os encarregados ou responsáveis pela direcção do trabalho."
+  },
+  "1133ddfa3b2acb6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Trabalho a bordo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Trabalho a bordo)\n\n1. Sendo o sinistrado inscrito marítimo, a participação deve ser feita ao capitão do porto do território nacional onde o acidente ocorreu; se, porém, o acidente sucedeu a bordo de navio português, no alto mar ou no estrangeiro, a participação será feita ao capitão do porto nacional onde aquele primeiramente chegar.\n\n2. As participações previstas no número anterior serão efectuadas no prazo de dois dias, a contar da data do acidente ou da chegada do navio e remetidas imediatamente ao tribunal competente pelo capitão do porto."
+  },
+  "84c372d09bf0e109": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Entidades seguradoras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Entidades seguradoras)\n\n1. As entidades seguradoras participarão ao tribunal competente, por escrito, no prazo de oito dias a contar da alta, os acidentes de que tenha resultado incapacidade permanente e, imediata e telegràficamente, aqueles de que tenha resultado a morte.\n\n2. A participação telegráfica não dispensa participação por escrito, que deve ser feita no prazo de oito dias, contados do falecimento.\n\n3. As entidades seguradoras participarão ainda ao tribunal competente, por escrito, no prazo de oito dias, todos os casos de incapacidades temporárias que ultrapassem doze meses."
+  },
+  "764e6a09e84a1420": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Mapas de acidentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Mapas de acidentes)\n\n1. As entidades seguradoras remeterão ao tribunal competente, até ao dia 15 de cada mês, quatro exemplares de um mapa, do qual constem todos os acidentes da sua responsabilidade, participados no mês anterior, sendo-lhes restituído um exemplar com recibo do chefe da secretaria.\n\n2. Dois exemplares do mesmo mapa serão enviados pelo chefe da secretaria, um ao Instituto Nacional de Estatística, até 30 de Janeiro do ano seguinte àquele a que respeitar, e outro ao organismo central previsto no n.º 2 da base XLVI, quando este o solicitar."
+  },
+  "43df9cb740a78446": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Entidades equiparadas às seguradoras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Entidades equiparadas às seguradoras)\n\nO disposto nos artigos 18.º e 19.º é extensivo às entidades referidas nos artigos 68.º e 69.º, devendo cumprir as obrigações naqueles previstas a pessoa que tiver o encargo da direcção dos respectivos serviços."
+  },
+  "5d451b233e96ba9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Faculdade de participação a tribunal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Faculdade de participação a tribunal)\n\nA participação do acidente ao tribunal competente pode ser feita:\n\na) Pela vítima, directamente ou por interposta pessoa;\n\nb) Pelos familiares do sinistrado;\n\nc) Por qualquer entidade com direito a receber o valor de prestações;\n\nd) Pela autoridade que tenha tomado conhecimento do acidente, sendo a vítima um incapaz;\n\ne) Pelo director do estabelecimento hospitalar, assistencial ou prisional onde o sinistrado esteja internado, tendo o acidente ocorrido ao serviço de outra entidade."
+  },
+  "0b1a25801f706d20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Comunicação obrigatória em caso de morte)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Comunicação obrigatória em caso de morte)\n\n1. Os directores de estabelecimentos hospitalares, assistenciais ou prisionais devem comunicar ao tribunal competente, sem demora e por telegrama, o falecimento, em consequência de acidente, de algum trabalhador ali internado.\n\n2. Igual obrigação tem qualquer outra pessoa ou entidade a cujo cuidado o sinistrado estiver."
+  },
+  "0549e00e1cc9adac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Disposição comum)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Disposição comum)\n\nAs participações dos acidentes aos tribunais serão feitas em duplicado e acompanhadas dos boletins dos exames médicos a que o sinistrado foi submetido."
+  },
+  "145ea113ff397894": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Doenças profissionais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Doenças profissionais)\n\n1. As participações das doenças profissionais ao tribunal competente devem ser feitas no prazo de oito dias a contar do diagnóstico inequívoco da doença.\n\n2. No mesmo prazo será efectuada a participação à Inspecção do Trabalho prevista na base XXX."
+  },
+  "33ca5c354cdf7204": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Reparação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Reparação"
+  },
+  "8b8f850c290a85d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Prestações em espécie",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Prestações em espécie"
+  },
+  "f346b0fe9b8576ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Conteúdo das prestações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Conteúdo das prestações)\n\nAs prestações em espécie previstas na alínea a) da base IX têm por conteúdo:\n\na) Assistência médica e cirúrgica, geral ou especializada, incluindo todos os necessários elementos de diagnóstico e de tratamento;\n\nb) Assistência farmacêutica;\n\nc) Enfermagem;\n\nd) Hospitalização e tratamentos termais;\n\ne) Hospedagem;\n\nf) Transportes para observação, tratamento ou comparência a actos judiciais;\n\ng) Fornecimento de aparelhos de prótese e ortopedia, sua renovação e reparação;\n\nh) Reabilitação funcional."
+  },
+  "5243433f0281940d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Primeiros socorros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Primeiros socorros)\n\n1. As entidades patronais ou quem as represente na direcção ou fiscalização do trabalho deverão, logo que tenham conhecimento do acidente, assegurar os imediatos e indispensáveis socorros médicos e farmacêuticos à vitima, bem como o transporte mais adequado para tais efeitos.\n\n2. O transporte e socorros referidos no número anterior serão prestados independentemente de qualquer apreciação das condições legais da reparação."
+  },
+  "b3da414cec839268": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — (Lugar de prestação da assistência clínica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Lugar de prestação da assistência clínica)\n\n1. A assistência clínica deve ser prestada na localidade onde o sinistrado residir ou na sua própria casa, se tal for indispensável.\n\n2. Essa assistência poderá, no entanto, ser prestada em qualquer outro local por determinação do médico assistente ou mediante acordo entre o sinistrado e a entidade responsável."
+  },
+  "070216850cfd5987": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — (Tempo de apresentação a tratamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Tempo de apresentação a tratamento)\n\n1. Quando a lesão não produzir incapacidade, deverá o sinistrado apresentar-se para receber tratamento fora das horas normais do seu trabalho, salvo determinação em contrário do médico assistente.\n\n2. O tratamento efectuado dentro do período normal do trabalho, por determinação do médico assistente, não implica perda de retribuição."
+  },
+  "e5a1f6f94d83e161": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Médico assistente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Médico assistente)\n\n1. A entidade responsável tem o direito de designar o médico assistente do sinistrado.\n\n2. O sinistrado poderá, no entanto, recorrer a qualquer médico nos seguintes casos:\n\na) Se a entidade patronal ou quem a represente se não encontrar no local do acidente e houver urgência nos socorros;\n\nb) Se a entidade responsável lhe não nomear médico assistente ou enquanto o não fizer;\n\nc) Se a entidade responsável renunciar ao direito de escolher o médico assistente;\n\nd) Se lhe for dada alta sem estar curado, devendo, neste caso, requerer exame pelo perito do tribunal.\n\n3. Enquanto não houver médico assistente designado, será como tal considerado, para todos os efeitos legais, o médico que tratar o sinistrado."
+  },
+  "efdbc7c05466e73e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Dever de assistência clínica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Dever de assistência clínica)\n\nNenhum médico pode negar-se a prestar assistência clínica a sinistrados do trabalho, quando solicitada pelas entidades responsáveis ou pelos próprios sinistrados, nos casos em que lhes é permitida a escolha do médico assistente."
+  },
+  "70b9d0cfac089281": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — (Substituição legal do médico assistente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Substituição legal do médico assistente)\n\nDurante o internamento em hospital, o médico assistente será substituído nas suas funções pelos médicos do mesmo hospital, embora com o direito de acompanhar o tratamento do sinistrado, conforme os respectivos regulamentos internos ou, na falta ou insuficiência destes, segundo as determinações do director clínico."
+  },
+  "0a1ad4e6c168e9e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — (Escolha do médico operador)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Escolha do médico operador)\n\nO sinistrado poderá escolher o médico que o deva operar nos casos de alta cirurgia e naqueles em que, como consequência da operação, possa correr perigo a sua vida."
+  },
+  "9453e2ca531ef5e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — (Contestação das resoluções do médico assistente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Contestação das resoluções do médico assistente)\n\nO sinistrado ou a entidade responsável têm o direito de não se conformar com as resoluções do médico assistente ou de quem legalmente o substituir."
+  },
+  "15aaf3adc627a5eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — (Solução de divergências)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Solução de divergências)\n\n1. Quaisquer divergências sobre as matérias reguladas nos artigos 31.º, 32.º e 33.º podem ser resolvidas por simples conferência de médicos, da iniciativa do sinistrado, da entidade responsável ou do médico assistente, bem como do substituto legal deste.\n\n2. Se as divergências não forem resolvidas nos termos do número anterior, sê-lo-ão:\n\na) Havendo internamento hospitalar, pelo respectivo director clínico ou pelo médico que o deva substituir, se ele for o médico assistente;\n\nb) Não havendo internamento hospitalar, pelo perito médico do tribunal do trabalho da área onde o sinistrado se encontrar, por determinação do agente do Ministério Público, a solicitação de qualquer dos interessados.\n\n3. As resoluções dos médicos referidos nas alíneas do número anterior devem ficar a constar de documento escrito e delas podem os interessados reclamar, mediante requerimento fundamentado, para o juiz do mencionado tribunal do trabalho, que decidirá definitivamente."
+  },
+  "da73a308b75482f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — (Boletins de exame e alta)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Boletins de exame e alta)\n\n1. No começo do tratamento do sinistrado o médico assistente passará um boletim de exame, em que descreverá as doenças ou lesões que lhe encontrar e a sintomatologia apresentada e fará a descrição pormenorizada das lesões referidas pelo mesmo como resultantes do acidente.\n\n2. Quando terminar o tratamento do sinistrado, quer por este se encontrar curado ou em condições de trabalhar, quer por qualquer outro motivo, o médico assistente passará um boletim de alta, em que declare a causa da cessação do tratamento e o grau de incapacidade permanente ou temporária, bem como as razões justificativas das suas conclusões.\n\n3. Os boletins a que se referem os números anteriores serão passados em triplicado o de exame e em duplicado o da alta, devendo, no prazo de trinta dias após a realização dos actos a que disserem respeito, ser remetido ao tribunal um exemplar e entregue outro ao sinistrado, bem como o terceiro exemplar do boletim de exame à entidade responsável.\n\n4. Tratando-se, porém, de sinistrados a cargo de entidades seguradoras ou de alguma das entidades mencionadas nos artigos 68.º e 69.º, a remessa do boletim a juízo apenas será efectuada quando haja de se proceder a exame médico, quando o tribunal o requisite ou tenha de acompanhar a participação do acidente."
+  },
+  "ed3d47581e78e9de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — (Requisição pelo tribunal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Requisição pelo tribunal)\n\nAs entidades responsáveis, os estabelecimentos hospitalares, os serviços competentes da previdência social e os médicos são obrigados a fornecer aos tribunais do trabalho todos os esclarecimentos e documentos que lhes sejam requisitados relativos a observações e tratamentos feitos a sinistrados ou por qualquer outro modo relacionados com o acidente."
+  },
+  "c6b64528ccf1d5c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — (Hospitalização e tratamentos termais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Hospitalização e tratamentos termais)\n\nA hospitalização e os tratamentos termais devem ser feitos no estabelecimento adequado mais próximo da residência do sinistrado, salvo o internamento de urgência, pelo tempo indispensável, ou determinação em contrário do médico assistente."
+  },
+  "e1689f8e312f8c38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — (Termo de responsabilidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Termo de responsabilidade)\n\n1. As entidades responsáveis deverão assinar termo de responsabilidade para garantia do pagamento das despesas com tratamento em hospital ou com a hospitalização dos sinistrados.\n\n2. Se aquelas entidades se recusarem a assinar o termo de responsabilidade, não poderão, com esse fundamento, ser negados o tratamento ou o internamento dos sinistrados, sempre que a gravidade do seu estado os imponha imediatamente.\n\n3. Nos casos previstos no número anterior os estabelecimentos hospitalares deverão juntar ao respectivo processo a nota das despesas efectuadas para efeito de pagamento.\n\n4. O estabelecimento hospitalar que, injustificadamente, deixar de cumprir as obrigações do tratamento ou do internamento urgentes referidos no n.º 2, será responsável pelo agravamento das lesões do sinistrado, reconhecido judicialmente como consequência de tais factos."
+  },
+  "1d6bc2a1643eb360": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — (Hospedagem)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — (Hospedagem)\n\n1. O sinistrado tem direito a hospedagem quando tenha de se deslocar, da sua residência ou do local onde se encontre, para observação, tratamento ou comparência a actos judiciais, salvo se estes últimos forem consequência de pedidos seus julgados totalmente improcedentes.\n\n2. Para os efeitos do número anterior, deverão as entidades responsáveis assumir prèviamente, perante o hospedeiro, a responsabilidade pelo pagamento das despesas ou adiantar a sua importância, excepto se a comparência a actos judiciais for consequência de pedido do sinistrado."
+  },
+  "b0c157d4c0143931": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — (Transportes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — (Transportes)\n\nOs transportes, que os sinistrados por direito devem utilizar, são os colectivos, salvo não os havendo ou se outros forem mais indicados pela urgência do tratamento ou por determinação do médico assistente."
+  },
+  "f7a11da055453a4c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — (Categorias e classes das prestações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — (Categorias e classes das prestações)\n\n1. As categorias e classes da hospedagem do hospital de internamento, dos transportes colectivos e dos tratamentos termais deverão ajustar-se às prescrições dos médicos assistentes ou dos clínicos que em tribunal houverem de dar parecer.\n\n2. Sem prejuízo do disposto no número anterior, as entidades responsáveis só serão obrigadas a despender o menor custo das prestações ali indicadas."
+  },
+  "7af6edff7987adf1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — (Aparelhos de prótese e ortopedia)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — (Aparelhos de prótese e ortopedia)\n\n1. Os aparelhos de prótese e ortopedia deverão ser, em cada caso, os que se considerem adequados ao fim a que se destinam.\n\n2. O direito aos aparelhos de prótese e ortopedia abrange os destinados à correcção ou compensação visual e auditiva, bem como a prótese dentária.\n\n3. Quando houver divergências sobre a natureza, qualidade ou adequação de aparelhos de prótese e ortopedia ou sobre a obrigatoriedade ou necessidade da sua renovação ou reparação, deverá solicitar-se o parecer de serviços competentes em matéria de reabilitação profissional."
+  },
+  "538fa578e41150e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — (Opção do sinistrado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — (Opção do sinistrado)\n\n1. Os sinistrados podem optar pela importância correspondente ao valor dos aparelhos de prótese e ortopedia indicados pelo médico assistente ou pelo tribunal, quando pretendam adquirir aparelhos de custo superior.\n\n2. No caso previsto no número antecedente, a entidade responsável depositará a referida importância à ordem do juiz, no prazo que este fixar, para ser paga à entidade fornecedora depois de verificada pelo tribunal a aplicação do aparelho."
+  },
+  "b83c3171aa6a6d69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — (Renovação de aparelhagem)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — (Renovação de aparelhagem)\n\n1. Sempre que um acidente de trabalho inutilize ou danifique o aparelho de prótese ou ortopedia de que o sinistrado já era portador, ficarão a cargo da entidade responsável por aquele acidente as despesas necessárias à renovação ou reparação do mencionado aparelho.\n\n2. Tratando-se de renovação, o respectivo encargo não será superior ao custo de novo aparelho igual ao inutilizado."
+  },
+  "09157ea1034b52a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — (Notificação judicial e execução)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — (Notificação judicial e execução)\n\n1. Se a entidade responsável, injustificadamente, recusar ou protelar o fornecimento, renovação ou reparação dos aparelhos de prótese e ortopedia, ou não efectuar o depósito referido no n.º 2 do artigo 43.º, o juiz mandará notificar aquela entidade para, no prazo de dez dias, depositar à sua ordem a importância que for devida.\n\n2. Caso o responsável não cumpra o disposto no número anterior, será executado para o pagamento do valor de depósito, seguindo-se os termos da execução baseada em sentença de condenação em quantia certa.\n\n3. Pelo produto da execução pagará o tribunal as despesas da prótese ou ortopedia, à entidade que forneceu ou reparou os respectivos aparelhos, mas só depois de verificada a sua correcta aplicação."
+  },
+  "adced6b0025dcc32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — (Perda do direito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — (Perda do direito)\n\nOs sinistrados perdem o direito à renovação ou reparação dos aparelhos de prótese e ortopedia que se deteriorem ou inutilizem devido a falta grave e indesculpável da sua parte."
+  },
+  "036d96b77e7489cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Prestações em dinheiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Prestações em dinheiro"
+  },
+  "43fbaa9c0b967a0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — (Avaliação da incapacidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — (Avaliação da incapacidade)\n\n1. O grau de incapacidade resultante do acidente será expresso em coeficientes determinados em função da natureza e da gravidade da lesão, do estado geral da vítima, da sua idade e profissão, da maior ou menor readaptação obtida para a mesma ou outra profissão, bem como das demais circunstâncias que possam influir na sua capacidade geral de ganho.\n\n2. O coeficiente de incapacidade será fixado em conformidade com a Tabela Nacional de Incapacidades em vigor à data do acidente.\n\n3. Sempre que haja lugar à aplicação do disposto na alínea b) do n.º 1 da base XVI e no n.º 1 da base XVIII, o juiz, antes de decidir em definitivo, pode requisitar o parecer de peritos especializados, designadamente dos do Fundo de Desenvolvimento da Mão-de-Obra."
+  },
+  "3dd9185587db4e8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — (Conversão da incapacidade temporária em permanente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — (Conversão da incapacidade temporária em permanente)\n\n1. A incapacidade temporária, por período superior a dezoito meses, considerar-se-á como permanente, devendo o perito médico do tribunal fixar o respectivo grau.\n\n2. Verificando-se que ao sinistrado está a ser prestado o tratamento clínico necessário, pode o juiz prorrogar até ao máximo de trinta meses, a requerimento da entidade responsável, o prazo fixado no número anterior."
+  },
+  "d5ba1d2138a9f3a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — (Retribuição-base)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — (Retribuição-base)\n\n1. As retribuições-base diárias concernentes às retribuições por semana, por mês e por ano, serão, respectivamente de 1/6, 1/30 e 1/360 destas.\n\n2. Quando a retribuição do sinistrado for estipulada por hora, o cálculo da retribuição-base far-se-á em relação ao período efectivo de horas de trabalho a prestar no dia do acidente se este não tivesse ocorrido, sem prejuízo do disposto no n.º 3 da base XXIII."
+  },
+  "4059904bc291fa6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — (Limites da retribuição-base)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — (Limites da retribuição-base)\n\n1. Na retribuição-base diária sòmente se atenderá a 50 por cento da parte excedente a 100$00.\n\n2. É de 300$00 o máximo da retribuição-base diária.\n\n3. O disposto nos números anteriores não invalida a transferência facultativa da responsabilidade assumida pelas entidades patronais quanto a retribuições-base mais elevadas."
+  },
+  "be8e890014204c6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — (Modo de fixação das pensões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — (Modo de fixação das pensões)\n\nSerão fixadas em montante anual as pensões respeitantes a incapacidade permanente ou morte, considerando-se para tal efeito, 360 ou 313 retribuições-base diárias, consoante o dia do descanso semanal estiver ou não compreendido na retribuição do sinistrado."
+  },
+  "7db0789cc9f93438": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — (Modo de fixação das indemnizações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — (Modo de fixação das indemnizações)\n\nAs indemnizações por incapacidades temporárias serão pagas em relação a todos os dias ou sòmente a seis dias por semana, consoante a retribuição compreenda ou não o dia do descanso semanal."
+  },
+  "bd3e27ae02d8ef5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — (Suspensão ou redução das pensões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — (Suspensão ou redução das pensões)\n\nAs pensões por incapacidade permanente não podem ser suspensas ou reduzidas, mesmo que o sinistrado venha a auferir retribuição superior à que tinha antes do acidente, salvo em consequência da revisão prevista na base XXII."
+  },
+  "48b3f4d0b1df66ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — (Culpa da entidade patronal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — (Culpa da entidade patronal)\n\nPara efeito do disposto no n.º 2 da base XVII, considera-se ter resultado de culpa da entidade patronal ou de seu representante o acidente devido à inobservância de preceitos legais e regulamentares, assim como de directivas das entidades competentes, que se refiram à higiene e segurança do trabalho."
+  },
+  "96164702e32707ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — (Incapacidade dos beneficiários de pensões por morte)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — (Incapacidade dos beneficiários de pensões por morte)\n\n1. Consideram-se sensìvelmente afectadas na sua capacidade de trabalho, para os fins previstos na base XIX, os familiares da vítima que sofram de doença física ou mental que lhes reduza definitivamente a sua capacidade geral de ganho em mais de 0,75.\n\n2. Tem-se por definitiva a incapacidade de ganho mencionada no número anterior quando seja de presumir que a doença não terá evolução favorável nos três anos subsequentes à data do seu reconhecimento.\n\n3. Surgindo dúvidas sobre a incapacidade referida nos números antecedentes, será esta fixada pelo tribunal."
+  },
+  "7012eafa0417c4a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — (Vencimento das pensões por morte)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — (Vencimento das pensões por morte)\n\nAs pensões por morte começam a vencer-se no dia seguinte ao do falecimento do sinistrado, inclusive as referentes aos nascituros."
+  },
+  "f4b6dd203bcdc03c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — (Pagamento das prestações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — (Pagamento das prestações)\n\n1. As pensões por incapacidade permanente ou morte são pagas em duodécimos.\n\n2. As indemnizações por incapacidades temporárias serão pagas quinzenalmente.\n\n3. Os interessados podem estipular que o pagamento seja efectuado de forma diferente da indicada nos números anteriores.\n\n4. O montante das prestações a pagar será arredondado por excesso em escudos."
+  },
+  "2274c6722c99298e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — (Lugar do pagamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — (Lugar do pagamento)\n\nSe o credor das prestações se ausentar para o estrangeiro e a entidade responsável não for uma seguradora, o pagamento será efectuado na residência do devedor, salvo acordo em contrário."
+  },
+  "e9a1207a62c5b01c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — (Dedução do acréscimo de despesas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — (Dedução do acréscimo de despesas)\n\nQuando a pedido do sinistrado ou dos seus familiares tiver sido acordado, para o pagamento das prestações, lugar diferente do da residência daqueles, a entidade responsável poderá deduzir no montante das mesmas prestações o acréscimo das despesas daí resultantes."
+  },
+  "c39fc8f92613a753": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — (Requisito formal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — (Requisito formal)\n\nO acordo sobre a escolha do lugar do pagamento só é válido sendo formulado por escrito."
+  },
+  "44287c6af014795a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Ocupação e admissão de trabalhadores sinistrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Ocupação e admissão de trabalhadores sinistrados"
+  },
+  "5ac972910bb629c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — (Ocupação obrigatória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — (Ocupação obrigatória)\n\n1. As entidades patronais que empreguem pelo menos dez trabalhadores ou paguem de contribuição ao Estado mais de 30000$00 anuais são obrigadas a ocupar, em funções compatíveis com o respectivo estado, as vítimas de acidentes ao seu serviço, quando afectadas de incapacidade temporária do coeficiente não superior a 50 por cento.\n\n2. Cessa a obrigação prevista no número anterior quando o sinistrado não se apresentar à entidade patronal dentro de dez dias após a fixação da incapacidade.\n\n3. A entidade patronal que não cumprir o disposto no n.º 1 pagará ao sinistrado a retribuição que lhe competiria nos termos da parte final do n.º 2 da base XXXVI, salvo se o contrato tiver sido rescindido."
+  },
+  "1a0a6092b85f6429": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — (Prioridade na admissão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — (Prioridade na admissão)\n\n1. As empresas com mais de vinte trabalhadores ou que paguem de contribuições ou impostos ao Estado mais de 60000$00 anuais, ficam obrigadas, sempre que admitam pessoal, a dar prioridade, em actividades compatíveis com a lesão de que estejam afectados, aos sinistrados com incapacidade permanente resultante de acidente ao seu serviço.\n\n2. O sistema de prioridades previsto na base XLIX carece de aprovação do I. N. T. P., ao qual deve ser solicitada, por carta registada com aviso de recepção, dentro dos trinta dias seguintes ao da entrada em vigor deste decreto, considerando-se concedida, se tal entidade nada disser nos trinta dias imediatos àqueles, sem prejuízo do que, posteriormente, ela pode determinar.\n\n3. Não sendo cumprido o disposto no n.º 1, por motivos não imputáveis aos sinistrados, estes receberão das empresas, por uma só vez, indemnizações iguais ao dobro das que lhes competiriam por despedimento sem justa causa."
+  },
+  "8cacd7f49109b4d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — (Parecer técnico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — (Parecer técnico)\n\nQuando houver necessidade de esclarecer quaisquer dúvidas sobre as incapacidades referidas nos artigos 61.º e 62.º ou sobre o emprego dos incapacitados em funções compatíveis com o seu estado ou respectiva lesão ou doença, poderá ser solicitado o parecer do Fundo de Desenvolvimento da Mão-de-Obra."
+  },
+  "4345be731da35e68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Remição de pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Remição de pensões"
+  },
+  "411a1354db3d9fe9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — (Condições de remição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — (Condições de remição)\n\n1. Serão obrigatòriamente remidas as pensões correspondentes a desvalorizações não superiores a 5 por cento, bem como as devidas aos sinistrados ou aos ascendentes, de montantes não superiores a 1200$00 anuais.\n\n2. As pensões correspondentes a desvalorizações superiores a 5 por cento e até 10 por cento, bem como as devidas aos sinistrados ou aos ascendentes, de montantes superiores a 1200$00 até 2400$00 anuais, poderão ser remidas, com autorização do tribunal competente, a requerimento dos pensionistas ou das entidades responsáveis, averiguada a aplicação útil e judiciosa do capital da remição.\n\n3. É permitida a remição das pensões correspondentes a desvalorizações superiores a 10 por cento e até 20 por cento, bem como das devidas aos sinistrados ou aos ascendentes, de montantes superiores a 2400$00 até 4800$00 anuais, havendo acordo entre as entidades responsáveis e os pensionistas, observando o condicionalismo do n.º 2 e desde que pelo menos 80 por cento do capital se destine:\n\na) A certificados de renda vitalícia, emitidos pela Junta do Crédito Público, que serão assentados em nome do pensionista;\n\nb) À construção ou aquisição de bens imóveis pelo pensionista ou ainda a ampliação ou beneficiação de bens dessa natureza que ele já possua;\n\nc) À compra de máquinas ou utensílios para exploração agrícola, piscatória ou de pequena indústria doméstica exercida pelo pensionista.\n\n4. Não são remíveis as pensões devidas a incapazes e aos afectados de doenças profissionais, bem como as fixadas ao abrigo do disposto no artigo 48.º, enquanto não for dada alta em definitivo.\n\n5. As remições facultativas podem ser autorizadas em relação sòmente à parte da pensão, se assim for requerido, com justificação, pelos interessados ou entre eles acordado, de harmonia com o disposto nos n.os 2 e 3.\n\n6. A parte do capital que sobejar, depois de satisfeitas as despesas derivadas do cumprimento do disposto no n.º 3, será entregue ao pensionista, na forma legal.\n\n7. Pode ser autorizado o pagamento em prestações da parte do capital a receber pelo pensionista, havendo acordo das partes e garantia do respectivo pagamento integral, pela forma que o juiz determinar.\n\n8. Salvo o disposto no n.º 3 sobre a aplicação de 80 por cento do capital, as remições serão efectuadas mediante certificados de aforro."
+  },
+  "5dbe6d014ce53241": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — (Capital)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — (Capital)\n\n1. O capital da remição será igual a 95 por cento do valor actual da pensão vitalícia remida, destinando-se 90 por cento ao pensionista e 5 por cento ao Fundo de Garantia e Actualização de Pensões.\n\n2. Para efeito do disposto no número anterior, o valor actual da pensão vitalícia remida será calculado de harmonia com as bases oficialmente adoptadas para a determinação das reservas matemáticas das sociedades de seguros."
+  },
+  "c9309824471156d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — (Impenhorabilidade e inalienabilidade dos imóveis)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — (Impenhorabilidade e inalienabilidade dos imóveis)\n\nDurante a vida do pensionista, os imóveis construídos ou adquiridos com o capital da remição, nas condições previstas na alínea b) do n.º 3 do artigo 64.º são impenhoráveis e inalienáveis."
+  },
+  "096e939c1e9410b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — (Direitos não afectados pela remição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — (Direitos não afectados pela remição)\n\n1. A remição não prejudica o direito do sinistrado às prestações em espécie, nem o direito a requerer a revisão da sua pensão.\n\n2. A remição também não afecta os direitos atribuídos aos familiares do sinistrado, quando este vier a falecer em consequência do acidente."
+  },
+  "6844c529fe663144": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Cobertura dos riscos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Cobertura dos riscos"
+  },
+  "d2fe56ac17393355": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Capacidade económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Capacidade económica"
+  },
+  "7f5f291e07e58a31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — (Entidades de reconhecida capacidade económica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — (Entidades de reconhecida capacidade económica)\n\nAs obrigações impostas na base XLIII não abrangem:\n\na) O Estado e os seus serviços personalizados;\n\nb) As juntas distritais, câmaras municipais e serviços municipalizados;\n\nc) As pessoas colectivas de utilidade pública administrativa, geral ou local."
+  },
+  "a2da759b20920b82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — (Reconhecimento da capacidade económica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — (Reconhecimento da capacidade económica)\n\n1. O reconhecimento da capacidade económica a que se refere o n.º 1 da base XLIII compete à Inspecção-Geral de Crédito e Seguros, em face de requerimento apresentado e de prova produzida pela entidade patronal interessada.\n\n2. Além de outros documentos pertinentes, o requerimento para reconhecimento da capacidade económica deverá ser acompanhado de declaração da Direcção-Geral de Saúde, comprovativa de que a entidade patronal satisfaz às disposições legais respeitantes à instalação, apetrechamento e funcionamento de serviços médicos e só será atendido satisfazendo a pretensão às condições exigíveis.\n\n3. O reconhecimento da capacidade económica será revisto pela mencionada Inspecção-Geral, sempre que ocorram factos justificativos."
+  },
+  "16c812e9c06ac82c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Caucionamento de pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Caucionamento de pensões"
+  },
+  "fa90ce63201894d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — (Obrigação do caucionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — (Obrigação do caucionamento)\n\n1. As entidades patronais são obrigadas a caucionar o pagamento das pensões de acidentes de trabalho e doenças profissionais, em que tenham sido condenadas, ou a que se tenham obrigado por acordo homologado, quando não haja ou seja insuficiente o seguro.\n\n2. A caução pode ser feita por depósito de numerário, títulos da dívida pública, ou por afectação ou hipoteca de imóveis.\n\n3. Os caucionamentos são feitos à ordem do juiz do tribunal do trabalho respectivo, ou a seu favor, nos prazos que ele designar, intervindo nos actos e contratos necessários o agente do Ministério Público do mesmo tribunal.\n\n4. Os títulos da dívida pública são avaliados, para efeitos de caucionamento, pela última cotação na bolsa, e os imóveis e empréstimos hipotecários pelo valor matricial corrigido dos respectivos prédios, competindo ao agente do Ministério Público apreciar e dar parecer sobre a idoneidade dos caucionamentos.\n\n5. Sempre que se verifique que os caucionamentos são insuficientes, deverão eles ser reforçados, observando-se anàlogamente as disposições anteriores."
+  },
+  "7fcd3d35cf9739bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — (Intervenção da Inspecção-Geral de Crédito e Seguros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — (Intervenção da Inspecção-Geral de Crédito e Seguros)\n\n1. Compete à Inspecção-Geral de Crédito e Seguros, recebidos os documentos a que se refere o artigo 135.º do Código de Processo de Trabalho, elaborar os elementos necessários à fiscalização das reservas matemáticas das pensões de acidentes de trabalho e doenças profissionais junto das companhias de seguros e determinar o valor dos caucionamentos de tais pensões, quando não haja ou seja insuficiente o seguro das responsabilidades das entidades patronais.\n\n2. Será igualmente feita através da Inspecção-Geral de Crédito e Seguros a transferência de responsabilidade das pensões e acidentes do trabalho e doenças profissionais, quando deva ter lugar nos casos previstos no n.º 1 do artigo 70.º\n\n3. Os valores de caucionamento das pensões são calculados de harmonia com o que se encontrar estabelecido para as reservas matemáticas respectivas, com o acréscimo de 10 por cento."
+  },
+  "7466c9b1d70b892b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Disposições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Disposições especiais"
+  },
+  "83fd07a1ff4b3365": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º — (Formulários obrigatórios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — (Formulários obrigatórios)\n\n1. As participações, os boletins de exame e alta e os mapas referidas no artigo 19.º serão formulados segundo os modelos aprovados oficialmente, devendo ser assinados a tinta e podendo ser preenchidos a tinta ou dactilografados.\n\n2. O não cumprimento do exposto no número anterior equivale, para efeito de multa aplicável, à falta de tais documentos, podendo o tribunal ordenar a sua substituição."
+  },
+  "b6de1b257fa2ab19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º — (Isenções fiscais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — (Isenções fiscais)\n\n1. São isentos do imposto do selo, emolumentos, custas e taxas todos os documentos necessários ao cumprimento da lei e seus regulamentos, independentemente da respectiva natureza e da repartição por onde forem passados ou hajam de transitar para sua legalização.\n\n2. As isenções compreendidas no número anterior não abrangem a constituição de mandatário judicial."
+  },
+  "4035c18635f2c392": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º — (Representantes das responsáveis)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — (Representantes das responsáveis)\n\n1. As entidades seguradoras são obrigadas a ter nas localidades das sedes dos tribunais do trabalho um representante que possa receber, com validade, as citações, notificações, avisos e correspondência dos mesmos tribunais.\n\n2. Não se considerará cumprida a obrigação imposta no número anterior, quando o representante tiver parentesco de consanguinidade ou afinidade em qualquer grau em linha recta ou até ao segundo grau de linha colateral com alguns dos magistrados ou funcionários daqueles tribunais.\n\n3. Pode o Ministro das Corporações e Previdência Social, por despacho publicado no Boletim do I. N. T. P., tornar extensivo o disposto no n.º 1 às entidades a que se referem os artigos 68.º e 69.º"
+  },
+  "5530768973150662": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º — (Afixação obrigatória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — (Afixação obrigatória)\n\nTodas as empresas comerciais ou industriais que tenham normalmente ao seu serviço mais de cinco trabalhadores devem afixar, nos respectivos estabelecimentos e em lugar bem visível, as disposições da lei e dos seus regulamentos referentes às obrigações dos sinistrados e dos responsáveis."
+  },
+  "7a9cf37d8b0afdec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO X — Disposições penais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X — Disposições penais"
+  },
+  "ad3c2d75e96da467": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º — (Multas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — (Multas)\n\n1. Serão punidos com a multa de 400$00 a 10000$00 os responsáveis:\n\na) Que não cumprirem o disposto no artigo 26.º e nas bases VI, n.º 3, XLII e XLIII, n.º 1;\n\nb) Que fizerem tratar ou internar em hospital como indigente um sinistrado ou doente profissional para o eximirem ao pagamento das respectivas despesas;\n\nc) Que praticarem os actos referidos no artigo 8.º;\n\nd) Que cometerem omissões ou insuficiências nas declarações quanto ao pessoal e a salários para não cumprirem, com exactidão, o disposto no n.º 1 da base XLIII.\n\n2. Será punida com a multa de 300$00 a 6000$00 a inobservância do disposto nos artigos 16.º, 18.º, 19.º, 24.º, 27.º, 30.º, 37.º, 38.º, n.os 1 e 2, 39º, 40.º, 41.º, 42.º, 53.º, 61.º, 62.º e 74.º, bem como na base XIV.\n\n3. Serão punidas com as multas de 100$00 a 2000$00 as demais infracções da lei e deste regulamento."
+  },
+  "bc66442cb40df562": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º — (Agravamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — (Agravamento)\n\nCom ressalva do caso previsto na alínea b) do n.º 1 do artigo 76.º, serão elevados para o dobro os limites fixados no mesmo artigo sempre que o infractor use de falsificação, simulação ou outro meio fraudulento."
+  },
+  "d07b26b12b32d73e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º — (Determinação do montante das multas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — (Determinação do montante das multas)\n\nSempre que a infracção se relacione com mais de um trabalhador, a multa aplicável nunca será inferior ao resultado da multiplicação da multa mínima prevista pelo número daqueles."
+  },
+  "4cd0902741836f6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — (Graduação das multas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — (Graduação das multas)\n\nNa graduação das multas a aplicar, o julgador deverá atender à gravidade da infracção, à culpabilidade do infractor e à capacidade económica deste."
+  },
+  "5277bce38fd537d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º — (Cumulação de responsabilidades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — (Cumulação de responsabilidades)\n\nAs multas não afectam a responsabilidade civil, nem a responsabilidade criminal, que outras disposições legais tornem imputáveis aos transgressores."
+  },
+  "fa2590a80f568803": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º — (Reincidência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — (Reincidência)\n\n1. A reincidência será punida nos termos da legislação penal de carácter geral e conforme o preceituado nos números seguintes.\n\n2. Para efeito de reincidência considerar-se-á o pagamento voluntário das multas.\n\n3. Se o autuante tiver conhecimento de que o infractor é reincidente, deverá ter em atenção esta circunstância ao fixar o quantitativo da multa."
+  },
+  "fdc25dbbb460bc09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82. — (Reversão e inconvertibilidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82. — (Reversão e inconvertibilidade)\n\nAs multas revertem para o Fundo de Garantia e Actualização de Pensões e são inconvertíveis em prisão."
+  },
+  "108b095423711c56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XI — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XI — Disposições transitórias e finais"
+  },
+  "663b829e3e8da25d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º — (Começo de vigência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — (Começo de vigência)\n\n1. O presente decreto entra em vigor noventa dias depois de publicado no Diário do Governo.\n\n2. Dentro do prazo de sessenta dias após a publicação do presente diploma o Grémio dos Seguradores submeterá à aprovação do Governo, através do Ministério das Finanças, os projectos de apólices uniformes em conformidade com o disposto na base XLIV."
+  },
+  "14f0c34c566951a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º — (Disposições subsistentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — (Disposições subsistentes)\n\nA entrada em vigor deste decreto não torna inoperantes:\n\na) As disposições legais actualmente aplicáveis às matérias contidas nos preceitos citados no n.º 2 do artigo 1.º, sem que seja efectuada a sua prevista regulamentação autónoma;\n\nb) Os modelos anexos ao [Decreto n.º 27649](https://diariodarepublica.pt/dr/detalhe/decreto/27649-1937-419412), sem que outros, em sua substituição, sejam oficialmente aprovados."
+  },
+  "52f25d06c1180605": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 85.º — (Regime transitório de remição das pensões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — (Regime transitório de remição das pensões)\n\nA aplicação do disposto nos n.os 1 a 3 do artigo 64.º, pelo que respeita ao quantitativo das pensões, será levada a efeito gradualmente com preferência aos montantes superiores indicados no quadro seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1971/08/19700/11971208.pdf)"
+  },
+  "c4f60c4f0def6c69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º — (Quantias devidas ao fundo de garantia)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — (Quantias devidas ao fundo de garantia)\n\n1. Enquanto não forem regulamentados os preceitos relativos ao Fundo de Garantia e Actualização de Pensões, as quantias que lhe forem devidas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Caixa Nacional de Seguros de Doenças Profissionais, em conta especial com a denominação do mesmo Fundo.\n\n2. O depósito efectuar-se-á mediante guias em quadruplicado, passadas pelo tribunal competente, destinando-se um exemplar ao mesmo tribunal, outro à entidade depositante e os restantes a cada uma das referidas Caixas."
+  },
+  "f948f72ef33c533a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 87.º — (Infracção a disposições da lei não regulamentadas neste decreto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — (Infracção a disposições da lei não regulamentadas neste decreto)\n\nA transgressão das disposições da lei sobre as matérias referidas no n.º 2 do artigo 1.º é punível nos termos do n.º 3 do artigo 76.º, se não lhe corresponderem sanções penais fixadas noutro diploma."
+  },
+  "489574cb8dabd105": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 88.º — (Resolução de dúvidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — (Resolução de dúvidas)\n\nAs dúvidas suscitadas na execução do presente regulamento serão resolvidas por despacho do Ministro das Corporações e Previdência Social, ouvido o Conselho Superior da Acção Social.\n\nMarcello Caetano - Baltasar Leite Rebelo de Sousa - Joaquim Dias da Silva Pinto.\n\nPromulgado em 9 de Agosto de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "f357d7100ffc1f5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Limites da retribuição-base",
+   "in_force_from": "1993-09-06",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), publicado em 1979-11-23."
+   ],
+   "markdown": "###### Artigo 50.º — Limites da retribuição-base\n\n1 - Relativamente a todas as incapacidades temporárias e às permanentes inferiores a 50%, na retribuição base diária somente se atenderá a 70% da parte excedente a 1/30 do salário mínimo nacional.\n\n2 - Em relação às pensões devidas por incapacidades permanentes iguais ou superiores a 50%, ou por morte, na retribuição base diária apenas se atenderá a 80% da parte excedente a 1/30 do salário mínimo nacional.\n\n> Alterado pelo/a [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), publicado em 1979-11-23."
+  },
+  "1fda83f15dc6df96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — Condições de remição",
+   "in_force_from": "1993-09-06",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), publicado em 1979-11-23."
+   ],
+   "markdown": "###### Artigo 64.º — Condições de remição\n\n1 - Serão obrigatoriamente remidas as pensões devidas a sinistrados e ascendentes que, cumulativamente, correspondam a desvalorizações não superiores a 10% e não excedam o valor da pensão calculada com base numa desvalorização de 10% sobre o salário mínimo nacional.\n\n2 - Poderão ser, a requerimento dos pensionistas ou das entidades responsáveis e com autorização do tribunal competente, remidas as pensões devidas a sinistrados e ascendentes que, cumulativamente, correspondam a desvalorizações superiores a 10% e inferiores a 20% e não excedam o valor da pensão calculada com base numa desvalorização de 20% sobre o salário mínimo nacional e desde que haja uma comprovada aplicação útil do capital de remição.\n\n3 - Não são remíveis as pensões devidas a incapazes ou a afectados de doenças profissionais, bem como as fixadas ao abrigo do artigo 48.º, enquanto não for dada alta definitiva.\n\n4 - As remições previstas no n.º 2 podem incidir apenas sobre parte da pensão, se assim for justificadamente requerido pelos interessados ou entre eles acordado.\n\n5 - Pode ser autorizado o pagamento em prestações da parte do capital a receber pelo pensionista, havendo acordo das partes e garantia do respectivo pagamento integral, pela forma que o juiz determinar.\n\n> Alterado pelo/a [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), publicado em 1979-11-23."
+  },
+  "0637b808815de2c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — Capital",
+   "in_force_from": "1993-09-06",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 304/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1993-633541), publicado em 1993-09-01."
+   ],
+   "markdown": "###### Artigo 65.º — Capital\n\n1 - O capital de remição de uma pensão será igual a 95% do valor correspondente ao montante da respectiva provisão matemática, calculada de acordo com as tabelas em vigor para o cálculo das provisões matemáticas das empresas de seguros.\n\n2 - No cálculo da provisão matemática para os efeitos do disposto no número anterior não serão, no caso de a pensão ser da responsabilidade de empresas de seguros, consideradas as alterações verificadas em pensões fixadas anteriormente a 1 de Outubro de 1979, em consequência da aplicação do artigo 50.º do presente diploma, na redacção que lhe foi dada pelo [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), de 23 de Novembro, nem tão-pouco a atribuição de prestações suplementares pagáveis no mês de Dezembro de cada ano.\n\n> Alterado pelo/a [Decreto-Lei n.º 304/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1993-633541), publicado em 1993-09-01."
+  },
+  "583c7bbbd79eda32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — Obrigação do caucionamento",
+   "in_force_from": "1993-09-06",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 283/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1992-623854), publicado em 1992-12-19."
+   ],
+   "markdown": "###### Artigo 70.º — Obrigação do caucionamento\n\n1. As entidades patronais são obrigadas a caucionar o pagamento das pensões de acidentes de trabalho e doenças profissionais, em que tenham sido condenadas, ou a que se tenham obrigado por acordo homologado, quando não haja ou seja insuficiente o seguro.\n\n2 - A caução pode ser feita por depósito de numerário, títulos de dívida pública, afectação ou hipoteca de imóveis, garantia bancária ou seguro de caução.\n\n3. Os caucionamentos são feitos à ordem do juiz do tribunal do trabalho respectivo, ou a seu favor, nos prazos que ele designar, intervindo nos actos e contratos necessários o agente do Ministério Público do mesmo tribunal.\n\n4. Os títulos da dívida pública são avaliados, para efeitos de caucionamento, pela última cotação na bolsa, e os imóveis e empréstimos hipotecários pelo valor matricial corrigido dos respectivos prédios, competindo ao agente do Ministério Público apreciar e dar parecer sobre a idoneidade dos caucionamentos.\n\n5. Sempre que se verifique que os caucionamentos são insuficientes, deverão eles ser reforçados, observando-se anàlogamente as disposições anteriores.\n\n> Alterado pelo/a [Decreto-Lei n.º 283/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1992-623854), publicado em 1992-12-19."
+  },
+  "d25a46968b913712": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º — Representantes das responsáveis",
+   "in_force_from": "1993-09-06",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 19/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1991-694039), publicado em 1991-01-10."
+   ],
+   "markdown": "###### Artigo 74.º — Representantes das responsáveis\n\n1 - As entidades seguradoras são obrigadas a ter nas localidades das sedes dos tribunais do trabalho um representante que possa receber as citações, notificações, avisos e correspondência emanados dos mesmos tribunais.\n\n2 - Para efeitos do referido no número anterior, não podem exercer a representação os cônjuges e os parentes ou os afins, em qualquer grau da linha recta ou até ao 2.º grau da linha colateral, dos magistrados ou funcionários daqueles tribunais.\n\n> Alterado pelo/a [Decreto-Lei n.º 19/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1991-694039), publicado em 1991-01-10."
+  }
+ }
+}

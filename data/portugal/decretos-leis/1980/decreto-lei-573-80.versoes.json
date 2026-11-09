@@ -1,0 +1,164 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:457071:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1980-12-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f781baafb4dd7341"
+   ]
+  },
+  {
+   "date": "1993-07-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:391419:por",
+     "title": "Decreto-Lei n.º 256/93",
+     "published": "1993-07-16",
+     "dre_path": "/dr/detalhe/decreto-lei/256-1993-391419"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "20599550e661fe0c",
+    "7fafc212dcab2d4b",
+    "cf2d5cd0d4b6aa64",
+    "6c47b46b5b842ed5",
+    "c9999a5391ee0d6c",
+    "d11a734d24dcba18",
+    "3da14b747669d538",
+    "eef0523179fd4fa4",
+    "04615862535a0519",
+    "bd81c2e63aefc548",
+    "93011d48a667e8df",
+    "ebc7ea4a984f23c0",
+    "76c6bccba51d3349"
+   ]
+  }
+ ],
+ "fragments": {
+  "f781baafb4dd7341": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Dezembro\n\nConsiderando que o incremento da actividade diplomática portuguesa, resultante do aumento do número de países com quem temos relações diplomáticas e consulares e da crescente participação de Portugal em organismos de carácter multilateral, implicou para o Ministério dos Negócios Estrangeiros um acréscimo de trabalho administrativo que forçou já ao alargamento do quadro do pessoal administrativo e das telefonistas, constante do [Decreto Regulamentar n.º 42/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1977-253198), de 17 de Junho, e exige, de igual modo, um paralelo desenvolvimento do quadro do pessoal auxiliar, que se revela insuficiente para o indispensável apoio às estruturas burocráticas e técnicas do Ministério;\n\nTendo em conta que se torna necessário criar condições para a organização racional do quadro do pessoal auxiliar e operário com vista à modernização dos métodos, à mecanização e ao acréscimo da produtividade do trabalho, do mesmo passo correspondendo ao esforço de alguns funcionários do quadro do pessoal auxiliar que já têm valorizado as suas qualificações profissionais frequentando estágios em correspondência com as funções efectivamente exercidas:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º A alínea c) do artigo 23.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 483/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-1974-473370), de 25 de Setembro, passa a ter a seguinte redacção:\n\nc) Pelo pessoal operário e auxiliar, que compreende as seguintes categorias e carreiras:\n\nCategorias e carreiras do pessoal auxiliar:\n\nMordomo;\n\nFiel de armazém principal, de 1.ª classe ou de 2.ª classe;\n\nEncarregado do pessoal auxiliar;\n\nAuxiliar técnico principal, de 1.ª classe ou de 2.ª classe de biblioteca, arquivo e documentação;\n\nEncarregado de bagagem;\n\nAuxiliar técnico de sala principal, de 1.ª classe ou de 2.ª classe;\n\nEncarregado de parque de viaturas automóveis;\n\nOperador de reprografia de 1.ª classe, de 2.ª classe ou de 3.ª classe;\n\nTelefonista principal, de 1.ª classe ou de 2.ª classe;\n\nMotorista de ligeiros de 1.ª classe ou de 2.ª classe;\n\nPorteiro de 1.ª classe ou de 2.ª classe;\n\nContínuo de 1.ª classe ou de 2.ª classe;\n\nGuarda de 1.ª classe ou de 2.ª classe;\n\nAuxiliar de limpeza;\n\nCategorias e carreiras do pessoal operário qualificado:\n\nElectricista de 1.ª classe, de 2.ª classe ou de 3.ª classe;\n\nPintor principal, de 1.ª classe, de 2.ª classe ou de 3.ª classe;\n\nCanalizador principal, de 1.ª classe, de 2.ª classe ou de 3.ª classe;\n\nFogueiro principal, de 1.ª classe, de 2.ª classe ou de 3.ª classe;\n\nCategorias e carreiras do pessoal operário semiqualificado:\n\nCarpinteiro de toscos ou cofragens de 1.ª classe, de 2.ª classe ou de 3.ª classe;\n\nJardineiro de 1.ª classe, de 2.ª classe ou de 3.ª classe.\n\nArt. 2.º O quadro do pessoal operário e auxiliar aprovado pelo mapa anexo ao [Decreto-Lei n.º 308/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1974-402961), de 6 de Julho, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 483/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-1974-473370), de 25 de Setembro, e pela [Portaria n.º 1096/80](https://diariodarepublica.pt/dr/detalhe/portaria/1096-1980-457074), de 27 de Dezembro, nos termos do artigo 19.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), é substituído pelo quadro junto ao presente diploma.\n\nArt. 3.º Compete ao mordomo coordenar os serviços das recepções protocolares do Ministério e ainda os que, pela sua natureza ou em face das necessidades que se verifiquem, venham a ser-lhe confiados.\n\nArt. 4.º - 1 - O provimento do lugar de mordomo far-se-á, mediante concurso documental, de entre indivíduos que possuam, cumulativamente, as habilitações seguintes:\n\na) Curso geral do ensino secundário ou equiparado;\n\nb) Formação e experiência profissional adequadas à função a que se destinam.\n\n2 - O primeiro provimento deste lugar será feito pelo Ministro dos Negócios Estrangeiros de entre o pessoal auxiliar em serviço à data da entrada em vigor deste diploma, independentemente do preenchimento da condição prevista na alínea a), após ter sido ouvido o conselho do Ministério, nos termos do [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), de 20 de Fevereiro.\n\nArt. 5.º Compete ao encarregado da bagagem proceder à recepção e à expedição de malas diplomáticas e outros volumes, garantindo a sua distribuição pelos seus destinatários.\n\nArt. 6.º Compete ao auxiliar técnico de sala, para além de todos os serviços que, pelo regulamento existente, devem incumbir ao contínuo, velar pela boa organização, arranjo e assistência a dar às salas onde decorram a assinatura de acordos internacionais, conferências ou conselhos do Ministério.\n\nArt. 7.º O provimento dos lugares de fiel de armazém, de encarregado de bagagem e de auxiliar técnico de sala far-se-á, mediante concurso documental, de entre indivíduos que possuam, cumulativamente, as habilitações seguintes:\n\na) Escolaridade obrigatória segundo a idade que possuam;\n\nb) Formação e experiência profissional adequadas à função a que se destinam.\n\nArt. 8.º O provimento dos auxiliares técnicos de biblioteca, arquivo e documentação obedecerá ao estabelecido na alínea c) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 270/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1979-381373), de 10 de Agosto.\n\nArt. 9.º O provimento do lugar de encarregado de parque de viaturas automóveis far-se-á, mediante concurso documental, de entre motoristas de ligeiros de 1.ª classe com, pelo menos, cinco anos de exercício na categoria e informação de serviço não inferior a Bom.\n\nArt. 10.º O provimento dos lugares do quadro previsto no presente diploma far-se-á de entre o pessoal auxiliar em serviço à data da sua entrada em vigor, nos termos do n.º 1 do artigo 1.º do [Decreto-Lei n.º 180/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1980-474877), de 3 de Junho, após ter sido ouvido o conselho do Ministério, de acordo com o [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), de 20 de Fevereiro.\n\nArt. 11.º Os encargos emergentes da execução deste diploma serão custeados no corrente ano por conta das dotações do orçamento do Ministério consignadas ao pagamento de despesas com pessoal.\n\nArt. 12.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros dos Negócios Estrangeiros e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, consoante a natureza das mesmas.\n\nVisto e aprovado em Conselho de Ministros de 24 de Setembro de 1980. - Francisco Sá Carneiro.\n\nPromulgado em 9 de Novembro de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nQuadro do pessoal operário e auxiliar do Ministério dos Negócios Estrangeiros a que se refere o artigo 2.º do presente diploma.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/29800/42184219.pdf)"
+  },
+  "20599550e661fe0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Dezembro\n\nConsiderando que o incremento da actividade diplomática portuguesa, resultante do aumento do número de países com quem temos relações diplomáticas e consulares e da crescente participação de Portugal em organismos de carácter multilateral, implicou para o Ministério dos Negócios Estrangeiros um acréscimo de trabalho administrativo que forçou já ao alargamento do quadro do pessoal administrativo e das telefonistas, constante do [Decreto Regulamentar n.º 42/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1977-253198), de 17 de Junho, e exige, de igual modo, um paralelo desenvolvimento do quadro do pessoal auxiliar, que se revela insuficiente para o indispensável apoio às estruturas burocráticas e técnicas do Ministério;\n\nTendo em conta que se torna necessário criar condições para a organização racional do quadro do pessoal auxiliar e operário com vista à modernização dos métodos, à mecanização e ao acréscimo da produtividade do trabalho, do mesmo passo correspondendo ao esforço de alguns funcionários do quadro do pessoal auxiliar que já têm valorizado as suas qualificações profissionais frequentando estágios em correspondência com as funções efectivamente exercidas:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "7fafc212dcab2d4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA alínea c) do artigo 23.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 483/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-1974-473370), de 25 de Setembro, passa a ter a seguinte redacção:\n\nc) Pelo pessoal operário e auxiliar, que compreende as seguintes categorias e carreiras:\n\nCategorias e carreiras do pessoal auxiliar:\n\nMordomo;\n\nFiel de armazém principal, de 1.ª classe ou de 2.ª classe;\n\nEncarregado do pessoal auxiliar;\n\nAuxiliar técnico principal, de 1.ª classe ou de 2.ª classe de biblioteca, arquivo e documentação;\n\nEncarregado de bagagem;\n\nAuxiliar técnico de sala principal, de 1.ª classe ou de 2.ª classe;\n\nEncarregado de parque de viaturas automóveis;\n\nOperador de reprografia de 1.ª classe, de 2.ª classe ou de 3.ª classe;\n\nTelefonista principal, de 1.ª classe ou de 2.ª classe;\n\nMotorista de ligeiros de 1.ª classe ou de 2.ª classe;\n\nPorteiro de 1.ª classe ou de 2.ª classe;\n\nContínuo de 1.ª classe ou de 2.ª classe;\n\nGuarda de 1.ª classe ou de 2.ª classe;\n\nAuxiliar de limpeza;\n\nCategorias e carreiras do pessoal operário qualificado:\n\nElectricista de 1.ª classe, de 2.ª classe ou de 3.ª classe;\n\nPintor principal, de 1.ª classe, de 2.ª classe ou de 3.ª classe;\n\nCanalizador principal, de 1.ª classe, de 2.ª classe ou de 3.ª classe;\n\nFogueiro principal, de 1.ª classe, de 2.ª classe ou de 3.ª classe;\n\nCategorias e carreiras do pessoal operário semiqualificado:\n\nCarpinteiro de toscos ou cofragens de 1.ª classe, de 2.ª classe ou de 3.ª classe;\n\nJardineiro de 1.ª classe, de 2.ª classe ou de 3.ª classe."
+  },
+  "cf2d5cd0d4b6aa64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO quadro do pessoal operário e auxiliar aprovado pelo mapa anexo ao [Decreto-Lei n.º 308/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1974-402961), de 6 de Julho, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 483/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-1974-473370), de 25 de Setembro, e pela [Portaria n.º 1096/80](https://diariodarepublica.pt/dr/detalhe/portaria/1096-1980-457074), de 27 de Dezembro, nos termos do artigo 19.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), é substituído pelo quadro junto ao presente diploma."
+  },
+  "6c47b46b5b842ed5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nCompete ao mordomo coordenar os serviços das recepções protocolares do Ministério e ainda os que, pela sua natureza ou em face das necessidades que se verifiquem, venham a ser-lhe confiados."
+  },
+  "c9999a5391ee0d6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1993-07-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 256/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1993-391419), publicado em 1993-07-16."
+   ],
+   "markdown": "###### Artigo 4.º\n\nO recrutamento para o lugar de mordomo faz-se, mediante concurso, de entre:\n\na) Encarregados de pessoal auxiliar, auxiliares administrativos posicionados no escalão 5 ou superior e fiéis de armazém e auxiliares técnicos de sala também no escalão 5 ou superior, todos com classificação de Muito bom nos últimos três anos;\n\nb) Indivíduos habilitados com o curso geral do ensino secundário ou equiparado e formação e experiência profissional adequadas.\n\n> Alterado pelo/a [Decreto-Lei n.º 256/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1993-391419), publicado em 1993-07-16."
+  },
+  "d11a734d24dcba18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nCompete ao encarregado da bagagem proceder à recepção e à expedição de malas diplomáticas e outros volumes, garantindo a sua distribuição pelos seus destinatários."
+  },
+  "3da14b747669d538": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nCompete ao auxiliar técnico de sala, para além de todos os serviços que, pelo regulamento existente, devem incumbir ao contínuo, velar pela boa organização, arranjo e assistência a dar às salas onde decorram a assinatura de acordos internacionais, conferências ou conselhos do Ministério."
+  },
+  "eef0523179fd4fa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO provimento dos lugares de fiel de armazém, de encarregado de bagagem e de auxiliar técnico de sala far-se-á, mediante concurso documental, de entre indivíduos que possuam, cumulativamente, as habilitações seguintes:\n\na) Escolaridade obrigatória segundo a idade que possuam;\n\nb) Formação e experiência profissional adequadas à função a que se destinam."
+  },
+  "04615862535a0519": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO provimento dos auxiliares técnicos de biblioteca, arquivo e documentação obedecerá ao estabelecido na alínea c) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 270/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1979-381373), de 10 de Agosto."
+  },
+  "bd81c2e63aefc548": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO provimento do lugar de encarregado de parque de viaturas automóveis far-se-á, mediante concurso documental, de entre motoristas de ligeiros de 1.ª classe com, pelo menos, cinco anos de exercício na categoria e informação de serviço não inferior a Bom."
+  },
+  "93011d48a667e8df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO provimento dos lugares do quadro previsto no presente diploma far-se-á de entre o pessoal auxiliar em serviço à data da sua entrada em vigor, nos termos do n.º 1 do artigo 1.º do [Decreto-Lei n.º 180/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1980-474877), de 3 de Junho, após ter sido ouvido o conselho do Ministério, de acordo com o [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), de 20 de Fevereiro."
+  },
+  "ebc7ea4a984f23c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs encargos emergentes da execução deste diploma serão custeados no corrente ano por conta das dotações do orçamento do Ministério consignadas ao pagamento de despesas com pessoal."
+  },
+  "76c6bccba51d3349": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros dos Negócios Estrangeiros e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, consoante a natureza das mesmas.\n\nVisto e aprovado em Conselho de Ministros de 24 de Setembro de 1980. - Francisco Sá Carneiro.\n\nPromulgado em 9 de Novembro de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nQuadro do pessoal operário e auxiliar do Ministério dos Negócios Estrangeiros a que se refere o artigo 2.º do presente diploma.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1980/12/29800/42184219.pdf)"
+  }
+ }
+}

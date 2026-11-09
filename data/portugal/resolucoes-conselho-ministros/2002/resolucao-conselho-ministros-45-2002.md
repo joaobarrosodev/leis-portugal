@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-10-06'
+version_history:
+  file: resolucao-conselho-ministros-45-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-10-06'
+    amending: pt:dre:175802:por
+    amending_title: Resolução do Conselho de Ministros n.º 80/2012
+    changes:
+    - Altera Artigo ANEXO — REGULAMENTO DO PLANO DE ORDENAMENTO DAS ALBUFEIRAS DE CABRIL, BOUÇA E SANTA LUZIA::47.º
+    - Altera Artigo ANEXO — REGULAMENTO DO PLANO DE ORDENAMENTO DAS ALBUFEIRAS DE CABRIL, BOUÇA E SANTA LUZIA::55.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/45/2002/03/13/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:46:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 80/2012. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2002/resolucao-conselho-ministros-45-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -904,7 +920,7 @@ Espaços naturais
 
 2 - Constituem objectivos de ordenamento deste espaço a preservação e valorização das condições paisagísticas, com vista ao seu uso recreativo, mediante a implantação de infra-estruturas e equipamentos compatíveis com as aptidões e condicionantes biofísicas dos locais.
 
-3 - Neste espaço são permitidos os seguintes usos, desde que integrados em UOPG do POAC, como tal delimitada na planta de síntese, ou resultantes de plano de pormenor eficaz: parques de campismo, parques de merendas, instalações destinadas a campos de férias e estabelecimentos hoteleiros, nomeadamente pousadas.
+3 - Neste espaço são permitidos os seguintes usos, desde que integrados em UOPG do POAC, como tal delimitada na planta de síntese, ou resultantes de plano de pormenor eficaz: parques de campismo, parques de merendas, instalações destinadas a campos de férias e empreendimentos turísticos com exceção de apartamentos turísticos ou de edifícios autónomos de caráter unifamiliar.
 
 4 - É ainda admitida a localização de campos de golfe, desde que precedida de um estudo de impacte ambiental, no qual se comprove que a utilização em causa não determina a contaminação do plano de água por nutrientes e fitossanitários, quer por infiltração quer por escoamento superficial. Os greens, tees e fairways deverão estar afastados mais de 150 m do NPA, medidos na horizontal, sendo a área sobrante necessariamente ocupada por vegetação autóctone.
 
@@ -919,6 +935,8 @@ Espaços naturais
 9 - O material vegetal a utilizar para enquadramento e valorização paisagística deste espaço deve ser sempre escolhido dentro das espécies pertencentes à paisagem vegetal climácica ou tradicional da zona de intervenção.
 
 10 - O saneamento básico deste espaço obedece ao disposto no artigo 11.º
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 80/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2012-175802), publicado em 2012-10-01.
 
 ###### Artigo 48.º — Linhas de água e respectivas margens
 
@@ -1020,7 +1038,7 @@ i) Integração paisagística entre os diversos usos.
 
 a) Uma unidade hoteleira de pequena dimensão com a capacidade máxima de 20 quartos e com uma altura máxima de três pisos;
 
-b) Um parque de campismo de 2 ou 3 estrelas com uma lotação máxima de 100 campistas ou de tipo rural com uma lotação máxima de 90 campistas;
+b) Um empreendimento turístico, com a capacidade máxima de 100 camas e a categoria mínima de três estrelas, não sendo admissível a instalação de apartamentos turísticos ou de edifícios autónomos de caráter unifamiliar;
 
 c) Uma praia fluvial do tipo rural com uma capacidade máxima de 120 pessoas;
 
@@ -1033,6 +1051,8 @@ f) Um percurso de interesse paisagístico, permitindo percorrer a margem de albu
 g) Uma estrutura de atracagem para um máximo de 20 embarcações, situada num ponto de fácil acesso e afastada da zona balnear;
 
 h) Integração paisagística entre os diversos usos.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 80/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2012-175802), publicado em 2012-10-01.
 
 ###### Artigo 56.º — UOPG III - Cambas
 

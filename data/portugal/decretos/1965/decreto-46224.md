@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1965-08-16'
+version_history:
+  file: decreto-46224.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1965-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1965-08-16'
+    amending: pt:dre:292317:por
+    amending_title: Decreto n.º 46491
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:44:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 46491. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1965/decreto-46224.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -100,7 +115,13 @@ Atendendo às condições especiais resultantes da necessidade de manter em comi
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo único. Poderá o Ministro da Educação Nacional prorrogar, por despacho, até dois anos, o prazo fixado no § 1.º do artigo 26.º do [Decreto n.º 39001](https://diariodarepublica.pt/dr/detalhe/decreto/39001-1952-669494), de 20 de Novembro de 1952, quando isso se mostrar conveniente em face de condições especiais resultantes da necessidade de manter em comissão de serviço nos Estudos Gerais Universitários de Angola e de Moçambique elevado número de funcionários do quadro referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957.
+###### Artigo único
+
+Poderá o Ministro da Educação Nacional prorrogar, por despacho, até dois anos, o prazo fixado no § 1.º do artigo 26.º do [Decreto n.º 39001](https://diariodarepublica.pt/dr/detalhe/decreto/39001-1952-669494), de 20 de Novembro de 1952, quando isso se mostrar conveniente em face de condições especiais resultantes da necessidade de manter em comissão de serviço nos Estudos Gerais Universitários de Angola e de Moçambique elevado número de funcionários do quadro referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957.
+
+§ único. O disposto no presente artigo é aplicável aos concursos cujo prazo de validade já tenha expirado.
+
+> Alterado pelo/a [Decreto n.º 46491](https://diariodarepublica.pt/dr/detalhe/decreto/46491-1965-292317), publicado em 1965-08-16.
 
 Publique-se e cumpra-se como nele se contém.
 

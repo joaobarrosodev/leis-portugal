@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-01-08'
+version_history:
+  file: decreto-48955.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-01-08'
+    amending: pt:dre:275383:por
+    amending_title: Decreto n.º 11/70
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:06:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 11/70. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1969/decreto-48955.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -103,17 +118,25 @@ Ouvidos os Governos-Gerais de Angola e Moçambique e o Conselho Ultramarino em s
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º É criada nas províncias de Angola e Moçambique a Secretaria Provincial de Planeamento, Integração Económica, Fazenda e Contabilidade, que, sem prejuízo do disposto no artigo 22.º, n.º 2, do Estatuto Político-Administrativo de ambas as províncias, compreenderá os Serviços de Planeamento e Integração Económica, de Fazenda e Contabilidade no que não envolva a administração financeira de Estatística, de Alfândegas, de Crédito e Seguros e outros serviços ou organismos afins, dotados ou não de autonomia administrativa.
+###### Artigo 1.º
+
+É criada nas províncias de Angola e Moçambique a Secretaria Provincial de Planeamento, Integração Económica, Fazenda e Contabilidade, que, sem prejuízo do disposto no artigo 22.º, n.º 2, do Estatuto Político-Administrativo de ambas as províncias, compreenderá os Serviços de Planeamento e Integração Económica, de Fazenda e Contabilidade no que não envolva a administração financeira de Estatística, de Alfândegas, de Crédito e Seguros e outros serviços ou organismos afins, dotados ou não de autonomia administrativa.
 
 § único. Sob a orientação e responsabilidade do governador-geral, poderá o secretário provincial de Planeamento, Integração Económica, Fazenda e Contabilidade despachar todos os actos preparatórios das decisões finais em matéria de administração financeira, e bem assim os respeitantes à execução dos orçamentos dos serviços integrados na sua secretaria provincial ou dos que noutras não estejam integrados.
 
-Art. 2.º Sob a presidência do respectivo governador-geral, os secretários provinciais reunirão, em regra, uma vez por mês. Para as reuniões poderão ser convocados funcionários com especial qualificação sobre os assuntos a tratar.
+###### Artigo 2.º
 
-Art. 3.º Os directores de serviços nas províncias de governo-geral e os chefes de serviços nas províncias de governo simples e ainda os agentes que pelas suas funções se lhes equipararem têm competência, independentemente da que lhes seja dada pelos respectivos diplomas orgânicos, para conduzir a instrução dos processos até à fase de decisão final, promovendo a obtenção de todos os elementos que julguem necessários e dirigindo-se para o efeito aos vários serviços públicos provinciais e a quaisquer entidades particulares. O pedido de pareceres aos órgãos consultivos depende, porém, de despacho dos governadores-gerais ou de província ou dos secretários-gerais ou provinciais.
+Sob a presidência do respectivo governador-geral, os secretários provinciais reunirão, em regra, uma vez por mês. Para as reuniões poderão ser convocados funcionários com especial qualificação sobre os assuntos a tratar.
+
+###### Artigo 3.º
+
+Os directores de serviços nas províncias de governo-geral e os chefes de serviços nas províncias de governo simples e ainda os agentes que pelas suas funções se lhes equipararem têm competência, independentemente da que lhes seja dada pelos respectivos diplomas orgânicos, para conduzir a instrução dos processos até à fase de decisão final, promovendo a obtenção de todos os elementos que julguem necessários e dirigindo-se para o efeito aos vários serviços públicos provinciais e a quaisquer entidades particulares. O pedido de pareceres aos órgãos consultivos depende, porém, de despacho dos governadores-gerais ou de província ou dos secretários-gerais ou provinciais.
 
 § único. A competência a que se refere o corpo do artigo poderá sempre ser delegada nos funcionários de categoria imediatamente inferior, dentro dos limites que o despacho de delegação fixar.
 
-Art. 4.º Nas províncias de governo-geral os secretários provinciais poderão, com o acordo dos governadores-gerais e dentro dos limites por estes fixados, subdelegar nos directores de serviços e outros agentes com funções equiparadas os actos executivos mais correntes e repetidos que neles tenham sido delegados e que não sejam susceptíveis de impugnação contenciosa.
+###### Artigo 4.º
+
+Nas províncias de governo-geral os secretários provinciais poderão, com o acordo dos governadores-gerais e dentro dos limites por estes fixados, subdelegar nos directores de serviços e outros agentes com funções equiparadas os actos executivos mais correntes e repetidos que neles tenham sido delegados e que não sejam susceptíveis de impugnação contenciosa.
 
 § 1.º Os actos a que se refere o corpo do artigo poderão, nas províncias de governo simples, ser directamente delegados nos chefes de serviços ou agentes com funções equiparadas ou, com o acordo dos governadores e dentro dos limites por estes fixados, subdelegados pelos secretários-gerais.
 
@@ -121,13 +144,19 @@ Art. 4.º Nas províncias de governo-geral os secretários provinciais poderão,
 
 § 3.º Igualmente, com excepção dos poderes delegados nos secretários-gerais e provinciais, todas as outras delegações e subdelegações caducam com a substituição do delegante, do delegado ou do subdelegado.
 
-Art. 5.º Com o acordo do governador-geral respectivo e dentro dos limites por estes fixados, a competência conferida aos secretários provinciais de Angola e Moçambique pelo artigo 15.º, n.º 2, do Estatuto Político-Administrativo das mesmas províncias, para a execução dos orçamentos dos serviços integrados nas suas secretarias provinciais, poderá por estes ser atribuída aos directores e chefes dos respectivos serviços.
+###### Artigo 5.º
 
-§ único. Nas províncias de governo simples a competência delegada nos chefes de serviços para as despesas correntes de administração poderá, com o acordo dos governadores e dentro dos limites por estes fixados, ser atribuída a funcionários de categoria imediatamente inferior.
+Com o acordo do governador-geral respectivo e dentro dos limites por este fixados, a competência conferida aos secretários provinciais de Angola e de Moçambique pelo artigo 15.º, n.º 2, do Estatuto Político-Administrativo das mesmas províncias, para a execução dos orçamentos dos serviços integrados na suas secretarias provinciais, poderá por eles ser atribuída aos directores e chefes dos respectivos serviços e, por estes, aos agentes de categoria imediatamente inferior.
 
-Art. 6.º As licenças disciplinares a que os funcionários têm direito são concedidas por despacho, sem quaisquer outras formalidades, inclusive a da sua publicação.
+> Alterado pelo/a [Decreto n.º 11/70](https://diariodarepublica.pt/dr/detalhe/decreto/11-1970-275383), publicado em 1970-01-08.
 
-Art. 7.º O n.º 4 do artigo 4.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963, passa a ter a seguinte redacção:
+###### Artigo 6.º
+
+As licenças disciplinares a que os funcionários têm direito são concedidas por despacho, sem quaisquer outras formalidades, inclusive a da sua publicação.
+
+###### Artigo 7.º
+
+O n.º 4 do artigo 4.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963, passa a ter a seguinte redacção:
 
 4. A presidência da Comissão pertencerá ao governador da província, o qual, porém, nas províncias de governo-geral, poderá, sempre que o entenda conveniente, delegar a presidência no secretário provincial de Planeamento, Integração Económica, Fazenda e Contabilidade e, nas províncias de governo simples, no secretário-geral, quando o haja, ou, na sua falta, no chefe dos serviços de economia.
 

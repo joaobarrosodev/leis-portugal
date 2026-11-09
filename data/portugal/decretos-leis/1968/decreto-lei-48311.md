@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-05-27'
+version_history:
+  file: decreto-lei-48311.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-04-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-05-27'
+    amending: pt:dre:451790:por
+    amending_title: Decreto-Lei n.º 227/83
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:04:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 227/83. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48311.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,13 +129,17 @@ Considerando a conveniência de conferir maior maleabilidade do sistema legal da
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º A exportação de moedas metálicas portuguesas, em circulação, ou fora de circulação, continua sujeita ao disposto no [Decreto-Lei n.º 32087](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32087-1942-315951), de 15 de Junho de 1942.
+###### Artigo 1.º
 
-§ 1.º Poderá o Ministro das Finanças autorizar a exportação, desde que as moedas se destinem a fins numismáticos ou de reconhecido interesse turístico ou sempre que a particular natureza do caso concreto o justifique.
+(Revogado.)
 
-§ 2.º O Ministro das Finanças pode delegar no inspector-geral de Crédito e Seguros a competência para a concessão das autorizações a que se refere o parágrafo anterior:
+> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27.
 
-Art. 2.º É revogado o artigo 26.º e §§ 1.º e 2.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962.
+###### Artigo 2.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27.
 
 Publique-se e cumpra-se como nele se contém.
 

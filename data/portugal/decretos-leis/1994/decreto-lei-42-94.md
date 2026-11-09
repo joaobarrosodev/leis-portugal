@@ -38,10 +38,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-05-08'
+version_history:
+  file: decreto-lei-42-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-02-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-08'
+    amending: pt:dre:302156:por
+    amending_title: Decreto-Lei n.º 99/2004
+    changes:
+    - Altera Artigo 1.º
+    - Revoga Artigo 6.º
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/42/1994/02/14/p/dre/pt/html
@@ -67,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:35:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 99/2004. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-42-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -167,63 +187,89 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - As Oficinas Gerais de Material Aeronáutico são transformadas em sociedade anónima de capitais exclusivamente públicos, passando a denominar-se OGMA - Indústria Aeronáutica de Portugal, S. A., adiante designada por OGMA, S. A.
+###### Artigo 1.º
 
-2 - A OGMA, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas normas aplicáveis às sociedades anónimas e pela legislação especial que lhe seja aplicável em razão do seu objecto.
+1 - A OGMA, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas normas aplicáveis às sociedades anónimas e pela legislação especial que lhe seja aplicável em razão do seu objecto.
 
-3 - A OGMA, S. A., sucede às Oficinas Gerais de Material Aeronáutico, assumindo todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
+2 - A OGMA, S. A., sucede às Oficinas Gerais de Material Aeronáutico, assumindo todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
 
-Art. 2.º - 1 - O capital social da OGMA, S. A., é de 7000000000$00, totalmente subscrito e realizado pelo Estado com os valores integrantes do património da sociedade.
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 99/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2004-302156), publicado em 2004-05-03.
 
-2 - As acções representativas do capital da OGMA, S. A., poderão ser detidas pelo Estado e por entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, desde que se observe o disposto no n.º 1 do artigo anterior.
+###### Artigo 2.º
+
+1 - O capital social da OGMA, S. A., é de 7000000000$00, totalmente subscrito e realizado pelo Estado com os valores integrantes do património da sociedade.
+
+2 - As acções representativas do capital da OGMA, S. A., poderão ser detidas pelo Estado e por entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio, bem como por entidades privadas.
 
 3 - As acções de que o Estado é titular são detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão poder ser cometida a uma pessoa colectiva de direito público ou a outro sujeito integrado no sector público.
 
 4 - Os direitos do Estado como accionista da sociedade são exercidos por um representante nomeado por despacho conjunto dos Ministros da Defesa Nacional e das Finanças, salvo quando a gestão tenha sido cometida a outra entidade, nos termos do número anterior.
 
-Art. 3.º - 1 - O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores e para todos os efeitos legais, incluindo registos, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação ou requerimento subscrito por dois membros do conselho de administração da OGMA, S. A.
+> Alterado pelo/a [Decreto-Lei n.º 99/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2004-302156), publicado em 2004-05-03.
+
+###### Artigo 3.º
+
+1 - O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores e para todos os efeitos legais, incluindo registos, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação ou requerimento subscrito por dois membros do conselho de administração da OGMA, S. A.
 
 2 - As transmissões de bens operadas nos termos do presente diploma e os correspondentes registos estão isentos de emolumentos e de outros encargos legais.
 
-Art. 4.º - 1 - São aprovados os Estatutos da OGMA, S. A., anexos ao presente diploma.
+###### Artigo 4.º
+
+1 - São aprovados os Estatutos da OGMA, S. A., anexos ao presente diploma.
 
 2 - A alteração da natureza jurídica das Oficinas Gerais de Material Aeronáutico e a aprovação dos Estatutos da OGMA, S. A., são eficazes relativamente a terceiros, independentemente de registo, que, no entanto, deve ser requerido nos 60 dias seguintes à entrada em vigor do presente diploma.
 
 3 - As alterações dos Estatutos far-se-ão nos termos da lei comercial.
 
-Art. 5.º A OGMA, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal, sendo as respectivas competências fixadas na lei e nos Estatutos.
+###### Artigo 5.º
 
-Art. 6.º - 1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração deve enviar aos Ministros da Defesa Nacional e das Finanças, pelo menos 30 dias antes da data da assembleia geral anual:
+A OGMA, S. A., tem como órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal ou fiscal único, sendo as respectivas competências fixadas na lei e nos estatutos.
 
-a) O relatório de gestão e as contas do exercício;
+> Alterado pelo/a [Decreto-Lei n.º 99/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2004-302156), publicado em 2004-05-03.
 
-b) Os elementos adequados à compreensão integral da situação económica e financeira da empresa, eficiência da gestão e perspectivas da sua evolução.
+###### Artigo 6.º
 
-2 - O conselho fiscal deve enviar trimestralmente aos Ministros da Defesa Nacional e das Finanças um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
+(Revogado.)
 
-Art. 7.º - 1 - Os trabalhadores das OGMA mantêm todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2004-302156), publicado em 2004-05-03.
+
+###### Artigo 7.º
+
+1 - Os trabalhadores das OGMA mantêm todos os direitos e obrigações que detiverem à data da entrada em vigor do presente diploma.
 
 2 - A situação dos trabalhadores da OGMA, S. A., que sejam chamados a ocupar cargos nos órgãos da sociedade, bem como os que sejam requisitados para exercer outras funções noutras empresas ou serviços públicos, em nada será prejudicada por esse facto, regressando aos seus lugares de origem logo que terminem o mandato ou tempo de requisição.
 
-Art. 8.º - 1 - Os oficiais das Forças Armadas podem prestar serviço na OGMA, S. A., em comissão normal, nos termos do Estatuto dos Militares das Forças Armadas.
+###### Artigo 8.º
+
+1 - Os oficiais das Forças Armadas podem prestar serviço na OGMA, S. A., em comissão normal, nos termos do Estatuto dos Militares das Forças Armadas.
 
 2 - Os oficiais engenheiros aeronáuticos e electrotécnicos do quadro permanente da Força Aérea poderão ser colocados na OGMA, S. A., em comissão normal de serviço, por um período de quatro anos, prorrogável por mais dois anos.
 
 3 - Os quantitativos de oficiais engenheiros aeronáuticos e electrotécnicos e a sua distribuição por funções serão definidos em conjunto pela OGMA, S. A., e pela Força Aérea, sendo revistos para efeitos de actualização no final de períodos de dois anos.
 
-4 - O número de oficiais engenheiros em consideração será de 25% para os engenheiros aeronáuticos e de 20% para os engenheiros electrotécnicos em relação aos efectivos dos respectivos quadros especiais da Força Aérea.
+4 - Aos oficiais engenheiros aeronáuticos e electrotécnicos licenciados da Força Aérea é assegurado o estágio profissionalizante na OGMA, S. A.
 
-5 - Aos oficiais engenheiros aeronáuticos e electrotécnicos licenciados da Força Aérea é assegurado o estágio profissionalizante na OGMA, S. A.
+5 - As condições de concretização dos números anteriores serão objecto de protocolo de acordo entre a OGMA, S. A., e a Força Aérea.
 
-6 - As condições de concretização dos números anteriores serão objecto de protocolo de acordo entre a OGMA, S. A., e a Força Aérea.
+> Alterado pelo/a [Decreto-Lei n.º 99/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2004-302156), publicado em 2004-05-03.
 
-Art. 9.º - 1 - A OGMA, S. A., no âmbito da sua actividade, prossegue uma missão de interesse económico geral no âmbito da defesa nacional, de prossecução de objectivos essenciais e vitais para a segurança nacional, devendo conceder prioridade à execução das encomendas das Forças Armadas Portuguesas, seja no quadro dos respectivos programas e planos gerais de manutenção e revisão previamente elaborados e fixados anualmente pelas mesmas, seja em resposta a necessidades de manutenção urgentes.
+###### Artigo 9.º
+
+1 - A OGMA, S. A., no âmbito da sua actividade, prossegue uma missão de interesse económico geral no âmbito da defesa nacional, de prossecução de objectivos essenciais e vitais para a segurança nacional, devendo conceder prioridade à execução das encomendas das Forças Armadas Portuguesas, seja no quadro dos respectivos programas e planos gerais de manutenção e revisão previamente elaborados e fixados anualmente pelas mesmas, seja em resposta a necessidades de manutenção urgentes.
 
 2 - Em caso de guerra declarada ou iminente, bem como em períodos ou situações de grave emergência, toda a actividade da OGMA, S. A., sujeita ou não a obrigações militares, ficará dependente das orientações e determinações dos órgãos competentes do Estado, de acordo com as leis e as normas em vigor.
 
-Art. 10.º Os edifícios onde se encontra instalado o Museu do Ar são integrados no património da OGMA, S. A., mantendo a Força Aérea o direito de usufruto sobre os mesmos até que o Museu do Ar seja transferido para novas instalações.
+3 - A actividade da OGMA, S. A., no que diz respeito à manutenção da frota da Força Aérea portuguesa, é desenvolvida em articulação com o Chefe do Estado-Maior da Força Aérea, não podendo nenhuma decisão de encerramento ou de cessação dessas actividades, total ou parcial, ser tomada sem obtenção do prévio acordo do Ministro da Defesa Nacional.
 
-Art. 11.º - 1 - Fica desde já convocada a assembleia geral da OGMA, S. A., a qual reunirá no 30.º dia posterior à entrada em vigor do presente diploma, ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos corpos sociais e aprovar o respectivo estatuto remuneratório.
+> Alterado pelo/a [Decreto-Lei n.º 99/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2004-302156), publicado em 2004-05-03.
+
+###### Artigo 10.º
+
+Os edifícios onde se encontra instalado o Museu do Ar são integrados no património da OGMA, S. A., mantendo a Força Aérea o direito de usufruto sobre os mesmos até que o Museu do Ar seja transferido para novas instalações.
+
+###### Artigo 11.º
+
+1 - Fica desde já convocada a assembleia geral da OGMA, S. A., a qual reunirá no 30.º dia posterior à entrada em vigor do presente diploma, ou no 1.º dia útil subsequente, com o objectivo de eleger os titulares dos corpos sociais e aprovar o respectivo estatuto remuneratório.
 
 2 - Os membros da direcção em exercício mantêm-se em funções até à data da posse dos titulares dos órgãos sociais da OGMA, S. A., com as competências fixadas nos Estatutos para o conselho de administração.
 
@@ -243,13 +289,19 @@ O Primeiro-Ministro, Aníbal António Cavaco Silva.
 
 ### CAPÍTULO I — Denominação, duração, sede e objecto
 
-Artigo 1.º A sociedade adopta a forma de sociedade anónima e a denominação de OGMA - Indústria Aeronáutica de Portugal, S. A., podendo ser designada, de forma abreviada, por OGMA, S. A.
+###### Artigo 1.º
 
-Art. 2.º - 1 - A sociedade é constituída por tempo indeterminado e a sua sede é em Alverca.
+A sociedade adopta a forma de sociedade anónima e a denominação de OGMA - Indústria Aeronáutica de Portugal, S. A., podendo ser designada, de forma abreviada, por OGMA, S. A.
+
+###### Artigo 2.º
+
+1 - A sociedade é constituída por tempo indeterminado e a sua sede é em Alverca.
 
 2 - Por deliberação do conselho de administração a sociedade pode mudar a sua sede e ainda criar ou extinguir, em qualquer ponto do território nacional ou fora dele, agências, delegações ou quaisquer outras formas de representação.
 
-Art. 3.º - 1 - A sociedade tem por objecto:
+###### Artigo 3.º
+
+1 - A sociedade tem por objecto:
 
 a) A manutenção, reparação e modificação de aeronaves, motores, aviónicos, acessórios e equipamentos de terra;
 
@@ -283,7 +335,9 @@ c) Exercer outras actividades industriais ou comerciais, incluindo a venda de ma
 
 ### CAPÍTULO II — Capital, acções e obrigações
 
-Art. 4.º - 1 - O capital inicial é de 7000000000$00, está totalmente realizado pelos valores integrantes do património da sociedade, e é representado por 7000000 de acções com o valor nominal de 1000$00 cada uma.
+###### Artigo 4.º
+
+1 - O capital inicial é de 7000000000$00, está totalmente realizado pelos valores integrantes do património da sociedade, e é representado por 7000000 de acções com o valor nominal de 1000$00 cada uma.
 
 2 - As acções são nominativas, podendo ser emitidos títulos de 1, 5, 10, 50, 100, 1000 ou múltiplos de 1000 acções.
 
@@ -291,15 +345,21 @@ Art. 4.º - 1 - O capital inicial é de 7000000000$00, está totalmente realizad
 
 4 - Por deliberação da assembleia geral, a sociedade pode emitir obrigações e outros títulos de dívida.
 
-Art. 5.º Mediante deliberação da assembleia geral, poderão ser emitidas acções preferenciais sem voto e convertidas acções ordinárias em acções preferenciais sem voto.
+###### Artigo 5.º
 
-Art. 6.º - 1 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem.
+Mediante deliberação da assembleia geral, poderão ser emitidas acções preferenciais sem voto e convertidas acções ordinárias em acções preferenciais sem voto.
+
+###### Artigo 6.º
+
+1 - Quando haja aumento de capital, os accionistas terão preferência na subscrição das novas acções na proporção das que possuírem.
 
 2 - Sempre que num aumento de capital haja accionistas que renunciem à subscrição das acções que hes competiam, poderão as mesmas ser subscritas pelos demais accionistas na proporção das suas participações.
 
 ### CAPÍTULO III — Órgãos sociais
 
-Art. 7.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
+###### Artigo 7.º
+
+1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o conselho fiscal.
 
 2 - O mandato dos titulares dos órgãos da sociedade tem a duração de três anos, sendo permitida a sua renovação.
 
@@ -309,7 +369,9 @@ Art. 7.º - 1 - São órgãos da sociedade a assembleia geral, o conselho de adm
 
 #### SECÇÃO I — Assembleia geral
 
-Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito a voto.
+###### Artigo 8.º
+
+1 - A assembleia geral é formada pelos accionistas com direito a voto.
 
 2 - A cada 100 acções corresponde um voto.
 
@@ -325,7 +387,9 @@ Art. 8.º - 1 - A assembleia geral é formada pelos accionistas com direito a vo
 
 8 - Os membros do conselho de administração e do conselho fiscal deverão estar presentes nas reuniões da assembleia geral e participar nos seus trabalhos, mas não terão, nessa qualidade, direito a voto.
 
-Art. 9.º - 1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes Estatutos lhe atribuem competência.
+###### Artigo 9.º
+
+1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes Estatutos lhe atribuem competência.
 
 2 - Compete, especialmente, à assembleia geral:
 
@@ -347,19 +411,27 @@ g) Tratar de qualquer outro assunto para que tenha sido convocada.
 
 4 - As votações poderão ser efectuadas nominalmente ou por sinais convencionais, conforme seja decidido pelo presidente.
 
-Art. 10.º - 1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo esta constituída ainda por um vice-presidente e um secretário, devendo as respectivas faltas ser supridas nos termos da lei.
+###### Artigo 10.º
+
+1 - A assembleia geral será convocada e dirigida pelo presidente da respectiva mesa, sendo esta constituída ainda por um vice-presidente e um secretário, devendo as respectivas faltas ser supridas nos termos da lei.
 
 2 - A convocação da assembleia geral faz-se com a antecedência mínima de 30 dias, mediante cartas registadas, dirigidas a todos os accionistas com indicação expressa dos assuntos a tratar.
 
 3 - Relativamente ao Estado, a convocação é feita por cartas dirigidas ao representante daquele e ao Ministério das Finanças ou, quando seja caso disso, à entidade a quem foi cometida a gestão das acções previstas no n.º 5 do artigo 8.º
 
-Art. 11.º A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que for requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelos menos, 5% do capital social.
+###### Artigo 11.º
+
+A assembleia geral reunirá, pelo menos, uma vez por ano e sempre que for requerida a sua convocação ao respectivo presidente pelos conselhos de administração ou fiscal ou por accionistas que representem, pelos menos, 5% do capital social.
 
 #### SECÇÃO II — Conselho de administração
 
-Art. 12.º O conselho de administração é composto por um presidente e dois vogais, devendo um dos membros ser sempre um oficial general da Força Aérea na situação de activo.
+###### Artigo 12.º
 
-Art. 13.º Ao conselho de administração, além das competências que por lei lhe são conferidas, compete, em especial:
+O conselho de administração é composto por um presidente e dois vogais, devendo um dos membros ser sempre um oficial general da Força Aérea na situação de activo.
+
+###### Artigo 13.º
+
+Ao conselho de administração, além das competências que por lei lhe são conferidas, compete, em especial:
 
 a) Aprovar os objectivos e as políticas de gestão da empresa;
 
@@ -379,13 +451,19 @@ h) Constituir sociedades e subscrever, adquirir, onerar e alienar participaçõe
 
 i) Exercer as demais competências que lhe sejam atribuídas por lei ou pela assembleia geral.
 
-Art. 14.º Na gestão das actividades da sociedade, o conselho de administração deve subordinar-se às deliberações da assembleia geral.
+###### Artigo 14.º
 
-Art. 15.º - 1 - O conselho de administração poderá delegar numa ou mais comissões executivas, permanentes ou eventuais, integradas por alguns dos seus membros, ou em comissões especiais constituídas por algum ou alguns dos seus membros e por empregados da sociedade, algum ou alguns dos poderes que lhe são conferidos, definindo em acta os limites e condições de tal delegação.
+Na gestão das actividades da sociedade, o conselho de administração deve subordinar-se às deliberações da assembleia geral.
+
+###### Artigo 15.º
+
+1 - O conselho de administração poderá delegar numa ou mais comissões executivas, permanentes ou eventuais, integradas por alguns dos seus membros, ou em comissões especiais constituídas por algum ou alguns dos seus membros e por empregados da sociedade, algum ou alguns dos poderes que lhe são conferidos, definindo em acta os limites e condições de tal delegação.
 
 2 - A aquisição e a alienação de participações sociais, embora autorizada pela assembleia geral, não se incluem nos poderes delegáveis.
 
-Art. 16.º - 1 - Compete, especialmente, ao presidente do conselho de administração:
+###### Artigo 16.º
+
+1 - Compete, especialmente, ao presidente do conselho de administração:
 
 a) Representar o conselho em juízo ou fora dele;
 
@@ -397,7 +475,9 @@ d) Zelar pela correcta execução das deliberações do conselho de administraç
 
 2 - Nas suas faltas ou impedimentos, o presidente é substituído pelo vogal por ele designado.
 
-Art. 17.º - 1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões e reunirá extraordinariamente sempre que convocado pelo respectivo presidente, por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
+###### Artigo 17.º
+
+1 - O conselho de administração fixará as datas ou a periodicidade das suas reuniões e reunirá extraordinariamente sempre que convocado pelo respectivo presidente, por sua iniciativa ou a requerimento de dois administradores ou do conselho fiscal.
 
 2 - O conselho de administração só poderá deliberar estando presente ou representada a maioria dos seus membros, sendo as suas deliberações tomadas por maioria dos votos expressos.
 
@@ -407,7 +487,9 @@ Art. 17.º - 1 - O conselho de administração fixará as datas ou a periodicida
 
 5 - As deliberações do conselho de administração constarão sempre da acta, que consignará os votos de vencido.
 
-Art. 18.º - 1 - A sociedade obriga-se pela assinatura:
+###### Artigo 18.º
+
+1 - A sociedade obriga-se pela assinatura:
 
 a) De dois membros do conselho de administração;
 
@@ -423,15 +505,21 @@ c) De mandatário constituído, no âmbito dos correspondentes mandatos.
 
 #### SECÇÃO III — Conselho fiscal
 
-Art. 19.º - 1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente e dois vogais efectivos e um suplente.
+###### Artigo 19.º
+
+1 - A fiscalização da sociedade compete a um conselho fiscal, composto por um presidente e dois vogais efectivos e um suplente.
 
 2 - Um dos vogais efectivos e o respectivo suplente serão revisores oficiais de contas.
 
 3 - O conselho fiscal pode ser coadjuvado por técnicos especialmente designados ou contratados para o efeito e ainda por empresas especializadas em trabalhos de auditoria.
 
-Art. 20.º As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício e tendo o presidente voto de qualidade.
+###### Artigo 20.º
 
-Art. 21.º - 1 - O conselho fiscal tem a competência estabelecida na lei e nestes estatutos.
+As deliberações do conselho fiscal são tomadas por maioria dos votos expressos, estando presente a maioria dos membros em exercício e tendo o presidente voto de qualidade.
+
+###### Artigo 21.º
+
+1 - O conselho fiscal tem a competência estabelecida na lei e nestes estatutos.
 
 2 - Ao conselho fiscal compete, em especial:
 
@@ -451,10 +539,14 @@ g) Chamar a atenção do conselho de administração para qualquer assunto que d
 
 ### CAPÍTULO IV — Aplicação dos resultados
 
-Art. 22.º Os resultados líquidos apurados em cada exercício terão a aplicação que for deliberada em assembleia geral, após a dedução das importâncias necessárias à constituição ou reintegração da reserva legal até atingir o mínimo legalmente exigível.
+###### Artigo 22.º
+
+Os resultados líquidos apurados em cada exercício terão a aplicação que for deliberada em assembleia geral, após a dedução das importâncias necessárias à constituição ou reintegração da reserva legal até atingir o mínimo legalmente exigível.
 
 ### CAPÍTULO V — Dissolução e liquidação
 
-Art. 23.º - 1 - A sociedade dissolve-se quando para isso haja causa legal.
+###### Artigo 23.º
+
+1 - A sociedade dissolve-se quando para isso haja causa legal.
 
 2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral.

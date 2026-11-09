@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-12-19'
+version_history:
+  file: decreto-939-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-12-19'
+    amending: pt:dre:325174:por
+    amending_title: Decreto n.º 159/78
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:45:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 159/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-939-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,17 +126,25 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º É a Junta Autónoma do Porto de Aveiro autorizada a celebrar contrato para o fornecimento de dois guindastes eléctricos e respectivos sobresselentes, até à importância de 22980000$00.
+###### Artigo 1.º
 
-Art. 2.º - 1. O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as quantias seguintes:
+É a Junta Autónoma do Porto de Aveiro autorizada a celebrar contrato para o fornecimento de dois guindastes eléctricos e respectivos sobresselentes, até à importância de 22980000$00.
+
+###### Artigo 2.º
+
+1 - O encargo resultante do contrato referido no artigo anterior não poderá, em cada ano, exceder as quantias seguintes:
 
 Em 1976 ... 3200000$00
 
 Em 1977 ... 7766000$00
 
-Em 1978 ... 12014000$00
+Em 1978 ... 6600000$00
 
-2. À importância a despender nos anos de 1977 e 1978 acrescerá o saldo que, eventualmente, se apurar no ano anterior.
+Em 1979 ... 5414000$00
+
+2 - À importância a despender nos anos de 1977, 1978 e 1979 acrescerá o saldo que eventualmente se apurar no ano anterior.
+
+> Alterado pelo/a [Decreto n.º 159/78](https://diariodarepublica.pt/dr/detalhe/decreto/159-1978-325174), publicado em 1978-12-19.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Alberto José dos Santos Ramalheira - Emílio Rui da Veiga Peixoto Vilar.
 

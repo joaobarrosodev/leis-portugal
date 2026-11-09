@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-10-26'
+version_history:
+  file: decreto-lei-482-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-10-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-10-26'
+    amending: pt:dre:179993:por
+    amending_title: Decreto-Lei n.º 305/85; Decreto-Lei n.º 340/87
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:33:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 305/85; Decreto-Lei
+    n.º 340/87. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-482-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,9 +165,13 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º Para efeitos do presente diploma, considera-se whisky a bebida espirituosa com aroma e sabor próprios, proveniente do destilado obtido de mosto de cereais fermentado, sacrificado pela diástase do malte nele contido, com ou sem outras diástases naturais.
+###### Artigo 1.º
 
-Art. 2.º - 1 - A bebida espirituosa referida no artigo anterior deverá obedecer aos requisitos seguintes:
+Para efeitos do presente diploma, considera-se whisky a bebida espirituosa com aroma e sabor próprios, proveniente do destilado obtido de mosto de cereais fermentado, sacrificado pela diástase do malte nele contido, com ou sem outras diástases naturais.
+
+###### Artigo 2.º
+
+1 - A bebida espirituosa referida no artigo anterior deverá obedecer aos requisitos seguintes:
 
 a) Ser destilada a menos de 95% de volume a 20ºC, de tal modo que o produto da destilação possua aroma e sabor provenientes das matérias-primas utilizadas;
 
@@ -170,33 +191,51 @@ Soma de aldeídos (expressos em acetaldeído), ésteres (expressos em acetato de
 
 2 - Presume-se não ser whisky o produto que não satisfizer os requisitos mencionados na alínea c) do número anterior.
 
-Art. 3.º Ao produto da destilação só é permitido adicionar, antes do engarrafamento:
+###### Artigo 3.º
+
+Ao produto da destilação só é permitido adicionar, antes do engarrafamento:
 
 a) Água pura, com o fim de baixar o seu teor alcoólico para o valor mínimo de 40% de álcool em volume a 20ºC; e
 
 b) Caramelo, nas quantidades mínimas necessárias à normalização da cor do produto engarrafado.
 
-Art. 4.º - 1 - É permitida a lotação (blending, assemblage) de vários destilados, desde que cada um deles separadamente satisfaça à definição e aos requisitos de whisky constantes dos artigos 1.º e 2.º
+###### Artigo 4.º
+
+1 - É permitida a lotação (blending, assemblage) de vários destilados, desde que cada um deles separadamente satisfaça à definição e aos requisitos de whisky constantes dos artigos 1.º e 2.º
 
 2 - No caso de lotação, a idade do lote será a do whisky de destilação mais recente nele contido.
 
-Art. 5.º - 1 - As designações de Scotch whisky (whisky escocês), Irish whisky (whisky irlandês), Canadian whisky (whisky canadiano) e bourbon são reservadas aos whiskies destilados e envelhecidos, respectivamente, na Escócia, na República da Irlanda ou na Irlanda do Norte, no Canadá e nos Estados Unidos da América, de acordo com as leis que nesses territórios regulam a produção das bebidas espirituosas assim designadas.
+###### Artigo 5.º
+
+1 - As designações de Scotch whisky (whisky escocês), Irish whisky (whisky irlandês), Canadian whisky (whisky canadiano) e bourbon são reservadas aos whiskies destilados e envelhecidos, respectivamente, na Escócia, na República da Irlanda ou na Irlanda do Norte, no Canadá e nos Estados Unidos da América, de acordo com as leis que nesses territórios regulam a produção das bebidas espirituosas assim designadas.
 
 2 - No caso de lotação, só é permitido usar as disposições referidas no número anterior quando cada um dos componentes separadamente satisfaça a respectiva designação.
 
 3 - A designação de whisky português (whisky) é reservada ao whisky destilado e envelhecido em Portugal que satisfaça os requisitos constantes dos artigos 1.º e 2.º
 
-Art. 6.º É proibida a utilização:
+4 - A designação de whisky nacional, nos termos do número anterior, não impede a inclusão de malt whisky importado, mas não poderá ser feita referência, na rotulagem do recipiente em que o whisky for vendido ou exposto para venda ao público, à origem estrangeira desse componente.
+
+> Alterado pelo/a [Decreto-Lei n.º 305/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1985-179993), publicado em 1985-07-29.
+
+###### Artigo 6.º
+
+É proibida a utilização:
 
 a) Das designações mencionadas no artigo anterior quando referidas a qualquer produto que não satisfaça os requisitos dele constantes, ainda que tal designação seja acompanhada da indicação da verdadeira origem do produto em ligação com expressões como «tipo de», «imitação de», «género de» ou similares;
 
 b) De marcas, registadas ou não, rótulos, cartazes ou publicidade susceptíveis de, mediante a utilização de palavras, sinais gráficos ou quaisquer outros meios, induzir o consumidor em erro quanto ao verdadeiro país de origem do produto.
 
-Art. 7.º O whisky não poderá ser importado, vendido ou exposto para venda no mercado interno com teor alcoólico inferior a 40% em volume a 20ºC.
+###### Artigo 7.º
 
-Art. 8.º O whisky importado deverá ser acompanhado dos certificados de origem e envelhecimento, emitidos pelas competentes autoridades governamentais do país em que o whisky foi produzido.
+O whisky não poderá ser importado, vendido ou exposto para venda no mercado interno com teor alcoólico inferior a 40% em volume a 20ºC.
 
-Art. 9.º - 1 - A fim de garantir a genuinidade do Scotch whisky (whisky escocês), quando importado com graduação alcoólica superior à estabelecida para consumo ou em recipientes que não satisfaçam os requisitos para tal venda, observar-se-ão as regras constantes dos números seguintes, para que o whisky escocês possa ser engarrafado sob esta designação.
+###### Artigo 8.º
+
+O whisky importado deverá ser acompanhado dos certificados de origem e envelhecimento, emitidos pelas competentes autoridades governamentais do país em que o whisky foi produzido.
+
+###### Artigo 9.º
+
+1 - A fim de garantir a genuinidade do Scotch whisky (whisky escocês), quando importado com graduação alcoólica superior à estabelecida para consumo ou em recipientes que não satisfaçam os requisitos para tal venda, observar-se-ão as regras constantes dos números seguintes, para que o whisky escocês possa ser engarrafado sob esta designação.
 
 2 - O whisky só poderá sair das alfândegas sob contrôle directo da AGA e fiscalização da Direcção-Geral da Fiscalização Económica (DGFE), com destino às instalações de engarrafamento por aquela aprovadas.
 
@@ -204,7 +243,7 @@ Art. 9.º - 1 - A fim de garantir a genuinidade do Scotch whisky (whisky escocê
 
 4 - O whisky será unicamente engarrafado em recipientes e com cápsulas de modelos previamente aprovados pela AGA, devendo aqueles recipientes ter gravados no fundo, em caracteres facilmente legíveis, as seguintes indicações:
 
-a) Whisky engarrafado em Portugal;
+a) (Revogada.)
 
 b) As iniciais do engarrafador autorizado;
 
@@ -232,9 +271,15 @@ d) A afixação dos rótulos aos recipientes será feita de modo a impedir a sua
 
 11 - É proibido o armazenamento, nas instalações de engarrafamento, de matérias-primas ou produtos cuja utilização não seja permitida nas operações de lotação, diluição, engarrafamento, rotulagem e selagem de Scotch whisky.
 
-Art. 10.º A fim de se garantir a genuinidade do Irish whisky (whisky irlandês), do Canadian whisky (whisky canadiano) e do bourbon, quando importados nas condições referidas no n.º 1 do artigo anterior, observar-se-á, com as necessárias adaptações, o disposto nos seus n.os 2 a 9, para que tais whiskies possam ser engarrafados sob as aludidas designações.
+> Alterado pelo/a [Decreto-Lei n.º 340/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1987-496081), publicado em 1987-10-21.
 
-Art. 11.º - 1 - A fim de se garantir a genuinidade whisky produzido em território português, observar-se-ão, sem prejuízo do disposto nos artigos 1.º, 2.º, 3.º e 6.º, as regras constantes dos números seguintes.
+###### Artigo 10.º
+
+A fim de se garantir a genuinidade do Irish whisky (whisky irlandês), do Canadian whisky (whisky canadiano) e do bourbon, quando importados nas condições referidas no n.º 1 do artigo anterior, observar-se-á, com as necessárias adaptações, o disposto nos seus n.os 2 a 9, para que tais whiskies possam ser engarrafados sob as aludidas designações.
+
+###### Artigo 11.º
+
+1 - A fim de se garantir a genuinidade whisky produzido em território português, observar-se-ão, sem prejuízo do disposto nos artigos 1.º, 2.º, 3.º e 6.º, as regras constantes dos números seguintes.
 
 2 - O whisky só poderá ser produzido, diluído, engarrafado, rotulado e selado sob o contrôle da AGA e fiscalização da DGFE, em instalações por aquela autorizadas, as quais serão sempre distintas das utilizadas para engarrafamento de whisky estrangeiro.
 
@@ -242,7 +287,7 @@ Art. 11.º - 1 - A fim de se garantir a genuinidade whisky produzido em territó
 
 4 - O whisky será unicamente engarrafado em recipientes e com cápsulas de modelos previamente aprovados pela AGA, devendo aqueles recipientes ter gravadas no fundo, em caracteres facilmente legíveis, as seguintes indicações:
 
-a) Whisky português;
+a) (Revogada.)
 
 b) As iniciais do engarrafador autorizado;
 
@@ -270,21 +315,35 @@ d) A afixação dos rótulos aos recipientes será feita de modo a impedir a sua
 
 11 - É proibido o armazenamento, nas instalações de produção ou de engarrafamento, de matérias-primas ou produtos cuja utilização não seja permitida nas operações de produção, lotação, diluição, engarrafamento, rotulagem e selagem de whisky português.
 
-Art. 12.º Os selos a fornecer pela AGA serão de cores diferentes para o whisky estrangeiro importado já engarrafado, para o whisky estrangeiro engarrafado em Portugal e para o whisky produzido em território português.
+> Alterado pelo/a [Decreto-Lei n.º 340/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1987-496081), publicado em 1987-10-21.
 
-Art. 13.º A partir do dia 1 de Janeiro de 1981, não será permitida a preparação ou a venda de qualquer bebida espirituosa de imitação do whisky, designadamente a mistura de whisky com álcool etílico, ainda que de origem vegetal.
+###### Artigo 12.º
 
-Art. 14.º - 1 - As infracções ao disposto no presente diploma serão punidas, consoante os casos, nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, do [Decreto-Lei n.º 314/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1972-676446), de 17 de Agosto, e do [Decreto-Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1974-303114), de 8 de Janeiro.
+Os selos a fornecer pela AGA serão de cores diferentes para o whisky estrangeiro importado já engarrafado, para o whisky estrangeiro engarrafado em Portugal e para o whisky produzido em território português.
+
+###### Artigo 13.º
+
+A partir do dia 1 de Janeiro de 1981, não será permitida a preparação ou a venda de qualquer bebida espirituosa de imitação do whisky, designadamente a mistura de whisky com álcool etílico, ainda que de origem vegetal.
+
+###### Artigo 14.º
+
+1 - As infracções ao disposto no presente diploma serão punidas, consoante os casos, nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, do [Decreto-Lei n.º 314/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1972-676446), de 17 de Agosto, e do [Decreto-Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1974-303114), de 8 de Janeiro.
 
 2 - As infracções a este decreto-lei não puníveis pelos diplomas referidos no número anterior serão punidas com multa de 1000$00 a 10000$00.
 
 3 - Pela falsificação ou falta de características legais do whisky presume-se responsável o engarrafador cujas iniciais figurem no recipiente ou, na falta ilegal de tal menção, a entidade que lançou o whisky no mercado interno.
 
-Art. 15.º Mantém-se em vigor, relativamente ao whisky, o [Decreto-Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1974-303114), de 8 de Janeiro, em tudo quanto não contrarie o disposto no presente diploma.
+###### Artigo 15.º
 
-Art. 16.º As dúvidas que se suscitarem na interpretação e execução deste decreto-lei serão resolvidas por despacho do Ministro do Comércio e Turismo.
+Mantém-se em vigor, relativamente ao whisky, o [Decreto-Lei n.º 3/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1974-303114), de 8 de Janeiro, em tudo quanto não contrarie o disposto no presente diploma.
 
-Art. 17.º O presente diploma entra em vigor no prazo de trinta dias a contar da data da sua publica ção, com excepção das disposições constantes dos n.os 4 e 5 do artigo 9.º e dos n.os 4 e 5 do artigo 11.º, os quais entrarão em vigor no prazo de noventa dias a contar da mesma data.
+###### Artigo 16.º
+
+As dúvidas que se suscitarem na interpretação e execução deste decreto-lei serão resolvidas por despacho do Ministro do Comércio e Turismo.
+
+###### Artigo 17.º
+
+O presente diploma entra em vigor no prazo de trinta dias a contar da data da sua publica ção, com excepção das disposições constantes dos n.os 4 e 5 do artigo 9.º e dos n.os 4 e 5 do artigo 11.º, os quais entrarão em vigor no prazo de noventa dias a contar da mesma data.
 
 Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1980. - Francisco Sá Carneiro.
 

@@ -1,0 +1,344 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:252410:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1927-01-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "269365d1e33a1f4f"
+   ]
+  },
+  {
+   "date": "1981-08-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:575917:por",
+     "title": "Lei n.º 25/81",
+     "published": "1981-08-21",
+     "dre_path": "/dr/detalhe/lei/25-1981-575917"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "a9aacf629c44c369",
+    "c5b62c9b48a43439",
+    "3d3826087f42676a",
+    "0535efda838244ce",
+    "b2614a8afb2380ad",
+    "fe7d94cf0e36a1ed",
+    "4c5b926742ecbd88",
+    "f3522f032bf61def",
+    "a4cdad2591bb63dc",
+    "7be66cd57cf816a6",
+    "6c2d98698752ffd2",
+    "ae9bab21374fc922",
+    "26e2b047c19bd478",
+    "ac95008e2c310a80",
+    "1d56517a198ecea8",
+    "6a2559090d70e517",
+    "35051584bbd51a7c",
+    "4775dc16adfc1d05",
+    "569c94d45141bd27",
+    "159e0d599843e27d",
+    "edc410fd07e1e98e",
+    "24ec2ace51ca6e73",
+    "a21042a84f1315a5",
+    "46d0cd400789f340",
+    "729cea1b54e4e119",
+    "f9c3f3c3fea981ed",
+    "3bc77f4644b542bb",
+    "d940530f3d43f282",
+    "637e34d3ce9c48c9",
+    "972edd5a163e7cfc",
+    "77a62c882d42852c",
+    "41c625c1518d5372",
+    "2aa6c89363120c7b"
+   ]
+  }
+ ],
+ "fragments": {
+  "269365d1e33a1f4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto n.º 13:004\n\nUsando da faculdade que me confere o n.º 2.º do artigo 2.º do decreto n.º 12:740, de 26 de Novembro de 1926, sob proposta dos Ministros de todas as Repartições: hei por bem decretar, para valer como lei, o seguinte:\n\nDa natureza e forma do cheque\n\nArtigo 1.º Toda a pessoa que tiver qualquer importância disponível num estabelecimento bancário ou numa caixa económica, legalmente autorizados, pode dispor dela por meio de um cheque.\n\nArt. 2.º O cheque só pode ser pagável à vista, e deve conter:\n\n1.º O nome do estabelecimento bancário ou da caixa económica legalmente autorizada que o deva pagar;\n\n2.º O mandato puro e simples de pagar uma quantia determinada;\n\n3.º A indicação do lugar onde, e da data em que, o cheque é passado;\n\n4.º A assinatura do sacador.\n\n§ 1.º Não produzirá efeito como cheque o escrito que não fôr pagável à vista ou ao qual faltar qualquer dos requisitos exigidos neste artigo.\n\n§ 2.º A inserção da palavra «cheque» no próprio texto do escrito será considerada requisito obrigatório e essencial do cheque, findo que seja o prazo de dois anos, contados da data da publicação do presente decreto com fôrça de lei.\n\nArt. 3.º O cheque pode ser passado a favor, ou do próprio sacador ou de um terceiro expressamente nomeado, ou à ordem dêste ou ao portador.\n\n§ 1.º Considera-se passado ao portador o cheque sem indicação do beneficiário, bem como o cheque que, embora passado a favor de um terceiro, contenha a seguir à indicação dêste a menção «ou ao portador».\n\n§ 2.º É nulo o cheque ao portador passado sôbre o próprio sacador.\n\nArt. 4.º O cheque é pagável no lugar onde é passado, salvo se no seu texto ou no lado do nome do sacado estiver indicado outro lugar para o seu pagamento.\n\nArt. 5.º O cheque, cuja importância estiver escrita por extenso e em algarismos, valerá, no caso de dúvida, pela importância escrita por extenso.\n\nArt. 6.º Excepto o cheque ao portador, qualquer outro cheque emitido no continente da República, e pagável em outro país, nas ilhas adjacentes ou nas províncias ultramarinas, pode ser passado em mais do que um exemplar.\n\n§ 1.º Estes exemplares devem ser numerados no texto do próprio título, pois de contrário, cada um será considerado como sendo um cheque distinto.\n\n§ 2.º O pagamento feito contra um dos exemplares é liberatório, mesmo quando não esteja estipulado que êste pagamento anula o efeito dos outros.\n\nDo endôsso\n\nArt. 7.º O cheque é sempre transmissível por ondôsso, salvo se o seu próprio texto contiver declaração expressa em contrário.\n\nArt. 8.º O endôsso de um cheque deve ser puro e simples, considerando-se como não escrita qualquer condição a que êle esteja subordinado.\n\n§ único. São nulos:\n\na) O endôsso parcial;\n\nb) O endôsso «ao portador»;\n\nc) O endôsso feito pelo sacado.\n\nArt. 9.º O endossante que transferir diversos exemplares de um mesmo cheque a diferentes entidades, assim como os endossantes subsequentes, são responsáveis por todos os exemplares que tenham a sua assinatura e que não tenham sido restituídos.\n\nDa responsabilidade pelo pagamento do cheque\n\nArt. 10.º O sacador e os endossantes são solidàriamente responsáveis para com o portador do cheque pelo pagamento da importância dêste.\n\n§ 1.º O sacador do cheque não pode, em caso algum, exonerar-se desta responsabilidade, devendo considerar-se como não escrita qualquer declaração em contrário.\n\n§ 2.º Não assume a responsabilidade mencionada neste artigo o endossante que, ao seu endôsso, acrescentar as palavras «sem responsabilidade» ou «sem garantia».\n\nArt. 11.º O pagamento de um cheque pode ser garantido por aval.\n\n§ 1.º A simples assinatura aposta no verso de um cheque importa prestação de aval.\n\n§ 2.º Se não se achar declarada a pessoa por quem é prestado o aval, entender-se há ser pelo sacador.\n\nDo pagamento\n\nArt. 12.º Os cheques passados e pagáveis no continente da República, e bem assim os passados e pagáveis nas ilhas adjacentes, deverão, sob pena de o portador perder o direito e acção contra os endossantes e contra os avalistas, ser apresentados ao sacado, para pagamento, dentro do prazo de dez dias, quando pagáveis no lugar onde foram passados, e dentro do prazo de vinte dias em todos os outros casos.\n\n§ único. A apresentação do cheque numa câmara de compensação, na qual o sacado tenha em conta, equivale à apresentação a pagamento.\n\nArt. 13.º A morte do sacador, ou a sua incapacidade posterior à emissão do cheque, não invalidam os efeitos dêste.\n\nArt. 14.º A revogação do mandato de pagamento, conferido por via do cheque ao sacado, só obriga êste depois de findo o competente prazo de apresentação estabelecido no artigo 12.º do presente decreto com fôrça de lei. No decurso do mesmo prazo o sacado não pode, sob pena de responder por perdas e danos, recusar o pagamento do cheque com fundamento na referida revogação.\n\n§ único. Se porém o sacador, ou o portador, tiver avisado o sacado de que o cheque se perdeu ou se encontra na posse de terceiro em consequência de um facto fraudulento, o sacado só pode pagar o cheque ao seu detentor se êste provar que o adquiriu por meios legítimos.\n\nArt. 15.º O sacado pode exigir, no acto de pagamento do cheque, que êste lhe-seja entregue munido de recibo passado pelo portador.\n\nArt.·16.º O portador do cheque não pode exigir nem recusar qualquer pagamento parcial por conta do mesmo.\n\n§ único. No caso de pagamento parcial, o sacado pode exigir que dêsse pagamento se faça menção no cheque e que lhe seja entregue o competente recibo.\n\nArt. 17.º O cheque atravessado na frente por duas linhas paralelas denomina-se «cheque cruzado» e não pode ser pago senão a um estabelecimento dos mencionados no artigo 1.º do presente decreto com força de lei.\n\n§ 1.º O cruzamento do cheque pode ser feito pelo sacador ou pelo portador.\n\n§ 2.º O cruzamento é especial ou geral respectivamente quando, entre as duas linhas paralelas que atravessam o cheque, está ou não escrito o nome de um estabelecimento bancário ou de uma caixa económica legalmente autorizados.\n\n§ 3.º O cruzamento geral pode ser convertido em cruzamento especial, mas êste não pode ser convertido em cruzamento geral.\n\n§ 4.º O cheque, contendo cruzamento especial, só pode ser pago ao estabelecimento nêle indicado, ou a outro estabelecimento da mesma natureza, ao qual aquele o tenha endossado.\n\n§ 5.º O sacado que paga um cheque, com cruzamento geral, a outrem que não seja estabelecimento bancário ou caixa económica legalmente autorizados, ou que paga um cheque, com cruzamento especial, a entidade que não seja a designada no cruzamento, ou aquela que por endôsso a substitua, é responsável pelo prejuízo que resultar do seu procedimento.\n\n§ 6.º O portador de um cheque cruzado tem o direito de o fazer visar pelo sacado, e êste, aposta a sua assinatura ou rubrica na frente do cheque, tem o direito de debitar provisòriamente a conta do sacador.\n\nArt. 18.º O cheque que mencionar na sua frente a cláusula «para levar em conta»; inserta pelo sacador ou pelo portador, não poderá ser pago em numerário e, neste caso, a sua liquidação far-se há por lançamento de escrita a favor do portador, o que valerá como pagamento.\n\n§ único. A cláusula «para levar em conta» não pode ser revogada.\n\nArt. 19.º O sacado, que não paga o cheque à sua apresentação, é obrigado a declarar por escrito o motivo da recusa, sob pena de ser considerado solidàriamente responsável, com o sacador e demais co-obrigados, pelo pagamento do cheque.\n\nArt. 20.º O sacado, que indicar como motivo do não pagamento do cheque a insuficiência da provisão, é obrigado, se o portador do cheque o exigir, a declarar por escrito a importância exacta da mesma provisão, e neste caso, se o sacado não quiser entregar ao portador, nos termos do artigo 16.º do presente decreto com fôrça de lei, a provisão que o sacador tiver disponível, é o mesmo sacado obrigado a não dispor desta emquanto o sacador não provar que está desobrigado para com o portador do cheque.\n\nArt. 21.º O portador de um cheque, que não fôr pago à sua apresentação feita nos prazos marcados no artigo 12.º do presente decreto com fôrça de lei, é obrigado a fazer verificar a apresentação e o não pagamento do cheque, sob pena de perder o direito e acção contra os endossantes e avalistas.\n\n§ único. A apresentação e o não pagamento do cheque verificar-se hão por qualquer das seguintes formas:\n\n1.ª Por um protesto lavrado nos termos aplicáveis do artigo 328.º do Código Comercial;\n\n2.ª Por uma declaração do sacado, por êle assinada, datada e escrita sôbre o cheque, com indicação do dia em que êste foi apresentado;\n\n3.ª Por uma declaração datada, duma Câmara de Compensação, da qual conste a data em que o cheque foi apresentado e o seu não pagamento.\n\nArt. 22.º A verificação da apresentação e do não pagamento do cheque por qualquer das formas indicadas no artigo antecedente deve ser feita no próprio dia da apresentação ou no seguinte útil, mas sempre antes de expirar o prazo, de apresentação do cheque, fixado no artigo 12.º do presente decreto com fôrça de lei.\n\nArt. 23.º É considerada criminosa a emissão de um cheque que, apresentado a pagamento no competente prazo do artigo 12.º do presente decreto com fôrça de lei, não fôr integralmente pago por falta de provisão.\n\nArt. 24.º Ao sacador de um cheque cujo não pagamento, por falta de provisão, tiver sido verificado nos termos e no prazo prescritos nos artigos 21.º e 22.º do presente decreto com fôrça de lei, será aplicada, a pedido do portador do cheque, a pena de seis meses a dois anos de prisão correccional.\n\n§ único. A aplicação desta pena não isenta o sacador do cheque da responsabilidade civil, ou de qualquer outra, em que, por disposição especial, possa incorrer.\n\nArt. 25.º O portador de um cheque não pago, que tenha sido apresentado a pagamento fora do prazo competente, nos termos do artigo 12.º do presente decreto com fôrça de lei, ou cuja apresentação e não pagamento não tiverem sido verificados no prazo e termos prescritos nos artigos 21.º e 22.º do mesmo decreto, não tem outro direito além do de pedir ao sacador do cheque o embôlso da importância dêste que lhe não tiver sido paga pelo sacado.\n\nDa prescrição de acções\n\nArt. 26.º Toda a acção do portador contra o sacador, contra os endossantes ou contra os demais co-obrigados, prescreve decorridos que sejam seis meses, contados do têrmo do competente prazo de apresentação fixado no artigo 12.º do presente decreto com fôrça de lei.\n\nArt. 27.º Toda a acção de um endossante contra o sacador, ou contra todos ou qualquer dos demais co-obrigados anteriores, prescreve pelo prazo de seis meses, contados do dia em que o mesmo endossante pagou ou foi definitivamente condenado a pagar a importância do cheque.\n\n§ único. Nas mesmas condições prescreve a acção do avalista que pagou o cheque, contra o sacador ou contra todos ou qualquer dos demais co-obrigados anteriores, contra os quais o mesmo avalista tenha direito de regresso.\n\nDisposições gerais\n\nArt. 28.º A capacidade jurídica de qualquer interventor no cheque é regulada pela respectiva lei nacional.\n\nArt. 29.º A constituição das obrigações emergentes do cheque é regulada pela lei do país em que tais obrigações tiverem sido contraídas.\n\n§ único. Um cheque válido segundo a lei do país em que deve ser pago é válido ainda na hipótese em que o não seja segundo a lei do país onde foi emitido.\n\nArt. 30.º A forma, os prazos e os efeitos do protesto, bem como a forma, os prazos e os efeitos de quaisquer outros actos necessários ao exercício ou conservação dos direitos em matéria de cheque, serão regulados pela lei do país em que fôr feito o protesto ou forem praticados os referidos actos tendentes ao exercício ou conservação de direitos.\n\nArt. 31.º São aplicáveis aos cheques todas as disposições relativas a letras, contidas no Código Comercial e em outros diplomas legais não revogados, que não forem contrárias nem às prescrições do presente decreto com fôrça de lei, nem à própria natureza do cheque.\n\nArt. 32.º A partir da publicação do do presente decreto com fôrça de lei, todos os cheques passados· e pagáveis no continente da República ou nas ilhas adjacentes, com excepção dos emitidos sôbre a Caixa Geral de Depósitos, pagarão o sêlo único de $02, apôsto na Casa da Moeda e Valores Selados.\n\nArt. 33.° Fica revogada a legislação em contrário e em especial o disposto nos artigos 341.º e 342.º do Código Comercial.\n\nDetermina-se portanto a todas as autoridades a quem o conhecimento e execução do presente decreto com fôrça de lei pertencer o cumpram e façam cumprir e guardar tam inteiramente como nêle se contém.\n\nOs Ministros de todas as Repartições o façam imprimir, publicar e correr. Dado nos Paços do Govêrno da República, em 12 de Janeiro de 1927. — António Óscar de Fragoso Carmona — José Ribeiro Castanho — Manuel Rodrigues Júnior — Abílio Augusto Valdês de Passos e Sousa — Jaime Afreixo — António Maria de Bettencourt Rodrigues — Júlio César de Carvalho Teixeira — João Belo — José Alfredo Mendes de Magalhães — Felisberto Alves Pedrosa."
+  },
+  "a9aacf629c44c369": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto n.º 13:004\n\nUsando da faculdade que me confere o n.º 2.º do artigo 2.º do decreto n.º 12:740, de 26 de Novembro de 1926, sob proposta dos Ministros de todas as Repartições: hei por bem decretar, para valer como lei, o seguinte:\n\nDa natureza e forma do cheque"
+  },
+  "c5b62c9b48a43439": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nToda a pessoa que tiver qualquer importância disponível num estabelecimento bancário ou numa caixa económica, legalmente autorizados, pode dispor dela por meio de um cheque."
+  },
+  "3d3826087f42676a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO cheque só pode ser pagável à vista, e deve conter:\n\n1.º O nome do estabelecimento bancário ou da caixa económica legalmente autorizada que o deva pagar;\n\n2.º O mandato puro e simples de pagar uma quantia determinada;\n\n3.º A indicação do lugar onde, e da data em que, o cheque é passado;\n\n4.º A assinatura do sacador.\n\n§ 1.º Não produzirá efeito como cheque o escrito que não fôr pagável à vista ou ao qual faltar qualquer dos requisitos exigidos neste artigo.\n\n§ 2.º A inserção da palavra «cheque» no próprio texto do escrito será considerada requisito obrigatório e essencial do cheque, findo que seja o prazo de dois anos, contados da data da publicação do presente decreto com fôrça de lei."
+  },
+  "0535efda838244ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO cheque pode ser passado a favor, ou do próprio sacador ou de um terceiro expressamente nomeado, ou à ordem dêste ou ao portador.\n\n§ 1.º Considera-se passado ao portador o cheque sem indicação do beneficiário, bem como o cheque que, embora passado a favor de um terceiro, contenha a seguir à indicação dêste a menção «ou ao portador».\n\n§ 2.º É nulo o cheque ao portador passado sôbre o próprio sacador."
+  },
+  "b2614a8afb2380ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO cheque é pagável no lugar onde é passado, salvo se no seu texto ou no lado do nome do sacado estiver indicado outro lugar para o seu pagamento."
+  },
+  "fe7d94cf0e36a1ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO cheque, cuja importância estiver escrita por extenso e em algarismos, valerá, no caso de dúvida, pela importância escrita por extenso."
+  },
+  "4c5b926742ecbd88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nExcepto o cheque ao portador, qualquer outro cheque emitido no continente da República, e pagável em outro país, nas ilhas adjacentes ou nas províncias ultramarinas, pode ser passado em mais do que um exemplar.\n\n§ 1.º Estes exemplares devem ser numerados no texto do próprio título, pois de contrário, cada um será considerado como sendo um cheque distinto.\n\n§ 2.º O pagamento feito contra um dos exemplares é liberatório, mesmo quando não esteja estipulado que êste pagamento anula o efeito dos outros.\n\nDo endôsso"
+  },
+  "f3522f032bf61def": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO cheque é sempre transmissível por ondôsso, salvo se o seu próprio texto contiver declaração expressa em contrário."
+  },
+  "a4cdad2591bb63dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO endôsso de um cheque deve ser puro e simples, considerando-se como não escrita qualquer condição a que êle esteja subordinado.\n\n§ único. São nulos:\n\na) O endôsso parcial;\n\nb) O endôsso «ao portador»;\n\nc) O endôsso feito pelo sacado."
+  },
+  "7be66cd57cf816a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO endossante que transferir diversos exemplares de um mesmo cheque a diferentes entidades, assim como os endossantes subsequentes, são responsáveis por todos os exemplares que tenham a sua assinatura e que não tenham sido restituídos.\n\nDa responsabilidade pelo pagamento do cheque"
+  },
+  "6c2d98698752ffd2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO sacador e os endossantes são solidàriamente responsáveis para com o portador do cheque pelo pagamento da importância dêste.\n\n§ 1.º O sacador do cheque não pode, em caso algum, exonerar-se desta responsabilidade, devendo considerar-se como não escrita qualquer declaração em contrário.\n\n§ 2.º Não assume a responsabilidade mencionada neste artigo o endossante que, ao seu endôsso, acrescentar as palavras «sem responsabilidade» ou «sem garantia»."
+  },
+  "ae9bab21374fc922": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO pagamento de um cheque pode ser garantido por aval.\n\n§ 1.º A simples assinatura aposta no verso de um cheque importa prestação de aval.\n\n§ 2.º Se não se achar declarada a pessoa por quem é prestado o aval, entender-se há ser pelo sacador.\n\nDo pagamento"
+  },
+  "26e2b047c19bd478": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs cheques passados e pagáveis no continente da República, e bem assim os passados e pagáveis nas ilhas adjacentes, deverão, sob pena de o portador perder o direito e acção contra os endossantes e contra os avalistas, ser apresentados ao sacado, para pagamento, dentro do prazo de dez dias, quando pagáveis no lugar onde foram passados, e dentro do prazo de vinte dias em todos os outros casos.\n\n§ único. A apresentação do cheque numa câmara de compensação, na qual o sacado tenha em conta, equivale à apresentação a pagamento."
+  },
+  "ac95008e2c310a80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA morte do sacador, ou a sua incapacidade posterior à emissão do cheque, não invalidam os efeitos dêste."
+  },
+  "1d56517a198ecea8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA revogação do mandato de pagamento, conferido por via do cheque ao sacado, só obriga êste depois de findo o competente prazo de apresentação estabelecido no artigo 12.º do presente decreto com fôrça de lei. No decurso do mesmo prazo o sacado não pode, sob pena de responder por perdas e danos, recusar o pagamento do cheque com fundamento na referida revogação.\n\n§ único. Se porém o sacador, ou o portador, tiver avisado o sacado de que o cheque se perdeu ou se encontra na posse de terceiro em consequência de um facto fraudulento, o sacado só pode pagar o cheque ao seu detentor se êste provar que o adquiriu por meios legítimos."
+  },
+  "6a2559090d70e517": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nO sacado pode exigir, no acto de pagamento do cheque, que êste lhe-seja entregue munido de recibo passado pelo portador.\n\nArt.·16.º O portador do cheque não pode exigir nem recusar qualquer pagamento parcial por conta do mesmo.\n\n§ único. No caso de pagamento parcial, o sacado pode exigir que dêsse pagamento se faça menção no cheque e que lhe seja entregue o competente recibo."
+  },
+  "35051584bbd51a7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO cheque atravessado na frente por duas linhas paralelas denomina-se «cheque cruzado» e não pode ser pago senão a um estabelecimento dos mencionados no artigo 1.º do presente decreto com força de lei.\n\n§ 1.º O cruzamento do cheque pode ser feito pelo sacador ou pelo portador.\n\n§ 2.º O cruzamento é especial ou geral respectivamente quando, entre as duas linhas paralelas que atravessam o cheque, está ou não escrito o nome de um estabelecimento bancário ou de uma caixa económica legalmente autorizados.\n\n§ 3.º O cruzamento geral pode ser convertido em cruzamento especial, mas êste não pode ser convertido em cruzamento geral.\n\n§ 4.º O cheque, contendo cruzamento especial, só pode ser pago ao estabelecimento nêle indicado, ou a outro estabelecimento da mesma natureza, ao qual aquele o tenha endossado.\n\n§ 5.º O sacado que paga um cheque, com cruzamento geral, a outrem que não seja estabelecimento bancário ou caixa económica legalmente autorizados, ou que paga um cheque, com cruzamento especial, a entidade que não seja a designada no cruzamento, ou aquela que por endôsso a substitua, é responsável pelo prejuízo que resultar do seu procedimento.\n\n§ 6.º O portador de um cheque cruzado tem o direito de o fazer visar pelo sacado, e êste, aposta a sua assinatura ou rubrica na frente do cheque, tem o direito de debitar provisòriamente a conta do sacador."
+  },
+  "4775dc16adfc1d05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO cheque que mencionar na sua frente a cláusula «para levar em conta»; inserta pelo sacador ou pelo portador, não poderá ser pago em numerário e, neste caso, a sua liquidação far-se há por lançamento de escrita a favor do portador, o que valerá como pagamento.\n\n§ único. A cláusula «para levar em conta» não pode ser revogada."
+  },
+  "569c94d45141bd27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO sacado, que não paga o cheque à sua apresentação, é obrigado a declarar por escrito o motivo da recusa, sob pena de ser considerado solidàriamente responsável, com o sacador e demais co-obrigados, pelo pagamento do cheque."
+  },
+  "159e0d599843e27d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO sacado, que indicar como motivo do não pagamento do cheque a insuficiência da provisão, é obrigado, se o portador do cheque o exigir, a declarar por escrito a importância exacta da mesma provisão, e neste caso, se o sacado não quiser entregar ao portador, nos termos do artigo 16.º do presente decreto com fôrça de lei, a provisão que o sacador tiver disponível, é o mesmo sacado obrigado a não dispor desta emquanto o sacador não provar que está desobrigado para com o portador do cheque."
+  },
+  "edc410fd07e1e98e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO portador de um cheque, que não fôr pago à sua apresentação feita nos prazos marcados no artigo 12.º do presente decreto com fôrça de lei, é obrigado a fazer verificar a apresentação e o não pagamento do cheque, sob pena de perder o direito e acção contra os endossantes e avalistas.\n\n§ único. A apresentação e o não pagamento do cheque verificar-se hão por qualquer das seguintes formas:\n\n1.ª Por um protesto lavrado nos termos aplicáveis do artigo 328.º do Código Comercial;\n\n2.ª Por uma declaração do sacado, por êle assinada, datada e escrita sôbre o cheque, com indicação do dia em que êste foi apresentado;\n\n3.ª Por uma declaração datada, duma Câmara de Compensação, da qual conste a data em que o cheque foi apresentado e o seu não pagamento."
+  },
+  "24ec2ace51ca6e73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nA verificação da apresentação e do não pagamento do cheque por qualquer das formas indicadas no artigo antecedente deve ser feita no próprio dia da apresentação ou no seguinte útil, mas sempre antes de expirar o prazo, de apresentação do cheque, fixado no artigo 12.º do presente decreto com fôrça de lei."
+  },
+  "a21042a84f1315a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nÉ considerada criminosa a emissão de um cheque que, apresentado a pagamento no competente prazo do artigo 12.º do presente decreto com fôrça de lei, não fôr integralmente pago por falta de provisão."
+  },
+  "46d0cd400789f340": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": "1981-08-21",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 25/81](https://diariodarepublica.pt/dr/detalhe/lei/25-1981-575917), publicado em 1981-08-21."
+   ],
+   "markdown": "###### Artigo 24.º\n\nO sacador de cheque cujo não pagamento por falta de provisão tiver sido verificado nos termos e prazo prescritos nos artigos 28.º e 29.º da lei uniforme relativa aos cheques, a pedido do respectivo portador, será punido com prisão e multa ou com prisão maior de dois a oito anos, consoante o valor do cheque for igual ou inferior a 50000$00 ou superior a esta quantia.\n\n§ 1.º O sacador de cheque nas condições do corpo do artigo que efectuar voluntariamente o pagamento do respectivo montante e dos correspondentes juros moratórios, acrescidos, a título de indemnização, da diferença para o resultado da aplicação ao montante do cheque, e pelo tempo de mora, da mais alta taxa de juro praticada no momento do pagamento ou do depósito pela banca portuguesa para as operações activas de crédito, directamente ao respectivo credor, por depósito à ordem do juiz do processo ou, não existindo este, por consignação em depósito à ordem do credor, se este recusar receber ou dar quitação, em qualquer caso dentro do prazo de trinta dias a contar da respectiva apresentação a pagamento será isento de pena, com custas judiciais e imposto de justiça a seu cargo.\n\n§ 2.º Decorrido o prazo previsto no parágrafo anterior, o pagamento ou os depósitos ali previstos, efectuados até ao encerramento da discussão da causa, determinarão a suspensão da pena que no caso couber.\n\n§ 3.º O disposto nos parágrafos anteriores não se aplica aos reincidentes nem aos que já tiverem beneficiado do regime ali consagrado, nem prejudica o regime previsto para o perdão.\n\n§ 4.º A aplicação da pena prevista no corpo do artigo não isenta o sacador do cheque da responsabilidade civil ou de qualquer outra em que por disposição especial, possa incorrer.\n\n§ 5.º Em caso de reincidência, o tribunal aplicará ao sacador a medida de inibição do uso de cheque pelo período de seis meses a dois anos.\n\n§ 6.º A pessoa objecto da medida referida no parágrafo anterior só poderá movimentar contas de depósito durante o período da inibição mediante a utilização de cheques avulsos previamente visados pela instituição de crédito respectiva.\n\n§ 7.º Compete ao procurador-geral da República conceder o perdão nos casos em que o Estado seja lesado pela infracção prevista no corpo do artigo, ouvido o departamento respectivo.\n\n> Alterado pelo/a [Lei n.º 25/81](https://diariodarepublica.pt/dr/detalhe/lei/25-1981-575917), publicado em 1981-08-21."
+  },
+  "729cea1b54e4e119": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nO portador de um cheque não pago, que tenha sido apresentado a pagamento fora do prazo competente, nos termos do artigo 12.º do presente decreto com fôrça de lei, ou cuja apresentação e não pagamento não tiverem sido verificados no prazo e termos prescritos nos artigos 21.º e 22.º do mesmo decreto, não tem outro direito além do de pedir ao sacador do cheque o embôlso da importância dêste que lhe não tiver sido paga pelo sacado.\n\nDa prescrição de acções"
+  },
+  "f9c3f3c3fea981ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nToda a acção do portador contra o sacador, contra os endossantes ou contra os demais co-obrigados, prescreve decorridos que sejam seis meses, contados do têrmo do competente prazo de apresentação fixado no artigo 12.º do presente decreto com fôrça de lei."
+  },
+  "3bc77f4644b542bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nToda a acção de um endossante contra o sacador, ou contra todos ou qualquer dos demais co-obrigados anteriores, prescreve pelo prazo de seis meses, contados do dia em que o mesmo endossante pagou ou foi definitivamente condenado a pagar a importância do cheque.\n\n§ único. Nas mesmas condições prescreve a acção do avalista que pagou o cheque, contra o sacador ou contra todos ou qualquer dos demais co-obrigados anteriores, contra os quais o mesmo avalista tenha direito de regresso.\n\nDisposições gerais"
+  },
+  "d940530f3d43f282": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nA capacidade jurídica de qualquer interventor no cheque é regulada pela respectiva lei nacional."
+  },
+  "637e34d3ce9c48c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nA constituição das obrigações emergentes do cheque é regulada pela lei do país em que tais obrigações tiverem sido contraídas.\n\n§ único. Um cheque válido segundo a lei do país em que deve ser pago é válido ainda na hipótese em que o não seja segundo a lei do país onde foi emitido."
+  },
+  "972edd5a163e7cfc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nA forma, os prazos e os efeitos do protesto, bem como a forma, os prazos e os efeitos de quaisquer outros actos necessários ao exercício ou conservação dos direitos em matéria de cheque, serão regulados pela lei do país em que fôr feito o protesto ou forem praticados os referidos actos tendentes ao exercício ou conservação de direitos."
+  },
+  "77a62c882d42852c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nSão aplicáveis aos cheques todas as disposições relativas a letras, contidas no Código Comercial e em outros diplomas legais não revogados, que não forem contrárias nem às prescrições do presente decreto com fôrça de lei, nem à própria natureza do cheque."
+  },
+  "41c625c1518d5372": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nA partir da publicação do do presente decreto com fôrça de lei, todos os cheques passados· e pagáveis no continente da República ou nas ilhas adjacentes, com excepção dos emitidos sôbre a Caixa Geral de Depósitos, pagarão o sêlo único de $02, apôsto na Casa da Moeda e Valores Selados."
+  },
+  "2aa6c89363120c7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.°",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.°\n\nFica revogada a legislação em contrário e em especial o disposto nos artigos 341.º e 342.º do Código Comercial.\n\nDetermina-se portanto a todas as autoridades a quem o conhecimento e execução do presente decreto com fôrça de lei pertencer o cumpram e façam cumprir e guardar tam inteiramente como nêle se contém.\n\nOs Ministros de todas as Repartições o façam imprimir, publicar e correr. Dado nos Paços do Govêrno da República, em 12 de Janeiro de 1927. — António Óscar de Fragoso Carmona — José Ribeiro Castanho — Manuel Rodrigues Júnior — Abílio Augusto Valdês de Passos e Sousa — Jaime Afreixo — António Maria de Bettencourt Rodrigues — Júlio César de Carvalho Teixeira — João Belo — José Alfredo Mendes de Magalhães — Felisberto Alves Pedrosa."
+  }
+ }
+}

@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-12-31'
+version_history:
+  file: decreto-regulamentar-16-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-03-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-12-31'
+    amending: pt:dre:276611:por
+    amending_title: Decreto Regulamentar n.º 88/77
+    changes:
+    - Altera Artigo 15.º
+    - Altera Artigo 23.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:56:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 88/77. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1977/decreto-regulamentar-16-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,7 +132,9 @@ de 2 de Março
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição e do artigo 3.º do [Decreto-Lei n.º 632/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/632-1976-430864), de 28 de Julho, o seguinte:
 
-Artigo 1.º O Instituto Nacional da Propriedade Industrial (INPI), criado no âmbito do Ministério do Comércio Externo pelo [Decreto-Lei n.º 632/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/632-1976-430864), de 28 de Julho, terá as seguintes atribuições:
+###### Artigo 1.º
+
+O Instituto Nacional da Propriedade Industrial (INPI), criado no âmbito do Ministério do Comércio Externo pelo [Decreto-Lei n.º 632/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/632-1976-430864), de 28 de Julho, terá as seguintes atribuições:
 
 a) Assegurar de forma eficaz e dinâmica a actividade conducente à atribuição, registo e protecção dos direitos de propriedade industrial, contribuindo deste modo para garantir a lealdade da concorrência;
 
@@ -136,7 +154,9 @@ h) Estimular a constituição e dilatação das denominações de origem de prod
 
 i) Instituir a publicação de uma revista sobre propriedade industrial com informação e análise de acordos e convenções internacionais de direito comparado, doutrina, jurisprudência e de outros estudos.
 
-Art. 2.º - 1. O INPI, que será dirigido por um director, englobará os seguintes serviços:
+###### Artigo 2.º
+
+1. O INPI, que será dirigido por um director, englobará os seguintes serviços:
 
 a) Direcção de Serviços de Patentes;
 
@@ -148,7 +168,9 @@ d) Direcção de Serviços de Recursos e Ilícitos.
 
 2. O INPI disporá de um conselho administrativo e de uma comissão de gestão do pessoal.
 
-Art. 3.º Ao director compete:
+###### Artigo 3.º
+
+Ao director compete:
 
 a) Orientar os trabalhos do INPI, promover a estruturação dos novos serviços, no âmbito deste diploma, e velar pela regularidade do seu funcionamento;
 
@@ -160,7 +182,9 @@ d) Propor superiormente a cooperação que for entendida conveniente entre o INP
 
 e) Designar, ouvido o conselho administrativo, os representantes do INPI às reuniões nacionais e internacionais sobre as matérias relacionadas com cada um dos serviços.
 
-Art. 4.º A Direcção de Serviços de Patentes distribui-se por duas divisões e uma repartição:
+###### Artigo 4.º
+
+A Direcção de Serviços de Patentes distribui-se por duas divisões e uma repartição:
 
 a) A Divisão das Patentes, que abrange a actividade técnica e burocrática relativa a invenções, modelos de utilidade e novas patentes;
 
@@ -168,65 +192,105 @@ b) A Divisão dos Modelos e Desenhos, que abrange a actividade técnica e burocr
 
 c) A Repartição de Informação Tecnológica, que abrange a actividade técnica e burocrática necessária à colaboração com os departamentos do Ministério da Indústria e Tecnologia que se ocuparem da informação técnica e das transferências de tecnologia.
 
-Art. 5.º A Direcção de Serviços de Marcas distribui-se por duas divisões:
+###### Artigo 5.º
+
+A Direcção de Serviços de Marcas distribui-se por duas divisões:
 
 a) A Divisão das Marcas Nacionais, que abrange as marcas e as denominações de origem nacionais e os nomes e insígnias de estabelecimento, bem como as recompensas;
 
 b) A Divisão das Marcas Internacionais, que compreende as marcas e as denominações de origem internacionais.
 
-Art. 6.º - 1. Compete aos serviços das divisões mencionadas nos artigos 4.º e 5.º, além das atribuições contidas no artigo 231.º do Código da Propriedade Industrial, a execução das actividades que, da estruturação e modernização dos serviços existentes e da estruturação dos novos serviços, lhes venham a ser atribuídas por despacho do Ministro do Comércio e Turismo.
+###### Artigo 6.º
+
+1. Compete aos serviços das divisões mencionadas nos artigos 4.º e 5.º, além das atribuições contidas no artigo 231.º do Código da Propriedade Industrial, a execução das actividades que, da estruturação e modernização dos serviços existentes e da estruturação dos novos serviços, lhes venham a ser atribuídas por despacho do Ministro do Comércio e Turismo.
 
 2. Compete à Repartição de Informação Tecnológica, referida no artigo 4.º, independentemente de outras fórmulas de colaboração que forem acordadas, assegurar ao Ministério da Indústria e Tecnologia o acesso directo ao fundo documental das patentes nacionais e estrangeiras por forma que este Ministério, através do Gabinete de Formação e Informação Técnica, possa garantir às empresas, aos centros de investigação e a outros interessados o fornecimento da informação contida nas patentes.
 
-Art. 7.º Compete aos chefes das divisões mencionadas nos artigos 4.º e 5.º, além das atribuições contidas no artigo 232.º do Código da Propriedade Industrial, estudar e propor superiormente as medidas administrativas a adoptar para a estruturação e funcionamento das novas actividades que por execução do presente diploma forem incluídas nas respectivas divisões.
+###### Artigo 7.º
 
-Art. 8.º Aos directores de serviço de marcas e patentes compete, além das atribuições contidas nos artigos 233.º e 234.º do Código da Propriedade Industrial, coordenar as actividades das divisões dependentes, quer em relação aos serviços em funcionamento, quer respeitantes às novas actividades a desenvolver das direcções de serviços, bem como colaborar com o director na elaboração das propostas de estruturação progressiva do INPI.
+Compete aos chefes das divisões mencionadas nos artigos 4.º e 5.º, além das atribuições contidas no artigo 232.º do Código da Propriedade Industrial, estudar e propor superiormente as medidas administrativas a adoptar para a estruturação e funcionamento das novas actividades que por execução do presente diploma forem incluídas nas respectivas divisões.
 
-Art. 9.º A Direcção de Serviços Administrativos, Financeiros e de Documentação e Informação distribui-se por:
+###### Artigo 8.º
+
+Aos directores de serviço de marcas e patentes compete, além das atribuições contidas nos artigos 233.º e 234.º do Código da Propriedade Industrial, coordenar as actividades das divisões dependentes, quer em relação aos serviços em funcionamento, quer respeitantes às novas actividades a desenvolver das direcções de serviços, bem como colaborar com o director na elaboração das propostas de estruturação progressiva do INPI.
+
+###### Artigo 9.º
+
+A Direcção de Serviços Administrativos, Financeiros e de Documentação e Informação distribui-se por:
 
 a) Uma Divisão de Documentação e Informação, que abrange a actividade de documentação e preparação do Boletim da Propriedade Industrial e sua impressão;
 
 b) Uma Repartição Administrativa e Financeira, que abrange a promoção e a execução da actividade do Instituto nos domínios administrativos e financeiros em conformidade com o disposto na lei geral e com as normas específicas contidas neste diploma ou que venham a ser determinadas.
 
-Art. 10.º - 1. A Direcção de Serviços de Recursos e Ilícitos compreende a Divisão de Recursos e a Divisão de Inspecção.
+###### Artigo 10.º
+
+1. A Direcção de Serviços de Recursos e Ilícitos compreende a Divisão de Recursos e a Divisão de Inspecção.
 
 2. A Divisão de Recursos disporá de uma Secção de Processos.
 
-Art. 11.º A Divisão de Recursos instruirá os recursos de todas as decisões que forem da competência dos directores de Serviços de Patentes e de Marcas e submetê-los-á à apreciação do director de Serviços de Recursos e Ilícitos.
+###### Artigo 11.º
 
-Art. 12.º Da decisão da Direcção de Serviços de Recursos e Ilícitos poderão as partes recorrer nos termos do Código da Propriedade Industrial.
+A Divisão de Recursos instruirá os recursos de todas as decisões que forem da competência dos directores de Serviços de Patentes e de Marcas e submetê-los-á à apreciação do director de Serviços de Recursos e Ilícitos.
 
-Art. 13.º A Secção de Processos terá competência para praticar os actos de secretaria relativos a cada recurso que for interposto.
+###### Artigo 12.º
 
-Art. 14.º - 1. A Divisão de Inspecção, que será chefiada por um juiz de instrução, terá competência para instruir todos os processos de carácter penal relativos à propriedade industrial, que funcionarão como corpo de delitos e serão remetidos para os tribunais criminais com competência para o respectivo julgamento.
+Da decisão da Direcção de Serviços de Recursos e Ilícitos poderão as partes recorrer nos termos do Código da Propriedade Industrial.
+
+###### Artigo 13.º
+
+A Secção de Processos terá competência para praticar os actos de secretaria relativos a cada recurso que for interposto.
+
+###### Artigo 14.º
+
+1. A Divisão de Inspecção, que será chefiada por um juiz de instrução, terá competência para instruir todos os processos de carácter penal relativos à propriedade industrial, que funcionarão como corpo de delitos e serão remetidos para os tribunais criminais com competência para o respectivo julgamento.
 
 2. O juiz-chefe da Divisão de Inspecção terá, relativamente aos processos referidos, os poderes que competem aos demais juízes de instrução e, designadamente, os necessários para ordenar as diligências referidas no artigo 228.º do Código da Propriedade Industrial.
 
-Art. 15.º - 1. O conselho administrativo é constituído pelo director do INPI, pelos directores de serviço e por um representante do Tribunal de Contas.
+###### Artigo 15.º
+
+1 - O conselho administrativo é constituído pelo director do INPI e pelos directores de serviço.
 
 2. O conselho será responsável pela gestão de fundos e prestação de contas, de acordo com as regras gerais da contabilidade pública
 
-Art. 16.º - 1. A comissão de gestão do pessoal é presidida pelo director do INPI e integrará paritariamente os directores de serviço e representantes eleitos dos funcionários.
+> Alterado pelo/a [Decreto Regulamentar n.º 88/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/88-1977-276611), publicado em 1977-12-31.
+
+###### Artigo 16.º
+
+1. A comissão de gestão do pessoal é presidida pelo director do INPI e integrará paritariamente os directores de serviço e representantes eleitos dos funcionários.
 
 2. Esta comissão será ouvida em todos os assuntos de gestão do pessoal.
 
-Art. 17.º O INPI disporá do pessoal constante do quadro anexo.
+###### Artigo 17.º
 
-Art. 18.º O quadro referido no artigo antecedente poderá ser alterado por portaria dos Ministros do Comércio e Turismo, da Administração Interna e das Finanças.
+O INPI disporá do pessoal constante do quadro anexo.
 
-Art. 19.º O pessoal do quadro do INPI será distribuído pelos respectivos serviços mediante despacho do director, ouvida a comissão de gestão do pessoal.
+###### Artigo 18.º
 
-Art. 20.º - 1. O provimento do pessoal do quadro será feito por nomeação, salvo os casos de provimento por contrato nos termos da lei geral.
+O quadro referido no artigo antecedente poderá ser alterado por portaria dos Ministros do Comércio e Turismo, da Administração Interna e das Finanças.
+
+###### Artigo 19.º
+
+O pessoal do quadro do INPI será distribuído pelos respectivos serviços mediante despacho do director, ouvida a comissão de gestão do pessoal.
+
+###### Artigo 20.º
+
+1. O provimento do pessoal do quadro será feito por nomeação, salvo os casos de provimento por contrato nos termos da lei geral.
 
 2. As nomeações feitas nos termos do número anterior terão carácter provisório durante dois anos, findos os quais o funcionário será provido definitivamente se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
 3. O número anterior não se aplica aos funcionários que, em provimento definitivo, já prestarem serviço ao Estado há mais de dois anos.
 
-Art. 21.º O director será nomeado em comissão de serviço por tempo indeterminado pelo Ministro do Comércio e Turismo de entre licenciados com curso superior adequado ao desempenho das respectivas funções e comprovada experiência em propriedade industrial.
+###### Artigo 21.º
 
-Art. 22.º Os directores de serviço, chefes de divisão e chefes de repartição serão nomeados pelo Ministro do Comércio e Turismo, sob proposta do director, de entre licenciados com curso superior adequado ao desempenho das respectivas funções e comprovada experiência em propriedade industrial.
+O director será nomeado em comissão de serviço por tempo indeterminado pelo Ministro do Comércio e Turismo de entre licenciados com curso superior adequado ao desempenho das respectivas funções e comprovada experiência em propriedade industrial.
 
-Art. 23.º - 1. Por despacho do Ministro do Comércio e Turismo, sob proposta do director, e ouvida a comissão de gestão do pessoal, serão providos os restantes lugares do quadro, de harmonia com as seguintes condições:
+###### Artigo 22.º
+
+Os directores de serviço, chefes de divisão e chefes de repartição serão nomeados pelo Ministro do Comércio e Turismo, sob proposta do director, de entre licenciados com curso superior adequado ao desempenho das respectivas funções e comprovada experiência em propriedade industrial.
+
+###### Artigo 23.º
+
+1. Por despacho do Ministro do Comércio e Turismo, sob proposta do director, e ouvida a comissão de gestão do pessoal, serão providos os restantes lugares do quadro, de harmonia com as seguintes condições:
 
 a) Técnicos principais e técnicos de 1.ª classe, de entre, respectivamente, técnicos de 1.ª e 2.ª classes;
 
@@ -242,7 +306,7 @@ f) Técnicos auxiliares de 2.ª classe, de entre indivíduos que hajam concluíd
 
 g) Terceiros-oficiais, por concurso de prestação de provas, de entre indivíduos que possuam a habilitação do curso geral dos liceus ou equiparada e escriturários-dactilógrafos que possuam a escolaridade obrigatória segundo a idade do concorrente, com três anos de bom e efectivo serviço na categoria;
 
-h) Chefes de secção de composição, de entre os impressores, com pelo menos, três anos de bom e efectivo serviço na categoria;
+h) Chefes de secção de composição, de entre os arquivistas de 1.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria.
 
 i) Arquivistas de 1.ª classe, de entre arquivistas de 2.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria;
 
@@ -258,19 +322,31 @@ m) Impressores, por concurso de prestação de provas, de entre indivíduos habi
 
 4. O Ministro do Comércio e Turismo poderá condicionar o provimento dos lugares do quadro à realização de concursos ou de cursos de promoção de harmonia com as condições julgadas convenientes.
 
-Art. 24.º - 1. Os funcionários do quadro do INPI poderão ser mandados desempenhar, em comissão de serviço, por tempo indeterminado, funções noutros serviços do Estado, no País ou no estrangeiro, bem como em organizações internacionais.
+> Alterado pelo/a [Decreto Regulamentar n.º 88/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/88-1977-276611), publicado em 1977-12-31.
+
+###### Artigo 24.º
+
+1. Os funcionários do quadro do INPI poderão ser mandados desempenhar, em comissão de serviço, por tempo indeterminado, funções noutros serviços do Estado, no País ou no estrangeiro, bem como em organizações internacionais.
 
 2. O tempo de serviço prestado pelos funcionários nas condições referidas no número anterior contará, para todos os efeitos, como se tivesse sido prestado no quadro do INPI.
 
-Art. 25.º O Ministro do Comércio e Turismo poderá autorizar que seja contratado, além do quadro, pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, com acordo do Ministério das Finanças, e com respeito da regulamentação relativa a excedentes de pessoal na função pública.
+###### Artigo 25.º
 
-Art. 26.º - 1. O primeiro provimento dos lugares do quadro de pessoal do INPI poderá ser feito directamente para qualquer das categorias, nos termos referidos no n.º 1 do artigo 23.º, sem dependência de tempo de serviço anteriormente prestado e sem prejuízo das habilitações exigíveis.
+O Ministro do Comércio e Turismo poderá autorizar que seja contratado, além do quadro, pessoal técnico ou administrativo destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços, com acordo do Ministério das Finanças, e com respeito da regulamentação relativa a excedentes de pessoal na função pública.
+
+###### Artigo 26.º
+
+1. O primeiro provimento dos lugares do quadro de pessoal do INPI poderá ser feito directamente para qualquer das categorias, nos termos referidos no n.º 1 do artigo 23.º, sem dependência de tempo de serviço anteriormente prestado e sem prejuízo das habilitações exigíveis.
 
 2. Os trabalhadores ao serviço da Repartição da Propriedade Industrial serão prioritariamente providos nos novos lugares mediante lista ou listas nominativas, aprovadas pelo Ministro do Comércio e Turismo, visadas pelo Tribunal de Contas e publicadas no Diário da República, considerando-se investidos nos respectivos lugares a partir da data da publicação destas listas, com dispensa de quaisquer outros requisitos ou formalidades.
 
-Art. 27.º As taxas previstas nas tabelas anexas ao Código da Propriedade Industrial são satisfeitas em estampilhas fiscais.
+###### Artigo 27.º
 
-Art. 28.º Constituem receitas do INPI:
+As taxas previstas nas tabelas anexas ao Código da Propriedade Industrial são satisfeitas em estampilhas fiscais.
+
+###### Artigo 28.º
+
+Constituem receitas do INPI:
 
 a) As dotações que lhe forem atribuídas pelo Estado;
 
@@ -280,11 +356,17 @@ c) As que resultarem da participação do INPI nos organismos nacionais e intern
 
 d) As importâncias relativas a serviços prestados pelo INPI não previstas nas tabelas a que se refere o artigo anterior.
 
-Art. 29.º As verbas referidas nas alíneas b), c) e d) do artigo anterior serão depositadas na Caixa Geral de Depósitos e utilizadas na execução do orçamento anualmente elaborado e aprovado pelo Ministro.
+###### Artigo 29.º
 
-Art. 30.º As despesas resultantes da execução deste diploma serão satisfeitas pelas verbas inscritas no Orçamento Geral do Estado para esse fim.
+As verbas referidas nas alíneas b), c) e d) do artigo anterior serão depositadas na Caixa Geral de Depósitos e utilizadas na execução do orçamento anualmente elaborado e aprovado pelo Ministro.
 
-Art. 31.º A execução deste diploma, nomeadamente a estruturação dos serviços, será promovida sistematicamente por despacho do Ministro do Comércio e Turismo sob proposta do director.
+###### Artigo 30.º
+
+As despesas resultantes da execução deste diploma serão satisfeitas pelas verbas inscritas no Orçamento Geral do Estado para esse fim.
+
+###### Artigo 31.º
+
+A execução deste diploma, nomeadamente a estruturação dos serviços, será promovida sistematicamente por despacho do Ministro do Comércio e Turismo sob proposta do director.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - António de Almeida Santos - Henrique Medina Carreira - António Miguel Morais Barreto.
 

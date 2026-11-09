@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-11-03'
+version_history:
+  file: decreto-legislativo-regional-13-86-a-196244.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-04-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-11-03'
+    amending: pt:dre:550047:por
+    amending_title: Decreto Legislativo Regional n.º 18/89/A
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:17:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    18/89/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1986/decreto-legislativo-regional-13-86-a-196244.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,21 +153,39 @@ Assim:
 
 A Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-Artigo 1.º O ensino teórico, técnico e prático da condução de veículos automóveis é considerado de interesse público, só podendo ser exercido na Região Autónoma dos Açores em escolas de condução sob regime de licença titulada por alvará ou por instrutores por conta própria dentro do condicionalismo previsto no presente diploma.
+###### Artigo 1.º
 
-Art. 2.º Na Região Autónoma dos Açores, nos concelhos cuja população não atinja o nível legalmente fixado, apenas poderá ser autorizada a instalação de uma escola de condução.
+O ensino teórico, técnico e prático da condução de veículos automóveis é considerado de interesse público, só podendo ser exercido na Região Autónoma dos Açores em escolas de condução sob regime de licença titulada por alvará ou por instrutores por conta própria dentro do condicionalismo previsto no presente diploma.
 
-Art. 3.º Nas ilhas onde não existam escolas de condução poderá ser licenciada a actividade de ensino de condução automóvel, através de um instrutor por conta própria, em cada concelho.
+###### Artigo 2.º
 
-Art. 4.º - 1 - A licença de instrutores por conta própria é pessoal e intransmissível, caducando por óbito do seu titular, e permite exercer essa actividade no concelho que constar da respectiva licença, bem como nos concelhos limítrofes, enquanto nos mesmos não existirem instrutores por conta própria.
+1 - Na Região Autónoma dos Açores, nos concelhos cuja população não atinja o nível legalmente fixado, apenas poderá ser autorizada a instalação de uma escola de condução.
+
+2 - Por despacho do secretário regional da tutela, sob proposta do director regional de Transportes Terrestres, poderão ser concedidos alvarás, independentemente do condicionalismo escola/população, desde que tal se mostre adequado à configuração apresentada pela procura previsível.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 18/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-1989-550047), publicado em 1989-11-03.
+
+###### Artigo 3.º
+
+Nas ilhas onde não existam escolas de condução poderá ser licenciada a actividade de ensino de condução automóvel, através de um instrutor por conta própria, em cada concelho.
+
+###### Artigo 4.º
+
+1 - A licença de instrutores por conta própria é pessoal e intransmissível, caducando por óbito do seu titular, e permite exercer essa actividade no concelho que constar da respectiva licença, bem como nos concelhos limítrofes, enquanto nos mesmos não existirem instrutores por conta própria.
 
 2 - A licença a que se refere o número anterior caduca ainda quando o instrutor por conta própria venha a ser titular, sócio, gerente ou administrador de entidade titular de alvará de escola de condução ou desempenhe funções de instrutor ou director numa escola de condução.
 
-Art. 5.º Podem ser licenciados, no máximo, um motociclo, um automóvel ligeiro, um pesado e um tractor para a instrução por cada instrutor por conta própria.
+###### Artigo 5.º
 
-Art. 6.º Os instrutores por conta própria não podem ter ao seu serviço quaisquer instrutores, onerosa ou gratuitamente. Poderão, porém, em caso de força maior devidamente justificado, ser temporariamente substituídos por titular de licença de instrutor, devendo a substituição ser comunicada, acompanhada de justificação, no prazo de cinco dias, à Direcção Regional dos Transportes Terrestres.
+Podem ser licenciados, no máximo, um motociclo, um automóvel ligeiro, um pesado e um tractor para a instrução por cada instrutor por conta própria.
 
-Art. 7.º - 1 - Quando requerida a instalação de uma escola de condução para um concelho onde esteja já licenciado um instrutor por conta própria, será este consultado para optar, no prazo de 30 dias, por uma das alternativas seguintes:
+###### Artigo 6.º
+
+Os instrutores por conta própria não podem ter ao seu serviço quaisquer instrutores, onerosa ou gratuitamente. Poderão, porém, em caso de força maior devidamente justificado, ser temporariamente substituídos por titular de licença de instrutor, devendo a substituição ser comunicada, acompanhada de justificação, no prazo de cinco dias, à Direcção Regional dos Transportes Terrestres.
+
+###### Artigo 7.º
+
+1 - Quando requerida a instalação de uma escola de condução para um concelho onde esteja já licenciado um instrutor por conta própria, será este consultado para optar, no prazo de 30 dias, por uma das alternativas seguintes:
 
 a) Continuar a ministrar o ensino na área a que respeitar a licença;
 
@@ -162,13 +195,19 @@ c) Requerer, individual ou colectivamente, a montagem de escola de condução pa
 
 2 - A opção referida na alínea c) do número anterior implica indeferimento do pedido inicial que motivou a consulta.
 
-Art. 8.º - 1 - A infracção ao disposto no artigo 4.º constitui contra-ordenação punível com coima de 15000$00 a 75000$00.
+###### Artigo 8.º
+
+1 - A infracção ao disposto no artigo 4.º constitui contra-ordenação punível com coima de 15000$00 a 75000$00.
 
 2 - A infracção ao disposto no artigo 6.º constitui contra-ordenação punível com coima de 15000$00 a 75000$00, aplicável a quem ministrar o ensino, e cancelamento da licença de instrutor por conta própria.
 
-Art. 9.º Em tudo o mais, à actividade dos instrutores por conta própria são aplicáveis, com as devidas adaptações, as disposições do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, com excepção do seu artigo 56.º e os regulamentos relativos às escolas de condução.
+###### Artigo 9.º
 
-Art. 10.º O presente diploma entra em vigor na data da sua publicação.
+Em tudo o mais, à actividade dos instrutores por conta própria são aplicáveis, com as devidas adaptações, as disposições do [Decreto-Lei n.º 6/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1982-553008), de 12 de Janeiro, com excepção do seu artigo 56.º e os regulamentos relativos às escolas de condução.
+
+###### Artigo 10.º
+
+O presente diploma entra em vigor na data da sua publicação.
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 5 de Março de 1986.
 

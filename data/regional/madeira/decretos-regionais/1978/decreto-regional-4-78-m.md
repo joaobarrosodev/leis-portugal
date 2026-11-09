@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-10-09'
+version_history:
+  file: decreto-regional-4-78-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-02-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-10-09'
+    amending: pt:dre:222443:por
+    amending_title: Decreto Legislativo Regional n.º 24/86/M
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:43:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    24/86/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regionais/1978/decreto-regional-4-78-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,13 +130,25 @@ Considerando que, embora a actual legislação permita a destruição dos animai
 
 Assim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional da Região Autónoma da Madeira aprova, para valer como decreto regional, o seguinte:
 
-Artigo 1.º Fica autorizada na Região Autónoma da Madeira a caça ao coelho bravo, dentro dos terrenos cultivados, durante todo o ano.
+###### Artigo 1.º
 
-Art. 2.º A faculdade do artigo anterior é apenas atribuída ao dono do terreno ou a quem o cultiva.
+1 - Fica autorizada na Região Autónoma da Madeira a caça ao coelho bravo, dentro dos terrenos cultivados, durante todo o ano, do nascer ao pôr do Sol.
 
-Art. 3.º Mantém-se em vigor a demais legislação aplicável.
+2 - Os animais abatidos ou capturados nestas circunstâncias não poderão ser transportados em terrenos de caça em período de defeso, só podendo fazê-lo na via pública entre o nascer e o pôr do Sol.
 
-Art. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+> Alterado pelo/a [Decreto Legislativo Regional n.º 24/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1986-222443), publicado em 1986-10-09.
+
+###### Artigo 2.º
+
+A faculdade do artigo anterior é apenas atribuída ao dono do terreno ou a quem o cultiva.
+
+###### Artigo 3.º
+
+Mantém-se em vigor a demais legislação aplicável.
+
+###### Artigo 4.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em 3 de Janeiro de 1978.
 

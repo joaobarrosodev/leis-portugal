@@ -1,0 +1,805 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:445772:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-03-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a118efdf4890a856",
+    "dd5429797e0a7048",
+    "b86be280194ed856",
+    "d79a52e2edb02378",
+    "806f3ef7e9d3f4f1",
+    "ff668e91deabb015",
+    "c2d5706c4bbe3fc9",
+    "9956e04a6d381f23",
+    "c4dd07108a9af5f5",
+    "576cac14e6ad7d97",
+    "8187d7ad88dd9fbc"
+   ]
+  },
+  {
+   "date": "1973-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:422218:por",
+     "title": "Decreto n.º 253/73",
+     "published": "1973-05-18",
+     "dre_path": "/dr/detalhe/decreto/253-1973-422218"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "a118efdf4890a856",
+    "23836370ae405d04",
+    "b63c4229c2c867d4",
+    "637b6876e45f1afa",
+    "885ce57d651ee1fd",
+    "52b84e902dd6600e",
+    "b5d9b78d040f41ad",
+    "fad86327992b1fab",
+    "c3e76a9e73cec594",
+    "d9ea1e00cef193b9",
+    "55d751d1f36f5c66",
+    "1b10a20ed9fd12fa",
+    "8815490b9f250913",
+    "877cad68e43983c1",
+    "7841e9b7d2a58694",
+    "de4e96fd6cfb938c",
+    "dde7531051cf304c",
+    "e5aaef956576f572",
+    "3ef44f3041a13bda",
+    "9befa143e35c2ef7",
+    "02e1e194b83e6405",
+    "7db442d8d1903459",
+    "439a0f8652a31fa5",
+    "c1fd3fe80263efa1",
+    "e488d4455c3eac2e",
+    "5f53f4ce63c3318a",
+    "1c21f073cffb219e",
+    "9b1d92fd6059e2a1",
+    "194e54dc621f3180",
+    "0f8baecc9a48fd23",
+    "8cf7ee1693c3fde1",
+    "7e1536e7f43da179",
+    "726075db6c3b2e22",
+    "8ca7c6043e97d7d3",
+    "07295bd365475fd4",
+    "2e0f1ea3e663484b",
+    "bf5624c5433860a0",
+    "71dd7ee17384fc3e",
+    "9925b902f126e4ad",
+    "ef105b501fb1ae72",
+    "eea0e86826ed392e",
+    "ba7300793cfd14cb",
+    "89848355b8e9434e",
+    "93cbf98ba28bb143",
+    "4870e8a8061cc998",
+    "84095f7af280021b",
+    "3f6edfc7ad7f9cf1",
+    "24914d3990e76ab5",
+    "d2fe7c0897b2ae73",
+    "e15bb890fc5c9a79",
+    "2ec6959d37683afd",
+    "26184d19a3e8ff91",
+    "3881908aba6b07d7",
+    "6e3f7431112b55e4",
+    "daa317a24aa68960",
+    "f70da997630a15c7",
+    "341b4f67e8773e83",
+    "1299e67ab7bb5e13",
+    "0d2a0b6aca27a12d",
+    "f846d03d05979178",
+    "40f25e7eb38086b8",
+    "b30181c1418e48b2",
+    "9e144784dae75f50",
+    "73d9698e3c37ca88",
+    "a4a8376f01861289",
+    "9fd1579b6e0e2057",
+    "12bf437a235a4d3b",
+    "c4234d5cc70a6ddc",
+    "2c38649decae81ca",
+    "f9ca5e47b4659280",
+    "f1a51bf1a1a525d3",
+    "4c89b444362de974",
+    "e95f365ad371a8e5",
+    "15ddfa89c1ea6b11",
+    "2291738446d474f4",
+    "8187d7ad88dd9fbc"
+   ]
+  }
+ ],
+ "fragments": {
+  "a118efdf4890a856": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Março\n\nO presente diploma tem por finalidade a reestruturação orgânica da Junta Autónoma dos Portos de Cabo Verde, criada pelo Diploma Legislativo Ministerial n.º 11, de 5 de Setembro de 1962, por forma a actualizar o seu funcionamento com base na experiência colhida na exploração e administração dos portos não só de Cabo Verde como de outras províncias ultramarinas.\n\nA promulgação deste decreto insere-se, assim, na sequência de uma política de conjunto, que visa à uniformização, tão aproximada quanto possível, dos diplomas orgânicos de todos os portos ultramarinos dotados de interesse comercial.\n\nAssim, há vantagem de se adoptar orientação semelhante quanto à estruturação de todas as juntas autónomas criadas e a criar.\n\nQuanto às normas da sua administração financeira, alia-se a possibilidade de promover o recrutamento de técnicos e dirigentes, de modo a criar um quadro comum de pessoal altamente competente e especializado. A este pessoal se procura garantir não só uma permanente actualização de conhecimentos como também um nível conveniente de remunerações.\n\nA orgânica agora estabelecida para a Junta Autónoma dos Portos de Cabo Verde, embora idêntica, nas suas linhas gerais, à adoptada para a Junta Autónoma dos Portos da Guiné e à prevista para a Junta Autónoma dos Portos de Timor, não deixa, contudo, de atender às condições particulares da província de Cabo Verde, nomeadamente no que se refere à composição dos serviços portuários e à constituição do Conselho Geral, órgão consultivo e deliberativo que superintende na administração geral dos portos, de modo a assegurar-lhe uma representação completa de todas as actividades públicas e privadas que, directa ou indirectamente, estão ligadas à actividade portuária da província.\n\nDeste modo, ouvido o Conselho Ultramarino;\n\nUsando da faculdade conferida pelo n.º 3.º e última parte do § 1.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:"
+  },
+  "dd5429797e0a7048": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais\n\nArtigo 1.º A Junta Autónoma dos Portos de Cabo Verde é um organismo provincial, com sede na cidade do Mindelo, ilha de S. Vicente, dotado de personalidade jurídica e com autonomia administrativa e financeira, que, sob a orientação do governador da província, exerce a administração dos portos de Cabo Verde.\n\nArt. 2.º A área de jurisdição da Junta Autónoma compreende as zonas indicadas e a definir nos termos do [Decreto n.º 412/70](https://diariodarepublica.pt/dr/detalhe/decreto/412-1970-138856), de 26 de Agosto, com a competência e atribuições ali mencionadas.\n\nArt. 3.º - 1. Compete à Junta Autónoma, para efeitos de administração e exploração das áreas de jurisdição e dos portos correspondentes, o seguinte:\n\na) Definir as áreas de jurisdição portuária;\n\nb) Definir para cada porto a respectiva zona portuária com as zonas de exploração e expansão;\n\nc) Promover a elaboração dos planos gerais dos portos;\n\nd) Estudar, executar e fiscalizar as obras portuárias, assim como adquirir e explorar o respectivo equipamento, de acordo com os planos gerais aprovados;\n\ne) Promover a conservação de todas as obras portuárias e seu equipamento;\n\nf) Regular nas zonas de exploração dos portos os serviços públicos de abastecimento, sem prejuízo das condições técnicas definidas na legislação geral aplicável;\n\ng) Conceder nas zonas de exploração licenças para o exercício de quaisquer actividades nos cais, docas, terraplenos e áreas molhadas, ou para a execução de trabalhos relacionados com a conservação de obras das margens e dos fundos e com o regime das águas, tais como retirar areias e burgau das praias, lastrar e deslastrar, descarregar cinzas, estabelecer amarrações fixas, carenar e rocegar ferros ou amarras;\n\nh) Conceder nas zonas de exploração licenças para a ocupação de terrenos e para a construção de edifícios ou outras instalações.\n\n2. As licenças para lastrar ou deslastrar e para descarregar cinzas devem ser visadas pelas autoridades marítimas e aduaneiras.\n\n3. A Junta Autónoma deverá dar conhecimento às autoridades marítima e aduaneira e à câmara municipal do respectivo concelho dos processos de licenciamento de construção de edifícios ou outras instalações dentro da zona de exploração solicitando-lhes, se for caso disso os respectivos pareceres.\n\n4. As deliberações da Junta previstas nas alíneas a) e b) do n.º 1 deste artigo estão sujeitas à aprovação do Governo da província, a publicar no Boletim Oficial, e as da alínea c) carecem de aprovação ministerial, a publicar no Diário do Governo e no Boletim Oficial da província.\n\nArt. 4.º - 1. Para maior eficiência dos serviços a seu cargo, a Junta Autónoma está autorizada nos termos legais em vigor:\n\na) A admitir, nas condições previstas neste diploma, o pessoal técnico, auxiliar, operário, marítimo e trabalhador que for indispensável para os serviços de estudo, exploração, fiscalização de obras e guarda de armazéns ou outras instalações;\n\nb) A organizar e manter, nas condições que forem fixadas superiormente, um corpo de polícia privativo para assegurar o cumprimento dos regulamentos de exploração e polícia dos portos;\n\nc) A distribuir uniformes ao pessoal de exploração e ao do material flutuante, aos motoristas, aos guardas e aos serventes, nas condições que vierem a ser determinadas;\n\nd) A prestar, dentro e fora da sua área de jurisdição, serviços marítimos de reboque, socorro, docagem, mergulhação e outros, bem como facultar o uso de aparelhos, ferramentas e utensílios seus, nos termos que forem regulamentados;\n\ne) A exigir de todos os utentes das instalações portuárias os elementos estatísticos relativos a actividades singulares, na sua jurisdição, cujo conhecimento interesse ao cômputo da actividade geral dos portos;\n\nf) A executar fora das horas normais de trabalho, sempre que as circunstâncias o exijam, trabalhos sujeitos às marés e serviços inerentes à exploração comercial dos portos ou outros cujos encargos tenham compensação em receitas provenientes de adicionais sobre tarifas.\n\n2. A execução e remuneração de trabalhos extraordinários fora dos casos previstos na alínea f), se não estiverem previstos pela legislação geral aplicável, carecem de autorização do Governo da província, podendo preceder, se necessário, informação do Instituto de Trabalho, Previdência e Acção Social.\n\nArt. 5.º São órgãos de administração e direcção da Junta Autónoma:\n\nO Conselho Geral;\n\nA Comissão Administrativa;\n\nO director dos Portos."
+  },
+  "b86be280194ed856": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Do Conselho Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Do Conselho Geral\n\nArt. 6.º - 1. O Conselho Geral superintende na administração geral dos portos, sendo constituído por vogais natos e vogais eleitos.\n\n1.º São vogais natos:\n\na) O director dos Portos;\n\nb) O chefe da Repartição Provincial dos Serviços de Obras Públicas e Transportes;\n\nc) O director da Alfândega de S. Vicente;\n\nd) O secretário da Repartição de Fazenda do Concelho de S. Vicente;\n\ne) O administrador do Concelho de S. Vicente;\n\nf) O capitão dos Portos da província;\n\ng) O delegado do procurador da República da Comarca de Barlavento;\n\nh) O presidente do Instituto do Trabalho, Previdência e Acção Social da província.\n\n2.º São vogais eleitos:\n\na) Um representante das autarquias locais da província;\n\nb) Um representante das associações comerciais, industriais e agrícolas da província, escolhido pelo Governo da mesma, em lista tríplice apresentada por estas associações;\n\nc) Um representante das companhias de navegação e armadores;\n\nd) Um representante das companhias fornecedoras de combustíveis à navegação;\n\ne) Um representante dos abastecedores dos navios;\n\nf) Um representante das empresas de pesca;\n\ng) Um representante dos estaleiros navais.\n\n2. Sempre que o Conselho Geral se tenha de ocupar de assuntos que, pela sua natureza, necessitem da audição de entidades especializadas, poderá ser solicitada ao governador da província a comparência dos respectivos representantes.\n\n3. No caso de ausência ou impedimento, os vogais natos serão representados no Conselho Geral pelos seus substitutos, nos serviços ou organismos a que pertençam e os vogais eleitos pelos seus respectivos substitutos.\n\n4. Por diploma legislativo do governador da província, poderá, em qualquer altura, ser determinada a representação na Junta de outros interesses relacionados com os portos.\n\nArt. 7.º - 1. O presidente e o vice-presidente do Conselho Geral são designados pelo governador da província de uma lista tríplice eleita em escrutínio secreto pelo próprio Conselho de entre os vogais natos, excluído o director dos Portos.\n\n2. Enquanto não estiverem designados o presidente e o vice-presidente, presidirá ao Conselho Geral o director dos Portos, sendo seu substituto o capitão dos Portos.\n\nArt. 8.º Servirá de secretário, sem voto, o chefe da Secção Administrativa da Junta Autónoma, competindo-lhe lavrar as actas das sessões na forma estabelecida no n.º 5 do artigo 12.º\n\nArt. 9.º - 1. O cargo de vogal nato, seja efectivo ou substituto, é obrigatório.\n\n2. A falta de comparência dos vogais natos a duas sessões ordinárias consecutivas, sem motivo justificado, deve ser participada superiormente. Este assunto pode ser regulamentado pelo governador da província como achar melhor.\n\nArt. 10.º - 1. O cargo de vogal eleito, seja efectivo ou substituto, é voluntário.\n\n2. A falta de comparência dos vogais eleitos a duas sessões ordinárias consecutivas, sem motivo justificado, considera-se como renúncia ao mandato. Este assunto pode ser regulamentado pelo governador da província como achar melhor.\n\nArt. 11.º - 1. A forma de designação dos vogais eleitos será determinada no Regulamento da Junta Autónoma ou, quando este não existir, em portaria do Governo da província.\n\n2. O mandato dos vogais eleitos é por três anos, sendo permitida a reeleição.\n\nArt. 12.º - 1. O Conselho Geral reúne, obrigatóriamente, em sessão ordinária, duas vezes por ano, sendo uma para apreciar o orçamento ordinário e outra para apreciar as contas de gerência. Além destas, terá as reuniões extraordinárias que forem determinadas pelo seu presidente ou requeridas pela maioria dos vogais para os fins designados no artigo 3.º, ou ainda com qualquer outro objectivo prèviamente estabelecido na ordem do dia.\n\n2. As reuniões são convocadas pelo presidente com, pelo menos, oito dias de antecedência, devendo os avisos convocatórios indicar os assuntos a tratar.\n\n3. Não se poderão realizar sessões, ordinárias ou extraordinárias, sem estar presente a maioria dos vogais e, no caso de sessão requerida, sem estar presente a maioria dos requerentes. Em segunda convocação poderão funcionar com qualquer número, mas sempre com a maioria dos vogais requerentes, quando se tratar de sessão requerida.\n\n4. As sessões ordinárias serão públicas, podendo não o ser as extraordinárias.\n\n5. De cada sessão lavrar-se-á acta, a qual será submetida ao Conselho Geral na reunião seguinte e assinada por todos os membros que tenham estado presentes na reunião a que se refere e pelo secretário. Uma cópia das actas será sempre enviada ao Governo da província.\n\n6. Antes da ordem do dia, poderão os vogais pedir esclarecimentos ou apresentar propostas, devendo estas ser incluídas na ordem do dia de reuniões ulteriores.\n\nArt. 13.º Aos membros efectivos ou substitutos será abonada, por cada sessão a que compareçam, uma gratificação a fixar por despacho do governador da província, mediante proposta da Comissão Administrativa.\n\nArt. 14.º Aos vogais que residam fora da localidade em que as reuniões se realizem serão abonadas pela Junta Autónoma, para efeitos de comparência, as despesas de transporte e uma ajuda de custo diária, a fixar por despacho do governador da província, inacumulável com qualquer outro abono de idêntica natureza.\n\nArt. 15.º As deliberações do Conselho serão tomadas pela maioria de votos dos membros presentes à sessão, tendo o presidente, em caso de empate, voto de qualidade.\n\nArt. 16.º Os membros do Conselho Geral são solidàriamente responsáveis pelo cumprimento das funções que por este diploma lhe são atribuídas.\n\nArt. 17.º Compete ao Conselho Geral:\n\na) Apreciar os orçamentos ordinários e suplementares, a submeter à aprovação do Governo da província;\n\nb) Votar as contas de gerência;\n\nc) Apreciar os relatórios anuais das actividades da Junta Autónoma, a submeter à consideração do Ministro do Ultramar através do Governo da província;\n\nd) Deliberar sobre a realização de empréstimos ou outras operações financeiras destinadas ao melhoramento e desenvolvimento dos portos, a submeter à aprovação do Governo da província;\n\ne) Emitir parecer sobre:\n\nOs planos gerais de cada porto;\n\nOs planos de obras e melhoramentos dos portos;\n\nOs projectos de regulamento de serviços técnicos, de exploração e administrativos;\n\nOs projectos de regulamento de tarifas;\n\nAs questões relativas a portos que lhe sejam presentes pelo presidente, por qualquer dos vogais ou pela Comissão Administrativa;\n\nf) Propor ao Governo da província a adopção de medidas tendentes a contribuir para o melhoramento e desenvolvimento dos portos.\n\nArt. 18.º Compete ao presidente do Conselho Geral:\n\na) Convocar as reuniões do Conselho Geral;\n\nb) Dirigir os trabalhos das sessões.\n\nArt. 19.º Compete ao vice-presidente do Conselho Geral:\n\na) Coadjuvar o presidente no desempenho das funções;\n\nb) Substituir o presidente nas suas faltas, ausências ou impedimentos."
+  },
+  "d79a52e2edb02378": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Da Comissão Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Da Comissão Administrativa\n\nArt. 20.º - 1. A Comissão Administrativa superintende na administração económica dos portos e na execução de todas as determinações do Governo da província e nas deliberações do Conselho Geral e é constituída pelos seguintes membros:\n\na) O director dos Portos, que actuará como presidente;\n\nb) O capitão dos Portos;\n\nc) O director da Alfândega de S. Vicente;\n\nd) Um delegado dos Serviços de Fazenda e Contabilidade do Concelho de S. Vicente.\n\n2. Quando a Comissão Administrativa se tenha de ocupar de assuntos jurídicos, ser-lhe-á agregado o delegado do procurador da República da Comarca de Barlavento.\n\nNo caso de se lhe pedir parecer jurídico sobre qualquer assunto que não possa ser dado em sessão e exija estudo e preparação em gabinete, tal trabalho deve ser remunerado pela forma prevista no Regulamento da Junta e, na falta deste, por despacho do governador da província.\n\n3. Nas suas faltas, ausências ou impedimentos, os vogais da Comissão Administrativa serão substituídos pelos seus substitutos legais nos serviços a que pertençam e o presidente será substituído, em primeiro lugar, pelo subdirector dos Portos; em segundo lugar, pelo capitão dos Portos, e, em terceiro lugar, pelo director da Alfândega de S. Vicente.\n\n4. Servirá de secretário da Comissão Administrativa, sem voto, o chefe da Secção Administrativa da Junta Autónoma, a quem compete lavrar as actas das sessões.\n\nArt. 21.º - 1. A Comissão Administrativa reúne em sessão ordinária uma vez por semana e extraordinàriamente sempre que o seu presidente a convoque.\n\n2. As sessões não serão públicas.\n\n3. Todas as deliberações serão tomadas por maioria de votos dos membros presentes à sessão, tendo o presidente, em caso de empate, voto de qualidade.\n\n4. De cada sessão será lavrada acta, que será submetida à aprovação da Comissão Administrativa na sessão seguinte e que será assinada por todos os membros que tenham estado presentes à sessão.\n\nArt. 22.º Os membros da Comissão Administrativa receberão gratificações por sessão a que assistam, que serão fixadas pelo governador da província mediante proposta do Conselho Geral.\n\nArt. 23.º Os membros da Comissão Administrativa que tiverem votado a favor de deliberações ilegais são civil e criminalmente responsáveis pelas transgressões das leis e regulamentos, pela aplicação de dinheiros diversa daquela que o orçamento estipular e pela alteração de planos de obras sem a sanção superior.\n\nArt. 24.º - 1. Compete à Comissão Administrativa:\n\na) Elaborar e submeter à consideração do Governo da província:\n\nOs projectos de obras, programas de concurso e cadernos de encargos respeitantes a obras ou fornecimentos de valor orçamentado superior a 250000$00, com o parecer do Conselho Geral;\n\nAs propostas de admissão ou exoneração do pessoal não assalariado;\n\nAs propostas de aplicação de sanções ao pessoal dos serviços da Junta Autónoma que excedem a competência disciplinar do director dos Portos.\n\nb) Elaborar e submeter à consideração do Conselho Geral:\n\nOs planos de arranjo e expansão dos portos;\n\nOs planos gerais de exploração e apetrechamento dos portos;\n\nOs projectos de regulamentos de exploração de tarifas e outros;\n\nOs planos de obras e melhoramentos dos portos;\n\nAs contas de gerência;\n\nOs orçamentos ordinários ou suplementares;\n\nAs propostas de criação de zonas francas nas zonas de expansão dos portos e de estabelecimento de armazéns gerais francos nas zonas de exploração dos portos;\n\nAs propostas de realização de empréstimos ou outras operações financeiras;\n\nAs propostas de alteração que sejam julgadas indispensáveis nos planos de arranjo e expansão dos portos;\n\nOs relatórios anuais das actividades da Junta.\n\nc) Aprovar:\n\nOs projectos de obras, programas de concurso e cadernos de encargos respeitantes a obras ou fornecimentos com valor orçamentado não superior a 250000$00;\n\nOs autos de recepção de empreitadas ou fornecimentos de importância não superior à atrás indicada.\n\nd) Adjudicar, nos termos da legislação geral, a execução de obras e o fornecimento de materiais, máquinas, aparelhos e utensílios até à importância indicada na alínea c) do presente artigo;\n\ne) Autorizar as despesas e pagamentos relativos a trabalhos em execução, a materiais e salários até à importância indicada na alínea c) do presente artigo;\n\nf) Conceder:\n\nLicenças para ocupação de terrenos e para o exercício de quaisquer actividades nos cais, docas e terraplenos nas zonas de exploração dos portos;\n\nLicenças para a execução de obras permanentes ou provisórias, nas zonas portuárias, na costa marítima sujeita à jurisdição da Junta Autónoma, salvo quando interessem à defesa nacional.\n\ng) Admitir e despedir pessoal assalariado de carácter permanente;\n\nh) Designar em cada porto os cais a utilizar pela navegação, promovendo a regulamentação dessa utilização;\n\ni) Proceder a balanços à tesouraria, armazéns e depósitos de materiais quando os julgar convenientes;\n\nj) Promover a elaboração de estudos e planos de exploração, apetrechamento ou desenvolvimento dos portos.\n\n2. Na elaboração de regulamentos e tarifas portuárias deverá ter-se em conta, especialmente no que se refere ao Porto Grande da ilha de S. Vicente, a situação de concorrência que exista em relação aos portos situados na mesma zona atlântica.\n\n3. Em caso de urgência tal que não permita aguardar a reunião extraordinária do Conselho Geral, a Comissão Administrativa poderá praticar qualquer acto da competência daquele Conselho, submetendo-o, contudo, à sua ratificação na primeira sessão a seguir à prática desse acto.\n\nArt. 25.º Compete ao presidente da Comissão Administrativa:\n\na) Dirigir os trabalhos das sessões;\n\nb) Convocar extraordinàriamente a Comissão Administrativa sempre que o julgue necessário ou quando lhe for solicitado pelos vogais;\n\nc) Despachar a correspondência dirigida à Comissão Administrativa;\n\nd) Outorgar nos actos de contratos em que a Junta Autónoma é parte;\n\ne) Representar a Junta Autónoma em juízo ou fora dele."
+  },
+  "806f3ef7e9d3f4f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do director dos Portos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do director dos Portos\n\nArt. 26.º O director dos Portos assegura a unidade e a coordenação indispensáveis à eficiência e regularidade dos serviços portuários, promove o aproveitamento e utilização do apetrechamento e das áreas de jurisdição da Junta Autónoma e superintende na execução de todas as determinações do Governo da província e nas deliberações do Conselho Geral e da Comissão Administrativa.\n\nArt. 27.º O director dos Portos é designado pelo Ministro do Ultramar por escolha entre os engenheiros-chefes ou de 1.ª classe do quadro comum dos Serviços de Portos, Caminhos de Ferro e Transportes ou entre diplomados em Engenharia Civil com reconhecida competência em assuntos portuários.\n\nArt. 28.º Compete ao director dos Portos:\n\na) Dirigir todos os serviços da sua competência;\n\nb) Fazer cumprir as leis, regulamentos e instruções em vigor, bem como as deliberações do Conselho Geral e da Comissão Administrativa, orientando, fiscalizando e mantendo em todos os serviços a ordem e a disciplina;\n\nc) Propor superiormente tudo o que julgar conveniente à boa administração e ao melhoramento e desenvolvimento dos portos;\n\nd) Submeter à Comissão Administrativa, depois de devidamente informados, todos os assuntos cuja resolução seja da competência desta Comissão ou do Conselho Geral;\n\ne) Dar e fazer dar execução às deliberações da Comissão Administrativa e do Conselho Geral;\n\nf) Assinar a correspondência e o expediente da sua competência;\n\ng) Dar expediente e resolução a todos os assuntos correntes;\n\nh) Elaborar o relatório anual dos serviços, com as contas de gerência internas, acompanhado de uma memória descritiva e justificativa e dos mapas estatísticos do movimento anual dos portos, a submeter à apreciação da Comissão Administrativa e do Conselho Geral nos termos da alínea c) do artigo 17.º;\n\ni) Elaborar o plano anual dos trabalhos a realizar para apreciação pela Comissão Administrativa;\n\nj) Inspeccionar a execução de todas as obras marítimas e terrestres e o estado de conservação do material e instalações portuárias;\n\nl) Organizar e manter actualizadas as plantas geográficas e cadastrais das áreas sujeitas à sua jurisdição;\n\nm) Autorizar, nos termos e pela forma estabelecida na lei, o pagamento das despesas relativas a trabalhos em execução, materiais e salários até à importância de 250000$00 cuja realização tenha sido aprovada pela Comissão Administrativa;\n\nn) Autorizar todas as despesas com o pagamento de salários e com a aquisição de materiais, relativamente a trabalhos em execução, até à importância de 100000$00;\n\no) Admitir e despedir, conforme as necessidades dos serviços e de acordo com a legislação geral aplicável, o pessoal eventual.\n\nArt. 29.º Na sua falta, ausências ou impedimentos é o director dos Portos substituído, em primeiro lugar, pelo subdirector dos Portos e, em segundo lugar, pelo capitão dos Portos da província ou seu substituto, salvo se o governador da província determinar que a substituição se faça por outra forma ou se o caso for resolvido no Regulamento da Junta.\n\nArt. 30.º O subdirector dos Portos é designado pelo Ministro do Ultramar por escolha entre os engenheiros de 1.ª classe do quadro comum dos Serviços de Portos, Caminhos de Ferro e Transportes ou entre diplomados em Engenharia Civil com reconhecida competência em assuntos portuários.\n\nArt. 31.º Compete ao subdirector:\n\na) Coadjuvar o director na organização, coordenação e direcção de todos os serviços da Junta Autónoma;\n\nb) Substituir o director na sua falta, ausências ou impedimentos.\n\nArt. 32.º O adjunto dos Portos é designado pelo Ministro do Ultramar por escolha entre agentes técnicos de engenharia pertencentes ou não ao quadro comum dos Serviços de Portos, Caminhos de Ferro e Transportes, ou entre oficiais da marinha mercante com carta de capitão, ou ainda entre funcionários daquele quadro com longa prática dos serviços de exploração de portos como inspectores-chefes de cais, chefes de cais, chefes de tráfego e estiva ou outros da mesma categoria.\n\nArt. 33.º Compete ao adjunto dos Portos coadjuvar o director e o subdirector em todos os assuntos de serviço.\n\nArt. 34.º Quando a designação por escolha para um dos lugares de direcção previstos nos artigos 27.º, 30.º e 32.º recair em funcionário dos quadros comum ou privativo dos Serviços de Portos, Caminhos de Ferro e Transportes, a sua nomeação, precedida de nomeação à categoria imediata, deve ser feita em comissão ordinária de serviço, renovável."
+  },
+  "ff668e91deabb015": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Dos serviços e do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Dos serviços e do pessoal\n\nArt. 35.º Os serviços da Junta Autónoma compreendem os serviços centrais, com sede na cidade do Mindelo, ilha de S. Vicente, e os serviços externos, que funcionam nas delegações portuárias e distribuem-se como segue:\n\n1) Secção Administrativa:\n\nServiços:\n\nSecretaria;\n\nContabilidade;\n\nTesouraria;\n\nSociais.\n\n2) Secção Técnica de Exploração:\n\nServiços:\n\nTráfego;\n\nArmazenagem;\n\nAbastecimentos à navegação;\n\nMarítimos;\n\nPolícia.\n\n3) Secção Técnica de Estudos e Obras:\n\nServiços:\n\nEstudos e projectos;\n\nObras (conservação, execução e fiscalização);\n\nOficinas e manutenção de máquinas.\n\nArt. 36.º - 1. Os quadros do pessoal da Junta Autónoma dividem-se em quadro comum e quadro privativo.\n\n2. O quadro comum é o constante do mapa anexo a este diploma e abrange o pessoal de direcção e chefia das várias secções, entendendo-se que este quadro é comum ao congénere dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola e Moçambique e aos quadros de direcção e chefia das restantes juntas autónomas de portos que existam ou venham a existir no ultramar.\n\n3. O quadro privativo é constituído por pessoal contratado ou assalariado a definir por cada ano no orçamento ordinário da Junta Autónoma, de acordo com as necessidades, a experiência colhida e as disponibilidades orçamentais.\n\nArt. 37.º - 1. Quando as necessidades dos serviços assim o justificarem, poderá ser admitido pessoal eventual, que será abonado por força de verbas inscritas globalmente para esse efeito no orçamento da Junta Autónoma.\n\n2. Compete ao director dos Portos, que exercerá tal função de acordo com a legislação geral aplicável, admitir e despedir o pessoal referido no n.º 1 deste artigo, fixando-lhe os seus salários e os seus horários de trabalho.\n\nArt. 38.º O âmbito de cada serviço referido no artigo 35.º e a admissão, promoção e movimento do pessoal serão definidos no Regulamento da Junta Autónoma, a elaborar pela Comissão Administrativa, devendo o respectivo projecto ser aprovado pelo Governo da província, sobre parecer do Conselho Geral, como previsto na alínea e) do artigo 17.º, podendo ainda ser ouvidas quaisquer entidades julgadas competentes.\n\nArt. 39.º Sempre que a Comissão Administrativa reconheça a necessidade de aumento dos quadros estabelecidos no mapa referido no artigo 35.º, com vista ao exercício da administração portuária em outros portos da província, poderá propor directamente ao Governo da província a criação nos mesmos quadros dos lugares considerados necessários ao desenvolvimento das actividades dos referidos portos."
+  },
+  "c2d5706c4bbe3fc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Do regime de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Do regime de trabalho\n\nArt. 40.º - 1. O tempo de trabalho normal será o seguinte:\n\na) Para os funcionários da Secção Administrativa - trinta e seis horas semanais;\n\nb) Para o pessoal menor - quarenta e duas horas semanais;\n\nc) Para o restante pessoal - quarenta e oito horas semanais.\n\n2. Os intervalos destinados a repouso ou a refeição não são considerados como tempo útil de trabalho.\n\nArt. 41.º - 1. Em harmonia com as necessidades ou as conveniências do serviço, a Comissão Administrativa proporá directamente à aprovação superior os horários de trabalho que julgar mais convenientes.\n\n2. Em princípio, os horários de trabalho não deverão incluir, para nenhuma categoria de funcionários, períodos de trabalho de mais de cinco horas consecutivas sem intervalo para repouso ou refeições.\n\nArt. 42.º - 1. Considera-se trabalho extraordinário o que for executado para além dos tempos fixados no artigo 40.º, n.º 1, para o trabalho normal.\n\n2. A Comissão Administrativa, em caso de inadiável urgência ou pelo atraso existente no andamento do expediente da Junta Autónoma, poderá antecipar a hora do início ou prorrogar a hora de encerramento que estejam fixadas para os serviços de secretaria, não se considerando tal trabalho como extraordinário."
+  },
+  "9956e04a6d381f23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Da administração financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Da administração financeira\n\nArt. 43.º - 1. A administração da Junta Autónoma tem por base um orçamento privativo, elaborado para cada ano económico, e de harmonia com a legislação vigente para os organismos dotados de autonomia administrativa e financeira.\n\n2. A importância relativa ao orçamento da Junta Autónoma ficará inscrita no orçamento geral da província, nos termos do artigo 22.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 15 de Janeiro de 1930.\n\n3. A Junta Autónoma enviará anualmente e no prazo legal ao Tribunal Administrativo, para julgamento, a conta de gerência organizada nos termos legais.\n\nArt. 44.º - 1. As receitas da Junta Autónoma são classificadas em ordinárias e extraordinárias.\n\n2. Constituem receitas ordinárias:\n\na) As importâncias resultantes da aplicação das taxas estabelecidas no regulamento de tarifas aprovado e da concessão de quaisquer licenças dentro da área de jurisdição da Junta Autónoma;\n\nb) As importâncias cobradas pela prestação de serviços pela Junta Autónoma;\n\nc) As prestações provenientes da concessão de serviços e da concessão ou aluguer de terrenos, armazéns, utensílios, aparelhos ou embarcações que não se encontrem previstas no regulamento de tarifas aprovado;\n\nd) O rendimento obtido da exploração de docas, estaleiros e oficinas navais;\n\ne) As importâncias provenientes das multas por contravenção de regulamentos, quando por lei não lhes deva ser dado outro destino;\n\nf) O produto da venda de pedra, areia e outros materiais extraídos por sua indústria;\n\ng) O produto da venda de embarcações, veículos, aparelhos, máquinas ou materiais inutilizados ou dispensáveis;\n\nh) As importâncias de quaisquer débitos não reclamados no prazo de um ano;\n\ni) Os saldos que se apurarem nas contas de gerência;\n\nj) Quaisquer outras receitas provenientes dos Serviços dos Portos ou que por lei lhes venham a ser atribuídas.\n\n3. Constituem receitas extraordinárias:\n\na) As verbas orçamentais que, pelo Governo da província, forem postas à disposição da Junta Autónoma;\n\nb) O produto de empréstimos ou operações financeiras autorizados pelo Governo da província;\n\nc) O produto de indemnizações por avarias ou por danos e prejuízos causados aos serviços ou às instalações dos portos;\n\nd) As comparticipações e subsídios do Estado e dos organismos corporativos, bem como os donativos de particulares, depois de sancionada a sua aceitação pelo Governo da província.\n\nArt. 45.º Todas as importâncias provenientes das receitas da Junta Autónoma deverão, no dia imediato, ser depositadas, à ordem da Comissão Administrativa, na Caixa do Tesouro.\n\nArt. 46.º - 1. A cobrança coerciva das dívidas da Junta Autónoma far-se-á de acordo com o processo das execuções fiscais.\n\n2. Não poderá ser instaurada qualquer execução sem que a Junta Autónoma tenha notificado o devedor, por meio de carta registada com aviso de recepção, para liquidar a dívida em prazo curto e determinado.\n\n3. Constitui título exequível necessário e suficiente à execução fiscal de dívidas à Junta Autónoma a certidão da acta da Comissão Administrativa contendo a deliberação de executar, bem como indicação do nome e demais elementos de identificação do devedor, o quantitativo da dívida e a respectiva causa.\n\n4. Para efeitos de execução, a Junta Autónoma enviará ao Juízo das Execuções Fiscais a certidão constante do número anterior e uma nota declarativa de que o devedor, avisado nos termos e para os efeitos mencionados no n.º 2 deste artigo, não efectuou a liquidação da dívida dentro do prazo que lhe foi cominado.\n\nArt. 47.º - 1. As despesas da Junta Autónoma são classificadas em fixas e variáveis.\n\n2. Constituem despesas fixas as resultantes de vencimentos ao pessoal dos quadros permanentes.\n\n3. Constituem despesas variáveis as que respeitem as verbas destinadas ao pessoal eventual, às despesas com mantimentos, combustíveis, lubrificantes e material de qualquer natureza, bem como às de pagamento de serviços e diversos encargos.\n\nArt. 48.º A Junta Autónoma deverá aplicar directamente às suas despesas o produto total das suas receitas, devendo realizar aquelas de acordo com os orçamentos aprovados.\n\nArt. 49.º - 1. O levantamento dos fundos depositados, à ordem da Comissão Administrativa, na Caixa do Tesouro no Banco Nacional Ultramarino será feito por meio de cheques assinados pelo tesoureiro e por dois membros daquela Comissão, um dos quais será obrigatóriamente o director dos Portos.\n\n2. Na falta do director dos Portos, e quando a urgência tal imponha, poderão os cheques ser assinados por quem legalmente o substitua e por um membro da Comissão Administrativa para tal fim designado pela mesma.\n\nArt. 50.º No cofre existente na tesouraria haverá, normalmente, um fundo de maneio que a Comissão Administrativa fixar como necessário para a satisfação das despesas correntes.\n\nArt. 51.º - 1. Todos os meses procederão os membros da Comissão Administrativa, juntamente com o chefe da Secção Administrativa e o tesoureiro da Junta Autónoma, ao balanço do cofre da tesouraria, lavrando-se do acto o respectivo auto.\n\n2. Além dos balanços que ficam indicados, poderá o director dos Portos, como presidente da Comissão Administrativa, sempre que o entender conveniente, ordenar a efectivação de outros balanços, quer à tesouraria, quer às demais existências em valores nos serviços da Junta Autónoma.\n\nArt. 52.º - 1. No orçamento das despesas da Junta Autónoma serão inscritas anualmente, sob as designações «Fundo de reserva», «Fundo de renovação» e «Fundo de melhoramentos», as verbas julgadas convenientes e que serão obtidas por distribuição dos saldos líquidos de gerência nas seguintes proporções:\n\n... Percentagens\n\nFundo de reserva ... 20\n\nFundo de renovação ... 30\n\nFundo de melhoramentos ... 50\n\n2. O Fundo de reserva destina-se a cobrir situações deficitárias de emergência e só poderá ser utilizado por despacho do governador da província, mediante proposta da Comissão Administrativa; o Fundo de renovação destina-se a assegurar a substituição dos equipamentos fixos e móveis do porto e o Fundo de melhoramentos destina-se à construção de novas obras e à aquisição de novo equipamento.\n\n3. As reparações e a conservação de equipamentos e obras fixas não são custeadas por verbas dos fundos.\n\n4. A distribuição dos saldos indicada no n.º 1 deste artigo poderá ser alterada pelo governador, mediante proposta da Comissão Administrativa e ouvido o parecer do Conselho Geral.\n\n5. Será também inscrita anualmente no orçamento das despesas a que se refere o corpo do artigo a verba julgada necessária para o reembolso dos dispêndios já efectuados e/ou a efectuar nos portos pelo Governo da província com obras e com aquisição e instalação de equipamentos.\n\nArt. 53.º - 1. Os pagamentos das quantias em dívida a credores falecidos ou que tenham cedido os seus créditos a terceiros serão satisfeitos de acordo com a legislação geral aplicável.\n\n2. Exceptuam-se os débitos correspondentes a vencimentos ou salários de importância não superior a 3000$00, quando os interessados provem e a Comissão Administrativa reconheça a legitimidade do seu pagamento.\n\nArt. 54.º Em tudo o que respeitar às matérias versadas neste capítulo e não se encontrar previsto neste diploma fica a Junta Autónoma sujeita à legislação geral aplicável aos organismos estatais análogos no ultramar."
+  },
+  "c4dd07108a9af5f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Disposições diversas\n\nArt. 55.º - 1. O pessoal da Junta Autónoma, além das remunerações certas normais e das especiais que lhe são atribuídas com carácter de generalidade, tem direito aos seguintes abonos, gratificações e prémios, cujos montantes serão fixados pelo governador da província, mediante proposta da Comissão Administrativa:\n\na) Abono para falhas do tesoureiro;\n\nb) Gratificação ao pessoal dos serviços de polícia;\n\nc) Remuneração por trabalhos extraordinários;\n\nd) Subsídio diário ao pessoal técnico, de valor igual ao atribuído ao pessoal das mesmas categorias da Repartição de Obras Públicas e Transportes.\n\n2. Será sempre remunerado o trabalho extraordinário do pessoal que intervenha na execução dos serviços referidos na alínea f) do artigo 4.º deste diploma.\n\n3. O director dos Portos, o subdirector e o adjunto terão direito a residência, nos termos estabelecidos para os demais funcionários, mesmo que estas tenham sido construídas pela Junta Autónoma.\n\n4. Poderão ainda ser concedidos prémios de economia, com base na eficiência da organização e produtividade do trabalho, que serão abonados ao pessoal de direcção e chefia, mediante proposta da Comissão Administrativa, a submeter à aprovação do governador da província.\n\nArt. 56.º - 1. O tesoureiro da Junta Autónoma bem como os fiéis de armazém são obrigados a prestar caução, cujo valor é fixado pelo governador da província, mediante proposta da Comissão Administrativa, tendo em atenção o movimento da tesouraria ou os bens à sua guarda.\n\n2. A caução poderá ser prestada por qualquer das formas estabelecidas na lei para os funcionários dos Serviços de Fazenda e Contabilidade.\n\n3. Os funcionários mencionados no corpo do artigo só entrarão no exercício das suas funções depois de efectuada a caução referida no n.º 2.\n\n4. As cauções a que se refere o presente artigo só poderão ser levantadas pelos respectivos funcionários depois de, pela Comissão Administrativa, serem julgadas quites as suas contas ou responsabilidades.\n\nArt. 57.º - 1. As repartições provinciais dos Serviços de Fazenda e Contabilidade, dos Serviços de Marinha e dos Serviços das Alfândegas, assim como o pessoal da Polícia Marítima e da Guarda Fiscal, prestarão directamente à Junta Autónoma os serviços e as informações que esta lhes solicite, dentro das suas atribuições e jurisdição nas áreas abrangidas pelos portos.\n\n2. Por sua vez, prestará a Junta Autónoma às entidades referidas no corpo deste artigo as informações e a colaboração possíveis, dentro das suas atribuições e de acordo com a legislação geral aplicável.\n\nArt. 58.º - 1. A Junta Autónoma pode, quando devidamente autorizada para o efeito pelo Governo da província, negociar empréstimos ou quaisquer outras operações financeiras com organismos nacionais de crédito destinados a custear a execução de obras e melhoramentos a efectuar nos portos da província.\n\n2. As minutas dos contratos dos referidos empréstimos ou operações financeiras deverão ser submetidas à aprovação do Governo da província e, uma vez aprovadas, serão publicadas no Boletim Oficial de Cabo Verde.\n\nArt. 59.º É expressamente proibida aos funcionários da Junta a ingerência ou participação de natureza particular, directa ou indirecta, nas obras e fornecimentos que se realizem nos portos da província.\n\nArt. 60.º - 1. Em tudo o que respeitar às matérias versadas nos capítulos V e VI deste diploma e que não se encontrar neles expressamente previsto fica a Junta Autónoma sujeita ao disposto no Estatuto do Funcionalismo Ultramarino e demais legislação geral aplicável.\n\n2. O pessoal da Junta Autónoma terá todos os direitos e deveres dos funcionários da província de Cabo Verde, sem prejuízo de que, embora pertencendo a outros quadros, preste serviço em comissão."
+  },
+  "576cac14e6ad7d97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Disposições transitórias e finais\n\nArt. 61.º No prazo que o governador da província determinar, em portaria, sobre a data da entrada em vigor deste diploma, a Junta Autónoma, observado o disposto nas alíneas b) e c) dos artigos 24.º, 16.º e 17.º, n.º 1, submeterá à sua aprovação o regulamento ou regulamentos sobre:\n\nA admissão, promoção e movimento de pessoal da Junta;\n\nA exploração e as tarifas dos portos;\n\nOs serviços técnicos e administrativos;\n\nTodas as matérias que careçam de regulamentação que tenham sido, ou não, designadas no articulado deste diploma.\n\nArt. 62.º - 1. O pessoal que à data da entrada em vigor deste diploma exercer qualquer actividade nos actuais quadros da Junta Autónoma dos Portos da província poderá transitar para os novos quadros agora criados, sendo indispensável que tenha boas informações e devendo a proposta da sua transição ser formulada pela Comissão Administrativa e aprovada pelo Governo da província.\n\n2. O disposto no número anterior não é aplicável ao pessoal da direcção constante do mapa referido no artigo 36.º, anexo a este diploma.\n\nArt. 63.º As dúvidas suscitadas na interpretação e aplicação do presente diploma serão resolvidas pelo governador da província, mediante proposta e parecer da Comissão Administrativa.\n\nArt. 64.º A Junta Autónoma será representada nos tribunais pelos agentes do Ministério Público, segundo a sua hierarquia.\n\nArt. 65.º Fica revogado o Diploma Legislativo Ministerial n.º 11, de 5 de Setembro de 1962, e mais legislação em contrário.\n\nMarcello Caetano - Joaquim Moreira da Silva Cunha.\n\nPromulgado em 12 de Março de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha."
+  },
+  "8187d7ad88dd9fbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Mapa a que se refere o artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Mapa a que se refere o artigo 36.º\n\nQuadro comum do pessoal da Junta Autónoma\n\nPessoal de nomeação\n\na) Direcção:\n\n1 director dos Portos ... E\n\n1 subdirector ... F\n\n1 adjunto ... H\n\nb) Secção Administrativa:\n\n1 chefe de secção ... J\n\nc) Secção Técnica de Exploração:\n\n1 chefe de secção ... J\n\nd) Secção Técnica de Estudos e Obras:\n\n1 chefe de secção ... J\n\nO Ministro do Ultramar, Joaquim Moreira da Silva Cunha."
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "b63c4229c2c867d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Junta Autónoma dos Portos de Cabo Verde é um organismo provincial, com sede na cidade do Mindelo, ilha de S. Vicente, dotado de personalidade jurídica e com autonomia administrativa e financeira, que, sob a orientação do governador da província, exerce a administração dos portos de Cabo Verde."
+  },
+  "637b6876e45f1afa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA área de jurisdição da Junta Autónoma compreende as zonas indicadas e a definir nos termos do [Decreto n.º 412/70](https://diariodarepublica.pt/dr/detalhe/decreto/412-1970-138856), de 26 de Agosto, com a competência e atribuições ali mencionadas."
+  },
+  "885ce57d651ee1fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Compete à Junta Autónoma, para efeitos de administração e exploração das áreas de jurisdição e dos portos correspondentes, o seguinte:\n\na) Definir as áreas de jurisdição portuária;\n\nb) Definir para cada porto a respectiva zona portuária com as zonas de exploração e expansão;\n\nc) Promover a elaboração dos planos gerais dos portos;\n\nd) Estudar, executar e fiscalizar as obras portuárias, assim como adquirir e explorar o respectivo equipamento, de acordo com os planos gerais aprovados;\n\ne) Promover a conservação de todas as obras portuárias e seu equipamento;\n\nf) Regular nas zonas de exploração dos portos os serviços públicos de abastecimento, sem prejuízo das condições técnicas definidas na legislação geral aplicável;\n\ng) Conceder nas zonas de exploração licenças para o exercício de quaisquer actividades nos cais, docas, terraplenos e áreas molhadas, ou para a execução de trabalhos relacionados com a conservação de obras das margens e dos fundos e com o regime das águas, tais como retirar areias e burgau das praias, lastrar e deslastrar, descarregar cinzas, estabelecer amarrações fixas, carenar e rocegar ferros ou amarras;\n\nh) Conceder nas zonas de exploração licenças para a ocupação de terrenos e para a construção de edifícios ou outras instalações.\n\n2. As licenças para lastrar ou deslastrar e para descarregar cinzas devem ser visadas pelas autoridades marítimas e aduaneiras.\n\n3. A Junta Autónoma deverá dar conhecimento às autoridades marítima e aduaneira e à câmara municipal do respectivo concelho dos processos de licenciamento de construção de edifícios ou outras instalações dentro da zona de exploração solicitando-lhes, se for caso disso os respectivos pareceres.\n\n4. As deliberações da Junta previstas nas alíneas a) e b) do n.º 1 deste artigo estão sujeitas à aprovação do Governo da província, a publicar no Boletim Oficial, e as da alínea c) carecem de aprovação ministerial, a publicar no Diário do Governo e no Boletim Oficial da província."
+  },
+  "52b84e902dd6600e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Para maior eficiência dos serviços a seu cargo, a Junta Autónoma está autorizada nos termos legais em vigor:\n\na) A admitir, nas condições previstas neste diploma, o pessoal técnico, auxiliar, operário, marítimo e trabalhador que for indispensável para os serviços de estudo, exploração, fiscalização de obras e guarda de armazéns ou outras instalações;\n\nb) A organizar e manter, nas condições que forem fixadas superiormente, um corpo de polícia privativo para assegurar o cumprimento dos regulamentos de exploração e polícia dos portos;\n\nc) A distribuir uniformes ao pessoal de exploração e ao do material flutuante, aos motoristas, aos guardas e aos serventes, nas condições que vierem a ser determinadas;\n\nd) A prestar, dentro e fora da sua área de jurisdição, serviços marítimos de reboque, socorro, docagem, mergulhação e outros, bem como facultar o uso de aparelhos, ferramentas e utensílios seus, nos termos que forem regulamentados;\n\ne) A exigir de todos os utentes das instalações portuárias os elementos estatísticos relativos a actividades singulares, na sua jurisdição, cujo conhecimento interesse ao cômputo da actividade geral dos portos;\n\nf) A executar fora das horas normais de trabalho, sempre que as circunstâncias o exijam, trabalhos sujeitos às marés e serviços inerentes à exploração comercial dos portos ou outros cujos encargos tenham compensação em receitas provenientes de adicionais sobre tarifas.\n\n2. A execução e remuneração de trabalhos extraordinários fora dos casos previstos na alínea f), se não estiverem previstos pela legislação geral aplicável, carecem de autorização do Governo da província, podendo preceder, se necessário, informação do Instituto de Trabalho, Previdência e Acção Social."
+  },
+  "b5d9b78d040f41ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSão órgãos de administração e direcção da Junta Autónoma:\n\nO Conselho Geral;\n\nA Comissão Administrativa;\n\nO director dos Portos."
+  },
+  "fad86327992b1fab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Do Conselho Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Do Conselho Geral"
+  },
+  "c3e76a9e73cec594": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. O Conselho Geral superintende na administração geral dos portos, sendo constituído por vogais natos e vogais eleitos.\n\n1.º São vogais natos:\n\na) O director dos Portos;\n\nb) O chefe da Repartição Provincial dos Serviços de Obras Públicas e Transportes;\n\nc) O director da Alfândega de S. Vicente;\n\nd) O secretário da Repartição de Fazenda do Concelho de S. Vicente;\n\ne) O administrador do Concelho de S. Vicente;\n\nf) O capitão dos Portos da província;\n\ng) O delegado do procurador da República da Comarca de Barlavento;\n\nh) O presidente do Instituto do Trabalho, Previdência e Acção Social da província.\n\n2.º São vogais eleitos:\n\na) Um representante das autarquias locais da província;\n\nb) Um representante das associações comerciais, industriais e agrícolas da província, escolhido pelo Governo da mesma, em lista tríplice apresentada por estas associações;\n\nc) Um representante das companhias de navegação e armadores;\n\nd) Um representante das companhias fornecedoras de combustíveis à navegação;\n\ne) Um representante dos abastecedores dos navios;\n\nf) Um representante das empresas de pesca;\n\ng) Um representante dos estaleiros navais.\n\n2. Sempre que o Conselho Geral se tenha de ocupar de assuntos que, pela sua natureza, necessitem da audição de entidades especializadas, poderá ser solicitada ao governador da província a comparência dos respectivos representantes.\n\n3. No caso de ausência ou impedimento, os vogais natos serão representados no Conselho Geral pelos seus substitutos, nos serviços ou organismos a que pertençam e os vogais eleitos pelos seus respectivos substitutos.\n\n4. Por diploma legislativo do governador da província, poderá, em qualquer altura, ser determinada a representação na Junta de outros interesses relacionados com os portos."
+  },
+  "d9ea1e00cef193b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O presidente e o vice-presidente do Conselho Geral são designados pelo governador da província de uma lista tríplice eleita em escrutínio secreto pelo próprio Conselho de entre os vogais natos, excluído o director dos Portos.\n\n2. Enquanto não estiverem designados o presidente e o vice-presidente, presidirá ao Conselho Geral o director dos Portos, sendo seu substituto o capitão dos Portos."
+  },
+  "55d751d1f36f5c66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nServirá de secretário, sem voto, o chefe da Secção Administrativa da Junta Autónoma, competindo-lhe lavrar as actas das sessões na forma estabelecida no n.º 5 do artigo 12.º"
+  },
+  "1b10a20ed9fd12fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O cargo de vogal nato, seja efectivo ou substituto, é obrigatório.\n\n2. A falta de comparência dos vogais natos a duas sessões ordinárias consecutivas, sem motivo justificado, deve ser participada superiormente. Este assunto pode ser regulamentado pelo governador da província como achar melhor."
+  },
+  "8815490b9f250913": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. O cargo de vogal eleito, seja efectivo ou substituto, é voluntário.\n\n2. A falta de comparência dos vogais eleitos a duas sessões ordinárias consecutivas, sem motivo justificado, considera-se como renúncia ao mandato. Este assunto pode ser regulamentado pelo governador da província como achar melhor."
+  },
+  "877cad68e43983c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A forma de designação dos vogais eleitos será determinada no Regulamento da Junta Autónoma ou, quando este não existir, em portaria do Governo da província.\n\n2. O mandato dos vogais eleitos é por três anos, sendo permitida a reeleição."
+  },
+  "7841e9b7d2a58694": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. O Conselho Geral reúne, obrigatóriamente, em sessão ordinária, duas vezes por ano, sendo uma para apreciar o orçamento ordinário e outra para apreciar as contas de gerência. Além destas, terá as reuniões extraordinárias que forem determinadas pelo seu presidente ou requeridas pela maioria dos vogais para os fins designados no artigo 3.º, ou ainda com qualquer outro objectivo prèviamente estabelecido na ordem do dia.\n\n2. As reuniões são convocadas pelo presidente com, pelo menos, oito dias de antecedência, devendo os avisos convocatórios indicar os assuntos a tratar.\n\n3. Não se poderão realizar sessões, ordinárias ou extraordinárias, sem estar presente a maioria dos vogais e, no caso de sessão requerida, sem estar presente a maioria dos requerentes. Em segunda convocação poderão funcionar com qualquer número, mas sempre com a maioria dos vogais requerentes, quando se tratar de sessão requerida.\n\n4. As sessões ordinárias serão públicas, podendo não o ser as extraordinárias.\n\n5. De cada sessão lavrar-se-á acta, a qual será submetida ao Conselho Geral na reunião seguinte e assinada por todos os membros que tenham estado presentes na reunião a que se refere e pelo secretário. Uma cópia das actas será sempre enviada ao Governo da província.\n\n6. Antes da ordem do dia, poderão os vogais pedir esclarecimentos ou apresentar propostas, devendo estas ser incluídas na ordem do dia de reuniões ulteriores."
+  },
+  "de4e96fd6cfb938c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAos membros efectivos ou substitutos será abonada, por cada sessão a que compareçam, uma gratificação a fixar por despacho do governador da província, mediante proposta da Comissão Administrativa."
+  },
+  "dde7531051cf304c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAos vogais que residam fora da localidade em que as reuniões se realizem serão abonadas pela Junta Autónoma, para efeitos de comparência, as despesas de transporte e uma ajuda de custo diária, a fixar por despacho do governador da província, inacumulável com qualquer outro abono de idêntica natureza."
+  },
+  "e5aaef956576f572": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAs deliberações do Conselho serão tomadas pela maioria de votos dos membros presentes à sessão, tendo o presidente, em caso de empate, voto de qualidade."
+  },
+  "3ef44f3041a13bda": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs membros do Conselho Geral são solidàriamente responsáveis pelo cumprimento das funções que por este diploma lhe são atribuídas."
+  },
+  "9befa143e35c2ef7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nCompete ao Conselho Geral:\n\na) Apreciar os orçamentos ordinários e suplementares, a submeter à aprovação do Governo da província;\n\nb) Votar as contas de gerência;\n\nc) Apreciar os relatórios anuais das actividades da Junta Autónoma, a submeter à consideração do Ministro do Ultramar através do Governo da província;\n\nd) Deliberar sobre a realização de empréstimos ou outras operações financeiras destinadas ao melhoramento e desenvolvimento dos portos, a submeter à aprovação do Governo da província;\n\ne) Emitir parecer sobre:\n\nOs planos gerais de cada porto;\n\nOs planos de obras e melhoramentos dos portos;\n\nOs projectos de regulamento de serviços técnicos, de exploração e administrativos;\n\nOs projectos de regulamento de tarifas;\n\nAs questões relativas a portos que lhe sejam presentes pelo presidente, por qualquer dos vogais ou pela Comissão Administrativa;\n\nf) Propor ao Governo da província a adopção de medidas tendentes a contribuir para o melhoramento e desenvolvimento dos portos."
+  },
+  "02e1e194b83e6405": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nCompete ao presidente do Conselho Geral:\n\na) Convocar as reuniões do Conselho Geral;\n\nb) Dirigir os trabalhos das sessões."
+  },
+  "7db442d8d1903459": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nCompete ao vice-presidente do Conselho Geral:\n\na) Coadjuvar o presidente no desempenho das funções;\n\nb) Substituir o presidente nas suas faltas, ausências ou impedimentos."
+  },
+  "439a0f8652a31fa5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Da Comissão Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Da Comissão Administrativa"
+  },
+  "c1fd3fe80263efa1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. A Comissão Administrativa superintende na administração económica dos portos e na execução de todas as determinações do Governo da província e nas deliberações do Conselho Geral e é constituída pelos seguintes membros:\n\na) O director dos Portos, que actuará como presidente;\n\nb) O capitão dos Portos;\n\nc) O director da Alfândega de S. Vicente;\n\nd) Um delegado dos Serviços de Fazenda e Contabilidade do Concelho de S. Vicente.\n\n2. Quando a Comissão Administrativa se tenha de ocupar de assuntos jurídicos, ser-lhe-á agregado o delegado do procurador da República da Comarca de Barlavento.\n\nNo caso de se lhe pedir parecer jurídico sobre qualquer assunto que não possa ser dado em sessão e exija estudo e preparação em gabinete, tal trabalho deve ser remunerado pela forma prevista no Regulamento da Junta e, na falta deste, por despacho do governador da província.\n\n3. Nas suas faltas, ausências ou impedimentos, os vogais da Comissão Administrativa serão substituídos pelos seus substitutos legais nos serviços a que pertençam e o presidente será substituído, em primeiro lugar, pelo subdirector dos Portos; em segundo lugar, pelo capitão dos Portos, e, em terceiro lugar, pelo director da Alfândega de S. Vicente.\n\n4. Servirá de secretário da Comissão Administrativa, sem voto, o chefe da Secção Administrativa da Junta Autónoma, a quem compete lavrar as actas das sessões."
+  },
+  "e488d4455c3eac2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. A Comissão Administrativa reúne em sessão ordinária uma vez por semana e extraordinàriamente sempre que o seu presidente a convoque.\n\n2. As sessões não serão públicas.\n\n3. Todas as deliberações serão tomadas por maioria de votos dos membros presentes à sessão, tendo o presidente, em caso de empate, voto de qualidade.\n\n4. De cada sessão será lavrada acta, que será submetida à aprovação da Comissão Administrativa na sessão seguinte e que será assinada por todos os membros que tenham estado presentes à sessão."
+  },
+  "5f53f4ce63c3318a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs membros da Comissão Administrativa receberão gratificações por sessão a que assistam, que serão fixadas pelo governador da província mediante proposta do Conselho Geral."
+  },
+  "1c21f073cffb219e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs membros da Comissão Administrativa que tiverem votado a favor de deliberações ilegais são civil e criminalmente responsáveis pelas transgressões das leis e regulamentos, pela aplicação de dinheiros diversa daquela que o orçamento estipular e pela alteração de planos de obras sem a sanção superior."
+  },
+  "9b1d92fd6059e2a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1. Compete à Comissão Administrativa:\n\na) Elaborar e submeter à consideração do Governo da província:\n\nOs projectos de obras, programas de concurso e cadernos de encargos respeitantes a obras ou fornecimentos de valor orçamentado superior a 250000$00, com o parecer do Conselho Geral;\n\nAs propostas de admissão ou exoneração do pessoal não assalariado;\n\nAs propostas de aplicação de sanções ao pessoal dos serviços da Junta Autónoma que excedem a competência disciplinar do director dos Portos.\n\nb) Elaborar e submeter à consideração do Conselho Geral:\n\nOs planos de arranjo e expansão dos portos;\n\nOs planos gerais de exploração e apetrechamento dos portos;\n\nOs projectos de regulamentos de exploração de tarifas e outros;\n\nOs planos de obras e melhoramentos dos portos;\n\nAs contas de gerência;\n\nOs orçamentos ordinários ou suplementares;\n\nAs propostas de criação de zonas francas nas zonas de expansão dos portos e de estabelecimento de armazéns gerais francos nas zonas de exploração dos portos;\n\nAs propostas de realização de empréstimos ou outras operações financeiras;\n\nAs propostas de alteração que sejam julgadas indispensáveis nos planos de arranjo e expansão dos portos;\n\nOs relatórios anuais das actividades da Junta.\n\nc) Aprovar:\n\nOs projectos de obras, programas de concurso e cadernos de encargos respeitantes a obras ou fornecimentos com valor orçamentado não superior a 250000$00;\n\nOs autos de recepção de empreitadas ou fornecimentos de importância não superior à atrás indicada.\n\nd) Adjudicar, nos termos da legislação geral, a execução de obras e o fornecimento de materiais, máquinas, aparelhos e utensílios até à importância indicada na alínea c) do presente artigo;\n\ne) Autorizar as despesas e pagamentos relativos a trabalhos em execução, a materiais e salários até à importância indicada na alínea c) do presente artigo;\n\nf) Conceder:\n\nLicenças para ocupação de terrenos e para o exercício de quaisquer actividades nos cais, docas e terraplenos nas zonas de exploração dos portos;\n\nLicenças para a execução de obras permanentes ou provisórias, nas zonas portuárias, na costa marítima sujeita à jurisdição da Junta Autónoma, salvo quando interessem à defesa nacional.\n\ng) Admitir e despedir pessoal assalariado de carácter permanente;\n\nh) Designar em cada porto os cais a utilizar pela navegação, promovendo a regulamentação dessa utilização;\n\ni) Proceder a balanços à tesouraria, armazéns e depósitos de materiais quando os julgar convenientes;\n\nj) Promover a elaboração de estudos e planos de exploração, apetrechamento ou desenvolvimento dos portos.\n\n2. Na elaboração de regulamentos e tarifas portuárias deverá ter-se em conta, especialmente no que se refere ao Porto Grande da ilha de S. Vicente, a situação de concorrência que exista em relação aos portos situados na mesma zona atlântica.\n\n3. Em caso de urgência tal que não permita aguardar a reunião extraordinária do Conselho Geral, a Comissão Administrativa poderá praticar qualquer acto da competência daquele Conselho, submetendo-o, contudo, à sua ratificação na primeira sessão a seguir à prática desse acto."
+  },
+  "194e54dc621f3180": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nCompete ao presidente da Comissão Administrativa:\n\na) Dirigir os trabalhos das sessões;\n\nb) Convocar extraordinàriamente a Comissão Administrativa sempre que o julgue necessário ou quando lhe for solicitado pelos vogais;\n\nc) Despachar a correspondência dirigida à Comissão Administrativa;\n\nd) Outorgar nos actos de contratos em que a Junta Autónoma é parte;\n\ne) Representar a Junta Autónoma em juízo ou fora dele."
+  },
+  "0f8baecc9a48fd23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do director dos Portos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do director dos Portos"
+  },
+  "8cf7ee1693c3fde1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nO director dos Portos assegura a unidade e a coordenação indispensáveis à eficiência e regularidade dos serviços portuários, promove o aproveitamento e utilização do apetrechamento e das áreas de jurisdição da Junta Autónoma e superintende na execução de todas as determinações do Governo da província e nas deliberações do Conselho Geral e da Comissão Administrativa."
+  },
+  "7e1536e7f43da179": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nO director dos Portos é designado pelo Ministro do Ultramar por escolha entre os engenheiros-chefes ou de 1.ª classe do quadro comum dos Serviços de Portos, Caminhos de Ferro e Transportes ou entre diplomados em Engenharia Civil com reconhecida competência em assuntos portuários."
+  },
+  "726075db6c3b2e22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nCompete ao director dos Portos:\n\na) Dirigir todos os serviços da sua competência;\n\nb) Fazer cumprir as leis, regulamentos e instruções em vigor, bem como as deliberações do Conselho Geral e da Comissão Administrativa, orientando, fiscalizando e mantendo em todos os serviços a ordem e a disciplina;\n\nc) Propor superiormente tudo o que julgar conveniente à boa administração e ao melhoramento e desenvolvimento dos portos;\n\nd) Submeter à Comissão Administrativa, depois de devidamente informados, todos os assuntos cuja resolução seja da competência desta Comissão ou do Conselho Geral;\n\ne) Dar e fazer dar execução às deliberações da Comissão Administrativa e do Conselho Geral;\n\nf) Assinar a correspondência e o expediente da sua competência;\n\ng) Dar expediente e resolução a todos os assuntos correntes;\n\nh) Elaborar o relatório anual dos serviços, com as contas de gerência internas, acompanhado de uma memória descritiva e justificativa e dos mapas estatísticos do movimento anual dos portos, a submeter à apreciação da Comissão Administrativa e do Conselho Geral nos termos da alínea c) do artigo 17.º;\n\ni) Elaborar o plano anual dos trabalhos a realizar para apreciação pela Comissão Administrativa;\n\nj) Inspeccionar a execução de todas as obras marítimas e terrestres e o estado de conservação do material e instalações portuárias;\n\nl) Organizar e manter actualizadas as plantas geográficas e cadastrais das áreas sujeitas à sua jurisdição;\n\nm) Autorizar, nos termos e pela forma estabelecida na lei, o pagamento das despesas relativas a trabalhos em execução, materiais e salários até à importância de 250000$00 cuja realização tenha sido aprovada pela Comissão Administrativa;\n\nn) Autorizar todas as despesas com o pagamento de salários e com a aquisição de materiais, relativamente a trabalhos em execução, até à importância de 100000$00;\n\no) Admitir e despedir, conforme as necessidades dos serviços e de acordo com a legislação geral aplicável, o pessoal eventual."
+  },
+  "8ca7c6043e97d7d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nNa sua falta, ausências ou impedimentos é o director dos Portos substituído, em primeiro lugar, pelo subdirector dos Portos e, em segundo lugar, pelo capitão dos Portos da província ou seu substituto, salvo se o governador da província determinar que a substituição se faça por outra forma ou se o caso for resolvido no Regulamento da Junta."
+  },
+  "07295bd365475fd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": "1973-05-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 253/73](https://diariodarepublica.pt/dr/detalhe/decreto/253-1973-422218), publicado em 1973-05-18."
+   ],
+   "markdown": "###### Artigo 30.º\n\nO subdirector dos Portos é designado pelo Ministro do Ultramar por escolha entre os engenheiros-chefes e os engenheiros de 1.ª classe do quadro comum dos Serviços de Portos, Caminhos de Ferro e Transportes ou entre diplomados em Engenharia Civil com reconhecida competência em assuntos portuários.\n\n> Alterado pelo/a [Decreto n.º 253/73](https://diariodarepublica.pt/dr/detalhe/decreto/253-1973-422218), publicado em 1973-05-18."
+  },
+  "2e0f1ea3e663484b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nCompete ao subdirector:\n\na) Coadjuvar o director na organização, coordenação e direcção de todos os serviços da Junta Autónoma;\n\nb) Substituir o director na sua falta, ausências ou impedimentos."
+  },
+  "bf5624c5433860a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nO adjunto dos Portos é designado pelo Ministro do Ultramar por escolha entre agentes técnicos de engenharia pertencentes ou não ao quadro comum dos Serviços de Portos, Caminhos de Ferro e Transportes, ou entre oficiais da marinha mercante com carta de capitão, ou ainda entre funcionários daquele quadro com longa prática dos serviços de exploração de portos como inspectores-chefes de cais, chefes de cais, chefes de tráfego e estiva ou outros da mesma categoria."
+  },
+  "71dd7ee17384fc3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nCompete ao adjunto dos Portos coadjuvar o director e o subdirector em todos os assuntos de serviço."
+  },
+  "9925b902f126e4ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nQuando a designação por escolha para um dos lugares de direcção previstos nos artigos 27.º, 30.º e 32.º recair em funcionário dos quadros comum ou privativo dos Serviços de Portos, Caminhos de Ferro e Transportes, a sua nomeação, precedida de nomeação à categoria imediata, deve ser feita em comissão ordinária de serviço, renovável."
+  },
+  "ef105b501fb1ae72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Dos serviços e do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Dos serviços e do pessoal"
+  },
+  "eea0e86826ed392e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nOs serviços da Junta Autónoma compreendem os serviços centrais, com sede na cidade do Mindelo, ilha de S. Vicente, e os serviços externos, que funcionam nas delegações portuárias e distribuem-se como segue:\n\n1) Secção Administrativa:\n\nServiços:\n\nSecretaria;\n\nContabilidade;\n\nTesouraria;\n\nSociais.\n\n2) Secção Técnica de Exploração:\n\nServiços:\n\nTráfego;\n\nArmazenagem;\n\nAbastecimentos à navegação;\n\nMarítimos;\n\nPolícia.\n\n3) Secção Técnica de Estudos e Obras:\n\nServiços:\n\nEstudos e projectos;\n\nObras (conservação, execução e fiscalização);\n\nOficinas e manutenção de máquinas."
+  },
+  "ba7300793cfd14cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1. Os quadros do pessoal da Junta Autónoma dividem-se em quadro comum e quadro privativo.\n\n2. O quadro comum é o constante do mapa anexo a este diploma e abrange o pessoal de direcção e chefia das várias secções, entendendo-se que este quadro é comum ao congénere dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola e Moçambique e aos quadros de direcção e chefia das restantes juntas autónomas de portos que existam ou venham a existir no ultramar.\n\n3. O quadro privativo é constituído por pessoal contratado ou assalariado a definir por cada ano no orçamento ordinário da Junta Autónoma, de acordo com as necessidades, a experiência colhida e as disponibilidades orçamentais."
+  },
+  "89848355b8e9434e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1. Quando as necessidades dos serviços assim o justificarem, poderá ser admitido pessoal eventual, que será abonado por força de verbas inscritas globalmente para esse efeito no orçamento da Junta Autónoma.\n\n2. Compete ao director dos Portos, que exercerá tal função de acordo com a legislação geral aplicável, admitir e despedir o pessoal referido no n.º 1 deste artigo, fixando-lhe os seus salários e os seus horários de trabalho."
+  },
+  "93cbf98ba28bb143": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nO âmbito de cada serviço referido no artigo 35.º e a admissão, promoção e movimento do pessoal serão definidos no Regulamento da Junta Autónoma, a elaborar pela Comissão Administrativa, devendo o respectivo projecto ser aprovado pelo Governo da província, sobre parecer do Conselho Geral, como previsto na alínea e) do artigo 17.º, podendo ainda ser ouvidas quaisquer entidades julgadas competentes."
+  },
+  "4870e8a8061cc998": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nSempre que a Comissão Administrativa reconheça a necessidade de aumento dos quadros estabelecidos no mapa referido no artigo 35.º, com vista ao exercício da administração portuária em outros portos da província, poderá propor directamente ao Governo da província a criação nos mesmos quadros dos lugares considerados necessários ao desenvolvimento das actividades dos referidos portos."
+  },
+  "84095f7af280021b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Do regime de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Do regime de trabalho"
+  },
+  "3f6edfc7ad7f9cf1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\n1. O tempo de trabalho normal será o seguinte:\n\na) Para os funcionários da Secção Administrativa - trinta e seis horas semanais;\n\nb) Para o pessoal menor - quarenta e duas horas semanais;\n\nc) Para o restante pessoal - quarenta e oito horas semanais.\n\n2. Os intervalos destinados a repouso ou a refeição não são considerados como tempo útil de trabalho."
+  },
+  "24914d3990e76ab5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1. Em harmonia com as necessidades ou as conveniências do serviço, a Comissão Administrativa proporá directamente à aprovação superior os horários de trabalho que julgar mais convenientes.\n\n2. Em princípio, os horários de trabalho não deverão incluir, para nenhuma categoria de funcionários, períodos de trabalho de mais de cinco horas consecutivas sem intervalo para repouso ou refeições."
+  },
+  "d2fe7c0897b2ae73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1. Considera-se trabalho extraordinário o que for executado para além dos tempos fixados no artigo 40.º, n.º 1, para o trabalho normal.\n\n2. A Comissão Administrativa, em caso de inadiável urgência ou pelo atraso existente no andamento do expediente da Junta Autónoma, poderá antecipar a hora do início ou prorrogar a hora de encerramento que estejam fixadas para os serviços de secretaria, não se considerando tal trabalho como extraordinário."
+  },
+  "e15bb890fc5c9a79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Da administração financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Da administração financeira"
+  },
+  "2ec6959d37683afd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1. A administração da Junta Autónoma tem por base um orçamento privativo, elaborado para cada ano económico, e de harmonia com a legislação vigente para os organismos dotados de autonomia administrativa e financeira.\n\n2. A importância relativa ao orçamento da Junta Autónoma ficará inscrita no orçamento geral da província, nos termos do artigo 22.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 15 de Janeiro de 1930.\n\n3. A Junta Autónoma enviará anualmente e no prazo legal ao Tribunal Administrativo, para julgamento, a conta de gerência organizada nos termos legais."
+  },
+  "26184d19a3e8ff91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n1. As receitas da Junta Autónoma são classificadas em ordinárias e extraordinárias.\n\n2. Constituem receitas ordinárias:\n\na) As importâncias resultantes da aplicação das taxas estabelecidas no regulamento de tarifas aprovado e da concessão de quaisquer licenças dentro da área de jurisdição da Junta Autónoma;\n\nb) As importâncias cobradas pela prestação de serviços pela Junta Autónoma;\n\nc) As prestações provenientes da concessão de serviços e da concessão ou aluguer de terrenos, armazéns, utensílios, aparelhos ou embarcações que não se encontrem previstas no regulamento de tarifas aprovado;\n\nd) O rendimento obtido da exploração de docas, estaleiros e oficinas navais;\n\ne) As importâncias provenientes das multas por contravenção de regulamentos, quando por lei não lhes deva ser dado outro destino;\n\nf) O produto da venda de pedra, areia e outros materiais extraídos por sua indústria;\n\ng) O produto da venda de embarcações, veículos, aparelhos, máquinas ou materiais inutilizados ou dispensáveis;\n\nh) As importâncias de quaisquer débitos não reclamados no prazo de um ano;\n\ni) Os saldos que se apurarem nas contas de gerência;\n\nj) Quaisquer outras receitas provenientes dos Serviços dos Portos ou que por lei lhes venham a ser atribuídas.\n\n3. Constituem receitas extraordinárias:\n\na) As verbas orçamentais que, pelo Governo da província, forem postas à disposição da Junta Autónoma;\n\nb) O produto de empréstimos ou operações financeiras autorizados pelo Governo da província;\n\nc) O produto de indemnizações por avarias ou por danos e prejuízos causados aos serviços ou às instalações dos portos;\n\nd) As comparticipações e subsídios do Estado e dos organismos corporativos, bem como os donativos de particulares, depois de sancionada a sua aceitação pelo Governo da província."
+  },
+  "3881908aba6b07d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nTodas as importâncias provenientes das receitas da Junta Autónoma deverão, no dia imediato, ser depositadas, à ordem da Comissão Administrativa, na Caixa do Tesouro."
+  },
+  "6e3f7431112b55e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n1. A cobrança coerciva das dívidas da Junta Autónoma far-se-á de acordo com o processo das execuções fiscais.\n\n2. Não poderá ser instaurada qualquer execução sem que a Junta Autónoma tenha notificado o devedor, por meio de carta registada com aviso de recepção, para liquidar a dívida em prazo curto e determinado.\n\n3. Constitui título exequível necessário e suficiente à execução fiscal de dívidas à Junta Autónoma a certidão da acta da Comissão Administrativa contendo a deliberação de executar, bem como indicação do nome e demais elementos de identificação do devedor, o quantitativo da dívida e a respectiva causa.\n\n4. Para efeitos de execução, a Junta Autónoma enviará ao Juízo das Execuções Fiscais a certidão constante do número anterior e uma nota declarativa de que o devedor, avisado nos termos e para os efeitos mencionados no n.º 2 deste artigo, não efectuou a liquidação da dívida dentro do prazo que lhe foi cominado."
+  },
+  "daa317a24aa68960": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\n1. As despesas da Junta Autónoma são classificadas em fixas e variáveis.\n\n2. Constituem despesas fixas as resultantes de vencimentos ao pessoal dos quadros permanentes.\n\n3. Constituem despesas variáveis as que respeitem as verbas destinadas ao pessoal eventual, às despesas com mantimentos, combustíveis, lubrificantes e material de qualquer natureza, bem como às de pagamento de serviços e diversos encargos."
+  },
+  "f70da997630a15c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nA Junta Autónoma deverá aplicar directamente às suas despesas o produto total das suas receitas, devendo realizar aquelas de acordo com os orçamentos aprovados."
+  },
+  "341b4f67e8773e83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\n1. O levantamento dos fundos depositados, à ordem da Comissão Administrativa, na Caixa do Tesouro no Banco Nacional Ultramarino será feito por meio de cheques assinados pelo tesoureiro e por dois membros daquela Comissão, um dos quais será obrigatóriamente o director dos Portos.\n\n2. Na falta do director dos Portos, e quando a urgência tal imponha, poderão os cheques ser assinados por quem legalmente o substitua e por um membro da Comissão Administrativa para tal fim designado pela mesma."
+  },
+  "1299e67ab7bb5e13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nNo cofre existente na tesouraria haverá, normalmente, um fundo de maneio que a Comissão Administrativa fixar como necessário para a satisfação das despesas correntes."
+  },
+  "0d2a0b6aca27a12d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\n1. Todos os meses procederão os membros da Comissão Administrativa, juntamente com o chefe da Secção Administrativa e o tesoureiro da Junta Autónoma, ao balanço do cofre da tesouraria, lavrando-se do acto o respectivo auto.\n\n2. Além dos balanços que ficam indicados, poderá o director dos Portos, como presidente da Comissão Administrativa, sempre que o entender conveniente, ordenar a efectivação de outros balanços, quer à tesouraria, quer às demais existências em valores nos serviços da Junta Autónoma."
+  },
+  "f846d03d05979178": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\n1. No orçamento das despesas da Junta Autónoma serão inscritas anualmente, sob as designações «Fundo de reserva», «Fundo de renovação» e «Fundo de melhoramentos», as verbas julgadas convenientes e que serão obtidas por distribuição dos saldos líquidos de gerência nas seguintes proporções:\n\n... Percentagens\n\nFundo de reserva ... 20\n\nFundo de renovação ... 30\n\nFundo de melhoramentos ... 50\n\n2. O Fundo de reserva destina-se a cobrir situações deficitárias de emergência e só poderá ser utilizado por despacho do governador da província, mediante proposta da Comissão Administrativa; o Fundo de renovação destina-se a assegurar a substituição dos equipamentos fixos e móveis do porto e o Fundo de melhoramentos destina-se à construção de novas obras e à aquisição de novo equipamento.\n\n3. As reparações e a conservação de equipamentos e obras fixas não são custeadas por verbas dos fundos.\n\n4. A distribuição dos saldos indicada no n.º 1 deste artigo poderá ser alterada pelo governador, mediante proposta da Comissão Administrativa e ouvido o parecer do Conselho Geral.\n\n5. Será também inscrita anualmente no orçamento das despesas a que se refere o corpo do artigo a verba julgada necessária para o reembolso dos dispêndios já efectuados e/ou a efectuar nos portos pelo Governo da província com obras e com aquisição e instalação de equipamentos."
+  },
+  "40f25e7eb38086b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n1. Os pagamentos das quantias em dívida a credores falecidos ou que tenham cedido os seus créditos a terceiros serão satisfeitos de acordo com a legislação geral aplicável.\n\n2. Exceptuam-se os débitos correspondentes a vencimentos ou salários de importância não superior a 3000$00, quando os interessados provem e a Comissão Administrativa reconheça a legitimidade do seu pagamento."
+  },
+  "b30181c1418e48b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nEm tudo o que respeitar às matérias versadas neste capítulo e não se encontrar previsto neste diploma fica a Junta Autónoma sujeita à legislação geral aplicável aos organismos estatais análogos no ultramar."
+  },
+  "9e144784dae75f50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Disposições diversas"
+  },
+  "73d9698e3c37ca88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\n1. O pessoal da Junta Autónoma, além das remunerações certas normais e das especiais que lhe são atribuídas com carácter de generalidade, tem direito aos seguintes abonos, gratificações e prémios, cujos montantes serão fixados pelo governador da província, mediante proposta da Comissão Administrativa:\n\na) Abono para falhas do tesoureiro;\n\nb) Gratificação ao pessoal dos serviços de polícia;\n\nc) Remuneração por trabalhos extraordinários;\n\nd) Subsídio diário ao pessoal técnico, de valor igual ao atribuído ao pessoal das mesmas categorias da Repartição de Obras Públicas e Transportes.\n\n2. Será sempre remunerado o trabalho extraordinário do pessoal que intervenha na execução dos serviços referidos na alínea f) do artigo 4.º deste diploma.\n\n3. O director dos Portos, o subdirector e o adjunto terão direito a residência, nos termos estabelecidos para os demais funcionários, mesmo que estas tenham sido construídas pela Junta Autónoma.\n\n4. Poderão ainda ser concedidos prémios de economia, com base na eficiência da organização e produtividade do trabalho, que serão abonados ao pessoal de direcção e chefia, mediante proposta da Comissão Administrativa, a submeter à aprovação do governador da província."
+  },
+  "a4a8376f01861289": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\n1. O tesoureiro da Junta Autónoma bem como os fiéis de armazém são obrigados a prestar caução, cujo valor é fixado pelo governador da província, mediante proposta da Comissão Administrativa, tendo em atenção o movimento da tesouraria ou os bens à sua guarda.\n\n2. A caução poderá ser prestada por qualquer das formas estabelecidas na lei para os funcionários dos Serviços de Fazenda e Contabilidade.\n\n3. Os funcionários mencionados no corpo do artigo só entrarão no exercício das suas funções depois de efectuada a caução referida no n.º 2.\n\n4. As cauções a que se refere o presente artigo só poderão ser levantadas pelos respectivos funcionários depois de, pela Comissão Administrativa, serem julgadas quites as suas contas ou responsabilidades."
+  },
+  "9fd1579b6e0e2057": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\n1. As repartições provinciais dos Serviços de Fazenda e Contabilidade, dos Serviços de Marinha e dos Serviços das Alfândegas, assim como o pessoal da Polícia Marítima e da Guarda Fiscal, prestarão directamente à Junta Autónoma os serviços e as informações que esta lhes solicite, dentro das suas atribuições e jurisdição nas áreas abrangidas pelos portos.\n\n2. Por sua vez, prestará a Junta Autónoma às entidades referidas no corpo deste artigo as informações e a colaboração possíveis, dentro das suas atribuições e de acordo com a legislação geral aplicável."
+  },
+  "12bf437a235a4d3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\n1. A Junta Autónoma pode, quando devidamente autorizada para o efeito pelo Governo da província, negociar empréstimos ou quaisquer outras operações financeiras com organismos nacionais de crédito destinados a custear a execução de obras e melhoramentos a efectuar nos portos da província.\n\n2. As minutas dos contratos dos referidos empréstimos ou operações financeiras deverão ser submetidas à aprovação do Governo da província e, uma vez aprovadas, serão publicadas no Boletim Oficial de Cabo Verde."
+  },
+  "c4234d5cc70a6ddc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\nÉ expressamente proibida aos funcionários da Junta a ingerência ou participação de natureza particular, directa ou indirecta, nas obras e fornecimentos que se realizem nos portos da província."
+  },
+  "2c38649decae81ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\n1. Em tudo o que respeitar às matérias versadas nos capítulos V e VI deste diploma e que não se encontrar neles expressamente previsto fica a Junta Autónoma sujeita ao disposto no Estatuto do Funcionalismo Ultramarino e demais legislação geral aplicável.\n\n2. O pessoal da Junta Autónoma terá todos os direitos e deveres dos funcionários da província de Cabo Verde, sem prejuízo de que, embora pertencendo a outros quadros, preste serviço em comissão."
+  },
+  "f9ca5e47b4659280": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Disposições transitórias e finais"
+  },
+  "f1a51bf1a1a525d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\nNo prazo que o governador da província determinar, em portaria, sobre a data da entrada em vigor deste diploma, a Junta Autónoma, observado o disposto nas alíneas b) e c) dos artigos 24.º, 16.º e 17.º, n.º 1, submeterá à sua aprovação o regulamento ou regulamentos sobre:\n\nA admissão, promoção e movimento de pessoal da Junta;\n\nA exploração e as tarifas dos portos;\n\nOs serviços técnicos e administrativos;\n\nTodas as matérias que careçam de regulamentação que tenham sido, ou não, designadas no articulado deste diploma."
+  },
+  "4c89b444362de974": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\n1. O pessoal que à data da entrada em vigor deste diploma exercer qualquer actividade nos actuais quadros da Junta Autónoma dos Portos da província poderá transitar para os novos quadros agora criados, sendo indispensável que tenha boas informações e devendo a proposta da sua transição ser formulada pela Comissão Administrativa e aprovada pelo Governo da província.\n\n2. O disposto no número anterior não é aplicável ao pessoal da direcção constante do mapa referido no artigo 36.º, anexo a este diploma."
+  },
+  "e95f365ad371a8e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\nAs dúvidas suscitadas na interpretação e aplicação do presente diploma serão resolvidas pelo governador da província, mediante proposta e parecer da Comissão Administrativa."
+  },
+  "15ddfa89c1ea6b11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º\n\nA Junta Autónoma será representada nos tribunais pelos agentes do Ministério Público, segundo a sua hierarquia."
+  },
+  "2291738446d474f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\nFica revogado o Diploma Legislativo Ministerial n.º 11, de 5 de Setembro de 1962, e mais legislação em contrário.\n\nMarcello Caetano - Joaquim Moreira da Silva Cunha.\n\nPromulgado em 12 de Março de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha."
+  }
+ }
+}

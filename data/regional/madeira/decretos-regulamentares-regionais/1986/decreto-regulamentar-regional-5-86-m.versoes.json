@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:196241:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-04-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8ba874fa13b04f50"
+   ]
+  },
+  {
+   "date": "1990-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:549989:por",
+     "title": "Decreto Regulamentar Regional n.º 22/89/M",
+     "published": "1989-11-09",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/22-1989-549989"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "66d8fe5468de0d65",
+    "e45645db708f5486",
+    "617d89a3fe42257a",
+    "93845b22053c69b6",
+    "569d54c7dee6b8e8",
+    "421649ce3fd9ae55",
+    "b571173a7e3b0b7c"
+   ]
+  }
+ ],
+ "fragments": {
+  "8ba874fa13b04f50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aplicação à Região Autónoma da Madeira, com as necessárias adaptações do disposto no [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro.\n\nO [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, veio integrar no direito contra-ordenacional as normas de âmbito laboral que impõem meros deveres para com a Administração, de cujo incumprimento não resulta, pelo menos directa e imediatamente, uma lesão de direitos fundamentais legalmente consagrados.\n\nPor outro lado, através daquele diploma, tendo em vista a efectivação de uma mais rápida e eficaz justiça laboral, foi conferida à Inspecção do Trabalho a competência para o processamento das contra-ordenações laborais, por ser este o organismo da administração do trabalho mais vocacionado para o efeito.\n\nConsiderando que os motivos que levaram à publicação do referido diploma, em grande parte invocados no seu preâmbulo, são igualmente pertinentes em relação à realidade regional:\n\nO Governo da Região Autónoma da Madeira, ao abrigo do disposto na alínea b) do artigo 229.º da Constituição, decreta o seguinte:\n\nArtigo 1.º É aplicável na Região Autónoma da Madeira o [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, com as adaptações constantes dos artigos seguintes.\n\nArt. 2.º - 1 - O produto das coimas aplicadas em matéria de higiene e segurança e medicina do trabalho e de protecção contra acidentes de trabalho e doenças profissionais reverterá para o Fundo de Garantia e Actualização de Pensões.\n\n2 - O produto das demais coimas reverterá para o Fundo de Desemprego, que transferirá anualmente 30% da receita efectivamente arrecadada para o orçamento da Região.\n\n3 - A receita transferida nos termos do número anterior será destinada a custear, a título de compensação, as despesas de funcionamento e processuais a suportar pela Inspecção Regional do Trabalho.\n\nArt. 3.º As entidades sujeitas a fiscalização da Inspecção Regional do Trabalho deverão comunicar a este organismo, antes do início da actividade, a denominação social, ramos de actividade ou objecto social, endereço da sede e locais de trabalho, indicação do Diário da República ou Jornal Oficial da Região em que haja sido publicado o respectivo pacto social, estatuto ou acto constitutivo, identificação e domicílio dos respectivos gerentes, administradores, directores ou membros do órgão gestor e o número de trabalhadores ao serviço.\n\nArt. 4.º - 1 - O processamento das contra-ordenações laborais previstas no [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, compete, na Região Autónoma da Madeira, à Inspecção Regional do Trabalho.\n\n2 - A aplicação das coimas estabelecidas para as contra-ordenações referidas no número anterior compete ao inspector regional do Trabalho e, nas suas ausências ou impedimentos, a funcionário do quadro técnico superior para o efeito designado por despacho do Secretário Regional dos Assuntos Sociais.\n\nArt. 5.º A instrução dos processos contra-ordenacionais será confiada a funcionários devidamente habilitados para o efeito, os quais poderão ser coadjuvados por pessoal administrativo, a designar pelo inspector regional do Trabalho.\n\nArt. 6.º O presente diploma entrará em vigor no dia 1 de Junho de 1986.\n\nAprovado em Conselho do Governo Regional em 30 de Janeiro de 1986.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 21 de Fevereiro de 1986.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel."
+  },
+  "66d8fe5468de0d65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aplicação à Região Autónoma da Madeira, com as necessárias adaptações do disposto no [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro.\n\nO [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, veio integrar no direito contra-ordenacional as normas de âmbito laboral que impõem meros deveres para com a Administração, de cujo incumprimento não resulta, pelo menos directa e imediatamente, uma lesão de direitos fundamentais legalmente consagrados.\n\nPor outro lado, através daquele diploma, tendo em vista a efectivação de uma mais rápida e eficaz justiça laboral, foi conferida à Inspecção do Trabalho a competência para o processamento das contra-ordenações laborais, por ser este o organismo da administração do trabalho mais vocacionado para o efeito.\n\nConsiderando que os motivos que levaram à publicação do referido diploma, em grande parte invocados no seu preâmbulo, são igualmente pertinentes em relação à realidade regional:\n\nO Governo da Região Autónoma da Madeira, ao abrigo do disposto na alínea b) do artigo 229.º da Constituição, decreta o seguinte:"
+  },
+  "e45645db708f5486": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aplicável na Região Autónoma da Madeira o [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, com as adaptações constantes dos artigos seguintes."
+  },
+  "617d89a3fe42257a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1990-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 22/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1989-549989), publicado em 1989-11-09."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Metade do produto das coimas aplicadas em processos cuja instrução esteja cometida à Inspecção Regional do Trabalho reverterá para esta, a título de compensação de custos de funcionamento e despesas processuais.\n\n2 - O remanescente terá o seguinte destino:\n\na) Entidade gestora do Fundo de Garantia e Actualização de Pensões, quanto ao produto das coimas aplicadas em matéria de higiene, segurança e medicina do trabalho e de protecção contra acidentes de trabalho e doenças profissionais;\n\nb) 35% para a Segurança Social e 15% para o orçamento da Região, quanto ao produto das coimas que por lei lhes não seja dado outro destino.\n\n3 - O produto das coimas será depositado, mediante guias, em conta corrente à ordem da Região Autónoma da Madeira, competindo à entidade gestora daquela proceder às respectivas transferências.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1989-549989), publicado em 1989-11-09."
+  },
+  "93845b22053c69b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs entidades sujeitas a fiscalização da Inspecção Regional do Trabalho deverão comunicar a este organismo, antes do início da actividade, a denominação social, ramos de actividade ou objecto social, endereço da sede e locais de trabalho, indicação do Diário da República ou Jornal Oficial da Região em que haja sido publicado o respectivo pacto social, estatuto ou acto constitutivo, identificação e domicílio dos respectivos gerentes, administradores, directores ou membros do órgão gestor e o número de trabalhadores ao serviço."
+  },
+  "569d54c7dee6b8e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O processamento das contra-ordenações laborais previstas no [Decreto-Lei n.º 491/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/491-1985-170477), de 26 de Novembro, compete, na Região Autónoma da Madeira, à Inspecção Regional do Trabalho.\n\n2 - A aplicação das coimas estabelecidas para as contra-ordenações referidas no número anterior compete ao inspector regional do Trabalho e, nas suas ausências ou impedimentos, a funcionário do quadro técnico superior para o efeito designado por despacho do Secretário Regional dos Assuntos Sociais."
+  },
+  "421649ce3fd9ae55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA instrução dos processos contra-ordenacionais será confiada a funcionários devidamente habilitados para o efeito, os quais poderão ser coadjuvados por pessoal administrativo, a designar pelo inspector regional do Trabalho."
+  },
+  "b571173a7e3b0b7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presente diploma entrará em vigor no dia 1 de Junho de 1986.\n\nAprovado em Conselho do Governo Regional em 30 de Janeiro de 1986.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 21 de Fevereiro de 1986.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel."
+  }
+ }
+}

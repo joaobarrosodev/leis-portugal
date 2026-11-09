@@ -1,0 +1,167 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:417030:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-02-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "542cda8433853e0c",
+    "156f619a79135195",
+    "c5222c4ba0e29bb7",
+    "3ff15f41dbc00031",
+    "860ccac9842313dc",
+    "62df66bb4f58d9ee",
+    "cdea45774baf54d5",
+    "453bf87a39c7de5e",
+    "1bba4fd31aeb7d6a",
+    "73a3fe04034f6eff",
+    "65897ec60d492b8f"
+   ]
+  },
+  {
+   "date": "2001-05-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:313842:por",
+     "title": "Decreto Legislativo Regional n.º 13/2001/M",
+     "published": "2001-05-10",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/13-2001-313842"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "542cda8433853e0c",
+    "156f619a79135195",
+    "c5222c4ba0e29bb7",
+    "69062ee62e291fdf",
+    "c6e1e6125ebe76fb",
+    "62df66bb4f58d9ee",
+    "cdea45774baf54d5",
+    "453bf87a39c7de5e",
+    "1bba4fd31aeb7d6a",
+    "73a3fe04034f6eff",
+    "65897ec60d492b8f"
+   ]
+  }
+ ],
+ "fragments": {
+  "542cda8433853e0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Deduções à colecta relativa aos lucros comerciais, industriais e agrícolas reinvestidos pelos sujeitos passivos de IRC\n\nA Lei de Finanças das Regiões Autónomas ([Lei n.º 13/98](https://diariodarepublica.pt/dr/detalhe/lei/13-1998-210978), de 24 de Fevereiro) veio abrir caminho para a adaptação do sistema fiscal nacional às especificidades regionais.\n\nDe facto, a Constituição da República Portuguesa, embora admitindo a possibilidade de tal adaptação, de há muito prevista no Estatuto Político-Administrativo da Região Autónoma da Madeira, condicionava-a à prévia existência de uma lei quadro.\n\nNesse sentido, a Lei de Finanças das Regiões Autónomas inclui uma disposição - artigo 34.º - que expressamente determina a sua equiparação à referida lei quadro.\n\nNa Lei de Finanças das Regiões Autónomas prevêem-se diferentes modelos de desagravamento fiscal, correspondendo uns a reduções genéricas de taxas dos grandes impostos de âmbito nacional e outros à concessão selectiva de incentivos.\n\nAtravés de uma outra proposta aprovada por esta Assembleia, o Governo Regional já avançou no sentido da adaptação do regime de concessão de benefícios pela via contratual, adaptando à Região o disposto no artigo 49.º-A do Estatuto dos Benefícios Fiscais.\n\nCom a aprovação do presente diploma, pretende-se dar mais um passo na adaptação fiscal no sentido do estímulo ao investimento, admitindo a possibilidade de dedução à colecta de lucros reinvestidos em termos significativamente mais favoráveis do que aqueles que estão previstos a nível nacional.\n\nDe facto, passa-se a admitir que a dedução à colecta vá até aos 15%, sendo ainda de sublinhar que não se restringe o benefício aos investimentos considerados adicionais.\n\nAs medidas agora propostas reportam-se apenas a uma receita regional, sendo evidente, como tal, a competência dos órgãos regionais para tomarem esta decisão.\n\nTambém se considera que as medidas aqui previstas em nada colidem com o princípio da coerência com o sistema fiscal nacional a que se refere o artigo 32.º, n.º 1, alínea a), da Lei de Finanças das Regiões Autónomas.\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto no artigo 227.º, n.º 1, alínea i), da Constituição e no artigo 37.º, n.º 1, alínea f), do Estatuto Político-Administrativo da Região Autónoma da Madeira, revisto pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, o seguinte:"
+  },
+  "156f619a79135195": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\nO presente diploma visa estabelecer o regime das deduções à colecta relativa aos lucros comerciais, industriais e agrícolas, reinvestidos pelos sujeitos passivos de imposto sobre o rendimento das pessoas colectivas que tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira."
+  },
+  "c5222c4ba0e29bb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Deduções à colecta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Deduções à colecta\n\n1 - Os sujeitos passivos identificados no artigo anterior podem deduzir ao montante apurado nos termos da alínea a) do n.º 1 do artigo 71.º do Código do IRC, e até à concorrência do mesmo, uma importância correspondente a 15% dos lucros reinvestidos nos exercícios de 2000 a 2002.\n\n2 - A dedução é feita, nos termos da alínea d) do n.º 2 do artigo 71.º do Código do IRC, na liquidação respeitante aos períodos de tributação mencionados no número anterior.\n\n3 - Aplicando-se o regime de tributação pelo lucro consolidado nos termos dos artigos 59.º e seguintes do Código do IRC, a dedução é feita nos termos previstos nas diversas alíneas do artigo 4.º do [Decreto-Lei n.º 121/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1995-527410), de 31 de Maio, com as necessárias adaptações, sendo igualmente aplicável o disposto no n.º 2 do artigo 6.º e no n.º 2 do artigo 8.º do mesmo diploma legal.\n\n4 - Os valores que não sejam deduzidos à colecta de um determinado exercício podem ser reportados para um dos três exercícios seguintes."
+  },
+  "3ff15f41dbc00031": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Investimento elegível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Investimento elegível\n\nPara efeitos do disposto no artigo anterior, considera-se elegível o investimento em activo imobilizado corpóreo concretizado na Região Autónoma da Madeira que seja afecto à exploração pelo sujeito passivo e que tenha sido adquirido em estado novo, com excepção de:\n\na) Terrenos, salvo no caso de se destinarem a exploração de concessões mineiras, águas minerais naturais e de nascente, pedreiras, barreiros e areeiros em projectos de indústria extractiva;\n\nb) Edifícios e outras construções não directamente ligadas ao processo produtivo ou às actividades administrativas essenciais;\n\nc) Viaturas ligeiras de passageiros;\n\nd) Artigos de conforto ou de decoração;\n\ne) Outros bens de investimento não directa e imprescindivelmente associados à actividade produtiva executada."
+  },
+  "860ccac9842313dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de acesso\n\nDa dedução a que se refere o artigo 2.º só poderão beneficiar os sujeitos passivos de IRC que preencham cumulativamente as seguintes condições:\n\na) O seu lucro tributável não seja determinado por métodos indiciários ou avaliação indirecta;\n\nb) Mantenham na empresa durante um período mínimo de três anos os bens objecto do investimento;\n\nc) Não sejam devedores ao Estado e à segurança social de quaisquer impostos ou contribuições ou tenham o pagamento dos débitos devidamente assegurados."
+  },
+  "62df66bb4f58d9ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Justificação das deduções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Justificação das deduções\n\n1 - A dedução a que se refere o artigo 2.º será justificada por declaração, a anexar à declaração periódica de rendimentos referente a cada um dos exercícios, indicando os bens objecto de investimento, o seu custo, a data de entrada em funcionamento e outros elementos considerados pertinentes.\n\n2 - A declaração mencionada no número anterior será acompanhada de documento comprovativo de que se encontra preenchida a condição referida na alínea c) do artigo 4.º, com referência ao mês anterior ao da declaração."
+  },
+  "cdea45774baf54d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Contabilização do benefício fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contabilização do benefício fiscal\n\nA contabilidade das empresas dará expressão ao imposto que deixar de ser pago em resultado da dedução a que se refere o artigo 2.º, mediante menção do valor correspondente no anexo ao balanço e à demonstração de resultados relativos ao exercício em que se efectua a dedução."
+  },
+  "453bf87a39c7de5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Cumulação de benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cumulação de benefícios\n\nA dedução a que se refere o artigo 2.º não é acumulável, relativamente ao mesmo investimento, com benefícios fiscais da mesma natureza previstos noutros diplomas legais, quer de carácter nacional, quer regional."
+  },
+  "1bba4fd31aeb7d6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Incumprimento\n\nNo caso de incumprimento do disposto na alínea b) do artigo 4.º, será adicionado ao IRC relativo ao exercício em que a empresa alienar os bens objecto do investimento o IRC que deixou de ser liquidado por virtude de dedução à colecta, acrescido dos juros compensatórios correspondentes."
+  },
+  "73a3fe04034f6eff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Implementação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Implementação\n\nO Governo Regional diligenciará junto do Governo da República para que sejam concretizadas as alterações necessárias nos processamentos informáticos e outros, tendo em vista o pleno cumprimento do previsto no presente diploma."
+  },
+  "65897ec60d492b8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nEste diploma entra em vigor no dia seguinte após a data da sua publicação.\n\nAprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 20 de Janeiro de 2000.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 10 de Fevereiro de 2000.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "69062ee62e291fdf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Investimento elegível",
+   "in_force_from": "2001-05-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 13/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2001-313842), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 3.º — Investimento elegível\n\n1 - Para efeitos do disposto no artigo anterior, considera-se elegível o investimento em activo imobilizado corpóreo concretizado na Região Autónoma da Madeira que seja afecto à exploração pelo sujeito passivo e que tenha sido adquirido em estado novo, com excepção de:\n\na) Terrenos, salvo no caso de se destinarem a exploração de concessões mineiras, águas minerais naturais e de nascente, pedreiras, barreiros e areeiros em projectos de indústria extractiva;\n\nb) Edifícios e outras construções não directamente ligadas ao processo produtivo ou às actividades administrativas essenciais;\n\nc) Viaturas ligeiras de passageiros;\n\nd) Artigos de conforto ou de decoração;\n\ne) Despesas destinadas à aquisição de material de transporte, no sector dos transportes;\n\nf) Outros bens de investimento não directa e imprescindivelmente associados à actividade produtiva executada.\n\n2 - Atentas as excepções indicadas, entende-se por investimento elegível o investimento inicial em activo imobilizado corpóreo para a criação de um novo estabelecimento, para a extensão de um estabelecimento existente ou para o arranque de uma actividade que implique uma alteração fundamental do produto ou do processo de produção de um estabelecimento existente através da racionalização, diversificação ou modernização.\n\n3 - Os projectos elegíveis devem ser financeira e economicamente viáveis, sendo fixada em 25% a taxa mínima de comparticipação do beneficiário no financiamento dos mesmos.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2001-313842), publicado em 2001-05-10."
+  },
+  "c6e1e6125ebe76fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de acesso",
+   "in_force_from": "2001-05-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 13/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2001-313842), publicado em 2001-05-10."
+   ],
+   "markdown": "###### Artigo 4.º — Condições de acesso\n\nDa dedução a que se refere o artigo 2.º só poderão beneficiar os sujeitos passivos de IRC que preencham cumulativamente as seguintes condições:\n\na) O seu lucro tributável não seja determinado por métodos indiciários ou avaliação indirecta;\n\nb) Mantenham na empresa durante um período mínimo de cinco anos os bens objecto do investimento;\n\nc) Não sejam devedores ao Estado e à segurança social de quaisquer impostos ou contribuições ou tenham o pagamento dos débitos devidamente assegurados.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2001-313842), publicado em 2001-05-10."
+  }
+ }
+}

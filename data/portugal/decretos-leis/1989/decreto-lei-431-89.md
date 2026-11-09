@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-08-13'
+version_history:
+  file: decreto-lei-431-89.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-12-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-08-13'
+    amending: pt:dre:283920:por
+    amending_title: Decreto-Lei n.º 167/92
+    changes:
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:55:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 167/92. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1989/decreto-lei-431-89.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -247,9 +262,11 @@ e) A formação de nível superior ou universitária em outras áreas do conheci
 
 ###### Artigo 10.º — Regime de instalação
 
-1 - Nos termos da legislação aplicável, a instalação da Escola será da competência de uma comissão instaladora nomeada pelos membros do Governo competentes, sob proposta da Direcção-Geral do Ensino Superior e do Instituto Português do Património Cultural, e deverá estar concluída no prazo de um ano improrrogável.
+1 - Nos termos da legislação aplicável, a instalação da Escola será da competência de uma comissão instaladora, nomeada pelos membros do Governo competentes, sob proposta da Direcção-Geral do Ensino Superior e do Instituto Português do Património Arquitectónico e Arqueológico, e deverá estar concluída no prazo de três anos a contar da data da sua posse.
 
 2 - Durante o regime de instalação poderão ser criados quadros provisórios de pessoal docente e não docente, por portaria conjunta dos Ministros das Finanças e da Educação e do membro do Governo responsável pela área da cultura.
+
+> Alterado pelo/a [Decreto-Lei n.º 167/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1992-283920), publicado em 1992-08-08.
 
 ###### Artigo 11.º — Disposições transitórias
 

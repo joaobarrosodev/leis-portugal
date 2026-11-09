@@ -30,10 +30,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-11-08'
+version_history:
+  file: decreto-legislativo-regional-21-a-99-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-08-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-11-08'
+    amending: pt:dre:629169:por
+    amending_title: Decreto Legislativo Regional n.º 15/2007/M
+    changes:
+    - Adita Artigo 3.º
+    - Altera Artigo 3.º
+    - Altera Artigo ANEXO I — ESTATUTOS DA VIALITORAL, CONCESSÕES RODOVIÁRIAS DA MADEIRA, S. A.::3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/21-a/1999/08/24/m/dre/pt/html
@@ -59,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    15/2007/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1999/decreto-legislativo-regional-21-a-99-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,6 +158,10 @@ As obrigações entre a Região Autónoma da Madeira e a VIALITORAL serão as de
 
 Fica o Governo Regional autorizado a adjudicar à VIALITORAL, Concessões Rodoviárias da Madeira, S. A., a concessão da exploração e manutenção, em regime de serviço público de exclusividade e de portagem sem cobrança aos utilizadores (SCUT), o troço rodoviário da ER 101 compreendido entre Ribeira Brava e Machico.
 
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2007-629169), publicado em 2007-11-07.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 15/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2007-629169), publicado em 2007-11-07.
+
 ###### Artigo 4.º
 
 1 - Fica a VIALITORAL, Concessões Rodoviárias da Madeira, S. A., autorizada a proceder a quaisquer aumentos do seu capital, desde que a Região Autónoma da Madeira mantenha uma participação social de percentagem não inferior a 20%.
@@ -193,11 +214,13 @@ A sociedade tem por objecto a exploração e manutenção, em regime de concess�
 
 ###### Artigo 3.º — Capital social
 
-1 - O capital social é de (Euro) 100000, dividido em acções com o valor nominal de (Euro) 5 cada uma, e encontra-se totalmente subscrito e realizado pela Região Autónoma da Madeira.
+1 - O capital social é de (euro) 16 125 000, dividido em acções com o valor nominal de (euro) 5 cada uma, e encontra-se totalmente subscrito e realizado pelos accionistas.
 
 2 - O capital social poderá ser aumentado, por uma ou mais vezes, por entradas em dinheiro, no prazo de cinco anos, por deliberação da administração, até (Euro) 15000000, através da emissão de novas acções com o valor nominal das já existentes.
 
 3 - O primeiro aumento de capital, feito nos termos do número anterior, será até ao montante de (Euro) 500000 e será integralmente subscrito pelo(s) agrupamento(s) de empresas seleccionado(s) pelo Governo Regional, no respeito pelos requisitos estabelecidos em resolução sua, renunciando o Governo Regional ao direito de acompanhar este aumento.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 15/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2007-629169), publicado em 2007-11-07.
 
 ###### Artigo 4.º — Acções
 

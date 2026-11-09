@@ -40,10 +40,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-06-14'
+version_history:
+  file: portaria-745-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-07-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-06-14'
+    amending: pt:dre:343948:por
+    amending_title: Portaria n.º 814/2010; Portaria n.º 228/2011
+    changes:
+    - Altera Artigo ANEXO::6.º
+    - Altera Artigo ANEXO::9.º
+    - Altera Artigo ANEXO::11.º
+    - Altera Artigo ANEXO::12.º
+    - Altera Artigo ANEXO::13.º
+    - Altera Artigo ANEXO::15.º
+    - Revoga Artigo ANEXO::23.º
+    - Altera Artigo ANEXO::7.º
+    - Altera Artigo ANEXO::19.º
+    - Altera Artigo ANEXO::21.º
+    - Altera Artigo ANEXO::22.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/745/2009/07/13/p/dre/pt/html
@@ -69,7 +93,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:42:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 814/2010; Portaria n.º
+    228/2011. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-745-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -242,9 +267,9 @@ a) Encontrarem-se legalmente constituídos;
 
 b) Cumprirem as condições legais necessárias ao exercício da respectiva actividade, nomeadamente terem a situação regularizada em matéria de licenciamentos;
 
-c) Possuírem a situação regularizada face à administração fiscal e à segurança social;
+c) (Revogada.)
 
-d) Disporem de contabilidade actualizada e organizada ou de um sistema de contabilidade simplificada, nos termos das normas RICA, ou outros equiparados para o efeito;
+d) (Revogada.)
 
 e) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;
 
@@ -252,9 +277,11 @@ f) Apresentarem um contrato de parceria onde estejam expressas as obrigações, 
 
 g) Possuírem meios humanos e materiais adequados à realização da operação, nomeadamente quadros com competência, aptidão técnica e experiência para as actividades elegíveis.
 
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
+
 ###### Artigo 7.º — Critérios de elegibilidade das operações
 
-Podem beneficiar dos apoios previstos no presente Regulamento as operações que, cumulativamente, cumpram os objectivos previstos no artigo 2.º e reúnam as seguintes condições:
+1 - Podem beneficiar dos apoios previstos no presente Regulamento as operações que, cumulativamente, cumpram os objectivos previstos no artigo 2.º e reúnam as seguintes condições:
 
 a) Apresentem um plano de acção com coerência técnica, económica e financeira, relativo a um período limitado, com uma duração mínima de três anos e máxima de cinco, que inclua duas fases:
 
@@ -262,9 +289,15 @@ a) Apresentem um plano de acção com coerência técnica, económica e financei
 
 2.ª fase - divulgação da informação e garantia de sustentabilidade da rede temática;
 
-b) Identifiquem o público alvo potencial utilizador da rede temática através de levantamento ou estudo de mercado;
+b) Identifiquem o público alvo potencial utilizador da rede temática;
 
 c) Assegurem as fontes de financiamento de capital alheio.
+
+2 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem.
+
+3 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 8.º — Despesas elegíveis e não elegíveis
 
@@ -284,7 +317,7 @@ d) Cumprir as obrigações legais, designadamente as fiscais e para com a segura
 
 e) Cumprir as normas legais aplicáveis em matéria de segurança e higiene no trabalho;
 
-f) Manter um sistema de contabilidade nos termos previstos na alínea d) do artigo 6.º;
+f) Ter um sistema de contabilidade organizada ou simplificada de acordo com o legalmente exigido;
 
 g) Manter a actividade existente à data da candidatura e as condições legais necessárias ao exercício da mesma, durante o período de cinco anos a contar da data de celebração do contrato, ou até ao termo da operação, se tal termo ultrapassar os cinco anos;
 
@@ -302,6 +335,8 @@ b) Elaborar o relatório anual de progresso, nos termos definidos em OTE;
 
 c) Apresentar à autoridade de gestão, um ano após o recebimento integral dos apoios, um relatório de avaliação relativo aos resultados da operação.
 
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
+
 ###### Artigo 10.º — Forma e níveis dos apoios
 
 Os apoios são concedidos sob a forma de incentivos não reembolsáveis até 75 % da despesa total elegível, por um prazo máximo de cinco anos e de forma degressiva, nos termos do anexo ii.
@@ -314,25 +349,31 @@ a) Adequação da parceria ao objectivo da rede temática (VP), que valoriza, fa
 
 b) Número de agentes que compõem a rede temática (VR), que valoriza a capacidade de transferência de conhecimento e tecnologia;
 
-c) Número de destinatários potenciais dos resultados do desenvolvimento, comprovado através de levantamento ou estudo de mercado (N), que valoriza a dimensão do público alvo e o interesse da informação para este público;
+c) Número de destinatários potenciais dos resultados do desenvolvimento (N) que valoriza a dimensão do público alvo e o interesse da informação para este público;
 
 d) Abrangência internacional da parceria (A), que valoriza as entidades internacionais com quem está assegurada a partilha de informação.
 
 2 - Os pedidos de apoio mencionados no número anterior são hierarquizados por ordem decrescente em função da respectiva valia global da operação, calculada de acordo com a fórmula constante no anexo iii.
 
+3 - A alteração dos critérios de selecção referidos nos números anteriores, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRODER, em www.proder.pt.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
+
 ### CAPÍTULO II — Procedimento
 
 ###### Artigo 12.º — Apresentação dos pedidos de apoio
 
-1 - Os pedidos de apoio são submetidos por concurso, ao abrigo do disposto na alínea b) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, divulgado pela autoridade de gestão com a antecedência de 10 dias seguidos relativamente à data de publicidade do respectivo aviso de abertura.
+1 - Os pedidos de apoio são submetidos, ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, na modalidade de concurso, de período definido ou de período contínuo, consoante decisão do gestor, sendo os respectivos períodos de abertura divulgados pela autoridade de gestão com a antecedência de 10 dias seguidos relativamente ao início do prazo de submissão.
 
 2 - A apresentação dos pedidos de apoio efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.
 
 3 - A apresentação dos pedidos de apoio deve revestir a forma de candidatura em parceria.
 
-###### Artigo 13.º — Avisos de abertura
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
-Os avisos de abertura dos concursos são aprovados pelo gestor, após audição da comissão de gestão, e homologados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, e indicam, nomeadamente, o seguinte:
+###### Artigo 13.º — Avisos de abertura e anúncios
+
+1 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:
 
 a) Os objectivos e as prioridades visadas;
 
@@ -342,11 +383,13 @@ c) A dotação orçamental a atribuir;
 
 d) O número máximo de pedidos de apoio admitidos por beneficiário;
 
-e) As componentes dos factores da valia global da operação e respectiva ponderação, aplicáveis em função das prioridades e objectivos fixados para cada concurso;
+e) Os critérios de selecção e respectivos factores e fórmulas, em função dos objectivos e prioridades fixados;
 
 f) A forma e níveis dos apoios a conceder, respeitando o disposto no artigo 10.º
 
-2 - Os avisos de abertura dos concursos são divulgados em www.proder.pt e publicados em dois jornais de grande circulação e, quando se justifique, num jornal regional relevante na área geográfica do respectivo concurso.
+2 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 14.º — Análise e decisão dos pedidos de apoio
 
@@ -358,9 +401,11 @@ f) A forma e níveis dos apoios a conceder, respeitando o disposto no artigo 10.
 
 4 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada à entidade gestora da parceria pelo secretariado técnico no prazo máximo de 15 dias úteis a contar da data de recepção do parecer prevista no n.º 3.
 
-###### Artigo 15.º — Transição de pedidos
+###### Artigo 15.º — Readmissão de pedidos de apoio
 
-Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental transitam automaticamente para o concurso subsequente, sendo definitivamente recusados caso não obtenham aprovação nesse concurso.
+Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 16.º — Contrato de financiamento
 
@@ -396,9 +441,11 @@ Os pedidos de apoio que tenham sido objecto de parecer favorável e que não ten
 
 3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.
 
-4 - São realizadas visitas aos locais da operação pelo menos uma vez durante o seu período de execução e, preferencialmente, aquando da análise do último pedido de pagamento.
+4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
 5 - Para efeitos de pagamento ao beneficiário, o secretariado técnico comunica a validação da despesa ao IFAP, I. P.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 20.º — Pagamentos
 
@@ -406,19 +453,23 @@ Os pagamentos dos apoios são efectuados pelo IFAP, I. P., por transferência ba
 
 ###### Artigo 21.º — Controlo
 
-1 - A operação está sujeita a acções de controlo a partir da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
+1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
-2 - Para além do disposto no número anterior, a operação está sujeita a controlo até 24 meses após o pagamento final.
+2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 22.º — Reduções e exclusões
 
-Em caso de incumprimento ou de qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis aos beneficiários as reduções e as exclusões previstas no Regulamento (CE) n.º [1975/2006](http://data.europa.eu/eli/reg/2006/1975/oj?locale=pt), da Comissão, de 7 de Dezembro.
+Em caso de incumprimento ou de qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis aos beneficiários as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 23.º — Disposição transitória
 
-As despesas efectuadas após 1 de Janeiro de 2009 são consideradas elegíveis quando os candidatos apresentem os pedidos de apoio a concursos cujos avisos de abertura sejam publicados no ano de 2009 e as respectivas operações não estejam concluídas antes da data de aprovação dos pedidos de apoio.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ## ANEXO I — Despesas elegíveis e não elegíveis
 

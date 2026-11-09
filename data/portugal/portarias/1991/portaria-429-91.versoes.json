@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:644363:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1991-05-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "42f25d2fda9d99cf",
+    "bce2b75301fa2f8e"
+   ]
+  },
+  {
+   "date": "1991-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:521470:por",
+     "title": "Declaração de Rectificação n.º 167/91",
+     "published": "1991-07-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/167-1991-521470"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "42f25d2fda9d99cf",
+    "9b510f5da840fa70"
+   ]
+  }
+ ],
+ "fragments": {
+  "42f25d2fda9d99cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Maio\n\nAs características regulamentares dos veículos automóveis e dos reboques, previstas no artigo 27.º do Regulamento do Código da Estrada, devem ser verificadas em inspecção.\n\nTal exigência traduz-se em elevados encargos para os utentes e para a Administração, que nem sempre se justificam por razões de segurança e de adequada identificação dos veículos.\n\nTem aqui plena aplicação a política do Governo, consagrada expressamente no [Decreto-Lei n.º 129/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1981-574695) de 2 de Abril, de limitar os procedimentos administrativos aos casos em que deles se retirem contrapartidas de eficácia e eficiência, pelo que se revela adequada uma redefinição daquelas características regulamentares que abranja exclusivamente as que se prendem com a correcta identificação dos veículos e com as respectivas condições de segurança.\n\nAssim:\n\nManda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, ao abrigo no disposto no artigo 2.º do [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954, o seguinte:\n\n1.º Os n.os 2, 3 e 4 do artigo 27.º do Regulamento do Código da Estrada, aprovado pelo Decreto-Lei n.º 39987, de 22 de Dezembro de 1954, passam a ter a seguinte redacção:"
+  },
+  "bce2b75301fa2f8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1 - ...\n\n2 - As características dos veículos automóveis são as seguintes:\n\na) ...\n\nb) ...\n\n3 - As características dos reboques são as seguintes:\n\na) ...\n\nb) ...\n\n4 - Para efeitos do disposto no artigo 36.º do Código da Estrada e no presente Regulamento, consideram-se características regulamentares dos veículos. automóveis e dos reboques as seguintes:\n\na) Dos veículos automóveis:\n\nAs indicadas na alínea a), 1.º, 2.º, 4.º, 6.º e 7.º, e na alínea b), 1.º, 2.º, 3.º, 4.º, 9.º, este apenas quanto ao número de cilindros, cilindrada e combustível, e 13.º, do n.º 2 do presente artigo.\n\nb) Dos reboques:\n\nAs indicadas na alínea a), 1.º, 2.º, 4.º e 6.º, e na alínea b), 1.º, 2.º, 3.º, 4.º, 5.º, 6.º e 9.º, do n.º 2 do presente artigo.\n\n5 - ...\n\n6 - ...\n\n2.º O presente diploma entra imediatamente em vigor.\n\nMinistério das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 15 de Maio de 1991.\n\nPelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes."
+  },
+  "9b510f5da840fa70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1991-07-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 167/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/167-1991-521470), publicado em 1991-07-31."
+   ],
+   "markdown": "###### Artigo 27.º\n\n1 - ...\n\n2 - As características dos veículos automóveis são as seguintes:\n\na) ...\n\nb) ...\n\n3 - As características dos reboques são as seguintes:\n\na) ...\n\nb) ...\n\n4 - Para efeitos do disposto no artigo 36.º do Código da Estrada e no presente Regulamento, consideram-se características regulamentares dos veículos. automóveis e dos reboques as seguintes:\n\na) Dos veículos automóveis:\n\nAs indicadas na alínea a), 1.º, 4.º e 6.º, e na alínea b), 1.º, 2.º, 3.º, 4.º, 9.º, este apenas quanto ao número de cilindros, cilindrada de combustível, e 13.º, do n.º 2 do presente artigo.\n\nb) Dos reboques:\n\nAs indicadas na alínea a), 1.º e 4.º, e na alínea b), 1.º, 2.º, 3.º, 4.º, 5.º, 6.º e 9.º, do n.º 3 do presente artigo.\n\n5 - ...\n\n6 - ...\n\n2.º O presente diploma entra imediatamente em vigor.\n\nMinistério das Obras Públicas, Transportes e Comunicações.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 167/91](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/167-1991-521470), publicado em 1991-07-31.\n\nAssinada em 15 de Maio de 1991.\n\nPelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes."
+  }
+ }
+}

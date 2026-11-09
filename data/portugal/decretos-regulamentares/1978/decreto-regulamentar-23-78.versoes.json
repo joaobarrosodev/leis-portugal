@@ -1,0 +1,104 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:434601:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-07-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "745f9024c66571cb"
+   ]
+  },
+  {
+   "date": "1980-09-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:463999:por",
+     "title": "Decreto Regulamentar n.º 45/80",
+     "published": "1980-09-03",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/45-1980-463999"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "4e5540fd4bc4ca28",
+    "2a8876d40872ebbb",
+    "3fd408478164a2a1",
+    "045c5d14310c1d8f",
+    "69dc6c735e1989a1",
+    "aeac8708c28c04cf"
+   ]
+  }
+ ],
+ "fragments": {
+  "745f9024c66571cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Julho\n\nEm obediência ao princípio constitucional segundo o qual os Deputados não podem, por virtude do seu mandato, ser prejudicados nos seus benefícios sociais, houve que elaborar o presente decreto regulamentar, que consagrasse uma forma de protecção em termos de segurança social.\n\nDada, no entanto, a diversidade de regimes em que os Deputados, aquando do início do seu mandato, estavam sujeitos, optou-se no sentido de:\n\nProporcionar aos Deputados um regime de protecção social que mantenha a sua vinculação aos regimes de origem;\n\nProporcionar aos que não se encontravam abrangidos por qualquer regime o seu enquadramento no do funcionalismo público.\n\nO presente diploma consubstancia o consenso que nesta matéria se pode obter, curando de não criar, por um lado, situações de injustiça relativa entre os Deputados e, por outro, salvaguardar que os regimes a ela aplicáveis são os existentes para a generalidade da população.\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - Os Deputados à Assembleia da República, ainda que não abrangidos por qualquer regime de previdência social, beneficiam do regime de protecção social aplicável ao funcionalismo público, enquanto se mantiverem no exercício do seu mandato.\n\n2 - Poderão os Deputados, porém, optar pelo regime de previdência da sua actividade profissional anterior.\n\nArt. 2.º A base de incidência das contribuições é o subsídio atribuído pelo exercício do mandato, devendo o encargo inerente ao Deputado ser deduzido no respectivo subsídio.\n\nArt. 3.º - 1 - Quando se verifique a opção prevista no n.º 2 do artigo 1.º, a Assembleia da República assume o encargo relativo à parte patronal das contribuições.\n\n2 - A entidade competente para a gestão do esquema de protecção a que se refere este artigo é a Caixa de Previdência e Abono de Família dos Serviços do Distrito de Lisboa.\n\nArt. 4.º - 1 - O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.\n\n2 - Qualquer que seja o regime de previdência por que os Deputados tenham optado, considera-se para todos os efeitos equivalente à entrada de contribuições o período decorrido entre o início do mandato dos Deputados e a entrada em vigor deste decreto regulamentar.\n\nArt. 5.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministérios das Finanças e do Plano e dos Assuntos Sociais.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - António Duarte Arnaut.\n\nPromulgado em 30 de Junho de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "4e5540fd4bc4ca28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Julho\n\nEm obediência ao princípio constitucional segundo o qual os Deputados não podem, por virtude do seu mandato, ser prejudicados nos seus benefícios sociais, houve que elaborar o presente decreto regulamentar, que consagrasse uma forma de protecção em termos de segurança social.\n\nDada, no entanto, a diversidade de regimes em que os Deputados, aquando do início do seu mandato, estavam sujeitos, optou-se no sentido de:\n\nProporcionar aos Deputados um regime de protecção social que mantenha a sua vinculação aos regimes de origem;\n\nProporcionar aos que não se encontravam abrangidos por qualquer regime o seu enquadramento no do funcionalismo público.\n\nO presente diploma consubstancia o consenso que nesta matéria se pode obter, curando de não criar, por um lado, situações de injustiça relativa entre os Deputados e, por outro, salvaguardar que os regimes a ela aplicáveis são os existentes para a generalidade da população.\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "2a8876d40872ebbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - Os Deputados à Assembleia da República, ainda que não abrangidos por qualquer regime de previdência social, beneficiam do regime de protecção social aplicável ao funcionalismo público, enquanto se mantiverem no exercício do seu mandato.\n\n2 - Poderão os Deputados, porém, optar pelo regime de previdência da sua actividade profissional anterior."
+  },
+  "3fd408478164a2a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1980-09-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1980-463999), publicado em 1980-09-03."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - A base de incidência das contribuições é o subsídio atribuído pelo exercício do mandato, devendo o encargo respeitante ao beneficiário ser deduzido no respectivo subsídio.\n\n2 - Se a remuneração da actividade profissional, passível de contribuição para a Previdência, for de valor superior ao do subsídio devido pelo exercício do mandato de Deputado, a diferença, até à concorrência do salário máximo nacional, será equiparada, para efeitos de previdência, a remuneração com entrada de contribuições.\n\n3 - Os subsídios extraordinários de valor igual ao do subsídio mensal pagos aos Deputados em Junho e Dezembro são passíveis de contribuição para a Previdência.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1980-463999), publicado em 1980-09-03."
+  },
+  "045c5d14310c1d8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1980-09-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1980-463999), publicado em 1980-09-03."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Quando se verifique a opção prevista no n.º 2 do artigo 1.º, a Assembleia da República assume o encargo relativo à parte patronal das contribuições.\n\n2 - Os Deputados que optem pelo regime de previdência da sua actividade profissional anterior mantém a inscrição na instituição que os abrangia.\n\n3 - Os Deputados que, pela sua actividade profissional, estejam abrangidos pela regulamentação colectiva de trabalho aplicável à actividade bancária e não optem pelo regime de protecção social aplicável ao funcionalismo público mantêm a inscrição na Caixa de Abono de Família dos Empregados Bancários.\n\n4 - Para execução do presente diploma, a secretaria da Assembleia da República pode, sempre que o considere necessário, solicitar apoio técnico e administrativo à Caixa de Previdência e Abono de Família dos Serviços do Distrito de Lisboa.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 45/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-1980-463999), publicado em 1980-09-03."
+  },
+  "69dc6c735e1989a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.\n\n2 - Qualquer que seja o regime de previdência por que os Deputados tenham optado, considera-se para todos os efeitos equivalente à entrada de contribuições o período decorrido entre o início do mandato dos Deputados e a entrada em vigor deste decreto regulamentar."
+  },
+  "aeac8708c28c04cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho conjunto dos Ministérios das Finanças e do Plano e dos Assuntos Sociais.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - António Duarte Arnaut.\n\nPromulgado em 30 de Junho de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

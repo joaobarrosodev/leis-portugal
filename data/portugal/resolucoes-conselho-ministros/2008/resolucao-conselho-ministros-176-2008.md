@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-03-15'
+version_history:
+  file: resolucao-conselho-ministros-176-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-03-15'
+    amending: pt:dre:502844:por
+    amending_title: Resolução do Conselho de Ministros n.º 67/2013; Resolução do Conselho de Ministros n.º 19/2014
+    changes:
+    - Altera Artigo 20.º
+    - Altera Artigo 32.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/176/2008/11/24/p/dre/pt/html
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:57:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 67/2013; Resolução do Conselho de Ministros n.º 19/2014. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2008/resolucao-conselho-ministros-176-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -646,7 +662,29 @@ d) Recolha de animais em montarias;
 
 e) Situações de risco ou calamidade.
 
-5 - Nos casos referidos nas alíneas a), b) e d) do número anterior, a navegação está sujeita a parecer vinculativo do ICNB, I. P.
+f) Atividades de turismo de natureza, nas modalidades de passeios de barco com motor, sem prejuízo do disposto no n.º 6 do artigo 32.º;
+
+g) Atividades de turismo de natureza, nas modalidades de passeios de barco sem motor, remo, canoagem e atividades náuticas similares, exclusivamente no rio Tejo;
+
+h) Pesca profissional.
+
+5 - No exercício das atividades previstas na alínea f) do número anterior, não pode verificar-se a navegação simultânea de duas ou mais embarcações em cada um dos troços da albufeira correspondentes aos rios Ponsul e Tejo.
+
+6 - O disposto no n.º 4, para os pescadores profissionais, no máximo de seis, fica condicionado à emissão de autorização prévia, com validade anual, a conceder mediante publicação de edital pelo ICNF, I.P., desde que verificados os seguintes requisitos:
+
+a) Exercício da pesca profissional em águas interiores da região centro;
+
+b) Exercício da pesca profissional na albufeira de Monte Fidalgo / Cedilho, desde 2008;
+
+c) Inscrição, em sede tributária, como pescador profissional - pesca em águas interiores;
+
+d) Evidência de que o rendimento do respetivo agregado familiar depende do exercício dessa atividade ou de atividade dependente da mesma;
+
+e) A navegação e a pesca apenas podem ser realizadas no troço principal dos rios Tejo e Ponsul, não podendo ser realizadas nos respetivos afluentes.
+
+7 - Nos casos referidos nas alíneas a), b), d), f), g) e h) do n.º 4, a navegação está sujeita a parecer vinculativo do ICNF, I.P.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 19/2014](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/19-2014-572426), publicado em 2014-03-10.
 
 DIVISÃO II
 
@@ -882,7 +920,13 @@ e) Em situações de risco ou calamidade.
 
 5 - Sem prejuízo das restrições previstas na legislação aplicável e no presente Regulamento, a navegação fica sujeita a parecer vinculativo do ICNB, I. P., o qual especificará as condições em que a navegação pode ser efectuada nos troços e períodos navegáveis e as actividades que podem ser desenvolvidas.
 
-6 - Em toda a área navegável dos rios Tejo e Ponsul, só pode operar, em cada momento, uma embarcação marítimo-turística.
+6 - Sem prejuízo do disposto no número anterior e no artigo 20.º, pode navegar em toda a área navegável dos rios Tejo e Ponsul, em cada momento, uma embarcação marítimo-turística destinada à atividade de turismo de natureza, na modalidade de passeio de barco com motor.
+
+7 - O disposto no número anterior não prejudica a extensão de igual permissão a uma embarcação devidamente autorizada pelas autoridades do Reino de Espanha, em regime de reciprocidade.
+
+8 - Do conjunto das embarcações marítimo-turísticas licenciadas, o número máximo de passagens diárias em todo o troço do Rio Ponsul, no período de 15 de fevereiro a 31 de julho, é fixado nos termos da respetiva licença.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/67-2013-502844), publicado em 2013-10-28.
 
 ###### Artigo 33.º — Edificações e infra-estruturas
 

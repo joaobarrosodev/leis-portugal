@@ -1,0 +1,502 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:660163:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1984-01-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4b9e531e1a843394",
+    "e82e298be73417b9",
+    "5f6a729b7e638029",
+    "0182dd11b4335b5e",
+    "0548c9aa9463aa6f",
+    "fa066a9bc829d2f6",
+    "ae7d8e37deaf797a",
+    "2c97772139e92a45",
+    "0196929ea3c94c64",
+    "808e613434e5543f",
+    "b34340f56fab8cff",
+    "9b3b1661f14afd8a",
+    "3882cf223b4f9808",
+    "c131699a284c8b59",
+    "c4cf74d3c0201b00",
+    "f12371ed464aab5c",
+    "b6da8b6100a7dc90",
+    "4cbfa06889b92206",
+    "897fec8e13521706",
+    "79e512c1043b9b13",
+    "78fa801363f78ab8",
+    "da66121e22eabe64",
+    "64b4e0b8b28c9fd3",
+    "78f51c44bb015d7d",
+    "6bb64d4f12761a25",
+    "6ca522390246bac8",
+    "d87216c4f9907781",
+    "bfe64bcc0e6f1262"
+   ]
+  },
+  {
+   "date": "1984-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:399620:por",
+     "title": "Portaria n.º 742/84",
+     "published": "1984-09-22",
+     "dre_path": "/dr/detalhe/portaria/742-1984-399620"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "4b9e531e1a843394",
+    "e82e298be73417b9",
+    "c25346bca3c4b227",
+    "ee2f59aca7797183",
+    "2e56c7c738aaf351",
+    "c7c1b06f76a6cd86",
+    "8e8e379fc6017d9a",
+    "4c8c6beea661696e",
+    "c9dc181835e5becb",
+    "9a67b8cf3e6513c0",
+    "933f7008df8d4035",
+    "8cec28ee970adbd0",
+    "3882cf223b4f9808",
+    "3298a2beb2d80460",
+    "c4cf74d3c0201b00",
+    "e0e96e4c75755f81",
+    "8a90ab4c339d56c0",
+    "56e5c9988597588e",
+    "47e1cdb22bd441fe",
+    "8fd93d2906cd02f2",
+    "8bcb6b7feeee15bc",
+    "3148d5b4c6c15298",
+    "3b42f634fa0321b5",
+    "da1ba169a3474e9a",
+    "6753d3ee31d1e310",
+    "6ca522390246bac8",
+    "2d60dc2df2739248",
+    "3275917c85a78ec0"
+   ]
+  }
+ ],
+ "fragments": {
+  "4b9e531e1a843394": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Janeiro\n\nO artigo 11.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, prevê que os funcionários do quadro geral das tesourarias da Fazenda Pública sejam objecto de classificação de serviço, nos termos que vierem a ser definidos em portaria a emanar do Ministério das Finanças e do Plano.\n\nVisando garantir a utilização de métodos objectivos de avaliação que permitam o desenvolvimento profissional e individual do funcionário, por um lado, e o conhecimento do pessoal existente e as necessidades das tesourarias da Fazenda Pública pela Direcção-Geral do Tesouro, por outro, e implementar o disposto no artigo 11.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, que exige a consagração no regulamento dos critérios em vigor para a função pública em geral em matéria de classificação de serviço;\n\nConsiderando que a especialidade e especificidade da organização e da função do pessoal da tesouraria da Fazenda Pública exige a existência de um instrumento adequado para a classificação de serviço dos funcionários e agentes;\n\nConsiderando que o artigo 41.º do Decreto Regulamentar n.º 44-B/83, de 1 de Junho, permite a utilização de outros sistemas de classificação de serviço, quando estejam em causa funções ou estruturas orgânicas específicas, mediante portaria do membro do Governo que tiver a seu cargo a função pública:\n\nManda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano e pelo Secretário de Estado da Administração Pública, que seja aprovado o Regulamento da Classificação de Serviço dos Funcionários e Agentes das Tesourarias da Fazenda Pública, a que se refere o artigo 11.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, anexo a esta portaria.\n\nPresidência do Conselho de Ministros e Ministério das Finanças e do Plano.\n\nAssinada em 25 de Outubro de 1983.\n\nPelo Ministro das Finanças e do Plano, António d'Almeida, Secretário de Estado do Tesouro. - O Secretário de Estado da Administração Pública, José San-Bento de Menezes.\n\nREGULAMENTO DA CLASSIFICAÇÃO DE SERVIÇO DOS FUNCIONÁRIOS E AGENTES DAS TESOURARIAS DA FAZENDA PÚBLICA"
+  },
+  "e82e298be73417b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Princípios gerais"
+  },
+  "5f6a729b7e638029": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — (Âmbito de aplicação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — (Âmbito de aplicação)\n\nA classificação de serviço a que se refere o artigo 11.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, rege-se pelo presente Regulamento e aplica-se a todos os funcionários e agentes com categoria inferior ou igual a tesoureiro da Fazenda Pública de 1.ª classe."
+  },
+  "0182dd11b4335b5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — (Objectivo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — (Objectivo)\n\nA classificação de serviço a que se refere o artigo 1.º, para além da aplicação dos seus resultados nas situações previstas no [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, e legislação complementar, visa traduzir o grau de mérito dos funcionários e agentes das tesourarias da Fazenda Pública."
+  },
+  "0548c9aa9463aa6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — (Funcionários e agentes a avaliar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — (Funcionários e agentes a avaliar)\n\nA avaliação sobre o mérito dos funcionários ou agentes abrange apenas os que tenham o mínimo de 6 meses de funções na tesouraria da Fazenda Pública em que se encontrem colocados, em relação ao período em que decorrem as avaliações."
+  },
+  "fa066a9bc829d2f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — (Fichas de avaliação e instruções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — (Fichas de avaliação e instruções)\n\n1 - A classificação de serviço de cada funcionário ou agente, atribuída nos termos do artigo 2.º, exprime-se numa menção quantitativa e numa menção qualitativa.\n\n2 - Para efeitos do número anterior, serão utilizadas fichas de avaliação dos modelos anexos a este Regulamento, que constituem exclusivo da Imprensa Nacional-Casa da Moeda, destinando-se:\n\na) A ficha modelo n.º 1 ao pessoal dirigente;\n\nb) A ficha modelo n.º 2 ao pessoal técnico-exactor;\n\nc) A ficha modelo n.º 3 ao pessoal auxiliar."
+  },
+  "ae7d8e37deaf797a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — (Publicidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — (Publicidade)\n\n1 - Nas fichas de avaliação será reservado espaço para que o avaliado mencione expressamente, por ocasião da entrevista em que tomar conhecimento da informação, se autoriza ou a publicitação da respectiva classificação de serviço.\n\n2 - Para efeitos do número anterior, os serviços afixarão, em lugar a que tenham acesso os funcionários e agentes da mesma unidade orgânica, listas contendo as menções apuradas nos termos do artigo 6.º cuja publicitação tenha sido autorizada."
+  },
+  "2c97772139e92a45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — (Correspondência quantitativa e qualitativa da pontuação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — (Correspondência quantitativa e qualitativa da pontuação)\n\n1 - A classificação de serviço de cada funcionário ou agente, atribuída nos termos do n.º 1 do artigo 4.º, deverá ser traduzida numa das seguintes menções qualitativas, de acordo com o intervalo de valores em que a pontuação se situar:\n\nAté 7 - Insuficiente;\n\nDe 8 a 13 - Suficiente;\n\nDe 14 a 16 - Bom;\n\nDe 17 a 20 - Muito bom.\n\n2 - Sempre que a pontuação obtida se traduzir num número decimal, proceder-se-á ao seu arredondamento para número inteiro, por excesso.\n\n3 - As menções quantitativas são relevantes para todos os efeitos legais, designadamente progressão na carreira e transferências."
+  },
+  "0196929ea3c94c64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — (Competência para avaliar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — (Competência para avaliar)\n\n1 - A avaliação e a atribuição da classificação de serviço são da competência do director-geral do Tesouro e do director distrital de finanças em relação ao tesoureiro-gerente da Fazenda Pública, ou quem as suas vezes fizer.\n\n2 - A avaliação e a atribuição da classificação de serviço será da competência do tesoureiro-gerente da Fazenda Pública, ou quem as suas vezes fizer, em relação aos funcionários e agentes da tesouraria da Fazenda Pública.\n\n3 - Para efeitos dos n.os 1 e 2, é competente para a avaliação e atribuição da classificação de serviço o director distrital de finanças ou o tesoureiro-gerente da Fazenda Pública que no decurso do período a que se reporta a avaliação reúna o mínimo de 6 meses de contacto funcional com o avaliado.\n\n4 - Não se verificando o requisito de 6 meses exigidos para atribuição da classificação de serviço, recairá sobre o anterior director distrital de finanças ou o tesoureiro-gerente da Fazenda Pública, conforme os casos, os deveres consagrados neste artigo.\n\n5 - A competência atribuída ao director-geral do Tesouro nos termos do n.º 1 deste artigo é delegável nos subdirectores-gerais."
+  },
+  "808e613434e5543f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — (Regras para avaliação dos tesoureiros-gerentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — (Regras para avaliação dos tesoureiros-gerentes)\n\n1 - O director distrital de finanças dá conhecimento ao tesoureiro-gerente do conteúdo da ficha de avaliação, depois de devidamente preenchida, nos termos do n.º 2 do artigo 15.º\n\n2 - O tesoureiro-gerente, ao tomar conhecimento do conteúdo da ficha de avaliação, pode fazer, por escrito, as observações que entender convenientes, as quais acompanharão a ficha de avaliação respectiva.\n\n3 - O director-geral do Tesouro fixará a classificação de serviço tendo em consideração a ficha de avaliação modelo n.º 1 e as observações do tesoureiro-gerente, efectuadas nos termos do n.º 2 deste artigo.\n\n4 - A classificação de serviço, fixada nos termos do número anterior, é dada a conhecer ao interessado por carta registada com aviso de recepção.\n\n5 - Para efeitos do n.º 3, o director-geral do Tesouro poderá utilizar o mecanismo referido no n.º 3 do artigo 17.º"
+  },
+  "b34340f56fab8cff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — (Competência para homologar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — (Competência para homologar)\n\n1 - A competência para homologar as classificações atribuídas pelos avaliadores é exercida pelo director-geral do Tesouro, delegável nos termos do artigo 7.º, n.º 5.\n\n2 - Quando o dirigente competente não homologar a classificação atribuída pelo avaliador, deverá ele próprio atribuir, mediante despacho fundamentado, a classificação respectiva.\n\n3 - A intervenção, como avaliador, do dirigente com competência para homologar não prejudica a posterior homologação pelo mesmo dirigente da classificação de serviço atribuída."
+  },
+  "9b3b1661f14afd8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º — (Iniciativa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º — (Iniciativa)\n\nA classificação de serviço é da iniciativa da Administração e reporta-se ao ano civil anterior."
+  },
+  "3882cf223b4f9808": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Relevância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Relevância"
+  },
+  "c131699a284c8b59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 11.º — (Relevância da classificação de serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 11.º — (Relevância da classificação de serviço)\n\n1 - Sem prejuízo do que sobre a matéria dispõe o [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, para efeitos de promoção e progressão nas carreiras, as classificações atribuídas deverão ser em número igual ao número de anos de serviço exigidos como requisito de tempo mínimo de permanência na categoria inferior e reportados aos anos imediatamente anteriores relevantes para aqueles efeitos.\n\n2 - Para efeitos do número anterior, é irrelevante o facto de se ter verificado alteração de categoria ou mudança de quadro ou serviço no ano civil em que ocorreu o provimento."
+  },
+  "c4cf74d3c0201b00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Processo"
+  },
+  "f12371ed464aab5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 12.º — (Confidencialidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 12.º — (Confidencialidade)\n\n1 - O processo de classificação tem carácter confidencial, devendo as fichas de avaliação ser arquivadas no respectivo processo individual.\n\n2 - Todos os intervenientes no processo de classificação ficam obrigados ao dever de sigilo sobre esta matéria.\n\n3 - O disposto nos números anteriores não impede que em qualquer fase do processo sejam passadas certidões da ficha de avaliação, mediante pedido do avaliado, formulado por escrito ao dirigente com competência para homologar."
+  },
+  "b6da8b6100a7dc90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 13.º — (Situação de falta e licença)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 13.º — (Situação de falta e licença)\n\n1 - A situação de falta ou licença dos avaliados ou do avaliador não é impeditiva da atribuição da classificação de serviço e do cumprimento dos prazos fixados.\n\n2 - Quando a ausência ou impedimento forem absolutamente insuperáveis, o processo ficará suspenso, reiniciando-se a contagem dos prazos logo que cessem a ausência ou impedimento, se esta circunstância tiver lugar no mesmo ano civil.\n\n3 - Caso a ausência ou impedimento referidos no número anterior não cessem no mesmo ano civil, não será atribuída classificação de serviço."
+  },
+  "4cbfa06889b92206": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 14.º — (Início do processo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 14.º — (Início do processo)\n\n1 - O processo de classificação de serviço inicia-se com o preenchimento, pelos avaliados, nos primeiros 15 dias úteis do mês de Janeiro, da rubrica «Elementos biográficos», constante das fichas de avaliação aplicáveis, as quais serão fornecidas atempadamente pelos serviços aos avaliados.\n\n2 - Os restantes elementos serão preenchidos, na parte aplicável, pelos avaliadores até ao dia 15 do mês de Fevereiro."
+  },
+  "897fec8e13521706": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 15.º — (Conhecimento ao interessado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 15.º — (Conhecimento ao interessado)\n\n1 - A ficha, depois de devidamente preenchida, será dada a conhecer ao interessado em entrevista individual com o avaliar ou, se isso se mostrar inviável, remetida directamente, sob registo postal e com aviso de recepção, dentro dos mesmos prazos.\n\n2 - As entrevistas ou remessas de cartas registadas com aviso de recepção referidas no número anterior terão lugar até 15 de Março de cada ano."
+  },
+  "79e512c1043b9b13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 16.º — (Reclamação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 16.º — (Reclamação)\n\n1 - O interessado, após tomar conhecimento da ficha de avaliação, pode apresentar ao avaliador, no prazo de 5 dias úteis, reclamação, por escrito, com indicação dos factos que julgue susceptíveis de fundamentar a revisão da classificação atribuída.\n\n2 - As reclamações a que se refere o número anterior serão objecto de apreciação pelo respectivo avaliador, que proferirá decisão fundamentada, a qual será dada a conhecer ao interessado, por escrito, no prazo de 5 dias úteis, contados do recebimento da reclamação."
+  },
+  "78fa801363f78ab8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 17.º — (Reclamação para o dirigente competente para homologar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 17.º — (Reclamação para o dirigente competente para homologar)\n\n1 - O avaliado, após tomar conhecimento da decisão, poderá requerer ao dirigente com competência para homologar, nos 5 dias úteis seguintes, que reaprecie o seu processo.\n\n2 - O requerimento deverá ser fundamentado e indicar os factos que se entendam avaliados menos correctamente, procurando o dirigente competente para homologar avaliar da graduação daqueles factores à luz dos pressupostos de facto em que a mesma se baseou.\n\n3 - O dirigente com competência para homologar poderá solicitar o apoio jurídico ou técnico, respectivamente, dos técnicos superiores do quadro da Direcção-Geral do Tesouro e dos tesoureiros da Fazenda Pública a designar, para efeitos do disposto no número anterior."
+  },
+  "da66121e22eabe64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 18.º — (Decisão final)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 18.º — (Decisão final)\n\nNo prazo de 15 dias úteis, o dirigente com competência para homologar proferirá decisão final sobre a reclamação, que deverá ser fundamentada se não coincidir com o parecer jurídico ou técnico emitido nos termos do n.º 3 do artigo 17.º ou com a decisão do avaliador, proferida nos termos do n.º 2 do artigo 16.º"
+  },
+  "64b4e0b8b28c9fd3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 19.º — (Homologação e publicitação das classificações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 19.º — (Homologação e publicitação das classificações)\n\n1 - As classificações de serviço deverão ser homologadas até 30 de Maio de cada ano civil.\n\n2 - As listas a que se refere o artigo 5.º serão elaboradas após a homologação destas e afixadas até 30 de Junho."
+  },
+  "78f51c44bb015d7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 20.º — (Notificação da classificação homologada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 20.º — (Notificação da classificação homologada)\n\n1 - As classificações de serviço não subirão a homologação antes de decorridos os prazos de reclamação para o avaliador e para o dirigente competente para homologar.\n\n2 - Da classificação de serviço atribuída é dado conhecimento pelo avaliador ao interessado no prazo de 5 dias úteis, contados da data da homologação, sendo de seguida o processo arquivado no respectivo processo individual."
+  },
+  "6bb64d4f12761a25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 21.º — (Recurso hierárquico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 21.º — (Recurso hierárquico)\n\nDa classificação, após ter sido homologada, cabe recurso hierárquico para o membro do Governo competente, a interpor no prazo de 10 dias úteis, contados da data do conhecimento da homologação, devendo ser proferida decisão no prazo de 15 dias, contados da data de interposição do recurso."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "d87216c4f9907781": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 22.º — (Aplicação em 1983)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 22.º — (Aplicação em 1983)\n\n1 - No decurso do corrente ano, o processo de classificação iniciar-se-á no dia 17 de Outubro com o preenchimento das fichas de avaliação, nos termos do artigo 14.º, observando-se seguidamente os intervalos temporais entre cada uma das fases do processo, excepto os prazos previstos nos n.os 1 e 2 do artigo 14.º e no n.º 2 do artigo 15.º, que são reduzidos para 5, 10 e 10 dias, respectivamente.\n\n2 - Havendo necessidade de encurtamento, os prazos serão reduzidos por despacho do Secretário de Estado do Tesouro.\n\n3 - As classificações de serviço serão homologadas até 31 de Dezembro.\n\n4 - A classificação atribuída abrange todo o serviço prestado ou a prestar até 30 de Setembro, incluindo o serviço prestado e não classificado em 1982."
+  },
+  "bfe64bcc0e6f1262": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 23.º — (Aplicação no tempo para efeitos de promoção e progressão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 23.º — (Aplicação no tempo para efeitos de promoção e progressão)\n\nNos primeiros anos de vigência do presente diploma observar-se-á o regime previsto no artigo 22.º do [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, para efeitos de promoção e progressão nas carreiras.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01400/01580174.pdf)"
+  },
+  "c25346bca3c4b227": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Âmbito de aplicação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Âmbito de aplicação)\n\nA classificação de serviço a que se refere o artigo 11.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, rege-se pelo presente Regulamento e aplica-se a todos os funcionários e agentes com categoria inferior ou igual a tesoureiro da Fazenda Pública de 1.ª classe."
+  },
+  "ee2f59aca7797183": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Objectivo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Objectivo)\n\nA classificação de serviço a que se refere o artigo 1.º, para além da aplicação dos seus resultados nas situações previstas no [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, e legislação complementar, visa traduzir o grau de mérito dos funcionários e agentes das tesourarias da Fazenda Pública."
+  },
+  "2e56c7c738aaf351": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Funcionários e agentes a avaliar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Funcionários e agentes a avaliar)\n\nA avaliação sobre o mérito dos funcionários ou agentes abrange apenas os que tenham o mínimo de 6 meses de funções na tesouraria da Fazenda Pública em que se encontrem colocados, em relação ao período em que decorrem as avaliações."
+  },
+  "c7c1b06f76a6cd86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Fichas de avaliação e instruções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Fichas de avaliação e instruções)\n\n1 - A classificação de serviço de cada funcionário ou agente, atribuída nos termos do artigo 2.º, exprime-se numa menção quantitativa e numa menção qualitativa.\n\n2 - Para efeitos do número anterior, serão utilizadas fichas de avaliação dos modelos anexos a este Regulamento, que constituem exclusivo da Imprensa Nacional-Casa da Moeda, destinando-se:\n\na) A ficha modelo n.º 1 ao pessoal dirigente;\n\nb) A ficha modelo n.º 2 ao pessoal técnico-exactor;\n\nc) A ficha modelo n.º 3 ao pessoal auxiliar."
+  },
+  "8e8e379fc6017d9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Publicidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Publicidade)\n\n1 - Nas fichas de avaliação será reservado espaço para que o avaliado mencione expressamente, por ocasião da entrevista em que tomar conhecimento da informação, se autoriza ou a publicitação da respectiva classificação de serviço.\n\n2 - Para efeitos do número anterior, os serviços afixarão, em lugar a que tenham acesso os funcionários e agentes da mesma unidade orgânica, listas contendo as menções apuradas nos termos do artigo 6.º cuja publicitação tenha sido autorizada."
+  },
+  "4c8c6beea661696e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Correspondência quantitativa e qualitativa da pontuação)",
+   "in_force_from": "1984-09-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 742/84](https://diariodarepublica.pt/dr/detalhe/portaria/742-1984-399620), publicado em 1984-09-22."
+   ],
+   "markdown": "###### Artigo 6.º — (Correspondência quantitativa e qualitativa da pontuação)\n\n1 - A classificação de serviço de cada funcionário ou agente, atribuída nos termos do n.º 1 do artigo 4.º, deverá ser traduzida numa das seguintes menções qualitativas, de acordo com o intervalo de valores em que a pontuação se situar:\n\nAté 7 - Insuficiente;\n\nDe 8 a 13 - Suficiente;\n\nDe 14 a 16 - Bom;\n\nDe 17 a 20 - Muito bom.\n\n2 - Sempre que a pontuação obtida se traduzir num número decimal, proceder-se-á ao seu arredondamento para número inteiro por excesso ou por defeito, consoante o valor decimal obtido seja igual ou superior a 0,5 ou inferior a este, respectivamente.\n\n3 - As menções quantitativas são relevantes para todos os efeitos legais, designadamente progressão na carreira e transferências.\n\n> Alterado pelo/a [Portaria n.º 742/84](https://diariodarepublica.pt/dr/detalhe/portaria/742-1984-399620), publicado em 1984-09-22."
+  },
+  "c9dc181835e5becb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Competência para avaliar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Competência para avaliar)\n\n1 - A avaliação e a atribuição da classificação de serviço são da competência do director-geral do Tesouro e do director distrital de finanças em relação ao tesoureiro-gerente da Fazenda Pública, ou quem as suas vezes fizer.\n\n2 - A avaliação e a atribuição da classificação de serviço será da competência do tesoureiro-gerente da Fazenda Pública, ou quem as suas vezes fizer, em relação aos funcionários e agentes da tesouraria da Fazenda Pública.\n\n3 - Para efeitos dos n.os 1 e 2, é competente para a avaliação e atribuição da classificação de serviço o director distrital de finanças ou o tesoureiro-gerente da Fazenda Pública que no decurso do período a que se reporta a avaliação reúna o mínimo de 6 meses de contacto funcional com o avaliado.\n\n4 - Não se verificando o requisito de 6 meses exigidos para atribuição da classificação de serviço, recairá sobre o anterior director distrital de finanças ou o tesoureiro-gerente da Fazenda Pública, conforme os casos, os deveres consagrados neste artigo.\n\n5 - A competência atribuída ao director-geral do Tesouro nos termos do n.º 1 deste artigo é delegável nos subdirectores-gerais."
+  },
+  "9a67b8cf3e6513c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Regras para avaliação dos tesoureiros-gerentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Regras para avaliação dos tesoureiros-gerentes)\n\n1 - O director distrital de finanças dá conhecimento ao tesoureiro-gerente do conteúdo da ficha de avaliação, depois de devidamente preenchida, nos termos do n.º 2 do artigo 15.º\n\n2 - O tesoureiro-gerente, ao tomar conhecimento do conteúdo da ficha de avaliação, pode fazer, por escrito, as observações que entender convenientes, as quais acompanharão a ficha de avaliação respectiva.\n\n3 - O director-geral do Tesouro fixará a classificação de serviço tendo em consideração a ficha de avaliação modelo n.º 1 e as observações do tesoureiro-gerente, efectuadas nos termos do n.º 2 deste artigo.\n\n4 - A classificação de serviço, fixada nos termos do número anterior, é dada a conhecer ao interessado por carta registada com aviso de recepção.\n\n5 - Para efeitos do n.º 3, o director-geral do Tesouro poderá utilizar o mecanismo referido no n.º 3 do artigo 17.º"
+  },
+  "933f7008df8d4035": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Competência para homologar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Competência para homologar)\n\n1 - A competência para homologar as classificações atribuídas pelos avaliadores é exercida pelo director-geral do Tesouro, delegável nos termos do artigo 7.º, n.º 5.\n\n2 - Quando o dirigente competente não homologar a classificação atribuída pelo avaliador, deverá ele próprio atribuir, mediante despacho fundamentado, a classificação respectiva.\n\n3 - A intervenção, como avaliador, do dirigente com competência para homologar não prejudica a posterior homologação pelo mesmo dirigente da classificação de serviço atribuída."
+  },
+  "8cec28ee970adbd0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Iniciativa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Iniciativa)\n\nA classificação de serviço é da iniciativa da Administração e reporta-se ao ano civil anterior."
+  },
+  "3298a2beb2d80460": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Relevância da classificação de serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Relevância da classificação de serviço)\n\n1 - Sem prejuízo do que sobre a matéria dispõe o [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, para efeitos de promoção e progressão nas carreiras, as classificações atribuídas deverão ser em número igual ao número de anos de serviço exigidos como requisito de tempo mínimo de permanência na categoria inferior e reportados aos anos imediatamente anteriores relevantes para aqueles efeitos.\n\n2 - Para efeitos do número anterior, é irrelevante o facto de se ter verificado alteração de categoria ou mudança de quadro ou serviço no ano civil em que ocorreu o provimento."
+  },
+  "e0e96e4c75755f81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Confidencialidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Confidencialidade)\n\n1 - O processo de classificação tem carácter confidencial, devendo as fichas de avaliação ser arquivadas no respectivo processo individual.\n\n2 - Todos os intervenientes no processo de classificação ficam obrigados ao dever de sigilo sobre esta matéria.\n\n3 - O disposto nos números anteriores não impede que em qualquer fase do processo sejam passadas certidões da ficha de avaliação, mediante pedido do avaliado, formulado por escrito ao dirigente com competência para homologar."
+  },
+  "8a90ab4c339d56c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Situação de falta e licença)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Situação de falta e licença)\n\n1 - A situação de falta ou licença dos avaliados ou do avaliador não é impeditiva da atribuição da classificação de serviço e do cumprimento dos prazos fixados.\n\n2 - Quando a ausência ou impedimento forem absolutamente insuperáveis, o processo ficará suspenso, reiniciando-se a contagem dos prazos logo que cessem a ausência ou impedimento, se esta circunstância tiver lugar no mesmo ano civil.\n\n3 - Caso a ausência ou impedimento referidos no número anterior não cessem no mesmo ano civil, não será atribuída classificação de serviço."
+  },
+  "56e5c9988597588e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Início do processo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Início do processo)\n\n1 - O processo de classificação de serviço inicia-se com o preenchimento, pelos avaliados, nos primeiros 15 dias úteis do mês de Janeiro, da rubrica «Elementos biográficos», constante das fichas de avaliação aplicáveis, as quais serão fornecidas atempadamente pelos serviços aos avaliados.\n\n2 - Os restantes elementos serão preenchidos, na parte aplicável, pelos avaliadores até ao dia 15 do mês de Fevereiro."
+  },
+  "47e1cdb22bd441fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Conhecimento ao interessado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Conhecimento ao interessado)\n\n1 - A ficha, depois de devidamente preenchida, será dada a conhecer ao interessado em entrevista individual com o avaliar ou, se isso se mostrar inviável, remetida directamente, sob registo postal e com aviso de recepção, dentro dos mesmos prazos.\n\n2 - As entrevistas ou remessas de cartas registadas com aviso de recepção referidas no número anterior terão lugar até 15 de Março de cada ano."
+  },
+  "8fd93d2906cd02f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Reclamação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Reclamação)\n\n1 - O interessado, após tomar conhecimento da ficha de avaliação, pode apresentar ao avaliador, no prazo de 5 dias úteis, reclamação, por escrito, com indicação dos factos que julgue susceptíveis de fundamentar a revisão da classificação atribuída.\n\n2 - As reclamações a que se refere o número anterior serão objecto de apreciação pelo respectivo avaliador, que proferirá decisão fundamentada, a qual será dada a conhecer ao interessado, por escrito, no prazo de 5 dias úteis, contados do recebimento da reclamação."
+  },
+  "8bcb6b7feeee15bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Reclamação para o dirigente competente para homologar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Reclamação para o dirigente competente para homologar)\n\n1 - O avaliado, após tomar conhecimento da decisão, poderá requerer ao dirigente com competência para homologar, nos 5 dias úteis seguintes, que reaprecie o seu processo.\n\n2 - O requerimento deverá ser fundamentado e indicar os factos que se entendam avaliados menos correctamente, procurando o dirigente competente para homologar avaliar da graduação daqueles factores à luz dos pressupostos de facto em que a mesma se baseou.\n\n3 - O dirigente com competência para homologar poderá solicitar o apoio jurídico ou técnico, respectivamente, dos técnicos superiores do quadro da Direcção-Geral do Tesouro e dos tesoureiros da Fazenda Pública a designar, para efeitos do disposto no número anterior."
+  },
+  "3148d5b4c6c15298": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Decisão final)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Decisão final)\n\nNo prazo de 15 dias úteis, o dirigente com competência para homologar proferirá decisão final sobre a reclamação, que deverá ser fundamentada se não coincidir com o parecer jurídico ou técnico emitido nos termos do n.º 3 do artigo 17.º ou com a decisão do avaliador, proferida nos termos do n.º 2 do artigo 16.º"
+  },
+  "3b42f634fa0321b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Homologação e publicitação das classificações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Homologação e publicitação das classificações)\n\n1 - As classificações de serviço deverão ser homologadas até 30 de Maio de cada ano civil.\n\n2 - As listas a que se refere o artigo 5.º serão elaboradas após a homologação destas e afixadas até 30 de Junho."
+  },
+  "da1ba169a3474e9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Notificação da classificação homologada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Notificação da classificação homologada)\n\n1 - As classificações de serviço não subirão a homologação antes de decorridos os prazos de reclamação para o avaliador e para o dirigente competente para homologar.\n\n2 - Da classificação de serviço atribuída é dado conhecimento pelo avaliador ao interessado no prazo de 5 dias úteis, contados da data da homologação, sendo de seguida o processo arquivado no respectivo processo individual."
+  },
+  "6753d3ee31d1e310": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Recurso hierárquico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Recurso hierárquico)\n\nDa classificação, após ter sido homologada, cabe recurso hierárquico para o membro do Governo competente, a interpor no prazo de 10 dias úteis, contados da data do conhecimento da homologação, devendo ser proferida decisão no prazo de 15 dias, contados da data de interposição do recurso."
+  },
+  "2d60dc2df2739248": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Aplicação em 1983)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Aplicação em 1983)\n\n1 - No decurso do corrente ano, o processo de classificação iniciar-se-á no dia 17 de Outubro com o preenchimento das fichas de avaliação, nos termos do artigo 14.º, observando-se seguidamente os intervalos temporais entre cada uma das fases do processo, excepto os prazos previstos nos n.os 1 e 2 do artigo 14.º e no n.º 2 do artigo 15.º, que são reduzidos para 5, 10 e 10 dias, respectivamente.\n\n2 - Havendo necessidade de encurtamento, os prazos serão reduzidos por despacho do Secretário de Estado do Tesouro.\n\n3 - As classificações de serviço serão homologadas até 31 de Dezembro.\n\n4 - A classificação atribuída abrange todo o serviço prestado ou a prestar até 30 de Setembro, incluindo o serviço prestado e não classificado em 1982."
+  },
+  "3275917c85a78ec0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Aplicação no tempo para efeitos de promoção e progressão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Aplicação no tempo para efeitos de promoção e progressão)\n\nNos primeiros anos de vigência do presente diploma observar-se-á o regime previsto no artigo 22.º do [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, para efeitos de promoção e progressão nas carreiras.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1984/01/01400/01580174.pdf)"
+  }
+ }
+}

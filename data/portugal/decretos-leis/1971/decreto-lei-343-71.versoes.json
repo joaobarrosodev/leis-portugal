@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:635586:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-08-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d69c4abcebe0355a"
+   ]
+  },
+  {
+   "date": "1978-07-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:297416:por",
+     "title": "Decreto-Lei n.º 196/78",
+     "published": "1978-07-19",
+     "dre_path": "/dr/detalhe/decreto-lei/196-1978-297416"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "0bd831687ae269c5",
+    "596698ffb5255427",
+    "0550a375add9f772",
+    "146b138b38ee1fde"
+   ]
+  }
+ ],
+ "fragments": {
+  "d69c4abcebe0355a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Agosto\n\nAo abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 47240](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47240-1966-478208), de 6 de Outubro de 1966, foi encarregada a antiga Hidroeléctrica do Zêzere, por despacho conjunto do Ministro das Obras Públicas e do Secretário de Estado da Indústria, de completar o inventário dos recursos hidroeléctricos da bacia hidrográfica do rio Mondego. Esta incumbência passou para a Companhia Portuguesa de Electricidade - C. P. E., S. A. R. L. (abreviadamente C. P. E.), em consequência da fusão das antigas empresas da rede eléctrica primária, nos termos do [Decreto-Lei n.º 49211](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49211-1969-215097), de 27 de Agosto de 1969.\n\nPor decisão do Conselho de Ministros foi já adjudicada à C. P. E. a concessão do aproveitamento hidroeléctrico do rio Mondego e o prosseguimento dos estudos habilitou o Conselho de Ministros para os Assuntos Económicos, em reunião de 12 de Maio de 1970, a incluir no III Plano de Fomento a execução do 1.º escalão.\n\nNão está ainda publicado o caderno de encargos da concessão geral da C. P. E., que deve abranger a totalidade dos rios a aproveitar no continente, para além das restantes formas de produção de energia e também a rede de transporte, e a consideração isolada de um caderno de encargos destinado a contemplar apenas este escalão do Mondego depararia com certos inconvenientes e dificuldades, sem trazer vantagem sensível. Por isso, tem de se adoptar uma solução adequada e compatível com a futura concessão que permita à empresa a oportuna aquisição dos terrenos necessários para o estaleiro de construção da barragem e central, pedreiras, acessos e vias de comunicação.\n\nO presente diploma tem por fim antecipar o decreto da concessão naquilo que importa a declaração da utilidade pública da expropriação dos terrenos, edifícios, servidões ou outros direitos necessários à execução das obras.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. É declarada a utilidade pública da expropriação, com carácter urgente, dos terrenos, edifícios, servidões ou outros direitos necessários à execução das obras da barragem e central, represamento e derivação das águas, restabelecimento de vias de comunicação, acessos e exploração de pedreiras respeitantes ao 1.º escalão do aproveitamento hidroeléctrico do rio Mondego, ficando a cargo da Companhia Portuguesa de Electricidade - C. P. E., S. A. R. L., com sede no Porto, na Rua de Sá da Bandeira, 567, a liquidação e pagamento das indemnizações, nos termos da legislação aplicável.\n\n2. É garantido à C. P. E. o direito de atravessar ou ocupar prédios particulares, na conformidade dos estudos ou projectos aprovados pelo Ministro das Obras Públicas, com canais, condutas subterrâneas ou caminhos de circulação necessários ou impostos pela realização do empreendimento. Aos proprietários são devidas indemnizações por estes ónus quando deles resulte diminuição do valor ou do rendimento da propriedade, ou redução da sua área, sendo, em tais casos, fixadas as indemnizações pelos tribunais civis, quando não haja acordo entre as partes.\n\n3. A C. P. E. poderá utilizar as estradas, caminhos e cursos de água, bem como terrenos ao longo do caminho de ferro e de quaisquer vias de comunicação do domínio público ou municipal, para o estabelecimento ou passagem das diferentes partes do empreendimento.\n\nArt. 2.º Os terrenos a ocupar peles obras a que se refere o artigo anterior ficam situados nas freguesias de Barreiro de Besteiros, Parada, Currelos, Papízios, Ázere, Tábua, Póvoa de Midões, Ovoa, Pinheiro de Ázere, S. João das Areias, Santa Comba Dão, Vimieiro, Treixedo, Couto do Mosteiro, S. Joaninho, Mortágua, Sobral, Almaça, Travanca, S. Pedro de Alva, S. Paio e Oliveira do Mondego, dos concelhos de Tondela, Carregal do Sal, Tábua, Santa Comba Dão, Mortágua e Penacova, e constarão de plantas parcelares a aprovar pelo Ministério das Obras Públicas.\n\nArt. 3.º Serão oportunamente integrados no aproveitamento e na concessão os terrenos e direitos adquiridos pela C. P. E. ao abrigo do presente diploma, tendo em conta o disposto no artigo 99.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960.\n\nMarcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 21 de Julho de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "0bd831687ae269c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Agosto\n\nAo abrigo do disposto no artigo 2.º do [Decreto-Lei n.º 47240](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47240-1966-478208), de 6 de Outubro de 1966, foi encarregada a antiga Hidroeléctrica do Zêzere, por despacho conjunto do Ministro das Obras Públicas e do Secretário de Estado da Indústria, de completar o inventário dos recursos hidroeléctricos da bacia hidrográfica do rio Mondego. Esta incumbência passou para a Companhia Portuguesa de Electricidade - C. P. E., S. A. R. L. (abreviadamente C. P. E.), em consequência da fusão das antigas empresas da rede eléctrica primária, nos termos do [Decreto-Lei n.º 49211](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49211-1969-215097), de 27 de Agosto de 1969.\n\nPor decisão do Conselho de Ministros foi já adjudicada à C. P. E. a concessão do aproveitamento hidroeléctrico do rio Mondego e o prosseguimento dos estudos habilitou o Conselho de Ministros para os Assuntos Económicos, em reunião de 12 de Maio de 1970, a incluir no III Plano de Fomento a execução do 1.º escalão.\n\nNão está ainda publicado o caderno de encargos da concessão geral da C. P. E., que deve abranger a totalidade dos rios a aproveitar no continente, para além das restantes formas de produção de energia e também a rede de transporte, e a consideração isolada de um caderno de encargos destinado a contemplar apenas este escalão do Mondego depararia com certos inconvenientes e dificuldades, sem trazer vantagem sensível. Por isso, tem de se adoptar uma solução adequada e compatível com a futura concessão que permita à empresa a oportuna aquisição dos terrenos necessários para o estaleiro de construção da barragem e central, pedreiras, acessos e vias de comunicação.\n\nO presente diploma tem por fim antecipar o decreto da concessão naquilo que importa a declaração da utilidade pública da expropriação dos terrenos, edifícios, servidões ou outros direitos necessários à execução das obras.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "596698ffb5255427": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. É declarada a utilidade pública da expropriação, com carácter urgente, dos terrenos, edifícios, servidões ou outros direitos necessários à execução das obras da barragem e central, represamento e derivação das águas, restabelecimento de vias de comunicação, acessos e exploração de pedreiras respeitantes ao 1.º escalão do aproveitamento hidroeléctrico do rio Mondego, ficando a cargo da Companhia Portuguesa de Electricidade - C. P. E., S. A. R. L., com sede no Porto, na Rua de Sá da Bandeira, 567, a liquidação e pagamento das indemnizações, nos termos da legislação aplicável.\n\n2. É garantido à C. P. E. o direito de atravessar ou ocupar prédios particulares, na conformidade dos estudos ou projectos aprovados pelo Ministro das Obras Públicas, com canais, condutas subterrâneas ou caminhos de circulação necessários ou impostos pela realização do empreendimento. Aos proprietários são devidas indemnizações por estes ónus quando deles resulte diminuição do valor ou do rendimento da propriedade, ou redução da sua área, sendo, em tais casos, fixadas as indemnizações pelos tribunais civis, quando não haja acordo entre as partes.\n\n3. A C. P. E. poderá utilizar as estradas, caminhos e cursos de água, bem como terrenos ao longo do caminho de ferro e de quaisquer vias de comunicação do domínio público ou municipal, para o estabelecimento ou passagem das diferentes partes do empreendimento."
+  },
+  "0550a375add9f772": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1978-07-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 196/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1978-297416), publicado em 1978-07-19."
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs terrenos a ocupar pelas obras a que se refere o artigo anterior ficam situados nas freguesias de Barreiro de Besteiros e Dardavaz, do concelho de Tondela, nas freguesias de Parada, Currelos, Papízios e Oliveira do Conde, do concelho de Carregal do Sal, nas freguesias de Ázere, Tábua, Póvoa de Midões e Covelo, do concelho de Tábua, nas freguesias de Ovoa, Pinheiro de Ázere, S. João das Areias, Santa Comba Dão, Vimeiro, Treixedo, Couto do Mosteiro e S. Joaninho, do concelho de Santa Comba Dão, nas freguesias de Mortágua, Sobral, Almaça e Cercosa, do concelho de Mortágua, e nas freguesias de Travanca, Penacova, S. Pedro de Alva, S. Paio e Oliveira do Mondego, do concelho de Penacova, e constarão de plantas parcelares a aprovar pelo Ministério da Habitação e Obras Públicas.\n\n> Alterado pelo/a [Decreto-Lei n.º 196/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1978-297416), publicado em 1978-07-19."
+  },
+  "146b138b38ee1fde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSerão oportunamente integrados no aproveitamento e na concessão os terrenos e direitos adquiridos pela C. P. E. ao abrigo do presente diploma, tendo em conta o disposto no artigo 99.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960.\n\nMarcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 21 de Julho de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

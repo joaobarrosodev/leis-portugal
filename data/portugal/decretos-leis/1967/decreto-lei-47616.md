@@ -30,10 +30,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-02-19'
+version_history:
+  file: decreto-lei-47616.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-03-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-02-19'
+    amending: pt:dre:160296:por
+    amending_title: Decreto-Lei n.º 62/75
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:00:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 62/75. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-47616.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,45 +167,63 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. Anexos ao Instituto Nacional de Estatística poderão ser criados centros de estudo especializados.
+###### Artigo 1.º
+
+1. Anexos ao Instituto Nacional de Estatística poderão ser criados centros de estudo especializados.
 
 2. Os centros serão criados mediante portaria do Presidente do Conselho, da qual constarão as atribuições de cada centro e as normas específicas sobre a sua constituição e funcionamento.
 
-Art. 2.º Aos centros de estudo compete, em geral:
+###### Artigo 2.º
 
-1.º Aproveitar em trabalhos de investigação sistemática os dados estatísticos recolhidos pelo Instituto;
+Os centros de estudo são constituídos pelo director e por individualidades de reconhecido mérito nas matérias das respectivas atribuições.
 
-2.º Assegurar a cooperação entre o Instituto e os centros universitários e estabelecimentos de investigação científica, nacionais e estrangeiros;
+> Alterado pelo/a [Decreto-Lei n.º 62/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1975-160296), publicado em 1975-02-19.
 
-3.º Propor ao Instituto tudo o que se lhes afigure conveniente, em relação aos serviços àquele confiados, para a prossecução das actividades previstas nos números anteriores;
+###### Artigo 3.º
 
-4.º Organizar, com a colaboração do Instituto, inquéritos, pesquisas ou investigações especiais necessários à realização dos seus fins;
+Aos centros de estudo compete, em geral:
 
-5.º Efectuar quaisquer outros estudos ou trabalhos que lhes sejam atribuídos nos diplomas que os constituam, ou de que sejam incumbidos pelo Presidente do Conselho;
+1.º Suscitar e apoiar o aproveitamento de trabalhos de investigação dos dados estatísticos no domínio que lhes seja definido no diploma que os constituam;
 
-6.º Editar uma revista para divulgação dos trabalhos da sua competência;
+2.º Promover a realização de investigações, pesquisas ou inquéritos especiais necessários à prossecução dos seus fins;
 
-7.º Publicar na revista ou por outros meios os trabalhos realizados nos termos dos n.os 1.º e 2.º ou outros de reconhecido interesse.
+3.º Efectuar quaisquer outros estudos ou trabalhos que lhes sejam atribuídos nos diplomas que os constituam;
 
-Art. 3.º - 1. O director do Instituto, como presidente das direcções dos centros, e o director da revista dos centros têm direito a gratificação mensal, a fixar pelo Presidente do Conselho, ouvido o Ministro das Finanças.
+4.º Assegurar as ligações e a cooperação entre o Instituto e os centros universitários e estabelecimentos de investigação científica nacionais e estrangeiros;
 
-2. Aos vogais da direcção de cada centro serão abonadas senhas de presença, a fixar nos termos do número anterior.
+5.º Editar uma revista para divulgação dos trabalhos da sua competência;
 
-Art. 4.º - 1. Os trabalhos realizados pelos membros dos centros, ou por pessoas a estes estranhas e que deles tenham sido incumbidas, poderão ser remunerados por força de verba inscrita no Orçamento Geral do Estado.
+6.º Publicar na revista ou por outros meios os trabalhos realizados nos termos dos n.os 1.º e 2.º ou outros de reconhecido interesse.
+
+> Alterado pelo/a [Decreto-Lei n.º 62/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1975-160296), publicado em 1975-02-19.
+
+###### Artigo 4.º
+
+1. Os trabalhos realizados pelos membros dos centros, ou por pessoas a estes estranhas e que deles tenham sido incumbidas, poderão ser remunerados por força de verba inscrita no Orçamento Geral do Estado.
 
 2. As remunerações serão fixadas pelo Presidente do Conselho, sob proposta da respectiva direcção.
 
-Art. 5.º - 1. Os membros dos centros que tiverem de se deslocar da localidade da sua residência habitual para assistir às reuniões para que forem convocados terão direito a ajudas de custo e despesas de transporte.
+###### Artigo 5.º
+
+1. Os membros dos centros que tiverem de se deslocar da localidade da sua residência habitual para assistir às reuniões para que forem convocados terão direito a ajudas de custo e despesas de transporte.
 
 2. Para esse efeito, os que não sejam funcionários do Estado ou dos corpos administrativos serão equiparados aos professores do ensino superior.
 
-Art. 6.º - 1. É aditado ao mapa do pessoal do Instituto Nacional de Estatística, anexo ao [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), de 29 de Março de 1966, como pertencente aos serviços centrais, o lugar de secretário dos centros de estudo, criado pelo artigo 7.º do Decreto n.º 33274, de 24 de Novembro de 1943, com a categoria e vencimento atribuídos neste preceito.
+###### Artigo 6.º
+
+1. É aditado ao mapa do pessoal do Instituto Nacional de Estatística, anexo ao [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), de 29 de Março de 1966, como pertencente aos serviços centrais, o lugar de secretário dos centros de estudo, criado pelo artigo 7.º do Decreto n.º 33274, de 24 de Novembro de 1943, com a categoria e vencimento atribuídos neste preceito.
 
 2. O actual serventuário do cargo continua no exercício de funções, independentemente de quaiquer formalidades.
 
-Art. 7.º Continuam em funcionamento, com observância do disposto no presente diploma e no seu regulamento, e com os fins específicos a cada um deles atribuídos, o Centro de Estudos Económicos e o Centro de Estudos Demográficos, criados, respectivamente, pela [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944, e pela [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944.
+###### Artigo 7.º
 
-Art. 8.º Ficam revogados:
+Continuam em funcionamento, com observância do disposto no presente diploma e com os fins específicos a cada um deles atribuído, o Centro de Estudos Económicos e o Centro de Estudos Demográficos, criados, respectivamente pela [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944, e pela [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944.
+
+> Alterado pelo/a [Decreto-Lei n.º 62/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1975-160296), publicado em 1975-02-19.
+
+###### Artigo 8.º
+
+Ficam revogados:
 
 a) O [Decreto-Lei n.º 33274](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33274-1943-405970), de 24 de Novembro de 1943;
 

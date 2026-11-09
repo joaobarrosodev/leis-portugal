@@ -1,0 +1,478 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:429596:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1998-07-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "00b17141aab70b1d",
+    "fb500014a2cec9b2",
+    "50be02fb8baf7cb1",
+    "fbdd40551d6bb6c0",
+    "b516612965e0b3ac",
+    "f71f299242e2a053",
+    "e4addc06a6edf10d",
+    "a00c73068ad29f38",
+    "5c6d802b61d2a66d",
+    "a2f4e0b217e0f826",
+    "413f335adb5399ce",
+    "5b53373e3ce7a751",
+    "4e796cfb7fae6492",
+    "29026fb99a5fce26",
+    "b497e0df69dac9e5",
+    "22aee6cd71dadc63",
+    "83a4a75dff796132",
+    "e61a8d0f2d6bc9f2",
+    "6c2f79781c83d6c3",
+    "efa94c4faa34ae94",
+    "eaea43bf9d6efa99",
+    "fbd21b1e845fba5a",
+    "bf09c1f411a8081a",
+    "cdbcea42c7a31546",
+    "2e0636112d84c808",
+    "35594189780947b7",
+    "015dd930b2798af3",
+    "75b9bfe5b916ccee",
+    "e44d627b10a956dc",
+    "0a15cd776e09b583",
+    "7811cfbc372e1d5c",
+    "d5758cf1369907ff",
+    "9954a5fed7271c7f",
+    "0dbe3b56cf491615",
+    "15d281b8a242c1ec",
+    "df3bb78ea8cffe34",
+    "5405e917bffdc4b5"
+   ]
+  },
+  {
+   "date": "2004-10-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:147873:por",
+     "title": "Portaria n.º 533-A/99",
+     "published": "1999-07-22",
+     "dre_path": "/dr/detalhe/portaria/533-a-1999-147873"
+    },
+    {
+     "id": "pt:dre:561983:por",
+     "title": "Portaria n.º 1359/2004",
+     "published": "2004-10-26",
+     "dre_path": "/dr/detalhe/portaria/1359-2004-561983"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 26.º",
+    "Adita Artigo 27.º-A"
+   ],
+   "fragments": [
+    "00b17141aab70b1d",
+    "fb500014a2cec9b2",
+    "50be02fb8baf7cb1",
+    "fbdd40551d6bb6c0",
+    "b516612965e0b3ac",
+    "f71f299242e2a053",
+    "e4addc06a6edf10d",
+    "a00c73068ad29f38",
+    "5c6d802b61d2a66d",
+    "a2f4e0b217e0f826",
+    "413f335adb5399ce",
+    "5b53373e3ce7a751",
+    "4e796cfb7fae6492",
+    "420488705af43c74",
+    "b497e0df69dac9e5",
+    "6ed3712ccf9135e0",
+    "1557d1afd73db36e",
+    "e61a8d0f2d6bc9f2",
+    "6c2f79781c83d6c3",
+    "efa94c4faa34ae94",
+    "eaea43bf9d6efa99",
+    "fbd21b1e845fba5a",
+    "bf09c1f411a8081a",
+    "cdbcea42c7a31546",
+    "2e0636112d84c808",
+    "35594189780947b7",
+    "313c347d65e04a68",
+    "75b9bfe5b916ccee",
+    "e44d627b10a956dc",
+    "0c6bf3c6fe5e600b",
+    "7811cfbc372e1d5c",
+    "a4a3e590ba794f0d",
+    "d5758cf1369907ff",
+    "9954a5fed7271c7f",
+    "0dbe3b56cf491615",
+    "15d281b8a242c1ec",
+    "df3bb78ea8cffe34",
+    "5405e917bffdc4b5"
+   ]
+  }
+ ],
+ "fragments": {
+  "00b17141aab70b1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Julho\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pela [Lei n.º 115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro);\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico ([Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro), no artigo 4.º do [Decreto-Lei n.º 303/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1980-470779), de 16 de Agosto, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º É aprovado o Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, cujo texto se publica em anexo a esta portaria.\n\n2.º O texto referido no número anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria.\n\n3.º Todas as alterações ao Regulamento são nele incorporadas através de nova redacção dos seus artigos ou de aditamento de novos artigos.\n\n4.º Esta portaria entra em vigor no dia imediato ao da sua publicação.\n\nMinistério da Educação.\n\nAssinada em 8 de Julho de 1998.\n\nPelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior.\n\nREGULAMENTO GERAL DOS CURSOS BIETÁPICOS DE LICENCIATURA DAS ESCOLAS DE ENSINO SUPERIOR POLITÉCNICO"
+  },
+  "fb500014a2cec9b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Curso e graus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Curso e graus"
+  },
+  "50be02fb8baf7cb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma estabelece os princípios gerais a que deve obedecer a organização e funcionamento de cursos bietápicos de licenciatura ministrados pelas escolas de ensino superior politécnico públicas, particulares e cooperativas."
+  },
+  "fbdd40551d6bb6c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\nPor curso bietápico de licenciatura entende-se aquele que é organizado em dois ciclos, conduzindo o primeiro ao grau de bacharel e o segundo ao grau de licenciado."
+  },
+  "b516612965e0b3ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Duração do curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração do curso\n\n1 - O 1.º ciclo do curso tem a duração de seis semestres lectivos.\n\n2 - O 2.º ciclo do curso tem uma duração de dois a quatro semestres lectivos.\n\n3 - Os cursos podem, em casos devidamente fundamentados, funcionar em regime nocturno com duração prolongada nos termos que sejam fixados pelo respectivo instrumento legal de criação ou de autorização de funcionamento."
+  },
+  "f71f299242e2a053": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Opções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Opções\n\n1 - O 1.º ciclo do curso pode desdobrar-se em opções, caracterizadas por, a partir do 3.º ao 5.º semestres lectivos, ocorrer uma diferenciação parcial das unidades curriculares em que o estudante se pode inscrever.\n\n2 - Num 1.º ciclo organizado em opções:\n\na) Em cada ano lectivo só se abrem novas inscrições nas opções em que o número de alunos a inscrever no primeiro ano ou semestre em que se diferenciam seja de pelo menos 15;\n\nb) Se o número total de alunos a inscrever no primeiro ano ou semestre em que as opções se diferenciam for inferior a 30, só funciona a opção com maior número de interessados na inscrição.\n\n3 - Exceptua-se do disposto no número anterior os casos em que as vagas fixadas para o ingresso no 1.º ano o tenham sido directamente para as opções e inferiores àquele valor."
+  },
+  "e4addc06a6edf10d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Ramos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Ramos\n\n1 - O 2.º ciclo do curso pode desdobrar-se em ramos.\n\n2 - Num 2.º ciclo organizado em ramos:\n\na) Em cada ano lectivo só se abrem novas inscrições nos ramos em que o número de alunos a inscrever no primeiro ano ou semestre seja de pelo menos 15;\n\nb) Se o número total de alunos a inscrever no primeiro ano ou semestre do 2.º ciclo do curso for inferior a 30, funciona o ramo com maior número de inscrições.\n\n3 - Exceptuam-se do disposto no número anterior os casos em que o acesso ao ramo está condicionado à titularidade exclusiva de uma determinada opção do 1.º ciclo e as vagas fixadas para o ingresso no 1.º ano deste o tenham sido directamente para aquela opção e inferiores àquele valor."
+  },
+  "a00c73068ad29f38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Plano de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Plano de estudos\n\n1 - O plano de estudos do curso é integrado por um conjunto de unidades curriculares.\n\n2 - As unidades curriculares podem ser semestrais ou anuais.\n\n3 - Para cada unidade curricular é identificada a respectiva carga horária semanal distribuída segundo o tipo de metodologia de ensino adoptada:\n\na) Teórico;\n\nb) Teórico-prático;\n\nc) Prático;\n\nd) Seminário;\n\ne) Estágio.\n\n4 - A carga horária pode igualmente ser indicada sob a forma de total por ano ou semestre lectivo, consoante a duração da unidade curricular.\n\n5 - O plano de estudos do curso pode ser organizado em anos e ou semestres.\n\n6 - Para cada curso é aprovado um plano de estudos fixando a distribuição das unidades curriculares por anos e ou semestres e, quando existam, por opções e ramos."
+  },
+  "5c6d802b61d2a66d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Unidades curriculares de opção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Unidades curriculares de opção\n\n1 - Se o curso integrar unidades curriculares de opção, o seu elenco é fixado pelo órgão legal e estatutariamente competente.\n\n2 - O número mínimo de alunos necessário ao funcionamento de cada uma das unidades curriculares de opção é de 15, sem prejuízo de ser sempre ministrada pelo menos uma.\n\n3 - Exceptuam-se do mínimo fixado no número anterior os casos em que o docente assegure a docência da unidade curricular para além do número máximo de horas de serviço de aulas a que é obrigado por lei, sem encargos adicionais para a instituição."
+  },
+  "a2f4e0b217e0f826": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Ano e semestre lectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Ano e semestre lectivo\n\n1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15."
+  },
+  "413f335adb5399ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Regimes escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regimes escolares\n\nOs regimes de frequência, avaliação de conhecimentos, transição de ano, precedência e prescrição do direito à inscrição são fixados pelo órgão legal e estatutariamente competente."
+  },
+  "5b53373e3ce7a751": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Grau de bacharel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Grau de bacharel\n\n1 - Aos alunos que obtenham aprovação na totalidade das unidades curriculares que integram o plano de estudos do 1.º ciclo do curso é conferido o grau de bacharel com a designação aprovada no instrumento legal de criação ou de autorização de funcionamento do curso.\n\n2 - Nos cursos cujo 1.º ciclo se desdobre em opções, aos alunos que obtenham aprovação na totalidade das unidades curriculares que integram o plano de estudos de uma das opções do 1.º ciclo é conferido o grau de bacharel com a designação aprovada no instrumento legal de criação ou de autorização de funcionamento do curso, na opção correspondente."
+  },
+  "4e796cfb7fae6492": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Grau de licenciado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Grau de licenciado\n\n1 - Aos alunos que obtenham aprovação na totalidade das unidades curriculares que integram o plano de estudos do 2.º ciclo do curso é conferido o grau de licenciado com a designação aprovada no instrumento legal de criação ou de autorização de funcionamento do curso.\n\n2 - Nos cursos cujo 2.º ciclo se desdobre em ramos, aos alunos que obtenham aprovação na totalidade das unidades curriculares que integram o plano de estudos de um dos ramos do 2.º ciclo é conferido o grau de licenciado com a designação aprovada no instrumento legal de criação ou de autorização de funcionamento do curso, no ramo correspondente."
+  },
+  "29026fb99a5fce26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Classificação final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Classificação final\n\n1 - A classificação final do grau de bacharel é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o plano de estudos do 1.º ciclo do curso.\n\n2 - A classificação final do grau de licenciado é a resultante do cálculo da expressão seguinte, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):\n\n[(3P) + (n x S)]/3 + n\n\nem que:\n\nP é a classificação final do grau de bacharel;\n\nn é um coeficiente de ponderação com um valor entre 1 e 2;\n\nS é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o plano de estudos do 2.º ciclo do curso.\n\n3 - Os coeficientes de ponderação são fixados pelo órgão legal e estatutariamente competente."
+  },
+  "b497e0df69dac9e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Inscrição no 2.º ciclo do curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Inscrição no 2.º ciclo do curso"
+  },
+  "22aee6cd71dadc63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Inscrição no 2.º ciclo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Inscrição no 2.º ciclo\n\n1 - Em cada ano lectivo, podem inscrever-se no 2.º ciclo do curso:\n\na) Sem limitações quantitativas, os estudantes que tenham concluído o 1.º ciclo respectivo na escola em causa no ano lectivo imediatamente anterior;\n\nb) Sujeitos a limitações quantitativas:\n\nb1) Os estudantes que tenham concluído o 1.º ciclo respectivo na escola em causa noutros anos lectivos;\n\nb2) Os estudantes que tenham obtido um grau de bacharel na área do curso por outra escola cujo plano de estudos garanta, globalmente, uma formação correspondente à do 1.º ciclo do curso, se tal for previsto no instrumento legal de criação ou de autorização de funcionamento do curso.\n\n2 - Nos cursos em que o 1.º ciclo se desdobre em opções e o 2.º ciclo se desdobre em ramos, a inscrição num determinado ramo pode ser condicionada à realização de uma determinada opção no 1.º ciclo.\n\n3 - Compete ao júri a que se refere o artigo 17.º verificar se os cursos a que se refere a alínea b2) do n.º 1 satisfazem à condição nela expressa."
+  },
+  "83a4a75dff796132": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Limitações quantitativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Limitações quantitativas\n\n1 - As vagas para a candidatura à matrícula e inscrição dos estudantes a que se refere a alínea b1) do artigo 13.º são fixadas pelo órgão legal e estatutariamente competente e comunicadas ao Departamento do Ensino Superior até 15 de Março de cada ano.\n\n2 - As vagas para a candidatura à matrícula e inscrição dos estudantes a que se refere a alínea b2) do artigo 13.º são fixadas, até 15 de Junho de cada ano, por portaria do Ministro da Educação, sob proposta do órgão legal e estatutariamente competente remetida ao Departamento do Ensino Superior até 15 de Março de cada ano.\n\n3 - Nos cursos cujo 2.º ciclo se encontre organizado em ramos, as vagas são fixadas por ramo.\n\n4 - As vagas do curso, e de cada ramo, se for caso disso, podem repartir-se por contingentes, nos termos a fixar pelo órgão legal e estatutariamente competente.\n\n5 - No caso previsto no número anterior, a percentagem de vagas a afectar a cada contingente, bem como as regras de reversão de vagas eventualmente não ocupadas, são igualmente fixadas pelo órgão legal e estatutariamente competente."
+  },
+  "e61a8d0f2d6bc9f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Concurso\n\n1 - O preenchimento das vagas a que se refere o artigo anterior é feito através de um concurso de acesso.\n\n2 - O concurso é válido apenas para a matrícula e inscrição no ano lectivo a que diz respeito.\n\n3 - As vagas sobrantes do concurso não são utilizáveis de qualquer outra forma ou para qualquer outro fim."
+  },
+  "6c2f79781c83d6c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Regras e critérios de selecção e seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regras e critérios de selecção e seriação\n\n1 - As regras e os critérios de selecção e seriação dos candidatos são fixados pelo órgão legal e estatutariamente competente.\n\n2 - A selecção e seriação dos candidatos pode incluir a realização de provas de avaliação em domínios considerados necessários ao ingresso no curso, bem como a realização de entrevistas."
+  },
+  "efa94c4faa34ae94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Júri\n\n1 - A aplicação das regras de selecção e seriação é da competência de um júri, constituído por professores da escola, nomeado pelo órgão legal e estatutariamente competente.\n\n2 - A deliberação final do júri está sujeita à homologação do órgão legal e estatutariamente competente."
+  },
+  "eaea43bf9d6efa99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Candidatura\n\n1 - A candidatura à matrícula e inscrição é formulada em requerimento dirigido ao órgão legal e estatutariamente competente.\n\n2 - Os elementos a mencionar obrigatoriamente no requerimento, bem como as vagas a que se refere o n.º 1 do artigo 14.º, os contingentes e as regras a que se referem os n.os 4 e 5 do mesmo artigo e as regras e os critérios de selecção e seriação a que se refere o artigo 16.º são divulgados através de edital subscrito pelo órgão legal e estatutariamente competente e afixado nas instalações da escola.\n\n3 - O requerimento pode ser substituído por impresso de modelo a fixar pelo órgão legal e estatutariamente competente."
+  },
+  "fbd21b1e845fba5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Documentos\n\n1 - O requerimento de candidatura deve ser obrigatoriamente acompanhado dos seguintes documentos:\n\na) Certidão comprovativa da titularidade do curso com que o requerente se candidata, indicando a respectiva classificação final;\n\nb) Currículo profissional e académico do requerente.\n\n2 - O edital a que se refere o n.º 2 do artigo 18.º pode ainda estabelecer a obrigatoriedade de entrega de outros documentos.\n\n3 - Os candidatos juntam ao currículo os documentos que entendam relevantes para a apreciação do mesmo.\n\n4 - O júri a que se refere o artigo 17.º pode solicitar a comprovação documental das declarações constantes do currículo dos candidatos.\n\n5 - Os candidatos a que se refere a alínea b1) do artigo 13.º estão dispensados de apresentar a certidão referida na alínea a) do n.º 1."
+  },
+  "bf09c1f411a8081a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Rejeição liminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Rejeição liminar\n\n1 - As candidaturas que não satisfaçam ao disposto na presente portaria são rejeitadas liminarmente.\n\n2 - A rejeição liminar é da competência do órgão legal e estatutariamente competente.\n\n3 - Dos candidatos rejeitados liminarmente é organizada lista, tornada pública através de edital a afixar na escola, donde constem os fundamentos da rejeição."
+  },
+  "cdbcea42c7a31546": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Resultados da selecção e seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Resultados da selecção e seriação\n\nOs resultados do processo de selecção e seriação são tornados públicos através de edital, donde consta, para cada contingente:\n\na) A lista dos candidatos não seleccionados;\n\nb) A lista ordenada dos candidatos seleccionados, indicando:\n\nb1) Os candidatos admitidos à matrícula e inscrição;\n\nb2) Os candidatos não admitidos à matrícula e inscrição."
+  },
+  "2e0636112d84c808": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reclamações\n\n1 - Do resultado final da candidatura, divulgado nos termos do artigo 21.º, podem os candidatos apresentar reclamação, devidamente fundamentada, dirigida ao órgão legal e estatutariamente competente, no prazo fixado nos termos do artigo 24.º\n\n2 - São liminarmente indeferidas as reclamações não fundamentadas, bem como as entregues fora de prazo.\n\n3 - Quando, na sequência do provimento de uma reclamação, um candidato não colocado venha a ficar situado na lista ordenada em posição de colocado, tem direito à colocação, mesmo que para tal seja necessário criar vaga adicional.\n\n4 - A rectificação da colocação abrange apenas o candidato cuja reclamação foi provida, não tendo qualquer efeito sobre os restantes candidatos, colocados ou não."
+  },
+  "35594189780947b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Matrículas e inscrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Matrículas e inscrições\n\n1 - Os candidatos admitidos devem proceder à matrícula e inscrição no prazo fixado nos termos do artigo 24.º\n\n2 - Caso algum candidato admitido desista expressamente da matrícula e inscrição, ou não compareça a realizar a mesma, o órgão legal e estatutariamente competente, no dia imediato ao do fim do prazo da matrícula e inscrição, através de carta registada com aviso de recepção, convoca para a matrícula e inscrição o candidato seguinte na lista ordenada, até esgotar as vagas ou os candidatos por esse contingente.\n\n3 - Os candidatos a que se refere a parte final do n.º 2 têm um prazo improrrogável de três dias úteis após a recepção da notificação para procederem à sua matrícula e inscrição."
+  },
+  "015dd930b2798af3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Prazos\n\n1 - Os prazos para a candidatura, selecção, seriação, matrícula e inscrição e reclamação são fixados anualmente por despacho do órgão legal e estatutariamente competente.\n\n2 - O despacho a que se refere o número anterior só pode ser proferido após a publicação da portaria a que se refere o n.º 2 do artigo 14.º\n\n3 - O despacho a que se refere o n.º 1 é objecto de afixação pública nas instalações da escola, bem como de publicação na 2.ª série do Diário da República, antes do início dos prazos a que o mesmo se refere."
+  },
+  "75b9bfe5b916ccee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições finais"
+  },
+  "e44d627b10a956dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Casos especiais\n\n1 - Sempre que a natureza e objectivos do 2.º ciclo do curso o justifique, o instrumento legal de criação ou de autorização de funcionamento pode determinar que o acesso àquele esteja condicionado ao desenvolvimento de actividade profissional por um determinado período após a conclusão do 1.º ciclo.\n\n2 - No caso previsto no presente artigo, o referido instrumento legal define quais as situações em que os candidatos se podem inscrever no 2.º ciclo do curso sem limitações quantitativas."
+  },
+  "0a15cd776e09b583": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Prioridades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Prioridades\n\n1 - O instrumento legal de criação ou de autorização de funcionamento do curso pode estabelecer que por decisão do órgão legal e estatutariamente competente da escola:\n\na) Até 25% das vagas fixadas nos termos do artigo 14.º possam ser afectadas prioritariamente a candidatos oriundos de instituições com as quais a escola, ou o instituto, se for caso disso, haja firmado protocolos de formação;\n\nb) Até 25% das vagas fixadas nos termos do artigo 14.º possam ser afectadas prioritariamente a candidatos que desenvolvam a sua actividade profissional principal e com carácter de permanência em organismos ou instituições sediados na área de influência da escola.\n\n2 - A decisão a que se refere o número anterior é divulgada através do edital a que se refere o n.º 2 do artigo 18.º"
+  },
+  "7811cfbc372e1d5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Supranumerários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Supranumerários\n\n1 - Para além das vagas fixadas nos termos do artigo 14.º, o instrumento legal de criação ou de autorização de funcionamento do curso pode criar um contingente especial destinado a estudantes nacionais dos países africanos de expressão portuguesa, desde que a sua candidatura seja apresentada previamente pela via diplomática, através do Departamento do Ensino Superior, no âmbito dos acordos de cooperação firmados pelo Estado Português.\n\n2 - O número de vagas deste contingente é fixado pelo órgão legal e estatutariamente competente e não pode ser superior a 10% das vagas fixadas nos termos do artigo 14.º\n\n3 - Os estudantes a que se refere o n.º 1 devem satisfazer as condições de acesso fixadas nos termos do artigo 13.º e estão sujeitos, se excederem o número de vagas fixadas nos termos do número anterior, às regras e critérios de selecção e seriação estabelecidos nos termos do artigo 16.º"
+  },
+  "d5758cf1369907ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Órgão legal e estatutariamente competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Órgão legal e estatutariamente competente\n\nNa falta de disposição em contrário dos estatutos de cada instituição, as competências cometidas pelo presente diploma ao órgão legal e estatutariamente competente são atribuídas da seguinte forma:\n\na) Ao director ou presidente do conselho directivo da escola:\n\na1) N.º 1 do artigo 7.º, precedendo proposta do órgão científico;\n\na2) Artigo 9.º, precedendo proposta conjunta dos órgãos científico e pedagógico;\n\na3) N.os 1, 2 e 5 do artigo 14.º;\n\na4) N.º 1 do artigo 16.º, precedendo proposta do órgão científico;\n\na5) N.º 1 do artigo 17.º, precedendo proposta do órgão científico;\n\na6) N.º 2 do artigo 17.º;\n\na7) N.os 1, 2 e 3 do artigo 18.º;\n\na8) N.º 2 do artigo 20.º;\n\na9) N.º 1 do artigo 22.º;\n\na10) N.º 2 do artigo 23.º;\n\na11) N.º 1 do artigo 24.º;\n\na12) N.º 1 do artigo 26.º;\n\na13) N.º 2 do artigo 27.º;\n\na14) N.º 1 do artigo 31.º, precedendo proposta conjunta dos órgãos científico e pedagógico;\n\nb) Ao órgão científico da escola:\n\nb1) N.º 3 do artigo 12.º"
+  },
+  "9954a5fed7271c7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Escolas integradas em institutos politécnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Escolas integradas em institutos politécnicos\n\nNas escolas integradas em institutos politécnicos, e na falta de disposição em contrário dos estatutos respectivos, são cometidas ao presidente do instituto, precedendo proposta do director ou presidente do conselho directivo, as seguintes competências:\n\na) N.os 1, 2 e 5 do artigo 14.º;\n\nb) N.º 2 do artigo 18.º;\n\nc) N.º 1 do artigo 24.º;\n\nd) N.º 1 do artigo 26.º;\n\ne) N.º 2 do artigo 27.º;\n\nf) N.º 1 do artigo 31.º, ouvidos pelo director ou presidente do conselho directivo os órgãos científico e pedagógico."
+  },
+  "0dbe3b56cf491615": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Normas não aplicáveis às escolas particulares e cooperativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Normas não aplicáveis às escolas particulares e cooperativas\n\nNão se aplicam às escolas particulares e cooperativas as seguintes normas:\n\na) N.º 2 do artigo 4.º;\n\nb) N.º 2 do artigo 5.º;\n\nc) N.os 2 e 3 do artigo 7.º"
+  },
+  "15d281b8a242c1ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições transitórias"
+  },
+  "df3bb78ea8cffe34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Cessação de funcionamento de cursos de bacharelato e de estudos superiores especializados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Cessação de funcionamento de cursos de bacharelato e de estudos superiores especializados\n\n1 - Compete ao órgão legal e estatutariamente competente fixar as regras a que está sujeita a cessação da ministração dos cursos de bacharelato e de estudos superiores especializados extintos com a criação dos cursos bietápicos de licenciatura.\n\n2 - As regras a que se refere o n.º 1 devem respeitar obrigatoriamente os seguintes princípios:\n\na) Nos cursos de bacharelato extintos e nos cursos de estudos superiores especializados não são admitidos novos alunos a partir do ano lectivo de 1998-1999, inclusive;\n\nb) A atribuição do diploma de estudos superiores especializados não pode exceder:\n\nb1) O ano lectivo de 1999-2000 para os cursos com a duração de dois semestres;\n\nb2) O ano lectivo de 2000-2001 para os cursos com a duração de três ou quatro semestres;\n\nc) A integração dos alunos que não concluam os cursos extintos dentro dos prazos fixados nos novos cursos que os substituírem é feita através da fixação de plano de estudos que se revele adequado."
+  },
+  "5405e917bffdc4b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Prazos para o ano lectivo de 1998-1999",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Prazos para o ano lectivo de 1998-1999\n\nOs prazos a que se referem os n.os 1 e 2 do artigo 14.º não se aplicam ao ano lectivo de 1998-1999."
+  },
+  "420488705af43c74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Classificação final",
+   "in_force_from": "2004-10-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22."
+   ],
+   "markdown": "###### Artigo 12.º — Classificação final\n\n1 - A classificação final do grau de bacharel é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o plano de estudos do 1.º ciclo do curso.\n\n2 - A classificação final do grau de licenciado é a resultante do cálculo da expressão seguinte, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas):\n\n((3P) + (n x S))/(3 + n)\n\nem que:\n\nP é a classificação final do grau de bacharel;\n\nn é um coeficiente de ponderação com um valor entre 1 e 4;\n\nS é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o plano de estudos do 2.º ciclo do curso.\n\n3 - Os coeficientes de ponderação são fixados pelo órgão legal e estatutariamente competente.\n\n> Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22."
+  },
+  "6ed3712ccf9135e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Inscrição no 2.º ciclo",
+   "in_force_from": "2004-10-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22."
+   ],
+   "markdown": "###### Artigo 13.º — Inscrição no 2.º ciclo\n\n1 - Em cada ano lectivo, podem inscrever-se no 2.º ciclo do curso:\n\na) Sem limitações quantitativas globais, os estudantes que tenham concluído o 1.º ciclo respectivo na escola em causa no ano lectivo imediatamente anterior;\n\nb) Sujeitos a limitações quantitativas:\n\nb1) Os estudantes que tenham concluído o 1.º ciclo respectivo na escola em causa noutros anos lectivos;\n\nb2) Os estudantes que tenham obtido um grau de bacharel na escola em causa cujo plano de estudos garanta, globalmente, uma formação básica correspondente à do 1.º ciclo do curso, se tal for previsto no instrumento legal de criação ou de autorização de funcionamento do curso;\n\nb3) Os estudantes que tenham obtido um grau de bacharel na área do curso por outra escola cujo plano de estudos garanta, globalmente, uma formação correspondente à do 1.º ciclo do curso, se tal for previsto no instrumento legal de criação ou de autorização de funcionamento do curso.\n\n2 - Nos cursos em que o segundo ciclo se desdobre em ramos, a inscrição dos estudantes a que se refere a alínea a) do n.º 1 em cada um dos ramos pode ser condicionada a limites quantitativos, sem prejuízo de o total destes dever ser igual ou superior ao número de estudantes abrangidos.\n\n3 - Nos cursos em que o 1.º ciclo se desdobre em opções e o 2.º ciclo se desdobre em ramos, a inscrição num determinado ramo pode ser condicionada à realização de uma determinada opção no 1.º ciclo.\n\n4 - Compete ao júri a que se refere o artigo 17.º verificar se os cursos a que se referem as alíneas b2) e b3) do n.º 1 satisfazem às condições nelas expressas.\n\n> Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22."
+  },
+  "1557d1afd73db36e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Limitações quantitativas",
+   "in_force_from": "2004-10-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22."
+   ],
+   "markdown": "###### Artigo 14.º — Limitações quantitativas\n\n1 - As vagas para a candidatura à matrícula e inscrição dos estudantes a que se referem as alíneas b1) e b2) do n.º 1 do artigo 13.º são fixadas pelo órgão legal e estatutariamente competente e comunicadas ao Departamento do Ensino Superior até 15 de Março de cada ano.\n\n2 - As vagas para a candidatura à matrícula e inscrição dos estudantes a que se refere a alínea b3) do n.º 1 do artigo 13.º são fixadas, até 15 de Junho de cada ano, por portaria do Ministro da Educação, sob proposta do órgão legal e estatutariamente competente remetida ao Departamento do Ensino Superior até 15 de Março de cada ano.\n\n3 - Nos cursos cujo 2.º ciclo se encontre organizado em ramos, as vagas são fixadas por ramo.\n\n4 - As vagas do curso, e de cada ramo, se for caso disso, podem repartir-se por contingentes, nos termos a fixar pelo órgão legal e estatutariamente competente.\n\n5 - No caso previsto no número anterior, a percentagem de vagas a afectar a cada contingente, bem como as regras de reversão de vagas eventualmente não ocupadas, são igualmente fixadas pelo órgão legal e estatutariamente competente.\n\n> Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22."
+  },
+  "313c347d65e04a68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Prazos",
+   "in_force_from": "2004-10-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22."
+   ],
+   "markdown": "###### Artigo 24.º — Prazos\n\n1 - Os prazos para a candidatura, selecção, seriação, matrícula e inscrição e reclamação são fixados anualmente por despacho do órgão legal e estatutariamente competente.\n\n2 - No que se refere às vagas fixadas nos termos da alínea b3) do n.º 1 do artigo 13.º, o despacho a que se refere o número anterior só pode ser proferido após a publicação da portaria a que se refere o n.º 2 do artigo 14.º\n\n3 - O despacho a que se refere o n.º 1 é objecto de afixação pública nas instalações da escola, bem como de publicação na 2.ª série do Diário da República, antes do início dos prazos a que o mesmo se refere.\n\n> Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22."
+  },
+  "0c6bf3c6fe5e600b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Prioridades",
+   "in_force_from": "2004-10-26",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22."
+   ],
+   "markdown": "###### Artigo 26.º — Prioridades\n\n1 - O instrumento legal de criação ou de autorização de funcionamento do curso pode estabelecer que por decisão do órgão legal e estatutariamente competente da escola:\n\na) Até 25% das vagas fixadas, para cada uma das alíneas b1), b2) e b3) do n.º 1 do artigo 13.º, nos termos do artigo 14.º, possam ser afectadas prioritariamente a candidatos oriundos de instituições com as quais a escola, ou o instituto, se for caso disso, haja firmado protocolos de formação;\n\nb) Até 25% das vagas fixadas, para cada uma das alíneas b1), b2) e b3) do n.º 1 do artigo 13.º, nos termos do artigo 14.º, possam ser afectadas prioritariamente a candidatos que desenvolvam a sua actividade profissional principal e com carácter de permanência em organismos ou instituições sediados na área de influência da escola.\n\n2 - A decisão a que se refere o número anterior é divulgada através do edital a que se refere o n.º 2 do artigo 18.º\n\n3 - Os limites a que se refere o n.º 1 podem, em situações devidamente fundamentadas, ser aumentados por despacho do Ministro da Educação exarado sobre proposta do órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n> Alterado pelo/a [Portaria n.º 533-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/533-a-1999-147873), publicado em 1999-07-22."
+  },
+  "a4a3e590ba794f0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º-A — Inscrição de estudantes titulares de um curso superior",
+   "in_force_from": "2004-10-26",
+   "changed_by": [
+    "Aditado pelo/a [Portaria n.º 1359/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1359-2004-561983), publicado em 2004-10-26."
+   ],
+   "markdown": "###### Artigo 27.º-A — Inscrição de estudantes titulares de um curso superior\n\nOs estudantes titulares de um curso superior que sejam admitidos à inscrição num curso bietápico de licenciatura ao abrigo do concurso especial a que se refere a alínea b) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 393-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1999-159115), de 2 de Outubro:\n\na) Podem inscrever-se no 2.º ciclo independentemente da titularidade do grau de bacharel desde que o plano de estudos do curso de que são titulares garanta, globalmente, uma formação básica correspondente à do 1.º ciclo do curso;\n\nb) Podem inscrever-se simultaneamente em unidades curriculares do 1.º e do 2.º ciclos caso, de acordo com o plano de estudos próprio que lhes haja sido fixado nos termos do artigo 17.º do [Decreto-Lei n.º 393-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1999-159115), careçam de realizar unidades curriculares de ambos os ciclos para a obtenção do grau de licenciado.\n\n> Aditado pelo/a [Portaria n.º 1359/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1359-2004-561983), publicado em 2004-10-26."
+  }
+ }
+}

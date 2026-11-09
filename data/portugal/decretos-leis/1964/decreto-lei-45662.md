@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1965-03-19'
+version_history:
+  file: decreto-lei-45662.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-04-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1965-03-19'
+    amending: pt:dre:238637:por
+    amending_title: Decreto-Lei n.º 46249
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:48:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 46249. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-45662.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,7 +136,11 @@ Atendendo ao disposto na alínea a) do artigo 42.º do [Decreto-Lei n.º 26115](
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo único. Fica autorizado o pagamento da remuneração por trabalhos extraordinários ao pessoal assalariado com funções de fiscalização em serviço nos diversos departamentos do Ministério das Obras Públicas, incluindo os organismos de carácter eventual.
+###### Artigo único
+
+Fica autorizado o pagamento da remuneração por trabalhos extraordinários ao pessoal assalariado em serviço nos diversos departamentos do Ministério das Obras Públicas, incluindo os organismos de carácter eventual.
+
+> Alterado pelo/a [Decreto-Lei n.º 46249](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46249-1965-238637), publicado em 1965-03-19.
 
 Publique-se e cumpra-se como nele se contém.
 

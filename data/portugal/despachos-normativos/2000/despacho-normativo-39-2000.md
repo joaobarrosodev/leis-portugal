@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-12-27'
+version_history:
+  file: despacho-normativo-39-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-09-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-12-27'
+    amending: pt:dre:660500:por
+    amending_title: Despacho Normativo n.º 47/2000
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/39/2000/09/06/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:36:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 47/2000. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2000/despacho-normativo-39-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -198,7 +213,7 @@ Os apoios a conceder correspondem a uma comparticipação do Estado de 75% do in
 
 Apresentação das candidaturas e decisão
 
-1 - As candidaturas entregues na DGPA até 1 de Março serão objecto de decisão até 31 de Maio e as entregues até 31 de Agosto serão decididas até 31 de Outubro do ano a que respeitam.
+1 - As candidaturas entregues na DGPA até 1 de Março, 31 de Agosto e 15 de Dezembro serão decididas respectivamente até 31 de Maio, 31 de Outubro e 31 de Dezembro do ano a que respeitam.
 
 2 - A decisão sobre as candidaturas é da competência do membro do Governo responsável pelo sector das pescas.
 
@@ -243,3 +258,5 @@ Incumprimento
 Disposições transitórias
 
 No ano 2000 todas as candidaturas deverão ser entregues até 31 de Agosto, devendo as mesmas ser objecto de decisão até 31 de Outubro.
+
+> Alterado pelo/a [Despacho Normativo n.º 47/2000](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/47-2000-660500), publicado em 2000-12-22.

@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-06-18'
+version_history:
+  file: despacho-normativo-36-2006.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2006-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-06-18'
+    amending: pt:dre:3015435:por
+    amending_title: Despacho Normativo n.º 16/2006; Declaração de Rectificação n.º 1172/2010
+    changes:
+    - Revoga Artigo 3.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/36/2006/06/26/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:43:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 16/2006; Declaração
+    de Rectificação n.º 1172/2010. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2006/despacho-normativo-36-2006.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -178,11 +194,9 @@ c) Manter permanentemente actualizados os registos relativos à proveniência da
 
 ###### Artigo 3.º — Reconhecimento de novos agrupamentos de produtores
 
-1 - Para efeitos de aplicação da alínea e) do artigo 171.ºC do Regulamento (CE) n.º [1973/2004](http://data.europa.eu/eli/reg/2004/1973/oj?locale=pt), da Comissão, de 29 de Outubro, o pedido de reconhecimento de novos agrupamentos de produtores deve ser feito junto do Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) até ao dia 31 de Outubro do ano anterior à colheita.
+(Revogado.)
 
-2 - O número mínimo de produtores individuais para a constituição de um agrupamento de produtores de tabaco é de 70 para o grupo I (variedade Virginia) e de 25 para o grupo II (variedade Burley).
-
-3 - Podem ser reconhecidas como agrupamentos de produtores as pessoas colectivas que cumpram o disposto no número anterior e cujos estatutos obriguem os seus membros a colocar no mercado por intermédio do agrupamento a totalidade da respectiva produção de tabaco.
+> Revogado pelo/a [Declaração de Rectificação n.º 1172/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1172-2010-3620234), publicado em 2010-06-18.
 
 ###### Artigo 4.º — Nível de ajuda
 
@@ -191,6 +205,12 @@ c) Manter permanentemente actualizados os registos relativos à proveniência da
 2 - O valor indicativo da ajuda é fixado em 2,98062 euros/quilograma para o tabaco do grupo I (variedade Virginia) e 2,38423 euros/quilograma para o grupo II (variedade Burley).
 
 3 - Caso venha a ser excedido o montante máximo da ajuda total atribuída para Portugal, o INGA procede a uma redução linear sobre o valor final da ajuda até 15 dias após a conclusão das entregas.
+
+4 - Na Região Autónoma dos Açores as entregas do tabaco devem ser efectuadas até ao dia 30 de Novembro do ano respeitante à colheita em curso.
+
+5 - A redução linear referida no n.º 3 deve ser efectuada sobre os produtores da Região Autónoma dos Açores sempre que seja excedido o montante total máximo da ajuda atribuída para esta região, que corresponde a 332 mil euros.
+
+> Alterado pelo/a [Despacho Normativo n.º 16/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2006-3015435), publicado em 2006-11-14.
 
 ###### Artigo 5.º — Arbitragem
 

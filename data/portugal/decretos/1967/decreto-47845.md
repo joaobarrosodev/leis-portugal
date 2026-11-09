@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-09-20'
+version_history:
+  file: decreto-47845.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-08-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-09-20'
+    amending: pt:dre:473281:por
+    amending_title: Decreto-Lei n.º 469/74
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:57:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 469/74. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1967/decreto-47845.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -109,19 +124,27 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º - 1. É autorizado o Governo-Geral de Moçambique a prestar aval a empréstimo a efectuar por bancos nacionais, em conjunto ou isoladamente, ao Grémio dos Industriais de Óleos Vegetais para aquisição de matérias-primas na província necessárias ao abastecimento dos seus agremiados durante a campanha compreendida entre 7 de Junho de 1967 e 14 de Dezembro de 1968.
+###### Artigo 1.º
 
-2. A responsabilidade da província decorrente do aval não excederá o montante de 200000000$00.
+1. É autorizado o Governo-Geral de Moçambique a prestar aval a empréstimo a efectuar por bancos nacionais, em conjunto ou isoladamente, ao Grémio dos Industriais de Óleos Vegetais para aquisição de matérias-primas na província necessárias ao abastecimento dos seus agremiados durante a campanha compreendida entre 7 de Junho de 1967 e 14 de Dezembro de 1968.
+
+2. A responsabilidade do Estado de Moçambique decorrente do aval não excederá o montante de 300000000$00.
 
 3. O empréstimo, que poderá ser desdobrado em várias operações respeitando a determinadas matérias-primas ou grupos de matérias-primas e válidas por períodos diferentes, mas sempre compreendidos no período previsto na parte final do n.º 1 deste artigo, assumirá, em qualquer caso, a forma de empréstimo em conta corrente. O Grémio dos Industriais de Óleos Vegetais movimentará o ou os créditos concedidos, sacando as importâncias necessárias ao pagamento das matérias-primas que vá adquirindo e depositando uma proporção não inferior a 80 por cento do valor das vendas dos produtos manufacturados com essas matérias-primas.
 
-Art. 2.º - 1. O prazo de utilização dos créditos não excederá por mais de dois meses o período da campanha e o pagamento das responsabilidades garantidas pela província, nos termos do artigo anterior, deverá ser efectuado até seis meses após o fecho da campanha.
+> Alterado pelo/a [Decreto-Lei n.º 469/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/469-1974-473281), publicado em 1974-09-20.
+
+###### Artigo 2.º
+
+1. O prazo de utilização dos créditos não excederá por mais de dois meses o período da campanha e o pagamento das responsabilidades garantidas pela província, nos termos do artigo anterior, deverá ser efectuado até seis meses após o fecho da campanha.
 
 2. Findos os prazos previstos no n.º 1, extinguir-se-á o aval prestado pela província de Moçambique.
 
 3. A requerimento do Grémio, e com parecer favorável do Governo-Geral da província, poderá, por simples despacho do Ministro do Ultramar, ser autorizada a renovação por campanhas sucessivas da concessão do aval previsto no n.º 1 do artigo 1.º deste decreto.
 
-Art. 3.º - 1. Na execução do aval observar-se-ão as seguintes normas:
+###### Artigo 3.º
+
+1. Na execução do aval observar-se-ão as seguintes normas:
 
 a) O Grémio dos Industriais de óleos Vegetais, caso não possa efectuar dentro do prazo fixado no n.º 1 do artigo 2.º do presente decreto o ou os pagamentos avalizados pela província de Moçambique, comunicá-lo-á ao Governo-Geral da província com a antecedência mínima de dois meses, independentemente das comunicações que deva fazer ao banco ou bancos mutuantes;
 
@@ -129,11 +152,15 @@ b) O banco ou bancos mutuantes, caso venha a verificar-se a hipótese prevista n
 
 c) O Governo-Geral da província, no caso de os pagamentos não poderem ser feitos pelo Grémio beneficiário, abrirá os créditos necessários ao pagamento das importâncias em dívida ao banco ou banco mutuantes.
 
-Art. 4.º - 1. Pelas quantias que despender para satisfação das responsabilidades assumidas por força do disposto no artigo 1.º a província gozará, nos termos do artigo 735.º do Código Civil, de privilégio creditório sobre os bens mobiliários do Grémio e dos seus agremiados, respondendo estes solidàriamente.
+###### Artigo 4.º
+
+1. Pelas quantias que despender para satisfação das responsabilidades assumidas por força do disposto no artigo 1.º a província gozará, nos termos do artigo 735.º do Código Civil, de privilégio creditório sobre os bens mobiliários do Grémio e dos seus agremiados, respondendo estes solidàriamente.
 
 2. Se, nos termos do aval prestado, a província de Moçambique tiver que fazer quaisquer pagamentos, os créditos daí resultantes vencerão o juro de redesconto em vigor no banco emissor da província.
 
-Art. 5.º - 1. O Estado terá o direito de nomear um delegado do Governo junto do Grémio durante o período em que existam responsabilidades da província de correntes do aval concedido.
+###### Artigo 5.º
+
+1. O Estado terá o direito de nomear um delegado do Governo junto do Grémio durante o período em que existam responsabilidades da província de correntes do aval concedido.
 
 2. O delegado do Governo junto do Grémio poderá tomar conhecimento directo da contabilidade, documentos e quaisquer outros elementos que repute necessários a uma conveniente fiscalização.
 

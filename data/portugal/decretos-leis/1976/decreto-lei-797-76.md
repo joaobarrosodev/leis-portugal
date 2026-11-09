@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-12-09'
+version_history:
+  file: decreto-lei-797-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-11-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-12-09'
+    amending: pt:dre:279814:por
+    amending_title: Lei n.º 84/77
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:59:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 84/77. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-797-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -155,7 +170,7 @@ Usando da autorização conferida pela [Lei n.º 4/76](https://diariodarepublica
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º — (Criação)
+###### Artigo 1.º — (Criação)
 
 1. As câmaras municipais poderão criar, na área do respectivo município, serviços municipais de habitação, de conformidade com o disposto no Código Administrativo e no presente diploma.
 
@@ -165,25 +180,15 @@ O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Consti
 
 4. Quando em qualquer município ou grupo de municípios não se puder, por qualquer circunstância, instituir ou pôr a funcionar o serviço municipal de habitação, as respectivas funções serão supridas no todo ou em parte, enquanto tal se verificar, pelo serviço de administração Central a quem tal for cometido pelos Ministros de tutela competentes.
 
-###### ARTIGO 2.º — (Natureza e constituição)
+###### Artigo 2.º — (Natureza)
 
-1. Os serviços municipais de habitação terão a natureza de serviços especiais dotados de autonomia administrativa e financeira e com personalidade jurídica ou, se e quando a dimensão do parque habitacional a seu cargo o justificar, a de serviços municipalizados.
+1.º Os Serviços Municipais de Habitação regem-se, quanto à natureza, à estrutura e ao funcionamento, pelo disposto nos artigos 143.º, 619.º e seguintes do Código Administrativo.
 
-2. A aprovação dos actos praticados pelos órgãos gestores dos serviços municipais de habitação competirá, quando a ela haja lugar, à câmara municipal ou às câmaras municipais federadas, consoante o serviço tenha jurisdição na área de um ou de mais municípios.
+2.º Os órgãos competentes dos municípios podem deliberar a municipalização dos referidos serviços, em conformidade com a lei.
 
-3. O título da constituição dos serviços municipais de Habitação deverá, obrigatoriamente, conter as seguintes menções:
+> Alterado pelo/a [Lei n.º 84/77](https://diariodarepublica.pt/dr/detalhe/lei/84-1977-279814), publicado em 1977-12-09.
 
-a) Data da deliberação camarária da criação dos serviços;
-
-b) Sede dos serviços;
-
-c) Regras de constituição e competência dos órgãos gestores;
-
-d) Área de jurisdição;
-
-e) Funções que são atribuídas aos serviços.
-
-###### ARTIGO 3.º — (Objecto)
+###### Artigo 3.º — (Objecto)
 
 1. Constitui função principal dos serviços municipais de habitação, além de assegurar a gestão do parque habitacional do respectivo município, a atribuição, segundo os regimes legalmente fixados, dos fogos construídos ou adquiridos para fins habitacionais pelo Estado, seus organismos autónomos, institutos públicos personalizados, pessoas colectivas de direito público, instituições de previdência e Misericórdias situados na respectiva área.
 
@@ -213,17 +218,17 @@ f) Divulgar informação sobre as diferentes modalidades de acesso à habitaçã
 
 g) Colaborar em programas especiais destinados à recuperação de fogos ou imóveis em degradação do parque habitacional público e privado.
 
-###### ARTIGO 4.º — (Representação legal)
+###### Artigo 4.º — (Representação legal)
 
 1. A pessoa ou órgão a quem esteja cometida a função executiva do serviço municipal de habitação ou, em caso de impedimento daquele, ao seu substituto legal, caberá a representação legal e sem reserva de poderes por parte das entidades proprietárias ou administradores dos fogos a arrendar ou alienar a título oneroso, na celebração dos respectivos contratos.
 
 2. Aos serviços municipais de habitação poderão ser conferidos poderes de representação para o desempenho das restantes funções de disposição e de gestão do património imobiliário referido nas alíneas c) e d) do n.º 3 e na alínea a) do artigo 3.º
 
-###### ARTIGO 5.º — (Competência regulamentar)
+###### Artigo 5.º — (Competência regulamentar)
 
 O exercício das atribuições dos serviços municipais de habitação obedecerá às regras contidas no presente diploma, aos regulamentos que para sua execução venham a ser publicados pelos órgãos competentes da Administração Central e local e às instruções administrativas internas dos próprios serviços.
 
-###### ARTIGO 6.º — (Receitas)
+###### Artigo 6.º — (Receitas)
 
 Sem prejuízo do disposto no n.º 2 do artigo 1.º, constituirão receitas do serviço municipal de habitação:
 
@@ -243,11 +248,11 @@ g) O excesso de rendas ou outra importância indevidamente cobrada relativamente
 
 h) Juros de depósitos ou quaisquer importâncias ou créditos pecuniários que, pelos meios legais, entrarem no seu património.
 
-###### ARTIGO 7.º — (Concessão a cooperativas)
+###### Artigo 7.º — (Concessão a cooperativas)
 
 O serviço municipal de habitação ou a respectiva federação podem conceder as atribuições referidas nas alíneas c) e g) do n.º 3 do artigo 3.º a cooperativas de habitação, nas condições que forem ajustadas e sob inteira responsabilidade do serviço.
 
-###### ARTIGO 8.º — (Regime de atribuição das habitações sociais)
+###### Artigo 8.º — (Regime de atribuição das habitações sociais)
 
 1. A atribuição de habitações, segundo os regimes legais aplicáveis, construídas ou propriedade do Estado e demais entidades referidas no n.º 1 do artigo 3.º e das casas de renda limitada ou sujeitas a condicionamento especial de renda, será feita mediante concurso, cujo regulamento será aprovado por decreto dos Ministros da Administração Interna e da Habitação, Urbanismo e Construção, atento o disposto nos números e artigos seguintes.
 
@@ -257,7 +262,7 @@ O serviço municipal de habitação ou a respectiva federação podem conceder a
 
 4. Serão organizados concursos separados, consoante a respectiva modalidade, o regime legal de aquisição, utilização e disposição dos fogos e, no caso dos concursos de classificação, consoante os escalões de rendimentos.
 
-###### ARTIGO 9.º — (Excepções ao regime de atribuição)
+###### Artigo 9.º — (Excepções ao regime de atribuição)
 
 1. Sempre que tal se justifique em virtude das razões a seguir indicadas, os organismos dependentes do Ministério da Habitação, Urbanismo e Construção e as câmaras municipais poderão, relativamente aos fogos da sua propriedade e mediante acto administrativo devidamente fundamentado, excluir tais fogos do regime de atribuição estabelecido por força do artigo anterior, definindo as regras especiais a aplicar nesses casos:
 
@@ -269,7 +274,7 @@ c) Necessidade de proporcionar habitação a pessoas cuja fixação na região s
 
 2. Os actos administrativos mencionados no número anterior carecem de aprovação do Ministro da Habitação, Urbanismo e Construção.
 
-###### ARTIGO 10.º — (Disponibilidade de fogos para atribuição)
+###### Artigo 10.º — (Disponibilidade de fogos para atribuição)
 
 1. Para efeitos de atribuição de fogos, mediante concurso, por sorteio dos fogos de renda limitada, os proprietários ou administradores interessados indicarão ao serviço municipal de habitação a existência dos fogos disponíveis e os seus elementos identificadores necessários para a realização do concurso.
 
@@ -277,15 +282,15 @@ c) Necessidade de proporcionar habitação a pessoas cuja fixação na região s
 
 3. Sob pena de responsabilidade disciplinar, os responsáveis pelos serviços ou os titulares dos órgãos das entidades referidas no n.º 1 do artigo 3.º, em relação aos fogos referidos no n.º 2 do mesmo artigo, comunicarão, com cento e vinte dias de antecedência, aos serviços municipais de habitação, a data em que prevêem fiquem concluídos os fogos que construam e devam ser objecto de distribuição pelos serviços.
 
-###### ARTIGO 11.º — (Fogos das instituições de previdência)
+###### Artigo 11.º — (Fogos das instituições de previdência)
 
 A atribuição dos fogos cuja construção ou aquisição tenha sido promovida pelas instituições de previdência far-se-á independentemente de os concorrentes serem beneficiários ou sócios de tais instituições.
 
-###### ARTIGO 12.º — (Instalação dos serviços municipais de habitação)
+###### Artigo 12.º — (Instalação dos serviços municipais de habitação)
 
 O necessário apoio técnico aos municípios, para a constituição e funcionamento dos respectivos serviços municipais de habitação ou suas federações, será dado pelos serviços da Administração Central ou equipas eventuais que forem designadas ou mandadas constituir pelo Ministro da Habitação, Urbanismo e Construção.
 
-###### ARTIGO 13.º — (Regularização de situações anteriores)
+###### Artigo 13.º — (Regularização de situações anteriores)
 
 1. A obrigatoriedade de a atribuição do direito ao arrendamento ou propriedade dos fogos referidos no n.º 2 do artigo 3.º se fazer segundo as regras contidas neste diploma e na sua regulamentação não abrange os processos iniciados ao abrigo da legislação anterior e que ainda se encontram pendentes, entendendo-se como tais aqueles em que ainda não tenham transitado em julgado o acto administrativo da atribuição.
 
@@ -295,11 +300,11 @@ O necessário apoio técnico aos municípios, para a constituição e funcioname
 
 4. A redução do contrato implicará, conforme os casos, o reajustamento da primeira renda vincenda a pagar e das seguintes, ou o reajustamento das prestações vincendas aos limites respectivos, considerando-se os vícios do contrato sanados quanto às rendas, prestações ou preço já pagos.
 
-###### ARTIGO 14.º — (Disposição transitória)
+###### Artigo 14.º — (Disposição transitória)
 
 Este diploma só se aplica às casas que são património das instituições de previdência situadas na área de cada serviço municipal de habitação a partir da data da publicação de portaria conjunta dos Ministros interessados.
 
-###### ARTIGO 15.º — (Revogação e substituição)
+###### Artigo 15.º — (Revogação e substituição)
 
 1. Fica revogado o artigo 26.º do [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), de 30 de Dezembro, sem prejuízo de, até à publicação do decreto a que se refere o n.º 1 do artigo 8.º do presente decreto-lei, se manterem em vigor as portarias publicadas em sua execução.
 

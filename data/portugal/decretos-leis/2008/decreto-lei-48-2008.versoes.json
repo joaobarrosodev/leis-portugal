@@ -1,0 +1,84 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:247029:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-03-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "315e08760216a34b",
+    "7545bd2736b7c65e",
+    "012fcef07d536aef"
+   ]
+  },
+  {
+   "date": "2010-03-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:601678:por",
+     "title": "Decreto-Lei n.º 31/2009",
+     "published": "2009-02-04",
+     "dre_path": "/dr/detalhe/decreto-lei/31-2009-601678"
+    },
+    {
+     "id": "pt:dre:612642:por",
+     "title": "Decreto-Lei n.º 25/2010",
+     "published": "2010-03-29",
+     "dre_path": "/dr/detalhe/decreto-lei/25-2010-612642"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "315e08760216a34b",
+    "5bbb3b8020b9c729",
+    "012fcef07d536aef"
+   ]
+  }
+ ],
+ "fragments": {
+  "315e08760216a34b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Março\n\nA política de saúde do Governo, cuja finalidade é a obtenção de mais ganhos em saúde para os portugueses, continuará, em 2008, a centrar-se na reforma dos cuidados de saúde primários, na implementação da Rede Nacional de Cuidados Continuados Integrados e na requalificação de serviços das instituições do Serviço Nacional de Saúde (SNS).\n\nEstas três áreas de actuação do Governo mereceram atenção prioritária no Orçamento do Estado para 2008 e os projectos que se inserem em qualquer delas têm de ser objecto de um tratamento célere que não se compadece com dilações injustificadas.\n\nRelativamente aos cuidados de saúde primários, pilar fundamental do SNS, a sua reforma prosseguirá com a criação de novas unidades de saúde familiares (USF) e com a reestruturação organizacional dos centros de saúde.\n\nAo nível dos cuidados continuados integrados destinados a pessoas idosas e em situação de dependência e na área de cuidados paliativos, terminado o período de experiências-piloto, que decorreu entre Novembro de 2006 e Junho de 2007, o Governo quer expandir esta rede em 2008 de acordo com critérios de necessidade, de equidade territorial e de garantia de qualidade, em parceria com o sector social e privado, sem prejuízo do investimento a fazer na rede do SNS.\n\nEm simultâneo, o Governo mantém-se empenhado na requalificação dos serviços de urgência, prosseguindo a aposta na qualidade, numa gestão eficaz e rigorosa dos recursos humanos e dos equipamentos de saúde, assegurando a sua modernização e o reforço da equidade em saúde.\n\nTodas estas iniciativas ocorrerão numa envolvente de desenvolvimento e execução de projectos de melhoria da qualidade, modernização de instalações e de apetrechamento tecnológico.\n\nNeste contexto, considerando a transversalidade e dimensão de todos estes projectos e a multiplicidade de organismos envolvidos, torna-se conveniente adoptar, durante o ano de 2008, um regime de contratação de empreitadas de obras públicas e de aquisição ou locação de bens e serviços que combine a celeridade procedimental exigida pela concretização dos referidos projectos com a defesa dos interesses do Estado e a rigorosa transparência nos gastos públicos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "7545bd2736b7c65e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Regime excepcional e transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Regime excepcional e transitório\n\nA contratação de empreitadas de obras públicas e aquisição ou locação de bens ou serviços, sob qualquer regime, cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior aos limiares previstos para aplicação das directivas comunitárias sobre contratação pública podem realizar-se, até 31 de Dezembro de 2008, com recurso aos procedimentos por negociação, consulta prévia ou ajuste directo, quando efectuadas:\n\na) Pelas administrações regionais de saúde, I. P., e visem a instalação das unidades de saúde familiar ou outros projectos que se insiram no processo de instalação ou de requalificação dos cuidados de saúde primários, dos serviços de urgência básica e dos serviços de saúde que se integrem na Rede Nacional de Cuidados Continuados Integrados;\n\nb) Pelos hospitais do Serviço Nacional de Saúde e visem a requalificação dos serviços de urgência básica, médico-cirúrgica e polivalente;\n\nc) Pelo Instituto Nacional de Emergência Médica, I. P., e visem o reforço dos meios de socorro pré-hospitalar."
+  },
+  "012fcef07d536aef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos desde 1 de Janeiro de 2008.\n\nVisto e aprovado em Conselho de Ministros de 17 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.\n\nPromulgado em 28 de Fevereiro de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 3 de Março de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "5bbb3b8020b9c729": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Regime excepcional e transitório",
+   "in_force_from": "2010-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2009-601678), publicado em 2009-02-04.",
+    "Alterado pelo/a [Decreto-Lei n.º 25/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2010-612642), publicado em 2010-03-29."
+   ],
+   "markdown": "###### Artigo 1.º — Regime excepcional e transitório\n\nA contratação de empreitadas de obras públicas e aquisição ou locação de bens ou serviços, sob qualquer regime, cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior aos limiares previstos para aplicação das directivas comunitárias sobre contratação pública podem realizar-se, até 31 de Dezembro de 2008, com recurso aos procedimentos por negociação, consulta prévia ou ajuste directo, quando efectuadas:\n\na) Pelas administrações regionais de saúde, I. P., e visem a instalação das unidades de saúde familiar ou outros projectos que se insiram no processo de instalação ou de requalificação dos cuidados de saúde primários e dos serviços de saúde que se integrem na Rede Nacional de Cuidados Continuados Integrados;\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) Pelas entidades constantes do n.º 2 do artigo 2.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro, quando as mesmas se encontrem em regime de colaboração com a Rede Nacional de Cuidados Continuados Integrados e os seus financiamentos sejam executados em regime de comparticipação com a referida Rede.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2009-601678), publicado em 2009-02-04.\n\n> Alterado pelo/a [Decreto-Lei n.º 25/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2010-612642), publicado em 2010-03-29."
+  }
+ }
+}

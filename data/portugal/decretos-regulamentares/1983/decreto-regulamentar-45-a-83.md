@@ -28,10 +28,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-06-20'
+version_history:
+  file: decreto-regulamentar-45-a-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-06-20'
+    amending: pt:dre:386655:por
+    amending_title: Decreto Regulamentar n.º 44/84
+    changes:
+    - Adita Artigo 14.º-A
+    - Adita Artigo 14.º-B
+    - Adita Artigo 16.º-A
+    - Adita Artigo 16.º-B
 identifiers:
   celex: null
   eli: null
@@ -57,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:07:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 44/84. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1983/decreto-regulamentar-45-a-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,7 +159,9 @@ No desenvolvimento do regime contido no [Decreto-Lei n.º 304/82](https://diario
 
 ### CAPÍTULO I — Natureza e atribuições
 
-Artigo 1.º A Direcção-Geral da Família é o serviço operativo da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família incumbido de desenvolver as acções necessárias à implementação e execução da política familiar nos seguintes domínios:
+###### Artigo 1.º
+
+A Direcção-Geral da Família é o serviço operativo da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família incumbido de desenvolver as acções necessárias à implementação e execução da política familiar nos seguintes domínios:
 
 a) Estudos e publicações;
 
@@ -149,7 +169,9 @@ b) Formação familiar;
 
 c) Acção e promoção familiar.
 
-Art. 2.º Compete à Direcção-Geral da Família:
+###### Artigo 2.º
+
+Compete à Direcção-Geral da Família:
 
 a) Estudar e pôr em execução programas integrados e projectos específicos conducentes à promoção da família e à melhoria do seu quadro de vida;
 
@@ -165,9 +187,13 @@ f) Assegurar a gestão administrativa, orçamental e patrimonial dos órgãos e 
 
 ### CAPÍTULO II — Órgãos e serviços
 
-Art. 3.º O director-geral é o órgão que gere a Direcção-Geral da Família e será coadjuvado por um subdirector-geral, que o substituirá nas suas ausências ou impedimentos.
+###### Artigo 3.º
 
-Art. 4.º Para o exercício das suas funções, a Direcção-Geral da Família dispõe dos seguintes serviços:
+O director-geral é o órgão que gere a Direcção-Geral da Família e será coadjuvado por um subdirector-geral, que o substituirá nas suas ausências ou impedimentos.
+
+###### Artigo 4.º
+
+Para o exercício das suas funções, a Direcção-Geral da Família dispõe dos seguintes serviços:
 
 a) Direcção de Serviços de Estudos e Publicações;
 
@@ -177,7 +203,9 @@ c) Direcção de Serviços de Acção e Promoção Familiar;
 
 d) Repartição Administrativa.
 
-Art. 5.º - 1 - À Direcção de Serviços de Estudos e Publicações cabe proceder aos estudos técnicos necessários à definição e execução da política familiar e à divulgação da informação na área da família.
+###### Artigo 5.º
+
+1 - À Direcção de Serviços de Estudos e Publicações cabe proceder aos estudos técnicos necessários à definição e execução da política familiar e à divulgação da informação na área da família.
 
 2 - Compete à Direcção de Serviços de Estudos e Publicações:
 
@@ -199,7 +227,9 @@ h) Proceder à edição das publicações do sector;
 
 i) Apoiar a publicação de obras sobre a família.
 
-Art. 6.º - 1 - A Direcção de Serviços de Formação Familiar é o serviço incumbido de promover a preparação das famílias para o exercício das funções que lhes são próprias, bem como de proporcionar uma formação técnica especializada na área da família.
+###### Artigo 6.º
+
+1 - A Direcção de Serviços de Formação Familiar é o serviço incumbido de promover a preparação das famílias para o exercício das funções que lhes são próprias, bem como de proporcionar uma formação técnica especializada na área da família.
 
 2 - Compete à Direcção de Serviços de Formação Familiar:
 
@@ -209,7 +239,9 @@ b) Promover e apoiar a formação de técnicos especializados na área da famíl
 
 c) Desenvolver e apoiar programas que contribuam para o conhecimento e solução dos problemas específicos que afectam as famílias.
 
-Art. 7.º - 1 - A Direcção de Serviços de Acção e Promoção Familiar tem por objectivo geral promover e apoiar a implementação da política familiar a nível local de uma forma ajustada às características das populações.
+###### Artigo 7.º
+
+1 - A Direcção de Serviços de Acção e Promoção Familiar tem por objectivo geral promover e apoiar a implementação da política familiar a nível local de uma forma ajustada às características das populações.
 
 2 - Compete à Direcção de Serviços de Acção e Promoção Familiar:
 
@@ -221,7 +253,9 @@ c) Fomentar a participação das famílias na vida das comunidades e na gestão 
 
 d) Promover a actuação de voluntários em programas de promoção da família.
 
-Art. 8.º - 1 - A Repartição Administrativa assegura a gestão administrativa, orçamental e patrimonial e o apoio logístico aos órgãos e serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família.
+###### Artigo 8.º
+
+1 - A Repartição Administrativa assegura a gestão administrativa, orçamental e patrimonial e o apoio logístico aos órgãos e serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família.
 
 2 - À Repartição Administrativa incumbe:
 
@@ -241,15 +275,23 @@ g) Superintender no pessoal operário e auxiliar.
 
 ### CAPÍTULO III — Funcionamento dos serviços
 
-Art. 9.º O Ministro dos Assuntos Sociais exercerá por si ou mediante delegação a superintendência dos serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família, promovendo reuniões periódicas com os dirigentes dos serviços nele integrados para assegurar a eficiência do sistema e avaliar da prossecução dos seus objectivos.
+###### Artigo 9.º
+
+O Ministro dos Assuntos Sociais exercerá por si ou mediante delegação a superintendência dos serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família, promovendo reuniões periódicas com os dirigentes dos serviços nele integrados para assegurar a eficiência do sistema e avaliar da prossecução dos seus objectivos.
 
 ### CAPÍTULO IV — Do pessoal
 
-Art. 10.º O quadro do pessoal da Direcção-Geral da Família é o que consta dos mapas A e B anexos a este diploma.
+###### Artigo 10.º
 
-Art. 11.º O provimento dos lugares do pessoal dirigente, a que se refere o mapa A, far-se-á nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+O quadro do pessoal da Direcção-Geral da Família é o que consta dos mapas A e B anexos a este diploma.
 
-Art. 12.º - 1 - O provimento do pessoal, a que se refere o mapa B anexo ao presente diploma, será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
+###### Artigo 11.º
+
+O provimento dos lugares do pessoal dirigente, a que se refere o mapa A, far-se-á nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.
+
+###### Artigo 12.º
+
+1 - O provimento do pessoal, a que se refere o mapa B anexo ao presente diploma, será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.
 
 2 - Findo o prazo referido no número anterior, o funcionário:
 
@@ -263,23 +305,63 @@ a) No lugar de origem, quando à comissão se não seguir provimento definitivo;
 
 b) No lugar do quadro da Direcção-Geral da Família em que vier a ser provido definitivamente, finda a comissão.
 
-Art. 13.º Poderá ser contratado além do quadro o pessoal indispensável à realização de tarefas que não possam ser asseguradas pelo pessoal do quadro, nos termos da lei vigente.
+###### Artigo 13.º
 
-Art. 14.º Para o exercício transitório de funções que não possam ser asseguradas pelo pessoal do quadro poderá ser requisitado ou destacado pessoal, nos termos previstos nos n.os 1 e 2 do artigo 10.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio.
+Poderá ser contratado além do quadro o pessoal indispensável à realização de tarefas que não possam ser asseguradas pelo pessoal do quadro, nos termos da lei vigente.
 
-Art. 15.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com o mínimo de 3 anos de bom e efectivo serviço na categoria.
+###### Artigo 14.º
+
+Para o exercício transitório de funções que não possam ser asseguradas pelo pessoal do quadro poderá ser requisitado ou destacado pessoal, nos termos previstos nos n.os 1 e 2 do artigo 10.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio.
+
+###### Artigo 14.º-A
+
+1 - O lugar de chefe de repartição será provido de entre chefes de secção com 3 anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com curso superior e experiência profissional adequada.
+
+2 - O lugar de chefe de secção será provido de entre indivíduos habilitados com o curso superior e experiência profissional adequada ao exercício das correspondentes funções ou de entre primeiros-oficiais e técnicos auxiliares principais com 3 anos de bom e efectivo serviço nas respectivas categorias.
+
+> Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15.
+
+###### Artigo 14.º-B
+
+Os lugares de técnico superior, técnico, oficial administrativo, escriturário-dactilógrafo, telefonista, contínuo e motorista serão providos nos termos da lei geral.
+
+> Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15.
+
+###### Artigo 15.º
+
+1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com o mínimo de 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico auxiliar de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.
 
-Art. 16.º Aos lugares de educador de infância é aplicável o regime estabelecido pelo [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, e legislação complementar.
+###### Artigo 16.º
 
-Art. 17.º - 1 - Os lugares de técnico auxiliar de serviço social principal e de técnico auxiliar de serviço social de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de serviço social de 1.ª classe e técnicos auxiliares de serviço social de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
+Aos lugares de educador de infância é aplicável o regime estabelecido pelo [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, e legislação complementar.
+
+###### Artigo 16.º-A
+
+Ao lugar de técnico de enfermagem é aplicável o regime estabelecido pelo [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro, e legislação complementar.
+
+> Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15.
+
+###### Artigo 16.º-B
+
+1 - Os lugares de técnico de serviço social principal e de técnico de serviço social de 1.ª classe, serão providos de entre, respectivamente, técnicos de serviço social de 1.ª classe e técnicos de serviço social de 2.ª classe com o mínimo de 3 anos de bom e efectivo serviço na categoria e habilitados com o curso superior de Serviço Social.
+
+2 - Os lugares de técnico de serviço social de 2.ª classe serão providos de entre indivíduos habilitados com o curso superior de Serviço Social.
+
+> Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15.
+
+###### Artigo 17.º
+
+1 - Os lugares de técnico auxiliar de serviço social principal e de técnico auxiliar de serviço social de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de serviço social de 1.ª classe e técnicos auxiliares de serviço social de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.
 
 2 - Os lugares de técnico auxiliar de serviço social de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral dos liceus ou equivalente e formação técnico-profissional complementar de serviço social com a duração de 2 anos.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-Art. 18.º - 1 - O pessoal que se encontra destacado no Gabinete do Secretário de Estado da Família nos termos dos artigos 8.º e 9.º do [Decreto-Lei n.º 267/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1977-250416), de 2 de Julho, transitará para os lugares do quadro B anexo a este diploma, com observância do disposto na alínea b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, sem prejuízo das habilitações legais exigíveis, de acordo com as seguintes regras:
+###### Artigo 18.º
+
+1 - O pessoal que se encontra destacado no Gabinete do Secretário de Estado da Família nos termos dos artigos 8.º e 9.º do [Decreto-Lei n.º 267/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1977-250416), de 2 de Julho, transitará para os lugares do quadro B anexo a este diploma, com observância do disposto na alínea b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, sem prejuízo das habilitações legais exigíveis, de acordo com as seguintes regras:
 
 a) Para categoria idêntica à que o funcionário já possui;
 
@@ -289,9 +371,13 @@ b) Para categoria que integra a função que o funcionário ou agente desempenha
 
 3 - As nomeações feitas nos termos do n.º 1 terão carácter definitivo desde que o funcionário tenha provimento definitivo no lugar de origem e exerça funções da mesma natureza.
 
-Art. 19.º As despesas com o pessoal serão, até ao final do ano corrente, satisfeitas pelas verbas existentes no orçamento privativo da Secretaria de Estado da Família.
+###### Artigo 19.º
 
-Art. 20.º As dúvidas suscitadas pela aplicação deste diploma serão esclarecidas por despacho do Ministro dos Assuntos Sociais e do Ministro das Finanças e do Plano ou da Reforma Administrativa, quando respeitantes a problemas de ordem financeira ou de organização de serviços e de pessoal, respectivamente.
+As despesas com o pessoal serão, até ao final do ano corrente, satisfeitas pelas verbas existentes no orçamento privativo da Secretaria de Estado da Família.
+
+###### Artigo 20.º
+
+As dúvidas suscitadas pela aplicação deste diploma serão esclarecidas por despacho do Ministro dos Assuntos Sociais e do Ministro das Finanças e do Plano ou da Reforma Administrativa, quando respeitantes a problemas de ordem financeira ou de organização de serviços e de pessoal, respectivamente.
 
 Francisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa - António José de Castro Bagão Félix - António Jorge de Figueiredo Lopes.
 

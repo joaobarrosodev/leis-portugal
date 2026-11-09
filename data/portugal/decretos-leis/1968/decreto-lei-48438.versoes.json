@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:272274:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1968-06-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2b7cb019538e6c8f"
+   ]
+  },
+  {
+   "date": "1968-11-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:263912:por",
+     "title": "Decreto-Lei n.º 48651",
+     "published": "1968-11-02",
+     "dre_path": "/dr/detalhe/decreto-lei/48651-1968-263912"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "d931ef5964eca865",
+    "17ee1dae8eb6a208",
+    "90a8467957b2c386",
+    "6a62eae7661c2e1a",
+    "d81776bd92dbba2c",
+    "6cd8be1aa2c7f024",
+    "8597e9fc7f17ef47",
+    "498f50e141da2b24"
+   ]
+  }
+ ],
+ "fragments": {
+  "2b7cb019538e6c8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "De harmonia com o previsto no III Plano de Fomento, torna-se necessário acelerar o ritmo de construção das infra-estruturas do metropolitano de Lisboa, prosseguindo-se a instalação da 1.ª fase da sua rede.\n\nCom o objectivo de dotar a empresa concessionária dos meios financeiros indispensáveis à realização deste empreendimento, o Governo, pelo presente diploma, autoriza a Câmara Municipal de Lisboa a contrair um empréstimo externo que lhe permita a obtenção dos fundos para tanto necessários, sem prejuízo de ele poder ser substituído, mediante amortização antecipada, pelo recurso ao mercado nacional de capitais.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Fica a Câmara Municipal de Lisboa autorizada a contrair um empréstimo externo, em dólares dos Estados Unidos da América, até ao montante equivalente a 320000 contos, e a celebrar os contratos que forem necessários para a realização desta operação.\n\nArt. 2.º Serão fixadas por despacho do Ministro das Finanças, sob proposta da Câmara Municipal de Lisboa, as condições do empréstimo a que se refere o presente diploma.\n\nArt. 3.º A Câmara Municipal de Lisboa fica autorizada a transferir o produto do empréstimo para o Metropolitano de Lisboa, S. A. R. L., em condições compatíveis com a economia do empreendimento e, bem assim, a aprovar os orçamentos suplementares que pela realização do empréstimo e do financiamento se mostrarem necessários, além dos referidos no § 1.º do artigo 680.º do Código Administrativo.\n\nArt. 4.º Desde já se permite a aquisição e transferência dos dólares correspondentes ao serviço deste empréstimo.\n\nArt. 5.º As operações financeiras previstas neste diploma gozam de isenção total de impostos.\n\nArt. 6.º Para ocorrer à amortização antecipada deste empréstimo poderá o Ministro das Finanças autorizar a Câmara Municipal de Lisboa a emitir obrigações no mercado interno, nas condições e com as isenções fiscais que forem julgadas convenientes.\n\nArt. 7.º Este diploma entra imediatamente em vigor.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 18 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  },
+  "d931ef5964eca865": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "De harmonia com o previsto no III Plano de Fomento, torna-se necessário acelerar o ritmo de construção das infra-estruturas do metropolitano de Lisboa, prosseguindo-se a instalação da 1.ª fase da sua rede.\n\nCom o objectivo de dotar a empresa concessionária dos meios financeiros indispensáveis à realização deste empreendimento, o Governo, pelo presente diploma, autoriza a Câmara Municipal de Lisboa a contrair um empréstimo externo que lhe permita a obtenção dos fundos para tanto necessários, sem prejuízo de ele poder ser substituído, mediante amortização antecipada, pelo recurso ao mercado nacional de capitais.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "17ee1dae8eb6a208": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1968-11-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 48651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48651-1968-263912), publicado em 1968-11-02."
+   ],
+   "markdown": "###### Artigo 1.º\n\nFica a Câmara Municipal de Lisboa autorizada a contrair um empréstimo externo, de montante não superior a 320000 contos, e a celebrar os contratos que forem necessários para a realização desta operação.\n\n> Alterado pelo/a [Decreto-Lei n.º 48651](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48651-1968-263912), publicado em 1968-11-02."
+  },
+  "90a8467957b2c386": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSerão fixadas por despacho do Ministro das Finanças, sob proposta da Câmara Municipal de Lisboa, as condições do empréstimo a que se refere o presente diploma."
+  },
+  "6a62eae7661c2e1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Câmara Municipal de Lisboa fica autorizada a transferir o produto do empréstimo para o Metropolitano de Lisboa, S. A. R. L., em condições compatíveis com a economia do empreendimento e, bem assim, a aprovar os orçamentos suplementares que pela realização do empréstimo e do financiamento se mostrarem necessários, além dos referidos no § 1.º do artigo 680.º do Código Administrativo."
+  },
+  "d81776bd92dbba2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nDesde já se permite a aquisição e transferência dos dólares correspondentes ao serviço deste empréstimo."
+  },
+  "6cd8be1aa2c7f024": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs operações financeiras previstas neste diploma gozam de isenção total de impostos."
+  },
+  "8597e9fc7f17ef47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nPara ocorrer à amortização antecipada deste empréstimo poderá o Ministro das Finanças autorizar a Câmara Municipal de Lisboa a emitir obrigações no mercado interno, nas condições e com as isenções fiscais que forem julgadas convenientes."
+  },
+  "498f50e141da2b24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nEste diploma entra imediatamente em vigor.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 18 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  }
+ }
+}

@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-03-24'
+version_history:
+  file: decreto-lei-9-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-01-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-03-24'
+    amending: pt:dre:662275:por
+    amending_title: Decreto-Lei n.º 135/87
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:10:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 135/87. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-9-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,13 +172,17 @@ Verifica-se, deste modo, uma diversidade de regimes de isenções fiscais das in
 
 Assim, no uso da autorização conferida pelo artigo 26.º da [Lei n.º 42/83](https://diariodarepublica.pt/dr/detalhe/lei/42-1983-630643), de 31 de Outubro, que aprovou o Orçamento do Estado para 1984, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º As instituições particulares de solidariedade social, uma vez registadas nos termos dos artigos 7.º e 8.º do Estatuto aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, ficam isentas de:
+###### Artigo 1.º
+
+As instituições particulares de solidariedade social, uma vez registadas nos termos dos artigos 7.º e 8.º do Estatuto aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, ficam isentas de:
 
 a) Imposto do selo;
 
 b) Custas judiciais.
 
-Art. 2.º As instituições particulares de solidariedade social, uma vez registadas, ficam ainda isentas dos seguintes impostos, desde que se verifiquem os condicionalismos abaixo estabelecidos:
+###### Artigo 2.º
+
+As instituições particulares de solidariedade social, uma vez registadas, ficam ainda isentas dos seguintes impostos, desde que se verifiquem os condicionalismos abaixo estabelecidos:
 
 a) Sisa, pela aquisição de bens destinados à directa e imediata realização dos seus fins, nas condições estabelecidas pelo artigo 15.º do Código da Sisa e do Imposto sobre as Sucessões e Doações, com a redacção dada pelo artigo 2.º do [Decreto-Lei n.º 260-D/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-d-1981-158422), de 2 de Setembro;
 
@@ -189,13 +208,23 @@ l) Imposto sobre veículos, nas condições constantes do n.º 2 do artigo 5.º 
 
 m) Imposto de circulação, nas condições definidas pelo [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963.
 
-Art. 3.º Beneficiam igualmente da isenção do imposto sobre as sucessões e doações, nos termos do artigo 15.º do respectivo Código, os actos de instituição de fundações, uma vez reconhecidas como fundações de solidariedade social.
+n) Imposto complementar, secção B, nas condições estabelecidas pelo § único do artigo 85.º do CIC.
 
-Art. 4.º - 1 - As associações de socorros, mútuos e as instituições particulares de solidariedade social anteriormente qualificadas como pessoas colectivas de utilidade pública administrativa que não tiverem ainda procedido à reforma, e registo dos respectivos estatutos, de harmonia com a legislação em vigor, beneficiam das isenções previstas no presente diploma, salvo se já tiverem decorrido os prazos legais para a reforma e registo dos estatutos.
+> Alterado pelo/a [Decreto-Lei n.º 135/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-1987-662275), publicado em 1987-03-19.
+
+###### Artigo 3.º
+
+Beneficiam igualmente da isenção do imposto sobre as sucessões e doações, nos termos do artigo 15.º do respectivo Código, os actos de instituição de fundações, uma vez reconhecidas como fundações de solidariedade social.
+
+###### Artigo 4.º
+
+1 - As associações de socorros, mútuos e as instituições particulares de solidariedade social anteriormente qualificadas como pessoas colectivas de utilidade pública administrativa que não tiverem ainda procedido à reforma, e registo dos respectivos estatutos, de harmonia com a legislação em vigor, beneficiam das isenções previstas no presente diploma, salvo se já tiverem decorrido os prazos legais para a reforma e registo dos estatutos.
 
 2 - Competirá aos serviços competentes do ministério da tutela das instituições emitir as declarações ou certificados comprovativos da situação jurídica das instituições para os efeitos do número anterior.
 
-Art. 5.º - 1 - É revogado o artigo 97.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro.
+###### Artigo 5.º
+
+1 - É revogado o artigo 97.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro.
 
 2 - É igualmente revogado o artigo 17.º do [Decreto-Lei n.º 347/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1981-567059), de 22 de Dezembro, na parte relativa às associações de socorros mútuos.
 

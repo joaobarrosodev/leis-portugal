@@ -1,0 +1,164 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:422009:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1973-05-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5caca3d58e1e743e"
+   ]
+  },
+  {
+   "date": "1976-04-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:502820:por",
+     "title": "Decreto n.º 237/76",
+     "published": "1976-04-06",
+     "dre_path": "/dr/detalhe/decreto/237-1976-502820"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "a37ba34c7e804fa5",
+    "7ab58be57da0c100",
+    "8817fa18d17c8741",
+    "7a507ef2b3bbc288",
+    "924bfb03069175da",
+    "45d675eaf876704a",
+    "ada32ad719d759b2",
+    "268d9caee3e72a20",
+    "398a1cef2f15bbeb",
+    "0a6d0ad538f401d1",
+    "87f65eabb9236b83",
+    "79f33a89642af4a2",
+    "b20262c243147d24"
+   ]
+  }
+ ],
+ "fragments": {
+  "5caca3d58e1e743e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Maio\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nREGULAMENTO DO INSTITUTO DE FORMAÇÃO PROFISSIONAL DO MINISTÉRIO DA JUSTIÇA\n\nArtigo 1.º O Instituto de Formação Profissional tem por objectivo assegurar a preparação e aperfeiçoamento profissional do funcionalismo do Ministério da Justiça.\n\nArt. 2.º Para o exercício das suas atribuições compete ao Instituto promover e organizar as actividades seguintes:\n\na) Testes e outras provas selectivas;\n\nb) Cursos destinados a substituir concursos de prestação de provas exigidos por lei;\n\nc) Cursos de preparação ou de aperfeiçoamento exigidos por lei ou por determinação do Ministro da Justiça;\n\nd) Estágios e visitas de estudo, no País ou no estrangeiro, bem como seminários, conferências, reuniões de estudo e, em geral, quaisquer trabalhos que visem melhorar a formação profissional do funcionalismo do Ministério da Justiça;\n\ne) Publicação e difusão de estudos e trabalhos sobre matérias versadas no Instituto.\n\nArt. 3.º Q Instituto poderá ainda colaborar, em ligação com a Secretaria-Geral da Presidência do Conselho e outros departamentos, em acções de formação e aperfeiçoamento profissional.\n\nArt. 4.º - 1. A orientação técnica e administrativa do Instituto incumbe ao seu director.\n\n2. Poderá, contudo, o director solicitar que, relativamente à organização dos cursos, se pronunciem os superiores hierárquicos dos funcionários a que os cursos se destinam.\n\nArt. 5.º Os dirigentes dos serviços designarão, com a antecedência necessária, os funcionários que devem ser admitidos a cada um dos cursos ministrados no Instituto.\n\nArt. 6.º Durante a frequência dos cursos, os alunos podem ser dispensados de todo ou de parte do serviço a que estão adstritos.\n\nArt. 7.º - 1. Serão excluídos da frequência dos cursos os alunos que se mostrem pouco assíduos ou que revelem não possuir a necessária capacidade para o exercício das respectivas funções.\n\n2. Os funcionários excluídos, nomeados provisoriamente ou em regime de estágio, serão exonerados dos respectivos cargos e os funcionários com provimento definitivo não poderão obter a classificação de serviço de Bom durante os três anos subsequentes.\n\n3. Consideram-se como dadas ao serviço as faltas não justificadas dos alunos que sejam funcionários.\n\nArt. 8.º Sem prejuízo do que estabelece o artigo anterior, nos cursos realizados ao abrigo do disposto na alínea b) do artigo 2.º o grau de aproveitamento dos alunos equivale, para todos os efeitos, ao resultado dos concursos de prestação de provas.\n\nArt. 9.º - 1. O aproveitamento dos alunos não depende obrigatoriamente da realização de provas de exame.\n\n2. Será expresso pelas classificações de Muito bom, Bom com distinção, Bom, Suficiente e Excluído o aproveitamento final.\n\nArt. 10.º Além dos casos expressamente previstos na lei, o provimento provisório ou em regime de estágio, o provimento definitivo e a promoção podem ficar dependentes, mediante despacho do Ministro da Justiça, da frequência de curso adequado do Instituto com aproveitamento.\n\nArt. 11.º Os encargos com a organização de cursos destinados a substituir concursos de prestação de provas serão satisfeitos por força das datações que teriam de suportar as despesas com a realização destes.\n\nArt. 12.º - 1. Constituem encargo do Cofre Geral dos Tribunais as despesas de transporte e as ajudas de custo dos funcionários chamados a frequentar os cursos, salvo quando se trate de deslocações para frequência dos cursos exigidos por lei como condição de ingresso nos quadros ou de provimento definitivo.\n\n2. Será igualmente suportado pelo Cofre o encargo com o pagamento da diferença entre o quantitativo da gratificação, previsto na lei, e o quantitativo do vencimento do cargo de origem, a abonar ao director do Instituto, quando as respectivas funções não forem exercidas em regime de acumulação.\n\nMarcello Caetano - Mário Júlio Brito de Almeida Costa.\n\nPromulgado em 14 de Abril de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "a37ba34c7e804fa5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Maio\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nREGULAMENTO DO INSTITUTO DE FORMAÇÃO PROFISSIONAL DO MINISTÉRIO DA JUSTIÇA"
+  },
+  "7ab58be57da0c100": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Instituto de Formação Profissional tem por objectivo assegurar a preparação e aperfeiçoamento profissional do funcionalismo do Ministério da Justiça."
+  },
+  "8817fa18d17c8741": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara o exercício das suas atribuições compete ao Instituto promover e organizar as actividades seguintes:\n\na) Testes e outras provas selectivas;\n\nb) Cursos destinados a substituir concursos de prestação de provas exigidos por lei;\n\nc) Cursos de preparação ou de aperfeiçoamento exigidos por lei ou por determinação do Ministro da Justiça;\n\nd) Estágios e visitas de estudo, no País ou no estrangeiro, bem como seminários, conferências, reuniões de estudo e, em geral, quaisquer trabalhos que visem melhorar a formação profissional do funcionalismo do Ministério da Justiça;\n\ne) Publicação e difusão de estudos e trabalhos sobre matérias versadas no Instituto."
+  },
+  "7a507ef2b3bbc288": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nQ Instituto poderá ainda colaborar, em ligação com a Secretaria-Geral da Presidência do Conselho e outros departamentos, em acções de formação e aperfeiçoamento profissional."
+  },
+  "924bfb03069175da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A orientação técnica e administrativa do Instituto incumbe ao seu director.\n\n2. Poderá, contudo, o director solicitar que, relativamente à organização dos cursos, se pronunciem os superiores hierárquicos dos funcionários a que os cursos se destinam."
+  },
+  "45d675eaf876704a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs dirigentes dos serviços designarão, com a antecedência necessária, os funcionários que devem ser admitidos a cada um dos cursos ministrados no Instituto."
+  },
+  "ada32ad719d759b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nDurante a frequência dos cursos, os alunos podem ser dispensados de todo ou de parte do serviço a que estão adstritos."
+  },
+  "268d9caee3e72a20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Serão excluídos da frequência dos cursos os alunos que se mostrem pouco assíduos ou que revelem não possuir a necessária capacidade para o exercício das respectivas funções.\n\n2. Os funcionários excluídos, nomeados provisoriamente ou em regime de estágio, serão exonerados dos respectivos cargos e os funcionários com provimento definitivo não poderão obter a classificação de serviço de Bom durante os três anos subsequentes.\n\n3. Consideram-se como dadas ao serviço as faltas não justificadas dos alunos que sejam funcionários."
+  },
+  "398a1cef2f15bbeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSem prejuízo do que estabelece o artigo anterior, nos cursos realizados ao abrigo do disposto na alínea b) do artigo 2.º o grau de aproveitamento dos alunos equivale, para todos os efeitos, ao resultado dos concursos de prestação de provas."
+  },
+  "0a6d0ad538f401d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O aproveitamento dos alunos não depende obrigatoriamente da realização de provas de exame.\n\n2. Será expresso pelas classificações de Muito bom, Bom com distinção, Bom, Suficiente e Excluído o aproveitamento final."
+  },
+  "87f65eabb9236b83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAlém dos casos expressamente previstos na lei, o provimento provisório ou em regime de estágio, o provimento definitivo e a promoção podem ficar dependentes, mediante despacho do Ministro da Justiça, da frequência de curso adequado do Instituto com aproveitamento."
+  },
+  "79f33a89642af4a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs encargos com a organização de cursos destinados a substituir concursos de prestação de provas serão satisfeitos por força das datações que teriam de suportar as despesas com a realização destes."
+  },
+  "b20262c243147d24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1976-04-06",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 237/76](https://diariodarepublica.pt/dr/detalhe/decreto/237-1976-502820), publicado em 1976-04-06."
+   ],
+   "markdown": "###### Artigo 12.º\n\n1. Constituem encargo do Cofre Geral dos Tribunais as despesas de transporte e as ajudas de custo dos funcionários chamados a frequentar cursos do Instituto.\n\n2. Será igualmente suportado pelo Cofre o encargo com o pagamento da diferença entre o quantitativo da gratificação, previsto na lei, e o quantitativo do vencimento do cargo de origem, a abonar ao director do Instituto, quando as respectivas funções não forem exercidas em regime de acumulação.\n\n> Alterado pelo/a [Decreto n.º 237/76](https://diariodarepublica.pt/dr/detalhe/decreto/237-1976-502820), publicado em 1976-04-06.\n\nMarcello Caetano - Mário Júlio Brito de Almeida Costa.\n\nPromulgado em 14 de Abril de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

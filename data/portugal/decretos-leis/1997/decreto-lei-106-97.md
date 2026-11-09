@@ -38,10 +38,63 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-03-01'
+version_history:
+  file: decreto-lei-106-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-05-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-03-01'
+    amending: pt:dre:632398:por
+    amending_title: Decreto-Lei n.º 526/99; Decreto Regulamentar n.º 11/2007
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Adita Artigo 34.º-A
+    - Adita Artigo 34.º-B
+    - Adita Artigo 34.º-C
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 34.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/106/1997/05/02/p/dre/pt/html
@@ -67,7 +120,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:48:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 526/99; Decreto Regulamentar
+    n.º 11/2007. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-106-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,19 +208,17 @@ Nos termos do disposto no n.º 1 do artigo 16.º do [Decreto-Lei n.º 74/96](htt
 
 ###### Artigo 1.º — Natureza
 
-A Direcção-Geral de Veterinária (DGV) é o serviço central do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas (MADRP), dotado de autonomia administrativa, que detém a qualidade de autoridade sanitária veterinária nacional.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 2.º — Competências
 
-São competências da DGV:
+(Revogado.)
 
-a) Coordenar a execução das políticas de saúde e bem-estar animal e da saúde pública veterinária;
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 526/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1999-632398), publicado em 1999-12-10.
 
-b) Zelar pela segurança dos produtos de origem animal na cadeia alimentar, garantindo a coordenação e o funcionamento do Serviço de Inspecção Hígio-Sanitária e Controlos Veterinários desde a produção, incluindo a alimentação animal, no respeito da política nacional para o ambiente;
-
-c) Representar o País e assumir a responsabilidade de garante, perante os serviços congéneres de países comunitários ou terceiros, da credibilidade da certificação em matéria de trocas internacionais de animais, produtos frescos de origem animal, material genético animal, matérias-primas e alimentos destinados aos animais;
-
-d) Estabelecer convénios de cooperação técnica e científica com outros organismos do MADRP e de outros ministérios, nomeadamente instituições do ensino universitário e com entidades cooperativas ou privadas.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ### CAPÍTULO II — Órgãos e serviços e suas competências
 
@@ -174,203 +226,59 @@ d) Estabelecer convénios de cooperação técnica e científica com outros orga
 
 ###### Artigo 3.º — Órgãos
 
-São órgãos da DGV:
+(Revogado.)
 
-a) O director-geral;
-
-b) O conselho técnico;
-
-c) O conselho consultivo veterinário;
-
-d) O conselho administrativo;
-
-e) O Corpo Nacional de Inspecção Sanitária.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 4.º — Director-geral
 
-1 - A DGV é dirigida por um director-geral, coadjuvado por um subdirector-geral.
+(Revogado.)
 
-2 - O director-geral é substituído, nas suas ausências ou impedimentos, pelo subdirector-geral.
-
-3 - Ao director-geral compete:
-
-a) Assegurar a gestão e coordenação da actividade global da DGV;
-
-b) Presidir aos conselhos técnico, consultivo veterinário e administrativo;
-
-c) Assegurar o regular funcionamento da Comissão Técnica de Medicamentos para Uso Veterinário.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 5.º — Conselho técnico
 
-1 - O conselho técnico (CT) é um órgão de apoio ao director-geral em matérias de natureza técnica e científica.
+(Revogado.)
 
-2 - O CT é constituído pelos seguintes membros:
-
-a) O director-geral, que preside;
-
-b) O subdirector-geral;
-
-c) O director da instituição laboratorial de referência;
-
-d) Os directores de serviço da DGV;
-
-e) Os directores regionais de agricultura;
-
-f) Os directores de serviço de veterinária das direcções regionais de agricultura (DRA).
-
-3 - O presidente do CT será substituído, nas suas ausências e impedimentos, pelo subdirector-geral.
-
-4 - Sempre que se mostre conveniente, o director-geral poderá convocar ou convidar outros elementos especialmente qualificados para o esclarecimento das matérias em apreciação, os quais não terão direito a voto.
-
-5 - Compete ao CT:
-
-a) Colaborar na definição dos objectivos e linhas gerais de acção da DGV no âmbito dos planos estabelecidos pelo MADRP;
-
-b) Apreciar os planos, respectivos orçamentos e os relatórios de actividade;
-
-c) Pronunciar-se sobre as acções de natureza técnica e de investigação desenvolvidas ou a implementar pelos diferentes serviços;
-
-d) Propor medidas sobre a coordenação e articulação dos serviços;
-
-e) Pronunciar-se sobre quaisquer assuntos que lhe sejam submetidos pelo presidente.
-
-6 - O CT funciona em reuniões plenárias ou por secções especializadas, reunindo o plenário ordinariamente duas vezes por ano e extraordinariamente sempre que o presidente o convoque.
-
-7 - As normas de funcionamento do CT serão objecto de regulamento interno.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 6.º — Conselho consultivo veterinário
 
-1 - O conselho consultivo veterinário (CCV) é um órgão de apoio ao director-geral.
+(Revogado.)
 
-2 - O CCV é constituído pelos seguintes membros:
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 526/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1999-632398), publicado em 1999-12-10.
 
-O director-geral, que preside;
-
-a) O subdirector-geral;
-
-b) O director da instituição laboratorial de referência;
-
-c) Os directores de serviços da DGV;
-
-d) Os directores regionais de agricultura;
-
-e) Os directores de serviços de veterinária das DRA;
-
-f) Um representante por cada associação de produtores;
-
-g) Um representante por cada associação de industriais;
-
-h) Um representante por cada associação de comerciantes;
-
-i) Um representante por cada associação de consumidores;
-
-j) Um representante da Ordem dos Médicos Veterinários;
-
-l) Um representante do Sindicato Nacional dos Médicos Veterinários.
-
-3 - No CCV poderão ainda participar, quando convocadas ou convidadas, outras entidades ou personalidades especialmente qualificadas nas matérias em apreciação, as quais não terão direito a voto.
-
-4 - O CCV será secretariado por um funcionário, a designar pelo director-geral.
-
-5 - Compete ao CCV:
-
-a) Pronunciar-se sobre as linhas gerais de acção da DGV no âmbito de todas as questões relacionadas com a saúde animal e com a segurança e qualidade dos produtos frescos de origem animal, incluindo os da pesca e da aquicultura;
-
-b) Apreciar a aplicação de medidas definidas na sequência de planos nacionais;
-
-c) Colaborar na definição de medidas de âmbito nacional e internacional decorrentes de situações extraordinárias e ou de emergência motivadas por ocorrências sanitárias e de saúde pública veterinária.
-
-6 - O CCV funciona em reuniões plenárias ou secções especializadas, reunindo o plenário ordinariamente uma vez por ano e extraordinariamente sempre que o presidente o convoque.
-
-7 - As normas de funcionamento do CCV serão objecto de regulamento interno.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 7.º — Conselho administrativo
 
-1 - O conselho administrativo, adiante designado CA, é o órgão deliberativo em matéria de gestão financeira.
+(Revogado.)
 
-2 - O CA é constituído pelos seguintes membros:
-
-a) O director-geral, que preside;
-
-b) O subdirector-geral;
-
-c) O director de Serviços de Planeamento;
-
-d) O director de Serviços de Gestão e Administração.
-
-3 - Servirá de secretário o chefe da Divisão de Gestão Financeira e Controlo Orçamental.
-
-4 - Compete ao CA:
-
-a) Aprovar o orçamento da Direcção-Geral e propor eventuais alterações ao mesmo;
-
-b) Administrar as dotações inscritas no orçamento e autorizar a realização de despesas, nos termos legais;
-
-c) Zelar pela cobrança das receitas e promover o seu depósito nos prazos legais;
-
-d) Adjudicar e contratar estudos, obras, trabalhos, serviços, fornecimento de material, de equipamento e tudo o mais indispensável ao funcionamento dos serviços;
-
-e) Tomar conhecimento do inventário dos serviços e promover o abate do material considerado obsoleto;
-
-f) Prestar anualmente contas da sua gerência ao Tribunal de Contas.
-
-5 - Ao presidente compete, especialmente:
-
-a) Representar a Direcção-Geral em quaisquer actos ou contratos em que tenha de intervir;
-
-b) Submeter à apreciação e aprovação superior as propostas de ordem financeira que delas careçam, ouvido o CA;
-
-c) Submeter à apreciação do CA todos os assuntos que entenda convenientes e propor as medidas que julgue de interesse para o organismo;
-
-d) Convocar e dirigir as reuniões do CA.
-
-6 - O CA pode delegar no presidente a resolução dos assuntos da sua competência que entenda convenientes e os poderes consignados nas alíneas c) a e) do n.º 4, total ou parcialmente.
-
-7 - O CA estabelecerá as normas do seu funcionamento.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 #### SECÇÃO II — Dos serviços
 
 ###### Artigo 8.º — Serviços
 
-A DGV dispõe dos seguintes serviços:
+(Revogado.)
 
-1 - Serviços de apoio técnico e administrativo:
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 526/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1999-632398), publicado em 1999-12-10.
 
-a) Direcção de Serviços de Gestão e Administração;
-
-b) Direcção de Serviços de Planeamento;
-
-c) Gabinete de Garantia da Qualidade dos Serviços;
-
-d) Gabinete Jurídico.
-
-2 - Serviços operativos:
-
-a) Direcção de Serviços de Saúde Animal;
-
-b) Direcção de Serviços de Meios de Defesa da Saúde, Bem-Estar e Alimentação Animal;
-
-c) Direcção de Serviços de Higiene Pública Veterinária;
-
-d) Direcção de Serviços dos Controlos Veterinários;
-
-e) Corpo Nacional de Inspecção Sanitária.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ##### SUBSECÇÃO I — Serviços de apoio técnico e administrativo
 
 ###### Artigo 9.º — Direcção de Serviços de Gestão e Administração
 
-1 - À Direcção de Serviços de Gestão e Administração compete a gestão administrativa do pessoal e da administração financeira, patrimonial e geral, garantindo a aplicação das disposições legais relativas aos domínios da administração dos recursos humanos, financeiros e patrimoniais.
+(Revogado.)
 
-2 - A Direcção de Serviços de Gestão e Administração dispõe das seguintes unidades orgânicas:
-
-a) Divisão de Formação e Gestão de Recursos Humanos;
-
-b) Divisão de Gestão Financeira e Controlo Orçamental;
-
-c) Repartição de Administração Geral.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 10.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ##### Divisão de Formação e Gestão de Recursos Humanos
 
@@ -402,6 +310,10 @@ l) Instruir os processos relativos a prestações sociais dos funcionários da D
 
 ###### Artigo 11.º
 
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
+
 ##### Divisão de Gestão Financeira e Controlo Orçamental
 
 1 - À Divisão de Gestão Financeira e Controlo Orçamental compete:
@@ -426,63 +338,21 @@ h) Garantir o tratamento automático da informação de carácter financeiro.
 
 ###### Artigo 12.º — Repartição de Administração Geral
 
-1 - À Repartição de Administração Geral compete assegurar a execução das acções no âmbito da administração do património e instalações, aquisição de bens, arquivo e expediente geral.
+(Revogado.)
 
-2 - A Repartição de Administração Geral compreende as seguintes secções:
-
-a) Secção de Expediente e Arquivo;
-
-b) Secção de Aprovisionamento e Património;
-
-c) Secção de Assuntos Gerais.
-
-3 - À Secção de Expediente e Arquivo compete:
-
-a) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo do expediente, de acordo com as orientações dos órgãos competentes;
-
-b) Assegurar a permanente actualização do arquivo;
-
-c) Assegurar uma adequada circulação de documentos e normas pelos diversos serviços da DGV;
-
-d) Superintender ao núcleo de reprografia.
-
-4 - À Secção de Aprovisionamento e Património compete:
-
-a) Organizar e manter actualizado o inventário da DGV;
-
-b) Elaborar e executar os processos de aquisição de bens e serviços devidamente autorizados e instruídos nos termos da legislação em vigor;
-
-c) Gerir o aprovisionamento de stocks e promover a sua distribuição pelas diversas unidades orgânicas da DGV.
-
-5 - À Secção de Assuntos Gerais compete:
-
-a) Zelar pela conservação dos edifícios e outras instalações;
-
-b) Assegurar a gestão e manutenção do parque de viaturas, de acordo com as instruções dos órgãos competentes;
-
-c) Promover as acções necessárias à efectivação das construções, remodelações e reparações que se tornem necessárias;
-
-d) Assegurar a eficiência das redes de comunicações internas e externas dos serviços;
-
-e) Assegurar o funcionamento dos serviços de limpeza e segurança;
-
-f) Coordenar a actividade do pessoal auxiliar.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 13.º — Direcção de Serviços de Planeamento
 
-1 - À Direcção de Serviços de Planeamento compete a coordenação da programação das actividades da DGV, o seu acompanhamento e análise de execução, promoção, recolha e tratamento estatístico.
+(Revogado.)
 
-2 - A Direcção de Serviços de Planeamento assegura as ligações com outras unidades do MADRP, ou a ele estranhas, no âmbito das suas competências.
-
-3 - A Direcção de Serviços de Planeamento compreende as seguintes unidades orgânicas:
-
-a) Divisão de Programação, Estudos e Gestão;
-
-b) Divisão de Estatística e Processamento de Dados;
-
-c) Divisão de Formação, Informação e Documentação.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 14.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ##### Divisão de Programação, Estudos e Gestão
 
@@ -504,6 +374,10 @@ g) Assegurar a gestão integrada dos recursos financeiros, tendo em conta a sua 
 
 ###### Artigo 15.º
 
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
+
 ##### Divisão de Estatística e Processamento de Dados
 
 À Divisão de Estatística e Processamento de Dados compete:
@@ -519,6 +393,10 @@ d) Assegurar uma correcta gestão dos meios informáticos e o desenvolvimento de
 e) Promover uma adequada automatização dos serviços da Direcção-Geral.
 
 ###### Artigo 16.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ##### Divisão de Formação, Informação e Documentação
 
@@ -538,47 +416,29 @@ f) Organizar e gerir a biblioteca.
 
 ###### Artigo 17.º — Gabinete Jurídico
 
-Ao Gabinete Jurídico, dirigido por um chefe de divisão, compete:
+(Revogado.)
 
-a) Emitir pareceres, elaborar informações, assegurar o apoio técnico-jurídico aos serviços e proceder a estudos de natureza jurídica respeitantes à actividade da DGV;
-
-b) Colaborar na preparação e elaboração de projectos legislativos, de contratos ou quaisquer outros actos jurídicos que lhe sejam solicitados no âmbito de atribuições da DGV;
-
-c) Intervir na instrução de processos disciplinares, de averiguação, inquéritos e outros processos que lhe sejam determinados;
-
-d) Elaborar os processos de contra-ordenação relativos às actividades da DGV.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 18.º — Gabinete de Garantia da Qualidade dos Serviços
 
-Ao Gabinete de Garantia da Qualidade dos Serviços, dirigido por um técnico superior equiparado a director de serviços, compete:
+(Revogado.)
 
-a) Realizar acções que permitam avaliar a actividade prosseguida pelos diferentes serviços, quer do ponto de vista técnico, quer em termos de economia e eficiência;
-
-b) Efectuar acções de acompanhamento e formular propostas e recomendações relativas ao controlo de programas nacionais e comunitários;
-
-c) Colaborar com outras entidades do MADRP, nomeadamente a Inspecção-Geral e Auditoria de Gestão (IGAG), no âmbito das políticas superiormente definidas;
-
-d) Participar no acompanhamento das missões comunitárias de controlo a efectuar em Portugal;
-
-e) Controlar a conformidade legal de acreditação e certificação.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ##### SUBSECÇÃO II — Serviços operativos
 
 ###### Artigo 19.º — Direcção de Serviços de Saúde Animal
 
-1 - À Direcção de Serviços de Saúde Animal compete avaliar as acções de defesa sanitária dos animais, elaborar o Plano Nacional de Saúde Animal, estudar e acompanhar a evolução das zoonoses e participar na sua prevenção e combate, propondo medidas de âmbito veterinário.
+(Revogado.)
 
-2 - A Direcção de Serviços de Saúde Animal assegura as ligações com outras entidades do MADRP ou a ele estranhas e o relacionamento com organismos internacionais no âmbito da saúde animal, nomeadamente a OIE, FAO, OMS, UE e OMC.
-
-3 - A Direcção de Serviços de Saúde Animal compreende as seguintes unidades orgânicas:
-
-a) Divisão de Epidemiologia;
-
-b) Divisão de Profilaxia e Polícia Sanitária;
-
-c) Divisão de Identificação Animal e Registo das Explorações.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 20.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ##### Divisão de Epidemiologia
 
@@ -598,6 +458,10 @@ f) Organizar e tratar a informação relativa à saúde animal, através de uma 
 
 ###### Artigo 21.º
 
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
+
 ##### Divisão de Profilaxia e Polícia Sanitária
 
 À Divisão de Profilaxia e Polícia Sanitária compete:
@@ -613,6 +477,10 @@ d) Desenvolver e coordenar acções de educação sanitária veterinária;
 e) Definir as regras de acreditação dos médicos veterinários que actuam no âmbito do Plano Nacional de Saúde Animal.
 
 ###### Artigo 22.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ##### Divisão de Identificação Animal e Registo das Explorações
 
@@ -632,19 +500,15 @@ f) Executar e ou apoiar ensaios sobre novos métodos de identificação em colab
 
 ###### Artigo 23.º — Direcção de Serviços de Meios de Defesa da Saúde, Bem-Estar e Alimentação Animal
 
-1 - À Direcção de Serviços de Meios de Defesa da Saúde, Bem-Estar e Alimentação Animal compete coordenar e promover as necessárias acções nos domínios dos meios de defesa da saúde, bem-estar e alimentação animal conducentes à maior produtividade, rendibilidade e qualidade em condições adequadas de bem-estar e concorrência leal, das diferentes espécies animais, sem prejuízo das demais competências atribuídas por lei.
+(Revogado.)
 
-2 - A Direcção de Serviços de Meios de Defesa da Saúde, Bem-Estar e Alimentação Animal assegura as relações, no âmbito das suas atribuições, com os organismos nacionais e internacionais que prossigam idênticos objectivos e coordena a emissão dos pareceres técnicos, nos domínios veterinário e zootécnico, sobre os cadernos de especificações dos produtos frescos de origem animal.
-
-3 - A Direcção de Serviços de Meios de Defesa da Saúde, Bem-Estar e Alimentação Animal compreende as seguintes unidades orgânicas:
-
-a) Divisão de Meios de Defesa da Saúde Animal;
-
-b) Divisão de Bem-Estar Animal;
-
-c) Divisão de Alimentação Animal.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 24.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ##### Divisão de Meios de Defesa da Saúde Animal
 
@@ -664,6 +528,10 @@ f) Assegurar o funcionamento do sistema nacional de farmacovigilância e toxicol
 
 ###### Artigo 25.º
 
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
+
 ##### Divisão de Bem-Estar Animal
 
 À Divisão de Bem-Estar Animal compete:
@@ -677,6 +545,10 @@ c) Promover com quaisquer entidades, públicas ou privadas, nomeadamente com as 
 d) Colaborar com outras entidades na defesa e protecção do meio ambiente.
 
 ###### Artigo 26.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ##### Divisão de Alimentação Animal
 
@@ -704,23 +576,15 @@ j) Assegurar o regular funcionamento do Conselho Consultivo de Alimentação Ani
 
 ###### Artigo 27.º — Direcção de Serviços de Higiene Pública Veterinária
 
-1 - À Direcção de Serviços de Higiene Pública Veterinária compete definir as normas de funcionamento e actuação do Corpo Nacional de Inspecção Sanitária, tendo em vista a salvaguarda da genuinidade e salubridade das matérias-primas e demais produtos frescos de origem animal, incluindo os da pesca e da aquicultura, e proceder a exames periciais com base em decisões administrativas ou em decisões judiciais.
+(Revogado.)
 
-2 - A Direcção de Serviços de Higiene Pública Veterinária coopera com outras instituições em programas de estudo, prevenção e luta relativamente a doenças emergentes de carácter zoonótico, controla a sua aplicação e assegura a promoção, coordenação e controlo das acções para a defesa da saúde do homem, no âmbito das zoonoses, salubridade dos produtos frescos de origem animal e protecção do meio ambiente.
-
-3 - A Direcção de Serviços de Higiene Pública Veterinária colabora, no âmbito das competências que lhe incubem, em todas as acções que visem a efectiva participação dos médicos veterinários municipais, enquanto autoridades sanitárias veterinárias concelhias.
-
-4 - A Direcção de Serviços de Higiene Pública Veterinária compreende as seguintes unidades orgânicas:
-
-a) Divisão de Estruturas;
-
-b) Divisão de Inspecção Hígio-Sanitária dos Produtos Frescos de Origem Animal;
-
-c) Divisão de Inspecção Hígio-Sanitária dos Produtos da Pesca e Aquicultura Frescos;
-
-d) Divisão de Saúde Pública Veterinária.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 28.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ##### Divisão de Estruturas
 
@@ -735,6 +599,10 @@ c) Proceder à aprovação e registo oficial dos estabelecimentos referidos nas 
 d) Colaborar com outras entidades nas acções conducentes à protecção do meio ambiente relativamente às agressões resultantes do funcionamento das instalações de produção e transformação e no controlo das condições ambientais no âmbito das suas atribuições.
 
 ###### Artigo 29.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ##### Divisão de Inspecção Hígio-Sanitária dos Produtos Frescos de Origem Animal
 
@@ -754,19 +622,15 @@ e) Coordenar e controlar a classificação de carcaças.
 
 ###### Artigo 30.º — Divisão de Inspecção Hígio-Sanitária dos Produtos da Pesca e Aquicultura Frescos
 
-1 - À Divisão de Inspecção Hígio-Sanitária dos Produtos da Pesca e Aquicultura Frescos compete:
+(Revogado.)
 
-a) Definir, regulamentar e coordenar a actividade dos médicos veterinários oficiais e as acções de inspecção hígio-sanitária dos produtos da pesca e aquicultura frescos destinados ao consumo público ou à indústria;
-
-b) Definir, verificar e controlar as condições hígio-sanitárias de funcionamento dos estabelecimentos de inspecção e de laboração dos produtos frescos da pesca e aquicultura e proceder à atribuição do respectivo número de controlo veterinário;
-
-c) Estabelecer as características e definir as marcas sanitárias e de salubridade a aplicar aos produtos da pesca frescos, bem como controlar a emissão dos respectivos certificados sanitários e de salubridade e documentação de acompanhamento;
-
-d) Colaborar na execução do Plano Nacional da Pesquisa de Resíduos e no controlo dos contaminantes no pescado.
-
-2 - Quando os estabelecimentos referidos na alínea b) estiverem integrados em unidades de transformação, a atribuição do número de controlo veterinário deverá ser precedida do parecer da Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar, no âmbito da sua competência.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 31.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ##### Divisão de Saúde Pública Veterinária
 
@@ -796,25 +660,15 @@ l) Cooperar com outros organismos e instituições em planos de alerta de catás
 
 ###### Artigo 32.º — Direcção de Serviços dos Controlos Veterinários
 
-1 - À Direcção de Serviços dos Controlos Veterinários compete assegurar os controlos dos animais e produtos frescos de origem animal para consumo humano ou outros fins e de origem vegetal para alimentação animal, numa perspectiva de salvaguarda da saúde pública e animal, oriundos quer de países da União Europeia, quer de países terceiros, e ainda:
+(Revogado.)
 
-a) Assegurar a participação nas reuniões nacionais e internacionais relacionadas com os controlos veterinários dos animais e produtos frescos de origem animal, divulgando posteriormente toda a informação pertinente às entidades competentes para a execução daqueles controlos;
-
-b) Assegurar, na qualidade de centro de informação e contacto para as áreas da sua competência, a recepção e tratamento das notificações relativas à Organização Mundial do Comércio;
-
-c) Elaborar e divulgar as normas relativas aos controlos veterinários aplicáveis às trocas intracomunitárias e às importações de países terceiros de animais e produtos frescos de origem animal destinados ao consumo humano ou outros fins e produtos de origem vegetal destinados à alimentação animal, incluindo a elaboração de certificados sanitários, de salubridade e outra documentação de acompanhamento às mercadorias referidas, em conformidade com a legislação nacional e comunitária;
-
-d) Assegurar a interligação e informação imediata à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar e à Direcção-Geral das Alfândegas de toda a informação pertinente veiculada pelos sistemas ANIMO e SHIFT relativa aos produtos transformados de origem animal, incluindo os da pesca, de forma a permitir a realização dos controlos da competência dos citados organismos.
-
-2 - As unidades locais integrando o sistema ANIMO, bem como os postos de inspecção fronteiriços, serão dotadas de instalações, de pessoal técnico e administrativo e dos meios necessários à realização dos controlos, em conformidade com a legislação nacional e comunitária.
-
-3 - A Direcção de Serviços dos Controlos Veterinários compreende as seguintes unidades orgânicas:
-
-a) Divisão de Mercado Interno;
-
-b) Divisão de Postos Fronteiriços Comunitários.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 33.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ##### Divisão de Mercado Interno
 
@@ -825,6 +679,34 @@ a) Manter em funcionamento a rede informatizada de ligação entre as autoridade
 b) Garantir a uniformidade de realização dos controlos veterinários oficiais aleatórios nos animais e produtos frescos de origem animal, incluindo os da pesca e da aquicultura oriundos de países da União Europeia.
 
 ###### Artigo 34.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
+
+###### Artigo 34.º-A — Direcção de Serviços de Produção e Melhoramento Animal
+
+(Revogado.)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 526/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1999-632398), publicado em 1999-12-10.
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
+
+###### Artigo 34.º-B — Divisão de Melhoramento Animal e de Apoio à Produção
+
+(Revogado.)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 526/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1999-632398), publicado em 1999-12-10.
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
+
+###### Artigo 34.º-C — Divisão de Selecção e Reprodução Animal
+
+(Revogado.)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 526/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1999-632398), publicado em 1999-12-10.
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ##### Divisão de Postos Fronteiriços Comunitários
 
@@ -840,123 +722,69 @@ d) Accionar as medidas previstas na cláusula de salvaguarda prevista na respect
 
 ###### Artigo 35.º — Corpo Nacional de Inspecção Sanitária
 
-1 - É criado o Corpo Nacional de Inspecção Sanitária, constituído pelos médicos veterinários e auxiliares de inspecção sanitária vinculados à função pública e pelos acreditados pela DGV.
+(Revogado.)
 
-2 - As suas competências são as constantes dos artigos 29.º e 30.º do presente diploma legal.
-
-3 - O pessoal que integra o Corpo Nacional de Inspecção Sanitária encontra-se distribuído pelas diferentes direcções regionais de agricultura, nas respectivas direcções de serviço de veterinária, dependendo funcionalmente da DGV.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ### CAPÍTULO III — Gestão
 
 ###### Artigo 36.º — Princípios e instrumentos de gestão
 
-1 - A DGV deve observar na sua gestão os seguintes princípios:
+(Revogado.)
 
-a) Gestão por objectivos;
-
-b) Controlo interno de gestão;
-
-c) Informação permanente da evolução financeira.
-
-2 - Na previsão e controlo utilizar-se-ão os seguintes instrumentos:
-
-a) Plano de actividade plurianual;
-
-b) Programa anual de actividades;
-
-c) Orçamento anual;
-
-d) Relatório anual de actividades;
-
-e) Conta e relatório financeiro.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 37.º — Receitas
 
-Constituem receitas da DGV, para além das que lhe são atribuídas pelo Orçamento do Estado, as seguintes:
+(Revogado.)
 
-a) As quantias resultantes do pagamento de serviços prestados;
-
-b) As comparticipações, subsídios, donativos ou outras liberalidades atribuídas por quaisquer agentes, instituições ou entidades públicas, privadas ou cooperativas, e legalmente aceites;
-
-c) O produto da venda de publicações e impressos por si editados;
-
-d) O produto integral ou parcial de taxas, saldos de exploração e outro tipo de receita resultante ou proveniente da venda de bens ou equipamentos próprios;
-
-e) As taxas cobradas no âmbito da inspecção hígio-sanitária e dos controlos veterinários serão exclusivamente afectadas à prossecução daquelas actividades, por imperativo legal;
-
-f) O produto de coimas e custas dos processos por si instaurados, instruídos ou concluídos;
-
-g) As quantias provenientes de análises, exames laboratoriais e peritagens;
-
-h) Quaisquer outras receitas não compreendidas nas alíneas anteriores e que por lei, acto ou contrato lhe sejam atribuídas.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 38.º — Despesas
 
-Constituem despesas da DGV as que resultam de encargos e responsabilidades decorrentes da prossecução e exercício das suas atribuições, as respeitantes ao pessoal e os custos de aquisição e conservação dos bens, equipamentos e serviços que tenha de utilizar ou contratar.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 39.º — Depósito, movimento de receitas e fundo de maneio
 
-1 - Até à sua entrega no prazo legal nos cofres do Estado, todas as receitas da DGV são depositadas à sua ordem e movimentadas por meio de cheque nominativo, assinado por dois membros do conselho administrativo ou, caso tal se justifique, por um membro do conselho administrativo e outro funcionário designado pelo director-geral para o efeito.
+(Revogado.)
 
-2 - Podem ser constituídos, à responsabilidade do tesoureiro e de dirigentes das unidades orgânicas da DGV, fundos de maneio para ocorrer ao pagamento de pequenas despesas de carácter urgente.
-
-3 - Todos os documentos relativos a recebimentos têm de ser assinados e visados pelo director-geral ou por quem tenha recebido a delegação dessa competência.
-
-4 - A prestação de contas é feita nos termos da lei geral aplicável.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 40.º — Cobrança coerciva de dívidas
 
-1 - A cobrança coerciva das dívidas à DGV é efectuada nos termos previstos na lei, através do processo de execução fiscal.
+(Revogado.)
 
-2 - O processo referido no número anterior tem por base certidão emitida pela Direcção de Serviços de Gestão e Administração, com valor de título executivo, de acordo com o disposto no artigo 249.º do Código de Processo Tributário.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ### CAPÍTULO IV — Pessoal
 
 ###### Artigo 41.º — Quadro de pessoal
 
-1 - A DGV dispõe do quadro de pessoal aprovado por portaria conjunta dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas e do membro do Governo responsável pela função pública.
+(Revogado.)
 
-2 - Os lugares do pessoal dirigente da DGV são os constantes do mapa anexo ao presente diploma.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
 ###### Artigo 42.º — Transição de pessoal
 
-1 - A transição do pessoal para o quadro da DGV é feita nos termos do artigo 19.º do [Decreto-Lei n.º 74/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1996-435397), de 18 de Junho.
+(Revogado.)
 
-2 - Transita para o quadro da DGV o pessoal do quadro do ex-Instituto de Protecção da Produção Agro-Alimentar (IPPAA) que se encontrava afecto:
-
-a) Ao ex-Centro Nacional de Protecção e Controlo Zoo-Sanitário (CNPCZ-S), com excepção do afecto ao Laboratório Nacional de Veterinária;
-
-b) Aos serviços de apoio técnico e administrativo, a designar por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;
-
-c) Às Divisões de Indústrias de Produtos de Origem Animal e de Inspecção Hígio-Sanitária e Controlo de Primeira Transformação, integradas no ex-Centro Nacional de Higiene e Qualidade dos Produtos Agro-Alimentares (CNHQPAA), a designar por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
-
-3 - Transita igualmente para o quadro da DGV o pessoal que exerce funções na unidade referida na alínea a) do n.º 2 que por qualquer motivo não chegou a ser integrado no quadro do ex-IPPAA e que ainda pertence aos quadros da ex-Direcção-Geral de Pecuária e do ex-Instituto de Qualidade Alimentar.
-
-4 - Transita ainda para o quadro da DGV o pessoal que exerce funções nos serviços referidos nas alíneas b) e c) do n.º 2 que por qualquer motivo não chegou a ser integrado no quadro do ex-IPPAA e que ainda pertence aos quadros da ex-Direcção-Geral de Pecuária e do ex-Instituto de Qualidade Alimentar, a designar por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
-
-5 - Transita também para o quadro da DGV o pessoal que exerce funções nos postos fronteiriços do Porto e de Lisboa, integrados, respectivamente, nas Direcções Regionais de Agricultura de Entre Douro e Minho e do Ribatejo e Oeste.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 43.º — Estágios
 
-O pessoal que actualmente, nos termos da lei, se encontre em regime de estágio no ex-IPPAA, em áreas integradas na DGV, prossegue o estágio neste organismo.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 44.º — Transição de serviços e afectação de património
 
-1 - A DGV sucede, em conformidade com o previsto no presente diploma, nas atribuições e competências dos seguintes serviços:
+(Revogado.)
 
-Do ex-IPPAA:
-
-a) Centro Nacional de Protecção e Controlo Zoo-Sanitário, com excepção do Laboratório Nacional de Veterinária;
-
-b) Divisão de Inspecção Hígio-Sanitária e Controlo de Primeira Transformação, que se encontrava integrada no Centro Nacional de Higiene e Qualidade dos Produtos Agro-Alimentares.
-
-Das direcções regionais de agricultura:
-
-Postos fronteiriços do Porto e de Lisboa, que se encontravam integrados, respectivamente, nas Direcções Regionais de Agricultura de Entre Douro e Minho e do Ribatejo e Oeste.
-
-2 - O património, designadamente os activos e passivos e os direitos e obrigações constituídos na esfera jurídica dos serviços referidos no número anterior, no âmbito das respectivas atribuições e competências, transfere-se automaticamente para a DGV, em conformidade com o disposto no artigo 22.º do [Decreto-Lei n.º 74/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1996-435397), de 18 de Junho, à excepção do serviço referido na alínea b) do número anterior.
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 ###### Artigo 45.º — Identificação
 
@@ -974,7 +802,9 @@ d) Entrar livremente em todas as gares e aeroportos.
 
 ###### Artigo 46.º — Entrada em vigor
 
-O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/11-2007-518855), publicado em 2007-02-27.
 
 Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 1997. - António Manuel de Oliveira Guterres - Maria Manuela de Brito Arcanjo Marques da Costa - Fernando Manuel Van-Zeller Gomes da Silva - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
 

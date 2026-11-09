@@ -28,10 +28,32 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2020-01-08'
+version_history:
+  file: decreto-legislativo-regional-20-2002-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-01-08'
+    amending: pt:dre:438181:por
+    amending_title: Decreto Legislativo Regional n.º 44/2003/A; Decreto Legislativo Regional n.º 2/2014/A; Decreto Legislativo
+      Regional n.º 1/2020/A
+    changes:
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 15.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/20/2002/05/28/a/dre/pt/html
@@ -57,7 +79,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:19:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    44/2003/A; Decreto Legislativo Regional n.º 2/2014/A; Decreto Legislativo Regional n.º 1/2020/A. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/2002/decreto-legislativo-regional-20-2002-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +164,9 @@ Assim, a Assembleia Legislativa Regional dos Açores, nos termos da alínea a) d
 
 ###### Artigo 1.º — Objecto
 
-O presente decreto legislativo regional consagra o regime jurídico do Sistema Regional de Planeamento dos Açores, doravante designado por SIRPA, enquanto conjunto de instrumentos de programação de investimento público, e respectiva preparação, elaboração, aprovação, execução, avaliação e fiscalização, no âmbito institucional da Região.
+O presente decreto legislativo regional consagra o regime jurídico do Sistema Regional de Planeamento dos Açores, doravante designado por SIRPA, enquanto conjunto de instrumentos de programação de investimento público, e respetiva preparação, elaboração, aprovação, execução e acompanhamento no âmbito institucional da Região.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 1/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), publicado em 2020-01-08.
 
 ###### Artigo 2.º — Objectivos
 
@@ -172,7 +198,9 @@ d) Princípio da participação social através dos representantes institucionai
 
 e) Princípio da compatibilização dos planos regionais com o Orçamento e com os instrumentos de planeamento decorrentes da integração regional e nacional na União Europeia;
 
-f) Princípio da execução descentralizada dos planos regionais a nível da ilha e sectorial.
+f) Princípio da desagregação da programação, em termos espaciais, a nível de ilha e setorial.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 1/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), publicado em 2020-01-08.
 
 ###### Artigo 5.º — Elaboração e conteúdo dos planos regionais
 
@@ -212,7 +240,9 @@ f) A especificação dos projectos e acções que compõem os diferentes program
 
 a) Nos relatórios trimestrais de execução financeira;
 
-b) No relatório anual de execução e avaliação material e financeira.
+b) No relatório anual de execução material e financeira.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 1/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), publicado em 2020-01-08.
 
 ### CAPÍTULO II — Órgãos e serviços
 
@@ -240,11 +270,13 @@ b) Concretizar a estratégia e a programação aprovadas nos planos regionais;
 
 c) Coordenar a execução descentralizada dos planos;
 
-d) Assegurar a elaboração dos relatórios de execução e avaliação.
+d) Assegurar a elaboração dos relatórios de execução.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 1/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), publicado em 2020-01-08.
 
 ###### Artigo 8.º — Competência técnica
 
-1 - A direcção regional com competência na área do planeamento é o serviço de carácter operativo ao qual incumbe a preparação, a elaboração e o acompanhamento dos planos regionais, incluindo a elaboração dos respectivos relatórios de execução e avaliação, sendo ainda responsável pelas intervenções comunitárias e pela realização de estudos de natureza socioeconómica.
+1 - A direção regional com competência na área do planeamento é o serviço de caráter operativo ao qual incumbe a preparação, a elaboração e o acompanhamento dos planos regionais, incluindo a elaboração dos respetivos relatórios de execução, sendo ainda responsável pelas intervenções comunitárias e pela realização de estudos de natureza socioeconómica.
 
 2 - A comissão técnica de planeamento regional é o órgão de coordenação técnica na preparação, elaboração e execução dos planos regionais.
 
@@ -255,6 +287,8 @@ a) Os directores regionais com competências nas áreas do planeamento, orçamen
 b) Um representante de cada membro do Governo Regional.
 
 4 - Poderão ainda participar nos trabalhos das comissões as entidades que forem convocadas pelo presidente da mesma, por sua iniciativa ou a pedido de qualquer outro dos seus membros, de acordo com os assuntos a tratar.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 1/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), publicado em 2020-01-08.
 
 ###### Artigo 9.º — Competências da comissão técnica de planeamento regional
 
@@ -290,7 +324,9 @@ A participação no processo de elaboração e no acompanhamento da execução d
 
 ###### Artigo 13.º — Aprovação pela Assembleia Legislativa Regional
 
-A Assembleia Legislativa Regional aprecia e delibera sobre a aprovação das propostas dos planos regionais que lhe forem apresentadas pelo Governo no seu período legislativo de Novembro, sem prejuízo do disposto no n.º 2 do artigo anterior.
+Até 15 de Dezembro a Assembleia Legislativa Regional aprecia e delibera sobre a aprovação das propostas dos planos regionais que lhe forem apresentadas pelo Governo, sem prejuízo do disposto no n.º 2 do artigo anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 44/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/44-2003-438181), publicado em 2003-11-22.
 
 ###### Artigo 14.º — Alterações ao plano regional anual
 
@@ -298,15 +334,19 @@ A Assembleia Legislativa Regional aprecia e delibera sobre a aprovação das pro
 
 2 - Exceptuam-se do número anterior:
 
-a) A reafectação de verbas aos diferentes projectos de cada programa, que compete ao conselho do Governo Regional, através de resolução;
+a) A criação de novas ações nos projetos de cada programa e a reafectação de verbas aos diferentes projetos de cada programa, que compete ao membro do Governo Regional responsável em matéria de orçamento e planeamento.
 
 b) A reafectação de verbas às diferentes acções de cada projecto, que compete ao membro do Governo Regional da tutela, devendo ser comunicadas, de imediato, aos departamentos do Governo Regional com competência em matéria de orçamento e planeamento.
+
+> Alterado pelo/a Artigo 45.º do/a [Decreto Legislativo Regional n.º 2/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2014-570685), publicado em 2014-01-29.
 
 ###### Artigo 15.º — Apresentação dos relatórios de execução
 
 1 - Os relatórios de execução financeira são apresentados à Assembleia Legislativa Regional dos Açores durante os 30 dias seguintes ao período a que respeitam, excepto o relativo ao 4.º trimestre de cada ano que é apresentado nos subsequentes 90 dias.
 
-2 - O relatório de execução e avaliação material e financeira é apresentado à Assembleia Legislativa Regional dos Açores durante os 180 dias seguintes ao período a que respeita.
+2 - O relatório de execução material e financeira é apresentada à Assembleia Legislativa da Região Autónoma dos Açores durante os cento e oitenta dias seguintes ao período a que respeita.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 1/2020/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), publicado em 2020-01-08.
 
 ### CAPÍTULO IV — Enquadramento nacional
 

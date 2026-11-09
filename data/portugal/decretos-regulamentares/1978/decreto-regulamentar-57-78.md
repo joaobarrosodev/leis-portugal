@@ -40,10 +40,27 @@ notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-10-14'
+version_history:
+  file: decreto-regulamentar-57-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-10-14'
+    amending: pt:dre:561783:por
+    amending_title: Decreto Regulamentar n.º 47/81
+    changes:
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:59:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 47/81. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1978/decreto-regulamentar-57-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,7 +153,7 @@ Regulamento do Gabinete do Novo Hospital Central de Coimbra
 
 ### CAPÍTULO I — Atribuições do Gabinete
 
-###### ARTIGO 1.º — (Definição das atribuições)
+###### Artigo 1.º — (Definição das atribuições)
 
 O Gabinete do Novo Hospital Central de Coimbra, criado pelo [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), de 30 de Setembro, adiante designado por Gabinete, dispõe das competências necessárias à prossecução dos objectivos definidos naquele diploma, designadamente:
 
@@ -163,7 +181,7 @@ j) Mediante autorização superior, enviar missões ao estrangeiro para realizar
 
 #### SECÇÃO I — Disposições gerais
 
-###### ARTIGO 2.º — (Competência)
+###### Artigo 2.º — (Competência)
 
 Ao conselho director, no exercício da competência plena estabelecida no artigo 4.º do [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), cabe, designadamente, o seguinte:
 
@@ -175,7 +193,7 @@ c) Elaborar os relatórios anuais de execução;
 
 d) Desenvolver outras actividades de coordenação, contrôle e demais actos julgados necessários à prossecução dos objectivos do Gabinete.
 
-###### ARTIGO 3.º — (Funcionamento)
+###### Artigo 3.º — (Funcionamento)
 
 1 - O conselho director é convocado pelo seu presidente e reúne, ordinariamente, de quinze em quinze dias, com a presença do delegado do Tribunal de Contas, e, extraordinariamente, sempre que for convocado pelo presidente, quer por iniciativa deste, quer a solicitação de dois membros.
 
@@ -187,23 +205,23 @@ d) Desenvolver outras actividades de coordenação, contrôle e demais actos jul
 
 5 - Os restantes membros do conselho, além de participarem nas respectivas deliberações, promoverão, em conformidade com a representação dos Ministérios que os designaram, a obtenção dos esclarecimentos necessários à resolução dos problemas específicos daqueles Ministérios, podendo também ser-lhes atribuídas outras tarefas.
 
-###### ARTIGO 4.º — (Abonos)
+###### Artigo 4.º — (Abonos)
 
 O delegado do Tribunal de Contas junto do conselho director terá direito a uma gratificação mensal, de quantitativo a fixar, nos termos do n.º 2 do artigo 6.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio, bem como aos abonos relativos a transportes e ajudas de custo, nos termos da lei geral.
 
 #### SECÇÃO II — Estatuto dos membros
 
-###### ARTIGO 5.º — (Categoria dos membros do conselho director)
+###### Artigo 5.º — (Categoria dos membros do conselho director)
 
 O presidente do conselho director é equiparado, para todos os efeitos, a director-geral e os restantes membros a subdirectores-gerais.
 
-###### ARTIGO 6.º — (Nomeação de funcionários públicos)
+###### Artigo 6.º — (Nomeação de funcionários públicos)
 
 1 - As nomeações para o conselho director, quando recaiam em funcionários públicos e estes venham exercer as respectivas funções em tempo completo, serão feitas em comissão de serviço.
 
 2 - As nomeações nas condições do número antecedente não abrirão vagas nos quadros ou mapas de origem, mantendo os funcionários, enquanto durarem as respectivas comissões, todos os direitos que tinham à data do início das funções no Gabinete, designadamente ao exercício de funções que nesse momento desempenhavam, como se permanecessem ao serviço no seu próprio quadro ou mapa, inclusive às promoções legais e à aposentação baseada na remuneração auferida no Gabinete, se a aposentação se verificar durante a comissão.
 
-###### ARTIGO 7.º — (Exercício de funções)
+###### Artigo 7.º — (Exercício de funções)
 
 1 - Os membros do conselho director exercerão as suas funções em tempo inteiro ou em tempo parcial.
 
@@ -211,7 +229,7 @@ O presidente do conselho director é equiparado, para todos os efeitos, a direct
 
 3 - Os membros que exerçam as suas funções em regime de tempo parcial poderão fazê-lo em acumulação com outro cargo ou cargos que estejam desempenhando, tendo em consideração as limitações estabelecidas na alínea a) do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
 
-###### ARTIGO 8.º — (Abonos)
+###### Artigo 8.º — (Abonos)
 
 1 - Os membros do conselho director terão direito às remunerações acessórias e a demais abonos nos mesmos termos e condições que os estabelecidos para a generalidade dos funcionários públicos.
 
@@ -223,7 +241,7 @@ b) A ajudas de custo com referência aos vencimentos correspondentes às mesmas 
 
 ### CAPÍTULO III — Conselho consultivo
 
-###### ARTIGO 9.º — (Constituição)
+###### Artigo 9.º — (Constituição)
 
 1 - O conselho director é assistido no exercício da sua competência por um conselho consultivo, que terá representantes de cada uma das seguintes entidades:
 
@@ -245,7 +263,7 @@ h) Um representante do Ministério da Educação e Investigação Científica.
 
 2 - O conselho consultivo poderá ser ainda integrado por representantes de outras entidades, designadas sob proposta do conselho director em portaria do Ministro da Habitação e Obras Públicas e ainda do Ministro responsável pelo respectivo departamento, se for caso disso.
 
-###### ARTIGO 10.º — (Funcionamento)
+###### Artigo 10.º — (Funcionamento)
 
 1 - O conselho consultivo poderá ser convocado pelo presidente do conselho director para funcionar em plenário ou por secções, consoante os assuntos a tratar.
 
@@ -253,25 +271,25 @@ h) Um representante do Ministério da Educação e Investigação Científica.
 
 3 - De todas as reuniões serão lavradas actas em livro próprio.
 
-###### ARTIGO 11.º — (Abonos)
+###### Artigo 11.º — (Abonos)
 
 Os vogais do conselho consultivos terão direito ao abono de transportes e ajudas de custo, nos termos quantitativos fixados na lei, e a senhas de presença por cada dia de reunião em que tomem parte, conforme o disposto no artigo 8.º do [Decreto-Lei n.º 106/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1978-296424), de 24 de Maio.
 
 ### CAPÍTULO IV — Gestão administrativa e financeira
 
-###### ARTIGO 12.º — (Fundo especial)
+###### Artigo 12.º — (Fundo especial)
 
 As importâncias requisitadas pelo Gabinete constituirão, nos termos do n.º 2 do artigo 3.º do [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), um fundo especial, denominado «Gabinete do Novo Hospital Central de Coimbra», que será depositado na Caixa Geral de Depósitos e movimentado por meio de cheques, assinados por dois membros do conselho director, sendo um deles, obrigatoriamente, o presidente ou seu legal substituto.
 
-###### ARTIGO 13.º — (Encargos do Gabinete)
+###### Artigo 13.º — (Encargos do Gabinete)
 
 Constituem encargos do Gabinete as despesas a realizar com a instalação e funcionamento dos serviços e quaisquer outras que sejam necessárias para assegurar o desempenho das suas atribuições, sem prejuízo do disposto no [Decreto-Lei n.º 439-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/439-a-1977-582381), de 25 de Outubro.
 
-###### ARTIGO 14.º — (Fiscalização das despesas)
+###### Artigo 14.º — (Fiscalização das despesas)
 
 No caso de parecer desfavorável do delegado do Tribunal de Contas sobre a legalidade de qualquer despesa, deverá ser organizado processo, o qual será submetido à apreciação e decisão do Conselho de Ministros.
 
-###### ARTIGO 15.º — (Acção do Tribunal de Contas)
+###### Artigo 15.º — (Acção do Tribunal de Contas)
 
 A acção do Tribunal de Contas no Gabinete exerce-se por intermédio do seu delegado, ficando apenas sujeitos a visto prévio do referido Tribunal os diplomas referentes a pessoal do quadro e os contratos de material e outros encargos.
 
@@ -279,7 +297,7 @@ A acção do Tribunal de Contas no Gabinete exerce-se por intermédio do seu del
 
 #### SECÇÃO I — Disposições gerais
 
-###### ARTIGO 16.º — (Regime jurídico)
+###### Artigo 16.º — (Regime jurídico)
 
 O regime do pessoal do Gabinete, em tudo quanto não estiver especialmente previsto neste decreto, será regulado subsidiariamente pela legislação de aplicação geral aos serviços do Ministério da Habitação e Obras Públicas ou pelo regime geral do funcionalismo público.
 
@@ -287,17 +305,17 @@ O regime do pessoal do Gabinete, em tudo quanto não estiver especialmente previ
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### ARTIGO 17.º — (Definição de pessoal)
+###### Artigo 17.º — (Definição de pessoal)
 
 O Gabinete disporá do pessoal constante do quadro anexo ao presente diploma.
 
-###### ARTIGO 18.º — (Natureza e extinção do quadro)
+###### Artigo 18.º — (Natureza e extinção do quadro)
 
 1 - O quadro tem natureza temporária e será extinto assim que o Gabinete realize os objectivos para que foi criado.
 
-2 - O pessoal provido em lugares deste quadro terá, no momento da respectiva extinção, o seguinte destino, sem prejuízo do disposto no n.º 3:
+2 - O pessoal do Gabinete terá, no momento da respectiva extinção, o seguinte destino, sem prejuízo do disposto no n.º 3:
 
-a) O pessoal pertencente a outros quadros e provido em comissão regressará aos lugares anteriormente exercidos;
+a) O pessoal pertencente a outros quadros regressará aos lugares e serviços de origem;
 
 b) O restante pessoal terá o destino fixado na lei geral sobre excedentes de pessoal.
 
@@ -305,49 +323,59 @@ b) O restante pessoal terá o destino fixado na lei geral sobre excedentes de pe
 
 4 - O pessoal referido no n.º 3 será provido nas vagas das categorias que, no mapa ou quadro do novo hospital, correspondam às que vinha ocupando no Gabinete, ou, não sendo isso possível, nas que melhor se lhes ajustarem, desde que possuam, num ou outro caso, as necessárias condições legais de ingresso, designadamente as habilitações literárias exigíveis.
 
-###### ARTIGO 19.º — (Abonos)
+> Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13.
+
+###### Artigo 19.º — (Abonos)
 
 Ao pessoal do Gabinete será também aplicável o disposto no n.º 1 e na alínea b) do n.º 2 do artigo 8.º deste diploma.
 
 ##### SUBSECÇÃO II — Preenchimento de lugares
 
-###### ARTIGO 20.º — (Recrutamento)
+###### Artigo 20.º — (Recrutamento)
 
-1 - O recrutamento de pessoal do Gabinete será feito por escolha do conselho director de entre os funcionários ou outras pessoas com os requisitos de ingresso na função pública para a respectiva categoria e as qualificações adequadas do desempenho das funções.
+O recrutamento do pessoal do Gabinete será feito por escolha do conselho director de entre os funcionários ou outras pessoas com os requisitos de ingresso na função pública para a respectiva categoria e as qualificações adequadas ao desempenho das funções.
 
-2 - Quando se mostre necessário, o conselho director poderá requisitar ou pedir o destacamento de pessoal de outros serviços públicos em termos idênticos aos estabelecidos no [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril.
+> Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13.
 
-###### ARTIGO 21.º — (Provimento)
+###### Artigo 21.º — (Provimento)
 
-1 - O pessoal não pertencente a outros quadros será contratado por períodos de um ano, automaticamente renováveis, ou assalariado, até ao termo de existência do Gabinete.
+1 - O pessoal não vinculado a outros serviços públicos será contratado por períodos de um ano automaticamente renováveis ou assalariado até ao termo da existência do Gabinete.
 
-2 - O pessoal já pertencente a outros quadros será nomeado em comissão pelo período de existência do Gabinete, sem prejuízo de a mesma poder ser dada por finda em qualquer momento, ou, se assim o preferir, contratado, desvinculando-se neste caso do quadro de origem, mas conservando o direito à antiguidade pelo serviço nele prestado.
+2 - O pessoal já vinculado a outros serviços será nomeado em comissão, nos termos do artigo anterior, pelo período de existência do Gabinete, sem prejuízo de tais situações poderem ser dadas por findas em qualquer momento.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13.
 
 #### SECÇÃO III — Pessoal não pertencente ao quadro
 
-###### ARTIGO 22.º — (Pessoal contratado além do quadro)
+###### Artigo 22.º — (Pessoal além do quadro)
 
-Poderá ser contratado pessoal além do quadro quando tal se venha a revelar necessário.
+1 - Poderá ser contratado pessoal além dos quadros quando tal venha a revelar-se necessário.
+
+2 - O pessoal já vinculado a outros serviços poderá também, se assim o preferir, ser contratado além do quadro, desvinculando-se, neste caso, do lugar de origem, mas conservando o direito à antiguidade pelo tempo nele prestado.
+
+3 - Quando se mostre conveniente, o conselho directivo poderá promover a requisição ou pedir o destacamento do pessoal de outros serviços públicos.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 47/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/47-1981-561783), publicado em 1981-10-13.
 
 ### CAPÍTULO VI — Disposições finais e transitórias
 
-###### ARTIGO 23.º — (Ratificação de actos)
+###### Artigo 23.º — (Ratificação de actos)
 
 Consideram-se ratificados todos os actos do conselho director conformes com a lei, designadamente o [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681), de 30 de Setembro, e que não contrariem o presente diploma, praticados anteriormente à entrada em vigor deste regulamento, e como iniciadas as respectivas funções, para todos os efeitos legais, na data em que foram conferidas posses aos seus membros.
 
-###### ARTIGO 24.º — (Instalações do Gabinete)
+###### Artigo 24.º — (Instalações do Gabinete)
 
 Além da sua sede em Coimbra, o Gabinete disporá em Lisboa, enquanto assim for considerado necessário, de dependências das actuais instalações da Direcção-Geral das Construções Hospitalares.
 
-###### ARTIGO 25.º — (Encargos com a execução deste diploma)
+###### Artigo 25.º — (Encargos com a execução deste diploma)
 
 Até final do corrente ano, os encargos emergentes do presente diploma e do [Decreto-Lei n.º 414/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1977-278681) serão custeados por força de dotação já inscrita para o corrente ano no orçamento da Direcção-Geral das Construções Hospitalares ou provenientes do seu eventual reforço.
 
-###### ARTIGO 26.º — (Resolução de dúvidas)
+###### Artigo 26.º — (Resolução de dúvidas)
 
 As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Primeiro-Ministro.
 
-###### ARTIGO 27.º — (Entrada em vigor do diploma)
+###### Artigo 27.º — (Entrada em vigor do diploma)
 
 O presente diploma entra em vigor no dia imediato ao da sua publicação.
 

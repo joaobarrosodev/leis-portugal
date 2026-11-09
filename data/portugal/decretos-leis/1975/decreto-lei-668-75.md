@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-03-07'
+version_history:
+  file: decreto-lei-668-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-03-07'
+    amending: pt:dre:388427:por
+    amending_title: Decreto-Lei n.º 39/81
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:46:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 39/81. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-668-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,21 +152,35 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º As pensões devidas por acidentes de trabalho e doenças profissionais, independentemente da entidade responsável, são sempre calculadas com base na [Lei n.º 2137](https://diariodarepublica.pt/dr/detalhe/lei/2137-1968-256472), de 3 de Agosto de 1965, e [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, e no salário anual de 48000$00, caso a retribuição real anual seja inferior a este valor.
+###### Artigo 1.º
 
-Art. 2.º Não estão abrangidas pelo disposto no artigo anterior as pensões resultantes de incapacidades inferiores a 30%.
+As pensões devidas por acidentes de trabalho ou por doenças profissionais que não sejam da responsabilidade da Caixa Nacional de Seguros de Doenças Profissionais são sempre calculadas com base na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536), de 3 de Agosto de 1965, no [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246), de 21 de Agosto, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), de 23 de Novembro, e nos salários anuais correspondentes a doze vezes a remuneração mínima mensal legalmente fixada para o sector em que o trabalhador exerce a sua actividade e para o território - continente ou Regiões Autónomas dos Açores ou da Madeira - onde a exerce, desde que a respectiva remuneração anual seja inferior a esses valores.
 
-Art. 3.º - 1. As pensões já estabelecidas em tribunal de trabalho serão actualizadas em conformidade com o disposto nos artigos 1.º e 2.º
+> Alterado pelo/a [Decreto-Lei n.º 39/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1981-388427), publicado em 1981-03-07.
+
+###### Artigo 2.º
+
+Não estão abrangidas pelo disposto no artigo anterior as pensões resultantes de incapacidades inferiores a 30%.
+
+###### Artigo 3.º
+
+1. As pensões já estabelecidas em tribunal de trabalho serão actualizadas em conformidade com o disposto nos artigos 1.º e 2.º
 
 2. A actualização a que se refere o número anterior será automática e imediata caso a responsabilidade esteja a cargo de entidade seguradora (companhia de seguros ou Caixa Nacional de Seguros de Doenças Profissionais), mas devendo a mencionada entidade fazer a correspondente comunicação ao tribunal do trabalho e competindo ao Ministério Público promover eventuais rectificações.
 
 3. Se a responsabilidade recair sobre entidades diferentes das constantes no número anterior, deverá o Ministério Público promover oficiosamente a actualização.
 
-Art. 4.º As disposições dos artigos antecedentes são identicamente aplicáveis sempre que as incapacidades resultantes de dois ou mais acidentes perfaçam incapacidade de 30% ou mais.
+###### Artigo 4.º
 
-Art. 5.º O aumento das pensões referido no artigo 1.º e a actualização referida no n.º 1 do artigo 3.º, caso sejam da responsabilidade das entidades seguradoras, não implicam a constituição das correspondentes reservas matemáticas.
+As disposições dos artigos antecedentes são identicamente aplicáveis sempre que as incapacidades resultantes de dois ou mais acidentes perfaçam incapacidade de 30% ou mais.
 
-Art. 6.º O presente diploma produz efeitos a partir de 1 de Julho último.
+###### Artigo 5.º
+
+O aumento das pensões referido no artigo 1.º e a actualização referida no n.º 1 do artigo 3.º, caso sejam da responsabilidade das entidades seguradoras, não implicam a constituição das correspondentes reservas matemáticas.
+
+###### Artigo 6.º
+
+O presente diploma produz efeitos a partir de 1 de Julho último.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Jorge de Carvalho Sá Borges.
 

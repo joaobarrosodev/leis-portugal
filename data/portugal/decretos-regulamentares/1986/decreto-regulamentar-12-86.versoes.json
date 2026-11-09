@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:195072:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-04-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "01d6309911028688"
+   ]
+  },
+  {
+   "date": "1989-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:609872:por",
+     "title": "Decreto n.º 23/89",
+     "published": "1989-05-27",
+     "dre_path": "/dr/detalhe/decreto/23-1989-609872"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "604bbf5af808ec47",
+    "24ddeadec6b548f7",
+    "1fa8601d756df021",
+    "621af00e90285e9c"
+   ]
+  }
+ ],
+ "fragments": {
+  "01d6309911028688": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril\n\nO artigo 92.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro, estabeleceu um subsídio pelo risco acrescido devido aos funcionários da Polícia Judiciária integrados nos serviços que têm a seu cargo a prevenção e a investigação da criminalidade de alta violência praticada por grupos armados e dos crimes referidos nas alíneas f) a m) do n.º 1 do artigo 5.º do mesmo diploma.\n\nCabe dar execução a este preceito, que plenamente se justifica.\n\nAssim:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:\n\nArtigo 1.º Os dirigentes, o pessoal de investigação criminal e os demais funcionários que exercem funções nos serviços da Polícia Judiciária que têm a seu cargo a prevenção e a investigação da criminalidade de alta violência praticada por grupos armados e dos crimes referidos nas alíneas f) a m) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro, têm direito, doze vezes por ano, a um subsídio mensal pelo risco acrescido dos montantes seguintes:\n\na) Pessoal dirigente - 8500$00;\n\nb) Inspector-coordenador e inspector - 8000$00;\n\nc) Subinspector - 7500$00;\n\nd) Agente e agente-motorista - 7000$00;\n\ne) Restante pessoal - 5000$00.\n\nArt. 2.º O presente diploma produz efeitos a partir de 1 de Março de 1986.\n\nArt. 3.º Os encargos resultantes da aplicação do presente diploma serão suportados no ano económico de 1986 pelas verbas administradas pelo Gabinete de Gestão Financeira do Ministério da Justiça.\n\nAníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo.\n\nPromulgado em 5 de Abril de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 11 de Abril de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "604bbf5af808ec47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril\n\nO artigo 92.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro, estabeleceu um subsídio pelo risco acrescido devido aos funcionários da Polícia Judiciária integrados nos serviços que têm a seu cargo a prevenção e a investigação da criminalidade de alta violência praticada por grupos armados e dos crimes referidos nas alíneas f) a m) do n.º 1 do artigo 5.º do mesmo diploma.\n\nCabe dar execução a este preceito, que plenamente se justifica.\n\nAssim:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "24ddeadec6b548f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1989-06-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 23/89](https://diariodarepublica.pt/dr/detalhe/decreto/23-1989-609872), publicado em 1989-05-27."
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs dirigentes, o pessoal de investigação criminal e os demais funcionários que exercem funções nos serviços da Polícia Judiciária que têm a seu cargo a prevenção e a investigação da criminalidade de alta violência praticada por grupos armados e dos crimes referidos nas alíneas f) a m) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro, têm direito, doze vezes por ano, a um subsídio mensal pelo risco acrescido dos montantes seguintes:\n\na) Pessoal dirigente - 13690$00;\n\nb) Inspector-coordenador e inspector - 12880$00;\n\nc) Subinspector - 12080$00;\n\nd) Agente ou agente-motorista - 11270$00;\n\ne) Restante pessoal - 8050$00.\n\n> Alterado pelo/a [Decreto n.º 23/89](https://diariodarepublica.pt/dr/detalhe/decreto/23-1989-609872), publicado em 1989-05-27."
+  },
+  "1fa8601d756df021": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma produz efeitos a partir de 1 de Março de 1986."
+  },
+  "621af00e90285e9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs encargos resultantes da aplicação do presente diploma serão suportados no ano económico de 1986 pelas verbas administradas pelo Gabinete de Gestão Financeira do Ministério da Justiça.\n\nAníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo.\n\nPromulgado em 5 de Abril de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 11 de Abril de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

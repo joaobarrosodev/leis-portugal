@@ -1,0 +1,113 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:250780:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-07-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "098df37a4cd4794d"
+   ]
+  },
+  {
+   "date": "1979-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:378565:por",
+     "title": "Decreto Regional n.º 14/79/M",
+     "published": "1979-08-27",
+     "dre_path": "/dr/detalhe/decreto-regional/14-1979-378565"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "20c159f6b2c07c69",
+    "54caa76993250f48",
+    "707eb24738d92706",
+    "b4015a024c55cf7b",
+    "cf27127b3064c4eb",
+    "14284ccabbb8706b",
+    "f3dc6a9d4fdcfaec"
+   ]
+  }
+ ],
+ "fragments": {
+  "098df37a4cd4794d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Embora o objectivo constitucional de garantir a todos um ambiente de vida humano, sadio e ecologicamente equilibrado deva atingir-se através de um eficaz ordenamento do território, deverá desde já obviar-se à satisfação de interesses justos das populações expressos por inúmeras reclamações à administração.\n\nO plantio desordenado de árvores prejudica o sadio ambiente humano e é, por vezes, facto maléfico a um desenvolvimento agrícola e pecuário.\n\nDever-se-á retirar das árvores a melhor utilidade social. Para isso impõe-se a regulamentação do seu plantio, com definição de zonas de implantação e com respeito das áreas agrícolas.\n\nAté ao adequado planeamento considera-se de interesse a aplicação da disciplina decorrente da [Lei n.º 1951](https://diariodarepublica.pt/dr/detalhe/lei/1951-1937-418238), de 9 de Março, e do Decreto-Lei n.º 28040, de 14 de Setembro de 1937, com as necessárias adaptações à Região Autónoma da Madeira.\n\nAssim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional decreta o seguinte:\n\nArtigo 1.º É proibida a plantação ou sementeira de pinheiros a menos de 15 m de terrenos cultivados e terras de cultura de regadio e a 25 m de prédios urbanos.\n\n§ único. Exceptuam-se do disposto neste artigo as plantações e sementeiras de pinheiros se entre estes e os terrenos, terras de regadio e prédios urbanos mediar estrada nacional ou municipal ou desnível de 4 m ou no caso de se reconhecer que a forma mais conveniente de aproveitamento do terreno em que estiverem radicadas e os terrenos dos vizinhos é a arborização com esta espécie.\n\nArt. 2.º Até à promulgação de regulamentação regional, o processo a observar para o arranque das plantações ou sementeiras feitas com a violação do artigo 1.º é o que consta dos Decretos-Leis n.os 28039 e 28040, de 14 de Setembro de 1937.\n\nArt. 3.º Quando se trate de plantações ou sementeiras de pinheiros feitas anteriormente à vigência do presente diploma que estejam em contradição com o artigo 1.º é reconhecido ao lesado o direito de requerer o arranque, mediante indemnização, caso a sementeira ou plantação tenha sido feita há menos de seis anos.\n\nArt. 4.º Para efeitos do artigo 3.º só há direito à indemnização em relação a sementeiras ou plantações feitas ao abrigo de disposições legais anteriores ao presente decreto regional.\n\nArt. 5.º As funções adstritas pelo [Decreto-Lei n.º 28039](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28039-1937-434378) e pelo Decreto-Lei n.º 28040, de 14 de Setembro de 1937, ao júri avindor serão desempenhadas pelas juntas de freguesia da área onde estiverem radicadas as árvores a arrancar, com as necessárias adaptações.\n\nArt. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em sessão plenária de 17 de Junho de 1977.\n\nO Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.\n\nAssinado em 18 de Junho de 1977.\n\nO Ministro da República, Lino Dias Miguel."
+  },
+  "20c159f6b2c07c69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Embora o objectivo constitucional de garantir a todos um ambiente de vida humano, sadio e ecologicamente equilibrado deva atingir-se através de um eficaz ordenamento do território, deverá desde já obviar-se à satisfação de interesses justos das populações expressos por inúmeras reclamações à administração.\n\nO plantio desordenado de árvores prejudica o sadio ambiente humano e é, por vezes, facto maléfico a um desenvolvimento agrícola e pecuário.\n\nDever-se-á retirar das árvores a melhor utilidade social. Para isso impõe-se a regulamentação do seu plantio, com definição de zonas de implantação e com respeito das áreas agrícolas.\n\nAté ao adequado planeamento considera-se de interesse a aplicação da disciplina decorrente da [Lei n.º 1951](https://diariodarepublica.pt/dr/detalhe/lei/1951-1937-418238), de 9 de Março, e do Decreto-Lei n.º 28040, de 14 de Setembro de 1937, com as necessárias adaptações à Região Autónoma da Madeira.\n\nAssim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional decreta o seguinte:"
+  },
+  "54caa76993250f48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1979-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regional n.º 14/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1979-378565), publicado em 1979-08-27."
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ proibida a plantação ou sementeira de pinheiros a menos de 15 m de terrenos cultivados e terras de cultura de regadio e a 25 m de prédios urbanos.\n\n§ único. Exceptuam-se do disposto neste artigo as plantações e sementeiras no caso de se reconhecer que a forma mais conveniente de aproveitamento do terreno em que estiveram radicadas e dos terrenos dos vizinhos é a arborização com aquela espécie.\n\n> Alterado pelo/a [Decreto Regional n.º 14/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1979-378565), publicado em 1979-08-27."
+  },
+  "707eb24738d92706": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAté à promulgação de regulamentação regional, o processo a observar para o arranque das plantações ou sementeiras feitas com a violação do artigo 1.º é o que consta dos Decretos-Leis n.os 28039 e 28040, de 14 de Setembro de 1937."
+  },
+  "b4015a024c55cf7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1979-08-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regional n.º 14/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1979-378565), publicado em 1979-08-27."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Quando se trate de plantações ou sementeiras de pinheiros feitas anteriormente à vigência do presente diploma e que à data da sua entrada em vigor estejam em contradição com o artigo 1.º, é reconhecido ao lesado o direito de requerer o arranque.\n\n2 - O exercício do direito previsto no número anterior dá lugar a indemnização, nos termos da legislação em vigor.\n\n> Alterado pelo/a [Decreto Regional n.º 14/79/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1979-378565), publicado em 1979-08-27."
+  },
+  "cf27127b3064c4eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPara efeitos do artigo 3.º só há direito à indemnização em relação a sementeiras ou plantações feitas ao abrigo de disposições legais anteriores ao presente decreto regional."
+  },
+  "14284ccabbb8706b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs funções adstritas pelo [Decreto-Lei n.º 28039](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28039-1937-434378) e pelo Decreto-Lei n.º 28040, de 14 de Setembro de 1937, ao júri avindor serão desempenhadas pelas juntas de freguesia da área onde estiverem radicadas as árvores a arrancar, com as necessárias adaptações."
+  },
+  "f3dc6a9d4fdcfaec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em sessão plenária de 17 de Junho de 1977.\n\nO Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.\n\nAssinado em 18 de Junho de 1977.\n\nO Ministro da República, Lino Dias Miguel."
+  }
+ }
+}

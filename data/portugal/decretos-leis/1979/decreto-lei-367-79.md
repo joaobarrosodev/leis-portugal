@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-03-12'
+version_history:
+  file: decreto-lei-367-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-09-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-03-12'
+    amending: pt:dre:193472:por
+    amending_title: Decreto-Lei n.º 43/86
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:21:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 43/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-367-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,7 +135,9 @@ Considerando, finalmente, que a legislação ainda vigente sobre prémios escola
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - As entidades oficiais, empresas públicas e entidades particulares poderão instituir prémios escolares destinados a contemplar um ou mais alunos:
+###### Artigo 1.º
+
+1 - As entidades oficiais, empresas públicas e entidades particulares poderão instituir prémios escolares destinados a contemplar um ou mais alunos:
 
 a) De um ou mais estabelecimentos, ainda que de graus de ensino diferentes;
 
@@ -139,9 +157,13 @@ c) Mérito e qualidades que o prémio visa distinguir.
 
 5 - Sempre que se verifique o disposto nos n.os 3 e 4 deste artigo, a entidade instituidora anexará ao respectivo requerimento, para aprovação, o regulamento do prémio.
 
-Art. 2.º O despacho do Ministro da Educação e Investigação Científica que autorizar a instituição dos prémios referidos no n.º 3 do artigo anterior será publicado no Diário da República e do mesmo constará o respectivo regulamento.
+###### Artigo 2.º
 
-Art. 3.º - 1 - O prémio deverá contemplar o aproveitamento escolar dos alunos e o mérito dos que se tenham destinguido, nomeadamente:
+O despacho do Ministro da Educação e Investigação Científica que autorizar a instituição dos prémios referidos no n.º 3 do artigo anterior será publicado no Diário da República e do mesmo constará o respectivo regulamento.
+
+###### Artigo 3.º
+
+1 - O prémio deverá contemplar o aproveitamento escolar dos alunos e o mérito dos que se tenham destinguido, nomeadamente:
 
 a) Pelo empenhamento no trabalho escolar;
 
@@ -151,7 +173,9 @@ c) Pela participação positiva simultaneamente em actividades escolares ou para
 
 2 - Não poderão ser atribuídos prémios a alunos a quem no ano escolar a que o prémio se refere tenha sido aplicada pena disciplinar superior à pena n.º 3 prevista na [Portaria n.º 679/77](https://diariodarepublica.pt/dr/detalhe/portaria/679-1977-277842), de 8 de Novembro.
 
-Art. 4.º - 1 - O valor de cada prémio será sempre constituído pelas seguintes parcelas:
+###### Artigo 4.º
+
+1 - O valor de cada prémio será sempre constituído pelas seguintes parcelas:
 
 a) Parcela pecuniária, de 80% a 90% do total do prémio;
 
@@ -159,17 +183,27 @@ b) Parcela comemorativa, de 10% a 20% do total do prémio.
 
 2 - A parcela referida na alínea b) do número anterior consistirá na conversão em espécie da respectiva percentagem, designadamente num livro ou publicação de natureza científica ou cultural que recorde o esforço desenvolvido pelos premiados.
 
-Art. 5.º - 1 - Se o prémio criado por uma entidade particular consistir numa importância pecuniária a despender anualmente pelo instituidor, deverá esta ser depositada na Caixa Geral de Depósitos, Crédito e Previdência ou nas suas agências até ao dia 15 de Outubro do ano escolar imediatamente anterior ao do vencimento do prémio, considerando-se este extinto caso o depósito não seja efectuado naquele prazo.
+###### Artigo 5.º
+
+1 - Se o prémio criado por uma entidade particular consistir numa importância pecuniária a despender anualmente pelo instituidor, deverá esta ser depositada na Caixa Geral de Depósitos, Crédito e Previdência ou nas suas agências até ao dia 15 de Outubro do ano escolar imediatamente anterior ao do vencimento do prémio, considerando-se este extinto caso o depósito não seja efectuado naquele prazo.
 
 2 - O depósito referido no número anterior será efectuado em nome do estabelecimento de ensino frequentado pelo aluno ou alunos a que o prémio se destina ou em nome da respectiva direcção de distrito escolar.
 
-Art. 6.º - 1 - Sempre que o prémio instituído por uma entidade particular consistir numa renda vitalícia, deverá esta ser constituída, nos termos legais em vigor e com a indicação expressa da sua finalidade, na Caixa Geral de Depósitos, Crédito e Previdência ou suas agências, em nome do estabelecimento ou direcção de distrito escolar a cujo aluno ou alunos se destina.
+###### Artigo 6.º
+
+1 - Sempre que o prémio instituído por uma entidade particular consistir numa renda vitalícia, deverá esta ser constituída, nos termos legais em vigor e com a indicação expressa da sua finalidade, na Caixa Geral de Depósitos, Crédito e Previdência ou suas agências, em nome do estabelecimento ou direcção de distrito escolar a cujo aluno ou alunos se destina.
 
 2 - A aprovação do prémio referido no número anterior, nos termos do disposto nos n.os 3, 4 e 5 do artigo 1.º do presente diploma, depende da apresentação na respectiva direcção-geral de ensino do documento comprovativo da constituição da renda vitalícia.
 
-Art. 7.º Se o prémio referido nos artigos 5.º e 6.º se destinar a contemplar aluno ou alunos de mais do que um estabelecimento do mesmo ou de diferente grau de ensino ou de mais do que um distrito escolar, a efectuação do depósito ou a instituição da renda vitalícia far-se-á em nome do Instituto de Tecnologia Educativa, respeitando-se em tudo o mais o estabelecido naqueles artigos.
+###### Artigo 7.º
 
-Art. 8.º - 1 - A identificação do aluno ou alunos premiados far-se-á nos termos do regulamento do prémio e de acordo com o disposto no presente diploma.
+Se o prémio referido nos artigos 5.º e 6.º se destinar a contemplar aluno ou alunos de mais de um estabelecimento do mesmo ou de diferente grau de ensino ou de mais de um distrito escolar, a efectuação do depósito ou a instituição da renda vitalícia far-se-ão em nome da respectiva direcção-geral de ensino, respeitando-se, em tudo o mais, o estabelecido naqueles artigos.
+
+> Alterado pelo/a [Decreto-Lei n.º 43/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1986-193472), publicado em 1986-03-07.
+
+###### Artigo 8.º
+
+1 - A identificação do aluno ou alunos premiados far-se-á nos termos do regulamento do prémio e de acordo com o disposto no presente diploma.
 
 2 - Compete ao director de escola, ao conselho directivo ou a quem as suas vezes fizer proceder à identificação do aluno ou alunos contemplados e elaborar da respectiva decisão documento justificativo, do qual:
 
@@ -185,27 +219,45 @@ c) Será remetida uma terceira cópia à entidade instituidora.
 
 5 - Da decisão das reclamações caberá recurso para o Ministro da Educação e Investigação Científica, sem efeito suspensivo.
 
-Art. 9.º - 1 - Compete à direcção ou direcções de distrito escolar proceder à identificação do aluno ou alunos premiados, e, sempre que se verifique o disposto na parte final da alínea b) do n.º 1 do artigo 1.º deste diploma, será efectuada uma reunião e elaborada acta comprovativa da identificação, respeitando-se em tudo o mais o estabelecido nos n.os 2, 3 e 4 do artigo anterior.
+###### Artigo 9.º
+
+1 - Compete à direcção ou direcções de distrito escolar proceder à identificação do aluno ou alunos premiados, e, sempre que se verifique o disposto na parte final da alínea b) do n.º 1 do artigo 1.º deste diploma, será efectuada uma reunião e elaborada acta comprovativa da identificação, respeitando-se em tudo o mais o estabelecido nos n.os 2, 3 e 4 do artigo anterior.
 
 2 - Se o prémio se destinar a contemplar um aluno ou alunos de mais do que um estabelecimento de ensino, ainda que de grau diferente, competirá aos directores de escola, aos presidentes dos respectivos conselhos directivos ou a quem as suas vezes fizer proceder à identificação do aluno ou alunos premiados em reunião para o efeito convocada, sendo elaborada acta comprovativa da decisão tomada, respeitando-se em tudo o mais o estabelecido nos n.os 2, 3 e 4 do artigo anterior.
 
-Art. 10.º Considera-se, para todos os efeitos legais, como serviço público o que vier a ser prestado nos termos dos artigos 8.º e 9.º do presente diploma.
+###### Artigo 10.º
 
-Art. 11.º Identificado o aluno ou alunos contemplados, o director de escola, o director de distrito escolar, o presidente do conselho directivo ou quem as suas vezes fizer deverão, no prazo de quinze dias, contado a partir da data de conclusão do processo de identificação, notificar o encarregado de educação do aluno ou alunos premiados ou o próprio aluno, caso este seja maior ou emancipado, da atribuição do prémio.
+Considera-se, para todos os efeitos legais, como serviço público o que vier a ser prestado nos termos dos artigos 8.º e 9.º do presente diploma.
 
-Art. 12.º - 1 - O quantitativo pecuniário do prémio será levantado pelo director de escola, director de distrito escolar, conselho directivo ou por quem as suas vezes fizer, consoante o caso.
+###### Artigo 11.º
 
-2 - Quando se verifique o disposto no artigo 7.º do presente diploma, o levantamento será efectuado pelo Instituto de Tecnologia Educativa, que, de imediato, deverá pôr à disposição do director de escola ou escolas, do director de distrito ou do conselho directivo do estabelecimento de ensino a que pertença o aluno ou alunos premiados as respectivas importâncias.
+Identificado o aluno ou alunos contemplados, o director de escola, o director de distrito escolar, o presidente do conselho directivo ou quem as suas vezes fizer deverão, no prazo de quinze dias, contado a partir da data de conclusão do processo de identificação, notificar o encarregado de educação do aluno ou alunos premiados ou o próprio aluno, caso este seja maior ou emancipado, da atribuição do prémio.
 
-Art. 13.º - 1 - O prémio deverá ser distribuído, nos termos do artigo 4.º deste decreto-lei, no prazo máximo de quarenta dias, contado a partir do levantamento referido no artigo anterior.
+###### Artigo 12.º
+
+1 - O quantitativo pecuniário do prémio será levantado pelo director de escola, director de distrito escolar, conselho directivo ou por quem as suas vezes fizer, consoante o caso.
+
+2 - Quando se verifique o disposto no artigo 7.º do presente diploma, o levantamento será efectuado pela respectiva direcção-geral de ensino, que, de imediato, deverá pôr à disposição do director da escola ou escolas, do director de distrito ou do conselho directivo do estabelecimento de ensino a que pertença o aluno ou alunos premiados as respectivas importâncias.
+
+> Alterado pelo/a [Decreto-Lei n.º 43/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1986-193472), publicado em 1986-03-07.
+
+###### Artigo 13.º
+
+1 - O prémio deverá ser distribuído, nos termos do artigo 4.º deste decreto-lei, no prazo máximo de quarenta dias, contado a partir do levantamento referido no artigo anterior.
 
 2 - A distribuição do prémio escolar será feita pelo director de escola, pelo director de distrito escolar, por um dos membros do conselho directivo ou por quem as suas vezes fizer, com a participação de um representante do conselho escolar ou do conselho pedagógico na classe ou turma a que o aluno ou alunos pertençam, na oportunidade mais conveniente, com respeito, porém, do prazo estabelecido no número anterior.
 
-Art. 14.º Mantêm-se os prémios escolares aprovados nos termos da legislação vigente à data da publicação do presente diploma se os respectivos regulamentos não se considerarem abrangidos pelas disposições constantes deste decreto-lei.
+###### Artigo 14.º
 
-Art. 15.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e investigação Científica.
+Mantêm-se os prémios escolares aprovados nos termos da legislação vigente à data da publicação do presente diploma se os respectivos regulamentos não se considerarem abrangidos pelas disposições constantes deste decreto-lei.
 
-Art. 16.º São revogadas todas as disposições legais em contrário, nomeadamente:
+###### Artigo 15.º
+
+As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Ministro da Educação e investigação Científica.
+
+###### Artigo 16.º
+
+São revogadas todas as disposições legais em contrário, nomeadamente:
 
 a) Os n.os 1 e 2 do artigo 75.º do Estatuto do Ciclo Preparatório do Ensino Secundário;
 

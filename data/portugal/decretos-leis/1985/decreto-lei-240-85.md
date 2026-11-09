@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-05-11'
+version_history:
+  file: decreto-lei-240-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-05-11'
+    amending: pt:dre:227439:por
+    amending_title: Decreto-Lei n.º 80/86
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:04:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 80/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-240-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,23 +140,37 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º Fica autorizada a celebração entre os Ministérios da Administração Interna e das Finanças e do Plano e a Caixa Geral de Depósitos (CGD) de um protocolo para abertura de uma linha de crédito a favor dos municípios, destinada ao financiamento de investimentos na Região Norte, até 1272000 contos, dos quais 912900 contos serão objecto de refinanciamento pelo Estado através da aplicação do produto dos empréstimos, do Fonds de Réétablissement du Conseil de l'Europe destinados a estes projectos.
+###### Artigo 1.º
 
-Art. 2.º - 1 - A coordenação dos investimentos a que se refere o artigo 1.º ficará a cargo da Comissão de Coordenação da Região do Norte (CCRN), que deverá para o efeito celebrar acordos de execução dos projectos com as autarquias envolvidas.
+Fica autorizada a celebração entre os Ministérios da Administração Interna e das Finanças e do Plano e a Caixa Geral de Depósitos (CGD) de um protocolo para abertura de uma linha de crédito a favor dos municípios, destinada ao financiamento de investimentos na Região Norte, até 1272000 contos, dos quais 912900 contos serão objecto de refinanciamento pelo Estado através da aplicação do produto dos empréstimos, do Fonds de Réétablissement du Conseil de l'Europe destinados a estes projectos.
+
+###### Artigo 2.º
+
+1 - A coordenação dos investimentos a que se refere o artigo 1.º ficará a cargo da Comissão de Coordenação da Região do Norte (CCRN), que deverá para o efeito celebrar acordos de execução dos projectos com as autarquias envolvidas.
 
 2 - A CCRN enviará aos Ministérios das Finanças e do Plano e da Administração Interna relatórios semestrais sobre a execução destes investimentos.
 
-Art. 3.º - 1 - A taxa de juro a praticar pela CGD relativamente a esta linha de crédito será equivalente à taxa legal máxima em vigor para operações de prazo idêntico, deduzida de 4% e de uma bonificação a suportar pela CGD idêntica à que esta instituição vier anualmente a praticar para as restantes linhas de crédito bonificadas para os municípios.
+###### Artigo 3.º
+
+1 - A taxa de juro a praticar pela Caixa Geral de Depósitos relativamente a esta linha de crédito será equivalente à taxa legal máxima em vigor para operações de prazo idêntico, deduzida de 15% da taxa contratual, com arredondamento para o quarto mais próximo, e de uma bonificação a suportar pela CGD pelo valor e nas condições a estabelecer no protocolo.
 
 2 - As restantes condições da linha de crédito serão idênticas às praticadas por esta instituição relativamente às restantes linhas de crédito aos municípios.
 
-Art. 4.º A transferência do produto dos empréstimos subscritos pelo Estado junto do FRCE será efectuada a favor da CGD à medida que esta instituição ponha à disposição dos municípios os fundos por ela mutuados ao abrigo da presente linha de crédito.
+> Alterado pelo/a [Decreto-Lei n.º 80/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1986-227439), publicado em 1986-05-06.
 
-Art. 5.º - 1 - Reverterá para o Estado a importância correspondente aos juros líquidos cobrados pela CGD dos municípios, deduzida de uma margem de 3% a favor da CGD, referente à parte da linha de crédito refinanciada pelo Estado com o produto dos empréstimos do FRCE.
+###### Artigo 4.º
+
+A transferência do produto dos empréstimos subscritos pelo Estado junto do FRCE será efectuada a favor da CGD à medida que esta instituição ponha à disposição dos municípios os fundos por ela mutuados ao abrigo da presente linha de crédito.
+
+###### Artigo 5.º
+
+1 - Reverterá para o Estado a importância correspondente aos juros líquidos cobrados pela CGD dos municípios, deduzida de uma margem de 3% a favor da CGD, referente à parte da linha de crédito refinanciada pelo Estado com o produto dos empréstimos do FRCE.
 
 2 - A CGD ainda porá à disposição do Estado os reembolsos cobrados dos municípios relativamente à parte da linha de crédito refinanciada pelo Estado com o produto dos empréstimos do FRCE.
 
-Art. 6.º - 1 - O Estado porá à disposição da CGD as verbas correspondentes à bonificação de 4% incidente sobre a parcela dos empréstimos aos municípios financiada com fundos próprios da CGD.
+###### Artigo 6.º
+
+1 - O Estado porá à disposição da CGD as verbas correspondentes à bonificação de 4% incidente sobre a parcela dos empréstimos aos municípios financiada com fundos próprios da CGD.
 
 2 - Em 1986 e anos seguintes fica autorizada a Direcção-Geral do Tesouro a inscrever no capítulo 60 «Despesas excepcionais» do orçamento do Ministério das Finanças e do Plano as dotações necessárias ao pagamento das bonificações a cargo do Estado com a referida linha de crédito.
 

@@ -1,0 +1,134 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:509204:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1967-03-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a45108b507300dff"
+   ]
+  },
+  {
+   "date": "1975-02-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:160296:por",
+     "title": "Decreto-Lei n.º 62/75",
+     "published": "1975-02-19",
+     "dre_path": "/dr/detalhe/decreto-lei/62-1975-160296"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "8e58554ab5cd1c5a",
+    "01b0570a5ee1c947",
+    "c303226bbbdf668c",
+    "412d46f355e4a42c",
+    "2ad0070df71857a3",
+    "cd4e7cdb2a46d50c",
+    "cc09749c52fa302d",
+    "335a85139a9a2f78",
+    "fd826db3834e0cc5"
+   ]
+  }
+ ],
+ "fragments": {
+  "a45108b507300dff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330) e pelo [Decreto n.º 46926](https://diariodarepublica.pt/dr/detalhe/decreto/46926-1966-486331), ambos de 29 de Março de 1966, foi reorganizado o sistema nacional de estatística, atribuindo-se-lhe meios mais amplos para o desempenho das suas funções.\n\nReconhece-se, neste momento, a conveniência de proceder, paralelamente, à remodelação da orgânica dos centros de estudos económicos e demográficos anexos ao Instituto Nacional de Estatística, criados pelo [Decreto-Lei n.º 33274](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33274-1943-405970), de 24 de Novembro de 1943, em ordem a facultar-lhes condições mais eficientes de funcionamento, dado tratar-se de órgãos cuja colaboração com o sistema estatístico importa desenvolver e aperfeiçoar.\n\nAquela remodelação tem essencialmente em vista:\n\na) Uniformizar as leis orgânicas dos dois centros de estudos;\n\nb) Concentrar a matéria dispersa pela legislação publicada posteriormente ao mencionado [Decreto-Lei n.º 33274](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33274-1943-405970); e, sobretudo,\n\nc) Simplificar as suas estruturas e formas de actuação.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. Anexos ao Instituto Nacional de Estatística poderão ser criados centros de estudo especializados.\n\n2. Os centros serão criados mediante portaria do Presidente do Conselho, da qual constarão as atribuições de cada centro e as normas específicas sobre a sua constituição e funcionamento.\n\nArt. 2.º Aos centros de estudo compete, em geral:\n\n1.º Aproveitar em trabalhos de investigação sistemática os dados estatísticos recolhidos pelo Instituto;\n\n2.º Assegurar a cooperação entre o Instituto e os centros universitários e estabelecimentos de investigação científica, nacionais e estrangeiros;\n\n3.º Propor ao Instituto tudo o que se lhes afigure conveniente, em relação aos serviços àquele confiados, para a prossecução das actividades previstas nos números anteriores;\n\n4.º Organizar, com a colaboração do Instituto, inquéritos, pesquisas ou investigações especiais necessários à realização dos seus fins;\n\n5.º Efectuar quaisquer outros estudos ou trabalhos que lhes sejam atribuídos nos diplomas que os constituam, ou de que sejam incumbidos pelo Presidente do Conselho;\n\n6.º Editar uma revista para divulgação dos trabalhos da sua competência;\n\n7.º Publicar na revista ou por outros meios os trabalhos realizados nos termos dos n.os 1.º e 2.º ou outros de reconhecido interesse.\n\nArt. 3.º - 1. O director do Instituto, como presidente das direcções dos centros, e o director da revista dos centros têm direito a gratificação mensal, a fixar pelo Presidente do Conselho, ouvido o Ministro das Finanças.\n\n2. Aos vogais da direcção de cada centro serão abonadas senhas de presença, a fixar nos termos do número anterior.\n\nArt. 4.º - 1. Os trabalhos realizados pelos membros dos centros, ou por pessoas a estes estranhas e que deles tenham sido incumbidas, poderão ser remunerados por força de verba inscrita no Orçamento Geral do Estado.\n\n2. As remunerações serão fixadas pelo Presidente do Conselho, sob proposta da respectiva direcção.\n\nArt. 5.º - 1. Os membros dos centros que tiverem de se deslocar da localidade da sua residência habitual para assistir às reuniões para que forem convocados terão direito a ajudas de custo e despesas de transporte.\n\n2. Para esse efeito, os que não sejam funcionários do Estado ou dos corpos administrativos serão equiparados aos professores do ensino superior.\n\nArt. 6.º - 1. É aditado ao mapa do pessoal do Instituto Nacional de Estatística, anexo ao [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), de 29 de Março de 1966, como pertencente aos serviços centrais, o lugar de secretário dos centros de estudo, criado pelo artigo 7.º do Decreto n.º 33274, de 24 de Novembro de 1943, com a categoria e vencimento atribuídos neste preceito.\n\n2. O actual serventuário do cargo continua no exercício de funções, independentemente de quaiquer formalidades.\n\nArt. 7.º Continuam em funcionamento, com observância do disposto no presente diploma e no seu regulamento, e com os fins específicos a cada um deles atribuídos, o Centro de Estudos Económicos e o Centro de Estudos Demográficos, criados, respectivamente, pela [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944, e pela [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944.\n\nArt. 8.º Ficam revogados:\n\na) O [Decreto-Lei n.º 33274](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33274-1943-405970), de 24 de Novembro de 1943;\n\nb) O [Decreto-Lei n.º 33528](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33528-1944-272416), de 14 de Fevereiro de 1944;\n\nc) A [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944;\n\nd) A [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944;\n\ne) A [Portaria n.º 13505](https://diariodarepublica.pt/dr/detalhe/portaria/13505-1951-331195), de 12 de Abril de 1951.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 30 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  },
+  "8e58554ab5cd1c5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330) e pelo [Decreto n.º 46926](https://diariodarepublica.pt/dr/detalhe/decreto/46926-1966-486331), ambos de 29 de Março de 1966, foi reorganizado o sistema nacional de estatística, atribuindo-se-lhe meios mais amplos para o desempenho das suas funções.\n\nReconhece-se, neste momento, a conveniência de proceder, paralelamente, à remodelação da orgânica dos centros de estudos económicos e demográficos anexos ao Instituto Nacional de Estatística, criados pelo [Decreto-Lei n.º 33274](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33274-1943-405970), de 24 de Novembro de 1943, em ordem a facultar-lhes condições mais eficientes de funcionamento, dado tratar-se de órgãos cuja colaboração com o sistema estatístico importa desenvolver e aperfeiçoar.\n\nAquela remodelação tem essencialmente em vista:\n\na) Uniformizar as leis orgânicas dos dois centros de estudos;\n\nb) Concentrar a matéria dispersa pela legislação publicada posteriormente ao mencionado [Decreto-Lei n.º 33274](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33274-1943-405970); e, sobretudo,\n\nc) Simplificar as suas estruturas e formas de actuação.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "01b0570a5ee1c947": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Anexos ao Instituto Nacional de Estatística poderão ser criados centros de estudo especializados.\n\n2. Os centros serão criados mediante portaria do Presidente do Conselho, da qual constarão as atribuições de cada centro e as normas específicas sobre a sua constituição e funcionamento."
+  },
+  "c303226bbbdf668c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1975-02-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 62/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1975-160296), publicado em 1975-02-19."
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs centros de estudo são constituídos pelo director e por individualidades de reconhecido mérito nas matérias das respectivas atribuições.\n\n> Alterado pelo/a [Decreto-Lei n.º 62/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1975-160296), publicado em 1975-02-19."
+  },
+  "412d46f355e4a42c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1975-02-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 62/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1975-160296), publicado em 1975-02-19."
+   ],
+   "markdown": "###### Artigo 3.º\n\nAos centros de estudo compete, em geral:\n\n1.º Suscitar e apoiar o aproveitamento de trabalhos de investigação dos dados estatísticos no domínio que lhes seja definido no diploma que os constituam;\n\n2.º Promover a realização de investigações, pesquisas ou inquéritos especiais necessários à prossecução dos seus fins;\n\n3.º Efectuar quaisquer outros estudos ou trabalhos que lhes sejam atribuídos nos diplomas que os constituam;\n\n4.º Assegurar as ligações e a cooperação entre o Instituto e os centros universitários e estabelecimentos de investigação científica nacionais e estrangeiros;\n\n5.º Editar uma revista para divulgação dos trabalhos da sua competência;\n\n6.º Publicar na revista ou por outros meios os trabalhos realizados nos termos dos n.os 1.º e 2.º ou outros de reconhecido interesse.\n\n> Alterado pelo/a [Decreto-Lei n.º 62/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1975-160296), publicado em 1975-02-19."
+  },
+  "2ad0070df71857a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os trabalhos realizados pelos membros dos centros, ou por pessoas a estes estranhas e que deles tenham sido incumbidas, poderão ser remunerados por força de verba inscrita no Orçamento Geral do Estado.\n\n2. As remunerações serão fixadas pelo Presidente do Conselho, sob proposta da respectiva direcção."
+  },
+  "cd4e7cdb2a46d50c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os membros dos centros que tiverem de se deslocar da localidade da sua residência habitual para assistir às reuniões para que forem convocados terão direito a ajudas de custo e despesas de transporte.\n\n2. Para esse efeito, os que não sejam funcionários do Estado ou dos corpos administrativos serão equiparados aos professores do ensino superior."
+  },
+  "cc09749c52fa302d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. É aditado ao mapa do pessoal do Instituto Nacional de Estatística, anexo ao [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), de 29 de Março de 1966, como pertencente aos serviços centrais, o lugar de secretário dos centros de estudo, criado pelo artigo 7.º do Decreto n.º 33274, de 24 de Novembro de 1943, com a categoria e vencimento atribuídos neste preceito.\n\n2. O actual serventuário do cargo continua no exercício de funções, independentemente de quaiquer formalidades."
+  },
+  "335a85139a9a2f78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1975-02-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 62/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1975-160296), publicado em 1975-02-19."
+   ],
+   "markdown": "###### Artigo 7.º\n\nContinuam em funcionamento, com observância do disposto no presente diploma e com os fins específicos a cada um deles atribuído, o Centro de Estudos Económicos e o Centro de Estudos Demográficos, criados, respectivamente pela [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944, e pela [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944.\n\n> Alterado pelo/a [Decreto-Lei n.º 62/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1975-160296), publicado em 1975-02-19."
+  },
+  "fd826db3834e0cc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nFicam revogados:\n\na) O [Decreto-Lei n.º 33274](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33274-1943-405970), de 24 de Novembro de 1943;\n\nb) O [Decreto-Lei n.º 33528](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33528-1944-272416), de 14 de Fevereiro de 1944;\n\nc) A [Portaria n.º 10600](https://diariodarepublica.pt/dr/detalhe/portaria/10600-1944-272419), de 14 de Fevereiro de 1944;\n\nd) A [Portaria n.º 10619](https://diariodarepublica.pt/dr/detalhe/portaria/10619-1944-273055), de 11 de Março de 1944;\n\ne) A [Portaria n.º 13505](https://diariodarepublica.pt/dr/detalhe/portaria/13505-1951-331195), de 12 de Abril de 1951.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 30 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  }
+ }
+}

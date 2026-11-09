@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-06-02'
+version_history:
+  file: decreto-69-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-06-02'
+    amending: pt:dre:383830:por
+    amending_title: Decreto-Lei n.º 166/79
+    changes:
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:51:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 166/79. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1978/decreto-69-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -203,27 +218,47 @@ Nestes termos, ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º O quadro do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Cultura a que se refere o mapa anexo ao [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, é substituído pelo mapa I anexo ao presente diploma.
+###### Artigo 1.º
 
-Art. 2.º É criado o quadro de pessoal administrativo, técnico auxiliar e auxiliar dos órgãos e serviços centrais do Ministério da Educação e Cultura, previsto no artigo 27.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), cuja composição consta no mapa II anexo a este diploma.
+O quadro do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Cultura a que se refere o mapa anexo ao [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, é substituído pelo mapa I anexo ao presente diploma.
 
-Art. 3.º A categoria de especialista prevista no [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734) e demais legislação complementar passa a designar-se técnico principal.
+###### Artigo 2.º
 
-Art. 4.º Os lugares de chefe de repartição serão providos por escolha do Ministro da Educação e Cultura, de entre indivíduos diplomados com curso superior adequado ou de entre chefes de secção ou técnicos auxiliares contabilistas e de programação de 1.ª classe do Ministério da Educação e Cultura, com reconhecida experiência administrativa e com pelo menos três anos de bom e efectivo serviço nestas categorias.
+É criado o quadro de pessoal administrativo, técnico auxiliar e auxiliar dos órgãos e serviços centrais do Ministério da Educação e Cultura, previsto no artigo 27.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), cuja composição consta no mapa II anexo a este diploma.
 
-Art. 5.º - 1 - É extinta a categoria de técnico de 3.ª classe prevista no [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734) e demais legislação complementar, sem prejuízo do disposto nos números seguintes.
+###### Artigo 3.º
+
+A categoria de especialista prevista no [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734) e demais legislação complementar passa a designar-se técnico principal.
+
+###### Artigo 4.º
+
+Os lugares de chefe de repartição serão providos por escolha do Ministro da Educação e Cultura, de entre indivíduos diplomados com curso superior adequado ou de entre chefes de secção ou técnicos auxiliares contabilistas e de programação de 1.ª classe do Ministério da Educação e Cultura, com reconhecida experiência administrativa e com pelo menos três anos de bom e efectivo serviço nestas categorias.
+
+###### Artigo 5.º
+
+1 - É extinta a categoria de técnico de 3.ª classe prevista no [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734) e demais legislação complementar, sem prejuízo do disposto nos números seguintes.
 
 2 - Os técnicos de 3.ª classe que reúnam as habilitações académicas exigidas por lei serão colocados em lugar de categoria superior.
 
 3 - Manter-se-ão na mesma categoria os actuais técnicos de 3.ª classe que não possam ascender a categoria superior por falta de habilitações académicas, sendo os seus lugares extintos à medida que vagarem.
 
-Art. 6.º O pessoal que presta serviço no Ministério da Educação e Cultura há pelo menos três anos, contados à data da entrada em vigor deste diploma, poderá, independentemente do vínculo que possua, ser colocado nos novos quadros, mediante listas nominativas aprovadas pelo Ministro da Educação e Cultura, sem redução de direitos adquiridos, independentemente de quaisquer formalidades legais, salvo o visto do Tribunal de Contas e a publicação no Diário da República, sem prejuízo, porém, das habilitações académicas exigidas por lei.
+###### Artigo 6.º
 
-Art. 7.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Cultura ou por despacho conjunto dos Ministros das Finanças e do Plano, da Reforma Administrativa e da Educação e Cultura, consoante a sua natureza.
+O pessoal que presta serviço no Ministério da Educação e Cultura há pelo menos três anos, contados à data da entrada em vigor deste diploma, poderá, independentemente do vínculo que possua, ser colocado nos novos quadros, mediante listas nominativas aprovadas pelo Ministro da Educação e Cultura, sem redução de direitos adquiridos, independentemente de quaisquer formalidades legais, salvo o visto do Tribunal de Contas e a publicação no Diário da República, sem prejuízo, porém, das habilitações académicas exigidas por lei.
 
-Art. 8.º O acréscimo de encargos resultante da execução do presente diploma será suportado, no corrente ano, pelas disponibilidades apuradas nas dotações respectivas, inscritas em «Remunerações certas e permanentes», no capítulo 02 do orçamento do Ministério da Educação e Cultura.
+###### Artigo 7.º
 
-Art. 9.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1978.
+As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Cultura ou por despacho conjunto dos Ministros das Finanças e do Plano, da Reforma Administrativa e da Educação e Cultura, consoante a sua natureza.
+
+###### Artigo 8.º
+
+O acréscimo de encargos resultante da execução do presente diploma será suportado, no corrente ano, pelas disponibilidades apuradas nas dotações respectivas, inscritas em «Remunerações certas e permanentes», no capítulo 02 do orçamento do Ministério da Educação e Cultura.
+
+###### Artigo 9.º
+
+Independentemente da data em que se verificar a colocação do pessoal nos novos quadros, nos termos do artigo 6.º do presente diploma, considera-se que, para efeitos de pagamento de remunerações e cálculo de antiguidades, as respectivas colocações se efectuaram em 1 de Janeiro de 1978.
+
+> Alterado pelo/a [Decreto-Lei n.º 166/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1979-383830), publicado em 1979-06-02.
 
 Mário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena - Mário Augusto Sottomayor Leal Cardia.
 

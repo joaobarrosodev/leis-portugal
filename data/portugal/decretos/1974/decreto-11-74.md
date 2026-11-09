@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-08-09'
+version_history:
+  file: decreto-11-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-01-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-08-09'
+    amending: pt:dre:314444:por
+    amending_title: Decreto n.º 418/75
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:32:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 418/75. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1974/decreto-11-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,13 +126,21 @@ Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
 
-Artigo 1.º É autorizado o Governo de Macau a segurar ao Banco Nacional Ultramarino e ao Banco de Fomento Nacional, ou a qualquer deles, os riscos emergentes das garantias bancárias que vierem a ser prestadas e dos créditos documentários que vierem a ser abertos até ao montante total em capital de 4000 milhões de ienes, acrescidos dos juros e demais encargos que forem devidos, e, ainda, a assumir a responsabilidade por diferenças de câmbio que porventura se verificarem, tudo em consequência do contrato de adjudicação da central termoeléctrica de Coloane, a realizar, em regime de pagamentos diferidos, entre a Companhia de Electricidade de Macau, S. A. R. L. e a empresa japonesa Mitsubishi Corporation.
+###### Artigo 1.º
 
-Art. 2.º - 1. As operações financeiras a realizar pelos dois Bancos ou por qualquer deles, com contragarantia do Governo de Macau, serão as estipuladas no contrato a firmar entre a Companhia de Electricidade de Macau, S. A. R. L., e a Mitsubishi Corporation, respeitante à adjudicação a que se alude no artigo precedente.
+É autorizado o Governo de Macau a segurar ao Banco Nacional Ultramarino e ao Banco de Fomento Nacional, ou a qualquer deles, os riscos emergentes das garantias bancárias que vierem a ser prestadas e dos créditos documentários que vierem a ser abertos até ao montante total em capital de 4500 milhões de ienes, acrescidos dos juros e demais encargos que forem devidos, e, ainda, a assumir a responsabilidade por diferenças de câmbio que porventura se verificarem, tudo em consequência do contrato de adjudicação da central termoeléctrica de Coloane, realizado, em regime de pagamentos diferidos, entre a Companhia de Electricidade de Macau, S. A. R. L., e a empresa japonesa Mitsubishi Corporation.
+
+> Alterado pelo/a [Decreto n.º 418/75](https://diariodarepublica.pt/dr/detalhe/decreto/418-1975-314444), publicado em 1975-08-09.
+
+###### Artigo 2.º
+
+1. As operações financeiras a realizar pelos dois Bancos ou por qualquer deles, com contragarantia do Governo de Macau, serão as estipuladas no contrato a firmar entre a Companhia de Electricidade de Macau, S. A. R. L., e a Mitsubishi Corporation, respeitante à adjudicação a que se alude no artigo precedente.
 
 2. As condições do contrato a celebrar nos termos do número anterior ficam sujeitas à aprovação do Governador de Macau.
 
-Art. 3.º A província de Macau gozará de privilégio creditório sobre a Companhia de Electricidade de Macau, S. A. R. L., nos termos dos artigos 735.º, n.º 2, 747.º, n.º 1, alínea a), e 748.º, n.º 1, alínea a), do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.
+###### Artigo 3.º
+
+A província de Macau gozará de privilégio creditório sobre a Companhia de Electricidade de Macau, S. A. R. L., nos termos dos artigos 735.º, n.º 2, 747.º, n.º 1, alínea a), e 748.º, n.º 1, alínea a), do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.
 
 Marcello Caetano - Baltasar Leite Rebelo de Sousa.
 

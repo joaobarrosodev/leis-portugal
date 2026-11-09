@@ -38,10 +38,59 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-03-11'
+version_history:
+  file: decreto-lei-271-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-11-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-03-11'
+    amending: pt:dre:371872:por
+    amending_title: Decreto-Lei n.º 80/2001
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/271/1992/11/30/p/dre/pt/html
@@ -67,7 +116,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:19:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 80/2001. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-271-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -170,257 +220,135 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º — Natureza
 
-1 - A Inspecção-Geral da Segurança Social, adiante designada por IGSS, é um serviço central de inspecção e fiscalização da estrutura orgânica do Ministério do Emprego e da Segurança Social, abreviadamente referido por MESS, para a área da segurança social.
+(Revogado.)
 
-2 - A IGSS exerce a sua acção sobre os órgãos, serviços e instituições do sistema de segurança social, bem como sobre as instituições privadas não lucrativas que prossigam fins lucrativos análogos aos daquelas instituições.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 2.º — Objectivos
 
-1 - A acção da IGSS visa essencialmente verificar:
+(Revogado.)
 
-a) O cumprimento das leis e regulamentos;
-
-b) O bom funcionamento dos órgãos, serviços e instituições;
-
-c) A eficácia da gestão e administração;
-
-d) A regularidade das operações financeiras;
-
-e) A legalidade dos processos e decisões;
-
-f) A adequação das normas em vigor e a eventual necessidade de adopção de novas providências;
-
-g) O cumprimento das disposições normativas referentes à cobrança da dívida à segurança social.
-
-2 - No exercício das suas atribuições, a IGSS participa na realização dos fins do sistema, desenvolve acções de prevenção e correcção e articula-se com os demais órgãos, serviços e instituições.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 3.º — Atribuições
 
-São atribuições da IGSS:
+(Revogado.)
 
-a) Realizar acções de inspecção, fiscalização e auditoria nos domínios da gestão em geral, da aplicação dos regimes de segurança social e das modalidades de acção social, bem como da utilização adequada dos meios financeiros;
-
-b) Propor e determinar medidas preventivas e correctivas que resultem da apreciação feita no decorrer das acções efectuadas;
-
-c) Transmitir aos órgãos, serviços e instituições do sistema de segurança social, bem como às instituições particulares de solidariedade social, os resultados da actividade desenvolvida, verificando o cumprimento das medidas necessárias e adequadas à rectificação das anomalias, irregularidades e deficiências registadas;
-
-d) Detectar, para estudo nos serviços competentes, divergências na aplicação de normas e procedimentos, inteirando-se das respectivas motivações, de modo a conseguir-se uma indispensável uniformidade;
-
-e) Colaborar e participar, com os serviços centrais e instituições, no estudo e elaboração de projectos de diplomas legislativos respeitantes a problemas relacionados com aspectos jurídicos, económicos, financeiros e administrativos do sistema;
-
-f) Realizar inspecções ordinárias e extraordinárias, bem como efectuar inquéritos, averiguações, sindicâncias, peritagens e exames;
-
-g) Propor, na sequência da sua acção, a instauração de processos disciplinares e instruir os que lhe forem superiormente determinados ou solicitados;
-
-h) Promover análises comparativas das várias acções empreendidas pela IGSS, com vista ao aperfeiçoamento do sistema, e elaborar informações e pareceres sobre matérias das suas atribuições;
-
-i) Exercer quaisquer outras funções impostas por lei ou que lhe sejam determinadas superiormente.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ### CAPÍTULO II — Estrutura orgânica e competências dos serviços
 
 ###### Artigo 4.º — Direcção
 
-1 - A IGSS é dirigida por um inspector-geral, coadjuvado por um subinspector-geral.
+(Revogado.)
 
-2 - O inspector-geral e o subinspector-geral são equiparados, respectivamente, a director-geral e a subdirector-geral.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 5.º — Competência do inspector-geral
 
-1 - Além das competências que lhe estão conferidas nos termos do disposto no [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, compete, em especial, ao inspector-geral:
+(Revogado.)
 
-a) Submeter a aprovação superior o plano anual das acções a realizar pela IGSS, designadamente as de auditoria previstas na alínea a) do artigo 3.º;
-
-b) Determinar ou propor superiormente as acções inerentes ao exercício das atribuições da IGSS, nomeadamente a realização de inspecções ordinárias e extraordinárias, inquéritos, sindicâncias, averiguações, peritagens e exames;
-
-c) Propor superiormente ou determinar as medidas preventivas e correctivas decorrentes das actividades da IGSS;
-
-d) Fixar o início e os prazos de execução das acções da IGSS, bem como designar o pessoal que lhes deve dar cumprimento, podendo avocar, a todo o momento, qualquer processo;
-
-e) Representar a IGSS em juízo e fora dele.
-
-2 - O inspector-geral poderá cometer ao subinspector-geral a coordenação e superintendência de domínios de actividade específicos, para o que delegará as competências adequadas.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 6.º — Serviços
 
-1 - Para o cumprimento das atribuições que lhe estão cometidas, a IGSS compreende os seguintes serviços:
+(Revogado.)
 
-a) Serviço de Auditoria (SA);
-
-b) Serviço de Inspecção dos Serviços e Organismos Oficiais (SISOO);
-
-c) Serviço de Inspecção das Instituições Particulares de Solidariedade Social (SIIPSS);
-
-d) Repartição Administrativa (RA).
-
-2 - O Serviço de Auditoria é dirigido directamente pelo subinspector-geral.
-
-3 - O Serviço de Inspecção dos Serviços e Organismos Oficiais e das Instituições Particulares de Solidariedade Social são dirigidos por directores de serviços.
-
-4 - Na dependência do inspector-geral, ou de quem ele designar, funciona o Núcleo de Apoio Técnico aos Processos.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 7.º — Serviço de Auditoria
 
-1 - O SA realiza as acções necessárias ao exercício das atribuições previstas no artigo 3.º e visa, em especial:
+(Revogado.)
 
-a) A avaliação da actividade global dos órgãos, serviços e instituições do sistema de segurança social, em termos de economia, eficiência e eficácia, designadamente através do controlo financeiro e orçamental e do acompanhamento da execução dos projectos e acções;
-
-b) Proceder a intervenções temáticas com o fim de fiscalizar pormenorizadamente aspectos específicos relevantes das actividades dos órgãos, serviços e instituições do sistema de segurança social, utilizando-se, sempre que tal se mostre necessário, o método de amostragem;
-
-c) Apreciar os resultados obtidos nos domínios das acções de auditoria e dos outros serviços de inspecção e propor os objectivos a prosseguir.
-
-2 - O SA compreende o pessoal das várias carreiras e categorias que lhe for afectado por despacho do inspector-geral.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 8.º — Serviço de Inspecção dos Serviços e Organismos Oficiais
 
-1 - O SISOO realiza, na sua área de actuação, as acções necessárias ao exercício das atribuições a que se refere o artigo 3.º
+(Revogado.)
 
-2 - O SISOO compreende o pessoal das várias carreiras e categorias que lhe for afectado por despacho do inspector-geral.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 9.º — Serviço de Inspecção das Instituições Particulares de Solidariedade Social
 
-1 - O SIIPSS realiza, na sua área de actuação, as acções necessárias à prossecução das atribuições estabelecidas no artigo 3.º
+(Revogado.)
 
-2 - Sem prejuízo da fiscalização que cabe aos centros regionais de segurança social, compete, em especial, aos SIIPSS velar:
-
-a) Pelo cumprimento das normas legais que regulamentam as instituições, nomeadamente quanto às condições de admissão e comparticipação dos utentes;
-
-b) Pelo cumprimento dos acordos de cooperação celebrados com órgãos, serviços e instituições do sistema de segurança social;
-
-c) Pela correcta aplicação dos subsídios oficiais.
-
-3 - O SIIPSS compreende o pessoal das várias carreiras e categorias que lhe for afectado por despacho do inspector-geral.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 10.º — Repartição Administrativa
 
-1 - A RA é um serviço de gestão interna e apoio administrativo e compreende as Secções de Pessoal e Assuntos Gerais e de Administração Financeira e Patrimonial.
+(Revogado.)
 
-2 - Compete à Secção de Pessoal e Assuntos Gerais:
-
-a) Realizar todas as acções relativas ao recrutamento, selecção, provimento, promoção, exoneração e aposentação do pessoal;
-
-b) Assegurar, mantendo-o organizado e actualizado, o cadastro do pessoal, elaborar a lista de antiguidades e efectuar o controlo da assiduidade e pontualidade;
-
-c) Superintender no pessoal auxiliar;
-
-d) Executar as demais acções relativas aos recursos humanos da IGSS;
-
-e) Proceder à recepção, registo, classificação e expedição de correspondência;
-
-f) Garantir a circulação das normas de funcionamento e restante legislação aplicável à IGSS;
-
-g) Assegurar o correcto funcionamento dos serviços de reprografia e velar pela manutenção dos ficheiros, registos e arquivos;
-
-h) Executar as restantes tarefas que superiormente lhe forem cometidas.
-
-3 - Compete à Secção de Administração Financeira e Patrimonial:
-
-a) Preparar o projecto de orçamento da IGSS e acompanhar a respectiva execução;
-
-b) Assegurar os procedimentos administrativos relativos ao processamento e pagamento das remunerações do pessoal da IGSS;
-
-c) Instruir e efectuar, de acordo com a lei, os processos relativos às despesas inerentes ao funcionamento da IGSS, designadamente os relativos à aquisição de bens e serviços;
-
-d) Organizar e manter actualizado um inventário dos bens, móveis e imóveis, e zelar pela sua conservação e segurança;
-
-e) Gerir as viaturas ao serviço da IGSS;
-
-f) Executar as demais tarefas que superiormente lhe forem cometidas.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 11.º — Núcleo de Apoio Técnico aos Processos
 
-Ao Núcleo de Apoio Técnico aos Processos compete:
+(Revogado.)
 
-a) Reunir e distribuir os instrumentos de apoio técnico especializado, necessários à organização dos processos técnicos da IGSS;
-
-b) Desempenhar as tarefas relativas à movimentação dos processos técnicos da IGSS, designadamente quanto à sua entrada, classificação, registo, conclusão e preparação para despacho superior;
-
-c) Proceder ao acompanhamento dos inspectores e dos trabalhos dos processos técnicos da IGSS;
-
-d) Organizar o arquivo dos processos técnicos da IGSS, elaborando a estatística do seu movimento anual;
-
-e) Colaborar na elaboração do plano anual das acções a realizar pela IGSS;
-
-f) Proceder ao tratamento e divulgação da documentação nacional e internacional sobre matérias das atribuições da IGSS;
-
-g) Proceder ao tratamento de texto e reprodução dos processos técnicos da IGSS.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ### CAPÍTULO III — Funcionamento
 
 ###### Artigo 12.º — Autonomia técnica
 
-A IGSS, no exercício das suas atribuições, goza de autonomia técnica, regendo-se a sua actuação pelas disposições legais vigentes e pelas determinações e orientações do Ministro do Emprego e da Segurança Social.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 13.º — Constituição de equipas
 
-1 - Os serviços referidos no artigo 6.º funcionam por planos de acção e programas, mediante a constituição de equipas, com vista ao melhor aproveitamento da preparação e experiência profissionais do pessoal técnico superior de inspecção que lhes esteja afecto.
+(Revogado.)
 
-2 - O número e a composição das equipas são definidos por despacho do inspector-geral.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 14.º — Princípios de gestão
 
-1 - A IGSS observa na sua gestão os seguintes princípios:
+(Revogado.)
 
-a) Gestão por objectivos;
-
-b) Controlo financeiro de resultados;
-
-c) Informação permanente da evolução orçamental.
-
-2 - Na programação e controlo utilizam-se como instrumentos básicos:
-
-a) Os planos de actividades;
-
-b) O orçamento anual;
-
-c) Os relatórios de actividades.
-
-3 - Na elaboração dos planos de actividades serão definidas e calendarizadas as acções a desenvolver, fixando-se prioridades e áreas de actuação.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 15.º — Questionário das inspecções ordinárias
 
-As inspecções ordinárias obedecem a questionários sistemáticos, que deverão abranger os aspectos essenciais à averiguação da legalidade, da eficácia e da regularidade financeira do funcionamento dos serviços e instituições inspeccionados.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 16.º — Verificação dos resultados das acções
 
-1 - A IGSS controla os efeitos da execução das suas acções, entre outros meios, através de relatórios apresentados pelos serviços e instituições, com o objectivo de se conseguir a correcção ou reparação das irregularidades, deficiências ou anomalias encontradas e, nomeadamente, verificará a efectivação das penas aplicadas em consequência de processos disciplinares por si instruídos ou instaurados.
+(Revogado.)
 
-2 - Para cumprimento do disposto no número anterior, os serviços e instituições darão conhecimento à IGSS das providências e decisões adoptadas em consequência de quaisquer acções por ela desenvolvidas.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 17.º — Duração e relatório das acções
 
-1 - As acções deverão ser iniciadas e concluídas dentro do prazo que, para cada caso, for superiormente fixado.
+(Revogado.)
 
-2 - Excepcionalmente, poderá ser concedida prorrogação do prazo, desde que comprovadamente tal se justifique.
-
-3 - No final de cada acção será elaborado relatório dos trabalhos realizados, para o que se concederá o respectivo prazo, e, além de outros casos em que tal seja considerado necessário, quando se trate de inspecção, deverá dele constar a enumeração das providências que se entenda devam ser adoptadas.
-
-4 - O relatório acompanha sempre o respectivo processo, devendo este ser entregue para despacho superior após o termo do prazo concedido para elaboração daquele, salvo se houver sido concedida prorrogação por despacho do inspector-geral.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 18.º — Requisição de testemunhas ou declarantes
 
-1 - A comparência para prestação de declarações ou depoimentos, em processos de inspecção, inquérito, averiguação, sindicância ou disciplinares, de funcionários ou agentes do Estado ou das autarquias locais, bem como de trabalhadores do sector público empresarial, deverá ser requisitada à entidade a que prestam serviço.
+(Revogado.)
 
-2 - A notificação para comparência, para os efeitos referidos no número anterior, de membros dos corpos sociais ou de trabalhadores das instituições particulares de solidariedade social deverá ser feita aos próprios e, no segundo caso, com conhecimento dos primeiros, podendo ainda, observadas as disposições aplicáveis do Código de Processo Penal, ser requisitada às autoridades policiais.
-
-3 - As declarações e depoimentos mencionados nos números anteriores devem ser colhidos no município de residência dos respectivos autores ou, quando conhecida, na localidade de trabalho ou actividade profissional do declarante ou deponente.
-
-4 - Toda a pessoa notificada ou avisada que não compareça no dia, hora e local designados nem justifique a falta será punida nos termos da lei, sem prejuízo do procedimento disciplinar a que haja lugar.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 19.º — Dever de cooperação
 
-Os dirigentes de qualquer serviço do Estado e do sector público empresarial, os membros dos órgãos autárquicos e as demais autoridades públicas, bem como os corpos sociais das instituições particulares de solidariedade social, têm o dever de prestar a colaboração e, do mesmo modo, os elementos, informações e esclarecimentos que lhes sejam solicitados pela IGSS como consequência e no exercício das suas atribuições e competências.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ### CAPÍTULO IV — Do pessoal
 
 ###### Artigo 20.º — Quadro de pessoal
 
-1 - A IGSS dispõe do quadro de pessoal que for estabelecido por portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social.
+(Revogado.)
 
-2 - O conteúdo funcional das carreira técnica superior e técnica de inspecção, bem como das carreira técnico-profissionais, é o constante do anexo I a este diploma, dele fazendo parte integrante.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 21.º — Distribuição do pessoal
 
-A distribuição do pessoal pelos serviços da IGSS é feita por despacho do inspector-geral.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 22.º — Carreira de técnico superior de inspecção
 
@@ -430,35 +358,27 @@ A distribuição do pessoal pelos serviços da IGSS é feita por despacho do ins
 
 ###### Artigo 23.º — Formação e aperfeiçoamento profissional
 
-A IGSS promoverá, com vista a um adequado desempenho de funções dos funcionários do seu quadro de pessoal, as acções de formação e aperfeiçoamento profissionais consideradas necessárias, utilizando, sempre que possível, os serviços e organismos competentes do MESS e da Administração Pública e, nos casos em que tal se verificar indispensável, através da celebração de contratos de prestação de serviços com outras entidades.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 24.º — Poderes
 
-Os dirigentes e o pessoal de inspecção da IGSS, quando em serviço e sempre que necessário ao desempenho das suas funções, gozam, para além de outros previstos na lei geral, dos seguintes poderes de autoridade e prerrogativas:
+(Revogado.)
 
-a) Ter livre acesso a todos os serviços e instituições em que tenham de exercer as suas funções;
-
-b) Utilizar nos locais de trabalho, por cedência dos respectivos responsáveis, instalações adequadas ao exercício, em condições de dignidade e eficácia, das respectivas funções;
-
-c) Obter, para auxílio dos trabalhos a desenvolver, nos serviços e instituições onde decorra a sua acção, a cedência de material e equipamento, bem como a colaboração de pessoal do respectivo quadro;
-
-d) Requisitar, para consulta ou junção dos autos, quaisquer processos ou documentos;
-
-e) Proceder à selagem de quaisquer instalações, dependências, cofres ou móveis, requisitar ou reproduzir quaisquer documentos ou objectos de prova nos serviços e instituições objecto da sua acção, quando isso se mostre indispensável, lavrando o competente auto, dispensável no caso de simples reprodução de documentos;
-
-f) Corresponder-se, quando em serviço fora da sede, com quaisquer entidades públicas ou privadas e pessoas singulares para obtenção de elementos de interesse para o exercício das suas funções;
-
-g) Requisitar às autoridades policiais e administrativas a colaboração que se mostre necessária para cabal execução das suas funções;
-
-h) Participar ao Ministério Público, para efeito do disposto na lei penal, a recusa de quaisquer informações ou elementos solicitados, bem como a falta injustificada de colaboração.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 25.º — Verificação de infracções
 
-Os dirigentes e o pessoal técnico superior de inspecção têm competência para levantar autos de notícia por infracções disciplinares pessoalmente verificadas no exercício das respectivas funções, nos termos e para os efeitos previstos nos artigos 47.º e 49.º do Estatuto Disciplinar aprovado pelo [Decreto-Lei n.º 24/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1984-660172), de 16 de Janeiro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 26.º — Uso e porte de arma de defesa
 
-Os dirigentes, o pessoal técnico superior de inspecção e os motoristas gozam do direito de possuir e usar arma de defesa com dispensa da respectiva licença, nos termos da lei geral aplicável.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 27.º — Regime de duração do trabalho
 
@@ -468,73 +388,71 @@ Os dirigentes, o pessoal técnico superior de inspecção e os motoristas gozam 
 
 ###### Artigo 28.º — Gratificação
 
-Mantém-se, em conformidade com o disposto nos n.os 1 e 2 do artigo 37.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e nos precisos termos nele definidos, a gratificação instituída pelo [Decreto-Lei n.º 105/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1985-325504), de 11 de Abril.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 29.º — Abonos de transporte e ajudas de custo
 
-1 - Os dirigentes e o pessoal de inspecção, sempre que se desloquem, por motivo de serviço, da sua residência oficial, têm direito à utilização de transporte de 1.ª classe, podendo fazer uso de automóvel próprio, nos termos da lei geral aplicável.
+(Revogado.)
 
-2 - Sempre que numa mesma localidade e para realização do mesmo serviço ou missão se encontrem deslocados funcionários de categorias diferentes, serão a todos abonadas ajudas de custo do quantitativo que competir ao de maior categoria.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 30.º — Sigilo profissional
 
-1 - Além dos deveres gerais inerentes ao exercício de funções públicas, todos os funcionários ou agentes da IGSS ficam sujeitos a guardar sigilo profissional em todas as matérias e assuntos que se relacionem com o serviço.
+(Revogado.)
 
-2 - Ficam igualmente abrangidos pelo sigilo profissional todos os funcionários e agentes chamados a colaborar em acções a executar por pessoal da IGSS.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 31.º — Incompatibilidades
 
-1 - É vedado ao pessoal da IGSS:
+(Revogado.)
 
-a) Intervir em processos disciplinares, de inspecção, de inquérito, de averiguação, de sindicância, de peritagem e de exame em que sejam visados parentes ou afins de qualquer grau da linha recta ou até ao 3.º grau da linha colateral;
-
-b) Exercer, por si ou por interposta pessoa, qualquer ramo de comércio ou indústria;
-
-c) Exercer advocacia, qualquer outra forma de procuradoria ou consultadoria ou outro tipo de profissão liberal.
-
-2 - O exercício das actividades mencionadas nas alíneas b) e c) do número anterior poderá, porém, ser autorizado, nos termos da legislação aplicável, desde que conjuntamente:
-
-a) Não cause prejuízo ao serviço, não afecte a dignidade e o prestígio da função, não contribua para enfraquecer a respectiva autoridade ou não ponha em causa a isenção profissional;
-
-b) Não respeite, directa ou indirectamente, a órgãos, serviços e instituições de segurança social ou a interesses com eles relacionados.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 32.º — Funcionários e agentes de outros serviços ou organismos
 
-Os funcionários e agentes de outros serviços ou organismos que por qualquer das formas previstas na lei se encontrem a exercer funções na IGSS têm os mesmos direitos, poderes e prerrogativas e ficam sujeitos aos mesmos deveres previstos neste capítulo para os funcionários e agentes do quadro de pessoal da IGSS.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 33.º — Identificação e livre-trânsito
 
-1 - Os dirigentes e, bem assim, o pessoal das carreiras de inspecção têm direito a cartão de identidade, passado pela Secretaria-Geral do MESS, sendo assinado pelo ministro da tutela o do inspector-geral, subinspector-geral e directores de serviços e pelo inspector-geral o do outro pessoal acima referido.
+(Revogado.)
 
-2 - O cartão a que se refere o número anterior, de modelo constante do anexo II a este diploma, do qual faz parte integrante, é simultaneamente de livre-trânsito e de acesso a todos os locais de funcionamento dos órgãos, serviços e instituições de segurança social, bem como das instituições particulares de solidariedade social, devendo também dele constar a possibilidade de requisitar às autoridades policiais e administrativas a colaboração que se mostre necessária para cabal exercício das suas funções.
-
-3 - O restante pessoal da IGSS usará, para sua identificação, um cartão do modelo aprovado para os funcionários do MESS, passado pela Secretaria-Geral do Ministério e assinado pelo inspector-geral.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ### CAPÍTULO V — Disposições transitórias e finais
 
 ###### Artigo 34.º — Transição para o quadro da IGSS
 
-1 - O pessoal do quadro da IGSS, e, bem assim, o pertencente a outros serviços e organismos do MESS a prestar serviço na IGSS à data da entrada em vigor deste decreto-lei, transita para o quadro de pessoal a aprovar nos termos do n.º 1 do artigo 20.º do presente diploma, de harmonia com as disposições constantes da secção II do capítulo IV do [Decreto-Lei n.º 83/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1991-487122), de 20 de Fevereiro.
+(Revogado.)
 
-2 - A transição prevista no número anterior far-se-á por despacho do Ministro do Emprego e da Segurança Social, a proferir no prazo de 60 dias a contar da data da entrada em vigor deste diploma.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 35.º — Transição da carreira de técnico superior de inspecção
 
-1 - A transição do pessoal actualmente provido na carreira técnica superior de inspecção faz-se, de acordo com o mapa constante do anexo III ao presente diploma e que dele faz parte integrante, para as correspondentes categorias neste definidas.
+(Revogado.)
 
-2 - Releva, para todos os efeitos legais, como prestado nas novas categorias o tempo de serviço contado nas categorias anteriores.
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 36.º — Pessoal a exercer funções em outros serviços ou organismos
 
-Os destacamentos e as requisições de funcionários da IGSS, bem como outras situações precárias previstas na lei, cessam no prazo de 120 dias sobre a data da entrada em vigor deste diploma ou no termo do prazo por que foram constituídos, se anterior, sem prejuízo de poderem ser de novo autorizados, de acordo com a conveniência do serviço.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 37.º — Encargos orçamentais
 
-Os encargos decorrentes da aplicação deste decreto-lei serão suportados nos termos do disposto no artigo 35.º do [Decreto-Lei n.º 83/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-1991-487122), de 20 de Fevereiro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 ###### Artigo 38.º — Entrada em vigor
 
-O presente diploma entra em vigor 60 dias após a data da sua publicação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2001-371872), publicado em 2001-03-06.
 
 Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.
 

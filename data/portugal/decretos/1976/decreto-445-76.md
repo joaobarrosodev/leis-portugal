@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-09-20'
+version_history:
+  file: decreto-445-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-06-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-09-20'
+    amending: pt:dre:399253:por
+    amending_title: Decreto do Governo n.º 54/84
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:42:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto do Governo n.º 54/84. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-445-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,9 +132,13 @@ Nestes termos, e tendo em atenção o disposto na alínea e) do n.º 1 e no n.º
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º É criada na Direcção-Geral dos Hospitais a Comissão Permanente do Formulário e de Informação de Medicamentos, em substituição da Comissão Permanente do Formulário Hospitalar de Medicamentos, criada pela [Portaria n.º 21161](https://diariodarepublica.pt/dr/detalhe/portaria/21161-1965-237991), de 10 de Março de 1965.
+###### Artigo 1.º
 
-Art. 2.º Compete à Comissão:
+É criada na Direcção-Geral dos Hospitais a Comissão Permanente do Formulário e de Informação de Medicamentos, em substituição da Comissão Permanente do Formulário Hospitalar de Medicamentos, criada pela [Portaria n.º 21161](https://diariodarepublica.pt/dr/detalhe/portaria/21161-1965-237991), de 10 de Março de 1965.
+
+###### Artigo 2.º
+
+Compete à Comissão:
 
 a) Elaborar e manter actualizado o Formulário Nacional de Medicamentos;
 
@@ -131,13 +150,15 @@ d) Organizar um sistema de informações sobre medicamentos;
 
 e) Divulgar, na medida do possível, as informações referidas na alínea anterior por todos os estabelecimentos hospitalares e outros sectores da saúde pública.
 
-Art. 3.º - 1. A Comissão é composta por:
+###### Artigo 3.º
+
+1. A Comissão é composta por:
 
 a) Dois médicos farmacologistas;
 
 b) Três médicos pertencentes à carreira hospitalar, dos quais um pediatra;
 
-c) Cinco farmacêuticos pertencentes à carreira hospitalar;
+c) 3 farmacêuticos pertencentes à carreira hospitalar, um dos quais com experiência em farmácia clínica, e 2 farmacêuticos, sendo um deles tecnologista;
 
 d) Um representante da Direcção de Serviços de Farmácia e Medicamentos da Direcção-Geral de Saúde.
 
@@ -145,13 +166,21 @@ d) Um representante da Direcção de Serviços de Farmácia e Medicamentos da Di
 
 3. O presidente é eleito pela Comissão, de entre os seus membros, por um período de três anos.
 
-Art. 4.º A Comissão poderá solicitar a colaboração eventual de técnicos cujo concurso julgue conveniente para a solução de problemas específicos.
+> Alterado pelo/a [Decreto do Governo n.º 54/84](https://diariodarepublica.pt/dr/detalhe/decreto-governo/54-1984-399253), publicado em 1984-09-19.
 
-Art. 5.º - 1. Os membros da Comissão têm direito a senhas de presença nos termos da lei geral e, quando a sua residência se situe em localidade diversa daquela onde se realizem as reuniões, terão direito a ajudas de custo e o pagamento de transportes.
+###### Artigo 4.º
+
+A Comissão poderá solicitar a colaboração eventual de técnicos cujo concurso julgue conveniente para a solução de problemas específicos.
+
+###### Artigo 5.º
+
+1. Os membros da Comissão têm direito a senhas de presença nos termos da lei geral e, quando a sua residência se situe em localidade diversa daquela onde se realizem as reuniões, terão direito a ajudas de custo e o pagamento de transportes.
 
 2. Os colaboradores eventuais referidos no artigo 4.º deste diploma podem ser remunerados, em termos a propor pela Comissão.
 
-Art. 6.º No orçamento da Direcção-Geral dos Hospitais será inscrita a verba necessária à execução do presente diploma.
+###### Artigo 6.º
+
+No orçamento da Direcção-Geral dos Hospitais será inscrita a verba necessária à execução do presente diploma.
 
 José Baptista Pinheiro de Azevedo - Rui Manuel Parente Chancerelle de Machete - Vítor Manuel Ribeiro Constâncio.
 

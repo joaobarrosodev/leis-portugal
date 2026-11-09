@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:434579:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-07-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "041ea06052dc29ff"
+   ]
+  },
+  {
+   "date": "1979-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:383830:por",
+     "title": "Decreto-Lei n.º 166/79",
+     "published": "1979-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/166-1979-383830"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "ecab111074350655",
+    "5c9874ac9be14beb",
+    "d4a659313dc436d1",
+    "52a8537d73b8c98d",
+    "9f731b1a451abaa0",
+    "073ecfe33f99f75f",
+    "6a801785f3a81ca3",
+    "7bed2dba7b40ffbc",
+    "48ccff62e7d43b53",
+    "767c5da6b1b6421c"
+   ]
+  }
+ ],
+ "fragments": {
+  "041ea06052dc29ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Julho\n\nO quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Cultura anexo ao [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, revela desajustamentos face à legislação que lhe é posterior, originando-se assim algumas situações de injustiça relativamente aos funcionários que o integram.\n\nPor outro lado, o quadro único do pessoal administrativo, técnico auxiliar e auxiliar previsto no mencionado [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), nomeadamente no seu artigo 27.º, não chegou a ter existência legal, importando assim constituí-lo.\n\nNão parecendo oportuno, num momento em que se estuda a reestruturação de todo o aparelho do Estado, designadamente da função pública, introduzir alterações de fundo à legislação vigente no Ministério da Educação e Cultura, pretende-se com o presente diploma corrigir, dentro da actual expressão numérica dos seus quadros, alguns dos aspectos daquela legislação, de modo a permitir-se uma actualização das estruturas e maior equidade na distribuição dos funcionários pelos diversos órgãos e serviços centrais.\n\nNestes termos, ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:\n\nO Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:\n\nArtigo 1.º O quadro do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Cultura a que se refere o mapa anexo ao [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, é substituído pelo mapa I anexo ao presente diploma.\n\nArt. 2.º É criado o quadro de pessoal administrativo, técnico auxiliar e auxiliar dos órgãos e serviços centrais do Ministério da Educação e Cultura, previsto no artigo 27.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), cuja composição consta no mapa II anexo a este diploma.\n\nArt. 3.º A categoria de especialista prevista no [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734) e demais legislação complementar passa a designar-se técnico principal.\n\nArt. 4.º Os lugares de chefe de repartição serão providos por escolha do Ministro da Educação e Cultura, de entre indivíduos diplomados com curso superior adequado ou de entre chefes de secção ou técnicos auxiliares contabilistas e de programação de 1.ª classe do Ministério da Educação e Cultura, com reconhecida experiência administrativa e com pelo menos três anos de bom e efectivo serviço nestas categorias.\n\nArt. 5.º - 1 - É extinta a categoria de técnico de 3.ª classe prevista no [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734) e demais legislação complementar, sem prejuízo do disposto nos números seguintes.\n\n2 - Os técnicos de 3.ª classe que reúnam as habilitações académicas exigidas por lei serão colocados em lugar de categoria superior.\n\n3 - Manter-se-ão na mesma categoria os actuais técnicos de 3.ª classe que não possam ascender a categoria superior por falta de habilitações académicas, sendo os seus lugares extintos à medida que vagarem.\n\nArt. 6.º O pessoal que presta serviço no Ministério da Educação e Cultura há pelo menos três anos, contados à data da entrada em vigor deste diploma, poderá, independentemente do vínculo que possua, ser colocado nos novos quadros, mediante listas nominativas aprovadas pelo Ministro da Educação e Cultura, sem redução de direitos adquiridos, independentemente de quaisquer formalidades legais, salvo o visto do Tribunal de Contas e a publicação no Diário da República, sem prejuízo, porém, das habilitações académicas exigidas por lei.\n\nArt. 7.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Cultura ou por despacho conjunto dos Ministros das Finanças e do Plano, da Reforma Administrativa e da Educação e Cultura, consoante a sua natureza.\n\nArt. 8.º O acréscimo de encargos resultante da execução do presente diploma será suportado, no corrente ano, pelas disponibilidades apuradas nas dotações respectivas, inscritas em «Remunerações certas e permanentes», no capítulo 02 do orçamento do Ministério da Educação e Cultura.\n\nArt. 9.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1978.\n\nMário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena - Mário Augusto Sottomayor Leal Cardia.\n\nPromulgado em 7 de Julho de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMapa I a que se refere o artigo 1.º do Decreto n.º 69/78, desta data\n\n(Quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Cultura)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16101/00010003.pdf)\n\nMapa II a que se refere o artigo 2.º do Decreto n.º 69/78, desta data\n\n(Quadro único do pessoal administrativo, técnico auxiliar e auxiliar dos órgãos e serviços centrais do Ministério da Educação e Cultura.)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16101/00010003.pdf)\n\nO Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena. - O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia."
+  },
+  "ecab111074350655": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Julho\n\nO quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Cultura anexo ao [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, revela desajustamentos face à legislação que lhe é posterior, originando-se assim algumas situações de injustiça relativamente aos funcionários que o integram.\n\nPor outro lado, o quadro único do pessoal administrativo, técnico auxiliar e auxiliar previsto no mencionado [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), nomeadamente no seu artigo 27.º, não chegou a ter existência legal, importando assim constituí-lo.\n\nNão parecendo oportuno, num momento em que se estuda a reestruturação de todo o aparelho do Estado, designadamente da função pública, introduzir alterações de fundo à legislação vigente no Ministério da Educação e Cultura, pretende-se com o presente diploma corrigir, dentro da actual expressão numérica dos seus quadros, alguns dos aspectos daquela legislação, de modo a permitir-se uma actualização das estruturas e maior equidade na distribuição dos funcionários pelos diversos órgãos e serviços centrais.\n\nNestes termos, ao abrigo do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:\n\nO Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "5c9874ac9be14beb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO quadro do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Cultura a que se refere o mapa anexo ao [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, é substituído pelo mapa I anexo ao presente diploma."
+  },
+  "d4a659313dc436d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ criado o quadro de pessoal administrativo, técnico auxiliar e auxiliar dos órgãos e serviços centrais do Ministério da Educação e Cultura, previsto no artigo 27.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), cuja composição consta no mapa II anexo a este diploma."
+  },
+  "52a8537d73b8c98d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA categoria de especialista prevista no [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734) e demais legislação complementar passa a designar-se técnico principal."
+  },
+  "9f731b1a451abaa0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs lugares de chefe de repartição serão providos por escolha do Ministro da Educação e Cultura, de entre indivíduos diplomados com curso superior adequado ou de entre chefes de secção ou técnicos auxiliares contabilistas e de programação de 1.ª classe do Ministério da Educação e Cultura, com reconhecida experiência administrativa e com pelo menos três anos de bom e efectivo serviço nestas categorias."
+  },
+  "073ecfe33f99f75f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - É extinta a categoria de técnico de 3.ª classe prevista no [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734) e demais legislação complementar, sem prejuízo do disposto nos números seguintes.\n\n2 - Os técnicos de 3.ª classe que reúnam as habilitações académicas exigidas por lei serão colocados em lugar de categoria superior.\n\n3 - Manter-se-ão na mesma categoria os actuais técnicos de 3.ª classe que não possam ascender a categoria superior por falta de habilitações académicas, sendo os seus lugares extintos à medida que vagarem."
+  },
+  "6a801785f3a81ca3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO pessoal que presta serviço no Ministério da Educação e Cultura há pelo menos três anos, contados à data da entrada em vigor deste diploma, poderá, independentemente do vínculo que possua, ser colocado nos novos quadros, mediante listas nominativas aprovadas pelo Ministro da Educação e Cultura, sem redução de direitos adquiridos, independentemente de quaisquer formalidades legais, salvo o visto do Tribunal de Contas e a publicação no Diário da República, sem prejuízo, porém, das habilitações académicas exigidas por lei."
+  },
+  "7bed2dba7b40ffbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Cultura ou por despacho conjunto dos Ministros das Finanças e do Plano, da Reforma Administrativa e da Educação e Cultura, consoante a sua natureza."
+  },
+  "48ccff62e7d43b53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO acréscimo de encargos resultante da execução do presente diploma será suportado, no corrente ano, pelas disponibilidades apuradas nas dotações respectivas, inscritas em «Remunerações certas e permanentes», no capítulo 02 do orçamento do Ministério da Educação e Cultura."
+  },
+  "767c5da6b1b6421c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1979-06-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 166/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1979-383830), publicado em 1979-06-02."
+   ],
+   "markdown": "###### Artigo 9.º\n\nIndependentemente da data em que se verificar a colocação do pessoal nos novos quadros, nos termos do artigo 6.º do presente diploma, considera-se que, para efeitos de pagamento de remunerações e cálculo de antiguidades, as respectivas colocações se efectuaram em 1 de Janeiro de 1978.\n\n> Alterado pelo/a [Decreto-Lei n.º 166/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1979-383830), publicado em 1979-06-02.\n\nMário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena - Mário Augusto Sottomayor Leal Cardia.\n\nPromulgado em 7 de Julho de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMapa I a que se refere o artigo 1.º do Decreto n.º 69/78, desta data\n\n(Quadro único do pessoal dirigente e técnico dos órgãos e serviços centrais do Ministério da Educação e Cultura)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16101/00010003.pdf)\n\nMapa II a que se refere o artigo 2.º do Decreto n.º 69/78, desta data\n\n(Quadro único do pessoal administrativo, técnico auxiliar e auxiliar dos órgãos e serviços centrais do Ministério da Educação e Cultura.)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/07/16101/00010003.pdf)\n\nO Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Reforma Administrativa, Rui Eduardo Ferreira Rodrigues Pena. - O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia."
+  }
+ }
+}

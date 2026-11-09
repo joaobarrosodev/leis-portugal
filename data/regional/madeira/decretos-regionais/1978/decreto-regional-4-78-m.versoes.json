@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:448480:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-02-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "571e668e431e7e7d"
+   ]
+  },
+  {
+   "date": "1986-10-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222443:por",
+     "title": "Decreto Legislativo Regional n.º 24/86/M",
+     "published": "1986-10-09",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/24-1986-222443"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "dfb87b3a12ac015c",
+    "d75292d6c1a0adef",
+    "a3675fb180c2bd9a",
+    "491267de22b094e8",
+    "840c364b42e05b4d"
+   ]
+  }
+ ],
+ "fragments": {
+  "571e668e431e7e7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que nas zonas rurais da Região Autónoma da Madeira certos terrenos de cultivo estão a ser infestados de coelhos bravos, causando enormes prejuízos às culturas que aí se praticam;\n\nConsiderando que, em muitos casos, em consequência disso, muitos agricultores têm vindo a abandonar a exploração desses mesmos terrenos;\n\nConsiderando que estes animais, pelas características devastadoras que exercem sobre as plantas, constituem uma autêntica praga, da qual se torna necessário e urgente defender-se;\n\nConsiderando que durante o período normal da época de caça os caçadores preferem caçar em zonas referenciadas onde esta espécie abunda em maior quantidade, tendo ainda em conta a melhor via de acesso deparada;\n\nConsiderando que, embora a actual legislação permita a destruição dos animais nocivos à agricultura, essa formalidade exige condicionalismos burocráticos absolutamente dispensáveis, os quais dificultam grandemente a sua aplicação, não se pretende, no entanto, obstar à aplicação da generalidade dos princípios legais vigentes na matéria.\n\nAssim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional da Região Autónoma da Madeira aprova, para valer como decreto regional, o seguinte:\n\nArtigo 1.º Fica autorizada na Região Autónoma da Madeira a caça ao coelho bravo, dentro dos terrenos cultivados, durante todo o ano.\n\nArt. 2.º A faculdade do artigo anterior é apenas atribuída ao dono do terreno ou a quem o cultiva.\n\nArt. 3.º Mantém-se em vigor a demais legislação aplicável.\n\nArt. 4.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em 3 de Janeiro de 1978.\n\nO Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.\n\nAssinado em 23 de Janeiro de 1978.\n\nO Ministro da República, Lino Dias Miguel."
+  },
+  "dfb87b3a12ac015c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que nas zonas rurais da Região Autónoma da Madeira certos terrenos de cultivo estão a ser infestados de coelhos bravos, causando enormes prejuízos às culturas que aí se praticam;\n\nConsiderando que, em muitos casos, em consequência disso, muitos agricultores têm vindo a abandonar a exploração desses mesmos terrenos;\n\nConsiderando que estes animais, pelas características devastadoras que exercem sobre as plantas, constituem uma autêntica praga, da qual se torna necessário e urgente defender-se;\n\nConsiderando que durante o período normal da época de caça os caçadores preferem caçar em zonas referenciadas onde esta espécie abunda em maior quantidade, tendo ainda em conta a melhor via de acesso deparada;\n\nConsiderando que, embora a actual legislação permita a destruição dos animais nocivos à agricultura, essa formalidade exige condicionalismos burocráticos absolutamente dispensáveis, os quais dificultam grandemente a sua aplicação, não se pretende, no entanto, obstar à aplicação da generalidade dos princípios legais vigentes na matéria.\n\nAssim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional da Região Autónoma da Madeira aprova, para valer como decreto regional, o seguinte:"
+  },
+  "d75292d6c1a0adef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1986-10-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 24/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1986-222443), publicado em 1986-10-09."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Fica autorizada na Região Autónoma da Madeira a caça ao coelho bravo, dentro dos terrenos cultivados, durante todo o ano, do nascer ao pôr do Sol.\n\n2 - Os animais abatidos ou capturados nestas circunstâncias não poderão ser transportados em terrenos de caça em período de defeso, só podendo fazê-lo na via pública entre o nascer e o pôr do Sol.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 24/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-1986-222443), publicado em 1986-10-09."
+  },
+  "a3675fb180c2bd9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA faculdade do artigo anterior é apenas atribuída ao dono do terreno ou a quem o cultiva."
+  },
+  "491267de22b094e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nMantém-se em vigor a demais legislação aplicável."
+  },
+  "840c364b42e05b4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em 3 de Janeiro de 1978.\n\nO Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.\n\nAssinado em 23 de Janeiro de 1978.\n\nO Ministro da República, Lino Dias Miguel."
+  }
+ }
+}

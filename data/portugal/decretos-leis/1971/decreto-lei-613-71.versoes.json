@@ -1,0 +1,1141 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:165995:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "34c84a00a1dcb2a0",
+    "c848d60bc8e62535",
+    "07a09a2fbbefc8cb",
+    "1dcbf4cb45d093c3",
+    "f807267a68284fc6",
+    "f101a660132123a5",
+    "9fe06f9f268a65ba",
+    "d98260f500afa6d7",
+    "51014ac87b51367f",
+    "18de0d24e4886fc7",
+    "6fa955a1c0a3fce9",
+    "877e1efaf7dde2f8",
+    "0472cc2021023c40",
+    "22eb1a3e2abd51b4",
+    "12aa2fd5c436bfff",
+    "0574da26e0f4cd1c",
+    "aad8c8bdca098f30",
+    "d54256e83215ecf6",
+    "c2848331837174f9",
+    "3a0c075044f33e6e",
+    "d4662993c07c06b0",
+    "eb44406fde6a87a7",
+    "95f28d291087ae2e",
+    "b2a05ce1fd6777be",
+    "e4af446c67219122",
+    "a6af803ed027e4e9",
+    "bd7532a121168fe8",
+    "967a96541c4b0f19",
+    "32b0fc64f467ac64",
+    "402724d39fab7bef",
+    "57b2296b150def1d",
+    "9beebd665d7f511d",
+    "17bfbc854373b511",
+    "34b2c908e4bf5b55",
+    "df8694285bf56dfb",
+    "66e8dc6bd6c25b9b",
+    "ab66b074fa1a3007",
+    "d361a66739d5f131",
+    "fa0dcf7277a247de",
+    "7d0df51c0d06398d",
+    "c32748dfc47b7c37",
+    "b907ea77f2c83d45",
+    "b3769a0b8fd90710",
+    "31c3f7d36fb61900",
+    "ec30dd6b72ea13ce",
+    "304983239e3f947c",
+    "849de0fc88b985eb",
+    "5f4e3d53c7526571",
+    "51bafefbbcb2708d",
+    "22fc3c7810a0e625",
+    "e53adfbc9484cf6c",
+    "9d7cd8dcfcef7483",
+    "8936215f40e63f4f",
+    "977c77b9a45429f8",
+    "d2ad7ceb52a0909a",
+    "a2e91f1991db9ce0",
+    "8da9b6afc9bc1359",
+    "7a127530958c4fd0",
+    "adec5a9f8c190e08",
+    "4bf8bce4f52ea6da",
+    "46073a54b0ea048f",
+    "d00f81c09983e3f3",
+    "6fdd23917fe73112",
+    "6199160be4fef22b",
+    "d48308d88dff981a"
+   ]
+  },
+  {
+   "date": "1980-10-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:430860:por",
+     "title": "Decreto-Lei n.º 623/76",
+     "published": "1976-07-28",
+     "dre_path": "/dr/detalhe/decreto-lei/623-1976-430860"
+    },
+    {
+     "id": "pt:dre:461474:por",
+     "title": "Decreto-Lei n.º 437/80",
+     "published": "1980-10-03",
+     "dre_path": "/dr/detalhe/decreto-lei/437-1980-461474"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "34c84a00a1dcb2a0",
+    "c848d60bc8e62535",
+    "5f261fc9fc6d5bbf",
+    "d2df0a0aa8d038f7",
+    "2ae2c73f0a1b56c6",
+    "c4143f3bdf1c25da",
+    "9fe06f9f268a65ba",
+    "d98260f500afa6d7",
+    "172b989f988f8ea9",
+    "18de0d24e4886fc7",
+    "1cc5b647366c8fc8",
+    "dbacb72369c56483",
+    "d92fb82d22e1eee1",
+    "a77849a3510ceeae",
+    "7511a027393368eb",
+    "d48cee8b98e02734",
+    "2e0a6e5e394b3f13",
+    "1704299b7392e78e",
+    "c2848331837174f9",
+    "8d8170fbc4e1835d",
+    "9186047a8190169d",
+    "743a1df1278880e6",
+    "977e2cb1311e5aac",
+    "1686017b80e7abdc",
+    "60735a2c510402e2",
+    "a6af803ed027e4e9",
+    "36e4f7b72c650ec9",
+    "49bf763fa64fb062",
+    "f9a103f7607b20ac",
+    "368c3c56e57e61e1",
+    "453a2b617b444418",
+    "9beebd665d7f511d",
+    "e80bf09e152e50e1",
+    "869a2cbb3b9ca1de",
+    "1be342e72cc932a4",
+    "a8fdda00b7214fba",
+    "ada10592eb4d1583",
+    "7906b7034f777505",
+    "fa0dcf7277a247de",
+    "28a236329676a640",
+    "124a87362ed386e8",
+    "2e96beb0933882fe",
+    "f7cec34444e95914",
+    "7441d7e0443a8b62",
+    "690ce175c81e7cb1",
+    "7ea5f8a6ca26a52f",
+    "8eec8194b571e6a9",
+    "960170794104f0ec",
+    "149a1bd2244aed19",
+    "0386f07ac0bf0f55",
+    "9832737dbad762af",
+    "cd00f6a02b0569d8",
+    "8936215f40e63f4f",
+    "17dfd9ea5696c9fe",
+    "49a2599d04d24206",
+    "475c8d89da3d70f3",
+    "0b60b45a2e3e50c8",
+    "131face18ec90f87",
+    "adec5a9f8c190e08",
+    "da87a93ec6ab696b",
+    "cd19b0cd9b335b67",
+    "46d411bf62d48756",
+    "cbdd7f4be677a23f",
+    "d1c6b4136efd4ad0",
+    "68c76b46b3d32bf7"
+   ]
+  }
+ ],
+ "fragments": {
+  "34c84a00a1dcb2a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro\n\nConsiderando o que foi exposto ao Governo pela Câmara Municipal de Lisboa sobre as vantagens de se subordinarem a moldes de gestão empresarial os estudos respeitantes à urbanização ou remodelação de áreas a determinar, bem como a execução das obras respectivas;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo único. É criada a Empresa Pública de Urbanização de Lisboa, que será regida pelo estatuto anexo ao presente decreto-lei, o qual dele se considera parte integrante e vai assinado pelo Ministro do Interior.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote.\n\nPromulgado em 28 de Dezembro de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nESTATUTO DA EMPRESA PÚBLICA DE URBANIZAÇÃO DE LISBOA"
+  },
+  "c848d60bc8e62535": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza, atribuições e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza, atribuições e competência"
+  },
+  "07a09a2fbbefc8cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º\n\nA Empresa Pública de Urbanização de Lisboa, abreviadamente designada neste diploma por E. P. U. L., é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, e constitui uma empresa pública destinada a auxiliar e desenvolver a acção municipal no estudo e na execução de empreendimentos urbanísticos."
+  },
+  "1dcbf4cb45d093c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º\n\n1. A E. P. U. L. tem a sua sede em Lisboa e prossegue as suas atribuições na área do respectivo concelho.\n\n2. Com autorização do Governo, porém, poderá ser-lhe confiada a realização de estudos urbanísticos ou de obras de urbanização ou de renovação urbana em áreas da federação obrigatória dos concelhos da zona de Lisboa, nas condições que para o efeito vierem a ser acordadas entre a Câmara Municipal de Lisboa, abreviadamente designada neste diploma por C. M. L., a empresa e a outra ou as outras câmaras municipais interessadas."
+  },
+  "f807267a68284fc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º\n\n1. Constituem atribuições da E. P. U. L.:\n\na) Os estudos relativos à urbanização ou renovação urbana das áreas que para o efeito lhe sejam indicadas;\n\nb) A realização de obras convenientes à urbanização ou renovação urbana de áreas de que for encarregada.\n\n2. Fora dos casos abrangidos pelo n.º 2 do artigo anterior, compete à C. M. L. designar as áreas cujo estudo ou cuja urbanização ou renovação urbana deverão ser confiados à E. P. U. L."
+  },
+  "f101a660132123a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º\n\n1. Para o desempenho das suas atribuições compete à E. P. U. L.:\n\na) Proceder à elaboração de estudos urbanísticos, sociológicos, administrativos ou de outra natureza e de projectos, gerais ou parciais, que lhe sejam confiados, ou respeitem a áreas de cuja urbanização ou renovação urbana for encarregada ou a outras obras que tiver de realizar;\n\nb) Executar obras de criação ou melhoramento de infra-estruturas e equipamento, de construção de edifícios, ou outras que se mostrem convenientes para os trabalhos de urbanização ou de renovação urbana a seu cargo;\n\nc) Executar obras a cargo de outras entidades públicas ou de particulares, desde que se situem em zonas de trabalho da Empresa, a sua realização seja conveniente para o interesse geral e exista acordo com os interessados;\n\nd) Executar obras de conservação e manutenção de conjuntos de edifícios, de equipamentos, de instalações e outras em bens partencentes à Empresa ou a outras entidades, públicas ou privadas, mas cuja realização se considere aconselhável confiar-lhe, mediante acordo com os interessados;\n\ne) Fiscalizar convenientemente a administração e execução das obras a seu cargo;\n\nf) Elaborar, pelo menos anualmente, planos técnico, económico e financeiro da gestão da Empresa e a sua particularização para cada plano parcial, e os respectivos programas de execução;\n\ng) Adquirir os bens e direitos a eles relativos, necessários à prossecução das suas atribuições;\n\nh) Pedir ao Governo a expropriação por utilidade pública dos imóveis e direitos a eles relativos, necessários à prossecução das suas atribuições, nos termos aplicáveis à C. M. L.;\n\ni) Alienar os bens que não sejam necessários à prossecução das suas atribuições e, em especial, ceder, segundo as modalidades mais convenientes, designadamente através da constituição do direito de superfície, as construções que se reconheça não deverem continuar como sua propriedade e os lotes de terreno destinados à construção particular;\n\nj) Celebrar contratos de associação, nos termos previstos na lei e quando se mostre conveniente, com os proprietários das áreas a urbanizar ou a submeter a operações de renovação urbana;\n\nl) Organizar e manter actualizado o cadastro dos seus bens;\n\nm) Praticar os actos necessários à exploração dos seus bens;\n\nn) Celebrar contratos de arrendamento, activa e passivamente, e de prestação de serviços;\n\no) Organizar exposições e publicar estudos destinados a estimular o interesse público pelos empreendimentos de que esteja incumbida;\n\np) Promover a aceleração dos estudos de pesquisa de novos processos de construção e de utilização de materiais;\n\nq) Exercer todas as actividades complementares ou subsidiárias relacionadas com as anteriores ou outras que lhe venham a ser cometidas pela C. M. L., dentro das atribuições da Empresa;\n\nr) Praticar os demais actos necessários à prossecução das suas atribuições.\n\n2. As obras da competência da E. P. U. L. podem ser executadas em regime de administração directa ou de empreitada e não carecem de licença se o projecto respectivo tiver sido aprovado pela câmara municipal.\n\n3. A alienação de bens imóveis só poderá ser feita mediante hasta pública, precedendo anúncios de, pelo menos, vinte dias.\n\n4. Exceptuam-se do disposto no número anterior, além das cedências de terrenos a que se refere o n.º 1 do artigo 43.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, as alienações a favor do Estado, dos seus institutos públicos ou de autarquias locais, as cessões para alinhamento e as que se destinem à formação de lotes para construção, desde que, neste caso, a área a ceder não seja superior a 30 por cento da área do lote a constituir, e quaisquer outras previstas na lei."
+  },
+  "9fe06f9f268a65ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos da Empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos da Empresa"
+  },
+  "d98260f500afa6d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Composição"
+  },
+  "51014ac87b51367f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º\n\nA E. P. U. L. é administrada e fiscalizada, respectivamente, pelos seguintes órgãos:\n\na) Conselho de administração;\n\nb) Conselho fiscal."
+  },
+  "18de0d24e4886fc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho de administração"
+  },
+  "6fa955a1c0a3fce9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º\n\n1. O conselho de administração é constituído por um presidente e quatro vogais.\n\n2. O presidente é designado em reunião da Câmara Municipal de Lisboa, sob proposta do respectivo presidente; os vogais são designados, dois pela mesma Câmara e dois pelo respectivo presidente, no início de cada mandato da Câmara Municipal.\n\n3. As funções de membro do conselho de administração são incompatíveis com o exercício de quaisquer cargos ou actividades em empresas que se proponham objectivos idênticos ou afins dos da E. P. U. L. ou em empresas que com esta tenham contrato, e, bem assim, com a titularidade de quotas em qualquer dessas empresas ou de interesse em contrato com a E. P. U. L.\n\n4. Um dos vogais do conselho será designado pela Câmara para as funções de administrador-delegado; quando a designação recair em funcionário do Estado ou dos seus institutos públicos ou das autarquias locais, as funções serão exercidas em comissão de serviço."
+  },
+  "877e1efaf7dde2f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º\n\nNas suas faltas ou impedimentos, o presidente do conselho de administração será substituído pelo vogal que ele designar, ou, não havendo designação, pelo mais antigo."
+  },
+  "0472cc2021023c40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º\n\n1. O presidente do conselho de administração e os vogais receberão ordenado mensal.\n\n2. No caso de os vogais exercerem cumulativamente funções em serviços do Estado, em institutos públicos ou em autarquias locais, o ordenado será substituído por gratificação mensal."
+  },
+  "22eb1a3e2abd51b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º\n\nO conselho de administração reúne, ordinàriamente, pelo menos duas vezes por mês e, extraordinàriamente, sempre que seja convocado pelo presidente."
+  },
+  "12aa2fd5c436bfff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º\n\n1. Compete ao conselho de administração praticar todos os actos necessários à gestão da Empresa, designadamente:\n\na) Autorizar a execução de trabalhos e de obras, fixando os termos e condições a que devem obedecer;\n\nb) Emitir parecer sobre os assuntos que a C. M. L. entenda dever submeter-lhe e mandar realizar os estudos que por esta lhe sejam confiados;\n\nc) Elaborar os planos de actividade e financeiro e os programas anuais de trabalho;\n\nd) Organizar os orçamentos anuais e suplementares da receita e despesa;\n\ne) Elaborar anualmente o relatório de exercício e os respectivos balanço, conta de gerência e conta de ganhos e perdas;\n\nf) Providenciar sobre a conferência ao cofre da tesouraria, quando o julgar conveniente e, pelo menos, uma vez em cada mês;\n\ng) Estabelecer o modo de constituição das provisões e das reservas, o sistema de amortização de bens e o modo de distribuição dos resultados de exercício;\n\nh) Estabelecer a organização dos serviços, incluindo a fixação das categorias do pessoal e as respectivas remunerações, bem como os regulamentos internos;\n\ni) Contratar, louvar ou premiar o pessoal, rescindir os respectivos contratos e exercer sobre ele a competente acção disciplinar;\n\nj) Adquirir, transmitir ou constituir direitos relativos a bens, designadamente o direito de propriedade e o direito de superfície;\n\nl) Requerer a expropriação por utilidade pública;\n\nm) Celebrar contratos de arrendamento e de exploração de bens ou de serviços, assim como de adjudicação de obras;\n\nn) Celebrar contratos de mútuo;\n\no) Promover concessões de obras públicas ou de outra natureza;\n\np) Fiscalizar a organização e actualização do cadastro dos bens da empresa;\n\nq) Praticar os demais actos que lhe caibam nos termos do presente estatuto e dos regulamentos da Empresa ou lhe sejam cometidos por lei.\n\n2. O conselho de administração pode delegar determinados poderes da sua competência em um ou mais dos seus membros, estabelecendo em cada caso os limites e condições de exercício da delegação."
+  },
+  "0574da26e0f4cd1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 11.º\n\nDas deliberações definitivas e executórias tomadas pelo conselho de administração, bem como dos actos da mesma natureza praticados por sua delegação, cabe recurso contencioso para a Auditoria Administrativa."
+  },
+  "aad8c8bdca098f30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 12.º\n\nCompete ao presidente do conselho de administração:\n\na) Superintender nos serviços da empresa;\n\nb) Representar a mesma em quaisquer actos ou contratos em que ela deva intervir, podendo delegar a representação no administrador-delegado, noutro vogal ou em pessoa especialmente habilitada para o efeito;\n\nc) Convocar reuniões conjuntas do conselho de administração e do conselho fiscal, sempre que o julgue conveniente, presidindo a essas reuniões;\n\nd) Suspender, se julgar conveniente, a execução das deliberações do conselho de administração tomadas sem a presença de todos os membros em exercício, submetendo essas deliberações à reunião imediatamente seguinte do referido conselho;\n\ne) As demais funções estabelecidas neste estatuto e regulamentos internos."
+  },
+  "d54256e83215ecf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 13.º\n\nCompete ao administrador-delegado:\n\na) Exercer, em relação ao pessoal, as funções que lhe caibam nos termos regulamentares ou por delegação do conselho de administração;\n\nb) Autorizar as despesas respeitantes à aquisição dos bens móveis e a encargos administrativos;\n\nc) Ordenar inspecções aos serviços ou proceder a elas directamente;\n\nd) Submeter ao conselho de administração os assuntos que a este caiba apreciar e os que entenda conveniente, bem como propor ao mesmo conselho as providências que julgue de interesse para a empresa;\n\ne) Desempenhar quaisquer outras funções que lhe sejam cometidas e as demais indispensáveis à administração corrente da empresa."
+  },
+  "c2848331837174f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho fiscal"
+  },
+  "3a0c075044f33e6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 14.º\n\n1. O conselho fiscal é constituído por um presidente e dois vogais, nomeados pelo período de cinco anos, renovável.\n\n2. O presidente será designado pelo Ministro do Interior; um vogal será um revisor de contas, designado pelo Ministro da Justiça, e o outro vogal será designado pela C. M. L. de entre licenciados em Direito, Economia ou Finanças.\n\n3. Cada membro do conselho fiscal terá um suplente, designado nos mesmos termos."
+  },
+  "d4662993c07c06b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 15.º\n\nOs membros do conselho fiscal recebem uma gratificação mensal."
+  },
+  "eb44406fde6a87a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 16.º\n\nO conselho fiscal reúne ordinàriamente uma vez por mês e, extraordinàriamente, sempre que seja convocado pelo respectivo presidente, bem como a pedido do conselho de administração."
+  },
+  "95f28d291087ae2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 17.º\n\nCompete ao conselho fiscal:\n\na) Velar pelo cumprimento das leis e regulamentos aplicáveis à Empresa;\n\nb) Emitir parecer sobre os planos de actividade e financeiros e os programas anuais de trabalho e acompanhar a sua execução;\n\nc) Emitir parecer sobre os orçamentos da Empresa, relatórios de exercício, inventário, balanço o contas;\n\nd) Acompanhar a execução dos orçamentos, examinar periòdicamente a contabilidade da empresa e seguir, através de informações adequadas, a respectiva evolução;\n\ne) Exigir as informações que entenda necessárias sobre os valores existentes em cofre e efectuar as verificações e conferências que julgar convenientes;\n\nf) Exercer as funções de exame e visto em relação aos actos especificados em regulamento;\n\ng) Pronunciar-se sobre as condições de empréstimos a contrair, a amortização dos bens, a constituição de provisões e reservas, a aquisição, transmissão e constituição de direitos relativos a bens imóveis, a aplicação dos lucros de exercício e outras deliberações que devam ser submetidas à aprovação da C. M. L.;\n\nh) Sugerir ao conselho de administração ou à C. M. L. as providências necessárias à boa administração da Empresa e as reformas convenientes à melhoria da prossecução das respectivas atribuições;\n\ni) Exercer as demais funções estabelecidas neste estatuto e regulamentos da empresa ou que lhe sejam cometidas por lei."
+  },
+  "b2a05ce1fd6777be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 18.º\n\n1. Às reuniões do conselho de administração assistirá sempre um membro do conselho fiscal, o qual terá voto nos casos expressamente previstos no presente estatuto e regulamentos da Empresa.\n\n2. Carecem de voto concordante do membro do conselho fiscal que assistir à reunião do conselho de administração as deliberações deste sobre aplicação de fundos permanentes em papéis de crédito ou em depósitos a prazo e realização de despesas para fins acessórios, incluindo os de carácter social, cultural ou assistencial.\n\n3. Nos casos previstos no número anterior, o voto discordante deve ser fundamentado e determina a apreciação da deliberação pelo conselho fiscal; se o parecer deste for desfavorável, a deliberação carece de aprovação da C. M. L.\n\n4. A assistência às reuniões do conselho de administração e as demais funções do conselho fiscal que não careçam de ser exercidas em reunião desse órgão, incluindo as de exame e visto, serão asseguradas em regime de delegação por um ou dois dos seus membros, conforme a conveniência do serviço e segundo a escala que para esse efeito for estabelecida pelo próprio conselho.\n\n5. Quando algumas das matérias referidas no n.º 2 deste artigo for objecto de decisão tomada por delegação do conselho de administração, será a decisão submetida à aprovação do representante do conselho fiscal, observando-se o disposto no n.º 3, no caso de parecer desfavorável."
+  },
+  "e4af446c67219122": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 19.º\n\nO conselho de administração facultará ao conselho fiscal os meios indispensáveis ao exercício das suas funções."
+  },
+  "a6af803ed027e4e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Disposições comuns"
+  },
+  "bd7532a121168fe8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 20.º\n\n1. O conselho de administração e o conselho fiscal só podem deliberar quando esteja presente a maioria dos respectivos membros.\n\n2. As deliberações serão tomadas por maioria dos membros presentes, não sendo permitido o voto por correspondência ou por procuração; no caso de empate, o presidente terá voto de qualidade.\n\n3. As deliberações constarão da acta da reunião em que forem tomadas e só por ela poderão ser provadas.\n\n4. As actas serão lavradas pelo empregado da E. P. U. L. designado para esse efeito e assinadas por quem tiver presidido às reuniões, podendo ser aprovadas no final destas, em minuta, ou na reunião que se seguir."
+  },
+  "967a96541c4b0f19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 21.º\n\nAs funções de vogal do conselho de administração, salvo a de administrador-delegado, bem como as de membro do conselho fiscal, não são incompatíveis com o exercício de funções no Estado, nos seus institutos públicos e nas autarquias locais."
+  },
+  "32b0fc64f467ac64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 22.º\n\n1. Os ordenados ou gratificações dos membros do conselho de administração e as gratificações dos membros do conselho fiscal serão fixados pelo Ministro do Interior, dentro de limites estabelecidos em Conselho de Ministros.\n\n2. Os membros dos mesmos conselhos poderão participar nos lucros da Empresa, nos termos do presente estatuto."
+  },
+  "402724d39fab7bef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 23.º\n\nOs membros do conselho de administração e do conselho fiscal são equiparados ao pessoal da Empresa em matéria de responsabilidade."
+  },
+  "57b2296b150def1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 24.º\n\nOs vogais do conselho de administração e os membros do conselho fiscal tomam posse perante o presidente da C. M. L."
+  },
+  "9beebd665d7f511d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Do pessoal"
+  },
+  "17bfbc854373b511": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 25.º\n\n1. O pessoal da E. P. U. L. será contratado ou assalariado e ficará sujeito ao regime do contrato individual de trabalho, com as adaptações exigidas pelas características da Empresa que forem definidas em decreto regulamentar referendado pelos Ministros do Interior e das Corporações e Previdência Social.\n\n2. Poderão exercer funções na E. P. U. L., em comissão de serviço, funcionários do Estado, dos seus institutos públicos e das autarquias locais, ficando os mesmos sujeitos:\n\na) Quanto à prestação de serviço, ao regime próprio dos funcionários das autarquias locais;\n\nb) No que respeita às relações com os quadros de origem, ao regime sobre comissões de serviço aplicável ao respectivo quadro."
+  },
+  "34b2c908e4bf5b55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 26.º\n\n1. As remunerações do pessoal são fixadas pelo conselho de administração, com parecer favorável do conselho fiscal, e carecem de homologação do Ministro do Interior.\n\n2. O pessoal poderá participar nos lucros da empresa, nos termos do presente estatuto.\n\n3. Para estímulo e distinção dos melhores servidores da Empresa, o conselho de administração, com o parecer favorável do conselho fiscal. poderá atribuir prémios, nas condições que forem estabelecidas em regulamento interno"
+  },
+  "df8694285bf56dfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 27.º\n\nO pessoal da E. P. U. L. fica submetido ao regime geral de previdência social aplicável ao pessoal das empresas privadas, salvo o pessoal a que se refere o n.º 2 do artigo 25.º, que continua sujeito ao regime aplicável ao pessoal do respectivo quadro de origem."
+  },
+  "66e8dc6bd6c25b9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 28.º\n\nO pessoal da E. P. U. L., incluindo os funcionários a que e refere o n.º 2 do artigo 25.º, fica sujeito, quanto às respectivas remunerações, à tributação que incide sobre as remunerações pagas pelas empresas privadas."
+  },
+  "ab66b074fa1a3007": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 29.º\n\n1. O pessoal será admitido conforme as necessidades da Empresa, dentro das respectivas dotações orçamentais.\n\n2. O conselho de administração pode ajustar a celebração de contratos de prestação de serviços que se mostrem convenientes, nas condições por ele fixadas em cada caso."
+  },
+  "d361a66739d5f131": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 30.º\n\nAo pessoal da E. P. U. L. é aplicável o regime do artigo 39.º do Estatuto do Trabalho Nacional."
+  },
+  "fa0dcf7277a247de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Gestão financeira e patrimonial"
+  },
+  "7d0df51c0d06398d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 31.º\n\nA gestão financeira e patrimonial da E. P. U. L. basear-se-á nos seguintes documentos:\n\na) Planos de actividade e financeiros;\n\nb) Programas anuais de trabalhos;\n\nc) Orçamentos anuais e suplementares."
+  },
+  "c32748dfc47b7c37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 32.º\n\nNos planos financeiros prever-se-ão especialmente, em relação aos períodos a que respeitem, a evolução das receitas e das despesas, os investimentos projectados e as fontes de financiamento a que deverá recorrer-se."
+  },
+  "b907ea77f2c83d45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 33.º\n\nA contabilidade obedecerá às regras de gestão empresarial, mantendo-se paralelamente a escrituração da execução orçamental."
+  },
+  "b3769a0b8fd90710": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 34.º\n\n1. A E. P. U. L. organizará em cada ano económico um orçamento ordinário e os orçamentos suplementares que entenda necessários à sua gestão financeira.\n\n2. Na organização e na execução dos seus orçamentos, a E. P. U. L., além de observar, quanto possível, as normas que regulam o orçamento e a conta de gerência da C. M. L., deverá atender aos objectivos industriais e comerciais a prosseguir e às necessidades da exploração dos respectivos empreendimentos, sem prejuízo, porém, do disposto no número seguinte.\n\n3. Os orçamentos serão executados de modo que, na efectivação das despesas, se respeitem os princípios da autorização dependente de cabimento na dotação orçamental e da obtenção da maior eficiência com o menor dispêndio possível."
+  },
+  "31c3f7d36fb61900": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 35.º\n\nConstituem receitas da E. P. U. L.:\n\na) As verbas que lhe forem destinadas pela C. M. L.;\n\nb) As comparticipações, as dotações e os subsídios do Estado e seus institutos públicos, de autarquias locais, pessoas colectivas de utilidade pública administrativa, organismos corporativos ou de outras pessoas, singulares ou colectivas;\n\nc) Doações, heranças ou legados;\n\nd) O rendimento dos bens próprios;\n\ne) O produto da alienação dos seus bens ou da constituição de direitos sobre eles;\n\nf) O produto das mais-valias devidas pela valorização resultantes das obras a seu cargo;\n\ng) O produto de empréstimos:\n\nh) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que por lei ou contrato devam pertencer-lhe."
+  },
+  "ec30dd6b72ea13ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 36.º\n\n1. A E. P. U. L. pode contrair empréstimos a curto, médio e longo prazos em estabelecimentos bancários ou mediante a emissão de obrigações.\n\n2. Os empréstimos a que se refere o número anterior só podem ser contraídos para a realização de investimentos reprodutivos, aquisição de prédios rústicos ou urbanos ou de direitos a eles relativos, construção, reconstrução e ampliação de prédios destinados à prossecução das atribuições da empresa, realização de obras e melhoramentos de utilidade pública e ainda para a reconversão de empréstimos anteriormente obtidos.\n\n3. A E. P. U. L. poderá igualmente contrair empréstimos a curto e médio prazos em estabelecimentos bancários nacionais, para antecipação de receitas, aquisição de material ou maneio da tesouraria."
+  },
+  "304983239e3f947c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 37.º\n\n1. A amortização dos bens da E. P. U. L. e, quando a ela houver lugar, a dos bens do domínio público a seu cargo serão efectuadas nos termos que forem fixados pelo conselho de administração, ouvido o conselho fiscal.\n\n2. O valor anual das amortizações constituirá encargo de exploração e será escriturado em conta especial."
+  },
+  "849de0fc88b985eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 38.º\n\n1. A E. P. U. L. poderá fazer as provisões e reservas consentidas por lei às empresas comerciais, sendo obrigatórias, porém, as reservas seguintes:\n\na) Reserva para investimentos;\n\nb) Reserva legal.\n\n2. Constituem a reserva para investimentos:\n\na) A parte dos lucros apurados em cada exercício que lhe for anualmente destinada;\n\nb) As receitas provenientes de subsídios, comparticipações, doações, heranças e legados de que a E. P. U. L. seja beneficiária;\n\nc) As importâncias resultantes da transmissão ou constituição de direitos relativos a bens imóveis e dos rendimentos especialmente afectados a investimentos.\n\n3. Constituem a reserva geral a parte dos lucros de cada exercício que lhe for anualmente destinada e o rendimento dos valores que a integram.\n\n4. A reserva geral pode ser utilizada para cobrir eventuais prejuízos de exercício."
+  },
+  "5f4e3d53c7526571": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 39.º\n\n1. Serão elaborados anualmente, com referência ao dia 31 de Dezembro, o cadastro dos bens da empresa, o balanço, a conta de ganhos e perdas do exercício e a conta de gerência.\n\n2. Até 10 de Abril deverá ser remetido à C. M. L. o relatório do conselho de administração referente ao exercício anterior, acompanhado do balanço, das contas de gerência e de ganhos e perdas e do parecer do conselho fiscal."
+  },
+  "51bafefbbcb2708d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 40.º\n\n1. Quando a conta de ganhos e perdas de um exercício encerre com lucros, o conselho de administração levará à reserva geral 5 por cento, pelo menos, e atribuirá à C. M. L. 20 por cento, a título de participação nos lucros da Empresa, dispondo do remanescente nos termos indicados nos números seguintes.\n\n2. Se a importância dos lucros for diminuta ou as previsões do exercício seguinte o aconselharem, será levado o remanescente à nova conta.\n\n3. Se a importância dos lucros o justificar e as circunstâncias o permitirem, o remanescente será destinado:\n\na) A reserva para investimentos;\n\nb) Aos membros dos órgãos da Empresa e ao respectivo pessoal, a título de participação nos lucros, até ao limite de 10 por cento;\n\nc) A reservas especiais ou à nova conta;\n\nd) À C. M. L., como aumento da participação estabelecida no n.º 1.\n\n4. O montante da participação a que se refere a alínea b) do número anterior não poderá exceder um sexto do valor das remunerações certas pagas individualmente no exercício a que os lucros respeitam e a sua distribuição será efectuada em conformidade com regulamento interno.\n\n5. Se a conta saldar com prejuízo que não possa ser suportado pela reserva geral, será levado à conta do exercício seguinte ou coberto pela C. M. L., quando esta o entender conveniente."
+  },
+  "22fc3c7810a0e625": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 41.º\n\n1. As contas de gerência da E. P. U. L. estão sujeitas a julgamento do Tribunal de Contas.\n\n2. Para esse efeito, a C. M. L. remeterá ao referido Tribunal, até 15 de Maio de cada ano, a conta de gerência da Empresa relativa ao ano anterior, acompanhada do parecer que sobre ela tenha emitido."
+  },
+  "e53adfbc9484cf6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 42.º\n\nO relatório de exercício do conselho de administração, o balanço, as contas da Empresa e o parecer do conselho fiscal serão publicados no Diário do Governo e no Diário Municipal da C. M. L."
+  },
+  "9d7cd8dcfcef7483": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 43.º\n\n1. As disponibilidades em numerário sem aplicação imediata serão depositadas à ordem ou a prazo na Caixa Geral de Depósitos.\n\n2. Podem ainda essas disponibilidades ser depositadas em outras instituições de crédito nacionais que tenham concedido créditos à empresa."
+  },
+  "8936215f40e63f4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V\n\nIntervenção da C. M. L."
+  },
+  "977c77b9a45429f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 44.º\n\nCarecem de aprovação da C. M. L.:\n\na) Os planos de actividade e financeiros, os programas anuais de trabalho, os orçamentos anuais e suplementares da E. P. U. L. e a fixação do número máximo destes últimos em cada ano;\n\nb) A definição dos empreendimentos a realizar pela Empresa no âmbito dos fins para que foi criada, bem como a forma da sua execução e exploração;\n\nc) A organização de serviços da Empresa e os seus regulamentos internos;\n\nd) As regras de amortização dos bens da Empresa e, quando a ela houver lugar, dos bens do domínio público a seu cargo, bem como as regras de constituição das provisões e dos fundos de reserva;\n\ne) O relatório do exercício do conselho de administração, o balanço, a conta de ganhos e perdas e a conta de gerência da empresa, bem como a aplicação dos seus lucros de exercício;\n\nf) As deliberações do conselho de administração da empresa sobre empréstimos e sobre aquisição, transmissão e constituição de direitos relativos a bens imóveis;\n\ng) As minutas dos contratos a celebrar pela Empresa, com aval ou outra garantia da Câmara;\n\nh) As propostas ou pedidos que tenham de ser submetidos ao Governo."
+  },
+  "d2ad7ceb52a0909a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 45.º\n\nA C. M. L. pode fiscalizar os órgãos e os serviços da E. P. U. L., responsabilizando os membros daqueles pelo não cumprimento das disposições legais."
+  },
+  "a2e91f1991db9ce0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 46.º\n\nOs conselho de administração e conselho fiscal prestarão à C. M. L. as informações que esta tiver por convenientes."
+  },
+  "8da9b6afc9bc1359": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 47.º\n\nA C. M. L. poderá avalizar ou garantir por outra forma obrigações contraídas pela E. P. U. L., desde que autorizada pelo Governo."
+  },
+  "7a127530958c4fd0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 48.º\n\nQuando, no âmbito de actuação da E. P. U. L., sejam aconselháveis concessões de obras públicas ou de outra natureza, a C. M. L. será entidade concedente."
+  },
+  "adec5a9f8c190e08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições diversas"
+  },
+  "4bf8bce4f52ea6da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 49.º\n\n1. A E. P. U. L. reger-se-á pelo disposto no presente estatuto na organização dos seus serviços e nos regulamentos a ela relativos.\n\n2. Nos casos omissos serão observadas, com as necessárias adaptações, as normas que regulam a actividade da empresas comerciais e a competência dos seus órgãos.\n\n3. É aplicável à E. P. U. L. o regime jurídico de fiscalização de sociedades anónimas, salvo as disposições incompatíveis com o presente estatuto e o carácter público da Empresa."
+  },
+  "46073a54b0ea048f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 50.º\n\n1. A C. M. L. transmitirá à E. P. U. L. os bens municipais existentes nas áreas de cuja urbanização ou renovação urbana for por ela encarregada e que sejam necessários para o efeito.\n\n2. Deverão ser transmitidos para a C. M. L. os bens e demais valores da E. P. U. L. que aquela considere desnecessários para a prossecução das atribuições desta Empresa, sem prejuízo da manutenção das garantias de créditos de que sejam objecto.\n\n3. A extinção da E. P. U. L. implicará a reversão, para a C. M. L., de todos os seus direitos e obrigações.\n\n4. Todas as transmissões a que se refere este artigo serão feitas por auto lavrado pelo notário da C. M. L. e assinado pelo presidente desta e pelo administrador-delegado da E. P. U. L., ficando este auto, as transmissões e os subsequentes registos prediais isentos de quaisquer impostos, contribuições, taxas ou emolumentos.\n\n5. O disposto no n.º 4 é aplicável, com as devidas adaptações, às transmissões de bens a efectuar entre a E. P. U. L. e as câmaras dos outros concelhos em cujas áreas venha a exercer actividade, de harmonia com os princípios estabelecidos nos n.os 1 e 2."
+  },
+  "d00f81c09983e3f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 51.º\n\n1. A E. P. U. L. goza de isenção de contribuições, impostos, taxas, custas judiciais, emolumentos, licenças administrativas e demais imposições de que beneficia a C. M. L, nos mesmos termos desta.\n\n2. A Empresa goza também de isenção, relativamente aos edifícios construídos por ela ou por sua conta, das taxas sanitárias por vistorias a prédios urbanos e licenciamento de obras, habitação ou ocupação de prédios, estabelecidas na [Portaria n.º 23298](https://diariodarepublica.pt/dr/detalhe/portaria/23298-1968-234925), de 6 de Abril de 1968."
+  },
+  "6fdd23917fe73112": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 52.º\n\nSão aplicáveis aos despejos de prédios pertencentes à E. P. U. L. as disposições legais relativas aos despejos de prédios dos municípios."
+  },
+  "6199160be4fef22b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 53.º\n\n1. A E. P. U. L. conservará em arquivo, pelo prazo de vinte anos, os elementos da sua escrita principal e a correspondência; os restantes documentos e elementos de escrita poderão ser inutilizados, mediante autorização do conselho de administração, depois de decorridos cinco anos sobre a sua entrada ou elaboração na Empresa.\n\n2. Os documentos e livros que devam conservar-se em arquivo e a correspondência referida no número anterior poderão ser microfilmados, devendo os microfilmes ser autenticados com a assinatura do responsável pelo serviço; os respectivos originais poderão ser inutilizados após a microfilmagem, depois de resolução do conselho de administração e de lavrado auto em que fiquem relacionados.\n\n3. As fotocópias autenticadas têm a mesma força probatória dos originais, ainda quando se trate de ampliações dos microfilmes que os reproduzam."
+  },
+  "d48308d88dff981a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 54.º\n\nAs dúvidas que se suscitarem na aplicação do presente estatuto serão resolvidas por despacho do Ministro do Interior.\n\nO Ministro do Interior, António Manuel Gonçalves Rapazote."
+  },
+  "5f261fc9fc6d5bbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Empresa Pública de Urbanização de Lisboa, abreviadamente designada neste diploma por E. P. U. L., é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, e constitui uma empresa pública destinada a auxiliar e desenvolver a acção municipal no estudo e na execução de empreendimentos urbanísticos."
+  },
+  "d2df0a0aa8d038f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1980-10-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. A E. P. U. L. tem a sua sede em Lisboa e prossegue as suas atribuições na área do respectivo concelho.\n\n2 - Com autorização do Governo, porém, poderá ser-lhe confiada a realização de estudos urbanísticos ou de obras de urbanização ou de renovação urbana em outras áreas, nas condições que vierem a ser acordadas entre a Câmara Municipal de Lisboa, abreviadamente designada neste diploma por CML, a empresa e a outra ou outras autarquias interessadas.\n\n> Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03."
+  },
+  "2ae2c73f0a1b56c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Constituem atribuições da E. P. U. L.:\n\na) Os estudos relativos à urbanização ou renovação urbana das áreas que para o efeito lhe sejam indicadas;\n\nb) A realização de obras convenientes à urbanização ou renovação urbana de áreas de que for encarregada.\n\n2. Fora dos casos abrangidos pelo n.º 2 do artigo anterior, compete à C. M. L. designar as áreas cujo estudo ou cuja urbanização ou renovação urbana deverão ser confiados à E. P. U. L."
+  },
+  "c4143f3bdf1c25da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1980-10-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 623/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/623-1976-430860), publicado em 1976-07-28."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1. Para o desempenho das suas atribuições compete à E. P. U. L.:\n\na) Proceder à elaboração de estudos urbanísticos, sociológicos, administrativos ou de outra natureza e de projectos, gerais ou parciais, que lhe sejam confiados, ou respeitem a áreas de cuja urbanização ou renovação urbana for encarregada ou a outras obras que tiver de realizar;\n\nb) Executar obras de criação ou melhoramento de infra-estruturas e equipamento, de construção de edifícios, ou outras que se mostrem convenientes para os trabalhos de urbanização ou de renovação urbana a seu cargo;\n\nc) Executar obras a cargo de outras entidades públicas ou de particulares, desde que se situem em zonas de trabalho da Empresa, a sua realização seja conveniente para o interesse geral e exista acordo com os interessados;\n\nd) Executar obras de conservação e manutenção de conjuntos de edifícios, de equipamentos, de instalações e outras em bens partencentes à Empresa ou a outras entidades, públicas ou privadas, mas cuja realização se considere aconselhável confiar-lhe, mediante acordo com os interessados;\n\ne) Fiscalizar convenientemente a administração e execução das obras a seu cargo;\n\nf) Elaborar, pelo menos anualmente, planos técnico, económico e financeiro da gestão da Empresa e a sua particularização para cada plano parcial, e os respectivos programas de execução;\n\ng) Adquirir os bens e direitos a eles relativos, necessários à prossecução das suas atribuições;\n\nh) Pedir ao Governo a expropriação por utilidade pública dos imóveis e direitos a eles relativos, necessários à prossecução das suas atribuições, nos termos aplicáveis à C. M. L.;\n\ni) Alienar os bens que não sejam necessários à prossecução das suas atribuições e, em especial, ceder, segundo as modalidades mais convenientes, designadamente através da constituição do direito de superfície, as construções que se reconheça não deverem continuar como sua propriedade e os lotes de terreno destinados à construção particular;\n\nj) Celebrar contratos de associação, nos termos previstos na lei e quando se mostre conveniente, com os proprietários das áreas a urbanizar ou a submeter a operações de renovação urbana;\n\nl) Organizar e manter actualizado o cadastro dos seus bens;\n\nm) Praticar os actos necessários à exploração dos seus bens;\n\nn) Celebrar contratos de arrendamento, activa e passivamente, e de prestação de serviços;\n\no) Organizar exposições e publicar estudos destinados a estimular o interesse público pelos empreendimentos de que esteja incumbida;\n\np) Promover a aceleração dos estudos de pesquisa de novos processos de construção e de utilização de materiais;\n\nq) Exercer todas as actividades complementares ou subsidiárias relacionadas com as anteriores ou outras que lhe venham a ser cometidas pela C. M. L., dentro das atribuições da Empresa;\n\nr) Praticar os demais actos necessários à prossecução das suas atribuições.\n\n2. As obras da competência da E. P. U. L. podem ser executadas em regime de administração directa ou de empreitada e não carecem de licença se o projecto respectivo tiver sido aprovado pela câmara municipal.\n\n3. A alienação de bens imóveis será feita mediante hasta pública ou por propostas em carta fechada e lacrada, a abrir em sessão do conselho de administração, precedendo, em ambos os casos, anúncios de, pelo menos, vinte dias.\n\n4. Exceptuam-se do disposto no número anterior, além das alienações em relação às quais for autorizado o ajuste ou acordo directo por despacho conjunto do Ministro da Administração Interna e do Ministro da Habitação, Urbanismo e Construção, as cedências de terrenos a que se refere o n.º 1 do artigo 43.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, as alienações a favor de pessoas colectivas de direito público e de pessoas colectivas de utilidade pública administrativa, as cessões para alinhamento e as que se destinem à formação de lotes para construção, desde que, neste último caso, a área a ceder não seja superior a 30% da área do lote a constituir, e quaisquer outras previstas na lei.\n\n> Alterado pelo/a [Decreto-Lei n.º 623/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/623-1976-430860), publicado em 1976-07-28."
+  },
+  "172b989f988f8ea9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA E. P. U. L. é administrada e fiscalizada, respectivamente, pelos seguintes órgãos:\n\na) Conselho de administração;\n\nb) Conselho fiscal."
+  },
+  "1cc5b647366c8fc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1980-10-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03."
+   ],
+   "markdown": "###### Artigo 6.º\n\n1. O conselho de administração é constituído por um presidente e quatro vogais.\n\n2. O presidente é designado em reunião da Câmara Municipal de Lisboa, sob proposta do respectivo presidente; os vogais são designados, dois pela mesma Câmara e dois pelo respectivo presidente, no início de cada mandato da Câmara Municipal.\n\n3. As funções de membro do conselho de administração são incompatíveis com o exercício de quaisquer cargos ou actividades em empresas que se proponham objectivos idênticos ou afins dos da E. P. U. L. ou em empresas que com esta tenham contrato, e, bem assim, com a titularidade de quotas em qualquer dessas empresas ou de interesse em contrato com a E. P. U. L.\n\n4 - Um dos vogais do conselho será designado pela Câmara para as funções de administrador-delegado.\n\n> Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03."
+  },
+  "dbacb72369c56483": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nNas suas faltas ou impedimentos, o presidente do conselho de administração será substituído pelo vogal que ele designar, ou, não havendo designação, pelo mais antigo."
+  },
+  "d92fb82d22e1eee1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1980-10-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03."
+   ],
+   "markdown": "###### Artigo 8.º\n\nO presidente e os vogais do conselho de administração receberão ordenado mensal, tendo ainda direito aos subsídios e às regalias sociais correspondentes aos gestores públicos.\n\n> Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03."
+  },
+  "a77849a3510ceeae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO conselho de administração reúne, ordinàriamente, pelo menos duas vezes por mês e, extraordinàriamente, sempre que seja convocado pelo presidente."
+  },
+  "7511a027393368eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Compete ao conselho de administração praticar todos os actos necessários à gestão da Empresa, designadamente:\n\na) Autorizar a execução de trabalhos e de obras, fixando os termos e condições a que devem obedecer;\n\nb) Emitir parecer sobre os assuntos que a C. M. L. entenda dever submeter-lhe e mandar realizar os estudos que por esta lhe sejam confiados;\n\nc) Elaborar os planos de actividade e financeiro e os programas anuais de trabalho;\n\nd) Organizar os orçamentos anuais e suplementares da receita e despesa;\n\ne) Elaborar anualmente o relatório de exercício e os respectivos balanço, conta de gerência e conta de ganhos e perdas;\n\nf) Providenciar sobre a conferência ao cofre da tesouraria, quando o julgar conveniente e, pelo menos, uma vez em cada mês;\n\ng) Estabelecer o modo de constituição das provisões e das reservas, o sistema de amortização de bens e o modo de distribuição dos resultados de exercício;\n\nh) Estabelecer a organização dos serviços, incluindo a fixação das categorias do pessoal e as respectivas remunerações, bem como os regulamentos internos;\n\ni) Contratar, louvar ou premiar o pessoal, rescindir os respectivos contratos e exercer sobre ele a competente acção disciplinar;\n\nj) Adquirir, transmitir ou constituir direitos relativos a bens, designadamente o direito de propriedade e o direito de superfície;\n\nl) Requerer a expropriação por utilidade pública;\n\nm) Celebrar contratos de arrendamento e de exploração de bens ou de serviços, assim como de adjudicação de obras;\n\nn) Celebrar contratos de mútuo;\n\no) Promover concessões de obras públicas ou de outra natureza;\n\np) Fiscalizar a organização e actualização do cadastro dos bens da empresa;\n\nq) Praticar os demais actos que lhe caibam nos termos do presente estatuto e dos regulamentos da Empresa ou lhe sejam cometidos por lei.\n\n2. O conselho de administração pode delegar determinados poderes da sua competência em um ou mais dos seus membros, estabelecendo em cada caso os limites e condições de exercício da delegação."
+  },
+  "d48cee8b98e02734": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nDas deliberações definitivas e executórias tomadas pelo conselho de administração, bem como dos actos da mesma natureza praticados por sua delegação, cabe recurso contencioso para a Auditoria Administrativa."
+  },
+  "2e0a6e5e394b3f13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nCompete ao presidente do conselho de administração:\n\na) Superintender nos serviços da empresa;\n\nb) Representar a mesma em quaisquer actos ou contratos em que ela deva intervir, podendo delegar a representação no administrador-delegado, noutro vogal ou em pessoa especialmente habilitada para o efeito;\n\nc) Convocar reuniões conjuntas do conselho de administração e do conselho fiscal, sempre que o julgue conveniente, presidindo a essas reuniões;\n\nd) Suspender, se julgar conveniente, a execução das deliberações do conselho de administração tomadas sem a presença de todos os membros em exercício, submetendo essas deliberações à reunião imediatamente seguinte do referido conselho;\n\ne) As demais funções estabelecidas neste estatuto e regulamentos internos."
+  },
+  "1704299b7392e78e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nCompete ao administrador-delegado:\n\na) Exercer, em relação ao pessoal, as funções que lhe caibam nos termos regulamentares ou por delegação do conselho de administração;\n\nb) Autorizar as despesas respeitantes à aquisição dos bens móveis e a encargos administrativos;\n\nc) Ordenar inspecções aos serviços ou proceder a elas directamente;\n\nd) Submeter ao conselho de administração os assuntos que a este caiba apreciar e os que entenda conveniente, bem como propor ao mesmo conselho as providências que julgue de interesse para a empresa;\n\ne) Desempenhar quaisquer outras funções que lhe sejam cometidas e as demais indispensáveis à administração corrente da empresa."
+  },
+  "8d8170fbc4e1835d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. O conselho fiscal é constituído por um presidente e dois vogais, nomeados pelo período de cinco anos, renovável.\n\n2. O presidente será designado pelo Ministro do Interior; um vogal será um revisor de contas, designado pelo Ministro da Justiça, e o outro vogal será designado pela C. M. L. de entre licenciados em Direito, Economia ou Finanças.\n\n3. Cada membro do conselho fiscal terá um suplente, designado nos mesmos termos."
+  },
+  "9186047a8190169d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs membros do conselho fiscal recebem uma gratificação mensal."
+  },
+  "743a1df1278880e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nO conselho fiscal reúne ordinàriamente uma vez por mês e, extraordinàriamente, sempre que seja convocado pelo respectivo presidente, bem como a pedido do conselho de administração."
+  },
+  "977e2cb1311e5aac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nCompete ao conselho fiscal:\n\na) Velar pelo cumprimento das leis e regulamentos aplicáveis à Empresa;\n\nb) Emitir parecer sobre os planos de actividade e financeiros e os programas anuais de trabalho e acompanhar a sua execução;\n\nc) Emitir parecer sobre os orçamentos da Empresa, relatórios de exercício, inventário, balanço o contas;\n\nd) Acompanhar a execução dos orçamentos, examinar periòdicamente a contabilidade da empresa e seguir, através de informações adequadas, a respectiva evolução;\n\ne) Exigir as informações que entenda necessárias sobre os valores existentes em cofre e efectuar as verificações e conferências que julgar convenientes;\n\nf) Exercer as funções de exame e visto em relação aos actos especificados em regulamento;\n\ng) Pronunciar-se sobre as condições de empréstimos a contrair, a amortização dos bens, a constituição de provisões e reservas, a aquisição, transmissão e constituição de direitos relativos a bens imóveis, a aplicação dos lucros de exercício e outras deliberações que devam ser submetidas à aprovação da C. M. L.;\n\nh) Sugerir ao conselho de administração ou à C. M. L. as providências necessárias à boa administração da Empresa e as reformas convenientes à melhoria da prossecução das respectivas atribuições;\n\ni) Exercer as demais funções estabelecidas neste estatuto e regulamentos da empresa ou que lhe sejam cometidas por lei."
+  },
+  "1686017b80e7abdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. Às reuniões do conselho de administração assistirá sempre um membro do conselho fiscal, o qual terá voto nos casos expressamente previstos no presente estatuto e regulamentos da Empresa.\n\n2. Carecem de voto concordante do membro do conselho fiscal que assistir à reunião do conselho de administração as deliberações deste sobre aplicação de fundos permanentes em papéis de crédito ou em depósitos a prazo e realização de despesas para fins acessórios, incluindo os de carácter social, cultural ou assistencial.\n\n3. Nos casos previstos no número anterior, o voto discordante deve ser fundamentado e determina a apreciação da deliberação pelo conselho fiscal; se o parecer deste for desfavorável, a deliberação carece de aprovação da C. M. L.\n\n4. A assistência às reuniões do conselho de administração e as demais funções do conselho fiscal que não careçam de ser exercidas em reunião desse órgão, incluindo as de exame e visto, serão asseguradas em regime de delegação por um ou dois dos seus membros, conforme a conveniência do serviço e segundo a escala que para esse efeito for estabelecida pelo próprio conselho.\n\n5. Quando algumas das matérias referidas no n.º 2 deste artigo for objecto de decisão tomada por delegação do conselho de administração, será a decisão submetida à aprovação do representante do conselho fiscal, observando-se o disposto no n.º 3, no caso de parecer desfavorável."
+  },
+  "60735a2c510402e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO conselho de administração facultará ao conselho fiscal os meios indispensáveis ao exercício das suas funções."
+  },
+  "36e4f7b72c650ec9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. O conselho de administração e o conselho fiscal só podem deliberar quando esteja presente a maioria dos respectivos membros.\n\n2. As deliberações serão tomadas por maioria dos membros presentes, não sendo permitido o voto por correspondência ou por procuração; no caso de empate, o presidente terá voto de qualidade.\n\n3. As deliberações constarão da acta da reunião em que forem tomadas e só por ela poderão ser provadas.\n\n4. As actas serão lavradas pelo empregado da E. P. U. L. designado para esse efeito e assinadas por quem tiver presidido às reuniões, podendo ser aprovadas no final destas, em minuta, ou na reunião que se seguir."
+  },
+  "49bf763fa64fb062": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": "1980-10-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03."
+   ],
+   "markdown": "###### Artigo 21.º\n\n1 - Os funcionários e agentes do Estado, de quaisquer pessoas colectivas de direito público e de empresas nacionalizadas designados para o conselho de administração consideram-se em comissão de serviço, podendo os respectivos lugares ser providos interinamente.\n\n2 - Os empregados de empresas privadas que se encontrem na situação prevista no número anterior mantêm o direito aos lugares de origem, os quais só poderão ser preenchidos transitoriamente.\n\n3 - O tempo de serviço prestado à EPUL pelos membros do conselho de administração a que aludem os números antecedentes será contado como se tivesse sido prestado nos quadros do Estado, das pessoas colectivas de direito público ou das empresas a que pertençam, mantendo aqueles, durante o exercício das respectivas funções, o direito às promoções, ao acesso a concurso, às regalias e benefícios sociais e a qualquer outro direito adquirido.\n\n4 - Os membros do conselho de administração abrangidos por este artigo podem optar, em qualquer momento, pelos vencimentos correspondentes ao seu cargo ou lugar de origem, competindo, porém, sempre o seu pagamento à EPUL, a qual suportará igualmente os encargos imputáveis à entidade patronal relativos às regalias ou benefícios sociais referidos no número antecedente.\n\n> Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03."
+  },
+  "f9a103f7607b20ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": "1980-10-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03."
+   ],
+   "markdown": "###### Artigo 22.º\n\nOs ordenados dos membros do conselho de administração e as gratificações dos membros do conselho fiscal serão fixados pelo Ministro da Administração Interna, dentro dos limites estabelecidos para as restantes empresas públicas.\n\n> Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03."
+  },
+  "368c3c56e57e61e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs membros do conselho de administração e do conselho fiscal são equiparados ao pessoal da Empresa em matéria de responsabilidade."
+  },
+  "453a2b617b444418": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs vogais do conselho de administração e os membros do conselho fiscal tomam posse perante o presidente da C. M. L."
+  },
+  "e80bf09e152e50e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. O pessoal da E. P. U. L. será contratado ou assalariado e ficará sujeito ao regime do contrato individual de trabalho, com as adaptações exigidas pelas características da Empresa que forem definidas em decreto regulamentar referendado pelos Ministros do Interior e das Corporações e Previdência Social.\n\n2. Poderão exercer funções na E. P. U. L., em comissão de serviço, funcionários do Estado, dos seus institutos públicos e das autarquias locais, ficando os mesmos sujeitos:\n\na) Quanto à prestação de serviço, ao regime próprio dos funcionários das autarquias locais;\n\nb) No que respeita às relações com os quadros de origem, ao regime sobre comissões de serviço aplicável ao respectivo quadro."
+  },
+  "869a2cbb3b9ca1de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. As remunerações do pessoal são fixadas pelo conselho de administração, com parecer favorável do conselho fiscal, e carecem de homologação do Ministro do Interior.\n\n2. O pessoal poderá participar nos lucros da empresa, nos termos do presente estatuto.\n\n3. Para estímulo e distinção dos melhores servidores da Empresa, o conselho de administração, com o parecer favorável do conselho fiscal. poderá atribuir prémios, nas condições que forem estabelecidas em regulamento interno"
+  },
+  "1be342e72cc932a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nO pessoal da E. P. U. L. fica submetido ao regime geral de previdência social aplicável ao pessoal das empresas privadas, salvo o pessoal a que se refere o n.º 2 do artigo 25.º, que continua sujeito ao regime aplicável ao pessoal do respectivo quadro de origem."
+  },
+  "a8fdda00b7214fba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nO pessoal da E. P. U. L., incluindo os funcionários a que e refere o n.º 2 do artigo 25.º, fica sujeito, quanto às respectivas remunerações, à tributação que incide sobre as remunerações pagas pelas empresas privadas."
+  },
+  "ada10592eb4d1583": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1. O pessoal será admitido conforme as necessidades da Empresa, dentro das respectivas dotações orçamentais.\n\n2. O conselho de administração pode ajustar a celebração de contratos de prestação de serviços que se mostrem convenientes, nas condições por ele fixadas em cada caso."
+  },
+  "7906b7034f777505": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nAo pessoal da E. P. U. L. é aplicável o regime do artigo 39.º do Estatuto do Trabalho Nacional."
+  },
+  "28a236329676a640": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nA gestão financeira e patrimonial da E. P. U. L. basear-se-á nos seguintes documentos:\n\na) Planos de actividade e financeiros;\n\nb) Programas anuais de trabalhos;\n\nc) Orçamentos anuais e suplementares."
+  },
+  "124a87362ed386e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nNos planos financeiros prever-se-ão especialmente, em relação aos períodos a que respeitem, a evolução das receitas e das despesas, os investimentos projectados e as fontes de financiamento a que deverá recorrer-se."
+  },
+  "2e96beb0933882fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nA contabilidade obedecerá às regras de gestão empresarial, mantendo-se paralelamente a escrituração da execução orçamental."
+  },
+  "f7cec34444e95914": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1. A E. P. U. L. organizará em cada ano económico um orçamento ordinário e os orçamentos suplementares que entenda necessários à sua gestão financeira.\n\n2. Na organização e na execução dos seus orçamentos, a E. P. U. L., além de observar, quanto possível, as normas que regulam o orçamento e a conta de gerência da C. M. L., deverá atender aos objectivos industriais e comerciais a prosseguir e às necessidades da exploração dos respectivos empreendimentos, sem prejuízo, porém, do disposto no número seguinte.\n\n3. Os orçamentos serão executados de modo que, na efectivação das despesas, se respeitem os princípios da autorização dependente de cabimento na dotação orçamental e da obtenção da maior eficiência com o menor dispêndio possível."
+  },
+  "7441d7e0443a8b62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nConstituem receitas da E. P. U. L.:\n\na) As verbas que lhe forem destinadas pela C. M. L.;\n\nb) As comparticipações, as dotações e os subsídios do Estado e seus institutos públicos, de autarquias locais, pessoas colectivas de utilidade pública administrativa, organismos corporativos ou de outras pessoas, singulares ou colectivas;\n\nc) Doações, heranças ou legados;\n\nd) O rendimento dos bens próprios;\n\ne) O produto da alienação dos seus bens ou da constituição de direitos sobre eles;\n\nf) O produto das mais-valias devidas pela valorização resultantes das obras a seu cargo;\n\ng) O produto de empréstimos:\n\nh) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que por lei ou contrato devam pertencer-lhe."
+  },
+  "690ce175c81e7cb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1. A E. P. U. L. pode contrair empréstimos a curto, médio e longo prazos em estabelecimentos bancários ou mediante a emissão de obrigações.\n\n2. Os empréstimos a que se refere o número anterior só podem ser contraídos para a realização de investimentos reprodutivos, aquisição de prédios rústicos ou urbanos ou de direitos a eles relativos, construção, reconstrução e ampliação de prédios destinados à prossecução das atribuições da empresa, realização de obras e melhoramentos de utilidade pública e ainda para a reconversão de empréstimos anteriormente obtidos.\n\n3. A E. P. U. L. poderá igualmente contrair empréstimos a curto e médio prazos em estabelecimentos bancários nacionais, para antecipação de receitas, aquisição de material ou maneio da tesouraria."
+  },
+  "7ea5f8a6ca26a52f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1. A amortização dos bens da E. P. U. L. e, quando a ela houver lugar, a dos bens do domínio público a seu cargo serão efectuadas nos termos que forem fixados pelo conselho de administração, ouvido o conselho fiscal.\n\n2. O valor anual das amortizações constituirá encargo de exploração e será escriturado em conta especial."
+  },
+  "8eec8194b571e6a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1. A E. P. U. L. poderá fazer as provisões e reservas consentidas por lei às empresas comerciais, sendo obrigatórias, porém, as reservas seguintes:\n\na) Reserva para investimentos;\n\nb) Reserva legal.\n\n2. Constituem a reserva para investimentos:\n\na) A parte dos lucros apurados em cada exercício que lhe for anualmente destinada;\n\nb) As receitas provenientes de subsídios, comparticipações, doações, heranças e legados de que a E. P. U. L. seja beneficiária;\n\nc) As importâncias resultantes da transmissão ou constituição de direitos relativos a bens imóveis e dos rendimentos especialmente afectados a investimentos.\n\n3. Constituem a reserva geral a parte dos lucros de cada exercício que lhe for anualmente destinada e o rendimento dos valores que a integram.\n\n4. A reserva geral pode ser utilizada para cobrir eventuais prejuízos de exercício."
+  },
+  "960170794104f0ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n1. Serão elaborados anualmente, com referência ao dia 31 de Dezembro, o cadastro dos bens da empresa, o balanço, a conta de ganhos e perdas do exercício e a conta de gerência.\n\n2. Até 10 de Abril deverá ser remetido à C. M. L. o relatório do conselho de administração referente ao exercício anterior, acompanhado do balanço, das contas de gerência e de ganhos e perdas e do parecer do conselho fiscal."
+  },
+  "149a1bd2244aed19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\n1. Quando a conta de ganhos e perdas de um exercício encerre com lucros, o conselho de administração levará à reserva geral 5 por cento, pelo menos, e atribuirá à C. M. L. 20 por cento, a título de participação nos lucros da Empresa, dispondo do remanescente nos termos indicados nos números seguintes.\n\n2. Se a importância dos lucros for diminuta ou as previsões do exercício seguinte o aconselharem, será levado o remanescente à nova conta.\n\n3. Se a importância dos lucros o justificar e as circunstâncias o permitirem, o remanescente será destinado:\n\na) A reserva para investimentos;\n\nb) Aos membros dos órgãos da Empresa e ao respectivo pessoal, a título de participação nos lucros, até ao limite de 10 por cento;\n\nc) A reservas especiais ou à nova conta;\n\nd) À C. M. L., como aumento da participação estabelecida no n.º 1.\n\n4. O montante da participação a que se refere a alínea b) do número anterior não poderá exceder um sexto do valor das remunerações certas pagas individualmente no exercício a que os lucros respeitam e a sua distribuição será efectuada em conformidade com regulamento interno.\n\n5. Se a conta saldar com prejuízo que não possa ser suportado pela reserva geral, será levado à conta do exercício seguinte ou coberto pela C. M. L., quando esta o entender conveniente."
+  },
+  "0386f07ac0bf0f55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1. As contas de gerência da E. P. U. L. estão sujeitas a julgamento do Tribunal de Contas.\n\n2. Para esse efeito, a C. M. L. remeterá ao referido Tribunal, até 15 de Maio de cada ano, a conta de gerência da Empresa relativa ao ano anterior, acompanhada do parecer que sobre ela tenha emitido."
+  },
+  "9832737dbad762af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nO relatório de exercício do conselho de administração, o balanço, as contas da Empresa e o parecer do conselho fiscal serão publicados no Diário do Governo e no Diário Municipal da C. M. L."
+  },
+  "cd00f6a02b0569d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1. As disponibilidades em numerário sem aplicação imediata serão depositadas à ordem ou a prazo na Caixa Geral de Depósitos.\n\n2. Podem ainda essas disponibilidades ser depositadas em outras instituições de crédito nacionais que tenham concedido créditos à empresa."
+  },
+  "17dfd9ea5696c9fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nCarecem de aprovação da C. M. L.:\n\na) Os planos de actividade e financeiros, os programas anuais de trabalho, os orçamentos anuais e suplementares da E. P. U. L. e a fixação do número máximo destes últimos em cada ano;\n\nb) A definição dos empreendimentos a realizar pela Empresa no âmbito dos fins para que foi criada, bem como a forma da sua execução e exploração;\n\nc) A organização de serviços da Empresa e os seus regulamentos internos;\n\nd) As regras de amortização dos bens da Empresa e, quando a ela houver lugar, dos bens do domínio público a seu cargo, bem como as regras de constituição das provisões e dos fundos de reserva;\n\ne) O relatório do exercício do conselho de administração, o balanço, a conta de ganhos e perdas e a conta de gerência da empresa, bem como a aplicação dos seus lucros de exercício;\n\nf) As deliberações do conselho de administração da empresa sobre empréstimos e sobre aquisição, transmissão e constituição de direitos relativos a bens imóveis;\n\ng) As minutas dos contratos a celebrar pela Empresa, com aval ou outra garantia da Câmara;\n\nh) As propostas ou pedidos que tenham de ser submetidos ao Governo."
+  },
+  "49a2599d04d24206": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nA C. M. L. pode fiscalizar os órgãos e os serviços da E. P. U. L., responsabilizando os membros daqueles pelo não cumprimento das disposições legais."
+  },
+  "475c8d89da3d70f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nOs conselho de administração e conselho fiscal prestarão à C. M. L. as informações que esta tiver por convenientes."
+  },
+  "0b60b45a2e3e50c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nA C. M. L. poderá avalizar ou garantir por outra forma obrigações contraídas pela E. P. U. L., desde que autorizada pelo Governo."
+  },
+  "131face18ec90f87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nQuando, no âmbito de actuação da E. P. U. L., sejam aconselháveis concessões de obras públicas ou de outra natureza, a C. M. L. será entidade concedente."
+  },
+  "da87a93ec6ab696b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\n1. A E. P. U. L. reger-se-á pelo disposto no presente estatuto na organização dos seus serviços e nos regulamentos a ela relativos.\n\n2. Nos casos omissos serão observadas, com as necessárias adaptações, as normas que regulam a actividade da empresas comerciais e a competência dos seus órgãos.\n\n3. É aplicável à E. P. U. L. o regime jurídico de fiscalização de sociedades anónimas, salvo as disposições incompatíveis com o presente estatuto e o carácter público da Empresa."
+  },
+  "cd19b0cd9b335b67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\n1. A C. M. L. transmitirá à E. P. U. L. os bens municipais existentes nas áreas de cuja urbanização ou renovação urbana for por ela encarregada e que sejam necessários para o efeito.\n\n2. Deverão ser transmitidos para a C. M. L. os bens e demais valores da E. P. U. L. que aquela considere desnecessários para a prossecução das atribuições desta Empresa, sem prejuízo da manutenção das garantias de créditos de que sejam objecto.\n\n3. A extinção da E. P. U. L. implicará a reversão, para a C. M. L., de todos os seus direitos e obrigações.\n\n4. Todas as transmissões a que se refere este artigo serão feitas por auto lavrado pelo notário da C. M. L. e assinado pelo presidente desta e pelo administrador-delegado da E. P. U. L., ficando este auto, as transmissões e os subsequentes registos prediais isentos de quaisquer impostos, contribuições, taxas ou emolumentos.\n\n5. O disposto no n.º 4 é aplicável, com as devidas adaptações, às transmissões de bens a efectuar entre a E. P. U. L. e as câmaras dos outros concelhos em cujas áreas venha a exercer actividade, de harmonia com os princípios estabelecidos nos n.os 1 e 2."
+  },
+  "46d411bf62d48756": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\n1. A E. P. U. L. goza de isenção de contribuições, impostos, taxas, custas judiciais, emolumentos, licenças administrativas e demais imposições de que beneficia a C. M. L, nos mesmos termos desta.\n\n2. A Empresa goza também de isenção, relativamente aos edifícios construídos por ela ou por sua conta, das taxas sanitárias por vistorias a prédios urbanos e licenciamento de obras, habitação ou ocupação de prédios, estabelecidas na [Portaria n.º 23298](https://diariodarepublica.pt/dr/detalhe/portaria/23298-1968-234925), de 6 de Abril de 1968."
+  },
+  "cbdd7f4be677a23f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nSão aplicáveis aos despejos de prédios pertencentes à E. P. U. L. as disposições legais relativas aos despejos de prédios dos municípios."
+  },
+  "d1c6b4136efd4ad0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n1. A E. P. U. L. conservará em arquivo, pelo prazo de vinte anos, os elementos da sua escrita principal e a correspondência; os restantes documentos e elementos de escrita poderão ser inutilizados, mediante autorização do conselho de administração, depois de decorridos cinco anos sobre a sua entrada ou elaboração na Empresa.\n\n2. Os documentos e livros que devam conservar-se em arquivo e a correspondência referida no número anterior poderão ser microfilmados, devendo os microfilmes ser autenticados com a assinatura do responsável pelo serviço; os respectivos originais poderão ser inutilizados após a microfilmagem, depois de resolução do conselho de administração e de lavrado auto em que fiquem relacionados.\n\n3. As fotocópias autenticadas têm a mesma força probatória dos originais, ainda quando se trate de ampliações dos microfilmes que os reproduzam."
+  },
+  "68c76b46b3d32bf7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nAs dúvidas que se suscitarem na aplicação do presente estatuto serão resolvidas por despacho do Ministro do Interior.\n\nO Ministro do Interior, António Manuel Gonçalves Rapazote."
+  }
+ }
+}

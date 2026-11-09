@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-11-16'
+version_history:
+  file: decreto-lei-46291.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1965-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-11-16'
+    amending: pt:dre:367829:por
+    amending_title: Decreto-Lei n.º 451/79
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:52:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 451/79. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46291.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -108,17 +123,27 @@ Considerando a necessidade de regular num diploma único a existência e o condi
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Junto das unidades e outros órgãos da Força Aérea podem, sempre que tal convenha à sua existência e vida, funcionar serviços, criar-se e funcionar explorações de carácter agrícola, industrial e comercial, com a finalidade de, contra pagamento, efectuar fornecimentos e prestar serviços:
+###### Artigo 1.º
 
-Normalmente, às unidades e outros órgãos da Força Aérea, ao seu pessoal e respectivos agregados familiares;
+Junto das unidades e outros órgãos da Força Aérea podem, sempre que tal convenha à sua existência e vida, funcionar serviços, criar-se e funcionar explorações de carácter agrícola, industrial e comercial com a finalidade de, contra pagamento, efectuar fornecimentos e prestar serviços:
 
-Eventualmente, ao pessoal pertencente a forças militares nacionais ou estrangeiras autorizadas a utilizar facilidades nas mesmas unidades e órgãos.
+Por norma, às unidades e outros órgãos da Força Aérea, ao seu pessoal e respectivos agregados familiares;
 
-Art. 2.º Os preços dos fornecimentos e dos serviços prestados, nos termos do artigo 1.º, são os dos custos ou valores, acrescidos de uma percentagem fixada pelo Secretário de Estado da Aeronáutica, sob proposta do director do Serviço de Intendência e Contabilidade.
+Eventualmente, e mediante autorização prévia, ao pessoal pertencente às forças militares nacionais ou estrangeiras, bem como a outras entidades estranhas à Força Aérea.
 
-Art. 3.º As receitas resultantes das actividades previstas no artigo 1.º serão inscritas em orçamento privativo e constituirão um fundo único, que se designará «Fundo privativo de diversas receitas e despesas de ...» (unidade ou órgão).
+> Alterado pelo/a [Decreto-Lei n.º 451/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1979-367829), publicado em 1979-11-16.
 
-Art. 4.º O desenvolvimento da despesa deste fundo constará do respectivo orçamento, que obedecerá ao esquema da classificação e preceitos estabelecidos pelo [Decreto-Lei n.º 29724](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29724-1939-201782), de 28 de Junho de 1939, e legislação posterior.
+###### Artigo 2.º
+
+Os preços dos fornecimentos e dos serviços prestados, nos termos do artigo 1.º, são os dos custos ou valores, acrescidos de uma percentagem fixada pelo Secretário de Estado da Aeronáutica, sob proposta do director do Serviço de Intendência e Contabilidade.
+
+###### Artigo 3.º
+
+As receitas resultantes das actividades previstas no artigo 1.º serão inscritas em orçamento privativo e constituirão um fundo único, que se designará «Fundo privativo de diversas receitas e despesas de ...» (unidade ou órgão).
+
+###### Artigo 4.º
+
+O desenvolvimento da despesa deste fundo constará do respectivo orçamento, que obedecerá ao esquema da classificação e preceitos estabelecidos pelo [Decreto-Lei n.º 29724](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29724-1939-201782), de 28 de Junho de 1939, e legislação posterior.
 
 § 1.º Os conselhos administrativos remeterão, em quintuplicado, à Direcção do Serviço de Intendência e Contabilidade da Força Aérea, até 30 de Novembro de cada ano, o projecto de orçamento ordinário das receitas e despesas do fundo privativo para o ano seguinte.
 
@@ -128,13 +153,21 @@ Art. 4.º O desenvolvimento da despesa deste fundo constará do respectivo orça
 
 § 4.º Os mesmos orçamentos relativos ao ultramar serão assinados pelos conselhos administrativos e enviados, por intermédio das respectivas delegações, à Direcção do Serviço de Intendência e Contabilidade, que os apresentará à, aprovação do Secretário de Estado da Aeronáutica.
 
-Art. 5.º O fundo privativo não pode acusar saldo negativo, transitando o saldo positivo verificado em cada ano para o ano seguinte, constituindo a primeira das epígrafes a inscrever como receita em artigo apropriado.
+###### Artigo 5.º
 
-Art. 6.º O formalismo e a competência para autorizar despesas ficam inteiramente sujeitos à disciplina estabelecida pelas leis gerais da contabilidade pública e leis especiais aplicáveis em vigor para a Secretaria de Estado da Aeronáutica.
+O fundo privativo não pode acusar saldo negativo, transitando o saldo positivo verificado em cada ano para o ano seguinte, constituindo a primeira das epígrafes a inscrever como receita em artigo apropriado.
 
-Art. 7.º As instruções necessárias à execução e regulamentação do presente diploma, depois de aprovadas pelo Secretário de Estado da Aeronáutica, serão expedidas pela Direcção do Serviço de Intendência e Contabilidade da Força Aérea.
+###### Artigo 6.º
 
-Art. 8.º Ficam revogados os Decretos-Leis n.os 41164, de 25 de Junho de 1957, e 41916, de 15 de Outubro de 1958.
+O formalismo e a competência para autorizar despesas ficam inteiramente sujeitos à disciplina estabelecida pelas leis gerais da contabilidade pública e leis especiais aplicáveis em vigor para a Secretaria de Estado da Aeronáutica.
+
+###### Artigo 7.º
+
+As instruções necessárias à execução e regulamentação do presente diploma, depois de aprovadas pelo Secretário de Estado da Aeronáutica, serão expedidas pela Direcção do Serviço de Intendência e Contabilidade da Força Aérea.
+
+###### Artigo 8.º
+
+Ficam revogados os Decretos-Leis n.os 41164, de 25 de Junho de 1957, e 41916, de 15 de Outubro de 1958.
 
 Publique-se e cumpra-se como nele se contém.
 

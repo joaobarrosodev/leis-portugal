@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-11-10'
+version_history:
+  file: decreto-lei-194-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-05-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-11-10'
+    amending: pt:dre:457424:por
+    amending_title: Decreto-Lei n.º 543/80
+    changes:
+    - Altera Artigo 18.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:02:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 543/80. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-194-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -344,7 +359,7 @@ j) Negociar e celebrar convenções colectivas de trabalho;
 
 l) Contratar o pessoal e praticar os demais actos a ele relativos;
 
-m) Deliberar sobre a aquisição, alienação e oneração por qualquer título de bens móveis ou imóveis, mediante parecer favorável da comissão de fiscalização. Fica, no entanto, proibida a alienação dos bens patrimoniais classificados como imóveis de interesse público, referidos no artigo 2.º do [Decreto n.º 47508](https://diariodarepublica.pt/dr/detalhe/decreto/47508-1967-500897), de 24 de Janeiro de 1967;
+m) Deliberar sobre a aquisição, alienação e oneração, por qualquer título, de bens móveis ou imóveis, precedendo, quanto aos imóveis, parecer favorável da comissão de fiscalização.
 
 n) Celebrar contratos de arrendamento;
 
@@ -359,6 +374,8 @@ r) Nomear os representantes da empresa nas sociedades de que seja sócia e fixar
 s) Praticar os demais actos que lhe caibam nos termos da lei, do presente Estatuto e dos regulamentos da empresa.
 
 3. O exercício da competência do conselho de gerência depende, nos casos previstos na lei e neste Estatuto, da autorização ou aprovação do Governo ou do parecer da comissão de fiscalização.
+
+> Alterado pelo/a [Decreto-Lei n.º 543/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/543-1980-457424), publicado em 1980-11-10.
 
 ###### Artigo 19.º — (Presidente do conselho de gerência)
 

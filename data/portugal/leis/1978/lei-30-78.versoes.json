@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:295104:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-06-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "238a176c7ec60b59"
+   ]
+  },
+  {
+   "date": "1983-10-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:319152:por",
+     "title": "Decreto-Lei n.º 368-B/83",
+     "published": "1983-10-04",
+     "dre_path": "/dr/detalhe/decreto-lei/368-b-1983-319152"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "7de2e678270e5786",
+    "aa1bbea12cf79ada",
+    "aaad65fd160d9c03",
+    "d6a7f71f16df5576",
+    "a2fcb56ccf8ea573",
+    "50b09751a6e052fb",
+    "bf2aef0839f16f36",
+    "75546b915f1c5085"
+   ]
+  }
+ ],
+ "fragments": {
+  "238a176c7ec60b59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Junho\n\nProcede à revisão do regime fiscal de veículos automóveis mistos\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:\n\nARTIGO 1.º\n\nSão revogados o [Decreto-Lei n.º 757/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/757-1974-461401), de 30 de Dezembro, o [Decreto-Lei n.º 212/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1977-252818), de 26 de Maio, e o [Decreto-Lei n.º 318/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1977-255457), de 5 de Agosto.\n\nARTIGO 2.º\n\nAs percentagens estabelecidas no anexo do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, correspondentes ao artigo pautal 87.02.09, passam a ser obtidas pela aplicação da seguinte fórmula:\n\nIVVA - 0,032 CC\n\nem que:\n\nIVVA - taxa de imposto sobre a venda de veículos automóveis aplicável em cada caso, arredondando-se o resultado de modo a eliminar as casas decimais;\n\nCC - cilindrada, em centímetros cúbicos, do veículo.\n\nARTIGO 3.º\n\nOs artigos 4.º e 10.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, passam a ter a seguinte redacção:\n\nArt. 4.º - 1 - No caso de ser transformada a natureza do veículo importado, este só poderá ser legalizado, na Direcção-Geral de Viação, após a comprovação do pagamento, nas alfândegas, da diferença entre o montante do imposto correspondente à natureza do veículo transformado e o que efectivamente foi cobrado no momento da importação.\n\n2 - Exceptuam-se deste preceito as transformações de veículos de carga, de peso superior a 2500 kg, em veículos de passageiros ou mistos de passageiros e carga.\n\nArt. 10.º - 1 - A cobrança das taxas referidas no presente diploma constitui receita geral do Estado.\n\n2 - Anualmente será inscrita no Orçamento Geral do Estado uma dotação conveniente que será transferida como receita do Fundo de Fomento de Exportação.\n\nARTIGO 4.º\n\nO artigo 87.02.09 da Pauta de Importação passa a ter a seguinte redacção:\n\n87.02 ...\n\n...\n\n09 Para transporte de pessoas, incluindo os mistos, não especificados.\n\nARTIGO 5.º\n\nOs veículos mistos de passageiros e carga até agora classificados pelo artigo pautal 87.02.15 que se encontrem à data da publicação da presente lei em depósitos francos, montados ou em CKD e que sejam despachados por aquele artigo até 31 de Dezembro de 1978, ficam sujeitos ao regime de taxa única, de 25%, se outra mais baixa não resultar da aplicação dos artigos 2.º e 4.º da presente lei.\n\nARTIGO 6.º\n\nO Governo promoverá, no prazo de sessenta dias após a presente lei entrar em vigor, as adaptações à alínea h) do mapa anexo à [Portaria n.º 72/77](https://diariodarepublica.pt/dr/detalhe/portaria/72-1977-204403) que se mostrarem necessárias face às actuais condições do mercado automóvel e tendo em conta os condicionalismos globais da política de crédito prosseguida.\n\nARTIGO 7.º\n\nAs dúvidas surgidas na execução da presente lei serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano e da Indústria e Tecnologia.\n\nAprovada em 9 de Maio de 1978.\n\nO Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgada em 17 de Maio de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares."
+  },
+  "7de2e678270e5786": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Junho\n\nProcede à revisão do regime fiscal de veículos automóveis mistos\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:"
+  },
+  "aa1bbea12cf79ada": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão revogados o [Decreto-Lei n.º 757/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/757-1974-461401), de 30 de Dezembro, o [Decreto-Lei n.º 212/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/212-1977-252818), de 26 de Maio, e o [Decreto-Lei n.º 318/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-1977-255457), de 5 de Agosto."
+  },
+  "aaad65fd160d9c03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1983-10-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 368-B/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-b-1983-319152), publicado em 1983-10-04."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - As percentagens estabelecidas do anexo ao [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, para os veículos classificados na actual Pauta dos Direitos de Importação pelas subposições 87.02 A. I. b) 1. aa) 44, 87.02 A. I. b) 1. bb) 44, 87.02 A. I. b) 1. cc) 44, 87.02 A. I. b) 2. dd) e 87.02 A. II. b) passam a ser obtidas, para aqueles cuja cilindrada seja de 1400 cm3 ou menos, pela aplicação da fórmula:\n\nIVVA = 0,04 CC\n\nem que:\n\nIVVA = taxa de imposto sobre a venda de veículos automóveis aplicável em cada caso, arredondando-se o resultado de modo a eliminar as casas decimais;\n\nCC = cilindrada, em centímetros cúbicos, do veículo.\n\n2 - Relativamente aos veículos das subposições referidas no número anterior cuja cilindrada exceda 1400 cm3, as percentagens estabelecidas no mencionado [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132) passam a ser as indicadas no quadro seguinte:\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/10/22902/00050006.pdf)\n\n> Alterado pelo/a [Decreto-Lei n.º 368-B/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/368-b-1983-319152), publicado em 1983-10-04."
+  },
+  "d6a7f71f16df5576": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs artigos 4.º e 10.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, passam a ter a seguinte redacção:\n\nArt. 4.º - 1 - No caso de ser transformada a natureza do veículo importado, este só poderá ser legalizado, na Direcção-Geral de Viação, após a comprovação do pagamento, nas alfândegas, da diferença entre o montante do imposto correspondente à natureza do veículo transformado e o que efectivamente foi cobrado no momento da importação.\n\n2 - Exceptuam-se deste preceito as transformações de veículos de carga, de peso superior a 2500 kg, em veículos de passageiros ou mistos de passageiros e carga.\n\nArt. 10.º - 1 - A cobrança das taxas referidas no presente diploma constitui receita geral do Estado.\n\n2 - Anualmente será inscrita no Orçamento Geral do Estado uma dotação conveniente que será transferida como receita do Fundo de Fomento de Exportação."
+  },
+  "a2fcb56ccf8ea573": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO artigo 87.02.09 da Pauta de Importação passa a ter a seguinte redacção:\n\n87.02 ...\n\n...\n\n09 Para transporte de pessoas, incluindo os mistos, não especificados."
+  },
+  "50b09751a6e052fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs veículos mistos de passageiros e carga até agora classificados pelo artigo pautal 87.02.15 que se encontrem à data da publicação da presente lei em depósitos francos, montados ou em CKD e que sejam despachados por aquele artigo até 31 de Dezembro de 1978, ficam sujeitos ao regime de taxa única, de 25%, se outra mais baixa não resultar da aplicação dos artigos 2.º e 4.º da presente lei."
+  },
+  "bf2aef0839f16f36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO Governo promoverá, no prazo de sessenta dias após a presente lei entrar em vigor, as adaptações à alínea h) do mapa anexo à [Portaria n.º 72/77](https://diariodarepublica.pt/dr/detalhe/portaria/72-1977-204403) que se mostrarem necessárias face às actuais condições do mercado automóvel e tendo em conta os condicionalismos globais da política de crédito prosseguida."
+  },
+  "75546b915f1c5085": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs dúvidas surgidas na execução da presente lei serão resolvidas por despacho conjunto dos Ministros das Finanças e do Plano e da Indústria e Tecnologia.\n\nAprovada em 9 de Maio de 1978.\n\nO Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgada em 17 de Maio de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

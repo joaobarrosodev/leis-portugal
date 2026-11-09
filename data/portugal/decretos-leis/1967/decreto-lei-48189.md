@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-05-28'
+version_history:
+  file: decreto-lei-48189.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-05-28'
+    amending: pt:dre:422440:por
+    amending_title: Decreto-Lei n.º 264/73
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:03:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 264/73. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-48189.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -103,13 +119,25 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É autorizado o Ministro das Finanças a actualizar, por despacho, a tabela de emolumentos especiais referida no [Decreto n.º 33023](https://diariodarepublica.pt/dr/detalhe/decreto/33023-1943-400235), de 6 de Setembro de 1943, e bem assim as gratificações de serviço aos oficiais e sargentos da Guarda Fiscal, dentro dos limites estabelecidos para a Guarda Nacional Republicana.
+###### Artigo 1.º
 
-Art. 2.º É autorizada a Guarda Fiscal a contratar, mediante aprovação do Ministro das Finanças, o pessoal civil necessário à boa execução dos seus serviços, dentro dos limites das verbas inscritas no Orçamento Geral do Estado para esse fim.
+É autorizado o Ministro das Finanças a substituir, por despacho, a tabela de emolumentos especiais referida no [Decreto n.º 33023](https://diariodarepublica.pt/dr/detalhe/decreto/33023-1943-400235), de 6 de Setembro de 1943, e bem assim as gratificações de serviço aos oficiais e sargentos da Guarda Fiscal, dentro dos limites estabelecidos para a Guarda Nacional Republicana.
 
-Art. 3.º O chefe da 2.ª Repartição do Comando-Geral da Guarda Fiscal será um oficial superior do serviço de administração militar.
+> Alterado pelo/a [Decreto-Lei n.º 264/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1973-422440), publicado em 1973-05-28.
 
-Art. 4.º No corrente ano económico os encargos que resultarem da execução do presente decreto-lei serão satisfeitos em conta das disponibilidades da verba consignada ao pessoal dos quadros da Guarda Fiscal.
+###### Artigo 2.º
+
+É autorizada a Guarda Fiscal a contratar ou assalariar, mediante aprovação do Ministro das Finanças, o pessoal civil necessário à boa execução dos seus serviços, dentro dos limites das verbas inscritas no Orçamento Geral do Estado para esses fins.
+
+> Alterado pelo/a [Decreto-Lei n.º 264/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1973-422440), publicado em 1973-05-28.
+
+###### Artigo 3.º
+
+O chefe da 2.ª Repartição do Comando-Geral da Guarda Fiscal será um oficial superior do serviço de administração militar.
+
+###### Artigo 4.º
+
+No corrente ano económico os encargos que resultarem da execução do presente decreto-lei serão satisfeitos em conta das disponibilidades da verba consignada ao pessoal dos quadros da Guarda Fiscal.
 
 Publique-se e cumpra-se como nele se contém.
 

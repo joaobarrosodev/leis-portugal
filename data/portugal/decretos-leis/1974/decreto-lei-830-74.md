@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-06-28'
+version_history:
+  file: decreto-lei-830-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-06-28'
+    amending: pt:dre:337217:por
+    amending_title: Decreto-Lei n.º 326/75
+    changes:
+    - Altera Artigo 24.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:37:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 326/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-830-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -193,21 +208,29 @@ Procura-se ainda desenvolver formas de coordenação entre as várias escolas e 
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. Passam a ser designados por institutos superiores de engenharia os actuais institutos industriais.
+###### Artigo 1.º
+
+1. Passam a ser designados por institutos superiores de engenharia os actuais institutos industriais.
 
 2. O Instituto Industrial e Comercial de Coimbra desdobra-se em Instituto Superior de Engenharia de Coimbra e Instituto Comercial de Coimbra, regendo-se o primeiro pelas disposições deste decreto-lei.
 
-Art. 2.º - 1. Os institutos superiores de engenharia são escolas de nível universitário, dotados de personalidade jurídica e de autonomia administrativa.
+###### Artigo 2.º
+
+1. Os institutos superiores de engenharia são escolas de nível universitário, dotados de personalidade jurídica e de autonomia administrativa.
 
 2. Neles se conferem os graus de bacharelato, licenciatura e doutoramento.
 
 3. Podem os referidos institutos ser integrados nas Universidades por acordo de ambas as partes.
 
-Art. 3.º - 1. Aos bacharéis e licenciados em Engenharia diplomados pelos referidos institutos correspondem, respectivamente, os títulos de engenheiro técnico e de engenheiro.
+###### Artigo 3.º
+
+1. Aos bacharéis e licenciados em Engenharia diplomados pelos referidos institutos correspondem, respectivamente, os títulos de engenheiro técnico e de engenheiro.
 
 2. É equiparado a bacharel de Engenharia, cabendo-lhe também o título de engenheiro técnico, para todos os efeitos e sem prejuízo dos direitos adquiridos, quem tenha completado ou venha a completar os cursos de base previstos nos n.os 1 e 2 do artigo 2.º do [Decreto n.º 38032](https://diariodarepublica.pt/dr/detalhe/decreto/38032-1950-486537), de 4 de Novembro de 1950, com dispensa do tirocínio referido no artigo 180.º do mesmo diploma, os cursos equivalentes previstos no artigo 222.º do mesmo decreto e ainda o curso médio de Electrotecnia e Máquinas, referido na alínea c), n.º 1, do artigo 41.º do [Decreto-Lei n.º 42632](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42632-1959-439780), de 4 de Novembro de 1959.
 
-Art. 4.º - 1. O Ministro da Educação e Cultura nomeará, para funcionar, durante o período que julgar conveniente, junto de cada um dos institutos superiores de engenharia, uma comissão destinada a contribuir para o estudo dos problemas relacionados com o funcionamento e aperfeiçoamento do respectivo instituto.
+###### Artigo 4.º
+
+1. O Ministro da Educação e Cultura nomeará, para funcionar, durante o período que julgar conveniente, junto de cada um dos institutos superiores de engenharia, uma comissão destinada a contribuir para o estudo dos problemas relacionados com o funcionamento e aperfeiçoamento do respectivo instituto.
 
 2. No exercício da sua função compete, especialmente, à referida comissão:
 
@@ -217,13 +240,17 @@ b) Transmitir ao Ministério da Educação e Cultura os seus pareceres sobre med
 
 3. Os pareceres mencionados na alínea b) do número anterior serão sempre comunicados ao respectivo instituto.
 
-Art. 5.º - 1. O equipamento e instalações dos Institutos Industriais de Lisboa e Porto e, bem assim, o equipamento da secção industrial do Instituto Industrial e Comercial de Coimbra são transferidos, com dispensa de quaisquer formalidades, para os institutos superiores de engenharia correspondentes.
+###### Artigo 5.º
+
+1. O equipamento e instalações dos Institutos Industriais de Lisboa e Porto e, bem assim, o equipamento da secção industrial do Instituto Industrial e Comercial de Coimbra são transferidos, com dispensa de quaisquer formalidades, para os institutos superiores de engenharia correspondentes.
 
 2. A transferência das instalações do Instituto Industrial e Comercial de Coimbra será objecto de posterior diploma.
 
 3. Transferem-se para cada um dos institutos superiores de engenharia todos os direitos e obrigações relativos ao equipamento e instalações correspondentes mencionados no n.º 1.
 
-Art. 6.º Constituem receitas dos institutos superiores de engenharia:
+###### Artigo 6.º
+
+Constituem receitas dos institutos superiores de engenharia:
 
 a) As verbas inscritas no Orçamento Geral do Estado aos mesmos destinadas;
 
@@ -239,19 +266,27 @@ f) Os subsídios e donativos de entidades públicas ou privadas e os legados;
 
 g) Quaisquer outras receitas autorizadas pelo Ministro da Educação e Cultura.
 
-Art. 7.º - 1. Os institutos superiores de engenharia organizarão imediatamente o ensino do bacharelato por especialidades e com a duração mínima de três anos.
+###### Artigo 7.º
+
+1. Os institutos superiores de engenharia organizarão imediatamente o ensino do bacharelato por especialidades e com a duração mínima de três anos.
 
 2. O ensino do bacharelato poderá ser ministrado em semestres.
 
-Art. 8.º - 1. Organizado o bacharelato, proceder-se-á à organização do ensino de licenciatura, também por especialidades.
+###### Artigo 8.º
+
+1. Organizado o bacharelato, proceder-se-á à organização do ensino de licenciatura, também por especialidades.
 
 2. A organização de cada uma das especialidades irá tendo lugar consoante as necessidades do País e as possibilidades do respectivo instituto.
 
-Art. 9.º - 1. É condição de ingresso nos cursos do bacharelato, para além de outras que venham a ser especialmente estabelecidas, ser o candidato dotado de nível de formação e conhecimentos não inferior ao do término do curso complementar do ensino secundário ou de outro que venha a ser exigido para o acesso às escolas superiores.
+###### Artigo 9.º
+
+1. É condição de ingresso nos cursos do bacharelato, para além de outras que venham a ser especialmente estabelecidas, ser o candidato dotado de nível de formação e conhecimentos não inferior ao do término do curso complementar do ensino secundário ou de outro que venha a ser exigido para o acesso às escolas superiores.
 
 2. Os institutos superiores de engenharia poderão sempre organizar cursos de preparação e de acesso ao bacharelato.
 
-Art. 10.º - 1. A obtenção da licenciatura resultará de uma das seguintes vias:
+###### Artigo 10.º
+
+1. A obtenção da licenciatura resultará de uma das seguintes vias:
 
 a) Cumprimento, após o término do bacharelato, de um plano de estudos, genericamente fixado, de dois anos;
 
@@ -263,43 +298,65 @@ b) Cumprimento de um plano individual de estudos, que poderá comportar exames a
 
 4. A via prevista na alínea b) do n.º 1 destina-se só aos bacharéis que, no decurso da sua profissão, por virtude, quer de trabalhos determinados, quer da actividade profissional em geral, tenham reconhecidamente elevado o nível da sua qualificação profissional.
 
-Art. 11.º - 1. Os bacharéis em Engenharia por qualquer escola do País podem requerer a qualquer das demais a organização de planos de estudo que lhes permitam obter nela a licenciatura.
+###### Artigo 11.º
+
+1. Os bacharéis em Engenharia por qualquer escola do País podem requerer a qualquer das demais a organização de planos de estudo que lhes permitam obter nela a licenciatura.
 
 2. Poderão os referidos bacharéis requerer que esses planos não excedam dois anos.
 
 3. Na organização dos planos de estudo no limite de tempo mencionado no número precedente, além da frequência obrigatória de cadeiras, poderão incluir-se exames ad hoc.
 
-Art. 12.º - 1. Os bacharéis em Engenharia podem inscrever-se nas cadeiras das Faculdades e outras escolas de ensino superior.
+###### Artigo 12.º
+
+1. Os bacharéis em Engenharia podem inscrever-se nas cadeiras das Faculdades e outras escolas de ensino superior.
 
 2. Podem os mesmos bacharéis ser dispensados pelas mesmas Faculdades e escolas do regime de precedências e condicionalismos de matrículas nelas vigentes se a frequência das cadeiras se destinar à licenciatura pelos institutos superiores de engenharia.
 
-Art. 13.º - 1. Cada um dos institutos superiores de engenharia tem os quadros privativos constantes dos mapas anexos a este diploma e que dele fazem parte integrante.
+###### Artigo 13.º
+
+1. Cada um dos institutos superiores de engenharia tem os quadros privativos constantes dos mapas anexos a este diploma e que dele fazem parte integrante.
 
 2. Os quadros anexos a este diploma poderão ser alterados por despacho conjunto dos Ministros da Educação e Cultura e das Finanças.
 
-Art. 14.º Os quadros de professores auxiliares e de assistentes são transitórios e serão preenchidos nos termos do artigo 26.º, extinguindo-se os respectivos lugares à medida que vagarem.
+###### Artigo 14.º
 
-Art. 15.º - 1. O pessoal docente dos institutos superiores de engenharia têm categorias e vencimentos idênticos aos das demais escolas superiores, sem prejuízo das disposições especiais deste diploma.
+Os quadros de professores auxiliares e de assistentes são transitórios e serão preenchidos nos termos do artigo 26.º, extinguindo-se os respectivos lugares à medida que vagarem.
+
+###### Artigo 15.º
+
+1. O pessoal docente dos institutos superiores de engenharia têm categorias e vencimentos idênticos aos das demais escolas superiores, sem prejuízo das disposições especiais deste diploma.
 
 2. Sem prejuízo de normas especiais decorrentes das características específicas dos institutos superiores de engenharia, o pessoal docente e pessoal docente auxiliar regem-se pelas normas aplicáveis aos docentes das demais escolas superiores.
 
-Art. 16.º Os professores auxiliares e os assistentes constantes dos mapas anexos ao presente diploma beneficiam do seguinte regime de diuturnidades:
+###### Artigo 16.º
+
+Os professores auxiliares e os assistentes constantes dos mapas anexos ao presente diploma beneficiam do seguinte regime de diuturnidades:
 
 a) A requerimento dos interessados será concedida a 1.ª diuturnidade e a 2.ª, respectivamente, aos dez e vinte anos de serviço efectivo, subindo por cada diuturnidade uma letra da escala referida no artigo 1.º, n.º 1, do [Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto;
 
 b) Para efeito do disposto na alínea anterior é computado o tempo de docência que, para efeitos de concessão de diuturnidades, lhe era contado nos institutos industriais.
 
-Art. 17.º Sem prejuízo das disposições transitórias deste diploma, serão objecto de regulamento, a promulgar por decreto, as condições de promoção de professor extraordinário a catedrático.
+###### Artigo 17.º
 
-Art. 18.º Os bacharéis em Engenharia, de reconhecidos méritos profissionais, podem, em campos da sua especialidade, ser contratados para exercerem nos institutos superiores de engenharia cargos docentes para que legalmente seja exigido o grau de licenciado.
+Sem prejuízo das disposições transitórias deste diploma, serão objecto de regulamento, a promulgar por decreto, as condições de promoção de professor extraordinário a catedrático.
 
-Art. 19.º Serão objecto de regulamentação especial em despacho do Ministro da Educação e Cultura formas de ensino a tempo parcial e por períodos intermitentes.
+###### Artigo 18.º
 
-Art. 20.º - 1. O pessoal administrativo e auxiliar dos quadros dos Institutos Industriais de Lisboa e Porto passa para os quadros dos correspondentes institutos superiores de engenharia, conservando os mesmos lugares, categorias e vencimentos.
+Os bacharéis em Engenharia, de reconhecidos méritos profissionais, podem, em campos da sua especialidade, ser contratados para exercerem nos institutos superiores de engenharia cargos docentes para que legalmente seja exigido o grau de licenciado.
+
+###### Artigo 19.º
+
+Serão objecto de regulamentação especial em despacho do Ministro da Educação e Cultura formas de ensino a tempo parcial e por períodos intermitentes.
+
+###### Artigo 20.º
+
+1. O pessoal administrativo e auxiliar dos quadros dos Institutos Industriais de Lisboa e Porto passa para os quadros dos correspondentes institutos superiores de engenharia, conservando os mesmos lugares, categorias e vencimentos.
 
 2. O pessoal administrativo e auxiliar do quadro do Instituto Industrial e Comercial de Coimbra passa para o quadro do Instituto Comercial de Coimbra.
 
-Art. 21.º - 1. Poderá o Ministro da Educação e Cultura preencher em primeiro provimento, independentemente de concurso, lugares de pessoal administrativo, técnico e auxiliar criados pelo presente diploma com pessoal de categoria imediatamente inferior do quadro dos correspondentes institutos industriais e Instituto Industrial e Comercial de Coimbra, desde que tenham boa informação, as habilitações exigidas para aquele provimento e um mínimo de três anos de exercício na categoria.
+###### Artigo 21.º
+
+1. Poderá o Ministro da Educação e Cultura preencher em primeiro provimento, independentemente de concurso, lugares de pessoal administrativo, técnico e auxiliar criados pelo presente diploma com pessoal de categoria imediatamente inferior do quadro dos correspondentes institutos industriais e Instituto Industrial e Comercial de Coimbra, desde que tenham boa informação, as habilitações exigidas para aquele provimento e um mínimo de três anos de exercício na categoria.
 
 2. Poderá ainda o Ministro da Educação e Cultura prover, independentemente de concurso e de limite de idade, em lugares de pessoal administrativo, técnico e auxiliar dos quadros criados pelo presente diploma, indivíduos contratados além dos quadros que estejam a prestar serviço idêntico nos institutos industriais ou Instituto Industrial e Comercial de Coimbra.
 
@@ -307,51 +364,91 @@ Art. 21.º - 1. Poderá o Ministro da Educação e Cultura preencher em primeiro
 
 4. O pessoal operário dos estabelecimentos referidos nos números anteriores poderá beneficiar do disposto neste artigo quando se verificar alargamento dos quadros dos correspondentes institutos superiores de engenharia.
 
-Art. 22.º Sem prejuízo do disposto nos artigos 21.º, 26.º, n.º 2, e 27.º, mantêm-se, e pelo período julgado conveniente poderão também ser renovados, nos correspondentes institutos superiores de engenharia os actuais contratos do pessoal de todas as categorias dos Institutos Industriais de Lisboa e Porto e secção industrial do Instituto Industrial e Comercial de Coimbra.
+###### Artigo 22.º
 
-Art. 23.º O Instituto Comercial de Coimbra fica com o quadro de pessoal administrativo e auxiliar do Instituto Industrial e Comercial de Coimbra.
+Sem prejuízo do disposto nos artigos 21.º, 26.º, n.º 2, e 27.º, mantêm-se, e pelo período julgado conveniente poderão também ser renovados, nos correspondentes institutos superiores de engenharia os actuais contratos do pessoal de todas as categorias dos Institutos Industriais de Lisboa e Porto e secção industrial do Instituto Industrial e Comercial de Coimbra.
 
-Art. 24.º Os lugares de bibliotecário dos institutos superiores de engenharia podem ser desempenhados por licenciados em Engenharia.
+###### Artigo 23.º
 
-Art. 25.º Os lugares de chefe de secção dos institutos superiores de engenharia previstos no presente diploma serão providos pelo Ministro da Educação e Cultura, ouvidos os órgãos de gestão das respectivas escolas, de entre diplomados com um curso superior adequado, ou de entre primeiros-oficiais dos institutos industriais, do Instituto Industrial e Comercial de Coimbra, ou do quadro único referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957, com boa informação e, pelo menos, cinco anos de exercício nessas categorias ou na de secretário de uma escola superior.
+O Instituto Comercial de Coimbra fica com o quadro de pessoal administrativo e auxiliar do Instituto Industrial e Comercial de Coimbra.
+
+###### Artigo 24.º
+
+1. O provimento dos lugares de bibliotecário dos institutos superiores de engenharia será feito nos termos da legislação aplicável.
+
+2. Podem, contudo, ser providos naqueles licenciados em Engenharia, quando se verifique a ausência de candidatos habilitados com o respectivo título.
+
+> Alterado pelo/a [Decreto-Lei n.º 326/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/326-1975-337217), publicado em 1975-06-28.
+
+###### Artigo 25.º
+
+Os lugares de chefe de secção dos institutos superiores de engenharia previstos no presente diploma serão providos pelo Ministro da Educação e Cultura, ouvidos os órgãos de gestão das respectivas escolas, de entre diplomados com um curso superior adequado, ou de entre primeiros-oficiais dos institutos industriais, do Instituto Industrial e Comercial de Coimbra, ou do quadro único referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957, com boa informação e, pelo menos, cinco anos de exercício nessas categorias ou na de secretário de uma escola superior.
 
 Disposições finais e transitórias
 
-Art. 26.º - 1. Enquanto não for publicado e entrar em vigor o diploma previsto pelo artigo 1.º do [Decreto-Lei n.º 221/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1974-622618), de 27 de Maio, a gestão dos institutos superiores de engenharia cabe aos órgãos previstos nesse artigo.
+###### Artigo 26.º
+
+1. Enquanto não for publicado e entrar em vigor o diploma previsto pelo artigo 1.º do [Decreto-Lei n.º 221/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1974-622618), de 27 de Maio, a gestão dos institutos superiores de engenharia cabe aos órgãos previstos nesse artigo.
 
 2. No prazo de quinze dias, a contar da entrada em vigor do presente decreto-lei, os órgãos de gestão referidos no número precedente deverão solicitar a sua homologação ao Ministro da Educação e Cultura.
 
-Art. 27.º - 1. Os actuais professores efectivos ordinários e auxiliares dos Institutos Industriais de Lisboa e Porto e da secção industrial do Instituto Industrial e Comercial de Coimbra passam, respectivamente, a professores auxiliares e a assistentes dos correspondentes institutos superiores de engenharia.
+###### Artigo 27.º
+
+1. Os actuais professores efectivos ordinários e auxiliares dos Institutos Industriais de Lisboa e Porto e da secção industrial do Instituto Industrial e Comercial de Coimbra passam, respectivamente, a professores auxiliares e a assistentes dos correspondentes institutos superiores de engenharia.
 
 2. Podem ser convidados pelos órgãos de gestão dos institutos superiores de engenharia para assistentes os professores actuais provisórios e os antigos efectivos ou provisórios dos mesmos Institutos Industriais e secção industrial referida no número anterior e ainda dos institutos similares de Angola e Moçambique.
 
 3. A renovação dos contratos como assistentes dos institutos superiores de engenharia dos actuais ou antigos professores com mais de três anos de exercício efectivo de funções nos estabelecimentos referidos no número anterior poderá ser feita sem a limitação do n.º 2 do artigo 15.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
 
-Art. 28.º Podem ser convidados pelos órgãos de gestão respectivos para professores auxiliares dos institutos superiores de engenharia os actuais ou antigos professores ordinários provisórios com mais de seis anos de serviço de professores dos estabelecimentos referidos no n.º 2 do artigo anterior, dos quais dois anos como ordinários.
+###### Artigo 28.º
 
-Art. 29.º Não se aplica aos assistentes dos institutos superiores de engenharia o disposto no n.º 2 do artigo 15.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, quanto ao tempo de exercício de funções como assistentes do ensino superior decorrido até à publicação do presente decreto-lei.
+Podem ser convidados pelos órgãos de gestão respectivos para professores auxiliares dos institutos superiores de engenharia os actuais ou antigos professores ordinários provisórios com mais de seis anos de serviço de professores dos estabelecimentos referidos no n.º 2 do artigo anterior, dos quais dois anos como ordinários.
 
-Art. 30.º Os docentes de outras escolas de ensino superior poderão ser destacados por despacho ministerial para prestar parte do seu serviço nos institutos superiores de engenharia da mesma cidade sempre que a sua utilização nas escolas de origem seja considerada insuficiente.
+###### Artigo 29.º
 
-Art. 31.º Durante o ano de 1975 o preenchimento das vagas resultantes de alargamento de quadros instituídos pelo presente diploma será feito prioritariamente, através de transferência ou no regime de comissão de serviço, por docentes de ensino superior, de categoria equivalente e da mesma especialidade, sempre que a sua utilização nas escolas de origem da mesma cidade seja considerada insuficiente.
+Não se aplica aos assistentes dos institutos superiores de engenharia o disposto no n.º 2 do artigo 15.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, quanto ao tempo de exercício de funções como assistentes do ensino superior decorrido até à publicação do presente decreto-lei.
 
-Art. 32.º - 1. Os mestres principais das escolas técnicas profissionais dos quadros dos Institutos Industriais de Lisboa e do Porto e do Instituto Industrial e Comercial de Coimbra passam a ser designados por mestres principais das escolas de engenharia, integrando os quadros dos correspondentes institutos e mantendo as suas categorias e regime de diuturnidades.
+###### Artigo 30.º
+
+Os docentes de outras escolas de ensino superior poderão ser destacados por despacho ministerial para prestar parte do seu serviço nos institutos superiores de engenharia da mesma cidade sempre que a sua utilização nas escolas de origem seja considerada insuficiente.
+
+###### Artigo 31.º
+
+Durante o ano de 1975 o preenchimento das vagas resultantes de alargamento de quadros instituídos pelo presente diploma será feito prioritariamente, através de transferência ou no regime de comissão de serviço, por docentes de ensino superior, de categoria equivalente e da mesma especialidade, sempre que a sua utilização nas escolas de origem da mesma cidade seja considerada insuficiente.
+
+###### Artigo 32.º
+
+1. Os mestres principais das escolas técnicas profissionais dos quadros dos Institutos Industriais de Lisboa e do Porto e do Instituto Industrial e Comercial de Coimbra passam a ser designados por mestres principais das escolas de engenharia, integrando os quadros dos correspondentes institutos e mantendo as suas categorias e regime de diuturnidades.
 
 2. Os mestres provisórios das escolas técnicas profissionais com mais de cinco anos de serviço como mestres nos estabelecimentos referidos no número anterior podem ser convidados pelos órgãos de gestão para os lugares de mestre das escolas de engenharia dos quadros dos institutos superiores de engenharia.
 
-Art. 33.º Sem prejuízo do disposto no artigo anterior, o processo de recrutamento e forma de provimento dos mestres principais e dos mestres dos institutos superiores de engenharia serão definidos em despacho do Ministro da Educação e Cultura.
+###### Artigo 33.º
 
-Art. 34.º Os actuais preparadores do quadro dos Institutos Industriais de Lisboa e do Porto e do Instituto Industrial e Comercial de Coimbra passam a preparadores de 1.ª classe dos quadros anexos dos correspondentes institutos superiores de engenharia, nos termos da [Portaria n.º 394/72](https://diariodarepublica.pt/dr/detalhe/portaria/394-1972-675195), de 19 de Julho.
+Sem prejuízo do disposto no artigo anterior, o processo de recrutamento e forma de provimento dos mestres principais e dos mestres dos institutos superiores de engenharia serão definidos em despacho do Ministro da Educação e Cultura.
 
-Art. 35.º O pessoal administrativo e auxiliar do quadro do Instituto Industrial e Comercial de Coimbra poderá transitar para o quadro do Instituto Superior de Engenharia de Coimbra, sob proposta dos órgãos de gestão do respectivo Instituto e anuência dos interessados.
+###### Artigo 34.º
 
-Art. 36.º Aplica-se pelo período de dois anos, a contar da publicação deste decreto-lei, aos institutos superiores de engenharia o disposto nos artigos 24.º a 28.º, inclusive, do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto.
+Os actuais preparadores do quadro dos Institutos Industriais de Lisboa e do Porto e do Instituto Industrial e Comercial de Coimbra passam a preparadores de 1.ª classe dos quadros anexos dos correspondentes institutos superiores de engenharia, nos termos da [Portaria n.º 394/72](https://diariodarepublica.pt/dr/detalhe/portaria/394-1972-675195), de 19 de Julho.
 
-Art. 37.º As dúvidas suscitadas na execução deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Cultura, ouvido o Ministro das Finanças, sempre que se trate de questões de carácter financeiro ou de execução administrativa com elas relacionada.
+###### Artigo 35.º
 
-Art. 38.º Os encargos resultantes da publicação do presente diploma serão satisfeitos no ano de 1975 pelas disponibilidades das verbas orçamentadas para os correspondentes institutos industriais e Instituto Industrial e Comercial de Coimbra e pelas dotações comuns inscritas no orçamento da Direcção-Geral do Ensino Superior.
+O pessoal administrativo e auxiliar do quadro do Instituto Industrial e Comercial de Coimbra poderá transitar para o quadro do Instituto Superior de Engenharia de Coimbra, sob proposta dos órgãos de gestão do respectivo Instituto e anuência dos interessados.
 
-Art. 39.º O presente decreto-lei entra imediatamente em vigor.
+###### Artigo 36.º
+
+Aplica-se pelo período de dois anos, a contar da publicação deste decreto-lei, aos institutos superiores de engenharia o disposto nos artigos 24.º a 28.º, inclusive, do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto.
+
+###### Artigo 37.º
+
+As dúvidas suscitadas na execução deste decreto-lei serão resolvidas por despacho do Ministro da Educação e Cultura, ouvido o Ministro das Finanças, sempre que se trate de questões de carácter financeiro ou de execução administrativa com elas relacionada.
+
+###### Artigo 38.º
+
+Os encargos resultantes da publicação do presente diploma serão satisfeitos no ano de 1975 pelas disponibilidades das verbas orçamentadas para os correspondentes institutos industriais e Instituto Industrial e Comercial de Coimbra e pelas dotações comuns inscritas no orçamento da Direcção-Geral do Ensino Superior.
+
+###### Artigo 39.º
+
+O presente decreto-lei entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Manuel Rodrigues de Carvalho.
 

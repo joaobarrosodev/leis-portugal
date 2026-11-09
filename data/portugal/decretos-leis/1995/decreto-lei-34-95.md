@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-06-27'
+version_history:
+  file: decreto-lei-34-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-02-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-06-27'
+    amending: pt:dre:391580:por
+    amending_title: Decreto-Lei n.º 228/99
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/34/1995/02/11/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:41:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 228/99. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-34-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,7 +149,9 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - É aprovado o Programa das Iniciativas de Desenvolvimento Local, o qual integra as acções incluídas nos programas do Quadro Comunitário de Apoio (QCA) e nas iniciativas comunitárias e cuja filosofia de actuação é a dinamização das economias locais e a criação de emprego.
+###### Artigo 1.º
+
+1 - É aprovado o Programa das Iniciativas de Desenvolvimento Local, o qual integra as acções incluídas nos programas do Quadro Comunitário de Apoio (QCA) e nas iniciativas comunitárias e cuja filosofia de actuação é a dinamização das economias locais e a criação de emprego.
 
 2 - O Programa tem os seguintes objectivos:
 
@@ -146,7 +163,9 @@ c) A preservação da diversidade cultural e da capacidade de, com base nela, pr
 
 d) A melhoria dos meios e técnicas que permitem a melhor colocação de bens e serviços artesanais, incluindo o turismo, nos mercados nacional e europeu.
 
-Art. 2.º - O Programa compreende o seguinte conjunto de medidas e acções:
+###### Artigo 2.º-O
+
+Programa compreende o seguinte conjunto de medidas e acções:
 
 a) Criação de micro e pequenas empresas em áreas complementares da actividade industrial e artesanal através de:
 
@@ -194,7 +213,9 @@ h) Acções piloto de demonstração dos efeitos previstos nas restantes medidas
 
 i) Promoção de agentes e iniciativas de animação local.
 
-Art. 3.º - O custo estimado global do Programa é de 170 milhões de contos, repartidos do seguinte modo:
+###### Artigo 3.º-O
+
+custo estimado global do Programa é de 170 milhões de contos, repartidos do seguinte modo:
 
 a) Criação de micro e pequenas empresas em áreas complementares da actividade industrial e artesanal, 30 milhões de contos;
 
@@ -210,9 +231,17 @@ f) Acções de desenvolvimento rural, 60 milhões de contos;
 
 g) Acções de ligação das iniciativas locais às redes transeuropeias de comunicações, 1,3 milhões de contos.
 
-Art. 4.º O orçamento do Programa é suportado pelos orçamentos das intervenções onde se integram as várias medidas e acções que lhe dão corpo, designadamente o PPDR, o PEDIP e os programas operacionais regionais e as iniciativas comunitárias PME, INTERREG, LEADER, RESIDER e RECHAR.
+###### Artigo 4.º
 
-Art. 5.º A estrutura de gestão do Programa é constituída por:
+1 - O orçamento do Programa é suportado pelos orçamentos das intervenções onde se integram as várias medidas e acções que lhe dão corpo, designadamente o PPDR, o PEDIP e os programas operacionais regionais e as iniciativas comunitárias PME, INTERREG, LEADER, RESIDER e RECHAR.
+
+2 - Sem prejuízo do disposto no número anterior, o orçamento do Programa, no âmbito dos incentivos à criação de postos de trabalho, pode ser suportado por verba adequada a inscrever para o efeito no orçamento do Instituto do Emprego e Formação Profissional.
+
+> Alterado pelo/a [Decreto-Lei n.º 228/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-1999-391580), publicado em 1999-06-22.
+
+###### Artigo 5.º
+
+A estrutura de gestão do Programa é constituída por:
 
 a) O gestor;
 
@@ -222,7 +251,9 @@ c) O conselho de peritos;
 
 d) O serviço de apoio técnico.
 
-Art. 6.º - 1 - O gestor é o órgão executivo responsável pela coordenação geral e concretização do Programa e tem as seguintes competências:
+###### Artigo 6.º
+
+1 - O gestor é o órgão executivo responsável pela coordenação geral e concretização do Programa e tem as seguintes competências:
 
 a) Coordenar a realização das acções que constituem o Programa, envolvendo uma articulação estrita com os gestores das intervenções operacionais que lhe dão corpo;
 
@@ -246,7 +277,9 @@ j) Dirigir o serviço de apoio técnico.
 
 2 - As funções do gestor do Programa das Iniciativas de Desenvolvimento Local são exercidas pelo director-geral do Desenvolvimento Regional.
 
-Art. 7.º - 1 - O conselho coordenador é o órgão de acompanhamento e de coordenação do Programa e tem as seguintes competências:
+###### Artigo 7.º
+
+1 - O conselho coordenador é o órgão de acompanhamento e de coordenação do Programa e tem as seguintes competências:
 
 a) Acompanhar a execução das medidas e acções que o constituem, verificando a sua consonância com os objectivos propostos;
 
@@ -286,7 +319,9 @@ n) Um representante da Comissão do Fundo Social Europeu.
 
 4 - O conselho coordenador pode organizar-se em equipas de composição restrita sempre que a especificidade dos assuntos a tratar o justifique.
 
-Art. 8.º - 1 - O conselho de peritos é o órgão consultivo técnico do gestor e tem as seguintes competências:
+###### Artigo 8.º
+
+1 - O conselho de peritos é o órgão consultivo técnico do gestor e tem as seguintes competências:
 
 a) Estudar e acompanhar, em permanência, a realidade do desenvolvimento local, em especial no que respeita ao surgimento de actividades capazes de animar e sustentar as economias locais, dentro do espírito dos grandes objectivos do Programa - combate ao subdesenvolvimento, ao desemprego e à desertificação locais;
 
@@ -298,21 +333,35 @@ d) Preparar a informação, designadamente a de natureza interpretativa, necess�
 
 2 - O conselho de peritos é constituído por três personalidades de reconhecido mérito, nos vários domínios de relevo para as questões de desenvolvimento local, a designar por despacho do Ministro do Planeamento e da Administração do Território.
 
-Art. 9.º O serviço de apoio técnico é o serviço responsável pelo apoio logístico ao gestor, assumindo a natureza de estrutura de projecto, nos termos do artigo 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e é constituído por despacho conjunto dos Ministros das Finanças e do Planeamento e da Administração do Território.
+###### Artigo 9.º
 
-Art. 10.º Com vista a potenciar o carácter inovador deste Programa, deverão ser lançadas acções piloto, que poderão ter um efeito de demonstração e permitirão sensibilizar os cidadãos para a multiplicidade dos seus efeitos económicos, sociais e culturais.
+O serviço de apoio técnico é o serviço responsável pelo apoio logístico ao gestor, assumindo a natureza de estrutura de projecto, nos termos do artigo 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e é constituído por despacho conjunto dos Ministros das Finanças e do Planeamento e da Administração do Território.
 
-Art. 11.º Para promover o surgimento de iniciativas de desenvolvimento local ou dar assistência técnica às iniciativas mais inovadoras que careçam de apoio especial, designadamente em zonas menos desenvolvidas ou com problemas específicos de desemprego, o gestor poderá apoiar a constituição de pequenas equipas de agentes de dinamização local, que acompanharão no terreno o desenvolvimento dessas iniciativas.
+###### Artigo 10.º
 
-Art. 12.º As medidas e acções previstas no artigo 2.º serão objecto de regulamentação a aprovar por resolução do Conselho de Ministros.
+Com vista a potenciar o carácter inovador deste Programa, deverão ser lançadas acções piloto, que poderão ter um efeito de demonstração e permitirão sensibilizar os cidadãos para a multiplicidade dos seus efeitos económicos, sociais e culturais.
 
-Art. 13.º O funcionamento da estrutura de gestão do Programa é assegurado pelo orçamento da Direcção-Geral do Desenvolvimento Regional.
+###### Artigo 11.º
 
-Art. 14.º - 1 - O Programa será objecto de uma avaliação anual realizada por perito independente designado pelo Ministro do Planeamento e da Administração do Território.
+Para promover o surgimento de iniciativas de desenvolvimento local ou dar assistência técnica às iniciativas mais inovadoras que careçam de apoio especial, designadamente em zonas menos desenvolvidas ou com problemas específicos de desemprego, o gestor poderá apoiar a constituição de pequenas equipas de agentes de dinamização local, que acompanharão no terreno o desenvolvimento dessas iniciativas.
+
+###### Artigo 12.º
+
+As medidas e acções previstas no artigo 2.º serão objecto de regulamentação a aprovar por resolução do Conselho de Ministros.
+
+###### Artigo 13.º
+
+O funcionamento da estrutura de gestão do Programa é assegurado pelo orçamento da Direcção-Geral do Desenvolvimento Regional.
+
+###### Artigo 14.º
+
+1 - O Programa será objecto de uma avaliação anual realizada por perito independente designado pelo Ministro do Planeamento e da Administração do Território.
 
 2 - O parecer do perito referido no número anterior é enviado ao Ministro do Planeamento e da Administração do Território para apreciação.
 
-Art. 15.º O período de realização do presente Programa decorre de 1995 a 1999, podendo vir a ser alterado em função dos prazos de realização dos programas que o suportam.
+###### Artigo 15.º
+
+O período de realização do presente Programa decorre de 1995 a 1999, podendo vir a ser alterado em função dos prazos de realização dos programas que o suportam.
 
 Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - António Duarte Silva - Luís Fernando Mira Amaral - José Bernardo Veloso Falcão e Cunha - Fernando Manuel Barbosa Faria de Oliveira.
 

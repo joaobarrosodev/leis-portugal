@@ -1,0 +1,104 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:389874:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1981-01-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e3c32c727a7b5ea6"
+   ]
+  },
+  {
+   "date": "1982-08-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:397913:por",
+     "title": "Decreto-Lei n.º 324/82",
+     "published": "1982-08-13",
+     "dre_path": "/dr/detalhe/decreto-lei/324-1982-397913"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Adita Artigo 5.º"
+   ],
+   "fragments": [
+    "cc26fe39b31a666d",
+    "62afc126b67defe3",
+    "1520fdb409d09fe6",
+    "47fa24e11e28c2f7",
+    "6d56d4d6821bd208",
+    "13312b9b5f411fb0"
+   ]
+  }
+ ],
+ "fragments": {
+  "e3c32c727a7b5ea6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Janeiro\n\nTendo em vista a próxima integração do País na Comunidade Económica Europeia;\n\nConsiderando que para o efeito se torna necessário proceder à revisão, actualização e sistematização da legislação nacional em vigor, adaptando-a progressivamente à legislação comunitária;\n\nUsando da autorização conferida pelo artigo 3.º da [Lei n.º 47/80](https://diariodarepublica.pt/dr/detalhe/lei/47-1980-667512), de 9 de Dezembro:\n\nO Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - As mercadorias que sejam objecto de pequenas remessas sem carácter comercial expedidas do estrangeiro por um particular com destino a um outro particular que se encontre no território aduaneiro nacional beneficiam da franquia de direitos de importação nas condições previstas por este decreto-lei.\n\n2 - Para efeitos do n.º 1, entende-se por:\n\na) «Pequenas remessas sem carácter comercial» as remessas que simultaneamente:\n\nTenham um carácter ocasional;\n\nContenham exclusivamente mercadorias reservadas ao uso pessoal ou familiar dos destinatários, não representando essas mercadorias pela sua natureza ou quantidade qualquer preocupação de ordem comercial;\n\nSejam constituídas por mercadorias cujo valor global, incluindo o dos produtos visados no artigo 2.º, não ultrapasse 30 unidades de conta europeias;\n\nSejam enviadas pelo expedidor ao destinatário sem que este tenha que efectuar qualquer pagamento;\n\nb) «Direitos de importação», tanto os direitos aduaneiros como as taxas de efeito equivalente.\n\nArt. 2.º A franquia visada no artigo 1.º apenas se aplica às mercadorias abaixo mencionadas dentro dos limites quantitativos fixados para cada uma delas:\n\na) «Tabaco»: 50 cigarros, ou 25 cigarrilhas (charutos com um peso máximo de 3 g por unidade), ou 10 charutos, ou 50 g de tabaco picado;\n\nb) «Bebidas alcoólicas»:\n\nBebidas destiladas e bebidas espirituosas, de grau alcoólico superior a 22.º: uma garrafa tipo (até 1 l);\n\nBebidas destiladas e bebidas espirituosas, aperitivos que tenham por base vinho ou álcool de grau alcoólico igual ou inferior a 22.º, vinhos espumantes e espumosos e vinhos licorosos: uma garrafa tipo (até 1 l);\n\nVinhos comuns: 2 l;\n\nc) «Perfumes» (50 g) ou «águas de toucador» (0,25 l).\n\nArt. 3.º As mercadorias mencionadas no artigo 2.º contidas numa pequena remessa sem carácter comercial em quantidades que excedam as fixadas no referido artigo serão excluídas, na totalidade, do benefício da franquia, sem prejuízo da aplicação dos artigos 1.º a 4.º do [Decreto-Lei n.º 6/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1981-390029), de 24 de Janeiro.\n\nArt. 4.º É dispensada a cobrança de taxas para os organismos de coordenação económica na importação das mercadorias referidas no artigo 1.º\n\nVisto e aprovado em Conselho de Ministros de 22 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.\n\nPromulgado em 15 de Janeiro de 1981.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "cc26fe39b31a666d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Janeiro\n\nTendo em vista a próxima integração do País na Comunidade Económica Europeia;\n\nConsiderando que para o efeito se torna necessário proceder à revisão, actualização e sistematização da legislação nacional em vigor, adaptando-a progressivamente à legislação comunitária;\n\nUsando da autorização conferida pelo artigo 3.º da [Lei n.º 47/80](https://diariodarepublica.pt/dr/detalhe/lei/47-1980-667512), de 9 de Dezembro:\n\nO Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "62afc126b67defe3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1982-08-13",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 324/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1982-397913), publicado em 1982-08-13."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - As mercadorias que sejam objecto de pequenas remessas sem carácter comercial expedidas do estrangeiro por um particular com destino a um outro particular que se encontre no território aduaneiro nacional beneficiam da franquia de direitos de importação nas condições previstas por este decreto-lei.\n\n2 - Para efeitos do n.º 1, entende-se por:\n\na) «Pequenas remessas sem carácter comercial» as remessas que simultaneamente:\n\nTenham um carácter ocasional;\n\nContenham exclusivamente mercadorias reservadas ao uso pessoal ou familiar dos destinatários, não representando essas mercadorias pela sua natureza ou quantidade qualquer preocupação de ordem comercial;\n\nSejam constituídas por mercadorias cujo valor global, incluindo o dos produtos visados no artigo 2.º, não ultrapasse 35 unidades de conta europeias;\n\nSejam enviadas pelo expedidor ao destinatário sem que este tenha de efectuar qualquer pagamento;\n\nb) «Direitos de importação», tanto os direitos aduaneiros como as taxas de efeito equivalente.\n\n> Alterado pelo/a [Decreto-Lei n.º 324/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1982-397913), publicado em 1982-08-13."
+  },
+  "1520fdb409d09fe6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA franquia visada no artigo 1.º apenas se aplica às mercadorias abaixo mencionadas dentro dos limites quantitativos fixados para cada uma delas:\n\na) «Tabaco»: 50 cigarros, ou 25 cigarrilhas (charutos com um peso máximo de 3 g por unidade), ou 10 charutos, ou 50 g de tabaco picado;\n\nb) «Bebidas alcoólicas»:\n\nBebidas destiladas e bebidas espirituosas, de grau alcoólico superior a 22.º: uma garrafa tipo (até 1 l);\n\nBebidas destiladas e bebidas espirituosas, aperitivos que tenham por base vinho ou álcool de grau alcoólico igual ou inferior a 22.º, vinhos espumantes e espumosos e vinhos licorosos: uma garrafa tipo (até 1 l);\n\nVinhos comuns: 2 l;\n\nc) «Perfumes» (50 g) ou «águas de toucador» (0,25 l)."
+  },
+  "47fa24e11e28c2f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs mercadorias mencionadas no artigo 2.º contidas numa pequena remessa sem carácter comercial em quantidades que excedam as fixadas no referido artigo serão excluídas, na totalidade, do benefício da franquia, sem prejuízo da aplicação dos artigos 1.º a 4.º do [Decreto-Lei n.º 6/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1981-390029), de 24 de Janeiro."
+  },
+  "6d56d4d6821bd208": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nÉ dispensada a cobrança de taxas para os organismos de coordenação económica na importação das mercadorias referidas no artigo 1.º"
+  },
+  "13312b9b5f411fb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1982-08-13",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 324/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1982-397913), publicado em 1982-08-13."
+   ],
+   "markdown": "###### Artigo 5.º\n\nA concessão de novas franquias e a alteração das existentes, no âmbito deste decreto-lei, serão objecto de portaria do Ministro de Estado e das Finanças e do Plano.\n\n> Aditado pelo/a [Decreto-Lei n.º 324/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1982-397913), publicado em 1982-08-13.\n\nVisto e aprovado em Conselho de Ministros de 22 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.\n\nPromulgado em 15 de Janeiro de 1981.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

@@ -1,0 +1,614 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:281607:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1960-04-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "14b98fdf2b41e6bd"
+   ]
+  },
+  {
+   "date": "1963-03-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:194065:por",
+     "title": "Decreto n.º 44914",
+     "published": "1963-03-13",
+     "dre_path": "/dr/detalhe/decreto/44914-1963-194065"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "ccbd298dd153863b",
+    "53891f975da9fff6",
+    "cb38ba1a4d25c7b0",
+    "4ffcd643efaa026c",
+    "0e69ebabafe6006d",
+    "1edd3bb6e82361f7",
+    "2bd44fdbbd7c4d4c",
+    "9a63e1aec96e2a0d",
+    "d887e160a7a528de",
+    "4d47bde31621d425",
+    "710e004937807fa9",
+    "1e136f1c78fe9fd2",
+    "99c2ba8e44220db9",
+    "304af4e6bf09d248",
+    "f7721211a52d7b33",
+    "253ca5522f8658cc",
+    "482799ecdffc23bd",
+    "6f2de239695f2af2",
+    "3c94b6b5c78dafac",
+    "3e0ff1ca3d4a982c",
+    "b3dd71850037655e",
+    "38e0c1e500074b16",
+    "bf1d86e8ab6d1be2",
+    "3e30c41867dbb766",
+    "e941c909203474db",
+    "753dc7eb5cf60ca1",
+    "40071c01bbd9d33f",
+    "5dff9ffc0c49c515",
+    "2b9b15ac4dd48d14",
+    "978ab20f046e2880",
+    "f8e4ede2c412ca0e",
+    "57e0d3526bf35957",
+    "8914a94f1a279698",
+    "53f58ffcff12e482",
+    "5829412a96c4a813",
+    "b7d5de2121b40664",
+    "c69bf43fd3d968fb",
+    "d40adc9625dc6286",
+    "e82d06323123d533",
+    "257e08fefe6c5106",
+    "cd14f0e623c896f7",
+    "a08a18f37605587c",
+    "e4326d33607c05bf",
+    "e5f7132d23558f95",
+    "24b8a915648a640a",
+    "b6ff252587cf3b9f",
+    "4f90f5732080161e",
+    "4b87a974954e80c8",
+    "8c04e85bf7340f13",
+    "5cd5a89f05b6a83d",
+    "4e52d5d2a2215c99",
+    "2a158e044154029d",
+    "856a2dc9a05f7b97",
+    "72249c02ec95de31",
+    "a70173c63ede356b",
+    "8f0d4296a2230274",
+    "877eb28e9ab5cfaf",
+    "d56487f81b49c977",
+    "62a8f7938edb718d",
+    "868d21255f56968a",
+    "f380eb368b4af7da",
+    "426994b167e9c5ea",
+    "6e878eadd646e37a"
+   ]
+  }
+ ],
+ "fragments": {
+  "14b98fdf2b41e6bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tornando-se necessário actualizar e fundir num só diploma as normas que regulam as comissões de serviço dos militares no ultramar;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição o Governo decreta e eu promulgo o seguinte:\n\nDisposições gerais\n\nArtigo 1.º A nomeação de oficiais, sargentos e praças das forças metropolitanas para preenchimento dos lugares previstos na lei de quadros e efectivos das forças terrestres ultramarinas é regulada nos termos do disposto neste decreto.\n\nArt. 2.º O serviço prestado pelos militares nos comandos, unidades e estabelecimentos militares do ultramar é contado, para todos os efeitos, como o prestado na metrópole nas mesmas condições.\n\nO serviço prestado em cargos públicos dependentes de outros Ministérios é considerado de comissão civil, salvo quando em caso de guerra ou de emergência forem colocados na directa dependência do comandante militar da respectiva província.\n\nArt. 3.º A nomeação dos militares para comissão militar no ultramar far-se-á:\n\na) Por escolha ou por designação do Ministro;\n\nb) Por oferecimento;\n\nc) Por imposição de serviço.\n\nArt. 4.º A nomeação por escolha faz-se, quer mediante proposta do respectivo comandante militar, nos termos do artigo 15.º, quer seleccionando de entre os oferecidos aquele que for julgado mais idóneo para o preenchimento da vacatura considerada, nos casos especiais em que, por conveniência de serviço, houver que adoptar-se este procedimento.\n\nA nomeação por escolha é feita por despacho ministerial.\n\nArt. 5.º O Ministro do Exército reserva para si o direito de designar para o preenchimento de qualquer vacatura o militar que entender por conveniente.\n\nEste procedimento será, em regra, o adoptado para a nomeação dos altos cargos militares das foras terrestres ultramarinas.\n\nArt. 6.º A nomeação por oferecimento é feita entre os militares que prévia e oportunamente declararem por escrito que desejam servir no ultramar nos termos deste decreto.\n\nArt. 7.º A nomeação por imposição de serviço é adoptada quando não houver oferecidos nas listas referidas no artigo 13.º, ou estes não satisfaçam às condições exigidas. Na imposição de serviço as nomeações são feitas pela respectiva escala geral.\n\nArt. 8.º O tempo obrigatório da comissão militar é o seguinte:\n\na) Para os militares do quadro permanente:\n\nDois anos para os nomeados por escolha, designação e imposição de serviço;\n\nTrês anos para os nomeados por oferecimento.\n\nb) Para os militares do quadro de complemento:\n\nDois anos para os de qualquer arma ou serviço quando nomeados por escolha, designação ou imposição de serviço;\n\nTrês anos, podendo ainda ser prorrogados ano a ano, para os oferecidos da arma de engenharia, engenheiros do serviço de material, médicos, farmacêuticos, veterinários e licenciados em Direito.\n\nTrês anos improrrogáveis para os oferecidos das outras armas e serviços.\n\n§ 1.º O tempo de duração da comissão militar é contado desde a data do desembarque na província ultramarina de destino até à véspera do dia do embarque de regresso à metrópole.\n\nO tempo de viagem, enquadrando tropas, tanto na ida como no regresso, e o de permanência noutra província, em preparação ou desmobilização de tropas a destacar ou recolhidas, é contado na duração da comissão.\n\n§ 2.º Os tempos de duração de comissão militar indicados no corpo deste artigo aplicam-se igualmente aos oficiais da reserva ou aos oficiais e sargentos do quadro permanente que mudem de quadro durante a comissão.\n\nArt. 9.º O Ministro do Exército pode dar por finda a comissão militar em qualquer altura da sua duração, sem prejuízo dos direitos consignados neste diploma.\n\n§ único. Quando a comissão terminar por motivo disciplinar ou por ser inconveniente a permanência no ultramar, os militares perdem o direito ao abono de ajudas de custo e à licença a que se referem os n.os 1.º e 4.º do artigo 22.º\n\nArt. 10.º Aos oficiais e sargentos do quadro permanente, em comissão militar no ultramar, pode ser autorizada, mediante requerimento, a passagem à comissão civil, depois de completados dois anos de comissão militar e desde que a substituição consequente seja julgada oportuna.\n\nArt. 11.º Aos oficiais e sargentos do quadro de complemento e às praças em comissão militar no ultramar pode ser autorizada, mediante requerimento, a passagem à disponibilidade ou ao escalão correspondente à sua idade depois de completados dois anos de comissão militar.\n\nA pretensão só pode ser deferida se a substituição consequente for julgada oportuna e, bem assim, se tiver sido autorizada pelo governador-geral ou governador a sua fixação de residência na província.\n\nArt. 12.º Em caso de emergência ou quando o interesse nacional o determine, pode o Ministro do Exército suspender o regresso à metrópole dos militares que tenham terminado as suas comissões militares.\n\nArt. 13.º Para execução do disposto no artigo 6.º os serviços competentes da Ministério do Exército organizam listas dos militares oferecidos para comissão militar, numa ou em várias províncias ultramarinas, devendo as declarações dos interessados dar entrada nos mesmos serviços durante o mês de Outubro do ano anterior àquele a que dizem respeito.\n\n§ 1.º Na elaboração da lista da cada arma ou serviço, e dentro de cada posto ou ainda de cada especialidade, são observadas as condições de preferência especificadas neste decreto.\n\n§ 2.º Os serviços competentes do Ministério do Exército devem, em regra, promover anualmente a publicação na Ordem do Exército do mês de Dezembro das listas dos militares oferecidos para servirem no ano imediato nas províncias ultramarinas.\n\nIndependentemente da sua publicação na Ordem do Exército, as relações vigoram desde 1 de Janeiro do ano a que dizem respeito.\n\n§ 3.º A desistência de servir no ultramar pode ser aceite antes de aos interessados competir a nomeação. Depois de esta realizada não são permitidas desistências.\n\n§ 4.º Depois de esgotadas quaisquer das listas publicadas na Ordem do Exército, dentro de qualquer arma ou serviço, posto e especialidade, e se houver que preencher outras vacaturas dos comandos militares ultramarinos, deve ser feito novo convite, sendo os oferecidos igualmente classificados segundo as ordens de preferência indicadas nos artigos 19.º, 34.º e § 2.º do 54.º\n\nOficiais do quadro permanente\n\nArt. 14.º Os princípios que passam a orientar as nomeações de oficiais do quadro permanente para comissão militar no ultramar tem por fim instituir um sistema de rotação com a dupla finalidade de que todos os oficiais, dentro das possibilidades, prestem serviço nas forças terrestres ultramarinas, consideradas no seu conjunto, e, por sua vez, que cada oficial conheça o maior número de províncias do ultramar.\n\nArt. 15.º As nomeações para os cargos de comandante militar, 2.º comandante, chefe de estado-maior, comandantes das armas, chefes de serviço, comandantes de circunscrição militar, comandantes de batalhão ou grupo independente e ajudantes, em regra, são feitas por escolha ou por designação, sendo a do primeiro com a concordância do Ministro da Defesa Nacional e ouvido o Ministro do Ultramar, a do último por proposta do comandante militar e as dos restantes com ou sem proposta do mesmo comandante.\n\nArt. 16.º Na aplicação de escala geral para nomeações por imposição de serviço devem estas recair nos oficiais de menor antiguidade, dentro das seguintes ordens de preferência:\n\n1.º Nunca ter servido no ultramar;\n\n2.º Nunca ter servido no comando militar onde existir a vacatura.\n\n§ 1.º São abrangidos na nomeação por imposição os oficiais que estiverem em serviço noutros Ministérios e não tenham transitado definitivamente de quadro.\n\n§ 2.º São excluídos da nomeação por imposição de serviço:\n\n1.º Os oficiais que fizerem parte do Governo, forem Deputados à Assembleia Nacional ou Procuradores à Câmara Corporativa e os que desempenharem cargos de governador-geral, de governador de província ultramarina ou governador de distrito de província ultramarina;\n\n2.º Os oficiais que já anteriormente tenham efectuado uma comissão completa de serviço militar no ultramar, por imposição, escolha ou designação, e os que tenham cumprido o tempo de expedição de serviço militar no ultramar, qualquer que tivesse sido a sua natureza, enquanto houver outros nas mesmas condições de nomeação que ainda a não tenham feito;\n\n3.º Os oficiais que forem considerados inamovíveis, de harmonia com as disposições aprovadas ou publicadas na Ordem do Exército;\n\n4.º Os oficiais que frequentarem ou já tiverem sido admitidos à matrícula do curso do estado-maior ou de qualquer outro curso em escolas nacionais ou estrangeiras, por conveniência de serviço e nomeação do Ministério do Exército, e, bem assim, os que tiverem concorrido à matrícula do curso do estado-maior, enquanto não for conhecido o resultado do concurso;\n\n5.º Os oficiais que estejam fazendo tirocínio para promoção, quando esses tirocínios não puderem ser continuados nas forças terrestres ultramarinas;\n\n6.º Os que não forem julgados em condições físicas pela junta hospitalar de inspecção.\n\n§ 3.º Quando um oficial a quem competir a nomeação por imposição tiver averbadas penas superiores a três dias de prisão simples, por faltas cometidas fora da província ultramarina para onde lhe competir a nomeação, deve esta ser mantida; se as faltas foram cometidas na província para onde lhe cabe a nomeação, é ouvido o comando militar e, no caso de parecer desfavorável, é o oficial em causa nomeado para outra qualquer província, a indicar pelo Ministério.\n\nArt. 17.º Os oficiais nomeados por imposição, escolha ou designação podem passar à comissão por oferecimento, em qualquer altura da sua comissão, quando lhes seja concedido pelo Ministro do Exército.\n\n§ 1.º Aos oficiais nestas condições é para todos os efeitos a nomeação contada como de oferecimento.\n\n§ 2.º De qualquer modo, a data do início da comissão de oferecimento será a do desembarque do militar na província.\n\nArt. 18.º Os oficiais do quadro permanente para serem nomeados por oferecimento ou por escolha para comissão militar no ultramar devem satisfazer às seguintes condições:\n\n1.ª Estar na efectividade de serviço, salvo para os oficiais de reserva;\n\n2.ª Não estar prevista a sua chamada para satisfação das condições de promoção antes de dois anos, a contar da data da nomeação;\n\n3.ª Ter feito dois anos de serviço nas forças metropolitanas, nas tropas ou em funções próprias do seu quadro, depois da última comissão militar ou civil no ultramar;\n\n4.ª Ter aptidão física comprovada por junta hospitalar de inspecção;\n\n5.ª Não atingir o limite de idade para passar à situação de reserva dentro do prazo de três anos;\n\n6.ª Ser julgado com adequada disposição para servir no ultramar.\n\n§ 1.º Aos comandantes e 2.os comandantes não são aplicáveis as condições 2.ª e 3.ª e o prazo referido na condição 5.ª pode ser reduzido a dois anos.\n\n§ 2.º Os oficiais habilitados com o curso de promoção ao posto imediato podem oferecer-se para comissão militar neste posto, mas são classificados na lista à esquerda de todos os outros.\n\n§ 3.º A condição 1.ª é dispensada aos oficiais do activo que se encontram no ultramar à data do oferecimento.\n\nArt. 19.º A nomeação de oficiais inscritos nas listas de oferecidos far-se-á segundo as seguintes condições de preferência:\n\n1.ª Nunca ter servido em comissão militar no ultramar em qualquer posto;\n\n2.ª Nunca ter servido em comissão militar na província onde se der a vacatura;\n\n3.ª Ter menor tempo de serviço em comissão militar no ultramar;\n\n4.ª Ser condecorado com qualquer das medalhas ou graus da Torre e Espada, valor militar, cruz de guerra, serviços distintos e mérito militar;\n\n5.ª Ser casado e ter maior número de pessoas de família a seu cargo, considerando-se nestas, além da mulher, filhos menores e filhas solteiras, sòmente as pessoas que justificam o abono de família;\n\n6.ª Ter terminado há mais tempo a última comissão militar no ultramar;\n\n7.ª Ter maior antiguidade.\n\n§ 1.º Quando um oficial a quem competir a nomeação por oferecimento tiver averbadas penas superiores a três dias, de prisão simples será o processo prèviamente submetido a despacho.\n\n§ 2.º Os oficiais com auto pendente são ultrapassados pelas seguintes nomeações, sempre que a urgência do preenchimento da vacatura não se harmonize com a demora da solução que for dada ao auto.\n\n§ 3.º Os oficiais a quem competir a nomeação e não forem nomeados no decorrer do ano por estarem em situações de inamovibilidade, por escolha, devem no ano seguinte, caso se tornem a oferecer, ser colocados à frente dos restantes oferecidos.\n\nArt. 20.º Aos oficiais nomeados por oferecimento que terminarem o tempo obrigatório da comissão militar pode esta ser prorrogada por mais dois períodos anuais, quando o requeiram e lhes seja concedido pelo Ministro do Exército.\n\nEsta concessão pode igualmente ser aplicada aos oficiais do quadro de reserva.\n\nArt. 21.º Aos oficiais nomeados por oferecimento que tenham completado dois anos de comissão militar pode ser concedida desistência de a continuar, caso seja julgado oportuno, mas perdendo o direito às passagens de regresso para as famílias e ao respectivo abono de ajudas de custo de embarque.\n\nArt. 22.º Os oficiais nomeados para comissão militar no ultramar têm os seguintes direitos:\n\n1.º Ajudas de custo de embarque, na ida e no regresso, pagas antes do embarque, apenas mediante recibo passado à entidade que deve efectuar o respectivo abono;\n\n2.º Adiantamento de um mês de vencimentos, amortizável até ao máximo de doze prestações mensais;\n\n3.º Pagamento, pelo Ministério do Exército, da pensão que queiram deixar na metrópole, por conta dos seus vencimentos, desde que o restante permita a sua manutenção ao nível correspondente à sua categoria, o que será comprovado pelo comandante militar.\n\nA pensão é autorizada mediante requerimento do interessado e destina-se quer aos alimentos das pessoas de família a seu cargo, de acordo com a lei vigente, quer à satisfação de compromissos que tenha contraído;\n\n4.º Licença, desde a data do desembarque, de 7 dias por cada semestre completo de comissão militar, até ao máximo de 60 dias, com os vencimentos metropolitanos fixados pela lei. No caso de a referida licença não ser gozada na metrópole, a mesma não deve implicar qualquer aumento de despesa com vencimentos ou transportes;\n\n5.º Contagem, para efeitos de reserva e de reforma, do tempo de serviço nas forças terrestres ultramarinas com o aumento que estiver consignado na lei.\n\n§ único. Aos oficiais nomeados por escolha, designação ou oferecimento, além dos direitos consignados no corpo deste artigo, são-lhes também concedidas passagens, por conta do Estado, para a mulher, filhos menores, filhas solteiras e outras pessoas que justifiquem o abono de família, desde que acompanhem o oficial ou se lhes vão reunir antes de dezoito meses do final da comissão.\n\nOs oficiais que casem durante a comissão com senhora domiciliada na província onde estejam em serviço têm direito ao transporte de regresso das pessoas indicadas no período anterior, independentemente do tempo de comissão que tenham cumprido depois do casamento.\n\nArt. 23.º Os oficiais do quadro permanente, do activo ou da reserva, que residirem nas províncias ultramarinas, e sejam nomeados para comissão militar nessa província têm os direitos indicados no artigo anterior, com excepção dos n.os 1.º e 2º.\n\nCaso sejam nomeados para outra província mantêm todos os direitos.\n\nArt. 24º Os oficiais em comissão militar no ultramar que deixarem a efectividade de serviço, a seu pedido, perdem o direito às passagens de regresso para si e suas famílias.\n\nArt. 25.º Aos oficiais do quadro permanente é dada por finda a comissão:\n\n1.º Quando forem promovidos ou transitarem para a reserva e não houver na província onde se encontram vaga correspondente ao novo posto ou situação;\n\n2.º Quando, tendo recolhido à metrópole por opinião da junta competente da respectiva província ultramarina, forem ulteriormente julgados incapazes de servir no ultramar por junta hospitalar de inspecção metropolitana;\n\n3.º Quando lhes venha a caber a prestação de condições de promoção ao posto imediato na metrópole.\n\nEstes oficiais só podem ser mandados regressar após dois anos de permanência no ultramar, não sofrendo por este facto qualquer preterição.\n\n§ único. Aos oficiais punidos com pena de prisão disciplinar agravada pode a comissão ser dada por finda, mediante decisão, ministerial, com ou sem proposta do comandante militar.\n\nArt. 26.º Os oficiais julgados incapazes de servir no ultramar, quando lhes compita nova nomeação para comissão militar nas províncias ultramarinas, transitam para a situação de reserva ou reforma, ou têm baixa de serviço, conforme os casos, se a junta hospitalar de inspecção tomar a mesma decisão pela segunda vez consecutiva.\n\nArt. 27.º Quando os oficiais em serviço nas forças terrestres ultramarinas sejam forçados a vir à metrópole, em consequência de decisão devidamente homologada da junta médica da província, por motivo de doença ou convalescença, de ferimento, desastre ou acidente ocorrido no desempenho dos deveres militares, continuam em comissão militar e as viagens de vinda e regresso do militar são por conta da respectiva província.\n\n§ único. Os oficiais referidos no corpo deste artigo baixam ao hospital logo que cheguem à metrópole, a fim de serem presentes à junta hospitalar de inspecção, o que deve constar da respectiva guia de marcha. Se forem julgados aptos para serviço no ultramar, devem continuar a comissão na mesma província, caso tenham cumprido, menos de metade do tempo a que os obriga a respectiva comissão. Caso contrário, será o processo submetido a despacho.\n\nArt. 28.º Os oficiais do quadro permanente nomeados para comissão militar no ultramar são considerados adidos aos respectivos quadros desde a data do embarque, passando a ser abonados pelos orçamentos das províncias ultramarinas.\n\n§ único. Quando as formalidades legais e as exigências sanitárias para o embarque obrigarem os oficiais a partir com antecedência das suas residências, ser-lhes-ão abonadas as ajudas de custo a que tiverem direito por conta dos referidos orçamentos.\n\nArt. 29.º Aos oficiais em comissão militar no ultramar que não tenham possibilidades de frequentar em tempo oportuno as escolas de recrutas exigidas para a promoção ao posto imediato pode ser averbado como tal o período de um ano de serviço nas tropas prestado nessa comissão com boas informações. Para este efeito terão os interessados que requerer a necessária autorização ao Ministro do Exército.\n\nOficiais do quadro e complemento\n\nArt. 30.º Para as forças terrestres ultramarinas podem ser nomeados em comissão militar oficiais e aspirantes a oficial do quadro de complemento, para preenchimento das vacaturas que se derem e em harmonia com os quadros orgânicos aprovados.\n\nArt. 31.º Aos oficiais e aspirantes a oficial do quadro de complemento, além dos artigos seguintes, que expressamente lhes dizem respeito, são também aplicáveis as disposições constantes dos artigos 17.º, 24.º, 27.º, 28.º e 29.º\n\nArt. 32.º Na aplicação da respectiva escala geral para nomeações por imposição de serviço devem estas recair nos oficiais e aspirantes a oficial de menor antiguidade, dentro das seguintes ordens de preferência:\n\n1.ª Nunca ter servido no ultramar;\n\n2.ª Nunca ter servido no comando militar onde existir a vacatura.\n\n§ 1.º São excluídos da nomeação por imposição de serviço:\n\n1.º Os oficiais e aspirantes a oficial que tenham mais de três pessoas de família a seu cargo e com elas coabitem, considerando-se como pessoas de família, além da mulher, filhos menores e filhas solteiras, sòmente as pessoas que justifiquem o abono de família;\n\n2.º Os que não forem julgados em condições físicas pela junta hospitalar de inspecção.\n\n§ 2.º Quando um oficial a quem competir a nomeação por imposição tiver averbadas penas superiores a três dias de prisão simples, será o processo prèviamente submetido a despacho.\n\nSe o referido oficial não for julgado em condições de servir no ultramar, será o seu processo enviado à Direcção do Serviço de Pessoal do Ministério do Exército, que se pronunciará quanto ao destino que deverá ser dado ao mesmo oficial, de harmonia com as normas a estabelecer pelo mesmo departamento.\n\nArt. 33.º As condições de nomeação para que os oficiais e aspirantes a oficial do quadro de complemento possam servir no ultramar em comissão militar por oferecimento são as seguintes:\n\na) Para os das armas de engenharia, engenheiros do serviço e material, médicos, farmacêuticos, veterinários e oficiais com licenciatura em Direito, para serviço nos quartéis-generais e tribunais:\n\n1.ª Ter boas informações militares e profissionais;\n\n2.ª Ter menos de 35 anos de idade;\n\n3.ª Ter aptidão física comprovada por junta hospitalar de inspecção;\n\nb) Para as restantes armas e serviços;\n\n1.ª Estar na efectividade do serviço;\n\n2.ª Ser alferes ou aspirante a oficial;\n\n3.ª Ter menos de 30 anos de idade;\n\n4.ª Nunca ter servido no ultramar, em comissão militar ou expedição;\n\n5.ª Ter aptidão física comprovada por junta hospitalar de inspecção.\n\nArt. 34.º A nomeação de oficiais e aspirantes a oficial do quadro de complemento inscritos nas listas dos oferecidos far-se-á segundo as seguintes condições de preferência:\n\n1.ª Ter o curso de Medicina Tropical, só para os médicos;\n\n2.ª Ter qualquer especialidade, para os médicos;\n\n3.ª Não ter castigos averbados;\n\n4.ª Ter mais louvores averbados;\n\n5.ª Ter maior antiguidade;\n\n§ 1.º Quando um oficial ou aspirante a oficial a quem competir a nomeação por oferecimento tiver averbadas penas superiores a três dias de prisão simples será o processo prèviamente submetido a despacho.\n\n§ 2.º Os oficiais e aspirantes a oficial com auto de corpo de delito pendente são ultrapassados pelos seguintes nas nomeações, sempre que a urgência do preenchimento da vacatura não se harmonize com a demora da solução que for dada ao auto.\n\nArt. 35.º Os oficiais e aspirantes a oficial do quadro de complemento nomeados para comissão militar no ultramar têm os seguintes direitos:\n\n1.º Ajudas de custo de embarque, na ida e no regresso, pagas antes do embarque e mediante recibo passado à entidade que deve efectuar o respectivo abono;\n\n2.º Adiantamento de um mês de vencimentos, amortizável até ao máximo de doze prestações mensais;\n\n3.º Pagamento, pelo Ministério do Exército, da pensão que queiram deixar na metrópole por conta dos seus vencimentos, desde que o restante permita a sua manutenção ao nível correspondente à sua categoria, o que será comprovado pelo comandante militar;\n\nA pensão é autorizada mediante requerimento do interessado e destina-se quer aos alimentos das pessoas de família a seu cargo, de acordo com a lei vigente, quer à satisfação de compromissos que tenha contraído;\n\n4.º Licença, desde a data do desembarque, de 7 dias por cada semestre completo de comissão militar, até ao máximo de 60 dias, com os vencimentos metropolitanos fixados na lei. No caso de a referida licença não ser gozada na metrópole, a mesma não deve implicar qualquer aumento de despesa com vencimentos ou transportes.\n\n§ único. Aos oficiais nomeados por escolha, designação ou oferecimento, além dos direitos consignados no corpo deste artigo, são-lhes também concedidas passagens, por conta do Estado, para a mulher, filhos menores, filhas solteiras e outras pessoas que justifiquem o abono de família, desde que acompanhem o oficial ou se lhe vão reunir antes de dezoito meses do final da comissão.\n\nOs oficiais que casem durante a comissão têm direito ao transporte de regresso das pessoas indicadas no período anterior, independentemente do tempo de comissão que tenham cumprido depois do casamento.\n\nArt. 36.º Aos oficiais do quadro de complemento é dada por finda a comissão quando se verificar alguma das condições indicadas no artigo 25.º\n\nSargentos do quadro permanente\n\nArt. 37.º Aos sargentos do quadro permanente, além dos artigos seguintes, que expressamente lhes dizem respeito, são também aplicáveis as disposições constantes dos artigos 4.º, 17.º, 20.º, 21.º, 22.º, 24.º, 27.º e 29.º\n\nArt. 38.º Na aplicação da escala geral para nomeações por imposição de serviço devem estas recair nos sargentos de menor antiguidade, dentro das seguintes ordens de referência:\n\n1.ª Nunca ter servido no ultramar;\n\n2.ª Nunca ter servido no comando militar onde existir a vacatura.\n\n§ 1.º São abrangidos na nomeação por imposição os sargentos que estiverem em serviço noutros Ministérios e não tenham transitado definitivamente de quadro.\n\n§ 2.º São excluídos da nomeação por imposição:\n\n1.º Os sargentos ou furriéis que excederem as seguintes idades:\n\nPara as armas e serviços:\n\n43 anos os segundos-sargentos e furriéis;\n\n46 anos os primeiros-sargentos.\n\nPara o quadro de amanuenses:\n\n52 anos para qualquer posto.\n\n2.º Os sargentos que frequentaram ou já estiveram nomeados para frequência da Escola Central de Sargentos;\n\n3.º Os sargentos que anteriormente tenham efectuado uma comissão completa por imposição, escolha ou designação e que tenham cumprido o tempo de expedição, de serviço militar no ultramar, qualquer que tivesse sido a sua natureza, enquanto houver outros nas mesmas condições de nomeação que ainda a não tenham feito;\n\n4.º Os sargentos ou furriéis que estejam fazendo cursos para promoção, quando esses cursos não puderem ser continuados nas forças terrestres ultramarinas;\n\n5.º Os que não forem julgados em condições físicas pela junta hospitalar de inspecção.\n\n6.º Quando um sargento ou furriel, a quem competir a nomeação por imposição, tiver averbadas penas superiores a seis dias de detenção, por faltas cometidas fora da província ultramarina para onde lhe competir a nomeação, deve esta ser mantida; se as faltas foram cometidas na província para onde lhe cabe a nomeação, é esta mantida ou transferida para outra província, conforme a natureza da falta e o despacho que o processo merecer.\n\nArt. 39.º Os sargentos ou furriéis do quadro permanente, fora da efectividade do serviço, que residirem nas províncias ultramarinas e que forem nomeados para comissão militar nessa província têm os direitos indicados no corpo do artigo 22.º para os oficiais do quadro permanente, com excepção dos n.os 1.º e 2.º\n\nCaso sejam nomeados para outra província mantêm todos aqueles direitos.\n\nArt. 40.º Os sargentos e furriéis do quadro permanente, para serem nomeados por oferecimento ou por escolha para comissão militar no ultramar, devem satisfazer às seguintes condições:\n\n1.ª Estar na efectividade de serviço, salvo para os referidos no artigo 39.º;\n\n2.ª Não estar prevista a sua chamada para satisfação das condições de promoção ou frequência de cursos antes de dois anos, a contar da data da nomeação;\n\n3.ª Ter feito dois anos de serviço nas forças metropolitanas, nas tropas em funções próprias do seu quadro, depois da última comissão militar ou civil no ultramar;\n\n4.ª Ter aptidão física comprovada pela junta hospitalar de inspecção;\n\n5.ª Ter idade inferior à indicada no n.º 1.º do § 2.º do artigo 38.º;\n\n6.ª Ter demonstrado em anteriores comissões militares ou civis no ultramar, caso as tenham já desempenhado, adequada disposição para o contacto com as populações do meio ultramarino;\n\n7.ª Ter perfeito conhecimento de dactilografia, sendo do quadro de amanuenses.\n\n§ 1.º Os sargentos habilitados com o curso, ou aprovados em concurso, para promoção ao posto imediato podem oferecer-se para comissão militar neste posto, mas são classificados na lista à esquerda de todos os outros.\n\n§ 2.º Os primeiros-cabos aprovados no concurso para o posto de furriel do quadro permanente podem oferecer-se para comissão militar neste posto, mas são classificados na respectiva lista à esquerda de todos os outros.\n\nArt. 41.º A nomeação de sargentos inscritos nas listas dos oferecidos far-se-á segundo as seguintes condições de preferência:\n\n1.ª Nunca ter servido em comissão militar no ultramar, em qualquer posto;\n\n2.ª Nunca ter servido em comissão militar na província onde se der a vacatura;\n\n3.ª Ter menor tempo de serviço em comissão militar no ultramar;\n\n4.ª Ser condecorado com qualquer das medalhas ou graus da Torre e Espada, valor militar, cruz de guerra, serviços destintos e mérito militar;\n\n5.ª Ser casado e ter maior número de pessoas de família a seu cargo, considerando-se nestas as já enumeradas no n.º 5.º do artigo 19.º;\n\n6.ª Ter terminado há mais tempo a última comissão militar no ultramar;\n\n7.ª Ter maior antiguidade;\n\n§ 1.º Quando um sargento ou furriel a quem competir a nomeação por oferecimento tiver averbadas penas superiores a seis dias de detenção será o processo submetido a despacho.\n\n§ 2.º Os sargentos ou furriéis com auto pendente são ultrapassados pelos seguintes nas nomeações, sempre que a urgência do preenchimento da vacatura não se harmonize com a demora da solução que for dada ao auto.\n\n§ 3.º Os sargentos a quem competir a nomeação e não forem nomeados no decorrer do ano, por estarem em situações de inamovibilidade, por escolha, devem no ano seguinte, caso se tornem a oferecer, ser colocados à frente dos restantes oferecidos.\n\nArt. 42.º Aos sargentos e furriéis do quadro permanente é dada por finda a comissão:\n\n1.º Quando forem promovidos ou passem ao quadro de amanuenses e não haja na província onde se encontrem vaga correspondente ao novo posto ou situação;\n\n2.º Quando tenham recolhido à metrópole, por opinião da junta competente da respectiva província ultramarina, e ulteriormente forem julgados incapazes do serviço do ultramar, por junta hospitalar de inspecção metropolitana;\n\n3.º Quando lhes venha a caber a prestação de condições de promoção ao posto imediato ou à frequência de cursos técnicos obrigatórios na metrópole.\n\nEstes sargentos só podem ser mandados regressar após dois anos de permanência no ultramar, não sofrendo por este facto qualquer preterição.\n\n§ único. O Ministro do Exército pode igualmente dar por finda a comissão militar aos sargentos e furriéis que forem classificados com mau comportamento.\n\nArt. 43.º Os sargentos e furriéis do quadro permanente julgados incapazes de servir no ultramar quando lhes competir nova nomeação para comissão militar nas províncias ultramarinas transitam para a situação de reforma ou têm baixa de serviço, conforme os casos, se a junta hospitalar de inspecção voltar a tomar a mesma decisão pela segunda vez consecutiva.\n\nArt. 44.º Os sargentos e furriéis do quadro permanente nomeados para comissão militar no ultramar são considerados supranumerários nos respectivos quadros desde a data do embarque, passando a ser abonados pelos orçamentos das províncias ultramarinas.\n\n§ único. Quando as formalidades legais e as exigências sanitárias para o embarque obrigarem os sargentos e furriéis a partir com antecedência das suas residências ser-lhes-ão abonadas as ajudas de custo a que tiverem direito por conta dos respectivos orçamentos.\n\nArt. 45.º Durante a comissão de serviço militar no ultramar os contratos de sargentos e furriéis do quadro permanente consideram-se automàticamente prorrogados até a mesma findar.\n\nSargentos do quadro de complemento\n\nArt. 46.º Aos sargentos do quadro de complemento, além dos artigos seguintes, que expressamente lhes dizem respeito, são também aplicáveis as disposições constantes dos artigos 17.º, 21.º, 24.º, 29.º, 30.º, 32.º, 35.º e 44.º\n\nArt. 47.º Na nomeação de sargentos ou furriéis por imposição ou oferecimento deve-se promover que cerca de um quarto das requisições sejam preenchidas por pessoal do quadro de complemento.\n\nArt. 48.º As condições de nomeação de sargentos e furriéis do quadro de complemento, para que possam servir no ultramar em comissão militar por oferecimento, são as seguintes:\n\n1.ª Estar na efectividade de serviço;\n\n2.ª Ter menos de 30 anos de idade;\n\n3.ª Nunca ter servido no ultramar em comissão militar ou expedição;\n\n4.ª Ter aptidão física comprovada por junta hospitalar de inspecção.\n\nArt. 49.º A nomeação de sargentos do quadro de complemento inscritos nas listas dos oferecidos far-se-á segundo as seguintes condições de preferência;\n\n1.ª Ter mais louvores averbados;\n\n2.ª Ter menor idade;\n\n3.ª Ter menor somatório de penas averbadas;\n\n4.ª Ser casado;\n\n5.ª Ter maior antiguidade.\n\n§ 1.º Quando um sargento a quem competir a nomeação tiver averbadas penas superiores a seis dias de detenção será o processo prèviamente submetido a despacho.\n\n§ 2.º Os sargentos com auto de corpo de delito pendente são ultrapassados pelos seguintes nas nomeações, sempre que a urgência do preenchimento da vacatura não se harmonize com a demora da solução que for dada ao auto.\n\nArt. 50.º Aos sargentos e furriéis do quadro de complemento é dada por finda a comissão:\n\n1.º Quando forem promovidos e não haja na província onde se encontrem vaga correspondente ao novo posto;\n\n2.º Quando tenham recolhido à metrópole, por opinião da junta competente da respectiva província ultramarina, e forem ulteriormente julgados incapazes de serviço no ultramar, por junta hospitalar de inspecção da metrópole.\n\n§ único. O Ministro do Exército pode igualmente dar por finda a comissão militar aos sargentos e furriéis do quadro de complemento que forem classificados com mau comportamento.\n\nPraças\n\nArt. 51.º Às praças, além dos artigos que expressamente lhes dizem respeito, são também aplicáveis as disposições constantes dos artigos 21.º, 22.º, 24.º, 27.º e 29.º\n\nArt. 52.º Para comissão militar nas forças ultramarinas só são nomeadas, em regra, as praças de especialidades que não possam normalmente ser formadas nas respectivas províncias.\n\nArt. 53.º A nomeação de cabos e soldados por imposição de serviço para comissão militar no ultramar deve recair, em princípio, nas classes que se encontram nas fileiras e segundo, respectivamente, a classificação obtida na escola de cabos ou o número de sorteio, salvo os casos referidos no parágrafo seguinte.\n\n§ único. São excluídas da nomeação por imposição de serviço as praças que:\n\n1.º Forem casadas ou viúvas com filhos ou estiverem consideradas amparos, nos termos da legislação em vigor;\n\n2.º Estiverem a prestar provas em concurso para furriel;\n\n3.º Frequentarem ou estiverem nomeadas para frequentar o curso de oficiais ou de sargentos milicianos;\n\n4.º Estiverem frequentando cursos técnicos, por conveniência de serviço.\n\nArt. 54.º As praças, para serem nomeadas por oferecimento, devem satisfazer às seguintes condições:\n\n1.ª Não terem sido punidas com prisão disciplinar agravada ou não terem sofrido punições cujo somatório, nos últimos seis meses, seja superior a seis dias de detenção;\n\n2.ª Pertencerem ao quadro permanente ou às classes que se encontrem nas fileiras, com idade não superior a 27 anos;\n\n3.ª Terem aptidão física comprovada pela junta hospitalar de inspecção.\n\n§ 1.º Os soldados habilitados com a escola de cabos podem oferecer-se para comissão militar, sendo classificados à esquerda de todos os cabos.\n\n§ 2.º A nomeação das praças inscritas nas respectivas listas de oferecimento far-se-á segundo as seguintes condições de preferência:\n\n1.ª Ter mais tempo de serviço efectivo;\n\n2.ª Ter mais louvores averbados;\n\n3.ª Ter menor somatório de penas averbadas;\n\n4.ª Ter menor idade.\n\nArt. 55.º Às praças é dada por finda a comissão:\n\n1.º Quando forem promovidas ao posto imediato e não haja na província onde se encontrarem vaga correspondente ao seu novo posto;\n\n2.º Quando tenham recolhido à metrópole por opinião da junta competente da respectiva província ultramarina e forem ulteriormente julgadas incapazes de serviço no ultramar por junta hospitalar de inspecção metropolitana;\n\n3.º Quando lhes venha a caber a frequência de cursos técnicos, só são chamadas depois de terem prestado dois anos de serviço nas forças terrestres ultramarinas, não sofrendo por esse facto qualquer preterição.\n\n§ único. O Ministro do Exército pode igualmente dar por finda a comissão militar às praças que forem classificadas com mau comportamento.\n\nArt. 56.º Os cabos que terminarem o tempo de comissão militar por imposição ou oferecimento podem continuar ao serviço das forças terrestres ultramarinas, respectivamente, por oferecimento ou no regime de readmissão, até um máximo de cinco anos no total da comissão.\n\nArt. 57.º As praças nomeadas para comissão militar no ultramar são aumentadas aos respectivos comandos militares desde a data do embarque, passando a ser abonadas pelas correspondentes províncias ultramarinas.\n\n§ único. Quando as formalidades legais e as exigências sanitárias para o embarque obrigarem as praças a partir com antecedência dos seus quartéis, ser-lhes-ão concedidos abonos de marcha a que tiverem direito, por conta dos respectivos orçamentos.\n\nArt. 58.º Os primeiros-cabos em comissão militar no ultramar que forem promovidos a furriel podem iniciar nova comissão por oferecimento, desde a data da promoção, quando o requeiram e lhes seja concedido pelo Ministro do Exército, mas até um máximo de cinco anos no total da comissão.\n\nArt. 59.º O tempo de duração da comissão militar implica para as praças a obrigatoriedade de permanência nas fileiras, sem prejuízo na contagem dos períodos de readmissão, se para tal houver motivo.\n\nDisposições diversas e transitórias\n\nArt. 60.º O tempo de comparticipação em expedição militar é contado como comissão militar no ultramar para os efeitos de nomeação por imposição de serviço nos termos deste decreto, mas não é considerado para efeitos de oferecimento.\n\nArt. 61.º (transitório). Aos militares actualmente em serviço nas forças terrestres ultramarinas é mantido o período mínimo de comissão que estava estabelecido quando foram nomeados, podendo ainda ser autorizada, a título excepcional, nova prorrogação de um ano para aqueles que o desejem e estejam no quarto ou quinto ano da comissão.\n\nArt. 62.º Este decreto entra imediatamente em vigor.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 22 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Vasco Lopes Alves.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves."
+  },
+  "ccbd298dd153863b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tornando-se necessário actualizar e fundir num só diploma as normas que regulam as comissões de serviço dos militares no ultramar;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição o Governo decreta e eu promulgo o seguinte:\n\nDisposições gerais"
+  },
+  "53891f975da9fff6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA nomeação de oficiais, sargentos e praças das forças metropolitanas para preenchimento dos lugares previstos na lei de quadros e efectivos das forças terrestres ultramarinas é regulada nos termos do disposto neste decreto."
+  },
+  "cb38ba1a4d25c7b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO serviço prestado pelos militares nos comandos, unidades e estabelecimentos militares do ultramar é contado, para todos os efeitos, como o prestado na metrópole nas mesmas condições.\n\nO serviço prestado em cargos públicos dependentes de outros Ministérios é considerado de comissão civil, salvo quando em caso de guerra ou de emergência forem colocados na directa dependência do comandante militar da respectiva província."
+  },
+  "4ffcd643efaa026c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA nomeação dos militares para comissão militar no ultramar far-se-á:\n\na) Por escolha ou por designação do Ministro;\n\nb) Por oferecimento;\n\nc) Por imposição de serviço."
+  },
+  "0e69ebabafe6006d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA nomeação por escolha faz-se, quer mediante proposta do respectivo comandante militar, nos termos do artigo 15.º, quer seleccionando de entre os oferecidos aquele que for julgado mais idóneo para o preenchimento da vacatura considerada, nos casos especiais em que, por conveniência de serviço, houver que adoptar-se este procedimento.\n\nA nomeação por escolha é feita por despacho ministerial."
+  },
+  "1edd3bb6e82361f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO Ministro do Exército reserva para si o direito de designar para o preenchimento de qualquer vacatura o militar que entender por conveniente.\n\nEste procedimento será, em regra, o adoptado para a nomeação dos altos cargos militares das foras terrestres ultramarinas."
+  },
+  "2bd44fdbbd7c4d4c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA nomeação por oferecimento é feita entre os militares que prévia e oportunamente declararem por escrito que desejam servir no ultramar nos termos deste decreto."
+  },
+  "9a63e1aec96e2a0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA nomeação por imposição de serviço é adoptada quando não houver oferecidos nas listas referidas no artigo 13.º, ou estes não satisfaçam às condições exigidas. Na imposição de serviço as nomeações são feitas pela respectiva escala geral."
+  },
+  "d887e160a7a528de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO tempo obrigatório da comissão militar é o seguinte:\n\na) Para os militares do quadro permanente:\n\nDois anos para os nomeados por escolha, designação e imposição de serviço;\n\nTrês anos para os nomeados por oferecimento.\n\nb) Para os militares do quadro de complemento:\n\nDois anos para os de qualquer arma ou serviço quando nomeados por escolha, designação ou imposição de serviço;\n\nTrês anos, podendo ainda ser prorrogados ano a ano, para os oferecidos da arma de engenharia, engenheiros do serviço de material, médicos, farmacêuticos, veterinários e licenciados em Direito.\n\nTrês anos improrrogáveis para os oferecidos das outras armas e serviços.\n\n§ 1.º O tempo de duração da comissão militar é contado desde a data do desembarque na província ultramarina de destino até à véspera do dia do embarque de regresso à metrópole.\n\nO tempo de viagem, enquadrando tropas, tanto na ida como no regresso, e o de permanência noutra província, em preparação ou desmobilização de tropas a destacar ou recolhidas, é contado na duração da comissão.\n\n§ 2.º Os tempos de duração de comissão militar indicados no corpo deste artigo aplicam-se igualmente aos oficiais da reserva ou aos oficiais e sargentos do quadro permanente que mudem de quadro durante a comissão."
+  },
+  "4d47bde31621d425": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO Ministro do Exército pode dar por finda a comissão militar em qualquer altura da sua duração, sem prejuízo dos direitos consignados neste diploma.\n\n§ único. Quando a comissão terminar por motivo disciplinar ou por ser inconveniente a permanência no ultramar, os militares perdem o direito ao abono de ajudas de custo e à licença a que se referem os n.os 1.º e 4.º do artigo 22.º"
+  },
+  "710e004937807fa9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAos oficiais e sargentos do quadro permanente, em comissão militar no ultramar, pode ser autorizada, mediante requerimento, a passagem à comissão civil, depois de completados dois anos de comissão militar e desde que a substituição consequente seja julgada oportuna."
+  },
+  "1e136f1c78fe9fd2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAos oficiais e sargentos do quadro de complemento e às praças em comissão militar no ultramar pode ser autorizada, mediante requerimento, a passagem à disponibilidade ou ao escalão correspondente à sua idade depois de completados dois anos de comissão militar.\n\nA pretensão só pode ser deferida se a substituição consequente for julgada oportuna e, bem assim, se tiver sido autorizada pelo governador-geral ou governador a sua fixação de residência na província."
+  },
+  "99c2ba8e44220db9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nEm caso de emergência ou quando o interesse nacional o determine, pode o Ministro do Exército suspender o regresso à metrópole dos militares que tenham terminado as suas comissões militares."
+  },
+  "304af4e6bf09d248": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nPara execução do disposto no artigo 6.º os serviços competentes da Ministério do Exército organizam listas dos militares oferecidos para comissão militar, numa ou em várias províncias ultramarinas, devendo as declarações dos interessados dar entrada nos mesmos serviços durante o mês de Outubro do ano anterior àquele a que dizem respeito.\n\n§ 1.º Na elaboração da lista da cada arma ou serviço, e dentro de cada posto ou ainda de cada especialidade, são observadas as condições de preferência especificadas neste decreto.\n\n§ 2.º Os serviços competentes do Ministério do Exército devem, em regra, promover anualmente a publicação na Ordem do Exército do mês de Dezembro das listas dos militares oferecidos para servirem no ano imediato nas províncias ultramarinas.\n\nIndependentemente da sua publicação na Ordem do Exército, as relações vigoram desde 1 de Janeiro do ano a que dizem respeito.\n\n§ 3.º A desistência de servir no ultramar pode ser aceite antes de aos interessados competir a nomeação. Depois de esta realizada não são permitidas desistências.\n\n§ 4.º Depois de esgotadas quaisquer das listas publicadas na Ordem do Exército, dentro de qualquer arma ou serviço, posto e especialidade, e se houver que preencher outras vacaturas dos comandos militares ultramarinos, deve ser feito novo convite, sendo os oferecidos igualmente classificados segundo as ordens de preferência indicadas nos artigos 19.º, 34.º e § 2.º do 54.º\n\nOficiais do quadro permanente"
+  },
+  "f7721211a52d7b33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs princípios que passam a orientar as nomeações de oficiais do quadro permanente para comissão militar no ultramar tem por fim instituir um sistema de rotação com a dupla finalidade de que todos os oficiais, dentro das possibilidades, prestem serviço nas forças terrestres ultramarinas, consideradas no seu conjunto, e, por sua vez, que cada oficial conheça o maior número de províncias do ultramar."
+  },
+  "253ca5522f8658cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAs nomeações para os cargos de comandante militar, 2.º comandante, chefe de estado-maior, comandantes das armas, chefes de serviço, comandantes de circunscrição militar, comandantes de batalhão ou grupo independente e ajudantes, em regra, são feitas por escolha ou por designação, sendo a do primeiro com a concordância do Ministro da Defesa Nacional e ouvido o Ministro do Ultramar, a do último por proposta do comandante militar e as dos restantes com ou sem proposta do mesmo comandante."
+  },
+  "482799ecdffc23bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nNa aplicação de escala geral para nomeações por imposição de serviço devem estas recair nos oficiais de menor antiguidade, dentro das seguintes ordens de preferência:\n\n1.º Nunca ter servido no ultramar;\n\n2.º Nunca ter servido no comando militar onde existir a vacatura.\n\n§ 1.º São abrangidos na nomeação por imposição os oficiais que estiverem em serviço noutros Ministérios e não tenham transitado definitivamente de quadro.\n\n§ 2.º São excluídos da nomeação por imposição de serviço:\n\n1.º Os oficiais que fizerem parte do Governo, forem Deputados à Assembleia Nacional ou Procuradores à Câmara Corporativa e os que desempenharem cargos de governador-geral, de governador de província ultramarina ou governador de distrito de província ultramarina;\n\n2.º Os oficiais que já anteriormente tenham efectuado uma comissão completa de serviço militar no ultramar, por imposição, escolha ou designação, e os que tenham cumprido o tempo de expedição de serviço militar no ultramar, qualquer que tivesse sido a sua natureza, enquanto houver outros nas mesmas condições de nomeação que ainda a não tenham feito;\n\n3.º Os oficiais que forem considerados inamovíveis, de harmonia com as disposições aprovadas ou publicadas na Ordem do Exército;\n\n4.º Os oficiais que frequentarem ou já tiverem sido admitidos à matrícula do curso do estado-maior ou de qualquer outro curso em escolas nacionais ou estrangeiras, por conveniência de serviço e nomeação do Ministério do Exército, e, bem assim, os que tiverem concorrido à matrícula do curso do estado-maior, enquanto não for conhecido o resultado do concurso;\n\n5.º Os oficiais que estejam fazendo tirocínio para promoção, quando esses tirocínios não puderem ser continuados nas forças terrestres ultramarinas;\n\n6.º Os que não forem julgados em condições físicas pela junta hospitalar de inspecção.\n\n§ 3.º Quando um oficial a quem competir a nomeação por imposição tiver averbadas penas superiores a três dias de prisão simples, por faltas cometidas fora da província ultramarina para onde lhe competir a nomeação, deve esta ser mantida; se as faltas foram cometidas na província para onde lhe cabe a nomeação, é ouvido o comando militar e, no caso de parecer desfavorável, é o oficial em causa nomeado para outra qualquer província, a indicar pelo Ministério."
+  },
+  "6f2de239695f2af2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs oficiais nomeados por imposição, escolha ou designação podem passar à comissão por oferecimento, em qualquer altura da sua comissão, quando lhes seja concedido pelo Ministro do Exército.\n\n§ 1.º Aos oficiais nestas condições é para todos os efeitos a nomeação contada como de oferecimento.\n\n§ 2.º De qualquer modo, a data do início da comissão de oferecimento será a do desembarque do militar na província."
+  },
+  "3c94b6b5c78dafac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs oficiais do quadro permanente para serem nomeados por oferecimento ou por escolha para comissão militar no ultramar devem satisfazer às seguintes condições:\n\n1.ª Estar na efectividade de serviço, salvo para os oficiais de reserva;\n\n2.ª Não estar prevista a sua chamada para satisfação das condições de promoção antes de dois anos, a contar da data da nomeação;\n\n3.ª Ter feito dois anos de serviço nas forças metropolitanas, nas tropas ou em funções próprias do seu quadro, depois da última comissão militar ou civil no ultramar;\n\n4.ª Ter aptidão física comprovada por junta hospitalar de inspecção;\n\n5.ª Não atingir o limite de idade para passar à situação de reserva dentro do prazo de três anos;\n\n6.ª Ser julgado com adequada disposição para servir no ultramar.\n\n§ 1.º Aos comandantes e 2.os comandantes não são aplicáveis as condições 2.ª e 3.ª e o prazo referido na condição 5.ª pode ser reduzido a dois anos.\n\n§ 2.º Os oficiais habilitados com o curso de promoção ao posto imediato podem oferecer-se para comissão militar neste posto, mas são classificados na lista à esquerda de todos os outros.\n\n§ 3.º A condição 1.ª é dispensada aos oficiais do activo que se encontram no ultramar à data do oferecimento."
+  },
+  "3e0ff1ca3d4a982c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA nomeação de oficiais inscritos nas listas de oferecidos far-se-á segundo as seguintes condições de preferência:\n\n1.ª Nunca ter servido em comissão militar no ultramar em qualquer posto;\n\n2.ª Nunca ter servido em comissão militar na província onde se der a vacatura;\n\n3.ª Ter menor tempo de serviço em comissão militar no ultramar;\n\n4.ª Ser condecorado com qualquer das medalhas ou graus da Torre e Espada, valor militar, cruz de guerra, serviços distintos e mérito militar;\n\n5.ª Ser casado e ter maior número de pessoas de família a seu cargo, considerando-se nestas, além da mulher, filhos menores e filhas solteiras, sòmente as pessoas que justificam o abono de família;\n\n6.ª Ter terminado há mais tempo a última comissão militar no ultramar;\n\n7.ª Ter maior antiguidade.\n\n§ 1.º Quando um oficial a quem competir a nomeação por oferecimento tiver averbadas penas superiores a três dias, de prisão simples será o processo prèviamente submetido a despacho.\n\n§ 2.º Os oficiais com auto pendente são ultrapassados pelas seguintes nomeações, sempre que a urgência do preenchimento da vacatura não se harmonize com a demora da solução que for dada ao auto.\n\n§ 3.º Os oficiais a quem competir a nomeação e não forem nomeados no decorrer do ano por estarem em situações de inamovibilidade, por escolha, devem no ano seguinte, caso se tornem a oferecer, ser colocados à frente dos restantes oferecidos."
+  },
+  "b3dd71850037655e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nAos oficiais nomeados por oferecimento que terminarem o tempo obrigatório da comissão militar pode esta ser prorrogada por mais dois períodos anuais, quando o requeiram e lhes seja concedido pelo Ministro do Exército.\n\nEsta concessão pode igualmente ser aplicada aos oficiais do quadro de reserva."
+  },
+  "38e0c1e500074b16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nAos oficiais nomeados por oferecimento que tenham completado dois anos de comissão militar pode ser concedida desistência de a continuar, caso seja julgado oportuno, mas perdendo o direito às passagens de regresso para as famílias e ao respectivo abono de ajudas de custo de embarque."
+  },
+  "bf1d86e8ab6d1be2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs oficiais nomeados para comissão militar no ultramar têm os seguintes direitos:\n\n1.º Ajudas de custo de embarque, na ida e no regresso, pagas antes do embarque, apenas mediante recibo passado à entidade que deve efectuar o respectivo abono;\n\n2.º Adiantamento de um mês de vencimentos, amortizável até ao máximo de doze prestações mensais;\n\n3.º Pagamento, pelo Ministério do Exército, da pensão que queiram deixar na metrópole, por conta dos seus vencimentos, desde que o restante permita a sua manutenção ao nível correspondente à sua categoria, o que será comprovado pelo comandante militar.\n\nA pensão é autorizada mediante requerimento do interessado e destina-se quer aos alimentos das pessoas de família a seu cargo, de acordo com a lei vigente, quer à satisfação de compromissos que tenha contraído;\n\n4.º Licença, desde a data do desembarque, de 7 dias por cada semestre completo de comissão militar, até ao máximo de 60 dias, com os vencimentos metropolitanos fixados pela lei. No caso de a referida licença não ser gozada na metrópole, a mesma não deve implicar qualquer aumento de despesa com vencimentos ou transportes;\n\n5.º Contagem, para efeitos de reserva e de reforma, do tempo de serviço nas forças terrestres ultramarinas com o aumento que estiver consignado na lei.\n\n§ único. Aos oficiais nomeados por escolha, designação ou oferecimento, além dos direitos consignados no corpo deste artigo, são-lhes também concedidas passagens, por conta do Estado, para a mulher, filhos menores, filhas solteiras e outras pessoas que justifiquem o abono de família, desde que acompanhem o oficial ou se lhes vão reunir antes de dezoito meses do final da comissão.\n\nOs oficiais que casem durante a comissão com senhora domiciliada na província onde estejam em serviço têm direito ao transporte de regresso das pessoas indicadas no período anterior, independentemente do tempo de comissão que tenham cumprido depois do casamento."
+  },
+  "3e30c41867dbb766": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs oficiais do quadro permanente, do activo ou da reserva, que residirem nas províncias ultramarinas, e sejam nomeados para comissão militar nessa província têm os direitos indicados no artigo anterior, com excepção dos n.os 1.º e 2º.\n\nCaso sejam nomeados para outra província mantêm todos os direitos."
+  },
+  "e941c909203474db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": "1963-03-13",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 44914](https://diariodarepublica.pt/dr/detalhe/decreto/44914-1963-194065), publicado em 1963-03-13."
+   ],
+   "markdown": "###### Artigo 24.º\n\nOs oficiais em comissão militar no ultramar que deixarem a efectividade de serviço, a seu pedido, perdem o direito às passagens de regresso para si e suas famílias.\n\n§ único. Será fornecido transporte por conta do Estado para as localidades onde estabeleçam domicílio aos oficiais que, desligados da efectividade de serviço, a seu pedido, fiquem exercendo no ultramar quaisquer actividades ou profissões civis.\n\n> Alterado pelo/a [Decreto n.º 44914](https://diariodarepublica.pt/dr/detalhe/decreto/44914-1963-194065), publicado em 1963-03-13."
+  },
+  "753dc7eb5cf60ca1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nAos oficiais do quadro permanente é dada por finda a comissão:\n\n1.º Quando forem promovidos ou transitarem para a reserva e não houver na província onde se encontram vaga correspondente ao novo posto ou situação;\n\n2.º Quando, tendo recolhido à metrópole por opinião da junta competente da respectiva província ultramarina, forem ulteriormente julgados incapazes de servir no ultramar por junta hospitalar de inspecção metropolitana;\n\n3.º Quando lhes venha a caber a prestação de condições de promoção ao posto imediato na metrópole.\n\nEstes oficiais só podem ser mandados regressar após dois anos de permanência no ultramar, não sofrendo por este facto qualquer preterição.\n\n§ único. Aos oficiais punidos com pena de prisão disciplinar agravada pode a comissão ser dada por finda, mediante decisão, ministerial, com ou sem proposta do comandante militar."
+  },
+  "40071c01bbd9d33f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs oficiais julgados incapazes de servir no ultramar, quando lhes compita nova nomeação para comissão militar nas províncias ultramarinas, transitam para a situação de reserva ou reforma, ou têm baixa de serviço, conforme os casos, se a junta hospitalar de inspecção tomar a mesma decisão pela segunda vez consecutiva."
+  },
+  "5dff9ffc0c49c515": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nQuando os oficiais em serviço nas forças terrestres ultramarinas sejam forçados a vir à metrópole, em consequência de decisão devidamente homologada da junta médica da província, por motivo de doença ou convalescença, de ferimento, desastre ou acidente ocorrido no desempenho dos deveres militares, continuam em comissão militar e as viagens de vinda e regresso do militar são por conta da respectiva província.\n\n§ único. Os oficiais referidos no corpo deste artigo baixam ao hospital logo que cheguem à metrópole, a fim de serem presentes à junta hospitalar de inspecção, o que deve constar da respectiva guia de marcha. Se forem julgados aptos para serviço no ultramar, devem continuar a comissão na mesma província, caso tenham cumprido, menos de metade do tempo a que os obriga a respectiva comissão. Caso contrário, será o processo submetido a despacho."
+  },
+  "2b9b15ac4dd48d14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nOs oficiais do quadro permanente nomeados para comissão militar no ultramar são considerados adidos aos respectivos quadros desde a data do embarque, passando a ser abonados pelos orçamentos das províncias ultramarinas.\n\n§ único. Quando as formalidades legais e as exigências sanitárias para o embarque obrigarem os oficiais a partir com antecedência das suas residências, ser-lhes-ão abonadas as ajudas de custo a que tiverem direito por conta dos referidos orçamentos."
+  },
+  "978ab20f046e2880": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nAos oficiais em comissão militar no ultramar que não tenham possibilidades de frequentar em tempo oportuno as escolas de recrutas exigidas para a promoção ao posto imediato pode ser averbado como tal o período de um ano de serviço nas tropas prestado nessa comissão com boas informações. Para este efeito terão os interessados que requerer a necessária autorização ao Ministro do Exército.\n\nOficiais do quadro e complemento"
+  },
+  "f8e4ede2c412ca0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nPara as forças terrestres ultramarinas podem ser nomeados em comissão militar oficiais e aspirantes a oficial do quadro de complemento, para preenchimento das vacaturas que se derem e em harmonia com os quadros orgânicos aprovados."
+  },
+  "57e0d3526bf35957": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nAos oficiais e aspirantes a oficial do quadro de complemento, além dos artigos seguintes, que expressamente lhes dizem respeito, são também aplicáveis as disposições constantes dos artigos 17.º, 24.º, 27.º, 28.º e 29.º"
+  },
+  "8914a94f1a279698": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nNa aplicação da respectiva escala geral para nomeações por imposição de serviço devem estas recair nos oficiais e aspirantes a oficial de menor antiguidade, dentro das seguintes ordens de preferência:\n\n1.ª Nunca ter servido no ultramar;\n\n2.ª Nunca ter servido no comando militar onde existir a vacatura.\n\n§ 1.º São excluídos da nomeação por imposição de serviço:\n\n1.º Os oficiais e aspirantes a oficial que tenham mais de três pessoas de família a seu cargo e com elas coabitem, considerando-se como pessoas de família, além da mulher, filhos menores e filhas solteiras, sòmente as pessoas que justifiquem o abono de família;\n\n2.º Os que não forem julgados em condições físicas pela junta hospitalar de inspecção.\n\n§ 2.º Quando um oficial a quem competir a nomeação por imposição tiver averbadas penas superiores a três dias de prisão simples, será o processo prèviamente submetido a despacho.\n\nSe o referido oficial não for julgado em condições de servir no ultramar, será o seu processo enviado à Direcção do Serviço de Pessoal do Ministério do Exército, que se pronunciará quanto ao destino que deverá ser dado ao mesmo oficial, de harmonia com as normas a estabelecer pelo mesmo departamento."
+  },
+  "53f58ffcff12e482": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nAs condições de nomeação para que os oficiais e aspirantes a oficial do quadro de complemento possam servir no ultramar em comissão militar por oferecimento são as seguintes:\n\na) Para os das armas de engenharia, engenheiros do serviço e material, médicos, farmacêuticos, veterinários e oficiais com licenciatura em Direito, para serviço nos quartéis-generais e tribunais:\n\n1.ª Ter boas informações militares e profissionais;\n\n2.ª Ter menos de 35 anos de idade;\n\n3.ª Ter aptidão física comprovada por junta hospitalar de inspecção;\n\nb) Para as restantes armas e serviços;\n\n1.ª Estar na efectividade do serviço;\n\n2.ª Ser alferes ou aspirante a oficial;\n\n3.ª Ter menos de 30 anos de idade;\n\n4.ª Nunca ter servido no ultramar, em comissão militar ou expedição;\n\n5.ª Ter aptidão física comprovada por junta hospitalar de inspecção."
+  },
+  "5829412a96c4a813": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nA nomeação de oficiais e aspirantes a oficial do quadro de complemento inscritos nas listas dos oferecidos far-se-á segundo as seguintes condições de preferência:\n\n1.ª Ter o curso de Medicina Tropical, só para os médicos;\n\n2.ª Ter qualquer especialidade, para os médicos;\n\n3.ª Não ter castigos averbados;\n\n4.ª Ter mais louvores averbados;\n\n5.ª Ter maior antiguidade;\n\n§ 1.º Quando um oficial ou aspirante a oficial a quem competir a nomeação por oferecimento tiver averbadas penas superiores a três dias de prisão simples será o processo prèviamente submetido a despacho.\n\n§ 2.º Os oficiais e aspirantes a oficial com auto de corpo de delito pendente são ultrapassados pelos seguintes nas nomeações, sempre que a urgência do preenchimento da vacatura não se harmonize com a demora da solução que for dada ao auto."
+  },
+  "b7d5de2121b40664": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nOs oficiais e aspirantes a oficial do quadro de complemento nomeados para comissão militar no ultramar têm os seguintes direitos:\n\n1.º Ajudas de custo de embarque, na ida e no regresso, pagas antes do embarque e mediante recibo passado à entidade que deve efectuar o respectivo abono;\n\n2.º Adiantamento de um mês de vencimentos, amortizável até ao máximo de doze prestações mensais;\n\n3.º Pagamento, pelo Ministério do Exército, da pensão que queiram deixar na metrópole por conta dos seus vencimentos, desde que o restante permita a sua manutenção ao nível correspondente à sua categoria, o que será comprovado pelo comandante militar;\n\nA pensão é autorizada mediante requerimento do interessado e destina-se quer aos alimentos das pessoas de família a seu cargo, de acordo com a lei vigente, quer à satisfação de compromissos que tenha contraído;\n\n4.º Licença, desde a data do desembarque, de 7 dias por cada semestre completo de comissão militar, até ao máximo de 60 dias, com os vencimentos metropolitanos fixados na lei. No caso de a referida licença não ser gozada na metrópole, a mesma não deve implicar qualquer aumento de despesa com vencimentos ou transportes.\n\n§ único. Aos oficiais nomeados por escolha, designação ou oferecimento, além dos direitos consignados no corpo deste artigo, são-lhes também concedidas passagens, por conta do Estado, para a mulher, filhos menores, filhas solteiras e outras pessoas que justifiquem o abono de família, desde que acompanhem o oficial ou se lhe vão reunir antes de dezoito meses do final da comissão.\n\nOs oficiais que casem durante a comissão têm direito ao transporte de regresso das pessoas indicadas no período anterior, independentemente do tempo de comissão que tenham cumprido depois do casamento."
+  },
+  "c69bf43fd3d968fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nAos oficiais do quadro de complemento é dada por finda a comissão quando se verificar alguma das condições indicadas no artigo 25.º\n\nSargentos do quadro permanente"
+  },
+  "d40adc9625dc6286": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nAos sargentos do quadro permanente, além dos artigos seguintes, que expressamente lhes dizem respeito, são também aplicáveis as disposições constantes dos artigos 4.º, 17.º, 20.º, 21.º, 22.º, 24.º, 27.º e 29.º"
+  },
+  "e82d06323123d533": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nNa aplicação da escala geral para nomeações por imposição de serviço devem estas recair nos sargentos de menor antiguidade, dentro das seguintes ordens de referência:\n\n1.ª Nunca ter servido no ultramar;\n\n2.ª Nunca ter servido no comando militar onde existir a vacatura.\n\n§ 1.º São abrangidos na nomeação por imposição os sargentos que estiverem em serviço noutros Ministérios e não tenham transitado definitivamente de quadro.\n\n§ 2.º São excluídos da nomeação por imposição:\n\n1.º Os sargentos ou furriéis que excederem as seguintes idades:\n\nPara as armas e serviços:\n\n43 anos os segundos-sargentos e furriéis;\n\n46 anos os primeiros-sargentos.\n\nPara o quadro de amanuenses:\n\n52 anos para qualquer posto.\n\n2.º Os sargentos que frequentaram ou já estiveram nomeados para frequência da Escola Central de Sargentos;\n\n3.º Os sargentos que anteriormente tenham efectuado uma comissão completa por imposição, escolha ou designação e que tenham cumprido o tempo de expedição, de serviço militar no ultramar, qualquer que tivesse sido a sua natureza, enquanto houver outros nas mesmas condições de nomeação que ainda a não tenham feito;\n\n4.º Os sargentos ou furriéis que estejam fazendo cursos para promoção, quando esses cursos não puderem ser continuados nas forças terrestres ultramarinas;\n\n5.º Os que não forem julgados em condições físicas pela junta hospitalar de inspecção.\n\n6.º Quando um sargento ou furriel, a quem competir a nomeação por imposição, tiver averbadas penas superiores a seis dias de detenção, por faltas cometidas fora da província ultramarina para onde lhe competir a nomeação, deve esta ser mantida; se as faltas foram cometidas na província para onde lhe cabe a nomeação, é esta mantida ou transferida para outra província, conforme a natureza da falta e o despacho que o processo merecer."
+  },
+  "257e08fefe6c5106": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nOs sargentos ou furriéis do quadro permanente, fora da efectividade do serviço, que residirem nas províncias ultramarinas e que forem nomeados para comissão militar nessa província têm os direitos indicados no corpo do artigo 22.º para os oficiais do quadro permanente, com excepção dos n.os 1.º e 2.º\n\nCaso sejam nomeados para outra província mantêm todos aqueles direitos."
+  },
+  "cd14f0e623c896f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nOs sargentos e furriéis do quadro permanente, para serem nomeados por oferecimento ou por escolha para comissão militar no ultramar, devem satisfazer às seguintes condições:\n\n1.ª Estar na efectividade de serviço, salvo para os referidos no artigo 39.º;\n\n2.ª Não estar prevista a sua chamada para satisfação das condições de promoção ou frequência de cursos antes de dois anos, a contar da data da nomeação;\n\n3.ª Ter feito dois anos de serviço nas forças metropolitanas, nas tropas em funções próprias do seu quadro, depois da última comissão militar ou civil no ultramar;\n\n4.ª Ter aptidão física comprovada pela junta hospitalar de inspecção;\n\n5.ª Ter idade inferior à indicada no n.º 1.º do § 2.º do artigo 38.º;\n\n6.ª Ter demonstrado em anteriores comissões militares ou civis no ultramar, caso as tenham já desempenhado, adequada disposição para o contacto com as populações do meio ultramarino;\n\n7.ª Ter perfeito conhecimento de dactilografia, sendo do quadro de amanuenses.\n\n§ 1.º Os sargentos habilitados com o curso, ou aprovados em concurso, para promoção ao posto imediato podem oferecer-se para comissão militar neste posto, mas são classificados na lista à esquerda de todos os outros.\n\n§ 2.º Os primeiros-cabos aprovados no concurso para o posto de furriel do quadro permanente podem oferecer-se para comissão militar neste posto, mas são classificados na respectiva lista à esquerda de todos os outros."
+  },
+  "a08a18f37605587c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nA nomeação de sargentos inscritos nas listas dos oferecidos far-se-á segundo as seguintes condições de preferência:\n\n1.ª Nunca ter servido em comissão militar no ultramar, em qualquer posto;\n\n2.ª Nunca ter servido em comissão militar na província onde se der a vacatura;\n\n3.ª Ter menor tempo de serviço em comissão militar no ultramar;\n\n4.ª Ser condecorado com qualquer das medalhas ou graus da Torre e Espada, valor militar, cruz de guerra, serviços destintos e mérito militar;\n\n5.ª Ser casado e ter maior número de pessoas de família a seu cargo, considerando-se nestas as já enumeradas no n.º 5.º do artigo 19.º;\n\n6.ª Ter terminado há mais tempo a última comissão militar no ultramar;\n\n7.ª Ter maior antiguidade;\n\n§ 1.º Quando um sargento ou furriel a quem competir a nomeação por oferecimento tiver averbadas penas superiores a seis dias de detenção será o processo submetido a despacho.\n\n§ 2.º Os sargentos ou furriéis com auto pendente são ultrapassados pelos seguintes nas nomeações, sempre que a urgência do preenchimento da vacatura não se harmonize com a demora da solução que for dada ao auto.\n\n§ 3.º Os sargentos a quem competir a nomeação e não forem nomeados no decorrer do ano, por estarem em situações de inamovibilidade, por escolha, devem no ano seguinte, caso se tornem a oferecer, ser colocados à frente dos restantes oferecidos."
+  },
+  "e4326d33607c05bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nAos sargentos e furriéis do quadro permanente é dada por finda a comissão:\n\n1.º Quando forem promovidos ou passem ao quadro de amanuenses e não haja na província onde se encontrem vaga correspondente ao novo posto ou situação;\n\n2.º Quando tenham recolhido à metrópole, por opinião da junta competente da respectiva província ultramarina, e ulteriormente forem julgados incapazes do serviço do ultramar, por junta hospitalar de inspecção metropolitana;\n\n3.º Quando lhes venha a caber a prestação de condições de promoção ao posto imediato ou à frequência de cursos técnicos obrigatórios na metrópole.\n\nEstes sargentos só podem ser mandados regressar após dois anos de permanência no ultramar, não sofrendo por este facto qualquer preterição.\n\n§ único. O Ministro do Exército pode igualmente dar por finda a comissão militar aos sargentos e furriéis que forem classificados com mau comportamento."
+  },
+  "e5f7132d23558f95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nOs sargentos e furriéis do quadro permanente julgados incapazes de servir no ultramar quando lhes competir nova nomeação para comissão militar nas províncias ultramarinas transitam para a situação de reforma ou têm baixa de serviço, conforme os casos, se a junta hospitalar de inspecção voltar a tomar a mesma decisão pela segunda vez consecutiva."
+  },
+  "24b8a915648a640a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nOs sargentos e furriéis do quadro permanente nomeados para comissão militar no ultramar são considerados supranumerários nos respectivos quadros desde a data do embarque, passando a ser abonados pelos orçamentos das províncias ultramarinas.\n\n§ único. Quando as formalidades legais e as exigências sanitárias para o embarque obrigarem os sargentos e furriéis a partir com antecedência das suas residências ser-lhes-ão abonadas as ajudas de custo a que tiverem direito por conta dos respectivos orçamentos."
+  },
+  "b6ff252587cf3b9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nDurante a comissão de serviço militar no ultramar os contratos de sargentos e furriéis do quadro permanente consideram-se automàticamente prorrogados até a mesma findar.\n\nSargentos do quadro de complemento"
+  },
+  "4f90f5732080161e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nAos sargentos do quadro de complemento, além dos artigos seguintes, que expressamente lhes dizem respeito, são também aplicáveis as disposições constantes dos artigos 17.º, 21.º, 24.º, 29.º, 30.º, 32.º, 35.º e 44.º"
+  },
+  "4b87a974954e80c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nNa nomeação de sargentos ou furriéis por imposição ou oferecimento deve-se promover que cerca de um quarto das requisições sejam preenchidas por pessoal do quadro de complemento."
+  },
+  "8c04e85bf7340f13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nAs condições de nomeação de sargentos e furriéis do quadro de complemento, para que possam servir no ultramar em comissão militar por oferecimento, são as seguintes:\n\n1.ª Estar na efectividade de serviço;\n\n2.ª Ter menos de 30 anos de idade;\n\n3.ª Nunca ter servido no ultramar em comissão militar ou expedição;\n\n4.ª Ter aptidão física comprovada por junta hospitalar de inspecção."
+  },
+  "5cd5a89f05b6a83d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nA nomeação de sargentos do quadro de complemento inscritos nas listas dos oferecidos far-se-á segundo as seguintes condições de preferência;\n\n1.ª Ter mais louvores averbados;\n\n2.ª Ter menor idade;\n\n3.ª Ter menor somatório de penas averbadas;\n\n4.ª Ser casado;\n\n5.ª Ter maior antiguidade.\n\n§ 1.º Quando um sargento a quem competir a nomeação tiver averbadas penas superiores a seis dias de detenção será o processo prèviamente submetido a despacho.\n\n§ 2.º Os sargentos com auto de corpo de delito pendente são ultrapassados pelos seguintes nas nomeações, sempre que a urgência do preenchimento da vacatura não se harmonize com a demora da solução que for dada ao auto."
+  },
+  "4e52d5d2a2215c99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nAos sargentos e furriéis do quadro de complemento é dada por finda a comissão:\n\n1.º Quando forem promovidos e não haja na província onde se encontrem vaga correspondente ao novo posto;\n\n2.º Quando tenham recolhido à metrópole, por opinião da junta competente da respectiva província ultramarina, e forem ulteriormente julgados incapazes de serviço no ultramar, por junta hospitalar de inspecção da metrópole.\n\n§ único. O Ministro do Exército pode igualmente dar por finda a comissão militar aos sargentos e furriéis do quadro de complemento que forem classificados com mau comportamento.\n\nPraças"
+  },
+  "2a158e044154029d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nÀs praças, além dos artigos que expressamente lhes dizem respeito, são também aplicáveis as disposições constantes dos artigos 21.º, 22.º, 24.º, 27.º e 29.º"
+  },
+  "856a2dc9a05f7b97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nPara comissão militar nas forças ultramarinas só são nomeadas, em regra, as praças de especialidades que não possam normalmente ser formadas nas respectivas províncias."
+  },
+  "72249c02ec95de31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\nA nomeação de cabos e soldados por imposição de serviço para comissão militar no ultramar deve recair, em princípio, nas classes que se encontram nas fileiras e segundo, respectivamente, a classificação obtida na escola de cabos ou o número de sorteio, salvo os casos referidos no parágrafo seguinte.\n\n§ único. São excluídas da nomeação por imposição de serviço as praças que:\n\n1.º Forem casadas ou viúvas com filhos ou estiverem consideradas amparos, nos termos da legislação em vigor;\n\n2.º Estiverem a prestar provas em concurso para furriel;\n\n3.º Frequentarem ou estiverem nomeadas para frequentar o curso de oficiais ou de sargentos milicianos;\n\n4.º Estiverem frequentando cursos técnicos, por conveniência de serviço."
+  },
+  "a70173c63ede356b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nAs praças, para serem nomeadas por oferecimento, devem satisfazer às seguintes condições:\n\n1.ª Não terem sido punidas com prisão disciplinar agravada ou não terem sofrido punições cujo somatório, nos últimos seis meses, seja superior a seis dias de detenção;\n\n2.ª Pertencerem ao quadro permanente ou às classes que se encontrem nas fileiras, com idade não superior a 27 anos;\n\n3.ª Terem aptidão física comprovada pela junta hospitalar de inspecção.\n\n§ 1.º Os soldados habilitados com a escola de cabos podem oferecer-se para comissão militar, sendo classificados à esquerda de todos os cabos.\n\n§ 2.º A nomeação das praças inscritas nas respectivas listas de oferecimento far-se-á segundo as seguintes condições de preferência:\n\n1.ª Ter mais tempo de serviço efectivo;\n\n2.ª Ter mais louvores averbados;\n\n3.ª Ter menor somatório de penas averbadas;\n\n4.ª Ter menor idade."
+  },
+  "8f0d4296a2230274": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\nÀs praças é dada por finda a comissão:\n\n1.º Quando forem promovidas ao posto imediato e não haja na província onde se encontrarem vaga correspondente ao seu novo posto;\n\n2.º Quando tenham recolhido à metrópole por opinião da junta competente da respectiva província ultramarina e forem ulteriormente julgadas incapazes de serviço no ultramar por junta hospitalar de inspecção metropolitana;\n\n3.º Quando lhes venha a caber a frequência de cursos técnicos, só são chamadas depois de terem prestado dois anos de serviço nas forças terrestres ultramarinas, não sofrendo por esse facto qualquer preterição.\n\n§ único. O Ministro do Exército pode igualmente dar por finda a comissão militar às praças que forem classificadas com mau comportamento."
+  },
+  "877eb28e9ab5cfaf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\nOs cabos que terminarem o tempo de comissão militar por imposição ou oferecimento podem continuar ao serviço das forças terrestres ultramarinas, respectivamente, por oferecimento ou no regime de readmissão, até um máximo de cinco anos no total da comissão."
+  },
+  "d56487f81b49c977": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\nAs praças nomeadas para comissão militar no ultramar são aumentadas aos respectivos comandos militares desde a data do embarque, passando a ser abonadas pelas correspondentes províncias ultramarinas.\n\n§ único. Quando as formalidades legais e as exigências sanitárias para o embarque obrigarem as praças a partir com antecedência dos seus quartéis, ser-lhes-ão concedidos abonos de marcha a que tiverem direito, por conta dos respectivos orçamentos."
+  },
+  "62a8f7938edb718d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\nOs primeiros-cabos em comissão militar no ultramar que forem promovidos a furriel podem iniciar nova comissão por oferecimento, desde a data da promoção, quando o requeiram e lhes seja concedido pelo Ministro do Exército, mas até um máximo de cinco anos no total da comissão."
+  },
+  "868d21255f56968a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\nO tempo de duração da comissão militar implica para as praças a obrigatoriedade de permanência nas fileiras, sem prejuízo na contagem dos períodos de readmissão, se para tal houver motivo.\n\nDisposições diversas e transitórias"
+  },
+  "f380eb368b4af7da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\nO tempo de comparticipação em expedição militar é contado como comissão militar no ultramar para os efeitos de nomeação por imposição de serviço nos termos deste decreto, mas não é considerado para efeitos de oferecimento."
+  },
+  "426994b167e9c5ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — transitório\n\nAos militares actualmente em serviço nas forças terrestres ultramarinas é mantido o período mínimo de comissão que estava estabelecido quando foram nomeados, podendo ainda ser autorizada, a título excepcional, nova prorrogação de um ano para aqueles que o desejem e estejam no quarto ou quinto ano da comissão."
+  },
+  "6e878eadd646e37a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\nEste decreto entra imediatamente em vigor.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 22 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Vasco Lopes Alves.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves."
+  }
+ }
+}

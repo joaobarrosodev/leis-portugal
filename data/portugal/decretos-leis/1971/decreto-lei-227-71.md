@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-01-25'
+version_history:
+  file: decreto-lei-227-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-01-25'
+    amending: pt:dre:328435:por
+    amending_title: Decreto-Lei n.º 30/85
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:18:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 30/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-227-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,37 +134,61 @@ Convindo reunir num só fundo as receitas a despesas que actualmente se encontra
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. As receitas arrecadadas pelas unidades e subunidades da Guarda Fiscal dotadas de autonomia administrativa, provenientes de actividades privadas ou resultantes do exercício de outras funções, serão inscritas em orçamento privativo.
+###### Artigo 1.º
+
+1. As receitas arrecadadas pelas unidades e subunidades da Guarda Fiscal dotadas de autonomia administrativa, provenientes de actividades privadas ou resultantes do exercício de outras funções, serão inscritas em orçamento privativo.
 
 2. A cobrança das receitas será efectuada de harmonia com as disposições legais aplicáveis.
 
-Art. 2.º Os actuais fundos de farmácia, transportes e gabinete de radiologia são integrados com o seu activo e passivo nos Serviços Sociais da Guarda Fiscal, criados pelo [Decreto-Lei n.º 48802](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48802-1968-256604), de 27 de Dezembro de 1968.
+###### Artigo 2.º
 
-Art. 3.º - 1. As importâncias provenientes do Orçamento Geral do Estado que se destinam a auxiliar a manutenção de serviços de assistência médica e de hospitalização nas enfermarias da corporação são movimentadas no orçamento do Fundo Privativo, através das correspondentes rubricas consignadas àqueles fins.
+Os actuais fundos da farmácia e de transportes são integrados com o seu activo e passivo nos Serviços Sociais da Guarda Fiscal, criados pelo [Decreto-Lei n.º 48802](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48802-1968-256604), de 27 de Dezembro de 1968.
+
+> Alterado pelo/a [Decreto-Lei n.º 30/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1985-328435), publicado em 1985-01-24.
+
+###### Artigo 3.º
+
+1. As importâncias provenientes do Orçamento Geral do Estado que se destinam a auxiliar a manutenção de serviços de assistência médica e de hospitalização nas enfermarias da corporação são movimentadas no orçamento do Fundo Privativo, através das correspondentes rubricas consignadas àqueles fins.
 
 2. Os excedentes verificados em cada ano económico na aplicação das dotações provenientes do Orçamento Geral do Estado, movimentadas pelos fundos privativos, serão repostos nos cofres do Tesouro pelo Comando-Geral até 14 de Fevereiro seguinte.
 
-Art. 4.º - 1. A administração das receitas referidas nos artigos anteriores constituirá um fundo único, que se designará por «Fundo Privativo de ...» (comando, unidade ou subunidade).
+###### Artigo 4.º
+
+1. A administração das receitas referidas nos artigos anteriores constituirá um fundo único, que se designará por «Fundo Privativo de ...» (comando, unidade ou subunidade).
 
 2. Do mesmo orçamento constará o desenvolvimento da despesa, que obedecerá ao preceituado na legislação em vigor para os demais serviços do Estado.
 
-Art. 5.º - 1. Não se podem realizar despesas que não tenham cabimento nas verbas inscritas no orçamento.
+###### Artigo 5.º
+
+1. Não se podem realizar despesas que não tenham cabimento nas verbas inscritas no orçamento.
 
 2. Quando se verifique a necessidade de introduzir alterações ao orçamento já aprovado, deverão estas ser efectuadas através de orçamento suplementar, dentro dos limites estabelecidos na lei.
 
-Art. 6.º A competência para autorizar despesas e as formalidades a observar na sua realização são reguladas pelas leis gerais de contabilidade pública e regime especiais estabelecidos para a Guarda Fiscal.
+###### Artigo 6.º
 
-Art. 7.º Os orçamentos privativos, quer ordinários, quer suplementares, serão visados pelo Ministro, através da Direcção-Geral da Contabilidade Pública.
+A competência para autorizar despesas e as formalidades a observar na sua realização são reguladas pelas leis gerais de contabilidade pública e regime especiais estabelecidos para a Guarda Fiscal.
 
-Art. 8.º - 1. A Guarda Fiscal organizará conta de gerência unificada dos fundos privativos com base nas contas a remeter pelos diferentes conselhos administrativos.
+###### Artigo 7.º
+
+Os orçamentos privativos, quer ordinários, quer suplementares, serão visados pelo Ministro, através da Direcção-Geral da Contabilidade Pública.
+
+###### Artigo 8.º
+
+1. A Guarda Fiscal organizará conta de gerência unificada dos fundos privativos com base nas contas a remeter pelos diferentes conselhos administrativos.
 
 2. A conta de gerência unificada está sujeita ao julgamento do Tribunal de Contas.
 
-Art. 9.º A Guarda Fiscal expedirá as instruções necessárias à boa execução do presente diploma, depois de aprovadas pelo Ministro das Finanças, através da Direcção-Geral da Contabilidade Pública.
+###### Artigo 9.º
 
-Art. 10.º O presente diploma revoga as leis especiais anteriores que estabeleçam regimes diferentes.
+A Guarda Fiscal expedirá as instruções necessárias à boa execução do presente diploma, depois de aprovadas pelo Ministro das Finanças, através da Direcção-Geral da Contabilidade Pública.
 
-Art. 11.º O presente diploma entra em vigor no próximo ano económico.
+###### Artigo 10.º
+
+O presente diploma revoga as leis especiais anteriores que estabeleçam regimes diferentes.
+
+###### Artigo 11.º
+
+O presente diploma entra em vigor no próximo ano económico.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
 

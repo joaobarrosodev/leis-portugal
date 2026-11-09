@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-09-13'
+version_history:
+  file: decreto-43527.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-03-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-09-13'
+    amending: pt:dre:413603:por
+    amending_title: Decreto n.º 457/73
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:22:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 457/73. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1961/decreto-43527.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,35 +137,55 @@ Visto a urgência das modificações necessárias e sob proposta do Governo de S
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º O Corpo de Polícia de Segurança Pública de S. Tomé e Príncipe, criado pelo artigo 1.º do [Decreto n.º 42223](https://diariodarepublica.pt/dr/detalhe/decreto/42223-1959-585817), de 18 de Abril de 1959, passa a designar-se Corpo de Polícia de S. Tomé e Príncipe.
+###### Artigo 1.º
 
-Art. 2.º O Corpo de Polícia de S. Tomé e Príncipe passará a ter dois adjuntos, designados comandante da Polícia Urbana, ou Polícia de Segurança Pública, e comandante da Polícia Rural, ou Guarda Nacional Republicana, dependentes directamente do comandante do Corpo de Polícia.
+O Corpo de Polícia de Segurança Pública de S. Tomé e Príncipe, criado pelo artigo 1.º do [Decreto n.º 42223](https://diariodarepublica.pt/dr/detalhe/decreto/42223-1959-585817), de 18 de Abril de 1959, passa a designar-se Corpo de Polícia de S. Tomé e Príncipe.
 
-Art. 3.º O quadro e vencimento do pessoal é o descrito no mapa anexo a este diploma.
+###### Artigo 2.º
+
+O Corpo de Polícia de S. Tomé e Príncipe passará a ter dois adjuntos, designados comandante da Polícia Urbana, ou Polícia de Segurança Pública, e comandante da Polícia Rural, ou Guarda Nacional Republicana, dependentes directamente do comandante do Corpo de Polícia.
+
+###### Artigo 3.º
+
+O quadro e vencimento do pessoal é o descrito no mapa anexo a este diploma.
 
 § único. Além dos referidos vencimentos, o pessoal terá os direitos e regalias concedidos aos agentes dos serviços públicos da província de idêntica categoria, subsídio de fardamento e habitação gratuita mobilada.
 
-Art. 4.º O provimento dos lugares constantes do quadro a que se refere o artigo 3.º será feito em comissão amovível, não renovável, de duração não superior a quatro anos e só poderá recair em oficiais, segundos-sargentos, primeiros-cabos, segundos-cabos e soldados da Guarda Nacional Republicana, de preferência em regime de voluntariado.
+###### Artigo 4.º
 
-§ 1.º A nomeação do pessoal da Guarda Nacional Republicana para serviço na Polícia Rural de S. Tomé e Príncipe será feita pelo Ministério do Ultramar, ouvido o Ministério do Interior, e, sempre que possível, por unidades constituídas devidamente enquadradas e comandadas.
+Os lugares constantes do quadro a que se refere o artigo anterior só poderão ser providos por oficiais, sargentos, cabos e soldados da Guarda Nacional Republicana em regime de comissão voluntária ou por imposição, com preferência para a primeira.
 
-§ 2.º Finda a comissão de serviço o pessoal recolherá à Guarda Nacional Republicana, devendo ser imediatamente substituído por outro de igual categoria ou patente, por forma a dar vaga ao que regresse.
+§ 1.º A comissão voluntária terá a duração de quatro anos, podendo ser prorrogada por períodos de dois anos até ao limite fixado no Estatuto do Funcionalismo Ultramarino.
 
-§ 3.º Quando a substituição deixe de fazer-se ou seja dispensada, o pessoal que não puder ter imediato ingresso nos quadros da Guarda Nacional Republicana, por falta de vaga nos mesmos quadros, continuará, enquanto se não der a vacatura, a ser pago pela província de S. Tomé e Príncipe com os vencimentos que lhe competir no seu quadro, mas prestando o serviço que lhe for destinado pelo respectivo comando.
+§ 2.º A comissão por imposição terá a duração de dois anos e poderá, a pedido, passar ao regime de voluntariado nos termos do § 1.º
 
-Art. 5.º O pessoal da Guarda Nacional Republicana destacado em comissão para serviço do Corpo de Polícia de S. Tomé e Príncipe será considerado adido aos quadros da Guarda Nacional Republicana enquanto durar essa comissão.
+§ 3.º A nomeação para comissão por imposição recairá sobre os militares mais modernos em cada um dos postos requeridos.
 
-Art. 6.º O tempo de serviço prestado nos termos do artigo anterior será contado para todos os efeitos, incluindo promoção e reforma, podendo no seu decurso os agentes apresentar-se aos concursos da Guarda Nacional Republicana no continente que forem abertos para as classes superiores.
+> Alterado pelo/a [Decreto n.º 457/73](https://diariodarepublica.pt/dr/detalhe/decreto/457-1973-413603), publicado em 1973-09-13.
 
-Art. 7.º Fica o governador da província de S. Tomé e Príncipe autorizado no corrente ano:
+###### Artigo 5.º
+
+O pessoal da Guarda Nacional Republicana destacado em comissão para serviço do Corpo de Polícia de S. Tomé e Príncipe será considerado adido aos quadros da Guarda Nacional Republicana enquanto durar essa comissão.
+
+###### Artigo 6.º
+
+O tempo de serviço prestado nos termos do artigo anterior será contado para todos os efeitos, incluindo promoção e reforma, podendo no seu decurso os agentes apresentar-se aos concursos da Guarda Nacional Republicana no continente que forem abertos para as classes superiores.
+
+###### Artigo 7.º
+
+Fica o governador da província de S. Tomé e Príncipe autorizado no corrente ano:
 
 a) A reforçar, quando para tanto dispuser dos necessários recursos, as verbas do Corpo de Polícia, quer por meio de transferências, quer por meio de abertura de créditos especiais, com as importâncias necessárias ao pagamento de vencimentos e remunerações acessórias do pessoal da Polícia Rural, utilizando como contrapartida recursos orçamentais;
 
 b) A abrir os créditos especiais necessários à construção de postos e residências do pessoal e, bem assim, ao pagamento das demais despesas de instalação dos serviços da Polícia Rural, utilizando como contrapartida os saldos das contas dos exercícios findos.
 
-Art. 8.º Compete ao governador emitir os regulamentos e expedir as instruções necessárias para a boa execução deste diploma.
+###### Artigo 8.º
 
-Art. 9.º Fica revogado o [Decreto n.º 43050](https://diariodarepublica.pt/dr/detalhe/decreto/43050-1960-502455), de 6 de Julho de 1960, e as disposições do [Decreto n.º 42223](https://diariodarepublica.pt/dr/detalhe/decreto/42223-1959-585817), de 18 de Abril de 1959, que contrariarem as do presente decreto.
+Compete ao governador emitir os regulamentos e expedir as instruções necessárias para a boa execução deste diploma.
+
+###### Artigo 9.º
+
+Fica revogado o [Decreto n.º 43050](https://diariodarepublica.pt/dr/detalhe/decreto/43050-1960-502455), de 6 de Julho de 1960, e as disposições do [Decreto n.º 42223](https://diariodarepublica.pt/dr/detalhe/decreto/42223-1959-585817), de 18 de Abril de 1959, que contrariarem as do presente decreto.
 
 Publique-se e cumpra-se como nele se contém.
 

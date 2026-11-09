@@ -1,0 +1,210 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:617339:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-04-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f5dc9f033a0584ee",
+    "19f3897606acaa94",
+    "6903aa87815bfea9",
+    "85b7d570f251614f",
+    "bf1df67a6ed15245",
+    "ad63f2a3a74f5796",
+    "20e52cd6549a4d39",
+    "80ce78e4b8b8cb9a",
+    "dab11a0bda5ccd25",
+    "d27369e2be95bbb4"
+   ]
+  },
+  {
+   "date": "1988-03-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:287390:por",
+     "title": "Decreto-Lei n.º 73/88",
+     "published": "1988-03-09",
+     "dre_path": "/dr/detalhe/decreto-lei/73-1988-287390"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "f5dc9f033a0584ee",
+    "a4a1f44bcd0157d7",
+    "eab39162023e3a52",
+    "033c72cb5b666979",
+    "66dfd200a85a91dd",
+    "4d310b4df4316094",
+    "2774e3db71531afc",
+    "7678b8668e021380",
+    "502a77ac3786f862",
+    "8ae4cdfae4f3a598"
+   ]
+  }
+ ],
+ "fragments": {
+  "f5dc9f033a0584ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 9 de Abril\n\nMedidas de protecção dos emigrantes\n\nA Assembleia da República decreta, nos termos dos artigos 106.º, n.º 1, 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:"
+  },
+  "19f3897606acaa94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º\n\nAo artigo 1.º do [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455), de 9 de Julho, é acrescentado um n.º 3, com a seguinte redacção:\n\n3. Os emigrantes que tenham adquirido a nacionalidade estrangeira e seus descendentes directos em 1.º grau beneficiam, por equiparação, do sistema de poupança-crédito."
+  },
+  "6903aa87815bfea9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º\n\nO artigo 7.º do [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455) passa a ter a seguinte redacção:\n\nArt. 7.º - 1. As aquisições de prédios ou suas fracções autónomas beneficiam de isenção de sisa, se a matéria colectável que servir de base à liquidação deste imposto não exceder, em qualquer dos seguintes casos, o montante correspondente ao dobro da importância transferida do exterior e efectivamente utilizada na aquisição, sempre que esta:\n\na) Seja efectuada ao abrigo do sistema de poupança-crédito;\n\nb) Embora sem recurso ao crédito instituído por este decreto-lei, o adquirente utilize directamente na aquisição importâncias transferidas nos termos do ar- artigo 4.º ou a conta de depósito a que se refere o artigo 5.º\n\n2. Se a matéria colectável exceder o montante referido no número anterior, liquidar-se-á sisa apenas sobre o excesso.\n\n3. Os rendimentos colectáveis dos imóveis adquiridos, no todo ou em parte, com os benefícios estabelecidos nos n.os 1 e 2 deste artigo ficam igualmente isentos de contribuição predial por período correspondente à percentagem de matéria colectável isenta de sisa nos termos do quadro anexo ao presente diploma."
+  },
+  "85b7d570f251614f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º\n\n1. É extensiva à Caixa Económica de Lisboa anexa ao Montepio Geral a aceitação de depósitos de emigrantes e equiparados, no âmbito do sistema de poupança-crédito, instituído pelo [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455), ficando aquela instituição plenamente integrada no esquema de empréstimos previsto no referido decreto-lei.\n\n2. Mediante despacho do Ministro das Finanças, poderão beneficiar do disposto no número anterior as restantes caixas económicas que para tal se mostrem habilitadas."
+  },
+  "bf1df67a6ed15245": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º\n\n1. São isentos do imposto de capitais os juros de depósitos constituídos por emigrantes e equiparados nas instituições de crédito legalmente autorizadas a recebê-los, quando se trate de depósitos com pré-aviso ou a prazo não inferior a trinta dias, quer as respectivas contas sejam expressas em escudos, quer o sejam em moeda estrangeira.\n\n2. O disposto no número anterior abrange as contas especiais de poupança-crédito, instituídas pelo [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455), de 9 de Julho."
+  },
+  "ad63f2a3a74f5796": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º\n\n1. Para o efeito de beneficiarem da isenção estabelecida no artigo anterior, as contas de depósito expressas em escudos de que forem titulares emigrantes ou equiparados, mas com domicílio em Portugal, podem ser regularizadas desde que os mesmos titulares mantenham a qualidade de emigrantes ou equiparados.\n\n2. A regularização a que se refere o número anterior deve ser efectuada no prazo de um ano, a contar da data da entrada em vigor da presente lei, incumbindo às instituições de crédito depositárias a averiguação das condições legais da mesma regularização.\n\n3. A manutenção da qualidade de emigrante ou equiparado comprovar-se-á pelos meios legalmente admitidos para a abertura da conta de depósito de que se trate."
+  },
+  "20e52cd6549a4d39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º\n\nNão obsta à isenção do imposto de capitais estabelecida neste diploma a circunstância de as contas de depósito terem co-titulares residentes em Portugal desde que esses co-titulares sejam o cônjuge, irmãos, ascendentes ou descendentes até ao 2.º grau do emigrante ou equiparado."
+  },
+  "80ce78e4b8b8cb9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º\n\nPara efeitos de reconhecimento da isenção estabelecida no n.º 1 do artigo 7.º do [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455), com a redacção que lhe é dada por esta lei, os interessados apresentarão no respectivo cartório notarial, onde ficarão arquivados, os necessários documentos passados pela instituição de crédito e repartição de finanças competentes e, havendo liquidação de sisa, nos termos do n.º 2 do mesmo artigo, os documentos emanados da instituição de crédito ficarão arquivados na repartição de finanças liquidadora."
+  },
+  "dab11a0bda5ccd25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º\n\nA isenção referida no artigo 4.º aplica-se aos juros dos depósitos já constituídos que se vencerem depois da entrada em vigor desta lei ou, se for esse o caso, depois de regularizados os mesmos depósitos nos termos do artigo 5.º"
+  },
+  "d27369e2be95bbb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º\n\n1. Tratando-se de aquisições pelo sistema de poupança-crédito, a alteração introduzida no artigo 7.º do [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455) é somente aplicável às que forem realizadas com empréstimos concedidos a partir da entrada em vigor desta lei.\n\n2. Nos restantes casos, os efeitos da modificação retrotraem à data da entrada em vigor do referido decreto-lei.\n\nAprovada em 1 de Abril de 1977. - O Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgada em 5 de Abril de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.\n\nQuadro dos períodos de isenção da contribuição predial a conceder nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455), de 9 de Julho, com a redacção dada pelo artigo 2.º da presente lei.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/08302/00030004.pdf)"
+  },
+  "a4a1f44bcd0157d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAo artigo 1.º do [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455), de 9 de Julho, é acrescentado um n.º 3, com a seguinte redacção:\n\n3. Os emigrantes que tenham adquirido a nacionalidade estrangeira e seus descendentes directos em 1.º grau beneficiam, por equiparação, do sistema de poupança-crédito."
+  },
+  "eab39162023e3a52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO artigo 7.º do [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455) passa a ter a seguinte redacção:\n\nArt. 7.º - 1. As aquisições de prédios ou suas fracções autónomas beneficiam de isenção de sisa, se a matéria colectável que servir de base à liquidação deste imposto não exceder, em qualquer dos seguintes casos, o montante correspondente ao dobro da importância transferida do exterior e efectivamente utilizada na aquisição, sempre que esta:\n\na) Seja efectuada ao abrigo do sistema de poupança-crédito;\n\nb) Embora sem recurso ao crédito instituído por este decreto-lei, o adquirente utilize directamente na aquisição importâncias transferidas nos termos do ar- artigo 4.º ou a conta de depósito a que se refere o artigo 5.º\n\n2. Se a matéria colectável exceder o montante referido no número anterior, liquidar-se-á sisa apenas sobre o excesso.\n\n3. Os rendimentos colectáveis dos imóveis adquiridos, no todo ou em parte, com os benefícios estabelecidos nos n.os 1 e 2 deste artigo ficam igualmente isentos de contribuição predial por período correspondente à percentagem de matéria colectável isenta de sisa nos termos do quadro anexo ao presente diploma."
+  },
+  "033c72cb5b666979": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. É extensiva à Caixa Económica de Lisboa anexa ao Montepio Geral a aceitação de depósitos de emigrantes e equiparados, no âmbito do sistema de poupança-crédito, instituído pelo [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455), ficando aquela instituição plenamente integrada no esquema de empréstimos previsto no referido decreto-lei.\n\n2. Mediante despacho do Ministro das Finanças, poderão beneficiar do disposto no número anterior as restantes caixas económicas que para tal se mostrem habilitadas."
+  },
+  "66dfd200a85a91dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1988-03-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 73/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1988-287390), publicado em 1988-03-09."
+   ],
+   "markdown": "###### Artigo 4.º\n\nA taxa do imposto de capitais incidente sobre os juros de depósitos a prazo constituídos por emigrantes e equiparados nas instituições de crédito legalmente autorizadas a recebê-los, quando produzidos por «Conta poupança emigrante», «Conta de emigrante em moeda estrangeira» e «Contas acessíveis a residentes», desde que, neste último caso, as contas tenham sido ou venham a ser alimentadas com fluxos monetários provenientes do exterior devidamente comprovados, é de 50% da taxa a que se refere o § 4.º do artigo 21.º do Código do Imposto de Capitais.\n\n> Alterado pelo/a [Decreto-Lei n.º 73/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1988-287390), publicado em 1988-03-09."
+  },
+  "4d310b4df4316094": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Para o efeito de beneficiarem da isenção estabelecida no artigo anterior, as contas de depósito expressas em escudos de que forem titulares emigrantes ou equiparados, mas com domicílio em Portugal, podem ser regularizadas desde que os mesmos titulares mantenham a qualidade de emigrantes ou equiparados.\n\n2. A regularização a que se refere o número anterior deve ser efectuada no prazo de um ano, a contar da data da entrada em vigor da presente lei, incumbindo às instituições de crédito depositárias a averiguação das condições legais da mesma regularização.\n\n3. A manutenção da qualidade de emigrante ou equiparado comprovar-se-á pelos meios legalmente admitidos para a abertura da conta de depósito de que se trate."
+  },
+  "2774e3db71531afc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNão obsta à isenção do imposto de capitais estabelecida neste diploma a circunstância de as contas de depósito terem co-titulares residentes em Portugal desde que esses co-titulares sejam o cônjuge, irmãos, ascendentes ou descendentes até ao 2.º grau do emigrante ou equiparado."
+  },
+  "7678b8668e021380": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPara efeitos de reconhecimento da isenção estabelecida no n.º 1 do artigo 7.º do [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455), com a redacção que lhe é dada por esta lei, os interessados apresentarão no respectivo cartório notarial, onde ficarão arquivados, os necessários documentos passados pela instituição de crédito e repartição de finanças competentes e, havendo liquidação de sisa, nos termos do n.º 2 do mesmo artigo, os documentos emanados da instituição de crédito ficarão arquivados na repartição de finanças liquidadora."
+  },
+  "502a77ac3786f862": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA isenção referida no artigo 4.º aplica-se aos juros dos depósitos já constituídos que se vencerem depois da entrada em vigor desta lei ou, se for esse o caso, depois de regularizados os mesmos depósitos nos termos do artigo 5.º"
+  },
+  "8ae4cdfae4f3a598": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Tratando-se de aquisições pelo sistema de poupança-crédito, a alteração introduzida no artigo 7.º do [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455) é somente aplicável às que forem realizadas com empréstimos concedidos a partir da entrada em vigor desta lei.\n\n2. Nos restantes casos, os efeitos da modificação retrotraem à data da entrada em vigor do referido decreto-lei.\n\nAprovada em 1 de Abril de 1977. - O Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgada em 5 de Abril de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares.\n\nQuadro dos períodos de isenção da contribuição predial a conceder nos termos do n.º 3 do artigo 7.º do [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455), de 9 de Julho, com a redacção dada pelo artigo 2.º da presente lei.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/04/08302/00030004.pdf)"
+  }
+ }
+}

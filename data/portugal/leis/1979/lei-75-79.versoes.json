@@ -1,0 +1,1147 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:367220:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-11-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fe38b13a9658e21e",
+    "23836370ae405d04",
+    "1946b6f9d8a2ecb3",
+    "07832f9b97767882",
+    "5b949b49437402f7",
+    "728b261edcab66d7",
+    "db4a8f0a7d7ce6d8",
+    "5898d36e8c3f2184",
+    "b0e6c9c90d49b7bd",
+    "edea6d41a88500c7",
+    "54bceedc4a68210d",
+    "ce39f3402676b85f",
+    "ebec45b89a6d6762",
+    "50b9c70a2ea0b9aa",
+    "4e3659f696e57003",
+    "49c3d73b46fe392e",
+    "3711e7ff3caa1d36",
+    "24c689a7bcd256e5",
+    "7c9aaaa3561398d9",
+    "060600c3659e3740",
+    "ecb1ba3dc75b8dd0",
+    "7c455bf758800d16",
+    "fc5e80de5d3a0912",
+    "c26f679b65a728b7",
+    "7b2a34c983c368d8",
+    "ed1cd9da0b367128",
+    "a43c7d34c185fd4e",
+    "a8c96a259676d365",
+    "ff9e0b3e490bd7a2",
+    "00c172eb49e9c049",
+    "29205bf184e68fa0",
+    "c1d8a496e317047a",
+    "177f4584fff369b0",
+    "0f86829242ff2988",
+    "9004b1389abbb779",
+    "c6e4bc3c582e7685",
+    "e647354cd5fd7078",
+    "83cb34eba3d1bf85",
+    "7aac81a342bdf859",
+    "8b9377f6908d4dff",
+    "ab4ac8548f3aaa1e",
+    "628fb26b8169db13",
+    "bebcfdc14816bec7",
+    "1d6c2ec41dec9b5a",
+    "09da1638d844489c",
+    "a8baf09a45d9a0c6",
+    "9f57b10b69fb80c1",
+    "a057acacd46eb299",
+    "2968e74cdca9a60f",
+    "1cae136bbddd8304",
+    "60e911a1020683e3",
+    "8cffc13455e13948",
+    "6662d3c32f124846",
+    "d6e3df6917b3898a",
+    "c3ae933ec6e42c31",
+    "b64b5345a9c56388",
+    "51769c018d2b9892",
+    "56b796887bc3a656",
+    "99cf7a51661984f1",
+    "a074128a11615a80",
+    "9be05bbb87427361",
+    "48e4a69717fd0d76",
+    "66fad29d7fc8e8e5",
+    "79947192bb633165",
+    "b58d746e97440135",
+    "e9eee76fa6d1500d"
+   ]
+  },
+  {
+   "date": "1989-01-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:397484:por",
+     "title": "Lei n.º 23/82",
+     "published": "1982-08-19",
+     "dre_path": "/dr/detalhe/lei/23-1982-397484"
+    },
+    {
+     "id": "pt:dre:401901:por",
+     "title": "Decreto-Lei n.º 485/88",
+     "published": "1988-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/485-1988-401901"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Revoga Artigo 48.º"
+   ],
+   "fragments": [
+    "fe38b13a9658e21e",
+    "23836370ae405d04",
+    "de4445ed7ef46a73",
+    "f62e3964ab488b8b",
+    "c427329c30397a0d",
+    "0078f709701ae5b9",
+    "db4a8f0a7d7ce6d8",
+    "5898d36e8c3f2184",
+    "1cf43cf9d6ea388e",
+    "b8013feca70e2b4d",
+    "f0a8661148cd508b",
+    "20b4182bafbcc519",
+    "aeccf0a31bb7fcc4",
+    "0f7da65cfbca08f0",
+    "4ac64ce40287751a",
+    "1eb282db15d2ac13",
+    "3711e7ff3caa1d36",
+    "cb3c83894805e709",
+    "060ecaf866e44617",
+    "cc274651356b5c17",
+    "d7caac56ddaa445b",
+    "7c455bf758800d16",
+    "de9d56ea3ee7d563",
+    "e5b857c035378af3",
+    "450286540b276d25",
+    "4377c9ad7681bff3",
+    "4a6be3e55ab77574",
+    "a8c96a259676d365",
+    "4d36b14e8fcbe372",
+    "d90bf512579c72fa",
+    "a5663a24acf07003",
+    "127320827183cb3b",
+    "8efc2bfb1a99b09b",
+    "0f86829242ff2988",
+    "8d67d96d7a96f1b6",
+    "669f20570eee33ac",
+    "7fd083ff70173498",
+    "83cb34eba3d1bf85",
+    "e401a1421f31376e",
+    "ac08ee0d9c5e7aa8",
+    "c4a28fcb2d1194eb",
+    "a9c6506b2cb81fde",
+    "9a42e311dbf04cb3",
+    "979bf17ecab8b042",
+    "a0dc9690b302c65d",
+    "55e376b7e83d01df",
+    "53ea8bf2ee796aec",
+    "a057acacd46eb299",
+    "691dc4424ad6b0bb",
+    "84ca64a4f3bd345b",
+    "62f8b6d2085bc497",
+    "6e024c2ddc986eaa",
+    "1b823a73630a574c",
+    "7ed9247dfdf01b6f",
+    "dd0bad9e3aa4ce00",
+    "0fd768db2b2c93f5",
+    "51769c018d2b9892",
+    "d827cba5ee6bf205",
+    "fa4eb554a509954a",
+    "5cf8c4fcb9716a63",
+    "4519e6ea8d4280a2",
+    "d8d847d312484798",
+    "e16c6fed666adadd",
+    "8ebfb5251207c752",
+    "a1e72f7ab6c7cbeb",
+    "51483887fdc3b26f"
+   ]
+  }
+ ],
+ "fragments": {
+  "fe38b13a9658e21e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Novembro\n\nLei da Radiotelevisão\n\nA Assembleia da República decreta, nos termos da alínea d) do artigo 164.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "1946b6f9d8a2ecb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º\n\n1 - A presente lei regula o regime e o exercício da actividade de radiotelevisão em território nacional ou sob administração portuguesa.\n\n2 - Considera-se radiotelevisão a transmissão à distância de imagens não permanentes e sons, efectuada por ondas electromagnéticas, propagando-se no espaço ou por cabo, destinada à recepção directa pelo público.\n\n3 - Onde nesta lei se refira a radiotelevisão como titular de direito ou obrigações, deve considerar-se referido o sujeito jurídico da respectiva actividade."
+  },
+  "07832f9b97767882": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — (Titularidade e natureza)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — (Titularidade e natureza)\n\n1 - A radiotelevisão só pode ser objecto de propriedade do Estado.\n\n2 - A radiotelevisão constitui um serviço público e será objecto de concessão a empresa pública, em termos a definir por lei da Assembleia da República.\n\n3 - Para a defesa dos valores culturais do País, o Governo determinará por decreto-lei normas disciplinadoras da quantificação e selecção qualitativa de programas com base na literatura, na música e, em geral, nos valores de cultura portuguesa."
+  },
+  "5b949b49437402f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — (Fins da radiotelevisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — (Fins da radiotelevisão)\n\n1 - São fins da radiotelevisão:\n\na) Contribuir para a formação e informação do povo português, defendendo e promovendo os valores culturais do País, designadamente da língua portuguesa;\n\nb) Contribuir para a promoção do progresso social, nomeadamente através da formação e da recreação de todos os portugueses, no respeito dos direitos e liberdades fundamentais, com vista à edificação de uma sociedade livre, democrática e pluralista, de acordo com a Constituição da República e a lei;\n\nc) Contribuir para o reforço do conhecimento e da projecção de Portugal no Mundo e para o estreitamento das relações com todos os povos, designadamente os de expressão portuguesa, bem como dos laços de solidariedade com os núcleos de emigrantes.\n\n2 - Para a realização dos seus fins, deverá a radiotelevisão incluir programas de informação e divulgação, de comentário e de crítica, de pedagogia, de instrução, culturais, sociais, políticos, recreativos, desportivos e infantis, segundo os princípios gerais de programação."
+  },
+  "728b261edcab66d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — (Fiscalização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — (Fiscalização)\n\nO Estado, através da Assembleia da República, do Governo e dos Tribunais, fiscaliza, nos termos da lei, o exercício da actividade de radiotelevisão, em ordem a assegurar a realização do disposto na presente lei e demais legislação aplicável."
+  },
+  "db4a8f0a7d7ce6d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Da programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Da programação"
+  },
+  "5898d36e8c3f2184": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Princípios fundamentais"
+  },
+  "b0e6c9c90d49b7bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — (Liberdade de expressão e informação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — (Liberdade de expressão e informação)\n\n1 - A liberdade de expressão do pensamento através da radiotelevisão integra o direito fundamental dos cidadãos a uma informação livre e pluralista, essencial à prática da democracia, à defesa da paz e do progresso económico e social do País, com ressalva das limitações impostas pelo meio radiotelevisivo.\n\n2 - A empresa pública concessionária da actividade de radiotelevisão é independente em matéria de programação, salvo nos casos contemplados na presente lei, não podendo qualquer Órgão de Soberania ou a Administração Pública impedir a difusão de quaisquer programas."
+  },
+  "edea6d41a88500c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — (Orientação geral da programação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — (Orientação geral da programação)\n\n1 - Compete exclusivamente à empresa pública concessionária da actividade de radiotelevisão definir a programação que, dentro dos limitei da lei, tenha por adequada à realização dos seus objectivos estatutários.\n\n2 - A programação da radiotelevisão deverá ser organizada segundo uma orientação geral que respeite o pluralismo ideológico, assegurando a livre expressão e confronto das diversas correntes de opinião e garantindo o rigor e a objectividade da informação.\n\n3 - É garantido o exercício dos direitos de antena e de resposta nos termos da presente lei."
+  },
+  "54bceedc4a68210d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — (Programas interditos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — (Programas interditos)\n\nÉ proibida a transmissão de programas ou mensagens que:\n\na) Incitem à prática de crimes ou violem os direitos, liberdades e garantias fundamentais, nomeadamente pelo seu espírito de intolerância, violência ou ódio;\n\nb) Por lei sejam considerados pornográficos ou obscenos."
+  },
+  "ce39f3402676b85f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — (Mensagens e comunicados de emissão obrigatória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — (Mensagens e comunicados de emissão obrigatória)\n\nSerão obrigatória e gratuitamente divulgados na íntegra pela radiotelevisão, com o devido relevo e a máxima urgência, as mensagens e comunicados cuja difusão seja solicitada pelo Presidente da República, pelo Conselho da Revolução ou pela Assembleia da República e, nos termos da respectiva lei, as notas oficiosas provenientes do Primeiro-Ministro."
+  },
+  "ebec45b89a6d6762": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — (Identificação dos programas transmitidos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — (Identificação dos programas transmitidos)\n\n1 - Os programas incluirão a indicação do título e do nome do responsável, bem como as fichas artística e técnica.\n\n2 - Na falta de indicação ou em caso de dúvida, os responsáveis pela direcção de programas responderão pela emissão e pela omissão."
+  },
+  "50b9c70a2ea0b9aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º — (Registo de programas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º — (Registo de programas)\n\nA empresa pública concessionária da actividade de radiotelevisão organizará o registo dos seus programas, com identificação do autor, do produtor e do realizador, bem como das respectivas fichas artística e técnica."
+  },
+  "4e3659f696e57003": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 11.º — (Publicidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 11.º — (Publicidade)\n\n1 - É permitida a publicidade na radiotelevisão, com duração não superior a oito minutos por cada hora de emissão e por canal.\n\n2 - A publicidade será sempre assinalada através de indicativo inequívoco.\n\n3 - Lei especial regulará o exercício da actividade publicitária."
+  },
+  "49c3d73b46fe392e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 12.º — (Restrições à publicidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 12.º — (Restrições à publicidade)\n\nÉ proibida a publicidade:\n\na) Oculta, indirecta ou dolosa e em geral a que utilize fórmulas que possam induzir em erro sobre as qualidades dos bens ou serviços anunciados;\n\nb) De produtos nocivos à saúde, como tal qualificados por decreto-lei do Governo, e de objectos ou meios de conteúdo pornográfico ou obsceno, bem como o aproveitamento publicitário, por forma instrumentalizada, da idade, do sexo e de ideologias ou crenças religiosas;\n\nc) De partidos ou associações políticas e de organizações sindicais, profissionais ou patronais."
+  },
+  "3711e7ff3caa1d36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Formas organizativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Formas organizativas"
+  },
+  "24c689a7bcd256e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 13.º — (Órgãos de programação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 13.º — (Órgãos de programação)\n\n1 - A responsabilidade da programação da radiotelevisão é da competência de uma direcção de programas.\n\n2 - Os órgãos directivos da programação serão obrigatoriamente constituídos por cidadãos portugueses no pleno gozo dos seus direitos civis e políticos."
+  },
+  "7c9aaaa3561398d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 14.º — (Conselho de redacção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 14.º — (Conselho de redacção)\n\n1 - Nos serviços de informação da empresa pública concessionária de radiotelevisão com mais de cinco jornalistas profissionais serão constituídos conselhos de redacção compostos por número ímpar de elementos eleitos de entre si por todos os jornalistas profissionais ao serviço da respectiva entidade.\n\n2 - Compete, em geral, aos conselhos de redacção previstos no n.º 1:\n\na) Pronunciar-se, a título consultivo, sobre a admissão e o despedimento de jornalistas profissionais e a aplicação aos mesmos de sanções disciplinares;\n\nb) Pronunciar-se, em geral, igualmente a título consultivo, sobre o exercício da actividade profissional dos jornalistas da respectiva entidade relativamente ao complexo de direitos e deveres do Estatuto do Jornalista, do código deontológico e demais legislação reguladora daquela actividade."
+  },
+  "060600c3659e3740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 15.º — (Jornalistas e equiparados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 15.º — (Jornalistas e equiparados)\n\n1 - Os jornalistas dos serviços de informação da radiotelevisão ficam sujeitos ao disposto na Lei de Imprensa e demais legislação aplicável aos jornalistas profissionais, com as necessárias adaptações.\n\n2 - No domínio da ética e da deontologia profissional, os trabalhadores da radiotelevisão que exerçam actividade equiparada à de jornalistas profissionais beneficiam dos direitos e estão sujeitos aos deveres próprios destes jornalistas."
+  },
+  "ecb1ba3dc75b8dd0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 16.º — (Responsáveis pelos serviços de programação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 16.º — (Responsáveis pelos serviços de programação)\n\nA identidade dos responsáveis pelos serviços de programação, bem como a dos seus substitutos, será indicada, por carta registada, ao departamento governamental competente, com a antecedência mínima de vinte e quatro horas sobre o início das respectivas funções."
+  },
+  "7c455bf758800d16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Do direito de antena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Do direito de antena"
+  },
+  "fc5e80de5d3a0912": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 17.º — (Direito de antena)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 17.º — (Direito de antena)\n\n1 - Aos partidos políticos e às organizações sindicais, profissionais e patronais será garantido o direito a tempo de antena na radiotelevisão, nos termos da Constituição da República e da presente lei.\n\n2 - Por tempo de antena entende-se espaço de programação própria, da responsabilidade do titular do direito, facto que deve ser expressamente mencionado no início e termo de cada programa.\n\n3 - As entidades referidas no n.º 1 têm direito, gratuita e anualmente, em emissões de âmbito nacional, aos seguintes tempos de antena:\n\na) Dez minutos por cada partido representado na Assembleia da República, acrescidos de um minuto por cada Deputado eleito pelo respectivo parido;\n\nb) Cinco minutos por cada partido político não representado na Assembleia da República que tenha obtido um mínimo de 50000 votos nas mais recentes eleições legislativas;\n\nc) Sessenta minutos para as organizações sindicais e sessenta minutos para as organizações profissionais e patronais, a ratear de acordo com a sua representatividade.\n\n4 - Cada titular não poderá utilizar o direito de antena mais de uma vez em cada trinta dias, nem em emissões com duração superior a quinze minutos ou inferior a cinco minutos, salvo se o seu tempo de antena for globalmente inferior.\n\n5 - Os responsáveis pela programação da radiotelevisão organizarão, com a colaboração dos titulares do direito de antena e de acordo com a presente lei, planos gerais da respectiva utilização.\n\n6 - Na impossibilidade insanável de acordo sobre os planos referidos no número anterior e a requerimento dos interessados, caberá a arbitragem ao Conselho de Informação para a RTP, de cuja deliberação não haverá recurso."
+  },
+  "c26f679b65a728b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 18.º — (Limites à utilização do direito de antena)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 18.º — (Limites à utilização do direito de antena)\n\nA utilização do direito de antena não será concedida aos sábados e domingos, devendo ainda ser suspensa um mês antes da data fixada para o início do período da campanha eleitoral para a Presidência da República, para a Assembleia da República e para as autarquias locais."
+  },
+  "7b2a34c983c368d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 19.º — (Direito de antena nos períodos eleitorais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 19.º — (Direito de antena nos períodos eleitorais)\n\nNos períodos eleitorais a utilização do direito de antena será regulada pela Lei Eleitoral."
+  },
+  "ed1cd9da0b367128": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 20.º — (Reserva de tempo de antena)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 20.º — (Reserva de tempo de antena)\n\n1 - Os titulares do direito de antena solicitarão a reserva do tempo de antena a que tenham direito até quinze dias antes da emissão, devendo a respectiva gravação ser efectuada ou os materiais pré-gravados entregues até setenta e duas horas antes da emissão do programa.\n\n2 - No caso de programas pré-gravados e prontos para emissão, a entrega deverá ser feita até quarenta e oito horas antes da emissão."
+  },
+  "a43c7d34c185fd4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 21.º — (Cedência de meios técnicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 21.º — (Cedência de meios técnicos)\n\nA radiotelevisão assegurará aos titulares do direito de antena, para realização dos respectivos programas, em condições de absoluta igualdade, os indispensáveis meios técnicos ao seu serviço."
+  },
+  "a8c96a259676d365": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do direito de resposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do direito de resposta"
+  },
+  "ff9e0b3e490bd7a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 22.º — (Direito de resposta)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 22.º — (Direito de resposta)\n\n1 - Qualquer pessoa, singular ou colectiva, que se considere prejudicada por emissões de radiotelevisão que constituam ofensa directa ou referência a facto inverídico ou erróneo que possa afectar o seu bom nome e reputação tem direito a resposta, a incluir gratuitamente no mesmo programa ou, caso não seja possível, em hora de emissão equivalente, de uma só vez e sem interpolações nem interrupções.\n\n2 - Para efeitos do disposto no número anterior, considera-se como titular do direito de resposta apenas aquele cujo interesse tenha sido efectiva e directamente afectado."
+  },
+  "00c172eb49e9c049": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 23.º — (Diligências prévias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 23.º — (Diligências prévias)\n\n1 - O titular do direito de resposta ou quem legitimamente o represente para o efeito do seu exercício poderá exigir visionamento do material da emissão em causa e solicitar da empresa pública de radiotelevisão cabal esclarecimento sobre se o conteúdo da mesma se lhe refere ou ainda sobre o seu preciso entendimento e significado.\n\n2 - Após visionamento do registo referido no número anterior e da obtenção dos esclarecimentos solicitados, é lícita a opção por uma simples rectificação a emitir com o conteúdo e nas demais condições que lhe sejam propostas ou pelo exercício do direito de resposta.\n\n3 - A aceitação da rectificação prevista no número anterior faz precludir o direito de resposta."
+  },
+  "29205bf184e68fa0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 24.º — (Exercício e conteúdo do direito de resposta)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 24.º — (Exercício e conteúdo do direito de resposta)\n\n1 - O direito de resposta deverá ser exercido pelo seu directo titular, pelo respectivo representante legal, ou ainda pelos seus herdeiros ou cônjuge sobrevivo, nos vinte dias seguintes ao da emissão.\n\n2 - O direito de resposta deverá ser exercido mediante petição constante de carta registada com aviso de recepção e assinatura reconhecida, dirigida à radiotelevisão, na qual se refira objectivamente o facto ofensivo, inverídico ou erróneo e se indique o teor da resposta pretendida.\n\n3 - O conteúdo da resposta será limitado pela relação directa e útil com a emissão que a provocou, não podendo o seu texto exceder cem palavras, nem conter expressões desprimorosas ou que envolvam responsabilidade civil ou criminal, a qual, neste caso, só ao autor da resposta poderá ser exigida."
+  },
+  "c1d8a496e317047a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 25.º — (Decisão sobre a transmissão da resposta)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 25.º — (Decisão sobre a transmissão da resposta)\n\n1 - A radiotelevisão decidirá sobre a transmissão da resposta no prazo de setenta e duas horas a contar da recepção da carta em que tiver sido formalizado o pedido e comunicará ao interessado a respectiva decisão nas quarenta e oito horas seguintes.\n\n2 - Se for manifesto que os factos a que se refere a resposta não preenchem os condicionalismos do artigo 22.º ou que a resposta infringe o disposto no n.º 3 do artigo 24.º, a radiotelevisão poderá recusar a sua emissão.\n\n3 - A recusa de emissão da resposta é passível de recurso, no prazo de cinco dias, para o Conselho de Informação para a RTP, que decidirá no prazo de quinze dias.\n\n4 - Da decisão referida no número anterior pode o titular do direito de resposta recorrer para o tribunal competente."
+  },
+  "177f4584fff369b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 26.º — (Emissão da resposta)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 26.º — (Emissão da resposta)\n\n1 - A emissão da resposta será feita até setenta e duas horas a contar da comunicação ao interessado.\n\n2 - Na emissão da resposta deve sempre mencionar-se a entidade que a determinou.\n\n3 - A resposta será lida por um locutor da radiotelevisão e poderá incluir componentes áudio-visuais sempre que a alegada ofensa tenha também utilizado técnica semelhante.\n\n4 - A emissão da resposta não poderá ser precedida nem seguida de quaisquer comentários, à excepção dos necessários para identificar o respondente ou para rectificar possíveis inexactidões factuais nela contidas."
+  },
+  "0f86829242ff2988": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Formas de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Formas de responsabilidade"
+  },
+  "9004b1389abbb779": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 27.º — (Responsabilidade disciplinar, civil e criminal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 27.º — (Responsabilidade disciplinar, civil e criminal)\n\nA transmissão de programas ou mensagens que infrinjam dolosamente o disposto no artigo 7.º sujeita os infractores a despedimento com justa causa, sem prejuízo da correspondente responsabilidade criminal ou civil."
+  },
+  "c6e4bc3c582e7685": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 28.º — (Responsabilidade civil)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 28.º — (Responsabilidade civil)\n\nA radiotelevisão responde civil e solidariamente com os responsáveis pela emissão de programas previamente gravados, excepto com os dos programas emitidos ao abrigo do direito de antena."
+  },
+  "e647354cd5fd7078": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 29.º — (Responsabilidade criminal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 29.º — (Responsabilidade criminal)\n\n1 - Os actos ou comportamentos lesivos de interesse jurídico penalmente protegido perpetrados através da radiotelevisão serão punidos nos termos dos crimes de abuso de liberdade de imprensa.\n\n2 - Pela prática dos crimes referidos no número antecedente respondem criminalmente os autores morais e materiais dos actos e comportamentos referidos no n.º 1, designadamente:\n\na) O produtor ou realizador do programa, ou o seu autor, bem como os responsáveis pela programação, ou quem os substitua;\n\nb) Nos casos de emissão não consentida pelos responsáveis pela programação, quem tiver determinado a emissão;\n\nc) Os responsáveis pela programação, ou quem os substitua, se não for possível determinar quem é o produtor ou realizador do programa ou o seu autor.\n\n3 - Os responsáveis pela programação, quando não forem agentes directos da infracção, deixam de ser criminalmente responsáveis quando provarem o desconhecimento do programa em que a infracção for contida.\n\n4 - No caso de transmissões directas serão responsáveis, além do agente directo da infracção, os que, devendo e podendo impedir o seu cometimento, o não tenham feito."
+  },
+  "83cb34eba3d1bf85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições penais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições penais"
+  },
+  "7aac81a342bdf859": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 30.º — (Exercício ilegal da actividade de radiotelevisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 30.º — (Exercício ilegal da actividade de radiotelevisão)\n\n1 - O exercício ilegal da actividade de radiotelevisão determina o encerramento da estação emissora e das respectivas instalações e sujeita os responsáveis à pena de prisão maior de dois a oito anos e à multa de 1000000$00 a 50000000$00.\n\n2 - Serão declarados perdidos a favor do Estado os bens existentes nas instalações encerradas por força do disposto no número anterior, sem prejuízo dos direitos de terceiros de boa fé."
+  },
+  "8b9377f6908d4dff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 31.º — (Emissão dolosa de programas não autorizados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 31.º — (Emissão dolosa de programas não autorizados)\n\nAqueles que dolosamente promoverem ou colaborarem na emissão de programas não autorizados pelas entidades competentes serão punidos com multa de 100000$00 a 1000000$00, sem prejuízo de pena mais grave que ao caso caiba."
+  },
+  "ab4ac8548f3aaa1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 32.º — (Consumação e agravação dos crimes cometidos através da radiotelevisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 32.º — (Consumação e agravação dos crimes cometidos através da radiotelevisão)\n\n1 - Os crimes previstos nos artigos 159.º, 160.º, 166.º, 181.º, 182.º, 407.º, 410.º, 420.º e 483.º do Código Penal consumam-se com a emissão do programa ofensivo, ultrajante ou provocatório.\n\n2 - A emissão ofensiva das pessoas ou entidades referidas nos artigos mencionados no número anterior considera-se feita na presença das mesmas e por causa do exercício das respectivas funções."
+  },
+  "628fb26b8169db13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 33.º — (Suspensão do exercício de direito de antena)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 33.º — (Suspensão do exercício de direito de antena)\n\n1 - Todo aquele que no exercício do seu direito de antena infrinja o disposto no artigo 7.º será, consoante a gravidade da infracção, punido com a suspensão do exercício do mesmo direito por período de um a doze meses, com um mínimo de seis meses em caso de reincidência, sem prejuízo de outras sanções previstas na lei.\n\n2 - É competente para conhecer da infracção prevista no número anterior o tribunal ordinário de jurisdição comum da comarca da sede da respectiva entidade concessionária, que adoptará a forma de processo sumaríssimo.\n\n3 - O tribunal competente poderá determinar, como acto prévio do julgamento do caso, a suspensão prevista no n.º 1."
+  },
+  "bebcfdc14816bec7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 34.º — (Penalidades especiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 34.º — (Penalidades especiais)\n\n1 - A empresa pública concessionária da actividade de radiotelevisão em cujas emissões tenha sido cometido qualquer dos crimes previstos no artigo 32.º será condenada em multa de 50000$00 a 500000$00.\n\n2 - A condenação por duas ou mais vezes por crime de difamação, calúnia ou injúria cometido através de emissões de radiotelevisão determina ainda a aplicação da pena de inibição, pelo prazo de um a cinco anos, do desempenho de qualquer função em empresas públicas de comunicação social."
+  },
+  "1d6c2ec41dec9b5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 35.º — (Desobediência qualificada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 35.º — (Desobediência qualificada)\n\nConstituem crime de desobediência qualificada:\n\na) O não acatamento, pelos responsáveis pela programação ou por quem os substitua, de decisão do tribunal que ordene a difusão de resposta;\n\nb) A recusa de difusão de decisões judiciais nos termos do artigo 45.º"
+  },
+  "09da1638d844489c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 36.º — (Violação da liberdade de exercício da actividade de radiotelevisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 36.º — (Violação da liberdade de exercício da actividade de radiotelevisão)\n\n1 - Quem ofender qualquer dos direitos, liberdades ou garantias consagrados na presente lei será condenado na pena de multa de 50000$00 a 500000$00.\n\n2 - A responsabilidade prevista no número anterior é cumulável com a responsabilidade pelos danos causados à radiotelevisão.\n\n3 - Se o autor da ofensa for funcionário ou agente do Estado ou de outra pessoa colectiva de direito público, responderá também pelo crime de abuso de autoridade, ficando o Estado ou a pessoa colectiva solidariamente responsável com ele pelo pagamento da multa referida no n.º 1."
+  },
+  "a8baf09a45d9a0c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 37.º — (Contravenções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 37.º — (Contravenções)\n\nAs contravenções de disposições legais para as quais se não preveja pena diversa são puníveis com multa de 5000$00 a 200000$00, e nunca inferior a 20000$00 em caso de reincidência."
+  },
+  "9f57b10b69fb80c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 38.º — (Responsabilidade pelo pagamento de multas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 38.º — (Responsabilidade pelo pagamento de multas)\n\nPelo pagamento das multas em que forem condenados os agentes dos crimes ou contravenções previstos nesta lei será responsável solidariamente com os mesmos agentes a empresa pública concessionária da actividade de radiotelevisão em cujas emissões as infracções tiverem sido cometidas, sem prejuízo do direito de regresso pelas quantias efectivamente pagas."
+  },
+  "a057acacd46eb299": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Disposições processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Disposições processuais"
+  },
+  "2968e74cdca9a60f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 39.º — (Jurisdição e competência do tribunal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 39.º — (Jurisdição e competência do tribunal)\n\n1 - O tribunal competente para conhecer das infracções previstas na presente lei é o tribunal ordinário de jurisdição comum da comarca da sede da entidade de que se trate, salvo para o conhecimento dos crimes de difamação, calúnia, injúria ou ameaça, em que é competente o tribunal da área do domicílio do ofendido.\n\n2 - Nos casos de emissões clandestinas e não sendo conhecido o elemento definidor de competência, nos termos do número anterior, é competente o tribunal ordinário de jurisdição comum da comarca de Lisboa."
+  },
+  "1cae136bbddd8304": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 40.º — (Celeridade processual)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 40.º — (Celeridade processual)\n\n1 - Ao processamento das infracções penais cometidas através da radiotelevisão aplicar-se-ão as normas correspondentes da lei de processo penal, com as especialidades previstas para os crimes de abuso da liberdade de imprensa.\n\n2 - O processo referente às contravenções referidas no artigo 37.º seguirá a tramitação prevista pelo Código de Processo Penal para o processo de transgressão, ressalvadas as disposições da presente lei."
+  },
+  "60e911a1020683e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 41.º — (Contestação no recurso)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 41.º — (Contestação no recurso)\n\nNo caso de recurso para o tribunal por recusa de emissão de resposta, a radiotelevisão será notificada para contestar no prazo de três dias."
+  },
+  "8cffc13455e13948": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 42.º — (Prova admitida)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 42.º — (Prova admitida)\n\n1 - Para prova do conteúdo ofensivo, inverídico ou erróneo das emissões, o interessado poderá requerer, nos termos do artigo 528.º do Código de Processo Civil, que a radiotelevisão seja notificada para apresentar, no prazo da contestação, as gravações do programa respectivo.\n\n2 - Para além da prova referida no n.º 1, só é admitida outra prova documental que se junte com o requerimento inicial ou com a contestação."
+  },
+  "6662d3c32f124846": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 43.º — (Decisão judicial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 43.º — (Decisão judicial)\n\nA decisão judicial será proferida no prazo de setenta e duas horas após o termo do prazo da contestação."
+  },
+  "d6e3df6917b3898a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 44.º — (Emissão de resposta por decisão judicial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 44.º — (Emissão de resposta por decisão judicial)\n\nA emissão da resposta ordenada pelo tribunal será feita no prazo de setenta e duas horas a partir do trânsito em julgado da decisão, devendo mencionar-se que ela foi determinada por decisão judicial."
+  },
+  "c3ae933ec6e42c31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 45.º — (Difusão das decisões judiciais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 45.º — (Difusão das decisões judiciais)\n\nA parte decisória das sentenças ou acórdãos condenatórios transitados em julgado por crimes consumados através da radiotelevisão, assim como a identificação das partes, será difundida pela Radiotelevisão Portuguesa, E. P., se assim o requererem o Ministério Público ou o ofendido."
+  },
+  "b64b5345a9c56388": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 46.º — (Obrigação de registo de programas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 46.º — (Obrigação de registo de programas)\n\nTodos os programas serão gravados e conservados, para servirem eventualmente de prova, pelo espaço de noventa dias, se outro prazo mais longo não for, em cada caso, determinado por autoridade judicial ou política."
+  },
+  "51769c018d2b9892": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Disposições finais e transitórias"
+  },
+  "56b796887bc3a656": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 47.º — (Exercido do direito de greve",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 47.º — (Exercido do direito de greve\n\npelos trabalhadores da radiotelevisão)\n\nEm caso de greve, e de harmonia com a lei aplicável, os trabalhadores da radiotelevisão assegurarão os serviços mínimos indispensáveis à satisfação das necessidades impreteríveis do serviço público de radiotelevisão, designadamente no que respeita a serviço informativo e a difusão de mensagens e comunicados de emissão legalmente obrigatória."
+  },
+  "99cf7a51661984f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 48.º — (Isenções fiscais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 48.º — (Isenções fiscais)\n\nA Radiotelevisão Portuguesa, E. P., beneficia das seguintes isenções fiscais:\n\na) Contribuição industrial;\n\nb) Imposto complementar - secção B;\n\nc) Imposto de mais-valias;\n\nd) Imposto de comércio e indústria;\n\ne) Imposto do selo;\n\nf) Imposto de capitais;\n\ng) Imposto de sucessões e doações;\n\nh) Imposto da sisa;\n\ni) Imposto de transacções;\n\nj) Contribuição predial rústica e urbana;\n\nl) Imposto sobre espectáculos públicos;\n\nm) Imposto sobre veículos;\n\nn) Imposto de circulação de veículos;\n\no) Imposto de compensação sobre viaturas diesel;\n\np) Direitos aduaneiros de importação e exportação e imposições aduaneiras;\n\nq) Sobretaxas de importação e exportação;\n\nr) Taxas de radiodifusão e de televisão."
+  },
+  "a074128a11615a80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 49.º — (Arquivos áudio-visuais de interesse público)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 49.º — (Arquivos áudio-visuais de interesse público)\n\n1 - A radiotelevisão organizará os seus arquivos áudio-visuais com o objectivo de conservar os registos de interesse público.\n\n2 - A radiotelevisão cederá à Filmoteca Nacional, mediante condições a fixar por portaria conjunta dos responsáveis governamentais pela comunicação social e pela cultura, as cópias dos registos que lhe forem solicitados."
+  },
+  "9be05bbb87427361": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 50.º — (Museu da Televisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 50.º — (Museu da Televisão)\n\nA Radiotelevisão Portuguesa, E. P., promoverá a recolha e selecção do material de produção, transmissão, recepção e registo de som e imagem ou quaisquer outros relacionados com a radiotelevisão que se revistam de interesse histórico, com vista à criação do Museu da Televisão."
+  },
+  "48e4a69717fd0d76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 51.º — (Estatutos da Filmoteca Nacional e do Museu da Televisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 51.º — (Estatutos da Filmoteca Nacional e do Museu da Televisão)\n\nO Governo aprovará os estatutos da Filmoteca Nacional e do Museu da Televisão e tomará as providências legais e orçamentais necessárias ao seu efectivo funcionamento em 1981."
+  },
+  "66fad29d7fc8e8e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 52.º — (Cooperação e intercâmbio internacional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 52.º — (Cooperação e intercâmbio internacional)\n\n1 - O Governo facilitará a participação da radiotelevisão em instituições internacionais, designadamente as que visem a promoção e a defesa da liberdade de expressão do pensamento e a solidariedade e recíproco conhecimento entre os povos através deste meio de comunicação social, e promoverá a adesão ou celebração de convenções internacionais no respectivo âmbito.\n\n2 - O Governo, por iniciativa própria ou da radiotelevisão, privilegiará formas especiais de cooperação no âmbito da actividade radiotelevisiva com os países de língua portuguesa."
+  },
+  "79947192bb633165": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 53.º — (Direito de antena nas regiões autónomas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 53.º — (Direito de antena nas regiões autónomas)\n\nLegislação especial regulará o exercício do direito de antena nas regiões autónomas."
+  },
+  "b58d746e97440135": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 54.º — (Radiotelevisão Portuguesa, E. P.)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 54.º — (Radiotelevisão Portuguesa, E. P.)\n\nAté à entrada em vigor da lei referida no n.º 2 do artigo 2.º, a Radiotelevisão Portuguesa, E. P., exerce a actividade de radiotelevisão nos termos da presente lei e do respectivo estatuto."
+  },
+  "e9eee76fa6d1500d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 55.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 55.º — (Entrada em vigor)\n\nO presente diploma entra em vigor decorridos sessenta dias a contar da data da sua publicação.\n\nAprovada em 27 de Julho de 1979.\n\nO Presidente da Assembleia da República, Teófilo Carvalho dos Santos.\n\nPromulgada em 15 de Outubro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo."
+  },
+  "de4445ed7ef46a73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1989-01-04",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 23/82](https://diariodarepublica.pt/dr/detalhe/lei/23-1982-397484), publicado em 1982-08-19."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A presente lei regula o regime e o exercício da actividade de radiotelevisão em território nacional.\n\n2 - Considera-se radiotelevisão a transmissão à distância de imagens não permanentes e sons, efectuada por ondas electromagnéticas, propagando-se no espaço ou por cabo, destinada à recepção directa pelo público.\n\n3 - Onde nesta lei se refira a radiotelevisão como titular de direito ou obrigações, deve considerar-se referido o sujeito jurídico da respectiva actividade.\n\n> Alterado pelo/a [Lei n.º 23/82](https://diariodarepublica.pt/dr/detalhe/lei/23-1982-397484), publicado em 1982-08-19."
+  },
+  "f62e3964ab488b8b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Titularidade e natureza)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Titularidade e natureza)\n\n1 - A radiotelevisão só pode ser objecto de propriedade do Estado.\n\n2 - A radiotelevisão constitui um serviço público e será objecto de concessão a empresa pública, em termos a definir por lei da Assembleia da República.\n\n3 - Para a defesa dos valores culturais do País, o Governo determinará por decreto-lei normas disciplinadoras da quantificação e selecção qualitativa de programas com base na literatura, na música e, em geral, nos valores de cultura portuguesa."
+  },
+  "c427329c30397a0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Fins da radiotelevisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Fins da radiotelevisão)\n\n1 - São fins da radiotelevisão:\n\na) Contribuir para a formação e informação do povo português, defendendo e promovendo os valores culturais do País, designadamente da língua portuguesa;\n\nb) Contribuir para a promoção do progresso social, nomeadamente através da formação e da recreação de todos os portugueses, no respeito dos direitos e liberdades fundamentais, com vista à edificação de uma sociedade livre, democrática e pluralista, de acordo com a Constituição da República e a lei;\n\nc) Contribuir para o reforço do conhecimento e da projecção de Portugal no Mundo e para o estreitamento das relações com todos os povos, designadamente os de expressão portuguesa, bem como dos laços de solidariedade com os núcleos de emigrantes.\n\n2 - Para a realização dos seus fins, deverá a radiotelevisão incluir programas de informação e divulgação, de comentário e de crítica, de pedagogia, de instrução, culturais, sociais, políticos, recreativos, desportivos e infantis, segundo os princípios gerais de programação."
+  },
+  "0078f709701ae5b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Fiscalização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Fiscalização)\n\nO Estado, através da Assembleia da República, do Governo e dos Tribunais, fiscaliza, nos termos da lei, o exercício da actividade de radiotelevisão, em ordem a assegurar a realização do disposto na presente lei e demais legislação aplicável."
+  },
+  "1cf43cf9d6ea388e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Liberdade de expressão e informação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Liberdade de expressão e informação)\n\n1 - A liberdade de expressão do pensamento através da radiotelevisão integra o direito fundamental dos cidadãos a uma informação livre e pluralista, essencial à prática da democracia, à defesa da paz e do progresso económico e social do País, com ressalva das limitações impostas pelo meio radiotelevisivo.\n\n2 - A empresa pública concessionária da actividade de radiotelevisão é independente em matéria de programação, salvo nos casos contemplados na presente lei, não podendo qualquer Órgão de Soberania ou a Administração Pública impedir a difusão de quaisquer programas."
+  },
+  "b8013feca70e2b4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Orientação geral da programação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Orientação geral da programação)\n\n1 - Compete exclusivamente à empresa pública concessionária da actividade de radiotelevisão definir a programação que, dentro dos limitei da lei, tenha por adequada à realização dos seus objectivos estatutários.\n\n2 - A programação da radiotelevisão deverá ser organizada segundo uma orientação geral que respeite o pluralismo ideológico, assegurando a livre expressão e confronto das diversas correntes de opinião e garantindo o rigor e a objectividade da informação.\n\n3 - É garantido o exercício dos direitos de antena e de resposta nos termos da presente lei."
+  },
+  "f0a8661148cd508b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Programas interditos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Programas interditos)\n\nÉ proibida a transmissão de programas ou mensagens que:\n\na) Incitem à prática de crimes ou violem os direitos, liberdades e garantias fundamentais, nomeadamente pelo seu espírito de intolerância, violência ou ódio;\n\nb) Por lei sejam considerados pornográficos ou obscenos."
+  },
+  "20b4182bafbcc519": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Mensagens e comunicados de emissão obrigatória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Mensagens e comunicados de emissão obrigatória)\n\nSerão obrigatória e gratuitamente divulgados na íntegra pela radiotelevisão, com o devido relevo e a máxima urgência, as mensagens e comunicados cuja difusão seja solicitada pelo Presidente da República, pelo Conselho da Revolução ou pela Assembleia da República e, nos termos da respectiva lei, as notas oficiosas provenientes do Primeiro-Ministro."
+  },
+  "aeccf0a31bb7fcc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Identificação dos programas transmitidos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Identificação dos programas transmitidos)\n\n1 - Os programas incluirão a indicação do título e do nome do responsável, bem como as fichas artística e técnica.\n\n2 - Na falta de indicação ou em caso de dúvida, os responsáveis pela direcção de programas responderão pela emissão e pela omissão."
+  },
+  "0f7da65cfbca08f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Registo de programas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Registo de programas)\n\nA empresa pública concessionária da actividade de radiotelevisão organizará o registo dos seus programas, com identificação do autor, do produtor e do realizador, bem como das respectivas fichas artística e técnica."
+  },
+  "4ac64ce40287751a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Publicidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Publicidade)\n\n1 - É permitida a publicidade na radiotelevisão, com duração não superior a oito minutos por cada hora de emissão e por canal.\n\n2 - A publicidade será sempre assinalada através de indicativo inequívoco.\n\n3 - Lei especial regulará o exercício da actividade publicitária."
+  },
+  "1eb282db15d2ac13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Restrições à publicidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Restrições à publicidade)\n\nÉ proibida a publicidade:\n\na) Oculta, indirecta ou dolosa e em geral a que utilize fórmulas que possam induzir em erro sobre as qualidades dos bens ou serviços anunciados;\n\nb) De produtos nocivos à saúde, como tal qualificados por decreto-lei do Governo, e de objectos ou meios de conteúdo pornográfico ou obsceno, bem como o aproveitamento publicitário, por forma instrumentalizada, da idade, do sexo e de ideologias ou crenças religiosas;\n\nc) De partidos ou associações políticas e de organizações sindicais, profissionais ou patronais."
+  },
+  "cb3c83894805e709": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Órgãos de programação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Órgãos de programação)\n\n1 - A responsabilidade da programação da radiotelevisão é da competência de uma direcção de programas.\n\n2 - Os órgãos directivos da programação serão obrigatoriamente constituídos por cidadãos portugueses no pleno gozo dos seus direitos civis e políticos."
+  },
+  "060ecaf866e44617": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Conselho de redacção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Conselho de redacção)\n\n1 - Nos serviços de informação da empresa pública concessionária de radiotelevisão com mais de cinco jornalistas profissionais serão constituídos conselhos de redacção compostos por número ímpar de elementos eleitos de entre si por todos os jornalistas profissionais ao serviço da respectiva entidade.\n\n2 - Compete, em geral, aos conselhos de redacção previstos no n.º 1:\n\na) Pronunciar-se, a título consultivo, sobre a admissão e o despedimento de jornalistas profissionais e a aplicação aos mesmos de sanções disciplinares;\n\nb) Pronunciar-se, em geral, igualmente a título consultivo, sobre o exercício da actividade profissional dos jornalistas da respectiva entidade relativamente ao complexo de direitos e deveres do Estatuto do Jornalista, do código deontológico e demais legislação reguladora daquela actividade."
+  },
+  "cc274651356b5c17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Jornalistas e equiparados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Jornalistas e equiparados)\n\n1 - Os jornalistas dos serviços de informação da radiotelevisão ficam sujeitos ao disposto na Lei de Imprensa e demais legislação aplicável aos jornalistas profissionais, com as necessárias adaptações.\n\n2 - No domínio da ética e da deontologia profissional, os trabalhadores da radiotelevisão que exerçam actividade equiparada à de jornalistas profissionais beneficiam dos direitos e estão sujeitos aos deveres próprios destes jornalistas."
+  },
+  "d7caac56ddaa445b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Responsáveis pelos serviços de programação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Responsáveis pelos serviços de programação)\n\nA identidade dos responsáveis pelos serviços de programação, bem como a dos seus substitutos, será indicada, por carta registada, ao departamento governamental competente, com a antecedência mínima de vinte e quatro horas sobre o início das respectivas funções."
+  },
+  "de9d56ea3ee7d563": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Direito de antena)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Direito de antena)\n\n1 - Aos partidos políticos e às organizações sindicais, profissionais e patronais será garantido o direito a tempo de antena na radiotelevisão, nos termos da Constituição da República e da presente lei.\n\n2 - Por tempo de antena entende-se espaço de programação própria, da responsabilidade do titular do direito, facto que deve ser expressamente mencionado no início e termo de cada programa.\n\n3 - As entidades referidas no n.º 1 têm direito, gratuita e anualmente, em emissões de âmbito nacional, aos seguintes tempos de antena:\n\na) Dez minutos por cada partido representado na Assembleia da República, acrescidos de um minuto por cada Deputado eleito pelo respectivo parido;\n\nb) Cinco minutos por cada partido político não representado na Assembleia da República que tenha obtido um mínimo de 50000 votos nas mais recentes eleições legislativas;\n\nc) Sessenta minutos para as organizações sindicais e sessenta minutos para as organizações profissionais e patronais, a ratear de acordo com a sua representatividade.\n\n4 - Cada titular não poderá utilizar o direito de antena mais de uma vez em cada trinta dias, nem em emissões com duração superior a quinze minutos ou inferior a cinco minutos, salvo se o seu tempo de antena for globalmente inferior.\n\n5 - Os responsáveis pela programação da radiotelevisão organizarão, com a colaboração dos titulares do direito de antena e de acordo com a presente lei, planos gerais da respectiva utilização.\n\n6 - Na impossibilidade insanável de acordo sobre os planos referidos no número anterior e a requerimento dos interessados, caberá a arbitragem ao Conselho de Informação para a RTP, de cuja deliberação não haverá recurso."
+  },
+  "e5b857c035378af3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Limites à utilização do direito de antena)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Limites à utilização do direito de antena)\n\nA utilização do direito de antena não será concedida aos sábados e domingos, devendo ainda ser suspensa um mês antes da data fixada para o início do período da campanha eleitoral para a Presidência da República, para a Assembleia da República e para as autarquias locais."
+  },
+  "450286540b276d25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Direito de antena nos períodos eleitorais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Direito de antena nos períodos eleitorais)\n\nNos períodos eleitorais a utilização do direito de antena será regulada pela Lei Eleitoral."
+  },
+  "4377c9ad7681bff3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Reserva de tempo de antena)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Reserva de tempo de antena)\n\n1 - Os titulares do direito de antena solicitarão a reserva do tempo de antena a que tenham direito até quinze dias antes da emissão, devendo a respectiva gravação ser efectuada ou os materiais pré-gravados entregues até setenta e duas horas antes da emissão do programa.\n\n2 - No caso de programas pré-gravados e prontos para emissão, a entrega deverá ser feita até quarenta e oito horas antes da emissão."
+  },
+  "4a6be3e55ab77574": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Cedência de meios técnicos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Cedência de meios técnicos)\n\nA radiotelevisão assegurará aos titulares do direito de antena, para realização dos respectivos programas, em condições de absoluta igualdade, os indispensáveis meios técnicos ao seu serviço."
+  },
+  "4d36b14e8fcbe372": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Direito de resposta)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Direito de resposta)\n\n1 - Qualquer pessoa, singular ou colectiva, que se considere prejudicada por emissões de radiotelevisão que constituam ofensa directa ou referência a facto inverídico ou erróneo que possa afectar o seu bom nome e reputação tem direito a resposta, a incluir gratuitamente no mesmo programa ou, caso não seja possível, em hora de emissão equivalente, de uma só vez e sem interpolações nem interrupções.\n\n2 - Para efeitos do disposto no número anterior, considera-se como titular do direito de resposta apenas aquele cujo interesse tenha sido efectiva e directamente afectado."
+  },
+  "d90bf512579c72fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Diligências prévias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Diligências prévias)\n\n1 - O titular do direito de resposta ou quem legitimamente o represente para o efeito do seu exercício poderá exigir visionamento do material da emissão em causa e solicitar da empresa pública de radiotelevisão cabal esclarecimento sobre se o conteúdo da mesma se lhe refere ou ainda sobre o seu preciso entendimento e significado.\n\n2 - Após visionamento do registo referido no número anterior e da obtenção dos esclarecimentos solicitados, é lícita a opção por uma simples rectificação a emitir com o conteúdo e nas demais condições que lhe sejam propostas ou pelo exercício do direito de resposta.\n\n3 - A aceitação da rectificação prevista no número anterior faz precludir o direito de resposta."
+  },
+  "a5663a24acf07003": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Exercício e conteúdo do direito de resposta)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Exercício e conteúdo do direito de resposta)\n\n1 - O direito de resposta deverá ser exercido pelo seu directo titular, pelo respectivo representante legal, ou ainda pelos seus herdeiros ou cônjuge sobrevivo, nos vinte dias seguintes ao da emissão.\n\n2 - O direito de resposta deverá ser exercido mediante petição constante de carta registada com aviso de recepção e assinatura reconhecida, dirigida à radiotelevisão, na qual se refira objectivamente o facto ofensivo, inverídico ou erróneo e se indique o teor da resposta pretendida.\n\n3 - O conteúdo da resposta será limitado pela relação directa e útil com a emissão que a provocou, não podendo o seu texto exceder cem palavras, nem conter expressões desprimorosas ou que envolvam responsabilidade civil ou criminal, a qual, neste caso, só ao autor da resposta poderá ser exigida."
+  },
+  "127320827183cb3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Decisão sobre a transmissão da resposta)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Decisão sobre a transmissão da resposta)\n\n1 - A radiotelevisão decidirá sobre a transmissão da resposta no prazo de setenta e duas horas a contar da recepção da carta em que tiver sido formalizado o pedido e comunicará ao interessado a respectiva decisão nas quarenta e oito horas seguintes.\n\n2 - Se for manifesto que os factos a que se refere a resposta não preenchem os condicionalismos do artigo 22.º ou que a resposta infringe o disposto no n.º 3 do artigo 24.º, a radiotelevisão poderá recusar a sua emissão.\n\n3 - A recusa de emissão da resposta é passível de recurso, no prazo de cinco dias, para o Conselho de Informação para a RTP, que decidirá no prazo de quinze dias.\n\n4 - Da decisão referida no número anterior pode o titular do direito de resposta recorrer para o tribunal competente."
+  },
+  "8efc2bfb1a99b09b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Emissão da resposta)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Emissão da resposta)\n\n1 - A emissão da resposta será feita até setenta e duas horas a contar da comunicação ao interessado.\n\n2 - Na emissão da resposta deve sempre mencionar-se a entidade que a determinou.\n\n3 - A resposta será lida por um locutor da radiotelevisão e poderá incluir componentes áudio-visuais sempre que a alegada ofensa tenha também utilizado técnica semelhante.\n\n4 - A emissão da resposta não poderá ser precedida nem seguida de quaisquer comentários, à excepção dos necessários para identificar o respondente ou para rectificar possíveis inexactidões factuais nela contidas."
+  },
+  "8d67d96d7a96f1b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — (Responsabilidade disciplinar, civil e criminal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Responsabilidade disciplinar, civil e criminal)\n\nA transmissão de programas ou mensagens que infrinjam dolosamente o disposto no artigo 7.º sujeita os infractores a despedimento com justa causa, sem prejuízo da correspondente responsabilidade criminal ou civil."
+  },
+  "669f20570eee33ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — (Responsabilidade civil)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Responsabilidade civil)\n\nA radiotelevisão responde civil e solidariamente com os responsáveis pela emissão de programas previamente gravados, excepto com os dos programas emitidos ao abrigo do direito de antena."
+  },
+  "7fd083ff70173498": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Responsabilidade criminal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Responsabilidade criminal)\n\n1 - Os actos ou comportamentos lesivos de interesse jurídico penalmente protegido perpetrados através da radiotelevisão serão punidos nos termos dos crimes de abuso de liberdade de imprensa.\n\n2 - Pela prática dos crimes referidos no número antecedente respondem criminalmente os autores morais e materiais dos actos e comportamentos referidos no n.º 1, designadamente:\n\na) O produtor ou realizador do programa, ou o seu autor, bem como os responsáveis pela programação, ou quem os substitua;\n\nb) Nos casos de emissão não consentida pelos responsáveis pela programação, quem tiver determinado a emissão;\n\nc) Os responsáveis pela programação, ou quem os substitua, se não for possível determinar quem é o produtor ou realizador do programa ou o seu autor.\n\n3 - Os responsáveis pela programação, quando não forem agentes directos da infracção, deixam de ser criminalmente responsáveis quando provarem o desconhecimento do programa em que a infracção for contida.\n\n4 - No caso de transmissões directas serão responsáveis, além do agente directo da infracção, os que, devendo e podendo impedir o seu cometimento, o não tenham feito."
+  },
+  "e401a1421f31376e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Exercício ilegal da actividade de radiotelevisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Exercício ilegal da actividade de radiotelevisão)\n\n1 - O exercício ilegal da actividade de radiotelevisão determina o encerramento da estação emissora e das respectivas instalações e sujeita os responsáveis à pena de prisão maior de dois a oito anos e à multa de 1000000$00 a 50000000$00.\n\n2 - Serão declarados perdidos a favor do Estado os bens existentes nas instalações encerradas por força do disposto no número anterior, sem prejuízo dos direitos de terceiros de boa fé."
+  },
+  "ac08ee0d9c5e7aa8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — (Emissão dolosa de programas não autorizados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Emissão dolosa de programas não autorizados)\n\nAqueles que dolosamente promoverem ou colaborarem na emissão de programas não autorizados pelas entidades competentes serão punidos com multa de 100000$00 a 1000000$00, sem prejuízo de pena mais grave que ao caso caiba."
+  },
+  "c4a28fcb2d1194eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — (Consumação e agravação dos crimes cometidos através da radiotelevisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Consumação e agravação dos crimes cometidos através da radiotelevisão)\n\n1 - Os crimes previstos nos artigos 159.º, 160.º, 166.º, 181.º, 182.º, 407.º, 410.º, 420.º e 483.º do Código Penal consumam-se com a emissão do programa ofensivo, ultrajante ou provocatório.\n\n2 - A emissão ofensiva das pessoas ou entidades referidas nos artigos mencionados no número anterior considera-se feita na presença das mesmas e por causa do exercício das respectivas funções."
+  },
+  "a9c6506b2cb81fde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — (Suspensão do exercício de direito de antena)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Suspensão do exercício de direito de antena)\n\n1 - Todo aquele que no exercício do seu direito de antena infrinja o disposto no artigo 7.º será, consoante a gravidade da infracção, punido com a suspensão do exercício do mesmo direito por período de um a doze meses, com um mínimo de seis meses em caso de reincidência, sem prejuízo de outras sanções previstas na lei.\n\n2 - É competente para conhecer da infracção prevista no número anterior o tribunal ordinário de jurisdição comum da comarca da sede da respectiva entidade concessionária, que adoptará a forma de processo sumaríssimo.\n\n3 - O tribunal competente poderá determinar, como acto prévio do julgamento do caso, a suspensão prevista no n.º 1."
+  },
+  "9a42e311dbf04cb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — (Penalidades especiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Penalidades especiais)\n\n1 - A empresa pública concessionária da actividade de radiotelevisão em cujas emissões tenha sido cometido qualquer dos crimes previstos no artigo 32.º será condenada em multa de 50000$00 a 500000$00.\n\n2 - A condenação por duas ou mais vezes por crime de difamação, calúnia ou injúria cometido através de emissões de radiotelevisão determina ainda a aplicação da pena de inibição, pelo prazo de um a cinco anos, do desempenho de qualquer função em empresas públicas de comunicação social."
+  },
+  "979bf17ecab8b042": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — (Desobediência qualificada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Desobediência qualificada)\n\nConstituem crime de desobediência qualificada:\n\na) O não acatamento, pelos responsáveis pela programação ou por quem os substitua, de decisão do tribunal que ordene a difusão de resposta;\n\nb) A recusa de difusão de decisões judiciais nos termos do artigo 45.º"
+  },
+  "a0dc9690b302c65d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — (Violação da liberdade de exercício da actividade de radiotelevisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Violação da liberdade de exercício da actividade de radiotelevisão)\n\n1 - Quem ofender qualquer dos direitos, liberdades ou garantias consagrados na presente lei será condenado na pena de multa de 50000$00 a 500000$00.\n\n2 - A responsabilidade prevista no número anterior é cumulável com a responsabilidade pelos danos causados à radiotelevisão.\n\n3 - Se o autor da ofensa for funcionário ou agente do Estado ou de outra pessoa colectiva de direito público, responderá também pelo crime de abuso de autoridade, ficando o Estado ou a pessoa colectiva solidariamente responsável com ele pelo pagamento da multa referida no n.º 1."
+  },
+  "55e376b7e83d01df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — (Contravenções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Contravenções)\n\nAs contravenções de disposições legais para as quais se não preveja pena diversa são puníveis com multa de 5000$00 a 200000$00, e nunca inferior a 20000$00 em caso de reincidência."
+  },
+  "53ea8bf2ee796aec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — (Responsabilidade pelo pagamento de multas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Responsabilidade pelo pagamento de multas)\n\nPelo pagamento das multas em que forem condenados os agentes dos crimes ou contravenções previstos nesta lei será responsável solidariamente com os mesmos agentes a empresa pública concessionária da actividade de radiotelevisão em cujas emissões as infracções tiverem sido cometidas, sem prejuízo do direito de regresso pelas quantias efectivamente pagas."
+  },
+  "691dc4424ad6b0bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — (Jurisdição e competência do tribunal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — (Jurisdição e competência do tribunal)\n\n1 - O tribunal competente para conhecer das infracções previstas na presente lei é o tribunal ordinário de jurisdição comum da comarca da sede da entidade de que se trate, salvo para o conhecimento dos crimes de difamação, calúnia, injúria ou ameaça, em que é competente o tribunal da área do domicílio do ofendido.\n\n2 - Nos casos de emissões clandestinas e não sendo conhecido o elemento definidor de competência, nos termos do número anterior, é competente o tribunal ordinário de jurisdição comum da comarca de Lisboa."
+  },
+  "84ca64a4f3bd345b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — (Celeridade processual)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — (Celeridade processual)\n\n1 - Ao processamento das infracções penais cometidas através da radiotelevisão aplicar-se-ão as normas correspondentes da lei de processo penal, com as especialidades previstas para os crimes de abuso da liberdade de imprensa.\n\n2 - O processo referente às contravenções referidas no artigo 37.º seguirá a tramitação prevista pelo Código de Processo Penal para o processo de transgressão, ressalvadas as disposições da presente lei."
+  },
+  "62f8b6d2085bc497": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — (Contestação no recurso)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — (Contestação no recurso)\n\nNo caso de recurso para o tribunal por recusa de emissão de resposta, a radiotelevisão será notificada para contestar no prazo de três dias."
+  },
+  "6e024c2ddc986eaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — (Prova admitida)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — (Prova admitida)\n\n1 - Para prova do conteúdo ofensivo, inverídico ou erróneo das emissões, o interessado poderá requerer, nos termos do artigo 528.º do Código de Processo Civil, que a radiotelevisão seja notificada para apresentar, no prazo da contestação, as gravações do programa respectivo.\n\n2 - Para além da prova referida no n.º 1, só é admitida outra prova documental que se junte com o requerimento inicial ou com a contestação."
+  },
+  "1b823a73630a574c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — (Decisão judicial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — (Decisão judicial)\n\nA decisão judicial será proferida no prazo de setenta e duas horas após o termo do prazo da contestação."
+  },
+  "7ed9247dfdf01b6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — (Emissão de resposta por decisão judicial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — (Emissão de resposta por decisão judicial)\n\nA emissão da resposta ordenada pelo tribunal será feita no prazo de setenta e duas horas a partir do trânsito em julgado da decisão, devendo mencionar-se que ela foi determinada por decisão judicial."
+  },
+  "dd0bad9e3aa4ce00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — (Difusão das decisões judiciais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — (Difusão das decisões judiciais)\n\nA parte decisória das sentenças ou acórdãos condenatórios transitados em julgado por crimes consumados através da radiotelevisão, assim como a identificação das partes, será difundida pela Radiotelevisão Portuguesa, E. P., se assim o requererem o Ministério Público ou o ofendido."
+  },
+  "0fd768db2b2c93f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — (Obrigação de registo de programas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — (Obrigação de registo de programas)\n\nTodos os programas serão gravados e conservados, para servirem eventualmente de prova, pelo espaço de noventa dias, se outro prazo mais longo não for, em cada caso, determinado por autoridade judicial ou política."
+  },
+  "d827cba5ee6bf205": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — (Exercido do direito de greve",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — (Exercido do direito de greve\n\npelos trabalhadores da radiotelevisão)\n\nEm caso de greve, e de harmonia com a lei aplicável, os trabalhadores da radiotelevisão assegurarão os serviços mínimos indispensáveis à satisfação das necessidades impreteríveis do serviço público de radiotelevisão, designadamente no que respeita a serviço informativo e a difusão de mensagens e comunicados de emissão legalmente obrigatória."
+  },
+  "fa4eb554a509954a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — (Isenções fiscais)",
+   "in_force_from": "1989-01-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30."
+   ],
+   "markdown": "###### Artigo 48.º — (Isenções fiscais)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 485/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1988-401901), publicado em 1988-12-30."
+  },
+  "5cf8c4fcb9716a63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — (Arquivos áudio-visuais de interesse público)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — (Arquivos áudio-visuais de interesse público)\n\n1 - A radiotelevisão organizará os seus arquivos áudio-visuais com o objectivo de conservar os registos de interesse público.\n\n2 - A radiotelevisão cederá à Filmoteca Nacional, mediante condições a fixar por portaria conjunta dos responsáveis governamentais pela comunicação social e pela cultura, as cópias dos registos que lhe forem solicitados."
+  },
+  "4519e6ea8d4280a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — (Museu da Televisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — (Museu da Televisão)\n\nA Radiotelevisão Portuguesa, E. P., promoverá a recolha e selecção do material de produção, transmissão, recepção e registo de som e imagem ou quaisquer outros relacionados com a radiotelevisão que se revistam de interesse histórico, com vista à criação do Museu da Televisão."
+  },
+  "d8d847d312484798": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — (Estatutos da Filmoteca Nacional e do Museu da Televisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — (Estatutos da Filmoteca Nacional e do Museu da Televisão)\n\nO Governo aprovará os estatutos da Filmoteca Nacional e do Museu da Televisão e tomará as providências legais e orçamentais necessárias ao seu efectivo funcionamento em 1981."
+  },
+  "e16c6fed666adadd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — (Cooperação e intercâmbio internacional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — (Cooperação e intercâmbio internacional)\n\n1 - O Governo facilitará a participação da radiotelevisão em instituições internacionais, designadamente as que visem a promoção e a defesa da liberdade de expressão do pensamento e a solidariedade e recíproco conhecimento entre os povos através deste meio de comunicação social, e promoverá a adesão ou celebração de convenções internacionais no respectivo âmbito.\n\n2 - O Governo, por iniciativa própria ou da radiotelevisão, privilegiará formas especiais de cooperação no âmbito da actividade radiotelevisiva com os países de língua portuguesa."
+  },
+  "8ebfb5251207c752": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — (Direito de antena nas regiões autónomas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — (Direito de antena nas regiões autónomas)\n\nLegislação especial regulará o exercício do direito de antena nas regiões autónomas."
+  },
+  "a1e72f7ab6c7cbeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — (Radiotelevisão Portuguesa, E. P.)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — (Radiotelevisão Portuguesa, E. P.)\n\nAté à entrada em vigor da lei referida no n.º 2 do artigo 2.º, a Radiotelevisão Portuguesa, E. P., exerce a actividade de radiotelevisão nos termos da presente lei e do respectivo estatuto."
+  },
+  "51483887fdc3b26f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — (Entrada em vigor)\n\nO presente diploma entra em vigor decorridos sessenta dias a contar da data da sua publicação.\n\nAprovada em 27 de Julho de 1979.\n\nO Presidente da Assembleia da República, Teófilo Carvalho dos Santos.\n\nPromulgada em 15 de Outubro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo."
+  }
+ }
+}

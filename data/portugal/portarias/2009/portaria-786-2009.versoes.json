@@ -1,0 +1,462 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:492994:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2009-07-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "45da9b1c80ac4f9e",
+    "2c70422a8090a6bd",
+    "6189fc1593b03e08",
+    "210bf34c468c5ebe",
+    "6d26f8c53e45d5bf",
+    "23836370ae405d04",
+    "ad82169074397dcc",
+    "936e124c52bae401",
+    "fd866ffbadd9adb0",
+    "e6e2cc155ec89a7a",
+    "835910e0fd980f34",
+    "28db92ced82ed889",
+    "6f23cd6fabf52fd1",
+    "768b24b953b7a000",
+    "40277f8b3c96c481",
+    "b85bf3c57dd3395c",
+    "5f46f15fa8dedcc1",
+    "e15d8805a325f1c2",
+    "fa134cfb22378772",
+    "1a72b08c6db6d64b",
+    "453465b176aaebc3",
+    "a91a7562656273c0",
+    "9046edf5d3fdf189",
+    "f69189a5201b1805",
+    "f49efe417169da69",
+    "7af23e2573551bd8",
+    "75078926ebae6caa",
+    "641a236ffb9df609",
+    "2f3aa047b7d68d42",
+    "61d0e1318b779f21",
+    "dc700114a429b1c3",
+    "7fec9af4f04438a7"
+   ]
+  },
+  {
+   "date": "2011-06-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:343948:por",
+     "title": "Portaria n.º 814/2010",
+     "published": "2010-08-27",
+     "dre_path": "/dr/detalhe/portaria/814-2010-343948"
+    },
+    {
+     "id": "pt:dre:670056:por",
+     "title": "Portaria n.º 228/2011",
+     "published": "2011-06-09",
+     "dre_path": "/dr/detalhe/portaria/228-2011-670056"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO::6.º",
+    "Altera Artigo ANEXO::8.º",
+    "Altera Artigo ANEXO::10.º",
+    "Altera Artigo ANEXO::13.º",
+    "Altera Artigo ANEXO::5.º",
+    "Revoga Artigo ANEXO::21.º",
+    "Altera Artigo ANEXO::6.º",
+    "Altera Artigo ANEXO::17.º",
+    "Altera Artigo ANEXO::19.º",
+    "Altera Artigo ANEXO::20.º"
+   ],
+   "fragments": [
+    "45da9b1c80ac4f9e",
+    "2c70422a8090a6bd",
+    "6189fc1593b03e08",
+    "210bf34c468c5ebe",
+    "6d26f8c53e45d5bf",
+    "23836370ae405d04",
+    "ad82169074397dcc",
+    "936e124c52bae401",
+    "fd866ffbadd9adb0",
+    "e6e2cc155ec89a7a",
+    "a9eac971ee2800e1",
+    "a5ced1f651bb6a88",
+    "6f23cd6fabf52fd1",
+    "752b9252ddddb7f2",
+    "40277f8b3c96c481",
+    "6f4f6b5b8bd3468f",
+    "5f46f15fa8dedcc1",
+    "e15d8805a325f1c2",
+    "fa134cfb22378772",
+    "a306d7b0edc72aab",
+    "453465b176aaebc3",
+    "a91a7562656273c0",
+    "9046edf5d3fdf189",
+    "66d1a99026242670",
+    "f49efe417169da69",
+    "d5c6cac630549b7c",
+    "62fc34dbc79362da",
+    "641a236ffb9df609",
+    "acc04e260aec8c90",
+    "61d0e1318b779f21",
+    "dc700114a429b1c3",
+    "7fec9af4f04438a7"
+   ]
+  }
+ ],
+ "fragments": {
+  "45da9b1c80ac4f9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Julho\n\nO Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), estabelece como objectivos o aumento da competitividade da agricultura e da silvicultura, a melhoria do ambiente e da paisagem rural, bem como a promoção da qualidade de vida nas zonas rurais e da diversificação das actividades económicas.\n\nInserida no objectivo de aumento da competitividade, a medida n.º 3.4, «Cooperação LEADER para o desenvolvimento», do Programa de Desenvolvimento Rural do Continente, designado por PRODER, visa valorizar os territórios rurais e consolidar o seu tecido económico e social, através da cooperação, enquanto instrumento potenciador das complementaridades, diversidades e heterogeneidades dos territórios em cooperação, e conjugar, através da cooperação, o saber-fazer e os recursos humanos e financeiros oriundos de diferentes territórios rurais, permitindo atingir massa crítica necessária à viabilização dos projectos de cooperação, optimizar e racionalizar os recursos e identificar complementaridades que permitem abrir novas oportunidades de mercado e de desenvolvimento dos territórios rurais.\n\nEsta medida integra duas acções, as acções n.os 3.4.1, «Cooperação interterritorial», e 3.4.2, «Cooperação transnacional», com as quais se pretende respectivamente promover o desenvolvimento de projectos de cooperação entre territórios rurais situados no espaço nacional com criação de mais-valia para os territórios cooperantes, e promover o desenvolvimento de projectos de cooperação entre territórios rurais nacionais e de países terceiros, podendo estes não estar situados no espaço da União Europeia.\n\nAssim, para promoção da competitividade e reforço de competências e do emprego nas zonas rurais, a abordagem LEADER inclui a execução de projectos de cooperação interterritorial, com dinâmicas estáveis e coesas e com a capacidade de expansão e domínio de novos espaços no plano transnacional.\n\nA cooperação encoraja e apoia os grupos de acção local (GAL) a estabelecer parcerias com outros GAL, ou com outros grupos de abordagem semelhante noutros territórios rurais, com o objectivo de aceder a informação e a novas ideias, de aprender com outras regiões, de estimular e apoiar a inovação e de adquirir competências e de melhorar a transferência de experiências.\n\nNa abordagem LEADER, a cooperação é entendida como parte integrante da estratégia local de desenvolvimento e não como um elemento adicional a essa estratégia e neste sentido os resultados da cooperação devem ser disseminados nos territórios entre os actores locais e entre os GAL de forma a ampliar o efeito demonstrativo e potenciar os benefícios transferíveis.\n\nA promoção da cooperação entre territórios rurais e a aproximação entre parceiros será ainda facilitada pela Rede Rural Nacional através da criação de um ambiente favorável à prática da cooperação que contemple a divulgação de interesses, a assistência técnica, a aquisição de competências dos GAL e a capitalização de experiências.\n\nCom a cooperação interterritorial e transnacional pretende-se ainda, respectivamente, através da promoção de parcerias e acções comuns adequadas às prioridades estratégicas locais e regionais ou através da internacionalização das iniciativas locais, potenciar os benefícios gerados pela implementação da estratégia local de desenvolvimento (ELD) e criar condições para a fixação de actividades económicas e permanência da população nas zonas rurais.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, o seguinte:"
+  },
+  "2c70422a8090a6bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado, em anexo à presente portaria, dela fazendo parte integrante, o Regulamento de Aplicação das acções n.os 3.4.1, «Cooperação Interterritorial», e 3.4.2, «Cooperação Transnacional», da medida n.º 3.4, «Cooperação LEADER para o desenvolvimento», integrada no subprograma n.º 3, «Dinamização das zonas rurais», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER."
+  },
+  "6189fc1593b03e08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Regulamento referido no artigo 1.º contém os seguintes anexos, que dele fazem parte integrante:\n\na) Anexo I, relativo às despesas elegíveis e não elegíveis;\n\nb) Anexo II, relativo ao nível dos apoios;\n\nc) Anexo III, relativo à metodologia de cálculo da valia estratégica."
+  },
+  "210bf34c468c5ebe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nO Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 22 de Julho de 2009."
+  },
+  "6d26f8c53e45d5bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nREGULAMENTO DE APLICAÇÃO DAS ACÇÕES N.os 3.4.1, «COOPERAÇÃO INTERTERRITORIAL», E 3.4.2, «COOPERAÇÃO TRANSNACIONAL»"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "ad82169074397dcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente Regulamento estabelece o regime de aplicação das acções n.os 3.4.1, «Cooperação interterritorial», e 3.4.2, «Cooperação transnacional», da medida n.º 3.4, «Cooperação LEADER para o desenvolvimento», integrada no subprograma n.º 3, «Dinamização das zonas rurais», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER.\n\n2 - Os apoios a conceder no âmbito do presente Regulamento integram as seguintes componentes:\n\na) Plano de cooperação, adiante designado por «componente um»;\n\nb) Projecto de cooperação, adiante designado por «componente dois»."
+  },
+  "936e124c52bae401": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nOs apoios a conceder no âmbito do presente Regulamento prosseguem os seguintes objectivos:\n\na) Promover o desenvolvimento de projectos de cooperação entre territórios rurais, situados no espaço nacional com criação de mais-valia para os territórios cooperantes, no caso da acção n.º 3.4.1, «Cooperação interterritorial»;\n\nb) Promover o desenvolvimento de projectos de cooperação entre territórios rurais nacionais e de países terceiros, podendo estes não estar situados no espaço da União Europeia, no caso da acção n.º 3.4.2, «Cooperação transnacional»."
+  },
+  "fd866ffbadd9adb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação do presente Regulamento, e para além das definições constantes do Decreto-Lei n.º 37-A/2008, entende-se por:\n\na) «Agrupamento europeu de interesse económico (AEIE)» o agrupamento complementar de empresas constituído por entidades de dois ou mais Estados membros da União Europeia no âmbito do Regulamento (CE) n.º [2137/85](http://data.europa.eu/eli/reg/1985/2137/oj?locale=pt), de 25 de Julho, ou do Decreto-Lei n.º 148/90, de 9 de Maio, com o objectivo de facilitar e promover a cooperação transnacional entre empresas e profissionais liberais sem o objectivo de criar lucro para o próprio agrupamento;\n\nb) «Candidatura conjunta» o pedido de apoio apresentado por dois ou mais parceiros da cooperação, protocolado entre as partes mediante a celebração de um protocolo de cooperação, cujos projectos estão relacionados entre si, originam bens ou serviços com repercussão positiva nos territórios e incidem na «componente dois»;\n\nc) «Grupo de acção local (GAL)» a parceria formada por representantes locais dos sectores público e privado de um determinado território de intervenção, representativa das actividades sócio-económicas e com uma estratégia de desenvolvimento própria, denominada estratégia local de desenvolvimento;\n\nd) «GAL coordenador» o GAL nomeado pelos restantes parceiros do projecto de cooperação com funções de coordenação, animação da parceria de cooperação e de verificação do respeito pelos compromissos assumidos entre os parceiros;\n\ne) «Início da operação» o dia a partir do qual começa a execução do investimento, sendo, em termos contabilísticos, definido pela data da factura mais antiga relativa a despesas elegíveis;\n\nf) «Intenção de cooperação» a identificação dos parceiros e do GAL coordenador, dos objectivos, dos produtos esperados, a calendarização da operação e o respectivo orçamento;\n\ng) «Outros grupos locais (OGL)» as associações, cooperativas ou agrupamentos complementares de empresas possuidores de uma estratégia de desenvolvimento para um determinado território rural que envolvam a participação dos agentes locais e integrem redes com outros grupos;\n\nh) «Plano de cooperação» o instrumento de programação que integra um diagnóstico das necessidades de cooperação do território e a formulação da estratégia de cooperação, baseada numa previsão de parcerias e territórios de aplicação, e uma proposta orçamental detalhada, referente à assistência técnica preparatória dos projectos de cooperação;\n\ni) «Projecto de cooperação» o instrumento de programação que integra as acções de cooperação comuns a vários parceiros organizados em rede tendo em vista a concepção, realização e comercialização de produtos ou serviços em todos os domínios do desenvolvimento rural;\n\nj) «Protocolo de cooperação» o documento de constituição de uma parceria de cooperação, por via da qual GAL e OGL estabelecem as responsabilidades e compromissos recíprocos de gestão, coordenação, acompanhamento e avaliação do projecto de cooperação;\n\nl) «Termo da operação» o ano da conclusão da operação determinado no contrato de financiamento;\n\nm) «Território de intervenção» o conjunto de freguesias aprovado em sede de reconhecimento dos GAL."
+  },
+  "e6e2cc155ec89a7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nPodem beneficiar dos apoios previstos no presente Regulamento:\n\na) Os GAL reconhecidos como grupos intermédios de gestão no âmbito da Portaria 392-A/2008, de 4 de Junho;\n\nb) Os OGL abrangidos por um protocolo de cooperação com os GAL, no âmbito da acção n.º 3.4.1, para a componente dois."
+  },
+  "835910e0fd980f34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Possuírem meios humanos e materiais adequados à realização da operação, nomeadamente técnicos com formação e experiência nas áreas temáticas da cooperação;\n\nb) Possuírem a situação regularizada face à administração fiscal e à segurança social;\n\nc) Não estarem abrangidos por quaisquer disposições de exclusão resultantes de incumprimento de obrigações decorrentes de quaisquer operações co-financiadas anteriores realizadas desde 2000;\n\nd) Disporem de contabilidade actualizada e organizada de acordo com as especificações do Plano Oficial de Contabilidade.\n\n2 - Os candidatos aos apoios à componente dois devem ainda apresentar um protocolo de cooperação onde estejam expressas as obrigações, os deveres e as responsabilidades de todos os parceiros envolvidos, bem como a designação do GAL coordenador do projecto de cooperação."
+  },
+  "28db92ced82ed889": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios do presente Regulamento as operações que se enquadrem nos objectivos definidos no artigo 2.º e que reúnam as seguintes condições:\n\na) Tenham início após a data de apresentação do pedido de apoio, sem prejuízo do disposto no artigo 21.º;\n\nb) Apresentem coerência técnica;\n\nc) Demonstrem que estão asseguradas as fontes de financiamento privado.\n\n2 - Para além do disposto no número anterior, as operações relativas à componente um devem ainda:\n\na) Apresentar uma estratégia de cooperação que identifique as áreas temáticas, os objectivos e a mais-valia para o território;\n\nb) Apresentar as intenções de cooperação.\n\n3 - As operações relativas à componente dois devem reunir as condições mencionadas no n.º 1 e ainda:\n\na) Apresentar coerência económica e financeira;\n\nb) Apresentar informação detalhada sobre os parceiros do projecto de cooperação, as actividades a desenvolver e o orçamento."
+  },
+  "6f23cd6fabf52fd1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas elegíveis e não elegíveis\n\nSão despesas elegíveis e não elegíveis as constantes do anexo i do presente Regulamento."
+  },
+  "768b24b953b7a000": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos no presente Regulamento devem cumprir, além das obrigações enunciadas no Decreto-Lei n.º 37-A/2008, de 5 de Março, as seguintes obrigações:\n\na) Executar a operação nos termos e nos prazos definidos em contrato de financiamento;\n\nb) Cumprir os compromissos estabelecidos no protocolo de cooperação;\n\nc) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PRODER;\n\nd) Cumprir as obrigações legais, designadamente as fiscais e para com a segurança social;\n\ne) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;\n\nf) Dispor de contabilizada organizada de acordo com as especificações do Plano Oficial de Contabilidade, bem como uma contabilidade analítica de forma a evidenciar correctamente os fundos públicos de que for beneficiário no âmbito do PRODER;\n\ng) Não locarem, alienarem ou por qualquer forma onerarem os equipamentos ou as instalações co-financiadas, durante um período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, se tal termo ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão do PRODER;\n\nh) Garantir que todos os pagamentos e recebimentos referentes à operação são efectuados através de uma conta bancária específica para o efeito.\n\n2 - O GAL coordenador deve ainda:\n\na) Dispor de um dossier específico para a operação devidamente organizado, nos termos definidos em orientação técnica específica (OTE);\n\nb) Elaborar o relatório anual de progresso, nos termos definidos em OTE;\n\nc) Justificar quaisquer propostas de alteração à programação da operação, a apresentar preferencialmente em anexo a um dos relatórios anuais de progresso;\n\nd) Apresentar à autoridade de gestão, um ano após o recebimento integral dos apoios, um relatório de avaliação relativo aos resultados da operação.\n\n3 - Os beneficiários dos apoios relativos à componente dois devem também, à data da celebração do contrato de financiamento, apresentar os termos de aprovação do projecto de cooperação pelas respectivas autoridades de gestão, sempre que existam GAL reconhecidos no âmbito do PRODERAM e PRORURAL, ou por outros Estados membros da União Europeia."
+  },
+  "40277f8b3c96c481": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Forma, nível e limites dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Forma, nível e limites dos apoios\n\n1 - Os apoios são concedidos sob a forma de subsídios não reembolsáveis.\n\n2 - O nível e limite dos apoios a conceder no âmbito do presente Regulamento constam do anexo ii."
+  },
+  "b85bf3c57dd3395c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Critérios de selecção dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Critérios de selecção dos pedidos de apoio\n\n1 - Os pedidos de apoio que cumpram os critérios de elegibilidade que lhe são aplicáveis são avaliados de acordo com a aplicação dos seguintes factores:\n\na) Objectivos estratégicos (OE), que valorizam a pertinência da cooperação em relação aos objectivos estratégicos definidos na ELD;\n\nb) Potencial de desenvolvimento de redes (PR), que valoriza o contributo da cooperação para integrar os agentes sócio-económicos em redes de actividades estratégicas locais, regionais e nacionais;\n\nc) Valorização do território de intervenção (VTI), que valoriza o contributo da cooperação para ampliar o impacte da ELD e a visibilidade do território de intervenção.\n\n2 - Os pedidos de apoio relativos à componente um são avaliados de acordo com a VGO calculada por aplicação dos factores referidos nas alíneas a) e b) do número anterior.\n\n3 - Os pedidos de apoio mencionados nos números anteriores são hierarquizados em função do resultado do cálculo da respectiva valia global da operação, abreviadamente designada por VGO, cuja fórmula consta do anexo iii, devendo obter uma pontuação mínima de 10 pontos."
+  },
+  "5f46f15fa8dedcc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Procedimento"
+  },
+  "e15d8805a325f1c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Apresentação dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apresentação dos pedidos de apoio\n\n1 - Ao abrigo do disposto na alínea a) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, os pedidos de apoio podem ser submetidos entre os dias 1 e 10 de cada mês.\n\n2 - A apresentação dos pedidos de apoio efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e está sujeita a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.\n\n3 - A apresentação dos pedidos de apoio para a componente dois reveste a forma de candidatura conjunta."
+  },
+  "fa134cfb22378772": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Análise e decisão dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Análise e decisão dos pedidos de apoio\n\n1 - O secretariado técnico da autoridade de gestão, adiante designado por secretariado técnico, analisa e emite parecer sobre os pedidos de apoio, do qual constam a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, a aplicação dos factores referidos no artigo 10.º e o apuramento do montante do custo total elegível por beneficiário e global, e procede à hierarquização dos pedidos de apoio em função da pontuação obtida no cálculo da VGO.\n\n2 - São solicitados aos candidatos, quando se justifique, pelo secretariado técnico, os documentos exigidos no formulário do pedido de apoio ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - O parecer referido no n.º 1 é emitido no prazo máximo de 60 dias úteis a contar do termo de apresentação dos pedidos de apoio e remetido ao gestor.\n\n4 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada ao beneficiário ou ao GAL coordenador pelo secretariado técnico no prazo máximo de 15 dias úteis a contar da data de recepção do parecer prevista no n.º 3."
+  },
+  "1a72b08c6db6d64b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Transição de pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Transição de pedidos\n\nOs pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental transitam automaticamente para o período de candidatura subsequente, sendo definitivamente recusados caso não obtenham aprovação em dois períodos consecutivos."
+  },
+  "453465b176aaebc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Contrato de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contrato de financiamento\n\n1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre cada um dos beneficiários e o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.)\n\n2 - O IFAP, I. P., envia o contrato de financiamento aos beneficiários no prazo de 10 dias úteis a contar da data de recepção da decisão do gestor, que dispõem de 20 dias úteis para devolução do mesmo devidamente assinado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março."
+  },
+  "a91a7562656273c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Execução das operações\n\n1 - Os prazos máximos para os beneficiários iniciarem e concluírem a execução das operações é de, respectivamente, 6 e 24 meses contados a partir da data da assinatura do contrato de financiamento.\n\n2 - Em casos excepcionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos nos números anteriores."
+  },
+  "9046edf5d3fdf189": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efectua-se através de preenchimento e envio de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, e estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.\n\n2 - O pedido de pagamento reporta-se às despesas efectivamente realizadas e pagas, devendo os comprovativos das mesmas ser entregues no secretariado técnico, no prazo de cinco dias úteis a contar da data de apresentação do pedido.\n\n3 - Apenas são aceites os pedidos de pagamentos relativos a despesas efectuadas por débito em conta, transferência bancária ou cheques, comprovados pelo respectivo extracto bancário demonstrativo do pagamento, nos termos previstos nas cláusulas contratuais e dos números seguintes.\n\n4 - Quando previsto no contrato de financiamento, pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, mediante a constituição de caução correspondente a 110 % do montante do adiantamento.\n\n5 - O pagamento é proporcional à realização do investimento elegível, nos termos das condições contratuais, devendo o montante da última prestação representar, pelo menos, 20 % da despesa total elegível da operação.\n\n6 - Podem ser apresentados, anualmente, até quatro pedidos de pagamento por operação."
+  },
+  "f69189a5201b1805": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Análise dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Análise dos pedidos de pagamento\n\n1 - O secretariado técnico analisa os pedidos de pagamento e emite o relatório de análise, no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, sendo a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.\n\n4 - São realizadas visitas aos locais da operação pelo menos uma vez durante o seu período de execução e, preferencialmente, aquando da análise do último pedido de pagamento.\n\n5 - Para efeitos de pagamento ao beneficiário, o secretariado técnico comunica a validação da despesa ao IFAP, I. P."
+  },
+  "f49efe417169da69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Pagamentos\n\nOs pagamentos dos apoios são efectuados pelo IFAP, I. P., por transferência bancária, para a conta bancária específica referida na alínea h) do n.º 1 do artigo 8.º, nos termos das cláusulas contratuais, no prazo máximo de 10 dias úteis após a emissão da autorização de despesa."
+  },
+  "7af23e2573551bd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Controlo\n\n1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro de 2005.\n\n2 - Para além do disposto no número anterior, a operação está sujeita a controlo até 24 meses após o pagamento final.\n\n3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório de visita."
+  },
+  "75078926ebae6caa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Reduções e exclusões\n\nEm caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis, ao beneficiário, as reduções e as exclusões previstas no Regulamento (CE) n.º [1975/2006](http://data.europa.eu/eli/reg/2006/1975/oj?locale=pt), da Comissão, de 7 de Dezembro."
+  },
+  "641a236ffb9df609": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições finais e transitórias"
+  },
+  "2f3aa047b7d68d42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Disposição transitória\n\nAs despesas efectuadas após 1 de Janeiro de 2009 são consideradas elegíveis apenas para a componente um e desde que sejam apresentadas até 31 de Dezembro de 2009."
+  },
+  "61d0e1318b779f21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 7.º)\n\n1 - Despesas elegíveis - componente um (plano de cooperação):\n\nInvestimentos imateriais:\n\n1) Despesas gerais - estudos técnicos, honorários de arquitectos, engenheiros e consultores e actos administrativos relativos à obtenção das autorizações necessárias, nomeadamente à licença de construção e ao exercício da actividade nos termos da legislação sobre licenciamento - até 5 % do custo total elegível aprovado;\n\n2) Software standard e específico - aquisição;\n\n3) Processos de certificação reconhecidos;\n\n4) Estudos de mercado e análise do impacte estratégico - aquisição;\n\n5) Consultoria em áreas específicas - aquisição de serviços;\n\n6) Promoção e divulgação, designadamente:\n\n6.1) Participação em eventos - inscrição; aluguer de espaços; despesas de organização;\n\n6.2) Acções de informação e promoção - despesas de organização;\n\n7) Custos de assistência técnica, designadamente:\n\n7.1) Despesas com pessoal - remunerações, subsídio de refeição, encargos sobre as remunerações e seguros de acidentes de trabalho;\n\n7.2) Despesas gerais de funcionamento - comunicações, material de escritório;\n\n7.3) Despesas de funcionamento da estrutura técnica local - afectação de despesas com pessoal e despesas gerais de funcionamento, em base de imputação com a medida n.º 3.5, até ao limite máximo de 20 % do custo total elegível da operação;\n\n7.4) Despesas com deslocações e estadas - ajudas de custo, subsídio de transporte em automóvel próprio e despesas com hotéis, bem como combustíveis, portagens e transportes.\n\n2 - Despesas elegíveis - componente dois (projecto de cooperação):\n\nInvestimentos materiais:\n\n1) Edifícios - obras de recuperação e beneficiação das instalações;\n\n2) Equipamentos novos - compra, incluindo a locação financeira, quando for exercida a opção de compra e a duração desses contratos for compatível com o prazo para apresentação do último pedido de pagamento, designadamente:\n\n2.1) Máquinas e equipamentos novos, incluindo equipamentos informáticos;\n\n2.2) Sistemas energéticos para consumo próprio, utilizando fontes renováveis de energia;\n\n3) Contribuições em espécie - desde que se refiram ao fornecimento de equipamento ou de trabalho voluntário não remunerado;\n\nInvestimentos imateriais:\n\n4) Despesas gerais - estudos técnicos, honorários de arquitectos, engenheiros e consultores e actos administrativos relativos à obtenção das autorizações necessárias, nomeadamente à licença de construção e ao exercício da actividade nos termos da legislação sobre licenciamento - até 5 % do custo total elegível aprovado;\n\n5) Software standard e específico - aquisição;\n\n6) Processos de certificação reconhecidos;\n\n7) Promoção e divulgação, designadamente:\n\n7.1) Material informativo e promocional - concepção e produção;\n\n7.2) Participação em eventos - inscrição; aluguer de espaços; despesas de organização;\n\n7.3) Plataforma electrónica - construção;\n\n7.4) Produtos e serviços electrónicos - concepção;\n\n7.5) Acções de informação e promoção - despesas de organização;\n\n8) Estudos de mercado e análise do impacte estratégico - aquisição;\n\n9) Consultoria em áreas específicas - aquisição de serviços;\n\n10) Agrupamento europeu de interesse económico (AEIE) - despesas de constituição e administração;\n\n11) Custos de animação, designadamente:\n\n11.1) Despesas com pessoal - remunerações, subsídio de refeição, encargos sobre as remunerações e seguros de acidentes de trabalho;\n\n11.2) Despesas gerais de funcionamento - comunicações, material de escritório, despesas com actos administrativos relativos ao cumprimento das obrigações legais ou à actividade do GAL ou EG;\n\n11.3) Despesas de funcionamento da estrutura técnica local - afectação de despesas com pessoal e despesas gerais de funcionamento, em base de imputação com a medida n.º 3.5, até ao limite máximo de 20 % do custo total elegível da operação;\n\n11.4) Despesas com deslocações e estadas - ajudas de custo, subsídio de transporte em automóvel próprio e despesas com hotéis, bem como combustíveis, portagens e transportes.\n\n3 - Despesas não elegíveis - componentes um e dois:\n\nInvestimentos materiais:\n\n1) Edificios - aquisição de imóveis e despesas com trabalhos a mais de empreitadas de obras públicas e adicionais de contratos de fornecimento, erros e omissões do projecto.\n\nInvestimentos imateriais (associados a investimento material):\n\n1) Despesas com constituição de cauções relativas aos adiantamentos de ajuda pública;\n\n2) Juros das dívidas;\n\n3) Custos relacionados com contratos de locação financeira, como a margem do locador, os custos do refinanciamento dos juros, as despesas gerais e os prémios de seguro;\n\n4) IVA nas seguintes situações:\n\n4.1) Regime de isenção ao abrigo do artigo 53.º do CIVA;\n\n4.2) Regime normal;\n\n4.3) Suportado pelo Estado ou por qualquer organismo público;\n\n4.4) Regimes mistos:\n\nAfectação real - no caso de a actividade em causa constituir a parte não isenta da actividade do beneficiário;\n\nPro rata - na percentagem em que for dedutível."
+  },
+  "dc700114a429b1c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Nível e limites dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Nível e limites dos apoios\n\n(a que se refere o artigo 9.º)\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2009/07/14300/0479304799.pdf)"
+  },
+  "7fec9af4f04438a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO III — Metodologia de cálculo da valia estratégica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III — Metodologia de cálculo da valia estratégica\n\n(a que se refere o artigo 10.º)\n\n1 - Nos pedidos de apoio relativos à componente um (plano de cooperação), a valia global da operação (VGO) é obtida por aplicação da seguinte fórmula:\n\nVGO = 0,55 OE + 0,45 PR\n\nna qual:\n\na) Objectivos estratégicos (OE), que valoriza a pertinência da cooperação em relação aos objectivos estratégicos definidos na ELD;\n\nb) Potencial de desenvolvimento de redes (PR), que valoriza o contributo da cooperação para integrar os agentes sócio-económicos em redes de actividades estratégicas locais, regionais e nacionais.\n\n2 - A VGO dos pedidos de apoio relativos à componente dois (projecto de cooperação) é obtida por aplicação da seguinte fórmula:\n\nVGO = 0,35 OE + 0,30 PR + 0,35 VTI\n\nna qual:\n\na) Objectivos estratégicos (OE), que valoriza a pertinência da cooperação em relação aos objectivos estratégicos definidos na ELD;\n\nb) Potencial de desenvolvimento de redes (PR), que valoriza o contributo da cooperação para integrar os agentes sócio-económicos em redes de actividades estratégicas locais, regionais e nacionais;\n\nc) Valorização do território de intervenção (VTI), que valoriza o contributo da cooperação para ampliar o impacte da ELD e a visibilidade do território de intervenção.\n\n3 - A pontuação dos pedidos de apoio efectua-se de acordo com a seguinte metodologia:\n\na) Cada factor é pontuado de 0 a 20 pontos de acordo com a grelha de pontuação definida para cada coeficiente;\n\nb) Com base no somatório dos ponderadores definidos para cada um dos coeficientes determina-se a VGO;\n\nc) Os pedidos de apoio são hierarquizados por ordem decrescente de acordo com a VGO obtida (arredondamento à centésima), até ao limite orçamental definido em OTE."
+  },
+  "a9eac971ee2800e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2011-06-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27."
+   ],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Possuírem meios humanos e materiais adequados à realização da operação, nomeadamente técnicos com formação e experiência nas áreas temáticas da cooperação;\n\nb) (Revogada.)\n\nc) Não estarem abrangidos por quaisquer disposições de exclusão resultantes de incumprimento de obrigações decorrentes de quaisquer operações co-financiadas anteriores realizadas desde 2000;\n\nd) (Revogada.)\n\n2 - Os candidatos aos apoios à componente dois devem ainda apresentar um protocolo de cooperação onde estejam expressas as obrigações, os deveres e as responsabilidades de todos os parceiros envolvidos, bem como a designação do GAL coordenador do projecto de cooperação.\n\n> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27."
+  },
+  "a5ced1f651bb6a88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2011-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.",
+    "Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09."
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios do presente Regulamento as operações que se enquadrem nos objectivos definidos no artigo 2.º e que reúnam as seguintes condições:\n\na) (Revogada.)\n\nb) Apresentem coerência técnica;\n\nc) Demonstrem que estão asseguradas as fontes de financiamento privado.\n\n2 - Para além do disposto no número anterior, as operações relativas à componente um devem ainda:\n\na) Apresentar uma estratégia de cooperação que identifique as áreas temáticas, os objectivos e a mais-valia para o território;\n\nb) Apresentar as intenções de cooperação.\n\n3 - As operações relativas à componente dois devem reunir as condições mencionadas no n.º 1 e ainda:\n\na) Apresentar coerência económica e financeira;\n\nb) Apresentar informação detalhada sobre os parceiros do projecto de cooperação, as actividades a desenvolver e o orçamento.\n\n4 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem.\n\n5 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.\n\n> Alterado pelo/a Artigo 31.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.\n\n> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09."
+  },
+  "752b9252ddddb7f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Obrigações dos beneficiários",
+   "in_force_from": "2011-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27."
+   ],
+   "markdown": "###### Artigo 8.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos no presente Regulamento devem cumprir, além das obrigações enunciadas no Decreto-Lei n.º 37-A/2008, de 5 de Março, as seguintes obrigações:\n\na) Executar a operação nos termos e nos prazos definidos em contrato de financiamento;\n\nb) Cumprir os compromissos estabelecidos no protocolo de cooperação;\n\nc) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PRODER;\n\nd) Cumprir as obrigações legais, designadamente as fiscais e para com a segurança social;\n\ne) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;\n\nf) Ter um sistema de contabilidade organizada ou simplificada de acordo com o legalmente exigido;\n\ng) Não locarem, alienarem ou por qualquer forma onerarem os equipamentos ou as instalações co-financiadas, durante um período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, se tal termo ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão do PRODER;\n\nh) Garantir que todos os pagamentos e recebimentos referentes à operação são efectuados através de uma conta bancária específica para o efeito.\n\n2 - O GAL coordenador deve ainda:\n\na) Dispor de um dossier específico para a operação devidamente organizado, nos termos definidos em orientação técnica específica (OTE);\n\nb) Elaborar o relatório anual de progresso, nos termos definidos em OTE;\n\nc) Justificar quaisquer propostas de alteração à programação da operação, a apresentar preferencialmente em anexo a um dos relatórios anuais de progresso;\n\nd) Apresentar à autoridade de gestão, um ano após o recebimento integral dos apoios, um relatório de avaliação relativo aos resultados da operação.\n\n3 - Os beneficiários dos apoios relativos à componente dois devem também, à data da celebração do contrato de financiamento, apresentar os termos de aprovação do projecto de cooperação pelas respectivas autoridades de gestão, sempre que existam GAL reconhecidos no âmbito do PRODERAM e PRORURAL, ou por outros Estados membros da União Europeia.\n\n> Alterado pelo/a Artigo 31.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27."
+  },
+  "6f4f6b5b8bd3468f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Critérios de selecção dos pedidos de apoio",
+   "in_force_from": "2011-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27."
+   ],
+   "markdown": "###### Artigo 10.º — Critérios de selecção dos pedidos de apoio\n\n1 - Os pedidos de apoio que cumpram os critérios de elegibilidade que lhe são aplicáveis são avaliados de acordo com a aplicação dos seguintes factores:\n\na) Objectivos estratégicos (OE), que valorizam a pertinência da cooperação em relação aos objectivos estratégicos definidos na ELD;\n\nb) Potencial de desenvolvimento de redes (PR), que valoriza o contributo da cooperação para integrar os agentes sócio-económicos em redes de actividades estratégicas locais, regionais e nacionais;\n\nc) Valorização do território de intervenção (VTI), que valoriza o contributo da cooperação para ampliar o impacte da ELD e a visibilidade do território de intervenção.\n\n2 - Os pedidos de apoio relativos à componente um são avaliados de acordo com a VGO calculada por aplicação dos factores referidos nas alíneas a) e b) do número anterior.\n\n3 - Os pedidos de apoio mencionados nos números anteriores são hierarquizados em função do resultado do cálculo da respectiva valia global da operação, abreviadamente designada por VGO, cuja fórmula consta do anexo iii, devendo obter uma pontuação mínima de 10 pontos.\n\n4 - A alteração dos critérios de selecção referidos nos números anteriores, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRODER, em www.proder.pt.\n\n> Alterado pelo/a Artigo 31.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27."
+  },
+  "a306d7b0edc72aab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Readmissão de pedidos de apoio",
+   "in_force_from": "2011-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 31.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27."
+   ],
+   "markdown": "###### Artigo 13.º — Readmissão de pedidos de apoio\n\nOs pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.\n\n> Alterado pelo/a Artigo 31.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27."
+  },
+  "66d1a99026242670": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Análise dos pedidos de pagamento",
+   "in_force_from": "2011-06-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09."
+   ],
+   "markdown": "###### Artigo 17.º — Análise dos pedidos de pagamento\n\n1 - O secretariado técnico analisa os pedidos de pagamento e emite o relatório de análise, no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, sendo a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.\n\n4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.\n\n5 - Para efeitos de pagamento ao beneficiário, o secretariado técnico comunica a validação da despesa ao IFAP, I. P.\n\n> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09."
+  },
+  "d5c6cac630549b7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Controlo",
+   "in_force_from": "2011-06-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09."
+   ],
+   "markdown": "###### Artigo 19.º — Controlo\n\n1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.\n\n2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.\n\n> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09."
+  },
+  "62fc34dbc79362da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Reduções e exclusões",
+   "in_force_from": "2011-06-14",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09."
+   ],
+   "markdown": "###### Artigo 20.º — Reduções e exclusões\n\nEm caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.\n\n> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09."
+  },
+  "acc04e260aec8c90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Disposição transitória",
+   "in_force_from": "2011-06-14",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27."
+   ],
+   "markdown": "###### Artigo 21.º — Disposição transitória\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27."
+  }
+ }
+}

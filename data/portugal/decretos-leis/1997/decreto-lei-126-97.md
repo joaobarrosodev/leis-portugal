@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-05-18'
+version_history:
+  file: decreto-lei-126-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-05-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-05-18'
+    amending: pt:dre:522843:por
+    amending_title: Decreto-Lei n.º 131/98
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Altera Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/126/1997/05/23/p/dre/pt/html
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:49:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 131/98. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-126-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,27 +154,35 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º
 
-É prorrogado, pelo prazo máximo de um ano a contar da data da entrada em vigor do presente diploma, o período de suspensão da vigência do [Decreto-Lei n.º 232/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1995-562271), de 12 de Setembro, determinado pelo artigo 1.º do [Decreto-Lei n.º 129/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1996-405312), de 12 de Agosto.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13.
 
 ###### Artigo 2.º
 
-1 - A aplicação do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 232/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1995-562271), de 12 de Setembro, bem como as matérias relativas à transferência da gestão do Hospital do Conde de Ferreira serão objecto de protocolo a celebrar entre o Ministério da Saúde e a mesa da Santa Casa da Misericórdia do Porto, o qual estabelecerá as condições do processo de transição.
+(Revogado.)
 
-2 - O processo de transição a que se refere o número anterior deve estar concluído até 31 de Dezembro de 1997.
+> Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13.
 
 ###### Artigo 3.º
 
 1 - É garantida a transição do pessoal a que se refere o n.º 2 do artigo 3.º do [Decreto-Lei n.º 232/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/232-1995-562271), de 12 de Setembro, para os estabelecimentos hospitalares e serviços de saúde do âmbito da Sub-Região de Saúde do Porto, em função das necessidades dos serviços e da opção dos funcionários e agentes.
 
-2 - A transição a que se refere o número anterior faz-se nos termos da lei, com manutenção da situação jurídico-funcional dos funcionário ou agentes, sendo os quadros dos serviços que não disponham de vagas automaticamente aumentados dos lugares necessários à integração de funcionários, os quais serão a extinguir à medida que vagarem.
+2 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13.
 
 ###### Artigo 4.º
 
-Mantêm-se válidos os concursos abertos para lugares do quadro de pessoal do Hospital do Conde de Ferreira constante da [Portaria n.º 637/80](https://diariodarepublica.pt/dr/detalhe/portaria/637-1980-460850), de 16 de Setembro, com as alterações subsequentes, que se encontrem pendentes à data da entrada em vigor do presente diploma.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13.
 
 ###### Artigo 5.º
 
-O presente diploma produz efeitos desde 1 de Janeiro de 1997.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 131/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1998-522843), publicado em 1998-05-13.
 
 Visto e aprovado em Conselho de Ministros de 20 de Março de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Maria de Belém Roseira Martins Coelho Henriques de Pina - Jorge Paulo Sacadura Almeida Coelho.
 

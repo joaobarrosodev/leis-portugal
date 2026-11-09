@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1961-01-01'
+version_history:
+  file: decreto-42956.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-04-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1961-01-01'
+    amending: pt:dre:514185:por
+    amending_title: Decreto n.º 43340
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:17:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 43340. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1960/decreto-42956.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,15 +120,21 @@ Visto o disposto no n.º I, alínea d), e no n.º IV, alínea a), da base X da L
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º O comando do Corpo de Polícia de Segurança Pública da província de Macau será constituído pelos seguintes oficiais do quadro permanente do exército metropolitano, nomeados em comissão civil:
+###### Artigo 1.º
 
-1 comandante (major ou capitão);
+O comando do Corpo da Polícia de Segurança Pública da província de Macau será constituído pelos seguintes oficiais do exército metropolitano:
 
-4 adjuntos (um capitão e três subalternos);
+1 de comandante (major ou capitão do quadro permanente);
 
-os quais, embora enquadrados, para efeitos de categoria civil, nos grupos das letras, respectivamente, E e F dos mapas I e X anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, terão os vencimentos que na província corresponderem às suas patentes.
+4 adjuntos (um capitão e três subalternos do quadro permanente ou do quadro de complemento).
 
-Art. 2.º Os actuais chefes de secção do mesmo Corpo de Polícia passam a ter a designação de comissários, sendo-lhes atribuída a categoria da letra L dos mapas referidos no artigo anterior.
+§ único. Os oficiais de que trata o corpo deste arigo, embora enquadrados, e para efeitos de categoria civil, respectivamente, nos grupos E e F dos mapas I e X anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, terão os vencimentos que na província corresponderem às suas patentes.
+
+> Alterado pelo/a [Decreto n.º 43340](https://diariodarepublica.pt/dr/detalhe/decreto/43340-1960-514185), publicado em 1960-11-21.
+
+###### Artigo 2.º
+
+Os actuais chefes de secção do mesmo Corpo de Polícia passam a ter a designação de comissários, sendo-lhes atribuída a categoria da letra L dos mapas referidos no artigo anterior.
 
 Publique-se e cumpra-se como nele se contém.
 

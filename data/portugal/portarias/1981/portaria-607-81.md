@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-07-25'
+version_history:
+  file: portaria-607-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-07-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-07-25'
+    amending: pt:dre:386030:por
+    amending_title: Portaria n.º 482/84
+    changes:
+    - Altera Artigo 69.º
+    - Altera Artigo 72.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:50:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 482/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-607-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,11 +134,17 @@ REGULAMENTO DE ADMISSÃO DE ALUNOS À ACADEMIA MILITAR
 
 ### CAPÍTULO I — Abertura do concurso
 
-Artigo 1.º Anualmente, com base no número de vagas estabelecidas nos termos do artigo 55.º do [Decreto n.º 678/76](https://diariodarepublica.pt/dr/detalhe/decreto/678-1976-408727), de 1 de Setembro, a Academia Militar promove a abertura do concurso para a admissão de alunos.
+###### Artigo 1.º
 
-Art. 2.º Para a abertura do concurso, a Academia Militar faz publicar anúncios nos meios de comunicação social de maior circulação e difusão, a ter lugar na altura considerada mais conveniente.
+Anualmente, com base no número de vagas estabelecidas nos termos do artigo 55.º do [Decreto n.º 678/76](https://diariodarepublica.pt/dr/detalhe/decreto/678-1976-408727), de 1 de Setembro, a Academia Militar promove a abertura do concurso para a admissão de alunos.
 
-Art. 3.º Do anúncio constará obrigatoriamente:
+###### Artigo 2.º
+
+Para a abertura do concurso, a Academia Militar faz publicar anúncios nos meios de comunicação social de maior circulação e difusão, a ter lugar na altura considerada mais conveniente.
+
+###### Artigo 3.º
+
+Do anúncio constará obrigatoriamente:
 
 a) Indicação dos cursos a que se destina o concurso;
 
@@ -132,11 +154,15 @@ c) Forma e prazos em que o concurso de admissão se irá processar;
 
 d) Outros elementos que se julguem necessários ao completo esclarecimento dos interessados.
 
-Art. 4.º A abertura do concurso é referida ao dia que for fixado para início da inscrição para o concurso de admissão.
+###### Artigo 4.º
+
+A abertura do concurso é referida ao dia que for fixado para início da inscrição para o concurso de admissão.
 
 ### CAPÍTULO II — Inscrição para o concurso de admissão
 
-Art. 5.º Os candidatos civis devem apresentar os seguintes documentos:
+###### Artigo 5.º
+
+Os candidatos civis devem apresentar os seguintes documentos:
 
 a) Requerimento, em papel selado, dirigido ao comandante da Academia Militar, pedindo a sua inscrição no concurso, no qual deve constar o seguinte:
 
@@ -164,7 +190,9 @@ f) Declaração de nacionalidade portuguesa dos pais do candidato quando adquiri
 
 g) Questionário e termo de responsabilidade em impressos fornecidos pela Academia Militar e preenchidos pelo próprio candidato.
 
-Art. 6.º Os candidatos militares devem apresentar os seguintes documentos:
+###### Artigo 6.º
+
+Os candidatos militares devem apresentar os seguintes documentos:
 
 a) Para inscrição no concurso:
 
@@ -178,29 +206,43 @@ b) Para obtenção da autorização do Chefe do Estado-Maior do Exército:
 
 2) Documento comprovativo do parecer favorável do Chefe do Estado-Maior da Força Aérea, no caso de o candidato pertencer a este ramo das forças armadas.
 
-Art. 7.º Os candidatos podem juntar aos documentos referidos nos artigos 5.º e 6.º outros que julguem do seu interesse.
+###### Artigo 7.º
 
-Art. 8.º Cada unidade, estabelecimento militar ou departamento junta obrigatoriamente ao documento mencionado na alínea b) do artigo 6.º uma informação confidencial em impresso fornecido pela Academia Militar respeitante ao candidato militar que lhe pertencer por nele prestar serviço ou por nele estar colocado (se se encontrar na disponibilidade).
+Os candidatos podem juntar aos documentos referidos nos artigos 5.º e 6.º outros que julguem do seu interesse.
 
-Art. 9.º Os documentos mencionados no artigo 5.º devem ser entregues ou directamente na Direcção de Instrução da Academia Militar ou enviados pelo correio, em carta registada com aviso de recepção, de forma a darem entrada dentro do prazo estabelecido.
+###### Artigo 8.º
 
-Art. 10.º - 1 - Os candidatos militares do Exército, quer na efectividade de serviço ou na prestação de serviço militar, quer na disponibilidade, fazem entrega de todos os documentos mencionados no artigo 6.º na unidade, estabelecimento militar ou departamento onde prestam serviço ou onde estão colocados (se se encontrarem na disponibilidade), que lhes juntam a informação mencionada no artigo 8.º e os remetem ao quartel-general de que dependem.
+Cada unidade, estabelecimento militar ou departamento junta obrigatoriamente ao documento mencionado na alínea b) do artigo 6.º uma informação confidencial em impresso fornecido pela Academia Militar respeitante ao candidato militar que lhe pertencer por nele prestar serviço ou por nele estar colocado (se se encontrar na disponibilidade).
+
+###### Artigo 9.º
+
+Os documentos mencionados no artigo 5.º devem ser entregues ou directamente na Direcção de Instrução da Academia Militar ou enviados pelo correio, em carta registada com aviso de recepção, de forma a darem entrada dentro do prazo estabelecido.
+
+###### Artigo 10.º
+
+1 - Os candidatos militares do Exército, quer na efectividade de serviço ou na prestação de serviço militar, quer na disponibilidade, fazem entrega de todos os documentos mencionados no artigo 6.º na unidade, estabelecimento militar ou departamento onde prestam serviço ou onde estão colocados (se se encontrarem na disponibilidade), que lhes juntam a informação mencionada no artigo 8.º e os remetem ao quartel-general de que dependem.
 
 2 - O quartel-general completa a informação confidencial e envia os documentos à Academia Militar, de forma a entrarem dentro do prazo estabelecido.
 
 3 - Os procedimentos referidos nos n.os 1 e 2 são idênticos para os candidatos da Força Aérea, devendo os documentos transitar pelo Estado-Maior da Força Aérea para efeitos do disposto na alínea e) do artigo 62.º do [Decreto n.º 678/76](https://diariodarepublica.pt/dr/detalhe/decreto/678-1976-408727), de 1 de Setembro.
 
-Art. 11.º - 1 - O comandante da Academia Militar pode autorizar que alguns documentos sejam aceites depois da data estabelecida para encerramento do concurso quando reconheça impossibilidade de os candidatos os obterem a tempo, prazo que nunca irá além da data do começo das aulas.
+###### Artigo 11.º
+
+1 - O comandante da Academia Militar pode autorizar que alguns documentos sejam aceites depois da data estabelecida para encerramento do concurso quando reconheça impossibilidade de os candidatos os obterem a tempo, prazo que nunca irá além da data do começo das aulas.
 
 2 - A não entrega no prazo estabelecido implica para o candidato a não admissão na Academia Militar, mesmo que tenha ficado apto no exame de admissão e sido seleccionado.
 
-Art. 12.º - 1 - A documentação apresentada pelos candidatos militares e civis só é válida para o concurso a que respeita.
+###### Artigo 12.º
+
+1 - A documentação apresentada pelos candidatos militares e civis só é válida para o concurso a que respeita.
 
 2 - Os candidatos não admitidos podem voltar a concorrer noutro ano, desde que reúnam as condições necessárias para esse efeito e não se encontrem abrangidos pela alínea c) do artigo 41.º
 
 ### CAPÍTULO III — Operações do concurso
 
-Art. 13.º - 1 - A apreciação dos candidatos aos cursos da Academia Militar é feita por meio das seguintes operações:
+###### Artigo 13.º
+
+1 - A apreciação dos candidatos aos cursos da Academia Militar é feita por meio das seguintes operações:
 
 a) Organização e análise de processos;
 
@@ -228,33 +270,49 @@ b) 2.ª fase, que corresponde à inspecção médica;
 
 c) 3.ª fase, que abrange as provas referidas em 4), 5) e 6) da alínea b) do número anterior.
 
-Art. 14.º A 1.ª e a 2.ª fases referidas no n.º 2 do artigo anterior precedem obrigatoriamente o início do curso geral de milicianos, sendo a prova de aptidão física e a prova psicotécnica (2.ª parte) realizadas, em princípio e por esta ordem, durante o referido curso.
+###### Artigo 14.º
 
-Art. 15.º - 1 - Os candidatos oriundos directamente dos cursos do Colégio Militar e do Instituto Militar dos Pupilos do Exército que tiverem obtido a classificação final de Bom ou superior (média final igual ou superior a 14 valores) nos cursos daqueles estabelecimentos que conferirem a habilitação literária exigida para a admissão à Academia Militar, são dispensados da prova de aptidão cultural se esta tiver lugar para os restantes candidatos possuidores de habilitação igual ou equivalente.
+A 1.ª e a 2.ª fases referidas no n.º 2 do artigo anterior precedem obrigatoriamente o início do curso geral de milicianos, sendo a prova de aptidão física e a prova psicotécnica (2.ª parte) realizadas, em princípio e por esta ordem, durante o referido curso.
+
+###### Artigo 15.º
+
+1 - Os candidatos oriundos directamente dos cursos do Colégio Militar e do Instituto Militar dos Pupilos do Exército que tiverem obtido a classificação final de Bom ou superior (média final igual ou superior a 14 valores) nos cursos daqueles estabelecimentos que conferirem a habilitação literária exigida para a admissão à Academia Militar, são dispensados da prova de aptidão cultural se esta tiver lugar para os restantes candidatos possuidores de habilitação igual ou equivalente.
 
 2 - Os candidatos referidos no número anterior são submetidos às demais provas do exame de admissão, incluindo a participação no curso geral de milicianos.
 
-Art. 16.º Normalmente, o exame de admissão tem lugar na Academia Militar.
+###### Artigo 16.º
+
+Normalmente, o exame de admissão tem lugar na Academia Militar.
 
 Todavia, quando for julgado conveniente, pode o Chefe do Estado-Maior do Exército autorizar, mediante proposta do comandante da Academia Militar, a realização de todas as provas ou de algumas delas noutros locais em que existam os meios indispensáveis, estabelecendo os procedimentos a ser adoptados.
 
-Art. 17.º - 1 - Os candidatos podem desistir em qualquer altura do concurso mediante declaração por escrito, sendo desde logo excluídos e averbando-se o facto nos registos e processos.
+###### Artigo 17.º
+
+1 - Os candidatos podem desistir em qualquer altura do concurso mediante declaração por escrito, sendo desde logo excluídos e averbando-se o facto nos registos e processos.
 
 2 - Os candidatos que usarem da faculdade do número anterior durante a frequência do curso geral de milicianos são mandados apresentar na unidade mais próxima das respectivas residências, entrando de licença registada e ficando à disposição da repartição de recrutamento, sem prejuízo da possibilidade de usufruírem de adiamento para estudo, nos termos da lei.
 
-Art. 18.º - 1 - Os candidatos convocados para exame de admissão devem comparecer com pontualidade nos locais que lhes sejam fixados, sendo sempre portadores do bilhete de identidade civil ou militar, conforme os casos.
+###### Artigo 18.º
+
+1 - Os candidatos convocados para exame de admissão devem comparecer com pontualidade nos locais que lhes sejam fixados, sendo sempre portadores do bilhete de identidade civil ou militar, conforme os casos.
 
 2 - O não cumprimento destas disposições implica exclusão do concurso, averbando-se o facto nos registos e processos.
 
-Art. 19.º - 1 - As provas de admissão de alunos à Academia Militar não são passíveis de qualquer equivalência às que são exigidas para ingresso noutros estabelecimentos de ensino.
+###### Artigo 19.º
+
+1 - As provas de admissão de alunos à Academia Militar não são passíveis de qualquer equivalência às que são exigidas para ingresso noutros estabelecimentos de ensino.
 
 2 - Os resultados obtidos na inspecção médica não podem ser utilizados para outros fins.
 
-Art. 20.º Com excepção dos candidatos residentes em Lisboa ou nos seus arredores imediatos, a Academia Militar pode, na medida do possível, facultar nas suas instalações o alojamento e a alimentação.
+###### Artigo 20.º
+
+Com excepção dos candidatos residentes em Lisboa ou nos seus arredores imediatos, a Academia Militar pode, na medida do possível, facultar nas suas instalações o alojamento e a alimentação.
 
 Caso tal procedimento não tenha viabilidade, o alojamento, alimentação e transporte em Lisboa ficam a cargo do candidato.
 
-Art. 21.º - 1 - Com o objectivo de realizar as operações do concurso, é nomeada anualmente, por despacho do comandante da Academia Militar, uma comissão de recrutamento e admissão constituída por:
+###### Artigo 21.º
+
+1 - Com o objectivo de realizar as operações do concurso, é nomeada anualmente, por despacho do comandante da Academia Militar, uma comissão de recrutamento e admissão constituída por:
 
 a) Presidente:
 
@@ -312,11 +370,17 @@ i) Elaborar um relatório final.
 
 ### CAPÍTULO IV — Organização e análise de processos
 
-Art. 22.º Para cada candidato é organizado um processo de admissão constituído pelos documentos apresentados, a que é atribuído um número de ordem que, juntamente com o nome, passará a identificar o candidato.
+###### Artigo 22.º
 
-Art. 23.º Conforme os processos vão sendo organizados, são analisados pelo grupo de análise de processos no sentido de ser verificado se satisfazem as exigências processuais e as condições gerais e especiais.
+Para cada candidato é organizado um processo de admissão constituído pelos documentos apresentados, a que é atribuído um número de ordem que, juntamente com o nome, passará a identificar o candidato.
 
-Art. 24.º - 1 - Não são considerados os processos:
+###### Artigo 23.º
+
+Conforme os processos vão sendo organizados, são analisados pelo grupo de análise de processos no sentido de ser verificado se satisfazem as exigências processuais e as condições gerais e especiais.
+
+###### Artigo 24.º
+
+1 - Não são considerados os processos:
 
 a) Que estejam incompletos, salvo nos casos considerados neste diploma;
 
@@ -326,19 +390,29 @@ c) Em que se notem discrepâncias de dados ou rasuras e emendas não ressalvadas
 
 2 - Os processos nestas condições são arquivados na Academia Militar durante o período do concurso e, posteriormente, devolvidos aos remetentes.
 
-Art. 25.º Os processos dos candidatos civis, depois de analisados e informados, são submetidos a despacho do comandante da Academia Militar para efeitos de decisão final.
+###### Artigo 25.º
 
-Art. 26.º Os processos dos candidatos militares, depois de analisados e informados, são submetidos a despacho do Chefe do Estado-Maior do Exército, com informação da Academia Militar, para efeitos do disposto na alínea e) do artigo 62.º do Decreto-Lei n.º 678/76, de 1 de Setembro.
+Os processos dos candidatos civis, depois de analisados e informados, são submetidos a despacho do comandante da Academia Militar para efeitos de decisão final.
 
-Art. 27.º - 1 - Após os processos terem sido objecto dos competentes despachos é fixada, em local acessível da Academia Militar, para conhecimento público dos interessados, uma relação geral dos candidatos, na qual se indicam os que continuam no concurso, assim como o motivo de exclusão dos restantes.
+###### Artigo 26.º
+
+Os processos dos candidatos militares, depois de analisados e informados, são submetidos a despacho do Chefe do Estado-Maior do Exército, com informação da Academia Militar, para efeitos do disposto na alínea e) do artigo 62.º do Decreto-Lei n.º 678/76, de 1 de Setembro.
+
+###### Artigo 27.º
+
+1 - Após os processos terem sido objecto dos competentes despachos é fixada, em local acessível da Academia Militar, para conhecimento público dos interessados, uma relação geral dos candidatos, na qual se indicam os que continuam no concurso, assim como o motivo de exclusão dos restantes.
 
 2 - A Academia Militar informa em conformidade as unidades, estabelecimentos militares e departamentos em relação aos seus militares.
 
 3 - Na relação geral indicada no n.º 1 são inscritos os resultados das operações do exame de admissão à medida que se vai processando a sua execução.
 
-Art. 28.º Além do procedimento referido no artigo anterior, a Academia Militar afixará, simultaneamente, o calendário do exame de admissão.
+###### Artigo 28.º
 
-Art. 29.º A comissão de recrutamento e admissão promove, em tempo oportuno, a convocação para o exame de admissão, enviando aos candidatos os seguintes documentos:
+Além do procedimento referido no artigo anterior, a Academia Militar afixará, simultaneamente, o calendário do exame de admissão.
+
+###### Artigo 29.º
+
+A comissão de recrutamento e admissão promove, em tempo oportuno, a convocação para o exame de admissão, enviando aos candidatos os seguintes documentos:
 
 a) Carta convocatória, indicando os locais, datas e horas da apresentação;
 
@@ -348,11 +422,17 @@ c) Impressos relativos aos seus antecedentes clínicos pessoais, hereditários e
 
 ### CAPÍTULO V — Inspecção médica
 
-Art. 30.º A verificação da robustez física dos candidatos é feita por intermédio da inspecção médica.
+###### Artigo 30.º
 
-Art. 31.º Para efeitos do disposto no artigo anterior é nomeada uma junta de inspecção médica constituída pelo comandante ou 2.º comandante do corpo de alunos, que preside, e pelo número de médicos de clínica geral e especialistas necessários para o seu funcionamento.
+A verificação da robustez física dos candidatos é feita por intermédio da inspecção médica.
 
-Art. 32.º Na constituição e funcionamento da junta de inspecção deverá ser observado o seguinte:
+###### Artigo 31.º
+
+Para efeitos do disposto no artigo anterior é nomeada uma junta de inspecção médica constituída pelo comandante ou 2.º comandante do corpo de alunos, que preside, e pelo número de médicos de clínica geral e especialistas necessários para o seu funcionamento.
+
+###### Artigo 32.º
+
+Na constituição e funcionamento da junta de inspecção deverá ser observado o seguinte:
 
 a) Sempre que possível são incluídos os médicos pertencentes ao serviço médico da Academia Militar;
 
@@ -360,13 +440,17 @@ b) Os médicos a nomear são, de preferência, militares e de patente não infer
 
 c) A nomeação dos médicos necessários é solicitada à Direcção do Serviço de Pessoal e à Direcção do Serviço de Saúde.
 
-Art. 33.º - 1 - A junta de inspecção é constituída com a antecedência de um mês em relação à data do início previsível dos seus trabalhos, devendo, durante esse período, definir os tipos de radiografias e a natureza das análises e outros exames a serem levados a efeito e promover os preparativos indispensáveis.
+###### Artigo 33.º
+
+1 - A junta de inspecção é constituída com a antecedência de um mês em relação à data do início previsível dos seus trabalhos, devendo, durante esse período, definir os tipos de radiografias e a natureza das análises e outros exames a serem levados a efeito e promover os preparativos indispensáveis.
 
 2 - Na execução das suas funções, deve observar rigorosamente o que se encontra estabelecido na tabela de inaptidão em vigor, aprovada por despacho do CEME, com especial relevância para a detecção de intoxicação por drogas ou outros meios afins.
 
 3 - A junta deve ter em atenção as declarações prestadas por cada candidato em impresso próprio a ser fornecido pela Academia Militar, relativas aos seus antecedentes clínicos pessoais, hereditários e familiares.
 
-Art. 34.º - 1 - A junta de inspecção estabelece, com a oportunidade requerida, os entendimentos necessários com o Hospital Militar Principal e com o Centro de Estudos Psicotécnicos do Exército, devendo observar-se o seguinte:
+###### Artigo 34.º
+
+1 - A junta de inspecção estabelece, com a oportunidade requerida, os entendimentos necessários com o Hospital Militar Principal e com o Centro de Estudos Psicotécnicos do Exército, devendo observar-se o seguinte:
 
 a) Tais entendimentos são processados no âmbito da comissão de recrutamento e admissão, constituída nos termos e para os efeitos consignados neste diploma;
 
@@ -374,11 +458,17 @@ b) Os exames, análises, radiografias e demais observações que tenham de ser r
 
 2 - O Hospital Militar Principal e o Centro de Estudos Psicotécnicos do Exército enviam os respectivos relatórios à junta de inspecção, confidencialmente, com a indicação do conteúdo no envelope exterior.
 
-Art. 35.º Os candidatos que usarem lentes de correcção de visão devem comparecer à inspecção munidos das mesmas.
+###### Artigo 35.º
 
-Art. 36.º A junta de inspecção identifica sempre os candidatos pelos respectivos bilhetes de identidade e, à medida que os vai examinando, preenche o respectivo registo de observação médica, em impresso próprio da Academia Militar, devendo, depois de terminado o exame, ser feita na presença do examinado a revisão dos dados obtidos.
+Os candidatos que usarem lentes de correcção de visão devem comparecer à inspecção munidos das mesmas.
 
-Art. 37.º - 1 - Aos candidatos que, embora comparecendo à inspecção médica, não possam ser inspeccionados por motivo de doença é marcada e averbada no livro de registo nova data de inspecção, nunca depois de dez dias após a primeira.
+###### Artigo 36.º
+
+A junta de inspecção identifica sempre os candidatos pelos respectivos bilhetes de identidade e, à medida que os vai examinando, preenche o respectivo registo de observação médica, em impresso próprio da Academia Militar, devendo, depois de terminado o exame, ser feita na presença do examinado a revisão dos dados obtidos.
+
+###### Artigo 37.º
+
+1 - Aos candidatos que, embora comparecendo à inspecção médica, não possam ser inspeccionados por motivo de doença é marcada e averbada no livro de registo nova data de inspecção, nunca depois de dez dias após a primeira.
 
 2 - Igual procedimento é adoptado para aqueles candidatos que, por idênticas razões, não compareçam na altura própria para o efeito.
 
@@ -386,9 +476,13 @@ Art. 37.º - 1 - Aos candidatos que, embora comparecendo à inspecção médica,
 
 4 - A falta na nova data marcada implica exclusão do concurso, qualquer que seja o motivo.
 
-Art. 38.º Quando a junta de inspecção encontrar razões para tal, podem os candidatos ser mandados observar nas clínicas especializadas no Hospital Militar Principal. A decisão da junta quanto à inspecção dos candidatos nestas condições é proferida após a recepção do relatório informativo das referidas clínicas.
+###### Artigo 38.º
 
-Art. 39.º - 1 - A junta de inspecção, fundamentada no exame de cada candidato, classifica-o em:
+Quando a junta de inspecção encontrar razões para tal, podem os candidatos ser mandados observar nas clínicas especializadas no Hospital Militar Principal. A decisão da junta quanto à inspecção dos candidatos nestas condições é proferida após a recepção do relatório informativo das referidas clínicas.
+
+###### Artigo 39.º
+
+1 - A junta de inspecção, fundamentada no exame de cada candidato, classifica-o em:
 
 Apto;
 
@@ -408,11 +502,15 @@ c) Inaptos temporariamente, os que, embora se preveja que pelo seu desenvolvimen
 
 d) Inaptos, os que não satisfazem, nem se preveja que possam vir a satisfazer, por terem insuficiências incuráveis ou que constituam índices morfológicos ou patológicos considerados inibitórios.
 
-Art. 40.º - 1 - Os candidatos que não concordem com a classificação que lhes é atribuída pela junta de inspecção podem, no prazo de quarenta e oito horas, requerer ao comandante da Academia Militar a sua apresentação a uma junta médica de recurso.
+###### Artigo 40.º
+
+1 - Os candidatos que não concordem com a classificação que lhes é atribuída pela junta de inspecção podem, no prazo de quarenta e oito horas, requerer ao comandante da Academia Militar a sua apresentação a uma junta médica de recurso.
 
 2 - A junta médica de recurso é nomeada pela Direcção do Serviço de Saúde, sendo a sua decisão homologada pelo Chefe do Estado-Maior do Exército.
 
-Art. 41.º Relativamente aos candidatos classificados nos termos do artigo 39.º deve ser observado o seguinte:
+###### Artigo 41.º
+
+Relativamente aos candidatos classificados nos termos do artigo 39.º deve ser observado o seguinte:
 
 a) Os aptos condicionalmente podem continuar no concurso até decisão em contrário;
 
@@ -420,35 +518,51 @@ b) Os inaptos temporariamente são excluídos do concurso, mas podem voltar a co
 
 c) Os inaptos são excluídos do concurso, não podendo voltar a concorrer à Academia Militar.
 
-Art. 42.º No registo de observação médica referido no artigo 36.º são mencionadas as razões justificativas da inaptidão temporária ou definitiva, bem como da aptidão condicional.
+###### Artigo 42.º
 
-Art. 43.º - 1 - Os resultados da inspecção, bem como um resumo dos motivos de inaptidão ou de aptidão condicional são inscritos num livro apropriado, em cada dia de inspecção, e assinados por todos os membros da junta.
+No registo de observação médica referido no artigo 36.º são mencionadas as razões justificativas da inaptidão temporária ou definitiva, bem como da aptidão condicional.
+
+###### Artigo 43.º
+
+1 - Os resultados da inspecção, bem como um resumo dos motivos de inaptidão ou de aptidão condicional são inscritos num livro apropriado, em cada dia de inspecção, e assinados por todos os membros da junta.
 
 2 - O secretário da comissão de recrutamento e admissão extrai deste livro os resultados correspondentes a cada dia de inspecção e inscreve-os na relação geral dos candidatos.
 
-Art. 44.º Os processos constituídos pelas radiografias e relatórios das análises, declaração e registo de observação médica relativos a cada candidato são arquivados na Direcção de Instrução da Academia Militar, onde se mantêm, até 31 de Dezembro do ano do concurso, os dos candidatos não admitidos e, durante a frequência de todo o curso e respectivo tirocínio, os dos admitidos.
+###### Artigo 44.º
+
+Os processos constituídos pelas radiografias e relatórios das análises, declaração e registo de observação médica relativos a cada candidato são arquivados na Direcção de Instrução da Academia Militar, onde se mantêm, até 31 de Dezembro do ano do concurso, os dos candidatos não admitidos e, durante a frequência de todo o curso e respectivo tirocínio, os dos admitidos.
 
 Findos estes prazos, são aqueles processos entregues no Arquivo Geral da Academia Militar.
 
 ### CAPÍTULO VI — Curso geral de milicianos
 
-Art. 45.º - 1 - O curso geral de milicianos constitui uma operação fundamental do concurso de admissão. Faculta à Academia Militar condições para uma mais apefeiçoada e rigorosa selecção dos candidatos e, a estes, permite um período de contacto com a vida castrense que melhor lhes fundamente a decisão de seguir a carreira das armas.
+###### Artigo 45.º
+
+1 - O curso geral de milicianos constitui uma operação fundamental do concurso de admissão. Faculta à Academia Militar condições para uma mais apefeiçoada e rigorosa selecção dos candidatos e, a estes, permite um período de contacto com a vida castrense que melhor lhes fundamente a decisão de seguir a carreira das armas.
 
 2 - O curso terá o programa e a duração horária estabelecidos no Plano Gera] de Instrução do Exército para o curso geral de milicianos destinado a militares do serviço militar obrigatório.
 
-Art. 46.º - 1 - A frequência do curso geral de milicianos é extensiva aos candidatos que para ele forem pré-seleccionados mediante os resultados obtidos no conjunto da 1.ª e da 2.ª fases referidas no n.º 2 do artigo 13.º, até ao quantitativo fixado pelo comandante da Academia Militar em função do número de vagas a preencher.
+###### Artigo 46.º
+
+1 - A frequência do curso geral de milicianos é extensiva aos candidatos que para ele forem pré-seleccionados mediante os resultados obtidos no conjunto da 1.ª e da 2.ª fases referidas no n.º 2 do artigo 13.º, até ao quantitativo fixado pelo comandante da Academia Militar em função do número de vagas a preencher.
 
 2 - Os candidatos civis são incorporados no Exército na data em que, em conformidade com as respectivas convocatórias, se apresentarem no local determinado para o funcionamento do curso.
 
 3 - A frequência do curso geral de milicianos com aproveitamento confere, independentemente de efectivo ingresso na Academia Militar, habilitação equivalente à do curso geral de milicianos destinado a militares em serviço militar obrigatório, sem prejuízo do disposto no artigo 50.º
 
-Art. 47.º A Academia Militar pode em qualquer altura do curso eliminar deste qualquer candidato, a quem serão aplicáveis os procedimentos referidos no n.º 2 do artigo 17.º
+###### Artigo 47.º
 
-Art. 48.º - 1 - Os candidatos militares, assim como aqueles a que se refere o artigo 15.º, poderão desempenhar as funções de monitores ou de auxiliares dos instrutores consoante os seus postos, especialidades e aptidões.
+A Academia Militar pode em qualquer altura do curso eliminar deste qualquer candidato, a quem serão aplicáveis os procedimentos referidos no n.º 2 do artigo 17.º
+
+###### Artigo 48.º
+
+1 - Os candidatos militares, assim como aqueles a que se refere o artigo 15.º, poderão desempenhar as funções de monitores ou de auxiliares dos instrutores consoante os seus postos, especialidades e aptidões.
 
 2 - O disposto no n.º 1 não obsta à respectiva participação, integrada ou não, com os demais candidatos, nas instruções, exercícios, provas ou tarefas constantes do curso, sempre que tal for julgado conveniente à sua apreciação.
 
-Art. 49.º - 1 - No final do curso geral de milicianos os candidatos são classificados da seguinte forma:
+###### Artigo 49.º
+
+1 - No final do curso geral de milicianos os candidatos são classificados da seguinte forma:
 
 a) Apto, com condições para admissão na Academia Militar;
 
@@ -460,7 +574,9 @@ c) Inapto.
 
 3 - As normas para a classificação são as constantes do PGIE.
 
-Art. 50.º Os candidatos que completem a frequência do curso geral de milicianos, perante as classificações nele obtidas e sem prejuízo da classificação final a cada um atribuída nos termos do artigo 73.º, poderão ter o seguinte destino:
+###### Artigo 50.º
+
+Os candidatos que completem a frequência do curso geral de milicianos, perante as classificações nele obtidas e sem prejuízo da classificação final a cada um atribuída nos termos do artigo 73.º, poderão ter o seguinte destino:
 
 1) Os candidatos nas condições da alínea a) do n.º 1 do artigo anterior:
 
@@ -474,9 +590,13 @@ b) Se não desejarem ingressar na Academia Militar, ou para tal não tiverem vag
 
 ### CAPÍTULO VII — Prova de aptidão física
 
-Art. 51.º A prova de aptidão física destina-se a avaliar a capacidade atlética e a aptidão física para a vida militar, sendo, por norma, realizada conforme o disposto no artigo 14.º
+###### Artigo 51.º
 
-Art. 52.º Para efeito do disposto no artigo anterior é nomeado um júri constituído por:
+A prova de aptidão física destina-se a avaliar a capacidade atlética e a aptidão física para a vida militar, sendo, por norma, realizada conforme o disposto no artigo 14.º
+
+###### Artigo 52.º
+
+Para efeito do disposto no artigo anterior é nomeado um júri constituído por:
 
 a) Presidente:
 
@@ -490,11 +610,15 @@ Um médico;
 
 Dois instrutores de Educação Física da Academia Militar.
 
-Art. 53.º - 1 - A natureza dos exercícios que constituem a prova de aptidão física, bem como as condições da sua execução, são as constantes da tabela em vigor, aprovada por despacho do CEME.
+###### Artigo 53.º
+
+1 - A natureza dos exercícios que constituem a prova de aptidão física, bem como as condições da sua execução, são as constantes da tabela em vigor, aprovada por despacho do CEME.
 
 2 - Depois da execução dos exercícios, os candidatos são observados pelo médico do júri, a fim de se ajuizar do seu estado físico e funcional.
 
-Art. 54.º - 1 - Aos candidatos que, embora comparecendo à prova de aptidão física, não a possam realizar por motivo de doença ou de acidente intercorrente, após serem examinados pelo médico do mesmo júri, é averbada no livro de registo nova data de realização da prova, nunca depois de dez dias após a primeira.
+###### Artigo 54.º
+
+1 - Aos candidatos que, embora comparecendo à prova de aptidão física, não a possam realizar por motivo de doença ou de acidente intercorrente, após serem examinados pelo médico do mesmo júri, é averbada no livro de registo nova data de realização da prova, nunca depois de dez dias após a primeira.
 
 2 - Igual procedimento é adoptado para aqueles candidatos que, por idênticas razões, não compareçam na altura própria para o efeito, assim como aqueles que no decorrer das provas sofram qualquer acidente que os impossibilite de prosseguir.
 
@@ -502,19 +626,29 @@ Art. 54.º - 1 - Aos candidatos que, embora comparecendo à prova de aptidão f�
 
 4 - O não reconhecimento da incapacidade ou falta na nova data implica exclusão do concurso, qualquer que seja o motivo.
 
-Art. 55.º A tabela referida no n.º 1 do artigo 53.º será proposta pela Academia Militar, ouvida a Direcção do Serviço de Educação Física do Exército e conterá obrigatoriamente exercícios de velocidade, força, destreza, decisão e resistência.
+###### Artigo 55.º
 
-Art. 56.º Antes de cada prova os candidatos são identificados pelo respectivo bilhete de identidade.
+A tabela referida no n.º 1 do artigo 53.º será proposta pela Academia Militar, ouvida a Direcção do Serviço de Educação Física do Exército e conterá obrigatoriamente exercícios de velocidade, força, destreza, decisão e resistência.
 
-Art. 57.º Antes do início da prova e dos diversos exercícios, os candidatos são elucidados pelo júri sobre as condições da sua realização e demais disposições regulamentares da prova e suas consequências.
+###### Artigo 56.º
 
-Art. 58.º - 1 - O júri, iniciadas as provas, lança em registo próprio os resultados alcançados por cada candidato com as necessárias observações para permitir a sua apreciação final, sendo esta expressa com a indicação de Apto ou Inapto.
+Antes de cada prova os candidatos são identificados pelo respectivo bilhete de identidade.
+
+###### Artigo 57.º
+
+Antes do início da prova e dos diversos exercícios, os candidatos são elucidados pelo júri sobre as condições da sua realização e demais disposições regulamentares da prova e suas consequências.
+
+###### Artigo 58.º
+
+1 - O júri, iniciadas as provas, lança em registo próprio os resultados alcançados por cada candidato com as necessárias observações para permitir a sua apreciação final, sendo esta expressa com a indicação de Apto ou Inapto.
 
 2 - O secretário da comissão de recrutamento e admissão extrai deste livro os resultados correspondentes a cada dia de provas e inscreve-os na relação geral dos candidatos.
 
 ### CAPÍTULO VIII — Prova de aptidão cultural
 
-Art. 59.º - 1 - A prova de aptidão cultural tem carácter excepcional e realizar-se-á apenas se o despacho do Chefe do Estado-Maior do Exército referido na alínea b) do n.º 1 do artigo 13.º assim o determinar e nas condições nele definidas.
+###### Artigo 59.º
+
+1 - A prova de aptidão cultural tem carácter excepcional e realizar-se-á apenas se o despacho do Chefe do Estado-Maior do Exército referido na alínea b) do n.º 1 do artigo 13.º assim o determinar e nas condições nele definidas.
 
 2 - A avaliação do nível de conhecimentos dos candidatos e da sua capacidade de aprender é feita por meio de prova de aptidão cultural, que funciona como exame extraordinário de avaliação de capacidade para acesso ao ensino dos cursos ministrados na Academia Militar, a qual compreende os seguintes exames:
 
@@ -544,7 +678,9 @@ b) Duas horas para Português e Geografia.
 
 5 - Os exames são realizados numa única chamada e em dois dias seguidos.
 
-Art. 60.º - 1 - Para preparação, condução e classificação dos exames são nomeados cinco júris, formados cada um por três professores, sendo:
+###### Artigo 60.º
+
+1 - Para preparação, condução e classificação dos exames são nomeados cinco júris, formados cada um por três professores, sendo:
 
 Um para Matemática;
 
@@ -556,45 +692,63 @@ Um para Português.
 
 2 - A coordenação da actividade destes júris compete ao director de Instrução ou ao seu delegado nomeado para o efeito.
 
-Art. 61.º Os cadernos onde se efectuam os exames são fornecidos pela Academia Militar e preparados por forma que a classificação a atribuir a cada um seja feita sob reserva de anonimato dos candidatos que os realizaram.
+###### Artigo 61.º
 
-Art. 62.º Antes do início de cada exame, os candidatos são identificados pelos seus bilhetes de identidade.
+Os cadernos onde se efectuam os exames são fornecidos pela Academia Militar e preparados por forma que a classificação a atribuir a cada um seja feita sob reserva de anonimato dos candidatos que os realizaram.
 
-Art. 63.º - 1 - Os candidatos que, por motivo de doença ou de acidente intercorrente, não possam comparecer no dia marcado para a realização dos exames terão de justificar, no prazo máximo de três dias úteis, a contar da data em que se verificou a falta, as razões do impedimento. Caso sejam atendidas as razões invocadas, será marcada uma nova data para efectuarem os exames, nunca depois de cinco dias úteis após a primeira data.
+###### Artigo 62.º
+
+Antes do início de cada exame, os candidatos são identificados pelos seus bilhetes de identidade.
+
+###### Artigo 63.º
+
+1 - Os candidatos que, por motivo de doença ou de acidente intercorrente, não possam comparecer no dia marcado para a realização dos exames terão de justificar, no prazo máximo de três dias úteis, a contar da data em que se verificou a falta, as razões do impedimento. Caso sejam atendidas as razões invocadas, será marcada uma nova data para efectuarem os exames, nunca depois de cinco dias úteis após a primeira data.
 
 2 - A falta na nova data marcada implica exclusão do concurso, qualquer que seja o motivo.
 
-Art. 64.º - 1 - Os júris apreciam as provas dos candidatos, dando-lhes uma classificação de 0 a 20, sempre sob a forma de números inteiros.
+###### Artigo 64.º
+
+1 - Os júris apreciam as provas dos candidatos, dando-lhes uma classificação de 0 a 20, sempre sob a forma de números inteiros.
 
 2 - O resultado do exame de Ciências Físico-Químicas corresponde à média aritmética dos resultados de Física e de Química.
 
 3 - As classificações são exaradas a tinta e autenticadas por todos os elementos do respectivo júri nas capas dos cadernos referidos no artigo 61.º, os quais, ainda sob reserva de anonimato dos candidatos que os realizaram, são entregues ao coordenador dos júris dos exames.
 
-Art. 65.º - 1 - A apreciação final da prova de aptidão cultural é traduzida nos resultados Satisfatório e Não satisfatório, determinados em função do mínimo exigido em cada um dos exames.
+###### Artigo 65.º
+
+1 - A apreciação final da prova de aptidão cultural é traduzida nos resultados Satisfatório e Não satisfatório, determinados em função do mínimo exigido em cada um dos exames.
 
 2 - Os candidatos que obtenham a designação de Não satisfatório são excluídos do concurso.
 
 3 - Da apreciação acima referida é elaborada acta em livro próprio.
 
-Art. 66.º Os resultados da prova de aptidão cultural são dados a conhecer aos candidatos por inscrição na relação indicada no artigo 27.º
+###### Artigo 66.º
+
+Os resultados da prova de aptidão cultural são dados a conhecer aos candidatos por inscrição na relação indicada no artigo 27.º
 
 ### CAPÍTULO IX — Prova psicotécnica
 
-Art. 67.º - 1 - A apreciação dos candidatos do ponto de vista vocacional e de capacidade para o desempenho das funções próprias do oficial do quadro permanente é feita por intermédio de um conjunto de provas psicológicas, cuja elaboração, aplicação e tratamento dos resultados competem ao Centro de Estudos Psicotécnicos do Exército (CEPE).
+###### Artigo 67.º
+
+1 - A apreciação dos candidatos do ponto de vista vocacional e de capacidade para o desempenho das funções próprias do oficial do quadro permanente é feita por intermédio de um conjunto de provas psicológicas, cuja elaboração, aplicação e tratamento dos resultados competem ao Centro de Estudos Psicotécnicos do Exército (CEPE).
 
 2 - Este conjunto de provas engloba uma bateria de testes de papel e lápis, provas de situação e entrevistas.
 
 3 - São também efectuadas, pelo CEPE, provas psicotécnicas de laboratório que, por enquanto, são utilizadas apenas como meios auxiliares do exame médico a que é sujeito o candidato, nomeadamente a nível da visão e da audição.
 
-Art. 68.º O processo de selecção a cargo do CEPE compreende duas provas distintas:
+###### Artigo 68.º
+
+O processo de selecção a cargo do CEPE compreende duas provas distintas:
 
 a) Prova psicotécnica (1.ª parte), que é constituída por uma bateria de testes de papel e lápis, a realizar na 1.ª fase do concurso com a finalidade de avaliação das capacidades intelectuais e cujo resultado é traduzido numa classificação individual de 0 a 20 valores;
 
 b) Prova psicotécnica (2.ª fase), que é constituída por um conjunto de provas de situação e entrevistas com o objectivo de avaliar aspectos motivacionais e de personalidade versando a adaptação à carreira militar, cujo resultado em conjugação com a prova psicotécnica (1.ª parte) se traduz na classificação dos candidatos em cinco grupos, conforme o disposto no n.º 1 do artigo 70.º
 
-Art. 69.º - 1 - A prova psicotécnica (1.ª parte) afecta a selecção dos candidatos na 1.ª fase do concurso conjuntamente com a avaliação da aptidão cultural, para efeito de ordenação dos candidatos, de acordo com o seguinte critério:
+###### Artigo 69.º
 
-a) Média resultante da conjugação das classificações obtidas no final do curso correspondente à habilitação literária exigida ou na prova de aptidão cultural com as classificações na prova psicotécnica (1.ª parte), para cujo cálculo as primeiras têm um coeficiente duplo das segundas;
+1 - A prova psicotécnica (1.ª parte) afecta a selecção dos candidatos na 1.ª fase do concurso conjuntamente com a avaliação da aptidão cultural, para efeito de ordenação dos candidatos, de acordo com o seguinte critério:
+
+a) Média resultante da conjugação das classificações obtidas no final do curso correspondente à habilitação literária exigida ou na prova de aptidão cultural com as classificações na prova psicotécnica (1.ª fase), para cujo cálculo as primeiras têm um coeficiente triplo das segundas;
 
 b) Em caso de igualdade, observar-se-ão as seguintes condições de preferência:
 
@@ -616,7 +770,11 @@ c) Caso a referida igualdade se verifique entre um candidato civil e um candidat
 
 2 - Passam à 2.ª fase do exame de admissão os primeiros candidatos da ordenação referida no n.º 1 do artigo anterior, num quantitativo a definir pelo comandante da Academia Militar, sob proposta do presidente da comissão de recrutamento e admissão.
 
-Art. 70.º - 1 - O Centro de Estudos Psicotécnicos do Exército traduzirá os resultados globais obtidos pelos candidatos nas suas provas psicotécnicas, distribuindo-os pelos grupos seguintes:
+> Alterado pelo/a [Portaria n.º 482/84](https://diariodarepublica.pt/dr/detalhe/portaria/482-1984-386030), publicado em 1984-07-20.
+
+###### Artigo 70.º
+
+1 - O Centro de Estudos Psicotécnicos do Exército traduzirá os resultados globais obtidos pelos candidatos nas suas provas psicotécnicas, distribuindo-os pelos grupos seguintes:
 
 Grupo 1 - Muito favorável (MF);
 
@@ -638,15 +796,19 @@ b) A admissão dos candidatos do grupo 5 será submetida a despacho do Chefe do 
 
 4 - As soluções preconizadas no n.º 3 deste artigo serão apenas de utilização excepcional e como via de recurso.
 
-Art. 71.º A selecção final será feita pela Academia Militar, tendo como base a ordenação obtida pelos candidatos após o curso geral de milicianos, segundo a fórmula estabelecida no n.º 2 do artigo 72.º para apuramento da classificação final e de acordo com o preconizado no artigo anterior.
+###### Artigo 71.º
+
+A selecção final será feita pela Academia Militar, tendo como base a ordenação obtida pelos candidatos após o curso geral de milicianos, segundo a fórmula estabelecida no n.º 2 do artigo 72.º para apuramento da classificação final e de acordo com o preconizado no artigo anterior.
 
 ### CAPÍTULO X — Preenchimento das vagas
 
-Art. 72.º - 1 - Para preenchimento das vagas abertas anualmente pelo Chefe do Estado-Maior do Exército, os candidatos são relacionados por ordem decrescente das respectivas classificações finais obtidas no exame de admissão à Academia Militar. No entanto, os candidatos que possuírem os cursos que conferem a habilitação literária exigida para a admissão à Academia Militar têm sempre preferência sobre os que concorrem mediante prova de aptidão cultural.
+###### Artigo 72.º
+
+1 - Para preenchimento das vagas abertas anualmente pelo Chefe do Estado-Maior do Exército, os candidatos são relacionados por ordem decrescente das respectivas classificações finais obtidas no exame de admissão à Academia Militar. No entanto, os candidatos que possuírem os cursos que conferem a habilitação literária exigida para a admissão à Academia Militar têm sempre preferência sobre os que concorrem mediante prova de aptidão cultural.
 
 2 - A classificação final de cada candidato é calculada através da seguinte fórmula, apurada até às centésimas:
 
-CF = ((2 A + B)/3 + C)/2
+CF = (((3A + B)/4) + C)/2
 
 em que:
 
@@ -656,46 +818,74 @@ A é a classificação obtida no final dos cursos que conferem a habilitação l
 
 B é a classificação obtida na prova psicotécnica (1.ª parte);
 
-C é a classificação obtida no curso geral milicianos.
+C é a classificação obtida no curso geral de milicianos.
 
-Art. 73.º Em caso de igualdade de classificação final, aplicam-se as condições de preferência discriminadas na alínea b) do artigo 69.º Se, porém, a igualdade se verificar entre candidato civil e candidato militar tem preferência o militar.
+> Alterado pelo/a [Portaria n.º 482/84](https://diariodarepublica.pt/dr/detalhe/portaria/482-1984-386030), publicado em 1984-07-20.
 
-Art. 74.º - 1 - Os candidatos oriundos directamente do Colégio Militar e do Instituto Militar dos Pupilos do Exército que tenham obtido a classificação final de Bom ou superior (média final igual ou superior a 14 valores) no 12.º ano de escolaridade e sejam aprovados no exame de admissão à Academia Militar são admitidos em primeiro lugar até à concorrência de 25% das vagas abertas.
+###### Artigo 73.º
+
+Em caso de igualdade de classificação final, aplicam-se as condições de preferência discriminadas na alínea b) do artigo 69.º Se, porém, a igualdade se verificar entre candidato civil e candidato militar tem preferência o militar.
+
+###### Artigo 74.º
+
+1 - Os candidatos oriundos directamente do Colégio Militar e do Instituto Militar dos Pupilos do Exército que tenham obtido a classificação final de Bom ou superior (média final igual ou superior a 14 valores) no 12.º ano de escolaridade e sejam aprovados no exame de admissão à Academia Militar são admitidos em primeiro lugar até à concorrência de 25% das vagas abertas.
 
 2 - O preenchimento das vagas referidas no n.º 1 deste artigo faz-se com base na ordenação dos candidatos em sentido decrescente das respectivas classificações finais do concurso, calculadas segundo a fórmula constante do n.º 2 do artigo 72.º
 
 3 - Os candidatos integrados na ordenação referida no número anterior e que eventualmente excedam o quantitativo correspondente a 25% das vagas concorrerão às restantes vagas em igualdade de condições com os demais candidatos.
 
-Art. 75.º O preenchimento das vagas que restam após o cumprimento do disposto no artigo 74.º é feito seleccionando os candidatos constantes da relação referida no artigo 72.º pela ordem dela decorrente.
+###### Artigo 75.º
 
-Art. 76.º A relação contendo os candidatos a admitir é presente a despacho do comandante da Academia Militar, que submeterá a despacho homologatório do Chefe de Estado-Maior do Exército.
+O preenchimento das vagas que restam após o cumprimento do disposto no artigo 74.º é feito seleccionando os candidatos constantes da relação referida no artigo 72.º pela ordem dela decorrente.
 
-Art. 77.º - 1 - Nas relações elaboradas nos termos do artigo 27.º são introduzidos os resultados finais com a indicação dos candidatos admitidos.
+###### Artigo 76.º
+
+A relação contendo os candidatos a admitir é presente a despacho do comandante da Academia Militar, que submeterá a despacho homologatório do Chefe de Estado-Maior do Exército.
+
+###### Artigo 77.º
+
+1 - Nas relações elaboradas nos termos do artigo 27.º são introduzidos os resultados finais com a indicação dos candidatos admitidos.
 
 2 - A Academia Militar informa em conformidade as unidades, estabelecimentos militares e departamentos em relação aos seus candidatos militares.
 
-Art. 78.º a comissão de recrutamento e admissão promove a convocação dos candidatos admitidos de forma análoga ao estabelecido nas alíneas a) e b) do artigo 29.º
+###### Artigo 78.º
+
+a comissão de recrutamento e admissão promove a convocação dos candidatos admitidos de forma análoga ao estabelecido nas alíneas a) e b) do artigo 29.º
 
 ## TÍTULO II — Ingresso de alunos na Academia Militar
 
-Art. 79.º - 1 - Os candidatos admitidos ingressam no corpo de alunos da Academia Militar.
+###### Artigo 79.º
+
+1 - Os candidatos admitidos ingressam no corpo de alunos da Academia Militar.
 
 2 - Quando se verifiquem desistências ou faltas, o comandante da Academia Militar pode promover o completamento das vagas convocando os candidatos seguintes no ordenamento referido no artigo 72.º
 
 3 - O ingresso é objecto de publicação em Ordem do Exército.
 
-Art. 80.º No acto de ingresso na Academia Militar os candidatos assinam uma declaração de compromisso referente aos regulamentos a que ficam sujeitos.
+###### Artigo 80.º
 
-Art. 81.º Os alunos passam a ser identificados pelo respectivo posto, número do corpo de alunos e nome, recebendo o respectivo bilhete de identidade, cujo uso é obrigatório.
+No acto de ingresso na Academia Militar os candidatos assinam uma declaração de compromisso referente aos regulamentos a que ficam sujeitos.
 
-Art. 82.º O curso constituído pelos alunos admitidos em cada ano tem como patrono um vulto nacional de relevo na nossa História, nomeadamente no campo do Exército, que, pelas suas virtudes, seja tomado como modelo.
+###### Artigo 81.º
+
+Os alunos passam a ser identificados pelo respectivo posto, número do corpo de alunos e nome, recebendo o respectivo bilhete de identidade, cujo uso é obrigatório.
+
+###### Artigo 82.º
+
+O curso constituído pelos alunos admitidos em cada ano tem como patrono um vulto nacional de relevo na nossa História, nomeadamente no campo do Exército, que, pelas suas virtudes, seja tomado como modelo.
 
 ## TÍTULO III — Disposições finais
 
-Art. 83.º O presente diploma revoga a [Portaria n.º 347/80](https://diariodarepublica.pt/dr/detalhe/portaria/347-1980-473686), de 24 de Junho.
+###### Artigo 83.º
 
-Art. 84.º Os casos omissos e as dúvidas suscitadas na aplicação deste Regulamento são resolvidos pelo comandante da Academia Militar, dentro dos princípios gerais aplicáveis que nele se contêm.
+O presente diploma revoga a [Portaria n.º 347/80](https://diariodarepublica.pt/dr/detalhe/portaria/347-1980-473686), de 24 de Junho.
 
-Art. 85.º Este diploma produz efeitos desde 31 de Maio de 1981.
+###### Artigo 84.º
+
+Os casos omissos e as dúvidas suscitadas na aplicação deste Regulamento são resolvidos pelo comandante da Academia Militar, dentro dos princípios gerais aplicáveis que nele se contêm.
+
+###### Artigo 85.º
+
+Este diploma produz efeitos desde 31 de Maio de 1981.
 
 Estado-Maior do Exército, 15 de Maio de 1981. - O Chefe do Estado-Maior do Exército, Amadeu Garcia dos Santos, general.

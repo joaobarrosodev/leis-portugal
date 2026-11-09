@@ -1,0 +1,1993 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:279796:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-12-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9f9ac664cce83403",
+    "23836370ae405d04",
+    "2672dd3021748e16",
+    "9cb5623e8b03acef",
+    "5247dbc9b1af549d",
+    "28efc46adf790005",
+    "85b01c9b68cb3c20",
+    "07c7daeb95d764e1",
+    "902cbaaaedd6d3d7",
+    "608e468422658eab",
+    "4f78596d48048b6d",
+    "abc91a48e6350ec5",
+    "e9def268ac6e0b98",
+    "e9b93d5080cd0129",
+    "410d68049c2bd9b2",
+    "d84e38441ff106a9",
+    "da76c42bc9b6ed21",
+    "50ce283f59181f93",
+    "256f0332de71cf6e",
+    "17b3a0eaa41ebada",
+    "d95f874f97fc5e6c",
+    "628244586f803dcb",
+    "9188c1bd91673766",
+    "b2d2c8b8796c70fa",
+    "48ffd95bf14f1dc6",
+    "f11e3f709d1e9750",
+    "bf5c7a414d590880",
+    "8ebf57a58a6b3cfa",
+    "c7d6dd189342fac1",
+    "fdafaf8f3ef7dc6c",
+    "e2a541bb5318e682",
+    "690390599f78f39a",
+    "08984129a8d9e5b3",
+    "38b29f8cc0e7117a",
+    "1c6c90ec60c4e651",
+    "25e9a5e4d15a49bd",
+    "b0b88618ee306f9b",
+    "8f1e3611e9ea1723",
+    "243bbec9c0b003ae",
+    "b25b32fd4f5afdab",
+    "20f4350158932e98",
+    "1c154f349929b41e",
+    "1dedd846e275a1b6",
+    "ffa6a012e6c99c21",
+    "6ad0ae9c7bd5ed9b",
+    "56d89f47c6e702ee",
+    "8fab57e16baa54c5",
+    "3ebdb66b340976e8",
+    "84146e35f02e5ab8",
+    "b8d074134d6678bf",
+    "cf11284ca9521a85",
+    "b0b506c98aa6b1be",
+    "2d1d963252a4db7f",
+    "ded8009714f8c223",
+    "9db71b1d40c9cd28",
+    "01132a23763af4da",
+    "341b1ac5c12d0d6f",
+    "d8839aafc7f4d9bd",
+    "1202bcd589015d66",
+    "95c326b1bd167d02",
+    "e633f05393643952",
+    "92f8686bf5d0a835",
+    "0efefa6c6f36d141",
+    "2b2f0a0531507740",
+    "6e45ec6209c18f6c",
+    "dbdb0e7187467e7c",
+    "3b7560cfca77903c",
+    "55b33f725ee0461e",
+    "4b45ab3b8d14623b",
+    "3f1ada58f7936c12",
+    "d32310877cf8e392",
+    "a5aefb6a77de229c",
+    "9fd0d3072f4c9d89",
+    "80e62fdf01b5418b",
+    "90ac39a8e2653797",
+    "faeaae6206eb954c",
+    "7df105892e78118a",
+    "2fcb381d6c8b4513",
+    "1efabeae0665cc0c",
+    "0d69275899ec176c",
+    "4d9e58af9b107eb6",
+    "f7c3ded93365a51b",
+    "d88c4119206289b3",
+    "7efb5b26f3540ad4",
+    "0acfbdd7e6c05241",
+    "94fa2ac0232d5960",
+    "71ca17cb342a8047",
+    "154b6b6303e6de74",
+    "8b99a2be734fdbf6",
+    "f65d0d03b196f00b",
+    "1c34c5a46fd570de",
+    "8ab1f89eb26c8cfa",
+    "1672d1f75b80936d",
+    "edf61c0437e07224",
+    "7adf3c8c341a68f1",
+    "fb04326a793061f6",
+    "b96f1d8ac8b3b7ad",
+    "7c8b5533fcbf7be7",
+    "5ad279e176fefa53",
+    "48d62cfbbf3babbc",
+    "d87614f0568176d8",
+    "f7a1b826a3552d7c",
+    "0fee5b1b040bf640",
+    "d1b49186a5f0643d",
+    "b81a8f0cef0372df",
+    "7e212e1c724ba98c",
+    "ebcef009c45467d3",
+    "1799f65cc573119c",
+    "70a31ee18afc409f",
+    "ed124bac999b8451",
+    "09142bdc1ed6b033",
+    "cfdab4264fd3d4a8",
+    "5cd537550f8f01ef",
+    "7f58b72eba4848ce",
+    "7384a93ccf607a8d",
+    "053ad8b64952f202",
+    "890b63aad229d98e",
+    "283604587bd9c5e4",
+    "426872a09c35f125",
+    "fb08f0adbe846f06",
+    "562b046fbe082a43"
+   ]
+  },
+  {
+   "date": "1980-09-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:464003:por",
+     "title": "Decreto-Lei n.º 348/80",
+     "published": "1980-09-03",
+     "dre_path": "/dr/detalhe/decreto-lei/348-1980-464003"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 34.º",
+    "Altera Artigo 46.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 66.º"
+   ],
+   "fragments": [
+    "9f9ac664cce83403",
+    "23836370ae405d04",
+    "d3fecea8e6d5986d",
+    "5681ac6a0b6d9061",
+    "2189f3bb104ffa19",
+    "ea6634b2b15003b0",
+    "2057f1af4dfaafc5",
+    "7f75e1c397aa1e1c",
+    "9ecea80540b4acb9",
+    "48f3a770e1f04f3e",
+    "f6ba709476eba77a",
+    "abc91a48e6350ec5",
+    "e9def268ac6e0b98",
+    "58715a60a21c5b73",
+    "e73985a806e85155",
+    "b9b8ffb99dd82062",
+    "da76c42bc9b6ed21",
+    "aceb1752c78aaf4e",
+    "89f3cdd9da08da40",
+    "b2730684142f6d48",
+    "6afc8d82031bb5bd",
+    "3b441cbdb9b793e6",
+    "b44c2a86aa6bc49c",
+    "9990ef0d4fed49f9",
+    "f936f33ddddc79a2",
+    "f11e3f709d1e9750",
+    "63ac79db9e3ddc38",
+    "8c69bfb5afa65b84",
+    "c524b919ae5e49a0",
+    "492e827df46b7f3a",
+    "58464ced4b660cab",
+    "50a3e7a1b2cbabc9",
+    "d8c6cab40cfc3347",
+    "05056ef715206190",
+    "3d4c2a1683054e10",
+    "984bd6963b97452e",
+    "20a08d12fb675aa3",
+    "9db34b78821c1cdc",
+    "ec04606eb5d6876e",
+    "0fde0c2d99c22945",
+    "56d3f07870013c8c",
+    "1c154f349929b41e",
+    "ea020c34376d163a",
+    "fde0e8d65e46594c",
+    "24477b34cd961b70",
+    "7d1b47c681028694",
+    "05e5d732f2075dc4",
+    "4c4d87548a08f431",
+    "092fd74a9e5970f6",
+    "2587be72dc579127",
+    "cf11284ca9521a85",
+    "b0b506c98aa6b1be",
+    "e08f68bc5f04e423",
+    "8f00179172068f94",
+    "9abe1dbb37c8be2e",
+    "de6d34be84ac4231",
+    "d88d6498ea28afd7",
+    "2e8e286cdb5bb122",
+    "1202bcd589015d66",
+    "95c326b1bd167d02",
+    "8052876821e0cb02",
+    "d531b4575b4f030b",
+    "0efefa6c6f36d141",
+    "9acfe0c5562ddd63",
+    "4df871e5dcdd2026",
+    "dbdb0e7187467e7c",
+    "61696e69dbf62d4a",
+    "d7090909f238f76c",
+    "4b45ab3b8d14623b",
+    "3f1ada58f7936c12",
+    "f913b9ea45614fc5",
+    "a5aefb6a77de229c",
+    "d09c5ff98fbd69e2",
+    "4ac7fb3258931823",
+    "90ac39a8e2653797",
+    "ad194d33b0e1b1ad",
+    "7df105892e78118a",
+    "e022ac88b034ef9c",
+    "1efabeae0665cc0c",
+    "ca9f577c12d4732d",
+    "0304543c4081c218",
+    "f7c3ded93365a51b",
+    "195f0d5509181b90",
+    "eff3bb72f8aad74b",
+    "0acfbdd7e6c05241",
+    "7ac2d5210d200fae",
+    "542366c57c81e26a",
+    "7845f28abf9e0adf",
+    "b6dcd354b2b6576a",
+    "f65d0d03b196f00b",
+    "b523db99c64ac39a",
+    "76d9e24b58f64b81",
+    "c7a671a45e18cc96",
+    "edf61c0437e07224",
+    "2034e62123855cd9",
+    "fb04326a793061f6",
+    "a545949a64c3054c",
+    "a6db5ca538106520",
+    "aa49e5b1c2d24d03",
+    "f43c6c0dc186b866",
+    "d87614f0568176d8",
+    "056810027636e247",
+    "0fee5b1b040bf640",
+    "e5a04634611a0e0c",
+    "0e8e3c7c1d67fdaa",
+    "7e212e1c724ba98c",
+    "b349e484ce68c3c6",
+    "1799f65cc573119c",
+    "94526a58f4e9eaed",
+    "ed124bac999b8451",
+    "66eff3e8c3f97faf",
+    "1346a608c18457a8",
+    "ba080f30dd972bdc",
+    "4c49ab721077dba8",
+    "0a1dd3efb6708728",
+    "217f44ea6190b243",
+    "89dbb4a6fbf1dc67",
+    "d510a25c1463a424",
+    "e4ea9b0e49da0e2c",
+    "104e6a2c5962c496",
+    "4fb12ca02d34a218"
+   ]
+  }
+ ],
+ "fragments": {
+  "9f9ac664cce83403": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Dezembro\n\nLei Orgânica dos Tribunais Judiciais\n\nNos termos da alínea d) do artigo 164.º e da alínea j) do artigo 167.º da Constituição, a Assembleia da República decreta:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "2672dd3021748e16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — (Definição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — (Definição)\n\nOs tribunais judiciais são Órgãos de Soberania com competência para administrar a justiça em nome do povo."
+  },
+  "9cb5623e8b03acef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — (Função jurisdicional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — (Função jurisdicional)\n\nCompete aos tribunais judiciais assegurar a defesa dos direitos e interesses legalmente protegidos, reprimir a violação da legalidade democrática e dirimir os conflitos de interesses públicos e privados."
+  },
+  "5247dbc9b1af549d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — (Independência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — (Independência)\n\n1. Os tribunais judiciais são independentes.\n\n2. A independência dos tribunais judiciais caracteriza-se pelo autogoverno da magistratura judicial, pela inamovibilidade e irresponsabilidade dos juízes e pela não sujeição destes a quaisquer ordens ou instruções, salvo o dever de acatamento das decisões proferidas em via de recurso pelos tribunais superiores."
+  },
+  "28efc46adf790005": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — (Defesa dos direitos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — (Defesa dos direitos)\n\n1. A todos é assegurado o acesso aos tribunais judiciais para defesa dos seus direitos, não podendo a justiça ser denegada por insuficiência de meios económicos.\n\n2. Lei especial regulará o acesso aos tribunais judiciais em caso de insuficiência de meios económicos."
+  },
+  "85b01c9b68cb3c20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — (Coadjuvação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — (Coadjuvação)\n\nNo exercício das suas funções, os tribunais judiciais têm direito à coadjuvação das outras autoridades."
+  },
+  "07c7daeb95d764e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — (Execução das decisões dos tribunais judiciais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — (Execução das decisões dos tribunais judiciais)\n\n1. As decisões do tribunais judiciais são obrigatórias para todas as entidades públicas e privadas e prevalecem sobre as de quaisquer outras autoridades.\n\n2. A lei de processo regula os termos da execução das decisões dos tribunais judiciais relativamente a qualquer autoridade e determina as sanções a aplicar aos responsáveis pela sua inexecução."
+  },
+  "902cbaaaedd6d3d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — (Audiências dos tribunais judiciais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — (Audiências dos tribunais judiciais)\n\nAs audiências dos tribunais judiciais são públicas, salvo quando o próprio tribunal decidir o contrário, em despacho fundamentado, para salvaguarda da dignidade das pessoas e da moral pública ou para garantir o seu normal funcionamento."
+  },
+  "608e468422658eab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — (Ano judicial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — (Ano judicial)\n\nO ano judicial corresponde ao ano civil."
+  },
+  "4f78596d48048b6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — (Férias judiciais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — (Férias judiciais)\n\n1. Nos tribunais judiciais há férias.\n\n2. As férias judiciais decorrem de 22 de Dezembro a 3 de Janeiro, do domingo de Ramos a segunda-feira de Páscoa e de 1 de Agosto a 30 de Setembro."
+  },
+  "abc91a48e6350ec5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Organização judicial e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Organização judicial e competência"
+  },
+  "e9def268ac6e0b98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Organização judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Organização judicial"
+  },
+  "e9b93d5080cd0129": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º — (Divisão judicial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º — (Divisão judicial)\n\n1. O território divide-se em distritos judiciais e estes em comarcas.\n\n2. As comarcas agrupam-se em círculos judiciais."
+  },
+  "410d68049c2bd9b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 11.º — (Categorias de tribunais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 11.º — (Categorias de tribunais)\n\n1. Há tribunais judiciais de 1.ª e 2.ª instância e o Supremo Tribunal de Justiça.\n\n2. Os tribunais judiciais de 2.ª instância denominam-se relações."
+  },
+  "d84e38441ff106a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 12.º — (Tribunais de 1.ª instância)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 12.º — (Tribunais de 1.ª instância)\n\n1. Os tribunais judiciais de 1.ª instância são, em regra, os de comarca.\n\n2. Nas freguesias pode haver tribunais de 1.ª instância denominados julgados de paz."
+  },
+  "da76c42bc9b6ed21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Competência"
+  },
+  "50ce283f59181f93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 13.º — (Extensão e limites da jurisdição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 13.º — (Extensão e limites da jurisdição)\n\n1. Na ordem interna, a competência jurisdicional distribui-se pelos diferentes tribunais judiciais segundo a matéria, a hierarquia, o valor e o território.\n\n2. A lei de processo fixa os factores de que depende a competência internacional dos tribunais judiciais."
+  },
+  "256f0332de71cf6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 14.º — (Competência material)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 14.º — (Competência material)\n\nAs causas que não sejam atribuídas a diferente jurisdição são da competência dos tribunais judiciais."
+  },
+  "17b3a0eaa41ebada": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 15.º — (Competência em razão da hierarquia)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 15.º — (Competência em razão da hierarquia)\n\nOs tribunais judiciais encontram-se hierarquizados para efeito de revisão das suas decisões."
+  },
+  "d95f874f97fc5e6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 16.º — (Competência em razão do valor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 16.º — (Competência em razão do valor)\n\nO Supremo Tribunal de Justiça conhece das causas cujo valor exceda a alçada das relações, e estas das causas cujo valor exceda a alçada dos tribunais de comarca."
+  },
+  "628244586f803dcb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 17.º — (Competência territorial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 17.º — (Competência territorial)\n\n1. O Supremo Tribunal de Justiça tem jurisdição em todo o território, as relações no respectivo distrito judicial e os tribunais de 1.ª instância na área das respectivas circunscrições.\n\n2. A lei de processo fixa os factores que determinam, em cada caso, o tribunal territorialmente competente."
+  },
+  "9188c1bd91673766": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 18.º — (Lei reguladora da competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 18.º — (Lei reguladora da competência)\n\n1. A competência fixa-se no momento em que a acção se propõe, sendo irrelevantes as modificações de facto que ocorram posteriormente.\n\n2. São igualmente irrelevantes as modificações de direito, excepto se for suprimido o órgão a que a causa estava afecta ou se lhe for atribuída competência de que inicialmente carecesse para o conhecimento da causa."
+  },
+  "b2d2c8b8796c70fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 19.º — (Proibição de desaforamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 19.º — (Proibição de desaforamento)\n\nNenhuma causa pode ser deslocada do tribunal competente para outro, salvo nos casos especialmente previstos na lei."
+  },
+  "48ffd95bf14f1dc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 20.º — (Alçadas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 20.º — (Alçadas)\n\n1. Em matéria cível, a alçada dos tribunais da relação é de 200000$00, e a dos tribunais de comarca, de 80000$00. Os julgados de paz não têm alçada.\n\n2. Em matéria criminal não há alçada, sem prejuízo das disposições processuais relativas à admissibilidade de recurso."
+  },
+  "f11e3f709d1e9750": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Supremo Tribunal de Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Supremo Tribunal de Justiça"
+  },
+  "bf5c7a414d590880": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 21.º — (Definição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 21.º — (Definição)\n\nO Supremo Tribunal de Justiça é o órgão superior da hierarquia dos tribunais judiciais."
+  },
+  "8ebf57a58a6b3cfa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 22.º — (Composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 22.º — (Composição)\n\n1. O Supremo Tribunal de Justiça compreende quatro secções especializadas: duas de jurisdição cível, uma de jurisdição criminal e uma de jurisdição social.\n\n2. O Supremo Tribunal de Justiça tem o quadro de juízes fixado no diploma regulamentar desta lei."
+  },
+  "c7d6dd189342fac1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 23.º — (Preenchimento das secções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 23.º — (Preenchimento das secções)\n\n1. Compete ao Conselho Superior da Magistratura indicar os juízes para as várias secções. Na designação tomar-se-á em conta o grau de especialização de cada juiz e a preferência que manifestar.\n\n2. O Conselho Superior da Magistratura pode autorizar a mudança de secção ou a permuta entre juízes de secções diferentes.\n\n3. Quando o relator mude de secção, mantém-se a sua competência e a dos seus adjuntos que já tenham tido visto para julgamento."
+  },
+  "fdafaf8f3ef7dc6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 24.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 24.º — (Funcionamento)\n\n1. O Supremo Tribunal de Justiça funciona, sob a direcção de um presidente, em plenário, por secções especializadas ou em reunião conjunta de secções.\n\n2. O plenário é constituído por todos os juízes das secções e só pode funcionar com a presença de, pelo menos, quatro quintos dos juízes em exercício.\n\n3. Os juízes tomam assento alternadamente à direita e à esquerda do presidente, segundo a ordem de antiguidade."
+  },
+  "e2a541bb5318e682": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 25.º — (Sessões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 25.º — (Sessões)\n\n1. As sessões têm lugar, ordinariamente, uma vez por semana e, extraordinariamente, quando o presidente o determinar.\n\n2. Quando for feriado o dia da sessão ordinária, esta realiza-se no dia útil imediatamente posterior."
+  },
+  "690390599f78f39a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 26.º — (Conferência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 26.º — (Conferência)\n\nÀ conferência só assistem os juízes que nela devam intervir."
+  },
+  "08984129a8d9e5b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 27.º — (Competência do plenário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 27.º — (Competência do plenário)\n\nCompete ao Supremo Tribunal de Justiça, funcionando em plenário:\n\na) Julgar o Presidente da República pelos crimes praticados no exercício das suas funções;\n\nb) Conferir a posse ao Presidente da República quando a Assembleia da República se encontrar dissolvida;\n\nc) Julgar da elegibilidade dos candidatos à Presidência da República;\n\nd) Julgar as acções propostas contra juízes do Supremo Tribunal de Justiça e das relações ou magistrados do Ministério Público que exerçam funções junto destes tribunais, por causa das suas funções;\n\ne) Julgar processos por crimes dolosos cometidos pelos magistrados referidos na alínea anterior;\n\nf) Uniformizar a jurisprudência nos termos da lei de processo;\n\ng) Conhecer dos conflitos de competência entre as secções;\n\nh) Julgar os recursos interpostos de deliberações do Conselho Superior da Magistratura;\n\ni) Exercer as demais atribuições conferidas por lei."
+  },
+  "38b29f8cc0e7117a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 28.º — (Distribuição de competência pelas secções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 28.º — (Distribuição de competência pelas secções)\n\nA distribuição de competência pelas secções do Supremo Tribunal de Justiça faz-se de harmonia com as seguintes regras:\n\na) As secções cíveis julgam as causas que não estejam atribuídas às outras secções;\n\nb) A secção criminal julga as causas crime;\n\nc) A secção de jurisdição social julga as causas referidas nos artigos 66.º e 67.º"
+  },
+  "1c6c90ec60c4e651": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 29.º — (Competência das secções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 29.º — (Competência das secções)\n\n1. Compete às secções do Supremo Tribunal de Justiça, conforme a sua especialização:\n\na) Julgar os recursos que não sejam da competência do plenário;\n\nb) Julgar os processos por crimes culposos e as contravenções cometidos pelos magistrados referidos na alínea d) do artigo 27.º;\n\nc) Conhecer dos conflitos de competência entre as relações, entre estas e os tribunais de 1.ª instância ou entre tribunais de 1.ª instância de diferentes distritos judiciais;\n\nd) Conhecer dos conflitos de jurisdição cuja apreciação não pertença a tribunal de conflitos;\n\ne) Julgar confissões, desistências ou transacções nas causas pendentes, bem como os incidentes nelas suscitados;\n\nf) Conceder a revisão de sentenças penais, decretar a anulação de penas inconciliáveis e suspender a execução das penas quando decretada a revisão;\n\ng) Exercer jurisdição em matéria de habeas corpus;\n\nh) Exercer as demais atribuições conferidas por lei.\n\n2. Os juízes da secção a que pertencer o relator são os competentes para julgamento segundo a ordem de precedência.\n\n3. Quando numa secção cível não seja possível obter o número de juízes exigido por lei para o exame do processo e decisão da causa, são chamados a intervir os juízes da outra secção, começando-se pelos imediatos ao juiz que tiver aposto o último visto, segundo a ordem de precedência, seguindo-se os da secção de jurisdição social. Quando a falta de juízes se der na secção criminal ou na secção de jurisdição social, são chamados, respectivamente, os juízes desta secção e os das secções cíveis."
+  },
+  "25e9a5e4d15a49bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 30.º — (Poderes de cognição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 30.º — (Poderes de cognição)\n\nFora dos casos previstos na lei, o Supremo Tribunal de Justiça apenas conhece de matéria de direito."
+  },
+  "b0b88618ee306f9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 31.º — (Eleição do presidente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 31.º — (Eleição do presidente)\n\n1. Os juízes que compõem o Supremo Tribunal de Justiça elegem, de entre si e por escrutínio secreto, o presidente do Tribunal.\n\n2. Será eleito o juiz que obtiver mais de metade dos votos validamente expressos. Se nenhum juiz obtiver esse número de votos, procede-se a segundo sufrágio, a que concorrem apenas os dois juízes mais votados.\n\n3. Em caso de empate, serão admitidos a subsequente sufrágio ou eleito, respectivamente, os juízes ou o juiz mais antigos."
+  },
+  "8f1e3611e9ea1723": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 32.º — (Exercício do cargo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 32.º — (Exercício do cargo)\n\n1. O cargo de presidente do Supremo Tribunal de Justiça é exercido por três anos, sendo permitida a reeleição consecutiva apenas uma vez.\n\n2. O presidente cessante mantém-se em funções até à tomada de posse do que o deva substituir."
+  },
+  "243bbec9c0b003ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 33.º — (Coadjuvação e substituição do presidente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 33.º — (Coadjuvação e substituição do presidente)\n\nO presidente do Supremo Tribunal de Justiça é coadjuvado e substituído por um vice-presidente."
+  },
+  "b25b32fd4f5afdab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 34.º — (Vice-presidente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 34.º — (Vice-presidente)\n\n1. A designação do vice-presidente do Supremo Tribunal de Justiça recai no juiz que tiver obtido o maior número de votos a seguir àquele que for eleito presidente. No caso de empate observar-se-á o disposto no n.º 3 do artigo 31.º\n\n2. Nas suas faltas e impedimentos, o vice-presidente é substituído pelo juiz mais antigo em exercício."
+  },
+  "20f4350158932e98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 35.º — (Competência do presidente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 35.º — (Competência do presidente)\n\nCompete ao presidente do Supremo Tribunal de Justiça:\n\na) Dirigir os trabalhos do Tribunal e presidir às conferências;\n\nb) Fixar o dia e a hora das sessões ordinárias e convocar as sessões extraordinárias;\n\nc) Apurar o vencido nas conferências;\n\nd) Votar sempre que a lei o determine, assinando nesse caso o acórdão;\n\ne) Dar posse aos juízes do Tribunal e aos presidentes das relações;\n\nf) Superintender nos serviços da secretaria;\n\ng) Exercer as demais atribuições que lhe forem conferidas por lei."
+  },
+  "1c154f349929b41e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Relações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Relações"
+  },
+  "1dedd846e275a1b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 36.º — (Tribunal de relação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 36.º — (Tribunal de relação)\n\nEm cada distrito judicial exerce jurisdição um tribunal de relação."
+  },
+  "ffa6a012e6c99c21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 37.º — (Composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 37.º — (Composição)\n\n1. As relações compreendem secções especializadas de jurisdição cível, criminal e social.\n\n2. As relações têm o quadro de juízes fixado no diploma regulamentar desta lei."
+  },
+  "6ad0ae9c7bd5ed9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 38.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 38.º — (Funcionamento)\n\n1. As relações funcionam sob a direcção de um presidente, em plenário, ou por secções especializadas.\n\n2. O plenário é constituído por todos os juízes que compõem as secções e só pode funcionar com a presença de, pelo menos, quatro quintos dos juízes em exercício."
+  },
+  "56d89f47c6e702ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 39.º — (Competência do plenário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 39.º — (Competência do plenário)\n\nCompete às relações, funcionando em plenário:\n\na) Julgar as acções propostas contra juízes de direito, procuradores da República e delegados do procurador da República, por causa das suas funções;\n\nb) Julgar processos por crimes dolosos cometidos pelos magistrados referidos na alínea anterior;\n\nc) Conhecer dos conflitos de competência entre as secções;\n\nd) Exercer as demais atribuições conferidas por lei."
+  },
+  "8fab57e16baa54c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 40.º — (Competência das secções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 40.º — (Competência das secções)\n\nCompete às secções, conforme a sua especialização:\n\na) Julgar recursos;\n\nb) Julgar processos por crimes culposos e contravenções cometidos pelos magistrados referidos na alínea a) do artigo anterior;\n\nc) Conhecer dos conflitos de competência entre juízes de direito do respectivo distrito judicial;\n\nd) Julgar confissões, desistências ou transacções nas causas que estejam pendentes, bem como os incidentes nelas suscitados;\n\ne) Rever sentenças estrangeiras;\n\nf) Conceder o exequatur às decisões proferidas pelos tribunais eclesiásticos;\n\ng) Exercer as demais atribuições conferidas por lei."
+  },
+  "3ebdb66b340976e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 41.º — (Substituição dos presidentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 41.º — (Substituição dos presidentes)\n\nNas suas faltas e impedimentos, os presidentes das relações são substituídas pelos juízes mais antigos em exercício."
+  },
+  "84146e35f02e5ab8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 42.º — (Competência dos presidentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 42.º — (Competência dos presidentes)\n\n1. Os presidentes das relações têm competência idêntica à prevista nas alíneas a) a d), f) e g) do artigo 35.º\n\n2. Compete ainda aos presidentes das relações dar posse aos juízes do respectivo tribunal e aos juízes de direito que exerçam funções na sede do distrito judicial."
+  },
+  "b8d074134d6678bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 43.º — (Disposições subsidiárias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 43.º — (Disposições subsidiárias)\n\nÉ aplicável às relações o disposto no artigo 23.º, no n.º 3 do artigo 24.º e nos artigos 25.º, 26.º, 28.º, 31.º e 32.º"
+  },
+  "cf11284ca9521a85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Tribunais de comarca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Tribunais de comarca"
+  },
+  "b0b506c98aa6b1be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições comuns e gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições comuns e gerais"
+  },
+  "2d1d963252a4db7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 44.º — (Tribunais de comarca)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 44.º — (Tribunais de comarca)\n\n1. Em cada comarca há um tribunal de comarca.\n\n2. Quando o volume ou a natureza do serviço o exijam, podem existir na mesma comarca vários tribunais."
+  },
+  "ded8009714f8c223": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 45.º — (Espécies de tribunais de comarca)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 45.º — (Espécies de tribunais de comarca)\n\n1. Os tribunais de comarca são de competência genérica, salvo disposição em contrário.\n\n2. Pode haver tribunais ou juízos de competência especializada e de competência específica.\n\n3. Nos tribunais ou juízos de competência específica, a jurisdição é limitada em função da forma de processo."
+  },
+  "9db71b1d40c9cd28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 46.º — (Desdobramento dos tribunais de comarca)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 46.º — (Desdobramento dos tribunais de comarca)\n\n1. Os tribunais de comarca podem desdobrar-se em juízos.\n\n2. Em cada tribunal ou juízo exerce funções um juiz de direito.\n\n3. Nos tribunais com competência criminal, as funções de instrução e as de pronúncia e julgamento pertencem a juízes de direito diferentes.\n\n4. Excepcionalmente, o mesmo juiz pode exercer funções em mais do que um tribunal, ainda que de comarcas diferentes."
+  },
+  "01132a23763af4da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 47.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 47.º — (Funcionamento)\n\n1. Os tribunais de comarca funcionam com juiz singular, com tribunal colectivo ou com júri.\n\n2. Sempre que não esteja prevista a intervenção do tribunal colectivo ou do júri, o julgamento pertence ao juiz singular.\n\n3. Quando devam conhecer das causas previstas nos artigos 58.º e 66.º, os tribunais de comarca têm a composição fixada naquele artigo e no artigo 68.º\n\n4. A lei de processo estabelece os casos e a forma de intervenção de assessores técnicos no julgamento."
+  },
+  "341b1ac5c12d0d6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 48.º — (Juiz de círculo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 48.º — (Juiz de círculo)\n\nEm cada círculo judicial há um ou mais juízes de direito com a função de presidir a tribunais colectivos."
+  },
+  "d8839aafc7f4d9bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 49.º — (Substituição dos juízes de direito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 49.º — (Substituição dos juízes de direito)\n\n1. Os juízes de direito são substituídos nas suas faltas e impedimentos:\n\na) Por outro juiz de direito;\n\nb) Por conservador do registo predial;\n\nc) Por conservador do registo civil;\n\nd) Por pessoa designada pelo Conselho Superior da Magistratura.\n\n2. A intervenção dos substitutos previstos nas alíneas b), c) e d) do número anterior só ocorrerá quando se trate de actos de carácter urgente ou relativos a réus presos ou quando se torne necessária à constituição do tribunal colectivo.\n\n3. O regime de substituição é o constante do diploma regulamentar desta lei."
+  },
+  "1202bcd589015d66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Organização"
+  },
+  "95c326b1bd167d02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Tribunal colectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Tribunal colectivo"
+  },
+  "e633f05393643952": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 50.º — (Composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 50.º — (Composição)\n\n1. Nas comarcas de Lisboa e Porto, o tribunal colectivo é constituído pelo juiz do processo, que preside, e por dois juízes da mesma comarca.\n\n2. Nas restantes comarcas, o tribunal colectivo é constituído por um dos juízes do respectivo círculo judicial, que preside, pelo juiz do processo e por outro juiz da comarca ou de comarca próxima.\n\n3. A designação dos juízes que nos dois anos seguintes hão-de intervir como vogais do tribunal colectivo, bem como a dos respectivos substitutos, compete ao Conselho Superior da Magistratura e será objecto de aviso a publicar no Diário da República, no mês de Novembro.\n\n4. O tribunal colectivo terá de funcionar com, pelo menos, dois juízes de direito."
+  },
+  "92f8686bf5d0a835": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 51.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 51.º — (Competência)\n\n1. Compete ao tribunal colectivo:\n\na) O julgamento dos crimes a que corresponda processo de querela, quando não deva intervir o júri;\n\nb) O julgamento de questões de facto nas acções cíveis de valor superior à alçada do tribunal de comarca, salvo se se tratar de acções de processo especial cujos termos excluam a intervenção do tribunal colectivo, bem como o julgamento das questões da mesma natureza nos incidentes, procedimentos cautelares e execuções que sigam os termos do processo ordinário de declaração ou os do processo sumário se excederem a referida alçada e sem prejuízo do disposto no n.º 1 do artigo 791.º do Código de Processo Civil.\n\n2. Exceptua-se da competência prevista no n.º 1 o julgamento dos crimes que devam ser julgados em processo especial de ausentes."
+  },
+  "0efefa6c6f36d141": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Júri"
+  },
+  "2b2f0a0531507740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 52.º — (Composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 52.º — (Composição)\n\n1. O júri é constituído pelos juízes que compõem o tribunal colectivo e por oito jurados e é presidido pelo juiz de círculo ou pelo juiz do processo, conforme os casos.\n\n2. Lei especial regula a forma de recrutamento e selecção de jurados."
+  },
+  "6e45ec6209c18f6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 53.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 53.º — (Competência)\n\n1. Compete ao júri o julgamento dos crimes a que corresponda processo de querela, desde que a sua intervenção tenha sido requerida pelo Ministério Público, pelo assistente ou pelo réu.\n\n2. O júri intervém apenas no julgamento da matéria de facto."
+  },
+  "dbdb0e7187467e7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Competência"
+  },
+  "3b7560cfca77903c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 54.º — (Tribunais de comarca)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 54.º — (Tribunais de comarca)\n\nCompete aos tribunais de comarca:\n\na) Conhecer, em primeira instância, das causas que não sejam atribuídas a outro tribunal;\n\nb) Conhecer das acções de perdas e danos intentadas, por causa do exercício das suas funções, contra juízes e agentes do Ministério Público nos julgados de paz e contra funcionários de justiça que prestem serviço em tribunal situado na área da comarca;\n\nc) Preparar os processos contra magistrados judiciais e do Ministério Público, por infracções não relacionadas com o exercício das suas funções;\n\nd) Conhecer dos recursos interpostos das decisões proferidas por juízes de paz;\n\ne) Decidir os conflitos de competência suscitados entre juízes de paz da área da comarca;\n\nf) Cumprir os mandados, cartas, ofícios e telegramas que lhes sejam dirigidos por tribunais ou autoridades competentes;\n\ng) Exercer as demais atribuições que lhes sejam conferidas por lei."
+  },
+  "55b33f725ee0461e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 55.º — (Competência administrativa do juiz de direito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 55.º — (Competência administrativa do juiz de direito)\n\n1. Compete ao juiz de direito:\n\na) Superintender nos serviços da secretaria;\n\nb) Dar posse aos funcionários do respectivo tribunal;\n\nc) Dar posse aos juízes de paz da área da comarca e exercer sobre eles jurisdição disciplinar;\n\nd) Exercer as demais atribuições conferidas por lei.\n\n2. Da decisão proferida no exercício da competência prevista na alínea c) do número anterior cabe reclamação para o Conselho Superior da Magistratura."
+  },
+  "4b45ab3b8d14623b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Tribunais de competência especializada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Tribunais de competência especializada"
+  },
+  "3f1ada58f7936c12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Espécies de tribunais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Espécies de tribunais"
+  },
+  "d32310877cf8e392": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 56.º — (Espécies)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 56.º — (Espécies)\n\n1. Podem ser criados os seguintes tribunais de competência especializada:\n\na) Tribunais cíveis;\n\nb) Tribunais criminais;\n\nc) Tribunais de instrução criminal;\n\nd) Tribunais de família;\n\ne) Tribunais de menores;\n\nf) Tribunais do trabalho;\n\ng) Tribunais de execução das penas.\n\n2. Podem ainda ser criados tribunais marítimos com regras de organização, competência e funcionamento a definir em lei especial."
+  },
+  "a5aefb6a77de229c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Tribunais cíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Tribunais cíveis"
+  },
+  "9fd0d3072f4c9d89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 57.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 57.º — (Competência)\n\nCompete aos tribunais cíveis preparar e julgar acções que não estejam atribuídas a outros tribunais."
+  },
+  "80e62fdf01b5418b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 58.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 58.º — (Funcionamento)\n\n1. Nas acções que tenham por objecto questões de arrendamento rural, o tribunal é constituído pelo juiz singular ou pelo colectivo, conforme os casos, e por dois juízes sociais.\n\n2. Dos juízes sociais, um é recrutado de entre senhorios e outro de entre rendeiros."
+  },
+  "90ac39a8e2653797": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Tribunais criminais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Tribunais criminais"
+  },
+  "faeaae6206eb954c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 59.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 59.º — (Competência)\n\nCompete aos tribunais criminais a pronúncia, o julgamento e os termos subsequentes nas causas crime, salvo o disposto nos artigos 63.º, 67.º e 70.º"
+  },
+  "7df105892e78118a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV — Tribunais de instrução criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV — Tribunais de instrução criminal"
+  },
+  "2fcb381d6c8b4513": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 60.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 60.º — (Competência)\n\nCompete aos tribunais de instrução criminal proceder à instrução preparatória e à instrução contraditória e exercer as funções jurisdicionais relativas ao inquérito preliminar e ao processo de segurança."
+  },
+  "1efabeae0665cc0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO V — Tribunais de família",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO V — Tribunais de família"
+  },
+  "0d69275899ec176c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 61.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 61.º — (Competência)\n\n1. Compete aos tribunais de família preparar e julgar:\n\na) Processos de jurisdição voluntária relativos aos cônjuges;\n\nb) Acções de separação de pessoas e bens e de divórcio;\n\nc) Acções de declaração de inexistência ou de anulação do casamento civil;\n\nd) Acções intentadas com base no artigo 1647.º e n.º 2 do artigo 1648.º do Código Civil;\n\ne) Acções de alimentos entre cônjuges."
+  },
+  "4d9e58af9b107eb6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 62.º — (Jurisdição de menores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 62.º — (Jurisdição de menores)\n\n1. Compete aos tribunais de família, relativamente a menores:\n\na) Instaurar a tutela e a administração de bens;\n\nb) Nomear pessoa que haja de celebrar negócios em nome do menor e, bem assim, nomear curador geral que represente extrajudicialmente o menor sujeito ao poder paternal;\n\nc) Constituir o vínculo da adopção;\n\nd) Regular o exercício do poder paternal e conhecer das questões a este respeitantes;\n\ne) Fixar os alimentos devidos a menores;\n\nf) Ordenar a entrega judicial do menor;\n\ng) Autorizar o representante legal dos menores a praticar certos actos, confirmar os que tenham sido praticados sem autorização e providenciar acerca da aceitação de liberalidades;\n\nh) Decidir acerca da caução que os pais devam prestar a favor dos filhos menores;\n\ni) Suprir a autorização dos pais para o casamento de menores;\n\nj) Decidir acerca da dispensa de impedimentos matrimoniais quando algum dos nubentes for menor;\n\nl) Decretar a inibição, total ou parcial, e estabelecer limitações ao exercício do poder paternal;\n\nm) Proceder à averiguação oficiosa de maternidade ou paternidade;\n\nn) Decidir, em caso de desacordo dos pais, sobre o nome e apelidos do menor;\n\no) Declarar a inexistência de posse de estado nos casos previstos no artigo 1833.º do Código Civil.\n\n2. Compete ainda aos tribunais de família:\n\na) Havendo tutela ou administração de bens, determinar a remuneração do tutor ou administrador, conhecer da escusa, exoneração ou remoção do tutor, administrador ou vogal do conselho de família, exigir e julgar as contas, autorizar a substituição da hipoteca legal e determinar o reforço e substituição da caução prestada e nomear curador especial que represente o menor extrajudicialmente;\n\nb) Nomear curador especial que represente o menor em qualquer processo tutelar;\n\nc) Converter, revogar e rever a adopção, exigir e julgar as contas do adoptante e fixar o montante dos rendimentos destinados a alimentos do adoptado;\n\nd) Decidir acerca do reforço e substituição da caução prestada a favor dos filhos menores;\n\ne) Exigir e julgar as contas que os pais devam prestar;\n\nf) Conhecer de quaisquer outros incidentes dos processos referidos no número anterior."
+  },
+  "f7c3ded93365a51b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO VI — Tribunais de menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO VI — Tribunais de menores"
+  },
+  "d88c4119206289b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 63.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 63.º — (Competência)\n\n1. Compete aos tribunais de menores decretar medidas relativamente a menores que, tendo completado 12 anos e antes de perfazerem 16, se encontrem em alguma das seguintes situações:\n\na) Mostrem dificuldade séria de adaptação a uma vida social normal, pela sua situação, pelo seu comportamento ou pelas tendências que hajam revelado;\n\nb) Se entreguem à mendicidade, vadiagem, prostituição, libertinagem, abuso de bebidas alcoólicas ou uso ilícito de estupefacientes;\n\nc) Sejam agentes de algum facto qualificado pela lei penal como crime ou contravenção.\n\n2. A competência dos tribunais de menores é extensiva a menores com idade inferior a 12 anos quando:\n\na) Os pais ou o representante legal não aceitem a intervenção tutelar ou reeducativa de instituições oficiais ou oficializadas não judiciárias;\n\nb) As instituições referidas na alínea anterior admitam que o menor agiu com discernimento na prática de facto qualificado pela lei penal como crime.\n\n3. Os tribunais de menores são igualmente competentes para:\n\na) Decretar medidas relativamente a menores que sejam vítimas de maus tratos ou se encontrem em situação de abandono ou desamparo capazes de pôr em perigo a sua saúde, segurança, educação ou moralidade;\n\nb) Decretar medidas relativamente a menores que, tendo atingido os 14 anos, se mostrem gravemente inadaptados à disciplina da família, do trabalho ou do estabelecimento de educação e assistência em que se encontrem internados;\n\nc) Apreciar e decidir pedidos de protecção de menores contra o exercício abusivo de autoridade na família ou nas instituições a que estejam entregues.\n\n4. Quando, durante o cumprimento da medida, o menor com mais de 16 e menos de 18 anos cometer alguma infracção criminal, o tribunal pode conhecer dela, para o efeito de rever a medida em execução, se a personalidade do menor e as circunstâncias pouco graves do facto assim o aconselharem.\n\n5. Cessa a competência do tribunal para conhecimento das situações referidas no n.º 1 quando o processo nele der entrada depois de o menor atingir 18 anos, caso em que será arquivado.\n\n6. É da competência exclusiva dos tribunais de menores a aplicação das medidas a que se refere o n.º 2 do artigo seguinte."
+  },
+  "7efb5b26f3540ad4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 64.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 64.º — (Funcionamento)\n\n1. O tribunal de menores funciona, em regra, com um só juiz.\n\n2. Nos processos em que se presuma a aplicação de medida de internamento e no caso previsto no n.º 4 do artigo 63.º, o julgamento pertence a um tribunal constituído pelo juiz de menores, que preside, e por dois juízes sociais."
+  },
+  "0acfbdd7e6c05241": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO VII — Tribunais do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO VII — Tribunais do trabalho"
+  },
+  "94fa2ac0232d5960": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 65.º — (Definição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 65.º — (Definição)\n\nOs tribunais do trabalho exercem jurisdição social nos termos dos artigos seguintes."
+  },
+  "71ca17cb342a8047": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 66.º — (Competência cível)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 66.º — (Competência cível)\n\nCompete aos tribunais do trabalho conhecer, em matéria cível:\n\na) Das questões relativas à legalidade dos instrumentos de regulamentação de trabalho;\n\nb) Das questões emergentes de relações de trabalho subordinado e de relações estabelecidas com vista à celebração de contratos de trabalho;\n\nc) Das questões emergentes de acidentes de trabalho e doenças profissionais;\n\nd) Das questões de enfermagem ou hospitalares, de fornecimento de medicamentos emergentes da prestação de serviços clínicos, de aparelhos de prótese e de ortopedia ou de quaisquer outros serviços ou prestações efectuados ou pagos em benefício de vítimas de acidentes de trabalho ou doenças profissionais;\n\ne) Das acções destinadas a anular os actos e contratos celebrados por quaisquer entidades responsáveis com o fim de se eximirem ao cumprimento de obrigações resultantes da aplicação da legislação sindical, do trabalho ou da Previdência;\n\nf) Das questões emergentes de trabalho autónomo, quando este não seja prestado por empresários ou por profissionais livres nessas qualidades;\n\ng) Das questões emergentes de contratos de aprendizagem e de tirocínio;\n\nh) Das questões entre trabalhadores ao serviço da mesma entidade, a respeito de direitos e obrigações que resultem de actos praticados em comum na execução das suas relações de trabalho ou que resultem de acto ilícito praticado por um deles na execução do serviço e por motivo deste, ressalvada a competência dos tribunais criminais quanto à responsabilidade civil conexa com a criminal;\n\ni) Das questões entre instituições de previdência ou de abono de família, seus beneficiários ou contribuintes, quando respeitem a direitos, poderes ou obrigações legais, regulamentares ou estatutárias de umas ou outros;\n\nj) Das questões entre organismos sindicais e sócios ou pessoas por eles representados, ou afectados por decisões suas, quando respeitem a direitos, poderes ou obrigações legais, regulamentares ou estatutárias de uns ou de outros;\n\nl) Dos processos destinados à liquidação e partilha de bens de instituições de previdência ou de organismos sindicais, quando não haja disposição legal em contrário;\n\nm) Das questões entre instituições de previdência ou entre organismos sindicais, a respeito da existência, extensão ou qualidade de poderes ou deveres legais, regulamentares ou estatutários de um deles que afecte o outro;\n\nn) Das execuções fundadas nas suas decisões ou noutros títulos executivos, ressalvada a competência atribuída a outros tribunais;\n\no) Das questões entre sujeitos de uma relação jurídica de trabalho ou entre um desses sujeitos e terceiros, quando emergentes de relações conexas com a relação de trabalho, por acessoriedade, por complementaridade ou por dependência, e o pedido se cumule com outro para o qual o tribunal seja directamente competente;\n\np) Das questões reconvencionais que com a acção tenham as relações de conexão referidas na alínea anterior, salvo no caso de compensação, em que é dispensada a conexão;\n\nq) Das questões cíveis relativas à greve;\n\nr) Das demais questões que por lei lhe sejam atribuídas."
+  },
+  "154b6b6303e6de74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 67.º — (Competência contravencional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 67.º — (Competência contravencional)\n\nCompete aos tribunais do trabalho conhecer e julgar, em matéria contravencional:\n\na) As transgressões de normas legais e convencionais reguladoras das relações de trabalho;\n\nb) As transgressões de normas legais ou regulamentares sobre encerramento de estabelecimentos comerciais ou industriais, ainda que sem pessoal ao seu serviço;\n\nc) As transgressões de normas legais ou regulamentares sobre higiene, salubridade e condições de segurança dos locais de trabalho;\n\nd) As transgressões de preceitos legais relativos a acidentes de trabalho e doenças profissionais;\n\ne) As infracções de natureza contravencional relativas à greve;\n\nf) As demais infracções de natureza contravencional cujo conhecimento lhes seja atribuído por lei."
+  },
+  "8b99a2be734fdbf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 68.º — (Juízes sociais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 68.º — (Juízes sociais)\n\n1. Nas causas referidas nas alíneas a), b), e), f), g) e q) do artigo 66.º em que deva intervir o colectivo, o tribunal é constituído pelo colectivo e por dois juízes sociais.\n\n2. Nas causas referidas na alínea f) do artigo 66.º, um dos juízes sociais deve ser nomeado na qualidade de trabalhador independente e outro na qualidade de trabalhador assalariado. Nas causas referidas nas demais alíneas mencionadas no número anterior, um dos juízes sociais é recrutado de entre entidades patronais e outro de entre trabalhadores assalariados."
+  },
+  "f65d0d03b196f00b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO VIII — Tribunal de execução das penas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO VIII — Tribunal de execução das penas"
+  },
+  "1c34c5a46fd570de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 69.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 69.º — (Funcionamento)\n\nO tribunal de execução das penas funciona com um só juiz."
+  },
+  "8ab1f89eb26c8cfa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 70.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 70.º — (Competência)\n\nCompete ao tribunal de execução das penas decidir sobre a modificação ou substituição das penas ou medidas de segurança, em curso de execução, e em especial:\n\na) Declarar perigosos os delinquentes que por esse motivo devam ser sujeitos a penas ou medidas de segurança, quando tal declaração não tenha lugar em processo penal;\n\nb) Julgar os vadios ou equiparados que residam ou sejam presos na área da comarca sede do tribunal;\n\nc) Decidir sobre as alterações do estado de perigosidade criminal, anteriormente declarado, que devam ter por efeito a substituição das penas ou medidas de segurança;\n\nd) Decidir sobre a prorrogação das penas aplicadas a delinquentes de difícil correcção e a delinquentes anormais perigosos;\n\ne) Decidir sobre a cessação do estado de perigosidade criminal;\n\nf) Decidir sobre a substituição por liberdade vigiada ou caução, ou por ambas as medidas, da prorrogação das penas ou medidas de segurança aplicadas a delinquentes de difícil correcção ou delinquentes anormais perigosos;\n\ng) Decidir sobre a substituição de medidas de segurança mais graves por outras menos graves que se mostrem adequadas;\n\nh) Conceder a liberdade condicional e decidir sobre a sua revogação, bem como reduzir a duração das medidas de segurança não privativas de liberdade;\n\ni) Conceder e revogar, nos termos da lei, a reabilitação dos condenados em quaisquer penas e dos imputáveis sujeitos por decisão judicial a medidas de segurança;\n\nj) Decidir sobre o incidente de alienação mental sobrevinda ou conhecida no decurso de execução das penas ou medidas de segurança privativas de liberdade;\n\nl) Emitir parecer sobre a concessão de indulto ou comutação da pena ou da medida de segurança e decidir sobre a sua revogação, bem como fazer a aplicação daqueles, e aplicar a amnistia, sempre que os respectivos processos se encontrem na secretaria, ainda que transitoriamente."
+  },
+  "1672d1f75b80936d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 71.º — (Competência do juiz)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 71.º — (Competência do juiz)\n\nSem prejuízo das funções jurisdicionais previstas no artigo anterior, compete ao juiz do tribunal de execução das penas:\n\na) Visitar, pelo menos mensalmente, os estabelecimentos prisionais da respectiva circunscrição, a fim de tomar conhecimento da forma como estão a ser executadas as condenações;\n\nb) Ouvir, na altura da visita, as pretensões dos reclusos que para o efeito se inscrevam em livro próprio e resolvê-las, ouvido o director do estabelecimento;\n\nc) Conhecer dos recursos interpostos pelos reclusos de decisões disciplinares que apliquem sanção de internamento em cela disciplinar por tempo superior a oito dias;\n\nd) Conceder e revogar as saídas precárias prolongadas;\n\ne) Convocar e presidir ao conselho técnico dos estabelecimentos, sempre que o entenda necessário ou a lei o preveja;\n\nf) Exercer as demais atribuições conferidas por lei."
+  },
+  "edf61c0437e07224": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Tribunais de distrito e de círculo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Tribunais de distrito e de círculo"
+  },
+  "7adf3c8c341a68f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 72.º — (Tribunais de distrito e de círculo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 72.º — (Tribunais de distrito e de círculo)\n\n1. Nos distritos e nos círculos judiciais pode haver tribunais de competência especializada ou específica com jurisdição em todas ou algumas das comarcas a eles pertencentes.\n\n2. Os tribunais referidos no número anterior têm a mesma natureza dos tribunais de comarca, sendo-lhes aplicáveis as correspondentes disposições relativamente a organização, funcionamento, competência e alçada."
+  },
+  "fb04326a793061f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Julgados de paz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Julgados de paz"
+  },
+  "b96f1d8ac8b3b7ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 73.º — (Julgados de paz)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 73.º — (Julgados de paz)\n\n1. Em cada freguesia pode haver um julgado de paz.\n\n2. Compete à assembleia ou ao plenário de freguesia deliberar sobre a criação do julgado de paz."
+  },
+  "7c8b5533fcbf7be7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 74.º — (Juízes de paz)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 74.º — (Juízes de paz)\n\n1. Nos julgados de paz exerce funções um juiz de paz.\n\n2. Os juízes de paz são eleitos pela assembleia ou pelo plenário da freguesia e exercem as suas funções por um quadriénio.\n\n3. Aos juízes de paz aplicam-se, com as necessárias adaptações, as normas sobre disciplina constantes do Estatuto da Magistratura Judicial."
+  },
+  "5ad279e176fefa53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 75.º — (Requisitos para a eleição dos juízes de paz)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 75.º — (Requisitos para a eleição dos juízes de paz)\n\nPodem ser eleitos juízes de paz cidadãos de reputada idoneidade que reúnam as seguintes condições:\n\na) Ser português;\n\nb) Ter mais de 25 anos;\n\nc) Saber ler e escrever;\n\nd) Estar no pleno gozo dos direitos civis e políticos;\n\ne) Não ter sofrido condenação nem estar pronunciado por crime doloso;\n\nf) Ser eleitor inscrito pela respectiva freguesia."
+  },
+  "48d62cfbbf3babbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 76.º — (Competência dos juízes de paz)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 76.º — (Competência dos juízes de paz)\n\n1. Compete aos juízes de paz:\n\na) Exercer a conciliação nos termos da lei de processo;\n\nb) Julgar as transgressões e contravenções às posturas de freguesia;\n\nc) Preparar e julgar acções de natureza cível de valor não superior à alçada dos tribunais de comarca, quando envolvam apenas direitos e interesses de vizinhos e as partes estejam de acordo em fazê-las seguir no julgado de paz;\n\nd) Exercer as demais atribuições que lhes venham a ser conferidas por lei.\n\n2. Das decisões dos juízes de paz há sempre recurso para o tribunal de comarca."
+  },
+  "d87614f0568176d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Ministério Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Ministério Público"
+  },
+  "f7a1b826a3552d7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 77.º — (Ministério Público)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 77.º — (Ministério Público)\n\n1. O Ministério Público é o órgão do Estado encarregado de, junto dos tribunais judiciais, defender a legalidade democrática, representar o Estado, exercer a acção penal e promover a realização do interesse social.\n\n2. Representam o Ministério Público:\n\na) No Supremo Tribunal de Justiça, o procurador-geral da República;\n\nb) Nos tribunais da relação, procuradores-gerais adjuntos;\n\nc) Nos tribunais de 1.ª instância, procuradores da República.\n\n3. Os magistrados referidos no número anterior podem fazer-se substituir por outros magistrados e agentes, nos termos da Lei Orgânica do Ministério Público."
+  },
+  "0fee5b1b040bf640": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Mandatários judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Mandatários judiciais"
+  },
+  "d1b49186a5f0643d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 78.º — (Advogados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 78.º — (Advogados)\n\n1. Os advogados colaboram na administração da justiça, competindo-lhes, de forma exclusiva e com as excepções previstas na lei, a defesa jurídica das partes.\n\n2. Na sua função de defesa dos direitos e garantias individuais, os advogados podem requerer a intervenção dos órgãos jurisdicionais competentes."
+  },
+  "b81a8f0cef0372df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 79.º — (Solicitadores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 79.º — (Solicitadores)\n\nOs solicitadores são auxiliares da administração da justiça, representando as partes nos casos previstos na lei."
+  },
+  "7e212e1c724ba98c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO X — Órgãos auxiliares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X — Órgãos auxiliares"
+  },
+  "ebcef009c45467d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 80.º — (Repartições e secretarias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 80.º — (Repartições e secretarias)\n\nO expediente dos tribunais judiciais é assegurado por repartições ou secretarias."
+  },
+  "1799f65cc573119c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XI — Instalação dos tribunais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XI — Instalação dos tribunais"
+  },
+  "70a31ee18afc409f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 81.º — (Instalação dos tribunais judiciais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 81.º — (Instalação dos tribunais judiciais)\n\n1. As despesas com a instalação e funcionamento dos tribunais judiciais constituem encargo do Estado.\n\n2. As despesas com a instalação dos julgados de paz constituem encargo das juntas de freguesia.\n\n3. Lei especial regulará a participação do Estado nos encargos com o expediente dos julgados de paz."
+  },
+  "ed124bac999b8451": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XII — Disposições finais e transitórias"
+  },
+  "09142bdc1ed6b033": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 82.º — (Presidentes dos tribunais superiores e vice-presidente do Supremo Tribunal de Justiça)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 82.º — (Presidentes dos tribunais superiores e vice-presidente do Supremo Tribunal de Justiça)\n\n1. As funções exercidas pelos actuais presidentes dos tribunais superiores cessam decorridos três anos após a respectiva eleição.\n\n2. No prazo de sessenta dias, contado da entrada em vigor desta lei, proceder-se-á à eleição do vice-presidente do Supremo Tribunal de Justiça, com observância do disposto no artigo 31.º\n\n3. O exercício do cargo de vice-presidente, eleito nos termos do número anterior, cessa com o termo do exercício do cargo de presidente."
+  },
+  "cfdab4264fd3d4a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 83.º — (Extinção de órgãos jurisdicionais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 83.º — (Extinção de órgãos jurisdicionais)\n\n1. São extintos os órgãos jurisdicionais não previstos nesta lei com competência, atribuída por lei anterior, para dirimir conflitos de interesses públicos e privados, com excepção dos tribunais militares, do Tribunal de Contas, dos tribunais administrativos e dos tribunais fiscais.\n\n2. São nomeadamente extintos:\n\na) A 3.ª secção do Supremo Tribunal Administrativo;\n\nb) Os tribunais de recurso das avaliações;\n\nc) As comissões arbitrais de assistência;\n\nd) Os tribunais municipais;\n\ne) As comissões de conciliação e julgamento;\n\nf) As comissões arbitrais e comarcãs criadas pelo [Decreto-Lei n.º 201/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1975-162082), de 15 de Abril.\n\n3. É extinta a competência dos tribunais marítimos para o conhecimento de crimes, mantendo-se aqueles, no restante, com a sua organização e funcionamento até à entrada em vigor da lei prevista no n.º 2 do artigo 56.º, que deverá ser publicada no prazo de seis meses, contado da data da publicação do presente diploma."
+  },
+  "5cd537550f8f01ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 84.º — (Extinção de competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 84.º — (Extinção de competência)\n\nÉ extinta a competência atribuída aos Tribunais Municipais de Lisboa e Porto pelo disposto na alínea a) do artigo 5.º do [Decreto-Lei n.º 192/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1973-421996), de 30 de Abril."
+  },
+  "7f58b72eba4848ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 85.º — (Tribunais do trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 85.º — (Tribunais do trabalho)\n\nOs tribunais do trabalho são integrados na ordem judiciária e transitam para a dependência orgânica do Ministério da Justiça."
+  },
+  "7384a93ccf607a8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 86.º — (Juízes da 3.ª secção do Supremo Tribunal) Administrativo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 86.º — (Juízes da 3.ª secção do Supremo Tribunal) Administrativo)\n\n1. Os juízes em serviço na 3.ª secção do Supremo Tribunal Administrativo são providos em idêntico cargo no Supremo Tribunal de Justiça, se tiverem a categoria de juízes deste Tribunal. No caso contrário, preencherão as vagas existentes no Supremo Tribunal Administrativo.\n\n2. Não havendo vagas e até à sua existência, os juízes da 3.ª secção do Supremo Tribunal Administrativo ficam na situação de supranumerários."
+  },
+  "053ad8b64952f202": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 87.º — (Juízes dos tribunais extintos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 87.º — (Juízes dos tribunais extintos)\n\nOs juízes de direito em serviço nos tribunais referidos nas alíneas b) e c) do n.º 2 do artigo 83.º têm preferência na colocação em tribunal da sua categoria da mesma localidade."
+  },
+  "890b63aad229d98e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 88.º — (Extinção da categoria de corregedor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 88.º — (Extinção da categoria de corregedor)\n\n1. É extinta a categoria de corregedor.\n\n2. Os corregedores que prestam serviço nos juízos criminais, varas cíveis, tribunais de família e tribunais de execução das penas consideram-se providos, sem necessidade de qualquer formalidade, como juízes de direito dos respectivos juízos ou tribunais.\n\n3. Os corregedores presidentes de círculo judicial consideram-se providos, sem necessidade de qualquer formalidade, como juízes do respectivo círculo."
+  },
+  "283604587bd9c5e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 89.º — (Tribunais colectivos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 89.º — (Tribunais colectivos)\n\nO Conselho Superior da Magistratura publicará, no prazo de trinta dias, contado da entrada em vigor desta lei, o aviso a que se refere o n.º 3 do artigo 50.º, incluindo as disposições necessárias à execução do estipulado nos artigos anteriores."
+  },
+  "426872a09c35f125": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 90.º — (Disposição transitória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 90.º — (Disposição transitória)\n\nO disposto no n.º 1 do artigo 20.º não se aplica aos processos pendentes à data da entrada em vigor desta lei."
+  },
+  "fb08f0adbe846f06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 91.º — (Providências orçamentais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 91.º — (Providências orçamentais)\n\nFica o Governo autorizado a adoptar as providências orçamentais necessárias à regulamentação desta lei."
+  },
+  "562b046fbe082a43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 92.º — (Regulamentação e entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 92.º — (Regulamentação e entrada em vigor)\n\n1. A presente lei entra imediatamente em vigor quanto ao disposto no n.º 3 do artigo 83.º\n\n2. No restante, entrará em vigor no dia 31 de Julho de 1978, devendo o Governo regulamentá-la, em tempo útil, mediante decreto-lei.\n\nAprovada em 14 de Outubro de 1977.\n\nO Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgada em 11 de Novembro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares."
+  },
+  "d3fecea8e6d5986d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Definição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Definição)\n\nOs tribunais judiciais são Órgãos de Soberania com competência para administrar a justiça em nome do povo."
+  },
+  "5681ac6a0b6d9061": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Função jurisdicional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Função jurisdicional)\n\nCompete aos tribunais judiciais assegurar a defesa dos direitos e interesses legalmente protegidos, reprimir a violação da legalidade democrática e dirimir os conflitos de interesses públicos e privados."
+  },
+  "2189f3bb104ffa19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Independência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Independência)\n\n1. Os tribunais judiciais são independentes.\n\n2. A independência dos tribunais judiciais caracteriza-se pelo autogoverno da magistratura judicial, pela inamovibilidade e irresponsabilidade dos juízes e pela não sujeição destes a quaisquer ordens ou instruções, salvo o dever de acatamento das decisões proferidas em via de recurso pelos tribunais superiores."
+  },
+  "ea6634b2b15003b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Defesa dos direitos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Defesa dos direitos)\n\n1. A todos é assegurado o acesso aos tribunais judiciais para defesa dos seus direitos, não podendo a justiça ser denegada por insuficiência de meios económicos.\n\n2. Lei especial regulará o acesso aos tribunais judiciais em caso de insuficiência de meios económicos."
+  },
+  "2057f1af4dfaafc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Coadjuvação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Coadjuvação)\n\nNo exercício das suas funções, os tribunais judiciais têm direito à coadjuvação das outras autoridades."
+  },
+  "7f75e1c397aa1e1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Execução das decisões dos tribunais judiciais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Execução das decisões dos tribunais judiciais)\n\n1. As decisões do tribunais judiciais são obrigatórias para todas as entidades públicas e privadas e prevalecem sobre as de quaisquer outras autoridades.\n\n2. A lei de processo regula os termos da execução das decisões dos tribunais judiciais relativamente a qualquer autoridade e determina as sanções a aplicar aos responsáveis pela sua inexecução."
+  },
+  "9ecea80540b4acb9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Audiências dos tribunais judiciais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Audiências dos tribunais judiciais)\n\nAs audiências dos tribunais judiciais são públicas, salvo quando o próprio tribunal decidir o contrário, em despacho fundamentado, para salvaguarda da dignidade das pessoas e da moral pública ou para garantir o seu normal funcionamento."
+  },
+  "48f3a770e1f04f3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Ano judicial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Ano judicial)\n\nO ano judicial corresponde ao ano civil."
+  },
+  "f6ba709476eba77a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Férias judiciais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Férias judiciais)\n\n1. Nos tribunais judiciais há férias.\n\n2. As férias judiciais decorrem de 22 de Dezembro a 3 de Janeiro, do domingo de Ramos a segunda-feira de Páscoa e de 1 de Agosto a 30 de Setembro."
+  },
+  "58715a60a21c5b73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Divisão judicial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Divisão judicial)\n\n1. O território divide-se em distritos judiciais e estes em comarcas.\n\n2. As comarcas agrupam-se em círculos judiciais."
+  },
+  "e73985a806e85155": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Categorias de tribunais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Categorias de tribunais)\n\n1. Há tribunais judiciais de 1.ª e 2.ª instância e o Supremo Tribunal de Justiça.\n\n2. Os tribunais judiciais de 2.ª instância denominam-se relações."
+  },
+  "b9b8ffb99dd82062": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Tribunais de 1.ª instância)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Tribunais de 1.ª instância)\n\n1. Os tribunais judiciais de 1.ª instância são, em regra, os de comarca.\n\n2. Nas freguesias pode haver tribunais de 1.ª instância denominados julgados de paz."
+  },
+  "aceb1752c78aaf4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Extensão e limites da jurisdição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Extensão e limites da jurisdição)\n\n1. Na ordem interna, a competência jurisdicional distribui-se pelos diferentes tribunais judiciais segundo a matéria, a hierarquia, o valor e o território.\n\n2. A lei de processo fixa os factores de que depende a competência internacional dos tribunais judiciais."
+  },
+  "89f3cdd9da08da40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Competência material)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Competência material)\n\nAs causas que não sejam atribuídas a diferente jurisdição são da competência dos tribunais judiciais."
+  },
+  "b2730684142f6d48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Competência em razão da hierarquia)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Competência em razão da hierarquia)\n\nOs tribunais judiciais encontram-se hierarquizados para efeito de revisão das suas decisões."
+  },
+  "6afc8d82031bb5bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Competência em razão do valor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Competência em razão do valor)\n\nO Supremo Tribunal de Justiça conhece das causas cujo valor exceda a alçada das relações, e estas das causas cujo valor exceda a alçada dos tribunais de comarca."
+  },
+  "3b441cbdb9b793e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Competência territorial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Competência territorial)\n\n1. O Supremo Tribunal de Justiça tem jurisdição em todo o território, as relações no respectivo distrito judicial e os tribunais de 1.ª instância na área das respectivas circunscrições.\n\n2. A lei de processo fixa os factores que determinam, em cada caso, o tribunal territorialmente competente."
+  },
+  "b44c2a86aa6bc49c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Lei reguladora da competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Lei reguladora da competência)\n\n1. A competência fixa-se no momento em que a acção se propõe, sendo irrelevantes as modificações de facto que ocorram posteriormente.\n\n2. São igualmente irrelevantes as modificações de direito, excepto se for suprimido o órgão a que a causa estava afecta ou se lhe for atribuída competência de que inicialmente carecesse para o conhecimento da causa."
+  },
+  "9990ef0d4fed49f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Proibição de desaforamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Proibição de desaforamento)\n\nNenhuma causa pode ser deslocada do tribunal competente para outro, salvo nos casos especialmente previstos na lei."
+  },
+  "f936f33ddddc79a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Alçadas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Alçadas)\n\n1. Em matéria cível, a alçada dos tribunais da relação é de 200000$00, e a dos tribunais de comarca, de 80000$00. Os julgados de paz não têm alçada.\n\n2. Em matéria criminal não há alçada, sem prejuízo das disposições processuais relativas à admissibilidade de recurso."
+  },
+  "63ac79db9e3ddc38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Definição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Definição)\n\nO Supremo Tribunal de Justiça é o órgão superior da hierarquia dos tribunais judiciais."
+  },
+  "8c69bfb5afa65b84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Composição)\n\n1. O Supremo Tribunal de Justiça compreende quatro secções especializadas: duas de jurisdição cível, uma de jurisdição criminal e uma de jurisdição social.\n\n2. O Supremo Tribunal de Justiça tem o quadro de juízes fixado no diploma regulamentar desta lei."
+  },
+  "c524b919ae5e49a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Preenchimento das secções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Preenchimento das secções)\n\n1. Compete ao Conselho Superior da Magistratura indicar os juízes para as várias secções. Na designação tomar-se-á em conta o grau de especialização de cada juiz e a preferência que manifestar.\n\n2. O Conselho Superior da Magistratura pode autorizar a mudança de secção ou a permuta entre juízes de secções diferentes.\n\n3. Quando o relator mude de secção, mantém-se a sua competência e a dos seus adjuntos que já tenham tido visto para julgamento."
+  },
+  "492e827df46b7f3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Funcionamento)\n\n1. O Supremo Tribunal de Justiça funciona, sob a direcção de um presidente, em plenário, por secções especializadas ou em reunião conjunta de secções.\n\n2. O plenário é constituído por todos os juízes das secções e só pode funcionar com a presença de, pelo menos, quatro quintos dos juízes em exercício.\n\n3. Os juízes tomam assento alternadamente à direita e à esquerda do presidente, segundo a ordem de antiguidade."
+  },
+  "58464ced4b660cab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Sessões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Sessões)\n\n1. As sessões têm lugar, ordinariamente, uma vez por semana e, extraordinariamente, quando o presidente o determinar.\n\n2. Quando for feriado o dia da sessão ordinária, esta realiza-se no dia útil imediatamente posterior."
+  },
+  "50a3e7a1b2cbabc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Conferência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Conferência)\n\nÀ conferência só assistem os juízes que nela devam intervir."
+  },
+  "d8c6cab40cfc3347": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — (Competência do plenário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Competência do plenário)\n\nCompete ao Supremo Tribunal de Justiça, funcionando em plenário:\n\na) Julgar o Presidente da República pelos crimes praticados no exercício das suas funções;\n\nb) Conferir a posse ao Presidente da República quando a Assembleia da República se encontrar dissolvida;\n\nc) Julgar da elegibilidade dos candidatos à Presidência da República;\n\nd) Julgar as acções propostas contra juízes do Supremo Tribunal de Justiça e das relações ou magistrados do Ministério Público que exerçam funções junto destes tribunais, por causa das suas funções;\n\ne) Julgar processos por crimes dolosos cometidos pelos magistrados referidos na alínea anterior;\n\nf) Uniformizar a jurisprudência nos termos da lei de processo;\n\ng) Conhecer dos conflitos de competência entre as secções;\n\nh) Julgar os recursos interpostos de deliberações do Conselho Superior da Magistratura;\n\ni) Exercer as demais atribuições conferidas por lei."
+  },
+  "05056ef715206190": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — (Distribuição de competência pelas secções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Distribuição de competência pelas secções)\n\nA distribuição de competência pelas secções do Supremo Tribunal de Justiça faz-se de harmonia com as seguintes regras:\n\na) As secções cíveis julgam as causas que não estejam atribuídas às outras secções;\n\nb) A secção criminal julga as causas crime;\n\nc) A secção de jurisdição social julga as causas referidas nos artigos 66.º e 67.º"
+  },
+  "3d4c2a1683054e10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Competência das secções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Competência das secções)\n\n1. Compete às secções do Supremo Tribunal de Justiça, conforme a sua especialização:\n\na) Julgar os recursos que não sejam da competência do plenário;\n\nb) Julgar os processos por crimes culposos e as contravenções cometidos pelos magistrados referidos na alínea d) do artigo 27.º;\n\nc) Conhecer dos conflitos de competência entre as relações, entre estas e os tribunais de 1.ª instância ou entre tribunais de 1.ª instância de diferentes distritos judiciais;\n\nd) Conhecer dos conflitos de jurisdição cuja apreciação não pertença a tribunal de conflitos;\n\ne) Julgar confissões, desistências ou transacções nas causas pendentes, bem como os incidentes nelas suscitados;\n\nf) Conceder a revisão de sentenças penais, decretar a anulação de penas inconciliáveis e suspender a execução das penas quando decretada a revisão;\n\ng) Exercer jurisdição em matéria de habeas corpus;\n\nh) Exercer as demais atribuições conferidas por lei.\n\n2. Os juízes da secção a que pertencer o relator são os competentes para julgamento segundo a ordem de precedência.\n\n3. Quando numa secção cível não seja possível obter o número de juízes exigido por lei para o exame do processo e decisão da causa, são chamados a intervir os juízes da outra secção, começando-se pelos imediatos ao juiz que tiver aposto o último visto, segundo a ordem de precedência, seguindo-se os da secção de jurisdição social. Quando a falta de juízes se der na secção criminal ou na secção de jurisdição social, são chamados, respectivamente, os juízes desta secção e os das secções cíveis."
+  },
+  "984bd6963b97452e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Poderes de cognição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Poderes de cognição)\n\nFora dos casos previstos na lei, o Supremo Tribunal de Justiça apenas conhece de matéria de direito."
+  },
+  "20a08d12fb675aa3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — (Eleição do presidente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Eleição do presidente)\n\n1. Os juízes que compõem o Supremo Tribunal de Justiça elegem, de entre si e por escrutínio secreto, o presidente do Tribunal.\n\n2. Será eleito o juiz que obtiver mais de metade dos votos validamente expressos. Se nenhum juiz obtiver esse número de votos, procede-se a segundo sufrágio, a que concorrem apenas os dois juízes mais votados.\n\n3. Em caso de empate, serão admitidos a subsequente sufrágio ou eleito, respectivamente, os juízes ou o juiz mais antigos."
+  },
+  "9db34b78821c1cdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — (Exercício do cargo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Exercício do cargo)\n\n1. O cargo de presidente do Supremo Tribunal de Justiça é exercido por três anos, sendo permitida a reeleição consecutiva apenas uma vez.\n\n2. O presidente cessante mantém-se em funções até à tomada de posse do que o deva substituir."
+  },
+  "ec04606eb5d6876e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — (Coadjuvação e substituição do presidente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Coadjuvação e substituição do presidente)\n\nO presidente do Supremo Tribunal de Justiça é coadjuvado e substituído por um vice-presidente."
+  },
+  "0fde0c2d99c22945": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — (Vice-presidente)",
+   "in_force_from": "1980-09-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 348/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1980-464003), publicado em 1980-09-03."
+   ],
+   "markdown": "###### Artigo 34.º — (Vice-presidente)\n\n1 - A eleição do vice-presidente do Supremo Tribunal de Justiça processa-se nos termos do artigo 31.º\n\n2. Nas suas faltas e impedimentos, o vice-presidente é substituído pelo juiz mais antigo em exercício.\n\n> Alterado pelo/a [Decreto-Lei n.º 348/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1980-464003), publicado em 1980-09-03."
+  },
+  "56d3f07870013c8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — (Competência do presidente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Competência do presidente)\n\nCompete ao presidente do Supremo Tribunal de Justiça:\n\na) Dirigir os trabalhos do Tribunal e presidir às conferências;\n\nb) Fixar o dia e a hora das sessões ordinárias e convocar as sessões extraordinárias;\n\nc) Apurar o vencido nas conferências;\n\nd) Votar sempre que a lei o determine, assinando nesse caso o acórdão;\n\ne) Dar posse aos juízes do Tribunal e aos presidentes das relações;\n\nf) Superintender nos serviços da secretaria;\n\ng) Exercer as demais atribuições que lhe forem conferidas por lei."
+  },
+  "ea020c34376d163a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — (Tribunal de relação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Tribunal de relação)\n\nEm cada distrito judicial exerce jurisdição um tribunal de relação."
+  },
+  "fde0e8d65e46594c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — (Composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Composição)\n\n1. As relações compreendem secções especializadas de jurisdição cível, criminal e social.\n\n2. As relações têm o quadro de juízes fixado no diploma regulamentar desta lei."
+  },
+  "24477b34cd961b70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Funcionamento)\n\n1. As relações funcionam sob a direcção de um presidente, em plenário, ou por secções especializadas.\n\n2. O plenário é constituído por todos os juízes que compõem as secções e só pode funcionar com a presença de, pelo menos, quatro quintos dos juízes em exercício."
+  },
+  "7d1b47c681028694": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — (Competência do plenário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — (Competência do plenário)\n\nCompete às relações, funcionando em plenário:\n\na) Julgar as acções propostas contra juízes de direito, procuradores da República e delegados do procurador da República, por causa das suas funções;\n\nb) Julgar processos por crimes dolosos cometidos pelos magistrados referidos na alínea anterior;\n\nc) Conhecer dos conflitos de competência entre as secções;\n\nd) Exercer as demais atribuições conferidas por lei."
+  },
+  "05e5d732f2075dc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — (Competência das secções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — (Competência das secções)\n\nCompete às secções, conforme a sua especialização:\n\na) Julgar recursos;\n\nb) Julgar processos por crimes culposos e contravenções cometidos pelos magistrados referidos na alínea a) do artigo anterior;\n\nc) Conhecer dos conflitos de competência entre juízes de direito do respectivo distrito judicial;\n\nd) Julgar confissões, desistências ou transacções nas causas que estejam pendentes, bem como os incidentes nelas suscitados;\n\ne) Rever sentenças estrangeiras;\n\nf) Conceder o exequatur às decisões proferidas pelos tribunais eclesiásticos;\n\ng) Exercer as demais atribuições conferidas por lei."
+  },
+  "4c4d87548a08f431": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — (Substituição dos presidentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — (Substituição dos presidentes)\n\nNas suas faltas e impedimentos, os presidentes das relações são substituídas pelos juízes mais antigos em exercício."
+  },
+  "092fd74a9e5970f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — (Competência dos presidentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — (Competência dos presidentes)\n\n1. Os presidentes das relações têm competência idêntica à prevista nas alíneas a) a d), f) e g) do artigo 35.º\n\n2. Compete ainda aos presidentes das relações dar posse aos juízes do respectivo tribunal e aos juízes de direito que exerçam funções na sede do distrito judicial."
+  },
+  "2587be72dc579127": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — (Disposições subsidiárias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — (Disposições subsidiárias)\n\nÉ aplicável às relações o disposto no artigo 23.º, no n.º 3 do artigo 24.º e nos artigos 25.º, 26.º, 28.º, 31.º e 32.º"
+  },
+  "e08f68bc5f04e423": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — (Tribunais de comarca)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — (Tribunais de comarca)\n\n1. Em cada comarca há um tribunal de comarca.\n\n2. Quando o volume ou a natureza do serviço o exijam, podem existir na mesma comarca vários tribunais."
+  },
+  "8f00179172068f94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — (Espécies de tribunais de comarca)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — (Espécies de tribunais de comarca)\n\n1. Os tribunais de comarca são de competência genérica, salvo disposição em contrário.\n\n2. Pode haver tribunais ou juízos de competência especializada e de competência específica.\n\n3. Nos tribunais ou juízos de competência específica, a jurisdição é limitada em função da forma de processo."
+  },
+  "9abe1dbb37c8be2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — (Desdobramento dos tribunais de comarca)",
+   "in_force_from": "1980-09-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 348/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1980-464003), publicado em 1980-09-03."
+   ],
+   "markdown": "###### Artigo 46.º — (Desdobramento dos tribunais de comarca)\n\n1. Os tribunais de comarca podem desdobrar-se em juízos.\n\n2. Em cada tribunal ou juízo exerce funções um juiz de direito.\n\n3. Nos tribunais com competência criminal, as funções de instrução e as de pronúncia e julgamento pertencem a juízes de direito diferentes.\n\n4 - O Conselho Superior da Magistratura, ponderando as necessidades de serviço, pode, eventualmente, determinar que um juiz exerça funções em mais de um tribunal, ainda que de comarcas diferentes.\n\n> Alterado pelo/a [Decreto-Lei n.º 348/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1980-464003), publicado em 1980-09-03."
+  },
+  "de6d34be84ac4231": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — (Funcionamento)\n\n1. Os tribunais de comarca funcionam com juiz singular, com tribunal colectivo ou com júri.\n\n2. Sempre que não esteja prevista a intervenção do tribunal colectivo ou do júri, o julgamento pertence ao juiz singular.\n\n3. Quando devam conhecer das causas previstas nos artigos 58.º e 66.º, os tribunais de comarca têm a composição fixada naquele artigo e no artigo 68.º\n\n4. A lei de processo estabelece os casos e a forma de intervenção de assessores técnicos no julgamento."
+  },
+  "d88d6498ea28afd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — (Juiz de círculo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — (Juiz de círculo)\n\nEm cada círculo judicial há um ou mais juízes de direito com a função de presidir a tribunais colectivos."
+  },
+  "2e8e286cdb5bb122": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — (Substituição dos juízes de direito)",
+   "in_force_from": "1980-09-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 348/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1980-464003), publicado em 1980-09-03."
+   ],
+   "markdown": "###### Artigo 49.º — (Substituição dos juízes de direito)\n\n1 - Os juízes de direito são substituídos nas suas faltas e impedimentos, sucessivamente:\n\na) Por outro juiz de direito;\n\nb) Por conservador do registo predial;\n\nc) Por conservador do registo civil;\n\nd) Por pessoa designada pelo Conselho Superior da Magistratura.\n\n2 - A intervenção do substituto previsto na alínea d) do número anterior, quando recaia em não licenciado em Direito, só ocorrerá quando se trate de actos de carácter urgente ou relativos a réus presos ou se torne necessária a constituição do tribunal colectivo.\n\n3. O regime de substituição é o constante do diploma regulamentar desta lei.\n\n> Alterado pelo/a [Decreto-Lei n.º 348/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1980-464003), publicado em 1980-09-03."
+  },
+  "8052876821e0cb02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — (Composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — (Composição)\n\n1. Nas comarcas de Lisboa e Porto, o tribunal colectivo é constituído pelo juiz do processo, que preside, e por dois juízes da mesma comarca.\n\n2. Nas restantes comarcas, o tribunal colectivo é constituído por um dos juízes do respectivo círculo judicial, que preside, pelo juiz do processo e por outro juiz da comarca ou de comarca próxima.\n\n3. A designação dos juízes que nos dois anos seguintes hão-de intervir como vogais do tribunal colectivo, bem como a dos respectivos substitutos, compete ao Conselho Superior da Magistratura e será objecto de aviso a publicar no Diário da República, no mês de Novembro.\n\n4. O tribunal colectivo terá de funcionar com, pelo menos, dois juízes de direito."
+  },
+  "d531b4575b4f030b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — (Competência)\n\n1. Compete ao tribunal colectivo:\n\na) O julgamento dos crimes a que corresponda processo de querela, quando não deva intervir o júri;\n\nb) O julgamento de questões de facto nas acções cíveis de valor superior à alçada do tribunal de comarca, salvo se se tratar de acções de processo especial cujos termos excluam a intervenção do tribunal colectivo, bem como o julgamento das questões da mesma natureza nos incidentes, procedimentos cautelares e execuções que sigam os termos do processo ordinário de declaração ou os do processo sumário se excederem a referida alçada e sem prejuízo do disposto no n.º 1 do artigo 791.º do Código de Processo Civil.\n\n2. Exceptua-se da competência prevista no n.º 1 o julgamento dos crimes que devam ser julgados em processo especial de ausentes."
+  },
+  "9acfe0c5562ddd63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — (Composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — (Composição)\n\n1. O júri é constituído pelos juízes que compõem o tribunal colectivo e por oito jurados e é presidido pelo juiz de círculo ou pelo juiz do processo, conforme os casos.\n\n2. Lei especial regula a forma de recrutamento e selecção de jurados."
+  },
+  "4df871e5dcdd2026": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — (Competência)\n\n1. Compete ao júri o julgamento dos crimes a que corresponda processo de querela, desde que a sua intervenção tenha sido requerida pelo Ministério Público, pelo assistente ou pelo réu.\n\n2. O júri intervém apenas no julgamento da matéria de facto."
+  },
+  "61696e69dbf62d4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — (Tribunais de comarca)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — (Tribunais de comarca)\n\nCompete aos tribunais de comarca:\n\na) Conhecer, em primeira instância, das causas que não sejam atribuídas a outro tribunal;\n\nb) Conhecer das acções de perdas e danos intentadas, por causa do exercício das suas funções, contra juízes e agentes do Ministério Público nos julgados de paz e contra funcionários de justiça que prestem serviço em tribunal situado na área da comarca;\n\nc) Preparar os processos contra magistrados judiciais e do Ministério Público, por infracções não relacionadas com o exercício das suas funções;\n\nd) Conhecer dos recursos interpostos das decisões proferidas por juízes de paz;\n\ne) Decidir os conflitos de competência suscitados entre juízes de paz da área da comarca;\n\nf) Cumprir os mandados, cartas, ofícios e telegramas que lhes sejam dirigidos por tribunais ou autoridades competentes;\n\ng) Exercer as demais atribuições que lhes sejam conferidas por lei."
+  },
+  "d7090909f238f76c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — (Competência administrativa do juiz de direito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — (Competência administrativa do juiz de direito)\n\n1. Compete ao juiz de direito:\n\na) Superintender nos serviços da secretaria;\n\nb) Dar posse aos funcionários do respectivo tribunal;\n\nc) Dar posse aos juízes de paz da área da comarca e exercer sobre eles jurisdição disciplinar;\n\nd) Exercer as demais atribuições conferidas por lei.\n\n2. Da decisão proferida no exercício da competência prevista na alínea c) do número anterior cabe reclamação para o Conselho Superior da Magistratura."
+  },
+  "f913b9ea45614fc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — (Espécies)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — (Espécies)\n\n1. Podem ser criados os seguintes tribunais de competência especializada:\n\na) Tribunais cíveis;\n\nb) Tribunais criminais;\n\nc) Tribunais de instrução criminal;\n\nd) Tribunais de família;\n\ne) Tribunais de menores;\n\nf) Tribunais do trabalho;\n\ng) Tribunais de execução das penas.\n\n2. Podem ainda ser criados tribunais marítimos com regras de organização, competência e funcionamento a definir em lei especial."
+  },
+  "d09c5ff98fbd69e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — (Competência)\n\nCompete aos tribunais cíveis preparar e julgar acções que não estejam atribuídas a outros tribunais."
+  },
+  "4ac7fb3258931823": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — (Funcionamento)\n\n1. Nas acções que tenham por objecto questões de arrendamento rural, o tribunal é constituído pelo juiz singular ou pelo colectivo, conforme os casos, e por dois juízes sociais.\n\n2. Dos juízes sociais, um é recrutado de entre senhorios e outro de entre rendeiros."
+  },
+  "ad194d33b0e1b1ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — (Competência)\n\nCompete aos tribunais criminais a pronúncia, o julgamento e os termos subsequentes nas causas crime, salvo o disposto nos artigos 63.º, 67.º e 70.º"
+  },
+  "e022ac88b034ef9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — (Competência)\n\nCompete aos tribunais de instrução criminal proceder à instrução preparatória e à instrução contraditória e exercer as funções jurisdicionais relativas ao inquérito preliminar e ao processo de segurança."
+  },
+  "ca9f577c12d4732d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — (Competência)\n\n1. Compete aos tribunais de família preparar e julgar:\n\na) Processos de jurisdição voluntária relativos aos cônjuges;\n\nb) Acções de separação de pessoas e bens e de divórcio;\n\nc) Acções de declaração de inexistência ou de anulação do casamento civil;\n\nd) Acções intentadas com base no artigo 1647.º e n.º 2 do artigo 1648.º do Código Civil;\n\ne) Acções de alimentos entre cônjuges."
+  },
+  "0304543c4081c218": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — (Jurisdição de menores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — (Jurisdição de menores)\n\n1. Compete aos tribunais de família, relativamente a menores:\n\na) Instaurar a tutela e a administração de bens;\n\nb) Nomear pessoa que haja de celebrar negócios em nome do menor e, bem assim, nomear curador geral que represente extrajudicialmente o menor sujeito ao poder paternal;\n\nc) Constituir o vínculo da adopção;\n\nd) Regular o exercício do poder paternal e conhecer das questões a este respeitantes;\n\ne) Fixar os alimentos devidos a menores;\n\nf) Ordenar a entrega judicial do menor;\n\ng) Autorizar o representante legal dos menores a praticar certos actos, confirmar os que tenham sido praticados sem autorização e providenciar acerca da aceitação de liberalidades;\n\nh) Decidir acerca da caução que os pais devam prestar a favor dos filhos menores;\n\ni) Suprir a autorização dos pais para o casamento de menores;\n\nj) Decidir acerca da dispensa de impedimentos matrimoniais quando algum dos nubentes for menor;\n\nl) Decretar a inibição, total ou parcial, e estabelecer limitações ao exercício do poder paternal;\n\nm) Proceder à averiguação oficiosa de maternidade ou paternidade;\n\nn) Decidir, em caso de desacordo dos pais, sobre o nome e apelidos do menor;\n\no) Declarar a inexistência de posse de estado nos casos previstos no artigo 1833.º do Código Civil.\n\n2. Compete ainda aos tribunais de família:\n\na) Havendo tutela ou administração de bens, determinar a remuneração do tutor ou administrador, conhecer da escusa, exoneração ou remoção do tutor, administrador ou vogal do conselho de família, exigir e julgar as contas, autorizar a substituição da hipoteca legal e determinar o reforço e substituição da caução prestada e nomear curador especial que represente o menor extrajudicialmente;\n\nb) Nomear curador especial que represente o menor em qualquer processo tutelar;\n\nc) Converter, revogar e rever a adopção, exigir e julgar as contas do adoptante e fixar o montante dos rendimentos destinados a alimentos do adoptado;\n\nd) Decidir acerca do reforço e substituição da caução prestada a favor dos filhos menores;\n\ne) Exigir e julgar as contas que os pais devam prestar;\n\nf) Conhecer de quaisquer outros incidentes dos processos referidos no número anterior."
+  },
+  "195f0d5509181b90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — (Competência)\n\n1. Compete aos tribunais de menores decretar medidas relativamente a menores que, tendo completado 12 anos e antes de perfazerem 16, se encontrem em alguma das seguintes situações:\n\na) Mostrem dificuldade séria de adaptação a uma vida social normal, pela sua situação, pelo seu comportamento ou pelas tendências que hajam revelado;\n\nb) Se entreguem à mendicidade, vadiagem, prostituição, libertinagem, abuso de bebidas alcoólicas ou uso ilícito de estupefacientes;\n\nc) Sejam agentes de algum facto qualificado pela lei penal como crime ou contravenção.\n\n2. A competência dos tribunais de menores é extensiva a menores com idade inferior a 12 anos quando:\n\na) Os pais ou o representante legal não aceitem a intervenção tutelar ou reeducativa de instituições oficiais ou oficializadas não judiciárias;\n\nb) As instituições referidas na alínea anterior admitam que o menor agiu com discernimento na prática de facto qualificado pela lei penal como crime.\n\n3. Os tribunais de menores são igualmente competentes para:\n\na) Decretar medidas relativamente a menores que sejam vítimas de maus tratos ou se encontrem em situação de abandono ou desamparo capazes de pôr em perigo a sua saúde, segurança, educação ou moralidade;\n\nb) Decretar medidas relativamente a menores que, tendo atingido os 14 anos, se mostrem gravemente inadaptados à disciplina da família, do trabalho ou do estabelecimento de educação e assistência em que se encontrem internados;\n\nc) Apreciar e decidir pedidos de protecção de menores contra o exercício abusivo de autoridade na família ou nas instituições a que estejam entregues.\n\n4. Quando, durante o cumprimento da medida, o menor com mais de 16 e menos de 18 anos cometer alguma infracção criminal, o tribunal pode conhecer dela, para o efeito de rever a medida em execução, se a personalidade do menor e as circunstâncias pouco graves do facto assim o aconselharem.\n\n5. Cessa a competência do tribunal para conhecimento das situações referidas no n.º 1 quando o processo nele der entrada depois de o menor atingir 18 anos, caso em que será arquivado.\n\n6. É da competência exclusiva dos tribunais de menores a aplicação das medidas a que se refere o n.º 2 do artigo seguinte."
+  },
+  "eff3bb72f8aad74b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — (Funcionamento)\n\n1. O tribunal de menores funciona, em regra, com um só juiz.\n\n2. Nos processos em que se presuma a aplicação de medida de internamento e no caso previsto no n.º 4 do artigo 63.º, o julgamento pertence a um tribunal constituído pelo juiz de menores, que preside, e por dois juízes sociais."
+  },
+  "7ac2d5210d200fae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — (Definição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — (Definição)\n\nOs tribunais do trabalho exercem jurisdição social nos termos dos artigos seguintes."
+  },
+  "542366c57c81e26a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — (Competência cível)",
+   "in_force_from": "1980-09-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 348/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1980-464003), publicado em 1980-09-03."
+   ],
+   "markdown": "###### Artigo 66.º — (Competência cível)\n\nCompete aos tribunais do trabalho conhecer, em matéria cível:\n\na) Das questões relativas à legalidade dos instrumentos de regulamentação de trabalho;\n\nb) Das questões emergentes de relações de trabalho subordinado e de relações estabelecidas com vista à celebração de contratos de trabalho;\n\nc) Das questões emergentes de acidentes de trabalho e doenças profissionais;\n\nd) Das questões de enfermagem ou hospitalares, de fornecimento de medicamentos emergentes da prestação de serviços clínicos, de aparelhos de prótese e de ortopedia ou de quaisquer outros serviços ou prestações efectuados ou pagos em benefício de vítimas de acidentes de trabalho ou doenças profissionais;\n\ne) Das acções destinadas a anular os actos e contratos celebrados por quaisquer entidades responsáveis com o fim de se eximirem ao cumprimento de obrigações resultantes da aplicação da legislação sindical, do trabalho ou da Previdência;\n\nf) Das questões emergentes de trabalho autónomo, quando este não seja prestado por empresários ou por profissionais livres nessas qualidades;\n\ng) Das questões emergentes de contratos de aprendizagem e de tirocínio;\n\nh) Das questões entre trabalhadores ao serviço da mesma entidade, a respeito de direitos e obrigações que resultem de actos praticados em comum na execução das suas relações de trabalho ou que resultem de acto ilícito praticado por um deles na execução do serviço e por motivo deste, ressalvada a competência dos tribunais criminais quanto à responsabilidade civil conexa com a criminal;\n\ni) Das questões entre instituições de previdência ou de abono de família e seus beneficiários, quando respeitem a direitos, poderes ou obrigações legais, regulamentares ou estatutárias de umas ou outros;\n\nj) Das questões entre organismos sindicais e sócios ou pessoas por eles representados, ou afectados por decisões suas, quando respeitem a direitos, poderes ou obrigações legais, regulamentares ou estatutárias de uns ou de outros;\n\nl) Dos processos destinados à liquidação e partilha de bens de instituições de previdência ou de organismos sindicais, quando não haja disposição legal em contrário;\n\nm) Das questões entre instituições de previdência ou entre organismos sindicais, a respeito da existência, extensão ou qualidade de poderes ou deveres legais, regulamentares ou estatutários de um deles que afecte o outro;\n\nn) Das execuções fundadas nas suas decisões ou noutros títulos executivos, ressalvada a competência atribuída a outros tribunais;\n\no) Das questões entre sujeitos de uma relação jurídica de trabalho ou entre um desses sujeitos e terceiros, quando emergentes de relações conexas com a relação de trabalho, por acessoriedade, por complementaridade ou por dependência, e o pedido se cumule com outro para o qual o tribunal seja directamente competente;\n\np) Das questões reconvencionais que com a acção tenham as relações de conexão referidas na alínea anterior, salvo no caso de compensação, em que é dispensada a conexão;\n\nq) Das questões cíveis relativas à greve;\n\nr) Das demais questões que por lei lhe sejam atribuídas.\n\n> Alterado pelo/a [Decreto-Lei n.º 348/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1980-464003), publicado em 1980-09-03."
+  },
+  "7845f28abf9e0adf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — (Competência contravencional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — (Competência contravencional)\n\nCompete aos tribunais do trabalho conhecer e julgar, em matéria contravencional:\n\na) As transgressões de normas legais e convencionais reguladoras das relações de trabalho;\n\nb) As transgressões de normas legais ou regulamentares sobre encerramento de estabelecimentos comerciais ou industriais, ainda que sem pessoal ao seu serviço;\n\nc) As transgressões de normas legais ou regulamentares sobre higiene, salubridade e condições de segurança dos locais de trabalho;\n\nd) As transgressões de preceitos legais relativos a acidentes de trabalho e doenças profissionais;\n\ne) As infracções de natureza contravencional relativas à greve;\n\nf) As demais infracções de natureza contravencional cujo conhecimento lhes seja atribuído por lei."
+  },
+  "b6dcd354b2b6576a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — (Juízes sociais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — (Juízes sociais)\n\n1. Nas causas referidas nas alíneas a), b), e), f), g) e q) do artigo 66.º em que deva intervir o colectivo, o tribunal é constituído pelo colectivo e por dois juízes sociais.\n\n2. Nas causas referidas na alínea f) do artigo 66.º, um dos juízes sociais deve ser nomeado na qualidade de trabalhador independente e outro na qualidade de trabalhador assalariado. Nas causas referidas nas demais alíneas mencionadas no número anterior, um dos juízes sociais é recrutado de entre entidades patronais e outro de entre trabalhadores assalariados."
+  },
+  "b523db99c64ac39a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — (Funcionamento)\n\nO tribunal de execução das penas funciona com um só juiz."
+  },
+  "76d9e24b58f64b81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — (Competência)\n\nCompete ao tribunal de execução das penas decidir sobre a modificação ou substituição das penas ou medidas de segurança, em curso de execução, e em especial:\n\na) Declarar perigosos os delinquentes que por esse motivo devam ser sujeitos a penas ou medidas de segurança, quando tal declaração não tenha lugar em processo penal;\n\nb) Julgar os vadios ou equiparados que residam ou sejam presos na área da comarca sede do tribunal;\n\nc) Decidir sobre as alterações do estado de perigosidade criminal, anteriormente declarado, que devam ter por efeito a substituição das penas ou medidas de segurança;\n\nd) Decidir sobre a prorrogação das penas aplicadas a delinquentes de difícil correcção e a delinquentes anormais perigosos;\n\ne) Decidir sobre a cessação do estado de perigosidade criminal;\n\nf) Decidir sobre a substituição por liberdade vigiada ou caução, ou por ambas as medidas, da prorrogação das penas ou medidas de segurança aplicadas a delinquentes de difícil correcção ou delinquentes anormais perigosos;\n\ng) Decidir sobre a substituição de medidas de segurança mais graves por outras menos graves que se mostrem adequadas;\n\nh) Conceder a liberdade condicional e decidir sobre a sua revogação, bem como reduzir a duração das medidas de segurança não privativas de liberdade;\n\ni) Conceder e revogar, nos termos da lei, a reabilitação dos condenados em quaisquer penas e dos imputáveis sujeitos por decisão judicial a medidas de segurança;\n\nj) Decidir sobre o incidente de alienação mental sobrevinda ou conhecida no decurso de execução das penas ou medidas de segurança privativas de liberdade;\n\nl) Emitir parecer sobre a concessão de indulto ou comutação da pena ou da medida de segurança e decidir sobre a sua revogação, bem como fazer a aplicação daqueles, e aplicar a amnistia, sempre que os respectivos processos se encontrem na secretaria, ainda que transitoriamente."
+  },
+  "c7a671a45e18cc96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — (Competência do juiz)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — (Competência do juiz)\n\nSem prejuízo das funções jurisdicionais previstas no artigo anterior, compete ao juiz do tribunal de execução das penas:\n\na) Visitar, pelo menos mensalmente, os estabelecimentos prisionais da respectiva circunscrição, a fim de tomar conhecimento da forma como estão a ser executadas as condenações;\n\nb) Ouvir, na altura da visita, as pretensões dos reclusos que para o efeito se inscrevam em livro próprio e resolvê-las, ouvido o director do estabelecimento;\n\nc) Conhecer dos recursos interpostos pelos reclusos de decisões disciplinares que apliquem sanção de internamento em cela disciplinar por tempo superior a oito dias;\n\nd) Conceder e revogar as saídas precárias prolongadas;\n\ne) Convocar e presidir ao conselho técnico dos estabelecimentos, sempre que o entenda necessário ou a lei o preveja;\n\nf) Exercer as demais atribuições conferidas por lei."
+  },
+  "2034e62123855cd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º — (Tribunais de distrito e de círculo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — (Tribunais de distrito e de círculo)\n\n1. Nos distritos e nos círculos judiciais pode haver tribunais de competência especializada ou específica com jurisdição em todas ou algumas das comarcas a eles pertencentes.\n\n2. Os tribunais referidos no número anterior têm a mesma natureza dos tribunais de comarca, sendo-lhes aplicáveis as correspondentes disposições relativamente a organização, funcionamento, competência e alçada."
+  },
+  "a545949a64c3054c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 73.º — (Julgados de paz)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — (Julgados de paz)\n\n1. Em cada freguesia pode haver um julgado de paz.\n\n2. Compete à assembleia ou ao plenário de freguesia deliberar sobre a criação do julgado de paz."
+  },
+  "a6db5ca538106520": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º — (Juízes de paz)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — (Juízes de paz)\n\n1. Nos julgados de paz exerce funções um juiz de paz.\n\n2. Os juízes de paz são eleitos pela assembleia ou pelo plenário da freguesia e exercem as suas funções por um quadriénio.\n\n3. Aos juízes de paz aplicam-se, com as necessárias adaptações, as normas sobre disciplina constantes do Estatuto da Magistratura Judicial."
+  },
+  "aa49e5b1c2d24d03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 75.º — (Requisitos para a eleição dos juízes de paz)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — (Requisitos para a eleição dos juízes de paz)\n\nPodem ser eleitos juízes de paz cidadãos de reputada idoneidade que reúnam as seguintes condições:\n\na) Ser português;\n\nb) Ter mais de 25 anos;\n\nc) Saber ler e escrever;\n\nd) Estar no pleno gozo dos direitos civis e políticos;\n\ne) Não ter sofrido condenação nem estar pronunciado por crime doloso;\n\nf) Ser eleitor inscrito pela respectiva freguesia."
+  },
+  "f43c6c0dc186b866": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 76.º — (Competência dos juízes de paz)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — (Competência dos juízes de paz)\n\n1. Compete aos juízes de paz:\n\na) Exercer a conciliação nos termos da lei de processo;\n\nb) Julgar as transgressões e contravenções às posturas de freguesia;\n\nc) Preparar e julgar acções de natureza cível de valor não superior à alçada dos tribunais de comarca, quando envolvam apenas direitos e interesses de vizinhos e as partes estejam de acordo em fazê-las seguir no julgado de paz;\n\nd) Exercer as demais atribuições que lhes venham a ser conferidas por lei.\n\n2. Das decisões dos juízes de paz há sempre recurso para o tribunal de comarca."
+  },
+  "056810027636e247": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 77.º — (Ministério Público)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — (Ministério Público)\n\n1. O Ministério Público é o órgão do Estado encarregado de, junto dos tribunais judiciais, defender a legalidade democrática, representar o Estado, exercer a acção penal e promover a realização do interesse social.\n\n2. Representam o Ministério Público:\n\na) No Supremo Tribunal de Justiça, o procurador-geral da República;\n\nb) Nos tribunais da relação, procuradores-gerais adjuntos;\n\nc) Nos tribunais de 1.ª instância, procuradores da República.\n\n3. Os magistrados referidos no número anterior podem fazer-se substituir por outros magistrados e agentes, nos termos da Lei Orgânica do Ministério Público."
+  },
+  "e5a04634611a0e0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 78.º — (Advogados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — (Advogados)\n\n1. Os advogados colaboram na administração da justiça, competindo-lhes, de forma exclusiva e com as excepções previstas na lei, a defesa jurídica das partes.\n\n2. Na sua função de defesa dos direitos e garantias individuais, os advogados podem requerer a intervenção dos órgãos jurisdicionais competentes."
+  },
+  "0e8e3c7c1d67fdaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 79.º — (Solicitadores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — (Solicitadores)\n\nOs solicitadores são auxiliares da administração da justiça, representando as partes nos casos previstos na lei."
+  },
+  "b349e484ce68c3c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 80.º — (Repartições e secretarias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — (Repartições e secretarias)\n\nO expediente dos tribunais judiciais é assegurado por repartições ou secretarias."
+  },
+  "94526a58f4e9eaed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 81.º — (Instalação dos tribunais judiciais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — (Instalação dos tribunais judiciais)\n\n1. As despesas com a instalação e funcionamento dos tribunais judiciais constituem encargo do Estado.\n\n2. As despesas com a instalação dos julgados de paz constituem encargo das juntas de freguesia.\n\n3. Lei especial regulará a participação do Estado nos encargos com o expediente dos julgados de paz."
+  },
+  "66eff3e8c3f97faf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 82.º — (Presidentes dos tribunais superiores e vice-presidente do Supremo Tribunal de Justiça)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — (Presidentes dos tribunais superiores e vice-presidente do Supremo Tribunal de Justiça)\n\n1. As funções exercidas pelos actuais presidentes dos tribunais superiores cessam decorridos três anos após a respectiva eleição.\n\n2. No prazo de sessenta dias, contado da entrada em vigor desta lei, proceder-se-á à eleição do vice-presidente do Supremo Tribunal de Justiça, com observância do disposto no artigo 31.º\n\n3. O exercício do cargo de vice-presidente, eleito nos termos do número anterior, cessa com o termo do exercício do cargo de presidente."
+  },
+  "1346a608c18457a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 83.º — (Extinção de órgãos jurisdicionais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — (Extinção de órgãos jurisdicionais)\n\n1. São extintos os órgãos jurisdicionais não previstos nesta lei com competência, atribuída por lei anterior, para dirimir conflitos de interesses públicos e privados, com excepção dos tribunais militares, do Tribunal de Contas, dos tribunais administrativos e dos tribunais fiscais.\n\n2. São nomeadamente extintos:\n\na) A 3.ª secção do Supremo Tribunal Administrativo;\n\nb) Os tribunais de recurso das avaliações;\n\nc) As comissões arbitrais de assistência;\n\nd) Os tribunais municipais;\n\ne) As comissões de conciliação e julgamento;\n\nf) As comissões arbitrais e comarcãs criadas pelo [Decreto-Lei n.º 201/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1975-162082), de 15 de Abril.\n\n3. É extinta a competência dos tribunais marítimos para o conhecimento de crimes, mantendo-se aqueles, no restante, com a sua organização e funcionamento até à entrada em vigor da lei prevista no n.º 2 do artigo 56.º, que deverá ser publicada no prazo de seis meses, contado da data da publicação do presente diploma."
+  },
+  "ba080f30dd972bdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 84.º — (Extinção de competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — (Extinção de competência)\n\nÉ extinta a competência atribuída aos Tribunais Municipais de Lisboa e Porto pelo disposto na alínea a) do artigo 5.º do [Decreto-Lei n.º 192/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1973-421996), de 30 de Abril."
+  },
+  "4c49ab721077dba8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 85.º — (Tribunais do trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — (Tribunais do trabalho)\n\nOs tribunais do trabalho são integrados na ordem judiciária e transitam para a dependência orgânica do Ministério da Justiça."
+  },
+  "0a1dd3efb6708728": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 86.º — (Juízes da 3.ª secção do Supremo Tribunal) Administrativo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — (Juízes da 3.ª secção do Supremo Tribunal) Administrativo)\n\n1. Os juízes em serviço na 3.ª secção do Supremo Tribunal Administrativo são providos em idêntico cargo no Supremo Tribunal de Justiça, se tiverem a categoria de juízes deste Tribunal. No caso contrário, preencherão as vagas existentes no Supremo Tribunal Administrativo.\n\n2. Não havendo vagas e até à sua existência, os juízes da 3.ª secção do Supremo Tribunal Administrativo ficam na situação de supranumerários."
+  },
+  "217f44ea6190b243": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 87.º — (Juízes dos tribunais extintos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — (Juízes dos tribunais extintos)\n\nOs juízes de direito em serviço nos tribunais referidos nas alíneas b) e c) do n.º 2 do artigo 83.º têm preferência na colocação em tribunal da sua categoria da mesma localidade."
+  },
+  "89dbb4a6fbf1dc67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 88.º — (Extinção da categoria de corregedor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — (Extinção da categoria de corregedor)\n\n1. É extinta a categoria de corregedor.\n\n2. Os corregedores que prestam serviço nos juízos criminais, varas cíveis, tribunais de família e tribunais de execução das penas consideram-se providos, sem necessidade de qualquer formalidade, como juízes de direito dos respectivos juízos ou tribunais.\n\n3. Os corregedores presidentes de círculo judicial consideram-se providos, sem necessidade de qualquer formalidade, como juízes do respectivo círculo."
+  },
+  "d510a25c1463a424": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 89.º — (Tribunais colectivos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — (Tribunais colectivos)\n\nO Conselho Superior da Magistratura publicará, no prazo de trinta dias, contado da entrada em vigor desta lei, o aviso a que se refere o n.º 3 do artigo 50.º, incluindo as disposições necessárias à execução do estipulado nos artigos anteriores."
+  },
+  "e4ea9b0e49da0e2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 90.º — (Disposição transitória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — (Disposição transitória)\n\nO disposto no n.º 1 do artigo 20.º não se aplica aos processos pendentes à data da entrada em vigor desta lei."
+  },
+  "104e6a2c5962c496": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 91.º — (Providências orçamentais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — (Providências orçamentais)\n\nFica o Governo autorizado a adoptar as providências orçamentais necessárias à regulamentação desta lei."
+  },
+  "4fb12ca02d34a218": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 92.º — (Regulamentação e entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — (Regulamentação e entrada em vigor)\n\n1. A presente lei entra imediatamente em vigor quanto ao disposto no n.º 3 do artigo 83.º\n\n2. No restante, entrará em vigor no dia 31 de Julho de 1978, devendo o Governo regulamentá-la, em tempo útil, mediante decreto-lei.\n\nAprovada em 14 de Outubro de 1977.\n\nO Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgada em 11 de Novembro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

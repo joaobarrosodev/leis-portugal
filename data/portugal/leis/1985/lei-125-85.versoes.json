@@ -1,0 +1,156 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:261715:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-10-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c82c20053fd1d18a",
+    "0cf67dd43adc8650",
+    "b7ee7848b488208b",
+    "9566e30580420db0",
+    "21890abf1c81bd55",
+    "e7e9cabedfb6a847",
+    "76d17ccb9aa9e94f"
+   ]
+  },
+  {
+   "date": "1986-08-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:218889:por",
+     "title": "Lei n.º 22/86",
+     "published": "1986-08-16",
+     "dre_path": "/dr/detalhe/lei/22-1986-218889"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "c82c20053fd1d18a",
+    "99fd6c5136e55044",
+    "725236533cb27482",
+    "8181f33f2523c617",
+    "389ae702f72a5175",
+    "afba18a85f1daf29",
+    "256a8b3eb92fb4ea"
+   ]
+  }
+ ],
+ "fragments": {
+  "c82c20053fd1d18a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Outubro\n\nCriação da freguesia de Charneca de Caparica no concelho de Almada\n\nA Assembleia da República decreta, nos termos da alínea j) do artigo 167.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:"
+  },
+  "0cf67dd43adc8650": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º\n\nÉ criada no concelho de Almada a freguesia de Charneca de Caparica."
+  },
+  "b7ee7848b488208b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º\n\nOs limites da nova freguesia, conforme representação cartográfica anexa, são:\n\nA norte, acompanha o talvegue da foz do Rego desde o limite da freguesia de Costa da Caparica até à antiga Quinta do Oliva, que atravessa Daqui inflecte para nordeste e contorna o muro da Quinta da Regateira até à estrada nacional n.º 377, seguindo depois esta estrada para norte até ao cruzamento do Lazarim, onde conflui com a freguesia de Sobreda;\n\nA oeste, desde o alto de Brielas, pelo limite da freguesia de Costa da Caparica, até ao limite do concelho;\n\nA sul, o limite do concelho;\n\nA leste, o limite do concelho até à Madalena e daqui por caminho a leste de Vale de Rosal, Conde, Bico e fábrica de cerâmica até Vale de Figueira."
+  },
+  "9566e30580420db0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º\n\n1 - A comissão instaladora da nova esta freguesia será constituída nos termos e no prazo previstos no artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832), de 2 de Junho.\n\n2 - Para os efeitos da disposição referida no número anterior, a Assembleia Municipal de Almada nomeará uma comissão instaladora constituída por:\n\na) 1 representante da Câmara Municipal de Almada;\n\nb) 1 representante da Assembleia Municipal de Almada;\n\nc) 1 representante da Assembleia de Freguesia de Caparica;\n\nd) 1 representante da junta de Freguesia de Caparica;\n\ne) 5 cidadãos eleitores designados de acordo com o n.º 3 do artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832)."
+  },
+  "21890abf1c81bd55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º\n\n1 - A comissão instaladora exercerá funções até à tomada de posse dos órgãos autárquicos da nova freguesia.\n\n2 - O artigo 10.º, n.º 6, da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832) não se aplica à criação da presente freguesia."
+  },
+  "e7e9cabedfb6a847": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º\n\nAs eleições para a assembleia da nova freguesia realizar-se-ão na data das primeiras eleições autárquicas gerais posteriores à entrada em vigor da presente lei."
+  },
+  "76d17ccb9aa9e94f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º\n\nA presente lei entra em vigor 5 dias após a sua publicação.\n\nAprovada em 11 de Julho de 1985.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 2 de Setembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 4 de Setembro de 1985.\n\nO Primeiro-Ministro, Mário Soares.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/22901/00970098.pdf)"
+  },
+  "99fd6c5136e55044": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criada no concelho de Almada a freguesia de Charneca de Caparica."
+  },
+  "725236533cb27482": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1986-08-21",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 22/86](https://diariodarepublica.pt/dr/detalhe/lei/22-1986-218889), publicado em 1986-08-16."
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs limites da nova freguesia, conforme representação cartográfica anexa, são:\n\nA norte, acompanha o talvegue da foz do Rego desde o limite da freguesia de Costa da Caparica até à antiga Quinta do Oliva, que atravessa Daqui inflecte para nordeste e contorna o muro da Quinta da Regateira até à estrada nacional n.º 377, seguindo depois esta estrada para norte até ao cruzamento do Lazarim, onde conflui com a freguesia de Sobreda;\n\nA oeste, desde a foz do Rego, pelo limite da freguesia da Costa da Caparica, até ao limite do concelho.\n\nA sul, o limite do concelho;\n\nA leste, o limite do concelho até à Madalena e daqui por caminho a leste de Vale de Rosal, Conde, Bico e fábrica de cerâmica até Vale de Figueira.\n\n> Alterado pelo/a [Lei n.º 22/86](https://diariodarepublica.pt/dr/detalhe/lei/22-1986-218889), publicado em 1986-08-16."
+  },
+  "8181f33f2523c617": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A comissão instaladora da nova esta freguesia será constituída nos termos e no prazo previstos no artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832), de 2 de Junho.\n\n2 - Para os efeitos da disposição referida no número anterior, a Assembleia Municipal de Almada nomeará uma comissão instaladora constituída por:\n\na) 1 representante da Câmara Municipal de Almada;\n\nb) 1 representante da Assembleia Municipal de Almada;\n\nc) 1 representante da Assembleia de Freguesia de Caparica;\n\nd) 1 representante da junta de Freguesia de Caparica;\n\ne) 5 cidadãos eleitores designados de acordo com o n.º 3 do artigo 10.º da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832)."
+  },
+  "389ae702f72a5175": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A comissão instaladora exercerá funções até à tomada de posse dos órgãos autárquicos da nova freguesia.\n\n2 - O artigo 10.º, n.º 6, da [Lei n.º 11/82](https://diariodarepublica.pt/dr/detalhe/lei/11-1982-391832) não se aplica à criação da presente freguesia."
+  },
+  "afba18a85f1daf29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs eleições para a assembleia da nova freguesia realizar-se-ão na data das primeiras eleições autárquicas gerais posteriores à entrada em vigor da presente lei."
+  },
+  "256a8b3eb92fb4ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA presente lei entra em vigor 5 dias após a sua publicação.\n\nAprovada em 11 de Julho de 1985.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 2 de Setembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 4 de Setembro de 1985.\n\nO Primeiro-Ministro, Mário Soares.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/10/22901/00970098.pdf)"
+  }
+ }
+}

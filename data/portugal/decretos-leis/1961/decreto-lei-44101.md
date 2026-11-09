@@ -30,10 +30,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-12-03'
+version_history:
+  file: decreto-lei-44101.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-12-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-12-03'
+    amending: pt:dre:688256:por
+    amending_title: Decreto-Lei n.º 45357; Decreto-Lei n.º 535/71
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Adita Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:39:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 45357; Decreto-Lei
+    n.º 535/71. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1961/decreto-lei-44101.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -106,17 +123,33 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Os médicos internos e os médicos aprovados em mérito relativo nos concursos de admissão aos internatos dos hospitais centrais que, em consequência de operações militares ou de factos equiparáveis, hajam sido convocados extraordinàriamente ou mobilizados abrem vaga, mas poderão retomar ou iniciar quando desmobilizados ou licenciados, o estágio para obtenção do respectivo diploma do internato, se o requererem dentro do prazo de um ano, a partir da data da desmobilização, licenciamento ou qualquer outra forma de cessação do impedimento verificado, ficando supranumerários ao quadro e sem direito a vencimento.
+###### Artigo 1.º
 
-§ 1.º Aos médicos referidos no presente artigo, sempre que o requeiram, é contado o tempo de serviço militar para efeito de estágio hospitalar do internato geral, independentemente do número de faltas dadas, desde que esse serviço tenha sido prestado como médico do serviço de saúde militar.
+Os médicos internos e os médicos aprovados em mérito relativo nos concursos de admissão aos internatos dos hospitais centrais que sejam chamados à prestação de serviço militar obrigatório, convocados extraordinàriamente ou mobilizados, abrem vaga, mas poderão retomar ou iniciar, quando desmobilizados ou licenciados, o estágio para obtenção do respectivo diploma do internato, se o requererem dentro do prazo de um ano, a partir da data da desmobilização, licenciamento ou qualquer outra forma de cessação do impedimento verificado, ficando supranumerários ao quadro e sem direito a vencimento.
 
-§ 2.º Quando o período da convocação extraordinária ou mobilização exceder o tempo equivalente ao internato geral, pode o restante ser considerado para a contagem do estágio do internato intermédio, nos hospitais onde existir.
+§ 1.º Aos médicos referidos no presente artigo, sempre que o requeiram, é contado o tempo de serviço militar para efeito de estágio hospitalar do internato geral, independentemente do número de faltas dadas, desde que esse serviço tenha sido prestado como oficial médico.
+
+§ 2.º Quando o período de impedimento por serviço militar exceder o tempo equivalente ao internato geral, pode o restante ser considerado para a contagem do estágio do internato intermédio nos hospitais onde existir.
 
 § 3.º Os médicos que obtiverem aprovação no primeiro concurso para os internatos complementares ou graduados, aberto após a cessação do impedimento, podem requerer que lhes seja contado como exercício desses mesmos internatos o tempo que hajam trabalhado em serviço de saúde militar das especialidades correspondentes. O deferimento depende de parecer favorável dos conselhos técnicos dos hospitais respectivos.
 
-Art. 2.º O Ministro da Saúde e Assistência poderá autorizar que os estágios realizados em estabelecimentos do Ministério, ao abrigo da parte final do corpo do artigo anterior, sejam remunerados, desde que se verifiquem disponibilidades nas verbas orçamentais destinadas ao pagamento de pessoal.
+> Alterado pelo/a [Decreto-Lei n.º 45357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45357-1963-688256), publicado em 1963-11-16.
 
-Art. 3.º A aplicação do regime definido no presente decreto-lei pode ser requerida pelos médicos que se encontrem nas condições nele estabelecidas, desde que a sua convocação extraordinária ou a sua mobilização hajam tido lugar depois de 1 de Janeiro do ano corrente.
+###### Artigo 2.º
+
+O Ministro da Saúde e Assistência poderá autorizar que os estágios realizados em estabelecimentos do Ministério, ao abrigo da parte final do corpo do artigo anterior, sejam remunerados, desde que se verifiquem disponibilidades nas verbas orçamentais destinadas ao pagamento de pessoal.
+
+###### Artigo 3.º
+
+A aplicação do regime definido no presente decreto-lei pode ser requerida pelos médicos que se encontrem nas condições nele estabelecidas, desde que o início de prestação de serviço militar obrigatório, a convocação extraordinária ou a sua mobilização hajam tido lugar depois de 1 de Janeiro de 1959.
+
+> Alterado pelo/a [Decreto-Lei n.º 45357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45357-1963-688256), publicado em 1963-11-16.
+
+###### Artigo 4.º
+
+Os médicos que, por motivo de prestação de serviço militar obrigatório, hajam de adiar a sua apresentação a provas de exame ou concurso do internato médico ficam sujeitos, quando venham a apresentar-se a tais provas, se o fizerem na primeira oportunidade após ter cessado o impedimento, às mesmas condições que lhes seriam legalmente aplicáveis se tivessem podido apresentar-se no tempo normal.
+
+> Aditado pelo/a [Decreto-Lei n.º 535/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/535-1971-632035), publicado em 1971-12-03.
 
 Publique-se e cumpra-se como nele se contém.
 

@@ -1,0 +1,563 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:413203:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1973-10-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "626dd7615bfa3f02"
+   ]
+  },
+  {
+   "date": "1978-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:314898:por",
+     "title": "Decreto-Lei n.º 459/75",
+     "published": "1975-08-23",
+     "dre_path": "/dr/detalhe/decreto-lei/459-1975-314898"
+    },
+    {
+     "id": "pt:dre:325920:por",
+     "title": "Decreto-Lei n.º 338/78",
+     "published": "1978-11-14",
+     "dre_path": "/dr/detalhe/decreto-lei/338-1978-325920"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 50.º"
+   ],
+   "fragments": [
+    "cc149c0b01b91dfa",
+    "c34c8c40ffd1ffcf",
+    "7535111302be94b2",
+    "13a903cbfe5cb128",
+    "79510ab5058122b2",
+    "aee27603e8da23ad",
+    "885f5d6d084b8dec",
+    "df71307554d67d24",
+    "521c79c543f3eab0",
+    "8c088b5805c6225a",
+    "c967eaa1a3f0242f",
+    "0e1b946b991000ae",
+    "9703480b911de975",
+    "b874111817fdcfed",
+    "fa169088436e12b2",
+    "ffbafde80508cb46",
+    "2efa9d4b94e2612d",
+    "cf41424d232363e3",
+    "231b46c5ce4cef98",
+    "8bb43c65997309f0",
+    "cd315b4b29b1c5bf",
+    "25771ee339ecf9a9",
+    "232c7a915096de80",
+    "d1bbd76513520520",
+    "f6dbb4289f245fd8",
+    "b0c32fe4d7148065",
+    "286b230c50a356cd",
+    "ab6992f1aba0945a",
+    "d36b2e5ccfe52b47",
+    "73a09b148da586cc",
+    "2c90f356378d4287",
+    "320b2307dc063fb5",
+    "80d6f734db4e0f60",
+    "3bd0cec4fc52fcac",
+    "4a85d6165551f899",
+    "ec9de56171c2801e",
+    "72aac564026d9829",
+    "8bc8a08a922334be",
+    "8370eefeeebb9e6d",
+    "b51bc8aecb3ca3fb",
+    "ac817381a5bf6cb2",
+    "9be6861120da7a40",
+    "767b4cb0f59b2662",
+    "41acbd5c487d6c79",
+    "6d1159e95304e079",
+    "f2bd154d9e18aa3c",
+    "f3299c97c05f1515",
+    "fb33c63e4999b01b",
+    "934961b14de4c6f1",
+    "9d5359716b273c7e",
+    "308c56e43f5bc65d",
+    "8b913690166bd83f",
+    "c97e92cfa9609b6a",
+    "7107376d9cd97f93",
+    "934ea4c8e28121dd"
+   ]
+  }
+ ],
+ "fragments": {
+  "626dd7615bfa3f02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Outubro\n\nDe há muito que se faz sentir a necessidade de rever as estruturas administrativas dos estabelecimentos de ensino preparatório e secundário, bem como das escolas do magistério primário, assumindo particular relevo os aspectos da gestão financeira e das atribuições dos respectivos conselhos administrativos.\n\nPor outro lado, e em seguimento da orientação estabelecida no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, instituiu-se num quadro único de pessoal administrativo e auxiliar integrando os quadros privativos daqueles estabelecimentos, medida que faz abrir melhores expectativas aos funcionários e permite uma gestão mais racional e harmónica dos recursos humanos, do mesmo modo que assegura maiores possibilidades no provimento dos cargos.\n\nPor fim, e de acordo com a orientação estabelecida naquele diploma e no [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, é reorganizada toda a matéria relativa a concursos de habilitação e provimento para as diversas categorias da carreira do pessoal administrativo.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nDo funcionamento dos serviços administrativos dos estabelecimentos do ensino médio, secundário e preparatório e das escolas do magistério primário.\n\nI - Da administração dos estabelecimentos de ensino\n\nArtigo 1.º Os estabelecimentos de ensino médio, secundário e preparatório e as escolas do magistério primário gozam de autonomia administrativa, sem prejuízo das disposições gerais sobre contabilidade pública e da superintendência a exercer pela Direcção-Geral da Administração Escolar.\n\nArt. 2.º São órgãos de direcção administrativa dos estabelecimentos referidos no artigo anterior:\n\na) O director ou reitor;\n\nb) O conselho administrativo.\n\nArt. 3.º - 1. Ao director ou reitor compete dirigir, orientar e coordenar todas as actividades do respectivo estabelecimento, imprimindo-lhes unidade, continuidade e eficiência, e, designadamente:\n\na) Representar o estabelecimento de ensino;\n\nb) Convocar e presidir às reuniões do conselho administrativo, orientando os seus trabalhos;\n\nc) Submeter à apreciação superior os assuntos que excedam a sua competência.\n\n2. O director ou reitor serão substituídos nas suas faltas ou impedimentos pelos subdirectores ou vice-reitores por si designados, nos quais poderão delegar, mediante autorização do director-geral da Administração Escolar, algumas das suas atribuições.\n\nArt. 4.º - 1. O conselho administrativo é constituído por um presidente e dois vogais.\n\n2. O director ou reitor poderão delegar num subdirector ou vice-reitor o desempenho das funções da presidência do conselho administrativo, mas sem prejuízo da orientação superior que lhe cabe fixar.\n\n3. Um dos vogais será um professor do quadro, designado pelo director-geral da Administração Escolar, ouvido o director ou reitor.\n\n4. O segundo vogal será o chefe da secretaria, que exercerá as funções de secretário do conselho.\n\n5. Excepcionalmente, se a conveniência da administração do estabelecimento o exigir, pode ser designado para vogal qualquer dos agentes de ensino em exercício.\n\n6. Para substituir eventualmente um dos vogais pode ser designado um suplente, de acordo com o disposto nos números anteriores.\n\nArt. 5.º Os subdirectores ou vice-reitores das secções farão parte, como vogais, do conselho administrativo do respectivo estabelecimento, mas a sua presença só será obrigatória nas sessões em que forem aprovados o projecto de orçamento, a conta da gerência ou em que sejam tratados outros assuntos que digam respeito às respectivas secções.\n\nArt. 6.º - 1. Compete ao conselho administrativo:\n\na) Estabelecer as regras a que deve obedecer a administração do estabelecimento, de acordo com as leis gerais da contabilidade pública e a orientação da Direcção-Geral da Administração Escolar;\n\nb) Aprovar os projectos de orçamento e a conta de gerência;\n\nc) Verificar a legalidade das despesas efectuadas e autorizar o respectivo pagamento;\n\nd) Fiscalizar a cobrança das receitas e dar balanço ao cofre a cargo do tesoureiro;\n\ne) Velar pela manutenção e conservação do património, promovendo a organização e permanente actualização do seu cadastro;\n\nf) Aceitar as liberalidades feitas a favor dos serviços ou estabelecimentos de ensino.\n\n2. As liberalidades referidas na alínea f) do número anterior, quando envolvam obrigações para os serviços ou estabelecimentos de ensino, carecem de autorização superior.\n\nArt. 7.º - 1. O conselho administrativo reunirá, pelo menos, uma vez em cada mês do ano civil, devendo estar presentes todos os seus componentes, sem prejuízo do disposto no artigo 5.º\n\n2. As sessões são convocadas pelo presidente com, pelo menos, quarenta e oito horas de antecedência, salvo casos de especial urgência.\n\n3. As sessões do conselho deverão realizar-se, em princípio, sem prejuízo da actividade docente.\n\n4. As deliberações serão tomadas por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.\n\nArt. 8.º - 1. As deliberações e pareceres do conselho administrativo serão sempre exarados em acta.\n\n2. As deliberações do conselho administrativo só obrigam, para todos os efeitos, aqueles que as tenham votado, ficando isentos das respectivas responsabilidades civis e disciplinares os que não tenham concordado com as resoluções tomadas por maioria, desde que, para o efeito, tenham exarado a competente declaração de voto.\n\n3. Sem prejuízo do disposto no número anterior, os membros do conselho responderão solidariamente pela administração do estabelecimento de ensino.\n\nArt. 9.º - 1. O presidente do conselho administrativo pode suspender a execução de qualquer deliberação do mesmo conselho, desde que a considere ilegal ou inconveniente.\n\n2. Quando usar deste direito, o presidente submeterá à apreciação do director-geral da Administração Escolar, dentro das quarenta e oito horas subsequentes, os motivos da suspensão.\n\n3. A decisão dos casos referidos no número anterior terá de ser proferida no prazo de quinze dias, contados a partir da data da suspensão.\n\n4. Se a decisão não for tomada dentro do prazo a que se refere o número antecedente, considera-se levantada a suspensão.\n\nII - Do funcionamento dos serviços administrativos\n\nArt. 10.º - 1. Os serviços administrativos dos estabelecimentos de ensino a que se refere o presente diploma serão assegurados por uma secretaria.\n\n2. À secretaria compete assegurar os serviços de expediente geral, contabilidade, tesouraria e economato, bem como dar apoio administrativo a todas as actividades do estabelecimento de ensino.\n\nArt. 11.º - 1. Nas secretarias será observado o horário normal dos serviços públicos, sem prejuízo do serviço nocturno a prestar nos termos estabelecidos pelo director ou reitor e a aprovar pelo director-geral da Administração Escolar.\n\n2. O período diário de serviços do pessoal auxiliar é o fixado na lei geral, segundo horários a estabelecer pelo respectivo director ou reitor.\n\nArt. 12.º Sempre que não disponham de quadros próprios, os serviços administrativos das secções serão assegurados pelo pessoal que para o efeito for destacado do respectivo estabelecimento sede, com direito às regalias referidas no artigo 42.º\n\nArt. 13.º A organização dos serviços administrativos, as suas atribuições, bem como a competência do respectivo pessoal, serão estabelecidas em instruções aprovadas por portaria do Ministro da Educação Nacional, ouvida a Direcção-Geral da Administração Escolar.\n\nArt. 14.º - 1. As funções do chefe de secretaria serão exercidas, em cada estabelecimento de ensino ou secção, pelo funcionário administrativo do respectivo quadro de mais elevada categoria em exercício.\n\n2. As funções de tesoureiro serão exercidas pelo funcionário designado pelo conselho administrativo de entre, sempre que possível, os de categoria igual ou superior a terceiro-oficial.\n\n3. As funções de fiel serão exercidas por um funcionário administrativo do quadro designado pelo conselho administrativo.\n\nArt. 15.º - 1. As secretarias poderão também funcionar no período nocturno para os estabelecimentos com frequência escolar nesse período.\n\n2. É considerado serviço nocturno o prestado depois das 19 horas.\n\n3. O serviço nocturno será assegurado, por escala, por um ou mais funcionários designados para o efeito pelo director ou reitor, os quais deverão completar no período diurno o número de horas que legalmente são obrigados a prestar.\n\n4. Para cumprimento do tempo diário de serviço obrigatório cada hora de serviço nocturno equivale a uma hora e meia.\n\nIII - Dos quadros do pessoal administrativo e auxiliar\n\nArt. 16.º - 1. Os quadros privativos do pessoal administrativo e do pessoal auxiliar dos estabelecimentos de ensino referidos neste diploma constituem quadros únicos, para efeitos de ingresso, transferência e promoção.\n\n2. Por despacho ministerial, a publicar no Diário do Governo, pode ser autorizada a criação, extinção ou remodelação dos quadros privativos referidos no número anterior, desde que não seja aumentado nas diferentes categorias o número total de lugares do quadro único.\n\n3. Os quadros privativos referidos no n.º 1 deste artigo são os que constam dos mapas anexos a este diploma.\n\nArt. 17.º - 1. Além dos quadros privativos, é criado, e integrado no quadro único, um quadro de apoio aos estabelecimentos de ensino abrangidos pelo presente decreto-lei.\n\n2. A composição do quadro de apoio consta do mapa anexo a este diploma.\n\n3. À remodelação do quadro de apoio é aplicável o disposto no n.º 2 do artigo anterior.\n\nIV - Do pessoal administrativo\n\nArt. 18.º - 1. Sem prejuízo do disposto neste decreto-lei, o provimento dos lugares do pessoal administrativo dos estabelecimentos de ensino a que se refere este diploma rege-se pelas normas gerais aplicáveis aos serviços públicos.\n\n2. O ingresso e a promoção nos quadros dependem de aprovação em concurso de habilitação.\n\n3. O provimento nos lugares dos quadros será feito por transferência ou concurso.\n\n4. Sempre que as circunstâncias o aconselhem, e mediante proposta fundamentada dos serviços, pode ser autorizado, mediante despacho ministerial, que o concurso de provas de habilitação à categoria de escriturário-dactilógrafo de 1.ª classe seja substituído por concurso documental, devendo os candidatos ser graduados nos termos estabelecidos no presente diploma.\n\nArt. 19.º Os concursos de habilitação serão abertos, perante a Direcção-Geral da Administração Escolar, pelo prazo mínimo de quinze dias, contados a partir do dia imediato ao da publicação do respectivo aviso no Diário do Governo.\n\nArt. 20.º - 1. Só podem ser admitidos aos concursos de habilitação os candidatos da categoria imediatamente inferior com, pelo menos, dois anos de bom e efectivo serviço.\n\n2. Se o número de candidatos admitidos ao concurso, ou nele aprovados, for insuficiente para o preenchimento de todas as vagas existentes, abrir-se-á novo concurso, ao qual poderão concorrer funcionários de categoria imediatamente inferior com qualquer tempo de serviço.\n\nArt. 21.º - 1. Os concursos de habilitação são constituídos por provas teóricas e práticas, graduadas em correspondência com as categorias a que respeitarem, e são válidos por dois anos, a contar da data da publicação dos resultados no Diário do Governo.\n\n2. Os programas dos concursos, bem como os respectivos júris, serão aprovados por despacho ministerial.\n\nArt. 22.º Os concursos de provimento para os lugares a preencher nos quadros de pessoal administrativo serão abertos por avisos publicados no Diário do Governo nos primeiros quinze dias dos meses de Janeiro, Maio e Setembro de cada ano, pelo prazo de quinze dias, contados a partir do dia imediato ao da publicação dos avisos no Diário do Governo, podendo verificar-se a faculdade prevista no n.º 2 do artigo 20.º\n\nArt. 23.º - 1. Nos concursos de provimento a graduação dos candidatos será feita de acordo com as prioridades a seguir indicadas, funcionando por ordem sucessiva:\n\na) Funcionários da mesma categoria com, pelo menos, dois anos de efectivo e bom serviço no estabelecimento a cujo quadro pertençam;\n\nb) Candidatos aprovados no correspondente concurso de habilitação.\n\n2. Para efeitos da primeira prioridade do número anterior serão condições de prioridade, eliminando cada uma delas as que se lhe seguem:\n\na) O tempo de serviço prestado na categoria;\n\nb) A classificação obtida no concurso de habilitação;\n\nc) A idade, preferindo os mais velhos.\n\n3. Para efeitos da alínea b) do número anterior serão condições de prioridade, funcionando por ordem sucessiva, as seguintes:\n\na) A classificação obtida no concurso de habilitação;\n\nb) O tempo de serviço prestado na categoria a que pertencem;\n\nc) A idade, preferindo os mais velhos.\n\nArt. 24.º Por conveniência de serviço, e mediante despacho ministerial, o pessoal administrativo pode ser transferido de um para outro estabelecimento de ensino, desde que não esteja aberto concurso de provimento para a categoria a que o funcionário pertencer.\n\nArt. 25.º - 1. Nos estabelecimentos de frequência exclusivamente feminina, o pessoal administrativo será, de preferência, do sexo feminino.\n\n2. Nos estabelecimentos de frequência exclusivamente masculina ou de frequência mista, a colocação poderá recair, de acordo com as prioridades estabelecidas no presente diploma, em candidatos de um ou outro sexo.\n\nArt. 26.º Terão direito à gratificação mensal de 800$00 os funcionários encarregados da chefia da secretaria dos estabelecimentos de ensino a que se refere este diploma.\n\nArt. 27.º - 1. O funcionário que for encarregado de assegurar as funções de tesoureiro terá direito a abono para falhas.\n\n2. O abono referido no número anterior será de montante igual ao atribuído ao pessoal das tesourarias da Fazenda Pública, quando haja equivalência de categorias, e, nos restantes casos, será fixado por despacho conjunto dos Ministros das Finanças e da Educação Nacional.\n\nArt. 28.º - 1. O serviço do pessoal administrativo será classificado, relativamente a cada ano civil, de Muito bom, Bom, Suficiente ou Deficiente, pelo director ou reitor do estabelecimento, sob proposta fundamentada do chefe da secretaria.\n\n2. Da classificação será sempre dado conhecimento ao funcionário, cabendo recurso para o director-geral da Administração Escolar, dentro dos quinze dias imediatos ao da notificação.\n\n3. A classificação de Deficiente inibe o funcionário de ser admitido a qualquer concurso durante um ano, contado a partir da data da sua atribuição.\n\n4. O serviço do chefe da secretaria será classificado mediante proposta fundamentada do director ou reitor do estabelecimento.\n\nArt. 29.º - 1. Mediante despacho ministerial, pode ser autorizada a permuta de cargos da mesma categoria a requerimento dos interessados, mediante concordância dos directores ou reitores dos estabelecimentos de ensino.\n\n2. A permuta a que se refere o número anterior só poderá ser autorizada quando os estabelecimentos de ensino se situem na mesma circunscrição escolar.\n\n3. Enquanto não forem definidas as circunscrições escolares, entende-se no mesmo distrito.\n\nV - Do pessoal auxiliar\n\nArt. 30.º - 1. Os cargos de servente e contínuo de 2.ª classe dos estabelecimentos de ensino a que se refere o presente diploma serão providos por escolha do Ministro da Educação Nacional, de acordo com as disposições gerais em vigor para os serviços públicos.\n\n2. A competência referida no número anterior poderá ser delegada nos dirigentes dos respectivos estabelecimentos de ensino.\n\n3. Os lugares de contínuo de 1.ª classe serão providos por despacho ministerial, precedendo de concurso documental entre os contínuos de 2.ª classe com, pelo menos, um ano de bom e efectivo serviço.\n\nArt. 31.º - 1. Os concursos para os lugares de contínuo de 1.ª classe serão abertos pelo prazo de quinze dias, a contar do dia imediato ao da publicação no Diário do Governo do respectivo aviso.\n\n2. Os avisos serão publicados nos primeiros oito dias de Março e Setembro.\n\nArt. 32.º É aplicável ao pessoal auxiliar o disposto no artigo 24.º do presente diploma.\n\nArt. 33.º A graduação dos candidatos aos concursos para contínuos de 1.ª classe será feita de acordo com a antiguidade na categoria de contínuo de 2.ª classe, gozando de preferência, nos casos de igual antiguidade, os mais velhos.\n\nArt. 34.º - 1. Nos estabelecimentos cujo quadro compreenda mais de quatro unidade pode o director ou reitor, mediante autorização superior, nomear para o cargo de chefe do pessoal auxiliar um dos contínuos de 1.ª classe, ao qual será abonada a gratificação mensal de 100$00.\n\n2. O disposto no número anterior é aplicável às secções que funcionem em edifício diferente do estabelecimento sede.\n\nArt. 35.º O funcionário do pessoal auxiliar que, em cada estabelecimento de ensino ou secção, por determinação do director ou reitor, for destacado para assegurar a manutenção do equipamento didáctico, dos laboratórios, dos museus e ginásios tem direito à gratificação mensal de 250$00.\n\nArt. 36.º É aplicável ao pessoal auxiliar o disposto no artigo 29.º deste diploma.\n\nArt. 37.º O serviço prestado pelo pessoal auxiliar para além do tempo obrigatório é considerado extraordinário e será remunerado nos termos da lei geral, com observância da equivalência estabelecida no n.º 4 do artigo 15.º do presente diploma.\n\nArt. 38.º - 1. Sempre que a natureza do estabelecimento o justifique, podem os directores ou reitores incumbir o pessoal auxiliar de funções afins ou em correlação com as que normalmente lhe estão confiadas.\n\n2. Mediante autorização superior, podem os directores ou reitores dos estabelecimentos destacar pessoal auxiliar para funções de vigilância nocturna, que serão remunerados em termos a estabelecer por despacho conjunto dos Ministros das Finanças e da Educação Nacional.\n\nVI - Disposições finais e transitórias\n\nArt. 39.º - 1. Quando o pessoal auxiliar privativo dos estabelecimentos de ensino não seja suficiente para assegurar os serviços de limpeza e conservação dos edifícios e do mobiliário, podem os directores ou reitores assalariar, para tal efeito, serventuários eventuais, a remunerar pelas dotações próprias do estabelecimento.\n\n2. Os candidatos a admitir ao abrigo do disposto no número anterior devem possuir os requisitos de idade e de habilitações escolares exigíveis para o provimento no quadro respectivo.\n\n3. Mantêm-se em vigor as disposições legais relativas a serventuários eventuais especializados ou assalariados com carácter permanente.\n\nArt. 40.º Quando o pessoal auxiliar dos quadros for insuficiente para assegurar o serviço relativo às actividades lectivas cujo funcionamento se prolongue para além das horas regulamentares, podem os directores ou reitores assalariar pessoal eventual, a remunerar por hora de serviço e por conta das dotações próprias do estabelecimento.\n\nArt. 41.º Quando o pessoal do quadro de apoio for destacado para fora dos limites da cidade onde se localize a sede do estabelecimento de ensino a que se encontra adstrito, terá direito, nos termos das disposições gerais em vigor, às despesas de transporte e ajudas de custo.\n\nArt. 42.º - 1. O pessoal dos quadros administrativos que, em resultado de concurso de provimento, houver de se deslocar das ilhas adjacentes para o continente e vice-versa, ou de ilha para ilha, terá direito a passagem de 1.ª classe, por via marítima ou aérea e por via marítima a sua família.\n\n2. Para efeito do disposto no número anterior, considera-se família o cônjuge, os filhos menores e as filhas solteiras, a mãe viúva ou o pai inválido.\n\nArt. 43.º Os contínuos e serventes têm direito a fardamento nos termos da lei.\n\nArt. 44.º Durante dois anos, não prorrogáveis, a contar da publicação deste diploma legal, o pessoal administrativo dos estabelecimentos de ensino liceal e técnico prefere, no provimento de lugares vagos desses estabelecimentos, em relação ao dos estabelecimentos do ciclo preparatório.\n\nArt. 45.º A partir da data de entrada em vigor do presente decreto-lei e durante dois anos, o pessoal administrativo dos estabelecimentos de ensino pode requerer o provimento em lugares vagos dos mesmos quadros, independentemente do tempo de serviço que tenha prestado, desde que satisfaça os demais requisitos legais, mas sem prejuízo do disposto no artigo anterior.\n\nArt. 46.º - 1. Os funcionários com a categoria de escriturários-dactilógrafos de 2.ª classe, quando já aprovados em concurso de habilitação para a categoria imediata, poderão ser providos, a partir da publicação dos quadros privativos, com dispensa de todas as formalidades legais, excepto o visto do Tribunal de Contas, nos novos lugares de escriturários-dactilógrafos de 1.ª classe que forem criados por este diploma legal nos estabelecimentos de ensino em cujo quadro estejam colocados.\n\n2. Para o provimento referido no número anterior preferem os mais classificados e, em igualdade de classificações, os que possuam maior tempo de serviço.\n\nArt. 47.º Podem ser providos em lugares de escriturário-dactilógrafo de 2.ª classe, de escriturário-dactilógrafo de 1.ª classe e de terceiro-oficial os candidatos aprovados anteriormente à data deste decreto-lei, nos correspondentes concursos de habilitação, e cujos prazos de validade ainda não tenham terminado.\n\nArt. 48.º O pessoal administrativo em serviço nos liceus que tenha sido aprovado em concurso de habilitação para a antiga categoria de aspirante poderá ser provido em lugares vagos de terceiro-oficial, independentemente de concurso e de limite de idade.\n\nArt. 49.º - 1. Os actuais funcionários dos quadros, com a categoria de fiel, transitam automaticamente para a categoria de escriturário-dactilógrafo de 1.ª classe.\n\n2. Os actuais escriturários-dactilógrafos de 2.ª classe admitidos ao abrigo do n.º 1 do artigo 4.º do [Decreto-Lei n.º 40826](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40826-1956-298041), de 25 de Outubro de 1956, do artigo 3.º do [Decreto-Lei n.º 42003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42003-1958-341014), de 5 de Dezembro de 1958, e do n.º 1 do artigo 7.º do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968, que possuam as habilitações exigidas por lei para a categoria, podem ser providos em idênticos lugares do quadro, mediante despacho ministerial, de harmonia com a seguinte ordem de preferência:\n\na) Os aprovados em concurso de habilitação para esta categoria;\n\nb) Os que reúnam melhores habilitações escolares;\n\nc) Os que possuam mais tempo de serviço.\n\nArt. 50.º - 1. Os actuais guardas rurais do quadro transitam automaticamente para a categoria de contínuo de 1.ª classe, sem prejuízo de continuarem a exercer as funções específicas que lhes estavam atribuídas.\n\n2. Os actuais serventes admitidos ao abrigo dos artigos 4.º do [Decreto-Lei n.º 40826](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40826-1956-298041), 3.º do [Decreto-Lei n.º 42003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42003-1958-341014) e do n.º 1 do artigo 7.º do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195) podem ser providos em lugares da mesma categoria, desde que tenham boa informação de serviço e as necessárias habilitações escolares, independentemente do limite de idade, mediante despacho ministerial.\n\nArt. 51.º - 1. O pessoal nomeado ou contratado ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril, poderá ser provido em idênticos lugares, mediante despacho ministerial, desde que tenha boa informação de serviço.\n\n2. O pessoal que se encontra na situação do número anterior e que não for provido nos quadros manter-se-á na situação em que se encontrar à data da publicação deste decreto-lei.\n\nArt. 52.º Em tudo quanto não estiver previsto neste diploma e nos Decretos-Leis n.os 49397 e 49410, de 24 de Novembro de 1969, as formas de recrutamento e os regimes de provimento do pessoal administrativo e auxiliar constarão de regulamento a aprovar por portaria.\n\nArt. 53.º Todos os prazos fixados neste diploma serão acrescidos de 50% quando se tratar de candidatos residentes nas ilhas adjacentes.\n\nArt. 54.º Os encargos resultantes da execução do presente diploma serão suportados, no corrente ano económico, pelas disponibilidades das verbas destinadas ao pagamento de remunerações certas ao pessoal dos quadros aprovados por lei.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.\n\nPromulgado em 26 de Setembro de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nQuadros a que se refere o artigo 16.º do Decreto-Lei n.º 513/73\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23700/17851801.pdf)\n\nQuadro de apoio a que se refere o artigo 17.º do Decreto-Lei n.º 513/73\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23700/17851801.pdf)\n\nO Ministro da Educação Nacional, José Veiga Simão."
+  },
+  "cc149c0b01b91dfa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Outubro\n\nDe há muito que se faz sentir a necessidade de rever as estruturas administrativas dos estabelecimentos de ensino preparatório e secundário, bem como das escolas do magistério primário, assumindo particular relevo os aspectos da gestão financeira e das atribuições dos respectivos conselhos administrativos.\n\nPor outro lado, e em seguimento da orientação estabelecida no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, instituiu-se num quadro único de pessoal administrativo e auxiliar integrando os quadros privativos daqueles estabelecimentos, medida que faz abrir melhores expectativas aos funcionários e permite uma gestão mais racional e harmónica dos recursos humanos, do mesmo modo que assegura maiores possibilidades no provimento dos cargos.\n\nPor fim, e de acordo com a orientação estabelecida naquele diploma e no [Decreto-Lei n.º 49397](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49397-1969-217107), de 24 de Novembro de 1969, é reorganizada toda a matéria relativa a concursos de habilitação e provimento para as diversas categorias da carreira do pessoal administrativo.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nDo funcionamento dos serviços administrativos dos estabelecimentos do ensino médio, secundário e preparatório e das escolas do magistério primário.\n\nI - Da administração dos estabelecimentos de ensino"
+  },
+  "c34c8c40ffd1ffcf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs estabelecimentos de ensino médio, secundário e preparatório e as escolas do magistério primário gozam de autonomia administrativa, sem prejuízo das disposições gerais sobre contabilidade pública e da superintendência a exercer pela Direcção-Geral da Administração Escolar."
+  },
+  "7535111302be94b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão órgãos de direcção administrativa dos estabelecimentos referidos no artigo anterior:\n\na) O director ou reitor;\n\nb) O conselho administrativo."
+  },
+  "13a903cbfe5cb128": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Ao director ou reitor compete dirigir, orientar e coordenar todas as actividades do respectivo estabelecimento, imprimindo-lhes unidade, continuidade e eficiência, e, designadamente:\n\na) Representar o estabelecimento de ensino;\n\nb) Convocar e presidir às reuniões do conselho administrativo, orientando os seus trabalhos;\n\nc) Submeter à apreciação superior os assuntos que excedam a sua competência.\n\n2. O director ou reitor serão substituídos nas suas faltas ou impedimentos pelos subdirectores ou vice-reitores por si designados, nos quais poderão delegar, mediante autorização do director-geral da Administração Escolar, algumas das suas atribuições."
+  },
+  "79510ab5058122b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O conselho administrativo é constituído por um presidente e dois vogais.\n\n2. O director ou reitor poderão delegar num subdirector ou vice-reitor o desempenho das funções da presidência do conselho administrativo, mas sem prejuízo da orientação superior que lhe cabe fixar.\n\n3. Um dos vogais será um professor do quadro, designado pelo director-geral da Administração Escolar, ouvido o director ou reitor.\n\n4. O segundo vogal será o chefe da secretaria, que exercerá as funções de secretário do conselho.\n\n5. Excepcionalmente, se a conveniência da administração do estabelecimento o exigir, pode ser designado para vogal qualquer dos agentes de ensino em exercício.\n\n6. Para substituir eventualmente um dos vogais pode ser designado um suplente, de acordo com o disposto nos números anteriores."
+  },
+  "aee27603e8da23ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs subdirectores ou vice-reitores das secções farão parte, como vogais, do conselho administrativo do respectivo estabelecimento, mas a sua presença só será obrigatória nas sessões em que forem aprovados o projecto de orçamento, a conta da gerência ou em que sejam tratados outros assuntos que digam respeito às respectivas secções."
+  },
+  "885f5d6d084b8dec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Compete ao conselho administrativo:\n\na) Estabelecer as regras a que deve obedecer a administração do estabelecimento, de acordo com as leis gerais da contabilidade pública e a orientação da Direcção-Geral da Administração Escolar;\n\nb) Aprovar os projectos de orçamento e a conta de gerência;\n\nc) Verificar a legalidade das despesas efectuadas e autorizar o respectivo pagamento;\n\nd) Fiscalizar a cobrança das receitas e dar balanço ao cofre a cargo do tesoureiro;\n\ne) Velar pela manutenção e conservação do património, promovendo a organização e permanente actualização do seu cadastro;\n\nf) Aceitar as liberalidades feitas a favor dos serviços ou estabelecimentos de ensino.\n\n2. As liberalidades referidas na alínea f) do número anterior, quando envolvam obrigações para os serviços ou estabelecimentos de ensino, carecem de autorização superior."
+  },
+  "df71307554d67d24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O conselho administrativo reunirá, pelo menos, uma vez em cada mês do ano civil, devendo estar presentes todos os seus componentes, sem prejuízo do disposto no artigo 5.º\n\n2. As sessões são convocadas pelo presidente com, pelo menos, quarenta e oito horas de antecedência, salvo casos de especial urgência.\n\n3. As sessões do conselho deverão realizar-se, em princípio, sem prejuízo da actividade docente.\n\n4. As deliberações serão tomadas por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade."
+  },
+  "521c79c543f3eab0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As deliberações e pareceres do conselho administrativo serão sempre exarados em acta.\n\n2. As deliberações do conselho administrativo só obrigam, para todos os efeitos, aqueles que as tenham votado, ficando isentos das respectivas responsabilidades civis e disciplinares os que não tenham concordado com as resoluções tomadas por maioria, desde que, para o efeito, tenham exarado a competente declaração de voto.\n\n3. Sem prejuízo do disposto no número anterior, os membros do conselho responderão solidariamente pela administração do estabelecimento de ensino."
+  },
+  "8c088b5805c6225a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O presidente do conselho administrativo pode suspender a execução de qualquer deliberação do mesmo conselho, desde que a considere ilegal ou inconveniente.\n\n2. Quando usar deste direito, o presidente submeterá à apreciação do director-geral da Administração Escolar, dentro das quarenta e oito horas subsequentes, os motivos da suspensão.\n\n3. A decisão dos casos referidos no número anterior terá de ser proferida no prazo de quinze dias, contados a partir da data da suspensão.\n\n4. Se a decisão não for tomada dentro do prazo a que se refere o número antecedente, considera-se levantada a suspensão.\n\nII - Do funcionamento dos serviços administrativos"
+  },
+  "c967eaa1a3f0242f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Os serviços administrativos dos estabelecimentos de ensino a que se refere o presente diploma serão assegurados por uma secretaria.\n\n2. À secretaria compete assegurar os serviços de expediente geral, contabilidade, tesouraria e economato, bem como dar apoio administrativo a todas as actividades do estabelecimento de ensino."
+  },
+  "0e1b946b991000ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Nas secretarias será observado o horário normal dos serviços públicos, sem prejuízo do serviço nocturno a prestar nos termos estabelecidos pelo director ou reitor e a aprovar pelo director-geral da Administração Escolar.\n\n2. O período diário de serviços do pessoal auxiliar é o fixado na lei geral, segundo horários a estabelecer pelo respectivo director ou reitor."
+  },
+  "9703480b911de975": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nSempre que não disponham de quadros próprios, os serviços administrativos das secções serão assegurados pelo pessoal que para o efeito for destacado do respectivo estabelecimento sede, com direito às regalias referidas no artigo 42.º"
+  },
+  "b874111817fdcfed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA organização dos serviços administrativos, as suas atribuições, bem como a competência do respectivo pessoal, serão estabelecidas em instruções aprovadas por portaria do Ministro da Educação Nacional, ouvida a Direcção-Geral da Administração Escolar."
+  },
+  "fa169088436e12b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1978-11-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 338/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1978-325920), publicado em 1978-11-14."
+   ],
+   "markdown": "###### Artigo 14.º\n\n1. As funções do chefe de secretaria serão exercidas, em cada estabelecimento de ensino ou secção, pelo funcionário administrativo do respectivo quadro de mais elevada categoria em exercício.\n\n2 - As funções de tesoureiro - de aceitação obrigatória - serão exercidas pelo funcionário designado pelo conselho administrativo, sob proposta do respectivo chefe de secretaria, de entre os de categoria igual ou superior a terceiro-oficial, tendo em atenção o seguinte:\n\na) As funções de tesoureiro e de chefe de secretaria não poderão ser exercidas em acumulação, salvo nos estabelecimentos em que só exista um funcionário administrativo do quadro em exercício;\n\nb) Pelo exercício das funções de tesoureiro não é exigido o depósito de qualquer caução.\n\n3. As funções de fiel serão exercidas por um funcionário administrativo do quadro designado pelo conselho administrativo.\n\n4. Nas escolas do magistério primário é extinto o cargo de secretário-tesoureiro.\n\n5 - Quando não existam no quadro do estabelecimento de ensino funcionários com as categorias exigidas para o desempenho dos lugares de chefe de secretaria ou de tesoureiro, poderão estes ser desempenhados, até ao preenchimento das vagas existentes, por funcionários destacados do quadro geral de adidos, desde que os mesmo sejam possuidores das qualificações profissionais legalmente exigidas.\n\n> Alterado pelo/a [Decreto-Lei n.º 338/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1978-325920), publicado em 1978-11-14."
+  },
+  "ffbafde80508cb46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. As secretarias poderão também funcionar no período nocturno para os estabelecimentos com frequência escolar nesse período.\n\n2. É considerado serviço nocturno o prestado depois das 19 horas.\n\n3. O serviço nocturno será assegurado, por escala, por um ou mais funcionários designados para o efeito pelo director ou reitor, os quais deverão completar no período diurno o número de horas que legalmente são obrigados a prestar.\n\n4. Para cumprimento do tempo diário de serviço obrigatório cada hora de serviço nocturno equivale a uma hora e meia.\n\nIII - Dos quadros do pessoal administrativo e auxiliar"
+  },
+  "2efa9d4b94e2612d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Os quadros privativos do pessoal administrativo e do pessoal auxiliar dos estabelecimentos de ensino referidos neste diploma constituem quadros únicos, para efeitos de ingresso, transferência e promoção.\n\n2. Por despacho ministerial, a publicar no Diário do Governo, pode ser autorizada a criação, extinção ou remodelação dos quadros privativos referidos no número anterior, desde que não seja aumentado nas diferentes categorias o número total de lugares do quadro único.\n\n3. Os quadros privativos referidos no n.º 1 deste artigo são os que constam dos mapas anexos a este diploma."
+  },
+  "cf41424d232363e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. Além dos quadros privativos, é criado, e integrado no quadro único, um quadro de apoio aos estabelecimentos de ensino abrangidos pelo presente decreto-lei.\n\n2. A composição do quadro de apoio consta do mapa anexo a este diploma.\n\n3. À remodelação do quadro de apoio é aplicável o disposto no n.º 2 do artigo anterior.\n\nIV - Do pessoal administrativo"
+  },
+  "231b46c5ce4cef98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1978-11-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 459/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1975-314898), publicado em 1975-08-23."
+   ],
+   "markdown": "###### Artigo 18.º\n\n1. Sem prejuízo do disposto neste decreto-lei, o provimento dos lugares do pessoal administrativo dos estabelecimentos de ensino a que se refere este diploma rege-se pelas normas gerais aplicáveis aos serviços públicos.\n\n2. O ingresso e a promoção nos quadros dependem de aprovação em concurso de habilitação.\n\n3. O provimento nos lugares dos quadros será feito por transferência ou concurso. No entanto, sempre que as necessidades de serviço o justifiquem, e desde que não estejam pendentes concursos de provimento realizados ao abrigo deste diploma, poderão fazer-se nomeações interinas para lugares vagos, ouvidos os respectivos chefes de secretaria, tanto de ingresso como de promoção, devendo essas nomeações, no primeiro caso, recair em indivíduos titulares das habilitações escolares exigidas pela lei geral, com preferência para os aprovados em concurso de habilitação efectuado nos termos do presente decreto-lei.\n\n4. Sempre que as circunstâncias o aconselhem, e mediante proposta fundamentada dos serviços, pode ser autorizado, mediante despacho ministerial, que o concurso de provas de habilitação à categoria de escriturário-dactilógrafo de 1.ª classe seja substituído por concurso documental, devendo os candidatos ser graduados nos termos estabelecidos no presente diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 459/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1975-314898), publicado em 1975-08-23."
+  },
+  "8bb43c65997309f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs concursos de habilitação serão abertos, perante a Direcção-Geral da Administração Escolar, pelo prazo mínimo de quinze dias, contados a partir do dia imediato ao da publicação do respectivo aviso no Diário do Governo."
+  },
+  "cd315b4b29b1c5bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Só podem ser admitidos aos concursos de habilitação os candidatos da categoria imediatamente inferior com, pelo menos, dois anos de bom e efectivo serviço.\n\n2. Se o número de candidatos admitidos ao concurso, ou nele aprovados, for insuficiente para o preenchimento de todas as vagas existentes, abrir-se-á novo concurso, ao qual poderão concorrer funcionários de categoria imediatamente inferior com qualquer tempo de serviço."
+  },
+  "25771ee339ecf9a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Os concursos de habilitação são constituídos por provas teóricas e práticas, graduadas em correspondência com as categorias a que respeitarem, e são válidos por dois anos, a contar da data da publicação dos resultados no Diário do Governo.\n\n2. Os programas dos concursos, bem como os respectivos júris, serão aprovados por despacho ministerial."
+  },
+  "232c7a915096de80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs concursos de provimento para os lugares a preencher nos quadros de pessoal administrativo serão abertos por avisos publicados no Diário do Governo nos primeiros quinze dias dos meses de Janeiro, Maio e Setembro de cada ano, pelo prazo de quinze dias, contados a partir do dia imediato ao da publicação dos avisos no Diário do Governo, podendo verificar-se a faculdade prevista no n.º 2 do artigo 20.º"
+  },
+  "d1bbd76513520520": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Nos concursos de provimento a graduação dos candidatos será feita de acordo com as prioridades a seguir indicadas, funcionando por ordem sucessiva:\n\na) Funcionários da mesma categoria com, pelo menos, dois anos de efectivo e bom serviço no estabelecimento a cujo quadro pertençam;\n\nb) Candidatos aprovados no correspondente concurso de habilitação.\n\n2. Para efeitos da primeira prioridade do número anterior serão condições de prioridade, eliminando cada uma delas as que se lhe seguem:\n\na) O tempo de serviço prestado na categoria;\n\nb) A classificação obtida no concurso de habilitação;\n\nc) A idade, preferindo os mais velhos.\n\n3. Para efeitos da alínea b) do número anterior serão condições de prioridade, funcionando por ordem sucessiva, as seguintes:\n\na) A classificação obtida no concurso de habilitação;\n\nb) O tempo de serviço prestado na categoria a que pertencem;\n\nc) A idade, preferindo os mais velhos."
+  },
+  "f6dbb4289f245fd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nPor conveniência de serviço, e mediante despacho ministerial, o pessoal administrativo pode ser transferido de um para outro estabelecimento de ensino, desde que não esteja aberto concurso de provimento para a categoria a que o funcionário pertencer."
+  },
+  "b0c32fe4d7148065": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. Nos estabelecimentos de frequência exclusivamente feminina, o pessoal administrativo será, de preferência, do sexo feminino.\n\n2. Nos estabelecimentos de frequência exclusivamente masculina ou de frequência mista, a colocação poderá recair, de acordo com as prioridades estabelecidas no presente diploma, em candidatos de um ou outro sexo."
+  },
+  "286b230c50a356cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nTerão direito à gratificação mensal de 800$00 os funcionários encarregados da chefia da secretaria dos estabelecimentos de ensino a que se refere este diploma."
+  },
+  "ab6992f1aba0945a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. O funcionário que for encarregado de assegurar as funções de tesoureiro terá direito a abono para falhas.\n\n2. O abono referido no número anterior será de montante igual ao atribuído ao pessoal das tesourarias da Fazenda Pública, quando haja equivalência de categorias, e, nos restantes casos, será fixado por despacho conjunto dos Ministros das Finanças e da Educação Nacional."
+  },
+  "d36b2e5ccfe52b47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1. O serviço do pessoal administrativo será classificado, relativamente a cada ano civil, de Muito bom, Bom, Suficiente ou Deficiente, pelo director ou reitor do estabelecimento, sob proposta fundamentada do chefe da secretaria.\n\n2. Da classificação será sempre dado conhecimento ao funcionário, cabendo recurso para o director-geral da Administração Escolar, dentro dos quinze dias imediatos ao da notificação.\n\n3. A classificação de Deficiente inibe o funcionário de ser admitido a qualquer concurso durante um ano, contado a partir da data da sua atribuição.\n\n4. O serviço do chefe da secretaria será classificado mediante proposta fundamentada do director ou reitor do estabelecimento."
+  },
+  "73a09b148da586cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1. Mediante despacho ministerial, pode ser autorizada a permuta de cargos da mesma categoria a requerimento dos interessados, mediante concordância dos directores ou reitores dos estabelecimentos de ensino.\n\n2. A permuta a que se refere o número anterior só poderá ser autorizada quando os estabelecimentos de ensino se situem na mesma circunscrição escolar.\n\n3. Enquanto não forem definidas as circunscrições escolares, entende-se no mesmo distrito.\n\nV - Do pessoal auxiliar"
+  },
+  "2c90f356378d4287": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1. Os cargos de servente e contínuo de 2.ª classe dos estabelecimentos de ensino a que se refere o presente diploma serão providos por escolha do Ministro da Educação Nacional, de acordo com as disposições gerais em vigor para os serviços públicos.\n\n2. A competência referida no número anterior poderá ser delegada nos dirigentes dos respectivos estabelecimentos de ensino.\n\n3. Os lugares de contínuo de 1.ª classe serão providos por despacho ministerial, precedendo de concurso documental entre os contínuos de 2.ª classe com, pelo menos, um ano de bom e efectivo serviço."
+  },
+  "320b2307dc063fb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1. Os concursos para os lugares de contínuo de 1.ª classe serão abertos pelo prazo de quinze dias, a contar do dia imediato ao da publicação no Diário do Governo do respectivo aviso.\n\n2. Os avisos serão publicados nos primeiros oito dias de Março e Setembro."
+  },
+  "80d6f734db4e0f60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nÉ aplicável ao pessoal auxiliar o disposto no artigo 24.º do presente diploma."
+  },
+  "3bd0cec4fc52fcac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nA graduação dos candidatos aos concursos para contínuos de 1.ª classe será feita de acordo com a antiguidade na categoria de contínuo de 2.ª classe, gozando de preferência, nos casos de igual antiguidade, os mais velhos."
+  },
+  "4a85d6165551f899": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": "1978-11-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 459/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1975-314898), publicado em 1975-08-23."
+   ],
+   "markdown": "###### Artigo 34.º\n\n1. Nos estabelecimentos em que prestem serviço mais de quatro elementos do pessoal auxiliar do quadro eventual, poderá um deles ser designado pelo respectivo conselho directivo ou encarregado de direcção, ouvido o correspondente sector e mediante autorização superior, para chefe de pessoal auxiliar, cabendo-lhe, por isso, a gratificação mensal estabelecida para o efeito na lei geral.\n\n2. O disposto no número anterior é aplicável às secções que funcionem em edifício diferente do estabelecimento sede.\n\n> Alterado pelo/a [Decreto-Lei n.º 459/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1975-314898), publicado em 1975-08-23."
+  },
+  "ec9de56171c2801e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nO funcionário do pessoal auxiliar que, em cada estabelecimento de ensino ou secção, por determinação do director ou reitor, for destacado para assegurar a manutenção do equipamento didáctico, dos laboratórios, dos museus e ginásios tem direito à gratificação mensal de 250$00."
+  },
+  "72aac564026d9829": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nÉ aplicável ao pessoal auxiliar o disposto no artigo 29.º deste diploma."
+  },
+  "8bc8a08a922334be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nO serviço prestado pelo pessoal auxiliar para além do tempo obrigatório é considerado extraordinário e será remunerado nos termos da lei geral, com observância da equivalência estabelecida no n.º 4 do artigo 15.º do presente diploma."
+  },
+  "8370eefeeebb9e6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1. Sempre que a natureza do estabelecimento o justifique, podem os directores ou reitores incumbir o pessoal auxiliar de funções afins ou em correlação com as que normalmente lhe estão confiadas.\n\n2. Mediante autorização superior, podem os directores ou reitores dos estabelecimentos destacar pessoal auxiliar para funções de vigilância nocturna, que serão remunerados em termos a estabelecer por despacho conjunto dos Ministros das Finanças e da Educação Nacional.\n\nVI - Disposições finais e transitórias"
+  },
+  "b51bc8aecb3ca3fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": "1978-11-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 459/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1975-314898), publicado em 1975-08-23."
+   ],
+   "markdown": "###### Artigo 39.º\n\n1. Quando o pessoal administrativo ou auxiliar dos estabelecimentos de ensino referidos neste diploma não for suficiente para assegurar o normal funcionamento dos mesmos, poderão ser admitidos escriturários-dactilógrafos de 2.ª classe eventuais e serventes eventuais, a remunerar pelas dotações próprias dos estabelecimentos ou pelas disponibilidades das outras dotações do orçamento do Ministério da Educação e Cultura destinadas a pessoal.\n\n2. As admissões de pessoal eventual referidas no número anterior obedecerão ao regime fixado nos artigos 4.º do [Decreto-Lei n.º 40826](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40826-1956-298041), de 25 de Outubro de 1956, 3.º do [Decreto-Lei n.º 42003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42003-1958-341014), de 5 de Dezembro de 1958, e 7.º do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968, só podendo recair em indivíduos possuidores da idade e das habilitações escolares exigidas para o provimento em lugares do quadro da correspondente categoria e devendo efectuar-se de harmonia com a seguinte ordem de preferência:\n\nPara escriturários:\n\na) Os aprovados em concurso de habilitação;\n\nb) Para os que não estejam nas condições anteriores, mediante a prestação, perante o estabelecimento de ensino, de provas de dactilografia e redacção;\n\nc) Os que possuam mais tempo de serviço público.\n\nPara serventes:\n\nOs que reúnam melhores habilitações escolares e, em caso de igualdade, os mais velhos.\n\n3. Mantêm-se em vigor as disposições legais relativas a serventuários eventuais especializados ou assalariados com carácter permanente.\n\n> Alterado pelo/a [Decreto-Lei n.º 459/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1975-314898), publicado em 1975-08-23."
+  },
+  "ac817381a5bf6cb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nQuando o pessoal auxiliar dos quadros for insuficiente para assegurar o serviço relativo às actividades lectivas cujo funcionamento se prolongue para além das horas regulamentares, podem os directores ou reitores assalariar pessoal eventual, a remunerar por hora de serviço e por conta das dotações próprias do estabelecimento."
+  },
+  "9be6861120da7a40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nQuando o pessoal do quadro de apoio for destacado para fora dos limites da cidade onde se localize a sede do estabelecimento de ensino a que se encontra adstrito, terá direito, nos termos das disposições gerais em vigor, às despesas de transporte e ajudas de custo."
+  },
+  "767b4cb0f59b2662": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1. O pessoal dos quadros administrativos que, em resultado de concurso de provimento, houver de se deslocar das ilhas adjacentes para o continente e vice-versa, ou de ilha para ilha, terá direito a passagem de 1.ª classe, por via marítima ou aérea e por via marítima a sua família.\n\n2. Para efeito do disposto no número anterior, considera-se família o cônjuge, os filhos menores e as filhas solteiras, a mãe viúva ou o pai inválido."
+  },
+  "41acbd5c487d6c79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nOs contínuos e serventes têm direito a fardamento nos termos da lei."
+  },
+  "6d1159e95304e079": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nDurante dois anos, não prorrogáveis, a contar da publicação deste diploma legal, o pessoal administrativo dos estabelecimentos de ensino liceal e técnico prefere, no provimento de lugares vagos desses estabelecimentos, em relação ao dos estabelecimentos do ciclo preparatório."
+  },
+  "f2bd154d9e18aa3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nA partir da data de entrada em vigor do presente decreto-lei e durante dois anos, o pessoal administrativo dos estabelecimentos de ensino pode requerer o provimento em lugares vagos dos mesmos quadros, independentemente do tempo de serviço que tenha prestado, desde que satisfaça os demais requisitos legais, mas sem prejuízo do disposto no artigo anterior."
+  },
+  "f3299c97c05f1515": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n1. Os funcionários com a categoria de escriturários-dactilógrafos de 2.ª classe, quando já aprovados em concurso de habilitação para a categoria imediata, poderão ser providos, a partir da publicação dos quadros privativos, com dispensa de todas as formalidades legais, excepto o visto do Tribunal de Contas, nos novos lugares de escriturários-dactilógrafos de 1.ª classe que forem criados por este diploma legal nos estabelecimentos de ensino em cujo quadro estejam colocados.\n\n2. Para o provimento referido no número anterior preferem os mais classificados e, em igualdade de classificações, os que possuam maior tempo de serviço."
+  },
+  "fb33c63e4999b01b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": "1978-11-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 459/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1975-314898), publicado em 1975-08-23."
+   ],
+   "markdown": "###### Artigo 47.º\n\n1. Podem ser providos em lugares de escriturário-dactilógrafo de 2.ª classe, de escriturário-dactilógrafo de 1.ª classe e de terceiro-oficial os candidatos aprovados anteriormente à data deste decreto-lei, nos correspondentes concursos de habilitação, e cujos prazos de validade ainda não tenham terminado.\n\n2. Consideram-se válidos, para todos os efeitos, os concursos de habilitação para escriturário-dactilógrafo de 2.ª classe e para terceiro-oficial a que se referem, respectivamente, os avisos de 6 e 7 de Setembro de 1972, da antiga Direcção de Serviços do Ciclo Preparatório do Ensino Secundário, ambos publicados no Diário do Governo, 2.ª série, n.º 219, de 19 de Setembro de 1972.\n\n3. O disposto no artigo 45.º deste diploma aplica-se, também, aos aprovados nos concursos de habilitação mencionados no número anterior, contando-se o prazo previsto nesse preceito a partir da data da publicação das respectivas listas de classificação.\n\n> Alterado pelo/a [Decreto-Lei n.º 459/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1975-314898), publicado em 1975-08-23."
+  },
+  "934961b14de4c6f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nO pessoal administrativo em serviço nos liceus que tenha sido aprovado em concurso de habilitação para a antiga categoria de aspirante poderá ser provido em lugares vagos de terceiro-oficial, independentemente de concurso e de limite de idade."
+  },
+  "9d5359716b273c7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\n1. Os actuais funcionários dos quadros, com a categoria de fiel, transitam automaticamente para a categoria de escriturário-dactilógrafo de 1.ª classe.\n\n2. Os actuais escriturários-dactilógrafos de 2.ª classe admitidos ao abrigo do n.º 1 do artigo 4.º do [Decreto-Lei n.º 40826](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40826-1956-298041), de 25 de Outubro de 1956, do artigo 3.º do [Decreto-Lei n.º 42003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42003-1958-341014), de 5 de Dezembro de 1958, e do n.º 1 do artigo 7.º do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968, que possuam as habilitações exigidas por lei para a categoria, podem ser providos em idênticos lugares do quadro, mediante despacho ministerial, de harmonia com a seguinte ordem de preferência:\n\na) Os aprovados em concurso de habilitação para esta categoria;\n\nb) Os que reúnam melhores habilitações escolares;\n\nc) Os que possuam mais tempo de serviço."
+  },
+  "308c56e43f5bc65d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": "1978-11-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 459/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1975-314898), publicado em 1975-08-23."
+   ],
+   "markdown": "###### Artigo 50.º\n\n1. Os actuais guardas rurais do quadro transitam automaticamente para a categoria de contínuo de 1.ª classe, sem prejuízo de continuarem a exercer as funções específicas que lhes estavam atribuídas.\n\n2. Os actuais serventes admitidos ao abrigo dos artigos 4.º do [Decreto-Lei n.º 40826](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40826-1956-298041), 3.º do [Decreto-Lei n.º 42003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42003-1958-341014) e do n.º 1 do artigo 7.º do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195) podem ser providos em lugares da mesma categoria, desde que tenham boa informação de serviço e as necessárias habilitações escolares, independentemente do limite de idade, mediante despacho ministerial.\n\n3. Os serventes ingressados nos quadros privativos ao abrigo do número anterior poderão ser providos em lugares de contínuo de 2.ª classe, nos termos do n.º 1 do artigo 30.º deste diploma, desde que tenham, pelo menos, um ano de bom e efectivo serviço na categoria, no quadro ou como eventuais.\n\n4. Considera-se válido, para todos os efeitos, o concurso para lugares de contínuo de 1.ª classe, a que se refere o aviso publicado no Diário do Governo, 2.ª série, n.º 174, de 26 de Julho de 1973.\n\n> Alterado pelo/a [Decreto-Lei n.º 459/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1975-314898), publicado em 1975-08-23."
+  },
+  "8b913690166bd83f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\n1. O pessoal nomeado ou contratado ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril, poderá ser provido em idênticos lugares, mediante despacho ministerial, desde que tenha boa informação de serviço.\n\n2. O pessoal que se encontra na situação do número anterior e que não for provido nos quadros manter-se-á na situação em que se encontrar à data da publicação deste decreto-lei."
+  },
+  "c97e92cfa9609b6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nEm tudo quanto não estiver previsto neste diploma e nos Decretos-Leis n.os 49397 e 49410, de 24 de Novembro de 1969, as formas de recrutamento e os regimes de provimento do pessoal administrativo e auxiliar constarão de regulamento a aprovar por portaria."
+  },
+  "7107376d9cd97f93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\nTodos os prazos fixados neste diploma serão acrescidos de 50% quando se tratar de candidatos residentes nas ilhas adjacentes."
+  },
+  "934ea4c8e28121dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nOs encargos resultantes da execução do presente diploma serão suportados, no corrente ano económico, pelas disponibilidades das verbas destinadas ao pagamento de remunerações certas ao pessoal dos quadros aprovados por lei.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.\n\nPromulgado em 26 de Setembro de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nQuadros a que se refere o artigo 16.º do Decreto-Lei n.º 513/73\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23700/17851801.pdf)\n\nQuadro de apoio a que se refere o artigo 17.º do Decreto-Lei n.º 513/73\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/10/23700/17851801.pdf)\n\nO Ministro da Educação Nacional, José Veiga Simão."
+  }
+ }
+}

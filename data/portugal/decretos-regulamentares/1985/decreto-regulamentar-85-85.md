@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-02-09'
+version_history:
+  file: decreto-regulamentar-85-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-02-09'
+    amending: pt:dre:663173:por
+    amending_title: Decreto Regulamentar n.º 10/87
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:12:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 10/87. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1985/decreto-regulamentar-85-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,7 +130,9 @@ Considerando que importa salvaguardar a qualidade intrínseca da banana embalada
 
 Ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição e da alínea c) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 503/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-1985-250605), de 30 de Dezembro, o seguinte:
 
-Artigo 1.º No transporte de banana embalada, qualquer que seja o meio utilizado, deverá ser observado o seguinte:
+###### Artigo 1.º
+
+No transporte de banana embalada, qualquer que seja o meio utilizado, deverá ser observado o seguinte:
 
 a) A banana não deverá ser transportada conjuntamente com produtos que, pelas suas características e emanações, possam prejudicar a qualidade e apresentação do referido fruto;
 
@@ -125,11 +142,17 @@ c) O transporte deverá ser efectuado de forma que as caixas não sofram qualque
 
 d) A duração das operações de carga e descarga deverá ser reduzida ao mínimo indispensável, bem como o tempo de permanência nos respectivos locais.
 
-Art. 2.º - 1 - No transporte rodoviário e ferroviário de caixas, isoladas ou agrupadas em paletas, a altura de carga no veículo não deverá ser superior a 8 unidades.
+###### Artigo 2.º
 
-2 - Para distâncias superiores a 100 km, o transporte deverá efectuar-se em condições de ambiente controlado de forma a serem evitadas temperaturas superiores a 18º ou inferiores a 12º Celsius.
+1 - No transporte rodoviário e ferroviário de caixas, isoladas ou agrupadas em paletas, a altura de carga no veículo não deverá ser superior a 8 unidades.
 
-Art. 3.º - 1 - A partir de 1 de Janeiro de 1987, o transporte marítimo de banana só será permitido em paletas ou, preferencialmente, em contentores open-side ou climatizados.
+2 - A partir de 1 de Janeiro de 1987, para distâncias superiores a 100 km, o transporte deverá efectuar-se em condições de ambiente controlado, de forma a serem evitadas temperaturas superiores a 18ºC ou inferiores a 12ºC.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 10/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1987-663173), publicado em 1987-02-04.
+
+###### Artigo 3.º
+
+1 - A partir de 1 de Janeiro de 1987, o transporte marítimo de banana só será permitido em paletas ou, preferencialmente, em contentores open-side ou climatizados.
 
 2 - No transporte em paletas, o número de caixas sobrepostas não deverá exceder 8 unidades.
 
@@ -139,23 +162,31 @@ Art. 3.º - 1 - A partir de 1 de Janeiro de 1987, o transporte marítimo de bana
 
 5 - Até à data indicada no n.º 1 deste artigo, a estiva dentro do navio deverá fazer-se de modo a facilitar a ventilação e evitar pressões excessivas das caixas superiores sobre as inferiores, não devendo o número de caixas sobrepostas exceder 8 unidades.
 
-Art. 4.º - 1 - O transporte marítimo de banana deverá ser realizado em barcos equipados com ventilação dinâmica ou, de preferência, climatizados.
+###### Artigo 4.º
+
+1 - O transporte marítimo de banana deverá ser realizado em barcos equipados com ventilação dinâmica ou, de preferência, climatizados.
 
 2 - Nos navios dotados de ventilação dinâmica, a renovação e a distribuição do ar deverão ser feitas por forma a garantir a boa conservação da fruta durante a viagem.
 
 3 - A ventilação eléctrica deverá ter potência suficiente para renovação mínima do ar, em porão vazio, 30 vezes por hora e, em porão cheio, 70 vezes por hora.
 
-Art. 5.º - 1 - O transporte em navios ou contentores climatizados deverá realizar-se a uma temperatura não inferior e próxima dos 12º Celsius, devendo manter-se uma humidade relativa entre 85% e 90%.
+###### Artigo 5.º
+
+1 - O transporte em navios ou contentores climatizados deverá realizar-se a uma temperatura não inferior e próxima dos 12º Celsius, devendo manter-se uma humidade relativa entre 85% e 90%.
 
 2 - No período compreendido entre 1 de Maio e 31 de Outubro, a banana só poderá ser transportada em barcos ou contentores climatizados.
 
-Art. 6.º - 1 - Os barcos deverão estar equipados, nos seus porões, com termo-higrógrafos, os quais deverão ser postos em funcionamento no momento da saída do barco do porto de carregamento, procedendo-se nessa altura à respectiva selagem.
+###### Artigo 6.º
+
+1 - Os barcos deverão estar equipados, nos seus porões, com termo-higrógrafos, os quais deverão ser postos em funcionamento no momento da saída do barco do porto de carregamento, procedendo-se nessa altura à respectiva selagem.
 
 2 - No continente e na Região Autónoma dos Açores a selagem será efectuada pela Junta Nacional das Frutas e na Região Autónoma da Madeira pela Direcção de Serviços de Comércio e Indústria Agrícola, da Secretaria Regional da Economia.
 
 3 - No porto de descarga, à abertura dos porões, as entidades referidas no número anterior procederão ao controle dos respectivos registos.
 
-Art. 7.º No transporte aéreo, embora não seja obrigatório o agrupamento de caixas, deverão ser acauteladas as condições de estiva e de ambiente que garantam a preservação da qualidade do produto.
+###### Artigo 7.º
+
+No transporte aéreo, embora não seja obrigatório o agrupamento de caixas, deverão ser acauteladas as condições de estiva e de ambiente que garantam a preservação da qualidade do produto.
 
 Aníbal António Cavaco Silva - Lino Dias Miguel - Tomás George Conceição Silva - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
 

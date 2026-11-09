@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-10-18'
+version_history:
+  file: decreto-lei-389-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-10-18'
+    amending: pt:dre:555834:por
+    amending_title: Decreto-Lei n.º 317/90
+    changes:
+    - Altera Artigo 13.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:44:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 317/90. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-389-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -183,17 +198,23 @@ Assim, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o 
 
 ### CAPÍTULO I — Integração
 
-Artigo 1.º - 1 - Os Institutos Superiores de Engenharia de Coimbra, Lisboa e Porto, adiante designados por institutos, passam a fazer parte da rede de estabelecimentos de ensino superior politécnico constante do artigo 8.º do [Decreto do Governo n.º 46/85](https://diariodarepublica.pt/dr/detalhe/decreto-governo/46-1985-172090), de 22 de Novembro.
+###### Artigo 1.º
+
+1 - Os Institutos Superiores de Engenharia de Coimbra, Lisboa e Porto, adiante designados por institutos, passam a fazer parte da rede de estabelecimentos de ensino superior politécnico constante do artigo 8.º do [Decreto do Governo n.º 46/85](https://diariodarepublica.pt/dr/detalhe/decreto-governo/46-1985-172090), de 22 de Novembro.
 
 2 - Os institutos referidos no número anterior são integrados, respectivamente, nos Institutos Politécnicos de Coimbra, Lisboa e Porto.
 
 ### CAPÍTULO II — Da natureza e atribuições
 
-Art. 2.º - 1 - Os institutos gozam de autonomia técnica, científica e pedagógica.
+###### Artigo 2.º
+
+1 - Os institutos gozam de autonomia técnica, científica e pedagógica.
 
 2 - Os institutos são dotados de personalidade jurídica e de autonomia administrativa.
 
-Art. 3.º Os institutos têm por fins:
+###### Artigo 3.º
+
+Os institutos têm por fins:
 
 a) Formar, a nível superior, técnicos qualificados nas respectivas áreas de actividade;
 
@@ -205,7 +226,9 @@ d) Desenvolver actividades de prestação de serviços à comunidade;
 
 e) Organizar cursos de aperfeiçoamento e de actualização de profissionais ligados aos domínios de actividade de cada uma das instituições.
 
-Art. 4.º - 1 - Os institutos ministram cursos conducentes à obtenção do grau de bacharel e do diploma de estudos superiores especializados.
+###### Artigo 4.º
+
+1 - Os institutos ministram cursos conducentes à obtenção do grau de bacharel e do diploma de estudos superiores especializados.
 
 2 - Os cursos conducentes à obtenção do grau de bacharel terão uma duração de três anos, salvo o disposto no n.º 2 do artigo seguinte.
 
@@ -215,21 +238,29 @@ Art. 4.º - 1 - Os institutos ministram cursos conducentes à obtenção do grau
 
 5 - Os institutos podem, ainda, atribuir o grau de licenciado a indivíduos habilitados com cursos de estudos superiores especializados que, de acordo com o previsto no n.º 7 do artigo 13.º da Lei de Bases do Sistema Educativo, [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, formem um conjunto coerente com um curso de bacharelato precedente.
 
-Art. 5.º - 1 - Os institutos podem assegurar o funcionamento de ensino nocturno sempre que o número de candidatos o justifique.
+###### Artigo 5.º
+
+1 - Os institutos podem assegurar o funcionamento de ensino nocturno sempre que o número de candidatos o justifique.
 
 2 - Sob proposta dos conselhos científicos, pode o Ministro da Educação autorizar o alargamento da duração dos cursos nocturnos, a fim de manter a igualdade da sua escolaridade com a dos cursos diurnos.
 
-Art. 6.º - 1 - Na admissão aos cursos de bacharelato ministrados nos institutos serão observadas as regras gerais de acesso ao ensino superior.
+###### Artigo 6.º
+
+1 - Na admissão aos cursos de bacharelato ministrados nos institutos serão observadas as regras gerais de acesso ao ensino superior.
 
 2 - À inscrição nos cursos de estudos superiores especializados, que funcionarão em regime de numerus clausus, a fixar por portaria do Ministro da Educação, sob proposta dos institutos, têm acesso os bacharéis pelos institutos superiores de engenharia, bem como os licenciados em áreas afins, cuja admissão seja autorizada pelos respectivos conselhos científicos, precedendo apreciação curricular dos candidatos.
 
-Art. 7.º Mediante convénios ou outros acordos a estabelecer com as universidades, poderão ser atribuídos aos diplomados pelos institutos créditos para efeitos de prosseguimento de estudos conducentes à obtenção do grau académico da licenciatura ou de mestrado em áreas científicas afins.
+###### Artigo 7.º
+
+Mediante convénios ou outros acordos a estabelecer com as universidades, poderão ser atribuídos aos diplomados pelos institutos créditos para efeitos de prosseguimento de estudos conducentes à obtenção do grau académico da licenciatura ou de mestrado em áreas científicas afins.
 
 ### CAPÍTULO III — Do pessoal
 
 #### SECÇÃO I — Do pessoal docente
 
-Art. 8.º - 1 - Os quadros do pessoal docente dos institutos passam a ser os constantes do mapa I anexo ao presente diploma, que do mesmo faz parte integrante.
+###### Artigo 8.º
+
+1 - Os quadros do pessoal docente dos institutos passam a ser os constantes do mapa I anexo ao presente diploma, que do mesmo faz parte integrante.
 
 2 - A estrutura orgânica dos quadros referidos no número anterior será aprovada por portaria do Ministro da Educação, sob proposta do respectivo conselho científico.
 
@@ -239,7 +270,9 @@ Art. 8.º - 1 - Os quadros do pessoal docente dos institutos passam a ser os con
 
 #### SECÇÃO II — Do pessoal não docente
 
-Art. 9.º - 1 - A secretaria dos institutos é dirigida por um secretário com categoria equivalente à de chefe de divisão, para todos os efeitos legais.
+###### Artigo 9.º
+
+1 - A secretaria dos institutos é dirigida por um secretário com categoria equivalente à de chefe de divisão, para todos os efeitos legais.
 
 2 - Compete ao secretário:
 
@@ -265,21 +298,37 @@ i) Promover a execução das deliberações dos órgãos da escola.
 
 ### CAPÍTULO IV — Disposições gerais
 
-Art. 10.º - 1 - O diploma de estudos superiores especializados constitui habilitação equivalente à da licenciatura para todos os efeitos académicos e profissionais, nomeadamente os de acesso à frequência dos cursos de mestrado e às carreiras técnicas superiores da administração central e local.
+###### Artigo 10.º
+
+1 - O diploma de estudos superiores especializados constitui habilitação equivalente à da licenciatura para todos os efeitos académicos e profissionais, nomeadamente os de acesso à frequência dos cursos de mestrado e às carreiras técnicas superiores da administração central e local.
 
 2 - O diploma referido no número anterior constitui igualmente habilitação equivalente à licenciatura para efeitos de recrutamento do pessoal dirigente da administração central e local.
 
 ### CAPÍTULO V — Disposições transitórias
 
-Art. 11.º Enquanto não for publicado o estatuto do ensino superior politécnico, os institutos mantêm os actuais órgãos e serviços.
+###### Artigo 11.º
 
-Art. 12.º Sem prejuízo do disposto no n.º 1 do artigo 8.º, os institutos continuarão a dispor dos quadros transitórios de assistentes e professores auxiliares a que se refere o artigo 14.º do [Decreto-Lei n.º 830/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/830-1974-238223), de 31 de Dezembro, constantes do mapa II anexo ao presente diploma, que do mesmo faz parte integrante, extinguindo-se os respectivos lugares à medida que vagarem.
+Enquanto não for publicado o estatuto do ensino superior politécnico, os institutos mantêm os actuais órgãos e serviços.
 
-Art. 13.º - 1 - Os institutos disporão, ainda, do quadro transitório de professores-coordenadores e de professores-adjuntos, constantes do mapa III anexo ao presente diploma, que do mesmo faz parte integrante, cujos lugares se extinguirão, à medida que vagarem, após o primeiro provimento ou, caso não venham a ser providos, após se ter esgotado a forma de provimento prevista no número seguinte, sendo aplicável a esses quadros o preceituado nos n.os 2 e 3 do artigo 8.º do presente decreto-lei.
+###### Artigo 12.º
+
+Sem prejuízo do disposto no n.º 1 do artigo 8.º, os institutos continuarão a dispor dos quadros transitórios de assistentes e professores auxiliares a que se refere o artigo 14.º do [Decreto-Lei n.º 830/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/830-1974-238223), de 31 de Dezembro, constantes do mapa II anexo ao presente diploma, que do mesmo faz parte integrante, extinguindo-se os respectivos lugares à medida que vagarem.
+
+###### Artigo 13.º
+
+1 - Os institutos disporão, ainda, do quadro transitório de professores-coordenadores e de professores-adjuntos, constantes do mapa III anexo ao presente diploma, que do mesmo faz parte integrante, cujos lugares se extinguirão, à medida que vagarem, após o primeiro provimento ou, caso não venham a ser providos, após se ter esgotado a forma de provimento prevista no número seguinte, sendo aplicável a esses quadros o preceituado nos n.os 2 e 3 do artigo 8.º do presente decreto-lei.
 
 2 - O provimento nos lugares de professor-coordenador e de professor-adjunto, constantes do quadro referido no número anterior, só pode recair em individualidades que sejam titulares de lugares de professor auxiliar ou de assistente dos quadros referidos no artigo anterior, precedendo a avaliação curricular prevista no artigo seguinte ou mediante o requerimento a que se refere o n.º 3 do mesmo preceito.
 
-Art. 14.º - 1 - Durante o prazo, improrrogável, de 60 dias, contados da data da publicação no Diário da República do despacho de afectação a que se refere o n.º 3 do artigo 8.º, poderão os actuais assistentes e professores auxiliares do quadro transitório requerer ao Ministro da Educação a apreciação curricular para efeitos de provimento nas categorias de professor-adjunto e de professor-coordenador, respectivamente, indicando a respectiva área.
+3 - A antiguidade nas categorias de professor-coordenador e de professor-adjunto dos docentes dos Institutos Superiores de Engenharia de Coimbra, de Lisboa e do Porto que vierem a ser providos naquelas categorias, quer nos termos do presente artigo, quer nos termos do disposto no artigo 14.º, reporta-se a 1 de Dezembro de 1989.
+
+4 - O disposto no número anterior não tem quaisquer outras implicações, designadamente para efeitos remuneratórios.
+
+> Alterado pelo/a [Decreto-Lei n.º 317/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1990-555834), publicado em 1990-10-13.
+
+###### Artigo 14.º
+
+1 - Durante o prazo, improrrogável, de 60 dias, contados da data da publicação no Diário da República do despacho de afectação a que se refere o n.º 3 do artigo 8.º, poderão os actuais assistentes e professores auxiliares do quadro transitório requerer ao Ministro da Educação a apreciação curricular para efeitos de provimento nas categorias de professor-adjunto e de professor-coordenador, respectivamente, indicando a respectiva área.
 
 2 - Poderão ainda requerer ao Ministro da Educação, nos termos referidos no número anterior, a apreciação curricular para efeitos de provimento na categoria de professor-coordenador os assistentes do quadro transitório que reúnam os seguintes requisitos à data da entrada em vigor do presente diploma:
 
@@ -313,33 +362,51 @@ h) Participação em missões, congressos e outras reuniões de idêntica nature
 
 7 - Os actuais professores auxiliares e assistentes dos quadros transitórios dos Institutos Superiores de Contabilidade e Administração de Aveiro, Coimbra, Lisboa e Porto e dos Institutos Superiores de Engenharia de Coimbra, Lisboa e Porto que não forem providos, precedendo avaliação curricular, respectivamente, nas categorias de professor-coordenador e de professor-adjunto poderão ser admitidos a concurso de provas públicas para estas categorias dos respectivos quadros de professores, com dispensa de qualquer outra habilitação académica além de licenciatura.
 
-Art. 15.º - 1 - Os docentes referidos no n.º 3 do artigo anterior serão ordenados, para efeitos de provimento das vagas constantes dos mapas III e I anexos ao presente diploma, consoante sejam ou não titulares de lugares dos quadros transitórios a que se refere o artigo 14.º do [Decreto-Lei n.º 830/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/830-1974-238223), de 31 de Dezembro, de acordo com a antiguidade na obtenção do grau de doutor ou de mestre, conforme os casos.
+###### Artigo 15.º
+
+1 - Os docentes referidos no n.º 3 do artigo anterior serão ordenados, para efeitos de provimento das vagas constantes dos mapas III e I anexos ao presente diploma, consoante sejam ou não titulares de lugares dos quadros transitórios a que se refere o artigo 14.º do [Decreto-Lei n.º 830/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/830-1974-238223), de 31 de Dezembro, de acordo com a antiguidade na obtenção do grau de doutor ou de mestre, conforme os casos.
 
 2 - Quando, para efeitos do disposto no número anterior, um ou mais docentes tenham obtido o mesmo grau, no mesmo dia, a precedência será determinada pela antiguidade na obtenção do grau de licenciado.
 
-Art. 16.º Os contratos dos actuais professores auxiliares, equiparados a professores auxiliares e equiparados a assistentes consideram-se denunciados para o seu termo, não podendo, em hipótese alguma, ser renovados, sem prejuízo de celebração de novos contratos ao abrigo do preceituado no [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho, e legislação complementar.
+###### Artigo 16.º
 
-Art. 17.º Os contratos dos actuais monitores dos institutos poderão ser prorrogados até 30 de Setembro de 1990, sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
+Os contratos dos actuais professores auxiliares, equiparados a professores auxiliares e equiparados a assistentes consideram-se denunciados para o seu termo, não podendo, em hipótese alguma, ser renovados, sem prejuízo de celebração de novos contratos ao abrigo do preceituado no [Decreto-Lei n.º 185/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1981-578678), de 1 de Julho, e legislação complementar.
 
-Art. 18.º - 1 - Os actuais assistentes não abrangidos pelo disposto no artigo 14.º do presente diploma transitam para assistentes do 2.º triénio.
+###### Artigo 17.º
+
+Os contratos dos actuais monitores dos institutos poderão ser prorrogados até 30 de Setembro de 1990, sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
+
+###### Artigo 18.º
+
+1 - Os actuais assistentes não abrangidos pelo disposto no artigo 14.º do presente diploma transitam para assistentes do 2.º triénio.
 
 2 - Os docentes referidos no número anterior não poderão permanecer no exercício das respectivas funções se, no prazo de oito anos de exercício nas respectivas categorias, não tiverem obtido as habilitações necessárias para o acesso à categoria de professor-adjunto.
 
-Art. 19.º Os actuais assistentes eventuais transitam para a categoria de assistente do 1.º triénio, sendo-lhes contado, para efeitos de progressão na carreira, o tempo de serviço prestado na categoria de assistente eventual.
+###### Artigo 19.º
 
-Art. 20.º O quadro dos mestres dos institutos, lugares a extinguir à medida que vagarem, é o constante do mapa IV anexo ao presente diploma, que do mesmo faz parte integrante.
+Os actuais assistentes eventuais transitam para a categoria de assistente do 1.º triénio, sendo-lhes contado, para efeitos de progressão na carreira, o tempo de serviço prestado na categoria de assistente eventual.
 
-Art. 21.º - 1 - Até final do ano lectivo de 1989-1990, a título transitório, podem os conselhos científicos dos institutos, em casos excepcionais, distribuir ao pessoal docente serviço até ao limite de dezasseis horas semanais de aulas.
+###### Artigo 20.º
+
+O quadro dos mestres dos institutos, lugares a extinguir à medida que vagarem, é o constante do mapa IV anexo ao presente diploma, que do mesmo faz parte integrante.
+
+###### Artigo 21.º
+
+1 - Até final do ano lectivo de 1989-1990, a título transitório, podem os conselhos científicos dos institutos, em casos excepcionais, distribuir ao pessoal docente serviço até ao limite de dezasseis horas semanais de aulas.
 
 2 - Os docentes referidos no número anterior que prestem mais de doze horas semanais de aulas, desde que não beneficiem do regime de dedicação exclusiva, terão direito, por cada hora de serviço prestado para além daquele limite, à percepção da remuneração prevista no artigo 31.º do [Decreto-Lei n.º 187/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1988-374243), de 27 de Maio.
 
-Art. 22.º - 1 - O disposto no n.º 2 do artigo 14.º do presente diploma entra em vigor no ano lectivo de 1989-1990.
+###### Artigo 22.º
+
+1 - O disposto no n.º 2 do artigo 14.º do presente diploma entra em vigor no ano lectivo de 1989-1990.
 
 2 - Para efeitos do preceituado no número anterior, os conselhos científicos, quando for caso disso, remeterão as respectivas propostas de planos de estudo à Direcção-Geral do Ensino Superior até 31 de Janeiro de 1989.
 
 3 - Os institutos devem assegurar até ao termo do ano lectivo de 1994-1995, como limite máximo, a leccionação dos planos de estudo dos cursos de bacharelato que tenham uma duração superior à prevista no n.º 2 do artigo 4.º do presente diploma, para os alunos que nele estejam inscritos até ao termo do ano lectivo de 1988-1989 ou que neles desejem reingressar até ao início do ano lectivo de 1993-1994.
 
-Art. 23.º - 1 - Não serão extintos os lugares dos docentes dos quadros transitórios anexos ao presente diploma que requeiram a passagem à situação de licença ilimitada, nem daqueles que requeiram licença sem vencimento ao abrigo do disposto no [Decreto-Lei n.º 519-E1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-e1-1979-157055), de 29 de Dezembro.
+###### Artigo 23.º
+
+1 - Não serão extintos os lugares dos docentes dos quadros transitórios anexos ao presente diploma que requeiram a passagem à situação de licença ilimitada, nem daqueles que requeiram licença sem vencimento ao abrigo do disposto no [Decreto-Lei n.º 519-E1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-e1-1979-157055), de 29 de Dezembro.
 
 2 - Os docentes referidos no número anterior terão o direito de reocupar as vagas a que derem origem, mediante despacho do Ministro da Educação, a solicitação dos interessados, publicado no Diário da República.
 

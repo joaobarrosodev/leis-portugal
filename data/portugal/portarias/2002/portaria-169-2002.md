@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-05-29'
+version_history:
+  file: portaria-169-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-02-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-05-29'
+    amending: pt:dre:261301:por
+    amending_title: Portaria n.º 580/2004
+    changes:
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/169/2002/02/27/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:39:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 580/2004. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-169-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -265,7 +280,9 @@ i) Não alienar sem autorização prévia do gestor os equipamentos ou as instal
 
 ###### Artigo 11.º — Execução dos projectos
 
-A data-limite de execução dos projectos aprovados e apresentação do pedido de pagamento no âmbito do presente Regime é 30 de Setembro de 2003, excepto para os prémios fixos individuais, em que esta data é 30 de Novembro de 2003.
+A data limite de execução dos projectos aprovados e apresentação do pedido de pagamento no âmbito do presente regime é 18 de Novembro de 2003, excepto para as medidas de carácter sócio-económico, em que esta data é 30 de Outubro de 2004.
+
+> Alterado pelo/a [Portaria n.º 580/2004](https://diariodarepublica.pt/dr/detalhe/portaria/580-2004-261301), publicado em 2004-05-28.
 
 ### CAPÍTULO II — Imobilização definitiva e modernização/reconversão de embarcações
 

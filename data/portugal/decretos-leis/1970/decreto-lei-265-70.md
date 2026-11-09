@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-04-26'
+version_history:
+  file: decreto-lei-265-70.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1970-06-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-04-26'
+    amending: pt:dre:502190:por
+    amending_title: Decreto-Lei n.º 300/76
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:13:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 300/76. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1970/decreto-lei-265-70.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,13 +141,17 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. A competência para a fiscalização do cumprimento das disposições legais e regulamentares sobre viação terrestre e transportes rodoviários, que actualmente pertence à Polícia de Viação e Trânsito (P. V. T.), passa a ser exercida pela Guarda Nacional Republicana (G. N. R.).
+###### Artigo 1.º
+
+1. A competência para a fiscalização do cumprimento das disposições legais e regulamentares sobre viação terrestre e transportes rodoviários, que actualmente pertence à Polícia de Viação e Trânsito (P. V. T.), passa a ser exercida pela Guarda Nacional Republicana (G. N. R.).
 
 2. A Direcção-Geral de Transportes Terrestres e o Ministro das Comunicações continuarão a exercer a competência que actualmente possuem em matéria de viação e transportes, nomeadamente quanto à centralização de processos e registos, exames técnicos de condutores e de veículos, autorização de transportes e medidas de inibição de conduzir.
 
 3. A competência atribuída à G. N. R. não exclui a que a lei confere à Polícia de Segurança Pública (P. S. P.), em relação às vias públicas das povoações e nos distritos autónomos das ilhas adjacentes, bem como a pertencente a outras autoridades com jurisdição sobre estradas e caminhos.
 
-Art. 2.º Compete à G. N. R., em matéria de viação e transportes:
+###### Artigo 2.º
+
+Compete à G. N. R., em matéria de viação e transportes:
 
 a) Policiar as estradas e caminhos, assegurando a prevenção das infracções relativas ao trânsito e à segurança e circulação dos transportes rodoviários;
 
@@ -143,7 +163,9 @@ d) Dar ao Ministério das Comunicações, para o exercício das funções deste 
 
 e) Coadjuvar os serviços competentes quanto à conservação das estradas e seus acessórios, participando-lhes aquilo que tiver por conveniente e praticando as diligências indispensáveis para evitar acidentes.
 
-Art. 3.º - 1. Para o desempenho da competência conferida à G. N. R. em matéria de viação e trânsito, é criada no quadro das unidades da corporação a Brigada de Trânsito (B. T.).
+###### Artigo 3.º
+
+1. Para o desempenho da competência conferida à G. N. R. em matéria de viação e trânsito, é criada no quadro das unidades da corporação a Brigada de Trânsito (B. T.).
 
 2. A B. T. da G. N. R. compreenderá, além de uma companhia de comando, quatro grupos regionais de trânsito (G. R. T.), que agruparão dezoito destacamentos de trânsito (D. T.), um por cada distrito do continente.
 
@@ -151,7 +173,13 @@ Art. 3.º - 1. Para o desempenho da competência conferida à G. N. R. em matér
 
 4. A companhia de comando depende directamente do comandante da Brigada; os G. R. T. e os D. T. serão destacados e adidos, respectivamente, nos batalhões e nas companhias da G. N. R. afectos ao serviço rural.
 
-Art. 4.º - 1. O comando da B. T. é exercido por um oficial com a patente de coronel ou tenente-coronel, directamente dependente do Comando-Geral e coadjuvado por um 2.º comandante com a patente de major ou tenente-coronel.
+5. A subordinação às unidades territoriais da Guarda Nacional Republicana, a situação de adidos dos órgãos da BT destacados a que se refere o número anterior, bem como a cadeia de comando para transmissão de ordens, com vista ao emprego racional dos meios da BT no cumprimento da sua missão, serão estabelecidas por normas e regulamentação internas da competência do Comando da corporação.
+
+> Alterado pelo/a [Decreto-Lei n.º 300/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1976-502190), publicado em 1976-04-26.
+
+###### Artigo 4.º
+
+1. O comando da B. T. é exercido por um oficial com a patente de coronel ou tenente-coronel, directamente dependente do Comando-Geral e coadjuvado por um 2.º comandante com a patente de major ou tenente-coronel.
 
 2. A cooperação da G. N. R. com o Ministério das Comunicações, em matéria de viação e transportes, será normalmente assegurada através do comando da B. T., por delegação do comandante-geral da Guarda.
 
@@ -159,35 +187,41 @@ Art. 4.º - 1. O comando da B. T. é exercido por um oficial com a patente de co
 
 4. A Repartição de Operações e Informações do Estado-Maior do Comando-Geral da G. N. R. compreenderá uma secção destinada às matérias referentes ao trânsito da competência da corporação.
 
-Art. 5.º - 1. Cada G. R. T. será comandado por um capitão e cada D. T. terá por comandante um tenente.
+###### Artigo 5.º
 
-2. As unidades de B. T. ficarão subordinadas:
+Cada GRT será comandado por um capitão e cada DT terá por comandante um tenente.
 
-Aos comandos das unidades territoriais da G. N. R. da área em que se encontram destacadas para todos os efeitos, excepto os relativos ao serviço de trânsito;
+> Alterado pelo/a [Decreto-Lei n.º 300/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-1976-502190), publicado em 1976-04-26.
 
-Ao comando da B. T. para estes últimos.
+###### Artigo 6.º
 
-3. As ordens do comando da B. T. deverão ser transmitidas por intermédio dos comandos das unidades territoriais em que as unidades de trânsito se encontram destacadas. Em caso de urgência, poderão estas ordens ser transmitidas directamente, mas sempre com conhecimento ao comando da unidade territorial respectiva.
-
-Art. 6.º - 1. As forças e os meios de acção da G. N. R. cuja aptidão possa ter melhor aproveitamento no serviço da B. T. poderão ser integrados nesta a todo o tempo, mediante portaria dos Ministros do Interior e das Finanças.
+1. As forças e os meios de acção da G. N. R. cuja aptidão possa ter melhor aproveitamento no serviço da B. T. poderão ser integrados nesta a todo o tempo, mediante portaria dos Ministros do Interior e das Finanças.
 
 2. O comandante-geral pode afectar, a título temporário, ao serviço da B. T. quaisquer forças do seu comando.
 
-Art. 7.º - 1. Para a constituição da B. T. os quadros da G. N. R. são aumentados de acordo com o mapa que vai anexo ao presente decreto-lei e que poderá vir a ser alterado por decreto.
+###### Artigo 7.º
+
+1. Para a constituição da B. T. os quadros da G. N. R. são aumentados de acordo com o mapa que vai anexo ao presente decreto-lei e que poderá vir a ser alterado por decreto.
 
 2. As vagas que se abrirem nos quadros da B. T. serão preenchidas por pessoal dos efectivos da G. N. R., de harmonia com as normas a fixar pelo comandante-geral.
 
 3. O preenchimento dos lugares será feito sem prejuízo da execução do disposto nos artigos 10.º, n.º 5, e 11.º e o respectivo encargo será coberto pela parte disponível das verbas orçamentais referidas no artigo 14.º e das demais destinadas à despesa com a G. N. R.
 
-Art. 8.º - 1. Os oficiais e sargentos da B. T. mantêm os vencimentos e gratificações de serviço correspondentes às suas patentes e postos na G. N. R.
+###### Artigo 8.º
+
+1. Os oficiais e sargentos da B. T. mantêm os vencimentos e gratificações de serviço correspondentes às suas patentes e postos na G. N. R.
 
 2. Além dos seus vencimentos, serão abonadas aos cabos e soldados da Brigada gratificações de serviço, cuja importância será fixada por despacho conjunto dos Ministros do Interior e das Finanças.
 
 3. Aos sargentos, cabos e soldados da Brigada será abonado um subsídio de fardamento de quantitativo a fixar nos termos do número anterior e àqueles a quem for distribuída motocicleta ou outra viatura automóvel será mantido o abono correspondente.
 
-Art. 9.º É extinta a P. V. T., devendo observar-se as disposições transitórias constantes dos artigos seguintes.
+###### Artigo 9.º
 
-Art. 10.º - 1. O pessoal da P. V. T. recrutado na G. N. R. regressa a esta corporação.
+É extinta a P. V. T., devendo observar-se as disposições transitórias constantes dos artigos seguintes.
+
+###### Artigo 10.º
+
+1. O pessoal da P. V. T. recrutado na G. N. R. regressa a esta corporação.
 
 2. Os oficiais do Exército que exerçam funções na P. V. T. e não devam regressar ao seu Ministério, a seu pedido ou por determinação do Ministro, ficarão em comissão de serviço na G. N. R., sendo colocados, de preferência, na B. T.
 
@@ -197,21 +231,33 @@ Art. 10.º - 1. O pessoal da P. V. T. recrutado na G. N. R. regressa a esta corp
 
 5. A transição para a G. N. R., nos termos dos números anteriores, do pessoal em serviço na P. V. T. será feita por despacho do Ministro do Interior, publicado no Diário do Governo, sem dependência de outras formalidades.
 
-Art. 11.º É garantida ao pessoal que transitar para a G. N. R., nos termos do artigo anterior, a manutenção dos vencimentos, gratificações e subsídios a que tinham direito na P. V. T., quando superiores aos que lhes competiriam nos quadros da G. N. R.
+###### Artigo 11.º
 
-Art. 12.º O pessoal da P. S. P. que transitar para a B. T. fica sujeito à legislação disciplinar aplicável ao pessoal da G. N. R., enquanto nesta permanecer, mas se tiver de cumprir pena disciplinar superior à de multa recolherá àquela Polícia.
+É garantida ao pessoal que transitar para a G. N. R., nos termos do artigo anterior, a manutenção dos vencimentos, gratificações e subsídios a que tinham direito na P. V. T., quando superiores aos que lhes competiriam nos quadros da G. N. R.
 
-Art. 13.º - 1. São transferidos para a G. N. R., sem dependência de quaisquer formalidades, todos os veículos, armamento e munições, mobiliário, instalações, livros, registos ou documentos e outros bens que estejam afectos à P. V. T.
+###### Artigo 12.º
+
+O pessoal da P. S. P. que transitar para a B. T. fica sujeito à legislação disciplinar aplicável ao pessoal da G. N. R., enquanto nesta permanecer, mas se tiver de cumprir pena disciplinar superior à de multa recolherá àquela Polícia.
+
+###### Artigo 13.º
+
+1. São transferidos para a G. N. R., sem dependência de quaisquer formalidades, todos os veículos, armamento e munições, mobiliário, instalações, livros, registos ou documentos e outros bens que estejam afectos à P. V. T.
 
 2. O material a transferir será inventariado, devendo a Direcção-Geral de Transportes Terrestres remeter o inventário ao Comando-Geral da G. N. R.
 
-Art. 14.º - 1. As verbas do Orçamento Geral do Estado do capítulo de despesas do Ministério das Comunicações relativo à Direcção-Geral de Transportes Terrestres, expressamente destinadas à P. V. T., serão transferidas para o capítulo de despesas do Ministério do Interior relativo à G. N. R.
+###### Artigo 14.º
+
+1. As verbas do Orçamento Geral do Estado do capítulo de despesas do Ministério das Comunicações relativo à Direcção-Geral de Transportes Terrestres, expressamente destinadas à P. V. T., serão transferidas para o capítulo de despesas do Ministério do Interior relativo à G. N. R.
 
 2. As verbas de despesa da referida Direcção-Geral que satisfaçam encargos da P. V. T., sem menção desta no orçamento ou provenientes do Fundo Especial de Transportes Terrestres, serão transferidas do mesmo modo e na proporção em que no ano anterior satisfizerem esses encargos.
 
-Art. 15.º Até à publicação do novo regulamento de polícia do trânsito continuam em vigor as disposições actualmente aplicáveis em tudo quanto não colida com a orgânica e a disciplina da G. N. R.
+###### Artigo 15.º
 
-Art. 16.º - 1. Este decreto-lei entra em vigor no dia 1 de Julho de 1970.
+Até à publicação do novo regulamento de polícia do trânsito continuam em vigor as disposições actualmente aplicáveis em tudo quanto não colida com a orgânica e a disciplina da G. N. R.
+
+###### Artigo 16.º
+
+1. Este decreto-lei entra em vigor no dia 1 de Julho de 1970.
 
 2. A publicação do despacho a que se refere o n.º 5 do artigo 10.º poderá efectuar-se antes daquela data, mas para produzir efeitos a partir da mesma.
 

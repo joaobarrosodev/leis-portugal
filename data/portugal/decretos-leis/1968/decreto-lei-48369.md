@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-02-28'
+version_history:
+  file: decreto-lei-48369.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-05-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-02-28'
+    amending: pt:dre:154454:por
+    amending_title: Decreto-Lei n.º 674/70; Decreto-Lei n.º 72/74
+    changes:
+    - Altera Artigo 13.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:05:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 674/70; Decreto-Lei
+    n.º 72/74. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48369.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,7 +172,9 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Das operações das instituições de crédito ultramarinas
 
-Artigo 1.º Os depósitos de disponibilidades monetárias nas instituições de crédito ultramarinas só poderão revestir uma das seguintes formas:
+###### Artigo 1.º
+
+Os depósitos de disponibilidades monetárias nas instituições de crédito ultramarinas só poderão revestir uma das seguintes formas:
 
 a) Depósitos à ordem;
 
@@ -170,7 +188,9 @@ c) Depósitos com pré-aviso.
 
 § 3.º Os depósitos com pré-aviso serão exigíveis depois de prevenido o depositário, por escrito, com a antecipação fixada na cláusula do pré-aviso, antecipação que não poderá exceder 90 dias.
 
-Art. 2.º São consideradas disponibilidades de caixa dos bancos comerciais:
+###### Artigo 2.º
+
+São consideradas disponibilidades de caixa dos bancos comerciais:
 
 a) O dinheiro em cofre;
 
@@ -180,7 +200,9 @@ c) As promissórias do fomento ultramarino.
 
 § único. Os vales do correio e os cheques à vista emitidos por entidades de reconhecida idoneidade sobre instituições de crédito domiciliadas na província poderão ser considerados como dinheiro em cofre apenas pelo tempo estritamente indispensável à sua cobrança ou compensação, o qual nunca poderá exceder cinco dias, mas com exclusão dos cheques emitidos pelos bancos comerciais, quer sobre as suas próprias sucursais, ou vice-versa, quer sobre outras instituições de crédito.
 
-Art. 3.º O valor das disponibilidades de caixa dos bancos comerciais, constituídas por dinheiro em cofre, depósitos à ordem no banco emissor da respectiva província ultramarina e promissórias do fomento ultramarino, deverá ser, em qualquer momento, igual, pelo menos, à soma das seguintes importâncias:
+###### Artigo 3.º
+
+O valor das disponibilidades de caixa dos bancos comerciais, constituídas por dinheiro em cofre, depósitos à ordem no banco emissor da respectiva província ultramarina e promissórias do fomento ultramarino, deverá ser, em qualquer momento, igual, pelo menos, à soma das seguintes importâncias:
 
 a) 20 por cento das responsabilidades à vista em moeda nacional com curso legal na província;
 
@@ -192,9 +214,13 @@ c) 5 por cento do total dos depósitos, em moeda nacional com curso legal na pro
 
 § 2.º Além dos depósitos à ordem em moeda nacional com curso legal na província, incluindo os constituídos a favor de residentes ou domiciliados noutro território nacional ou no estrangeiro, e das demais responsabilidades imediatamente exigíveis, são considerados como responsabilidades à vista, para efeitos deste artigo, os depósitos com pré-aviso inferior a 30 dias.
 
-Art. 4.º Para determinação da situação de liquidez dos bancos comerciais, os excedentes das disponibilidades de caixa, com a constituição indicada no artigo anterior, sobre as importâncias mínimas apuradas em conformidade com o disposto no mesmo artigo serão considerados como coberturas das diversas categorias de responsabilidades nele enumeradas, proporcionalmente às referidas importâncias mínimas.
+###### Artigo 4.º
 
-Art. 5.º A parte do valor das responsabilidades em moeda nacional com curso legal na província, mencionadas nas alíneas a) e b) do corpo do artigo 3.º, que exceda a importância das disponibilidades de caixa com a composição indicada no mesmo artigo e calculada nos termos do artigo anterior, deverá estar sempre totalmente garantida pelos valores seguintes:
+Para determinação da situação de liquidez dos bancos comerciais, os excedentes das disponibilidades de caixa, com a constituição indicada no artigo anterior, sobre as importâncias mínimas apuradas em conformidade com o disposto no mesmo artigo serão considerados como coberturas das diversas categorias de responsabilidades nele enumeradas, proporcionalmente às referidas importâncias mínimas.
+
+###### Artigo 5.º
+
+A parte do valor das responsabilidades em moeda nacional com curso legal na província, mencionadas nas alíneas a) e b) do corpo do artigo 3.º, que exceda a importância das disponibilidades de caixa com a composição indicada no mesmo artigo e calculada nos termos do artigo anterior, deverá estar sempre totalmente garantida pelos valores seguintes:
 
 a) Ouro amoedado ou em barra;
 
@@ -226,7 +252,9 @@ m) Saldos em outras instituições de crédito domiciliadas na mesma província 
 
 § 2.º Para efeitos do disposto no corpo do presente artigo, os valores nele mencionados deverão contar-se em conformidade com o estabelecido no artigo 79.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963.
 
-Art. 6.º A importância total das responsabilidades à vista dos bancos comerciais, em moeda nacional com curso legal na província, e dos depósitos nessa moeda constituídos nos mesmos bancos por prazos ou com pré-avisos iguais ou superiores a 30 dias deverá estar integralmente garantida, em qualquer momento, pela soma dos seguintes valores:
+###### Artigo 6.º
+
+A importância total das responsabilidades à vista dos bancos comerciais, em moeda nacional com curso legal na província, e dos depósitos nessa moeda constituídos nos mesmos bancos por prazos ou com pré-avisos iguais ou superiores a 30 dias deverá estar integralmente garantida, em qualquer momento, pela soma dos seguintes valores:
 
 a) As disponibilidades de caixa referidas no artigo 3.º;
 
@@ -238,23 +266,31 @@ d) Os empréstimos e contas correntes a prazos superiores a um ano, mas não a d
 
 § único. As importâncias dos valores referidos nas alíneas c) e d) do corpo do presente artigo que não resultarem da aplicação de capitais próprios dos bancos comerciais nunca poderão exceder o montante dos depósitos em moeda nacional com curso legal na província constituídos nos mesmos bancos por prazos superiores a 90 dias, salvo nos casos previstos na alínea c) do artigo seguinte deste diploma.
 
-Art. 7.º Os Ministros das Finanças e do Ultramar poderão, sobre parecer dos governos das províncias ultramarinas interessadas e ouvido o Conselho Nacional de Crédito, estabelecer, por portaria:
+###### Artigo 7.º
 
-a) A participação das promissórias do fomento ultramarino e o limite da representação dos cheques à vista e dos vales do correio nas disponibilidades de caixa referidas no artigo 3.º;
+Os Ministros das Finanças e do Ultramar poderão, sob parecer dos Governos das províncias ultramarinas interessadas, estabelecer, por portaria:
+
+a) A participação das promissórias de fomento ultramarino e o limite da representação dos cheques à vista e dos vales do correio nas disponibilidades de caixa referidas no artigo 3.º;
 
 b) Os limites e as condições a que devem obedecer as coberturas mencionadas no corpo do artigo 5.º e no corpo do artigo 6.º;
 
-c) As condições em que valores não indicados no corpo do artigo 5.º e no corpo do artigo 6.º, ou aí referidos mas a prazos superiores aos neles estabelecidos, poderão ser contados nas coberturas das responsabilidades dos bancos comerciais, em moeda nacional com curso legal na província;
+c) As condições em que valores não indicados no corpo do artigo 5.º e no corpo do artigo 6.º, ou aí referidos, mas a prazos superiores aos neles estabelecidos, poderão ser contados nas coberturas das responsabilidades dos bancos comerciais em moeda nacional com curso legal na província;
 
-d) O limite mínimo da relação entre o montante do capital e fundos de reserva dos bancos comerciais, por um lado, e, por outro, o montante dos depósitos e outras responsabilidades efectivas destes bancos para com terceiros, bem como da relação entre aquele montante do capital e fundos de reserva e o das responsabilidades dos bancos por aceites, avales e garantias concedidas.
+d) O limite mínimo da relação entre o montante de capital e fundos de reserva dos bancos comerciais, por um lado, e, por outro, o montante dos depósitos e outras responsabilidades efectivas destes bancos para com terceiros, bem como da relação entre aquele montante do capital e fundos de reserva e o das responsabilidades dos bancos por aceites, avales e garantias concedidas.
 
 § único. Os limites e condições a estabelecer nos termos do presente artigo poderão variar de província para província ou, na mesma província ultramarina, com a evolução da sua conjuntura monetária e financeira.
 
-Art. 8.º O Ministro do Ultramar poderá alterar, por portaria, sobre parecer dos governos das províncias ultramarinas interessadas e ouvido o respectivo banco emissor, as percentagens indicadas no corpo do artigo 3.º do presente diploma, as quais poderão não ser idênticas para todas as províncias ultramarinas.
+> Alterado pelo/a [Decreto-Lei n.º 72/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-1974-412667), publicado em 1974-02-28.
+
+###### Artigo 8.º
+
+O Ministro do Ultramar poderá alterar, por portaria, sobre parecer dos governos das províncias ultramarinas interessadas e ouvido o respectivo banco emissor, as percentagens indicadas no corpo do artigo 3.º do presente diploma, as quais poderão não ser idênticas para todas as províncias ultramarinas.
 
 ### CAPÍTULO II — Das taxas de juro aplicáveis no ultramar
 
-Art. 9.º Os bancos comerciais e os estabelecimentos especiais de crédito mencionados na alínea d) do corpo do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) não poderão abonar juros de depósitos, que estejam legalmente autorizados a receber, a taxas superiores aos seguintes limites:
+###### Artigo 9.º
+
+Os bancos comerciais e os estabelecimentos especiais de crédito mencionados na alínea d) do corpo do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) não poderão abonar juros de depósitos, que estejam legalmente autorizados a receber, a taxas superiores aos seguintes limites:
 
 a) 1,5 por cento, nos depósitos à ordem e com pré-aviso inferior a 15 dias de quaisquer sociedades;
 
@@ -278,7 +314,9 @@ a) 3 por cento, nos depósitos à ordem e com pré-aviso inferior a 15 dias de p
 
 b) 5,5 por cento, nos depósitos a prazo superior a um ano.
 
-Art. 10.º Os bancos comerciais e os estabelecimentos especiais de crédito mencionados na alínea d) do corpo do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) não poderão cobrar, pelas suas operações activas, juros de taxas superiores aos limites que resultarem da soma da taxa de desconto do banco emissor da respectiva província com os seguintes valores:
+###### Artigo 10.º
+
+Os bancos comerciais e os estabelecimentos especiais de crédito mencionados na alínea d) do corpo do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) não poderão cobrar, pelas suas operações activas, juros de taxas superiores aos limites que resultarem da soma da taxa de desconto do banco emissor da respectiva província com os seguintes valores:
 
 a) 1,5 por cento, nas operações por prazo não superior a três meses;
 
@@ -292,13 +330,25 @@ e) 3,5 por cento, nas operações por prazo superior a dois anos.
 
 § único. O Ministro do Ultramar poderá autorizar, por despacho, taxas superiores aos limites correspondentes às alíneas d) e e) do corpo deste artigo, desde que as operações a que respeitem envolvam a aplicação de recursos especiais e se destinem a fins de reconhecido interesse para a economia nacional.
 
-Art. 11.º Nas operações de crédito efectuadas pelas instituições parabancárias a que alude o artigo 5.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), as taxas de juro máximas não poderão exceder as referidas no artigo anterior.
+###### Artigo 11.º
 
-Art. 12.º As taxas de juro acordadas com observância do disposto nos artigos 10.º e 11.º não têm de ser diminuídas, nem podem ser aumentadas, em virtude de alteração da taxa de desconto do banco emissor da respectiva província durante o prazo pelo qual foram feitas as operações.
+Nas operações de crédito efectuadas pelas instituições parabancárias a que alude o artigo 5.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), as taxas de juro máximas não poderão exceder as referidas no artigo anterior.
 
-Art. 13.º Os Ministros das Finanças e do Ultramar poderão, sobre parecer dos governos das províncias ultramarinas interessadas e ouvido o Conselho Nacional de Crédito, alterar, por portaria, relativamente a uma ou mais províncias, os limites de taxa de juro referidos no artigos 9.º e 10.º
+###### Artigo 12.º
 
-Art. 14.º Serão equiparadas a juros, para efeitos de subordinação aos limites legais das taxas de juro das operações activas, quaisquer comissões cobradas pelas instituições de crédito ou entidades parabancárias.
+As taxas de juro acordadas com observância do disposto nos artigos 10.º e 11.º não têm de ser diminuídas, nem podem ser aumentadas, em virtude de alteração da taxa de desconto do banco emissor da respectiva província durante o prazo pelo qual foram feitas as operações.
+
+###### Artigo 13.º
+
+1. O Ministro do Ultramar poderá, sob parecer dos governos das províncias ultramarinas interessadas, alterar, por portaria, relativamente a uma ou a mais províncias, os limites das taxas de juro referidos nos artigos 9.º e 10.º
+
+2. A afixação das taxas de juro das operações passivas referidas no artigo 9.» poderá ser feita em função da taxa de desconto do banco emissor da respectiva província ultramarina.
+
+> Alterado pelo/a [Decreto-Lei n.º 674/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-1970-154454), publicado em 1970-12-31.
+
+###### Artigo 14.º
+
+Serão equiparadas a juros, para efeitos de subordinação aos limites legais das taxas de juro das operações activas, quaisquer comissões cobradas pelas instituições de crédito ou entidades parabancárias.
 
 § 1.º Exceptuam-se do disposto no corpo do presente artigo, quanto às instituições de crédito:
 
@@ -310,61 +360,99 @@ c) As comissões de imobilização que incidam sobre as importâncias não utili
 
 § 2.º Os limites máximos dos prémios de transferência e comissões a que se refere o parágrafo anterior serão fixados pela inspecção provincial de crédito e seguros ou pela inspecção do comércio bancário da província, ouvido o respectivo banco emissor.
 
-Art. 15.º É vedado a todas as instituições de crédito ultramarinas atribuir aos seus depositantes quaisquer vantagens ou prémios que, directa ou indirectamente, possam traduzir-se em retribuições dos seus depósitos superiores às correspondentes taxas máximas legais.
+###### Artigo 15.º
 
-Art. 16.º As instituições de crédito ultramarinas, bem como as instituições parabancárias, não poderão substituir-se, directa ou indirectamente, aos depositantes, ou outros credores por operações bancárias, nos pagamentos dos impostos por eles devidos com relação aos juros dos respectivos depósitos e operações.
+É vedado a todas as instituições de crédito ultramarinas atribuir aos seus depositantes quaisquer vantagens ou prémios que, directa ou indirectamente, possam traduzir-se em retribuições dos seus depósitos superiores às correspondentes taxas máximas legais.
+
+###### Artigo 16.º
+
+As instituições de crédito ultramarinas, bem como as instituições parabancárias, não poderão substituir-se, directa ou indirectamente, aos depositantes, ou outros credores por operações bancárias, nos pagamentos dos impostos por eles devidos com relação aos juros dos respectivos depósitos e operações.
 
 ### CAPÍTULO III — Do mercado monetário e dos bancos emissores ultramarinos
 
-Art. 17.º Em circunstâncias especiais da conjuntura monetária e financeira e atentas as necessidades de financiamento do desenvolvimento económico das províncias ultramarinas, os Ministros das Finanças e do Ultramar, sob parecer dos governos das províncias interessadas e ouvido o Conselho Nacional de Crédito, poderão estabelecer, por portaria, limites ao crédito a conceder pelas instituições de crédito e instituições parabancárias.
+###### Artigo 17.º
 
-Art. 18.º Aos Ministros das Finanças e do Ultramar compete, nos termos do artigo 25.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), fixar directivas tendentes a coordenar o volume e a distribuição do crédito com as necessidades de cada um dos sectores, económicos.
+Em circunstâncias especiais da conjuntura monetária e financeira e atentas as necessidades de financiamento do desenvolvimento económico das províncias ultramarinas, os Ministros das Finanças e do Ultramar, sob parecer dos governos das províncias interessadas e ouvido o Conselho Nacional de Crédito, poderão estabelecer, por portaria, limites ao crédito a conceder pelas instituições de crédito e instituições parabancárias.
 
-Art. 19.º Os bancos emissores ultramarinos comunicarão às inspecções provinciais de crédito e seguros ou às inspecções do comércio bancário, para publicação no Boletim Oficial das respectivas províncias ultramarinas, a taxa de desconto em vigor, bem como todas as alterações que lhe forem posteriormente introduzidas.
+###### Artigo 18.º
+
+Aos Ministros das Finanças e do Ultramar compete, nos termos do artigo 25.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), fixar directivas tendentes a coordenar o volume e a distribuição do crédito com as necessidades de cada um dos sectores, económicos.
+
+###### Artigo 19.º
+
+Os bancos emissores ultramarinos comunicarão às inspecções provinciais de crédito e seguros ou às inspecções do comércio bancário, para publicação no Boletim Oficial das respectivas províncias ultramarinas, a taxa de desconto em vigor, bem como todas as alterações que lhe forem posteriormente introduzidas.
 
 § único. Sem prejuízo do disposto nos §§ 1.º e 2.º do artigo 14.º, na taxa a que se refere o presente artigo deverão compreender-se todas as comissões eventualmente cobradas pelos bancos emissores nas operações a que a mesma se aplica.
 
-Art. 20.º As disponibilidades em moedas estrangeiras dos bancos emissores e dos bancos comerciais ultramarinos, constituídas nos termos dos artigos 29.º e seguintes do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), de 17 de Novembro de 1962, poderão ser limitadas pelo Ministro do Ultramar, sob proposta dos governos das províncias ultramarinas interessadas e ouvido o respectivo banco emissor, tendo em consideração a conjuntura dos mercados monetário e cambial e a situação daquelas instituições.
+###### Artigo 20.º
+
+As disponibilidades em moedas estrangeiras dos bancos emissores e dos bancos comerciais ultramarinos, constituídas nos termos dos artigos 29.º e seguintes do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), de 17 de Novembro de 1962, poderão ser limitadas pelo Ministro do Ultramar, sob proposta dos governos das províncias ultramarinas interessadas e ouvido o respectivo banco emissor, tendo em consideração a conjuntura dos mercados monetário e cambial e a situação daquelas instituições.
 
 ### CAPÍTULO IV — Dos elementos de informação monetária e financeira
 
-Art. 21.º As instituições de crédito e as instituições parabancárias ultramarinas, incluindo as dependências no ultramar de instituições de crédito metropolitanas ou estrangeiras, são obrigadas a enviar à inspecção provincial de crédito e seguros ou à inspecção do comércio bancário da respectiva província, de harmonia com as instruções por estas transmitidas, os balancetes mensais e demais elementos de informação relativos à sua situação e às operações que realizem nos mercados monetário e financeiro.
+###### Artigo 21.º
 
-Art. 22.º Para complemento dos elementos de informação respeitantes à balança geral de pagamentos internacionais, referidos no § 1.º do artigo 8.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), ficam as inspecções provinciais de crédito e seguros e as inspecções do comércio bancário autorizadas a solicitar de quaisquer entidades, e estas obrigadas a prestar-lhes, os elementos de informação necessários à elaboração periódica de um balanço das importações e exportações de capitais e à determinação do valor líquido do crédito ou endividamento externo de cada província ultramarina.
+As instituições de crédito e as instituições parabancárias ultramarinas, incluindo as dependências no ultramar de instituições de crédito metropolitanas ou estrangeiras, são obrigadas a enviar à inspecção provincial de crédito e seguros ou à inspecção do comércio bancário da respectiva província, de harmonia com as instruções por estas transmitidas, os balancetes mensais e demais elementos de informação relativos à sua situação e às operações que realizem nos mercados monetário e financeiro.
+
+###### Artigo 22.º
+
+Para complemento dos elementos de informação respeitantes à balança geral de pagamentos internacionais, referidos no § 1.º do artigo 8.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), ficam as inspecções provinciais de crédito e seguros e as inspecções do comércio bancário autorizadas a solicitar de quaisquer entidades, e estas obrigadas a prestar-lhes, os elementos de informação necessários à elaboração periódica de um balanço das importações e exportações de capitais e à determinação do valor líquido do crédito ou endividamento externo de cada província ultramarina.
 
 ### CAPÍTULO V — Disposições especiais e transitórias
 
-Art. 23.º Das contas de depósito existentes nas instituições de crédito ultramarinas constarão, obrigatòriamente, o nome e o domicilio do depositante ou depositantes.
+###### Artigo 23.º
 
-Art. 24.º Para efeitos fiscais, serão equiparados a depósitos à ordem os depósitos com pré-aviso inferior a 30 dias e a depósitos a prazo os com pré-aviso igual ou superior a 30 dias.
+Das contas de depósito existentes nas instituições de crédito ultramarinas constarão, obrigatòriamente, o nome e o domicilio do depositante ou depositantes.
 
-Art. 25.º O Ministério do Ultramar, por intermédio das inspecções provinciais de crédito e seguros ou do comércio bancário, poderá fazer sujeitar à sua prévia autorização ou aprovação qualquer forma de actividade das instituições de crédito e parabancárias ultramarinas e de quaisquer outras entidades, em matéria que considere susceptível de perturbar ou tender a perturbar o sistema de crédito ou a alterar as condições normais de funcionamento dos mercados monetário, cambial e financeiro no ultramar.
+###### Artigo 24.º
+
+Para efeitos fiscais, serão equiparados a depósitos à ordem os depósitos com pré-aviso inferior a 30 dias e a depósitos a prazo os com pré-aviso igual ou superior a 30 dias.
+
+###### Artigo 25.º
+
+O Ministério do Ultramar, por intermédio das inspecções provinciais de crédito e seguros ou do comércio bancário, poderá fazer sujeitar à sua prévia autorização ou aprovação qualquer forma de actividade das instituições de crédito e parabancárias ultramarinas e de quaisquer outras entidades, em matéria que considere susceptível de perturbar ou tender a perturbar o sistema de crédito ou a alterar as condições normais de funcionamento dos mercados monetário, cambial e financeiro no ultramar.
 
 § único. Para os efeitos do disposto no corpo do presente artigo poderão as inspecções expedir as necessárias circulares ou instruções às entidades cuja fiscalização lhes compete e solicitar a intervenção de outras entidades oficiais.
 
-Art. 26.º As infracções ao disposto no presente diploma e nas portarias nele previstas serão punidas de harmonia com a lei geral e com o estabelecido no artigo 122.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
+###### Artigo 26.º
+
+As infracções ao disposto no presente diploma e nas portarias nele previstas serão punidas de harmonia com a lei geral e com o estabelecido no artigo 122.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
 § 1.º Será punível, nos termos do presente artigo, a simples proposta ou oferta por uma instituição de crédito ou parabancária de taxas de juro superiores às legalmente permitidas.
 
 § 2.º Serão também considerados infractores, puníveis nos termos deste artigo, os depositantes que contratarem, ou tentarem contratar, com as instituições de crédito taxas de juro de depósitos superiores aos correspondentes limites máximos legais. A multa aplicada será graduada entre o mínimo consignado no corpo do artigo 90.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959, e o quíntuplo do valor dos juros totais correspondentes à respectiva operação.
 
-Art. 27.º Sem prejuízo das sanções previstas no artigo anterior, às entidades que não enviarem nos prazos fixados os elementos contabilísticos ou informativos solicitados, nos termos legais, em circulares ou instruções enviadas sob registo e com aviso de recepção pelas inspecções provinciais de crédito e seguros ou pelas inspecções do comércio bancário das respectivas províncias ultramarinas, poderá ser aplicada multa, cuja importância não excederá 10000$00.
+###### Artigo 27.º
 
-Art. 28.º Sem prejuízo da delegação de competência a que se refere o artigo 96.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), poderão os inspectores provinciais de crédito e seguros ou do comércio bancário aplicar multas em processos originados por infracções ao disposto neste diploma e nas portarias nele previstas, verificadas na respectiva província ultramarina, ainda que os arguidos sejam instituições de crédito ou parabancárias.
+Sem prejuízo das sanções previstas no artigo anterior, às entidades que não enviarem nos prazos fixados os elementos contabilísticos ou informativos solicitados, nos termos legais, em circulares ou instruções enviadas sob registo e com aviso de recepção pelas inspecções provinciais de crédito e seguros ou pelas inspecções do comércio bancário das respectivas províncias ultramarinas, poderá ser aplicada multa, cuja importância não excederá 10000$00.
 
-Art. 29.º Os Serviços de Fazenda e Contabilidade das províncias ultramarinas, bem como as inspecções provinciais de crédito e seguros ou do comércio bancário, exercerão a fiscalização que lhes compete para observância das disposições fiscais relativas aos juros de depósitos nas instituições de crédito.
+###### Artigo 28.º
 
-Art. 30.º Os artigos 2.º a 6.º e § 2.º do artigo 14.º entram em vigor 60 dias após a data da publicação do presente diploma no Boletim Oficial da respectiva província ultramarina.
+Sem prejuízo da delegação de competência a que se refere o artigo 96.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), poderão os inspectores provinciais de crédito e seguros ou do comércio bancário aplicar multas em processos originados por infracções ao disposto neste diploma e nas portarias nele previstas, verificadas na respectiva província ultramarina, ainda que os arguidos sejam instituições de crédito ou parabancárias.
 
-Art. 31.º Os depósitos, existentes à data da publicação deste diploma, com condições diferentes das nele estabelecidas, deverão harmonizar-se com as prescrições fixadas, nos seguintes prazos:
+###### Artigo 29.º
+
+Os Serviços de Fazenda e Contabilidade das províncias ultramarinas, bem como as inspecções provinciais de crédito e seguros ou do comércio bancário, exercerão a fiscalização que lhes compete para observância das disposições fiscais relativas aos juros de depósitos nas instituições de crédito.
+
+###### Artigo 30.º
+
+Os artigos 2.º a 6.º e § 2.º do artigo 14.º entram em vigor 60 dias após a data da publicação do presente diploma no Boletim Oficial da respectiva província ultramarina.
+
+###### Artigo 31.º
+
+Os depósitos, existentes à data da publicação deste diploma, com condições diferentes das nele estabelecidas, deverão harmonizar-se com as prescrições fixadas, nos seguintes prazos:
 
 a) Os depósitos à ordem com pré-aviso, nos termos do artigo 51.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), até 30 dias após a publicação deste diploma no Boletim Oficial da respectiva província ultramarina;
 
 b) Os depósitos a prazo, nos termos do mesmo artigo, a partir do termo do prazo para que foram constituídos.
 
-Art. 32.º Nas operações activas de crédito efectuadas em data anterior à da publicação deste diploma manter-se-ão, até ao respectivo vencimento, as taxas de juro acordadas quando da sua realização.
+###### Artigo 32.º
 
-Art. 33.º É revogado o corpo do artigo 37.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), assim como os artigos 51.º, 72.º a 78.º, inclusive, e 80.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
+Nas operações activas de crédito efectuadas em data anterior à da publicação deste diploma manter-se-ão, até ao respectivo vencimento, as taxas de juro acordadas quando da sua realização.
+
+###### Artigo 33.º
+
+É revogado o corpo do artigo 37.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), assim como os artigos 51.º, 72.º a 78.º, inclusive, e 80.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
 Publique-se e cumpra-se como nele se contém.
 

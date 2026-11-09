@@ -1,0 +1,719 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:685012:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1973-02-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b64b6a950667f147",
+    "4636a70c5cecb683",
+    "126f5c86087b7498",
+    "2ad5a7ba83ddb14b",
+    "d8623bef92f9f0dc",
+    "2da61325084420ff"
+   ]
+  },
+  {
+   "date": "1978-10-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:328663:por",
+     "title": "Decreto-Lei n.º 303/78",
+     "published": "1978-10-12",
+     "dre_path": "/dr/detalhe/decreto-lei/303-1978-328663"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 40.º",
+    "Revoga Artigo 41.º",
+    "Revoga Artigo 42.º",
+    "Revoga Artigo 43.º",
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º",
+    "Revoga Artigo 47.º",
+    "Revoga Artigo 48.º"
+   ],
+   "fragments": [
+    "78060877162c43d3",
+    "008440c2df5e363c",
+    "c0189f3f022e269b",
+    "5dd74eb0f80f7571",
+    "86ec1a0835b1dcb6",
+    "9b18b9b58510c44d",
+    "530c8f1c2fafbe2d",
+    "db7923f82c6513b0",
+    "0bb985394421f9c6",
+    "55df8ade080ae68f",
+    "cca4d9a75064ae5b",
+    "82e598827db705e0",
+    "6134f7928310bc21",
+    "b5311328010f8ce8",
+    "ab21f8689391f2bf",
+    "7e993a52faa2f3bd",
+    "a20a6dac89ba720e",
+    "069df33a73f6014b",
+    "a61a19965311d384",
+    "29519d1c3e8ddeb2",
+    "7611820c4f9a98e8",
+    "9b319768eb4b3e3c",
+    "8d1b4735e26e3ab5",
+    "fd339aea28226676",
+    "dc71e3c182781593",
+    "e67cc025116dbeec",
+    "82d04430a9787c9e",
+    "89bae3e9b08f7d73",
+    "a5b8217e85a81fe8",
+    "624d4a4b04ef8ed2",
+    "0e9b32808ecf8191",
+    "0dceea06fac8dc05",
+    "3389bc71555660c6",
+    "5f2d49c4a89bda5a",
+    "d91c04e3b9c22443",
+    "d073c137d49a217c",
+    "31132519231ebd58",
+    "5f593cef5ae2d65d",
+    "7f95d286b59de80e",
+    "e36583b0ad052abb",
+    "bbff6f9f245c7679",
+    "8d14de417e4dde6c",
+    "f1e8125915e494bb",
+    "fcb6af911d67c20e",
+    "9d6d089fb4b12666",
+    "895476829098e060",
+    "52611c0d9c228955",
+    "9750888d5277ae63",
+    "664b2f15d900b379",
+    "f5821dc29c0f3a43",
+    "9190400c360a742e",
+    "e8f6cdd29a48ce14",
+    "458716f3dab0cb03",
+    "8034a3253a1343f4"
+   ]
+  }
+ ],
+ "fragments": {
+  "b64b6a950667f147": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Fevereiro\n\nA Lei Orgânica do Ministério da Educação Nacional, promulgada pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, determinou a criação da Direcção-Geral da Administração Escolar, como um dos serviços executivos no sector do ensino.\n\nTeve-se assim em vista a concentração, num mesmo serviço de administração central, e sem prejuízo da autonomia das Universidades, das funções de gestão do pessoal, das instalações e do equipamento e da gestão administrativa e financeira, actualmente dispersas por várias direcções-gerais. Para além da maior rendibilidade que a administração conjunta de tais meios certamente proporcionará, libertar-se-ão as direcções-gerais de ensino de preocupações de índole administrativa, o que lhes permitirá dedicarem toda a sua atenção aos aspectos qualitativos e ao conteúdo da própria acção educativa, ainda que, como é evidente, entre uns e outros serviços devam existir sempre esquemas eficientes de estreita e íntima colaboração.\n\nNa Direcção-Geral da Administração Escolar funcionará a Comissão de Equipamento Escolar que, nos termos do n.º 5 do artigo 16.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), goza de autonomia administrativa e financeira, e à qual são reservadas funções da maior importância nos domínios do apetrechamento dos estabelecimentos de ensino.\n\nÉ assim dotado o Ministério da Educação Nacional, ao nível da sua administração central, de um serviço, criado de raiz, para o qual se transferem todas aquelas funções que, podendo embaraçar as actividades de índole pedagógica das direcções-gerais do ensino, serão tratadas por fórmulas modernas de gestão, prevendo-se o recurso à aplicação de processos mecanográficos.\n\nOs esquemas de actuação da Direcção-Geral da Administração Escolar relativamente aos estabelecimentos de ensino superior foram previstos tendo em conta a sua inserção no sistema educativo, a autonomia das Universidades e a competência própria da Direcção-Geral do Ensino Superior.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nDIPLOMA ORGÂNICO DA DIRECÇÃO-GERAL DA ADMINISTRAÇÃO ESCOLAR\n\nI\n\nDas atribuições e competência\n\nArtigo 1.º A Direcção-Geral da Administração Escolar, instituída pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, é um dos serviços executivos no sector do ensino, ao qual incumbe efectuar a gestão do pessoal e das instalações e equipamento afectos aos diversos estabelecimentos públicos de ensino, bem como exercer a superintendência administrativa e financeira sobre os mesmos estabelecimentos, sem prejuízo da autonomia concedida às Universidades.\n\nArt. 2.º - 1. No desempenho da sua missão e no âmbito do sector das actividades em que superintende, é da competência da Direcção-Geral:\n\na) Em matéria de pessoal, organizar e manter actualizado o cadastro de todo o pessoal docente, técnico, administrativo e auxiliar dos estabelecimentos de ensino público, dependentes do Ministério da Educação Nacional, e bem assim proceder à preparação e execução das operações administrativas respeitantes ao recrutamento, provimento, colocação e outros aspectos relativos à situação, actualização e remuneração do mesmo pessoal, sem prejuízo da competência própria das direcções-gerais e serviços dependentes;\n\nb) Em matéria de instalações e equipamento, organizar e manter actualizado o cadastro das instalações e equipamento existentes, velar pela sua guarda e conservação, inventariar as necessidades de novas instalações e equipamento e proceder à preparação e execução das operações atinentes à satisfação dessas necessidades, tendo sobretudo em vista a apresentação, por forma global e sistemática, à Direcção-Geral das Construções Escolares, dos empreendimentos que devam ser executados por esse departamento;\n\nc) Em matéria administrativa e financeira, superintender na preparação e execução de todas as actividades dessa natureza respeitantes aos diversos estabelecimentos de ensino dependentes do Ministério da Educação Nacional.\n\n2. A competência referida no número anterior não abrange os estabelecimentos de ensino superior universitário.\n\n3. A competência referida na alínea a) não abrange os estabelecimentos de ensino superior não universitário e a referida nas alíneas b) e c), relativamente aos mesmos estabelecimentos, será exercida em coordenação com a Direcção-Geral do Ensino Superior.\n\nArt. 3.º - 1. Na prossecução das atribuições referidas no artigo anterior, compete especialmente à Direcção-Geral da Administração Escolar:\n\na) Empreender, em colaboração com os serviços centrais do Ministério e outros organismos, públicos ou privados, estudos que interessem ao desempenho das suas atribuições;\n\nb) Colaborar na organização dos cursos de formação e aperfeiçoamento em administração escolar, previstos no n.º 2 do artigo 30.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, nos termos que vierem a ser estabelecidos pelo Ministro da Educação Nacional;\n\nc) Articular, com a Inspecção-Geral do Ensino Particular, as formas de coordenação entre os ensinos oficial e particular em matéria administrativa e financeira.\n\n2. A Direcção-Geral da Administração Escolar exercerá as suas funções em íntima colaboração com as direcções-gerais de ensino.\n\nArt. 4.º A Direcção-Geral da Administração Escolar deverá, por si, ou em colaboração com outros órgãos e serviços do Ministério da Educação Nacional, ou outras entidades públicas ou privadas, recorrer às modernas técnicas de gestão, nomeadamente nos domínios do pessoal, das instalações, do apetrechamento e da administração financeira.\n\nArt. 5.º - 1. Compete ao director-geral superintender em todos os serviços da Direcção-Geral, submetendo a despacho ministerial os assuntos que careçam de resolução superior.\n\n2. O director-geral poderá receber do Ministro da Educação Nacional delegação de competência para despachar assuntos relativos às funções de administração geral que pertençam à Direcção-Geral da Administração Escolar.\n\n3. Para efeitos do disposto no número anterior, consideram-se funções de administração geral as que respeitam à gestão do pessoal, dos meios materiais, dos recursos orçamentais e outras, relativas aos estabelecimentos de ensino e que constituam simples meio de permitir o exercício das suas atribuições específicas.\n\nArt. 6.º O director-geral é coadjuvado pelos directores de serviços, competindo-lhe designar aquele que o deverá substituir nas suas faltas e impedimentos.\n\nII\n\nDos órgãos e serviços"
+  },
+  "4636a70c5cecb683": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Dos serviços em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Dos serviços em geral\n\nArt. 7.º - 1. A Direcção-Geral da Administração Escolar compreende os seguintes serviços:\n\na) Direcção dos Serviços de Programação e Instalações;\n\nb) Direcção de Serviços de Pessoal;\n\nc) Divisão de Administração e Finanças;\n\nd) Repartição Administrativa.\n\n2. Os órgãos e serviços externos, referidos no artigo 24.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, serão objecto de legislação especial.\n\n3. Nesta Direcção-Geral funciona ainda a Comissão de Equipamento Escolar."
+  },
+  "126f5c86087b7498": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Da Direcção de Serviços de Programação e Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Da Direcção de Serviços de Programação e Instalações\n\nArt. 8.º - 1. Compete à Direcção de Serviços de Programação e Instalações proceder ao estudo, programação, preparação e execução das operações atinentes à satisfação das necessidades em instalações e apetrechamento dos estabelecimentos públicos de ensino, dependentes do Ministério da Educação Nacional, sem prejuízo da competência da Comissão de Equipamento Escolar e da Comissão da Rede Escolar.\n\n2. A Direcção de Serviços de Programação e Instalações compreende:\n\na) A Divisão de Estudos;\n\nb) A Divisão de Programação;\n\nc) O Gabinete Técnico.\n\nArt. 9.º Cabe à Direcção de Serviços de Programação e Instalações, pela Divisão de Estudos:\n\na) Estudar e propor soluções para os problemas das instalações escolares nos aspectos pedagógico, económico, administrativo e técnico, tendo em vista a rendibilidade do ensino e o melhor aproveitamento dos recursos;\n\nb) Colaborar na definição de normas de manutenção e conservação do apetrechamento dos estabelecimentos de ensino, tendo em vista a sua melhor utilização;\n\nc) Elaborar, em colaboração com outros departamentos do Ministério da Educação Nacional, os programas preliminares das instalações escolares;\n\nd) Participar, junto dos departamentos executores, na elaboração dos programas base das instalações escolares;\n\ne) Acompanhar, com funções consultivas, a elaboração das fases dos projectos subsequentes das indicadas nas alíneas anteriores, a cargo dos diferentes departamentos intervenientes na construção escolar;\n\nf) Executar ou acompanhar a concretização dos programas relativos a instalações e equipamento dos estabelecimentos de ensino superior, aprovados no âmbito da Direcção-Geral do Ensino Superior;\n\ng) Empreender e colaborar em iniciativas que visem a divulgação de novos tipos de instalações e de apetrechamento escolares;\n\nh) Estudar e definir, em colaboração com os restantes órgãos e serviços do Ministério da Educação Nacional ou recorrendo a outras entidades qualificadas, tipologias de equipamento por graus e ramos de ensino;\n\ni) Estudar critérios e soluções visando a adaptação de instalações para o funcionamento de estabelecimentos de ensino;\n\nj) Participar em experiências pedagógicas no que se refere à concepção e utilização dos espaços, do mobiliário e do material didáctico.\n\nArt. 10.º Cabe à Direcção de Serviços de Programação e Instalações, pela Divisão de Programação:\n\na) Promover, em colaboração com a Secretaria-Geral, a obtenção de elementos estatísticos referentes a alunos, equipamento e instalações;\n\nb) Participar nos trabalhos do recenseamento escolar dos indivíduos sujeitos ao ensino obrigatório;\n\nc) Organizar e manter actualizado o cadastro das instalações e do apetrechamento afectos aos diversos estabelecimentos públicos de ensino básico e secundário, promovendo a dinamização da sua utilização;\n\nd) Organizar e instruir os processos de criação, modificação ou extinção dos estabelecimentos públicos de ensino e tomar as providências necessárias para dar execução às propostas da Comissão da Rede Escolar, aprovadas pelo Ministro;\n\ne) Inventariar as necessidades em instalações e apetrechamento escolares;\n\nf) Elaborar os projectos de programas plurianuais e anuais dos empreendimentos, nos domínios das instalações e apetrechamento escolares;\n\ng) Garantir a coordenação da intervenção dos diferentes departamentos e serviços na execução dos empreendimentos programados;\n\nh) Coordenar a intervenção do Ministério da Educação Nacional na apreciação de estudos e projectos urbanísticos, nomeadamente os submetidos ao Ministério da Obras Públicas.\n\nArt. 11.º - 1. Cabe à Direcção de Programação e Instalações, pelo Gabinete Técnico:\n\na) Promover e realizar, nos domínios da arquitectura e engenharia, estudos técnicos e económicos necessários à preparação e realização dos programas relativos à rede escolar;\n\nb) Promover a elaboração dos projectos e a execução, em instalações escolares, das obras cometidas directamente ao Ministério da Educação Nacional;\n\nc) Prestar colaboração, nos domínios referidos na alínea anterior, a outros órgãos e serviços, nomeadamente às autarquias locais e ao Ministério das Obras Públicas, no respeitante a construções escolares ou hospitalares dependentes do Ministério da Educação Nacional ou correlacionadas com as suas actividades;\n\nd) Prestar o apoio técnico, em matéria de construções e equipamento, aos serviços centrais do Ministério.\n\n2. Para efeitos da conservação, reparação ou remodelação de instalações escolares, pode o Ministro da Educação Nacional determinar a execução de obras, de custo não superior a 500 contos, desde que não seja ultrapassada a importância anual de 2000 contos em relação a cada edifício.\n\n3. No que concerne a adaptações destinadas a instalações escolares, de acção social, de actividades juvenis, desportivas ou culturais, pode o Ministro da Educação Nacional determinar a execução de obras cujo custo não ultrapasse a importância de 2000 contos.\n\n4. Pode, ainda, o Ministro da Educação Nacional autorizar a implantação de instalações pré-fabricadas, de acordo com os programas aprovados no âmbito dos planos de fomento ou do orçamento ordinário do Ministério."
+  },
+  "2ad5a7ba83ddb14b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Da Direcção de Serviços de Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Da Direcção de Serviços de Pessoal\n\nArt. 12.º - 1. Compete à Direcção de Serviços de Pessoal assegurar e coordenar as funções que, em matéria de política, gestão e administração de pessoal, competem à Direcção-Geral, nos termos dos artigos 1.º e 2.º do presente diploma.\n\n2. Compete à Direcção-Geral da Administração Escolar, através desta Direcção de Serviços, o exercício da acção disciplinar sobre o pessoal técnico, administrativo e auxiliar dos estabelecimentos públicos de ensino.\n\n3. A Direcção de Serviços de Pessoal compreende uma divisão e três repartições.\n\nArt. 13.º Compete a esta Direcção de Serviços, pela Divisão de Pessoal:\n\na) Realizar, em colaboração com os serviços das direcções-gerais de ensino e outros departamentos do Ministério da Educação Nacional, os estudos relativos aos regimes de pessoal em vigor e das alterações que for conveniente introduzir-lhes;\n\nb) Promover acções de formação e aperfeiçoamento em técnicas de administração do pessoal administrativo dos estabelecimentos de ensino, em colaboração com a Secretaria-Geral;\n\nc) Colaborar no estudo e resolução dos problemas de relações humanas que se suscitem nos estabelecimentos de ensino.\n\nArt. 14.º - 1. Às repartições da Direcção de Serviços de Pessoal incumbe ocuparem-se do cadastro, recrutamento, provimento, colocação, transferência, exoneração e quaisquer outros assuntos relativos à administração do pessoal dos estabelecimentos públicos de ensino.\n\n2. À 1.ª Repartição cabem as tarefas relativas ao pessoal docente do ensino primário e da educação pré-escolar.\n\n3. À 2.ª Repartição incumbem as actividades relativas ao pessoal docente dos ensinos preparatório e secundário.\n\n4. À 3.ª Repartição cabem as tarefas relativas ao pessoal técnico, administrativo e auxiliar dos estabelecimentos públicos de ensino."
+  },
+  "d8623bef92f9f0dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Da Divisão de Administração e Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Da Divisão de Administração e Finanças\n\nArt. 15.º Compete à Divisão de Administração e Finanças superintender na preparação e execução das actividades de natureza administrativa e financeira respeitantes aos diversos estabelecimentos de ensino dependentes do Ministério da Educação Nacional, prestando-lhes o necessário apoio técnico e sem prejuízo do disposto nos n.os 2 e 3 do artigo 2.º\n\nArt. 16.º - 1. Compete especialmente a esta Divisão:\n\na) Colaborar na avaliação sistemática dos recursos financeiros necessários à execução das medidas determinadas pelo Ministro da Educação Nacional;\n\nb) Orientar a preparação dos projectos de orçamento dos estabelecimentos de ensino, apreciá-los em conjunto com os serviços centrais do Ministério da Educação Nacional directamente interessados e acompanhar regularmente a respectiva execução;\n\nc) Orientar e coordenar os processos de administração dos estabelecimentos públicos de ensino e propor as medidas tendentes à sua racionalização, simplificação e uniformização.\n\n2. Para efeitos do disposto na alínea b) do número anterior, os estabelecimentos de ensino deverão enviar a Direcção-Geral da Administração Escolar, até 31 de Maio de cada ano, os projectos de orçamento para o ano seguinte."
+  },
+  "2da61325084420ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Da Repartição Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Da Repartição Administrativa\n\nArt. 17.º À Repartição Administrativa compete:\n\na) Assegurar os serviços de expediente geral, contabilidade, economato e de administração do pessoal da Direcção-Geral, sem prejuízo da competência da Secretaria-Geral;\n\nb) Prestar apoio administrativo aos órgãos e serviços da Direcção-Geral.\n\nIII\n\nDa Comissão de Equipamento Escolar\n\nArt. 18.º - 1. À Comissão de Equipamento Escolar incumbe tratar dos assuntos relacionados com o apetrechamento inicial e reapetrechamento dos estabelecimentos públicos de ensino dependentes do Ministério da Educação Nacional, excepto os do ensino universitário.\n\n2. A Comissão de Equipamento Escolar goza de autonomia administrativa e financeira.\n\nArt. 19.º Na prossecução das finalidades definidas no artigo anterior, compete especialmente à Comissão de Equipamento Escolar:\n\na) Promover a aquisição, recepção, distribuição e transferência do apetrechamento destinado aos estabelecimentos de ensino, de harmonia com os programas plurianuais ou anuais superiormente aprovados;\n\nb) Estudar as potencialidades e disponibilidades dos mercados com vista às aquisições a efectuar, tendo nomeadamente em conta a evolução das necessidades pedagógico-didáctica e a da produção de material escolar;\n\nc) Colaborar em iniciativas que visem a divulgação de novos tipos de apetrechamento escolar;\n\nd) Assegurar a intervenção do Ministério da Educação Nacional nas fases de adjudicação e recepção do apetrechamento a cargo de outras entidades;\n\ne) Definir as normas de manutenção e conservação do apetrechamento dos estabelecimentos de ensino, tendo em vista a sua melhor utilização;\n\nf) Colaborar com a Direcção de Serviços de Programação e Instalações na organização e actualização do cadastro do apetrechamento dos estabelecimentos públicos de ensino.\n\nArt. 20.º Constituem receitas próprias da Comissão de Equipamento Escolar:\n\na) As dotações inscritas no Orçamento Geral do Estado;\n\nb) Os rendimentos de bens próprios;\n\nc) As comparticipações ou subsídios concedidos por pessoas colectivas de direito público;\n\nd) As heranças, legados, doações e outros subsídios ou comparticipações atribuídas por quaisquer entidades, oficiais ou particulares, e legalmente aceites;\n\ne) As provenientes da venda de material considerado incapaz ou dispensável;\n\nf) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\nArt. 21.º Constituem encargos da Comissão de Equipamento Escolar:\n\na) As despesas respeitantes à aquisição, instalação e transferência do apetrechamento destinado aos estabelecimentos públicos de ensino dependentes do Ministério;\n\nb) As despesas relativas ao seu funcionamento.\n\nArt. 22.º A Comissão de Equipamento Escolar tem os seguintes órgãos:\n\na) Conselho Administrativo;\n\nb) Conselho Técnico.\n\nArt. 23.º - 1. O Conselho Administrativo é constituído pelo director-geral da Administração Escolar, que preside, e por cinco vogais designados pelo Ministro da Educação Nacional, um dos quais será um representante da Direcção-Geral da Contabilidade Pública.\n\n2. Os vogais do Conselho Administrativo exercerão as suas funções por períodos de três anos, renováveis, sem prejuízo de, a todo o tempo, poderem ser substituídos.\n\nArt. 24.º Compete em especial ao Conselho Administrativo:\n\na) Elaborar o programa de trabalhos para o ano seguinte, de harmonia com o plano plurianual em vigor, e executá-lo depois de superiormente aprovado;\n\nb) Elaborar os regulamentos internos para aprovação ministerial;\n\nc) Elaborar o relatório anual das actividades da Comissão;\n\nd) Submeter à aprovação do Ministro da Educação Nacional o projecto de orçamento para o ano seguinte;\n\ne) Proceder à cobrança das receitas;\n\nf) Autorizar o pagamento das despesas;\n\ng) Deliberar, ouvida a Direcção-Geral da Fazenda Pública, sobre a alienação de material pertencente aos estabelecimentos públicos de ensino, considerando incapaz ou dispensável, e promover, quando conveniente, a sua venda;\n\nh) Aprovar as contas de gerência para julgamento do Tribunal de Contas.\n\nArt. 25.º - 1. O Conselho Técnico é constituído por um presidente e sete vogais.\n\n2. O presidente será um dos directores-gerais dos serviços centrais do Ministério da Educação Nacional, designado pelo Ministro, e desempenhará estas funções por períodos de três anos renováveis.\n\n3. Os vogais serão designados pelo Ministro da Educação Nacional de entre o pessoal dirigente e técnico dos serviços centrais do Ministério.\n\n4. O director-geral da Administração Escolar fará obrigatòriamente parte do Conselho Técnico.\n\nArt. 26.º Compete ao Conselho Técnico formular propostas ou pronunciar-se e emitir parecer sobre todas as questões que sejam submetidas à sua apreciação, e designadamente:\n\na) Os estudos relacionados com a preparação e execução dos planos e programas de equipamento dos estabelecimentos de ensino nos domínios da competência da Comissão de Equipamento Escolar;\n\nb) Outros estudos e projectos desenvolvidos pela Direcção-Geral da Administração Escolar.\n\nArt. 27.º - 1. O Conselho Administrativo e o Conselho Técnico deliberam por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.\n\n2. Para que o Conselho Administrativo possa deliberar, é necessária a presença da maioria dos seus membros.\n\n3. Os membros do Conselho Administrativo são solidariamente responsáveis pelos fundos confiados à sua gestão.\n\n4. O secretariado das reuniões do Conselho Administrativo e do Conselho Técnico será confiado a funcionários a designar pelo presidente do Conselho Administrativo de entre o pessoal que preste serviço na Comissão.\n\nArt. 28.º - 1. Todos os fundos postos à disposição da Comissão de Equipamento Escolar, qualquer que seja a sua proveniência, serão depositados na Caixa Geral de Depósitos, Crédito de Previdência.\n\n2. Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos serão obrigatòriamente assinados pelo presidente do Conselho Administrativo, ou por quem suas vezes fizer, e por um vogal do mesmo Conselho.\n\nArt. 29.º Poderão ser constituídos fundos permanentes, em termos a fixar por despacho conjunto dos Ministros das Finanças e da Educação Nacional, sobre proposta do Conselho Administrativo.\n\nArt. 30.º A movimentação dos depósitos da Comissão de Equipamento Escolar está isenta de imposto do selo e de prémio de transferência.\n\nArt. 31.º Aos membros do Conselho Administrativo e do Conselho Técnico serão abonadas gratificações mensais, a fixar por despacho conjunto dos Ministros das Finanças e da Educação Nacional, mantendo-se, entretanto, as remunerações em vigor para os membros da Comissão de Reapetrechamento em Material das Escolas Superiores e Secundárias e do respectivo Conselho Administrativo.\n\nArt. 32.º O serviço normal da Comissão é assegurado por pessoal dos quadros únicos do Ministério da Educação Nacional, designado pelo Ministro.\n\nArt. 33.º - 1. As necessidades de serviço de natureza técnica ou administrativa que não possam ser asseguradas pelo pessoal referido no número anterior serão satisfeitas por pessoal a contratar ou a assalariar, além do quadro, mediante autorização do Ministro da Educação Nacional.\n\n2. O pessoal referido no número anterior pode ser autorizado a exercer funções em regime de tempo parcial, percebendo gratificações a fixar nos termos do disposto no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.\n\nArt. 34.º Aos membros do Conselho Administrativo e do Conselho Técnico, bem como ao restante pessoal da Comissão e a todos os que nela forem chamados a colaborar, serão abonadas ajudas de custo e despesas de transporte quando tiverem de deslocar-se no desempenho das suas funções.\n\nArt. 35.º - 1. O tesoureiro terá direito a abono para falhas.\n\n2. O abono referido no número anterior será de montante igual ao atribuído ao pessoal das tesourarias da Fazenda Pública, quando haja equivalência de vencimentos, e, nos restantes casos, será fixado por despacho conjunto dos Ministros das Finanças e da Educação Nacional.\n\nIV\n\nDo pessoal\n\nArt. 36.º - 1. A Direcção-Geral tem o pessoal dirigente e técnico constante do mapa I anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.\n\n2. Disporá ainda do pessoal administrativo, técnico auxiliar e auxiliar constante do mapa II anexo ao presente decreto-lei, o qual será acrescentado ao quadro único do Ministério da Educação Nacional a que se refere o n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.\n\n3. Os quadros referidos nos números anteriores poderão ser alterados por decreto referendado pelos Ministros das Finanças e da Educação Nacional.\n\n4. O pessoal da Direcção-Geral será distribuído pelos respectivos serviços mediante despacho do director-geral.\n\nArt. 37.º - 1. As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral serão estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:\n\na) O lugar de director-geral será provido por escolha do Presidente do Conselho e do Ministro da Educação Nacional, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, de entre diplomados com curso superior adequado e de reconhecida competência, ou de entre inspectores-gerais da Junta Nacional da Educação;\n\nb) Os lugares de director de serviço serão providos por escolha do Ministro da Educação Nacional, de entre diplomados com curso superior adequado;\n\nc) Os lugares de ingresso nas carreiras de técnicos, arquitectos e engenheiros serão providos por escolha do Ministro, de entre diplomados com cursos superiores apropriados;\n\nd) Os lugares de ingresso de adjuntos técnicos serão providos por concurso de entre diplomados pelos institutos industriais ou comerciais ou ainda de entre indivíduos com formação adequada no domínio da arquitectura;\n\ne) O lugar de tesoureiro será provido por escolha do Ministro de entre os chefes de secção, técnicos auxiliares, contabilistas ou primeiros-oficiais do Ministério, ou de entre outros indivíduos de reconhecida competência, sem prejuízo das habilitações exigidas pelo [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969;\n\nf) Os calculadores serão providos por concurso de entre indivíduos habilitados com cursos de formação adequados das escolas técnicas ou com o 2.º ciclo do actual curso liceal;\n\ng) Os lugares de fiscal de obras e de fiel de armazém serão providos por concurso de entre indivíduos com as correspondentes habilitações mínimas exigidas pelo [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.\n\n2. O provimento no lugar de director-geral envolve o provimento, a título vitalício, na categoria de inspector-geral da Junta Nacional da Educação, se o nomeado ainda a não tiver.\n\nArt. 38.º - 1. O pessoal dirigente, técnico, técnico auxiliar e administrativo poderá ser autorizado, mediante despacho do Ministro da Educação Nacional, a proceder a inspecções e inquéritos nos estabelecimentos públicos de ensino dependentes da Direcção-Geral da Administração Escolar, nos domínios relativos às instalações, ao equipamento e à administração daqueles estabelecimentos.\n\n2. O pessoal referido no número anterior terá direito a transportes e ajudas de custo, nos termos da legislação em vigor.\n\nArt. 39.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico, técnico auxiliar, administrativo ou auxiliar destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.\n\n2. A utilização das disponibilidades de vencimentos do pessoal dos quadros, para efeitos do disposto no presente artigo, carece de prévia autorização do Ministro das Finanças.\n\nArt. 40.º O director-geral poderá propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas à Direcção-Geral, nos termos estabelecidos no artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).\n\nV\n\nDisposições finais e transitórias\n\nArt. 41.º No prazo de cento e oitenta dias será aprovado, por decreto, o regulamento da Direcção-Geral da Administração Escolar.\n\nArt. 42.º O Ministro da Educação Nacional pode atribuir dotações ou subsídios a entidades públicas ou privadas destinados à aquisição, construção, arrendamento, remodelação, beneficiação ou apetrechamento de instalações destinadas a fins educacionais.\n\nArt. 43.º É extinta a Comissão de Reapetrechamento - em Material das Escolas Superiores e Secundárias, criada pelo [Decreto-Lei n.º 41114](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41114-1957-282571), de 16 de Maio de 1957, e reorganizada pelo [Decreto-Lei n.º 49043](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49043-1969-200385), de 6 de Junho de 1969, bem como o respectivo conselho administrativo, transitando todos os seus direitos e obrigações para a Comissão de Equipamento Escolar.\n\nArt. 44.º - 1. É transferida para a Direcção-Geral da Administração Escolar a competência que, nos domínios mencionados no presente diploma, estava atribuída às Direcções-Gerais do Ensino Primário, Liceal e Técnico Profissional e à Direcção de Serviços do Ciclo Preparatório do Ensino Secundário.\n\n2. O Ministro da Educação Nacional determinará, por despacho, as fases, regras e princípios a que deve obedecer a transferência a que alude o número anterior.\n\nArt. 45.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço na Direcção-Geral da Administração Escolar será provido em lugares idênticos ou de categoria equivalente dos quadros anexos ao presente diploma, nos termos estabelecidos no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), observando-se, no provimento do lugar de director-geral, o disposto no n.º 2 do artigo 37.º\n\n2. O disposto no número anterior poderá ser extensivo aos actuais servidores contratados ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril.\n\n3. O pessoal que actualmente presta serviço nas condições referidas no número anterior, que não for possível prover nos termos previstos no mesmo, transita para a Direcção-Geral da Administração Escolar na situação em que se encontrar à data da publicação deste decreto-lei.\n\nArt. 46.º - 1. Enquanto não for atribuída autonomia financeira às Universidades, os processos de aquisição de apetrechamento para os estabelecimentos de ensino universitários serão organizados na Comissão de Equipamento Escolar.\n\n2. Os processos de aquisição referidos no número anterior serão organizados de acordo com os programas aprovados pela Direcção-Geral do Ensino Superior.\n\n3. Os estabelecimentos de ensino universitário poderão fazer-se representar, da forma julgada mais conveniente, na abertura das propostas e no estudo dos processos referidos neste artigo.\n\nArt. 47.º Este diploma entra em vigor no dia 1 de Março, devendo, porém, ser publicada antes dessa data, embora para produzir efeitos a partir dela, a lista a que se refere o n.º 1 do artigo 45.º\n\nArt. 48.º Os encargos resultantes da execução do presente diploma serão suportados pelas dotações inscritas no orçamento da Secretaria-Geral do Ministério da Educação Nacional para o ano de 1973.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.\n\nPromulgado em 3 de Fevereiro de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nMAPA I\n\nPessoal integrado no quadro único a que se refere o n.º 1 do artigo 36.º do Decreto-Lei n.º 46/73, de 12 de Fevereiro\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/02/03600/02080215.pdf)\n\nMAPA II\n\nPessoal a que se refere o n.º 2 do artigo 36.º do Decreto-Lei n.º 46/73, de 12 de Fevereiro\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/02/03600/02080215.pdf)\n\nNota. - Ao funcionário encarregado de secretariar o director-geral, designado por despacho do Ministro da Educação Nacional, será abonada a gratificação mensal de 1000$00.\n\nO Ministro da Educação Nacional, José Veiga Simão."
+  },
+  "78060877162c43d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Fevereiro\n\nA Lei Orgânica do Ministério da Educação Nacional, promulgada pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, determinou a criação da Direcção-Geral da Administração Escolar, como um dos serviços executivos no sector do ensino.\n\nTeve-se assim em vista a concentração, num mesmo serviço de administração central, e sem prejuízo da autonomia das Universidades, das funções de gestão do pessoal, das instalações e do equipamento e da gestão administrativa e financeira, actualmente dispersas por várias direcções-gerais. Para além da maior rendibilidade que a administração conjunta de tais meios certamente proporcionará, libertar-se-ão as direcções-gerais de ensino de preocupações de índole administrativa, o que lhes permitirá dedicarem toda a sua atenção aos aspectos qualitativos e ao conteúdo da própria acção educativa, ainda que, como é evidente, entre uns e outros serviços devam existir sempre esquemas eficientes de estreita e íntima colaboração.\n\nNa Direcção-Geral da Administração Escolar funcionará a Comissão de Equipamento Escolar que, nos termos do n.º 5 do artigo 16.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), goza de autonomia administrativa e financeira, e à qual são reservadas funções da maior importância nos domínios do apetrechamento dos estabelecimentos de ensino.\n\nÉ assim dotado o Ministério da Educação Nacional, ao nível da sua administração central, de um serviço, criado de raiz, para o qual se transferem todas aquelas funções que, podendo embaraçar as actividades de índole pedagógica das direcções-gerais do ensino, serão tratadas por fórmulas modernas de gestão, prevendo-se o recurso à aplicação de processos mecanográficos.\n\nOs esquemas de actuação da Direcção-Geral da Administração Escolar relativamente aos estabelecimentos de ensino superior foram previstos tendo em conta a sua inserção no sistema educativo, a autonomia das Universidades e a competência própria da Direcção-Geral do Ensino Superior.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nDIPLOMA ORGÂNICO DA DIRECÇÃO-GERAL DA ADMINISTRAÇÃO ESCOLAR\n\nI\n\nDas atribuições e competência"
+  },
+  "008440c2df5e363c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "c0189f3f022e269b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "5dd74eb0f80f7571": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "86ec1a0835b1dcb6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "9b18b9b58510c44d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "530c8f1c2fafbe2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.\n\nII\n\nDos órgãos e serviços"
+  },
+  "db7923f82c6513b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Dos serviços em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Dos serviços em geral"
+  },
+  "0bb985394421f9c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "55df8ade080ae68f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Da Direcção de Serviços de Programação e Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Da Direcção de Serviços de Programação e Instalações"
+  },
+  "cca4d9a75064ae5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "82e598827db705e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "6134f7928310bc21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "b5311328010f8ce8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 11.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "ab21f8689391f2bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Da Direcção de Serviços de Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Da Direcção de Serviços de Pessoal"
+  },
+  "7e993a52faa2f3bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "a20a6dac89ba720e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 13.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "069df33a73f6014b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "a61a19965311d384": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Da Divisão de Administração e Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Da Divisão de Administração e Finanças"
+  },
+  "29519d1c3e8ddeb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 15.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "7611820c4f9a98e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 16.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "9b319768eb4b3e3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Da Repartição Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Da Repartição Administrativa"
+  },
+  "8d1b4735e26e3ab5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 17.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.\n\nIII\n\nDa Comissão de Equipamento Escolar"
+  },
+  "fd339aea28226676": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 18.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "dc71e3c182781593": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "e67cc025116dbeec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 20.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "82d04430a9787c9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 21.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "89bae3e9b08f7d73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 22.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "a5b8217e85a81fe8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 23.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "624d4a4b04ef8ed2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 24.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "0e9b32808ecf8191": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 25.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "0dceea06fac8dc05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 26.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "3389bc71555660c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 27.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "5f2d49c4a89bda5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 28.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "d91c04e3b9c22443": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 29.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "d073c137d49a217c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 30.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "31132519231ebd58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 31.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "5f593cef5ae2d65d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 32.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "7f95d286b59de80e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 33.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "e36583b0ad052abb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 34.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "bbff6f9f245c7679": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 35.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.\n\nIV\n\nDo pessoal"
+  },
+  "8d14de417e4dde6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 36.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "f1e8125915e494bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 37.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "fcb6af911d67c20e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 38.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "9d6d089fb4b12666": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 39.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "895476829098e060": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 40.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.\n\nV\n\nDisposições finais e transitórias"
+  },
+  "52611c0d9c228955": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 41.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "9750888d5277ae63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 42.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "664b2f15d900b379": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 43.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "f5821dc29c0f3a43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 44.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "9190400c360a742e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 45.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "e8f6cdd29a48ce14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 46.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "458716f3dab0cb03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 47.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+  },
+  "8034a3253a1343f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": "1978-10-12",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12."
+   ],
+   "markdown": "###### Artigo 48.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.\n\nPromulgado em 3 de Fevereiro de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nMAPA I\n\nPessoal integrado no quadro único a que se refere o n.º 1 do artigo 36.º do Decreto-Lei n.º 46/73, de 12 de Fevereiro\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/02/03600/02080215.pdf)\n\nMAPA II\n\nPessoal a que se refere o n.º 2 do artigo 36.º do Decreto-Lei n.º 46/73, de 12 de Fevereiro\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/02/03600/02080215.pdf)\n\nNota. - Ao funcionário encarregado de secretariar o director-geral, designado por despacho do Ministro da Educação Nacional, será abonada a gratificação mensal de 1000$00.\n\nO Ministro da Educação Nacional, José Veiga Simão."
+  }
+ }
+}

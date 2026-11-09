@@ -1,0 +1,194 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:382669:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-04-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "afc0b8b175ed79c2"
+   ]
+  },
+  {
+   "date": "1980-03-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:678031:por",
+     "title": "Decreto-Lei n.º 39/80",
+     "published": "1980-03-14",
+     "dre_path": "/dr/detalhe/decreto-lei/39-1980-678031"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Adita Artigo 6.º-A"
+   ],
+   "fragments": [
+    "2748da1f9236707b",
+    "9d6270f8fdffa859",
+    "c85c0f30d5d3cf59",
+    "6bd5f5e8374e0f6a",
+    "70ff42731e5f7051",
+    "0953f16bfb8fa6b2",
+    "b35ea6357beaa755",
+    "1d921bfb2ab023c4",
+    "7cfe052df0424f0c",
+    "c6a99042e08176ca",
+    "cc44bf635a918866",
+    "aa838068866207a4",
+    "4f41eb0256178e60",
+    "0869041fd13a0288",
+    "763626dab2f2abba",
+    "b3567f2fa0dbf54f"
+   ]
+  }
+ ],
+ "fragments": {
+  "afc0b8b175ed79c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Abril\n\nSem prejuízo de, ulteriormente e na presença de trabalhos já em curso, mas de morosa concretização, se proceder a uma profunda revisão da orgânica do Gabinete da Área de Sines, visando dotá-lo de um enquadramento funcionalmente mais adequado ao correcto desempenho das acções que lhe estão confiadas, no âmbito do qual, entre outros objectivos, se assegurará a clara definição do vínculo dos seus trabalhadores à função pública, importa desde já proceder a uma reestruturação da direcção do Gabinete da Área de Sines, que se reputa indispensável, atentos, designadamente, o elevado volume de investimentos já feitos, a enorme complexidade das acções a desenvolver e as suas interdependências sectoriais, com reflexos em vários departamentos ministeriais.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º As atribuições e competência conferidas ao director e subdirectores do Gabinete da Área de Sines pelos Decretos-Leis n.os [270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342), de 19 de Junho, e [11/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1977-492710), de 6 de Janeiro, e pelo [Decreto n.º 355/72](https://diariodarepublica.pt/dr/detalhe/decreto/355-1972-689026), de 16 de Setembro, passam a ser exercidas por um conselho de gestão composto por um presidente, um vice-presidente e três outros membros.\n\nArt. 2.º - 1 - A nomeação dos membros do conselho de gestão é da competência do Conselho de Ministros, sob proposta do Ministro das Finanças e do Plano.\n\n2 - Na elaboração da proposta, o Ministro das Finanças e do Plano indicará o presidente e o vice-presidente; a indicação dos restantes membros será efectuada com prévia audição dos Ministros da Habitação e Obras Públicas, da Indústria e Tecnologia e dos Transportes e Comunicações.\n\n3 - Os membros do conselho de gestão deverão ser nomeados de entre indivíduos com curso superior adequado e de reconhecida competência.\n\n4 - As funções de membros do conselho de gestão poderão ser exercidas por funcionários dos quadros da função pública ou trabalhadores de empresas públicas, em regime de requisição ou destacamento.\n\nArt. 3.º - 1 - Os membros do conselho de gestão exercerão as suas funções em regime de comissão de serviço por períodos de três anos, renováveis.\n\n2 - Os membros do conselho de gestão exercerão as suas funções em regime de tempo pleno.\n\nArt. 4.º - 1 - Ao presidente do conselho de gestão cabe, em geral, a coordenação dos vários pelouros; ao vice-presidente cabe o pelouro do planeamento e finanças; os restantes pelouros serão distribuídos nos termos de deliberação do conselho.\n\n2 - A distribuição de pelouros não poderá dispensar o dever, que a todos os membros incumbe, de fiscalizar e tomar conhecimento da generalidade dos assuntos do Gabinete da Área de Sines e de propor providências relativas a qualquer deles.\n\nArt. 5.º - 1 - O presidente do conselho de gestão terá categoria correspondente à letra A do funcionalismo público.\n\n2 - Os restantes membros do conselho terão categoria correspondente à letra B do funcionalismo público.\n\nArt. 6.º As deliberações do conselho de gestão são tomadas por maioria simples de votos, tendo o presidente, ou quem o substituir, voto de qualidade.\n\nArt. 7.º - 1 - Compete, em especial, ao presidente ou a quem o substituir:\n\na) Representar o Gabinete da Área de Sines;\n\nb) Superintender na coordenação e dinamização da actividade do conselho de gestão e promover a convocação das respectivas reuniões;\n\nc) Presidir a quaisquer reuniões de comissões emanadas do conselho de gestão;\n\nd) Dirigir os trabalhos das reuniões a que presidir;\n\ne) Praticar tudo o mais que, nos termos legais, especialmente lhe incumbir.\n\n2 - O presidente pode, em acta do conselho de gestão delegar em um ou mais dos membros do conselho parte das atribuições que lhe são cometidas no número anterior.\n\n3 - O presidente será substituído nas suas faltas e impedimentos pelo vice-presidente ou, não sendo possível, pelo membro mais antigo; tendo todos a mesma antiguidade, a indicação de substituto caberá, por despacho, ao Ministro das Finanças e do Plano.\n\nArt. 8.º O conselho de gestão reúne ordinariamente pelo menos uma vez por semana e extraordinariamente sempre que seja convocado pelo presidente, por sua iniciativa ou a pedido de qualquer dos seus membros.\n\nArt. 9.º O conselho de gestão pode autorizar a realização de despesas dentro dos limites e condições que vierem a ser fixados em despacho do Ministro das Finanças e do Plano.\n\nArt. 10.º O conselho de gestão elaborará, no prazo de sessenta dias após a tomada de posse, uma proposta de regulamentação do seu funcionamento, que deverá ser submetida à aprovação do Ministro das Finanças e do Plano.\n\nArt. 11.º - 1 - São extintos os lugares de director e subdirector do Gabinete da Área de Sines.\n\n2 - O disposto no número anterior não se aplica enquanto não tomar posse o presidente e, pelo menos, dois membros do conselho de gestão.\n\nArt. 12.º - 1 - O Governo promoverá a revisão do [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342) e do [Decreto n.º 355/72](https://diariodarepublica.pt/dr/detalhe/decreto/355-1972-689026), tendo em atenção as alterações produzidas pelo presente diploma relativamente aos órgãos de gestão do Gabinete da Área de Sines.\n\n2 - Até à aprovação pelo Conselho de Ministros do novo diploma orgânico do Gabinete da Área de Sines, todas as referências feitas ao director e subdirectores do Gabinete por qualquer diploma legal entender-se-ão como feitas ao conselho de gestão do mesmo Gabinete.\n\nArt. 13.º Os Decretos-Leis n.os [270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342) e [11/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1977-492710) e o [Decreto n.º 355/72](https://diariodarepublica.pt/dr/detalhe/decreto/355-1972-689026) ficam revogados naquilo que contrariar o presente diploma.\n\nArt. 14.º As dúvidas suscitadas na aplicação do presente decreto-lei e dos diplomas legais referidos no artigo anterior serão resolvidas por despacho do Ministro das Finanças e do Plano.\n\nVisto e aprovado em Conselho de Ministros de 14 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Álvaro Roque de Pinho Bissaia Barreto - José Ricardo Marques da Costa - João Orlindo Almeida Pina - António Jorge de Figueiredo Lopes."
+  },
+  "2748da1f9236707b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Abril\n\nSem prejuízo de, ulteriormente e na presença de trabalhos já em curso, mas de morosa concretização, se proceder a uma profunda revisão da orgânica do Gabinete da Área de Sines, visando dotá-lo de um enquadramento funcionalmente mais adequado ao correcto desempenho das acções que lhe estão confiadas, no âmbito do qual, entre outros objectivos, se assegurará a clara definição do vínculo dos seus trabalhadores à função pública, importa desde já proceder a uma reestruturação da direcção do Gabinete da Área de Sines, que se reputa indispensável, atentos, designadamente, o elevado volume de investimentos já feitos, a enorme complexidade das acções a desenvolver e as suas interdependências sectoriais, com reflexos em vários departamentos ministeriais.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "9d6270f8fdffa859": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs atribuições e competência conferidas ao director e subdirectores do Gabinete da Área de Sines pelos Decretos-Leis n.os [270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342), de 19 de Junho, e [11/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1977-492710), de 6 de Janeiro, e pelo [Decreto n.º 355/72](https://diariodarepublica.pt/dr/detalhe/decreto/355-1972-689026), de 16 de Setembro, passam a ser exercidas por um conselho de gestão composto por um presidente, um vice-presidente e três outros membros."
+  },
+  "c85c0f30d5d3cf59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A nomeação dos membros do conselho de gestão é da competência do Conselho de Ministros, sob proposta do Ministro das Finanças e do Plano.\n\n2 - Na elaboração da proposta, o Ministro das Finanças e do Plano indicará o presidente e o vice-presidente; a indicação dos restantes membros será efectuada com prévia audição dos Ministros da Habitação e Obras Públicas, da Indústria e Tecnologia e dos Transportes e Comunicações.\n\n3 - Os membros do conselho de gestão deverão ser nomeados de entre indivíduos com curso superior adequado e de reconhecida competência.\n\n4 - As funções de membros do conselho de gestão poderão ser exercidas por funcionários dos quadros da função pública ou trabalhadores de empresas públicas, em regime de requisição ou destacamento."
+  },
+  "6bd5f5e8374e0f6a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Os membros do conselho de gestão exercerão as suas funções em regime de comissão de serviço por períodos de três anos, renováveis.\n\n2 - Os membros do conselho de gestão exercerão as suas funções em regime de tempo pleno."
+  },
+  "70ff42731e5f7051": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1980-03-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 39/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1980-678031), publicado em 1980-03-14."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - Ao presidente do conselho de gestão cabe, em geral, a coordenação dos vários pelouros, os quais serão distribuídos pelos restantes membros do conselho, por despacho do Ministro das Finanças e do Plano.\n\n2 - A distribuição de pelouros não poderá dispensar o dever, que a todos os membros incumbe, de fiscalizar e tomar conhecimento da generalidade dos assuntos do Gabinete da Área de Sines e de propor providências relativas a qualquer deles.\n\n> Alterado pelo/a [Decreto-Lei n.º 39/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1980-678031), publicado em 1980-03-14."
+  },
+  "0953f16bfb8fa6b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O presidente do conselho de gestão terá categoria correspondente à letra A do funcionalismo público.\n\n2 - Os restantes membros do conselho terão categoria correspondente à letra B do funcionalismo público."
+  },
+  "b35ea6357beaa755": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs deliberações do conselho de gestão são tomadas por maioria simples de votos, tendo o presidente, ou quem o substituir, voto de qualidade."
+  },
+  "1d921bfb2ab023c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º-A",
+   "in_force_from": "1980-03-14",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 39/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1980-678031), publicado em 1980-03-14."
+   ],
+   "markdown": "###### Artigo 6.º-A\n\nO conselho de gestão poderá delegar o exercício de parte da sua competência em qualquer dos seus membros, nas condições que considerar convenientes, especificando as matérias e os poderes abrangidos na delegação.\n\n> Aditado pelo/a [Decreto-Lei n.º 39/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-1980-678031), publicado em 1980-03-14."
+  },
+  "7cfe052df0424f0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Compete, em especial, ao presidente ou a quem o substituir:\n\na) Representar o Gabinete da Área de Sines;\n\nb) Superintender na coordenação e dinamização da actividade do conselho de gestão e promover a convocação das respectivas reuniões;\n\nc) Presidir a quaisquer reuniões de comissões emanadas do conselho de gestão;\n\nd) Dirigir os trabalhos das reuniões a que presidir;\n\ne) Praticar tudo o mais que, nos termos legais, especialmente lhe incumbir.\n\n2 - O presidente pode, em acta do conselho de gestão delegar em um ou mais dos membros do conselho parte das atribuições que lhe são cometidas no número anterior.\n\n3 - O presidente será substituído nas suas faltas e impedimentos pelo vice-presidente ou, não sendo possível, pelo membro mais antigo; tendo todos a mesma antiguidade, a indicação de substituto caberá, por despacho, ao Ministro das Finanças e do Plano."
+  },
+  "c6a99042e08176ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO conselho de gestão reúne ordinariamente pelo menos uma vez por semana e extraordinariamente sempre que seja convocado pelo presidente, por sua iniciativa ou a pedido de qualquer dos seus membros."
+  },
+  "cc44bf635a918866": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO conselho de gestão pode autorizar a realização de despesas dentro dos limites e condições que vierem a ser fixados em despacho do Ministro das Finanças e do Plano."
+  },
+  "aa838068866207a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO conselho de gestão elaborará, no prazo de sessenta dias após a tomada de posse, uma proposta de regulamentação do seu funcionamento, que deverá ser submetida à aprovação do Ministro das Finanças e do Plano."
+  },
+  "4f41eb0256178e60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - São extintos os lugares de director e subdirector do Gabinete da Área de Sines.\n\n2 - O disposto no número anterior não se aplica enquanto não tomar posse o presidente e, pelo menos, dois membros do conselho de gestão."
+  },
+  "0869041fd13a0288": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - O Governo promoverá a revisão do [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342) e do [Decreto n.º 355/72](https://diariodarepublica.pt/dr/detalhe/decreto/355-1972-689026), tendo em atenção as alterações produzidas pelo presente diploma relativamente aos órgãos de gestão do Gabinete da Área de Sines.\n\n2 - Até à aprovação pelo Conselho de Ministros do novo diploma orgânico do Gabinete da Área de Sines, todas as referências feitas ao director e subdirectores do Gabinete por qualquer diploma legal entender-se-ão como feitas ao conselho de gestão do mesmo Gabinete."
+  },
+  "763626dab2f2abba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs Decretos-Leis n.os [270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342) e [11/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1977-492710) e o [Decreto n.º 355/72](https://diariodarepublica.pt/dr/detalhe/decreto/355-1972-689026) ficam revogados naquilo que contrariar o presente diploma."
+  },
+  "b3567f2fa0dbf54f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs dúvidas suscitadas na aplicação do presente decreto-lei e dos diplomas legais referidos no artigo anterior serão resolvidas por despacho do Ministro das Finanças e do Plano.\n\nVisto e aprovado em Conselho de Ministros de 14 de Fevereiro de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - Álvaro Roque de Pinho Bissaia Barreto - José Ricardo Marques da Costa - João Orlindo Almeida Pina - António Jorge de Figueiredo Lopes."
+  }
+ }
+}

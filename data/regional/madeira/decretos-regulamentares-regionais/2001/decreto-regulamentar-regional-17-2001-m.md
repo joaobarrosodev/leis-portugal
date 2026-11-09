@@ -38,10 +38,34 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-10-01'
+version_history:
+  file: decreto-regulamentar-regional-17-2001-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-07-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-10-01'
+    amending: pt:dre:635592:por
+    amending_title: Decreto Regulamentar Regional n.º 14/2002/M
+    changes:
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/17/2001/07/09/m/dre/pt/html
@@ -67,7 +91,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:46:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    14/2002/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/2001/decreto-regulamentar-regional-17-2001-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -233,18 +258,6 @@ São aprovados o estatuto e orgânica da Inspecção Regional do Trabalho, adian
 ###### Artigo 3.º
 
 O presente diploma entra em vigor no dia seguinte ao da sua publicação.
-
-Aprovado em Conselho do Governo Regional em 31 de Maio de 2001.
-
-O Vice-Presidente do Governo Regional, em exercício da Presidência, João Carlos Cunha e Silva.
-
-Assinado em 19 de Junho de 2001.
-
-Publique-se.
-
-O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
-
-Estatuto e orgânica da Inspecção Regional do Trabalho
 
 ### CAPÍTULO I — Natureza e atribuições
 
@@ -584,141 +597,133 @@ n) Solicitar a colaboração de autoridades policiais, nomeadamente no caso de i
 
 #### SECÇÃO II — Carreiras de inspecção
 
-###### Artigo 29.º — Pessoal técnico de inspecção
+###### Artigo 29.º — Carreiras de inspector do trabalho
 
-O pessoal técnico de inspecção integra as carreiras de regime especial de inspecção superior e de inspecção, adiante designadas por carreiras de inspecção.
+1 - A IRT, para a prossecução das competências que lhe estão cometidas, dispõe das seguintes carreiras de regime especial:
 
-###### Artigo 30.º — Carreira de inspecção superior
+a) A carreira de inspector superior do trabalho;
 
-A carreira de inspecção superior desenvolve-se pelas categorias de inspector superior principal, inspector superior, inspector principal e inspector.
+b) Transitoriamente, e enquanto haja funcionários nelas integrados, as carreiras de inspector técnico do trabalho e de inspector-adjunto do trabalho.
 
-###### Artigo 31.º — Condições de ingresso e de acesso na carreira de inspecção superior
+2 - As vagas que forem ocorrendo nas carreiras referidas na alínea b) do número anterior transitam, automaticamente, para a carreira de inspector superior do trabalho.
 
-1 - O recrutamento para ingresso na carreira de inspecção superior rege-se pela lei geral, sem prejuízo do disposto no artigo 34.º, sendo definida no respectivo aviso de abertura de concurso a licenciatura considerada adequada, em função das atribuições da IRT.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17.
 
-2 - O acesso nesta carreira é feito mediante concurso e obedece às seguintes regras:
+###### Artigo 30.º — Carreira de inspector superior do trabalho
 
-a) Inspector superior principal, de entre inspectores superiores com um mínimo de três anos de serviço classificados de Muito bom ou de cinco anos classificados de Bom;
+Integram a carreira de inspector superior do trabalho as categorias de inspector superior principal, inspector superior, inspector principal e inspector.
 
-b) Inspector superior, de entre inspectores principais com um mínimo de três anos de serviço classificados de Muito bom ou de cinco anos classificados de Bom, mediante concurso de provas públicas, que consiste na apreciação e discussão do currículo profissional do candidato;
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17.
 
-c) Inspector principal, de entre inspectores com um mínimo de três anos de serviço classificados de Bom;
+###### Artigo 31.º — Condições de ingresso e de acesso na carreira de inspector superior do trabalho
 
-d) Inspector, de entre estagiários que tenham concluído com aproveitamento o respectivo estágio.
+1 - O ingresso na carreira de inspector superior do trabalho faz-se, em regra, para a categoria de inspector de entre indivíduos habilitados com licenciatura considerada adequada e aprovados em estágio, com classificação não inferior a Bom (14 valores), sem prejuízo do disposto no n.º 1 do artigo 36.º
 
-3 - Os candidatos a inspector superior podem apresentar um trabalho que verse um tema actual e concreto, de interesse para a IRT, cabendo ao júri do concurso, com base nesse trabalho, avaliar a capacidade de análise e concepção do candidato e valorá-lo para efeitos de classificação.
+2 - O recrutamento para as categorias de acesso da carreira de inspector superior do trabalho faz-se mediante concurso e obedece às seguintes regras:
 
-4 - A área de recrutamento para inspector principal é alargada aos inspectores técnicos especialistas principais com curso superior que não confira o grau de licenciatura, desde que previamente habilitados com formação adequada.
+a) Inspector superior principal, de entre inspectores superiores com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados de Bom;
 
-5 - Aos titulares de mestrado ou doutoramento, desde que o conteúdo funcional seja de interesse para a IRT, é reduzido em 12 meses o tempo legalmente exigido para o acesso na carreira, nos termos das alíneas a), b) e c) do n.º 2.
+b) Inspector superior, de entre inspectores principais com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados de Bom, mediante concurso de provas públicas, que consistirá na apreciação do currículo profissional do candidato;
 
-###### Artigo 32.º — Carreira de inspecção
+c) Inspector principal, de entre inspectores com, pelo menos, três anos de serviço na categoria classificados de Bom.
 
-A carreira de inspecção desenvolve-se pelas categorias de inspector técnico especialista principal, inspector técnico especialista, inspector técnico principal, inspector-adjunto principal e inspector-adjunto.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17.
 
-###### Artigo 33.º — Condições de ingresso e acesso na carreira de inspecção
+###### Artigo 32.º — Carreira de inspector técnico do trabalho
 
-1 - O recrutamento para ingresso na carreira de inspecção é feito nos termos artigo 6.º, n.º 1, alínea d), do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, sem prejuízo do disposto no artigo 34.º, sendo definido no respectivo aviso de abertura do concurso o curso técnico-profissional considerado adequado, em função das atribuições da IRT.
+Integram a carreira de inspector técnico do trabalho as categorias de inspector técnico especialista principal, inspector técnico especialista e inspector técnico principal.
 
-2 - O recrutamento para ingresso na carreira de inspecção pode ainda ser feito na categoria de inspector-adjunto principal de entre indivíduos habilitados com curso superior que não confira o grau de licenciatura e que tenham obtido aprovação em estágio, sendo para este efeito reservados até 40% do número de lugares postos a concurso, salvo se não existirem concorrentes nestas condições.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17.
 
-3 - O acesso nesta carreira é feito mediante concurso e obedece às seguintes regras:
+###### Artigo 33.º — Condições de acesso na carreira de inspector técnico do trabalho
 
-a) Inspector técnico especialista principal e inspector técnico especialista, de entre, respectivamente, inspectores técnicos especialistas e inspectores técnicos principais, com um mínimo de três anos de serviço classificados de Muito bom ou de cinco anos classificados de Bom nas respectivas categorias;
+O recrutamento para as categorias de acesso da carreira de inspector técnico do trabalho faz-se mediante concurso e obedece às seguintes regras:
 
-b) Inspector técnico principal, de entre inspectores-adjuntos principais com um mínimo de três anos na categoria classificados de Bom, habilitados com curso superior que não confira o grau de licenciatura ou desde que aprovados em curso de formação adequado;
+a) Inspector técnico especialista principal, de entre inspectores técnicos especialistas com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom;
 
-c) Inspector-adjunto principal, de entre inspectores-adjuntos com um mínimo de três anos de serviço classificados de Bom.
+b) Inspector técnico especialista, de entre inspectores técnicos principais com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.
 
-###### Artigo 34.º — Admissão a estágio
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17.
 
-1 - O ingresso nas carreiras de inspecção está sujeito a prévia aprovação em estágio.
+###### Artigo 34.º — Carreira de inspector-adjunto do trabalho
 
-2 - O recrutamento de estagiários é feito para cada uma das carreiras de inspecção previstas no presente diploma e em função do número de vagas existentes no conjunto das categorias que a integram.
+Integram a carreira de inspector-adjunto do trabalho as categorias de inspector-adjunto especialista principal, inspector-adjunto especialista, inspector-adjunto principal e inspector-adjunto.
 
-3 - A admissão a estágio para ingresso é feita mediante concurso de provas de conhecimento e de avaliação curricular, de entre indivíduos que, sem prejuízo dos artigos anteriores, satisfaçam, cumulativamente, os seguintes requisitos:
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17.
 
-a) Ter idade compreendida entre 21 e 35 anos;
+###### Artigo 35.º — Condições de acesso na carreira de inspector-adjunto do trabalho
 
-b) Possuir a robustez física e o perfil psíquico adequados ao exercício de funções de inspecção, nos termos em que estas são definidas no presente diploma, e ter cumprido as leis de vacinação obrigatória;
+O recrutamento para as categorias de acesso da carreira de inspector-adjunto do trabalho faz-se mediante concurso e obedece às seguintes regras:
 
-c) Estar habilitado com carta de condução de veículos ligeiros.
+a) Inspector-adjunto especialista principal, de entre inspectores-adjuntos especialistas com, pelo menos, três anos na categoria classificados de Muito bom ou cinco anos classificados de Bom;
 
-4 - Os métodos de selecção referidos no número anterior são complementados pelos que a seguir se indicam:
+b) Inspector-adjunto especialista, de entre inspectores-adjuntos principais com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom;
 
-a) Exame médico;
+c) Inspector-adjunto principal, de entre inspectores-adjuntos com, pelo menos, três anos de serviço na categoria classificados de Bom.
 
-b) Exame psicológico;
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17.
 
-c) Entrevista profissional.
+###### Artigo 36.º — Estágio
 
-5 - Os métodos de selecção referidos no presente artigo, com excepção dos referidos nas alíneas b) e c) do número anterior, têm, por si só, carácter eliminatório, bem como cada uma das fases que os integram.
+1 - A admissão ao estágio para ingresso na carreira de inspector superior do trabalho é feita mediante concurso, de entre indivíduos que satisfaçam, cumulativamente, os requisitos gerais de admissão e estejam habilitados com carta de condução de veículos ligeiros.
 
-###### Artigo 35.º — Conteúdo do exame médico
+2 - O regulamento de estágio é aprovado por despacho conjunto dos membros do Governo Regional que tiverem a seu cargo as áreas do trabalho e da Administração Pública.
 
-A orientação do exame médico e a tabela de inaptidões constarão de portaria conjunta dos secretários regionais que tiverem a seu cargo as áreas da função pública, do trabalho e da segurança social.
+3 - Os estagiários aprovados que excedam o número de vagas fixado poderão ser nomeados dentro do prazo de validade do concurso para admissão ao estágio.
 
-###### Artigo 36.º — Regimes de estágio e do estagiário
+4 - A partir da nomeação a que se refere o número anterior e por causa que lhes seja imputável, os inspectores que não prestem o tempo de serviço correspondente à duração do estágio ficam obrigados a reembolsar a IRT de todas as despesas efectuadas com a sua formação.
 
-1 - O regime, a duração e demais condições necessárias ao funcionamento do estágio para ingresso nas carreiras de inspecção são definidos em portaria conjunta dos secretários regionais que tiverem a seu cargo as áreas da função pública e do trabalho.
-
-2 - Ao estagiário é assegurado o respectivo estatuto, desde a conclusão do estágio até à posse na categoria a que se candidata.
-
-3 - Os estagiários são remunerados de acordo com índice constante do anexo II ao presente diploma, sem prejuízo do direito de opção pela remuneração do lugar de origem no caso de pessoal já vinculado à função pública.
-
-4 - Os estagiários que tenham concluído o respectivo estágio com aproveitamento são nomeados na categoria de ingresso da carreira a que concorrem, em função do número de vagas abertas a concurso, nos termos do artigo 34.º
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17.
 
 #### SECÇÃO III — Conteúdos funcionais
 
-###### Artigo 37.º — Pessoal das carreiras de inspecção
+###### Artigo 37.º — Conteúdo funcional
 
-1 - Ao pessoal das carreiras de inspecção compete:
+1 - Os inspectores do trabalho concebem e desenvolvem metodologias e acções de informação, de aconselhamento e de controlo, no âmbito dos poderes de autoridade pública, nas empresas e outras organizações, com vista à promoção da melhoria das condições de trabalho.
 
-a) Executar as acções de inspecção que lhe sejam cometidas, visitando os locais de trabalho, tendo em vista o cumprimento das disposições legais, regulamentares e convencionais respeitantes às condições de trabalho;
+2 - Na acção de promoção da melhoria das condições de trabalho, compete aos inspectores do trabalho:
 
-b) Interrogar, quando tal se mostre necessário ao desempenho das suas funções, a entidade empregadora ou gestor, os trabalhadores e seus representantes ou quaisquer outras pessoas;
+a) Desenvolver as acções necessárias à avaliação da qualidade de trabalho, das condições de trabalho e da gestão e organização da segurança, higiene e saúde do trabalho;
 
-c) Prestar esclarecimentos às entidades empregadoras e aos trabalhadores durante as acções de inspecção, sempre que tal for considerado oportuno;
+b) Prestar a entidades patronais, trabalhadores e seus representantes nos locais de trabalho ou nos serviços da IRT, informações e conselhos técnicos sobre o modo mais adequado de observarem essas disposições;
 
-d) Recolher ou requisitar, para fotocopiar, a documentação obrigatória em poder das entidades empregadoras, quando for julgado necessário;
+c) Notificar para que, dentro de um prazo fixado, sejam realizadas nos locais de trabalho as modificações necessárias para assegurar a aplicação das disposições relativas à segurança, higiene e saúde dos trabalhadores;
 
-e) Preencher a nota de serviço externo, bem como proceder ao registo dos dados referentes às acções inspectivas que hajam efectuado;
+d) Notificar o empregador para adoptar medidas de prevenção no domínio da avaliação dos riscos profissionais, designadamente promover, através de organismos especializados, medições, testes ou peritagens incidentes sobre os componentes materiais de trabalho;
 
-f) Averiguar o cumprimento das condições de atribuição e manutenção de apoios ao emprego e às situações de desemprego e de suspensão do contrato de trabalho;
+e) Notificar para que sejam adoptadas medidas imediatamente executórias, incluindo a suspensão de trabalhos em curso, em caso de risco grave ou probabilidade séria de verificação de lesão da vida, da integridade física ou da saúde dos trabalhadores;
 
-g) Verificar o pagamento das retribuições devidas, bem como das contribuições para a segurança social;
+f) Controlar a obrigatoriedade da criação, por parte de empresas, dos serviços e órgãos de segurança, higiene e saúde no trabalho e do seu funcionamento;
 
-h) Verificar as tarefas executadas pelos trabalhadores com vista ao enquadramento legal das profissões e categorias;
+g) Realizar inquéritos em casos de acidentes de trabalho mortais ou que evidenciem situações particularmente graves ou de doenças profissionais que provoquem lesões graves, sem prejuízo, neste caso, das competências de outras entidades, com vista ao desenvolvimento de medidas de prevenção adequadas nos locais de trabalho;
 
-i) Verificar as condições de segurança, higiene e bem-estar nos locais de trabalho;
+h) Promover processos de contra-ordenação ou contravenção, levantando autos de notícia, elaborando participação ou procedendo a inquérito prévio;
 
-j) Recolher e levar para análise amostras de matérias-primas ou produtos manufacturados, utilizados ou manipulados pelos trabalhadores, dando conhecimento do facto à entidade empregadora, gestor ou seus representantes;
+i) Promover a colaboração de outras entidades com competência no âmbito das condições de trabalho;
 
-l) Solicitar a identificação das substâncias perigosas ou tóxicas através do rótulo e informações técnicas do fabricante, representante, importador ou distribuidor;
+j) Participar a outras entidades situações relacionadas com as condições de trabalho no âmbito das suas competências;
 
-m) Elaborar os diversos relatórios, informações e pareceres que decorram das acções de inspecção, bem como fazer propostas de notificação e levantar autos de notícia;
+l) Elaborar os relatórios, informações e outros documentos decorrentes da acção inspectiva;
 
-n) Promover e proceder às notificações, de harmonia com as disposições legais em vigor;
+m) Elaborar informações, pareceres e estudos de natureza diversa no âmbito das competências da IRT;
 
-o) Participar superiormente as infracções de que tenha conhecimento e cuja fiscalização seja da competência de outras entidades ou serviços;
+n) Participar em grupos de trabalho, comissões, equipas de projecto e missões específicas para que sejam designados.
 
-p) Comparecer em tribunal aquando do julgamento das infracções que foram objecto de auto de notícia ou de participação;
+3 - Aos inspectores do trabalho integrados na carreira de inspector técnico do trabalho, a que faz referência a alínea b) do n.º 1 do artigo 29.º, para além das funções indicadas no número anterior, compete:
 
-q) Solicitar a colaboração da Polícia de Segurança Pública e de outras autoridades ou entidades quando for considerado necessário;
+a) Colaborar na programação da actividade inspectiva, de acordo com os planos de actividades anuais, e de acções conjuntas desenvolvidas no âmbito de articulações com outros sistemas inspectivos;
 
-r) Participar em reuniões ou grupos de trabalho para que seja designado;
+b) Coordenar e executar acções inspectivas;
 
-s) Desempenhar outras funções que por lei, regulamento ou determinação superior lhe sejam cometidas.
+c) Instruir processos de contra-ordenação laboral que lhes sejam confiados nos termos do artigo 25.º da [Lei n.º 116/99](https://diariodarepublica.pt/dr/detalhe/lei/116-1999-426747), de 4 de Agosto.
 
-2 - Ao pessoal da carreira de inspecção superior incumbe especificamente:
+4 - Aos inspectores do trabalho integrados na carreira de inspector superior do trabalho, para além das funções indicadas nos números anteriores, compete:
 
-a) Elaborar relatórios de inquérito sumário, a requisição dos tribunais do trabalho, quando ocorram acidentes de trabalho ou doenças profissionais;
+a) Realizar trabalhos e estudos de apoio às decisões da competência do pessoal dirigente da IRT, bem como prestar-lhe assessoria, quando solicitada;
 
-b) Participar, com técnicos das entidades licenciadoras, nas vistorias das instalações e equipamentos;
+b) Assegurar a instrução de processos de averiguações, de inquéritos e disciplinares.
 
-c) Proceder a inquéritos, tendo em vista a determinação das causas dos acidentes de trabalho ou das doenças profissionais, sempre que se presumam más condições de segurança e higiene nos locais de trabalho;
-
-d) Controlar a obrigatoriedade de manutenção e funcionamento, por parte da empresa, dos serviços de medicina do trabalho e dos órgãos de higiene e segurança no trabalho, salvo no tocante à manipulação de elementos que envolvam sigilo profissional.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17.
 
 ###### Artigo 38.º — Classificação de serviço
 
@@ -730,13 +735,17 @@ d) Controlar a obrigatoriedade de manutenção e funcionamento, por parte da emp
 
 ###### Artigo 39.º — Remunerações
 
-As escalas salariais das carreiras de inspecção constam do anexo II ao presente diploma.
+As escalas salariais das carreiras de inspecção do trabalho são as fixadas no anexo II do presente diploma, de acordo com o disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril.
 
-###### Artigo 40.º — Suplemento mensal de risco
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17.
 
-1 - Até ser dada execução ao disposto no artigo 12.º do [Decreto-Lei n.º 53-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-a-1998-438182), de 11 de Março, e sem prejuízo do preceituado no artigo 14.º, n.º 1, deste decreto-lei, o pessoal dirigente com competência inspectiva e o pessoal das carreiras de inspecção mantêm o direito a auferir o suplemento mensal de risco, no valor de 20% da respectiva remuneração base, criado pelo artigo 47.º do Estatuto da Inspecção Regional do Trabalho, aprovado em anexo ao [Decreto Regulamentar Regional n.º 19/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1997-649480), de 17 de Setembro.
+###### Artigo 40.º — Suplemento de função inspectiva
 
-2 - Não tem direito ao suplemento mensal de risco o pessoal admitido em regime de estágio e durante o período em que o mesmo se mantiver.
+1 - O pessoal das carreiras de inspecção e o pessoal dirigente ou equiparado nomeado para exercer funções de direcção sobre aquele pessoal têm direito a um suplemento de função inspectiva, para compensação dos ónus específicos inerentes ao seu exercício, no valor de 22,5% da respectiva remuneração de base.
+
+2 - O suplemento é abonado em 12 mensalidades e releva para os efeitos de aposentação, sendo considerado no cálculo da pensão pela forma prevista na alínea b) do n.º 1 do artigo 47.º do Estatuto da Aposentação.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17.
 
 ###### Artigo 41.º — Transportes
 
@@ -869,6 +878,18 @@ O provimento na categoria de encarregado de instalações e equipamentos é feit
 5 - O disposto nos números anteriores não impede a integração formal no escalão que resultar das regras de transição.
 
 6 - Os funcionários e agentes que se aposentaram durante o ano de 1998 e até à entrada em vigor do presente diploma terão a sua pensão de aposentação calculada com base no índice que couber ao escalão em que ficarem posicionados.
+
+Aprovado em Conselho do Governo Regional em 31 de Maio de 2001.
+
+O Vice-Presidente do Governo Regional, em exercício da Presidência, João Carlos Cunha e Silva.
+
+Assinado em 19 de Junho de 2001.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+Estatuto e orgânica da Inspecção Regional do Trabalho
 
 ## ANEXO I — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)
 

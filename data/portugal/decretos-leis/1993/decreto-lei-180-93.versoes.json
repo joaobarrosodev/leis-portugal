@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:275597:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1993-05-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1f0a94b891d84f05"
+   ]
+  },
+  {
+   "date": "2005-12-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:469065:por",
+     "title": "Lei n.º 59/2005",
+     "published": "2005-12-29",
+     "dre_path": "/dr/detalhe/lei/59-2005-469065"
+    }
+   ],
+   "changes": [
+    "Altera Artigo único"
+   ],
+   "fragments": [
+    "27ecd4edcb054ce0",
+    "141a7ae4845406ed"
+   ]
+  }
+ ],
+ "fragments": {
+  "1f0a94b891d84f05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Maio\n\nO [Decreto-Lei n.º 175/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1989-609986), de 26 de Maio, procedeu à revalorização, em educador de infância, dos auxiliares de educação do Ministério da Educação que realizaram com aproveitamento o curso de promoção a educadores de infância e que vinham desempenhando as correspondentes funções há mais de 10 anos.\n\nNo sector da segurança social existem auxiliares de educação habilitados com aquele curso, a quem foram criadas legítimas expectativas de ingresso na carreira de educadores de infância.\n\nPor outro lado, para obviar a necessidades prementes de serviço a nível de educadores de infância, os serviços e estabelecimentos do sector da segurança social têm recorrido àqueles profissionais.\n\nDeste modo, impõe-se proceder à transição dos actuais auxiliares de educação com o curso de promoção a educadores de infância para os lugares desta categoria, cujas funções, de resto, há muito vêm exercendo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo único - 1 - Os auxiliares de educação dos serviços e estabelecimentos do sector da segurança social que realizaram, com aproveitamento, o curso de promoção a educadores de infância e que desempenham as correspondentes funções há mais de 10 anos transitam para lugares de educador de infância dos respectivos quadros de pessoal, podendo progredir até ao 3.º escalão da carreira do pessoal docente do ensino não superior.\n\n2 - No caso de inexistência de vagas, serão criados, nos respectivos quadros de pessoal, através de portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social, os lugares necessários à execução do presente diploma, a extinguir quando vagarem.\n\n3 - São extintos os lugares de auxiliar de educação que vagarem por motivo das transições previstas no presente diploma.\n\nVisto e aprovado em Conselho de Ministros de 8 de Abril de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.\n\nPromulgado em 26 de Abril de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 27 de Abril de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "27ecd4edcb054ce0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Maio\n\nO [Decreto-Lei n.º 175/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1989-609986), de 26 de Maio, procedeu à revalorização, em educador de infância, dos auxiliares de educação do Ministério da Educação que realizaram com aproveitamento o curso de promoção a educadores de infância e que vinham desempenhando as correspondentes funções há mais de 10 anos.\n\nNo sector da segurança social existem auxiliares de educação habilitados com aquele curso, a quem foram criadas legítimas expectativas de ingresso na carreira de educadores de infância.\n\nPor outro lado, para obviar a necessidades prementes de serviço a nível de educadores de infância, os serviços e estabelecimentos do sector da segurança social têm recorrido àqueles profissionais.\n\nDeste modo, impõe-se proceder à transição dos actuais auxiliares de educação com o curso de promoção a educadores de infância para os lugares desta categoria, cujas funções, de resto, há muito vêm exercendo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "141a7ae4845406ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo único",
+   "in_force_from": "2005-12-29",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 59/2005](https://diariodarepublica.pt/dr/detalhe/lei/59-2005-469065), publicado em 2005-12-29."
+   ],
+   "markdown": "###### Artigo único\n\n1 - Os auxiliares de educação dos serviços e estabelecimentos do sector da segurança social que realizaram, com aproveitamento, o curso de promoção a educadores de infância e que desempenhem as correspondentes funções há mais de 10 anos transitam para lugares de educador de infância dos respectivos quadros de pessoal, a extinguir quando vagarem.\n\n2 - No caso de inexistência de vagas, serão criados, nos respectivos quadros de pessoal, através de portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social, os lugares necessários à execução do presente diploma, a extinguir quando vagarem.\n\n3 - São extintos os lugares de auxiliar de educação que vagarem por motivo das transições previstas no presente diploma.\n\n> Alterado pelo/a [Lei n.º 59/2005](https://diariodarepublica.pt/dr/detalhe/lei/59-2005-469065), publicado em 2005-12-29.\n\nVisto e aprovado em Conselho de Ministros de 8 de Abril de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Albino da Silva Peneda.\n\nPromulgado em 26 de Abril de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 27 de Abril de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-10-31'
+version_history:
+  file: decreto-lei-124-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-07-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-10-31'
+    amending: pt:dre:340980:por
+    amending_title: Declaração de Rectificação n.º 172/92
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/124/1992/07/02/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:16:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 172/92.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-124-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,13 +131,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º O artigo 3.º do [Decreto-Lei n.º 44-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-b-1986-628280), de 7 de Março, passa a ter a seguinte redacção:
+###### Artigo 1.º
+
+O artigo 3.º do [Decreto-Lei n.º 44-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-b-1986-628280), de 7 de Março, passa a ter a seguinte redacção:
 
 Art. 3.º - 1 - A hora legal de Portugal continental coincide com o tempo universal coordenado, aumentado de sessenta minutos, no período compreendido entre a 1 hora UTC do último domingo de Setembro e a 1 hora UTC do último domingo de Março seguinte (período de hora de Inverno) e coincide com o tempo universal coordenado, aumentado de cento e vinte minutos, no período compreendido entre a 1 hora UTC do último domingo de Março e a 1 hora UTC do último domingo de Setembro seguinte (período de hora de Verão).
 
-2 - As mudanças de hora efectuar-se-ão adiantando os relógios de sessenta minutos à 1 hora UTC (à 1 hora de tempo legal) do último domingo de Março e atrasando-os de sessenta minutos à 1 hora UTC (às 2 horas de tempo legal) do último domingo de Setembro seguinte.
+2 - As mudanças de hora efectuar-se-ão adiantando os relógios de sessenta minutos à 1 hora UTC (às 2 horas de tempo legal) do último domingo de Março e atrasando-os de sessenta minutos à 1 hora UTC (às 3 horas de tempo legal) do último domingo de Setembro seguinte.
 
-Art. 2.º - No período de transição, que decorre durante o ano de 1992, não se efectua a mudança de hora à 1 hora UTC do último domingo de Setembro.
+> Alterado pelo/a [Declaração de Rectificação n.º 172/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/172-1992-340980), publicado em 1992-10-31.
+
+###### Artigo 2.º
+
+No período de transição, que decorre durante o ano de 1992, não se efectua a mudança de hora à 1 hora UTC do último domingo de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 30 de Abril de 1992. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
 

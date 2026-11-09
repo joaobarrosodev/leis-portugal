@@ -1,0 +1,96 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:532064:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-04-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "92859449e6b2b16e",
+    "1c2aa2e8c64f0c1a",
+    "8242daae678d0da6",
+    "d163b1555a5c5c71",
+    "00c41c4c0df0d3a8"
+   ]
+  },
+  {
+   "date": "1999-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:347302:por",
+     "title": "Declaração de Rectificação n.º 10-AM/99",
+     "published": "1999-05-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/10-am-1999-347302"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "92859449e6b2b16e",
+    "22f00167a43a5157",
+    "8242daae678d0da6",
+    "d163b1555a5c5c71",
+    "00c41c4c0df0d3a8"
+   ]
+  }
+ ],
+ "fragments": {
+  "92859449e6b2b16e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A [Resolução do Conselho de Ministros n.º 96-A/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/96-a-1995-476888), de 6 de Outubro, aprovou o Regulamento de Aplicação do Programa IMIT - Iniciativa para a Modernização da Indústria Têxtil.\n\nO [Despacho Normativo n.º 61-C/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/61-c-1995-392855), de 17 de Outubro, regulamentou-a e precisou a forma que os incentivos a conceder podem revestir.\n\nFace aos resultados obtidos e à experiência acumulada na gestão do Programa, importa agora ajustar os instrumentos de apoio existentes, relevando-se a bonificação das taxas de juro, com vista a uma gestão mais eficiente dos recursos financeiros disponíveis.\n\nAssim, ao abrigo do n.º 22.º do Regulamento de Aplicação do Programa IMIT - Iniciativa para a Modernização da Indústria Têxtil, determino:"
+  },
+  "1c2aa2e8c64f0c1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNo [Despacho Normativo n.º 61-C/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/61-c-1995-392855), de 17 de Outubro, a alínea e) do n.º 1 do artigo 4.º e os artigos 7.º, 10.º e 11.º passam a ter a seguinte redacção:\n\n«Artigo 4.º\n\n[...]\n\n1 - ...\n\n...\n\ne) Demonstrar que se encontram asseguradas as fontes de financiamento do projecto, bem como, através de declaração de uma entidade bancária protocolada com o IAPMEI a apresentar no prazo de 45 dias úteis a contar da data da candidatura, que está aprovado um empréstimo bancário com um período de vida até sete anos, os quais incluirão um período de utilização e carência até dois anos, sendo os reembolsos efectuados em semestralidades constantes de capital.\n\nArtigo 7.º\n\nIncentivos\n\n1 - Os incentivos a conceder no âmbito deste Regime podem revestir as seguintes formas:\n\na) Bonificação da taxa de juro, através do pagamento dos juros devidos pelos promotores às instituições de crédito protocoladas;\n\nb) Acrescidos do respectivo imposto do selo, resultantes dos empréstimos bancários obtidos para as componentes do projecto de investimento a que se referem as alíneas a) a h), k) e l) do n.º 1 e o n.º 2 do artigo anterior;\n\nc) Subsídio a fundo perdido para as restantes componentes, não directamente produtivas do projecto, consideradas no artigo anterior.\n\n2 - Poderá ainda ser objecto de bonificação da taxa de juro o valor excedente a que se refere a alínea c) do n.º 2 do artigo 10.º, com o limite aí referido.\n\n3 - Os incentivos relativos a aplicações relevantes realizadas no estrangeiro serão sempre concretizados através da bonificação da taxa de juro.\n\nArtigo 10.º\n\nLimites do incentivo\n\n1 - ...\n\n2 - Os limites máximos do incentivo a conceder são os seguintes:\n\na) Para as empresas com projectos já homologados no âmbito do presente Regime de Apoio:\n\nJuros correspondentes a um empréstimo bancário de 800000 contos por empresa, salvo o disposto na alínea c) seguinte;\n\n400000 contos por empresa, quando o incentivo revista a forma de subsídio a fundo perdido;\n\nb) Para outras empresas:\n\nJuros correspondentes a um empréstimo bancário de 500000 contos por empresa, salvo o disposto na alínea c) seguinte;\n\n250000 contos por empresa, quando o incentivo revista a forma de subsídio a fundo perdido;\n\nc) Sempre que o montante calculado do subsídio a fundo perdido seja superior a 400000 contos ou a 250000 contos, conforme se trate, respectivamente, das alíneas a) ou b) anteriores, o valor excedente poderá ser transformado em bonificação de juro de um empréstimo bancário no montante máximo de, também respectivamente, 900000 contos ou 600000 contos por empresa.\n\n3 - Em nenhum caso o incentivo a atribuir a cada projecto poderá ultrapassar os limites fixados nas alíneas b) e c) do n.º 2.\n\n4 - O montante total do incentivo a conceder não poderá exceder dois terços do custo total do investimento.\n\nArtigo 11.º\n\nBonificação de juros\n\n1 - A bonificação dos juros corresponderá aos encargos que o promotor suporte durante o período de vida do empréstimo, com o limite de sete anos, incluindo o período de utilização e carência.\n\n2 - As taxas máximas de juro e as outras condições dos empréstimos a bonificar serão reguladas em protocolos a estabelecer entre o IAPMEI e as instituições de crédito financiadoras.»"
+  },
+  "8242daae678d0da6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ eliminado o artigo 12.º do [Despacho Normativo n.º 61-C/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/61-c-1995-392855), de 17 de Outubro, com a actual redacção, e os artigos 13.º e 14.º mantêm a mesma redacção, mas passam a identificar-se por artigos 12.º e 13.º, respectivamente."
+  },
+  "d163b1555a5c5c71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs n.os 1.º e 3.º do anexo B ao [Despacho Normativo n.º 61-C/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/61-c-1995-392855), de 17 de Outubro, passam a ter a seguinte redacção:\n\n«ANEXO B\n\nMetodologia para o cálculo do incentivo final\n\n1.º\n\nPercentagem base do incentivo\n\nPara a determinação do incentivo final a conceder aos projectos seleccionados (VI igual ou superior a 60), observar-se-á o seguinte:\n\na) A percentagem base (I(índice bj)) a considerar para a determinação do montante máximo do empréstimo que poderá beneficiar de bonificação da taxa de juros é de 65%;\n\nb) A percentagem base do subsídio a fundo perdido (I(índice fp)) corresponderá a 55%.\n\n3.º\n\nCálculo do incentivo\n\nOs montantes dos incentivos a atribuir são calculados de acordo com as alíneas seguintes:\n\na) Empréstimo com juro bonificado:\n\nMontante máximo do empréstimo = I(índice bj)x AR(índice bj)\n\nem que:\n\nI(índice bj) - percentagem base a aplicar na determinação do montante máximo do empréstimo, de acordo com o n.º 1.º anterior, acrescida, se aplicável, da majoração referida no n.º 2.º deste anexo;\n\nAR(índice bj) - aplicações relevantes relativas às componentes referidas na alínea a) do n.º 1 do artigo 7.º do presente despacho;\n\nb) Subsídio a fundo perdido:\n\nIncentivo = I(índice fp) x AR(índice fp)\n\nem que:\n\nI(índice fp) - percentagem base relativa ao fundo perdido, de acordo com o n.º 1.º anterior, acrescida, se aplicável, da majoração referida no n.º 2.º deste anexo;\n\nAR(índice fp) - aplicações relevantes relativas às componentes referidas na alínea b) do n.º 1 do artigo 7.º do presente despacho.»"
+  },
+  "00c41c4c0df0d3a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs projectos que ainda não foram objecto de homologação, bem como aqueles cuja homologação esteja condicionada a disponibilidades orçamentais, poderão ser enquadrados na disciplina do presente despacho.\n\nMinistério da Economia, 7 Abril de 1999. - Pelo Ministro da Economia, Vítor Manuel Sampaio Caetano Ramalho, Secretário de Estado Adjunto do Ministro da Economia."
+  },
+  "22f00167a43a5157": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1999-05-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 10-AM/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-am-1999-347302), publicado em 1999-05-31."
+   ],
+   "markdown": "###### Artigo 1.º\n\nNo [Despacho Normativo n.º 61-C/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/61-c-1995-392855), de 17 de Outubro, a alínea e) do n.º 1 do artigo 4.º e os artigos 7.º, 10.º e 11.º passam a ter a seguinte redacção:\n\n«Artigo 4.º\n\n[...]\n\n1 - ...\n\n...\n\ne) Demonstrar que se encontram asseguradas as fontes de financiamento do projecto, bem como, através de declaração de uma entidade bancária protocolada com o IAPMEI a apresentar no prazo de 45 dias úteis a contar da data da candidatura, que está aprovado um empréstimo bancário com um período de vida até sete anos, os quais incluirão um período de utilização e carência até dois anos, sendo os reembolsos efectuados em semestralidades constantes de capital.\n\nArtigo 7.º\n\nIncentivos\n\n1 - Os incentivos a conceder no âmbito deste Regime podem revestir as seguintes formas:\n\na) Bonificação da taxa de juro, através do pagamento de juros devidos pelos promotores às instituições de crédito protocolares, acrescidos do respectivo imposto do selo, resultantes dos empréstimos bancários obtidos para as componentes do projecto de investimento a que se referem as alíneas a) a h), k) e l) do n.º 1 e o n.º 2 do artigo anterior;\n\nb) Subsídio a fundo perdido para as restantes componentes não directamente produtivas do projecto, consideradas no artigo anterior.\n\n2 - Poderá ainda ser objecto de bonificação da taxa de juro o valor excedente a que se refere a alínea c) do n.º 2 do artigo 10.º, com o limite aí referido.\n\n3 - Os incentivos relativos a aplicações relevantes realizadas no estrangeiro serão sempre concretizados através da bonificação da taxa de juro.\n\nArtigo 10.º\n\nLimites do incentivo\n\n1 - ...\n\n2 - Os limites máximos do incentivo a conceder são os seguintes:\n\na) Para as empresas com projectos já homologados no âmbito do presente Regime de Apoio:\n\nJuros correspondentes a um empréstimo bancário de 800000 contos por empresa, salvo o disposto na alínea c) seguinte;\n\n400000 contos por empresa, quando o incentivo revista a forma de subsídio a fundo perdido;\n\nb) Para outras empresas:\n\nJuros correspondentes a um empréstimo bancário de 500000 contos por empresa, salvo o disposto na alínea c) seguinte;\n\n250000 contos por empresa, quando o incentivo revista a forma de subsídio a fundo perdido;\n\nc) Sempre que o montante calculado do subsídio a fundo perdido seja superior a 400000 contos ou a 250000 contos, conforme se trate, respectivamente, das alíneas a) ou b) anteriores, o valor excedente poderá ser transformado em bonificação de juro de um empréstimo bancário no montante máximo de, também respectivamente, 900000 contos ou 600000 contos por empresa.\n\n3 - Em nenhum caso o incentivo a atribuir a cada projecto poderá ultrapassar os limites fixados nas alíneas b) e c) do n.º 2.\n\n4 - O montante total do incentivo a conceder não poderá exceder dois terços do custo total do investimento.\n\nArtigo 11.º\n\nBonificação de juros\n\n1 - A bonificação dos juros corresponderá aos encargos que o promotor suporte durante o período de vida do empréstimo, com o limite de sete anos, incluindo o período de utilização e carência.\n\n2 - As taxas máximas de juro e as outras condições dos empréstimos a bonificar serão reguladas em protocolos a estabelecer entre o IAPMEI e as instituições de crédito financiadoras.»\n\n> Alterado pelo/a [Declaração de Rectificação n.º 10-AM/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-am-1999-347302), publicado em 1999-05-31."
+  }
+ }
+}

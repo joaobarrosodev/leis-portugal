@@ -1,0 +1,983 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:485267:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-10-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0f17128e8d6a8b3f",
+    "587966990ae82dfc",
+    "44c03c9e2c5d1c99",
+    "34fc7213603c929e",
+    "3ad11f800dc5f260",
+    "4268f83425641114",
+    "00187a40f7f880a5",
+    "69d3a8bb842df28d",
+    "7f1098bd88d3d6b0",
+    "9a08427ceb8ca3a7",
+    "67602fe6d7726b35",
+    "dbc5d5bf2f80955e",
+    "9d4fec2471d5742a",
+    "94801788a3cb3341",
+    "23836370ae405d04",
+    "ae5aee1fe6d70ac1",
+    "488ecc521e5504f3",
+    "86689e6e9cb73b03",
+    "81d080cbc38561a4",
+    "63db19060eee78e0",
+    "31051622e7c4f733",
+    "5eee2253c1b77c30",
+    "063554d35320a752",
+    "7131c5a41ba694d8",
+    "8686d7f4f7dc1cbe",
+    "b70cd3236bab48db",
+    "94a7395690397ad8",
+    "066a13c94e5aa360",
+    "90941abb1f3ebdb5",
+    "6b24b1b2ac78b276",
+    "1c0180300f205ea3",
+    "a95836ccf929cfec",
+    "e3a973516d8d46f4",
+    "2bcfc72d34a98259",
+    "97b6b70d111ec9ad",
+    "a9da6c5d940d5615",
+    "27ad792509ed483c",
+    "78b86b892b6f6b28",
+    "63b381ade64a7759",
+    "22e26b86daa7842d",
+    "89c579b13dfbf8c3",
+    "4295f3782a3b8a8d",
+    "5bce2f85ee8a67b7",
+    "b785d2b800110bb9",
+    "afac002e5c5de43c",
+    "0c8c1e19012d4475",
+    "58a0270cdd297b4d",
+    "0676d67ae2b2ddc0",
+    "6afb4662e2dd0577",
+    "369e989ac60e4ee9",
+    "93e38d1917d71a6e",
+    "e1ccd3cb893315ff",
+    "4f5f53e878089933",
+    "b197a326c1184987",
+    "91ceb478cf853f76",
+    "b5e2406dd7b051b2",
+    "1dd33081b9aed3c0",
+    "2d811020fb73b3fa",
+    "ab2b356d3f2d92ab",
+    "b7029a7805a3bf97",
+    "910e0137073b6d1f",
+    "cf1c628d204a5ecb",
+    "632b0e23fb97671c",
+    "4d8a538c8578ea9b",
+    "5b20a5779d93f14f",
+    "0eb86bbbe694ed0a",
+    "ffcb7414a371505c",
+    "4a9d1d97d144d683",
+    "34962b2431ed0e6e",
+    "5742f4386b35be37",
+    "7e68584c9d9ff00c",
+    "327ec6f66d18ce47",
+    "a1283ca7de0dec92",
+    "8e09c87bbd79c160",
+    "f6a61747f702bd1d",
+    "dc058c845f1d672b",
+    "965016d18aed9656",
+    "b1fde3a6f91080aa",
+    "3984a7d24cd85d19",
+    "b689d20b20425b46",
+    "ce236d82c7c63a66",
+    "cdc86f8c17c1756c",
+    "2ac19a85e45ac7b2",
+    "4a2df7a259c3345a",
+    "43c6edf962ccf037",
+    "a645d19cb7e4e2ea",
+    "2b30872cceda9a20",
+    "79b94be3dbad2bab",
+    "affbe1c008803487",
+    "7b98307330e29bd3",
+    "e1b889b39c737800"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344942:por",
+     "title": "Lei n.º 55-A/2010",
+     "published": "2010-12-31",
+     "dre_path": "/dr/detalhe/lei/55-a-2010-344942"
+    },
+    {
+     "id": "pt:dre:243769:por",
+     "title": "Lei n.º 64-B/2011",
+     "published": "2011-12-30",
+     "dre_path": "/dr/detalhe/lei/64-b-2011-243769"
+    },
+    {
+     "id": "pt:dre:164404:por",
+     "title": "Lei n.º 83-C/2013",
+     "published": "2013-12-31",
+     "dre_path": "/dr/detalhe/lei/83-c-2013-164404"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "0f17128e8d6a8b3f",
+    "587966990ae82dfc",
+    "44c03c9e2c5d1c99",
+    "34fc7213603c929e",
+    "3ad11f800dc5f260",
+    "4268f83425641114",
+    "00187a40f7f880a5",
+    "69d3a8bb842df28d",
+    "7f1098bd88d3d6b0",
+    "08364b41a299e728",
+    "e9dbd50873413128",
+    "dbc5d5bf2f80955e",
+    "9d4fec2471d5742a",
+    "94801788a3cb3341",
+    "23836370ae405d04",
+    "ae5aee1fe6d70ac1",
+    "488ecc521e5504f3",
+    "86689e6e9cb73b03",
+    "81d080cbc38561a4",
+    "63db19060eee78e0",
+    "31051622e7c4f733",
+    "5eee2253c1b77c30",
+    "063554d35320a752",
+    "7131c5a41ba694d8",
+    "8686d7f4f7dc1cbe",
+    "b70cd3236bab48db",
+    "94a7395690397ad8",
+    "066a13c94e5aa360",
+    "90941abb1f3ebdb5",
+    "6b24b1b2ac78b276",
+    "1c0180300f205ea3",
+    "a95836ccf929cfec",
+    "e3a973516d8d46f4",
+    "2bcfc72d34a98259",
+    "97b6b70d111ec9ad",
+    "a9da6c5d940d5615",
+    "27ad792509ed483c",
+    "78b86b892b6f6b28",
+    "63b381ade64a7759",
+    "22e26b86daa7842d",
+    "89c579b13dfbf8c3",
+    "4295f3782a3b8a8d",
+    "5bce2f85ee8a67b7",
+    "b785d2b800110bb9",
+    "afac002e5c5de43c",
+    "0c8c1e19012d4475",
+    "58a0270cdd297b4d",
+    "0676d67ae2b2ddc0",
+    "6afb4662e2dd0577",
+    "369e989ac60e4ee9",
+    "93e38d1917d71a6e",
+    "e1ccd3cb893315ff",
+    "4f5f53e878089933",
+    "b197a326c1184987",
+    "91ceb478cf853f76",
+    "b5e2406dd7b051b2",
+    "1dd33081b9aed3c0",
+    "2d811020fb73b3fa",
+    "ab2b356d3f2d92ab",
+    "b7029a7805a3bf97",
+    "910e0137073b6d1f",
+    "cf1c628d204a5ecb",
+    "632b0e23fb97671c",
+    "4d8a538c8578ea9b",
+    "5b20a5779d93f14f",
+    "0eb86bbbe694ed0a",
+    "ffcb7414a371505c",
+    "4a9d1d97d144d683",
+    "34962b2431ed0e6e",
+    "5742f4386b35be37",
+    "7e68584c9d9ff00c",
+    "327ec6f66d18ce47",
+    "a1283ca7de0dec92",
+    "8e09c87bbd79c160",
+    "f6a61747f702bd1d",
+    "dc058c845f1d672b",
+    "965016d18aed9656",
+    "b1fde3a6f91080aa",
+    "3984a7d24cd85d19",
+    "b689d20b20425b46",
+    "ce236d82c7c63a66",
+    "cdc86f8c17c1756c",
+    "2ac19a85e45ac7b2",
+    "4a2df7a259c3345a",
+    "43c6edf962ccf037",
+    "a645d19cb7e4e2ea",
+    "2b30872cceda9a20",
+    "79b94be3dbad2bab",
+    "affbe1c008803487",
+    "7b98307330e29bd3",
+    "e1b889b39c737800"
+   ]
+  }
+ ],
+ "fragments": {
+  "0f17128e8d6a8b3f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Outubro\n\nAltera o regime relativo a pensões e subvenções dos titulares de cargos políticos e o regime remuneratório dos titulares de cargos executivos de autarquias locais.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "587966990ae82dfc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Alteração à [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração à [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril\n\nOs artigos 1.º, 17.º, 21.º e 22.º e a epígrafe do capítulo VII da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, alterada pelas Leis n.os [16/87](https://diariodarepublica.pt/dr/detalhe/lei/16-1987-421861), de 1 de Junho, [102/88](https://diariodarepublica.pt/dr/detalhe/lei/102-1988-379726), de 25 de Agosto, [26/95](https://diariodarepublica.pt/dr/detalhe/lei/26-1995-434629), de 18 de Agosto, e [3/2001](https://diariodarepublica.pt/dr/detalhe/lei/3-2001-386237), de 23 de Fevereiro, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\n2 - São titulares de cargos políticos, para efeitos da presente lei:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) Os Representantes da República nas Regiões Autónomas;\n\ne) ...\n\n3 - ...\n\nArtigo 17.º\n\n[...]\n\n1 - Os deputados que residam fora dos concelhos de Lisboa, Oeiras, Cascais, Loures, Sintra, Vila Franca de Xira, Almada, Seixal, Barreiro, Amadora e Odivelas têm direito à ajuda de custo fixada para os membros do Governo, abonada por cada dia de presença em reunião plenária, de comissões ou em outras reuniões convocadas pelo Presidente da Assembleia da República e mais dois dias por semana.\n\n2 - Os deputados que residam nos concelhos de Lisboa, Oeiras, Cascais, Loures, Sintra, Vila Franca de Xira, Almada, Seixal, Barreiro, Amadora e Odivelas têm direito a um terço da ajuda de custo fixada no número anterior.\n\n3 - ...\n\n4 - ...\n\nCAPÍTULO VII\n\nRepresentantes da República nas Regiões Autónomas\n\nArtigo 21.º\n\nRemunerações dos Representantes da República nas Regiões Autónomas\n\n1 - Os Representantes da República nas Regiões Autónomas percebem mensalmente um vencimento correspondente a 65% do vencimento do Presidente da República.\n\n2 - Os Representantes da República nas Regiões Autónomas têm direito a um abono mensal para despesas de representação no valor de 40% do respectivo vencimento.\n\nArtigo 22.º\n\n[...]\n\nOs Representantes da República nas Regiões Autónomas têm direito a residência oficial.»"
+  },
+  "44c03c9e2c5d1c99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Alteração à [Lei n.º 29/87](https://diariodarepublica.pt/dr/detalhe/lei/29-1987-419455), de 30 de Junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à [Lei n.º 29/87](https://diariodarepublica.pt/dr/detalhe/lei/29-1987-419455), de 30 de Junho\n\nOs artigos 3.º, 5.º, 6.º, 7.º, 8.º, 13.º e 24.º da [Lei n.º 29/87](https://diariodarepublica.pt/dr/detalhe/lei/29-1987-419455), de 30 de Junho, alterada pelas Leis n.os [97/89](https://diariodarepublica.pt/dr/detalhe/lei/97-1989-550392), de 15 de Dezembro, [1/91](https://diariodarepublica.pt/dr/detalhe/lei/1-1991-694043), de 10 de Janeiro, [11/91](https://diariodarepublica.pt/dr/detalhe/lei/11-1991-639483), de 17 de Maio, [11/96](https://diariodarepublica.pt/dr/detalhe/lei/11-1996-571653), de 18 de Abril, [127/97](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), de 11 de Dezembro, [50/99](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), de 24 de Junho, [86/2001](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), de 10 de Agosto, e [22/2004](https://diariodarepublica.pt/dr/detalhe/lei/22-2004-273184), de 17 de Junho, passam a ter a seguinte redacção:\n\n«Artigo 3.º\n\nExclusividade e incompatibilidades\n\n1 - Os presidente e vereadores de câmaras municipais, mesmo em regime de permanência, podem exercer outras actividades, devendo comunicá-las, quando de exercício continuado, quanto à sua natureza e identificação, ao Tribunal Constitucional e à assembleia municipal, na primeira reunião desta a seguir ao início do mandato ou previamente à entrada em funções nas actividades não autárquicas.\n\n2 - O disposto no número anterior não revoga os regimes de incompatibilidades e impedimentos previstos noutras leis para o exercício de cargos ou actividades profissionais.\n\n3 - Não perdem o mandato os funcionários da administração central, regional e local que, durante o exercício de permanência, forem colocados, por motivos de admissão ou promoção, nas situações de inelegibilidade previstas na alínea h) do n.º 1 do artigo 6.º e nas alíneas a) e b) do n.º 1 do artigo 7.º da [Lei Orgânica n.º 1/2001](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2001-524039), de 14 de Agosto.\n\nArtigo 5.º\n\n[...]\n\n1 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) [Anterior alínea o).]\n\nn) [Anterior alínea p).]\n\no) [Anterior alínea q).]\n\np) [Anterior alínea r).]\n\nq) [Anterior alínea s).]\n\nr) [Anterior alínea t).]\n\n2 - Os direitos referidos nas alíneas a), b), e), f), p), q) e r) do número anterior apenas são concedidos aos eleitos em regime de permanência.\n\n3 - ...\n\nArtigo 6.º\n\n[...]\n\n1 - ...\n\n2 - O valor base das remunerações dos presidentes das câmaras municipais é fixado por referência ao vencimento base atribuído ao Presidente da República, de acordo com os índices seguintes, arredondado para a unidade de euro imediatamente superior:\n\na) Municípios de Lisboa e Porto - 55%;\n\nb) Municípios com 40000 ou mais eleitores - 50%;\n\nc) Municípios com mais de 10000 e menos de 40000 eleitores - 45%;\n\nd) Restantes municípios - 40%.\n\n3 - ...\n\n4 - ...\n\nArtigo 7.º\n\n[...]\n\n1 - ...\n\na) Aqueles que exerçam exclusivamente funções autárquicas, ou em acumulação com o desempenho não remunerado de funções privadas, recebem a totalidade das remunerações previstas no artigo anterior;\n\nb) Aqueles que exerçam funções remuneradas de natureza privada percebem 50% do valor de base da remuneração, sem prejuízo da totalidade das regalias sociais a que tenham direito;\n\nc) Aqueles que, nos termos da lei, exerçam funções em entidades do sector público empresarial participadas pelo respectivo município não podem acrescer à sua remuneração de autarca, a título daquelas funções, e seja qual for a natureza das prestações, um montante superior a um terço do valor de base da remuneração fixada no artigo anterior;\n\nd) Aqueles que, nos termos da lei, exerçam outras actividades em entidades públicas ou em entidades do sector público empresarial não participadas pelo respectivo município apenas podem perceber as remunerações previstas no artigo anterior.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\nArtigo 8.º\n\n[...]\n\nOs eleitos locais em regime de meio tempo têm direito a metade das remunerações e subsídios fixados para os respectivos cargos em regime de tempo inteiro, sendo-lhes aplicável o limite constante da alínea c) do n.º 1 do artigo anterior.\n\nArtigo 13.º\n\n[...]\n\nAos eleitos locais em regime de permanência é aplicável o regime geral de segurança social.\n\nArtigo 24.º\n\n[...]\n\n1 - As remunerações, compensações, subsídios e demais encargos previstos na presente lei são suportados pelo orçamento da respectiva autarquia local.\n\n2 - ...\n\n3 - ...»"
+  },
+  "34fc7213603c929e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Alteração à [Lei n.º 9/91](https://diariodarepublica.pt/dr/detalhe/lei/9-1991-614291), de 9 de Abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração à [Lei n.º 9/91](https://diariodarepublica.pt/dr/detalhe/lei/9-1991-614291), de 9 de Abril\n\nOs artigos 9.º e 13.º da [Lei n.º 9/91](https://diariodarepublica.pt/dr/detalhe/lei/9-1991-614291), de 9 de Abril, alterada pela [Lei n.º 30/96](https://diariodarepublica.pt/dr/detalhe/lei/30-1996-405763), de 14 de Agosto, passam a ter a seguinte redacção:\n\n«Artigo 9.º\n\n[...]\n\nO Provedor de Justiça tem os direitos, honras, precedência, categoria, remunerações e regalias idênticas às de ministro, incluindo as constantes da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, designadamente nos n.os 1 e 2 do seu artigo 12.º\n\nArtigo 13.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O Provedor de Justiça beneficia do regime geral de segurança social.»"
+  },
+  "3ad11f800dc5f260": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Alteração à [Lei n.º 7/93](https://diariodarepublica.pt/dr/detalhe/lei/7-1993-626808), de 1 de Março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração à [Lei n.º 7/93](https://diariodarepublica.pt/dr/detalhe/lei/7-1993-626808), de 1 de Março\n\nO artigo 18.º da [Lei n.º 7/93](https://diariodarepublica.pt/dr/detalhe/lei/7-1993-626808), de 1 de Março, alterada pelas Leis n.os [24/95](https://diariodarepublica.pt/dr/detalhe/lei/24-1995-434632), de 18 de Agosto, [55/98](https://diariodarepublica.pt/dr/detalhe/lei/55-1998-437238), de 18 de Agosto, [8/99](https://diariodarepublica.pt/dr/detalhe/lei/8-1999-169957), de 10 de Fevereiro, [45/99](https://diariodarepublica.pt/dr/detalhe/lei/45-1999-306927), de 16 de Junho, e [3/2001](https://diariodarepublica.pt/dr/detalhe/lei/3-2001-386237), de 23 de Fevereiro, passa a ter a seguinte redacção:\n\n«Artigo 18.º\n\n[...]\n\n1 - Os deputados beneficiam do regime geral de segurança social.\n\n2 - ...»"
+  },
+  "4268f83425641114": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Alteração ao [Decreto-Lei n.º 252/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1992-584790), de 19 de Novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao [Decreto-Lei n.º 252/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1992-584790), de 19 de Novembro\n\nO artigo 20.º do [Decreto-Lei n.º 252/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1992-584790), de 19 de Novembro, alterado pelos Decretos-Leis n.os [316/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), de 28 de Novembro, [213/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), de 2 de Agosto, e [264/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), de 25 de Novembro, passa a ter a seguinte redacção:\n\n«Artigo 20.º\n\nSegurança social\n\nOs governadores e vice-governadores civis em regime de permanência beneficiam do regime geral de segurança social.»"
+  },
+  "00187a40f7f880a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\n1 - São revogados o n.º 2 do artigo 20.º e os artigos 24.º, 25.º, 26.º, 27.º, 28.º, 30.º, 31.º e 33.º da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, alterada pelas Leis n.os [16/87](https://diariodarepublica.pt/dr/detalhe/lei/16-1987-421861), de 1 de Junho, [102/88](https://diariodarepublica.pt/dr/detalhe/lei/102-1988-379726), de 25 de Agosto, [26/95](https://diariodarepublica.pt/dr/detalhe/lei/26-1995-434629), de 18 de Agosto, e [3/2001](https://diariodarepublica.pt/dr/detalhe/lei/3-2001-386237), de 23 de Fevereiro.\n\n2 - É revogado o n.º 3 do artigo 1.º da [Lei n.º 144/85](https://diariodarepublica.pt/dr/detalhe/lei/144-1985-546431), de 31 de Dezembro.\n\n3 - São revogados os artigos 13.º-A, 18.º, 18.º-A, 18.º-B, 18.º-C, 18.º-D, 19.º e 27.º da [Lei n.º 29/87](https://diariodarepublica.pt/dr/detalhe/lei/29-1987-419455), de 30 de Junho, alterada pelas Leis n.os [97/89](https://diariodarepublica.pt/dr/detalhe/lei/97-1989-550392), de 15 de Dezembro, [1/91](https://diariodarepublica.pt/dr/detalhe/lei/1-1991-694043), de 10 de Janeiro, [11/91](https://diariodarepublica.pt/dr/detalhe/lei/11-1991-639483), de 17 de Maio, [11/96](https://diariodarepublica.pt/dr/detalhe/lei/11-1996-571653), de 18 de Abril, [127/97](https://diariodarepublica.pt/dr/detalhe/lei/127-1997-404521), de 11 de Dezembro, [50/99](https://diariodarepublica.pt/dr/detalhe/lei/50-1999-390240), de 24 de Junho, [86/2001](https://diariodarepublica.pt/dr/detalhe/lei/86-2001-522220), de 10 de Agosto, e [22/2004](https://diariodarepublica.pt/dr/detalhe/lei/22-2004-273184), de 17 de Junho.\n\n4 - São revogados os n.os 2 e 3 do artigo 16.º e os artigos 19.º, 21.º e 22.º do [Decreto-Lei n.º 252/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1992-584790), de 19 de Novembro, alterado pelos Decretos-Leis n.os [316/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1995-626589), de 28 de Novembro, [213/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2001-379708), de 2 de Agosto, e [264/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2002-448163), de 25 de Novembro."
+  },
+  "69d3a8bb842df28d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Inscrição na Caixa Geral de Aposentações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inscrição na Caixa Geral de Aposentações\n\n1 - Os titulares de cargos políticos ou equiparados que tenham sido inscritos na Caixa Geral de Aposentações ao abrigo das disposições alteradas ou revogadas pela presente lei mantêm a qualidade de subscritores, continuando os descontos para aposentação e pensão de sobrevivência e, quando devidas, as contribuições das entidades empregadoras a incidir sobre as remunerações dos cargos pelos quais se encontram inscritos.\n\n2 - Os titulares de cargos políticos que estejam inscritos na Caixa Geral de Aposentações à data da entrada em vigor da presente lei ou que nela sejam inscritos por força de outras disposições legais que não as referidas na presente lei mantêm essa inscrição e o regime correspondente."
+  },
+  "7f1098bd88d3d6b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime transitório\n\nAos titulares de cargos políticos que, até ao termo dos mandatos em curso, preencham os requisitos para beneficiar dos direitos conferidos pelas disposições alteradas ou revogadas pelos artigos anteriores são aplicáveis, para todos os efeitos, aqueles regimes legais, computando-se, nas regras de cálculo, apenas o número de anos de exercício efectivo de funções verificado à data da entrada em vigor da presente lei, independentemente da data do requerimento e sem prejuízo dos limites máximos até aqui vigentes."
+  },
+  "9a08427ceb8ca3a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Limites às cumulações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Limites às cumulações\n\n1 - Nos casos em que os titulares de cargos políticos em exercício de funções se encontrem na condição de aposentados, pensionistas, reformados ou reservistas, independentemente do regime público ou privado que lhes seja aplicável, é-lhes mantida a pensão de aposentação, de reforma ou a remuneração na reserva, sendo-lhes abonada uma terça parte da remuneração base que competir a essas funções, ou, em alternativa, mantida a remuneração devida pelo exercício efectivo do cargo, acrescida de uma terça parte da pensão de aposentação, de reforma ou da remuneração na reserva que lhes seja devida.\n\n2 - O limite previsto no número anterior não se aplica às prestações de natureza privada a que tenham direito os respectivos titulares, salvo se tais prestações tiverem resultado de contribuições ou descontos obrigatórios.\n\n3 - A definição das condições de cumulação ao abrigo do n.º 1 é estabelecida em conformidade com declaração do interessado, para todos os efeitos legais."
+  },
+  "67602fe6d7726b35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Titulares de cargos políticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Titulares de cargos políticos\n\nConsideram-se titulares de cargos políticos para efeitos da presente lei:\n\na) Os deputados à Assembleia da República;\n\nb) Os membros do Governo;\n\nc) Os Representantes da República;\n\nd) O Provedor de Justiça;\n\ne) Os governadores e vice-governadores civis;\n\nf) Os eleitos locais em regime de tempo inteiro;\n\ng) Os deputados ao Parlamento Europeu;\n\nh) Os juízes do Tribunal Constitucional que não sejam magistrados de carreira."
+  },
+  "dbc5d5bf2f80955e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Republicação\n\nSão republicadas em anexo as Leis n.os [4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, e [29/87](https://diariodarepublica.pt/dr/detalhe/lei/29-1987-419455), de 30 de Junho, e é substituída a expressão «presente diploma» por «presente lei».\n\nAprovada em 15 de Setembro de 2005.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 6 de Outubro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 7 de Outubro de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "9d4fec2471d5742a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Republicação da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Republicação da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril\n\nEstatuto remuneratório dos titulares de cargos políticos"
+  },
+  "94801788a3cb3341": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO I — Remunerações dos titulares de cargos políticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Remunerações dos titulares de cargos políticos"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "ae5aee1fe6d70ac1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Titulares de cargos políticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Titulares de cargos políticos\n\n1 - A presente lei regula o estatuto remuneratório dos titulares de cargos políticos.\n\n2 - São titulares de cargos políticos, para efeitos da presente lei:\n\na) O Presidente da República;\n\nb) Os membros do Governo;\n\nc) Os deputados à Assembleia da República;\n\nd) Os Representantes da República nas Regiões Autónomas;\n\ne) Os membros do Conselho de Estado.\n\n3 - São equiparados a titulares de cargos políticos para os efeitos da presente lei os juízes do Tribunal Constitucional."
+  },
+  "488ecc521e5504f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Vencimentos e remunerações dos titulares de cargos políticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Vencimentos e remunerações dos titulares de cargos políticos\n\n1 - Os titulares de cargos políticos têm direito ao vencimento mensal, abonos para despesas de representação, ajudas de custo e demais abonos complementares ou extraordinários previstos na presente lei.\n\n2 - Os titulares de cargos políticos têm direito a perceber um vencimento extraordinário de montante igual ao do correspondente vencimento mensal, nos meses de Junho e de Novembro de cada ano.\n\n3 - Se o cargo político tiver sido exercido durante um ano por vários titulares, o vencimento extraordinário referido no número anterior será repartido por eles, proporcionalmente ao tempo em que exerceram funções, não se considerando períodos inferiores a 15 dias."
+  },
+  "86689e6e9cb73b03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Ajudas de custo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Ajudas de custo\n\n1 - Nas suas deslocações oficiais fora de Lisboa, no País ou ao estrangeiro, o Presidente da República, o Presidente da Assembleia da República, o Primeiro-Ministro e os demais membros do Governo têm direito a ajudas de custo fixadas na lei.\n\n2 - Os membros do Governo cujo departamento tenha sede fora de Lisboa têm direito a ajudas de custo nas suas deslocações oficiais fora da localização da sede.\n\n3 - Os juízes do Tribunal Constitucional auferem as ajudas de custo previstas na lei.\n\n4 - Os deputados à Assembleia da República auferem as ajudas de custo previstas no artigo 17.º\n\n5 - Os membros do Conselho de Estado auferem as ajudas de custo previstas no artigo 23.º, n.º 2."
+  },
+  "81d080cbc38561a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Viaturas oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Viaturas oficiais\n\n1 - Têm direito a veículos para uso pessoal os titulares dos seguintes cargos políticos:\n\na) Presidente da República;\n\nb) Presidente da Assembleia da República;\n\nc) Primeiro-Ministro e Vice-Primeiros-Ministros;\n\nd) Outros membros do Governo e entidades que por lei lhes estejam equiparadas;\n\ne) Presidente do Tribunal Constitucional.\n\n2 - Estes veículos serão distribuídos às entidades referidas no número anterior à razão de um para cada uma, à excepção das referidas nas alíneas a), b) e c), para as quais não existe tal limitação.\n\n3 - À utilização das viaturas oficiais atribuídas pela presente lei aplica-se o disposto no [Decreto-Lei n.º 50/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1978-447101), de 28 de Março."
+  },
+  "63db19060eee78e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Presidente da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Presidente da República"
+  },
+  "31051622e7c4f733": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Remunerações do Presidente da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Remunerações do Presidente da República\n\nO vencimento e os abonos mensais para despesas de representação do Presidente da República regem-se por lei especial."
+  },
+  "5eee2253c1b77c30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Residência oficial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Residência oficial\n\n1 - O Presidente da República tem direito a residência oficial.\n\n2 - A lei determina os edifícios públicos afectos ao Presidente da República para o exercício das suas funções, nomeadamente as de representação."
+  },
+  "063554d35320a752": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Presidente da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Presidente da Assembleia da República"
+  },
+  "7131c5a41ba694d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Remuneração do Presidente da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Remuneração do Presidente da Assembleia da República\n\n1 - O Presidente da Assembleia da República percebe mensalmente um vencimento correspondente a 80% do vencimento do Presidente da República.\n\n2 - O Presidente da Assembleia da República tem direito a um abono mensal para despesas de representação no valor de 40% do respectivo vencimento."
+  },
+  "8686d7f4f7dc1cbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Residência oficial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Residência oficial\n\n1 - O Presidente da Assembleia da República tem direito a residência oficial.\n\n2 - A lei determina os edifícios públicos afectos ao Presidente da Assembleia da República para o exercício das suas funções, nomeadamente as de representação."
+  },
+  "b70cd3236bab48db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Membros do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Membros do Governo"
+  },
+  "94a7395690397ad8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Remunerações do Primeiro-Ministro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Remunerações do Primeiro-Ministro\n\n1 - O Primeiro-Ministro percebe mensalmente um vencimento correspondente a 75% do vencimento do Presidente da República.\n\n2 - O Primeiro-Ministro tem direito a um abono mensal para despesas de representação no valor de 40% do respectivo vencimento."
+  },
+  "066a13c94e5aa360": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Residência oficial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Residência oficial\n\n1 - O Primeiro-Ministro tem direito a residência oficial.\n\n2 - A lei determina os edifícios públicos afectos ao Primeiro-Ministro para o exercício das suas funções, nomeadamente as de representação."
+  },
+  "90941abb1f3ebdb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Remunerações dos Vice-Primeiros-Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Remunerações dos Vice-Primeiros-Ministros\n\n1 - Os Vice-Primeiros-Ministros percebem mensalmente um vencimento correspondente a 70% do vencimento do Presidente da República.\n\n2 - Os Vice-Primeiros-Ministros têm direito a um abono mensal para despesas de representação no valor de 40% do respectivo vencimento."
+  },
+  "6b24b1b2ac78b276": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Remunerações dos ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Remunerações dos ministros\n\n1 - Os ministros percebem mensalmente um vencimento correspondente a 65% do vencimento do Presidente da República.\n\n2 - Os ministros têm direito a um abono mensal para despesas de representação no valor de 40% do respectivo vencimento."
+  },
+  "1c0180300f205ea3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Remunerações dos secretários de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Remunerações dos secretários de Estado\n\n1 - Os secretários de Estado percebem mensalmente um vencimento correspondente a 60% do vencimento do Presidente da República.\n\n2 - Os secretários de Estado têm direito a um abono mensal para despesas de representação no valor de 35% do respectivo vencimento."
+  },
+  "a95836ccf929cfec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Remunerações dos subsecretários de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Remunerações dos subsecretários de Estado\n\n1 - Os subsecretários de Estado percebem mensalmente um vencimento correspondente a 55% do vencimento do Presidente da República.\n\n2 - Os subsecretários de Estado têm direito a um abono mensal para despesas de representação no valor de 25% do respectivo vencimento."
+  },
+  "e3a973516d8d46f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Juízes do Tribunal Constitucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Juízes do Tribunal Constitucional"
+  },
+  "2bcfc72d34a98259": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Remuneração dos juízes do Tribunal Constitucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Remuneração dos juízes do Tribunal Constitucional\n\n1 - Os juízes do Tribunal Constitucional usufruem vencimento e regalias iguais aos dos juízes do Supremo Tribunal de Justiça.\n\n2 - O Presidente do Tribunal Constitucional tem direito a um abono para despesas de representação igual ao do Presidente do Supremo Tribunal de Justiça."
+  },
+  "97b6b70d111ec9ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Deputados à Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Deputados à Assembleia da República"
+  },
+  "a9da6c5d940d5615": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Remunerações dos deputados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Remunerações dos deputados\n\n1 - Os deputados percebem mensalmente um vencimento correspondente a 50% do vencimento do Presidente da República.\n\n2 - Os Vice-Presidentes da Assembleia da República e os membros do Conselho de Administração têm direito a um abono mensal para despesas de representação no montante de 25% do respectivo vencimento.\n\n3 - Os presidentes dos grupos parlamentares e os secretários da Mesa têm direito a um abono mensal para despesas de representação no montante de 20% do respectivo vencimento.\n\n4 - Os vice-presidentes dos grupos parlamentares que tenham um mínimo de 20 deputados têm direito a um abono para despesas de representação no montante de 15% do respectivo vencimento, havendo lugar à atribuição de idêntico abono por cada vice-presidente correspondente a mais de 20 deputados ou fracção superior a 10.\n\n5 - Os presidentes das comissões parlamentares permanentes e os vice-secretários da Mesa têm direito a um abono mensal para despesas de representação no montante de 15% do respectivo vencimento.\n\n6 - Os restantes deputados não referidos nos números anteriores têm direito a um abono mensal para despesas de representação no montante de 10% do respectivo vencimento desde que declarem no registo de interesses que não exercem regularmente qualquer actividade económica, remunerada ou de natureza liberal."
+  },
+  "27ad792509ed483c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Ajudas de custo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Ajudas de custo\n\n1 - Os deputados que residam fora dos concelhos de Lisboa, Oeiras, Cascais, Loures, Sintra, Vila Franca de Xira, Almada, Seixal, Barreiro, Amadora e Odivelas têm direito à ajuda de custo fixada para os membros do Governo, abonada por cada dia de presença em reunião plenária, de comissões ou em outras reuniões convocadas pelo Presidente da Assembleia da República e mais dois dias por semana.\n\n2 - Os deputados que residam nos concelhos de Lisboa, Oeiras, Cascais, Loures, Sintra, Vila Franca de Xira, Almada, Seixal, Barreiro, Amadora e Odivelas têm direito a um terço da ajuda de custo fixada no número anterior.\n\n3 - Os deputados residentes em círculo diferente daquele por que foram eleitos têm direito, durante o funcionamento efectivo da Assembleia da República, a ajudas de custo, até dois dias por semana, nas deslocações que, para o exercício das suas funções, efectuem ao círculo por onde foram eleitos.\n\n4 - Os deputados que, em missão da Assembleia, se desloquem para fora de Lisboa, no País ou no estrangeiro, têm direito às ajudas de custo fixadas para os membros do Governo."
+  },
+  "78b86b892b6f6b28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Senhas das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Senhas das comissões\n\n(Revogado.)"
+  },
+  "63b381ade64a7759": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Direito de opção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direito de opção\n\n(Revogado.)"
+  },
+  "22e26b86daa7842d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Regime fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regime fiscal\n\nAs remunerações e os subsídios percebidos pelos titulares de cargos abrangidos pela presente lei estão sujeitos ao regime fiscal aplicável aos funcionários públicos."
+  },
+  "89c579b13dfbf8c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Representantes da República nas Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Representantes da República nas Regiões Autónomas"
+  },
+  "4295f3782a3b8a8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Remunerações dos Representantes da República nas Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Remunerações dos Representantes da República nas Regiões Autónomas\n\n1 - Os Representantes da República nas Regiões Autónomas percebem mensalmente um vencimento correspondente a 65% do vencimento do Presidente da República.\n\n2 - Os Representantes da República nas Regiões Autónomas têm direito a um abono mensal para despesas de representação no valor de 40% do respectivo vencimento."
+  },
+  "5bce2f85ee8a67b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Residência oficial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Residência oficial\n\nOs Representantes da República nas Regiões Autónomas têm direito a residência oficial."
+  },
+  "b785d2b800110bb9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Membros do Conselho de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Membros do Conselho de Estado"
+  },
+  "afac002e5c5de43c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Reembolso de despesas dos membros do Conselho de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Reembolso de despesas dos membros do Conselho de Estado\n\n1 - Os membros do Conselho de Estado têm direito ao reembolso das despesas de transporte, público ou privado, que realizem no exercício ou por causa das suas funções.\n\n2 - Os membros do Conselho de Estado têm ainda direito às ajudas de custo fixadas para os membros do Governo, abonadas pelo dia ou dias seguidos de presença em reunião do Conselho.\n\n3 - O disposto neste artigo só é aplicável aos membros do Conselho de Estado designados pelo Presidente da República ou eleitos pela Assembleia da República."
+  },
+  "0c8c1e19012d4475": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO II — Subvenções dos titulares de cargos políticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Subvenções dos titulares de cargos políticos"
+  },
+  "58a0270cdd297b4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Subvenção mensal vitalícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Subvenção mensal vitalícia\n\n(Revogado.)"
+  },
+  "0676d67ae2b2ddc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Cálculo da subvenção mensal vitalícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Cálculo da subvenção mensal vitalícia\n\n(Revogado.)"
+  },
+  "6afb4662e2dd0577": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Suspensão da subvenção mensal vitalícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Suspensão da subvenção mensal vitalícia\n\n(Revogado.)"
+  },
+  "369e989ac60e4ee9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Acumulação de pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Acumulação de pensões\n\n(Revogado.)"
+  },
+  "93e38d1917d71a6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Transmissão do direito à subvenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Transmissão do direito à subvenção\n\n(Revogado.)"
+  },
+  "e1ccd3cb893315ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Subvenção em caso de incapacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Subvenção em caso de incapacidade\n\nQuando, no decurso do exercício das funções referidas no artigo 1.º, ou por causa delas, o titular do cargo se incapacitar física ou psiquicamente para o mesmo exercício tem direito a uma subvenção mensal correspondente a 50% do vencimento do respectivo cargo enquanto durar a incapacidade, desde que o incapacitado não aufira, por continuar titular do cargo, ou por o ter sido, nos termos deste decreto, vencimento ou subsídio superiores àquela subvenção."
+  },
+  "4f5f53e878089933": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Subvenção de sobrevivência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Subvenção de sobrevivência\n\n(Revogado.)"
+  },
+  "b197a326c1184987": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Subsídio de reintegração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Subsídio de reintegração\n\n(Revogado.)"
+  },
+  "91ceb478cf853f76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Disposições finais e transitórias"
+  },
+  "b5e2406dd7b051b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nNenhum deputado pode auferir outros direitos ou regalias de natureza patrimonial além dos previstos nesta lei."
+  },
+  "1dd33081b9aed3c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — (Revogado.)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Revogado.)"
+  },
+  "2d811020fb73b3fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Republicação da [Lei n.º 29/87](https://diariodarepublica.pt/dr/detalhe/lei/29-1987-419455), de 30 de Junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Republicação da [Lei n.º 29/87](https://diariodarepublica.pt/dr/detalhe/lei/29-1987-419455), de 30 de Junho\n\nEstatuto dos Eleitos Locais"
+  },
+  "ab2b356d3f2d92ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - A presente lei define o Estatuto dos Eleitos Locais.\n\n2 - Consideram-se eleitos locais, para efeitos da presente lei, os membros dos órgãos deliberativos e executivos dos municípios e das freguesias."
+  },
+  "b7029a7805a3bf97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Regime do desempenho de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime do desempenho de funções\n\n1 - Desempenham as respectivas funções em regime de permanência os seguintes eleitos locais:\n\na) Presidentes das câmaras municipais;\n\nb) Vereadores, em número e nas condições previstos na lei.\n\nc) Membros das juntas de freguesia em regime de tempo inteiro.\n\n2 - A câmara municipal poderá optar pela existência de vereadores em regime de meio tempo, correspondendo dois vereadores em regime de meio tempo a um vereador em regime de permanência.\n\n3 - Os membros de órgãos executivos que não exerçam as respectivas funções em regime de permanência ou de meio tempo serão dispensados das suas actividades profissionais, mediante aviso antecipado à entidade empregadora, para o exercício de actividades no respectivo órgão, nas seguintes condições:\n\na) Nos municípios: os vereadores, até trinta e duas horas mensais cada um;\n\nb) Nas freguesias de 20000 ou mais eleitores: o presidente da junta, até trinta e duas horas mensais, e dois membros, até vinte e quatro horas;\n\nc) Nas freguesias com mais de 5000 e até 20000 eleitores: o presidente da junta, até trinta e duas horas mensais, e dois membros, até dezasseis horas;\n\nd) Nas restantes freguesias: o presidente da junta, até trinta e duas horas, e um membro, até dezasseis horas.\n\n4 - Os membros dos órgãos deliberativos e consultivos são dispensados das suas funções profissionais, mediante aviso antecipado à entidade empregadora, quando o exija a sua participação em actos relacionados com as suas funções de eleitos, designadamente em reuniões dos órgãos e comissões a que pertencem ou em actos oficiais a que devem comparecer.\n\n5 - As entidades empregadoras dos eleitos locais referidos nos n.os 2, 3 e 4 do presente artigo têm direito à compensação dos encargos resultantes das dispensas.\n\n6 - Todas as entidades públicas e privadas estão sujeitas ao dever geral de cooperação para com os eleitos locais no exercício das suas funções."
+  },
+  "910e0137073b6d1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Exclusividade e incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Exclusividade e incompatibilidades\n\n1 - Os presidente e vereadores de câmaras municipais, mesmo em regime de permanência, podem exercer outras actividades, devendo comunicá-las, quando de exercício continuado, quanto à sua natureza e identificação, ao Tribunal Constitucional e à assembleia municipal, na primeira reunião desta a seguir ao início do mandato ou previamente à entrada em funções nas actividades não autárquicas.\n\n2 - O disposto no número anterior não revoga os regimes de incompatibilidades e impedimentos previstos noutras leis para o exercício de cargos ou actividades profissionais.\n\n3 - Não perdem o mandato os funcionários da administração central, regional e local que, durante o exercício de permanência, forem colocados, por motivos de admissão ou promoção, nas situações de inelegibilidade previstas na alínea h) do n.º 1 do artigo 6.º e nas alíneas a) e b) do n.º 1 do artigo 7.º da [Lei Orgânica n.º 1/2001](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2001-524039), de 14 de Agosto."
+  },
+  "cf1c628d204a5ecb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Deveres\n\nNo exercício das suas funções, os eleitos locais estão vinculados ao cumprimento dos seguintes princípios:\n\na) Em matéria de legalidade e direitos dos cidadãos:\n\ni) Observar escrupulosamente as normas legais e regulamentares aplicáveis aos actos por si praticados ou pelos órgãos a que pertencem;\n\nii) Cumprir e fazer cumprir as normas constitucionais e legais relativas à defesa dos interesses e direitos dos cidadãos no âmbito das suas competências;\n\niii) Actuar com justiça e imparcialidade;\n\nb) Em matéria de prossecução do interesse público:\n\ni) Salvaguardar e defender os interesses públicos do Estado e da respectiva autarquia;\n\nii) Respeitar o fim público dos poderes em que se encontram investidos;\n\niii) Não patrocinar interesses particulares, próprios ou de terceiros, de qualquer natureza, quer no exercício das suas funções, quer invocando a qualidade de membro de órgão autárquico;\n\niv) Não intervir em processo administrativo, acto ou contrato de direito público ou privado nem participar na apresentação, discussão ou votação de assuntos em que tenha interesse ou intervenção, por si ou como representante ou gestor de negócios de outra pessoa, ou em que tenha interesse ou intervenção em idênticas qualidades o seu cônjuge, parente ou afim em linha recta ou até ao 2.º grau da linha colateral, bem como qualquer pessoa com quem viva em economia comum;\n\nv) Não celebrar com a autarquia qualquer contrato, salvo de adesão;\n\nvi) Não usar, para fins de interesse próprio ou de terceiros, informações a que tenha acesso no exercício das suas funções;\n\nc) Em matéria de funcionamento dos órgãos de que sejam titulares:\n\ni) Participar nas reuniões ordinárias e extraordinárias dos órgãos autárquicos;\n\nii) Participar em todos os organismos onde estão em representação do município ou da freguesia."
+  },
+  "632b0e23fb97671c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direitos\n\n1 - Os eleitos locais têm direito:\n\na) A uma remuneração ou compensação mensal e a despesas de representação;\n\nb) A dois subsídios extraordinários anuais;\n\nc) A senhas de presença;\n\nd) A ajudas de custo e subsídio de transporte;\n\ne) À segurança social;\n\nf) A férias;\n\ng) A livre circulação em lugares públicos de acesso condicionado, quando em exercício das respectivas funções;\n\nh) A passaporte especial, quando em representação da autarquia;\n\ni) A cartão especial de identificação;\n\nj) A viatura municipal, quando em serviço da autarquia;\n\nl) A protecção em caso de acidente;\n\nm) A solicitar o auxílio de quaisquer autoridades, sempre que o exijam os interesses da respectiva autarquia local;\n\nn) À protecção conferida pela lei penal aos titulares de cargos públicos;\n\no) A apoio nos processos judiciais que tenham como causa o exercício das respectivas funções;\n\np) A uso e porte de arma de defesa;\n\nq) Ao exercício de todos os direitos previstos na legislação sobre protecção à maternidade e à paternidade;\n\nr) A subsídio de refeição, a abonar nos termos e quantitativos fixados para a Administração Pública.\n\n2 - Os direitos referidos nas alíneas a), b), e), f), p), q) e r) do número anterior apenas são concedidos aos eleitos em regime de permanência.\n\n3 - O direito referido na alínea h) do n.º 1 é exclusivo dos presidentes das câmaras municipais e dos seus substitutos legais."
+  },
+  "4d8a538c8578ea9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Remunerações dos eleitos locais em regime de permanência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Remunerações dos eleitos locais em regime de permanência\n\n1 - Os eleitos locais em regime de permanência têm direito a remuneração mensal, bem como a dois subsídios extraordinários, de montante igual àquela, em Junho e Novembro.\n\n2 - O valor base das remunerações dos presidentes das câmaras municipais é fixado por referência ao vencimento base atribuído ao Presidente da República, de acordo com os índices seguintes, arredondado para a unidade de euro imediatamente superior:\n\na) Municípios de Lisboa e Porto - 55%;\n\nb) Municípios com 40000 ou mais eleitores - 50%;\n\nc) Municípios com mais de 10000 e menos de 40000 eleitores - 45%;\n\nd) Restantes municípios - 40%.\n\n3 - As remunerações e subsídios extraordinários dos vereadores em regime de permanência correspondem a 80% do montante do valor base da remuneração a que tenham direito os presidentes dos respectivos órgãos.\n\n4 - Os eleitos locais em regime de permanência nas câmaras municipais têm direito às despesas de representação correspondentes a 30% das respectivas remunerações no caso do presidente e 20% para os vereadores, as quais serão pagas 12 vezes por ano."
+  },
+  "5b20a5779d93f14f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Regime de remunerações dos eleitos locais em regime de permanência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime de remunerações dos eleitos locais em regime de permanência\n\n1 - As remunerações fixadas no artigo anterior são atribuídas do seguinte modo:\n\na) Aqueles que exerçam exclusivamente funções autárquicas, ou em acumulação com o desempenho não remunerado de funções privadas, recebem a totalidade das remunerações previstas no artigo anterior;\n\nb) Aqueles que exerçam funções remuneradas de natureza privada percebem 50% do valor de base da remuneração, sem prejuízo da totalidade das regalias sociais a que tenham direito;\n\nc) Aqueles que, nos termos da lei, exerçam funções em entidades do sector público empresarial participadas pelo respectivo município não podem acrescer à sua remuneração de autarca, a título daquelas funções, e seja qual for a natureza das prestações, um montante superior a um terço do valor de base da remuneração fixada no artigo anterior;\n\nd) Aqueles que, nos termos da lei, exerçam outras actividades em entidades públicas ou em entidades do sector público empresarial não participadas pelo respectivo município apenas podem perceber as remunerações previstas no artigo anterior.\n\n2 - Para os efeitos do número anterior, não se considera acumulação o desempenho de actividades de que resulte a percepção de rendimentos provenientes de direitos de autor.\n\n3 - Para determinação do montante da remuneração, sempre que ocorra a opção legalmente prevista, são considerados os vencimentos, diuturnidades, subsídios, prémios, emolumentos, gratificações e outros abonos, desde que sejam permanentes, de quantitativo certo e atribuídos genericamente aos trabalhadores da categoria optante.\n\n4 - Os presidentes de câmaras municipais e os vereadores em regime de permanência que não optem pelo exclusivo exercício das suas funções terão de assegurar a resolução dos assuntos da sua competência no decurso do período de expediente público."
+  },
+  "0eb86bbbe694ed0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Remunerações dos eleitos locais em regime de meio tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Remunerações dos eleitos locais em regime de meio tempo\n\nOs eleitos locais em regime de meio tempo têm direito a metade das remunerações e subsídios fixados para os respectivos cargos em regime de tempo inteiro, sendo-lhes aplicável o limite constante da alínea c) do n.º 1 do artigo anterior."
+  },
+  "ffcb7414a371505c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Abonos aos titulares das juntas de freguesia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Abonos aos titulares das juntas de freguesia\n\n(Revogado.)"
+  },
+  "4a9d1d97d144d683": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Senhas de presença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Senhas de presença\n\n1 - Os eleitos locais que não se encontrem em regime de permanência ou de meio tempo têm direito a uma senha de presença por cada reunião ordinária ou extraordinária do respectivo órgão e das comissões a que compareçam e participem.\n\n2 - O quantitativo de cada senha de presença a que se refere o número anterior é fixado em 3%, 2,5% e 2% do valor base da remuneração do presidente da câmara municipal, respectivamente, para o presidente, secretários, restantes membros da assembleia municipal e vereadores."
+  },
+  "34962b2431ed0e6e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Ajudas de custo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Ajudas de custo\n\n1 - Os membros das câmaras municipais e das assembleias municipais têm direito a ajudas de custo a abonar nos termos e no quantitativo fixado para a letra A da escala geral do funcionalismo público quando se desloquem, por motivo de serviço, para fora da área do município.\n\n2 - Os vereadores em regime de não permanência e os membros da assembleia municipal têm direito a ajudas de custo quando se desloquem do seu domicílio para assistir às reuniões ordinárias e extraordinárias e das comissões dos respectivos órgãos."
+  },
+  "5742f4386b35be37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Subsídio de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Subsídio de transporte\n\n1 - Os membros das câmaras municipais e das assembleias municipais têm direito ao subsídio de transporte, nos termos e segundo a tabela em vigor para a função pública, quando se desloquem por motivo de serviço e não utilizem viaturas municipais.\n\n2 - Os vereadores em regime de não permanência e os membros da assembleia municipal têm direito a subsídio de transporte quando se desloquem do seu domicílio para assistirem às reuniões ordinárias e extraordinárias e das comissões dos respectivos órgãos."
+  },
+  "7e68584c9d9ff00c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Segurança social\n\nAos eleitos locais em regime de permanência é aplicável o regime geral de segurança social."
+  },
+  "327ec6f66d18ce47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º-A — Exercício do direito de opção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-A — Exercício do direito de opção\n\n(Revogado.)"
+  },
+  "a1283ca7de0dec92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Férias\n\nOs eleitos locais em regime de permanência ou de meio tempo têm direito a 30 dias de férias anuais."
+  },
+  "8e09c87bbd79c160": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Livre trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Livre trânsito\n\nOs eleitos locais têm direito à livre circulação em lugares públicos de acesso condicionado na área da sua autarquia, quando necessária ao efectivo exercício das respectivas funções autárquicas ou por causa delas, mediante a apresentação do cartão de identificação a que se refere o artigo seguinte."
+  },
+  "f6a61747f702bd1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Cartão especial de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cartão especial de identificação\n\n1 - Os eleitos locais têm direito a cartão especial de identificação, de modelo a aprovar por diploma do Ministério do Plano e da Administração do Território no prazo de 60 dias a contar da publicação da presente lei.\n\n2 - O cartão especial de identificação será emitido pelo presidente da assembleia municipal para os órgãos deliberativos e pelo presidente da câmara municipal para os órgãos executivos."
+  },
+  "dc058c845f1d672b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Seguro de acidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Seguro de acidentes\n\n1 - Os membros de órgãos autárquicos têm direito a um seguro de acidentes pessoais mediante deliberação do respectivo órgão, que fixará o seu valor.\n\n2 - Para os membros dos órgãos executivos em regime de permanência, o valor do seguro não pode ser inferior a 50 vezes a respectiva remuneração mensal."
+  },
+  "965016d18aed9656": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Contagem de tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Contagem de tempo de serviço\n\n(Revogado.)"
+  },
+  "b1fde3a6f91080aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º-A — Suspensão da reforma antecipada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-A — Suspensão da reforma antecipada\n\n(Revogado.)"
+  },
+  "3984a7d24cd85d19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º-B — Termos da bonificação do tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-B — Termos da bonificação do tempo de serviço\n\n(Revogado.)"
+  },
+  "b689d20b20425b46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º-C — Aumento para efeitos de aposentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-C — Aumento para efeitos de aposentação\n\n(Revogado.)"
+  },
+  "ce236d82c7c63a66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º-D — Bonificação de pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º-D — Bonificação de pensões\n\n(Revogado.)"
+  },
+  "cdc86f8c17c1756c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Subsídio de reintegração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Subsídio de reintegração\n\n(Revogado.)"
+  },
+  "2ac19a85e45ac7b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Protecção penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Protecção penal\n\nOs eleitos locais gozam da protecção conferida aos titulares dos cargos públicos pelo n.º 1 do artigo 1.º do [Decreto-Lei n.º 65/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1984-661340), de 24 de Fevereiro."
+  },
+  "4a2df7a259c3345a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Apoio em processos judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Apoio em processos judiciais\n\nConstituem encargos a suportar pelas autarquias respectivas as despesas provenientes de processos judiciais em que os eleitos locais sejam parte, desde que tais processos tenham tido como causa o exercício das respectivas funções e não se prove dolo ou negligência por parte dos eleitos."
+  },
+  "43c6edf962ccf037": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Garantia dos direitos adquiridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Garantia dos direitos adquiridos\n\n1 - Os eleitos locais não podem ser prejudicados na respectiva colocação ou emprego permanente por virtude do desempenho dos seus mandatos.\n\n2 - Os funcionários e agentes do Estado, de quaisquer pessoas colectivas de direito público e de empresas públicas ou nacionalizadas que exerçam as funções de presidente de câmara municipal ou de vereador em regime de permanência ou de meio tempo consideram-se em comissão extraordinária de serviço público.\n\n3 - Durante o exercício do respectivo mandato não podem os eleitos locais ser prejudicados no que respeita a promoções, concursos, regalias, gratificações, benefícios sociais ou qualquer outro direito adquirido de carácter não pecuniário.\n\n4 - O tempo de serviço prestado nas condições previstas na presente lei é contado como se tivesse sido prestado à entidade empregadora, salvo, no que respeita a remunerações, aquele que seja prestado por presidentes de câmara municipal e vereadores em regime de permanência ou de meio tempo."
+  },
+  "a645d19cb7e4e2ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Regime fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regime fiscal\n\nAs remunerações, compensações e quaisquer subsídios percebidos pelos eleitos locais no exercício das suas funções estão sujeitos ao regime fiscal aplicável aos titulares dos cargos políticos."
+  },
+  "2b30872cceda9a20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Encargos\n\n1 - As remunerações, compensações, subsídios e demais encargos previstos na presente lei são suportados pelo orçamento da respectiva autarquia local.\n\n2 - Os encargos derivados da participação dos presidentes das juntas de freguesia nas reuniões das assembleias municipais são suportados pelo orçamento dos municípios respectivos.\n\n3 - A suspensão do exercício dos mandatos dos eleitos locais faz cessar o processamento das remunerações e compensações, salvo quando aquela se fundamente em doença devidamente comprovada ou em licença por maternidade ou paternidade."
+  },
+  "79b94be3dbad2bab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Comissões administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Comissões administrativas\n\nAs normas da presente lei aplicam-se aos membros das comissões administrativas nomeadas na sequência de dissolução de órgãos autárquicos."
+  },
+  "affbe1c008803487": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Revogação\n\n1 - São revogadas as Leis n.os 9/81, de 26 de Junho, salvo o n.º 2 do artigo 3.º, e 7/87, de 28 de Janeiro.\n\n2 - O n.º 2 do artigo 3.º da [Lei n.º 9/81](https://diariodarepublica.pt/dr/detalhe/lei/9-1981-578374), de 26 de Junho, fica revogado com a realização das próximas eleições gerais autárquicas."
+  },
+  "7b98307330e29bd3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Disposições finais\n\n(Revogado.)"
+  },
+  "e1b889b39c737800": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entrada em vigor\n\nA presente lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "08364b41a299e728": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Limites às cumulações",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 172.º do/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.",
+    "Alterado pelo/a Artigo 203.º do/a [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), publicado em 2011-12-30.",
+    "Alterado pelo/a [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31."
+   ],
+   "markdown": "###### Artigo 9.º — Limites às cumulações\n\n1 - O exercício de quaisquer funções políticas ou públicas remuneradas por pensionista ou equiparado ou por beneficiário de subvenção mensal vitalícia determina a suspensão do pagamento da pensão ou prestação equiparada e da subvenção mensal vitalícia durante todo o período em que durar aquele exercício de funções.\n\n2 - O disposto no número anterior abrange, nomeadamente:\n\na) O exercício dos cargos de Presidente da República, Presidente da Assembleia da República, membro do Governo, Deputado à Assembleia da República, juiz do Tribunal Constitucional, Provedor de Justiça, Representante da República, membro dos Governos Regionais, deputado às Assembleias Legislativas das regiões autónomas, deputado ao Parlamento Europeu, embaixador, eleito local em regime de tempo inteiro, gestor público ou dirigente de instituto público autónomo;\n\nb) O exercício de funções a qualquer título em serviços da administração central, regional e autárquica, empresas públicas, entidades públicas empresariais, entidades que integrem o setor empresarial municipal ou regional e demais pessoas coletivas públicas;\n\nc) As pensões da CGA, nomeadamente de aposentação e de reforma, as pensões do CNP, as remunerações de reserva, pré-aposentação e disponibilidade auferidas por profissionais fora da efetividade de serviço, bem como aos titulares de pensões pagas por entidades gestoras de fundos de pensões ou planos de pensões de institutos públicos, de entidades administrativas independentes e de entidades pertencentes aos setores empresariais do Estado, regional e local.\n\n3 - O pagamento da pensão, da remuneração de reserva ou equiparada e da subvenção mensal vitalícia é retomado, depois de atualizadas aquelas prestações nos termos gerais, findo o período de suspensão.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - Os beneficiários de subvenções mensais vitalícias que exerçam quaisquer actividades privadas, incluindo de natureza liberal, só podem acumular a totalidade da subvenção com a remuneração correspondente à actividade privada desempenhada se esta for de valor inferior a três vezes o indexante dos apoios sociais (IAS).\n\n8 - Quando a remuneração correspondente à actividade provada desempenhada for de valor superior a três IAS, a subvenção mensal vitalícia é reduzida na parte excedente a três IAS até ao limite do valor da subvenção.\n\n9 - Para efeitos do disposto no número anterior, os beneficiários de subvenções mensais vitalícias comunicam à Caixa Geral de Aposentações, até ao dia 31 de Janeiro de cada ano, o montante dos rendimentos provenientes de actividade privada auferidos no ano civil anterior.\n\n10 - O incumprimento do dever de comunicação estabelecido no número anterior constitui o beneficiário de subvenção mensal vitalícia responsável pelo reembolso das importâncias que venha a abonar em consequência daquela omissão.\n\n> Alterado pelo/a Artigo 172.º do/a [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), publicado em 2010-12-31.\n\n> Alterado pelo/a Artigo 203.º do/a [Lei n.º 64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), publicado em 2011-12-30.\n\n> Alterado pelo/a [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31."
+  },
+  "e9dbd50873413128": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Titulares de cargos políticos",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31."
+   ],
+   "markdown": "###### Artigo 10.º — Titulares de cargos políticos\n\nPara efeitos da presente lei, consideram-se titulares de cargos políticos, sem prejuízo do disposto no artigo anterior:\n\na) Os deputados à Assembleia da República;\n\nb) Os membros do Governo;\n\nc) Os Representantes da República;\n\nd) O Provedor de Justiça;\n\ne) Os governadores e vice-governadores civis;\n\nf) Os eleitos locais em regime de tempo inteiro;\n\ng) Os deputados ao Parlamento Europeu;\n\nh) Os juízes do Tribunal Constitucional que não sejam magistrados de carreira.\n\ni) Os membros dos Governos Regionais;\n\nj) Os deputados às Assembleias Legislativas das regiões autónomas.\n\n> Alterado pelo/a [Lei n.º 83-C/2013](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), publicado em 2013-12-31."
+  }
+ }
+}

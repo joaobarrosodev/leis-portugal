@@ -1,0 +1,101 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:309908:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1974-11-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "32672f0e1c1f8859"
+   ]
+  },
+  {
+   "date": "1975-01-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:356760:por",
+     "title": "Decreto-Lei n.º 4/75",
+     "published": "1975-01-07",
+     "dre_path": "/dr/detalhe/decreto-lei/4-1975-356760"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "0f6c1dc66877869e",
+    "0be2266a2fefca70",
+    "8e69e02d94187432",
+    "ac11bbdaf19ad92e",
+    "abce60ee02855a7f",
+    "eb8a6ed86e33f550"
+   ]
+  }
+ ],
+ "fragments": {
+  "32672f0e1c1f8859": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Novembro\n\nConsiderando o disposto no artigo 8.º do [Decreto-Lei n.º 621-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-a-1974-309893), de 15 de Novembro;\n\nUsando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, e tendo sido dado cumprimento ao disposto na alínea a), 2.º, do n.º 1 do artigo 13.º da mesma lei, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Não são eleitores da Assembleia Constituinte os que, entre 28 de Maio de 1926 e 25 de Abril de 1974, tenham sido designados para desempenhar as funções de:\n\na) Presidente da República, Presidente do Conselho de Ministros, Ministro e membro do Conselho de Estado;\n\nb) Presidente e Vice-Presidente da Assembleia Nacional ou da Câmara Corporativa e leader na primeira;\n\nc) Juiz presidente do Supremo Tribunal de Justiça, do Supremo Tribunal Administrativo ou do Supremo Tribunal Militar;\n\nd) Juiz, salvo por inerência do cargo, e acusador dos tribunais militar especial e plenários criminais;\n\ne) Chefe do Estado-Maior-General das Forças Armadas e chefe do estado-maior dos três ramos das forças armadas;\n\nf) Governador civil e governador de distrito autónomo;\n\ng) Comandante-geral da Polícia de Segurança Pública ou da Guarda Nacional Republicana;\n\nh) Presidente e membro da junta consultiva e das comissões central e executiva das extintas União Nacional e Acção Nacional Popular;\n\ni) Presidente e membro da junta central, comandante-geral, 2.º comandante-geral, chefe e adjunto do estado-maior, comandante distrital, comandante distrital-adjunto e comandante de batalhão da ex-Legião Portuguesa e comandante, 2.º comandante e adjunto do Comando da Brigada Naval;\n\nj) Membro comprovado dos grupos de intervenção da frente automóvel de choque ou dos serviços secretos da ex-Legião Portuguesa;\n\nl) Dirigente da Liga 28 de Maio ou da Liga dos Antigos Graduados da Mocidade Portuguesa;\n\nm) Dirigente ou funcionário do quadro ou prestador de serviços das extintas Polícia de Informações, Polícia de Defesa Social, Polícia de Vigilância de Defesa do Estado, Polícia Internacional e de Defesa do Estado e da Direcção-Geral de Segurança;\n\nn) Comissário nacional e comissário nacional-adjunto das extintas Mocidade Portuguesa e Mocidade Portuguesa Feminina;\n\no) Presidente das comissões de censura ou exame prévio à imprensa, espectáculos, rádio e televisão.\n\nArt. 2.º Além dos indicados no artigo anterior, não são também elegíveis para a Assembleia Constituinte os que, entre 28 de Maio de 1926 e 25 de Abril de 1974, tenham sido designados para desempenhar funções de:\n\na) Presidente da câmara municipal;\n\nb) Membros das extintas União Nacional, Acção Nacional Popular, Legião Portuguesa, Brigada Naval e Movimento Nacional Feminino;\n\nc) Dirigente distrital das extintas Mocidade Portuguesa e Mocidade Portuguesa Feminina;\n\nd) Funcionário de categoria igual ou superior à de chefe de serviço nas organizações referidas nas alíneas h), i) e j) do artigo 1.º;\n\ne) Membro das comissões de censura ou exame prévio à imprensa, espectáculos, rádio e televisão;\n\nf) Informador comprovado das organizações referidas nas alíneas i) e m) do artigo 1.º;\n\ng) Membro da Liga 28 de Maio ou da Liga dos Antigos Graduados da Mocidade Portuguesa.\n\nArt. 3.º Não são abrangidos pelas incapacidades referidas nos artigos anteriores os cidadãos que, após 25 de Abril de 1974, tenham sido nomeados pelo Presidente da República, Movimento das Forças Armadas, Junta de Salvação Nacional ou Governo Provisório para o exercício de funções políticas, públicas ou de interesse público.\n\nArt. 4.º - 1. O tribunal de relação do distrito judicial da residência do interessado poderá, a requerimento deste, declarar não abrangidos pelas incapacidades previstas nos artigos 1.º e 2.º os que, anteriormente a 25 de Abril de 1974, hajam praticado actos de inequívoco repúdio do regime político deposto pelo Movimento das Forças Armadas ou se tenham conduzido em termos de a sua acção não constituir apoio efectivo a esse regime.\n\n2. O tribunal apreciará, livremente e sem recurso, os requerimentos e as provas dos respectivos fundamentos, podendo, para esclarecimento dos mesmos, ordenar oficiosamente as diligências que julgar indispensáveis.\n\n3. A apreciação dos requerimentos terá preferência sobre o exercício das demais funções do tribunal.\n\nArt. 5.º Este diploma entra imediatamente em vigor.\n\nVisto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás.\n\nVisto e aprovado em Conselho de Estado.\n\nPromulgado em 15 de Novembro de 1974.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "0f6c1dc66877869e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Novembro\n\nConsiderando o disposto no artigo 8.º do [Decreto-Lei n.º 621-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-a-1974-309893), de 15 de Novembro;\n\nUsando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, e tendo sido dado cumprimento ao disposto na alínea a), 2.º, do n.º 1 do artigo 13.º da mesma lei, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "0be2266a2fefca70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1975-01-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 4/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1975-356760), publicado em 1975-01-07."
+   ],
+   "markdown": "###### Artigo 1.º\n\nNão são eleitores da Assembleia Constituinte os que, entre 28 de Maio de 1926 e 25 de Abril de 1974, tenham sido designados para desempenhar as funções de:\n\na) Presidente da República, Presidente do Conselho de Ministros, Ministro e membro do Conselho de Estado;\n\nb) Presidente e Vice-Presidente da Assembleia Nacional ou da Câmara Corporativa e leader na primeira;\n\nc) Juiz presidente do Supremo Tribunal de Justiça, do Supremo Tribunal Administrativo ou do Supremo Tribunal Militar;\n\nd) Juiz e acusador dos tribunais militar especial e plenários criminais.\n\ne) Chefe do Estado-Maior-General das Forças Armadas e chefe do estado-maior dos três ramos das forças armadas;\n\nf) Governador civil e governador de distrito autónomo;\n\ng) Comandante-geral da Polícia de Segurança Pública ou da Guarda Nacional Republicana;\n\nh) Presidente e membro da junta consultiva e das comissões central e executiva das extintas União Nacional e Acção Nacional Popular;\n\ni) Presidente e membro da junta central, comandante-geral, 2.º comandante-geral, chefe e adjunto do estado-maior, comandante distrital, comandante distrital-adjunto e comandante de batalhão da ex-Legião Portuguesa e comandante, 2.º comandante e adjunto do Comando da Brigada Naval;\n\nj) Membro comprovado dos grupos de intervenção da frente automóvel de choque ou dos serviços secretos da ex-Legião Portuguesa;\n\nl) Dirigente da Liga 28 de Maio ou da Liga dos Antigos Graduados da Mocidade Portuguesa;\n\nm) Dirigente ou funcionário do quadro ou prestador de serviços das extintas Polícia de Informações, Polícia de Defesa Social, Polícia de Vigilância de Defesa do Estado, Polícia Internacional e de Defesa do Estado e da Direcção-Geral de Segurança;\n\nn) Comissário nacional e comissário nacional-adjunto das extintas Mocidade Portuguesa e Mocidade Portuguesa Feminina;\n\no) Presidente das comissões de censura ou exame prévio à imprensa, espectáculos, rádio e televisão.\n\np) Procurador-geral da República.\n\n> Alterado pelo/a [Decreto-Lei n.º 4/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1975-356760), publicado em 1975-01-07."
+  },
+  "8e69e02d94187432": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAlém dos indicados no artigo anterior, não são também elegíveis para a Assembleia Constituinte os que, entre 28 de Maio de 1926 e 25 de Abril de 1974, tenham sido designados para desempenhar funções de:\n\na) Presidente da câmara municipal;\n\nb) Membros das extintas União Nacional, Acção Nacional Popular, Legião Portuguesa, Brigada Naval e Movimento Nacional Feminino;\n\nc) Dirigente distrital das extintas Mocidade Portuguesa e Mocidade Portuguesa Feminina;\n\nd) Funcionário de categoria igual ou superior à de chefe de serviço nas organizações referidas nas alíneas h), i) e j) do artigo 1.º;\n\ne) Membro das comissões de censura ou exame prévio à imprensa, espectáculos, rádio e televisão;\n\nf) Informador comprovado das organizações referidas nas alíneas i) e m) do artigo 1.º;\n\ng) Membro da Liga 28 de Maio ou da Liga dos Antigos Graduados da Mocidade Portuguesa."
+  },
+  "ac11bbdaf19ad92e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNão são abrangidos pelas incapacidades referidas nos artigos anteriores os cidadãos que, após 25 de Abril de 1974, tenham sido nomeados pelo Presidente da República, Movimento das Forças Armadas, Junta de Salvação Nacional ou Governo Provisório para o exercício de funções políticas, públicas ou de interesse público."
+  },
+  "abce60ee02855a7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O tribunal de relação do distrito judicial da residência do interessado poderá, a requerimento deste, declarar não abrangidos pelas incapacidades previstas nos artigos 1.º e 2.º os que, anteriormente a 25 de Abril de 1974, hajam praticado actos de inequívoco repúdio do regime político deposto pelo Movimento das Forças Armadas ou se tenham conduzido em termos de a sua acção não constituir apoio efectivo a esse regime.\n\n2. O tribunal apreciará, livremente e sem recurso, os requerimentos e as provas dos respectivos fundamentos, podendo, para esclarecimento dos mesmos, ordenar oficiosamente as diligências que julgar indispensáveis.\n\n3. A apreciação dos requerimentos terá preferência sobre o exercício das demais funções do tribunal."
+  },
+  "eb8a6ed86e33f550": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nEste diploma entra imediatamente em vigor.\n\nVisto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás.\n\nVisto e aprovado em Conselho de Estado.\n\nPromulgado em 15 de Novembro de 1974.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}

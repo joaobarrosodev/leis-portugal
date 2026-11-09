@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-06-07'
+version_history:
+  file: decreto-lei-12-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-01-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-06-07'
+    amending: pt:dre:516774:por
+    amending_title: Decreto-Lei n.º 111/92
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:24:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 111/92. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-12-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,17 +147,29 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - Os presidentes e vice-presidentes das comissões administrativas das caixas de previdência, em efectividade de funções, vinculados ou não ao sector da Segurança Social e que contem mais de três anos no exercício dos referidos cargos, podem ser nomeados para o quadro de pessoal da respectiva instituição, até à data da sua integração.
+###### Artigo 1.º
 
-2 - Poderão ainda ser nomeados para o quadro de qualquer caixa de previdência os ex-presidentes e ex-vice-presidentes das comissões administrativas de caixas já integradas que, à data da integração, estivessem em efectividade de funções e contassem mais de três anos no exercício do cargo.
+1 - Os presidentes e vice-presidentes em exercício efectivo de funções nas direcções ou comissões administrativas de caixas de previdência e da direcção da Caixa Nacional de Seguros e Doenças Profissionais sujeitos ao regime da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, bem como aqueles que, encontrando-se sujeitos a regime diverso e não possuam vínculo à função pública, podem ser nomeados para o quadro de pessoal da instituição, até à data da respectiva integração, desde que contém nesta data mais de três anos no exercício das referidas funções.
 
-Art. 2.º - 1 - As nomeações previstas no artigo anterior serão feitas por despacho do Ministro do Emprego e da Segurança Social, com respeito pelas habilitações literárias exigidas por lei, nas categorias a que a normal promoção na carreira determinar, considerando-se como nela prestado o tempo de exercício de funções em comissões administrativas das caixas de previdência, bem como em comissões instaladoras dos centros regionais de segurança social e do Centro Nacional de Pensões, sem interrupção de funções.
+2 - A cessação das funções referidas no número anterior, e nas condições nele previstas, por parte de pessoal com vínculo à função pública confere-lhe o direito à promoção na carreira, no seu quadro de origem, nos termos constantes do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.
 
-2 - Em caso algum poderão as nomeações efectuar-se em categoria mais elevada do que a de técnico superior principal, constante dos diversos quadros de pessoal previstos na [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, e legislação complementar.
+> Alterado pelo/a [Decreto-Lei n.º 111/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1992-516774), publicado em 1992-06-02.
 
-Art. 3.º O tempo de serviço prestado nos termos do artigo anterior conta para todos os efeitos legais, incluindo todas as prestações da Segurança Social.
+###### Artigo 2.º
 
-Art. 4.º As nomeações a que se refere o presente diploma far-se-ão para lugares vagos dos quadros de pessoal dos respectivos serviços ou, caso não existam, para lugares a acrescer aos mesmos quadros, os quais serão extintos quando vagarem.
+1 - As nomeações previstas no n.º 1 do artigo anterior são feitas por despacho do membro do Governo que tiver a seu cargo a área da segurança social, com respeito pelas habilitações literárias exigidas por lei, na categoria que a normal promoção na carreira determinar.
+
+2 - As nomeações referidas no número anterior não podem efectuar-se em categoria superior à de técnico superior principal, constante das diversas carreiras de pessoal previstas na [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, e legislação complementar, quando recaiam em pessoal não abrangido pelo regime fixado por este último diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 111/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1992-516774), publicado em 1992-06-02.
+
+###### Artigo 3.º
+
+O tempo de serviço prestado nos termos do artigo anterior conta para todos os efeitos legais, incluindo todas as prestações da Segurança Social.
+
+###### Artigo 4.º
+
+As nomeações a que se refere o presente diploma far-se-ão para lugares vagos dos quadros de pessoal dos respectivos serviços ou, caso não existam, para lugares a acrescer aos mesmos quadros, os quais serão extintos quando vagarem.
 
 Visto e aprovado em Conselho de Ministros de 3 de Dezembro de 1987. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.
 

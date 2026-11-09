@@ -28,10 +28,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-07-06'
+version_history:
+  file: resolucao-conselho-ministros-119-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-12-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-07-06'
+    amending: pt:dre:160516:por
+    amending_title: Resolução do Conselho de Ministros n.º 101/97
+    changes:
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+    - Altera Artigo 41.º
+    - Altera Artigo 43.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/119/1994/12/02/p/dre/pt/html
@@ -57,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:08:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 101/97. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1994/resolucao-conselho-ministros-119-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -658,7 +677,9 @@ a) A área bruta de implantação máxima por parcela é de 1000 m2, incluindo h
 
 b) A altura máxima das construções, medida à platibanda ou beirado, é de 6,5 m e dois pisos para as habitacionais e 3,5 m e um piso para as não habitacionais;
 
-c) Constituem excepções ao disposto na alínea anterior os silos, depósitos de água ou instalações especiais devidamente justificadas.
+c) Constituem excepções ao disposto nas alíneas anteriores os silos, depósitos de água e instalações especiais devidamente justificadas, bem como as edificações destinadas aos fins previstos na alínea f) do artigo 22.º
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01.
 
 ###### Artigo 21.º — Espaços agrícolas de produção
 
@@ -682,7 +703,9 @@ d) Turismo de habitação;
 
 e) Agro-turismo;
 
-f) Outras edificações de reconhecido interesse público.
+f) Outras edificações de interesse concelhio, reconhecido por deliberação expressa da Assembleia Municipal, nomeadamente postos de abastecimento de combustíveis.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01.
 
 #### SECÇÃO IV — Espaços agrícolas e florestais
 
@@ -710,13 +733,15 @@ d) Espaços florestais de protecção.
 
 a) São interditas operações de loteamento e obras de urbanização;
 
-b) Para cada parcela pode ser autorizada a construção isolada de edificações destinadas a equipamentos, a habitação para proprietários ou titulares dos direitos de exploração, a trabalhadores permanentes e ainda de apoio a explorações florestais viáveis, a turismo de habitação, turismo rural e agro-turismo, a apoio de explorações agrícolas e florestais e instalações de vigilância e combate a incêndios florestais, bem como outras obras de reconhecido interesse municipal;
+b) Para cada parcela pode ser autorizada a construção isolada de edificações destinadas a equipamentos, a habitação para proprietários ou titulares dos direitos de exploração, a trabalhadores permanentes e ainda de apoio a explorações florestais viáveis, a turismo de habitação, turismo rural e agro-turismo, a apoio de explorações agrícolas e florestais e instalações de vigilância e combate a incêndios florestais, bem como obras de reconhecido interesse concelhio, reconhecido por deliberação expressa da Assembleia Municipal, nomeadamente postos de abastecimento de combustíveis;
 
 c) A área bruta de implantação máxima por parcela é de 1000 m2, incluindo habitação, que terá no máximo 200 m2 de área bruta de pavimento;
 
 d) A altura máxima das construções, medida à platibanda ou beirado, é de 6,5 m e dois pisos para as habitacionais e 3,5 m e um piso para as não habitacionais;
 
-e) Constituem excepções ao disposto na alínea anterior os silos, depósitos de água ou instalações especiais devidamente justificadas.
+e) Constituem excepções ao disposto nas alíneas c) e d) os silos, depósitos de água, instalações especiais devidamente justificadas, bem como edificações de reconhecido interesse concelhio, nos termos da alínea b) deste número.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01.
 
 ###### Artigo 25.º — Espaços florestais de produção
 
@@ -910,7 +935,9 @@ Os espaços urbanos estão sujeitos aos seguintes condicionamentos:
 
 a) As construções novas deverão integrar-se harmoniosamente no tecido urbano construído, mantendo as características de alinhamento, cércea, volumetria e ocupação do lote tradicionais do aglomerado em que se inserem;
 
-b) Sem prejuízo do disposto no Regulamento Geral das Edificações Urbanas (RGEU), a profundidade das edificações habitacionais não excederá os 12 m, medidos a partir do plano marginal à via pública.
+b) Sem prejuízo do disposto no Regulamento Geral das Edificações Urbanas (RGEU), a profundidade das edificações habitacionais não excederá os 15 m, medidos a partir do plano marginal da via pública.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01.
 
 ##### SUBSECÇÃO III — Espaços urbanizáveis
 
@@ -930,7 +957,9 @@ b) Sem prejuízo do disposto no Regulamento Geral das Edificações Urbanas (RGE
 
 a) As construções novas deverão integrar-se harmoniosamente no tecido urbano construído, mantendo as características de alinhamento, cércea, volumetria e ocupação do lote tradicionais do aglomerado em que se inserem;
 
-b) Sem prejuízo do disposto no RGEU, a profundidade das edificações habitacionais não excederá os 12 m, medidos a partir do plano marginal à via pública.
+b) Sem prejuízo do disposto no RGEU, a profundidade das edificações habitacionais não excederá os 15 m, medidos a partir do plano marginal da via pública.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 101/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/101-1997-160516), publicado em 1997-07-01.
 
 #### SECÇÃO IV — Espaços rurais
 

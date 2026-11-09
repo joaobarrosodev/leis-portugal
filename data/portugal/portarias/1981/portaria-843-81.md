@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-12-18'
+version_history:
+  file: portaria-843-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-09-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-12-18'
+    amending: pt:dre:421032:por
+    amending_title: Portaria n.º 400/87; Portaria n.º 1073/89
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:56:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 400/87; Portaria n.º
+    1073/89. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1981/portaria-843-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -153,11 +169,11 @@ Manda o Governo da República Portuguesa, pelo Ministro da Educação e Ciência
 
 ### CAPÍTULO I — Licenciaturas
 
-###### ARTIGO 1.º — (Organização)
+###### Artigo 1.º — (Organização)
 
 Os cursos de licenciatura em Produção Agrícola, Produção Animal e Produção Florestal do Instituto Universitário de Trás-os-Montes e Alto Douro (IUTAD), criados pelo n.º 1 do artigo 4.º da [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), de 14 de Setembro, são organizados pelo sistema de unidades de crédito.
 
-###### ARTIGO 2.º — (Licenciatura em Produção Agrícola)
+###### Artigo 2.º — (Licenciatura em Produção Agrícola)
 
 1 - A área científica do curso de licenciatura em Produção Agrícola é a Produção Agrícola.
 
@@ -197,13 +213,13 @@ d) Tecnologia Alimentar ... 15
 
 3.3 - Estágio ... 12
 
-###### ARTIGO 3.º — (Licenciatura em Produção Animal)
+###### Artigo 3.º — Licenciatura em Engenharia Zootécnica
 
 1 - A área científica do curso de licenciatura em Produção Animal é a Produção Animal.
 
 2 - A duração normal do curso é de cinco anos.
 
-3 - O número total de unidades de crédito necessárias à concessão do grau é de 169,5, assim distribuídas.
+3 - O número total de unidades de crédito necessárias à concessão do grau é de 158,5, assim distribuídas:
 
 3.1 - Áreas obrigatórias:
 
@@ -211,7 +227,7 @@ a) Biologia ... 43
 
 b) Biotecnologia ... 15
 
-c) Geociências ... 12
+c) Geociências ... 6
 
 d) Economia e Sociologia ... 18,5
 
@@ -233,51 +249,69 @@ b) Piscicultura ... 10
 
 c) Apicultura ... 10
 
-d) Aquacultura ... 5
+d) Aquacultura ... 10
 
-e) Silvopastorícia ... 5
+e) Silvo-pastorícia ... 10
 
 3.3 - Estágio ... 12
 
-###### ARTIGO 4.º — (Licenciatura em Produção Florestal)
+> Alterado pelo/a [Portaria n.º 400/87](https://diariodarepublica.pt/dr/detalhe/portaria/400-1987-421032), publicado em 1987-05-13.
+
+###### Artigo 4.º — Licenciatura em Engenharia Florestal
 
 1 - A área científica do curso de licenciatura em Produção Florestal é a Produção Florestal.
 
 2 - A duração normal do curso é de cinco anos.
 
-3 - O número total de unidades de crédito necessárias à concessão do grau é de 158, assim distribuídas:
+3 - O número total de unidades de crédito necessárias à concessão do grau é de 159, assim distribuídas:
 
-a) Silvicultura ... 41
+3.1 - Áreas científicas obrigatórias:
+
+a) Silvicultura ... 43,5
 
 b) Física ... 7
 
 c) Química ... 7
 
-d) Matemática ... 21
+d) Matemática ... 20
 
-e) Biologia ... 32
+e) Biologia ... 29,5
 
-f) Geociências ... 15
+f) Geociências ... 12
 
-g) Economia e Sociologia ... 15,5
+g) Economia e Sociologia ... 10,5
 
 h) Engenharia Rural ... 3
 
 i) Agronomia ... 2,5
 
-j) Línguas Vivas Estrangeiras ... 2
+3.2 - Conjunto de áreas científicas optativas:
 
-###### ARTIGO 5.º — (Estágio)
+a) Línguas Vivas Estrangeiras ... 12
+
+b) Biologia ... 12
+
+c) Economia e Sociologia ... 12
+
+d) Matemática ... 12
+
+e) Silvicultura ... 12
+
+3.3 - Estágio ... 12
+
+> Alterado pelo/a [Portaria n.º 1073/89](https://diariodarepublica.pt/dr/detalhe/portaria/1073-1989-550461), publicado em 1989-12-13.
+
+###### Artigo 5.º — (Estágio)
 
 1 - O estágio das licenciaturas tem como objectivo o desenvolvimento dos conhecimentos e das técnicas de investigação na área sobre a qual incide.
 
 2 - O estágio será objecto de regulamento, a aprovar por despacho ministerial, sob proposta do IUTAD.
 
-###### ARTIGO 6.º — (Precedências)
+###### Artigo 6.º — (Precedências)
 
 A tabela e regime de precedências serão fixados pelo conselho científico, ouvido o conselho pedagógico.
 
-###### ARTIGO 7.º — (Classificação final)
+###### Artigo 7.º — (Classificação final)
 
 1 - A classificação final da licenciatura é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas e estágio que integram cada um dos planos de estudo.
 
@@ -287,7 +321,7 @@ A tabela e regime de precedências serão fixados pelo conselho científico, ouv
 
 ### CAPÍTULO II — Bacharelatos
 
-###### ARTIGO 8.º — (Planos de estudo)
+###### Artigo 8.º — (Planos de estudo)
 
 1 - São homologados os planos de estudo que vigoraram entre 1975-1976 e 1980-1981 nos bacharelatos em Produção Agrícola, Produção Animal e Produção Florestal, ministrados no Instituto Politécnico de Vila Real e posteriormente no IUTAD, aos quais se refere o artigo 1.º do [Decreto-Lei n.º 183/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1978-297448), de 18 de Julho, e que constam dos anexos I a III desta portaria.
 
@@ -295,7 +329,7 @@ A tabela e regime de precedências serão fixados pelo conselho científico, ouv
 
 3 - Este plano de estudos deixa de ser ministrado a partir do ano lectivo de 1981-1982, inclusive.
 
-###### ARTIGO 9.º — (Grau de bacharel)
+###### Artigo 9.º — (Grau de bacharel)
 
 1 - Considera-se titular do grau de bacharel o aluno que tenha obtido aprovação em todas as disciplinas constantes do plano de estudos a que se refere o artigo 8.º
 
@@ -303,11 +337,11 @@ A tabela e regime de precedências serão fixados pelo conselho científico, ouv
 
 3 - O grau de bacharel pelo IUTAD deixará de ser conferido a partir do final do ano lectivo de 1980-1981.
 
-###### ARTIGO 10.º — (Classificação final)
+###### Artigo 10.º — (Classificação final)
 
 A classificação final do bacharelato será a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), de todas as disciplinas constantes do plano de estudos respectivo, que terão cada uma o peso 1, e do estágio (se realizado), que terá o peso 5.
 
-###### ARTIGO 11.º — (Transição para os planos de estudo da licenciatura)
+###### Artigo 11.º — (Transição para os planos de estudo da licenciatura)
 
 Os alunos que, tendo concluído o bacharelato, pretendam, nos termos do n.º 3 do artigo 4.º da [Lei n.º 49/79](https://diariodarepublica.pt/dr/detalhe/lei/49-1979-370006), a integração na licenciatura respectiva, bem como os alunos que tenham estado inscritos no plano de estudos do bacharelato e que o não tenham concluído até ao fim do prazo a que se refere o n.º 3 do artigo 8.º e pretendam a integração na licenciatura respectiva, deverão realizar um plano de estudos de transição, a fixar pelo conselho científico, de forma a assegurar uma formação globalmente equivalente à dos planos fixados nos termos dos artigos 2.º a 4.º
 

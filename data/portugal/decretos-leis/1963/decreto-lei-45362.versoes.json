@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:683987:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1963-11-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e22ba45869914061"
+   ]
+  },
+  {
+   "date": "1982-08-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:397481:por",
+     "title": "Decreto-Lei n.º 334/82",
+     "published": "1982-08-19",
+     "dre_path": "/dr/detalhe/decreto-lei/334-1982-397481"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "8fd9cd41cfd6ee56",
+    "98350f3502201d55",
+    "fc81e0e9f352b6cb",
+    "bb1f094200573f2d",
+    "296bb35d2172982f",
+    "78f65cc1ab670be8",
+    "418f4da1a2d75d4d",
+    "8f763e5395830708",
+    "deb94e77f9d5a8ae",
+    "5c86855f982b6249",
+    "d696b76ec075f127"
+   ]
+  }
+ ],
+ "fragments": {
+  "e22ba45869914061": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Os corpos administrativos poderão ser autorizados pelo Ministro do Interior, ouvida a Direcção-Geral do Ensino Superior e das Belas-Artes, a inutilizar os originais dos documentos que, por lei ou por instruções da Direcção-Geral de Administração Política e Civil, devam manter-se arquivados, desde que procedam à respectiva microfilmagem.\n\nAs fotocópias, autenticadas com o selo branco e assinatura do responsável pelo serviço, substituirão, para todos os efeitos, as certidões dos originais que foram inutilizados após a microfilmagem.\n\nArt. 2.º Os pagamentos nas tesourarias das câmaras municipais, até ao relaxe, provenientes de impostos ou outros rendimentos municipais poderão efectuar-se em moeda corrente, por vales de correio ou por cheque da Caixa Geral de Depósitos, Crédito e Previdência, ou pela mesma Caixa visado, de harmonia com o disposto no [Decreto-Lei n.º 32677](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32677-1943-594102) e do [Decreto n.º 32678](https://diariodarepublica.pt/dr/detalhe/decreto/32678-1943-594103), ambos de 20 de Fevereiro de 1943.\n\n§ 1.º Os cheques serão passados ou endossados à ordem do tesoureiro da câmara à qual tenha de efectuar-se o pagamento, devendo os cheques visados conter a sobrecarga «Pagamento de dívidas às câmaras municipais».\n\n§ 2.º Todos os cheques recebidos nas tesourarias das câmaras para os fins previstos neste artigo serão obrigatòriamente depositados, nos termos do artigo 699.º do Código Administrativo.\n\nArt. 3.º As actas das reuniões do corpos administrativos, do conselho municipal e do conselho distrital poderão ser aprovadas, em minuta, na reunião seguinte, sempre que não seja possível lavrá-las antecipadamente no respectivo livro.\n\nArt. 4.º Poderá ser dispensada a leitura das actas das reuniões ou das respectivas minutas desde que o seu texto haja sido prèviamente distribuído por todos os que participaram nas reuniões e nesse sentido for deliberado.\n\nArt. 5.º Os planos anuais de actividade, as bases dos orçamentos ordinários, os orçamentos, as contas e o relatório de gerência das câmaras municipais e das juntas distritais poderão deixar de ser transcritos nas actas das reuniões em que forem apreciados, discutidos e votados desde que os originais sejam assinados pelos membros presentes do corpo administrativo, do conselho municipal ou do conselho do distrito, conforme os casos, e por eles rubricados em todas as folhas, sendo depois arquivados em pasta anexa ao respectivo livro de actas.\n\nArt. 6.º A participação do chefe de secretaria da câmara no adicional a que se refere o § 3.º do artigo 746.º do Código Administrativo fica sujeita, relativamente aos processos julgados em cada ano, ao limite correspondente ao respectivo ordenado anual, revertendo o excesso para o cofre municipal.\n\nArt. 7.º É lícito aos corpos administrativos conceder fardamentos ou resguardos ao pessoal menor, especializado e operário, em termos idênticos aos prescritos para os serviços do Estado.\n\nArt. 8.º É permitido aos corpos administrativos, sem prejuízo do disposto no artigo 676.º do Código Administrativo, instituir obras de carácter social e cultural em benefício dos seus servidores, bem como subsidiar instituições por estes fundadas que tenham aquele carácter.\n\nArt. 9.º As câmaras municipais são autorizadas a adquirir ou construir casas destinadas a habitação dos seus funcionários ou assalariados, bem como dos das juntas distritais, nos termos e segundo o regime estabelecido pelo [Decreto-Lei n.º 42951](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42951-1960-281452), de 27 de Abril de 1960, sendo a competência e os direitos conferidos por este diploma ao Ministro das Finanças e à Caixa Geral de Depósitos, Crédito e Previdência exercidos, respectivamente, pelo Ministro do Interior e pela câmara municipal.\n\nArt. 10.º O § 2.º do artigo 463.º do Código Administrativo passa a ter a seguinte redacção:\n\n§ 2.º O período de validade dos concursos é de três anos, contados da data da publicação dos resultados no Diário do Governo.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 21 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença."
+  },
+  "8fd9cd41cfd6ee56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "98350f3502201d55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs corpos administrativos poderão ser autorizados pelo Ministro do Interior, ouvida a Direcção-Geral do Ensino Superior e das Belas-Artes, a inutilizar os originais dos documentos que, por lei ou por instruções da Direcção-Geral de Administração Política e Civil, devam manter-se arquivados, desde que procedam à respectiva microfilmagem.\n\nAs fotocópias, autenticadas com o selo branco e assinatura do responsável pelo serviço, substituirão, para todos os efeitos, as certidões dos originais que foram inutilizados após a microfilmagem."
+  },
+  "fc81e0e9f352b6cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs pagamentos nas tesourarias das câmaras municipais, até ao relaxe, provenientes de impostos ou outros rendimentos municipais poderão efectuar-se em moeda corrente, por vales de correio ou por cheque da Caixa Geral de Depósitos, Crédito e Previdência, ou pela mesma Caixa visado, de harmonia com o disposto no [Decreto-Lei n.º 32677](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32677-1943-594102) e do [Decreto n.º 32678](https://diariodarepublica.pt/dr/detalhe/decreto/32678-1943-594103), ambos de 20 de Fevereiro de 1943.\n\n§ 1.º Os cheques serão passados ou endossados à ordem do tesoureiro da câmara à qual tenha de efectuar-se o pagamento, devendo os cheques visados conter a sobrecarga «Pagamento de dívidas às câmaras municipais».\n\n§ 2.º Todos os cheques recebidos nas tesourarias das câmaras para os fins previstos neste artigo serão obrigatòriamente depositados, nos termos do artigo 699.º do Código Administrativo."
+  },
+  "bb1f094200573f2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs actas das reuniões do corpos administrativos, do conselho municipal e do conselho distrital poderão ser aprovadas, em minuta, na reunião seguinte, sempre que não seja possível lavrá-las antecipadamente no respectivo livro."
+  },
+  "296bb35d2172982f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPoderá ser dispensada a leitura das actas das reuniões ou das respectivas minutas desde que o seu texto haja sido prèviamente distribuído por todos os que participaram nas reuniões e nesse sentido for deliberado."
+  },
+  "78f65cc1ab670be8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1982-08-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 334/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1982-397481), publicado em 1982-08-19."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Os planos anuais de actividades, os orçamentos, as contas e os relatórios de gerência das câmaras municipais, assembleias distritais e juntas de freguesia, assim como os regimentos dos órgãos deliberativos das autarquias locais, poderão deixar de ser transcritos nas actas das reuniões em que forem apreciados e aprovados, desde que os originais sejam assinados pelos membros presentes e por eles rubricados em todas as folhas, sendo depois arquivados em pasta anexa ao respectivo livro de actas.\n\n2 - O disposto no número anterior aplica-se ainda às posturas e regulamentos que forem aprovados pelos órgãos deliberativos das autarquias locais, sem prejuízo da respectiva publicação nos termos legais.\n\n> Alterado pelo/a [Decreto-Lei n.º 334/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1982-397481), publicado em 1982-08-19."
+  },
+  "418f4da1a2d75d4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA participação do chefe de secretaria da câmara no adicional a que se refere o § 3.º do artigo 746.º do Código Administrativo fica sujeita, relativamente aos processos julgados em cada ano, ao limite correspondente ao respectivo ordenado anual, revertendo o excesso para o cofre municipal."
+  },
+  "8f763e5395830708": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nÉ lícito aos corpos administrativos conceder fardamentos ou resguardos ao pessoal menor, especializado e operário, em termos idênticos aos prescritos para os serviços do Estado."
+  },
+  "deb94e77f9d5a8ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nÉ permitido aos corpos administrativos, sem prejuízo do disposto no artigo 676.º do Código Administrativo, instituir obras de carácter social e cultural em benefício dos seus servidores, bem como subsidiar instituições por estes fundadas que tenham aquele carácter."
+  },
+  "5c86855f982b6249": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs câmaras municipais são autorizadas a adquirir ou construir casas destinadas a habitação dos seus funcionários ou assalariados, bem como dos das juntas distritais, nos termos e segundo o regime estabelecido pelo [Decreto-Lei n.º 42951](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42951-1960-281452), de 27 de Abril de 1960, sendo a competência e os direitos conferidos por este diploma ao Ministro das Finanças e à Caixa Geral de Depósitos, Crédito e Previdência exercidos, respectivamente, pelo Ministro do Interior e pela câmara municipal."
+  },
+  "d696b76ec075f127": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO § 2.º do artigo 463.º do Código Administrativo passa a ter a seguinte redacção:\n\n§ 2.º O período de validade dos concursos é de três anos, contados da data da publicação dos resultados no Diário do Governo.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 21 de Novembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença."
+  }
+ }
+}

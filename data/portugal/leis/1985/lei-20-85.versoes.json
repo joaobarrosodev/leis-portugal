@@ -1,0 +1,231 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:692064:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-07-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "cefa13bdd7f642fa",
+    "bb9c76c8527fc0f2",
+    "3b9b58321314ae10",
+    "7ba073ea6cb302f2",
+    "b029697d164c7a39",
+    "c147e8225334c227",
+    "9a9d17d2ce4aaabd",
+    "029c1e90739f1c63",
+    "05526626bff43082",
+    "c73e83a2efe1daca"
+   ]
+  },
+  {
+   "date": "1998-09-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:241404:por",
+     "title": "Decreto-Lei n.º 279/98",
+     "published": "1998-09-17",
+     "dre_path": "/dr/detalhe/decreto-lei/279-1998-241404"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "cefa13bdd7f642fa",
+    "d3feee1e8c4014a5",
+    "adcf8161409ac21d",
+    "436ca3b61fba9c9b",
+    "4fcaded210483012",
+    "a443ebcca6a3c87e",
+    "1f75630184e16f99",
+    "a0fd9d26183696d3",
+    "ad9f5c9067e27398",
+    "4395d8501b585dad"
+   ]
+  }
+ ],
+ "fragments": {
+  "cefa13bdd7f642fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Julho\n\nCriação de novo tipo de bilhetes do Tesouro\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea h), e 169.º, n.º 2, da Constituição, o seguinte:"
+  },
+  "bb9c76c8527fc0f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º\n\nO Governo, através do Ministro das Finanças e do Plano, fica autorizado a emitir um novo tipo de bilhetes do Tesouro, com o objectivo de aperfeiçoar os mecanismos de controle monetário e de gestão da dívida pública, diversificar os instrumentos financeiros e dinamizar os respectivos mercados, sendo as condições gerais de emissão e os limites máximos de circulação fixados nos termos da presente lei."
+  },
+  "3b9b58321314ae10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º\n\n1 - Os bilhetes do Tesouro serão amortizáveis em prazos determinados, não superiores a um ano, a fixar por decreto-lei.\n\n2 - As restantes características dos bilhetes do Tesouro e as condições de acesso e funcionamento do respectivo mercado serão estabelecidas por decreto-lei."
+  },
+  "7ba073ea6cb302f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º\n\n1 - O montante máximo de bilhetes do Tesouro em circulação será fixado pela Assembleia da República aquando da aprovação do Orçamento do Estado.\n\n2 - Compete ao Ministro das Finanças e do Plano, ouvido o Banco de Portugal, definir as emissões de bilhetes do Tesouro, tendo presentes as condições do mercado e os objectivos da política monetária fixados pelo Governo."
+  },
+  "b029697d164c7a39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º\n\nA colocação dos bilhetes do Tesouro poderá efectuar-se sem emissão física de títulos, processando-se nesse caso de forma meramente escritural as respectivas transacções e contabilização em registos próprios."
+  },
+  "c147e8225334c227": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º\n\nOs bilhetes do Tesouro não carecem de inscrição, registo ou assentamento e gozam dos privilégios e garantias reconhecidos aos restantes títulos de dívida pública."
+  },
+  "9a9d17d2ce4aaabd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º\n\nOs bilhetes do Tesouro gozam ainda da garantia de reembolso integral pelo valor nominal, a partir da data do vencimento, e da isenção de todos os impostos, incluindo o imposto sobre sucessões e doações."
+  },
+  "029c1e90739f1c63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º\n\nOs bilhetes do Tesouro prescrevem no prazo de 2 anos, a contar da data do seu vencimento."
+  },
+  "05526626bff43082": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º\n\n1 - Compete à Direcção-Geral do Tesouro o serviço da dívida pública constituída nos termos do presente diploma, sem prejuízo de poderem ser cometidas a outras entidades funções administrativas ligadas à emissão ou serviço deste tipo de dívida pública.\n\n2 - Os mecanismos de controle e a entidade responsável pela gestão dos bilhetes do Tesouro serão fixados por decreto-lei."
+  },
+  "c73e83a2efe1daca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º\n\nSem prejuízo do disposto no n.º 1 do artigo 3.º, fica o Governo autorizado desde já a emitir bilhetes do Tesouro, até ao montante máximo de 150 milhões de contos.\n\nAprovada em 8 de Julho de 1985.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 24 de Julho de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 25 de Julho de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "d3feee1e8c4014a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1998-09-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+  },
+  "adcf8161409ac21d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1998-09-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+  },
+  "436ca3b61fba9c9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1998-09-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+  },
+  "4fcaded210483012": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1998-09-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+  },
+  "a443ebcca6a3c87e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1998-09-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+  },
+  "1f75630184e16f99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs bilhetes do Tesouro gozam ainda da garantia de reembolso integral pelo valor nominal, a partir da data do vencimento, e da isenção de todos os impostos, incluindo o imposto sobre sucessões e doações."
+  },
+  "a0fd9d26183696d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1998-09-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+   ],
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+  },
+  "ad9f5c9067e27398": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1998-09-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+  },
+  "4395d8501b585dad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1998-09-18",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17."
+   ],
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 279/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1998-241404), publicado em 1998-09-17.\n\nAprovada em 8 de Julho de 1985.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 24 de Julho de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 25 de Julho de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

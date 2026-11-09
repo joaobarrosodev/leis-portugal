@@ -38,10 +38,38 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-05-23'
+version_history:
+  file: decreto-lei-266-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-05-23'
+    amending: pt:dre:274382:por
+    amending_title: Decreto-Lei n.º 90/2000
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Altera Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Altera Artigo 15.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/266/1998/08/20/p/dre/pt/html
@@ -67,7 +95,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:59:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 90/2000. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-266-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,223 +193,107 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 ###### Artigo 1.º — Objecto
 
-O presente diploma define a natureza e as finalidades do Programa de Prevenção da Toxicodependência - Projecto VIDA, adiante abreviadamente designado por Projecto VIDA, e estabelece a respectiva estrutura de coordenação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 2.º — Natureza e finalidades do Projecto VIDA
 
-O Projecto VIDA é um programa nacional que visa promover a prevenção da toxicodependência através da dinamização, apoio técnico ou financeiro e articulação de iniciativas públicas e privadas, no quadro de um plano respeitador da autonomia das diferentes instituições, por forma a sensibilizar a sociedade para o problema do uso e abuso de estupefacientes e substâncias psicotrópicas, e tendo em vista a promoção de uma maior operacionalidade e coordenação nos domínios da prevenção primária, do tratamento e da reinserção social de toxicodependentes.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 3.º — Instrumentos de planeamento do Projecto VIDA
 
-O Projecto VIDA desenvolve a sua actividade, em cumprimento das orientações estratégicas definidas pelo Governo, através dos seguintes instrumentos de planeamento:
+(Revogado.)
 
-a) O plano anual de desenvolvimento do Projecto VIDA;
-
-b) Os planos de actividades dos organismos públicos competentes nas áreas da prevenção, tratamento e reinserção social de toxicodependentes.
+> Revogado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 4.º — Órgãos de coordenação, acompanhamento e consulta
 
-1 - São órgãos de coordenação do Projecto VIDA:
+(Revogado.)
 
-a) A comissão interministerial;
-
-b) O coordenador nacional do Projecto VIDA.
-
-2 - O órgão de acompanhamento do Projecto VIDA é a comissão técnica de acompanhamento.
-
-3 - O conselho nacional da toxicodependência é o órgão de consulta do Primeiro-Ministro em matéria de toxicodependência.
+> Revogado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 5.º — Comissão interministerial
 
-1 - À comissão interministerial compete:
+(Revogado.)
 
-a) Definir as orientações fundamentais do Projecto VIDA, no seguimento das opções estratégicas adoptadas pelo Governo;
-
-b) Garantir a articulação interdepartamental no desenvolvimento do Projecto VIDA, bem como a integração das prioridades definidas nos planos de actividades dos organismos estatais relevantes;
-
-c) Aprovar o plano anual de desenvolvimento do Projecto VIDA, bem como o respectivo relatório anual de desenvolvimento.
-
-2 - A comissão interministerial é presidida pelo Primeiro-Ministro e tem a seguinte composição:
-
-a) Ministro da Defesa Nacional;
-
-b) Ministro das Finanças;
-
-c) Ministro da Administração Interna;
-
-d) Ministro da Justiça;
-
-e) Ministro da Educação;
-
-f) Ministro da Saúde;
-
-g) Ministro do Trabalho e da Solidariedade;
-
-h) Ministro Adjunto do Primeiro-Ministro;
-
-i) Coordenador Nacional do Projecto VIDA.
+> Revogado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 6.º — Conselho nacional da toxicodependência
 
-1 - Ao conselho nacional da toxicodependência, adiante designado por conselho nacional, compete pronunciar-se sobre a orientação e o desenvolvimento do Projecto VIDA, bem como sobre todos os assuntos que, em matéria de toxicodependência, lhe sejam submetidos pelo Primeiro-Ministro.
+(Revogado.)
 
-2 - O conselho nacional é presidido pelo Primeiro-Ministro e integra, para além do coordenador nacional do Projecto VIDA, um representante das seguintes entidades:
-
-a) Governos das Regiões Autónomas dos Açores e da Madeira;
-
-b) Conselho Superior da Magistratura;
-
-c) Procuradoria-Geral da República;
-
-d) Associação Nacional de Municípios;
-
-e) Conferência Episcopal;
-
-f) Confederação das Igrejas Evangélicas;
-
-g) União das Misericórdias;
-
-h) União das Instituições Particulares de Solidariedade Social;
-
-i) Associações de profissionais que intervenham na área da toxicodependência;
-
-j) Associações cívicas que intervenham na área da luta contra a sida;
-
-l) Conselho Nacional da Juventude;
-
-m) Confederação Nacional das Associações de Pais;
-
-n) Confederação Nacional das Associações de Famílias;
-
-o) Sindicato dos Jornalistas.
-
-3 - O conselho nacional integra, ainda, cinco personalidades a designar pelo Primeiro-Ministro.
+> Revogado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 7.º — Coordenador nacional do Projecto VIDA
 
-1 - Ao coordenador nacional do Projecto VIDA, adiante designado por coordenador nacional, compete:
+1 - (Revogado.)
 
-a) Zelar pela execução e desenvolvimento coordenado da estratégia nacional de combate à droga definida pelo Governo e garantir a prossecução das finalidades do Projecto VIDA;
-
-b) Assegurar a elaboração do plano e do relatório anuais de desenvolvimento do Projecto VIDA, a submeter à aprovação da comissão interministerial;
-
-c) Coordenar, a nível nacional, as acções a desenvolver no âmbito do Projecto VIDA pelos organismos competentes da administração central, regional e local, bem como por entidades privadas, nas áreas da prevenção, tratamento e reinserção social de toxicodependentes;
-
-d) Promover a consciencialização e mobilização da sociedade para os problemas da toxicodependência e do uso e abuso de estupefacientes e de substâncias psicotrópicas;
-
-e) Zelar para que, em todas as circunstâncias, sejam reconhecidos e respeitados os direitos dos cidadãos toxicodependentes, nomeadamente no seu tratamento e reinserção;
-
-f) Representar o Projecto VIDA nacional e internacionalmente;
-
-g) Coordenar, em articulação com o Ministério dos Negócios Estrangeiros, as relações internacionais e de cooperação de Portugal em matéria de prevenção da toxicodependência e assegurar, nesse domínio, a representação portuguesa a nível internacional, em articulação com os serviços e organismos competentes em razão da matéria;
-
-h) Autorizar despesas relativas à gestão das dotações orçamentais do Projecto VIDA, nos termos e com os limites fixados na lei para os subsecretários de Estado;
-
-i) Conceder, nos termos da lei e dos regulamentos aplicáveis, apoio técnico e financeiro a projectos públicos ou privados no âmbito da prevenção da toxicodependência;
-
-j) Assegurar a articulação do Projecto VIDA com as entidades competentes em matéria de prevenção e repressão do tráfico ilícito de drogas;
-
-l) Assegurar a articulação do Projecto VIDA com as entidades competentes em matéria de controlo da produção, importação, exportação e distribuição de percursores químicos utilizáveis no fabrico ilícito de estupefacientes e substâncias psicotrópicas;
-
-m) Exercer as demais competências que lhe sejam conferidas ou delegadas nos termos da lei.
-
-2 - O coordenador nacional é nomeado e exonerado pelo Primeiro-Ministro, de quem depende directamente, sem prejuízo do disposto no artigo 14.º
+2 - (Revogado.)
 
 3 - O coordenador nacional usufruirá de estatuto remuneratório e disporá de gabinete equivalentes aos de subsecretário de Estado.
 
-4 - É aplicável ao gabinete do coordenador nacional o disposto no [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 23 de Julho, e demais legislação aplicável aos gabinetes dos membros do Governo.
+4 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 8.º — Comissão técnica de acompanhamento
 
-1 - A comissão técnica de acompanhamento é um órgão técnico interdepartamental ao qual compete:
+(Revogado.)
 
-a) Acompanhar o desenvolvimento do Projecto VIDA;
-
-b) Pronunciar-se sobre as propostas de plano e de relatório anuais de desenvolvimento do Projecto VIDA;
-
-c) Zelar pela inclusão das orientações fundamentais do Projecto VIDA nos planos de actividades dos organismos competentes;
-
-d) Apreciar quaisquer assuntos que lhe sejam apresentados pelo coordenador nacional.
-
-2 - A comissão técnica de acompanhamento é presidida pelo coordenador nacional e é constituída por um representante de cada uma das seguintes entidades:
-
-a) Ministério da Administração Interna;
-
-b) Direcção-Geral de Pessoal, do Ministério da Defesa Nacional;
-
-c) Instituto de Reinserção Social;
-
-d) Direcção-Geral dos Serviços Prisionais;
-
-e) Serviço de Prevenção e Tratamento da Toxicodependência;
-
-f) Programa de Promoção e Educação para a Saúde, do Ministério da Educação;
-
-g) Direcção-Geral da Acção Social;
-
-h) Instituto para o Desenvolvimento Social;
-
-i) Instituto do Emprego e Formação Profissional;
-
-j) Instituto Português da Juventude;
-
-l) Instituto Nacional do Desporto;
-
-m) Gabinete de Planeamento e Coordenação do Combate à Droga.
+> Revogado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 9.º — Colaboração dos serviços públicos
 
-Os serviços da Administração Pública com competência nas áreas relativas à prevenção da toxicodependência e ao combate à droga deverão prestar ao coordenador nacional a colaboração por ele solicitada e cooperar no desenvolvimento das suas iniciativas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 10.º — Serviço de apoio do Projecto VIDA
 
-O Projecto VIDA dispõe, para o desenvolvimento das suas actividades, de um serviço de apoio técnico constituído por pessoal a recrutar por recurso aos instrumentos de mobilidade previstos na lei.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 11.º — Apoio administrativo
 
-O apoio logístico e administrativo ao Projecto VIDA, nomeadamente no que se refere à afectação de recursos humanos e à execução orçamental, é assegurado pela Secretaria-Geral da Presidência do Conselho de Ministros.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 12.º — Receitas do projecto VIDA
 
-As receitas do Projecto VIDA são:
+(Revogado.)
 
-a) As dotações que lhe forem atribuídas pelo Orçamento do Estado;
-
-b) As verbas provenientes do JOKER, nos termos da lei;
-
-c) O produto da venda de quaisquer publicações e outros materiais;
-
-d) O produto de cobranças por serviços prestados;
-
-e) As comparticipações, subsídios ou patrocínios que lhe sejam concedidos;
-
-f) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título.
+> Revogado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 13.º — Transição de pessoal
 
-1 - O pessoal sem vínculo jurídico adequado que, à data da entrada em vigor do presente diploma, desempenhe funções no Projecto VIDA, correspondentes a necessidades permanentes do serviço, com subordinação hierárquica e horário completo, admitido até 26 de Junho de 1996, é, a título excepcional, contratado a termo certo, após despacho de autorização do Ministro das Finanças e do membro do Governo que tiver a seu cargo a função pública.
+(Revogado.)
 
-2 - O pessoal a que se refere o número anterior mantém a situação de contrato a termo certo até à integração nos quadros do Gabinete de Planeamento e Coordenação do Combate à Droga ou da Secretaria-Geral da Presidência do Conselho de Ministros.
-
-3 - A integração a que se refere o número anterior é feita, mediante concurso, no escalão 1 da categoria de ingresso da carreira correspondente às funções efectivamente desempenhadas, constantes do contrato a termo certo, sem prejuízo das habilitações literárias e profissionais exigidas.
-
-4 - Para efeitos do número anterior, os quadros de pessoal do Gabinete de Planeamento e Coordenação do Combate à Droga e da Secretaria-Geral da Presidência do Conselho de Ministros serão acrescidos dos lugares necessários à integração do pessoal que obtiver aprovação nos respectivos concursos.
+> Revogado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 14.º — Delegação de competências
 
-Todas as competências cometidas ao Primeiro-Ministro pelo presente diploma são delegáveis, com a faculdade de subdelegação, nos termos da lei.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 15.º — Disposições finais e transitórias
 
-1 - As funções atribuídas ao Observatório VIDA, nos termos do artigo 10.º do [Decreto-Lei n.º 193/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1996-231535), de 15 de Outubro, são transferidas para o Gabinete de Planeamento e Coordenação do Combate à Droga.
+1 - (Revogado.)
 
-2 - O Gabinete de Planeamento e Coordenação do Combate à Droga constitui-se como ponto focal do Observatório Europeu da Droga e da Toxicodependência, incumbindo-lhe assegurar a ligação à respectiva rede informática.
+2 - (Revogado.)
 
-3 - Incumbe, ainda, ao Gabinete de Planeamento e Coordenação do Combate à Droga, em articulação com o coordenador nacional do Projecto VIDA, assegurar a elaboração dos relatórios anuais sobre o fenómeno da droga e da toxicodependência, a apresentar ao Observatório Europeu e à Assembleia da República, nos termos do artigo 70.º-A do [Decreto-Lei n.º 15/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1993-585178), de 22 de Janeiro, na redacção que lhe foi dada pela [Lei n.º 45/96](https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229), de 3 de Setembro.
+3 - (Revogado.)
 
 4 - Os núcleos distritais do Projecto VIDA continuam a reger-se pelo disposto no artigo 9.º do [Decreto-Lei n.º 193/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1996-231535), de 15 de Outubro, e pelo Regulamento publicado em anexo ao mesmo diploma, até à publicação de legislação que defina o seu novo enquadramento.
 
 5 - As competências atribuídas pelo [Decreto-Lei n.º 193/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1996-231535), de 15 de Outubro, ao alto-comissário e relativas aos núcleos distritais do Projecto VIDA são exercidas pelo coordenador nacional do Projecto VIDA.
+
+> Alterado pelo/a [Decreto-Lei n.º 90/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2000-274382), publicado em 2000-05-18.
 
 ###### Artigo 16.º — Norma revogatória
 

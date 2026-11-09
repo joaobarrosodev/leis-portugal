@@ -1,0 +1,267 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:313816:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-05-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "82a42d952b2c15b8",
+    "25836f1fa4383023",
+    "b4f63e359811e2b0",
+    "5eddc760383eec2f",
+    "aa17371eb17de050",
+    "4c0bdc7d5a4aa38f",
+    "7cbeb1d1697a74f0",
+    "76f943db76fe3f06",
+    "abc26480c9691279",
+    "98c674a775c71019",
+    "0cf38bd724eab4ac",
+    "3dbdd9a4ef1735a2",
+    "a5d0baf961237ac5",
+    "666e00fd54d577a8",
+    "6a5a147aa79f17a9",
+    "869ca6d1987cddb0",
+    "e337e93f64a1672f",
+    "a39a66f78977122b",
+    "512604ac3ca829f1",
+    "ca7f72dda46809d9",
+    "fe2d15d40fa45565"
+   ]
+  },
+  {
+   "date": "2003-04-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:239606:por",
+     "title": "Portaria n.º 318/2003",
+     "published": "2003-04-17",
+     "dre_path": "/dr/detalhe/portaria/318-2003-239606"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "82a42d952b2c15b8",
+    "872a9f914664b0a5",
+    "b4f63e359811e2b0",
+    "5eddc760383eec2f",
+    "b8878323a51c7046",
+    "4c0bdc7d5a4aa38f",
+    "7cbeb1d1697a74f0",
+    "76f943db76fe3f06",
+    "abc26480c9691279",
+    "98c674a775c71019",
+    "0cf38bd724eab4ac",
+    "3dbdd9a4ef1735a2",
+    "a5d0baf961237ac5",
+    "666e00fd54d577a8",
+    "6a5a147aa79f17a9",
+    "869ca6d1987cddb0",
+    "e337e93f64a1672f",
+    "a39a66f78977122b",
+    "512604ac3ca829f1",
+    "ca7f72dda46809d9",
+    "fe2d15d40fa45565"
+   ]
+  }
+ ],
+ "fragments": {
+  "82a42d952b2c15b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Maio\n\nConstitui uma das atribuições do Instituto do Cinema, Audiovisual e Multimedia (ICAM) apoiar o desenvolvimento, a produção e a promoção do cinema, do áudio-visual e multimedia, enquanto formas de arte e instrumentos de cultura, tendo em vista a modernização e a internacionalização da respectiva indústria.\n\nPara a realização dos objectivos definidos para a política do áudio-visual e multimedia, foram já criados mecanismos de apoio ao desenvolvimento de projectos multimedia e à produção de obras multimedia de conteúdos culturais.\n\nTorna-se agora necessário estabelecer um sistema de apoio à transcrição para suporte em DVD (digital video disk) de obras de conteúdo cultural já existentes, permitindo dessa forma a adaptação às novas tecnologias de obras cinematográficas, obras áudio-visuais e espectáculos nas áreas da música, teatro e dança fixados noutros suportes.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 7.º do [Decreto-Lei n.º 350/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1993-645305), de 7 de Fevereiro, e ainda do disposto nas alíneas c), d) e i) do artigo 2.º do [Decreto-Lei n.º 408/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1998-186752), de 21 de Dezembro:\n\nManda o Governo, pelo Ministro da Cultura, o seguinte:\n\n1.º É aprovado o Regulamento de Apoio Financeiro Selectivo à Transcrição de Obras para DVD (Digital Video Disk), publicado em anexo à presente portaria e que dela faz parte integrante.\n\n2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nPelo Ministro da Cultura, João Alexandre do Nascimento Baptista, Secretário de Estado da Cultura, em 18 de Abril de 2001.\n\nREGULAMENTO DE APOIO FINANCEIRO SELECTIVO À TRANSCRIÇÃO DE OBRAS PARA DVD (DIGITAL VIDEO DISK)"
+  },
+  "25836f1fa4383023": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente Regulamento estabelece as bases normativas do sistema de apoio financeiro selectivo a conceder pelo Ministério da Cultura, através do Instituto do Cinema, Audiovisual e Multimedia, adiante designado por ICAM, à transcrição para DVD (digital video disk) de obras cinematográficas, obras áudio-visuais e espectáculos nas áreas da música, teatro e dança.\n\n2 - Fica excluída do apoio financeiro a conceder no âmbito do presente Regulamento, nomeadamente, a transcrição de obras com conteúdo pornográfico, as que apelem ou incitem ao ódio, violência e racismo, bem como manifestações desportivas, publicidade, televenda, teletexto, reportagens, programas e séries televisivas de carácter comercial, concursos, talk shows, telenovelas e demais obras que não tenham carácter cultural."
+  },
+  "b4f63e359811e2b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Requerentes e beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requerentes e beneficiários\n\nPodem candidatar-se e beneficiar de apoio financeiro, a conceder no âmbito do presente Regulamento, as empresas matriculadas em Portugal que tenham no seu objecto social a produção e edição multimedia."
+  },
+  "5eddc760383eec2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Modalidade de apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Modalidade de apoio financeiro\n\n1 - O apoio financeiro selectivo a conceder pelo ICAM reveste a forma de adiantamento por conta de receitas.\n\n2 - O valor do adiantamento por conta de receitas relativamente a cada projecto será reembolsado com o produto de 10% das receitas líquidas directas e indirectas relativas à exploração comercial da obra correspondente, durante o período de cinco anos, contados a partir da data do início da exploração comercial da obra correspondente.\n\n3 - Para o efeito, o beneficiário remeterá ao ICAM, anualmente, até 31 de Maio do ano subsequente àquele a que respeitam as receitas, um relatório detalhado de receitas e encargos de exploração de cada obra financiada pelo ICAM ao abrigo do presente Regulamento, bem como toda a documentação necessária para verificar aqueles montantes, e proceder à respectiva facturação ao beneficiário.\n\n4 - Entende-se por encargos de exploração todas as despesas necessárias à comercialização das obras, abrangendo, designadamente, as actividades de distribuição e promoção.\n\n5 - O pagamento ao ICAM do montante a que se refere o n.º 2 do presente artigo será efectuado na data referida no seu n.º 3, contra recibo de quitação, e reportar-se-á às receitas geradas no ano anterior."
+  },
+  "aa17371eb17de050": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Limites ao apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Limites ao apoio financeiro\n\n1 - O montante global correspondente ao apoio financeiro a conceder no âmbito do presente Regulamento é fixado anualmente por despacho do Ministro da Cultura.\n\n2 - São igualmente fixados por despacho do Ministro da Cultura os limites máximos de apoio financeiro a conceder a cada projecto, tanto em valor absoluto como em percentagem do respectivo custo total.\n\n3 - O ICAM reserva-se o direito de não atribuir a totalidade do apoio financeiro autorizado desde que as candidaturas apresentadas não satisfaçam os critérios de selecção previstos no presente Regulamento."
+  },
+  "4c0bdc7d5a4aa38f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Concurso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Concurso público\n\n1 - São abertos concursos públicos para a selecção dos projectos referentes a obras a transcrever para DVD, nos termos do artigo 1.º deste Regulamento.\n\n2 - Compete ao Ministro da Cultura, sob proposta do ICAM, determinar o calendário e o número dos concursos a realizar anualmente."
+  },
+  "7cbeb1d1697a74f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Publicitação do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Publicitação do concurso\n\n1 - O ICAM deve promover o anúncio da abertura dos concursos referidos no artigo anterior mediante a sua publicação, simultânea, em dois jornais diários de grande expansão nacional e aviso afixado na sede deste Instituto.\n\n2 - O aviso deve mencionar obrigatoriamente:\n\na) O montante global dos apoios a conceder;\n\nb) Os limites a que se refere o n.º 2 do artigo 4.º;\n\nc) A composição do júri;\n\nd) O prazo e o local de apresentação das candidaturas."
+  },
+  "76f943db76fe3f06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Prazo de apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prazo de apresentação de candidaturas\n\nO prazo para apresentação das candidaturas não pode ser inferior a 20 dias úteis a contar da data da publicação do aviso do concurso respectivo, nos termos previstos no artigo anterior."
+  },
+  "abc26480c9691279": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Instrução das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Instrução das candidaturas\n\n1 - As candidaturas ao apoio previsto no presente Regulamento devem ser apresentadas no ICAM mediante requerimento do qual constem os seguintes elementos:\n\na) A identificação completa do requerente, indicando o número de matrícula e a sede social;\n\nb) O número de telefone ou de telefax ou endereço electrónico;\n\nc) O título do projecto concorrente;\n\nd) O montante financeiro do apoio requerido.\n\n2 - O requerimento a que se refere o número anterior deve ser preenchido em formulário próprio fornecido pelo ICAM, instruído com os seguintes documentos e informações:\n\na) Certidão do registo comercial do requerente;\n\nb) Currículo do requerente;\n\nc) Lista nominativa da equipa técnica;\n\nd) Estabelecimentos técnicos a utilizar;\n\ne) Autorizações dos autores da obra preexistente para a respectiva adaptação para formato DVD, prestadas em conformidade com o disposto no Código do Direito de Autor e dos Direitos Conexos;\n\nf) Indicação do período de vida esperado para o projecto;\n\ng) Indicação das formas de distribuição e comercialização da obra;\n\nh) Orçamento do projecto, de acordo com o modelo estabelecido pelo ICAM e montagem financeira;\n\ni) Declarações comprovativas da regular situação do requerente perante a administração fiscal e a segurança social."
+  },
+  "98c674a775c71019": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Regularização das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regularização das candidaturas\n\n1 - No prazo de 10 dias úteis a contar do termo do prazo para a apresentação das candidaturas, o ICAM verifica se os pedidos se encontram instruídos com as informações e os documentos referidos no artigo anterior e notifica os candidatos para, no prazo de 5 dias úteis, suprirem eventuais omissões e deficiências ou apresentarem as informações consideradas necessárias.\n\n2 - Os processos de candidatura que não forem completados ou corrigidos nos termos previstos no número anterior são rejeitados pelo ICAM.\n\n3 - Da decisão de rejeição referida no número anterior, os candidatos podem, no prazo de cinco dias úteis, reclamar para a direcção do ICAM, que deve decidir em idêntico prazo."
+  },
+  "0cf38bd724eab4ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Requisitos de admissão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Requisitos de admissão das candidaturas\n\n1 - Não são admitidas a concurso as candidaturas relativas a requerentes que não tenham cumprido obrigações anteriores para com o ICAM ou para com os institutos a quem este sucedeu nos respectivos direitos.\n\n2 - As candidaturas a que se refere o número anterior podem ser admitidas se as obrigações forem cumpridas num prazo de 10 dias úteis a contar da notificação dos motivos da rejeição.\n\n3 - Da decisão de não admissão a concurso, nos termos do n.º 1, os candidatos podem, no prazo de cinco dias úteis, reclamar para a direcção do ICAM, que deve decidir em idêntico prazo.\n\n4 - Os processos de candidatura que não forem regularizados nos termos previstos nos números anteriores são rejeitados pelo ICAM.\n\n5 - A rejeição das candidaturas, nos termos do número anterior, bem como as decisões de não admissão a concurso e as relativas às reclamações, são notificadas aos interessados em conformidade com o disposto no Código do Procedimento Administrativo.\n\n6 - Decididas as reclamações ou terminados os prazos para a sua apresentação, o ICAM deve tornar pública a lista de candidaturas admitidas a concurso, mediante aviso afixado na sua sede."
+  },
+  "3dbdd9a4ef1735a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Júri\n\n1 - Os projectos de transcrição de obras apresentados a concurso para apoio no âmbito do presente Regulamento são apreciados e seleccionados por um júri constituído por três ou cinco personalidades de reconhecido mérito.\n\n2 - O presidente e os restantes membros do júri são nomeados, sob proposta do ICAM, por despacho do Ministro da Cultura.\n\n3 - Os membros do júri têm direito, por cada concurso, a uma remuneração de montante a fixar por despacho do Ministro da Cultura, sob proposta do ICAM.\n\n4 - O ICAM assegura o apoio técnico-jurídico necessário aos trabalhos do júri."
+  },
+  "a5d0baf961237ac5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Critérios de selecção\n\n1 - A apreciação das candidaturas é feita com base nos seguintes critérios:\n\na) A qualidade técnica e artística da obra a transcrever;\n\nb) As potencialidades estéticas, artísticas e culturais do projecto na sua globalidade;\n\nc) O carácter inovador do projecto, a sua capacidade de comunicação e as potencialidades de criação de novos públicos;\n\nd) A viabilidade tecnológica do projecto;\n\ne) O potencial de interactividade com outras produções ou informações para além da obra transcrita;\n\nf) A estratégia de comercialização, nacional e internacional;\n\ng) O currículo do requerente;\n\nh) O equilíbrio e a viabilidade do orçamento.\n\n2 - O júri, sempre que entender necessário, pode convocar os concorrentes dos projectos em concurso para a prestação de esclarecimentos.\n\n3 - De cada reunião do júri será lavrada acta."
+  },
+  "666e00fd54d577a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Ordenação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Ordenação das candidaturas\n\n1 - Cada um dos critérios referidos no n.º 1 do artigo anterior é pontuado numa escala de 0 a 5, sendo a pontuação mais elevada referente à maior adequação da obra em apreciação ao respectivo critério.\n\n2 - A classificação final de cada projecto resulta da soma das pontuações obtidas em cada critério.\n\n3 - Os projectos são ordenados por ordem decrescente a partir da obra mais pontuada.\n\n4 - Havendo duas candidaturas com igual pontuação, e verificando-se necessidade de desempate, deve ser ordenado com melhor classificação o projecto que tenha obtido melhor pontuação no conjunto dos critérios referidos nas alíneas a), b) e c) do n.º 1 do artigo anterior.\n\n5 - A deliberação final do júri sobre os projectos submetidos à sua apreciação deve conter uma lista de classificação ordenada dos mesmos, por ordem decrescente a partir da obra mais pontuada, e a respectiva fundamentação, elaborada com base no sistema de pontuação estabelecido nos números anteriores."
+  },
+  "6a5a147aa79f17a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Decisão\n\n1 - Compete ao Ministro da Cultura decidir sobre a atribuição do apoio financeiro previsto no presente Regulamento, mediante proposta apresentada pelo ICAM baseada na deliberação do júri e após audiência dos interessados nos termos constantes do Código do Procedimento Administrativo.\n\n2 - A decisão a que se refere o número anterior deve ser tomada no prazo de 10 dias úteis a contar da apresentação da proposta do ICAM.\n\n3 - Compete ao ICAM tornar pública a decisão de atribuição de apoio financeiro, mediante aviso a afixar na sua sede e notificação a todos os requerentes admitidos a concurso."
+  },
+  "869ca6d1987cddb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Desistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Desistência\n\nOs beneficiários podem desistir do apoio concedido até ao momento da celebração do acordo de edição previsto no artigo seguinte."
+  },
+  "e337e93f64a1672f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Acordo de edição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Acordo de edição\n\n1 - Os apoios financeiros atribuídos nos termos do presente Regulamento são concedidos mediante a celebração de acordos de edição entre o ICAM e os respectivos beneficiários.\n\n2 - O acordo de edição deve ser celebrado no prazo máximo de 30 dias a contar da notificação da decisão a que se refere o artigo 14.º"
+  },
+  "a39a66f78977122b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Conteúdo do acordo de edição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conteúdo do acordo de edição\n\nO acordo de edição deve conter:\n\na) Os termos do apoio financeiro à edição;\n\nb) Um plano de trabalhos de edição, incluindo as datas de início e fim da edição;\n\nc) Um plano de entrega das prestações em que se desdobra o financiamento concedido nos termos do presente Regulamento;\n\nd) As garantias de realização do projecto no período económico para o qual se concede o apoio financeiro;\n\ne) As contrapartidas a estabelecer, designadamente a menção do apoio financeiro do ICAM no genérico final bem como o seu logótipo em todo o material de divulgação e promoção;\n\nf) Os mecanismos de fiscalização da correcta execução do projecto;\n\ng) As regras aplicáveis ao incumprimento do acordo e respectivas sanções;\n\nh) A data de entrega de cópia da obra, a qual não poderá ultrapassar o prazo máximo de um ano a contar da data de celebração do acordo."
+  },
+  "512604ac3ca829f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Execução e fiscalização do acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Execução e fiscalização do acordo\n\n1 - A entrega de cada prestação do apoio financeiro concedido é condicionada ao cumprimento do plano de trabalhos acordado e à prestação de contas que demonstre a boa aplicação dos montantes atribuídos.\n\n2 - O ICAM pode, a todo o tempo, por si ou por entidade credenciada para o efeito, verificar as contas referentes à utilização das verbas atribuídas, fiscalizar o cumprimento do acordo estabelecido, bem como o prosseguimento dos trabalhos, e exigir os respectivos relatórios de execução."
+  },
+  "ca7f72dda46809d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Falta de cumprimento de obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Falta de cumprimento de obrigações\n\n1 - A falta injustificada de cumprimento das normas constantes do presente Regulamento e das obrigações assumidas pelo beneficiário para com o ICAM impede o mesmo de obter qualquer outro apoio financeiro deste Instituto enquanto o incumprimento subsistir.\n\n2 - Salvo diferente previsão contratual, a não entrega ao ICAM da obra beneficiada com o apoio financeiro previsto no presente Regulamento no prazo estabelecido para a sua conclusão obriga o beneficiário à devolução do montante integral do apoio concedido, acrescido de juros à taxa legal, contados desde a data da percepção de cada uma das prestações.\n\n3 - Pode a direcção do ICAM, quando se verifiquem circunstâncias imprevisíveis ou excepcionais, devidamente fundamentadas, autorizar a prorrogação do prazo referido no número anterior."
+  },
+  "fe2d15d40fa45565": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Falsas declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Falsas declarações\n\n1 - O beneficiário do apoio financeiro previsto no presente Regulamento que na instrução do processo tiver prestado falsas declarações ou não prestar os esclarecimentos a que está obrigado será, sem prejuízo de eventual procedimento criminal, imediatamente excluído do apoio financeiro em causa.\n\n2 - Apurando-se a falsidade das declarações apenas após a entrega de alguma prestação, fica o seu beneficiário obrigado a devolver o montante total já recebido, acrescido de juros à taxa legal, contados desde a data da percepção de cada uma das prestações, bem como ao pagamento, a título de indemnização, de 50% daquele montante, sem prejuízo de eventual procedimento criminal."
+  },
+  "872a9f914664b0a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": "2003-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 318/2003](https://diariodarepublica.pt/dr/detalhe/portaria/318-2003-239606), publicado em 2003-04-17."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente Regulamento estabelece as bases normativas do sistema de apoio financeiro selectivo a conceder pelo Ministério da Cultura, através do Instituto do Cinema, Audiovisual e Multimédia, adiante designado por ICAM, à transcrição para DVD (Digital Video Disk) de obras cinematográficas e audiovisuais de produção portuguesa.\n\n2 - Fica excluída do apoio financeiro a conceder no âmbito do presente Regulamento, nomeadamente, a transcrição de obras com conteúdo pornográfico, as que apelem ou incitem ao ódio, violência e racismo, bem como manifestações desportivas, publicidade, televenda, teletexto, reportagens, programas e séries televisivas de carácter comercial, concursos, talk shows, telenovelas e demais obras que não tenham carácter cultural.\n\n> Alterado pelo/a [Portaria n.º 318/2003](https://diariodarepublica.pt/dr/detalhe/portaria/318-2003-239606), publicado em 2003-04-17."
+  },
+  "b8878323a51c7046": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Limites ao apoio financeiro",
+   "in_force_from": "2003-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 318/2003](https://diariodarepublica.pt/dr/detalhe/portaria/318-2003-239606), publicado em 2003-04-17."
+   ],
+   "markdown": "###### Artigo 4.º — Limites ao apoio financeiro\n\n1 - O montante global correspondente ao apoio financeiro a conceder no âmbito do presente Regulamento é fixado anualmente por despacho do Ministro da Cultura.\n\n2 - São igualmente fixados por despacho do Ministro da Cultura os limites máximos de apoio financeiro a conceder a cada projecto, tanto em valor absoluto como em percentagem do respectivo custo total.\n\n3 - O ICAM reserva-se o direito de não atribuir a totalidade do apoio financeiro autorizado desde que as candidaturas apresentadas não satisfaçam os critérios de selecção previstos no presente Regulamento.\n\n4 - Caso um requerente apresente vários projectos no âmbito do mesmo concurso não pode beneficiar de apoio financeiro que exceda 30% do montante global disponível para atribuir no mesmo.\n\n> Alterado pelo/a [Portaria n.º 318/2003](https://diariodarepublica.pt/dr/detalhe/portaria/318-2003-239606), publicado em 2003-04-17."
+  }
+ }
+}

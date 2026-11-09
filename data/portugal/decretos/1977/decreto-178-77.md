@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-11-15'
+version_history:
+  file: decreto-178-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-11-15'
+    amending: pt:dre:325962:por
+    amending_title: Decreto n.º 124/78
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:46:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 124/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1977/decreto-178-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -106,9 +121,11 @@ Assim:
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-Artigo único - 1 - O término da estrada nacional n.º 1 é fixado no quilómetro 301,692, sob a passagem superior existente integrada na Rua de Soares dos Reis.
+###### Artigo único
 
 2 - O troço da actual estrada nacional n.º 1, entre os quilómetros 301,692 e 304,192, que constitui a Avenida da República, é transferido do domínio público do Estado para o da Câmara Municipal de Vila Nova de Gaia, deixando de pertencer à rede nacional.
+
+> Alterado pelo/a [Decreto n.º 124/78](https://diariodarepublica.pt/dr/detalhe/decreto/124-1978-325962), publicado em 1978-11-15.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - João Orlindo de Almeida Pina.
 

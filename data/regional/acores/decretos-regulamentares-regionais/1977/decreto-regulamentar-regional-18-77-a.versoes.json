@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:139938:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-04-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0e71124c50e95d43"
+   ]
+  },
+  {
+   "date": "1979-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:383380:por",
+     "title": "Decreto Regulamentar Regional n.º 9/79/A",
+     "published": "1979-03-22",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/9-1979-383380"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "f23092df31cd3bd1",
+    "349e60fe4201dc03",
+    "8cdd332104700659",
+    "41e40e5cbc2bb9cf"
+   ]
+  }
+ ],
+ "fragments": {
+  "0e71124c50e95d43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Verificando-se a necessidade urgente de estruturar a lei orgânica da Secretaria Regional dos Transportes e Turismo, importa que essa tarefa preliminar seja executada com a devida brevidade, impondo-se, desde já, e por tal motivo, a necessidade de prover os seus elementos de cúpula, os directores regionais.\n\nNesse sentido, e nos precisos termos dos artigos 17.º, 18.º e 19.º do capítulo III do título II do Decreto Regional n.º 3/76, acha-se conveniente que os lugares de director regional sejam providos imediatamente nos termos do artigo 19.º do citado decreto regional.\n\nAssim:\n\nEm execução do Decreto Regional n.º 3/76, de 15 de Novembro:\n\nO Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:\n\nArtigo 1.º A Secretaria Regional dos Transportes e Turismo tem as seguintes direcções regionais:\n\na) Direcção Regional dos Transportes Terrestres;\n\nb) Direcção Regional dos Transportes Marítimos e Aéreos;\n\nc) Direcção Regional de Turismo.\n\nArt. 2.º A nomeação dos directores regionais é feita por despacho conjunto do Presidente do Governo Regional e do Secretário Regional dos Transportes e Turismo, sob proposta deste.\n\nArt. 3.º As nomeações efectuam-se de acordo com o artigo 19.º do Decreto Regional n.º 3/76 e de entre as pessoas de reconhecida competência técnica.\n\nAprovado em Plenário do Governo Regional em 10 de Janeiro de 1977.\n\nO Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Ponta Delgada em 4 de Fevereiro de 1977.\n\nPublique-se.\n\nO Ministro da República, Octávio de Carvalho Galvão de Figueiredo."
+  },
+  "f23092df31cd3bd1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Verificando-se a necessidade urgente de estruturar a lei orgânica da Secretaria Regional dos Transportes e Turismo, importa que essa tarefa preliminar seja executada com a devida brevidade, impondo-se, desde já, e por tal motivo, a necessidade de prover os seus elementos de cúpula, os directores regionais.\n\nNesse sentido, e nos precisos termos dos artigos 17.º, 18.º e 19.º do capítulo III do título II do Decreto Regional n.º 3/76, acha-se conveniente que os lugares de director regional sejam providos imediatamente nos termos do artigo 19.º do citado decreto regional.\n\nAssim:\n\nEm execução do Decreto Regional n.º 3/76, de 15 de Novembro:\n\nO Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:"
+  },
+  "349e60fe4201dc03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1979-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 9/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1979-383380), publicado em 1979-03-22."
+   ],
+   "markdown": "###### Artigo 1.º\n\nA Secretaria Regional dos Transportes e Turismo tem as seguintes Direcções Regionais:\n\na) Direcção Regional dos Transportes Terrestres;\n\nb) Direcção Regional de Portos e Transportes Marítimos;\n\nc) Direcção Regional dos Transportes Aéreos;\n\nd) Direcção Regional de Turismo.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1979-383380), publicado em 1979-03-22."
+  },
+  "8cdd332104700659": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA nomeação dos directores regionais é feita por despacho conjunto do Presidente do Governo Regional e do Secretário Regional dos Transportes e Turismo, sob proposta deste."
+  },
+  "41e40e5cbc2bb9cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs nomeações efectuam-se de acordo com o artigo 19.º do Decreto Regional n.º 3/76 e de entre as pessoas de reconhecida competência técnica.\n\nAprovado em Plenário do Governo Regional em 10 de Janeiro de 1977.\n\nO Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Ponta Delgada em 4 de Fevereiro de 1977.\n\nPublique-se.\n\nO Ministro da República, Octávio de Carvalho Galvão de Figueiredo."
+  }
+ }
+}

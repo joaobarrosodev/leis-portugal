@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-07-07'
+version_history:
+  file: decreto-regulamentar-regional-1-b-98-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-02-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-07-07'
+    amending: pt:dre:486499:por
+    amending_title: Decreto Regulamentar Regional n.º 20/98/A
+    changes:
+    - Altera Artigo 19.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/1-b/1998/02/12/a/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:28:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    20/98/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1998/decreto-regulamentar-regional-1-b-98-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -293,15 +308,19 @@ Os contratos de arrendamento de imóveis a celebrar pelos serviços e organismos
 
 1 - As competências das entidades referidas no artigo 8.º do [Decreto Legislativo Regional n.º 26-B/97/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-b-1997-581377) para autorizar despesas com empreitadas de obras públicas ou aquisição de bens e serviços podem ser delegadas, ao abrigo do n.º 2 desse mesmo artigo, nos seguintes termos:
 
-a) O Presidente do Governo Regional pode delegar, até ao respectivo limite, a competência para autorizar despesas com empreitadas de obras públicas ou aquisição de bens e serviços em um ou mais secretários regionais;
+a) O Conselho do Governo Regional pode delegar competência para autorizar despesas com empreitadas de obras públicas ou aquisição de bens e serviços em qualquer dos membros do Governo Regional;
 
-b) Os membros do Governo Regional podem delegar nos chefes de gabinete, nos adjuntos exercendo funções de coordenação de direcções regionais e nos delegados das secretarias regionais nas ilhas onde estas não tenham sede ou, noutros casos, desde que devidamente justificados do ponto de vista funcional, competência para a autorização de despesas com obras ou aquisição de bens e serviços até ao limite de 10000 contos;
+b) O Presidente do Governo Regional pode delegar, até ao respectivo limite, a competência para autorizar despesas com empreitadas de obras públicas ou aquisição de bens e serviços em um ou mais secretários regionais;
 
-c) Os directores regionais e os órgãos máximos dos serviços com autonomia administrativa ou administrativa e financeira podem delegar nos dirigentes, sob a sua imediata dependência, competência para a autorização de despesas com obras ou aquisição de bens e serviços até ao limite de 500 contos e, bem assim, no responsável directo dos serviços dependentes daquelas entidades nas ilhas onde não se encontrem sediadas.
+c) Os membros do Governo Regional podem delegar nos chefes de gabinete, nos adjuntos exercendo funções de coordenação de direcções regionais e nos delegados das secretarias regionais nas ilhas onde estas não tenham sede ou, noutros casos, desde que devidamente justificados do ponto de vista funcional, competência para a autorização de despesas com obras ou aquisição de bens e serviços até ao limite de 10000 contos;
+
+d) Os directores regionais e os órgãos máximos dos serviços com autonomia administrativa ou administrativa e financeira podem delegar nos dirigentes, sob a sua imediata dependência, competência para a autorização de despesas com obras ou aquisição de bens e serviços até ao limite de 500 contos e, bem assim, no responsável directo dos serviços dependentes daquelas entidades nas ilhas onde não se encontrem sediadas.
 
 2 - As despesas com a aquisição de mobiliário e equipamento de escritório ou informático, de valor superior a 800 contos, bem como as que respeitem a representação, carecem de autorização do respectivo membro do Governo Regional.
 
 3 - As delegações permanecem válidas por mais de um ano económico e enquanto se mantiverem em funções o respectivo delegante e delegado, salvo disposição contrária e expressa no acto de delegação.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 20/98/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/20-1998-486499), publicado em 1998-07-07.
 
 ###### Artigo 20.º — Repartição de encargos por mais de um ano económico
 

@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-09-02'
+version_history:
+  file: decreto-lei-85-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-04-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-09-02'
+    amending: pt:dre:402750:por
+    amending_title: Decreto-Lei n.º 337/97; Decreto-Lei n.º 201/2000
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/85/1997/04/18/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:56:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 337/97; Decreto-Lei
+    n.º 201/2000. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1997/decreto-lei-85-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,11 +156,19 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º
 
-O presente diploma cria um regime excepcional para a execução, em regime de empreitada:
+1 - O presente diploma cria um regime excepcional para a execução, em regime de empreitada:
 
-a) Das obras necessárias à reparação dos portos, aeroportos, rede viária e caminhos florestais e de acesso a explorações agrícolas, sob jurisdição do Governo Regional dos Açores, especialmente afectados pelas condições climáticas desfavoráveis do presente Inverno;
+a) Das obras necessárias à reparação dos portos, aeroportos, rede viária, caminhos florestais e de acesso a explorações agrícolas, ribeiras e linhas de água, sob jurisdição do Governo Regional dos Açores, especialmente afectados pelas condições climáticas desfavoráveis;
 
-b) Das obras necessárias ao realojamento das pessoas cujas habitações ficaram total ou parcialmente destruídas por esses temporais ou de edifícios e construções sob jurisdição do Governo Regional dos Açores.
+b) Das obras necessárias à reparação das infra-estruturas e dos equipamentos degradados devido à sua sobreutilização por força do processo de reconstrução e reposição da normalidade das condições de vida;
+
+c) Das obras necessárias ao realojamento das pessoas cujas habitações ficaram total ou parcialmente destruídas por esses temporais ou à reparação de edifícios e construções sob jurisdição do Governo Regional dos Açores.
+
+2 - É igualmente criado um regime excepcional para aquisição de bens e prestações de serviços necessários a complementar as obras referidas no n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 337/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1997-402750), publicado em 1997-12-04.
+
+> Alterado pelo/a [Decreto-Lei n.º 201/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2000-580978), publicado em 2000-09-01.
 
 ###### Artigo 2.º
 
@@ -150,13 +176,19 @@ A identificação das empreitadas a que se aplica o presente regime é definida 
 
 ###### Artigo 3.º
 
-Fica o Governo Regional dos Açores excepcionalmente autorizado, até ao termo do prazo fixado no n.º 6 da [Resolução do Conselho de Ministros n.º 2/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/2-1997-301673), a proceder ao ajuste directo de trabalhos cuja estimativa de custo global, não considerando o IVA, seja inferior a:
+1 - Fica o Governo Regional dos Açores excepcionalmente autorizado, pelo período de um ano a contar da entrada em vigor do presente diploma, a proceder a ajuste directo, bem como à dispensa de contrato escrito, em trabalhos cuja estimativa de custo global, não considerando o IVA, seja inferior a:
 
-a) 30000000$00, quando se trate de obras destinadas à construção ou reparação de habitações, com consulta obrigatória a, pelo menos, cinco entidades;
+a) 50000000$00, quando se trate de construção, reabilitação ou reparação de habitações, com consulta obrigatória a, pelo menos, cinco entidades;
 
-b) 100000000$00, quando se trate de obras destinadas à construção e reparação de edifícios e equipamentos colectivos, bem como em caminhos agrícolas, com consulta obrigatória a, pelo menos, cinco entidades;
+b) 150000000$00, quando se trate de construção e reparação de edifícios, equipamentos colectivos e caminhos agrícolas, com consulta obrigatória a, pelo menos, cinco entidades;
 
-c) 350000000$00, quando se trate de obras respeitantes a estradas, aeroportos e portos, com consulta obrigatória a, pelo menos, cinco entidades.
+c) 450000000$00, quando se trate de obras respeitantes a estradas, portos, aeroportos e intervenções no âmbito dos recursos hídricos, com consulta obrigatória a, pelo menos, cinco entidades.
+
+2 - Os valores referidos em cada uma das alíneas do número anterior são também os aplicáveis às aquisições de bens e às prestações de serviços necessárias a complementar as respectivas obras.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 337/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/337-1997-402750), publicado em 1997-12-04.
+
+> Alterado pelo/a [Decreto-Lei n.º 201/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2000-580978), publicado em 2000-09-01.
 
 ###### Artigo 4.º
 

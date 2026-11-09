@@ -1,0 +1,227 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:324310:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-04-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2cfe36a15ebe6c3c"
+   ]
+  },
+  {
+   "date": "1988-03-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:286737:por",
+     "title": "Decreto-Lei n.º 56/88",
+     "published": "1988-02-26",
+     "dre_path": "/dr/detalhe/decreto-lei/56-1988-286737"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "d1270da351895a10",
+    "dd01987057d1a3be",
+    "10513e61a19b940f",
+    "5a8ecc267c41eb04",
+    "88e0390ed3bb7468",
+    "c2b8ee881d1b572b",
+    "71b251769a2a377c",
+    "d43c888591fa9092",
+    "ccdc559e3ea87a74",
+    "638259ab3d7a96c3",
+    "8f27838b23597936",
+    "92dc06736442e1d5",
+    "65a29af43fe752f3",
+    "664ce62fc0c92677",
+    "c8ea805d90005502",
+    "e6ad7c6f9fc074bc",
+    "b088bbf847f84153",
+    "5e3ee86cab980ac9",
+    "bfa4e4e96fd50723",
+    "886a8492ccfe6d71"
+   ]
+  }
+ ],
+ "fragments": {
+  "2cfe36a15ebe6c3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Abril\n\nTornando-se necessário reajustar as disposições reguladoras do abono de ajudas de custo ao pessoal militar em face do que, para a generalidade dos funcionários do Estado, foi publicado pelo [Decreto-Lei n.º 519-M/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-m-1979-510013), de 28 de Dezembro;\n\nTendo em atenção a conveniência de, simultaneamente e sem prejuízo desse reajustamento, sanar as distorções mais evidentes na actual legislação e reunir num único diploma as diversas disposições legais relativas ao abono de ajudas de custo ao pessoal dos três ramos das Forças Armadas;\n\nConsiderando, finalmente, que há vantagem em alargar ao pessoal militarizado e civil em serviço nas Forças Armadas a aplicação do regime e modalidades de ajudas de custo reguladas no presente diploma:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - No território nacional, os militares, nas condições reguladas por este diploma, têm direito ao abono de ajudas de custo pelas deslocações em serviço que se efectuem para além de 5 km da sua residência oficial, tratando-se de deslocações diárias, e para além de 20 km daquela residência, no caso de deslocações por dias sucessivos.\n\n2 - São consideradas deslocações diárias as que se efectuem dentro de um período de 24 horas e as que, embora ultrapassando este período, não impliquem a necessidade de novas despesas.\n\n3 - Consideram-se deslocações por dias sucessivos as que se efectivem num período de tempo superior a 24 horas e que não estejam compreendidas na última parte do número anterior.\n\n4 - Por residência oficial ou domicílio legal, para efeitos de abono de ajudas de custos, entende-se a periferia da localidade onde o militar exerce, de facto, normalmente, as funções do seu cargo ou a que for fixada para centro da sua actividade funcional. Ainda para esse mesmo efeito, consideram-se compreendidos na cidade de Elvas os Fortes da Graça e de Santa Luzia e nas cidades de Lisboa, Porto, Faro, Aveiro e Beja os seguintes serviços:\n\na) Em Lisboa - todas as unidades e estabelecimentos militares das Forças Armadas situados numa zona delimitada pela linha de Cascais, Sintra, Granja do Marquês, Loures, Vila Franca de Xira, Alcochete (campo de tiro), Moita, Coina, Costa da Caparica, Cascais;\n\nb) No Porto - todas as unidades e estabelecimentos militares situados numa zona delimitada pela linha Perafita, Moreira, Maia, AIfena, Valongo, Gondomar, Avintes, Moura, Granja, Perafita;\n\nc) Em Faro - estabelecimentos da Marinha situados na ria de Faro, estação radiotelegráfica e faróis e marcas da ria;\n\nd) Em Aveiro - estabelecimentos da Marinha situados na ria de Aveiro e faróis e marcas da ria e as unidades e serviços da Força Aérea em São Jacinto e Forte da Barra;\n\ne) Em Beja - Base Aérea n.º 11.\n\n5 - É condição essencial para o abono de ajudas de custo não ter o militar nele interessado solicitado a ordem superior que determinou a deslocação.\n\nArt. 2.º As modalidades de ajudas de custo a considerar nos termos deste diploma são as seguintes:\n\na) Ajudas de custo por deslocação, compreendendo as deslocações diárias e as deslocações por dias sucessivos;\n\nb) Ajudas de custo por mudança de residência.\n\nArt. 3.º - 1 - Nas deslocações diárias abonar-se-ão as seguintes percentagens de ajuda de custo diário:\n\na) Desde que a deslocação abranja o período compreendido entre as 13 e as 14 horas - 25%;\n\nb) Desde que a deslocação abranja o período compreendido entre as 20 e as 21 horas - 25%;\n\nc) Desde que a deslocação implique dormida - 50%\n\n2 - Quando se trate de militares abonados de alimentação em espécie nos termos da legislação em vigor, os períodos horários indicados no número anterior são substituídos pelos dos horários oficialmente fixados nos organismos militares para as respectivas refeições.\n\n3 - As despesas de alojamento só poderão ser consideradas nas deslocações diárias que se não prolonguem para o dia seguinte quando o militar não dispuser de meios de transporte fáceis que lhe permitam regressar ao seu domicílio até às 22 horas.\n\nArt. 4.º - 1 - Nas deslocações por dias sucessivos serão abonadas as seguintes percentagens de ajuda de custo diária:\n\na) Dia de partida:\n\nHoras de partida:\n\nAté às 13 horas - 100%;\n\nDepois das 13 horas e até às 21 horas - 75%;\n\nDepois das 21 horas - 50%;\n\nb) Dia de regresso:\n\nHoras de chegada:\n\nAté à 13 horas -;\n\nDepois das 13 horas e até às 20 horas - 25%;\n\nDepois das 20 horas - 50%;\n\nc) Restantes dias - 100%.\n\n2 - Tratando-se de militares abonados de alimentação em espécie, os elementos horários referidos no número anterior são substituídos pelas seguintes correspondências, em relação às refeições de que estejam abonados:\n\n13 horas - início do período do almoço;\n\n20 horas - início do período do jantar;\n\n21 horas - fim do período do jantar.\n\n3 - Nas deslocações por dias sucessivos, em que o alojamento ou a alimentação sejam assegurados pelo Estado, as ajudas de custo são reduzidas de 45% quando se verificar uma daquelas hipóteses e de 90% quando se verificarem ambas.\n\nArt. 5.º - 1 - Atendendo a que as percentagens referidas nos artigos 3.º e 4.º correspondem ao pagamento de uma ou duas refeições e dormida, não haverá lugar aos respectivos abonos quando a correspondente prestação seja fornecida em espécie, sem prejuízo do disposto no n.º 3 do artigo 4.º\n\n2 - Quando as despesas decorrentes dos fornecimentos previstos no número anterior forem suportadas pelo Estado, os respectivos encargos não podem exceder os valores correspondentes às percentagens das respectivas prestações.\n\nArt. 6.º - 1 - Em casos especiais, poderá excepcionar-se o disposto no n.º 1 do artigo 1.º pela forma e nas condições seguintes:\n\na) Abono para despesa de almoço de uma importância equivalente a 25% da ajuda de custo diária nas deslocações até 5 km, se o militar não dispuser de transporte que lhe permita almoçar na sua residência ou em organismo militar, circunstâncias a apreciar pela entidade que haja determinado a deslocação;\n\nb) Abono dos quantitativos correspondentes às percentagens previstas no n.º 1 do artigo 4.º, para as deslocações entre 5 km e 20 km, se for reconhecido haver lugar a tal abono em despacho de entidade referida no artigo 11.º;\n\nc) Abono dos quantitativos correspondentes às percentagens previstas no n.º 1 do artigo 3.º, para as deslocações além de 20 km, se for reconhecido, em despacho fundamentado de entidade referida no artigo 11.º, apenas haver lugar a tais abonos.\n\n2 - Igualmente em casos especiais, poderá excepcionar-se o disposto na parte final do n.º 4 do artigo 1.º, concedendo o abono de ajudas de custo por deslocação entre os serviços referidos em cada uma das alíneas daquela disposição, mediante despacho do Ministro da Defesa Nacional, sob proposta do Chefe do Estado-Maior do respectivo ramo.\n\nArt. 7.º No abono de ajudas de custo por deslocação são ainda de observar as seguintes normas:\n\n1.ª Se, relativamente ao serviço a que o militar pertencer, não houver disposição legal que limite o tempo de deslocação para efeitos de ajudas de custo, não poderá este abono ter lugar além do período de 90 dias seguidos de deslocação;\n\n2.ª Exceptuam-se do disposto na alínea anterior as deslocações de militares que tenham funções de inspecção ou sejam encarregados de inquéritos, sindicâncias ou processos disciplinares, para execução dos quais tenha sido previamente marcado um período superior, ou ainda, sejam instrutores, monitores ou instruendos de cursos ou estágios ou outras modalidades de instrução cuja duração seja superior àquele período;\n\n3.ª As marchas ou deslocações a requisição dos tribunais civis não dão direito a ajudas de custo, quando se trate de depor sobre factos que não tenham origem em actos de serviço;\n\n4.ª Não se verifica o direito ao abono de ajudas de custo quando a marcha ou a deslocação seja consequência de procedimento disciplinar ou judicial ou relativa às alterações que se seguirem ao termo de cumprimento da penalidade ou, ainda, resultante do regresso do militar ao serviço do ramo a que pertence, proveniente da situação de comissão civil em departamento não militar, de licença ilimitada ou de outra semelhante;\n\n5.ª Os militares de complemento que vêm da disponibilidade ou da situação de licenciados, por terem sido convocados ou chamados a prestar serviço, não têm direito ao abono de ajudas de custo:\n\na) Quando da primeira apresentação, mesmo que esta seja determinada para unidades ou estabelecimentos militares diferentes daqueles a que os interessados pertenciam normalmente;\n\nb) Quando na frequência de cursos, estágios ou tirocínios nos centros de instrução ou escolas onde serão colocados durante esta situação;\n\n6.ª A ajuda de custo não é abonada quando aos interessados são fornecidos alojamento e alimentação em bivaque, acantonamentos ou acampamentos em que a instalação das forças constituídas é da responsabilidade do Estado;\n\n7.ª Não há lugar para o abono de ajudas de custo aos militares que tomem parte em manobras ou quaisquer exercícios para os quais esteja ou venha a estar estabelecido regime especial;\n\n8.ª As ausências ao serviço, por motivo de nojo ou de doença, não interrompem o abono de ajudas do custo.\n\nArt. 8.º - 1 - O abono de alimentação em espécie, nos termos da legislação em vigor, constitui alimentação por conta do Estado para todos os efeitos previstos neste diploma.\n\n2 - O abono diário de alimentação a dinheiro, previsto na legislação em vigor, não é acumulável com o de ajudas de custo quando nestas se incluir qualquer das refeições contempladas pelo primeiro daqueles abonos.\n\nArt. 9.º Os oficiais que acompanhem os oficiais generais no desempenho de missões ou comissões de serviço têm direito a ajudas de custo iguais às atribuídas na tabela para oficiais generais.\n\nArt. 10.º A mudança de residência dos oficiais e sargentos, excepto os que se encontrarem no período normal de serviço militar obrigatório, e, bem assim, das praças dos quadros permanentes e equivalentes, que, por motivo de nova colocação, sejam transferidos para outra localidade distanciada de 20 km ou mais dá direito ao abono, por uma só vez, de ajudas de custo por mudança de residência de quantitativo igual a 30 dias de ajudas de custo, com observância das seguintes regras:\n\n1.ª O direito à percepção de ajudas de custo por mudança de residência verifica-se em relação à data em que se concretiza a apresentação do militar na sua nova situação;\n\n2.ª No caso dos militares da Armada, apenas há lugar a este abono quando se tratar de mudança de residência por motivo de início ou regresso de comissão de serviço em terra;\n\n3.ª As mudanças de residência resultantes de convocação ou de chamada para prestação de serviço efectivo não dão direito ao abono de ajudas de custo, mesmo que o convocado se desloque da localidade onde estava autorizado a residir;\n\n4.ª Não há direito ao abono de ajudas de custo por mudança de residência sem que hajam decorrido 6 meses sobre a data de abono da mesma natureza;\n\n5.ª Aplicam-se ao abono de ajudas de custo por mudança de residência os preceitos estabelecidos na norma 5.ª do artigo 7.º\n\nArt. 11.º Têm competência para determinar deslocações com direito ao abono de ajudas de custo:\n\na) O Ministro da Defesa Nacional;\n\nb) O Chefe do Estado-Maior-General das Forças Armadas, os Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea e as entidades por cada um definidas em despacho no âmbito dos respectivos departamentos.\n\nArt. 12.º Em casos excepcionais de representação e mediante despacho do Ministro da Defesa Nacional, sob proposta do Chefe do Estado-Maior respectivo, os encargos com a alimentação e alojamento inerentes a deslocações em serviço público, no território nacional, poderão ser satisfeitos contra declarações justificativas das despesas efectuadas.\n\nArt. 13.º Pelo Chefe do Estado-Maior-General e pelo Chefe do Estado-Maior do respectivo ramo, conforme os casos, ou por sua delegação, poderá ser autorizado o abono adiantado de ajudas de custo até 30 dias, devendo o militar repor a importância a que não tenha direito no prazo de 10 dias após o termo daquele período ou quando do regresso à residência oficial, conforme o que primeiro ocorrer.\n\nArt. 14.º Quando se trate de deslocações determinadas pelo Ministro da Defesa Nacional, o accionamento do procedimento previsto no artigo anterior a que eventualmente haja lugar será determinado por aquele membro do Governo ou pelas entidades em quem ele delegar.\n\nArt. 15.º Por despacho do Chefe do Estado-Maior-General ou do Chefe do Estado-Maior de cada um dos ramos serão fixadas as normas a que deverão obedecer o processamento e liquidação das ajudas de custo, quer por deslocação, quer por mudança de residência.\n\nArt. 16.º Ao pessoal civil e militarizado em serviço nas Forças Armadas são aplicados o regime e as modalidades de ajudas de custo estabelecidos para os militares nos artigos anteriores, sendo os respectivos valores, para o pessoal civil, os da tabela que se encontra em vigor para a generalidade dos funcionários civis do Estado.\n\nArt. 17.º A tabela de ajudas de custo a abonar ao pessoal militar e militarizado abrangido por este diploma é fixada por portaria assinada pelos Ministros da Defesa Nacional e das Finanças e do Plano.\n\nArt. 18.º Ficam revogados os Decretos n.os 34366, de 3 de Janeiro de 1945, 39771, de 18 de Agosto de 1954, 41044, de 29 de Março de 1957, 41064, de 11 de Abril de 1957, 41099, de 7 de Maio de 1957, e 41776, de 5 de Agosto de 1958, e os Decretos-Leis n.os [210/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1974-623430) e 213/74, ambos de 21 de Maio.\n\nArt. 19.º O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.\n\nPromulgado em 10 de Abril de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 11 de Abril de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "d1270da351895a10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Abril\n\nTornando-se necessário reajustar as disposições reguladoras do abono de ajudas de custo ao pessoal militar em face do que, para a generalidade dos funcionários do Estado, foi publicado pelo [Decreto-Lei n.º 519-M/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-m-1979-510013), de 28 de Dezembro;\n\nTendo em atenção a conveniência de, simultaneamente e sem prejuízo desse reajustamento, sanar as distorções mais evidentes na actual legislação e reunir num único diploma as diversas disposições legais relativas ao abono de ajudas de custo ao pessoal dos três ramos das Forças Armadas;\n\nConsiderando, finalmente, que há vantagem em alargar ao pessoal militarizado e civil em serviço nas Forças Armadas a aplicação do regime e modalidades de ajudas de custo reguladas no presente diploma:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "dd01987057d1a3be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - No território nacional, os militares, nas condições reguladas por este diploma, têm direito ao abono de ajudas de custo pelas deslocações em serviço que se efectuem para além de 5 km da sua residência oficial, tratando-se de deslocações diárias, e para além de 20 km daquela residência, no caso de deslocações por dias sucessivos.\n\n2 - São consideradas deslocações diárias as que se efectuem dentro de um período de 24 horas e as que, embora ultrapassando este período, não impliquem a necessidade de novas despesas.\n\n3 - Consideram-se deslocações por dias sucessivos as que se efectivem num período de tempo superior a 24 horas e que não estejam compreendidas na última parte do número anterior.\n\n4 - Por residência oficial ou domicílio legal, para efeitos de abono de ajudas de custos, entende-se a periferia da localidade onde o militar exerce, de facto, normalmente, as funções do seu cargo ou a que for fixada para centro da sua actividade funcional. Ainda para esse mesmo efeito, consideram-se compreendidos na cidade de Elvas os Fortes da Graça e de Santa Luzia e nas cidades de Lisboa, Porto, Faro, Aveiro e Beja os seguintes serviços:\n\na) Em Lisboa - todas as unidades e estabelecimentos militares das Forças Armadas situados numa zona delimitada pela linha de Cascais, Sintra, Granja do Marquês, Loures, Vila Franca de Xira, Alcochete (campo de tiro), Moita, Coina, Costa da Caparica, Cascais;\n\nb) No Porto - todas as unidades e estabelecimentos militares situados numa zona delimitada pela linha Perafita, Moreira, Maia, AIfena, Valongo, Gondomar, Avintes, Moura, Granja, Perafita;\n\nc) Em Faro - estabelecimentos da Marinha situados na ria de Faro, estação radiotelegráfica e faróis e marcas da ria;\n\nd) Em Aveiro - estabelecimentos da Marinha situados na ria de Aveiro e faróis e marcas da ria e as unidades e serviços da Força Aérea em São Jacinto e Forte da Barra;\n\ne) Em Beja - Base Aérea n.º 11.\n\n5 - É condição essencial para o abono de ajudas de custo não ter o militar nele interessado solicitado a ordem superior que determinou a deslocação."
+  },
+  "10513e61a19b940f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs modalidades de ajudas de custo a considerar nos termos deste diploma são as seguintes:\n\na) Ajudas de custo por deslocação, compreendendo as deslocações diárias e as deslocações por dias sucessivos;\n\nb) Ajudas de custo por mudança de residência."
+  },
+  "5a8ecc267c41eb04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Nas deslocações diárias abonar-se-ão as seguintes percentagens de ajuda de custo diário:\n\na) Desde que a deslocação abranja o período compreendido entre as 13 e as 14 horas - 25%;\n\nb) Desde que a deslocação abranja o período compreendido entre as 20 e as 21 horas - 25%;\n\nc) Desde que a deslocação implique dormida - 50%\n\n2 - Quando se trate de militares abonados de alimentação em espécie nos termos da legislação em vigor, os períodos horários indicados no número anterior são substituídos pelos dos horários oficialmente fixados nos organismos militares para as respectivas refeições.\n\n3 - As despesas de alojamento só poderão ser consideradas nas deslocações diárias que se não prolonguem para o dia seguinte quando o militar não dispuser de meios de transporte fáceis que lhe permitam regressar ao seu domicílio até às 22 horas."
+  },
+  "88e0390ed3bb7468": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Nas deslocações por dias sucessivos serão abonadas as seguintes percentagens de ajuda de custo diária:\n\na) Dia de partida:\n\nHoras de partida:\n\nAté às 13 horas - 100%;\n\nDepois das 13 horas e até às 21 horas - 75%;\n\nDepois das 21 horas - 50%;\n\nb) Dia de regresso:\n\nHoras de chegada:\n\nAté à 13 horas -;\n\nDepois das 13 horas e até às 20 horas - 25%;\n\nDepois das 20 horas - 50%;\n\nc) Restantes dias - 100%.\n\n2 - Tratando-se de militares abonados de alimentação em espécie, os elementos horários referidos no número anterior são substituídos pelas seguintes correspondências, em relação às refeições de que estejam abonados:\n\n13 horas - início do período do almoço;\n\n20 horas - início do período do jantar;\n\n21 horas - fim do período do jantar.\n\n3 - Nas deslocações por dias sucessivos, em que o alojamento ou a alimentação sejam assegurados pelo Estado, as ajudas de custo são reduzidas de 45% quando se verificar uma daquelas hipóteses e de 90% quando se verificarem ambas."
+  },
+  "c2b8ee881d1b572b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Atendendo a que as percentagens referidas nos artigos 3.º e 4.º correspondem ao pagamento de uma ou duas refeições e dormida, não haverá lugar aos respectivos abonos quando a correspondente prestação seja fornecida em espécie, sem prejuízo do disposto no n.º 3 do artigo 4.º\n\n2 - Quando as despesas decorrentes dos fornecimentos previstos no número anterior forem suportadas pelo Estado, os respectivos encargos não podem exceder os valores correspondentes às percentagens das respectivas prestações."
+  },
+  "71b251769a2a377c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Em casos especiais, poderá excepcionar-se o disposto no n.º 1 do artigo 1.º pela forma e nas condições seguintes:\n\na) Abono para despesa de almoço de uma importância equivalente a 25% da ajuda de custo diária nas deslocações até 5 km, se o militar não dispuser de transporte que lhe permita almoçar na sua residência ou em organismo militar, circunstâncias a apreciar pela entidade que haja determinado a deslocação;\n\nb) Abono dos quantitativos correspondentes às percentagens previstas no n.º 1 do artigo 4.º, para as deslocações entre 5 km e 20 km, se for reconhecido haver lugar a tal abono em despacho de entidade referida no artigo 11.º;\n\nc) Abono dos quantitativos correspondentes às percentagens previstas no n.º 1 do artigo 3.º, para as deslocações além de 20 km, se for reconhecido, em despacho fundamentado de entidade referida no artigo 11.º, apenas haver lugar a tais abonos.\n\n2 - Igualmente em casos especiais, poderá excepcionar-se o disposto na parte final do n.º 4 do artigo 1.º, concedendo o abono de ajudas de custo por deslocação entre os serviços referidos em cada uma das alíneas daquela disposição, mediante despacho do Ministro da Defesa Nacional, sob proposta do Chefe do Estado-Maior do respectivo ramo."
+  },
+  "d43c888591fa9092": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1988-03-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 56/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1988-286737), publicado em 1988-02-26."
+   ],
+   "markdown": "###### Artigo 7.º\n\nNo abono de ajudas de custo por deslocação são ainda de observar as seguintes normas:\n\n1.ª Se, relativamente ao serviço a que o militar pertencer, não houver disposição legal que limite o tempo de deslocação para efeitos de ajudas de custo, não poderá este abono ter lugar além do período de 90 dias seguidos de deslocação, salvo se o mesmo for autorizado, para casos excepcionais, ainda que sob a forma de nova diligência, mediante despacho fundamentado do Ministro da Defesa Nacional, com o acordo do Ministro das Finanças, obtido por intermédio da Direcção-Geral da Contabilidade Pública.\n\n2.ª Exceptuam-se do disposto na alínea anterior as deslocações de militares que tenham funções de inspecção ou sejam encarregados de inquéritos, sindicâncias ou processos disciplinares, para execução dos quais tenha sido previamente marcado um período superior, ou ainda, sejam instrutores, monitores ou instruendos de cursos ou estágios ou outras modalidades de instrução cuja duração seja superior àquele período;\n\n3.ª As marchas ou deslocações a requisição dos tribunais civis não dão direito a ajudas de custo, quando se trate de depor sobre factos que não tenham origem em actos de serviço;\n\n4.ª Não se verifica o direito ao abono de ajudas de custo quando a marcha ou a deslocação seja consequência de procedimento disciplinar ou judicial ou relativa às alterações que se seguirem ao termo de cumprimento da penalidade ou, ainda, resultante do regresso do militar ao serviço do ramo a que pertence, proveniente da situação de comissão civil em departamento não militar, de licença ilimitada ou de outra semelhante;\n\n5.ª Os militares de complemento que vêm da disponibilidade ou da situação de licenciados, por terem sido convocados ou chamados a prestar serviço, não têm direito ao abono de ajudas de custo:\n\na) Quando da primeira apresentação, mesmo que esta seja determinada para unidades ou estabelecimentos militares diferentes daqueles a que os interessados pertenciam normalmente;\n\nb) Quando na frequência de cursos, estágios ou tirocínios nos centros de instrução ou escolas onde serão colocados durante esta situação;\n\n6.ª A ajuda de custo não é abonada quando aos interessados são fornecidos alojamento e alimentação em bivaque, acantonamentos ou acampamentos em que a instalação das forças constituídas é da responsabilidade do Estado;\n\n7.ª Não há lugar para o abono de ajudas de custo aos militares que tomem parte em manobras ou quaisquer exercícios para os quais esteja ou venha a estar estabelecido regime especial;\n\n8.ª As ausências ao serviço, por motivo de nojo ou de doença, não interrompem o abono de ajudas do custo.\n\n> Alterado pelo/a [Decreto-Lei n.º 56/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-1988-286737), publicado em 1988-02-26."
+  },
+  "ccdc559e3ea87a74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - O abono de alimentação em espécie, nos termos da legislação em vigor, constitui alimentação por conta do Estado para todos os efeitos previstos neste diploma.\n\n2 - O abono diário de alimentação a dinheiro, previsto na legislação em vigor, não é acumulável com o de ajudas de custo quando nestas se incluir qualquer das refeições contempladas pelo primeiro daqueles abonos."
+  },
+  "638259ab3d7a96c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs oficiais que acompanhem os oficiais generais no desempenho de missões ou comissões de serviço têm direito a ajudas de custo iguais às atribuídas na tabela para oficiais generais."
+  },
+  "8f27838b23597936": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA mudança de residência dos oficiais e sargentos, excepto os que se encontrarem no período normal de serviço militar obrigatório, e, bem assim, das praças dos quadros permanentes e equivalentes, que, por motivo de nova colocação, sejam transferidos para outra localidade distanciada de 20 km ou mais dá direito ao abono, por uma só vez, de ajudas de custo por mudança de residência de quantitativo igual a 30 dias de ajudas de custo, com observância das seguintes regras:\n\n1.ª O direito à percepção de ajudas de custo por mudança de residência verifica-se em relação à data em que se concretiza a apresentação do militar na sua nova situação;\n\n2.ª No caso dos militares da Armada, apenas há lugar a este abono quando se tratar de mudança de residência por motivo de início ou regresso de comissão de serviço em terra;\n\n3.ª As mudanças de residência resultantes de convocação ou de chamada para prestação de serviço efectivo não dão direito ao abono de ajudas de custo, mesmo que o convocado se desloque da localidade onde estava autorizado a residir;\n\n4.ª Não há direito ao abono de ajudas de custo por mudança de residência sem que hajam decorrido 6 meses sobre a data de abono da mesma natureza;\n\n5.ª Aplicam-se ao abono de ajudas de custo por mudança de residência os preceitos estabelecidos na norma 5.ª do artigo 7.º"
+  },
+  "92dc06736442e1d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nTêm competência para determinar deslocações com direito ao abono de ajudas de custo:\n\na) O Ministro da Defesa Nacional;\n\nb) O Chefe do Estado-Maior-General das Forças Armadas, os Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea e as entidades por cada um definidas em despacho no âmbito dos respectivos departamentos."
+  },
+  "65a29af43fe752f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nEm casos excepcionais de representação e mediante despacho do Ministro da Defesa Nacional, sob proposta do Chefe do Estado-Maior respectivo, os encargos com a alimentação e alojamento inerentes a deslocações em serviço público, no território nacional, poderão ser satisfeitos contra declarações justificativas das despesas efectuadas."
+  },
+  "664ce62fc0c92677": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nPelo Chefe do Estado-Maior-General e pelo Chefe do Estado-Maior do respectivo ramo, conforme os casos, ou por sua delegação, poderá ser autorizado o abono adiantado de ajudas de custo até 30 dias, devendo o militar repor a importância a que não tenha direito no prazo de 10 dias após o termo daquele período ou quando do regresso à residência oficial, conforme o que primeiro ocorrer."
+  },
+  "c8ea805d90005502": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nQuando se trate de deslocações determinadas pelo Ministro da Defesa Nacional, o accionamento do procedimento previsto no artigo anterior a que eventualmente haja lugar será determinado por aquele membro do Governo ou pelas entidades em quem ele delegar."
+  },
+  "e6ad7c6f9fc074bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nPor despacho do Chefe do Estado-Maior-General ou do Chefe do Estado-Maior de cada um dos ramos serão fixadas as normas a que deverão obedecer o processamento e liquidação das ajudas de custo, quer por deslocação, quer por mudança de residência."
+  },
+  "b088bbf847f84153": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nAo pessoal civil e militarizado em serviço nas Forças Armadas são aplicados o regime e as modalidades de ajudas de custo estabelecidos para os militares nos artigos anteriores, sendo os respectivos valores, para o pessoal civil, os da tabela que se encontra em vigor para a generalidade dos funcionários civis do Estado."
+  },
+  "5e3ee86cab980ac9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA tabela de ajudas de custo a abonar ao pessoal militar e militarizado abrangido por este diploma é fixada por portaria assinada pelos Ministros da Defesa Nacional e das Finanças e do Plano."
+  },
+  "bfa4e4e96fd50723": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nFicam revogados os Decretos n.os 34366, de 3 de Janeiro de 1945, 39771, de 18 de Agosto de 1954, 41044, de 29 de Março de 1957, 41064, de 11 de Abril de 1957, 41099, de 7 de Maio de 1957, e 41776, de 5 de Agosto de 1958, e os Decretos-Leis n.os [210/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1974-623430) e 213/74, ambos de 21 de Maio."
+  },
+  "886a8492ccfe6d71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes.\n\nPromulgado em 10 de Abril de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 11 de Abril de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-08-11'
+version_history:
+  file: portaria-91-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-08-11'
+    amending: pt:dre:687794:por
+    amending_title: Portaria n.º 771/91
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/91/1991/01/31/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:04:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 771/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1991/portaria-91-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +139,9 @@ Manda o Governo, pelo Ministro da Educação, o seguinte:
 
 2.º É alterado o artigo 3.º do aludido Regulamento, que passa a ter a seguinte redacção:
 
-Art. 3.º - 1 - São devidas pela utilização das seguintes instalações do complexo desportivo do Jamor/Estádio Nacional as taxas que se indicam:
+###### Artigo 3.º
+
+1 - São devidas pela utilização das seguintes instalações do complexo desportivo do Jamor/Estádio Nacional as taxas que se indicam:
 
 a) Campos relvados, pelo período de duas horas:
 
@@ -212,7 +229,11 @@ c) Outras filmagens de carácter publicitário ... 50000$00
 
 3.º Sempre que as instalações a que se refere a presente portaria sejam utilizadas pelos utentes com idade igual ou superior a 60 anos, as taxas a cobrar nos termos da mesma serão reduzidas a 50%.
 
+§ único. A taxa reduzida referida neste número só é aplicável nos dias úteis.
+
 4.º A presente portaria produz efeitos 15 dias após a sua publicação.
+
+> Alterado pelo/a [Portaria n.º 771/91](https://diariodarepublica.pt/dr/detalhe/portaria/771-1991-687794), publicado em 1991-08-06.
 
 Ministério da Educação.
 

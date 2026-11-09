@@ -1,0 +1,80 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:401690:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1967-12-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "42b664bf626b496f"
+   ]
+  },
+  {
+   "date": "1974-02-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:407489:por",
+     "title": "Decreto-Lei n.º 52/74",
+     "published": "1974-02-15",
+     "dre_path": "/dr/detalhe/decreto-lei/52-1974-407489"
+    },
+    {
+     "id": "pt:dre:407489:por",
+     "title": "Decreto-Lei n.º 52/74",
+     "published": "1974-02-15",
+     "dre_path": "/dr/detalhe/decreto-lei/52-1974-407489"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "bb1e0ef0448768f4",
+    "f31517a4173ac1dd",
+    "bfe67d4ea8017893"
+   ]
+  }
+ ],
+ "fragments": {
+  "42b664bf626b496f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que a Organização Geral do Ministério do Exército, promulgada pelo [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959, e legislação subsequente criaram lugares para oficiais superiores médicos do Serviço de Saúde Militar que não podem ser preenchidos por virtudes de insuficiência do seu quadro de oficiais, instituído pelo [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937;\n\nConvindo, portanto, proceder desde já, sem aumentos de encargos para o Tesouro, ao reajustamento do referido quadro de oficiais às exigências prementes das actividades do Serviço de Saúde Militar impostas pela actual conjuntura ultramarina, nos seus sectores de direcção e coordenação, actividades estas actualmente prejudicadas pelo desequilíbrio do quadro nos postos superiores;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º O quadro de oficiais médicos fixado pelo artigo 28.º do [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, passa a ser o seguinte:\n\nCoronéis ... 5\n\nTenentes-coronéis ... 9\n\nMajores ... 12\n\nCapitães ... 40\n\nSubalternos ... 30\n\nArt. 2.º Os encargos resultantes do reajustamento do quadro de oficiais do Serviço de Saúde Militar, de acordo com o artigo 1.º do presente diploma, serão suportados, no corrente ano, pelas disponibilidades da verba consignada no capítulo 8.º, artigo 326.º, n.º 1) «Pessoal dos quadros aprovados por lei», do orçamento do Ministério do Exército para o ano de 1967.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 20 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de oliveira - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "bb1e0ef0448768f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que a Organização Geral do Ministério do Exército, promulgada pelo [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959, e legislação subsequente criaram lugares para oficiais superiores médicos do Serviço de Saúde Militar que não podem ser preenchidos por virtudes de insuficiência do seu quadro de oficiais, instituído pelo [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937;\n\nConvindo, portanto, proceder desde já, sem aumentos de encargos para o Tesouro, ao reajustamento do referido quadro de oficiais às exigências prementes das actividades do Serviço de Saúde Militar impostas pela actual conjuntura ultramarina, nos seus sectores de direcção e coordenação, actividades estas actualmente prejudicadas pelo desequilíbrio do quadro nos postos superiores;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "f31517a4173ac1dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1974-02-15",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 52/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1974-407489), publicado em 1974-02-15."
+   ],
+   "markdown": "###### Artigo 1.º\n\nO quadro de oficiais médicos fixado pelo artigo 28.º do [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, passa a ser o seguinte:\n\nCoronéis ... 6\n\nTenentes-coronéis ... 9\n\nMajores ... 18\n\nCapitães e subalternos ... 60\n\n> Alterado pelo/a [Decreto-Lei n.º 52/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/52-1974-407489), publicado em 1974-02-15."
+  },
+  "bfe67d4ea8017893": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs encargos resultantes do reajustamento do quadro de oficiais do Serviço de Saúde Militar, de acordo com o artigo 1.º do presente diploma, serão suportados, no corrente ano, pelas disponibilidades da verba consignada no capítulo 8.º, artigo 326.º, n.º 1) «Pessoal dos quadros aprovados por lei», do orçamento do Ministério do Exército para o ano de 1967.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 20 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de oliveira - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:387825:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1967-10-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a25219ee3d36020c"
+   ]
+  },
+  {
+   "date": "1969-01-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:526816:por",
+     "title": "Decreto n.º 48851",
+     "published": "1969-01-25",
+     "dre_path": "/dr/detalhe/decreto/48851-1969-526816"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo único"
+   ],
+   "fragments": [
+    "6cdf14d064ffb640",
+    "cec2585f2430d492"
+   ]
+  }
+ ],
+ "fragments": {
+  "a25219ee3d36020c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Através do Diploma Legislativo Ministerial n.º 1, publicado no Boletim Oficial de Cabo Verde de 25 de Agosto de 1962, foi criada, naquela província, uma instituição de crédito denominada Caixa de Crédito Agro-Pecuário de Cabo Verde.\n\nO objectivo da mencionada Caixa era, como se estabelece no artigo 4.º do citado diploma, o financiamento de operações de crédito agro-pecuário destinadas, nomeadamente, à aquisição de sementes, plantas, adubos, gado, substâncias e produtos químicos destinados ao tratamento dos solos, das plantas, dos géneros agrícolas e das várias espécies pecuárias, aquisição de máquinas e alfaias agrícolas, conservação, transformação ou beneficiação dos produtos agrícolas ou pecuários e pagamento de contribuições, impostos e encargos com mão-de-obra.\n\nA evolução da economia da província tem vindo a realçar a necessidade de se conceder à Caixa de Crédito um campo de acção mais vasto, por forma a consentir que aquela instituição de crédito possa vir a apoiar iniciativas de outros sectores, nomeadamente das pescas e indústrias transformadoras conexas.\n\nAssim, ouvido o Governo da província:\n\nTendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por motivo de urgência;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:\n\nArtigo único. É alterada a redacção do corpo do artigo 2.º do Diploma Legislativo Ministerial n.º 1 publicado no Boletim Oficial de Cabo Verde de 25 de Agosto de 1962, que passará a ter a seguinte redacção:\n\nArt. 2.º A Caixa realizará, com vista ao fomento económico da província, operações de crédito a médio e longo prazos, nos sectores da agricultura e pecuária, das pescas e das indústrias transformadoras conexas.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 6 de Outubro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.\n\nPara ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha."
+  },
+  "6cdf14d064ffb640": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Através do Diploma Legislativo Ministerial n.º 1, publicado no Boletim Oficial de Cabo Verde de 25 de Agosto de 1962, foi criada, naquela província, uma instituição de crédito denominada Caixa de Crédito Agro-Pecuário de Cabo Verde.\n\nO objectivo da mencionada Caixa era, como se estabelece no artigo 4.º do citado diploma, o financiamento de operações de crédito agro-pecuário destinadas, nomeadamente, à aquisição de sementes, plantas, adubos, gado, substâncias e produtos químicos destinados ao tratamento dos solos, das plantas, dos géneros agrícolas e das várias espécies pecuárias, aquisição de máquinas e alfaias agrícolas, conservação, transformação ou beneficiação dos produtos agrícolas ou pecuários e pagamento de contribuições, impostos e encargos com mão-de-obra.\n\nA evolução da economia da província tem vindo a realçar a necessidade de se conceder à Caixa de Crédito um campo de acção mais vasto, por forma a consentir que aquela instituição de crédito possa vir a apoiar iniciativas de outros sectores, nomeadamente das pescas e indústrias transformadoras conexas.\n\nAssim, ouvido o Governo da província:\n\nTendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por motivo de urgência;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:"
+  },
+  "cec2585f2430d492": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo único",
+   "in_force_from": "1969-01-25",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 48851](https://diariodarepublica.pt/dr/detalhe/decreto/48851-1969-526816), publicado em 1969-01-25."
+   ],
+   "markdown": "###### Artigo único\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 48851](https://diariodarepublica.pt/dr/detalhe/decreto/48851-1969-526816), publicado em 1969-01-25.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 6 de Outubro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.\n\nPara ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha."
+  }
+ }
+}

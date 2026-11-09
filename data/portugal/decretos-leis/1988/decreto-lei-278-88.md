@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-04-27'
+version_history:
+  file: decreto-lei-278-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-04-27'
+    amending: pt:dre:478048:por
+    amending_title: Decreto-Lei n.º 150-A/91
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:41:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 150-A/91. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-278-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -157,13 +172,15 @@ Cabe a cada município determinar a localização e número dos fogos a destinar
 
 ###### Artigo 5.º — Comparticipações
 
-1 - As comparticipações referidas no artigo 1.º podem ser concedidas por cada município e pelo Estado, através do Instituto de Gestão e Alienação do Património Habitacional do Estado, adiante designado por IGAPHE, até 40% do preço de venda das habitações, em partes iguais e sem qualquer contrapartida.
+1 - As comparticipações referidas no artigo 1.º podem ser concedidas por cada município e pelo Estado, através do Instituto de Gestão e Alienação do Património Habitacional do Estado, adiante designado por IGAPHE, até 50% do preço de venda das habitações, suportando o IGAPHE 50% desta comparticipação.
 
 2 - Para efeitos do disposto no número anterior, devem as autarquias locais, antes do início da execução ou aquisição dos empreendimentos em causa, apresentar as respectivas candidaturas ao IGAPHE, instruídas com os elementos necessários e suficientes para a apreciação e concretização das comparticipações em causa.
 
 3 - O preço de venda das habitações sociais será determinado de acordo com o estabelecido no [Decreto-Lei n.º 220/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1983-451825), de 26 de Maio, e legislação complementar.
 
 4 - Em relação à parte do preço de venda não comparticipada nos termos do disposto no n.º 1, podem os beneficiários recorrer ao sistema de crédito à habitação própria instituído pelo [Decreto-Lei n.º 328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro.
+
+> Alterado pelo/a [Decreto-Lei n.º 150-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-a-1991-478048), publicado em 1991-04-22.
 
 ###### Artigo 6.º — Meios financeiros
 

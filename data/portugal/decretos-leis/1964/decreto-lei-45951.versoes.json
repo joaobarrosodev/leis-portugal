@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:536860:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1964-10-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "382925b3d0eb4eb5"
+   ]
+  },
+  {
+   "date": "1965-09-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:509817:por",
+     "title": "Decreto-Lei n.º 46537",
+     "published": "1965-09-15",
+     "dre_path": "/dr/detalhe/decreto-lei/46537-1965-509817"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "b1294e9454495e01",
+    "c62394096fc9ec38",
+    "0dd5972b1862c63f",
+    "62ac198d1751fe27"
+   ]
+  }
+ ],
+ "fragments": {
+  "382925b3d0eb4eb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo a prática demonstrado a necessidade de dotar a Escola Prática de Engenharia com o pessoal civil absolutamente indispensável à boa execução dos complexos serviços técnicos e gerais que lhe são atribuídos;\n\nConsiderando que estes serviços vêm sendo desempenhados a título precário por pessoal civil, parte remunerado por verba inscrita no orçamento ordinário do Ministério do Exército destinada a pessoal civil eventual e outra parte por verbas dos fundos privativos da referida Escola, impõe-se a actualização do respectivo quadro com vista à uniformização e integração do referido pessoal, o qual passa, assim, a beneficiar, em igualdade de circunstâncias, de uma situação mais estável e das correspondentes regalias no campo assistencial e no da previdência;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º O quadro orgânico do pessoal civil da Escola Prática de Engenharia é o constante do mapa anexo ao presente decreto-lei.\n\nArt. 2.º O pessoal civil, a que se refere o artigo anterior, será provido nos respectivos cargos, desde que satisfaça às condições legais estabelecidas, por proposta fundamentada do comandante da Escola, aprovada pelo Ministro do Exército.\n\nArt. 3.º O pessoal que for mantido ao serviço, transitando para o novo quadro orgânico, continuará a perceber os vencimentos pelas disponibilidades das verbas descritas no orçamento ordinário do Ministério do Exército para 1964, até à abertura do competente crédito reforçando a dotação.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 6 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nMapa anexo ao Decreto-Lei n.º 45951, de 6 de Outubro de 1964\n\nEscola Prática de Engenharia\n\nQuadro orgânico do pessoal civil\n\na) Pessoal contratado\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/10/23400/14091410.pdf)\n\nb) Pessoal assalariado\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/10/23400/14091410.pdf)\n\nMinistério do Exército, 6 de Outubro de 1964. - O Ministro do Exército, Joaquim da Luz Cunha."
+  },
+  "b1294e9454495e01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo a prática demonstrado a necessidade de dotar a Escola Prática de Engenharia com o pessoal civil absolutamente indispensável à boa execução dos complexos serviços técnicos e gerais que lhe são atribuídos;\n\nConsiderando que estes serviços vêm sendo desempenhados a título precário por pessoal civil, parte remunerado por verba inscrita no orçamento ordinário do Ministério do Exército destinada a pessoal civil eventual e outra parte por verbas dos fundos privativos da referida Escola, impõe-se a actualização do respectivo quadro com vista à uniformização e integração do referido pessoal, o qual passa, assim, a beneficiar, em igualdade de circunstâncias, de uma situação mais estável e das correspondentes regalias no campo assistencial e no da previdência;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "c62394096fc9ec38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO quadro orgânico do pessoal civil da Escola Prática de Engenharia é o constante do mapa anexo ao presente decreto-lei."
+  },
+  "0dd5972b1862c63f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1965-09-15",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 46537](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46537-1965-509817), publicado em 1965-09-15."
+   ],
+   "markdown": "###### Artigo 2.º\n\nA admissão e demissão do pessoal civil contratado serão feitas pelo Ministro do Exército, mediante proposta da Escola Prática de Engenharia, nos termos da legislação em vigor.\n\nO pessoal civil assalariado é admitido e despedido pelo comandante da Escola Prática de Engenharia, cumpridas as disposições legais em vigor e depois de ouvida a Direcção do Serviço de Pessoal, no que respeita à admissão do pessoal civil assalariado permanente.\n\n> Alterado pelo/a [Decreto-Lei n.º 46537](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46537-1965-509817), publicado em 1965-09-15."
+  },
+  "62ac198d1751fe27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO pessoal que for mantido ao serviço, transitando para o novo quadro orgânico, continuará a perceber os vencimentos pelas disponibilidades das verbas descritas no orçamento ordinário do Ministério do Exército para 1964, até à abertura do competente crédito reforçando a dotação.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 6 de Outubro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nMapa anexo ao Decreto-Lei n.º 45951, de 6 de Outubro de 1964\n\nEscola Prática de Engenharia\n\nQuadro orgânico do pessoal civil\n\na) Pessoal contratado\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/10/23400/14091410.pdf)\n\nb) Pessoal assalariado\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/10/23400/14091410.pdf)\n\nMinistério do Exército, 6 de Outubro de 1964. - O Ministro do Exército, Joaquim da Luz Cunha."
+  }
+ }
+}

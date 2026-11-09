@@ -1,0 +1,176 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:462431:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1980-10-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bf65f4097f4d63dd"
+   ]
+  },
+  {
+   "date": "1981-11-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:568514:por",
+     "title": "Decreto Regulamentar n.º 53/81",
+     "published": "1981-11-20",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/53-1981-568514"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "56212189d25f2e65",
+    "cadc8e1d158c414f",
+    "4dabeaf9f1ae9a6d",
+    "51bc7a7284624edc",
+    "24ae34ce6428dbac",
+    "ec4ac9bea5c726d8",
+    "f8eea8de9b1ad2cc",
+    "a7bf990b39e2a873",
+    "ba5054beb71cdef3",
+    "62da795107d3c527",
+    "6cd8ea6d941eb9f9",
+    "02c0a12163d73ea4",
+    "2367cb8add4b79db",
+    "d3517da3ad1b0deb"
+   ]
+  }
+ ],
+ "fragments": {
+  "bf65f4097f4d63dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Outubro\n\nAo abrigo do disposto no [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, e nos Decretos-Leis n.os [179/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1980-474879) e [182/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1980-474880), de 3 de Junho:\n\nO Governo decreta, nos termos da alínea e) do artigo 202.º da Constituição, o seguinte:\n\nArtigo 1.º Os adidos que à entrada em vigor do presente diploma se encontrem integrados no quadro de supranumerários criado no Ministério da Educação e Ciência pela [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, e ainda aqueles que, ao abrigo da mesma portaria, o venham a ser até 31 de Dezembro de 1980 serão integrados no quadro privativo dos estabelecimentos de ensino básico e secundário, escolas normais de educadores de infância, escolas do magistério primário, jardins-de-infância e direcções de distrito escolar, de acordo com as regras estabelecidas nos artigos subsequentes.\n\nArt. 2.º - 1 - O pessoal referido no artigo anterior em serviço em estabelecimentos de ensino que se encontre provido na categoria de primeiro-oficial transitará, até ao limite dos lugares vagos do respectivo quadro único e nos termos dos n.os 3 e 4 deste artigo, para a categoria de chefe de serviços administrativos de 1.ª classe, desde que em 1 de Janeiro de 1979 reunisse cumulativamente as seguintes condições:\n\na) Possuir, pelo menos, seis anos de bom e efectivo serviço na categoria;\n\nb) Prestar serviço há, pelo menos, um ano em estabelecimentos de ensino;\n\nc) Possuir as habilitações literárias legalmente exigidas para o exercício do lugar.\n\n2 - Transitarão, até ao limite dos lugares vagos do respectivo quadro único e nos termos dos n.os 3 e 4 deste artigo, para a categoria de chefe de serviços administrativos de 2.ª classe os primeiros-oficiais que, não sendo abrangidos pelo disposto no número anterior, em 1 de Janeiro de 1979 reunissem cumulativamente as seguintes condições:\n\na) Possuir, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Prestar serviço há, pelo menos, um ano em estabelecimentos de ensino;\n\nc) Possuir as habilitações literárias legalmente exigidas para o exercício do lugar.\n\n3 - Desde que se verifique a existência de lugares vagos nas categorias de chefe de serviços administrativos de 1.ª classe e de 2.ª classe, é conferido ao pessoal mencionado neste artigo o direito a ser provido no quadro privativo do estabelecimento de ensino onde presta serviço, de acordo com a respectiva dotação, respeitando-se, porém, as regras estabelecidas nos números anteriores.\n\n4 - Ao mesmo pessoal, uma vez satisfeitas as condições referidas nos n.os 1 e 2 deste artigo, é, ainda, atribuída a faculdade de requerer o provimento em estabelecimento de ensino diferente daquele onde presta serviço, desde que existam lugares vagos nas categorias mencionadas no número anterior.\n\nArt. 3.º - 1 - O pessoal referido no artigo 1.º em serviço nas direcções de distrito escolar que se encontre provido nas categorias de chefe de secção ou de primeiro-oficial transitará, até ao limite dos lugares vagos do respectivo quadro único e mediante proposta do respectivo director, para a categoria de chefe de secção do quadro, desde que em 1 de Janeiro de 1979 possuísse, pelo menos, um ano de serviço nas respectivas categorias.\n\n2 - Terá preferência absoluta o pessoal da primeira das categorias mencionadas no número anterior.\n\nArt. 4.º O pessoal abrangido pelo artigo 1.º que se encontre provido nas categorias de segundo-oficial e terceiro-oficial transitará para a categoria imediatamente superior, desde que em 1 de Janeiro de 1979 reunisse cumulativamente as seguintes condições, consoante os casos:\n\na) Possuir, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Prestar serviço há, pelo menos, um ano em estabelecimento de ensino ou direcção de distrito escolar;\n\nc) Possuir as habilitações literárias legalmente exigidas para o exercício do lugar.\n\nArt. 5.º O pessoal abrangido pelo artigo 1.º que se encontre provido como escriturário-dactilógrafo e que possua as habilitações legais exigidas pelo n.º 2 do artigo 11.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, transita para a categoria de terceiro-oficial, desde que em 1 de Janeiro de 1979 reunisse cumulativamente as seguintes condições, consoante os casos:\n\na) Possuir, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Prestar serviço há, pelo menos, um ano em estabelecimento de ensino ou direcção de distrito escolar;\n\nc) Estar habilitado com a escolaridade obrigatória, de harmonia com a respectiva idade.\n\nArt. 6.º O pessoal referido no artigo 1.º que se encontre provido na categoria de servente transitará para a categoria de contínuo desde que em 1 de Janeiro de 1979 reunisse cumulativamente as seguintes condições, consoante os casos:\n\na) Possuir, pelo menos, dois anos de bom e efectivo serviço na categoria;\n\nb) Prestar serviço há, pelo menos, um ano em estabelecimento de ensino ou direcção de distrito escolar;\n\nc) Possuir as habilitações literárias legalmente exigidas para o provimento na categoria.\n\nArt. 7.º O pessoal referido no artigo 1.º que, de acordo com as regras estabelecidas no presente diploma, não tenha direito a ser promovido será integrado no quadro privativo do respectivo estabelecimento de ensino ou direcção de distrito escolar, na categoria em que actualmente se encontra provido, desde que possua as habilitações literárias legalmente exigidas.\n\nArt. 8.º - 1 - Ao pessoal abrangido pelo disposto nos artigos 3.º, no que se refere à categoria de primeiro-oficial, 4.º, 5.º e 6.º é igualmente conferido o direito a ser provido no quadro do estabelecimento de ensino ou direcção de distrito escolar onde actualmente presta serviço.\n\n2 - Para efeitos do disposto no número anterior, consideram-se automaticamente criados nos quadros privativos dos estabelecimentos de ensino básico e secundário, escolas normais de educadores de infância, escolas do magistério primário, jardins-de-infância e direcções de distrito escolar tantos lugares quantos os necessários nas diversas categorias, desde que não seja aumentado, em cada uma delas, o número total de lugares do quadro único.\n\n3 - Ao pessoal a que se refere o n.º 1 deste artigo é ainda conferida a possibilidade de optar pelo provimento nos quadros privativos de estabelecimentos de ensino ou direcções de distrito escolar, consoante os casos, diferentes daqueles onde actualmente exerce funções, desde que se verifique a existência de lugares vagos nas respectivas categorias.\n\nArt. 9.º Quando pela Direcção-Geral de Recrutamento e Formação venham a ser reclassificados, nos termos do artigo 2.º deste decreto, na categoria de chefe de serviços administrativos, funcionários integrados ou a integrar até 31 de Dezembro de 1980 no quadro de supranumerários criado pela [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), serão os mesmos providos na categoria que, em conformidade com aquela disposição, lhes couber.\n\nArt. 10.º Para efeitos de aplicação do disposto no presente diploma, ao pessoal adido que for integrado até 31 de Dezembro de 1980 no quadro de supranumerários a que se refere a Portaria. n.º 136/79, de 28 de Março, em categorias resultantes de reclassificação efectuada pela Direcção-Geral de Recrutamento e Formação será contado, como se tivesse sido prestado nessas categorias, todo o tempo de serviço que o mesmo possua desde que iniciou as funções às mesmas inerentes em estabelecimento de ensino ou direcção de distrito escolar.\n\nArt. 11.º Os primeiros provimentos a realizar nos termos do presente diploma só se efectuarão após a primeira movimentação prevista nos Decretos-Leis n.os [273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, [370/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1979-370608), de 6 de Setembro, e [57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 26 de Março.\n\nArt. 12.º As dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e Ciência ou por despacho conjunto deste último, do Ministro das Finanças e do Plano e do membro do Governo que superintender na função pública, se tal se revelar necessário.\n\nArt. 13.º O presente diploma produz efeitos a partir de 1 de Janeiro de 1979, nomeadamente quanto ao pagamento de remunerações e contagem de tempo de serviço.\n\nFrancisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Vítor Pereira Crespo.\n\nPromulgado em 10 de Outubro de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "56212189d25f2e65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Outubro\n\nAo abrigo do disposto no [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, e nos Decretos-Leis n.os [179/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1980-474879) e [182/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1980-474880), de 3 de Junho:\n\nO Governo decreta, nos termos da alínea e) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "cadc8e1d158c414f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1981-11-20",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 53/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1981-568514), publicado em 1981-11-20."
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs adidos que à data da entrada em vigor do presente diploma se encontrem integrados no quadro de supranumerários criado no Ministério da Educação e Ciência pela [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, e ainda aqueles que, ao abrigo da mesma portaria, o venham a ser até 31 de Dezembro de 1980, além daqueles que tenham sido colocados até 31 de Dezembro de 1980, serão integrados no quadro privativo dos estabelecimentos de ensino básico o secundário, escolas normais de educadoras de infância, escolas do magistério primário, jardins-de-infância e direcções do distrito escolar, de acordo com as regras estabelecidas nos artigos subsequentes.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 53/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1981-568514), publicado em 1981-11-20."
+  },
+  "4dabeaf9f1ae9a6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - O pessoal referido no artigo anterior em serviço em estabelecimentos de ensino que se encontre provido na categoria de primeiro-oficial transitará, até ao limite dos lugares vagos do respectivo quadro único e nos termos dos n.os 3 e 4 deste artigo, para a categoria de chefe de serviços administrativos de 1.ª classe, desde que em 1 de Janeiro de 1979 reunisse cumulativamente as seguintes condições:\n\na) Possuir, pelo menos, seis anos de bom e efectivo serviço na categoria;\n\nb) Prestar serviço há, pelo menos, um ano em estabelecimentos de ensino;\n\nc) Possuir as habilitações literárias legalmente exigidas para o exercício do lugar.\n\n2 - Transitarão, até ao limite dos lugares vagos do respectivo quadro único e nos termos dos n.os 3 e 4 deste artigo, para a categoria de chefe de serviços administrativos de 2.ª classe os primeiros-oficiais que, não sendo abrangidos pelo disposto no número anterior, em 1 de Janeiro de 1979 reunissem cumulativamente as seguintes condições:\n\na) Possuir, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Prestar serviço há, pelo menos, um ano em estabelecimentos de ensino;\n\nc) Possuir as habilitações literárias legalmente exigidas para o exercício do lugar.\n\n3 - Desde que se verifique a existência de lugares vagos nas categorias de chefe de serviços administrativos de 1.ª classe e de 2.ª classe, é conferido ao pessoal mencionado neste artigo o direito a ser provido no quadro privativo do estabelecimento de ensino onde presta serviço, de acordo com a respectiva dotação, respeitando-se, porém, as regras estabelecidas nos números anteriores.\n\n4 - Ao mesmo pessoal, uma vez satisfeitas as condições referidas nos n.os 1 e 2 deste artigo, é, ainda, atribuída a faculdade de requerer o provimento em estabelecimento de ensino diferente daquele onde presta serviço, desde que existam lugares vagos nas categorias mencionadas no número anterior."
+  },
+  "51bc7a7284624edc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O pessoal referido no artigo 1.º em serviço nas direcções de distrito escolar que se encontre provido nas categorias de chefe de secção ou de primeiro-oficial transitará, até ao limite dos lugares vagos do respectivo quadro único e mediante proposta do respectivo director, para a categoria de chefe de secção do quadro, desde que em 1 de Janeiro de 1979 possuísse, pelo menos, um ano de serviço nas respectivas categorias.\n\n2 - Terá preferência absoluta o pessoal da primeira das categorias mencionadas no número anterior."
+  },
+  "24ae34ce6428dbac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO pessoal abrangido pelo artigo 1.º que se encontre provido nas categorias de segundo-oficial e terceiro-oficial transitará para a categoria imediatamente superior, desde que em 1 de Janeiro de 1979 reunisse cumulativamente as seguintes condições, consoante os casos:\n\na) Possuir, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Prestar serviço há, pelo menos, um ano em estabelecimento de ensino ou direcção de distrito escolar;\n\nc) Possuir as habilitações literárias legalmente exigidas para o exercício do lugar."
+  },
+  "ec4ac9bea5c726d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO pessoal abrangido pelo artigo 1.º que se encontre provido como escriturário-dactilógrafo e que possua as habilitações legais exigidas pelo n.º 2 do artigo 11.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, transita para a categoria de terceiro-oficial, desde que em 1 de Janeiro de 1979 reunisse cumulativamente as seguintes condições, consoante os casos:\n\na) Possuir, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Prestar serviço há, pelo menos, um ano em estabelecimento de ensino ou direcção de distrito escolar;\n\nc) Estar habilitado com a escolaridade obrigatória, de harmonia com a respectiva idade."
+  },
+  "f8eea8de9b1ad2cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO pessoal referido no artigo 1.º que se encontre provido na categoria de servente transitará para a categoria de contínuo desde que em 1 de Janeiro de 1979 reunisse cumulativamente as seguintes condições, consoante os casos:\n\na) Possuir, pelo menos, dois anos de bom e efectivo serviço na categoria;\n\nb) Prestar serviço há, pelo menos, um ano em estabelecimento de ensino ou direcção de distrito escolar;\n\nc) Possuir as habilitações literárias legalmente exigidas para o provimento na categoria."
+  },
+  "a7bf990b39e2a873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO pessoal referido no artigo 1.º que, de acordo com as regras estabelecidas no presente diploma, não tenha direito a ser promovido será integrado no quadro privativo do respectivo estabelecimento de ensino ou direcção de distrito escolar, na categoria em que actualmente se encontra provido, desde que possua as habilitações literárias legalmente exigidas."
+  },
+  "ba5054beb71cdef3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Ao pessoal abrangido pelo disposto nos artigos 3.º, no que se refere à categoria de primeiro-oficial, 4.º, 5.º e 6.º é igualmente conferido o direito a ser provido no quadro do estabelecimento de ensino ou direcção de distrito escolar onde actualmente presta serviço.\n\n2 - Para efeitos do disposto no número anterior, consideram-se automaticamente criados nos quadros privativos dos estabelecimentos de ensino básico e secundário, escolas normais de educadores de infância, escolas do magistério primário, jardins-de-infância e direcções de distrito escolar tantos lugares quantos os necessários nas diversas categorias, desde que não seja aumentado, em cada uma delas, o número total de lugares do quadro único.\n\n3 - Ao pessoal a que se refere o n.º 1 deste artigo é ainda conferida a possibilidade de optar pelo provimento nos quadros privativos de estabelecimentos de ensino ou direcções de distrito escolar, consoante os casos, diferentes daqueles onde actualmente exerce funções, desde que se verifique a existência de lugares vagos nas respectivas categorias."
+  },
+  "62da795107d3c527": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nQuando pela Direcção-Geral de Recrutamento e Formação venham a ser reclassificados, nos termos do artigo 2.º deste decreto, na categoria de chefe de serviços administrativos, funcionários integrados ou a integrar até 31 de Dezembro de 1980 no quadro de supranumerários criado pela [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), serão os mesmos providos na categoria que, em conformidade com aquela disposição, lhes couber."
+  },
+  "6cd8ea6d941eb9f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1981-11-20",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 53/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1981-568514), publicado em 1981-11-20."
+   ],
+   "markdown": "###### Artigo 10.º\n\nPara efeitos de aplicação do disposto no presente diploma, ao pessoal adido que foi integrado até 31 de Dezembro de 1980 no quadro de supranumerários a que se refere a [Portaria n.º 136/79](https://diariodarepublica.pt/dr/detalhe/portaria/136-1979-382866), de 28 de Março, e àquele que tenha sido colocado até essa mesma data e que venha posteriormente a ser integrado nesse quadro em categorias resultantes da reclassificação proposta pelo director-geral da Integração Administrativa e aprovada pelos Ministros da Educação e das Universidades e da Reforma Administrativa será contado, como se tivesse sido prestado nessas categorias, todo o tempo de serviço que o mesmo possua desde que iniciou as funções às mesmas inerentes em estabelecimento de ensino ou direcção de distrito escolar.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 53/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1981-568514), publicado em 1981-11-20."
+  },
+  "02c0a12163d73ea4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs primeiros provimentos a realizar nos termos do presente diploma só se efectuarão após a primeira movimentação prevista nos Decretos-Leis n.os [273/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-1979-381374), de 3 de Agosto, [370/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/370-1979-370608), de 6 de Setembro, e [57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 26 de Março."
+  },
+  "2367cb8add4b79db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs dúvidas surgidas na execução deste diploma serão resolvidas por despacho do Ministro da Educação e Ciência ou por despacho conjunto deste último, do Ministro das Finanças e do Plano e do membro do Governo que superintender na função pública, se tal se revelar necessário."
+  },
+  "d3517da3ad1b0deb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO presente diploma produz efeitos a partir de 1 de Janeiro de 1979, nomeadamente quanto ao pagamento de remunerações e contagem de tempo de serviço.\n\nFrancisco Sá Carneiro - Diogo Pinto de Freitas do Amaral - Vítor Pereira Crespo.\n\nPromulgado em 10 de Outubro de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

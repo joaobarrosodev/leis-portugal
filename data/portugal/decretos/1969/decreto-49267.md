@@ -30,10 +30,38 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-08-11'
+version_history:
+  file: decreto-49267.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-09-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-08-11'
+    amending: pt:dre:426693:por
+    amending_title: Decreto-Lei n.º 308/99
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:09:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 308/99. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1969/decreto-49267.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,101 +150,95 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º O orçamento das despesas do Fundo de Turismo conterá as verbas necessárias para a satisfação dos encargos resultantes da execução do artigo 3.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), desta data, classificadas de acordo com as rubricas legais.
+###### Artigo 1.º
 
-Art. 2.º Compete ao director do Fundo de Turismo:
+(Revogado.)
 
-1) Elaborar e levar à apreciação da comissão administrativa:
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
-a) As propostas do orçamento;
+###### Artigo 2.º
 
-b) As propostas de planos de financiamento;
+(Revogado.)
 
-c) As minutas dos contratos a celebrar pelo Fundo de Turismo para a realização das operações autorizadas pelo Secretário de Estado da Informação e Turismo;
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
-d) As restantes matérias referentes à gerência do Fundo;
+###### Artigo 3.º
 
-e) Todos os outros assuntos a submeter a despacho do Secretário de Estado;
+(Revogado.)
 
-2) Executar as deliberações da comissão administrativa;
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
-3) Acompanhar o cumprimento das operações realizadas, ordenando vistorias, exames e demais diligências que forem necessárias;
+###### Artigo 4.º
 
-4) Elaborar relatórios mensais sobre a execução dos planos de financiamento aprovados;
+(Revogado.)
 
-5) Dirigir os serviços do Fundo, de acordo com as deliberações da comissão administrativa e exercer acção disciplinar sobre o pessoal.
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
-Art. 3.º - 1. Na elaboração das propostas de planos de financiamento o director do Fundo ouvirá sempre a Direcção-Geral do Turismo.
+###### Artigo 5.º
 
-2. O director comunicará àquela Direcção-Geral todos os factos que a esta compete apreciar e solicitar-lhe-á a realização das inspecções que por força da lei estão a cargo dos respectivos serviços de inspecção.
+(Revogado.)
 
-Art. 4.º - 1. Os empréstimos a conceder pelo Fundo serão a médio e a longo prazo e vencerão a taxa de juro que for anualmente fixada pelo Secretário de Estado da Informação e Turismo, sob proposta da comissão administrativa.
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
-2. Serão a longo prazo apenas os empréstimos que se destinem a financiar a construção de novos estabelecimentos hoteleiros e similares ou a remodelação total, quer dos estabelecimentos já existentes, quer de edifícios a adaptar a este fim.
+###### Artigo 6.º
 
-3. Os empréstimos serão amortizáveis em prestações anuais, que não poderão exceder o número de doze, se os empréstimos forem a longo prazo, e o de sete, se forem a médio prazo.
+(Revogado.)
 
-4. O pagamento das prestações iniciar-se-á a partir do terceiro ano, contado da entrada em exploração do empreendimento ou da obra realizada.
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
-Art. 5.º O montante máximo dos empréstimos não poderá exceder as seguintes percentagens do custo dos empreendimentos, obras ou aquisições a financiar:
+###### Artigo 7.º
 
-1) Tratando-se de estabelecimentos hoteleiros e similares;
+(Revogado.)
 
-a) 50 por cento, no caso de novas construções ou remodelações totais;
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
-b) 40 por cento, no caso de ampliação, modernização e transformação dos estabelecimentos já existentes;
+###### Artigo 8.º
 
-c) 30 por cento, para aquisição de mobiliário, decoração e equipamento de estabelecimentos já existentes;
+(Revogado.)
 
-2) Tratando-se de outros empreendimentos: 40 por cento.
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
-Art. 6.º - 1. Os empréstimos concedidos a empresas privadas serão caucionados por qualquer das formas admitidas em direito.
+###### Artigo 9.º
 
-2. A comissão administrativa fixará as garantias a prestar em cada caso, tendo em atenção as características do empreendimento.
+(Revogado.)
 
-3. O Fundo só poderá aceitar segundas hipotecas quando a primeira tiver sido constituída a seu favor ou de qualquer estabelecimento de crédito do Estado.
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
-Art. 7.º - 1. Os tipos de garantias a prestar pelo Fundo, nos termos da alínea d) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), serão definidos por despacho do Secretário de Estado da Informação e Turismo, sob proposta da respectiva comissão administrativa e ouvida a Caixa Geral de Depósitos, Crédito e Previdência para as garantias a esta prestadas.
+###### Artigo 10.º
 
-2. Os beneficiários das garantias previstas no número anterior prestarão a favor do Fundo caução idónea, para garantir as obrigações por este assumidas.
+(Revogado.)
 
-Art. 8.º - 1. Sob proposta da Direcção-Geral do Turismo, o Fundo poderá conceder subsídios para:
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
-a) A construção, ampliação ou remodelação de edifícios destinados a estabelecimentos hoteleiros e similares e seu apetrechamento;
+###### Artigo 11.º
 
-b) A realização de festivais, competições ou manifestações culturais ou desportivas de reconhecido interesse turístico;
+(Revogado.)
 
-c) A execução de quaisquer outros empreendimentos de interesse para o turismo;
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
-d) A publicidade levada a efeito pelos órgãos locais de turismo.
+###### Artigo 12.º
 
-2. Os subsídios a que se referem as alíneas do número anterior só poderão ser concedidos quando as realizações previstas se integrem nos planos de desenvolvimento turístico da região respectiva superiormente aprovados.
+(Revogado.)
 
-3. Os subsídios previstos nas alíneas a), c) e d) do n.º 1 não poderão exceder 50 por cento do custo das realizações.
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
-Art. 9.º - 1. Os pedidos de assistência financeira deverão ser apresentados no Fundo de Turismo.
+###### Artigo 13.º
 
-2. Para apreciação de quaisquer destes pedidos, o Fundo poderá exigir dos interessados a apresentação de um estudo económico e de quaisquer outros elementos que considere necessários, de acordo com as características e importância do empreendimento.
+(Revogado.)
 
-Art. 10.º - 1. O Fundo estabelecerá, nos contratos de empréstimo e nas cláusulas de concessão de subsídios, que a prestação total dos financiamentos ficará sempre dependente da concretização das várias fases dos empreendimentos, de acordo com os projectos aprovados pela Direcção-Geral do Turismo.
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
-2. Para este efeito, o Fundo reservar-se-á sempre o direito de verificar a realização dos empreendimentos no seu aspecto técnico.
+###### Artigo 14.º
 
-3. Nos contratos de empréstimo deverá ainda estabelecer-se que estes poderão ser rescindidos e as importâncias em dívida se vencerão imediatamente quando não sejam cumpridas as disposições legais reguladoras dos empreendimentos financiados, nomeadamente quanto aos estabelecimentos hoteleiros e similares, se estes baixarem de categoria por facto imputável às empresas proprietárias ou exploradoras.
+(Revogado.)
 
-Art. 11.º - 1. A Direcção-Geral do Turismo será sempre ouvida pelo Fundo sobre o interesse dos empreendimentos cujo financiamento tenha sido pedido.
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
-2. Quando a Direcção-Geral do Turismo tiver sido prèviamente consultada sobre o interesse de um empreendimento e dessa consulta constar um pedido de assistência financeira, a Direcção-Geral enviará ao Fundo esse pedido acompanhado deste logo do seu parecer.
+###### Artigo 15.º
 
-Art. 12.º - 1. Compete à Direcção-Geral do Turismo propor ao Fundo o financiamento dos empreendimentos previstos nas alíneas e) e f) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264).
+(Revogado.)
 
-2. Para este efeito, a Direcção-Geral do Turismo enviará ao Fundo proposta devidamente fundamentada sobre o interesse dos empreendimentos.
-
-Art. 13.º Os estudos previstos na alínea g) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), só poderão ser realizados em colaboração com a Direcção-Geral do Turismo e mediante o seu parecer favorável.
-
-Art. 14.º Depois de devidamente instruídos, a comissão administrativa do Fundo dará o seu parecer sobre os planos de financiamento, os pedidos de assistência financeira, as propostas da Direcção-Geral do Turismo e quaisquer outros assuntos que careçam de resolução superior, e submetê-lo-á à aprovação do Secretário de Estado da Informação e Turismo.
-
-Art. 15.º São revogados os artigos 4.º, 8.º e 10.º a 20.º do [Decreto n.º 40913](https://diariodarepublica.pt/dr/detalhe/decreto/40913-1956-299204), de 20 de Dezembro de 1956, e o artigo único do [Decreto n.º 48553](https://diariodarepublica.pt/dr/detalhe/decreto/48553-1968-265142), de 23 de Março de 1961.
+> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.
 
 Marcello Caetano - César Henrique Moreira Baptista.
 

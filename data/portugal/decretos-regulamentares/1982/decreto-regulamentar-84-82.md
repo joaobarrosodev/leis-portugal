@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1996-08-17'
+version_history:
+  file: decreto-regulamentar-84-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-11-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1996-08-17'
+    amending: pt:dre:405309:por
+    amending_title: Decreto Regulamentar n.º 6/96
+    changes:
+    - Revoga Artigo 55.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:06:28Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 6/96. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1982/decreto-regulamentar-84-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -590,7 +605,9 @@ A gestão das associações de beneficiários far-se-á através de planos pluri
 
 ###### Artigo 55.º — (Estatuto laboral)
 
-O estatuto laboral dos trabalhadores das associações de beneficiários será estabelecido por portaria conjunta dos Ministros da Agricultura, Comércio e Pescas e do Trabalho.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1996-405309), publicado em 1996-08-12.
 
 ###### Artigo 56.º — (Regalias das associações de beneficiários)
 

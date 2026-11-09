@@ -1,0 +1,104 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:325514:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-04-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7ce1e985ed877d09"
+   ]
+  },
+  {
+   "date": "1989-10-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:549249:por",
+     "title": "Decreto-Lei n.º 365/89",
+     "published": "1989-10-19",
+     "dre_path": "/dr/detalhe/decreto-lei/365-1989-549249"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "0ef6f5fb5eff88f6",
+    "b88e20df450e4daa",
+    "e7b0a5aea272ddc3",
+    "a2a7426e4853a98c",
+    "447f9d74426e0898",
+    "93dd3c275e3dd66b"
+   ]
+  }
+ ],
+ "fragments": {
+  "7ce1e985ed877d09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Abril\n\nA dinâmica decorrente da autonomia regional vem exigindo a adopção de medidas legislativas conducentes à transferência de competências complementares das já cometidas às regiões autónomas e que se revelam indispensáveis para a maior eficácia do exercício destas competências e para a realização das atribuições dos respectivos órgãos de governo próprio.\n\nNa área do trabalho, o processo de regionalização dotou os governos regionais, através dos Decretos-Leis n.os [294/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1978-329444), de 22 de Setembro, e [243/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1978-299068), de 19 de Agosto, dos necessários poderes para, no âmbito dos territórios das Regiões Autónomas da Madeira e dos Açores, definirem, nos limites impostos pela Constituição da República, as respectivas políticas laborais e, consequentemente, para assumirem todas as competências e atribuições correspondentes.\n\nNesse contexto legal enquadra-se, nomeadamente, a faculdade consagrada na alínea a) do artigo 1.º dos diplomas legais citados de as regiões autónomas regulamentarem, por via administrativa, nos termos da legislação nacional aplicável, as condições de trabalho dos sectores de actividade profissional ou económica circunscritos exclusivamente ao território de cada região autónoma.\n\nNo que se refere à aplicação dos instrumentos de regulamentação colectiva não convencional e de âmbito supra-regional nas regiões autónomas, a mesma tem vindo a ser objecto de constante atenção e de esforços de coordenação entre os órgãos do Governo da República e dos governos regionais, sem contudo se terem alcançado as desejáveis celeridade e eficácia, objectivos que se apresentam prementes e viáveis relativamente à emissão de portarias de extensão.\n\nDeste modo, pelo presente diploma consagram-se os mecanismos legais que possibilitam o aperfeiçoamento e a maior celeridade dos processos de aplicação nas regiões autónomas, por via de portaria de extensão, das convenções colectivas de trabalho e das decisões arbitrais cujo âmbito seja nacional ou em qualquer medida exceda a área daquelas regiões.\n\nAssim, ouvidas as regiões autónomas:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º É atribuída às Regiões Autónomas dos Açores e da Madeira, nos termos do presente diploma, a competência para a emissão, com âmbito limitado ao respectivo território, de portarias de extensão de convenções colectivas de trabalho e de decisões arbitrais cujo âmbito exceda a área de cada uma daquelas regiões autónomas.\n\nArt. 2.º - 1 - Os avisos para portarias de extensão das convenções colectivas de trabalho referidas no artigo anterior serão emitidas pelo Governo da República, nos termos da legislação nacional em vigor, e objecto de publicação no Boletim do Trabalho e Emprego e no jornal oficial de cada região autónoma.\n\n2 - O Ministro do Trabalho e Segurança Social comunicará às secretarias regionais competentes as oposições que forem deduzidas aos processos de extensão, no prazo de 10 dias a contar da data da respectiva recepção.\n\n3 - As oposições que respeitem a aspectos circunscritos exclusivamente às regiões autónomas deverão ser deduzidas junto das respectivas secretarias regionais competentes nesta matéria.\n\n4 - Nos casos referidos no número anterior, as secretarias regionais comunicarão ao Ministério do Trabalho e Segurança Social as oposições que forem deduzidas, bem como o resultado da respectiva ponderação, no prazo de 10 dias a contar da sua recepção, após o que poderão emitir a respectiva portaria de extensão.\n\n5 - Quando for deduzida oposição à extensão objecto de aviso fora dos casos referidos nos números anteriores, os governos regionais só poderão proceder à emissão de portaria de extensão após comunicação pelo Ministério do Trabalho e Segurança Social do resultado da ponderação da referida oposição.\n\n6 - Quando não haja qualquer oposição à extensão objecto de aviso, os governos regionais poderão proceder à emissão de portaria de extensão, nos termos do artigo 1.º\n\nArt. 3.º As portarias de extensão emitidas pelos governos regionais ao abrigo do presente diploma entrarão em vigor, nos mesmos termos das convenções colectivas de trabalho, após publicação no jornal oficial da respectiva região autónoma.\n\nArt. 4.º O disposto no presente diploma não é aplicável aos processos de extensão das convenções colectivas de trabalho e das decisões arbitrais já publicadas no Boletim do Trabalho e Emprego na data da sua entrada em vigor.\n\nArt. 5.º Em tudo o que não se achar regulado no presente diploma é aplicável, com as necessárias adaptações, a legislação nacional em vigor.\n\nVisto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Lino Dias Miguel - Tomás George Conceição Silva - Amândio Anes de Azevedo.\n\nPromulgado em 21 de Março de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 25 de Março de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "0ef6f5fb5eff88f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de Abril\n\nA dinâmica decorrente da autonomia regional vem exigindo a adopção de medidas legislativas conducentes à transferência de competências complementares das já cometidas às regiões autónomas e que se revelam indispensáveis para a maior eficácia do exercício destas competências e para a realização das atribuições dos respectivos órgãos de governo próprio.\n\nNa área do trabalho, o processo de regionalização dotou os governos regionais, através dos Decretos-Leis n.os [294/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1978-329444), de 22 de Setembro, e [243/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1978-299068), de 19 de Agosto, dos necessários poderes para, no âmbito dos territórios das Regiões Autónomas da Madeira e dos Açores, definirem, nos limites impostos pela Constituição da República, as respectivas políticas laborais e, consequentemente, para assumirem todas as competências e atribuições correspondentes.\n\nNesse contexto legal enquadra-se, nomeadamente, a faculdade consagrada na alínea a) do artigo 1.º dos diplomas legais citados de as regiões autónomas regulamentarem, por via administrativa, nos termos da legislação nacional aplicável, as condições de trabalho dos sectores de actividade profissional ou económica circunscritos exclusivamente ao território de cada região autónoma.\n\nNo que se refere à aplicação dos instrumentos de regulamentação colectiva não convencional e de âmbito supra-regional nas regiões autónomas, a mesma tem vindo a ser objecto de constante atenção e de esforços de coordenação entre os órgãos do Governo da República e dos governos regionais, sem contudo se terem alcançado as desejáveis celeridade e eficácia, objectivos que se apresentam prementes e viáveis relativamente à emissão de portarias de extensão.\n\nDeste modo, pelo presente diploma consagram-se os mecanismos legais que possibilitam o aperfeiçoamento e a maior celeridade dos processos de aplicação nas regiões autónomas, por via de portaria de extensão, das convenções colectivas de trabalho e das decisões arbitrais cujo âmbito seja nacional ou em qualquer medida exceda a área daquelas regiões.\n\nAssim, ouvidas as regiões autónomas:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "b88e20df450e4daa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1989-10-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 365/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1989-549249), publicado em 1989-10-19."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - É atribuída às Regiões Autónomas dos Açores e da Madeira, nos termos do presente diploma, a competência para a emissão, com âmbito limitado ao respectivo território, de portarias de extensão de convenções colectivas de trabalho e de decisões arbitrais cujo âmbito exceda a área de cada uma daquelas regiões autónomas.\n\n2 - A competência prevista no número anterior não pode ser exercida quando tenha sido publicado, pelo Governo da República, aviso para portaria de extensão cujo âmbito de aplicação compreende a área geográfica regional.\n\n3 - No caso previsto no número anterior, o Governo da República ouvirá previamente os governos regionais sobre a emissão da portaria de extensão.\n\n> Alterado pelo/a [Decreto-Lei n.º 365/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1989-549249), publicado em 1989-10-19."
+  },
+  "e7b0a5aea272ddc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1989-10-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 365/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1989-549249), publicado em 1989-10-19."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Os avisos para portarias de extensão das convenções colectivas de trabalho referidas no n.º 1 do artigo anterior serão emitidos pelo governo regional e objecto de publicação no Jornal Oficial de cada região autónoma.\n\n2 - As oposições deverão ser deduzidas junto das respectivas secretarias regionais competentes nesta matéria.\n\n3 - As secretarias regionais comunicarão ao Ministério do Emprego e da Segurança Social as oposições que forem deduzidas, bem como o resultado da respectiva ponderação, no prazo de 10 dias a contar da sua recepção.\n\n4 - As secretarias regionais poderão proceder à emissão de portaria de extensão nos termos do n.º 1 do artigo anterior decorridos oito dias contados da data do envio da comunicação a que se refere o número anterior.\n\n> Alterado pelo/a [Decreto-Lei n.º 365/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1989-549249), publicado em 1989-10-19."
+  },
+  "a2a7426e4853a98c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs portarias de extensão emitidas pelos governos regionais ao abrigo do presente diploma entrarão em vigor, nos mesmos termos das convenções colectivas de trabalho, após publicação no jornal oficial da respectiva região autónoma."
+  },
+  "447f9d74426e0898": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO disposto no presente diploma não é aplicável aos processos de extensão das convenções colectivas de trabalho e das decisões arbitrais já publicadas no Boletim do Trabalho e Emprego na data da sua entrada em vigor."
+  },
+  "93dd3c275e3dd66b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nEm tudo o que não se achar regulado no presente diploma é aplicável, com as necessárias adaptações, a legislação nacional em vigor.\n\nVisto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Lino Dias Miguel - Tomás George Conceição Silva - Amândio Anes de Azevedo.\n\nPromulgado em 21 de Março de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 25 de Março de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

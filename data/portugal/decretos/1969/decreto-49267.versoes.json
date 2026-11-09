@@ -1,0 +1,233 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:214265:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1969-09-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6f5218d386430b43"
+   ]
+  },
+  {
+   "date": "1999-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:426693:por",
+     "title": "Decreto-Lei n.º 308/99",
+     "published": "1999-08-10",
+     "dre_path": "/dr/detalhe/decreto-lei/308-1999-426693"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "561ee5f7cad7bc9a",
+    "e711a593c2f727cf",
+    "ad029ab9eb61158e",
+    "ff5972d2dd89ac48",
+    "f7924c5f6d98d977",
+    "921967881b7117ad",
+    "90f0ef80846e7034",
+    "c2acdec0ff571c35",
+    "5cba7b845fac055d",
+    "50a109b0d098260b",
+    "40f9ac9744aea4a3",
+    "d8ced9e19c670abd",
+    "813ea41e97c4b3d2",
+    "137534745f001ef5",
+    "ee2244c9cd652f6f",
+    "041c6af9f2600f2b"
+   ]
+  }
+ ],
+ "fragments": {
+  "6f5218d386430b43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º O orçamento das despesas do Fundo de Turismo conterá as verbas necessárias para a satisfação dos encargos resultantes da execução do artigo 3.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), desta data, classificadas de acordo com as rubricas legais.\n\nArt. 2.º Compete ao director do Fundo de Turismo:\n\n1) Elaborar e levar à apreciação da comissão administrativa:\n\na) As propostas do orçamento;\n\nb) As propostas de planos de financiamento;\n\nc) As minutas dos contratos a celebrar pelo Fundo de Turismo para a realização das operações autorizadas pelo Secretário de Estado da Informação e Turismo;\n\nd) As restantes matérias referentes à gerência do Fundo;\n\ne) Todos os outros assuntos a submeter a despacho do Secretário de Estado;\n\n2) Executar as deliberações da comissão administrativa;\n\n3) Acompanhar o cumprimento das operações realizadas, ordenando vistorias, exames e demais diligências que forem necessárias;\n\n4) Elaborar relatórios mensais sobre a execução dos planos de financiamento aprovados;\n\n5) Dirigir os serviços do Fundo, de acordo com as deliberações da comissão administrativa e exercer acção disciplinar sobre o pessoal.\n\nArt. 3.º - 1. Na elaboração das propostas de planos de financiamento o director do Fundo ouvirá sempre a Direcção-Geral do Turismo.\n\n2. O director comunicará àquela Direcção-Geral todos os factos que a esta compete apreciar e solicitar-lhe-á a realização das inspecções que por força da lei estão a cargo dos respectivos serviços de inspecção.\n\nArt. 4.º - 1. Os empréstimos a conceder pelo Fundo serão a médio e a longo prazo e vencerão a taxa de juro que for anualmente fixada pelo Secretário de Estado da Informação e Turismo, sob proposta da comissão administrativa.\n\n2. Serão a longo prazo apenas os empréstimos que se destinem a financiar a construção de novos estabelecimentos hoteleiros e similares ou a remodelação total, quer dos estabelecimentos já existentes, quer de edifícios a adaptar a este fim.\n\n3. Os empréstimos serão amortizáveis em prestações anuais, que não poderão exceder o número de doze, se os empréstimos forem a longo prazo, e o de sete, se forem a médio prazo.\n\n4. O pagamento das prestações iniciar-se-á a partir do terceiro ano, contado da entrada em exploração do empreendimento ou da obra realizada.\n\nArt. 5.º O montante máximo dos empréstimos não poderá exceder as seguintes percentagens do custo dos empreendimentos, obras ou aquisições a financiar:\n\n1) Tratando-se de estabelecimentos hoteleiros e similares;\n\na) 50 por cento, no caso de novas construções ou remodelações totais;\n\nb) 40 por cento, no caso de ampliação, modernização e transformação dos estabelecimentos já existentes;\n\nc) 30 por cento, para aquisição de mobiliário, decoração e equipamento de estabelecimentos já existentes;\n\n2) Tratando-se de outros empreendimentos: 40 por cento.\n\nArt. 6.º - 1. Os empréstimos concedidos a empresas privadas serão caucionados por qualquer das formas admitidas em direito.\n\n2. A comissão administrativa fixará as garantias a prestar em cada caso, tendo em atenção as características do empreendimento.\n\n3. O Fundo só poderá aceitar segundas hipotecas quando a primeira tiver sido constituída a seu favor ou de qualquer estabelecimento de crédito do Estado.\n\nArt. 7.º - 1. Os tipos de garantias a prestar pelo Fundo, nos termos da alínea d) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), serão definidos por despacho do Secretário de Estado da Informação e Turismo, sob proposta da respectiva comissão administrativa e ouvida a Caixa Geral de Depósitos, Crédito e Previdência para as garantias a esta prestadas.\n\n2. Os beneficiários das garantias previstas no número anterior prestarão a favor do Fundo caução idónea, para garantir as obrigações por este assumidas.\n\nArt. 8.º - 1. Sob proposta da Direcção-Geral do Turismo, o Fundo poderá conceder subsídios para:\n\na) A construção, ampliação ou remodelação de edifícios destinados a estabelecimentos hoteleiros e similares e seu apetrechamento;\n\nb) A realização de festivais, competições ou manifestações culturais ou desportivas de reconhecido interesse turístico;\n\nc) A execução de quaisquer outros empreendimentos de interesse para o turismo;\n\nd) A publicidade levada a efeito pelos órgãos locais de turismo.\n\n2. Os subsídios a que se referem as alíneas do número anterior só poderão ser concedidos quando as realizações previstas se integrem nos planos de desenvolvimento turístico da região respectiva superiormente aprovados.\n\n3. Os subsídios previstos nas alíneas a), c) e d) do n.º 1 não poderão exceder 50 por cento do custo das realizações.\n\nArt. 9.º - 1. Os pedidos de assistência financeira deverão ser apresentados no Fundo de Turismo.\n\n2. Para apreciação de quaisquer destes pedidos, o Fundo poderá exigir dos interessados a apresentação de um estudo económico e de quaisquer outros elementos que considere necessários, de acordo com as características e importância do empreendimento.\n\nArt. 10.º - 1. O Fundo estabelecerá, nos contratos de empréstimo e nas cláusulas de concessão de subsídios, que a prestação total dos financiamentos ficará sempre dependente da concretização das várias fases dos empreendimentos, de acordo com os projectos aprovados pela Direcção-Geral do Turismo.\n\n2. Para este efeito, o Fundo reservar-se-á sempre o direito de verificar a realização dos empreendimentos no seu aspecto técnico.\n\n3. Nos contratos de empréstimo deverá ainda estabelecer-se que estes poderão ser rescindidos e as importâncias em dívida se vencerão imediatamente quando não sejam cumpridas as disposições legais reguladoras dos empreendimentos financiados, nomeadamente quanto aos estabelecimentos hoteleiros e similares, se estes baixarem de categoria por facto imputável às empresas proprietárias ou exploradoras.\n\nArt. 11.º - 1. A Direcção-Geral do Turismo será sempre ouvida pelo Fundo sobre o interesse dos empreendimentos cujo financiamento tenha sido pedido.\n\n2. Quando a Direcção-Geral do Turismo tiver sido prèviamente consultada sobre o interesse de um empreendimento e dessa consulta constar um pedido de assistência financeira, a Direcção-Geral enviará ao Fundo esse pedido acompanhado deste logo do seu parecer.\n\nArt. 12.º - 1. Compete à Direcção-Geral do Turismo propor ao Fundo o financiamento dos empreendimentos previstos nas alíneas e) e f) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264).\n\n2. Para este efeito, a Direcção-Geral do Turismo enviará ao Fundo proposta devidamente fundamentada sobre o interesse dos empreendimentos.\n\nArt. 13.º Os estudos previstos na alínea g) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 49266](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49266-1969-214264), só poderão ser realizados em colaboração com a Direcção-Geral do Turismo e mediante o seu parecer favorável.\n\nArt. 14.º Depois de devidamente instruídos, a comissão administrativa do Fundo dará o seu parecer sobre os planos de financiamento, os pedidos de assistência financeira, as propostas da Direcção-Geral do Turismo e quaisquer outros assuntos que careçam de resolução superior, e submetê-lo-á à aprovação do Secretário de Estado da Informação e Turismo.\n\nArt. 15.º São revogados os artigos 4.º, 8.º e 10.º a 20.º do [Decreto n.º 40913](https://diariodarepublica.pt/dr/detalhe/decreto/40913-1956-299204), de 20 de Dezembro de 1956, e o artigo único do [Decreto n.º 48553](https://diariodarepublica.pt/dr/detalhe/decreto/48553-1968-265142), de 23 de Março de 1961.\n\nMarcello Caetano - César Henrique Moreira Baptista.\n\nPromulgado em 17 de Setembro de 1969.\n\nPublique-se.\n\nPresidência da República, 26 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "561ee5f7cad7bc9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "e711a593c2f727cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+  },
+  "ad029ab9eb61158e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+  },
+  "ff5972d2dd89ac48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+  },
+  "f7924c5f6d98d977": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+  },
+  "921967881b7117ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+  },
+  "90f0ef80846e7034": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+  },
+  "c2acdec0ff571c35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+  },
+  "5cba7b845fac055d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+  },
+  "50a109b0d098260b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+  },
+  "40f9ac9744aea4a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+  },
+  "d8ced9e19c670abd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 11.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+  },
+  "813ea41e97c4b3d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+  },
+  "137534745f001ef5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 13.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+  },
+  "ee2244c9cd652f6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+  },
+  "041c6af9f2600f2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1999-08-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10."
+   ],
+   "markdown": "###### Artigo 15.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 308/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1999-426693), publicado em 1999-08-10.\n\nMarcello Caetano - César Henrique Moreira Baptista.\n\nPromulgado em 17 de Setembro de 1969.\n\nPublique-se.\n\nPresidência da República, 26 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

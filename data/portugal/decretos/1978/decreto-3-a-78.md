@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-12-19'
+version_history:
+  file: decreto-3-a-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-01-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-12-19'
+    amending: pt:dre:325280:por
+    amending_title: Decreto n.º 156/78
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:50:22Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 156/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1978/decreto-3-a-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,17 +141,31 @@ Assim, tendo em atenção o disposto nos artigos 4.º e 38.º do [Decreto-Lei n.
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º O Banco Pinto de Magalhães, o Banco da Agricultura e o Banco de Angola são fundidos na empresa referida no artigo seguinte.
+###### Artigo 1.º
 
-Art. 2.º - 1 - É criada uma instituição bancária denominada União de Bancos Portugueses, com sede na cidade do Porto, que recebe os patrimónios das empresas fundidas, com todos os direitos e obrigações que os integram.
+O Banco Pinto de Magalhães, o Banco da Agricultura e o Banco de Angola são fundidos na empresa referida no artigo seguinte.
+
+###### Artigo 2.º
+
+1 - É criada uma instituição bancária denominada União de Bancos Portugueses, com sede na cidade do Porto, que recebe os patrimónios das empresas fundidas, com todos os direitos e obrigações que os integram.
 
 2 - A União de Bancos Portugueses fica sujeita à tutela do Ministro das Finanças.
 
-Art. 3.º O pessoal dos bancos referidos no artigo 1.º é transferido para a empresa resultante da fusão, União de Bancos Portugueses, sem prejuízo da sua categoria e dos seus direitos emergentes do respectivo contrato colectivo de trabalho e seus anexos.
+§ único. As transmissões operam-se por força do presente diploma, que servirá de título bastante para todos os efeitos legais, designadamente os de registo, beneficiando as mesmas das isenções previstas na alínea v) do artigo 9.º da [Lei n.º 20/78](https://diariodarepublica.pt/dr/detalhe/lei/20-1978-332189), de 26 de Abril.
 
-Art. 4.º O Ministro das Finanças nomeará uma comissão incumbida de coordenar todos os trabalhos relativos à concretização da fusão.
+> Alterado pelo/a [Decreto n.º 156/78](https://diariodarepublica.pt/dr/detalhe/decreto/156-1978-325280), publicado em 1978-12-19.
 
-Art. 5.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+###### Artigo 3.º
+
+O pessoal dos bancos referidos no artigo 1.º é transferido para a empresa resultante da fusão, União de Bancos Portugueses, sem prejuízo da sua categoria e dos seus direitos emergentes do respectivo contrato colectivo de trabalho e seus anexos.
+
+###### Artigo 4.º
+
+O Ministro das Finanças nomeará uma comissão incumbida de coordenar todos os trabalhos relativos à concretização da fusão.
+
+###### Artigo 5.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 

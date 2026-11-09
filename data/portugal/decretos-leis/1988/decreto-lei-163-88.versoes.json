@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:374830:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1988-05-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9ea50a60cb9aca5a"
+   ]
+  },
+  {
+   "date": "1990-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:573105:por",
+     "title": "Decreto-Lei n.º 242/90",
+     "published": "1990-07-26",
+     "dre_path": "/dr/detalhe/decreto-lei/242-1990-573105"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "26a980fc51bdcf16",
+    "f4023861b8bf4afd",
+    "91ce45272c91984c",
+    "ad9e4cb13bb176cb"
+   ]
+  }
+ ],
+ "fragments": {
+  "9ea50a60cb9aca5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Maio\n\nO [Decreto-Lei n.º 311/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1984-399655), de 26 de Setembro, garante o acesso ao 1.º escalão das categorias de vencimentos, referido no artigo 8.º do [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, aos professores de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário portadores de habilitação própria, conferida por curso não superior, e que se encontrem em exercício de funções docentes ou legalmente equiparadas à data da entrada em vigor do [Decreto-Lei n.º 94/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1982-608189), de 25 de Março, desde que observadas as condições definidas por aquele decreto-lei.\n\nO aludido [Decreto-Lei n.º 311/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1984-399655) estende esse direito aos professores de Trabalhos Manuais e do 12.º grupo que exerçam funções docentes nos ensinos particular e cooperativo, não referindo, contudo, os mestres dos quadros dos institutos superiores de engenharia, os quais, exercendo funções em tudo idênticas às dos docentes dos ensinos preparatório e secundário, as exercem em institutos de nível superior.\n\nTorna-se imperioso reparar, portanto, sem mais delongas, a assimetria assim criada, permitindo aos mestres dos institutos superiores de engenharia uma igualdade de tratamento em relação aos docentes dos ensinos preparatório e secundário.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º Os mestres dos quadros dos institutos superiores de engenharia que sejam portadores de habilitação própria, conferida por curso superior ou não, e que se encontravam em exercício de funções docentes ou legalmente equiparadas à data da entrada em vigor do [Decreto-Lei n.º 94/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1982-608189), de 25 de Março, ficam abrangidos pelo regime do [Decreto-Lei n.º 319/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1984-399788), de 26 de Setembro.\n\nArt. 2.º Enquanto não obtiverem as condições estabelecidas no [Decreto-Lei n.º 311/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1984-399655), de 26 de Setembro, para efeitos de acesso ao 1.º escalão de vencimento os mestres dos quadros dos institutos superiores de engenharia mantêm o escalão de vencimentos que lhes foi atribuído pelo n.º 2 do artigo 2.º do [Decreto-Lei n.º 133/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1980-474086), de 17 de Maio.\n\nArt. 3.º O curso de complemento de formação a que os mestres dos quadros dos institutos superiores de engenharia se têm de submeter deve ser concluído até 31 de Dezembro de 1989.\n\nVisto e aprovado em Conselho de Ministros de 14 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.\n\nPromulgado em 29 de Abril de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Maio de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "26a980fc51bdcf16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Maio\n\nO [Decreto-Lei n.º 311/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1984-399655), de 26 de Setembro, garante o acesso ao 1.º escalão das categorias de vencimentos, referido no artigo 8.º do [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, aos professores de Trabalhos Manuais do ensino preparatório e do 12.º grupo do ensino secundário portadores de habilitação própria, conferida por curso não superior, e que se encontrem em exercício de funções docentes ou legalmente equiparadas à data da entrada em vigor do [Decreto-Lei n.º 94/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1982-608189), de 25 de Março, desde que observadas as condições definidas por aquele decreto-lei.\n\nO aludido [Decreto-Lei n.º 311/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1984-399655) estende esse direito aos professores de Trabalhos Manuais e do 12.º grupo que exerçam funções docentes nos ensinos particular e cooperativo, não referindo, contudo, os mestres dos quadros dos institutos superiores de engenharia, os quais, exercendo funções em tudo idênticas às dos docentes dos ensinos preparatório e secundário, as exercem em institutos de nível superior.\n\nTorna-se imperioso reparar, portanto, sem mais delongas, a assimetria assim criada, permitindo aos mestres dos institutos superiores de engenharia uma igualdade de tratamento em relação aos docentes dos ensinos preparatório e secundário.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "f4023861b8bf4afd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs mestres dos quadros dos institutos superiores de engenharia que sejam portadores de habilitação própria, conferida por curso superior ou não, e que se encontravam em exercício de funções docentes ou legalmente equiparadas à data da entrada em vigor do [Decreto-Lei n.º 94/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1982-608189), de 25 de Março, ficam abrangidos pelo regime do [Decreto-Lei n.º 319/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1984-399788), de 26 de Setembro."
+  },
+  "91ce45272c91984c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nEnquanto não obtiverem as condições estabelecidas no [Decreto-Lei n.º 311/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1984-399655), de 26 de Setembro, para efeitos de acesso ao 1.º escalão de vencimento os mestres dos quadros dos institutos superiores de engenharia mantêm o escalão de vencimentos que lhes foi atribuído pelo n.º 2 do artigo 2.º do [Decreto-Lei n.º 133/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1980-474086), de 17 de Maio."
+  },
+  "ad9e4cb13bb176cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1990-07-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 242/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1990-573105), publicado em 1990-07-26."
+   ],
+   "markdown": "###### Artigo 3.º\n\nO curso de complemento de formação a que os mestres dos quadros dos institutos superiores de engenharia se têm de submeter deve ser concluído até 31 de Dezembro de 1990.\n\n> Alterado pelo/a [Decreto-Lei n.º 242/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1990-573105), publicado em 1990-07-26.\n\nVisto e aprovado em Conselho de Ministros de 14 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.\n\nPromulgado em 29 de Abril de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Maio de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

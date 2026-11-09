@@ -1,0 +1,101 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:527037:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1969-01-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "496889bcbdbfdb3b"
+   ]
+  },
+  {
+   "date": "1976-12-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:416401:por",
+     "title": "Decreto-Lei n.º 876/76",
+     "published": "1976-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/876-1976-416401"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "5d9799c30e9df32b",
+    "f35a8038c1d1b5fc",
+    "bce623695c8dbe01",
+    "70a7bda783230f5c",
+    "e044060c00bc48f2",
+    "5ef9732e0a5d3df1"
+   ]
+  }
+ ],
+ "fragments": {
+  "496889bcbdbfdb3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando a conveniência de actualizar a constituição do Conselho Superior de Disciplina da Armada;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º O Conselho Superior de Disciplina da Armada (C. S. D. A.) é constituído por cinco vice-almirantes ou contra-almirantes dos quadros do activo ou da reserva, sendo presidido pelo membro mais graduado ou antigo.\n\n§ 1.º Compete ao presidente do C. S. D. A. designar por sorteio o vogal do mesmo Conselho que deve servir como relator.\n\n§ 2.º Não podem fazer parte do C. S. D. A. os membros do Supremo Tribunal Militar, o chefe do Estado-Maior da Armada, o vice-chefe do mesmo Estado-Maior e o superintendente dos Serviços do Pessoal.\n\nArt. 2.º O promotor do C. S. D. A. é um oficial superior da Armada das classes de marinha ou de administração naval dos quadros do activo ou da reserva.\n\n§ único. As funções de promotor do C. S. D. A. são acumuláveis com as de promotor do Tribunal Militar de Marinha.\n\nArt. 3.º Quando o oficial submetido a julgamento no C. S. D. A. for mais graduado ou antigo que qualquer dos membros ou que o promotor, serão nomeados ad hoc para o desempenho de tais funções oficiais mais graduados ou antigos, os quais, desde que necessário, poderão ser do quadro de reformados.\n\nArt. 4.º O secretário sem voto do C. S. D. A. é um oficial superior da Armada dos quadros do activo ou da reserva.\n\nArt. 5.º Os membros e o promotor do C. S. D. A. são nomeados por portaria do Ministro da Marinha. O secretário do mesmo Conselho é nomeado por determinação publicada na Ordem da Direcção do Serviço do Pessoal.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo.\n\nPromulgado em 9 de Janeiro de 1969.\n\nPublique-se.\n\nPresidência da República, 17 de Janeiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "5d9799c30e9df32b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando a conveniência de actualizar a constituição do Conselho Superior de Disciplina da Armada;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "f35a8038c1d1b5fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Conselho Superior de Disciplina da Armada (C. S. D. A.) é constituído por cinco vice-almirantes ou contra-almirantes dos quadros do activo ou da reserva, sendo presidido pelo membro mais graduado ou antigo.\n\n§ 1.º Compete ao presidente do C. S. D. A. designar por sorteio o vogal do mesmo Conselho que deve servir como relator.\n\n§ 2.º Não podem fazer parte do C. S. D. A. os membros do Supremo Tribunal Militar, o chefe do Estado-Maior da Armada, o vice-chefe do mesmo Estado-Maior e o superintendente dos Serviços do Pessoal."
+  },
+  "bce623695c8dbe01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO promotor do C. S. D. A. é um oficial superior da Armada das classes de marinha ou de administração naval dos quadros do activo ou da reserva.\n\n§ único. As funções de promotor do C. S. D. A. são acumuláveis com as de promotor do Tribunal Militar de Marinha."
+  },
+  "70a7bda783230f5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1976-12-29",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 876/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/876-1976-416401), publicado em 1976-12-29."
+   ],
+   "markdown": "###### Artigo 3.º\n\nQuando o oficial submetido a julgamento for oficial general, será nomeado para promotor ad hoc um oficial general, dos quadros do activo ou da reserva, se possível mais antigo do que aquele.\n\n> Alterado pelo/a [Decreto-Lei n.º 876/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/876-1976-416401), publicado em 1976-12-29."
+  },
+  "e044060c00bc48f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO secretário sem voto do C. S. D. A. é um oficial superior da Armada dos quadros do activo ou da reserva."
+  },
+  "5ef9732e0a5d3df1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs membros e o promotor do C. S. D. A. são nomeados por portaria do Ministro da Marinha. O secretário do mesmo Conselho é nomeado por determinação publicada na Ordem da Direcção do Serviço do Pessoal.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo.\n\nPromulgado em 9 de Janeiro de 1969.\n\nPublique-se.\n\nPresidência da República, 17 de Janeiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-02-27'
+version_history:
+  file: decreto-lei-156-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-05-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-02-27'
+    amending: pt:dre:612416:por
+    amending_title: Decreto-Lei n.º 58/89
+    changes:
+    - Altera Artigo 38.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:24:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 58/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-156-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -386,7 +401,9 @@ O acompanhamento da execução das medidas e acções aplicáveis, bem como a ar
 
 ###### Artigo 38.º — Alargamento especial dos períodos de concessão dos auxílios
 
-Os períodos de concessão dos subsídios de desemprego e de pré-reforma, bem como os correspondentes auxílios financeiros no âmbito da Convenção e do presente diploma, podem ser alargados para 36 meses por força e nos termos prescritos nos programas especiais aprovados pela Comissão das Comunidades.
+Os períodos de concessão das medidas de apoio, bem como os correspondentes auxílios financeiros previstos no âmbito da Convenção e do presente diploma, podem ser alargados por força e nos termos prescritos nos programas especiais aprovados pela Comissão das Comunidades.
+
+> Alterado pelo/a [Decreto-Lei n.º 58/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1989-612416), publicado em 1989-02-22.
 
 ###### Artigo 39.º — Vigência
 

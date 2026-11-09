@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2018-01-10'
+version_history:
+  file: decreto-legislativo-regional-7-2013-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-02-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-01-10'
+    amending: pt:dre:114484244:por
+    amending_title: Decreto Legislativo Regional n.º 2/2018/M
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/7/2013/02/14/m/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:41:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    2/2018/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2013/decreto-legislativo-regional-7-2013-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -182,15 +197,19 @@ O contrato que titula a concessão de serviço público a que alude o nº 1 do a
 
 2 - Os documentos de prestação de contas intercalares, de obrigações fiscais ou outras legalmente exigidas e de extinção da RAMEDM deverão ser elaborados, aprovados e submetidos, de acordo com as formalidades de elaboração e certificação aplicáveis às sociedades anónimas, no prazo de 60 dias a contar da data de entrada em vigor do presente diploma.
 
-###### Artigo 5º — Transição dos trabalhadores da RAMEDM
+###### Artigo 5.º — Transição dos trabalhadores da RAMEDM
 
 1 - Nos termos do disposto nos n.os 2 e 3 do artigo 24º do Decreto Legislativo Regional nº 8/2007/M, de 12 de janeiro, alterado pelo Decreto Legislativo Regional nº 16/2011/M, de 11 de agosto, os trabalhadores da RAMEDM transitam para o novo serviço, a Direção Regional de Estradas, nos termos do disposto nos números seguintes.
 
 2 - A transição dos trabalhadores da RAMEDM, com relação jurídica de emprego de direito privado, obedece ao disposto na Lei nº 12-A/2008, de 27 de fevereiro, alterada pelas Leis n.os [64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de dezembro, [3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de abril, [34/2010](https://diariodarepublica.pt/dr/detalhe/lei/34-2010-344267), de 2 de setembro, [55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de dezembro, e [64-B/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), de 30 de dezembro, designadamente nos artigos 95º, 96º, 97º e 100º, sendo contado para efeitos de antiguidade todo o tempo de serviço prestado na RAMEDM.
 
-3 - Os trabalhadores da RAMEDM que, ao abrigo do artigo 18º do Decreto Legislativo Regional nº 8/2007/M, de 12 de janeiro, alterado pelo Decreto Legislativo Regional nº 16/2011/M, de 11 de agosto, mantiveram o vínculo de emprego público transitam para o novo serviço, a Direção Regional de Estradas, de acordo com as carreiras e categorias da função pública de que são titulares.
+3 - A transição de trabalhadores a que se refere o número anterior para a carreira geral de técnico superior, não pode resultar em posicionamento inferior à segunda posição remuneratória, quando o trabalhador seja titular de licenciatura ou de grau académico superior a ela.
 
-4 - As transições de pessoal a que se referem os números anteriores são efetuadas através de lista nominativa aprovada por despacho dos membros do Governo Regional responsáveis pela Administração Pública e pelas Finanças, publicada na 2ª série do Jornal Oficial, produzindo efeitos reportados à data da entrada em vigor do diploma que proceder à aprovação da orgânica da Direção Regional de Estradas.
+4 - Os trabalhadores da RAMEDM que, ao abrigo do artigo 18º do Decreto Legislativo Regional nº 8/2007/M, de 12 de janeiro, alterado pelo Decreto Legislativo Regional nº 16/2011/M, de 11 de agosto, mantiveram o vínculo de emprego público transitam para o novo serviço, a Direção Regional de Estradas, de acordo com as carreiras e categorias da função pública de que são titulares.
+
+5 - As transições de pessoal a que se referem os números anteriores são efetuadas através de lista nominativa aprovada por despacho dos membros do Governo Regional responsáveis pela Administração Pública e pelas Finanças, publicada na 2ª série do Jornal Oficial, produzindo efeitos reportados à data da entrada em vigor do diploma que proceder à aprovação da orgânica da Direção Regional de Estradas.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 2/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), publicado em 2018-01-09.
 
 ###### Artigo 6º — Registo
 

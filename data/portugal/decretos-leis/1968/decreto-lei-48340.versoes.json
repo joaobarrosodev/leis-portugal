@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:234537:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1968-04-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e813442c2bb3d49e"
+   ]
+  },
+  {
+   "date": "1972-03-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:398799:por",
+     "title": "Decreto-Lei n.º 68/72",
+     "published": "1972-03-03",
+     "dre_path": "/dr/detalhe/decreto-lei/68-1972-398799"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "772e99de34872264",
+    "3b596d02d137114e",
+    "e3dabf7f1924713f",
+    "f0894f8e8887d8e6"
+   ]
+  }
+ ],
+ "fragments": {
+  "e813442c2bb3d49e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pretendeu o [Decreto-Lei n.º 45783](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45783-1964-578130), de 30 de Junho de 1964, uniformizar os regimes a vigorar na metrópole e no ultramar em matéria de jurisdição militar.\n\nEntendeu, no entanto, o Governo por conveniente deixar certas matérias por tratar, umas pela sua pequena relevância, outras por estarem já resolvidas por diplomas legislativos anteriores.\n\nTodavia, surgiram dúvidas sobre a competência para nomear os membros militares dos tribunais militares territoriais do ultramar.\n\nJá o Decreto n.º 25460, de 5 de Junho de 1935, havia determinado que caberia ao Ministro da Guerra a nomeação dos promotores, defensores e juízes militares dos tribunais militares territoriais.\n\nE há toda a conveniência em seguir o mesmo procedimento para idênticos órgãos de jurisdição no ultramar, dado o carácter unificado das forças armadas.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º As funções de juiz militar, promotor de justiça e defensor oficioso dos tribunais militares territoriais serão exercidas por oficiais de qualquer arma ou serviço com o curso da Academia Militar ou extintas escolas suas antecessoras, no activo ou na reserva, de preferência habilitados com a licenciatura em Direito ou com prática dos serviços de justiça militar, de posto não inferior a major, no caso dos juízes militares, ou a capitão, nos restantes casos, nomeados pelo Ministro do Exército.\n\n§ único. Excepcionalmente, a nomeação para o cargo de defensor oficioso dos tribunais militares territoriais poderá recair em oficial de patente inferior a capitão desde que habilitado com a licenciatura em Direito.\n\nArt. 2.º Os oficiais do quadro de complemento licenciados em Direito poderão ser nomeados para os cargos de promotor de justiça e defensor oficioso dos tribunais militares territoriais.\n\nArt. 3.º O Ministro do Exército poderá delegar nos comandantes das regiões militares e comandos territoriais independentes, no todo ou em parte, a competência prevista no artigo 1.º\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 18 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  },
+  "772e99de34872264": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pretendeu o [Decreto-Lei n.º 45783](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45783-1964-578130), de 30 de Junho de 1964, uniformizar os regimes a vigorar na metrópole e no ultramar em matéria de jurisdição militar.\n\nEntendeu, no entanto, o Governo por conveniente deixar certas matérias por tratar, umas pela sua pequena relevância, outras por estarem já resolvidas por diplomas legislativos anteriores.\n\nTodavia, surgiram dúvidas sobre a competência para nomear os membros militares dos tribunais militares territoriais do ultramar.\n\nJá o Decreto n.º 25460, de 5 de Junho de 1935, havia determinado que caberia ao Ministro da Guerra a nomeação dos promotores, defensores e juízes militares dos tribunais militares territoriais.\n\nE há toda a conveniência em seguir o mesmo procedimento para idênticos órgãos de jurisdição no ultramar, dado o carácter unificado das forças armadas.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "3b596d02d137114e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1972-03-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 68/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1972-398799), publicado em 1972-03-03."
+   ],
+   "markdown": "###### Artigo 1.º\n\nAs funções de juiz militar, promotor de justiça e defensor oficioso dos tribunais militares territoriais serão exercidas por oficiais de qualquer arma ou serviço com o curso da Academia Militar ou extintas escolas suas antecessoras, no activo ou na reserva, de preferência habilitados com a licenciatura em Direito ou com prática dos serviços de justiça militar, de posto não inferior a major, no caso dos juizes militares, ou a capitão, nos restantes casos, nomeados pelo Ministro do Exército.\n\n§ 1.º Nas províncias ultramarinas poderá recorrer-se a militares de qualquer ramo das forças armadas, em comissão de serviço noutros Ministérios, autorizados pelo respectivo titular, mas, se assim mesmo não for possível nomear um oficial superior para o desempenho das funções de juiz militar, poderá o Ministro do Exército nomear para o cargo um capitão que preencha as condições expressas no corpo deste artigo.\n\n§ 2.º Excepcionalmente, a nomeação para o cargo de defensor oficioso dos tribunais militares territoriais poderá recair em oficial de patente inferior a capitão desde que habilitado com a licenciatura em Direito.\n\n> Alterado pelo/a [Decreto-Lei n.º 68/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1972-398799), publicado em 1972-03-03."
+  },
+  "e3dabf7f1924713f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs oficiais do quadro de complemento licenciados em Direito poderão ser nomeados para os cargos de promotor de justiça e defensor oficioso dos tribunais militares territoriais."
+  },
+  "f0894f8e8887d8e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Ministro do Exército poderá delegar nos comandantes das regiões militares e comandos territoriais independentes, no todo ou em parte, a competência prevista no artigo 1.º\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 18 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  }
+ }
+}

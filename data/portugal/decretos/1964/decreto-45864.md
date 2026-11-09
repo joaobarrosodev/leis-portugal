@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-12-20'
+version_history:
+  file: decreto-45864.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-08-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-12-20'
+    amending: pt:dre:407714:por
+    amending_title: Decreto n.º 857/76
+    changes:
+    - Revoga Artigo 27.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:41:32Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 857/76. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1964/decreto-45864.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -109,15 +124,19 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-Artigo único. Os artigos 22.º e 27.º do [Decreto n.º 44220](https://diariodarepublica.pt/dr/detalhe/decreto/44220-1962-517993), de 3 de Março de 1962, passam a ter a seguinte redacção:
+###### Artigo único
+
+Os artigos 22.º e 27.º do [Decreto n.º 44220](https://diariodarepublica.pt/dr/detalhe/decreto/44220-1962-517993), de 3 de Março de 1962, passam a ter a seguinte redacção:
 
 Art. 22.º Sem prejuízo do disposto no § único do artigo 27.º, nas sepulturas temporárias é proibido o enterramento de caixões de chumbo, de zinco e de madeiras muito densas, difìcilmente deterioráveis ou nas quais tenham sido aplicadas tintas ou vernizes que demorem a sua destruição.
 
 ...
 
-Art. 27.º É proibida a abertura de caixões de chumbo ou zinco, salvo no caso de mandado judicial.
+###### Artigo 27.º
 
-§ único. Exceptua-se do disposto neste artigo a abertura, ordenada pela autoridade sanitária competente, para efeito de inumação, em sepulturas temporárias, de cadáveres trasladados após o falecimento. Os caixões de chumbo utilizados em tais trasladações deverão ter sòmente a espessura de 1 mm.
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 857/76](https://diariodarepublica.pt/dr/detalhe/decreto/857-1976-407714), publicado em 1976-12-20.
 
 Publique-se e cumpra-se como nele se contém.
 

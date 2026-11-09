@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:539263:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1964-09-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "621423a66fac6f00"
+   ]
+  },
+  {
+   "date": "1970-04-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:225797:por",
+     "title": "Decreto n.º 167/70",
+     "published": "1970-04-16",
+     "dre_path": "/dr/detalhe/decreto/167-1970-225797"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "6c5d8789c2b5c5e5",
+    "a90681e1e62d4854",
+    "95f3d01978b7ae32",
+    "5120250bccfd56dd",
+    "e8221d6a1b49d11c"
+   ]
+  }
+ ],
+ "fragments": {
+  "621423a66fac6f00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Torna-se necessário definir o regime de vencimentos a que terá direito o comandante-chefe da província da Guiné pelo exercício das suas elevadas funções.\n\nUsando da faculdade conferida pelo n.º 3 do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º O oficial general que desempenhe as funções de comandante-chefe da província da Guiné terá direito aos vencimentos base e complementar estabelecidos nas tabelas n.os 1, 2 ou 3 anexas ao [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963, para oficial general.\n\nArt. 2.º Como gratificação para despesas de representação do comandante-chefe da província da Guiné, ser-lhe-á atribuída, mensalmente, a quantia de 3500$00.\n\nArt. 3.º Os vencimentos do oficial general comandante-chefe da Guiné serão liquidados pelo comando do departamento das forças armadas a que pertencer, pelas verbas que lhe são atribuídas para forças militares extraordinárias.\n\nArt. 4.º A gratificação para despesas de representação ao comandante-chefe da Guiné será liquidada pelas verbas próprias atribuídas ao seu gabinete militar.\n\n§ único. Enquanto não for aprovado o orçamento do gabinete militar do comandante-chefe da província da Guiné, a gratificação a que o comandante-chefe tem direito será abonada pelas verbas atribuídas a «Forças militares extraordinárias no ultramar (Defesa nacional - Encargos gerais da Nação)».\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 1 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - António Manuel Pinto Barbosa - António Augusto Peixoto Correia.\n\nPara ser publicado no Boletim Oficial da Guiné. - Peixoto Correia."
+  },
+  "6c5d8789c2b5c5e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Torna-se necessário definir o regime de vencimentos a que terá direito o comandante-chefe da província da Guiné pelo exercício das suas elevadas funções.\n\nUsando da faculdade conferida pelo n.º 3 do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "a90681e1e62d4854": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO oficial general que desempenhe as funções de comandante-chefe da província da Guiné terá direito aos vencimentos base e complementar estabelecidos nas tabelas n.os 1, 2 ou 3 anexas ao [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963, para oficial general."
+  },
+  "95f3d01978b7ae32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1970-04-16",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 167/70](https://diariodarepublica.pt/dr/detalhe/decreto/167-1970-225797), publicado em 1970-04-16."
+   ],
+   "markdown": "###### Artigo 2.º\n\nComo gratificação para despesas de representação do comandante-chefe da província da Guiné ser-lhe-á atribuída, mensalmente, a quantia de 5000$00.\n\n> Alterado pelo/a [Decreto n.º 167/70](https://diariodarepublica.pt/dr/detalhe/decreto/167-1970-225797), publicado em 1970-04-16."
+  },
+  "5120250bccfd56dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs vencimentos do oficial general comandante-chefe da Guiné serão liquidados pelo comando do departamento das forças armadas a que pertencer, pelas verbas que lhe são atribuídas para forças militares extraordinárias."
+  },
+  "e8221d6a1b49d11c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA gratificação para despesas de representação ao comandante-chefe da Guiné será liquidada pelas verbas próprias atribuídas ao seu gabinete militar.\n\n§ único. Enquanto não for aprovado o orçamento do gabinete militar do comandante-chefe da província da Guiné, a gratificação a que o comandante-chefe tem direito será abonada pelas verbas atribuídas a «Forças militares extraordinárias no ultramar (Defesa nacional - Encargos gerais da Nação)».\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 1 de Setembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - António Manuel Pinto Barbosa - António Augusto Peixoto Correia.\n\nPara ser publicado no Boletim Oficial da Guiné. - Peixoto Correia."
+  }
+ }
+}

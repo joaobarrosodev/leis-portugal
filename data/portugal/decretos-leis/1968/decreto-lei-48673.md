@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-10-24'
+version_history:
+  file: decreto-lei-48673.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-11-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-10-24'
+    amending: pt:dre:565581:por
+    amending_title: Decreto-Lei n.º 323/90
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:07:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 323/90. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48673.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,13 +125,21 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Os boletins de condução de que sejam titulares oficiais, sargentos ou praças de qualquer dos ramos das forças armadas continuam a ser válidos quando aqueles militares se encontrem na situação de reforma.
+###### Artigo 1.º
 
-Art. 2.º - 1. A utilização dos boletins de condução fica, porém, condicionada à entrega em qualquer organismo dos três ramos das forças armadas com competência para emitir aqueles boletins de atestados médico-sanitários comprovativos da aptidão psico-somática dos seus titulares para conduzir.
+Os boletins de condução de que sejam titulares os oficiais, sargentos e praças dos quadros permanentes das forças armadas continuam a ser válidos quando aqueles militares se encontrem nas situações de reserva ou reforma.
+
+> Alterado pelo/a [Decreto-Lei n.º 323/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1990-565581), publicado em 1990-10-19.
+
+###### Artigo 2.º
+
+1. A utilização dos boletins de condução fica, porém, condicionada à entrega em qualquer organismo dos três ramos das forças armadas com competência para emitir aqueles boletins de atestados médico-sanitários comprovativos da aptidão psico-somática dos seus titulares para conduzir.
 
 2. As datas de entrega dos atestados e os limites de idade a que estes respeitam são os mesmos que pelo Código da Estrada estiverem fixados para os titulares das cartas de condução.
 
-Art. 3.º O atestado médico-sanitário é conferido após inspecção médica-sanitária por um médico de uma unidade ou estabelecimento militar, observadas as mesmas exigências e penalidades estabelecidas no Código da Estrada para os titulares das cartas de condução de idênticas classes de veículos.
+###### Artigo 3.º
+
+O atestado médico-sanitário é conferido após inspecção médica-sanitária por um médico de uma unidade ou estabelecimento militar, observadas as mesmas exigências e penalidades estabelecidas no Código da Estrada para os titulares das cartas de condução de idênticas classes de veículos.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bettencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de A breu.
 

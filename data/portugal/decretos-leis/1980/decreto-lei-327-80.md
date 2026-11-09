@@ -38,10 +38,39 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-07-10'
+version_history:
+  file: decreto-lei-327-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-08-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-07-10'
+    amending: pt:dre:580313:por
+    amending_title: Lei n.º 10/81
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Revoga Artigo 16.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +96,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:31:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 10/81. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-327-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,9 +180,11 @@ Nestes termos:
 
 Ao abrigo da autorização legislativa concedida pela [Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/lei/27-1980-472100), de 26 de Julho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - O Governo providenciará no sentido de melhorar a prevenção e a detecção dos incêndios florestais, designadamente através das seguintes acções:
+###### Artigo 1.º
 
-a) Elaboração de planos para a detecção e diminuição das causas dos incêndios florestais no País, de modo prioritário nas áreas a definir como «zonas críticas»;
+1 - O Governo providenciará no sentido de melhorar a prevenção e a detecção dos incêndios florestais, designadamente através das seguintes acções:
+
+a) Elaboração de planos para detecção dos incêndios florestais e redução das suas causas, prioritariamente nas zonas a definir como «zonas críticas»;
 
 b) Determinação, mediante análise dos factores climáticos, das épocas de perigo, durante as quais devem intensificar-se as acções de prevenção, detecção e combate aos incêndios nas matas;
 
@@ -162,17 +194,37 @@ d) Fixação de normas de segurança a observar nas explorações florestais, na
 
 e) Realização de estudos que visem a melhoria dos meios de detecção e prevenção dos incêndios florestais.
 
-2 - As acções referidas no número anterior deverão ser executadas por iniciativa dos serviços da Administração Central especialmente encarregados do ordenamento e gestão florestais, em estreita ligação com a orgânica dos serviços de bombeiros, de protecção civil e de ordenamento do território.
+2 - As acções referidas no número anterior deverão ser executadas por iniciativa dos serviços da administração central especialmente encarregados do ordenamento e gestão florestais, em estreita ligação com a orgânica dos serviços de bombeiros, de protecção civil e de ordenamento do território.
 
 3 - Para a elaboração dos planos referidos na alínea a) do n.º 1 serão ouvidas as autarquias locais.
 
-Art. 2.º - 1 - Competirá a órgãos regionais de protecção civil, em matéria de protecção, detecção e combate de incêndios florestais, designadamente:
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.
+
+###### Artigo 2.º
+
+Na definição de qualquer zona crítica, ao abrigo do artigo anterior, o Governo deve:
+
+a) Definir o plano das infra-estruturas de detecção e combate aos incêndios florestais a instalar com o auxílio do Estado;
+
+b) Estabelecer as normas e as técnicas de silvicultura e de exploração dos patrimónios florestais consideradas convenientes, tendo em vista reduzir os riscos de incêndio e facilitar o seu combate, bem como criar as condições e conceder os apoios que permitam a respectiva aplicação.
+
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.
+
+###### Artigo 3.º
+
+Enquanto não se desenvolver uma rede adequada de estaleiros de recepção e triagem de material lenhoso e sempre que tal se justifique, o Estado promoverá, em conjugação com os produtores, instalações de parques de emergência para o material removido das matas percorridas pelos incêndios e facilitará por todos os meios possíveis a respectiva triagem e comercialização.
+
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.
+
+###### Artigo 4.º
+
+1 - Competirá a órgãos regionais de protecção civil, em matéria de protecção, detecção e combate de incêndios florestais, designadamente:
 
 a) Propor medidas destinadas a prevenir e detectar incêndios florestais;
 
 b) Declarar as zonas e as épocas de perigo e definir os trabalhos de carácter preventivo que nelas deverão ser realizados;
 
-c) Determinar os locais e épocas em que podem ser proibidos ou condicionados a utilização de fogo, o acesso à floresta ou outros locais, o emprego de máquinas susceptíveis de provocarem a deflagração de incêndios, ou lançamento de balões ou fogo de artifício e o abandono de qualquer material inflamado ou inflamável;
+c) Determinar os locais e épocas em que podem ser proibidos ou condicionados a utilização de fogo, o acesso à floresta ou outros locais, o emprego de máquinas susceptíveis de provocarem a deflagração de incêndios ou o lançamento de balões ou fogo de artifício e o abandono de qualquer material inflamado ou inflamável;
 
 d) Propor a aquisição dos terrenos necessários para a instalação de postos de vigia que se integrem na rede de vigilância;
 
@@ -182,25 +234,33 @@ f) Propor às autarquias competentes a delimitação de zonas de protecção dos
 
 g) Elaborar e divulgar um mapa da região no qual estejam assinaladas as zonas de perigo, os perímetros de detecção, os centros de combate, as vias de comunicação e os locais de abastecimento de água;
 
-h) Emitir os pareceres que, sobre matérias da sua competência, lhes sejam solicitados.
+h) Emitir os pareceres que sobre matérias da sua competência lhes sejam solicitados.
 
 2 - Para os efeitos do número anterior, os órgãos regionais de protecção civil integrarão obrigatoriamente representantes regionais dos corpos de bombeiros e dos serviços de ordenamento e gestão florestais.
 
 3 - No continente, os órgãos regionais de protecção civil serão presididos pelo governo civil do respectivo distrito.
 
-Art. 3.º - 1 - Os municípios têm responsabilidades em matéria de protecção civil.
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.
+
+###### Artigo 5.º
+
+1. - Os municípios têm responsabilidades em matéria de protecção civil.
 
 2 - Para efeitos de prevenção, detecção e combate de incêndios florestais, os municípios, ou associações de municípios, integrarão nos seus órgãos de coordenação de protecção civil representantes:
 
 a) Dos corpos de bombeiros da área;
 
-b) Da Guarda Nacional Republicana e ou Polícia de Segurança Pública;
+b) Da Guarda Nacional Republicana e ou da Polícia de Segurança Pública;
 
 c) Dos serviços de ordenamento e gestão florestais;
 
 d) Da produção florestal.
 
-Art. 4.º - 1 - Qualquer pessoa que detecte um incêndio florestal é obrigada a tentar a sua extinção, com a máxima urgência, através de todos os meios de que eventualmente disponha.
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.
+
+###### Artigo 6.º
+
+1 - Qualquer pessoa que detecte um incêndio florestal é obrigada a tentar a sua extinção, com a máxima urgência, através de todos os meios de que eventualmente disponha.
 
 2 - Quando a actuação nos termos do número anterior não resulte ou não ofereça perspectivas de ser eficaz, é obrigatória a comunicação da ocorrência às autoridades policiais ou corpos de bombeiros pelo meio mais rápido.
 
@@ -210,47 +270,71 @@ Art. 4.º - 1 - Qualquer pessoa que detecte um incêndio florestal é obrigada a
 
 5 - As entidades que recebam quaisquer das comunicações referidas no n.º 2 devem informar os órgãos de protecção civil da área.
 
-Art. 5.º - 1 - Quando os meios normais disponíveis se revelem insuficientes para a extinção do incêndio, os órgãos regionais de protecção civil poderão requisitar os serviços de cidadãos e viaturas existentes nas localidades mais próximas, desde que indispensáveis para o socorro de vidas e bens.
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.
+
+###### Artigo 7.º
+
+1 - Quando os meios normais disponíveis se revelem insuficientes para a extinção do incêndio, os órgãos regionais de protecção civil poderão requisitar os serviços de cidadãos e viaturas existentes nas localidades mais próximas, desde que indispensáveis para o socorro de vidas e bens.
 
 2 - Poderão ainda os órgãos regionais de protecção civil solicitar a colaboração das forças armadas, de acordo com as normas e procedimentos estabelecidos.
 
-Art. 6.º Quando colabore na extinção de qualquer incêndio florestal, o comandante do corpo de bombeiros interveniente deverá comunicar a ocorrência ao município da sua área de actuação, o qual, por sua vez, fica obrigado a indicar aos serviços de ordenamento e gestão florestais e aos órgãos regionais de protecção civil a localização da zona atingida e a data do incêndio, para efeitos de acções a desenvolver posteriormente.
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.
 
-Art. 7.º Poderão ser concedidos subsídios ao Conselho Coordenador do Serviço Nacional de Bombeiros e a outras entidades, com vista a suportar:
+###### Artigo 8.º
+
+Quando colabore na extinção de qualquer incêndio florestal, o comandante do corpo de bombeiros interveniente deverá comunicar a ocorrência ao município da sua área de actuação, o qual, por sua vez, fica obrigado a indicar aos serviços de ordenamento e gestão florestais e aos órgãos regionais de protecção civil a localização da zona atingida e a data do incêndio, para efeitos de acções a desenvolver posteriormente.
+
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.
+
+###### Artigo 9.º
+
+Poderão ser concedidos subsídios ao Conselho Coordenador do Serviço Nacional de Bombeiros e a outras entidades, com vista a suportar:
 
 a) A totalidade dos encargos com a alimentação e compensação de eventuais perdas de salários de pessoal empenhado no combate a incêndios florestais;
 
 b) O custo da aquisição e uso do equipamento de detecção, combate e extinção de incêndios florestais.
 
-Art. 8.º - 1 - A fiscalização do estabelecido neste diploma e seus regulamentos compete especialmente à polícia florestal, à Guarda Nacional Republicana, à Polícia de Segurança Pública e à Guarda Fiscal.
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.
+
+###### Artigo 10.º
+
+1 - A fiscalização do estabelecido neste diploma e seus regulamentos compete especialmente à polícia florestal, à Guarda Nacional Republicana, à Polícia de Segurança Pública e à Guarda Fiscal.
 
 2 - As autoridades e seus agentes com competência para fiscalizarem o cumprimento desta lei e diplomas regulamentares deverão levantar autos de notícia de todas as infracções que presenciem ou lhes sejam comunicadas.
 
-Art. 9.º Poderão formar-se corpos especiais de vigilantes de incêndios, aos quais sejam confiadas certas zonas de floresta ou determinadas vias de comunicação, com o objectivo de nelas fiscalizarem o cumprimento das disposições deste diploma e seus regulamentos.
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.
 
-Art. 10.º - 1 - As pessoas que não executarem os trabalhos preventivos referidos na segunda parte da alínea b) do artigo 2.º serão punidas com multa de 1000$00 a 10000$00 e notificadas para os executarem no prazo de oito dias, se outro não for fixado pela autoridade fiscalizadora, em função da natureza desses trabalhos.
+###### Artigo 11.º
 
-2 - Passado o prazo referido no número anterior, o órgão regional de protecção civil mandará proceder, a expensas do infractor, aos trabalhos necessários ao cumprimento das disposições regulamentares.
+Poderão formar-se corpos especiais de vigilantes de incêndios aos quais sejam confiadas certas zonas da floresta ou determinadas vias de comunicação com o objectivo de nelas fiscalizarem o cumprimento das disposições deste diploma e seus regulamentos.
 
-Art. 11.º As infracções das regras estabelecidas por força do disposto na alínea c) do artigo 2.º serão punidas:
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.
 
-a) Com pena de um a dois meses de prisão e multa de 1000$00 a 10000$00, a utilização de fogo ou o emprego de máquinas susceptíveis de provocarem a deflagração de incêndios e o lançamento de balões ou fogo de artifício;
+###### Artigo 12.º
 
-b) Com multa de 5000$00, o lançamento de pontas de cigarro ou de qualquer outro agente susceptível de provocar incêndios.
+As infracções ao disposto no presente diploma, bem como as suas sanções e o respectivo regime de fiscalização serão definidos no prazo de sessenta dias pelo decreto que o venha regulamentar.
 
-c) Com multa de 500$00, o acesso a locais proibidos, salvo em casos justificados.
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.
 
-Art. 12.º A infracção ao disposto no n.º 1 do artigo 4.º constitui crime de desobediência.
+###### Artigo 13.º
 
-Art. 13.º A inobservância ou recusa de cumprimento do disposto no n.º 2 do artigo 4.º constitui crime de desobediência qualificada.
-
-Art. 14.º - 1 - Os sinistrados de incêndios florestais que não beneficiem do disposto na legislação sobre acidentes de trabalho no que respeita às consequências da sua intervenção, gratuita ou onerosa, no respectivo combate terão direito a internamento hospitalar e a assistência médica e medicamentosa e a indemnizações ou pensões de acordo com o disposto na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536) e no [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246).
+1 - Os sinistrados de incêndios florestais que não beneficiem do disposto na legislação sobre acidentes de trabalho no que respeita às consequências da sua intervenção, gratuita ou onerosa, no respectivo combate terão direito a internamento hospitalar e a assistência médica e medicamentosa e a indemnizações ou pensões de acordo com o disposto na [Lei n.º 2127](https://diariodarepublica.pt/dr/detalhe/lei/2127-1965-292536) e no [Decreto n.º 360/71](https://diariodarepublica.pt/dr/detalhe/decreto/360-1971-635246).
 
 2 - Aplica-se, porém, o disposto no [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352), de 23 de Novembro de 1951, quando se trate de sinistrados subscritores da Caixa Geral de Aposentações vítimas de acidentes previstos no mesmo diploma.
 
-Art. 15.º Ao Governo compete tomar as disposições tendentes à reconstituição dos povoamentos florestais atingidos por incêndios.
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.
 
-Art. 16.º Este diploma entra em vigor na data da sua publicação e revoga o [Decreto-Lei n.º 488/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1970-147581), de 21 de Outubro.
+###### Artigo 14.º
+
+1 - Ao Governo compete tomar as disposições necessárias ao repovoamento das áreas florestais percorridas pelo incêndio.
+
+2 - A substituição das culturas florestais afectadas pelo incêndio carece de autorização do Estado.
+
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.
+
+###### Artigo 15.º
+
+Este diploma entra em vigor na data da sua publicação e revoga o [Decreto-Lei n.º 488/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1970-147581), de 21 de Outubro.
 
 Visto e aprovado em Conselho de Ministros de 30 de Julho de 1980. - Diogo Pinto de Freitas do Amaral.
 
@@ -259,3 +343,5 @@ Promulgado em 14 de Agosto de 1980.
 Publique-se.
 
 O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+> Alterado pelo/a [Lei n.º 10/81](https://diariodarepublica.pt/dr/detalhe/lei/10-1981-580313), publicado em 1981-07-10.

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-10-11'
+version_history:
+  file: decreto-45335.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-11-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-10-11'
+    amending: pt:dre:400007:por
+    amending_title: Decreto do Governo n.º 64/84
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:37:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto do Governo n.º 64/84. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1963/decreto-45335.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,7 +132,9 @@ Considerando o disposto na [Lei n.º 2078](https://diariodarepublica.pt/dr/detal
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º Fica sujeita a servidão militar a área confinante com as instalações do grupo n.º 1 de escolas da Armada, assim delimitada:
+###### Artigo 1.º
+
+Fica sujeita a servidão militar a área confinante com as instalações do grupo n.º 1 de escolas da Armada, assim delimitada:
 
 a) A oeste, pela auto-estrada do Norte;
 
@@ -125,9 +142,13 @@ b) A leste, pela linha da margem esquerda do rio Tejo;
 
 c) A norte, pela linha paralela ao muro que separa as instalações do grupo n.º 1 de escolas da Armada da propriedade municipal (Quinta do Cevadeiro) e seus prolongamentos, à distância de 150 m a norte do mesmo muro;
 
-d) A sul, pelo muro e seus prolongamentos situados à distância de 260 m da estrema sul dos terrenos do grupo n.º 1 de escolas da Armada e que separa as propriedades de António Botelho da Costa das da Sociedade Técnica de Hidráulica (Cimianto).
+d) A sul, pela perpendicular à linha de caminho de ferro que passa junto às instalações do Grupo n.º 1 de Escolas da Armada, traçada à distância de 130 m da esquina sudoeste do pavilhão gimnodesportivo das mesmas instalações.
 
-Art. 2.º Na área sujeita a servidão militar, e nos termos do estabelecido na [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), são proibidos, sem prévia licença da autoridade militar competente, os trabalhos e actividades seguintes:
+> Alterado pelo/a [Decreto do Governo n.º 64/84](https://diariodarepublica.pt/dr/detalhe/decreto-governo/64-1984-400007), publicado em 1984-10-11.
+
+###### Artigo 2.º
+
+Na área sujeita a servidão militar, e nos termos do estabelecido na [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), são proibidos, sem prévia licença da autoridade militar competente, os trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas, subterrâneas ou aquáticas;
 
@@ -147,7 +168,9 @@ c) Outros trabalhos ou actividades que possam inequìvocamente prejudicar a segu
 
 § 6.º A exigência da licença referida no corpo deste artigo não impedirá a urbanização nem a realização de obras portuárias ou de regularização marginal na área sujeita a servidão militar e a sua concessão será feita incondicionalmente, sempre que sejam observados os requisitos julgados indispensáveis pela autoridade militar.
 
-Art. 3.º As zonas indicadas no artigo 1.º serão demarcadas na carta militar de Portugal, na escala de 1:25000, sendo destinados exemplares às seguintes entidades:
+###### Artigo 3.º
+
+As zonas indicadas no artigo 1.º serão demarcadas na carta militar de Portugal, na escala de 1:25000, sendo destinados exemplares às seguintes entidades:
 
 a) Secretariado-Geral da Defesa Nacional;
 
@@ -157,7 +180,9 @@ c) Ministério das Obras Públicas;
 
 d) Ministério das Comunicações.
 
-Art. 4.º Compete ao Ministério da Marinha, pela Superintendência dos Serviços da Armada, ouvido o Estado-Maior da Armada e o comando do grupo n.º 1 de escolas da Armada, a concessão das licenças a que se referem os artigos 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) e 2.º do presente decreto, ficando a cargo do comando do referido grupo a fiscalização do exacto cumprimento da lei e da rigorosa observância das condições impostas nas licenças concedidas.
+###### Artigo 4.º
+
+Compete ao Ministério da Marinha, pela Superintendência dos Serviços da Armada, ouvido o Estado-Maior da Armada e o comando do grupo n.º 1 de escolas da Armada, a concessão das licenças a que se referem os artigos 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) e 2.º do presente decreto, ficando a cargo do comando do referido grupo a fiscalização do exacto cumprimento da lei e da rigorosa observância das condições impostas nas licenças concedidas.
 
 § único. Das decisões tomadas ao abrigo deste artigo, poderão os interessados recorrer para o Ministro da Defesa Nacional.
 

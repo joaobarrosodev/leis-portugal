@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-11-14'
+version_history:
+  file: decreto-regulamentar-regional-4-78-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-01-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-11-14'
+    amending: pt:dre:325921:por
+    amending_title: Decreto Regulamentar Regional n.º 22/78/A
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:24:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    22/78/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1978/decreto-regulamentar-regional-4-78-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,7 +139,9 @@ Nestas condições se prevê no presente diploma a celebração de um contrato-p
 
 Assim, o Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - É criada a Federação dos Municípios da Ilha do Pico, com sede na vila das Lajes do Pico, tendo por objecto a produção, transporte e distribuição de energia eléctrica em toda a ilha.
+###### Artigo 1.º
+
+1 - É criada a Federação dos Municípios da Ilha do Pico, com sede na vila das Lajes do Pico, tendo por objecto a produção, transporte e distribuição de energia eléctrica em toda a ilha.
 
 2 - A comissão administrativa da Federação será constituída pelos presidentes das câmaras municipais dos concelhos de Madalena, S. Roque e Lajes do Pico, servindo o último de presidente.
 
@@ -134,47 +151,73 @@ Artigo 1.º - 1 - É criada a Federação dos Municípios da Ilha do Pico, com s
 
 5 - A aprovação do regulamento interno e do quadro do pessoal técnico e administrativo da Federação é da competência da Secretaria Regional da Administração Pública, ouvida a Secretaria Regional do Comércio e Indústria, e deverá ser proposta pela Federação no prazo de trinta dias a contar da data da publicação deste diploma.
 
-Art. 2.º - 1 - Dentro do prazo de trinta dias, a contar da data da publicação do presente diploma, o conselho de administração da Federação proporá à aprovação do Secretário Regional do Comércio e Indústria a nomeação de um engenheiro electrotécnico ou engenheiro técnico de electrotecnia e máquinas para desempenhar as funções de director-delegado dos seus serviços e, bem assim, o vencimento mensal que pretende atribuir-lhe.
+###### Artigo 2.º
+
+1 - O conselho de administração da Federação proporá à aprovação dos Secretários Regionais da Administração Pública e do Comércio e Indústria a nomeação de um engenheiro electrotécnico ou engenheiro técnico de electrotecnia e máquinas para desempenhar as funções de director-delegado dos seus serviços e, bem assim, o vencimento mensal que pretende atribuir-lhe.
 
 2 - Se o proposto pertencer aos quadros do Estado ou da Região, será considerado em comissão de serviço, mantendo todos os direitos e regalias como se permanecesse na efectividade do quadro.
 
 3 - Se o proposto não pertencer aos quadros do Estado ou da Região, deverá ser contratado pelo prazo de três anos, considerando-se o contrato sucessivamente renovado por períodos iguais se não for denunciado com antecedência de três meses relativamente ao termo do período em curso.
 
-Art. 3.º Dentro do prazo de três meses, a contar da data da publicação do presente diploma, a Federação proporá à aprovação do Governo Regional, por intermédio da Secretaria Regional do Comércio e Indústria, o programa de investimentos na rede eléctrica do Pico para o período de 1978-1980 subordinado ao esquema geral que constar do contrato-programa a que se refere o artigo 15.º do presente diploma.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 22/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-1978-325921), publicado em 1978-11-14.
 
-Art. 4.º - 1 - O aproveitamento hidroeléctrico da lagoa do Paul será concedido à Federação com o mínimo de formalidades, incluindo a dispensa de inquérito público e de licença para estudos e sem prejuízo do andamento do projecto em curso.
+###### Artigo 3.º
+
+Dentro do prazo de três meses, a contar da data da publicação do presente diploma, a Federação proporá à aprovação do Governo Regional, por intermédio da Secretaria Regional do Comércio e Indústria, o programa de investimentos na rede eléctrica do Pico para o período de 1978-1980 subordinado ao esquema geral que constar do contrato-programa a que se refere o artigo 15.º do presente diploma.
+
+###### Artigo 4.º
+
+1 - O aproveitamento hidroeléctrico da lagoa do Paul será concedido à Federação com o mínimo de formalidades, incluindo a dispensa de inquérito público e de licença para estudos e sem prejuízo do andamento do projecto em curso.
 
 2 - Os estudos deste aproveitamento serão acompanhados pela Direcção Regional de Obras Públicas e Equipamento, à qual competirá também a fiscalização das respectivas obras.
 
-Art. 5.º - 1 - As instalações de produção e distribuição de energia eléctrica em alta e baixa tensão das câmaras municipais federadas transitam para a Federação logo que os respectivos serviços estejam em funcionamento.
+###### Artigo 5.º
+
+1 - As instalações de produção e distribuição de energia eléctrica em alta e baixa tensão das câmaras municipais federadas transitam para a Federação logo que os respectivos serviços estejam em funcionamento.
 
 2 - Esta afectação das instalações de produção e distribuição será precedida da avaliação das mesmas a realizar por uma comissão constituída por um representante da Secretaria Regional do Comérico e Indústria, que presidirá, com voto de qualidade, e por um representante de cada uma das câmaras municipais.
 
 3 - A nomeação desta comissão e a homologação dos valores por ela determinados é da competência do Secretário Regional do Comércio e Indústria.
 
-Art. 6.º - 1 - Os proprietários e possuidores, a qualquer título, de terrenos em que tenha de proceder-se a estudos ou trabalhos das obras de electrificação ou à manutenção das instalações de produção e distribuição existentes e, bem assim, os dos terrenos que lhes derem acesso ficam obrigados a consentir na sua ocupação e trânsito enquanto durarem os referidos estudos e trabalhos.
+###### Artigo 6.º
+
+1 - Os proprietários e possuidores, a qualquer título, de terrenos em que tenha de proceder-se a estudos ou trabalhos das obras de electrificação ou à manutenção das instalações de produção e distribuição existentes e, bem assim, os dos terrenos que lhes derem acesso ficam obrigados a consentir na sua ocupação e trânsito enquanto durarem os referidos estudos e trabalhos.
 
 2 - As indemnizações a que os proprietários e possuidores tiverem direito serão determinadas e satisfeitas pela Federação no prazo de três meses depois de iniciados os estudos ou a prática de qualquer dos outros actos previstos no n.º 1 deste artigo, ressalvado, quanto ao valor das indemnizações, o direito de recurso para os tribunais.
 
-Art. 7.º - 1 - Para fazer face aos encargos que incumbem à Federação para a realização dos seus planos de investimentos, ser-lhes-á facilitada pelo Governo Regional a concessão de empréstimos nas condições de juro a fixar no contrato-programa a que se refere o artigo 15.º do presente diploma.
+###### Artigo 7.º
+
+1 - Para fazer face aos encargos que incumbem à Federação para a realização dos seus planos de investimentos, ser-lhes-á facilitada pelo Governo Regional a concessão de empréstimos nas condições de juro a fixar no contrato-programa a que se refere o artigo 15.º do presente diploma.
 
 2 - Para os efeitos previstos no n.º 1 deste artigo, o Governo Regional habilitará, desde já, a Federação com uma importância de 4500 contos.
 
-Art. 8.º Até à aprovação do novo sistema tarifário a consignar no contrato-programa a que se refere o artigo 15.º manter-se-ão em vigor as tarifas vigentes à data da publicação deste diploma.
+###### Artigo 8.º
 
-Art. 9.º - 1 - Constituem créditos das câmaras municipais federadas as quantias correspondentes aos consumos verificados nas instalações ligadas às suas redes até ao dia 1 do mês seguinte àquele em que essas redes sejam afectadas à Federação.
+Até à aprovação do novo sistema tarifário a consignar no contrato-programa a que se refere o artigo 15.º manter-se-ão em vigor as tarifas vigentes à data da publicação deste diploma.
+
+###### Artigo 9.º
+
+1 - Constituem créditos das câmaras municipais federadas as quantias correspondentes aos consumos verificados nas instalações ligadas às suas redes até ao dia 1 do mês seguinte àquele em que essas redes sejam afectadas à Federação.
 
 2 - Será de conta das câmaras municipais federadas a liquidação dos encargos correntes de exploração dos seus serviços de electricidade, contraídos até à data prescrita no n.º 1 deste artigo.
 
-Art. 10.º Serão transferidas para a Federação as responsabilidades financeiras das câmaras municipais federadas, adquiridas por virtude da actividade dos seus serviços de electricidade.
+###### Artigo 10.º
 
-Art. 11.º Serão integradas no património da Federação as obras em curso incluídas no plano de electrificação da ilha do Pico que está a decorrer sob a égide da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, nas condições a acordar com o Governo Central.
+Serão transferidas para a Federação as responsabilidades financeiras das câmaras municipais federadas, adquiridas por virtude da actividade dos seus serviços de electricidade.
 
-Art. 12.º - 1 - Dentro do prazo de sessenta dias, a contar da data da publicação do presente diploma, será celebrado, entre o Governo Regional e a Federação, um contrato-programa, com a vigência de três anos, através do qual fiquem definidas: a estrutura financeira da Federação; as condições dos empréstimos a longo prazo, bem como o seu montante escalonado pelos três anos de vigência do contrato; a bonificação do preço do gasóleo; o sistema tarifário a adoptar; o programa trienal de investimentos, e os valores guia dos principais indicadores de gestão.
+###### Artigo 11.º
+
+Serão integradas no património da Federação as obras em curso incluídas no plano de electrificação da ilha do Pico que está a decorrer sob a égide da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, nas condições a acordar com o Governo Central.
+
+###### Artigo 12.º
+
+1 - Dentro do prazo de sessenta dias, a contar da data da publicação do presente diploma, será celebrado, entre o Governo Regional e a Federação, um contrato-programa, com a vigência de três anos, através do qual fiquem definidas: a estrutura financeira da Federação; as condições dos empréstimos a longo prazo, bem como o seu montante escalonado pelos três anos de vigência do contrato; a bonificação do preço do gasóleo; o sistema tarifário a adoptar; o programa trienal de investimentos, e os valores guia dos principais indicadores de gestão.
 
 2 - A minuta do contrato será elaborada por uma comissão, a nomear por despacho do Secretário Regional do Comércio e Indústria e constituída por três membros, sendo um designado pela Federação, outro pelo Secretário Regional das Finanças e o terceiro, que presidirá, pelo Secretário Regional do Comércio e Indústria.
 
-Art. 13.º Todos os programas com vista à instalação e arranque da Federação serão previamente aprovados pelo Secretário Regional do Comércio e Indústria, incluindo o recrutamento do pessoal.
+###### Artigo 13.º
+
+Todos os programas com vista à instalação e arranque da Federação serão previamente aprovados pelo Secretário Regional do Comércio e Indústria, incluindo o recrutamento do pessoal.
 
 Aprovado em Plenário do Governo em 15 de Dezembro de 1977.
 

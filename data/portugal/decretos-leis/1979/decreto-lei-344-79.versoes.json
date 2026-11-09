@@ -1,0 +1,456 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:378554:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-08-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "473a70ecef6abc34",
+    "adf1b5cd955c4adc",
+    "fb8837bb820a09d0",
+    "dc2c2fdc54b5e26d",
+    "fe9e03d04ede6567",
+    "99296e69bd211a9c",
+    "8e80db3ae2f71434",
+    "5b21baf6af792c21",
+    "2c659de9525b81d8",
+    "fe081ff31114928d",
+    "c0564a454f7750e9",
+    "e5dbdd8ebee1c437",
+    "96a0a5982c8ad608",
+    "1f1fea68cc6b993d",
+    "9c0193efa0b9126c",
+    "f8043d2391a5b524",
+    "2ffd6e696f3dd341",
+    "4a013c37b28b7ab6",
+    "8eb9b1bc8ca51ebe",
+    "3118bd7d887dae63",
+    "1e38b0d85134e8c3",
+    "275152e02b616e82"
+   ]
+  },
+  {
+   "date": "1981-01-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:157044:por",
+     "title": "Decreto-Lei n.º 519-C2/79",
+     "published": "1979-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/519-c2-1979-157044"
+    },
+    {
+     "id": "pt:dre:389871:por",
+     "title": "Decreto-Lei n.º 14/81",
+     "published": "1981-01-27",
+     "dre_path": "/dr/detalhe/decreto-lei/14-1981-389871"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "473a70ecef6abc34",
+    "05fa2017d5103fcd",
+    "93edf07fa8676fe2",
+    "3a62174ea67fb7dc",
+    "1e70337a848030ce",
+    "659fa647eb72ca1a",
+    "a13aa45a85a36d08",
+    "cc011cdb2d013509",
+    "347a394b018f1c56",
+    "2402df2a11ffc8fd",
+    "76deff149a31def7",
+    "e6743e21f5d46395",
+    "4e1b086ec58d2c2d",
+    "8328714ece677c68",
+    "02e2fc7cf2258124",
+    "08286972ba908fae",
+    "ccb785372f061676",
+    "a4e9f68cdb22ed37",
+    "fbfe21240362ac56",
+    "52bdadea44f05fcc",
+    "5518fe293c7418b9",
+    "bb705dec5baf5d36"
+   ]
+  }
+ ],
+ "fragments": {
+  "473a70ecef6abc34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Agosto\n\nA experiência decorrente da aplicação da disciplina actual de contratos de desenvolvimento justifica uma revisão, que tem por objectivo proporcionar aos intervenientes - Administração, banca, empresas - um quadro legal melhor acomodado ao objectivo de produzir alojamentos em quantidade e qualidade e a preço acessível.\n\nCircunscreveu-se a área de aplicação à construção de habitações porque os contratos para a produção de componentes têm a sua disciplina no [Decreto-Lei n.º 718/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/718-1974-298214) e os contratos relativos a equipamentos colectivos melhor se enquadrarão quando se redefinirem as atribuições da Administração Central e das autarquias locais.\n\nE concentrada a regulamentação na habitação, visa-se acelerar o processamento burocrático - que apressa a comercialização e contém os preços finais de venda; alarga-se à situação o regime de revisão de preços fixado para as empreitadas de obras públicas, porque mais conforme à natureza do contrato; afasta-se um mecanismo complicado e concorrencial da comercialização, entregando-se esta ao promotor, sob contrôle e fiscalização municipais, e estabelece-se, ainda, que aos adquirentes das habitações se aplica o regime de isenções previsto para as casas de renda limitada, criando-se, do mesmo passo, um novo instrumento de crédito à habitação.\n\nA presente providência apresenta-se deste modo, como um elemento positivo no conjunto das medidas de política habitacional.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "adf1b5cd955c4adc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — (Conceito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — (Conceito)\n\n1 - Os contratos de desenvolvimento para a habitação, adiante designados por «contratos de desenvolvimento», visam apoiar a indústria da construção civil, melhorar as condições e tecnologia da produção e a estrutura organizativa do sector, em ordem a aumentar a oferta de habitação, a preços controlados, nas zonas mais carenciadas.\n\n2 - O contrato pode também compreender no seu objecto a construção de edifícios ou partes de edifícios não habitacionais, necessários a uma programação integrada no espaço urbano ou impostos por soluções arquitectónicas e construtivas.\n\n3 - Poderão ser celebrados contratos-programa sempre que a dimensão do empreendimento e o volume do investimento o justifiquem, constituindo um conjunto de contratos de desenvolvimento temporalmente sucessivos e distintos."
+  },
+  "fb8837bb820a09d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — (Sujeitos do contrato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — (Sujeitos do contrato)\n\n1 - Os contratos de desenvolvimento serão celebrados entre o Fundo de Fomento da Habitação (FFH) e a Caixa Geral de Depósitos, ou a Companhia Geral do Crédito Predial Português, ou a Caixa Económica de Lisboa - Montepio Geral, e as empresas do sector público, cooperativo ou privado que se dediquem à construção civil com alvará adequado ao valor do contrato e à natureza da obra, em contrapartida de benefícios que se venham a estipular no contrato.\n\n2 - Poderá a câmara municipal competente substituir-se, na parte aplicável e para todos os efeitos do presente diploma, ao FFH.\n\n3 - Mediante despacho do Ministro das Finanças e do Plano, poderão participar em contratos de desenvolvimento outras caixas económicas ou institutos de crédito que para tal se mostrem habilitados.\n\n4 - Sendo o contrato de desenvolvimento celebrado com grupos de empresas, definir-se-á com rigor a responsabilidade de cada uma pela qualidade técnica da construção e pelo cumprimento das obrigações contratuais, designadamente no que se refere à pontual consecução dos objectivos parciais e globais estabelecidos."
+  },
+  "dc2c2fdc54b5e26d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — (Regime jurídico das habitações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — (Regime jurídico das habitações)\n\n1 - As habitações construídas ao abrigo de contratos de desenvolvimento são consideradas casas de renda limitada, sujeitas ao regime do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, e demais legislação aplicável, salvo no que respeita à atribuição das habitações em primeira transmissão, que se fará, independentemente de concurso, por comercialização directa.\n\n2 - As habitações destinam-se a venda quer para aquisição de casa própria, quer para arrendamento, nos termos da legislação referida no número anterior.\n\n3 - As habitações que vierem a ser adquiridas pelo FFH por força do exercício da garantia de compra serão vendidas ou arrendadas segundo o regime de renda limitada.\n\nO FFH poderá, porém, afectar as mesmas habitações aos regimes legais previstos para atribuição de casas da sua propriedade, constituindo documento bastante para o cancelamento do ónus de renda limitada o despacho do Ministro da Habitação e Obras Públicas que determinar tal afectação.\n\n4 - As habitações devem obedecer às características técnicas fixadas nos termos do n.º 2 do artigo 6.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e às tipologias previstas na lei.\n\n5 - Para efeitos do artigo 15.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), é documento bastante o certificado emitido pelo FFH de onde conste a natureza de renda limitada da habitação objecto de registo.\n\n6 - O mesmo documento certificará, para todos os efeitos previstos no presente diploma, a natureza da renda limitada das habitações a que se refere o n.º 1."
+  },
+  "fe9e03d04ede6567": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — (Investimento anual)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — (Investimento anual)\n\n1 - Do programa de investimentos do FFH constará o investimento máximo anual a despender com contratos de desenvolvimento, devidamente discriminado pelas seguintes rubricas:\n\na) Financiamento directo pelas entidades financiadoras às empresas promotoras dos contratos de desenvolvimento;\n\nb) Garantia de compra a conceder pelo FFH.\n\n2 - De entre as propostas de celebração de contratos de desenvolvimento deverá ser dada preferência às que se destinem à construção de habitações em zonas do País de maior procura ou previstas em planos de ordenamento do território.\n\n3 - O FFH, por sua iniciativa ou por proposta das câmaras municipais poderá convidar, através de avisos públicos, empresas à celebração de contratos de desenvolvimento em determinada região."
+  },
+  "99296e69bd211a9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — (Terrenos para construção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — (Terrenos para construção)\n\n1 - Os contratos de desenvolvimento compreendem a execução de programas de edificação em terrenos propriedade do proponente, ou em lotes de terrenos para tal fim expressamente cedidos pela Administração às empresas, nos termos das disposições combinadas do artigo 29.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e n.os 6 e 7 do artigo 4.º do [Decreto n.º 182/72](https://diariodarepublica.pt/dr/detalhe/decreto/182-1972-681838), de 30 de Maio, sendo a adjudicação feita sob condição de celebração do contrato de desenvolvimento.\n\n2 - Os terrenos a que se refere o número anterior têm de se encontrar nas condições do n.º 1 do artigo 62.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.\n\n3 - A cedência de terrenos pela Administração às empresas contratantes pode admitir que o preço do terreno acordado seja pago apenas aquando da venda das habitações."
+  },
+  "8e80db3ae2f71434": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — (Obrigações das empresas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — (Obrigações das empresas)\n\n1 - Nos contratos de desenvolvimento a empresa proponente obrigar-se-á, designadamente:\n\na) A levar a efeito, de acordo com um plano aprovado cuja duração total não poderá ultrapassar o prazo de vigência do contrato, um número pré-fixado de habitações, sob o regime jurídico e com as características fixados nos termos do artigo 3.º;\n\nb) A comunicar ao FFH o início dos trabalhos;\n\nc) A respeitar nas vendas o esquema de disciplina de preços que for definido no contrato;\n\nd) A utilizar materiais normalizados, com preferência para os que forem produzidos no âmbito de contratos de desenvolvimento para a produção de componentes;\n\ne) A cumprir as disposições regulamentares relativas à comercialização das habitações, dando aos serviços municipais todas as informações que lhe forem solicitadas;\n\nf) A garantir directamente perante os adquirentes das habitações a qualidade da construção nos precisos termos da responsabilidade do empreiteiro perante o dono da obra, de acordo com o artigo 1225.º do Código Civil."
+  },
+  "5b21baf6af792c21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — (Benefícios a conceder às empresas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — (Benefícios a conceder às empresas)\n\n1 - Nos contratos de desenvolvimento poderão estabelecer-se a favor das empresas os seguintes benefícios, sem prejuízo das isenções estabelecidas nas alínea c), d), e) e f) do artigo 16.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756) para as habitações construídas ao abrigo do contrato e dos benefícios que lhe competirem, no âmbito dos regimes gerais ou especiais que lhe forem aplicáveis, por virtude das actividades que exerçam ou da situação particular em que se encontrem:\n\na) Assistência e acompanhamento pelo FFH na execução da obra;\n\nb) Concessão pelas entidades financiadoras contratantes de financiamento, garantido preferencialmente por hipoteca e a fixar por diploma regulamentar para a prossecução das finalidades que constituem o objecto do contrato, segundo esquemas mais favoráveis que os adoptados em relação aos casos análogos não abrangidos por contrato de desenvolvimento;\n\nc) Garantia supletiva e parcial de compra, pelo FFH, segundo o plano de esquemas de preços e prazos negociados, das habitações construídas no âmbito do contrato, de acordo com critérios a fixar por despacho ministerial;\n\nd) Prestação pelo FFH a favor das empresas e quando o julgar necessário de fiança solidária nas operações de financiamento, relativamente à parte não coberta pela garantia hipotecária e nos casos em que essa fiança seja necessária;\n\ne) Redução, em percentagem a fixar por despacho do Ministro das Finanças e do Plano, até 90% da contribuição industrial e que incida sobre os lucros correspondentes à construção de habitações.\n\n2 - O tipo e a medida dos benefícios admitidos em cada caso, bem como as condições de que dependa a sua concessão, fixar-se-ão no contrato, com observância das regras constantes do presente decreto-lei.\n\n3 - A taxa de juro a praticar nos empréstimos a que se refere a alínea b) do n.º 1 será fixada por portaria conjunta dos Ministérios das Finanças e do Plano e da Habitação e Obras Públicas."
+  },
+  "2c659de9525b81d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — (Metas anuais e globais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — (Metas anuais e globais)\n\n1 - O efectivo direito aos benefícios derivados do contrato de desenvolvimento, em especial no que toca aos de natureza financeira e fiscal que nele se clausulem, dependerá da consecução pelas empresas dos objectivos e metas anuais e globais que para o efeito no mesmo contrato se estabeleçam.\n\n2 - Os objectivos e metas a que se alude no número anterior respeitarão não apenas ao volume de produção correspondente às metas parciais e globais a atingir pelas empresas e ao cumprimento das cláusulas relativas a preços, mas também à concretização dos projectos, programas e medidas a que aquelas se obriguem ao longo do período convencionado para as executar e dentro do prazo do contrato.\n\n3 - A não consecução dos objectivos e metas previstos no contrato só será de relevar, para os efeitos do disposto no presente decreto-lei, quando resulte de facto comprovadamente não imputável às empresas contratantes.\n\n4 - Os objectivos e metas anuais e globais poderão ser reajustados quando as circunstâncias reconhecidamente o imponham ou se verifique falta de cumprimento, por parte das empresas, do estabelecido no contrato e este não deva ser rescindido."
+  },
+  "fe081ff31114928d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — («Contrôle» da execução do contrato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — («Contrôle» da execução do contrato)\n\n1 - Cabe às empresas contratantes o ónus de provar, até às datas que figurem no contrato de desenvolvimento, a efectiva consecução dos objectivos e metas fixados nos termos do artigo anterior e bem assim, se for caso disso, que lhes não é imputável a sua eventual falta de cumprimento.\n\n2 - Caberá ao FFH fiscalizar a execução das obras fornecendo à entidade financiadora os resultados das medições efectuadas e, conjuntamente com esta, acompanhar o desenvolvimento da execução dos projectos, programas e medidas objecto do contrato e, se for caso disso, a evolução das actividades das empresas contratantes bem como exigir das mesmas todas as informações e elementos de prova que considere indispensáveis para averiguar do efectivo cumprimento do contrato, da aplicação dos créditos e da medida de quaisquer benefícios a atribuir-lhes."
+  },
+  "c0564a454f7750e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º — (Valor de venda das habitações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º — (Valor de venda das habitações)\n\n1 - O valor de venda final das habitações, em cada semestre de comercialização, resultará do valor de venda inicial que para cada contrato venha a ser acordado, dentro dos valores máximos fixados para as casas de renda limitada, acrescido do valor da revisão de preços respectivos, dos encargos financeiros vencidos após conclusão e, ainda, de outros custos resultantes de alterações, de acordo com a expressão seguinte:\n\nV(índice fn) = (V(índice i) + R(índice p) + R(índice pj) + C(índice c)) x (1 + (n x j)/250)\n\nem que:\n\nV(índice fn) = Valor de venda final;\n\nV(índice i) = Valor de venda inicial compreendendo as seguintes parcelas:\n\nC(índice c) = Valor inicial do custo da construção;\n\nT(índice u) = Valor inicial do terreno urbanizado;\n\nE(índice i) = Valor correspondente a outros encargos indirectos;\n\nR(índice p) = Valor das revisões de preços;\n\nR(índice pj) = Valor das revisões de preços por eventual alteração da taxa de juro;\n\nC(índice a) = Custos resultantes de alterações impostas pelas entidades competentes ou pelo comportamento dos terrenos;\n\nn = Número de ordem do semestre, contado a partir da data da conclusão das habitações, em que se verifique a transmissão da habitação em causa;\n\nj = Valor não percentual da taxa de juro do financiamento à data da conclusão das habitações.\n\n2 - O preço de aquisição das habitações pelo FFH, pelo exercício do benefício da garantia de compra, resultará do valor de venda final referido no número anterior, por aplicação da expressão seguinte:\n\nP = V(índice jn) x 1 - j/500"
+  },
+  "e5dbdd8ebee1c437": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 11.º — (Revisão de preços)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 11.º — (Revisão de preços)\n\n1 - À revisão de preços prevista no artigo anterior aplica-se o disposto no [Decreto-Lei n.º 273-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-b-1975-626600), com as adaptações seguintes.\n\n2 - Os custos de construção para edifícios e infra-estruturas serão revistos através das fórmulas acordadas no contrato a partir dos índices oficiais referentes a mão-de-obra e aos materiais que representam mais de 1% dos custos referidos.\n\n3 - Os índices base serão os do mês em que se verifique o acordo sobre o valor de venda inicial.\n\n4 - O valor de venda inicial será revisto a partir dos cálculos efectuados para as revisões do custo de construção e do custo das infra-estruturas urbanísticas, segundo a seguinte fórmula:\n\nC(índice t) = C(índice t1)(1 + e(índice v)) + C(índice t2) x t(índice v) + t(índice f) + e(índice f)/1 + t(índice v) + t(índice f) + e(índice v) + e(índice f)\n\nem que:\n\nC(índice t) = Coeficiente de actualização do valor de venda inicial;\n\nC(índice t1) = Coeficiente de actualização do valor inicial do custo da construção;\n\nC(índice t2) = Coeficiente de actualização do valor inicial do custo das infra-estruturas urbanísticas;\n\nt(índice v) = Percentagem do custo das infra-estruturas urbanísticas, realizadas no âmbito do CDH, relativamente ao custo da construção;\n\nt(índice f) = Percentagem do valor atribuído ao terreno relativamente ao custo da construção;\n\ne(índice v) = Percentagem de outros encargos indirectos revisíveis relativamente ao custo da construção;\n\ne(índice f) = Percentagem de outros encargos indirectos não revisíveis relativamente ao custo da construção."
+  },
+  "96a0a5982c8ad608": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 12.º — (Valor das rendas das habitações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 12.º — (Valor das rendas das habitações)\n\nAs rendas fixadas nos termos do artigo 4.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756) terão por base o valor de venda fixado no n.º 1 do artigo 10.º do presente diploma."
+  },
+  "1f1fea68cc6b993d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 13.º — (Garantia de compra)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 13.º — (Garantia de compra)\n\nSempre que no contrato se estabelecer a garantia de compra prevista na alínea c) do n.º 1 do artigo 7.º, esta efectivar-se-á, dentro da percentagem fixada no contrato, relativamente aos fogos não vendidos, nos cento e oitenta dias após o termo do trimestre em que deu entrada no FFH o documento comprovativo do pedido de licença de habitação relativa aos últimos fogos concluídos e obtida a referida licença."
+  },
+  "9c0193efa0b9126c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 14.º — (Financiamento pelo FFH)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 14.º — (Financiamento pelo FFH)\n\n1 - O FFH poderá, sempre que o julgue conveniente, participar no financiamento dos projectos, aquisição de terrenos, programas ou medidas abrangidos por contratos de desenvolvimento.\n\n2 - Nos casos a que se refere o número anterior, o FFH terá, relativamente às empresas contratantes, além dos direitos que especialmente resultem das condições estabelecidas para o seu financiamento, e no que com estas não for incompatível, todos os demais direitos que do presente decreto-lei derivem para entidades financiadoras."
+  },
+  "f8043d2391a5b524": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 15.º — (Privilégios creditórios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 15.º — (Privilégios creditórios)\n\nOs créditos do FFH emergentes do financiamento a que se refere o artigo anterior, bem como os resultantes das fianças previstas na alínea d) do n.º 1 do artigo 7.º e no n.º 4 do artigo 16.º, gozam de todos os privilégios mobiliários e imobiliários do Estado."
+  },
+  "2ffd6e696f3dd341": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 16.º — (Benefícios a conceder aos adquirentes das habitações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 16.º — (Benefícios a conceder aos adquirentes das habitações)\n\n1 - Os adquirentes das casas de renda limitada construídas ao abrigo de contratos de desenvolvimento beneficiam das isenções previstas no artigo 16.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756).\n\n2 - Sem prejuízo do disposto no número anterior, para a aquisição das habitações construídas no âmbito dos contratos de desenvolvimento, as entidades financiadoras referidas no n.º 1 do artigo 2.º concederão a futuros compradores, em termos a definir por portaria conjunta dos Ministros das Finanças e do Plano e da Habitação e Obras Públicas, financiamentos especiais.\n\n3 - Logo que celebrados os contratos-promessa de compra e venda das habitações, nos termos do n.º 1 do artigo 18.º deste diploma, e definidos os valores de venda finais, deverão as entidades respectivas garantir aos promitentes compradores o financiamento à sua aquisição. Poderão, ainda, os mesmos organismos, a partir desse momento, conceder aos adquirentes financiamentos intercalares para as entradas iniciais, até um máximo de 20% do valor da venda da habitação.\n\nA taxa a aplicar a estes empréstimos será a taxa a ser suportada pelo mutuário no empréstimo definitivo, a contrair no momento da assinatura do contrato de compra e venda.\n\n4 - Fica o FFH autorizado a garantir, através de fiança solidária, os financiamentos intercalares referidos no número anterior.\n\n5 - Quando os adquirentes forem emigrantes, sem prejuízo das isenções previstas no n.º 1, poderão optar entre o regime de financiamento referido nos n.os 2 a 4 e o [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455), de 9 de Julho."
+  },
+  "4a013c37b28b7ab6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 17.º — (Rescisão do contrato por iniciativa do FFH e das entidades financiadoras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 17.º — (Rescisão do contrato por iniciativa do FFH e das entidades financiadoras)\n\n1 - O FFH e a entidade financiadora poderão conjuntamente rescindir o contrato:\n\na) Quando a empresa contratante se recusar a prestar ou ao FFH ou à entidade financiadora quaisquer informações ou elementos que nos termos do n.º 2 do artigo 9.º lhe forem solicitados, ou conscientemente fornecer informações ou elementos inexactos sobre factos relevantes relativos ao objecto e execução do contrato;\n\nb) Quando ocorrer a falta de cumprimento do prazo contratual para início dos trabalhos ou dos objectivos e metas parciais fixados, se dela resultar a impossibilidade de se atingirem as finalidades essenciais do contrato;\n\nc) Quando se verifiquem quaisquer outros factos que igualmente inviabilizem a consecução das finalidades essenciais do contrato ou que, nos termos da lei geral, constituam fundamento para rescisão deste tipo de negócios jurídicos.\n\n2 - Se o contrato tiver sido celebrado por um conjunto de empresas, nos termos do n.º 5 do artigo 2.º, e uma ou mais der motivo à rescisão, esta operar-se-á, com todos os efeitos, em relação àquela ou àquelas em falta, podendo, no que toca às restantes, o FFH e a entidade financiadora:\n\na) Rescindir igualmente o contrato se, em seu juízo, o objecto e as finalidades do mesmo, ponderados os interesses da economia nacional, inviabilizarem ou tornarem injustificável, nessas condições, a sua subsistência, mesmo introduzindo-lhe quaisquer modificações;\n\nb) Manter em vigor o contrato, com as alterações e os ajustamentos que considerem adequados.\n\n3 - No caso da rescisão, as taxas de juro relativas às quantias em débito às entidades financiadoras ou ao FFH passarão a ser as correntes para operações desse tipo, sem prejuízo de entre a empresa contraente e a entidade financiadora ser renovado o contrato de empréstimo, em condições a acordar especialmente.\n\n4 - A rescisão implica igualmente a perda e consequente dever de restituir os montantes dos benefícios pecuniários e fiscais resultantes do contrato.\n\n5 - O disposto no número anterior aplica-se, com as necessárias adaptações, à rescisão dos contratos-programa previstos no n.º 3 do artigo 1.º"
+  },
+  "8eb9b1bc8ca51ebe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 18.º — (Comercialização das habitações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 18.º — (Comercialização das habitações)\n\n1 - Cabe à empresa promover a venda das fracções autónomas do edifício destinadas a habitação, sendo proibida a celebração de contratos de promessa de compra e venda antes de executadas as alvenarias e a cobertura do respectivo edifício.\n\n2 - Se ainda não estiver fixado o preço de venda nos termos das disposições combinadas dos artigos 10.º e 11.º deste diploma, deverá constar expressamente do contrato-promessa essa circunstância e o modo de fixação final do preço.\n\n3 - Só podem adquirir as habitações construídas no âmbito de contratos de desenvolvimento os cidadãos nacionais constantes das listas organizadas pelos serviços competentes do município de situação do prédio, mediante avisos publicados nos locais de estilo e anúncios nos órgãos de comunicação social mais lidos no concelho.\n\n4 - Se os serviços do município não fornecerem no prazo fixado em decreto regulamentar as listas referidas no n.º 3, a empresa poderá vender as habitações a cidadãos nacionais que a procurem directamente para o efeito.\n\n5 - Os notários não poderão lavrar escritura pública pela qual se transmite, a título oneroso, a propriedade de fracções autónomas de habitações construídas no âmbito de contratos de desenvolvimento sem a apresentação de documento comprovativo, passado pelos serviços competentes do município da situação do prédio, de que a alienação se efectuou com observância do disposto neste diploma e do qual constem os nomes do vendedor e do comprador.\n\n6 - A declaração referida no número anterior pode ser substituída por visto dos serviços competentes do município no contrato-promessa celebrado nos termos do n.º 1 do presente artigo."
+  },
+  "3118bd7d887dae63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 19.º — (Interpretação do diploma e esclarecimento de dúvidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 19.º — (Interpretação do diploma e esclarecimento de dúvidas)\n\nQuaisquer dúvidas na interpretação e aplicação do presente decreto-lei serão resolvidas e as lacunas preenchidas por despacho do Ministro da Habitação e Obras Públicas ou, quando se refiram à concessão de benefícios fiscais e creditícios, por despacho do Ministro das Finanças e do Plano."
+  },
+  "1e38b0d85134e8c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 20.º — (Aplicação e entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 20.º — (Aplicação e entrada em vigor)\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação e aplica-se aos contratos de desenvolvimento para habitação:\n\na) Cuja proposta de negociação dê entrada no FFH posteriormente àquela data;\n\nb) Em relação aos quais não tenha sido proferido, até à mesma data, o despacho a que se refere o n.º 4 do artigo 6.º do [Decreto Regulamentar n.º 17/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1977-140332), de 4 de Março, salvo o regime de crédito previsto no n.º 2 do artigo 16.º, que é aplicável também aos adquirentes das habitações de contratos de desenvolvimento do pretérito que ainda não tenham assinado o contrato de compra e venda."
+  },
+  "275152e02b616e82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 21.º — (Norma revogatória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 21.º — (Norma revogatória)\n\nSem prejuízo do disposto no número anterior, o presente diploma substitui integralmente o regime jurídico de contratos de desenvolvimento no que se refere à habitação regulado pelo [Decreto-Lei n.º 412-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1977-621561), de 29 de Setembro, e disposições regulamentares.\n\nVisto e aprovado em Conselho de Ministros de 4 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - João Orlindo Almeida Pina.\n\nPromulgado em 30 de Julho de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "05fa2017d5103fcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Conceito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Conceito)\n\n1 - Os contratos de desenvolvimento para a habitação, adiante designados por «contratos de desenvolvimento», visam apoiar a indústria da construção civil, melhorar as condições e tecnologia da produção e a estrutura organizativa do sector, em ordem a aumentar a oferta de habitação, a preços controlados, nas zonas mais carenciadas.\n\n2 - O contrato pode também compreender no seu objecto a construção de edifícios ou partes de edifícios não habitacionais, necessários a uma programação integrada no espaço urbano ou impostos por soluções arquitectónicas e construtivas.\n\n3 - Poderão ser celebrados contratos-programa sempre que a dimensão do empreendimento e o volume do investimento o justifiquem, constituindo um conjunto de contratos de desenvolvimento temporalmente sucessivos e distintos."
+  },
+  "93edf07fa8676fe2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Sujeitos do contrato)",
+   "in_force_from": "1981-01-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+   ],
+   "markdown": "###### Artigo 2.º — (Sujeitos do contrato)\n\n1 - Os contratos de desenvolvimento serão celebrados entre o Fundo de Fomento da Habitação (FFH) e a Caixa Geral de Depósitos, ou a Companhia Geral do Crédito Predial Português, ou a Caixa Económica de Lisboa - Montepio Geral, e as empresas do sector público, cooperativo ou privado que se dediquem à construção civil com alvará adequado ao valor do contrato e à natureza da obra, em contrapartida de benefícios que se venham a estipular no contrato.\n\n2 - Poderá a câmara municipal competente, bem como o Gabinete da Área de Sines no perímetro da sua jurisdição, substituir-se, na parte aplicável e para todos os efeitos do presente diploma, ao FFH.\n\n3 - Mediante despacho do Ministro das Finanças e do Plano, poderão participar em contratos de desenvolvimento outras caixas económicas ou institutos de crédito que para tal se mostrem habilitados.\n\n4 - Sendo o contrato de desenvolvimento celebrado com grupos de empresas, definir-se-á com rigor a responsabilidade de cada uma pela qualidade técnica da construção e pelo cumprimento das obrigações contratuais, designadamente no que se refere à pontual consecução dos objectivos parciais e globais estabelecidos.\n\n> Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+  },
+  "3a62174ea67fb7dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Regime jurídico das habitações)",
+   "in_force_from": "1981-01-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+   ],
+   "markdown": "###### Artigo 3.º — (Regime jurídico das habitações)\n\n1 - As habitações construídas ao abrigo de contratos de desenvolvimento são consideradas casas de renda limitada, sujeitas ao regime do Decreto-Lei n.º 608/75, de 14 de Novembro, e demais legislação aplicável, salvo no que respeita à atribuição das habitações em primeira transmissão, que se fará, independentemente de concurso, por comercialização directa, e no que respeita aos custos, em que se observará o disposto no n.º 1 do artigo 10.º, com a redacção dada pelo presente diploma.\n\n2 - As habitações destinam-se a venda quer para aquisição de casa própria, quer para arrendamento, nos termos da legislação referida no número anterior.\n\n3 - As habitações que vierem a ser adquiridas pelo FFH por força do exercício da garantia de compra serão vendidas ou arrendadas segundo o regime de renda limitada.\n\nO FFH poderá, porém, afectar as mesmas habitações aos regimes legais previstos para atribuição de casas da sua propriedade, constituindo documento bastante para o cancelamento do ónus de renda limitada o despacho do Ministro da Habitação e Obras Públicas que determinar tal afectação.\n\n4 - As habitações devem obedecer às características técnicas fixadas nos termos do n.º 2 do artigo 6.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e às tipologias previstas na lei.\n\n5 - Para efeitos do artigo 15.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), é documento bastante o certificado emitido pelo FFH de onde conste a natureza de renda limitada da habitação objecto de registo.\n\n6 - O mesmo documento certificará, para todos os efeitos previstos no presente diploma, a natureza da renda limitada das habitações a que se refere o n.º 1.\n\n> Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+  },
+  "1e70337a848030ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Investimento anual)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Investimento anual)\n\n1 - Do programa de investimentos do FFH constará o investimento máximo anual a despender com contratos de desenvolvimento, devidamente discriminado pelas seguintes rubricas:\n\na) Financiamento directo pelas entidades financiadoras às empresas promotoras dos contratos de desenvolvimento;\n\nb) Garantia de compra a conceder pelo FFH.\n\n2 - De entre as propostas de celebração de contratos de desenvolvimento deverá ser dada preferência às que se destinem à construção de habitações em zonas do País de maior procura ou previstas em planos de ordenamento do território.\n\n3 - O FFH, por sua iniciativa ou por proposta das câmaras municipais poderá convidar, através de avisos públicos, empresas à celebração de contratos de desenvolvimento em determinada região."
+  },
+  "659fa647eb72ca1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Terrenos para construção)",
+   "in_force_from": "1981-01-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+   ],
+   "markdown": "###### Artigo 5.º — (Terrenos para construção)\n\n1 - Os contratos de desenvolvimento compreendem a execução de programas de edificação em terrenos propriedade do proponente, ou em lotes de terrenos para tal fim expressamente cedidos pela Administração às empresas, nos termos das disposições combinadas do artigo 5.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, com a nova redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 313/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1980-471105), de 19 de Agosto, do artigo 29.º do mesmo diploma e n.os 6 e 7 do artigo 4.º do Decreto-Lei n.º 182/72, de 30 de Maio, sendo a adjudicação feita sob condição de celebração do contrato de desenvolvimento.\n\n2 - A cedência de terrenos pela Administração às empresas contratantes pode admitir que o preço do terreno acordado seja pago apenas aquando da venda das habitações.\n\n> Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+  },
+  "a13aa45a85a36d08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Obrigações das empresas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Obrigações das empresas)\n\n1 - Nos contratos de desenvolvimento a empresa proponente obrigar-se-á, designadamente:\n\na) A levar a efeito, de acordo com um plano aprovado cuja duração total não poderá ultrapassar o prazo de vigência do contrato, um número pré-fixado de habitações, sob o regime jurídico e com as características fixados nos termos do artigo 3.º;\n\nb) A comunicar ao FFH o início dos trabalhos;\n\nc) A respeitar nas vendas o esquema de disciplina de preços que for definido no contrato;\n\nd) A utilizar materiais normalizados, com preferência para os que forem produzidos no âmbito de contratos de desenvolvimento para a produção de componentes;\n\ne) A cumprir as disposições regulamentares relativas à comercialização das habitações, dando aos serviços municipais todas as informações que lhe forem solicitadas;\n\nf) A garantir directamente perante os adquirentes das habitações a qualidade da construção nos precisos termos da responsabilidade do empreiteiro perante o dono da obra, de acordo com o artigo 1225.º do Código Civil."
+  },
+  "cc011cdb2d013509": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Benefícios a conceder às empresas)",
+   "in_force_from": "1981-01-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+   ],
+   "markdown": "###### Artigo 7.º — (Benefícios a conceder às empresas)\n\n1 - Nos contratos de desenvolvimento poderão estabelecer-se a favor das empresas os seguintes benefícios, sem prejuízo das isenções estabelecidas nas alínea c), d), e) e f) do artigo 16.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756) para as habitações construídas ao abrigo do contrato e dos benefícios que lhe competirem, no âmbito dos regimes gerais ou especiais que lhe forem aplicáveis, por virtude das actividades que exerçam ou da situação particular em que se encontrem:\n\na) Assistência e acompanhamento pelo FFH na execução da obra;\n\nb) Concessão pelas entidades financiadoras contratantes de financiamento, garantido preferencialmente por hipoteca e a fixar por diploma regulamentar para a prossecução das finalidades que constituem o objecto do contrato, segundo esquemas mais favoráveis que os adoptados em relação aos casos análogos não abrangidos por contrato de desenvolvimento;\n\nc) Garantia de compra pelo FFH, segundo o plano de esquemas de preços e prazos negociados, das habitações construídas no âmbito do contrato, de acordo com critérios a fixar por despacho ministerial;\n\nd) Prestação pelo FFH a favor das empresas e quando o julgar necessário de fiança solidária nas operações de financiamento, relativamente à parte não coberta pela garantia hipotecária e nos casos em que essa fiança seja necessária;\n\ne) Redução, em percentagem a fixar por despacho do Ministro das Finanças e do Plano, até 90% da contribuição industrial e que incida sobre os lucros correspondentes à construção de habitações.\n\n2 - O tipo e a medida dos benefícios admitidos em cada caso, bem como as condições de que dependa a sua concessão, fixar-se-ão no contrato, com observância das regras constantes do presente decreto-lei.\n\n3 - A taxa de juro a praticar nos empréstimos a que se refere a alínea b) do n.º 1 será fixada por portaria conjunta dos Ministérios das Finanças e do Plano e da Habitação e Obras Públicas.\n\n> Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+  },
+  "347a394b018f1c56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Metas anuais e globais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Metas anuais e globais)\n\n1 - O efectivo direito aos benefícios derivados do contrato de desenvolvimento, em especial no que toca aos de natureza financeira e fiscal que nele se clausulem, dependerá da consecução pelas empresas dos objectivos e metas anuais e globais que para o efeito no mesmo contrato se estabeleçam.\n\n2 - Os objectivos e metas a que se alude no número anterior respeitarão não apenas ao volume de produção correspondente às metas parciais e globais a atingir pelas empresas e ao cumprimento das cláusulas relativas a preços, mas também à concretização dos projectos, programas e medidas a que aquelas se obriguem ao longo do período convencionado para as executar e dentro do prazo do contrato.\n\n3 - A não consecução dos objectivos e metas previstos no contrato só será de relevar, para os efeitos do disposto no presente decreto-lei, quando resulte de facto comprovadamente não imputável às empresas contratantes.\n\n4 - Os objectivos e metas anuais e globais poderão ser reajustados quando as circunstâncias reconhecidamente o imponham ou se verifique falta de cumprimento, por parte das empresas, do estabelecido no contrato e este não deva ser rescindido."
+  },
+  "2402df2a11ffc8fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — («Contrôle» da execução do contrato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — («Contrôle» da execução do contrato)\n\n1 - Cabe às empresas contratantes o ónus de provar, até às datas que figurem no contrato de desenvolvimento, a efectiva consecução dos objectivos e metas fixados nos termos do artigo anterior e bem assim, se for caso disso, que lhes não é imputável a sua eventual falta de cumprimento.\n\n2 - Caberá ao FFH fiscalizar a execução das obras fornecendo à entidade financiadora os resultados das medições efectuadas e, conjuntamente com esta, acompanhar o desenvolvimento da execução dos projectos, programas e medidas objecto do contrato e, se for caso disso, a evolução das actividades das empresas contratantes bem como exigir das mesmas todas as informações e elementos de prova que considere indispensáveis para averiguar do efectivo cumprimento do contrato, da aplicação dos créditos e da medida de quaisquer benefícios a atribuir-lhes."
+  },
+  "76deff149a31def7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Valor de venda das habitações)",
+   "in_force_from": "1981-01-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+   ],
+   "markdown": "###### Artigo 10.º — (Valor de venda das habitações)\n\n1 - O valor de venda final das habitações, em cada semestre de comercialização, resultará do valor de venda inicial que para cada contrato venha a ser acordado, dentro dos valores máximos de custos a fixar semestralmente por portaria de aplicação específica aos contratos de desenvolvimento para a habitação, acrescidos do valor da revisão de preços respectivos, dos encargos financeiros vencidos após aconclusão e ainda de outros custos resultantes de alterações, de acordo com a expressão seguinte:\n\nV(índice fn) = (V(índice i) + R(índice p) + R(índice pj) + C(índice a)) x (1 + (n x j)/200)\n\nem que\n\nV(índice fn) = Valor de venda final;\n\nV(índice i) = Valor de venda inicial compreendendo as seguintes parcelas:\n\nC(índice c) = Valor inicial do custo da construção;\n\nT(índice u) = Valor inicial do terreno urbanizado;\n\nE(índice i) = Valor correspondente a outros encargos indirectos;\n\nR(índice p) = Valor das revisões de preços;\n\nR(índice pj) = Valor das revisões de preços por eventual alteração da taxa de juro;\n\nC(índice a) = Custos resultantes de alterações impostas pelas entidades competentes ou pelo comportamento dos terrenos;\n\nn = Número de ordem do semestre, contado a partir da data da conclusão das habitações, em que se verifique a transmissão da habitação em causa;\n\nj = Valor percentual da taxa de juro do financiamento à data da conclusão das habitações.\n\n2 - O preço de aquisição das habitações pelo FFH, pelo exercício do benefício da garantia de compra, resultará do valor de venda final referido no número anterior, por aplicação da expressão seguinte:\n\nP = V(índice fn) x (1 - (j/400))\n\n3 - O valor de venda final será calculado no início do trimestre anterior ao da conclusão dos fogos prevista no plano de trabalhos.\n\n4 - Na falta de índices de preços oficiais, estes serão estimados a partir dos valores dos acréscimos verificados nos doze últimos índices publicados.\n\n5 - O valor de venda final será calculado para os três semestres seguintes à conclusão dos fogos, considerando-se para o efeito a taxa de juro do financiamento em vigor nessa data.\n\n6 - Poderá o Ministro da Habitação e Obras Públicas, por despacho, adaptar os valores máximos do custo de construção fixados na portaria publicada ao abrigo do artigo 4.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, até à publicação da portaria a que se refere o n.º 1 do presente artigo.\n\n> Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+  },
+  "e6743e21f5d46395": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Revisão de preços)",
+   "in_force_from": "1981-01-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+   ],
+   "markdown": "###### Artigo 11.º — (Revisão de preços)\n\n1 - À revisão de preços prevista no artigo anterior aplica-se o disposto no [Decreto-Lei n.º 273-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-b-1975-626600), com as adaptações seguintes.\n\n2 - Os custos de construção para edifícios e infra-estruturas serão revistos através das fórmulas acordadas no contrato a partir dos índices oficiais referentes a mão-de-obra e aos materiais que representam mais de 1% dos custos referidos.\n\n3 - Os índices de base reportam-se ao mês anterior ao da publicação da portaria de custos, com base na qual foram calculados os valores iniciais.\n\n4 - O valor de venda inicial será revisto a partir dos cálculos efectuados para as revisões do custo de construção e do custo das infra-estruturas urbanísticas, segundo a seguinte fórmula:\n\nC(índice t) = C(índice t1)(1 + e(índice v)) + C(índice t2) x t(índice v) + t(índice f) + e(índice f)/1 + t(índice v) + t(índice f) + e(índice v) + e(índice f)\n\nem que:\n\nC(índice t) = Coeficiente de actualização do valor de venda inicial;\n\nC(índice t1) = Coeficiente de actualização do valor inicial do custo da construção;\n\nC(índice t2) = Coeficiente de actualização do valor inicial do custo das infra-estruturas urbanísticas;\n\nt(índice v) = Percentagem do custo das infra-estruturas urbanísticas, realizadas no âmbito do CDH, relativamente ao custo da construção;\n\nt(índice f) = Percentagem do valor atribuído ao terreno relativamente ao custo da construção;\n\ne(índice v) = Percentagem de outros encargos indirectos revisíveis relativamente ao custo da construção;\n\ne(índice f) = Percentagem de outros encargos indirectos não revisíveis relativamente ao custo da construção.\n\n> Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+  },
+  "4e1b086ec58d2c2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Valor das rendas das habitações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Valor das rendas das habitações)\n\nAs rendas fixadas nos termos do artigo 4.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756) terão por base o valor de venda fixado no n.º 1 do artigo 10.º do presente diploma."
+  },
+  "8328714ece677c68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Garantia de compra)",
+   "in_force_from": "1981-01-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+   ],
+   "markdown": "###### Artigo 13.º — (Garantia de compra)\n\n1 - Sempre que no contrato se estabelecer a garantia de compra prevista na alínea c) do n.º 1 do artigo 7.º, esta efectivar-se-á, dentro da percentagem fixada no contrato, relativamente aos fogos não vendidos nos cento e oitenta dias após o termo do trimestre em que deu entrada no FFH o documento comprovativo do pedido de licença de habitação relativo aos últimos fogos.\n\nA compra efectivar-se-á desde que obtida a licença de habitação e constituída a propriedade horizontal.\n\n2 - A empresa construtora perderá o benefício de garantia de compra quando se verifiquem atrasos injustificados na conclusão dos fogos superiores a um quinto do prazo definido no plano de trabalhos contratado.\n\n3 - Nos contratos de desenvolvimento será inserida cláusula segundo a qual o FFH se reserva o direito de optar pela aquisição de habitações, para além da garantia de compra e independentemente do decurso do prazo a que se refere o n.º 1.\n\n4 - O preço dessa aquisição, calculado após conclusão das habitações, será o que resultar da expressão definida no n.º 1 do artigo 10.º\n\n> Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+  },
+  "02e2fc7cf2258124": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Financiamento pelo FFH)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Financiamento pelo FFH)\n\n1 - O FFH poderá, sempre que o julgue conveniente, participar no financiamento dos projectos, aquisição de terrenos, programas ou medidas abrangidos por contratos de desenvolvimento.\n\n2 - Nos casos a que se refere o número anterior, o FFH terá, relativamente às empresas contratantes, além dos direitos que especialmente resultem das condições estabelecidas para o seu financiamento, e no que com estas não for incompatível, todos os demais direitos que do presente decreto-lei derivem para entidades financiadoras."
+  },
+  "08286972ba908fae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Privilégios creditórios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Privilégios creditórios)\n\nOs créditos do FFH emergentes do financiamento a que se refere o artigo anterior, bem como os resultantes das fianças previstas na alínea d) do n.º 1 do artigo 7.º e no n.º 4 do artigo 16.º, gozam de todos os privilégios mobiliários e imobiliários do Estado."
+  },
+  "ccb785372f061676": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Benefícios a conceder aos adquirentes das habitações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Benefícios a conceder aos adquirentes das habitações)\n\n1 - Os adquirentes das casas de renda limitada construídas ao abrigo de contratos de desenvolvimento beneficiam das isenções previstas no artigo 16.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756).\n\n2 - Sem prejuízo do disposto no número anterior, para a aquisição das habitações construídas no âmbito dos contratos de desenvolvimento, as entidades financiadoras referidas no n.º 1 do artigo 2.º concederão a futuros compradores, em termos a definir por portaria conjunta dos Ministros das Finanças e do Plano e da Habitação e Obras Públicas, financiamentos especiais.\n\n3 - Logo que celebrados os contratos-promessa de compra e venda das habitações, nos termos do n.º 1 do artigo 18.º deste diploma, e definidos os valores de venda finais, deverão as entidades respectivas garantir aos promitentes compradores o financiamento à sua aquisição. Poderão, ainda, os mesmos organismos, a partir desse momento, conceder aos adquirentes financiamentos intercalares para as entradas iniciais, até um máximo de 20% do valor da venda da habitação.\n\nA taxa a aplicar a estes empréstimos será a taxa a ser suportada pelo mutuário no empréstimo definitivo, a contrair no momento da assinatura do contrato de compra e venda.\n\n4 - Fica o FFH autorizado a garantir, através de fiança solidária, os financiamentos intercalares referidos no número anterior.\n\n5 - Quando os adquirentes forem emigrantes, sem prejuízo das isenções previstas no n.º 1, poderão optar entre o regime de financiamento referido nos n.os 2 a 4 e o [Decreto-Lei n.º 540/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1976-431455), de 9 de Julho."
+  },
+  "a4e9f68cdb22ed37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Rescisão do contrato por iniciativa do FFH e das entidades financiadoras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Rescisão do contrato por iniciativa do FFH e das entidades financiadoras)\n\n1 - O FFH e a entidade financiadora poderão conjuntamente rescindir o contrato:\n\na) Quando a empresa contratante se recusar a prestar ou ao FFH ou à entidade financiadora quaisquer informações ou elementos que nos termos do n.º 2 do artigo 9.º lhe forem solicitados, ou conscientemente fornecer informações ou elementos inexactos sobre factos relevantes relativos ao objecto e execução do contrato;\n\nb) Quando ocorrer a falta de cumprimento do prazo contratual para início dos trabalhos ou dos objectivos e metas parciais fixados, se dela resultar a impossibilidade de se atingirem as finalidades essenciais do contrato;\n\nc) Quando se verifiquem quaisquer outros factos que igualmente inviabilizem a consecução das finalidades essenciais do contrato ou que, nos termos da lei geral, constituam fundamento para rescisão deste tipo de negócios jurídicos.\n\n2 - Se o contrato tiver sido celebrado por um conjunto de empresas, nos termos do n.º 5 do artigo 2.º, e uma ou mais der motivo à rescisão, esta operar-se-á, com todos os efeitos, em relação àquela ou àquelas em falta, podendo, no que toca às restantes, o FFH e a entidade financiadora:\n\na) Rescindir igualmente o contrato se, em seu juízo, o objecto e as finalidades do mesmo, ponderados os interesses da economia nacional, inviabilizarem ou tornarem injustificável, nessas condições, a sua subsistência, mesmo introduzindo-lhe quaisquer modificações;\n\nb) Manter em vigor o contrato, com as alterações e os ajustamentos que considerem adequados.\n\n3 - No caso da rescisão, as taxas de juro relativas às quantias em débito às entidades financiadoras ou ao FFH passarão a ser as correntes para operações desse tipo, sem prejuízo de entre a empresa contraente e a entidade financiadora ser renovado o contrato de empréstimo, em condições a acordar especialmente.\n\n4 - A rescisão implica igualmente a perda e consequente dever de restituir os montantes dos benefícios pecuniários e fiscais resultantes do contrato.\n\n5 - O disposto no número anterior aplica-se, com as necessárias adaptações, à rescisão dos contratos-programa previstos no n.º 3 do artigo 1.º"
+  },
+  "fbfe21240362ac56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Comercialização das habitações)",
+   "in_force_from": "1981-01-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+   ],
+   "markdown": "###### Artigo 18.º — (Comercialização das habitações)\n\n1 - Cabe à empresa promover a venda das fracções autónomas do edifício destinadas a habitação, sendo proibida a celebração de contratos de promessa de compra e venda antes de executadas as alvenarias e a cobertura do respectivo edifício.\n\n2 - Se ainda não estiver fixado o preço de venda nos termos das disposições combinadas dos artigos 10.º e 11.º deste diploma, deverá constar expressamente do contrato-promessa essa circunstância e o modo de fixação final do preço.\n\n3 - As habitações construídas no âmbito de contratos de desenvolvimento podem ser adquiridas por cidadãos nacionais constantes de listas organizadas pelos serviços competentes do município de situação do prédio, mediante avisos publicados nos locais de estilo e nos órgãos de comunicação social mais lidos no concelho, bem como por quaisquer entidades singulares ou colectivas, públicas ou privadas, quando nisso acordarem, previamente à organização das listas, as câmaras municipais respectivas e o FFH.\n\n4 - Se os serviços do município não fornecerem no prazo fixado em decreto regulamentar as listas referidas no n.º 3, a empresa poderá vender as habitações a cidadãos nacionais que a procurem directamente para o efeito.\n\n5 - Os notários não poderão lavrar escritura pública pela qual se transmite, a título oneroso, a propriedade de fracções autónomas de habitações construídas no âmbito de contratos de desenvolvimento sem a apresentação de documento comprovativo, passado pelos serviços competentes do município da situação do prédio, de que a alienação se efectuou com observância do disposto neste diploma e do qual constem os nomes do vendedor e do comprador.\n\n6 - A declaração referida no número anterior pode ser substituída por visto dos serviços competentes do município no contrato-promessa celebrado nos termos do n.º 1 do presente artigo.\n\n> Alterado pelo/a [Decreto-Lei n.º 14/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1981-389871), publicado em 1981-01-27."
+  },
+  "52bdadea44f05fcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Interpretação do diploma e esclarecimento de dúvidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Interpretação do diploma e esclarecimento de dúvidas)\n\nQuaisquer dúvidas na interpretação e aplicação do presente decreto-lei serão resolvidas e as lacunas preenchidas por despacho do Ministro da Habitação e Obras Públicas ou, quando se refiram à concessão de benefícios fiscais e creditícios, por despacho do Ministro das Finanças e do Plano."
+  },
+  "5518fe293c7418b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Aplicação e entrada em vigor)",
+   "in_force_from": "1981-01-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 519-C2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c2-1979-157044), publicado em 1979-12-29."
+   ],
+   "markdown": "###### Artigo 20.º — (Aplicação e entrada em vigor)\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação e aplica-se aos contratos de desenvolvimento para habitação:\n\na) Cuja proposta de negociação dê entrada no FFH posteriormente àquela data;\n\nb) Em relação aos quais não tenham sido proferidos, até à mesma data, os despachos a que se referem o n.º 3 do artigo 17.º do [Decreto-Lei n.º 663/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1974-466074), de 26 de Novembro, e o n.º 8 do artigo 50 do [Decreto Regulamentar n.º 17/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/17-1977-140332), de 4 de Março, salvo o regime de crédito previsto no n.º 2 do artigo 16.º, que é aplicável também aos adquirentes das habilitações de contratos de desenvolvimento do pretérito que ainda não tenham assinado o contrato de compra e venda.\n\n> Alterado pelo/a [Decreto-Lei n.º 519-C2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-c2-1979-157044), publicado em 1979-12-29."
+  },
+  "bb705dec5baf5d36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Norma revogatória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Norma revogatória)\n\nSem prejuízo do disposto no número anterior, o presente diploma substitui integralmente o regime jurídico de contratos de desenvolvimento no que se refere à habitação regulado pelo [Decreto-Lei n.º 412-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1977-621561), de 29 de Setembro, e disposições regulamentares.\n\nVisto e aprovado em Conselho de Ministros de 4 de Julho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - João Orlindo Almeida Pina.\n\nPromulgado em 30 de Julho de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

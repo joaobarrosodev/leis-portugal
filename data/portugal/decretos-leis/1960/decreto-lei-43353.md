@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1962-09-20'
+version_history:
+  file: decreto-lei-43353.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1962-09-20'
+    amending: pt:dre:159931:por
+    amending_title: Decreto-Lei n.º 44585
+    changes:
+    - Altera Artigo 24.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:34:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 44585. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43353.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,13 +146,19 @@ Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da C
 
 ### CAPÍTULO I — Da Direcção-Geral e suas funções
 
-Artigo 1.º É criada a Direcção-Geral de Saúde e Assistência do Ultramar, directamente subordinada ao Ministro, com a organização, competência e atribuições que constam do presente diploma e ainda aquelas que lhe venham a ser confiadas por despacho ministerial.
+###### Artigo 1.º
+
+É criada a Direcção-Geral de Saúde e Assistência do Ultramar, directamente subordinada ao Ministro, com a organização, competência e atribuições que constam do presente diploma e ainda aquelas que lhe venham a ser confiadas por despacho ministerial.
 
 § único. As organizações canónicas com fins de saúde e assistência ficam sujeitas, nesta parte, ao regime especial previsto no artigo 4.º da Concordata.
 
-Art. 2.º Além das funções de ordem geral atribuídas às Direcções-Gerais do Ministério do Ultramar pela sua lei orgânica, compete à Direcção-Geral de Saúde e Assistência estudar e propor as medidas profilácticas e terapêuticas indispensáveis à defesa e protecção da saúde, à melhoria das condições fisiológicas da população, à prevenção e combate das endemias e epidemias, à protecção dos grupos vulneráveis, à protecção e amparo dos indivíduos e dos seus agrupamentos naturais contra carências e outras disfunções sociais, flagelos ou calamidades públicas, cuja prevenção ou correcção caibam nos planos gerais da assistência médico-social.
+###### Artigo 2.º
 
-Art. 3.º Compete especialmente à Direcção-Geral de Saúde e Assistência do Ultramar:
+Além das funções de ordem geral atribuídas às Direcções-Gerais do Ministério do Ultramar pela sua lei orgânica, compete à Direcção-Geral de Saúde e Assistência estudar e propor as medidas profilácticas e terapêuticas indispensáveis à defesa e protecção da saúde, à melhoria das condições fisiológicas da população, à prevenção e combate das endemias e epidemias, à protecção dos grupos vulneráveis, à protecção e amparo dos indivíduos e dos seus agrupamentos naturais contra carências e outras disfunções sociais, flagelos ou calamidades públicas, cuja prevenção ou correcção caibam nos planos gerais da assistência médico-social.
+
+###### Artigo 3.º
+
+Compete especialmente à Direcção-Geral de Saúde e Assistência do Ultramar:
 
 1.º Cumprir e fazer cumprir as leis, tratados e convenções sanitárias.
 
@@ -175,21 +196,31 @@ Art. 3.º Compete especialmente à Direcção-Geral de Saúde e Assistência do 
 
 18.º Estudar e propor reformas legislativas em matéria de saúde, higiene e assistência no ultramar.
 
-Art. 4.º A Direcção-Geral de Saúde e Assistência do Ultramar terá duas repartições, com o pessoal constante do mapa anexo a este diploma, e a ela ficarão subordinados os inspectores superiores de saúde, o inspector superior de assistência, o Conselho de Saúde e Higiene e o Conselho de Assistência. São organismos dependentes da Direcção-Geral o Instituto de Medicina Tropical, a Escola Médico-Cirúrgica de Goa e o Hospital do Ultramar.
+###### Artigo 4.º
+
+A Direcção-Geral de Saúde e Assistência do Ultramar terá duas repartições, com o pessoal constante do mapa anexo a este diploma, e a ela ficarão subordinados os inspectores superiores de saúde, o inspector superior de assistência, o Conselho de Saúde e Higiene e o Conselho de Assistência. São organismos dependentes da Direcção-Geral o Instituto de Medicina Tropical, a Escola Médico-Cirúrgica de Goa e o Hospital do Ultramar.
 
 § único. A distribuição do pessoal pelos vários serviços da Direcção-Geral de Saúde e Assistência será feita em portaria.
 
 ### CAPÍTULO II — Do director-geral
 
-Art. 5.º O director-geral de Saúde e Assistência do Ultramar superintende em todos os serviços da Direcção-Geral, submete a despacho ministerial os assuntos que careçam de resolução superior e resolve aqueles para os quais tenha competência por disposição de lei ou delegação.
+###### Artigo 5.º
 
-Art. 6.º O director-geral de Saúde e Assistência é o presidente do Conselho de Saúde e Higiene, do Conselho de Assistência e da Junta Médica de Recurso.
+O director-geral de Saúde e Assistência do Ultramar superintende em todos os serviços da Direcção-Geral, submete a despacho ministerial os assuntos que careçam de resolução superior e resolve aqueles para os quais tenha competência por disposição de lei ou delegação.
 
-Art. 7.º O lugar de director-geral de Saúde e Assistência será livremente provido pelo Ministro do Ultramar em licenciado em Medicina por qualquer das Faculdades nacionais que, pelas suas especiais qualificações ou serviços prestados no ultramar, possua idoneidade comprovada para o exercer.
+###### Artigo 6.º
+
+O director-geral de Saúde e Assistência é o presidente do Conselho de Saúde e Higiene, do Conselho de Assistência e da Junta Médica de Recurso.
+
+###### Artigo 7.º
+
+O lugar de director-geral de Saúde e Assistência será livremente provido pelo Ministro do Ultramar em licenciado em Medicina por qualquer das Faculdades nacionais que, pelas suas especiais qualificações ou serviços prestados no ultramar, possua idoneidade comprovada para o exercer.
 
 ### CAPÍTULO III — Dos inspectores superiores de saúde e assistência
 
-Art. 8.º Os inspectores superiores de saúde têm as seguintes atribuições:
+###### Artigo 8.º
+
+Os inspectores superiores de saúde têm as seguintes atribuições:
 
 1.º Realizar periòdicamente, no ultramar e na metrópole, inspecções aos serviços subordinados ou dependentes da Direcção-Geral e a todos os outros organismos, estabelecimentos, missões ou grupos de trabalho públicos ou particulares relacionados com a medicina e a saúde e higiene públicas funcionando no ultramar.
 
@@ -203,9 +234,13 @@ Art. 8.º Os inspectores superiores de saúde têm as seguintes atribuições:
 
 6.º Exercer, nas condições que superiormente forem estabelecidas, a direcção da execução de projectos que exijam a cooperação de mais de um serviço ou organismo.
 
-Art. 9.º Os inspectores superiores de saúde serão livremente escolhidos pelo Ministro entre os médicos do quadro de saúde do ultramar que exerçam o cargo de directores dos serviços de saúde ou outros cargos de direcção ou entre médicos que pelos serviços prestados tenham revelado particular capacidade, competência e idoneidade.
+###### Artigo 9.º
 
-Art. 10.º O inspector superior de assistência tem as seguintes atribuições:
+Os inspectores superiores de saúde serão livremente escolhidos pelo Ministro entre os médicos do quadro de saúde do ultramar que exerçam o cargo de directores dos serviços de saúde ou outros cargos de direcção ou entre médicos que pelos serviços prestados tenham revelado particular capacidade, competência e idoneidade.
+
+###### Artigo 10.º
+
+O inspector superior de assistência tem as seguintes atribuições:
 
 1.º Exercer no campo da assistência e tutela sociais todas as funções correspondentes às atribuídas no artigo 8.º aos inspectores superiores de saúde.
 
@@ -223,13 +258,19 @@ Art. 10.º O inspector superior de assistência tem as seguintes atribuições:
 
 8.º Proceder à elaboração do cadastro das instituições e estabelecimentos sujeitos à inspecção, com a indicação das modalidades assistenciais que praticam, modo de funcionamento e valor da assistência que prestam.
 
-Art. 11.º O inspector superior de assistência será livremente escolhido pelo Ministro entre diplomados com curso superior que pelas suas especiais qualificações ou serviços prestados possuam para isso demonstrada competência e idoneidade.
+###### Artigo 11.º
+
+O inspector superior de assistência será livremente escolhido pelo Ministro entre diplomados com curso superior que pelas suas especiais qualificações ou serviços prestados possuam para isso demonstrada competência e idoneidade.
 
 ### CAPÍTULO IV — Dos Conselhos de Saúde e Higiene e de Assistência
 
-Art. 12.º Ao Conselho de Saúde e Higiene do Ultramar compete emitir parecer sobre todos os assuntos de ordem técnica ou normativa que o Ministro ou o director-geral lhe submetam.
+###### Artigo 12.º
 
-Art. 13.º O Conselho de Saúde e Higiene poderá em especial ser ouvido sobre:
+Ao Conselho de Saúde e Higiene do Ultramar compete emitir parecer sobre todos os assuntos de ordem técnica ou normativa que o Ministro ou o director-geral lhe submetam.
+
+###### Artigo 13.º
+
+O Conselho de Saúde e Higiene poderá em especial ser ouvido sobre:
 
 1.º Plano de acção, estabelecimento de programas ou orientações técnicas que visem solucionar matéria relativa à saúde e à higiene públicas.
 
@@ -241,7 +282,9 @@ Art. 13.º O Conselho de Saúde e Higiene poderá em especial ser ouvido sobre:
 
 5.º Reformas legislativas que envolvam modificação de princípios fundamentais de sanidade.
 
-Art. 14.º O Conselho de Saúde e Higiene terá a seguinte composição:
+###### Artigo 14.º
+
+O Conselho de Saúde e Higiene terá a seguinte composição:
 
 a) O director-geral de Saúde e Assistência, que presidirá.
 
@@ -259,9 +302,13 @@ g) Os professores, do Instituto de Medicina Tropical, das disciplinas a que mais
 
 h) Um representante do Ministério da Saúde e Assistência, designado pelo respectivo Ministro.
 
-Art. 15.º Ao Conselho de Assistência compete emitir parecer sobre todos os assuntos de ordem técnica ou normativa que o Ministro ou o director-geral lhe submetam.
+###### Artigo 15.º
 
-Art. 16.º O Conselho de Assistência poderá em especial ser ouvido sobre:
+Ao Conselho de Assistência compete emitir parecer sobre todos os assuntos de ordem técnica ou normativa que o Ministro ou o director-geral lhe submetam.
+
+###### Artigo 16.º
+
+O Conselho de Assistência poderá em especial ser ouvido sobre:
 
 1.º Planos de acção ou estabelecimento de programas para fins de assistência social.
 
@@ -275,7 +322,9 @@ Art. 16.º O Conselho de Assistência poderá em especial ser ouvido sobre:
 
 6.º Reformas legislativas que envolvam modificações de princípios fundamentais de assistência ou tutela.
 
-Art. 17.º O Conselho de Assistência tem a seguinte composição:
+###### Artigo 17.º
+
+O Conselho de Assistência tem a seguinte composição:
 
 a) O director-geral de Saúde e Assistência, que presidirá.
 
@@ -293,11 +342,15 @@ g) O representante da Direcção-Geral de Administração Política e Civil do M
 
 h) Até quatro indivíduos escolhidos pelo Ministro que tenham revelado especial interesse pela assistência social no ultramar.
 
-Art. 18.º O Conselho de Higiene e Saúde e o Conselho de Assistência reunirão por convocação do respectivo presidente, que de entre os vogais designará o relator para cada processo, assinando os restantes o respectivo parecer.
+###### Artigo 18.º
+
+O Conselho de Higiene e Saúde e o Conselho de Assistência reunirão por convocação do respectivo presidente, que de entre os vogais designará o relator para cada processo, assinando os restantes o respectivo parecer.
 
 ### CAPÍTULO V — Do Instituto de Medicina Tropical, da Escola Médico-Cirúrgica de Goa e do Hospital do Ultramar
 
-Art. 19.º O Instituto de Medicina Tropical, a Escola Médico-Cirúrgica de Goa e o Hospital do Ultramar submeterão a despacho, por intermédio do director-geral, os assuntos que careçam de resolução ministerial.
+###### Artigo 19.º
+
+O Instituto de Medicina Tropical, a Escola Médico-Cirúrgica de Goa e o Hospital do Ultramar submeterão a despacho, por intermédio do director-geral, os assuntos que careçam de resolução ministerial.
 
 § 1.º Os assuntos exclusivamente didácticos do Instituto de Medicina Tropical e da Escola Médico-Cirúrgica de Goa continuam a ser resolvidos através da Direcção-Geral do Ensino.
 
@@ -305,9 +358,13 @@ Art. 19.º O Instituto de Medicina Tropical, a Escola Médico-Cirúrgica de Goa 
 
 ### CAPÍTULO VI — Das repartições
 
-Art. 20.º Na Direcção-Geral de Saúde e Assistência haverá duas repartições, às quais compete assegurar o estudo e expediente de todos os assuntos da competência da Direcção-Geral, dos inspectores superiores, do Conselho de Saúde e Higiene, do Conselho de Assistência e da Junta de Recurso.
+###### Artigo 20.º
 
-Art. 21.º A Repartição de Saúde e Higiene ocupa-se dos problemas de doutrina e técnica sanitárias, designadamente:
+Na Direcção-Geral de Saúde e Assistência haverá duas repartições, às quais compete assegurar o estudo e expediente de todos os assuntos da competência da Direcção-Geral, dos inspectores superiores, do Conselho de Saúde e Higiene, do Conselho de Assistência e da Junta de Recurso.
+
+###### Artigo 21.º
+
+A Repartição de Saúde e Higiene ocupa-se dos problemas de doutrina e técnica sanitárias, designadamente:
 
 1.º Bioestatística.
 
@@ -333,9 +390,13 @@ Art. 21.º A Repartição de Saúde e Higiene ocupa-se dos problemas de doutrina
 
 12.º Luta contra os grandes flagelos tropicais.
 
-Art. 22.º Na Repartição de Saúde e Higiene haverá um técnico farmacêutico, ao qual compete estudar e informar sobre todos os assuntos que digam respeito aos serviços farmacêuticos do ultramar.
+###### Artigo 22.º
 
-Art. 23.º A Repartição de Assistência ocupa-se dos problemas de doutrina e técnica assistenciais, designadamente:
+Na Repartição de Saúde e Higiene haverá um técnico farmacêutico, ao qual compete estudar e informar sobre todos os assuntos que digam respeito aos serviços farmacêuticos do ultramar.
+
+###### Artigo 23.º
+
+A Repartição de Assistência ocupa-se dos problemas de doutrina e técnica assistenciais, designadamente:
 
 1.º Assistência à família, à maternidade, à infância, aos menores, aos velhos e inválidos.
 
@@ -355,25 +416,45 @@ Art. 23.º A Repartição de Assistência ocupa-se dos problemas de doutrina e t
 
 9.º Representação legal dos assistidos, nos termos que a lei fixar.
 
-Art. 24.º O chefe da Repartição de Saúde e Higiene será escolhido entre médicos de 1.ª classe do quadro comum do ultramar que por serviços prestados possuam demonstrada competência e servirá em comissão ordinária.
+###### Artigo 24.º
 
-Art. 25.º O chefe da Repartição de Assistência será escolhido entre diplomados com curso superior que, pelas suas especiais qualificações ou serviços prestados, possuam para isso demonstrada competência e idoneidade.
+O chefe da Repartição de Saúde e Higiene será nomeado em comissão ordinária de serviço e escolhido entre os médicos de 1.ª classe do quadro comum do ultramar ou do quadro complementar de cirurgiões e especialistas que possuam demonstrada competência.
 
-Art. 26.º O técnico farmacêutico da Repartição de Saúde e Higiene será livremente nomeado de entre diplomados em Farmácia.
+> Alterado pelo/a [Decreto-Lei n.º 44585](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44585-1962-159931), publicado em 1962-09-20.
 
-Art. 27.º O actual inspector superior dos serviços de saúde transita, sem mais formalidades, para um dos lugares de inspector superior de saúde previstos neste diploma. O actual secretário da extinta Comissão de Higiene e Saúde será colocado na primeira vaga que ocorrer na categoria de médico-chefe do quadro comum do ultramar. Enquanto a vaga não existir, desempenhará interinamente as funções de chefe da repartição da Direcção-Geral de Saúde e Assistência que for designada por despacho do Ministro do Ultramar, sem mais formalidades.
+###### Artigo 25.º
 
-Art. 28.º Os lugares de superintendente de enfermagem e de adjunto de assistência social, previstos no mapa anexo ao presente diploma, serão providos por livre escolha entre diplomados respectivamente com o curso de enfermagem e com o curso de assistente social.
+O chefe da Repartição de Assistência será escolhido entre diplomados com curso superior que, pelas suas especiais qualificações ou serviços prestados, possuam para isso demonstrada competência e idoneidade.
 
-Art. 29.º O restante pessoal da Direcção-Geral de Saúde e Assistência, cujo provimento não está previsto neste diploma, será nomeado nos termos previstos para o pessoal de igual categoria no [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, sendo porém de livre escolha do Ministro a primeira nomeação.
+###### Artigo 26.º
 
-Art. 30.º São aumentados no quadro dos serviços gerais do Ministério do Ultramar dois contínuos de 2.ª classe, que acrescem aos previstos no mapa n.º 17 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817).
+O técnico farmacêutico da Repartição de Saúde e Higiene será livremente nomeado de entre diplomados em Farmácia.
+
+###### Artigo 27.º
+
+O actual inspector superior dos serviços de saúde transita, sem mais formalidades, para um dos lugares de inspector superior de saúde previstos neste diploma. O actual secretário da extinta Comissão de Higiene e Saúde será colocado na primeira vaga que ocorrer na categoria de médico-chefe do quadro comum do ultramar. Enquanto a vaga não existir, desempenhará interinamente as funções de chefe da repartição da Direcção-Geral de Saúde e Assistência que for designada por despacho do Ministro do Ultramar, sem mais formalidades.
+
+###### Artigo 28.º
+
+Os lugares de superintendente de enfermagem e de adjunto de assistência social, previstos no mapa anexo ao presente diploma, serão providos por livre escolha entre diplomados respectivamente com o curso de enfermagem e com o curso de assistente social.
+
+###### Artigo 29.º
+
+O restante pessoal da Direcção-Geral de Saúde e Assistência, cujo provimento não está previsto neste diploma, será nomeado nos termos previstos para o pessoal de igual categoria no [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, sendo porém de livre escolha do Ministro a primeira nomeação.
+
+###### Artigo 30.º
+
+São aumentados no quadro dos serviços gerais do Ministério do Ultramar dois contínuos de 2.ª classe, que acrescem aos previstos no mapa n.º 17 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817).
 
 ### CAPÍTULO VII — Disposições gerais
 
-Art. 31.º Os professores do Instituto de Medicina Tropical e o pessoal técnico do Hospital do Ultramar desempenham funções de consultores da Direcção-Geral, cumprindo-lhes dar parecer, nos termos que lhes forem determinados, sobre matérias da sua especialidade. Podem ainda ser encarregados de missões de informação ou inspecção em relação aos serviços dependentes da Direcção-Geral.
+###### Artigo 31.º
 
-Art. 32.º O n.º 8.º do artigo 4.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, passa a ter a seguinte redacção: «Os serviços de saúde e assistência (Direcção-Geral de Saúde e Assistência)». São revogados os artigos 46.º a 48.º e o n.º 6.º do artigo 142.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957. O mapa n.º 10 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, é substituído pelo mapa que fica anexo ao presente diploma.
+Os professores do Instituto de Medicina Tropical e o pessoal técnico do Hospital do Ultramar desempenham funções de consultores da Direcção-Geral, cumprindo-lhes dar parecer, nos termos que lhes forem determinados, sobre matérias da sua especialidade. Podem ainda ser encarregados de missões de informação ou inspecção em relação aos serviços dependentes da Direcção-Geral.
+
+###### Artigo 32.º
+
+O n.º 8.º do artigo 4.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, passa a ter a seguinte redacção: «Os serviços de saúde e assistência (Direcção-Geral de Saúde e Assistência)». São revogados os artigos 46.º a 48.º e o n.º 6.º do artigo 142.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957. O mapa n.º 10 anexo ao [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, é substituído pelo mapa que fica anexo ao presente diploma.
 
 Publique-se e cumpra-se como nele se contém.
 

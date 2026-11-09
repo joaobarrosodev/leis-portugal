@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1968-01-15'
+version_history:
+  file: decreto-lei-47576.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-03-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1968-01-15'
+    amending: pt:dre:233275:por
+    amending_title: Decreto-Lei n.º 48203
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:00:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48203. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-47576.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,15 +134,27 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O cargo de escriturário de 1.ª classe ou equivalente passa a constituir categoria de ingresso na carreira do pessoal administrativo dos quadros de todos os serviços do Ministério da Saúde e Assistência, sendo o seu provimento feito por concurso de provas públicas, sem prejuízo do disposto no artigo 3.º do Decreto-Lei 45766, de 18 de Junho de 1964.
+###### Artigo 1.º
 
-Art. 2.º Os lugares da categoria de escriturário de 2.ª classe ou equivalente serão providos precedendo concurso de provas públicas, considerando-se, quanto a habilitações, o estabelecido pelo artigo 21.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
+O cargo de escriturário de 1.ª classe ou equivalente passa a constituir categoria de ingresso na carreira do pessoal administrativo dos quadros de todos os serviços do Ministério da Saúde e Assistência, sendo o seu provimento feito por concurso de provas públicas, sem prejuízo do disposto no artigo 3.º do Decreto-Lei 45766, de 18 de Junho de 1964.
+
+§ único. O disposto neste artigo não se aplica aos concursos cujos editais hajam sido publicados em data anterior à entrada em vigor deste diploma.
+
+> Alterado pelo/a [Decreto-Lei n.º 48203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48203-1968-233275), publicado em 1968-01-15.
+
+###### Artigo 2.º
+
+Os lugares da categoria de escriturário de 2.ª classe ou equivalente serão providos precedendo concurso de provas públicas, considerando-se, quanto a habilitações, o estabelecido pelo artigo 21.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
 § único. O Ministro da Saúde e Assistência poderá, no entanto, dispensar o concurso, quando circunstâncias especiais o justifiquem.
 
-Art. 3.º O Ministro da Saúde e Assistência pode mandar aplicar o disposto no § único do artigo 166.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, com a extensão que lhe foi dada pelo artigo 5.º do [Decreto-Lei n.º 46292](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46292-1965-237446), de 24 de Abril de 1965, a funcionários providos definitivamente em cargos não pertencentes aos quadros do Ministério da Saúde e Assistência e que estejam a servir neste Ministério há mais de um ano.
+###### Artigo 3.º
 
-Art. 4.º Os actuais adjuntos de delegados de saúde, quando hajam sido nomeados nos termos do artigo 65.º, § único, do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), são considerados, para todos os efeitos, delegados de saúde de 2.ª classe desde o início das referidas funções.
+O Ministro da Saúde e Assistência pode mandar aplicar o disposto no § único do artigo 166.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, com a extensão que lhe foi dada pelo artigo 5.º do [Decreto-Lei n.º 46292](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46292-1965-237446), de 24 de Abril de 1965, a funcionários providos definitivamente em cargos não pertencentes aos quadros do Ministério da Saúde e Assistência e que estejam a servir neste Ministério há mais de um ano.
+
+###### Artigo 4.º
+
+Os actuais adjuntos de delegados de saúde, quando hajam sido nomeados nos termos do artigo 65.º, § único, do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), são considerados, para todos os efeitos, delegados de saúde de 2.ª classe desde o início das referidas funções.
 
 Publique-se e cumpra-se como nele se contém.
 

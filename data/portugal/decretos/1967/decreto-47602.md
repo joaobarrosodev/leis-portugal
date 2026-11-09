@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1968-12-20'
+version_history:
+  file: decreto-47602.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-03-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1968-12-20'
+    amending: pt:dre:262327:por
+    amending_title: Decreto n.º 48778
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:55:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 48778. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1967/decreto-47602.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,11 +126,15 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º - 1. É criado em Angola, sob a dependência do Governo-Geral, o Fundo de Diversificação e Desenvolvimento, que tem por finalidade limitar a produção cafeeira da província a um nível consentâneo com as possibilidades de exportação e as necessidades do consumo dos mercados nacionais, resolver os problemas derivados da acumulação de excedentes e possibilitar a expansão e criação de outras actividades económicas de maior interesse nacional.
+###### Artigo 1.º
+
+1. É criado em Angola, sob a dependência do Governo-Geral, o Fundo de Diversificação e Desenvolvimento, que tem por finalidade limitar a produção cafeeira da província a um nível consentâneo com as possibilidades de exportação e as necessidades do consumo dos mercados nacionais, resolver os problemas derivados da acumulação de excedentes e possibilitar a expansão e criação de outras actividades económicas de maior interesse nacional.
 
 2. O Fundo de Diversificação e Desenvolvimento é dotado de personalidade jurídica e goza de autonomia administrativa e financeira.
 
-Art. 2.º Na prossecução das finalidades definidas no artigo anterior, são atribuições do Fundo de Diversificação e Desenvolvimento:
+###### Artigo 2.º
+
+Na prossecução das finalidades definidas no artigo anterior, são atribuições do Fundo de Diversificação e Desenvolvimento:
 
 1.º Financiar:
 
@@ -133,7 +152,9 @@ f) Planos de fomento a aplicar nas zonas produtoras de café que visem o desenvo
 
 2.º Contribuir para o Fundo de Diversificação e Desenvolvimento que venha a ser constituído pela Organização Internacional do Café.
 
-Art. 3.º - 1. Os financiamentos a efectuar pelo Fundo poderão revestir a forma de:
+###### Artigo 3.º
+
+1. Os financiamentos a efectuar pelo Fundo poderão revestir a forma de:
 
 a) Subsídios, quando se destinarem a suportar encargos de serviços prestados pelos órgãos da Administração ou por estes orientados;
 
@@ -143,7 +164,9 @@ b) Empréstimos, quando se destinarem a fomentar actividades económicas de empr
 
 3. Os empréstimos concedidos pelo Fundo serão reembolsáveis no período máximo de vinte anos, nas condições estabelecidas no respectivo contrato.
 
-Art. 4.º Constituem receitas do Fundo de Diversificação e Desenvolvimento:
+###### Artigo 4.º
+
+Constituem receitas do Fundo de Diversificação e Desenvolvimento:
 
 a) A comparticipação indirecta da produção cafeeira pela cobrança aos exportadores de uma contribuição sobre o café a exportar para mercados estrangeiros pela província de Angola;
 
@@ -153,7 +176,9 @@ c) Os empréstimos a contrair em organismos de crédito nacionais ou internacion
 
 d) Os rendimentos que possam resultar da actuação do Fundo, designadamente os juros e outros proventos dos empréstimos concedidos ao abrigo do disposto na alínea b) do artigo 3.º deste decreto.
 
-Art. 5.º - 1. A administração do Fundo de Diversificação e Desenvolvimento será exercida por um conselho administrativo presidido pelo secretário provincial de fomento rural e constituído pelos seguintes membros:
+###### Artigo 5.º
+
+1. A administração do Fundo de Diversificação e Desenvolvimento será exercida por um conselho administrativo presidido pelo secretário provincial de fomento rural e constituído pelos seguintes membros:
 
 a) O director do Instituto do Café de Angola, como vice-presidente;
 
@@ -163,13 +188,19 @@ c) O director provincial dos serviços de economia;
 
 d) Dois vogais a nomear anualmente por despacho do governador-geral entre as entidades mais directamente interessadas no fomento económico da província.
 
-2. Para os efeitos previstos na alínea a) do artigo 3.º, poderá o conselho administrativo delegar parcialmente a gestão do Fundo de Diversificação e Desenvolvimento em organismos de crédito apropriados.
+2. Para os efeitos previstos na alínea b) do n.º 1 do artigo 3.º, poderá o conselho administrativo delegar parcialmente a gestão do Fundo de Diversificação e Desenvolvimento em organismos de crédito apropriados.
 
-Art. 6.º - 1. Os membros do conselho administrativo, com excepção do vice-presidente, perceberão senhas de presença; ao vice-presidente será atribuída uma gratificação mensal. O montante das senhas de presença e da gratificação será fixado em portaria do Governo-Geral.
+> Alterado pelo/a [Decreto n.º 48778](https://diariodarepublica.pt/dr/detalhe/decreto/48778-1968-262327), publicado em 1968-12-20.
+
+###### Artigo 6.º
+
+1. Os membros do conselho administrativo, com excepção do vice-presidente, perceberão senhas de presença; ao vice-presidente será atribuída uma gratificação mensal. O montante das senhas de presença e da gratificação será fixado em portaria do Governo-Geral.
 
 2. As remunerações referidas no número antecedente serão acumuláveis com quaisquer outras que os vogais perceberem pelo exercício de outras funções públicas, mas estão sujeitas aos limites fixados pelo artigo 155.º do Estatuto do Funcionalismo Ultramarino.
 
-Art. 7.º - 1. Ao conselho administrativo compete tomar as decisões e ordenar as providências tendentes ao bom desempenho das atribuições cometidas ao Fundo de Diversificação e Desenvolvimento, nos termos do artigo 2.º, bem como as demais necessárias ao funcionamento deste, nomeadamente:
+###### Artigo 7.º
+
+1. Ao conselho administrativo compete tomar as decisões e ordenar as providências tendentes ao bom desempenho das atribuições cometidas ao Fundo de Diversificação e Desenvolvimento, nos termos do artigo 2.º, bem como as demais necessárias ao funcionamento deste, nomeadamente:
 
 a) Celebrar os contratos e praticar quaisquer outros actos jurídicos tendentes à realização dos respectivos fins;
 
@@ -183,13 +214,17 @@ e) Elaborar o relatório anual das actividades do Fundo, submetendo-o à aprecia
 
 2. O relatório anual, depois de apreciado pelo governador-geral da província, será enviado ao Ministro do Ultramar.
 
-Art. 8.º - 1. O conselho administrativo poderá rescindir os subsídios e empréstimos que sejam aplicados a fins diferentes daqueles para que foram concedidos ou transferidos para entidades diversas daquelas a quem forem atribuídos.
+###### Artigo 8.º
+
+1. O conselho administrativo poderá rescindir os subsídios e empréstimos que sejam aplicados a fins diferentes daqueles para que foram concedidos ou transferidos para entidades diversas daquelas a quem forem atribuídos.
 
 2. Tal rescisão, uma vez aprovada pelo conselho administrativo, produz os seus efeitos por simples comunicação do Fundo à entidade a que o subsídio ou empréstimo fora concedido.
 
 3. Os responsáveis pelo acto que der causa à rescisão garantem, pessoal e solidàriamente, a restituição do subsídio ou empréstimo, sem prejuízo da responsabilidade por perdas e danos em que tenham incorrido.
 
-Art. 9.º - 1. A preparação e execução das deliberações do conselho administrativo serão asseguradas pelo Instituto do Café de Angola.
+###### Artigo 9.º
+
+1. A preparação e execução das deliberações do conselho administrativo serão asseguradas pelo Instituto do Café de Angola.
 
 2. O conselho administrativo pode solicitar, sempre que o entenda conveniente, a colaboração da Comissão Técnica de Planeamento e Integração Económica e de outros serviços provinciais, dentro das respectivas competências.
 
@@ -197,23 +232,31 @@ Art. 9.º - 1. A preparação e execução das deliberações do conselho admini
 
 4. Ao pessoal do Instituto do Café de Angola que assegurar os serviços referidos no n.º 1 deste artigo será atribuída a gratificação mensal que por despacho do governador-geral vier a ser fixada.
 
-Art. 10.º - 1. Para que o conselho administrativo possa deliberar é necessária a presença da maioria dos seus membros.
+###### Artigo 10.º
+
+1. Para que o conselho administrativo possa deliberar é necessária a presença da maioria dos seus membros.
 
 2. As deliberações serão tomadas por maioria de votos dos presentes, te do o presidente voto de qualidade.
 
 3. Na falta ou impedimento do presidente, serão as respectivas funções exercidas pelo vice-presidente.
 
-Art. 11.º - 1. As receitas do Fundo de Diversificação e Desenvolvimento serão depositadas no Banco de Angola em conta especial, e o seu levantamento só poderá ser efectuado mediante a assi atura do presidente do conselho administrativo, ou de quem as suas vezes fizer, e de um membro do mesmo co selho.
+###### Artigo 11.º
+
+1. As receitas do Fundo de Diversificação e Desenvolvimento serão depositadas no Banco de Angola em conta especial, e o seu levantamento só poderá ser efectuado mediante a assi atura do presidente do conselho administrativo, ou de quem as suas vezes fizer, e de um membro do mesmo co selho.
 
 2. O conselho administrativo poderá manter em cofre um fundo de maneio para satisfação de despesas correntes, de quantitativo a fixar por despacho do governador-geral.
 
 3. Todos os documentos relativos a levantamento de fundos, recebimentos e pagamentos serão assinados ou visados pelo presidente do conselho administrativo, ou por quem suas vezes fizer, e por um membro do mesmo conselho.
 
-Art. 12.º - 1. Sob proposta do governador-geral, o Ministro do Ultramar fixará anualmente em portaria os quantitativos com que a província e os sectores privados interessados contribuirão, nos termos do artigo 4.º do presente decreto, para o Fundo de Diversificação e Desenvolvimento.
+###### Artigo 12.º
+
+1. Sob proposta do governador-geral, o Ministro do Ultramar fixará anualmente em portaria os quantitativos com que a província e os sectores privados interessados contribuirão, nos termos do artigo 4.º do presente decreto, para o Fundo de Diversificação e Desenvolvimento.
 
 2. A regulamentação deste decreto será objecto de portarias do governador-geral a publicar oportunamente.
 
-Art. 13.º Este decreto entrará em vigor no dia 31 de Março de 1967.
+###### Artigo 13.º
+
+Este decreto entrará em vigor no dia 31 de Março de 1967.
 
 Publique-se e cumpra-se como nele se contém.
 

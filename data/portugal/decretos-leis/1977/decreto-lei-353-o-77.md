@@ -40,10 +40,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-05-27'
+version_history:
+  file: decreto-lei-353-o-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-08-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-05-27'
+    amending: pt:dre:451790:por
+    amending_title: Decreto-Lei n.º 227/83
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:05:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 227/83. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-353-o-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,21 +145,41 @@ Tendo em vista fomentar a mobilização, pelo sistema bancário nacional, de dis
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º Os bancos comerciais, a Caixa Geral de Depósitos e o Banco de Fomento Nacional ficam autorizados a abrir contas de depósito com pré-aviso ou a prazo em moedas estrangeiras em nome de pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro.
+###### Artigo 1.º
 
-Art. 2.º - 1. Os depósitos com pré-aviso a que alude o artigo anterior serão apenas exigíveis depois de prevenida a instituição depositária, por escrito, com a antecipação fixada na cláusula do pré-aviso, antecipação que não poderá ser inferior a trinta dias nem exceder noventa dias.
+(Revogado.)
 
-2. Quanto aos depósitos a prazo, apenas serão exigíveis findo o prazo pelo qual foram efectuados, prazo que não poderá ser inferior a cento e oitenta dias, ou exceder, para cada instituição, os prazos máximos dos depósitos que esteja autorizada a receber em moeda nacional.
+> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27.
 
-3. Mediante autorização prévia do Banco de Portugal, os depósitos a prazo poderão ser liquidados, no todo ou em parte, e a pedido dos depositantes, antes da data do respectivo vencimento.
+###### Artigo 2.º
 
-Art. 3.º Os depósitos a prazo consideram-se prorrogados por período igual ao do prazo por que foram constituídos, no caso de falta de declaração em contrário, feita pelo depositante, até à data do vencimento do depósito.
+(Revogado.)
 
-Art. 4.º Por aviso do Banco de Portugal, serão determinadas as moedas estrangeiras em que se podem constituir os depósitos referidos no artigo 1.º e fixadas as taxas de juro dos correspondentes depósitos com pré-aviso ou a prazo.
+> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27.
 
-Art. 5.º O Banco de Portugal transmitirá às instituições de crédito indicadas no artigo 1.º as instruções que julgue indispensáveis para a verificação do cumprimento do disposto no presente diploma, nomeadamente determinando o procedimento contabilístico a adoptar, para que, nas situações dessas instituições de crédito, se identifiquem claramente os montantes dos saldos das contas de depósito constituídas.
+###### Artigo 3.º
 
-Art. 6.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27.
+
+###### Artigo 4.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27.
+
+###### Artigo 5.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27.
+
+###### Artigo 6.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.
 

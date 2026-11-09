@@ -1,0 +1,257 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:279248:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-10-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0de62ef43084c0c8"
+   ]
+  },
+  {
+   "date": "1978-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:295143:por",
+     "title": "Lei n.º 25/78",
+     "published": "1978-06-07",
+     "dre_path": "/dr/detalhe/lei/25-1978-295143"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 12.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 14.º",
+    "Adita Artigo 17.º-A",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "35804317722f83b6",
+    "849d342b2fa7dbc9",
+    "fd6929118c6c8733",
+    "847dec24df3c372f",
+    "78325b6a06b21b85",
+    "4bd8ef3db755c9e1",
+    "4ca6c020b60006f0",
+    "1dac5e16ab242ae0",
+    "139f007683a00ced",
+    "fcb2a7c6c7879288",
+    "a8c8b4ec17e2eb1e",
+    "486c2a28331aa467",
+    "b099e0c015ac0bde",
+    "43472884c0d5b854",
+    "1ab89e2d3a6db868",
+    "5bb2fdc0fa7361c0",
+    "abdf4651438e8f84",
+    "6058c6a1c7b0b208",
+    "17d5fd34c390b136",
+    "e76151127382e054"
+   ]
+  }
+ ],
+ "fragments": {
+  "0de62ef43084c0c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Outubro\n\n1 - Muitas das famílias que habitam em casas de renda económica construídas pela Previdência Social têm, ao longo dos anos, vindo a reivindicar a transformação das referidas casas em prédios em regime de propriedade horizontal com vista à sua aquisição, invocando a faculdade que lhes é conferida pela base VIII da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958.\n\nNo entanto, como todos os arrendatários de cada prédio teriam de reunir as condições previstas na legislação das casas económicas, esta restrição veio na prática traduzir-se em impossibilidade, na maioria dos casos, de se operar a transformação pretendida.\n\nAssim, o presente diploma, procurando dar resposta satisfatória a este problema, afastou in limine o regime das casas económicas.\n\n2 - Por outro lado, o presente diploma vem também ao encontro do desejo manifestado por moradores de casas construídas por iniciativa de pessoas colectivas de utilidade pública administrativa, no sentido de que a relação habitacional de que são sujeitos adquira um carácter de estabilidade, considerando que o regime jurídico actual, em muitos casos, se encontra desfasado da realidade socio-económica.\n\n3 - O primeiro aspecto que se salienta é o que se refere à situação dos compradores das habitações perante o solo: este mantém-se na propriedade das instituições vendedoras, adquirindo aqueles o direito de superfície.\n\n4 - As habitações ficam sujeitas temporariamente a um ónus de inalienabilidade e impenhorabilidade, bem como a um ónus de renda limitada para efeitos de arrendamento ou venda subsequentes.\n\n5 - A avaliação das habitações para determinação do preço de venda é feita com base nas normas em vigor sobre os limites dos custos de construção das casas de renda limitada, atendendo-se ainda a certos factores de correcção.\n\n6 - De uma maneira geral, as habitações beneficiam das isenções fiscais já estabelecidas para as casas de renda limitada.\n\n7 - A venda das habitações será efectuada aos respectivos arrendatários, admitindo-se a possibilidade de, em certas condições, se fazerem substituir por descendentes que com eles coabitem.\n\n8 - Sobressai também a possibilidade de o respectivo pagamento ser efectuado em prestações mensais mediante a constituição de hipoteca, sendo obrigatório um seguro destinado a cobrir os riscos de morte e invalidez quando a idade do adquirente somada ao período de amortização não ultrapasse os 70 anos.\n\n9 - Sempre que, para efeitos de venda, seja necessária a prévia constituição da propriedade horizontal, esta seguirá um processo extremamente simples e rápido.\n\nNestas condições:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - As casas em regime de renda económica propriedade da Caixa Nacional de Pensões podem ser alienadas nos termos do presente diploma, precedendo os seguintes requisitos:\n\na) Ser a venda autorizada pelo Ministro dos Assuntos Sociais;\n\nb) Proceder-se à constituição da propriedade horizontal, caso os edifícios não sejam moradias, mediante declaração da Caixa Nacional de Pensões autenticada com o selo branco da instituição.\n\n2 - O registo de constituição da propriedade horizontal efectuar-se-á oficiosamente em face da declaração referida no número anterior, dispensando-se a apresentação do documento exigido no n.º 3 do artigo 110.º do Código do Registo Predial.\n\nArt. 2.º - 1 - As moradias e fracções autónomas destinadas a habitação só podem ser vendidas aos respectivos arrendatários.\n\n2 - As casas cujos arrendatários tenham idade superior a 55 anos podem ser adquiridas, a requerimento destes, por seus parentes ou afins na linha recta descendente, que com eles coabitem há mais de um ano, ficando aqueles e os respectivos cônjuges com o usufruto.\n\n3 - As fracções autónomas destinadas a fins diferentes dos de habitação só podem ser vendidas mediante prévia realização de concurso público, tendo direito de preferência na compra de cada fracção o respectivo arrendatário.\n\nArt. 3.º A partir da aquisição, as moradias ou fracções autónomas alienadas nos termos dos artigos anteriores deixam de estar sujeitas ao regime jurídico até então vigente.\n\nArt. 4.º - 1 - A alienação das moradias e fracções autónomas far-se-á sempre separadamente da propriedade do solo afecto ao edifício.\n\n2 - A constituição do direito de superfície será regulada pelo [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.\n\n3 - O direito de superfície assim constituído compreende unicamente a faculdade de manter as construções no terreno onde se encontram implantadas.\n\nArt. 5.º - 1 - A avaliação das moradias e fracções autónomas destinadas a habitação será efectuada mediante aplicação dos limites máximos dos custos de construção atribuídos às casas de renda limitada.\n\n2 - Poderá o limite máximo de custo referido no número anterior ser reduzido em conformidade com a qualidade da construção, sempre que o nível desta seja considerado inferior ao normal.\n\n3 - O valor calculado nos termos dos números anteriores será corrigido por dedução dos seguintes factores:\n\na) Custo das obras no exterior da moradia ou, em caso de propriedade horizontal, nas partes comuns do edifício, na proporção que couber a cada fracção autónoma, necessárias para reposição em estado de conservação normal;\n\nb) Desvalorização do edifício em função do número de anos de existência, não se considerando, para o efeito, os primeiros quinze anos;\n\nc) Deterioração do fogo, quando esta resulte de deficiências da construção inicial.\n\n4 - Sobre o valor calculado nos termos do n.º 1 incidirá um adicional, no máximo de 20%, a título do direito de superfície.\n\n5 - Para a determinação do preço de venda, poderá a avaliação directa, feita de acordo com as regras estabelecidas nos números anteriores, ser rectificada com base em particulares aspectos económicos, financeiros ou sociais que a comissão referida no artigo 18.º considere atendíveis.\n\nArt. 6.º A base de licitação das fracções autónomas destinadas a fins diferentes dos de habitação, para efeitos do concurso público previsto no n.º 3 do artigo 2.º, será determinada de acordo com as regras de avaliação para o sector privado.\n\nArt. 7.º Os encargos decorrentes da transacção ou com ela relacionados acrescem ao respectivo preço e correrão por conta do adquirente.\n\nArt. 8.º Os preços de venda e a base de licitação referidos nos artigos 5.º e 6.º serão fixados por despacho do Ministro dos Assuntos Sociais.\n\nArt. 9.º - 1 - O pagamento do preço das moradias e fracções autónomas destinadas a habitação poderá ser efectuado em prestações mensais de igual quantitativo até ao limite de trezentas, aplicando-se, neste caso, uma taxa de juro idêntica à fixada para as prestações das casas económicas.\n\n2 - A falta de pagamento de qualquer prestação implica o vencimento imediato das restantes.\n\n3 - O adquirente pode ser autorizado a antecipar a amortização, total ou parcialmente.\n\nArt. 10.º - 1 - No decurso do período de amortização estabelecido no contrato, o proprietário efectuará e manterá um seguro contra incêndio.\n\n2 - O não cumprimento do disposto no número anterior implica o vencimento imediato do capital em dívida.\n\nArt. 11.º Para garantia do crédito decorrente da venda a prestações será constituída hipoteca sobre a moradia ou fracção autónoma.\n\nArt. 12.º - 1 - É obrigatória a cobertura dos riscos de morte e invalidez, acrescendo às prestações de amortização os correspondentes encargos, sempre que a idade do adquirente à data da venda, acrescida do período de amortização convencionado, não exceda 70 anos.\n\n2 - Nos casos previstos no número anterior, a morte ou invalidez permanente e absoluta extinguem o débito relativo às prestações vincendas.\n\n3 - Na venda a prestações sem seguro, ocorrendo a morte do adquirente, incumbirá aos seus herdeiros o pagamento das prestações em dívida.\n\nArt. 13.º - 1 - As moradias e fracções autónomas destinadas a habitação e adquiridas ao abrigo do presente diploma são inalienáveis e impenhoráveis durante o período inicial de cinco anos, salvo para execução das dívidas decorrentes da compra, incluindo as fiscais com esta relacionadas.\n\n2 - O ónus de inalienabilidade e impenhorabilidade previsto no número anterior cessa ocorrendo a morte ou invalidez permanente e absoluta do adquirente.\n\n3 - Contudo, no caso de a moradia ou fracção autónoma ter sido adquirida a prestações, o ónus de inalienabilidade e impenhorabilidade manter-se-á até completa amortização da dívida.\n\n4 - Ao registo da moradia ou fracção autónoma será averbado oficiosamente, por iniciativa da Caixa Nacional de Pensões, o ónus de inalienabilidade e impenhorabilidade, devendo ficar a constar do mesmo averbamento a data da venda, o termo do período de cinco anos e o do período normal de amortização.\n\n5 - A inscrição e cancelamento do averbamento referido no número anterior será efectuado exclusivamente mediante declaração passada pela Caixa Nacional de Pensões e autenticada com o selo branco da instituição.\n\nArt. 14.º - 1 - As habitações adquiridas nos termos deste diploma ficarão sujeitas, no que respeita à sua subsequente alienação ou arrendamento, às disposições do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro.\n\n2 - O ónus de renda limitada resultante do número anterior é de trinta anos, contados da data da celebração da escritura.\n\n3 - Ao registo da moradia ou fracção autónoma será averbado oficiosamente, por iniciativa da Caixa Nacional de Pensões, o ónus referido nos números antecedentes, mediante declaração da instituição autenticada com o seu selo branco.\n\nArt. 15.º Os proprietários das moradias ou fracções autónomas, caso procedam à sua alienação, deverão avisar a instituição proprietária do terreno por carta registada, no prazo de trinta dias a contar da data da respectiva escritura, identificando o novo adquirente.\n\nArt. 16.º - 1 - A venda das casas de renda económica propriedade das Casas do Povo ou associações de socorros mútuos reger-se-á pelas disposições do presente diploma.\n\n2 - Relativamente às habitações referidas no número anterior, entende-se reportada à Junta Central das Casas do Povo ou às associações proprietárias a competência deferida neste diploma à Caixa Nacional de Pensões.\n\nArt. 17.º - 1 - Às casas construídas por pessoas colectivas de utilidade pública administrativa e atribuídas nos termos do [Decreto n.º 35106](https://diariodarepublica.pt/dr/detalhe/decreto/35106-1945-465634), de 6 de Novembro de 1945, e [Decreto-Lei n.º 41470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41470-1957-251182), de 23 de Dezembro de 1957, passam a aplicar-se, para efeitos de venda aos respectivos moradores, as disposições do presente diploma.\n\n2 - Exceptuam-se do disposto no número anterior as casas que, sendo consideradas de carácter provisório, por construídas ou montadas para satisfazer as situações de emergência, devam manter-se entregues a título precário e pelo prazo necessário para que à família possa ser assegurado ou por esta possa ser obtido um alojamento definitivo adequado.\n\n3 - Entende-se reportada à instituição proprietária a competência deferida neste diploma à Caixa Nacional de Pensões, salvo quanto à declaração para constituição da propriedade horizontal, a que se refere o artigo 1.º, que será da competência da Direcção-Geral da Assistência Social.\n\nArt. 18.º - 1 - A orientação e coordenação das acções decorrentes da aplicação do presente diploma será exercida por uma comissão nomeada por despacho do Ministro dos Assuntos Sociais.\n\n2 - À comissão referida no número anterior competirá ainda:\n\na) Pronunciar-se sobre as dúvidas suscitadas na aplicação do presente diploma, que serão resolvidas por despacho do Ministro dos Assuntos Sociais;\n\nb) Elaborar as normas regulamentares necessárias à boa execução do presente decreto-lei, que serão aprovadas por despacho do Ministro dos Assuntos Sociais;\n\nc) Julgar da oportunidade da aplicação do [Decreto-Lei n.º 797/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/797-1976-407338), de 6 de Novembro, às casas que são património das instituições de previdência, nos termos do artigo 14.º deste diploma;\n\nd) A apreciação, parecer e proposta de resolução de todos os problemas respeitantes à habitação social que interessem ao Ministério dos Assuntos Sociais, enquanto se mantiverem, nesse domínio, as actuais responsabilidades do mesmo Ministério.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - António de Almeida Santos - Henrique Medina Carreira - Armando Bacelar.\n\nPromulgado em 14 de Setembro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "35804317722f83b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Outubro\n\n1 - Muitas das famílias que habitam em casas de renda económica construídas pela Previdência Social têm, ao longo dos anos, vindo a reivindicar a transformação das referidas casas em prédios em regime de propriedade horizontal com vista à sua aquisição, invocando a faculdade que lhes é conferida pela base VIII da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958.\n\nNo entanto, como todos os arrendatários de cada prédio teriam de reunir as condições previstas na legislação das casas económicas, esta restrição veio na prática traduzir-se em impossibilidade, na maioria dos casos, de se operar a transformação pretendida.\n\nAssim, o presente diploma, procurando dar resposta satisfatória a este problema, afastou in limine o regime das casas económicas.\n\n2 - Por outro lado, o presente diploma vem também ao encontro do desejo manifestado por moradores de casas construídas por iniciativa de pessoas colectivas de utilidade pública administrativa, no sentido de que a relação habitacional de que são sujeitos adquira um carácter de estabilidade, considerando que o regime jurídico actual, em muitos casos, se encontra desfasado da realidade socio-económica.\n\n3 - O primeiro aspecto que se salienta é o que se refere à situação dos compradores das habitações perante o solo: este mantém-se na propriedade das instituições vendedoras, adquirindo aqueles o direito de superfície.\n\n4 - As habitações ficam sujeitas temporariamente a um ónus de inalienabilidade e impenhorabilidade, bem como a um ónus de renda limitada para efeitos de arrendamento ou venda subsequentes.\n\n5 - A avaliação das habitações para determinação do preço de venda é feita com base nas normas em vigor sobre os limites dos custos de construção das casas de renda limitada, atendendo-se ainda a certos factores de correcção.\n\n6 - De uma maneira geral, as habitações beneficiam das isenções fiscais já estabelecidas para as casas de renda limitada.\n\n7 - A venda das habitações será efectuada aos respectivos arrendatários, admitindo-se a possibilidade de, em certas condições, se fazerem substituir por descendentes que com eles coabitem.\n\n8 - Sobressai também a possibilidade de o respectivo pagamento ser efectuado em prestações mensais mediante a constituição de hipoteca, sendo obrigatório um seguro destinado a cobrir os riscos de morte e invalidez quando a idade do adquirente somada ao período de amortização não ultrapasse os 70 anos.\n\n9 - Sempre que, para efeitos de venda, seja necessária a prévia constituição da propriedade horizontal, esta seguirá um processo extremamente simples e rápido.\n\nNestas condições:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "849d342b2fa7dbc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1978-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - As casas em regime de renda económica propriedade da Caixa Nacional de Pensões podem ser alienadas nos termos do presente diploma, precedendo os seguintes requisitos:\n\na) Ser a venda autorizada pelo Ministro dos Assuntos Sociais;\n\nb) Proceder-se à constituição da propriedade horizontal, caso os edifícios não sejam moradias, mediante declaração da Caixa Nacional de Pensões autenticada com o selo branco da instituição.\n\n2 - O registo de constituição da propriedade horizontal efectuar-se-á oficiosamente em face da declaração referida no número anterior, obtido da câmara municipal respectiva o documento exigido no n.º 3 do artigo 110.º do Código do Registo Predial.\n\n> Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+  },
+  "fd6929118c6c8733": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1978-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - As moradias e fracções autónomas destinadas a habitação só podem ser vendidas aos respectivos arrendatários.\n\n2 - As casas com arrendatários de idade superior a 55 anos podem ser adquiridas, a requerimento destes, por aqueles que, na linha recta ascendente ou descendente, sejam seus presumíveis sucessores ou afins e que com eles coabitem há mais de um ano.\n\n3 - A preferência entre os sucessíveis e entre os afins referidos no número anterior faz-se nos termos do Código Civil.\n\n> Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+  },
+  "847dec24df3c372f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA partir da aquisição, as moradias ou fracções autónomas alienadas nos termos dos artigos anteriores deixam de estar sujeitas ao regime jurídico até então vigente."
+  },
+  "78325b6a06b21b85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1978-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - A alienação das moradias e fracções autónomas poderá fazer-se, quer conjuntamente, quer separadamente da propriedade do solo afecta ao edifício, cabendo a decisão ao Ministro dos Assuntos Sociais, com o acordo da câmara municipal interessada.\n\n2 - A constituição do direito de superfície será regulada pelo [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.\n\n3 - O direito de superfície assim constituído compreende unicamente a faculdade de manter as construções no terreno onde se encontram implantadas.\n\n> Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+  },
+  "4bd8ef3db755c9e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1978-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - A avaliação das moradias e fracções autónomas destinadas a habitação será efectuada mediante aplicação dos limites máximos dos custos de construção atribuídos às casas de renda limitada.\n\n2 - Poderá o limite máximo de custo referido no número anterior ser reduzido em conformidade com a qualidade da construção, sempre que o nível desta seja considerado inferior ao normal.\n\n3 - O valor calculado nos termos dos números anteriores será corrigido por dedução dos seguintes factores:\n\na) Custo das obras necessárias para reposição do fogo em estado de utilização normal;\n\nb) Custo das obras a fazer, em caso de propriedade horizontal, nas partes comuns do edifício, na proporção que couber a cada fracção autónoma, necessárias para reposição em estado de conservação normal.\n\n4 - Ao valor calculado nos termos do n.º 1 deverá ser acrescentado como valor do terreno, ou a título de direito de superfície, segundo os casos, um adicional, respectivamente de 20% ou 10%.\n\n5 - Para a determinação do preço de venda, poderá a avaliação directa, feita de acordo com as regras estabelecidas nos números anteriores, ser rectificada com base em particulares aspectos económicos, financeiros ou sociais que a comissão referida no artigo 18.º considere atendíveis.\n\n> Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+  },
+  "4ca6c020b60006f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA base de licitação das fracções autónomas destinadas a fins diferentes dos de habitação, para efeitos do concurso público previsto no n.º 3 do artigo 2.º, será determinada de acordo com as regras de avaliação para o sector privado."
+  },
+  "1dac5e16ab242ae0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs encargos decorrentes da transacção ou com ela relacionados acrescem ao respectivo preço e correrão por conta do adquirente."
+  },
+  "139f007683a00ced": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1978-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+   ],
+   "markdown": "###### Artigo 8.º\n\nOs preços de venda referidos no artigo 5.º e as bases de licitação referidas no artigo 6.º serão fixados segundo o ritualismo estabelecido para os processos de expropriação, com as necessárias adaptações, no caso de não se chegar a acordo.\n\n> Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+  },
+  "fcb2a7c6c7879288": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1978-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - O pagamento do preço das moradias e fracções autónomas destinadas a habitação poderá ser efectuado em prestações mensais de igual quantitativo, até ao limite de trezentas, nunca inferiores ao valor actual da renda, aplicando-se taxas de juro a fixar por despacho conjunto dos Ministros dos Assuntos Sociais, da Habitação e Obras Públicas e das Finanças, e idêntica à estabelecida para as prestações das casas económicas.\n\n2 - A falta de pagamento de qualquer prestação implica o vencimento imediato das restantes, quando o Ministro dos Assuntos Sociais não aceite a justificação apresentada pelo interessado.\n\n3 - O adquirente pode ser autorizado a antecipar a amortização, total ou parcialmente.\n\n4 - Quando os adquirentes das moradias ou fracções autónomas procedam à sua alienação, deverão liquidar simultaneamente as prestações em dívida.\n\n> Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+  },
+  "a8c8b4ec17e2eb1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1978-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+   ],
+   "markdown": "###### Artigo 10.º\n\n1 - Para o período de amortização estabelecido no contrato, o proprietário efectuará e manterá um seguro contra incêndio.\n\n2 - O não cumprimento do disposto no número anterior implica o vencimento imediato do capital em dívida.\n\n> Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+  },
+  "486c2a28331aa467": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nPara garantia do crédito decorrente da venda a prestações será constituída hipoteca sobre a moradia ou fracção autónoma."
+  },
+  "b099e0c015ac0bde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1978-06-07",
+   "changed_by": [
+    "Revogado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+   ],
+   "markdown": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+  },
+  "43472884c0d5b854": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - As moradias e fracções autónomas destinadas a habitação e adquiridas ao abrigo do presente diploma são inalienáveis e impenhoráveis durante o período inicial de cinco anos, salvo para execução das dívidas decorrentes da compra, incluindo as fiscais com esta relacionadas.\n\n2 - O ónus de inalienabilidade e impenhorabilidade previsto no número anterior cessa ocorrendo a morte ou invalidez permanente e absoluta do adquirente.\n\n3 - Contudo, no caso de a moradia ou fracção autónoma ter sido adquirida a prestações, o ónus de inalienabilidade e impenhorabilidade manter-se-á até completa amortização da dívida.\n\n4 - Ao registo da moradia ou fracção autónoma será averbado oficiosamente, por iniciativa da Caixa Nacional de Pensões, o ónus de inalienabilidade e impenhorabilidade, devendo ficar a constar do mesmo averbamento a data da venda, o termo do período de cinco anos e o do período normal de amortização.\n\n5 - A inscrição e cancelamento do averbamento referido no número anterior será efectuado exclusivamente mediante declaração passada pela Caixa Nacional de Pensões e autenticada com o selo branco da instituição."
+  },
+  "1ab89e2d3a6db868": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1978-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+   ],
+   "markdown": "###### Artigo 14.º\n\n1 - As habitações adquiridas nos termos deste diploma ficarão sujeitas, no que respeita à sua subsequente alienação ou arrendamento, às disposições do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro.\n\n2 - Os proprietários das moradias ou fracções autónomas, caso procedam à sua alienação, deverão avisar a instituição proprietária do terreno por carta registada, no prazo de trinta dias a contar da data da respectiva escritura, identificando o novo adquirente.\n\n3 - Ao registo da moradia ou fracção autónoma será averbado oficiosamente, por iniciativa da Caixa Nacional de Pensões, o ónus referido nos números antecedentes, mediante declaração da instituição autenticada com o seu selo branco.\n\n> Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+  },
+  "5bb2fdc0fa7361c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs proprietários das moradias ou fracções autónomas, caso procedam à sua alienação, deverão avisar a instituição proprietária do terreno por carta registada, no prazo de trinta dias a contar da data da respectiva escritura, identificando o novo adquirente."
+  },
+  "abdf4651438e8f84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - A venda das casas de renda económica propriedade das Casas do Povo ou associações de socorros mútuos reger-se-á pelas disposições do presente diploma.\n\n2 - Relativamente às habitações referidas no número anterior, entende-se reportada à Junta Central das Casas do Povo ou às associações proprietárias a competência deferida neste diploma à Caixa Nacional de Pensões."
+  },
+  "6058c6a1c7b0b208": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - Às casas construídas por pessoas colectivas de utilidade pública administrativa e atribuídas nos termos do [Decreto n.º 35106](https://diariodarepublica.pt/dr/detalhe/decreto/35106-1945-465634), de 6 de Novembro de 1945, e [Decreto-Lei n.º 41470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41470-1957-251182), de 23 de Dezembro de 1957, passam a aplicar-se, para efeitos de venda aos respectivos moradores, as disposições do presente diploma.\n\n2 - Exceptuam-se do disposto no número anterior as casas que, sendo consideradas de carácter provisório, por construídas ou montadas para satisfazer as situações de emergência, devam manter-se entregues a título precário e pelo prazo necessário para que à família possa ser assegurado ou por esta possa ser obtido um alojamento definitivo adequado.\n\n3 - Entende-se reportada à instituição proprietária a competência deferida neste diploma à Caixa Nacional de Pensões, salvo quanto à declaração para constituição da propriedade horizontal, a que se refere o artigo 1.º, que será da competência da Direcção-Geral da Assistência Social."
+  },
+  "17d5fd34c390b136": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º-A",
+   "in_force_from": "1978-06-07",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+   ],
+   "markdown": "###### Artigo 17.º-A\n\nAs casas ou fracções autónomas referidas neste diploma gozam das isenções fiscais previstas no n.º 1 do artigo 16.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro.\n\n> Aditado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+  },
+  "e76151127382e054": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1978-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07."
+   ],
+   "markdown": "###### Artigo 18.º\n\n1 - A orientação e coordenação das acções decorrentes da aplicação do presente diploma será exercida por uma comissão nomeada por despacho do Ministro dos Assuntos Sociais.\n\n2 - À comissão referida no número anterior competirá ainda:\n\na) Pronunciar-se sobre as dúvidas suscitadas na aplicação do presente diploma, que serão resolvidas por despacho do Ministro dos Assuntos Sociais;\n\nb) Elaborar as normas regulamentares necessárias à boa execução do presente decreto-lei, que serão aprovadas por despacho do Ministro dos Assuntos Sociais;\n\nc) Dar parecer sobre a oportunidade da aplicação do [Decreto-Lei n.º 797/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/797-1976-407338), de 6 de Novembro, às casas que são património das instituições de previdência, nos termos do artigo 14.º deste diploma;\n\nd) A apreciação, parecer e proposta de resolução de todos os problemas respeitantes à habitação social que interessem ao Ministério dos Assuntos Sociais, enquanto se mantiverem, nesse domínio, as actuais responsabilidades do mesmo Ministério.\n\n> Alterado pelo/a [Lei n.º 25/78](https://diariodarepublica.pt/dr/detalhe/lei/25-1978-295143), publicado em 1978-06-07.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - António de Almeida Santos - Henrique Medina Carreira - Armando Bacelar.\n\nPromulgado em 14 de Setembro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

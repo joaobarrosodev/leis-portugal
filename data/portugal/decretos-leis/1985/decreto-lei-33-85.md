@@ -39,10 +39,27 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-01-16'
+version_history:
+  file: decreto-lei-33-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-01-16'
+    amending: pt:dre:693843:por
+    amending_title: Decreto-Lei n.º 22/91
+    changes:
+    - Altera Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:06:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 22/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-33-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,21 +149,33 @@ Cuidou-se finalmente de harmonizar as restrições inerentes ao normal funcionam
 
 Nestes termos, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - Os chamados «Arquivo Salazar» e «Arquivo Marcelo Caetano», que se encontram presentemente depositados nas instalações da Biblioteca Nacional, de acordo com as disposições do [Decreto-Lei n.º 77/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1981-394493), de 18 de Abril, são declarados, na universalidade dos bens móveis que os integram, coisa dominial única, constituindo propriedade do Estado Português.
+###### Artigo 1.º
 
-2 - A Comissão do Livro Negro sobre o Regime Fascista, criada pelo [Decreto-Lei n.º 110/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1978-294680), de 26 de Maio, pode, através dos seus membros ou do pessoal devidamente credenciado pela mesma, nos termos do n.º 1 do artigo 2.º desse diploma, e para o desempenho das suas atribuições, ter acesso livremente a todos os documentos constantes dos mencionados arquivos.
+1 - Os chamados «Arquivo Salazar» e «Arquivo Marcelo Caetano», que se encontram presentemente depositados nas instalações da Biblioteca Nacional, de acordo com as disposições do [Decreto-Lei n.º 77/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1981-394493), de 18 de Abril, são declarados, na universalidade dos bens móveis que os integram, coisa dominial única, constituindo propriedade do Estado Português.
 
-3 - Não se aplica à Comissão a que se refere o número anterior o disposto no artigo 3.º do [Decreto-Lei n.º 77/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1981-394493), de 18 de Abril.
+2 - (Revogado.)
 
-Art. 2.º - 1 - O exercício do direito de livre acesso concedido pelo n.º 2 do artigo anterior não pode ser prejudicado pela execução de quaisquer das medidas previstas no n.º 2 do artigo 2.º do [Decreto-Lei n.º 77/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1981-394493), de 18 de Abril, e vale independentemente da concreta natureza dos documentos que integram os referidos arquivos.
+3 - (Revogado.)
 
-2 - A Biblioteca Nacional deve, para satisfação do direito referido no número anterior, proporcionar, através dos serviços designados para o efeito, dentro das horas do seu funcionamento, em gabinete individual e com a maior prontidão, a consulta e análise dos documentos integrados nos arquivos a que se refere o presente decreto-lei, bem como fotocópias dos mesmos, sendo o custo destas suportado pela Comissão do Livro Negro sobre o Regime Fascista.
+> Alterado pelo/a [Decreto-Lei n.º 22/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1991-693843), publicado em 1991-01-11.
 
-Art. 3.º - 1 - A Comissão do Livro Negro sobre o Regime Fascista pode reproduzir na publicação a que se refere o n.º 2 do artigo 1.º do [Decreto-Lei n.º 110/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1978-294680), de 26 de Maio, quaisquer documentos que constem dos arquivos mencionados no n.º 1 do artigo 1.º do presente diploma.
+###### Artigo 2.º
 
-2 - A reprodução a que alude o número anterior efectua-se com a ressalva do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 110/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-1978-294680), desde que não fique prejudicada a preservação dos documentos a que se referir.
+(Revogado.)
 
-Art. 4.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+> Revogado pelo/a [Decreto-Lei n.º 22/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1991-693843), publicado em 1991-01-11.
+
+###### Artigo 3.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 22/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1991-693843), publicado em 1991-01-11.
+
+###### Artigo 4.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 22/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-1991-693843), publicado em 1991-01-11.
 
 Visto e aprovado em Conselho de Ministros de 3 de Janeiro de 1985. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete - António Antero Coimbra Martins.
 

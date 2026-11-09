@@ -28,10 +28,63 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-02-04'
+version_history:
+  file: decreto-43726.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-06-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-02-04'
+    amending: pt:dre:261929:por
+    amending_title: Decreto-Lei n.º 75/74; Decreto n.º 50/75
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
+    - Revoga Artigo 39.º
+    - Revoga Artigo 40.º
+    - Revoga Artigo 41.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +110,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:24:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 75/74; Decreto n.º
+    50/75. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1961/decreto-43726.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,367 +182,355 @@ I
 
 Disposições gerais
 
-Artigo 1.º O exercício da indústria de acumuladores eléctricos de chumbo fica sujeito às disposições constantes do presente regulamento.
+###### Artigo 1.º
 
-Art. 2.º A indústria de acumuladores eléctricos de chumbo engloba quer o seu fabrico, quer a sua montagem, reconstrução ou reparação, quer ainda o fabrico isolado das respectivas placas.
+(Revogado.)
 
-Entende-se que há:
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-1) Reparação, quando se não faz mais do que proceder a beneficiação de uma bateria, com aproveitamento total ou parcial dos seus componentes internos;
+###### Artigo 2.º
 
-2) Reconstrução, quando se não faz mais do que proceder a uma montagem com aproveitamento dos componentes exteriores de baterias usadas, nomeadamente os recipientes e respectivas tampas;
+(Revogado.)
 
-3) Montagem, quando o ciclo fabril sòmente incluir as simples operações de agrupamento dos vários constituintes de uma bateria, adquiridos a fabricantes;
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-4) Fabrico de placas, quando o ciclo fabril incluir algumas das operações próprias das secções fabris referidas de a) a h) do artigo 6.º e não incluir as que correspondem às alíneas i) a n);
+###### Artigo 3.º
 
-5) Fabrico, quando o ciclo fabril incluir algumas das operações próprias das secções referidas de a) a n) do artigo 6.º
+(Revogado.)
 
-Art. 3.º Dependem de prévia autorização do Secretário de Estado da Indústria:
+> Revogado pelo/a [Decreto-Lei n.º 75/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1974-261929), publicado em 1974-02-28.
 
-a) A instalação de novos estabelecimentos, e a reabertura dos que tiverem suspendido a laboração por período superior a dois anos, que se destinem ao fabrico, montagem ou reconstrução de acumuladores eléctricos de chumbo ou ao fabrico isolado das respectivas placas. Entende-se que se suspendeu a laboração quando se verificarem as condições indicadas no § 1.º do artigo 1.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954;
+###### Artigo 4.º
 
-b) O exercício, em estabelecimento licenciado para qualquer das actividades referidas na alínea anterior, de outra diferente daquelas para que esteja expressamente autorizada;
+(Revogado.)
 
-c) A transferência do local dos estabelecimentos referidos na alínea a) deste artigo, quando implicar mudança de distrito.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-§ único. Os estabelecimentos actualmente licenciados para qualquer das actividades citadas no artigo 2.º e que tenham, efectivamente, utilizado essa autorização, consideram-se legalizados sòmente no que se refere à actividade em causa.
+###### Artigo 5.º
 
-Art. 4.º O exercício da indústria de acumuladores eléctricos de chumbo não é consentâneo com o trabalho no domicílio.
+(Revogado.)
 
-Art. 5.º De futuro, não poderá ser passado a qualquer novo estabelecimento, para o exercício das actividades referidas na alínea a) do artigo 3.º, o alvará a que se refere o regulamento aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922, sem que se mostrem cumpridas as prescrições constantes do presente diploma.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
 II
 
 Condições técnicas
 
-Art. 6.º Os estabelecimentos que se dediquem à indústria de acumuladores de chumbo terão, devidamente diferenciadas, as seguintes secções quando o ciclo fabril do estabelecimento incluir as operações a realizar, respectivamente, nessas secções:
+###### Artigo 6.º
 
-a) Preparação do electrólito;
+(Revogado.)
 
-b) Fundição de armaduras e acessórios em ligas de chumbo;
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-c) Fabricação de óxidos;
+###### Artigo 7.º
 
-d) Mistura de óxidos e preparação de pastas;
+(Revogado.)
 
-e) Empastamento de armaduras;
-
-f) Secagem de tiradas ou placas;
-
-g) Formação de tiradas ou placas;
-
-h) Corte de tiradas e acabamentos de placas;
-
-i) Fabrico de recipientes subdivididos em secções de preparação de lotes, mistura e fabrico de pastas, moldação e acabamentos;
-
-j) Montagem de baterias;
-
-l) Carga de baterias;
-
-m) Acabamento e verificação de baterias;
-
-n) Expedição;
-
-o) Oficina de manutenção;
-
-p) Armazém de matérias-primas, subdividido em armazém de ácidos e armazém para as restantes matérias-primas;
-
-q) Armazém de produtos acabados;
-
-r) Laboratórios;
-
-s) Refeitórios, vestiários e instalações sanitárias.
-
-§ único. A existência das secções referidas de p) a s) é obrigatória.
-
-Art. 7.º As secções abrangidas pelo artigo anterior e referidas a seguir deverão, respectivamente, possuir como equipamento mínimo:
-
-Alínea b): fornos de cadinho e moldes que permitam a fundição de armaduras em boas condições técnicas;
-
-Alínea d): máquinas misturadoras;
-
-Alínea f): estufa de secagem de tiradas ou placas;
-
-Alínea i): fonte de calor, misturadoras, prensas e moldes, no caso de o recipiente ser de ebonite, ou equipamento específico para a utilização de outros materiais, de modo a conseguir-se a obtenção de recipientes em boas condições técnicas;
-
-Alínea p): no referente ao armazém de ácidos, possuir área que permita a perfeita arrumação, no pavimento, dos recipientes com o ácido necessário à laboração de, pelo menos, quinze dias; no referente às restantes matérias-primas, possuir espaço que permita a sua perfeita arrumação para a laboração de, pelo menos, dois meses;
-
-Alínea q): possuir espaço que permita a arrumação perfeita das baterias para consumo de um mês e de placas, recipientes e acessórios correspondentes à laboração de, pelo menos, dois meses;
-
-Alínea r): equipamento que permita efectuar as análises físico-químicas das matérias-primas e os ensaios, constantes das normas, para verificação das características dos acumuladores produzidos e dos seus componentes.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
 III
 
 Condições de segurança e salubridade
 
-Art. 8.º Os estabelecimentos que se dedicarem ao fabrico de acumuladores ou de placas deverão ter os compartimentos em que se funda chumbo ou manipulem matérias tóxicas protegidos por uma zona profiláctica de 50 m, pelo menos, dentro da qual não podem existir habitações, imóveis ou locais públicos de passagem que possam sofrer os seus efeitos nocivos.
+###### Artigo 8.º
 
-Art. 9.º As secções referidas no artigo 6.º deverão satisfazer, necessàriamente, às seguintes condições gerais de salubridade:
+(Revogado.)
 
-a) Terem pé direito nunca inferior a 3 m e capacidade superior a 11,5 m3 por pessoa;
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-b) Terem iluminação natural; se houver necessidade de utilizar iluminação artificial, esta só poderá ser eléctrica e deverá permitir a boa execução dos trabalhos;
+###### Artigo 9.º
 
-c) Terem boa ventilação natural.
+(Revogado.)
 
-Art. 10.º As secções referidas nas alíneas a), g), l) e p) (armazém de ácidos) do artigo 6.º deverão satisfazer, necessàriamente, às seguintes condições:
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-a) Terem paredes e tectos (se os houver) lisos e construídos de material incombustível e impermeável;
+###### Artigo 10.º
 
-b) Terem rodapé liso, construído de material incombustível, impermeável, lavável e resistente à acção dos ácidos;
+(Revogado.)
 
-c) Terem pavimento liso ou esquartelado construído de material incombustível, impermeável, lavável e resistente à acção dos ácidos e com inclinação que permita o escoamento fácil para câmaras de neutralização;
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-d) Estarem providas de tomadas de água de grande caudal e fácil manobra.
+###### Artigo 11.º
 
-Art. 11.º As secções referidas nas alíneas b), c), d), e), f), h), i), j), m), n), o), p) e q) do artigo 6.º deverão satisfazer, necessàriamente, quanto a paredes, tectos (se os houver) e pavimentos, às seguintes condições:
+(Revogado.)
 
-a) Terem paredes e tectos lisos, sem saliências que permitam a acumulação de poeiras, e construídos de material incombustível, impermeável e lavável;
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-b) Terem pavimento liso ou esquartelado e construído de material incombustível, impermeável e lavável.
+###### Artigo 12.º
 
-Art. 12.º As secções referidas nas alíneas r) e s) do artigo 6.º deverão satisfazer, necessàriamente, quanto a paredes, tectos e pavimentos, às condições indicadas no artigo anterior - nos balneários os pavimentos só poderão ser esquartelados -, devendo ainda as paredes ser revestidas de azulejo ou qualquer revestimento fàcilmente lavável, branco ou de cor muito clara, pelo menos até 1,75 m do pavimento.
+(Revogado.)
 
-Art. 13.º As secções referidas nas alíneas c), d), e) e h) do artigo 6.º deverão, necessàriamente, ter os esgotos ligados a câmaras de decantação, em número suficiente para que, após a última, não saiam para o exterior senão leves vestígios de óxido.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Art. 14.º As secções referidas nas alíneas c), d), e), f), h) e j) do artigo 6.º deverão estar, necessàriamente, providas de tomadas de água.
+###### Artigo 13.º
 
-Art. 15.º A secção referida na alínea s) do artigo 6.º deverá ser necessàriamente situada em local completamente separado das oficinas, bem isolada, independente para cada sexo e equipada com:
+(Revogado.)
 
-a) No que se refere a refeitório:
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Mesas para quatro pessoas, com as dimensões mínimas de 0,80 m x 0,80 m e tampo liso e impermeável, para a totalidade dos operários.
+###### Artigo 14.º
 
-Cozinha ou fogão para aquecimento de comida, nas devidas condições de higiene e salubridade.
+(Revogado.)
 
-b) No que se refere a vestiários:
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Armários individuais, com as dimensões mínimas de 1,50 m de altura e 0,30 m x 0,40 m, com fechadura e orifícios de arejamento e, para os operários que lidem com produtos tóxicos ou executem tarefas sujas, com compartimentos separados para as roupas de trabalho e de uso pessoal;
+###### Artigo 15.º
 
-Armário para pensos e primeiros socorros em local privativo, limpo e protegido da contaminação de poeiras, convenientemente apetrechado.
+(Revogado.)
 
-c) No que se refere a instalações sanitárias, que deverão necessàriamente ser ligadas a esgotos:
-
-Lavatórios com água corrente à temperatura conveniente, um para cada 5 operários;
-
-Chuveiros com antecâmaras de vestir, providos de água quente, um para cada 15 operários;
-
-Retretes higiénicas, com descarga de água por autoclismo, uma para cada 15 mulheres ou 25 homens, ventilando directamente para o exterior;
-
-Urinóis higiénicos, um para cada 15 homens.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
 IV
 
 Resguardos do equipamento e protecção para operários
 
-Art. 16.º As secções referidas no artigo 6.º deverão ser providas dos elementos de protecção seguintes:
+###### Artigo 16.º
 
-Alínea b): sistema eficaz de aspiração dos vapores de chumbo e gases de combustão dos fornos de cadinho;
+(Revogado.)
 
-Alínea c): sistema eficaz de captação de poeiras nas máquinas produtoras de óxido de chumbo;
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Alínea d): sistema eficaz de captação de poeiras e aspiração de vapores nos misturadores;
+###### Artigo 17.º
 
-Alínea e): sistema eficaz de captação de poeiras e aspiração de vapores no local de trabalho de cada operário; a bancada de empastamento será munida de dispositivo que permita a existência à sua superfície de uma toalha de água, a fim de evitar que sequem os desperdícios de pasta;
+(Revogado.)
 
-Alínea g): sistema eficaz de ventilação de toda a sala;
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Alínea h): sistema eficaz de captação de poeiras nas máquinas e locais de trabalho;
+###### Artigo 18.º
 
-Alínea i): sistema eficaz de aspiração de poeiras nas máquinas e locais de trabalho onde se manipulem produtos em pó ou onde se produzam poeiras; quando as poeiras forem ou puderem ser tóxicas será a aspiração substituída por captação;
+(Revogado.)
 
-Alínea j): sistema eficaz de aspiração de gases e vapores nos locais de trabalho; garrafas de gases para soldadura fixadas á parede por braçadeiras de ferro ou enterradas, ao alto, em fossas;
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Alínea l): sistema eficaz de ventilação de toda a sala.
+###### Artigo 19.º
 
-§ 1.º Considera-se, no caso de aspiração de vapores de chumbo ou de captação de poeiras de chumbo, que a aspiração ou captação é eficaz quando, junto do local de trabalho, a concentração média desses vapores ou poeiras, durante oito horas de trabalho, é inferior a 0,2 mg/m3 de ar.
+(Revogado.)
 
-§ 2.º Considera-se que a ventilação das salas de formação ou de carga é eficaz quando consegue que a diluição do hidrogénio libertado se mantenha inferior a 1/130 em volume.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Art. 17.º Além do que se especifica no artigo anterior, as máquinas de produção de recipientes deverão satisfazer às condições de segurança a seguir indicadas, relativas ao equipamento de produção de ebonite, ou de outros, no caso de se trabalhar outra matéria-prima:
+###### Artigo 20.º
 
-a) Misturadores. - Protecção que impeça o acesso à zona de contacto dos cilindros; varões metálicos estendidos horizontalmente a todo o comprimento dos cilindros, colocados a menos de 1,75 m acima de todo o pavimento e entre 5 cm e 10 cm das superfícies dos rolos anterior e posterior, que comandem dispositivos de segurança quando accionados pelo operário, ou outros dispositivos de acção semelhante;
+(Revogado.)
 
-b) Calandras. - Protecção que impeça o acesso à zona de contacto dos cilindros; varões metálicos estendidos horizontalmente a todo o comprimento dos cilindros e colocados a menos de 1,75 m acima do pavimento, que comandem dispositivos de segurança quando accionados pelo operário, varões metálicos estendidos verticalmente de cada lado da calandra, colocados no máximo a 30 cm dos cilindros e a 25 cm da base da calandra, que comandem dispositivos de segurança quando accionados pelo operário, ou outros dispositivos de acção semelhante;
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-c) Prensas. - Protecção eficaz, por isolamento térmico, que evite queimaduras;
+###### Artigo 21.º
 
-d) Caldeiras. - Obediência ao Regulamento de Caldeiras em vigor;
+(Revogado.)
 
-e) Autoclaves. - Protecção eficaz, por isolamento térmico, que evite queimaduras; válvulas de segurança, sempre em perfeito estado de funcionamento. Obediência ao Regulamento de Caldeiras em vigor;
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-f) Esmeriladores. - Quando utilizem rebolos abrasivos de diâmetro superior a 40 mm, protecção com blindagem de aço ou ferro maleável, deixando sòmente à vista a parte da mó indispensável ao trabalho; quando a natureza do trabalho não permite o uso de protecção, emprego exclusivo de rebolos cónicos; quando accionados a ar comprimido ou por corrente eléctrica de alta frequência, emprego exclusivo de mós de aglomerante orgânico.
+###### Artigo 22.º
 
-Art. 18.º Nas secções referidas em a), d), g), l), p) (armazém de ácidos) e r) do artigo 6.º deverá haver, em condições de rápido emprego, soro fisiológico para neutralizar salpicos de ácido nos olhos e na pele e, ainda, nas secções a), d) e p) (armazém de ácidos) chuveiro de emergência.
+(Revogado.)
 
-Art. 19.º A todo o pessoal será fornecido, pela entidade patronal, material de protecção apropriado e fatos de trabalho, cuja conservação e lavagem incumbem àquela.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-§ único. Todo o material de protecção e fatos de trabalho serão lavados, pelo menos, uma vez por semana.
+###### Artigo 23.º
 
-Art. 20.º Nas secções onde se manipulem ou produzam materiais sob a forma de pó, ou onde se manuseiem artigos que possam provocar poeiras, as roupas de trabalho deverão ser muito justas no pescoço, punhos e tornozelos.
+(Revogado.)
 
-Art. 21.º Nas secções referidas em a), d), e), g), l) e p) (armazém de ácidos) do artigo 6.º deverão existir:
-
-Boinas.
-
-Luvas de canhão alto resistentes aos ácidos ou pasta própria para revestimento, que as substitua.
-
-Calçado resistente aos ácidos fàcilmente descalçável.
-
-Avental resistente aos ácidos.
-
-Óculos protectores, excepto na secção e).
-
-Art. 22.º Nas secções referidas em c), d), h) e q) (armazém de placas) do artigo 6.º deverão existir boinas e máscaras apropriadas.
-
-Art. 23.º Em cada um dos armários individuais referidos na alínea s) do artigo 6.º deverão existir, fornecidos pela entidade patronal:
-
-Toalhas.
-
-Copo para dentes.
-
-Escova para dentes.
-
-Pasta dentífrica.
-
-Escova para unhas.
-
-Recipientes com soluto de monossulfureto de sódio a 1/1000.
-
-Sabão.
-
-Pente.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
 V
 
 Condições de laboração
 
-Art. 24.º No armazém de ácidos referido na alínea p) do artigo 6.º só poderão ser armazenados, além do ácido, água destilada e electrólito.
+###### Artigo 24.º
 
-Art. 25.º O transporte de recipientes com ácido não pode ser feito manualmente, mas apenas em carros especiais para esse fim.
+(Revogado.)
 
-Art. 26.º O vazamento de recipientes com ácido não pode ser feito manualmente, devendo utilizar-se qualquer dos seguintes meios:
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Carro transportador com dispositivo especial de vazamento.
+###### Artigo 25.º
 
-Sifões.
+(Revogado.)
 
-Ar comprimido a baixa pressão, usando todas as precauções a que este sistema obriga.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Bombas.
+###### Artigo 26.º
 
-Art. 27.º O vazamento de óxidos nos misturadores deve ser feito por forma a evitar que se espalhem poeiras na atmosfera.
+(Revogado.)
 
-Art. 28.º Na secção referida na alínea e) do artigo 6.º deverá sempre haver sobre a bancada de empastamento uma toalha de água.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Art. 29.º Na secção referida na alínea j) do artigo 6.º as soldaduras não poderão ser efectuadas a menos de 3 m das garrafas.
+###### Artigo 27.º
 
-Art. 30.º Nas secções referidas nas alíneas a), d), e), g), l) e p) (armazém de ácidos) do artigo 6.º é obrigatório o uso do material de protecção a que se refere o artigo 22.º, salvo os óculos, que só se tornam necessários quando os operários estiverem a manipular ácido ou electrólito.
+(Revogado.)
 
-Art. 31.º Nas secções referidas nas alíneas c), d), h) e q) (armazém de placas) do artigo 6.º é obrigatório o uso de máscara quando estiverem a ser executadas operações que produzam poeiras.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Art. 32.º Não podem ser utilizadas mulheres ou menores de 18 anos nas seguintes operações de fabrico:
+###### Artigo 28.º
 
-Preparação de electrólito ou manuseamento de ácido puro.
+(Revogado.)
 
-Fundição de armaduras.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Fundição de acessórios (só mulheres).
+###### Artigo 29.º
 
-Fabricação e mistura de óxidos e preparação de pastas.
+(Revogado.)
 
-Empastamento.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Formação de placas (só mulheres).
+###### Artigo 30.º
 
-Corte de tiradas e acabamento de placas (só mulheres).
+(Revogado.)
 
-Preparação de lotes do fabrico de recipientes (só mulheres).
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Mistura e fabrico de pastas e moldação, no fabrico de recipientes.
+###### Artigo 31.º
 
-Art. 33.º Em todas as secções referidas nas alíneas a) e s) do artigo 6.º, com excepção dos refeitórios, é expressamente proibida a entrada de comidas.
+(Revogado.)
 
-Art. 34.º Nas secções referidas nas alíneas a) a q), excepto o), é expressamente proibido fumar.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Art. 35.º Nas secções referidas nas alíneas g) e l) é expressamente proibido fazer lume, salvo aquele que resulte da operação de soldadura efectuada na secção g), a qual só deve ser iniciada depois de tomadas as convenientes precauções.
+###### Artigo 32.º
 
-Art. 36.º Todos os operários devem tomar, diàriamente, banho de chuveiro, lavando-se com sabão.
+(Revogado.)
 
-Art. 37.º Todos os operários devem lavar muito bem, antes de comer, as mãos e a boca e bochechar com soluta de monossulfureto de sódio a 1/1000.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Art. 38.º Nas secções referidas nas alíneas c), d), e) e h) do artigo 6.º as paredes e tectos deverão ser mantidos sempre limpos e as máquinas e pavimentos deverão ser lavados diàriamente, mantendo-se estes últimos sempre húmidos.
+###### Artigo 33.º
 
-Art. 39.º A limpeza das secções fabris só pode ser feita por aspiração ou por via húmida.
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
+
+###### Artigo 34.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
+
+###### Artigo 35.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
+
+###### Artigo 36.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
+
+###### Artigo 37.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
+
+###### Artigo 38.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
+
+###### Artigo 39.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
 VI
 
 Marcas de fabrico
 
-Art. 40.º Os acumuladores novos serão obrigatòriamente marcados de maneira bem visível e durável, em, pelo menos, uma das faces dos recipientes, com uma marca que identifique a entidade que o fabricou.
+###### Artigo 40.º
 
-§ único. Na face onde for aposta esta marca não poderá apor-se outra.
+(Revogado.)
 
-Art. 41.º Nos acumuladores reconstruídos é obrigatória a destruição da marca e todos os outros indicativos do fabricante ou do anterior reconstrutor e a aposição de nova marca, numa das faces do recipiente, que identifique a entidade que o reconstruiu.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Art. 42.º Na face do recipiente onde for aposta a marca referida nos artigos 40.º e 41.º ou noutra serão obrigatòriamente indicados o tipo, tensão e capacidade nominais e número total de placas.
+###### Artigo 41.º
 
-Art. 43.º São obrigatòriamente marcadas, de modo a ser possível a identificação do fabricante em qualquer momento, as placas, uniões e tampas.
+(Revogado.)
 
-Art. 44.º Qualquer acumulador que seja aberto para reparação levará obrigatòriamente uma marca, aposta no recipiente ou nas uniões de ligação, que identifique a entidade que fez essa operação.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Art. 45.º Dentro do prazo de um ano nenhum acumulador novo, reconstruído ou reparado poderá ser transaccionado sem estar devidamente marcado.
+###### Artigo 42.º
 
-Art. 46.º Os fabricantes, montadores e reconstrutores de acumuladores deverão enviar, em duplicado, à Direcção-Geral dos Serviços Industriais, no prazo de seis meses, uma descrição das marcas que usam.
+(Revogado.)
 
-Art. 47.º Todas as empresas que se dediquem ao fabrico, montagem, ou reconstrução de acumuladores devem editar uma tabela donde constem, pelo menos, as seguintes características de todos os acumuladores que fabricam, montam ou reconstroem:
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Tensão nominal.
+###### Artigo 43.º
 
-Capacidade nominal expressa de acordo com as normas utilizadas.
+(Revogado.)
 
-Tipo de bateria.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Dimensões exteriores do recipiente.
+###### Artigo 44.º
 
-Número de placas.
+(Revogado.)
 
-Art. 48.º Todas as empresas que fabriquem e vendam placas devem editar uma tabela donde constem, pelo menos, as seguintes características:
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Tipo.
+###### Artigo 45.º
 
-Capacidade por placa positiva.
+(Revogado.)
 
-Dimensões.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Peso.
+###### Artigo 46.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
+
+###### Artigo 47.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
+
+###### Artigo 48.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
 VII
 
 Características dos produtos
 
-Art. 49.º É obrigatória a conformidade de todos os acumuladores, novos ou reconstruídos, com as normas portuguesas que vierem a ser editadas, quanto às suas características.
+###### Artigo 49.º
 
-§ 1.º Enquanto não forem editadas normas portuguesas, os acumuladores eléctricos de chumbo, «tipo arranque», obedecerão obrigatòriamente às Recomendações para os Acumuladores de Chumbo Tipo Arranque, editadas pela Comissão Electrotécnica Internacional.
+(Revogado.)
 
-§ 2.º Para os outros tipos de acumuladores eléctricos de chumbo o fabricante é obrigado a indicar as normas de fabricação e de verificação de características seguidas na sua produção.
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
-Art. 50.º Os diversos constituintes de um acumulador eléctrico devem possuir os requisitos necessários para que o acumulador com eles montado esteja em conformidade com as normas.
+###### Artigo 50.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
 VIII
 
 Fiscalização
 
-Art. 51.º A fiscalização do cumprimento das prescrições contidas no presente regulamento compete à Direcção-Geral dos Serviços Industriais, sem prejuízo das atribuições da Direcção-Geral de Saúde e da Inspecção-Geral dos Produtos Agrícolas e Industriais.
+###### Artigo 51.º
 
-Art. 52.º Compete à Direcção-Geral dos Serviços Industriais a imposição das condições necessárias ao efectivo cumprimento do disposto neste regulamento, bem como as providências destinadas a impedir o exercício da indústria de acumuladores eléctricos de chumbo em contrário do que no mesmo se prescreve.
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
+
+###### Artigo 52.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
 IX
 
 Disposições transitórias
 
-Art. 53.º Os estabelecimentos que se dediquem à indústria de acumuladores eléctricos de chumbo, actualmente licenciados ou com processos em curso, cujas instalações e equipamento não obedeçam às prescrições do presente regulamento terão de ser alterados ou transferidos, no prazo de dois anos, por forma a satisfazerem às mesmas prescrições. Caso contrário caducará o respectivo alvará e será impedido o seu funcionamento.
+###### Artigo 53.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.
 
 Publique-se e cumpra-se como nele se contém.
 

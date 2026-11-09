@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-01-01'
+version_history:
+  file: decreto-regulamentar-regional-15-84-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-10-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-01-01'
+    amending: pt:dre:327653:por
+    amending_title: Decreto Regulamentar Regional n.º 3/85/M
+    changes:
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:44:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    3/85/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1984/decreto-regulamentar-regional-15-84-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,7 +127,9 @@ Importa, agora, definir as formas de recrutamento e os regimes de provimento de 
 
 Assim, nos termos da alínea b) do artigo 229.º da Constituição da República Portuguesa, o Governo Regional decreta o seguinte:
 
-Artigo 1.º - 1 - Os lugares de inspecção serão providos de acordo com o estabelecido nas alíneas seguintes:
+###### Artigo 1.º
+
+1 - Os lugares de inspecção serão providos de acordo com o estabelecido nas alíneas seguintes:
 
 a) Os lugares de inspector-coordenador serão providos, por despacho do Secretário Regional de Educação, por promoção dos inspectores principais licenciados com mais de 3 anos de serviço prestado na categoria, mediante provas de apreciação curricular;
 
@@ -134,13 +151,17 @@ e) Os lugares de inspector-adjunto serão providos, por concurso documental, de 
 
 6 - O ingresso na categoria referida na alínea e) do n.º 1 far-se-á mediante concurso público com aviso e regulamento, a publicar no Jornal Oficial da Região Autónoma da Madeira.
 
-Art. 2.º - 1 - Aos inspectores oriundos da docência referidos no presente diploma é facultado o regresso à função docente.
+###### Artigo 2.º
+
+1 - Aos inspectores oriundos da docência referidos no presente diploma é facultado o regresso à função docente.
 
 2 - O regresso previsto no número anterior far-se-á na categoria docente que o inspector possuía à data do seu provimento na carreira inspectiva, considerando-se, para o efeito, não vinculado a qualquer estabelecimento de ensino ou a qualquer lugar dos quadros docentes do ensino a que respeita a sua profissionalização.
 
 3 - O serviço prestado e a prestar nas funções de inspector, independentemente da sua categoria, é equiparado a serviço docente bem qualificado para todos os efeitos legais, designadamente para graduação em concursos e integração nas fases, de acordo com a legislação vigente, relativamente aos que, à data de serem providos como inspectores, se encontrassem no exercício de funções docentes.
 
-Art. 3.º - 1 - A todo o pessoal inspectivo oriundo da função docente é permitido optar entre o vencimento que lhe compete nos termos do mapa anexo ao [Decreto Regulamentar Regional n.º 1/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1982-600886), de 29 de Janeiro, e o que competiria se estivesse em exercício efectivo de funções docentes.
+###### Artigo 3.º
+
+1 - A todo o pessoal inspectivo oriundo da função docente é permitido optar entre o vencimento que lhe compete nos termos do mapa anexo ao [Decreto Regulamentar Regional n.º 1/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1982-600886), de 29 de Janeiro, e o que competiria se estivesse em exercício efectivo de funções docentes.
 
 2 - Aos inspectores referidos no número anterior é concedido o direito a solicitarem a integração nas fases da carreira docente, nos termos da lei vigente, considerando-se para este efeito como se estivessem em exercício naquelas funções.
 
@@ -148,27 +169,45 @@ Art. 3.º - 1 - A todo o pessoal inspectivo oriundo da função docente é permi
 
 4 - Os vencimentos devidos aos inspectores em resultado da opção referida nos n.os 1 e 3 deste artigo serão abonados pela competente rubrica do vencimento para o pessoal do orçamento da Secretaria Regional de Educação.
 
-Art. 4.º Por um período de 1 ano, prorrogável, contado a partir da entrada em vigor do presente diploma, a Inspecção Pedagógica e a Inspecção Administrativo-Financeira consideram-se em regime de instalação.
+###### Artigo 4.º
 
-Art. 5.º No período de instalação e de acordo com as necessidades de serviço, lançamento das respectivas inspecções, o provimento dos lugares referidos no mapa anexo ao [Decreto Regulamentar Regional n.º 1/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1982-600886), de 29 de Janeiro, far-se-á com dispensa de tempo de serviço exigido no artigo 1.º, salvaguardando-se, no entanto, a apreciação curricular e as habilitações académicas e profissionais.
+Por um período de 1 ano, prorrogável, contado a partir da entrada em vigor do presente diploma, a Inspecção Pedagógica e a Inspecção Administrativo-Financeira consideram-se em regime de instalação.
 
-Art. 6.º - 1 - A fim de ocorrer a necessidade urgente de serviço, poderá o Secretário Regional de Educação autorizar para o exercício de funções inspectivas professores habilitados com o exame de Estado ou equivalente, nos termos do disposto no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
+###### Artigo 5.º
+
+No período de instalação e de acordo com as necessidades de serviço, lançamento das respectivas inspecções, o provimento dos lugares referidos no mapa anexo ao [Decreto Regulamentar Regional n.º 1/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1982-600886), de 29 de Janeiro, far-se-á com dispensa de tempo de serviço exigido no artigo 1.º, salvaguardando-se, no entanto, a apreciação curricular e as habilitações académicas e profissionais.
+
+###### Artigo 6.º
+
+1 - A fim de ocorrer a necessidade urgente de serviço, poderá o Secretário Regional de Educação autorizar para o exercício de funções inspectivas professores habilitados com o exame de Estado ou equivalente, nos termos do disposto no [Decreto-Lei n.º 373/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1977-286507), de 5 de Setembro.
 
 2 - O tempo de serviço prestado pelos professores referidos no número anterior é contado, para todos os efeitos legais, como serviço docente.
 
-Art. 7.º A partir da categoria de inspector principal-adjunto, inclusive, todo o pessoal inspector possui competência para instruir qualquer processo disciplinar, independentemente da categoria do arguido, desde que este se inclua no pessoal docente ou não docente.
+###### Artigo 7.º
 
-Art. 8.º O regulamento da Inspecção Pedagógica e da Inspecção Administrativo-Financeira será publicado no prazo de 1 ano, contado a partir da data da entrada em vigor do presente diploma.
+A partir da categoria de inspector principal-adjunto, inclusive, todo o pessoal inspector possui competência para instruir qualquer processo disciplinar, independentemente da categoria do arguido, desde que este se inclua no pessoal docente ou não docente.
 
-Art. 9.º - 1 - Ao pessoal técnico de inspecção será abonada uma gratificação mensal de 5000$00.
+###### Artigo 8.º
 
-2 - A gratificação referida no n.º 1 será actualizada sempre que se verifiquem aumentos da função pública, sendo a percentagem do aumento idêntica àquela que se verifique para a letra C da tabela de vencimentos da função pública.
+O regulamento da Inspecção Pedagógica e da Inspecção Administrativo-Financeira será publicado no prazo de 1 ano, contado a partir da data da entrada em vigor do presente diploma.
 
-Art. 10.º O pessoal de inspecção fica isento de horário de trabalho, não lhe sendo por isso devida qualquer remuneração dos trabalhos prestados fora do horário normal.
+###### Artigo 9.º
 
-Art. 11.º As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Secretário Regional de Educação ou por despacho dos Secretários Regionais do Planeamento e Finanças e de Educação, consoante a sua natureza.
+Ao pessoal técnico de inspecção é atribuída uma gratificação mensal no valor correspondente a 20% do respectivo vencimento.
 
-Art. 12.º Este diploma entra imediatamente em vigor.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 3/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1985-327653), publicado em 1985-02-09.
+
+###### Artigo 10.º
+
+O pessoal de inspecção fica isento de horário de trabalho, não lhe sendo por isso devida qualquer remuneração dos trabalhos prestados fora do horário normal.
+
+###### Artigo 11.º
+
+As dúvidas surgidas na execução do presente diploma serão resolvidas por despacho do Secretário Regional de Educação ou por despacho dos Secretários Regionais do Planeamento e Finanças e de Educação, consoante a sua natureza.
+
+###### Artigo 12.º
+
+Este diploma entra imediatamente em vigor.
 
 Aprovado em Conselho do Governo Regional em 16 de Agosto de 1984.
 

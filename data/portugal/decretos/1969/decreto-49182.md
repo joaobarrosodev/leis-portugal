@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-01-07'
+version_history:
+  file: decreto-49182.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-08-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-01-07'
+    amending: pt:dre:303112:por
+    amending_title: Decreto n.º 2/74
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:08:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 2/74. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1969/decreto-49182.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -93,19 +108,37 @@ Por motivo de urgência, ao abrigo do disposto no § 1.º do artigo 150.º da Co
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º Os professores ordinários dos institutos de ensino médio, industrial e comercial, têm as categorias H, G e F, respectivamente, com menos de dez, dez a vinte e mais de vinte anos de serviço.
+###### Artigo 1.º
 
-Art. 2.º Na falta de professores ordinários nos institutos, podem os governadores nomear professores eventuais, cujos vencimentos serão calculados proporcionalmente ao número de horas semanais de serviço prestado, tomando como base o vencimento dos professores sem diuturnidade e o número de horas semanais de serviço docente a estes exigido.
+Os professores ordinários dos institutos de ensino médio, industrial e comercial, têm as categorias H, G e F, respectivamente, com menos de dez, dez a vinte e mais de vinte anos de serviço.
 
-Art. 3.º Os professores que exerçam as funções de directores de laboratórios, trabalhos gráficos, escritórios comerciais e oficinas terão direito à gratificação mensal de 1000$00.
+###### Artigo 2.º
 
-Art. 4.º - 1. Cada instituto terá um director, a que será atribuída a categoria da letra F, escolhido pelo governador-geral de entre os professores ordinários.
+Na falta de professores ordinários nos institutos, podem os governadores nomear professores eventuais, cujos vencimentos serão calculados proporcionalmente ao número de horas semanais de serviço prestado, tomando como base o vencimento dos professores sem diuturnidade e o número de horas semanais de serviço docente a estes exigido.
 
-2. O lugar de director é exercido em comissão, correspondendo-lhe a gratificação mensal de 2500$00.
+###### Artigo 3.º
 
-Art. 5.º Ficam os órgãos legislativos das províncias de Angola e Moçambique autorizados a criar os lugares de secretaria necessários ao funcionamento da secretaria dos institutos, os quais serão preenchidos de acordo com as necessidades.
+Os professores que exerçam as funções de directores de laboratórios, trabalhos gráficos, escritórios comerciais e oficinas terão direito à gratificação mensal de 1000$00.
 
-Art. 6.º Ficam os governadores-gerais autorizados a abrir, observadas as disposições legais aplicáveis, os créditos necessários para suportar os encargos resultantes da execução deste decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
+###### Artigo 4.º
+
+1. Cada instituto terá um director, a que será atribuída a categoria da letra F, escolhido pelo Governador-Geral de entre os professores em serviço.
+
+2. Se um instituto funcionar conjuntamente com uma escola de ensino técnico profissional, a escolha do director do conjunto poderá recair num director do instituto ou da escola, dos quadros do ultramar ou em comissão de serviço, a quem será, da mesma forma, atribuída a categoria da letra F.
+
+3. O lugar de director é exercido em comissão, correspondendo-lhe a gratificação mensal de 2500$00.
+
+4. Quando se verifique a situação prevista no n.º 2, haverá um subdirector, que atenderá em especial a tudo quanto respeita à escola técnica profissional.
+
+> Alterado pelo/a [Decreto n.º 2/74](https://diariodarepublica.pt/dr/detalhe/decreto/2-1974-303112), publicado em 1974-01-07.
+
+###### Artigo 5.º
+
+Ficam os órgãos legislativos das províncias de Angola e Moçambique autorizados a criar os lugares de secretaria necessários ao funcionamento da secretaria dos institutos, os quais serão preenchidos de acordo com as necessidades.
+
+###### Artigo 6.º
+
+Ficam os governadores-gerais autorizados a abrir, observadas as disposições legais aplicáveis, os créditos necessários para suportar os encargos resultantes da execução deste decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 

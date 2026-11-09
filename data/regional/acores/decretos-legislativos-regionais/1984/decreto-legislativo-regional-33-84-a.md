@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-03-29'
+version_history:
+  file: decreto-legislativo-regional-33-84-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-11-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-03-29'
+    amending: pt:dre:173684:por
+    amending_title: Decreto Legislativo Regional n.º 4/95/A
+    changes:
+    - Adita Artigo 6.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:17:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    4/95/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1984/decreto-legislativo-regional-33-84-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,21 +126,37 @@ Importa, assim, estender o regime em causa à Região, considerando devidamente 
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-Artigo 1.º O regime do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 Março, aplica-se à Região Autónoma dos Açores com as adaptações constantes dos artigos seguintes.
+###### Artigo 1.º
 
-Art. 2.º - 1 - As competências previstas na alínea c), nos n.os 2) e 3) da alínea d), na alínea e) e na alínea g) do artigo 8.º do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, serão exercidas pela administração regional autónoma, sem prejuízo de futuramente poderem vir a ser exercidas pelos municípios, nos termos do artigo 12.º do referido diploma legal.
+O regime do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 Março, aplica-se à Região Autónoma dos Açores com as adaptações constantes dos artigos seguintes.
+
+###### Artigo 2.º
+
+1 - As competências previstas na alínea c), nos n.os 2) e 3) da alínea d), na alínea e) e na alínea g) do artigo 8.º do [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, serão exercidas pela administração regional autónoma, sem prejuízo de futuramente poderem vir a ser exercidas pelos municípios, nos termos do artigo 12.º do referido diploma legal.
 
 2 - A competência prevista no n.º 1) da alínea b) do artigo 8.º será exercida pelos municípios, em cooperação técnica e financeira com a administração regional autónoma, de acordo com o preceituado na lei das finanças locais.
 
-Art. 3.º É da competência dos municípios a construção de sedes para as juntas de freguesia, bem como a reparação e conservação dos estabelecimentos do ensino primário.
+###### Artigo 3.º
 
-Art. 4.º É da competência das juntas de freguesia garantir a manutenção e o funcionamento dos cemitérios das áreas rurais.
+É da competência dos municípios a construção de sedes para as juntas de freguesia, bem como a reparação e conservação dos estabelecimentos do ensino primário.
 
-Art. 5.º As referências feitas, bem como as competências atribuídas pelo [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, ao Governo da República ou aos seus serviços, consideram-se reportadas e serão exercidas, na Região, pelo Governo Regional, através dos seus departamentos.
+###### Artigo 4.º
+
+É da competência das juntas de freguesia garantir a manutenção e o funcionamento dos cemitérios das áreas rurais.
+
+###### Artigo 5.º
+
+As referências feitas, bem como as competências atribuídas pelo [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março, ao Governo da República ou aos seus serviços, consideram-se reportadas e serão exercidas, na Região, pelo Governo Regional, através dos seus departamentos.
 
 Aprovado pela Assembleia Regional dos Açores em 12 de Setembro de 1984.
 
 O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.
+
+###### Artigo 6.º
+
+O disposto no artigo anterior não exclui a intervenção da administração central da realização na Região Autónoma dos Açores de investimentos públicos, mediante acordos de colaboração a celebrar pelo Governo da República com o Governo Regional e as autarquias locais.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 4/95/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1995-173684), publicado em 1995-03-29.
 
 Assinado em Angra do Heroísmo em 18 de Outubro de 1984.
 

@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-02-24'
+version_history:
+  file: despacho-normativo-8-a-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-02-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-02-24'
+    amending: pt:dre:676641:por
+    amending_title: Despacho Normativo n.º 13/2006
+    changes:
+    - Altera Artigo ANEXO::25.º
+    - Altera Artigo ANEXO::26.º
+    - Altera Artigo ANEXO::28.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/8-a/2004/02/18/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:41:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 13/2006. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2004/despacho-normativo-8-a-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -523,9 +540,9 @@ A cada componente dos projectos são aplicáveis as normas correspondentes dos r
 
 #### SECÇÃO VI — Procedimentos
 
-###### Artigo 25.º — Candidaturas
+###### Artigo 25.º — Candidaturas, análise e hierarquização
 
-1 - As candidaturas são apresentadas no IFT a todo o tempo.
+1 - As candidaturas são apresentadas no ITP, em regime de fase de candidatura, nos prazos a definir pelo membro do Governo com tutela sobre o sector do turismo.
 
 2 - Sem prejuízo do disposto no número seguinte, as candidaturas são instruídas com todos os elementos necessários para a aferição das condições de elegibilidade dos promotores e dos projectos, incluindo os seguintes elementos:
 
@@ -545,35 +562,39 @@ g) Declaração de afectação, total ou parcial, do investimento realizado à u
 
 3 - Os elementos a apresentar nas candidaturas propostas ao abrigo da alínea d) do artigo 2.º do presente Regulamento são objecto de determinação casuística, em razão das características dos projectos e das correspondentes necessidades de análise.
 
-4 - O IFT valida as candidaturas e aprecia-as, nos termos para tanto definidos no presente Regulamento, no prazo máximo de 25 dias úteis.
+4 - O ITP valida as candidaturas, analisa-as nos termos para tanto definidos no presente Regulamento e hierarquiza-as no prazo máximo de 50 dias úteis, contados do termo final do prazo para a apresentação de candidaturas.
 
-5 - Sempre que necessário, para a apreciação das candidaturas, o IFT pode solicitar:
+5 - As candidaturas são hierarquizadas por ordem decrescente da pontuação obtida na análise e, em caso de empate, preferem, sucessivamente, os projectos apresentados à medida n.º 1.1, 'Implementação de projectos estruturantes no território', e, se necessário, os projectos com data de apresentação mais antiga.
+
+6 - Sempre que necessário, para a apreciação das candidaturas, o IFT pode solicitar:
 
 a) Elementos adicionais aos promotores;
 
 b) Pareceres especializados às entidades competentes para a respectiva emissão.
 
-6 - Quando o IFT solicitar pareceres, nos termos previstos na alínea b) do número anterior, as entidades consultadas devem emiti-los no prazo máximo de 20 dias úteis.
+7 - Quando o IFT solicitar pareceres, nos termos previstos na alínea b) do número anterior, as entidades consultadas devem emiti-los no prazo máximo de 20 dias úteis.
 
-7 - O prazo previsto no n.º 4 do presente artigo considera-se suspenso sempre que o IFT exercer as faculdades a que se refere o n.º 5 e até à data da apresentação dos esclarecimentos ou da recepção dos pareceres solicitados, ou do termo do prazo estabelecido para o efeito, consoante o caso.
+8 - O prazo previsto no n.º 4 do presente artigo considera-se suspenso sempre que o ITP exercer as faculdades a que se refere o n.º 6 e até à data da apresentação dos esclarecimentos ou da recepção dos pareceres solicitados, ou do termo do prazo estabelecido para o efeito, consoante o caso.
 
-8 - A não apresentação dos esclarecimentos solicitados pelo IFT no prazo para tanto definido equivale a desistência da candidatura.
+9 - A não apresentação dos esclarecimentos solicitados pelo IFT no prazo para tanto definido equivale a desistência da candidatura.
 
-9 - A análise do IFT inclui a verificação da razoabilidade dos custos estimados pelos promotores para a realização dos investimentos e, se necessário, a respectiva adequação ou correcção.
+10 - A análise do IFT inclui a verificação da razoabilidade dos custos estimados pelos promotores para a realização dos investimentos e, se necessário, a respectiva adequação ou correcção.
+
+> Alterado pelo/a [Despacho Normativo n.º 13/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2006-676641), publicado em 2006-02-23.
 
 ###### Artigo 26.º — Tramitação subsequente
 
-1 - Finda a análise das candidaturas, o IFT aprova propostas de deliberação, que submete, no prazo máximo de cinco dias úteis, à CNASA.
+1 - Finda a hierarquização das candidaturas, o ITP aprova propostas de deliberação, que submete, no prazo máximo de cinco dias úteis, à CNASA.
 
 2 - As propostas a que se refere o número anterior, quando favoráveis à concessão de apoios, contêm projectos de definição da natureza, dos termos e das condições de atribuição destes.
 
-3 - Sempre que necessário em função da dotação orçamental disponível, é dada preferência ao projecto melhor pontuado ou, em caso de empate ou de impossibilidade de comparação, ao projecto com data mais antiga de apresentação de candidatura.
+3 - A CNASA, em reunião convocada para o efeito pelo respectivo coordenador, emite, no prazo máximo de 15 dias úteis, propostas de decisão final sobre as candidaturas, que submete, no prazo máximo de oito dias úteis, ao membro do Governo com tutela sobre o turismo.
 
-4 - A CNASA, em reunião convocada para o efeito pelo respectivo coordenador, emite, no prazo máximo de 15 dias úteis, propostas de decisão final sobre as candidaturas, que submete, no prazo máximo de oito dias úteis, ao membro do Governo com tutela sobre o turismo.
+4 - As decisões finais sobre as candidaturas incluem a definição da natureza dos apoios a conceder e os respectivos termos e condições de concessão.
 
-5 - As decisões finais sobre as candidaturas incluem a definição da natureza dos apoios a conceder e os respectivos termos e condições de concessão.
+5 - O IFT, no prazo de oito dias úteis, notifica aos promotores as decisões governamentais que recaem sobre as candidaturas.
 
-6 - O IFT, no prazo de oito dias úteis, notifica aos promotores as decisões governamentais que recaem sobre as candidaturas.
+> Alterado pelo/a [Despacho Normativo n.º 13/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2006-676641), publicado em 2006-02-23.
 
 ###### Artigo 27.º — Prazo para a contratualização e caducidade dos direitos aos apoios
 
@@ -714,3 +735,9 @@ Medida n.º 1.2, «Qualificação da oferta de relevância turística»
 Medida n.º 1.3, «Potenciação da oferta turística»
 
 [[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)
+
+6.1 - Os projectos que podem beneficiar de apoio são hierarquizados, nos termos previstos no artigo 25.º do presente Regulamento, por ordem decrescente da pontuação obtida na análise da respectiva valia.
+
+6.2 - Em caso de empate na pontuação, preferem, sucessivamente, os projectos apresentados à medida n.º 1.1, 'Implementação de projectos estruturantes no território', e, se necessário, os projectos com data de apresentação mais antiga.
+
+> Alterado pelo/a [Despacho Normativo n.º 13/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2006-676641), publicado em 2006-02-23.

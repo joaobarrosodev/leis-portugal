@@ -1,0 +1,488 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:375456:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-07-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "55cfe1d50042bbab",
+    "acff57b97f64d906",
+    "603e57d75f4aa2a3",
+    "b863603dc568b7e2",
+    "eb364e81192816fb",
+    "112f86ca5f18cd0f",
+    "f902f66d2e41b841",
+    "1fc41d220bd7ae56",
+    "67d028ffee616763",
+    "bbe114135b4e4013",
+    "e2f0c049f8e372be",
+    "bb4c9c2e4db7867e",
+    "4670eedbbb3ca734",
+    "24cec16ddb35a9e2",
+    "cde94a0ed52d96fe",
+    "16237d4ad8c8b2aa",
+    "1fb2194a9addff96",
+    "1d9758d56a8b6689",
+    "7c5fbb1c640a1903",
+    "a969d52b535a027f",
+    "453c4c0242797dea",
+    "fb66f37ce3e3a6c7",
+    "093ee74833134e32",
+    "c03db57c8b0c63a7",
+    "aefbe994f9dded0e",
+    "36456bf43c890fde",
+    "1eb511beed47a2ea",
+    "42a79f689e21b3ce",
+    "76dc46b7f216b479",
+    "41bae5e0b29c7370",
+    "acef10ab3f2a564d",
+    "249ba64b0b90bd59",
+    "38cd260dd6381507"
+   ]
+  },
+  {
+   "date": "2015-04-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66970765:por",
+     "title": "Decreto Legislativo Regional n.º 11/2015/A",
+     "published": "2015-04-14",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/11-2015-66970765"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Adita Artigo 7.º-B",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "55cfe1d50042bbab",
+    "acff57b97f64d906",
+    "1d59eaab8ec92720",
+    "21147d6c445010e1",
+    "eb364e81192816fb",
+    "16a3ae0ead21c734",
+    "cf2a7afc97897a9a",
+    "55e11d1b94596297",
+    "f9222c002e520118",
+    "db8b8f748116c9d9",
+    "67d028ffee616763",
+    "56b86a3d756d449c",
+    "e2f0c049f8e372be",
+    "bb4c9c2e4db7867e",
+    "4670eedbbb3ca734",
+    "24cec16ddb35a9e2",
+    "cde94a0ed52d96fe",
+    "16237d4ad8c8b2aa",
+    "313378554669651a",
+    "1d9758d56a8b6689",
+    "7c5fbb1c640a1903",
+    "4c0e931a45bbf51f",
+    "453c4c0242797dea",
+    "fb66f37ce3e3a6c7",
+    "093ee74833134e32",
+    "c03db57c8b0c63a7",
+    "70ec94cb24241d62",
+    "36456bf43c890fde",
+    "1eb511beed47a2ea",
+    "42a79f689e21b3ce",
+    "76dc46b7f216b479",
+    "41bae5e0b29c7370",
+    "acef10ab3f2a564d",
+    "249ba64b0b90bd59",
+    "38cd260dd6381507"
+   ]
+  }
+ ],
+ "fragments": {
+  "55cfe1d50042bbab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regime jurídico do conselho de ilha\n\nA [Lei n.º 61/98](https://diariodarepublica.pt/dr/detalhe/lei/61-1998-448681), de 27 de Agosto, pela qual se procedeu à segunda revisão do Estatuto Político-Administrativo da Região Autónoma dos Açores, trouxe alterações importantes ao regime jurídico do conselho de ilha, que passará a existir também nas ilhas que apenas tenham um concelho.\n\nA composição do conselho de ilha, em consequência da referida revisão, passará a ser mais alargada e as respectivas competências foram significativamente aumentadas.\n\nO artigo 90.º do Estatuto Político-Administrativo consagra que a constituição, organização e funcionamento do conselho de ilha são regulados por decreto legislativo regional, o que agora se propõe, tendo em conta o disposto nos artigos 87.º a 89.º do referido Estatuto.\n\nAproveita-se a oportunidade para rever alguns aspectos do regime ora em vigor para o conselho de ilha e procurou-se introduzir algumas melhorias técnicas.\n\nOpta-se pela criação de um diploma regulamentador inteiramente novo, porque muitas são as disposições que se impõe alterar do [Decreto Legislativo Regional n.º 22/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1987-498726), de 3 de Dezembro, facilitando-se assim a consulta sobre o novo regime jurídico do conselho de ilha.\n\nAssim, a Assembleia Legislativa Regional dos Açores, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região, decreta o seguinte:"
+  },
+  "acff57b97f64d906": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Designação\n\nEm cada uma das ilhas dos Açores funciona um órgão de natureza consultiva, denominado «conselho de ilha», que se rege pelas disposições constantes do presente diploma."
+  },
+  "603e57d75f4aa2a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Composição\n\nO conselho de ilha é composto por:\n\na) Presidentes das assembleias municipais e câmaras municipais;\n\nb) Quatro membros eleitos por cada assembleia municipal;\n\nc) Dois representantes dos sectores empresariais;\n\nd) Dois representantes dos movimentos sindicais;\n\ne) Dois representantes das associações agrícolas."
+  },
+  "b863603dc568b7e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Participação dos deputados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Participação dos deputados\n\n1 - Os deputados eleitos pelo círculo eleitoral da respectiva ilha podem participar nas reuniões do conselho de ilha, sem direito a voto.\n\n2 - Para efeito do disposto no número anterior, o presidente do conselho de ilha enviará sempre àqueles deputados cópia da convocatória da reunião."
+  },
+  "eb364e81192816fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Membros da assembleia municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Membros da assembleia municipal\n\n1 - Os membros de cada assembleia municipal são eleitos por listas concorrentes, segundo o método da média mais alta de Hondt.\n\n2 - O mandato dos membros eleitos nos termos do número anterior tem a duração de dois anos, podendo ser renovado."
+  },
+  "112f86ca5f18cd0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Representantes dos sectores empresariais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Representantes dos sectores empresariais\n\n1 - Os representantes a que se refere a alínea c) do artigo 2.º são indicados pelas associações comerciais ou industriais com sede na respectiva ilha, preferencialmente de entre os seus associados que nela exerçam actividade.\n\n2 - Se não existirem associações comerciais ou industriais com sede na ilha, os representantes são indicados pelas associações cuja área de actuação estatutariamente abranja a ilha, preferencialmente de entre os seus associados que nela exerçam actividade.\n\n3 - As associações estabelecem entre si os critérios de indicação dos seus representantes.\n\n4 - O presidente da assembleia municipal a quem couber convocar a reunião de instalação do conselho de ilha solicitará a indicação dos representantes com a antecedência mínima de 45 dias da data da instalação.\n\n5 - As entidades referidas nos n.os 1 e 2 do presente artigo devem indicar os seus representantes no prazo de 30 dias a contar da data da solicitação.\n\n6 - As entidades referidas nos n.os 1 e 2 do presente artigo podem, a todo o tempo, promover a substituição dos membros que tiverem indicado."
+  },
+  "f902f66d2e41b841": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Representantes dos movimentos sindicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Representantes dos movimentos sindicais\n\n1 - Os representantes a que se refere a alínea d) do artigo 2.º são indicados pelos sindicatos com sede na respectiva ilha, de entre os sindicalizados que nela residam.\n\n2 - Se não existirem sindicatos com sede na ilha, os representantes são indicados pelos sindicatos cuja área de actuação estatutariamente abranja a ilha, de entre os sindicalistas que nela residam.\n\n3 - Os sindicatos estabelecem entre si os critérios de indicação dos seus representantes.\n\n4 - O presidente da assembleia municipal a quem couber convocar a reunião de instalação do conselho de ilha solicitará a indicação dos representantes com a antecedência mínima de 45 dias da data da instalação.\n\n5 - As entidades referidas nos n.os 1 e 2 do presente artigo devem indicar os seus representantes no prazo de 30 dias a contar da data da solicitação.\n\n6 - As entidades referidas nos n.os 1 e 2 do presente artigo podem, a todo o tempo, promover a substituição dos membros que tiverem indicado."
+  },
+  "1fc41d220bd7ae56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Representantes das associações agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Representantes das associações agrícolas\n\n1 - Os representantes a que se refere a alínea e) do artigo 2.º são indicados pelas associações agrícolas com sede na respectiva ilha, preferencialmente de entre os seus associados que nela exerçam actividade.\n\n2 - Se não existirem associações agrícolas com sede na ilha, os representantes são indicados pelas associações cuja área de actuação estatutariamente abranja a ilha, preferencialmente de entre os seus associados que nela exerçam actividade.\n\n3 - As associações estabelecem entre si os critérios de indicação dos seus representantes.\n\n4 - O presidente da assembleia municipal a quem couber convocar a reunião de instalação do conselho de ilha solicitará a indicação dos representantes com a antecedência mínima de 45 dias da data da instalação.\n\n5 - As entidades referidas nos n.os 1 e 2 do presente artigo devem indicar os seus representantes no prazo de 30 dias a contar da data da solicitação.\n\n6 - As entidades referidas nos n.os 1 e 2 do presente artigo podem, a todo o tempo, promover a substituição dos membros que tiverem indicado."
+  },
+  "67d028ffee616763": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Reunião de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reunião de instalação\n\n1 - A reunião de instalação do conselho de ilha realiza-se nos 60 dias posteriores à instalação dos órgãos autárquicos resultantes de eleições gerais.\n\n2 - A reunião referida no número anterior tem lugar na sede do munícipio com maior número de eleitores e é convocada pelo presidente da respectiva assembleia municipal."
+  },
+  "bbe114135b4e4013": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Mesa do conselho de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Mesa do conselho de ilha\n\n1 - Na reunião de instalação, os membros do conselho de ilha elegem, por escrutínio secreto, de entre os seus membros, uma mesa constituída por um presidente, um vice-presidente e dois secretários, cujos mandatos têm a duração de um ano.\n\n2 - O presidente é substituído, durante o período de suspensão do seu cargo e nas suas faltas e impedimentos, pelo vice-presidente.\n\n3 - Na ausência do presidente e do vice-presidente o conselho elege, por voto secreto, um dos seus elementos para presidir à reunião."
+  },
+  "e2f0c049f8e372be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Representação\n\nOs presidentes das assembleias municipais e os presidentes das câmaras municipais, nas suas faltas e impedimentos, podem fazer-se representar por quem legalmente os substitua no respectivo órgão autárquico."
+  },
+  "bb4c9c2e4db7867e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Faltas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Faltas\n\n1 - As faltas dos membros referidos nas alíneas a) e b) do artigo 2.º são comunicadas aos respectivos órgãos autárquicos.\n\n2 - Só se considera haver falta quando não houver a representação prevista no artigo anterior.\n\n3 - As faltas dos membros referidos nas alíneas c), d) e e) do artigo 2.º são comunicadas à entidade que os tiver indicado."
+  },
+  "4670eedbbb3ca734": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Renúncia e suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Renúncia e suspensão\n\n1 - Os membros da mesa podem renunciar ou pedir a suspensão do seu cargo, mediante declaração escrita a apresentar ao referido conselho.\n\n2 - Os membros eleitos por cada assembleia municipal podem renunciar ou pedir a suspensão do seu mandato no conselho de ilha, mediante declaração escrita a apresentar ao referido conselho.\n\n3 - Os representantes dos sectores empresariais, dos movimentos sindicais e das associações agrícolas podem renunciar ou pedir a suspensão do seu mandato, mediante declaração escrita a apresentar ao conselho de ilha.\n\n4 - Os pedidos de suspensão referidos nos números anteriores devem ser fundamentados e objecto de deliberação na reunião em que o conselho de ilha tomou conhecimento do pedido.\n\n5 - A suspensão prevista no n.º 1 não pode ultrapassar os 90 dias, sob pena de se considerar como renúncia.\n\n6 - A suspensão prevista nos n.os 2 e 3 não pode ultrapassar 180 dias no decurso do mandato, sob pena de se considerar como renúncia ao mesmo."
+  },
+  "24cec16ddb35a9e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Substituição por suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Substituição por suspensão\n\n1 - Os membros eleitos por cada assembleia municipal e os representantes dos sectores empresariais, dos movimentos sindicais e das associações agrícolas que suspenderem o seu mandato por um período superior a 60 dias, podem ser substituídos no conselho de ilha durante o período que durar a suspensão.\n\n2 - Para efeitos do número anterior, o presidente do conselho de ilha comunica a suspensão à assembleia municipal, tratando-se de membros eleitos pelo respectivo órgão, ou, tratando-se de representantes dos sectores empresariais, dos movimentos sindicais e das associações agrícolas, à entidade que os tiver indicado."
+  },
+  "cde94a0ed52d96fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Perda de mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Perda de mandato\n\n1 - Os membros da mesa perdem o respectivo cargo quando, sem motivo justificado, faltem a mais de duas reuniões.\n\n2 - Os membros eleitos por cada assembleia municipal e os representantes dos sectores empresariais, dos movimentos sindicais e das associações agrícolas perdem o respectivo mandato no conselho de ilha quando, sem motivo justificado, faltem a mais de duas reuniões.\n\n3 - Compete ao conselho de ilha apreciar a justificação das faltas do presidente e do vice-presidente e declarar a perda do respectivo cargo.\n\n4 - Compete ao presidente do conselho de ilha apreciar a justificação das faltas dos membros referidos no n.º 2, cabendo da sua decisão recurso para o conselho, competindo-lhe também propor ao referido conselho a declaração da perda dos respectivos mandatos.\n\n5 - Os membros eleitos das assembleias municipais perdem o seu mandato no conselho de ilha se tiverem perdido o mandato no órgão pelo qual foram eleitos."
+  },
+  "16237d4ad8c8b2aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Substituição por morte, renúncia ou perda do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Substituição por morte, renúncia ou perda do mandato\n\n1 - A substituição dos membros da mesa motivada por morte, renúncia ou perda de mandato deve processar-se por eleição no conselho de ilha.\n\n2 - A substituição dos membros a que se refere a alínea b) do artigo 2.º, motivada por morte, renúncia ou perda do mandato, deve processar-se por eleição no respectivo órgão na reunião em que se tomou conhecimento do facto.\n\n3 - A substituição dos membros a que se referem as alíneas c), d) e e) do artigo 2.º, motivada por morte, renúncia ou perda do mandato, deve processar-se por indicação da entidade que os tinha originariamente indicado.\n\n4 - O presidente do conselho de ilha comunica o facto ao órgão ou entidade respectiva, para efeito de cumprimento dos n.os 2 e 3.\n\n5 - Os novos membros completarão o mandato dos anteriores."
+  },
+  "1fb2194a9addff96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reuniões\n\n1 - O conselho de ilha tem anualmente três reuniões ordinárias, em Janeiro, Maio e Outubro.\n\n2 - O conselho de ilha reúne também extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a requerimento de um terço dos seus membros ou, ainda, por solicitação da Assembleia Legislativa Regional ou do Governo Regional.\n\n3 - As reuniões do conselho de ilha são públicas.\n\n4 - A data, hora, local e ordem de trabalhos das reuniões são divulgados pelos meios adequados ao seu conhecimento público."
+  },
+  "1d9758d56a8b6689": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Local das reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Local das reuniões\n\nO conselho de ilha reúne na sede do município do seu presidente, salvo deliberação em sentido diferente."
+  },
+  "7c5fbb1c640a1903": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Atribuições e competências\n\n1 - São atribuições e competências do conselho de ilha:\n\na) Formular recomendações aos órgãos das autarquias sobre assuntos das respectivas atribuições;\n\nb) Fomentar a uniformização e harmonização das posturas e regulamentos das diversas autarquias;\n\nc) Incentivar formas de cooperação e colaboração entre as diversas autarquias e os respectivos órgãos e serviços;\n\nd) Apreciar, numa perspectiva de integração e complementaridade, os planos de actividade dos diversos municípios;\n\ne) Emitir os pareceres que lhe sejam solicitados pela Assembleia Legislativa Regional ou pelo Governo Regional sobre quaisquer matérias de interesse para a ilha;\n\nf) Dar parecer sobre o Plano Regional, designadamente numa perspectiva de ilha;\n\ng) Pronunciar-se, por iniciativa própria, sobre interesses específicos da ilha;\n\nh) Exercer as demais atribuições e competências que lhe sejam conferidas por legislação regional.\n\n2 - Compete ainda ao conselho de ilha emitir parecer, a solicitação ou por sua iniciativa, sobre as seguintes matérias, quando respeitem à respectiva ilha, designadamente:\n\na) Criação e extinção de autarquias locais, bem como a modificação da respectiva área;\n\nb) Elevação de povoações à categoria de vilas ou cidades;\n\nc) Sistemas de transportes;\n\nd) Ordenamento do território e equilíbrio ecológico;\n\ne) Recursos hídricos, minerais e termais;\n\nf) Classificação, protecção e valorização do património cultural."
+  },
+  "a969d52b535a027f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Regimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regimento\n\nO conselho de ilha elabora o seu regimento, do qual constam as normas julgadas necessárias ao seu funcionamento."
+  },
+  "453c4c0242797dea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Quórum e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Quórum e deliberações\n\n1 - O conselho de ilha só pode reunir e deliberar com a presença da maioria do número legal dos seus membros.\n\n2 - As deliberaçãos são tomadas à pluralidade de votos, tendo o presidente voto de qualidade em caso de empate, não contando as abstenções para o apuramento da maioria.\n\n3 - Quando o conselho de ilha não possa reunir por falta de quórum, o presidente designa outro dia para nova reunião, com a mesma ordem de trabalhos."
+  },
+  "fb66f37ce3e3a6c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Actas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Actas\n\n1 - Das reuniões do conselho de ilha é lavrada acta por um dos secretários, que regista o que de essencial se tiver passado, nomeadamente as faltas verificadas, as deliberações tomadas e as posições contra elas assumidas e, bem assim, o facto de a acta ter sido lida e aprovada.\n\n2 - As actas são assinadas pelo presidente e pelos membros da mesa em efectividade de funções, depois de submetidas à aprovação do conselho de ilha na sua reunião seguinte.\n\n3 - As actas, ou o texto das deliberações mais importantes, podem ser aprovadas em minuta no final das reuniões, desde que tal seja deliberado pela maioria dos membros presentes."
+  },
+  "093ee74833134e32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Dispensa de actividade profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Dispensa de actividade profissional\n\n1 - Os membros do conselho de ilha estão dispensados do desempenho da sua actividade profissional pelo período de tempo necessário à sua participação nas reuniões deste órgão, mediante aviso antecipado à entidade empregadora.\n\n2 - As entidades empregadoras têm direito à compensação dos encargos resultantes das dispensas previstas no número anterior."
+  },
+  "c03db57c8b0c63a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Abonos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Abonos\n\n1 - Os membros do conselho de ilha têm direito a senhas de presença, ajudas de custo e subsídio de transporte.\n\n2 - Os presidentes das câmaras municipais e vereadores em regime de permanência não têm direito a senhas de presença."
+  },
+  "aefbe994f9dded0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Senhas de presença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Senhas de presença\n\nAs senhas de presença, por cada reunião ordinária ou extraordinária do conselho de ilha, são de valor igual ao estabelecido para os membros da assembleia municipal do município de maior categoria existente na ilha."
+  },
+  "36456bf43c890fde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Ajudas de custo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Ajudas de custo\n\nAs ajudas de custo a abonar, quando os membros do conselho de ilha se desloquem, por motivo de serviço, para fora da área do município da sua residência, são nos termos e no quantitativo fixado por lei para as deslocações em serviço dos membros da assembleia municipal."
+  },
+  "1eb511beed47a2ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Subsídio de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Subsídio de transporte\n\nO subsídio de transporte é atribuído nos termos e segundo a tabela em vigor para a função pública, quando se desloquem por motivo de serviço e não utilizem viaturas dos municípios."
+  },
+  "42a79f689e21b3ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Encargos de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Encargos de funcionamento\n\nOs encargos de funcionamento do conselho de ilha previstos nos artigos 22.º a 26.º do presente diploma serão suportados pelo departamento do Governo Regional que tutela as autarquias locais."
+  },
+  "76dc46b7f216b479": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Apoio administrativo\n\nO apoio administrativo ao conselho de ilha é assegurado pelos serviços da câmara municipal do concelho onde decorre a respectiva reunião."
+  },
+  "41bae5e0b29c7370": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Norma transitória\n\n1 - No prazo de 90 dias a contar da data de entrada em vigor do presente diploma, devem os conselhos de ilha instalar-se de acordo com o regime constante deste diploma.\n\n2 - Tendo em conta o disposto no n.º 2 do artigo 8.º, o presidente da assembleia municipal, no prazo de 15 dias a contar da data de entrada em vigor do presente diploma, solicitará:\n\na) Às assembleias municipais, que, no prazo de 60 dias, indiquem os membros eleitos a que se refere a alínea b) do n.º 1 do artigo 2.º;\n\nb) Às entidades competentes, que, no prazo de 60 dias, indiquem os representantes a que se referem as alíneas c), d) e e) do n.º 1 do artigo 2.º\n\n3 - O disposto no artigo 27.º do presente diploma só produz efeitos a partir do dia 1 de Janeiro do ano 2000, continuando a aplicar-se, quanto aos encargos de funcionamento, durante o ano de 1999, o disposto no artigo 14.º do [Decreto Legislativo Regional n.º 22/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1987-498726), de 3 de Dezembro."
+  },
+  "acef10ab3f2a564d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Legislação subsidiária\n\nEm tudo quanto não esteja especialmente previsto no presente diploma aplica-se a legislação relativa às autarquias locais, com as necessárias adaptações."
+  },
+  "249ba64b0b90bd59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\nÉ revogado o [Decreto Legislativo Regional n.º 22/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-1987-498726), de 3 de Dezembro, sem prejuízo do disposto na última parte do n.º 3 do artigo 29.º"
+  },
+  "38cd260dd6381507": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 19 de Maio de 1999.\n\nO Presidente da Assembleia Legislativa Regional, Humberto Trindade Borges de Melo.\n\nAssinado em Angra do Heroísmo em 16 de Junho de 1999.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  },
+  "1d59eaab8ec92720": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Composição",
+   "in_force_from": "2015-04-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+   ],
+   "markdown": "###### Artigo 2.º — Composição\n\n1 - O conselho de ilha é composto por:\n\na) Presidentes das assembleias municipais e câmaras municipais;\n\nb) Quatro membros eleitos por cada assembleia municipal;\n\nc) Três presidentes de junta de freguesia, a serem eleitos de entre todos os presidentes de junta da respetiva ilha, segundo o método da média mais alta de Hondt;\n\nd) Um representante do Governo Regional, sem direito a voto;\n\ne) Dois representantes dos sectores empresariais;\n\nf) Dois representantes dos movimentos sindicais;\n\ng) Dois representantes das associações agrícolas.\n\nh) Um representante das associações do setor das pescas;\n\ni) Um representante das instituições particulares de solidariedade social;\n\nj) Um representante das associações não governamentais ligadas à área do ambiente;\n\nk) Um representante das associações de defesa da igualdade de género nas ilhas onde tenham sede ou delegações;\n\nl) Um representante da Universidade dos Açores nas ilhas onde estão localizados os respetivos campus universitários.\n\n2 - Podem ainda ser convidados a participar nas reuniões do conselho de ilha, outras entidades ou personalidades da ilha ou da Região, em função das matérias em apreciação.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+  },
+  "21147d6c445010e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Participação dos deputados",
+   "in_force_from": "2015-04-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+   ],
+   "markdown": "###### Artigo 3.º — Participação dos deputados\n\n1 - Os deputados eleitos pelo círculo eleitoral da respectiva ilha podem participar nas reuniões do conselho de ilha, sem direito a voto.\n\n2 - Os deputados eleitos pelo círculo regional de compensação podem participar nas reuniões do conselho de ilha da sua residência oficial, sem direito a voto.\n\n3 - Para efeito do disposto no número anterior, o presidente do conselho de ilha enviará sempre àqueles deputados cópia da convocatória da reunião.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+  },
+  "16a3ae0ead21c734": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Representantes dos sectores empresariais",
+   "in_force_from": "2015-04-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+   ],
+   "markdown": "###### Artigo 5.º — Representantes dos sectores empresariais\n\n1 - Os representantes a que se refere a alínea e) do n.º 1 do artigo 2.º são indicados pelas associações comerciais ou industriais com sede na respetiva ilha, preferencialmente, de entre os seus associados que nela exerçam atividade, devendo abranger o máximo número possível dos respetivos subsetores de atividade.\n\n2 - Se não existirem associações comerciais ou industriais com sede na ilha, os representantes são indicados pelas associações cuja área de actuação estatutariamente abranja a ilha, preferencialmente de entre os seus associados que nela exerçam actividade.\n\n3 - As associações estabelecem entre si os critérios de indicação dos seus representantes.\n\n4 - O presidente da assembleia municipal a quem couber convocar a reunião de instalação do conselho de ilha solicitará a indicação dos representantes com a antecedência mínima de 45 dias da data da instalação.\n\n5 - As entidades referidas nos n.os 1 e 2 do presente artigo devem indicar os seus representantes no prazo de 30 dias a contar da data da solicitação.\n\n6 - As entidades referidas nos n.os 1 e 2 do presente artigo podem, a todo o tempo, promover a substituição dos membros que tiverem indicado.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+  },
+  "cf2a7afc97897a9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Representantes dos movimentos sindicais",
+   "in_force_from": "2015-04-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+   ],
+   "markdown": "###### Artigo 6.º — Representantes dos movimentos sindicais\n\n1 - Os representantes a que se refere a alínea f) do n.º 1 do artigo 2.º são indicados pelos sindicatos com sede na respetiva ilha, de entre os sindicalizados que nela residam, devendo abranger o máximo número possível dos respetivos subsetores de atividade.\n\n2 - Se não existirem sindicatos com sede na ilha, os representantes são indicados pelos sindicatos cuja área de actuação estatutariamente abranja a ilha, de entre os sindicalistas que nela residam.\n\n3 - Os sindicatos estabelecem entre si os critérios de indicação dos seus representantes.\n\n4 - O presidente da assembleia municipal a quem couber convocar a reunião de instalação do conselho de ilha solicitará a indicação dos representantes com a antecedência mínima de 45 dias da data da instalação.\n\n5 - As entidades referidas nos n.os 1 e 2 do presente artigo devem indicar os seus representantes no prazo de 30 dias a contar da data da solicitação.\n\n6 - As entidades referidas nos n.os 1 e 2 do presente artigo podem, a todo o tempo, promover a substituição dos membros que tiverem indicado.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+  },
+  "55e11d1b94596297": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Representantes das associações agrícolas",
+   "in_force_from": "2015-04-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+   ],
+   "markdown": "###### Artigo 7.º — Representantes das associações agrícolas\n\n1 - Os representantes a que se refere a alínea g) do n.º 1 do artigo 2.º são indicados pelas associações agrícolas com sede na respetiva ilha, preferencialmente, de entre os seus associados que nela exerçam atividade, devendo abranger o máximo número possível dos respetivos subsetores de atividade.\n\n2 - Se não existirem associações agrícolas com sede na ilha, os representantes são indicados pelas associações cuja área de actuação estatutariamente abranja a ilha, preferencialmente de entre os seus associados que nela exerçam actividade.\n\n3 - As associações estabelecem entre si os critérios de indicação dos seus representantes.\n\n4 - O presidente da assembleia municipal a quem couber convocar a reunião de instalação do conselho de ilha solicitará a indicação dos representantes com a antecedência mínima de 45 dias da data da instalação.\n\n5 - As entidades referidas nos n.os 1 e 2 do presente artigo devem indicar os seus representantes no prazo de 30 dias a contar da data da solicitação.\n\n6 - As entidades referidas nos n.os 1 e 2 do presente artigo podem, a todo o tempo, promover a substituição dos membros que tiverem indicado.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+  },
+  "f9222c002e520118": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º-A",
+   "in_force_from": "2015-04-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+   ],
+   "markdown": "###### Artigo 7.º-A\n\nRepresentantes das associações do setor das pescas, das instituições particulares de solidariedade social, das associações não governamentais ligadas à área do ambiente e das associações de defesa da igualdade de género nas ilhas onde tenham sede ou delegações.\n\n1 - Os representantes a que se referem as alíneas h) a k) do n.º 1 do artigo 2.º são indicados pelas respetivas associações, com sede na respetiva ilha, preferencialmente, de entre os seus associados que nela exerçam atividade.\n\n2 - Se não existirem as associações referidas no número anterior com sede na ilha, os representantes são indicados pelas associações cuja área de atuação estatuariamente abranja a ilha, preferencialmente de entre os seus associados que nela exerçam atividade.\n\n3 - As associações estabelecem entre si os critérios de indicação dos seus representantes.\n\n4 - O presidente da assembleia municipal a quem couber convocar a reunião de instalação do conselho de ilha solicitará a indicação dos representantes com a antecedência mínima de quarenta e cinco dias da data da instalação.\n\n5 - As entidades referidas nos n.os 1 e 2 do presente artigo devem indicar os seus representantes, no prazo de trinta dias a contar da data da solicitação.\n\n6 - As entidades referidas nos n.os 1 e 2 do presente artigo podem, a todo o tempo, promover a substituição dos membros que tiverem indicado.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+  },
+  "db8b8f748116c9d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º-B — Representante da Universidade dos Açores",
+   "in_force_from": "2015-04-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+   ],
+   "markdown": "###### Artigo 7.º-B — Representante da Universidade dos Açores\n\n1 - O representante a que se refere a alínea l) do n.º 1 do artigo 2.º é indicado pelos respetivos campus da Universidade dos Açores.\n\n2 - O presidente da assembleia municipal a quem couber convocar a reunião de instalação do conselho de ilha solicitará a indicação do representante referido no número anterior com a antecedência mínima de quarenta e cinco dias da data da instalação.\n\n3 - A entidade referida no n.º 1 do presente artigo deve indicar o seu representante no prazo de trinta dias a contar da data da solicitação.\n\n4 - A entidade referida no n.º 1 do presente artigo pode, a todo o tempo, promover a substituição do membro que tiver indicado.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+  },
+  "56b86a3d756d449c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Mesa do conselho de ilha",
+   "in_force_from": "2015-04-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+   ],
+   "markdown": "###### Artigo 9.º — Mesa do conselho de ilha\n\n1 - Na reunião de instalação, os membros do conselho de ilha elegem, por escrutínio secreto, de entre os seus membros, uma mesa constituída por um presidente, um vice-presidente e dois secretários, cujos mandatos têm a duração de um ano.\n\n2 - O presidente é substituído, durante o período de suspensão do seu cargo e nas suas faltas e impedimentos, pelo vice-presidente.\n\n3 - Na ausência do presidente e do vice-presidente o conselho elege, por voto secreto, um dos seus elementos para presidir à reunião.\n\n4 - A mesa do conselho de ilha funciona como comissão permanente do respetivo órgão.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+  },
+  "313378554669651a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Reuniões",
+   "in_force_from": "2015-04-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+   ],
+   "markdown": "###### Artigo 16.º — Reuniões\n\n1 - O conselho de ilha tem anualmente três reuniões ordinárias, em Janeiro, Maio e Outubro.\n\n2 - O conselho de ilha reúne também extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a requerimento de um terço dos seus membros ou, ainda, por solicitação da Assembleia Legislativa Regional ou do Governo Regional.\n\n3 - As reuniões do conselho de ilha são públicas.\n\n4 - A data, hora, local e ordem de trabalhos das reuniões são divulgados pelos meios adequados ao seu conhecimento público.\n\n5 - Nas reuniões do conselho de ilha haverá um período previsto na respetiva convocatória para intervenção do público, devendo ser-lhe prestados os esclarecimentos necessários.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+  },
+  "4c0e931a45bbf51f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Regimento",
+   "in_force_from": "2015-04-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+   ],
+   "markdown": "###### Artigo 19.º — Regimento\n\n1 - O conselho de ilha elabora o seu regimento, do qual constam as normas julgadas necessárias ao seu funcionamento.\n\n2 - Do regimento do conselho de ilha pode constar o respetivo funcionamento por comissões setoriais, sem prejuízo das competências do plenário.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+  },
+  "70ec94cb24241d62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Senhas de presença",
+   "in_force_from": "2015-04-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+   ],
+   "markdown": "###### Artigo 24.º — Senhas de presença\n\n1 - O departamento do Governo Regional competente em matéria de administração pública assume os encargos referentes às senhas de presença devidas pela realização das reuniões ordinárias e extraordinárias, sendo que estas últimas têm por limite um número máximo de três por ano.\n\n2 - Nos casos em que o conselho de ilha realize um número de reuniões superior a seis por ano, o pagamento das senhas de presença devidas pelas reuniões subsequentes poderá ser solicitado, se devidamente fundamentado, ao departamento do Governo Regional competente em matéria de administração pública, cabendo a este a decisão do respetivo pagamento.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 11/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2015-66970765), publicado em 2015-04-14."
+  }
+ }
+}

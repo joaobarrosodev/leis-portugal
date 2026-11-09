@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:577969:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1964-07-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f0cdef1512e3a518"
+   ]
+  },
+  {
+   "date": "1965-12-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:507845:por",
+     "title": "Decreto n.º 46730",
+     "published": "1965-12-09",
+     "dre_path": "/dr/detalhe/decreto/46730-1965-507845"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "6befe83d1e525026",
+    "9b76c28b843654d5",
+    "5627f521da8f961c"
+   ]
+  }
+ ],
+ "fragments": {
+  "f0cdef1512e3a518": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que foi adjudicada ao engenheiro Manuel José Antunes Ferreira a empreitada de construção da esplanada marginal Estoril-Cascais (troço entre as praias do Monte Estoril e da Conceição) e esporão de assoreamento;\n\nConsiderando que os trabalhos que constituem a referida empreitada se vão realizar ao longo dos anos de 1964, 1965 e 1966;\n\nTendo em vista o disposto no artigo 22.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º É autorizada a Direcção-Geral dos Serviços Hidráulicos a celebrar contrato com o engenheiro Manuel José Antunes Ferreira para execução da empreitada de construção da esplanada marginal Estoril-Cascais (troço entre as praias do Monte Estoril e da Conceição) e esporão de assoreamento, pela importância de 6774595$50, que poderá elevar-se a 7400000$00, no caso de haver que realizar quantidades de trabalho superiores às previstas nas medições do projecto, de serem superiormente determinadas ou aprovadas alterações ao projecto ou de haver que efectuar pagamentos de diferenciais relativos à garantia de preço de cimento, nos termos do caderno de encargos.\n\nArt. 2.º Seja qual for o valor dos trabalhos a realizar, a Direcção-Geral dos Serviços Hidráulicos não poderá ser obrigada a despender com pagamentos relativos a trabalhos executados, por virtude do contrato, mais do que as importâncias abaixo indicadas:\n\nEm 1964 ... 2400000$00\n\nEm 1965 ... 2500000$00\n\nEm 1966 ... 2500000$00\n\n§ único. Às importâncias fixadas para cada ano acrescem os saldos dos anos anteriores.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 7 de Julho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira."
+  },
+  "6befe83d1e525026": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que foi adjudicada ao engenheiro Manuel José Antunes Ferreira a empreitada de construção da esplanada marginal Estoril-Cascais (troço entre as praias do Monte Estoril e da Conceição) e esporão de assoreamento;\n\nConsiderando que os trabalhos que constituem a referida empreitada se vão realizar ao longo dos anos de 1964, 1965 e 1966;\n\nTendo em vista o disposto no artigo 22.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "9b76c28b843654d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ autorizada a Direcção-Geral dos Serviços Hidráulicos a celebrar contrato com o engenheiro Manuel José Antunes Ferreira para execução da empreitada de construção da esplanada marginal Estoril-Cascais (troço entre as praias do Monte Estoril e da Conceição) e esporão de assoreamento, pela importância de 6774595$50, que poderá elevar-se a 7400000$00, no caso de haver que realizar quantidades de trabalho superiores às previstas nas medições do projecto, de serem superiormente determinadas ou aprovadas alterações ao projecto ou de haver que efectuar pagamentos de diferenciais relativos à garantia de preço de cimento, nos termos do caderno de encargos."
+  },
+  "5627f521da8f961c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1965-12-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 46730](https://diariodarepublica.pt/dr/detalhe/decreto/46730-1965-507845), publicado em 1965-12-09."
+   ],
+   "markdown": "###### Artigo 2.º\n\nSeja qual for o valor dos trabalhos a realizar, a Direcção-Geral dos Serviços Hidráulicos não poderá ser obrigada a despender com pagamentos relativos a trabalhos executados, por virtude do contrato, mais do que as importâncias abaixo indicadas:\n\nEm 1964 ... 2400000$00\n\nEm 1965 ... 1000000$00\n\nEm 1966 ... 4000000$00\n\n§ único. Às importâncias fixadas para cada ano acrescem os saldos dos anos anteriores.\n\n> Alterado pelo/a [Decreto n.º 46730](https://diariodarepublica.pt/dr/detalhe/decreto/46730-1965-507845), publicado em 1965-12-09.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 7 de Julho de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira."
+  }
+ }
+}

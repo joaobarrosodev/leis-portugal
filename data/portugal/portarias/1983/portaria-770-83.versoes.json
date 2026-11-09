@@ -1,0 +1,399 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:453801:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-07-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "656e0aca52f1bddb",
+    "9744a660f959fc56",
+    "e9fe672ddde1d8b6",
+    "de0ba233d52c7ece",
+    "8fc5759f8c13acd4",
+    "ff276b9c03e8bb76",
+    "1ba3b19b5e89db1c",
+    "fb48bd66cac940db",
+    "5f17cf394e7021f6",
+    "34a20287f09da783",
+    "2a33a81a9c131758",
+    "db1c09217b100365",
+    "c59be755b760669e",
+    "0d123636880e74c5",
+    "3b96065485798ec3",
+    "16fa1397c38f922d",
+    "d097053156ebafe5",
+    "c7f2ea8684939c08",
+    "a271c944cd76b572",
+    "24f4c1dd80f973b3",
+    "40dc03387bde6e66",
+    "5cf928defd21cf66",
+    "f870c57785d13fc7",
+    "b647964e8c4601dc",
+    "aec487796f2b8f94",
+    "05aa4179400016c1",
+    "ed11a21e9bf696c4",
+    "dbdc2f2423223ee7",
+    "729618b20e29112a",
+    "08b74c6a212e3c94",
+    "c74f42f0cb9f46b9",
+    "9be237b2a78504a2"
+   ]
+  },
+  {
+   "date": "1987-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:662733:por",
+     "title": "Portaria n.º 131/87",
+     "published": "1987-02-25",
+     "dre_path": "/dr/detalhe/portaria/131-1987-662733"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "656e0aca52f1bddb",
+    "9744a660f959fc56",
+    "e9fe672ddde1d8b6",
+    "de0ba233d52c7ece",
+    "efacb3471044a773",
+    "ff276b9c03e8bb76",
+    "1ba3b19b5e89db1c",
+    "fb48bd66cac940db",
+    "e439f19e6eb88ad1",
+    "34a20287f09da783",
+    "2a33a81a9c131758",
+    "db1c09217b100365",
+    "c59be755b760669e",
+    "0d123636880e74c5",
+    "3b96065485798ec3",
+    "16fa1397c38f922d",
+    "d097053156ebafe5",
+    "e345debd9ef24f86",
+    "a271c944cd76b572",
+    "24f4c1dd80f973b3",
+    "40dc03387bde6e66",
+    "5cf928defd21cf66",
+    "f870c57785d13fc7",
+    "b647964e8c4601dc",
+    "aec487796f2b8f94",
+    "05aa4179400016c1",
+    "ed11a21e9bf696c4",
+    "dbdc2f2423223ee7",
+    "729618b20e29112a",
+    "08b74c6a212e3c94",
+    "c74f42f0cb9f46b9",
+    "627dca0b8b6b6e88"
+   ]
+  }
+ ],
+ "fragments": {
+  "656e0aca52f1bddb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Julho\n\nO [Decreto-Lei n.º 32748](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32748-1943-596512), de 15 de Abril de 1943, que criou a Caixa de Previdência dos Profissionais de Espectáculos, determinou, no seu artigo 2.º, a criação de um adicional sobre o preço dos bilhetes, actualmente regulado pelas Portarias n.os [874/74](https://diariodarepublica.pt/dr/detalhe/portaria/874-1974-238249), de 31 de Dezembro, e [164/83](https://diariodarepublica.pt/dr/detalhe/portaria/164-1983-311421), de 23 de Fevereiro.\n\nO referido adicional constitui receita consignada ao Fundo de Assistência da Caixa, hoje designado Fundo Especial, cujo primeiro objectivo consistia em atribuir melhorias nas pensões e conceder, mediante autorização ministerial, subsídios de carácter permanente, cumulativos ou não com a pensão de reforma, aos profissionais de espectáculos que tivessem contribuído de forma notável para elevar o nível técnico ou artístico da profissão.\n\nPor outro lado, e para completar a sua função específica de previdência, podiam ser concedidos socorros extraordinários, à margem de qualquer compromisso regulamentar, de acordo com as disponibilidades financeiras do mesmo Fundo.\n\nNo entanto, nunca foi legalmente regulada a concessão das prestações financiadas por verbas do Fundo, pelo que houve lugar à adopção, meramente interna, de uma tabela de graduação dos complementos de pensão a atribuir.\n\nEntretanto, com a publicação do [Decreto-Lei n.º 407/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1982-375268), de 27 de Setembro, que criou duas novas prestações atribuíveis aos artistas intérpretes ou executantes - subsídio de gravidez e subsídio de reconversão profissional -, responsabilizando por parte do seu financiamento o Fundo Especial da Caixa de Previdência dos Profissionais de Espectáculos, e ainda com a publicação do [Decreto-Lei n.º 415/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1982-376473), de 7 de Outubro, que reconheceu ao Fundo de Fomento Cultural a competência para conceder subsídios de mérito cultural, tornou-se imperativa a necessidade de proceder à regulamentação do referido Fundo Especial.\n\nDe facto, só desta forma se poderá garantir, por um lado, o financiamento dos subsídios de gravidez e de reconversão profissional e, por outro, criar critérios objectivos de acesso a prestações periódicas complementares e de apoio social, determinadas exclusivamente pela carência económica e atribuíveis a todos os beneficiários da Caixa de Previdência dos Profissionais de Espectáculos.\n\nNestes termos, ao abrigo do disposto no artigo 6.º do [Decreto-Lei n.º 32748](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32748-1943-596512), de 15 de Abril de 1943, e no artigo 102.º do [Decreto n.º 28321](https://diariodarepublica.pt/dr/detalhe/decreto/28321-1937-443525), de 27 de Dezembro de 1937:\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social, aprovar o seguinte:\n\n1.º É aprovado o Regulamento do Fundo Especial da Caixa de Previdência dos Profissionais de Espectáculos, publicado em anexo.\n\n2.º São revogados os despachos que contrariem o conteúdo do Regulamento agora aprovado.\n\n3.º A presente portaria entra em vigor no dia 1 do mês seguinte àquele em que se completarem 30 dias sobre a data da sua publicação.\n\nSecretaria de Estado da Segurança Social.\n\nAssinada em 1 de Junho de 1983.\n\nO Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.\n\nREGULAMENTO DO FUNDO ESPECIAL DA CAIXA DE PREVIDÊNCIA DOS PROFISSIONAIS DE ESPECTÁCULOS"
+  },
+  "9744a660f959fc56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Do âmbito pessoal e material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Do âmbito pessoal e material"
+  },
+  "e9fe672ddde1d8b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "de0ba233d52c7ece": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Objectivo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Objectivo)\n\n1 - O presente Regulamento estabelece a concessão de prestações pecuniárias asseguradas pelo Fundo Especial da Caixa de Previdência dos Profissionais de Espectáculos, a seguir designado por Fundo.\n\n2 - A atribuição das prestações previstas no presente Regulamento não poderá prejudicar a comparticipação do Fundo nos encargos com a concessão dos subsídios de gravidez e de reconversão profissional, nos termos do [Decreto-Lei n.º 407/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1982-375268), de 27 de Setembro, e legislação regulamentar."
+  },
+  "8fc5759f8c13acd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Âmbito pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Âmbito pessoal)\n\nTêm direito às prestações previstas no presente Regulamento os beneficiários activos abrangidos pela Caixa de Previdência dos Profissionais de Espectáculos e os pensionistas que à data do início da pensão se encontrem abrangidos pela mesma instituição."
+  },
+  "ff276b9c03e8bb76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Âmbito material)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Âmbito material)\n\n1 - As prestações a conceder nos termos do presente Regulamento são:\n\na) Prestações periódicas complementares;\n\nb) Prestações de apoio social.\n\n2 - As prestações a que se refere o número anterior não têm a natureza de compromissos regulamentares.\n\n3 - A instituição gestora das prestações pode propor o seu aumento, diminuição, suspensão ou anulação, de acordo com as disponibilidades do Fundo, ouvido o Instituto de Gestão Financeira da Segurança Social e mediante parecer técnico actuarial da Direcção-Geral da Segurança Social."
+  },
+  "1ba3b19b5e89db1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Das prestações periódicas complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Das prestações periódicas complementares"
+  },
+  "fb48bd66cac940db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Prestações periódicas complementares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Prestações periódicas complementares)\n\n1 - Os complementos de pensão podem ser concedidos aos pensionistas de invalidez ou de velhice que se encontrem nas condições estabelecidas no artigo 5.º deste Regulamento e assim o requeiram.\n\n2 - Os complementos de pensão podem ainda ser concedidos aos pensionistas de sobrevivência que se encontrem nas condições previstas no artigo 5.º de acordo com a percentagem fixada para o cálculo da pensão de sobrevivência.\n\n3 - Ficam excluídos do disposto no n.º 1 os pensionistas que se encontrem a exercer qualquer actividade profissional remunerada."
+  },
+  "5f17cf394e7021f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Condições de atribuição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Condições de atribuição)\n\n1 - Têm acesso a complemento de pensão os pensionistas que tenham rendimentos ilíquidos mensais iguais ou inferiores a 40% da remuneração mínima mensal garantida à generalidade dos trabalhadores, desde que o rendimento ilíquido do respectivo agregado familiar não seja superior àquela remuneração.\n\n2 - Para efeito do número anterior, o agregado familiar é constituído pelos parentes e afins de linha recta e os de linha colateral até ao 3.º grau que convivam em economia familiar com o requerente.\n\n3 - Têm ainda acesso a complemento de pensão os pensionistas que, embora não satisfazendo, por si ou pelo seu agregado familiar, os requisitos de atribuição estabelecidos no n.º 1, se encontrem cumulativamente nas seguintes condições:\n\na) Tenham um agregado familiar cuja capitação de rendimentos não seja superior a 30% da remuneração mínima mensal;\n\nb) Se encontrem em situação de risco social grave, a determinar pelos competentes serviços de acção social, em consequência de perda ou diminuição de rendimentos ou acréscimo anormal de encargos determinados, designadamente por doença ou acidente."
+  },
+  "34a20287f09da783": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Averiguação oficiosa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Averiguação oficiosa)\n\n1 - A instituição gestora pode, a todo o tempo e quando o considerar justificado, solicitar a renovação da prova das condições de atribuição das prestações periódicas complementares susceptíveis de se modificarem com o decurso do tempo.\n\n2 - A falta não justificada de apresentação da prova a que se refere o número anterior nos prazos fixados pela instituição determina a suspensão do pagamento do complemento da pensão.\n\n3 - Nos casos referidos no número anterior, consideram-se perdidas a favor do Fundo as prestações do complemento de pensão correspondentes ao período de suspensão."
+  },
+  "2a33a81a9c131758": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Montante do complemento de pensão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Montante do complemento de pensão)\n\n1 - O montante do complemento de pensão é igual às seguintes percentagens da pensão social:\n\na) 80% para pensionistas com 5 ou mais pessoas a cargo;\n\nb) 60% para pensionistas com 3 ou 4 pessoas a cargo;\n\nc) 50% para pensionistas com 1 ou 2 pessoas a cargo;\n\nd) 40% para pensionistas sem pessoas a cargo.\n\n2 - O montante do complemento será arredondado para a dezena de escudos imediatamente superior."
+  },
+  "db1c09217b100365": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Das prestações de apoio social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Das prestações de apoio social"
+  },
+  "c59be755b760669e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Natureza e finalidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Natureza e finalidade)\n\n1 - As prestações pecuniárias de apoio social configuram-se com subsídios eventuais que podem ser atribuídos em casos de comprovada precariedade económica e com a finalidade de superar situações de risco social agravado, efectivo ou potencial, decorrente de uma das eventualidades tipificadas no artigo 11.º\n\n2 - As prestações a que se refere o número anterior não são cumuláveis com subsídios eventuais concedidos por outras instituições de segurança social."
+  },
+  "0d123636880e74c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Condições de atribuição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Condições de atribuição)\n\n1 - A atribuição das prestações referidas no artigo anterior depende da inexistência do direito a prestações conferidas por qualquer dos regimes contributivos de segurança social ou da manifesta insuficiência do seu valor face à situação concreta em apreço.\n\n2 - Podem também ser concedidas prestações de apoio social sempre que, embora haja direito a prestações de qualquer regime contributivo de segurança social, os beneficiários se encontrem a aguardar o início do seu pagamento.\n\n3 - Nos casos referidos no número anterior, os montantes recebidos a título de apoio social serão deduzidos do valor das prestações a pagar com efeitos retroactivos."
+  },
+  "3b96065485798ec3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Conceito de precariedade económica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Conceito de precariedade económica)\n\n1 - Consideram-se em situação de precariedade económica os beneficiários isolados ou os agregados familiares cuja capitação mensal seja inferior a, respectivamente, 40% ou 30% da remuneração mínima mensal garantida à generalidade dos trabalhadores.\n\n2 - Nos casos em que a capitação mensal, embora superior aos limites fixados no número anterior, seja comprovadamente insuficiente para fazer face ao risco social agravado, poderá ser proposta pelos serviços sociais da instituição gestora a atribuição de subsídios eventuais, desde que devidamente justificados."
+  },
+  "16fa1397c38f922d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Tipificação de eventualidades determinantes de risco social agravado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Tipificação de eventualidades determinantes de risco social agravado)\n\n1 - As eventualidades que, para efeitos desta secção se consideram como podendo determinar situações de risco social agravado são:\n\na) Desemprego;\n\nb) Doença;\n\nc) Deficiência ou invalidez;\n\nd) Morte;\n\ne) Grave desajustamento psicossocial;\n\nf) Encarceramento.\n\n2 - Sempre que sejam comprovadas situações de carência que, por si só, impeçam o exercício da actividade, poderá a instituição gestora, mediante parecer do seu serviço social, atribuir um subsídio reembolsável."
+  },
+  "d097053156ebafe5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Duração das prestações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Duração das prestações)\n\n1 - As prestações pecuniárias de apoio social a conceder face às eventualidades referidas no artigo anterior serão atribuídas por uma só vez ou em prestações mensais.\n\n2 - A concessão das prestações a que se refere a parte final do número anterior não poderá exceder o período de 3 meses, sem prejuízo de, em casos excepcionais, poder ser requerida a sua renovação."
+  },
+  "c7f2ea8684939c08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Montante das prestações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Montante das prestações)\n\n1 - O montante global das prestações de apoio social será fixado caso a caso e tendo em atenção os elementos constantes do processo, não podendo, no entanto, exceder o valor igual a 4 vezes a remuneração mínima mensal garantida à generalidade dos trabalhadores, mesmo nos casos em que se verifique renovação.\n\n2 - Desde que existam disponibilidades financeiras, poderá a instituição gestora propor superiormente a concessão de uma prestação de apoio social de valor superior ao fixado no número anterior, sempre que a situação de risco social agravado o justifique."
+  },
+  "a271c944cd76b572": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Do processo"
+  },
+  "24f4c1dd80f973b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Requerimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Requerimento)\n\nO requerimento para atribuição das prestações previstas neste Regulamento deverá ser apresentado na instituição de segurança social gestora acompanhado de declaração, sob compromisso de honra, do beneficiário, da composição do agregado familiar e do montante dos rendimentos que aufere, indicando a origem dos mesmos."
+  },
+  "40dc03387bde6e66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Organização dos processos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Organização dos processos)\n\n1 - Os processos para atribuição das prestações devem compreender, para além do requerimento e do documento referido no artigo anterior, os seguintes elementos:\n\na) Um relatório do serviço social da instituição gestora sobre as condições sócio-económicas do beneficiário e do agregado familiar;\n\nb) Quaisquer outros elementos que a instituição gestora considere adequados à correcta definição da situação do beneficiário, designadamente a verificação oficiosa de rendimentos.\n\n2 - Nos processos para a concessão de prestações de apoio social, o relatório a que se refere a alínea a) do número anterior deverá integrar a proposta fundamentada do subsídio a atribuir."
+  },
+  "5cf928defd21cf66": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Declaração de superveniência de rendimentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Declaração de superveniência de rendimentos)\n\n1 - A superveniência de rendimentos que ultrapassem os limites referidos no artigo 5.º será obrigatoriamente comunicada à instituição de segurança social gestora no prazo de 60 dias, contado a partir da sua verificação.\n\n2 - O previsto no número anterior não se aplica aos pensionistas cujos complementos de pensão tenham sido atribuídos antes da data da entrada em vigor do presente Regulamento."
+  },
+  "f870c57785d13fc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Decisão e homologação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Decisão e homologação)\n\n1 - Os processos para atribuição das prestações referidas no artigo 3.º, depois de devidamente instruídos, serão objecto de decisão por parte da instituição gestora sobre o fundamento dos requerimentos e, quando for caso disso, sobre o montante das prestações.\n\n2 - A decisão a que se refere o número anterior relativamente às prestações previstas no n.º 2 do artigo 13.º será sujeita a homologação do Secretário de Estado da Segurança Social, sem prejuízo das delegações de competência estabelecidas."
+  },
+  "b647964e8c4601dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Pagamento de prestações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Pagamento de prestações)\n\n1 - O pagamento das prestações periódicas complementares compete ao Centro Nacional de Pensões.\n\n2 - O pagamento das prestações de apoio social compete à instituição gestora.\n\n3 - Nos casos referidos no n.º 1, a instituição gestora enviará ao Centro Nacional de Pensões os elementos necessários ao processamento e pagamento das prestações."
+  },
+  "aec487796f2b8f94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Da gestão financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Da gestão financeira"
+  },
+  "05aa4179400016c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Gestão financeira)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Gestão financeira)\n\nA gestão financeira do Fundo compete ao Instituto de Gestão Financeira da Segurança Social e será exercida de forma diferenciada, com contabilização autónoma e de modo a garantir uma adequada aplicação dos valores disponíveis, em função das despesas inerentes às prestações financiadas pelo Fundo."
+  },
+  "ed11a21e9bf696c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Receitas do Fundo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Receitas do Fundo)\n\nConstituem receitas do Fundo:\n\na) O adicional sobre o preço dos bilhetes de espectáculos fixado nas Portarias n.os [874/74](https://diariodarepublica.pt/dr/detalhe/portaria/874-1974-238249), de 31 de Dezembro, e [164/83](https://diariodarepublica.pt/dr/detalhe/portaria/164-1983-311421), de 23 de Fevereiro;\n\nb) As contribuições relativas a profissionais de espectáculos estrangeiros referidas nos artigos 12.º e 17.º do Regulamento da Caixa de Previdência dos Profissionais de Espectáculos;\n\nc) Os rendimentos de capital;\n\nd) As doações, legados e heranças;\n\ne) Os rendimentos líquidos obtidos em espectáculos promovidos com essa finalidade;\n\nf) Quaisquer receitas que legalmente lhe venham a ser atribuídas."
+  },
+  "dbdc2f2423223ee7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Contabilidade de receitas e despesas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Contabilidade de receitas e despesas)\n\n1 - As receitas e despesas do Fundo serão contabilizadas respectivamente no Instituto de Gestão Financeira e nas instituições pagadoras das prestações a que se referem os n.os 1 e 2 do artigo 17.º\n\n2 - O Instituto de Gestão Financeira da Segurança Social remeterá mensalmente às instituições pagadoras das prestações o montante das despesas previstas."
+  },
+  "729618b20e29112a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV"
+  },
+  "08b74c6a212e3c94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nDisposições finais e transitórias\n\n(Subsistência de direitos dos actuais beneficiários do Fundo)\n\n1 - Os valores dos complementos de pensão atribuídos até à data da entrada em vigor do presente Regulamento manter-se-ão em vigor, sem prejuízo do disposto nos números seguintes.\n\n2 - Os actuais beneficiários do Fundo podem requerer a revisão do montante do complemento, sempre que, da aplicação das disposições deste Regulamento, resulte uma prestação periódica complementar de valor superior.\n\n3 - O requerimento referido no número anterior deverá ser apresentado na instituição de segurança social gestora no prazo de 3 meses, contados da data da entrada em vigor deste diploma, produzindo o mesmo efeito a partir do mês seguinte, se tiver decisão favorável."
+  },
+  "c74f42f0cb9f46b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Gestão administrativa das prestações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Gestão administrativa das prestações)\n\nA gestão das prestações previstas neste Regulamento compete à Caixa de Previdência dos Profissionais de Espectáculos."
+  },
+  "9be237b2a78504a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Revisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Revisão)\n\n1 - O presente Regulamento será obrigatoriamente revisto 2 anos após a sua entrada em vigor, com vista a adaptá-lo, na base da experiência decorrida, às reais situações de carência dos beneficiários e às disponibilidades financeiras do Fundo.\n\n2 - No final do primeiro ano de gestão do Fundo, de acordo com o presente Regulamento, proceder-se-á à avaliação dos dados físicos e financeiros recolhidos pela Caixa de Previdência dos Profissionais de Espectáculos e pelo Instituto de Gestão Financeira da Segurança Social, por forma a possibilitar uma eventual adequação pontual das prestações aos meios existentes.\n\nO Secretário de Estado da Segurança Social, António José de Castro Bagão Félix."
+  },
+  "efacb3471044a773": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Âmbito pessoal)",
+   "in_force_from": "1987-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25."
+   ],
+   "markdown": "###### Artigo 2.º — (Âmbito pessoal)\n\n1 - Têm direito às prestações previstas no presente Regulamento os beneficiários activos abrangidos pela Caixa de Previdência dos Profissionais de Espectáculos e os pensionistas que, à data do início da pensão, se encontrem abrangidos pela mesma instituição.\n\n2 - As prestações a que se refere o número anterior são também concedidas aos subsidiados do Fundo de Assistência da Caixa.\n\n> Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25."
+  },
+  "e439f19e6eb88ad1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Condições de atribuição)",
+   "in_force_from": "1987-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25."
+   ],
+   "markdown": "###### Artigo 5.º — (Condições de atribuição)\n\n1 - Têm acesso a complemento de pensão os pensionistas que tenham rendimentos ilíquidos mensais iguais ou inferiores a 50% da remuneração mínima mensal garantida à generalidade dos trabalhadores, desde que o rendimento ilíquido do respectivo agregado familiar não seja superior àquela remuneração.\n\n2 - Para efeito do número anterior, o agregado familiar é constituído pelos parentes e afins de linha recta e os de linha colateral até ao 3.º grau que convivam em economia familiar com o requerente.\n\n3 - Têm ainda acesso a complemento de pensão os pensionistas que, embora não satisfazendo, por si ou pelo seu agregado familiar, os requisitos de atribuição estabelecidos no n.º 1, se encontrem cumulativamente nas seguintes condições:\n\na) Tenham um agregado familiar cuja capitação de rendimentos não seja superior a 30% da remuneração mínima mensal;\n\nb) Se encontrem em situação de risco social grave, a determinar pelos competentes serviços de acção social, em consequência de perda ou diminuição de rendimentos ou acréscimo anormal de encargos determinados, designadamente por doença ou acidente.\n\n> Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25."
+  },
+  "e345debd9ef24f86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Montante das prestações)",
+   "in_force_from": "1987-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25."
+   ],
+   "markdown": "###### Artigo 13.º — (Montante das prestações)\n\n1 - O montante global das prestações de apoio social será fixado caso a caso e tendo em atenção os elementos constantes do processo, não podendo, no entanto, exceder o valor igual a quatro vezes a remuneração mínima mensal garantida à generalidade dos trabalhadores.\n\n2 - Desde que existam disponibilidades financeiras, poderá a instituição gestora propor superiormente a concessão de uma prestação de apoio social de valor superior ao fixado no número anterior, sempre que a situação de risco social agravado o justifique.\n\n3 - O montante total das prestações de apoio social atribuídas em cada ano não pode exceder o valor correspondente a 1,5% das receitas do Fundo no ano anterior.\n\n> Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25."
+  },
+  "627dca0b8b6b6e88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Revisão)",
+   "in_force_from": "1987-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25."
+   ],
+   "markdown": "###### Artigo 24.º — (Revisão)\n\nO presente Regulamento deve ser revisto de dois em dois anos com vista a adaptá-lo às reais situações de carência dos beneficiários e às disponibilidades financeiras do Fundo.\n\n> Alterado pelo/a [Portaria n.º 131/87](https://diariodarepublica.pt/dr/detalhe/portaria/131-1987-662733), publicado em 1987-02-25.\n\nO Secretário de Estado da Segurança Social, António José de Castro Bagão Félix."
+  }
+ }
+}

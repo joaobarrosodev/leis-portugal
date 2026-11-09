@@ -1,0 +1,167 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:274856:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1968-05-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5ea12a7006a870ed",
+    "0636a654078ac3cf"
+   ]
+  },
+  {
+   "date": "1970-07-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:140111:por",
+     "title": "Decreto-Lei n.º 306/70",
+     "published": "1970-07-02",
+     "dre_path": "/dr/detalhe/decreto-lei/306-1970-140111"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "8fd9cd41cfd6ee56",
+    "8aa77c2eae270044",
+    "902f2c35d552817e",
+    "3a88d8a402ab2e55",
+    "4cb186d098d8d0ac",
+    "9d964c334264855e",
+    "1754c930e910bb09",
+    "aca51c076cbdde34",
+    "3d39daf34ec45c02",
+    "f7ba9e218ffdd58f",
+    "23b9b64331038979",
+    "92b581ff53d7465a"
+   ]
+  }
+ ],
+ "fragments": {
+  "5ea12a7006a870ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. É autorizado o Governo a abrir créditos consignados à defesa nacional para reequipamento extraordinário, até ao montante global de 2000000 de contos.\n\n2. O montante referido no número anterior é destinado ao reequipamento extraordinário do Exército e da Aeronáutica, segundo distribuição a determinar pelo Ministro da Defesa Nacional.\n\n3. Os créditos previstos no n.º 1 serão inscritos no orçamento de Encargos Gerais da Nação, em artigo independente, sob a designação «Reequipamento extraordinário do Exército e da Aeronáutica».\n\n4. Os créditos serão abertos de forma que se não ultrapasse o montante de 1000000 de contos em cada um dos anos de 1968 e 1969.\n\n5. Poderá o saldo que se verificar no encerramento das contas de 1968 e 1969 transitar para os orçamentos do ano ou anos seguintes, independentemente do preceituado na primeira parte do artigo 6.º, n.º 1, do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968.\n\nArt. 2.º - 1. A utilização do montante de 2000000 de contos autorizados por este diploma efectuar-se-á de acordo com planos elaborados pelo Ministério do Exército ou pela Secretaria de Estado da Aeronáutica, nos quais se estabelecerá a ordem de prioridade das aquisições a realizar.\n\n2. Os planos de aquisições referidos no número anterior serão submetidos à aprovação do Ministro da Defesa Nacional.\n\nArt. 3.º - 1. Para execução dos planos referidos no artigo anterior, serão constituídas as seguintes comissões:\n\na) No Ministério do Exército e na Secretaria de Estado da Aeronáutica: comissões formadas por três elementos de cada uma das direcções das armas ou serviços nomeadas pelo Ministro ou Secretário de Estado respectivos, sob proposta das referidas direcções;\n\nb) Uma comissão formada por cinco membros: um designado pelo Ministro da Defesa Nacional e que presidirá; dois designados pelo Ministério do Exército ou pelo Secretário de Estado da Aeronáutica - consoante o plano a executar - e dois designados pelo Ministro das Finanças, podendo o presidente ser assistido por um assessor nomeado pelo Ministro da Defesa Nacional\n\n2. As comissões do Ministério do Exército ou da Secretaria de Estado da Aeronáutica têm por missão:\n\na) Determinar as características de ordem técnica do material a adquirir;\n\nb) Elaborar os cadernos de encargos referentes às aquisições a realizar e promover a abertura dos concursos para as aquisições previstas neste diploma, nos termos que lhes forem estabelecidos pela comissão referida na alínea b) do n.º 1, tendo em conta não só as disposições legais em matéria de despesas públicas, como a eventual dispensa dessas disposições legais sempre que não seja possível ou aconselhável o seu cumprimento;\n\nc) Dar parecer sobre as propostas obtidas em consequência dos concursos realizados.\n\n3. À comissão referida na alínea b) do n.º 1 compete:\n\na) Fixar as condições a que devem obedecer a elaboração dos cadernos de encargos e os concursos para adjudicação, nomeadamente no que se refere a regime de pagamentos;\n\nb) Promover as adjudicações tendo em conta as disposições legais sobre despesas públicas, submetendo à apreciação do Ministro das Finanças, depois de obtida a concordância do Ministro da Defesa Nacional, as que envolvam a dispensa daquelas disposições;\n\nc) Habilitar, em tempo oportuno, os conselhos administrativos, mencionados no artigo 5.º com os meios financeiros necessários ao pagamento dos fornecimentos realizados;\n\nd) Promover a remessa de cópias ou fotocópias de todos os contratos de aquisição às 1.ª e 5.ª Repartições da Direcção-Geral da Contabilidade Pública, conforme se trate, respectivamente, de fornecimentos destinados à Força Aérea e ao Exército.\n\n4. O Ministro do Exército e o Secretário de Estado da Aeronáutica, desde que pelo Ministro da Defesa Nacional lhes seja conferida expressamente delegação, podem, dentro do limite global por ele estabelcido, autorizar a realização de despesas previstas neste diploma em consequência de aquisições que lhes sejam propostas pelas comissões indicadas na alínea a) do n.º 1, dentro da competência que àqueles Ministro e Secretário de Estado é atribuída pelo artigo 3.º do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968.\n\n5. O despacho de delegação do Ministro da Defesa Nacional será proferido sob informação da comissão indicada na alínea b) do n.º 1.\n\nArt. 4.º Os encargos financeiros resultantes das condições de pagamento fixadas pelas comissões a que se refere a alínea b) do n.º 1 do artigo 3.º constituirão despesa ordinária do Ministério das Finanças, a liquidar através de dotação própria a inscrever na Secretaria-Geral deste Ministério.\n\nArt. 5.º Compete ao conselho administrativo da Chefia do Serviço do Orçamento e Administração do Ministério do Exército e ao conselho administrativo da Direcção do Serviço de Material da Força Aérea o pagamento das despesas efectuadas em harmonia com este diploma e também a apresentação até 31 de Março de cada ano das respectivas contas à comissão referida na alínea b) do n.º 1 do artigo 3.º\n\nArt. 6.º A comissão referida na alínea b) do n.º 1 do artigo 3.º elaborará, até 15 de Abril de cada ano, relatório da acção exercida e parecer sobre as contas que lhe forem presentes nos termos do artigo anterior, submetendo-os a visto dos Ministros da Defesa Nacional e das Finanças, depois do que as mesmas se consideram legitimadas para todos os efeitos.\n\nArt. 7.º Em execução do disposto no n.º 4 do artigo 1.º do presente decreto-lei, é aberto no Ministério das Finanças um crédito especial da quantia de 1000000 de contos a inscrever no orçamento de Encargos Gerais da Nação respeitante ao corrente ano económico sob a forma seguinte:\n\nDespesa extraordinária"
+  },
+  "0636a654078ac3cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO 14.º — Defesa nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 14.º — Defesa nacional\n\nArtigo 318.º-A «Reequipamento extraordinário do Exército e da Aeronáutica» ... 1000000000$00\n\nArt. 8.º Para compensação do crédito previsto no artigo precedente é adicionada igual importância à verba inscrita no capítulo 9.º, artigo 284.º «Produto de venda de títulos ou de empréstimos», do actual orçamento das receitas do Estado.\n\nArt. 9.º Este diploma entra imediatamente em vigor.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 4 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  },
+  "8fd9cd41cfd6ee56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "8aa77c2eae270044": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. É autorizado o Governo a abrir créditos consignados à defesa nacional para reequipamento extraordinário, até ao montante global de 2000000 de contos.\n\n2. O montante referido no número anterior é destinado ao reequipamento extraordinário do Exército e da Aeronáutica, segundo distribuição a determinar pelo Ministro da Defesa Nacional.\n\n3. Os créditos previstos no n.º 1 serão inscritos no orçamento de Encargos Gerais da Nação, em artigo independente, sob a designação «Reequipamento extraordinário do Exército e da Aeronáutica».\n\n4. Os créditos serão abertos de forma que se não ultrapasse o montante de 1000000 de contos em cada um dos anos de 1968 e 1969.\n\n5. Poderá o saldo que se verificar no encerramento das contas de 1968 e 1969 transitar para os orçamentos do ano ou anos seguintes, independentemente do preceituado na primeira parte do artigo 6.º, n.º 1, do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968."
+  },
+  "902f2c35d552817e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A utilização do montante de 2000000 de contos autorizados por este diploma efectuar-se-á de acordo com planos elaborados pelo Ministério do Exército ou pela Secretaria de Estado da Aeronáutica, nos quais se estabelecerá a ordem de prioridade das aquisições a realizar.\n\n2. Os planos de aquisições referidos no número anterior serão submetidos à aprovação do Ministro da Defesa Nacional."
+  },
+  "3a88d8a402ab2e55": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1970-07-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 306/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1970-140111), publicado em 1970-07-02."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1. Para execução dos planos referidos no artigo anterior, serão constituídas as seguintes comissões:\n\na) No Ministério do Exército e na Secretaria de Estado da Aeronáutica: comissões formadas por três elementos de cada uma das direcções das armas ou serviços nomeadas pelo Ministro ou Secretário de Estado respectivos, sob proposta das referidas direcções;\n\nb) Uma comissão formada por cinco membros: um designado pelo Ministro da Defesa Nacional e que presidirá; dois designados pelo Ministério do Exército ou pelo Secretário de Estado da Aeronáutica - consoante o plano a executar - e dois designados pelo Ministro das Finanças, podendo o presidente ser assistido por um assessor nomeado pelo Ministro da Defesa Nacional\n\n2. As comissões do Ministério do Exército ou da Secretaria de Estado da Aeronáutica têm por missão:\n\na) Determinar as características de ordem técnica do material a adquirir;\n\nb) Elaborar os cadernos de encargos referentes às aquisições a realizar e promover a abertura dos concursos para as aquisições previstas neste diploma, nos termos que lhes forem estabelecidos pela comissão referida na alínea b) do n.º 1, tendo em conta não só as disposições legais em matéria de despesas públicas, como a eventual dispensa dessas disposições legais sempre que não seja possível ou aconselhável o seu cumprimento;\n\nc) Dar parecer sobre as propostas obtidas em consequência dos concursos realizados.\n\n3. À comissão referida na alínea b) do n.º 1 compete:\n\na) Fixar as condições a que devem obedecer a elaboração dos cadernos de encargos e os concursos para adjudicação, nomeadamente no que se refere a regime de pagamentos;\n\nb) Promover as adjudicações tendo em conta as disposições legais sobre despesas públicas, submetendo à apreciação do Ministro das Finanças, depois de obtida a concordância do Ministro da Defesa Nacional, as que envolvam a dispensa daquelas disposições;\n\nc) Habilitar, em tempo oportuno, o Conselho Administrativo do Secretariado-Geral da Defesa Nacional com os meios financeiros necessários ao pagamento dos fornecimentos realizados;\n\nd) Promover a remessa de cópias ou fotocópias de todos os contratos de aquisição à 1.ª Repartição da Direcção-Geral da Contabilidade Pública.\n\n4. O Ministro do Exército e o Secretário de Estado da Aeronáutica, desde que pelo Ministro da Defesa Nacional lhes seja conferida expressamente delegação, podem, dentro do limite global por ele estabelcido, autorizar a realização de despesas previstas neste diploma em consequência de aquisições que lhes sejam propostas pelas comissões indicadas na alínea a) do n.º 1, dentro da competência que àqueles Ministro e Secretário de Estado é atribuída pelo artigo 3.º do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968.\n\n5. O despacho de delegação do Ministro da Defesa Nacional será proferido sob informação da comissão indicada na alínea b) do n.º 1.\n\n> Alterado pelo/a [Decreto-Lei n.º 306/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1970-140111), publicado em 1970-07-02."
+  },
+  "4cb186d098d8d0ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs encargos financeiros resultantes das condições de pagamento fixadas pelas comissões a que se refere a alínea b) do n.º 1 do artigo 3.º constituirão despesa ordinária do Ministério das Finanças, a liquidar através de dotação própria a inscrever na Secretaria-Geral deste Ministério."
+  },
+  "9d964c334264855e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1970-07-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 306/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1970-140111), publicado em 1970-07-02."
+   ],
+   "markdown": "###### Artigo 5.º\n\nCompete ao Conselho Administrativo do Secretariado-Geral da Defesa Nacional o pagamento dos encargos com o reequipamento extraordinário do Exército e da Aeronáutica e também a apresentação, até 31 de Março de cada ano, das respectivas contas à comissão referida na alínea b) do n.º 1 do artigo 3.º\n\n> Alterado pelo/a [Decreto-Lei n.º 306/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-1970-140111), publicado em 1970-07-02."
+  },
+  "1754c930e910bb09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA comissão referida na alínea b) do n.º 1 do artigo 3.º elaborará, até 15 de Abril de cada ano, relatório da acção exercida e parecer sobre as contas que lhe forem presentes nos termos do artigo anterior, submetendo-os a visto dos Ministros da Defesa Nacional e das Finanças, depois do que as mesmas se consideram legitimadas para todos os efeitos."
+  },
+  "aca51c076cbdde34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nEm execução do disposto no n.º 4 do artigo 1.º do presente decreto-lei, é aberto no Ministério das Finanças um crédito especial da quantia de 1000000 de contos a inscrever no orçamento de Encargos Gerais da Nação respeitante ao corrente ano económico sob a forma seguinte:\n\nDespesa extraordinária"
+  },
+  "3d39daf34ec45c02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO 14.º — Defesa nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO 14.º — Defesa nacional"
+  },
+  "f7ba9e218ffdd58f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 318.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 318.º-A\n\n«Reequipamento extraordinário do Exército e da Aeronáutica» ... 1000000000$00"
+  },
+  "23b9b64331038979": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara compensação do crédito previsto no artigo precedente é adicionada igual importância à verba inscrita no capítulo 9.º, artigo 284.º «Produto de venda de títulos ou de empréstimos», do actual orçamento das receitas do Estado."
+  },
+  "92b581ff53d7465a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nEste diploma entra imediatamente em vigor.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 4 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  }
+ }
+}

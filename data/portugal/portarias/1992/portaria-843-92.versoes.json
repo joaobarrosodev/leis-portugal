@@ -1,0 +1,106 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:240657:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-09-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1601cf8788a1cf10",
+    "6f7006fbaf2e271b",
+    "064395e8ee9f6bf9",
+    "bc18ca14972cbb29",
+    "d61da63fb5bb578b",
+    "3fc8ed5f7d66510b"
+   ]
+  },
+  {
+   "date": "1993-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:409490:por",
+     "title": "Declaração de Rectificação n.º 64/93",
+     "published": "1993-03-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/64-1993-409490"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "1601cf8788a1cf10",
+    "6f7006fbaf2e271b",
+    "064395e8ee9f6bf9",
+    "5b9bc7da02da54c7",
+    "d61da63fb5bb578b",
+    "3fc8ed5f7d66510b"
+   ]
+  }
+ ],
+ "fragments": {
+  "1601cf8788a1cf10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Setembro\n\nA parte I da [Portaria n.º 722/85](https://diariodarepublica.pt/dr/detalhe/portaria/722-1985-621946), de 25 de Setembro, consagra no n.º 4 do artigo 16.º do capítulo II a organização e articulação do dispositivo da Brigada de Trânsito.\n\nEsta composição, que se tem mantido praticamente inalterável desde os já cerca de 21 anos de existência da Brigada de Trânsito, face à permanente evolução de tudo o que se relaciona com a circulação rodoviária, tem vindo progressivamente a manifestar-se desajustada para responder com eficácia às cada vez mais e maiores solicitações que lhe são colocadas.\n\nTorna-se, pois, necessário repensar o posicionamento de algumas das suas subunidades, bem como a criação de outras, de modo a propiciar-lhe mais flexibilidade, com a consequente garantia de uma maior eficácia no cumprimento da sua missão.\n\nAtento o disposto nos artigos 25.º, n.º 6, 34.º, n.º 2, alínea a), e 86.º do [Decreto-Lei n.º 333/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1983-453783), de 14 de Julho:\n\nManda o Governo, pelos Ministros da Defesa Nacional e da Administração Interna, que os os artigos 14.º e 16.º da parte I e o artigo 12.º da parte II da [Portaria n.º 722/85](https://diariodarepublica.pt/dr/detalhe/portaria/722-1985-621946), de 25 de Setembro, passem a ter a seguinte redacção:"
+  },
+  "6f7006fbaf2e271b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "PARTE I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE I\n\n..."
+  },
+  "064395e8ee9f6bf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — [...]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — [...]\n\n1 - ...\n\n2 - A Brigada de Trânsito articula-se em grupos regionais de trânsito e destacamentos de trânsito, cobrindo todo o território do continente, e é comandada por um oficial de patente de coronel."
+  },
+  "bc18ca14972cbb29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — [...]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — [...]\n\n...\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Unidade especial:\n\nBrigada de Trânsito:\n\n...\n\ne) Grupo Regional de Trânsito n.º 1 - Lisboa:\n\n1) Destacamento de Trânsito n.º 11 - Lisboa;\n\n2) Destacamento de Trânsito n.º 12 - Carcavelos;\n\n3) Destacamento de Trânsito n.º 13 - Torres Vedras;\n\n4) Destacamento de Trânsito n.º 14 - Carregado;\n\nf) Grupo Regional de Trânsito n.º 2 - Fogueteiro, provisoriamente em:\n\n1) Destacamento de Trânsito n.º 21 - Fogueteiro;\n\n2) Destacamento de Trânsito n.º 22 - Santarém;\n\n3) Destacamento de Trânsito n.º 23 - Leiria;\n\n4) Destacamento de Trânsito n.º 24 - Setúbal;\n\ng) Grupo Regional de Trânsito n.º 3 - Évora:\n\n1) Destacamento de Trânsito n.º 31 - Faro;\n\n2) Destacamento de Trânsito n.º 32 - Beja;\n\n3) Destacamento de Trânsito n.º 33 - Évora;\n\n4) Destacamento de Trânsito n.º 34 - Portalegre;\n\nh) Grupo Regional de Trânsito n.º 4 - Porto (Carmo):\n\n1) Destacamento de Trânsito n.º 43 - Braga;\n\n2) Destacamento de Trânsito n.º 44 - Porto (Carmo);\n\n3) Destacamento de Trânsito n.º 45 - Viana do Castelo;\n\n4) Destacamento de Trânsito n.º 46 - Vila Real;\n\n5) Destacamento de Trânsito n.º 47 - Bragança;\n\ni) Grupo Regional de Trânsito n.º 5 - Coimbra:\n\n1) Destacamento de Trânsito n.º 51 - Viseu;\n\n2) Destacamento de Trânsito n.º 52 - Aveiro;\n\n3) Destacamento de Trânsito n.º 53 - Coimbra;\n\n4) Destacamento de Trânsito n.º 54 - Guarda;\n\n5) Destacamento de Trânsito n.º 55 - Castelo Branco.\n\n5 - ..."
+  },
+  "d61da63fb5bb578b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "PARTE II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## PARTE II\n\n..."
+  },
+  "3fc8ed5f7d66510b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Do comandante de posto ou subunidade equivalente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Do comandante de posto ou subunidade equivalente\n\n...\n\nMinistérios da Defesa Nacional e da Administração Interna.\n\nAssinada em 5 de Agosto de 1992.\n\nO Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - Pelo Ministro da Administração Interna, Carlos Manuel Sousa Encarnação, Secretário de Estado Adjunto do Ministro da Administração Interna."
+  },
+  "5b9bc7da02da54c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — [...]",
+   "in_force_from": "1993-03-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 64/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1993-409490), publicado em 1993-03-31."
+   ],
+   "markdown": "###### Artigo 16.º — [...]\n\n...\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Unidade especial:\n\nBrigada de Trânsito:\n\n...\n\ne) Grupo Regional de Trânsito n.º 1 - Lisboa:\n\n1) Destacamento de Trânsito n.º 11 - Lisboa;\n\n2) Destacamento de Trânsito n.º 12 - Carcavelos;\n\n3) Destacamento de Trânsito n.º 13 - Torres Vedras;\n\n4) Destacamento de Trânsito n.º 14 - Carregado;\n\nf) Grupo Regional de Trânsito n.º 2 - Fogueteiro, provisoriamente em Santarém:\n\n1) Destacamento de Trânsito n.º 21 - Fogueteiro;\n\n2) Destacamento de Trânsito n.º 22 - Santarém;\n\n3) Destacamento de Trânsito n.º 23 - Leiria;\n\n4) Destacamento de Trânsito n.º 24 - Setúbal;\n\ng) Grupo Regional de Trânsito n.º 3 - Évora:\n\n1) Destacamento de Trânsito n.º 31 - Faro;\n\n2) Destacamento de Trânsito n.º 32 - Beja;\n\n3) Destacamento de Trânsito n.º 33 - Évora;\n\n4) Destacamento de Trânsito n.º 34 - Portalegre;\n\nh) Grupo Regional de Trânsito n.º 4 - Porto (Carmo):\n\n1) Destacamento de Trânsito n.º 43 - Braga;\n\n2) Destacamento de Trânsito n.º 44 - Porto (Carmo);\n\n3) Destacamento de Trânsito n.º 45 - Viana do Castelo;\n\n4) Destacamento de Trânsito n.º 46 - Vila Real;\n\n5) Destacamento de Trânsito n.º 47 - Bragança;\n\ni) Grupo Regional de Trânsito n.º 5 - Coimbra:\n\n1) Destacamento de Trânsito n.º 51 - Viseu;\n\n2) Destacamento de Trânsito n.º 52 - Aveiro;\n\n3) Destacamento de Trânsito n.º 53 - Coimbra;\n\n4) Destacamento de Trânsito n.º 54 - Guarda;\n\n5) Destacamento de Trânsito n.º 55 - Castelo Branco.\n\n5 - ...\n\n> Alterado pelo/a [Declaração de Rectificação n.º 64/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1993-409490), publicado em 1993-03-31."
+  }
+ }
+}

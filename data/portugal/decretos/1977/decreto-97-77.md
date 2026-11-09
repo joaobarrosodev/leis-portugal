@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-10-15'
+version_history:
+  file: decreto-97-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-07-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-10-15'
+    amending: pt:dre:279392:por
+    amending_title: Decreto Regulamentar n.º 67/77
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:48:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 67/77. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1977/decreto-97-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,17 +135,23 @@ Ao abrigo do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.p
 
 O Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º - 1. O director-geral dos Desportos será coadjuvado por um subdirector-geral, que exercerá as funções que lhe forem confiadas pelo director-geral.
+###### Artigo 1.º
+
+1. O director-geral dos Desportos será coadjuvado por um subdirector-geral, que exercerá as funções que lhe forem confiadas pelo director-geral.
 
 2. O subdirector-geral substituirá o director-geral nas suas faltas e impedimentos.
 
 3. O lugar de subdirector-geral será provido por escolha do Ministro da Educação e Investigação Científica de entre diplomados com curso superior e de reconhecida competência.
 
-Art. 2.º - 1. Ao quadro do pessoal dirigente e técnico da Direcção-Geral dos Desportos constante do mapa I anexo ao [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março, é acrescentado um lugar de subdirector-geral, que se integra no quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+###### Artigo 2.º
 
-2. É extinto o lugar de adjunto do director-geral constante do mapa I anexo ao [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março.
+1. Ao quadro do pessoal dirigente e técnico da Direcção-Geral dos Desportos constante do mapa I anexo ao [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março, é acrescentado um lugar de subdirector-geral, que se integra no quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+
+2 - É extinto, quando vagar, o lugar de adjunto do director-geral constante do mapa I anexo ao [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março.
 
 3. O acréscimo de encargos será liquidado, no corrente ano, pelas disponibilidades da verba respectiva, que, para tanto, se considera global.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 67/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1977-279392), publicado em 1977-10-15.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Mário Augusto Sottomayor Leal Cardia.
 

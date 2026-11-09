@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-11-18'
+version_history:
+  file: decreto-lei-131-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-04-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-11-18'
+    amending: pt:dre:458234:por
+    amending_title: Decreto-Lei n.º 550/80
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:01:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 550/80. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-131-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,7 +143,9 @@ Atendendo ainda que essa reserva já existe, presentemente, mas formada à custa
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1. É criada uma unidade do Comando-Geral, na dependência directa deste, designada por Corpo de Intervenção da PSP.
+###### Artigo 1.º
+
+1. É criada uma unidade do Comando-Geral, na dependência directa deste, designada por Corpo de Intervenção da PSP.
 
 2. A unidade tem a seguinte constituição:
 
@@ -139,7 +157,9 @@ Grupos de intervenção.
 
 3. O número de grupos de intervenção é de três.
 
-Art. 2.º O quadro actual da Polícia de Segurança Pública será aumentado do seguinte pessoal:
+###### Artigo 2.º
+
+O quadro actual da Polícia de Segurança Pública será aumentado do seguinte pessoal:
 
 1 tenente-coronel ou major.
 
@@ -161,15 +181,27 @@ Art. 2.º O quadro actual da Polícia de Segurança Pública será aumentado do 
 
 662
 
-Art. 3.º - 1. O Corpo de Intervenção da PSP terá um conselho administrativo, ao qual são aplicáveis as disposições em vigor para os conselhos administrativos dos comandos de Polícia, previstos no [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e seu regulamento, aprovado pelo [Decreto-Lei n.º 44447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44447-1962-163048), de 4 de Julho de 1962, e demais legislação aplicável.
+###### Artigo 3.º
+
+1. O Corpo de Intervenção da PSP terá um conselho administrativo, ao qual são aplicáveis as disposições em vigor para os conselhos administrativos dos comandos de Polícia, previstos no [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e seu regulamento, aprovado pelo [Decreto-Lei n.º 44447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44447-1962-163048), de 4 de Julho de 1962, e demais legislação aplicável.
 
 2. O conselho administrativo é constituído pelo 2.º comandante, que preside, por um comissário, que o secretaria, e por um graduado, que exerce as funções de tesoureiro.
 
-Art. 4.º O comandante do Corpo de Intervenção tem competência disciplinar igual à de comandante distrital.
+###### Artigo 4.º
 
-Art. 5.º O 2.º comandante tem competência disciplinar igual à de comandante de divisão da PSP.
+O comandante do Corpo de Intervenção tem competência disciplinar igual à do comandante distrital da Polícia de Segurança Pública de Lisboa.
 
-Art. 6.º A actualização dos QO da PSP, a que se refere o artigo 2.º do presente diploma, terá lugar em duas fases, constando da primeira, a vigorar de imediato, o comando, formação e dois grupos de intervenção, a que corresponde o aumento do seguinte pessoal:
+> Alterado pelo/a [Decreto-Lei n.º 550/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1980-458234), publicado em 1980-11-18.
+
+###### Artigo 5.º
+
+O 2.º comandante tem a mesma competência disciplinar do 2.º comandante da Polícia de Segurança Pública de Lisboa.
+
+> Alterado pelo/a [Decreto-Lei n.º 550/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1980-458234), publicado em 1980-11-18.
+
+###### Artigo 6.º
+
+A actualização dos QO da PSP, a que se refere o artigo 2.º do presente diploma, terá lugar em duas fases, constando da primeira, a vigorar de imediato, o comando, formação e dois grupos de intervenção, a que corresponde o aumento do seguinte pessoal:
 
 1 tenente-coronel ou major.
 
@@ -191,7 +223,9 @@ Art. 6.º A actualização dos QO da PSP, a que se refere o artigo 2.º do prese
 
 491
 
-Art. 7.º Numa 2.ª fase, a vigorar a partir de 1 de Janeiro de 1978, será criado o 3.º grupo de intervenção, a que corresponderá o aumento dos QO da PSP do seguinte pessoal:
+###### Artigo 7.º
+
+Numa 2.ª fase, a vigorar a partir de 1 de Janeiro de 1978, será criado o 3.º grupo de intervenção, a que corresponderá o aumento dos QO da PSP do seguinte pessoal:
 
 1 primeiro-comissário.
 
@@ -203,9 +237,13 @@ Art. 7.º Numa 2.ª fase, a vigorar a partir de 1 de Janeiro de 1978, será cria
 
 155
 
-Art. 8.º Os encargos resultantes da execução deste diploma são suportados, no corrente ano económico, pelas sobras que se verificarem nas dotações orçamentais do Ministério da Administração Interna.
+###### Artigo 8.º
 
-Art. 9.º Fica revogado o disposto no [Decreto-Lei n.º 277/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1976-502578), de 14 de Abril.
+Os encargos resultantes da execução deste diploma são suportados, no corrente ano económico, pelas sobras que se verificarem nas dotações orçamentais do Ministério da Administração Interna.
+
+###### Artigo 9.º
+
+Fica revogado o disposto no [Decreto-Lei n.º 277/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1976-502578), de 14 de Abril.
 
 Visto e aprovado em Conselho de Ministros. - Henrique Teixeira Queirós de Barros - Manuel da Costa Brás - Henrique Medina Carreira.
 

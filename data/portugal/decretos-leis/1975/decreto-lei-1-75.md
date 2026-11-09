@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-05-27'
+version_history:
+  file: decreto-lei-1-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-01-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-05-27'
+    amending: pt:dre:470806:por
+    amending_title: Decreto-Lei n.º 282/80; Decreto-Lei n.º 227/83
+    changes:
+    - Altera Artigo 1.º
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:38:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 282/80; Decreto-Lei
+    n.º 227/83. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-1-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,19 +136,25 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 16.º, n.º 1, 3.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. Os bancos de investimento financiarão as suas operações com o respectivo capital social e reservas e, ainda, com recursos provenientes de:
+###### Artigo 1.º
+
+1 - Os bancos de investimento financiarão as suas operações com o respectivo capital social e reservas e, ainda, com recursos provenientes de:
 
 a) Emissão de obrigações a médio e a longo prazo;
 
-b) Depósitos a prazo;
+b) Depósitos a prazo e com pré-aviso;
 
 c) Fundos obtidos mediante operações efectuadas com o banco emissor, institutos de crédito do Estado, bancos comerciais, estabelecimentos especiais de crédito e, ainda, com institutos de crédito estrangeiros ou internacionais.
 
-2. Os depósitos a que se refere a alínea b) do número anterior deverão ser de prazo superior a cento e oitenta dias.
+2 - Os depósitos a que se refere a alínea b) do número anterior poderão assumir qualquer das formas, modalidades e prazos previstos na lei.
 
 3. As operações com institutos de crédito estrangeiros ou internacionais a que alude a alínea c) do n.º 1 deste artigo ficam sujeitas aos condicionalismos legais que regem as importações de capitais privados.
 
-Art. 2.º Os bancos de investimento poderão igualmente abrir contas de depósitos à ordem, cuja movimentação a crédito só deve, todavia, operar-se nas condições seguintes:
+> Alterado pelo/a [Decreto-Lei n.º 282/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1980-470806), publicado em 1980-08-14.
+
+###### Artigo 2.º
+
+Os bancos de investimento poderão igualmente abrir contas de depósitos à ordem, cuja movimentação a crédito só deve, todavia, operar-se nas condições seguintes:
 
 a) Pelo lançamento de juros produzidos nas contas de depósito abertas na instituição ou pela transferência do capital de contas a prazo quando vencido;
 
@@ -144,15 +166,25 @@ d) Por entregas de sociedades para pagamento do serviço da dívida de emprésti
 
 e) Por outras operações em que intervenham os bancos de investimento, mediante autorização concedida por despacho do Ministro das Finanças.
 
-Art. 3.º - 1. As responsabilidades dos bancos de investimento, representadas por depósitos à ordem e por depósitos a prazo não superior a cento e oitenta dias e até um ano, deverão estar cobertas por disponibilidades de caixa nas mesmas percentagens que se encontrarem fixadas para os bancos comerciais.
+###### Artigo 3.º
+
+1. As responsabilidades dos bancos de investimento, representadas por depósitos à ordem e por depósitos a prazo não superior a cento e oitenta dias e até um ano, deverão estar cobertas por disponibilidades de caixa nas mesmas percentagens que se encontrarem fixadas para os bancos comerciais.
 
 2. A composição das disponibilidades de caixa a que se refere o número anterior obedecerá às regras estabelecidas para os bancos comerciais.
 
-Art. 4.º Além das operações cambiais que já se encontra legalmente autorizado a efectuar, poderá o Banco de Fomento Nacional realizar outras operações da mesma natureza, desde que para tal seja autorizado por despacho do Ministro das Finanças, ouvido o Banco de Portugal.
+###### Artigo 4.º
 
-Art. 5.º Fica revogado o artigo 49.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957.
+(Revogado.)
 
-Art. 6.º Este diploma entra imediatamente em vigor.
+> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27.
+
+###### Artigo 5.º
+
+Fica revogado o artigo 49.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957.
+
+###### Artigo 6.º
+
+Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
 

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-08-26'
+version_history:
+  file: decreto-lei-82-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-03-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-08-26'
+    amending: pt:dre:475726:por
+    amending_title: Decreto-Lei n.º 389/74
+    changes:
+    - Altera Artigo 13.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:25:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 389/74. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1972/decreto-lei-82-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,11 +147,15 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. O pessoal da Polícia Judiciária constitui um quadro único, com a composição constante do mapa anexo ao presente diploma.
+###### Artigo 1.º
+
+1. O pessoal da Polícia Judiciária constitui um quadro único, com a composição constante do mapa anexo ao presente diploma.
 
 2. O pessoal técnico é integrado em carreiras, organizadas nos termos do mapa referido no número anterior.
 
-Art. 2.º Para admissão aos lugares abaixo indicados são exigíveis as seguintes habilitações mínimas:
+###### Artigo 2.º
+
+Para admissão aos lugares abaixo indicados são exigíveis as seguintes habilitações mínimas:
 
 a) Inspectores de 3.ª classe e chefes de secretaria - licenciatura em Direito;
 
@@ -144,23 +163,33 @@ b) Técnicos de laboratório de 3.ª classe - curso superior adequado;
 
 c) Agentes de 3.ª classe e técnicos auxiliares de 3.ª classe de lofoscopia e de laboratório - curso geral dos liceus ou habilitação equiparada.
 
-Art. 3.º - 1. A nomeação para os cargos de inspector de 3.ª classe, técnico de laboratório de 3.ª classe e chefe de secretaria terá carácter provisório durante o período de dois anos, prorrogável por mais um ano.
+###### Artigo 3.º
+
+1. A nomeação para os cargos de inspector de 3.ª classe, técnico de laboratório de 3.ª classe e chefe de secretaria terá carácter provisório durante o período de dois anos, prorrogável por mais um ano.
 
 2. Findo o período inicial, ou a sua prorrogação, o funcionário será provido definitivamente, se tiver revelado aptidão para o lugar, ou exonerado, no caso contrário.
 
-Art. 4.º - 1. Quando recair em delegado do procurador da República ou juiz de direito de 3.ª classe, o provimento dos lugares de inspector de 3.ª classe será feito em comissão de serviço, pelo prazo de três anos, prorrogável por iguais períodos, até que o magistrado seja promovido a juiz de direito de 1.ª classe, podendo a nomeação converter-se em definitiva após três anos de bom e efectivo serviço.
+###### Artigo 4.º
+
+1. Quando recair em delegado do procurador da República ou juiz de direito de 3.ª classe, o provimento dos lugares de inspector de 3.ª classe será feito em comissão de serviço, pelo prazo de três anos, prorrogável por iguais períodos, até que o magistrado seja promovido a juiz de direito de 1.ª classe, podendo a nomeação converter-se em definitiva após três anos de bom e efectivo serviço.
 
 2. Os inspectores providos em comissão de serviço, nos termos do número anterior, serão abrangidos nas promoções da carreira do pessoal superior de investigação criminal, sendo-lhes, porém, atribuído o ordenado correspondente ao lugar de origem, se for mais elevado.
 
-Art. 5.º - 1. A nomeação para os cargos de agente de 3.ª classe recairá em indivíduos com idade não superior a 30 anos, que revelem as necessárias aptidões em inspecção médica, testes adequados e mediante outros elementos de informação.
+###### Artigo 5.º
+
+1. A nomeação para os cargos de agente de 3.ª classe recairá em indivíduos com idade não superior a 30 anos, que revelem as necessárias aptidões em inspecção médica, testes adequados e mediante outros elementos de informação.
 
 2. O provimento terá carácter provisório durante um ano e, enquanto não se converter em definitivo, os agentes de 3.ª classe são considerados agentes estagiários.
 
-Art. 6.º - 1. Os agentes estagiários são providos definitivamente como agentes de 3.ª classe, decorrido o prazo a que se refere o n.º 2 do artigo anterior, se tiverem aproveitamento em curso de preparação adequado e revelarem aptidão para o exercício das funções, ou exonerados, logo que, na frequência do curso ou na execução do serviço, mostrem não possuir a necessária capacidade.
+###### Artigo 6.º
+
+1. Os agentes estagiários são providos definitivamente como agentes de 3.ª classe, decorrido o prazo a que se refere o n.º 2 do artigo anterior, se tiverem aproveitamento em curso de preparação adequado e revelarem aptidão para o exercício das funções, ou exonerados, logo que, na frequência do curso ou na execução do serviço, mostrem não possuir a necessária capacidade.
 
 2. O provimento definitivo será efectuado pela ordem da classificação obtida no curso, conjugada com as informações do estágio.
 
-Art. 7.º São condições especiais de promoção:
+###### Artigo 7.º
+
+São condições especiais de promoção:
 
 a) A agente de 1.ª classe - classificação de serviço de Bom na categoria anterior e aproveitamento em trás cursos de aperfeiçoamento;
 
@@ -168,21 +197,37 @@ b) A subinspector de 2.ª classe - classificação de serviço de Muito bom na c
 
 c) A subinspector de 1.ª classe - classificação de serviço de Muito bom na categoria anterior.
 
-Art. 8.º Na falta de agentes de 1.ª classe com as condições de acesso, podem ser promovidos a subinspector de 2.ª classe os agentes de 2.ª classe com seis anos de serviço efectivo na categoria, que satisfaçam aos demais requisitos estabelecidos na alínea b) do artigo anterior.
+###### Artigo 8.º
 
-Art. 9.º Os artigos 5.º a 8.º são aplicáveis, com as necessárias adaptações, às carreiras do pessoal técnico auxiliar de lofoscopia e de laboratório.
+Na falta de agentes de 1.ª classe com as condições de acesso, podem ser promovidos a subinspector de 2.ª classe os agentes de 2.ª classe com seis anos de serviço efectivo na categoria, que satisfaçam aos demais requisitos estabelecidos na alínea b) do artigo anterior.
 
-Art. 10.º O ingresso e a promoção no quadro único podem ainda depender, mediante despacho do Ministro da Justiça, da frequência de cursos ou estágios, no País ou no estrangeiro.
+###### Artigo 9.º
 
-Art. 11.º Sem prejuízo do disposto no n.º 1 do artigo 5.º, o provimento dos lugares de categoria igual ou inferior à letra S será feito por contrato.
+Os artigos 5.º a 8.º são aplicáveis, com as necessárias adaptações, às carreiras do pessoal técnico auxiliar de lofoscopia e de laboratório.
 
-Art. 12.º - 1. Aos funcionários das carreiras do pessoal técnico auxiliar de investigação criminal e de lofoscopia é aplicável o disposto no n.º 4 do artigo 60.º e no artigo 61.º do [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989), de 20 de Outubro de 1945.
+###### Artigo 10.º
+
+O ingresso e a promoção no quadro único podem ainda depender, mediante despacho do Ministro da Justiça, da frequência de cursos ou estágios, no País ou no estrangeiro.
+
+###### Artigo 11.º
+
+Sem prejuízo do disposto no n.º 1 do artigo 5.º, o provimento dos lugares de categoria igual ou inferior à letra S será feito por contrato.
+
+###### Artigo 12.º
+
+1. Aos funcionários das carreiras do pessoal técnico auxiliar de investigação criminal e de lofoscopia é aplicável o disposto no n.º 4 do artigo 60.º e no artigo 61.º do [Decreto-Lei n.º 35042](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35042-1945-464989), de 20 de Outubro de 1945.
 
 2. O limite de idade de aposentação dos subinspectores poderá ser elevado para os 65 anos, por despacho do Ministro da Justiça, a requerimento dos interessados e mediante parecer do conselho de polícia.
 
-Art. 13.º Os subdirectores e inspectores da Polícia Judiciária são considerados magistrados do Ministério Público.
+###### Artigo 13.º
 
-Art. 14.º Serão regulados por despacho do Ministro da Justiça:
+O director, os subdirectores e os inspectores da Polícia Judiciária são considerados magistrados do Ministério Público.
+
+> Alterado pelo/a [Decreto-Lei n.º 389/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1974-475726), publicado em 1974-08-26.
+
+###### Artigo 14.º
+
+Serão regulados por despacho do Ministro da Justiça:
 
 a) Os sistemas de notação dos funcionários, as condições relativas à distribuição do pessoal e os regimes de substituição, na falta ou impedimento dos titulares;
 
@@ -192,15 +237,23 @@ c) Os requisitos a que deve obedecer a designação de inspectores e de subinspe
 
 d) O esclarecimento das dúvidas que se suscitem na execução do presente diploma.
 
-Art. 15.º - 1. Serão extintos, à medida que vagarem, os actuais cargos que ultrapassem o número de lugares previsto no mapa anexo.
+###### Artigo 15.º
+
+1. Serão extintos, à medida que vagarem, os actuais cargos que ultrapassem o número de lugares previsto no mapa anexo.
 
 2. Os concursos para chefe de brigada já realizados na data da publicação do presente diploma mantêm a sua validade e substituem, para todos os efeitos, o aproveitamento, com classificação de Muito bom, no curso a que se refere a alínea b) do artigo 7.º
 
-Art. 16.º A colocação dos actuais funcionários nos lugares correspondentes do mapa anexo far-se-á mediante publicação no Diário do Governo de lista nominativa assinada pelo Ministro da Justiça, considerando-se definitivamente providos nos novos cargos sem dependência de outra formalidade que não seja a anotação pelo Tribunal de Contas.
+###### Artigo 16.º
 
-Art. 17.º O pessoal dos órgãos privativos de polícia judiciária com funções auxiliares de investigação criminal tem direito a indemnizações de tecnicidade, cujo quantitativo será fixado por despacho do Ministro das Finanças e do Ministro da respectiva pasta.
+A colocação dos actuais funcionários nos lugares correspondentes do mapa anexo far-se-á mediante publicação no Diário do Governo de lista nominativa assinada pelo Ministro da Justiça, considerando-se definitivamente providos nos novos cargos sem dependência de outra formalidade que não seja a anotação pelo Tribunal de Contas.
 
-Art. 18.º - 1. Os encargos a que der lugar a execução do presente diploma, na parte consignada a vencimentos e salários com o pessoal da Polícia Judiciária, que excedam a respectiva dotação do Orçamento Geral do Estado, serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto subscrito pelos Ministros da Justiça e das Finanças.
+###### Artigo 17.º
+
+O pessoal dos órgãos privativos de polícia judiciária com funções auxiliares de investigação criminal tem direito a indemnizações de tecnicidade, cujo quantitativo será fixado por despacho do Ministro das Finanças e do Ministro da respectiva pasta.
+
+###### Artigo 18.º
+
+1. Os encargos a que der lugar a execução do presente diploma, na parte consignada a vencimentos e salários com o pessoal da Polícia Judiciária, que excedam a respectiva dotação do Orçamento Geral do Estado, serão reembolsados ao Estado pelo Cofre dos Conservadores, Notários e Funcionários de Justiça, mediante guia de receita processada pela 4.ª Repartição da Direcção-Geral da Contabilidade Pública, até que o reembolso seja dispensado por decreto subscrito pelos Ministros da Justiça e das Finanças.
 
 2. Enquanto não for corrigido o Orçamento Geral do Estado, os encargos serão satisfeitos pelas disponibilidades da dotação de vencimentos dos quadros da Polícia Judiciária e do Laboratório de Polícia Científica.
 

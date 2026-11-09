@@ -1,0 +1,138 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:253188:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-06-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "922f9126e7a7f220",
+    "dcaab4009aa30ffc",
+    "d73702186635c8ec",
+    "6fd2af161340e621",
+    "159bf81a44006578",
+    "144b46184f89ed9b"
+   ]
+  },
+  {
+   "date": "1983-02-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:401320:por",
+     "title": "Decreto-Lei n.º 119-F/83",
+     "published": "1983-02-28",
+     "dre_path": "/dr/detalhe/decreto-lei/119-f-1983-401320"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "922f9126e7a7f220",
+    "b41519ec2c590ff4",
+    "d147aace46cac02e",
+    "0ab9b1c7e7c865ee",
+    "78f76048bc83d1ef",
+    "3a753c9ae2de044b"
+   ]
+  }
+ ],
+ "fragments": {
+  "922f9126e7a7f220": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Junho\n\nConcede benefícios fiscais a certas empresas autorizadas a proceder à reavaliação de activos\n\nA Assembleia da República decreta, nos termos do n.º 2 do artigo 106.º, da alínea d) do artigo 164.º, da alínea o) do artigo 167.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:"
+  },
+  "dcaab4009aa30ffc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º\n\n1. Poderão beneficiar de isenção ou redução de imposto de mais-valias as empresas que, tendo sido autorizadas a proceder à reavaliação de bens do activo imobilizado corpóreo, nos termos do artigo 1.º do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril, e tendo observado na referida reavaliação as normas do mesmo diploma, procedam à incorporação, total ou parcial, das reservas provenientes da reavaliação de activos através de aumentos de capital de sociedades anónimas, em comandita por acções ou por quotas.\n\n2. O reconhecimento deste benefício será feito por despacho do Ministro das Finanças, o qual decidirá, tendo em conta a situação da empresa e as características da operação, se se justifica a atribuição de isenção ou redução e graduará o benefício."
+  },
+  "d73702186635c8ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º\n\n1. O benefício será requerido mediante apresentação da participação prevista nos artigos 23.º e 24.º do Código do Imposto de Mais-Valias, devendo o requerimento indicar o montante da reserva a incorporar e a data ou datas da sua constituição ou reforço e ser acompanhado de cópias dos balanços e das contas de ganhos e perdas dos anos correspondentes, bem como das actas das assembleias gerais em que foram aprovados.\n\n2. O requerimento será informado pela Direcção-Geral das Contribuições e Impostos, depois de ouvidos, quando necessário, os serviços competentes do Ministério que superintenda na respectiva actividade.\n\n3. As inexactidões e omissões cometidas no requerimento ou nos documentos referidos no n.º 1 serão punidas nos termos do artigo 48.º do Código do Imposto de Mais-Valias."
+  },
+  "6fd2af161340e621": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º\n\nO benefício referido no artigo 1.º apenas é concedido às empresas que cumpram as formalidades previstas no n.º 1 do artigo 2.º até 31 de Dezembro de 1978."
+  },
+  "159bf81a44006578": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º\n\nA realização dos aumentos de capital não poderá efectivar-se depois de excedido o prazo de cento e vinte dias, a contar da data da comunicação do despacho ministerial que reconhecer o direito ao benefício da isenção ou redução, sob pena de este ficar sem efeito."
+  },
+  "144b46184f89ed9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º\n\nA presente lei entra em vigor no dia imediato ao da sua publicação.\n\nAprovada em 12 de Maio de 1977. - O Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgada em 30 de Maio de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares."
+  },
+  "b41519ec2c590ff4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Poderão beneficiar de isenção ou redução de imposto de mais-valias as empresas que, tendo sido autorizadas a proceder à reavaliação de bens do activo imobilizado corpóreo, nos termos do artigo 1.º do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril, e tendo observado na referida reavaliação as normas do mesmo diploma, procedam à incorporação, total ou parcial, das reservas provenientes da reavaliação de activos através de aumentos de capital de sociedades anónimas, em comandita por acções ou por quotas.\n\n2. O reconhecimento deste benefício será feito por despacho do Ministro das Finanças, o qual decidirá, tendo em conta a situação da empresa e as características da operação, se se justifica a atribuição de isenção ou redução e graduará o benefício."
+  },
+  "d147aace46cac02e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O benefício será requerido mediante apresentação da participação prevista nos artigos 23.º e 24.º do Código do Imposto de Mais-Valias, devendo o requerimento indicar o montante da reserva a incorporar e a data ou datas da sua constituição ou reforço e ser acompanhado de cópias dos balanços e das contas de ganhos e perdas dos anos correspondentes, bem como das actas das assembleias gerais em que foram aprovados.\n\n2. O requerimento será informado pela Direcção-Geral das Contribuições e Impostos, depois de ouvidos, quando necessário, os serviços competentes do Ministério que superintenda na respectiva actividade.\n\n3. As inexactidões e omissões cometidas no requerimento ou nos documentos referidos no n.º 1 serão punidas nos termos do artigo 48.º do Código do Imposto de Mais-Valias."
+  },
+  "0ab9b1c7e7c865ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1983-02-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 119-F/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-f-1983-401320), publicado em 1983-02-28."
+   ],
+   "markdown": "###### Artigo 3.º\n\nO benefício referido no artigo 1.º apenas é concedido às empresas que cumpram as formalidades previstas no n.º 1 do artigo 2.º no prazo de 90 dias a contar da data em que tomaram conhecimento de terem sido autorizadas a proceder à reavaliação.\n\n> Alterado pelo/a [Decreto-Lei n.º 119-F/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-f-1983-401320), publicado em 1983-02-28."
+  },
+  "78f76048bc83d1ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA realização dos aumentos de capital não poderá efectivar-se depois de excedido o prazo de cento e vinte dias, a contar da data da comunicação do despacho ministerial que reconhecer o direito ao benefício da isenção ou redução, sob pena de este ficar sem efeito."
+  },
+  "3a753c9ae2de044b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA presente lei entra em vigor no dia imediato ao da sua publicação.\n\nAprovada em 12 de Maio de 1977. - O Presidente da Assembleia da República, Vasco da Gama Fernandes.\n\nPromulgada em 30 de Maio de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

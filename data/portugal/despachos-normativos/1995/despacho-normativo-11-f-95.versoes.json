@@ -1,0 +1,343 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:263700:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-03-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "95fa6b40fa7d1ae4",
+    "43921723cd1f3a45",
+    "c2385634f8eeb598",
+    "ff1fd8b590d52f21",
+    "f67baed8ba2b49d3",
+    "9290b40d46f42302",
+    "dbd75810af7ca76e",
+    "efd918f9f4eff135",
+    "a99175739606a692",
+    "4a78f5d3b9f7e96b",
+    "90eace6873696c88",
+    "9270d1518fa3f634",
+    "4ba39d853a1665a4",
+    "5de5b070cf09b1ef",
+    "156e925edd677985",
+    "e7ca60ed52bd5fd1",
+    "227858d41561e6b1",
+    "674d1e02647db63a",
+    "bb6e2212e401581e",
+    "deabcc3301223643",
+    "fa621a57227605e3",
+    "210491e3b625fb49"
+   ]
+  },
+  {
+   "date": "1998-06-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:472717:por",
+     "title": "Despacho Normativo n.º 39/98",
+     "published": "1998-06-08",
+     "dre_path": "/dr/detalhe/despacho-normativo/39-1998-472717"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "95fa6b40fa7d1ae4",
+    "43921723cd1f3a45",
+    "46a093e526ac4e89",
+    "b8ee2de4eba64b5f",
+    "0d84e917a306f1b9",
+    "9290b40d46f42302",
+    "d3113a996f8516da",
+    "543209841cec0bba",
+    "043ad4bbde70eea0",
+    "68124b21bc901a5f",
+    "60adb1180ae943c8",
+    "9270d1518fa3f634",
+    "4ba39d853a1665a4",
+    "5de5b070cf09b1ef",
+    "156e925edd677985",
+    "e7ca60ed52bd5fd1",
+    "227858d41561e6b1",
+    "674d1e02647db63a",
+    "bb6e2212e401581e",
+    "deabcc3301223643",
+    "fa621a57227605e3",
+    "210491e3b625fb49"
+   ]
+  }
+ ],
+ "fragments": {
+  "95fa6b40fa7d1ae4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "(IIMV0104)\n\nO [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho, criou o Programa Estragético de Dinamização e Modernização da Indústria Portuguesa - PEDIP II.\n\nA alínea b) do n.º 1 do artigo 3.º daquele diploma veio estatuir que uma das formas de prossecução dos objectivos do PEDIP II se concretiza através de acções de natureza voluntarista dependentes de iniciativas da Administração Pública.\n\nInserida nesta vertente voluntarista, está prevista uma acção cujo objectivo é promover o desenvolvimento industrialmente orientado, destinado a incentivar as infra-estrutras tecnológicas junto da indústria e potenciar a apetência ao seu recurso pelas empresas industriais, em particular as PME.\n\nTrata-se de projectos com impacte económico a médio prazo, que, em princípio, poderão ser promovidos por todas as infra-estruturas com capacidade para as realizarem, com vista à criação de uma procura supletiva dos seus serviços e a possibilitar a manutenção de uma massa crítica de recursos humanos aptos a responderem às solicitações das empresas.\n\nNestes termos, determina-se o seguinte:\n\nÉ aprovado o Regulamento dos Projectos Industrialmente Orientados, anexo ao presente despacho e que deste faz parte integrante.\n\nMinistério da Indústria e Energia, 27 de Fevereiro de 1995. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.\n\nRegulamento dos Projectos Industrialmente Orientados"
+  },
+  "43921723cd1f3a45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma tem por objecto disciplinar o apoio a projectos de promoção das infra-estruturas tecnológicas junto da indústria no âmbito da acção B - Projectos industrialmente orientados inseridos na medida 4.7 - Promoção das infra-estruturas tecnológicas junto da indústria, a que se refere a alínea g) do n.º 1 do artigo 2.º do [Despacho Normativo n.º 622/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/622-1994-218698), de 23 de Agosto (IIMV01)."
+  },
+  "c2385634f8eeb598": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - São susceptíveis de apoio no âmbito do presente diploma os projectos industrialmente orientados a desenvolver por infra-estruturas tecnológicas que decorram de iniciativas voluntaristas da Administração e que visem, pelo menos, dois dos três seguintes objectivos complementares:\n\na) Promover junto dos sectores industriais os potenciais benefícios resultantes do recurso às infra-estruturas tecnológicas de modo a criar nas empresas industiais uma apetência para recorrer a este tipo de serviços;\n\nb) Dar resposta a necessidades detectadas, quer no acompanhamento das candidaturas aos vários regimes de apoio que integram o PEDIP, quer em estudos realizados no âmbito da acção 4.7 - A promoção da intervenção técnica das infra-estruturas tecnológicas ou ainda suscitados por sectores industriais, no âmbito da assistência técnica e da transferência tecnológica inerente ao processo de inovação, que sirvam um leque alargado de potenciais beneficiários;\n\nc) Consciencializar os industriais para os processos de mutação industrial e antecipar a resolução de enventuais problemas deles decorrentes.\n\n2 - Os projectos a que se refere o número anterior desenvolver-se-ão, designadamente, através de actividades de I&DT e de outras actividades científicas, técnicas e tecnológicas, incluindo estudos e trabalhos de adaptação a imposições normativas com inpacte na indústria.\n\n3 - Dado o carácter supletivo das actividades a apoiar relativamente aos vários regimes de apoio do PEDIP II, os projectos serão dinamizados pela equipa de projecto, ouvido o gestor, com recurso a uma das seguintes formas:\n\na) Promoção personalizada;\n\nb) Escolha limitada;\n\nc) Concurso.\n\n4 - O apoio a este tipo de projectos será formalizado através de contrato-programa a celebrar entre a Administração e o promotor, no qual deverão ficar claramente estipulados os objectivos a alcançar, as acções a desenvolver, o seu calendário de realização, o processo de acompanhamento e avaliação e os indicadores de execução."
+  },
+  "ff1fd8b590d52f21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Organismo gestor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Organismo gestor\n\nO organismo gestor das acções previstas no presente diploma é o Gabinete de Estudos e Planeamento do Ministério da Indústria e Energia (GEPIE)."
+  },
+  "f67baed8ba2b49d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Comissão de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Comissão de selecção\n\n1 - A comissão de selecção a que se refere o artigo 11.º do Despacho conjunto A-65/94-XII, de 2 de Setembro (IIDD01), integra, para além do gestor, que preside, um representante de cada uma das seguintes entidades:\n\na) Direcção-Geral do Desenvolvimento Regional;\n\nb) GEPIE;\n\nc) Instituto Nacional de Engenharia e Tecnolgia Industrial.\n\n2 - Poderão ainda integrar a comissão de selecção, sempre que se trate de projectos da sua área de competência ou o presidente da comissão assim o julgue necessário, um representante das entidades a que se refere o artigo 6.º do despacho conjunto mencionado no número anterior."
+  },
+  "9290b40d46f42302": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidades beneficiárias\n\n1 - As entidades beneficiárias dos apoios previstos no artigo 2.º do presente diploma são as infra-estruturas tecnológicas apoiadas no anterior Programa ou que o venham a ser no PEDIP II, isoladamente ou em conjunto, devendo satisfazer as condições de acesso fixadas no artigo 6.º\n\n2 - Sempre que se trate de candidaturas conjuntas, deverá ser designada uma entidade responsável pela organização do processo de candidatura."
+  },
+  "dbd75810af7ca76e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições de acesso do promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de acesso do promotor\n\n1 - As entidades beneficiárias deverão cumprir as seguintes condições gerais de acesso:\n\na) Terem sido convidadas ou seleccionadas nos termos previstos no n.º 3 do artigo 2.º, no âmbito de iniciativas da Administração;\n\nb) Possuírem composição patrimonial maioritariamente detida por empresas e ou associações do sector industrial;\n\nc) Terem uma composição dos órgãos sociais que reflicta a proporção da contribuição dos diversos sócios para o património associativo;\n\nd) Possuírem uma estrutura organizacional, meios financeiros e recursos humanos qualificados adequados à realização do projecto;\n\ne) Comprovarem que dispõem de contabilidade organizada, de acordo com as especificações do Plano Oficial de Contabilidade;\n\nf) Comprovarem que possuem ou virão a possuir sistemas de controlo adequados à análise e ao acompanhamento dos projectos;\n\ng) Comprovar que têm a sua situação contributiva regularizada perante o Estado e a segurança social, bem como a sua situação regularizada em relação ao Instituo de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPEMEI).\n\n2 - Poderão vir a ser estabelecidas condições específicas de acesso nos termos de referência das diferentes formas de dinamização destas actividades, tendo em conta as especificidades próprias dos objectivos a atingir."
+  },
+  "efd918f9f4eff135": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Condições de acesso do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de acesso do projecto\n\n1 - Os projectos a apoiar deverão cumprir as seguintes condições gerais de acesso:\n\na) Corresponder aos requisitos constantes do convite ou do concurso promovido para dinamizar a acção;\n\nb) Não ter sido iniciado antes da data da apresentação da candidatura;\n\nc) Inserir-se na estratégia de médio prazo da entidade promotora;\n\nd) Envolver um montante mínimo de despesas de 50000 contos e um máximo de 200000 contos.\n\n2 - Em situações excepcionais e sem prejuízo do cumprimento dos requisitos a que se refere o número anterior, poderão os limites referidos na alínea d) do número anterior ser ultrapassados mediante despacho do Ministro da Indústria e Energia."
+  },
+  "a99175739606a692": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Critérios de selecção\n\n1 - Constituem critérios de selecção, designadamente, os seguintes:\n\nCritério C(índice 1): adequação do projecto aos termos de referência;\n\nCritério C(índice 2): impacte do projecto num leque alargado de potenciais beneficiários;\n\nCritério C(índice 3): mecanismos de transferência, apresentados pelo promotor, dos resultados potenciais do projecto;\n\nCritério C(índice 4): capacidade de transferência tecnológica do promotor;\n\nCritério C(índice 5): grau de participação dos associados industriais na gestão da entidade promotora.\n\n2 - Cada um dos critérios referidos no número anterior será valorado em três níveis: 0,50 e 100.\n\n3 - A pontuação final (PF) será obtida pela aplicação da seguinte fórmula:\n\nPF = 0,2C(índice 1) + 0,3C(índice 2) + 0,3C(índice 3) + 0,1C(índice 4) + 0,1C(índice 5)\n\nApenas serão apoiados os projectos em que o valor PF for igual ou superior a 75 e, cumulativamente, nenhum dos critérios C(índice 1), C(índice 2) ou C(índice 3) tenha obtido valoração nula."
+  },
+  "4a78f5d3b9f7e96b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Aplicações relevantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Aplicações relevantes\n\n1 - Consideram-se aplicações relevantes, para efeitos do cáculo dos incentivos, os seguintes custos:\n\na) Pessoal técnico do promotor afecto ao projecto;\n\nb) Deslocações e estadias;\n\nc) Matérias-primas e componentes indispensáveis às actividades a desenvolver;\n\nd) Subcontratação de especialistas ou de serviços;\n\ne) Estudos de tendências e impactes realizados por entidades externas.\n\n2 - O cálculo das aplicações relevantes a apoiar será efectuado a preços correntes, deduzido o imposto sobre o valor acrescentado sempre que a entidade promotora seja sujeito passivo do mesmo imposto e possa exercer o direito à sua dedução.\n\n3 - Para efeitos da determinação do incentivo a atribuir em cada projecto, os custos aceites das aplicações relevantes da alínea e) serão considerados em função da correspondência com os respectivos custos médios de mercado.\n\n4 - Os critérios para a determinação dos níveis a que se referem as alíneas a), b) e d), bem como os limites a considerar nos custos associados às respectivas aplicações relevantes, serão estabelecidos por despacho do Ministro da Indústria e Energia."
+  },
+  "90eace6873696c88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Incentivo\n\n1 - O incentivo a conceder revestirá a forma de um subsídio financeiro a fundo perdido.\n\n2 - A taxa de incentivo a atribuir corresponde à aplicação de uma percentagem de 75% sobre as aplicações relevantes constantes do artigo 9.º\n\n3 - Quando o incentivo se revelar manifestamente insuficiente para a realização do projecto, poderá ser excepcionalmente majorado, com fundamento no grande interesse do projecto, reconhecido por despacho do Ministro da Indústria e Energia, desde que existam disponibilidades orçamentais complementares ao Programa."
+  },
+  "9270d1518fa3f634": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apresentação de candidaturas\n\n1 - A formalização das candidaturas far-se-á através da apresentação, no organismo gestor, do formulário de candidatura e do respectivo projecto devidamente preenchido (original e duas cópias).\n\n2 - O formulário de candidatura e o projecto serão acompanhados dos elementos do promotor e do projecto que permitam comprovar o cumprimento das condições de acesso, bem como de todos aqueles que sejam necessários para a avaliação das exigências inerentes a estes projectos."
+  },
+  "4ba39d853a1665a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Início do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Início do projecto\n\nConsidera-se início da realização do projecto a data da factura mais antiga que lhe for imputável."
+  },
+  "5de5b070cf09b1ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Concretização do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Concretização do projecto\n\n1 - Só deverão ser apoiados projectos cuja concretização se verifique até 30 de Setembro de 2000.\n\n2 - Para efeitos administrativos, a concretização do projecto traduzir-se-á na data do último pagamento efectuado pelo beneficiário ou beneficiários do contrato."
+  },
+  "156e925edd677985": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competência e prazos de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência e prazos de apreciação\n\n1 - Compete ao organismo gestor analisar as candidaturas no prazo máximo de 30 dias úteis, podendo recorrer, para o efeito, ao parecer de outros organismos ou de consultores externos.\n\n2 - Poderão ser solicitados ao promotor esclarecimentos complementares, a prestar no prazo de 10 dias úteis, decorridos os quais a ausência de resposta, excepto quando não imputável ao promotor, equivalerá a desistência da candidatura a que se refere.\n\n3 - O prazo a que se refere o n.º 1 será suspenso durante o prazo de resposta do promotor, não se considerando, para este efeito, quaisquer respostas parciais ou incompletas."
+  },
+  "e7ca60ed52bd5fd1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Alegações contrárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Alegações contrárias\n\n1 - No caso de parecer desfavorável à prossecução da candidatura, será o mesmo comunicado ao promotor, no prazo de 10 dias úteis, através de carta registada com aviso de recepção.\n\n2 - O promotor, querendo, poderá apresentar alegações contrárias, no prazo de 20 dias úteis contados da notificação, as quais serão submetidas a decisão conjuntamente com a reapreciação da candidatura."
+  },
+  "227858d41561e6b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Decisão\n\n1 - A decisão sobre os pedidos de atribuição dos incentivos é da competência do Ministro da Indústria e Energia.\n\n2 - A comunicação ao promotor da decisão que venha a recair sobre um pedido de atribuição de incentivo será efectuada pelo respectivo organismo gestor no prazo de 10 dias úteis contados a partir da sua emissão."
+  },
+  "674d1e02647db63a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Formalização da concessão do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Formalização da concessão do incentivo\n\n1 - A concessão de incentivos será formalizada de acordo com o disposto no artigo 14.º do [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635), de 27 de Junho.\n\n2 - Nos casos a que se refere o n.º 2 do artigo 5.º, poderá ser celebrado quer um único contrato entre o IAPMEI e o representante do conjunto das entidades promotoras quer vários contratos entre aquele organismo e os co-promotores.\n\n3 - Para efeitos do disposto no número anterior, e quando aplicável, deverão ser definidas com rigor as responsabilidades de cada um dos co-promotores na execução do projecto, nomeadamente no que se refere a financiamento, a sua parte no investimento total e respectivas aplicações relevantes, bem como o faseamento e calendarização que lhe dizem respeito."
+  },
+  "bb6e2212e401581e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Pagamento\n\n1 - O pagamento dos incentivos atribuídos compete ao IAPMEI, mediante ordem de pagamento emitida pelo organismo gestor.\n\n2 - A forma de pagamento será definida por despacho do Ministro da Indústria e Energia, podendo ser previstos adiantamentos."
+  },
+  "deabcc3301223643": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Obrigações dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Obrigações dos promotores\n\n1 - As entidades que venham a beneficiar de qualquer incentivo no âmbito do presente diploma ficam sujeitas às seguintes obrigações:\n\na) Executar o projecto nos termos e no prazo fixados no contrato;\n\nb) Cumprir os objectivos constantes do projecto;\n\nc) Cumprir atempadamente as obrigações legais e fiscais;\n\nd) Fornecer todos os elementos que lhes forem solicitados pelas entidades com competências de acompanhamento, controlo e fiscalização, nomeadamente os dados para a verificação física do projecto;\n\ne) Comunciar ao organismo gestor qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos às condições de acesso com que o projecto foi aprovado, bem como a sua realização pontual.\n\n2 - As entidades beneficiárias ficam sujeitas à verificação da utilização dos incentivos concedidos."
+  },
+  "fa621a57227605e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Contabilização dos incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Contabilização dos incentivos\n\nO incentivo concedido será contabilizado de acordo com o Plano Oficial de Contabilidade e, quando não aplicável, serão criadas contas especiais para o seu registo, não sendo, em qualquer caso, susceptível de distribuição durante o período de vigência do contrato."
+  },
+  "210491e3b625fb49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Rescisão por incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Rescisão por incumprimento\n\n1 - A rescisão do contrato terá lugar nos termos e pelos fundamentos constantes do artigo 15.º do [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635).\n\n2 - O gestor do PEDIP dará conhecimento a todos os organismos gestores da identidade dos promotores que se encontrem nas situações referidas nos n.os 4 e 5 do artigo 15.º do [Decreto-Lei n.º 177/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1994-290635)."
+  },
+  "46a093e526ac4e89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "1998-06-13",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - São susceptíveis de apoio no âmbito do presente diploma os projectos industrialmente orientados a desenvolver por infra-estruturas tecnológicas que decorram de iniciativas voluntaristas da Administração e que visem, pelo menos, dois dos três seguintes objectivos complementares:\n\na) Promover junto dos sectores industriais os potenciais benefícios resultantes do recurso às infra-estruturas tecnológicas de modo a criar nas empresas industiais uma apetência para recorrer a este tipo de serviços;\n\nb) Dar resposta a necessidades detectadas, quer no acompanhamento das candidaturas aos vários regimes de apoio que integram o PEDIP, quer em estudos realizados no âmbito da acção 4.7 - A promoção da intervenção técnica das infra-estruturas tecnológicas ou ainda suscitados por sectores industriais, no âmbito da assistência técnica e da transferência tecnológica inerente ao processo de inovação, que sirvam um leque alargado de potenciais beneficiários;\n\nc) Consciencializar os industriais para os processos de mutação industrial e antecipar a resolução de enventuais problemas deles decorrentes.\n\n2 - Os projectos a que se refere o número anterior desenvolver-se-ão, designadamente, através de actividades de I&DT e de outras actividades científicas, técnicas e tecnológicas, incluindo estudos e trabalhos de adaptação a imposições normativas com inpacte na indústria.\n\n3 - Dado o carácter supletivo das actividades a apoiar relativamente aos vários regimes de apoio do PEDIP II, os projectos serão dinamizados pela equipa de projecto através da promoção, junto do universo dos potenciais promotores, de apresentação de propostas de ideias que possam conduzir à realização de projectos enquadráveis no âmbito do presente diploma, tendo em conta os estudos de diagnóstico e análise estratégica que tiverem sido aprovados no âmbito do Sistema de Incentivos à Consolidação das Infra-Estruturas Tecnológicas e da Qualidade, regulamentado pelo [Despacho Normativo n.º 555/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/555-1994-231882), de 29 de Julho.\n\n4 - Decorrente da apreciação das propostas de ideias apresentadas e da sua selecção por uma comissão de apreciação presidida pelo gestor do PEDIP, com base em parecer prévio emitido pelo organismo gestor, os potenciais promotores serão convidados a apresentar as respectivas candidaturas, nos termos que vierem a ser definidos pela comissão atrás referida.\n\n5 - O apoio a este tipo de projectos será formalizado através de contrato-programa a celebrar entre a Administração e o promotor, no qual deverão ficar claramente estipulados os objectivos a alcançar, as acções a desenvolver, o seu calendário de realização, o processo de acompanhamento e avaliação e os indicadores de execução.\n\n> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+  },
+  "b8ee2de4eba64b5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Organismo gestor",
+   "in_force_from": "1998-06-13",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+   ],
+   "markdown": "###### Artigo 3.º — Organismo gestor\n\nO organismo gestor das acções previstas no presente diploma é a Direcção-Geral da Indústria (DGI).\n\n> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+  },
+  "0d84e917a306f1b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Comissão de selecção",
+   "in_force_from": "1998-06-13",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+   ],
+   "markdown": "###### Artigo 4.º — Comissão de selecção\n\n1 - A comissão de selecção a que se refere o artigo 11.º do Despacho conjunto A-65/94-XII, de 2 de Setembro (IIDD01), integra, para além do gestor, que preside, um representante de cada uma das seguintes entidades:\n\na) Direcção-Geral do Desenvolvimento Regional;\n\nb) Direcção-Geral da Indústria;\n\nc) Instituto Nacional de Engenharia e Tecnolgia Industrial.\n\n2 - Poderão ainda integrar a comissão de selecção, sempre que se trate de projectos da sua área de competência ou o presidente da comissão assim o julgue necessário, um representante das entidades a que se refere o artigo 6.º do despacho conjunto mencionado no número anterior.\n\n> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+  },
+  "d3113a996f8516da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições de acesso do promotor",
+   "in_force_from": "1998-06-13",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+   ],
+   "markdown": "###### Artigo 6.º — Condições de acesso do promotor\n\n1 - As entidades beneficiárias deverão cumprir as seguintes condições gerais de acesso:\n\na) Ter sido convidadas nos termos previstos no n.º 3 do artigo 2.º, no âmbito de iniciativas voluntaristas da Administração;\n\nb) Comprovar, através da natureza dos serviços que prestam, que desenvolvem dominantemente actividades de interesse para a indústria;\n\nc) Ter uma composição dos órgãos sociais que assegure a intervenção dos diferentes tipos de interesses, nomeadamente científicos, tecnológicos e empresariais, na definição da estratégia e no prosseguimento das actividades que desenvolvem;\n\nd) Possuírem uma estrutura organizacional, meios financeiros e recursos humanos qualificados adequados à realização do projecto;\n\ne) Comprovarem que dispõem de contabilidade organizada, de acordo com as especificações do Plano Oficial de Contabilidade;\n\nf) Comprovarem que possuem ou virão a possuir sistemas de controlo adequados à análise e ao acompanhamento dos projectos;\n\ng) Comprovar que têm a sua situação contributiva regularizada perante o Estado e a segurança social, bem como a sua situação regularizada em relação ao Instituo de Apoio às Pequenas e Médias Empresas e ao Investimento (IAPEMEI).\n\n2 - Poderão vir a ser estabelecidas condições específicas de acesso nos termos de referência das diferentes formas de dinamização destas actividades, tendo em conta as especificidades próprias dos objectivos a atingir.\n\n> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+  },
+  "543209841cec0bba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Condições de acesso do projecto",
+   "in_force_from": "1998-06-13",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+   ],
+   "markdown": "###### Artigo 7.º — Condições de acesso do projecto\n\n1 - Os projectos a apoiar deverão cumprir as seguintes condições gerais de acesso:\n\na) Corresponder aos requisitos constantes do convite formulado;\n\nb) Não ter sido iniciado antes da data de apresentação da candidatura, com excepção dos estudos prévios concluídos há menos de 120 dias úteis;\n\nc) Inserir-se na estratégia de médio prazo da entidade promotora;\n\nd) Envolver um montante mínimo de despesas de 50000 contos e um máximo de 200000 contos.\n\n2 - Em situações excepcionais e sem prejuízo do cumprimento dos requisitos a que se refere o número anterior, poderão os limites referidos na alínea d) do número anterior ser ultrapassados mediante despacho do Ministro da Indústria e Energia.\n\n> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+  },
+  "043ad4bbde70eea0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Critérios de selecção",
+   "in_force_from": "1998-06-13",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+   ],
+   "markdown": "###### Artigo 8.º — Critérios de selecção\n\n1 - Constituem critérios de selecção, designadamente, os seguintes:\n\nCritério C(índice 1): valia tecnológica do projecto;\n\nCritério C(índice 2): grau de participação de empresas industriais na execução do projecto;\n\nCritério C(índice 3): potencial impacte do projecto num número significativo de beneficiários;\n\nCritério C(índice 4): mecanismos de transferência, apresentados pelo promotor, dos resultados potenciais do projecto.\n\n2 - Cada um dos critérios referidos no número anterior será valorado em cinco níveis: 0, 25, 50, 75 e 100.\n\n3 - A pontuação final (PF) será obtida pela aplicação da seguinte fórmula:\n\nPF = 0,3 C(índice 1) + 0,2 C(índice 2) + 0,2 C(índice 3) + 0,3 C(índice 4)\n\nApenas serão apoiados os projectos em que o valor PF for igual ou superior a 50 e, cumulativamente, nenhum dos critérios tenha obtido valoração nula.\n\n> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+  },
+  "68124b21bc901a5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Aplicações relevantes",
+   "in_force_from": "1998-06-13",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+   ],
+   "markdown": "###### Artigo 9.º — Aplicações relevantes\n\n1 - Consideram-se aplicações relevantes, para efeitos do cálculo dos incentivos, os seguintes custos:\n\na) Pessoal técnico do promotor afecto ao projecto;\n\nb) Deslocações e estadas;\n\nc) Matérias-primas e componentes indispensáveis às actividades a desenvolver;\n\nd) Subcontratação de especialistas;\n\ne) Subcontratação de serviços;\n\nf) Estudos de tendências e impactes realizados por entidades externas;\n\ng) Custos associados à promoção e divulgação dos resultados do projecto.\n\n2 - O cálculo das aplicações relevantes a apoiar será efectuado a preços correntes, deduzido o imposto sobre o valor acrescentado sempre que a entidade promotora seja sujeito passivo do mesmo imposto e possa exercer o direito à sua dedução.\n\n3 - Para efeitos da determinação do incentivo a atribuir em cada projecto, os custos aceites das aplicações relevantes da alínea f) do n.º 1 serão considerados em função da correspondência com os respectivos custos médios de mercado.\n\n4 - Os limites máximos a considerar nos custos a que se referem as alíneas a), b), d) e relativos a consultoria externa no âmbito da alínea e) do n.º 1 são os constantes do [Despacho Normativo n.º 9-A/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-a-1995-143719), de 16 de Fevereiro.\n\n> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+  },
+  "60adb1180ae943c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Incentivo",
+   "in_force_from": "1998-06-13",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+   ],
+   "markdown": "###### Artigo 10.º — Incentivo\n\n1 - O incentivo a conceder revestirá a forma de um subsídio financeiro a fundo perdido.\n\n2 - A taxa de incentivo a atribuir corresponde à aplicação de uma percentagem sobre as aplicações relevantes, que varia em função da pontuação final atribuída ao projecto, de acordo com o quadro seguinte:\n\nPontuação final: 75 > PF >= 50 PF >= 75;\n\nTaxa de incentivo: 65% 75%.\n\n3 - Quando o incentivo se revelar manifestamente insuficiente para a realização do projecto, poderá ser excepcionalmente majorado, com fundamento no grande interesse do projecto, reconhecido por despacho do Ministro da Economia, desde que existam disponibilidades orçamentais complementares ao Programa.\n\n> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08."
+  }
+ }
+}

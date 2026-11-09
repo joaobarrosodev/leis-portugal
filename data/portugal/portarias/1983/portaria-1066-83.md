@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-10-09'
+version_history:
+  file: portaria-1066-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-12-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-10-09'
+    amending: pt:dre:386009:por
+    amending_title: Portaria n.º 462/84; Portaria n.º 762/85
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:31:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 462/84; Portaria n.º
+    762/85. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-1066-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -144,15 +161,21 @@ Pelo Ministro do Mar, Alberto Augusto Faria dos Santos, Secretário de Estado da
 
 Disposições complementares ao Regulamento Geral do Serviço de Armazéns Gerais Industriais do Instituto Português de Conservas de Peixe, aprovado pela [Portaria n.º 920/82](https://diariodarepublica.pt/dr/detalhe/portaria/920-1982-643964), de 30 de Setembro.
 
-Artigo 1.º - 1 - A sardinha a utilizar no fabrico de conservas e semiconservas de peixe, congelada em unidades industriais devidamente inscritas no IPCP, terá, para efeitos de aceitação em depósito no regime de armazéns gerais industriais, de ficar armazenada em câmaras de conservação de congelados, devidamente aprovadas pelo IPCP.
+###### Artigo 1.º
+
+1 - A sardinha a utilizar no fabrico de conservas e semiconservas de peixe, congelada em unidades industriais devidamente inscritas no IPCP, terá, para efeitos de aceitação em depósito no regime de armazéns gerais industriais, de ficar armazenada em câmaras de conservação de congelados, devidamente aprovadas pelo IPCP.
 
 2 - Aos depositantes cabe a responsabilidade de assegurar a manutenção da temperatura adequada nas câmaras respectivas, de acordo com o determinado pelo IPCP.
 
 3 - Fica expressamente vedado o armazenamento, nestas câmaras, de outras mercadorias ou produtos, salvo quando as mesmas se utilizem nos termos enunciados no n.º 3 do artigo 3.º
 
-Art. 2.º Com o propósito de se evitar que o produto destinado a ser armazenado possa vir a ser afectado, durante a vigência do prazo do depósito respectivo, por deficiente operação de congelação, deverá esta ser controlada pelos serviços do IPCP, os quais providenciarão para que a mercadoria nessas condições não venha a ser apresentada em depósito.
+###### Artigo 2.º
 
-Art. 3.º - 1 - As câmaras de conservação de congelados referidas no artigo 1.º são equiparadas aos armazéns referidos no artigo 7.º do Regulamento Geral dos Serviços de Armazéns Gerais Industriais do IPCP.
+Com o propósito de se evitar que o produto destinado a ser armazenado possa vir a ser afectado, durante a vigência do prazo do depósito respectivo, por deficiente operação de congelação, deverá esta ser controlada pelos serviços do IPCP, os quais providenciarão para que a mercadoria nessas condições não venha a ser apresentada em depósito.
+
+###### Artigo 3.º
+
+1 - As câmaras de conservação de congelados referidas no artigo 1.º são equiparadas aos armazéns referidos no artigo 7.º do Regulamento Geral dos Serviços de Armazéns Gerais Industriais do IPCP.
 
 2 - As câmaras a utilizar serão designadas de acordo com as regras regulamentares estabelecidas para o regime de comodato.
 
@@ -162,7 +185,9 @@ Art. 3.º - 1 - As câmaras de conservação de congelados referidas no artigo 1
 
 5 - Competirá aos depositantes o fornecimento do pessoal julgado indispensável à efectivação de todas e quaisquer operações de manejo a efectuar nas câmaras e, bem assim, proporcionar ao pessoal do IPCP interveniente nas mesmas todas as condições de segurança para a execução das suas funções.
 
-Art. 4.º - 1 - As câmaras de conservação de congelados deverão possuir os requisitos a seguir enumerados, verificados em vistoria prévia dos competentes serviços do IPCP:
+###### Artigo 4.º
+
+1 - As câmaras de conservação de congelados deverão possuir os requisitos a seguir enumerados, verificados em vistoria prévia dos competentes serviços do IPCP:
 
 a) Perfeitas condições de higiene e salubridade;
 
@@ -180,13 +205,17 @@ f) Condições de segurança geral entendidas como necessárias pelo IPCP.
 
 3 - Da vistoria efectuada deverá ser elaborado o respectivo auto, do qual constem os elementos indispensáveis e as conclusões dos serviços intervenientes, auto este que será remetido aos Serviços Centrais do IPCP para a indispensável apreciação e despacho.
 
-Art. 5.º - 1 - Sempre que, por deficiência de ordem técnica, se verifiquem anomalias no funcionamento das câmaras utilizadas que não possam ser superadas de imediato, por forma a não originar qualquer tipo de alteração no produto armazenado, deverão os utentes respectivos dar desde logo conhecimento da ocorrência aos Serviços de Armazéns Gerais da respectiva área de controle, a fim de serem tomadas as providências aconselhadas no caso.
+###### Artigo 5.º
+
+1 - Sempre que, por deficiência de ordem técnica, se verifiquem anomalias no funcionamento das câmaras utilizadas que não possam ser superadas de imediato, por forma a não originar qualquer tipo de alteração no produto armazenado, deverão os utentes respectivos dar desde logo conhecimento da ocorrência aos Serviços de Armazéns Gerais da respectiva área de controle, a fim de serem tomadas as providências aconselhadas no caso.
 
 2 - Todas as despesas originadas pela correcção das anomalias a que este artigo se refere constituem encargo do utente ou do proprietário da câmara, consoante hajam acordado entre si.
 
 3 - A falta de cumprimento do imposto neste artigo fará o depositante incorrer em total responsabilidade pelos prejuízos de toda a ordem que possam ser causados ao produto armazenado em consequência da anomalia verificada.
 
-Art. 6.º - 1 - A arrumação das mercadorias, acondicionadas nas condições tecnicamente aconselhadas e que se designam neste artigo, deverá ser feita de modo a possibilitar a sua movimentação, garantia de perfeita estabilidade e com o melhor aproveitamento de espaço.
+###### Artigo 6.º
+
+1 - A arrumação das mercadorias, acondicionadas nas condições tecnicamente aconselhadas e que se designam neste artigo, deverá ser feita de modo a possibilitar a sua movimentação, garantia de perfeita estabilidade e com o melhor aproveitamento de espaço.
 
 2 - O produto armazenado deve estar contido em sacos de matéria plástica, devidamente acondicionados em cartonagens, ou em quaisquer outros tipos de envólucros ou recipientes facilmente manejáveis que reúnam as condições técnicas exigíveis para uma perfeita conservação e devidamente aceites pelos serviços competentes do IPCP.
 
@@ -196,29 +225,51 @@ Art. 6.º - 1 - A arrumação das mercadorias, acondicionadas nas condições te
 
 5 - A identificação de cada depósito far-se-á nos mesmos termos que constam do artigo 17.º do Regulamento Geral dos Serviços de Armazéns Gerais Industriais.
 
-Art. 7.º - 1 - Os depósitos serão aceites por prazos variáveis, consoante o que for estabelecido pelos Serviços de Controle de Qualidade, não excedendo 120 dias e por um mínimo de 60.
+###### Artigo 7.º
+
+1 - Os depósitos serão aceites por prazos variáveis, consoante o que for estabelecido pelos Serviços de Controle de Qualidade, não excedendo 120 dias e por um mínimo de 60.
 
 2 - Dadas as características especiais do produto depositado, não são admitidas renovações dos depósitos, os quais terão de ser cancelados na data do vencimento mediante prévio resgate das possíveis obrigações contraídas pelo desconto das respectivas cautelas de penhor.
 
-3 - A falta de cumprimento do disposto no número antecedente fará accionar os mecanismos previstos nos artigos 52.º e 67.º do Regulamento Geral dos Serviços de Armazéns Gerais Industriais em tudo quanto seja aplicável.
+3 - A falta de cumprimento do disposto no número antecedente fará accionar os mecanismos previstos nos artigos 52.º e 67.º do Regulamento Geral do Serviço de Armazéns Gerais Industriais, em tudo quanto seja aplicável, salvo decisão em contrário do Ministro do Mar, mediante despacho precedido de parecer do IPCP, para cada caso que, devidamente fundamentado, lhe seja apresentado pelos utentes do serviço.
 
-Art. 8.º Os Serviços Industriais e de Tecnologia do IPCP, através de revisões e exames periódicos que entendam conveniente efectuar à mercadoria, assegurarão a manutenção da garantia da qualidade do produto que o IPCP assume para com terceiros no decorrer do prazo de validade do depósito.
+> Alterado pelo/a [Portaria n.º 462/84](https://diariodarepublica.pt/dr/detalhe/portaria/462-1984-386009), publicado em 1984-07-14.
 
-Art. 9.º Não serão aceites depósitos de quantidades inferiores a 5000 kg nem superiores a 20000 kg.
+###### Artigo 8.º
 
-Art. 10.º - 1 - A quantidade mínima permitida, para levantamento parcial, é fixada em 5000 kg, salvo se o saldo do depósito for de peso inferior, em que o levantamento deverá ser total.
+Os Serviços Industriais e de Tecnologia do IPCP, através de revisões e exames periódicos que entendam conveniente efectuar à mercadoria, assegurarão a manutenção da garantia da qualidade do produto que o IPCP assume para com terceiros no decorrer do prazo de validade do depósito.
+
+###### Artigo 9.º
+
+1 - Não serão aceites depósitos de quantidades inferiores a 5000 kg nem superiores a 20000 kg.
+
+2 - Os limites fixados no número anterior serão 10000 kg e 100000 kg, respectivamente, quando se trate de depósitos de sardinha congelada efectuados nos termos da alínea b) do n.º 1.º da Portaria n.º 535/85, de 2 de Agosto.
+
+> Alterado pelo/a [Portaria n.º 762/85](https://diariodarepublica.pt/dr/detalhe/portaria/762-1985-176676), publicado em 1985-10-04.
+
+###### Artigo 10.º
+
+1 - A quantidade mínima permitida, para levantamento parcial, é fixada em 5000 kg, salvo se o saldo do depósito for de peso inferior, em que o levantamento deverá ser total.
 
 2 - No caso de necessidade de retiradas para amostragem, exame ou análise, poderá ser consentido o levantamento parcial de 1 volume (cartonagem ou outro recipiente), desde que se mostre liquidado o valor da obrigação correspondente, no caso de o depósito ter sido objecto de concessão de crédito.
 
-Art. 11.º - 1 - O valor a atribuir a cada depósito de sardinha congelada será, respectivamente, o que resulte da média ponderada de valores das facturas de compra em lota da correspondente sardinha fresca ou da factura de compra da sardinha congelada a bordo, tendo em vista o disposto no n.º 1 do artigo 1.º da presente portaria.
+###### Artigo 11.º
 
-2 - Para efeitos de obtenção de crédito através do desconto de cautelas de penhor, os valores de cada depósito serão os referidos no número anterior, não podendo exceder o que resultar do preço máximo por quilograma de sardinha a fixar periodicamente pelo Ministro do Mar, precedendo parecer do IPCP.
+1 - O valor a atribuir a cada depósito de sardinha congelada será, respectivamente, o que resulte da média ponderada dos valores das facturas de compra em lota de sardinha fresca ou da factura de compra de sardinha congelada a bordo, acrescido dos custos de congelação, por quilograma, tendo em vista o disposto no n.º 1.º da presente portaria.
+
+2 - Para efeitos de obtenção de crédito através do desconto de cautelas de penhor, os valores de cada depósito serão os referidos no número anterior, não podendo exceder os que resultarem do preço máximo, por quilograma, de sardinha, incluindo o custo de congelação, a fixar, semestralmente por despacho do Ministro do Mar, precedido de parecer do IPCP.
 
 3 - Só os industriais de conservas e semiconservas de peixe podem beneficiar do disposto nos números anteriores e das restantes disposições da presente portaria.
 
-Art. 12.º Para além do seguro referido no artigo 45.º do Regulamento Geral dos Serviços de Armazéns Gerais Industriais do IPCP, as mercadorias a que estes artigos se reportam terão, obrigatoriamente, de ficar seguras contra risco de deterioração resultante de avaria mecânica ou falta de energia eléctrica que afecte o normal funcionamento da câmara onde o produto depositado se situe, figurando o IPCP como beneficiário aceite.
+> Alterado pelo/a [Portaria n.º 462/84](https://diariodarepublica.pt/dr/detalhe/portaria/462-1984-386009), publicado em 1984-07-14.
 
-Art. 13.º Em tudo o mais será aplicável o disposto no Regulamento Geral dos Serviços de Armazéns Gerais Industriais do IPCP.
+###### Artigo 12.º
+
+Para além do seguro referido no artigo 45.º do Regulamento Geral dos Serviços de Armazéns Gerais Industriais do IPCP, as mercadorias a que estes artigos se reportam terão, obrigatoriamente, de ficar seguras contra risco de deterioração resultante de avaria mecânica ou falta de energia eléctrica que afecte o normal funcionamento da câmara onde o produto depositado se situe, figurando o IPCP como beneficiário aceite.
+
+###### Artigo 13.º
+
+Em tudo o mais será aplicável o disposto no Regulamento Geral dos Serviços de Armazéns Gerais Industriais do IPCP.
 
 Ministério do Mar.
 

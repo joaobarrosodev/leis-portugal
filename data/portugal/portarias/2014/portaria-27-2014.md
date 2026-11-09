@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2020-04-02'
+version_history:
+  file: portaria-27-2014.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2014-02-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-04-02'
+    amending: pt:dre:130954976:por
+    amending_title: Portaria n.º 83/2020
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/27/2014/02/04/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:56:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 83/2020. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2014/portaria-27-2014.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,7 +179,9 @@ A presente portaria procede à aprovação da data prevista no n.º 1 do artigo 
 
 ###### Artigo 2.º — Data de extinção das tarifas transitórias para fornecimentos de eletricidade a clientes finais com consumos em AT, MT e BTE
 
-A data prevista no n.º 1 do artigo 6.º do [Decreto-Lei n.º 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro, alterado pelos Decretos-Leis n.os [75/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2012-553927), de 26 de março, [256/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2012-190603), de 29 de novembro e [13/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2014-571032), de 22 de janeiro, é fixada em 31 de dezembro de 2014.
+A data prevista no n.º 1 do artigo 6.º do [Decreto-Lei n.º 104/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2010-342644), de 29 de setembro, na sua redação atual, relativa à obrigatoriedade de fornecimento de eletricidade, pelos comercializadores de último recurso, a clientes finais com consumos em MT e BTE que não tenham contratado no mercado livre o seu fornecimento, é fixada, respetivamente em 31 de dezembro de 2021 e 31 de dezembro de 2022.
+
+> Alterado pelo/a [Portaria n.º 83/2020](https://diariodarepublica.pt/dr/detalhe/portaria/83-2020-130954976), publicado em 2020-04-01.
 
 ###### Artigo 3.º — Entrada em vigor
 

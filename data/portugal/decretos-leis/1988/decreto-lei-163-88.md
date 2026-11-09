@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-07-31'
+version_history:
+  file: decreto-lei-163-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-05-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-07-31'
+    amending: pt:dre:573105:por
+    amending_title: Decreto-Lei n.º 242/90
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:24:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 242/90. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-163-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -143,11 +158,19 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º Os mestres dos quadros dos institutos superiores de engenharia que sejam portadores de habilitação própria, conferida por curso superior ou não, e que se encontravam em exercício de funções docentes ou legalmente equiparadas à data da entrada em vigor do [Decreto-Lei n.º 94/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1982-608189), de 25 de Março, ficam abrangidos pelo regime do [Decreto-Lei n.º 319/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1984-399788), de 26 de Setembro.
+###### Artigo 1.º
 
-Art. 2.º Enquanto não obtiverem as condições estabelecidas no [Decreto-Lei n.º 311/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1984-399655), de 26 de Setembro, para efeitos de acesso ao 1.º escalão de vencimento os mestres dos quadros dos institutos superiores de engenharia mantêm o escalão de vencimentos que lhes foi atribuído pelo n.º 2 do artigo 2.º do [Decreto-Lei n.º 133/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1980-474086), de 17 de Maio.
+Os mestres dos quadros dos institutos superiores de engenharia que sejam portadores de habilitação própria, conferida por curso superior ou não, e que se encontravam em exercício de funções docentes ou legalmente equiparadas à data da entrada em vigor do [Decreto-Lei n.º 94/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1982-608189), de 25 de Março, ficam abrangidos pelo regime do [Decreto-Lei n.º 319/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1984-399788), de 26 de Setembro.
 
-Art. 3.º O curso de complemento de formação a que os mestres dos quadros dos institutos superiores de engenharia se têm de submeter deve ser concluído até 31 de Dezembro de 1989.
+###### Artigo 2.º
+
+Enquanto não obtiverem as condições estabelecidas no [Decreto-Lei n.º 311/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1984-399655), de 26 de Setembro, para efeitos de acesso ao 1.º escalão de vencimento os mestres dos quadros dos institutos superiores de engenharia mantêm o escalão de vencimentos que lhes foi atribuído pelo n.º 2 do artigo 2.º do [Decreto-Lei n.º 133/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1980-474086), de 17 de Maio.
+
+###### Artigo 3.º
+
+O curso de complemento de formação a que os mestres dos quadros dos institutos superiores de engenharia se têm de submeter deve ser concluído até 31 de Dezembro de 1990.
+
+> Alterado pelo/a [Decreto-Lei n.º 242/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-1990-573105), publicado em 1990-07-26.
 
 Visto e aprovado em Conselho de Ministros de 14 de Abril de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro.
 

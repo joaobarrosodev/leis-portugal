@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:419785:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1973-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "212204d6d7146866"
+   ]
+  },
+  {
+   "date": "1979-11-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:363280:por",
+     "title": "Decreto-Lei n.º 447/79",
+     "published": "1979-11-09",
+     "dre_path": "/dr/detalhe/decreto-lei/447-1979-363280"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "7e2e347a04f7941a",
+    "04188c2f1378f014",
+    "00c2b1399c29ba6f",
+    "fc31b90ff5afcf67",
+    "7c68ebf5ed0c5ee1",
+    "2b2b1dac43dbd4c7",
+    "9bca0b2749dfc8eb"
+   ]
+  }
+ ],
+ "fragments": {
+  "212204d6d7146866": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Agosto\n\nO [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, que estabeleceu a carreira docente universitária, previu a publicação de um novo regime para o pessoal docente das escolas superiores de belas-artes.\n\nTodavia, teve-se por conveniente que esse regime deveria aguardar a publicação da reforma do sistema educativo, que estabelece o ensino superior curto.\n\nDado que os vencimentos do pessoal docente daquelas escolas se encontram desactualizados, quando comparados com os dos professores de outros graus de ensino, o que, em boa parte, deverá ter contribuído para o não preenchimento da grande maioria dos lugares dos quadros, além do sistema moroso das provas dos concursos, urge proceder imediatamente a uma actualização das respectivas remunerações e tomar providências excepcionais quanto ao preenchimento dos lugares vagos.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º As categorias e os vencimentos do pessoal docente das escolas superiores de belas-artes são os constantes do mapa anexo ao presente diploma.\n\nArt. 2.º Os professores terão direito a uma só diuturnidade, decorridos quinze anos sobre o início das suas funções nesta categoria.\n\nArt. 3.º Poderá o Ministro da Educação Nacional, durante dois anos, ouvida uma comissão por ele designada, nomear ou contratar, como professores ou primeiros-assistentes, para as escolas superiores de belas-artes, individualidades especialmente qualificadas.\n\nArt. 4.º Dentro do prazo fixado no artigo anterior serão publicados, de acordo com a lei orientadora do ensino superior, os estatutos dessas escolas, nos quais se estabelecerão os regimes de concurso do seu pessoal docente.\n\nArt. 5.º Sem prejuízo do disposto no artigo anterior, ao provimento e recrutamento dos assistentes e dos assistentes eventuais são aplicáveis as disposições previstas no [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, para idênticas categorias.\n\nArt. 6.º - 1. Os segundos-assistentes que à data da entrada em vigor do presente diploma tiverem, pelo menos, dois anos lectivos de serviço passam a assistentes, mediante anotação do Tribunal de Contas.\n\n2. Os restantes segundos-assistentes ficam sujeitos ao regime definido para a categoria de assistente eventual.\n\n3. Em relação aos assistentes mencionados no n.º 1 deste artigo, o prazo estabelecido no n.º 1 do artigo 15.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, conta-se a partir do termo do segundo ano de serviço como segundo-assistente.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.\n\nPromulgado em 8 de Agosto de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nMapa anexo, a que se refere o artigo 1.º do Decreto-Lei n.º 426/73, de 24 de Agosto\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/19800/14861486.pdf)\n\nO Ministro da Educação Nacional, José Veiga Simão."
+  },
+  "7e2e347a04f7941a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Agosto\n\nO [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, que estabeleceu a carreira docente universitária, previu a publicação de um novo regime para o pessoal docente das escolas superiores de belas-artes.\n\nTodavia, teve-se por conveniente que esse regime deveria aguardar a publicação da reforma do sistema educativo, que estabelece o ensino superior curto.\n\nDado que os vencimentos do pessoal docente daquelas escolas se encontram desactualizados, quando comparados com os dos professores de outros graus de ensino, o que, em boa parte, deverá ter contribuído para o não preenchimento da grande maioria dos lugares dos quadros, além do sistema moroso das provas dos concursos, urge proceder imediatamente a uma actualização das respectivas remunerações e tomar providências excepcionais quanto ao preenchimento dos lugares vagos.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "04188c2f1378f014": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs categorias e os vencimentos do pessoal docente das escolas superiores de belas-artes são os constantes do mapa anexo ao presente diploma."
+  },
+  "00c2b1399c29ba6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs professores terão direito a uma só diuturnidade, decorridos quinze anos sobre o início das suas funções nesta categoria."
+  },
+  "fc31b90ff5afcf67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPoderá o Ministro da Educação Nacional, durante dois anos, ouvida uma comissão por ele designada, nomear ou contratar, como professores ou primeiros-assistentes, para as escolas superiores de belas-artes, individualidades especialmente qualificadas."
+  },
+  "7c68ebf5ed0c5ee1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nDentro do prazo fixado no artigo anterior serão publicados, de acordo com a lei orientadora do ensino superior, os estatutos dessas escolas, nos quais se estabelecerão os regimes de concurso do seu pessoal docente."
+  },
+  "2b2b1dac43dbd4c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1979-11-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 447/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1979-363280), publicado em 1979-11-09."
+   ],
+   "markdown": "###### Artigo 5.º\n\nSem prejuízo do disposto no artigo anterior, ao provimento e recrutamento dos assistentes, assistentes eventuais e assistentes especialmente contratados são aplicáveis as disposições previstas no [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.\n\n> Alterado pelo/a [Decreto-Lei n.º 447/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1979-363280), publicado em 1979-11-09."
+  },
+  "9bca0b2749dfc8eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os segundos-assistentes que à data da entrada em vigor do presente diploma tiverem, pelo menos, dois anos lectivos de serviço passam a assistentes, mediante anotação do Tribunal de Contas.\n\n2. Os restantes segundos-assistentes ficam sujeitos ao regime definido para a categoria de assistente eventual.\n\n3. Em relação aos assistentes mencionados no n.º 1 deste artigo, o prazo estabelecido no n.º 1 do artigo 15.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, conta-se a partir do termo do segundo ano de serviço como segundo-assistente.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.\n\nPromulgado em 8 de Agosto de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nMapa anexo, a que se refere o artigo 1.º do Decreto-Lei n.º 426/73, de 24 de Agosto\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1973/08/19800/14861486.pdf)\n\nO Ministro da Educação Nacional, José Veiga Simão."
+  }
+ }
+}

@@ -28,10 +28,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-10-04'
+version_history:
+  file: decreto-lei-613-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-10-04'
+    amending: pt:dre:430860:por
+    amending_title: Decreto-Lei n.º 623/76; Decreto-Lei n.º 437/80
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:21:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 623/76; Decreto-Lei
+    n.º 437/80. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-613-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,17 +148,19 @@ ESTATUTO DA EMPRESA PÚBLICA DE URBANIZAÇÃO DE LISBOA
 
 ### CAPÍTULO I — Natureza, atribuições e competência
 
-###### ARTIGO 1.º
+###### Artigo 1.º
 
 A Empresa Pública de Urbanização de Lisboa, abreviadamente designada neste diploma por E. P. U. L., é uma pessoa colectiva de direito público, dotada de autonomia administrativa e financeira, e constitui uma empresa pública destinada a auxiliar e desenvolver a acção municipal no estudo e na execução de empreendimentos urbanísticos.
 
-###### ARTIGO 2.º
+###### Artigo 2.º
 
 1. A E. P. U. L. tem a sua sede em Lisboa e prossegue as suas atribuições na área do respectivo concelho.
 
-2. Com autorização do Governo, porém, poderá ser-lhe confiada a realização de estudos urbanísticos ou de obras de urbanização ou de renovação urbana em áreas da federação obrigatória dos concelhos da zona de Lisboa, nas condições que para o efeito vierem a ser acordadas entre a Câmara Municipal de Lisboa, abreviadamente designada neste diploma por C. M. L., a empresa e a outra ou as outras câmaras municipais interessadas.
+2 - Com autorização do Governo, porém, poderá ser-lhe confiada a realização de estudos urbanísticos ou de obras de urbanização ou de renovação urbana em outras áreas, nas condições que vierem a ser acordadas entre a Câmara Municipal de Lisboa, abreviadamente designada neste diploma por CML, a empresa e a outra ou outras autarquias interessadas.
 
-###### ARTIGO 3.º
+> Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03.
+
+###### Artigo 3.º
 
 1. Constituem atribuições da E. P. U. L.:
 
@@ -148,7 +170,7 @@ b) A realização de obras convenientes à urbanização ou renovação urbana d
 
 2. Fora dos casos abrangidos pelo n.º 2 do artigo anterior, compete à C. M. L. designar as áreas cujo estudo ou cuja urbanização ou renovação urbana deverão ser confiados à E. P. U. L.
 
-###### ARTIGO 4.º
+###### Artigo 4.º
 
 1. Para o desempenho das suas atribuições compete à E. P. U. L.:
 
@@ -188,15 +210,17 @@ r) Praticar os demais actos necessários à prossecução das suas atribuições
 
 2. As obras da competência da E. P. U. L. podem ser executadas em regime de administração directa ou de empreitada e não carecem de licença se o projecto respectivo tiver sido aprovado pela câmara municipal.
 
-3. A alienação de bens imóveis só poderá ser feita mediante hasta pública, precedendo anúncios de, pelo menos, vinte dias.
+3. A alienação de bens imóveis será feita mediante hasta pública ou por propostas em carta fechada e lacrada, a abrir em sessão do conselho de administração, precedendo, em ambos os casos, anúncios de, pelo menos, vinte dias.
 
-4. Exceptuam-se do disposto no número anterior, além das cedências de terrenos a que se refere o n.º 1 do artigo 43.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, as alienações a favor do Estado, dos seus institutos públicos ou de autarquias locais, as cessões para alinhamento e as que se destinem à formação de lotes para construção, desde que, neste caso, a área a ceder não seja superior a 30 por cento da área do lote a constituir, e quaisquer outras previstas na lei.
+4. Exceptuam-se do disposto no número anterior, além das alienações em relação às quais for autorizado o ajuste ou acordo directo por despacho conjunto do Ministro da Administração Interna e do Ministro da Habitação, Urbanismo e Construção, as cedências de terrenos a que se refere o n.º 1 do artigo 43.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, as alienações a favor de pessoas colectivas de direito público e de pessoas colectivas de utilidade pública administrativa, as cessões para alinhamento e as que se destinem à formação de lotes para construção, desde que, neste último caso, a área a ceder não seja superior a 30% da área do lote a constituir, e quaisquer outras previstas na lei.
+
+> Alterado pelo/a [Decreto-Lei n.º 623/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/623-1976-430860), publicado em 1976-07-28.
 
 ### CAPÍTULO II — Órgãos da Empresa
 
 #### SECÇÃO I — Composição
 
-###### ARTIGO 5.º
+###### Artigo 5.º
 
 A E. P. U. L. é administrada e fiscalizada, respectivamente, pelos seguintes órgãos:
 
@@ -206,7 +230,7 @@ b) Conselho fiscal.
 
 #### SECÇÃO II — Conselho de administração
 
-###### ARTIGO 6.º
+###### Artigo 6.º
 
 1. O conselho de administração é constituído por um presidente e quatro vogais.
 
@@ -214,23 +238,25 @@ b) Conselho fiscal.
 
 3. As funções de membro do conselho de administração são incompatíveis com o exercício de quaisquer cargos ou actividades em empresas que se proponham objectivos idênticos ou afins dos da E. P. U. L. ou em empresas que com esta tenham contrato, e, bem assim, com a titularidade de quotas em qualquer dessas empresas ou de interesse em contrato com a E. P. U. L.
 
-4. Um dos vogais do conselho será designado pela Câmara para as funções de administrador-delegado; quando a designação recair em funcionário do Estado ou dos seus institutos públicos ou das autarquias locais, as funções serão exercidas em comissão de serviço.
+4 - Um dos vogais do conselho será designado pela Câmara para as funções de administrador-delegado.
 
-###### ARTIGO 7.º
+> Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03.
+
+###### Artigo 7.º
 
 Nas suas faltas ou impedimentos, o presidente do conselho de administração será substituído pelo vogal que ele designar, ou, não havendo designação, pelo mais antigo.
 
-###### ARTIGO 8.º
+###### Artigo 8.º
 
-1. O presidente do conselho de administração e os vogais receberão ordenado mensal.
+O presidente e os vogais do conselho de administração receberão ordenado mensal, tendo ainda direito aos subsídios e às regalias sociais correspondentes aos gestores públicos.
 
-2. No caso de os vogais exercerem cumulativamente funções em serviços do Estado, em institutos públicos ou em autarquias locais, o ordenado será substituído por gratificação mensal.
+> Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03.
 
-###### ARTIGO 9.º
+###### Artigo 9.º
 
 O conselho de administração reúne, ordinàriamente, pelo menos duas vezes por mês e, extraordinàriamente, sempre que seja convocado pelo presidente.
 
-###### ARTIGO 10.º
+###### Artigo 10.º
 
 1. Compete ao conselho de administração praticar todos os actos necessários à gestão da Empresa, designadamente:
 
@@ -268,11 +294,11 @@ q) Praticar os demais actos que lhe caibam nos termos do presente estatuto e dos
 
 2. O conselho de administração pode delegar determinados poderes da sua competência em um ou mais dos seus membros, estabelecendo em cada caso os limites e condições de exercício da delegação.
 
-###### ARTIGO 11.º
+###### Artigo 11.º
 
 Das deliberações definitivas e executórias tomadas pelo conselho de administração, bem como dos actos da mesma natureza praticados por sua delegação, cabe recurso contencioso para a Auditoria Administrativa.
 
-###### ARTIGO 12.º
+###### Artigo 12.º
 
 Compete ao presidente do conselho de administração:
 
@@ -286,7 +312,7 @@ d) Suspender, se julgar conveniente, a execução das deliberações do conselho
 
 e) As demais funções estabelecidas neste estatuto e regulamentos internos.
 
-###### ARTIGO 13.º
+###### Artigo 13.º
 
 Compete ao administrador-delegado:
 
@@ -302,7 +328,7 @@ e) Desempenhar quaisquer outras funções que lhe sejam cometidas e as demais in
 
 #### SECÇÃO III — Conselho fiscal
 
-###### ARTIGO 14.º
+###### Artigo 14.º
 
 1. O conselho fiscal é constituído por um presidente e dois vogais, nomeados pelo período de cinco anos, renovável.
 
@@ -310,15 +336,15 @@ e) Desempenhar quaisquer outras funções que lhe sejam cometidas e as demais in
 
 3. Cada membro do conselho fiscal terá um suplente, designado nos mesmos termos.
 
-###### ARTIGO 15.º
+###### Artigo 15.º
 
 Os membros do conselho fiscal recebem uma gratificação mensal.
 
-###### ARTIGO 16.º
+###### Artigo 16.º
 
 O conselho fiscal reúne ordinàriamente uma vez por mês e, extraordinàriamente, sempre que seja convocado pelo respectivo presidente, bem como a pedido do conselho de administração.
 
-###### ARTIGO 17.º
+###### Artigo 17.º
 
 Compete ao conselho fiscal:
 
@@ -340,7 +366,7 @@ h) Sugerir ao conselho de administração ou à C. M. L. as providências necess
 
 i) Exercer as demais funções estabelecidas neste estatuto e regulamentos da empresa ou que lhe sejam cometidas por lei.
 
-###### ARTIGO 18.º
+###### Artigo 18.º
 
 1. Às reuniões do conselho de administração assistirá sempre um membro do conselho fiscal, o qual terá voto nos casos expressamente previstos no presente estatuto e regulamentos da Empresa.
 
@@ -352,13 +378,13 @@ i) Exercer as demais funções estabelecidas neste estatuto e regulamentos da em
 
 5. Quando algumas das matérias referidas no n.º 2 deste artigo for objecto de decisão tomada por delegação do conselho de administração, será a decisão submetida à aprovação do representante do conselho fiscal, observando-se o disposto no n.º 3, no caso de parecer desfavorável.
 
-###### ARTIGO 19.º
+###### Artigo 19.º
 
 O conselho de administração facultará ao conselho fiscal os meios indispensáveis ao exercício das suas funções.
 
 #### SECÇÃO IV — Disposições comuns
 
-###### ARTIGO 20.º
+###### Artigo 20.º
 
 1. O conselho de administração e o conselho fiscal só podem deliberar quando esteja presente a maioria dos respectivos membros.
 
@@ -368,27 +394,35 @@ O conselho de administração facultará ao conselho fiscal os meios indispensá
 
 4. As actas serão lavradas pelo empregado da E. P. U. L. designado para esse efeito e assinadas por quem tiver presidido às reuniões, podendo ser aprovadas no final destas, em minuta, ou na reunião que se seguir.
 
-###### ARTIGO 21.º
+###### Artigo 21.º
 
-As funções de vogal do conselho de administração, salvo a de administrador-delegado, bem como as de membro do conselho fiscal, não são incompatíveis com o exercício de funções no Estado, nos seus institutos públicos e nas autarquias locais.
+1 - Os funcionários e agentes do Estado, de quaisquer pessoas colectivas de direito público e de empresas nacionalizadas designados para o conselho de administração consideram-se em comissão de serviço, podendo os respectivos lugares ser providos interinamente.
 
-###### ARTIGO 22.º
+2 - Os empregados de empresas privadas que se encontrem na situação prevista no número anterior mantêm o direito aos lugares de origem, os quais só poderão ser preenchidos transitoriamente.
 
-1. Os ordenados ou gratificações dos membros do conselho de administração e as gratificações dos membros do conselho fiscal serão fixados pelo Ministro do Interior, dentro de limites estabelecidos em Conselho de Ministros.
+3 - O tempo de serviço prestado à EPUL pelos membros do conselho de administração a que aludem os números antecedentes será contado como se tivesse sido prestado nos quadros do Estado, das pessoas colectivas de direito público ou das empresas a que pertençam, mantendo aqueles, durante o exercício das respectivas funções, o direito às promoções, ao acesso a concurso, às regalias e benefícios sociais e a qualquer outro direito adquirido.
 
-2. Os membros dos mesmos conselhos poderão participar nos lucros da Empresa, nos termos do presente estatuto.
+4 - Os membros do conselho de administração abrangidos por este artigo podem optar, em qualquer momento, pelos vencimentos correspondentes ao seu cargo ou lugar de origem, competindo, porém, sempre o seu pagamento à EPUL, a qual suportará igualmente os encargos imputáveis à entidade patronal relativos às regalias ou benefícios sociais referidos no número antecedente.
 
-###### ARTIGO 23.º
+> Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03.
+
+###### Artigo 22.º
+
+Os ordenados dos membros do conselho de administração e as gratificações dos membros do conselho fiscal serão fixados pelo Ministro da Administração Interna, dentro dos limites estabelecidos para as restantes empresas públicas.
+
+> Alterado pelo/a [Decreto-Lei n.º 437/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1980-461474), publicado em 1980-10-03.
+
+###### Artigo 23.º
 
 Os membros do conselho de administração e do conselho fiscal são equiparados ao pessoal da Empresa em matéria de responsabilidade.
 
-###### ARTIGO 24.º
+###### Artigo 24.º
 
 Os vogais do conselho de administração e os membros do conselho fiscal tomam posse perante o presidente da C. M. L.
 
 ### CAPÍTULO III — Do pessoal
 
-###### ARTIGO 25.º
+###### Artigo 25.º
 
 1. O pessoal da E. P. U. L. será contratado ou assalariado e ficará sujeito ao regime do contrato individual de trabalho, com as adaptações exigidas pelas características da Empresa que forem definidas em decreto regulamentar referendado pelos Ministros do Interior e das Corporações e Previdência Social.
 
@@ -398,7 +432,7 @@ a) Quanto à prestação de serviço, ao regime próprio dos funcionários das a
 
 b) No que respeita às relações com os quadros de origem, ao regime sobre comissões de serviço aplicável ao respectivo quadro.
 
-###### ARTIGO 26.º
+###### Artigo 26.º
 
 1. As remunerações do pessoal são fixadas pelo conselho de administração, com parecer favorável do conselho fiscal, e carecem de homologação do Ministro do Interior.
 
@@ -406,27 +440,27 @@ b) No que respeita às relações com os quadros de origem, ao regime sobre comi
 
 3. Para estímulo e distinção dos melhores servidores da Empresa, o conselho de administração, com o parecer favorável do conselho fiscal. poderá atribuir prémios, nas condições que forem estabelecidas em regulamento interno
 
-###### ARTIGO 27.º
+###### Artigo 27.º
 
 O pessoal da E. P. U. L. fica submetido ao regime geral de previdência social aplicável ao pessoal das empresas privadas, salvo o pessoal a que se refere o n.º 2 do artigo 25.º, que continua sujeito ao regime aplicável ao pessoal do respectivo quadro de origem.
 
-###### ARTIGO 28.º
+###### Artigo 28.º
 
 O pessoal da E. P. U. L., incluindo os funcionários a que e refere o n.º 2 do artigo 25.º, fica sujeito, quanto às respectivas remunerações, à tributação que incide sobre as remunerações pagas pelas empresas privadas.
 
-###### ARTIGO 29.º
+###### Artigo 29.º
 
 1. O pessoal será admitido conforme as necessidades da Empresa, dentro das respectivas dotações orçamentais.
 
 2. O conselho de administração pode ajustar a celebração de contratos de prestação de serviços que se mostrem convenientes, nas condições por ele fixadas em cada caso.
 
-###### ARTIGO 30.º
+###### Artigo 30.º
 
 Ao pessoal da E. P. U. L. é aplicável o regime do artigo 39.º do Estatuto do Trabalho Nacional.
 
 ### CAPÍTULO IV — Gestão financeira e patrimonial
 
-###### ARTIGO 31.º
+###### Artigo 31.º
 
 A gestão financeira e patrimonial da E. P. U. L. basear-se-á nos seguintes documentos:
 
@@ -436,15 +470,15 @@ b) Programas anuais de trabalhos;
 
 c) Orçamentos anuais e suplementares.
 
-###### ARTIGO 32.º
+###### Artigo 32.º
 
 Nos planos financeiros prever-se-ão especialmente, em relação aos períodos a que respeitem, a evolução das receitas e das despesas, os investimentos projectados e as fontes de financiamento a que deverá recorrer-se.
 
-###### ARTIGO 33.º
+###### Artigo 33.º
 
 A contabilidade obedecerá às regras de gestão empresarial, mantendo-se paralelamente a escrituração da execução orçamental.
 
-###### ARTIGO 34.º
+###### Artigo 34.º
 
 1. A E. P. U. L. organizará em cada ano económico um orçamento ordinário e os orçamentos suplementares que entenda necessários à sua gestão financeira.
 
@@ -452,7 +486,7 @@ A contabilidade obedecerá às regras de gestão empresarial, mantendo-se parale
 
 3. Os orçamentos serão executados de modo que, na efectivação das despesas, se respeitem os princípios da autorização dependente de cabimento na dotação orçamental e da obtenção da maior eficiência com o menor dispêndio possível.
 
-###### ARTIGO 35.º
+###### Artigo 35.º
 
 Constituem receitas da E. P. U. L.:
 
@@ -472,7 +506,7 @@ g) O produto de empréstimos:
 
 h) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que por lei ou contrato devam pertencer-lhe.
 
-###### ARTIGO 36.º
+###### Artigo 36.º
 
 1. A E. P. U. L. pode contrair empréstimos a curto, médio e longo prazos em estabelecimentos bancários ou mediante a emissão de obrigações.
 
@@ -480,13 +514,13 @@ h) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou qu
 
 3. A E. P. U. L. poderá igualmente contrair empréstimos a curto e médio prazos em estabelecimentos bancários nacionais, para antecipação de receitas, aquisição de material ou maneio da tesouraria.
 
-###### ARTIGO 37.º
+###### Artigo 37.º
 
 1. A amortização dos bens da E. P. U. L. e, quando a ela houver lugar, a dos bens do domínio público a seu cargo serão efectuadas nos termos que forem fixados pelo conselho de administração, ouvido o conselho fiscal.
 
 2. O valor anual das amortizações constituirá encargo de exploração e será escriturado em conta especial.
 
-###### ARTIGO 38.º
+###### Artigo 38.º
 
 1. A E. P. U. L. poderá fazer as provisões e reservas consentidas por lei às empresas comerciais, sendo obrigatórias, porém, as reservas seguintes:
 
@@ -506,13 +540,13 @@ c) As importâncias resultantes da transmissão ou constituição de direitos re
 
 4. A reserva geral pode ser utilizada para cobrir eventuais prejuízos de exercício.
 
-###### ARTIGO 39.º
+###### Artigo 39.º
 
 1. Serão elaborados anualmente, com referência ao dia 31 de Dezembro, o cadastro dos bens da empresa, o balanço, a conta de ganhos e perdas do exercício e a conta de gerência.
 
 2. Até 10 de Abril deverá ser remetido à C. M. L. o relatório do conselho de administração referente ao exercício anterior, acompanhado do balanço, das contas de gerência e de ganhos e perdas e do parecer do conselho fiscal.
 
-###### ARTIGO 40.º
+###### Artigo 40.º
 
 1. Quando a conta de ganhos e perdas de um exercício encerre com lucros, o conselho de administração levará à reserva geral 5 por cento, pelo menos, e atribuirá à C. M. L. 20 por cento, a título de participação nos lucros da Empresa, dispondo do remanescente nos termos indicados nos números seguintes.
 
@@ -532,17 +566,17 @@ d) À C. M. L., como aumento da participação estabelecida no n.º 1.
 
 5. Se a conta saldar com prejuízo que não possa ser suportado pela reserva geral, será levado à conta do exercício seguinte ou coberto pela C. M. L., quando esta o entender conveniente.
 
-###### ARTIGO 41.º
+###### Artigo 41.º
 
 1. As contas de gerência da E. P. U. L. estão sujeitas a julgamento do Tribunal de Contas.
 
 2. Para esse efeito, a C. M. L. remeterá ao referido Tribunal, até 15 de Maio de cada ano, a conta de gerência da Empresa relativa ao ano anterior, acompanhada do parecer que sobre ela tenha emitido.
 
-###### ARTIGO 42.º
+###### Artigo 42.º
 
 O relatório de exercício do conselho de administração, o balanço, as contas da Empresa e o parecer do conselho fiscal serão publicados no Diário do Governo e no Diário Municipal da C. M. L.
 
-###### ARTIGO 43.º
+###### Artigo 43.º
 
 1. As disponibilidades em numerário sem aplicação imediata serão depositadas à ordem ou a prazo na Caixa Geral de Depósitos.
 
@@ -552,7 +586,7 @@ O relatório de exercício do conselho de administração, o balanço, as contas
 
 Intervenção da C. M. L.
 
-###### ARTIGO 44.º
+###### Artigo 44.º
 
 Carecem de aprovação da C. M. L.:
 
@@ -572,25 +606,25 @@ g) As minutas dos contratos a celebrar pela Empresa, com aval ou outra garantia 
 
 h) As propostas ou pedidos que tenham de ser submetidos ao Governo.
 
-###### ARTIGO 45.º
+###### Artigo 45.º
 
 A C. M. L. pode fiscalizar os órgãos e os serviços da E. P. U. L., responsabilizando os membros daqueles pelo não cumprimento das disposições legais.
 
-###### ARTIGO 46.º
+###### Artigo 46.º
 
 Os conselho de administração e conselho fiscal prestarão à C. M. L. as informações que esta tiver por convenientes.
 
-###### ARTIGO 47.º
+###### Artigo 47.º
 
 A C. M. L. poderá avalizar ou garantir por outra forma obrigações contraídas pela E. P. U. L., desde que autorizada pelo Governo.
 
-###### ARTIGO 48.º
+###### Artigo 48.º
 
 Quando, no âmbito de actuação da E. P. U. L., sejam aconselháveis concessões de obras públicas ou de outra natureza, a C. M. L. será entidade concedente.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### ARTIGO 49.º
+###### Artigo 49.º
 
 1. A E. P. U. L. reger-se-á pelo disposto no presente estatuto na organização dos seus serviços e nos regulamentos a ela relativos.
 
@@ -598,7 +632,7 @@ Quando, no âmbito de actuação da E. P. U. L., sejam aconselháveis concessõe
 
 3. É aplicável à E. P. U. L. o regime jurídico de fiscalização de sociedades anónimas, salvo as disposições incompatíveis com o presente estatuto e o carácter público da Empresa.
 
-###### ARTIGO 50.º
+###### Artigo 50.º
 
 1. A C. M. L. transmitirá à E. P. U. L. os bens municipais existentes nas áreas de cuja urbanização ou renovação urbana for por ela encarregada e que sejam necessários para o efeito.
 
@@ -610,17 +644,17 @@ Quando, no âmbito de actuação da E. P. U. L., sejam aconselháveis concessõe
 
 5. O disposto no n.º 4 é aplicável, com as devidas adaptações, às transmissões de bens a efectuar entre a E. P. U. L. e as câmaras dos outros concelhos em cujas áreas venha a exercer actividade, de harmonia com os princípios estabelecidos nos n.os 1 e 2.
 
-###### ARTIGO 51.º
+###### Artigo 51.º
 
 1. A E. P. U. L. goza de isenção de contribuições, impostos, taxas, custas judiciais, emolumentos, licenças administrativas e demais imposições de que beneficia a C. M. L, nos mesmos termos desta.
 
 2. A Empresa goza também de isenção, relativamente aos edifícios construídos por ela ou por sua conta, das taxas sanitárias por vistorias a prédios urbanos e licenciamento de obras, habitação ou ocupação de prédios, estabelecidas na [Portaria n.º 23298](https://diariodarepublica.pt/dr/detalhe/portaria/23298-1968-234925), de 6 de Abril de 1968.
 
-###### ARTIGO 52.º
+###### Artigo 52.º
 
 São aplicáveis aos despejos de prédios pertencentes à E. P. U. L. as disposições legais relativas aos despejos de prédios dos municípios.
 
-###### ARTIGO 53.º
+###### Artigo 53.º
 
 1. A E. P. U. L. conservará em arquivo, pelo prazo de vinte anos, os elementos da sua escrita principal e a correspondência; os restantes documentos e elementos de escrita poderão ser inutilizados, mediante autorização do conselho de administração, depois de decorridos cinco anos sobre a sua entrada ou elaboração na Empresa.
 
@@ -628,7 +662,7 @@ São aplicáveis aos despejos de prédios pertencentes à E. P. U. L. as disposi
 
 3. As fotocópias autenticadas têm a mesma força probatória dos originais, ainda quando se trate de ampliações dos microfilmes que os reproduzam.
 
-###### ARTIGO 54.º
+###### Artigo 54.º
 
 As dúvidas que se suscitarem na aplicação do presente estatuto serão resolvidas por despacho do Ministro do Interior.
 

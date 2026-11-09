@@ -1,0 +1,366 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:220759:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-11-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8ac00a4ef0ea7be4",
+    "7342f7b1dcac3873",
+    "7dcf44bb4309d51f",
+    "20a2419742e4d6a7",
+    "9c94c88e051eb88b",
+    "d6e495256eb021d5",
+    "7582187844dd0d30",
+    "727b952fb2880af2",
+    "b190fb209fab4da8",
+    "f4fae754ded0b614",
+    "de8a0b83b015e783",
+    "524ee28983bd9f65",
+    "4370bca78dd88f94",
+    "06f282cae3a4cf73",
+    "830ae674df211196",
+    "2dd9a9cf0a3c247a",
+    "26ae57a6597ef116",
+    "b1d48bcfafefd2d0",
+    "959d33b694dd2033",
+    "9edd61c40733414e",
+    "51bcfd4e97d85e0c",
+    "624765a7ef2118a4",
+    "df7fa03e99ac3994",
+    "23a9bcc3190ac0c5",
+    "cdab4f0f8cd1a9a8",
+    "2a44aa9be345509a",
+    "0a1dea66aba03637",
+    "5e2a09ea32e20947",
+    "c0e6f81b57a1e801",
+    "8b348e1d1ab4fbb6",
+    "3ae444579c1b5ffb",
+    "2052c909a534eec5"
+   ]
+  },
+  {
+   "date": "1990-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:563608:por",
+     "title": "Decreto Regulamentar n.º 43/90",
+     "published": "1990-12-19",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/43-1990-563608"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "8ac00a4ef0ea7be4",
+    "7342f7b1dcac3873",
+    "7dcf44bb4309d51f",
+    "20a2419742e4d6a7",
+    "9c94c88e051eb88b",
+    "d6e495256eb021d5",
+    "7582187844dd0d30",
+    "727b952fb2880af2",
+    "b190fb209fab4da8",
+    "f4fae754ded0b614",
+    "de8a0b83b015e783",
+    "524ee28983bd9f65",
+    "4370bca78dd88f94",
+    "06f282cae3a4cf73",
+    "830ae674df211196",
+    "2dd9a9cf0a3c247a",
+    "26ae57a6597ef116",
+    "b1d48bcfafefd2d0",
+    "959d33b694dd2033",
+    "9edd61c40733414e",
+    "51bcfd4e97d85e0c",
+    "624765a7ef2118a4",
+    "7b7ff72629217ab5",
+    "23a9bcc3190ac0c5",
+    "cdab4f0f8cd1a9a8",
+    "2a44aa9be345509a",
+    "0a1dea66aba03637",
+    "5e2a09ea32e20947",
+    "c0e6f81b57a1e801",
+    "8b348e1d1ab4fbb6",
+    "3ae444579c1b5ffb",
+    "2052c909a534eec5"
+   ]
+  }
+ ],
+ "fragments": {
+  "8ac00a4ef0ea7be4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, ao estabelecer a lei quadro das direcções regionais de agricultura, veio definir, genericamente, a sua natureza, áreas funcionais, atribuições e os princípios a que deve obedecer a organização e estrutura dos seus órgãos e serviços.\n\nNos termos do artigo 22.º do mesmo diploma, a estrutura, competências e quadros de pessoal dos órgãos e serviços das direcções regionais de agricultura serão objecto de decreto regulamentar.\n\nDentro deste princípio, o presente diploma estabelece as disposições regulamentares relativas à Direcção Regional de Agricultura de Trás-os-Montes.\n\nA estrutura estabelecida procura, fundamentalmente, contemplar as características próprias de uma região do interior, considerada zona desfavorecida e de prioridade absoluta, em que os princípios orientadores da política agrícola se possam potenciar através dos recursos agrários existentes e que são susceptíveis de melhorarem os rendimentos e as condições de vida dos agricultores, numa perspectiva do seu enquadramento a níveis sensivelmente semelhantes aos dos agricultores da Comunidade Económica Europeia.\n\nA necessidade de célere implementação das medidas de carácter sócio-industrial que visem o acréscimo de produtividade e de rendibilidade das explorações agrárias, agora inseridas, com a adesão ao Mercado Comum, num espaço económico de mercado acentuadamente concorrencial, impõe e justifica uma estrutura de serviços de características dinâmicas, com uma estratégia de adaptação tecnológica essencialmente vocacionada para os interesses dos agricultores.\n\nDentro deste princípio, o reforço dos serviços de formação profissional, vulgarização e experimentação constituirá um elemento indispensável, que em muito contribuirá como fonte geradora e difusora de novos conhecimentos, ou a adaptar aos condicionalismos existentes, para a viragem, a nível regional e local, dos padrões de produtividade, de criatividade e de modernidade de agricultura da região.\n\nUma outra área contemplada no presente diploma é a criação de estruturas de apoio à agricultura regional, às estruturas de produção e às de transformação e comercialização, procurando enquadrá-las, melhorá-las e potenciá-las em modelos com experiência adquirida que já provaram o seu inegável interesse e importância regional.\n\nEste necessário equilíbrio entre a experiência adquirida através de acções inseridas e já concretizadas no Programa de Desenvolvimento Rural Integrado de Trás-os-Montes e os grandes objectivos e metas a atingir em termos de política agrícola comunitária permite uma elasticidade de articulação dos serviços com os agricultores que a nova estrutura orgânica da Direcção Regional de Agricultura de Trás-os-Montes contempla em moldes de regionalização, planeamento e programação, aspectos muitíssimo concretos, que serão progressivamente aperfeiçoados, à medida que os objectivos da política agrícola comum forem sendo cumpridos.\n\nImporta, por fim, assinalar e acentuar a necessidade imperiosa do accionamento da legislação relativa aos incentivos à mobilidade e fixação na periferia, como condição fundamental para a operacionalidade dos serviços que a nova estrutura orgânica da DRATM (Direcção Regional de Agricultura de Trás-os-Montes) contempla, o que, a não se verificar, poderá conduzir a que o apoio ao desenvolvimento da agricultura regional possa ser seriamente prejudicado.\n\nAtendendo ao disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "7342f7b1dcac3873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições"
+  },
+  "7dcf44bb4309d51f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direcção Regional de Agricultura de Trás-os-Montes, abreviadamente designada por DRATM, é um serviço na dependência directa do Ministro da Agricultura, Pescas e Alimentação e dotado de autonomia administrativa, cuja acção se desenvolve na Região Agrária de Trás-os-Montes, definida no mapa I anexo ao [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, e que se ocupa do apoio directo ao sector agrário, a nível regional e local, com vista à sua dinamização e modernização, numa perspectiva integrada e de acordo com a política e os objectivos definidos para o sector agrário nacional."
+  },
+  "20a2419742e4d6a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nÀ DRATM incumbem as atribuições constantes do artigo 2.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho."
+  },
+  "9c94c88e051eb88b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços e suas competências"
+  },
+  "d6e495256eb021d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos e serviços\n\nA DRATM compreende os seguintes órgãos e serviços:\n\n1) Órgãos:\n\na) Director regional;\n\nb) Conselho regional agrário;\n\nc) Conselho técnico regional;\n\nd) Conselho administrativo;\n\n2) Serviços de apoio técnico e administrativo:\n\na) Gabinete de Planeamento Agrário Regional;\n\nb) Direcção de Serviços de Administração;\n\nc) Divisão de Informação de Contabilidades Agrícolas;\n\nd) Divisão de Informação de Mercados Agrícolas;\n\ne) Núcleo de Organização e Informática;\n\n3) Serviços operativos de âmbito regional:\n\na) Direcção de Serviços de Extensão;\n\nb) Direcção de Serviços de Experimentação e Fomento da Produção Agro-Pecuária;\n\nc) Direcção de Serviços Vitivinícolas;\n\nd) Direcção de Serviços de Protecção à Produção Animal;\n\ne) Direcção de Serviços de Apoio às Estruturas;\n\nf) Divisão de Protecção à Produção Vegetal;\n\n4) Serviços operativos de âmbito local:\n\nDivisões de zonas agrárias."
+  },
+  "7582187844dd0d30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\n1 - O director regional tem as competências referidas no artigo 5.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.\n\n2 - O conselho regional agrário, o conselho técnico regional e o conselho administrativo têm a natureza, constituição e competências, respectivamente, referidas nos artigos 6.º e 7.º, 8.º e 9.º e 10.º e 11.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho."
+  },
+  "727b952fb2880af2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Gabinete de Planeamento Agrário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Gabinete de Planeamento Agrário Regional\n\n1 - O Gabinete de Planeamento Agrário Regional, dirigido por um director de serviços, integra as competências referidas no artigo 12.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.\n\n2 - O Gabinete de Planeamento Agrário Regional, abreviadamente designado por GAPAR, para o desenvolvimento das suas actividades, deverá articular-se com os órgãos e restantes serviços da DRATM e ainda com os gabinetes de planeamento dos serviços centrais e regionais do Ministério.\n\n3 - O GAPAR compreende as seguintes divisões:\n\na) Planeamento, Programação e Controle;\n\nb) Estatística;\n\nc) Documentação e Informação;\n\nd) Análise e Projectos.\n\n4 - As competências das Divisões de Planeamento, Programação e Controle, de Estatística, de Documentação e Informação e de Análise e Projectos são, respectivamente, as referidas nos n.os 1, 2, 3 e 4 do artigo 12.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho."
+  },
+  "b190fb209fab4da8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Direcção de Serviços de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direcção de Serviços de Administração\n\n1 - A Direcção de Serviços de Administração, abreviadamente designada por DSA, integra as competências referidas no artigo 13.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.\n\n2 - A DSA, para o desenvolvimento das suas actividades, deverá articular-se com os órgãos e restantes serviços da DRATM e com a Direcção-Geral dos Serviços Centrais e manter contactos com as correspondentes unidades orgânicas dos restantes serviços centrais e regionais.\n\n3 - A DSA compreende as seguintes repartições:\n\na) Pessoal e Expediente;\n\nb) Financeira e Patrimonial.\n\n4 - A Repartição de Pessoal e Expediente compreende as seguintes secções:\n\na) Pessoal;\n\nb) Expediente e Arquivo.\n\n5 - As competências das Secções de Pessoal e de Expediente e Arquivo são as constantes, respectivamente, das alíneas a) a c) do n.º 1 do artigo 13.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.\n\n6 - A Repartição Financeira e Patrimonial compreende as seguintes secções:\n\na) Orçamento e Conta;\n\nb) Contabilidade;\n\nc) Património e Aprovisionamento.\n\n7 - As competências das Secções de Orçamento e Conta, de Contabilidade e de Património e Aprovisionamento são as constantes, respectivamente, das alíneas a) a c), d) a f) e g) a i) do n.º 2 do artigo 13.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho."
+  },
+  "f4fae754ded0b614": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º"
+  },
+  "de8a0b83b015e783": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Informação de Contabilidades Agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Informação de Contabilidades Agrícolas\n\nA Divisão de Informação de Contabilidades Agrícolas tem as competências referidas no n.º 2 do artigo 8.º do [Decreto-Lei n.º 90/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1985-325108), de 1 de Abril."
+  },
+  "524ee28983bd9f65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º"
+  },
+  "4370bca78dd88f94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Informação de Mercados Agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Informação de Mercados Agrícolas\n\nA Divisão de Informação de Mercados Agrícolas tem as competências referidas no n.º 2 do artigo 11.º do [Decreto-Lei n.º 91/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1985-325109), de 1 de Abril."
+  },
+  "06f282cae3a4cf73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Núcleo de Organização e Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Núcleo de Organização e Informática\n\nO Núcleo de Organização e Informática tem as competências referidas no artigo 14.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, e é coordenado por um funcionário da carreira técnica superior ou por um analista de sistemas ou programador de aplicações."
+  },
+  "830ae674df211196": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Direcção de Serviços de Extensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de Serviços de Extensão\n\n1 - A Direcção de Serviços de Extensão tem as competências referidas nas alíneas d) e e) do n.º 1 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, e compreende as seguintes divisões:\n\na) Formação Profissional;\n\nb) Associativismo e Gestão da Empresa Agrícola.\n\n2 - À Divisão de Formação Profissional compete:\n\na) Promover a elaboração e execução do plano de formação técnico-profissional dos agricultores e trabalhadores rurais;\n\nb) Assegurar a gestão dos centros de formação técnico-profissional da DRATM;\n\nc) Apoiar e dinamizar a realização de acções destinadas à valorização técnico-profissional das populações rurais.\n\n3 - À Divisão de Associativismo e Gestão da Empresa Agrícola compete.\n\na) Apoiar e incentivar o processo de rejuvenescimento da população activa agrícola, nomeadamente através da dinamização de projectos e acções relativos à instalação de jovens agricultores;\n\nb) Apoiar e dinamizar as cooperativas agrícolas e outras formas associativas da comunidade agrária;\n\nc) Apoiar a modernização da gestão das explorações agrícolas, dinamizando a implementação e desenvolvimento de adequados sistemas de exploração e incentivando acções que visem a organização e montagem de centros de gestão e contabilidade de apoio às explorações agrícolas."
+  },
+  "2dd9a9cf0a3c247a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Direcção de Serviços de Experimentação e Fomento da Produção Agro-Pecuária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direcção de Serviços de Experimentação e Fomento da Produção Agro-Pecuária\n\n1 - A Direcção de Serviços de Experimentação e Fomento da Produção Agro-Pecuária tem as competências referidas nas alíneas a), b), c) e f) a o) do n.º 1 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, e ainda colabora com a Circunscrição Florestal de Vila Real no desenvolvimento do regime silvo-pastoril, apícola, aquícola e cinegético da região e compreende as seguintes divisões:\n\na) Experimentação e Fomento da Produção Vegetal;\n\nb) Experimentação e Fomento da Produção Animal.\n\n2 - À Divisão de Experimentação e Fomento da Produção Vegetal compete:\n\na) Assegurar as acções de experimentação necessárias ao desenvolvimento da produção vegetal da região, à excepção das referentes à vitivinicultura, de acordo com as suas características;\n\nb) Assegurar, no âmbito da produção vegetal, à excepção da vitivinicultura, a gestão das unidades experimentais da DRATM e a efectivação no campo prático do plano de formação dos técnicos regionais, mediante a participação nas equipas de experimentação;\n\nc) Assegurar, no âmbito da produção vegetal, à excepção da vitivinicultura, o ensaio, desenvolvimento e aplicação de novas variedades, técnicas e práticas culturais e promover a sua divulgação;\n\nd) Acompanhar a evolução tecnológica dos materiais, equipamentos e formas de exploração no âmbito da produção vegetal, à excepção da vitivinicultura, adequados à modernização e racionalização das unidades produtivas da região.\n\n3 - À Divisão de Experimentação e Fomento da Produção Animal compete:\n\na) Assegurar as acções de experimentação necessárias ao desenvolvimento da produção animal da região, de acordo com as suas características;\n\nb) Assegurar, no âmbito da produção animal, a gestão das unidades experimentais da DRATM e a efectivação, no campo prático, do plano de formação dos técnicos regionais, mediante a participação nas equipas de experimentação;\n\nc) Assegurar a definição, a nível regional, das zonas agro-ecológicas mais adequadas às diferentes espécies animais e raças, bem como dos sistemas de exploração agro-pecuários mais aconselháveis;\n\nd) Promover a divulgação de conhecimentos, normas e práticas aconselháveis na gestão, maneio e preservação das diferentes espécies animais;\n\ne) Promover a divulgação junto dos produtores dos conhecimentos adquiridos através da actividade técnica da DRATM em matéria de produção animal, com base nos sistemas de exploração mais adequados às características regionais;\n\nf) Promover a execução das acções necessárias à identificação dos animais, características genéticas dos reprodutores e sua avaliação e colaborar na elaboração dos registos genealógicos e zootécnicos;\n\ng) Assegurar o funcionamento dos serviços de inseminação artificial e promover a sua transferência para as associações dos agricultores, sempre que tal se mostre conveniente;\n\nh) Colaborar com a Circunscrição Florestal de Vila Real nas acções de fomento do regime silvo-pastoril, apícola, aquícola e cinegético."
+  },
+  "26ae57a6597ef116": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Direcção de Serviços Vitivinícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direcção de Serviços Vitivinícolas\n\n1 - A Direcção de Serviços Vitivinícolas, também designada por Centro de Estudos Vitivinícolas do Douro, exercendo a sua actividade fundamentalmente na Região Demarcada do Douro, tem, no âmbito da vitivinicultura, as competências referidas nas alíneas a) a d), j), l) e m) do n.º 1 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, e compreende as seguintes divisões:\n\na) Ampelologia;\n\nb) Mecanização e Reconversão da Vinha;\n\nc) Enologia.\n\n2 - A Divisão de Ampelologia compete:\n\na) Assegurar as acções de experimentação no âmbito da vitivinicultura, ampelografia; sanidade e melhoramento vitícola e fertilidade, com vista à definição das espécies vitícolas e respectivas variedades mais importantes e aptas face às características da região;\n\nb) Assegurar, no âmbito da vitivinicultura, a gestão das unidades experimentais da DRATM e a efectivação no campo prático do plano de formação dos técnicos regionais, mediante a participação nas equipas de experimentação;\n\nc) Assegurar a realização de estudos de maximização da produtividade para vinhos regionais de alta qualidade;\n\nd) Assegurar o estudo e implementação de normas, técnicas e práticas culturais no âmbito da vitivinicultura regional;\n\ne) Promover a produção e fornecimento de material de propagação vegetativa com garantia varietal e sanitária;\n\nf) Colaborar com a rede de avisos no que se refere à vitivinicultura.\n\n3 - À Divisão de Mecanização e Reconversão da Vinha compete:\n\na) Promover, incentivar e apoiar tecnicamente o estudo e aplicação de medidas tendentes à reconversão da vinha;\n\nb) Promover o estudo e implementação de técnicas apropriadas de instalação, condução e manutenção de vinhas regionais e assegurar a execução das normas estabelecidas;\n\nc) Assegurar a recolha e tratamento da informação respeitante à elaboração e execução do condicionamento da vinha e colaborar no cumprimento das normas estabelecidas;\n\nd) Colaborar na elaboração do cadastro vitícola regional;\n\ne) Acompanhar a evolução tecnológica dos materiais e equipamentos adequados às características da vitivinicultura regional.\n\n4 - À Divisão de Enologia compete:\n\na) Assegurar o estudo dos processos de fabrico dos vinhos do Porto e de vinhos de mesa regionais, sua conservação e envelhecimento, bem como a definição das suas características, e garantir a respectiva divulgação;\n\nb) Assegurar o estudo do aproveitamento dos subprodutos da vinificação;\n\nc) Assegurar a gestão dos laboratórios vitícolas da DRATM e das adegas das explorações experimentais e fornecer apoio laboratorial no domínio da composição e qualidade do vinho e seus derivados;\n\nd) Colaborar no estudo e implementação de esquemas de controle de qualidade dos vinhos da região."
+  },
+  "b1d48bcfafefd2d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º"
+  },
+  "959d33b694dd2033": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Protecção à Produção Vegetal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Protecção à Produção Vegetal\n\nA Divisão de Protecção à Produção Vegetal tem as competências referidas no n.º 2 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, sem prejuízo das atribuídas no artigo 12.º à Direcção de Serviços Vitivinícolas."
+  },
+  "9edd61c40733414e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direcção de Serviços de Protecção à Produção Animal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção de Serviços de Protecção à Produção Animal\n\n1 - A Direcção de Serviços de Protecção à Produção Animal tem as competências definidas no n.º 3 e nas alíneas b) e c) do n.º 4 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, e compreende as seguintes divisões:\n\na) Sanidade Animal;\n\nb) Higiene Pública Veterinária e Qualidade Alimentar.\n\n2 - À Divisão de Sanidade Animal compete:\n\na) Assegurar a execução das acções de carácter preventivo e curativo contra as doenças infecto-contagiosas, parasitárias e outras dos animais, segundo as directrizes de ordem nacional e internacional veiculadas pela Direcção-Geral da Pecuária;\n\nb) Promover a execução de inquéritos sanitários, epizootológicos e registos noso-necrológicos, bem como a recolha de informação estatística referente às acções profiláctica e de saneamento, assegurando o seu envio aos serviços centrais;\n\nc) Promover o cumprimento das normas e requisitos sanitários das diferentes espécies animais, bem como a execução das acções de vigilância sanitária, com vista à defesa e preservação do património animal, saúde pública e aumento da produção;\n\nd) Coordenar a actividade dos veterinários municipais e de outras entidades no âmbito da sanidade animal e cooperar em acções de educação sanitária;\n\ne) Colaborar na implementação de acções de esclarecimento e sensibilização no âmbito da educação sanitária e da defesa da saúde pública contra as enfermidades veiculadas através dos produtos alimentares.\n\n3 - À Divisão de Higiene Pública Veterinária e Qualidade Alimentar compete:\n\na) Assegurar a execução das medidas destinadas a garantir a qualidade de matérias-primas e produtos agro-alimentares destinados ao consumo público, nas suas várias fases de produção, armazenagem, transporte, distribuição e venda;\n\nb) Promover as acções necessárias ao licenciamento sanitário dos estabelecimentos de produtos agro-alimentares;\n\nc) Colaborar na implementação de acções de esclarecimento e sensibilização no âmbito da educação sanitária e da defesa da saúde pública contra as enfermidades veiculadas através dos produtos alimentares."
+  },
+  "51bcfd4e97d85e0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Direcção de Serviços de Apoio às Estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direcção de Serviços de Apoio às Estruturas\n\n1 - A Direcção de Serviços de Apoio às Estruturas, com as competências referidas na alínea a) do n.º 4 e no n.º 5 do artigo 15.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, compreende as seguintes divisões:\n\na) Solos e Engenharia Agrícola;\n\nb) Apoio à Transformação e Comercialização dos Produtos Agro-Industriais;\n\nc) Divisão de Laboratórios de Apoio Regional.\n\n2 - À Divisão de Solos e Engenharia Agrícola compete:\n\na) Promover a elaboração de estudos e projectos de aproveitamentos hidroagrícolas, nos termos do [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho;\n\nb) Promover a elaboração de estudos e projectos e acompanhar a sua execução no domínio das infra-estruturas, construções rurais e obras de defesa e conservação do solo, de acordo com as necessidades e prioridades da região agrária;\n\nc) Assegurar o cumprimento das normas referentes à defesa da reserva agrícola;\n\nd) Colaborar com os serviços centrais competentes no estudo, definição e divulgação dos modelos e normas técnicas mais adequados à mecanização agrícola e garantir a satisfação dos pedidos de apoio formulados pelas entidades da região agrária nesta matéria;\n\ne) Promover a aplicação e divulgação das normas técnicas e práticas mais aconselháveis em matéria de regadio e apoiar a gestão dos perímetros de rega;\n\nf) Assegurar as acções decorrentes das medidas definidas no âmbito da estruturação fundiária, do arrendamento rural, dos níveis de aproveitamento dos solos e de outras modalidades de exploração.\n\n3 - À Divisão de Apoio à Transformação e Comercialização dos Produtos Agro-Industriais compete:\n\na) Assegurar e apoiar a dinamização das actividades de transformação e comercialização dos produtos agro-alimentares;\n\nb) Colaborar no estudo e formulação de medidas de política no âmbito dos preços, mercados e estruturas de transformação;\n\nc) Coordenar o reconhecimento e inventariação das estruturas comerciais, agro-industriais e de armazenamento da região agrária.\n\n4 - À Divisão de Laboratórios de Apoio Regional compete:\n\na) Assegurar o desenvolvimento de actividades de âmbito laboratorial sob orientação científica e técnica dos correspondentes serviços centrais;\n\nb) Promover a realização de exames e análises laboratoriais necessários ao desenvolvimento das actividades da DRATM;\n\nc) Assegurar a gestão dos laboratórios, à excepção dos referidos na alínea c) do n.º 4 do artigo 12.º"
+  },
+  "624765a7ef2118a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Serviços operativos de âmbito local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Serviços operativos de âmbito local\n\n1 - Os serviços operativos de âmbito local, integrados em divisões de zonas agrárias, de acordo com o anexo I do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho, têm as competências referidas nos n.os 1 e 2 do artigo 17.º do referido diploma e compreendem:\n\na) Equipas de extensão e produção agrária;\n\nb) Núcleos de apoio à produção e controle da produção agrícola;\n\nc) Núcleos de apoio à produção e controle da produção animal.\n\n2 - Às equipas de extensão e produção agrária compete:\n\na) Executar as acções de apoio directo aos agentes económicos actuando na zona agrária, nos vários aspectos de desenvolvimento das suas actividades agrárias, designadamente no âmbito da formação técnico-profissional, rejuvenescimento da população activa agrícola, dinamização do associativismo e modernização da gestão das explorações agrícolas;\n\nb) Promover, através da transferência de tecnologia, a divulgação e incremento da utilização de espécies vegetais e animais e de sistemas de exploração agro-pecuária mais adequados às características da zona agrária.\n\n3 - Aos núcleos de apoio à protecção e controle da produção agrícola compete apoiar directamente os agentes económicos da zona agrária no cumprimento de normas, formalidades e directrizes de carácter sanitário necessárias ao exercício e desenvolvimento das suas actividades no âmbito da produção agrícola.\n\n4 - Aos núcleos de apoio à protecção e controle da produção animal compete apoiar directamente os agentes económicos da zona agrária no cumprimento de normas, formalidades e directrizes de carácter sanitário necessárias ao exercício e desenvolvimento das suas actividades no âmbito da produção animal."
+  },
+  "df7fa03e99ac3994": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Núcleos de apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Núcleos de apoio administrativo\n\n1 - As divisões das zonas agrárias dispõem de núcleos de apoio administrativo, na dependência do respectivo chefe de zona, coadjuvado por um oficial administrativo, tendo como atribuições assegurar as tarefas de natureza administrativa, financeira e patrimonial necessárias ao desenvolvimento das actividades da zona agrária.\n\n2 - Junto do Centro de Estudos Vitivinícolas do Douro, sediado na Régua, funciona uma secção administrativa."
+  },
+  "23a9bcc3190ac0c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Unidades experimentais e centros de formação técnico-profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Unidades experimentais e centros de formação técnico-profissional\n\n1 - A DRATM dispõe, para o exercício das suas actividades no âmbito da experimentação, sem prejuízo de lhes poder vir a ser dado outro destino, das seguintes unidades, além da referida no artigo anterior:\n\na) Quinta da Veiga, em Montalegre, afecta à zona agrária do Barroso;\n\nb) Unidade de Exploração Agrícola do Valongo, em Mirandela, afecta à zona agrária da Terra Quente;\n\nc) Quinta de Santa Bárbara, em Pinhão, afecta à zona agrária do Baixo e Centro Corgo.\n\n2 - A DRATM assegura ainda a gestão e utilização das seguintes unidades:\n\na) Unidade de Exploração Agrícola de Culturas Regadas de Chaves, em propriedade arrendada;\n\nb) Exploração Agrícola da Ugeira, em Macedo de Cavaleiros, em propriedade arrendada;\n\nc) Exploração Agrícola dos Cortiços, em Macedo de Cavaleiros, em propriedade pertencente ao Instituto de Gestão e Estruturação Fundiária;\n\nd) Exploração Agrícola de Valprados, em Macedo de Cavaleiros, em propriedade pertencente ao Instituto de Gestão e Estruturação Fundiária;\n\ne) Escola Agrícola de Alves Teixeira, em Vidago, em propriedade pertencente ao Ministério das Finanças.\n\n3 - A DRATM dispõe, para o desenvolvimento das actividades de formação profissional, dos seguintes centros:\n\na) Centro de Formação Técnico-Profissional do Barroso;\n\nb) Centro de Formação Técnico-Profissional de Vidago;\n\nc) Centro de Formação Técnico-Profissional de Malhadas, em Miranda do Douro;\n\nd) Centro de Formação Técnico-Profissional de Valongo, em Mirandela.\n\n4 - Mediante proposta fundamentada do director regional e ouvidos os conselhos técnico regional e administrativo, poderá o Ministro da Agricultura, Pescas e Alimentação alterar, por despacho, o número e designação das unidades experimentais ou centros de formação técnico-profissional, sempre que tal se mostre necessário ao cumprimento dos objectivos da DRATM.\n\n5 - As unidades experimentais e os centros de formação técnico-profissional são coordenados por um funcionário da carreira técnica superior de grau 1 ou da carreira técnica, designado pelo director regional."
+  },
+  "cdab4f0f8cd1a9a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Pessoal"
+  },
+  "2a44aa9be345509a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Quadro e regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Quadro e regime de pessoal\n\n1 - A DRATM dispõe do quadro próprio de pessoal constante do mapa I anexo ao presente diploma.\n\n2 - O regime de pessoal é o constante do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio, e demais legislação aplicável, com observância das alterações resultantes do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.\n\n3 - O conteúdo funcional da carreira de técnico auxiliar corresponde a actividades de apoio inseridas no âmbito do fomento e controle da produção agrária, prospecção dos mercados agrícolas, inquéritos e apoio a cursos de formação.\n\n4 - Aos excedentes de pessoal aplicar-se-á o regime previsto nos Decretos-Leis n.os [43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro, e [87/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1985-325119), de 1 de Abril."
+  },
+  "0a1dea66aba03637": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições transitórias e finais"
+  },
+  "5e2a09ea32e20947": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Princípios de Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Princípios de Gestão\n\n1 - A DRATM orientará o desenvolvimento das suas actividades de acordo com os princípios consignados nos artigos 23.º, 24.º e 25.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho.\n\n2 - A gestão financeira da DRATM será orientada pelos critérios e instrumentos definidos nos artigos 25.º e 26.º do [Decreto-Lei n.º 190/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1986-228013), de 16 de Julho."
+  },
+  "c0e6f81b57a1e801": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Transição do pessoal para o quadro da DRATM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Transição do pessoal para o quadro da DRATM\n\nSem prejuízo do disposto na alínea b) do artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e no n.º 4 do artigo 19.º do presente diploma sobre excedentes, o pessoal que à data da entrada em vigor deste diploma se encontra a prestar serviço na DRATM transitará para os lugares do quadro referido no n.º 1 do artigo 19.º, nos termos das regras pertinentes do [Decreto Regulamentar n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/41-1984-384385), de 28 de Maio, e demais legislação geral aplicável, processando-se a integração de harmonia com o estabelecido no [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio."
+  },
+  "8b348e1d1ab4fbb6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Concurso para acesso às novas categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Concurso para acesso às novas categorias\n\nOs concursos para acesso às novas categorias criadas pelo [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, só poderão ser abertos após a entrada em vigor da portaria ou portarias de execução do mesmo diploma no âmbito do Ministério."
+  },
+  "3ae444579c1b5ffb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Transferência de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transferência de serviços\n\n1 - São transferidas para a DRATM as estruturas e respectivos apetrechamentos do Laboratório de Mirandela, do Centro de Bovinicultura de Carne do Nordeste (Miranda do Douro), compreendendo a propriedade das Malhadas, que se integra no Centro de Formação Técnico-Profissional de Malhadas, e o Centro de Ovinicultura do Nordeste (Macedo de Cavaleiros), bem como os meios financeiros e as unidades de pessoal que lhes estão afectas constantes do mapa II anexo ao presente diploma, as quais serão abatidas à Direcção-Geral da Pecuária.\n\n2 - As instalações, móveis, utensílios, máquinas, viaturas e demais equipamentos, bem como toda a documentação existente nos serviços referidos no número anterior, transitam, na data da entrada em vigor deste diploma, para a DRATM, mediante relações de cadastro devidamente discriminadas e assinadas pelos funcionários para o efeito designados pelo director-geral da Pecuária e pelo director regional de Agricultura de Trás-os-Montes.\n\n3 - Os direitos, nomeadamente os referentes à cobrança de receitas, conferidos por lei ao Laboratório de Mirandela, ao Centro de Bovinicultura de Carne do Nordeste e ao Centro de Ovinicultura do Nordeste, referidos no n.º 1 deste artigo, transitam para a DRATM."
+  },
+  "2052c909a534eec5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Revogação de legislação anterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Revogação de legislação anterior\n\n1 - Ficam revogadas as disposições do [Decreto Regulamentar n.º 6-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-1979-241043), de 24 de Março, no que à Direcção Regional de Agricultura de Trás-os-Montes dizem respeito.\n\n2 - Fica revogado o [Decreto Regulamentar n.º 60/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-1979-364933), de 16 de Outubro.\n\n3 - Ficam revogadas as disposições do [Decreto Regulamentar n.º 68/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/68-1983-453224), de 13 de Julho, no que contrariarem o disposto no presente diploma.\n\nAníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.\n\nPromulgado em 16 de Outubro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 21 de Outubro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa I a que se refere o n.º 1 do artigo 19.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/11/26100/33963407.pdf)\n\nMapa II a que se refere o n.º 1 do artigo 23.º\n\nMédico veterinário principal ... 1\n\nMédico veterinário de 1.ª classe ... 1\n\nMédico veterinário de 2.ª classe ... 1\n\nEngenheiro técnico agrário principal ... 1\n\nEngenheiro técnico agrário de 1.ª classe ... 1\n\nSegundo-oficial ... 4\n\nTerceiro-oficial ... 1\n\nTécnico auxiliar de pecuária de 1.ª classe ... 2\n\nTécnico auxiliar de pecuária de 2.ª classe ... 1\n\nTécnico auxiliar de laboratório de 2.ª classe ... 8\n\nEscriturário-dactilógrafo de 2.ª classe ... 1\n\nTractorista ... 2\n\nAuxiliar técnico de pecuária de 2.ª classe ... 1\n\nContínuo de 1.ª classe ... 1\n\nAuxiliar de limpeza ... 3\n\nServente ... 2\n\nCapataz ... 1\n\nMaioral ... 2\n\nTratador de animais principal ... 1\n\nTratador de animais de 1.ª classe ... 2\n\nTratador de animais de 2.ª classe ... 8\n\nTrabalhador rural ... 3"
+  },
+  "7b7ff72629217ab5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Núcleos de apoio administrativo",
+   "in_force_from": "1990-12-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 43/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1990-563608), publicado em 1990-12-19."
+   ],
+   "markdown": "###### Artigo 17.º — Núcleos de apoio administrativo\n\n1 - As divisões das zonas agrárias dispõem de núcleos de apoio administrativo, orientados por chefes de secção, directamente dependentes do respectivo chefe de zona, competindo-lhes assegurar a execução das tarefas de natureza administrativa, designadamente no âmbito da administração do pessoal, financeira, patrimonial e geral necessárias ao desenvolvimento das actividades das zonas agrárias.\n\n2 - Junto do Centro de Estudos Vitivinícolas do Douro, sediado na Régua, funciona uma secção administrativa.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 43/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1990-563608), publicado em 1990-12-19."
+  }
+ }
+}

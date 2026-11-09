@@ -1,0 +1,932 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:348524:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-07-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d60d45d8fddcbf00",
+    "31054c03336e2479",
+    "bd790b439c7073d7",
+    "e3e240295bb26057",
+    "7342f7b1dcac3873",
+    "66e47ce5acadeb75",
+    "af3e76e876d4952b",
+    "0e8bc427455cd6ce",
+    "496bbd7f67145c93",
+    "c7ab9464109cf269",
+    "3115ad4faa30f844",
+    "2f3c1f3783c643ac",
+    "960ef110b0d80d07",
+    "60b2fbd6c96c0498",
+    "a3bc420a06d78e17",
+    "899df57cb1db885c",
+    "5ce8a2e71b19347c",
+    "441bb7439cef8d42",
+    "ebaa39163baaee64",
+    "70b421b80ab6a6ae",
+    "52f11f4b87530a93",
+    "e044dd40287a2031",
+    "3e410f09a9214ce4",
+    "78cfd52a8692f96f",
+    "c79cfb3fbb1e571d",
+    "2856da5dfde26f57",
+    "797c8ca39ef10a46",
+    "20a73594df5d979a",
+    "1f7eed846ff9bd9b",
+    "6c39a147b6cff4fb",
+    "ef172e561a1fb441",
+    "2afd9d9fae89589a",
+    "ff4e6b8fba5bafab",
+    "a2c16eb49339bfaf",
+    "59b0664aae646964",
+    "7259e8b32c94df6c",
+    "fe04fa12fd3fe452",
+    "0ee6092e66af2ba3",
+    "e9fe672ddde1d8b6",
+    "8a1d55b4b45900bd",
+    "482fef40ca173bbf",
+    "54c821c3a03fcf67",
+    "a703b67b91c4adc7",
+    "a1a45f597b0ac178",
+    "d8b8f83cc625a943",
+    "fd4cc12563b965cb",
+    "383233879cb2f790",
+    "727879b6277179a5",
+    "2ca94350f1ddd445",
+    "06f576d9c2fd64a0",
+    "ca7c148ec9408c5d",
+    "d51c456b9552a6bd",
+    "7db948d3ef685cdd",
+    "583477172f6cd671",
+    "44a1a320a54b239d",
+    "39061fe05e7c6020",
+    "c27c7fde39d3b2db",
+    "85933110dd32c1da",
+    "1c31ebdf3ffdcc44",
+    "b2930c635888e3e1",
+    "678a5e016250a4e8",
+    "90087b9b13ee1480",
+    "ef473629ee24bef7",
+    "8578825b4ffc6d9c",
+    "260a9f4ecd4b5740",
+    "445a177dfc8f54f4",
+    "28ae5d7b43f7efc0",
+    "c5adb2b4404dd082",
+    "d14c7238d80d027a",
+    "46d50421d7a584db",
+    "cc4b80c3bcd3fa65",
+    "3a0de5eb1dcf5021",
+    "d2ec5af88bd5b66c",
+    "e8b1a5f72e3aaabf",
+    "d5c599e2fd557f4f",
+    "bd3a4a51cd2dcd10"
+   ]
+  },
+  {
+   "date": "2002-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:635592:por",
+     "title": "Decreto Regulamentar Regional n.º 14/2002/M",
+     "published": "2002-09-17",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/14-2002-635592"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 40.º"
+   ],
+   "fragments": [
+    "d60d45d8fddcbf00",
+    "31054c03336e2479",
+    "bd790b439c7073d7",
+    "09d0bdfbb58a57a4",
+    "7342f7b1dcac3873",
+    "66e47ce5acadeb75",
+    "af3e76e876d4952b",
+    "0e8bc427455cd6ce",
+    "496bbd7f67145c93",
+    "c7ab9464109cf269",
+    "3115ad4faa30f844",
+    "2f3c1f3783c643ac",
+    "960ef110b0d80d07",
+    "60b2fbd6c96c0498",
+    "a3bc420a06d78e17",
+    "899df57cb1db885c",
+    "5ce8a2e71b19347c",
+    "441bb7439cef8d42",
+    "ebaa39163baaee64",
+    "70b421b80ab6a6ae",
+    "52f11f4b87530a93",
+    "e044dd40287a2031",
+    "3e410f09a9214ce4",
+    "78cfd52a8692f96f",
+    "c79cfb3fbb1e571d",
+    "2856da5dfde26f57",
+    "797c8ca39ef10a46",
+    "20a73594df5d979a",
+    "1f7eed846ff9bd9b",
+    "6c39a147b6cff4fb",
+    "ef172e561a1fb441",
+    "2afd9d9fae89589a",
+    "ff4e6b8fba5bafab",
+    "a2c16eb49339bfaf",
+    "59b0664aae646964",
+    "7259e8b32c94df6c",
+    "fe04fa12fd3fe452",
+    "0ee6092e66af2ba3",
+    "e9fe672ddde1d8b6",
+    "8a1d55b4b45900bd",
+    "482fef40ca173bbf",
+    "54c821c3a03fcf67",
+    "741c114c6d5aed8e",
+    "9d8e6135ce402b82",
+    "131a4b79680f7a0e",
+    "373a93bf62250e0c",
+    "affb80a851efdcc8",
+    "51b39144aeff7a34",
+    "8266a126bafb78ac",
+    "40b61045ce8496ce",
+    "ca7c148ec9408c5d",
+    "686a7de56ff19cbd",
+    "7db948d3ef685cdd",
+    "583477172f6cd671",
+    "8fe0446640557908",
+    "f5d2fccd30a9ec71",
+    "c27c7fde39d3b2db",
+    "85933110dd32c1da",
+    "1c31ebdf3ffdcc44",
+    "b2930c635888e3e1",
+    "678a5e016250a4e8",
+    "90087b9b13ee1480",
+    "ef473629ee24bef7",
+    "8578825b4ffc6d9c",
+    "260a9f4ecd4b5740",
+    "445a177dfc8f54f4",
+    "28ae5d7b43f7efc0",
+    "c5adb2b4404dd082",
+    "d14c7238d80d027a",
+    "46d50421d7a584db",
+    "cc4b80c3bcd3fa65",
+    "3a0de5eb1dcf5021",
+    "d2ec5af88bd5b66c",
+    "eca4ffbd62d1bc4e",
+    "d5c599e2fd557f4f",
+    "bd3a4a51cd2dcd10"
+   ]
+  }
+ ],
+ "fragments": {
+  "d60d45d8fddcbf00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprova o estatuto e orgânica da Inspecção Regional do Trabalho\n\nO [Decreto-Lei n.º 283/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1980-470819), de 14 de Agosto, efectivou a regionalização dos serviços da Inspecção do Trabalho, ao transferir para a Região as competências e atribuições que estavam cometidas ao Ministério do Trabalho.\n\nPor sua vez, o [Decreto Regional n.º 8/80/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/8-1980-471156), de 20 de Agosto, procedeu à criação da Inspecção Regional do Trabalho, tendo de imediato sido definido o âmbito, composição e competência deste departamento, ajustadas à realidade sócio-laboral existente na Região.\n\nAssim, a Inspecção Regional do Trabalho (IRT) é o serviço que na Região Autónoma da Madeira exerce as competências que, no território continental, estão cometidas à Inspecção-Geral do Trabalho (IGT).\n\nDe acordo com as exigências impostas pelas Convenções n.os 81 e 129 da Organização Internacional do Trabalho, a orgânica consagrada no presente diploma garante a independência técnica e autonomia da IRT na decisão relativa ao controlo das condições de trabalho, posicionando-a, igualmente por imperativo do direito internacional a que o ordenamento jurídico português se acha vinculado, na directa dependência do membro do Governo Regional que tutela a área laboral.\n\nNesse sentido, a actividade inspectiva é prosseguida por funcionários integrados numa carreira de regime especial, idêntica à da administração central, encontrando-se contemplados neste diploma os poderes, direitos e deveres respectivos.\n\nPor outro lado, as carreiras de regime geral da Administração Pública foram objecto de reestruturação operada pelo [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro. O pessoal técnico de inspecção da IRT insere-se em carreiras cujo desenvolvimento indiciário é o mesmo das do Instituto de Desenvolvimento e Inspecção das Condições de Trabalho (IDICT), criado pelo [Decreto-Lei n.º 219/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1993-265699), de 16 de Junho, conforme refere, designadamente, o anexo ao [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto. Acontece que as carreiras do pessoal técnico de inspecção constantes do [Decreto-Lei n.º 219/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1993-265699), acabado de referir, vieram recentemente a ser reestruturadas pelo [Decreto Regulamentar n.º 3/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2000-515273), de 21 de Março, de acordo com os princípios definidos no identificado [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076). Nesta conformidade, no âmbito da Administração Pública Regional Autónoma, torna-se necessário proceder por forma a equiparar as carreiras do pessoal técnico de inspecção da IRT às carreiras de regime especial integradas no grupo de pessoal técnico de inspecção da IGT.\n\nNa sequência da publicação do [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto, é também necessário proceder à reorganização da área administrativa da IRT, dando execução ao estabelecido no [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, alterado pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.\n\nAssim:\n\nConsiderando que o acervo de funções cometidas aos inspectores do trabalho foi substancialmente alargado e diversificado em face do actual quadro normativo, pressupondo a criação dos instrumentos legais indispensáveis ao exercício da acção inspectiva;\n\nConsiderando a necessidade de proceder aos ajustamentos decorrentes da entrada em vigor do novo regime jurídico das contra-ordenações laborais, aprovado pela [Lei n.º 116/99](https://diariodarepublica.pt/dr/detalhe/lei/116-1999-426747), de 4 de Agosto;\n\nConsiderando a publicação do [Decreto-Lei n.º 102/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2000-291655), de 2 de Junho, diploma que aprovou o novo Estatuto da IGT:\n\nAo abrigo dos artigos 227.º, n.º 1, alínea d), e 231.º, n.º 5, da Constituição da República Portuguesa, do artigo 69.º, alíneas c) e d), do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, e revisto pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e pela [Lei n.º 12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, e do [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "31054c03336e2479": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão aprovados o estatuto e orgânica da Inspecção Regional do Trabalho, adiante abreviadamente designada por IRT, publicados em anexo ao presente diploma, do qual fazem parte integrante."
+  },
+  "bd790b439c7073d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ revogado o [Decreto Regulamentar Regional n.º 19/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1997-649480), de 17 de Setembro."
+  },
+  "e3e240295bb26057": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Conselho do Governo Regional em 31 de Maio de 2001.\n\nO Vice-Presidente do Governo Regional, em exercício da Presidência, João Carlos Cunha e Silva.\n\nAssinado em 19 de Junho de 2001.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.\n\nEstatuto e orgânica da Inspecção Regional do Trabalho"
+  },
+  "7342f7b1dcac3873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições"
+  },
+  "66e47ce5acadeb75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Inspecção Regional do Trabalho, adiante designada por IRT, é o serviço de inspecção e controlo do cumprimento das normas relativas às condições de trabalho, emprego, desemprego e pagamento das contribuições para a segurança social.\n\n2 - A IRT desenvolve a sua acção de acordo com os princípios definidos nas convenções n.os 81, 129 e 155 da Organização Internacional do Trabalho, dispondo para o efeito de autonomia técnica e independência.\n\n3 - A IRT depende directamente do membro do Governo Regional que tutela a área laboral.\n\n4 - Ao pessoal com competência inspectiva são conferidos os poderes de autoridade decorrentes do presente estatuto e demais legislação aplicável."
+  },
+  "af3e76e876d4952b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA IRT exerce a sua acção na Região Autónoma da Madeira e em todos os sectores de actividade, nas empresas públicas, privadas e cooperativas, tenham ou não trabalhadores ao seu serviço."
+  },
+  "0e8bc427455cd6ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nSão atribuições da IRT:\n\na) Promover e controlar o cumprimento das disposições legais, regulamentares e convencionais respeitantes às condições de trabalho, ao apoio ao emprego e à protecção no desemprego;\n\nb) Controlar o cumprimento das normas relativas à segurança, higiene e saúde no trabalho;\n\nc) Proceder à organização, instrução e decisão dos processos de contra-ordenações laborais;\n\nd) Sugerir as medidas adequadas em caso de falta ou inadequação de normas legais ou regulamentares cujo cumprimento lhe incumbe assegurar;\n\ne) Prestar informações e esclarecimentos aos sujeitos da relação jurídico-laboral, bem como às respectivas associações profissionais, relativamente à interpretação e eficaz observância das normas aplicáveis;\n\nf) Elaborar um relatório anual sobre a actividade inspectiva, até ao fim do mês de Abril do ano seguinte àquele a que respeita."
+  },
+  "496bbd7f67145c93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Estrutura orgânica e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Estrutura orgânica e competências"
+  },
+  "c7ab9464109cf269": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estrutura orgânica\n\n1 - A IRT é dirigida pelo inspector regional do Trabalho, cabendo-lhe designar aquele que o substitui nas suas ausências ou impedimentos.\n\n2 - A IRT compreende os seguintes serviços:\n\na) Secretariado;\n\nb) Direcção de Serviços de Inspecção (DSI);\n\nc) Departamento de Assuntos Jurídicos (DAJ);\n\nd) Gabinete de Apoio e Documentação (GAD);\n\ne) Departamento Administrativo."
+  },
+  "3115ad4faa30f844": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competência do inspector regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência do inspector regional\n\n1 - Compete ao inspector regional:\n\na) Superintender todos os serviços da IRT;\n\nb) Planear e determinar acções de inspecção;\n\nc) Proceder à confirmação, à não confirmação ou desconfirmação dos autos de notícia submetidos à sua apreciação, devendo os dois últimos actos ser fundamentados;\n\nd) Aplicar coimas e sanções acessórias no âmbito dos processos de contra-ordenação laboral;\n\ne) Impor, sempre que necessário, a comparência nos serviços de qualquer trabalhador ou entidade empregadora e respectivas associações que possam dispor de informações úteis ao desenvolvimento da acção inspectiva;\n\nf) Avaliar os resultados da acção inspectiva e assegurar a elaboração do relatório anual;\n\ng) Promover a colaboração com outros sistemas de inspecção;\n\nh) Assegurar a representação e o relacionamento institucionais da IRT;\n\ni) Desempenhar outras funções que, por lei ou determinação superior, lhe sejam cometidas.\n\n2 - O cargo de inspector regional do Trabalho é, para todos os efeitos legais, equiparado a director regional."
+  },
+  "2f3c1f3783c643ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Secretariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Secretariado\n\nCompete ao Secretariado apoiar administrativamente o inspector regional."
+  },
+  "960ef110b0d80d07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Direcção de Serviços de Inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direcção de Serviços de Inspecção\n\n1 - À DSI compete, em geral, executar as acções inspectivas, nos termos da lei e do presente estatuto.\n\n2 - A DSI integra:\n\na) A Divisão de Inspecção das Condições de Segurança e Higiene no Trabalho (DICSHT), à qual compete assegurar o cumprimento da legislação relativa a segurança, higiene e saúde no trabalho, dirigida por um chefe de divisão;\n\nb) O Gabinete de Atendimento ao Público (GAP), ao qual compete prestar informações e receber reclamações sobre matéria de natureza inspectiva.\n\n3 - A DSI é dirigida por um director de serviços, que coordena e acompanha a execução do plano de actividades da IRT."
+  },
+  "60b2fbd6c96c0498": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Departamento de Assuntos Jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Departamento de Assuntos Jurídicos\n\n1 - Ao Departamento de Assuntos Jurídicos (DAJ) compete assegurar todo o apoio técnico-jurídico à IRT.\n\n2 - O DAJ integra:\n\na) O Serviço Técnico de Contra-Ordenações Laborais (STCOL);\n\nb) O Gabinete de Consultadoria Jurídica (GCJ).\n\n3 - O DAJ é coordenado por um funcionário da carreira técnica superior, equiparado, para todos os efeitos legais, a director de serviços."
+  },
+  "a3bc420a06d78e17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Serviço Técnico de Contra-Ordenações Laborais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Serviço Técnico de Contra-Ordenações Laborais\n\n1 - Ao STCOL compete:\n\na) Proceder à instrução dos processos instaurados pela IRT no exercício das suas competências inspectivas, bem como acompanhar a respectiva tramitação processual;\n\nb) Organizar o registo individual dos sujeitos responsáveis pelas infracções laborais, conforme o disposto na lei.\n\n2 - O STCOL é coordenado por um funcionário da carreira técnica superior, equiparado, para todos os efeitos legais, a chefe de divisão."
+  },
+  "899df57cb1db885c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Gabinete de Consultadoria Jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Gabinete de Consultadoria Jurídica\n\n1 - Ao GCJ compete:\n\na) Exercer funções de consultadoria jurídica em todos os assuntos que lhe sejam submetidos no âmbito das atribuições da IRT;\n\nb) Elaborar estudos e emitir pareceres e informações sobre questões de índole jurídico-laboral;\n\nc) Assegurar a existência de ficheiros completos e actualizados de legislação, doutrina e jurisprudência.\n\n2 - O GCJ é coordenado por um funcionário da carreira técnica superior, equiparado, para todos os efeitos legais, a chefe de divisão."
+  },
+  "5ce8a2e71b19347c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Gabinete de Apoio e Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Gabinete de Apoio e Documentação\n\n1 - Ao GAD compete:\n\na) Assegurar o indispensável relacionamento funcional entre o inspector regional e os restantes serviços da IRT;\n\nb) Organizar, distribuir e arquivar toda a documentação técnica que interessar à acção da IRT.\n\n2 - O GAD é dirigido por um chefe de secção."
+  },
+  "441bb7439cef8d42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Departamento Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Departamento Administrativo\n\n1 - Ao Departamento Administrativo compete promover os procedimentos relacionados com o expediente geral, bem como os relativos aos processos instaurados pela IRT no exercício das suas competências inspectivas, para além de outras acções de apoio administrativo indispensáveis ao normal funcionamento da IRT.\n\n2 - O Departamento Administrativo é dirigido por um chefe de departamento, e compreende as seguintes secções:\n\na) Secção de Expediente Geral;\n\nb) Secção de Processos."
+  },
+  "ebaa39163baaee64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Da acção inspectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Da acção inspectiva"
+  },
+  "70b421b80ab6a6ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Natureza da acção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Natureza da acção"
+  },
+  "52f11f4b87530a93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Acção de informação e orientação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acção de informação e orientação\n\n1 - A IRT exerce a acção inspectiva com a finalidade de assegurar o cumprimento das disposições integradas no seu âmbito de competência e com vista a promover a melhoria das condições de trabalho, prestando a entidades patronais e a trabalhadores, ou às respectivas associações representativas, nos locais de trabalho ou fora deles, informações, conselhos técnicos ou recomendações sobre o modo mais adequado de observar essas disposições.\n\n2 - Quando a contra-ordenação consistir em irregularidade sanável e da qual ainda não tenha resultado prejuízo irreparável para os trabalhadores, para a administração do trabalho ou para a segurança social, o inspector do trabalho pode levantar auto de advertência, com a indicação da infracção verificada, das medidas recomendadas ao infractor e do prazo para o seu cumprimento.\n\n3 - O inspector do trabalho deve controlar o cumprimento das normas em causa pelo modo previsto na lei."
+  },
+  "e044dd40287a2031": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Acção sancionatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acção sancionatória\n\n1 - Nos termos da lei, com vista a assegurar o cumprimento das disposições legais e convencionais e no sentido de promover a melhoria das condições de trabalho, o inspector do trabalho levantará auto de notícia, elaborará participação ou procederá a inquérito prévio relativamente a contra-ordenações ou contravenções que tenha verificado ou comprovado ou de que tenha notícia.\n\n2 - Se os factos constitutivos da infracção tiverem sido objecto de auto de advertência, o inspector do trabalho só poderá promover acção sancionatória depois de decorrido o prazo fixado para cumprimento das medidas recomendadas."
+  },
+  "3e410f09a9214ce4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Auto de notícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Auto de notícia\n\n1 - Quando, no exercício das suas funções, verificar ou comprovar, pessoal e directamente, ainda que por forma não imediata, qualquer infracção a normas integradas no âmbito de competência da IRT punível com coima, o inspector do trabalho levantará auto de notícia, sendo dispensável a indicação de testemunhas.\n\n2 - Relativamente a contravenções, o levantamento do auto de notícia rege-se pelo regime geral de processamento e julgamento das contravenções e transgressões.\n\n3 - Depois de confirmado pelo dirigente com competência inspectiva e de notificado ao infractor, o auto de notícia não pode ser sustado.\n\n4 - Se a infracção consistir na falta de pagamento de quantias devidas a trabalhadores, será apurado o respectivo montante, podendo, para esse efeito, o inspector do trabalho notificar o empregador nos termos do artigo 19.º, n.º 1, alínea m).\n\n5 - Se a infracção consistir na falta de pagamento de quantias devidas à segurança social, será dado conhecimento à respectiva instituição, podendo ser apurado o seu montante, o qual constitui título executivo.\n\n6 - Sem prejuízo da colaboração com os serviços competentes da segurança social, o apuramento referido no número anterior é obrigatório se a infracção resultar de situações de falso trabalho independente, de falta de comunicação obrigatória à segurança social ou de prestação de trabalho não declarado, podendo, para esse efeito, o inspector do trabalho notificar o empregador nos termos do artigo 19.º, n.º 1, alínea m).\n\n7 - O disposto nos números anteriores é aplicável ao inquérito prévio previsto no regime geral de processamento das contravenções."
+  },
+  "78cfd52a8692f96f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Participação\n\n1 - O inspector do trabalho elaborará participação em relação a infracções de natureza contra-ordenacional que não tenha verificado nem comprovado pessoalmente, instruída com os elementos de prova de que disponha e a indicação de, pelo menos, duas testemunhas e até ao máximo de três por cada infracção.\n\n2 - Ao processamento iniciado com a participação é aplicável o regime geral das contra-ordenações."
+  },
+  "c79cfb3fbb1e571d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Verbetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Verbetes\n\n1 - Os autos de notícia e os inquéritos prévios remetidos a juízo são acompanhados de dois verbetes, destinando-se um a informar sobre a distribuição do processo e o outro sobre o seu resultado.\n\n2 - Os verbetes, depois de completado o seu preenchimento, devem ser devolvidos à IRT no prazo de 10 dias a contar da data do acto a que respeitam."
+  },
+  "2856da5dfde26f57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Actividades e poderes do inspector do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Actividades e poderes do inspector do trabalho"
+  },
+  "797c8ca39ef10a46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Actividades\n\n1 - O inspector do trabalho desenvolve a sua actividade com a finalidade de assegurar o cumprimento das disposições integradas no âmbito da competência da IRT, com vista a promover a melhoria das condições de trabalho, podendo:\n\na) Prestar a entidades patronais, trabalhadores e seus representantes, nos locais de trabalho ou nos serviços da IRT, informações e conselhos técnicos sobre o modo mais adequado de observarem essas disposições;\n\nb) Desenvolver as acções necessárias à avaliação das condições de trabalho;\n\nc) Notificar para que, dentro de um prazo fixado, sejam realizadas nos locais de trabalho as modificações necessárias para assegurar a aplicação das disposições relativas à segurança, higiene e saúde dos trabalhadores;\n\nd) Notificar para que sejam adoptadas medidas imediatamente executórias, incluindo a suspensão de trabalhos em curso, em caso de risco grave ou probabilidade séria da verificação de lesão da vida, integridade física ou saúde dos trabalhadores;\n\ne) Realizar inquéritos em caso de acidentes de trabalho mortais ou que evidenciem situações particularmente graves, ou de doenças profissionais que provoquem lesões graves, sem prejuízo, neste caso, das competências de outras entidades, com vista ao desenvolvimento de medidas de prevenção adequadas nos locais de trabalho;\n\nf) Promover processos de contra-ordenação ou de contravenção, levantando autos de notícia, elaborando participação ou procedendo a inquérito prévio;\n\ng) Promover a colaboração de outras entidades com competência no âmbito das condições de trabalho;\n\nh) Participar a outras entidades situações relacionadas com as condições de trabalho que se enquadrem no âmbito das suas competências.\n\n2 - Se for determinada a suspensão de trabalhos em curso, nos termos da alínea d) do número anterior, os mesmos só podem continuar com autorização expressa do inspector do trabalho."
+  },
+  "20a73594df5d979a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Poderes\n\n1 - No exercício da sua actividade, o inspector do trabalho pode:\n\na) Visitar e inspeccionar qualquer local de trabalho, a qualquer hora do dia e da noite e sem necessidade de aviso prévio, sem prejuízo do disposto no direito processual penal sobre busca domiciliária;\n\nb) Obter a colaboração e fazer-se acompanhar de peritos, técnicos de serviços públicos e representantes de associações sindicais e patronais, habilitados com credencial emitida pelos serviços de inspecção, da qual constem a entidade a visitar e o serviço a efectuar;\n\nc) Interrogar o empregador, trabalhadores e qualquer outra pessoa que se encontre nos locais de trabalho sobre quaisquer questões relativas à aplicação de disposições legais, regulamentares ou convencionais, a sós ou perante testemunhas, com faculdade de reduzir a escrito as declarações, sem prejuízo do direito de ser assistido por advogado, bem como do disposto no direito processual penal quanto aos arguidos;\n\nd) Solicitar a identificação das pessoas referidas na alínea anterior, a efectuar nos termos previstos na lei geral;\n\ne) Requisitar, com efeitos imediatos ou para apresentação nos serviços da IRT, examinar e copiar documentos e outros registos que interessem para o esclarecimento das relações de trabalho e das condições de trabalho, nomeadamente da avaliação dos riscos profissionais, do planeamento e programação da prevenção e dos seus resultados, bem como do cumprimento das normas sobre emprego, desemprego e pagamento das contribuições para a segurança social;\n\nf) Efectuar registos fotográficos, imagens vídeo e medições que sejam relevantes para o desenvolvimento da acção inspectiva;\n\ng) Solicitar informação sobre a composição de produtos, materiais e substâncias utilizados nos locais de trabalho, bem como recolher e levar para análise amostras dos mesmos, quando sejam relevantes para o desenvolvimento da acção inspectiva, dando do facto conhecimento ao empregador ou ao seu representante;\n\nh) Determinar a demonstração de processos de trabalho adoptados nos locais de trabalho;\n\ni) Adoptar, em qualquer momento da acção inspectiva, as medidas cautelares necessárias e adequadas para impedir a destruição, o desaparecimento ou a alteração de documentos e outros registos e de situações relacionadas com o referido nas alíneas e) a h), desde que não causem prejuízos desproporcionados;\n\nj) Notificar o empregador para adoptar medidas de prevenção no domínio da avaliação dos riscos profissionais, designadamente promover, através de organismos especializados, medições, testes ou peritagens incidentes sobre os componentes materiais de trabalho;\n\nl) Notificar testemunhas, peritos ou outras pessoas que possam dispor de informações úteis sobre a matéria do processo para comparência nos serviços da IRT ou noutro local;\n\nm) Notificar o empregador para que proceda ao apuramento das quantias em dívida aos trabalhadores ou à segurança social;\n\nn) Solicitar a colaboração de autoridades policiais, nomeadamente no caso de impedimento ou obstrução ao exercício da acção inspectiva, ou se for previsível a sua verificação.\n\n2 - No exercício das suas funções, o inspector do trabalho pode efectuar a detenção em flagrante delito, nos termos da lei."
+  },
+  "1f7eed846ff9bd9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Visitas de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Visitas de inspecção\n\n1 - Ao efectuar acções de inspecção, o inspector do trabalho deve informar da sua presença a entidade patronal ou o seu representante, bem como os representantes sindicais da empresa, a não ser que tal aviso possa prejudicar a eficácia da intervenção.\n\n2 - Antes de abandonar o local, o inspector do trabalho deve, sempre que possível, informar a entidade patronal, ou o seu representante, bem como os representantes sindicais da empresa, do resultado da visita.\n\n3 - O disposto no número anterior é igualmente aplicável aos representantes dos trabalhadores para a segurança, higiene e saúde no trabalho se o objecto da visita compreender estas matérias."
+  },
+  "6c39a147b6cff4fb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Pagamento voluntário e depósito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Pagamento voluntário e depósito"
+  },
+  "ef172e561a1fb441": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Notificação do infractor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Notificação do infractor\n\n1 - No prazo de 10 dias a contar da confirmação do auto de notícia, a IRT notificará o infractor para pagamento voluntário da coima, se puder ser paga voluntariamente, ou da multa e seus adicionais, bem como das custas, e para proceder ao depósito das quantias em dívida aos trabalhadores e à segurança social que forem apuradas, mediante aviso postal registado.\n\n2 - A notificação pode ser efectuada por funcionário incumbido da instrução ou por quem o coadjuve, que ficará investido dos poderes e deveres que a lei geral confere para a realização desse acto.\n\n3 - A notificação considera-se feita na pessoa do infractor quando for efectuada em qualquer pessoa que na altura o represente, ainda que não possua título bastante para o efeito.\n\n4 - A notificação considera-se feita no 3.º dia posterior ao registo."
+  },
+  "2afd9d9fae89589a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Pagamento voluntário de coimas e multas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pagamento voluntário de coimas e multas\n\n1 - O infractor pode efectuar o pagamento voluntário da coima ou multa no prazo de 15 dias a contar da notificação.\n\n2 - O pagamento voluntário deve ser efectuado na Caixa Geral de Depósitos ou, a requerimento do interessado, directamente na IRT.\n\n3 - Incumbe ao infractor provar que efectuou o pagamento mediante a devolução das guias respectivas nos cinco dias subsequentes ao termo do prazo referido no n.º 1.\n\n4 - Se o pagamento voluntário for efectuado, o procedimento prosseguirá apenas para decisão sobre a sanção acessória que à infracção possa caber.\n\n5 - Não sendo efectuado o pagamento voluntário, ou não se considerando o mesmo satisfeito, o procedimento contra-ordenacional prosseguirá ou, tratando-se de contravenção, o processo será remetido ao Ministério Público no prazo de 10 dias.\n\n6 - A IRT pode estabelecer modos de pagamento diversos dos referidos no n.º 2, mais simplificados e que assegurem ao infractor meios de prova do pagamento."
+  },
+  "ff4e6b8fba5bafab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Depósito de quantias em dívida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Depósito de quantias em dívida\n\n1 - Ao depósito de quantias em dívida aos trabalhadores e à segurança social que forem apuradas é aplicável o disposto nos n.os 1, 2 e 3 do artigo anterior.\n\n2 - O depósito de quantias em dívida será notificado ao trabalhador mediante aviso postal registado.\n\n3 - A entrega das quantias ao trabalhador é feita mediante cheque contra recibo isento de imposto do selo nos 30 dias seguintes ao depósito.\n\n4 - Em caso de não pagamento das quantias em dívida, o respectivo apuramento realizado em auto de notícia ou inquérito prévio constitui título executivo, aplicando-se as normas do processo comum de execução para pagamento de quantia certa.\n\n5 - Se o depósito não for efectuado, o processo será remetido ao tribunal competente e o trabalhador será notificado do montante das quantias apuradas, com indicação de que o apuramento constitui título executivo.\n\n6 - O direito às quantias depositadas prescreve no prazo de dois anos a contar da notificação do trabalhador, revertendo as mesmas para a segurança social."
+  },
+  "a2c16eb49339bfaf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Colaboração com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Colaboração com outras entidades"
+  },
+  "59b0664aae646964": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Deveres de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Deveres de colaboração\n\n1 - Todos os serviços e organismos da Administração Pública devem prestar à IRT a colaboração que lhes for solicitada para o exercício da acção inspectiva, bem como a informação de que disponham, sem prejuízo dos limites legais estabelecidos relativamente a dados pessoais.\n\n2 - Para o exercício da acção inspectiva, a IRT pode solicitar a colaboração de quaisquer autoridades, nomeadamente da Polícia de Segurança Pública e da Guarda Nacional Republicana.\n\n3 - A IRT deve colaborar com as autoridades judiciais e o Ministério Público nos termos estabelecidos nos Códigos de Processo do Trabalho e de Processo Penal."
+  },
+  "7259e8b32c94df6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Direitos das associações sindicais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Direitos das associações sindicais\n\n1 - As associações sindicais podem solicitar o exercício da acção inspectiva relativamente a situações em que esteja em causa a defesa de interesses colectivos ou a defesa colectiva de interesses individuais dos trabalhadores que representam.\n\n2 - As associações sindicais têm o direito de ser informadas, sempre que o requeiram, do resultado da acção inspectiva.\n\n3 - A informação prestada nos termos do número anterior deverá salvaguardar o segredo de justiça e os direitos dos arguidos."
+  },
+  "fe04fa12fd3fe452": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Falta injustificada de comparecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Falta injustificada de comparecimento\n\nÉ aplicável à falta injustificada de comparecimento nos serviços do IRT o disposto no artigo 19.º do [Decreto-Lei n.º 102/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2000-291655), de 2 de Junho."
+  },
+  "0ee6092e66af2ba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Pessoal"
+  },
+  "e9fe672ddde1d8b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "8a1d55b4b45900bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Estatuto profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Estatuto profissional\n\n1 - Aos funcionários do quadro de pessoal da IRT é garantida, de acordo com o estabelecido no presente diploma, uma carreira profissional adequada, sendo o ingresso e o acesso condicionados apenas por factores de aptidão e desempenho profissional.\n\n2 - O serviço prestado pelos inspectores do trabalho requer disponibilidade permanente, podendo as respectivas funções ser exercidas a qualquer hora do dia ou da noite, incluindo os dias de descanso semanal e feriados.\n\n3 - O pessoal com competência inspectiva dispõe dos necessários poderes de autoridade, de acordo com o presente diploma e demais legislação aplicável."
+  },
+  "482fef40ca173bbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Quadro de pessoal\n\n1 - O quadro de pessoal da IRT é o constante dos anexos I e II ao presente diploma, do qual fazem parte integrante.\n\n2 - O provimento dos lugares do quadro da IRT é regulado pelas normas constantes da lei geral, do presente estatuto e demais legislação aplicável.\n\n3 - Os contingentes de pessoal dos serviços da IRT podem ser alterados por despacho do secretário regional da tutela, sob proposta do inspector regional do Trabalho, segundo dotações fixadas de acordo com as necessidades do serviço."
+  },
+  "54c821c3a03fcf67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Carreiras de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Carreiras de inspecção"
+  },
+  "a703b67b91c4adc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Pessoal técnico de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Pessoal técnico de inspecção\n\nO pessoal técnico de inspecção integra as carreiras de regime especial de inspecção superior e de inspecção, adiante designadas por carreiras de inspecção."
+  },
+  "a1a45f597b0ac178": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Carreira de inspecção superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Carreira de inspecção superior\n\nA carreira de inspecção superior desenvolve-se pelas categorias de inspector superior principal, inspector superior, inspector principal e inspector."
+  },
+  "d8b8f83cc625a943": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Condições de ingresso e de acesso na carreira de inspecção superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Condições de ingresso e de acesso na carreira de inspecção superior\n\n1 - O recrutamento para ingresso na carreira de inspecção superior rege-se pela lei geral, sem prejuízo do disposto no artigo 34.º, sendo definida no respectivo aviso de abertura de concurso a licenciatura considerada adequada, em função das atribuições da IRT.\n\n2 - O acesso nesta carreira é feito mediante concurso e obedece às seguintes regras:\n\na) Inspector superior principal, de entre inspectores superiores com um mínimo de três anos de serviço classificados de Muito bom ou de cinco anos classificados de Bom;\n\nb) Inspector superior, de entre inspectores principais com um mínimo de três anos de serviço classificados de Muito bom ou de cinco anos classificados de Bom, mediante concurso de provas públicas, que consiste na apreciação e discussão do currículo profissional do candidato;\n\nc) Inspector principal, de entre inspectores com um mínimo de três anos de serviço classificados de Bom;\n\nd) Inspector, de entre estagiários que tenham concluído com aproveitamento o respectivo estágio.\n\n3 - Os candidatos a inspector superior podem apresentar um trabalho que verse um tema actual e concreto, de interesse para a IRT, cabendo ao júri do concurso, com base nesse trabalho, avaliar a capacidade de análise e concepção do candidato e valorá-lo para efeitos de classificação.\n\n4 - A área de recrutamento para inspector principal é alargada aos inspectores técnicos especialistas principais com curso superior que não confira o grau de licenciatura, desde que previamente habilitados com formação adequada.\n\n5 - Aos titulares de mestrado ou doutoramento, desde que o conteúdo funcional seja de interesse para a IRT, é reduzido em 12 meses o tempo legalmente exigido para o acesso na carreira, nos termos das alíneas a), b) e c) do n.º 2."
+  },
+  "fd4cc12563b965cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Carreira de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Carreira de inspecção\n\nA carreira de inspecção desenvolve-se pelas categorias de inspector técnico especialista principal, inspector técnico especialista, inspector técnico principal, inspector-adjunto principal e inspector-adjunto."
+  },
+  "383233879cb2f790": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Condições de ingresso e acesso na carreira de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Condições de ingresso e acesso na carreira de inspecção\n\n1 - O recrutamento para ingresso na carreira de inspecção é feito nos termos artigo 6.º, n.º 1, alínea d), do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, sem prejuízo do disposto no artigo 34.º, sendo definido no respectivo aviso de abertura do concurso o curso técnico-profissional considerado adequado, em função das atribuições da IRT.\n\n2 - O recrutamento para ingresso na carreira de inspecção pode ainda ser feito na categoria de inspector-adjunto principal de entre indivíduos habilitados com curso superior que não confira o grau de licenciatura e que tenham obtido aprovação em estágio, sendo para este efeito reservados até 40% do número de lugares postos a concurso, salvo se não existirem concorrentes nestas condições.\n\n3 - O acesso nesta carreira é feito mediante concurso e obedece às seguintes regras:\n\na) Inspector técnico especialista principal e inspector técnico especialista, de entre, respectivamente, inspectores técnicos especialistas e inspectores técnicos principais, com um mínimo de três anos de serviço classificados de Muito bom ou de cinco anos classificados de Bom nas respectivas categorias;\n\nb) Inspector técnico principal, de entre inspectores-adjuntos principais com um mínimo de três anos na categoria classificados de Bom, habilitados com curso superior que não confira o grau de licenciatura ou desde que aprovados em curso de formação adequado;\n\nc) Inspector-adjunto principal, de entre inspectores-adjuntos com um mínimo de três anos de serviço classificados de Bom."
+  },
+  "727879b6277179a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Admissão a estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Admissão a estágio\n\n1 - O ingresso nas carreiras de inspecção está sujeito a prévia aprovação em estágio.\n\n2 - O recrutamento de estagiários é feito para cada uma das carreiras de inspecção previstas no presente diploma e em função do número de vagas existentes no conjunto das categorias que a integram.\n\n3 - A admissão a estágio para ingresso é feita mediante concurso de provas de conhecimento e de avaliação curricular, de entre indivíduos que, sem prejuízo dos artigos anteriores, satisfaçam, cumulativamente, os seguintes requisitos:\n\na) Ter idade compreendida entre 21 e 35 anos;\n\nb) Possuir a robustez física e o perfil psíquico adequados ao exercício de funções de inspecção, nos termos em que estas são definidas no presente diploma, e ter cumprido as leis de vacinação obrigatória;\n\nc) Estar habilitado com carta de condução de veículos ligeiros.\n\n4 - Os métodos de selecção referidos no número anterior são complementados pelos que a seguir se indicam:\n\na) Exame médico;\n\nb) Exame psicológico;\n\nc) Entrevista profissional.\n\n5 - Os métodos de selecção referidos no presente artigo, com excepção dos referidos nas alíneas b) e c) do número anterior, têm, por si só, carácter eliminatório, bem como cada uma das fases que os integram."
+  },
+  "2ca94350f1ddd445": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Conteúdo do exame médico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Conteúdo do exame médico\n\nA orientação do exame médico e a tabela de inaptidões constarão de portaria conjunta dos secretários regionais que tiverem a seu cargo as áreas da função pública, do trabalho e da segurança social."
+  },
+  "06f576d9c2fd64a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Regimes de estágio e do estagiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Regimes de estágio e do estagiário\n\n1 - O regime, a duração e demais condições necessárias ao funcionamento do estágio para ingresso nas carreiras de inspecção são definidos em portaria conjunta dos secretários regionais que tiverem a seu cargo as áreas da função pública e do trabalho.\n\n2 - Ao estagiário é assegurado o respectivo estatuto, desde a conclusão do estágio até à posse na categoria a que se candidata.\n\n3 - Os estagiários são remunerados de acordo com índice constante do anexo II ao presente diploma, sem prejuízo do direito de opção pela remuneração do lugar de origem no caso de pessoal já vinculado à função pública.\n\n4 - Os estagiários que tenham concluído o respectivo estágio com aproveitamento são nomeados na categoria de ingresso da carreira a que concorrem, em função do número de vagas abertas a concurso, nos termos do artigo 34.º"
+  },
+  "ca7c148ec9408c5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conteúdos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conteúdos funcionais"
+  },
+  "d51c456b9552a6bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Pessoal das carreiras de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Pessoal das carreiras de inspecção\n\n1 - Ao pessoal das carreiras de inspecção compete:\n\na) Executar as acções de inspecção que lhe sejam cometidas, visitando os locais de trabalho, tendo em vista o cumprimento das disposições legais, regulamentares e convencionais respeitantes às condições de trabalho;\n\nb) Interrogar, quando tal se mostre necessário ao desempenho das suas funções, a entidade empregadora ou gestor, os trabalhadores e seus representantes ou quaisquer outras pessoas;\n\nc) Prestar esclarecimentos às entidades empregadoras e aos trabalhadores durante as acções de inspecção, sempre que tal for considerado oportuno;\n\nd) Recolher ou requisitar, para fotocopiar, a documentação obrigatória em poder das entidades empregadoras, quando for julgado necessário;\n\ne) Preencher a nota de serviço externo, bem como proceder ao registo dos dados referentes às acções inspectivas que hajam efectuado;\n\nf) Averiguar o cumprimento das condições de atribuição e manutenção de apoios ao emprego e às situações de desemprego e de suspensão do contrato de trabalho;\n\ng) Verificar o pagamento das retribuições devidas, bem como das contribuições para a segurança social;\n\nh) Verificar as tarefas executadas pelos trabalhadores com vista ao enquadramento legal das profissões e categorias;\n\ni) Verificar as condições de segurança, higiene e bem-estar nos locais de trabalho;\n\nj) Recolher e levar para análise amostras de matérias-primas ou produtos manufacturados, utilizados ou manipulados pelos trabalhadores, dando conhecimento do facto à entidade empregadora, gestor ou seus representantes;\n\nl) Solicitar a identificação das substâncias perigosas ou tóxicas através do rótulo e informações técnicas do fabricante, representante, importador ou distribuidor;\n\nm) Elaborar os diversos relatórios, informações e pareceres que decorram das acções de inspecção, bem como fazer propostas de notificação e levantar autos de notícia;\n\nn) Promover e proceder às notificações, de harmonia com as disposições legais em vigor;\n\no) Participar superiormente as infracções de que tenha conhecimento e cuja fiscalização seja da competência de outras entidades ou serviços;\n\np) Comparecer em tribunal aquando do julgamento das infracções que foram objecto de auto de notícia ou de participação;\n\nq) Solicitar a colaboração da Polícia de Segurança Pública e de outras autoridades ou entidades quando for considerado necessário;\n\nr) Participar em reuniões ou grupos de trabalho para que seja designado;\n\ns) Desempenhar outras funções que por lei, regulamento ou determinação superior lhe sejam cometidas.\n\n2 - Ao pessoal da carreira de inspecção superior incumbe especificamente:\n\na) Elaborar relatórios de inquérito sumário, a requisição dos tribunais do trabalho, quando ocorram acidentes de trabalho ou doenças profissionais;\n\nb) Participar, com técnicos das entidades licenciadoras, nas vistorias das instalações e equipamentos;\n\nc) Proceder a inquéritos, tendo em vista a determinação das causas dos acidentes de trabalho ou das doenças profissionais, sempre que se presumam más condições de segurança e higiene nos locais de trabalho;\n\nd) Controlar a obrigatoriedade de manutenção e funcionamento, por parte da empresa, dos serviços de medicina do trabalho e dos órgãos de higiene e segurança no trabalho, salvo no tocante à manipulação de elementos que envolvam sigilo profissional."
+  },
+  "7db948d3ef685cdd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Classificação de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Classificação de serviço\n\n1 - Ao pessoal das carreiras de inspecção será aplicado um sistema específico de classificação de serviço, a definir por portaria conjunta dos secretários regionais a que se refere o n.º 1 do artigo 36.º\n\n2 - Enquanto não entrar em vigor o sistema de classificação de serviço previsto no número anterior, aplicar-se-á o regime em vigor na administração pública regional."
+  },
+  "583477172f6cd671": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Direitos, deveres e regalias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Direitos, deveres e regalias"
+  },
+  "44a1a320a54b239d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Remunerações\n\nAs escalas salariais das carreiras de inspecção constam do anexo II ao presente diploma."
+  },
+  "39061fe05e7c6020": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Suplemento mensal de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Suplemento mensal de risco\n\n1 - Até ser dada execução ao disposto no artigo 12.º do [Decreto-Lei n.º 53-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-a-1998-438182), de 11 de Março, e sem prejuízo do preceituado no artigo 14.º, n.º 1, deste decreto-lei, o pessoal dirigente com competência inspectiva e o pessoal das carreiras de inspecção mantêm o direito a auferir o suplemento mensal de risco, no valor de 20% da respectiva remuneração base, criado pelo artigo 47.º do Estatuto da Inspecção Regional do Trabalho, aprovado em anexo ao [Decreto Regulamentar Regional n.º 19/97/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-1997-649480), de 17 de Setembro.\n\n2 - Não tem direito ao suplemento mensal de risco o pessoal admitido em regime de estágio e durante o período em que o mesmo se mantiver."
+  },
+  "c27c7fde39d3b2db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Transportes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Transportes\n\nO pessoal dirigente com competência inspectiva e o pessoal das carreiras de inspecção têm direito à utilização dos transportes colectivos terrestres quando se encontrem em serviço, mediante título de transporte a fornecer pela IRT."
+  },
+  "85933110dd32c1da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Dever de permanência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Dever de permanência\n\nO pessoal das carreiras de inspecção que, injustificadamente, requeira a exoneração ou a cessação de funções, a qualquer título, antes de decorridos três anos de exercício efectivo de funções na IRT, indemnizará o Governo Regional pelas despesas com a formação e o estágio necessárias ao seu ingresso na carreira."
+  },
+  "1c31ebdf3ffdcc44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Sigilo profissional\n\n1 - Os inspectores do trabalho e outros funcionários da IRT estão sujeitos às disposições legais relativas ao segredo de justiça e devem guardar sigilo profissional, mesmo depois de deixarem o serviço, não podendo revelar segredos de fabricação ou comércio ou processos de exploração de que tenham conhecimento em virtude do desempenho das suas funções.\n\n2 - Os inspectores do trabalho e os outros funcionários referidos no número anterior devem preservar a confidencialidade da origem de qualquer queixa ou denúncia referente a defeitos de instalação ou ao incumprimento de disposições integradas no âmbito de competência da IRT, não podendo revelar que a visita de inspecção foi consequência de uma queixa ou denúncia.\n\n3 - O disposto nos números anteriores é aplicável a pessoas que acompanhem os inspectores do trabalho, nos termos do presente diploma."
+  },
+  "b2930c635888e3e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Incompatibilidades\n\n1 - O pessoal afecto à IRT está sujeito ao regime de incompatibilidades dos funcionários e agentes da Administração Pública.\n\n2 - Aos inspectores do trabalho e ao pessoal dirigente com competência inspectiva é vedado exercer qualquer actividade que possa afectar a sua independência, isenção, autoridade ou dignidade da função, designadamente:\n\na) Intervir em processos de inspecção ou outros inerentes ao exercício de funções inspectivas em que sejam interessados o cônjuge, parentes ou afins na linha recta ou até ao 3.º grau na linha colateral;\n\nb) Exercer qualquer ramo de comércio, indústria ou serviço;\n\nc) Exercer profissão liberal ou qualquer forma de procuradoria ou consultadoria;\n\nd) Exercer qualquer actividade por conta de outrem;\n\ne) Exercer funções em órgãos de administração de quaisquer associações, salvo as que sejam representativas dos seus interesses profissionais, ou fundações.\n\n3 - Exceptua-se do disposto no número anterior o exercício de actividade docente em estabelecimentos de ensino, ou de formador, desde que devidamente autorizado."
+  },
+  "678a5e016250a4e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Cartão de identidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Cartão de identidade\n\nOs inspectores do trabalho têm direito a um cartão de identidade que confere livre trânsito quando no exercício das suas funções, segundo modelo aprovado por resolução do Governo Regional."
+  },
+  "90087b9b13ee1480": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Detenção, uso e porte de arma de defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Detenção, uso e porte de arma de defesa\n\nAo pessoal com funções inspectivas é permitida a detenção, uso e porte de arma de defesa, nos termos da lei em vigor e sem dependência das formalidades nela estabelecidas."
+  },
+  "ef473629ee24bef7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Duração de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Duração de trabalho\n\n1 - O regime de duração de trabalho do pessoal das carreiras de inspecção é o estabelecido em geral para a função pública, sem prejuízo de, mediante determinação ou autorização do inspector regional do trabalho, e quando as necessidades de serviço o impuserem, poderem as respectivas funções ser exercidas a qualquer hora do dia ou da noite, bem como nos dias de descanso semanal ou feriados.\n\n2 - Quando ocorra o circunstancialismo previsto no número anterior, o pessoal terá direito às retribuições e compensações estabelecidas na lei geral para trabalho nocturno, suplementar e em dias de descanso semanal e feriados, tendo direito a igual período de descanso num dos oito dias seguintes."
+  },
+  "8578825b4ffc6d9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Dirigentes com competência inspectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Dirigentes com competência inspectiva\n\nTodos os direitos e deveres conferidos aos inspectores do trabalho consideram-se extensivos aos dirigentes com competência inspectiva."
+  },
+  "260a9f4ecd4b5740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias"
+  },
+  "445a177dfc8f54f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Regra geral de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Regra geral de transição\n\n1 - Sem prejuízo do disposto no número seguinte, a transição do pessoal técnico de inspecção faz-se para a mesma carreira e categoria.\n\n2 - Os funcionários integrados nas categorias de inspector-adjunto de 1.ª, 2.ª e 3.ª classes transitam para a categoria de inspector-adjunto.\n\n3 - As transições a que se reportam os números anteriores efectuam-se para o escalão a que corresponda, na estrutura da categoria, índice remuneratório igual ou, se não houver coincidência, índice superior mais aproximado."
+  },
+  "28ae5d7b43f7efc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Situações especiais\n\n1 - Os actuais inspectores-adjuntos de 1.ª classe que, de acordo com a regra geral de transição, venham a ser integrados em índice igual àquele para que transitariam se não tivessem sido promovidos a essa categoria serão integrados no índice imediatamente superior da respectiva categoria.\n\n2 - Serão igualmente posicionados no escalão imediatamente superior os funcionários promovidos em 1997 que, se não tivessem sido promovidos, adquirissem pela combinação das regras de transição e de progressão um índice salarial superior ao que resulta da transição para a nova escala salarial.\n\n3 - Serão igualmente posicionados no escalão imediatamente superior os funcionários que na sequência de promoção ocorrida em 1997 sejam posicionados em escalão a que corresponda índice igual ou inferior ao atribuído a outros funcionários do mesmo organismo e com a mesma categoria e escalão que não tenham sido promovidos durante 1998.\n\n4 - Os recursos apresentados com fundamento na inversão das posições relativas detidas pelos funcionários ou agentes à data da publicação do presente diploma e que violem o princípio da coerência e da equidade que presidem ao sistema de carreiras serão resolvidos por despacho conjunto dos Secretários Regionais da tutela e das Finanças e do membro do Governo Regional responsável pela Administração Pública.\n\n5 - Aos actuais inspectores-adjuntos principais posicionados no 4.º escalão e inspectores-adjuntos de 1.ª classe posicionados no 1.º escalão é reduzido em um ano o tempo de serviço necessário para progressão ao escalão imediato, na primeira progressão após 1 de Janeiro de 1998."
+  },
+  "c5adb2b4404dd082": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Enquadramento salarial das mudanças de situação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Enquadramento salarial das mudanças de situação\n\nOs funcionários que tenham mudado de categoria ou escalão a partir de 1 de Janeiro de 1998 transitam para a nova escala salarial de acordo com a categoria e escalão de que eram titulares àquela data, sem prejuízo do reposicionamento decorrente das alterações subsequentes de acordo com as regras aplicáveis."
+  },
+  "d14c7238d80d027a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Contagem de tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Contagem de tempo de serviço\n\n1 - Aos funcionários a que se refere o n.º 2 do artigo 49.º do presente estatuto, o tempo de serviço prestado nas categorias de inspector-adjunto de 1.ª, 2.ª e 3.ª classes conta, para efeitos de promoção, como prestado na categoria de inspector-adjunto.\n\n2 - Nos casos em que da aplicação da regra constante do n.º 3 do artigo 49.º resulte um impulso salarial igual ou inferior a 10 pontos, releva para efeitos de progressão o tempo de permanência no índice de origem."
+  },
+  "46d50421d7a584db": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Concursos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Concursos pendentes\n\n1 - Mantêm-se em vigor os concursos cujos avisos de abertura se encontrem publicados até à data da publicação do presente estatuto, observando-se as seguintes regras:\n\na) Os candidatos que tenham sido ou vierem a ser aprovados nesses concursos são integrados na nova categoria em escalão para que transitaram os titulares das categorias a que se candidataram que estavam posicionados no mesmo escalão;\n\nb) A integração prevista na alínea anterior depende de despacho de nomeação ou de transição no caso de categorias extintas e produz efeitos a partir da data da sua publicação no Jornal Oficial da Região Autónoma da Madeira.\n\n2 - O regime consignado no número precedente é aplicável apenas às vagas existentes à data da publicação dos avisos de abertura dos respectivos concursos, salvo nos casos de dotação global."
+  },
+  "cc4b80c3bcd3fa65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Salvaguarda de expectativas de progressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Salvaguarda de expectativas de progressão\n\nOs funcionários cuja primeira e segunda progressão após a transição para a escala salarial aprovada pelo presente diploma se faça para índice inferior ao que lhes teria sido atribuído no sistema actualmente vigente serão pagos pelo índice que lhes caberia na escala anterior até perfazerem o tempo legalmente previsto para uma nova progressão."
+  },
+  "3a0de5eb1dcf5021": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — Regras de transição para chefe de departamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Regras de transição para chefe de departamento\n\n1 - É extinto o lugar de chefe de repartição.\n\n2 - O chefe da repartição ora extinta transita, com a entrada em vigor do presente diploma e independentemente de quaisquer formalidades, para a categoria de chefe de departamento, prevista no anexo I.\n\n3 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontra posicionado.\n\n4 - Quando da transição resultar um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeito de progressão na categoria.\n\n5 - A transição produz efeitos a partir da data de integração na nova categoria.\n\n6 - O lugar de chefe de departamento é extinto quando vagar.\n\n7 - O disposto no presente artigo não prejudica a faculdade de o actual chefe de repartição optar pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho."
+  },
+  "d2ec5af88bd5b66c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — Encarregado de instalações e equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Encarregado de instalações e equipamentos\n\nO provimento na categoria de encarregado de instalações e equipamentos é feito de acordo com o estabelecido no artigo 12.º do [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto, rectificado pela [Declaração de Rectificação n.º 15-I/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-i-1999-469818), de 30 de Setembro, publicada no Diário da República, 1.ª série-A, n.º 229, de 30 de Setembro de 1999."
+  },
+  "e8b1a5f72e3aaabf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Produção de efeitos\n\n1 - O disposto nos artigos 49.º a 54.º e o quadro de pessoal constante do anexo II e respectivas escalas salariais produzem efeitos a 1 de Janeiro de 1998.\n\n2 - Das transições decorrentes deste diploma não podem resultar, em 1998, impulsos salariais superiores a 15 pontos indiciários.\n\n3 - Nos casos em que se verificam impulsos salariais superiores, o direito à totalidade da remuneração só se adquire em 1 de Janeiro de 1999.\n\n4 - Aos funcionários que em 1998 adquiriram, por progressão na anterior escala salarial, o direito a remuneração superior à que lhes é atribuída de acordo com os n.os 2 e 3 é garantida, entre o momento da progressão e 31 de Dezembro de 1998, a remuneração correspondente ao índice para o qual progrediram naquela escala salarial.\n\n5 - O disposto nos números anteriores não impede a integração formal no escalão que resultar das regras de transição.\n\n6 - Os funcionários e agentes que se aposentaram durante o ano de 1998 e até à entrada em vigor do presente diploma terão a sua pensão de aposentação calculada com base no índice que couber ao escalão em que ficarem posicionados."
+  },
+  "d5c599e2fd557f4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)"
+  },
+  "bd3a4a51cd2dcd10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — [[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)](https://files.diariodarepublica.pt/1s/2001/07/157b00/41344145.pdf)"
+  },
+  "09d0bdfbb58a57a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "741c114c6d5aed8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Carreiras de inspector do trabalho",
+   "in_force_from": "2002-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+   ],
+   "markdown": "###### Artigo 29.º — Carreiras de inspector do trabalho\n\n1 - A IRT, para a prossecução das competências que lhe estão cometidas, dispõe das seguintes carreiras de regime especial:\n\na) A carreira de inspector superior do trabalho;\n\nb) Transitoriamente, e enquanto haja funcionários nelas integrados, as carreiras de inspector técnico do trabalho e de inspector-adjunto do trabalho.\n\n2 - As vagas que forem ocorrendo nas carreiras referidas na alínea b) do número anterior transitam, automaticamente, para a carreira de inspector superior do trabalho.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+  },
+  "9d8e6135ce402b82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Carreira de inspector superior do trabalho",
+   "in_force_from": "2002-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+   ],
+   "markdown": "###### Artigo 30.º — Carreira de inspector superior do trabalho\n\nIntegram a carreira de inspector superior do trabalho as categorias de inspector superior principal, inspector superior, inspector principal e inspector.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+  },
+  "131a4b79680f7a0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Condições de ingresso e de acesso na carreira de inspector superior do trabalho",
+   "in_force_from": "2002-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+   ],
+   "markdown": "###### Artigo 31.º — Condições de ingresso e de acesso na carreira de inspector superior do trabalho\n\n1 - O ingresso na carreira de inspector superior do trabalho faz-se, em regra, para a categoria de inspector de entre indivíduos habilitados com licenciatura considerada adequada e aprovados em estágio, com classificação não inferior a Bom (14 valores), sem prejuízo do disposto no n.º 1 do artigo 36.º\n\n2 - O recrutamento para as categorias de acesso da carreira de inspector superior do trabalho faz-se mediante concurso e obedece às seguintes regras:\n\na) Inspector superior principal, de entre inspectores superiores com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados de Bom;\n\nb) Inspector superior, de entre inspectores principais com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados de Bom, mediante concurso de provas públicas, que consistirá na apreciação do currículo profissional do candidato;\n\nc) Inspector principal, de entre inspectores com, pelo menos, três anos de serviço na categoria classificados de Bom.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+  },
+  "373a93bf62250e0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Carreira de inspector técnico do trabalho",
+   "in_force_from": "2002-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+   ],
+   "markdown": "###### Artigo 32.º — Carreira de inspector técnico do trabalho\n\nIntegram a carreira de inspector técnico do trabalho as categorias de inspector técnico especialista principal, inspector técnico especialista e inspector técnico principal.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+  },
+  "affb80a851efdcc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Condições de acesso na carreira de inspector técnico do trabalho",
+   "in_force_from": "2002-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+   ],
+   "markdown": "###### Artigo 33.º — Condições de acesso na carreira de inspector técnico do trabalho\n\nO recrutamento para as categorias de acesso da carreira de inspector técnico do trabalho faz-se mediante concurso e obedece às seguintes regras:\n\na) Inspector técnico especialista principal, de entre inspectores técnicos especialistas com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom;\n\nb) Inspector técnico especialista, de entre inspectores técnicos principais com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+  },
+  "51b39144aeff7a34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Carreira de inspector-adjunto do trabalho",
+   "in_force_from": "2002-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+   ],
+   "markdown": "###### Artigo 34.º — Carreira de inspector-adjunto do trabalho\n\nIntegram a carreira de inspector-adjunto do trabalho as categorias de inspector-adjunto especialista principal, inspector-adjunto especialista, inspector-adjunto principal e inspector-adjunto.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+  },
+  "8266a126bafb78ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Condições de acesso na carreira de inspector-adjunto do trabalho",
+   "in_force_from": "2002-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+   ],
+   "markdown": "###### Artigo 35.º — Condições de acesso na carreira de inspector-adjunto do trabalho\n\nO recrutamento para as categorias de acesso da carreira de inspector-adjunto do trabalho faz-se mediante concurso e obedece às seguintes regras:\n\na) Inspector-adjunto especialista principal, de entre inspectores-adjuntos especialistas com, pelo menos, três anos na categoria classificados de Muito bom ou cinco anos classificados de Bom;\n\nb) Inspector-adjunto especialista, de entre inspectores-adjuntos principais com, pelo menos, três anos de serviço na categoria classificados de Muito bom ou cinco anos classificados de Bom;\n\nc) Inspector-adjunto principal, de entre inspectores-adjuntos com, pelo menos, três anos de serviço na categoria classificados de Bom.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+  },
+  "40b61045ce8496ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Estágio",
+   "in_force_from": "2002-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+   ],
+   "markdown": "###### Artigo 36.º — Estágio\n\n1 - A admissão ao estágio para ingresso na carreira de inspector superior do trabalho é feita mediante concurso, de entre indivíduos que satisfaçam, cumulativamente, os requisitos gerais de admissão e estejam habilitados com carta de condução de veículos ligeiros.\n\n2 - O regulamento de estágio é aprovado por despacho conjunto dos membros do Governo Regional que tiverem a seu cargo as áreas do trabalho e da Administração Pública.\n\n3 - Os estagiários aprovados que excedam o número de vagas fixado poderão ser nomeados dentro do prazo de validade do concurso para admissão ao estágio.\n\n4 - A partir da nomeação a que se refere o número anterior e por causa que lhes seja imputável, os inspectores que não prestem o tempo de serviço correspondente à duração do estágio ficam obrigados a reembolsar a IRT de todas as despesas efectuadas com a sua formação.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+  },
+  "686a7de56ff19cbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Conteúdo funcional",
+   "in_force_from": "2002-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+   ],
+   "markdown": "###### Artigo 37.º — Conteúdo funcional\n\n1 - Os inspectores do trabalho concebem e desenvolvem metodologias e acções de informação, de aconselhamento e de controlo, no âmbito dos poderes de autoridade pública, nas empresas e outras organizações, com vista à promoção da melhoria das condições de trabalho.\n\n2 - Na acção de promoção da melhoria das condições de trabalho, compete aos inspectores do trabalho:\n\na) Desenvolver as acções necessárias à avaliação da qualidade de trabalho, das condições de trabalho e da gestão e organização da segurança, higiene e saúde do trabalho;\n\nb) Prestar a entidades patronais, trabalhadores e seus representantes nos locais de trabalho ou nos serviços da IRT, informações e conselhos técnicos sobre o modo mais adequado de observarem essas disposições;\n\nc) Notificar para que, dentro de um prazo fixado, sejam realizadas nos locais de trabalho as modificações necessárias para assegurar a aplicação das disposições relativas à segurança, higiene e saúde dos trabalhadores;\n\nd) Notificar o empregador para adoptar medidas de prevenção no domínio da avaliação dos riscos profissionais, designadamente promover, através de organismos especializados, medições, testes ou peritagens incidentes sobre os componentes materiais de trabalho;\n\ne) Notificar para que sejam adoptadas medidas imediatamente executórias, incluindo a suspensão de trabalhos em curso, em caso de risco grave ou probabilidade séria de verificação de lesão da vida, da integridade física ou da saúde dos trabalhadores;\n\nf) Controlar a obrigatoriedade da criação, por parte de empresas, dos serviços e órgãos de segurança, higiene e saúde no trabalho e do seu funcionamento;\n\ng) Realizar inquéritos em casos de acidentes de trabalho mortais ou que evidenciem situações particularmente graves ou de doenças profissionais que provoquem lesões graves, sem prejuízo, neste caso, das competências de outras entidades, com vista ao desenvolvimento de medidas de prevenção adequadas nos locais de trabalho;\n\nh) Promover processos de contra-ordenação ou contravenção, levantando autos de notícia, elaborando participação ou procedendo a inquérito prévio;\n\ni) Promover a colaboração de outras entidades com competência no âmbito das condições de trabalho;\n\nj) Participar a outras entidades situações relacionadas com as condições de trabalho no âmbito das suas competências;\n\nl) Elaborar os relatórios, informações e outros documentos decorrentes da acção inspectiva;\n\nm) Elaborar informações, pareceres e estudos de natureza diversa no âmbito das competências da IRT;\n\nn) Participar em grupos de trabalho, comissões, equipas de projecto e missões específicas para que sejam designados.\n\n3 - Aos inspectores do trabalho integrados na carreira de inspector técnico do trabalho, a que faz referência a alínea b) do n.º 1 do artigo 29.º, para além das funções indicadas no número anterior, compete:\n\na) Colaborar na programação da actividade inspectiva, de acordo com os planos de actividades anuais, e de acções conjuntas desenvolvidas no âmbito de articulações com outros sistemas inspectivos;\n\nb) Coordenar e executar acções inspectivas;\n\nc) Instruir processos de contra-ordenação laboral que lhes sejam confiados nos termos do artigo 25.º da [Lei n.º 116/99](https://diariodarepublica.pt/dr/detalhe/lei/116-1999-426747), de 4 de Agosto.\n\n4 - Aos inspectores do trabalho integrados na carreira de inspector superior do trabalho, para além das funções indicadas nos números anteriores, compete:\n\na) Realizar trabalhos e estudos de apoio às decisões da competência do pessoal dirigente da IRT, bem como prestar-lhe assessoria, quando solicitada;\n\nb) Assegurar a instrução de processos de averiguações, de inquéritos e disciplinares.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+  },
+  "8fe0446640557908": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Remunerações",
+   "in_force_from": "2002-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+   ],
+   "markdown": "###### Artigo 39.º — Remunerações\n\nAs escalas salariais das carreiras de inspecção do trabalho são as fixadas no anexo II do presente diploma, de acordo com o disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 112/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2001-362312), de 6 de Abril.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+  },
+  "f5d2fccd30a9ec71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Suplemento de função inspectiva",
+   "in_force_from": "2002-10-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+   ],
+   "markdown": "###### Artigo 40.º — Suplemento de função inspectiva\n\n1 - O pessoal das carreiras de inspecção e o pessoal dirigente ou equiparado nomeado para exercer funções de direcção sobre aquele pessoal têm direito a um suplemento de função inspectiva, para compensação dos ónus específicos inerentes ao seu exercício, no valor de 22,5% da respectiva remuneração de base.\n\n2 - O suplemento é abonado em 12 mensalidades e releva para os efeitos de aposentação, sendo considerado no cálculo da pensão pela forma prevista na alínea b) do n.º 1 do artigo 47.º do Estatuto da Aposentação.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 14/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2002-635592), publicado em 2002-09-17."
+  },
+  "eca4ffbd62d1bc4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Produção de efeitos\n\n1 - O disposto nos artigos 49.º a 54.º e o quadro de pessoal constante do anexo II e respectivas escalas salariais produzem efeitos a 1 de Janeiro de 1998.\n\n2 - Das transições decorrentes deste diploma não podem resultar, em 1998, impulsos salariais superiores a 15 pontos indiciários.\n\n3 - Nos casos em que se verificam impulsos salariais superiores, o direito à totalidade da remuneração só se adquire em 1 de Janeiro de 1999.\n\n4 - Aos funcionários que em 1998 adquiriram, por progressão na anterior escala salarial, o direito a remuneração superior à que lhes é atribuída de acordo com os n.os 2 e 3 é garantida, entre o momento da progressão e 31 de Dezembro de 1998, a remuneração correspondente ao índice para o qual progrediram naquela escala salarial.\n\n5 - O disposto nos números anteriores não impede a integração formal no escalão que resultar das regras de transição.\n\n6 - Os funcionários e agentes que se aposentaram durante o ano de 1998 e até à entrada em vigor do presente diploma terão a sua pensão de aposentação calculada com base no índice que couber ao escalão em que ficarem posicionados.\n\nAprovado em Conselho do Governo Regional em 31 de Maio de 2001.\n\nO Vice-Presidente do Governo Regional, em exercício da Presidência, João Carlos Cunha e Silva.\n\nAssinado em 19 de Junho de 2001.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.\n\nEstatuto e orgânica da Inspecção Regional do Trabalho"
+  }
+ }
+}

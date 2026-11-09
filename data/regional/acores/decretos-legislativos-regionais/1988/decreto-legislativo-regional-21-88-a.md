@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-06-01'
+version_history:
+  file: decreto-legislativo-regional-21-88-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-05-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-06-01'
+    amending: pt:dre:534776:por
+    amending_title: Decreto Legislativo Regional n.º 1/2005/A
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:17:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    1/2005/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1988/decreto-legislativo-regional-21-88-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,25 +139,21 @@ De igual modo se introduz um aditamento ao artigo 2.º do [Decreto Legislativo R
 
 Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
 
-Artigo único - 1 - A alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, aplicado à Região Autónoma dos Açores, com adaptações, pelo [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795), de 26 de Maio, passa a ter a seguinte redacção:
+###### Artigo único
+
+1 - A alínea a) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, aplicado à Região Autónoma dos Açores, com adaptações, pelo [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795), de 26 de Maio, passa a ter a seguinte redacção:
 
 1 - ...
 
 a) Quando a única forma de provimento prevista seja contrato e se destine ao preenchimento de lugares do quadro, bem como a contratação além dos quadros quando esta se revele indispensável ao funcionamento dos serviços de natureza transitória.
 
-2 - Ao artigo 2.º do [Decreto Legislativo Regional n.º 5/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1987-421795), de 26 de Maio, é aditado o n.º 4, com a seguinte redacção:
-
-1 - ...
-
-2 - ...
-
-3 - ...
-
-4 - A contratação a prazo certo ao abrigo do [Decreto-Lei n.º 280/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1985-183214), de 22 de Julho, poderá ser celebrada por urgente conveniência de serviço, de harmonia com o disposto nos n.os 2 e 3 do artigo 3.º do [Decreto-Lei n.º 146-C/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-c-1980-207058), de 22 de Maio.
+2 - (Revogado.)
 
 Aprovado pela Assembleia Regional dos Açores, na Horta, em 10 de Março de 1988.
 
 O Presidente da Assembleia Regional, José Guilherme Reis Leite.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 1/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2005-534776), publicado em 2005-05-09.
 
 Assinado em Angra do Heroísmo em 15 de Abril de 1988.
 

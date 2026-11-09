@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:408315:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1974-01-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a03513bd02df3120"
+   ]
+  },
+  {
+   "date": "1975-08-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:314444:por",
+     "title": "Decreto n.º 418/75",
+     "published": "1975-08-09",
+     "dre_path": "/dr/detalhe/decreto/418-1975-314444"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "81c50041bd0339d9",
+    "a6bc41e30b254566",
+    "fa4e5a5bd24d7d4e",
+    "67b33017d57b79eb"
+   ]
+  }
+ ],
+ "fragments": {
+  "a03513bd02df3120": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Janeiro\n\nConsiderando a necessidade de a Companhia de Electricidade de Macau, S. A. R. L., concessionária da produção, transporte e distribuição de energia eléctrica do concelho de Macau, celebrar, com a firma japonesa Mitsubishi Corporation, um contrato em regime de pagamentos diferidos, para a construção da nova central termoeléctrica de 2 x 23 mW, em Coloane, e fornecimento e montagem do respectivo equipamento;\n\nRevestindo-se de capital importância e premência para o desenvolvimento económico e social da província a materialização de tal empreendimento;\n\nAtendendo a que a empresa adjudicatária solicitou a prestação de garantias bancárias e abertura de créditos documentários, que o Banco Nacional Ultramarino e o Banco de Fomento Nacional se dispuseram conceder e ordenar, com a correspondente contragarantia do Governo da província de Macau e em condições a acordar;\n\nTendo em conta o facto de a província ser accionista daquela empresa de utilidade pública e ter sido obtido o parecer favorável do Governo de Macau;\n\nNos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgência;\n\nUsando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:\n\nArtigo 1.º É autorizado o Governo de Macau a segurar ao Banco Nacional Ultramarino e ao Banco de Fomento Nacional, ou a qualquer deles, os riscos emergentes das garantias bancárias que vierem a ser prestadas e dos créditos documentários que vierem a ser abertos até ao montante total em capital de 4000 milhões de ienes, acrescidos dos juros e demais encargos que forem devidos, e, ainda, a assumir a responsabilidade por diferenças de câmbio que porventura se verificarem, tudo em consequência do contrato de adjudicação da central termoeléctrica de Coloane, a realizar, em regime de pagamentos diferidos, entre a Companhia de Electricidade de Macau, S. A. R. L. e a empresa japonesa Mitsubishi Corporation.\n\nArt. 2.º - 1. As operações financeiras a realizar pelos dois Bancos ou por qualquer deles, com contragarantia do Governo de Macau, serão as estipuladas no contrato a firmar entre a Companhia de Electricidade de Macau, S. A. R. L., e a Mitsubishi Corporation, respeitante à adjudicação a que se alude no artigo precedente.\n\n2. As condições do contrato a celebrar nos termos do número anterior ficam sujeitas à aprovação do Governador de Macau.\n\nArt. 3.º A província de Macau gozará de privilégio creditório sobre a Companhia de Electricidade de Macau, S. A. R. L., nos termos dos artigos 735.º, n.º 2, 747.º, n.º 1, alínea a), e 748.º, n.º 1, alínea a), do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.\n\nMarcello Caetano - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 9 de Janeiro de 1974.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser publicado no Boletim Oficial de Macau. - B. Rebelo de Sousa."
+  },
+  "81c50041bd0339d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de Janeiro\n\nConsiderando a necessidade de a Companhia de Electricidade de Macau, S. A. R. L., concessionária da produção, transporte e distribuição de energia eléctrica do concelho de Macau, celebrar, com a firma japonesa Mitsubishi Corporation, um contrato em regime de pagamentos diferidos, para a construção da nova central termoeléctrica de 2 x 23 mW, em Coloane, e fornecimento e montagem do respectivo equipamento;\n\nRevestindo-se de capital importância e premência para o desenvolvimento económico e social da província a materialização de tal empreendimento;\n\nAtendendo a que a empresa adjudicatária solicitou a prestação de garantias bancárias e abertura de créditos documentários, que o Banco Nacional Ultramarino e o Banco de Fomento Nacional se dispuseram conceder e ordenar, com a correspondente contragarantia do Governo da província de Macau e em condições a acordar;\n\nTendo em conta o facto de a província ser accionista daquela empresa de utilidade pública e ter sido obtido o parecer favorável do Governo de Macau;\n\nNos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgência;\n\nUsando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:"
+  },
+  "a6bc41e30b254566": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1975-08-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 418/75](https://diariodarepublica.pt/dr/detalhe/decreto/418-1975-314444), publicado em 1975-08-09."
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ autorizado o Governo de Macau a segurar ao Banco Nacional Ultramarino e ao Banco de Fomento Nacional, ou a qualquer deles, os riscos emergentes das garantias bancárias que vierem a ser prestadas e dos créditos documentários que vierem a ser abertos até ao montante total em capital de 4500 milhões de ienes, acrescidos dos juros e demais encargos que forem devidos, e, ainda, a assumir a responsabilidade por diferenças de câmbio que porventura se verificarem, tudo em consequência do contrato de adjudicação da central termoeléctrica de Coloane, realizado, em regime de pagamentos diferidos, entre a Companhia de Electricidade de Macau, S. A. R. L., e a empresa japonesa Mitsubishi Corporation.\n\n> Alterado pelo/a [Decreto n.º 418/75](https://diariodarepublica.pt/dr/detalhe/decreto/418-1975-314444), publicado em 1975-08-09."
+  },
+  "fa4e5a5bd24d7d4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As operações financeiras a realizar pelos dois Bancos ou por qualquer deles, com contragarantia do Governo de Macau, serão as estipuladas no contrato a firmar entre a Companhia de Electricidade de Macau, S. A. R. L., e a Mitsubishi Corporation, respeitante à adjudicação a que se alude no artigo precedente.\n\n2. As condições do contrato a celebrar nos termos do número anterior ficam sujeitas à aprovação do Governador de Macau."
+  },
+  "67b33017d57b79eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA província de Macau gozará de privilégio creditório sobre a Companhia de Electricidade de Macau, S. A. R. L., nos termos dos artigos 735.º, n.º 2, 747.º, n.º 1, alínea a), e 748.º, n.º 1, alínea a), do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.\n\nMarcello Caetano - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 9 de Janeiro de 1974.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser publicado no Boletim Oficial de Macau. - B. Rebelo de Sousa."
+  }
+ }
+}

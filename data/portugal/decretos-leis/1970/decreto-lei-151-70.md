@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-03-20'
+version_history:
+  file: decreto-lei-151-70.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1970-04-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-03-20'
+    amending: pt:dre:445479:por
+    amending_title: Decreto-Lei n.º 87/71
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:13:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 87/71. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1970/decreto-lei-151-70.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,13 +141,21 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. O pessoal médico que participe nas escalas de urgência (banco) e nas escalas de enfermaria receberá, pelas horas que trabalhar além do serviço normal em tempo parcial ou em tempo completo, uma remuneração proporcional ao seu vencimento-hora.
+###### Artigo 1.º
 
-2. O pessoal de enfermagem e outro pessoal técnico e administrativo que for escalado para prestar serviço no período compreendido entre as 0 e as 8 horas receberá uma remuneração complementar a fixar por despacho conjunto dos Ministros das Finanças e da Saúde e Assistência.
+1. O pessoal médico que participe nas escalas de urgência (banco) e nas escalas de enfermaria receberá, pelas horas que trabalhar além do serviço normal em tempo parcial ou em tempo completo, uma remuneração proporcional ao seu vencimento-hora.
 
-Art. 2.º O Ministro da Saúde e Assistência estabelecerá em despacho as normas de organização e funcionamento dos serviços para aplicação dos n.os 1 e 2 do artigo anterior, e para eliminar, logo que possível, o recurso ao trabalho extraordinário.
+2. O pessoal de enfermagem e outro pessoal técnico, o pessoal administrativo, menor, auxiliar e oficinal que for escalado para prestar serviço no período compreendido entre as 0 e as 8 horas receberá uma remuneração complementar a fixar por despacho conjunto dos Ministros das Finanças e da Saúde e Assistência.
 
-Art. 3.º - 1. Os abonos a que se refere este diploma são devidos a partir de 1 de Março de 1970 e serão satisfeitos pelas verbas inscritas nos orçamentos dos respectivos estabelecimentos.
+> Alterado pelo/a [Decreto-Lei n.º 87/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1971-445479), publicado em 1971-03-20.
+
+###### Artigo 2.º
+
+O Ministro da Saúde e Assistência estabelecerá em despacho as normas de organização e funcionamento dos serviços para aplicação dos n.os 1 e 2 do artigo anterior, e para eliminar, logo que possível, o recurso ao trabalho extraordinário.
+
+###### Artigo 3.º
+
+1. Os abonos a que se refere este diploma são devidos a partir de 1 de Março de 1970 e serão satisfeitos pelas verbas inscritas nos orçamentos dos respectivos estabelecimentos.
 
 2. É revogado o n.º 3.º do artigo 26.º do [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), de 27 de Abril de 1968.
 

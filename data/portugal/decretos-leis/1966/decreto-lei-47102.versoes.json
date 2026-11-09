@@ -1,0 +1,372 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:475291:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1966-07-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "37cb26bff4327568",
+    "28d177ffc5229a24",
+    "be7eacdc9c816361",
+    "42a36926ca641fdf",
+    "a6dfa27f53075dfb"
+   ]
+  },
+  {
+   "date": "1967-06-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:312043:por",
+     "title": "Decreto-Lei n.º 47755",
+     "published": "1967-06-14",
+     "dre_path": "/dr/detalhe/decreto-lei/47755-1967-312043"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "37cb26bff4327568",
+    "23836370ae405d04",
+    "134be3e4c0f1233b",
+    "36a56b24a4dca6cc",
+    "7fa8ef0a2a52c535",
+    "15687de5323821a9",
+    "66deb10fac34e182",
+    "8ca086b6baad4ff4",
+    "fc6a709ea06f6346",
+    "cc7dffb0161c755b",
+    "286aeeefc20b3654",
+    "bee43a323bfa2704",
+    "1248eb75ae1eff4b",
+    "341007a71497282a",
+    "8e601dc19ae1aa57",
+    "3f0578ace5a7064b",
+    "05996427b10d3a2f",
+    "daf7897ea75ce410",
+    "b082a0cc46293e86",
+    "c0f0f5ac3536daf4",
+    "50fbdb62c2d9ab30",
+    "164fbf5867afb293",
+    "8c96a94bb6e2a80d",
+    "41ddbeddd2f063ba",
+    "35fe0cf4044cb685",
+    "260a9f4ecd4b5740",
+    "d70b4b552db0a304",
+    "65bb5f46cb5e89e4",
+    "645f52be1605442d",
+    "9616f5fe866fc145",
+    "f6aeccffe6f867eb",
+    "5616423e85cbf63f",
+    "8f25a552d099ddb5"
+   ]
+  }
+ ],
+ "fragments": {
+  "37cb26bff4327568": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1. O parecer n.º 5/VIII da Câmara Corporativa (Acta n.º 27, de 26 de Novembro de 1962), sobre o projecto de proposta de lei criando a Escola Nacional de Saúde Pública, historia e documenta abundantemente, na sua apreciação na generalidade, as características fundamentais da medicina moderna e da saúde pública e as suas repercussões sobre o bem-estar físico, mental e social das populações.\n\nNeste, como aliás em muitos outros campos, pode dizer-se que Portugal foi pioneiro no reconhecimento do primado da medicina social, e o aludido parecer aponta, muito justamente, que abrimos a era da medicina social com os conhecimentos de higiene exótica, com as contribuições de Garcia de Orta (Colóquios), de Ivo (Regimento de Saúde de 1580) e de Ribeiro Sanches, com o seu Tratado da Conservação da Saúde dos Povos (1756), que, como diz Ricardo Jorge, é o primeiro livro onde a medicina pública e preventiva se afirma como ciência social.\n\nComo ainda o afirma o nosso maior higienista, após a instituição da Provedoria-Mor de Saúde, regulada por Decreto de 1707, em 26 de Agosto de 1813, antes que a Bélgica tivesse as suas «comissões médicas provinciais» (1818) e a França o seu Conselho Superior de Saúde (1822), cria-se entre nós a Junta de Saúde, substituída em 1820 por uma Comissão de Saúde e em 1836 pelo Conselho de Saúde Pública.\n\nSegundo Ricardo Jorge, a organização sanitária, traçada por Passos Manuel, foi verdadeiramente admirável e fecunda, e infunde mais consideração quando é certo que só dez anos depois, em 1848, é que surgiram em França e na Inglaterra leis organizadoras da polícia sanitária, representadas pela instituição dos «conseils d'hygiène et salubrité» e pela publicação do Public Health Act.\n\nSão da autoria dos membros daquele Conselho de Saúde Pública criado em 1836 as seguintes afirmações, transcritas por Ricardo Jorge dos respectivos Annaes, começados a publicar em 1838:\n\nA saúde pública é uma das primeiras garantias dos povos, é uma das primeiras leis dos Estados, e um dos primeiros deveres dos Governos em todas as nações. Segurança, propriedade e liberdade são os três direitos naturaes e individuaes do cidadão; mas elles suppõem primeiro a sua existência e conservação, e para existirem e conservarem-se, é necessário manter-se a saúde pública ... e, por conseguinte prévia a todas as garantias, a primeira garantia, a conservação individual; prévio a todos os deveres dos Governos, o seu primeiro dever, a saúde pública.\n\nO ensino da saúde pública em Portugal tem estado ìntimamente ligado ao Instituto Central de Higiene, que, inaugurado em 1902, foi o décimo instituto de higiene a ser criado no mundo.\n\nCom os elementos postos à sua disposição, tem esse instituto, agora denominado «Instituto Superior de Higiene do Dr. Ricardo Jorge», assegurado a preparação de pessoal para as várias funções dos quadros dos serviços de saúde, dentro da medida das suas possibilidades. E muito fez.\n\nTodavia, os progressos da ciência e da técnica têm desde há muito mostrado as possibilidades de melhor preparação do pessoal dos serviços de saúde e, por esse motivo, vários médicos e pessoal técnico têm sido enviados aos Estados Unidos da América, Inglaterra, Canadá, Brasil, Chile e Porto Rico, por falta de uma escola de saúde pública de nível adequado, em Portugal.\n\nA complexidade dos problemas da saúde pública impõe, com efeito, o recrutamento de técnicos altamente especializados em variadas disciplinas e mostra a experiência que tal preparação só pode ser obtida numa escola de saúde pública devidamente estruturada e apetrechada.\n\n2. O ensino da medicina tropical em Portugal foi iniciado em 1887, na Escola Naval, onde eram ministrados dois cursos: um para médicos (Patologia Exótica) e outro para médicos e alunos da Escola Naval (Higiene Naval), constituindo desde então tais cursos cláusula obrigatória para o exercício da medicina naval e do ultramar.\n\nPortugal figura, assim, ao lado dos primeiros países a cuidar do ensino e da cultura da medicina tropical e, acompanhando o desenvolvimento que sucessivamente foi obtendo a nova ciência, foi o terceiro país a fundar um estabelecimento científico votado especialmente à medicina tropical: a Escola de Medicina Tropical, inaugurada em 1902 e transformada em Instituto de Medicina Tropical em 1935.\n\nTambém no campo da medicina e da higiene tropicais tem sido grande a evolução sofrida nestes últimos decénios, quer em relação aos próprios conceitos, quer em relação ao extraordinário aumento das necessidades e ao número e qualidade dos seus especialistas, em grande parte ligado às transformações políticas e sócio-económicas que se verificaram em larga escala, nos últimos anos, em grande parte das regiões tropicais.\n\nNão há dúvida que muitas das doenças hoje consideradas tropicais prevaleceram, não há muito, em várias regiões não tropicais. Atribui-se, em grande parte, o seu desaparecimento à melhoria do nível de vida das populações afectadas, sem excluir, evidentemente, que o fenómeno foi particularmente facilitado pelos progressos das ciências médicas.\n\nTodavia, se muitas dessas doenças se encontram agora confinadas geogràficamente às regiões tropicais, o facto não é devido, exclusivamente, às condições económicas e sociais que ainda ali se podem verificar em muitas zonas. Embora estas, sem dúvida, muito possam contribuir para tal, é fundamentalmente o determinismo climático, em toda uma série de aspectos respeitantes ao meio biológico, que exerce a sua influência, mais ou menos directa, na génese de muitos dos complexos patogénicos tropicais.\n\nNão há que duvidar, em princípio, que uma melhoria daquelas condições traga como consequência uma alteração fundamental imediata no panorama actual da medicina e da saúde pública tropicais.\n\nMas essa melhoria imediata, infelizmente, não está à vista, e durante muitos anos continuarão a ser enormes os problemas de saúde a resolver nessas regiões.\n\nA originalidade incontestável do meio tropical, e a grandeza dos problemas por ele condicionados, exige, por sua vez, uma alta qualificação técnica e científica dos indivíduos chamados a enfrentá-los.\n\nEm resultado, verifica-se nas escolas de medicina tropical da Europa um aumento extraordinário da frequência de alunos provenientes de países situados nas zonas tropicais.\n\nPor outro lado, em seguimento de recomendações feitas nas reuniões dos representantes das escolas europeias de medicina tropical, tem-se procurado ampliar a duração e o conteúdo dos cursos.\n\nAssim, as escolas de medicina tropical de Londres e de Liverpul alongaram os seus cursos especializados no campo da medicina e da saúde pública tropicais e o mesmo sucede em escolas de outros países.\n\nA escola de Londres (London School of Hygiene and Tropical Medicine), além do curso de Medicina e Higiene Tropicais, que dura cinco meses, criou dois cursos, um de Medicina Tropical e outro de Saúde Pública Tropical, cada um com a duração de nove meses.\n\nEste desenvolvimento está ligado em parte com o reconhecimento do aumento de doenças tropicais na Europa, devido à intensificação dos movimentos das populações.\n\n3. A análise das funções que devem competir a uma escola nacional de saúde pública e ao Instituto de Medicina Tropical demonstra que as atribuições das duas instituições se completam e, em parte, se sobrepõem, o que levou a encarar-se a criação da Escola Nacional de Saúde Pública, para constituir, juntamente com o Instituto de Medicina Tropical, a Escola Nacional de Saúde Pública e de Medicina Tropical.\n\nToma-se como exemplo, e dos melhores, a London School of Hygiene and Tropical Medicine e a realização de cursos sobre a promoção da saúde no Instituto de Medicina Tropical de Antuérpia e no Real Instituto das Regiões Tropicais de Amsterdão. É importante acentuar que nestes dois últimos Institutos se não realizam ainda cursos completos de saúde pública, pela falta de escola de saúde pública correspondente.\n\nEsta ligação já se prevê no parecer da Câmara Corporativa sobre o projecto de proposta de lei que àquela Câmara foi enviado pelo Governo para apreciação.\n\n4. A Escola Nacional de Saúde Pública e de Medicina Tropical fica na dependência dos Ministérios do Ultramar e da Saúde e Assistência, atendendo às circunstâncias ocorrentes e nomeadamente ao facto de essa Escola ter por objecto estudos que hoje são professados em estabelecimentos de ensino integrados naqueles Ministérios (Instituto Superior de Higiene do Dr. Ricardo Jorge, que de futuro se consagrará apenas a actividades investigadoras e laboratoriais, e Instituto de Medicina Tropical).\n\nMas prevê-se no articulado que a referida Escola virá a transitar para o Ministério da Educação Nacional quando assim se mostre conveniente e possível.\n\nA transição será estabelecida por decreto-lei, em termos que não afectem a eficiência das actividades investigadoras e laboratoriais de apoio à normal actuação dos Ministérios do Ultramar e da Saúde e Assistência.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "28d177ffc5229a24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais\n\nArtigo 1.º É extinto o Instituto de Medicina Tropical e criada em Lisboa e na dependência dos Ministérios do Ultramar e da Saúde e Assistência a Escola Nacional de Saúde Pública e de Medicina Tropical.\n\n§ 1.º A Escola abrange os ramos da saúde pública e da medicina tropical e tem funções de ensino, de investigação e de divulgação, além de outras que lhe forem cometidas em diplomas especiais.\n\n§ 2.º A divulgação de conhecimentos e o resultado de investigações realizadas pela Escola poderão ser feitos através de publicação periódica a cargo da mesma.\n\n§ 3.º A Escola funcionará nas instalações actualmente ocupadas pelo Instituto de Medicina Tropical, com as adaptações e ampliações que forem julgadas necessárias.\n\nArt. 2.º A Escola prestará às Universidades e aos Estudos Gerais Universitários colaboração nos termos que vierem a ser determinados; e trabalhará em cooperação com o Instituto Superior de Higiene do Dr. Ricardo Jorge, especialmente no que respeita a higiene e medicina social, no sentido do desenvolvimento do ensino da saúde pública e particularmente da medicina preventiva.\n\n§ 1.º A Escola poderá ainda solicitar dos estabelecimentos e serviços dependentes dos Ministérios do Ultramar e da Saúde e Assistência, ou de quaisquer outros serviços do Estado, a colaboração que for tida por conveniente para o exercício da sua missão.\n\n§ 2.º A colaboração a prestar pelo Instituto Superior de Higiene do Dr. Ricardo Jorge, nos sectores do ensino e da investigação, será definida em portaria do Ministro da Saúde e Assistência no prazo de 30 dias, a partir da entrada em vigor do presente diploma.\n\nArt. 3.º A Escola terá como anexos centros de saúde na metrópole e nas províncias de Angola e Moçambique.\n\n§ único. Enquanto não for possível à Escola dispor de centros de saúde privativos poderá, mediante despacho dos Ministros interessados, conforme os casos, utilizar instituições já existentes que se considerem adequadas àquele fim.\n\nArt. 4.º Para a realização dos seus fins poderá a Escola:\n\na) Promover inquéritos e realizar missões científicas;\n\nb) Incumbir técnicos nacionais ou estrangeiros de proceder a determinados estudos;\n\nc) Aceitar subsídios de entidades nacionais ou estrangeiras;\n\nd) Conceder bolsas de estudo, de acordo com planos gerais do Ministério do Ultramar e do Ministério da Saúde e Assistência e, sempre que necessário, em ligação com o Instituto de Alta Cultura;\n\ne) Instituir prémios pecuniários ou de outra natureza para estimular os estudos no campo da saúde pública e da medicina tropical;\n\nf) Promover a criação de centros de estudos e secções especializadas.\n\nArt. 5.º A Escola goza de personalidade jurídica e tem autonomia pedagógica, técnica e administrativa, sem prejuízo da orientação que for fixada pelos Ministros do Ultramar e da Saúde e Assistência no que respeita a cursos e programas e à coordenação das suas actividades com os demais serviços públicos."
+  },
+  "be7eacdc9c816361": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Dos cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Dos cursos\n\nArt. 6.º Os cursos e programas a organizar pela Escola Nacional de Saúde Pública e de Medicina Tropical dependem directamente das necessidades nacionais e serão instituídos progressivamente, na medida daquelas necessidades e das possibilidades do ensino da Escola.\n\n§ 1.º Os cursos a professar serão constituídos pelo conjunto de cadeiras ou disciplinas indicadas nos respectivos planos de estudo, elaborados pelo conselho escolar e aprovados pelos Ministros do Ultramar e da Saúde e Assistência.\n\n§ 2.º Em cada cadeira poderão ser ministradas uma ou mais disciplinas.\n\nArt. 7.º Os cursos podem ser ordinários ou eventuais.\n\n§ 1.º Os cursos ordinários destinam-se à formação dos profissionais que correspondam a necessidades permanentes dos serviços de saúde e assistência da metrópole e do ultramar.\n\n§ 2.º Os cursos eventuais poderão ser de especialização ou de aperfeiçoamento, consoante tenham por objectivo a preparação de categorias profissionais reconhecidas indispensáveis em determinada oportunidade ou o aperfeiçoamento do pessoal já diplomado.\n\nArt. 8.º São desde já criados os seguintes cursos:\n\na) Curso de Saúde Pública;\n\nb) Curso de Medicina do Trabalho;\n\nc) Curso de Medicina Tropical;\n\nd) Curso elementar de Higiene Tropical.\n\n§ 1.º No ramo da saúde pública haverá pelo menos as seguintes cadeiras:\n\nTécnica e Administração de Saúde Pública;\n\nEpidemiologia;\n\nBioestatística Aplicada à Saúde Pública;\n\nSaneamento;\n\nBacteriologia Sanitária;\n\nNutrição e Higiene da Alimentação;\n\nHigiene e Medicina do Trabalho;\n\nHigiene Maternal e Infantil;\n\nSaúde Mental;\n\nAdministração Hospitalar.\n\n§ 2.º No ramo da medicina tropical haverá pelo menos as seguintes cadeiras:\n\nSaúde Pública das Regiões Tropicais;\n\nPatologia e Clínica Tropicais;\n\nEntomologia e Helmintologia;\n\nHematologia e Protozologia;\n\nDermatologia e Micologia;\n\nBacteriologia e Virologia;\n\nEpidemiologia Tropical.\n\nArt. 9.º A Escola conferirá diplomas ou certificados aos alunos que completem os seus cursos, os quais habilitam para o exercício de cargos ou actividades na metrópole e no ultramar, nos termos da legislação em vigor.\n\n§ 1.º O curso de Saúde Pública constitui ainda condição de preferência para os cargos de médico das Casas do Povo e das Casas dos Pescadores.\n\n§ 2.º Os médicos diplomados com o curso de Medicina Sanitária, assim como os diplomados com o curso de Medicina Tropical, continuam com o direito de acesso aos lugares referidos neste artigo.\n\nCAPITULO III\n\nDa direcção, do conselho escolar e do conselho administrativo\n\nArt. 10.º A direcção da Escola será constituída por um director, que assegurará a coordenação das actividades e a realização dos fins da instituição, e por dois subdirectores, respectivamente para os ramos da saúde pública e da medicina tropical.\n\n§ 1.º O director da Escola será vogal nato do Conselho Superior de Saúde e Assistência e dos demais organismos em que, nos termos da lei, tiver assento.\n\n§ 2.º O director e os subdirectores regerão cadeiras ou disciplinas na própria Escola, conforme a sua especialização.\n\n§ 3.º O director será substituído, nas suas faltas ou impedimentos, pelo subdirector mais antigo nessa qualidade e, tendo ambos a mesma antiguidade, pelo mais velho.\n\nArt. 11.º O director será nomeado por despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência, por um período de três anos, renovável por uma só vez.\n\nArt. 12.º A nomeação dos subdirectores obedecerá às seguintes regras:\n\n1.º O subdirector para o ramo da saúde pública será um professor ordinário da Escola, escolhido pelo Ministro da Saúde e Assistência. A nomeação será feita pelo período de três anos, renovável por uma só vez.\n\n2.º O subdirector para o ramo da medicina tropical será um professor ordinário da Escola, escolhido pelo Ministro do Ultramar. A nomeação será, do mesmo modo, feita por um período de três anos, renovável por uma só vez.\n\nArt. 13.º Haverá um conselho escolar, presidido pelo director e constituído por duas secções correspondentes aos dois ramos que compõem a Escola.\n\n§ 1.º A secção do conselho respeitante ao ramo da saúde pública será constituída pelo director da Escola, que presidirá, pelo subdirector respectivo, pelos professores ordinários desse mesmo ramo e pelo director do Instituto Superior de Higiene do Dr. Ricardo Jorge. Por convocação do director poderão assistir às reuniões desta secção do conselho escolar, com voto consultivo, professores auxiliares.\n\n§ 2.º A secção do conselho respeitante ao ramo da medicina tropical será constituída pelo director da Escola, que presidirá, pelo subdirector e pelos professores ordinários do respectivo ramo, observando-se o disposto na parte final do parágrafo anterior.\n\n§ 3.º O conselho poderá funcionar em plenário ou, separadamente, por secções, desde que cada uma se proponha tratar apenas de assuntos exclusivamente respeitantes ao seu ramo.\n\nArt. 14.º Compete ao conselho escolar, além de outras funções que lhe sejam atribuídas no regulamento da Escola:\n\n1.º Propor a criação de novos cursos, de novas cadeiras ou de novas disciplinas ou a alteração do quadro das já existentes;\n\n2.º Propor a admissão de professores de nacionalidade estrangeira e a de professores eventuais, em qualquer caso a realizar mediante contrato;\n\n3.º Propor a nomeação, para professores ordinários ou auxiliares, de indivíduos cujo curriculum revele excepcional competência para o desempenho do lugar a prover;\n\n4.º Dar parecer sobre a acumulação de funções do pessoal docente com outras actividades que este desempenhe;\n\n5.º Convidar individualidades de reconhecida competência para a realização de prelecções ou conferências sobre matérias da sua especialidade;\n\n6.º Designar um conselho de redacção para apreciar os estudos ou outros trabalhos a publicar de conta da Escola.\n\n§ único. A proposta a que se refere o n.º 3.º carece de voto favorável de pelo menos dois terços do número de membros do conselho.\n\nArt. 15.º A administração da Escola será exercida por um conselho administrativo, presidido pelo director e constituído pelos subdirectores, por um professor designado pelo conselho escolar e pelo chefe dos serviços administrativos.\n\n§ 1.º Os encargos com a Escola serão suportados, além de outras verbas que constituam o seu orçamento das receitas:\n\na) Pelas comparticipações que forem inscritas nos orçamentos gerais das províncias ultramarinas;\n\nb) Pela comparticipação que for inscrita no orçamento do Ministério da Saúde e Assistência.\n\n§ 2.º O conselho administrativo da Escola prestará contas na forma da lei."
+  },
+  "42a36926ca641fdf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do pessoal\n\nArt. 16.º A Escola terá o pessoal e vencimentos constantes do quadro anexo a este diploma e que dele faz parte integrante.\n\n§ único. O director e os subdirectores da Escola receberão, pelo exercício de tais funções, as gratificações previstas no mesmo quadro anexo.\n\nArt. 17.º O pessoal docente poderá ser permanente ou temporário. São permanentes os lugares de professores ordinários, de professores auxiliares e de primeiros-assistentes. São temporários os lugares de professores chamados a título eventual e os de segundos-assistentes.\n\n§ 1.º Por proposta do conselho escolar, aprovada por despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência, poderão ser contratados, além do quadro, professores de nacionalidade estrangeira por períodos renováveis não superiores a três anos. O director da Escola outorgará no contrato em nome do Estado.\n\n§ 2.º Os professores chamados a título eventual serão admitidos por proposta do conselho escolar àqueles Ministros, para regerem matérias de interesse nos vários cursos ministrados na Escola Nacional de Saúde Pública e de Medicina Tropical.\n\nArt. 18.º O recrutamento do pessoal docente de carácter permanente será feito por concurso de provas públicas, nos termos de regulamento a publicar.\n\n§ 1.º Os júris serão constituídos pelo director da Escola, que presidirá, e pelos professores ordinários do ramo respectivo.\n\n§ 2.º Os professores auxiliares podem fazer parte dos júris dos concursos para primeiros-assistentes.\n\n§ 3.º Quando assim lhe seja solicitado pelos Ministros do Ultramar e da Saúde e Assistência, poderá o Ministério da Educação Nacional designar, para fazerem parte dos júris, professores das Faculdades de Medicina ou de outras Faculdades ou escolas do ensino superior, conforme a natureza do lugar a prover.\n\nArt. 19.º - 1. Os professores ordinários e auxiliares do ramo da saúde pública poderão ocupar, em regime de acumulação, lugares equiparáveis no Instituto Superior de Higiene do Dr. Ricardo Jorge, com dispensa de novos concursos, mediante simples despacho do Ministro da Saúde e Assistência.\n\n2. Nos casos referidos neste artigo, os vencimentos do lugar exercido em acumulação serão substituídos por uma gratificação a estabelecer em despacho dos Ministros das Finanças e da Saúde e Assistência, podendo as verbas excedentárias do pessoal do Instituto Superior de Higiene do Dr. Ricardo Jorge ser afectadas à cobertura das despesas com pessoal da Escola, na ramo da saúde pública.\n\nArt. 20.º Fora do caso previsto no artigo anterior, quando houver vantagem para o ensino, podem os Ministros do Ultramar e da Saúde e Assistência, ouvido o conselho escolar, propor ao Conselho de Ministros que o pessoal docente de carácter permanente acumule as suas funções com as que exerça em qualquer outro estabelecimento ou serviço. Nesta hipótese, o referido pessoal será remunerado por meio de gratificação de regência fixada na lei.\n\nArt. 21.º O regime de provimento do pessoal do quadro técnico, do quadro técnico auxiliar, do quadro de secretaria e do quadro dos serviços gerais constará do regulamento da Escola. O pessoal do quadro de secretaria do Ministério do Ultramar que transitar para o novo quadro da Escola continuará a pertencer ao mesmo quadro de secretaria."
+  },
+  "a6dfa27f53075dfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias\n\nArt. 22.º A Escola Nacional de Saúde Pública e Medicina Tropical transitará para o Ministério da Educação Nacional quando venha a mostrar-se conveniente e possível.\n\n§ único. A transição será determinada por decreto-lei, em termos que não afectem a eficiência das actividades investigadoras e laboratoriais de apoio à normal actuação dos Ministérios do Ultramar e da Saúde e Assistência.\n\nArt. 23.º Os primeiros provimentos de pessoal depois da entrada em vigor do presente diploma obedecerão às seguintes regras:\n\n1.º O primeiro director da Escola será nomeado por despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência de entre os diplomados em Medicina de reconhecido mérito e capacidade para o exercício das funções e servirá por um período de cinco anos;\n\n2.º Os primeiros subdirectores serão nomeados nos termos do número anterior;\n\n3.º O pessoal docente do actual curso de Medicina Sanitária que o requerer dentro do prazo de 30 dias, a contar da data da publicação do presente diploma, poderá ingressar nos lugares constantes do mapa anexo referente ao ramo da saúde pública por despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência, sem outras formalidades além da sua publicação. A apreciação do mérito dos professores a que se refere a presente regra, para ingresso no novo quadro, será feita perante o respectivo curriculum por um júri constituído pelo director da Escola, que presidirá, pelo subdirector do ramo respectivo, pelo director do Instituto Superior de Higiene do Dr. Ricardo Jorge e, se for julgado conveniente, por um ou mais técnicos indicados pela Organização Mundial de Saúde, especialmente versados na matéria de que se trata. Ao referido júri é extensivo o disposto no § 3.º do artigo 18.º;\n\n4.º Todo o pessoal, quer docente, quer administrativo, técnico, auxiliar e menor, do Instituto de Medicina Tropical, transitará, nas suas actuais categorias, para os lugares constantes do mapa anexo mediante despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência, sem outras formalidades além da sua publicação;\n\n5.º Enquanto não estiver constituído o conselho escolar, os professores de nacionalidade estrangeira que se julgue necessário admitir serão propostos pelo director da Escola;\n\n6. Os lugares de professor que ficarem vagos depois do movimento a que se referem as regras anteriores serão preenchidos nos termos do artigo 18.º Enquanto não puder funcionar o júri a que se refere o § 1.º do mesmo artigo, o júri para estes concursos será constituído pela forma prevista na segunda parte da regra 3.ª\n\nArt. 24.º Todo o pessoal que transita do actual curso de Medicina Sanitária para o novo quadro, e bem assim o que, posteriormente, vier a ser admitido no ramo da saúde pública da Escola, descontará quotas para a Caixa Geral de Aposentações; todo o pessoal que transitar do Instituto de Medicina Tropical, e bem assim o que vier a ser admitido no ramo respectivo e nos quadros administrativo, técnico, auxiliar e do pessoal menor, descontará quotas para «Depósito c/ ultramar - Compensação de aposentação».\n\nArt. 25.º O regulamento da Escola revestirá a forma de decreto expedido pelos Ministérios do Ultramar e da Saúde e Assistência, fixará a data em que serão extintos os cursos actualmente professados no Instituto de Medicina Tropical e os de Medicina Sanitária professados na sede e na delegação do Porto do Instituto Superior de Higiene do Dr. Ricardo Jorge e regulará as competências quanto ao despacho dos assuntos administrativos correntes.\n\nArt. 26.º Durante o período de dois anos, o pessoal administrativo, técnico e dos serviços gerais actualmente ao serviço do Instituto de Medicina Tropical continuará a ser pago pela verba a que se refere a alínea a) do § 1.º do artigo 15.º\n\nArt. 27.º O presente diploma entra em vigor no dia 1 de Janeiro de 1967, sem prejuízo de, entretanto, se poderem realizar, através do Instituto de Medicina Tropical ou do Instituto Superior de Higiene do Dr. Ricardo Jorge, as diligências necessárias ao provimento dos quadros, nomeadamente as que se referem na regra 3.ª do artigo 23.º, e de se publicar o regulamento da Escola, nos termos do artigo 25.º\n\nArt. 28.º As dúvidas que surgirem na interpretação e aplicação do presente diploma serão reguladas por despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 16 de Julho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.\n\nMapa do pessoal da Escola Nacional de Saúde Pública e de Medicina Tropical\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/16400/12681273.pdf)\n\nMinistérios do Ultramar e da Saúde e Assistência, 16 de Julho de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho."
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "134be3e4c0f1233b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ extinto o Instituto de Medicina Tropical e criada em Lisboa e na dependência dos Ministérios do Ultramar e da Saúde e Assistência a Escola Nacional de Saúde Pública e de Medicina Tropical.\n\n§ 1.º A Escola abrange os ramos da saúde pública e da medicina tropical e tem funções de ensino, de investigação e de divulgação, além de outras que lhe forem cometidas em diplomas especiais.\n\n§ 2.º A divulgação de conhecimentos e o resultado de investigações realizadas pela Escola poderão ser feitos através de publicação periódica a cargo da mesma.\n\n§ 3.º A Escola funcionará nas instalações actualmente ocupadas pelo Instituto de Medicina Tropical, com as adaptações e ampliações que forem julgadas necessárias."
+  },
+  "36a56b24a4dca6cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Escola prestará às Universidades e aos Estudos Gerais Universitários colaboração nos termos que vierem a ser determinados; e trabalhará em cooperação com o Instituto Superior de Higiene do Dr. Ricardo Jorge, especialmente no que respeita a higiene e medicina social, no sentido do desenvolvimento do ensino da saúde pública e particularmente da medicina preventiva.\n\n§ 1.º A Escola poderá ainda solicitar dos estabelecimentos e serviços dependentes dos Ministérios do Ultramar e da Saúde e Assistência, ou de quaisquer outros serviços do Estado, a colaboração que for tida por conveniente para o exercício da sua missão.\n\n§ 2.º A colaboração a prestar pelo Instituto Superior de Higiene do Dr. Ricardo Jorge, nos sectores do ensino e da investigação, será definida em portaria do Ministro da Saúde e Assistência no prazo de 30 dias, a partir da entrada em vigor do presente diploma."
+  },
+  "7fa8ef0a2a52c535": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Escola terá como anexos centros de saúde na metrópole e nas províncias de Angola e Moçambique.\n\n§ único. Enquanto não for possível à Escola dispor de centros de saúde privativos poderá, mediante despacho dos Ministros interessados, conforme os casos, utilizar instituições já existentes que se considerem adequadas àquele fim."
+  },
+  "15687de5323821a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPara a realização dos seus fins poderá a Escola:\n\na) Promover inquéritos e realizar missões científicas;\n\nb) Incumbir técnicos nacionais ou estrangeiros de proceder a determinados estudos;\n\nc) Aceitar subsídios de entidades nacionais ou estrangeiras;\n\nd) Conceder bolsas de estudo, de acordo com planos gerais do Ministério do Ultramar e do Ministério da Saúde e Assistência e, sempre que necessário, em ligação com o Instituto de Alta Cultura;\n\ne) Instituir prémios pecuniários ou de outra natureza para estimular os estudos no campo da saúde pública e da medicina tropical;\n\nf) Promover a criação de centros de estudos e secções especializadas."
+  },
+  "66deb10fac34e182": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA Escola goza de personalidade jurídica e tem autonomia pedagógica, técnica e administrativa, sem prejuízo da orientação que for fixada pelos Ministros do Ultramar e da Saúde e Assistência no que respeita a cursos e programas e à coordenação das suas actividades com os demais serviços públicos."
+  },
+  "8ca086b6baad4ff4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Dos cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Dos cursos"
+  },
+  "fc6a709ea06f6346": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs cursos e programas a organizar pela Escola Nacional de Saúde Pública e de Medicina Tropical dependem directamente das necessidades nacionais e serão instituídos progressivamente, na medida daquelas necessidades e das possibilidades do ensino da Escola.\n\n§ 1.º Os cursos a professar serão constituídos pelo conjunto de cadeiras ou disciplinas indicadas nos respectivos planos de estudo, elaborados pelo conselho escolar e aprovados pelos Ministros do Ultramar e da Saúde e Assistência.\n\n§ 2.º Em cada cadeira poderão ser ministradas uma ou mais disciplinas."
+  },
+  "cc7dffb0161c755b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs cursos podem ser ordinários ou eventuais.\n\n§ 1.º Os cursos ordinários destinam-se à formação dos profissionais que correspondam a necessidades permanentes dos serviços de saúde e assistência da metrópole e do ultramar.\n\n§ 2.º Os cursos eventuais poderão ser de especialização ou de aperfeiçoamento, consoante tenham por objectivo a preparação de categorias profissionais reconhecidas indispensáveis em determinada oportunidade ou o aperfeiçoamento do pessoal já diplomado."
+  },
+  "286aeeefc20b3654": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSão desde já criados os seguintes cursos:\n\na) Curso de Saúde Pública;\n\nb) Curso de Medicina do Trabalho;\n\nc) Curso de Medicina Tropical;\n\nd) Curso elementar de Higiene Tropical.\n\n§ 1.º No ramo da saúde pública haverá pelo menos as seguintes cadeiras:\n\nTécnica e Administração de Saúde Pública;\n\nEpidemiologia;\n\nBioestatística Aplicada à Saúde Pública;\n\nSaneamento;\n\nBacteriologia Sanitária;\n\nNutrição e Higiene da Alimentação;\n\nHigiene e Medicina do Trabalho;\n\nHigiene Maternal e Infantil;\n\nSaúde Mental;\n\nAdministração Hospitalar.\n\n§ 2.º No ramo da medicina tropical haverá pelo menos as seguintes cadeiras:\n\nSaúde Pública das Regiões Tropicais;\n\nPatologia e Clínica Tropicais;\n\nEntomologia e Helmintologia;\n\nHematologia e Protozologia;\n\nDermatologia e Micologia;\n\nBacteriologia e Virologia;\n\nEpidemiologia Tropical."
+  },
+  "bee43a323bfa2704": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA Escola conferirá diplomas ou certificados aos alunos que completem os seus cursos, os quais habilitam para o exercício de cargos ou actividades na metrópole e no ultramar, nos termos da legislação em vigor.\n\n§ 1.º O curso de Saúde Pública constitui ainda condição de preferência para os cargos de médico das Casas do Povo e das Casas dos Pescadores.\n\n§ 2.º Os médicos diplomados com o curso de Medicina Sanitária, assim como os diplomados com o curso de Medicina Tropical, continuam com o direito de acesso aos lugares referidos neste artigo.\n\nCAPITULO III\n\nDa direcção, do conselho escolar e do conselho administrativo"
+  },
+  "1248eb75ae1eff4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA direcção da Escola será constituída por um director, que assegurará a coordenação das actividades e a realização dos fins da instituição, e por dois subdirectores, respectivamente para os ramos da saúde pública e da medicina tropical.\n\n§ 1.º O director da Escola será vogal nato do Conselho Superior de Saúde e Assistência e dos demais organismos em que, nos termos da lei, tiver assento.\n\n§ 2.º O director e os subdirectores regerão cadeiras ou disciplinas na própria Escola, conforme a sua especialização.\n\n§ 3.º O director será substituído, nas suas faltas ou impedimentos, pelo subdirector mais antigo nessa qualidade e, tendo ambos a mesma antiguidade, pelo mais velho."
+  },
+  "341007a71497282a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO director será nomeado por despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência, por um período de três anos, renovável por uma só vez."
+  },
+  "8e601dc19ae1aa57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA nomeação dos subdirectores obedecerá às seguintes regras:\n\n1.º O subdirector para o ramo da saúde pública será um professor ordinário da Escola, escolhido pelo Ministro da Saúde e Assistência. A nomeação será feita pelo período de três anos, renovável por uma só vez.\n\n2.º O subdirector para o ramo da medicina tropical será um professor ordinário da Escola, escolhido pelo Ministro do Ultramar. A nomeação será, do mesmo modo, feita por um período de três anos, renovável por uma só vez."
+  },
+  "3f0578ace5a7064b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nHaverá um conselho escolar, presidido pelo director e constituído por duas secções correspondentes aos dois ramos que compõem a Escola.\n\n§ 1.º A secção do conselho respeitante ao ramo da saúde pública será constituída pelo director da Escola, que presidirá, pelo subdirector respectivo, pelos professores ordinários desse mesmo ramo e pelo director do Instituto Superior de Higiene do Dr. Ricardo Jorge. Por convocação do director poderão assistir às reuniões desta secção do conselho escolar, com voto consultivo, professores auxiliares.\n\n§ 2.º A secção do conselho respeitante ao ramo da medicina tropical será constituída pelo director da Escola, que presidirá, pelo subdirector e pelos professores ordinários do respectivo ramo, observando-se o disposto na parte final do parágrafo anterior.\n\n§ 3.º O conselho poderá funcionar em plenário ou, separadamente, por secções, desde que cada uma se proponha tratar apenas de assuntos exclusivamente respeitantes ao seu ramo."
+  },
+  "05996427b10d3a2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nCompete ao conselho escolar, além de outras funções que lhe sejam atribuídas no regulamento da Escola:\n\n1.º Propor a criação de novos cursos, de novas cadeiras ou de novas disciplinas ou a alteração do quadro das já existentes;\n\n2.º Propor a admissão de professores de nacionalidade estrangeira e a de professores eventuais, em qualquer caso a realizar mediante contrato;\n\n3.º Propor a nomeação, para professores ordinários ou auxiliares, de indivíduos cujo curriculum revele excepcional competência para o desempenho do lugar a prover;\n\n4.º Dar parecer sobre a acumulação de funções do pessoal docente com outras actividades que este desempenhe;\n\n5.º Convidar individualidades de reconhecida competência para a realização de prelecções ou conferências sobre matérias da sua especialidade;\n\n6.º Designar um conselho de redacção para apreciar os estudos ou outros trabalhos a publicar de conta da Escola.\n\n§ único. A proposta a que se refere o n.º 3.º carece de voto favorável de pelo menos dois terços do número de membros do conselho."
+  },
+  "daf7897ea75ce410": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA administração da Escola será exercida por um conselho administrativo, presidido pelo director e constituído pelos subdirectores, por um professor designado pelo conselho escolar e pelo chefe dos serviços administrativos.\n\n§ 1.º Os encargos com a Escola serão suportados, além de outras verbas que constituam o seu orçamento das receitas:\n\na) Pelas comparticipações que forem inscritas nos orçamentos gerais das províncias ultramarinas;\n\nb) Pela comparticipação que for inscrita no orçamento do Ministério da Saúde e Assistência.\n\n§ 2.º O conselho administrativo da Escola prestará contas na forma da lei."
+  },
+  "b082a0cc46293e86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do pessoal"
+  },
+  "c0f0f5ac3536daf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA Escola terá o pessoal e vencimentos constantes do quadro anexo a este diploma e que dele faz parte integrante.\n\n§ único. O director e os subdirectores da Escola receberão, pelo exercício de tais funções, as gratificações previstas no mesmo quadro anexo."
+  },
+  "50fbdb62c2d9ab30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO pessoal docente poderá ser permanente ou temporário. São permanentes os lugares de professores ordinários, de professores auxiliares e de primeiros-assistentes. São temporários os lugares de professores chamados a título eventual e os de segundos-assistentes.\n\n§ 1.º Por proposta do conselho escolar, aprovada por despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência, poderão ser contratados, além do quadro, professores de nacionalidade estrangeira por períodos renováveis não superiores a três anos. O director da Escola outorgará no contrato em nome do Estado.\n\n§ 2.º Os professores chamados a título eventual serão admitidos por proposta do conselho escolar àqueles Ministros, para regerem matérias de interesse nos vários cursos ministrados na Escola Nacional de Saúde Pública e de Medicina Tropical."
+  },
+  "164fbf5867afb293": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO recrutamento do pessoal docente de carácter permanente será feito por concurso de provas públicas, nos termos de regulamento a publicar.\n\n§ 1.º Os júris serão constituídos pelo director da Escola, que presidirá, e pelos professores ordinários do ramo respectivo.\n\n§ 2.º Os professores auxiliares podem fazer parte dos júris dos concursos para primeiros-assistentes.\n\n§ 3.º Quando assim lhe seja solicitado pelos Ministros do Ultramar e da Saúde e Assistência, poderá o Ministério da Educação Nacional designar, para fazerem parte dos júris, professores das Faculdades de Medicina ou de outras Faculdades ou escolas do ensino superior, conforme a natureza do lugar a prover."
+  },
+  "8c96a94bb6e2a80d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Os professores ordinários e auxiliares do ramo da saúde pública poderão ocupar, em regime de acumulação, lugares equiparáveis no Instituto Superior de Higiene do Dr. Ricardo Jorge, com dispensa de novos concursos, mediante simples despacho do Ministro da Saúde e Assistência.\n\n2. Nos casos referidos neste artigo, os vencimentos do lugar exercido em acumulação serão substituídos por uma gratificação a estabelecer em despacho dos Ministros das Finanças e da Saúde e Assistência, podendo as verbas excedentárias do pessoal do Instituto Superior de Higiene do Dr. Ricardo Jorge ser afectadas à cobertura das despesas com pessoal da Escola, na ramo da saúde pública."
+  },
+  "41ddbeddd2f063ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nFora do caso previsto no artigo anterior, quando houver vantagem para o ensino, podem os Ministros do Ultramar e da Saúde e Assistência, ouvido o conselho escolar, propor ao Conselho de Ministros que o pessoal docente de carácter permanente acumule as suas funções com as que exerça em qualquer outro estabelecimento ou serviço. Nesta hipótese, o referido pessoal será remunerado por meio de gratificação de regência fixada na lei."
+  },
+  "35fe0cf4044cb685": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO regime de provimento do pessoal do quadro técnico, do quadro técnico auxiliar, do quadro de secretaria e do quadro dos serviços gerais constará do regulamento da Escola. O pessoal do quadro de secretaria do Ministério do Ultramar que transitar para o novo quadro da Escola continuará a pertencer ao mesmo quadro de secretaria."
+  },
+  "260a9f4ecd4b5740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias"
+  },
+  "d70b4b552db0a304": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nA Escola Nacional de Saúde Pública e Medicina Tropical transitará para o Ministério da Educação Nacional quando venha a mostrar-se conveniente e possível.\n\n§ único. A transição será determinada por decreto-lei, em termos que não afectem a eficiência das actividades investigadoras e laboratoriais de apoio à normal actuação dos Ministérios do Ultramar e da Saúde e Assistência."
+  },
+  "65bb5f46cb5e89e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": "1967-06-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47755](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47755-1967-312043), publicado em 1967-06-14."
+   ],
+   "markdown": "###### Artigo 23.º\n\nOs primeiros provimentos de pessoal depois da entrada em vigor do presente diploma obedecerão às seguintes regras:\n\n1.º O primeiro director da Escola será nomeado por despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência de entre os diplomados em Medicina de reconhecido mérito e capacidade para o exercício das funções e servirá por um período de cinco anos;\n\n2.º Os primeiros subdirectores serão nomeados nos termos do número anterior;\n\n3.ª O pessoal docente do actual curso de Medicina Sanitária que o requerer até 30 de Junho de 1967 poderá ingressar nos lugares constantes do mapa anexo referente ao ramo da saúde pública por despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência, sem outras formalidades além da sua publicação. A apreciação do mérito dos professores a que se refere a presente regra, para ingresso no novo quadro, será feita perante o respectivo curriculum por um júri constituído pelo director da escola, que presidirá, pelo subdirector do ramo respectivo, pelo director do Instituto Superior de Higiene do Dr. Ricardo Jorge e, se for julgado conveniente, por um ou mais dos professores a que se refere o § 1.º do artigo 17.º e regra 5.ª deste artigo. Ao referido júri é extensivo o disposto no § 3.º do artigo 18.º;\n\n4.º Todo o pessoal, quer docente, quer administrativo, técnico, auxiliar e menor, do Instituto de Medicina Tropical, transitará, nas suas actuais categorias, para os lugares constantes do mapa anexo mediante despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência, sem outras formalidades além da sua publicação;\n\n5.º Enquanto não estiver constituído o conselho escolar, os professores de nacionalidade estrangeira que se julgue necessário admitir serão propostos pelo director da Escola;\n\n6. Os lugares de professor que ficarem vagos depois do movimento a que se referem as regras anteriores serão preenchidos nos termos do artigo 18.º Enquanto não puder funcionar o júri a que se refere o § 1.º do mesmo artigo, o júri para estes concursos será constituído pela forma prevista na segunda parte da regra 3.ª\n\n> Alterado pelo/a [Decreto-Lei n.º 47755](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47755-1967-312043), publicado em 1967-06-14."
+  },
+  "645f52be1605442d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nTodo o pessoal que transita do actual curso de Medicina Sanitária para o novo quadro, e bem assim o que, posteriormente, vier a ser admitido no ramo da saúde pública da Escola, descontará quotas para a Caixa Geral de Aposentações; todo o pessoal que transitar do Instituto de Medicina Tropical, e bem assim o que vier a ser admitido no ramo respectivo e nos quadros administrativo, técnico, auxiliar e do pessoal menor, descontará quotas para «Depósito c/ ultramar - Compensação de aposentação»."
+  },
+  "9616f5fe866fc145": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nO regulamento da Escola revestirá a forma de decreto expedido pelos Ministérios do Ultramar e da Saúde e Assistência, fixará a data em que serão extintos os cursos actualmente professados no Instituto de Medicina Tropical e os de Medicina Sanitária professados na sede e na delegação do Porto do Instituto Superior de Higiene do Dr. Ricardo Jorge e regulará as competências quanto ao despacho dos assuntos administrativos correntes."
+  },
+  "f6aeccffe6f867eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nDurante o período de dois anos, o pessoal administrativo, técnico e dos serviços gerais actualmente ao serviço do Instituto de Medicina Tropical continuará a ser pago pela verba a que se refere a alínea a) do § 1.º do artigo 15.º"
+  },
+  "5616423e85cbf63f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 1967, sem prejuízo de, entretanto, se poderem realizar, através do Instituto de Medicina Tropical ou do Instituto Superior de Higiene do Dr. Ricardo Jorge, as diligências necessárias ao provimento dos quadros, nomeadamente as que se referem na regra 3.ª do artigo 23.º, e de se publicar o regulamento da Escola, nos termos do artigo 25.º"
+  },
+  "8f25a552d099ddb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nAs dúvidas que surgirem na interpretação e aplicação do presente diploma serão reguladas por despacho conjunto dos Ministros do Ultramar e da Saúde e Assistência.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 16 de Julho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.\n\nMapa do pessoal da Escola Nacional de Saúde Pública e de Medicina Tropical\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/16400/12681273.pdf)\n\nMinistérios do Ultramar e da Saúde e Assistência, 16 de Julho de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho."
+  }
+ }
+}

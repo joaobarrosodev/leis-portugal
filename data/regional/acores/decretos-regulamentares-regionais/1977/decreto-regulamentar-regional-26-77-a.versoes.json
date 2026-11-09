@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:285946:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-09-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "94d0f3136c2ae873"
+   ]
+  },
+  {
+   "date": "1979-02-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:393181:por",
+     "title": "Decreto Regulamentar Regional n.º 3/A/79",
+     "published": "1979-02-07",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/3-1979-393181"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "a65a4e5285e08d40",
+    "c55c6d9673a14028",
+    "9c8acddfd0749962",
+    "06280f0a990aaa40"
+   ]
+  }
+ ],
+ "fragments": {
+  "94d0f3136c2ae873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Torna-se indispensável esclarecer, por via regulamentar, algumas dúvidas suscitadas, em matéria processual, pela aplicação do Decreto Regional n.º 11/77.\n\nAssim:\n\nEm execução do Decreto Regional n.º 11/77, de 20 de Maio:\n\nO Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:\n\nArtigo 1.º Todas as questões emergentes da aplicação da Lei do Arrendamento Rural da Região Autónoma dos Açores, nomeadamente as que dizem respeito ao despejo dos prédios, direitos de preferência, oposição às denúncias, fixação e alteração de rendas e demais questões, serão julgadas no tribunal da comarca da localização dos prédios.\n\nArt. 2.º - 1. Sempre que surjam dúvidas sobre o procedimento e os trâmites processuais a seguir em qualquer questão relacionada com o arrendamento rural na Região Autónoma dos Açores, aplicam-se os princípios gerais do direito processual civil.\n\n2. O processo aplicável ao despejo será o previsto nos artigos 964.º e seguintes do Código de Processo Civil.\n\n3. Todas as demais questões seguem os termos do processo declarativo comum.\n\nArt. 3.º Os processos pendentes nas comissões arbitrais a que se refere o [Decreto-Lei n.º 201/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1975-162082), de 15 de Abril, no âmbito da aplicação do Decreto Regional n.º 11/77, de 20 de Maio, e que ainda não tenham sido julgados em 1.ª instância, transitarão para os tribunais comuns.\n\nAprovado em Plenário do Governo Regional em 9 de Agosto de 1977. - O Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Ponta Delgada em 27 de Junho de 1977.\n\nPublique-se.\n\nO Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general."
+  },
+  "a65a4e5285e08d40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Torna-se indispensável esclarecer, por via regulamentar, algumas dúvidas suscitadas, em matéria processual, pela aplicação do Decreto Regional n.º 11/77.\n\nAssim:\n\nEm execução do Decreto Regional n.º 11/77, de 20 de Maio:\n\nO Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:"
+  },
+  "c55c6d9673a14028": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nTodas as questões emergentes da aplicação da Lei do Arrendamento Rural da Região Autónoma dos Açores, nomeadamente as que dizem respeito ao despejo dos prédios, direitos de preferência, oposição às denúncias, fixação e alteração de rendas e demais questões, serão julgadas no tribunal da comarca da localização dos prédios."
+  },
+  "9c8acddfd0749962": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1979-02-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 3/A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1979-393181), publicado em 1979-02-07."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. Sempre que surjam dúvidas sobre o procedimento e os trâmites processuais a seguir em qualquer questão relacionada com o arrendamento rural na Região Autónoma dos Açores, aplicam-se os princípios gerais do direito processual civil.\n\n2. O processo aplicável ao despejo será o previsto nos artigos 964.º e seguintes do Código de Processo Civil; o processo aplicável à fixação e alteração de rendas será o previsto nos artigos 1052.º e seguintes do mesmo diploma.\n\n3. Todas as demais questões seguem os termos do processo declarativo comum.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 3/A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1979-393181), publicado em 1979-02-07."
+  },
+  "06280f0a990aaa40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs processos pendentes nas comissões arbitrais a que se refere o [Decreto-Lei n.º 201/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1975-162082), de 15 de Abril, no âmbito da aplicação do Decreto Regional n.º 11/77, de 20 de Maio, e que ainda não tenham sido julgados em 1.ª instância, transitarão para os tribunais comuns.\n\nAprovado em Plenário do Governo Regional em 9 de Agosto de 1977. - O Presidente do Governo Regional, João Bosco Mota Amaral.\n\nAssinado em Ponta Delgada em 27 de Junho de 1977.\n\nPublique-se.\n\nO Ministro da República, Octávio de Carvalho Galvão de Figueiredo, general."
+  }
+ }
+}

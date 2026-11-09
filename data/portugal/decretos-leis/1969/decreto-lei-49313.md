@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-11-08'
+version_history:
+  file: decreto-lei-49313.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-10-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-11-08'
+    amending: pt:dre:421834:por
+    amending_title: Decreto-Lei n.º 372/73; Decreto-Lei n.º 324/78
+    changes:
+    - Altera Artigo 2.º
+    - Revoga Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:11:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 372/73; Decreto-Lei
+    n.º 324/78. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1969/decreto-lei-49313.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -132,17 +148,31 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Os servidores das autarquias locais em qualquer das situações a que se refere o artigo 3.º do regulamento aprovado pelo [Decreto n.º 45688](https://diariodarepublica.pt/dr/detalhe/decreto/45688-1964-582660), de 27 de Abril de 1964, passam a beneficiar da assistência na doença nos mesmos termos que os servidores civis do Estado, considerando-se-lhes aplicáveis todas as disposições daquele diploma, bem como do [Decreto-Lei n.º 45002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45002-1963-628294), de 27 de Abril de 1963, e demais legislação complementar e ainda os despachos e instruções expedidos para sua execução, através da Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.).
+###### Artigo 1.º
 
-Art. 2.º Fora dos casos de consultas e visitas domiciliárias ou de assistência medicamentosa, os encargos com a assistência serão satisfeitos através da Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.) , competindo, porém, aos corpos administrativos, seus serviços municipalizados ou federações de municípios reembolsá-la directamente das importâncias pagas, na parte que exceda a participação dos beneficiários, dentro dos sessenta dias seguintes àquele em que for recebida a comunicação respectiva.
+Os servidores das autarquias locais em qualquer das situações a que se refere o artigo 3.º do regulamento aprovado pelo [Decreto n.º 45688](https://diariodarepublica.pt/dr/detalhe/decreto/45688-1964-582660), de 27 de Abril de 1964, passam a beneficiar da assistência na doença nos mesmos termos que os servidores civis do Estado, considerando-se-lhes aplicáveis todas as disposições daquele diploma, bem como do [Decreto-Lei n.º 45002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45002-1963-628294), de 27 de Abril de 1963, e demais legislação complementar e ainda os despachos e instruções expedidos para sua execução, através da Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.).
 
-Art. 3.º Os encargos com a prestação de assistência na doença aos servidores das juntas de freguesia serão suportados pelas câmaras municipais, que poderão, no entanto, exigir o reembolso, total ou parcial, das despesas efectuadas durante o ano através do saldo de gerência da junta de freguesia.
+###### Artigo 2.º
 
-Art. 4.º Passam a constituir encargos dos corpos administrativos as despesas com a assistência na doença de que sejam beneficiários servidores do Estado que neles exerçam funções em regime de comissão permanente.
+Fora dos casos de consultas e visitas domiciliárias, de meios auxiliares de diagnóstico e terapêutica e de internamentos em clínicas particulares, os encargos com a assistência serão satisfeitos através da Assistência na Doença aos Servidores Civis do Estado (A. D. S. E.), competindo, porém, aos corpos administrativos, seus serviços municipalizados ou federações de municípios reembolsá-la directamente das importâncias pagas, na parte que exceda a participação dos beneficiários, dentro dos sessenta dias seguintes àquele em que for recebida a comunicação respectiva.
 
-Art. 5.º A concessão dos benefícios da assistência na doença depende de prévia inscrição na A. D. S. E. e na secretaria da entidade responsável pelos encargos.
+> Alterado pelo/a [Decreto-Lei n.º 372/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1973-421834), publicado em 1973-07-24.
 
-Art. 6.º - 1. Os corpos administrativos, seus serviços municipalizados ou federações de municípios concorrerão para os encargos gerais da A. D. S. E. com a importância anual que vier a ser fixada por despacho conjunto dos Ministros do Interior e das Finanças, susceptível de revisão de dois em dois anos.
+###### Artigo 3.º
+
+Os encargos com a prestação de assistência na doença aos servidores das juntas de freguesia serão suportados pelas câmaras municipais, que poderão, no entanto, exigir o reembolso, total ou parcial, das despesas efectuadas durante o ano através do saldo de gerência da junta de freguesia.
+
+###### Artigo 4.º
+
+Passam a constituir encargos dos corpos administrativos as despesas com a assistência na doença de que sejam beneficiários servidores do Estado que neles exerçam funções em regime de comissão permanente.
+
+###### Artigo 5.º
+
+A concessão dos benefícios da assistência na doença depende de prévia inscrição na A. D. S. E. e na secretaria da entidade responsável pelos encargos.
+
+###### Artigo 6.º
+
+1. Os corpos administrativos, seus serviços municipalizados ou federações de municípios concorrerão para os encargos gerais da A. D. S. E. com a importância anual que vier a ser fixada por despacho conjunto dos Ministros do Interior e das Finanças, susceptível de revisão de dois em dois anos.
 
 2. Ao determinar-se a contribuição das câmaras municipais levar-se-á em conta o encargo resultante da inscrição do pessoal das juntas de freguesia.
 
@@ -150,7 +180,11 @@ Art. 6.º - 1. Os corpos administrativos, seus serviços municipalizados ou fede
 
 4 (transitório). As importâncias que vierem a ser fixadas correspondentes ao período do ano de 1969 posterior à inscrição dos beneficiários serão pagas juntamente com as respeitantes a 1970.
 
-Art. 7.º As importâncias a que se refere o artigo 6.º serão escrituradas em verba própria do Orçamento Geral do Estado, subordinada à rubrica «Participação das autarquias locais nos encargos com a A. D. S. E.».
+###### Artigo 7.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 324/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1978-327346), publicado em 1978-11-08.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 

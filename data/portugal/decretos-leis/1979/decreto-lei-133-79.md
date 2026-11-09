@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1983-02-18'
+version_history:
+  file: decreto-lei-133-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-05-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1983-02-18'
+    amending: pt:dre:311057:por
+    amending_title: Decreto-Lei n.º 100/83
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:17:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 100/83. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-133-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,21 +138,35 @@ Considerando que o actual quadro de oficiais chefes de banda de música é o con
 
 O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
 
-Artigo 1.º São criadas no Exército duas bandas de música de tipo A e seis bandas de música de tipo B.
+###### Artigo 1.º
 
-Art. 2.º São criadas seis fanfarras do Exército.
+São criadas no Exército duas bandas de música de tipo A e seis bandas de música de tipo B.
 
-Art. 3.º É criada a Orquestra Ligeira do Exército.
+###### Artigo 2.º
 
-Art. 4.º O quadro de chefes de banda de música tem, nos respectivos postos, os seguintes quantitativos:
+São criadas seis fanfarras do Exército.
 
-3 majores.
+###### Artigo 3.º
 
-3 capitães.
+É criada a Orquestra Ligeira do Exército.
+
+###### Artigo 4.º
+
+O quadro de chefes de bandas de música e fanfarras do Exército tem, nos respectivos postos, os seguintes quantitativos:
+
+1 tenente-coronel;
+
+2 majores;
+
+3 capitães;
 
 7 tenentes ou alferes.
 
-Art. 5.º O ramo de músicos do quadro de sargentos de banda e fanfarras do Exército tem, nos respectivos postos, os seguintes quantitativos:
+> Alterado pelo/a [Decreto-Lei n.º 100/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1983-311057), publicado em 1983-02-18.
+
+###### Artigo 5.º
+
+O ramo de músicos do quadro de sargentos de banda e fanfarras do Exército tem, nos respectivos postos, os seguintes quantitativos:
 
 2 sargentos-mores.
 
@@ -147,11 +176,17 @@ Art. 5.º O ramo de músicos do quadro de sargentos de banda e fanfarras do Exé
 
 257 primeiros-sargentos e segundos-sargentos.
 
-Art. 6.º O Regulamento das Bandas de Música, Fanfarras e Orquestra Ligeira do Exército, respectivos quadros orgânicos e sua localização territorial serão estabelecidos por portaria do Chefe do Estado-Maior do Exército.
+###### Artigo 6.º
 
-Art. 7.º Os encargos resultantes da publicação deste decreto-lei serão suportados, no corrente ano, pelas disponibilidades das competentes verbas orçamentais destinadas a oficiais ou sargentos dos quadros aprovados por lei, conforme se trate de uns ou de outros.
+O Regulamento das Bandas de Música, Fanfarras e Orquestra Ligeira do Exército, respectivos quadros orgânicos e sua localização territorial serão estabelecidos por portaria do Chefe do Estado-Maior do Exército.
 
-Art. 8.º Fica revogada toda a legislação em contrário.
+###### Artigo 7.º
+
+Os encargos resultantes da publicação deste decreto-lei serão suportados, no corrente ano, pelas disponibilidades das competentes verbas orçamentais destinadas a oficiais ou sargentos dos quadros aprovados por lei, conforme se trate de uns ou de outros.
+
+###### Artigo 8.º
+
+Fica revogada toda a legislação em contrário.
 
 Visto e aprovado em Conselho da Revolução em 30 de Março de 1979.
 

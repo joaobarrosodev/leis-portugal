@@ -37,10 +37,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-10-16'
+version_history:
+  file: despacho-normativo-297-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-09-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-10-16'
+    amending: pt:dre:364908:por
+    amending_title: Despacho Normativo n.º 315/79; Despacho Normativo n.º 317/79
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -66,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:54:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 315/79; Despacho
+    Normativo n.º 317/79. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1979/despacho-normativo-297-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,7 +178,9 @@ Entretanto, está-se ciente de que a elaboração de uma nova lei orgânica do M
 
 Nestes termos, ao abrigo do artigo 202.º, alínea d), da Constituição, determino o seguinte, enquanto se não proceder à reestruturação dos serviços:
 
-Artigo 1.º - 1 - O Ministério das Finanças, cuja orientação global cabe ao respectivo Ministro, compreende as seguintes Secretarias de Estado:
+###### Artigo 1.º
+
+1 - O Ministério das Finanças, cuja orientação global cabe ao respectivo Ministro, compreende as seguintes Secretarias de Estado:
 
 a) Secretaria de Estado do Orçamento;
 
@@ -172,7 +190,9 @@ c) Secretaria de Estado das Finanças.
 
 2 - O Conselho Superior de Economia funcionará, até à sua extinção, na directa dependência do Ministro das Finanças.
 
-Art. 2.º Dependem directamente do Ministro das Finanças os serviços seguintes:
+###### Artigo 2.º
+
+Dependem directamente do Ministro das Finanças os serviços seguintes:
 
 a) Gabinete do Ministro;
 
@@ -186,9 +206,17 @@ e) Gabinete para a Cooperação Económica Externa;
 
 f) Gabinete de Informação e Relações Públicas.
 
-Art. 3.º O Ministro das Finanças exerce, por acumulação, a gestão directa da Secretaria de Estado das Finanças.
+g) Biblioteca Central do Ministério das Finanças.
 
-Art. 4.º Na dependência do Secretário de Estado do Orçamento funcionarão os serviços seguintes:
+> Alterado pelo/a [Despacho Normativo n.º 317/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/317-1979-364935), publicado em 1979-10-16.
+
+###### Artigo 3.º
+
+O Ministro das Finanças exerce, por acumulação, a gestão directa da Secretaria de Estado das Finanças.
+
+###### Artigo 4.º
+
+Na dependência do Secretário de Estado do Orçamento funcionarão os serviços seguintes:
 
 a) Gabinete do Secretário de Estado;
 
@@ -214,7 +242,9 @@ l) Caixa Geral de Aposentações e Montepio dos Servidores do Estado;
 
 m) Assistência na Doença aos Servidores do Estado.
 
-Art. 5.º Na dependência do Secretário de Estado do Tesouro funcionarão os serviços seguintes:
+###### Artigo 5.º
+
+Na dependência do Secretário de Estado do Tesouro funcionarão os serviços seguintes:
 
 a) Gabinete do Secretário de Estado;
 
@@ -224,7 +254,9 @@ c) Junta do Credito Público;
 
 d) Inspecção de Seguros.
 
-Art. 6.º O Secretário de Estado do Tesouro despachará ainda os assuntos relativos:
+###### Artigo 6.º
+
+O Secretário de Estado do Tesouro despachará ainda os assuntos relativos:
 
 a) Ao sistema bancário;
 
@@ -242,7 +274,9 @@ g) Ao Conselho Consultivo do Mercado Financeiro;
 
 h) Às bolsas de valores.
 
-Art. 7.º Na dependência do Secretário de Estado das Finanças funcionarão os serviços seguintes:
+###### Artigo 7.º
+
+Na dependência do Secretário de Estado das Finanças funcionarão os serviços seguintes:
 
 a) Gabinete do Secretário de Estado;
 
@@ -256,7 +290,13 @@ e) Gabinete de Gestão de Veículos do Estado;
 
 f) Serviço de Informação para o Abastecimento Estatal.
 
-Art. 8.º O Secretário de Estado das Finanças despachará ainda os assuntos relativos:
+g) Comissão Liquidatária do Comissariado para os Desalojados.
+
+> Alterado pelo/a [Despacho Normativo n.º 315/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/315-1979-364908), publicado em 1979-10-13.
+
+###### Artigo 8.º
+
+O Secretário de Estado das Finanças despachará ainda os assuntos relativos:
 
 a) Ao Instituto das Participações do Estado;
 
@@ -268,6 +308,8 @@ d) A financiamentos propostos pela Comissão Interministerial de Financiamento a
 
 e) Aos contratos de viabilização.
 
-Art. 9.º Este despacho entra em vigor no dia 1 de Setembro e revoga o [Despacho Normativo n.º 180/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/180-1979-381505).
+###### Artigo 9.º
+
+Este despacho entra em vigor no dia 1 de Setembro e revoga o [Despacho Normativo n.º 180/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/180-1979-381505).
 
 Ministério das Finanças, 29 de Agosto de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

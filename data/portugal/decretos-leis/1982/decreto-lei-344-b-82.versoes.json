@@ -1,0 +1,209 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:621690:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-09-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ab6440d8a591fee2"
+   ]
+  },
+  {
+   "date": "1992-02-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222015:por",
+     "title": "Decreto-Lei n.º 297/86",
+     "published": "1986-09-19",
+     "dre_path": "/dr/detalhe/decreto-lei/297-1986-222015"
+    },
+    {
+     "id": "pt:dre:565861:por",
+     "title": "Decreto-Lei n.º 341/90",
+     "published": "1990-10-30",
+     "dre_path": "/dr/detalhe/decreto-lei/341-1990-565861"
+    },
+    {
+     "id": "pt:dre:150970:por",
+     "title": "Decreto-Lei n.º 17/92",
+     "published": "1992-02-05",
+     "dre_path": "/dr/detalhe/decreto-lei/17-1992-150970"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "691505a60864fc0f",
+    "d9f59e16bd05bb07",
+    "ba79967b39cea2f6",
+    "06221723a0090633",
+    "66ce050162fba000",
+    "f3fa17c6b008889f",
+    "6f408602454241ae",
+    "4f3984531bdfaf1c",
+    "fa77ca3e34f6316e",
+    "4c4f8968647ba290",
+    "61a995d1065f8cf9",
+    "93f5b8ddc4a596ee",
+    "10426d23edac2520",
+    "6b65df879c688990",
+    "c62510c916adef83"
+   ]
+  }
+ ],
+ "fragments": {
+  "ab6440d8a591fee2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Setembro\n\nA Resolução do Conselho de Ministros n.º 112/82, de 20 de Maio, definiu os princípios fundamentais para uma resolução global dos problemas referentes à distribuição de energia eléctrica em baixa tensão que, com graves prejuízos para o País, se vêm arrastando no tempo.\n\nO presente diploma, na sequência da referida resolução, estabelece os princípios gerais da distribuição de energia eléctrica em baixa tensão, bem como as condições a que devem obedecer os contratos de concessão a favor da EDP, quando a exploração seja feita nesse regime.\n\nContempla-se, também, e procura dar-se solução ao problema dos débitos em atraso, acumulados ao longo dos últimos 5 anos, das autarquias à EDP, cuja gravidade é de tal ordem que bem pode levar a empresa, a breve trecho, a um ponto de rotura.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - A distribuição no continente de energia eléctrica em baixa tensão compete aos municípios, os quais podem exercê-la em regime de exploração directa ou em regime de concessão.\n\n2 - A exploração directa pelos municípios compreende a exploração por serviços autárquicos ou associações de municípios, incluindo federações.\n\n3 - A distribuição de energia eléctrica em baixa tensão, em regime de concessão, só pode ser exercida:\n\na) Pela Electricidade de Portugal (EDP), E. P.;\n\nb) Por empresas públicas de âmbito local ou regional, criadas nos termos que venham a ser definidos por lei.\n\n4 - Exceptuam-se do disposto nos números antecedentes:\n\na) As empresas concessionárias privadas existentes à data da entrada em vigor do presente diploma e enquanto subsistam as concessões respectivas;\n\nb) As entidades a quem seja reconhecida a qualidade de produtor e distribuidor independente de energia eléctrica, nos termos da [Lei n.º 21/82](https://diariodarepublica.pt/dr/detalhe/lei/21-1982-397341), de 28 de Julho.\n\nArt. 2.º - 1 - Os contratos de concessão abrangidos pela alínea a) do n.º 3 do artigo 1.º serão regulamentados em portaria conjunta dos Ministros da Administração Interna e da Indústria, Energia e Exportação, tendo em vista a formação de contratos tipo.\n\n2 - A falta de regulamentação prevista neste artigo não impede o regime de exploração em concessão à EDP, que será entretanto regulado pelas disposições do presente decreto-lei e pelos protocolos celebrados ou a celebrar entre os municípios e aquela empresa.\n\nArt. 3.º - 1 - Os contratos de concessão referidos no artigo anterior serão celebrados pelo prazo de 20 anos, renováveis por iguais períodos de tempo, e a sua denúncia, no termo do prazo ou das suas prorrogações, deverá ser manifestada com uma antecedência mínima de 18 meses.\n\n2 - O resgate contratual da concessão não poderá ser feito antes de decorridos 5 anos da sua vigência e deve ser notificado com a antecedência mínima de 18 meses.\n\nArt. 4.º - 1 - Tanto a denúncia como o resgate da concessão serão subordinados às seguintes condições:\n\na) Estar assegurada a viabilidade económica da exploração em outros termos, com base no tarifário oficialmente aprovado;\n\nb) Transferência, para o município concedente, do património próprio da EDP afecto à exploração na respectiva área;\n\nc) Absorção dos trabalhadores da EDP ligados à exploração em causa, com salvaguarda dos direitos daqueles.\n\n2 - A denúncia e o resgate não poderão efectivar-se sem que se mostrem cumpridas as condições referidas no n.º 1.\n\n3 - A EDP não poderá transferir o seu património próprio sem que se mostre pago o valor correspondente e se encontrem liquidados os débitos do município concedente provenientes de fornecimento de energia e da prestação de quaisquer outros serviços.\n\nArt. 5.º Consideram-se no regime de concessão previsto na alínea a) do n.º 3 do artigo 1.º:\n\na) As explorações de distribuição de energia eléctrica em baixa tensão transferidas para a EDP por força do artigo 5.º do [Decreto-Lei n.º 502/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1976-431274), de 30 de Junho;\n\nb) As explorações autárquicas de distribuição de energia eléctrica em baixa tensão abrangidas pelo n.º 2 do artigo 12.º do [Decreto-Lei n.º 205-G/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-g-1975-497870), de 16 de Abril, cuja actividade seja exercida pela EDP, por acordo celebrado entre esta e os municípios respectivos.\n\nArt. 6.º - 1 - A concessão da distribuição de energia eléctrica em baixa tensão, prevista na alínea a) do n.º 3 do artigo 1.º, não envolve a alienação dos patrimónios próprios dos municípios concedentes, os quais se conservarão na propriedade destes, sem prejuízo da sua afectação à exploração pela EDP, a quem caberá o encargo da sua manutenção e reintegração.\n\n2 - Pela afectação do património referida no n.º 1, o município concedente terá direito a uma renda, a pagar pela EDP, em termos a fixar em portaria conjunta dos Ministros da Administração Interna e da Indústria, Energia e Exportação, a qual é devida desde a data em que o património fique, ou tenha ficado, afecto à exploração pela EDP.\n\nArt. 7.º - 1 - Quando tenha lugar a denúncia da concessão, a indemnização a pagar pelo concedente compreenderá apenas o valor líquido do património próprio da EDP afecto à exploração.\n\n2 - A avaliação dos patrimónios a transferir será feita por uma comissão formada por representantes de ambas as partes e presidida por um elemento designado por despacho conjunto do Ministro de Estado e das Finanças e do Plano e dos Ministros da Administração Interna e da Indústria, Energia e Exportação, aos quais, também em despacho conjunto, competirá homologar o valor proposto.\n\nArt. 8.º Salvo se outra coisa for acordada entre os municípios e a EDP, nos termos do presente decreto-lei, mantêm-se os direitos e obrigações decorrentes dos contratos de concessão extintos por efeito do [Decreto-Lei n.º 205-G/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-g-1975-497870), de 16 de Abril.\n\nArt. 9.º - 1- As disposições do presente decreto-lei, no que se refere a concessão de distribuição de energia eléctrica em baixa tensão à EDP, não prejudicam o direito desta exigir o pagamento dos débitos que os municípios e federações tenham para com ela por fornecimento de energia eléctrica ou por prestação de serviços, os quais deverão ser liquidados integralmente no prazo de 60 dias a contar da entrada em vigor do presente diploma.\n\n2 - Os débitos referidos no n.º 1, nomeadamente para os efeitos do artigo 11.º, serão os apurados, após compensação com as rendas devidas pela EDP, pela afectação do património do município desde o início da concessão ou com o valor das transferências de patrimónios que venham a ser autorizadas nos termos do artigo 13.º e ainda com quaisquer outros créditos dos municípios sobre a EDP, relacionados com a actividade da distribuição de energia eléctrica.\n\nArt. 10.º - 1 - Quando a liquidação dos débitos se não mostre possível no prazo referido no artigo anterior, poderão as partes negociá-la em outros termos.\n\n2 - Se, no mesmo prazo, não tiverem as partes chegado a acordo, observar-se-á o disposto no artigo seguinte.\n\nArt. 11.º A EDP poderá ceder a instituições de crédito suas credoras e como dação em função do cumprimento dessas responsabilidades os créditos correspondentes aos saldos de regularização que venham a ser apurados, referidos a 31 de Julho de 1982, garantindo a EDP a existência e o montante desses valores e notificando da cessão as autarquias em causa, nos termos gerais de direito.\n\nArt. 12.º A EDP goza do direito de retenção sobre as rendas devidas nos termos do presente decreto-lei aos municípios que se encontrem em dívida para com ela e ainda sobre as quantias devidas pela transferência de património, quando ela tenha lugar.\n\nArt. 13.º - 1 - Em casos excepcionais, devidamente fundamentados, para facilitar a liquidação dos débitos dos municípios à EDP, referidos no artigo 9.º, poderá o Governo autorizar, a solicitação do respectivo município, a transferência de património afecto à distribuição de energia eléctrica para a EDP.\n\n2 - A avaliação do património, para esse efeito, será feita nos termos prescritos no n.º 2 do artigo 7.º\n\nArt. 14.º A título excepcional, os municípios ou associações de municípios que, à data da entrada em vigor do presente diploma, explorem, conjuntamente com a distribuição de energia eléctrica em baixa tensão, também a distribuição em média tensão poderão manter a exploração desta enquanto se mantenham no regime previsto no n.º 2 do artigo 1.º\n\nVisto e aprovado em Conselho de Ministros de 29 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 26 de Agosto de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "691505a60864fc0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Setembro\n\nA Resolução do Conselho de Ministros n.º 112/82, de 20 de Maio, definiu os princípios fundamentais para uma resolução global dos problemas referentes à distribuição de energia eléctrica em baixa tensão que, com graves prejuízos para o País, se vêm arrastando no tempo.\n\nO presente diploma, na sequência da referida resolução, estabelece os princípios gerais da distribuição de energia eléctrica em baixa tensão, bem como as condições a que devem obedecer os contratos de concessão a favor da EDP, quando a exploração seja feita nesse regime.\n\nContempla-se, também, e procura dar-se solução ao problema dos débitos em atraso, acumulados ao longo dos últimos 5 anos, das autarquias à EDP, cuja gravidade é de tal ordem que bem pode levar a empresa, a breve trecho, a um ponto de rotura.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "d9f59e16bd05bb07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1992-02-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 297/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1986-222015), publicado em 1986-09-19."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A distribuição no continente de energia eléctrica em baixa tensão compete aos municípios, os quais podem exercê-la em regime de exploração directa ou em regime de concessão.\n\n2 - A exploração directa pelos municípios compreende a exploração por serviços autárquicos ou associações de municípios, incluindo federações.\n\n3 - A distribuição de energia eléctrica em baixa tensão, em regime de concessão, só pode ser exercida:\n\na) Pela Electricidade de Portugal (EDP), E. P.;\n\nb) Por empresas públicas de âmbito local ou regional, criadas nos termos que venham a ser definidos por lei.\n\nc) Por cooperativas.\n\n4 - Exceptuam-se do disposto nos números antecedentes:\n\na) As empresas concessionárias privadas existentes à data da entrada em vigor do presente diploma e enquanto subsistam as concessões respectivas;\n\nb) As entidades a quem seja reconhecida a qualidade de produtor e distribuidor independente de energia eléctrica, nos termos da [Lei n.º 21/82](https://diariodarepublica.pt/dr/detalhe/lei/21-1982-397341), de 28 de Julho.\n\n> Alterado pelo/a [Decreto-Lei n.º 297/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1986-222015), publicado em 1986-09-19."
+  },
+  "ba79967b39cea2f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Os contratos de concessão abrangidos pela alínea a) do n.º 3 do artigo 1.º serão regulamentados em portaria conjunta dos Ministros da Administração Interna e da Indústria, Energia e Exportação, tendo em vista a formação de contratos tipo.\n\n2 - A falta de regulamentação prevista neste artigo não impede o regime de exploração em concessão à EDP, que será entretanto regulado pelas disposições do presente decreto-lei e pelos protocolos celebrados ou a celebrar entre os municípios e aquela empresa."
+  },
+  "06221723a0090633": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1992-02-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 341/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1990-565861), publicado em 1990-10-30."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Os contratos de concessão entre os municípios e as entidades referidas nos n.os 3 e 4 do artigo 1.º serão celebrados pelo prazo de 20 anos, renováveis por iguais períodos, e a sua denúncia, no termo do prazo ou das suas prorrogações, deverá ser manifestada com uma antecedência mínima de dois anos.\n\n2 - O resgate contratual da concessão não poderá ser feito antes de decorridos cinco anos da sua vigência e deve ser notificado com a antecedência mínima de dois anos.\n\n> Alterado pelo/a [Decreto-Lei n.º 341/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1990-565861), publicado em 1990-10-30."
+  },
+  "66ce050162fba000": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1992-02-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 341/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1990-565861), publicado em 1990-10-30."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - Tanto a denúncia como o resgate da concessão serão subordinados às seguintes condições:\n\na) Estar assegurada a viabilidade económica da exploração em outros termos, com base no tarifário oficialmente aprovado;\n\nb) Transferência para o município concedente do património próprio da entidade concessionária afecto à exploração na respectiva área;\n\nc) Absorção dos trabalhadores da entidade concessionário ligados à exploração em causa, com salvaguarda dos direitos daqueles.\n\n2 - A denúncia e o resgate não poderão efectivar-se sem que se mostrem cumpridas as condições referidas no n.º 1.\n\n3 - As entidades concessionárias referidas nos n.os. 3 e 4 do artigo 1.º não poderão transferir o seu património próprio sem que se mostre pago o valor correspondente e se encontrem liquidados os débitos do município concedente provenientes de fornecimento de energia e de prestação de quaisquer outros serviços.\n\n> Alterado pelo/a [Decreto-Lei n.º 341/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1990-565861), publicado em 1990-10-30."
+  },
+  "f3fa17c6b008889f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nConsideram-se no regime de concessão previsto na alínea a) do n.º 3 do artigo 1.º:\n\na) As explorações de distribuição de energia eléctrica em baixa tensão transferidas para a EDP por força do artigo 5.º do [Decreto-Lei n.º 502/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1976-431274), de 30 de Junho;\n\nb) As explorações autárquicas de distribuição de energia eléctrica em baixa tensão abrangidas pelo n.º 2 do artigo 12.º do [Decreto-Lei n.º 205-G/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-g-1975-497870), de 16 de Abril, cuja actividade seja exercida pela EDP, por acordo celebrado entre esta e os municípios respectivos."
+  },
+  "6f408602454241ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1992-02-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 17/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1992-150970), publicado em 1992-02-05."
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - A concessão da distribuição de energia eléctrica em baixa tensão, prevista na alínea a) do n.º 3 do artigo 1.º, não envolve a alienação dos patrimónios próprios dos municípios concedentes, os quais se conservarão na propriedade destes, sem prejuízo da sua afectação à exploração pela EDP, a quem caberá o encargo da sua manutenção e reintegração.\n\n2 - Os municípios que tenham celebrado, ou venham a celebrar, com a EDP contrato de concessão de distribuição de energia eléctrica em baixa tensão terão direito a receber desta uma renda, a fixar por portaria conjunta dos Ministros das Finanças, do Planeamento e da Administração do Território e da Indústria e Energia.\n\n> Alterado pelo/a [Decreto-Lei n.º 17/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1992-150970), publicado em 1992-02-05."
+  },
+  "4f3984531bdfaf1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1992-02-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 341/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1990-565861), publicado em 1990-10-30."
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - Quando tenha lugar a denúncia da concessão, a indemnização a pagar pelo concedente compreenderá apenas o valor líquido do património próprio das entidades concessionárias referidas nos n.os. 3 e 4 do artigo 1.º afecto à exploração.\n\n2 - A avaliação dos patrimónios a transferir será feita por uma comissão formada por representantes de ambas as partes e presidida por um elemento designado por despacho conjunto dos Ministros das Finanças, do Planeamento e da Administração do Território e da Indústria e Energia, aos quais, também mediante despacho conjunto, competirá homologar o valor proposto.\n\n> Alterado pelo/a [Decreto-Lei n.º 341/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-1990-565861), publicado em 1990-10-30."
+  },
+  "fa77ca3e34f6316e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSalvo se outra coisa for acordada entre os municípios e a EDP, nos termos do presente decreto-lei, mantêm-se os direitos e obrigações decorrentes dos contratos de concessão extintos por efeito do [Decreto-Lei n.º 205-G/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-g-1975-497870), de 16 de Abril."
+  },
+  "4c4f8968647ba290": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1- As disposições do presente decreto-lei, no que se refere a concessão de distribuição de energia eléctrica em baixa tensão à EDP, não prejudicam o direito desta exigir o pagamento dos débitos que os municípios e federações tenham para com ela por fornecimento de energia eléctrica ou por prestação de serviços, os quais deverão ser liquidados integralmente no prazo de 60 dias a contar da entrada em vigor do presente diploma.\n\n2 - Os débitos referidos no n.º 1, nomeadamente para os efeitos do artigo 11.º, serão os apurados, após compensação com as rendas devidas pela EDP, pela afectação do património do município desde o início da concessão ou com o valor das transferências de patrimónios que venham a ser autorizadas nos termos do artigo 13.º e ainda com quaisquer outros créditos dos municípios sobre a EDP, relacionados com a actividade da distribuição de energia eléctrica."
+  },
+  "61a995d1065f8cf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Quando a liquidação dos débitos se não mostre possível no prazo referido no artigo anterior, poderão as partes negociá-la em outros termos.\n\n2 - Se, no mesmo prazo, não tiverem as partes chegado a acordo, observar-se-á o disposto no artigo seguinte."
+  },
+  "93f5b8ddc4a596ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA EDP poderá ceder a instituições de crédito suas credoras e como dação em função do cumprimento dessas responsabilidades os créditos correspondentes aos saldos de regularização que venham a ser apurados, referidos a 31 de Julho de 1982, garantindo a EDP a existência e o montante desses valores e notificando da cessão as autarquias em causa, nos termos gerais de direito."
+  },
+  "10426d23edac2520": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1992-02-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 17/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1992-150970), publicado em 1992-02-05."
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - A EDP tem o direito de reter o montante das rendas devidas, nos termos do presente decreto-lei, aos municípios que se encontrem em dívida para com ela, respeitante a facturações correntes, incluindo as de iluminação pública.\n\n2 - O estabelecido no número anterior não impede a EDP de exigir, utilizando para o efeito os mecanismos legais ao seu dispor, o pagamento de quaisquer dívidas dos municípios para com ela.\n\n3 - A EDP tem ainda o direito de reter as quantias devidas pela transferência de património, quando esta tenha lugar, aos municípios que se encontrem em dívida para com ela.\n\n> Alterado pelo/a [Decreto-Lei n.º 17/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1992-150970), publicado em 1992-02-05."
+  },
+  "6b65df879c688990": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - Em casos excepcionais, devidamente fundamentados, para facilitar a liquidação dos débitos dos municípios à EDP, referidos no artigo 9.º, poderá o Governo autorizar, a solicitação do respectivo município, a transferência de património afecto à distribuição de energia eléctrica para a EDP.\n\n2 - A avaliação do património, para esse efeito, será feita nos termos prescritos no n.º 2 do artigo 7.º"
+  },
+  "c62510c916adef83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA título excepcional, os municípios ou associações de municípios que, à data da entrada em vigor do presente diploma, explorem, conjuntamente com a distribuição de energia eléctrica em baixa tensão, também a distribuição em média tensão poderão manter a exploração desta enquanto se mantenham no regime previsto no n.º 2 do artigo 1.º\n\nVisto e aprovado em Conselho de Ministros de 29 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 26 de Agosto de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

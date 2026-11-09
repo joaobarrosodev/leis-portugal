@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-09-16'
+version_history:
+  file: decreto-governo-26-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-07-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-09-16'
+    amending: pt:dre:495687:por
+    amending_title: Decreto do Governo n.º 31/87
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:30:12Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto do Governo n.º 31/87. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-governo/1987/decreto-governo-26-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,9 +134,13 @@ Obtido parecer favorável da Assembleia Distrital de Castelo Branco:
 
 O Governo decreta, ao abrigo do n.º 3 do artigo 93.º da [Lei n.º 79/77](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), de 25 de Outubro, e nos termos da alínea d) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º É dissolvida, com os fundamentos constantes do preâmbulo do diploma, a Câmara Municipal do Fundão.
+###### Artigo 1.º
 
-Art. 2.º É nomeada para gerir a Câmara Municipal do Fundão, até à posse dos novos membros eleitos, uma comissão administrativa, composta pelos seguintes cidadãos eleitores:
+É dissolvida, com os fundamentos constantes do preâmbulo do diploma, a Câmara Municipal do Fundão.
+
+###### Artigo 2.º
+
+É nomeada para gerir a Câmara Municipal do Fundão, até à posse dos novos membros eleitos, uma comissão administrativa, composta pelos seguintes cidadãos eleitores:
 
 Presidente:
 
@@ -133,7 +152,11 @@ Dr. José Sampaio Lopes;
 
 Joaquim Ferreira Ventura.
 
-Art. 3.º A Assembleia Municipal do Fundão, no prazo máximo de 30 dias, marcará novas eleições para aquele órgão, que deverão ter lugar no prazo de 70 a 80 dias a contar da data da respectiva marcação.
+###### Artigo 3.º
+
+As eleições para a Câmara Municipal do Fundão realizar-se-ão no dia 18 de Outubro de 1987.
+
+> Alterado pelo/a [Decreto do Governo n.º 31/87](https://diariodarepublica.pt/dr/detalhe/decreto-governo/31-1987-495687), publicado em 1987-09-16.
 
 Visto e aprovado em Conselho de Ministros de 9 de Junho de 1987. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.
 

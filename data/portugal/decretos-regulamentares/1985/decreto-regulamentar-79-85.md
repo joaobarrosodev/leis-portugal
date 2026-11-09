@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-02-21'
+version_history:
+  file: decreto-regulamentar-79-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-12-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-02-21'
+    amending: pt:dre:662943:por
+    amending_title: Decreto Regulamentar n.º 16/87
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:12:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 16/87. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1985/decreto-regulamentar-79-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,7 +142,7 @@ O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, 
 
 ###### Artigo 1.º — (Organização e apresentação da proposta inicial)
 
-As propostas iniciais de contrato de desenvolvimento, a que se refere o artigo 1.º do [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), devidamente fundamentadas, serão submetidas à apreciação da câmara municipal acompanhadas:
+1 - As propostas iniciais de contrato de desenvolvimento, a que se refere o artigo 1.º do [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), devidamente fundamentadas, serão submetidas à apreciação da câmara municipal, acompanhadas:
 
 a) Da documentação que permita a apreciação da estrutura financeira da empresa, a descrição do equipamento e quadros afectos ao empreendimento;
 
@@ -141,19 +158,33 @@ f) Do anteprojecto dos edifícios a construir;
 
 g) Do estudo de mercado que permita verificar a viabilidade da comercialização das habitações.
 
+2 - Não é aplicável o disposto no n.º 1 deste artigo sempre que sejam cedidos terrenos pelo ex-Fundo de Fomento da Habitação (FFH) no âmbito de contratos de desenvolvimento, dado o estabelecido no n.º 4 do artigo 2.º
+
+> Alterado pelo/a [Decreto Regulamentar n.º 16/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1987-662943), publicado em 1987-02-16.
+
 ###### Artigo 2.º — (Apreciação da proposta inicial)
 
 1 - Os serviços competentes da câmara municipal, para efeitos do disposto nos artigos 3.º e 7.º do [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), de 5 de Julho, procederão à análise preliminar da proposta, elaborando parecer.
 
-2 - Caso a proposta tenha merecido acordo de princípio da câmara municipal, será feita consulta ao Instituto Nacional de Habitação para os efeitos previstos nos artigos 3.º e 7.º do [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), de 5 de Julho.
+2 - Caso a proposta tenha merecido acordo de princípio da câmara municipal, será feita consulta ao Instituto Nacional de Habitação (INH) para os efeitos previstos nos artigos 3.º e 7.º do [Decreto-Lei n.º 236/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1985-183049), de 5 de Julho.
 
-3 - Com base nos pareceres técnico e financeiro dos serviços camarários e no parecer do Instituto de Habitação será elaborado relatório, donde constarão as razões de rejeição ou as condições de admissão da proposta inicial, bem como o prazo para apresentação da proposta final.
+3 - Com base nos pareceres técnico e financeiro dos serviços camarários e no parecer do INH será elaborado relatório, donde constarão as razões de rejeição ou as condições de admissão da proposta inicial, bem como o prazo para apresentação da proposta final.
+
+4 - A apreciação da proposta inicial, bem como a elaboração do parecer técnico e financeiro, de contratos de desenvolvimento, em terrenos propriedade do ex-FFH, compete à entidade transmitente dos terrenos, que só efectuará a sua cedência após a aprovação da referida proposta.
+
+5 - A decisão da entidade a que se refere o número anterior deverá ser comunicada à respectiva câmara municipal e ao INH.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 16/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1987-662943), publicado em 1987-02-16.
 
 ###### Artigo 3.º — (Admissão da proposta inicial)
 
 1 - A admissão ou rejeição da proposta inicial é feita sobre o relatório a que se refere o n.º 3 do artigo anterior.
 
 2 - As empresas proponentes serão notificadas do teor da deliberação, devendo comunicar à câmara municipal a aceitação das condições fixadas.
+
+3 - Para a prossecução do contrato de desenvolvimento, a realizar no âmbito do n.º 4 do artigo 2.º, as empresas apresentarão na câmara municipal um requerimento, acompanhado de fotocópia do processo e parecer do ex-FFH, no qual solicitam o desenvolvimento dos procedimentos subsequentes.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 16/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/16-1987-662943), publicado em 1987-02-16.
 
 ###### Artigo 4.º — (Procedimentos subsequentes)
 

@@ -1,0 +1,724 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:352956:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-07-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "fdb89ea05187fae1",
+    "23836370ae405d04",
+    "8abc029d2cdb3796",
+    "cfd2a3e1978fb381",
+    "0dd2ae3253e17296",
+    "e45ff5d4a40b8587",
+    "e31db293e997c3f2",
+    "f02af4dc1027804e",
+    "87049f2830e786e9",
+    "8b1e26151ce832e6",
+    "431f4195e39aab1f",
+    "c955ad5770c66b25",
+    "8429c12131557f33",
+    "29b924b5e99663c1",
+    "f4e3d4de35284ca3",
+    "42419dbfb0e47f49",
+    "5fb72f8483f142ef",
+    "44f6116c492e0395",
+    "da34c87026b7ac21",
+    "22572663ed34270e",
+    "f4de40e80ef199bc",
+    "b91955a0dad19ee7",
+    "2755b0221c4f5cea",
+    "7e2e6087f7d57faf",
+    "59cedd8b92adbc15",
+    "adec3b76dcdb7a35",
+    "369b8ac13a655a86",
+    "0da05a1b8ed65ad9",
+    "a73e8b67956054cd",
+    "ee9a2bb4ef5596e7",
+    "0a1dea66aba03637",
+    "d214177e7335fcf3",
+    "0eff0ffca8e5b8fa",
+    "4b3afdef082965dc",
+    "6548ab345e87b213",
+    "5b690ece11d8aa81",
+    "5ea1b92da8d63f92"
+   ]
+  },
+  {
+   "date": "2009-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:603228:por",
+     "title": "Decreto-Lei n.º 81/2009",
+     "published": "2009-04-02",
+     "dre_path": "/dr/detalhe/decreto-lei/81-2009-603228"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º"
+   ],
+   "fragments": [
+    "fdb89ea05187fae1",
+    "23836370ae405d04",
+    "746156faee09d412",
+    "fb6b55bf48af710d",
+    "babc34516476a4ff",
+    "944bdb97319053d7",
+    "183965350b5359ab",
+    "f02af4dc1027804e",
+    "87049f2830e786e9",
+    "0e12a57a0e299b1b",
+    "46e9eb80d4e8de1f",
+    "8fcc52ab202c56e5",
+    "adf40c648bd14e68",
+    "7244ee1f68662f9c",
+    "02a4fd82f11b5834",
+    "498622371d369f39",
+    "5fb72f8483f142ef",
+    "6193414dbcebf9c8",
+    "215b11743cf591d3",
+    "a606fc0e7a83e2f8",
+    "13af4be7c457fb92",
+    "2776a5387608da30",
+    "db68816489d70853",
+    "e57ff7227f30e7de",
+    "59cedd8b92adbc15",
+    "785d2d4c63ff4cc6",
+    "674b77673b472b67",
+    "6c2e97793101ddcc",
+    "17214c0e29f2efb4",
+    "ee9a2bb4ef5596e7",
+    "0a1dea66aba03637",
+    "17d8419c9600a31a",
+    "7f463453b2da02c8",
+    "790d824a4ef96387",
+    "3c2260c699bab9d5",
+    "7a35f66e7d8bbb4b",
+    "723230d927decd33"
+   ]
+  }
+ ],
+ "fragments": {
+  "fdb89ea05187fae1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de Julho\n\nA evolução dos padrões de saúde da sociedade, bem como o desenvolvimento técnico e científico, revelam a necessidade de fortalecer a capacidade de actuação dos serviços de saúde pública, com reflexos inerentes na sua organização, conduzindo assim à reestruturação destes serviços, de modo que sejam mais eficientes e norteados por padrões de qualidade.\n\nA experiência dos últimos anos tem demonstrado a necessidade de uma maior intervenção em áreas essenciais à elevação do nível de saúde das populações, devendo ser reforçadas, entre outras, as funções de vigilância epidemiológica, de promoção da saúde da comunidade e da avaliação do impacte das intervenções em saúde.\n\nNa verdade, os desafios da moderna saúde pública impõem a existência de serviços multidisciplinares, bem estruturados, com recursos humanos e materiais adequados, com capacidade de decisão e intervenção, contrariando a situação actual da existência do exercício profissional em grande parte isolado e com volume significativo das tarefas médico-sanitárias legalmente previstas.\n\nNesta perspectiva, são agora reestruturados os serviços de saúde pública, no âmbito dos quais se integra o exercício dos poderes de autoridade de saúde enquanto poder-dever de intervenção do Estado na defesa da saúde pública, na prevenção da doença e na promoção da saúde.\n\nAcresce ainda que, cada vez mais, os serviços de saúde pública devem ser elemento catalisador de alianças, objectivos e estratégias intersectoriais que se pretendem participadas, de forma a darem corpo a uma real promoção da saúde.\n\nA reestruturação dos serviços de saúde pública operada pelo presente diploma visa a implantação dos serviços a dois níveis: o regional e o local.\n\nAo nível regional, com funções de planeamento em saúde e da definição das estratégias regionais e de apoio técnico, articulando-se com todos os recursos de saúde pública da região de saúde. Ao nível local, com uma organização flexível, de modo a rentabilizar os recursos existentes, tendo em conta a caracterização da área geodemográfica e as necessidades de saúde da população, em estreita articulação horizontal com os serviços e instituições prestadores de cuidados de saúde.\n\nNeste âmbito, o presente diploma estabelece para os serviços de saúde pública um modelo de gestão por objectivos, dotando-os de autonomia técnica e administrativa, com vista à optimização dos resultados e à obtenção de ganhos em saúde.\n\nForam observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela [Lei n.º 48/90](https://diariodarepublica.pt/dr/detalhe/lei/48-1990-574127), de 24 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "8abc029d2cdb3796": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece a organização dos serviços de saúde pública, no âmbito dos quais se integra o exercício dos poderes de autoridade de saúde previstos na base XIX da Lei de Bases da Saúde."
+  },
+  "cfd2a3e1978fb381": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\n1 - Os serviços de saúde pública são os serviços do Estado competentes para promover a vigilância epidemiológica e a monitorização da saúde da população, incumbindo-lhes, em especial, a promoção da saúde através da definição e acompanhamento da execução de programas específicos de actuação.\n\n2 - Os serviços de saúde pública abrangem ainda o poder de autoridade de saúde regulado pelo [Decreto-Lei n.º 336/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1993-651701), de 29 de Setembro, garantindo a intervenção do Estado:\n\na) Na defesa e promoção da saúde;\n\nb) Na prevenção da doença;\n\nc) No controlo dos factores de risco e de situações susceptíveis de causarem ou acentuarem prejuízos graves à saúde individual, da população em geral e de grupos específicos;\n\nd) No âmbito da sanidade internacional."
+  },
+  "0dd2ae3253e17296": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Serviços de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Serviços de saúde pública\n\n1 - Os serviços de saúde pública integram-se no Serviço Nacional de Saúde e são de âmbito regional e local.\n\n2 - Os serviços de saúde pública de âmbito regional designam-se centros regionais de saúde pública e funcionam junto das administrações regionais de saúde, havendo um em cada região de saúde.\n\n3 - São serviços locais de saúde pública as unidades de saúde pública dos sistemas locais de saúde e as unidades operativas de saúde pública dos centros de saúde.\n\n4 - A avaliação do funcionamento dos serviços de saúde pública compete, em cada região de saúde, à Administração Regional de Saúde."
+  },
+  "e45ff5d4a40b8587": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Autoridade de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autoridade de saúde\n\nAs competências das autoridades de saúde previstas no [Decreto-Lei n.º 336/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1993-651701), de 29 de Setembro, podem ser delegadas, com a faculdade de subdelegação, nos profissionais que integram os respectivos serviços de saúde pública, de acordo com as áreas específicas de intervenção."
+  },
+  "e31db293e997c3f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Colaboração com instituições públicas e privadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Colaboração com instituições públicas e privadas\n\n1 - O eficiente desempenho das funções cometidas aos serviços de saúde pública é ainda garantido através da colaboração de organismos e serviços que, dependentes ou não do Ministério da Saúde e tendo em conta a sua diferenciação, lhes possam prestar serviços específicos, nomeadamente no âmbito do apoio técnico-científico, mediante contratualização ou celebração de acordos.\n\n2 - As instituições públicas e privadas devem fornecer aos serviços de saúde pública os elementos por estes considerados indispensáveis à monitorização do nível de saúde das populações da área geográfica por eles abrangida."
+  },
+  "f02af4dc1027804e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II"
+  },
+  "87049f2830e786e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I\n\nServiços de âmbito regional"
+  },
+  "8b1e26151ce832e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Centros regionais de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Centros regionais de saúde pública\n\n1 - Os centros regionais de saúde pública possuem autonomia técnica e administrativa e dotações próprias, orçamental e de pessoal.\n\n2 - Os centros regionais de saúde pública são coordenados pelos delegados regionais de saúde, articulando-se técnica e funcionalmente com a Direcção-Geral da Saúde e com todas as unidades de saúde pública da respectiva região de saúde.\n\n3 - Os centros regionais de saúde pública integram os laboratórios de saúde pública da respectiva região de saúde, articulando-se tecnicamente, neste âmbito, com o Instituto Nacional de Saúde Dr. Ricardo Jorge."
+  },
+  "431f4195e39aab1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atribuições\n\n1 - São atribuições dos centros regionais de saúde pública o planeamento em saúde, a definição de estratégias e a análise dos fenómenos da saúde e da doença no âmbito das respectivas regiões de saúde, competindo-lhes, em especial, assegurar as actividades de engenharia sanitária e de sanidade internacional, bem como apoiar tecnicamente o desenvolvimento de programas de saúde pública, designadamente dos que se destinam a ser executados pelos serviços locais de saúde pública.\n\n2 - Incumbe ainda aos centros regionais de saúde pública assegurar apoio técnico aos serviços de saúde pública de âmbito local nas seguintes áreas:\n\na) Avaliação das necessidades da população, identificação de grupos populacionais vulneráveis, definição de prioridades e de programas de actuação e avaliação da respectiva execução, a fim de apoiar o desenvolvimento de políticas de saúde;\n\nb) Vigilância epidemiológica e apoio aos sistemas de alerta e resposta dos fenómenos da saúde e da doença, incluindo o apoio laboratorial;\n\nc) Desenvolvimento dos modelos de actuação mais adequados por forma a melhorar a eficácia e eficiência dos serviços de saúde;\n\nd) Monitorização da saúde da população e dos respectivos factores de risco e protectores;\n\ne) Formação e investigação em saúde."
+  },
+  "c955ad5770c66b25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Órgãos\n\nSão órgãos do centro regional de saúde pública:\n\na) O coordenador;\n\nb) O conselho consultivo."
+  },
+  "8429c12131557f33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Coordenador\n\n1 - A coordenação do centro regional de saúde pública compete ao delegado regional de saúde, a quem cabe a responsabilidade pelo seu funcionamento eficiente e pela qualidade dos serviços prestados.\n\n2 - No exercício das suas funções de coordenador do centro regional de saúde pública, o delegado regional de saúde é coadjuvado por um seu adjunto, que o substitui nas suas faltas e impedimentos, e por um técnico de outra área profissional, nomeado em comissão de serviço, por um período de três anos, pelo conselho de administração da administração regional de saúde, sob proposta do coordenador.\n\n3 - Sem prejuízo do disposto no número seguinte, a nomeação do coordenador e do adjunto referido no número anterior faz-se nos termos do artigo 4.º do Decreto-lei n.º 336/93, de 29 de Setembro.\n\n4 - O coordenador do centro regional de saúde pública e o adjunto e o técnico referidos no n.º 2 não podem exercer mais de dois mandatos sucessivos, salvo em casos excepcionais devidamente fundamentados em que poderão exercer um terceiro mandato."
+  },
+  "29b924b5e99663c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competência do coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência do coordenador\n\n1 - Ao coordenador do centro regional de saúde pública compete:\n\na) Representar formalmente o centro regional de saúde pública;\n\nb) Assegurar a gestão adequada dos recursos humanos, materiais e financeiros afectos ao centro regional de saúde pública;\n\nc) Elaborar a proposta de plano e orçamento-programa do centro regional de saúde pública e submetê-lo à aprovação do conselho de administração da administração regional de saúde, bem como assegurar a sua execução;\n\nd) Promover uma boa articulação e cooperação com os demais serviços de saúde e outras entidades externas no âmbito da saúde pública.\n\n2 - Para efeitos de gestão dos recursos humanos, financeiros e patrimoniais afectos ao centro regional de saúde pública, e de realização de despesas, o coordenador detém as competências legalmente atribuídas aos directores-gerais da Administração Pública.\n\n3 - O coordenador detém ainda as competências que lhe forem delegadas e subdelegadas, com a faculdade de subdelegação nos adjuntos e nos coordenadores das unidades de saúde pública dos sistemas locais de saúde."
+  },
+  "f4e3d4de35284ca3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão que tem como objectivo contribuir para o apoio ao desenvolvimento das políticas e estratégias de saúde a nível regional e a definição das medidas necessárias ao desenvolvimento de programas de saúde de âmbito local, competindo-lhe, em especial, emitir parecer sobre o orçamento-programa do centro regional de saúde pública.\n\n2 - O conselho consultivo é constituído pelo coordenador do centro regional de saúde pública, que preside, e por outros profissionais dos serviços de saúde pública da respectiva região de saúde, por ele propostos no máximo de seis, nomeados pelo conselho de administração da administração regional, pelo período de três anos.\n\n3 - Os profissionais referidos no número anterior devem representar diferentes áreas disciplinares da saúde pública, sendo, no máximo, dois coordenadores das unidades de saúde pública da região, um engenheiro, um enfermeiro de saúde pública, um técnico de higiene e saúde ambiental e outro de outra área profissional.\n\n4 - O conselho consultivo reúne sempre que necessário e obrigatoriamente uma vez por mês, sendo-lhe aplicáveis as disposições do Código do Procedimento Administrativo relativas aos órgãos colegiais.\n\n5 - Os membros do conselho consultivo têm direito a senhas de presença, nos termos fixados em despacho conjunto dos Ministros das Finanças e da Saúde e do membro do Governo responsável pela Administração Pública."
+  },
+  "42419dbfb0e47f49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Organização e funcionamento\n\nA organização e o funcionamento do centro regional de saúde pública constam de regulamento aprovado por portaria do Ministro da Saúde, sob proposta do conselho de administração da respectiva administração regional de saúde, de acordo com o modelo de referência da Direcção-Geral da Saúde."
+  },
+  "5fb72f8483f142ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Serviços de âmbito local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Serviços de âmbito local"
+  },
+  "44f6116c492e0395": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Unidades de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Unidades de saúde pública\n\n1 - Em cada sistema local de saúde existe uma unidade de saúde pública, coordenada por um adjunto do delegado regional de saúde e dotada de autonomia técnica e administrativa.\n\n2 - As unidades de saúde pública são responsáveis pelo planeamento, coordenação, monitorização e avaliação das actividades de saúde pública no âmbito dos respectivos sistemas locais de saúde.\n\n3 - As unidades de saúde pública articulam-se técnica e funcionalmente com o respectivo centro regional de saúde pública e, horizontalmente, com os outros serviços de saúde integrados no sistema local de saúde, bem como com outros serviços e organismos da respectiva área geográfica."
+  },
+  "da34c87026b7ac21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Atribuições\n\nSão atribuições de cada unidade de saúde pública, no âmbito da respectiva área geodemográfica:\n\na) Apoiar o desenvolvimento de políticas de saúde, através da avaliação das necessidades da população, da identificação de grupos populacionais vulneráveis, da definição de prioridades e da definição de programas de actuação e avaliação da respectiva execução;\n\nb) Coordenar as actividades desenvolvidas pelas unidades operativas de saúde pública dos centros de saúde do sistema local de saúde;\n\nc) Apoiar o desenvolvimento dos modelos de actuação mais adequados por forma a melhorar a eficácia e eficiência dos serviços de saúde;\n\nd) Monitorizar a saúde da população e os respectivos factores de risco e de protecção;\n\ne) Proceder à vigilância epidemiológica dos fenómenos da saúde e da doença;\n\nf) Promover o controlo das doenças transmissíveis, incluindo a vacinação;\n\ng) Promover o desenvolvimento de programas de saúde ambiental e intervir na correcção das situações que prejudiquem ou ponham em risco a saúde das populações ou de grupos específicos;\n\nh) Promover o desenvolvimento de projectos de intervenção e colaborar na execução de programas que visem a promoção da saúde, designadamente das crianças, dos jovens, das grávidas, da população activa, dos idosos e de outros grupos populacionais ou profissionais específicos, nomeadamente as escolas e locais de trabalho;\n\ni) Fomentar a dinamização de parcerias e incentivar estratégias intersectoriais a fim de favorecer uma actuação integrada e efectiva na obtenção de ganhos em saúde;\n\nj) Promover a participação e a co-responsabilização da comunidade nas decisões conducentes à promoção de comportamentos e ambientes saudáveis e à utilização apropriada de serviços e equipamentos;\n\nl) Desenvolver estudos epidemiológicos e executar ou participar em programas de investigação em saúde pública;\n\nm) Promover e participar na formação e treino dos profissionais no âmbito da saúde pública."
+  },
+  "22572663ed34270e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Órgãos da unidade de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Órgãos da unidade de saúde pública\n\nSão órgãos da unidade de saúde pública:\n\na) O coordenador;\n\nb) O conselho técnico."
+  },
+  "f4de40e80ef199bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Coordenador\n\n1 - A coordenação da unidade de saúde pública compete a um adjunto do delegado regional de saúde, que será substituído, nas suas ausências e impedimentos, pelo director de uma das unidades operativas de saúde pública por ele designado.\n\n2 - O coordenador da unidade de saúde pública não pode exercer mais de dois mandatos sucessivos, excepto em casos excepcionais devidamente justificados, em que poderá exercer um terceiro mandato."
+  },
+  "b91955a0dad19ee7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competência do coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competência do coordenador\n\n1 - Ao coordenador cabe, no âmbito do respectivo sistema local de saúde, a responsabilidade pela gestão e funcionamento eficientes da unidade de saúde pública e pela qualidade dos serviços prestados, competindo-lhe, em especial:\n\na) Representar formalmente a unidade de saúde pública, integrando o conselho coordenador do respectivo sistema local de saúde;\n\nb) Promover a adequada gestão funcional dos recursos humanos afectos às unidades operativas de saúde pública, de forma a assegurar a prossecução das atribuições previstas no artigo 14.º;\n\nc) Promover a articulação e cooperação dos serviços locais de saúde pública com os demais serviços de saúde e outras entidades do respectivo sistema local de saúde;\n\nd) Elaborar a proposta de plano e orçamento-programa da unidade de saúde pública, ouvido o conselho técnico, por forma a integrar as actividades específicas de saúde pública dos centros de saúde do respectivo sistema local de saúde, e submetê-los à aprovação do conselho de administração da administração regional de saúde.\n\n2 - Para efeitos de gestão dos recursos, humanos e financeiros, afectos à unidade de saúde pública e de realização de despesas, o coordenador da unidade de saúde pública detém as competências legalmente atribuídas aos directores gerais da Administração Pública.\n\n3 - O coordenador detém ainda as competências que lhe forem delegadas ou subdelegadas, com a faculdade de subdelegação nos directores das unidades operativas de saúde pública dos centros de saúde."
+  },
+  "2755b0221c4f5cea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Conselho técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Conselho técnico\n\n1 - O conselho técnico é composto pelo coordenador da unidade de saúde pública, que preside, pelos directores das unidades operativas de saúde pública dos centros de saúde que integram o sistema local de saúde, por um enfermeiro de saúde pública e um técnico de higiene e saúde ambiental, nomeados pelo conselho de administração da administração regional de saúde, por um período de três anos, sob proposta do coordenador da unidade de saúde pública.\n\n2 - Ao conselho técnico compete, em geral, acompanhar as actividades dos serviços locais de saúde pública e, em especial, emitir parecer sobre o plano de actividades, a proposta de orçamento-programa e o relatório de actividades da unidade de saúde pública.\n\n3 - Compete ainda ao conselho técnico colaborar na identificação das necessidades de saúde e de cuidados de saúde da população, bem como apoiar a implementação de medidas concretas, nomeadamente as que favoreçam a participação da comunidade.\n\n4 - O conselho técnico reúne sempre que necessário e obrigatoriamente uma vez por mês, sendo-lhe aplicáveis as disposições do Código do Procedimento Administrativo relativas aos órgãos colegiais.\n\n5 - Os membros do conselho técnico têm direito a senhas de presença, nos termos fixados em despacho conjunto dos Ministros das Finanças e da Saúde."
+  },
+  "7e2e6087f7d57faf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Unidades operativas de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Unidades operativas de saúde pública\n\nCada unidade operativa de saúde pública é dirigida pelo delegado concelhio de saúde ou, no caso de haver mais de um centro de saúde no concelho, por um adjunto do delegado concelhio de saúde."
+  },
+  "59cedd8b92adbc15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Gestão e funcionamento dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Gestão e funcionamento dos serviços"
+  },
+  "adec3b76dcdb7a35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Princípio geral\n\nA gestão dos serviços de saúde pública deve ser orientada por objectivos, correspondentes a planos de acção anuais devidamente orçamentados, tendo em conta critérios de qualidade e efectividade dos serviços prestados."
+  },
+  "369b8ac13a655a86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Receitas\n\nConstituem receitas dos serviços de saúde pública as importâncias cobradas pelos serviços por eles prestados e o produto das coimas das contra-ordenações aplicadas pelas autoridades de saúde."
+  },
+  "0da05a1b8ed65ad9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Instalações e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Instalações e recursos\n\n1 - Os centros regionais de saúde pública e as unidades de saúde pública dos sistemas locais de saúde funcionam em instalações das administrações regionais de saúde, às quais compete o fornecimento dos meios humanos, financeiros, logísticos e administrativos necessários ao seu funcionamento e à execução dos respectivos planos de acção.\n\n2 - O disposto no número anterior é também aplicável aos demais serviços locais de saúde pública enquanto não forem criados os centros de saúde dotados de personalidade jurídica e as associações de centros de saúde."
+  },
+  "a73e8b67956054cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Pessoal\n\n1 - O pessoal dos serviços de saúde pública integra o quadro de pessoal da respectiva administração regional de saúde ou é nomeado em comissão de serviço, destacado ou requisitado ou contratado, nos termos da lei.\n\n2 - Os centros regionais de saúde pública dispõem de dotações próprias de pessoal, as quais devem incluir médicos de saúde pública, técnicos superiores de saúde do ramo de engenharia sanitária ou do ambiente e do ramo laboratorial e de análises clínicas, juristas, sociólogos, enfermeiros especialistas em saúde pública, técnicos de higiene e saúde ambiental, técnicos com funções na área da estatística e com formação na área da contabilidade, técnicos de informática, pessoal administrativo e auxiliar, incluindo motoristas.\n\n3 - As unidades de saúde pública dispõem de dotações próprias de pessoal técnico e administrativo necessário ao exercício das suas funções, de acordo com a área geodemográfica por eles abrangida.\n\n4 - As dotações de pessoal referidas nos números anteriores constam de despacho do Ministro da Saúde, ouvidos os conselhos de administração das administrações regionais de saúde a cujos quadros de pessoal os funcionários pertençam.\n\n5 - Sem prejuízo do disposto nos números anteriores, podem ser afectos aos serviços de saúde pública outros técnicos de áreas específicas, em função dos programas a desenvolver."
+  },
+  "ee9a2bb4ef5596e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Remunerações\n\n1 - O exercício de funções de coordenador do centro regional de saúde pública confere o direito a um acréscimo remuneratório correspondente a 15% da remuneração estabelecida para o 1.º escalão da respectiva categoria, em dedicação exclusiva e horário de trinta e cinco horas semanais.\n\n2 - O médico que exerça funções de adjunto do coordenador do centro regional de saúde pública tem direito a um acréscimo remuneratório correspondente a 10% da remuneração estabelecida para o 1.º escalão da respectiva categoria, em dedicação exclusiva e horário de trinta e cinco horas semanais.\n\n3 - O técnico que exerça funções de adjunto do coordenador do centro regional de saúde pública tem direito à remuneração estabelecida para o 1.º escalão da categoria imediatamente superior da respectiva carreira.\n\n4 - O exercício de funções de coordenador da unidade de saúde pública confere o direito a um acréscimo remuneratório correspondente a 10% da remuneração estabelecida para o 1.º escalão da respectiva categoria, em dedicação exclusiva e horário de trinta e cinco horas semanais."
+  },
+  "0a1dea66aba03637": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições transitórias e finais"
+  },
+  "d214177e7335fcf3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Transição de pessoal\n\n1 - O pessoal dos laboratórios de saúde pública, bem como o que exerça funções no âmbito da engenharia sanitária e da sanidade internacional, transita para os quadros de pessoal das administrações regionais de saúde, na mesma carreira, categoria e escalão, nos termos da lei, ficando afecto aos respectivos centros regionais de saúde pública.\n\n2 - Ficam igualmente afectos aos respectivos centros regionais de saúde pública todos os funcionários e agentes das administrações regionais de saúde, incluindo dos seus serviços de âmbito sub-regional, que neles actualmente desempenham funções na área da saúde pública."
+  },
+  "0eff0ffca8e5b8fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Afectação de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Afectação de bens\n\nTodos os bens móveis e imóveis das administrações regionais de saúde actualmente utilizados no âmbito da saúde pública consideram-se automaticamente afectos aos serviços de saúde pública previstos no presente diploma a partir da data da sua entrada em vigor."
+  },
+  "4b3afdef082965dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Serviços locais de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Serviços locais de saúde pública\n\n1 - Enquanto não forem criados sistemas locais de saúde, as competências previstas nas alíneas b) e c) do n.º 1 e no n.º 3 do artigo 17.º são, em cada sub-região de saúde, exercidas por um adjunto do delegado regional de saúde, devendo os serviços organizar-se de forma flexível, de modo a rentabilizar os recursos existentes, com vista a maior eficiência e tendo em conta a caracterização da área geodemográfica e as necessidades de saúde da população que servem.\n\n2 - Para efeitos do disposto no número anterior, os serviços de saúde pública dos centros de saúde podem integrar-se funcionalmente em núcleos operativos que agrupem os profissionais de saúde pública da mesma unidade funcional de saúde."
+  },
+  "6548ab345e87b213": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Articulação com as Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Articulação com as Regiões Autónomas\n\n1 - Tendo em vista a necessária e eficaz troca de informação no âmbito das matérias enunciadas nas alíneas a) a d) do artigo 2.º, devem ser estabelecidos acordos de cooperação entre o director-geral da Saúde e as autoridades máximas de saúde das Regiões Autónomas dos Açores e da Madeira.\n\n2 - Os acordos previstos no número anterior são homologados pelo Ministro da Saúde e pelos membros competentes dos Governos Regionais."
+  },
+  "5b690ece11d8aa81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Revogação\n\nSão revogados o n.º 5 do artigo 18.º do [Decreto-Lei n.º 335/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1993-651705), de 29 de Setembro, e o n.º 2, o n.º 3 e o n.º 4 do artigo 7.º do [Decreto-Lei n.º 336/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/336-1993-651701), de 29 de Setembro."
+  },
+  "5ea1b92da8d63f92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 27 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Maria de Belém Roseira Martins Coelho Henriques de Pina.\n\nPromulgado em 8 de Julho de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Julho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "746156faee09d412": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "fb6b55bf48af710d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 2.º — Definição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "babc34516476a4ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Serviços de saúde pública",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 3.º — Serviços de saúde pública\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "944bdb97319053d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Autoridade de saúde",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 4.º — Autoridade de saúde\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "183965350b5359ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Colaboração com instituições públicas e privadas",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 5.º — Colaboração com instituições públicas e privadas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "0e12a57a0e299b1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Centros regionais de saúde pública",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 6.º — Centros regionais de saúde pública\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "46e9eb80d4e8de1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Atribuições",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 7.º — Atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "8fcc52ab202c56e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Órgãos",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 8.º — Órgãos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "adf40c648bd14e68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Coordenador",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 9.º — Coordenador\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "7244ee1f68662f9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competência do coordenador",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 10.º — Competência do coordenador\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "02a4fd82f11b5834": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Conselho consultivo",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 11.º — Conselho consultivo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "498622371d369f39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Organização e funcionamento",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 12.º — Organização e funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "6193414dbcebf9c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Unidades de saúde pública",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 13.º — Unidades de saúde pública\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "215b11743cf591d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Atribuições",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 14.º — Atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "a606fc0e7a83e2f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Órgãos da unidade de saúde pública",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 15.º — Órgãos da unidade de saúde pública\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "13af4be7c457fb92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Coordenador",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 16.º — Coordenador\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "2776a5387608da30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competência do coordenador",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 17.º — Competência do coordenador\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "db68816489d70853": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Conselho técnico",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 18.º — Conselho técnico\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "e57ff7227f30e7de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Unidades operativas de saúde pública",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 19.º — Unidades operativas de saúde pública\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "785d2d4c63ff4cc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Princípio geral",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 20.º — Princípio geral\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "674b77673b472b67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Receitas",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 21.º — Receitas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "6c2e97793101ddcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Instalações e recursos",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 22.º — Instalações e recursos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "17214c0e29f2efb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Pessoal",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 23.º — Pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "17d8419c9600a31a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Transição de pessoal",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 25.º — Transição de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "7f463453b2da02c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Afectação de bens",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 26.º — Afectação de bens\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "790d824a4ef96387": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Serviços locais de saúde pública",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 27.º — Serviços locais de saúde pública\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "3c2260c699bab9d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Articulação com as Regiões Autónomas",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 28.º — Articulação com as Regiões Autónomas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "7a35f66e7d8bbb4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Revogação",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 29.º — Revogação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+  },
+  "723230d927decd33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": "2009-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02."
+   ],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 81/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2009-603228), publicado em 2009-04-02.\n\nVisto e aprovado em Conselho de Ministros de 27 de Maio de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Maria de Belém Roseira Martins Coelho Henriques de Pina.\n\nPromulgado em 8 de Julho de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Julho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

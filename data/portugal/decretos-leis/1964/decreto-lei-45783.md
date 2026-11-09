@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-03-18'
+version_history:
+  file: decreto-lei-45783.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-03-18'
+    amending: pt:dre:228802:por
+    amending_title: Decreto-Lei n.º 111/70
+    changes:
+    - Altera Artigo 17.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:49:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 111/70. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-45783.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,21 +120,33 @@ Torna-se necessário actualizar as disposições do [Decreto n.º 12393](https:/
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º As alterações ao Código de Justiça Militar para a sua aplicação nas províncias ultramarinas passam a ser as constantes dos artigos seguintes.
+###### Artigo 1.º
+
+As alterações ao Código de Justiça Militar para a sua aplicação nas províncias ultramarinas passam a ser as constantes dos artigos seguintes.
 
 § único. Os diplomas que introduziram modificações no código e os que tornaram tais modificações extensivas a essas mesmas províncias são também alterados na medida em que forem contrários às disposições deste decreto-lei ou aos princípios nele consignados.
 
-Art. 2.º Sempre que no código ou nalgum outro diploma haja referência a qualquer autoridade ou tribunal da metrópole, deve entender-se que a referência abrange a autoridade ou tribunal correspondente das províncias ultramarinas, ainda que tenha designação diferente.
+###### Artigo 2.º
 
-Art. 3.º Além do tribunal militar territorial na sede de cada uma das regiões militares, haverá nas províncias ultramarinas um tribunal idêntico na sede de cada um dos comandos territoriais independentes.
+Sempre que no código ou nalgum outro diploma haja referência a qualquer autoridade ou tribunal da metrópole, deve entender-se que a referência abrange a autoridade ou tribunal correspondente das províncias ultramarinas, ainda que tenha designação diferente.
+
+###### Artigo 3.º
+
+Além do tribunal militar territorial na sede de cada uma das regiões militares, haverá nas províncias ultramarinas um tribunal idêntico na sede de cada um dos comandos territoriais independentes.
 
 § único. Quando as circunstâncias o justificarem, o tribunal poderá decidir, oficiosamente ou a requerimento de qualquer das partes, que o julgamento se faça em localidade diferente da sede.
 
-Art. 4.º Nas listas organizadas para a nomeação dos juízes militares serão incluídos os capitães e, quando as circunstâncias o exigirem, podem ser intercalados oficiais da reserva.
+###### Artigo 4.º
 
-Art. 5.º Os oficiais que fizerem parte do tribunal devem residir na respectiva sede, salvo se o comandante da circunscrição militar a que o tribunal pertença, ocorrendo motivo justificado, os autorizar a residir em local próximo e de fáceis comunicações.
+Nas listas organizadas para a nomeação dos juízes militares serão incluídos os capitães e, quando as circunstâncias o exigirem, podem ser intercalados oficiais da reserva.
 
-Art. 6.º Da nomeação para os tribunais militares territoriais serão também excluídos:
+###### Artigo 5.º
+
+Os oficiais que fizerem parte do tribunal devem residir na respectiva sede, salvo se o comandante da circunscrição militar a que o tribunal pertença, ocorrendo motivo justificado, os autorizar a residir em local próximo e de fáceis comunicações.
+
+###### Artigo 6.º
+
+Da nomeação para os tribunais militares territoriais serão também excluídos:
 
 a) Os oficiais que desempenhem qualquer cargo nos mesmos tribunais;
 
@@ -129,15 +156,25 @@ c) Os oficiais que, dentro do quadrimestre, tenham de sair da província por hav
 
 § único. A exclusão por conveniência do serviço será feita em despacho fundamentado do comandante da circunscrição militar a que o tribunal pertencer.
 
-Art. 7.º Os juízes militares podem ser reconduzidos, findo o quadrimestre, quando imperiosas conveniências de serviço o aconselharem. A recondução pode ter lugar duas vezes e será feita em despacho fundamentado do comandante da circunscrição militar a que o tribunal pertencer.
+###### Artigo 7.º
 
-Art. 8.º Quando de todo se tornar impossível constituir o tribunal com oficiais da região ou do comando pertencentes a unidades, estabelecimentos ou repartições diferentes, podem ser nomeados dois oficiais da mesma unidade, estabelecimento ou repartição.
+Os juízes militares podem ser reconduzidos, findo o quadrimestre, quando imperiosas conveniências de serviço o aconselharem. A recondução pode ter lugar duas vezes e será feita em despacho fundamentado do comandante da circunscrição militar a que o tribunal pertencer.
 
-Art. 9.º Os juízes militares promovidos a postos que lhes permitam continuar no desempenho das funções podem, no entanto, ser substituídos por conveniência de serviço, em despacho fundamentado do comandante da circunscrição militar a que o tribunal pertencer.
+###### Artigo 8.º
 
-Art. 10.º Serão substituídos os juízes militares nomeados para expedição militar ou para o comando das tropas destinadas à manutenção da ordem pública em qualquer ponto da província ou fora dela.
+Quando de todo se tornar impossível constituir o tribunal com oficiais da região ou do comando pertencentes a unidades, estabelecimentos ou repartições diferentes, podem ser nomeados dois oficiais da mesma unidade, estabelecimento ou repartição.
 
-Art. 11.º Os tribunais militares territoriais serão normalmente constituídos, na parte que respeita aos juízes militares e para julgamento de acusados de posto não superior ao de capitão, por um tenente-coronel ou major e por um major ou capitão.
+###### Artigo 9.º
+
+Os juízes militares promovidos a postos que lhes permitam continuar no desempenho das funções podem, no entanto, ser substituídos por conveniência de serviço, em despacho fundamentado do comandante da circunscrição militar a que o tribunal pertencer.
+
+###### Artigo 10.º
+
+Serão substituídos os juízes militares nomeados para expedição militar ou para o comando das tropas destinadas à manutenção da ordem pública em qualquer ponto da província ou fora dela.
+
+###### Artigo 11.º
+
+Os tribunais militares territoriais serão normalmente constituídos, na parte que respeita aos juízes militares e para julgamento de acusados de posto não superior ao de capitão, por um tenente-coronel ou major e por um major ou capitão.
 
 Quando houver de ser julgado algum oficial com posto superior ao de capitão, o tribunl será, sòmente para esse efeito, modificado segundo a tabela seguinte, regulando-se em todo o caso as novas nomeações pela ordem de inscrição na lista a que se refere o artigo 4.º deste decreto-lei.
 
@@ -149,23 +186,39 @@ Quando houver de ser julgado algum oficial com posto superior ao de capitão, o 
 
 § 3.º Da mesma graduação do réu só os oficiais mais antigos podem entrar na composição do tribunal.
 
-Art. 12.º Não havendo na área da jurisdição dos tribunais militares oficiais em número suficiente para constituírem o tribunal, o Ministro do Exército providenciará fazendo nomear os que faltarem de entre os pertencentes à circunscrição judiciária militar mais próxima ou a qualquer outra quando nesta também os não houver.
+###### Artigo 12.º
+
+Não havendo na área da jurisdição dos tribunais militares oficiais em número suficiente para constituírem o tribunal, o Ministro do Exército providenciará fazendo nomear os que faltarem de entre os pertencentes à circunscrição judiciária militar mais próxima ou a qualquer outra quando nesta também os não houver.
 
 Nestas nomeações observar-se-á a ordem da inscrição nas competentes listas.
 
-Art. 13.º O tribunal será também constituído pela forma indicada na segunda parte do artigo 11.º quando tiver de julgar algum civil equiparado a oficial de posto superior a capitão.
+###### Artigo 13.º
 
-Art. 14.º Nos casos de substituição de juízes militares por impedimento temporário a nova nomeação poderá recair sobre oficial de posto diferente, desde que seja conforme ao determinado no artigo 11.º, e pode superiormente ordenar-se, em despacho fundamentado, que a substituição não cesse com o julgamento que lhe deu causa.
+O tribunal será também constituído pela forma indicada na segunda parte do artigo 11.º quando tiver de julgar algum civil equiparado a oficial de posto superior a capitão.
 
-Art. 15.º As funções de juiz auditor serão desempenhadas pelo juiz da comarca sede do tribunal militar territorial, ou pelo juiz do crime ou pelo da 1.ª vara, se nela os houver.
+###### Artigo 14.º
+
+Nos casos de substituição de juízes militares por impedimento temporário a nova nomeação poderá recair sobre oficial de posto diferente, desde que seja conforme ao determinado no artigo 11.º, e pode superiormente ordenar-se, em despacho fundamentado, que a substituição não cesse com o julgamento que lhe deu causa.
+
+###### Artigo 15.º
+
+As funções de juiz auditor serão desempenhadas pelo juiz da comarca sede do tribunal militar territorial, ou pelo juiz do crime ou pelo da 1.ª vara, se nela os houver.
 
 § único. Exceptuam-se os tribunais de Angola, Moçambique e Estado da Índia, que terão auditores privativos, nomeados pelo Ministro do Exército e escolhidos numa lista tríplice solicitada para esse fim ao Ministério do Ultramar.
 
-Art. 16.º Os auditores dos tribunais militares territoriais exercerão cumulativamente as funções de consultores jurídicos dos comandantes militares das províncias ultramarinas, cumprindo-lhes como tais dar o seu parecer fundamentado acerca de todos os assuntos não relativos a processos de justiça militar, mas que envolvam questões de direito, sempre que estes o determinem verbalmente ou por escrito.
+###### Artigo 16.º
 
-Art. 17.º Nas faltas e impedimentos do juiz auditor será este substituído, quando juiz da comarca, pelos seus substitutos licenciados em Direito; quando auditor privativo, pelo juiz da comarca sede do tribunal e seus substitutos nas condições indicadas.
+Os auditores dos tribunais militares territoriais exercerão cumulativamente as funções de consultores jurídicos dos comandantes militares das províncias ultramarinas, cumprindo-lhes como tais dar o seu parecer fundamentado acerca de todos os assuntos não relativos a processos de justiça militar, mas que envolvam questões de direito, sempre que estes o determinem verbalmente ou por escrito.
 
-Art. 18.º Os auditores dos tribunais militares gozarão de todas as regalias concedidas aos restantes membros do tribunal.
+###### Artigo 17.º
+
+Nas faltas e impedimentos do juiz auditor será este substituído, quando juiz da comarca, pelos seus substitutos licenciados em Direito; quando auditor privativo, pelo conservador dos registos da comarca sede do tribunal ou pelo conservador do registo predial nas comarcas de Luanda e Lourenço Marques, e, na falta deste, pelo seu substituto, nas condições anteriores.
+
+> Alterado pelo/a [Decreto-Lei n.º 111/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1970-228802), publicado em 1970-03-18.
+
+###### Artigo 18.º
+
+Os auditores dos tribunais militares gozarão de todas as regalias concedidas aos restantes membros do tribunal.
 
 § 1.º Os auditores privativos terão vencimentos iguais ao dos juízes de direito da comarca sede do tribunal militar.
 
@@ -173,27 +226,45 @@ Art. 18.º Os auditores dos tribunais militares gozarão de todas as regalias co
 
 § 3.º Aos auditores interinos nomeados nos termos do § 2.º do artigo 17.º caberá remuneração igual à do presidente do tribunal, a qual constitui encargo do respectivo orçamento militar.
 
-Art. 19.º Nos tribunais militares em que não haja auditor privativo poderão as funções de promotor e defensor oficioso ser também desempenhadas por oficiais subalternos.
+###### Artigo 19.º
 
-Art. 20.º O secretário dos tribunais militares territoriais em que não haja auditor privativo será um oficial subalterno, de preferência pertencente ao quadro do serviço geral do Exército.
+Nos tribunais militares em que não haja auditor privativo poderão as funções de promotor e defensor oficioso ser também desempenhadas por oficiais subalternos.
+
+###### Artigo 20.º
+
+O secretário dos tribunais militares territoriais em que não haja auditor privativo será um oficial subalterno, de preferência pertencente ao quadro do serviço geral do Exército.
 
 Nestes, como nos outros tribunais, o secretário será apenas coadjuvado pelo número de amanuenses fixado em despacho do Ministro do Exército, sob proposta do comandante da circunscrição militar a que o tribunal pertencer.
 
-Art. 21.º Os cargos dos tribunais militares territoriais ocupados por oficiais serão exercidos em regime de acumulação.
+###### Artigo 21.º
 
-Art. 22.º Quando o aumento de serviço o justifique, pode o Ministro do Exército determinar, em portaria, que todos ou alguns dos cargos, inclusivamente o de auditor, exercidos em regime de acumulação passem a ser exercidos temporária ou permanentemente por funcionários privativos.
+Os cargos dos tribunais militares territoriais ocupados por oficiais serão exercidos em regime de acumulação.
 
-Art. 23.º Os crimes cometidos por militares do Exército ou da Força Aérea em quaisquer navios que se dirijam a uma província ultramarina serão julgados no tribunal militar da sede dessa província.
+###### Artigo 22.º
 
-Art. 24.º É da competência dos tribunais militares territoriais o julgamento dos crimes contra a segurança interior ou exterior do Estado, com os recursos facultados pelo Código de Justiça Militar.
+Quando o aumento de serviço o justifique, pode o Ministro do Exército determinar, em portaria, que todos ou alguns dos cargos, inclusivamente o de auditor, exercidos em regime de acumulação passem a ser exercidos temporária ou permanentemente por funcionários privativos.
 
-Art. 25.º Quando, no decorrer de um auto de corpo de delito, aparecer envolvida a autoridade superior da província e esta for um militar, enviar-se-á imediatamente o auto ao Ministério, Secretaria de Estado ou Subsecretariado de Estado a que ele pertença, a fim de ser nomeado um oficial general para instrutor.
+###### Artigo 23.º
+
+Os crimes cometidos por militares do Exército ou da Força Aérea em quaisquer navios que se dirijam a uma província ultramarina serão julgados no tribunal militar da sede dessa província.
+
+###### Artigo 24.º
+
+É da competência dos tribunais militares territoriais o julgamento dos crimes contra a segurança interior ou exterior do Estado, com os recursos facultados pelo Código de Justiça Militar.
+
+###### Artigo 25.º
+
+Quando, no decorrer de um auto de corpo de delito, aparecer envolvida a autoridade superior da província e esta for um militar, enviar-se-á imediatamente o auto ao Ministério, Secretaria de Estado ou Subsecretariado de Estado a que ele pertença, a fim de ser nomeado um oficial general para instrutor.
 
 O processo continuará depois como se o arguido fosse oficial general.
 
-Art. 26.º Os militares a quem haja sido levantado auto de corpo de delito numa província ultramarina só podem vir à metrópole, enquanto estiver pendente o respectivo processo, no caso de perigar a sua vida ou por outro motivo igualmente grave.
+###### Artigo 26.º
 
-Art. 27.º São revogados todos os artigos do [Decreto n.º 12393](https://diariodarepublica.pt/dr/detalhe/decreto/12393-1926-158962), de 27 de Setembro de 1926, exceptuado o primeiro e na parte em que põe em vigor, com alterações, o Código de Justiça Militar nas províncias ultramarinas.
+Os militares a quem haja sido levantado auto de corpo de delito numa província ultramarina só podem vir à metrópole, enquanto estiver pendente o respectivo processo, no caso de perigar a sua vida ou por outro motivo igualmente grave.
+
+###### Artigo 27.º
+
+São revogados todos os artigos do [Decreto n.º 12393](https://diariodarepublica.pt/dr/detalhe/decreto/12393-1926-158962), de 27 de Setembro de 1926, exceptuado o primeiro e na parte em que põe em vigor, com alterações, o Código de Justiça Militar nas províncias ultramarinas.
 
 É revogado o [Decreto-Lei n.º 39319](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39319-1953-639704), de 17 de Agosto de 1953.
 

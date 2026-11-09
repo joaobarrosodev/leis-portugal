@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-11-18'
+version_history:
+  file: portaria-286-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-06-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-11-18'
+    amending: pt:dre:689411:por
+    amending_title: Portaria n.º 1339/95
+    changes:
+    - Revoga Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:54:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1339/95. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-286-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,23 +156,33 @@ Sendo conveniente actualizar o modelo de cartões de identificação criado pelo
 
 Manda o Governo da República Portuguesa, pelo Ministro da Administração Interna, ao abrigo do disposto no artigo 1.º do [Decreto-Lei n.º 68/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1979-383000), de 30 de Março:
 
-Artigo 1.º - 1 - As entidades particulares, individuais ou colectivas, só podem emitir ou mandar imprimir cartões destinados a provar a identidade de qualquer pessoa se, previamente, tiverem obtido do Ministério da Administração Interna o registo e a aprovação dos respectivos modelos.
+###### Artigo 1.º
+
+1 - As entidades particulares, individuais ou colectivas, só podem emitir ou mandar imprimir cartões destinados a provar a identidade de qualquer pessoa se, previamente, tiverem obtido do Ministério da Administração Interna o registo e a aprovação dos respectivos modelos.
 
 2 - Em hipótese alguma serão aprovados modelos de cartões que possam, pela sua disposição, tarja ou dizeres, confundir-se com os que são emitidos pelos serviços do Estado.
 
-Art. 2.º - 1 - É criado um tipo de cartão de identidade, conforme o modelo A, anexo a esta portaria, para uso das associações de instrução, cultura, recreio, educação física e similares que desejem adoptá-lo.
+###### Artigo 2.º
+
+1 - É criado um tipo de cartão de identidade, conforme o modelo A, anexo a esta portaria, para uso das associações de instrução, cultura, recreio, educação física e similares que desejem adoptá-lo.
 
 2 - A emissão e uso de cartões do modelo A não carece de aprovação ministerial, mas de simples registo, requerido ao secretário-geral do Ministério da Administração Interna.
 
-Art. 3.º - 1 - O registo dos tipos de cartões referidos nos artigos anteriores será mandado publicar no Diário da República, 3.ª série, a expensas do requerente, que satisfará directamente na Imprensa Nacional-Casa da Moeda o custo da publicação.
+###### Artigo 3.º
+
+1 - O registo dos tipos de cartões referidos nos artigos anteriores será mandado publicar no Diário da República, 3.ª série, a expensas do requerente, que satisfará directamente na Imprensa Nacional-Casa da Moeda o custo da publicação.
 
 2 - A Secretaria-Geral do Ministério da Administração Interna organizará um arquivo de todos os modelos de cartões registados.
 
-Art. 4.º - 1 - É igualmente criado o modelo B, anexo a esta portaria, para uso dos bombeiros municipais e voluntários do País, que constituirá exclusivo da Imprensa Nacional-Casa da Moeda e será passado pelos inspectores de incêndios das respectivas zonas.
+###### Artigo 4.º
 
-2 - A não restituição destes cartões, terminada a razão do seu uso ou a sua exibição ilegítima, será punida com multa de 2500$00, aplicável por simples despacho do governador civil do respectivo distrito.
+(Revogado.)
 
-Art. 5.º - 1 - É ainda criado o modelo C, anexo a este diploma, para uso exclusivo dos empregados da Electricidade de Portugal, E. P., da Empresa Pública das Águas de Lisboa, dos Correios e Telecomunicações de Portugal e de outras empresas semelhantes que, no desempenho dos seus serviços de fiscalização, cobrança e outros, carecem de entrar na residência dos cidadãos e outros recintos privados.
+> Revogado pelo/a [Portaria n.º 1339/95](https://diariodarepublica.pt/dr/detalhe/portaria/1339-1995-689411), publicado em 1995-11-13.
+
+###### Artigo 5.º
+
+1 - É ainda criado o modelo C, anexo a este diploma, para uso exclusivo dos empregados da Electricidade de Portugal, E. P., da Empresa Pública das Águas de Lisboa, dos Correios e Telecomunicações de Portugal e de outras empresas semelhantes que, no desempenho dos seus serviços de fiscalização, cobrança e outros, carecem de entrar na residência dos cidadãos e outros recintos privados.
 
 2 - Estes cartões, emitidos pelas empresas interessadas, só terão validade quando visados pelo secretário do governo civil, que lhes aporá a sua assinatura, autenticada com o respectivo selo branco, e os fará também registar em livro próprio.
 
@@ -167,7 +192,9 @@ Art. 5.º - 1 - É ainda criado o modelo C, anexo a este diploma, para uso exclu
 
 5 - Incorrem também na multa de 2500$00, aplicável por simples despacho do governador civil, as empresas que não cassarem os cartões ou deixarem de comunicar o seu extravio, nos termos do n.º 3 deste artigo.
 
-Art. 6.º - 1 - Todas as entidades que emitam cartões de identidade são obrigadas a organizar e a manter permanentemente actualizado o registo, em livro próprio ou ficheiro, dos cartões expedidos.
+###### Artigo 6.º
+
+1 - Todas as entidades que emitam cartões de identidade são obrigadas a organizar e a manter permanentemente actualizado o registo, em livro próprio ou ficheiro, dos cartões expedidos.
 
 2 - Do registo deverá constar o nome do interessado, data do nascimento, estado civil e demais elementos de identificação julgados convenientes.
 
@@ -175,15 +202,25 @@ Art. 6.º - 1 - Todas as entidades que emitam cartões de identidade são obriga
 
 4 - As multas a que se refere o número anterior são aplicáveis por despacho do secretário-geral do MAI, excepto as que respeitam ao livro de registo ou ficheiro dos cartões referidos no artigo 3.º, que serão da competência do governador civil.
 
-Art. 7.º As multas referidas nos artigos anteriores reverterão para os cofres do Estado.
+###### Artigo 7.º
 
-Art. 8.º A fiscalização do cumprimento desta portaria incumbe a todas as autoridades, que deverão apreender os cartões que não obedeçam às normas legais, independentemente da responsabilidade criminal e disciplinar.
+As multas referidas nos artigos anteriores reverterão para os cofres do Estado.
 
-Art. 9.º Os cartões de modelos registados até à entrada em vigor desta portaria poderão continuar a ser emitidos e usados.
+###### Artigo 8.º
 
-Art. 10.º As remissões para o n.º 5 da [Portaria n.º 10903](https://diariodarepublica.pt/dr/detalhe/portaria/10903-1945-613196), de 24 de Maio de 1945, alterado pela [Portaria n.º 13148](https://diariodarepublica.pt/dr/detalhe/portaria/13148-1950-658208), de 8 de Maio de 1950, feitas em quaisquer outras portarias passam a entender-se como referidas ao artigo 6.º deste diploma.
+A fiscalização do cumprimento desta portaria incumbe a todas as autoridades, que deverão apreender os cartões que não obedeçam às normas legais, independentemente da responsabilidade criminal e disciplinar.
 
-Art. 11.º São revogadas as Portarias n.º 10779, de 24 de Novembro de 1944, n.º 10903, de 24 de Março de 1945, n.º 13148, de 8 de Maio de 1950, e n.º 291/72, de 24 de Maio, e ainda os n.os 2, 3 e 4 da [Portaria n.º 10904](https://diariodarepublica.pt/dr/detalhe/portaria/10904-1945-613197), de 24 de Março de 1945.
+###### Artigo 9.º
+
+Os cartões de modelos registados até à entrada em vigor desta portaria poderão continuar a ser emitidos e usados.
+
+###### Artigo 10.º
+
+As remissões para o n.º 5 da [Portaria n.º 10903](https://diariodarepublica.pt/dr/detalhe/portaria/10903-1945-613196), de 24 de Maio de 1945, alterado pela [Portaria n.º 13148](https://diariodarepublica.pt/dr/detalhe/portaria/13148-1950-658208), de 8 de Maio de 1950, feitas em quaisquer outras portarias passam a entender-se como referidas ao artigo 6.º deste diploma.
+
+###### Artigo 11.º
+
+São revogadas as Portarias n.º 10779, de 24 de Novembro de 1944, n.º 10903, de 24 de Março de 1945, n.º 13148, de 8 de Maio de 1950, e n.º 291/72, de 24 de Maio, e ainda os n.os 2, 3 e 4 da [Portaria n.º 10904](https://diariodarepublica.pt/dr/detalhe/portaria/10904-1945-613197), de 24 de Março de 1945.
 
 Ministério da Administração Interna, 26 de Abril de 1979. - O Ministro da Administração Interna, António Gonçalves Ribeiro.
 

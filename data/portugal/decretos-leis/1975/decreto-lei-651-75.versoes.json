@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:310414:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1975-11-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2960a29b07f0cc58"
+   ]
+  },
+  {
+   "date": "1976-06-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:305375:por",
+     "title": "Decreto-Lei n.º 462-A/76",
+     "published": "1976-06-09",
+     "dre_path": "/dr/detalhe/decreto-lei/462-a-1976-305375"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "07300cd71245ab51",
+    "9c45df36da91b2eb",
+    "91627b0862548b6c",
+    "642e7323c7a90e0e"
+   ]
+  }
+ ],
+ "fragments": {
+  "2960a29b07f0cc58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Novembro\n\nConsiderando a premente necessidade de serem adoptadas medidas urgentes e eficazes contra a detenção, posse e uso de material considerado de guerra;\n\nConsiderando o disposto no n.º 9 do artigo 1.º da [Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/lei/3-1975-175813), de 19 de Fevereiro;\n\nNestes termos:\n\nUsando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º O artigo 6.º do [Decreto-Lei n.º 207-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-a-1975-146881), de 17 de Abril, passa a ter a seguinte redacção:\n\nO conhecimento das infracções previstas neste diploma pertence ao foro militar, excepto quando se trate de infracções respeitantes a armas das referidas no n.º 1 do artigo 1.º que não tenham conexão com crimes sujeitos ao foro militar.\n\nArt. 2.º Os agentes das infracções previstas no [Decreto-Lei n.º 207-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-a-1975-146881), de 17 de Abril, quando detidos em flagrante delito, continuarão nessa situação até julgamento.\n\nArt. 3.º Este diploma entra imediatamente em vigor.\n\nVisto e aprovado em Conselho da Revolução.\n\nPromulgado em 31 de Outubro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "07300cd71245ab51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de Novembro\n\nConsiderando a premente necessidade de serem adoptadas medidas urgentes e eficazes contra a detenção, posse e uso de material considerado de guerra;\n\nConsiderando o disposto no n.º 9 do artigo 1.º da [Lei n.º 3/75](https://diariodarepublica.pt/dr/detalhe/lei/3-1975-175813), de 19 de Fevereiro;\n\nNestes termos:\n\nUsando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "9c45df36da91b2eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO artigo 6.º do [Decreto-Lei n.º 207-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-a-1975-146881), de 17 de Abril, passa a ter a seguinte redacção:\n\nO conhecimento das infracções previstas neste diploma pertence ao foro militar, excepto quando se trate de infracções respeitantes a armas das referidas no n.º 1 do artigo 1.º que não tenham conexão com crimes sujeitos ao foro militar."
+  },
+  "91627b0862548b6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1976-06-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 462-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/462-a-1976-305375), publicado em 1976-06-09."
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs agentes das infracções previstas no [Decreto-Lei n.º 207-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-a-1975-146881), de 17 de Abril, quando detidos em flagrante delito, continuarão nessa situação até ao final do julgamento, salvo quando:\n\na) Por confissão espontânea ou por qualquer outro modo, tenham contribuído para a descoberta e apreensão das armas;\n\nb) Sejam meros portadores ou simples detentores, sem terem feito ou esboçado a intenção de deles fazerem uso proibido, de armas brancas ou outros instrumentos que, embora susceptíveis de ser usados como arma de agressão, possam, pelo seu formato e dimensões, ser considerados de porte frequente.\n\n> Alterado pelo/a [Decreto-Lei n.º 462-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/462-a-1976-305375), publicado em 1976-06-09."
+  },
+  "642e7323c7a90e0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEste diploma entra imediatamente em vigor.\n\nVisto e aprovado em Conselho da Revolução.\n\nPromulgado em 31 de Outubro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}

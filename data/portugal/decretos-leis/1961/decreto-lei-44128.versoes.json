@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:184543:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1961-12-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "73d745616cccdf27"
+   ]
+  },
+  {
+   "date": "1980-02-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:678834:por",
+     "title": "Decreto-Lei n.º 27/80",
+     "published": "1980-02-29",
+     "dre_path": "/dr/detalhe/decreto-lei/27-1980-678834"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "ee6f62fd3ea6c5e9",
+    "524ffb44ea8d92cf",
+    "53bfcf2596a685cc",
+    "494f0cde0bbc4bca",
+    "3017b95906e1a0cb",
+    "6f23db8d3ec04f37"
+   ]
+  }
+ ],
+ "fragments": {
+  "73d745616cccdf27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Certas disposições legais relativas às noções ligadas ao nascimento dos seres humanos encontram-se hoje bastante desajustadas dos modernos conceitos sanitários.\n\nAlém de o facto representar um atraso técnico fàcilmente corrigível, tal situação agrava, por uma simples diferença de critério de classificação, a situação portuguesa nas estatísticas obituárias internacionais, designadamente pelo que respeita aos índices de morte fetal, conceito que substitui ali o de mortinatalidade, ainda usado entre nós e que lhe não corresponde inteiramente.\n\nOs serviços competentes do Ministério da Saúde e Assistência têm seguido o assunto com a devida atenção. E daí que tenha parecido oportuno adoptar os conceitos formulados pela Subcomissão para Definição da Mortinatalidade e do Abortamento, instituída pela Comissão de Peritos de Estatísticas Sanitárias da Organização Mundial de Saúde em 1950, e já hoje seguidos por grande número de países.\n\nNeste sentido se pronunciaram também o Instituto Nacional de Estatística, a Comissão de Estatísticas Demográfico-Sanitárias, o Instituto de Medicina Legal de Lisboa e a Ordem dos Médicos, além da Sociedade Portuguesa de Pediatria, que na matéria tem, aliás, marcado desde o início destacada posição.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Para efeitos estatísticos, a duração da gravidez será classificada nos seguintes grupos:\n\n1.º grupo: menos de 20 semanas completas;\n\n2.º grupo: de 20 semanas a menos de 28 semanas completas;\n\n3.º grupo: 28 semanas ou superior;\n\n4.º grupo: duração desconhecida.\n\n§ único. A duração da gravidez é contada desde o primeiro dia do último cataménio até ao dia do nascimento.\n\nArt. 2.º Considera-se nascimento de criança viva a expulsão ou extracção completa, relativamente ao corpo materno e independentemente da duração da gravidez, do produto da fecundação que, após esta separação, respire ou manifeste quaisquer outros sinais de vida, tais como pulsações do coração ou do cordão umbilical ou contracção efectiva de qualquer músculo sujeito à acção da vontade, quer o cordão umbilical tenha sido cortado, quer não, e quer a placenta esteja ou não retida.\n\n§ único. O produto do nascimento ocorrido nestas condições denomina-se nado vivo.\n\nArt. 3.º Designar-se-ão por prematuros os nado vivos cujo nascimento se verifique com menos de 37 semanas de gravidez provável ou que pesem ao nascer 2,5 kg ou menos.\n\nArt. 4.º Sempre que se produza antes do nascimento, a morte do produto da fecundação será designada por morte fetal.\n\n§ único. A morte fetal, com relação à duração da gravidez, poderá ser:\n\na) Precoce, se a gravidez pertencer ao 1.º grupo;\n\nb) Intermédia, se pertencer ao 2.º;\n\nc) Tardia, caso se classifique no 3.º\n\nArt. 5.º Para todos os efeitos legais, são ùnicamente de adoptar os conceitos e designação técnica constantes deste decreto-lei.\n\n§ único. A anterior designação de abortamento corresponde às actuais designações de morte fetal precoce ou intermédia, consoante a duração de gravidez; e as de mortinatalidade ou de nado morto, respectivamente à de morte fetal tardia ou de feto que a sofreu.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 28 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "ee6f62fd3ea6c5e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Certas disposições legais relativas às noções ligadas ao nascimento dos seres humanos encontram-se hoje bastante desajustadas dos modernos conceitos sanitários.\n\nAlém de o facto representar um atraso técnico fàcilmente corrigível, tal situação agrava, por uma simples diferença de critério de classificação, a situação portuguesa nas estatísticas obituárias internacionais, designadamente pelo que respeita aos índices de morte fetal, conceito que substitui ali o de mortinatalidade, ainda usado entre nós e que lhe não corresponde inteiramente.\n\nOs serviços competentes do Ministério da Saúde e Assistência têm seguido o assunto com a devida atenção. E daí que tenha parecido oportuno adoptar os conceitos formulados pela Subcomissão para Definição da Mortinatalidade e do Abortamento, instituída pela Comissão de Peritos de Estatísticas Sanitárias da Organização Mundial de Saúde em 1950, e já hoje seguidos por grande número de países.\n\nNeste sentido se pronunciaram também o Instituto Nacional de Estatística, a Comissão de Estatísticas Demográfico-Sanitárias, o Instituto de Medicina Legal de Lisboa e a Ordem dos Médicos, além da Sociedade Portuguesa de Pediatria, que na matéria tem, aliás, marcado desde o início destacada posição.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "524ffb44ea8d92cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1980-02-29",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29."
+   ],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos estatísticos, a duração da gestação, que se designa por idade gestacional, será classificada nos seguintes grupos:\n\n1.º grupo: menos de vinte e duas semanas completas;\n\n2.º grupo: de vinte e duas semanas a menos de vinte e oito semanas completas;\n\n3.º grupo: vinte e oito semanas completas ou mais;\n\n4.º grupo: duração desconhecida.\n\n§ único. A idade gestacional é expressa em dias ou semanas completas e é calculada a partir do primeiro dia do último período menstrual normal.\n\n> Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29."
+  },
+  "53bfcf2596a685cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nConsidera-se nascimento de criança viva a expulsão ou extracção completa, relativamente ao corpo materno e independentemente da duração da gravidez, do produto da fecundação que, após esta separação, respire ou manifeste quaisquer outros sinais de vida, tais como pulsações do coração ou do cordão umbilical ou contracção efectiva de qualquer músculo sujeito à acção da vontade, quer o cordão umbilical tenha sido cortado, quer não, e quer a placenta esteja ou não retida.\n\n§ único. O produto do nascimento ocorrido nestas condições denomina-se nado vivo."
+  },
+  "494f0cde0bbc4bca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1980-02-29",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Segundo a duração da gestação, é de pré-termo o nascimento que ocorra antes de trinta e sete semanas completas de gestação; é de termo o que ocorre entre trinta e sete semanas e quarenta e uma semanas e seis dias de gestação; é de pós-termo o que ocorre com quarenta e duas semanas completas ou mais de gestação.\n\n2 - Segundo o peso ao nascer, é de baixo peso o feto ou recém-nascido cuja primeira medida de peso seja inferior a 2500 g.\n\n§ único. A primeira medida de peso deverá ser feita, de preferência, na primeira hora de vida, antes que ocorra uma significativa perda de peso pós-natal.\n\n> Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29."
+  },
+  "3017b95906e1a0cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1980-02-29",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29."
+   ],
+   "markdown": "###### Artigo 4.º\n\nSempre que se produza antes do nascimento, a morte do produto da fecundação será designada por morte fetal.\n\n§ único. A morte fetal, com relação à duração da gestação, poderá ser:\n\na) Precoce, se a gestação pertencer ao 1.º grupo;\n\nb) Intermédia, se pertencer ao 2.º;\n\nc) Tardia, caso se classifique no 3.º\n\n> Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29."
+  },
+  "6f23db8d3ec04f37": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1980-02-29",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29."
+   ],
+   "markdown": "###### Artigo 5.º\n\nPara todos os efeitos legais, são ùnicamente de adoptar os conceitos e designação técnica constantes deste decreto-lei.\n\n§ único. A anterior designação de abortamento corresponde à actual designação de morte fetal precoce. A anterior designação de mortinatalidade, à de morte fetal intermédia ou tardia; e a de nado-morto, à de feto morto.\n\n> Alterado pelo/a [Decreto-Lei n.º 27/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-1980-678834), publicado em 1980-02-29.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 28 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

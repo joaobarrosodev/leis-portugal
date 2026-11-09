@@ -1,0 +1,586 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:373594:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1988-05-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5439ba49c755fbe0",
+    "c6e73cf483d3ac12",
+    "9d825e43f359ae06",
+    "1aa43fe71f8babcb",
+    "8615a081407e0ef3",
+    "782a82916335f8cf",
+    "60f10cd6289abf42",
+    "45ea63f5b321c752",
+    "da693fc3f039d1f0",
+    "a385ba8829353ead",
+    "5eebccbbf7e1fa32",
+    "709166ac3ca064f9",
+    "fe2dc03fd9801fbe",
+    "21af674241ba2221",
+    "0dbc1349fb6f96e2",
+    "6a32949cab7b01cc",
+    "b69117cd8d6f7791",
+    "a7b4e678aeff7bb3",
+    "aea21e82a8032bb9",
+    "e35bacad8cba1cf9",
+    "c3222a993efe8db6",
+    "81468575c8ea97ed",
+    "e615e378ab3b7edf",
+    "d88ed82b61b5306f",
+    "6b4baabb139f0c3b",
+    "1c5b890c41f82b93",
+    "e587713b9ad6b092",
+    "b7334a580c704807",
+    "fa9bb82071604457",
+    "d7751dfeb352be51",
+    "9d6c229386233324",
+    "51a2226441f20846",
+    "6026a088bd774795",
+    "2f61cdff997504fa",
+    "aeaea2ea4bc720b8",
+    "8ceba2e06ac9149a",
+    "4550d502fb70ab0b",
+    "b9c4b892da29a97c",
+    "248357c7479cddb5",
+    "a32576f990fbe5a9",
+    "886cff2269d9d5b1",
+    "3174a88460bd59d3",
+    "c59d0973d9e92bef",
+    "0a4451df6cb7d9c7",
+    "0500b2d7fb2d6f1a",
+    "442bb700d0ade88c",
+    "9052850554412a86",
+    "b33827824ef7b29f",
+    "a45ab95f8f191b92",
+    "6efde53dc8e87798",
+    "c7bd5582844dff4b",
+    "5c978933987b2e5f",
+    "9b01abd690581814",
+    "e7e2918e1334ccf9"
+   ]
+  },
+  {
+   "date": "1989-02-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:612416:por",
+     "title": "Decreto-Lei n.º 58/89",
+     "published": "1989-02-22",
+     "dre_path": "/dr/detalhe/decreto-lei/58-1989-612416"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 38.º"
+   ],
+   "fragments": [
+    "5439ba49c755fbe0",
+    "c6e73cf483d3ac12",
+    "9d825e43f359ae06",
+    "1aa43fe71f8babcb",
+    "8615a081407e0ef3",
+    "782a82916335f8cf",
+    "60f10cd6289abf42",
+    "45ea63f5b321c752",
+    "da693fc3f039d1f0",
+    "a385ba8829353ead",
+    "5eebccbbf7e1fa32",
+    "709166ac3ca064f9",
+    "fe2dc03fd9801fbe",
+    "21af674241ba2221",
+    "0dbc1349fb6f96e2",
+    "6a32949cab7b01cc",
+    "b69117cd8d6f7791",
+    "a7b4e678aeff7bb3",
+    "aea21e82a8032bb9",
+    "e35bacad8cba1cf9",
+    "c3222a993efe8db6",
+    "81468575c8ea97ed",
+    "e615e378ab3b7edf",
+    "d88ed82b61b5306f",
+    "6b4baabb139f0c3b",
+    "1c5b890c41f82b93",
+    "e587713b9ad6b092",
+    "b7334a580c704807",
+    "fa9bb82071604457",
+    "d7751dfeb352be51",
+    "9d6c229386233324",
+    "51a2226441f20846",
+    "6026a088bd774795",
+    "2f61cdff997504fa",
+    "aeaea2ea4bc720b8",
+    "8ceba2e06ac9149a",
+    "4550d502fb70ab0b",
+    "b9c4b892da29a97c",
+    "248357c7479cddb5",
+    "a32576f990fbe5a9",
+    "886cff2269d9d5b1",
+    "3174a88460bd59d3",
+    "c59d0973d9e92bef",
+    "0a4451df6cb7d9c7",
+    "0500b2d7fb2d6f1a",
+    "442bb700d0ade88c",
+    "9052850554412a86",
+    "b33827824ef7b29f",
+    "a45ab95f8f191b92",
+    "6efde53dc8e87798",
+    "c7bd5582844dff4b",
+    "5c978933987b2e5f",
+    "f351dbdb5636074d",
+    "e7e2918e1334ccf9"
+   ]
+  }
+ ],
+ "fragments": {
+  "5439ba49c755fbe0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Maio\n\nNo âmbito das Comunidades Europeias, a grave crise sofrida pelos sectores do carvão e do aço de vários países membros levou à criação de medidas determinantes da respectiva modernização e reestruturação, tendo em vista a obtenção de adequados níveis de produtividade, bem como a racionalização das ajudas ao sector.\n\nNa sequência do Tratado de Adesão, Portugal ficou inserido nesta política de reestruturação, a qual implica mudança das configurações tecnológicas e organizativas das empresas.\n\nNa linha de modernização preconizada, terá de proceder-se à modificação dos processos de fabrico, ao encerramento de instalações obsoletas, à simplificação de tarefas, à introdução de novas tecnologias e métodos de organização interna, que conduzirão à extinção de alguns postos de trabalho.\n\nEntendendo-se que as medidas de reestruturação que tenham de ser adoptadas devem ser acompanhadas de adequada protecção social aos trabalhadores, de modo que das mesmas não resultem graves situações de desprotecção e carência sociais, foram definidos esquemas especiais de apoio e celebrada uma Convenção entre o Governo Português e a Comissão das Comunidades Europeias, aprovada pelo Decreto do Governo n.º 8/88, de 2 de Maio.\n\nA referida Convenção fixa as regras e condições da atribuição dos auxílios previstos na alínea b) do n.º 2 do artigo 56.º do Tratado de Paris, constitutivo da Comunidade Europeia do Carvão e do Aço (CECA), competindo à ordem jurídica interna o desenvolvimento dos respectivos princípios, tendo em vista a sua execução e coordenação com a legislação portuguesa respeitante aos sectores intervenientes.\n\nNeste âmbito, salienta-se a importância prioritária atribuída à política de emprego, embora tal importância não se traduza numa manutenção fictícia de postos de trabalho, desprovidos de significado económico, mas sim na criação de condições que viabilizem o aparecimento de novos empregos produtivos e remuneradores.\n\nDo mesmo modo, releva a necessidade de se proceder à reconversão profissional dos trabalhadores cujos postos de trabalho sejam extintos ou modificados, fornecendo-lhes os meios de formação indispensáveis ao desempenho de novas tarefas decorrentes das reestruturações tecnológicas introduzidas.\n\nFinalmente, introduzem-se mecanismos excepcionais de protecção social dos trabalhadores, designadamente no domínio dos subsídios de desemprego, das pré-reformas e das reformas antecipadas.\n\nEm cumprimento dos dispositivos legais aplicáveis, foram ouvidas as estruturas representativas dos trabalhadores do sector, assim como as respectivas entidades patronais, públicas e privadas.\n\nNestes termos, face ao interesse de fazer acompanhar as acções desenvolvidas e cujos encargos são assumidos pelo Estado Português, pelos apoios financeiros possibilitados pela assinatura da Convenção Bilateral CECA, maximizando as ajudas financeiras comunitárias e nacionais, dada a importância económica dos sectores do carvão e do aço, impõe-se a presente iniciativa legislativa.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "c6e73cf483d3ac12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Das disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Das disposições gerais"
+  },
+  "9d825e43f359ae06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Legislação aplicável\n\nAs acções de apoio aos sectores do carvão e do aço são aplicáveis ao abrigo do disposto na Convenção celebrada entre o Governo Português e a Comissão das Comunidades Europeias, no âmbito da alínea b) do n.º 2 do artigo 56.º do [Tratado CECA](https://diariodarepublica.pt/application/external/ceca), aprovada pelo Decreto do Governo n.º 8/88, de 2 de Maio, e nos termos estabelecidos no presente diploma."
+  },
+  "1aa43fe71f8babcb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Medidas de protecção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Medidas de protecção social\n\nNo âmbito das acções referidas no artigo 1.º estão compreendidas as seguintes medidas especiais de protecção social:\n\na) Indemnizações ou compensações;\n\nb) Subsídios de desemprego;\n\nc) Apoios à criação do próprio emprego;\n\nd) Prestações de pré-reforma;\n\ne) Indemnizações por diferenças de salário;\n\nf) Auxílios de mobilidade geográfico;\n\ng) Auxílios de formação profissional;\n\nh) Reformas antecipadas."
+  },
+  "8615a081407e0ef3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito pessoal\n\n1 - As medidas de apoio aplicáveis nos termos deste diploma abrangem os trabalhadores cujos contratos de trabalho tenham cessado por despedimento colectivo ou por mútuo acordo, no âmbito dos processos de reestruturação de empresas dos sectores económicos do carvão e do aço.\n\n2 - Podem também ser abrangidos pelas medidas de apoio, nos termos prescritos, os trabalhadores cujos contratos de trabalho tenham sido suspensos, bem como aqueles cujo período de trabalho tenha sido reduzido."
+  },
+  "782a82916335f8cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Entidades intervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidades intervenientes\n\nNa execução do programa de acções de apoio intervêm, no âmbito das respectivas atribuições, o Instituto do Emprego e Formação Profissional, as instituições de segurança social e as empresas."
+  },
+  "60f10cd6289abf42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Salário de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Salário de referência\n\nPara os efeitos estabelecidos neste diploma entende-se por salário de referência a média das remunerações ilíquidas dos trabalhadores nos últimos seis meses anteriores à data da cessação dos respectivos contratos."
+  },
+  "45ea63f5b321c752": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Revalorização do salário de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Revalorização do salário de referência\n\nO salário de referência previsto no artigo anterior é revalorizado anualmente, de acordo com a taxa correspondente à actualização da remuneração mínima nacional garantida à generalidade dos trabalhadores."
+  },
+  "da693fc3f039d1f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Das medidas de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Das medidas de protecção"
+  },
+  "a385ba8829353ead": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Das indemnizações e compensações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Das indemnizações e compensações"
+  },
+  "5eebccbbf7e1fa32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Princípio geral\n\nA indemnização a que se refere o artigo 3.º da Convenção corresponde à indemnização devida aos trabalhadores em virtude da cessação do seu contrato de trabalho por despedimento colectivo, bem como a compensação financeira que, eventualmente, resulte da cessação por mútuo acordo."
+  },
+  "709166ac3ca064f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Montantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Montantes\n\n1 - Os montantes das indemnizações são estabelecidos nos termos das normas legais vigentes em matéria da cessação do contrato de trabalho.\n\n2 - Os montantes das compensações financeiras são estabelecidos por mútuo acordo das partes."
+  },
+  "fe2dc03fd9801fbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Das compensações salariais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Das compensações salariais"
+  },
+  "21af674241ba2221": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Dos subsídios de desemprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Dos subsídios de desemprego"
+  },
+  "0dbc1349fb6f96e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Trabalhadores abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Trabalhadores abrangidos\n\n1 - Aos trabalhadores de idade inferior a 55 anos cujos contratos de trabalho tenham cessado e se encontrem em situação de desemprego é garantido o direito ao subsídio de desemprego, independentemente da duração do período de trabalho e da respectiva carreira contributiva no regime geral de segurança social.\n\n2 - O direito ao subsídio de desemprego definido na presente subsecção é também garantido aos trabalhadores com idade igual ou superior a 55 anos que tenham usado a faculdade de opção prevista no n.º 5 do artigo 7.º da Convenção."
+  },
+  "6a32949cab7b01cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Disposições subsidiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposições subsidiárias\n\nO subsídio de desemprego a atribuir nos termos do artigo anterior rege-se pelas disposições do capítulo I do Decreto-Lei n.º 20/85, de 17 de Janeiro, em tudo o que não contrarie as regras especialmente estabelecidas nesta subsecção."
+  },
+  "b69117cd8d6f7791": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Período de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Período de concessão\n\n1 - O período de concessão do subsídio de desemprego é de 24 meses contados a partir do mês seguinte ao da data da cessação do contrato de trabalho.\n\n2 - O disposto no número anterior não prejudica a concessão do subsídio por um período mais alargado a que o trabalhador tenha direito nos termos do n.º 3 do artigo 10.º do Decreto-Lei n.º 20/85, de 17 de Janeiro."
+  },
+  "a7b4e678aeff7bb3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Dos subsídios de criação do próprio emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Dos subsídios de criação do próprio emprego"
+  },
+  "aea21e82a8032bb9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Trabalhadores abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Trabalhadores abrangidos\n\nAos trabalhadores que criem o seu próprio emprego é concedido um subsídio, não reembolsável, até um montante equivalente ao apoio CECA referido no n.º 2 do artigo 6.º da Convenção, desde que apresentem um projecto que seja considerado viável pelo Instituto do Emprego e Formação Profissional."
+  },
+  "e35bacad8cba1cf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Projectos de trabalhadores associados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Projectos de trabalhadores associados\n\nNos projectos de criação do próprio emprego que forem apresentados conjuntamente por trabalhadores de empresas CECA e pessoas estranhas a este sector apenas os primeiros beneficiam do subsídio previsto no artigo anterior, aplicando-se aos restantes a legislação nacional vigente no âmbito da criação de iniciativas locais de emprego."
+  },
+  "c3222a993efe8db6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Estudo dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Estudo dos projectos\n\nOs estudos necessários à elaboração dos projectos de criação do próprio emprego são igualmente objecto de comparticipação, mas o montante dessa comparticipação não pode ultrapassar o valor previsto no n.º 4 do artigo 6.º da Convenção."
+  },
+  "81468575c8ea97ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Incumprimento\n\nO não cumprimento das normas que regem a concessão dos apoios às iniciativas locais da criação de emprego determina a aplicação da legislação prevista neste âmbito."
+  },
+  "e615e378ab3b7edf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Da pré-reforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Da pré-reforma"
+  },
+  "d88ed82b61b5306f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Trabalhadores abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Trabalhadores abrangidos\n\nAos trabalhadores de idade igual ou superior a 55 anos cujos contratos de trabalho tenham cessado é garantido o direito a uma prestação de pré-reforma."
+  },
+  "6b4baabb139f0c3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Período de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Período de concessão\n\nO período de concessão da pré-reforma é de 24 meses contados a partir do mês seguinte ao da data da cessação dos contratos de trabalho."
+  },
+  "1c5b890c41f82b93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Montante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Montante\n\nO montante da pré-reforma é fixado em 60% do salário de referência."
+  },
+  "e587713b9ad6b092": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Incidência contributiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Incidência contributiva\n\nNas situações de pré-reforma há lugar ao pagamento de contribuições para a Segurança Social, cujo valor é determinado pela aplicação da taxa de 32% do montante do salário de referência."
+  },
+  "b7334a580c704807": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Das indemnizações por diferença de salário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Das indemnizações por diferença de salário"
+  },
+  "fa9bb82071604457": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Normas reguladoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Normas reguladoras\n\nAs normas relativas à indemnização por diferença de salários são aprovadas por portaria do Ministro do Emprego e da Segurança Social."
+  },
+  "d7751dfeb352be51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Dos auxílios de mobilidade geográfica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Dos auxílios de mobilidade geográfica"
+  },
+  "9d6c229386233324": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Normas reguladoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Normas reguladoras\n\nOs auxílios de mobilidade geográfica previstos no artigo 9.º da Convenção são concedidos nos termos estabelecidos no Decreto-Lei n.º 225/87, de 5 de Junho, e nas Portarias n.os 474/87 e 475/87, de 5 de Junho."
+  },
+  "51a2226441f20846": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Dos auxílios de formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Dos auxílios de formação profissional"
+  },
+  "6026a088bd774795": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Âmbito dos auxílios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Âmbito dos auxílios\n\nAs despesas de formação profissional previstas no artigo 10.º da Convenção integram quer as acções desenvolvidas nas empresas CECA, quer as que tenham lugar em empresas exteriores ao sector."
+  },
+  "2f61cdff997504fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Acções desenvolvidas nas empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Acções desenvolvidas nas empresas\n\n1 - Os auxílios às acções de formação profissional desenvolvidas nas empresas CECA referem-se à reconversão dos trabalhadores que foram mudados de postos de trabalho.\n\n2 - Só são concedidos auxílios às acções mencionadas no número anterior desde que essas acções não tenham sido apoiadas por outros fundos comunitários."
+  },
+  "aeaea2ea4bc720b8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Das reformas antecipadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Das reformas antecipadas"
+  },
+  "8ceba2e06ac9149a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Trabalhadores abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Trabalhadores abrangidos\n\nTêm direito à reforma antecipada os trabalhadores que, tendo estado abrangidos no âmbito da Convenção, se encontrem numa das seguintes situações:\n\na) Tenham esgotado o período de concessão do subsídio de desemprego e atingido a idade de 60 anos;\n\nb) Tenham esgotado o período da concessão de pré-reforma sem terem atingido a idade legal de reforma."
+  },
+  "4550d502fb70ab0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Montante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Montante\n\nO montante da reforma antecipada corresponde ao valor da pensão que os trabalhadores aufeririam se fossem reformados com a idade legal e segundo as regras de cálculo das pensões de velhice estabelecidas para o regime geral de segurança social."
+  },
+  "b9c4b892da29a97c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Situações equiparadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Situações equiparadas\n\n1 - Para efeitos deste diploma são consideradas como reformas antecipadas decorrentes de desgaste físico prematuro as pensões de invalidez concedidas a trabalhadores abrangidos no âmbito da Convenção durante os anos de 1986 e 1987.\n\n2 - As pensões de invalidez referidas no número anterior são recalculadas de acordo com as regras fixadas no artigo anterior, decorrido o período de concessão de 24 meses."
+  },
+  "248357c7479cddb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Coordenação de legislação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Coordenação de legislação\n\nAos trabalhadores abrangidos no âmbito da Convenção que tenham direito a uma pensão por antecipação da idade legal de reforma, em resultado da aplicação de legislação especial da Segurança Social, não pode ser concedido um montante de pensão inferior ao que resultaria da aplicação do artigo 25.º"
+  },
+  "a32576f990fbe5a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Do processo"
+  },
+  "886cff2269d9d5b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regulamentação\n\nSão definidos por portaria do Ministro do Emprego e da Segurança Social os trâmites e circuitos processuais a observar para a atribuição dos auxílios a conceder no âmbito deste diploma, bem como a matéria respeitante ao pagamento das contribuições para a Segurança Social nas situações de pré-reforma."
+  },
+  "3174a88460bd59d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Competências específicas do Instituto do Emprego e Formação Profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competências específicas do Instituto do Emprego e Formação Profissional\n\nSão competências específicas do Instituto do Emprego e Formação Profissional:\n\na) Receber os pedidos de auxílio elaborados pelas empresas proceder à sua análise e preparação para efeito de serem apresentados à Comissão das Comunidades;\n\nb) Organizar os processos relativos aos pedidos de pagamento correspondentes às medidas susceptíveis de atribuição de auxílios, a apresentar à Comissão das Comunidades nos termos previstos no n.º 1 do artigo 14.º da Convenção;\n\nc) Elaborar os relatórios sobre a execução dos programas a que se refere o n.º 3 do artigo 14.º da Convenção."
+  },
+  "c59d0973d9e92bef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Pagamento\n\nO pagamento dos quantitativos devidos aos trabalhadores e, no caso do auxílio de formação profissional, dos devidos às empresas é efectuado de acordo com a sua natureza pelas entidades referidas nos artigos seguintes."
+  },
+  "0a4451df6cb7d9c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Pagamentos pela empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Pagamentos pela empresa\n\nCompete às empresas, sem prejuízo das regras de financiamento estabelecidas no artigo 34.º, proceder ao pagamento:\n\na) Das indemnizações por cessação do contrato de trabalho;\n\nb) Das prestações de pré-reforma;\n\nc) Da compensação salarial de pré-reforma."
+  },
+  "0500b2d7fb2d6f1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Pagamento pelas instituições de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Pagamento pelas instituições de segurança social\n\nCompete às instituições de segurança social proceder ao pagamento:\n\na) Dos subsídios de desemprego e das respectivas compensações salariais;\n\nb) Das reformas antecipadas;\n\nc) Das indemnizações por diferença de salário."
+  },
+  "442bb700d0ade88c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Pagamento pelo Instituto do Emprego e Formação Profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Pagamento pelo Instituto do Emprego e Formação Profissional\n\nCompete ao Instituto do Emprego e Formação Profissional proceder ao pagamento:\n\na) Das compensações salariais dos trabalhadores que criem o seu próprio emprego;\n\nb) Dos auxílios de mobilidade geográfica;\n\nc) Dos auxílios de formação profissional."
+  },
+  "9052850554412a86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do financiamento"
+  },
+  "b33827824ef7b29f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Pré-reforma e compensação salarial da pré-reforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Pré-reforma e compensação salarial da pré-reforma\n\nÉ da responsabilidade do Estado Português o financiamento das prestações de pré-reforma e das compensações salariais de pré-reforma na parte não comparticipada pela CECA."
+  },
+  "a45ab95f8f191b92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Indemnização por cessação do contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Indemnização por cessação do contrato de trabalho\n\n1 - Os montantes apurados como indemnizações ou compensações financeiras nos termos do artigo 18.º são comparticipados pelo Estado Português até a um valor máximo correspondente à participação CECA, prevista no n.º 2 do artigo 3.º da Convenção.\n\n2 - Sempre que os montantes apurados ultrapassem os valores máximos referidos no número anterior, são da responsabilidade das empresas os encargos financeiros dos quantitativos excedentes."
+  },
+  "6efde53dc8e87798": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Repartição de encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Repartição de encargos\n\nA repartição dos encargos financeiros a suportar pelos fundos públicos decorrentes da atribuição dos apoios no âmbito da Convenção e do presente diploma é definida por portaria conjunta dos Ministros das Finanças, da Indústria e Energia e do Emprego e da Segurança Social."
+  },
+  "c7bd5582844dff4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais"
+  },
+  "5c978933987b2e5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Comissão técnica de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Comissão técnica de acompanhamento\n\nO acompanhamento da execução das medidas e acções aplicáveis, bem como a articulação entre as entidades responsáveis, é cometido a uma comissão técnica a constituir por despacho conjunto dos Ministros das Finanças, da Indústria e Energia e do Emprego e da Segurança Social."
+  },
+  "9b01abd690581814": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Alargamento especial dos períodos de concessão dos auxílios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Alargamento especial dos períodos de concessão dos auxílios\n\nOs períodos de concessão dos subsídios de desemprego e de pré-reforma, bem como os correspondentes auxílios financeiros no âmbito da Convenção e do presente diploma, podem ser alargados para 36 meses por força e nos termos prescritos nos programas especiais aprovados pela Comissão das Comunidades."
+  },
+  "e7e2918e1334ccf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Vigência\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação e produz efeitos desde 1 de Janeiro de 1986.\n\nVisto e aprovado em Conselho de Ministros de 26 de Novembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - José Albino da Silva Peneda.\n\nPromulgado em 12 de Abril de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Abril de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "f351dbdb5636074d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Alargamento especial dos períodos de concessão dos auxílios",
+   "in_force_from": "1989-02-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 58/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1989-612416), publicado em 1989-02-22."
+   ],
+   "markdown": "###### Artigo 38.º — Alargamento especial dos períodos de concessão dos auxílios\n\nOs períodos de concessão das medidas de apoio, bem como os correspondentes auxílios financeiros previstos no âmbito da Convenção e do presente diploma, podem ser alargados por força e nos termos prescritos nos programas especiais aprovados pela Comissão das Comunidades.\n\n> Alterado pelo/a [Decreto-Lei n.º 58/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1989-612416), publicado em 1989-02-22."
+  }
+ }
+}

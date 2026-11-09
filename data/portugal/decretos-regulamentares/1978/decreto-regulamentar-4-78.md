@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-05-23'
+version_history:
+  file: decreto-regulamentar-4-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-02-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-05-23'
+    amending: pt:dre:382780:por
+    amending_title: Decreto Regulamentar n.º 26/79
+    changes:
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:58:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 26/79. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1978/decreto-regulamentar-4-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -271,21 +286,23 @@ Acolhimento;
 
 i) Desempenhar outras funções que, no âmbito do Serviço e de acordo com as suas qualificações, lhe forem atribuídas.
 
-3 - Ao assistente graduado de operações aeroportuárias compete o desempenho das funções inerentes ao contrôle e segurança na área de movimento, designadamente:
+3 - Ao assistente graduado de operações aeroportuárias compete o desempenho de funções inerentes à segurança na área de movimento, designadamente:
 
-a) Controlar as manobras das aeronaves no solo, incluindo as operações de estacionamento nas áreas de tráfego e manutenção;
+a) Auxiliar, em coordenação com os órgãos de contrôle do tráfego aéreo apropriados, as manobras das aeronaves no solo, incluindo as operações de estacionamento nos parques;
 
-b) Controlar e disciplinar, na área de movimento, toda a movimentação de pessoas, veículos e equipamento;
+b) Disciplinar e fiscalizar toda a movimentação de pessoas e equipamentos na área de movimento;
 
-c) Inspeccionar a área de movimento e estabelecer nesta a necessária vigilância, de forma a assegurar os padrões e normas de segurança recomendados pela OACI e homologados ou estabelecidos pela DGAC;
+c) Inspeccionar a área de movimento e estabelecer a necessária vigilância para, em colaboração com os órgãos apropriados de contrôle do tráfego aéreo, assegurar o cumprimento dos padrões e normas de segurança estabelecidos pela OACI e homologados pela DGAC;
 
-d) Cooperar, no âmbito das suas atribuições, com o serviço de socorros e serviços e entidades afectos ao sistema de segurança da aviação civil;
+d) Cooperar, no âmbito das suas atribuições, e entidades afectos ao sistema de segurança da aviação civil;
 
-e) Controlar e, eventualmente, promover ou executar, no todo ou em parte e de acordo com as suas qualificações, as operações de assistência às aeronaves;
+e) Controlar e, eventualmente, promover ou executar, no todo ou em parte e de acordo com as suas qualificações, as operações de assistência às aeronaves no solo;
 
 f) Desempenhar outras funções que, no âmbito do serviço e de acordo com as suas qualificações, lhe forem atribuídas.
 
 4 - Ao assistente de operações aeroportuárias compete, quando integrado na actividade operacional do serviço, coadjuvar o restante pessoal assistente nas actividades do respectivo serviço, desempenhando as tarefas que lhe forem cometidas.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 26/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/26-1979-382780), publicado em 1979-05-23.
 
 ### CAPÍTULO III — Da prestação de serviço
 

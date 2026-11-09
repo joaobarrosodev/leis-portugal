@@ -38,10 +38,43 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-11-19'
+version_history:
+  file: decreto-lei-85-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-04-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-11-19'
+    amending: pt:dre:210976:por
+    amending_title: Decreto-Lei n.º 38/98; Decreto-Lei n.º 496/99
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 25.º
+    - Altera Artigo 24.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/85/1995/04/28/p/dre/pt/html
@@ -67,7 +100,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:42:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 38/98; Decreto-Lei
+    n.º 496/99. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-85-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,173 +175,117 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ###### Artigo 1.º — Centro Científico e Cultural de Macau
 
-É criado o Centro Científico e Cultural de Macau, adiante designado por Centro, pessoa colectiva de direito público, dotado de autonomia administrativa e financeira, no âmbito do Ministério do Planeamento e da Administração do Território.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ###### Artigo 2.º — Sede
 
-O Centro tem a sua sede na cidade de Lisboa.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ###### Artigo 3.º — Atribuições
 
-1 - O Centro tem por atribuições o estudo e perpetuação da memória da presença portuguesa no Extremo Oriente, por essa forma permitindo um melhor conhecimento da realidade e da história de Macau.
+(Revogado.)
 
-2 - Cabe, em especial, ao Centro:
-
-a) Contribuir para um melhor conhecimento sobre a presença histórica e cultural portuguesa em Macau;
-
-b) Estimular os contactos e o diálogo com as culturas orientais;
-
-c) Promover, incentivar e apoiar manifestações culturais ligadas à vivência intercultural luso-chinesa;
-
-d) Realizar e promover conferências, seminários e estudos sobre a cultura de Macau, sobre a presença dos Portugueses neste território e sobre as culturas orientais;
-
-e) Defender e contribuir para a preservação do património existente em Portugal que atesta a presença portuguesa em Macau e no Oriente;
-
-f) Promover a investigação nas áreas que interessam ao conhecimento e preservação da herança cultural de Macau;
-
-g) Realizar programas de divulgação e animação cultural e promover estudos e exposições sobre a história e a cultura de Macau e a presença dos Portugueses neste território, bem como sobre outros temas ligados ao Oriente e ao diálogo com a cultura portuguesa.
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ###### Artigo 4.º — Tutela
 
-O Centro está sujeito à tutela do Ministro do Planeamento e da Administração do Território, a qual compreende:
+(Revogado.)
 
-a) A determinação do enquadramento geral em que se deve desenvolver a sua actividade e das linhas prioritárias de actuação do Centro;
-
-b) A aprovação dos orçamentos e respectivas alterações, bem como dos planos de actividades, anuais e plurianuais;
-
-c) A definição da política geral de preços dos serviços prestados;
-
-d) A aprovação da participação do Centro no capital de sociedades comerciais, bem como a celebração de contratos, protocolos e acordos de cooperação com outras entidades;
-
-e) A aprovação dos actos de aquisição, oneração ou alienação de bens imóveis;
-
-f) O exercício dos poderes de supervisão e de inspecção;
-
-g) A apreciação e decisão dos recursos cuja interposição para o membro do Governo esteja prevista na lei.
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ###### Artigo 5.º — Colaboração com entidades públicas e privadas
 
-No âmbito das suas atribuições, o Centro pode solicitar directamente às entidades públicas ou privadas, singulares ou colectivas, a colaboração necessária ao desenvolvimento das suas actividades.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ### CAPÍTULO II — Estrutura orgânica
 
 ###### Artigo 6.º — Órgãos
 
-São órgãos do Centro:
+(Revogado.)
 
-a) O conselho de administração;
-
-b) O conselho consultivo;
-
-c) A comissão de fiscalização.
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ###### Artigo 7.º — Conselho de administração
 
-O conselho de administração é composto por um presidente e dois vogais, equiparados, para todos os efeitos legais, a, respectivamente, director-geral e subdirector-geral.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ###### Artigo 8.º — Competência
 
-Ao conselho de administração compete:
+(Revogado.)
 
-a) Orientar e dirigir a actividade do Centro;
-
-b) Aprovar o plano de actividades e as contas anuais;
-
-c) Propor ao ministro da tutela o orçamento privativo;
-
-d) Assegurar a gestão financeira e gerir o pessoal e os meios financeiros e patrimoniais;
-
-e) Manter a unidade e a continuidade das actividades do Centro;
-
-f) Praticar os demais actos necessários à prossecução dos fins do Centro.
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ###### Artigo 9.º — Presidente
 
-O presidente do conselho de administração convoca as reuniões do conselho de administração e do conselho consultivo e representa o Centro, para todos os efeitos legais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ###### Artigo 10.º — Conselho consultivo
 
-Ao conselho consultivo cabe:
+(Revogado.)
 
-a) Emitir pareceres sobre temas que lhe sejam colocados pelo conselho de administração e pelo seu presidente;
-
-b) Apreciar o plano de actividades do Centro;
-
-c) Pronunciar-se sobre quaisquer assuntos relacionados com as actividades do Centro, podendo formular as recomendações que entenda convenientes.
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ###### Artigo 11.º — Composição
 
-1 - O conselho consultivo é presidido pelo presidente do conselho de administração do Centro.
+(Revogado.)
 
-2 - Compõem, ainda, o conselho consultivo seis personalidades de reconhecido mérito, nos domínios que correspondem às atribuições do Centro, a designar por despacho do Ministro do Planeamento e da Administração do Território e um representante do Ministro dos Negócios Estrangeiros.
-
-3 - O mandato dos membros do conselho consultivo tem a duração de três anos, sendo renovável.
-
-4 - Os membros do conselho consultivo têm direito, pela participação em cada reunião, ao abono de senhas de presença, de montante a fixar por despacho conjunto dos Ministros das Finanças e do Planeamento e da Administração do Território.
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ###### Artigo 12.º — Comissão de fiscalização
 
-1 - A comissão de fiscalização é composta por três elementos, nomeados por despacho conjunto dos Ministros das Finanças e do Planeamento e da Administração do Território.
+(Revogado.)
 
-2 - O mandato dos elementos da comissão de fiscalização tem a duração de três anos, sendo renovável.
-
-3 - Os membros da comissão têm direito à percepção de senhas de presença, nos termos do n.º 4 do artigo anterior.
-
-4 - A comissão de fiscalização reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocada pelo seu presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ###### Artigo 13.º — Competência
 
-À comissão de fiscalização compete velar pelo cumprimento das normas legais e regulamentares aplicáveis ao Centro e, especialmente:
+(Revogado.)
 
-a) Emitir parecer sobre as contas do Centro;
-
-b) Acompanhar a gestão e administração do Centro;
-
-c) Pronunciar-se sobre matérias que lhe sejam submetidas pelo conselho de administração.
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ###### Artigo 14.º — Organização interna
 
-A organização interna do Centro é estabelecida por decreto regulamentar.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ### CAPÍTULO III — Regime financeiro e patrimonial
 
 ###### Artigo 15.º — Receitas
 
-Constituem receitas do Centro:
+(Revogado.)
 
-a) As verbas que lhe sejam atribuídas por quaisquer entidades, públicas ou privadas, nomeadamente para a realização de projectos ou iniciativas;
-
-b) Os rendimentos do património;
-
-c) As doações, heranças e legados aceites;
-
-d) O produto de alienação de bens próprios;
-
-e) As verbas resultantes da prestação de serviços e da venda de produtos culturais;
-
-f) Quaisquer outras receitas que lhe advenham pelo exercício da sua actividade.
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ###### Artigo 16.º — Despesas
 
-Constituem despesas do Centro:
+(Revogado.)
 
-a) Os encargos inerentes ao seu funcionamento, nomeadamente com o pessoal, a aquisição de bens e serviços, as transferências e as despesas correntes e de capital;
-
-b) Outros encargos resultantes da actividade de protecção e salvaguarda do património cultural que atesta a presença dos Portugueses em Macau e no Oriente.
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ###### Artigo 17.º — Património
 
-1 - O património do Centro é constituído pela universalidade dos direitos e obrigações que para ele transitem, a título oneroso ou gratuito.
+(Revogado.)
 
-2 - Ao Centro pode ser afectado património imóvel do Estado, por despacho conjunto dos Ministros das Finanças e do Planeamento e da Administração do Território, competindo-lhe a sua administração e a actualização do respectivo cadastro.
-
-3 - Os bens duradouros, móveis e imóveis, que constituem o património do Centro constam do inventário, cuja actualização deve acompanhar as contas anuais e ser objecto de divulgação pública.
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ### CAPÍTULO IV — Pessoal
 
 ###### Artigo 18.º — Pessoal
 
-O Centro dispõe de quadro de pessoal próprio, aprovado por portaria conjunta dos Ministros das Finanças e do Planeamento e da Administração do Território.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 ### CAPÍTULO V — Regime de instalação
 
@@ -343,15 +321,17 @@ Enquanto vigorar o regime de instalação, quatro dos membros do conselho consul
 
 ###### Artigo 24.º — Duração
 
-O regime de instalação cessa decorridos três anos sobre a entrada em vigor do presente diploma.
+O regime de instalação cessa em 19 de Dezembro de 1999.
+
+> Alterado pelo/a [Decreto-Lei n.º 38/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1998-210976), publicado em 1998-02-24.
 
 ### CAPÍTULO VI — Disposições finais
 
 ###### Artigo 25.º — Articulação com o departamento governamental
 
-responsável pela área da cultura
+(Revogado.)
 
-As atribuições cometidas ao Centro nas alíneas c) e e) do n.º 2 do artigo 3.º do presente diploma são exercidas em coordenação com o departamento responsável pela área da cultura.
+> Revogado pelo/a [Decreto-Lei n.º 496/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1999-684846), publicado em 1999-11-18.
 
 Visto e aprovado em Conselho de Ministros de 23 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel de Morais Briosa e Gala - Luís Francisco Valente de Oliveira - Luís Manuel Gonçalves Marques Mendes.
 

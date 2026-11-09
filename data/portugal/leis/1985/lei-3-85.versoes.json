@@ -1,0 +1,431 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:326893:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-03-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "56c5d2bf7c85a585",
+    "95d49dd1f854ec3b",
+    "97470ed40d6a014a",
+    "df9bb4951f323dcc",
+    "8deddf487ec860ea",
+    "2e03882ee8974bf6",
+    "13d242553f7a72fa",
+    "8ce7b75564482c2a",
+    "96de2afb7694b8ef",
+    "b37fca0002b6a76e",
+    "7609abb83ceb4727",
+    "857a31693ff02b41",
+    "2c3998f9a3dea843",
+    "f5ad2de504d49657",
+    "48a79de8383c54e1",
+    "76ef03a47bd59adf",
+    "17e44197a742e9cb",
+    "b9ee3c65416b6b8d",
+    "82db832c933987cb",
+    "c9cd96bda48fe0b0",
+    "df9a2c84f122f0a1",
+    "20f9e73a308f8c22",
+    "d56dd55534fd1042",
+    "f99b8a63a112ea4a",
+    "9dadffaca7cd86aa",
+    "6ca522390246bac8",
+    "f0ec4a6cefa8c9ad",
+    "3c863c73561ec7d3",
+    "80020d353a14351b",
+    "94a351a4efbf131b"
+   ]
+  },
+  {
+   "date": "1990-01-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:330437:por",
+     "title": "Lei n.º 94/89",
+     "published": "1989-11-29",
+     "dre_path": "/dr/detalhe/lei/94-1989-330437"
+    },
+    {
+     "id": "pt:dre:551248:por",
+     "title": "Lei n.º 98/89",
+     "published": "1989-12-29",
+     "dre_path": "/dr/detalhe/lei/98-1989-551248"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Adita Artigo 19.º-A",
+    "Adita Artigo 19.º-B",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "56c5d2bf7c85a585",
+    "95d49dd1f854ec3b",
+    "97470ed40d6a014a",
+    "df9bb4951f323dcc",
+    "8deddf487ec860ea",
+    "d579e788d25d1edd",
+    "13d242553f7a72fa",
+    "cf4107ec5ebeb9bf",
+    "96de2afb7694b8ef",
+    "5a7c8c7bae42ea3e",
+    "7609abb83ceb4727",
+    "857a31693ff02b41",
+    "2c3998f9a3dea843",
+    "f5ad2de504d49657",
+    "48a79de8383c54e1",
+    "76ef03a47bd59adf",
+    "17e44197a742e9cb",
+    "b9ee3c65416b6b8d",
+    "9949095f73288333",
+    "c9cd96bda48fe0b0",
+    "0d03317bdc59011d",
+    "20f9e73a308f8c22",
+    "7a7a0aab40c87984",
+    "0d83dc5790ca55e8",
+    "e320080212337539",
+    "f99b8a63a112ea4a",
+    "9dadffaca7cd86aa",
+    "6ca522390246bac8",
+    "f0ec4a6cefa8c9ad",
+    "3c863c73561ec7d3",
+    "80020d353a14351b",
+    "94a351a4efbf131b"
+   ]
+  }
+ ],
+ "fragments": {
+  "56c5d2bf7c85a585": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Março\n\nESTATUTO DOS DEPUTADOS\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 167.º, alínea g), e 169.º, n.º 2, da Constituição, o seguinte:\n\nEstatuto dos Deputados"
+  },
+  "95d49dd1f854ec3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Do mandato"
+  },
+  "97470ed40d6a014a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Natureza e âmbito do mandato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Natureza e âmbito do mandato)\n\nOs Deputados representam todo o País e não os círculos por que são eleitos."
+  },
+  "df9bb4951f323dcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Início e termo do mandato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Início e termo do mandato)\n\n1 - O mandato dos Deputados inicia-se com a primeira reunião da Assembleia da República após a eleição e cessa com a primeira reunião após as eleições subsequentes, sem prejuízo da suspensão ou da cessação individual do mandato.\n\n2 - O preenchimento das vagas que ocorrerem na Assembleia, bem como a substituição temporária de Deputados por motivo relevante, são regulados pela lei eleitoral."
+  },
+  "8deddf487ec860ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Verificação de poderes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Verificação de poderes)\n\nOs poderes dos Deputados são classificados pela Assembleia da República, nos termos fixados pelo respectivo Regimento."
+  },
+  "2e03882ee8974bf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Suspensão do mandato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Suspensão do mandato)\n\n1 - Determinam a suspensão do mandato:\n\na) O deferimento do requerimento de substituição temporária por motivo relevante, nos termos do artigo 5.º;\n\nb) O procedimento criminal, nos termos do artigo 11.º;\n\nc) A nomeação para o exercício de funções de membro do governo;\n\nd) A nomeação para juiz do Tribunal Constitucional, membro da Comissão Nacional de Eleições e de governo regional, Provedor de justiça, ministro da República, governador e vice-governador civil, embaixador, presidente e vice-presidente do Conselho Nacional do Plano, membro do Conselho de Comunicação Social e chefe de gabinete de membro do governo;\n\ne) O exercício das funções de presidente de câmara municipal ou de vereador em regime de permanência, bem como de gestor de empresa pública, nacionalizada ou maioritariamente participada por capitais públicos e de dirigente de instituto público autónomo.\n\n2 - A suspensão do mandato estabelecido na alínea e) do número anterior pode ser levantada por períodos não inferiores a 15 dias, no máximo global de 45 dias em cada sessão legislativa.\n\n3 - A suspensão do mandato relativamente aos vice-presidentes do Conselho Nacional do Plano verifica-se durante os períodos em que, nos termos da regulamentação interna respectiva, se encontrem na efectividade das funções de substituição do presidente."
+  },
+  "13d242553f7a72fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Substituição temporária por motivo relevante)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Substituição temporária por motivo relevante)\n\n1 - Os Deputados podem pedir ao Presidente da Assembleia, por motivo relevante, a sua substituição por uma ou mais vezes, por período global não superior, em cada mandato, a 2 anos.\n\n2 - Por motivo relevante entende-se:\n\na) Doença grave;\n\nb) Actividade profissional inadiável;\n\nc) Exercício de funções específicas no respectivo partido.\n\n3 - O requerimento de substituição será apresentado directamente pelo próprio deputado ou através da direcção do grupo parlamentar ou agrupamento parlamentar ou do órgão próprio do partido a que pertença, acompanhado, nestes casos, de declaração de anuência do Deputado a substituir.\n\n4 - Os Deputados que se encontrem vinculados à função pública ou a empresa pública, nacionalizada ou maioritariamente participada por capitais públicos, bem como os restantes trabalhadores por conta de outrem, podem não reassumir as correspondentes funções, sem perda de direitos e regalias, salvo o direito à retribuição, em caso de suspensão do mandato por um período de 30 dias, seguidos ou interpolados, em cada sessão legislativa.\n\n5 - A suspensão temporária do mandato não pode ocorrer por período inferior a 15 dias."
+  },
+  "8ce7b75564482c2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Cessação da suspensão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Cessação da suspensão)\n\n1 - A suspensão do mandato cessa:\n\na) No caso da alínea a) do n.º 1 do artigo 4.º, pelo decurso do período de substituição ou pelo regresso antecipado do Deputado, directamente indicado por este, ou através da direcção do grupo parlamentar ou agrupamento parlamentar em que se encontre integrado, ou do órgão próprio do partido a que pertença, ao Presidente da Assembleia;\n\nb) No caso da alínea b) do n.º 1 do artigo 4.º por decisão absolutória ou equivalente, ou com o cumprimento da pena;\n\nc) Nos casos das alíneas c) e d) do n.º 1 do artigo 4.º, pela cessação da função incompatível com a de Deputado.\n\n2 - Com a retoma pelo Deputado do exercício do mandato, cessam automaticamente todos os poderes do último Deputado da respectiva lista que nessa data esteja a exercer o mandato.\n\n3 - O regresso antecipado do Deputado não pode ocorrer antes de decorridos os 15 dias previstos no n.º 5 do artigo 5.º"
+  },
+  "96de2afb7694b8ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Renúncia do mandato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Renúncia do mandato)\n\n1 - Os Deputados podem renunciar ao mandato mediante declaração escrita apresentada pessoalmente ao Presidente da Assembleia da República ou com a assinatura reconhecida notarialmente.\n\n2 - Não será dado andamento ao pedido de renúncia sem prévia comunicação ao presidente do respectivo grupo parlamentar ou agrupamento parlamentar ou ao órgão competente do respectivo partido.\n\n3 - A renúncia torna-se efectiva com o anúncio pela Mesa no Plenário, sem prejuízo da sua ulterior publicação no Diário da Assembleia da República."
+  },
+  "b37fca0002b6a76e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Perda do mandato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Perda do mandato)\n\n1 - Perdem o mandato os Deputados que:\n\na) Venham a ser feridos por alguma das incapacidades ou incompatibilidades previstas na lei, mesmo por factos anteriores à eleição, não podendo a Assembleia reapreciar factos que tenham sido objecto de decisão judicial com trânsito em julgado ou de deliberação anterior da própria Assembleia;\n\nb) Não tomem assento na Assembleia ou excedam o número de faltas nos termos definidos no Regimento, salvo motivo justificado;\n\nc) Se inscrevam em partido diferente daquele pelo qual foram apresentados a sufrágio;\n\nd) Sejam judicialmente condenados por participação em organizações de ideologia fascista.\n\n2 - Considera-se motivo justificado a doença, o casamento, a paternidade e a maternidade, o luto, missão da Assembleia, do governo ou do partido a que o deputado pertence, bem como, quanto aos Deputados eleitos pelos círculos dos Açores ou da Madeira, dificuldades de transporte entre as ilhas e o continente.\n\n3 - Poderá ainda considerar-se motivo justificado a participação em reuniões de organismos internacionais a que Portugal pertença, se for julgada de interesse para o País e a justificação for solicitada antes da ocorrência das faltas."
+  },
+  "7609abb83ceb4727": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Substituição dos Deputados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Substituição dos Deputados)\n\n1 - Em caso de vacatura ou de suspensão de mandato, o Deputado será substituído pelo primeiro candidato não eleito na respectiva ordem de precedência, na mesma lista.\n\n2 - O impedimento temporário do candidato chamado a assumir as funções de Deputado determina a subida do candidato que se seguir na ordem de precedência.\n\n3 - Cessado o impedimento, o candidato retomará o seu lugar na lista para efeito de futuras substituições.\n\n4 - Não haverá substituição se já não existirem candidatos efectivos ou suplentes não eleitos na lista do Deputado a substituir.\n\n5 - A substituição prevista no presente artigo, bem como o reconhecimento do impedimento temporário de candidato não eleito e do seu termo, depende de requerimento da direcção do respectivo grupo parlamentar ou agrupamento parlamentar, ou do órgão competente do partido, ou ainda do candidato com direito a preencher o lugar vago."
+  },
+  "857a31693ff02b41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Imunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Imunidades"
+  },
+  "2c3998f9a3dea843": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Irresponsabilidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Irresponsabilidade)\n\nOs Deputados não respondem civil, criminal ou disciplinarmente pelos votos e opiniões que emitirem no exercício das suas funções."
+  },
+  "f5ad2de504d49657": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Inviolabilidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Inviolabilidade)\n\n1 - Nenhum Deputado pode ser detido ou preso sem autorização da Assembleia, salvo por crime punível com pena maior e em flagrante delito.\n\n2 - Movido procedimento criminal contra algum Deputado, e indiciado este definitivamente por despacho de pronúncia ou equivalente, salvo no caso de crime punível com pena maior, a Assembleia decidirá se o Deputado deve ou não ser suspenso, para efeito de seguimento do processo.\n\n3 - A decisão prevista no presente artigo será tomada por escrutínio secreto e maioria absoluta dos Deputados presentes, precedendo parecer da Comissão de Regimento e Mandatos."
+  },
+  "48a79de8383c54e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Condições de exercício do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Condições de exercício do mandato"
+  },
+  "76ef03a47bd59adf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Condições de exercício da função de Deputado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Condições de exercício da função de Deputado)\n\n1 - São garantidas aos Deputados condições adequadas ao eficaz exercício das suas funções, designadamente ao indispensável contacto com os cidadãos eleitores.\n\n2 - Todas as entidades públicas estão sujeitas ao dever geral de cooperação com os Deputados no exercício das suas funções ou por causa delas.\n\n3 - Os serviços de administração central ou dela dependentes devem facultar aos Deputados condições para o exercício do mandato, nomeadamente fornecendo os elementos, informações e publicações oficiais solicitados e facultando sempre que possível instalações para reuniões de trabalho, desde que tal não afecte o funcionamento dos próprios serviços.\n\n4 - Quando solicitadas com antecedência não inferior a 5 dias, os governadores civis colocarão à disposição dos Deputados instalações adequadas à efectivação dos seus contactos com cidadãos ou com a imprensa."
+  },
+  "17e44197a742e9cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Direitos e regalias dos Deputados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Direitos e regalias dos Deputados)\n\n1 - Os Deputados não podem, sem autorização da Assembleia da República, ser jurados, peritos ou testemunhas, nem ser ouvidos como declarantes nem como arguidos, excepto, neste último caso, quando presos em caso de flagrante delito ou quando suspeitos de crime a que corresponda pena maior.\n\n2 - A autorização referida no número anterior, ou a sua recusa, serão precedidas de audição do Deputado.\n\n3 - A falta de Deputados, por causa das reuniões, ou missões da Assembleia a actos ou diligências oficiais a ela estranhos, constitui sempre motivo justificado de adiamento destes, sem qualquer encargo.\n\n4 - O Deputado não poderá invocar o fundamento previsto no número anterior mais de uma vez em qualquer acto ou diligência oficial.\n\n5 - Ao Deputado que frequentar curso de qualquer grau ou natureza oficial é aplicável, quanto a aulas e exames, o mesmo regime de que gozam os militares."
+  },
+  "b9ee3c65416b6b8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Outros direitos e regalias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Outros direitos e regalias)\n\n1 - Os Deputados gozam ainda dos seguintes direitos e regalias:\n\na) Adiamento do serviço militar, do serviço cívico ou da mobilização civil;\n\nb) Livre trânsito, considerado como livre circulação em locais públicos de acesso condicionado, mediante exibição do cartão especial de identificação;\n\nc) Passaporte especial;\n\nd) Cartão especial de identificação;\n\ne) Remunerações e subsídios que a lei prescrever;\n\nf) Direito de uso e porte de arma nos termos do do n.º 5 do presente artigo;\n\ng) Prioridade nas reservas de passagem nas empresas públicas de navegação aérea durante o funcionamento efectivo da Assembleia ou por motivos relacionados com o desempenho do seu mandato.\n\n2 - O cartão especial de identificação deve mencionar, para além do nome do Deputado, das assinaturas do próprio e do Presidente da Assembleia da República, o número, arquivo e data de emissão do respectivo bilhete de identidade, em conformidade com o modelo anexo.\n\n3 - O cartão especial de identificação deve ter um prazo de validade preciso fixado em razão do período de mandato do Deputado.\n\n4 - Com a cessação do mandato de Deputado deve o cartão especial de identificação ser entregue, de imediato, nos competentes serviços da Assembleia da República.\n\n5 - Para efeitos de detenção, manifesto, uso e porte de armas e suas munições, são aplicáveis aos Deputados as disposições constantes no n.º 1 do artigo 47.º do Regulamento aprovado pelo [Decreto-Lei n.º 37313](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37313-1949-384389), de 21 de Fevereiro de 1949."
+  },
+  "82db832c933987cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Deslocações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Deslocações)\n\n1 - No exercício das suas funções, ou por causa delas, os Deputados têm direito à utilização dos transportes colectivos, públicos e privados, em todo o País, mediante a exibição do cartão especial de identificação referido na alínea d) do n.º 1 do artigo 14.º\n\n2 - As empresas fornecedoras dos transportes referidos no número anterior serão reembolsadas dos respectivos custos mediante apresentação, nos serviços competentes da Assembleia da República, do necessário documento comprovativo, do qual constarão, nomeadamente, o nome e a assinatura do Deputado, a data e o percurso efectuado, ou, no caso dos transportes colectivos urbanos da área de Lisboa, mediante a apresentação da prova de emissão de passe a favor do Deputado.\n\n3 - Aos Deputados eleitos pelos círculos do continente ou pelos círculos dos emigrantes só será permitida a utilização de transportes colectivos para as Regiões Autónomas dos Açores e da Madeira uma vez por ano.\n\n4 - Os Deputados não residentes nos concelhos de Lisboa, Oeiras, Amadora, Cascais, Loures, Sintra, Vila Franca de Xira, Almada, Seixal e Barreiro que se façam transportar em automóvel próprio entre Lisboa e a sua residência ou o círculo por que tiverem sido eleitos, e volta, têm direito ao reembolso das correspondentes despesas, segundo o regime aplicável aos funcionários públicos, uma vez por semana, por razões de trabalhos parlamentares.\n\n5 - Os Deputados residentes nos concelhos referidos no número anterior, com excepção do de Lisboa, quando se façam transportar em automóvel próprio entre a sua residência e a Assembleia da República têm direito ao reembolso das correspondentes despesas segundo regime análogo ao dos funcionários públicos, mas tendo em conta os quilómetros efectivamente percorridos.\n\n6 - Os Deputados eleitos pelos círculos dos emigrantes têm direito à requisição oficial de transporte colectivo até 3 vezes por sessão legislativa para se deslocarem aos círculos por que tiverem sido eleitos.\n\n7 - Para efeitos de deslocação ao estrangeiro em missão da Assembleia da República, a aquisição da moeda estrangeira ou de divisas proceder-se-á mediante requisição dos serviços competentes da Assembleia, não carecendo de autorização do Ministério das Finanças."
+  },
+  "c9cd96bda48fe0b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Utilização de serviços postais, telegráfico e telefónico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Utilização de serviços postais, telegráfico e telefónico)\n\nOs Deputados têm direito a utilizar gratuitamente os serviços postais, telegráficos e telefónicos da Assembleia."
+  },
+  "df9a2c84f122f0a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Regime de previdência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Regime de previdência)\n\n1 - Os Deputados beneficiam do regime de previdência social mais favorável aplicável ao funcionalismo público.\n\n2 - No caso de os Deputados optarem pelo regime de previdência da sua actividade profissional, cabe à Assembleia da República a satisfação dos encargos que corresponderiam à entidade patronal."
+  },
+  "20f9e73a308f8c22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Garantias de trabalho e benefícios sociais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Garantias de trabalho e benefícios sociais)\n\n1 - Os Deputados não podem ser prejudicados na sua colocação, nos seus benefícios sociais ou no seu emprego permanente por virtude do desempenho do mandato.\n\n2 - Os Deputados têm direito a dispensa de todas as actividades profissionais, públicas ou privadas, durante a legislatura.\n\n3 - O desempenho do mandato conta como tempo de serviço para todos os efeitos, salvo para aqueles que pressuponham o exercício efectivo da actividade profissional, sem prejuízo do disposto no n.º 4 do artigo 5.º do presente Estatuto.\n\n4 - No caso de função temporária por virtude de lei ou de contrato, o desempenho do mandato de Deputado suspende a contagem do respectivo prazo."
+  },
+  "d56dd55534fd1042": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Incompatibilidades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Incompatibilidades)\n\n1 - Além das incompatibilidades previstas na legislação eleitoral, os Deputados que sejam funcionários do Estado ou de outras pessoas colectivas públicas não podem exercer as respectivas funções durante o período de funcionamento efectivo da Assembleia.\n\n2 - Não se considera exercício de função pública, para efeito do disposto no n.º 1, o exercício gratuito de funções docentes no ensino superior, de actividades de investigação científica e outras similares como tais reconhecidas caso a caso pela Assembleia."
+  },
+  "f99b8a63a112ea4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Faltas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Faltas)\n\nAo Deputado que falte a qualquer reunião plenária sem motivo justificado nos termos do artigo 8.º é descontado 1/30 do vencimento mensal por cada dia de falta além de duas mensais."
+  },
+  "9dadffaca7cd86aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Ausências)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Ausências)\n\nVerificada a falta de quórum de funcionamento ou de deliberação, o Presidente convoca os Deputados ao Plenário, registando as ausências para os efeitos previstos no regime geral de faltas."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "f0ec4a6cefa8c9ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Encargos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Encargos)\n\nOs encargos resultantes da aplicação da presente lei são satisfeitos pelo orçamento da Assembleia da República."
+  },
+  "3c863c73561ec7d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Disposições transitórias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Disposições transitórias)\n\n1 - O disposto na alínea e) do n.º 1 do artigo 4.º só entra em vigor após a realização das próximas eleições gerais para os órgãos das autarquias locais no tocante aos presidentes de câmara e vereadores em regime de permanência e no início da IV Legislatura no tocante aos gestores de empresas públicas, nacionalizadas ou maioritariamente participadas por capitais públicos, e aos dirigentes de institutos públicos autónomos.\n\n2 - Até à entrada em vigor da alínea e) do n.º 1 do artigo 4.º podem requerer a suspensão do mandato pelo tempo de exercício do respectivo mandato, a qual será necessariamente concedida, os Deputados que exerçam os cargos de presidentes de câmara ou vereadores em regime de permanência.\n\n3 - O regime previsto nos n.os 1 a 5 do artigo 15.º e no artigo 17.º deve ser revisto no prazo de 1 ano."
+  },
+  "80020d353a14351b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Disposição revogatória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Disposição revogatória)\n\nFica revogada a legislação em contrário ao presente Estatuto.\n\nAprovada em 10 de Janeiro de 1985.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nHomologada em 14 de Fevereiro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 28 de Fevereiro de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "94a351a4efbf131b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Cartão especial de identificação a que se referem os n.os 2 e 3 do artigo 14.º do Estatuto dos Deputados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Cartão especial de identificação a que se referem os n.os 2 e 3 do artigo 14.º do Estatuto dos Deputados\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1985/03/06000/06300634.pdf)\n\nObservações - O cartão é de cor branca, com uma faixa diagonal com as cores verde e vermelha no canto superior esquerdo. Será autenticado com a assinatura do Presidente da Assembleia da República e com a aposição de selo branco de forma que este abranja o canto inferior esquerdo da fotografia.\n\nDimensões: A-7."
+  },
+  "d579e788d25d1edd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Suspensão do mandato)",
+   "in_force_from": "1990-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 98/89](https://diariodarepublica.pt/dr/detalhe/lei/98-1989-551248), publicado em 1989-12-29."
+   ],
+   "markdown": "###### Artigo 4.º — (Suspensão do mandato)\n\n1 - Determinam a suspensão do mandato:\n\na) O deferimento do requerimento de substituição temporária por motivo relevante, nos termos do artigo 5.º;\n\nb) O procedimento criminal, nos termos do artigo 11.º;\n\nc) A ocorrência das situações referenciadas no n.º 1 do artigo 19.º\n\n2 - A suspensão do mandato estabelecida no número anterior para os casos referidos nas alíneas h) e p) do n.º 1 do artigo 19.º pode ser levantada por períodos não inferiores a 15 dias, no máximo global de 45 dias em cada sessão legislativa, desde que, por igual período, seja assegurada a sua substituição nos termos da lei.\n\n> Alterado pelo/a [Lei n.º 98/89](https://diariodarepublica.pt/dr/detalhe/lei/98-1989-551248), publicado em 1989-12-29."
+  },
+  "cf4107ec5ebeb9bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Cessação da suspensão)",
+   "in_force_from": "1990-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 98/89](https://diariodarepublica.pt/dr/detalhe/lei/98-1989-551248), publicado em 1989-12-29."
+   ],
+   "markdown": "###### Artigo 6.º — (Cessação da suspensão)\n\n1 - A suspensão do mandato cessa:\n\na) No caso da alínea a) do n.º 1 do artigo 4.º, pelo decurso do período de substituição ou pelo regresso antecipado do Deputado, directamente indicado por este, ou através da direcção do grupo parlamentar ou agrupamento parlamentar em que se encontre integrado, ou do órgão próprio do partido a que pertença, ao Presidente da Assembleia;\n\nb) No caso da alínea b) do n.º 1 do artigo 4.º por decisão absolutória ou equivalente, ou com o cumprimento da pena;\n\nc) No caso da alínea c) do n.º 1 do artigo 4.º, pela cessação da função incompatível com a de deputado.\n\n2 - Com a retoma pelo Deputado do exercício do mandato, cessam automaticamente todos os poderes do último Deputado da respectiva lista que nessa data esteja a exercer o mandato.\n\n3 - O regresso antecipado do Deputado não pode ocorrer antes de decorridos os 15 dias previstos no n.º 5 do artigo 5.º\n\n> Alterado pelo/a [Lei n.º 98/89](https://diariodarepublica.pt/dr/detalhe/lei/98-1989-551248), publicado em 1989-12-29."
+  },
+  "5a7c8c7bae42ea3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Perda do mandato)",
+   "in_force_from": "1990-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 98/89](https://diariodarepublica.pt/dr/detalhe/lei/98-1989-551248), publicado em 1989-12-29."
+   ],
+   "markdown": "###### Artigo 8.º — (Perda do mandato)\n\n1 - Perdem o mandato os Deputados que:\n\na) Venham a ser feridos por alguma das incapacidades ou incompatibilidades previstas na lei, mesmo por factos anteriores à eleição, não podendo a Assembleia reapreciar factos que tenham sido objecto de decisão judicial com trânsito em julgado ou de deliberação anterior da própria Assembleia;\n\nb) Não tomem assento na Assembleia ou excedam o número de faltas nos termos definidos no Regimento, salvo motivo justificado;\n\nc) Se inscrevam em partido diferente daquele pelo qual foram apresentados a sufrágio;\n\nd) Sejam judicialmente condenados por participação em organizações de ideologia fascista.\n\n2 - Considera-se motivo justificado a doença, o casamento, a paternidade e a maternidade, o luto, missão da Assembleia, do governo ou do partido a que o deputado pertence, bem como, quanto aos Deputados eleitos pelos círculos dos Açores ou da Madeira, dificuldades de transporte entre as ilhas e o continente.\n\n3 - Poderá ainda considerar-se motivo justificado a participação em reuniões de organismos internacionais a que Portugal pertença, se for julgada de interesse para o País e a justificação for solicitada antes da ocorrência das faltas.\n\n4 - A não suspensão do mandato, nos termos do artigo 4.º, bem como a violação do disposto no artigo 19.º-A determinam a perda do mandato nos termos do artigo 163.º, alínea a), da Constituição, a qual será declarada após verificação pela Assembleia da República, nos termos do Regimento.\n\n> Alterado pelo/a [Lei n.º 98/89](https://diariodarepublica.pt/dr/detalhe/lei/98-1989-551248), publicado em 1989-12-29."
+  },
+  "9949095f73288333": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Deslocações)",
+   "in_force_from": "1990-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 94/89](https://diariodarepublica.pt/dr/detalhe/lei/94-1989-330437), publicado em 1989-11-29."
+   ],
+   "markdown": "###### Artigo 15.º — (Deslocações)\n\n1 - No exercício das suas funções, ou por causa delas, os deputados têm direito a subsídios de transporte e ajudas de custo correspondentes.\n\n2 - Os princípios gerais a que obedecem os subsídios de transporte e ajudas de custo são fixados por deliberação da Assembleia.\n\n3 - Quando em missão oficial ao estrangeiro, os deputados terão direito a um seguro de vida, de valor a fixar pelo Conselho de Administração da Assembleia da República.\n\n4 - A Assembleia da República poderá estabelecer, mediante parecer favorável do Conselho de Administração, um seguro que cubra os riscos de deslocação dos deputados no País ou os que decorrem de missões ao estrangeiro.\n\n5 - A Assembleia da República poderá satisfazer os encargos de assistência médica de emergência aos deputados, quando em viagem oficial ou considerada de interesse parlamentar pela Conferência dos Representantes dos Grupos Parlamentares.\n\n> Alterado pelo/a [Lei n.º 94/89](https://diariodarepublica.pt/dr/detalhe/lei/94-1989-330437), publicado em 1989-11-29."
+  },
+  "0d03317bdc59011d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Regime de previdência)",
+   "in_force_from": "1990-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 98/89](https://diariodarepublica.pt/dr/detalhe/lei/98-1989-551248), publicado em 1989-12-29."
+   ],
+   "markdown": "###### Artigo 17.º — (Regime de previdência)\n\n1 - Os deputados, bem como os ex-deputados que gozem da subvenção a que se refere o artigo 24.º da [Lei n.º 4/85](https://diariodarepublica.pt/dr/detalhe/lei/4-1985-325545), de 9 de Abril, beneficiam do regime de previdência social mais favorável aplicável ao funcionalismo público.\n\n2 - No caso de os Deputados optarem pelo regime de previdência da sua actividade profissional, cabe à Assembleia da República a satisfação dos encargos que corresponderiam à entidade patronal.\n\n> Alterado pelo/a [Lei n.º 98/89](https://diariodarepublica.pt/dr/detalhe/lei/98-1989-551248), publicado em 1989-12-29."
+  },
+  "7a7a0aab40c87984": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Incompatibilidades)",
+   "in_force_from": "1990-01-03",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 98/89](https://diariodarepublica.pt/dr/detalhe/lei/98-1989-551248), publicado em 1989-12-29."
+   ],
+   "markdown": "###### Artigo 19.º — (Incompatibilidades)\n\n1 - Não podem exercer as respectivas funções enquanto exercerem o mandato de deputado à Assembleia da República:\n\na) O Presidente da República, os membros do Governo e os ministros da República;\n\nb) Os membros do Tribunal Constitucional, do Supremo Tribunal de Justiça, do Tribunal de Contas e do Conselho Superior da Magistratura e o Provedor de Justiça;\n\nc) Os deputados ao Parlamento Europeu;\n\nd) Os membros dos órgãos de governo próprio das regiões autónomas;\n\ne) Os embaixadores não oriundos da carreira diplomática;\n\nf) O governador, os membros do Governo e os deputados à Assembleia Legislativa de Macau;\n\ng) Os governadores e vice-governadores civis;\n\nh) Os presidentes e vereadores a tempo inteiro das câmaras municipais;\n\ni) Os funcionários do Estado ou de outras pessoas colectivas públicas;\n\nj) Os membros da Comissão Nacional de Eleições;\n\nl) Os membros dos gabinetes ministeriais ou legalmente equiparados;\n\nm) Os funcionários de organização internacional ou de Estado estrangeiro;\n\nn) O presidente e o vice-presidente do Conselho Económico e Social;\n\no) Os membros da Alta Autoridade para a Comunicação Social;\n\np) Os membros dos conselhos de gestão das empresas públicas, das empresas de capitais públicos ou maioritariamente participadas pelo Estado e de instituto público autónomo.\n\n2 - O disposto na alínea i) do número anterior não abrange o exercício gratuito de funções docentes no ensino superior, de actividade de investigação e outras similares, como tais reconhecidas caso a caso pela Assembleia da República.\n\n3 - A suspensão do mandato relativamente aos vice-presidentes do Conselho Económico e Social verifica-se durante os períodos em que, nos termos da regulamentação interna respectiva, se encontrem na efectividade das funções de substituição do presidente.\n\n> Alterado pelo/a [Lei n.º 98/89](https://diariodarepublica.pt/dr/detalhe/lei/98-1989-551248), publicado em 1989-12-29."
+  },
+  "0d83dc5790ca55e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º-A — (Impedimentos)",
+   "in_force_from": "1990-01-03",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 98/89](https://diariodarepublica.pt/dr/detalhe/lei/98-1989-551248), publicado em 1989-12-29."
+   ],
+   "markdown": "###### Artigo 19.º-A — (Impedimentos)\n\n1 - É vedado aos deputados da Assembleia da República:\n\na) Exercer o mandato judicial como autores nas acções cíveis contra o Estado;\n\nb) Servir de perito ou árbitro a título remunerado em qualquer processo em que sejam parte o Estado e demais pessoas colectivas de direito público;\n\nc) Integrar a administração de sociedades concessionárias de serviços públicos;\n\nd) No exercício de actividade de comércio ou indústria, participar em concursos públicos de fornecimento de bens e serviços, bem como em contratos com o Estado e outras pessoas colectivas de direito público;\n\ne) Figurar ou de qualquer forma participar em actos de publicidade comercial.\n\n2 - Os impedimentos constantes da alínea b) do n.º 1 deste artigo poderão ser supridos em razão de interesse público por deliberação da Assembleia da República.\n\n> Aditado pelo/a [Lei n.º 98/89](https://diariodarepublica.pt/dr/detalhe/lei/98-1989-551248), publicado em 1989-12-29."
+  },
+  "e320080212337539": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º-B — (Dever de declaração)",
+   "in_force_from": "1990-01-03",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 98/89](https://diariodarepublica.pt/dr/detalhe/lei/98-1989-551248), publicado em 1989-12-29."
+   ],
+   "markdown": "###### Artigo 19.º-B — (Dever de declaração)\n\nOs deputados formularão e depositarão na Procuradoria-Geral da República declaração de inexistência de incompatibilidade ou impedimento nos 60 dias posteriores à tomada de posse.\n\n> Aditado pelo/a [Lei n.º 98/89](https://diariodarepublica.pt/dr/detalhe/lei/98-1989-551248), publicado em 1989-12-29."
+  }
+ }
+}

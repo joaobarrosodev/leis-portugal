@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-01-14'
+version_history:
+  file: decreto-lei-459-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-12-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-01-14'
+    amending: pt:dre:693446:por
+    amending_title: Decreto-Lei n.º 13/91
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:45:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 13/91. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-459-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,13 +143,21 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º A acção comunitária instituída pelo Regulamento (CEE) n.º [3529/86](http://data.europa.eu/eli/reg/1986/3529/oj?locale=pt) do Conselho, de 17 de Novembro, relativo à protecção das florestas contra os incêndios, é aplicada em Portugal nos termos daquele regulamento e deste diploma.
+###### Artigo 1.º
 
-Art. 2.º Cabe à Direcção-Geral das Florestas, adiante designada por DGF, e ao Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP, a execução da presente acção comunitária, nos termos previstos nos artigos seguintes.
+A acção comunitária relativa à protecção das florestas contra os incêndios instituída pelo Regulamento n.º [3529/86/CEE](https://data.europa.eu/eli/reg/1986/3529/oj?locale=pt), do Conselho, de 17 de Novembro, e posteriormente alterado pelo Regulamento n.º [1614/89/CEE](https://data.europa.eu/eli/reg/1989/1614/oj?locale=pt), do Conselho, de 29 de Maio, é aplicada a Portugal nos termos daqueles Regulamentos e deste diploma.
 
-Art. 3.º Para o efeito previsto no artigo anterior, compete à DGF:
+> Alterado pelo/a [Decreto-Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1991-693446), publicado em 1991-01-09.
 
-a) Promover e garantir a execução das medidas de prevenção previstas no artigo 2.º do Regulamento (CEE) n.º [3529/86](http://data.europa.eu/eli/reg/1986/3529/oj?locale=pt) do Conselho, de 17 de Novembro;
+###### Artigo 2.º
+
+Cabe à Direcção-Geral das Florestas, adiante designada por DGF, e ao Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas, adiante designado por IFADAP, a execução da presente acção comunitária, nos termos previstos nos artigos seguintes.
+
+###### Artigo 3.º
+
+Para o efeito previsto no artigo anterior, compete à DGF:
+
+a) Promover e garantir a execução das medidas previstas no artigo 2.º do Regulamento n.º [3529/86/CEE](https://data.europa.eu/eli/reg/1986/3529/oj?locale=pt), do Conselho, de 17 de Novembro, e no Regulamento n.º [1614/89/CEE](https://data.europa.eu/eli/reg/1989/1614/oj?locale=pt), do Conselho, de 29 de Maio;
 
 b) Pronunciar-se, no prazo de 30 dias, sobre os projectos que lhe sejam apresentados no âmbito deste diploma, devendo, no que respeita aos projectos de iniciativa privada a desenvolver em áreas protegidas, solicitar ao Serviço Nacional de Parques, Reservas e Conservação da Natureza parecer, a emitir no prazo de vinte dias, contado a partir da data da recepção do pedido de consulta;
 
@@ -155,7 +181,11 @@ l) Exigir dos beneficiários a restituição dos montantes por estes recebidos, 
 
 m) Informar o IFADAP dos projectos cuja execução se encontre concluída e prestar-lhe as informações e esclarecimentos que forem por este solicitados para o bom desempenho das funções que lhe são cometidas pelo presente diploma.
 
-Art. 4.º - 1 - Para o efeito previsto no artigo 2.º compete ao IFADAP:
+> Alterado pelo/a [Decreto-Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1991-693446), publicado em 1991-01-09.
+
+###### Artigo 4.º
+
+1 - Para o efeito previsto no artigo 2.º compete ao IFADAP:
 
 a) Elaborar e enviar à Comissão a relação dos documentos comprovativos exigidos no n.º 1 do artigo 1.º do Regulamento (CEE) n.º [1698/87](http://data.europa.eu/eli/reg/1987/1698/oj?locale=pt) da Comissão, de 10 de Junho;
 
@@ -169,31 +199,45 @@ e) Dar conhecimento à DGF dos pagamentos efectuados aos beneficiários.
 
 2 - No âmbito das suas atribuições, o IFADAP tem a faculdade de proceder a quaisquer acções de fiscalização da regularidade da aplicação dos financiamentos, devendo comunicar, prontamente, à DGF qualquer incumprimento detectado.
 
-Art. 5.º - 1 - Podem apresentar projectos ao abrigo deste diploma os serviços e organismos da administração central, regional e local, bem como entidades dos sectores privado, cooperativo ou público.
+###### Artigo 5.º
+
+1 - Podem apresentar projectos ao abrigo deste diploma os serviços e organismos da administração central, regional e local, bem como entidades dos sectores privado, cooperativo ou público.
 
 2 - A elaboração dos projectos é da responsabilidade dos candidatos aos financiamentos.
 
 3 - Na medida das suas disponibilidades e a solicitação dos candidatos, os serviços da DGF poderão prestar apoio na elaboração dos projectos.
 
-Art. 6.º - 1 - A participação comunitária nas medidas que a acção comum comporta é, no máximo, de 30%.
+###### Artigo 6.º
+
+1 - A participação comunitária nas medidas que a acção comporta é, no máximo, de 50%.
 
 2 - Sempre que a execução da acção prevista no artigo 1.º deste diploma seja da responsabilidade da administração central, o montante da contribuição nacional cobrirá o remanescente do respectivo valor global.
 
-3 - Quando a execução da acção prevista no artigo 1.º deste diploma for da responsabilidade de outras entidades que não as previstas no número anterior, poderá haver uma contribuição nacional até 45% das despesas orçamentadas, em termos a definir por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+3 - Quando a execução da acção prevista no artigo 1.º deste diploma for da responsabilidade de outras entidades que não as previstas no número anterior, pode haver uma contribuição nacional até 25% das despesas orçamentadas, em termos a definir por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
 
-Art. 7.º - 1 - Os pedidos de financiamento relativos à acção prevista no âmbito do presente diploma devem ser apresentados, com o respectivo projecto, na DGF, até ao dia 30 de Junho de cada ano, mediante o preenchimento do formulário distribuído pelos serviços.
+> Alterado pelo/a [Decreto-Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1991-693446), publicado em 1991-01-09.
+
+###### Artigo 7.º
+
+1 - Os pedidos de financiamento relativos à acção prevista no âmbito do presente diploma devem ser apresentados, com o respectivo projecto, na DGF, até ao dia 30 de Junho de cada ano, mediante o preenchimento do formulário distribuído pelos serviços.
 
 2 - Após aprovação dos projectos pelas instâncias comunitárias competentes, serão celebrados contratos donde constem as obrigações de ambas as partes.
 
 3 - O IFADAP pagará aos beneficiários as quantias correspondentes à participação financeira nacional concedida à medida da execução dos trabalhos e até um máximo de oito pagamentos por projecto, após a apresentação dos documentos comprovativos das despesas efectuadas.
 
-4 - O IFADAP, contra recibo, procederá à transferência para a entidade beneficiária, a seu pedido, de uma verba correspondente a 20% do valor orçamentado para o projecto.
+4 - Decorrendo a execução a cargo do Estado, o IFADAP, contra recibo, procederá à transferência para a entidade beneficiária de uma verba inicial correspondente a 20% da verba orçamentada para o projecto.
 
 5 - O IFADAP transferirá para as entidades beneficiárias as importâncias correspondentes à comparticipação comunitária nos quinze dias subsequentes à respectiva recepção.
 
-Art. 8.º Qualquer beneficiário poderá, por comunicação escrita à DGF, desistir do projecto apresentado ou da respectiva execução, desde que, simultaneamente, comprove ter procedido à restituição ao IFADAP das importâncias recebidas, acrescidas dos juros calculados à taxa legal, desde a data em que aquelas importâncias foram colocadas à sua disposição.
+> Alterado pelo/a [Decreto-Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1991-693446), publicado em 1991-01-09.
 
-Art. 9.º - 1 - No caso de incumprimento dos contratos referidos no n.º 2 do artigo 7.º, a DGF notificará os beneficiários para, no prazo de 30 dias, procederem à restituição ao IFADAP das quantias recebidas, acrescidas de juros à taxa legal, contados desde a data em que tais importâncias foram colocadas à sua disposição.
+###### Artigo 8.º
+
+Qualquer beneficiário poderá, por comunicação escrita à DGF, desistir do projecto apresentado ou da respectiva execução, desde que, simultaneamente, comprove ter procedido à restituição ao IFADAP das importâncias recebidas, acrescidas dos juros calculados à taxa legal, desde a data em que aquelas importâncias foram colocadas à sua disposição.
+
+###### Artigo 9.º
+
+1 - No caso de incumprimento dos contratos referidos no n.º 2 do artigo 7.º, a DGF notificará os beneficiários para, no prazo de 30 dias, procederem à restituição ao IFADAP das quantias recebidas, acrescidas de juros à taxa legal, contados desde a data em que tais importâncias foram colocadas à sua disposição.
 
 2 - Se a restituição não for feita no prazo indicado constituir-se-á ainda o beneficiário na obrigação de pagar os encargos resultantes do acompanhamento do processo e as despesas extrajudiciais para cobrança dos montantes devidos, para este efeito fixados em 10% do valor total das quantias recebidas pelos beneficiários.
 
@@ -205,7 +249,9 @@ Art. 9.º - 1 - No caso de incumprimento dos contratos referidos no n.º 2 do ar
 
 6 - As importâncias recebidas nos termos dos números anteriores serão reafectadas à execução das acções previstas neste diploma.
 
-Art. 10.º - 1 - A execução da acção prevista neste diploma envolve, anualmente, para o Estado, verbas consignadas em orçamento de funcionamento do organismo responsável pela coordenação e verbas destinadas à contribuição nacional consignadas no PIDDAC.
+###### Artigo 10.º
+
+1 - A execução da acção prevista neste diploma envolve, anualmente, para o Estado, verbas consignadas em orçamento de funcionamento do organismo responsável pela coordenação e verbas destinadas à contribuição nacional consignadas no PIDDAC.
 
 2 - As verbas previstas no n.º 2 do artigo 6.º serão inscritas no orçamento dos ministérios a que pertencem os organismos executores da acção ou por quem são tutelados.
 
@@ -213,9 +259,13 @@ Art. 10.º - 1 - A execução da acção prevista neste diploma envolve, anualme
 
 4 - As verbas inscritas no PIDDAC são transferidas para o IFADAP, que as administra de acordo com as condições gerais estabelecidas no presente diploma.
 
-Art. 11.º Pelos serviços prestados o IFADAP poderá receber uma comissão, em termos a definir por portaria dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+###### Artigo 11.º
 
-Art. 12.º - 1 - Os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira definirão, mediante diploma regional, as entidades que, nestas regiões, exercerão as competências conferidas pelo presente diploma à DGF.
+Pelos serviços prestados o IFADAP poderá receber uma comissão, em termos a definir por portaria dos Ministros das Finanças e da Agricultura, Pescas e Alimentação.
+
+###### Artigo 12.º
+
+1 - Os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira definirão, mediante diploma regional, as entidades que, nestas regiões, exercerão as competências conferidas pelo presente diploma à DGF.
 
 2 - As acções e projectos apresentados aos órgãos competentes das regiões autónomas serão enviados à DGF até 30 de Setembro de cada ano.
 

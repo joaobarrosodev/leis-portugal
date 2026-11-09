@@ -30,10 +30,40 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-12-16'
+version_history:
+  file: decreto-lei-325-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-07-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-12-16'
+    amending: pt:dre:221287:por
+    amending_title: Decreto-Lei n.º 408/86
+    changes:
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Altera Artigo 11.º
+    - Revoga Artigo 12.º
+    - Altera Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +89,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:19:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 408/86. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-325-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,9 +143,13 @@ A existência de uma concessão em exclusivo e as particularidades de uma empres
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É outorgada a Turismo da Serra da Estrela, Turistrela, S. A. R. L., empresa de economia mista, a constituir de acordo com a [Lei n.º 3/70](https://diariodarepublica.pt/dr/detalhe/lei/3-1970-225987), de 28 de Abril, a concessão em exclusivo da exploração do turismo e dos desportos na serra da Estrela.
+###### Artigo 1.º
 
-Art.2.º - 1. São aprovadas as bases do respectivo contrato de concessão do exclusivo, anexas ao presente decreto-lei, que, para todos os efeitos, são consideradas como fazendo dele parte integrante.
+É outorgada a Turismo da Serra da Estrela, Turistrela, S. A. R. L., empresa de economia mista, a constituir de acordo com a [Lei n.º 3/70](https://diariodarepublica.pt/dr/detalhe/lei/3-1970-225987), de 28 de Abril, a concessão em exclusivo da exploração do turismo e dos desportos na serra da Estrela.
+
+###### Artigo 2.º
+
+1. São aprovadas as bases do respectivo contrato de concessão do exclusivo, anexas ao presente decreto-lei, que, para todos os efeitos, são consideradas como fazendo dele parte integrante.
 
 2. As áreas abrangidas pela concessão do exclusivo são as que constam da planta anexa a este diploma.
 
@@ -124,97 +159,125 @@ Art.2.º - 1. São aprovadas as bases do respectivo contrato de concessão do ex
 
 5. Poderão ainda ser integradas na zona do exclusivo, se nisso acordarem o Estado e a concessionária, determinadas áreas e os estabelecimentos que interessem ao exercício de actividades relacionadas com a exploração do turismo na serra da Estrela.
 
-Art. 3.º - 1. No contrato administrativo de concessão outorgará, por parte do Estado, o Secretário de Estado da Informação e Turismo.
+###### Artigo 3.º
 
-2. Os poderes do concedente no que respeita ao objecto desta concessão serão igualmente exercidos pelo Secretário de Estado da Informação e Turismo, depois de ouvidos, conforme a natureza dos interesses em jogo, os Ministérios competentes.
+(Revogado.)
 
-Art. 4.º - 1. A aprovação dos planos de urbanização das áreas incluídas na zona da concessão, e de que obrigatóriamente deverão constar as localizações dos conjuntos turísticos, pertence conjuntamente ao Ministério das Obras Públicas e ao Secretário de Estado da Informação e Turismo, ouvidas as instâncias competentes.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
-2. Se no prazo de cento e vinte dias a contar da entrega, pela empresa concessionária, dos respectivos projectos de planos de urbanização, não recair sobre os mesmos despacho definitivo, consideram-se estes aprovados.
+###### Artigo 4.º
 
-Art. 5.º - 1. A aprovação dos projectos das obras integradas nos conjuntos turísticos é da competência da Direcção-Geral do Turismo, com audiência prévia e vinculante de outras entidades ou serviços a que, nos termos da lei, houver lugar.
+(Revogado.)
 
-2. Se a Direcção-Geral do Turismo não se pronunciar definitivamente no prazo de cento e vinte dias, a contar da apresentação dos projectos, considerar-se-ão os mesmos aprovados.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
-Art. 6.º Compete à câmara municipal do concelho onde se localizar a obra a atribuição das licenças de construção, de harmonia com os planos de urbanização e os projectos aprovados, devendo o respectivo alvará ser expedido no prazo de cinco dias.
+###### Artigo 5.º
 
-Art. 7.º O prazo da presente concessão é de sessenta anos, contados a partir da data da celebração do respectivo contrato.
+(Revogado.)
 
-Art. 8.º - 1. Os limites máximos das taxas e dos preços a cobrar, relativos aos vários serviços explorados na zona da concessão, e bem assim as respectivas regras de aplicação, serão fixados pelo Governo nos termos legais, sob proposta da concessionária.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
-2. Se o Governo não se pronunciar definitivamente, no prazo de sessenta dias, a contar da apresentação das propostas de fixação ou alteração de taxas e das regras de aplicação, consideram-se as mesmas aprovadas.
+###### Artigo 6.º
 
-Art. 9.º - 1. Compete ao Governo, sob proposta da concessionária, aprovar os regulamentos necessários à exploração da concessão.
+(Revogado.)
 
-2. Consideram-se aprovados os regulamentos apresentados pela concessionária, decorridos noventa dias a partir da apresentação, se o Governo não se pronunciar definitivamente sobre o seu conteúdo.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
-Art. 10.º Os regulamentos de exploração podem cominar a aplicação aos seus contraventores de penas de multas até 500$00, acrescidos de um terço por cada reincidência, cujo produto reverterá para o Estado.
+###### Artigo 7.º
 
-Art. 11.º - 1. A concessionária gozará, relativamente ao objecto da concessão, dos benefícios seguintes:
+O prazo da presente concessão é de sessenta anos, contados a partir da data da celebração do respectivo contrato.
+
+###### Artigo 8.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
+
+###### Artigo 9.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
+
+###### Artigo 10.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
+
+###### Artigo 11.º
+
+1. A concessionária gozará, relativamente ao objecto da concessão, dos benefícios seguintes:
 
 a) Isenção de todos os impostos devidos ao Estado e às autarquias locais, salvo o imposto do selo, por um período de quinze anos, a contar da data da celebração do contrato;
 
-b) Isenção de direitos de importação relativos aos materiais e equipamentos destinados definitivamente às obras, instalações e apetrechamentos turísticos e desportivos;
+b) (Revogada.)
 
-c) Concessão do regime de importação temporária para os equipamentos, ferramentas e utensílios destinados à execução das obras e trabalhos preliminares pelo prazo que para esse efeito for necessário.
+c) (Revogada.)
 
-2. A isenção prevista na alínea a) do n.º 1 deste artigo não abrange o imposto de transacções nem o imposto extraordinário para defesa e valorização do ultramar.
+2 - (Revogado.)
 
-Art. 12.º - 1. A empresa de economia mista Turismo da Serra da Estrela, Turistrela, S. A. R. L., constituir-se-á com um capital social inicial de 60000000$00, elevável, por simples deliberação do conselho de administração, até 120000000$00.
+> Alterado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
-2. A participação do sector público e do sector privado no capital social inicial traduzir-se-á, respectivamente, em 31000000$00 e 29000000$00.
+###### Artigo 12.º
 
-3. A participação do sector público será obtida à custa do Fundo de Turismo, da Comissão Regional de Turismo da Serra da Estrela, das câmaras municipais dos concelhos abrangidos na área da concessão e das juntas de freguesia das zonas de actuação da empresa.
+(Revogado.)
 
-4. Os limites da participação da Comissão Regional de Turismo da Serra da Estrela e das autarquias locais no capital social inicial totalizarão, respectivamente, 10000000$00 e 6000000$00.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
-5. O Fundo de Turismo subscreverá, no capital social inicial, não só os restantes 15000000$00 até ao limite da participação pública de 31000000$00. como ainda a parte do montante das acções atribuídas à Comissão Regional de Turismo da Serra da Estrela e às autarquias locais que não venham a ser efectivamente tomadas por estas entidades.
+###### Artigo 13.º
 
-6. Ficam desde já autorizados os entes públicos a subscrever futuros aumentos de capital, na proporção das respectivas posições iniciais.
+1. As acções de Turismo da Serra da Estrela, Turistrela, S. A. R. L., serão nominativas ou ao portador, livremente convertíveis com excepção das acções dos entes públicos que, enquanto se mantiverem na sua posse, serão sempre nominativas.
 
-7. O Fundo de Turismo goza do direito de preferência no rateio dos aumentos de capital social que couberem aos entes públicos e por estes não subscritos.
+2 - (Revogado.)
 
-Art. 13.º - 1. As acções de Turismo da Serra da Estrela, Turistrela, S. A. R. L., serão nominativas ou ao portador, livremente convertíveis com excepção das acções dos entes públicos que, enquanto se mantiverem na sua posse, serão sempre nominativas.
+> Alterado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
-2. A Comissão Regional de Turismo da Serra da Estrela e as autarquias locais não poderão negociar as acções que possuam na sociedade.
+###### Artigo 14.º
 
-Art. 14.º - 1. O conselho de administração da sociedade será constituído por cinco administradores, três em representação do sector público e dois em representação do sector privado.
+(Revogado.)
 
-2. Na representação do sector público haverá um administrador pelo Fundo de Turismo, outro pela Comissão Regional de Turismo da Serra da Estrela e o terceiro pelas câmaras municipais e juntas de freguesia.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
-3. Os dois administradores pelo sector privado serão eleitos em assembleia geral constituída apenas pelos accionistas deste sector.
+###### Artigo 15.º
 
-Art. 15.º - 1. O administrador por parte do Fundo de Turismo será nomeado pela comissão administrativa do Fundo e terá todos os direitos e obrigações que o [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, atribui aos administradores nomeados pelo Governo.
+(Revogado.)
 
-2. O Fundo de Turismo terá um administrador na sociedade enquanto dispuser na mesma uma participação accionista de pelo menos 10 por cento do capital social.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
-3. Enquanto existir na empresa um administrador pelo Fundo de Turismo o Estado não usará da faculdade do [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), quanto à nomeação de administradores pelo Governo.
+###### Artigo 16.º
 
-Art. 16.º A Comissão Regional de Turismo da Serra da Estrela nomeará, em reunião extraordinária especialmente convocada pelo seu presidente para esse fim, o administrador que a representará na sociedade, devendo a escolha recair sobre um indivíduo com residência habitual na região de turismo.
+(Revogado.)
 
-Art. 17.º - 1. O administrador por parte das câmaras municipais e juntas de freguesia será eleito em reunião de representantes destas autarquias locais expressamente realizadas para esse fim, devendo a escolha recair sobre indivíduo com residência habitual na região de turismo.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
-2. O número de votos de cada representante das câmaras municipais e das juntas de freguesia na reunião eleitoral será proporcional às acções que dispuserem na sociedade.
+###### Artigo 17.º
 
-3. A iniciativa da organização desta assembleia eleitoral caberá à câmara municipal do concelho onde a empresa tem a sua sede.
+(Revogado.)
 
-4. O representante de cada município na assembleia eleitoral será escolhido entre os indivíduos residentes no concelho, pela respectiva câmara municipal, em reunião expressamente convocada para esse fim.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
-5. O representante de cada junta de freguesia na assembleia eleitoral será escolhido em reunião de junta, expressamente convocada para tal fim de entre os chefes de família residentes na área da freguesia.
+###### Artigo 18.º
 
-Art.18.º - 1. O mandato dos administradores por parte do sector público tem a duração do dos administradores que representam o sector privado.
+(Revogado.)
 
-2. É admitida a recondução expressa do administrador pelo Fundo de Turismo e a reeleição dos administradores pela Comissão Regional de Turismo e pelas câmaras municipais e juntas de freguesia.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
-Art. 19.º O presidente do conselho administrativo será designado pelo Secretário de Estado da Informação e Turismo, de entre os administradores que tenham residência habitual na área da região de turismo.
+###### Artigo 19.º
 
-Art. 20.º - 1. O conselho fiscal da sociedade será composto por três membros efectivos e um suplente.
+(Revogado.)
 
-2. O presidente do conselho fiscal será nomeado pelo Secretário de Estado da Informação e Turismo entre os indivíduos com residência habitual na região de turismo.
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
 
-3. Os restantes vogais do conselho fiscal serão eleitos em assembleia constituída por todos os accionistas, com excepção do Fundo de Turismo.
+###### Artigo 20.º
 
-Art. 21.º A empresa de economia mista Turismo da Serra da Estrela, Turistrela, S. A. R. L., terá a sua sede na Covilhã.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 408/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1986-221287), publicado em 1986-12-11.
+
+###### Artigo 21.º
+
+A empresa de economia mista Turismo da Serra da Estrela, Turistrela, S. A. R. L., terá a sua sede na Covilhã.
 
 Visto o aprovado em Conselho de Ministros. - Marcello Caetano.
 

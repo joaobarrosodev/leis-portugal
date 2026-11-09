@@ -1,0 +1,125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:240859:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-08-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4aadf53ef48c265c"
+   ]
+  },
+  {
+   "date": "1983-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:451790:por",
+     "title": "Decreto-Lei n.º 227/83",
+     "published": "1983-05-27",
+     "dre_path": "/dr/detalhe/decreto-lei/227-1983-451790"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "ba913c61089c73ee",
+    "59e6dee344e54197",
+    "4fe72cb9a384ebbe",
+    "b0f8fa8147764ae1",
+    "424ca047f693c8cf",
+    "c5a3e6b8b66859e7",
+    "c8f5d47c8537d620"
+   ]
+  }
+ ],
+ "fragments": {
+  "4aadf53ef48c265c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Agosto\n\nTendo em vista fomentar a mobilização, pelo sistema bancário nacional, de disponibilidades em moeda estrangeira, aumentando a sua capacidade de financiamento do investimento e, reflexamente, atenuando a pressão dos saldos negativos da balança de pagamentos externos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º Os bancos comerciais, a Caixa Geral de Depósitos e o Banco de Fomento Nacional ficam autorizados a abrir contas de depósito com pré-aviso ou a prazo em moedas estrangeiras em nome de pessoas singulares ou colectivas residentes ou domiciliadas no estrangeiro.\n\nArt. 2.º - 1. Os depósitos com pré-aviso a que alude o artigo anterior serão apenas exigíveis depois de prevenida a instituição depositária, por escrito, com a antecipação fixada na cláusula do pré-aviso, antecipação que não poderá ser inferior a trinta dias nem exceder noventa dias.\n\n2. Quanto aos depósitos a prazo, apenas serão exigíveis findo o prazo pelo qual foram efectuados, prazo que não poderá ser inferior a cento e oitenta dias, ou exceder, para cada instituição, os prazos máximos dos depósitos que esteja autorizada a receber em moeda nacional.\n\n3. Mediante autorização prévia do Banco de Portugal, os depósitos a prazo poderão ser liquidados, no todo ou em parte, e a pedido dos depositantes, antes da data do respectivo vencimento.\n\nArt. 3.º Os depósitos a prazo consideram-se prorrogados por período igual ao do prazo por que foram constituídos, no caso de falta de declaração em contrário, feita pelo depositante, até à data do vencimento do depósito.\n\nArt. 4.º Por aviso do Banco de Portugal, serão determinadas as moedas estrangeiras em que se podem constituir os depósitos referidos no artigo 1.º e fixadas as taxas de juro dos correspondentes depósitos com pré-aviso ou a prazo.\n\nArt. 5.º O Banco de Portugal transmitirá às instituições de crédito indicadas no artigo 1.º as instruções que julgue indispensáveis para a verificação do cumprimento do disposto no presente diploma, nomeadamente determinando o procedimento contabilístico a adoptar, para que, nas situações dessas instituições de crédito, se identifiquem claramente os montantes dos saldos das contas de depósito constituídas.\n\nArt. 6.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.\n\nPromulgado em 29 de Agosto de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "ba913c61089c73ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Agosto\n\nTendo em vista fomentar a mobilização, pelo sistema bancário nacional, de disponibilidades em moeda estrangeira, aumentando a sua capacidade de financiamento do investimento e, reflexamente, atenuando a pressão dos saldos negativos da balança de pagamentos externos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "59e6dee344e54197": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1983-05-27",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27."
+  },
+  "4fe72cb9a384ebbe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1983-05-27",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27."
+  },
+  "b0f8fa8147764ae1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1983-05-27",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27."
+  },
+  "424ca047f693c8cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1983-05-27",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27."
+  },
+  "c5a3e6b8b66859e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1983-05-27",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27."
+  },
+  "c8f5d47c8537d620": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1983-05-27",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 227/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1983-451790), publicado em 1983-05-27.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares - António Francisco Barroso de Sousa Gomes - Henrique Medina Carreira.\n\nPromulgado em 29 de Agosto de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

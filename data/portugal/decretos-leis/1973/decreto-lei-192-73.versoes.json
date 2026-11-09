@@ -1,0 +1,728 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:421996:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1973-04-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8c7ae0c24f702654",
+    "ed639dc4a4ea326c",
+    "ec1637d6bb3f964d",
+    "72e6347438d871f6",
+    "9df7dd10620bd36f",
+    "4c80573085021c0a",
+    "895b0880c2d623fc",
+    "e733de7f49766579",
+    "25c20805a831f26b",
+    "a9dbbaa278987b5b",
+    "f457c3969cd116ba"
+   ]
+  },
+  {
+   "date": "1975-06-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:407101:por",
+     "title": "Decreto-Lei n.º 29/74",
+     "published": "1974-02-01",
+     "dre_path": "/dr/detalhe/decreto-lei/29-1974-407101"
+    },
+    {
+     "id": "pt:dre:335744:por",
+     "title": "Decreto-Lei n.º 286/75",
+     "published": "1975-06-09",
+     "dre_path": "/dr/detalhe/decreto-lei/286-1975-335744"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "8c7ae0c24f702654",
+    "5d398bf9e2b7dcba",
+    "cadbc4bd3cf4c359",
+    "e24a05f415fef010",
+    "50ec0409739ad116",
+    "177af0d012262ea6",
+    "8966aca89383eef9",
+    "5c2693472f3536e1",
+    "1b666dd690aa866f",
+    "8e0383dbb8f7ee43",
+    "6fc75753fe767b91",
+    "8d781bac04eadb3d",
+    "e57145168f4730cb",
+    "8b24dd3ecfcaeadd",
+    "513f15cf6b1e337f",
+    "df19d134dcdc6a78",
+    "b6e47945a93a482b",
+    "e753be876b5f3272",
+    "0e15a950f9f76dbb",
+    "441c5285c9a1afbc",
+    "9fe1bb67fa0986cf",
+    "a3520774ee7aa38c",
+    "99bbee3053eee2f4",
+    "d0708f5265adbe3b",
+    "9d95d11d3ba39e95",
+    "332158973b1d433a",
+    "8b6b6931b97c0181",
+    "2b8c06c2ab0fc0ff",
+    "53cd3585b3f2d0b9",
+    "46ddbbad5de7a3da",
+    "13c9e0bbcd81bd78",
+    "8a9789c1dde3a7d0",
+    "b83f41549523efdd",
+    "394d73382b4d0bcd",
+    "0c94e785c1a0f2f6",
+    "9f59ea7d0901bb5b",
+    "2802349eb18ca743",
+    "205b020f4fcf5da2",
+    "18c8f67d5de3abe4",
+    "31387c2d7e9c1389",
+    "be6e3c498aaa381d",
+    "8c7fddc7926c2ebf",
+    "7ebb6633ad22b619",
+    "579189fce1c83275",
+    "f2d49e058e2fe97c",
+    "d55a25e803536733",
+    "1164688e5c63bca7",
+    "5a3b1d1800c794ce",
+    "5b276ade5a603666",
+    "4220c4ed5ffb96b7",
+    "ed1b60292ef3c4c2",
+    "753404b4a0b5f6e7",
+    "59c1292b93952789",
+    "05fccc2de55f5b5d",
+    "5d6d69b941716095",
+    "0e7d82292e7a98cd",
+    "f8d25d037eb7800e",
+    "447433f0d4d53c85",
+    "05ef2b723c0b4ea9",
+    "014fbd37f4f8e028",
+    "51769c018d2b9892",
+    "aa9182d0587ba0cd",
+    "3d8c1ecef6e44a48",
+    "cdb516cfb58f9a94",
+    "a872fe7523431608",
+    "a9dbbaa278987b5b",
+    "f457c3969cd116ba"
+   ]
+  }
+ ],
+ "fragments": {
+  "8c7ae0c24f702654": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Abril\n\nQuando foi criado o Tribunal de julgamento de Reclamações e Transgressões (T. R. T.) na Câmara Municipal de Lisboa, a regulamentação legal não foi além da definição sucinta da sua competência e forma de recrutamento dos magistrados.\n\nA competência do Tribunal circunscrevia-se à instrução e julgamento das reclamações contenciosas e das transgressões fiscais e, ainda, das transgressões às posturas e regulamentos policiais.\n\nEste regime foi posteriormente consagrado no Código Administrativo vigente, onde se contêm as principais normas dos respectivos processos fiscais.\n\nO progressivo aumento do número de processos neste Tribunal e a verificação na Câmara Municipal do Porto das mesmas circunstâncias que haviam determinado a criação do Tribunal de Lisboa levaram a criar, pelo [Decreto-Lei n.º 45248](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45248-1963-686232), de 16 de Setembro de 1963, o Tribunal de Reclamações e Transgressões junto da Câmara Municipal do Porto e mais um lugar de juiz no Tribunal de Lisboa.\n\nNesse diploma atribuiu-se aos dois Tribunais a mesma competência em matéria de instrução e julgamento de processos; definiram-se alguns princípios a observar no Tribunal de Lisboa por motivo do seu desdobramento; consagrou-se o regime de recrutamento e substituição dos magistrados, do chefe da secretaria e escrivães, e, finalmente, estabeleceram-se as vias de recurso das decisões proferidas nos processos de reclamação e transgressão fiscal.\n\nPor motivo da publicação do Código de Processo das Contribuições e Impostos - aprovado pelo [Decreto-Lei n.º 45005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45005-1963-628297), de 27 de Abril de 1963 -, foi publicado o [Decreto-Lei n.º 45224](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45224-1963-685655), de 4 de Setembro de 1963, que mandou aplicar aquele Código aos processos das Câmaras Municipais de Lisboa e do Porto, continuando excluída dos Tribunais de Reclamações e Transgressões a competência em matéria de execuções fiscais.\n\nVerifica-se, porém, que os processos de execução fiscal se acumulam, em número avultadíssimo, nos Tribunais de 1.ª Instância das Contribuições e Impostos dos Distritos de Lisboa e do Porto, quando os tribunais privativos das Câmaras Municipais de Lisboa e do Porto, presididos por magistrados judiciais, reúnem todas as condições para alargar a sua competência às execuções por dívidas aos respectivos corpos administrativos.\n\nCom a atribuição aos referidos Tribunais de competência para o julgamento dos processos de execução fiscal, possibilita-se a mais rápida arrecadação das receitas municipais e contribui-se para a valorização dos serviços das Câmaras Municipais de Lisboa e do Porto, conferindo-lhes a independência que merecem por sua particularidade e grandeza.\n\nDadas as dimensões dos Tribunais das Câmaras Municipais de Lisboa e do Porto, entendeu-se necessário regulamentar pormenorizadamente a sua organização e definir com precisão as normas aplicáveis aos processos da sua competência.\n\nManteve-se a aplicação do Código de Processo das Contribuições e Impostos nos processos de natureza fiscal, mas entendeu-se conveniente que todas as suas fases corressem no próprio Tribunal, e, daí, algumas alterações significativas, a par de outras, destinadas a simplificar os termos processuais e as actividades dos serviços camarários conducentes à respectiva instauração, sempre sem quebra ou diminuição das garantias dos interessados.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "ed639dc4a4ea326c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Composição, funcionamento e competência dos Tribunais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Composição, funcionamento e competência dos Tribunais\n\nArtigo 1.º Nos concelhos de Lisboa e do Porto funcionam junto das respectivas Câmaras Municipais tribunais especiais de 1.ª instância denominados «Tribunal Municipal de Lisboa» (T. M. L.) e «Tribunal Municipal do Porto» (T. M. P.).\n\nArt. 2.º Os Tribunais Municipais de Lisboa e do Porto são singulares e compreendem toda a área da respectiva circunscrição administrativa.\n\nArt. 3.º - 1. O Tribunal Municipal de Lisboa compõe-se de três juízos e o do Porto de um único juízo, havendo um juiz de direito em cada um dos juízos.\n\n2. Pode, porém, cada um dos juízos funcionar com mais de um juiz de direito, quando, por circunstâncias de carácter transitório, o respectivo serviço se encontre sensivelmente atrasado.\n\nArt. 4.º - 1. O Ministério Público junto dos Tribunais Municipais de Lisboa e do Porto é representado em cada um deles por um delegado do procurador da República.\n\n2. No Tribunal Municipal de Lisboa pode haver mais de um delegado, quando o respectivo serviço o justifique.\n\nArt. 5.º Aos Tribunais Municipais de Lisboa e do Porto compete:\n\na) Em matéria criminal - a jurisdição relativa às infracções das posturas e dos regulamentos policiais respeitantes às atribuições da respectiva câmara municipal, a que corresponda processo de transgressão ou sumário;\n\nb) Em matéria fiscal - conhecer, em 1.ª instância, de todas as questões relativas a processos de impugnação judicial, de transgressão e de execução fiscal, sempre que esteja em causa a liquidação e cobrança dos impostos, taxas e outras receitas municipais e das juntas de freguesia, infracções cometidas pelos contribuintes aos regulamentos da liquidação e cobrança dos mesmos impostos e taxas municipais e a execução de todas as dívidas aos respectivos corpos administrativos.\n\nArt. 6.º Compete aos juizes dos Tribunais Municipais de Lisboa e do Porto, relativamente aos processos neles instaurados:\n\na) Conhecer das questões submetidas à sua jurisdição e fazer cumprir as respectivas decisões;\n\nb) Condenar em custas e impor multas nos termos da lei;\n\nc) Presidir e manter a ordem nos serviços do Tribunal;\n\nd) Presidir à distribuição dos processos, assinar as provisões e as ordens emanadas do Tribunal, fazer cumprir a execução delas e ordenar a passagem de certidões, nos casos em que esta dependa de despacho;\n\ne) Dar conhecimento ao Ministério Público de quaisquer factos criminosos que constem dos processos, quando a acção penal pública deva ter lugar, e de quaisquer actos praticados para defraudar as câmaras municipais ou a Fazenda Nacional e que só possam ser anulados por decisão dos tribunais ordinários;\n\nf) Exercer as demais funções que lhes sejam cometidas por lei.\n\nArt. 7.º Compete aos mesmos juizes, relativamente ao funcionamento do respectivo Tribunal:\n\na) Orientar e fiscalizar superiormente o andamento dos processos, resolvendo as dúvidas que se levantem e fazendo ao presidente da câmara, quando necessário, as propostas que julgarem convenientes para a regularidade dos mesmos serviços;\n\nb) Assinar os termos de abertura e de encerramento de todos os livros existentes no Tribunal e rubricar as folhas, podendo usar de chancela;\n\nc) Exercer sobre os funcionários do Tribunal a acção disciplinar que a lei lhes conferir;\n\nd) Elaborar anualmente um relatório do estado dos serviços com referência ao ano anterior, fazendo as propostas que entenderem convenientes;\n\ne) Prestar anualmente informação sobre a forma como os funcionários da secretaria exercem os seus cargos;\n\nf) Cumprir os mandatos, cartas, ofícios e telegramas de outros tribunais da mesma espécie e dos juizes do contencioso dos impostos municipais;\n\ng) Requisitar a quaisquer entidades ou repartições públicas as informações, documentos, diligências e actos necessários ao andamento dos processos e ao expediente do Tribunal;\n\nh) Exercer as demais funções que lhes sejam cometidas por lei.\n\nArt. 8.º No Tribunal Municipal de Lisboa compete em cada ano, e alternadamente, a um dos juizes de direito, seguindo a numeração dos juízos:\n\na) Superintender nos serviços de secretaria que sejam comuns, devendo previamente recolher a opinião dos outros juizes quando as decisões possam afectar o serviço dos demais juízos;\n\nb) Presidir à distribuição dos processos;\n\nc) Efectuar o serviço de expediente dos actos que possam ser praticados independentemente de distribuição.\n\nArt. 9.º - 1. Nos Tribunais Municipais de Lisboa e do Porto não há férias judiciais.\n\n2. O regime de licenças e faltas dos magistrados e demais funcionários é regulado pela legislação aplicável aos funcionários administrativos.\n\nArt. 10.º - 1. Nas suas faltas ou impedimentos, os juizes substituem-se uns aos outros, segundo a ordem numérica dos juízos.\n\n2. Havendo um só juiz, ou faltando ou estando impedidos todos, simultaneamente, compete a substituição ao juiz do Tribunal de Recurso das Avaliações ou, na falta ou impedimento deste, ao juiz do Tribunal de Polícia ou quem as suas vezes fizer.\n\nArt. 11.º Os mandados de captura e de notificação em matéria criminal emanados destes Tribunais podem ser cumpridos, em toda a área da comarca sede, independentemente de quaisquer outras formalidades."
+  },
+  "ec1637d6bb3f964d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Dos magistrados judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Dos magistrados judiciais\n\nArt. 12.º - 1. As funções de juiz dos Tribunais Municipais de Lisboa e do Porto são exercidas por juizes de direito de 3.ª ou de 2.ª classe, nomeados pelo Ministro do Interior, ouvido o Ministro da Justiça.\n\n2. A nomeação será feita em comissão de serviço por períodos renováveis de três anos, caducando necessariamente logo que o magistrado seja promovido à 1.ª classe.\n\n3. No caso do n.º 2 do artigo 3.º, poderão ser nomeados, em comissão de serviço, pelo período de um ano, prorrogável, os juizes que, além do quadro, se reputem necessários à completa normalização do serviço.\n\nArt. 13.º Os juizes dos Tribunais Municipais de Lisboa e do Porto têm o mesmo tratamento, honras e direitos dos magistrados que ocupam correspondentes lugares nos tribunais ordinários e percebem o vencimento e emolumentos a que têm direito os juizes de 1.ª classe das comarcas de Lisboa e Porto.\n\nArt. 14.º Os juizes dos Tribunais Municipais de Lisboa e do Porto ficam hierarquicamente subordinados ao presidente da respectiva Relação e prestam compromisso de honra e tomam posse perante o presidente da Câmara Municipal.\n\nArt. 15.º Os magistrados judiciais em serviço nestes Tribunais estão sujeitos à disciplina e classificação do Conselho Superior Judiciário, nos termos do Estatuto Judiciário.\n\nArt. 16.º O cartão de identidade profissional dos magistrados judiciais destes Tribunais é idêntico aos dos magistrados dos tribunais ordinários e será emitido pela Direcção-Geral dos Serviços Judiciários."
+  },
+  "72e6347438d871f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Dos magistrados do Ministério Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Dos magistrados do Ministério Público\n\nArt. 17.º Compete aos agentes do Ministério Público junto dos Tribunais Municipais de Lisboa e do Porto:\n\na) Representar o Estado e a Câmara Municipal;\n\nb) Dirigir a instrução preparatória e exercer a acção penal, oficiosamente ou mediante denúncia;\n\nc) Dirigir a instrução dos processos de natureza fiscal e exercer acção penal tributária, oficiosamente ou mediante denúncia;\n\nd) Intervir nos processos criminais de transgressão e sumário e nos de impugnação judicial, transgressão e execução fiscal, nos termos estabelecidos na lei;\n\ne) Velar pela legalidade das prisões e pela observância dos prazos a elas respeitantes;\n\nf) Fiscalizar o pagamento de todas as quantias liquidadas no Tribunal, conferindo os respectivos documentos;\n\ng) Fiscalizar a observância das leis tributárias camarárias e das juntas de freguesia e levantar autos de transgressão pelas infracções de que tomem conhecimento;\n\nh) Participar ao agente do Ministério Público competente dos tribunais ordinários todos os actos praticados para defraudar as câmaras municipais ou o Estado e que só possam ser anulados por decisão desses mesmos tribunais e informar o procurador da República da existência de sociedades comerciais que se tenham constituído ou funcionem ilegalmente, logo que delas tenham conhecimento;\n\ni) Interpor recursos nos termos das leis de processo;\n\nj) Promover a imposição de multas, a execução por custas e multas e a execução por dívidas afectas à competências destes Tribunais, nos termos da lei;\n\nl) Intervir em quaisquer questões sobre contagem de custas;\n\nm) Promover a condenação em multa por má fé, nos termos da lei do processo; para esse efeito o magistrado do Ministério Público tem vista dos autos antes da decisão final e é notificado desta, podendo interpor os recursos que julgue convenientes;\n\nn) Fiscalizar a observância da lei e, sem prejuízo nem perturbação das funções judiciais, a actividade da secretaria do respectivo tribunal e o cumprimento dos deveres dos seus funcionários;\n\no) Visar, escriturar ou fazer escriturar os livros e o expediente dos seus serviços e organizar o respectivo arquivo;\n\np) Requisitar a quaisquer entidades ou repartições públicas as informações, documentos, diligências e actos necessários à instrução dos processos e usar de todos os meios legais para defesa dos direitos que lhes estão confiados;\n\nq) Dirigir e fiscalizar a organização dos mapas e informações oficiais exigidos por lei ou pelo seu superior hierárquico e remetê-los ao destino legal;\n\nr) Consultar o superior hierárquico sobre dúvidas relacionadas com o exercício das suas funções, fundamentando a consulta e dando parecer sobre o assunto;\n\ns) Promover tudo o que importe à boa ordem e celeridade dos serviços;\n\nt) Exercer as demais funções que lhes sejam cometidas por lei.\n\nArt. 18.º As funções de agente do Ministério Público junto dos Tribunais Municipais de Lisboa e do Porto são exercidas por delegados do procurador da República de 3.ª ou de 2.ª classe, nomeados pelo Ministro do Interior, ouvido o Ministro da Justiça.\n\nArt. 19.º - 1. Os magistrados do Ministério Público são hierarquicamente dependentes do procurador da República junto da respectiva Relação e prestam o compromisso de honra e tomam posse perante o presidente da câmara municipal.\n\n2. Os mesmos magistrados receberão do presidente da respectiva câmara municipal as instruções necessárias à defesa dos interesses municipais.\n\nArt. 20.º - 1. Nas suas faltas ou impedimentos os agentes do Ministério Público substituem-se mutuamente, se houver mais do que um.\n\n2. Havendo só um, ou faltando ou estando impedidos todos simultaneamente, serão substituídos por quem o procurador da República junto da respectiva Relação designar.\n\nArt. 21.º Os magistrados do Ministério Público em serviço nestes Tribunais estão sujeitos à disciplina e classificação do Conselho Superior do Ministério Público, nos termos do Estatuto Judiciário.\n\nArt. 22.º O agentes do Ministério Público junto dos Tribunais Municipais de Lisboa e do Porto têm o mesmo tratamento, honras e direitos dos magistrados que ocupem correspondentes lugares nos tribunais ordinários e percebem o vencimento e emolumentos a que têm direito os delegados do procurador da República de 1.ª classe das comarcas de Lisboa e do Porto.\n\nArt. 23.º Em tudo quanto não vem especialmente regulado neste capítulo é extensivo aos magistrados do Ministério Público, com as adaptações que se mostrem necessárias, o disposto nos artigos 3.º n.º 2, 12.º n.os 2 e 3, e 16.º"
+  },
+  "9df7dd10620bd36f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Das secretarias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Das secretarias\n\nArt. 24.º Em cada um dos Tribunais há uma só secretaria, e esta é composta por uma única secção central e por duas secções de processos por cada juízo.\n\nArt. 25.º - 1. A composição de cada secretaria judicial é a que consta do mapa anexo a este diploma.\n\n2. O Ministro do Interior pode, quando o interesse dos serviços o exija, alterar, por simples portaria, a composição de qualquer das secretarias.\n\n3. É extensivo aos serviços das secretarias, incluindo o serviço de oficiais de diligências, o disposto no n.º 2 do artigo 3.º e n.º 3 do artigo 12.º\n\nArt. 26.º - 1. Os chefes de secretaria, os escrivães de direito e os oficiais de diligências têm a competência definida nos artigos 300.º, 304.º e 306.º do Estatuto Judiciário, com as necessárias adaptações.\n\n2. Aos chefes de secretaria compete, ainda:\n\na) Organizar o arquivo de impressos, devendo elaborar um catálogo, devidamente numerado, de todos os impressos em uso no Tribunal e fornecer um exemplar a cada escrivão de direito;\n\nb) Orientar os funcionários especialmente encarregados de manejar os aparelhos de fotocópias e as máquinas duplicadoras e fiscalizar o uso que delas é feito.\n\n3. A contagem dos processos e papéis avulsos é da competência do escrivão de direito da secção.\n\nArt. 27.º - 1. Haverá um guarda da Polícia Municipal na secção central e em cada um dos juízos, a fim de auxiliar os contínuos e oficiais de diligências no serviço interno e policiamento dos Tribunais e no cumprimento dos mandados de captura.\n\n2. Nas diligências que lhes podem ser confiadas os guardas têm competência igual à dos oficiais de diligências.\n\nArt. 28.º Na secção central e nas secções de processos de cada Tribunal haverá os livros referidos no artigo 307.º do Estatuto Judiciário que se mostrem necessários.\n\nArt. 29.º Os funcionários do Tribunal, quando estejam no exercício de funções próprias dos seus cargos, têm livre trânsito em todos os lugares públicos onde se justifique o seu ingresso, mediante a apresentação do cartão de identidade passado pela câmara municipal e do documento comprovativo da diligência que no recinto público se proponham realizar.\n\nArt. 30.º - 1. Os chefes de secretaria, escrivães de direito, ajudantes de escrivão e oficiais de diligências são nomeados livremente pelo Ministro do Interior, ouvido o Ministro da Justiça, entre funcionários de justiça que reúnam as condições legais para o exercício dos respectivos cargos.\n\n2. As funções referidas no número anterior são exercidas em comissão e o serviço dos funcionários considera-se, para todos os efeitos, como se fosse prestado nos respectivos quadros.\n\n3- O preenchimento dos restantes lugares é feito com funcionários administrativos de igual categoria, destacados dos quadros do pessoal da respectiva câmara municipal.\n\n4. Os funcionários que à data da entrada em vigor do presente diploma exercem as funções de oficiais de diligências são mantidos nos seus cargos.\n\n5. Poderá ser reforçado, a título eventual, o pessoal previsto no n.º 3 com os funcionários administrativos necessários à actualização dos serviços.\n\nArt. 31.º - 1. Os chefes de secretaria e escrivães de direito dos Tribunais Municipais de Lisboa e do Porto têm os mesmos direitos e percebem vencimentos iguais aos dos funcionários da mesma categoria dos tribunais ordinários da 1.ª instância das comarcas de Lisboa e do Porto.\n\n2. Os ajudantes de escrivão de direito percebem o vencimento fixado aos ajudantes de escrivão de direito dos tribunais judiciais.\n\n3. Os oficiais de diligências auferem vencimento igual ao fixado para os funcionários da mesma categoria dos Tribunais de 1.ª Instância das Comarcas de Lisboa e do Porto.\n\n4. É aplicável aos funcionários referidos nos números anteriores o disposto no artigo 15.º\n\nArt. 32.º A participação emolumentar dos funcionários de justiça dos Tribunais Municipais de Lisboa e do Porto é igual à atribuída aos funcionários das categorias correspondentes dos tribunais criminais."
+  },
+  "4c80573085021c0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Dos serviços de tesouraria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Dos serviços de tesouraria\n\nArt. 33.º Junto de cada um dos Tribunais Municipais de Lisboa e do Porto há uma delegação da tesouraria da respectiva câmara municipal, a qual funciona na directa dependência do tesoureiro da câmara municipal.\n\nArt. 34.º É aplicável aos serviços de tesouraria o disposto nos artigos 323.º e 325.º do Estatuto Judiciário, com as adaptações necessárias, mas sem prejuízo do determinado na organização dos serviços da respectiva câmara municipal."
+  },
+  "895b0880c2d623fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Do processo\n\nArt. 35.º - 1. Nos Tribunais Municipais de Lisboa e do Porto todos os processos entrados serão distribuídos igualmente e por espécies entre os respectivos juízos e secções de processos.\n\n2. A distribuição dos processos é feita nos termos estabelecidos para os tribunais comuns.\n\n3. Na distribuição dos processos fiscais há as seguintes espécies:\n\n1.ª Processos de impugnação;\n\n2.ª Processos de transgressão fiscal;\n\n3.ª Processos de execução fiscal;\n\n4.ª Cartas e ofícios precatórios.\n\nArt. 36.º Os processos da competência dos Tribunais Municipais de Lisboa e do Porto regem-se pelas seguintes normas:\n\na) Os processos de natureza policial, de transgressão e sumário - pelo Código de Processo Penal e Código das Custas Judiciais e legislação complementar;\n\nb) Os processos de natureza fiscal, de impugnação, de transgressão e de execução - pelo Código de Processo das Contribuições e Impostos e Regulamento das Custas dos Processos das Contribuições e Impostos e legislação complementar, com as necessárias adaptações e com as alterações constantes do presente diploma.\n\nArt. 37.º Os processos de impugnação, de transgressão e de execução são instaurados e todas as suas fases correm nos Tribunais Municipais de Lisboa e do Porto, pertencendo à repartição camarária incumbida da liquidação de impostos e licenças e ao respectivo chefe a competência referida nos artigos seguintes.\n\nArt. 38.º - 1. No processo de impugnação judicial, autuada a petição, será o processo concluso ao juiz para proferir despacho nos termos aplicáveis dos artigos 474.º e seguintes do Código de Processo Civil.\n\n2. Se não houver motivo para indeferimento liminar e a petição estiver em termos de ser recebida, deverá ser mandado remeter o processo à repartição camarária incumbida da liquidação de impostos e licenças, a fim de ser prestada informação da fiscalização sobre a matéria de facto considerada pertinente e de o chefe da repartição informar sobre os elementos oficiais que digam respeito à colecta impugnada e sobre a restante matéria do pedido e juntar os documentos que reputar convenientes.\n\n3. O processo deverá ser devolvido ao Tribunal no prazo de trinta dias, devidamente informado e acompanhado do processo de reclamação, se o houver, para efeito de apensação.\n\n4. Recebido o processo e apensada a reclamação, quando a houver, será ordenada a notificação do representante do Ministério Público para responder à matéria da impugnação e oferecer provas.\n\n5. Ainda que não haja contestação ou impugnação especificada dos factos, não se terão estes por confessados.\n\nArt. 39.º - 1. No processo ordinário de transgressão fiscal compete à repartição camarária incumbida da liquidação de impostos e licenças e ao respectivo chefe de repartição unicamente a prática dos actos que, nos termos dos artigos 117.º a 128.º do Código de Processo das Contribuições e Impostos, são da competência das repartições de finanças ou do respectivo chefe, com excepção da notificação do arguido para o pagamento voluntário.\n\n2. Deduzida a acusação, o juiz ordenará, logo, a notificação do arguido para, no prazo de trinta dias, pagar voluntariamente o que tiver sido liquidado ou apresentar a sua contestação, oferecer documentos, arrolar testemunhas e requerer outras provas.\n\n3. No acto da notificação será sempre entregue ao arguido cópia da acusação.\n\n4. Toda a prova oferecida será produzida no Tribunal.\n\nArt. 40.º - 1. No processo sumário de transgressão fiscal, levantado o auto de notícia e liquidada a multa e o imposto que deva ser cumulativamente cobrado no processo, a repartição camarária incumbida da liquidação de impostos e licenças e o respectivo chefe de repartição terão competência unicamente para a prática de diligências complementares de prova e junção dos elementos oficiais de que disponha ou possa solicitar para esclarecimento dos factos.\n\n2. O auto de notícia, ainda que sem diligências complementares ou findas estas, será imediatamente remetido ao Tribunal, equivalendo a remessa, para todos os efeitos, à acusação.\n\n3. Se o auto de notícia não satisfizer aos requisitos legais, será devolvido para sua regularização ou instrução do processo.\n\n4. Recebido o auto de notícia e verificada a sua regularidade e que há fundamento para a acusação, o juiz mandará notificar o arguido para, no prazo de trinta dias, pagar voluntariamente o que tiver sido liquidado ou apresentar a sua contestação, oferecer documentos, arrolar testemunhas e requerer outras provas.\n\n5. Toda a prova oferecida será produizda no Tribunal.\n\nArt. 41.º As operações de relaxe das dívidas às Câmaras Municipais de Lisboa e do Porto efectuar-se-ão nos termos seguintes:\n\na) Nos dias 15 e último de cada mês, em relação às dívidas cujo prazo de pagamento voluntário tenha terminado na quinzena anterior, o chefe do serviço, onde se encontrem os documentos à cobrança, entregará ao chefe da repartição de impostos e licenças todos os conhecimentos que ficaram por cobrar, acompanhados de relação, com os duplicados necessários, datada e assinada pelo mesmo e autenticada com o selo branco, na qual se deve mencionar o último dia previsto para o pagamento voluntário;\n\nb) O chefe da repartição, no dia do recebimento dos conhecimentos relaxados e da respectiva relação, aporá nesta o seu visto, indicando a data da entrega, e passará recibo;\n\nc) No prazo de dois dias, o chefe da repartição verificará a conformidade das relações com os conhecimentos relaxados e, se reconhecer a omissão de qualquer conhecimento ou outra deficiência, deverá declará-lo na relação e considerar cobrada a importância dos conhecimentos omitidos, ficando ressalvado o direito de se exigir, pelos meios comuns, as quantias desembolsadas.\n\nArt. 42.º - 1. O chefe da repartição incumbida da liquidação de impostos e licenças deverá, nos dez dias seguintes, remeter ao Tribunal os conhecimentos relaxados, acompanhados da respectiva relação, em duplicado, a fim de serem instaurados os processos de execução fiscal, e inscreverá, sempre que possível, em cada um dos conhecimentos ou, sendo necessário, em documento anexo, as indicações referidas no artigo 30.º do Código de Processo das Contribuições e Impostos, com as necessárias adaptações, ou quaisquer outras que se mostrem úteis.\n\n2. Os originais das relações constituirão o livro de registo e protocolo da distribuição de processos e o duplicado deverá ser devolvido no prazo de dez dias à Direcção dos Serviços de Finanças, para aí ser arquivado.\n\nArt. 43.º - 1. Durante o período das operações do relaxe pode o contribuinte efectuar o pagamento da dívida, acrescida dos juros de mora e de uma taxa de 3% sobre o valor da divida, que constituirá receita da respectiva câmara municipal, não podendo, porém, o produto dessa percentagem ser inferior a 5$00 nem superior a 5000$00, o que tudo será liquidado no próprio conhecimento.\n\n2. Para a realização do pagamento e liquidação das importâncias referidas no n.º 1 deverá o conhecimento ser posto à cobrança, mediante recibo a passar na relação de relaxe.\n\n3. Na relação mencionada no n.º 2 e na respectiva coluna averbar-se-á a data do pagamento, abatendo-se no final da relação a importância dos conhecimentos pagos.\n\nArt. 44.º A execução fiscal que tenha por base decisão proferida em processo da competência dos Tribunais Municipais de Lisboa e do Porto ou uma conta ou liquidação feita de harmonia com o decidido no mesmo corre por apenso ao respectivo processo.\n\nArt. 45.º - 1. Nos casos referidos no artigo anterior, decorrido o prazo de pagamento de todas as quantias liquidadas, o Ministério Público promoverá a execução fiscal.\n\n2. A execução principia pelo requerimento de nomeação de bens à penhora, ordenando-se e efectuando-se esta independentemente de citação.\n\n3. Feita a penhora, o executado é citado para deduzir, querendo, oposição no prazo de dez dias.\n\nArt. 46.º As cartas e ofícios precatórios expedidos pelos Tribunais Municipais de Lisboa e do Porto nos termos do Código de Processo das Contribuições e Impostos e dirigidos aos juizes do contencioso dos impostos municipais deverão ser por eles cumpridos com integral observância do preceituado no mesmo Código e neste diploma.\n\nArt. 47.º - 1. Nas Câmaras Municipais de Lisboa e do Porto o director dos Serviços de Finanças exercerá a competência atribuída nos artigos 80.º, § único, 125.º, 213.º, 214.º, 220.º, § único, e 224.º do Código de Processo das Contribuições e Impostos à Direcção-Geral das Contribuições e Impostos, ao director-geral das Contribuições e Impostos e ao director de finanças do distrito.\n\n2. A competência conferida no § único do artigo 8.º e no corpo do artigo 80.º do Código de Processo das Contribuições e Impostos ao chefe da repartição de finanças pertence ao chefe da repartição de liquidação de impostos e licenças.\n\n3. A repartição camarária incumbida da liquidação de impostos e licenças e o respectivo chefe de repartição, em matéria processual, além da competência definida nos artigos anteriores, têm ainda a competência prevista nas alíneas a), f) e h) do artigo 40.º do Código de Processo das Contribuições e Impostos."
+  },
+  "e733de7f49766579": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Das custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Das custas\n\nArt. 48.º - 1. Constituem receita da respectiva câmara municipal o imposto de justiça, as verbas de custas destinadas a compensar gastos gerais e todas aquelas que tenha abonado ou deva abonar, os emolumentos avulsos e, de modo geral, quaisquer outras quantias que a seu favor sejam liquidadas no processo.\n\n2. A procuradoria contada a favor do Serviço Social do Ministério da Justiça será remetida à Repartição Administrativa daquele Ministério no mês seguinte ao do seu recebimento.\n\n3. Da importância de todas as multas aplicadas em processo penal afecto a estes Tribunais reverterá metade para o Estado e metade para a respectiva câmara municipal.\n\nArt. 49.º Nas secretarias dos Tribunais Municipais de Lisboa e do Porto existirão os livros que se mostrem necessários para assegurar a verificação de que os lançamentos feitos nas secções de processos coincidem com os da tesouraria.\n\nArt. 50.º Em cada secção de processos, além dos livros que a prática mostre serem necessários, haverá, para registo do seu movimento com a Direcção do Serviço de Finanças, os livros «Pagamentos» e «Contas correntes - Processos».\n\nArt. 51.º Sem prejuízo da regulamentação própria dos serviços de tesouraria das Câmaras Municipais de Lisboa e do Porto, os depósitos e pagamentos regem-se pela parte aplicável do Código das Custas Judiciais e legislação complementar.\n\nArt. 52.º O magistrado do Ministério Público deve requisitar à Direcção do Serviço de Finanças da respectiva câmara municipal as informações e documentos de que necessite para o cumprimento da sua obrigação de fiscalizar a regularidade dos serviços de tesouraria."
+  },
+  "25c20805a831f26b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Disposições finais e transitórias\n\nArt. 53.º Serão suportadas pela respectiva câmara municipal as despesas da instalação, manutenção e funcionamento destes Tribunais e do pagamento dos vencimentos e participação emolumentar dos magistrados e funcionários.\n\nArt. 54.º - 1. O novo juízo do Tribunal Municipal de Lisboa começará a funcionar logo que os respectivos magistrados e escrivães de direito sejam empossados.\n\n2. Até ao começo do funcionamento do novo juízo mantém-se excluída deste Tribunal a competência relativa aos processos de execução fiscal.\n\n3. O Tribunal Municipal do Porto inicia a sua competência, relativa aos processos de execução fiscal, logo que seja empossado o escrivão de direito da secção de processos criada pelo presente diploma.\n\nArt. 55.º - 1. Os processos de execução pendentes nos tribunais de 1.ª instância das contribuições e impostos por dívidas às Câmaras Municipais de Lisboa e do Porto serão remetidos, devidamente relacionados, aos respectivos Tribunais Municipais dentro dos noventa dias seguintes à entrada em vigor do presente diploma.\n\n2. Os conhecimentos que deram origem às certidões de relaxe, base dos processos referidos no número anterior, serão incorporados nestes, não sendo essa incorporação passível de custas, selos ou quaisquer outros encargos.\n\nArt. 56.º Em tudo quanto não estiver previsto no presente diploma será aplicável, com as necessárias adaptações, o estabelecido no Estatuto Judiciário, Código das Custas Judiciais, Organização dos Serviços de Justiça Fiscal e Regulamento das Custas dos Processos das Contribuições e Impostos e legislação complementar.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - Manuel Artur Cotta Agostinho Dias.\n\nPromulgado em 12 de Abril de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional.\n\nMapa a que se refere o artigo 25.º, n.º 1\n\nSecretaria do Tribunal Municipal de Lisboa:"
+  },
+  "a9dbbaa278987b5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção central:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção central:\n\n1 chefe de secretaria;\n\n4 escriturários-dactilógrafos de 1.ª classe;\n\n5 escriturários-dactilógrafos de 2.ª classe;\n\n3 contínuos.\n\nCada secção de processos:\n\n1 escrivão de direito;\n\n2 ajudantes de escrivão de direito;\n\n3 escriturários-dactilógrafos de 1.ª classe;\n\n2 oficiais de diligências.\n\nSecretaria do Tribunal Municipal do Porto:"
+  },
+  "f457c3969cd116ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção central:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção central:\n\n1 chefe de secretaria;\n\n2 escriturários-dactilógrafos de 1.ª classe;\n\n3 escriturários-dactilógrafos de 2.ª classe;\n\n2 contínuos.\n\nCada secção de processos:\n\n1 escrivão de direito;\n\n2 ajudantes de escrivão de direito;\n\n3 escriturários-dactilógrafos de 1.ª classe;\n\n2 oficiais de diligências.\n\nO Ministro do Interior, António Manuel Gonçalves Rapazote."
+  },
+  "5d398bf9e2b7dcba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Composição, funcionamento e competência dos Tribunais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Composição, funcionamento e competência dos Tribunais"
+  },
+  "cadbc4bd3cf4c359": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNos concelhos de Lisboa e do Porto funcionam junto das respectivas Câmaras Municipais tribunais especiais de 1.ª instância denominados «Tribunal Municipal de Lisboa» (T. M. L.) e «Tribunal Municipal do Porto» (T. M. P.)."
+  },
+  "e24a05f415fef010": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Tribunais Municipais de Lisboa e do Porto são singulares e compreendem toda a área da respectiva circunscrição administrativa."
+  },
+  "50ec0409739ad116": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O Tribunal Municipal de Lisboa compõe-se de três juízos e o do Porto de um único juízo, havendo um juiz de direito em cada um dos juízos.\n\n2. Pode, porém, cada um dos juízos funcionar com mais de um juiz de direito, quando, por circunstâncias de carácter transitório, o respectivo serviço se encontre sensivelmente atrasado."
+  },
+  "177af0d012262ea6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O Ministério Público junto dos Tribunais Municipais de Lisboa e do Porto é representado em cada um deles por um delegado do procurador da República.\n\n2. No Tribunal Municipal de Lisboa pode haver mais de um delegado, quando o respectivo serviço o justifique."
+  },
+  "8966aca89383eef9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAos Tribunais Municipais de Lisboa e do Porto compete:\n\na) Em matéria criminal - a jurisdição relativa às infracções das posturas e dos regulamentos policiais respeitantes às atribuições da respectiva câmara municipal, a que corresponda processo de transgressão ou sumário;\n\nb) Em matéria fiscal - conhecer, em 1.ª instância, de todas as questões relativas a processos de impugnação judicial, de transgressão e de execução fiscal, sempre que esteja em causa a liquidação e cobrança dos impostos, taxas e outras receitas municipais e das juntas de freguesia, infracções cometidas pelos contribuintes aos regulamentos da liquidação e cobrança dos mesmos impostos e taxas municipais e a execução de todas as dívidas aos respectivos corpos administrativos."
+  },
+  "5c2693472f3536e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nCompete aos juizes dos Tribunais Municipais de Lisboa e do Porto, relativamente aos processos neles instaurados:\n\na) Conhecer das questões submetidas à sua jurisdição e fazer cumprir as respectivas decisões;\n\nb) Condenar em custas e impor multas nos termos da lei;\n\nc) Presidir e manter a ordem nos serviços do Tribunal;\n\nd) Presidir à distribuição dos processos, assinar as provisões e as ordens emanadas do Tribunal, fazer cumprir a execução delas e ordenar a passagem de certidões, nos casos em que esta dependa de despacho;\n\ne) Dar conhecimento ao Ministério Público de quaisquer factos criminosos que constem dos processos, quando a acção penal pública deva ter lugar, e de quaisquer actos praticados para defraudar as câmaras municipais ou a Fazenda Nacional e que só possam ser anulados por decisão dos tribunais ordinários;\n\nf) Exercer as demais funções que lhes sejam cometidas por lei."
+  },
+  "1b666dd690aa866f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nCompete aos mesmos juizes, relativamente ao funcionamento do respectivo Tribunal:\n\na) Orientar e fiscalizar superiormente o andamento dos processos, resolvendo as dúvidas que se levantem e fazendo ao presidente da câmara, quando necessário, as propostas que julgarem convenientes para a regularidade dos mesmos serviços;\n\nb) Assinar os termos de abertura e de encerramento de todos os livros existentes no Tribunal e rubricar as folhas, podendo usar de chancela;\n\nc) Exercer sobre os funcionários do Tribunal a acção disciplinar que a lei lhes conferir;\n\nd) Elaborar anualmente um relatório do estado dos serviços com referência ao ano anterior, fazendo as propostas que entenderem convenientes;\n\ne) Prestar anualmente informação sobre a forma como os funcionários da secretaria exercem os seus cargos;\n\nf) Cumprir os mandatos, cartas, ofícios e telegramas de outros tribunais da mesma espécie e dos juizes do contencioso dos impostos municipais;\n\ng) Requisitar a quaisquer entidades ou repartições públicas as informações, documentos, diligências e actos necessários ao andamento dos processos e ao expediente do Tribunal;\n\nh) Exercer as demais funções que lhes sejam cometidas por lei."
+  },
+  "8e0383dbb8f7ee43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nNo Tribunal Municipal de Lisboa compete em cada ano, e alternadamente, a um dos juizes de direito, seguindo a numeração dos juízos:\n\na) Superintender nos serviços de secretaria que sejam comuns, devendo previamente recolher a opinião dos outros juizes quando as decisões possam afectar o serviço dos demais juízos;\n\nb) Presidir à distribuição dos processos;\n\nc) Efectuar o serviço de expediente dos actos que possam ser praticados independentemente de distribuição."
+  },
+  "6fc75753fe767b91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Nos Tribunais Municipais de Lisboa e do Porto não há férias judiciais.\n\n2. O regime de licenças e faltas dos magistrados e demais funcionários é regulado pela legislação aplicável aos funcionários administrativos."
+  },
+  "8d781bac04eadb3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. Nas suas faltas ou impedimentos, os juizes substituem-se uns aos outros, segundo a ordem numérica dos juízos.\n\n2. Havendo um só juiz, ou faltando ou estando impedidos todos, simultaneamente, compete a substituição ao juiz do Tribunal de Recurso das Avaliações ou, na falta ou impedimento deste, ao juiz do Tribunal de Polícia ou quem as suas vezes fizer."
+  },
+  "e57145168f4730cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs mandados de captura e de notificação em matéria criminal emanados destes Tribunais podem ser cumpridos, em toda a área da comarca sede, independentemente de quaisquer outras formalidades."
+  },
+  "8b24dd3ecfcaeadd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Dos magistrados judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Dos magistrados judiciais"
+  },
+  "513f15cf6b1e337f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1975-06-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 286/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1975-335744), publicado em 1975-06-09."
+   ],
+   "markdown": "###### Artigo 12.º\n\n1. Os juízes dos Tribunais de Lisboa e do Porto serão nomeados pelo Ministro da Administração Interna de entre os juízes de direito de 3.ª ou de 2.ª classe, ouvido o Ministro da Justiça.\n\n2. A nomeação será feita em comissão de serviço nos períodos renováveis de três anos.\n\n> Alterado pelo/a [Decreto-Lei n.º 286/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/286-1975-335744), publicado em 1975-06-09."
+  },
+  "df19d134dcdc6a78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs juizes dos Tribunais Municipais de Lisboa e do Porto têm o mesmo tratamento, honras e direitos dos magistrados que ocupam correspondentes lugares nos tribunais ordinários e percebem o vencimento e emolumentos a que têm direito os juizes de 1.ª classe das comarcas de Lisboa e Porto."
+  },
+  "b6e47945a93a482b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs juizes dos Tribunais Municipais de Lisboa e do Porto ficam hierarquicamente subordinados ao presidente da respectiva Relação e prestam compromisso de honra e tomam posse perante o presidente da Câmara Municipal."
+  },
+  "e753be876b5f3272": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs magistrados judiciais em serviço nestes Tribunais estão sujeitos à disciplina e classificação do Conselho Superior Judiciário, nos termos do Estatuto Judiciário."
+  },
+  "0e15a950f9f76dbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nO cartão de identidade profissional dos magistrados judiciais destes Tribunais é idêntico aos dos magistrados dos tribunais ordinários e será emitido pela Direcção-Geral dos Serviços Judiciários."
+  },
+  "441c5285c9a1afbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Dos magistrados do Ministério Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Dos magistrados do Ministério Público"
+  },
+  "9fe1bb67fa0986cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nCompete aos agentes do Ministério Público junto dos Tribunais Municipais de Lisboa e do Porto:\n\na) Representar o Estado e a Câmara Municipal;\n\nb) Dirigir a instrução preparatória e exercer a acção penal, oficiosamente ou mediante denúncia;\n\nc) Dirigir a instrução dos processos de natureza fiscal e exercer acção penal tributária, oficiosamente ou mediante denúncia;\n\nd) Intervir nos processos criminais de transgressão e sumário e nos de impugnação judicial, transgressão e execução fiscal, nos termos estabelecidos na lei;\n\ne) Velar pela legalidade das prisões e pela observância dos prazos a elas respeitantes;\n\nf) Fiscalizar o pagamento de todas as quantias liquidadas no Tribunal, conferindo os respectivos documentos;\n\ng) Fiscalizar a observância das leis tributárias camarárias e das juntas de freguesia e levantar autos de transgressão pelas infracções de que tomem conhecimento;\n\nh) Participar ao agente do Ministério Público competente dos tribunais ordinários todos os actos praticados para defraudar as câmaras municipais ou o Estado e que só possam ser anulados por decisão desses mesmos tribunais e informar o procurador da República da existência de sociedades comerciais que se tenham constituído ou funcionem ilegalmente, logo que delas tenham conhecimento;\n\ni) Interpor recursos nos termos das leis de processo;\n\nj) Promover a imposição de multas, a execução por custas e multas e a execução por dívidas afectas à competências destes Tribunais, nos termos da lei;\n\nl) Intervir em quaisquer questões sobre contagem de custas;\n\nm) Promover a condenação em multa por má fé, nos termos da lei do processo; para esse efeito o magistrado do Ministério Público tem vista dos autos antes da decisão final e é notificado desta, podendo interpor os recursos que julgue convenientes;\n\nn) Fiscalizar a observância da lei e, sem prejuízo nem perturbação das funções judiciais, a actividade da secretaria do respectivo tribunal e o cumprimento dos deveres dos seus funcionários;\n\no) Visar, escriturar ou fazer escriturar os livros e o expediente dos seus serviços e organizar o respectivo arquivo;\n\np) Requisitar a quaisquer entidades ou repartições públicas as informações, documentos, diligências e actos necessários à instrução dos processos e usar de todos os meios legais para defesa dos direitos que lhes estão confiados;\n\nq) Dirigir e fiscalizar a organização dos mapas e informações oficiais exigidos por lei ou pelo seu superior hierárquico e remetê-los ao destino legal;\n\nr) Consultar o superior hierárquico sobre dúvidas relacionadas com o exercício das suas funções, fundamentando a consulta e dando parecer sobre o assunto;\n\ns) Promover tudo o que importe à boa ordem e celeridade dos serviços;\n\nt) Exercer as demais funções que lhes sejam cometidas por lei."
+  },
+  "a3520774ee7aa38c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1975-06-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 29/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1974-407101), publicado em 1974-02-01."
+   ],
+   "markdown": "###### Artigo 18.º\n\nAs funções de agente do Ministério Público junto dos Tribunais Municipais de Lisboa e do Porto são exercidas por delegados do procurador da República, nomeados, em comissão de serviço, pelo Ministro do Interior, ouvido o Ministro da Justiça.\n\n> Alterado pelo/a [Decreto-Lei n.º 29/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1974-407101), publicado em 1974-02-01."
+  },
+  "99bbee3053eee2f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. Os magistrados do Ministério Público são hierarquicamente dependentes do procurador da República junto da respectiva Relação e prestam o compromisso de honra e tomam posse perante o presidente da câmara municipal.\n\n2. Os mesmos magistrados receberão do presidente da respectiva câmara municipal as instruções necessárias à defesa dos interesses municipais."
+  },
+  "d0708f5265adbe3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Nas suas faltas ou impedimentos os agentes do Ministério Público substituem-se mutuamente, se houver mais do que um.\n\n2. Havendo só um, ou faltando ou estando impedidos todos simultaneamente, serão substituídos por quem o procurador da República junto da respectiva Relação designar."
+  },
+  "9d95d11d3ba39e95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs magistrados do Ministério Público em serviço nestes Tribunais estão sujeitos à disciplina e classificação do Conselho Superior do Ministério Público, nos termos do Estatuto Judiciário."
+  },
+  "332158973b1d433a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nO agentes do Ministério Público junto dos Tribunais Municipais de Lisboa e do Porto têm o mesmo tratamento, honras e direitos dos magistrados que ocupem correspondentes lugares nos tribunais ordinários e percebem o vencimento e emolumentos a que têm direito os delegados do procurador da República de 1.ª classe das comarcas de Lisboa e do Porto."
+  },
+  "8b6b6931b97c0181": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": "1975-06-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 29/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1974-407101), publicado em 1974-02-01."
+   ],
+   "markdown": "###### Artigo 23.º\n\nEm tudo quanto não vem especialmente regulado neste capítulo é extensivo aos magistrados do Ministério Público, com as adaptações que se mostrem necessárias, o disposto nos artigos 3.º, n.º 2, e 16.º\n\n> Alterado pelo/a [Decreto-Lei n.º 29/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1974-407101), publicado em 1974-02-01."
+  },
+  "2b8c06c2ab0fc0ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Das secretarias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Das secretarias"
+  },
+  "53cd3585b3f2d0b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nEm cada um dos Tribunais há uma só secretaria, e esta é composta por uma única secção central e por duas secções de processos por cada juízo."
+  },
+  "46ddbbad5de7a3da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. A composição de cada secretaria judicial é a que consta do mapa anexo a este diploma.\n\n2. O Ministro do Interior pode, quando o interesse dos serviços o exija, alterar, por simples portaria, a composição de qualquer das secretarias.\n\n3. É extensivo aos serviços das secretarias, incluindo o serviço de oficiais de diligências, o disposto no n.º 2 do artigo 3.º e n.º 3 do artigo 12.º"
+  },
+  "13c9e0bbcd81bd78": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. Os chefes de secretaria, os escrivães de direito e os oficiais de diligências têm a competência definida nos artigos 300.º, 304.º e 306.º do Estatuto Judiciário, com as necessárias adaptações.\n\n2. Aos chefes de secretaria compete, ainda:\n\na) Organizar o arquivo de impressos, devendo elaborar um catálogo, devidamente numerado, de todos os impressos em uso no Tribunal e fornecer um exemplar a cada escrivão de direito;\n\nb) Orientar os funcionários especialmente encarregados de manejar os aparelhos de fotocópias e as máquinas duplicadoras e fiscalizar o uso que delas é feito.\n\n3. A contagem dos processos e papéis avulsos é da competência do escrivão de direito da secção."
+  },
+  "8a9789c1dde3a7d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. Haverá um guarda da Polícia Municipal na secção central e em cada um dos juízos, a fim de auxiliar os contínuos e oficiais de diligências no serviço interno e policiamento dos Tribunais e no cumprimento dos mandados de captura.\n\n2. Nas diligências que lhes podem ser confiadas os guardas têm competência igual à dos oficiais de diligências."
+  },
+  "b83f41549523efdd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nNa secção central e nas secções de processos de cada Tribunal haverá os livros referidos no artigo 307.º do Estatuto Judiciário que se mostrem necessários."
+  },
+  "394d73382b4d0bcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nOs funcionários do Tribunal, quando estejam no exercício de funções próprias dos seus cargos, têm livre trânsito em todos os lugares públicos onde se justifique o seu ingresso, mediante a apresentação do cartão de identidade passado pela câmara municipal e do documento comprovativo da diligência que no recinto público se proponham realizar."
+  },
+  "0c94e785c1a0f2f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1. Os chefes de secretaria, escrivães de direito, ajudantes de escrivão e oficiais de diligências são nomeados livremente pelo Ministro do Interior, ouvido o Ministro da Justiça, entre funcionários de justiça que reúnam as condições legais para o exercício dos respectivos cargos.\n\n2. As funções referidas no número anterior são exercidas em comissão e o serviço dos funcionários considera-se, para todos os efeitos, como se fosse prestado nos respectivos quadros.\n\n3- O preenchimento dos restantes lugares é feito com funcionários administrativos de igual categoria, destacados dos quadros do pessoal da respectiva câmara municipal.\n\n4. Os funcionários que à data da entrada em vigor do presente diploma exercem as funções de oficiais de diligências são mantidos nos seus cargos.\n\n5. Poderá ser reforçado, a título eventual, o pessoal previsto no n.º 3 com os funcionários administrativos necessários à actualização dos serviços."
+  },
+  "9f59ea7d0901bb5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1. Os chefes de secretaria e escrivães de direito dos Tribunais Municipais de Lisboa e do Porto têm os mesmos direitos e percebem vencimentos iguais aos dos funcionários da mesma categoria dos tribunais ordinários da 1.ª instância das comarcas de Lisboa e do Porto.\n\n2. Os ajudantes de escrivão de direito percebem o vencimento fixado aos ajudantes de escrivão de direito dos tribunais judiciais.\n\n3. Os oficiais de diligências auferem vencimento igual ao fixado para os funcionários da mesma categoria dos Tribunais de 1.ª Instância das Comarcas de Lisboa e do Porto.\n\n4. É aplicável aos funcionários referidos nos números anteriores o disposto no artigo 15.º"
+  },
+  "2802349eb18ca743": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nA participação emolumentar dos funcionários de justiça dos Tribunais Municipais de Lisboa e do Porto é igual à atribuída aos funcionários das categorias correspondentes dos tribunais criminais."
+  },
+  "205b020f4fcf5da2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Dos serviços de tesouraria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Dos serviços de tesouraria"
+  },
+  "18c8f67d5de3abe4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nJunto de cada um dos Tribunais Municipais de Lisboa e do Porto há uma delegação da tesouraria da respectiva câmara municipal, a qual funciona na directa dependência do tesoureiro da câmara municipal."
+  },
+  "31387c2d7e9c1389": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nÉ aplicável aos serviços de tesouraria o disposto nos artigos 323.º e 325.º do Estatuto Judiciário, com as adaptações necessárias, mas sem prejuízo do determinado na organização dos serviços da respectiva câmara municipal."
+  },
+  "be6e3c498aaa381d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Do processo"
+  },
+  "8c7fddc7926c2ebf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1. Nos Tribunais Municipais de Lisboa e do Porto todos os processos entrados serão distribuídos igualmente e por espécies entre os respectivos juízos e secções de processos.\n\n2. A distribuição dos processos é feita nos termos estabelecidos para os tribunais comuns.\n\n3. Na distribuição dos processos fiscais há as seguintes espécies:\n\n1.ª Processos de impugnação;\n\n2.ª Processos de transgressão fiscal;\n\n3.ª Processos de execução fiscal;\n\n4.ª Cartas e ofícios precatórios."
+  },
+  "7ebb6633ad22b619": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nOs processos da competência dos Tribunais Municipais de Lisboa e do Porto regem-se pelas seguintes normas:\n\na) Os processos de natureza policial, de transgressão e sumário - pelo Código de Processo Penal e Código das Custas Judiciais e legislação complementar;\n\nb) Os processos de natureza fiscal, de impugnação, de transgressão e de execução - pelo Código de Processo das Contribuições e Impostos e Regulamento das Custas dos Processos das Contribuições e Impostos e legislação complementar, com as necessárias adaptações e com as alterações constantes do presente diploma."
+  },
+  "579189fce1c83275": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nOs processos de impugnação, de transgressão e de execução são instaurados e todas as suas fases correm nos Tribunais Municipais de Lisboa e do Porto, pertencendo à repartição camarária incumbida da liquidação de impostos e licenças e ao respectivo chefe a competência referida nos artigos seguintes."
+  },
+  "f2d49e058e2fe97c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1. No processo de impugnação judicial, autuada a petição, será o processo concluso ao juiz para proferir despacho nos termos aplicáveis dos artigos 474.º e seguintes do Código de Processo Civil.\n\n2. Se não houver motivo para indeferimento liminar e a petição estiver em termos de ser recebida, deverá ser mandado remeter o processo à repartição camarária incumbida da liquidação de impostos e licenças, a fim de ser prestada informação da fiscalização sobre a matéria de facto considerada pertinente e de o chefe da repartição informar sobre os elementos oficiais que digam respeito à colecta impugnada e sobre a restante matéria do pedido e juntar os documentos que reputar convenientes.\n\n3. O processo deverá ser devolvido ao Tribunal no prazo de trinta dias, devidamente informado e acompanhado do processo de reclamação, se o houver, para efeito de apensação.\n\n4. Recebido o processo e apensada a reclamação, quando a houver, será ordenada a notificação do representante do Ministério Público para responder à matéria da impugnação e oferecer provas.\n\n5. Ainda que não haja contestação ou impugnação especificada dos factos, não se terão estes por confessados."
+  },
+  "d55a25e803536733": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n1. No processo ordinário de transgressão fiscal compete à repartição camarária incumbida da liquidação de impostos e licenças e ao respectivo chefe de repartição unicamente a prática dos actos que, nos termos dos artigos 117.º a 128.º do Código de Processo das Contribuições e Impostos, são da competência das repartições de finanças ou do respectivo chefe, com excepção da notificação do arguido para o pagamento voluntário.\n\n2. Deduzida a acusação, o juiz ordenará, logo, a notificação do arguido para, no prazo de trinta dias, pagar voluntariamente o que tiver sido liquidado ou apresentar a sua contestação, oferecer documentos, arrolar testemunhas e requerer outras provas.\n\n3. No acto da notificação será sempre entregue ao arguido cópia da acusação.\n\n4. Toda a prova oferecida será produzida no Tribunal."
+  },
+  "1164688e5c63bca7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\n1. No processo sumário de transgressão fiscal, levantado o auto de notícia e liquidada a multa e o imposto que deva ser cumulativamente cobrado no processo, a repartição camarária incumbida da liquidação de impostos e licenças e o respectivo chefe de repartição terão competência unicamente para a prática de diligências complementares de prova e junção dos elementos oficiais de que disponha ou possa solicitar para esclarecimento dos factos.\n\n2. O auto de notícia, ainda que sem diligências complementares ou findas estas, será imediatamente remetido ao Tribunal, equivalendo a remessa, para todos os efeitos, à acusação.\n\n3. Se o auto de notícia não satisfizer aos requisitos legais, será devolvido para sua regularização ou instrução do processo.\n\n4. Recebido o auto de notícia e verificada a sua regularidade e que há fundamento para a acusação, o juiz mandará notificar o arguido para, no prazo de trinta dias, pagar voluntariamente o que tiver sido liquidado ou apresentar a sua contestação, oferecer documentos, arrolar testemunhas e requerer outras provas.\n\n5. Toda a prova oferecida será produizda no Tribunal."
+  },
+  "5a3b1d1800c794ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nAs operações de relaxe das dívidas às Câmaras Municipais de Lisboa e do Porto efectuar-se-ão nos termos seguintes:\n\na) Nos dias 15 e último de cada mês, em relação às dívidas cujo prazo de pagamento voluntário tenha terminado na quinzena anterior, o chefe do serviço, onde se encontrem os documentos à cobrança, entregará ao chefe da repartição de impostos e licenças todos os conhecimentos que ficaram por cobrar, acompanhados de relação, com os duplicados necessários, datada e assinada pelo mesmo e autenticada com o selo branco, na qual se deve mencionar o último dia previsto para o pagamento voluntário;\n\nb) O chefe da repartição, no dia do recebimento dos conhecimentos relaxados e da respectiva relação, aporá nesta o seu visto, indicando a data da entrega, e passará recibo;\n\nc) No prazo de dois dias, o chefe da repartição verificará a conformidade das relações com os conhecimentos relaxados e, se reconhecer a omissão de qualquer conhecimento ou outra deficiência, deverá declará-lo na relação e considerar cobrada a importância dos conhecimentos omitidos, ficando ressalvado o direito de se exigir, pelos meios comuns, as quantias desembolsadas."
+  },
+  "5b276ade5a603666": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1. O chefe da repartição incumbida da liquidação de impostos e licenças deverá, nos dez dias seguintes, remeter ao Tribunal os conhecimentos relaxados, acompanhados da respectiva relação, em duplicado, a fim de serem instaurados os processos de execução fiscal, e inscreverá, sempre que possível, em cada um dos conhecimentos ou, sendo necessário, em documento anexo, as indicações referidas no artigo 30.º do Código de Processo das Contribuições e Impostos, com as necessárias adaptações, ou quaisquer outras que se mostrem úteis.\n\n2. Os originais das relações constituirão o livro de registo e protocolo da distribuição de processos e o duplicado deverá ser devolvido no prazo de dez dias à Direcção dos Serviços de Finanças, para aí ser arquivado."
+  },
+  "4220c4ed5ffb96b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1. Durante o período das operações do relaxe pode o contribuinte efectuar o pagamento da dívida, acrescida dos juros de mora e de uma taxa de 3% sobre o valor da divida, que constituirá receita da respectiva câmara municipal, não podendo, porém, o produto dessa percentagem ser inferior a 5$00 nem superior a 5000$00, o que tudo será liquidado no próprio conhecimento.\n\n2. Para a realização do pagamento e liquidação das importâncias referidas no n.º 1 deverá o conhecimento ser posto à cobrança, mediante recibo a passar na relação de relaxe.\n\n3. Na relação mencionada no n.º 2 e na respectiva coluna averbar-se-á a data do pagamento, abatendo-se no final da relação a importância dos conhecimentos pagos."
+  },
+  "ed1b60292ef3c4c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nA execução fiscal que tenha por base decisão proferida em processo da competência dos Tribunais Municipais de Lisboa e do Porto ou uma conta ou liquidação feita de harmonia com o decidido no mesmo corre por apenso ao respectivo processo."
+  },
+  "753404b4a0b5f6e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n1. Nos casos referidos no artigo anterior, decorrido o prazo de pagamento de todas as quantias liquidadas, o Ministério Público promoverá a execução fiscal.\n\n2. A execução principia pelo requerimento de nomeação de bens à penhora, ordenando-se e efectuando-se esta independentemente de citação.\n\n3. Feita a penhora, o executado é citado para deduzir, querendo, oposição no prazo de dez dias."
+  },
+  "59c1292b93952789": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nAs cartas e ofícios precatórios expedidos pelos Tribunais Municipais de Lisboa e do Porto nos termos do Código de Processo das Contribuições e Impostos e dirigidos aos juizes do contencioso dos impostos municipais deverão ser por eles cumpridos com integral observância do preceituado no mesmo Código e neste diploma."
+  },
+  "05fccc2de55f5b5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\n1. Nas Câmaras Municipais de Lisboa e do Porto o director dos Serviços de Finanças exercerá a competência atribuída nos artigos 80.º, § único, 125.º, 213.º, 214.º, 220.º, § único, e 224.º do Código de Processo das Contribuições e Impostos à Direcção-Geral das Contribuições e Impostos, ao director-geral das Contribuições e Impostos e ao director de finanças do distrito.\n\n2. A competência conferida no § único do artigo 8.º e no corpo do artigo 80.º do Código de Processo das Contribuições e Impostos ao chefe da repartição de finanças pertence ao chefe da repartição de liquidação de impostos e licenças.\n\n3. A repartição camarária incumbida da liquidação de impostos e licenças e o respectivo chefe de repartição, em matéria processual, além da competência definida nos artigos anteriores, têm ainda a competência prevista nas alíneas a), f) e h) do artigo 40.º do Código de Processo das Contribuições e Impostos."
+  },
+  "5d6d69b941716095": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Das custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Das custas"
+  },
+  "0e7d82292e7a98cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\n1. Constituem receita da respectiva câmara municipal o imposto de justiça, as verbas de custas destinadas a compensar gastos gerais e todas aquelas que tenha abonado ou deva abonar, os emolumentos avulsos e, de modo geral, quaisquer outras quantias que a seu favor sejam liquidadas no processo.\n\n2. A procuradoria contada a favor do Serviço Social do Ministério da Justiça será remetida à Repartição Administrativa daquele Ministério no mês seguinte ao do seu recebimento.\n\n3. Da importância de todas as multas aplicadas em processo penal afecto a estes Tribunais reverterá metade para o Estado e metade para a respectiva câmara municipal."
+  },
+  "f8d25d037eb7800e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nNas secretarias dos Tribunais Municipais de Lisboa e do Porto existirão os livros que se mostrem necessários para assegurar a verificação de que os lançamentos feitos nas secções de processos coincidem com os da tesouraria."
+  },
+  "447433f0d4d53c85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nEm cada secção de processos, além dos livros que a prática mostre serem necessários, haverá, para registo do seu movimento com a Direcção do Serviço de Finanças, os livros «Pagamentos» e «Contas correntes - Processos»."
+  },
+  "05ef2b723c0b4ea9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nSem prejuízo da regulamentação própria dos serviços de tesouraria das Câmaras Municipais de Lisboa e do Porto, os depósitos e pagamentos regem-se pela parte aplicável do Código das Custas Judiciais e legislação complementar."
+  },
+  "014fbd37f4f8e028": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nO magistrado do Ministério Público deve requisitar à Direcção do Serviço de Finanças da respectiva câmara municipal as informações e documentos de que necessite para o cumprimento da sua obrigação de fiscalizar a regularidade dos serviços de tesouraria."
+  },
+  "51769c018d2b9892": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Disposições finais e transitórias"
+  },
+  "aa9182d0587ba0cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\nSerão suportadas pela respectiva câmara municipal as despesas da instalação, manutenção e funcionamento destes Tribunais e do pagamento dos vencimentos e participação emolumentar dos magistrados e funcionários."
+  },
+  "3d8c1ecef6e44a48": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\n1. O novo juízo do Tribunal Municipal de Lisboa começará a funcionar logo que os respectivos magistrados e escrivães de direito sejam empossados.\n\n2. Até ao começo do funcionamento do novo juízo mantém-se excluída deste Tribunal a competência relativa aos processos de execução fiscal.\n\n3. O Tribunal Municipal do Porto inicia a sua competência, relativa aos processos de execução fiscal, logo que seja empossado o escrivão de direito da secção de processos criada pelo presente diploma."
+  },
+  "cdb516cfb58f9a94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\n1. Os processos de execução pendentes nos tribunais de 1.ª instância das contribuições e impostos por dívidas às Câmaras Municipais de Lisboa e do Porto serão remetidos, devidamente relacionados, aos respectivos Tribunais Municipais dentro dos noventa dias seguintes à entrada em vigor do presente diploma.\n\n2. Os conhecimentos que deram origem às certidões de relaxe, base dos processos referidos no número anterior, serão incorporados nestes, não sendo essa incorporação passível de custas, selos ou quaisquer outros encargos."
+  },
+  "a872fe7523431608": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\nEm tudo quanto não estiver previsto no presente diploma será aplicável, com as necessárias adaptações, o estabelecido no Estatuto Judiciário, Código das Custas Judiciais, Organização dos Serviços de Justiça Fiscal e Regulamento das Custas dos Processos das Contribuições e Impostos e legislação complementar.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - Manuel Artur Cotta Agostinho Dias.\n\nPromulgado em 12 de Abril de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional.\n\nMapa a que se refere o artigo 25.º, n.º 1\n\nSecretaria do Tribunal Municipal de Lisboa:"
+  }
+ }
+}

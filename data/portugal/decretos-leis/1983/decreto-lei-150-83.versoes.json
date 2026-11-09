@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:312391:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-04-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "185123dc64ef5542"
+   ]
+  },
+  {
+   "date": "1987-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:419632:por",
+     "title": "Lei n.º 25/87",
+     "published": "1987-06-25",
+     "dre_path": "/dr/detalhe/lei/25-1987-419632"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 1.º-A"
+   ],
+   "fragments": [
+    "21cc2685855ab40f",
+    "7e29092e16f9b9b6",
+    "1139df6ee7d0649e",
+    "33adaee350df2529",
+    "d38be46927814ba4"
+   ]
+  }
+ ],
+ "fragments": {
+  "185123dc64ef5542": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Abril\n\nNos termos do estatuto respectivo, não é actualmente contado, para efeitos de aposentação, o tempo em que os trabalhadores dos CTT estiveram nos quadros de reserva da empresa na situação de inactividade.\n\nNo entanto, razões de equidade e justiça levam a alterar o regime em vigor, no sentido de considerar também aquele tempo.\n\nPor outro lado, a alínea b) do n.º 1 do artigo 26.º do Estatuto da Aposentação permite a contagem, por inteiro, para efeitos de aposentação, do tempo decorrido em situação que a lei equipare à de exercício do cargo ou mande contar para a aposentação.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º Aos trabalhadores dos CTT será contado, para efeitos de aposentação, o tempo em que permaneceram nos quadros de reserva da empresa, sem serviço, desde que efectuem os descontos para a Caixa Geral de Aposentações correspondentes a esse período.\n\nArt. 2.º O cálculo das quotas em dívida, pelo tempo que vier a ser requerido, deve ser feito nos termos da [Portaria n.º 1079/81](https://diariodarepublica.pt/dr/detalhe/portaria/1079-1981-567175), de 21 de Dezembro.\n\nArt. 3.º O disposto no artigo 1.º não é aplicável aos trabalhadores que, por sua iniciativa, requereram a passagem à situação de sem serviço.\n\nVisto e aprovado em Conselho de Ministros de 17 de Fevereiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Carlos Pinto Soromenho Viana Baptista.\n\nPromulgado em 14 de Março de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 17 de Março de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  },
+  "21cc2685855ab40f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Abril\n\nNos termos do estatuto respectivo, não é actualmente contado, para efeitos de aposentação, o tempo em que os trabalhadores dos CTT estiveram nos quadros de reserva da empresa na situação de inactividade.\n\nNo entanto, razões de equidade e justiça levam a alterar o regime em vigor, no sentido de considerar também aquele tempo.\n\nPor outro lado, a alínea b) do n.º 1 do artigo 26.º do Estatuto da Aposentação permite a contagem, por inteiro, para efeitos de aposentação, do tempo decorrido em situação que a lei equipare à de exercício do cargo ou mande contar para a aposentação.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "7e29092e16f9b9b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAos trabalhadores dos CTT será contado, para efeitos de aposentação, o tempo em que permaneceram nos quadros de reserva da empresa, sem serviço, desde que efectuem os descontos para a Caixa Geral de Aposentações correspondentes a esse período."
+  },
+  "1139df6ee7d0649e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º-A",
+   "in_force_from": "1987-06-30",
+   "changed_by": [
+    "Aditado pelo/a [Lei n.º 25/87](https://diariodarepublica.pt/dr/detalhe/lei/25-1987-419632), publicado em 1987-06-25."
+   ],
+   "markdown": "###### Artigo 1.º-A\n\nIdêntico tratamento será aplicado aos trabalhadores contratados além dos quadros de pessoal da empresa, em relação ao período de tempo em que permaneceram em regime de disponibilidade, sem serviço.\n\n> Aditado pelo/a [Lei n.º 25/87](https://diariodarepublica.pt/dr/detalhe/lei/25-1987-419632), publicado em 1987-06-25."
+  },
+  "33adaee350df2529": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO cálculo das quotas em dívida, pelo tempo que vier a ser requerido, deve ser feito nos termos da [Portaria n.º 1079/81](https://diariodarepublica.pt/dr/detalhe/portaria/1079-1981-567175), de 21 de Dezembro."
+  },
+  "d38be46927814ba4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO disposto no artigo 1.º não é aplicável aos trabalhadores que, por sua iniciativa, requereram a passagem à situação de sem serviço.\n\nVisto e aprovado em Conselho de Ministros de 17 de Fevereiro de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Carlos Pinto Soromenho Viana Baptista.\n\nPromulgado em 14 de Março de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 17 de Março de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  }
+ }
+}

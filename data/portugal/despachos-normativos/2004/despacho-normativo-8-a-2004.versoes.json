@@ -1,0 +1,468 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:486138:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2004-02-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "79552d19c3b91ea5",
+    "f7a623f83a90bb11",
+    "4d4659120c2127cd",
+    "bf5851145d4256c6",
+    "53c2d93e82cd398b",
+    "4bd92f15e953f568",
+    "c6e0af5728c67eec",
+    "ab2f105ef22d6b57",
+    "2216f68796b8584c",
+    "bca18a3594e8f299",
+    "f7030f0f12338d4f",
+    "9ea16c9c5d1a702b",
+    "cdc109f6e15aeca0",
+    "ac072c0d888d7399",
+    "e18f3c9d8cefc692",
+    "0f75cfb8369ff953",
+    "8da44995ccf8789a",
+    "a9ed7e60564da09a",
+    "1a002d75772981aa",
+    "7274ed4b31bb2d3a",
+    "96bf5800de1f511d",
+    "39a9e7733ea74057",
+    "014df4ea01d9184d",
+    "334c893d72956996",
+    "f833002e4367bf74",
+    "a85fe7c53762861b",
+    "5524202afc722927",
+    "c75234dcb9170f7e",
+    "bebe37877de98347",
+    "ea4bf3a137a665ab",
+    "2ee8a65b9de056c7",
+    "c7122c4e971c7f4b",
+    "41530da2e47480b4",
+    "e068a4a23e8b625b",
+    "7cb8afa6bb2b2e2a",
+    "3ac9ea2b4b50bf84",
+    "3dc67176c389248e",
+    "d3e57f2b7f2d3a10",
+    "ce37d06fab2cc5d1",
+    "e22821fe3751641b"
+   ]
+  },
+  {
+   "date": "2006-02-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:676641:por",
+     "title": "Despacho Normativo n.º 13/2006",
+     "published": "2006-02-23",
+     "dre_path": "/dr/detalhe/despacho-normativo/13-2006-676641"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO::25.º",
+    "Altera Artigo ANEXO::26.º",
+    "Altera Artigo ANEXO::28.º"
+   ],
+   "fragments": [
+    "79552d19c3b91ea5",
+    "f7a623f83a90bb11",
+    "4d4659120c2127cd",
+    "bf5851145d4256c6",
+    "53c2d93e82cd398b",
+    "4bd92f15e953f568",
+    "c6e0af5728c67eec",
+    "ab2f105ef22d6b57",
+    "2216f68796b8584c",
+    "bca18a3594e8f299",
+    "f7030f0f12338d4f",
+    "9ea16c9c5d1a702b",
+    "cdc109f6e15aeca0",
+    "ac072c0d888d7399",
+    "e18f3c9d8cefc692",
+    "0f75cfb8369ff953",
+    "8da44995ccf8789a",
+    "a9ed7e60564da09a",
+    "1a002d75772981aa",
+    "7274ed4b31bb2d3a",
+    "96bf5800de1f511d",
+    "39a9e7733ea74057",
+    "014df4ea01d9184d",
+    "334c893d72956996",
+    "f833002e4367bf74",
+    "a85fe7c53762861b",
+    "5524202afc722927",
+    "c75234dcb9170f7e",
+    "bebe37877de98347",
+    "ea4bf3a137a665ab",
+    "2ee8a65b9de056c7",
+    "c7122c4e971c7f4b",
+    "41530da2e47480b4",
+    "e068a4a23e8b625b",
+    "7cb8afa6bb2b2e2a",
+    "3ac9ea2b4b50bf84",
+    "a26d4918fc75ef07",
+    "70f493f8358c966b",
+    "ce37d06fab2cc5d1",
+    "8e4c5815fe284400"
+   ]
+  }
+ ],
+ "fragments": {
+  "79552d19c3b91ea5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos da [Resolução do Conselho de Ministros n.º 189/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/189-2003-430629), de 16 de Dezembro, o Governo mandatou o Ministro da Economia para, em conformidade com as linhas de orientação definidas na [Resolução do Conselho de Ministros n.º 97/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2003-652279), de 1 de Agosto, alterar os diversos subprogramas do Programa de Intervenções para a Qualificação do Turismo (PIQTUR), cujo prazo de vigência foi dilatado até 2006.\n\nAtravés do presente diploma concretiza-se o referido mandato, procedendo-se às alterações necessárias do Regulamento de Execução do Subprograma n.º 1, «Estruturação, Qualificação e Potenciação da Oferta», do PIQTUR, aprovado através do [Despacho Normativo n.º 26/2002](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-2002-291823), de 18 de Abril.\n\nEntre as alterações ora efectuadas destacam-se as seguintes:\n\nAtendendo-se ao facto de a inovação da oferta constituir no futuro um factor decisivo na afirmação dos destinos turísticos, é criada uma nova medida destinada a apoiar projectos de estruturação de produtos turísticos inovadores. Com o objectivo de garantir a maior efectividade, optou-se por apoiar apenas os projectos que reúnam o conjunto das valências que, em si, são susceptíveis de apoio no âmbito dos Subprogramas do PIQTUR e confiou-se aos organismos coordenadores do Programa um papel decisivo na promoção dos mesmos. Em paralelo, substituiu-se o critério de avaliação relativo à adequação dos projectos aos objectivos da medida a que se candidatam e às linhas de orientação sectorial definidas por um outro critério, que incide sobre a substância dos projectos - o critério da efectiva relevância turística dos projectos a apoiar. Uma terceira alteração respeita à enfatização do recurso aos apoios financeiros reembolsáveis sempre que a natureza dos projectos o consinta, sem prejuízo da previsão, nestes casos, de prémios de execução a conceder aos promotores cujo bom desempenho o possa justificar.\n\nFinalmente, atento o disposto no n.º 3 da [Resolução do Conselho de Ministros n.º 189/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/189-2003-430629), de 16 de Dezembro, o Programa de Intervenções para a Qualificação do Turismo (PIQTUR) vigorará até ao termo do ano de 2006.\n\nSistematicamente, optou-se pela revogação integral do referido [Despacho Normativo n.º 26/2002](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-2002-291823), de 18 de Abril.\n\nAssim:\n\nAo abrigo do disposto no n.º 7 da [Resolução do Conselho de Ministros n.º 12/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/12-2002-239219), de 24 de Janeiro, no n.º 3 da [Resolução do Conselho de Ministros n.º 189/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/189-2003-430629), de 16 de Dezembro, e no exercício da competência que me foi delegada pelo Ministro da Economia nos termos do despacho n.º 8472/2003, de 9 de Abril, publicado no Diário da República, 2.ª série, n.º 101, de 2 de Maio de 2002, determino:\n\n1 - É aprovado o novo Regulamento de Execução do Subprograma n.º 1, «Estruturação, Qualificação e Potenciação da Oferta», do Programa de Intervenções para a Qualificação do Turismo (PIQTUR), integrado no Plano de Consolidação do Turismo criado através da [Resolução do Conselho de Ministros n.º 12/2002](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/12-2002-239219), de 24 de Janeiro.\n\n2 - O regime de concessão de apoio que ora se aprova vigora até ao ano de 2006, inclusive.\n\n3 - A cobertura orçamental do presente Subprograma do PIQTUR, até ao montante máximo de (euro) 45000000, está assegurada, desde a data da sua criação até ao final de 2006, através das dotações resultantes da prorrogação do prazo de vigência dos contratos de concessão de zonas de jogo.\n\n4 - O Regulamento a que se refere o n.º 1 é publicado em anexo ao presente diploma, que dele faz parte integrante.\n\n5 - É revogado o [Despacho Normativo n.º 26/2002](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/26-2002-291823), de 18 de Abril.\n\n6 - O presente diploma entra em vigor no dia seguinte à data da sua publicação.\n\nMinistério da Economia, 26 de Janeiro de 2004. - O Secretário de Estado do Turismo, Luís Manuel Miguel Correia da Silva."
+  },
+  "f7a623f83a90bb11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nREGULAMENTO DE EXECUÇÃO DO SUBPROGRAMA N.º 1, «ESTRUTURAÇÃO, QUALIFICAÇÃO E POTENCIAÇÃO DA OFERTA», DO PROGRAMA DE INTERVENÇÕES PARA A QUALIFICAÇÃO DO TURISMO (PIQTUR)."
+  },
+  "4d4659120c2127cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente Regulamento tem por objecto a definição dos termos de concessão de apoio aos projectos de investimento de estruturação, qualificação e potenciação da oferta turística, que integram o Subprograma n.º 1 do Programa de Intervenções para a Qualificação do Turismo (PIQTUR) do Plano de Consolidação do Turismo.\n\n2 - O regime de concessão de apoio a que se refere o número anterior vigora até 2006, inclusive."
+  },
+  "bf5851145d4256c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Medidas\n\nNos termos definidos no presente Regulamento, o Subprograma n.º 1 do PIQTUR prevê as quatro seguintes medidas:\n\na) Implementação de projectos estruturantes no território;\n\nb) Qualificação da oferta de relevância turística;\n\nc) Potenciação da oferta turística;\n\nd) Projectos integrados para a estruturação de produtos turísticos inovadores."
+  },
+  "53c2d93e82cd398b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições comuns"
+  },
+  "4bd92f15e953f568": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Promotores, beneficiários, projectos e despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Promotores, beneficiários, projectos e despesas elegíveis"
+  },
+  "c6e0af5728c67eec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Promotores e beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Promotores e beneficiários\n\n1 - Sem prejuízo do disposto no artigo 23.º do presente Regulamento, podem ser promotores e beneficiários dos projectos a apoiar:\n\na) Entidades da administração central, autónoma, regional e local com competências na área do turismo, incluindo os órgãos regionais e locais de turismo, sem prejuízo do disposto em legislação especial;\n\nb) A entidade gestora da Rede Nacional de Turismo Juvenil;\n\nc) Agências Regionais de Promoção Turística e ou o consórcio entre a Secretaria Regional do Turismo e Cultura da Madeira e as empresas e entidades representativas do sector privado da respectiva Região Autónoma;\n\nd) Associações empresariais do sector do turismo.\n\n2 - Para além das candidaturas apresentadas directamente pelos municípios, consideram-se equiparadas a estas as candidaturas apresentadas por:\n\na) Quaisquer entidades jurídicas que, no exercício das suas atribuições e competências, os municípios constituam, ainda que associadas a terceiros, desde que, neste caso, os municípios exerçam uma influência dominante na gestão;\n\nb) Outras entidades públicas que, em estreita colaboração com os municípios, se proponham realizar projectos enquadráveis neste Subprograma."
+  },
+  "ab2f105ef22d6b57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Condições de elegibilidade dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de elegibilidade dos promotores\n\nOs promotores têm de reunir as seguintes condições de elegibilidade:\n\na) Estar legalmente constituídos e, sendo o caso, devidamente habilitados para o exercício da actividade promovida à data da celebração do contrato de concessão do apoio;\n\nb) Ter a capacidade jurídica e técnica necessária para promover os projectos submetidos a candidatura;\n\nc) Ter capacidade de gestão para desenvolver o projecto e, se aplicável, assumir o compromisso de afectar o projecto à finalidade proposta por um período mínimo de cinco anos ou, no caso da concessão de apoio reembolsável, por período idêntico ao do prazo total de reembolso;\n\nd) Ter as respectivas situações devedoras e contributivas regularizadas para com a administração fiscal, a segurança social e a entidade pagadora do apoio;\n\ne) Declararem, quando aplicável, a assunção do compromisso de cumprimento das exigências legais e regulamentares de outros instrumentos de apoio a que se tenham candidatado;\n\nf) Se aplicável, declararem a assunção do compromisso de apresentação da notificação de selecção do projecto ao abrigo de outros instrumentos de apoio."
+  },
+  "2216f68796b8584c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Natureza dos projectos de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Natureza dos projectos de investimento\n\nSó são susceptíveis de apoio, nos termos do presente Regulamento, projectos de natureza pública com relevância turística, a qual terá sempre que ser devidamente fundamentada por um estudo ou análise circunstanciada elaborada pela entidade promotora."
+  },
+  "bca18a3594e8f299": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições de elegibilidade dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de elegibilidade dos projectos\n\n1 - Os projectos a candidatar a cada uma das medidas previstas no presente Regulamento têm de reunir as seguintes condições de elegibilidade:\n\na) Enquadrarem-se nos objectivos da medida a que se candidatam;\n\nb) Apresentarem memória descritiva e cronograma de execução;\n\nc) Se aplicável, encontrarem-se aprovados pelas entidades para tanto competentes;\n\nd) Apresentarem uma estrutura de custos pormenorizada, fundamentada e ajustada aos fins a prosseguir;\n\ne) Apresentarem uma adequada cobertura financeira, com explicitação das fontes de financiamento;\n\nf) Se aplicável, demonstrarem a respectiva rentabilidade económico-financeira;\n\ng) Demonstrarem efectiva relevância turística, nomeadamente através da contribuição que evidenciam para a atracção e fixação de novos fluxos turísticos na região ou local onde são executados;\n\nh) Sem prejuízo do disposto no número seguinte, envolverem um investimento total mínimo em capital fixo de (euro) 50000, ou de (euro) 500000 no caso da medida n.º 1.2 a que se referem os artigos 18.º e 19.º do presente diploma, e um prazo máximo de execução material de três anos;\n\ni) Não estar iniciada a respectiva execução à data da apresentação da candidatura.\n\n2 - O prazo para a execução material dos projectos, a que se refere a alínea h) do número anterior, tem por limite máximo o dia 30 de Junho de 2008."
+  },
+  "f7030f0f12338d4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas elegíveis\n\n1 - Para efeitos de determinação do apoio a conceder, são consideradas elegíveis as seguintes despesas:\n\na) Estudos, projectos e assistência técnica necessários para a preparação da candidatura e para a execução dos projectos, bem como a fiscalização externa, com os limites previstos no n.º 2 do presente artigo;\n\nb) Aquisição de terrenos directamente afectos à finalidade do projecto, até ao limite máximo de 15% do custo total do investimento;\n\nc) A título excepcional e para instalação do projecto, aquisição de edifícios devolutos ou inacabados, nomeadamente em resultado de processo de reestruturação, recuperação ou de falência, cuja presença no meio envolvente se traduza numa degradação deste;\n\nd) Construção, remodelação, adaptação e ampliação de infra-estruturas e edifícios directamente relacionados com a finalidade do projecto, com os limites previstos no n.º 3 do presente artigo;\n\ne) Obras de arranjo paisagístico e aquisição de mobiliário urbano para espaços públicos;\n\nf) Obras de salvaguarda, conservação, recuperação e qualificação de paisagens, conjuntos, sítios e imóveis classificados;\n\ng) Aquisição e montagem, em edifícios e sítios, de materiais e equipamentos de segurança e de apoio a pessoas com deficiência;\n\nh) Construção, aquisição e instalação de sistemas e equipamentos de informação e sinalização turística, bem como as obras de adaptação de edifícios daquelas decorrentes;\n\ni) Aquisição de suportes informativos e execução de acções de divulgação da realização do projecto, com o limite definido no n.º 4 do presente artigo.\n\n2 - A data de realização dos estudos e projectos não pode anteceder em mais de um ano a data da apresentação das candidaturas e o montante máximo elegível das despesas correspondentes não pode exceder, em cada projecto, o máximo de 10% do valor total das respectivas despesas elegíveis.\n\n3 - O montante máximo elegível das despesas relativas a acessibilidades e equipamentos colectivos não pode exceder, em cada projecto, 50% do valor total das despesas elegíveis deste.\n\n4 - O montante máximo elegível das despesas a que se refere a alínea i) do n.º 1 do presente artigo não pode exceder, em cada projecto, 1% do valor total das respectivas despesas elegíveis, com o limite máximo de (euro) 25000.\n\n5 - O cálculo das despesas elegíveis é efectuado a preços correntes, deduzido do imposto sobre o valor acrescentado (IVA), sempre que o promotor não esteja isento deste imposto e possa exercer o direito à sua dedução."
+  },
+  "9ea16c9c5d1a702b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas não elegíveis\n\nPara efeitos de determinação do apoio a conceder, não são consideradas elegíveis as despesas seguintes:\n\na) Aquisição de terrenos e de edifícios, sem prejuízo do disposto nas alíneas b) e c) do n.º 1 do artigo anterior;\n\nb) Trespasses e direitos de utilização de espaços;\n\nc) Aquisição de equipamentos, mobiliário e outros bens móveis não directamente associados à actividade essencial;\n\nd) Aquisição de bens em estado de uso;\n\ne) Aquisição de veículos automóveis e outro material circulante, aeronaves e demais material aeronáutico, excepto, até 50% do respectivo custo, quando directa e exclusivamente afectos à actividade essencial e fundamentais para esta, nos termos de parecer favorável emitido pela Direcção-Geral do Turismo;\n\nf) Juros durante a construção;\n\ng) Trabalhos a mais, erros e omissões;\n\nh) Fundo de maneio;\n\ni) Custos internos."
+  },
+  "cdc109f6e15aeca0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Apoio"
+  },
+  "ac072c0d888d7399": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Natureza dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Natureza dos apoios\n\n1 - Os apoios a conceder podem revestir as seguintes naturezas:\n\na) Não reembolsável;\n\nb) Reembolsável sem remuneração.\n\n2 - A decisão final sobre a natureza dos apoios a conceder compete ao membro de Governo com tutela sobre o turismo.\n\n3 - Sem prejuízo do disposto no número seguinte, os apoios previstos no presente Regulamento não são cumuláveis com quaisquer outros que assumam a mesma natureza e que sejam concedidos ao abrigo de regimes legais exclusivamente nacionais.\n\n4 - O montante dos apoios a conceder tem por limite necessário, quando aplicável, o cumprimento das regras relativas a meios próprios dos promotores constantes dos regimes jurídicos de outros apoios de que beneficiem."
+  },
+  "e18f3c9d8cefc692": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Substituição de apoio não reembolsável por apoio reembolsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Substituição de apoio não reembolsável por apoio reembolsável\n\n1 - Até à decisão final a que se refere o n.º 2 do artigo anterior, os apoios não reembolsáveis podem ser substituídos por apoios reembolsáveis, desde que a natureza dos projectos o consinta e tal se mostre indispensável à adequada cobertura financeira dos mesmos.\n\n2 - A conversão prevista no número anterior é calculada de acordo com os critérios utilizados para a determinação do denominado «equivalente de subvenção bruta» (ESB), no âmbito dos regimes de concessão de incentivos do Programa de Incentivos à Modernização da Economia (PRIME)."
+  },
+  "0f75cfb8369ff953": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Prémio de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prémio de execução\n\n1 - Os apoios reembolsáveis concedidos podem ser convertidos em apoios não reembolsáveis, por aplicação do prémio de execução.\n\n2 - A eventual aquisição do direito ao prémio de execução verifica-se após o encerramento dos investimentos realizados.\n\n3 - Os promotores adquirem o direito ao prémio de execução caso cumpram as metas para tal efeito definidas nas decisões de concessão dos apoios objecto do presente Regulamento."
+  },
+  "8da44995ccf8789a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Critérios de avaliação e selecção dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Critérios de avaliação e selecção dos projectos"
+  },
+  "a9ed7e60564da09a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Critérios de avaliação e selecção dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Critérios de avaliação e selecção dos projectos\n\n1 - Os projectos são avaliados de acordo com os seguintes quatro critérios:\n\na) Grau de efectiva relevância turística: as estruturas da oferta turística objecto dos investimentos a realizar destinar-se-ão predominantemente à utilização por turistas, devendo contribuir efectiva e cumulativamente para a atracção, permanência e fidelização dos mesmos e para a satisfação das suas expectativas;\n\nb) Adequação dos projectos à estratégia de desenvolvimento turístico da área envolvente e proposta pela entidade representativa regional: os projectos em avaliação deverão respeitar a valência e ou a localização previstas nos documentos estratégicos de desenvolvimento turístico das entidades representativas regionais;\n\nc) Valorização dos recursos endógenos, reforço da oferta turística e dinamização sócio-económica das áreas em que se localizam: os investimentos a realizar deverão contribuir de forma significativa para a valorização dos recursos endógenos, da oferta turística e da criação ou qualificação de equipamentos;\n\nd) Grau de mobilização de autofinanciamento e ou fontes de financiamento oriundas de instrumentos de apoio com comparticipação da União Europeia: na avaliação dos projectos de investimentos é valorizada a dimensão da componente de autofinanciamento e ou de financiamento da União Europeia.\n\n2 - Sem prejuízo do disposto no número seguinte, o cálculo da valia dos projectos e a determinação da intensidade dos apoios a conceder estão definidos no apêndice do presente Regulamento, que deste faz parte integrante.\n\n3 - É adicionada uma majoração de 10 pontos ao resultado do cálculo da valia económica dos projectos promovidos pelos municípios que integram as áreas territoriais das zonas de jogo de Espinho, Estoril e Póvoa de Varzim, com excepção dos projectos promovidos pelos municípios onde se localizam os respectivos casinos."
+  },
+  "1a002d75772981aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV — Entidades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV — Entidades competentes"
+  },
+  "7274ed4b31bb2d3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Organismo coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Organismo coordenador\n\n1 - O organismo coordenador do presente regime de concessão de apoios é o Instituto de Financiamento e Apoio ao Turismo (IFT).\n\n2 - No exercício da competência prevista no número anterior, incumbe ao IFT, nomeadamente:\n\na) Receber e validar as candidaturas apresentadas pelos promotores em suporte físico e digital;\n\nb) Solicitar elementos adicionais aos promotores;\n\nc) Solicitar pareceres especializados a entidades competentes para a respectiva emissão;\n\nd) Analisar as condições de elegibilidade dos promotores, projectos e despesas;\n\ne) Elaborar propostas de deliberação sobre as candidaturas a submeter ao órgão de gestão previsto no artigo seguinte;\n\nf) Assegurar a observância do princípio da participação dos interessados nas decisões a tomar;\n\ng) Comunicar aos promotores as decisões finais que recaem sobre as candidaturas;\n\nh) Celebrar os contratos de concessão de apoio, sem prejuízo do disposto no n.º 4 do artigo 28.º do presente Regulamento;\n\ni) Acompanhar a execução física e financeira dos projectos;\n\nj) Verificar a conformidade das despesas e das obras realizadas com os projectos;\n\nl) Verificar a conclusão física e financeira dos investimentos;\n\nm) Realizar auditorias, directamente ou através de terceiros contratados para o efeito;\n\nn) Encerrar os projectos."
+  },
+  "96bf5800de1f511d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Órgão de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Órgão de gestão\n\n1 - A gestão do presente regime de concessão de apoios incumbe à Comissão Nacional de Acompanhamento, Selecção e Avaliação do PIQTUR (CNASA).\n\n2 - No exercício da competência a que se refere o número anterior, a CNASA emite propostas de decisão sobre as candidaturas seleccionadas, que submete ao membro do Governo com tutela sobre o turismo, nos termos previstos no artigo seguinte."
+  },
+  "39a9e7733ea74057": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Decisões finais de concessão dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Decisões finais de concessão dos apoios\n\nCompete ao membro do Governo com tutela sobre o turismo tomar as decisões finais sobre a concessão dos apoios objecto do presente Regulamento."
+  },
+  "014df4ea01d9184d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II\n\nMedida n.º 1.1, «Implementação de projectos estruturantes no território»"
+  },
+  "334c893d72956996": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Projectos\n\n1 - São susceptíveis de apoio, ao abrigo da alínea a) do artigo 2.º do presente Regulamento, os projectos de natureza pública materializados numa ou mais acções coerentes e complementares entre si que, pelo seu carácter vitalizador e impacte significativo, assumam natureza estruturante da oferta turística em áreas territoriais determinadas.\n\n2 - São susceptíveis de apoio nos termos do número anterior as seguintes acções:\n\na) Os projectos de natureza pública integrados num programa integrado turístico de natureza estruturante e base regional (PITER) como tal declarado nos termos da [Portaria n.º 450/2001](https://diariodarepublica.pt/dr/detalhe/portaria/450-2001-315915), de 5 de Maio;\n\nb) Os projectos de natureza pública aprovados no âmbito de um projecto ou operação integrada de valorização turística de um sítio;\n\nc) Os projectos infra-estruturais de natureza pública com impacte significativo e de excepcional relevância turística directa;\n\nd) Os projectos de natureza pública, com relevância e impacte significativo no sector do turismo, que se localizem em áreas geográficas de economia reconhecidamente desfavorecida ou, para os devidos efeitos, consideradas deprimidas, ou em áreas significativamente afectadas por incêndios ou sujeitas a outras calamidades naturais."
+  },
+  "f833002e4367bf74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Intensidade do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Intensidade do apoio\n\n1 - Sem prejuízo do disposto no n.º 4 do artigo 9.º, o montante máximo do apoio a conceder aos projectos a que se refere a presente subsecção corresponde a 25% do custo total do investimento elegível, salvo no que respeita às acções a que se referem as alíneas a) e d) do n.º 2 do artigo anterior, caso em que o montante máximo do apoio corresponde a 75% do custo total do investimento elegível.\n\n2 - Sem prejuízo do disposto no número seguinte, em razão de prioridades da política sectorial e atendendo a circunstâncias concretas, o membro do Governo com tutela sobre o turismo pode, a título excepcional, definir taxas mais elevadas de intensidade do apoio.\n\n3 - Nos projectos localizados nas áreas geográficas a que se refere a alínea d) do artigo anterior, o apoio a conceder pode atingir 100% do custo total do investimento elegível."
+  },
+  "a85fe7c53762861b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III\n\nMedida n.º 1.2, «Qualificação da oferta de relevância turística»"
+  },
+  "5524202afc722927": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Projectos\n\n1 - São susceptíveis de apoio, ao abrigo da alínea b) do artigo 2.º do presente Regulamento, os projectos de natureza pública que, incidindo sobre áreas geográficas com oferta turística acentuadamente estruturada e com níveis de procura significativa, visem o acréscimo de qualidade do produto oferecido através de investimentos qualificadores do meio envolvente.\n\n2 - São susceptíveis de apoio, nos termos do número anterior, as seguintes acções:\n\na) Salvaguarda, conservação, recuperação, qualificação e valorização de paisagens, sítios, conjuntos e imóveis classificados e de relevância turística;\n\nb) Modernização, remodelação e ampliação de equipamentos comuns de protecção ambiental e eco-eficientes, designadamente os de redução de ruídos, emissões para a atmosfera, distribuição, recolha, tratamento, eficiência, racionalização e reciclagem de resíduos, água, energia eléctrica ou alternativa e telecomunicações, e de funções de limpeza na envolvente e em locais de grande atracção turística;\n\nc) Construção, instalação e qualificação de vias de acesso, parques de estacionamento, espaços de lazer, frentes marítimas e fluviais de praias concessionadas e de outros equipamentos;\n\nd) Adaptação e instalação de sistemas de racionalização, reciclagem e renovação de energia e de resíduos em edifícios de uso predominantemente turístico;\n\ne) Adaptação para pessoas com deficiência, nos termos da legislação em vigor, de edifícios e demais instalações de equipamentos e sítios com uso predominantemente turístico;\n\nf) Obras de construção e adaptação, remodelação ou reabilitação de instalações destinadas a sedes de órgãos regionais de turismo;\n\ng) Sinalização direccional, urbana, e sinalética turística."
+  },
+  "c75234dcb9170f7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Intensidade do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Intensidade do apoio\n\n1 - Sem prejuízo do disposto no n.º 4 do artigo 9.º, o montante máximo do apoio a conceder aos projectos a que se refere a presente subsecção corresponde a 50% do custo total do investimento elegível.\n\n2 - Em razão de prioridades da política sectorial e atendendo a circunstâncias concretas, o membro do Governo com tutela sobre o turismo pode, a título excepcional, definir taxas mais elevadas de intensidade do apoio."
+  },
+  "bebe37877de98347": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV\n\nMedida n.º 1.3, «Potenciação da oferta turística»"
+  },
+  "ea4bf3a137a665ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Projectos\n\n1 - São susceptíveis de apoio, ao abrigo da alínea c) do artigo 2.º do presente Regulamento, os projectos de natureza pública que, incidindo sobre áreas geográficas com oferta turística inexistente ou incipiente, visem o aproveitamento de recursos endógenos passíveis de constituir produtos turísticos temáticos de reconhecida valia e capacidade de atracção de turistas.\n\n2 - São susceptíveis de apoio, nos termos do número anterior, as acções de construção, remodelação, recuperação, adaptação e modernização de edifícios, bem como de instalação de equipamentos, arranjos paisagísticos e valorização de percursos de relevância turística, associados a temáticas de gastronomia, rotas de vinhos, cultura, ambiente, animação desportiva e termalismo."
+  },
+  "2ee8a65b9de056c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Intensidade do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Intensidade do apoio\n\n1 - Sem prejuízo do disposto no n.º 4 do artigo 9.º, o montante máximo do apoio a conceder aos projectos a que se refere a presente subsecção corresponde a 75% do custo total do investimento elegível.\n\n2 - Em razão de prioridades da política sectorial e atendendo a circunstâncias concretas, o membro do Governo com tutela sobre o turismo pode definir taxas mais elevadas de intensidade do apoio."
+  },
+  "c7122c4e971c7f4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V\n\nMedida 1.4, «Projectos integrados para estruturação de produtos turísticos inovadores»"
+  },
+  "41530da2e47480b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Projectos\n\nSão susceptíveis de apoio, ao abrigo da alínea d) do artigo 2.º do presente Regulamento, os projectos de natureza pública que, visando a estruturação de produtos turísticos inovadores, integrem componentes subsumíveis a todos os subprogramas do PIQTUR, com excepção do Subprograma n.º 6."
+  },
+  "e068a4a23e8b625b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Promotores e beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Promotores e beneficiários\n\n1 - São promotores dos projectos a apoiar no âmbito da presente medida, em conjunto, o ICEP Portugal e a Direcção-Geral do Turismo.\n\n2 - Podem ser beneficiários dos projectos a apoiar:\n\na) Os respectivos promotores;\n\nb) Os municípios;\n\nc) As Agências Regionais de Promoção Turística e ou o consórcio entre a Secretaria Regional do Turismo e Cultura da Madeira e as empresas e entidades representativas do sector privado da respectiva Região Autónoma;\n\nd) As entidades a que se refere o n.º 2 do artigo 3.º do presente Regulamento."
+  },
+  "7cb8afa6bb2b2e2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Enquadramento das componentes dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Enquadramento das componentes dos projectos\n\nA cada componente dos projectos são aplicáveis as normas correspondentes dos regulamentos das medidas dos diversos subprogramas do PIQTUR, designadamente no que respeita às condições de elegibilidade dos promotores e dos projectos, à natureza destes, às despesas elegíveis e não elegíveis, à natureza e intensidade dos apoios e aos critérios de avaliação."
+  },
+  "3ac9ea2b4b50bf84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Procedimentos"
+  },
+  "3dc67176c389248e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Candidaturas\n\n1 - As candidaturas são apresentadas no IFT a todo o tempo.\n\n2 - Sem prejuízo do disposto no número seguinte, as candidaturas são instruídas com todos os elementos necessários para a aferição das condições de elegibilidade dos promotores e dos projectos, incluindo os seguintes elementos:\n\na) Projectos aprovados pelas entidades para tanto competentes, quando aplicável;\n\nb) Memória descritiva do investimento a realizar;\n\nc) Estimativa do investimento, suportada com orçamentos e com identificação das diversas fontes de financiamento previstas;\n\nd) Cronograma do investimento;\n\ne) Certidões comprovativas da inexistência de dívidas à administração fiscal e à segurança social;\n\nf) Declaração de que são cumpridas as exigências legais e regulamentares de outros instrumentos de apoio de que os promotores beneficiem para a realização dos projectos;\n\ng) Declaração de afectação, total ou parcial, do investimento realizado à utilização por turistas, quando aplicável.\n\n3 - Os elementos a apresentar nas candidaturas propostas ao abrigo da alínea d) do artigo 2.º do presente Regulamento são objecto de determinação casuística, em razão das características dos projectos e das correspondentes necessidades de análise.\n\n4 - O IFT valida as candidaturas e aprecia-as, nos termos para tanto definidos no presente Regulamento, no prazo máximo de 25 dias úteis.\n\n5 - Sempre que necessário, para a apreciação das candidaturas, o IFT pode solicitar:\n\na) Elementos adicionais aos promotores;\n\nb) Pareceres especializados às entidades competentes para a respectiva emissão.\n\n6 - Quando o IFT solicitar pareceres, nos termos previstos na alínea b) do número anterior, as entidades consultadas devem emiti-los no prazo máximo de 20 dias úteis.\n\n7 - O prazo previsto no n.º 4 do presente artigo considera-se suspenso sempre que o IFT exercer as faculdades a que se refere o n.º 5 e até à data da apresentação dos esclarecimentos ou da recepção dos pareceres solicitados, ou do termo do prazo estabelecido para o efeito, consoante o caso.\n\n8 - A não apresentação dos esclarecimentos solicitados pelo IFT no prazo para tanto definido equivale a desistência da candidatura.\n\n9 - A análise do IFT inclui a verificação da razoabilidade dos custos estimados pelos promotores para a realização dos investimentos e, se necessário, a respectiva adequação ou correcção."
+  },
+  "d3e57f2b7f2d3a10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Tramitação subsequente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Tramitação subsequente\n\n1 - Finda a análise das candidaturas, o IFT aprova propostas de deliberação, que submete, no prazo máximo de cinco dias úteis, à CNASA.\n\n2 - As propostas a que se refere o número anterior, quando favoráveis à concessão de apoios, contêm projectos de definição da natureza, dos termos e das condições de atribuição destes.\n\n3 - Sempre que necessário em função da dotação orçamental disponível, é dada preferência ao projecto melhor pontuado ou, em caso de empate ou de impossibilidade de comparação, ao projecto com data mais antiga de apresentação de candidatura.\n\n4 - A CNASA, em reunião convocada para o efeito pelo respectivo coordenador, emite, no prazo máximo de 15 dias úteis, propostas de decisão final sobre as candidaturas, que submete, no prazo máximo de oito dias úteis, ao membro do Governo com tutela sobre o turismo.\n\n5 - As decisões finais sobre as candidaturas incluem a definição da natureza dos apoios a conceder e os respectivos termos e condições de concessão.\n\n6 - O IFT, no prazo de oito dias úteis, notifica aos promotores as decisões governamentais que recaem sobre as candidaturas."
+  },
+  "ce37d06fab2cc5d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Prazo para a contratualização e caducidade dos direitos aos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Prazo para a contratualização e caducidade dos direitos aos apoios\n\n1 - Os documentos necessários para a celebração dos contratos a que se refere o artigo seguinte devem ser remetidos ao IFT no prazo máximo de 15 dias úteis.\n\n2 - O incumprimento, pelos promotores, do prazo referido no número anterior gera a caducidade dos direitos aos apoios, salvo se o IFT considerar justificado o incumprimento.\n\n3 - Os apoios caducam, igualmente, por incumprimento das obrigações para os promotores emergentes dos contratos celebrados."
+  },
+  "e22821fe3751641b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Contratualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Contratualização\n\n1 - Sem prejuízo do disposto em legislação especial e no n.º 4 do presente artigo, a concessão dos apoios previstos no presente Regulamento é objecto de contratos a celebrar entre o IFT e os promotores, dos quais constam cláusulas sobre as seguintes matérias:\n\na) Natureza e montante dos apoios concedidos;\n\nb) Prazo de execução dos projectos e, se for o caso, de reembolso dos apoios;\n\nc) Garantias especiais de reembolso constituídas pelos promotores, quando aplicável;\n\nd) Quando aplicável, metas relevantes para efeitos de determinação do prémio de execução a que se refere o artigo 11.º do presente Regulamento;\n\ne) Habilitações dos subcontratados para o exercício da actividade, quando aplicável;\n\nf) Condições de libertação dos apoios;\n\ng) Condições de prorrogação dos prazos previstos na alínea b) do presente número, quando aplicável;\n\nh) Consequências do incumprimento das obrigações contratualmente assumidas pelos promotores;\n\ni) Acompanhamento da realização dos investimentos;\n\nj) Eventuais contrapartidas à utilização pública de estruturas de oferta construídas ou viabilizadas com recurso aos apoios concedidos.\n\n2 - São admitidas libertações por adiantamentos, nos termos a definir nos contratos a celebrar.\n\n3 - Sempre que o IFT o entenda necessário, os contratos devem definir as garantias especiais de bom cumprimento ou de reembolso a prestar pelos promotores.\n\n4 - Na concessão de apoios ao abrigo da alínea d) do artigo 2.º do presente Regulamento, os contratos a que se refere o presente artigo são celebrados entre os promotores e os beneficiários dos projectos apoiados, com as necessárias adaptações de conteúdo.\n\nAPÊNDICE\n\nAvaliação e selecção dos projectos\n\n1 - A valia dos projectos é aferida em função dos seguintes critérios:\n\na) Critério A - grau de efectiva relevância turística;\n\nb) Critério B - adequação dos projectos à estratégia de desenvolvimento turístico da área envolvente e proposta pela entidade representativa regional;\n\nc) Critério C - valorização dos recursos endógenos, reforço da oferta turística e dinamização sócio-económica da área em que se localizam;\n\nd) Critério D - grau de mobilização de autofinanciamento e ou fontes de financiamento oriundas de instrumentos de apoio com comparticipação da União Europeia.\n\n2 - Os projectos são pontuados nos termos seguintes:\n\nMedida n.º 1.1, «Implementação de projectos estruturantes no território»\n\nCritério A - Grau de efectiva relevância turística\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério B - Adequação dos projectos à estratégia de desenvolvimento turístico da área envolvente e proposta pela entidade representativa regional.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério C - Valorização dos recursos endógenos, reforço da oferta turística e dinamização sócio-económica da área em que se localizam.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério D - Grau de mobilização de autofinanciamento e ou fontes de financiamento oriundas de instrumentos de apoio com comparticipação da União Europeia.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nMedida n.º 1.2, «Qualificação da oferta de relevância turística»\n\nCritério A - Grau de efectiva relevância turística\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério B - Adequação dos projectos à estratégia de desenvolvimento turístico da área envolvente e proposta pela entidade representativa regional.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério C - Valorização dos recursos endógenos, reforço da oferta turística e dinamização sócio-económica da área em que se localizam.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério D - Grau de mobilização de autofinanciamento e ou fontes de financiamento oriundas de instrumentos de apoio com comparticipação da União Europeia.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nMedida n.º 1.3, «Potenciação da oferta turística»\n\nCritério A - Grau de efectiva relevância turística\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério B - Adequação dos projectos à estratégia de desenvolvimento turístico da área envolvente e proposta pela entidade representativa regional.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério C - Valorização dos recursos endógenos, reforço da oferta turística e dinamização sócio-económica da área em que se localizam.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério D - Grau de mobilização de autofinanciamento e ou fontes de financiamento oriundas de instrumentos de apoio com comparticipação da União Europeia.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\n3 - A valia dos projectos é calculada de acordo com a seguinte fórmula:\n\nVP = CA + CB + CC + CD\n\nem que:\n\nVP = valia do projecto;\n\nCA = critério A;\n\nCB = critério B;\n\nCC = critério C;\n\nCD = critério D.\n\n4 - Não podem beneficiar de apoio os projectos cuja valia seja inferior a 50 pontos.\n\n5 - A intensidade do apoio a conceder determina-se, em cada medida, em função da pontuação obtida pelos projectos, nos termos seguintes:\n\nMedida n.º 1.1, «Implementação de projectos estruturantes no território»\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nMedida n.º 1.2, «Qualificação da oferta de relevância turística»\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nMedida n.º 1.3, «Potenciação da oferta turística»\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)"
+  },
+  "a26d4918fc75ef07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Candidaturas, análise e hierarquização",
+   "in_force_from": "2006-02-24",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 13/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2006-676641), publicado em 2006-02-23."
+   ],
+   "markdown": "###### Artigo 25.º — Candidaturas, análise e hierarquização\n\n1 - As candidaturas são apresentadas no ITP, em regime de fase de candidatura, nos prazos a definir pelo membro do Governo com tutela sobre o sector do turismo.\n\n2 - Sem prejuízo do disposto no número seguinte, as candidaturas são instruídas com todos os elementos necessários para a aferição das condições de elegibilidade dos promotores e dos projectos, incluindo os seguintes elementos:\n\na) Projectos aprovados pelas entidades para tanto competentes, quando aplicável;\n\nb) Memória descritiva do investimento a realizar;\n\nc) Estimativa do investimento, suportada com orçamentos e com identificação das diversas fontes de financiamento previstas;\n\nd) Cronograma do investimento;\n\ne) Certidões comprovativas da inexistência de dívidas à administração fiscal e à segurança social;\n\nf) Declaração de que são cumpridas as exigências legais e regulamentares de outros instrumentos de apoio de que os promotores beneficiem para a realização dos projectos;\n\ng) Declaração de afectação, total ou parcial, do investimento realizado à utilização por turistas, quando aplicável.\n\n3 - Os elementos a apresentar nas candidaturas propostas ao abrigo da alínea d) do artigo 2.º do presente Regulamento são objecto de determinação casuística, em razão das características dos projectos e das correspondentes necessidades de análise.\n\n4 - O ITP valida as candidaturas, analisa-as nos termos para tanto definidos no presente Regulamento e hierarquiza-as no prazo máximo de 50 dias úteis, contados do termo final do prazo para a apresentação de candidaturas.\n\n5 - As candidaturas são hierarquizadas por ordem decrescente da pontuação obtida na análise e, em caso de empate, preferem, sucessivamente, os projectos apresentados à medida n.º 1.1, 'Implementação de projectos estruturantes no território', e, se necessário, os projectos com data de apresentação mais antiga.\n\n6 - Sempre que necessário, para a apreciação das candidaturas, o IFT pode solicitar:\n\na) Elementos adicionais aos promotores;\n\nb) Pareceres especializados às entidades competentes para a respectiva emissão.\n\n7 - Quando o IFT solicitar pareceres, nos termos previstos na alínea b) do número anterior, as entidades consultadas devem emiti-los no prazo máximo de 20 dias úteis.\n\n8 - O prazo previsto no n.º 4 do presente artigo considera-se suspenso sempre que o ITP exercer as faculdades a que se refere o n.º 6 e até à data da apresentação dos esclarecimentos ou da recepção dos pareceres solicitados, ou do termo do prazo estabelecido para o efeito, consoante o caso.\n\n9 - A não apresentação dos esclarecimentos solicitados pelo IFT no prazo para tanto definido equivale a desistência da candidatura.\n\n10 - A análise do IFT inclui a verificação da razoabilidade dos custos estimados pelos promotores para a realização dos investimentos e, se necessário, a respectiva adequação ou correcção.\n\n> Alterado pelo/a [Despacho Normativo n.º 13/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2006-676641), publicado em 2006-02-23."
+  },
+  "70f493f8358c966b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Tramitação subsequente",
+   "in_force_from": "2006-02-24",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 13/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2006-676641), publicado em 2006-02-23."
+   ],
+   "markdown": "###### Artigo 26.º — Tramitação subsequente\n\n1 - Finda a hierarquização das candidaturas, o ITP aprova propostas de deliberação, que submete, no prazo máximo de cinco dias úteis, à CNASA.\n\n2 - As propostas a que se refere o número anterior, quando favoráveis à concessão de apoios, contêm projectos de definição da natureza, dos termos e das condições de atribuição destes.\n\n3 - A CNASA, em reunião convocada para o efeito pelo respectivo coordenador, emite, no prazo máximo de 15 dias úteis, propostas de decisão final sobre as candidaturas, que submete, no prazo máximo de oito dias úteis, ao membro do Governo com tutela sobre o turismo.\n\n4 - As decisões finais sobre as candidaturas incluem a definição da natureza dos apoios a conceder e os respectivos termos e condições de concessão.\n\n5 - O IFT, no prazo de oito dias úteis, notifica aos promotores as decisões governamentais que recaem sobre as candidaturas.\n\n> Alterado pelo/a [Despacho Normativo n.º 13/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2006-676641), publicado em 2006-02-23."
+  },
+  "8e4c5815fe284400": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Contratualização",
+   "in_force_from": "2006-02-24",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 13/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2006-676641), publicado em 2006-02-23."
+   ],
+   "markdown": "###### Artigo 28.º — Contratualização\n\n1 - Sem prejuízo do disposto em legislação especial e no n.º 4 do presente artigo, a concessão dos apoios previstos no presente Regulamento é objecto de contratos a celebrar entre o IFT e os promotores, dos quais constam cláusulas sobre as seguintes matérias:\n\na) Natureza e montante dos apoios concedidos;\n\nb) Prazo de execução dos projectos e, se for o caso, de reembolso dos apoios;\n\nc) Garantias especiais de reembolso constituídas pelos promotores, quando aplicável;\n\nd) Quando aplicável, metas relevantes para efeitos de determinação do prémio de execução a que se refere o artigo 11.º do presente Regulamento;\n\ne) Habilitações dos subcontratados para o exercício da actividade, quando aplicável;\n\nf) Condições de libertação dos apoios;\n\ng) Condições de prorrogação dos prazos previstos na alínea b) do presente número, quando aplicável;\n\nh) Consequências do incumprimento das obrigações contratualmente assumidas pelos promotores;\n\ni) Acompanhamento da realização dos investimentos;\n\nj) Eventuais contrapartidas à utilização pública de estruturas de oferta construídas ou viabilizadas com recurso aos apoios concedidos.\n\n2 - São admitidas libertações por adiantamentos, nos termos a definir nos contratos a celebrar.\n\n3 - Sempre que o IFT o entenda necessário, os contratos devem definir as garantias especiais de bom cumprimento ou de reembolso a prestar pelos promotores.\n\n4 - Na concessão de apoios ao abrigo da alínea d) do artigo 2.º do presente Regulamento, os contratos a que se refere o presente artigo são celebrados entre os promotores e os beneficiários dos projectos apoiados, com as necessárias adaptações de conteúdo.\n\nAPÊNDICE\n\nAvaliação e selecção dos projectos\n\n1 - A valia dos projectos é aferida em função dos seguintes critérios:\n\na) Critério A - grau de efectiva relevância turística;\n\nb) Critério B - adequação dos projectos à estratégia de desenvolvimento turístico da área envolvente e proposta pela entidade representativa regional;\n\nc) Critério C - valorização dos recursos endógenos, reforço da oferta turística e dinamização sócio-económica da área em que se localizam;\n\nd) Critério D - grau de mobilização de autofinanciamento e ou fontes de financiamento oriundas de instrumentos de apoio com comparticipação da União Europeia.\n\n2 - Os projectos são pontuados nos termos seguintes:\n\nMedida n.º 1.1, «Implementação de projectos estruturantes no território»\n\nCritério A - Grau de efectiva relevância turística\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério B - Adequação dos projectos à estratégia de desenvolvimento turístico da área envolvente e proposta pela entidade representativa regional.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério C - Valorização dos recursos endógenos, reforço da oferta turística e dinamização sócio-económica da área em que se localizam.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério D - Grau de mobilização de autofinanciamento e ou fontes de financiamento oriundas de instrumentos de apoio com comparticipação da União Europeia.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nMedida n.º 1.2, «Qualificação da oferta de relevância turística»\n\nCritério A - Grau de efectiva relevância turística\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério B - Adequação dos projectos à estratégia de desenvolvimento turístico da área envolvente e proposta pela entidade representativa regional.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério C - Valorização dos recursos endógenos, reforço da oferta turística e dinamização sócio-económica da área em que se localizam.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério D - Grau de mobilização de autofinanciamento e ou fontes de financiamento oriundas de instrumentos de apoio com comparticipação da União Europeia.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nMedida n.º 1.3, «Potenciação da oferta turística»\n\nCritério A - Grau de efectiva relevância turística\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério B - Adequação dos projectos à estratégia de desenvolvimento turístico da área envolvente e proposta pela entidade representativa regional.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério C - Valorização dos recursos endógenos, reforço da oferta turística e dinamização sócio-económica da área em que se localizam.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nCritério D - Grau de mobilização de autofinanciamento e ou fontes de financiamento oriundas de instrumentos de apoio com comparticipação da União Europeia.\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\n3 - A valia dos projectos é calculada de acordo com a seguinte fórmula:\n\nVP = CA + CB + CC + CD\n\nem que:\n\nVP = valia do projecto;\n\nCA = critério A;\n\nCB = critério B;\n\nCC = critério C;\n\nCD = critério D.\n\n4 - Não podem beneficiar de apoio os projectos cuja valia seja inferior a 50 pontos.\n\n5 - A intensidade do apoio a conceder determina-se, em cada medida, em função da pontuação obtida pelos projectos, nos termos seguintes:\n\nMedida n.º 1.1, «Implementação de projectos estruturantes no território»\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nMedida n.º 1.2, «Qualificação da oferta de relevância turística»\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\nMedida n.º 1.3, «Potenciação da oferta turística»\n\n[[[[[[[[[[[[[[[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)](https://files.diariodarepublica.pt/1s/2004/02/041b01/00020009.pdf)\n\n6.1 - Os projectos que podem beneficiar de apoio são hierarquizados, nos termos previstos no artigo 25.º do presente Regulamento, por ordem decrescente da pontuação obtida na análise da respectiva valia.\n\n6.2 - Em caso de empate na pontuação, preferem, sucessivamente, os projectos apresentados à medida n.º 1.1, 'Implementação de projectos estruturantes no território', e, se necessário, os projectos com data de apresentação mais antiga.\n\n> Alterado pelo/a [Despacho Normativo n.º 13/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/13-2006-676641), publicado em 2006-02-23."
+  }
+ }
+}

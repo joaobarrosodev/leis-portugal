@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-06-15'
+version_history:
+  file: decreto-lei-60-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-03-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-06-15'
+    amending: pt:dre:227439:por
+    amending_title: Decreto-Lei n.º 80/86; Decreto-Lei n.º 139/86
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:09:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 80/86; Decreto-Lei
+    n.º 139/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-60-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,7 +139,9 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º Os investimentos municipais integrados no PDRITM são financiados de acordo com o seguinte esquema:
+###### Artigo 1.º
+
+Os investimentos municipais integrados no PDRITM são financiados de acordo com o seguinte esquema:
 
 a) Até 15%, através do Orçamento do Estado, ao abrigo do n.º 2 do artigo 26.º e do artigo 27.º do [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março;
 
@@ -131,17 +149,23 @@ b) Pelo menos 20%, através de fundos próprios dos municípios;
 
 c) Até 65%, através da linha de crédito a bonificar pelo Estado.
 
-Art. 2.º Fica autorizada a inscrição anual no Orçamento do Estado, na rubrica do PIDDAC do Ministério da Administração Interna, das dotações necessárias à comparticipação da administração central no financiamento de 15% dos investimentos municipais integrados na componente não agrícola do PDRITM, de acordo com o seguinte escalonamento, transitando os saldos apurados em cada exercício económico para o exercício seguinte:
+###### Artigo 2.º
 
-... (Contos)
+Fica autorizada a inscrição anual no Orçamento do Estado, na rubrica do PIDDAC do Ministério do Plano e da Administração do Território, das dotações necessárias à comparticipação da administração central no financiamento de 15% dos investimentos municipais integrados na componente não agrícola do PDRITM, de acordo com o seguinte escalonamento, transitando os saldos apurados em cada exercício económico para o exercício seguinte:
 
-1985 ... 127500
+... Contos
 
-1986 ... 89000
+1986 ... 115000
 
-1987 ... 64000
+1987 ... 83200
 
-Art. 3.º - 1 - Para o efeito do artigo 1.º, alínea c), são autorizadas as Secretarias de Estado do Tesouro e do Desenvolvimento Regional a celebrar um protocolo com a Caixa Geral de Depósitos (CGD), através do qual esta instituição porá à disposição dos municípios da área do PDRITM uma linha de crédito bonificada pelo Estado e pela CGD.
+1988 ... 80000
+
+> Alterado pelo/a [Decreto-Lei n.º 139/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-1986-228839), publicado em 1986-06-14.
+
+###### Artigo 3.º
+
+1 - Para o efeito do artigo 1.º, alínea c), são autorizadas as Secretarias de Estado do Tesouro e do Desenvolvimento Regional a celebrar um protocolo com a Caixa Geral de Depósitos (CGD), através do qual esta instituição porá à disposição dos municípios da área do PDRITM uma linha de crédito bonificada pelo Estado e pela CGD.
 
 2 - Os montantes anuais da linha de crédito são os seguintes, podendo os saldos apurados no final de cada exercício transitar para o exercício seguinte:
 
@@ -157,9 +181,13 @@ Art. 3.º - 1 - Para o efeito do artigo 1.º, alínea c), são autorizadas as Se
 
 a) 4%, a suportar pelo Estado;
 
-b) Uma bonificação a suportar pela Caixa Geral de Depósitos idêntica à que esta instituição vier a praticar para novas linhas de crédito bonificadas aos municípios.
+b) Uma bonificação a suportar pela Caixa Geral de Depósitos pelo valor e nas condições a estabelecer no protocolo.
 
-Art. 4.º - 1 - As bonificações a cargo do Estado com a linha de crédito referida no artigo anterior que se vençam durante 1985 serão pagas através de dotação inscrita para o efeito no orçamento do Ministério das Finanças e do Plano para o corrente ano no cap. 60, «Despesas excepcionais», div. 01, C. E. 39.01, «Bonificações a favor de municípios».
+> Alterado pelo/a [Decreto-Lei n.º 80/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1986-227439), publicado em 1986-05-06.
+
+###### Artigo 4.º
+
+1 - As bonificações a cargo do Estado com a linha de crédito referida no artigo anterior que se vençam durante 1985 serão pagas através de dotação inscrita para o efeito no orçamento do Ministério das Finanças e do Plano para o corrente ano no cap. 60, «Despesas excepcionais», div. 01, C. E. 39.01, «Bonificações a favor de municípios».
 
 2 - Em 1986 e anos seguintes fica autorizada a Direcção-Geral do Tesouro a inscrever no cap. 60 «Despesas excepcionais», do orçamento do Ministério das Finanças e do Plano as dotações necessárias ao pagamento das bonificações a cargo do Estado com a referida linha de crédito.
 

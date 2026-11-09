@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-01-24'
+version_history:
+  file: despacho-normativo-47-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-11-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-01-24'
+    amending: pt:dre:482794:por
+    amending_title: Despacho Normativo n.º 51/2005; Despacho Normativo n.º 8/2007
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/47/2004/11/25/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:41:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 51/2005; Despacho
+    Normativo n.º 8/2007. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/2004/despacho-normativo-47-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -243,23 +260,31 @@ c) Número de vacas aleitantes a atingir em cada um dos anos do plano, de acordo
 
 3 - O não cumprimento do plano no que respeita ao aumento do efectivo aleitante implica a reversão dos direitos não utilizados para a reserva nacional, ficando os agricultores impedidos de se candidatarem à referida reserva nos três anos subsequentes ao da atribuição dos direitos.
 
+4 - Em derrogação do número anterior, não são excluídos do acesso à reserva nacional para os anos de 2007 e 2008 os agricultores que tenham cumprido os valores mínimos previstos no n.º 2 do presente artigo.
+
+> Alterado pelo/a [Despacho Normativo n.º 8/2007](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2007-1850890), publicado em 2007-01-24.
+
 ###### Artigo 7.º — Áreas forrageiras sujeitas ao plano
 
 1 - As parcelas sujeitas ao plano são as declaradas anualmente para efeitos do pedido de ajudas «Superfícies», nos termos e dentro dos prazos definidos no despacho relativo ao Sistema Integrado de Gestão e Controlo (SIGC).
 
-2 - As parcelas mencionadas no número anterior devem destinar-se à produção de culturas forrageiras e não podem beneficiar, durante os três anos do plano, de ajudas destinadas a culturas cujo principal objecto não seja a produção forrageira.
+2 - As parcelas mencionadas no número anterior devem ser qualificadas como 'superfície forrageira' nos termos da alínea e) do artigo 2.º do Despacho Normativo n.º 7/2005, de 1 de Fevereiro, com a redacção que lhe foi dada pelo Despacho Normativo n.º 33/2005, publicado no Diário da República, 1.ª série-B, de 28 de Junho de 2005, e não podem beneficiar, durante os três anos do plano, de ajudas destinadas a culturas cujo principal objecto não seja a produção forrageira.
 
 3 - O somatório das áreas das parcelas afectas ao plano referidas no n.º 1 do presente artigo, em cada um dos anos da sua implementação, deve ser superior ou igual à correspondente área indicada no plano.
 
-4 - O não cumprimento do plano no que respeita ao disposto no número anterior implica a reversão dos direitos indevidamente utilizados para a reserva nacional.
+4 - O incumprimento do plano no que respeita ao disposto no número anterior implica o recálculo, a efectuar nos termos do artigo 11.º, do número máximo de direitos atribuíveis com base na superfície forrageira declarada no pedido de ajuda 'Superfícies' e a consequente reversão para a reserva nacional de direitos indevidamente atribuídos.
+
+> Alterado pelo/a [Despacho Normativo n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/51-2005-482794), publicado em 2005-11-28.
 
 ###### Artigo 8.º — Reconversão da produção leiteira
 
-1 - Os produtores de leite que pretendam candidatar-se ao lote de direitos referido no artigo 1.º do presente diploma devem comprometer-se a abandonar definitivamente a produção leiteira, até ao final da respectiva campanha de 2004-2005.
+1 - Os produtores de leite que pretendam candidatar-se ao lote de direitos referido no artigo 1.º do presente diploma devem comprometer-se a abandonar definitivamente a produção leiteira até ao final da respectiva campanha de 2005-2006.
 
 2 - Para efeitos do disposto no número anterior, os produtores de leite devem entregar declaração de compromisso no acto de candidatura à atribuição de direitos no âmbito do presente diploma e transferir a respectiva quantidade de referência leiteira para outro produtor cuja exploração não coincida geograficamente, no todo ou em parte, com a sua.
 
 3 - A violação do compromisso assumido implica a perda da totalidade dos direitos atribuídos, ficando os candidatos impedidos, nos três anos subsequentes ao da atribuição dos direitos, de se candidatarem à reserva nacional.
+
+> Alterado pelo/a [Despacho Normativo n.º 51/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/51-2005-482794), publicado em 2005-11-28.
 
 ###### Artigo 9.º — Encabeçamento máximo
 

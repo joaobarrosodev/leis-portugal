@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-02-25'
+version_history:
+  file: decreto-lei-489-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-06-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-02-25'
+    amending: pt:dre:141641:por
+    amending_title: Decreto-Lei n.º 64/77
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:54:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 64/77. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-489-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,13 +145,27 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. Às pessoas singulares titulares de direitos sobre prédios rústicos expropriados ou nacionalizados ao abrigo do disposto nos Decretos-Leis n.os [406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075) e [407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 29 e 30 de Julho, respectivamente, ou que, sendo susceptíveis de expropriação ou nacionalização ao abrigo das mesmas disposições, tenham sido e se encontrem ocupados, e que retirassem predominantemente da exploração agrícola desses prédios os seus meios de subsistência, encontrando-se, em consequência daqueles actos, destituídos ou insuficientemente providos daqueles meios, é reconhecida a faculdade de requererem ao Centro Regional de Reforma Agrária ou à Comissão de Gestão Transitória da situação do prédio ou prédios expropriados, nacionalizados ou ocupados, a atribuição de um quantitativo mensal a deduzir nas indemnizações compensatórias que lhes vierem a ser atribuídas a título definitivo.
+###### Artigo 1.º
+
+1. Às pessoas singulares titulares de direitos sobre prédios rústicos expropriados ou nacionalizados ao abrigo do disposto nos Decretos-Leis n.os [406-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-a-1975-346075) e [407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 29 e 30 de Julho, respectivamente, ou que, sendo susceptíveis de expropriação ou nacionalização ao abrigo das mesmas disposições, tenham sido e se encontrem ocupados, e que retirassem predominantemente da exploração agrícola desses prédios os seus meios de subsistência, encontrando-se, em consequência daqueles actos, destituídos ou insuficientemente providos daqueles meios, é reconhecida a faculdade de requererem ao Centro Regional de Reforma Agrária ou à Comissão de Gestão Transitória da situação do prédio ou prédios expropriados, nacionalizados ou ocupados, a atribuição de um quantitativo mensal a deduzir nas indemnizações compensatórias que lhes vierem a ser atribuídas a título definitivo.
 
 2. Caso o prédio ou prédios expropriados, nacionalizados ou ocupados se situem na área de actuação de dois ou mais dos organismos mencionados no número anterior, é competente aquele em cuja circunscrição se situar a maior área expropriada, nacionalizada ou ocupada.
 
-Art. 2.º O requerimento deverá ser apresentado nos trinta dias subsequentes à entrada em vigor do presente diploma.
+3. Aos rendeiros que estejam em condições de receber indemnizações por frutos pendentes ou armazenados, gados e outros bens ou benfeitorias e que reúnam as condições previstas no n.º 1 é reconhecida a faculdade de requererem um subsídio nas condições ali referidas.
 
-Art. 3.º Para instrução e despacho do requerimento, observar-se-á o seguinte procedimento:
+> Alterado pelo/a [Decreto-Lei n.º 64/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1977-141641), publicado em 1977-02-24.
+
+###### Artigo 2.º
+
+1. O requerimento deverá ser apresentado nos trinta dias subsequentes à entrada em vigor do presente diploma.
+
+2. Quando, por motivos atendíveis, o requerimento for apresentado fora do prazo referido no número anterior, será submetido a despacho do Ministro da Agricultura e Pescas.
+
+> Alterado pelo/a [Decreto-Lei n.º 64/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1977-141641), publicado em 1977-02-24.
+
+###### Artigo 3.º
+
+Para instrução e despacho do requerimento, observar-se-á o seguinte procedimento:
 
 a) O requerente deduzirá os fundamentos da sua pretensão, oferecerá os meios de prova necessários à verificação da situação em que fundamenta o pedido, nomeadamente testemunhas em número não superior a três e documentos, e concluirá pedindo mensalidade certa;
 
@@ -145,17 +175,27 @@ c) Findas as diligências a que se refere a alínea anterior, o Centro Regional 
 
 d) O Centro Regional de Reforma Agrária ou a Comissão de Gestão Transitória enviarão ao Ministério da Agricultura e Pescas, nos cinco dias subsequentes à decisão, informação fundamentada que permita ao respectivo Ministro proceder à sua homologação.
 
-Art. 4.º - 1. A instituição que, por portaria do Ministro das Finanças, vier a ser declarada competente para o pagamento do quantitativo mensal fixado, será notificada da decisão final.
+###### Artigo 4.º
+
+1. A instituição que, por portaria do Ministro das Finanças, vier a ser declarada competente para o pagamento do quantitativo mensal fixado, será notificada da decisão final.
 
 2. A forma e demais requisitos do pagamento serão igualmente determinados por portaria do Ministro das Finanças.
 
-Art. 5.º O Ministro da Agricultura e Pescas poderá, a todo o tempo, suspender o pagamento, depois de ouvido o interessado mediante informação fundamentada dos serviços competentes de que já se não verificam os pressupostos que lhe deram causa.
+###### Artigo 5.º
 
-Art. 6.º O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução deste diploma.
+O Ministro da Agricultura e Pescas poderá, a todo o tempo, suspender o pagamento, depois de ouvido o interessado mediante informação fundamentada dos serviços competentes de que já se não verificam os pressupostos que lhe deram causa.
 
-Art. 7.º Este decreto-lei produzirá efeitos até à data da entrada em vigor do diploma que definir os critérios de fixação das indemnizações compensatórias referidas no artigo 1.º, subsistindo, porém, o pagamento dos quantitativos mensais anteriormente atribuídos até que a parte não paga das mesmas indemnizações seja efectivamente liquidada.
+###### Artigo 6.º
 
-Art. 8.º O presente diploma entra em vigor na data da sua publicação.
+O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução deste diploma.
+
+###### Artigo 7.º
+
+Este decreto-lei produzirá efeitos até à data da entrada em vigor do diploma que definir os critérios de fixação das indemnizações compensatórias referidas no artigo 1.º, subsistindo, porém, o pagamento dos quantitativos mensais anteriormente atribuídos até que a parte não paga das mesmas indemnizações seja efectivamente liquidada.
+
+###### Artigo 8.º
+
+O presente diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - António Poppe Lopes Cardoso.
 

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-02-11'
+version_history:
+  file: portaria-537-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-10-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-02-11'
+    amending: pt:dre:448517:por
+    amending_title: Portaria n.º 83/78
+    changes:
+    - Altera Artigo 22.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:35:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 83/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1971/portaria-537-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,7 +136,9 @@ REGULAMENTO DA DIRECÇÃO DE FARÓIS
 
 ### CAPÍTULO I — Atribuições e competência
 
-Artigo 1.º - 1. A Direcção de Faróis (D. F.) é o organismo da Direcção-Geral dos Serviços de Fomento Marítimo (D. G. S. F. M.) que tem como atribuições os assuntos relativos ao alumiamento e assinalamento marítimos.
+###### Artigo 1.º
+
+1. A Direcção de Faróis (D. F.) é o organismo da Direcção-Geral dos Serviços de Fomento Marítimo (D. G. S. F. M.) que tem como atribuições os assuntos relativos ao alumiamento e assinalamento marítimos.
 
 2. Incumbe à D. F., nos termos do número anterior:
 
@@ -129,7 +146,9 @@ a) Tratar de todos os assuntos relativos à sinalização marítima do continent
 
 b) Prestar às direcções e repartições provinciais dos serviços de marinha das províncias ultramarinas, quando solicitado, as informações e pareceres técnicos que estejam no âmbito das suas atribuições.
 
-Art. 2.º - 1. A sinalização marítima compreende o conjunto de todos os sinais destinados a prevenir a navegação da aproximação da terra ou de perigos próximos, fornecendo-lhe, ao mesmo tempo, os meios de determinar ou rectificar a sua posição, traçar a sua derrota junto da costa e praticar a navegação em portos, rios, canais ou lagos.
+###### Artigo 2.º
+
+1. A sinalização marítima compreende o conjunto de todos os sinais destinados a prevenir a navegação da aproximação da terra ou de perigos próximos, fornecendo-lhe, ao mesmo tempo, os meios de determinar ou rectificar a sua posição, traçar a sua derrota junto da costa e praticar a navegação em portos, rios, canais ou lagos.
 
 2. A sinalização marítima compreende:
 
@@ -147,7 +166,9 @@ f) Marcas;
 
 g) Radiofaróis.
 
-Art. 3.º - 1. A D. F. tem como principais atribuições:
+###### Artigo 3.º
+
+1. A D. F. tem como principais atribuições:
 
 a) Instalar, manter e conservar todos os sinais marítimos indicados no n.º 2 do artigo anterior, incluindo os respectivos equipamentos e máquinas;
 
@@ -193,7 +214,9 @@ q) Corresponder-se directamente com todas as autoridades e organismos do País e
 
 Órgãos da D. F.
 
-Art. 4.º - 1. A acção da D. F. é exercida por:
+###### Artigo 4.º
+
+1. A acção da D. F. é exercida por:
 
 a) Director;
 
@@ -219,19 +242,25 @@ l) Conselho Administrativo.
 
 2. As capitanias dos portos coadjuvam a D. F. nas condições estabelecidas neste Regulamento.
 
-Art. 5.º - 1. A D. F. é coadjuvada, na execução das suas atribuições, por navios balizadores.
+###### Artigo 5.º
+
+1. A D. F. é coadjuvada, na execução das suas atribuições, por navios balizadores.
 
 2. Os navios balizadores são navios da Armada destinados, fundamentalmente, à execução de trabalhos de sinalização marítima.
 
 3. As condições em que os navios balizadores, ou outros navios da Armada, apoiam a D. F. são definidas por portaria do Ministro da Marinha.
 
-Art. 6.º - 1. A Escola de Faroleiros (E. F.) funciona adstrita à D. F.
+###### Artigo 6.º
+
+1. A Escola de Faroleiros (E. F.) funciona adstrita à D. F.
 
 2. A E. F. rege-se por diploma próprio.
 
 #### SECÇÃO II — Director
 
-Art. 7.º - 1. Ao director compete, de uma maneira geral, dirigir e fiscalizar toda a actividade da D. F. e, em especial:
+###### Artigo 7.º
+
+1. Ao director compete, de uma maneira geral, dirigir e fiscalizar toda a actividade da D. F. e, em especial:
 
 a) Propor as modificações a efectuar na sinalização marítima, incluindo a instalação e extinção de sinais marítimos;
 
@@ -251,7 +280,9 @@ g) Conceder licenças ao pessoal civil, nos termos da legislação em vigor.
 
 #### SECÇÃO III — Subdirector
 
-Art. 8.º - 1. Ao subdirector compete:
+###### Artigo 8.º
+
+1. Ao subdirector compete:
 
 a) Substituir o director nas suas faltas ou impedimentos;
 
@@ -267,7 +298,9 @@ d) Inspeccionar os faróis e fiscalizar a execução de serviços e obras.
 
 #### SECÇÃO IV — Secretaria
 
-Art. 9.º À Secretaria compete realizar todos os trabalhos de expediente e arquivo necessários ao funcionamento da D. F., com excepção dos que pertençam à secretaria do Conselho Administrativo, cumprindo-lhe em especial:
+###### Artigo 9.º
+
+À Secretaria compete realizar todos os trabalhos de expediente e arquivo necessários ao funcionamento da D. F., com excepção dos que pertençam à secretaria do Conselho Administrativo, cumprindo-lhe em especial:
 
 a) Registar as publicações classificadas;
 
@@ -281,7 +314,9 @@ e) Publicar a Ordem de Serviço da Direcção com a periodicidade necessária e 
 
 #### SECÇÃO V — Gabinete Técnico
 
-Art. 10.º - 1. Ao Gabinete Técnico (G. T.) compete o estudo de todos os problemas técnicos relativos a alumiamento e assinalamento marítimos.
+###### Artigo 10.º
+
+1. Ao Gabinete Técnico (G. T.) compete o estudo de todos os problemas técnicos relativos a alumiamento e assinalamento marítimos.
 
 2. Para o desempenho das suas atribuições o G. T. disporá:
 
@@ -291,7 +326,9 @@ b) De arquivo próprio onde será mantida a documentação relativa às suas atr
 
 #### SECÇÃO VI — Serviço de Assistência Oficinal
 
-Art. 11.º - 1. O Serviço de Assistência Oficinal (S. A. O.) tem atribuições análogas às dos serviços de igual designação dos comandos territoriais, competindo-lhe em especial:
+###### Artigo 11.º
+
+1. O Serviço de Assistência Oficinal (S. A. O.) tem atribuições análogas às dos serviços de igual designação dos comandos territoriais, competindo-lhe em especial:
 
 a) Montar, desmontar, conduzir, conservar, manter e reparar as máquinas e os dispositivos técnicos, mecânicos e ópticos dos equipamentos de sinalização marítima;
 
@@ -317,7 +354,9 @@ d) Carpintaria.
 
 #### SECÇÃO VII — Serviço de Electrotecnia
 
-Art. 12.º - 1. O Serviço de Electrotecnia (S. E.) tem atribuições análogas às dos serviços de igual designação dos comandos territoriais, forças e unidades navais, competindo-lhe em especial:
+###### Artigo 12.º
+
+1. O Serviço de Electrotecnia (S. E.) tem atribuições análogas às dos serviços de igual designação dos comandos territoriais, forças e unidades navais, competindo-lhe em especial:
 
 a) Utilizar, conduzir e conservar os mecanismos e equipamentos eléctricos e electrónicos que interessem ao próprio serviço;
 
@@ -327,7 +366,9 @@ b) Manter e reparar o material eléctrico e electrónico.
 
 #### SECÇÃO VIII — Serviço de Abastecimento
 
-Art. 13.º O Serviço de Abastecimento tem atribuições análogas às dos serviços de igual designação dos comandos territoriais, forças e unidades navais, competindo-lhe em especial:
+###### Artigo 13.º
+
+O Serviço de Abastecimento tem atribuições análogas às dos serviços de igual designação dos comandos territoriais, forças e unidades navais, competindo-lhe em especial:
 
 a) Submeter à apreciação do conselho administrativo os assuntos de serviço que careçam da sua resolução;
 
@@ -343,11 +384,15 @@ f) Promover a contabilização do material.
 
 #### SECÇÃO IX — Serviço de Saúde
 
-Art. 14.º Ao Serviço de Saúde são aplicáveis as disposições que regulam os serviços de saúde dos comandos, unidades e serviços da Armada.
+###### Artigo 14.º
+
+Ao Serviço de Saúde são aplicáveis as disposições que regulam os serviços de saúde dos comandos, unidades e serviços da Armada.
 
 #### SECÇÃO X — Serviços Gerais
 
-Art. 15.º - 1. Os Serviços Gerais têm atribuições análogas às dos serviços do mesmo nome dos comandos e unidades da Armada, competindo-lhes, especialmente:
+###### Artigo 15.º
+
+1. Os Serviços Gerais têm atribuições análogas às dos serviços do mesmo nome dos comandos e unidades da Armada, competindo-lhes, especialmente:
 
 a) Conservar e manter as bóias, aprestos marítimos e, na parte que lhes competir, as embarcações;
 
@@ -369,7 +414,9 @@ c) Embarcações e viaturas.
 
 #### SECÇÃO XI — Biblioteca
 
-Art. 16.º À Biblioteca compete:
+###### Artigo 16.º
+
+À Biblioteca compete:
 
 a) Catalogar, arquivar, conservar e guardar os livros, publicações periódicas e outros documentos de estudo e consulta pertencentes à Direcção;
 
@@ -379,7 +426,9 @@ c) Adquirir novos espécimes que revistam importância para a actividade da D. F
 
 #### SECÇÃO XII — Conselho Administrativo
 
-Art. 17.º - 1. O Conselho Administrativo (C. A.) é constituído nos termos do Regulamento de Administração da Fazenda Naval (R. A. F. N.).
+###### Artigo 17.º
+
+1. O Conselho Administrativo (C. A.) é constituído nos termos do Regulamento de Administração da Fazenda Naval (R. A. F. N.).
 
 2. O C. A. rege-se pelas disposições aplicáveis do R. A. F. N. e pelos preceitos gerais da contabilidade pública, competindo-lhe administrar as verbas que constituem dotação da D. F. nos termos da competência que lhe é conferida pela legislação em vigor.
 
@@ -387,7 +436,9 @@ Art. 17.º - 1. O Conselho Administrativo (C. A.) é constituído nos termos do 
 
 #### SECÇÃO XIII — Capitanias dos portos
 
-Art. 18.º - 1. As capitanias dos portos, no que respeita aos assuntos da competência da D. F., funcionam como delegações desta Direcção para as respectivas áreas de jurisdição, e são responsáveis pelo exercício das actividades da D. F. nessas áreas.
+###### Artigo 18.º
+
+1. As capitanias dos portos, no que respeita aos assuntos da competência da D. F., funcionam como delegações desta Direcção para as respectivas áreas de jurisdição, e são responsáveis pelo exercício das actividades da D. F. nessas áreas.
 
 2. Os delegados da D. F. são os capitães dos portos, tendo como adjuntos os delegados marítimos nas respectivas áreas.
 
@@ -411,17 +462,23 @@ g) Executar, por delegação da D. F., os actos administrativos que lhes devem c
 
 5. Nas capitanias em que o capitão do porto seja mais antigo que o director de Faróis deverá o mesmo oficial designar outro que ali preste serviço para desempenhar as funções indicadas nos números anteriores, o qual deverá ser mais moderno que o director de Faróis.
 
-Art. 19.º As capitanias dos portos que possuam oficinas prestam, dentro dos seus recursos e na medida das suas possibilidades técnicas, assistência ao material da D. F.
+###### Artigo 19.º
+
+As capitanias dos portos que possuam oficinas prestam, dentro dos seus recursos e na medida das suas possibilidades técnicas, assistência ao material da D. F.
 
 ### CAPÍTULO III — Classificação dos faróis
 
-Art. 20.º Os faróis, farolins e demais sinais marítimos, em relação à vigilância de que são alvo, classificam-se em:
+###### Artigo 20.º
+
+Os faróis, farolins e demais sinais marítimos, em relação à vigilância de que são alvo, classificam-se em:
 
 a) Vigiados - quando neles habita permanentemente pessoal para o seu serviço;
 
 b) Não vigiados - quando, por serem de funcionamento automático, neles não reside qualquer pessoal para o seu serviço.
 
-Art. 21.º - 1. Os faróis, farolins e demais sinais marítimos vigiados, em relação à sua localização, são classificados em quatro classes:
+###### Artigo 21.º
+
+1. Os faróis, farolins e demais sinais marítimos vigiados, em relação à sua localização, são classificados em quatro classes:
 
 a) 1.ª classe - os isolados no mar, de difícil comunicação;
 
@@ -433,25 +490,25 @@ d) 4.ª classe - os restantes.
 
 2. As três primeiras classes do número anterior são chamadas de isolamento.
 
-Art. 22.º - 1. Os actuais faróis e farolins, em conformidade com o artigo anterior, são classificados pela forma seguinte:
+###### Artigo 22.º
 
-a) 1.ª classe: Berlenga, S. Lourenço e Ilhéu de Cima;
-
-b) 2.ª classe: Cabo Mondego, Cabo da Roca, Bugio, Cabo Espichel, Cabo Sardão, Cabo de S. Vicente, Ponta do Altar, Alfanzina, Cabo de Santa Maria, Ponta do Pargo, Gonçalo Velho, Contendas, Ponta da Ilha do Pico, Albarnaz, Cintrão e Rosais;
-
-c) 3.ª classe: Montedor, Cabo Raso, Forte do Cavalo, Outão, Milfontes, Sagres, Culatra, Ferraria, Arnel, Serreta, Ponta do Topo, Ponta da Barca, Carapacho, Ribeirinha, e Lajes das Flores;
-
-d) 4.ª classe: os restantes.
+1 - (Revogado.)
 
 2. As alterações que se vierem a verificar na classificação do número anterior serão promulgadas por portaria do Ministro da Marinha.
+
+> Alterado pelo/a [Portaria n.º 83/78](https://diariodarepublica.pt/dr/detalhe/portaria/83-1978-448517), publicado em 1978-02-11.
 
 ### CAPÍTULO IV — Pessoal
 
 #### SECÇÃO I — Provimento
 
-Art. 23.º O director de Faróis é nomeado pelo Ministro da Marinha, mediante proposta do director-geral dos Serviços de Fomento Marítimo.
+###### Artigo 23.º
 
-Art. 24.º - 1. As lotações do pessoal militar e do pessoal civil da D. F. são estabelecidas, respectivamente, por portaria e por despacho do Ministro da Marinha.
+O director de Faróis é nomeado pelo Ministro da Marinha, mediante proposta do director-geral dos Serviços de Fomento Marítimo.
+
+###### Artigo 24.º
+
+1. As lotações do pessoal militar e do pessoal civil da D. F. são estabelecidas, respectivamente, por portaria e por despacho do Ministro da Marinha.
 
 2. A lotação dos faróis será estabelecida pela D. F. de acordo com o quadro de pessoal de faróis aprovado e com a portaria e despacho referidos no número anterior.
 
@@ -459,33 +516,49 @@ Art. 24.º - 1. As lotações do pessoal militar e do pessoal civil da D. F. sã
 
 4. No arquipélago dos Açores prestará serviço um sargento artífice condutor de máquinas encarregado da assistência técnica aos equipamentos e motores de faróis.
 
-Art. 25.º - 1. As categorias, efectivos e outras disposições relativas ao pessoal do quadro do pessoal civil que presta serviço na D. F. são regulados pelo [Decreto-Lei n.º 618/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1970-146259), de 14 de Dezembro.
+###### Artigo 25.º
+
+1. As categorias, efectivos e outras disposições relativas ao pessoal do quadro do pessoal civil que presta serviço na D. F. são regulados pelo [Decreto-Lei n.º 618/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1970-146259), de 14 de Dezembro.
 
 2. A admissão, movimento, promoção e outras disposições relativas ao pessoal de faróis são regulados, de acordo com o disposto no [Decreto-Lei n.º 618/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1970-146259), mediante instruções aprovadas por despacho do Ministro da Marinha.
 
-Art. 26.º - 1. O Conselho Administrativo pode, nas condições do artigo 2.º do [Decreto-Lei n.º 618/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1970-146259), contratar ou assalariar, além do quadro, pessoal civil.
+###### Artigo 26.º
+
+1. O Conselho Administrativo pode, nas condições do artigo 2.º do [Decreto-Lei n.º 618/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1970-146259), contratar ou assalariar, além do quadro, pessoal civil.
 
 2. O assalariamento dos auxiliares de luzes é efectuado por despacho ministerial, mediante proposta do director de Faróis.
 
 3. Os auxiliares de luzes são civis assalariados que não pertencem ao quadro e não necessitam de preparação técnica especial para o desempenho das suas funções.
 
-Art. 27.º - 1. O pessoal de faróis e os sargentos artífices condutores de máquinas, quando chefes de farol, têm direito a alojamento para si e suas famílias.
+###### Artigo 27.º
+
+1. O pessoal de faróis e os sargentos artífices condutores de máquinas, quando chefes de farol, têm direito a alojamento para si e suas famílias.
 
 2. O chefe de farol é o faroleiro de maior categoria ou antiguidade que presta serviço em cada farol, salvo nos faróis referidos no n.º 3 do artigo 24.º, quando chefiados por sargentos artífices condutores de máquinas.
 
-Art. 28.º O pessoal de faróis não pode desempenhar permanente ou temporàriamente outros cargos públicos, nem exercer cumulativamente outra profissão que seja incompatível com o exercício das suas funções, devendo, no prazo de oito dias, depois de oficialmente intimado, optar entre os seus lugares e aqueles que indevidamente exerçam.
+###### Artigo 28.º
+
+O pessoal de faróis não pode desempenhar permanente ou temporàriamente outros cargos públicos, nem exercer cumulativamente outra profissão que seja incompatível com o exercício das suas funções, devendo, no prazo de oito dias, depois de oficialmente intimado, optar entre os seus lugares e aqueles que indevidamente exerçam.
 
 #### SECÇÃO II — Uniformes
 
-Art. 29.º Os uniformes e distintivos a usar pelo pessoal de faróis serão fixados por portaria do Ministro da Marinha.
+###### Artigo 29.º
+
+Os uniformes e distintivos a usar pelo pessoal de faróis serão fixados por portaria do Ministro da Marinha.
 
 #### SECÇÃO III — Penalidades
 
-Art. 30.º O pessoal do quadro do pessoal civil que presta serviço na D. F. está sujeito ao Regulamento de Disciplina Militar e ao Regulamento de Continências e Honras Militares e responde perante o Tribunal da Marinha por infracções cometidas no exercício das suas funções, nas condições expressas no [Decreto-Lei n.º 618/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1970-146259).
+###### Artigo 30.º
 
-Art. 31.º O pessoal contratado está sujeito às disposições do Regulamento de Disciplina Militar, na parte que lhe respeita.
+O pessoal do quadro do pessoal civil que presta serviço na D. F. está sujeito ao Regulamento de Disciplina Militar e ao Regulamento de Continências e Honras Militares e responde perante o Tribunal da Marinha por infracções cometidas no exercício das suas funções, nas condições expressas no [Decreto-Lei n.º 618/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/618-1970-146259).
 
-Art. 32.º - 1. O pessoal assalariado está sujeito, no respeitante a faltas disciplinares, às seguintes sanções, da competência do director de Faróis:
+###### Artigo 31.º
+
+O pessoal contratado está sujeito às disposições do Regulamento de Disciplina Militar, na parte que lhe respeita.
+
+###### Artigo 32.º
+
+1. O pessoal assalariado está sujeito, no respeitante a faltas disciplinares, às seguintes sanções, da competência do director de Faróis:
 
 a) Multa de um a dez dias, correspondentes ao salário diário do infractor;
 
@@ -495,22 +568,32 @@ b) Demissão.
 
 #### SECÇÃO IV — Licenças
 
-Art. 33.º Aos militares da Armada ou pessoal do quadro do pessoal civil do Ministério da Marinha que, durante dois anos seguidos, tenham servido com exemplar comportamento em faróis que, nos termos dos artigos 21º e 22.º, sejam da 1.ª ou 2.ª classe de isolamento poderão ser concedidos, além das licenças que a lei geral estabelece, quinze ou dez dias de licença, com todos os vencimentos, conforme tenha servido esses dois anos em farol de 1.ª ou de 2.ª classe de isolamento.
+###### Artigo 33.º
+
+Aos militares da Armada ou pessoal do quadro do pessoal civil do Ministério da Marinha que, durante dois anos seguidos, tenham servido com exemplar comportamento em faróis que, nos termos dos artigos 21º e 22.º, sejam da 1.ª ou 2.ª classe de isolamento poderão ser concedidos, além das licenças que a lei geral estabelece, quinze ou dez dias de licença, com todos os vencimentos, conforme tenha servido esses dois anos em farol de 1.ª ou de 2.ª classe de isolamento.
 
 #### SECÇÃO V — Informações
 
-Art. 34.º - 1. O pessoal militar e civil em serviço na D. F. é informado pelo director, nos termos da legislação em vigor.
+###### Artigo 34.º
+
+1. O pessoal militar e civil em serviço na D. F. é informado pelo director, nos termos da legislação em vigor.
 
 2. Os chefes de farol enviarão à D. F., através das capitanias dos portos, informações confidenciais do pessoal de faróis sob as suas ordens e de acordo com a legislação em vigor.
 
 #### SECÇÃO VI — Vencimentos, gratificações e abonos
 
-Art. 35.º O pessoal militar e civil em serviço na D. F. tem direito aos vencimentos, gratificações e abonos determinados pela legislação em vigor.
+###### Artigo 35.º
+
+O pessoal militar e civil em serviço na D. F. tem direito aos vencimentos, gratificações e abonos determinados pela legislação em vigor.
 
 ### CAPÍTULO V — Disposições diversas
 
-Art. 36.º Junto da D. F. funciona a Lutuosa dos Faróis, para atribuição de subsídios por morte e cujos estatutos constam de legislação própria.
+###### Artigo 36.º
 
-Art. 37.º O regulamento interno da D. F. será posto em vigor por despacho do Ministro da Marinha.
+Junto da D. F. funciona a Lutuosa dos Faróis, para atribuição de subsídios por morte e cujos estatutos constam de legislação própria.
+
+###### Artigo 37.º
+
+O regulamento interno da D. F. será posto em vigor por despacho do Ministro da Marinha.
 
 O Ministro da Marinha, Manuel Pereira Crespo.

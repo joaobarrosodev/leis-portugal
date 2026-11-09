@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2004-01-19'
+version_history:
+  file: resolucao-conselho-ministros-166-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-11-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-01-19'
+    amending: pt:dre:603026:por
+    amending_title: Resolução do Conselho de Ministros n.º 4/2004
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 30.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/166/2003/11/03/p/dre/pt/html
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:48:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 4/2004. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2003/resolucao-conselho-ministros-166-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -370,9 +386,11 @@ m) Comprovativo da prestação da caução a que se refere o n.º 1 do artigo 11
 
 ###### Artigo 12.º — Entrega das propostas
 
-1 - As propostas a apresentar no âmbito do presente concurso têm de ser entregues na Inspecção-Geral de Finanças, sita na Rua de Angelina Vidal, 41, em Lisboa, até às 17 horas do 30.º dia posterior ao da data da publicação do respectivo anúncio no Diário da República.
+1 - As propostas a apresentar no âmbito do presente concurso têm de ser entregues na Inspecção-Geral de Finanças, sita na Rua de Angelina Vidal, 41, em Lisboa, até às 17 horas do dia 22 de Janeiro de 2004.
 
 2 - Contra a entrega da proposta é passado recibo, do qual constam a identificação e a morada da pessoa que a entrega, a data e a hora em que a mesma é recebida, bem como o número de ordem de apresentação, devendo iguais anotações ser feitas no sobrescrito exterior que a contém.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2004-603026), publicado em 2004-01-14.
 
 ###### Artigo 13.º — Esclarecimentos e prorrogação do prazo
 
@@ -622,9 +640,11 @@ b) Agenda da reunião.
 
 ###### Artigo 30.º — Relatório final do júri
 
-1 - Concluída a apreciação final das propostas e respectivas alterações o júri deverá elaborar um relatório circunstanciado, procedendo à ordenação das mesmas, segundo o seu mérito relativo, com a devida fundamentação, submetendo-o à aprovação do Conselho de Ministros.
+1 - Concluída a apreciação final das propostas e respectivas alterações, o júri deverá elaborar um relatório circunstanciado, procedendo à ordenação das mesmas, segundo o seu mérito relativo, com a devida fundamentação, submetendo-o à aprovação do Conselho de Ministros, desde que já lhe tenham sido apresentados os documentos comprovativos da decisão proferida pela entidade competente, relativamente aos concorrentes que, nos termos do artigo 21.º, tenham procedido à notificação prévia de operação de concentração de empresas.
 
 2 - O júri, antes da apresentação do seu relatório final ao Conselho de Ministros, deverá assegurar aos concorrentes envolvidos o cumprimento do direito de audiência prévia, mediante audiências separadas com cada um deles, onde lhes será dado conhecimento da decisão proposta sobre a qual os mesmos se poderão pronunciar.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2004-603026), publicado em 2004-01-14.
 
 ###### Artigo 31.º — Determinação do adquirente e celebração da venda
 

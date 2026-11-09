@@ -1,0 +1,453 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:665133:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1972-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9b542a8d4c226aea",
+    "a6c583b05f083998",
+    "04aca8b6f0998db6",
+    "a120334a8f92d5d7",
+    "aa7bf3455095b49f",
+    "bdfabf522c5b57b5",
+    "08dc547274f51725"
+   ]
+  },
+  {
+   "date": "1976-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:501381:por",
+     "title": "Decreto-Lei n.º 209/76",
+     "published": "1976-03-22",
+     "dre_path": "/dr/detalhe/decreto-lei/209-1976-501381"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 26.º"
+   ],
+   "fragments": [
+    "9b542a8d4c226aea",
+    "c848d60bc8e62535",
+    "e4807a229112f3c9",
+    "786ff1ca8b96b1ba",
+    "a4898e592b04fe18",
+    "4852e5de697d4176",
+    "84fffccc04f5870b",
+    "4beeaf36eea9e651",
+    "c8687ff270b8431c",
+    "8d875c034b2f7f84",
+    "1dc4dbfd2cb4fe3d",
+    "3f03c8784105046c",
+    "240e152d3b77d5b9",
+    "eaf9d90e46c86a68",
+    "35e70e6c6f0ad1d8",
+    "6c0f88fcf320106c",
+    "20366e8b873eb673",
+    "3fb92b9a7abd888e",
+    "19b7eec36028d27b",
+    "6468365e7e3a7b23",
+    "bfed472a0fb8d7c5",
+    "1d5885e12d04085c",
+    "2895db2e4f10d0dc",
+    "3ec89584843a6bea",
+    "54412ebc06a28bec",
+    "296edb0452b4da11",
+    "b082a0cc46293e86",
+    "7ece023926abe61a",
+    "6f92e5a182e7d04b",
+    "eaa327f0604bcb60",
+    "917b9dc0d02fd229",
+    "17d40c045fdb2c38",
+    "d3c1eb9fbb9df997",
+    "ed3393211e6d8f3e",
+    "53a04da1b6e11a9c",
+    "8ae9daf36c81665b",
+    "d2d2db2d0a8083b7",
+    "273cc3704d824e15",
+    "4b40d054e451f10e",
+    "4dea6ca093b79ffa"
+   ]
+  }
+ ],
+ "fragments": {
+  "9b542a8d4c226aea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Dezembro\n\nComo se conclui do próprio preâmbulo do [Decreto-Lei n.º 49033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065), de 28 de Maio de 1969, o Fundo de Fomento da Habitação foi instituído com um duplo objectivo: unificar os serviços que, no Ministério das Obras Públicas, tinham competência em matéria de habitação, por forma a conseguir maior eficácia na sua actuação, através de uma economia de meios e de pessoal e de uma mais perfeita racionalização de processos, e, ao mesmo tempo, concentrar o estudo da problemática social da habitação num único organismo que, pela sua inserção funcional, tornasse possível uma visão conjugada da temática da habitação e do urbanismo.\n\nNo domínio da execução, a constituição do Fundo não operou, pois, a concentração dos diversos serviços e entidades que, no âmbito de outros departamentos, exerciam funções semelhantes, nomeadamente as instituições de previdência, que, mobilizando a sua poupança através da Federação das Caixas de Previdência - Habitações Económicas, têm contribuído de forma assinalável para a resolução do problema habitacional da população sua beneficiária, hoje pràticamente identificada com o conjunto da população activa do País.\n\nComo, porém, se anotava já no relatório do III Plano de Fomento e foi salientado no Colóquio da Habitação, organizado sob o patrocínio do Ministério das Obras Públicas, a proliferação de entidades competentes, actuando no âmbito de departamentos sem interferência no planeamento urbanístico, não permitia ao Governo definir e executar coerentemente uma política global de habitação.\n\nAcresce ainda a circunstância de o diploma que criou o Fundo de Fomento, bem como o [Decreto-Lei n.º 473/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1971-631380), de 6 de Novembro, que procedeu à sua reestruturação, não lhe terem cometido, por razões compreensíveis, poderes concretos de coordenação, tornando, assim, impraticável a sua intervenção eficaz nos domínios do estudo e do planeamento.\n\nAnotando a mesma carência, se pronunciou, de resto, a Assembleia Nacional quando, na legislatura passada, discutiu um aviso prévio sobre habitação.\n\nDaí que o Governo tenha criado, pelo [Decreto-Lei n.º 283/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1972-676052), de 12 de Agosto, no Ministério das Obras Públicas, a Secretaria de Estado do Urbanismo e Habitação, compreendendo a Direcção-Geral dos Serviços de Urbanização e o Fundo de Fomento da Habitação, que deveria ser reorganizado de maneira a tornar possível a transferência dos serviços que, no âmbito do Ministério das Corporações e Previdência Social, exerciam funções no domínio da habitação.\n\nEsse o objectivo do presente diploma, que visa também criar as condições necessárias ao exercício pelo Fundo das atribuições que resultam da sua integração no âmbito da nova Secretaria de Estado.\n\nVê assim o Fundo bastante acrescida a sua capacidade de actuação, não só no domínio do estudo e da coordenação, que passa a abarcar todas as iniciativas desenvolvidas no sector, como ainda no domínio da execução, em que lhe caberá concretizar o conjunto das medidas de política confiadas à responsabilidade do Estado.\n\nNessa perspectiva, passará a utilizar, para além das verbas que constituem actualmente as suas receitas, as importâncias correspondentes aos valores das caixas de previdência, até agora investidos directamente na construção de casas de renda económica.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "a6c583b05f083998": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza, atribuições e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza, atribuições e competência\n\nArtigo 1.º O Fundo de Fomento da Habitação, criado pelo [Decreto-Lei n.º 49033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065), de 28 de Maio de 1969, passa a reger-se pelo presente diploma.\n\nArt. 2.º O Fundo de Fomento da Habitação, adiante designado também por Fundo, é um organismo com personalidade jurídica e autonomia administrativa e financeira, dependente da Secretaria de Estado do Urbanismo e Habitação, criada no Ministério das Obras Públicas pelo [Decreto-Lei n.º 283/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1972-676052), de 11 de Agosto.\n\nArt. 3.º - 1. Constituem atribuições do Fundo de Fomento da Habitação:\n\na) O estudo sistemático da problemática da habitação;\n\nb) A coordenação das iniciativas respeitantes ao sector;\n\nc) A execução das medidas de política habitacional da responsabilidade do Estado.\n\n2. A intervenção do Estado no financiamento do estudo e execução de operações e trabalhos de urbanização, incluindo a renovação de aglomerados, é prosseguida pelo Fundo, nos termos do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, e demais legislação aplicável.\n\nArt. 4.º - 1. A cooperação das caixas sindicais de previdência, bem como das caixas de reforma ou previdência, no fomento da habitação far-se-á através da afectação de parte dos seus capitais à realização dos programas do Fundo, sem prejuízo das modalidades previstas nas alíneas c), d) e e) do n.º 2 da base I da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958.\n\n2. O Fundo de Casas Económicas, criado pelo [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, é extinto, passando o seu património para o Fundo de Fomento da Habitação, ao qual competirá a arrecadação das respectivas receitas e a satisfação dos correspondentes encargos.\n\nArt. 5.º Os capitais afectos ao Fundo Permanente da Caixa Nacional de Previdência da Caixa Geral de Depósitos, Crédito e Previdência e destinados à aquisição e construção de casas para habitação de funcionários do Estado e das autarquias locais, nos termos do [Decreto-Lei n.º 42951](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42951-1960-281452), de 27 de Abril de 1960, serão postos à disposição do Fundo de Fomento da Habitação, de acordo com plano anual elaborado pela Caixa e aprovado pelos Ministros das Finanças e das Obras Públicas.\n\nArt. 6.º Na sua qualidade de organismo encarregado de estudar a problemática da habitação, cabe ao Fundo:\n\na) Promover inquéritos e estudos destinados a manter actualizado o conhecimento dos problemas da habitação;\n\nb) Estudar as soluções habitacionais mais adequadas às diversas categorias a contemplar, tomando em linha de conta as suas necessidades e respectivas tendências de evolução, com vista ao estabelecimento de um conveniente equilíbrio entre os factores de conforto, economia e durabilidade;\n\nc) Estudar a situação habitacional nas diferentes regiões do País, averiguar as carências a satisfazer pela iniciativa pública e programar os projectos de intervenção, em conformidade com um plano nacional da habitação em que se atenda às exigências, de um desenvolvimento equilibrado do território;\n\nd) Promover o estudo e divulgação dos aspectos técnicos da construção de habitações, por intermédio, nomeadamente, do Laboratório Nacional de Engenharia Civil;\n\ne) Estudar e promover as medidas tendentes a disciplinar o sector habitacional e a regular os regimes da habitação social e matérias conexas;\n\nf) Estudar no domínio do direito comparado os regimes jurídicos da habitação e acompanhar a sua evolução;\n\ng) Assegurar no domínio habitacional a representação do País em organismos e agências internacionais, sem prejuízo da competência especifica do Ministério dos Negócios Estrangeiros.\n\nArt. 7.º Como organismo coordenador, compete ao Fundo:\n\na) Coordenar, em termos de planeamento, todas as iniciativas que visem contribuir para a resolução do problema habitacional;\n\nb) Colaborar com quaisquer entidades que, a titulo permanente ou eventual, se proponham contribuir para a execução da política habitacional definida pelo Governo, em especial, com as câmaras municipais e as Misericórdias, a quem poderá prestar assistência técnica;\n\nc) Pronunciar-se sobre a regulamentação dos empréstimos a conceder de acordo com o disposto nas alíneas c), d) e e) do n.º 2 da base I da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, bem como sobre os programas habitacionais resultantes da aplicação dos Decretos-Leis n.os 35732, de 4 de Julho de 1946, 37750, de 4 de Fevereiro de 1950, 40674, de 6 de Julho de 1956, 41286, de 23 de Setembro de 1957, e 42977, de 14 de Maio de 1960;\n\nd) Definir orientações gerais de aplicação obrigatória e coordenar as intervenções dos serviços sociais dos diversos Ministérios, de organismos autónomos e de empresas públicas no domínio da habitação.\n\nArt. 8.º Em cumprimento das suas atribuições como organismo executivo da política habitacional do Governo, cabe ao Fundo:\n\na) Adquirir terrenos para construção;\n\nb) Urbanizar os terrenos adquiridos nos termos da alínea anterior;\n\nc) Construir casas para habitação, bem como edifícios de interesse público, nos mencionados terrenos e arrendar umas e outros ou fazer a sua atribuição segundo os regimes legalmente fixados, sempre que legal ou contratualmente não devam ser arrendados ou atribuídos por outras entidades;\n\nd) Alienar a quaisquer entidades, públicas ou privadas, a propriedade ou o mero direito de superfície de lotes de terreno destinados a habitação ou instalações de interesse público, cuja construção, segundo o plano ou programa aprovado, não seja da competência do Fundo;\n\ne) Alienar habitações ou outros edifícios que pertençam ao seu património, em execução dos programas de financiamento aprovados;\n\nf) Emitir obrigações, estabelecendo as respectivas condições de juro e amortização, nos termos do disposto no n.º 3 do artigo 11.º;\n\ng) Conceder a entidades públicas ou privadas, para execução de programas habitacionais de interesse social, subsídios, reembolsáveis ou não, bem como empréstimos, fixando as respectivas condições de juro e prazos de amortização;\n\nh) Arrecadar e escriturar as receitas previstas no artigo 51.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, e satisfazer os respectivas encargos, atribuindo os subsídios a que se refere a alínea a) do n.º 1 do artigo 53.º do mesmo diploma;\n\ni) Associar-se com promotores privados e empresas de construção, podendo participar em sociedades de economia mista para prossecução das actividades de construção e urbanização.\n\nArt. 9.º - 1. O Fundo submeterá anualmente à aprovação do Ministro das Obras Públicas o seu plano de actividades, incluindo um programa de construção e alienação de lotes de terrenos e edifícios, que será elaborado atendendo ao nível social dos previsíveis utentes e onde se indicará o número e tipo de fogos a arrendar ou a distribuir, segundo os diversos regimes legais.\n\n2. O número de fogos destinado a alojamento ou realojamento de famílias de modestos recursos, a construir ou a subsidiar nos termos da respectiva legislação especial, constará do plano de actividades referido no número anterior.\n\nArt. 10.º - 1. As condições em que deverá processar-se a colaboração dos serviços do Ministério das Obras Públicas com os das câmaras municipais dos concelhos abrangidos pelos planos de construções do Fundo constarão de despacho do Ministro das Obras Públicas.\n\n2. A conservação e limpeza de jardins e espaços públicos e dos arruamentos próprios e de acesso aos agrupamentos de habitações, construídas ou cuja construção for promovida pelo Fundo, incluindo os passeios, e as canalizações de esgotos, água e luz ficam a cargo das câmaras municipais.\n\nArt. 11.º - 1. Sem prejuízo do disposto nos artigos 9.º e 10.º, carecerá sempre de autorização do Ministro das Obras Públicas:\n\na) A colaboração referida na alínea b) do artigo 7.º, quando solicitada pelas entidades interessadas;\n\nb) A concessão dos subsídios a que se refere a alínea g) do artigo 8.º;\n\nc) A associação ou participação a que se refere a alínea i) do artigo 8.º;\n\nd) A aprovação de contratos de valor superior a 800000$00 ou à quantia que for estabelecida pela lei geral para os serviços do Estado, incluindo os que gozem de autonomia administrativa e financeira, bem como a realização de despesas superiores a esse montante que sejam relativas a trabalhos não compreendidos no plano anual de actividades ou que não tenham sido já, por qualquer forma, superiormente autorizadas.\n\n2. A regulamentação dos empréstimos, bem como os programas habitacionais referidos na alínea c) do artigo 7.º, serão aprovados em despachos conjuntos do Ministro das Obras Públicas e do Ministro ou Ministros competentes.\n\n3. As emissões de obrigações a que se refere a alínea f) do artigo 8.º carecem de aprovação do Ministro das Finanças.\n\nArt. 12.º São declaradas de utilidade pública urgente as expropriações necessárias à realização dos programas do Fundo, mediante aprovação pelo Ministro das Obras Públicas dos planos gerais das áreas a urbanizar ou dos anteprojectos dos trabalhos de grande urbanização, especialmente dos relativos aos arruamentos importantes e à rede geral de saneamento com a demarcação rigorosa das respectivas áreas de ocupação.\n\nArt. 13.º O Fundo fica isento do pagamento de quaisquer contribuições, impostos directos ou indirectos, custas e taxas de que sejam credores o Estado, as autarquias locais ou os institutos públicos, bem como do pagamento de emolumentos devidos por actos notariais ou de registo e daqueles a que se refere o artigo 11.º do Decreto com força de lei n.º 22257, de 25 de Fevereiro de 1933.\n\nArt. 14.º As certidões passadas pelo Fundo de que constem as importâncias de rendas, empréstimos ou outras prestações em dívida, bem como os respectivos encargos, têm força de titulo executivo e a sua cobrança coerciva é da competência dos tribunais das contribuições e impostos."
+  },
+  "04aca8b6f0998db6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Dos meios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Dos meios financeiros\n\nArt. 15.º - 1. Constituem receitas do Fundo:\n\na) As verbas que lhe forem destinadas pelo Governo, designadamente as provenientes de dotações orçamentais e de comparticipações do Fundo de Desemprego;\n\nb) A parte dos capitais das caixas sindicais de previdência e das caixas de reforma ou previdência, anualmente fixada pelo Conselho de Ministros para os Assuntos Económicos, que determinará as respectivas condições de juro e prazo de amortização;\n\nc) As comparticipações das autarquias locais, pessoas colectivas de utilidade pública administrativa e organismos corporativos;\n\nd) O produto da alienação de lotes urbanizados, bem como de habitações ou edifícios, e ainda quaisquer donativos, heranças ou legados;\n\ne) Os rendimentos das casas integradas no seu património, já distribuídas ou a distribuir, em regime de arrendamento ou outros, bem como a contra-prestação por serviços prestados pelo Fundo aos respectivos moradores ou o reembolso por despesas efectuadas;\n\nf) Os rendimentos dos depósitos em dinheiro feitos por conta do Fundo na Caixa Geral de Depósitos, Crédito e Previdência, bem como o produto de quaisquer indemnizações que legal ou contratualmente lhe sejam devidas;\n\ng) As importâncias provenientes de empréstimos contraídos, designadamente das emissões de obrigações previstas na alínea f) do artigo 8.º;\n\nh) As receitas a que se refere o artigo 51.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, as quais ficam, porém, consignadas ao fim previsto nesse diploma.\n\n2. As dotações especiais do Orçamento Geral do Estado e do Fundo de Desemprego referidas no artigo 6.º do [Decreto-Lei n.º 44645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44645-1962-156579), de 25 de Outubro de 1962, bem como no artigo 8.º do [Decreto-Lei n.º 49010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49010-1969-201578), de 20 de Maio de 1969, passarão a ser inscritas como receitas do Fundo.\n\n3. As comparticipações das entidades referidas na alínea c) do n.º 1 poderão consistir na cedência de terrenos, desde que estes reúnam as condições para a prossecução das finalidades do Fundo.\n\n4. O conselho geral, no plano a que se refere o artigo 6.º, estabelecerá qual a parte das receitas referidas nas alíneas d) e e) do n.º 1 deste artigo e nas alíneas b) e c) do n.º 1 do artigo 51.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, que será afecta aos programas de urbanização a que se refere o n.º 2 do artigo 3.º deste diploma.\n\nArt. 16.º - 1. O Fundo arrecadará e administrará as suas receitas e satisfará, por meio delas, os encargos da sua actividade.\n\n2. Para efeitos do disposto no n.º 1, o Fundo organizará o orçamento anual das suas receitas e despesas, o qual será sujeito à aprovação do Ministro das Obras Públicas e ao visto do Ministro das Finanças.\n\n3. As despesas inerentes à fiscalização dos trabalhos a cargo do Fundo serão fixadas por despacho do Ministro das Obras Públicas, por proposta do conselho administrativo, não podendo exceder 5 por cento da verba orçamentada para a execução das respectivas obras.\n\n4. As alterações ao orçamento anual do Fundo serão efectuadas, sempre que se mostrem indispensáveis, por meio de orçamentos suplementares sujeitos às formalidades indicadas no n.º 2.\n\n5. Os saldos apurados no fim de cada ano económico serão transferidos para a gerência do ano seguinte, a fim de serem utilizados pelo Fundo.\n\nArt. 17.º - 1. A fiscalização pelo Tribunal de Contas da actividade do Fundo exerce-se através do seu delegado permanente, ficando apenas sujeitos a visto do referido Tribunal os diplomas referentes ao pessoal do quadro, bem como as contas de exercício, sem prejuízo do disposto no número seguinte.\n\n2. Os contratos de pessoal não pertencente ao quadro, bem como os contratos de empreitada ou fornecimento de material, a celebrar pelo Fundo são dispensados do visto do Tribunal de Contas, qualquer que seja o seu valor, desde que sobre eles haja sido prestado parecer favorável pelo delegado daquele Tribunal junto do conselho administrativo.\n\n3. As despesas e os contratos que, nos termos deste diploma e demais legislação, careçam de aprovação do Ministro das Obras Públicas ou do Conselho de Ministros serão submetidos a despacho depois de aprovados pelo conselho administrativo do Fundo."
+  },
+  "a120334a8f92d5d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Dos órgãos\n\nArt. 18.º - 1. São órgãos do Fundo:\n\na) O presidente;\n\nb) O conselho geral;\n\nc) O conselho administrativo.\n\n2. O presidente é coadjuvado por dois vice-presidentes.\n\nArt. 19.º Além do presidente, constituem o conselho geral do Fundo:\n\na) Um representante do Ministério das Finanças;\n\nb) Um representante do Ministério das Corporações e Previdência Social;\n\nc) Um representante da Secretaria de Estado da Indústria;\n\nd) Um representante do Gabinete de Planeamento dos Ministérios das Obras Públicas e das Comunicações;\n\ne) Um representante da Direcção-Geral dos Serviços de Urbanização;\n\nf) Cinco representantes dos municípios;\n\ng) Um representante da Caixa Geral de Depósitos, Crédito e Previdência;\n\nh) Um representante da Caixa Nacional de Pensões;\n\ni) Dois representantes da Corporação da Indústria;\n\nj) Um representante das cooperativas de habitação.\n\nArt. 20.º - 1. O conselho administrativo é constituído pelo presidente do Fundo, pelos dois vice-presidentes e pelos representantes, no conselho geral, da Caixa Geral de Depósitos, Crédito e Previdência, da Caixa Nacional de Pensões e da Direcção-Geral dos Serviços de Urbanização.\n\n2. Às reuniões do conselho administrativo assistirá sempre um delegado do Tribunal de Contas, sem voto, devendo constar das actas os pareceres do referido delegado, sempre que o conselho delibere sobre matérias a que se referem os n.os 2 e 3 do artigo 17.º\n\nArt. 21.º - 1. Os membros do conselho geral, com excepção dos que pertençam ao conselho administrativo, têm direito ao abono de uma senha de presença por cada sessão a que assistam.\n\n2. Os representantes, no conselho geral, da Caixa Geral de Depósitos, Crédito e Previdência, da Caixa Nacional de Pensões e da Direcção-Geral dos Serviços de Urbanização, enquanto vogais do conselho administrativo, bem como o delegado do Tribunal de Contas, têm direito uma gratificação mensal a fixar pelo Ministro das Obras Públicas, com o acordo do Ministro das Finanças.\n\n3. Os membros do conselho geral e administrativo, quando tenham de se deslocar no desempenho das suas funções, terão direito ao abono de transportes e ajudas de custo, nos termos da legislação vigente.\n\nArt. 22.º A competência dos órgãos do Fundo será fixada em decreto regulamentar."
+  },
+  "aa7bf3455095b49f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do pessoal\n\nArt. 23.º - 1. O quadro do pessoal do Fundo é o constante do mapa I anexo ao presente diploma.\n\n2. Além do pessoal do quadro, poderá ser contratado ou assalariado o pessoal indispensável à boa execução dos serviços.\n\nArt. 24.º A organização interna do Fundo e o modo de recrutamento e provimento do seu pessoal serão definidos por decreto regulamentar.\n\nArt. 25.º - 1. Os lugares de vice-presidente do Fundo poderão ser preenchidos de acordo com o disposto na alínea b) do n.º 1 e no n.º 2 do artigo 30.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, caso em que será aplicável também o estabelecido no artigo 32.º do mesmo diploma.\n\n2. Os lugares referidos no n.º 1 poderão também ser exercidos, em comissão de serviço, por tempo indeterminado, mediante livre escolha do Ministro das Obras Públicas de entre diplomados com curso superior adequado.\n\n3. Se a nomeação recair em funcionário público ou administrativo, será feita sem prejuízo da sua substituição interina no quadro a que pertencer e da contagem, para todos os efeitos legais, como prestado no mesmo quadro, do tempo de serviço na comissão."
+  },
+  "bdfabf522c5b57b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Da distribuição das casas e do regime da sua utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Da distribuição das casas e do regime da sua utilização\n\nArt. 26.º - 1. A distribuição das casas construídas pelo Fundo, bem como daquelas cuja construção tenha sido por ele promovida ou coordenada, quer sejam sua propriedade, quer pertençam ao património de municípios, misericórdias, organismos corporativos e instituições de previdência ou de serviços sociais dos diversos Ministérios e organismos autónomos, será feita mediante concurso, nos termos de regulamento a aprovar por portaria do Ministro das Obras Públicas.\n\n2. Serão organizados concursos separados, consoante o regime de utilização ou cedência das habitações e a natureza aberta ou restrita da sua atribuição, determinada pela natureza do financiamento utilizado ou pelo regime legal aplicável.\n\nArt. 27.º Os regimes jurídicos de utilização ou cedência de casas construídas ao abrigo de programas de habitação social serão revistos no prazo de um ano, a contar da publicação do presente decreto-lei, mantendo-se, entretanto, em vigor as normas que os definem, designadamente os artigos 20.º a 26.º, inclusive, do [Decreto-Lei n.º 49033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065), de 28 de Maio de 1969."
+  },
+  "08dc547274f51725": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais e transitórias\n\nArt. 28.º - 1. O primeiro preenchimento das vagas do quadro aprovado por este diploma poderá ser feito:\n\na) De entre funcionários vitalícios e contratados dos quadros do Fundo e da Direcção-Geral da Previdência e Habitações Económicas (Direcção dos Serviços de Habitação Económica);\n\nb) De entre pessoal do Fundo que possua as habilitações legais e que à data da entrada em vigor deste diploma, e há mais de três anos, se encontre ao serviço, com boas informações, em regime de contrato.\n\n2. O preenchimento previsto no número anterior resultará de lista, aprovada pelo Ministro das Obras Públicas e publicada no Diário do Governo, donde conste o lugar em que cada funcionário fica provido.\n\n3. Na elaboração da lista levar-se-ão em conta as habilitações e a antiguidade dos interessados, que serão providos em lugares de categoria correspondente à dos que estiverem ocupando e, tanto quanto possível, em classe correspondente àquela a que se encontram equiparados, com dispensa de concurso e do limite de idade máximo para admissão em lugares de acesso.\n\n4. A integração do pessoal nos termos deste artigo e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salvo as anotações das novas situações pelo Tribunal de Contas.\n\nArt. 29.º - 1. Para preenchimento dos lugares vagos do quadro que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do Decreto n.º 27232, de 23 de Novembro de 1936.\n\n2. O Ministro das Obras Públicas poderá utilizar a mesma faculdade para o preenchimento de quaisquer vagas, sempre que não haja funcionários em número suficiente com o tempo mínimo de serviço referido na disposição anterior.\n\nArt. 30.º A requerimento do respectivo titular, o lugar de médico de 1.ª ou 2.ª classe poderá passar a ser exercido em regime de tempo parcial.\n\nArt. 31.º As referências feitas noutros diplomas ao conselho directivo do Fundo de Fomento da Habitação devem entender-se como dirigidas ao conselho geral criado pelo presente diploma.\n\nArt. 32.º O presente diploma entrará em vigor no dia 1 de Janeiro de 1973.\n\nArt. 33.º Ficam revogadas as alíneas a) e b) do n.º 2 da base I da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, os artigos 3.º e seguintes do [Decreto-Lei n.º 42951](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42951-1960-281452), de 27 de Abril de 1960, com as alterações do [Decreto-Lei n.º 45362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45362-1963-683987), de 21 de Novembro de 1963, bem como o [Decreto-Lei n.º 49033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065), de 28 de Maio de 1969, alterado pelo [Decreto-Lei n.º 473/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1971-631380), de 6 de Novembro, sem prejuízo do disposto no artigo 27.º\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 29 de Dezembro de 1972.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nMAPA I\n\nPessoal e vencimentos do Fundo de Fomento da Habitação\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30200/21302135.pdf)\n\nMAPA II\n\nPessoal abatido aos quadros do Ministério das Corporações e Previdência Social e respectivos vencimentos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30200/21302135.pdf)\n\nO Ministro das Obras Públicas, Rui Alves da Silva Sanches."
+  },
+  "c848d60bc8e62535": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza, atribuições e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza, atribuições e competência"
+  },
+  "e4807a229112f3c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Fundo de Fomento da Habitação, criado pelo [Decreto-Lei n.º 49033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065), de 28 de Maio de 1969, passa a reger-se pelo presente diploma."
+  },
+  "786ff1ca8b96b1ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Fundo de Fomento da Habitação, adiante designado também por Fundo, é um organismo com personalidade jurídica e autonomia administrativa e financeira, dependente da Secretaria de Estado do Urbanismo e Habitação, criada no Ministério das Obras Públicas pelo [Decreto-Lei n.º 283/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1972-676052), de 11 de Agosto."
+  },
+  "a4898e592b04fe18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Constituem atribuições do Fundo de Fomento da Habitação:\n\na) O estudo sistemático da problemática da habitação;\n\nb) A coordenação das iniciativas respeitantes ao sector;\n\nc) A execução das medidas de política habitacional da responsabilidade do Estado.\n\n2. A intervenção do Estado no financiamento do estudo e execução de operações e trabalhos de urbanização, incluindo a renovação de aglomerados, é prosseguida pelo Fundo, nos termos do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, e demais legislação aplicável."
+  },
+  "4852e5de697d4176": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A cooperação das caixas sindicais de previdência, bem como das caixas de reforma ou previdência, no fomento da habitação far-se-á através da afectação de parte dos seus capitais à realização dos programas do Fundo, sem prejuízo das modalidades previstas nas alíneas c), d) e e) do n.º 2 da base I da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958.\n\n2. O Fundo de Casas Económicas, criado pelo [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, é extinto, passando o seu património para o Fundo de Fomento da Habitação, ao qual competirá a arrecadação das respectivas receitas e a satisfação dos correspondentes encargos."
+  },
+  "84fffccc04f5870b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs capitais afectos ao Fundo Permanente da Caixa Nacional de Previdência da Caixa Geral de Depósitos, Crédito e Previdência e destinados à aquisição e construção de casas para habitação de funcionários do Estado e das autarquias locais, nos termos do [Decreto-Lei n.º 42951](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42951-1960-281452), de 27 de Abril de 1960, serão postos à disposição do Fundo de Fomento da Habitação, de acordo com plano anual elaborado pela Caixa e aprovado pelos Ministros das Finanças e das Obras Públicas."
+  },
+  "4beeaf36eea9e651": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNa sua qualidade de organismo encarregado de estudar a problemática da habitação, cabe ao Fundo:\n\na) Promover inquéritos e estudos destinados a manter actualizado o conhecimento dos problemas da habitação;\n\nb) Estudar as soluções habitacionais mais adequadas às diversas categorias a contemplar, tomando em linha de conta as suas necessidades e respectivas tendências de evolução, com vista ao estabelecimento de um conveniente equilíbrio entre os factores de conforto, economia e durabilidade;\n\nc) Estudar a situação habitacional nas diferentes regiões do País, averiguar as carências a satisfazer pela iniciativa pública e programar os projectos de intervenção, em conformidade com um plano nacional da habitação em que se atenda às exigências, de um desenvolvimento equilibrado do território;\n\nd) Promover o estudo e divulgação dos aspectos técnicos da construção de habitações, por intermédio, nomeadamente, do Laboratório Nacional de Engenharia Civil;\n\ne) Estudar e promover as medidas tendentes a disciplinar o sector habitacional e a regular os regimes da habitação social e matérias conexas;\n\nf) Estudar no domínio do direito comparado os regimes jurídicos da habitação e acompanhar a sua evolução;\n\ng) Assegurar no domínio habitacional a representação do País em organismos e agências internacionais, sem prejuízo da competência especifica do Ministério dos Negócios Estrangeiros."
+  },
+  "c8687ff270b8431c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nComo organismo coordenador, compete ao Fundo:\n\na) Coordenar, em termos de planeamento, todas as iniciativas que visem contribuir para a resolução do problema habitacional;\n\nb) Colaborar com quaisquer entidades que, a titulo permanente ou eventual, se proponham contribuir para a execução da política habitacional definida pelo Governo, em especial, com as câmaras municipais e as Misericórdias, a quem poderá prestar assistência técnica;\n\nc) Pronunciar-se sobre a regulamentação dos empréstimos a conceder de acordo com o disposto nas alíneas c), d) e e) do n.º 2 da base I da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, bem como sobre os programas habitacionais resultantes da aplicação dos Decretos-Leis n.os 35732, de 4 de Julho de 1946, 37750, de 4 de Fevereiro de 1950, 40674, de 6 de Julho de 1956, 41286, de 23 de Setembro de 1957, e 42977, de 14 de Maio de 1960;\n\nd) Definir orientações gerais de aplicação obrigatória e coordenar as intervenções dos serviços sociais dos diversos Ministérios, de organismos autónomos e de empresas públicas no domínio da habitação."
+  },
+  "8d875c034b2f7f84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nEm cumprimento das suas atribuições como organismo executivo da política habitacional do Governo, cabe ao Fundo:\n\na) Adquirir terrenos para construção;\n\nb) Urbanizar os terrenos adquiridos nos termos da alínea anterior;\n\nc) Construir casas para habitação, bem como edifícios de interesse público, nos mencionados terrenos e arrendar umas e outros ou fazer a sua atribuição segundo os regimes legalmente fixados, sempre que legal ou contratualmente não devam ser arrendados ou atribuídos por outras entidades;\n\nd) Alienar a quaisquer entidades, públicas ou privadas, a propriedade ou o mero direito de superfície de lotes de terreno destinados a habitação ou instalações de interesse público, cuja construção, segundo o plano ou programa aprovado, não seja da competência do Fundo;\n\ne) Alienar habitações ou outros edifícios que pertençam ao seu património, em execução dos programas de financiamento aprovados;\n\nf) Emitir obrigações, estabelecendo as respectivas condições de juro e amortização, nos termos do disposto no n.º 3 do artigo 11.º;\n\ng) Conceder a entidades públicas ou privadas, para execução de programas habitacionais de interesse social, subsídios, reembolsáveis ou não, bem como empréstimos, fixando as respectivas condições de juro e prazos de amortização;\n\nh) Arrecadar e escriturar as receitas previstas no artigo 51.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, e satisfazer os respectivas encargos, atribuindo os subsídios a que se refere a alínea a) do n.º 1 do artigo 53.º do mesmo diploma;\n\ni) Associar-se com promotores privados e empresas de construção, podendo participar em sociedades de economia mista para prossecução das actividades de construção e urbanização."
+  },
+  "1dc4dbfd2cb4fe3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O Fundo submeterá anualmente à aprovação do Ministro das Obras Públicas o seu plano de actividades, incluindo um programa de construção e alienação de lotes de terrenos e edifícios, que será elaborado atendendo ao nível social dos previsíveis utentes e onde se indicará o número e tipo de fogos a arrendar ou a distribuir, segundo os diversos regimes legais.\n\n2. O número de fogos destinado a alojamento ou realojamento de famílias de modestos recursos, a construir ou a subsidiar nos termos da respectiva legislação especial, constará do plano de actividades referido no número anterior."
+  },
+  "3f03c8784105046c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. As condições em que deverá processar-se a colaboração dos serviços do Ministério das Obras Públicas com os das câmaras municipais dos concelhos abrangidos pelos planos de construções do Fundo constarão de despacho do Ministro das Obras Públicas.\n\n2. A conservação e limpeza de jardins e espaços públicos e dos arruamentos próprios e de acesso aos agrupamentos de habitações, construídas ou cuja construção for promovida pelo Fundo, incluindo os passeios, e as canalizações de esgotos, água e luz ficam a cargo das câmaras municipais."
+  },
+  "240e152d3b77d5b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Sem prejuízo do disposto nos artigos 9.º e 10.º, carecerá sempre de autorização do Ministro das Obras Públicas:\n\na) A colaboração referida na alínea b) do artigo 7.º, quando solicitada pelas entidades interessadas;\n\nb) A concessão dos subsídios a que se refere a alínea g) do artigo 8.º;\n\nc) A associação ou participação a que se refere a alínea i) do artigo 8.º;\n\nd) A aprovação de contratos de valor superior a 800000$00 ou à quantia que for estabelecida pela lei geral para os serviços do Estado, incluindo os que gozem de autonomia administrativa e financeira, bem como a realização de despesas superiores a esse montante que sejam relativas a trabalhos não compreendidos no plano anual de actividades ou que não tenham sido já, por qualquer forma, superiormente autorizadas.\n\n2. A regulamentação dos empréstimos, bem como os programas habitacionais referidos na alínea c) do artigo 7.º, serão aprovados em despachos conjuntos do Ministro das Obras Públicas e do Ministro ou Ministros competentes.\n\n3. As emissões de obrigações a que se refere a alínea f) do artigo 8.º carecem de aprovação do Ministro das Finanças."
+  },
+  "eaf9d90e46c86a68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nSão declaradas de utilidade pública urgente as expropriações necessárias à realização dos programas do Fundo, mediante aprovação pelo Ministro das Obras Públicas dos planos gerais das áreas a urbanizar ou dos anteprojectos dos trabalhos de grande urbanização, especialmente dos relativos aos arruamentos importantes e à rede geral de saneamento com a demarcação rigorosa das respectivas áreas de ocupação."
+  },
+  "35e70e6c6f0ad1d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO Fundo fica isento do pagamento de quaisquer contribuições, impostos directos ou indirectos, custas e taxas de que sejam credores o Estado, as autarquias locais ou os institutos públicos, bem como do pagamento de emolumentos devidos por actos notariais ou de registo e daqueles a que se refere o artigo 11.º do Decreto com força de lei n.º 22257, de 25 de Fevereiro de 1933."
+  },
+  "6c0f88fcf320106c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs certidões passadas pelo Fundo de que constem as importâncias de rendas, empréstimos ou outras prestações em dívida, bem como os respectivos encargos, têm força de titulo executivo e a sua cobrança coerciva é da competência dos tribunais das contribuições e impostos."
+  },
+  "20366e8b873eb673": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Dos meios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Dos meios financeiros"
+  },
+  "3fb92b9a7abd888e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Constituem receitas do Fundo:\n\na) As verbas que lhe forem destinadas pelo Governo, designadamente as provenientes de dotações orçamentais e de comparticipações do Fundo de Desemprego;\n\nb) A parte dos capitais das caixas sindicais de previdência e das caixas de reforma ou previdência, anualmente fixada pelo Conselho de Ministros para os Assuntos Económicos, que determinará as respectivas condições de juro e prazo de amortização;\n\nc) As comparticipações das autarquias locais, pessoas colectivas de utilidade pública administrativa e organismos corporativos;\n\nd) O produto da alienação de lotes urbanizados, bem como de habitações ou edifícios, e ainda quaisquer donativos, heranças ou legados;\n\ne) Os rendimentos das casas integradas no seu património, já distribuídas ou a distribuir, em regime de arrendamento ou outros, bem como a contra-prestação por serviços prestados pelo Fundo aos respectivos moradores ou o reembolso por despesas efectuadas;\n\nf) Os rendimentos dos depósitos em dinheiro feitos por conta do Fundo na Caixa Geral de Depósitos, Crédito e Previdência, bem como o produto de quaisquer indemnizações que legal ou contratualmente lhe sejam devidas;\n\ng) As importâncias provenientes de empréstimos contraídos, designadamente das emissões de obrigações previstas na alínea f) do artigo 8.º;\n\nh) As receitas a que se refere o artigo 51.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, as quais ficam, porém, consignadas ao fim previsto nesse diploma.\n\n2. As dotações especiais do Orçamento Geral do Estado e do Fundo de Desemprego referidas no artigo 6.º do [Decreto-Lei n.º 44645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44645-1962-156579), de 25 de Outubro de 1962, bem como no artigo 8.º do [Decreto-Lei n.º 49010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49010-1969-201578), de 20 de Maio de 1969, passarão a ser inscritas como receitas do Fundo.\n\n3. As comparticipações das entidades referidas na alínea c) do n.º 1 poderão consistir na cedência de terrenos, desde que estes reúnam as condições para a prossecução das finalidades do Fundo.\n\n4. O conselho geral, no plano a que se refere o artigo 6.º, estabelecerá qual a parte das receitas referidas nas alíneas d) e e) do n.º 1 deste artigo e nas alíneas b) e c) do n.º 1 do artigo 51.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, que será afecta aos programas de urbanização a que se refere o n.º 2 do artigo 3.º deste diploma."
+  },
+  "19b7eec36028d27b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. O Fundo arrecadará e administrará as suas receitas e satisfará, por meio delas, os encargos da sua actividade.\n\n2. Para efeitos do disposto no n.º 1, o Fundo organizará o orçamento anual das suas receitas e despesas, o qual será sujeito à aprovação do Ministro das Obras Públicas e ao visto do Ministro das Finanças.\n\n3. As despesas inerentes à fiscalização dos trabalhos a cargo do Fundo serão fixadas por despacho do Ministro das Obras Públicas, por proposta do conselho administrativo, não podendo exceder 5 por cento da verba orçamentada para a execução das respectivas obras.\n\n4. As alterações ao orçamento anual do Fundo serão efectuadas, sempre que se mostrem indispensáveis, por meio de orçamentos suplementares sujeitos às formalidades indicadas no n.º 2.\n\n5. Os saldos apurados no fim de cada ano económico serão transferidos para a gerência do ano seguinte, a fim de serem utilizados pelo Fundo."
+  },
+  "6468365e7e3a7b23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A fiscalização pelo Tribunal de Contas da actividade do Fundo exerce-se através do seu delegado permanente, ficando apenas sujeitos a visto do referido Tribunal os diplomas referentes ao pessoal do quadro, bem como as contas de exercício, sem prejuízo do disposto no número seguinte.\n\n2. Os contratos de pessoal não pertencente ao quadro, bem como os contratos de empreitada ou fornecimento de material, a celebrar pelo Fundo são dispensados do visto do Tribunal de Contas, qualquer que seja o seu valor, desde que sobre eles haja sido prestado parecer favorável pelo delegado daquele Tribunal junto do conselho administrativo.\n\n3. As despesas e os contratos que, nos termos deste diploma e demais legislação, careçam de aprovação do Ministro das Obras Públicas ou do Conselho de Ministros serão submetidos a despacho depois de aprovados pelo conselho administrativo do Fundo."
+  },
+  "bfed472a0fb8d7c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Dos órgãos"
+  },
+  "1d5885e12d04085c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. São órgãos do Fundo:\n\na) O presidente;\n\nb) O conselho geral;\n\nc) O conselho administrativo.\n\n2. O presidente é coadjuvado por dois vice-presidentes."
+  },
+  "2895db2e4f10d0dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nAlém do presidente, constituem o conselho geral do Fundo:\n\na) Um representante do Ministério das Finanças;\n\nb) Um representante do Ministério das Corporações e Previdência Social;\n\nc) Um representante da Secretaria de Estado da Indústria;\n\nd) Um representante do Gabinete de Planeamento dos Ministérios das Obras Públicas e das Comunicações;\n\ne) Um representante da Direcção-Geral dos Serviços de Urbanização;\n\nf) Cinco representantes dos municípios;\n\ng) Um representante da Caixa Geral de Depósitos, Crédito e Previdência;\n\nh) Um representante da Caixa Nacional de Pensões;\n\ni) Dois representantes da Corporação da Indústria;\n\nj) Um representante das cooperativas de habitação."
+  },
+  "3ec89584843a6bea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. O conselho administrativo é constituído pelo presidente do Fundo, pelos dois vice-presidentes e pelos representantes, no conselho geral, da Caixa Geral de Depósitos, Crédito e Previdência, da Caixa Nacional de Pensões e da Direcção-Geral dos Serviços de Urbanização.\n\n2. Às reuniões do conselho administrativo assistirá sempre um delegado do Tribunal de Contas, sem voto, devendo constar das actas os pareceres do referido delegado, sempre que o conselho delibere sobre matérias a que se referem os n.os 2 e 3 do artigo 17.º"
+  },
+  "54412ebc06a28bec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Os membros do conselho geral, com excepção dos que pertençam ao conselho administrativo, têm direito ao abono de uma senha de presença por cada sessão a que assistam.\n\n2. Os representantes, no conselho geral, da Caixa Geral de Depósitos, Crédito e Previdência, da Caixa Nacional de Pensões e da Direcção-Geral dos Serviços de Urbanização, enquanto vogais do conselho administrativo, bem como o delegado do Tribunal de Contas, têm direito uma gratificação mensal a fixar pelo Ministro das Obras Públicas, com o acordo do Ministro das Finanças.\n\n3. Os membros do conselho geral e administrativo, quando tenham de se deslocar no desempenho das suas funções, terão direito ao abono de transportes e ajudas de custo, nos termos da legislação vigente."
+  },
+  "296edb0452b4da11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nA competência dos órgãos do Fundo será fixada em decreto regulamentar."
+  },
+  "b082a0cc46293e86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do pessoal"
+  },
+  "7ece023926abe61a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. O quadro do pessoal do Fundo é o constante do mapa I anexo ao presente diploma.\n\n2. Além do pessoal do quadro, poderá ser contratado ou assalariado o pessoal indispensável à boa execução dos serviços."
+  },
+  "6f92e5a182e7d04b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nA organização interna do Fundo e o modo de recrutamento e provimento do seu pessoal serão definidos por decreto regulamentar."
+  },
+  "eaa327f0604bcb60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. Os lugares de vice-presidente do Fundo poderão ser preenchidos de acordo com o disposto na alínea b) do n.º 1 e no n.º 2 do artigo 30.º do [Decreto-Lei n.º 488/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1971-631264), de 9 de Novembro, caso em que será aplicável também o estabelecido no artigo 32.º do mesmo diploma.\n\n2. Os lugares referidos no n.º 1 poderão também ser exercidos, em comissão de serviço, por tempo indeterminado, mediante livre escolha do Ministro das Obras Públicas de entre diplomados com curso superior adequado.\n\n3. Se a nomeação recair em funcionário público ou administrativo, será feita sem prejuízo da sua substituição interina no quadro a que pertencer e da contagem, para todos os efeitos legais, como prestado no mesmo quadro, do tempo de serviço na comissão."
+  },
+  "917b9dc0d02fd229": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Da distribuição das casas e do regime da sua utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Da distribuição das casas e do regime da sua utilização"
+  },
+  "17d40c045fdb2c38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": "1976-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 209/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1976-501381), publicado em 1976-03-22."
+   ],
+   "markdown": "###### Artigo 26.º\n\n1. A distribuição das casas construídas pelo Fundo, bem como daquelas cuja construção tenha sido por ele promovida ou coordenada, quer sejam sua propriedade, quer pertençam ao património de municípios, misericórdias, organismos corporativos e instituições de previdência ou de serviços sociais dos diversos Ministérios e organismos autónomos, será feita mediante concurso, nos termos de regulamento a aprovar por portaria do Ministro das Obras Públicas.\n\n2. Serão organizados concursos separados, consoante o regime de utilização ou cedência das habitações e a natureza aberta ou restrita da sua atribuição, determinada pela natureza do financiamento utilizado ou pelo regime legal aplicável.\n\n3. Excepcionalmente, em casos devidamente fundamentados, a distribuição de casas do património do Fundo, destinadas a arrendamento, poderá efectuar-se, independentemente de concurso, por simples despacho ministerial.\n\n> Alterado pelo/a [Decreto-Lei n.º 209/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1976-501381), publicado em 1976-03-22."
+  },
+  "d3c1eb9fbb9df997": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nOs regimes jurídicos de utilização ou cedência de casas construídas ao abrigo de programas de habitação social serão revistos no prazo de um ano, a contar da publicação do presente decreto-lei, mantendo-se, entretanto, em vigor as normas que os definem, designadamente os artigos 20.º a 26.º, inclusive, do [Decreto-Lei n.º 49033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065), de 28 de Maio de 1969."
+  },
+  "ed3393211e6d8f3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais e transitórias"
+  },
+  "53a04da1b6e11a9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1. O primeiro preenchimento das vagas do quadro aprovado por este diploma poderá ser feito:\n\na) De entre funcionários vitalícios e contratados dos quadros do Fundo e da Direcção-Geral da Previdência e Habitações Económicas (Direcção dos Serviços de Habitação Económica);\n\nb) De entre pessoal do Fundo que possua as habilitações legais e que à data da entrada em vigor deste diploma, e há mais de três anos, se encontre ao serviço, com boas informações, em regime de contrato.\n\n2. O preenchimento previsto no número anterior resultará de lista, aprovada pelo Ministro das Obras Públicas e publicada no Diário do Governo, donde conste o lugar em que cada funcionário fica provido.\n\n3. Na elaboração da lista levar-se-ão em conta as habilitações e a antiguidade dos interessados, que serão providos em lugares de categoria correspondente à dos que estiverem ocupando e, tanto quanto possível, em classe correspondente àquela a que se encontram equiparados, com dispensa de concurso e do limite de idade máximo para admissão em lugares de acesso.\n\n4. A integração do pessoal nos termos deste artigo e o abono dos respectivos vencimentos não dependem de qualquer formalidade, salvo as anotações das novas situações pelo Tribunal de Contas."
+  },
+  "8ae9daf36c81665b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1. Para preenchimento dos lugares vagos do quadro que não sejam preenchidos ao abrigo do artigo anterior poderá o Ministro das Obras Públicas autorizar que sejam opositores facultativos nos respectivos concursos de promoção funcionários sem o tempo mínimo de serviço fixado no artigo 2.º do Decreto n.º 27232, de 23 de Novembro de 1936.\n\n2. O Ministro das Obras Públicas poderá utilizar a mesma faculdade para o preenchimento de quaisquer vagas, sempre que não haja funcionários em número suficiente com o tempo mínimo de serviço referido na disposição anterior."
+  },
+  "d2d2db2d0a8083b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nA requerimento do respectivo titular, o lugar de médico de 1.ª ou 2.ª classe poderá passar a ser exercido em regime de tempo parcial."
+  },
+  "273cc3704d824e15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nAs referências feitas noutros diplomas ao conselho directivo do Fundo de Fomento da Habitação devem entender-se como dirigidas ao conselho geral criado pelo presente diploma."
+  },
+  "4b40d054e451f10e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nO presente diploma entrará em vigor no dia 1 de Janeiro de 1973."
+  },
+  "4dea6ca093b79ffa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nFicam revogadas as alíneas a) e b) do n.º 2 da base I da [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, os artigos 3.º e seguintes do [Decreto-Lei n.º 42951](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42951-1960-281452), de 27 de Abril de 1960, com as alterações do [Decreto-Lei n.º 45362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45362-1963-683987), de 21 de Novembro de 1963, bem como o [Decreto-Lei n.º 49033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065), de 28 de Maio de 1969, alterado pelo [Decreto-Lei n.º 473/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1971-631380), de 6 de Novembro, sem prejuízo do disposto no artigo 27.º\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 29 de Dezembro de 1972.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nMAPA I\n\nPessoal e vencimentos do Fundo de Fomento da Habitação\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30200/21302135.pdf)\n\nMAPA II\n\nPessoal abatido aos quadros do Ministério das Corporações e Previdência Social e respectivos vencimentos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1972/12/30200/21302135.pdf)\n\nO Ministro das Obras Públicas, Rui Alves da Silva Sanches."
+  }
+ }
+}

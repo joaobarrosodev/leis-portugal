@@ -38,10 +38,27 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-01-08'
+version_history:
+  file: decreto-regulamentar-22-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-09-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-01-08'
+    amending: pt:dre:584674:por
+    amending_title: Decreto Regulamentar n.º 1/2002
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/22/1998/09/21/p/dre/pt/html
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:25:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 1/2002.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1998/decreto-regulamentar-22-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -162,31 +180,53 @@ Assim, ao abrigo do disposto no n.º 1 do artigo 57.º do [Decreto-Lei n.º 167/
 
 ###### Artigo 1.º — Tipologia
 
-1 - A declaração de interesse para o turismo pode ser atribuída aos seguintes estabelecimentos, iniciativas, projectos ou actividades:
+A declaração de interesse para o turismo pode ser atribuída aos seguintes estabelecimentos, iniciativas, projectos ou actividades:
 
-a) Marinas, portos de recreio e docas de recreio predominantemente destinados ao turismo e desporto;
+a) Marinas, portos de recreio e docas de recreio, predominantemente destinados ao turismo e desporto;
 
-b) Balneários termais e terapêuticos;
+b) Autódromos e kartódromos;
 
 c) Parques temáticos;
 
 d) Campos de golfe;
 
-e) Embarcações destinadas a passeios de natureza turística;
+e) Balneários termais;
 
-f) Instalações e equipamentos para salas de congressos e reuniões;
+f) Balneários terapêuticos;
 
-g) Outros equipamentos e meios de animação turística, nomeadamente de índole cultural, desportiva e temática;
+g) Instalações e equipamentos para salas de congressos, seminários, colóquios, reuniões e conferências;
 
 h) Estabelecimentos de restauração e de bebidas;
 
-i) Iniciativas, projectos ou actividades sem instalações lixas, nomeadamente os eventos de natureza económica, promocional, gastronómica, cultural, etnográfica, científica, ambiental ou desportiva, quer se realizem com carácter periódico quer com carácter isolado.
+i) Centros equestres e hipódromos destinados à prática da equitação desportiva e de lazer;
 
-2 - Os estabelecimentos, iniciativas, projectos ou actividades que se enquadrem na tipologia prevista no número anterior que façam parte de um projecto integrado turístico estruturante de base regional (PITER), como tal definido no [Despacho Normativo n.º 35/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-1998-461074), de 7 de Maio, publicado no Diário da República, 1.ª série-B, n.º 123, de 28 de Maio de 1998, consideram-se automaticamente de interesse para o turismo, independentemente de quaisquer formalidades.
+j) Instalações e equipamentos de apoio a adegas, caves, quintas, cooperativas, enotecas, museus do vinho e outros centros de interesse para a dinamização de rotas do vinho;
+
+l) Embarcações com e sem motor, destinadas a passeios marítimos e fluviais de natureza turística;
+
+m) Aeronaves com e sem motor, destinadas a passeios de natureza turística, desde que a sua capacidade não exceda um máximo de seis tripulantes e passageiros;
+
+n) Instalações e equipamentos de apoio à prática de windsurf, surf, bodyboard, wakeboard, esqui aquático, vela, remo, canoagem, mergulho, pesca desportiva e outras actividades náuticas;
+
+o) Instalações e equipamentos de apoio à prática da espeologia, do alpinismo, do montanhismo e de actividades afins;
+
+p) Instalações e equipamentos de apoio à prática de pára-quedismo, balonismo e parapente;
+
+q) Instalações e equipamentos destinados a passeios de natureza turística em bicicletas ou outros veículos de todo-o-terreno;
+
+r) Instalações e equipamentos destinados a passeios de natureza turística em veículos automóveis;
+
+s) As actividades, serviços e instalações de animação ambiental previstos no [Decreto Regulamentar n.º 18/99](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/18-1999-533800), de 27 de Agosto, sem prejuízo das mesmas serem licenciadas de acordo com o disposto nesse diploma;
+
+t) Outros equipamentos e meios de animação turística, nomeadamente de índole cultural, desportiva e temática;
+
+u) Iniciativas, projectos ou actividades sem instalações fixas, nomeadamente os eventos de natureza económica, promocional, gastronómica, cultural, etnográfica, científica, ambiental ou desportiva, quer se realizem com carácter periódico, quer com carácter isolado.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 1/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2002-584674), publicado em 2002-01-03.
 
 ###### Artigo 2.º — Condições gerais
 
-1 - Para poderem ser reconhecidos de interesse para o turismo, os estabelecimentos, iniciativas, projectos e actividades referidos no n.º 1 do artigo anterior devem preencher, cumulativamente, para além das condições específicas previstas no artigo seguinte, as seguintes condições:
+1 - Para poderem ser reconhecidos de interesse para o turismo, os estabelecimentos, iniciativas, projectos e actividades referidos no artigo anterior devem preencher cumulativamente, para além das condições específicas previstas no artigo seguinte, as seguintes condições:
 
 a) Contribuir para a atracção de turistas, nacionais e estrangeiros, ou constituir um meio para a ocupação dos seus tempos livres ou para a satisfação das necessidades e expectativas decorrentes da sua permanência na região visitada;
 
@@ -198,23 +238,25 @@ d) Possuir projecto aprovado pelas entidades competentes para o efeito, quando e
 
 e) Não estarem próximos de estruturas urbanas ou ambientais degradadas, com excepção dos estabelecimentos já existentes ou a construir, quando se enquadrem num processo de requalificação urbana ou ambiental.
 
-2 - Os estabelecimentos e equipamentos referidos no artigo 1.º, com excepção dos previstos nas alíneas c), e) e i), devem estar abertos todo o ano, sem prejuízo do disposto nas alíneas a) dos n.os 8 e 9 do artigo seguinte.
+2 - Sem prejuízo do disposto nos n.os 8 e 9 ao artigo seguinte e dos dias de descanso semanal, quando existirem, os estabelecimentos referidos nas alíneas a), b), d) e f) a i) do artigo 1.º devem estar abertos todo o ano.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 1/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2002-584674), publicado em 2002-01-03.
 
 ###### Artigo 3.º — Condições específicas
 
-1 - As marinas, portos de recreio e docas de recreio referidos na alínea a) do artigo 1.º devem localizar-se em áreas turísticas, como tal definidas em instrumentos de ordenamento do território, e serem enquadrados por empreendimentos turísticos e por estabelecimentos de restauração e de bebidas.
+1 - As marinas, portos de recreio e docas de recreio referidos na alínea a) do artigo 1.º devem localizar-se em áreas turísticas como tal definidas em instrumentos de gestão territorial e serem enquadradas por empreendimentos turísticos e por estabelecimentos de restauração e de bebidas.
 
-2 - Os balneários termais previstos na alínea b) do artigo 1.º devem fazer parte de um plano global de reabilitação da instalação termal em que se inserem, tendo em vista a qualificação desta como equipamento de animação.
+2 - Os autódromos e kartódromos referidos na alínea b) do artigo 1.º devem ser enquadrados, sempre que tal for possível, por estabelecimentos de restauração e de bebidas.
 
-3 - Os balneários terapêuticos devem ser parte integrante de um projecto com carácter lúdico que associe à vertente terapêutica iniciativas turísticas, médicas, estéticas, comerciais e desportivas, garantindo a oferta de serviços de alojamento turístico, por meios próprios ou prestado por terceiros, desde que situados próximo daqueles, e dispondo de estabelecimentos de restauração e de bebidas e de espaços ajardinados.
+3 - Os parques temáticos referidos na alínea c) do artigo 1.º são empreendimentos de animação turística desenvolvidos em torno de um conceito ou ideia central de carácter histórico, cultural, etnográfico, lúdico ou ambiental e devem contribuir decisivamente para a atracção de turistas e para a ocupação dos seus tempos livres e para a promoção turística de Portugal ou de uma dada região do território nacional.
 
-4 - Os parques temáticos são empreendimentos de animação turística desenvolvidos em torno de um conceito ou ideia central de carácter histórico, cultural, etnográfico, lúdico ou ambiental e que contribuem decisivamente para a atracção de turistas e para a ocupação dos seus tempos livres e para a promoção turística de Portugal ou de uma dada região do território nacional.
+4 - Os campos de golfe referidos na alínea d) do artigo 1.º devem situar-se numa região em que se localizem estabelecimentos hoteleiros ou meios complementares de alojamento turístico e onde a instalação daqueles surja com carácter de complementaridade em relação a estes.
 
-5 - Os campos de golfe referidos na alínea d) do artigo 1.º devem situar-se numa região em que se localizem empreendimentos hoteleiros ou meios complementares de alojamento turístico e onde a instalação daqueles surja com carácter de complementaridade em relação a estes.
+5 - Os balneários termais previstos na alínea e) do artigo 1.º abrangem os bens móveis e imóveis que se destinam a garantir o pleno usufruto de todas as potencialidades, directa ou indirectamente ligadas à utilização de água com propriedades minero-medicinais, designadamente para fins de cura, de convalescença, de repouso e de aproveitamento turístico.
 
-6 - As embarcações previstas na alínea e) do artigo 1.º devem destinar-se exclusivamente à realização de passeios turísticos em águas fluviais ou em águas marítimas compreendidas no mar territorial, tal como está definido na [Lei n.º 33/77](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), de 28 de Maio, com circuitos predeterminados, que compreendam visitas a marcos importantes do nosso património ambiental, histórico, etnográfico ou cultural ou se destinem à pesca turística.
+6 - Os balneários terapêuticos previstos na alínea f) do artigo 1.º devem ser parte integrante de um projecto com carácter lúdico que associe à vertente terapêutica iniciativas turísticas, médicas, estéticas, comerciais e desportivas, garantindo a oferta de serviços de alojamento turístico, por meios próprios ou prestado por terceiros, desde que situados próximo daqueles, e dispondo de estabelecimentos de restauração e de bebidas e de espaços ajardinados.
 
-7 - Apenas podem ser declaradas de interesse para o turismo as instalações previstas na alínea f) do artigo 1.º quando não sejam partes integrantes de empreendimentos turísticos e se situem em zonas em que a procura desse tipo de instalações o justifique.
+7 - Apenas podem ser declaradas de interesse para o turismo as instalações e equipamentos para salas de congressos, seminários, colóquios, reuniões e conferências, previstas na alínea g) do artigo 1.º, quando não sejam partes integrantes de empreendimentos turísticos e se situem em zonas em que a procura desse tipo de instalações o justifique.
 
 8 - Para obterem a declaração de interesse para o turismo, os estabelecimentos de restauração devem:
 
@@ -222,7 +264,7 @@ a) Estar abertos todo o ano, podendo encerrar apenas um dia por semana, com exce
 
 b) Oferecer gastronomia portuguesa e dispor de ementas escritas em português e numa língua estrangeira;
 
-c) Não estar integrados em cadeias nacionais ou internacionais que ofereçam produtos característicos do fast food, nomeadamente pizzeria, snack-bar, eat-driver ou take-away;
+c) Não estar integrados em cadeias nacionais ou internacionais que ofereçam produtos característicos do fast food, nomeadamente pizzeria, snack bar, eat-drive ou takeaway;
 
 d) Dispor de instalações adequadas às características do serviço oferecido e assegurar predominantemente serviço prestado às mesas.
 
@@ -230,11 +272,27 @@ d) Dispor de instalações adequadas às características do serviço oferecido 
 
 a) Estar abertos todo o ano, podendo encerrar apenas um dia por semana, com excepção dos sábados, domingos e feriados;
 
-b) Terem um excepcional interesse para o turismo, pelos serviços de animação que prestem ou pelos produtos gastronómicos tradicionalmente portugueses que ofereçam.
+b) Ter um excepcional interesse para o turismo, pelos serviços de animação que prestem ou pelas bebidas tradicionalmente portuguesas que ofereçam.
 
-10 - Os estabelecimentos referidos nos n.os 8 e 9, quando se localizem em zonas de elevada sazonalidade, podem encerrar um mês por ano, para férias de pessoal, na época baixa, mediante autorização da Direcção-Geral do Turismo, solicitada até ao final do mês de Outubro do ano anterior.
+10 - Os estabelecimentos referidos nos n.os 8 e 9, quando se localizem em zonas de elevada sazonalidade, podem encerrar um mês por ano para férias de pessoal, na época baixa, mediante autorização da Direcção-Geral do Turismo solicitada até ao final do mês de Outubro do ano anterior.
 
 11 - Quando no mesmo estabelecimento forem prestados, simultânea e cumulativamente, serviços de restauração e de bebidas, o serviço que constitui a actividade principal do estabelecimento determinará o seu tipo.
+
+12 - Os hipódromos e centros equestres previstos na alínea i) do artigo 1.º devem ser enquadrados, sempre que tal for possível, por estabelecimentos de restauração e de bebidas.
+
+13 - As instalações e os equipamentos integrados em rotas do vinho previstas na alínea j) do artigo 1.º devem:
+
+a) Estar directa ou indirectamente ligados à cultura da vinha e do vinho das regiões demarcadas;
+
+b) Dar a conhecer aos turistas e visitantes a cultura vitivinícola, as castas regionais, as adegas, os processos de vinificação e os vinhos das regiões e possuir colaboradores qualificados e habilitados para o efeito;
+
+c) Promover provas de vinho e a sua compra junto dos turistas e visitantes;
+
+d) Integrar material promocional das respectivas rotas do vinho com menção obrigatória dos serviços a prestar e dos horários de funcionamento.
+
+14 - As embarcações previstas na alínea l) do artigo 1.º devem destinar-se exclusivamente à realização de passeios turísticos em águas fluviais ou em águas marítimas compreendidas no mar territorial tal como está definido na [Lei n.º 33/77](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), de 28 de Maio, com circuitos predeterminados que compreendam visitas a marcos importantes do nosso património ambiental, histórico, etnográfico ou cultural ou se destinem à pesca turística.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 1/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2002-584674), publicado em 2002-01-03.
 
 ###### Artigo 4.º — Requerimento
 
@@ -286,13 +344,13 @@ f) À importância do estabelecimento, iniciativa, projecto ou actividade para a
 
 2 - No caso previsto no número anterior, pode o interessado, no prazo de 8 dias a contar da data da comunicação prevista no número anterior, pronunciar-se, por escrito, junto do director-geral do Turismo, de forma fundamentada.
 
-3 - Logo que recebida a resposta do interessado, o director-geral do Turismo pode determinar a intervenção de uma comissão, composta por:
+3 - Logo que recebida a resposta do interessado prevista no número anterior, o director-geral do Turismo pode determinar a intervenção de uma comissão, composta por:
 
 a) Um perito por ele nomeado, que presidirá;
 
 b) Um representante da Direcção-Geral do Turismo;
 
-c) Um representante da Confederação do Turismo Português ou da FERECA - Federação da Restauração, Cafés, Pastelarias e Similares, consoante se trate, respectivamente, de empreendimentos turísticos ou de estabelecimentos de restauração e de bebidas, salvo se o requerente, na sua resposta, indicar outra associação empresarial que o represente;
+c) Um representante da Confederação do Turismo Português ou da Federação da Restauração, Cafés, Pastelarias e Similares, quando se tratar de estabelecimentos de restauração e de bebidas, salvo se o requerente na sua resposta indicar outra organização empresarial que o represente;
 
 d) Um representante do órgão regional ou local de turismo competente em razão do território;
 
@@ -311,6 +369,8 @@ f) O requerente participa sem direito a voto.
 8 - O parecer previsto no número anterior não tem natureza vinculativa.
 
 9 - A Direcção-Geral do Turismo, quando for caso disso, reformulará a posição inicial de acordo com o sentido do parecer da comissão.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 1/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2002-584674), publicado em 2002-01-03.
 
 ###### Artigo 7.º — Caducidade da declaração de interesse para o turismo
 

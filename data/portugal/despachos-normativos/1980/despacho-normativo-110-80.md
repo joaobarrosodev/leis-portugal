@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-04-27'
+version_history:
+  file: despacho-normativo-110-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-04-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-04-27'
+    amending: pt:dre:606715:por
+    amending_title: Despacho Normativo n.º 62/82
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:58:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 62/82. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1980/despacho-normativo-110-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -110,21 +127,29 @@ Presidência do Conselho de Ministros e Ministério da Justiça, 26 de Março de
 
 Regulamento de Admissão aos Cursos de Formação de Inspectores e Subinspectores da Polícia Judiciária
 
-Artigo 1.º - 1 - A admissão aos cursos de formação será anunciada por aviso a publicar no Diário da República, nele se indicando o programa geral das provas, a data da realização e o número de candidatos a admitir.
+###### Artigo 1.º
+
+1 - A admissão aos cursos de formação será anunciada por aviso a publicar no Diário da República, nele se indicando o programa geral das provas, a data da realização e o número de candidatos a admitir.
 
 2 - Entre a data da publicação do aviso a que se refere o número anterior e a data da realização das provas mediará um espaço não inferior a trinta dias.
 
 3 - Excepcionalmente pode ser anunciada a realização de provas para a frequência de mais de um curso, a realizar em momentos diferentes.
 
-Art. 2.º Os candidatos devem requerer a sua admissão às provas nos oito dias seguintes à publicação do anúncio, apresentando o requerimento no departamento em que trabalham, que procederá à sua remessa à Repartição Administrativa da Directoria-Geral nas vinte e quatro horas seguintes; o requerimento pode, também, ser apresentado directamente naquela Repartição Administrativa, entregando duplicado no seu departamento.
+###### Artigo 2.º
 
-Art. 3.º - 1 - Encerrado o prazo para apresentação dos requerimentos, publicar-se-á em ordem de serviço a lista dos candidatos admitidos e excluídos, com indicação das deficiências apontadas.
+Os candidatos devem requerer a sua admissão às provas nos oito dias seguintes à publicação do anúncio, apresentando o requerimento no departamento em que trabalham, que procederá à sua remessa à Repartição Administrativa da Directoria-Geral nas vinte e quatro horas seguintes; o requerimento pode, também, ser apresentado directamente naquela Repartição Administrativa, entregando duplicado no seu departamento.
+
+###### Artigo 3.º
+
+1 - Encerrado o prazo para apresentação dos requerimentos, publicar-se-á em ordem de serviço a lista dos candidatos admitidos e excluídos, com indicação das deficiências apontadas.
 
 2 - Da lista pode reclamar-se para o director-geral da Polícia Judiciária no prazo de cinco dias.
 
 3 - Decididas as reclamações, ou não as havendo, far-se-á publicar em ordem de serviço a lista definitiva, anunciando, ao mesmo tempo, a data e local em que se realizam as provas.
 
-Art. 4.º O júri das provas de admissão será constituído por:
+###### Artigo 4.º
+
+O júri das provas de admissão será constituído por:
 
 a) Um desembargador e um procurador-geral-adjunto, a designar pelo Ministro da Justiça, presidindo o mais antigo;
 
@@ -132,7 +157,9 @@ b) Um funcionário do quadro dirigente da Polícia Judiciária, a designar pelo 
 
 c) Um professor, a indicar pela Escola de Polícia Judiciária de entre o seu corpo docente.
 
-Art. 5.º - 1 - O júri só poderá funcionar estando presentes todos os membros, salvo quanto à realização de provas escritas.
+###### Artigo 5.º
+
+1 - O júri só poderá funcionar estando presentes todos os membros, salvo quanto à realização de provas escritas.
 
 2 - As deliberações serão tomadas por maioria de votos, competindo ao presidente voto de qualidade em caso de empate.
 
@@ -140,35 +167,61 @@ Art. 5.º - 1 - O júri só poderá funcionar estando presentes todos os membros
 
 4 - Aos membros do júri serão abonadas senhas de presença, por despacho do Ministro da Justiça, a suportar pelo Cofre Geral dos Tribunais.
 
-Art. 6.º - 1 - A Repartição Administrativa da Polícia Judiciária fornecerá a cada um dos membros do júri uma lista com os nomes dos funcionários admitidos às provas.
+###### Artigo 6.º
+
+1 - A Repartição Administrativa da Polícia Judiciária fornecerá a cada um dos membros do júri uma lista com os nomes dos funcionários admitidos às provas.
 
 2 - Será também facultado ao presidente do júri o currículo actualizado de todos os candidatos.
 
-Art. 7.º - 1 - As provas de aptidão serão constituídas por:
+###### Artigo 7.º
 
-a) Um teste psicotécnico;
+1 - As provas de aptidão serão constituídas por:
 
-b) Prova escrita e prova oral, versando matérias de direito e processo penal, técnica e táctica de investigação e ciências auxiliares.
+a) Prova escrita, versando matérias de direito e processo penal, técnica e táctica de investigação e ciências auxiliares;
+
+b) Teste psicotécnico;
+
+c) Prova oral sobre as matérias referidas na alínea a).
 
 2 - O exame psicotécnico será realizado por empresa de especialidade, do Estado, sector público ou privado, fixada pelo Ministro da Justiça, sob proposta do director-geral da Polícia Judiciária.
 
-Art. 8.º - 1 - O teste psicotécnico terá em vista apreciar a aptidão dos candidatos para o desempenho dos cargos a que se destinam, designadamente no respeitante a qualidades de chefia, estabilidade emocional, relacionamento de grupo e demais características de um técnico de investigação criminal.
+> Alterado pelo/a [Despacho Normativo n.º 62/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/62-1982-606715), publicado em 1982-04-27.
 
-2 - Os candidatos declarados não aptos pela entidade encarregada dos testes serão excluídos.
+###### Artigo 8.º
 
-Art. 9.º - 1 - Por cada prova escrita o júri preparará três pontos, que serão rubricados por todos os membros do júri e guardados em envelope lacrado, rubricado pelo presidente.
+1 - O teste psicotécnico terá em vista apreciar a aptidão dos candidatos para o desempenho dos cargos a que se destinam, designadamente no respeitante a qualidades de chefia, estabilidade emocional, relacionamento de grupo e demais características de um técnico de investigação criminal.
+
+2 - O teste psicotécnico não assume, de per si, carácter eliminatório, destinando-se a transmitir ao júri elementos informativos dos candidatos com vista à sua apreciação global.
+
+3 - Só os candidatos que obtenham passagem na prova escrita serão submetidos a testes psicotécnicos.
+
+4 - A entidade encarregada dos testes formulará o seu parecer em 3 grupos (I grupo - Favorável, II grupo - Favorável com reservas, III grupo - Não favorável), fazendo uma apreciação justificativa dos motivos que levaram à inclusão dos candidatos em cada um dos grupos.
+
+5 - Os resultados serão presentes ao júri em reunião marcada para o efeito, antes da realização das provas orais.
+
+> Alterado pelo/a [Despacho Normativo n.º 62/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/62-1982-606715), publicado em 1982-04-27.
+
+###### Artigo 9.º
+
+1 - Por cada prova escrita o júri preparará três pontos, que serão rubricados por todos os membros do júri e guardados em envelope lacrado, rubricado pelo presidente.
 
 2 - O ponto será tirado à sorte por um candidato no início da prova escrita, depois de feita a chamada e identificados os candidatos.
 
-Art. 10.º - 1 - A prova escrita terá a duração de três horas.
+###### Artigo 10.º
+
+1 - A prova escrita terá a duração de três horas.
 
 2 - Os candidatos não poderão comunicar entre si, nem com pessoas estranhas ao júri.
 
 3 - Os candidatos podem socorrer-se de apontamentos pessoais e têm acesso a elementos de legislação e de literatura jurídica.
 
-Art. 11.º As provas orais, que serão públicas, versarão as mesmas matérias das escritas, não podendo ter lugar no próprio dia da prova escrita; não devem exceder trinta minutos para cada candidato.
+###### Artigo 11.º
 
-Art. 12.º Serão excluídos os candidatos que no decurso das provas:
+As provas orais, que serão públicas, versarão as mesmas matérias das escritas, não podendo ter lugar no próprio dia da prova escrita; não devem exceder trinta minutos para cada candidato.
+
+###### Artigo 12.º
+
+Serão excluídos os candidatos que no decurso das provas:
 
 a) Infringirem o presente Regulamento;
 
@@ -178,29 +231,45 @@ c) Desistirem de alguma prova;
 
 d) Apresentarem as provas em papel diferente do fornecido.
 
-Art. 13.º - 1 - A cada prova escrita ou oral será atribuída uma classificação de 0 a 20 valores.
+###### Artigo 13.º
 
-2 - A atribuição de nota inferior a 10 valores na prova escrita determina a exclusão, sendo, portanto, impeditiva da realização da prova oral.
+1 - A cada prova escrita ou oral será atribuída uma classificação de 0 a 20 valores.
 
-3 - O conjunto das provas escrita e oral será objecto de uma classificação global, com referência à pauta valorativa mencionada no n.º 1, arredondando-se para a unidade superior ou inferior consoante o valor decimal for ou não igual ou superior a 5.
+2 - A atribuição de nota inferior a 10 valores na prova escrita determina a exclusão, sendo, portanto, impeditiva da realização do teste psicotécnico e da prova oral.
 
-4 - A atribuição de uma média inferior a 10 valores no conjunto das provas escrita e oral determina a exclusão do candidato.
+3 - A classificação global dos candidatos deverá ter em conta os resultados das provas escrita e oral e do teste psicotécnico, formulada de acordo com o estabelecido no n.º 1, arredondando-se para a unidade superior ou inferior, consoante o valor decimal for ou não igual ou superior a 5.
 
-Art. 14.º Na graduação final dos candidatos aprovados, em caso de igualdade, prevalecerá a antiguidade.
+4 - São excluídos os candidatos que tenham obtido média inferior a 10 valores no conjunto das provas escrita e oral, podendo igualmente ser excluídos os candidatos cuja inclusão nos grupos II e III dos testes psicotécnicos e curriculum profissional não permitam inferir uma real capacidade para o desempenho das funções a que se candidatam. Os motivos da exclusão ou aprovação destes últimos candidatos deverão constar da acta.
 
-Art. 15.º O presidente do júri assinará o boletim individual de classificação do candidato segundo o modelo anexo ao presente Regulamento.
+> Alterado pelo/a [Despacho Normativo n.º 62/82](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/62-1982-606715), publicado em 1982-04-27.
 
-Art. 16.º A lista final contendo a graduação dos candidatos aprovados e a sua classificação será publicada em ordem de serviço da Directoria-Geral.
+###### Artigo 14.º
 
-Art. 17.º Da graduação final e classificação, bem como da exclusão, pode haver recurso para o Ministro da Justiça, a interpor no prazo de oito dias, contados da publicação da lista.
+Na graduação final dos candidatos aprovados, em caso de igualdade, prevalecerá a antiguidade.
 
-Art. 18.º - 1 - Os candidatos que faltem a qualquer prova podem pedir a justificação da falta nas vinte e quatro horas seguintes, dirigindo o requerimento ao presidente do júri. Se o motivo invocado for o de doença, deverão juntar o respectivo atestado médico.
+###### Artigo 15.º
+
+O presidente do júri assinará o boletim individual de classificação do candidato segundo o modelo anexo ao presente Regulamento.
+
+###### Artigo 16.º
+
+A lista final contendo a graduação dos candidatos aprovados e a sua classificação será publicada em ordem de serviço da Directoria-Geral.
+
+###### Artigo 17.º
+
+Da graduação final e classificação, bem como da exclusão, pode haver recurso para o Ministro da Justiça, a interpor no prazo de oito dias, contados da publicação da lista.
+
+###### Artigo 18.º
+
+1 - Os candidatos que faltem a qualquer prova podem pedir a justificação da falta nas vinte e quatro horas seguintes, dirigindo o requerimento ao presidente do júri. Se o motivo invocado for o de doença, deverão juntar o respectivo atestado médico.
 
 2 - O presidente do júri, antes de apreciar o requerimento, pode pedir ao director-geral da Polícia Judiciária que ordene a verificação da doença ou se pronuncie sobre os outros motivos invocados.
 
 3 - Se for considerada justificada a falta, o presidente do júri designará novo dia para prestação da prova, que não pode ir além do penúltimo dia que precede a apreciação final das provas.
 
-Art. 19.º As dúvidas e casos omissos serão resolvidos por despacho do Ministro da Justiça.
+###### Artigo 19.º
+
+As dúvidas e casos omissos serão resolvidos por despacho do Ministro da Justiça.
 
 O Ministro da Justiça, Mário Ferreira Bastos Raposo. - O Secretário de Estado da Reforma Administrativa, Carlos Martins Robalo.
 

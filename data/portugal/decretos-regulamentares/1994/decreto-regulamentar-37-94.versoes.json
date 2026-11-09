@@ -1,0 +1,439 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:654529:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-09-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0d73c19d47156f51",
+    "7ec18155d2da5ac4",
+    "ebf1fb7adcd38435",
+    "c312ea5c3b8b8391",
+    "0351d116203ee869",
+    "b32e0208918a4488",
+    "25fd2571524bd1d7",
+    "6b8a27995d150c29",
+    "986b972d1450c7d5",
+    "1d5b5ea1f2cb060f",
+    "6b6d474a643fbefb",
+    "b22c0b8ca1cdd2f7",
+    "85d3d447672f700f",
+    "9339821881cb9db4",
+    "74ac2798df195d93",
+    "10fcb8f9982a11e5",
+    "85a6bdb2be9db29f",
+    "5f51ea39affda9f5",
+    "eade42c7e26d201e",
+    "1ad5b81b7a54a58e",
+    "341de14011fb7dba",
+    "4001ee6c195addbb",
+    "641a236ffb9df609",
+    "b1a0959adc5b80e4",
+    "267fa1903487fbc2"
+   ]
+  },
+  {
+   "date": "2012-08-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175321:por",
+     "title": "Decreto-Lei n.º 187/2012",
+     "published": "2012-08-16",
+     "dre_path": "/dr/detalhe/decreto-lei/187-2012-175321"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º"
+   ],
+   "fragments": [
+    "0d73c19d47156f51",
+    "7ec18155d2da5ac4",
+    "92e09151a1386314",
+    "9e02203e9d86723d",
+    "68ab8ae0ca1b7331",
+    "f9bc73157a8e547f",
+    "03ff5d48d8f66149",
+    "c3f5fc03cfff8ce8",
+    "136840b59292d729",
+    "82f3c29f71f4f964",
+    "011fe40191189107",
+    "637568b3f59e0570",
+    "53221062c17413a6",
+    "6413a2c839cb2f89",
+    "74ac2798df195d93",
+    "10fcb8f9982a11e5",
+    "85a6bdb2be9db29f",
+    "5f51ea39affda9f5",
+    "eade42c7e26d201e",
+    "1ad5b81b7a54a58e",
+    "341de14011fb7dba",
+    "4001ee6c195addbb",
+    "641a236ffb9df609",
+    "d758e161071bb5ba",
+    "d91d76c066e09c11"
+   ]
+  }
+ ],
+ "fragments": {
+  "0d73c19d47156f51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Setembro\n\nNa sequência da aprovação da Lei Orgânica da Marinha, através do [Decreto-Lei n.º 49/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1993-657439), de 26 de Fevereiro, importa estabelecer, de acordo com o previsto no n.º 1 do seu artigo 36.º, as competências e definir a organização dos órgãos e serviços que constituem a Marinha.\n\nÉ este o objectivo do presente diploma no que concerne ao Hospital da Marinha e ao Laboratório de Análises Fármaco-Toxicológicas da Marinha, órgãos de execução de serviços na área da saúde, funcionando na dependência da Direcção do Serviço de Saúde.\n\nA estrutura do Hospital da Marinha foi ajustada tendo em vista aumentar a eficácia e qualidade dos serviços prestados e potenciar serviços que, muito embora com interesse específico para a Marinha, poderão vir a apoiar os outros ramos das Forças Armadas. Inserem-se neste domínio o Centro de Medicina Hiperbárica e a Unidade de Hematologia Clínica.\n\nA estrutura do Laboratório de Análises Fármaco-Toxicológicas da Marinha mantém-se, no essencial, inalterada, por se reconhecer a sua adequação às actividades desenvolvidas, incluindo um credível controlo analítico, indispensável à eficaz acção dissuasora do consumo do álcool e de droga que o Laboratório vem desenvolvendo a nível das Forças Armadas.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 36.º do [Decreto-Lei n.º 49/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1993-657439), de 26 de Fevereiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "7ec18155d2da5ac4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Hospital da Marinha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Hospital da Marinha"
+  },
+  "ebf1fb7adcd38435": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e competências\n\nO Hospital da Marinha (HM) é um órgão de execução de serviços, ao qual compete:\n\na) Efectuar a observação e o tratamento do pessoal militar da Marinha e seus familiares que sejam beneficiários da Assistência na Doença aos Militares da Armada (ADMA);\n\nb) Prestar idêntico apoio aos militares dos outros ramos e seus familiares beneficiários da assistência na doença aos militares do Exército e Força Aérea, ao pessoal civil em serviço na Marinha e, quando superiormente autorizado, a outras pessoas;\n\nc) Assegurar o ensino pré e pós-graduado de médicos, farmacêuticos, enfermeiros, técnicos de diagnóstico e terapêutica e outro pessoal da área da saúde, durante os estágios previstos na legislação em vigor;\n\nd) Assegurar a obtenção e armazenamento de equipamento sanitário, medicamentos e apósitos, bem como o seu fornecimento às unidades, serviços e demais órgãos da Marinha."
+  },
+  "c312ea5c3b8b8391": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estrutura\n\nO HM compreende:\n\na) O director;\n\nb) O Conselho de Administrativo;\n\nc) O Departamento Médico;\n\nd) O Departamento Farmacêutico;\n\ne) O Departamento Administrativo e Financeiro;\n\nf) O Departamento de Apoio."
+  },
+  "0351d116203ee869": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Director\n\n1 - Ao director do HM, directamente subordinado ao director do Serviço de Saúde, compete planear, organizar, dirigir e controlar as actividades do HM.\n\n2 - O director é coadjuvado e substituído, nas suas ausências e impedimentos, pelo subdirector, ao qual compete, em especial, assegurar a coordenação entre os departamentos."
+  },
+  "b32e0208918a4488": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Conselho Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conselho Administrativo\n\n1 - O Conselho Administrativo é o órgão deliberativo em matéria de gestão financeira e patrimonial.\n\n2 - O Conselho Administrativo do HM tem a seguinte composição:\n\na) O director, que preside;\n\nb) O subdirector e o chefe do Departamento Administrativo e Financeiro;\n\nc) O chefe do Serviço de Gestão Financeira do Departamento Administrativo e Financeiro, que secretaria."
+  },
+  "25fd2571524bd1d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Departamento Médico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Departamento Médico\n\n1 - Ao Departamento Médico incumbe coordenar todas as actividades hospitalares no âmbito da clínica, serviços complementares de diagnóstico, apoio e formação médica.\n\n2 - O Departamento Médico integra:\n\na) Os Serviços Clínicos;\n\nb) Os Serviços Complementares de Diagnóstico e Terapêutica;\n\nc) Os Serviços de Urgência e Apoio Médico;\n\nd) O Internato Médico e Ensino Pós-Graduado."
+  },
+  "6b8a27995d150c29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Serviços Clínicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviços Clínicos\n\nOs Serviços Clínicos do HM, aos quais compete o diagnóstico e tratamento dos respectivos doentes, compreendem:\n\na) O Serviço de Medicina Interna;\n\nb) O Serviço de Cirurgia Geral;\n\nc) O Serviço de Anestesiologia e Reanimação;\n\nd) O Serviço de Dermatovenereologia;\n\ne) O Serviço de Estomatologia;\n\nf) O Serviço de Neurologia;\n\ng) O Serviço de Oftalmologia;\n\nh) O Serviço de Ortopedia;\n\ni) O Serviço de Otorrinolaringologia;\n\nj) O Serviço de Psiquiatria;\n\nl) O Serviço de Urologia;\n\nm) O Serviço de Cardiologia;\n\nn) O Serviço de Pneumologia;\n\no) O Serviço de Gastroenterologia;\n\np) O Serviço de Pediatria;\n\nq) O Serviço de Ginecologia e Obstetrícia;\n\nr) O Serviço de Endocrinologia e Nutrição."
+  },
+  "986b972d1450c7d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Serviços Complementares de Diagnóstico e Terapêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviços Complementares de Diagnóstico e Terapêutica\n\n1 - Os Serviços Complementares de Diagnóstico e Terapêutica, aos quais compete efectuar exames laboratoriais, radiológicos e outros auxiliares de diagnóstico e a aplicação terapêutica no âmbito da medicina física e de reabilitação, compreendem:\n\na) O Serviço de Patologia Clínica;\n\nb) O Serviço de Radiodiagnóstico;\n\nc) O Serviço de Fisiatria.\n\n2 - Os Serviços Complementares de Diagnóstico e Terapêutica são chefiados por oficiais, nomeados após aprovação em concurso de provas públicas."
+  },
+  "1d5b5ea1f2cb060f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Serviços de Urgência e Apoio Médico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviços de Urgência e Apoio Médico\n\n1 - Os Serviços de Urgência e Apoio Médico, aos quais compete assegurar a prestação de socorros em regime permanente, a realização de intervenções cirúrgicas, a assistência permanente e especializada em situações médicas ou cirúrgicas, o tratamento e assistência a doentes do foro da hematologia e oncologia, o tratamento por oxigenioterapia a alta pressão e a realização de autópsias, compreendem:\n\na) O Banco;\n\nb) O Bloco Operatório;\n\nc) A Unidade de Cuidados Especiais;\n\nd) A Unidade de Hematologia Clínica/Oncologia Médica (Hospital de Dia);\n\ne) O Centro de Medicina Hiperbárica;\n\nf) A Sala de Autópsias.\n\n2 - Os Serviços de Urgência e Apoio Médico são chefiados:\n\na) Por inerência, pelo chefe do Serviço de Cirurgia Geral, os serviços indicados nas alíneas a), b) e f) do n.º 1;\n\nb) Por oficiais com a preparação técnico-profissional adequada, os serviços indicados nas alíneas c), d) e e) do n.º 1."
+  },
+  "6b6d474a643fbefb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Internato Médico e Ensino Pós-Graduado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Internato Médico e Ensino Pós-Graduado\n\n1 - Ao Internato Médico e Ensino Pós-Graduado incumbe promover e acompanhar a especialização dos oficiais médicos navais, bem como promover e acompanhar a especialização dos oficiais médicos e a promoção de actividades técnico-científicas.\n\n2 - O Internato Médico e Ensino Pós-Graduado é chefiado por um oficial em regime de acumulação com outras funções clínicas no HM."
+  },
+  "b22c0b8ca1cdd2f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Departamento Farmacêutico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Departamento Farmacêutico\n\n1 - Ao Departamento Farmacêutico compete:\n\na) Preparar, propor a aquisição, armazenar e distribuir à Marinha medicamentos, substâncias medicamentosas e produtos afins;\n\nb) Gerir e distribuir os medicamentos pelas enfermarias, preparar a alimentação parentérica e apoiar, no âmbito da farmacologia, o corpo clínico;\n\nc) Fornecer medicamentos aos beneficiários da assistência na doença aos militares das Forças Armadas.\n\n2 - O Departamento Farmacêutico integra:\n\na) A Farmácia Central do Hospital da Marinha;\n\nb) A Farmácia Hospitalar;\n\nc) As delegações farmacêuticas.\n\n3 - À Farmácia Central do Hospital da Marinha, à Farmácia Hospitalar e às delegações farmacêuticas incumbe o exercício das competências indicadas respectivamente nas alíneas a), b) e c) do n.º 1."
+  },
+  "85d3d447672f700f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Departamento Administrativo e Financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Departamento Administrativo e Financeiro\n\n1 - Ao Departamento Administrativo e Financeiro compete:\n\na) Planear, coordenar e executar as actividades relativas à elaboração dos planos financeiros e correspondentes projectos de orçamento, a organização do sistema contabilístico e elaboração da respectiva documentação, o processamento das despesas e a movimentação e controlo de fundos;\n\nb) Planear, coordenar e executar as actividades relativas à obtenção, armazenagem e distribuição dos equipamentos, bens e serviços necessários ao funcionamento do HM e à respectiva contabilização, inventariação e cadastro.\n\n2 - O Departamento Administrativo e Financeiro compreende:\n\na) O Serviço de Gestão Financeira;\n\nb) O Serviço de Abastecimento.\n\n3 - Aos Serviços de Gestão Financeira e de Abastecimento incumbe o exercício das competências indicadas respectivamente nas alíneas a) e b) do n.º 1."
+  },
+  "9339821881cb9db4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Departamento de Apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Departamento de Apoio\n\n1 - Ao Departamento de Apoio compete:\n\na) Coordenar a actividade inerente à gestão do pessoal militar e civil que presta serviço no HM;\n\nb) Processar a correspondência e expediente do HM;\n\nc) Assegurar o funcionamento dos sistemas de abastecimento de energia e água, dos sistemas de comunicações e demais equipamento do HM;\n\nd) Assegurar os transportes necessários ao HM;\n\ne) Prestar assistência religiosa e apoio moral aos doentes do HM;\n\nf) Propor a aquisição de documentação técnica, divulgar os trabalhos técnicos realizados no HM e promover reuniões de interesse cultural e recreativo.\n\n2 - O Departamento de Apoio compreende:\n\na) O Serviço de Pessoal;\n\nb) A Secretaria Central;\n\nc) O Serviço de Manutenção;\n\nd) O Serviço de Transportes;\n\ne) O Serviço de Assistência Religiosa;\n\nf) A Biblioteca.\n\n3 - Aos serviços indicados nas alíneas a) a f) do número anterior incumbe o exercício das competências indicadas respectivamente nas alíneas a) a f) do n.º 1.\n\n4 - O Departamento de Apoio é chefiado, em regime de acumulação de funções, pelo subdirector."
+  },
+  "74ac2798df195d93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Laboratório de Análises Fármaco-Toxicológicas da Marinha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Laboratório de Análises Fármaco-Toxicológicas da Marinha"
+  },
+  "10fcb8f9982a11e5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Natureza e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Natureza e competências\n\nO Laboratório de Análises Fármaco-Toxicológicas da Marinha (LAFTM) é um órgão de execução de serviços, ao qual compete:\n\na) Executar as análises químicas, bromatológicas e toxicológicas que lhe sejam solicitadas pelas unidades, serviços e demais órgãos da Marinha, pelos outros ramos e por entidades militarizadas ou civis, de acordo com o determinado superiormente;\n\nb) Propor normas técnicas no domínio da toxicologia forense, hidrologia e bromatologia;\n\nc) Proceder à emissão de documentação necessária ao combate ao consumo de drogas e álcool;\n\nd) Fornecer e controlar o equipamento necessário para o controlo de alcoolemia;\n\ne) Manter procedimentos estatísticos da sua actividade analítica, por forma a permitir um controlo da situação de consumo de droga e de álcool na Marinha;\n\nf) Colaborar, no âmbito da actividade que lhe é própria, com serviços civis ou militares, nos termos superiormente determinados;\n\ng) Actuar a nível das Forças Armadas como laboratório de referência no âmbito da toxicologia analítica."
+  },
+  "85a6bdb2be9db29f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Estrutura\n\n1 - O LAFTM compreende:\n\na) O director;\n\nb) O Laboratório de Toxicologia;\n\nc) O Laboratório de Hidrologia;\n\nd) O Laboratório de Bromatologia;\n\ne) A Secção de Controlo de Qualidade;\n\nf) O Serviço de Apoio Geral.\n\n2 - O apoio à gestão financeira e patrimonial do LAFTM é assegurado, nos termos da lei, por conselho administrativo e serviço administrativo e financeiro a designar por despacho do CEMA."
+  },
+  "5f51ea39affda9f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Director\n\n1 - Ao director, directamente subordinado ao director do Serviço de Saúde, compete planear, organizar, dirigir e controlar as actividades do LAFTM.\n\n2 - O director do LAFTM é coadjuvado e substituído, nas suas ausências e impedimentos, por um oficial adjunto, que é o oficial da classe de farmacêuticos navais mais antigo de entre os oficiais que prestam serviço no LAFTM."
+  },
+  "eade42c7e26d201e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Laboratórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Laboratórios\n\n1 - Ao Laboratório de Toxicologia incumbe:\n\na) Realizar análises de detecção do uso de produtos normalmente conhecidos pela designação genérica de drogas e de substâncias utilizadas com fins excitantes ou estupefacientes;\n\nb) Realizar ensaios e estudos de carácter científico que interessam à clínica hospitalar, nomeadamente estudos farmacocinéticos, no domínio da toxicologia clínica;\n\nc) Colaborar com os serviços de saúde das unidades no tratamento das intoxicações agudas, medicamentosas ou outras.\n\n2 - Ao Laboratório de Hidrologia incumbe:\n\na) A execução das análises de águas;\n\nb) Aconselhar a gestão de águas nas unidades em terra e nos navios, por forma a garantir a boa qualidade química e bacteriológica da água para o consumo alimentar e para a utilização em caldeiras;\n\nc) Colaborar nas acções de captação, adição, adução e distribuição de águas.\n\n3 - Ao Laboratório de Bromatologia incumbe:\n\na) Executar as análises dos alimentos;\n\nb) Colaborar com os serviços de saúde das unidades e demais órgãos da Marinha na verificação e controlo das condições higiénicas dos operadores, equipamentos e géneros alimentícios;\n\nc) Estudar e elaborar tabelas dietéticas."
+  },
+  "1ad5b81b7a54a58e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º"
+  },
+  "341de14011fb7dba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção de Controlo de Qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção de Controlo de Qualidade\n\n1 - À Secção de Controlo de Qualidade incumbe:\n\na) Garantir a qualidade de todos os procedimentos analíticos, bem como o bom funcionamento do equipamento do LAFTM;\n\nb) Manter actualizado o registo e controlo de substâncias padrão, nomeadamente as que obedecem a registo e controlo determinados por lei;\n\nc) Gerir e controlar o material e reagentes destinados a todos os laboratórios do LAFTM.\n\n2 - A Secção de Controlo de Qualidade é chefiada por um dos oficiais que prestam serviço no LAFTM."
+  },
+  "4001ee6c195addbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Serviço de Apoio Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Serviço de Apoio Geral\n\n1 - Ao Serviço de Apoio Geral incumbe:\n\na) Desenvolver, manter e actualizar as aplicações informáticas necessárias à execução das técnicas analíticas e à gestão dos laboratórios do LAFTM;\n\nb) Assegurar as acções relativas ao registo, processamento e expedição da correspondência;\n\nc) Assegurar as actividades de natureza administrativa relativas ao pessoal em serviço no LAFTM;\n\nd) Colaborar na elaboração de processos administrativos de aquisição de material e reagentes;\n\ne) Garantir a segurança de documentos, equipamento e instalações;\n\nf) Assegurar a manutenção da limpeza, arrumação e higienização das instalações.\n\n2 - O Serviço de Apoio Geral é chefiado, em regime de acumulação de funções, pelo oficial adjunto do director."
+  },
+  "641a236ffb9df609": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Disposições finais e transitórias"
+  },
+  "b1a0959adc5b80e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Receitas do HM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Receitas do HM\n\n1 - Constituem receitas afectas ao HM, para além das dotações que lhe forem atribuídas no Orçamento do Estado:\n\na) O produto resultante da prestação de serviços decorrente da sua actividade, de acordo com o superiormente determinado;\n\nb) O produto resultante da venda de produtos, nomeadamente medicamentos, de acordo com o superiormente determinado;\n\nc) Os subsídios, doações ou comparticipações atribuídos por entidades públicas ou privadas, nacionais ou estrangeiras;\n\nd) Quaisquer outras receitas não compreendidas nas alíneas anteriores e que por lei, acto ou contrato lhe sejam atribuídas.\n\n2 - As receitas enumeradas nas alíneas anteriores são afectas ao pagamento das despesas do HM, mediante inscrição de dotações com compensação em receita."
+  },
+  "267fa1903487fbc2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nÉ revogada a [Portaria n.º 336/75](https://diariodarepublica.pt/dr/detalhe/portaria/336-1975-335914), de 3 de Junho.\n\nPresidência do Conselho de Ministros, 4 de Abril de 1994.\n\nAníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.\n\nPromulgado em 5 de Agosto de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Agosto de 1994.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  },
+  "92e09151a1386314": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza e competências",
+   "in_force_from": "2012-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+  },
+  "9e02203e9d86723d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Estrutura",
+   "in_force_from": "2012-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+   ],
+   "markdown": "###### Artigo 2.º — Estrutura\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+  },
+  "68ab8ae0ca1b7331": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Director",
+   "in_force_from": "2012-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+   ],
+   "markdown": "###### Artigo 3.º — Director\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+  },
+  "f9bc73157a8e547f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Conselho Administrativo",
+   "in_force_from": "2012-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+   ],
+   "markdown": "###### Artigo 4.º — Conselho Administrativo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+  },
+  "03ff5d48d8f66149": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Departamento Médico",
+   "in_force_from": "2012-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+   ],
+   "markdown": "###### Artigo 5.º — Departamento Médico\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+  },
+  "c3f5fc03cfff8ce8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Serviços Clínicos",
+   "in_force_from": "2012-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+   ],
+   "markdown": "###### Artigo 6.º — Serviços Clínicos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+  },
+  "136840b59292d729": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Serviços Complementares de Diagnóstico e Terapêutica",
+   "in_force_from": "2012-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+   ],
+   "markdown": "###### Artigo 7.º — Serviços Complementares de Diagnóstico e Terapêutica\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+  },
+  "82f3c29f71f4f964": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Serviços de Urgência e Apoio Médico",
+   "in_force_from": "2012-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+   ],
+   "markdown": "###### Artigo 8.º — Serviços de Urgência e Apoio Médico\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+  },
+  "011fe40191189107": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Internato Médico e Ensino Pós-Graduado",
+   "in_force_from": "2012-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+   ],
+   "markdown": "###### Artigo 9.º — Internato Médico e Ensino Pós-Graduado\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+  },
+  "637568b3f59e0570": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Departamento Farmacêutico",
+   "in_force_from": "2012-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+   ],
+   "markdown": "###### Artigo 10.º — Departamento Farmacêutico\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+  },
+  "53221062c17413a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Departamento Administrativo e Financeiro",
+   "in_force_from": "2012-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+   ],
+   "markdown": "###### Artigo 11.º — Departamento Administrativo e Financeiro\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+  },
+  "6413a2c839cb2f89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Departamento de Apoio",
+   "in_force_from": "2012-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+   ],
+   "markdown": "###### Artigo 12.º — Departamento de Apoio\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+  },
+  "d758e161071bb5ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Receitas do HM",
+   "in_force_from": "2012-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+   ],
+   "markdown": "###### Artigo 19.º — Receitas do HM\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+  },
+  "d91d76c066e09c11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": "2012-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16."
+   ],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.\n\nPresidência do Conselho de Ministros, 4 de Abril de 1994.\n\nAníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga.\n\nPromulgado em 5 de Agosto de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 12 de Agosto de 1994.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  }
+ }
+}

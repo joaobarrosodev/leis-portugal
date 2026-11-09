@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:194018:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1963-03-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8c81c940123e63a4"
+   ]
+  },
+  {
+   "date": "1965-04-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:237799:por",
+     "title": "Decreto-Lei n.º 46274",
+     "published": "1965-04-15",
+     "dre_path": "/dr/detalhe/decreto-lei/46274-1965-237799"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "8fd9cd41cfd6ee56",
+    "a71292ee8b2e2f80",
+    "bf287d0de9604404",
+    "e25128605ed3ee2b"
+   ]
+  }
+ ],
+ "fragments": {
+  "8c81c940123e63a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Poderá a reitoria da Universidade de Lisboa contratar, além do quadro, por conta de verbas globais inscritas no orçamento, o pessoal técnico indispensável para a conservação dos edifícios e do material afectos aos seus serviços, bem como o pessoal menor necessário para a guarda e vigilância do edifício do restaurante universitário.\n\n§ único. O número de unidades a contratar e a respectiva remuneração serão fixados por despachos dos Ministros das Finanças e da Educação Nacional.\n\nArt. 2.º Consideram-se, para todos os efeitos, legalmente autorizados os contratos que anteriormente à entrada em vigor do presente diploma tenham sido celebrados nas condições do artigo anterior.\n\nArt. 3.º Este decreto-lei entra imediatamente em vigor.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 18 de Março de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "8fd9cd41cfd6ee56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "a71292ee8b2e2f80": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1965-04-15",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 46274](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46274-1965-237799), publicado em 1965-04-15."
+   ],
+   "markdown": "###### Artigo 1.º\n\nPoderá a reitoria da Universidade de Lisboa contratar ou assalariar, além do quadro, por força das dotações especialmente inscritas no orçamento, o pessoal administrativo, técnico e menor indispensável à utilização e conservação dos edifícios e do material afectos aos seus serviços e à guarda e vigilância dos mesmos edifícios, incluindo as instalações académicas.\n\n§ único. O número de unidades a contratar ou a assalariar e a respectiva remuneração serão fixados por despachos dos Ministros das Finanças e da Educação Nacional.\n\n> Alterado pelo/a [Decreto-Lei n.º 46274](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46274-1965-237799), publicado em 1965-04-15."
+  },
+  "bf287d0de9604404": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nConsideram-se, para todos os efeitos, legalmente autorizados os contratos que anteriormente à entrada em vigor do presente diploma tenham sido celebrados nas condições do artigo anterior."
+  },
+  "e25128605ed3ee2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEste decreto-lei entra imediatamente em vigor.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 18 de Março de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

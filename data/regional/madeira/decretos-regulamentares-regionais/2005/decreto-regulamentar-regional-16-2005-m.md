@@ -38,10 +38,31 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2008-07-01'
+version_history:
+  file: decreto-regulamentar-regional-16-2005-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2005-04-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-01'
+    amending: pt:dre:456262:por
+    amending_title: Decreto Regulamentar Regional n.º 14/2008/M
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo ANEXO::1.º
+    - Revoga Artigo ANEXO::2.º
+    - Revoga Artigo ANEXO::3.º
+    - Revoga Artigo ANEXO::6.º
+    - Revoga Artigo ANEXO::34.º
+    - Revoga Artigo ANEXO::35.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregulreg/16/2005/04/19/m/dre/pt/html
@@ -67,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:47:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    14/2008/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/2005/decreto-regulamentar-regional-16-2005-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,11 +162,15 @@ O Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 227.º 
 
 ###### Artigo 1.º
 
-É aprovada a estrutura orgânica da Direcção Regional de Educação Especial e Reabilitação, publicada em anexo ao presente diploma, do qual faz parte integrante.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30.
 
 ###### Artigo 2.º
 
-O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30.
 
 Aprovado em Conselho do Governo Regional em 10 de Março de 2005.
 
@@ -164,65 +190,21 @@ Natureza e atribuições
 
 ###### Artigo 1.º — Natureza
 
-A Direcção Regional de Educação Especial e Reabilitação, designada no presente diploma, abreviadamente, por DREER, dotada de autonomia técnica e administrativa, é o departamento a que se refere a alínea c) do n.º 1 do artigo 4.º do Decreto Regulamentar Regional n.º 5/2005/M, de 8 de Março, cujas atribuições, orgânica, funcionamento e pessoal constam dos artigos seguintes.
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30.
 
 ###### Artigo 2.º — Missão
 
-É missão da DREER, designadamente:
+(Revogado.)
 
-a) Assegurar a educação e integração sócio-familiar de crianças, jovens e adultos portadores de deficiência e ou quaisquer outras necessidades educativas que exijam métodos especiais de intervenção;
-
-b) Colaborar no despiste, encaminhamento e acompanhamento de crianças e jovens sobredotados ou potencialmente sobredotados para os quais sejam aconselháveis estratégias próprias de intervenção, bem como participar em projectos experimentais ligados ao estudo da sobredotação;
-
-c) Assegurar a formação técnico-profissional e o acompanhamento na inserção na vida activa aos jovens portadores de deficiência;
-
-d) Promover e participar em acções tendentes à prevenção, reabilitação e integração social das crianças, jovens e adultos com deficiência;
-
-e) Contribuir para a definição das políticas educativas, em particular no que se refere à educação especial e reabilitação;
-
-f) Promover o levantamento e o planeamento das acções necessárias à cobertura das necessidades da Região em matéria de educação especial e reabilitação;
-
-g) Criar e dirigir o funcionamento de estruturas adequadas, tendo em vista a estimulação, o acompanhamento educativo, a formação profissional e o desenvolvimento das capacidades remanescentes de crianças, jovens e adultos com deficiência;
-
-h) Proceder à observação e avaliação de jovens e adultos e elaborar os respectivos pareceres, tendo em vista a dispensa do cumprimento da escolaridade obrigatória;
-
-i) Participar, em colaboração com as famílias, em todas as acções que exijam intervenções médicas, psicológicas, sociológicas e pedagógicas diferenciadas;
-
-j) Desenvolver acções sensibilizadoras da opinião pública, tendo como objectivo o reforço da solidariedade, da participação e ou da igualdade de oportunidades;
-
-l) Propor medidas legislativas e emitir pareceres sobre propostas e projectos de diplomas legais respeitantes ao desenvolvimento e concretização da política regional de educação especial e reabilitação;
-
-m) Promover e desenvolver relações de cooperação nacional e internacional nos domínios da educação especial e reabilitação;
-
-n) Incentivar e apoiar a actualização, o aperfeiçoamento e a especialização de todo o pessoal em exercício;
-
-o) Colaborar com as restantes direcções regionais da Secretaria Regional e ou outros departamentos em acções, programas ou projectos conjuntos a desenvolver;
-
-p) Articular com outros serviços, nomeadamente serviços de saúde e segurança social, medidas tendentes à saúde, bem-estar e qualidade de vida;
-
-q) Estabelecer acordos de cooperação com associações desportivas que promovam a actividade motora adaptada e modalidades desportivas específicas para a pessoa portadora de deficiência;
-
-r) Assegurar a coordenação da iniciativa privada comparticipada, a cargo das instituições de utilidade pública, com a oficial, tendo em vista o racional aproveitamento dos recursos e dos meios humanos disponíveis.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30.
 
 ###### Artigo 3.º — Competências do director regional
 
-1 - A DREER é dirigida por um director regional, que superintende na organização, gestão e funcionamento dos estabelecimentos e serviços oficiais afectos à sua área.
+(Revogado.)
 
-2 - Compete, em especial, ao director regional:
-
-a) Representar a DREER;
-
-b) Coordenar todos os meios disponíveis para que seja atingida a missão da DREER;
-
-c) Convocar as reuniões dos conselhos técnico e administrativo, dirigir os trabalhos e providenciar pela execução das deliberações tomadas;
-
-d) Promover a publicação de circulares e regulamentos internos.
-
-3 - Por despacho do director regional, que definirá a composição, mandato, funcionamento e demais condições, poderão criar-se, sempre que as áreas operativas possam desenvolver-se por projectos, equipas temporárias tendo em vista o desenvolvimento daqueles projectos, com objectivos especificados numa lógica de matricialidade.
-
-4 - O director regional é substituído, nas suas ausências e impedimentos, pelo director de serviços para o efeito por ele designado.
-
-5 - O director regional pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30.
 
 ### CAPÍTULO II — Órgãos e serviços
 
@@ -276,17 +258,9 @@ e) Fomentar iniciativas que visem a informação e sensibilização da comunidad
 
 ###### Artigo 6.º — Natureza e atribuições
 
-1 - O CA é constituído pelo director regional, que preside, pelos directores de serviços e pelo chefe de divisão de Serviços Administrativos.
+(Revogado.)
 
-2 - São atribuições do CA coadjuvar o director regional no que se refere, designadamente, a:
-
-a) Apreciar os projectos de orçamento e os planos de acção da DREER;
-
-b) Proceder à avaliação económica das despesas;
-
-c) Apreciar as contas de gerência;
-
-d) Pronunciar-se sobre os demais aspectos administrativos que interessem ao bom funcionamento da DREER.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30.
 
 #### SECÇÃO III — Gabinete de Estudos e Pareceres Jurídicos
 
@@ -792,15 +766,15 @@ d) A relação entre cozinheiros principais e cozinheiros será de um para quatr
 
 ###### Artigo 34.º — Concursos e estágios pendentes
 
-1 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os correspondentes ao mapa anexo a este diploma.
+(Revogado.)
 
-2 - Os actuais estagiários prosseguem os respectivos estágios, transitando, findos os mesmos e se neles obtiverem aproveitamento, para as categorias objecto dos concursos e constantes do mapa anexo ao presente diploma.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30.
 
 ###### Artigo 35.º — Transição de pessoal
 
-1 - O técnico superior da área jurídica transita para a carreira de consultor jurídico, através de lista nominativa a aprovar por despacho do Secretário Regional de Educação, com efeitos à entrada em vigor do presente diploma, com dispensa de qualquer outra formalidade.
+(Revogado.)
 
-2 - Mantêm-se em funções os coordenadores do Gabinete Coordenador de Apoio aos Sobredotados, do Departamento de Apoio à Formação e Investigação Científica e do Departamento de Adaptações às Novas Tecnologias de Informação e Comunicação, como chefes de divisão, respectivamente, das DCAS, DAFIC e DANTIC, de acordo com a alínea b) do n.º 1 do artigo 25.º da Lei n.º 2/2004, de 15 de Janeiro.
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30.
 
 ## ANEXO — (a que se refere o n.º 4 do artigo 32.º)
 

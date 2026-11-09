@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-11-28'
+version_history:
+  file: decreto-regulamentar-63-a-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-11-28'
+    amending: pt:dre:622291:por
+    amending_title: Decreto Regulamentar n.º 1/85; Decreto Regulamentar n.º 43/88
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:09:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 1/85; Decreto
+    Regulamentar n.º 43/88. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1984/decreto-regulamentar-63-a-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -137,7 +155,9 @@ Nestes termos, e com vista à regulamentação do [Decreto-Lei n.º 282-B/84](ht
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - A entidade que pretenda exercer a actividade de operador portuário deverá dirigir o pedido de licença ao Ministro do Mar, em requerimento a apresentar junto da autoridade portuária do respectivo porto, que procederá à competente instrução do processo.
+###### Artigo 1.º
+
+1 - A entidade que pretenda exercer a actividade de operador portuário deverá dirigir o pedido de licença ao Ministro do Mar, em requerimento a apresentar junto da autoridade portuária do respectivo porto, que procederá à competente instrução do processo.
 
 2 - Do pedido de licença deverá constar:
 
@@ -153,7 +173,9 @@ e) Designação comercial que será usada.
 
 3 - O pedido referido no número anterior será acompanhado de um estudo explicativo e justificativo das diversas actividades que o operador pretende realizar no porto, da sua organização e meios humanos, instalações de que disponha, meios operacionais, patrimoniais e financeiros, movimento anual que se propõe realizar, com referência ao tipo de mercadoria a movimentar e suas características, e demais elementos considerados úteis à decisão final.
 
-Art. 2.º O pedido de licenciamento deverá ser ainda instruído com os seguintes documentos:
+###### Artigo 2.º
+
+O pedido de licenciamento deverá ser ainda instruído com os seguintes documentos:
 
 a) Certidão da escritura de constituição da entidade requerente ou minuta dos estatutos ou pacto social, se o pedido tiver sido formulado em nome de sociedade a constituir;
 
@@ -165,7 +187,9 @@ Inibição do exercício do comércio por ter sido declarada a falência ou inso
 
 c) Certidão actualizada da matrícula da sociedade ou do registo dos estatutos das empresas públicas na Conservatória do Registo Comercial.
 
-Art. 3.º - 1 - No prazo de 30 dias, a contar da data da apresentação do requerimento referido no artigo 1.º, a autoridade portuária remeterá ao Instituto do Trabalho Portuário o processo devidamente instruído e acompanhado do respectivo parecer.
+###### Artigo 3.º
+
+1 - No prazo de 30 dias, a contar da data da apresentação do requerimento referido no artigo 1.º, a autoridade portuária remeterá ao Instituto do Trabalho Portuário o processo devidamente instruído e acompanhado do respectivo parecer.
 
 2 - Nos 30 dias seguintes o Instituto do Trabalho Portuário apresentará o processo, acompanhado do seu parecer, a decisão ministerial.
 
@@ -183,7 +207,9 @@ c) Não ofereça garantias de capacidade técnica ou financeira para o exercíci
 
 6 - O despacho de deferimento pode fixar um prazo para o integral cumprimento, pelo requerente, dos requisitos exigidos pelo presente diploma, só produzindo efeitos após tal cumprimento e caducando se este não se verificar no prazo fixado.
 
-Art. 4.º - 1 - A autoridade portuária procederá à emissão de licença se o despacho referido no artigo anterior for de deferimento:
+###### Artigo 4.º
+
+1 - A autoridade portuária procederá à emissão de licença se o despacho referido no artigo anterior for de deferimento:
 
 a) Nos 30 dias seguintes à data do despacho, ou do início dos seus efeitos, no caso previsto no n.º 6 do artigo anterior;
 
@@ -191,11 +217,17 @@ b) Nos 30 dias seguintes à data da apresentação pelo requerente de certidão 
 
 2 - No caso previsto na alínea b) do n.º 1 deste artigo, a certidão deverá ser apresentada no prazo máximo de 3 meses a contar da data da notificação do despacho de deferimento, sob pena de caducidade deste.
 
-Art. 5.º Serão obrigatoriamente comunicadas à autoridade portuária todas as alterações que se verifiquem nos estatutos ou pacto social, administração ou gerência do operador portuário e nos demais elementos que serviram de pressupostos ao respectivo licenciamento, sob pena de aplicação das sanções previstas no artigo 17.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto.
+###### Artigo 5.º
 
-Art. 6.º O titular de licença para o exercício da actividade de operador portuário pagará à autoridade portuária, nos termos do artigo 6.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto, uma taxa anual, a fixar para cada porto.
+Serão obrigatoriamente comunicadas à autoridade portuária todas as alterações que se verifiquem nos estatutos ou pacto social, administração ou gerência do operador portuário e nos demais elementos que serviram de pressupostos ao respectivo licenciamento, sob pena de aplicação das sanções previstas no artigo 17.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto.
 
-Art. 7.º - 1 - O operador portuário prestará, com vista a garantir as suas obrigações perante a autoridade portuária, caução nos seguintes montantes:
+###### Artigo 6.º
+
+O titular de licença para o exercício da actividade de operador portuário pagará à autoridade portuária, nos termos do artigo 6.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto, uma taxa anual, a fixar para cada porto.
+
+###### Artigo 7.º
+
+1 - O operador portuário prestará, com vista a garantir as suas obrigações perante a autoridade portuária, caução nos seguintes montantes:
 
 a) Nos portos de Lisboa e do Douro e Leixões:
 
@@ -215,9 +247,13 @@ d) Nos outros portos, a caução será de montante equivalente a 10% dos referid
 
 3 - Os montantes fixados no n.º 1 deste artigo poderão ser revistos por despacho do ministro da tutela, tendo em conta a evolução dos custos das operações portuárias.
 
-4 - O operador portuário que se dedique exclusivamente à actividade de conferência prestará caução no montante de um terço dos valores previstos nos números anteriores.
+4 - O operador portuário que se dedique exclusivamente à actividade de conferência e o operador portuário de superintendência de cargas prestarão caução no montante de um terço dos valores previstos nos números anteriores.
 
-Art. 8.º - 1 - Caducando a licença do operador portuário, serão devolvidas as cauções prestadas, sem prejuízo do cumprimento das obrigações que estas garantam.
+> Alterado pelo/a [Decreto Regulamentar n.º 43/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1988-357333), publicado em 1988-11-23.
+
+###### Artigo 8.º
+
+1 - Caducando a licença do operador portuário, serão devolvidas as cauções prestadas, sem prejuízo do cumprimento das obrigações que estas garantam.
 
 2 - As cauções prestadas pelo operador portuário garantirão o pagamento de quaisquer obrigações por que o mesmo seja responsável perante a autoridade portuária.
 
@@ -225,7 +261,9 @@ Art. 8.º - 1 - Caducando a licença do operador portuário, serão devolvidas a
 
 4 - A não reconstituição da caução no prazo referido no número anterior dará lugar à aplicação de coima nos termos do artigo 17.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto, e interdição do exercício de actividade até que se ache reconstituída a caução.
 
-Art. 9.º - 1 - O Instituto do Trabalho Portuário, ouvida a autoridade portuária, fixará as condições de higiene, prevenção e segurança a que, no respectivo porto, o operador portuário terá de dar satisfação, tendo em conta:
+###### Artigo 9.º
+
+1 - O Instituto do Trabalho Portuário, ouvida a autoridade portuária, fixará as condições de higiene, prevenção e segurança a que, no respectivo porto, o operador portuário terá de dar satisfação, tendo em conta:
 
 a) Que todos os trabalhadores portuários dos quadros permanentes deverão possuir equipamento individual, funcionalmente adequado e correctamente seleccionado;
 
@@ -233,7 +271,9 @@ b) A necessidade de garantir, directa ou indirectamente, a existência de balne�
 
 2 - Os centros coordenadores do trabalho portuário e os organismos de gestão local do trabalho portuário garantirão a satisfação das regras referidas no n.º 1 relativamente ao pessoal neles inscrito e não pertencente aos quadros permanentes de operadores portuários.
 
-Art. 10.º - 1 - Quanto às cargas a movimentar, os operadores portuários serão licenciados como:
+###### Artigo 10.º
+
+1 - Quanto às cargas a movimentar, os operadores portuários serão licenciados como:
 
 a) Operador portuário geral. - O que se dedica à movimentação de quaisquer cargas;
 
@@ -241,35 +281,53 @@ b) Operador portuário especializado. - O que se dedica exclusivamente a movimen
 
 2 - Quanto às operações a levar a cabo, os operadores portuários serão licenciados tendo em conta o disposto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto.
 
-Art. 11.º - 1 - O operador portuário terá a sua actividade limitada ao porto para o qual esteja licenciado.
+###### Artigo 11.º
+
+1 - O operador portuário terá a sua actividade limitada ao porto para o qual esteja licenciado.
 
 2 - O operador portuário poderá requerer licença para operar nos portos que desejar, sendo, no entanto, autónomos os respectivos processos de licenciamento.
 
-Art. 12.º - 1 - Todo o equipamento privativo do operador deverá estar devidamente identificado com o nome, designação ou símbolo do operador, capacidade de carga e tara.
+###### Artigo 12.º
+
+1 - Todo o equipamento privativo do operador deverá estar devidamente identificado com o nome, designação ou símbolo do operador, capacidade de carga e tara.
 
 2 - O equipamento que não reúna condições de segurança adequadas ao serviço de exploração deverá ser reparado ou substituído no prazo fixado para o efeito, sob pena de aplicação de sanções previstas no artigo 17.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto.
 
-Art. 13.º - 1 - Por despacho do Ministro do Mar, será fixada ou composição das comissões de tarifas previstas no artigo 9.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto.
+###### Artigo 13.º
+
+1 - Por despacho do Ministro do Mar, será fixada ou composição das comissões de tarifas previstas no artigo 9.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto.
 
 2 - Poderá o Ministro do Mar, se considerar necessário, suprir a falta se as entidades competentes se abstiverem de indicar os seus representantes no prazo de 30 dias após serem solicitadas a fazê-lo ou não estiverem de acordo quanto à representação respectiva.
 
-Art. 14.º - 1 - A comissão de tarifas reunirá sempre que para o efeito seja convocada pela autoridade portuária, por sua própria iniciativa ou a solicitação de qualquer das entidades representadas na comissão ou pelo Ministro do Mar.
+###### Artigo 14.º
+
+1 - A comissão de tarifas reunirá sempre que para o efeito seja convocada pela autoridade portuária, por sua própria iniciativa ou a solicitação de qualquer das entidades representadas na comissão ou pelo Ministro do Mar.
 
 2 - A comissão emitirá o parecer exigido no artigo 10.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto, no prazo de 15 dias a contar da data da primeira reunião convocada para o efeito.
 
 3 - Findo o prazo referido no número anterior, a autoridade portuária enviará o processo, no prazo de 5 dias, ao Ministro do Mar, para aprovação das tarifas máximas, com o seu parecer e eventuais declarações de voto.
 
-Art. 15.º O tarifário de cada operador respeitará a estrutura tarifária aprovada pelo Ministro do Mar, sem prejuízo da possibilidade de o operador praticar tarifas específicas, sempre com respeito dos máximos fixados.
+###### Artigo 15.º
 
-Art. 16.º - 1 - Constitui obrigação do operador portuário divulgar os regulamentos aplicáveis às suas operações portuárias, particularmente no que se refere às tarifas fixadas, bem como zelar pela sua aplicação e correcto conhecimento pelos clientes.
+O tarifário de cada operador respeitará a estrutura tarifária aprovada pelo Ministro do Mar, sem prejuízo da possibilidade de o operador praticar tarifas específicas, sempre com respeito dos máximos fixados.
+
+###### Artigo 16.º
+
+1 - Constitui obrigação do operador portuário divulgar os regulamentos aplicáveis às suas operações portuárias, particularmente no que se refere às tarifas fixadas, bem como zelar pela sua aplicação e correcto conhecimento pelos clientes.
 
 2 - Independentemente do disposto no número anterior, o despacho de aprovação ministerial das tarifas máximas será publicado no Diário da República, só produzindo os seus efeitos após a sua publicação.
 
-Art. 17.º As facturas deverão ser escrituradas em obediência às normas previstas no presente diploma e demais legislação e regulamentação aplicável, por forma a garantir a sua clareza e correcta percepção pelos respectivos destinatários.
+###### Artigo 17.º
 
-Art. 18.º A inscrição do operador portuário no respectivo centro coordenador do trabalho portuário, ou noutro organismo ou estrutura de gestão local do trabalho portuário, efectuar-se-á com a exibição da respectiva licença, sem necessidade de qualquer outra formalidade.
+As facturas deverão ser escrituradas em obediência às normas previstas no presente diploma e demais legislação e regulamentação aplicável, por forma a garantir a sua clareza e correcta percepção pelos respectivos destinatários.
 
-Art. 19.º - 1 - A taxa anual a que se refere o artigo 6.º deste diploma é fixada, para o operador portuário geral, nos seguintes valores:
+###### Artigo 18.º
+
+A inscrição do operador portuário no respectivo centro coordenador do trabalho portuário, ou noutro organismo ou estrutura de gestão local do trabalho portuário, efectuar-se-á com a exibição da respectiva licença, sem necessidade de qualquer outra formalidade.
+
+###### Artigo 19.º
+
+1 - A taxa anual a que se refere o artigo 6.º deste diploma é fixada, para o operador portuário geral, nos seguintes valores:
 
 Lisboa e Douro e Leixões - 1800000$00;
 
@@ -283,9 +341,13 @@ Outros portos - 400000$00.
 
 3 - O operador portuário especializado pagará uma taxa correspondente a dois terços das taxas fixadas no n.º 1.
 
-4 - O operador portuário que se dedique exclusivamente à actividade de conferência pagará uma taxa correspondente a um terço das taxas fixadas no n.º 3.
+4 - O operador portuário que se dedique exclusivamente à actividade de conferência e o operador portuário de superintendência de cargas pagarão uma taxa igual a um terço das taxas fixadas no número anterior.
 
-Art. 20.º - 1 - É exigido ao operador portuário, como requisito necessário ao licenciamento e ao exercício da actividade, o seguinte capital realizado:
+> Alterado pelo/a [Decreto Regulamentar n.º 43/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1988-357333), publicado em 1988-11-23.
+
+###### Artigo 20.º
+
+1 - É exigido ao operador portuário, como requisito necessário ao licenciamento e ao exercício da actividade, o seguinte capital realizado:
 
 a) Lisboa e Douro e Leixões - 30000000$00;
 
@@ -297,9 +359,13 @@ d) Outros portos - 3000000$00.
 
 2 - Quando o operador portuário pretender obter licença para operar em mais de um dos portos indicados nas alíneas a), b) e c) do número anterior, o requisito de capital será o resultante do somatório do que for exigido para cada um dos portos em que esteja ou pretenda ser licenciado.
 
-3 - Aos operadores portuários que se dediquem exclusivamente à actividade de conferência será exigido, como requisito necessário ao licenciamento, o capital social correspondente a um terço dos fixados no n.º 1.
+3 - Ao operador portuário que se dedique exclusivamente à actividade de conferência e ao operador portuário de superintendência de cargas será exigido, como requisito necessário ao licenciamento, o capital social correspondente a um terço dos fixados no n.º 1.
 
-Art. 21.º - 1 - O operador portuário terá de possuir nos seus quadros permanentes um número mínimo de hierarquias e trabalhadores de base correspondente a 30% dos utilizados pelo operador no ano anterior ou dos estimados necessários no caso de novos operadores, sem prejuízo do disposto no artigo 27.º
+> Alterado pelo/a [Decreto Regulamentar n.º 43/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1988-357333), publicado em 1988-11-23.
+
+###### Artigo 21.º
+
+1 - O operador portuário terá de possuir nos seus quadros permanentes um número mínimo de hierarquias e trabalhadores de base correspondente a 30% dos utilizados pelo operador no ano anterior ou dos estimados necessários no caso de novos operadores, sem prejuízo do disposto no artigo 27.º
 
 2 - O número mínimo previsto no número anterior será sempre arredondado por excesso e não pode ser inferior ao número de trabalhadores, a fixar pelo Instituto do Trabalho Portuário, necessários à formação de uma equipa para realização de cada tipo de operação para que o operador estiver licenciado.
 
@@ -309,13 +375,21 @@ Art. 21.º - 1 - O operador portuário terá de possuir nos seus quadros permane
 
 5 - O cálculo previsto no n.º 1 será feito tomando por base a equipa correspondente à actividade principal do operador portuário em causa.
 
-Art. 22.º - 1 - Os operadores portuários já licenciados terão de provar à autoridade portuária que deram cumprimento ao disposto no n.º 1 do artigo 21.º, sob a cominação prevista no artigo 7.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto.
+6 - O disposto no n.º 1 não se aplica nos portos onde estejam constituídos, e em actividade, órgãos de gestão bipartida (OGB) ou organizações ou estruturas previstas no n.º 3 do artigo 2.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 1/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1985-622291), publicado em 1985-01-07.
+
+###### Artigo 22.º
+
+1 - Os operadores portuários já licenciados terão de provar à autoridade portuária que deram cumprimento ao disposto no n.º 1 do artigo 21.º, sob a cominação prevista no artigo 7.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto.
 
 2 - No prazo de 2 meses a contar do licenciamento, os operadores portuários ainda não licenciados à data da entrada em vigor do presente diploma terão de provar à autoridade portuária que deram cumprimento ao disposto no n.º 1 do artigo 21.º, sob a cominação prevista no artigo 17.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto.
 
 3 - O Instituto do Trabalho Portuário procederá, oficiosamente, no prazo de 20 dias a contar da entrada em vigor do presente diploma, à fixação dos quadros mínimos de pessoal permanente dos operadores portuários referidos no n.º 1, do acordo com o critério estabelecido no presente diploma.
 
-Art. 23.º - 1 - À autoridade portuária compete fiscalizar o cumprimento do disposto na legislação em vigor relativamente ao operador portuário e aplicar as correspondentes sanções, sem prejuízo das competências do Instituto do Trabalho Portuário e dos centros coordenadores do trabalho portuário.
+###### Artigo 23.º
+
+1 - À autoridade portuária compete fiscalizar o cumprimento do disposto na legislação em vigor relativamente ao operador portuário e aplicar as correspondentes sanções, sem prejuízo das competências do Instituto do Trabalho Portuário e dos centros coordenadores do trabalho portuário.
 
 2 - No exercício da sua competência fiscalizadora, a autoridade portuária dará adequado seguimento a reclamações que lhe sejam dirigidas, podendo requisitar ao operador portuário os documentos relativos à operação objecto de reclamação, nos termos do artigo 16.º do [Decreto-Lei n.º 282-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-b-1984-579345), de 20 de Agosto.
 
@@ -323,7 +397,9 @@ Art. 23.º - 1 - À autoridade portuária compete fiscalizar o cumprimento do di
 
 4 - Nos casos em que, por disposição especial, a competência para aplicar sanções pertença a outra entidade, deverá esta, no prazo de 5 dias após o levantamento do auto, fazer a respectiva comunicação à autoridade portuária.
 
-Art. 24.º - 1 - Com a notificação da aplicação de coima, deverão ser entregues ao infractor as guias em triplicado, para efeitos de pagamento voluntário.
+###### Artigo 24.º
+
+1 - Com a notificação da aplicação de coima, deverão ser entregues ao infractor as guias em triplicado, para efeitos de pagamento voluntário.
 
 2 - O pagamento voluntário deve ser feito no prazo de 20 dias a contar da notificação.
 
@@ -331,17 +407,27 @@ Art. 24.º - 1 - Com a notificação da aplicação de coima, deverão ser entre
 
 4 - Na falta de entrega do duplicado da guia comprovativa do pagamento, a autoridade portuária procederá à sua cobrança utilizando a respectiva caução, nos termos do n.º 2 do artigo 8.º, ou remeterá o processo para execução, nos termos do disposto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
-Art. 25.º Para os efeitos do disposto no artigo 18.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, a autoridade portuária manterá um registo da aplicação de sanções aos operadores portuários.
+###### Artigo 25.º
+
+Para os efeitos do disposto no artigo 18.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, a autoridade portuária manterá um registo da aplicação de sanções aos operadores portuários.
 
 Disposições finais e transitórias
 
-Art. 26.º Transitoriamente, enquanto se mantiver o baixo índice de tráfego marítimo comercial nos portos de Faro, Portimão e Sines, poderá o Ministro do Mar, no despacho que autorizar o licenciamento de operadores portuários para tais portos, dispensar o cumprimento do disposto no n.º 1 do artigo 21.º e fixar diferente percentagem.
+###### Artigo 26.º
 
-Art. 27.º A percentagem de 30% prevista no artigo 21.º poderá ser alterada se, no prazo de 1 ano a contar da data da entrada em vigor do presente diploma, não for constituído no respectivo porto o órgão, organização ou estrutura previstos no n.º 3 do artigo 2.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto.
+Transitoriamente, enquanto se mantiver o baixo índice de tráfego marítimo comercial nos portos de Faro, Portimão e Sines, poderá o Ministro do Mar, no despacho que autorizar o licenciamento de operadores portuários para tais portos, dispensar o cumprimento do disposto no n.º 1 do artigo 21.º e fixar diferente percentagem.
 
-Art. 28.º O presente diploma poderá ser aplicado às regiões autónomas, com as adaptações consideradas necessárias.
+###### Artigo 27.º
 
-Art. 29.º É revogado o [Decreto Regulamentar n.º 23/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1983-310396), de 16 de Março.
+A percentagem de 30% prevista no artigo 21.º poderá ser alterada se, no prazo de 1 ano a contar da data da entrada em vigor do presente diploma, não for constituído no respectivo porto o órgão, organização ou estrutura previstos no n.º 3 do artigo 2.º do [Decreto-Lei n.º 282-A/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-a-1984-579344), de 20 de Agosto.
+
+###### Artigo 28.º
+
+O presente diploma poderá ser aplicado às regiões autónomas, com as adaptações consideradas necessárias.
+
+###### Artigo 29.º
+
+É revogado o [Decreto Regulamentar n.º 23/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/23-1983-310396), de 16 de Março.
 
 Visto e aprovado em Conselho de Ministros de 5 de Junho de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Carlos Montez Melancia.
 

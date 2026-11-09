@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:201455:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1969-05-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a2a97e3c4db4c97a"
+   ]
+  },
+  {
+   "date": "1975-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159362:por",
+     "title": "Decreto-Lei n.º 38/75",
+     "published": "1975-01-31",
+     "dre_path": "/dr/detalhe/decreto-lei/38-1975-159362"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "0c70ae3c6a13d422",
+    "68ccdb6b7f792675",
+    "103c113bc002008c",
+    "c3ad8ef758bcc7af",
+    "761d9c2a6768c349",
+    "9f8c914a5c95fbd2",
+    "66219f2d3dd97ea2",
+    "0961cbcbe9853bd9",
+    "71ce431ec06eedeb",
+    "6e759220fae26370",
+    "ed4eef8d5add9b30",
+    "758cb1246527c31f"
+   ]
+  }
+ ],
+ "fragments": {
+  "a2a97e3c4db4c97a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que a carência de técnicos bibliotecários, arquivistas e documentalistas reveste aspectos particularmente graves;\n\nConsiderando que se torna, por isso, urgente promover e acelerar a formação desses técnicos;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º A preparação técnica dos bibliotecários, arquivistas e documentalistas passa a ser assegurada por um estágio organizado nos termos dos artigos seguintes.\n\nArt. 2.º O estágio funciona na imediata dependência da Direcção-Geral do Ensino Superior e das Belas-Artes e realiza-se em bibliotecas ou arquivos a designar pelo Ministro da Educação Nacional.\n\nArt. 3.º O estágio compreende três períodos: o primeiro vai de 1 de Outubro ao último dia de Fevereiro; o segundo, de 1 de Março a 31 de Julho, e o terceiro, de 1 de Agosto a 31 de Dezembro.\n\nArt. 4.º Os estagiários obrigam-se a participar nos trabalhos dos serviços técnicos dos estabelecimentos em que o estágio decorrer e a assistir a sessões de seminário sobre as seguintes matérias:\n\n1.º período:\n\nAdministração de bibliotecas.\n\nCatalogação-classificação - I.\n\nDocumentação - I.\n\nArquivística.\n\nLeitura e crítica de documentos - I.\n\nMecanização.\n\n2.º período:\n\nAdministração de arquivos.\n\nCatalogação-classificação - II.\n\nDocumentação - II.\n\nInstituições portuguesas. Seus núcleos documentais.\n\nLeitura e crítica de documentos - II.\n\n3.º período:\n\nAdministração de centros de documentação.\n\nDocumentação - II.\n\nInformática.\n\nSociologia da leitura e comunicação.\n\nSociologia da informação.\n\n§ único. As matérias incluídas neste elenco consideram-se de índole exemplificativa, podendo este ser alterado por despacho do Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação.\n\nArt. 5.º Serão admitidos ao estágio os diplomados com um curso superior que forem aprovados em exame de aptidão.\n\n§ 1.º As provas realizam-se na 2.ª quinzena de Setembro.\n\n§ 2.º Os candidatos reprovados duas vezes não podem apresentar-se de novo ao exame.\n\nArt. 6.º Os estagiários têm direito à remuneração que for fixada na lei orgânica das bibliotecas e arquivos.\n\nArt. 7.º Concluído o estágio com aproveitamento, os estagiários devem submeter-se a exame em que demonstrem os seus conhecimentos das matérias referidas no artigo 4.º A aprovação neste exame confere direito ao diploma de bibliotecário-arquivista-documentalista.\n\n§ único. As provas realizam-se em Janeiro.\n\nArt. 8.º A orientação dos estagiários e a direcção dos seminários competem normalmente a orientadores escolhidos entre diplomados com os antigos curso superior de bibliotecário-arquivista e curso de bibliotecário-arquivista ou portadores do diploma a que se refere o artigo 7.º\n\n§ 1.º A remuneração dos orientadores será fixada por portaria dos Ministros das Finanças e da Educação Nacional.\n\n§ 2.º Poderão excepcionalmente ser contratadas individualidades nacionais ou estrangeiras de reconhecida competência para, em condições especiais de prestação de serviço e de retribuição, desempenharem as funções de orientador. As condições de retribuição serão fixadas em cada caso por despacho do Ministro da Educação Nacional com o acordo do Ministro das Finanças.\n\nArt. 9.º O diploma de bibliotecário-arquivista-documentalista, a que é equiparado o de bibliotecário-arquivista, constitui título indispensável para o provimento:\n\na) Nos lugares técnicos de categoria igual ou superior a terceiro-bibliotecário, terceiro-arquivista ou terceiro-conservador das bibliotecas e arquivos do Estado e autarquias locais;\n\nb) Nos lugares de documentalista dos serviços do Estado e autarquias locais.\n\n§ único. O disposto no presente artigo não é aplicável:\n\na) Aos lugares de director das bibliotecas nacionais centrais (Biblioteca Nacional de Lisboa e Biblioteca Geral da Universidade de Coimbra), do Arquivo Nacional da Torre do Tombo e do Arquivo da Universidade de Coimbra;\n\nb) Aos lugares das bibliotecas escolares que por disposição expressa de lei tenham de ser ocupados por professores;\n\nc) Aos funcionários que à data da publicação deste decreto-lei ocuparem lugares técnicos de categoria igual ou superior a terceiro-bibliotecário ou terceiro-conservador, relativamente ao provimentos em outros lugares do seu quadro.\n\nArt. 10.º Fora dos casos previstos no artigo anterior e seu parágrafo, o diploma de bibliotecário-arquivista-documentalista constitui título de preferência para provimento nos restantes lugares técnicos das bibliotecas e arquivos do Estado e autarquias locais.\n\nArt. 11.º Dentro de sessenta dias, a contar da entrada em vigor do presente decreto-lei, será publicado o regulamento do estágio.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Hermano Saraiva.\n\nPromulgado em 7 de Maio de 1969.\n\nPublique-se.\n\nPresidência da República, 16 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "0c70ae3c6a13d422": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que a carência de técnicos bibliotecários, arquivistas e documentalistas reveste aspectos particularmente graves;\n\nConsiderando que se torna, por isso, urgente promover e acelerar a formação desses técnicos;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "68ccdb6b7f792675": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA preparação técnica dos bibliotecários, arquivistas e documentalistas passa a ser assegurada por um estágio organizado nos termos dos artigos seguintes."
+  },
+  "103c113bc002008c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO estágio funciona na imediata dependência da Direcção-Geral do Ensino Superior e das Belas-Artes e realiza-se em bibliotecas ou arquivos a designar pelo Ministro da Educação Nacional."
+  },
+  "c3ad8ef758bcc7af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO estágio compreende três períodos: o primeiro vai de 1 de Outubro ao último dia de Fevereiro; o segundo, de 1 de Março a 31 de Julho, e o terceiro, de 1 de Agosto a 31 de Dezembro."
+  },
+  "761d9c2a6768c349": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs estagiários obrigam-se a participar nos trabalhos dos serviços técnicos dos estabelecimentos em que o estágio decorrer e a assistir a sessões de seminário sobre as seguintes matérias:\n\n1.º período:\n\nAdministração de bibliotecas.\n\nCatalogação-classificação - I.\n\nDocumentação - I.\n\nArquivística.\n\nLeitura e crítica de documentos - I.\n\nMecanização.\n\n2.º período:\n\nAdministração de arquivos.\n\nCatalogação-classificação - II.\n\nDocumentação - II.\n\nInstituições portuguesas. Seus núcleos documentais.\n\nLeitura e crítica de documentos - II.\n\n3.º período:\n\nAdministração de centros de documentação.\n\nDocumentação - II.\n\nInformática.\n\nSociologia da leitura e comunicação.\n\nSociologia da informação.\n\n§ único. As matérias incluídas neste elenco consideram-se de índole exemplificativa, podendo este ser alterado por despacho do Ministro da Educação Nacional, sob parecer da Junta Nacional da Educação."
+  },
+  "9f8c914a5c95fbd2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSerão admitidos ao estágio os diplomados com um curso superior que forem aprovados em exame de aptidão.\n\n§ 1.º As provas realizam-se na 2.ª quinzena de Setembro.\n\n§ 2.º Os candidatos reprovados duas vezes não podem apresentar-se de novo ao exame."
+  },
+  "66219f2d3dd97ea2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs estagiários têm direito à remuneração que for fixada na lei orgânica das bibliotecas e arquivos."
+  },
+  "0961cbcbe9853bd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1975-01-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 38/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1975-159362), publicado em 1975-01-31."
+   ],
+   "markdown": "###### Artigo 7.º\n\nConcluído o estágio com aproveitamento, os estagiários devem submeter-se a exame ou outro tipo de avaliação final de conhecimentos, que versarão as matérias referidas no artigo 4.º\n\nA sua aprovação confere direito ao diploma de bibliotecário-arquivista-documentalista.\n\n§ 1.º Por parecer do director-geral dos Assuntos Culturais poderão os exames ser substituídos por um sistema de avaliação de conhecimentos.\n\n§ 2.º As provas realizam-se no mês de Janeiro.\n\n> Alterado pelo/a [Decreto-Lei n.º 38/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-1975-159362), publicado em 1975-01-31."
+  },
+  "71ce431ec06eedeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA orientação dos estagiários e a direcção dos seminários competem normalmente a orientadores escolhidos entre diplomados com os antigos curso superior de bibliotecário-arquivista e curso de bibliotecário-arquivista ou portadores do diploma a que se refere o artigo 7.º\n\n§ 1.º A remuneração dos orientadores será fixada por portaria dos Ministros das Finanças e da Educação Nacional.\n\n§ 2.º Poderão excepcionalmente ser contratadas individualidades nacionais ou estrangeiras de reconhecida competência para, em condições especiais de prestação de serviço e de retribuição, desempenharem as funções de orientador. As condições de retribuição serão fixadas em cada caso por despacho do Ministro da Educação Nacional com o acordo do Ministro das Finanças."
+  },
+  "6e759220fae26370": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO diploma de bibliotecário-arquivista-documentalista, a que é equiparado o de bibliotecário-arquivista, constitui título indispensável para o provimento:\n\na) Nos lugares técnicos de categoria igual ou superior a terceiro-bibliotecário, terceiro-arquivista ou terceiro-conservador das bibliotecas e arquivos do Estado e autarquias locais;\n\nb) Nos lugares de documentalista dos serviços do Estado e autarquias locais.\n\n§ único. O disposto no presente artigo não é aplicável:\n\na) Aos lugares de director das bibliotecas nacionais centrais (Biblioteca Nacional de Lisboa e Biblioteca Geral da Universidade de Coimbra), do Arquivo Nacional da Torre do Tombo e do Arquivo da Universidade de Coimbra;\n\nb) Aos lugares das bibliotecas escolares que por disposição expressa de lei tenham de ser ocupados por professores;\n\nc) Aos funcionários que à data da publicação deste decreto-lei ocuparem lugares técnicos de categoria igual ou superior a terceiro-bibliotecário ou terceiro-conservador, relativamente ao provimentos em outros lugares do seu quadro."
+  },
+  "ed4eef8d5add9b30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nFora dos casos previstos no artigo anterior e seu parágrafo, o diploma de bibliotecário-arquivista-documentalista constitui título de preferência para provimento nos restantes lugares técnicos das bibliotecas e arquivos do Estado e autarquias locais."
+  },
+  "758cb1246527c31f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nDentro de sessenta dias, a contar da entrada em vigor do presente decreto-lei, será publicado o regulamento do estágio.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - José Hermano Saraiva.\n\nPromulgado em 7 de Maio de 1969.\n\nPublique-se.\n\nPresidência da República, 16 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

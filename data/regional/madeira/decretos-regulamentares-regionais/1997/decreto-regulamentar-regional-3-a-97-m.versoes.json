@@ -1,0 +1,502 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:509787:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1997-02-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "dbf71cdc4f25435b",
+    "705c849b52790f29",
+    "9b83ba88e3ee76e8",
+    "1cf4532e95968088",
+    "28db0a29e871f25b",
+    "a3a488290fcec2bd",
+    "50e011d3fe90324d",
+    "ea673eb8a7273bdb",
+    "904cbab6d12c9236",
+    "a3fb3d03c06872c3",
+    "317cc420002fd520",
+    "b159040c63f667c2",
+    "16c3a36a6729d6ed",
+    "f387e4c13bfd7718",
+    "fd25e6f9036c9aed",
+    "f5af4714e436d6b6",
+    "0a29fb2b9713097f",
+    "87753c7a4f302543",
+    "b06af79faf53178b",
+    "9880da5af5dc0403",
+    "5c2d405f83b3a853",
+    "2c8c8465db011ed4",
+    "c21b14e68417aba8",
+    "15d281b8a242c1ec",
+    "cfa3c4de9bba79e8",
+    "ed98744b661789e8",
+    "a01a3ed970e2752b",
+    "1ffe364c04803ec7",
+    "0e77bf2f74f12474",
+    "61f6dcf2d6cbefd4",
+    "3a8618ec79872eb5",
+    "fa094be7c6522ba7",
+    "e8e07e7277ba5aad"
+   ]
+  },
+  {
+   "date": "2000-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:515268:por",
+     "title": "Decreto Regulamentar Regional n.º 13/2000/M",
+     "published": "2000-03-21",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/13-2000-515268"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 14.º",
+    "Adita Artigo 14.º-A",
+    "Adita Artigo 14.º-B",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Adita Artigo 25.º-A",
+    "Adita Artigo 25.º-B",
+    "Adita Artigo 25.º-C"
+   ],
+   "fragments": [
+    "dbf71cdc4f25435b",
+    "705c849b52790f29",
+    "9b83ba88e3ee76e8",
+    "1cf4532e95968088",
+    "6d1c3b8dcb538cc6",
+    "a3a488290fcec2bd",
+    "50e011d3fe90324d",
+    "ea673eb8a7273bdb",
+    "904cbab6d12c9236",
+    "a3fb3d03c06872c3",
+    "317cc420002fd520",
+    "b159040c63f667c2",
+    "16c3a36a6729d6ed",
+    "f387e4c13bfd7718",
+    "fd25e6f9036c9aed",
+    "f5af4714e436d6b6",
+    "0a29fb2b9713097f",
+    "2fa870fed2ccc81d",
+    "956a1caa42803d61",
+    "3afb7de8aa9af1cf",
+    "d02e635cb47ca80f",
+    "c2532cfb7355f815",
+    "af2a83ad28eb410c",
+    "d03f158aa1399397",
+    "9b6660c12a1c2dd0",
+    "15d281b8a242c1ec",
+    "cfa3c4de9bba79e8",
+    "ed98744b661789e8",
+    "a01a3ed970e2752b",
+    "1ffe364c04803ec7",
+    "0e77bf2f74f12474",
+    "61f6dcf2d6cbefd4",
+    "3a8618ec79872eb5",
+    "fa094be7c6522ba7",
+    "e502ad33dae15985",
+    "8af20cce45f99a06",
+    "f8bf4c2dd8247059",
+    "e8e07e7277ba5aad"
+   ]
+  }
+ ],
+ "fragments": {
+  "dbf71cdc4f25435b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Estabelece a estrutura orgânica da Secretaria Regional dos Assuntos Sociais e Parlamentares\n\nO [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, que aprovou as bases da orgânica do Governo Regional, criou a Secretaria Regional dos Assuntos Sociais e Parlamentares, integrando nesta os sectores que cabiam à Secretaria Regional dos Assuntos Sociais, fazendo-lhe acrescer a responsabilidade dos assuntos parlamentares. Neste contexto e considerando que a par desta alteração e por razões de racionalidade e operacionalidade do Sistema Regional de Saúde, é conveniente a criação de duas direcções regionais para a área da saúde, há que estabelecer a estrutura orgânica da Secretaria Regional dos Assuntos Sociais e Parlamentares. Aproveita-se, ainda, a oportunidade do presente diploma para proceder a alterações indispensáveis em alguns dos normativos que regulam o Serviço Regional de Saúde.\n\nAssim, nos termos do artigo 12.º do [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro, do artigo 21.º do [Decreto Legislativo Regional n.º 21/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1991-681580), de 7 de Agosto, da alínea d) do n.º 1 do artigo 229.º da Constituição da República e da alínea c) do artigo 49.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "705c849b52790f29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Da orgânica da Secretaria Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Da orgânica da Secretaria Regional"
+  },
+  "9b83ba88e3ee76e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e atribuições\n\nA Secretaria Regional dos Assuntos Sociais e Parlamentares, abreviadamente designada no presente diploma por SRAS, é o departamento do Governo Regional da Madeira responsável pela definição e prossecução das políticas de saúde, segurança social e protecção civil e pela concepção e coordenação da política governativa na área dos assuntos parlamentares."
+  },
+  "1cf4532e95968088": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - A SRAS é dirigida superiormente pelo Secretário Regional dos Assuntos Sociais e Parlamentares, ao qual são genericamente atribuídas todas as competências para a realização das atribuições referidas no artigo anterior.\n\n2 - São, designadamente, competências do Secretário Regional:\n\na) Representar a SRAS;\n\nb) Definir e orientar a política da Região nos sectores de actividade referidos no artigo anterior, elaborando os respectivos planos de desenvolvimento;\n\nc) Superintender e coordenar a acção dos vários órgãos e serviços da SRAS;\n\nd) Superintender nos serviços personalizados da SRAS;\n\ne) Exercer os poderes de autoridade de saúde;\n\nf) Superintender, coordenar e inspeccionar os serviços e instituições particulares que exerçam, na Região Autónoma da Madeira, actividades nas áreas da saúde e da segurança social;\n\ng) Autorizar o licenciamento de farmácias, postos de medicamentos, laboratórios de produtos farmacêuticos e demais actividades congéneres, incluindo a concessão de alvarás;\n\nh) Exercer actividade contravencional relativamente a farmácias, postos de medicamentos, laboratórios de produtos farmacêuticos e demais actividades congéneres, incluindo a determinação do respectivo encerramento;\n\ni) Definir e orientar as formas de articulação entre o Governo Regional e a Assembleia Legislativa Regional;\n\nj) Aprovar portarias, despachos, circulares e instruções nas matérias da sua competência;\n\nl) Exercer as demais competências que lhe sejam cometidas por lei.\n\n3 - A especificidade do regime jurídico aplicável à Escola Superior de Enfermagem da Madeira será objecto de norma legal própria.\n\n4 - O Secretário Regional poderá delegar as suas competências no chefe do seu Gabinete ou nos responsáveis pelos diversos órgãos e serviços que integram a estrutura da SRAS."
+  },
+  "28db0a29e871f25b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura da Secretaria Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura da Secretaria Regional\n\n1 - A estrutura orgânica da SRAS compreende os seguintes órgãos e serviços:\n\n1.1 - Serviços directamente dependentes do Secretário Regional:\n\na) Gabinete do Secretário Regional;\n\nb) Gabinete para os Assuntos Parlamentares;\n\nc) Direcção de Serviços Técnicos e de Administração;\n\nd) Núcleo de Estudos e Planeamento;\n\ne) Departamento de Investigação e Garantia da Qualidade;\n\nf) Departamento de Avaliação e Desenvolvimento dos Recursos.\n\n1.2 - Órgãos da SRAS:\n\na) Direcção Regional de Segurança Social;\n\nb) Direcção Regional dos Hospitais;\n\nc) Direcção Regional de Saúde Pública;\n\nd) Centro de Segurança Social da Madeira;\n\ne) Centro Hospitalar do Funchal;\n\nf) Centro Regional de Saúde;\n\ng) Serviço Regional de Protecção Civil da Madeira;"
+  },
+  "a3a488290fcec2bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos da Secretaria Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos da Secretaria Regional"
+  },
+  "50e011d3fe90324d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Direcção Regional de Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direcção Regional de Segurança Social\n\nA Direcção Regional de Segurança Social, abreviadamente designada por DRSS, é um departamento de direcção e elaboração normativa no domínio do sistema unificado de segurança social"
+  },
+  "ea673eb8a7273bdb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Direcção Regional dos Hospitais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direcção Regional dos Hospitais\n\nA Direcção Regional dos Hospitais, abreviadamente designada por DRH, é um departamento de direcção e elaboração normativa no domínio dos cuidados diferenciados de saúde, de âmbito hospitalar."
+  },
+  "904cbab6d12c9236": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Direcção Regional de Saúde Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direcção Regional de Saúde Pública\n\nA Direcção Regional de Saúde Pública, abreviadamente designada por DRSP, é um departamento de direcção e elaboração normativa no domínio dos cuidados de saúde de base, da promoção da saúde e da prevenção das doenças."
+  },
+  "a3fb3d03c06872c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Centro Regional de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Centro Regional de Saúde\n\nO Centro Regional de Saúde, abreviadamente designado por CRS, reveste a natureza de serviço personalizado e dispõe de autonomia administrativa e financeira e património próprio, cabendo-lhe assegurar a cobertura médico-sanitária da Região, orientando e coordenando as actividades de promoção da saúde e prevenção das doenças e prestando os cuidados de saúde de base."
+  },
+  "317cc420002fd520": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Centro Hospitalar do Funchal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Centro Hospitalar do Funchal\n\nO Centro Hospitalar do Funchal, abreviadamente designado por CHF, reveste a natureza de serviço personalizado e dispõe de autonomia administrativa e financeira e património próprio, cabendo-lhe assegurar a cobertura da Região com cuidados diferenciados, tanto curativos como de reabilitação."
+  },
+  "b159040c63f667c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Centro de Segurança Social da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Centro de Segurança Social da Madeira\n\nO Centro de Segurança Social da Madeira, abreviadamente designado por CSSM, é uma instituição de segurança social que reveste a natureza de serviço personalizado e dispõe de autonomia administrativa e financeira e patrimonial, ao qual compete assegurar a gestão dos regimes da segurança social e exercer as modalidades de acção social."
+  },
+  "16c3a36a6729d6ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Serviço Regional de Protecção Civil da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Serviço Regional de Protecção Civil da Madeira\n\nO Serviço Regional de Protecção Civil da Madeira, abreviadamente designado por SRPCM, reveste a natureza de serviço personalizado e dispõe de autonomia administrativa e financeira e património próprio, ao qual compete preparar as medidas de protecção, limitar os riscos e minimizar os prejuízos que impendem sobre a população civil causados por catástrofes naturais ou emergências não imputáveis à guerra ou por tudo o que represente ameaça ou destruição dos bens públicos e privados e dos recursos naturais."
+  },
+  "f387e4c13bfd7718": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Directores regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Directores regionais\n\nSão desde já criados os lugares correspondentes aos cargos de directores regionais de Segurança Social, dos Hospitais e de Saúde Pública, a que se referem os artigos 4.º, 5.º e 6.º do presente diploma, os quais serão exercidos, por inerência, pelos presidentes dos conselhos de administração das respectivas áreas."
+  },
+  "fd25e6f9036c9aed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Dos serviços directamente dependentes do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Dos serviços directamente dependentes do Secretário Regional"
+  },
+  "f5af4714e436d6b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Gabinete do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Gabinete do Secretário Regional\n\n1 - O Gabinete do Secretário Regional, abreviadamente designado por Gabinete, é o órgão de apoio directo ao Secretário Regional e de coadjuvação deste no exercício das suas funções, cuja composição, regime e orgânica obedecem ao disposto nos artigos 10.º e 11.º do [Decreto Legislativo Regional n.º 24-A/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-a-1996-658442), de 4 de Dezembro.\n\n2 - Os membros do Gabinete a que se refere o número anterior são livremente nomeados e exonerados pelo Secretário Regional, cessando funções com a exoneração deste."
+  },
+  "0a29fb2b9713097f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Gabinete para os Assuntos Parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Gabinete para os Assuntos Parlamentares\n\n1 - O Gabinete para os Assuntos Parlamentares, designado por GAP, é o órgão de apoio do Secretário Regional para a orientação e definição da articulação entre o Governo e a Assembleia Legislativa Regional.\n\n2 - A organização, apoio administrativo e logístico do GAP serão definidos por despacho do Secretário Regional."
+  },
+  "87753c7a4f302543": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direcção de Serviços Técnicos e de Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção de Serviços Técnicos e de Administração\n\n1 - A Direcção de Serviços Técnicos e de Administração, abreviadamente designada por DSTA, é um órgão com funções de coordenação, estudo e apoio técnico nas áreas de administração e assuntos jurídicos e integra os seguintes serviços:\n\na) Divisão de Coordenação Administrativa;\n\nb) Divisão de Pareceres e Estudos Jurídicos.\n\n2 - A DSTA será dirigida por um director de serviços, a nomear de entre licenciados do quadro de pessoal da SRAS.\n\n3 - A Divisão de Coordenação Administrativa será dirigida por um chefe de divisão, a nomear de entre chefes de repartição do quadro da SRAS, com experiência profissional nas áreas de expediente, pessoal, contabilidade e economato e com o perfil adequado ao exercício das funções.\n\n4 - A Divisão de Pareceres e Estudos Jurídicos será dirigida por um chefe de divisão, a nomear de entre licenciados em Direito do quadro de pessoal da SRAS.\n\n5 - A estrutura interna e o funcionamento da DSTA serão estabelecidos por portaria do Secretário Regional."
+  },
+  "b06af79faf53178b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Núcleo de Estudos e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Núcleo de Estudos e Planeamento\n\nO Núcleo de Estudos e Planeamento, abreviadamente designado por NEP, é dirigido por um chefe de divisão e corresponde a um órgão técnico de apoio directo ao Secretário Regional, com atribuições em matéria de estudos e planeamento, nos vários domínios de intervenção da SRAS."
+  },
+  "9880da5af5dc0403": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Departamento de Investigação e Garantia da Qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Departamento de Investigação e Garantia da Qualidade\n\nO Departamento de Investigação e Garantia da Qualidade é o órgão de apoio técnico do Gabinete para as seguintes áreas:\n\na) Investigação;\n\nb) Bioestatística e epidemiologia;\n\nc) Auditoria da qualidade e promoção dos cuidados de saúde;\n\nd) Unidades privadas de saúde;\n\ne) Farmácias e distribuição de medicamentos;\n\nf) Internatos médicos."
+  },
+  "5c2d405f83b3a853": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Departamento de Avaliação e Desenvolvimento dos Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Departamento de Avaliação e Desenvolvimento dos Recursos\n\nO Departamento de Avaliação e Desenvolvimento dos Recursos é o órgão de apoio técnico do Gabinete para as seguintes áreas:\n\na) Informação e avaliação de recursos;\n\nb) Gestão orçamental e auditoria de gestão;\n\nc) Formação profissional e bolsas de estudo;\n\nd) Informática;\n\ne) Estatística."
+  },
+  "2c8c8465db011ed4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Directores dos departamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Directores dos departamentos\n\n1 - Os departamentos a que aludem os artigos anteriores serão dirigidos por um director, a nomear, em comissão de serviço, por três anos, por despacho do Secretário Regional dos Assuntos Sociais e Parlamentares, de entre licenciados do quadro da SRAS, com formação adequada.\n\n2 - Os directores de departamento auferem o vencimento estabelecido no artigo 3.º da [Portaria n.º 324/94](https://diariodarepublica.pt/dr/detalhe/portaria/324-1994-301025), de 28 de Novembro, na redacção dada pela [Portaria n.º 175/96](https://diariodarepublica.pt/dr/detalhe/portaria/175-1996-445907), de 16 de Outubro, dos Secretários Regionais das Finanças e dos Assuntos Sociais.\n\n3 - A remuneração prevista no número anterior poderá, por portaria do Secretário Regional dos Assuntos Sociais e Parlamentares, ser estendida aos responsáveis máximos das unidades previstas e ou que venham a ser criadas ou modificadas, nos termos do artigo 16.º do [Decreto Regulamentar Regional n.º 27/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343), de 24 de Setembro."
+  },
+  "c21b14e68417aba8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Gestão dos departamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Gestão dos departamentos\n\n1 - Os departamentos a que se referem os artigos 16.º e 17.º funcionarão, em moldes a definir por portaria do SRAS, de acordo com uma filosofia de gestão por objectivos e programas.\n\n2 - Os responsáveis pelos programas a que se refere o número anterior e respectivos projectos auferirão um suplemento no valor de 20% ou 30% sobre o vencimento base da categoria de assistente da carreira médica hospitalar, escalão 1, em regime de trabalho de tempo completo, com dedicação exclusiva, durante o respectivo período de execução, a definir por despacho do Secretário Regional, de acordo com a importância, dimensão, duração e características do programa ou projecto."
+  },
+  "15d281b8a242c1ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições transitórias"
+  },
+  "cfa3c4de9bba79e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Da extinção da Direcção Regional de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Da extinção da Direcção Regional de Saúde\n\n1 - É extinta a Direcção Regional de Saúde.\n\n2 - Os funcionários do quadro de pessoal da Direcção Regional de Saúde transitam, na data da entrada em vigor do presente diploma, para o quadro de pessoal da Secretaria Regional dos Assuntos Sociais, aprovado pela [Portaria n.º 166/92](https://diariodarepublica.pt/dr/detalhe/portaria/166-1992-175502), de 17 de Junho, dos Secretários Regionais da Administração Pública, das Finanças e dos Assuntos Sociais, através de lista nominativa, nos termos da lei.\n\n3 - Para os efeitos do número anterior, os lugares do pessoal que transita consideram-se automaticamente aditados aos lugares do quadro existentes.\n\n4 - As posições contratuais de que era titular a Direcção Regional de Saúde transmitem-se aos órgãos e serviços que sucederem nas respectivas competências."
+  },
+  "ed98744b661789e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regulamentação\n\nO enquadramento orgânico, atribuições, competências e regime de funcionamento dos órgãos a que se refere o capítulo II do presente diploma serão definidos por decreto regulamentar regional."
+  },
+  "a01a3ed970e2752b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Do Serviço Regional de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Do Serviço Regional de Saúde"
+  },
+  "1ffe364c04803ec7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Coordenador sub-regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Coordenador sub-regional\n\nO artigo 24.º do [Decreto Regulamentar Regional n.º 27/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343), de 24 de Setembro, passa a ter a seguinte redacção:\n\n«Artigo 24.º\n\nCoordenador sub-regional\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - Ao coordenador sub-regional será atribuída uma remuneração mensal adicional, a fixar por portaria do Secretário Regional dos Assuntos Sociais e Parlamentares.»"
+  },
+  "0e77bf2f74f12474": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Autoridade de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Autoridade de saúde\n\nAs referências feitas e as competências atribuídas no [Decreto Regulamentar Regional n.º 6/95/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1995-231487), de 4 de Abril, ao director regional de Saúde entendem-se reportadas, para todos os efeitos legais e a partir da entrada em vigor do presente diploma, ao director regional de Saúde Pública."
+  },
+  "61f6dcf2d6cbefd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Enfermeiros-directores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Enfermeiros-directores\n\nOs enfermeiros-directores dos serviços de enfermagem do CHF e do CRS são nomeados por despacho do Secretário Regional dos Assuntos Sociais e Parlamentares, mediante proposta dos presidentes dos conselhos de administração respectivos, de entre enfermeiros com categorias integradas pelo menos no nível 2 e que possuam uma das habilitações mencionadas no n.º 4 ou na alínea c) do n.º 3 do artigo 11.º do [Decreto-Lei n.º 437/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), de 8 de Novembro."
+  },
+  "3a8618ec79872eb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais"
+  },
+  "fa094be7c6522ba7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Revogação\n\nSão revogados os Decretos Regulamentares Regionais n.os [6-A/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-a-1993-571259) e [6-C/93/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-c-1993-571261), ambos de 25 de Março, e [8/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-1992-186538), de 24 de Março, e todas as disposições legais e regulamentares que contrariem o disposto no presente diploma."
+  },
+  "e8e07e7277ba5aad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação\n\nAprovado em Conselho do Governo Regional de 13 de Janeiro de 1997.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 6 de Fevereiro de 1997.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
+  },
+  "6d1c3b8dcb538cc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Estrutura da Secretaria Regional",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 3.º — Estrutura da Secretaria Regional\n\n1 - A estrutura orgânica da SRAS compreende os seguintes órgãos e serviços:\n\n1.1 - Serviços directamente dependentes do Secretário Regional:\n\na) Gabinete do Secretário Regional;\n\nb) Gabinete para os Assuntos Parlamentares;\n\nc) Direcção de Serviços Técnicos e de Administração;\n\nd) Gabinete de Documentação, Estudos e Planeamento;\n\ne) Gabinete para a Qualidade e Investigação;\n\nf) Gabinete de Avaliação e Desenvolvimento de Recursos.\n\n1.2 - Órgãos da SRAS:\n\na) Direcção Regional de Segurança Social;\n\nb) Direcção Regional dos Hospitais;\n\nc) Direcção Regional de Saúde Pública;\n\nd) Centro de Segurança Social da Madeira;\n\ne) Centro Hospitalar do Funchal;\n\nf) Centro Regional de Saúde;\n\ng) Serviço Regional de Protecção Civil da Madeira;\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+  },
+  "2fa870fed2ccc81d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direcção de Serviços Técnicos e de Administração",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 14.º — Direcção de Serviços Técnicos e de Administração\n\n1 - A Direcção de Serviços Técnicos e de Administração, adiante abreviadamente designada por DSTA, é um órgão com funções de coordenação, estudo e apoio técnico nas áreas de administração e assuntos jurídicos, ao qual compete:\n\na) Assegurar a coordenação e execução do expediente e arquivo gerais;\n\nb) Prestar apoio técnico-jurídico e administrativo ao Secretário Regional e ao respectivo Gabinete e aos demais serviços na dependência daquele, quando tal se revele necessário;\n\nc) Elaborar, em conjunto com o Núcleo de Estudos e Planeamento, as propostas de orçamento dos serviços na directa dependência do Secretário Regional e proceder à respectiva execução, assegurando os respectivos procedimentos contabilísticos;\n\nd) Proceder à execução dos processos de aquisição necessários ao funcionamento dos serviços na dependência directa do Secretário Regional e efectuar o respectivo cadastro patrimonial;\n\ne) Assegurar a gestão dos recursos humanos e materiais que lhe estão afectos e apoiar e coordenar a gestão dos recursos correspondentes dos demais serviços na directa dependência do Secretário Regional.\n\n2 - A DSTA integra os seguintes serviços:\n\na) Divisão de Pareceres e Estudos Jurídicos;\n\nb) Divisão de Coordenação Administrativa.\n\n3 - À Divisão de Pareceres e Estudos Jurídicos, adiante abreviadamente designada por DPEJ, cabe o exercício de funções de mera consulta jurídica, de emissão de pareceres jurídicos e de pronúncia sobre questões de direito de natureza genérica de interesse para a SRAS e será dirigida por um chefe de divisão.\n\n4 - A DPEJ integra a Secção de Apoio Documental, à qual compete prestar o apoio administrativo e de recolha, selecção e arquivo dos textos normativos necessários ao bom funcionamento da Divisão.\n\n5 - A Divisão de Coordenação Administrativa integra o Departamento de Contabilidade e Pessoal e o Departamento de Assuntos Gerais e Coordenação.\n\n6 - A Divisão de Coordenação Administrativa será dirigida por um chefe de divisão, cuja nomeação poderá fazer-se, mediante concurso, de entre chefes de departamento, conforme as regras estabelecidas no artigo 18.º, n.º 3, do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+  },
+  "956a1caa42803d61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º-A — Departamento de Contabilidade e Pessoal",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 14.º-A — Departamento de Contabilidade e Pessoal\n\n1 - O Departamento de Contabilidade e Pessoal é o órgão de apoio e execução técnico-administrativo da DSTA para as áreas da contabilidade, orçamento, aprovisionamento e pessoal, ao qual compete:\n\na) Organizar todo o processo contabilístico da SRAS;\n\nb) Coordenar a elaboração do orçamento da SRAS, respectivas alterações e gestão corrente;\n\nc) Coordenar as aquisições necessárias ao funcionamento dos serviços;\n\nd) Manter o cadastro patrimonial dos bens móveis e coordenar a manutenção dos bens afectos à SRAS;\n\ne) Coordenar todo o processo de gestão de pessoal.\n\n2 - O Departamento de Contabilidade e Pessoal integra a Secção de Aprovisionamento e o Serviço de Gestão de Pessoal.\n\n3 - Ao Serviço de Gestão de Pessoal cabe executar todo o processo de gestão de pessoal, designadamente processos de recrutamento, promoção, mobilidade e aposentação, mantendo o adequado registo biográfico dos funcionários e respectiva actualização.\n\n4 - O Serviço de Gestão de Pessoal será dirigido por um funcionário da carreira de coordenador.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+  },
+  "3afb7de8aa9af1cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º-B — Departamento de Assuntos Gerais e Coordenação",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 14.º-B — Departamento de Assuntos Gerais e Coordenação\n\n1 - O Departamento de Assuntos Gerais e Coordenação é o órgão de apoio e execução administrativa da DSTA para as áreas de registo, arquivo geral e expediente e para a área da coordenação da DSTA com o Gabinete e demais serviços na dependência do Secretário Regional.\n\n2 - O Departamento de Assuntos Gerais e Coordenação integra o Serviço de Expediente, Registo e Arquivo e a Secção de Assuntos Gerais e Documentação.\n\n3 - O Serviço de Expediente, Registo e Arquivo é chefiado por um funcionário da carreira de coordenador.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+  },
+  "d02e635cb47ca80f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Gabinete de Documentação, Estudos e Planeamento",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 15.º — Gabinete de Documentação, Estudos e Planeamento\n\n1 - O Gabinete de Documentação, Estudos e Planeamento é o órgão de apoio técnico ao Secretário Regional para as seguintes áreas:\n\na) Informação;\n\nb) Recolha, selecção, compilação e divulgação de documentação;\n\nc) Estudos e planeamento, nos vários domínios de intervenção da SRAS.\n\n2 - O Gabinete de Documentação, Estudos e Planeamento integra:\n\na) O Núcleo de Estudos e Planeamento, abreviadamente designado por NEP, ao qual compete prestar apoio técnico em matéria de estudos e planeamento, nos vários domínios de intervenção da SRAS;\n\nb) O Departamento de Apoio Administrativo e Documentação, ao qual compete assegurar o expediente geral e arquivo internos do Gabinete, bem como coordenar a ligação administrativa deste com os demais serviços na dependência da SRAS e coordenar a recolha, selecção, compilação e divulgação de textos legislativos e regulamentares e publicações normativas e bibliográficas.\n\n3 - O NEP é dirigido por um chefe de divisão.\n\n4 - O Departamento de Apoio Administrativo e Documentação integra a Secção de Informação e Documentação, à qual compete a execução da recolha, selecção, compilação e divulgação de textos legislativos e regulamentares e publicações normativas e bibliográficas.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+  },
+  "c2532cfb7355f815": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Gabinete para a Qualidade e Investigação",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 16.º — Gabinete para a Qualidade e Investigação\n\n1 - O Gabinete para a Qualidade e Investigação é o órgão de apoio técnico ao Secretário Regional para as seguintes áreas:\n\na) Investigação;\n\nb) Bioestatística e epidemiologia;\n\nc) Auditoria da qualidade e promoção dos cuidados de saúde;\n\nd) Unidades privadas de saúde;\n\ne) Regulamentação técnica da actividade farmacêutica;\n\nf) Internatos médicos.\n\ng) Programas de saúde.\n\n2 - O Gabinete para a Qualidade e Investigação integra o Departamento de Apoio Técnico-Administrativo, ao qual compete:\n\na) Dar apoio às acções no âmbito dos programas de saúde;\n\nb) Dar apoio à organização e promoção dos eventos científicos realizados pelo Gabinete;\n\nc) Dar apoio no âmbito das convenções com prestadores privados de saúde.\n\n3 - O Departamento de Apoio Técnico-Administrativo integra a Secção de Expediente, à qual compete a execução de registos informáticos dos programas de saúde, expediente e arquivo internos do Gabinete.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+  },
+  "af2a83ad28eb410c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Gabinete de Avaliação e Desenvolvimento de Recursos",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 17.º — Gabinete de Avaliação e Desenvolvimento de Recursos\n\n1 - O Gabinete de Avaliação e Desenvolvimento de Recursos é o órgão de apoio técnico ao Secretário Regional para as seguintes áreas:\n\na) Avaliação de recursos;\n\nb) Gestão orçamental e auditoria de gestão;\n\nc) Formação profissional;\n\nd) Informática;\n\ne) Estatística.\n\n2 - O Gabinete de Avaliação e Desenvolvimento de Recursos integra:\n\na) Departamento de Coordenação Orçamental, ao qual compete a coordenação do controlo da execução orçamental dos serviços com autonomia administrativa e financeira na dependência da SRAS;\n\nb) Secção de Cursos de Formação, à qual compete proceder à execução administrativa das acções de formação da SRAS e assegurar o expediente e arquivo internos do Gabinete.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+  },
+  "d03f158aa1399397": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Directores dos gabinetes",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 18.º — Directores dos gabinetes\n\n1 - Os gabinetes a que se referem os artigos anteriores serão dirigidos por um director, a nomear, em comissão de serviço, por três anos, por despacho do Secretário Regional dos Assuntos Sociais e Parlamentares, de entre licenciados com formação adequada.\n\n2 - Os directores dos gabinetes auferem o vencimento estabelecido no artigo 3.º da [Portaria n.º 324/94](https://diariodarepublica.pt/dr/detalhe/portaria/324-1994-301025), de 28 de Novembro, na redacção dada pela [Portaria n.º 175/96](https://diariodarepublica.pt/dr/detalhe/portaria/175-1996-445907), de 16 de Outubro, dos Secretários Regionais das Finanças e dos Assuntos Sociais.\n\n3 - A remuneração prevista no número anterior poderá, por portaria do Secretário Regional dos Assuntos Sociais e Parlamentares, ser estendida aos responsáveis máximos das unidades previstas e ou que venham a ser criadas ou modificadas, nos termos do artigo 16.º do [Decreto Regulamentar Regional n.º 27/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343), de 24 de Setembro.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+  },
+  "9b6660c12a1c2dd0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Gestão dos programas de saúde",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 19.º — Gestão dos programas de saúde\n\nOs responsáveis pelos programas de saúde coordenados no âmbito do Gabinete para a Qualidade e Investigação e respectivos projectos auferirão um suplemento no valor de 20% ou 30% sobre o vencimento base da categoria de assistente da carreira médica hospitalar, escalão 1, em regime de tempo completo, com dedicação exclusiva, durante o respectivo período de execução, a definir por despacho do Secretário Regional, de acordo com a importância, dimensão, duração e características do programa ou projecto.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+  },
+  "e502ad33dae15985": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º-A — Do pessoal",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 25.º-A — Do pessoal\n\n1 - O pessoal do quadro da SRAS é agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico;\n\nd) Pessoal administrativo;\n\ne) Pessoal auxiliar.\n\n2 - O quadro de pessoal da SRAS será aprovado por portaria conjunta dos Secretários Regionais dos Assuntos Sociais e Parlamentares e do Plano e da Coordenação.\n\n3 - A carreira de coordenador desenvolve-se pelas categorias de coordenador especialista e de coordenador.\n\n4 - O recrutamento para as categorias de coordenador especialista e de coordenador far-se-á, respectivamente, de entre coordenadores com três anos na respectiva categoria e de entre chefes de secção com comprovada experiência na área administrativa.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+  },
+  "8af20cce45f99a06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º-B — Transição dos chefes de repartição",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 25.º-B — Transição dos chefes de repartição\n\n1 - São criados no quadro de pessoal da Secretaria Regional dos Assuntos Sociais e Parlamentares cinco lugares de chefe de departamento, a extinguir quando vagarem.\n\n2 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.\n\n3 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontram posicionados.\n\n4 - Quando da transição resultar um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeito de progressão na nova categoria.\n\n5 - A transição produz efeitos a partir da data da transição na nova categoria.\n\n6 - Mantém-se em vigor o concurso pendente para a categoria de chefe de repartição, sendo o respectivo candidato aprovado provido na categoria de chefe de departamento, nos termos dos números anteriores.\n\n7 - Sem prejuízo do disposto no número anterior, são extintos os lugares de chefe de repartição.\n\n8 - O disposto no presente artigo não prejudica a faculdade de os chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+  },
+  "f8bf4c2dd8247059": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º-C — Transição para a carreira de coordenador",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+   ],
+   "markdown": "###### Artigo 25.º-C — Transição para a carreira de coordenador\n\n1 - Os chefes de secção actualmente afectos à DSTA nas áreas de pessoal e expediente e arquivo transitam, independentemente de quaisquer formalidades, para a carreira de coordenador.\n\n2 - Os chefes de secção a que se refere o número anterior e que possuam no mínimo três anos na categoria transitam para a categoria de coordenador especialista.\n\n3 - A transição faz-se para índice igual ou, na falta deste, para o índice mais aproximado àquele em que se encontrem posicionados.\n\n4 - A transição faz-se por aplicação deste diploma e produz efeitos à data da sua publicação.\n\n> Aditado pelo/a [Decreto Regulamentar Regional n.º 13/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2000-515268), publicado em 2000-03-21."
+  }
+ }
+}

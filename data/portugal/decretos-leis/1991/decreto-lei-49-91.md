@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-10-03'
+version_history:
+  file: decreto-lei-49-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-01-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-10-03'
+    amending: pt:dre:292879:por
+    amending_title: Decreto-Lei n.º 360/91
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/49/1991/01/25/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:14:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 360/91. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-49-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -161,7 +177,15 @@ a) Os elementos complementares completamente reintegrados na data da reavaliaç�
 
 b) Os elementos de reduzido valor cujo custo de aquisição ou de produção tenha sido deduzido num só exercício, nos termos do artigo 31.º do Código do IRC.
 
-3 - A reavaliação deve reportar-se a 31 de Dezembro de 1990 ou, se o exercício económico não coincidir com o ano civil nos termos previstos nos n.os 2 e 3 do artigo 7.º do Código do IRC, ao fim do período de tributação em curso à data da publicação do presente diploma e constar do balanço referente à respectiva data ou do balanço do período de tributação seguinte, no caso de os sujeitos passivos já terem procedido ao encerramento das contas ou não poderem efectuar a reavaliação em tempo útil.
+3 - A reavaliação deve reportar-se a 31 de Dezembro de 1990 ou, se o exercício económico não coincidir com o ano civil, nos termos previstos nos n.os 2 e 3 do artigo 7.º do Código do IRC:
+
+a) À data do início do período de tributação em curso em 31 de Dezembro de 1990, se o respectivo termo ocorrer no 2.º semestre de 1991:
+
+b) À data do termo do período de tributação em curso em 31 de Dezembro de 1990, se o respectivo termo ocorrer no 1.º semestre de 1991.
+
+4 - A reavaliação deve constar do balanço referente ao termo do exercício em que se integra a data a que se reporta a reavaliação ou do balanço relativo ao termo do período de tributação seguinte, no caso de os sujeitos passivos já terem procedido ao encerramento das contas ou não puderem efectuar a reavaliação em tempo útil.
+
+> Alterado pelo/a [Decreto-Lei n.º 360/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1991-292879), publicado em 1991-09-28.
 
 ###### Artigo 2.º — Método de reavaliação
 
@@ -213,7 +237,15 @@ b) Tratando-se de bens totalmente reintegrados, as reintegrações acumuladas ac
 
 1 - O regime fiscal das reintegrações dos elementos reavaliados ao abrigo deste diploma regular-se-á pelas disposições sobre reintegrações e amortizações do Código do IRC e pelo [Decreto Regulamentar n.º 2/90](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1990-333532), de 12 de Janeiro.
 
-2 - As reintegrações dos elementos do activo imobilizado só poderão calcular-se sobre os valores resultantes da reavaliação prevista neste diploma a partir do exercício de 1991, inclusive.
+2 - As reintegrações dos elementos do activo imobilizado só poderão calcular-se sobre os valores resultantes da reavaliação prevista neste diploma nos seguintes termos:
+
+a) Para os sujeitos passivos cujo período de tributação coincida com o ano civil, a partir do exercício de 1991, inclusive;
+
+b) Para os sujeitos passivos cujo período de tributação em curso em 31 de Dezembro de 1990 termine no 2.º semestre de 1991, a partir deste mesmo período inclusive;
+
+c) Para os sujeitos passivos cujo período de tributação em curso em 31 de Dezembro de 1990 termine no 1.º semestre de 1991, a partir do período de tributação imediatamente seguinte, inclusive.
+
+> Alterado pelo/a [Decreto-Lei n.º 360/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1991-292879), publicado em 1991-09-28.
 
 ###### Artigo 8.º — Custos ou perdas não dedutíveis
 

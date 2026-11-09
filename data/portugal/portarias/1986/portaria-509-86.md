@@ -41,10 +41,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-09-20'
+version_history:
+  file: portaria-509-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-09-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-09-20'
+    amending: pt:dre:617155:por
+    amending_title: Portaria n.º 538-A/86
+    changes:
+    - Altera Artigo 34.º
 identifiers:
   celex: null
   eli: null
@@ -70,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:50:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 538-A/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1986/portaria-509-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -174,7 +189,7 @@ b) O artigo 34.º passa a ter a seguinte redacção:
 
 2 - Os candidatos inscritos pelo contingente especial para a Região Autónoma da Madeira apenas podem concorrer a vagas desse contingente respeitantes a cursos congéneres dos professados no Instituto Superior de Artes Plásticas da Madeira e na Escola Superior de Educação da Madeira, desde que concorram antes daquelas às vagas dos cursos congéneres daquele Instituto ou daquela Escola.
 
-3.º Às vagas aprovadas pela [Portaria n.º 286-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/286-b-1986-611174), de 17 de Junho, alterada pela [Portaria n.º 442-B/86](https://diariodarepublica.pt/dr/detalhe/portaria/442-b-1986-623233), de 14 de Agosto, é introduzido o seguinte aditamento:
+3.º Às vagas aprovadas pela Portaria n.º 286-B/86, de 17 de Junho, alterada pela Portaria n.º 442-B/86, de 14 de Agosto, é introduzido o seguinte aditamento:
 
 Estabelecimento - Escola Superior de Educação da Madeira.
 
@@ -184,9 +199,11 @@ Vagas - vinte.
 
 Código - 98702.
 
-4.º Aos estudantes que já hajam apresentado a candidatura no decurso do prazo indicado na referência 6 do anexo X ao regulamento aprovado pela [Portaria n.º 173/86](https://diariodarepublica.pt/dr/detalhe/portaria/173-1986-402924) é autorizada a sua alteração até ao fim do mesmo prazo, desde que tal alteração tenha por objectivo incluir o curso de professores do ensino primário da Escola Superior de Educação da Madeira.
+4.º Aos estudantes que já hajam apresentado a candidatura no decurso do prazo indicado na referência 6 do anexo X do regulamento aprovado pela Portaria n.º 173/86, de 30 de Abril, é autorizada a sua alteração até ao dia 25 de Setembro de 1986, desde que tal alteração tenha por objectivo incluir o curso de professores do ensino primário da Escola Superior de Educação da Madeira.
 
 5.º Esta portaria entra em vigor na data da sua publicação.
+
+> Alterado pelo/a [Portaria n.º 538-A/86](https://diariodarepublica.pt/dr/detalhe/portaria/538-a-1986-617155), publicado em 1986-09-20.
 
 Ministério da Educação e Cultura.
 

@@ -1,0 +1,153 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:360106:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2006-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0774d70fc008ca5f",
+    "aa2562d8c182422a",
+    "aced224cc9f3741e",
+    "28ec3008081c63a6",
+    "17c58cbcaa1b656f",
+    "e60c8453b31e114c",
+    "6ae5c4b7208ca6f5",
+    "ff6fe418453216a4",
+    "b6f98e03bddb5784"
+   ]
+  },
+  {
+   "date": "2010-06-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:3015435:por",
+     "title": "Despacho Normativo n.º 16/2006",
+     "published": "2006-11-14",
+     "dre_path": "/dr/detalhe/despacho-normativo/16-2006-3015435"
+    },
+    {
+     "id": "pt:dre:3620234:por",
+     "title": "Declaração de Rectificação n.º 1172/2010",
+     "published": "2010-06-18",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/1172-2010-3620234"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "0774d70fc008ca5f",
+    "aa2562d8c182422a",
+    "aced224cc9f3741e",
+    "79a906addecba5c2",
+    "befd6ba877ccec42",
+    "e60c8453b31e114c",
+    "6ae5c4b7208ca6f5",
+    "ff6fe418453216a4",
+    "b6f98e03bddb5784"
+   ]
+  }
+ ],
+ "fragments": {
+  "0774d70fc008ca5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 29 de Setembro, alterado pelo Regulamento (CE) n.º [864/2004](http://data.europa.eu/eli/reg/2004/864/oj?locale=pt), do Conselho, de 29 de Abril, veio determinar as condições da integração do regime de ajuda à produção de tabaco no sistema de pagamento único, alterando, em consequência, o Regulamento (CEE) n.º [2075/92](http://data.europa.eu/eli/reg/1992/2075/oj?locale=pt), do Conselho, de 30 de Junho, que estabelece a Organização Comum de Mercado no sector do tabaco em rama.\n\nAplicando-se, a partir da colheita de 2006, este novo regime, e considerando-se revogado o anterior sistema de prémio, bem como as disposições relativas ao controlo da produção definidas no Regulamento (CEE) n.º [2075/92](http://data.europa.eu/eli/reg/1992/2075/oj?locale=pt), do Conselho, de 30 de Junho, deixa de fazer sentido manter a vigência do Despacho Normativo n.º 17/2001, de 6 de Abril, em sede de direito nacional.\n\nPorém, com o objectivo de facilitar o ajustamento da produção nas regiões onde se realiza a cultura do tabaco, a Comissão Europeia permitiu que os Estados membros pudessem manter 60% do montante da ajuda ligada à produção, tendo sido então determinado, através do Despacho Normativo n.º 41/2005, de 12 de Agosto, o desligamento de 50% do valor da ajuda.\n\nNestes termos, importa estabelecer as regras gerais relativas à ajuda directa à produção, dentro dos limites estabelecidos pelo artigo 110.ºL do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), estabelecendo-se as condições e procedimentos necessários à aprovação das empresas de primeira transformação de tabaco, bem como ao reconhecimento de novos agrupamentos de produtores de tabaco.\n\nRelativamente a estes, mantém-se a terminologia anteriormente utilizada, apesar da alteração regulamentar que os passa a referenciar como associações, dada a evidente sinonímia jurídica comunitária da nomenclatura e a sua possível divergência em sede de direito puramente nacional.\n\nPor último, importa ainda referir que, ao abrigo do disposto no artigo 70.º do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 29 de Setembro, Portugal optou por excluir do regime de pagamento único a Região Autónoma dos Açores, daí resultando a necessidade de fixação de um limite máximo orçamental relativo ao pagamento directo para aquela região, através de legislação comunitária especial.\n\nDeste modo, enquanto não for adoptada a referida legislação para enquadramento da situação, aplicar-se-á também à Região Autónoma dos Açores o disposto no presente despacho.\n\nAssim, ao abrigo do disposto no capítulo 10C do título IV do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 29 de Setembro, e no capítulo 17C do Regulamento (CE) n.º [1973/2004](http://data.europa.eu/eli/reg/2004/1973/oj?locale=pt), da Comissão, de 29 de Outubro, determina-se o seguinte:"
+  },
+  "aa2562d8c182422a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma estabelece as regras nacionais complementares para atribuição da ajuda directa à produção de tabaco, prevista no capítulo 10C do título IV do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 29 de Setembro."
+  },
+  "aced224cc9f3741e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Condições de aprovação das empresas de primeira transformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições de aprovação das empresas de primeira transformação\n\n1 - Até 31 de Outubro de cada ano, as empresas de primeira transformação de tabaco devem entregar junto do Instituto Nacional de Intervenção e Garantia Agrícola (INGA) um pedido de aprovação para efeitos do disposto no artigo 171.ºCB do Regulamento (CE) n.º [1973/2004](http://data.europa.eu/eli/reg/2004/1973/oj?locale=pt), da Comissão, de 29 de Outubro.\n\n2 - Até ao dia 31 de Janeiro do ano seguinte ao do respectivo pedido, o INGA procede à aprovação de todas as empresas de primeira transformação de tabaco.\n\n3 - A aprovação mencionada no número anterior depende da verificação das seguintes condições:\n\na) Tratar-se de uma empresa licenciada como unidade transformadora de tabaco;\n\nb) Dispor de instalações técnicas adequadas;\n\nc) Manter permanentemente actualizados os registos relativos à proveniência da matéria-prima, às quantidades de tabaco processado e ao destino final do mesmo.\n\n4 - Até ao dia 31 de Outubro do ano anterior à colheita deve ser requerida junto dos serviços do INGA a renovação anual da aprovação como empresa de primeira transformação."
+  },
+  "28ec3008081c63a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Reconhecimento de novos agrupamentos de produtores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Reconhecimento de novos agrupamentos de produtores\n\n1 - Para efeitos de aplicação da alínea e) do artigo 171.ºC do Regulamento (CE) n.º [1973/2004](http://data.europa.eu/eli/reg/2004/1973/oj?locale=pt), da Comissão, de 29 de Outubro, o pedido de reconhecimento de novos agrupamentos de produtores deve ser feito junto do Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) até ao dia 31 de Outubro do ano anterior à colheita.\n\n2 - O número mínimo de produtores individuais para a constituição de um agrupamento de produtores de tabaco é de 70 para o grupo I (variedade Virginia) e de 25 para o grupo II (variedade Burley).\n\n3 - Podem ser reconhecidas como agrupamentos de produtores as pessoas colectivas que cumpram o disposto no número anterior e cujos estatutos obriguem os seus membros a colocar no mercado por intermédio do agrupamento a totalidade da respectiva produção de tabaco."
+  },
+  "17c58cbcaa1b656f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Nível de ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Nível de ajuda\n\n1 - A ajuda é paga pelo INGA em função da quantidade de tabaco entregue até ao dia 15 de Fevereiro do ano seguinte à colheita na empresa de primeira transformação, com base no contrato de cultura celebrado entre o agricultor ou o agrupamento de produtores e a referida empresa.\n\n2 - O valor indicativo da ajuda é fixado em 2,98062 euros/quilograma para o tabaco do grupo I (variedade Virginia) e 2,38423 euros/quilograma para o grupo II (variedade Burley).\n\n3 - Caso venha a ser excedido o montante máximo da ajuda total atribuída para Portugal, o INGA procede a uma redução linear sobre o valor final da ajuda até 15 dias após a conclusão das entregas."
+  },
+  "e60c8453b31e114c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Arbitragem\n\nNos termos da Lei n.º 31/86, de 29 de Agosto, a resolução de eventuais litígios respeitantes à qualidade de tabaco entregue à empresa de primeira transformação pode ser cometida, mediante convenção de arbitragem, à decisão de árbitros."
+  },
+  "6ae5c4b7208ca6f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Disposições transitórias\n\n1 - As empresas de primeira transformação aprovadas para a colheita de 2005 mantêm-se aprovadas para 2006.\n\n2 - Mantém-se o reconhecimento de todos os agrupamentos de produtores concedido ao abrigo do Despacho Normativo n.º 17/2001, de 6 de Abril, com a redacção que lhe foi dada pelo Despacho Normativo n.º 14/2005, de 24 de Fevereiro."
+  },
+  "ff6fe418453216a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revogação\n\nÉ revogado o Despacho Normativo n.º 17/2001, de 6 de Abril."
+  },
+  "b6f98e03bddb5784": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas, 31 de Maio de 2006. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva."
+  },
+  "79a906addecba5c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Reconhecimento de novos agrupamentos de produtores",
+   "in_force_from": "2010-06-18",
+   "changed_by": [
+    "Revogado pelo/a [Declaração de Rectificação n.º 1172/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1172-2010-3620234), publicado em 2010-06-18."
+   ],
+   "markdown": "###### Artigo 3.º — Reconhecimento de novos agrupamentos de produtores\n\n(Revogado.)\n\n> Revogado pelo/a [Declaração de Rectificação n.º 1172/2010](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1172-2010-3620234), publicado em 2010-06-18."
+  },
+  "befd6ba877ccec42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Nível de ajuda",
+   "in_force_from": "2010-06-18",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 16/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2006-3015435), publicado em 2006-11-14."
+   ],
+   "markdown": "###### Artigo 4.º — Nível de ajuda\n\n1 - A ajuda é paga pelo INGA em função da quantidade de tabaco entregue até ao dia 15 de Fevereiro do ano seguinte à colheita na empresa de primeira transformação, com base no contrato de cultura celebrado entre o agricultor ou o agrupamento de produtores e a referida empresa.\n\n2 - O valor indicativo da ajuda é fixado em 2,98062 euros/quilograma para o tabaco do grupo I (variedade Virginia) e 2,38423 euros/quilograma para o grupo II (variedade Burley).\n\n3 - Caso venha a ser excedido o montante máximo da ajuda total atribuída para Portugal, o INGA procede a uma redução linear sobre o valor final da ajuda até 15 dias após a conclusão das entregas.\n\n4 - Na Região Autónoma dos Açores as entregas do tabaco devem ser efectuadas até ao dia 30 de Novembro do ano respeitante à colheita em curso.\n\n5 - A redução linear referida no n.º 3 deve ser efectuada sobre os produtores da Região Autónoma dos Açores sempre que seja excedido o montante total máximo da ajuda atribuída para esta região, que corresponde a 332 mil euros.\n\n> Alterado pelo/a [Despacho Normativo n.º 16/2006](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2006-3015435), publicado em 2006-11-14."
+  }
+ }
+}

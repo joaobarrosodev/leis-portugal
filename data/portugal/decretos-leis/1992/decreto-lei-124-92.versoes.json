@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:291849:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-07-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "14bb76801d6f8309"
+   ]
+  },
+  {
+   "date": "1992-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:340980:por",
+     "title": "Declaração de Rectificação n.º 172/92",
+     "published": "1992-10-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/172-1992-340980"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "3ba49cd17b4a46eb",
+    "9c5029cfd704d09b",
+    "4e33d9897d925c5e"
+   ]
+  }
+ ],
+ "fragments": {
+  "14bb76801d6f8309": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Julho\n\nAs relações que, a todos os níveis - e de forma cada vez mais intensa -, se desenvolvem entre o nosso país e os restantes Estados membros da Comunidade Europeia mostram a necessidade de uniformização do regime da hora legal vigente em Portugal com o dos seus parceiros comunitários continentais.\n\nCom efeito, o início diário da actividade nos diversos sectores produtivos é em Portugal tradicionalmente mais tardio do que nos demais Estados europeus, o que acarreta a diminuta coincidência dos horários de trabalho praticados no nosso país com os tempos de laboração em vigor nos restantes países da Comunidade.\n\nDeste modo, considerando que a convergência económica determinada pela integração assim o aconselha, justifica-se uma nova definição da hora no nosso país, por forma que Portugal acompanhe, nos horários de trabalho, os países com que mantém mais frequentes contactos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º O artigo 3.º do [Decreto-Lei n.º 44-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-b-1986-628280), de 7 de Março, passa a ter a seguinte redacção:\n\nArt. 3.º - 1 - A hora legal de Portugal continental coincide com o tempo universal coordenado, aumentado de sessenta minutos, no período compreendido entre a 1 hora UTC do último domingo de Setembro e a 1 hora UTC do último domingo de Março seguinte (período de hora de Inverno) e coincide com o tempo universal coordenado, aumentado de cento e vinte minutos, no período compreendido entre a 1 hora UTC do último domingo de Março e a 1 hora UTC do último domingo de Setembro seguinte (período de hora de Verão).\n\n2 - As mudanças de hora efectuar-se-ão adiantando os relógios de sessenta minutos à 1 hora UTC (à 1 hora de tempo legal) do último domingo de Março e atrasando-os de sessenta minutos à 1 hora UTC (às 2 horas de tempo legal) do último domingo de Setembro seguinte.\n\nArt. 2.º - No período de transição, que decorre durante o ano de 1992, não se efectua a mudança de hora à 1 hora UTC do último domingo de Setembro.\n\nVisto e aprovado em Conselho de Ministros de 30 de Abril de 1992. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.\n\nPromulgado em 10 de Junho de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Junho de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "3ba49cd17b4a46eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 2 de Julho\n\nAs relações que, a todos os níveis - e de forma cada vez mais intensa -, se desenvolvem entre o nosso país e os restantes Estados membros da Comunidade Europeia mostram a necessidade de uniformização do regime da hora legal vigente em Portugal com o dos seus parceiros comunitários continentais.\n\nCom efeito, o início diário da actividade nos diversos sectores produtivos é em Portugal tradicionalmente mais tardio do que nos demais Estados europeus, o que acarreta a diminuta coincidência dos horários de trabalho praticados no nosso país com os tempos de laboração em vigor nos restantes países da Comunidade.\n\nDeste modo, considerando que a convergência económica determinada pela integração assim o aconselha, justifica-se uma nova definição da hora no nosso país, por forma que Portugal acompanhe, nos horários de trabalho, os países com que mantém mais frequentes contactos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "9c5029cfd704d09b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1992-10-31",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Rectificação n.º 172/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/172-1992-340980), publicado em 1992-10-31."
+   ],
+   "markdown": "###### Artigo 1.º\n\nO artigo 3.º do [Decreto-Lei n.º 44-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-b-1986-628280), de 7 de Março, passa a ter a seguinte redacção:\n\nArt. 3.º - 1 - A hora legal de Portugal continental coincide com o tempo universal coordenado, aumentado de sessenta minutos, no período compreendido entre a 1 hora UTC do último domingo de Setembro e a 1 hora UTC do último domingo de Março seguinte (período de hora de Inverno) e coincide com o tempo universal coordenado, aumentado de cento e vinte minutos, no período compreendido entre a 1 hora UTC do último domingo de Março e a 1 hora UTC do último domingo de Setembro seguinte (período de hora de Verão).\n\n2 - As mudanças de hora efectuar-se-ão adiantando os relógios de sessenta minutos à 1 hora UTC (às 2 horas de tempo legal) do último domingo de Março e atrasando-os de sessenta minutos à 1 hora UTC (às 3 horas de tempo legal) do último domingo de Setembro seguinte.\n\n> Alterado pelo/a [Declaração de Rectificação n.º 172/92](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/172-1992-340980), publicado em 1992-10-31."
+  },
+  "4e33d9897d925c5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNo período de transição, que decorre durante o ano de 1992, não se efectua a mudança de hora à 1 hora UTC do último domingo de Setembro.\n\nVisto e aprovado em Conselho de Ministros de 30 de Abril de 1992. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.\n\nPromulgado em 10 de Junho de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Junho de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

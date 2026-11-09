@@ -1,0 +1,227 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:445881:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-03-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ff5dfbc071a24f9b"
+   ]
+  },
+  {
+   "date": "1972-10-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:690050:por",
+     "title": "Decreto n.º 405/72",
+     "published": "1972-10-25",
+     "dre_path": "/dr/detalhe/decreto/405-1972-690050"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "5b1074a938dbb57f",
+    "2c23321441de432b",
+    "8e377e63441bb8b5",
+    "4587ce9c2783e2a1",
+    "c936969b7c5bcede",
+    "e0f154b9472c3c34",
+    "911b0b81550da0d0",
+    "01256606f3d36389",
+    "988ef9eef27d808e",
+    "fc68f375d820c599",
+    "5bc82e160b8407e2",
+    "77ed85c91cf15f2b",
+    "e0f91e78f5a5d4f6",
+    "34c0eb26de6a85b9",
+    "07534e2c5071b127",
+    "f4602d5d00eee5f5",
+    "c06330bd82f6d0f4",
+    "82d1c08249540af2",
+    "b6e7326d426df022",
+    "86fe42d70837bf11"
+   ]
+  }
+ ],
+ "fragments": {
+  "ff5dfbc071a24f9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Março\n\nMattel, Inc. (Portugal), Lda., veio solicitar autorização para o estabelecimento de um depósito franco na unidade fabril que vai implantar no lugar de Pedrógão, concelho das Caldas da Rainha, unidade essa que se destina ao fabrico de brinquedos, partes e peças separadas dos mesmos, moldes para a sua confecção e artefactos destinados a recreio educativo.\n\nConsiderando que a interessada se comprometeu a adquirir no mercado interno as matérias-primas e os produtos de fabrico nacional que possam ser utilizados na sua instalação industrial;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º - 1. É autorizada a firma Mattel, Inc. (Portugal), Lda., a estabelecer um depósito franco nas suas instalações fabris, situadas no lugar de Pedrógão, concelho das Caldas da Rainha.\n\n2. As instalações referidas no n.º1 deste artigo serão exteriormente resguardadas por uma vedação, de conformidade com o artigo 144.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.\n\n3. Neste depósito franco a empresa propõe-se fabricar brinquedos, partes e peças separadas dos mesmos, moldes para a sua confecção e artefactos destinados a recreio educativo.\n\nArt. 2.º - 1. Junto do depósito franco funcionará um posto fiscal com o efectivo de um graduado e das praças julgadas necessárias para o seu conveniente funcionamento, de harmonia com as instruções especiais aduaneiras.\n\n2. Todas as despesas com a criação e manutenção do posto são de conta da empresa interessada.\n\n3. A empresa fornecerá instalações para o serviço da Guarda Fiscal, as quais deverão ser aprovadas pelo seu Comando-Geral.\n\nArt. 3.º - 1. No recinto das instalações haverá um gabinete para ser utilizado apenas pelos funcionários aduaneiros que ali vão fazer serviço.\n\n2. As despesas de instalação e manutenção deste gabinete serão suportadas pela mesma empresa.\n\nArt. 4.º Quando se reconhecer necessária a criação de uma estância aduaneira junto do depósito franco, constituirá encargo da respectiva empresa a sua conveniente instalação e manutenção, nos termos que forem indicados pela Direcção-Geral das Alfândegas.\n\nArt. 5.º Sempre que o entenda conveniente, a Alfândega mandará visitar as instalações da fábrica, a fim de averiguar das condições de segurança fiscal, podendo visitar todas as dependências, examinar livros e pedir esclarecimentos que julgue necessários sobre a existência de materiais, peças e máquinas e sua aplicação.\n\nArt. 6.º - 1. Os materiais, peças e embalagens vindos do estrangeiro entrarão no recinto do depósito franco mediante bilhete de entrada referido no § 5.º do artigo 146.º da Reforma Aduaneira.\n\n2. A Alfândega verificará, à entrada do depósito franco, a qualidade dessas mercadorias, que se devem destinar à fabricação e acondicionamento dos brinquedos e demais artefactos indicados no n.º 3 do artigo 1.º\n\n3. Quando pela documentação se verifique estar alguma mercadoria sujeita à pauta máxima, será essa mercadoria devidamente identificada para a hipótese da sua saída do recinto para entrada no consumo.\n\n4. A simplificação de formalidades do despacho de entrada no depósito franco de materiais, peças e embalagens estrangeiros não dispensa o cumprimento das disposições relativas ao registo na Repartição do Comércio Externo.\n\nArt. 7.º - 1. A entrada no recinto do depósito franco de peças e materiais de fabrico nacional ou nacionalizados far-se-á mediante a apresentação de relações desse material, em triplicado, as quais serão conferidas e visadas no posto fiscal, ficando ali arquivado um dos exemplares, enviando outro à respectiva estância aduaneira e entregando o restante ao interessado.\n\n2. No caso de o interessado prever que alguma peça ou material tenha de ser retirado do recinto, poderá pedir que a estância aduaneira tome as confrontações necessárias para futura identificação.\n\nArt. 8.º - 1. Do mesmo modo se procederá para a entrada no recinto de ferramentas e utensílios nacionais ou nacionalizados.\n\n2. Os que não puderem ser identificados ou que tenham entrado com isenção de direitos ficam sujeitos a estes, se forem retirados para consumo no País.\n\nArt. 9.º - 1. Os materiais, peças e embalagens estrangeiros entrados no depósito franco ao abrigo desta autorização, quando desviados do seu destino ou aplicação, serão considerados em delito de descaminho.\n\n2. A empresa será subsidiàriamente responsável por infracções que sejam praticadas pelos seus empregados.\n\nArt. 10.º A Direcção-Geral dos Serviços Industriais participará à das Alfândegas qualquer infracção fiscal de que tenha conhecimento.\n\nArt. 11.º - 1. A entrada no depósito franco de máquinas, aparelhos, utensílios e ferramentas para utilização temporária na fábrica bem como de artefactos ou peças que hajam de servir de modelo ou para estudo, far-se-á mediante o processamento de guia especial, independentemente de prestação de garantia, mas com verificação e reverificação pela Alfândega e tomada de sinais para futuras confrontações.\n\n2. Estas guias serão registadas e transcritas num livro existente no posto fiscal, sendo nele dada a respectiva baixa sempre que se faça a correspondente saída do depósito franco.\n\n3. A saída para reexportação será feita no prazo de um ano, com processamento da respectiva guia.\n\n4. O prazo a que se refere o número anterior poderá ser prorrogado pela Alfândega a solicitação da empresa, em pedido devidamente justificado.\n\nArt. 12.º É livre de direitos a saída do depósito franco:\n\n1.º Das peças e materiais referidos no artigo 7.º e respectivos desperdícios;\n\n2.º Das taras, quando não tenham inscrição especial na Pauta de Importação e sejam de uso habitual.\n\nArt. 13.º Os materiais e peças estrangeiros inutilizados ficam sujeitos aos direitos devidos no estado em que se encontrem.\n\nArt. 14.º - 1. Os direitos devidos pelos produtos fabris destinados ao mercado interno, sempre que sejam considerados de fabrico nacional, em conformidade com o artigo 1.º do Decreto-Lei n.º 37683, de 24 de Dezembro de 1949, serão iguais aos mais favoráveis aplicáveis a idênticos produtos quando importados do estrangeiro.\n\n2. Para aplicação do regime referido no n.º 1 deste artigo poderá a Direcção-Geral das Alfândegas solicitar o parecer da Direcção-Geral dos Serviços Industriais.\n\n3. Para a conveniente defesa dos interesses da Fazenda Nacional compete à Direcção-Geral das Alfândegas proceder às formas de fiscalização que julgar necessárias\n\nArt. 15.º - 1. É permitida a saída temporária do depósito franco de:\n\na) Peças ou equipamentos para reparação;\n\nb) Peças para incorporação de produto nacional.\n\n2. A saída far-se-á mediante garantia aos direitos por fiança ou depósito e com processamento de guia especial, da qual constarão o prazo em que o trabalho deverá ser executado e os sinais para futuras confrontações, sendo a verificação feita, pela Alfândega na saída e no regresso ao depósito.\n\n3. Esta guia será registada e transcrita em livro existente no posto fiscal e nele será dada baixa quando a peça regressar ao recinto do depósito franco.\n\nArt. 16.º - 1. Para a saída do depósito franco dos produtos ali fabricados será processada pela empresa interessada uma guia especial da qual constem a quantidade, a qualidade, o peso, o valor, a forma de embalagem e o destino desses produtos, a qual servirá de título de propriedade para conferir o respectivo bilhete de despacho que será:\n\na) De importação, se o destino for o consumo interno;\n\nb) De transferência, se o destino for outro depósito franco;\n\nc) De exportação ou de cabotagem por saída, se o destino for um país estrangeiro ou província ultramarina portuguesa.\n\n2. Qualquer dos despachos referidos no n. 1 deste artigo será processado nos termos do Regulamento das Alfândegas e sujeito ao cumprimento de todas as formalidades legais.\n\nArt. 17.º - 1. Os produtos despachados para exportação seguirão acompanhados de fiscalização até à fronteira ou local de embarque, consoante a via utilizada.\n\n2. Quando a exportação não possa efectuar-se, no todo ou em parte, deverão os aludidos produtos regressar ao depósito franco, salvo se se preferir pagar os respectivos direitos de importação.\n\nArt. 18.º - 1. O expediente do despacho poderá correr em qualquer estância aduaneira dependente da Alfândega de Lisboa, para isso autorizada pela respectiva direcção.\n\n2. Compete à Direcção-Geral das Alfândegas, a requerimento da empresa interessada, conceder autorização, por períodos anuais, para o expediente de despacho correr por estâncias aduaneiras que não estejam dependentes da Alfândega de Lisboa.\n\nArt. 19.º A Alfândega dará ao serviço da Guarda Fiscal junto do depósito franco as instruções que julgue convenientes para a defesa dos interesses da Fazenda Nacional e resolverá as dúvidas que pelo mesmo serviço forem postas.\n\nMarcello Caetano - João Augusto Dias Rosas - Augusto Victor Coelho.\n\nPromulgado em 15 de Março de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "5b1074a938dbb57f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Março\n\nMattel, Inc. (Portugal), Lda., veio solicitar autorização para o estabelecimento de um depósito franco na unidade fabril que vai implantar no lugar de Pedrógão, concelho das Caldas da Rainha, unidade essa que se destina ao fabrico de brinquedos, partes e peças separadas dos mesmos, moldes para a sua confecção e artefactos destinados a recreio educativo.\n\nConsiderando que a interessada se comprometeu a adquirir no mercado interno as matérias-primas e os produtos de fabrico nacional que possam ser utilizados na sua instalação industrial;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "2c23321441de432b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1972-10-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 405/72](https://diariodarepublica.pt/dr/detalhe/decreto/405-1972-690050), publicado em 1972-10-25."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1. É autorizada a firma Mattel, Inc. (Portugal), Lda., a estabelecer um depósito franco nas suas instalações fabris, situadas no lugar de Pedrógão, concelho das Caldas da Rainha.\n\n2. As instalações referidas no n.º1 deste artigo serão exteriormente resguardadas por uma vedação, de conformidade com o artigo 144.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.\n\n3. Neste depósito franco a empresa propõe-se fabricar brinquedos, partes e peças separadas dos mesmos, moldes para a sua confecção, artefactos destinados a recreio educativo e cassetes e respectivas partes constituintes.\n\n> Alterado pelo/a [Decreto n.º 405/72](https://diariodarepublica.pt/dr/detalhe/decreto/405-1972-690050), publicado em 1972-10-25."
+  },
+  "8e377e63441bb8b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Junto do depósito franco funcionará um posto fiscal com o efectivo de um graduado e das praças julgadas necessárias para o seu conveniente funcionamento, de harmonia com as instruções especiais aduaneiras.\n\n2. Todas as despesas com a criação e manutenção do posto são de conta da empresa interessada.\n\n3. A empresa fornecerá instalações para o serviço da Guarda Fiscal, as quais deverão ser aprovadas pelo seu Comando-Geral."
+  },
+  "4587ce9c2783e2a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. No recinto das instalações haverá um gabinete para ser utilizado apenas pelos funcionários aduaneiros que ali vão fazer serviço.\n\n2. As despesas de instalação e manutenção deste gabinete serão suportadas pela mesma empresa."
+  },
+  "c936969b7c5bcede": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nQuando se reconhecer necessária a criação de uma estância aduaneira junto do depósito franco, constituirá encargo da respectiva empresa a sua conveniente instalação e manutenção, nos termos que forem indicados pela Direcção-Geral das Alfândegas."
+  },
+  "e0f154b9472c3c34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSempre que o entenda conveniente, a Alfândega mandará visitar as instalações da fábrica, a fim de averiguar das condições de segurança fiscal, podendo visitar todas as dependências, examinar livros e pedir esclarecimentos que julgue necessários sobre a existência de materiais, peças e máquinas e sua aplicação."
+  },
+  "911b0b81550da0d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Os materiais, peças e embalagens vindos do estrangeiro entrarão no recinto do depósito franco mediante bilhete de entrada referido no § 5.º do artigo 146.º da Reforma Aduaneira.\n\n2. A Alfândega verificará, à entrada do depósito franco, a qualidade dessas mercadorias, que se devem destinar à fabricação e acondicionamento dos brinquedos e demais artefactos indicados no n.º 3 do artigo 1.º\n\n3. Quando pela documentação se verifique estar alguma mercadoria sujeita à pauta máxima, será essa mercadoria devidamente identificada para a hipótese da sua saída do recinto para entrada no consumo.\n\n4. A simplificação de formalidades do despacho de entrada no depósito franco de materiais, peças e embalagens estrangeiros não dispensa o cumprimento das disposições relativas ao registo na Repartição do Comércio Externo."
+  },
+  "01256606f3d36389": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A entrada no recinto do depósito franco de peças e materiais de fabrico nacional ou nacionalizados far-se-á mediante a apresentação de relações desse material, em triplicado, as quais serão conferidas e visadas no posto fiscal, ficando ali arquivado um dos exemplares, enviando outro à respectiva estância aduaneira e entregando o restante ao interessado.\n\n2. No caso de o interessado prever que alguma peça ou material tenha de ser retirado do recinto, poderá pedir que a estância aduaneira tome as confrontações necessárias para futura identificação."
+  },
+  "988ef9eef27d808e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Do mesmo modo se procederá para a entrada no recinto de ferramentas e utensílios nacionais ou nacionalizados.\n\n2. Os que não puderem ser identificados ou que tenham entrado com isenção de direitos ficam sujeitos a estes, se forem retirados para consumo no País."
+  },
+  "fc68f375d820c599": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Os materiais, peças e embalagens estrangeiros entrados no depósito franco ao abrigo desta autorização, quando desviados do seu destino ou aplicação, serão considerados em delito de descaminho.\n\n2. A empresa será subsidiàriamente responsável por infracções que sejam praticadas pelos seus empregados."
+  },
+  "5bc82e160b8407e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA Direcção-Geral dos Serviços Industriais participará à das Alfândegas qualquer infracção fiscal de que tenha conhecimento."
+  },
+  "77ed85c91cf15f2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A entrada no depósito franco de máquinas, aparelhos, utensílios e ferramentas para utilização temporária na fábrica bem como de artefactos ou peças que hajam de servir de modelo ou para estudo, far-se-á mediante o processamento de guia especial, independentemente de prestação de garantia, mas com verificação e reverificação pela Alfândega e tomada de sinais para futuras confrontações.\n\n2. Estas guias serão registadas e transcritas num livro existente no posto fiscal, sendo nele dada a respectiva baixa sempre que se faça a correspondente saída do depósito franco.\n\n3. A saída para reexportação será feita no prazo de um ano, com processamento da respectiva guia.\n\n4. O prazo a que se refere o número anterior poderá ser prorrogado pela Alfândega a solicitação da empresa, em pedido devidamente justificado."
+  },
+  "e0f91e78f5a5d4f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nÉ livre de direitos a saída do depósito franco:\n\n1.º Das peças e materiais referidos no artigo 7.º e respectivos desperdícios;\n\n2.º Das taras, quando não tenham inscrição especial na Pauta de Importação e sejam de uso habitual."
+  },
+  "34c0eb26de6a85b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs materiais e peças estrangeiros inutilizados ficam sujeitos aos direitos devidos no estado em que se encontrem."
+  },
+  "07534e2c5071b127": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Os direitos devidos pelos produtos fabris destinados ao mercado interno, sempre que sejam considerados de fabrico nacional, em conformidade com o artigo 1.º do Decreto-Lei n.º 37683, de 24 de Dezembro de 1949, serão iguais aos mais favoráveis aplicáveis a idênticos produtos quando importados do estrangeiro.\n\n2. Para aplicação do regime referido no n.º 1 deste artigo poderá a Direcção-Geral das Alfândegas solicitar o parecer da Direcção-Geral dos Serviços Industriais.\n\n3. Para a conveniente defesa dos interesses da Fazenda Nacional compete à Direcção-Geral das Alfândegas proceder às formas de fiscalização que julgar necessárias"
+  },
+  "f4602d5d00eee5f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. É permitida a saída temporária do depósito franco de:\n\na) Peças ou equipamentos para reparação;\n\nb) Peças para incorporação de produto nacional.\n\n2. A saída far-se-á mediante garantia aos direitos por fiança ou depósito e com processamento de guia especial, da qual constarão o prazo em que o trabalho deverá ser executado e os sinais para futuras confrontações, sendo a verificação feita, pela Alfândega na saída e no regresso ao depósito.\n\n3. Esta guia será registada e transcrita em livro existente no posto fiscal e nele será dada baixa quando a peça regressar ao recinto do depósito franco."
+  },
+  "c06330bd82f6d0f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Para a saída do depósito franco dos produtos ali fabricados será processada pela empresa interessada uma guia especial da qual constem a quantidade, a qualidade, o peso, o valor, a forma de embalagem e o destino desses produtos, a qual servirá de título de propriedade para conferir o respectivo bilhete de despacho que será:\n\na) De importação, se o destino for o consumo interno;\n\nb) De transferência, se o destino for outro depósito franco;\n\nc) De exportação ou de cabotagem por saída, se o destino for um país estrangeiro ou província ultramarina portuguesa.\n\n2. Qualquer dos despachos referidos no n. 1 deste artigo será processado nos termos do Regulamento das Alfândegas e sujeito ao cumprimento de todas as formalidades legais."
+  },
+  "82d1c08249540af2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. Os produtos despachados para exportação seguirão acompanhados de fiscalização até à fronteira ou local de embarque, consoante a via utilizada.\n\n2. Quando a exportação não possa efectuar-se, no todo ou em parte, deverão os aludidos produtos regressar ao depósito franco, salvo se se preferir pagar os respectivos direitos de importação."
+  },
+  "b6e7326d426df022": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. O expediente do despacho poderá correr em qualquer estância aduaneira dependente da Alfândega de Lisboa, para isso autorizada pela respectiva direcção.\n\n2. Compete à Direcção-Geral das Alfândegas, a requerimento da empresa interessada, conceder autorização, por períodos anuais, para o expediente de despacho correr por estâncias aduaneiras que não estejam dependentes da Alfândega de Lisboa."
+  },
+  "86fe42d70837bf11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA Alfândega dará ao serviço da Guarda Fiscal junto do depósito franco as instruções que julgue convenientes para a defesa dos interesses da Fazenda Nacional e resolverá as dúvidas que pelo mesmo serviço forem postas.\n\nMarcello Caetano - João Augusto Dias Rosas - Augusto Victor Coelho.\n\nPromulgado em 15 de Março de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

@@ -1,0 +1,363 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:209870:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-06-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "023565b3d02cc2d7",
+    "6b179af295b0ddab",
+    "e5c5dbf1487241da",
+    "5a9373bf3143eb84",
+    "15b0e5272d5ecebf",
+    "5addbe8e3a9d2de6"
+   ]
+  },
+  {
+   "date": "1984-06-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:386655:por",
+     "title": "Decreto Regulamentar n.º 44/84",
+     "published": "1984-06-15",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/44-1984-386655"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Adita Artigo 14.º-B",
+    "Adita Artigo 16.º-A",
+    "Adita Artigo 16.º-B"
+   ],
+   "fragments": [
+    "023565b3d02cc2d7",
+    "7342f7b1dcac3873",
+    "f6602b95337ac8df",
+    "b783710c86d1b9d3",
+    "396cfe66f6d1ddf2",
+    "fbd14f3d12a9279a",
+    "67762a5d8e4bc3fc",
+    "42d07f5531b68c90",
+    "e8aad6a79461c05c",
+    "5a8b47b3586e8589",
+    "325ed9b63ac37bf5",
+    "44d0474fcaabd9ec",
+    "0b8d433e36554a5b",
+    "b082a0cc46293e86",
+    "2e367f55ae3af5c3",
+    "3b7b46b929d6d4fc",
+    "450fa384d0c56a0b",
+    "a347f612e17a187d",
+    "1aa0b37759eade03",
+    "2ca0bffe3b8b64e7",
+    "7ac172075c5b96c9",
+    "c8eb4e720fde3508",
+    "92ef8969d3e01fe7",
+    "a8fa4842cd3900de",
+    "5afc4e1bacf5fd1a",
+    "134179b381d469ed",
+    "260a9f4ecd4b5740",
+    "ef5b0c3fba044c32",
+    "c87513905628a8d3",
+    "a508b9aba37fbbe0"
+   ]
+  }
+ ],
+ "fragments": {
+  "023565b3d02cc2d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Junho\n\nO [Decreto-Lei n.º 304/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1982-397334), de 31 de Julho, que criou a Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família, veio reconhecer o papel primordial da família e traduzir na própria orgânica da Administração Pública esse reconhecimento, criando as condições favoráveis ao equacionamento dos interesses e aspirações das famílias portuguesas e à dinamização intensa da política familiar, bem como ao incremento da participação das famílias no processo de desenvolvimento que a política familiar desencadeia.\n\nTorna-se agora necessário proceder à implementação de tal estrutura orgânica, habilitando-a a prosseguir eficazmente os objectivos que se propõe, e, conforme o disposto no artigo 13.º do citado diploma, definir a estrutura interna da Direcção-Geral da Família, as competências dos respectivos serviços, o quadro e o regime do pessoal.\n\nNo desenvolvimento do regime contido no [Decreto-Lei n.º 304/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1982-397334), de 31 de Julho, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "6b179af295b0ddab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições\n\nArtigo 1.º A Direcção-Geral da Família é o serviço operativo da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família incumbido de desenvolver as acções necessárias à implementação e execução da política familiar nos seguintes domínios:\n\na) Estudos e publicações;\n\nb) Formação familiar;\n\nc) Acção e promoção familiar.\n\nArt. 2.º Compete à Direcção-Geral da Família:\n\na) Estudar e pôr em execução programas integrados e projectos específicos conducentes à promoção da família e à melhoria do seu quadro de vida;\n\nb) Apoiar a implementação da política familiar a nível local;\n\nc) Promover a formação de técnicos especializados na área da família;\n\nd) Elaborar e promover estudos técnicos dos assuntos da família;\n\ne) Promover a recolha e a divulgação da informação no âmbito da política familiar e da promoção da família;\n\nf) Assegurar a gestão administrativa, orçamental e patrimonial dos órgãos e serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família."
+  },
+  "e5c5dbf1487241da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços\n\nArt. 3.º O director-geral é o órgão que gere a Direcção-Geral da Família e será coadjuvado por um subdirector-geral, que o substituirá nas suas ausências ou impedimentos.\n\nArt. 4.º Para o exercício das suas funções, a Direcção-Geral da Família dispõe dos seguintes serviços:\n\na) Direcção de Serviços de Estudos e Publicações;\n\nb) Direcção de Serviços de Formação Familiar;\n\nc) Direcção de Serviços de Acção e Promoção Familiar;\n\nd) Repartição Administrativa.\n\nArt. 5.º - 1 - À Direcção de Serviços de Estudos e Publicações cabe proceder aos estudos técnicos necessários à definição e execução da política familiar e à divulgação da informação na área da família.\n\n2 - Compete à Direcção de Serviços de Estudos e Publicações:\n\na) Estudar novas formas de apoio à família conducentes à melhoria do seu quadro de vida;\n\nb) Assegurar a análise dos diplomas legais com incidência familiar;\n\nc) Proceder à análise e estudo dos factores de desagregação e marginalidade no âmbito da vida familiar, com vista à prevenção de tais situações;\n\nd) Estudar formas de superação de carência do meio familiar normal e propor soluções alternativas às actualmente existentes;\n\ne) Cooperar com outros organismos ou instituições relacionados com a investigação e estudo na área da família;\n\nf) Colher e organizar os elementos de estudo e de informação na área da família;\n\ng) Difundir a informação que contribua para o conhecimento da realidade familiar e dar resposta às solicitações do exterior neste domínio;\n\nh) Proceder à edição das publicações do sector;\n\ni) Apoiar a publicação de obras sobre a família.\n\nArt. 6.º - 1 - A Direcção de Serviços de Formação Familiar é o serviço incumbido de promover a preparação das famílias para o exercício das funções que lhes são próprias, bem como de proporcionar uma formação técnica especializada na área da família.\n\n2 - Compete à Direcção de Serviços de Formação Familiar:\n\na) Desenvolver, apoiar e participar em programas de educação permanente quer no âmbito da vida familiar e comunitária quer em áreas específicas;\n\nb) Promover e apoiar a formação de técnicos especializados na área da família;\n\nc) Desenvolver e apoiar programas que contribuam para o conhecimento e solução dos problemas específicos que afectam as famílias.\n\nArt. 7.º - 1 - A Direcção de Serviços de Acção e Promoção Familiar tem por objectivo geral promover e apoiar a implementação da política familiar a nível local de uma forma ajustada às características das populações.\n\n2 - Compete à Direcção de Serviços de Acção e Promoção Familiar:\n\na) Executar programas de desenvolvimento integral no âmbito da vida familiar e comunitária visando a melhoria do seu quadro de vida;\n\nb) Incentivar a criação de equipamento e serviços específicos de apoio à família;\n\nc) Fomentar a participação das famílias na vida das comunidades e na gestão dos recursos locais;\n\nd) Promover a actuação de voluntários em programas de promoção da família.\n\nArt. 8.º - 1 - A Repartição Administrativa assegura a gestão administrativa, orçamental e patrimonial e o apoio logístico aos órgãos e serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família.\n\n2 - À Repartição Administrativa incumbe:\n\na) Assegurar o serviço de expediente e arquivo;\n\nb) Executar as actividades de administração do pessoal;\n\nc) Assegurar a elaboração e a gestão orçamental;\n\nd) Assegurar a aquisição de bens e serviços indispensáveis ao bom funcionamento dos serviços que apoia;\n\ne) Executar as actividades inerentes ao processamento da contabilidade;\n\nf) Zelar pela conservação das instalações afectas aos serviços;\n\ng) Superintender no pessoal operário e auxiliar."
+  },
+  "5a9373bf3143eb84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Funcionamento dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Funcionamento dos serviços\n\nArt. 9.º O Ministro dos Assuntos Sociais exercerá por si ou mediante delegação a superintendência dos serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família, promovendo reuniões periódicas com os dirigentes dos serviços nele integrados para assegurar a eficiência do sistema e avaliar da prossecução dos seus objectivos."
+  },
+  "15b0e5272d5ecebf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do pessoal\n\nArt. 10.º O quadro do pessoal da Direcção-Geral da Família é o que consta dos mapas A e B anexos a este diploma.\n\nArt. 11.º O provimento dos lugares do pessoal dirigente, a que se refere o mapa A, far-se-á nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho.\n\nArt. 12.º - 1 - O provimento do pessoal, a que se refere o mapa B anexo ao presente diploma, será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.\n\n2 - Findo o prazo referido no número anterior, o funcionário:\n\na) Será provido definitivamente se tiver revelado aptidão para o lugar;\n\nb) Será exonerado ou regressará ao serviço de origem, conforme se trate de nomeação provisória ou de comissão de serviço, se não tiver revelado aptidão para o lugar.\n\n3 - O tempo de serviço prestado em regime de comissão de serviço conta, para todos os efeitos legais:\n\na) No lugar de origem, quando à comissão se não seguir provimento definitivo;\n\nb) No lugar do quadro da Direcção-Geral da Família em que vier a ser provido definitivamente, finda a comissão.\n\nArt. 13.º Poderá ser contratado além do quadro o pessoal indispensável à realização de tarefas que não possam ser asseguradas pelo pessoal do quadro, nos termos da lei vigente.\n\nArt. 14.º Para o exercício transitório de funções que não possam ser asseguradas pelo pessoal do quadro poderá ser requisitado ou destacado pessoal, nos termos previstos nos n.os 1 e 2 do artigo 10.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio.\n\nArt. 15.º - 1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com o mínimo de 3 anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de técnico auxiliar de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente.\n\nArt. 16.º Aos lugares de educador de infância é aplicável o regime estabelecido pelo [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, e legislação complementar.\n\nArt. 17.º - 1 - Os lugares de técnico auxiliar de serviço social principal e de técnico auxiliar de serviço social de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de serviço social de 1.ª classe e técnicos auxiliares de serviço social de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de técnico auxiliar de serviço social de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral dos liceus ou equivalente e formação técnico-profissional complementar de serviço social com a duração de 2 anos."
+  },
+  "5addbe8e3a9d2de6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias\n\nArt. 18.º - 1 - O pessoal que se encontra destacado no Gabinete do Secretário de Estado da Família nos termos dos artigos 8.º e 9.º do [Decreto-Lei n.º 267/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1977-250416), de 2 de Julho, transitará para os lugares do quadro B anexo a este diploma, com observância do disposto na alínea b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, sem prejuízo das habilitações legais exigíveis, de acordo com as seguintes regras:\n\na) Para categoria idêntica à que o funcionário já possui;\n\nb) Para categoria que integra a função que o funcionário ou agente desempenha, remunerada pela mesma letra de vencimento ou por letra imediatamente superior quando não haja coincidência de remunerações.\n\n2 - O tempo de serviço prestado na categoria que o funcionário já detém conta para efeitos de progressão na respectiva carreira quando se verifique a situação prevista na alínea b) do n.º 1.\n\n3 - As nomeações feitas nos termos do n.º 1 terão carácter definitivo desde que o funcionário tenha provimento definitivo no lugar de origem e exerça funções da mesma natureza.\n\nArt. 19.º As despesas com o pessoal serão, até ao final do ano corrente, satisfeitas pelas verbas existentes no orçamento privativo da Secretaria de Estado da Família.\n\nArt. 20.º As dúvidas suscitadas pela aplicação deste diploma serão esclarecidas por despacho do Ministro dos Assuntos Sociais e do Ministro das Finanças e do Plano ou da Reforma Administrativa, quando respeitantes a problemas de ordem financeira ou de organização de serviços e de pessoal, respectivamente.\n\nFrancisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa - António José de Castro Bagão Félix - António Jorge de Figueiredo Lopes.\n\nPromulgado em 17 de Maio de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 25 de Maio de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.\n\nAnexo a que se refere o artigo 10.º\n\nMAPA A\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12902/00030006.pdf)\n\nMAPA B\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12902/00030006.pdf)"
+  },
+  "7342f7b1dcac3873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições"
+  },
+  "f6602b95337ac8df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Direcção-Geral da Família é o serviço operativo da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família incumbido de desenvolver as acções necessárias à implementação e execução da política familiar nos seguintes domínios:\n\na) Estudos e publicações;\n\nb) Formação familiar;\n\nc) Acção e promoção familiar."
+  },
+  "b783710c86d1b9d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCompete à Direcção-Geral da Família:\n\na) Estudar e pôr em execução programas integrados e projectos específicos conducentes à promoção da família e à melhoria do seu quadro de vida;\n\nb) Apoiar a implementação da política familiar a nível local;\n\nc) Promover a formação de técnicos especializados na área da família;\n\nd) Elaborar e promover estudos técnicos dos assuntos da família;\n\ne) Promover a recolha e a divulgação da informação no âmbito da política familiar e da promoção da família;\n\nf) Assegurar a gestão administrativa, orçamental e patrimonial dos órgãos e serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família."
+  },
+  "396cfe66f6d1ddf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços"
+  },
+  "fbd14f3d12a9279a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO director-geral é o órgão que gere a Direcção-Geral da Família e será coadjuvado por um subdirector-geral, que o substituirá nas suas ausências ou impedimentos."
+  },
+  "67762a5d8e4bc3fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nPara o exercício das suas funções, a Direcção-Geral da Família dispõe dos seguintes serviços:\n\na) Direcção de Serviços de Estudos e Publicações;\n\nb) Direcção de Serviços de Formação Familiar;\n\nc) Direcção de Serviços de Acção e Promoção Familiar;\n\nd) Repartição Administrativa."
+  },
+  "42d07f5531b68c90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - À Direcção de Serviços de Estudos e Publicações cabe proceder aos estudos técnicos necessários à definição e execução da política familiar e à divulgação da informação na área da família.\n\n2 - Compete à Direcção de Serviços de Estudos e Publicações:\n\na) Estudar novas formas de apoio à família conducentes à melhoria do seu quadro de vida;\n\nb) Assegurar a análise dos diplomas legais com incidência familiar;\n\nc) Proceder à análise e estudo dos factores de desagregação e marginalidade no âmbito da vida familiar, com vista à prevenção de tais situações;\n\nd) Estudar formas de superação de carência do meio familiar normal e propor soluções alternativas às actualmente existentes;\n\ne) Cooperar com outros organismos ou instituições relacionados com a investigação e estudo na área da família;\n\nf) Colher e organizar os elementos de estudo e de informação na área da família;\n\ng) Difundir a informação que contribua para o conhecimento da realidade familiar e dar resposta às solicitações do exterior neste domínio;\n\nh) Proceder à edição das publicações do sector;\n\ni) Apoiar a publicação de obras sobre a família."
+  },
+  "e8aad6a79461c05c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - A Direcção de Serviços de Formação Familiar é o serviço incumbido de promover a preparação das famílias para o exercício das funções que lhes são próprias, bem como de proporcionar uma formação técnica especializada na área da família.\n\n2 - Compete à Direcção de Serviços de Formação Familiar:\n\na) Desenvolver, apoiar e participar em programas de educação permanente quer no âmbito da vida familiar e comunitária quer em áreas específicas;\n\nb) Promover e apoiar a formação de técnicos especializados na área da família;\n\nc) Desenvolver e apoiar programas que contribuam para o conhecimento e solução dos problemas específicos que afectam as famílias."
+  },
+  "5a8b47b3586e8589": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - A Direcção de Serviços de Acção e Promoção Familiar tem por objectivo geral promover e apoiar a implementação da política familiar a nível local de uma forma ajustada às características das populações.\n\n2 - Compete à Direcção de Serviços de Acção e Promoção Familiar:\n\na) Executar programas de desenvolvimento integral no âmbito da vida familiar e comunitária visando a melhoria do seu quadro de vida;\n\nb) Incentivar a criação de equipamento e serviços específicos de apoio à família;\n\nc) Fomentar a participação das famílias na vida das comunidades e na gestão dos recursos locais;\n\nd) Promover a actuação de voluntários em programas de promoção da família."
+  },
+  "325ed9b63ac37bf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - A Repartição Administrativa assegura a gestão administrativa, orçamental e patrimonial e o apoio logístico aos órgãos e serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família.\n\n2 - À Repartição Administrativa incumbe:\n\na) Assegurar o serviço de expediente e arquivo;\n\nb) Executar as actividades de administração do pessoal;\n\nc) Assegurar a elaboração e a gestão orçamental;\n\nd) Assegurar a aquisição de bens e serviços indispensáveis ao bom funcionamento dos serviços que apoia;\n\ne) Executar as actividades inerentes ao processamento da contabilidade;\n\nf) Zelar pela conservação das instalações afectas aos serviços;\n\ng) Superintender no pessoal operário e auxiliar."
+  },
+  "44d0474fcaabd9ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Funcionamento dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Funcionamento dos serviços"
+  },
+  "0b8d433e36554a5b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO Ministro dos Assuntos Sociais exercerá por si ou mediante delegação a superintendência dos serviços da Estrutura Orgânica do Ministério dos Assuntos Sociais para os Assuntos da Família, promovendo reuniões periódicas com os dirigentes dos serviços nele integrados para assegurar a eficiência do sistema e avaliar da prossecução dos seus objectivos."
+  },
+  "b082a0cc46293e86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do pessoal"
+  },
+  "2e367f55ae3af5c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO quadro do pessoal da Direcção-Geral da Família é o que consta dos mapas A e B anexos a este diploma."
+  },
+  "3b7b46b929d6d4fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO provimento dos lugares do pessoal dirigente, a que se refere o mapa A, far-se-á nos termos do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho."
+  },
+  "450fa384d0c56a0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - O provimento do pessoal, a que se refere o mapa B anexo ao presente diploma, será feito por nomeação provisória ou em comissão de serviço pelo período de 1 ano.\n\n2 - Findo o prazo referido no número anterior, o funcionário:\n\na) Será provido definitivamente se tiver revelado aptidão para o lugar;\n\nb) Será exonerado ou regressará ao serviço de origem, conforme se trate de nomeação provisória ou de comissão de serviço, se não tiver revelado aptidão para o lugar.\n\n3 - O tempo de serviço prestado em regime de comissão de serviço conta, para todos os efeitos legais:\n\na) No lugar de origem, quando à comissão se não seguir provimento definitivo;\n\nb) No lugar do quadro da Direcção-Geral da Família em que vier a ser provido definitivamente, finda a comissão."
+  },
+  "a347f612e17a187d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nPoderá ser contratado além do quadro o pessoal indispensável à realização de tarefas que não possam ser asseguradas pelo pessoal do quadro, nos termos da lei vigente."
+  },
+  "1aa0b37759eade03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nPara o exercício transitório de funções que não possam ser asseguradas pelo pessoal do quadro poderá ser requisitado ou destacado pessoal, nos termos previstos nos n.os 1 e 2 do artigo 10.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio."
+  },
+  "2ca0bffe3b8b64e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º-A",
+   "in_force_from": "1984-06-20",
+   "changed_by": [
+    "Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15."
+   ],
+   "markdown": "###### Artigo 14.º-A\n\n1 - O lugar de chefe de repartição será provido de entre chefes de secção com 3 anos de bom e efectivo serviço na categoria ou de entre indivíduos habilitados com curso superior e experiência profissional adequada.\n\n2 - O lugar de chefe de secção será provido de entre indivíduos habilitados com o curso superior e experiência profissional adequada ao exercício das correspondentes funções ou de entre primeiros-oficiais e técnicos auxiliares principais com 3 anos de bom e efectivo serviço nas respectivas categorias.\n\n> Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15."
+  },
+  "7ac172075c5b96c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º-B",
+   "in_force_from": "1984-06-20",
+   "changed_by": [
+    "Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15."
+   ],
+   "markdown": "###### Artigo 14.º-B\n\nOs lugares de técnico superior, técnico, oficial administrativo, escriturário-dactilógrafo, telefonista, contínuo e motorista serão providos nos termos da lei geral.\n\n> Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15."
+  },
+  "c8eb4e720fde3508": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - Os lugares de técnico auxiliar principal e de técnico auxiliar de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de 1.ª classe e técnicos auxiliares de 2.ª classe com o mínimo de 3 anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de técnico auxiliar de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral do ensino secundário ou equivalente."
+  },
+  "92ef8969d3e01fe7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nAos lugares de educador de infância é aplicável o regime estabelecido pelo [Decreto-Lei n.º 513-M1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-m1-1979-147400), de 27 de Dezembro, e legislação complementar."
+  },
+  "a8fa4842cd3900de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º-A",
+   "in_force_from": "1984-06-20",
+   "changed_by": [
+    "Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15."
+   ],
+   "markdown": "###### Artigo 16.º-A\n\nAo lugar de técnico de enfermagem é aplicável o regime estabelecido pelo [Decreto-Lei n.º 305/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1981-568308), de 12 de Novembro, e legislação complementar.\n\n> Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15."
+  },
+  "5afc4e1bacf5fd1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º-B",
+   "in_force_from": "1984-06-20",
+   "changed_by": [
+    "Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15."
+   ],
+   "markdown": "###### Artigo 16.º-B\n\n1 - Os lugares de técnico de serviço social principal e de técnico de serviço social de 1.ª classe, serão providos de entre, respectivamente, técnicos de serviço social de 1.ª classe e técnicos de serviço social de 2.ª classe com o mínimo de 3 anos de bom e efectivo serviço na categoria e habilitados com o curso superior de Serviço Social.\n\n2 - Os lugares de técnico de serviço social de 2.ª classe serão providos de entre indivíduos habilitados com o curso superior de Serviço Social.\n\n> Aditado pelo/a [Decreto Regulamentar n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1984-386655), publicado em 1984-06-15."
+  },
+  "134179b381d469ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - Os lugares de técnico auxiliar de serviço social principal e de técnico auxiliar de serviço social de 1.ª classe serão providos de entre, respectivamente, técnicos auxiliares de serviço social de 1.ª classe e técnicos auxiliares de serviço social de 2.ª classe com um mínimo de 3 anos de bom e efectivo serviço na categoria.\n\n2 - Os lugares de técnico auxiliar de serviço social de 2.ª classe serão providos de entre indivíduos habilitados com o curso geral dos liceus ou equivalente e formação técnico-profissional complementar de serviço social com a duração de 2 anos."
+  },
+  "260a9f4ecd4b5740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias"
+  },
+  "ef5b0c3fba044c32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - O pessoal que se encontra destacado no Gabinete do Secretário de Estado da Família nos termos dos artigos 8.º e 9.º do [Decreto-Lei n.º 267/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1977-250416), de 2 de Julho, transitará para os lugares do quadro B anexo a este diploma, com observância do disposto na alínea b) do artigo 19.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, sem prejuízo das habilitações legais exigíveis, de acordo com as seguintes regras:\n\na) Para categoria idêntica à que o funcionário já possui;\n\nb) Para categoria que integra a função que o funcionário ou agente desempenha, remunerada pela mesma letra de vencimento ou por letra imediatamente superior quando não haja coincidência de remunerações.\n\n2 - O tempo de serviço prestado na categoria que o funcionário já detém conta para efeitos de progressão na respectiva carreira quando se verifique a situação prevista na alínea b) do n.º 1.\n\n3 - As nomeações feitas nos termos do n.º 1 terão carácter definitivo desde que o funcionário tenha provimento definitivo no lugar de origem e exerça funções da mesma natureza."
+  },
+  "c87513905628a8d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nAs despesas com o pessoal serão, até ao final do ano corrente, satisfeitas pelas verbas existentes no orçamento privativo da Secretaria de Estado da Família."
+  },
+  "a508b9aba37fbbe0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nAs dúvidas suscitadas pela aplicação deste diploma serão esclarecidas por despacho do Ministro dos Assuntos Sociais e do Ministro das Finanças e do Plano ou da Reforma Administrativa, quando respeitantes a problemas de ordem financeira ou de organização de serviços e de pessoal, respectivamente.\n\nFrancisco José Pereira Pinto Balsemão - Luís Eduardo da Silva Barbosa - António José de Castro Bagão Félix - António Jorge de Figueiredo Lopes.\n\nPromulgado em 17 de Maio de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 25 de Maio de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.\n\nAnexo a que se refere o artigo 10.º\n\nMAPA A\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12902/00030006.pdf)\n\nMAPA B\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/12902/00030006.pdf)"
+  }
+ }
+}

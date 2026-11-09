@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-03-18'
+version_history:
+  file: decreto-lei-441-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-10-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-03-18'
+    amending: pt:dre:388047:por
+    amending_title: Decreto-Lei n.º 50/81
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:32:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 50/81. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-441-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,27 +136,43 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - Fica o Governo autorizado, através do Ministro das Finanças e do Plano, a celebrar um contrato de empréstimo em várias moedas com a Empresa de Celulose e Papel de Portugal, E. P. -Portucel até ao limite máximo do contravalor em escudos de 19200000 dólares.
+###### Artigo 1.º
+
+1 - Fica o Governo autorizado, através do Ministro das Finanças e do Plano, a celebrar um contrato de empréstimo em várias moedas com a Empresa de Celulose e Papel de Portugal, E. P. -Portucel até ao limite máximo do contravalor em escudos de 19200000 dólares.
 
 2 - O produto do empréstimo destina-se exclusivamente a financiar despesas realizadas pela Portucel, no âmbito da execução da parte A.2 do projecto, descritas no apêndice 2 do Acordo de Empréstimo celebrado com o Banco Internacional de Reconstrução e Desenvolvimento.
 
-Art. 2.º A utilização do empréstimo será feita de acordo com as condições de saque estabelecidas no contrato de empréstimo a celebrar entre o Estado Português e o Banco Internacional de Reconstrução e Desenvolvimento.
+###### Artigo 2.º
 
-Art. 3.º - 1 - O reembolso do empréstimo será feito em vinte e quatro prestações semestrais, aproximadamente iguais, vencendo-se a primeira em 1 de Dezembro de 1983 e a última em 1 de Junho de 1995.
+A utilização do empréstimo será feita de acordo com as condições de saque estabelecidas no contrato de empréstimo a celebrar entre o Estado Português e o Banco Internacional de Reconstrução e Desenvolvimento.
 
-2 - Os juros serão pagáveis semestralmente nos dias 1 de Junho e 1 de Dezembro e contados dia a dia à taxa de juro idêntica à que vier a ser fixada no contrato de empréstimo com o Banco Internacional de Reconstrução e Desenvolvimento.
+###### Artigo 3.º
+
+1 - O reembolso do empréstimo será feito em vinte e quatro prestações semestrais, aproximadamente iguais, vencendo-se a primeira em 1 de Dezembro de 1983 e a última em 1 de Junho de 1995.
+
+2 - Os juros serão pagáveis semestralmente nos dias 1 de Junho e 1 de Dezembro e contados dia a dia à taxa de juro de 10%.
 
 3 - O mutuário pagará ao Estado uma comissão de imobilização, sobre as parcelas não levantadas do empréstimo, equivalente ao valor da comissão a pagar pelo Estado ao Banco em conformidade com o Acordo de Empréstimo.
 
 4 - O pagamento do capital, juros e comissão de imobilização será efectuado em escudos.
 
-Art. 4.º Qualquer alteração mais favorável que vier a ser introduzida no contrato celebrado entre o Banco Internacional de Reconstrução e Desenvolvimento e o Estado produzirá automaticamente efeitos neste contrato.
+> Alterado pelo/a [Decreto-Lei n.º 50/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1981-388047), publicado em 1981-03-18.
 
-Art. 5.º Fica a Portucel obrigada a inscrever nos seus orçamentos anuais as importâncias necessárias ao serviço do empréstimo.
+###### Artigo 4.º
 
-Art. 6.º As dúvidas suscitadas na aplicação deste decreto serão resolvidas por despacho do Ministro das Finanças e do Plano.
+Qualquer alteração mais favorável que vier a ser introduzida no contrato celebrado entre o Banco Internacional de Reconstrução e Desenvolvimento e o Estado produzirá automaticamente efeitos neste contrato.
 
-Art. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+###### Artigo 5.º
+
+Fica a Portucel obrigada a inscrever nos seus orçamentos anuais as importâncias necessárias ao serviço do empréstimo.
+
+###### Artigo 6.º
+
+As dúvidas suscitadas na aplicação deste decreto serão resolvidas por despacho do Ministro das Finanças e do Plano.
+
+###### Artigo 7.º
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
 

@@ -38,10 +38,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-01-01'
+version_history:
+  file: decreto-lei-511-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-11-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-01-01'
+    amending: pt:dre:578727:por
+    amending_title: Decreto-Lei n.º 321/2001; Decreto-Lei n.º 228/2003; Decreto-Lei n.º 157/2005
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Adita Artigo 17.º-A
+    - Altera Artigo 19.º
+    - Altera Artigo 62.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 36.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/511/1999/11/24/p/dre/pt/html
@@ -67,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:14:18Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 321/2001; Decreto-Lei
+    n.º 228/2003; Decreto-Lei n.º 157/2005. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1999/decreto-lei-511-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -300,20 +322,6 @@ Da aplicação do Estatuto aprovado pelo presente diploma não pode resultar red
 
 O pessoal na situação de pré-aposentação em efectividade de serviço que se encontre nas condições fixadas no artigo 1.º do [Decreto-Lei n.º 66/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-1998-197364), de 18 de Março, mantém-se na mesma situação, sendo-lhe aplicável o regime constante do referido diploma legal.
 
-Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho.
-
-Promulgado em 8 de Novembro de 1999.
-
-Publique-se.
-
-O Presidente da República, JORGE SAMPAIO.
-
-Referendado em 11 de Novembro de 1999.
-
-O Primeiro-Ministro, António Manuel de Oliveira Guterres.
-
-ESTATUTO DO PESSOAL DA POLÍCIA DE SEGURANÇA PÚBLICA
-
 ### CAPÍTULO I — Disposições gerais
 
 ###### Artigo 1.º — Âmbito
@@ -478,7 +486,7 @@ Considera-se em inactividade temporária o pessoal que se encontre afastado do s
 
 a) Atinja o limite de idade estabelecido para o respectivo posto;
 
-b) Tenha atingido 55 anos de idade, independentemente do tempo de serviço, ou mais de 36 anos de serviço, independentemente da idade, requeira a passagem à situação de pré-aposentação e esta lhe seja concedida;
+b) Tenha pelo menos 55 anos de idade e 36 anos de serviço e requeira a passagem a essa condição;
 
 c) Seja considerado pela Junta Superior de Saúde com incapacidade parcial permanente para o exercício das correspondentes funções, mas apresente capacidade para o desempenho de outras funções.
 
@@ -488,23 +496,33 @@ c) Seja considerado pela Junta Superior de Saúde com incapacidade parcial perma
 
 4 - O pessoal abrangido pelas situações de pré-aposentação pode, a todo o tempo, renunciar a essa situação, ficando sujeito ao regime geral de aposentação.
 
+> Alterado pelo/a [Decreto-Lei n.º 157/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2005-150714), publicado em 2005-09-20.
+
 ###### Artigo 17.º — Regime
 
-1 - O pessoal em situação de pré-aposentação pode encontrar-se em efectividade de serviço ou fora de efectividade de serviço.
+1 - Na situação de pré-aposentação, o pessoal presta serviço compatível com o seu estado físico ou intelectual, em conformidade com os respectivos conhecimentos e experiência e com as necessidades e conveniências dos serviços, não lhe podendo ser cometidas, salvo em casos excepcionais, funções de comando ou de direcção.
 
-2 - O efectivo do pessoal com funções policiais na situação de pré-aposentação não é fixo.
+2 - O regime de prestação de serviço previsto no número anterior é definido por portaria do Ministro da Administração Interna.
 
 3 - Na situação de pré-aposentação, o pessoal continua sujeito ao regime de incompatibilidades enquanto se encontrar em efectividade de serviço e conserva os direitos e regalias do pessoal no activo, com excepção dos seguintes:
 
 a) Direito de ocupação de lugar no quadro de pessoal;
 
-b) Direito de acesso e progressão na carreira.
+b) Direito de promoção.
 
-4 - Na situação de pré-aposentação, o pessoal pode, a todo o tempo, ser chamado ou requerer a prestação de serviço compatível com o seu estado físico ou intelectual, em conformidade com os respectivos conhecimentos e experiência e com as necessidades e conveniências dos serviços, não lhe podendo ser cometidas funções de comando ou de direcção.
+4 - A remuneração do pessoal na situação de pré-aposentação é igual à remuneração base média do último ano, acrescida dos suplementos a que porventura tenham direito.
 
-5 - A convocação a que se refere o número anterior é da competência do Ministro da Administração Interna, sob proposta do director nacional.
+> Alterado pelo/a [Decreto-Lei n.º 157/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2005-150714), publicado em 2005-09-20.
 
-6 - O regime remuneratório do pessoal na pré-aposentação é o constante do artigo 19.º do [Decreto-Lei n.º 58/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1990-334630), de 14 de Fevereiro.
+###### Artigo 17.º-A — Contingente em efectividade de serviço
+
+1 - É fixado anualmente, por despacho do Ministro da Administração Interna, o contingente a colocar na situação de pré-aposentação na efectividade de serviço.
+
+2 - Se o número de pessoal em situação de pré-aposentação exceder o contingente definido nos termos do número anterior, é colocado fora da efectividade de serviço, na quantidade excedente, o pessoal que o tenha requerido.
+
+3 - As regras de prioridade no deferimento dos requerimentos são estabelecidas por despacho do director nacional da PSP, tendo em conta a idade e o tempo de serviço.
+
+> Aditado pelo/a [Decreto-Lei n.º 157/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2005-150714), publicado em 2005-09-20.
 
 ###### Artigo 18.º — Limites de idade
 
@@ -540,9 +558,11 @@ b) Seja colocado nessa situação por motivos disciplinares;
 
 c) Seja considerado incapaz para todo o serviço pela Junta Superior de Saúde, desde que tenha prestado, pelo menos, cinco anos de serviço;
 
-d) Reúna as condições estabelecidas na lei para a aposentação extraordinária.
+d) Tenha pelo menos 60 anos de idade e a requeira;
 
-3 - Transita igualmente para a situação de aposentação o pessoal que se encontre nas situações descritas no artigo 1.º do [Decreto-Lei n.º 170/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-1994-305583), de 24 de Junho, com as consequências decorrentes do artigo 2.º do mesmo diploma legal.
+e) Complete cinco anos na situação de pré-aposentação.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2005-150714), publicado em 2005-09-20.
 
 ###### Artigo 20.º — Data da passagem à aposentação
 
@@ -660,9 +680,9 @@ b) Três anos nos restantes.
 
 ###### Artigo 29.º — Superintendente-chefe
 
-1 - O recrutamento para o posto de superintendente-chefe é feito, mediante concurso de avaliação curricular, de acordo com as vagas existentes, de entre superintendentes com um mínimo de três anos de efectividade de serviço no posto.
+O recrutamento para o posto de superintendente-chefe é feito, mediante concurso de avaliação curricular, de acordo com as vagas existentes, de entre superintendentes com um mínimo de três anos de efectividade de serviço no posto.
 
-2 - Para o efeito do disposto no número anterior, a responsabilidade pelas operações de selecção competirá a uma comissão de avaliação, designada por despacho do director nacional, constituída por oficiais com o posto de superintendente-chefe.
+> Alterado pelo/a [Decreto-Lei n.º 228/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2003-493702), publicado em 2003-09-27.
 
 ###### Artigo 30.º — Superintendente
 
@@ -670,9 +690,15 @@ O recrutamento para o posto de superintendente é feito, mediante concurso de av
 
 ###### Artigo 31.º — Intendente
 
-1 - O recrutamento para o posto de intendente é feito, mediante concurso de avaliação curricular, de acordo com as vagas existentes, de entre subintendentes habilitados com licenciatura ministrada pelo Instituto Superior de Ciências Policiais e Segurança Interna com um mínimo de quatro anos de efectividade de serviço no posto.
+1 - O recrutamento para o posto de intendente é feito, mediante concurso de avaliação curricular, de acordo com as vagas existentes, de entre subintendentes habilitados com licenciatura ministrada pelo Instituto Superior de Ciências Policiais e Segurança Interna com um mínimo de quatro anos de efectividade de serviço no posto, que tenham frequentado, com aproveitamento, acção formativa adequada.
 
-2 - O concurso de avaliação curricular para acesso ao posto de intendente inclui obrigatoriamente a discussão de um trabalho inédito versando tema relevante no âmbito da segurança interna, o qual, para efeito de classificação final, terá ponderação igual a 30% da nota final global, bem como a frequência de acção formativa adequada, com duração de seis meses, cuja classificação terá carácter eliminatório e relevará para a classificação final do concurso, com uma ponderação igual a 30%.
+2 - A acção formativa a que se refere o número anterior integra obrigatoriamente uma componente escolar e a discussão de um trabalho inédito sobre tema relevante do âmbito da segurança interna.
+
+3 - Para efeitos de classificação final no concurso de avaliação curricular, a componente escolar da acção formativa e o trabalho inédito relevam com a ponderação de 25% e 15%, respectivamente.
+
+4 - As normas de admissão, frequência e avaliação, bem como a estrutura da acção formativa são aprovadas por portaria do Ministro da Administração Interna.
+
+> Alterado pelo/a [Decreto-Lei n.º 228/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2003-493702), publicado em 2003-09-27.
 
 ###### Artigo 32.º — Subintendente
 
@@ -700,7 +726,9 @@ O recrutamento para o posto de comissário é feito, mediante concurso de avalia
 
 ###### Artigo 36.º — Subchefe
 
-O recrutamento para o posto de subchefe é feito, de acordo com as vagas existentes, de entre agentes principais habilitados com curso de formação adequado ministrado pela Escola Prática de Polícia, pela ordem de classificações obtidas no respectivo curso, ao qual poderão ser admitidos desde que detenham um mínimo de três anos de efectivo serviço no posto, mediante processo de selecção adequado, nos termos de regulamento aprovado por portaria do Ministro da Administração Interna.
+O recrutamento para o posto de subchefe é feito, de acordo com as vagas existentes, de entre agentes principais, independentemente do número de anos de serviço, ou de entre agentes que tenham um mínimo de sete anos de serviço efectivo no posto, habilitados com curso de formação adequado ministrado pela Escola Prática de Polícia, pela ordem de classificações obtidas no respectivo curso, ao qual são admitidos mediante processo de selecção adequado, nos termos de regulamento aprovado por portaria do Ministro da Administração Interna.
+
+> Alterado pelo/a [Decreto-Lei n.º 321/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2001-578727), publicado em 2001-12-14.
 
 ##### SUBSECÇÃO III — Carreira de agente de polícia
 
@@ -950,9 +978,11 @@ b) 10%, quando colocado a mais de 30 km da localidade da sua residência habitua
 
 ###### Artigo 62.º — Aumento do tempo de serviço
 
-1 - O pessoal com funções policiais, enquanto se mantiver em serviço de carácter operacional, beneficia de um aumento de 25% em relação a todo o tempo de serviço efectivo prestado na PSP.
+1 - O pessoal com funções policiais, enquanto se mantiver em serviço de carácter operacional, beneficia de um aumento de 15% em relação a todo o tempo de serviço efectivo prestado na PSP.
 
 2 - Salvo disposição legal em contrário, o tempo de frequência dos cursos de formação de oficiais de polícia e de agentes não beneficia do aumento previsto no número anterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 157/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2005-150714), publicado em 2005-09-20.
 
 ###### Artigo 63.º — Uso e porte de arma
 
@@ -1077,6 +1107,20 @@ Para o desempenho de funções especializadas de natureza não policial e não p
 ###### Artigo 78.º — Regulamentação
 
 As normas para a execução dos processos de concurso do pessoal com funções policiais são objecto de regulamento, a aprovar por portaria do Ministro da Administração Interna.
+
+Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho.
+
+Promulgado em 8 de Novembro de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 11 de Novembro de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+ESTATUTO DO PESSOAL DA POLÍCIA DE SEGURANÇA PÚBLICA
 
 ## ANEXO I — Quadro a que se refere o artigo 39.º
 

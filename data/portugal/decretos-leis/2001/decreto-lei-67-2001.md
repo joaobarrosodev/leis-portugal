@@ -39,10 +39,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-03-31'
+version_history:
+  file: decreto-lei-67-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-02-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-03-31'
+    amending: pt:dre:300610:por
+    amending_title: Decreto-Lei n.º 78/2002
+    changes:
+    - Altera Artigo 3.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/67/2001/02/22/p/dre/pt/html
@@ -68,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:29:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 78/2002. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-67-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -173,23 +191,23 @@ b) Secretário de Estado do Orçamento;
 
 c) Secretário de Estado da Administração Local;
 
-d) Secretário-geral do Conselho;
+d) Presidente do Instituto Nacional de Administração;
 
-e) Presidente do Instituto Nacional de Administração;
+e) Presidente do Centro de Estudos e Formação Autárquica;
 
-f) Presidente do Centro de Estudos de Formação Autárquica;
+f) Presidente do Instituto para a Inovação na Administração do Estado;
 
-g) Presidente do Instituto para a Inovação na Administração do Estado;
+g) Director-geral da Administração Pública;
 
-h) Director-geral da Administração Pública;
+h) Inspector-geral da Administração Pública;
 
-i) Inspector-geral da Administração Pública;
+i) Secretário-geral do Ministério da Reforma do Estado e da Administração Pública;
 
 j) Director-geral do Orçamento;
 
 k) Director-geral das Autarquias Locais;
 
-l) Director-geral do Departamento de Recursos Humanos da Saúde;
+l) Director-geral do Departamento dos Recursos Humanos da Saúde;
 
 m) Director-geral da Administração Educativa;
 
@@ -203,13 +221,13 @@ q) Um representante da Associação Nacional de Freguesias;
 
 r) Seis representantes das organizações sindicais representativas dos trabalhadores da Administração Pública;
 
-s) Até sete individualidades designadas pelo Ministro da Reforma do Estado e da Administração Pública;
-
-t) Secretário-geral-adjunto do Conselho, sem direito a voto.
+s) Até sete individualidades designadas pelo Ministro da Reforma do Estado e da Administração Pública.
 
 2 - Podem ser convidadas a participar nos trabalhos do Conselho, em função das matérias a abordar, individualidades não referidas no número precedente.
 
 3 - O presidente faz-se substituir, nas suas faltas e impedimentos, pelo Secretário de Estado da Administração Pública e da Modernização Administrativa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26.
 
 ###### Artigo 4.º — Competências do presidente e do secretário-geral
 
@@ -221,23 +239,9 @@ b) Fixar a respectiva ordem de trabalhos;
 
 c) Informar os membros do Conselho sobre quaisquer assuntos de interesse relevante para o mesmo e do seguimento dado às suas deliberações e recomendações.
 
-2 - O secretário-geral possui a competência atribuída aos directores-gerais pelo mapa II anexo à [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho, incumbindo-lhe ainda:
+2 - Ao secretário-geral do Ministério da Reforma do Estado e da Administração Pública compete assegurar o normal funcionamento do Conselho, submetendo a despacho os assuntos que dele careçam.
 
-a) Assessorar o membro do Governo competente em matéria de reforma do Estado e da Administração Pública e assegurar o normal funcionamento do Conselho, submetendo a despacho os assuntos que dele careçam;
-
-b) Representar o Conselho perante quaisquer entidades públicas ou privadas e outorgar os contratos em que o mesmo seja parte;
-
-c) Orientar os meios técnicos e humanos a que alude o artigo 9.º
-
-3 - Incumbe ao secretário-geral-adjunto:
-
-a) Coadjuvar o presidente e o secretário-geral no exercício das suas funções;
-
-b) Preparar as reuniões do plenário;
-
-c) Assegurar a gestão corrente dos assuntos referentes ao Conselho.
-
-4 - O secretário-geral pode delegar no secretário-geral-adjunto o exercício de poderes ou a prática de actos da sua competência.
+> Alterado pelo/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26.
 
 ###### Artigo 5.º — Funcionamento
 
@@ -261,15 +265,15 @@ As normas de funcionamento interno do Conselho constam de regulamento próprio a
 
 ###### Artigo 8.º — Quadro de pessoal
 
-1 - O Conselho dispõe do quadro de pessoal dirigente constante do mapa anexo ao presente diploma.
+(Revogado.)
 
-2 - O secretário-geral e o secretário-geral-adjunto são equiparados, para todos os efeitos legais, designadamente remuneração, direitos e regalias, a director-geral e subdirector-geral, respectivamente, sendo recrutados nos termos previstos na [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho.
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26.
 
 ###### Artigo 9.º — Meios técnicos e humanos
 
-1 - O Conselho disporá dos meios técnicos e humanos indispensáveis à consecução das suas atribuições, sendo o apoio prestado pela Secretaria-Geral do Ministério, sem prejuízo do recurso aos instrumentos de mobilidade previstos na legislação geral aplicável sobre a matéria.
+(Revogado.)
 
-2 - Às requisições e destacamentos de pessoal para o Conselho é aplicável o disposto no n.º 5 do artigo 27.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2002-300610), publicado em 2002-03-26.
 
 ###### Artigo 10.º — Legislação revogada
 

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-11-23'
+version_history:
+  file: decreto-lei-387-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-10-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-11-23'
+    amending: pt:dre:326358:por
+    amending_title: Decreto-Lei n.º 352/78
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:24:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 352/78. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1972/decreto-lei-387-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -115,19 +130,29 @@ Considerando que são válidas para as Oficinas Gerais de Material Aeronáutico 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. As Oficinas Gerais de Material Aeronáutico são uma organização industrial a cuja actividade se aplicam os princípios e normas que regulam a actividade das empresas privadas, nomeadamente em matéria de capacidade jurídica, competência dos órgãos de gestão, regime de operações comerciais e responsabilidade civil, salvo o disposto especialmente por lei ou regulamento.
+###### Artigo 1.º
+
+1. As Oficinas Gerais de Material Aeronáutico são uma organização industrial a cuja actividade se aplicam os princípios e normas que regulam a actividade das empresas privadas, nomeadamente em matéria de capacidade jurídica, competência dos órgãos de gestão, regime de operações comerciais e responsabilidade civil, salvo o disposto especialmente por lei ou regulamento.
 
 2. Como organismo da Secretaria de Estado da Aeronáutica, tem personalidade jurídica e goza de autonomia administrativa e financeira.
 
-3. A organização interna das Oficinas Gerais de Material Aeronáutico será regulada por decreto, a fim de poder corresponder às necessidades da gestão técnica, comercial e financeira de carácter empresarial.
+3 - A organização interna das Oficinas Gerais de Material Aeronáutico será regulada por despacho do Chefe do Estado-Maior da Força Aérea, a fim de poder corresponder às necessidades de gestão técnica, comercial e financeira de carácter empresarial.
 
-Art. 2.º - 1. O estatuto do pessoal em serviço nas Oficinas Gerais de Material Aeronáutico será definido por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social e do Secretário de Estado da Aeronáutica.
+4 - O Chefe do Estado-Maior da Força Aérea poderá delegar no director das Oficinas Gerais de Material Aeronáutico a competência para alterar a organização interna daquele estabelecimento fabril.
+
+> Alterado pelo/a [Decreto-Lei n.º 352/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1978-326358), publicado em 1978-11-23.
+
+###### Artigo 2.º
+
+1. O estatuto do pessoal em serviço nas Oficinas Gerais de Material Aeronáutico será definido por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social e do Secretário de Estado da Aeronáutica.
 
 2. De harmonia com as normas estabelecidas nesse estatuto, o Secretário de Estado da Aeronáutica fixará as remunerações e condições de trabalho do pessoal civil e as gratificações a abonar ao pessoal militar.
 
 3. (Transitório). Enquanto não estiver aprovado o estatuto do pessoal, de acordo com o disposto no n.º 1, poderá ser feita a fixação a que se refere o n.º 2 por despacho conjunto dos dois Ministros e do Secretário de Estado da Aeronáutica.
 
-Art. 3.º A regulamentação a que se refere o artigo 2.º será feita sem prejuízo dos direitos adquiridos pelo pessoal vitalício, contratado ou assalariado, do quadro das Oficinas Gerais de Material Aeronáutico, que deseje manter o actual estatuto.
+###### Artigo 3.º
+
+A regulamentação a que se refere o artigo 2.º será feita sem prejuízo dos direitos adquiridos pelo pessoal vitalício, contratado ou assalariado, do quadro das Oficinas Gerais de Material Aeronáutico, que deseje manter o actual estatuto.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.
 

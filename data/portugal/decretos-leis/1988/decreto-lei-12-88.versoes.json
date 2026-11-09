@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:283475:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1988-01-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f7620d025d4a2c9d"
+   ]
+  },
+  {
+   "date": "1992-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:516774:por",
+     "title": "Decreto-Lei n.º 111/92",
+     "published": "1992-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/111-1992-516774"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "782b32fdeb0a8766",
+    "c919a5422357c3fe",
+    "4dd0e891e01ef114",
+    "75d7c0c2f9237e86",
+    "b3654b9c4c4d7806"
+   ]
+  }
+ ],
+ "fragments": {
+  "f7620d025d4a2c9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Janeiro\n\nEncontra-se em curso o processo de integração das instituições de previdência social nos centros regionais de segurança social, o que, devido aos fins específicos prosseguidos por aquelas, só pode decorrer de forma escalonada.\n\nAos membros das comissões instaladoras dos centros regionais de segurança social foi conferida a possibilidade de nomeação para lugares dos mapas ou quadros destes serviços, conforme o disposto no [Decreto-Lei n.º 322/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1983-452966), de 5 de Julho.\n\nNo entanto, o processo de integração acima referido é necessariamente moroso, podendo prejudicar, em termos de justiça relativa, os presidentes e vice-presidentes das comissões administrativas no que se refere à sua integração em quadros de pessoal e promoção nas respectivas carreiras profissionais.\n\nPor outro lado, reconhece-se a capacidade e experiência profissional dos presidentes e vice-presidentes das comissões administrativas das instituições de previdência e a vantagem, para o sector da segurança social, em beneficiar da sua colaboração;\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - Os presidentes e vice-presidentes das comissões administrativas das caixas de previdência, em efectividade de funções, vinculados ou não ao sector da Segurança Social e que contem mais de três anos no exercício dos referidos cargos, podem ser nomeados para o quadro de pessoal da respectiva instituição, até à data da sua integração.\n\n2 - Poderão ainda ser nomeados para o quadro de qualquer caixa de previdência os ex-presidentes e ex-vice-presidentes das comissões administrativas de caixas já integradas que, à data da integração, estivessem em efectividade de funções e contassem mais de três anos no exercício do cargo.\n\nArt. 2.º - 1 - As nomeações previstas no artigo anterior serão feitas por despacho do Ministro do Emprego e da Segurança Social, com respeito pelas habilitações literárias exigidas por lei, nas categorias a que a normal promoção na carreira determinar, considerando-se como nela prestado o tempo de exercício de funções em comissões administrativas das caixas de previdência, bem como em comissões instaladoras dos centros regionais de segurança social e do Centro Nacional de Pensões, sem interrupção de funções.\n\n2 - Em caso algum poderão as nomeações efectuar-se em categoria mais elevada do que a de técnico superior principal, constante dos diversos quadros de pessoal previstos na [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, e legislação complementar.\n\nArt. 3.º O tempo de serviço prestado nos termos do artigo anterior conta para todos os efeitos legais, incluindo todas as prestações da Segurança Social.\n\nArt. 4.º As nomeações a que se refere o presente diploma far-se-ão para lugares vagos dos quadros de pessoal dos respectivos serviços ou, caso não existam, para lugares a acrescer aos mesmos quadros, os quais serão extintos quando vagarem.\n\nVisto e aprovado em Conselho de Ministros de 3 de Dezembro de 1987. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.\n\nPromulgado em 31 de Dezembro de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 31 de Dezembro de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "782b32fdeb0a8766": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Janeiro\n\nEncontra-se em curso o processo de integração das instituições de previdência social nos centros regionais de segurança social, o que, devido aos fins específicos prosseguidos por aquelas, só pode decorrer de forma escalonada.\n\nAos membros das comissões instaladoras dos centros regionais de segurança social foi conferida a possibilidade de nomeação para lugares dos mapas ou quadros destes serviços, conforme o disposto no [Decreto-Lei n.º 322/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1983-452966), de 5 de Julho.\n\nNo entanto, o processo de integração acima referido é necessariamente moroso, podendo prejudicar, em termos de justiça relativa, os presidentes e vice-presidentes das comissões administrativas no que se refere à sua integração em quadros de pessoal e promoção nas respectivas carreiras profissionais.\n\nPor outro lado, reconhece-se a capacidade e experiência profissional dos presidentes e vice-presidentes das comissões administrativas das instituições de previdência e a vantagem, para o sector da segurança social, em beneficiar da sua colaboração;\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "c919a5422357c3fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1992-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 111/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1992-516774), publicado em 1992-06-02."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Os presidentes e vice-presidentes em exercício efectivo de funções nas direcções ou comissões administrativas de caixas de previdência e da direcção da Caixa Nacional de Seguros e Doenças Profissionais sujeitos ao regime da [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, bem como aqueles que, encontrando-se sujeitos a regime diverso e não possuam vínculo à função pública, podem ser nomeados para o quadro de pessoal da instituição, até à data da respectiva integração, desde que contém nesta data mais de três anos no exercício das referidas funções.\n\n2 - A cessação das funções referidas no número anterior, e nas condições nele previstas, por parte de pessoal com vínculo à função pública confere-lhe o direito à promoção na carreira, no seu quadro de origem, nos termos constantes do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro.\n\n> Alterado pelo/a [Decreto-Lei n.º 111/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1992-516774), publicado em 1992-06-02."
+  },
+  "4dd0e891e01ef114": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1992-06-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 111/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1992-516774), publicado em 1992-06-02."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - As nomeações previstas no n.º 1 do artigo anterior são feitas por despacho do membro do Governo que tiver a seu cargo a área da segurança social, com respeito pelas habilitações literárias exigidas por lei, na categoria que a normal promoção na carreira determinar.\n\n2 - As nomeações referidas no número anterior não podem efectuar-se em categoria superior à de técnico superior principal, constante das diversas carreiras de pessoal previstas na [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril, e legislação complementar, quando recaiam em pessoal não abrangido pelo regime fixado por este último diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 111/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-1992-516774), publicado em 1992-06-02."
+  },
+  "75d7c0c2f9237e86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO tempo de serviço prestado nos termos do artigo anterior conta para todos os efeitos legais, incluindo todas as prestações da Segurança Social."
+  },
+  "b3654b9c4c4d7806": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs nomeações a que se refere o presente diploma far-se-ão para lugares vagos dos quadros de pessoal dos respectivos serviços ou, caso não existam, para lugares a acrescer aos mesmos quadros, os quais serão extintos quando vagarem.\n\nVisto e aprovado em Conselho de Ministros de 3 de Dezembro de 1987. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - José Albino da Silva Peneda.\n\nPromulgado em 31 de Dezembro de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 31 de Dezembro de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

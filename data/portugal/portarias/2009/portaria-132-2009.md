@@ -38,10 +38,25 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-01-25'
+version_history:
+  file: portaria-132-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-01-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-01-25'
+    amending: pt:dre:544379:por
+    amending_title: Portaria n.º 19/2012
+    changes:
+    - Altera Artigo ANEXO I — REGULAMENTO DAS TABELAS DE PREÇOS DAS INSTITUIÇÕES E SERVIÇOS INTEGRADOS NO SERVIÇO NACIONAL
+      DE SAÚDE::3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/132/2009/01/30/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:37:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 19/2012. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-132-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -209,37 +225,41 @@ d) «Consulta médica» - acto de assistência prestado por um médico a um indi
 
 e) «Consulta médica sem a presença do utente» - acto de assistência médica sem a presença do utente, que resulta num aconselhamento, prescrição ou encaminhamento para outro serviço. Esta consulta pode estar associada a várias formas de comunicação utilizada, designadamente através de terceira pessoa, por correio tradicional, por telefone, por correio electrónico ou outro e obriga a registo no processo clínico do utente;
 
-f) «Doente internado» - indivíduo admitido num estabelecimento de saúde com internamento, num determinado período, que ocupe cama (ou berço de neonatologia ou pediatria), para diagnóstico ou tratamento, com permanência de, pelo menos, vinte e quatro horas, exceptuando-se os casos em que os doentes venham a falecer, saiam contra parecer médico ou sejam transferidos para outro estabelecimento, não chegando a permanecer durante vinte e quatro horas nesse estabelecimento de saúde. Para efeitos de facturação, e para doentes que não cheguem a permanecer vinte e quatro horas internados, apenas serão considerados os doentes saídos contra parecer médico ou por óbito;
+f) 'Consulta de enfermagem' - intervenção visando a realização de uma avaliação, o estabelecer de plano de cuidados de enfermagem, no sentido de ajudar o indivíduo a atingir a máxima capacidade de autocuidado;
 
-g) «Episódio agudo de doença» - dias de tratamento em internamento em fase aguda da doença, desde a admissão até à alta;
+g) 'Consulta de outros profissionais de saúde' - ato de assistência prestado a um indivíduo, podendo consistir em avaliação, intervenção e ou monitorização;
 
-h) «Episódio crónico de doença» - dias de tratamento em fase crónica de doença, desde a admissão até à alta;
+h) «Doente internado» - indivíduo admitido num estabelecimento de saúde com internamento, num determinado período, que ocupe cama (ou berço de neonatologia ou pediatria), para diagnóstico ou tratamento, com permanência de, pelo menos, vinte e quatro horas, exceptuando-se os casos em que os doentes venham a falecer, saiam contra parecer médico ou sejam transferidos para outro estabelecimento, não chegando a permanecer durante vinte e quatro horas nesse estabelecimento de saúde. Para efeitos de facturação, e para doentes que não cheguem a permanecer vinte e quatro horas internados, apenas serão considerados os doentes saídos contra parecer médico ou por óbito;
 
-i) «Episódio de curta duração» - episódio cujo tempo de internamento é igual ou inferior ao limiar inferior de excepção do respectivo GDH;
+i) «Episódio agudo de doença» - dias de tratamento em internamento em fase aguda da doença, desde a admissão até à alta;
 
-j) «Episódio de evolução prolongada» - episódio cujo tempo de internamento é igual ou superior ao limiar máximo do respectivo GDH;
+j) «Episódio crónico de doença» - dias de tratamento em fase crónica de doença, desde a admissão até à alta;
 
-k) «Episódio de internamento» - período de tempo que decorre ininterruptamente desde a data da admissão de doentes até à data da alta, em regime de internamento, exceptuando-se o dia da alta;
+k) «Episódio de curta duração» - episódio cujo tempo de internamento é igual ou inferior ao limiar inferior de excepção do respectivo GDH;
 
-l) «Episódio normal» - episódio cujo tempo de internamento se situa entre o limiar inferior de excepção e o limiar máximo de excepção do GDH a que pertence;
+l) «Episódio de evolução prolongada» - episódio cujo tempo de internamento é igual ou superior ao limiar máximo do respectivo GDH;
 
-m) «Hospital de dia» - serviço de um estabelecimento de saúde onde os doentes recebem, de forma programada, cuidados de saúde, permanecendo sob vigilância, num período inferior a vinte e quatro horas;
+m) «Episódio de internamento» - período de tempo que decorre ininterruptamente desde a data da admissão de doentes até à data da alta, em regime de internamento, exceptuando-se o dia da alta;
 
-n) «Intervenção cirúrgica» - um ou mais actos operatórios com o mesmo objectivo terapêutico e ou diagnóstico, realizado(s) por cirurgião(ões) em sala operatória, na mesma sessão, sob anestesia geral, loco-regional ou local, com ou sem presença de anestesista;
+n) «Episódio normal» - episódio cujo tempo de internamento se situa entre o limiar inferior de excepção e o limiar máximo de excepção do GDH a que pertence;
 
-o) «Pequena cirurgia» - intervenção cirúrgica com valor de K inferior a 50, conforme a tabela da Ordem dos Médicos;
+o) «Hospital de dia» - serviço de um estabelecimento de saúde onde os doentes recebem, de forma programada, cuidados de saúde, permanecendo sob vigilância, num período inferior a vinte e quatro horas;
 
-p) «Quarto privado» - quarto individual com casa-de-banho privativa;
+p) «Intervenção cirúrgica» - um ou mais actos operatórios com o mesmo objectivo terapêutico e ou diagnóstico, realizado(s) por cirurgião(ões) em sala operatória, na mesma sessão, sob anestesia geral, loco-regional ou local, com ou sem presença de anestesista;
 
-q) «Quarto semiprivado» - quarto para dois doentes com casa-de-banho privativa;
+q) «Pequena cirurgia» - intervenção cirúrgica com valor de K inferior a 50, conforme a tabela da Ordem dos Médicos;
 
-r) «Serviço domiciliário - conjunto de recursos destinados a prestar cuidados de saúde, a pessoas doentes ou inválidas, no seu domicílio, em lares ou instituições afins;
+r) «Quarto privado» - quarto individual com casa-de-banho privativa;
 
-s) «Sistema de classificação de doentes em grupos de diagnósticos homogéneos (GDH)» - sistema de classificação de episódios agudos de doença tratados em internamento, que permite definir operacionalmente a produção de um hospital. Os GDH são definidos em termos das seguintes variáveis: diagnóstico principal, intervenções cirúrgicas, patologias associadas e complicações, procedimentos clínicos realizados, idade, sexo do doente, destino após a alta e peso à nascença. Os grupos foram concebidos de modo a serem coerentes do ponto de vista clínico e homogéneos em termos de consumo de recursos. Os diagnósticos, intervenções cirúrgicas e outros actos médicos relevantes são codificados de acordo com a Codificação Internacional das Doenças, 9.ª revisão, Modificação Clínica (CID-9-MC). A tabela tem por base o agrupador de GDH, All Patients DRG, versão 21.0, desenvolvido nos EUA, cuja versão correspondente da CID 9 MC é a do ano 2004. É obrigatória a utilização deste agrupador para efeitos de classificação de episódios agudos de doença tratados nas instituições referidas no n.º 1 do artigo 2.º Para efeitos de codificação é necessária a utilização da versão da CID-9-MC do ano 2004 ou de anos posteriores, devendo os hospitais optar pela utilização da versão mais recente disponível;
+s) «Quarto semiprivado» - quarto para dois doentes com casa-de-banho privativa;
 
-t) «Tempo de internamento» - total de dias utilizados por todos os doentes internados, nos diversos serviços de um estabelecimento de saúde com internamento, num período, exceptuando os dias das altas dos mesmos doentes nesse estabelecimento de saúde, não sendo incluídos os dias de estada em berçário ou em serviço de observação de serviço de urgência. Contudo, para efeitos de classificação em GDH e facturação incluem-se na contagem do tempo de internamento os dias desde a admissão no serviço de urgência (nos casos em que o doente tenha sido admitido através do serviço de urgência), bem como os dias de estada em berçário;
+t) «Serviço domiciliário - conjunto de recursos destinados a prestar cuidados de saúde, a pessoas doentes ou inválidas, no seu domicílio, em lares ou instituições afins;
 
-u) «Utilização de telemedicina na consulta externa (teleconsulta)» - utilização de comunicações interactivas, audiovisuais e de dados em consulta médica, com a presença do doente, a qual utiliza estes meios para obter parecer à distância de, pelo menos, outro médico e com registo obrigatório no equipamento e no processo clínico do doente.
+u) «Sistema de classificação de doentes em grupos de diagnósticos homogéneos (GDH)» - sistema de classificação de episódios agudos de doença tratados em internamento, que permite definir operacionalmente a produção de um hospital. Os GDH são definidos em termos das seguintes variáveis: diagnóstico principal, intervenções cirúrgicas, patologias associadas e complicações, procedimentos clínicos realizados, idade, sexo do doente, destino após a alta e peso à nascença. Os grupos foram concebidos de modo a serem coerentes do ponto de vista clínico e homogéneos em termos de consumo de recursos. Os diagnósticos, intervenções cirúrgicas e outros actos médicos relevantes são codificados de acordo com a Codificação Internacional das Doenças, 9.ª revisão, Modificação Clínica (CID-9-MC). A tabela tem por base o agrupador de GDH, All Patients DRG, versão 21.0, desenvolvido nos EUA, cuja versão correspondente da CID 9 MC é a do ano 2004. É obrigatória a utilização deste agrupador para efeitos de classificação de episódios agudos de doença tratados nas instituições referidas no n.º 1 do artigo 2.º Para efeitos de codificação é necessária a utilização da versão da CID-9-MC do ano 2004 ou de anos posteriores, devendo os hospitais optar pela utilização da versão mais recente disponível;
+
+v) «Tempo de internamento» - total de dias utilizados por todos os doentes internados, nos diversos serviços de um estabelecimento de saúde com internamento, num período, exceptuando os dias das altas dos mesmos doentes nesse estabelecimento de saúde, não sendo incluídos os dias de estada em berçário ou em serviço de observação de serviço de urgência. Contudo, para efeitos de classificação em GDH e facturação incluem-se na contagem do tempo de internamento os dias desde a admissão no serviço de urgência (nos casos em que o doente tenha sido admitido através do serviço de urgência), bem como os dias de estada em berçário;
+
+w) «Utilização de telemedicina na consulta externa (teleconsulta)» - utilização de comunicações interactivas, audiovisuais e de dados em consulta médica, com a presença do doente, a qual utiliza estes meios para obter parecer à distância de, pelo menos, outro médico e com registo obrigatório no equipamento e no processo clínico do doente.
 
 Secção II
 
@@ -469,7 +489,9 @@ b) Hospitais psiquiátricos, departamentos, serviços ou unidades de psiquiatria
 
 3 - As teleconsultas poderão ser facturadas por ambas as instituições envolvidas, desde que cumpram os requisitos definidos em normativo da Direcção-Geral da Saúde, nos termos da alínea a) do n.º 1.
 
-4 - A estes preços acrescem os valores dos meios auxiliares de diagnóstico e terapêutica, incluindo pequenas cirurgias e outros actos discriminados no anexo iii.
+4 - As consultas de enfermagem e de outros profissionais de saúde serão faturadas pelo seguinte valor - 15 (euro).
+
+5 - A estes preços acrescem os valores dos meios auxiliares de diagnóstico e terapêutica, incluindo pequenas cirurgias e outros actos discriminados no anexo iii.
 
 Artigo 16.º
 
@@ -546,3 +568,5 @@ Periodicidade da facturação
 3 - A facturação das prestações de saúde realizadas a doentes em regime ambulatório deve ser efectuada após a realização dos cuidados.
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/2009/01/02100/0066000758.pdf)
+
+> Alterado pelo/a [Portaria n.º 19/2012](https://diariodarepublica.pt/dr/detalhe/portaria/19-2012-544379), publicado em 2012-01-20.

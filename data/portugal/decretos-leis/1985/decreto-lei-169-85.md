@@ -40,10 +40,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-01-26'
+version_history:
+  file: decreto-lei-169-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-01-26'
+    amending: pt:dre:506398:por
+    amending_title: Decreto-Lei n.º 17/88
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 13.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:03:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 17/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-169-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,13 +180,17 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - Aos docentes do ensino oficial não superior, ainda que este não se insira na rede pública de ensino dependente do Ministério da Educação, incluindo os docentes dos postos de recepção oficiais do Ciclo Preparatório TV, é contado, para efeitos de aposentação e para os demais efeitos neste diploma previstos, o tempo de serviço docente prestado no ensino particular, de harmonia com as normas adiante definidas.
+###### Artigo 1.º
+
+1 - Aos docentes do ensino oficial não superior, ainda que este não se insira na rede pública de ensino dependente do Ministério da Educação, incluindo os docentes dos postos de recepção oficiais do Ciclo Preparatório TV, é contado, para efeitos de aposentação e para os demais efeitos neste diploma previstos, o tempo de serviço docente prestado no ensino particular, de harmonia com as normas adiante definidas.
 
 2 - O disposto no n.º 1 abrange o tempo de serviço docente prestado no ensino particular nas ex-colónias.
 
 3 - As expressões «serviço docente» e «ensino particular», contidas nos números anteriores, referem-se respectivamente ao serviço prestado na qualidade de professor dos ensinos primário, preparatório e secundário, de educador de infância, de monitor em postos particulares de recepção do ciclo preparatório da Telescola e ao ensino particular e cooperativo não superior.
 
-Art. 2.º Ao pessoal referido no n.º 1 do artigo anterior é ainda contado, para efeitos de aposentação e para os demais efeitos neste diploma previstos, o tempo de serviço prestado até à data da entrada em vigor do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, nas situações a seguir indicadas, excluindo o ensino superior:
+###### Artigo 2.º
+
+Ao pessoal referido no n.º 1 do artigo anterior é ainda contado, para efeitos de aposentação e para os demais efeitos neste diploma previstos, o tempo de serviço prestado até à data da entrada em vigor do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, nas situações a seguir indicadas, excluindo o ensino superior:
 
 a) Na qualidade de orientador de salas de estudo de estabelecimentos de ensino particular, desde que o mesmo possuísse, à data da prestação daquele serviço, as habilitações literárias mínimas para concessão de autorização especial de leccionação nos respectivos níveis de ensino;
 
@@ -178,7 +198,9 @@ b) Na qualidade de docente do ensino intensivo, ensino prático de línguas, for
 
 c) Na qualidade de docente em instituições privadas de solidariedade social.
 
-Art. 3.º - 1 - Para efeitos do disposto nos artigos anteriores é necessário, porém, que se verifiquem cumulativamente as condições seguintes:
+###### Artigo 3.º
+
+1 - Para efeitos do disposto nos artigos anteriores é necessário, porém, que se verifiquem cumulativamente as condições seguintes:
 
 a) Que o serviço tenha sido prestado em estabelecimentos devidamente legalizados;
 
@@ -190,23 +212,37 @@ a) Certificar as condições a que se refere o número anterior;
 
 b) Certificar ainda, através dos elementos que lhe deverão ser fornecidos em documento autenticado pelo respectivo estabelecimento de ensino, o tempo de serviço prestado, com discriminação das circunstâncias em que o mesmo foi desempenhado, nomeadamente o número de horas lectivas semanais, faltas e licenças especificadas, os vencimentos sucessivamente auferidos e, quando for caso disso, o requisito a que se referem as alíneas a) e b) do artigo anterior.
 
-Art. 4.º A contagem de tempo de serviço abrange, nas condições estabelecidas no presente diploma, o período ou períodos de férias lectivas, ainda que não remuneradas, de acordo com o último horário lectivo semanal distribuído em cada ano ao interessado.
+###### Artigo 4.º
 
-Art. 5.º - 1 - Para efeitos de contagem de tempo, considera-se como horário completo o horário de 22 horas lectivas semanais.
+A contagem de tempo de serviço abrange, nas condições estabelecidas no presente diploma, o período ou períodos de férias lectivas, ainda que não remuneradas, de acordo com o último horário lectivo semanal distribuído em cada ano ao interessado.
+
+###### Artigo 5.º
+
+1 - Para efeitos de contagem de tempo, considera-se como horário completo o horário de 22 horas lectivas semanais.
 
 2 - No caso de o serviço ter sido prestado em regime de horário incompleto, aplica-se na contagem do referido tempo o disposto no n.º 2 do artigo 26.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
 
-Art. 6.º Sendo impossível determinar o horário lectivo semanal distribuído ao interessado, considera-se que o serviço foi prestado em regime de horário incompleto de 11 horas lectivas semanais, desde que se verifiquem as demais condições previstas no artigo 3.º
+###### Artigo 6.º
 
-Art. 7.º O direito à contagem de tempo de serviço de que trata o presente diploma não se extingue ainda que o pessoal por ele abrangido perca a qualidade de docente do ensino oficial.
+Sendo impossível determinar o horário lectivo semanal distribuído ao interessado, considera-se que o serviço foi prestado em regime de horário incompleto de 11 horas lectivas semanais, desde que se verifiquem as demais condições previstas no artigo 3.º
 
-Art. 8.º - 1 - A contagem do tempo de serviço depende de os interessados a requererem à Caixa Geral de Aposentações.
+###### Artigo 7.º
+
+O direito à contagem de tempo de serviço de que trata o presente diploma não se extingue ainda que o pessoal por ele abrangido perca, ou já tenha perdido à data de entrada em vigor do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, a qualidade de docente do ensino oficial, desde que tenha mantido o vínculo ao Estado em qualquer outra carreira da função pública, prestando nela serviço contável para efeitos de aposentação.
+
+> Alterado pelo/a [Decreto-Lei n.º 17/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1988-506398), publicado em 1988-01-21.
+
+###### Artigo 8.º
+
+1 - A contagem do tempo de serviço depende de os interessados a requererem à Caixa Geral de Aposentações.
 
 2 - Pela referida contagem de tempo é devido o pagamento de quotas, excepto em relação ao período ou períodos em que os interessados contribuíram para a Previdência Social, a determinar nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro, na redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 191-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-a-1979-432671), de 25 de Junho, e da [Portaria n.º 1079/81](https://diariodarepublica.pt/dr/detalhe/portaria/1079-1981-567175), de 21 de Dezembro.
 
 3 - Os pedidos de contagem de tempo deverão ser remetidos à Caixa Geral de Aposentações, acompanhados do documento a que se refere o n.º 2 do artigo 3.º e de uma declaração devidamente autenticada, passada pelo Centro Nacional de Pensões, comprovativa do período ou períodos em que os interessados contribuíram para a Previdência Social.
 
-Art. 9.º - 1 - A pensão de aposentação devida ao pessoal abrangido pelo presente diploma será determinada e paga pela Caixa Geral de Aposentações.
+###### Artigo 9.º
+
+1 - A pensão de aposentação devida ao pessoal abrangido pelo presente diploma será determinada e paga pela Caixa Geral de Aposentações.
 
 2 - A partir do facto ou acto determinante da aposentação, o Centro Nacional de Pensões transferirá, independentemente da verificação de qualquer outro requisito, para a Caixa Geral de Aposentações, a pedido desta, o montante da pensão de reforma que, nos termos da legislação aplicável, seria devida por aquela entidade em relação ao tempo de serviço contável para a aposentação e com contribuições para a Previdência Social.
 
@@ -214,7 +250,9 @@ Art. 9.º - 1 - A pensão de aposentação devida ao pessoal abrangido pelo pres
 
 4 - A entrega das importâncias de que tratam os n.os 2 e 3 far-se-á através de contas correntes a abrir na Caixa Nacional de Previdência entre a Caixa Geral de Aposentações e o Centro Nacional de Pensões.
 
-Art. 10.º - 1 - O tempo de que trata este decreto-lei é igualmente contado para efeitos de pensão de sobrevivência, de acordo com o regime instituído pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 30 de Março, e legislação complementar.
+###### Artigo 10.º
+
+1 - O tempo de que trata este decreto-lei é igualmente contado para efeitos de pensão de sobrevivência, de acordo com o regime instituído pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 30 de Março, e legislação complementar.
 
 2 - O tempo de serviço em que tenha havido descontos para a Previdência Social é isento do pagamento de contribuições para o Montepio dos Servidores do Estado.
 
@@ -222,7 +260,9 @@ Art. 10.º - 1 - O tempo de que trata este decreto-lei é igualmente contado par
 
 4 - Para efeitos do disposto no número anterior, serão abertas na Caixa Nacional de Previdência contas correntes entre o Montepio dos Servidores do Estado e o Centro Nacional de Pensões.
 
-Art. 11.º - 1 - O tempo contável para a aposentação nos termos deste decreto-lei é também considerado:
+###### Artigo 11.º
+
+1 - O tempo contável para a aposentação nos termos deste decreto-lei é também considerado:
 
 a) Para efeitos de ordenação na docência e no que se refere aos concursos previstos para docentes não pertencentes aos quadros, nos termos da legislação que ao tempo vigorar;
 
@@ -234,23 +274,41 @@ b) Para efeitos de ordenação em concurso para docentes dos quadros, nos termos
 
 4 - O tempo de serviço prestado pelos docentes referidos no n.º 1 deste artigo antes da obtenção da classificação profissional é considerado, para efeitos de desempate, nos respectivos concursos de provimento nos quadros.
 
-Art. 12.º - 1 - O tempo contável para efeitos de aposentação é igualmente relevante para a atribuição das diuturnidades previstas no [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, de acordo com o estabelecido no artigo 27.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, desde que as respectivas regras não colidam com as demais condições estabelecidas sobre a matéria neste decreto-lei.
+###### Artigo 12.º
+
+1 - O tempo contável para efeitos de aposentação é igualmente relevante para a atribuição das diuturnidades previstas no [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, de acordo com o estabelecido no artigo 27.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, desde que as respectivas regras não colidam com as demais condições estabelecidas sobre a matéria neste decreto-lei.
 
 2 - É revogado o disposto na alínea d) do n.º 1 do artigo 72.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, sem prejuízo de se considerarem regularizadas, para todos os efeitos legais, as diuturnidades concedidas com observância daquele dispositivo legal até à entrada em vigor deste diploma.
 
-Art. 13.º O tempo de serviço prestado após a entrada em vigor do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, só pode ser considerado para efeitos do disposto no presente diploma se a escola onde o serviço foi prestado tiver dado cumprimento ao disposto no n.º 2 do artigo 72.º daquele decreto-lei.
+###### Artigo 13.º
 
-Art. 14.º Aos docentes abrangidos pelos Decretos-Leis n.os [793/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1975-354564) e [764/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/764-1976-409515), respectivamente de 31 de Dezembro e 22 de Outubro, cujo facto ou acto determinante da aposentação ocorrer após a entrada em vigor deste diploma é aplicável o disposto nos artigos 8.º, com excepção da primeira parte do n.º 3 do mesmo artigo, 9.º e 10.º
+1 - O tempo de serviço prestado após a entrada em vigor do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro, só pode ser considerado para efeitos do disposto no presente diploma se a escola onde o serviço foi prestado tiver dado cumprimento ao disposto no n.º 2 do artigo 72.º daquele decreto-lei.
 
-Art. 15.º Ao pessoal abrangido pelo presente decreto-lei é aplicável, em tudo quanto com ele não colida, o disposto no [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro (Estatuto da Aposentação), e no [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 30 de Março (Estatuto das Pensões de Sobrevivência), e legislação complementar.
+2 - O disposto no número anterior só é aplicável às escolas cuja criação tenha sido homologada nos termos do artigo 26.º do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), ou nos termos do [Decreto n.º 37545](https://diariodarepublica.pt/dr/detalhe/decreto/37545-1949-265329), de 8 de Setembro de 1949.
 
-Art. 16.º O presente diploma poderá ser aplicado às regiões autónomas por decreto dos respectivos governos regionais.
+> Alterado pelo/a [Decreto-Lei n.º 17/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-1988-506398), publicado em 1988-01-21.
 
-Art. 17.º - 1 - O disposto neste diploma produz efeitos a partir da data da entrada em vigor do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro.
+###### Artigo 14.º
+
+Aos docentes abrangidos pelos Decretos-Leis n.os [793/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/793-1975-354564) e [764/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/764-1976-409515), respectivamente de 31 de Dezembro e 22 de Outubro, cujo facto ou acto determinante da aposentação ocorrer após a entrada em vigor deste diploma é aplicável o disposto nos artigos 8.º, com excepção da primeira parte do n.º 3 do mesmo artigo, 9.º e 10.º
+
+###### Artigo 15.º
+
+Ao pessoal abrangido pelo presente decreto-lei é aplicável, em tudo quanto com ele não colida, o disposto no [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro (Estatuto da Aposentação), e no [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 30 de Março (Estatuto das Pensões de Sobrevivência), e legislação complementar.
+
+###### Artigo 16.º
+
+O presente diploma poderá ser aplicado às regiões autónomas por decreto dos respectivos governos regionais.
+
+###### Artigo 17.º
+
+1 - O disposto neste diploma produz efeitos a partir da data da entrada em vigor do [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182), de 21 de Novembro.
 
 2 - Serão revistas oficiosamente as pensões já fixadas ao pessoal abrangido por este diploma cujo facto ou acto determinante da aposentação ocorreu após a entrada em vigor daquele [Decreto-Lei n.º 553/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-1980-458182).
 
-Art. 18.º Este decreto-lei entra em vigor no dia 1 do mês imediato ao da sua publicação.
+###### Artigo 18.º
+
+Este decreto-lei entra em vigor no dia 1 do mês imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 18 de Abril de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Ernâni Rodrigues Lopes - João de Deus Rogado Salvador Pinheiro - Amândio Anes de Azevedo.
 

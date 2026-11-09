@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:676847:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-12-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f8f14fed36f80ebe"
+   ]
+  },
+  {
+   "date": "1980-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:470814:por",
+     "title": "Decreto-Lei n.º 280/80",
+     "published": "1980-08-14",
+     "dre_path": "/dr/detalhe/decreto-lei/280-1980-470814"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "a127cf3e5bfa5567",
+    "53816c610a1e3370",
+    "272a875993057247",
+    "fd67a9200bd76bf9",
+    "4b0d056576f93972",
+    "7f39a823d45cdca0",
+    "ea5768deedefa6ad"
+   ]
+  }
+ ],
+ "fragments": {
+  "f8f14fed36f80ebe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro\n\nO [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril, estabeleceu regras relativas à reavaliação dos bens do activo imobilizado corpóreo para as empresas privadas que sejam objecto de saneamento económico-financeiro, regime que o [Decreto-Lei n.º 353-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-b-1977-240847), de 29 de Agosto, tornou extensivo às empresas públicas.\n\nNo que se refere às empresas públicas ou privadas que celebrem acordos de saneamento económico-financeiro ou contratos de viabilização, os requisitos de aplicação do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril, são satisfeitos, designadamente, através da apreciação pelas comissões previstas no artigo 12.º do [Decreto-Lei n.º 353-C/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-c-1977-240848), de 29 de Agosto, e no artigo 8.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril.\n\nQuanto às empresas que utilizem outros meios para a sua recuperação, faltava, no entanto, definir a entidade competente para apreciar as suas condições de viabilidade económica e as medidas de saneamento correspondentes.\n\nExaminado o problema, entende-se que o departamento mais indicado para o efeito é a Inspecção-Geral de Finanças, devendo a cobertura dos encargos derivados da sua actuação ser comparticipada pelas empresas beneficiárias.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º Compete à Inspecção-Geral de Finanças (IGF) a apreciação das condições de viabilidade económica e das medidas de saneamento económico-financeiro quanto às empresas públicas e privadas que não celebrem acordos de saneamento económico-financeiro ou contratos de viabilização, mas requeiram a reavaliação dos bens do seu activo imobilizado corpóreo, ao abrigo do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril.\n\nArt. 2.º As empresas indicadas no artigo anterior deverão remeter à IGF, além da documentação referida no artigo 3.º do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), os seguintes elementos para a organização dos respectivos processos:\n\na) Estudo analítico da evolução da situação financeira e económica dos três últimos exercícios;\n\nb) Medidas de saneamento económico-financeiro programadas;\n\nc) Contas de exploração previsionais para o exercício em curso, à data do requerimento, e para os três subsequentes;\n\nd) Quaisquer outros esclarecimentos julgados necessários para a apreciação do processo.\n\nArt. 3.º - 1 - A IGF elaborará parecer sobre a viabilidade das empresas, nos termos do artigo 1.º, que será submetido a despacho conjunto do Ministro que superintende na actividade principal desenvolvida pela empresa interessada e do Ministro das Finanças.\n\n2 - Uma vez obtido aquele despacho, serão remetidos à Direcção-Geral das Contribuições e Impostos os elementos necessários ao estudo da reavaliação, quando for caso disso.\n\nArt. 4.º As empresas abrangidas pelo presente diploma ficam sujeitas ao pagamento de uma quota de Inspecção correspondente a 0,5% da reserva de reavaliação autorizada, a qual será liquidada e cobrada pela IGF após a data da respectiva autorização, que lhe deve ser comunicada pela Direcção-Geral das Contribuições e Impostos.\n\nArt. 5.º Sem prejuízo das disposições do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), os benefícios fiscais concedidos poderão ser, total ou parcialmente, anulados, mediante despacho do Ministro das Finanças, nos seguintes casos:\n\na) Incumprimento das medidas de saneamento económico-financeiro inicialmente propostas;\n\nb) Alteração injustificada das medidas referidas na alínea anterior;\n\nc) Impossibilidade de estabelecer um contrôle claro e inequívoco da execução dos programas;\n\nd) Falta de pagamento da quota de inspecção.\n\nArt. 6.º O disposto no presente diploma é aplicável aos processos em curso à data da sua publicação, que serão remetidos à IGF.\n\nMaria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Carlos Jorge Mendes Correia Gago.\n\nPromulgado em 13 de Dezembro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "a127cf3e5bfa5567": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Dezembro\n\nO [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril, estabeleceu regras relativas à reavaliação dos bens do activo imobilizado corpóreo para as empresas privadas que sejam objecto de saneamento económico-financeiro, regime que o [Decreto-Lei n.º 353-B/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-b-1977-240847), de 29 de Agosto, tornou extensivo às empresas públicas.\n\nNo que se refere às empresas públicas ou privadas que celebrem acordos de saneamento económico-financeiro ou contratos de viabilização, os requisitos de aplicação do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril, são satisfeitos, designadamente, através da apreciação pelas comissões previstas no artigo 12.º do [Decreto-Lei n.º 353-C/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-c-1977-240848), de 29 de Agosto, e no artigo 8.º do [Decreto-Lei n.º 124/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1977-139729), de 1 de Abril.\n\nQuanto às empresas que utilizem outros meios para a sua recuperação, faltava, no entanto, definir a entidade competente para apreciar as suas condições de viabilidade económica e as medidas de saneamento correspondentes.\n\nExaminado o problema, entende-se que o departamento mais indicado para o efeito é a Inspecção-Geral de Finanças, devendo a cobertura dos encargos derivados da sua actuação ser comparticipada pelas empresas beneficiárias.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "53816c610a1e3370": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nCompete à Inspecção-Geral de Finanças (IGF) a apreciação das condições de viabilidade económica e das medidas de saneamento económico-financeiro quanto às empresas públicas e privadas que não celebrem acordos de saneamento económico-financeiro ou contratos de viabilização, mas requeiram a reavaliação dos bens do seu activo imobilizado corpóreo, ao abrigo do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), de 2 de Abril."
+  },
+  "272a875993057247": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs empresas indicadas no artigo anterior deverão remeter à IGF, além da documentação referida no artigo 3.º do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), os seguintes elementos para a organização dos respectivos processos:\n\na) Estudo analítico da evolução da situação financeira e económica dos três últimos exercícios;\n\nb) Medidas de saneamento económico-financeiro programadas;\n\nc) Contas de exploração previsionais para o exercício em curso, à data do requerimento, e para os três subsequentes;\n\nd) Quaisquer outros esclarecimentos julgados necessários para a apreciação do processo."
+  },
+  "fd67a9200bd76bf9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A IGF elaborará parecer sobre a viabilidade das empresas, nos termos do artigo 1.º, que será submetido a despacho conjunto do Ministro que superintende na actividade principal desenvolvida pela empresa interessada e do Ministro das Finanças.\n\n2 - Uma vez obtido aquele despacho, serão remetidos à Direcção-Geral das Contribuições e Impostos os elementos necessários ao estudo da reavaliação, quando for caso disso."
+  },
+  "4b0d056576f93972": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1980-08-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 280/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1980-470814), publicado em 1980-08-14."
+   ],
+   "markdown": "###### Artigo 4.º\n\nAs empresas abrangidas pelo presente diploma ficam sujeitas ao pagamento de uma quota de inspecção correspondente a 0,5% da reserva de reavaliação autorizada, até ao limite máximo de 500000$00, a qual será liquidada e cobrada pela IGF após a data da respectiva autorização, que lhe deve ser comunicada pela Direcção-Geral das Contribuições e Impostos.\n\n> Alterado pelo/a [Decreto-Lei n.º 280/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1980-470814), publicado em 1980-08-14."
+  },
+  "7f39a823d45cdca0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSem prejuízo das disposições do [Decreto-Lei n.º 126/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1977-139722), os benefícios fiscais concedidos poderão ser, total ou parcialmente, anulados, mediante despacho do Ministro das Finanças, nos seguintes casos:\n\na) Incumprimento das medidas de saneamento económico-financeiro inicialmente propostas;\n\nb) Alteração injustificada das medidas referidas na alínea anterior;\n\nc) Impossibilidade de estabelecer um contrôle claro e inequívoco da execução dos programas;\n\nd) Falta de pagamento da quota de inspecção."
+  },
+  "ea5768deedefa6ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO disposto no presente diploma é aplicável aos processos em curso à data da sua publicação, que serão remetidos à IGF.\n\nMaria de Lourdes Ruivo da Silva Matos Pintasilgo - António Luciano Pacheco de Sousa Franco - Carlos Jorge Mendes Correia Gago.\n\nPromulgado em 13 de Dezembro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

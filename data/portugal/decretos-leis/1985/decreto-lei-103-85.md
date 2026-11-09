@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-10-24'
+version_history:
+  file: decreto-lei-103-85.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-04-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-10-24'
+    amending: pt:dre:549249:por
+    amending_title: Decreto-Lei n.º 365/89
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:02:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 365/89. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1985/decreto-lei-103-85.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -123,25 +139,39 @@ Assim, ouvidas as regiões autónomas:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º É atribuída às Regiões Autónomas dos Açores e da Madeira, nos termos do presente diploma, a competência para a emissão, com âmbito limitado ao respectivo território, de portarias de extensão de convenções colectivas de trabalho e de decisões arbitrais cujo âmbito exceda a área de cada uma daquelas regiões autónomas.
+###### Artigo 1.º
 
-Art. 2.º - 1 - Os avisos para portarias de extensão das convenções colectivas de trabalho referidas no artigo anterior serão emitidas pelo Governo da República, nos termos da legislação nacional em vigor, e objecto de publicação no Boletim do Trabalho e Emprego e no jornal oficial de cada região autónoma.
+1 - É atribuída às Regiões Autónomas dos Açores e da Madeira, nos termos do presente diploma, a competência para a emissão, com âmbito limitado ao respectivo território, de portarias de extensão de convenções colectivas de trabalho e de decisões arbitrais cujo âmbito exceda a área de cada uma daquelas regiões autónomas.
 
-2 - O Ministro do Trabalho e Segurança Social comunicará às secretarias regionais competentes as oposições que forem deduzidas aos processos de extensão, no prazo de 10 dias a contar da data da respectiva recepção.
+2 - A competência prevista no número anterior não pode ser exercida quando tenha sido publicado, pelo Governo da República, aviso para portaria de extensão cujo âmbito de aplicação compreende a área geográfica regional.
 
-3 - As oposições que respeitem a aspectos circunscritos exclusivamente às regiões autónomas deverão ser deduzidas junto das respectivas secretarias regionais competentes nesta matéria.
+3 - No caso previsto no número anterior, o Governo da República ouvirá previamente os governos regionais sobre a emissão da portaria de extensão.
 
-4 - Nos casos referidos no número anterior, as secretarias regionais comunicarão ao Ministério do Trabalho e Segurança Social as oposições que forem deduzidas, bem como o resultado da respectiva ponderação, no prazo de 10 dias a contar da sua recepção, após o que poderão emitir a respectiva portaria de extensão.
+> Alterado pelo/a [Decreto-Lei n.º 365/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1989-549249), publicado em 1989-10-19.
 
-5 - Quando for deduzida oposição à extensão objecto de aviso fora dos casos referidos nos números anteriores, os governos regionais só poderão proceder à emissão de portaria de extensão após comunicação pelo Ministério do Trabalho e Segurança Social do resultado da ponderação da referida oposição.
+###### Artigo 2.º
 
-6 - Quando não haja qualquer oposição à extensão objecto de aviso, os governos regionais poderão proceder à emissão de portaria de extensão, nos termos do artigo 1.º
+1 - Os avisos para portarias de extensão das convenções colectivas de trabalho referidas no n.º 1 do artigo anterior serão emitidos pelo governo regional e objecto de publicação no Jornal Oficial de cada região autónoma.
 
-Art. 3.º As portarias de extensão emitidas pelos governos regionais ao abrigo do presente diploma entrarão em vigor, nos mesmos termos das convenções colectivas de trabalho, após publicação no jornal oficial da respectiva região autónoma.
+2 - As oposições deverão ser deduzidas junto das respectivas secretarias regionais competentes nesta matéria.
 
-Art. 4.º O disposto no presente diploma não é aplicável aos processos de extensão das convenções colectivas de trabalho e das decisões arbitrais já publicadas no Boletim do Trabalho e Emprego na data da sua entrada em vigor.
+3 - As secretarias regionais comunicarão ao Ministério do Emprego e da Segurança Social as oposições que forem deduzidas, bem como o resultado da respectiva ponderação, no prazo de 10 dias a contar da sua recepção.
 
-Art. 5.º Em tudo o que não se achar regulado no presente diploma é aplicável, com as necessárias adaptações, a legislação nacional em vigor.
+4 - As secretarias regionais poderão proceder à emissão de portaria de extensão nos termos do n.º 1 do artigo anterior decorridos oito dias contados da data do envio da comunicação a que se refere o número anterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 365/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1989-549249), publicado em 1989-10-19.
+
+###### Artigo 3.º
+
+As portarias de extensão emitidas pelos governos regionais ao abrigo do presente diploma entrarão em vigor, nos mesmos termos das convenções colectivas de trabalho, após publicação no jornal oficial da respectiva região autónoma.
+
+###### Artigo 4.º
+
+O disposto no presente diploma não é aplicável aos processos de extensão das convenções colectivas de trabalho e das decisões arbitrais já publicadas no Boletim do Trabalho e Emprego na data da sua entrada em vigor.
+
+###### Artigo 5.º
+
+Em tudo o que não se achar regulado no presente diploma é aplicável, com as necessárias adaptações, a legislação nacional em vigor.
 
 Visto e aprovado em Conselho de Ministros de 21 de Fevereiro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Lino Dias Miguel - Tomás George Conceição Silva - Amândio Anes de Azevedo.
 

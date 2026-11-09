@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-02-22'
+version_history:
+  file: decreto-lei-48691.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-11-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-02-22'
+    amending: pt:dre:527450:por
+    amending_title: Decreto-Lei n.º 48878
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:07:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48878. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48691.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,29 +163,41 @@ Nestes termos, atendendo ao que foi exposto pelos Governos das províncias de An
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O pessoal superior de nomeação dos quadros do Laboratório de Engenharia de Angola e do Laboratório de Ensaios de Materiais e Mecânica do Solo de Moçambique, adiante designados por laboratórios ultramarinos, aos quais foi atribuída autonomia pelo Diploma Legislativo Ministerial n.º 87, de 26 de Outubro de 1961, e pela Portaria Ministerial n.º 19748, de 5 de Março de 1963, respectivamente, passa a ser o constante do mapa anexo ao presente decreto-lei e que dele faz parte integrante.
+###### Artigo 1.º
+
+O pessoal superior de nomeação dos quadros do Laboratório de Engenharia de Angola e do Laboratório de Ensaios de Materiais e Mecânica do Solo de Moçambique, adiante designados por laboratórios ultramarinos, aos quais foi atribuída autonomia pelo Diploma Legislativo Ministerial n.º 87, de 26 de Outubro de 1961, e pela Portaria Ministerial n.º 19748, de 5 de Março de 1963, respectivamente, passa a ser o constante do mapa anexo ao presente decreto-lei e que dele faz parte integrante.
 
 § único. Os lugares criados e não providos por força deste diploma serão preenchidos à medida que as disponibilidades financeiras dos orçamentes dos laboratórios ultramarinos o permitirem.
 
-Art. 2.º Os directores dos laboratórios ultramarinos serão nomeados pelo Ministro do Ultramar de entre engenheiros civis com o grau de investigador, de preferência pertencentes ao quadro do respectivo laboratório.
+###### Artigo 2.º
+
+Os directores dos laboratórios ultramarinos serão nomeados pelo Ministro do Ultramar de entre engenheiros civis com o grau de investigador, de preferência pertencentes ao quadro do respectivo laboratório.
 
 § 1.º Não havendo investigadores no respectivo laboratório, poderá ser nomeado um dos especialistas do mesmo laboratório para desempenhar interinamente as funções de director.
 
 § 2.º Os directores terão direito às remunerações atribuídas aos investigadores pelo artigo 11.º do presente diploma e, sem prejuízo do disposto no artigo 12.º, a uma gratificação mensal de 4000$00.
 
-Art. 3.º O subdirector de cada laboratório ultramarino será nomeado pelo Ministro do Ultramar, sob proposta do governador-geral, ouvido o director, de entre engenheiros civis com o grau de investigador, de preferência pertencentes ao quadro do respectivo laboratório.
+###### Artigo 3.º
+
+O subdirector de cada laboratório ultramarino será nomeado pelo Ministro do Ultramar, sob proposta do governador-geral, ouvido o director, de entre engenheiros civis com o grau de investigador, de preferência pertencentes ao quadro do respectivo laboratório.
 
 § 1.º Não havendo investigadores no respectivo laboratório, poderá ser nomeado um dos especialistas do mesmo para desempenhar interinamente as funções de subdirector.
 
 § 2.º Os subdirectores terão direito às remunerações atribuídas aos investigadores pelo artigo 11.º do presente diploma e, sem prejuízo do disposto no artigo 12.º, a uma gratificação mensal de 3000$00.
 
-Art. 4.º Os directores e subdirectores dos laboratórios ultramarinos são nomeados em comissão de serviço, nos termos dos artigos 36.º e 37.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
+###### Artigo 4.º
 
-Art. 5.º A chefia dos serviços será atribuída, por escolha, pelo governador-geral, mediante proposta do director do laboratório, a investigadores do respectivo quadro ou, na sua falta, a especialistas, podendo ser retirada em qualquer altura.
+Os directores e subdirectores dos laboratórios ultramarinos são nomeados em comissão de serviço, nos termos dos artigos 36.º e 37.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
+
+###### Artigo 5.º
+
+A chefia dos serviços será atribuída, por escolha, pelo governador-geral, mediante proposta do director do laboratório, a investigadores do respectivo quadro ou, na sua falta, a especialistas, podendo ser retirada em qualquer altura.
 
 § único. Os chefes de serviço terão direito a uma gratificação mensal de 2000$00, sem prejuízo do disposto no artigo 12.º do presente diploma.
 
-Art. 6.º A admissão no quadro do pessoal técnico superior dos laboratórios ultramarinos será precedida de um estágio e de um concurso para obtenção de certificado de estágio, a que serão aplicáveis os preceitos contidos no artigo 23.º e seus §§ 1.º, 2.º, 5.º, 6.º, 7.º e 8.º, no artigo 25 .º e seu § 1.º, no artigo 32.º e no corpo do artigo 33.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, e no artigo 13.º do [Decreto-Lei n.º 47627](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47627-1967-509792), de 7 de Abril de 1967.
+###### Artigo 6.º
+
+A admissão no quadro do pessoal técnico superior dos laboratórios ultramarinos será precedida de um estágio e de um concurso para obtenção de certificado de estágio, a que serão aplicáveis os preceitos contidos no artigo 23.º e seus §§ 1.º, 2.º, 5.º, 6.º, 7.º e 8.º, no artigo 25 .º e seu § 1.º, no artigo 32.º e no corpo do artigo 33.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, e no artigo 13.º do [Decreto-Lei n.º 47627](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47627-1967-509792), de 7 de Abril de 1967.
 
 § 1.º A admissão dos estagiários será feita por contrato anual, automàticamente prorrogável por iguais períodos até à publicação dos resultados do concurso referido no § 1.º do artigo 25.º do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, a que o estagiário se candidatar.
 
@@ -182,31 +211,55 @@ Art. 6.º A admissão no quadro do pessoal técnico superior dos laboratórios u
 
 3.º Mediante despacho favorável do governador-geral, a situação do estagiário pode ser prolongada por um período até seis meses após a aprovação no concurso para obtenção de certificado de estágio para especialista.
 
-Art. 7.º Os estagiários para especialistas terão direito aos vencimentos fixados para os segundos-assistentes dos Estudos Gerais Universitários da respectiva província.
+###### Artigo 7.º
 
-Art. 8.º Aos lugares de especialista dos laboratórios ultramarinos são aplicáveis os preceitos contidos no artigo 26.º e seus parágrafos do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961.
+Os estagiários para especialistas terão direito aos vencimentos fixados para os segundos-assistentes da Universidade da respectiva província.
+
+> Alterado pelo/a [Decreto-Lei n.º 48878](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48878-1969-527450), publicado em 1969-02-22.
+
+###### Artigo 8.º
+
+Aos lugares de especialista dos laboratórios ultramarinos são aplicáveis os preceitos contidos no artigo 26.º e seus parágrafos do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961.
 
 § único. Não havendo candidatos em número suficiente, poderão ser excepcionalmente admitidos indivíduos com o grau de especialista que tenham interrompido, ainda que por prazo superior a três anos, a prestação de serviço em qualquer dos laboratórios.
 
-Art. 9.º Os especialistas terão direito aos vencimentos dos primeiros-assistentes dos Estudos Gerais Universitários da respectiva província.
+###### Artigo 9.º
 
-Art. 10.º Três dos lugares de especialista de cada laboratório poderão ser preenchidos, por livre escolha do Ministro do Ultramar, mediante proposta do governador-geral, ouvido o director do laboratório, entre indivíduos habilitados com curso superior que tenham prestado quatro anos de bom e efectivo serviço no laboratório e revelado excepcionais qualidades para o desempenho de actividades necessárias, mas que se não adeqúem à realização dos concursos previstos no presente diploma, em especial em outros domínios que não seja a engenharia civil.
+Os especialistas terão direito ao vencimento dos professores extraordinários da Universidade da respectiva província.
 
-Art. 11.º Aos lugares de investigador dos laboratórios ultramarinos são aplicáveis os preceitos contidos no artigo 27.º e seus parágrafos, no artigo 28.º e seu § 1.º e no artigo 29.º e seus parágrafos do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, não sendo, contudo, válida a excepção prevista no corpo do artigo 27.º que se refere ao artigo 30.º do mesmo diploma.
+> Alterado pelo/a [Decreto-Lei n.º 48878](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48878-1969-527450), publicado em 1969-02-22.
+
+###### Artigo 10.º
+
+Três dos lugares de especialista de cada laboratório poderão ser preenchidos, por livre escolha do Ministro do Ultramar, mediante proposta do governador-geral, ouvido o director do laboratório, entre indivíduos habilitados com curso superior que tenham prestado quatro anos de bom e efectivo serviço no laboratório e revelado excepcionais qualidades para o desempenho de actividades necessárias, mas que se não adeqúem à realização dos concursos previstos no presente diploma, em especial em outros domínios que não seja a engenharia civil.
+
+###### Artigo 11.º
+
+Aos lugares de investigador dos laboratórios ultramarinos são aplicáveis os preceitos contidos no artigo 27.º e seus parágrafos, no artigo 28.º e seu § 1.º e no artigo 29.º e seus parágrafos do [Decreto-Lei n.º 43825](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43825-1961-173361), de 27 de Julho de 1961, não sendo, contudo, válida a excepção prevista no corpo do artigo 27.º que se refere ao artigo 30.º do mesmo diploma.
 
 § 1.º É aplicável aos directores e aos subdirectores dos laboratórios ultramarinos o disposto no artigo 6.º do [Decreto-Lei n.º 47627](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47627-1967-509792), de 7 de Abril de 1967.
 
 § 2.º Cabe ao Ministro do Ultramar usar da faculdade conferida no § 1.º do artigo 28.º do decreto-lei mencionado no corpo deste artigo, ouvido o governador-geral da província.
 
-Art. 12.º Para aplicação do disposto nos artigos 2.º, 3.º, 7.º, 9.º e 11.º deste diploma, considerar-se-á a equivalência aos Estudos Gerais Universitários das respectivas províncias, a qual abrangerá as categorias e vencimentos, sendo as gratificações fixadas em cada província por diploma legislativo, observando-se a hierarquia dos cargos.
+###### Artigo 12.º
 
-Art. 13.º Ao pessoal de formação universitária a que se refere o artigo 1.º deste diploma e aos estagiários para especialista que não exerçam outra actividade remunerada, quer oficial, quer particular, é atribuído, cumulativamente, um subsídio especial entre 2000$00 e 4000$00 por mês, conforme as informações de serviço e o curriculum vitae do agente de serviço.
+Para aplicação do disposto nos artigos 2.º, 3.º, 7.º, 9.º e 11.º deste diploma, considerar-se-á a equivalência à Universidade da respectiva província, a qual abrangerá as categorias e vencimentos, sendo as gratificações fixadas em cada província por diploma legislativo, observando-se a hierarquia dos cargos.
+
+> Alterado pelo/a [Decreto-Lei n.º 48878](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48878-1969-527450), publicado em 1969-02-22.
+
+###### Artigo 13.º
+
+Ao pessoal de formação universitária a que se refere o artigo 1.º deste diploma e aos estagiários para especialista que não exerçam outra actividade remunerada, quer oficial, quer particular, é atribuído, cumulativamente, um subsídio especial entre 2000$00 e 4000$00 por mês, conforme as informações de serviço e o curriculum vitae do agente de serviço.
 
 § único. A fixação do montante do subsídio compete ao governador-geral, mediante proposta do director do laboratório, ouvido o respectivo conselho técnico.
 
-Art. 14.º Aos concursos referidos no presente diploma é aplicável o disposto no Regulamento das Informações de Serviço e dos Concursos do Pessoal Técnico e do Pessoal de Traduções do Laboratório Nacional de Engenharia Civil, aprovado pelo [Decreto n.º 44157](https://diariodarepublica.pt/dr/detalhe/decreto/44157-1962-520186), de 17 de Janeiro de 1962.
+###### Artigo 14.º
 
-Art. 15.º Os concursos para obtenção do grau de investigador e do certificado de estágio para especialista são da responsabilidade do Laboratório Nacional de Engenharia Civil, nele abertos e realizados.
+Aos concursos referidos no presente diploma é aplicável o disposto no Regulamento das Informações de Serviço e dos Concursos do Pessoal Técnico e do Pessoal de Traduções do Laboratório Nacional de Engenharia Civil, aprovado pelo [Decreto n.º 44157](https://diariodarepublica.pt/dr/detalhe/decreto/44157-1962-520186), de 17 de Janeiro de 1962.
+
+###### Artigo 15.º
+
+Os concursos para obtenção do grau de investigador e do certificado de estágio para especialista são da responsabilidade do Laboratório Nacional de Engenharia Civil, nele abertos e realizados.
 
 § 1.º Dos júris dos concursos em que participem candidatos dos laboratórios ultramarinos fará parte, pelo menos, um membro proposto por cada um dos laboratórios dos candidatos, escolhido pela sua especial competência nos assuntos a versar.
 
@@ -216,31 +269,49 @@ Art. 15.º Os concursos para obtenção do grau de investigador e do certificado
 
 § 4.º O estágio para especialista ou a preparação da tese exigida para o concurso para investigador podem decorrer em qualquer dos três laboratórios, permitindo-se que a tese possa ser preparada, total ou parcialmente, noutras instituições de investigação nacionais ou estrangeiras.
 
-Art. 16.º Os graus de especialista e de investigador, alcançados com observância das disposições contidas nos artigos 6.º e 11.º do presente diploma, permitirão o ingresso no quadro do laboratório a que pertençam.
+###### Artigo 16.º
 
-Art. 17.º Cabe aos laboratórios ultramarinos suportar, por força dos seus orçamentos privativos, as despesas que resultem para o Laboratório Nacional de Engenharia Civil da realização dos concursos do pessoal desses laboratórios.
+Os graus de especialista e de investigador, alcançados com observância das disposições contidas nos artigos 6.º e 11.º do presente diploma, permitirão o ingresso no quadro do laboratório a que pertençam.
 
-Art. 18.º Os especialistas do quadro do Laboratório Nacional de Engenharia Civil em comissão de serviço nos laboratórios ultramarinos poderão apresentar-se a concurso para investigador, independentemente do disposto no § 1.º do artigo 60.º do Regulamento aprovado pelo [Decreto n.º 44157](https://diariodarepublica.pt/dr/detalhe/decreto/44157-1962-520186), de 17 de Janeiro de 1962.
+###### Artigo 17.º
 
-Art. 19.º É permitida a transferência de estagiários, especialistas e investigadores entre os quadros dos laboratórios ultramarinos e do Laboratório Nacional de Engenharia Civil.
+Cabe aos laboratórios ultramarinos suportar, por força dos seus orçamentos privativos, as despesas que resultem para o Laboratório Nacional de Engenharia Civil da realização dos concursos do pessoal desses laboratórios.
+
+###### Artigo 18.º
+
+Os especialistas do quadro do Laboratório Nacional de Engenharia Civil em comissão de serviço nos laboratórios ultramarinos poderão apresentar-se a concurso para investigador, independentemente do disposto no § 1.º do artigo 60.º do Regulamento aprovado pelo [Decreto n.º 44157](https://diariodarepublica.pt/dr/detalhe/decreto/44157-1962-520186), de 17 de Janeiro de 1962.
+
+###### Artigo 19.º
+
+É permitida a transferência de estagiários, especialistas e investigadores entre os quadros dos laboratórios ultramarinos e do Laboratório Nacional de Engenharia Civil.
 
 § 1.º As transferências efectuar-se-ão sempre dentro das respectivas categorias, verificada a existência de vaga e a requerimento dos funcionários, com o acordo dos directores dos laboratórios interessados.
 
 § 2.º A autorização para as transferências, depois de obtidos pareceres favoráveis dos governadores-gerais respectivos, compete ao Ministro do Ultramar ou a este e ao das Obras Públicas em conjunto, conforme se trate de transferências entre os laboratórios ultramarinos ou entre um destes e o Laboratório Nacional de Engenharia Civil, respectivamente.
 
-Art. 20.º Sem prejuízo do disposto no Estatuto do Funcionalismo Ultramarino, são aplicáveis aos laboratórios ultramarinos as disposições dos artigos 2.º a 4.º e 9.º a 11.º do Regulamento aprovado pelo [Decreto n.º 44157](https://diariodarepublica.pt/dr/detalhe/decreto/44157-1962-520186) de 17 de Janeiro de 1962, devendo entender-se, para este efeito, que os laboratórios ultramarinos a que os funcionários pertencem substituem o Laboratório Nacional de Engenharia Civil.
+###### Artigo 20.º
+
+Sem prejuízo do disposto no Estatuto do Funcionalismo Ultramarino, são aplicáveis aos laboratórios ultramarinos as disposições dos artigos 2.º a 4.º e 9.º a 11.º do Regulamento aprovado pelo [Decreto n.º 44157](https://diariodarepublica.pt/dr/detalhe/decreto/44157-1962-520186) de 17 de Janeiro de 1962, devendo entender-se, para este efeito, que os laboratórios ultramarinos a que os funcionários pertencem substituem o Laboratório Nacional de Engenharia Civil.
 
 § único. Os critérios a seguir nas classificações a atribuir dentro da escala a que se referem o artigo 9.º e os seus parágrafos do Regulamento citado no corpo deste artigo serão estabelecidos pelo Conselho Superior dos Laboratórios de Engenharia Civil.
 
-Art. 21.º O pessoal superior dos quadros dos laboratórios ultramarinos pode, sob proposta favorável do governador-geral e mediante autorização do Ministro do Ultramar, exercer cumulativamente funções docentes em escolas superiores.
+###### Artigo 21.º
 
-Art. 22.º Os laboratórios ultramarinos poderão contratar temporàriamente ou subsidiar técnicos nacionais ou estrangeiros de reconhecida competência para a realização de determinados trabalhos especiais, mediante proposta do governador-geral e autorização do Ministro do Ultramar, dentro das dotações orçamentais para pagamento a pessoal fora dos quadros ou pelas verbas consignadas a estudos.
+O pessoal superior dos quadros dos laboratórios ultramarinos pode, sob proposta favorável do governador-geral e mediante autorização do Ministro do Ultramar, exercer cumulativamente funções docentes em escolas superiores.
+
+###### Artigo 22.º
+
+Os laboratórios ultramarinos poderão contratar temporàriamente ou subsidiar técnicos nacionais ou estrangeiros de reconhecida competência para a realização de determinados trabalhos especiais, mediante proposta do governador-geral e autorização do Ministro do Ultramar, dentro das dotações orçamentais para pagamento a pessoal fora dos quadros ou pelas verbas consignadas a estudos.
 
 § único. Este pessoal será contratado nas condições estabelecidas pelo Estatuto do Funcionalismo Ultramarino.
 
-Art. 23.º Os investigadores dos laboratórios ultramarinos são membros do conselho técnico do respectivo laboratório.
+###### Artigo 23.º
 
-Art. 24.º O pessoal actualmente em serviço nos laboratórios ultramarinos transitará, conservando todos os direitos adquiridos, sem dependência de quaisquer formalidades, para o quadro a que se refere o artigo 1.º, pela forma seguinte:
+Os investigadores dos laboratórios ultramarinos são membros do conselho técnico do respectivo laboratório.
+
+###### Artigo 24.º
+
+O pessoal actualmente em serviço nos laboratórios ultramarinos transitará, conservando todos os direitos adquiridos, sem dependência de quaisquer formalidades, para o quadro a que se refere o artigo 1.º, pela forma seguinte:
 
 a) Os actuais directores e subdirectores para os lugares da mesma designação, na forma de provimento em que actualmente se encontram;
 
@@ -248,11 +319,15 @@ b) Os actuais investigadores para especialistas.
 
 § único. A antiguidade na categoria dos funcionários abrangidos pelo disposto neste artigo será contada a partir da data da posse nos cargos que os mesmos funcionários exerçam à data da publicação do presente diploma.
 
-Art. 25.º Os primeiros e segundos-assistentes dos quadros e outro pessoal de formação universitária, em qualquer forma de provimento, não mencionados no artigo 24.º, actualmente em serviço nos laboratórios ultramarinos, mantêm a sua actual situação, podendo apresentar-se a concurso para obtenção do certificado de estágio para especialista, sendo-lhes contado o tempo de serviço já prestado na actual categoria como tempo de estágio.
+###### Artigo 25.º
+
+Os primeiros e segundos-assistentes dos quadros e outro pessoal de formação universitária, em qualquer forma de provimento, não mencionados no artigo 24.º, actualmente em serviço nos laboratórios ultramarinos, mantêm a sua actual situação, podendo apresentar-se a concurso para obtenção do certificado de estágio para especialista, sendo-lhes contado o tempo de serviço já prestado na actual categoria como tempo de estágio.
 
 § único. Aos funcionários abrangidos pelo disposto neste artigo não é aplicável o subsídio especial previsto no artigo 13.º do presente diploma.
 
-Art. 26.º São extintos os actuais lugares de director, subdirector, investigador, primeiro-assistente e segundo-assistente criados pelo Diploma Legislativo Ministerial n.º 87, de 26 de Outubro de 1961, e pela [Portaria n.º 19748](https://diariodarepublica.pt/dr/detalhe/portaria/19748-1963-194443), de 5 de Março de 1963.
+###### Artigo 26.º
+
+São extintos os actuais lugares de director, subdirector, investigador, primeiro-assistente e segundo-assistente criados pelo Diploma Legislativo Ministerial n.º 87, de 26 de Outubro de 1961, e pela [Portaria n.º 19748](https://diariodarepublica.pt/dr/detalhe/portaria/19748-1963-194443), de 5 de Março de 1963.
 
 § 1.º Dos lugares a que se refere o corpo do artigo manter-se-ão, porém, os lugares preenchidos por pessoal que não transite para o novo quadro criado por este decreto-lei e sòmente enquanto estiverem ocupados pelos actuais titulares.
 
@@ -260,9 +335,13 @@ Art. 26.º São extintos os actuais lugares de director, subdirector, investigad
 
 § 3.º Se os actuais primeiros e segundos-assistentes e os outros funcionários de formação universitária não requererem a admissão a concurso para obtenção do certificado do estágio para especialista no prazo de seis anos, a contar da data do presente diploma, poderão ser preenchidos os correspondentes lugares de especialista que foram deixados vagos, nos termos do parágrafo anterior.
 
-Art. 27.º Os governadores-gerais farão publicar nos Boletins Oficiais das respectivas províncias, dentro de sessenta dias, contados da data do presente decreto-lei, a relação do pessoal dos laboratórios ultramarinos, com indicação dos lugares e situação em que fica provido nos termos do presente diploma.
+###### Artigo 27.º
 
-Art. 28.º O presente diploma entra imediatamente em vigor.
+Os governadores-gerais farão publicar nos Boletins Oficiais das respectivas províncias, dentro de sessenta dias, contados da data do presente decreto-lei, a relação do pessoal dos laboratórios ultramarinos, com indicação dos lugares e situação em que fica provido nos termos do presente diploma.
+
+###### Artigo 28.º
+
+O presente diploma entra imediatamente em vigor.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 

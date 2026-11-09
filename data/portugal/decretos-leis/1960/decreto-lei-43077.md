@@ -28,10 +28,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1973-12-21'
+version_history:
+  file: decreto-lei-43077.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-07-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1973-12-21'
+    amending: pt:dre:199626:por
+    amending_title: Decreto-Lei n.º 49106; Decreto-Lei n.º 683/73
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 9.º
+    - Altera Artigo 2.º
+    - Altera Artigo 10.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:32:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49106; Decreto-Lei
+    n.º 683/73. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43077.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -160,7 +180,25 @@ Convindo regular e unificar certos procedimentos directamente ligados com alguma
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O Ministro da Defesa Nacional é responsável pela orientação e coordenação de todas as actividades fundamentais de preparação da defesa militar e da defesa civil, nomeadamente as detalhadas nos artigos 5.º e 6.º do presente diploma.
+###### Artigo 1.º
+
+O Ministro da Defesa Nacional por delegação do Presidente do Conselho é responsável pela coordenação e direcção de todas as actividades fundamentais de preparação e condução da defesa militar e da defesa civil, nomeadamente as mencionadas nos artigos 5.º e 6.º do presente diploma, competindo-lhe, tendo em conta as prioridades estabelecidas para o esforço de defesa:
+
+a) Dar directivas gerais para a realização em todo o território nacional da política de defesa militar definida pelo Governo;
+
+b) Aprovar os planos de operações que lhe sejam submetidos pelo chefe do Estado-Maior General das Forças Armadas;
+
+c) Aprovar os planos de forças, conjunto dos meios destinados a dar execução aos planos de operações, a realizar na parte respectiva pelos três departamentos das forças armadas;
+
+d) Atribuir a cada ramo das forças armadas os meios humanos necessários;
+
+e) Decidir, ouvido o Conselho Superior Militar, sobre os programas anuais de armamento e equipamento necessários à execução dos planos de forças;
+
+f) Repartir pelos três departamentos as verbas globais atribuídas à defesa nacional e realizar o financiamento desses departamentos de acordo com os seus planos de forças;
+
+g) Promover a eficiente gestão financeira das forças armadas, coordenar os projectos dos orçamentos militares do Exército, Marinha e Força Aérea e aprovar os não incluídos no Orçamento Geral do Estado;
+
+h) Requisitar a cada um dos três ramos das forças armadas o pessoal necessário para o preenchimento dos quadros dos órgãos na sua dependência.
 
 § 1.º O Ministro da Defesa Nacional pode, sempre que entender, presidir aos Conselhos Superiores do Exército, da Armada e da Aeronáutica. Sempre que tal acontecer, o titular do departamento interessado deverá participar na reunião.
 
@@ -172,15 +210,19 @@ Artigo 1.º O Ministro da Defesa Nacional é responsável pela orientação e co
 
 § 5.º Competem, também, ao Ministro da Defesa Nacional a orientação e coordenação de todas as medidas destinadas a facilitar, moral e materialmente, a satisfação das necessidades de ordem social da família militar e a contribuir para a manutenção de um são estado de espírito nos quadros permanentes das forças armadas, para o que accionará directamente os Serviços Sociais das Forças Armadas.
 
-Art. 2.º Para efeitos do disposto no artigo 1.º, a nomeação para o exercício de funções de comando ou chefia militar superior será objecto do procedimento seguinte:
+> Alterado pelo/a [Decreto-Lei n.º 49106](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49106-1969-199626), publicado em 1969-07-07.
+
+###### Artigo 2.º
+
+Para efeitos do disposto no artigo 1.º, a nomeação para o exercício de funções de comando ou chefia militar superior será objecto do procedimento seguinte:
 
 a) Chefe do Estado-Maior General das Forças Armadas: por portaria conjunta do Presidente do Conselho e do Ministro da Defesa Nacional;
 
-b) Presidente do Supremo Tribunal Militar: por portaria conjunta do Presidente do Conselho e do Ministro da Defesa Nacional;
+b) Presidente do Supremo Tribunal Militar e vice-chefe do Estado-Maior-General das Forças Armadas: por portaria conjunta do Presidente do Conselho e do Ministro da Defesa Nacional;
 
 c) Chefes dos Estados-Maiores do Exército e da Armada: por portaria conjunta do Ministro da Defesa Nacional e, respectivamente, dos titulares dos departamentos do Exército e da Marinha, com a concordância do Presidente do Conselho;
 
-d) Chefe do Estado-Maior da Força Aérea: por portaria do Ministro da Defesa Nacional, com a concordância do Presidente do Conselho e sob proposta do titular do departamento da Aeronáutica;
+d) Chefe do Estado-Maior da Força Aérea: por portaria conjunta do Ministro da Defesa Nacional e do Secretário de Estado da Aeronáutica, com a concordância do Presidente do Conselho.
 
 e) Comandantes militares com prerrogativas de comando unificado ou conjunto relativamente a forças pertencentes a mais do que um ramo das forças armadas: por diploma do Ministro da Defesa Nacional, ouvido o parecer do titular do departamento de origem do nomeado. Quando a nomeação se refira às províncias ultramarinas, será também ouvido o parecer do Ministro do Ultramar;
 
@@ -188,7 +230,11 @@ f) Comandantes militares, terrestres, navais ou aéreos das ilhas adjacentes ou 
 
 g) Comandantes-gerais da Guarda Nacional Republicana, Polícia de Segurança Pública, Guarda Fiscal e Legião Portuguesa: por portaria conjunta do Ministro da Defesa e dos Ministros do Interior ou das Finanças, com a concordância do Presidente do Conselho, ouvido o parecer do titular do departamento de origem do nomeado.
 
-Art. 3.º À Repartição do Gabinete do Ministro da Defesa Nacional compete:
+> Alterado pelo/a [Decreto-Lei n.º 683/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-1973-195785), publicado em 1973-12-21.
+
+###### Artigo 3.º
+
+À Repartição do Gabinete do Ministro da Defesa Nacional compete:
 
 a) Manter relações com os diferentes departamentos do Estado, sem prejuízo daquelas que sejam mantidas directamente pelo Secretariado-Geral da Defesa Nacional;
 
@@ -198,7 +244,9 @@ c) Realizar a revisão final de todos os diplomas legais que devam ser publicado
 
 d) Encarregar-se de todos os assuntos que lhe forem cometidos pelo Ministro ou que não estejam especificamente a cargo do Secretariado-Geral da Defesa Nacional.
 
-Art. 4.º A Repartição do Gabinete do Ministro da Defesa Nacional compreende:
+###### Artigo 4.º
+
+A Repartição do Gabinete do Ministro da Defesa Nacional compreende:
 
 a) O chefe;
 
@@ -208,7 +256,9 @@ c) A Secção de Estudos Jurídicos;
 
 d) A Secção de Expediente e Arquivo.
 
-Art. 5.º O Secretariado-Geral da Defesa Nacional é o órgão de estudo e de execução do Ministro da Defesa Nacional, competindo-lhe, em conformidade com as directivas deste:
+###### Artigo 5.º
+
+O Secretariado-Geral da Defesa Nacional é o órgão de estudo e de execução do Ministro da Defesa Nacional, competindo-lhe, em conformidade com as directivas deste:
 
 a) Transmitir e executar as instruções do Ministro relativas à coordenação da actividade dos departamentos do Exército, da Marinha e da Aeronáutica;
 
@@ -238,7 +288,9 @@ f) Registar as decisões tomadas pelos Conselhos indicados na alínea anterior, 
 
 § único. Para efeito de execução do disposto na alínea e) do presente artigo, devem ser remetidos ao Secretariado-Geral da Defesa Nacional, pelos diversos departamentos, os processos referentes aos assuntos a tratar nas reuniões do Conselho Superior da Defesa Nacional e do Conselho Superior Militar.
 
-Art. 6.º São também atribuições do Secretariado-Geral da Defesa Nacional:
+###### Artigo 6.º
+
+São também atribuições do Secretariado-Geral da Defesa Nacional:
 
 a) Estudar os problemas relativos à preparação geral da defesa militar em todo o território nacional;
 
@@ -250,31 +302,53 @@ d) Estudar as medidas de coordenação necessárias para a obtenção do apoio l
 
 e) Tomar a seu cargo, em ligação com os serviços centrais de coordenação dependentes do Ministro da Presidência, a mobilização e defesa dos estabelecimentos fabris militares do Estado, da indústria privada que produza ou seja adaptável ao fabrico de armamento, munições ou explosivos e do pessoal científico e técnico utilizável em trabalhos de investigação ou de produção de grande interesse para a defesa nacional.
 
-Art. 7.º O Secretariado-Geral da Defesa Nacional será consultado obrigatòriamente quando se trate do estudo e elaboração dos planos de redes rodoviárias e ferroviárias, dos planos de aeródromos, dos planos de plantação de maciços florestais, de grandes obras fluviais e de obras de construção ou de grande transformação dos portos referentes a qualquer zona do território nacional.
+###### Artigo 7.º
+
+O Secretariado-Geral da Defesa Nacional será consultado obrigatòriamente quando se trate do estudo e elaboração dos planos de redes rodoviárias e ferroviárias, dos planos de aeródromos, dos planos de plantação de maciços florestais, de grandes obras fluviais e de obras de construção ou de grande transformação dos portos referentes a qualquer zona do território nacional.
 
 Nas zonas de particular interesse para a defesa e em tudo o que respeita a grandes obras de caminhos de ferro, portos ou rios não poderão ser iniciados novos empreendimentos sem a concordância do Secretariado-Geral da Defesa Nacional.
 
-Art. 8.º O chefe do Estado-Maior General das Forças Armadas, oficial general do Exército, da Armada ou da Força Aérea, é o secretário-geral da Defesa Nacional.
+###### Artigo 8.º
 
-Art. 9.º O chefe do Estado-Maior General das Forças Armadas é o conselheiro técnico do Ministro da Defesa Nacional e superintende na execução das suas decisões em relação aos três ramos das forças armadas e à organização da defesa civil. Compete-lhe, em especial:
+O chefe do Estado-Maior General das Forças Armadas, oficial general do Exército, da Armada ou da Força Aérea, é o secretário-geral da Defesa Nacional.
 
-a) Inspeccionar superiormente as tropas, os serviços, as escolas, as obras de fortificação e demais instalações e bases militares, terrestres, navais e aéreas, orientando a acção dos inspectores superiores das forças armadas;
+###### Artigo 9.º
 
-b) Superintender, sob a autoridade do Ministro da Defesa Nacional, na execução das decisões relativas à defesa civil e inspeccionar superiormente os respectivos trabalhos;
+O chefe do Estado-Maior-General das Forças Armadas é o conselheiro técnico do Ministro da Defesa Nacional e superintende na execução das suas decisões em relação aos três ramos das forças armadas e à organização da defesa civil. Compete-lhe, em especial:
 
-c) Responder perante o Presidente do Conselho e o Ministro da Defesa Nacional pela preparação e conduta militar do conjunto das operações, as quais são da sua responsabilidade, estabelecendo, para os convenientes efeitos operacionais e informativos, ligações directas com os diversos comandos referidos no artigo 2.º do presente diploma;
+a) Responder perante o Presidente do Conselho e o Ministro da Defesa Nacional pela preparação e conduta militar do conjunto das operações, estabelecendo para os convenientes efeitos operacionais e informativos as ligações directas com os comandos referidos no artigo 2.º deste diploma;
 
-d) Preparar e submeter a exame e decisão do Ministro da Defesa Nacional os projectos relativos a manobras de conjunto, que poderá dirigir directamente quando tal for julgado necessário;
+b) Preparar e submeter à apreciação do Ministro da Defesa Nacional os planos de operações necessários à segurança do território, à segurança das linhas de comunicações e do espaço aéreo nacional e à satisfação dos compromissos militares internacionais;
 
-e) Submeter à decisão do Ministro da Defesa Nacional os assuntos que excedam a sua competência e não careçam de ser sujeitos a exame do Conselho Superior da Defesa Nacional ou do Conselho Superior Militar.
+c) Estudar, para decisão do Ministro da Defesa Nacional, as necessidades em pessoal, armamento e equipamento e as disponibilidades financeiras que condicionam a elaboração dos planos de operações e a constituição das reservas gerais, estabelecendo as respectivas prioridades;
+
+d) Orientar os chefes dos Estados-Maiores dos três ramos das forças armadas na inspecção da execução dos planos de forças no que a cada ramo compete realizar e inspeccionar superiormente a preparação daquelas forças;
+
+e) Superintender, sob a autoridade do Ministro da Defesa Nacional, na execução das decisões relativas à defesa civil e inspeccionar superiormente os respectivos trabalhos;
+
+f) Submeter à decisão do Ministro da Defesa Nacional os assuntos que excedam a sua competência e não careçam de ser sujeitos a exame do Conselho Superior de Defesa Nacional ou do Conselho Superior Militar;
+
+g) Comandar as forças em operações ou a elas destinadas exercendo a sua acção normalmente através dos chefes dos Estados-Maiores dos três ramos das forças armadas, no continente, e dos comandantes-chefes, nos territórios das ilhas adjacentes e nos ultramarinos.
 
 § único. O chefe do Estado-Maior General das Forças Armadas poderá assumir, quando tal seja julgado conveniente, a chefia directa de operações militares.
 
-Art. 10.º Junto do chefe do Estado-Maior General das Forças Armadas prestam serviço dois secretários adjuntos da Defesa Nacional, oficiais generais do Exército, da Armada ou da Força Aérea, que, além dos trabalhos que especialmente lhes forem confiados por aquela entidade, orientam e coordenam directamente a acção dos serviços do Secretariado-Geral da Defesa Nacional que lhes sejam atribuídos.
+> Alterado pelo/a [Decreto-Lei n.º 49106](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49106-1969-199626), publicado em 1969-07-07.
+
+###### Artigo 10.º
+
+Junto do chefe do Estado-Maior-General das Forças Armadas prestam serviço dois secretários-adjuntos da Defesa Nacional, oficiais generais do Exército, da Armada ou da Força Aérea e, quando o chefe do Estado-Maior o proponha, um vice-chefe, também oficial general de qualquer dos ramos das forças armadas.
+
+O vice-chefe do Estado-Maior-General tem competência cumulativa com o chefe do Estado-Maior-General para as matérias que, sob proposta deste, constem de despacho do Ministro da Defesa Nacional.
+
+Os secretários-adjuntos da Defesa Nacional, além dos trabalhos que especialmente lhes forem confiados pelo chefe do Estado-Maior-General, orientam e coordenam directamente a acção dos serviços do Secretariado-Geral da Defesa Nacional que lhes sejam atribuídos.
 
 § único. Os oficiais que desempenhem os cargos de chefe do Estado-Maior General das Forças Armadas e de secretário adjunto da Defesa Nacional devem pertencer a ramos diferentes das forças armadas.
 
-Art. 11.º O Secretariado-Geral da Defesa Nacional compreende:
+> Alterado pelo/a [Decreto-Lei n.º 683/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-1973-195785), publicado em 1973-12-21.
+
+###### Artigo 11.º
+
+O Secretariado-Geral da Defesa Nacional compreende:
 
 Três repartições;
 
@@ -288,7 +362,9 @@ Registo;
 
 Biblioteca.
 
-Art. 12.º À 1.ª Repartição competem todos os assuntos relativos a operações militares, em especial:
+###### Artigo 12.º
+
+À 1.ª Repartição competem todos os assuntos relativos a operações militares, em especial:
 
 a) Estudar as normas que devem orientar os planos de defesa, projectos de operações e outros trabalhos de planeamento operacional conjunto a elaborar pelos estados-maiores das forças armadas;
 
@@ -300,7 +376,9 @@ d) Estudar os assuntos relativos à orientação e inspecção da defesa civil e
 
 e) Estudar os problemas militares de telecomunicações, de âmbito nacional ou internacional, que digam respeito às forças armadas ou sejam de interesse para a defesa nacional.
 
-Art. 13.º À 2.ª Repartição compete:
+###### Artigo 13.º
+
+À 2.ª Repartição compete:
 
 a) Superintender nos serviços de informações militares, sobretudo no que se refere à contra-espionagem e à segurança interna e externa da Nação;
 
@@ -314,7 +392,9 @@ e) Manter as relações com o Ministério dos Negócios Estrangeiros e estudar, 
 
 f) Estudar os problemas relativos aos serviços de cifra, à segurança dos documentos classificados, nacionais ou oriundos de organizações internacionais, e ainda os problemas relacionados com as atribuições da Comissão Interministerial de Segurança, elaborar as correspondentes directivas técnicas e fiscalizar o seu cumprimento.
 
-Art. 14.º À 3.ª Repartição compete:
+###### Artigo 14.º
+
+À 3.ª Repartição compete:
 
 a) Estudar os programas gerais de armamento e equipamento das forças armadas, graduando, por ordem de urgência, a sua execução;
 
@@ -332,9 +412,13 @@ g) Colaborar nos estudos relativos à mobilização dos transportes e da mão-de
 
 h) Preparar, para apreciação e decisão superior, os estudos a que se refere a alínea d) do artigo 5.º e alínea d) do artigo 6.º do presente diploma.
 
-Art. 15.º As repartições dispõem de serviços privativos de secretaria e arquivo, para recepção, expedição e execução de expediente e para a guarda de documentação não especialmente classificada respeitante aos assuntos da sua competência.
+###### Artigo 15.º
 
-Art. 16.º À secretaria compete:
+As repartições dispõem de serviços privativos de secretaria e arquivo, para recepção, expedição e execução de expediente e para a guarda de documentação não especialmente classificada respeitante aos assuntos da sua competência.
+
+###### Artigo 16.º
+
+À secretaria compete:
 
 a) Tratar dos assuntos referentes ao pessoal militar e civil em serviço no Secretariado-Geral da Defesa Nacional, incluindo a escrituração da documentação respectiva, em especial a dos registos de matrícula;
 
@@ -348,25 +432,47 @@ e) Elaborar os diplomas relativos a nomeações, exonerações, louvores e conde
 
 f) Registar as condecorações conferidas pelo Ministro da Defesa Nacional a estrangeiros.
 
-Art. 17.º O Secretariado-Geral da Defesa Nacional dispõe de autonomia administrativa, competindo-lhe também a administração das verbas atribuídas ao Gabinete do Ministro da Defesa Nacional. O respectivo conselho administrativo terá constituição análoga à dos conselhos administrativos das unidades e estabelecimentos dependentes do Ministério do Exército, sendo a sua presidência exercida pelo chefe da secretaria do Secretariado-Geral da Defesa Nacional.
+###### Artigo 17.º
+
+O Secretariado-Geral da Defesa Nacional dispõe de autonomia administrativa, competindo-lhe também a administração das verbas atribuídas ao Gabinete do Ministro da Defesa Nacional. O respectivo conselho administrativo terá constituição análoga à dos conselhos administrativos das unidades e estabelecimentos dependentes do Ministério do Exército, sendo a sua presidência exercida pelo chefe da secretaria do Secretariado-Geral da Defesa Nacional.
 
 § único. Na dependência do conselho administrativo funciona a biblioteca.
 
-Art. 18.º O centro de transmissões funciona sob a orientação técnica da 1.ª e 2.ª Repartições, no que se refere, respectivamente, a procedimentos técnicos e a segurança, e tem a seu cargo o encaminhamento, processamento, cifra, distribuição e arquivo de todas as mensagens enviadas pela Repartição do Gabinete do Ministro da Defesa Nacional e pelo Secretariado-Geral da Defesa Nacional ou a eles destinadas, para o que disporá das necessárias secções.
+###### Artigo 18.º
 
-Art. 19.º O registo funciona, sob a orientação técnica da 2.ª Repartição, de acordo com normas próprias, e destina-se ao arquivo da documentação e da correspondência sujeitas a condições especiais de segurança.
+O centro de transmissões funciona sob a orientação técnica da 1.ª e 2.ª Repartições, no que se refere, respectivamente, a procedimentos técnicos e a segurança, e tem a seu cargo o encaminhamento, processamento, cifra, distribuição e arquivo de todas as mensagens enviadas pela Repartição do Gabinete do Ministro da Defesa Nacional e pelo Secretariado-Geral da Defesa Nacional ou a eles destinadas, para o que disporá das necessárias secções.
 
-Art. 20.º Além do que eventualmente for necessário para a elaboração de trabalhos de natureza especial ou urgente, o pessoal que orgânicamente serve na Repartição do Gabinete do Ministro e no Secretariado-Geral da Defesa Nacional é o constante dos quadros I, II e III anexos ao presente diploma.
+###### Artigo 19.º
 
-§ único. Não estão incluídos nos quadros a que se refere o corpo deste artigo o chefe da Repartição do Gabinete e os ajudantes de campo do Ministro e do chefe do Estado-Maior General das Forças Armadas. O primeiro vence pela função e os outros pelos respectivos quadros.
+O registo funciona, sob a orientação técnica da 2.ª Repartição, de acordo com normas próprias, e destina-se ao arquivo da documentação e da correspondência sujeitas a condições especiais de segurança.
 
-Art. 21.º As delegações ou representações militares exigidas pelos acordos ou convenções militares ou por necessidades de coordenação das forças armadas funcionam na dependência do Secretariado-Geral da Defesa Nacional.
+###### Artigo 20.º
 
-Art. 22.º O chefe do Estado-Maior General das Forças Armadas é hieràrquicamente superior a todos os oficiais generais de terra, mar e ar e pode, nessa qualidade, ser mantido em serviço efectivo até aos 67 anos de idade. Usará os emblemas e distintivos estabelecidos e disporá de dois ajudantes de campo, oficiais do Exército, da Armada ou da Força Aérea, de preferência com o curso do estado-maior.
+Além do que eventualmente for necessário para a elaboração de trabalhos de natureza especial ou urgente, o pessoal que orgânicamente serve na Repartição do Gabinete do Ministro e no Secretariado-Geral da Defesa Nacional é o constante dos quadros I, II e III anexos ao presente diploma.
 
-Art. 23.º O pessoal menor da Repartição do Gabinete do Ministro da Defesa Nacional e do Secretariado-Geral da Defesa Nacional pode, eventualmente, ser designado entre sargentos e praças do Exército, da Armada ou da Força Aérea com as necessárias habilitações e aptidão física. Aos departamentos do Exército, da Marinha e da Aeronáutica pode ainda ser requisitado pessoal militar do activo, da reserva ou reformado para a satisfação das necessidades imprescindíveis dos serviços.
+§ único. Não estão incluídos nos quadros a que se refere o corpo deste artigo o chefe da Repartição do Gabinete e os ajudantes-de-campo do Ministro, do chefe e vice-chefe do Estado-Maior-General das Forças Armadas. O primeiro vence pela função e os outros pelos respectivos quadros.
 
-Art. 24.º O excesso de encargos decorrentes da presente reorganização relativamente à orgânica do Secretariado-Geral da Defesa Nacional, estabelecida pelo [Decreto-Lei n.º 39069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39069-1952-418469), de 31 de Dezembro de 1952, será no ano de 1960 suportado por conta da verba consignada a «Despesas extraordinárias - Defesa nacional - Para satisfação de despesas militares em harmonia com compromissos tomados internacionalmente».
+> Alterado pelo/a [Decreto-Lei n.º 683/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-1973-195785), publicado em 1973-12-21.
+
+###### Artigo 21.º
+
+As delegações ou representações militares exigidas pelos acordos ou convenções militares ou por necessidades de coordenação das forças armadas funcionam na dependência do Secretariado-Geral da Defesa Nacional.
+
+###### Artigo 22.º
+
+O chefe do Estado-Maior-General das Forças Armadas é hierarquicamente superior a todos os oficiais generais de terra, mar e ar e usará os emblemas e distintivos estabelecidos, dispondo de dois ajudantes-de-campo, oficiais do Exército, da Armada e da Força Aérea, de preferência com o curso de estado-maior.
+
+O vice-chefe do Estado-Maior-General das Forças Armadas dispõe de um ajudante-de-campo, oficial do Exército, da Armada ou da Força Aérea.
+
+> Alterado pelo/a [Decreto-Lei n.º 683/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-1973-195785), publicado em 1973-12-21.
+
+###### Artigo 23.º
+
+O pessoal menor da Repartição do Gabinete do Ministro da Defesa Nacional e do Secretariado-Geral da Defesa Nacional pode, eventualmente, ser designado entre sargentos e praças do Exército, da Armada ou da Força Aérea com as necessárias habilitações e aptidão física. Aos departamentos do Exército, da Marinha e da Aeronáutica pode ainda ser requisitado pessoal militar do activo, da reserva ou reformado para a satisfação das necessidades imprescindíveis dos serviços.
+
+###### Artigo 24.º
+
+O excesso de encargos decorrentes da presente reorganização relativamente à orgânica do Secretariado-Geral da Defesa Nacional, estabelecida pelo [Decreto-Lei n.º 39069](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39069-1952-418469), de 31 de Dezembro de 1952, será no ano de 1960 suportado por conta da verba consignada a «Despesas extraordinárias - Defesa nacional - Para satisfação de despesas militares em harmonia com compromissos tomados internacionalmente».
 
 Publique-se e cumpra-se como nele se contém.
 

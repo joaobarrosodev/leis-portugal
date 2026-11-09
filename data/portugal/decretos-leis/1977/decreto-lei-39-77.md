@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-07-06'
+version_history:
+  file: decreto-lei-39-77.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-01-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-07-06'
+    amending: pt:dre:298017:por
+    amending_title: Decreto-Lei n.º 162/78
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:06:24Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 162/78. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1977/decreto-lei-39-77.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,11 +143,19 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º Os funcionários públicos e administrativos que forem designados como administradores por parte do Estado ou dos corpos administrativos junto de qualquer empresa mantêm os direitos adquiridos como beneficiários da Assistência na Doença aos Servidores Civis do Estado, sempre que optem pelo regime de aposentação do Estado e continuem, assim, a descontar as quotas devidas para a Caixa Geral de Aposentações.
+###### Artigo 1.º
 
-Art. 2.º Os encargos resultantes da opção a que se refere o artigo 1.º são liquidados e pagos nas mesmas condições e através das mesmas entidades que procediam a essa liquidação e pagamento na situação anterior à designação dos funcionários para o desempenho dos cargos referidos no mesmo artigo.
+Os funcionários e agentes que forem designados como administradores por parte do Estado ou dos corpos administrativos junto de qualquer empresa mantêm o direito à inscrição como beneficiários da Assistência na Doença aos Servidores Civis do Estado (ADSE), sempre que optem pelo regime de aposentação do Estado e continuem, assim, a descontar as quotas devidas para a Caixa Geral de Aposentações.
 
-Art. 3.º A qualidade de beneficiário da ADSE não se manterá, porém, quando o funcionário, em comissão de serviço, celebrar contrato com o IPE, como gestor público profissional, nos termos do artigo 14.º do [Decreto-Lei n.º 831/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/831-1976-406762), de 25 de Novembro.
+> Alterado pelo/a [Decreto-Lei n.º 162/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-1978-298017), publicado em 1978-07-06.
+
+###### Artigo 2.º
+
+Os encargos resultantes da opção a que se refere o artigo 1.º são liquidados e pagos nas mesmas condições e através das mesmas entidades que procediam a essa liquidação e pagamento na situação anterior à designação dos funcionários para o desempenho dos cargos referidos no mesmo artigo.
+
+###### Artigo 3.º
+
+A qualidade de beneficiário da ADSE não se manterá, porém, quando o funcionário, em comissão de serviço, celebrar contrato com o IPE, como gestor público profissional, nos termos do artigo 14.º do [Decreto-Lei n.º 831/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/831-1976-406762), de 25 de Novembro.
 
 Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.
 

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-07-21'
+version_history:
+  file: decreto-lei-573-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-12-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-07-21'
+    amending: pt:dre:391419:por
+    amending_title: Decreto-Lei n.º 256/93
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:35:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 256/93. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-573-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -140,7 +155,9 @@ Tendo em conta que se torna necessário criar condições para a organização r
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º A alínea c) do artigo 23.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 483/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-1974-473370), de 25 de Setembro, passa a ter a seguinte redacção:
+###### Artigo 1.º
+
+A alínea c) do artigo 23.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 483/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-1974-473370), de 25 de Setembro, passa a ter a seguinte redacção:
 
 c) Pelo pessoal operário e auxiliar, que compreende as seguintes categorias e carreiras:
 
@@ -190,37 +207,59 @@ Carpinteiro de toscos ou cofragens de 1.ª classe, de 2.ª classe ou de 3.ª cla
 
 Jardineiro de 1.ª classe, de 2.ª classe ou de 3.ª classe.
 
-Art. 2.º O quadro do pessoal operário e auxiliar aprovado pelo mapa anexo ao [Decreto-Lei n.º 308/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1974-402961), de 6 de Julho, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 483/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-1974-473370), de 25 de Setembro, e pela [Portaria n.º 1096/80](https://diariodarepublica.pt/dr/detalhe/portaria/1096-1980-457074), de 27 de Dezembro, nos termos do artigo 19.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), é substituído pelo quadro junto ao presente diploma.
+###### Artigo 2.º
 
-Art. 3.º Compete ao mordomo coordenar os serviços das recepções protocolares do Ministério e ainda os que, pela sua natureza ou em face das necessidades que se verifiquem, venham a ser-lhe confiados.
+O quadro do pessoal operário e auxiliar aprovado pelo mapa anexo ao [Decreto-Lei n.º 308/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-1974-402961), de 6 de Julho, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 483/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/483-1974-473370), de 25 de Setembro, e pela [Portaria n.º 1096/80](https://diariodarepublica.pt/dr/detalhe/portaria/1096-1980-457074), de 27 de Dezembro, nos termos do artigo 19.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), é substituído pelo quadro junto ao presente diploma.
 
-Art. 4.º - 1 - O provimento do lugar de mordomo far-se-á, mediante concurso documental, de entre indivíduos que possuam, cumulativamente, as habilitações seguintes:
+###### Artigo 3.º
 
-a) Curso geral do ensino secundário ou equiparado;
+Compete ao mordomo coordenar os serviços das recepções protocolares do Ministério e ainda os que, pela sua natureza ou em face das necessidades que se verifiquem, venham a ser-lhe confiados.
 
-b) Formação e experiência profissional adequadas à função a que se destinam.
+###### Artigo 4.º
 
-2 - O primeiro provimento deste lugar será feito pelo Ministro dos Negócios Estrangeiros de entre o pessoal auxiliar em serviço à data da entrada em vigor deste diploma, independentemente do preenchimento da condição prevista na alínea a), após ter sido ouvido o conselho do Ministério, nos termos do [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), de 20 de Fevereiro.
+O recrutamento para o lugar de mordomo faz-se, mediante concurso, de entre:
 
-Art. 5.º Compete ao encarregado da bagagem proceder à recepção e à expedição de malas diplomáticas e outros volumes, garantindo a sua distribuição pelos seus destinatários.
+a) Encarregados de pessoal auxiliar, auxiliares administrativos posicionados no escalão 5 ou superior e fiéis de armazém e auxiliares técnicos de sala também no escalão 5 ou superior, todos com classificação de Muito bom nos últimos três anos;
 
-Art. 6.º Compete ao auxiliar técnico de sala, para além de todos os serviços que, pelo regulamento existente, devem incumbir ao contínuo, velar pela boa organização, arranjo e assistência a dar às salas onde decorram a assinatura de acordos internacionais, conferências ou conselhos do Ministério.
+b) Indivíduos habilitados com o curso geral do ensino secundário ou equiparado e formação e experiência profissional adequadas.
 
-Art. 7.º O provimento dos lugares de fiel de armazém, de encarregado de bagagem e de auxiliar técnico de sala far-se-á, mediante concurso documental, de entre indivíduos que possuam, cumulativamente, as habilitações seguintes:
+> Alterado pelo/a [Decreto-Lei n.º 256/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1993-391419), publicado em 1993-07-16.
+
+###### Artigo 5.º
+
+Compete ao encarregado da bagagem proceder à recepção e à expedição de malas diplomáticas e outros volumes, garantindo a sua distribuição pelos seus destinatários.
+
+###### Artigo 6.º
+
+Compete ao auxiliar técnico de sala, para além de todos os serviços que, pelo regulamento existente, devem incumbir ao contínuo, velar pela boa organização, arranjo e assistência a dar às salas onde decorram a assinatura de acordos internacionais, conferências ou conselhos do Ministério.
+
+###### Artigo 7.º
+
+O provimento dos lugares de fiel de armazém, de encarregado de bagagem e de auxiliar técnico de sala far-se-á, mediante concurso documental, de entre indivíduos que possuam, cumulativamente, as habilitações seguintes:
 
 a) Escolaridade obrigatória segundo a idade que possuam;
 
 b) Formação e experiência profissional adequadas à função a que se destinam.
 
-Art. 8.º O provimento dos auxiliares técnicos de biblioteca, arquivo e documentação obedecerá ao estabelecido na alínea c) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 270/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1979-381373), de 10 de Agosto.
+###### Artigo 8.º
 
-Art. 9.º O provimento do lugar de encarregado de parque de viaturas automóveis far-se-á, mediante concurso documental, de entre motoristas de ligeiros de 1.ª classe com, pelo menos, cinco anos de exercício na categoria e informação de serviço não inferior a Bom.
+O provimento dos auxiliares técnicos de biblioteca, arquivo e documentação obedecerá ao estabelecido na alínea c) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 270/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1979-381373), de 10 de Agosto.
 
-Art. 10.º O provimento dos lugares do quadro previsto no presente diploma far-se-á de entre o pessoal auxiliar em serviço à data da sua entrada em vigor, nos termos do n.º 1 do artigo 1.º do [Decreto-Lei n.º 180/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1980-474877), de 3 de Junho, após ter sido ouvido o conselho do Ministério, de acordo com o [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), de 20 de Fevereiro.
+###### Artigo 9.º
 
-Art. 11.º Os encargos emergentes da execução deste diploma serão custeados no corrente ano por conta das dotações do orçamento do Ministério consignadas ao pagamento de despesas com pessoal.
+O provimento do lugar de encarregado de parque de viaturas automóveis far-se-á, mediante concurso documental, de entre motoristas de ligeiros de 1.ª classe com, pelo menos, cinco anos de exercício na categoria e informação de serviço não inferior a Bom.
 
-Art. 12.º As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros dos Negócios Estrangeiros e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, consoante a natureza das mesmas.
+###### Artigo 10.º
+
+O provimento dos lugares do quadro previsto no presente diploma far-se-á de entre o pessoal auxiliar em serviço à data da sua entrada em vigor, nos termos do n.º 1 do artigo 1.º do [Decreto-Lei n.º 180/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1980-474877), de 3 de Junho, após ter sido ouvido o conselho do Ministério, de acordo com o [Decreto n.º 149/76](https://diariodarepublica.pt/dr/detalhe/decreto/149-1976-507591), de 20 de Fevereiro.
+
+###### Artigo 11.º
+
+Os encargos emergentes da execução deste diploma serão custeados no corrente ano por conta das dotações do orçamento do Ministério consignadas ao pagamento de despesas com pessoal.
+
+###### Artigo 12.º
+
+As dúvidas suscitadas pela aplicação deste diploma serão resolvidas por despacho conjunto dos Ministros dos Negócios Estrangeiros e das Finanças e do Plano e do membro do Governo que tiver a seu cargo a função pública, consoante a natureza das mesmas.
 
 Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1980. - Francisco Sá Carneiro.
 

@@ -28,10 +28,36 @@ legal_status: partially_in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-09-28'
+version_history:
+  file: decreto-lei-79-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-02-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-09-28'
+    amending: pt:dre:490415:por
+    amending_title: Decreto-Lei n.º 252/2009
+    changes:
+    - Altera Artigo 1.º
+    - Revoga Artigo 2.º
+    - Altera Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 15.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:55:47Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 252/2009. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1983/decreto-lei-79-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,55 +147,89 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - A assistência religiosa católica é assegurada, nos estabelecimentos prisionais, por sacerdotes da igreja católica, designados «assistentes religiosos», nomeados pelo Ministro da Justiça, por intermédio da Direcção-Geral dos Serviços Prisionais, sob proposta do bispo da diocese local.
+###### Artigo 1.º
 
-2 - No início da sua actividade os assistentes religiosos frequentarão um curso de formação, em moldes a determinar por despacho do Ministro da Justiça, ouvida a Conferência Episcopal Portuguesa.
+1 - (Revogado.)
+
+2 - (Revogado.)
 
 3 - A exoneração dos assistentes religiosos será sempre da competência do Ministro da Justiça.
 
 4 - A proposta de exoneração poderá ser feita pelo bispo da diocese local, por conveniência da Igreja ou pelos serviços competentes; neste último caso, será precedida de comunicação ao mesmo superior eclesiástico, mas sem interferência em matéria de natureza exclusivamente pastoral.
 
-Art. 2.º O assistente religioso depende hierarquicamente do director do estabelecimento e, quanto no exercício da sua actividade pastoral, do bispo da diocese.
+> Alterado pelo/a [Decreto-Lei n.º 252/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2009-490415), publicado em 2009-09-23.
 
-Art. 3.º - 1 - Ressalvado o disposto no n.º 4 do artigo 13.º, os assistentes religiosos exercerão as suas funções em regime de tempo parcial, com um mínimo de 12 horas semanais, a definir de acordo com o número de reclusos a assistir.
+###### Artigo 2.º
 
-2 - Os assistentes nomeados antes da publicação do presente diploma continuarão sujeitos ao número de horas semanais que na altura lhes foram atribuídas.
+(Revogado.)
 
-Art. 4.º - 1 - O assistente religioso tem por missão própria a assistência espiritual dos reclusos católicos, devendo, no entanto, atender os outros reclusos que expressamente o solicitem.
+> Revogado pelo/a [Decreto-Lei n.º 252/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2009-490415), publicado em 2009-09-23.
 
-2 - O regulamento interno do estabelecimento deve salvaguardar a plena liberdade de exercício deste múnus.
+###### Artigo 3.º
 
-3 - Na perspectiva e como complemento da sua acção espiritual, pode o assistente colaborar noutras actividades do estabelecimento, de acordo com o director do estabelecimento e o bispo da diocese local.
+1 - Ressalvado o disposto no n.º 4 do artigo 13.º, os assistentes religiosos exercerão as suas funções em regime de tempo parcial, com um mínimo de 12 horas semanais, a definir de acordo com o número de reclusos a assistir.
 
-Art. 5.º - 1 - Compete especialmente ao assistente religioso celebrar os ofícios religiosos e levar regularmente aos reclusos os demais auxílios da sua religião.
+2 - (Revogado.)
 
-2 - O assistente religioso procurará, se possível semanalmente, reunir com os reclusos que o desejarem para conversa ou palestra em grupo acerca de assuntos religiosos e morais, organizando para tanto os grupos que forem necessários.
+> Alterado pelo/a [Decreto-Lei n.º 252/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2009-490415), publicado em 2009-09-23.
 
-Art. 6.º - 1 - O assistente religioso tem o direito de conversar com os reclusos sempre que o julgue conveniente, não podendo nenhuma punição àqueles aplicada afectar este direito.
+###### Artigo 4.º
 
-2 - A entrevista terá lugar fora da presença do guarda, seja no parlatório, seja no gabinete do assistente, seja na cela onde o recluso se encontre.
+(Revogado.)
 
-3 - O assistente pode também visitar os reclusos nos locais de trabalho, mas de forma a não perturbar a actividade de outros reclusos que com aqueles trabalhem em comum.
+> Revogado pelo/a [Decreto-Lei n.º 252/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2009-490415), publicado em 2009-09-23.
 
-Art. 7.º - 1 - A direcção do estabelecimento garantirá o uso de um local de culto, que poderá ser polivalente, fornecendo os objectos litúrgicos necessários.
+###### Artigo 5.º
 
-2 - O assistente fixará, de acordo com a direcção do estabelecimento, o horário dos ofícios religiosos e de outras actividades que desenvolva, competindo-lhe superintender na instalação e manutenção dos locais onde se realizem.
+(Revogado.)
 
-3 - O assistente poderá, mediante autorização da Direcção-Geral dos Serviços Prisionais, fazer-se ajudar no desempenho do seu múnus por cooperadores voluntários, leigos ou religiosos.
+> Revogado pelo/a [Decreto-Lei n.º 252/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2009-490415), publicado em 2009-09-23.
 
-Art. 8.º O assistente religioso poderá organizar na biblioteca do estabelecimento uma secção de obras de formação religiosa e moral, a ser utilizada de acordo com o regulamento do estabelecimento.
+###### Artigo 6.º
 
-Art. 9.º O assistente religioso poderá ser convidado a participar nas reuniões do conselho técnico, com o objectivo de definir os parâmetros da sua acção ou com vista a facilitar a resolução de problemas eventualmente suscitados no desempenho das suas funções.
+(Revogado.)
 
-Art. 10.º - 1 - O assistente deve cumprir o regulamento do estabelecimento na parte que lhe for aplicável, devendo, nomeadamente, abster-se de interferir nas investigações judiciais em que os reclusos estejam envolvidos.
+> Revogado pelo/a [Decreto-Lei n.º 252/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2009-490415), publicado em 2009-09-23.
 
-2 - Dependerá de prévia autorização da Direcção-Geral dos Serviços Prisionais a utilização de meios de comunicação social ou de outros meios de difusão para tratar em público de assuntos de serviço.
+###### Artigo 7.º
 
-Art. 11.º À sua chegada ao estabelecimento, cada recluso terá uma entrevista com o assistente religioso, para efeitos de este verificar se ele deseja livremente ser assistido.
+(Revogado.)
 
-Art. 12.º Em caso de doença, bem como durante o gozo de férias, o assistente religioso providenciará no sentido de ser substituído por outro assistente, recorrendo, se necessário, ao coordenador do serviço.
+> Revogado pelo/a [Decreto-Lei n.º 252/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2009-490415), publicado em 2009-09-23.
 
-Art. 13.º - 1 - A assistência religiosa será orientada por um coordenador do serviço, no âmbito da Direcção-Geral dos Serviços Prisionais.
+###### Artigo 8.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 252/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2009-490415), publicado em 2009-09-23.
+
+###### Artigo 9.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 252/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2009-490415), publicado em 2009-09-23.
+
+###### Artigo 10.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 252/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2009-490415), publicado em 2009-09-23.
+
+###### Artigo 11.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 252/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2009-490415), publicado em 2009-09-23.
+
+###### Artigo 12.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 252/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2009-490415), publicado em 2009-09-23.
+
+###### Artigo 13.º
+
+1 - A assistência religiosa será orientada por um coordenador do serviço, no âmbito da Direcção-Geral dos Serviços Prisionais.
 
 2 - O lugar de coordenador do serviço será exercido por um dos assistentes religiosos, para o efeito nomeado pelo Ministro da Justiça, mediante proposta da Conferência Episcopal Portuguesa.
 
@@ -184,9 +245,15 @@ d) Assegurar a articulação do serviço de assistência religiosa com a Direcç
 
 4 - O assistente religioso nomeado coordenador do serviço exercerá as suas funções em regime de tempo completo.
 
-Art. 14.º O quadro e a letra do vencimento dos assistentes religiosos são os constantes do mapa III anexo ao [Decreto-Lei n.º 268/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1981-563002), de 16 de Setembro.
+###### Artigo 14.º
 
-Art. 15.º Embora para os estabelecimentos prisionais regionais não esteja previsto o serviço de assistência religiosa, a direcção desses estabelecimentos deverá facultar o livre acesso do pároco local ou seu representante aos reclusos, nos termos e para os efeitos consignados no presente diploma.
+O quadro e a letra do vencimento dos assistentes religiosos são os constantes do mapa III anexo ao [Decreto-Lei n.º 268/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1981-563002), de 16 de Setembro.
+
+###### Artigo 15.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 252/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-2009-490415), publicado em 2009-09-23.
 
 Francisco José Pereira Pinto Balsemão - José Manuel Meneres Sampaio Pimentel.
 

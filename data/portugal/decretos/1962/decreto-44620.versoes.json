@@ -1,0 +1,182 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:156792:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1962-10-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0de2e348caea5c31"
+   ]
+  },
+  {
+   "date": "1968-06-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:272391:por",
+     "title": "Decreto n.º 48429",
+     "published": "1968-06-11",
+     "dre_path": "/dr/detalhe/decreto/48429-1968-272391"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "626517fda3194c93",
+    "878587b71a7f73d0",
+    "7472614192d8e944",
+    "61c8e538e94c676b",
+    "aa947eeaf6076c09",
+    "28720ac091ee196b",
+    "21c0de18dbf7b2f8",
+    "c79046fac9ad94c9",
+    "804f1f99bbfc9396",
+    "336f08f22407f1c1",
+    "4a75aadf24d0b1bc",
+    "16c68e418dcd642d",
+    "3b8147505aa3f862",
+    "2aaf9e5b90a59065",
+    "750164baf78e4a10"
+   ]
+  }
+ ],
+ "fragments": {
+  "0de2e348caea5c31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo presente diploma é criado o Instituto de Estudos Sociais, destinado à investigação e ensino dos princípios informadores da política social no domínio do trabalho, da organização corporativa e da previdência.\n\nA criação do novo Instituto corresponde a um conjunto de exigências que de nenhum modo podem ser ignoradas nem proteladas por mais tempo na sua satisfação.\n\nCom efeito, o incremento nos últimos anos verificado no domínio da política social, reflexo de uma legislação sobre trabalho em constante evolução, do aperfeiçoamento e extensão do sistema da previdência e da estruturação da organização corporativa, traduziu-se, principalmente para o Ministério das Corporações e Previdência Social e instituições dele dependentes, e para os organismos corporativos e instituições de previdência, numa premente necessidade de preenchimento dos seus quadros por pessoas que disponham de uma preparação adequada.\n\nPor outro lado, não pode deixar de registar-se que o desenvolvimento económico do País tem dado origem a uma mais perfeita consciencialização das responsabilidades sociais das empresas, chamadas a conceder uma atenção cada vez maior a tais problemas e a criar nos seus quadros serviços que deles exclusivamente se ocupem.\n\nVerifica-se, no entanto, que, tal como em relação aos serviços públicos e aos outros organismos, também as empresas encontram dificuldades no recrutamento de pessoal qualificado para o exercício dessas funções.\n\nO problema, aliás, não se suscitou apenas no nosso país. Em muitos outros exigências semelhantes levaram à criação de estabelecimentos de investigação e ensino dos problemas sociais, designadamente na França, Bélgica, Espanha, Itália, etc. E recentemente ainda, em Março de 1960, o Conselho de Administração do B. I. T. decidiu, por unanimidade, criar o Instituto Internacional de Estudos Sociais, cujo primeiro curso funcionará este ano.\n\nO que não surpreende, pois trata-se, em última análise, de preparar não só quadros que possam estar à altura do nível alcançado no domínio social, mas que igualmente estejam aptos a acompanhar a sua constante evolução, consequência necessária do próprio progresso dos fenómenos políticos e económicos.\n\nDe resto, são prova evidente da acuidade de que o problema se reveste entre nós as iniciativas que ùltimamente se têm verificado em tal sentido e se traduzem quer na criação de gabinetes de estudo, quer na publicação de revistas dedicadas aos assuntos sociais. A própria [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956, foi, em grande parte, inspirada também pela preocupação de incentivar o estudo desses problemas, designadamente ao nível universitário.\n\nImportava, pois, se fosse ao encontro dessa preocupação através de um organismo que pela sua estrutura e continuidade lhe assegurasse uma solução capaz de produzir os resultados que o seu interesse e as circunstâncias exigem.\n\nE daí o ter-se julgado oportuno criar, ao abrigo da alínea c) da base VI e do n.º 3 da base XIV da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956, dentro da competência que à Junta da Acção Social foi atribuída, um organismo em que aquelas matérias possam ser ministradas em termos de preparação especializada.\n\nFaculta-se, assim, àqueles que por motivo de ordem profissional pretendem aumentar os seus conhecimentos a possibilidade de o fazerem, do mesmo modo que se lançam as bases de um melhor recrutamento para os quadros dos serviços do Ministério, das instituições de previdência, dos organismos corporativos e das empresas.\n\nComo bem se compreende, este objectivo só poderia ser cabalmente prosseguido através de um estabelecimento de especiais características, quer pela sua organização e funcionamento, quer pelas matérias que nele serão professadas, quer ainda pela natureza pragmática de que o seu ensino se há-de revestir.\n\nNa verdade, julga-se necessário que os seus cursos sejam organizados de molde a poderem ser frequentados não só pelos que têm o seu dia preenchido por ocupações profissionais, mas também pelos que, cursando estabelecimentos de ensino médio ou superior, desejem acompanhar a sua formação escolar de uma mais intensa preparação no domínio das matérias sociais.\n\nNos termos em que é criado, o Instituto de Estudos Sociais - pois assim se designará o novo organismo - realizará cursos regulares com a duração de três anos, duração esta que, ponderado o reduzido número de aulas que deverá ser ministrado por semana, se considerou necessária para garantir um conveniente aproveitamento. O plano dos cursos regulares, dada a diferente formação que poderão ter os seus frequentadores, começará por assegurar uma preparação de base julgada indispensável a todos quantos, no seu seguimento, pretendem estudar com o necessário desenvolvimento os problemas da vida económica e social portuguesa relacionados com o trabalho, a organização corporativa e a previdência. Cursos de especialização e ciclos de conferências, de nível universitário, completarão a acção docente do Instituto.\n\nSerão admitidos à frequência dos cursos regulares do Instituto de Estudos Sociais os indivíduos que tenham, pelo menos, 16 anos e possuam o curso complementar dos liceus ou cursos dos institutos de ensino médio que habilitem à admissão em escola superior. Admitiu-se também que se possam inscrever os indivíduos que tenham o curso geral dos liceus ou equivalente, mas exige-se-lhes, neste caso, a aprovação em exame de aptidão.\n\nProcura-se, por este modo, como é evidente, que os alunos possuam um mínimo de habilitações que permita ao Instituto manter um nível de ensino de harmonia com as exigências que levaram à sua criação e susceptível e de se revestir de efectivo interesse e utilidade para indivíduos de formação universitária.\n\nConsiderou-se, outrossim, conveniente dar desde já sentido e alcance prático aos cursos regulares, assegurando aos diplomados pelo Instituto determinadas vantagens de ordem profissional.\n\nAssim, esses diplomados terão, em igualdade de condições, preferência no preenchimento de lugares do Ministério das Corporações e Previdência Social, nas instituições dele dependentes e nos organismos corporativos e poderão ser nomeados para os lugares dos quadros das instituições de previdência e demais instituições dependentes do Ministério que, por determinação administrativa, devam ser providos em indivíduos que tenham curso superior.\n\nPrevê-se ainda que as convenções colectivas e os despachos ou portarias de regulamentação do trabalho possam estabelecer que os encarregados das questões do pessoal nas empresas sejam diplomados pelo Instituto.\n\nPor último, admite-se que os diplomados exerçam funções de consultores em assuntos de natureza social ou de trabalho e possam representar os organismos corporativos, as empresas, os trabalhadores e os titulares de direitos estabelecidos na legislação social perante os serviços e instituições dependentes do Ministério das Corporações e Previdência Social.\n\nNestes termos:\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º É criado em Lisboa, de acordo com o disposto na alínea c) da base VI e n.º 3 da base XIV da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956, o Instituto de Estudos Sociais, destinado à investigação e ensino dos princípios informadores da política social no domínio do trabalho, da organização corporativa e da previdência.\n\nArt. 2.º Compete ao Instituto de Estudos Sociais realizar cursos regulares com a duração de três anos, em que serão ministradas noções de direito, economia política, sociologia e política social e se ensinarão as matérias relacionadas com a previdência social, os sistema corporativo, o regime de trabalho e os problemas da vida económica e social portuguesa e a estrutura e funcionamento das instituições internacionais de carácter social.\n\nArt. 3.º Compete ainda ao Instituto de Estudos Sociais organizar cursos de especialização e ciclos de conferências, de nível universitário.\n\nArt. 4.º O Instituto de Estudos Sociais manterá estreita colaboração com a Universidade, com as demais instituições nacionais e estrangeiras e serviços dependentes do Ministério das Corporações e Previdência Social ou outros Ministérios interessados no ensino e na investigação dos princípios teóricos da política social ou na sua realização.\n\nArt. 5.º A orientação pedagógica e administrativa do Instituto de Estudos Sociais caberá a um director, que será assistido por um conselho directivo.\n\nArt. 6. º O Ministro das Corporações e Previdência Social designará de entre individualidades de reconhecida competência o director e, ouvido o conselho directivo, os professores do Instituto de Estudos Sociais.\n\nArt. 7.º Poderão inscrever-se nos cursos regulares do Instituto de Estudos Sociais os indivíduos que tenham, pelo menos, 16 anos e possuam alguma das seguintes habilitações:\n\na) O curso complementar dos liceus;\n\nb) Curso dos institutos de ensino médio que habilite à admissão em escola superior;\n\nc) O curso geral dos liceus ou equivalente, desde que aprovados em exame de aptidão.\n\nArt. 8.º Os diplomados pelo Instituto de Estudos Sociais terão preferência, em igualdade de condições, no preenchimento de lugares do Ministério das Corporações e Previdência Social, nas instituições dele dependentes e nos organismos corporativos.\n\nArt. 9.º Os diplomados pelo Instituto de Estudos Sociais poderão também ser nomeados para os lugares dos quadros administrativos das instituições de previdência e das demais instituições dependentes do Ministério das Corporações e Previdência Social que, por determinação administrativa, devam ser providos em indivíduos que tenham curso superior.\n\nArt. 10.º As convenções colectivas e os despachos ou portarias de regulamentação de trabalho, proferidos ao abrigo do artigo 1.º do [Decreto-Lei n.º 32749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32749-1943-596513), de 15 de Abril de 1943, poderão estabelecer que os encarregados das questões do pessoal nas empresas sejam diplomados pelo Instituto de Estudos Sociais.\n\nArt. 11.º Os diplomados pelo Instituto de Estudos Sociais poderão exercer funções de consultores em assuntos de natureza social ou de trabalho e, independentemente de procuração, representar os organismos corporativos, as empresas, os trabalhadores e os titulares de direitos estabelecidos na legislação social perante os serviços e instituições dependentes do Ministério das Corporações e Previdência Social e os organismos corporativos.\n\nArt. 12.º A nomeação e a exoneração do pessoal necessário ao funcionamento do Instituto de Estudos Sociais, bem como da fixação das remunerações, serão feitas nos termos da base XXII da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956.\n\nArt. 13.º As despesas do Instituto de Estudos Sociais serão asseguradas pelo fundo previsto no n.º 1 da base XXVI da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956.\n\nArt. 14.º O Ministro das Corporações e Previdência Social designará a comissão instaladora e fará publicar, no prazo de 30 dias, o regulamento do Instituto de Estudos Sociais.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 9 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José João Gonçalves de Proença."
+  },
+  "626517fda3194c93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo presente diploma é criado o Instituto de Estudos Sociais, destinado à investigação e ensino dos princípios informadores da política social no domínio do trabalho, da organização corporativa e da previdência.\n\nA criação do novo Instituto corresponde a um conjunto de exigências que de nenhum modo podem ser ignoradas nem proteladas por mais tempo na sua satisfação.\n\nCom efeito, o incremento nos últimos anos verificado no domínio da política social, reflexo de uma legislação sobre trabalho em constante evolução, do aperfeiçoamento e extensão do sistema da previdência e da estruturação da organização corporativa, traduziu-se, principalmente para o Ministério das Corporações e Previdência Social e instituições dele dependentes, e para os organismos corporativos e instituições de previdência, numa premente necessidade de preenchimento dos seus quadros por pessoas que disponham de uma preparação adequada.\n\nPor outro lado, não pode deixar de registar-se que o desenvolvimento económico do País tem dado origem a uma mais perfeita consciencialização das responsabilidades sociais das empresas, chamadas a conceder uma atenção cada vez maior a tais problemas e a criar nos seus quadros serviços que deles exclusivamente se ocupem.\n\nVerifica-se, no entanto, que, tal como em relação aos serviços públicos e aos outros organismos, também as empresas encontram dificuldades no recrutamento de pessoal qualificado para o exercício dessas funções.\n\nO problema, aliás, não se suscitou apenas no nosso país. Em muitos outros exigências semelhantes levaram à criação de estabelecimentos de investigação e ensino dos problemas sociais, designadamente na França, Bélgica, Espanha, Itália, etc. E recentemente ainda, em Março de 1960, o Conselho de Administração do B. I. T. decidiu, por unanimidade, criar o Instituto Internacional de Estudos Sociais, cujo primeiro curso funcionará este ano.\n\nO que não surpreende, pois trata-se, em última análise, de preparar não só quadros que possam estar à altura do nível alcançado no domínio social, mas que igualmente estejam aptos a acompanhar a sua constante evolução, consequência necessária do próprio progresso dos fenómenos políticos e económicos.\n\nDe resto, são prova evidente da acuidade de que o problema se reveste entre nós as iniciativas que ùltimamente se têm verificado em tal sentido e se traduzem quer na criação de gabinetes de estudo, quer na publicação de revistas dedicadas aos assuntos sociais. A própria [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956, foi, em grande parte, inspirada também pela preocupação de incentivar o estudo desses problemas, designadamente ao nível universitário.\n\nImportava, pois, se fosse ao encontro dessa preocupação através de um organismo que pela sua estrutura e continuidade lhe assegurasse uma solução capaz de produzir os resultados que o seu interesse e as circunstâncias exigem.\n\nE daí o ter-se julgado oportuno criar, ao abrigo da alínea c) da base VI e do n.º 3 da base XIV da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956, dentro da competência que à Junta da Acção Social foi atribuída, um organismo em que aquelas matérias possam ser ministradas em termos de preparação especializada.\n\nFaculta-se, assim, àqueles que por motivo de ordem profissional pretendem aumentar os seus conhecimentos a possibilidade de o fazerem, do mesmo modo que se lançam as bases de um melhor recrutamento para os quadros dos serviços do Ministério, das instituições de previdência, dos organismos corporativos e das empresas.\n\nComo bem se compreende, este objectivo só poderia ser cabalmente prosseguido através de um estabelecimento de especiais características, quer pela sua organização e funcionamento, quer pelas matérias que nele serão professadas, quer ainda pela natureza pragmática de que o seu ensino se há-de revestir.\n\nNa verdade, julga-se necessário que os seus cursos sejam organizados de molde a poderem ser frequentados não só pelos que têm o seu dia preenchido por ocupações profissionais, mas também pelos que, cursando estabelecimentos de ensino médio ou superior, desejem acompanhar a sua formação escolar de uma mais intensa preparação no domínio das matérias sociais.\n\nNos termos em que é criado, o Instituto de Estudos Sociais - pois assim se designará o novo organismo - realizará cursos regulares com a duração de três anos, duração esta que, ponderado o reduzido número de aulas que deverá ser ministrado por semana, se considerou necessária para garantir um conveniente aproveitamento. O plano dos cursos regulares, dada a diferente formação que poderão ter os seus frequentadores, começará por assegurar uma preparação de base julgada indispensável a todos quantos, no seu seguimento, pretendem estudar com o necessário desenvolvimento os problemas da vida económica e social portuguesa relacionados com o trabalho, a organização corporativa e a previdência. Cursos de especialização e ciclos de conferências, de nível universitário, completarão a acção docente do Instituto.\n\nSerão admitidos à frequência dos cursos regulares do Instituto de Estudos Sociais os indivíduos que tenham, pelo menos, 16 anos e possuam o curso complementar dos liceus ou cursos dos institutos de ensino médio que habilitem à admissão em escola superior. Admitiu-se também que se possam inscrever os indivíduos que tenham o curso geral dos liceus ou equivalente, mas exige-se-lhes, neste caso, a aprovação em exame de aptidão.\n\nProcura-se, por este modo, como é evidente, que os alunos possuam um mínimo de habilitações que permita ao Instituto manter um nível de ensino de harmonia com as exigências que levaram à sua criação e susceptível e de se revestir de efectivo interesse e utilidade para indivíduos de formação universitária.\n\nConsiderou-se, outrossim, conveniente dar desde já sentido e alcance prático aos cursos regulares, assegurando aos diplomados pelo Instituto determinadas vantagens de ordem profissional.\n\nAssim, esses diplomados terão, em igualdade de condições, preferência no preenchimento de lugares do Ministério das Corporações e Previdência Social, nas instituições dele dependentes e nos organismos corporativos e poderão ser nomeados para os lugares dos quadros das instituições de previdência e demais instituições dependentes do Ministério que, por determinação administrativa, devam ser providos em indivíduos que tenham curso superior.\n\nPrevê-se ainda que as convenções colectivas e os despachos ou portarias de regulamentação do trabalho possam estabelecer que os encarregados das questões do pessoal nas empresas sejam diplomados pelo Instituto.\n\nPor último, admite-se que os diplomados exerçam funções de consultores em assuntos de natureza social ou de trabalho e possam representar os organismos corporativos, as empresas, os trabalhadores e os titulares de direitos estabelecidos na legislação social perante os serviços e instituições dependentes do Ministério das Corporações e Previdência Social.\n\nNestes termos:\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "878587b71a7f73d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado em Lisboa, de acordo com o disposto na alínea c) da base VI e n.º 3 da base XIV da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956, o Instituto de Estudos Sociais, destinado à investigação e ensino dos princípios informadores da política social no domínio do trabalho, da organização corporativa e da previdência."
+  },
+  "7472614192d8e944": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nCompete ao Instituto de Estudos Sociais realizar cursos regulares com a duração de três anos, em que serão ministradas noções de direito, economia política, sociologia e política social e se ensinarão as matérias relacionadas com a previdência social, os sistema corporativo, o regime de trabalho e os problemas da vida económica e social portuguesa e a estrutura e funcionamento das instituições internacionais de carácter social."
+  },
+  "61c8e538e94c676b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nCompete ainda ao Instituto de Estudos Sociais organizar cursos de especialização e ciclos de conferências, de nível universitário."
+  },
+  "aa947eeaf6076c09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO Instituto de Estudos Sociais manterá estreita colaboração com a Universidade, com as demais instituições nacionais e estrangeiras e serviços dependentes do Ministério das Corporações e Previdência Social ou outros Ministérios interessados no ensino e na investigação dos princípios teóricos da política social ou na sua realização."
+  },
+  "28720ac091ee196b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA orientação pedagógica e administrativa do Instituto de Estudos Sociais caberá a um director, que será assistido por um conselho directivo."
+  },
+  "21c0de18dbf7b2f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO Ministro das Corporações e Previdência Social designará de entre individualidades de reconhecida competência o director e, ouvido o conselho directivo, os professores do Instituto de Estudos Sociais."
+  },
+  "c79046fac9ad94c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1968-06-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 48429](https://diariodarepublica.pt/dr/detalhe/decreto/48429-1968-272391), publicado em 1968-06-11."
+   ],
+   "markdown": "###### Artigo 7.º\n\nPoderão inscrever-se nos cursos regulares do Instituto de Estudos Sociais os indivíduos que possuam, pelo menos, algumas das seguintes habilitações:\n\na) O curso complementar dos liceus;\n\nb) O curso dos institutos de ensino médio que habilite à admissão em escola superior.\n\n§ único. As habilitações equivalentes a qualquer dos cursos referidos nas alíneas a) e b) deste artigo apenas permitirão a inscrição nos cursos regulares do Instituto de Estudos Sociais desde que essas equivalências sejam concedidas para efeito de sequência de estudos.\n\n> Alterado pelo/a [Decreto n.º 48429](https://diariodarepublica.pt/dr/detalhe/decreto/48429-1968-272391), publicado em 1968-06-11."
+  },
+  "804f1f99bbfc9396": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs diplomados pelo Instituto de Estudos Sociais terão preferência, em igualdade de condições, no preenchimento de lugares do Ministério das Corporações e Previdência Social, nas instituições dele dependentes e nos organismos corporativos."
+  },
+  "336f08f22407f1c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs diplomados pelo Instituto de Estudos Sociais poderão também ser nomeados para os lugares dos quadros administrativos das instituições de previdência e das demais instituições dependentes do Ministério das Corporações e Previdência Social que, por determinação administrativa, devam ser providos em indivíduos que tenham curso superior."
+  },
+  "4a75aadf24d0b1bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs convenções colectivas e os despachos ou portarias de regulamentação de trabalho, proferidos ao abrigo do artigo 1.º do [Decreto-Lei n.º 32749](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32749-1943-596513), de 15 de Abril de 1943, poderão estabelecer que os encarregados das questões do pessoal nas empresas sejam diplomados pelo Instituto de Estudos Sociais."
+  },
+  "16c68e418dcd642d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs diplomados pelo Instituto de Estudos Sociais poderão exercer funções de consultores em assuntos de natureza social ou de trabalho e, independentemente de procuração, representar os organismos corporativos, as empresas, os trabalhadores e os titulares de direitos estabelecidos na legislação social perante os serviços e instituições dependentes do Ministério das Corporações e Previdência Social e os organismos corporativos."
+  },
+  "3b8147505aa3f862": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nA nomeação e a exoneração do pessoal necessário ao funcionamento do Instituto de Estudos Sociais, bem como da fixação das remunerações, serão feitas nos termos da base XXII da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956."
+  },
+  "2aaf9e5b90a59065": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAs despesas do Instituto de Estudos Sociais serão asseguradas pelo fundo previsto no n.º 1 da base XXVI da [Lei n.º 2085](https://diariodarepublica.pt/dr/detalhe/lei/2085-1956-232301), de 17 de Agosto de 1956."
+  },
+  "750164baf78e4a10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO Ministro das Corporações e Previdência Social designará a comissão instaladora e fará publicar, no prazo de 30 dias, o regulamento do Instituto de Estudos Sociais.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 9 de Outubro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José João Gonçalves de Proença."
+  }
+ }
+}

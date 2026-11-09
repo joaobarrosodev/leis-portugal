@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:546466:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e8223aa59e0dde8e"
+   ]
+  },
+  {
+   "date": "1987-01-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:599567:por",
+     "title": "Decreto Legislativo Regional n.º 1/87/M",
+     "published": "1987-01-10",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-1987-599567"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "dda78a21e2e7a17b",
+    "a9c23e098a799b75",
+    "41b40b5ae9359ab2",
+    "221444869a0dd028"
+   ]
+  }
+ ],
+ "fragments": {
+  "e8223aa59e0dde8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Prorrogação dos prazos de remição previstos no [Decreto Legislativo Regional n.º 17/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1983-444431), de 21 de Dezembro\n\nO [Decreto Legislativo Regional n.º 17/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1983-444431), de 21 de Dezembro, que prorrogou os prazos de remição previstos no [Decreto Regional n.º 1/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1981-388034), de 14 de Março, por mais 2 anos, prazos esses que terminam no dia 31 de Dezembro de 1985 para o colono e no dia 31 de Dezembro de 1989 para o senhorio, resultou da constatação de que os prazos então previstos, por várias razões, eram insuficientes para solucionar muitos dos casos ainda existentes.\n\nA todas as razões invocadas no preâmbulo do [Decreto Legislativo Regional n.º 17/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1983-444431), e por motivos alheios à vontade do Governo Regional e dos intervenientes nos processos de remição de colónia, uma outra se veio juntar, dificultando ainda mais a solução de muitos casos que o consenso das partes já havia resolvido.\n\nIsto acontece com a publicação do [Decreto-Lei n.º 224/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1984-591313), de 6 de Julho, que aprovou o Código de Registo Predial, e ainda com consequência do referido Código e, por via dele, das necessárias alterações efectuadas no Código do Notariado.\n\nEsta transformação legislativa nacional, em matérias internacionalmente ligadas com os direitos de propriedade sobre imóveis, reflectiu-se profundamente nas operações de remição de terrenos sujeitos ao extinto regime de colónia, dificultando a legalização de muitas delas e até, em alguns casos, tornando-as quase impossíveis.\n\nDaí que se tivesse feito sentir a necessidade imperiosa de prorrogar os prazos de remição por mais 1 ano. Esta medida, que, devido aos fundamentos atrás expostos, assume um carácter de excepcionalidade, será a última prorrogação dos prazos de remição de colónia.\n\nAssim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional aprova, para valer como lei, o seguinte:\n\nArtigo 1.º Os prazos de remição do [Decreto Legislativo Regional n.º 17/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1983-444431), de 21 de Dezembro, passam a ser os seguintes:\n\na) Até 31 de Dezembro de 1986 e até 31 de Dezembro de 1989, os contemplados na alínea a) do artigo 1.º, respectivamente;\n\nb) Até 31 de Dezembro de 1991, o contemplado na alínea b) do artigo 1.º\n\nArt. 2.º Fica revogada qualquer legislação em contrário.\n\nArt. 3.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em sessão plenária em 17 de Dezembro de 1985.\n\nO Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.\n\nAssinado em 23 de Dezembro de 1985.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel."
+  },
+  "dda78a21e2e7a17b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Prorrogação dos prazos de remição previstos no [Decreto Legislativo Regional n.º 17/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1983-444431), de 21 de Dezembro\n\nO [Decreto Legislativo Regional n.º 17/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1983-444431), de 21 de Dezembro, que prorrogou os prazos de remição previstos no [Decreto Regional n.º 1/81/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/1-1981-388034), de 14 de Março, por mais 2 anos, prazos esses que terminam no dia 31 de Dezembro de 1985 para o colono e no dia 31 de Dezembro de 1989 para o senhorio, resultou da constatação de que os prazos então previstos, por várias razões, eram insuficientes para solucionar muitos dos casos ainda existentes.\n\nA todas as razões invocadas no preâmbulo do [Decreto Legislativo Regional n.º 17/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1983-444431), e por motivos alheios à vontade do Governo Regional e dos intervenientes nos processos de remição de colónia, uma outra se veio juntar, dificultando ainda mais a solução de muitos casos que o consenso das partes já havia resolvido.\n\nIsto acontece com a publicação do [Decreto-Lei n.º 224/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/224-1984-591313), de 6 de Julho, que aprovou o Código de Registo Predial, e ainda com consequência do referido Código e, por via dele, das necessárias alterações efectuadas no Código do Notariado.\n\nEsta transformação legislativa nacional, em matérias internacionalmente ligadas com os direitos de propriedade sobre imóveis, reflectiu-se profundamente nas operações de remição de terrenos sujeitos ao extinto regime de colónia, dificultando a legalização de muitas delas e até, em alguns casos, tornando-as quase impossíveis.\n\nDaí que se tivesse feito sentir a necessidade imperiosa de prorrogar os prazos de remição por mais 1 ano. Esta medida, que, devido aos fundamentos atrás expostos, assume um carácter de excepcionalidade, será a última prorrogação dos prazos de remição de colónia.\n\nAssim, nos termos da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, a Assembleia Regional aprova, para valer como lei, o seguinte:"
+  },
+  "a9c23e098a799b75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1987-01-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 1/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1987-599567), publicado em 1987-01-10."
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs prazos de remição do [Decreto Legislativo Regional n.º 17/83/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-1983-444431), de 21 de Dezembro, passam a ser os seguintes:\n\na) Até 30 de Abril de 1987 e até 30 de Abril de 1990, os contemplados na alínea a) do artigo 1.º, respectivamente;\n\nb) Até 30 de Abril de 1992, o contemplado na alínea b) do artigo 1.º\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 1/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-1987-599567), publicado em 1987-01-10."
+  },
+  "41b40b5ae9359ab2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nFica revogada qualquer legislação em contrário."
+  },
+  "221444869a0dd028": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em sessão plenária em 17 de Dezembro de 1985.\n\nO Presidente da Assembleia Regional, Jorge Nélio Praxedes Ferraz Mendonça.\n\nAssinado em 23 de Dezembro de 1985.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel."
+  }
+ }
+}

@@ -1,0 +1,786 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:378517:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1982-11-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e7a472563a732e95",
+    "cc32487c1d3786be",
+    "f1448a7afcf03338",
+    "9d9b17bde28a6708",
+    "4f28185b6374e14e",
+    "da5492307179ff91",
+    "1225530e3cb80f70",
+    "0e3d5bb5b11cbb05",
+    "fd4dc574acf89e16",
+    "4aa124fe07279dfa",
+    "78cc697459b2bd7e",
+    "2d57a8f6aa0c8a8d",
+    "6fb93e37bf48e323",
+    "784f8e6b6d032433",
+    "9e9f46f1374a8064",
+    "89586dd78134647e",
+    "6056c1c6a6fb0afb",
+    "a4a55033e5a49304",
+    "e9c0a1ee65978144",
+    "f2d8c4c9c32d1ab2",
+    "180985c382930840",
+    "b3ece454a3ab66fe",
+    "5191c12909eb20f5",
+    "541986417577a55e",
+    "716c8bc41c4ce280",
+    "06bc498e846adde0",
+    "42c1e6c7cb217514",
+    "dd678f64abfb54f5",
+    "f4cc9d6ab1ced606",
+    "2df7d4f47b87f551",
+    "c472830c0c835f10",
+    "2cff49bc57642d40",
+    "f250c7aa6148a390",
+    "c4c9d032dd70e07c",
+    "4724ea62a6892f47",
+    "d8a83f07e7fd98d4",
+    "57212c24a66f2c72",
+    "2f2bd67b50629640",
+    "541fc5188dfb3366",
+    "01f92bd1c05c3510",
+    "7d7e16122aec9a5a",
+    "bceba3c0bccc3e52",
+    "3b09d256030da11d",
+    "51ba4e910d3a57be",
+    "1bb7a6d34fbdbca4",
+    "466255378e394f89",
+    "d867ab22ed06222f",
+    "87b9c9ef8194a43b",
+    "22efbd8d2a8b622f",
+    "ced0669b27e9fdce",
+    "be614c4b1eda7094",
+    "280bf7cc3aedd9bd",
+    "c1a37e5c150c07f7",
+    "296534ecbd58e8f6",
+    "951c79b2921a40e3",
+    "8796151431ad221d",
+    "4b624e0c55c7d819",
+    "deed0ca13956e917",
+    "097776dcbed9267f",
+    "7f54752b8d1001ee",
+    "3c70152c37e8c18d",
+    "8c63eabaea90a084",
+    "016960bc19ef4427",
+    "fb994fdfe427ac8e",
+    "d0cf4c183e18f8ed",
+    "20bdbcc83f7fa499",
+    "70379f0411fef260",
+    "cb0a4cdfab6c6af4",
+    "90fe998da77366b2",
+    "ef850906c4d85b74",
+    "179b5028b5b7d64e",
+    "1d526e77977dff64",
+    "a0f5b3f00a258c2a",
+    "05aed2cf40e86cd3"
+   ]
+  },
+  {
+   "date": "1996-08-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:405309:por",
+     "title": "Decreto Regulamentar n.º 6/96",
+     "published": "1996-08-12",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/6-1996-405309"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 55.º"
+   ],
+   "fragments": [
+    "e7a472563a732e95",
+    "cc32487c1d3786be",
+    "f1448a7afcf03338",
+    "9d9b17bde28a6708",
+    "4f28185b6374e14e",
+    "da5492307179ff91",
+    "1225530e3cb80f70",
+    "0e3d5bb5b11cbb05",
+    "fd4dc574acf89e16",
+    "4aa124fe07279dfa",
+    "78cc697459b2bd7e",
+    "2d57a8f6aa0c8a8d",
+    "6fb93e37bf48e323",
+    "784f8e6b6d032433",
+    "9e9f46f1374a8064",
+    "89586dd78134647e",
+    "6056c1c6a6fb0afb",
+    "a4a55033e5a49304",
+    "e9c0a1ee65978144",
+    "f2d8c4c9c32d1ab2",
+    "180985c382930840",
+    "b3ece454a3ab66fe",
+    "5191c12909eb20f5",
+    "541986417577a55e",
+    "716c8bc41c4ce280",
+    "06bc498e846adde0",
+    "42c1e6c7cb217514",
+    "dd678f64abfb54f5",
+    "f4cc9d6ab1ced606",
+    "2df7d4f47b87f551",
+    "c472830c0c835f10",
+    "2cff49bc57642d40",
+    "f250c7aa6148a390",
+    "c4c9d032dd70e07c",
+    "4724ea62a6892f47",
+    "d8a83f07e7fd98d4",
+    "57212c24a66f2c72",
+    "2f2bd67b50629640",
+    "541fc5188dfb3366",
+    "01f92bd1c05c3510",
+    "7d7e16122aec9a5a",
+    "bceba3c0bccc3e52",
+    "3b09d256030da11d",
+    "51ba4e910d3a57be",
+    "1bb7a6d34fbdbca4",
+    "466255378e394f89",
+    "d867ab22ed06222f",
+    "87b9c9ef8194a43b",
+    "22efbd8d2a8b622f",
+    "ced0669b27e9fdce",
+    "be614c4b1eda7094",
+    "280bf7cc3aedd9bd",
+    "c1a37e5c150c07f7",
+    "296534ecbd58e8f6",
+    "951c79b2921a40e3",
+    "8796151431ad221d",
+    "4b624e0c55c7d819",
+    "deed0ca13956e917",
+    "097776dcbed9267f",
+    "7f54752b8d1001ee",
+    "3c70152c37e8c18d",
+    "8c63eabaea90a084",
+    "016960bc19ef4427",
+    "fb994fdfe427ac8e",
+    "d0cf4c183e18f8ed",
+    "20bdbcc83f7fa499",
+    "70379f0411fef260",
+    "cb0a4cdfab6c6af4",
+    "bacd4333670b4986",
+    "ef850906c4d85b74",
+    "179b5028b5b7d64e",
+    "1d526e77977dff64",
+    "a0f5b3f00a258c2a",
+    "05aed2cf40e86cd3"
+   ]
+  }
+ ],
+ "fragments": {
+  "e7a472563a732e95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 4 de Novembro\n\nCom o fim de promover a administração das grandes obras de fomento hidroagrícola executadas pelo Estado, foram instituídas em 1938 as associações de regantes e beneficiários.\n\nAs associações de regantes e beneficiários gozavam de personalidade jurídica, tinham natureza cooperativa e beneficiavam das regalias e isenções concedidas pela lei às cooperativas agrícolas.\n\nEram obrigatoriamente sócios destas associações os proprietários, fiduciários, usufrutuários, enfiteutas, parceiros e arrendatários dos terrenos beneficiados pelas obras de fomento hidroagrícola, ou parte delas, que lhes fossem entregues.\n\nCom as intervenções previstas no Programa da Reforma Agrária, publicado em anexo ao [Decreto-Lei n.º 203-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-c-1975-534410), de 15 de Abril, foram nacionalizados os prédios rústicos beneficiados, no todo ou em parte, por alguns aproveitamentos hidroagrícolas.\n\nO [Decreto-Lei n.º 407-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-a-1975-668330), de 30 de Julho, determina por sua vez que, na zona de intervenção da Reforma Agrária, as associações de regantes e beneficiários passem a ser dirigidas transitoriamente por comissões administrativas.\n\nTendo em vista a normalização da vida das associações de regantes e beneficiários à luz do novo regime jurídico das obras de fomento hidroagrícola, torna-se indispensável regulamentar a constituição e fins dos órgãos de gestão destas obras, que irão substituir as actuais comissões administrativas, atribuindo-se aos agricultores interessados maior participação desde a concepção das obras à sua gestão, exploração e conservação.\n\nNestes termos, e em cumprimento do n.º 1 do artigo 90.º do [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:\n\nREGULAMENTO DAS ASSOCIAÇÕES DE BENEFICIÁRIOS"
+  },
+  "cc32487c1d3786be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Constituição e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Constituição e fins"
+  },
+  "f1448a7afcf03338": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Natureza das associações de beneficiários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Natureza das associações de beneficiários)\n\nAs associações de beneficiários são pessoas colectivas de direito público sujeitas a reconhecimento formal do Ministério da Agricultura, Comércio e Pescas."
+  },
+  "9d9b17bde28a6708": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Criação das associações de beneficiários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Criação das associações de beneficiários)\n\nA constituição das associações de beneficiários é promovida em conjunto pela Direcção-Geral de Hidráulica e Engenharia Agrícola e pela direcção regional em cuja área de jurisdição se situe a maior parte dos terrenos a beneficiar e a sua legalização será objecto de portaria do Ministro da Agricultura, Comércio e Pescas."
+  },
+  "4f28185b6374e14e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Competência do pessoal encarregado da vigilância das obras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Competência do pessoal encarregado da vigilância das obras)\n\nO pessoal das associações de beneficiários encarregado da vigilância das obras e da distribuição das águas terá a competência conferida aos guardas no Regulamento dos Serviços Hidráulicos, prestando juramento perante o juiz da comarca a que pertencer o respectivo cartão."
+  },
+  "da5492307179ff91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Atribuições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Atribuições)\n\nCompete às associações de beneficiários, para além de outras atribuições que lhes sejam conferidas pelos estatutos:\n\na) Pronunciar-se sobre os projectos dos regulamentos definitivos das obras elaborados pela Direcção-Geral de Hidráulica e Engenharia Agrícola e propor as modificações que entenderem convenientes;\n\nb) Assegurar a exploração e conservação das obras de fomento hidroagrícola ou das partes destas que lhes forem entregues;\n\nc) Elaborar os horários de rega, em íntima colaboração com a Direcção-Geral de Hidráulica e Engenharia Agrícola, e assegurar o seu cumprimento de harmonia com os princípios estabelecidos nos regulamentos das obras e as disponibilidades de água;\n\nd) Realizar trabalhos complementares destinados a aumentar a utilidade da obra, de acordo com os projectos elaborados pela Direcção-Geral de Hidráulica e Engenharia Agrícola;\n\ne) Promover a criação e participação em unidades industriais e cooperativas, nos termos da legislação em vigor;\n\nf) Elaborar em cada ano o orçamento das suas receitas e despesas para o ano seguinte e submetê-lo, com a acta da reunião a que se refere o artigo 10.º, à aprovação da Direcção-Geral de Hidráulica e Engenharia Agrícola até à data que for fixada no respectivo regulamento, enviando simultaneamente cópia à direcção regional de agricultura respectiva;\n\ng) Elaborar os mapas de liquidação anual das taxas de exploração e conservação e de beneficiação, de harmonia com o disposto no regulamento da respectiva obra, promover a sua afixação e decidir sobre as reclamações que, relativamente a elas, sejam apresentadas pelos utentes, remetendo à Direcção-Geral de Hidráulica e Engenharia Agrícola os recursos que dessas decisões sejam interpostos;\n\nh) Fazer directamente a cobrança das taxas de exploração e conservação e arrecadar as demais receitas que lhes caibam;\n\ni) Administrar as receitas e os bens próprios ou entregues à sua administração;\n\nj) Remeter às secções de finanças dos concelhos respectivos, para efeitos de cobrança, os mapas de liquidação das taxas de beneficiação e os recibos pertinentes;\n\nl) Manter actualizados os elementos cadastrais que lhes forem fornecidos em relação aos prédios rústicos situados na zona beneficiada;\n\nm) Efectuar os registos da produção anual das terras beneficiadas;\n\nn) Promover as acções de melhoramento do perímetro que conduzam a uma utilização racional da terra e da água e fomentar o uso das tecnologias de manejo de água e do solo mais apropriadas;\n\no) Assegurar a defesa e policiamento das obras em colaboração com os serviços oficiais competentes;\n\np) Pronunciar-se sobre as reclamações dos beneficiários relativas a matérias das suas atribuições e deliberar sobre as transgressões ao regulamento da obra e aos estatutos;\n\nq) Colaborar com todos os serviços do Estado no estudo e execução das medidas atinentes ao desenvolvimento técnico, económico e social da zona beneficiada em tudo quanto respeita à realização das obras, desde a fase de concepção das mesmas;\n\nr) Apresentar, para aprovação, à Direcção-Geral de Hidráulica e Engenharia Agrícola, por intermédio da direcção regional de agricultura respectiva, um relatório anual de que constem os elementos necessários para um perfeito conhecimento da forma como decorre a exploração e conservação da obra e dos resultados económicos e sociais da exploração das terras, bem como das demais actividades desenvolvidas. Desse relatório anual deve ser remetida uma cópia à Direcção-Geral de Agricultura, a qual terá de se pronunciar sobre ele dentro do prazo de 30 dias."
+  },
+  "1225530e3cb80f70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Participações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Participações)\n\nAs associações de beneficiários poderão fomentar a criação e participação em cooperativas e unidades industriais que tenham por objectivo a prestação de serviços ou a aquisição de sementes, adubos e fertilizantes, pesticidas e máquinas e o aproveitamento, comercialização, transformação ou conservação de produtos agrícolas das obras por elas administradas, nos termos da legislação geral."
+  },
+  "0e3d5bb5b11cbb05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos da associação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos da associação"
+  },
+  "fd4dc574acf89e16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Assembleia geral"
+  },
+  "4aa124fe07279dfa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Constituição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Constituição)\n\n1 - A assembleia geral é constituída por todos os sócios na plenitude dos seus direitos ou seus representantes legais. Nas reuniões da assembleia geral podem ainda participar, sem direito a voto, os utentes a título precário e o representante do Estado, sempre que exista, cabendo a este último o exercício da faculdade prevista no artigo 51.º do [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho.\n\n2 - Poderão ser sócios da associação de beneficiários os empresários agrícolas e os proprietários ou possuidores legítimos de prédios rústicos situados na zona beneficiada, os utilizadores industriais directos da respectiva obra e as autarquias locais consumidoras de água pela mesma fornecida.\n\n3 - São considerados utentes a título precário os agricultores e as entidades que, a qualquer título, utilizem fora da obra águas regularizadas no perímetro, quando as circunstâncias o permitirem."
+  },
+  "78cc697459b2bd7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Representação na assembleia geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Representação na assembleia geral)\n\nQuando a extensão da obra o justifique, a zona beneficiada será dividida em blocos, nos quais os respectivos sócios, para efeitos de representação na assembleia geral, farão eleger, por maioria de 80% dos votos, os seus delegados, na proporção a fixar no respectivo regulamento."
+  },
+  "2d57a8f6aa0c8a8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Liberdade de associação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Liberdade de associação)\n\nNão é obrigatória a inscrição como sócio na associação de beneficiários de quem a tal se não haja comprometido, nos termos dos artigos 14.º e 15.º do [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho, mas as entidades não associadas ficam sujeitas ao pagamento dos encargos resultantes da exploração e conservação da obra e às obrigações constantes deste diploma."
+  },
+  "6fb93e37bf48e323": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Constituição da mesa da assembleia geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Constituição da mesa da assembleia geral)\n\n1 - A assembleia geral terá 1 presidente, 1 vice-presidente e 2 secretários por ela eleitos trienalmente, sendo permitida a reeleição.\n\n2 - O exercício das funções é gratuito."
+  },
+  "784f8e6b6d032433": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Sessões da assembleia geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Sessões da assembleia geral)\n\n1 - A assembleia geral terá 2 sessões ordinárias em cada ano, uma em Novembro, para a discussão e aprovação do orçamento de receitas e despesas do ano seguinte e para o exercício das funções previstas na alínea f) do artigo 11.º deste diploma, e outra até ao termo do 1.º trimestre de cada ano, para apreciação e aprovação do relatório e contas de gerência do ano anterior.\n\n2 - Além das sessões ordinárias haverá as extraordinárias que forem julgadas necessárias.\n\n3 - As sessões serão convocadas pelo presidente, de sua iniciativa, a pedido da direcção, do júri avindor ou de um terço, pelo menos, dos beneficiários.\n\n4 - As convocações serão feitas por aviso, do qual deve constar expressa e claramente a ordem de trabalhos, expedido com a antecedência de 10 dias, pelo menos, em relação às sessões ordinárias e de 5 dias para as sessões extraordinárias, ou publicado nos órgãos da imprensa regional com a mesma antecedência.\n\n5 - As sessões da assembleia geral podem continuar em qualquer dos dias imediatos com a mesma ordem de trabalhos."
+  },
+  "9e9f46f1374a8064": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Atribuições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Atribuições)\n\nCompete à assembleia geral:\n\na) Dar parecer sobre os projectos dos regulamentos definitivos elaborados pela Direcção-Geral de Hidráulica e Engenharia Agrícola, nos termos da alínea a) do artigo 4.º do presente diploma;\n\nb) Pronunciar-se sobre quaisquer consultas que lhe sejam feitas pela direcção;\n\nc) Discutir e votar o orçamento das receitas e despesas e o relatório e contas de gerência;\n\nd) Indicar a necessidade de criar, extinguir e remodelar serviços e pronunciar-se sobre a regularidade e eficácia dos existentes;\n\ne) Deliberar sobre as questões de interesse colectivo dos beneficiários, sob a forma de voto ou resoluções;\n\nf) Eleger a mesa da assembleia geral, a direcção e o vogal do júri avindor."
+  },
+  "89586dd78134647e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Afixação de documentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Afixação de documentos)\n\nOs documentos relativos às questões a submeter à apreciação da assembleia geral serão afixados na sede da associação, em todos os dias úteis, desde a data em que tiver sido convocada e durante as horas de expediente."
+  },
+  "6056c1c6a6fb0afb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Deliberações da assembleia geral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Deliberações da assembleia geral)\n\nAs deliberações da assembleia geral serão tomadas por maioria dos sócios presentes, cabendo ao presidente voto de qualidade e ao representante do Estado o direito de suspender as deliberações que considerar contrárias à lei, ao interesse geral, aos estatutos e aos interesses que representa."
+  },
+  "a4a55033e5a49304": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Suspensão das deliberações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Suspensão das deliberações)\n\nSempre que se verifique a suspensão de deliberações, ela só cessará após a decisão ministerial, que deverá ser proferida no prazo de 30 dias."
+  },
+  "e9c0a1ee65978144": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Âmbito das deliberações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Âmbito das deliberações)\n\nNão é permitido deliberar nas reuniões da assembleia geral sobre assuntos estranhos àqueles para que foi convocada, podendo, porém, antes ou depois da ordem do dia ser tratados assuntos do interesse da associação."
+  },
+  "f2d8c4c9c32d1ab2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Direcção"
+  },
+  "180985c382930840": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Constituição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Constituição)\n\n1 - A direcção será constituída por 3 a 5 sócios na plenitude dos seus direitos, eleitos trienalmente pela assembleia geral, e será coadjuvada por um representante do Estado sempre e enquanto não for integralmente efectuado o reembolso a que se refere o artigo 13.º do [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho.\n\n2 - A direcção será assistida por um contabilista, por ela escolhido, que servirá de secretário, sem voto.\n\n3 - Os membros da direcção têm direito por cada dia de sessão a uma senha de presença, cujo valor será fixado pela assembleia geral."
+  },
+  "b3ece454a3ab66fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Atribuições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Atribuições)\n\nCompete à direcção a orientação geral da associação de beneficiários, com vista ao integral aproveitamento da obra de fomento hidroagrícola e, em especial:\n\na) Representá-la em juízo e fora dele;\n\nb) Elaborar anualmente os orçamentos, relatórios e contas de gerência e apresentá-los à votação da assembleia geral;\n\nc) Efectuar o lançamento e cobrança da taxa de exploração e conservação e outras receitas;\n\nd) Dirigir a exploração e conservação das obras e dos aproveitamentos hidroeléctricos nelas integrados que tenham sido entregues à respectiva associação, zelando pela manutenção da qualidade técnica da obra e seus equipamentos;\n\ne) Assegurar uma gestão financeira equilibrada;\n\nf) Efectuar o registo da produção anual das terras beneficiadas e de outros elementos de interesse estatístico;\n\ng) Dirigir o pessoal próprio da associação ou nela a prestar serviço;\n\nh) Dar cumprimento às instruções emanadas da Direcção-Geral de Hidráulica e Engenharia Agrícola, ou da direcção regional de agricultura respectiva, e, de um modo geral, assegurar as relações entre estes organismos e a associação de beneficiários;\n\ni) Executar os votos e resoluções da assembleia geral, salvo se forem contrários à lei ou ao interesse geral da colectividade;\n\nj) Realizar todos os actos e contratos, de acordo com os fins da associação, e exercer todas as atribuições previstas na lei que não sejam da competência exclusiva da assembleia geral ou do júri avindor;\n\nl) Autorizar as despesas, praticar os actos e celebrar os contratos previstos neste Regulamento ou necessários à realização dos fins da associação e que não sejam da competência privativa da assembleia geral, do júri avindor ou dos organismos do Estado;\n\nm) Manter actualizados os elementos cadastrais que lhe forem fornecidos em relação aos prédios rústicos situados na área beneficiada;\n\nn) Elaborar e manter actualizado o registo dos sócios com assento na assembleia geral;\n\no) Participar ao júri avindor as transgressões de que tenha conhecimento praticadas pelos beneficiários ou utentes;\n\np) Regulamentar o modo e lugar da eleição dos delegados previstos no artigo 7.º deste diploma;\n\nq) Proceder à admissão e gestão do pessoal necessário para uma eficiente exploração e conservação da obra."
+  },
+  "5191c12909eb20f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Funcionamento da direcção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Funcionamento da direcção)\n\n1 - Na primeira reunião da direcção será eleito o presidente, o qual indicará o vogal que o substituirá nas suas faltas e impedimentos.\n\n2 - A direcção reúne uma vez por mês em sessão ordinária e extraordinariamente sempre que o presidente a convoque, só podendo deliberar quando estiverem presentes o presidente ou o seu substituto, a maioria dos seus membros e o representante do Estado, enquanto exista.\n\n3 - As reuniões ordinárias serão em dia certo de cada mês, marcado no começo do ano; as reuniões extraordinárias deverão ser convocadas com, pelo menos, 8 dias de antecedência, indicando-se sempre, expressamente, nos avisos convocatórios os assuntos a versar.\n\n4 - As deliberações serão tomadas por maioria de votos, tendo o presidente voto de qualidade.\n\n5 - O representante do Estado pode suspender as deliberações tomadas se as considerar contrárias à lei, ao interesse geral, aos estatutos ou aos interesses que representa.\n\n6 - No caso de o representante do Estado opor o seu direito de veto às deliberações da direcção, estas considerar-se-ão suspensas até resolução ministerial, a qual terá lugar no prazo de 30 dias.\n\n7 - Das reuniões da direcção serão sempre lavradas actas.\n\n8 - Para obrigar a associação é necessário, pelo menos, a assinatura de 2 dos seus membros, sendo uma delas a do presidente ou do seu substituto, desde que para tal esteja autorizado; poderão igualmente obrigar a associação as assinaturas de um dos membros da direcção e do representante do Estado, quando este exercer as funções de director executivo, nos termos do n.º 1 do artigo 29.º do presente diploma."
+  },
+  "541986417577a55e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Vinculação dos membros da direcção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Vinculação dos membros da direcção)\n\nOs membros da direcção respondem pessoal e solidariamente pelos actos praticados contra as disposições da lei, regulamentos e estatutos, salvo se não tiverem tomado parte nas respectivas deliberações ou se tiverem emitido voto contrário."
+  },
+  "716c8bc41c4ce280": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Competência do presidente da direcção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Competência do presidente da direcção)\n\nCompete ao presidente da direcção:\n\na) Convocar as reuniões da direcção e presidir às sessões;\n\nb) Representar a direcção;\n\nc) Promover a regular escrituração do livro de registo de associados e a execução das deliberações tomadas pela direcção e, bem assim, exercer as demais funções conferidas pelos regulamentos e estatutos."
+  },
+  "06bc498e846adde0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Júri avindor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Júri avindor"
+  },
+  "42c1e6c7cb217514": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Constituição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Constituição)\n\n1 - O júri avindor será composto por 3 jurados, um dos quais eleito pela assembleia geral da associação de beneficiários, outro indicado pela associação ou associações de agricultores em efectividade na zona do perímetro e o terceiro indicado pela direcção regional de agricultura respectiva, que servirá de presidente.\n\n2 - O secretário da direcção exercerá as funções de escrivão do júri avindor.\n\n3 - Nenhum membro do júri avindor poderá fazer parte de qualquer outro órgão da associação."
+  },
+  "dd678f64abfb54f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Atribuições)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Atribuições)\n\n1 - Ao júri avindor, além de outras atribuições que lhe sejam cometidas por lei, pelo regulamento e pelos estatutos da obra, compete:\n\na) Promover a conciliação dos desavindos, por motivo de uso das águas ou de exploração das terras, através do esclarecimento dos respectivos deveres e direitos;\n\nb) Pronunciar-se sobre as reclamações dos beneficiários, relativas à matéria das atribuições da associação e julgar transgressões ao regulamento da obra, aplicando as respectivas multas e fixando o valor das indemnizações a que houver lugar, de acordo com este Regulamento;\n\nc) Conhecer as queixas ou participações contra a direcção da associação e propor à Direcção-Geral de Hidráulica e Engenharia Agrícola as providências que julgar convenientes.\n\n2 - As participações ou queixas serão feitas pelos interessados ou pela direcção.\n\n3 - Da conciliação será lavrado auto, assinado pelos membros do júri, pelas partes e pelo escrivão, do qual constará o motivo de desavença, o valor da indemnização e restantes cláusulas do acordo."
+  },
+  "f4cc9d6ab1ced606": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Funcionamento do júri avindor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Funcionamento do júri avindor)\n\n1 - O júri avindor reunirá a pedido de 2 dos seus membros ou sempre que o seu presidente o julgue necessário.\n\n2 - As sessões do júri avindor só funcionam legalmente quando estiverem presentes os seus 3 membros."
+  },
+  "2df7d4f47b87f551": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Averiguações complementares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Averiguações complementares)\n\nO presidente pode, antes de convocar o júri e sempre que julgue conveniente, proceder às averiguações necessárias, de modo a que os processos sejam submetidos à apreciação do júri depois de convenientemente instruídos."
+  },
+  "c472830c0c835f10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Fundamento das decisões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Fundamento das decisões)\n\nAs decisões proferidas pelo júri avindor deverão ser devidamente fundamentadas."
+  },
+  "2cff49bc57642d40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Reembolso de despesas e de remunerações perdidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Reembolso de despesas e de remunerações perdidas)\n\nAs funções inerentes ao cargo de membro do júri avindor são gratuitas, tendo no entanto direito a ser reembolsados quer das despesas efectuadas por motivo das investigações e diligências efectuadas, quer das remunerações perdidas durante aquele período."
+  },
+  "f250c7aa6148a390": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Representante do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Representante do Estado"
+  },
+  "c4c9d032dd70e07c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — (Nomeação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Nomeação)\n\nO representante do Estado será um engenheiro agrónomo nomeado pelo Ministro da Agricultura, Comércio e Pescas sob proposta do director regional de agricultura em cuja área se situe a maior parte dos terrenos a beneficiar, ouvido o director-geral de Hidráulica e Engenharia Agrícola."
+  },
+  "4724ea62a6892f47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — (Atribuição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Atribuição)\n\n1 - O representante a que se refere o artigo anterior terá como principais atribuições a vigilância dos interesses do Estado e do interesse público, cabendo-lhe o direito e a obrigação de suspender as deliberações contrárias à lei, aos estatutos e aos interesses que representa.\n\n2 - Sempre que se verifique suspensão das deliberações dos órgãos da associação de beneficiários, ela só cessará após decisão ministerial."
+  },
+  "d8a83f07e7fd98d4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Funções do representante do Estado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Funções do representante do Estado)\n\n1 - O representante do Estado poderá também exercer as funções de director executivo, desde que não haja oposição da respectiva associação de beneficiários.\n\n2 - O mesmo representante actuará em conformidade com as orientações que lhe forem transmitidas pela Direcção-Geral de Hidráulica e Engenharia Agrícola.\n\n3 - As funções de representante do Estado serão exercidas em regime de destacamento, em tempo completo, quando as obras o justifiquem, dando direito a uma remuneração acessória, a fixar por despacho conjunto do Ministro de Estado e das Finanças e do Plano, do Ministro da Agricultura, Comércio e Pescas e do Secretário de Estado da Reforma Administrativa.\n\n4 - A remuneração acessória prevista no número anterior não é acumulável com qualquer outra que possa ser atribuída pela associação de beneficiários para o exercício das mesmas funções."
+  },
+  "57212c24a66f2c72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Associados - Direitos e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Associados - Direitos e obrigações"
+  },
+  "2f2bd67b50629640": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Direitos dos sócios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Direitos dos sócios)\n\nSão direitos dos sócios:\n\na) Tomar parte nas reuniões da assembleia geral, discutir os assuntos submetidos e votar de acordo com os preceitos estatutários, desde que não sejam empregados remunerados da associação de beneficiários, nem funcionários ou agentes do Ministério da Agricultura, Comércio e Pescas;\n\nb) Reclamar dos cadastros dos prédios rústicos, do registo dos sócios, das taxas de beneficiação e de exploração e conservação, indicando, concretamente, os fundamentos que justificam a reclamação;\n\nc) Submeter à apreciação do júri avindor as questões ou desavenças suscitadas por motivo de uso das águas ou de exploração agrícola;\n\nd) Auferir das regalias materiais e das tecnologias que a associação ponha à disposição dos associados;\n\ne) Formular, perante o júri avindor, as reclamações que tiverem contra os órgãos directivos da associação de beneficiários;\n\nf) Voltar e ser eleitos para os cargos a prover por eleição na assembleia geral, direcção e júri avindor."
+  },
+  "541fc5188dfb3366": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — (Deveres dos sócios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Deveres dos sócios)\n\nSão deveres dos sócios:\n\na) Receber e aproveitar nas culturas a água atribuída aos prédios que cultivem, sendo empresas agrícolas, ou actuar de acordo com os fins que justificam a sua qualidade de sócios, sendo utilizadores industriais ou autarquias locais, uns e outros em conformidade com os planos de exploração, dotações e horários de rega e decisões da direcção;\n\nb) Respeitar as obras do aproveitamento, velar pela sua conservação e executar os trabalhos de reparação da parte delas directamente ligadas às suas utilizações, quando disso forem incumbidos por lei ou pela associação, ou quando as circunstâncias o imponham;\n\nc) Cumprir rigorosamente a lei, os estatutos e os regulamentos especiais que forem aprovados pelos serviços oficiais competentes, designadamente contribuindo para as despesas da associação e participando à direcção todas as infracções de que tiverem conhecimento."
+  },
+  "01f92bd1c05c3510": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Das obras e do uso das águas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Das obras e do uso das águas"
+  },
+  "7d7e16122aec9a5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Das obras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Das obras"
+  },
+  "bceba3c0bccc3e52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — (Beneficiários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Beneficiários)\n\nPoderão ser beneficiários das obras todas as entidades a que se refere o n.º 2 do artigo 6.º"
+  },
+  "3b09d256030da11d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — (Trabalhos estranhos à obra)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Trabalhos estranhos à obra)\n\nNenhum beneficiário poderá, sem prévia autorização, executar quaisquer trabalhos estranhos à finalidade da obra dentro da zona beneficiada."
+  },
+  "51ba4e910d3a57be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — (Prejuízos causados nas obras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Prejuízos causados nas obras)\n\nAs reparações de prejuízos causados nas obras ou nos terrenos beneficiados, por dolo ou negligência, serão executadas pela associação por conta dos beneficiários causadores, directos ou indirectos, desses prejuízos, independentemente das multas e indemnizações a terceiros que lhes sejam aplicadas, bem como da responsabilidade criminal que houver."
+  },
+  "1bb7a6d34fbdbca4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — (Limitações na zona beneficiada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Limitações na zona beneficiada)\n\n1 - Nenhum beneficiário, sem prejuízo do que a lei determinar quanto a certas espécies, poderá efectuar plantações de árvores a menos de 5 m dos elementos das redes de rega e de enxugo.\n\n2 - A distância referida no número anterior poderá ser aumentada pela associação, sempre que circunstâncias especiais o exijam, mediante despacho de concordância do director-geral de Hidráulica e Engenharia Agrícola."
+  },
+  "466255378e394f89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Do uso das águas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Do uso das águas"
+  },
+  "d867ab22ed06222f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — (Distribuição de água para rega)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Distribuição de água para rega)\n\nSomente à direcção compete dirigir a distribuição da água, qualquer que seja o sistema de rega adoptado, devendo este serviço ser executado por pessoal especializado."
+  },
+  "87b9c9ef8194a43b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — (Uso da água)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Uso da água)\n\n1 - Nenhum beneficiário poderá usar a água para fins diferentes dos estabelecidos no respectivo plano de utilização.\n\n2 - Somente no caso de incêndio é permitido a qualquer associado ou estranho à associação utilizar a água dos canais ou distribuidores, pela forma e na quantidade necessária à extinção do incêndio."
+  },
+  "22efbd8d2a8b622f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — (Permuta de água)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Permuta de água)\n\nNenhum beneficiário poderá, sem expressa autorização da direcção, permutar a sua vez de rega ou ceder a outro, na totalidade ou em parte, a água que lhe compete."
+  },
+  "ced0669b27e9fdce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — (Passagem de água para prédios beneficiados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — (Passagem de água para prédios beneficiados)\n\nTodo o beneficiário é obrigado a dar passagem pelos seus prédios às águas de rega, em conformidade com o plano de distribuição e quando for julgado necessário pela associação, e ainda ao pessoal encarregado da exploração e conservação e respectivo material, devendo os prejuízos daí comprovadamente resultantes ser indemnizados pela associação."
+  },
+  "be614c4b1eda7094": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — (Represamentos de água)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — (Represamentos de água)\n\n1 - Podem ser permitidos pela direcção os represamentos da água que compete a cada beneficiário, dentro das suas propriedades, desde que deles não resulte dano para a obra e se pratiquem em condições de segurança e sem prejuízo de terceiros.\n\n2 - Os prejuízos a terceiros ou à própria obra serão motivo de indemnização a suportar pelos responsáveis."
+  },
+  "280bf7cc3aedd9bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — (Alterações de horários de rega)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — (Alterações de horários de rega)\n\nQuando circunstâncias especiais o imponham, e com o fim de garantir a melhor utilização da água disponível, poderá a direcção alterar os horários de rega."
+  },
+  "c1a37e5c150c07f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Das transgressões, indemnizações e penalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Das transgressões, indemnizações e penalidades"
+  },
+  "296534ecbd58e8f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — (Transgressões)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — (Transgressões)\n\nComete transgressão punível pela forma adiante indicado o beneficiário que:\n\na) Não querendo regar as suas terras no horário que lhe estiver destinado, não ponha o sinal que for convencionado ou indicado pela direcção e pelo qual mostra renunciar à rega;\n\nb) Devidamente avisado pelo pessoal da distribuição da água do dia e hora a que tem de regar, não se apresente a receber a água que lhe compete;\n\nc) Por qualquer processo procure desviar para as suas terras a água que lhe não caiba;\n\nd) Procure servir-se da água fora do local em que a deve tomar ou fora do turno e hora que lhe forem marcados;\n\ne) Por qualquer meio, receba água por mais tempo do que lhe foi estabelecido;\n\nf) Em qualquer ocasião, tome a água dos canais e distribuidores por meios diferentes dos estabelecidos;\n\ng) Permute com outro a sua vez de rega ou ceda total ou parcialmente a água que lhe compete;\n\nh) Utilize a água que lhe é distribuída para outro fim diferente do estabelecido no plano do aproveitamento da obra;\n\ni) Utilize a água dos canais e distribuidores para lavagem de roupa ou neles estabeleça apetrechos de pesca;\n\nj) Obstrua por qualquer modo a corrente dos canais ou distribuidores, ou estabeleça neles qualquer dispositivo que tal favoreça, ainda que daí não resulte prejuízo de terceiros;\n\nl) Deixe pastar animais nas banquetas ou cômoros dos canais, valas, colectores, etc., ou deixe abeberar ou banhar os seus animais dentro dos canais ou valas;\n\nm) Destrua ou danifique as obras, nomeadamente as margens, taludes, leitos dos canais ou quaisquer obras de arte existentes;\n\nn) Efectue qualquer obra nova ou plantação de arvoredo, sem atender ao que neste Regulamento está preceituado."
+  },
+  "951c79b2921a40e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — (Indemnizações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — (Indemnizações)\n\n1 - Nos processos por transgressão decorrentes do disposto no artigo antecedente, a direcção fixará o valor das indemnizações a pagar pelos transgressores, quando houver prejuízos.\n\n2 - À transgressão poderá ser aplicada uma multa compreendida entre metade do valor da taxa de exploração e conservação média do ano antecedente e 5 vezes esse valor, excepto para os casos previstos nas alíneas m) e n) do artigo anterior, em que a multa oscilará entre o valor da taxa de exploração e conservação média do ano anterior e 10 vezes esse valor; em caso de reincidência, as multas serão elevadas ao dobro.\n\n3 - Quando haja prejuízos, a multa poderá ascender ao montante destes."
+  },
+  "8796151431ad221d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — (Multas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — (Multas)\n\nAs multas aplicadas em virtude das transgressões que digam respeito ao uso das águas serão também elevadas ao dobro, quando as mesmas sejam cometidas em épocas em que haja escassez de água."
+  },
+  "4b624e0c55c7d819": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — (Âmbito das medidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — (Âmbito das medidas)\n\nAs disposições referidas nesta secção são extensivas aos utentes a título precário."
+  },
+  "deed0ca13956e917": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Das receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Das receitas e despesas"
+  },
+  "097776dcbed9267f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — (Receitas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — (Receitas)\n\nConstituem receitas da associação de beneficiários:\n\na) O produto da taxa de exploração e conservação;\n\nb) A importância das multas e indemnizações arbitradas em seu benefício;\n\nc) Quaisquer outros rendimentos provenientes dos serviços prestados pela associação;\n\nd) Os subsídios que lhe forem atribuídos."
+  },
+  "7f54752b8d1001ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — (Cobrança das taxas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — (Cobrança das taxas)\n\n1 - As importâncias das taxas serão cobradas anualmente, por uma só vez ou em prestações, conforme deliberação da assembleia geral.\n\n2 - O lançamento da taxa de exploração e conservação efectuar-se-á, conforme as disposições em vigor, até 30 de Novembro de cada ano."
+  },
+  "3c70152c37e8c18d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — (Afixação dos mapas das taxas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — (Afixação dos mapas das taxas)\n\n1 - Para efeitos de reclamação, a liquidação das taxas deverá ser precedida da afixação dos respectivos mapas até à data que for determinada no regulamento da obra.\n\n2 - As reclamações serão dirigidas à direcção, no prazo de 15 dias a contar da afixação dos mapas, devendo ser resolvidas nos 90 dias seguintes.\n\n3 - As reclamações e recursos sobre liquidação de taxas não terão efeito suspensivo; sendo obtido provimento, far-se-á, no primeiro pagamento posterior à decisão final que vier a ser tomada, a dedução correspondente ao que tiver sido cobrado em excesso.\n\n4 - No caso de não provimento, haverá lugar ao pagamento da importância das despesas a que a reclamação e o recurso tiverem dado causa."
+  },
+  "8c63eabaea90a084": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — (Cobrança coerciva)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — (Cobrança coerciva)\n\n1 - A cobrança coerciva das taxas e bem assim das multas, indemnizações ou outras dívidas à associação, nos termos deste Regulamento, efectuar-se-á pelo processo de execuções fiscais, nos Tribunais de 1.ª Instância das Contribuições e Impostos de Lisboa e Porto ou nas repartições de finanças, nos demais concelhos do País.\n\n2 - A cobrança coerciva far-se-á 30 dias após a falta de pagamento voluntário."
+  },
+  "016960bc19ef4427": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — (Certidão do título de cobrança)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — (Certidão do título de cobrança)\n\nA execução terá por base certidão, extraída pela direcção, do título de cobrança ou documento donde conste a dívida ou ainda da decisão que tiver condenado o sócio ou beneficiário ao pagamento da multa e indemnização. A certidão será, para o efeito, enviada ao tribunal ou repartição de finanças competente."
+  },
+  "fb994fdfe427ac8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — (Depósito de receitas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — (Depósito de receitas)\n\nAs receitas serão depositadas em qualquer instituição de crédito à ordem da associação de beneficiários."
+  },
+  "d0cf4c183e18f8ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — (Orçamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — (Orçamento)\n\nNo orçamento das receitas e despesas não podem ser previstas as despesas correntes sem que se assegure a sua cobertura pelo produto da taxa de exploração e conservação, salvo na medida em que, à data da aprovação do orçamento, se encontrem definidos subsídios disponíveis no período em que se destina a vigorar e expressamente destinados a cobrir despesas daquela natureza."
+  },
+  "20bdbcc83f7fa499": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — (Contas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — (Contas)\n\nAs associações de beneficiários terão contabilidade que se regerá pelo Plano Oficial de Contas, devendo constar do respectivo regulamento as normas de contabilidade aplicáveis."
+  },
+  "70379f0411fef260": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — (Plano de actividades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — (Plano de actividades)\n\nA gestão das associações de beneficiários far-se-á através de planos plurianuais de actividades, programas anuais de trabalho e do orçamento anual, que serão submetidos à aprovação da Direcção-Geral de Hidráulica e Engenharia Agrícola até 15 de Novembro de cada ano."
+  },
+  "cb0a4cdfab6c6af4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Disposições gerais"
+  },
+  "90fe998da77366b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — (Estatuto laboral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — (Estatuto laboral)\n\nO estatuto laboral dos trabalhadores das associações de beneficiários será estabelecido por portaria conjunta dos Ministros da Agricultura, Comércio e Pescas e do Trabalho."
+  },
+  "ef850906c4d85b74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — (Regalias das associações de beneficiários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — (Regalias das associações de beneficiários)\n\nAs associações de beneficiários gozam de todas as regalias concedidas pela legislação em vigor às cooperativas agrícolas, em especial, e às cooperativas, em geral."
+  },
+  "179b5028b5b7d64e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — (Ano social)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — (Ano social)\n\nO ano social das associações de beneficiários corresponde ao ano civil, excepto durante o primeiro exercício, que compreenderá o tempo decorrido entre a data da constituição da associação e 31 de Dezembro do ano seguinte."
+  },
+  "1d526e77977dff64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — (Substituição dos órgãos das associações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — (Substituição dos órgãos das associações)\n\nOs órgãos das associações de beneficiários podem ser substituídos por comissões administrativas, por determinação do Ministro da Agricultura, Comércio e Pescas, sob proposta do director-geral de Hidráulica e Engenharia Agrícola, quando se verifiquem deficiências graves na sua actuação."
+  },
+  "a0f5b3f00a258c2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — (Prédio rústico e empresa agrícola)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — (Prédio rústico e empresa agrícola)\n\nPara efeitos deste Regulamento, são aplicáveis as definições de prédio rústico e empresa agrícola contidas no artigo 73.º da [Lei n.º 77/77](https://diariodarepublica.pt/dr/detalhe/lei/77-1977-278704), de 29 de Setembro."
+  },
+  "05aed2cf40e86cd3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — (Regime transitório)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — (Regime transitório)\n\nAté à implantação das estruturas criadas por este Regulamento, as obras continuarão a ser geridas pelas associações de regantes e beneficiários existentes, que se regerão pelas normas actualmente em vigor, na parte não expressamente alterada por este decreto.\n\nDiogo Pinto de Freitas do Amaral - Basílio Adolfo Mendonça Horta da Franca.\n\nPromulgado em 18 de Outubro de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "bacd4333670b4986": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — (Estatuto laboral)",
+   "in_force_from": "1996-08-17",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1996-405309), publicado em 1996-08-12."
+   ],
+   "markdown": "###### Artigo 55.º — (Estatuto laboral)\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-1996-405309), publicado em 1996-08-12."
+  }
+ }
+}

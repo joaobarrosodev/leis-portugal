@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:355346:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1975-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "32bc12d691f861ba"
+   ]
+  },
+  {
+   "date": "1976-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:281828:por",
+     "title": "Decreto-Lei n.º 225-E/76",
+     "published": "1976-03-31",
+     "dre_path": "/dr/detalhe/decreto-lei/225-e-1976-281828"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "b364cb0247909301",
+    "8c23793acc56d214",
+    "7b47aeb584f5fa36",
+    "fcd5c084f47afb31",
+    "46a1c37d7d73b200"
+   ]
+  }
+ ],
+ "fragments": {
+  "32bc12d691f861ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro\n\nPelo [Decreto-Lei n.º 452/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1975-314913), de 21 de Agosto, foi aumentada a taxa de juros de mora no pagamento das dívidas ao Estado, fixando-se em 1,5% por cada mês.\n\nAs razões invocadas no preâmbulo daquele diploma são inteiramente válidas em relação às dívidas à Previdência, pelo que se adopta desde já a mesma taxa para os juros de mora relativos a essas dívidas, independentemente de quaisquer outras medidas que sejam consideradas oportunas para a solução do preocupante problema da falta de cumprimento das suas obrigações por parte de alguns contribuintes.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º O n.º 2 do artigo 116.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passa a ter a seguinte redacção:\n\nArt. 116.º - 1. ...\n\n2. O juro de mora é de 1,5% em relação a cada um dos meses seguintes àquele em que devia ser feito o pagamento das contribuições e até ao mês, inclusive, em que este pagamento seja efectuado.\n\n3. ...\n\nArt. 2.º A redacção do n.º 2 do artigo 74.º do [Decreto n.º 46548](https://diariodarepublica.pt/dr/detalhe/decreto/46548-1965-510263), de 23 de Setembro de 1965, é substituída pela seguinte:\n\nArt. 74.º - 1. ...\n\n2. O juro de mora é de 1,5% em relação a cada um dos meses seguintes àquele a que se referem as contribuições e até ao mês, inclusive, em que o seu pagamento seja efectuado.\n\nArt. 3.º O presente diploma produz efeitos desde 1 de Janeiro de 1976.\n\nJosé Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Jorge de Carvalho Sá Borges.\n\nPromulgado em 31 de Dezembro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "b364cb0247909301": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro\n\nPelo [Decreto-Lei n.º 452/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/452-1975-314913), de 21 de Agosto, foi aumentada a taxa de juros de mora no pagamento das dívidas ao Estado, fixando-se em 1,5% por cada mês.\n\nAs razões invocadas no preâmbulo daquele diploma são inteiramente válidas em relação às dívidas à Previdência, pelo que se adopta desde já a mesma taxa para os juros de mora relativos a essas dívidas, independentemente de quaisquer outras medidas que sejam consideradas oportunas para a solução do preocupante problema da falta de cumprimento das suas obrigações por parte de alguns contribuintes.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "8c23793acc56d214": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO n.º 2 do artigo 116.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, passa a ter a seguinte redacção:\n\nArt. 116.º - 1. ...\n\n2. O juro de mora é de 1,5% em relação a cada um dos meses seguintes àquele em que devia ser feito o pagamento das contribuições e até ao mês, inclusive, em que este pagamento seja efectuado.\n\n3. ..."
+  },
+  "7b47aeb584f5fa36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA redacção do n.º 2 do artigo 74.º do [Decreto n.º 46548](https://diariodarepublica.pt/dr/detalhe/decreto/46548-1965-510263), de 23 de Setembro de 1965, é substituída pela seguinte:"
+  },
+  "fcd5c084f47afb31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 74.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º\n\n1. ...\n\n2. O juro de mora é de 1,5% em relação a cada um dos meses seguintes àquele a que se referem as contribuições e até ao mês, inclusive, em que o seu pagamento seja efectuado."
+  },
+  "46a1c37d7d73b200": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1976-03-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 225-E/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-e-1976-281828), publicado em 1976-03-31."
+   ],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma produz efeitos desde 1 de Abril de 1976.\n\n> Alterado pelo/a [Decreto-Lei n.º 225-E/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-e-1976-281828), publicado em 1976-03-31.\n\nJosé Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Jorge de Carvalho Sá Borges.\n\nPromulgado em 31 de Dezembro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}

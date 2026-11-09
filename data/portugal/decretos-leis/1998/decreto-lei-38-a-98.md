@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-07-08'
+version_history:
+  file: decreto-lei-38-a-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-02-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-07-08'
+    amending: pt:dre:487079:por
+    amending_title: Decreto-Lei n.º 181/98
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/38-a/1998/02/26/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:02:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 181/98. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-38-a-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -183,9 +198,13 @@ Tendo em vista o prosseguimento da sua actividade de ensino, investigação e pr
 
 2 - O regime de instalação é o fixado pelo [Decreto-Lei n.º 24/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-1994-495503), de 27 de Janeiro, conjugado com o disposto no [Decreto-Lei n.º 215/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1997-208255), de 18 de Agosto, na parte aplicável.
 
-3 - O director é apoiado no processo de instalação da Escola por um conselho consultivo, nomeado por despacho conjunto dos Ministros da Educação e da Cultura e do membro do Governo que tutele a Administração Pública, e constituído por três a cinco membros.
+3 - Durante o regime de instalação, o cargo de director da Escola é exercido, por inerência e a título não remunerado, pelo director do Instituto José de Figueiredo.
 
-4 - Os membros do conselho consultivo têm direito a senhas de presença, de montante a fixar por despacho conjunto dos Ministros das Finanças e da Educação.
+4 - O director é apoiado no processo de instalação da Escola por um conselho consultivo, nomeado por despacho conjunto dos Ministros da Educação e da Cultura e do membro do Governo que tutele a Administração Pública, e constituído por três a cinco membros.
+
+5 - Os membros do conselho consultivo têm direito a senhas de presença, de montante a fixar por despacho conjunto dos Ministros das Finanças e da Educação.
+
+> Alterado pelo/a [Decreto-Lei n.º 181/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/181-1998-487079), publicado em 1998-07-03.
 
 ###### Artigo 5.º — Normas transitórias
 

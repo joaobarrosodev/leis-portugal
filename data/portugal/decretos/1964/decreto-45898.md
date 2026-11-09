@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-04-16'
+version_history:
+  file: decreto-45898.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-04-16'
+    amending: pt:dre:225797:por
+    amending_title: Decreto n.º 167/70
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:41:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 167/70. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1964/decreto-45898.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -100,13 +115,23 @@ Torna-se necessário definir o regime de vencimentos a que terá direito o coman
 
 Usando da faculdade conferida pelo n.º 3 do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º O oficial general que desempenhe as funções de comandante-chefe da província da Guiné terá direito aos vencimentos base e complementar estabelecidos nas tabelas n.os 1, 2 ou 3 anexas ao [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963, para oficial general.
+###### Artigo 1.º
 
-Art. 2.º Como gratificação para despesas de representação do comandante-chefe da província da Guiné, ser-lhe-á atribuída, mensalmente, a quantia de 3500$00.
+O oficial general que desempenhe as funções de comandante-chefe da província da Guiné terá direito aos vencimentos base e complementar estabelecidos nas tabelas n.os 1, 2 ou 3 anexas ao [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963, para oficial general.
 
-Art. 3.º Os vencimentos do oficial general comandante-chefe da Guiné serão liquidados pelo comando do departamento das forças armadas a que pertencer, pelas verbas que lhe são atribuídas para forças militares extraordinárias.
+###### Artigo 2.º
 
-Art. 4.º A gratificação para despesas de representação ao comandante-chefe da Guiné será liquidada pelas verbas próprias atribuídas ao seu gabinete militar.
+Como gratificação para despesas de representação do comandante-chefe da província da Guiné ser-lhe-á atribuída, mensalmente, a quantia de 5000$00.
+
+> Alterado pelo/a [Decreto n.º 167/70](https://diariodarepublica.pt/dr/detalhe/decreto/167-1970-225797), publicado em 1970-04-16.
+
+###### Artigo 3.º
+
+Os vencimentos do oficial general comandante-chefe da Guiné serão liquidados pelo comando do departamento das forças armadas a que pertencer, pelas verbas que lhe são atribuídas para forças militares extraordinárias.
+
+###### Artigo 4.º
+
+A gratificação para despesas de representação ao comandante-chefe da Guiné será liquidada pelas verbas próprias atribuídas ao seu gabinete militar.
 
 § único. Enquanto não for aprovado o orçamento do gabinete militar do comandante-chefe da província da Guiné, a gratificação a que o comandante-chefe tem direito será abonada pelas verbas atribuídas a «Forças militares extraordinárias no ultramar (Defesa nacional - Encargos gerais da Nação)».
 

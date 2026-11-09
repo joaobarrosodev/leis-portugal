@@ -1,0 +1,140 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:139436:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-04-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3f1b866c98569380"
+   ]
+  },
+  {
+   "date": "1980-11-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:458234:por",
+     "title": "Decreto-Lei n.º 550/80",
+     "published": "1980-11-18",
+     "dre_path": "/dr/detalhe/decreto-lei/550-1980-458234"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "bdc8c0984eac2f3c",
+    "98e4b9070c557b2a",
+    "f7ff3f589898238c",
+    "faca471dfdca1327",
+    "69537ac8b53bb9a0",
+    "f5c18983f67d8567",
+    "f0e5523da67424ef",
+    "5b775cad4cd44c41",
+    "5554e902978df3f1",
+    "59a424aa6a32ff11"
+   ]
+  }
+ ],
+ "fragments": {
+  "3f1b866c98569380": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Abril\n\nConsiderando a extraordinária explosão demográfica verificada na maioria dos centros urbanos nos últimos anos, explosão essa que não foi acompanhada de um proporcional aumento dos efectivos da PSP;\n\nConsiderando que, embora em adiantado estudo, não se encontra ainda pronta a reestruturação dos quadros orgânicos da PSP, de modo que, com eficiência, possa corresponder à função que lhe é consignada no artigo 272.º da Constituição Política da República Portuguesa: defesa da legalidade democrática e dos direitos dos cidadãos;\n\nConsiderando que as exigências actuais não se compadecem com a demora da apresentação desse estudo, tornando-se urgente a constituição de uma unidade de reserva do Comando-Geral, com a missão de reforçar os comandos distritais em casos de alteração de ordem pública;\n\nAtendendo ainda que essa reserva já existe, presentemente, mas formada à custa dos já diminutos efectivos dos comandos distritais:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1. É criada uma unidade do Comando-Geral, na dependência directa deste, designada por Corpo de Intervenção da PSP.\n\n2. A unidade tem a seguinte constituição:\n\nComando;\n\nFormação;\n\nGrupos de intervenção.\n\n3. O número de grupos de intervenção é de três.\n\nArt. 2.º O quadro actual da Polícia de Segurança Pública será aumentado do seguinte pessoal:\n\n1 tenente-coronel ou major.\n\n1 major ou capitão.\n\n1 capitão.\n\n4 primeiros-comissários.\n\n7 segundos-comissários.\n\n16 chefes de esquadra.\n\n3 subchefes-ajudantes.\n\n65 subchefes.\n\n564 guardas.\n\n662\n\nArt. 3.º - 1. O Corpo de Intervenção da PSP terá um conselho administrativo, ao qual são aplicáveis as disposições em vigor para os conselhos administrativos dos comandos de Polícia, previstos no [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e seu regulamento, aprovado pelo [Decreto-Lei n.º 44447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44447-1962-163048), de 4 de Julho de 1962, e demais legislação aplicável.\n\n2. O conselho administrativo é constituído pelo 2.º comandante, que preside, por um comissário, que o secretaria, e por um graduado, que exerce as funções de tesoureiro.\n\nArt. 4.º O comandante do Corpo de Intervenção tem competência disciplinar igual à de comandante distrital.\n\nArt. 5.º O 2.º comandante tem competência disciplinar igual à de comandante de divisão da PSP.\n\nArt. 6.º A actualização dos QO da PSP, a que se refere o artigo 2.º do presente diploma, terá lugar em duas fases, constando da primeira, a vigorar de imediato, o comando, formação e dois grupos de intervenção, a que corresponde o aumento do seguinte pessoal:\n\n1 tenente-coronel ou major.\n\n1 major ou capitão.\n\n1 capitão.\n\n3 primeiros-comissários.\n\n5 segundos-comissários.\n\n12 chefes de esquadra.\n\n3 subchefes-ajudantes.\n\n49 subchefes.\n\n419 guardas.\n\n491\n\nArt. 7.º Numa 2.ª fase, a vigorar a partir de 1 de Janeiro de 1978, será criado o 3.º grupo de intervenção, a que corresponderá o aumento dos QO da PSP do seguinte pessoal:\n\n1 primeiro-comissário.\n\n2 segundos-comissários.\n\n4 chefes de esquadra.\n\n148 guardas.\n\n155\n\nArt. 8.º Os encargos resultantes da execução deste diploma são suportados, no corrente ano económico, pelas sobras que se verificarem nas dotações orçamentais do Ministério da Administração Interna.\n\nArt. 9.º Fica revogado o disposto no [Decreto-Lei n.º 277/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1976-502578), de 14 de Abril.\n\nVisto e aprovado em Conselho de Ministros. - Henrique Teixeira Queirós de Barros - Manuel da Costa Brás - Henrique Medina Carreira.\n\nPromulgado em 21 de Março de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "bdc8c0984eac2f3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 5 de Abril\n\nConsiderando a extraordinária explosão demográfica verificada na maioria dos centros urbanos nos últimos anos, explosão essa que não foi acompanhada de um proporcional aumento dos efectivos da PSP;\n\nConsiderando que, embora em adiantado estudo, não se encontra ainda pronta a reestruturação dos quadros orgânicos da PSP, de modo que, com eficiência, possa corresponder à função que lhe é consignada no artigo 272.º da Constituição Política da República Portuguesa: defesa da legalidade democrática e dos direitos dos cidadãos;\n\nConsiderando que as exigências actuais não se compadecem com a demora da apresentação desse estudo, tornando-se urgente a constituição de uma unidade de reserva do Comando-Geral, com a missão de reforçar os comandos distritais em casos de alteração de ordem pública;\n\nAtendendo ainda que essa reserva já existe, presentemente, mas formada à custa dos já diminutos efectivos dos comandos distritais:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "98e4b9070c557b2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. É criada uma unidade do Comando-Geral, na dependência directa deste, designada por Corpo de Intervenção da PSP.\n\n2. A unidade tem a seguinte constituição:\n\nComando;\n\nFormação;\n\nGrupos de intervenção.\n\n3. O número de grupos de intervenção é de três."
+  },
+  "f7ff3f589898238c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO quadro actual da Polícia de Segurança Pública será aumentado do seguinte pessoal:\n\n1 tenente-coronel ou major.\n\n1 major ou capitão.\n\n1 capitão.\n\n4 primeiros-comissários.\n\n7 segundos-comissários.\n\n16 chefes de esquadra.\n\n3 subchefes-ajudantes.\n\n65 subchefes.\n\n564 guardas.\n\n662"
+  },
+  "faca471dfdca1327": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. O Corpo de Intervenção da PSP terá um conselho administrativo, ao qual são aplicáveis as disposições em vigor para os conselhos administrativos dos comandos de Polícia, previstos no [Decreto-Lei n.º 39497](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39497-1953-650349), de 31 de Dezembro de 1953, e seu regulamento, aprovado pelo [Decreto-Lei n.º 44447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44447-1962-163048), de 4 de Julho de 1962, e demais legislação aplicável.\n\n2. O conselho administrativo é constituído pelo 2.º comandante, que preside, por um comissário, que o secretaria, e por um graduado, que exerce as funções de tesoureiro."
+  },
+  "69537ac8b53bb9a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1980-11-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 550/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1980-458234), publicado em 1980-11-18."
+   ],
+   "markdown": "###### Artigo 4.º\n\nO comandante do Corpo de Intervenção tem competência disciplinar igual à do comandante distrital da Polícia de Segurança Pública de Lisboa.\n\n> Alterado pelo/a [Decreto-Lei n.º 550/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1980-458234), publicado em 1980-11-18."
+  },
+  "f5c18983f67d8567": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1980-11-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 550/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1980-458234), publicado em 1980-11-18."
+   ],
+   "markdown": "###### Artigo 5.º\n\nO 2.º comandante tem a mesma competência disciplinar do 2.º comandante da Polícia de Segurança Pública de Lisboa.\n\n> Alterado pelo/a [Decreto-Lei n.º 550/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/550-1980-458234), publicado em 1980-11-18."
+  },
+  "f0e5523da67424ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA actualização dos QO da PSP, a que se refere o artigo 2.º do presente diploma, terá lugar em duas fases, constando da primeira, a vigorar de imediato, o comando, formação e dois grupos de intervenção, a que corresponde o aumento do seguinte pessoal:\n\n1 tenente-coronel ou major.\n\n1 major ou capitão.\n\n1 capitão.\n\n3 primeiros-comissários.\n\n5 segundos-comissários.\n\n12 chefes de esquadra.\n\n3 subchefes-ajudantes.\n\n49 subchefes.\n\n419 guardas.\n\n491"
+  },
+  "5b775cad4cd44c41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nNuma 2.ª fase, a vigorar a partir de 1 de Janeiro de 1978, será criado o 3.º grupo de intervenção, a que corresponderá o aumento dos QO da PSP do seguinte pessoal:\n\n1 primeiro-comissário.\n\n2 segundos-comissários.\n\n4 chefes de esquadra.\n\n148 guardas.\n\n155"
+  },
+  "5554e902978df3f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs encargos resultantes da execução deste diploma são suportados, no corrente ano económico, pelas sobras que se verificarem nas dotações orçamentais do Ministério da Administração Interna."
+  },
+  "59a424aa6a32ff11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nFica revogado o disposto no [Decreto-Lei n.º 277/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-1976-502578), de 14 de Abril.\n\nVisto e aprovado em Conselho de Ministros. - Henrique Teixeira Queirós de Barros - Manuel da Costa Brás - Henrique Medina Carreira.\n\nPromulgado em 21 de Março de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-04-06'
+version_history:
+  file: decreto-201-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-05-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-04-06'
+    amending: pt:dre:502820:por
+    amending_title: Decreto n.º 237/76
+    changes:
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:27:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 237/76. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1973/decreto-201-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -97,9 +112,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 REGULAMENTO DO INSTITUTO DE FORMAÇÃO PROFISSIONAL DO MINISTÉRIO DA JUSTIÇA
 
-Artigo 1.º O Instituto de Formação Profissional tem por objectivo assegurar a preparação e aperfeiçoamento profissional do funcionalismo do Ministério da Justiça.
+###### Artigo 1.º
 
-Art. 2.º Para o exercício das suas atribuições compete ao Instituto promover e organizar as actividades seguintes:
+O Instituto de Formação Profissional tem por objectivo assegurar a preparação e aperfeiçoamento profissional do funcionalismo do Ministério da Justiça.
+
+###### Artigo 2.º
+
+Para o exercício das suas atribuições compete ao Instituto promover e organizar as actividades seguintes:
 
 a) Testes e outras provas selectivas;
 
@@ -111,35 +130,57 @@ d) Estágios e visitas de estudo, no País ou no estrangeiro, bem como seminári
 
 e) Publicação e difusão de estudos e trabalhos sobre matérias versadas no Instituto.
 
-Art. 3.º Q Instituto poderá ainda colaborar, em ligação com a Secretaria-Geral da Presidência do Conselho e outros departamentos, em acções de formação e aperfeiçoamento profissional.
+###### Artigo 3.º
 
-Art. 4.º - 1. A orientação técnica e administrativa do Instituto incumbe ao seu director.
+Q Instituto poderá ainda colaborar, em ligação com a Secretaria-Geral da Presidência do Conselho e outros departamentos, em acções de formação e aperfeiçoamento profissional.
+
+###### Artigo 4.º
+
+1. A orientação técnica e administrativa do Instituto incumbe ao seu director.
 
 2. Poderá, contudo, o director solicitar que, relativamente à organização dos cursos, se pronunciem os superiores hierárquicos dos funcionários a que os cursos se destinam.
 
-Art. 5.º Os dirigentes dos serviços designarão, com a antecedência necessária, os funcionários que devem ser admitidos a cada um dos cursos ministrados no Instituto.
+###### Artigo 5.º
 
-Art. 6.º Durante a frequência dos cursos, os alunos podem ser dispensados de todo ou de parte do serviço a que estão adstritos.
+Os dirigentes dos serviços designarão, com a antecedência necessária, os funcionários que devem ser admitidos a cada um dos cursos ministrados no Instituto.
 
-Art. 7.º - 1. Serão excluídos da frequência dos cursos os alunos que se mostrem pouco assíduos ou que revelem não possuir a necessária capacidade para o exercício das respectivas funções.
+###### Artigo 6.º
+
+Durante a frequência dos cursos, os alunos podem ser dispensados de todo ou de parte do serviço a que estão adstritos.
+
+###### Artigo 7.º
+
+1. Serão excluídos da frequência dos cursos os alunos que se mostrem pouco assíduos ou que revelem não possuir a necessária capacidade para o exercício das respectivas funções.
 
 2. Os funcionários excluídos, nomeados provisoriamente ou em regime de estágio, serão exonerados dos respectivos cargos e os funcionários com provimento definitivo não poderão obter a classificação de serviço de Bom durante os três anos subsequentes.
 
 3. Consideram-se como dadas ao serviço as faltas não justificadas dos alunos que sejam funcionários.
 
-Art. 8.º Sem prejuízo do que estabelece o artigo anterior, nos cursos realizados ao abrigo do disposto na alínea b) do artigo 2.º o grau de aproveitamento dos alunos equivale, para todos os efeitos, ao resultado dos concursos de prestação de provas.
+###### Artigo 8.º
 
-Art. 9.º - 1. O aproveitamento dos alunos não depende obrigatoriamente da realização de provas de exame.
+Sem prejuízo do que estabelece o artigo anterior, nos cursos realizados ao abrigo do disposto na alínea b) do artigo 2.º o grau de aproveitamento dos alunos equivale, para todos os efeitos, ao resultado dos concursos de prestação de provas.
+
+###### Artigo 9.º
+
+1. O aproveitamento dos alunos não depende obrigatoriamente da realização de provas de exame.
 
 2. Será expresso pelas classificações de Muito bom, Bom com distinção, Bom, Suficiente e Excluído o aproveitamento final.
 
-Art. 10.º Além dos casos expressamente previstos na lei, o provimento provisório ou em regime de estágio, o provimento definitivo e a promoção podem ficar dependentes, mediante despacho do Ministro da Justiça, da frequência de curso adequado do Instituto com aproveitamento.
+###### Artigo 10.º
 
-Art. 11.º Os encargos com a organização de cursos destinados a substituir concursos de prestação de provas serão satisfeitos por força das datações que teriam de suportar as despesas com a realização destes.
+Além dos casos expressamente previstos na lei, o provimento provisório ou em regime de estágio, o provimento definitivo e a promoção podem ficar dependentes, mediante despacho do Ministro da Justiça, da frequência de curso adequado do Instituto com aproveitamento.
 
-Art. 12.º - 1. Constituem encargo do Cofre Geral dos Tribunais as despesas de transporte e as ajudas de custo dos funcionários chamados a frequentar os cursos, salvo quando se trate de deslocações para frequência dos cursos exigidos por lei como condição de ingresso nos quadros ou de provimento definitivo.
+###### Artigo 11.º
+
+Os encargos com a organização de cursos destinados a substituir concursos de prestação de provas serão satisfeitos por força das datações que teriam de suportar as despesas com a realização destes.
+
+###### Artigo 12.º
+
+1. Constituem encargo do Cofre Geral dos Tribunais as despesas de transporte e as ajudas de custo dos funcionários chamados a frequentar cursos do Instituto.
 
 2. Será igualmente suportado pelo Cofre o encargo com o pagamento da diferença entre o quantitativo da gratificação, previsto na lei, e o quantitativo do vencimento do cargo de origem, a abonar ao director do Instituto, quando as respectivas funções não forem exercidas em regime de acumulação.
+
+> Alterado pelo/a [Decreto n.º 237/76](https://diariodarepublica.pt/dr/detalhe/decreto/237-1976-502820), publicado em 1976-04-06.
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 

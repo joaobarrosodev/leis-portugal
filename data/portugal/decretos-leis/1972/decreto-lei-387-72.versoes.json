@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:691623:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1972-10-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "db65bab18ec7139c"
+   ]
+  },
+  {
+   "date": "1978-11-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:326358:por",
+     "title": "Decreto-Lei n.º 352/78",
+     "published": "1978-11-23",
+     "dre_path": "/dr/detalhe/decreto-lei/352-1978-326358"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "b62a5fde7242684c",
+    "ba37052aab6a059b",
+    "30ab9f50eb58dd77",
+    "f9ba6c99eaa1ee63"
+   ]
+  }
+ ],
+ "fragments": {
+  "db65bab18ec7139c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Outubro\n\nA [Lei n.º 2020](https://diariodarepublica.pt/dr/detalhe/lei/2020-1947-414634), de 19 de Março de 1947, atribuiu às Oficinas Gerais de Material Aeronáutico o estatuto de estabelecimento fabril em situação paralela à de outras organizações congéneres do Ministério do Exército, participando todas do mesmo regime jurídico.\n\nO recente [Decreto-Lei n.º 252/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1972-675788), de 27 de Julho, veio confirmar e aperfeiçoar o estatuto de empresas públicas dos estabelecimentos fabris dependentes do Ministério do Exército, numa etapa do processo de evolução da indústria militar.\n\nConsiderando que são válidas para as Oficinas Gerais de Material Aeronáutico as razões que ditaram os preceitos deste diploma e convindo a uniformidade de estatuto em relação àqueles estabelecimentos fabris, sempre que não haja motivo particular a impedir;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. As Oficinas Gerais de Material Aeronáutico são uma organização industrial a cuja actividade se aplicam os princípios e normas que regulam a actividade das empresas privadas, nomeadamente em matéria de capacidade jurídica, competência dos órgãos de gestão, regime de operações comerciais e responsabilidade civil, salvo o disposto especialmente por lei ou regulamento.\n\n2. Como organismo da Secretaria de Estado da Aeronáutica, tem personalidade jurídica e goza de autonomia administrativa e financeira.\n\n3. A organização interna das Oficinas Gerais de Material Aeronáutico será regulada por decreto, a fim de poder corresponder às necessidades da gestão técnica, comercial e financeira de carácter empresarial.\n\nArt. 2.º - 1. O estatuto do pessoal em serviço nas Oficinas Gerais de Material Aeronáutico será definido por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social e do Secretário de Estado da Aeronáutica.\n\n2. De harmonia com as normas estabelecidas nesse estatuto, o Secretário de Estado da Aeronáutica fixará as remunerações e condições de trabalho do pessoal civil e as gratificações a abonar ao pessoal militar.\n\n3. (Transitório). Enquanto não estiver aprovado o estatuto do pessoal, de acordo com o disposto no n.º 1, poderá ser feita a fixação a que se refere o n.º 2 por despacho conjunto dos dois Ministros e do Secretário de Estado da Aeronáutica.\n\nArt. 3.º A regulamentação a que se refere o artigo 2.º será feita sem prejuízo dos direitos adquiridos pelo pessoal vitalício, contratado ou assalariado, do quadro das Oficinas Gerais de Material Aeronáutico, que deseje manter o actual estatuto.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 6 de Outubro de 1972.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "b62a5fde7242684c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Outubro\n\nA [Lei n.º 2020](https://diariodarepublica.pt/dr/detalhe/lei/2020-1947-414634), de 19 de Março de 1947, atribuiu às Oficinas Gerais de Material Aeronáutico o estatuto de estabelecimento fabril em situação paralela à de outras organizações congéneres do Ministério do Exército, participando todas do mesmo regime jurídico.\n\nO recente [Decreto-Lei n.º 252/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-1972-675788), de 27 de Julho, veio confirmar e aperfeiçoar o estatuto de empresas públicas dos estabelecimentos fabris dependentes do Ministério do Exército, numa etapa do processo de evolução da indústria militar.\n\nConsiderando que são válidas para as Oficinas Gerais de Material Aeronáutico as razões que ditaram os preceitos deste diploma e convindo a uniformidade de estatuto em relação àqueles estabelecimentos fabris, sempre que não haja motivo particular a impedir;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "ba37052aab6a059b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1978-11-23",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 352/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1978-326358), publicado em 1978-11-23."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1. As Oficinas Gerais de Material Aeronáutico são uma organização industrial a cuja actividade se aplicam os princípios e normas que regulam a actividade das empresas privadas, nomeadamente em matéria de capacidade jurídica, competência dos órgãos de gestão, regime de operações comerciais e responsabilidade civil, salvo o disposto especialmente por lei ou regulamento.\n\n2. Como organismo da Secretaria de Estado da Aeronáutica, tem personalidade jurídica e goza de autonomia administrativa e financeira.\n\n3 - A organização interna das Oficinas Gerais de Material Aeronáutico será regulada por despacho do Chefe do Estado-Maior da Força Aérea, a fim de poder corresponder às necessidades de gestão técnica, comercial e financeira de carácter empresarial.\n\n4 - O Chefe do Estado-Maior da Força Aérea poderá delegar no director das Oficinas Gerais de Material Aeronáutico a competência para alterar a organização interna daquele estabelecimento fabril.\n\n> Alterado pelo/a [Decreto-Lei n.º 352/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/352-1978-326358), publicado em 1978-11-23."
+  },
+  "30ab9f50eb58dd77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O estatuto do pessoal em serviço nas Oficinas Gerais de Material Aeronáutico será definido por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social e do Secretário de Estado da Aeronáutica.\n\n2. De harmonia com as normas estabelecidas nesse estatuto, o Secretário de Estado da Aeronáutica fixará as remunerações e condições de trabalho do pessoal civil e as gratificações a abonar ao pessoal militar.\n\n3. (Transitório). Enquanto não estiver aprovado o estatuto do pessoal, de acordo com o disposto no n.º 1, poderá ser feita a fixação a que se refere o n.º 2 por despacho conjunto dos dois Ministros e do Secretário de Estado da Aeronáutica."
+  },
+  "f9ba6c99eaa1ee63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA regulamentação a que se refere o artigo 2.º será feita sem prejuízo dos direitos adquiridos pelo pessoal vitalício, contratado ou assalariado, do quadro das Oficinas Gerais de Material Aeronáutico, que deseje manter o actual estatuto.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 6 de Outubro de 1972.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

@@ -38,10 +38,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-03-28'
+version_history:
+  file: decreto-lei-16-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-01-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-03-28'
+    amending: pt:dre:533820:por
+    amending_title: Lei n.º 37/94; Decreto-Lei n.º 94/99
+    changes:
+    - Adita Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::56.º-A
+    - Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::5.º
+    - Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::9.º
+    - Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::14.º
+    - Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::21.º
+    - Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::22.º
+    - Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::53.º
+    - Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::66.º
+    - Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::72.º
+    - Altera Artigo ANEXO — Estatuto do Ensino Superior Particular e Cooperativo::34.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre/pt/html
@@ -67,7 +90,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:31:29Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 37/94; Decreto-Lei n.º 94/99.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1994/decreto-lei-16-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -265,7 +289,9 @@ O Estatuto do Ensino Superior Particular e Cooperativo rege a constituição, a 
 
 3 - Cada estabelecimento de ensino será dotado de um estatuto que, no respeito da lei, enuncie os seus objectivos pedagógicos e científicos, concretize a sua autonomia e defina a sua estrutura orgânica.
 
-4 - Não podem ser titulares dos órgãos de estabelecimentos de ensino os titulares de órgãos de direcção ou fiscalização da entidade instituidora.
+4 - Não podem ser titulares dos órgãos de estabelecimento de ensino os titulares de órgãos de fiscalização financeira da entidade instituidora.
+
+> Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11.
 
 ###### Artigo 6.º — Estabelecimentos
 
@@ -305,27 +331,31 @@ g) Avaliar a qualidade científica, pedagógica e cultural do ensino.
 
 Compete ao Ministério da Educação, no âmbito de prossecução das atribuições estabelecidas no artigo anterior:
 
-a) Registar a denominação dos estabelecimentos de ensino;
+a) Verificar a satisfação dos requisitos exigidos para a criação e funcionamento dos estabelecimentos como de ensino superior e reconhecer como tal os que preencham estes requisitos;
 
-b) Reconhecer interesse público aos estabelecimentos de ensino que pretendam ministrar cursos conferentes de grau ou de diploma de estudos superiores especializados;
+b) Registar a denominação dos estabelecimentos de ensino;
 
-c) Autorizar o funcionamento dos cursos referidos na alínea anterior;
+c) Reconhecer interesse público aos estabelecimentos de ensino que pretendam ministrar cursos conferentes de grau ou de diploma de estudos superiores especializados;
 
-d) Reconhecer os graus e diplomas de estudos superiores especializados;
+d) Autorizar o funcionamento dos cursos referidos na alínea anterior;
 
-e) Registar os estatutos dos estabelecimentos de interesse público;
+e) Reconhecer os graus e diplomas de estudos superiores especializados;
 
-f) Autorizar a adopção da denominação de universidade e instituto politécnico;
+f) Registar os estatutos dos estabelecimentos de interesse público;
 
-g) Fixar as vagas para a primeira matrícula e inscrição nos cursos autorizados;
+g) Autorizar a adopção da denominação de universidade e instituto politécnico;
 
-h) Fiscalizar o cumprimento da lei e aplicar, quando esta o determinar, as sanções cominadas em caso de infracção;
+h) Fixar as vagas para a primeira matrícula e inscrição nos cursos autorizados;
 
-i) Criar mecanismos que assegurem a avaliação da qualidade pedagógica, científica e cultural do ensino ministrado, em paralelismo com o ensino superior público;
+i) Fiscalizar o cumprimento da lei e aplicar, quando esta o determinar, as sanções cominadas em caso de infracção;
 
-j) Proporcionar aos estabelecimentos de interesse público os apoios de ordem pedagógica, social, técnica e administrativa que considerar necessários;
+j) Criar mecanismos que assegurem a avaliação da qualidade pedagógica, científica e cultural do ensino ministrado, em paralelismo com o ensino superior público;
 
-l) Apoiar os investimentos e iniciativas realizados através dos estabelecimentos de ensino de interesse público que promovam a melhoria da qualidade do ensino ministrado.
+l) Proporcionar aos estabelecimentos de interesse público os apoios de ordem pedagógica, social, técnica e administrativa que considerar necessários;
+
+m) Apoiar os investimentos e iniciativas realizados através dos estabelecimentos de ensino de interesse público que promovam a melhoria da qualidade do ensino ministrado.
+
+> Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11.
 
 ###### Artigo 10.º — Formas de apoio
 
@@ -383,9 +413,13 @@ d) Desenvolvam actividades no campo do ensino e da investigação, bem como na c
 
 2 - Para efeito da alínea b) do número anterior, metade dos docentes habilitados com o grau de doutor e metade dos habilitados com o grau de mestre devem prestar serviço em regime de tempo integral nesse estabelecimento de ensino.
 
-3 - Os docentes a que se refere a alínea b) do n.º 1 devem ter obtido o grau na área científica do curso em causa.
+3 - Os docentes a que se refere a alínea b) do n.º 1 devem ter obtido um grau académico - licenciado, mestre ou doutor - na área científica em causa.
 
 4 - Os doutores e mestres que prestem serviço no estabelecimento de ensino em causa só podem ser considerados, para efeito da alínea b) do n.º 1, relativamente a um estabelecimento.
+
+5 - As universidades públicas e privadas ou as faculdades e institutos respectivos podem celebrar protocolos de cooperação que assegurem a participação dos corpos docentes nas áreas respectivas, serviço que será sempre considerado compatível com o estatuto do professor.
+
+> Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11.
 
 ###### Artigo 15.º — Institutos politécnicos
 
@@ -477,15 +511,19 @@ d) Conselho pedagógico.
 
 2 - O sistema de participação deve, ainda, assegurar a possibilidade de os representantes dos corpos docentes serem ouvidos pela entidade instituidora em matérias relacionadas com a gestão administrativa, científica e pedagógica do estabelecimento de ensino.
 
-3 - A escolha dos presidentes dos conselhos científico e pedagógico é feita de entre os respectivos membros.
+3 - A escolha dos presidentes dos conselhos científicos e pedagógicos ou de órgãos correspondentes é feita de entre os respectivos membros.
 
-###### Artigo 22.º — Conselho científico
+> Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11.
 
-1 - O conselho científico dos estabelecimentos de ensino será preenchido, em dois terços, por doutores, no ensino universitário, e por doutores e mestres, no ensino politécnico, distribuídos de modo uniforme pelos diversos cursos.
+###### Artigo 22.º — Órgãos científicos e adaptações orgânicas
 
-2 - O conselho científico dos estabelecimentos de ensino superior, particular ou cooperativo será composto por um mínimo de cinco elementos.
+1 - As instituições disporão obrigatoriamente de um órgão científico, que será preenchido, em dois terços, por doutores, no ensino universitário, e por doutores e mestres, no ensino politécnico, distribuídos de modo uniforme pelos diversos cursos.
 
-3 - As universidades serão dotadas de um conselho científico por cada área científica do ensino ministrado, mesmo quando não se encontrar autonomizado em unidade orgânica própria.
+2 - O órgão científico dos estabelecimentos de ensino superior particular e cooperativo será composto por um mínimo de cinco elementos.
+
+3 - Em casos devidamente justificados, poderá ser adoptada estrutura diversa da prevista no artigo 20.º
+
+> Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11.
 
 #### SECÇÃO III — Corpo docente
 
@@ -581,7 +619,17 @@ Só nos estabelecimentos de ensino superior particular ou cooperativo reconhecid
 
 2 - Com o pedido de autorização de funcionamento de cursos será requerido o reconhecimento dos respectivos graus ou diplomas.
 
-3 - O funcionamento de um curso não autorizado determina a caducidade do respectivo pedido de autorização.
+3 - O funcionamento, num estabelecimento de ensino superior particular ou cooperativo reconhecido nos termos da lei, de um curso que pretenda conferir o grau de bacharel, licenciado, mestre ou doutor sem a prévia autorização de funcionamento e reconhecimento de grau nos termos deste diploma determina:
+
+a) O indeferimento do requerimento de autorização de funcionamento e reconhecimento de grau se apresentado, qualquer que seja o momento em que o tenha sido ou venha a ser;
+
+b) O encerramento do curso.
+
+4 - O não encerramento do curso por parte da entidade instituidora e do órgão competente do estabelecimento determina o encerramento compulsivo do mesmo nos termos do artigo 47.º
+
+5 - O ensino ministrado nos cursos a que se refere o número anterior não é passível de reconhecimento ou equivalência no âmbito de cursos de ensino superior.
+
+> Alterado pelo/a [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), publicado em 1999-03-23.
 
 ###### Artigo 35.º — Revogação da autorização de funcionamento
 
@@ -777,6 +825,14 @@ d) Existência de estruturas e formas de apoio social aos alunos carenciados.
 
 2 - Considera-se tacitamente indeferido o pedido de reconhecimento de interesse público dos estabelecimentos de ensino se o Ministro da Educação se não pronunciar no prazo fixado no número anterior.
 
+3 - O autor do pedido tem a faculdade de requerer ao Ministro da Educação, no prazo de 30 dias a contar da data do indeferimento tácito, a explicitação de quais as razões que podem justificar a decisão negativa.
+
+4 - No caso de não haver resposta ao requerimento previsto no número anterior, no prazo de 30 dias após a entrada do mesmo no Ministério da Educação, poderá o requerente renovar imediatamente o pedido.
+
+5 - A decisão sobre o pedido de alteração de um curso prevista no artigo 67.º será igualmente proferida no prazo máximo de seis meses, após a entrada do respectivo processo, devidamente instruído, no Ministério da Educação, considerando-se, neste caso, automaticamente deferido o pedido da alteração caso o Ministério não se pronuncie no prazo referido.
+
+> Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11.
+
 ###### Artigo 54.º — Forma
 
 1 - O reconhecimento de interesse público de um estabelecimento de ensino é feito por decreto-lei.
@@ -800,6 +856,22 @@ c) A natureza e os objectivos do estabelecimento de ensino.
 ###### Artigo 56.º — Transmissão, integração ou fusão de estabelecimento
 
 A transmissão, a integração ou a fusão dos estabelecimentos de ensino reconhecidos como de interesse público devem ser comunicadas previamente ao Ministro da Educação, podendo o respectivo reconhecimento ser revogado com fundamento na alteração dos pressupostos e circunstâncias subjacentes à sua atribuição.
+
+###### Artigo 56.º-A — Funcionamento de estabelecimento não reconhecido
+
+1 - O funcionamento de um estabelecimento de ensino particular ou cooperativo onde se pretendam ministrar cursos que confiram o grau de bacharel, licenciado, mestre ou doutor sem o prévio reconhecimento de interesse público nos termos deste diploma determina:
+
+a) O indeferimento do requerimento de reconhecimento de interesse público, se apresentado, qualquer que seja o momento em que o tenha sido ou venha a ser;
+
+b) O encerramento do estabelecimento.
+
+2 - As medidas a que se refere o número anterior são determinadas por despacho do Ministro da Educação.
+
+3 - O encerramento é solicitado às autoridades administrativas e policiais com comunicação do despacho correspondente.
+
+4 - O ensino ministrado nos estabelecimentos a que se refere o presente artigo não é passível de reconhecimento ou equivalência no âmbito de cursos de ensino superior.
+
+> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), publicado em 1999-03-23.
 
 #### SECÇÃO II — Autorização do funcionamento de cursos e pedido de reconhecimento de grau
 
@@ -879,9 +951,15 @@ e) A indicação do grau ou do diploma concedido.
 
 Ao acto de autorização de funcionamento de cursos e de reconhecimento de grau ou diploma é aplicável, com as necessárias adaptações, o disposto nos artigos 55.º e 56.º
 
-###### Artigo 66.º — Revogação
+###### Artigo 66.º — Regime transitório e revogação
 
-O incumprimento dos requisitos legais, das disposições estatutárias e dos critérios científicos e pedagógicos que determinaram a autorização de funcionamento de curso e o reconhecimento do grau ou diploma poderá determinar a sua revogação.
+1 - As entidades instituidoras de estabelecimento de ensino superior particular ou cooperativo reconhecidos à data da entrada do presente diploma devem promover a adaptação ao regime estabelecido pelo presente Estatuto, desde que satisfeitos os requisitos nele exigidos, até 30 de Junho de 1997.
+
+2 - O incumprimento dos requisitos legais, das disposições estatutárias e dos critérios científicos e pedagógicos que determinaram a autorização de funcionamento de curso e o reconhecimento do grau ou diploma poderão determinar a sua revogação.
+
+3 - O processo em que for proferida a decisão de revogação de reconhecimento será instruído e seguirá a tramitação prevista no artigo 47.º
+
+> Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11.
 
 ###### Artigo 67.º — Alteração a planos de estudos
 
@@ -913,7 +991,9 @@ Considera-se tacitamente indeferido o registo dos estatutos ou suas alterações
 
 ###### Artigo 72.º — Publicação
 
-Após o registo, a entidade instituidora fará publicar na 2.ª série do Diário da República o estatuto do estabelecimento de ensino e respectivas alterações.
+Após o registo, a entidade instituidora fará publicar na 2.ª série do Diário da República o estatuto do estabelecimento de ensino, bem como de todas as alterações subsequentes.
+
+> Alterado pelo/a [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), publicado em 1994-11-11.
 
 #### SECÇÃO IV — Disposições comuns
 

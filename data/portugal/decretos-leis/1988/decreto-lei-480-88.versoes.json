@@ -1,0 +1,196 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:361157:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1988-12-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7af8fab8aafee111",
+    "0f7471c87f06913d",
+    "3c9436cbacd71fbc",
+    "fcf0b8a7bce6b329",
+    "0fa56fbee62f2c87",
+    "25cbc6595b2746d3",
+    "7b32c425a2c0be77",
+    "592bec8c33ace9b0",
+    "c75d279abfc7ce47",
+    "0707e9ed15460690",
+    "f5469e0eff969bb8",
+    "7ef2c35953ff34d0",
+    "9e902258563f465a",
+    "856b15cd8c4cd131",
+    "ca430ef82fbc15be"
+   ]
+  },
+  {
+   "date": "1990-03-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:333290:por",
+     "title": "Decreto-Lei n.º 100/90",
+     "published": "1990-03-20",
+     "dre_path": "/dr/detalhe/decreto-lei/100-1990-333290"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "7af8fab8aafee111",
+    "0f7471c87f06913d",
+    "3c9436cbacd71fbc",
+    "fcf0b8a7bce6b329",
+    "0fa56fbee62f2c87",
+    "25cbc6595b2746d3",
+    "7b32c425a2c0be77",
+    "592bec8c33ace9b0",
+    "c75d279abfc7ce47",
+    "0707e9ed15460690",
+    "3ddbb47c46df7825",
+    "7ef2c35953ff34d0",
+    "9e902258563f465a",
+    "856b15cd8c4cd131",
+    "ca430ef82fbc15be"
+   ]
+  }
+ ],
+ "fragments": {
+  "7af8fab8aafee111": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Dezembro\n\nO desenvolvimento do ensino da enfermagem verificado entre nós, ajustado aos padrões internacionais, nomeadamente dos países europeus, e, bem assim, norteado pela busca permanente da melhoria dos cuidados de saúde, determinou a exigência, no que respeita as habilitações mínimas de acesso, de um nível paralelo ao requerido para o ensino superior.\n\nTodavia, ao invés do preconizado pela Organização Mundial de Saúde e pelo Conselho da Europa, contrariando a evolução verificada nas Comunidades Europeias, o ensino da enfermagem tem permanecido à margem do sistema educativo nacional, daí resultando prejuízos manifestos.\n\nUrge, portanto, proceder à integração do ensino da enfermagem no sistema educativo nacional, garantindo o reconhecimento académico dos seus vários níveis de formação.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "0f7471c87f06913d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Ensino da enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Ensino da enfermagem\n\n1 - O ensino da enfermagem é integrado no sistema educativo nacional, a nível do ensino superior politécnico, e será ministrado em escolas superiores de enfermagem.\n\n2 - A rede das escolas superiores de enfermagem será fixada por portaria conjunta dos Ministros das Finanças, da Educação e da Saúde, sem prejuízo da reconversão das actuais escolas, mediante portaria conjunta dos Ministros da Educação e da Saúde.\n\n3 - O ensino da enfermagem fica sob tutela dos Ministérios da Educação e da Saúde.\n\n4 - A tutela prevista no número anterior será exercida em condições a definir nos termos do n.º 2."
+  },
+  "3c9436cbacd71fbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Escolas superiores de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Escolas superiores de enfermagem\n\n1 - As escolas superiores de enfermagem são dotadas de personalidade jurídica, gozam de autonomia administrativa, técnica, científica e pedagógica e regem-se por regulamento a aprovar por decreto regulamentar.\n\n2 - Compete às escolas superiores de enfermagem organizar e ministrar:\n\na) O curso superior de Enfermagem;\n\nb) Cursos de estudos superiores especializados em enfermagem.\n\n3 - Os planos de estudo dos cursos previstos no número anterior serão aprovados por portaria conjunta dos Ministros da Educação e da Saúde, sob proposta dos conselhos científicos das escolas.\n\n4 - É ainda da competência das escolas superiores de enfermagem:\n\na) Desenvolver a investigação científica e técnica, dentro do seu âmbito;\n\nb) Organizar cursos de aperfeiçoamento e de actualização destinados à valorização dos profissionais de enfermagem, à elevação qualitativa dos cuidados de enfermagem e optimização dos custos de funcionamento dos serviços de saúde;\n\nc) Apoiar pedagogicamente os organismos de educação permanente na área da enfermagem;\n\nd) Colaborar no desenvolvimento sanitário das regiões em que estão inseridas;\n\ne) Cooperar com entidades públicas ou privadas, nacionais ou estrangeiras, com vista à melhoria do nível científico da enfermagem."
+  },
+  "fcf0b8a7bce6b329": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Curso superior de Enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Curso superior de Enfermagem\n\n1 - O curso superior de Enfermagem terá a duração de três anos.\n\n2 - A aprovação no curso a que se refere o número anterior comprova a formação científica e técnica adequada para a prestação de cuidados de enfermagem geral aos três níveis de prevenção, dirigidos ao indivíduo, à família e à comunidade, e, bem assim, a necessária capacidade para participar:\n\na) Na gestão dos serviços de enfermagem;\n\nb) No ensino relacionado com a respectiva área de trabalho;\n\nc) Em estudos de investigação em enfermagem.\n\n3 - A conclusão com aprovação no curso superior de Enfermagem confere o grau académico de bacharel, bem como o título profissional de enfermeiro."
+  },
+  "0fa56fbee62f2c87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Cursos de estudos superiores especializados em enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cursos de estudos superiores especializados em enfermagem\n\n1 - Podem ser criados nas escolas superiores de enfermagem cursos de estudos superiores especializados em enfermagem.\n\n2 - Os cursos de estudos superiores especializados em enfermagem serão criados por portaria conjunta dos Ministros da Educação e da Saúde."
+  },
+  "25cbc6595b2746d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Aprovação nos cursos de estudos superiores especializados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aprovação nos cursos de estudos superiores especializados\n\n1 - A aprovação nos cursos de estudos superiores especializados em enfermagem comprova a competência científica e técnica em determinado domínio especializado da profissão, ao nível de cuidados de enfermagem mais complexos.\n\n2 - A aprovação nos cursos de estudos superiores especializados em enfermagem confere capacidade para:\n\na) A gestão dos serviços de enfermagem;\n\nb) O ensino de enfermagem;\n\nc) A prática da investigação no âmbito da enfermagem.\n\n3 - O diploma de estudos superiores especializados em enfermagem é equivalente ao grau de licenciado, para efeitos profissionais e académicos.\n\n4 - Os cursos de estudos superiores especializados em enfermagem que formem um conjunto coerente com o curso de bacharelato precedente podem conduzir à obtenção do grau de licenciado."
+  },
+  "7b32c425a2c0be77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Admissão ao curso superior de Enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Admissão ao curso superior de Enfermagem\n\n1 - À candidatura, matrícula e inscrição no curso superior de Enfermagem aplica-se o disposto no [Decreto-Lei n.º 354/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/354-1988-354707), de 12 de Outubro.\n\n2 - As competências atribuídas pelo diploma citado no número anterior ao Ministro da Educação serão exercidas conjuntamente pelos Ministros da Educação e da Saúde, bem como as referentes à Direcção-Geral do Ensino Superior e ao Gabinete Coordenador de Ingresso no Ensino Superior, com o Departamento de Ensino de Enfermagem."
+  },
+  "592bec8c33ace9b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Admissão aos cursos de estudos superiores especializados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Admissão aos cursos de estudos superiores especializados\n\nConstituem condições de admissão à frequência dos cursos de estudos superiores especializados em enfermagem:\n\na) A aprovação no curso superior de Enfermagem, ou a equiparação ao grau de bacharel nos termos previstos no presente diploma;\n\nb) Dois anos de experiência profissional comprovada por entidade idónea e obtida após a conclusão do curso superior de Enfermagem."
+  },
+  "c75d279abfc7ce47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Abertura de vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Abertura de vagas\n\nAs vagas para a matrícula e inscrição no 1.º ano de cada curso das escolas superiores de enfermagem, bem como nos cursos superiores especializados, serão fixadas por despacho conjunto dos Ministros da Educação e da Saúde."
+  },
+  "0707e9ed15460690": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Equivalência de habilitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Equivalência de habilitações\n\nAos enfermeiros habilitados com cursos estrangeiros legalmente reconhecidos nos respectivos países para o exercício da profissão de enfermeiro poderá ser concedida equivalência às habilitações portuguesas correspondentes, nos termos do [Decreto-Lei n.º 283/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1983-452538), de 21 de Junho, sem prejuízo do que se encontra estabelecido relativamente aos nacionais de países membros das Comunidades Europeias."
+  },
+  "f5469e0eff969bb8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Condições de equivalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Condições de equivalência\n\n1 - Aos actuais enfermeiros que sejam titulares de uma habilitação que, ao tempo em que foi obtida, fosse considerada como suficiente para o acesso ao ensino superior será concedida equivalência ao bacharelato, ou ao diploma de estudos superiores especializados em enfermagem, conforme, respectivamente, tenham obtido aprovação no curso de Enfermagem Geral ou equivalente legal, ou tenham obtido aprovação nos cursos de especialização em enfermagem a que se refere o [Decreto-Lei n.º 265/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1983-452040), de 16 de Junho, ou no curso de Pedagogia e Administração para enfermeiros especialistas, a que se refere a [Portaria n.º 681/82](https://diariodarepublica.pt/dr/detalhe/portaria/681-1982-394521), de 8 de Julho.\n\n2 - Independentemente do disposto no número anterior, e durante um período de um ano a contar da data da entrada em vigor do presente diploma, a equivalência ao bacharelato poderá ainda ser concedida mediante apreciação curricular efectuada por um júri, a designar por despacho conjunto dos Ministros da Educação e da Saúde, na qual se terá em conta, nomeadamente:\n\na) As habilitações literárias do requerente;\n\nb) A formação em enfermagem;\n\nc) O exercício da profissão;\n\nd) A docência em enfermagem;\n\ne) A contribuição para o desenvolvimento da enfermagem;\n\nf) A formação universitária em outras áreas de conhecimento.\n\n3 - O júri a que se refere o número anterior poderá condicionar a concessão da equivalência a determinada formação complementar.\n\n4 - As equiparações previstas nos números anteriores serão concedidas por despacho do Ministro da Educação a requerimento dos interessados, verificados os requisitos neles estabelecidos."
+  },
+  "7ef2c35953ff34d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Carreira docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Carreira docente\n\n1 - A carreira docente das escolas superiores de enfermagem será fixada por diploma especial, observados os termos do Estatuto da Carreira do Pessoal Docente do Ensino Superior Politécnico.\n\n2 - Os actuais docentes das escolas de enfermagem e os actuais técnicos de enfermagem da área do ensino poderão ser integrados na carreira prevista no número anterior, em condições a definir por aquele diploma."
+  },
+  "9e902258563f465a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Regime de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime de transição\n\n1 - Por um período não superior a cinco anos, contado a partir da entrada em funcionamento do curso superior de Enfermagem, poderão continuar a ser ministrados:\n\na) O curso de Enfermagem Geral, a que se refere a alínea b) do artigo 7.º do [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952, e o curso da Escola Técnica de Enfermagem, a que se refere o [Decreto n.º 30447](https://diariodarepublica.pt/dr/detalhe/decreto/30447-1940-180830), de 17 Maio de 1940, com as alterações introduzidas pelo artigo 25.º do [Decreto-Lei n.º 445/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1985-141217), de 24 de Outubro, para os alunos que se encontrem matriculados à data da publicação do presente diploma;\n\nb) Os cursos de especialização em enfermagem a que se refere a alínea a) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 265/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1983-452040), de 16 de Junho;\n\nc) O curso de Pedagogia e Administração para enfermeiros especialistas, a que se refere a [Portaria n.º 681/82](https://diariodarepublica.pt/dr/detalhe/portaria/681-1982-394521), de 8 de Julho;\n\nd) O curso de pedagogia aplicada ao ensino de enfermagem e o curso de administração de serviços de enfermagem a que se refere o n.º 2 do artigo 14.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio.\n\n2 - Durante o período transitório poderão ser concedidas equivalências aos titulares de cursos de enfermagem legalmente instituídos à data da entrada em vigor do presente diploma, nos termos da legislação vigente nessa data."
+  },
+  "856b15cd8c4cd131": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Integração do pessoal das escolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Integração do pessoal das escolas\n\n1 - Será integrado nos quadros das escolas superiores de enfermagem o pessoal das escolas de enfermagem reconvertidas.\n\n2 - A integração do pessoal actualmente em serviço nas escolas reconvertidas em lugares dos quadros a que se refere o número anterior far-se-á sem prejuízo da lei geral, de acordo com as seguintes regras:\n\na) Para categoria idêntica à que o funcionário já possui;\n\nb) Para categoria correspondente às funções que o funcionário ou agente actualmente desempenha, remunerada pela mesma letra de vencimento ou pela letra de vencimento imediatamente superior na estrutura da carreira em que se processa a integração, quando se não verifique coincidência de remuneração, desde que possua as habilitações literárias legalmente exigíveis."
+  },
+  "ca430ef82fbc15be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\n1 - São revogados:\n\na) O [Decreto n.º 30447](https://diariodarepublica.pt/dr/detalhe/decreto/30447-1940-180830), de 17 de Maio de 1940;\n\nb) O artigo 7.º do [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952;\n\nc) O [Decreto-Lei n.º 49173](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49173-1969-198918), de 5 de Agosto de 1969;\n\nd) A [Portaria n.º 681/82](https://diariodarepublica.pt/dr/detalhe/portaria/681-1982-394521), de 8 de Julho;\n\ne) Os n.os 1 e 2 do artigo 14.º e o n.º 4 do artigo 19.º do [Decreto-Lei n.º 178/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1985-151547), de 23 de Maio;\n\nf) O artigo 25.º do [Decreto-Lei n.º 445/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1985-141217), de 24 de Outubro;\n\ng) A [Portaria n.º 34/88](https://diariodarepublica.pt/dr/detalhe/portaria/34-1988-283373), de 15 de Janeiro;\n\nh) O [Decreto-Lei n.º 261/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1988-372626), de 23 de Julho.\n\n2 - A revogação das normas a que se refere o número anterior não prejudica o disposto no artigo 13.º do presente diploma.\n\nVisto e aprovado em Conselho de Ministros de 3 de Novembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.\n\nPromulgado em 10 de Dezembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 13 de Dezembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "3ddbb47c46df7825": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Condições de equivalência",
+   "in_force_from": "1990-03-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 100/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1990-333290), publicado em 1990-03-20."
+   ],
+   "markdown": "###### Artigo 10.º — Condições de equivalência\n\n1 - Aos enfermeiros que sejam titulares de uma habilitação que, ao tempo em que foi obtida, fosse considerada como suficiente para o acesso ao ensino superior é concedida equivalência ao bacharelato, quando tenham obtido aprovação no curso de Enfermagem Geral ou equivalente legal, ou ao diploma de estudos superiores especializados em enfermagem, conforme tenham obtido aprovação num dos cursos a seguir mencionados:\n\na) Cursos de especialização em enfermagem, a que se refere o [Decreto-Lei n.º 265/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1983-452040), de 16 de Junho;\n\nb) Curso de pedagogia e administração para enfermeiros especialistas, a que se refere a [Portaria n.º 681/82](https://diariodarepublica.pt/dr/detalhe/portaria/681-1982-394521), de 8 de Julho;\n\nc) Qualquer das secções do curso de Enfermagem Complementar, a que se refere a alínea e) do artigo 7.º do [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952.\n\n2 - Independentemente do disposto no número anterior, e durante um período de dois anos a contar da data da entrada em vigor do presente diploma, a equivalência ao bacharelato e ao diploma de estudos superiores especializados em enfermagem poderá ainda ser concedida mediante apreciação curricular efectuada por um júri a designar por despacho conjunto dos Ministros da Educação e da Saúde, na qual se terá em consideração, nomeadamente:\n\na) As habilitações literárias do requerente;\n\nb) A formação em enfermagem;\n\nc) O exercício da profissão;\n\nd) A docência em enfermagem;\n\ne) A contribuição para o desenvolvimento da enfermagem;\n\nf) A formação universitária em outras áreas de conhecimento.\n\n3 - O júri a que se refere o número anterior poderá condicionar a concessão da equivalência a determinada formação complementar.\n\n4 - As equiparações previstas nos números anteriores serão concedidas por despacho do Ministro da Educação a requerimento dos interessados, verificados os requisitos neles estabelecidos.\n\n> Alterado pelo/a [Decreto-Lei n.º 100/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1990-333290), publicado em 1990-03-20."
+  }
+ }
+}

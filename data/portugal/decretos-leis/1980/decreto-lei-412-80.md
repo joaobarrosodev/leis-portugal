@@ -28,10 +28,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-11-09'
+version_history:
+  file: decreto-lei-412-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-09-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-11-09'
+    amending: pt:dre:569099:por
+    amending_title: Decreto-Lei n.º 301/81; Decreto-Lei n.º 124/83; Decreto-Lei n.º 460/85
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 18.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:32:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 301/81; Decreto-Lei
+    n.º 124/83; Decreto-Lei n.º 460/85. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-412-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,6 +166,10 @@ b) De 1 a 7 de Julho, para os alunos que não concluírem com aproveitamento o �
 
 2 - Em localidade onde não exista ensino oficial, as matrículas fazem-se na escola da localidade que ofereça melhores condições naturais de acesso.
 
+3 - Serão presentes, a despacho ministerial, as situações devidamente comprovadas pelas entidades escolares, em que se verifique dificuldade na aplicação do disposto no n.º 1 do presente artigo.
+
+> Alterado pelo/a [Decreto-Lei n.º 124/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1983-309770), publicado em 1983-03-08.
+
 ###### Artigo 3.º — (Distribuição de alunos)
 
 Nos casos em que, havendo mais de uma escola na mesma localidade, seja insuficiente a capacidade de acolhimento da escola onde os alunos efectuaram a matrícula, são os alunos distribuídos por escolas da mesma localidade, segundo regras a definir por despacho ministerial.
@@ -167,21 +188,23 @@ Nos casos em que, havendo mais de uma escola na mesma localidade, seja insuficie
 
 1 - O corpo docente das escolas é fixado em função da relação professor/aluno definida nos termos seguintes:
 
-1.1 - Em escolas com um número limite de 149 alunos:
+1.1 - Em escolas com um número limite de 137 alunos:
 
-a) Até 28 alunos - 1 lugar docente;
+a) Até 26 alunos - 1 lugar docente;
 
-b) De 29 a 56 alunos - 2 lugares docentes;
+b) De 27 a 50 alunos - 2 lugares docentes;
 
-c) De 57 a 84 alunos - 3 lugares docentes;
+c) De 51 a 75 alunos - 3 lugares docentes;
 
-d) De 85 a 112 alunos - 4 lugares docentes;
+d) De 76 a 100 alunos - 4 lugares docentes;
 
-e) De 113 a 149 alunos - 5 lugares docentes.
+e) De 101 a 137 alunos - 5 lugares docentes.
 
-1.2 - Em escolas com 150 ou mais alunos o número de lugares docentes é igual ao quociente inteiro da divisão por 25 do total de alunos da escola.
+1.2 - Em escolas com 138 ou mais alunos o número de lugares docentes é igual ao quociente arredondado da divisão por 25 do total dos alunos.
 
 2 - A relação professor/aluno definida no número anterior pode ser alterada em casos especiais devidamente justificados, definidos em despacho ministerial.
+
+> Alterado pelo/a [Decreto-Lei n.º 460/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1985-171363), publicado em 1985-11-04.
 
 ###### Artigo 6.º — (Criação global de lugares)
 
@@ -317,11 +340,13 @@ b) Quando nelas ocorrer vaga ou ficarem lugares disponíveis para todo o ano lec
 
 2 - Quando vários professores requererem as mesmas escolas nos termos do n.º 1 deste artigo, têm prioridade na colocação os professores efectivos em excesso por força da extinção de lugares.
 
-###### Artigo 18.º — (Provimento em instituições particulares de solariedade social)
+###### Artigo 18.º — (Provimento em instituições de solidariedade social e tutelares de menores)
 
-1 - Os provimentos dos lugares das escolas oficiais que funcionam em estabelecimentos de solidariedade social são feitos nos termos da lei geral.
+1 - Os provimentos dos lugares das escolas oficiais que funcionem em estabelecimentos de solidariedade social e tutelares de menores são feitos nos termos da lei geral.
 
-2 - Exceptuam-se do disposto no número anterior os provimentos com processos em curso à data da entrada em vigor deste diploma.
+2 - Em relação aos cursos oficiais do ensino básico que funcionam já em instituições privadas de solidariedade social e na Direcção-Geral dos Serviços Tutelares de Menores, os provimentos referidos no número anterior obedecerão a critérios a definir por despacho do Ministro da Educação e das Universidades e do Ministro da Reforma Administrativa, bem como dos Ministros da Justiça e dos Assuntos Sociais, conforme os casos.
+
+> Alterado pelo/a [Decreto-Lei n.º 301/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/301-1981-569099), publicado em 1981-11-06.
 
 ### CAPÍTULO IV — Concurso de docentes
 

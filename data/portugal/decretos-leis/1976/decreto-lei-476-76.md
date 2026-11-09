@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1977-05-26'
+version_history:
+  file: decreto-lei-476-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-06-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1977-05-26'
+    amending: pt:dre:252835:por
+    amending_title: Decreto-Lei n.º 208/77
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:54:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 208/77. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-476-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,21 +144,45 @@ Nestes termos:
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º A todos os servidores civis e militares reintegrados ao abrigo do [Decreto-Lei n.º 173/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1974-411356), de 26 de Abril, será contado, para efeito de aposentação, o tempo relativo ao período ou períodos de interrupção de funções por motivos de natureza política, sem o pagamento de quotas para a Caixa Geral de Aposentações.
+###### Artigo 1.º
 
-Art. 2.º O disposto na parte final do artigo anterior é aplicado aos militares reintegrados nas condições do [Decreto-Lei n.º 173/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1974-411356), os quais terão direito à restituição, pela Caixa Geral de Aposentações, das importâncias que já tiverem pago a título de quotas, com referência ao aludido tempo de interrupção de funções.
+A todos os servidores civis e militares reintegrados ao abrigo do [Decreto-Lei n.º 173/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1974-411356), de 26 de Abril, será contado, para efeito de aposentação, o tempo relativo ao período ou períodos de interrupção de funções por motivos de natureza política, sem o pagamento de quotas para a Caixa Geral de Aposentações.
 
-Art. 3.º Os vencimentos e pensões que resultem das novas situações dos servidores civis abrangidos pelo artigo 1.º deste diploma apenas serão devidos desde a data da entrada dos requerimentos solicitando reintegração.
+###### Artigo 2.º
 
-Art. 4.º - 1. Relativamente ao Montepio dos Servidores do Estado, os direitos decorrentes da reintegração a título póstumo dos servidores referidos no artigo 1.º e falecidos antes da vigência do Estatuto das Pensões de Sobrevivência, aprovado pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março, são os resultantes da aplicação do regime estabelecido pelo Decreto-Lei n.º 20046, de 21 de Junho de 1934, e legislação complementar, desde que aqueles servidores tivessem sido contribuintes do Montepio ou, pela reintegração, viessem a ascender a alguma das categorias profissionais por força da qual a inscrição naquela instituição se tornasse obrigatória.
+O disposto na parte final do artigo anterior é aplicado aos militares reintegrados nas condições do [Decreto-Lei n.º 173/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1974-411356), os quais terão direito à restituição, pela Caixa Geral de Aposentações, das importâncias que já tiverem pago a título de quotas, com referência ao aludido tempo de interrupção de funções.
 
-2. Os herdeiros hábeis dos servidores a que se refere o número anterior e falecidos após 28 de Fevereiro de 1973, ainda não reintegrados à data da entrada em vigor deste diploma, poderão requerer a inscrição, adesão, retroacção ou contagem de tempo no prazo de dezoito meses contados daquela data ou da de reintegração se aquela for posterior, em conformidade com os artigos 25.º e 64.º do Estatuto das Pensões de Sobrevivência.
+###### Artigo 3.º
 
-Art. 5.º A isenção do pagamento de quotas estabelecida no artigo 1.º deste diploma é extensiva ao Montepio, exceptuadas as situações resultantes da aplicação dos artigos 8.º e 63.º do Estatuto das Pensões de Sobrevivência.
+Os vencimentos e pensões que resultem das novas situações dos servidores civis abrangidos pelo artigo 1.º deste diploma apenas serão devidos desde a data da entrada dos requerimentos solicitando reintegração.
 
-Art. 6.º As dúvidas resultantes da execução deste diploma serão resolvidas por despacho do Secretário de Estado das Finanças, ouvida a Administração da Caixa Geral de Depósitos.
+###### Artigo 4.º
 
-Art. 7.º Este diploma entra imediatamente em vigor.
+1. Relativamente ao Montepio dos Servidores do Estado, os direitos decorrentes da reintegração a título póstumo dos servidores referidos no artigo 1.º são os resultantes da aplicação do regime estabelecido pelo Estatuto das Pensões de Sobrevivência, aprovado pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 31 de Março, independentemente da data do falecimento do servidor reintegrado e ainda que, segundo o sistema legal vigente nessa data, a constituição da pensão de sobrevivência fosse de carácter facultativo ou não fosse possível.
+
+2. Os herdeiros hábeis dos servidores a que se refere o número anterior poderão requerer a inscrição, retroacção ou contagem de tempo e a correspondente pensão de sobrevivência no prazo de dezoito meses a contar do início da vigência do presente diploma, ou da data da reintegração, quando esta venha a verificar-se depois da entrada em vigor deste decreto-lei.
+
+3. A pensão de sobrevivência fixada nos termos do presente artigo é devida a partir do início da vigência deste diploma ou desde a data da entrada do requerimento em que haja sido solicitada a reintegração, no caso de esta vir a verificar-se posteriormente.
+
+4. Para efeitos de cálculo da pensão de sobrevivência, atender-se-á à categoria ou posto a que, em circunstâncias normais da sua vida profissional, teria ascendido o servidor reintegrado a título póstumo, à data da sua morte, se não tivesse existido interrupção de funções por motivos de natureza política, bem como à remuneração correspondente àquela categoria na data em que comece a ser devida a pensão de sobrevivência.
+
+5. As pensões de sobrevivência que hajam sido estabelecidas ou requeridas nos termos da primitiva redacção do presente artigo serão corrigidas de harmonia com o que fica estabelecido neste diploma.
+
+6. O disposto no presente diploma não prejudica a aplicação do regime estabelecido pelo [Decreto-Lei n.º 24046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24046-1934-464997), de 21 de Junho de 1934, e legislação complementar, no caso de os servidores reintegrados a título póstumo, que tivessem sido contribuintes do Montepio dos Servidores do Estado ou que pela reintegração viessem a ascender a alguma das categorias profissionais por força da qual a inscrição naquela instituição se tornasse obrigatória, apenas haverem deixado familiares que só por aquele regime fossem considerados seus herdeiros hábeis.
+
+> Alterado pelo/a [Decreto-Lei n.º 208/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-1977-252835), publicado em 1977-05-26.
+
+###### Artigo 5.º
+
+A isenção do pagamento de quotas estabelecida no artigo 1.º deste diploma é extensiva ao Montepio, exceptuadas as situações resultantes da aplicação dos artigos 8.º e 63.º do Estatuto das Pensões de Sobrevivência.
+
+###### Artigo 6.º
+
+As dúvidas resultantes da execução deste diploma serão resolvidas por despacho do Secretário de Estado das Finanças, ouvida a Administração da Caixa Geral de Depósitos.
+
+###### Artigo 7.º
+
+Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha.
 

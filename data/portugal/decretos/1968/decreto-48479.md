@@ -32,10 +32,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-05-12'
+version_history:
+  file: decreto-48479.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-05-12'
+    amending: pt:dre:142294:por
+    amending_title: Decreto n.º 206/70
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -61,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:03:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 206/70. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1968/decreto-48479.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -99,9 +114,15 @@ Considerando que é bastante elevado o número de alunos que vêm ùltimamente f
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º Sempre que o número de alunos dos cursos da Escola Central de Sargentos faça prever grande demora na realização dos exames finais, poderá o Ministro do Exército, por proposta do comandante da Escola, autorizar que os exames finais sejam apenas escritos para todas as disciplinas dos diferentes cursos, e constituídos por duas provas em cada disciplina, prevalecendo para a classificação a que obtiver cota mais elevada.
+###### Artigo 1.º
 
-Art. 2.º As disposições constantes do artigo anterior são também aplicáveis aos exames da 2.ª época, a realizar nos termos do artigo 32.º do Regulamento da Escola Central de Sargentos.
+Sempre que o número de alunos dos cursos da Escola Central de Sargentos faça prever grande demora na realização dos exames finais, poderá o Ministro do Exército, por proposta do comandante da Escola, autorizar que os exames finais sejam apenas escritos para todas as disciplinas dos diferentes cursos e constituídos por duas provas em cada disciplina, tomando-se para classificação do exame final de cada disciplina a média das classificações obtidas nas duas provas.
+
+> Alterado pelo/a [Decreto n.º 206/70](https://diariodarepublica.pt/dr/detalhe/decreto/206-1970-142294), publicado em 1970-05-12.
+
+###### Artigo 2.º
+
+As disposições constantes do artigo anterior são também aplicáveis aos exames da 2.ª época, a realizar nos termos do artigo 32.º do Regulamento da Escola Central de Sargentos.
 
 Publique-se e cumpra-se como nele se contém.
 

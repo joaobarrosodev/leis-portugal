@@ -38,10 +38,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-06-13'
+version_history:
+  file: despacho-normativo-11-f-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-03-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-06-13'
+    amending: pt:dre:472717:por
+    amending_title: Despacho Normativo n.º 39/98
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/11-f/1995/03/06/p/dre/pt/html
@@ -67,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:27:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 39/98. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1995/despacho-normativo-11-f-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -163,19 +185,19 @@ c) Consciencializar os industriais para os processos de mutação industrial e a
 
 2 - Os projectos a que se refere o número anterior desenvolver-se-ão, designadamente, através de actividades de I&DT e de outras actividades científicas, técnicas e tecnológicas, incluindo estudos e trabalhos de adaptação a imposições normativas com inpacte na indústria.
 
-3 - Dado o carácter supletivo das actividades a apoiar relativamente aos vários regimes de apoio do PEDIP II, os projectos serão dinamizados pela equipa de projecto, ouvido o gestor, com recurso a uma das seguintes formas:
+3 - Dado o carácter supletivo das actividades a apoiar relativamente aos vários regimes de apoio do PEDIP II, os projectos serão dinamizados pela equipa de projecto através da promoção, junto do universo dos potenciais promotores, de apresentação de propostas de ideias que possam conduzir à realização de projectos enquadráveis no âmbito do presente diploma, tendo em conta os estudos de diagnóstico e análise estratégica que tiverem sido aprovados no âmbito do Sistema de Incentivos à Consolidação das Infra-Estruturas Tecnológicas e da Qualidade, regulamentado pelo [Despacho Normativo n.º 555/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/555-1994-231882), de 29 de Julho.
 
-a) Promoção personalizada;
+4 - Decorrente da apreciação das propostas de ideias apresentadas e da sua selecção por uma comissão de apreciação presidida pelo gestor do PEDIP, com base em parecer prévio emitido pelo organismo gestor, os potenciais promotores serão convidados a apresentar as respectivas candidaturas, nos termos que vierem a ser definidos pela comissão atrás referida.
 
-b) Escolha limitada;
+5 - O apoio a este tipo de projectos será formalizado através de contrato-programa a celebrar entre a Administração e o promotor, no qual deverão ficar claramente estipulados os objectivos a alcançar, as acções a desenvolver, o seu calendário de realização, o processo de acompanhamento e avaliação e os indicadores de execução.
 
-c) Concurso.
-
-4 - O apoio a este tipo de projectos será formalizado através de contrato-programa a celebrar entre a Administração e o promotor, no qual deverão ficar claramente estipulados os objectivos a alcançar, as acções a desenvolver, o seu calendário de realização, o processo de acompanhamento e avaliação e os indicadores de execução.
+> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08.
 
 ###### Artigo 3.º — Organismo gestor
 
-O organismo gestor das acções previstas no presente diploma é o Gabinete de Estudos e Planeamento do Ministério da Indústria e Energia (GEPIE).
+O organismo gestor das acções previstas no presente diploma é a Direcção-Geral da Indústria (DGI).
+
+> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08.
 
 ###### Artigo 4.º — Comissão de selecção
 
@@ -183,11 +205,13 @@ O organismo gestor das acções previstas no presente diploma é o Gabinete de E
 
 a) Direcção-Geral do Desenvolvimento Regional;
 
-b) GEPIE;
+b) Direcção-Geral da Indústria;
 
 c) Instituto Nacional de Engenharia e Tecnolgia Industrial.
 
 2 - Poderão ainda integrar a comissão de selecção, sempre que se trate de projectos da sua área de competência ou o presidente da comissão assim o julgue necessário, um representante das entidades a que se refere o artigo 6.º do despacho conjunto mencionado no número anterior.
+
+> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08.
 
 ###### Artigo 5.º — Entidades beneficiárias
 
@@ -199,11 +223,11 @@ c) Instituto Nacional de Engenharia e Tecnolgia Industrial.
 
 1 - As entidades beneficiárias deverão cumprir as seguintes condições gerais de acesso:
 
-a) Terem sido convidadas ou seleccionadas nos termos previstos no n.º 3 do artigo 2.º, no âmbito de iniciativas da Administração;
+a) Ter sido convidadas nos termos previstos no n.º 3 do artigo 2.º, no âmbito de iniciativas voluntaristas da Administração;
 
-b) Possuírem composição patrimonial maioritariamente detida por empresas e ou associações do sector industrial;
+b) Comprovar, através da natureza dos serviços que prestam, que desenvolvem dominantemente actividades de interesse para a indústria;
 
-c) Terem uma composição dos órgãos sociais que reflicta a proporção da contribuição dos diversos sócios para o património associativo;
+c) Ter uma composição dos órgãos sociais que assegure a intervenção dos diferentes tipos de interesses, nomeadamente científicos, tecnológicos e empresariais, na definição da estratégia e no prosseguimento das actividades que desenvolvem;
 
 d) Possuírem uma estrutura organizacional, meios financeiros e recursos humanos qualificados adequados à realização do projecto;
 
@@ -215,13 +239,15 @@ g) Comprovar que têm a sua situação contributiva regularizada perante o Estad
 
 2 - Poderão vir a ser estabelecidas condições específicas de acesso nos termos de referência das diferentes formas de dinamização destas actividades, tendo em conta as especificidades próprias dos objectivos a atingir.
 
+> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08.
+
 ###### Artigo 7.º — Condições de acesso do projecto
 
 1 - Os projectos a apoiar deverão cumprir as seguintes condições gerais de acesso:
 
-a) Corresponder aos requisitos constantes do convite ou do concurso promovido para dinamizar a acção;
+a) Corresponder aos requisitos constantes do convite formulado;
 
-b) Não ter sido iniciado antes da data da apresentação da candidatura;
+b) Não ter sido iniciado antes da data de apresentação da candidatura, com excepção dos estudos prévios concluídos há menos de 120 dias úteis;
 
 c) Inserir-se na estratégia de médio prazo da entidade promotora;
 
@@ -229,55 +255,69 @@ d) Envolver um montante mínimo de despesas de 50000 contos e um máximo de 2000
 
 2 - Em situações excepcionais e sem prejuízo do cumprimento dos requisitos a que se refere o número anterior, poderão os limites referidos na alínea d) do número anterior ser ultrapassados mediante despacho do Ministro da Indústria e Energia.
 
+> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08.
+
 ###### Artigo 8.º — Critérios de selecção
 
 1 - Constituem critérios de selecção, designadamente, os seguintes:
 
-Critério C(índice 1): adequação do projecto aos termos de referência;
+Critério C(índice 1): valia tecnológica do projecto;
 
-Critério C(índice 2): impacte do projecto num leque alargado de potenciais beneficiários;
+Critério C(índice 2): grau de participação de empresas industriais na execução do projecto;
 
-Critério C(índice 3): mecanismos de transferência, apresentados pelo promotor, dos resultados potenciais do projecto;
+Critério C(índice 3): potencial impacte do projecto num número significativo de beneficiários;
 
-Critério C(índice 4): capacidade de transferência tecnológica do promotor;
+Critério C(índice 4): mecanismos de transferência, apresentados pelo promotor, dos resultados potenciais do projecto.
 
-Critério C(índice 5): grau de participação dos associados industriais na gestão da entidade promotora.
-
-2 - Cada um dos critérios referidos no número anterior será valorado em três níveis: 0,50 e 100.
+2 - Cada um dos critérios referidos no número anterior será valorado em cinco níveis: 0, 25, 50, 75 e 100.
 
 3 - A pontuação final (PF) será obtida pela aplicação da seguinte fórmula:
 
-PF = 0,2C(índice 1) + 0,3C(índice 2) + 0,3C(índice 3) + 0,1C(índice 4) + 0,1C(índice 5)
+PF = 0,3 C(índice 1) + 0,2 C(índice 2) + 0,2 C(índice 3) + 0,3 C(índice 4)
 
-Apenas serão apoiados os projectos em que o valor PF for igual ou superior a 75 e, cumulativamente, nenhum dos critérios C(índice 1), C(índice 2) ou C(índice 3) tenha obtido valoração nula.
+Apenas serão apoiados os projectos em que o valor PF for igual ou superior a 50 e, cumulativamente, nenhum dos critérios tenha obtido valoração nula.
+
+> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08.
 
 ###### Artigo 9.º — Aplicações relevantes
 
-1 - Consideram-se aplicações relevantes, para efeitos do cáculo dos incentivos, os seguintes custos:
+1 - Consideram-se aplicações relevantes, para efeitos do cálculo dos incentivos, os seguintes custos:
 
 a) Pessoal técnico do promotor afecto ao projecto;
 
-b) Deslocações e estadias;
+b) Deslocações e estadas;
 
 c) Matérias-primas e componentes indispensáveis às actividades a desenvolver;
 
-d) Subcontratação de especialistas ou de serviços;
+d) Subcontratação de especialistas;
 
-e) Estudos de tendências e impactes realizados por entidades externas.
+e) Subcontratação de serviços;
+
+f) Estudos de tendências e impactes realizados por entidades externas;
+
+g) Custos associados à promoção e divulgação dos resultados do projecto.
 
 2 - O cálculo das aplicações relevantes a apoiar será efectuado a preços correntes, deduzido o imposto sobre o valor acrescentado sempre que a entidade promotora seja sujeito passivo do mesmo imposto e possa exercer o direito à sua dedução.
 
-3 - Para efeitos da determinação do incentivo a atribuir em cada projecto, os custos aceites das aplicações relevantes da alínea e) serão considerados em função da correspondência com os respectivos custos médios de mercado.
+3 - Para efeitos da determinação do incentivo a atribuir em cada projecto, os custos aceites das aplicações relevantes da alínea f) do n.º 1 serão considerados em função da correspondência com os respectivos custos médios de mercado.
 
-4 - Os critérios para a determinação dos níveis a que se referem as alíneas a), b) e d), bem como os limites a considerar nos custos associados às respectivas aplicações relevantes, serão estabelecidos por despacho do Ministro da Indústria e Energia.
+4 - Os limites máximos a considerar nos custos a que se referem as alíneas a), b), d) e relativos a consultoria externa no âmbito da alínea e) do n.º 1 são os constantes do [Despacho Normativo n.º 9-A/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-a-1995-143719), de 16 de Fevereiro.
+
+> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08.
 
 ###### Artigo 10.º — Incentivo
 
 1 - O incentivo a conceder revestirá a forma de um subsídio financeiro a fundo perdido.
 
-2 - A taxa de incentivo a atribuir corresponde à aplicação de uma percentagem de 75% sobre as aplicações relevantes constantes do artigo 9.º
+2 - A taxa de incentivo a atribuir corresponde à aplicação de uma percentagem sobre as aplicações relevantes, que varia em função da pontuação final atribuída ao projecto, de acordo com o quadro seguinte:
 
-3 - Quando o incentivo se revelar manifestamente insuficiente para a realização do projecto, poderá ser excepcionalmente majorado, com fundamento no grande interesse do projecto, reconhecido por despacho do Ministro da Indústria e Energia, desde que existam disponibilidades orçamentais complementares ao Programa.
+Pontuação final: 75 > PF >= 50 PF >= 75;
+
+Taxa de incentivo: 65% 75%.
+
+3 - Quando o incentivo se revelar manifestamente insuficiente para a realização do projecto, poderá ser excepcionalmente majorado, com fundamento no grande interesse do projecto, reconhecido por despacho do Ministro da Economia, desde que existam disponibilidades orçamentais complementares ao Programa.
+
+> Alterado pelo/a [Despacho Normativo n.º 39/98](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/39-1998-472717), publicado em 1998-06-08.
 
 ###### Artigo 11.º — Apresentação de candidaturas
 

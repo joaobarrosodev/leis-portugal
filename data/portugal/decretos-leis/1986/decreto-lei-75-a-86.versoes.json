@@ -1,0 +1,139 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:646918:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1986-04-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b5e9ad1733e66b77",
+    "216d6fe12ed6dbd5",
+    "7c7c2d0e5ddf17dd"
+   ]
+  },
+  {
+   "date": "1990-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:332948:por",
+     "title": "Decreto-Lei n.º 65/90",
+     "published": "1990-02-24",
+     "dre_path": "/dr/detalhe/decreto-lei/65-1990-332948"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "bb5f5f755ecb034a",
+    "07ecf84aeff42057",
+    "d71de57c6b5c73b4",
+    "91c293970297e804",
+    "7dddc23a64725cc9",
+    "eac93811d108d549",
+    "4ff69df4df16f027",
+    "dcaebb5254ef5862",
+    "216d6fe12ed6dbd5",
+    "7c7c2d0e5ddf17dd"
+   ]
+  }
+ ],
+ "fragments": {
+  "b5e9ad1733e66b77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril\n\nTendo em conta a adesão de Portugal às Comunidades Europeias;\n\nTendo em conta que os regulamentos comunitários são obrigatórios em todos os seus elementos e directamente aplicáveis em todos os Estados membros;\n\nTendo em conta que os regimes preferenciais ou quaisquer outros que derroguem a cláusula da nação mais favorecida são estabelecidos em disposições específicas que prevêem regras de origem próprias e que, portanto, não se encontram abrangidos pelo presente diploma;\n\nConsiderando que o regime geral de origem das mercadorias da Comunidade Económica Europeia se encontra previsto nos vários regulamentos que, sobre a matéria, têm vindo a ser adoptados quer pelo Conselho quer pela Comissão das Comunidades Europeias;\n\nConsiderando que as bases gerais deste regime estão consagradas no Regulamento (CEE) n.º [802/68](https://data.europa.eu/eli/reg/1968/802/oj?locale=pt) do Conselho, de 27 de Junho de 1968, relativo à definição comum da noção de origem das mercadorias;\n\nConsiderando os princípios internacionalmente aceites pela Comunidade no âmbito das regras de origem, respectiva prova e controle;\n\nConsiderando que se torna necessário complementar o Regulamento (CEE) n.º [802/68](https://data.europa.eu/eli/reg/1968/802/oj?locale=pt), e respectivos regulamentos de aplicação, através de legislação interna na parte deixada à competência dos Estados membros, revogando-se, para o efeito, o Decreto-Lei n.º 107/83, de 19 de Fevereiro:\n\nUsando da autorização conferida pelas alíneas e) e f) do artigo 30.º da Lei n.º 2-B/85, de 28 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º A noção de origem para os produtos petrolíferos referidos no anexo I deste diploma é definida no artigo 2.º do presente decreto-lei.\n\nArt. 2.º - 1 - Nos termos do artigo 1.º os produtos petrolíferos enumerados no anexo I consideram-se originários de um país:\n\na) Quando extraídos do seu solo ou dos seus fundos marinhos;\n\nb) Quando aí foram obtidos após terem sido submetidos a transformações ou operações de complemento de fabrico, por forma que os referidos produtos sejam classificados por uma posição pautal diferente daquela que corresponde a cada um dos produtos utilizados no seu fabrico, salvo se se tratar das transformações ou operações de complemento de fabrico, enumeradas na lista A do anexo II também deste diploma, às quais se aplicam as disposições especiais dessa lista;\n\nc) Quando submetidos às transformações ou operações de complemento de fabrico enumeradas na lista B do anexo II.\n\n2 - A certificação de origem dos produtos petrolíferos referidos no número anterior é feita nos termos do Regulamento (CEE) n.º [553/81](https://data.europa.eu/eli/reg/1981/553/oj?locale=pt) da Comissão, de 12 de Fevereiro de 1980.\n\nArt. 3.º - 1 - A emissão de certificados de origem, em Portugal, compete às entidades abaixo designadas:\n\nAssociação Comercial de Lisboa - Câmara de Comércio e Indústria Portuguesa;\n\nAssociação Comercial do Porto - Câmara de Comércio e Indústria do Porto;\n\nAssociação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira;\n\nCâmara de Comércio de Angra do Heroísmo - Associação de Comerciantes, Industriais, Importadores e Exportadores das Ilhas Terceira, Graciosa e São Jorge;\n\nCâmara de Comércio de Ponta Delgada - Associação de Comerciantes, Industriais, Exportadores e Importadores das Ilhas de São Miguel e Santa Maria;\n\nCâmara de Comércio da Horta - Associação de Comerciantes, Industriais, Importadores e Exportadores das Ilhas do Faial, Pico, Flores e Corvo;\n\nInstituto dos Têxteis: único organismo com competência para certificar a origem dos produtos têxteis dos capítulos 50 a 63 (n.os 50.01.000 a 63.02.500) da Nomenclatura Estatística das Mercadorias do Comércio Externo (NEMCE).\n\n2 - Deixam de poder emitir certificados de origem outras entidades que à data da entrada em vigor do presente diploma detenham tal competência.\n\nArt. 4.º Compete à Direcção-Geral das Alfândegas solicitar das autoridades estrangeiras o controle a posteriori das provas de origem, bem como responder a idênticos pedidos formulados por aquelas autoridades, ouvida, se necessário, a respectiva entidade emissora.\n\nArt. 5.º - 1 - Constitui infracção aduaneira a prestação de falsas ou inexactas declarações, quer na emissão, quer na apresentação, de provas de origem, com o intuito de iludir o cumprimento das formalidades aplicáveis no âmbito do regime geral de origem.\n\n2 - Os factos descritos no número anterior serão considerados como contra-ordenação, a menos que, nos termos da lei, eles hajam de ser qualificados como crime de descaminho.\n\nArt. 6.º Em tudo o que não se achar contemplado no presente decreto-lei aplicar-se-ão, nomeadamente, os actos legislativos comunitários que dispõem sobre o regime geral de origem das mercadorias, bem como os princípios internacionalmente aceites pelas Comunidades Europeias em matéria de regras de origem, respectiva prova e controle, e ainda a legislação nacional aplicável.\n\nArt. 7.º Fica revogado o Decreto-Lei n.º 107/83, de 19 de Fevereiro.\n\nVisto e aprovado em Conselho de Ministros de 26 de Março de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.\n\nPromulgado em 23 de Abril de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES\n\nReferendado em 23 de Abril de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "216d6fe12ed6dbd5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — Lista dos produtos petrolíferos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Lista dos produtos petrolíferos\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/04/09401/00010003.pdf)"
+  },
+  "7c7c2d0e5ddf17dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — Lista A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Lista A\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/04/09401/00010003.pdf)\n\nLista B\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/04/09401/00010003.pdf)"
+  },
+  "bb5f5f755ecb034a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril\n\nTendo em conta a adesão de Portugal às Comunidades Europeias;\n\nTendo em conta que os regulamentos comunitários são obrigatórios em todos os seus elementos e directamente aplicáveis em todos os Estados membros;\n\nTendo em conta que os regimes preferenciais ou quaisquer outros que derroguem a cláusula da nação mais favorecida são estabelecidos em disposições específicas que prevêem regras de origem próprias e que, portanto, não se encontram abrangidos pelo presente diploma;\n\nConsiderando que o regime geral de origem das mercadorias da Comunidade Económica Europeia se encontra previsto nos vários regulamentos que, sobre a matéria, têm vindo a ser adoptados quer pelo Conselho quer pela Comissão das Comunidades Europeias;\n\nConsiderando que as bases gerais deste regime estão consagradas no Regulamento (CEE) n.º [802/68](https://data.europa.eu/eli/reg/1968/802/oj?locale=pt) do Conselho, de 27 de Junho de 1968, relativo à definição comum da noção de origem das mercadorias;\n\nConsiderando os princípios internacionalmente aceites pela Comunidade no âmbito das regras de origem, respectiva prova e controle;\n\nConsiderando que se torna necessário complementar o Regulamento (CEE) n.º [802/68](https://data.europa.eu/eli/reg/1968/802/oj?locale=pt), e respectivos regulamentos de aplicação, através de legislação interna na parte deixada à competência dos Estados membros, revogando-se, para o efeito, o Decreto-Lei n.º 107/83, de 19 de Fevereiro:\n\nUsando da autorização conferida pelas alíneas e) e f) do artigo 30.º da Lei n.º 2-B/85, de 28 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "07ecf84aeff42057": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA noção de origem para os produtos petrolíferos referidos no anexo I deste diploma é definida no artigo 2.º do presente decreto-lei."
+  },
+  "d71de57c6b5c73b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Nos termos do artigo 1.º os produtos petrolíferos enumerados no anexo I consideram-se originários de um país:\n\na) Quando extraídos do seu solo ou dos seus fundos marinhos;\n\nb) Quando aí foram obtidos após terem sido submetidos a transformações ou operações de complemento de fabrico, por forma que os referidos produtos sejam classificados por uma posição pautal diferente daquela que corresponde a cada um dos produtos utilizados no seu fabrico, salvo se se tratar das transformações ou operações de complemento de fabrico, enumeradas na lista A do anexo II também deste diploma, às quais se aplicam as disposições especiais dessa lista;\n\nc) Quando submetidos às transformações ou operações de complemento de fabrico enumeradas na lista B do anexo II.\n\n2 - A certificação de origem dos produtos petrolíferos referidos no número anterior é feita nos termos do Regulamento (CEE) n.º [553/81](https://data.europa.eu/eli/reg/1981/553/oj?locale=pt) da Comissão, de 12 de Fevereiro de 1980."
+  },
+  "91c293970297e804": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1990-03-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1990-332948), publicado em 1990-02-24."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - A emissão de certificados de origem, em Portugal, compete às entidades abaixo designadas:\n\nAssociação Comercial de Lisboa - Câmara de Comércio e Indústria Portuguesa;\n\nAssociação Comercial do Porto - Câmara de Comércio e Indústria do Porto;\n\nAssociação Comercial e Industrial do Funchal - Câmara de Comércio de Angra do Heroísmo - Associação de Comerciantes, Industriais, Importadores e Exportadores das Ilhas Terceira, Graciosa e São Jorge;\n\nCâmara de Comércio de Ponta Delgada - Associação de Comerciantes, Industriais, Exportadores e Importadores das Ilhas de São Miguel e Santa Maria;\n\nCâmara de Comércio da Horta - Associação de Comerciantes, Industriais, Importadores e Exportadores das Ilhas do Faial, Pico, Flores e Corvo;\n\nInstituto do Bordado, Tapeçaria e Artesanato da Madeira, único organismo com competência para certificar a origem do bordado, tapeçaria e artesanato da Região da Madeira.\n\n2 - Deixam de poder emitir certificados de origem outras entidades que à data da entrada em vigor do presente diploma detenham tal competência.\n\n> Alterado pelo/a [Decreto-Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1990-332948), publicado em 1990-02-24."
+  },
+  "7dddc23a64725cc9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nCompete à Direcção-Geral das Alfândegas solicitar das autoridades estrangeiras o controle a posteriori das provas de origem, bem como responder a idênticos pedidos formulados por aquelas autoridades, ouvida, se necessário, a respectiva entidade emissora."
+  },
+  "eac93811d108d549": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Constitui infracção aduaneira a prestação de falsas ou inexactas declarações, quer na emissão, quer na apresentação, de provas de origem, com o intuito de iludir o cumprimento das formalidades aplicáveis no âmbito do regime geral de origem.\n\n2 - Os factos descritos no número anterior serão considerados como contra-ordenação, a menos que, nos termos da lei, eles hajam de ser qualificados como crime de descaminho."
+  },
+  "4ff69df4df16f027": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nEm tudo o que não se achar contemplado no presente decreto-lei aplicar-se-ão, nomeadamente, os actos legislativos comunitários que dispõem sobre o regime geral de origem das mercadorias, bem como os princípios internacionalmente aceites pelas Comunidades Europeias em matéria de regras de origem, respectiva prova e controle, e ainda a legislação nacional aplicável."
+  },
+  "dcaebb5254ef5862": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nFica revogado o Decreto-Lei n.º 107/83, de 19 de Fevereiro.\n\nVisto e aprovado em Conselho de Ministros de 26 de Março de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.\n\nPromulgado em 23 de Abril de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES\n\nReferendado em 23 de Abril de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

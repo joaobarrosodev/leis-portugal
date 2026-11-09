@@ -37,10 +37,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-12-09'
+version_history:
+  file: decreto-lei-181-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-07-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-12-09'
+    amending: pt:dre:222178:por
+    amending_title: Decreto-Lei n.º 386/98
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/181/1995/07/26/p/dre/pt/html
@@ -66,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:38:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 386/98. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1995/decreto-lei-181-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,49 +164,57 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 Podem candidatar-se aos incentivos previstos no presente diploma as empresas de transporte público rodoviário de mercadorias que preencham cumulativamente as seguintes condições:
 
-a) Possuam uma situação financeira equilibrada, de acordo com critérios a definir em resolução do Conselho de Ministros;
+a) Reúnam os requisitos de acesso à actividade de transportador público rodoviário de mercadorias;
 
-b) Disponham de contabilidade actualizada e regularmente organizada nos termos da lei;
+b) Possuam uma situação financeira equilibrada, de acordo com critérios a definir em resolução do Conselho de Ministros;
 
-c) Façam prova de que não são devedoras ao Estado ou à segurança social de quaisquer impostos, contribuições ou outras importâncias, ou de que o seu pagamento está assegurado mediante acordos para o efeito celebrados.
+c) Disponham de contabilidade actualizada e regularmente organizada nos termos da lei;
+
+d) Façam prova de que não são devedoras ao Estado ou à segurança social de quaisquer impostos, contribuições ou outras importâncias, ou de que o seu pagamento está assegurado mediante acordos para o efeito celebrados.
+
+> Alterado pelo/a [Decreto-Lei n.º 386/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1998-222178), publicado em 1998-12-04.
 
 ###### Artigo 3.º — Natureza dos incentivos
 
-O incentivo a conceder assume a forma de subvenção financeira a fundo perdido, determinada pela atribuição de um prémio ao abate, no caso previsto no n.º 2 do artigo 4.º, e pela aplicação de uma percentagem sobre despesas elegíveis, nos restantes casos.
+Os incentivos a conceder assumem a forma de subvenção financeira a fundo perdido, a definir nos termos do artigo 5.º
+
+> Alterado pelo/a [Decreto-Lei n.º 386/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1998-222178), publicado em 1998-12-04.
 
 ###### Artigo 4.º — Aplicações relevantes
 
-1 - Consideram-se aplicações relevantes, para efeitos do cálculo do incentivo a conceder às empresas transportadoras como resultado de projectos de transferência de serviços de transporte celebrados com empresas de outros sectores de actividade, possuidoras de frotas próprias, que abandonem o recurso a essas frotas, as despesas abaixo indicadas, com exclusão das medidas ambientais a que se refere o n.º 3:
+1 - Consideram-se aplicações relevantes, para efeitos de cálculo do incentivo a conceder, as seguintes:
 
-a) Elaboração de estudos técnico-económicos directamente ligados à realização do projecto de transferência, incluindo estudos jurídicos, estudos de mercado, de reconversão de pessoal, de racionalização da frota integrada e dos sistemas de informação a desenvolver;
+a) Abate de veículos automóveis de mercadorias afectos ao transporte particular, no âmbito de contratos de transferência de serviços de outros sectores de actividade para o de transporte público;
 
-b) Execução de sistemas de gestão da qualidade e processo de certificação;
+b) Abate de veículos automóveis de mercadorias licenciados para a actividade de transporte público rodoviário de mercadorias;
 
-c) Reforço da capacidade de gestão das empresas transportadoras, visando uma utilização mais eficiente dos meios envolvidos no projecto de transferência, nomeadamente assistência técnica em matéria de gestão e organização, bem como a modernização tecnológica, incluindo equipamento e programas informáticos e de telecomunicações.
+c) Aquisição de veículos automóveis de mercadorias de peso bruto igual ou superior a 3,5 t, cujos motores estejam equipados com dispositivos que permitam limitar as emissões de ruídos e gases poluentes para níveis a definir em resolução do Conselho de Ministros;
 
-2 - Os projectos abrangidos pelo número anterior beneficiam ainda de um prémio atribuído às empresas de outros sectores de actividade, possuidoras de frotas próprias, quando ocorra abate de veículos de mercadorias em consequência do processo de transferência, nos termos a definir em resolução do Conselho de Ministros.
+d) Projectos de modernização na área dos sistemas de informação e das tecnologias de informação, com aquisição e instalação de sistemas de gestão de frotas e demais recursos afectos à produção do transporte, nomeadamente de monitorização e localização remota de veículos;
 
-3 - Consideram-se aplicações relevantes, para efeitos do cálculo do incentivo a conceder às empresas transportadoras em projectos visando directamente a redução dos níveis de poluição sonora e de emissão de gases e partículas, as seguintes despesas:
+e) Implementação de sistemas de gestão da qualidade e processo de certificação.
 
-a) Elaboração de estudos de natureza ambiental visando a racionalização de frotas, bem como de estudos de mercado e de desenvolvimento de sistemas de informação com a mesma natureza;
+2 - As aplicações referidas no número anterior não abrangem:
 
-b) Assistência técnica em matéria de gestão e organização, bem como modernização tecnológica, incluindo equipamento e programas informáticos e de telecomunicações directamente ligados à protecção do meio ambiente;
+a) Investimentos em veículos ou equipamentos em estado de uso;
 
-c) Aquisição de veículos automóveis de mercadorias de peso bruto igual ou superior a 3,5 t, cujos motores estejam equipados com dispositivos que permitam limitar as emissões de ruídos e gases poluentes para níveis a definir em resolução do Conselho de Ministros, na parte correspondente ao custo suplementar daqueles dispositivos e sua instalação;
+b) Investimentos ou abates de veículos realizados há mais de seis meses à data da apresentação da candidatura;
 
-d) Aquisição e instalação de dispositivos limitadores de velocidade, com exclusão dos que forem introduzidos em veículos afectos ao transporte internacional matriculados após 31 de Dezembro de 1992, ou após 31 de Dezembro de 1993, para os restantes veículos.
+c) Investimentos em veículos anteriormente matriculados noutro país.
 
-4 - As aplicações referidas nos n.os 1 e 3 não abrangem os investimentos em veículos ou em equipamentos em estado de uso, os realizados há mais de seis meses à data da apresentação da candidatura ou em veículos anteriormente matriculados noutro país.
+3 - O cálculo das aplicações relevantes é feito a preços correntes.
 
-5 - O cálculo das aplicações relevantes é feito a preços correntes.
+> Alterado pelo/a [Decreto-Lei n.º 386/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1998-222178), publicado em 1998-12-04.
 
-###### Artigo 5.º — Montante dos incentivos e dos investimentos
+###### Artigo 5.º — Montante dos incentivos
 
-1 - A percentagem a que se refere o artigo 3.º é de 50% das despesas elegíveis, com excepção das previstas na alínea c) do n.º 3 do artigo 4.º, cujos montantes serão fixados em resolução do Conselho de Ministros.
+1 - O valor do prémio ao abate previsto nas alíneas a) e b) do n.º 1 do artigo 4.º é calculado em função da idade e do peso bruto dos veículos cujas matrículas sejam canceladas pela empresa proprietária, por aplicação de uma fórmula a fixar em resolução do Conselho de Ministros.
 
-2 - O valor do prémio a que se refere o artigo 3.º será calculado em função da idade e do peso bruto dos veículos cujas matrículas sejam canceladas pela empresa que transfere os serviços.
+2 - O montante do incentivo a conceder pela aplicação relevante referida na alínea c) do n.º 1 do artigo 4.º corresponderá ao custo suplementar daqueles dispositivos e sua instalação e é fixado em resolução do Conselho de Ministros.
 
-3 - Os valores do prémio referido no número anterior, bem como os montantes mínimos do investimento por projecto e ainda os montantes máximos por empresa para as despesas elegíveis constantes do n.º 1 do artigo 4.º, serão fixados em resolução do Conselho de Ministros.
+3 - Os incentivos a conceder pelas aplicações relevantes previstas nas alíneas d) e e) do n.º 1 do artigo 4.º são determinados pela aplicação da percentagem máxima de 50% sobre as correspondentes despesas.
+
+> Alterado pelo/a [Decreto-Lei n.º 386/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1998-222178), publicado em 1998-12-04.
 
 ###### Artigo 6.º — Selecção das candidaturas
 
@@ -192,9 +222,11 @@ Os critérios de selecção das candidaturas serão estabelecidos pela resoluç�
 
 ###### Artigo 7.º — Quadro institucional
 
-1 - A gestão do presente Sistema de Incentivos será assegurada por uma comissão de selecção das candidaturas, constituída por um representante da Direcção-Geral de Transportes Terrestres (DGTT), que presidirá, um representante da Direcção-Geral do Ambiente (DGA) e um representante da Direcção-Geral do Desenvolvimento Regional (DGDR).
+1 - A gestão do presente Sistema de Incentivos é assegurada por uma comissão de selecção de candidaturas, constituída por dois representantes da Direcção-Geral de Transportes Terrestres (DGTT), um dos quais presidirá, e um representante da Direcção-Geral do Ambiente (DGA).
 
 2 - Intervêm ainda na aplicação do SIMIAT as instituições de crédito que vierem a ser designadas, nos termos de protocolos a celebrar para o efeito com a DGTT.
+
+> Alterado pelo/a [Decreto-Lei n.º 386/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1998-222178), publicado em 1998-12-04.
 
 ###### Artigo 8.º — Aplicação do Sistema
 
@@ -232,7 +264,9 @@ d) Remeter à DGTT relatórios finais dos investimentos concluídos.
 
 2 - A minuta referida no número anterior incluirá, para além do montante das comparticipações financeiras concedidas, os objectivos do investimento e as obrigações dos beneficiários, incluindo os prazos de realização do investimento.
 
-3 - O contrato referido no n.º 1 deverá ser assinado pela empresa candidata no prazo máximo de 60 dias após a sua recepção, sob pena de caducidade da candidatura, salvo se o atraso não lhe for imputável.
+3 - O contrato referido no n.º 1 deverá ser enviado pela instituição de crédito ao promotor no prazo máximo de 30 dias contados da data da disponibilização da verba e deverá ser assinado pelo promotor no prazo máximo de 60 dias após a sua recepção, sob pena de caducidade da candidatura, salvo se o atraso não lhe for imputável.
+
+> Alterado pelo/a [Decreto-Lei n.º 386/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1998-222178), publicado em 1998-12-04.
 
 ###### Artigo 11.º — Obrigações dos promotores
 
@@ -252,15 +286,23 @@ d) Remeter à DGTT relatórios finais dos investimentos concluídos.
 
 2 - A aquisição de veículos de mercadorias pelas empresas que beneficiem de um prémio concedido ao abate obriga à restituição desse prémio, acrescido de juros à taxa de referência do mercado de capitais em vigor à data da notificação contados a partir da data de disponibilização da verba.
 
+3 - O disposto no número anterior não se aplica aos transportadores públicos, salvo se adquirirem veículos de mercadorias com idade superior a seis anos.
+
+> Alterado pelo/a [Decreto-Lei n.º 386/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1998-222178), publicado em 1998-12-04.
+
 ###### Artigo 14.º — Contabilização dos incentivos
 
 Os subsídios atribuídos a título de comparticipação serão contabilizados numa conta de subsídios para investimentos, de acordo com o Plano Oficial de Contabilidade.
 
 ###### Artigo 15.º — Cobertura orçamental
 
-1 - As verbas necessárias à atribuição dos financiamentos serão inscritas anualmente no orçamento da DGTT, sob o título «Sistema de Incentivos à Melhoria do Impacte Ambiental dos Transportes Públicos Rodoviários de Mercadorias».
+1 - As verbas necessárias à atribuição dos financiamentos serão inscritas anualmente nos orçamentos da DGTT e da DGA, sob o título 'Sistema de Incentivos à Melhoria do Impacte Ambiental dos Transportes Públicos Rodoviários de Mercadorias'.
 
-2 - As verbas anualmente afectas ao SIMIAT e não utilizadas transitarão para o ano seguinte e serão acrescidas daquelas que vierem a ser recebidas nos termos do artigo 13.º, bem como de eventuais juros provenientes das contas abertas nas instituições de crédito a que se refere o n.º 2 do artigo 7.º
+2 - As verbas que, nos termos do n.º 1, serão suportadas pelo orçamento da DGA destinam-se a comparticipar, de entre as aplicações relevantes mencionadas no artigo 4.º, aquelas que permitam contribuir, no concreto, para o controlo e redução das emissões atmosféricas, nos termos e condições a definir por despacho conjunto dos Ministros do Equipamento, do Planeamento e da Administração do Território e do Ambiente.
+
+3 - As verbas anualmente afectas ao SIMIAT e não utilizadas transitarão para o ano seguinte e serão acrescidas daquelas que vierem a ser recebidas nos termos do artigo 13.º, bem como de eventuais juros provenientes das contas abertas nas instituições de crédito a que se refere o n.º 2 do artigo 7.º
+
+> Alterado pelo/a [Decreto-Lei n.º 386/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1998-222178), publicado em 1998-12-04.
 
 ###### Artigo 16.º — Acumulação de incentivos
 

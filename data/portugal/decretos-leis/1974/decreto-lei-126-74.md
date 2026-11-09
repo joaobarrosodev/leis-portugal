@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-12-26'
+version_history:
+  file: decreto-lei-126-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-03-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-12-26'
+    amending: pt:dre:468274:por
+    amending_title: Decreto-Lei n.º 739/74
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:30:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 739/74. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-126-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -125,7 +140,9 @@ Cada programa suporá a criação de um organismo de gestão por ele responsáve
 
 Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. Os programas autónomos a que referem os artigos 10.º e 21.º da Lei de Meios para 1974 serão aprovados por portaria conjunta do Ministro das Finanças e do Ministro responsável pelo departamento interessado.
+###### Artigo 1.º
+
+1. Os programas autónomos a que referem os artigos 10.º e 21.º da Lei de Meios para 1974 serão aprovados por portaria conjunta do Ministro das Finanças e do Ministro responsável pelo departamento interessado.
 
 2. Da portaria constarão, designadamente:
 
@@ -139,17 +156,25 @@ d) O departamento ou departamentos de que tecnicamente dependerá a referida com
 
 e) As dotações que forem consignadas à execução do programa, nos termos das alíneas a) e b) do artigo 5.º, e as regras gerais a que devam sujeitar-se o seu levantamento e utilização e a efectivação das despesas.
 
-Art. 2.º - 1. A execução de cada um dos programas será confiada a uma administração de programa autónomo, dirigida por uma comissão executiva e dotada dos serviços administrativos e técnicos para o efeito necessários.
+###### Artigo 2.º
+
+1. A execução de cada um dos programas será confiada a uma administração de programa autónomo, dirigida por uma comissão executiva e dotada dos serviços administrativos e técnicos para o efeito necessários.
 
 2. As administrações dos programas autónomos gozam de personalidade jurídica e de autonomia administrativa e financeira.
 
-3. A administração de cada programa autónomo será assistida por um representante do Tribunal de Contas, a designar pelo Ministro das Finanças.
+3. Junto da comissão executiva de cada programa autónomo haverá um representante do Tribunal de Contas, a designar pelo Ministro de entre os conselheiros do mesmo Tribunal ou funcionários superiores da sua Direcção-Geral, podendo ainda a designação recair no agente do Ministério Público da respectiva comarca quando as sedes das administrações se situem fora de Lisboa.
 
-Art. 3.º - 1. Aprovado um programa autónomo nos termos do artigo 1.º, o Ministro das Finanças e o Ministro ou Ministros dos departamentos interessados nomearão, em despacho conjunto, os membros da comissão executiva, fixando simultaneamente as condições em que prestarão os seus serviços.
+> Alterado pelo/a [Decreto-Lei n.º 739/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/739-1974-468274), publicado em 1974-12-26.
+
+###### Artigo 3.º
+
+1. Aprovado um programa autónomo nos termos do artigo 1.º, o Ministro das Finanças e o Ministro ou Ministros dos departamentos interessados nomearão, em despacho conjunto, os membros da comissão executiva, fixando simultaneamente as condições em que prestarão os seus serviços.
 
 2. A administração do programa autónomo considera-se existente a partir da data da posse da sua comissão executiva.
 
-Art. 4.º Cumprido o que se dispõe no artigo precedente, a comissão executiva elaborará e submeterá à aprovação conjunta dos Ministros a que se alude no mesmo artigo, no prazo que para o efeito lhe for fixado, regulamento de que constem, designadamente:
+###### Artigo 4.º
+
+Cumprido o que se dispõe no artigo precedente, a comissão executiva elaborará e submeterá à aprovação conjunta dos Ministros a que se alude no mesmo artigo, no prazo que para o efeito lhe for fixado, regulamento de que constem, designadamente:
 
 a) A estrutura, a composição e a competência dos serviços necessários;
 
@@ -161,7 +186,9 @@ d) Os princípios e regras a que deva obedecer a sua gestão;
 
 e) A articulação a estabelecer entre a administração do programa autónomo e os serviços ou organismos que devam participar, directa ou indirectamente, na execução deste último ou que tenham competência em matérias por ele abrangidas ou com ele relacionadas, definindo-se as atribuições de cada um e os termos em que se processará a colaboração de todos.
 
-Art. 5.º Constituem receitas das administrações dos programas autónomos:
+###### Artigo 5.º
+
+Constituem receitas das administrações dos programas autónomos:
 
 a) As dotações que lhes forem atribuídas através do Orçamento Geral do Estado;
 
@@ -169,27 +196,41 @@ b) As dotações que, por transferência de outros serviços ou organismos, lhes
 
 c) As receitas que derivem do pagamento de serviços eventualmente prestados a terceiros, bem como da exploração transitória de bens que lhes estejam afectados ou de empreendimentos cuja promoção ou instalação lhes haja sido cometida.
 
-Art. 6.º As administrações dos programas autónomos só poderão aplicar as suas receitas na realização das despesas necessárias à execução dos programas, de acordo com o que se estabelecer na portaria e no regulamento a que aludem, respectivamente, os artigos 1.º e 4.º do presente diploma.
+###### Artigo 6.º
 
-Art. 7.º Os contratos a celebrar pelas administrações de programas autónomos são dispensados de visto do Tribunal de Contas, desde que sobre eles tenha sido dado parecer favorável pelo delegado a que se refere o n.º 3 do artigo 2.º
+As administrações dos programas autónomos só poderão aplicar as suas receitas na realização das despesas necessárias à execução dos programas, de acordo com o que se estabelecer na portaria e no regulamento a que aludem, respectivamente, os artigos 1.º e 4.º do presente diploma.
 
-Art. 8.º - 1. Para o desempenho de funções nas administrações de programas autónomos poderão ser designados, por qualquer das formas previstas na lei, e em regime de ocupação exclusiva ou de acumulação, funcionários dos serviços do Estado.
+###### Artigo 7.º
+
+Os contratos a celebrar pelas administrações de programas autónomos são dispensados de visto do Tribunal de Contas, desde que sobre eles tenha sido dado parecer favorável pelo delegado a que se refere o n.º 3 do artigo 2.º
+
+###### Artigo 8.º
+
+1. Para o desempenho de funções nas administrações de programas autónomos poderão ser designados, por qualquer das formas previstas na lei, e em regime de ocupação exclusiva ou de acumulação, funcionários dos serviços do Estado.
 
 2. As remunerações a atribuir aos funcionários a que se refere o número anterior serão fixadas por despacho conjunto do Ministro das Finanças e do Ministro ou Ministros dos departamentos interessados no programa.
 
 3. As acumulações previstas no n.º 1 não carecem de autorização do Conselho de Ministros para os Assuntos Económicos.
 
-Art. 9.º Com o objectivo de coordenar a acção e uniformizar os métodos de trabalho dos diferentes programas autónomos será constituída uma comissão central coordenadora dependente do Ministro das Finanças e composta por cinco membros designados pelo mesmo Ministro.
+###### Artigo 9.º
 
-Art. 10.º - 1. As administrações dos programas autónomos apresentarão, até 31 de Março de cada ano, o relatório da actividade desenvolvida e as contas de gerência do ano anterior à comissão central coordenadora, que os submeterá, com o seu parecer, ao Ministro das Finanças e ao Ministro ou Ministros interessados no programa.
+Com o objectivo de coordenar a acção e uniformizar os métodos de trabalho dos diferentes programas autónomos será constituída uma comissão central coordenadora dependente do Ministro das Finanças e composta por cinco membros designados pelo mesmo Ministro.
+
+###### Artigo 10.º
+
+1. As administrações dos programas autónomos apresentarão, até 31 de Março de cada ano, o relatório da actividade desenvolvida e as contas de gerência do ano anterior à comissão central coordenadora, que os submeterá, com o seu parecer, ao Ministro das Finanças e ao Ministro ou Ministros interessados no programa.
 
 2. As contas de gerência serão posteriormente sujeitas ao julgamento do Tribunal de Contas, nos termos da lei geral.
 
-Art. 11.º - 1. Concluída a execução do programa ou logo que assim o determinem, o Ministro das Finanças e o Ministro ou Ministros dos departamentos interessados dissolver-se-á a administração do programa autónomo.
+###### Artigo 11.º
+
+1. Concluída a execução do programa ou logo que assim o determinem, o Ministro das Finanças e o Ministro ou Ministros dos departamentos interessados dissolver-se-á a administração do programa autónomo.
 
 2. A dissolução operar-se-á mediante portaria dos Ministros referidos no número anterior, nela se fixando os termos e o prazo em que deva processar-se o destino dos bens e direitos que integrem o património.
 
-Art. 12.º Competirá ao Ministro das Finanças a resolução das dúvidas que se suscitem, na interpretação e execução do presente diploma.
+###### Artigo 12.º
+
+Competirá ao Ministro das Finanças a resolução das dúvidas que se suscitem, na interpretação e execução do presente diploma.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
 

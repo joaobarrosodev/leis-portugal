@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-10-07'
+version_history:
+  file: portaria-974-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-07'
+    amending: pt:dre:492979:por
+    amending_title: Portaria n.º 792/2009; Portaria n.º 1155/2009
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 9.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/974/2008/09/01/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:35:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 792/2009; Portaria n.º
+    1155/2009. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2008/portaria-974-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -156,11 +173,15 @@ A presente portaria estabelece, para o continente, as normas complementares de r
 
 ###### Artigo 3.º — Apresentação dos pedidos de regularização
 
-Os pedidos de regularização de superfícies de vinhas plantadas antes de 1 de Setembro de 1998 devem ser apresentados até 30 de Junho de 2009, nos serviços das direcções regionais de agricultura e pescas, adiante designadas por DRAP, da área onde se situam essas superfícies.
+Os pedidos de regularização de superfícies de vinhas plantadas antes de 1 de Setembro de 1998 devem ser apresentados, até 30 de Novembro de 2009, nos serviços das direcções regionais de agricultura e pescas, adiante designadas por DRAP, da área onde se situam essas superfícies.
+
+> Alterado pelo/a [Portaria n.º 792/2009](https://diariodarepublica.pt/dr/detalhe/portaria/792-2009-492979), publicado em 2009-07-28.
 
 ###### Artigo 4.º — Taxas
 
-Nos termos do n.º 1 do artigo 86.º do Regulamento (CE) n.º [479/2008](http://data.europa.eu/eli/reg/2008/479/oj?locale=pt), do Conselho, de 29 de Abril, às plantações a que se refere o n.º 2 do artigo 2.º da presente portaria é aplicada, para efeitos da sua regularização, uma taxa no valor de (euro) 2000/ha.
+Nos termos do n.º 1 do artigo 86.º do Regulamento (CE) n.º [479/2008](https://data.europa.eu/eli/reg/2008/479/oj?locale=pt), do Conselho, de 29 de Abril, às plantações a que se refere o n.º 2 do artigo 2.º da presente portaria é aplicada, para efeitos da sua regularização, uma taxa no valor de (euro) 1000/ha.
+
+> Alterado pelo/a [Portaria n.º 1155/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1155-2009-491196), publicado em 2009-10-02.
 
 ###### Artigo 5.º — Sanção administrativa compulsória
 
@@ -218,11 +239,13 @@ a) Participar na divulgação da regularização de plantações ilegais;
 
 b) Proceder à recepção, análise e controlos administrativos dos pedidos de regularização, de acordo com as regras definidas pelo IVV, I. P.;
 
-c) Processar os pedidos de regularização até 30 de Novembro de 2009;
+c) Processar os pedidos de regularização até 30 de Dezembro de 2009;
 
 d) Proceder à verificação, no local, até 31 de Julho de cada ano, de que a produção foi destruída, nos casos referidos no n.º 4 do artigo 6.º;
 
 e) Proceder à realização das acções de controlo para efeitos da confirmação dos arranques referidos no artigo 2.º, anualmente, até 1 de Fevereiro.
+
+> Alterado pelo/a [Portaria n.º 792/2009](https://diariodarepublica.pt/dr/detalhe/portaria/792-2009-492979), publicado em 2009-07-28.
 
 ###### Artigo 10.º — Medidas de acompanhamento
 

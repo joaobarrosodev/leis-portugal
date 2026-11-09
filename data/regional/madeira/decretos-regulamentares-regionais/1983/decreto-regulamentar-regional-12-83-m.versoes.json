@@ -1,0 +1,176 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:452510:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-06-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a4cd14e70bb3af24"
+   ]
+  },
+  {
+   "date": "1987-04-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:665705:por",
+     "title": "Decreto Regulamentar Regional n.º 9/87/M",
+     "published": "1987-04-27",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/9-1987-665705"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 10.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "56d810ea1223b709",
+    "268c529c47a0128c",
+    "a1a755801ec58cc1",
+    "4437205e012adf5c",
+    "d1ee08e511bc2d7c",
+    "a7316f5c1125e3c0",
+    "823a488b3e4ef59d",
+    "9231dec2ea94ba15",
+    "695d3ded5590314d",
+    "8e4e0938488881f2",
+    "1383430951765a7e",
+    "55f73ab8b6905469",
+    "c66a4429b000c56f"
+   ]
+  }
+ ],
+ "fragments": {
+  "a4cd14e70bb3af24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Modernização da frota pesqueira\n\nTendo em vista estimular o investimento no sector das pescas de forma a dotar a Região de uma frota moderna e bem equipada que possibilite a exploração racional dos recursos vivos marinhos da subárea 2 da ZEE, foi publicado o [Decreto Regional n.º 13/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1982-376191), de 20 de Outubro. O presente diploma destina-se a regulamentar o apoio financeiro a projectos de investimento para a modernização da frota pesqueira, estabelecendo os requisitos a que os mesmos deverão obedecer.\n\nNestes termos, ao abrigo da alínea b) do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e para efeitos do disposto no artigo 6.º do [Decreto Regional n.º 13/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1982-376191), de 20 de Outubro, o Governo Regional da Madeira decreta o seguinte:\n\nArtigo 1.º Os projectos de investimento considerados de interesse para a modernização da frota pesqueira da Região são os seguintes:\n\na) Aquisição de equipamentos de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar;\n\nb) Construção e aquisição de embarcações de pesca dotadas de autonomia adequada e de capacidade de conservação do pescado;\n\nc) Transformação e reconversão de embarcações de pesca;\n\nd) Aquisição de artes e apetrechos de pesca.\n\nArt. 2.º O auxílio financeiro previsto no n.º 1.º do artigo 1.º do [Decreto Regional n.º 13/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1982-376191) revestirá a forma de comparticipação no pagamento dos juros resultantes do financiamento dos projectos de investimento especificados no artigo 1.º do presente diploma.\n\nArt. 3.º - 1 - No cálculo do montante do auxílio financeiro a atribuir aos projectos de aquisição de embarcações usadas serão aplicadas as deduções constantes do quadro anexo ao presente diploma.\n\n2 - A idade da embarcação é calculada desde a data do seu primeiro registo.\n\n3 - Não serão contempladas pelo disposto no presente artigo a aquisição de embarcações usadas com mais de 10 anos de idade.\n\n4 - No entanto, poderá ser objecto de auxílio financeiro por parte do Governo Regional a aquisição de equipamentos de navegação, de propulsão, de detecção e de comunicações e equipamentos auxiliares de pesca, de segurança no mar, artes e apetrechos de pesca para embarcações com idade superior a 10 anos.\n\nArt. 4.º - 1 - A duração dos empréstimos a conceder pelas instituições de crédito que actuam na Região para o financiamento dos projectos de investimento de que trata o presente diploma será a seguinte:\n\na) Para a aquisição de equipamento de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - máximo de 1 ano;\n\nPeríodo de reembolso - máximo de 5 anos;\n\nb) Para a construção, aquisição, transformação e reconversão de embarcações de pesca:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - máximo de 2 anos;\n\nPeríodo de reembolso - máximo de 9 anos;\n\nc) Para a aquisição de artes e apetrechos de pesca:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - inexistente;\n\nPeríodo de reembolso - máximo de 2 anos.\n\n2 - A contagem do período de reembolso tem início despois de esgotado o período de carência.\n\n3 - Durante o período de utilização a taxa de juro a suportar pelo Governo Regional será de 15%.\n\nArt. 5.º As taxas de juro anuais a suportar pelo Governo Regional para os diferentes projectos de investimento contemplados no presente diploma serão as seguintes:\n\na) Para a aquisição de equipamento de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar:\n\n1.º ano - 12%;\n\n2.º ano - 10%;\n\n3.º ano - 8%;\n\n4.º ano - 6,5%;\n\n5.º ano - 5%;\n\nb) Para construção, aquisição, transformação e reconversão de embarcações de pesca:\n\n1.º ano - 15%;\n\n2.º ano - 12%;\n\n3.º ano - 10%;\n\n4.º ano - 8%.\n\n5.º ano e seguintes - 6,5%;\n\nc) Para a aquisição de artes e apetrechos de pesca:\n\n1.º ano - 10%;\n\n2.º ano - 8%;\n\nArt. 6.º - 1 - Os interessados na obtenção dos auxílios previstos neste diploma apresentarão às instituições de crédito que actuam na Região os projectos de investimento, elaborados em conformidade com as orientações destas, dos quais deverá, obrigatoriamente, constar o seguinte:\n\na) Descrição técnica completa do projecto, com indicações detalhadas do respectivo custo;\n\nb) Demonstração da viabilidade económica e financeira, com base no pescado descarregado ou a descarregar em portos da Região;\n\nc) Elementos demonstrativos da idoneidade do interessado.\n\n2 - As instituições de crédito procederão à análise e avaliação do projecto e remetê-lo-ão à Secretaria Regional de Agricultura e Pescas, acompanhado de parecer que caracterize a operação de crédito aprovada.\n\n3 - No prazo de 45 dias a contar da recepção do projecto, os Secretários Regionais da Agricultura e Pescas e do Planeamento e Finanças decidirão da atribuição dos auxílios previstos neste diploma, sendo respeitadas as orientações consagradas para o sector das pescas e respectivos limites orçamentais.\n\nArt. 7.º O montante dos encargos financeiros da responsabilidade do Governo Regional será sempre pago directamente às instituições de crédito.\n\nArt. 8.º Cabe à instituição de crédito que tenha concedido um empréstimo para o financiamento do projecto de investimento, bem como à Direcção Regional das Pescas, fiscalizar a correcta aplicação dos capitais mutuados.\n\nArt. 9.º A inobservância, pelos interessados, das condições em que forem concedidos os auxílios previstos neste diploma confere à Secretaria Regional de Agricultura e Pescas o direito de exigir imediatamente a restituição dos auxílios financeiros que hajam sido liquidados e acarreta a perda do direito aos mesmos.\n\nArt. 10.º A aplicação do regime estabelecido neste diploma relativamente aos projectos de investimento em curso, aquando da sua entrada em vigor, será decidida caso a caso pelos Secretários Regionais da Agricultura e Pescas e do Planeamento e Finanças.\n\nArt. 11.º Os auxílios financeiros previstos neste diploma serão cumulativos com os já existentes e com os que eventualmente venham a ser criados na Região.\n\nArt. 12.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Plenário do Governo Regional aos 21 de Abril de 1983.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 16 de Maio de 1983.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.\n\nQuadro anexo a que se refere o n.º 1 do artigo 3.º\n\nAquisição de embarcações usadas\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14400/23012302.pdf)"
+  },
+  "56d810ea1223b709": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Modernização da frota pesqueira\n\nTendo em vista estimular o investimento no sector das pescas de forma a dotar a Região de uma frota moderna e bem equipada que possibilite a exploração racional dos recursos vivos marinhos da subárea 2 da ZEE, foi publicado o [Decreto Regional n.º 13/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1982-376191), de 20 de Outubro. O presente diploma destina-se a regulamentar o apoio financeiro a projectos de investimento para a modernização da frota pesqueira, estabelecendo os requisitos a que os mesmos deverão obedecer.\n\nNestes termos, ao abrigo da alínea b) do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e para efeitos do disposto no artigo 6.º do [Decreto Regional n.º 13/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1982-376191), de 20 de Outubro, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "268c529c47a0128c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs projectos de investimento considerados de interesse para a modernização da frota pesqueira da Região são os seguintes:\n\na) Aquisição de equipamentos de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar;\n\nb) Construção e aquisição de embarcações de pesca dotadas de autonomia adequada e de capacidade de conservação do pescado;\n\nc) Transformação e reconversão de embarcações de pesca;\n\nd) Aquisição de artes e apetrechos de pesca."
+  },
+  "a1a755801ec58cc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO auxílio financeiro previsto no n.º 1.º do artigo 1.º do [Decreto Regional n.º 13/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1982-376191) revestirá a forma de comparticipação no pagamento dos juros resultantes do financiamento dos projectos de investimento especificados no artigo 1.º do presente diploma."
+  },
+  "4437205e012adf5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - No cálculo do montante do auxílio financeiro a atribuir aos projectos de aquisição de embarcações usadas serão aplicadas as deduções constantes do quadro anexo ao presente diploma.\n\n2 - A idade da embarcação é calculada desde a data do seu primeiro registo.\n\n3 - Não serão contempladas pelo disposto no presente artigo a aquisição de embarcações usadas com mais de 10 anos de idade.\n\n4 - No entanto, poderá ser objecto de auxílio financeiro por parte do Governo Regional a aquisição de equipamentos de navegação, de propulsão, de detecção e de comunicações e equipamentos auxiliares de pesca, de segurança no mar, artes e apetrechos de pesca para embarcações com idade superior a 10 anos."
+  },
+  "d1ee08e511bc2d7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1987-04-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - A duração dos empréstimos a conceder pelas instituições de crédito que actuam na Região para o financiamento dos projectos de investimento de que trata o presente diploma será a seguinte:\n\na) Para a aquisição de equipamento de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - máximo de 1 ano;\n\nPeríodo de reembolso - máximo de 5 anos;\n\nb) Para a construção, aquisição, transformação e reconversão de embarcações de pesca:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - máximo de 2 anos;\n\nPeríodo de reembolso - máximo de 9 anos;\n\nc) Para a aquisição de artes e apetrechos de pesca:\n\nPeríodo de utilização - máximo de 1 ano;\n\nPeríodo de carência - inexistente;\n\nPeríodo de reembolso - máximo de 2 anos.\n\n2 - A contagem do período de reembolso tem início despois de esgotado o período de carência.\n\n3 - Durante o período de utilização a taxa de juro a suportar pelo Governo Regional será de 10%.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27."
+  },
+  "a7316f5c1125e3c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1987-04-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27."
+   ],
+   "markdown": "###### Artigo 5.º\n\nAs taxas de juro anuais a suportar pelo Governo Regional para os diferentes projectos de investimento contemplados no presente diploma serão as seguintes:\n\na) Para a aquisição de equipamento de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar:\n\n1.º ano - 8%;\n\n2.º ano - 6%;\n\n3.º ano - 4%;\n\n4.º ano - 3%;\n\n5.º ano - 2%;\n\nb) Para construção, aquisição, transformação e reconversão de embarcações de pesca:\n\n1.º ano - 10%;\n\n2.º ano - 8%;\n\n3.º ano - 6%;\n\n4.º ano - 4%;\n\n5.º ano e seguintes - 3%;\n\nc) Para a aquisição de artes e apetrechos de pesca:\n\n1.º ano - 6%;\n\n2.º ano - 4%.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27."
+  },
+  "823a488b3e4ef59d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1987-04-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27."
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - Os interessados na obtenção dos auxílios previstos neste diploma apresentarão às instituições de crédito que actuam na Região os projectos de investimento, elaborados em conformidade com as orientações destas, dos quais deverá, obrigatoriamente, constar o seguinte:\n\na) Descrição técnica completa do projecto, com indicações detalhadas do respectivo custo;\n\nb) Demonstração da viabilidade económica e financeira, com base no pescado descarregado ou a descarregar em portos da Região;\n\nc) Elementos demonstrativos da idoneidade do interessado.\n\n2 - As instituições de crédito procederão à análise e avaliação do projecto e remetê-lo-ão à Secretaria Regional da Economia, acompanhado de parecer que caracterize a operação de crédito aprovada.\n\n3 - No prazo de 45 dias a contar da recepção do projecto, o Secretário Regional da Economia decidirá da atribuição dos auxílios previstos neste diploma, sendo respeitadas as orientações consagradas para o sector das pescas e respectivos limites orçamentais.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27."
+  },
+  "9231dec2ea94ba15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO montante dos encargos financeiros da responsabilidade do Governo Regional será sempre pago directamente às instituições de crédito."
+  },
+  "695d3ded5590314d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nCabe à instituição de crédito que tenha concedido um empréstimo para o financiamento do projecto de investimento, bem como à Direcção Regional das Pescas, fiscalizar a correcta aplicação dos capitais mutuados."
+  },
+  "8e4e0938488881f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA inobservância, pelos interessados, das condições em que forem concedidos os auxílios previstos neste diploma confere à Secretaria Regional de Agricultura e Pescas o direito de exigir imediatamente a restituição dos auxílios financeiros que hajam sido liquidados e acarreta a perda do direito aos mesmos."
+  },
+  "1383430951765a7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1987-04-28",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27."
+   ],
+   "markdown": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27."
+  },
+  "55f73ab8b6905469": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1987-04-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27."
+   ],
+   "markdown": "###### Artigo 11.º\n\nOs auxílios financeiros revistos neste diploma não serão comutativos com quaisquer outros, com excepção dos previstos nos programas de reestruturação e modernização da frota de pesca da Região aprovados no âmbito da política de estruturas da pesca da Comunidade Económica Europeia.\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27."
+  },
+  "c66a4429b000c56f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Plenário do Governo Regional aos 21 de Abril de 1983.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 16 de Maio de 1983.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.\n\nQuadro anexo a que se refere o n.º 1 do artigo 3.º\n\nAquisição de embarcações usadas\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1983/06/14400/23012302.pdf)"
+  }
+ }
+}

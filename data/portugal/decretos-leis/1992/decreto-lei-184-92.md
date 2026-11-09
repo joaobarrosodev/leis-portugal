@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-04-12'
+version_history:
+  file: decreto-lei-184-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-08-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-04-12'
+    amending: pt:dre:682989:por
+    amending_title: Decreto-Lei n.º 108/93
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 20.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/184/1992/08/22/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:17:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 108/93. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1992/decreto-lei-184-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,9 +158,13 @@ Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo
 
 ### CAPÍTULO I — Natureza e atribuições
 
-Artigo 1.º O Secretariado Nacional de Reabilitação, adiante abreviadamente designado por SNR, é uma pessoa colectiva de direito público dotada de autonomia administrativa, que funciona sob tutela do Ministro do Emprego e da Segurança Social.
+###### Artigo 1.º
 
-Art. 2.º O SNR tem por atribuições:
+O Secretariado Nacional de Reabilitação, adiante abreviadamente designado por SNR, é uma pessoa colectiva de direito público dotada de autonomia administrativa, que funciona sob tutela do Ministro do Emprego e da Segurança Social.
+
+###### Artigo 2.º
+
+O SNR tem por atribuições:
 
 a) Contribuir para a definição da política nacional de reabilitação de deficientes e para a sua concretização;
 
@@ -162,7 +182,9 @@ g) Propor medidas legislativas e emitir parecer sobre projectos de diploma legal
 
 ### CAPÍTULO II — Órgãos e serviços
 
-Art. 3.º São órgãos do SNR:
+###### Artigo 3.º
+
+São órgãos do SNR:
 
 a) O secretário nacional;
 
@@ -172,19 +194,23 @@ c) O Conselho Científico de Investigação em Reabilitação;
 
 d) O conselho administrativo.
 
-Art. 4.º - 1 - Ao secretário nacional compete dirigir e coordenar as actividades do SNR.
+###### Artigo 4.º
+
+1 - Ao secretário nacional compete dirigir e coordenar as actividades do SNR.
 
 2 - O secretário nacional é coadjuvado por dois secretários-adjuntos, nos quais poderá delegar competências.
 
 3 - O secretário nacional e os secretários-adjuntos são equiparados, para todos os efeitos legais, a director-geral e a subdirector-geral, respectivamente.
 
-Art. 5.º - 1 - O Conselho Nacional de Reabilitação é o órgão consultivo do SNR.
+###### Artigo 5.º
 
-2 - O Conselho Nacional de Reabilitação é composto pelo secretário nacional, que preside, e por 17 vogais.
+1 - O Conselho Nacional de Reabilitação é o órgão consultivo do SNR.
+
+2 - O Conselho Nacional de Reabilitação é composto pelo secretário nacional, que preside, e pelos vogais nomeados nos termos do número seguinte.
 
 3 - Os vogais que integram o Conselho Nacional de Reabilitação são nomeados:
 
-a) Um pelo Primeiro-Ministro;
+a) Um pelo Ministro da Defesa Nacional;
 
 b) Um pelo Ministro do Planeamento e da Administração do Território;
 
@@ -232,7 +258,11 @@ c) Pronunciar-se sobre os assuntos que o SNR submeta à sua consideração;
 
 d) Informar tempestivamente o secretário nacional sobre todos os planos, iniciativas e acções a elaborar ou a executar que, no âmbito da reabilitação, sejam programados nos ministérios ou instituições representados no Conselho.
 
-Art. 6.º - 1 - O Conselho Científico de Investigação em Reabilitação, presidido pelo secretário nacional e funcionando junto do mesmo, é constituído por representantes de entidades públicas e privadas que promovam, em Portugal, a investigação científica e tecnológica nos domínios da deficiência e da reabilitação e por investigadores de reconhecido mérito nestes domínios.
+> Alterado pelo/a [Decreto-Lei n.º 108/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1993-682989), publicado em 1993-04-07.
+
+###### Artigo 6.º
+
+1 - O Conselho Científico de Investigação em Reabilitação, presidido pelo secretário nacional e funcionando junto do mesmo, é constituído por representantes de entidades públicas e privadas que promovam, em Portugal, a investigação científica e tecnológica nos domínios da deficiência e da reabilitação e por investigadores de reconhecido mérito nestes domínios.
 
 2 - Os membros do Conselho Científico de Investigação em Reabilitação são nomeados pelo Ministro do Emprego e da Segurança Social, sob proposta do secretário nacional.
 
@@ -250,7 +280,9 @@ d) Elaborar propostas para o desenvolvimento da política científica e tecnoló
 
 e) Incentivar e apoiar os finalistas de cursos relacionados com os domínios da deficiência e da reabilitação e os licenciados nessa área que desejem desenvolver a sua actividade no âmbito dos projectos de investigação multidisciplinares nestes domínios.
 
-Art. 7.º - 1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e patrimonial.
+###### Artigo 7.º
+
+1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e patrimonial.
 
 2 - Constituem o conselho administrativo:
 
@@ -284,7 +316,9 @@ f) Elaborar as contas anuais.
 
 8 - Quando tal se justifique, pode o presidente convocar, para assistir às reuniões do conselho administrativo, sem direito a voto, funcionários do SNR.
 
-Art. 8.º - 1 - O SNR dispõe de serviços operativos e de serviços de apoio técnico e administrativo.
+###### Artigo 8.º
+
+1 - O SNR dispõe de serviços operativos e de serviços de apoio técnico e administrativo.
 
 2 - São serviços operativos do SNR:
 
@@ -302,7 +336,9 @@ b) O Gabinete de Informação e Relações Internacionais;
 
 c) A Repartição Administrativa.
 
-Art. 9.º À Divisão de Estudos e Projectos compete:
+###### Artigo 9.º
+
+À Divisão de Estudos e Projectos compete:
 
 a) Proceder ao planeamento das actividades do SNR a nível nacional, acompanhando a elaboração dos projectos e a sua avaliação;
 
@@ -310,7 +346,9 @@ b) Estudar as metodologias e técnicas de intervenção nos domínios da defici�
 
 c) Emitir pareceres técnicos.
 
-Art. 10.º À Divisão de Apoio Técnico compete:
+###### Artigo 10.º
+
+À Divisão de Apoio Técnico compete:
 
 a) Proceder ao atendimento das pessoas com deficiência e suas famílias;
 
@@ -320,7 +358,9 @@ c) Dinamizar e apoiar o associativismo social;
 
 d) Registar e tratar os dados relativos às actividades de atendimento.
 
-Art. 11.º - 1 - Ao Centro de Maria Cândida da Cunha compete:
+###### Artigo 11.º
+
+1 - Ao Centro de Maria Cândida da Cunha compete:
 
 a) Incentivar e acompanhar o desenvolvimento de projectos de investigação científica e tecnológica, promovendo a cooperação entre os diversos intervenientes nos domínios da deficiência e da reabilitação;
 
@@ -336,7 +376,9 @@ f) Promover a participação em redes de informação nacionais e internacionais
 
 2 - O Centro de Maria Cândida da Cunha é dirigido por um chefe de divisão.
 
-Art. 12.º - 1 - Compete ao Gabinete Jurídico prestar todo o apoio jurídico necessário ao desenvolvimento das actividades do SNR, nomeadamente:
+###### Artigo 12.º
+
+1 - Compete ao Gabinete Jurídico prestar todo o apoio jurídico necessário ao desenvolvimento das actividades do SNR, nomeadamente:
 
 a) Colaborar na preparação de medidas legislativas;
 
@@ -352,7 +394,9 @@ f) Proceder à instrução de inquéritos, averiguações e processos disciplina
 
 2 - O Gabinete Jurídico é coordenado por um técnico superior licenciado em Direito.
 
-Art. 13.º - 1 - Compete ao Gabinete de Informação e Relações Internacionais:
+###### Artigo 13.º
+
+1 - Compete ao Gabinete de Informação e Relações Internacionais:
 
 a) Desenvolver acções de sensibilização da população para os problemas da deficiência e da reabilitação;
 
@@ -366,7 +410,9 @@ e) Tratar e promover a divulgação da informação.
 
 2 - O Gabinete de Informação e Relações Internacionais é dirigido por um chefe de divisão.
 
-Art. 14.º - 1 - A Repartição Administrativa é um serviço de apoio administrativo, ao qual compete a coordenação das áreas de administração de pessoal, expediente geral e arquivo e administração financeira e patrimonial.
+###### Artigo 14.º
+
+1 - A Repartição Administrativa é um serviço de apoio administrativo, ao qual compete a coordenação das áreas de administração de pessoal, expediente geral e arquivo e administração financeira e patrimonial.
 
 2 - A Repartição Administrativa compreende as seguintes secções:
 
@@ -418,7 +464,9 @@ d) Assegurar as ligações necessárias com as instituições bancárias.
 
 ### CAPÍTULO III — Gestão financeira e patrimonial
 
-Art. 15.º - 1 - A gestão financeira e patrimonial do SNR bem como a sua administração são orientadas pelos princípios da gestão por objectivos e do controlo orçamental e financeiro dos resultados.
+###### Artigo 15.º
+
+1 - A gestão financeira e patrimonial do SNR bem como a sua administração são orientadas pelos princípios da gestão por objectivos e do controlo orçamental e financeiro dos resultados.
 
 2 - Para execução do disposto no número anterior, será assegurado o estabelecimento de um sistema de informação integrada e de difusão das informações necessárias à elaboração de programas e à sua correcta execução.
 
@@ -430,11 +478,15 @@ b) Relatório de actividades e conta de gerência anuais;
 
 c) Documentos de avaliação de resultados.
 
-Art. 16.º - 1 - O SNR pode aceitar doações, heranças ou legados, carecendo da competente autorização quando envolvam encargos.
+###### Artigo 16.º
+
+1 - O SNR pode aceitar doações, heranças ou legados, carecendo da competente autorização quando envolvam encargos.
 
 2 - O SNR pode adquirir, alienar ou onerar os bens, móveis e imóveis, que integrem o respectivo património, nos termos legais.
 
-Art. 17.º - 1 - Constituem receitas do SNR:
+###### Artigo 17.º
+
+1 - Constituem receitas do SNR:
 
 a) As dotações atribuídas no Orçamento do Estado;
 
@@ -460,15 +512,21 @@ c) As despesas inerentes à aquisição e gestão de bens, móveis e imóveis.
 
 ### CAPÍTULO IV — Pessoal
 
-Art. 18.º - 1 - O quadro de pessoal do SNR é aprovado por portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social.
+###### Artigo 18.º
+
+1 - O quadro de pessoal do SNR é aprovado por portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social.
 
 2 - A distribuição do pessoal do SNR é efectuada por despacho do secretário nacional.
 
-Art. 19.º O recrutamento para a carreira de operador de reprografia faz-se por concurso, de entre indivíduos habilitados com a escolaridade obrigatória.
+###### Artigo 19.º
+
+O recrutamento para a carreira de operador de reprografia faz-se por concurso, de entre indivíduos habilitados com a escolaridade obrigatória.
 
 ### CAPÍTULO V — Disposições finais e transitórias
 
-Art. 20.º - 1 - Os funcionários que, à data da entrada em vigor do presente diploma, se encontram a prestar serviço no SNR transitam para o quadro de pessoal a que se refere o n.º 1 do artigo 18.º, de acordo com as seguintes regras:
+###### Artigo 20.º
+
+1 - Os funcionários que à data da entrada em vigor do presente diploma se encontram providos em lugares do quadro de pessoal do SNR transitam para o quadro de pessoal a que se refere o n.º 1 do artigo 18.º de acordo com as seguintes regras:
 
 a) Para a mesma carreira, categoria e escalão que o funcionário já possui;
 
@@ -478,7 +536,13 @@ b) Sem prejuízo das habilitações legais, para carreira e categoria que integr
 
 3 - Nas situações previstas nos números anteriores será contado, para efeitos de progressão e promoção, todo o tempo de serviço prestado anteriormente em idêntico desempenho na categoria de que transitam.
 
-Art. 21.º É revogado o [Decreto-Lei n.º 355/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1982-374248), de 6 de Setembro.
+4 - Os concursos para provimento de lugares do quadro realizados ou em curso à data da entrada em vigor do presente diploma manter-se-ão pelos prazos neles previstos, até ao preenchimento dos lugares vagos a que se destinam.
+
+> Alterado pelo/a [Decreto-Lei n.º 108/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-1993-682989), publicado em 1993-04-07.
+
+###### Artigo 21.º
+
+É revogado o [Decreto-Lei n.º 355/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1982-374248), de 6 de Setembro.
 
 Visto e aprovado em Conselho de Ministros de 11 de Junho de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - Luís Francisco Valente de Oliveira - Álvaro José Brilhante Laborinho Lúcio - António Fernando Couto dos Santos - Joaquim Martins Ferreira do Amaral - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.
 

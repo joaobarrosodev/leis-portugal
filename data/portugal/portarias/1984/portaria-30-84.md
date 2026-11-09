@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-09-27'
+version_history:
+  file: portaria-30-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-01-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-09-27'
+    amending: pt:dre:399620:por
+    amending_title: Portaria n.º 742/84
+    changes:
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:01:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 742/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1984/portaria-30-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -141,19 +156,19 @@ REGULAMENTO DA CLASSIFICAÇÃO DE SERVIÇO DOS FUNCIONÁRIOS E AGENTES DAS TESOU
 
 ### CAPÍTULO I — Princípios gerais
 
-###### ARTIGO 1.º — (Âmbito de aplicação)
+###### Artigo 1.º — (Âmbito de aplicação)
 
 A classificação de serviço a que se refere o artigo 11.º do [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, rege-se pelo presente Regulamento e aplica-se a todos os funcionários e agentes com categoria inferior ou igual a tesoureiro da Fazenda Pública de 1.ª classe.
 
-###### ARTIGO 2.º — (Objectivo)
+###### Artigo 2.º — (Objectivo)
 
 A classificação de serviço a que se refere o artigo 1.º, para além da aplicação dos seus resultados nas situações previstas no [Decreto-Lei n.º 519-A1/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-a1-1979-157034), de 29 de Dezembro, e legislação complementar, visa traduzir o grau de mérito dos funcionários e agentes das tesourarias da Fazenda Pública.
 
-###### ARTIGO 3.º — (Funcionários e agentes a avaliar)
+###### Artigo 3.º — (Funcionários e agentes a avaliar)
 
 A avaliação sobre o mérito dos funcionários ou agentes abrange apenas os que tenham o mínimo de 6 meses de funções na tesouraria da Fazenda Pública em que se encontrem colocados, em relação ao período em que decorrem as avaliações.
 
-###### ARTIGO 4.º — (Fichas de avaliação e instruções)
+###### Artigo 4.º — (Fichas de avaliação e instruções)
 
 1 - A classificação de serviço de cada funcionário ou agente, atribuída nos termos do artigo 2.º, exprime-se numa menção quantitativa e numa menção qualitativa.
 
@@ -165,13 +180,13 @@ b) A ficha modelo n.º 2 ao pessoal técnico-exactor;
 
 c) A ficha modelo n.º 3 ao pessoal auxiliar.
 
-###### ARTIGO 5.º — (Publicidade)
+###### Artigo 5.º — (Publicidade)
 
 1 - Nas fichas de avaliação será reservado espaço para que o avaliado mencione expressamente, por ocasião da entrevista em que tomar conhecimento da informação, se autoriza ou a publicitação da respectiva classificação de serviço.
 
 2 - Para efeitos do número anterior, os serviços afixarão, em lugar a que tenham acesso os funcionários e agentes da mesma unidade orgânica, listas contendo as menções apuradas nos termos do artigo 6.º cuja publicitação tenha sido autorizada.
 
-###### ARTIGO 6.º — (Correspondência quantitativa e qualitativa da pontuação)
+###### Artigo 6.º — (Correspondência quantitativa e qualitativa da pontuação)
 
 1 - A classificação de serviço de cada funcionário ou agente, atribuída nos termos do n.º 1 do artigo 4.º, deverá ser traduzida numa das seguintes menções qualitativas, de acordo com o intervalo de valores em que a pontuação se situar:
 
@@ -183,11 +198,13 @@ De 14 a 16 - Bom;
 
 De 17 a 20 - Muito bom.
 
-2 - Sempre que a pontuação obtida se traduzir num número decimal, proceder-se-á ao seu arredondamento para número inteiro, por excesso.
+2 - Sempre que a pontuação obtida se traduzir num número decimal, proceder-se-á ao seu arredondamento para número inteiro por excesso ou por defeito, consoante o valor decimal obtido seja igual ou superior a 0,5 ou inferior a este, respectivamente.
 
 3 - As menções quantitativas são relevantes para todos os efeitos legais, designadamente progressão na carreira e transferências.
 
-###### ARTIGO 7.º — (Competência para avaliar)
+> Alterado pelo/a [Portaria n.º 742/84](https://diariodarepublica.pt/dr/detalhe/portaria/742-1984-399620), publicado em 1984-09-22.
+
+###### Artigo 7.º — (Competência para avaliar)
 
 1 - A avaliação e a atribuição da classificação de serviço são da competência do director-geral do Tesouro e do director distrital de finanças em relação ao tesoureiro-gerente da Fazenda Pública, ou quem as suas vezes fizer.
 
@@ -199,7 +216,7 @@ De 17 a 20 - Muito bom.
 
 5 - A competência atribuída ao director-geral do Tesouro nos termos do n.º 1 deste artigo é delegável nos subdirectores-gerais.
 
-###### ARTIGO 8.º — (Regras para avaliação dos tesoureiros-gerentes)
+###### Artigo 8.º — (Regras para avaliação dos tesoureiros-gerentes)
 
 1 - O director distrital de finanças dá conhecimento ao tesoureiro-gerente do conteúdo da ficha de avaliação, depois de devidamente preenchida, nos termos do n.º 2 do artigo 15.º
 
@@ -211,7 +228,7 @@ De 17 a 20 - Muito bom.
 
 5 - Para efeitos do n.º 3, o director-geral do Tesouro poderá utilizar o mecanismo referido no n.º 3 do artigo 17.º
 
-###### ARTIGO 9.º — (Competência para homologar)
+###### Artigo 9.º — (Competência para homologar)
 
 1 - A competência para homologar as classificações atribuídas pelos avaliadores é exercida pelo director-geral do Tesouro, delegável nos termos do artigo 7.º, n.º 5.
 
@@ -219,13 +236,13 @@ De 17 a 20 - Muito bom.
 
 3 - A intervenção, como avaliador, do dirigente com competência para homologar não prejudica a posterior homologação pelo mesmo dirigente da classificação de serviço atribuída.
 
-###### ARTIGO 10.º — (Iniciativa)
+###### Artigo 10.º — (Iniciativa)
 
 A classificação de serviço é da iniciativa da Administração e reporta-se ao ano civil anterior.
 
 ### CAPÍTULO II — Relevância
 
-###### ARTIGO 11.º — (Relevância da classificação de serviço)
+###### Artigo 11.º — (Relevância da classificação de serviço)
 
 1 - Sem prejuízo do que sobre a matéria dispõe o [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, para efeitos de promoção e progressão nas carreiras, as classificações atribuídas deverão ser em número igual ao número de anos de serviço exigidos como requisito de tempo mínimo de permanência na categoria inferior e reportados aos anos imediatamente anteriores relevantes para aqueles efeitos.
 
@@ -233,7 +250,7 @@ A classificação de serviço é da iniciativa da Administração e reporta-se a
 
 ### CAPÍTULO III — Processo
 
-###### ARTIGO 12.º — (Confidencialidade)
+###### Artigo 12.º — (Confidencialidade)
 
 1 - O processo de classificação tem carácter confidencial, devendo as fichas de avaliação ser arquivadas no respectivo processo individual.
 
@@ -241,7 +258,7 @@ A classificação de serviço é da iniciativa da Administração e reporta-se a
 
 3 - O disposto nos números anteriores não impede que em qualquer fase do processo sejam passadas certidões da ficha de avaliação, mediante pedido do avaliado, formulado por escrito ao dirigente com competência para homologar.
 
-###### ARTIGO 13.º — (Situação de falta e licença)
+###### Artigo 13.º — (Situação de falta e licença)
 
 1 - A situação de falta ou licença dos avaliados ou do avaliador não é impeditiva da atribuição da classificação de serviço e do cumprimento dos prazos fixados.
 
@@ -249,25 +266,25 @@ A classificação de serviço é da iniciativa da Administração e reporta-se a
 
 3 - Caso a ausência ou impedimento referidos no número anterior não cessem no mesmo ano civil, não será atribuída classificação de serviço.
 
-###### ARTIGO 14.º — (Início do processo)
+###### Artigo 14.º — (Início do processo)
 
 1 - O processo de classificação de serviço inicia-se com o preenchimento, pelos avaliados, nos primeiros 15 dias úteis do mês de Janeiro, da rubrica «Elementos biográficos», constante das fichas de avaliação aplicáveis, as quais serão fornecidas atempadamente pelos serviços aos avaliados.
 
 2 - Os restantes elementos serão preenchidos, na parte aplicável, pelos avaliadores até ao dia 15 do mês de Fevereiro.
 
-###### ARTIGO 15.º — (Conhecimento ao interessado)
+###### Artigo 15.º — (Conhecimento ao interessado)
 
 1 - A ficha, depois de devidamente preenchida, será dada a conhecer ao interessado em entrevista individual com o avaliar ou, se isso se mostrar inviável, remetida directamente, sob registo postal e com aviso de recepção, dentro dos mesmos prazos.
 
 2 - As entrevistas ou remessas de cartas registadas com aviso de recepção referidas no número anterior terão lugar até 15 de Março de cada ano.
 
-###### ARTIGO 16.º — (Reclamação)
+###### Artigo 16.º — (Reclamação)
 
 1 - O interessado, após tomar conhecimento da ficha de avaliação, pode apresentar ao avaliador, no prazo de 5 dias úteis, reclamação, por escrito, com indicação dos factos que julgue susceptíveis de fundamentar a revisão da classificação atribuída.
 
 2 - As reclamações a que se refere o número anterior serão objecto de apreciação pelo respectivo avaliador, que proferirá decisão fundamentada, a qual será dada a conhecer ao interessado, por escrito, no prazo de 5 dias úteis, contados do recebimento da reclamação.
 
-###### ARTIGO 17.º — (Reclamação para o dirigente competente para homologar)
+###### Artigo 17.º — (Reclamação para o dirigente competente para homologar)
 
 1 - O avaliado, após tomar conhecimento da decisão, poderá requerer ao dirigente com competência para homologar, nos 5 dias úteis seguintes, que reaprecie o seu processo.
 
@@ -275,29 +292,29 @@ A classificação de serviço é da iniciativa da Administração e reporta-se a
 
 3 - O dirigente com competência para homologar poderá solicitar o apoio jurídico ou técnico, respectivamente, dos técnicos superiores do quadro da Direcção-Geral do Tesouro e dos tesoureiros da Fazenda Pública a designar, para efeitos do disposto no número anterior.
 
-###### ARTIGO 18.º — (Decisão final)
+###### Artigo 18.º — (Decisão final)
 
 No prazo de 15 dias úteis, o dirigente com competência para homologar proferirá decisão final sobre a reclamação, que deverá ser fundamentada se não coincidir com o parecer jurídico ou técnico emitido nos termos do n.º 3 do artigo 17.º ou com a decisão do avaliador, proferida nos termos do n.º 2 do artigo 16.º
 
-###### ARTIGO 19.º — (Homologação e publicitação das classificações)
+###### Artigo 19.º — (Homologação e publicitação das classificações)
 
 1 - As classificações de serviço deverão ser homologadas até 30 de Maio de cada ano civil.
 
 2 - As listas a que se refere o artigo 5.º serão elaboradas após a homologação destas e afixadas até 30 de Junho.
 
-###### ARTIGO 20.º — (Notificação da classificação homologada)
+###### Artigo 20.º — (Notificação da classificação homologada)
 
 1 - As classificações de serviço não subirão a homologação antes de decorridos os prazos de reclamação para o avaliador e para o dirigente competente para homologar.
 
 2 - Da classificação de serviço atribuída é dado conhecimento pelo avaliador ao interessado no prazo de 5 dias úteis, contados da data da homologação, sendo de seguida o processo arquivado no respectivo processo individual.
 
-###### ARTIGO 21.º — (Recurso hierárquico)
+###### Artigo 21.º — (Recurso hierárquico)
 
 Da classificação, após ter sido homologada, cabe recurso hierárquico para o membro do Governo competente, a interpor no prazo de 10 dias úteis, contados da data do conhecimento da homologação, devendo ser proferida decisão no prazo de 15 dias, contados da data de interposição do recurso.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### ARTIGO 22.º — (Aplicação em 1983)
+###### Artigo 22.º — (Aplicação em 1983)
 
 1 - No decurso do corrente ano, o processo de classificação iniciar-se-á no dia 17 de Outubro com o preenchimento das fichas de avaliação, nos termos do artigo 14.º, observando-se seguidamente os intervalos temporais entre cada uma das fases do processo, excepto os prazos previstos nos n.os 1 e 2 do artigo 14.º e no n.º 2 do artigo 15.º, que são reduzidos para 5, 10 e 10 dias, respectivamente.
 
@@ -307,7 +324,7 @@ Da classificação, após ter sido homologada, cabe recurso hierárquico para o 
 
 4 - A classificação atribuída abrange todo o serviço prestado ou a prestar até 30 de Setembro, incluindo o serviço prestado e não classificado em 1982.
 
-###### ARTIGO 23.º — (Aplicação no tempo para efeitos de promoção e progressão)
+###### Artigo 23.º — (Aplicação no tempo para efeitos de promoção e progressão)
 
 Nos primeiros anos de vigência do presente diploma observar-se-á o regime previsto no artigo 22.º do [Decreto-Lei n.º 171/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1982-392864), de 10 de Maio, para efeitos de promoção e progressão nas carreiras.
 

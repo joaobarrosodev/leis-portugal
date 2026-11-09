@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:159926:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1962-09-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1c52c3110fae1694"
+   ]
+  },
+  {
+   "date": "1963-05-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:627984:por",
+     "title": "Decreto-Lei n.º 45019",
+     "published": "1963-05-09",
+     "dre_path": "/dr/detalhe/decreto-lei/45019-1963-627984"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "8fd9cd41cfd6ee56",
+    "43415093e39011de",
+    "7cce0f4728562d96",
+    "387c0bb3ba0bfc94"
+   ]
+  }
+ ],
+ "fragments": {
+  "1c52c3110fae1694": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Nos termos do n.º 1.º do artigo 69.º do Decreto n.º 38969, de 27 de Outubro de 1952, é autorizado o Governo, pelo Ministro da Educação Nacional, a aceitar do benemérito Joaquim Faria Moreira Ramalhão a importância de 250000$00 para fundo de manutenção da Cantina Escolar Joaquim Ramalhão, anexa às escolas do núcleo da Maia, concelho da Maia.\n\nArt. 2.º A administração da cantina é autónoma e atribuída a uma comissão de, pelo menos, três membros, nomeada pelo Ministro da Educação Nacional, da qual farão parte dois agentes de ensino e, como presidente, o benemérito ou seu representante.\n\nArt. 3.º Ao doador é reservado o privilégio de indicar dois professores para o preenchimento de vagas existentes nas escolas do núcleo beneficiado pela cantina ou que no mesmo núcleo venham a verificar-se durante o prazo de dez anos, após a publicação do presente diploma.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 21 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho."
+  },
+  "8fd9cd41cfd6ee56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "43415093e39011de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1963-05-09",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 45019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45019-1963-627984), publicado em 1963-05-09."
+   ],
+   "markdown": "###### Artigo 1.º\n\nNos termos do n.º 1 do artigo 69.º do Decreto n.º 38969, de 27 de Outubro de 1952, é autorizado o Governo, pelo Ministro da Educação Nacional, a aceitar do benemérito Joaquim Faria Moreira Ramalhão a importância da 250000$00 para fundo de manutenção da Cantina Escolar Joaquim Ramalhão, anexa às escolas do núcleo de Pedras Rubras, freguesia de Moreira, concelho da Maia.\n\n> Alterado pelo/a [Decreto-Lei n.º 45019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45019-1963-627984), publicado em 1963-05-09."
+  },
+  "7cce0f4728562d96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA administração da cantina é autónoma e atribuída a uma comissão de, pelo menos, três membros, nomeada pelo Ministro da Educação Nacional, da qual farão parte dois agentes de ensino e, como presidente, o benemérito ou seu representante."
+  },
+  "387c0bb3ba0bfc94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAo doador é reservado o privilégio de indicar dois professores para o preenchimento de vagas existentes nas escolas do núcleo beneficiado pela cantina ou que no mesmo núcleo venham a verificar-se durante o prazo de dez anos, após a publicação do presente diploma.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 21 de Setembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho."
+  }
+ }
+}

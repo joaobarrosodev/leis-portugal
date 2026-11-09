@@ -1,0 +1,158 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:311405:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1975-12-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "54c77d2cfc11a5e0"
+   ]
+  },
+  {
+   "date": "1978-07-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:297402:por",
+     "title": "Decreto-Lei n.º 194/78",
+     "published": "1978-07-19",
+     "dre_path": "/dr/detalhe/decreto-lei/194-1978-297402"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "1dcceb2085bfdbd2",
+    "efed9daf5c36dfad",
+    "8900e98838f1b42b",
+    "5f27067893dcfadc",
+    "56081767d7941a7e",
+    "c454f6c46385b86d",
+    "e137af9e4a2f2130",
+    "dec76137922fd086",
+    "b61fb27282650cab",
+    "6505f511b62e3be5",
+    "ff0f4c0aad2bd72a",
+    "cfbccaff1b03377c"
+   ]
+  }
+ ],
+ "fragments": {
+  "54c77d2cfc11a5e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Dezembro\n\nO Código Penal e Disciplinar da Marinha Mercante, aprovado pelo [Decreto-Lei n.º 33252](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33252-1943-253806), de 20 de Novembro de 1943, mantém-se em vigor praticamente sem alterações desde essa data.\n\nA sua natureza eminentemente repressiva torna urgente a sua revisão, de modo a dotar aquele sector com um código adequado ao desenvolvimento de relações normais entre os trabalhadores do mar.\n\nDeste modo, prevê-se a criação de um grupo de trabalho que procederá à revisão da actual legislação, tendo nomeadamente em vista a necessidade de a conjugar com os conceitos adoptados pela lei geral, embora considerando os aspectos específicos relativos à marinha mercante.\n\nEntretanto, e até à conclusão desse trabalho, impõe-se desde já acabar com uma situação que, em matéria disciplinar, coloca os trabalhadores do mar ao sabor das maiores arbitrariedades.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º O disposto nos artigos 45.º a 125.º do Código Penal e Disciplinar da Marinha Mercante não se aplica aos indivíduos mencionados nas alíneas a) e d) do artigo 44.º do referido Código.\n\nArt. 2.º - 1. Em relação aos indivíduos abrangidos pelo artigo anterior, a competência em matéria disciplinar caberá a um conselho de disciplina constituído a bordo.\n\n2. Desse conselho de disciplina fará parte o comandante, mestre ou arrais da embarcação, que presidirá e terá voto de qualidade.\n\n3. Nos navios com mais de quinze tripulantes integrarão o conselho de disciplina, além do comandante, dois trabalhadores dos oficiais, dois trabalhadores da mestrança e dois trabalhadores da marinhagem.\n\n4. Nos navios com quinze ou menos tripulantes integrarão o conselho de disciplina, além do comandante, mestre ou arrais, um trabalhador dos oficiais, um trabalhador da mestrança e dois da marinhagem.\n\n5. A eleição dos membros do conselho de disciplina é feita por escrutínio secreto, entre os trabalhadores dos oficiais, mestrança e marinhagem, que elegem os respectivos representantes.\n\nArt. 3.º São revogados os artigos 49.º a 58.º e 69.º a 90.º do Código.\n\nArt. 4.º As penas aplicáveis por faltas disciplinares, qualquer que seja a qualidade do infractor, são as seguintes:\n\n1.º Admoestação;\n\n2.º Repreensão;\n\n3.º Multa correspondente à soldada de um a quinze dias, tratando-se de tripulante;\n\n4.º Multa de 300$00 a 10000$00, se o infractor não for tripulante.\n\nArt. 5.º - 1. As penas dos n.os 1.º e 2.º serão aplicadas por faltas leves.\n\n2. A pena de multa será aplicada por faltas mais graves, devendo ser graduada conforme tenha havido intenção ou mera negligência.\n\n3. Na fixação ou graduação das penas serão tidas como agravantes a sucessão, a acumulação de infracções e a reincidência.\n\nArt. 6.º Não poderá ser aplicada qualquer pena sem audiência prévia do arguido, podendo este apresentar os meios de defesa que achar convenientes.\n\nArt. 7.º - 1. Das penas aplicadas pelo conselho de disciplina cabe recurso para o conselho disciplinar da Federação dos Sindicatos do Mar.\n\n2. Quando os arguidos sejam pescadores, o conselho disciplinar da Federação dos Sindicatos do Mar será ampliado com representante do respectivo sindicato.\n\nArt. 8.º As importâncias provenientes da aplicação da pena de multa reverterão a favor do Fundo de Desemprego.\n\nArt. 9.º Mantêm-se em vigor as disposições do Código Penal e Disciplinar da Marinha Mercante em tudo aquilo que não seja contrariado pelo disposto neste diploma.\n\nArt. 10.º A competência dos tribunais marítimos em matéria penal mantém-se até à revisão do Código Penal e Disciplinar da Marinha Mercante.\n\nArt. 11.º Este diploma entra em vigor na data da publicação.\n\nVisto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - António Poppe Lopes Cardoso - Walter Ruivo Pinto Gomes Rosa - João Pedro Tomás Rosa.\n\nPromulgado em 22 de Novembro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "1dcceb2085bfdbd2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Dezembro\n\nO Código Penal e Disciplinar da Marinha Mercante, aprovado pelo [Decreto-Lei n.º 33252](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33252-1943-253806), de 20 de Novembro de 1943, mantém-se em vigor praticamente sem alterações desde essa data.\n\nA sua natureza eminentemente repressiva torna urgente a sua revisão, de modo a dotar aquele sector com um código adequado ao desenvolvimento de relações normais entre os trabalhadores do mar.\n\nDeste modo, prevê-se a criação de um grupo de trabalho que procederá à revisão da actual legislação, tendo nomeadamente em vista a necessidade de a conjugar com os conceitos adoptados pela lei geral, embora considerando os aspectos específicos relativos à marinha mercante.\n\nEntretanto, e até à conclusão desse trabalho, impõe-se desde já acabar com uma situação que, em matéria disciplinar, coloca os trabalhadores do mar ao sabor das maiores arbitrariedades.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "efed9daf5c36dfad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO disposto nos artigos 45.º a 125.º do Código Penal e Disciplinar da Marinha Mercante não se aplica aos indivíduos mencionados nas alíneas a) e d) do artigo 44.º do referido Código."
+  },
+  "8900e98838f1b42b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1978-07-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 194/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1978-297402), publicado em 1978-07-19."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Em relação aos indivíduos abrangidos pelo artigo anterior, a competência em matéria disciplinar caberá ao armador ou ao comandante, mestre ou arrais da embarcação como seu representante legal.\n\n2 - A entidade a quem cabe o exercício do poder disciplinar ouvirá, antes da decisão final, o conselho de disciplina, quando exista, o qual se pronunciará, mediante parecer fundamentado, no prazo de dois dias úteis a contar da data em que o processo lhe seja entregue por cópia.\n\n3 - Para efeitos do disposto nos números anteriores, poderão ser constituídos conselhos de disciplina a bordo.\n\n4 - Nos navios com mais de quinze tripulantes, integrarão o conselho de disciplina dois trabalhadores dos oficiais, dois trabalhadores da mestrança e dois trabalhadores da marinhagem.\n\n5 - Nos navios com quinze ou menos tripulantes, integrarão o conselho de disciplina um trabalhador dos oficiais, um trabalhador da mestrança e dois trabalhadores da marinhagem.\n\n6 - A eleição dos membros do conselho de disciplina é feita por escrutínio secreto, entre os trabalhadores dos oficiais, mestrança e marinhagem, que elegem os respectivos representantes.\n\n> Alterado pelo/a [Decreto-Lei n.º 194/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1978-297402), publicado em 1978-07-19."
+  },
+  "5f27067893dcfadc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSão revogados os artigos 49.º a 58.º e 69.º a 90.º do Código."
+  },
+  "56081767d7941a7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs penas aplicáveis por faltas disciplinares, qualquer que seja a qualidade do infractor, são as seguintes:\n\n1.º Admoestação;\n\n2.º Repreensão;\n\n3.º Multa correspondente à soldada de um a quinze dias, tratando-se de tripulante;\n\n4.º Multa de 300$00 a 10000$00, se o infractor não for tripulante."
+  },
+  "c454f6c46385b86d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. As penas dos n.os 1.º e 2.º serão aplicadas por faltas leves.\n\n2. A pena de multa será aplicada por faltas mais graves, devendo ser graduada conforme tenha havido intenção ou mera negligência.\n\n3. Na fixação ou graduação das penas serão tidas como agravantes a sucessão, a acumulação de infracções e a reincidência."
+  },
+  "e137af9e4a2f2130": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNão poderá ser aplicada qualquer pena sem audiência prévia do arguido, podendo este apresentar os meios de defesa que achar convenientes."
+  },
+  "dec76137922fd086": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1978-07-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 194/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1978-297402), publicado em 1978-07-19."
+   ],
+   "markdown": "###### Artigo 7.º\n\nDas penas aplicadas cabe recurso, nos termos gerais de direito.\n\n> Alterado pelo/a [Decreto-Lei n.º 194/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1978-297402), publicado em 1978-07-19."
+  },
+  "b61fb27282650cab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs importâncias provenientes da aplicação da pena de multa reverterão a favor do Fundo de Desemprego."
+  },
+  "6505f511b62e3be5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nMantêm-se em vigor as disposições do Código Penal e Disciplinar da Marinha Mercante em tudo aquilo que não seja contrariado pelo disposto neste diploma."
+  },
+  "ff0f4c0aad2bd72a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA competência dos tribunais marítimos em matéria penal mantém-se até à revisão do Código Penal e Disciplinar da Marinha Mercante."
+  },
+  "cfbccaff1b03377c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nEste diploma entra em vigor na data da publicação.\n\nVisto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - António Poppe Lopes Cardoso - Walter Ruivo Pinto Gomes Rosa - João Pedro Tomás Rosa.\n\nPromulgado em 22 de Novembro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}

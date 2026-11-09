@@ -1,0 +1,506 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1130121306:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2026-06-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3639c8491bfdfe50",
+    "0b9bac508a659f9c",
+    "1ad2ad957c78210d",
+    "fc0c7b5cb18c5206",
+    "81523ce6e7707ecf",
+    "a949b856c68e9a22",
+    "d170533ab23e321d",
+    "093eb8dde459433d",
+    "d950521fa908c20a",
+    "1dd372be84a41a0c",
+    "8caff686697cd76a",
+    "55cd42668614345b",
+    "fd92051a407929a7",
+    "5cacea131aa2d5da",
+    "6e2b4e9643df26e6",
+    "dc879d5dd0ffbc51",
+    "2d530347b888d77b",
+    "01d97615d29b0454",
+    "7466acdf766c01e4",
+    "c1cb0ca19681afc0",
+    "c913059c5c3ebf95",
+    "4c647885fcdd4fca",
+    "f0a3b825eb600459",
+    "a3cc109958d1e412",
+    "79cf4c2cde93964c",
+    "f1bbbb2359eafa2c",
+    "6d88fdc75402a918",
+    "36847b4d3c42bda1",
+    "5d748a0d0a4e31d0",
+    "bc8dc04a2da8a48c",
+    "da09ae65d1a2cca7",
+    "b5f19c779680d628",
+    "2da7e44d5ba75de3",
+    "db04b88d5f46f6f8",
+    "90b170a1e62c5523",
+    "08b0e8526b84be2b",
+    "d285f318f400a052",
+    "a0c0ba8a0cd64a4c",
+    "d642a0c841dbcc3d",
+    "7fce4e69a9355f81",
+    "a3c0d48963ac8886",
+    "54c7c6b5ab4caba2",
+    "f741a6df44689b77",
+    "e1e40c70656ca932",
+    "39613854958c36ed",
+    "bec3c05255dce362"
+   ]
+  },
+  {
+   "date": "2026-07-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1146287135:por",
+     "title": "Declaração de Retificação n.º 27/2026/1",
+     "published": "2026-07-13",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/27-2026-1146287135"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "3639c8491bfdfe50",
+    "0b9bac508a659f9c",
+    "1ad2ad957c78210d",
+    "fc0c7b5cb18c5206",
+    "81523ce6e7707ecf",
+    "a949b856c68e9a22",
+    "d170533ab23e321d",
+    "093eb8dde459433d",
+    "d950521fa908c20a",
+    "1dd372be84a41a0c",
+    "8caff686697cd76a",
+    "55cd42668614345b",
+    "fd92051a407929a7",
+    "5cacea131aa2d5da",
+    "6e2b4e9643df26e6",
+    "dc879d5dd0ffbc51",
+    "2d530347b888d77b",
+    "01d97615d29b0454",
+    "7466acdf766c01e4",
+    "c1cb0ca19681afc0",
+    "90a5de5a8cbc7642",
+    "4c647885fcdd4fca",
+    "f0a3b825eb600459",
+    "a3cc109958d1e412",
+    "79cf4c2cde93964c",
+    "f1bbbb2359eafa2c",
+    "6d88fdc75402a918",
+    "36847b4d3c42bda1",
+    "5d748a0d0a4e31d0",
+    "bc8dc04a2da8a48c",
+    "da09ae65d1a2cca7",
+    "b5f19c779680d628",
+    "2da7e44d5ba75de3",
+    "db04b88d5f46f6f8",
+    "90b170a1e62c5523",
+    "08b0e8526b84be2b",
+    "d285f318f400a052",
+    "a0c0ba8a0cd64a4c",
+    "d642a0c841dbcc3d",
+    "7fce4e69a9355f81",
+    "a3c0d48963ac8886",
+    "54c7c6b5ab4caba2",
+    "f741a6df44689b77",
+    "e1e40c70656ca932",
+    "39613854958c36ed",
+    "bec3c05255dce362"
+   ]
+  }
+ ],
+ "fragments": {
+  "3639c8491bfdfe50": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de junho\n\nO setor automóvel assiste a uma revolução tecnológica associada à automação e os seus benefícios já se fazem sentir na economia nacional. Os sistemas de apoio à condução, muitos dos quais já introduzidos no mercado, têm contribuído para a redução progressiva do número de acidentes.\n\nCom o propósito de estudar as alterações legislativas necessárias à introdução das novas tecnologias ligadas à condução autónoma no setor automóvel, designadamente a execução de testes de circulação de veículos devidamente equipados, foi criado, por [Despacho n.º 2930/2019](https://diariodarepublica.pt/dr/detalhe/despacho/2930-2019-121246157), publicado no Diário da República, 2.ª série, n.º 55, de 19 de março, um grupo de trabalho com essa missão.\n\nNum futuro próximo, os veículos serão capazes de interagir diretamente uns com os outros ou com a infraestrutura rodoviária. Esta interação corresponde ao domínio dos Sistemas Cooperativos de Transporte Inteligentes que permitirão aos utilizadores e aos gestores de via partilhar e utilizar informações que não se encontravam anteriormente disponíveis e coordenar as suas ações. Este elemento de cooperação - viabilizado pela conectividade digital - melhorará significativamente a segurança rodoviária, a eficiência da gestão da mobilidade e o conforto da condução, ao ajudar o condutor a tomar as decisões corretas e a adaptar as suas escolhas e o seu comportamento à situação do tráfego.\n\nOs serviços de comunicação entre veículos (V2V), entre veículos e a infraestrutura de transporte (V2I) ou entre veículos e outros pontos de conexão (V2X), associados à sensorização e à georreferenciação dos sistemas, ao machine learning e à transição para a mobilidade elétrica, são igualmente cruciais para promover a segurança dos veículos automatizados e a sua plena integração no sistema de transportes geral, assim como contribuirão para a descarbonização do setor dos transportes através da redução de emissões de gases com efeito de estufa e do congestionamento. Sistemas cooperativos, conectados e automatizados, bem como as tecnologias associadas, deverão ser vistos não numa perspetiva isolada, mas sim numa perspetiva de complementaridade, cuja integração incremental levará, a seu tempo, a uma total fusão integrada dos vários sistemas, com rumo à adoção de uma mobilidade inteligente nas nossas infraestruturas.\n\nA condução autónoma irá permitir a democratização da mobilidade, promovendo a inclusão de cidadãos impossibilitados de conduzir, por limitações de ordem física ou de outra natureza. Além disso, possibilitará novas e diferentes soluções de mobilidade individual e coletiva, contribuindo para a otimização do parque automóvel e para a redução de deseconomias inerentes ao atual paradigma de mobilidade assente no veículo de propriedade e uso individuais.\n\nOs ensaios tecnológicos realizados por laboratórios de investigação, instituições de ensino superior e empresas dos setores automóvel, das infraestruturas e dos transportes são determinantes para avaliar a maturidade e a adequação das soluções técnicas adotadas. A experiência assim obtida é essencial para adequar a legislação às novas realidades. A realização de testes respeitantes ao funcionamento de sistemas automáticos de condução e de sistemas de conectividade pode criar condições favoráveis à atração de investimento estrangeiro, e criar oportunidades para as empresas e instituições de ensino superior portuguesas, permitindo-lhes dinamizar e aprofundar competências no setor, acrescentar valor e reforçar a imagem de Portugal como um país na vanguarda da evolução tecnológica.\n\nO presente decreto-lei concretiza a ambição exposta no Programa do XXV Governo de fazer uma aposta na educação, na ciência, na economia, na tecnologia e na cultura, ao estimular a criatividade e o empreendedorismo, valorizando o tecido produtivo nacional e reforçando a capacidade exportadora e a sua integração nas cadeias de valor globais. Na mesma linha, no setor da mobilidade, o Governo pretende incentivar a implementação de sistemas de transporte inteligentes e cooperativos. Neste sentido, é fundamental a criação de um quadro legal e regulatório que promova e facilite a realização de testes a tecnologias, serviços, produtos e processos inovadores. Esse quadro legal contribuirá para a aceleração dos processos de investigação, demonstração e realização de testes e, consequentemente, da competitividade e atratividade do país para o investimento estrangeiro em projetos de investigação e inovação, bem como para a transição de novos produtos e serviços para o mercado e a sua regulação adequada.\n\nMostra-se, assim, oportuno estabelecer o regime jurídico do licenciamento de testes na via pública com vista à introdução das novas tecnologias ligadas à condução autónoma, orientado para testes por períodos mais longos e sem tipificação das vias ou troços de vias onde estes são realizados. No presente decreto-lei definem-se os requisitos relativos aos condutores, aos operadores, aos veículos, ao sistema de registo de dados relevantes e à obrigação de seguro.\n\nAtenta a matéria ora regulada, considerou-se necessário proceder à ampliação do valor de cobertura do seguro obrigatório de responsabilidade civil automóvel. Como meio de garantia da segurança da realização dos testes, prevê-se, ainda, a obrigatoriedade de apresentação de um plano de fixação de condições de risco mínimo no âmbito de um plano de segurança no qual se evidencie, designadamente, que foram tomadas todas as medidas de cibersegurança para evitar o acesso indevido aos sistemas do veículo.\n\nPrevê-se, ainda, a obrigatoriedade de comunicação prévia da realização dos testes de conectividade e a obrigação de apresentação do relatório de testes do qual deve constar, entre outros elementos, a descrição de qualquer acidente, incidente grave ou incidente ocorrido no decurso da sua realização. Admite-se também que os sistemas automáticos de condução e demais sistemas do veículo que se pretendem testar possam ter sido alvo de um programa de testes fora da via pública que assegure o adequado funcionamento dos mesmos em condições de segurança. Por fim, institui-se o princípio de autocertificação do cumprimento dos requisitos legais, mediante declaração de conformidade com as exigências estabelecidas no presente decreto-lei, por parte da entidade que requereu o licenciamento para o teste, com a correspondente responsabilização pelo incumprimento daqueles.\n\nForam ouvidos os órgãos de governo próprio das regiões autónomas, a Associação Nacional de Municípios Portugueses, a Associação Automóvel de Portugal e a Comissão Nacional de Proteção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "0b9bac508a659f9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — DISPOSIÇÕES GERAIS"
+  },
+  "1ad2ad957c78210d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime jurídico do licenciamento de testes de sistemas automáticos de condução, instalados em veículos não homologados, ou cuja instalação é posterior à homologação do veículo, e o procedimento aplicável à realização de testes de sistemas de conectividade."
+  },
+  "fc0c7b5cb18c5206": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO disposto no presente decreto-lei é aplicável à realização de testes de sistemas automáticos de condução e de sistemas de conectividade nas vias do domínio público do Estado, das regiões autónomas e das autarquias locais ou em vias do domínio privado quando abertas ao trânsito público."
+  },
+  "81523ce6e7707ecf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente decreto-lei e respetiva regulamentação, entende-se por:\n\na) «Acidente», toda a ocorrência que envolva pelo menos um veículo em movimento e, em consequência da qual, se verifiquem danos físicos ou materiais, designadamente atropelamento ou colisão com outro veículo, com a infraestrutura, com a sinalização ou com qualquer outro elemento do ambiente rodoviário.\n\nb) «Condutor», a pessoa que exerce o controlo dinâmico do veículo em sistemas automáticos de condução de automação condicional, ainda que estes sistemas se encontrem ativos, bem como em sistemas automáticos de condução de elevada automação a operar fora do domínio operacional de conceção.\n\nc) «Controlo dinâmico», a realização das funções operacionais e estratégicas, em tempo real, necessárias para movimentar o veículo, incluindo o controlo do seu movimento lateral e longitudinal, a monitorização do ambiente rodoviário, a resposta a eventos no ambiente rodoviário e o planeamento e sinalização de manobras;\n\nd) «Controlo estratégico», a determinação do início e fim da marcha, do destino e, eventualmente, do trajeto do veículo, sem que haja intervenção no seu controlo dinâmico;\n\ne) «Domínio operacional de conceção (DOC)», as condições ambientais, geográficas, meteorológicas, de luminosidade, de trânsito, da infraestrutura ou outras sob as quais um sistema automático de condução é concebido para operar;\n\nf) «Incidente», qualquer ocorrência durante os testes que constitua uma desconformidade ou desadequação no funcionamento do sistema automático de condução, que não importe risco para a segurança rodoviária;\n\ng) «Incidente grave», qualquer ocorrência durante os testes que culmine em despiste ou no desrespeito das regras de circulação que constitua risco para a segurança física do condutor ou operador ou dos restantes utentes da via pública, nomeadamente a circulação em sentido oposto ao legalmente estabelecido;\n\nh) «Operador», a pessoa que exerce o controlo estratégico do veículo em sistemas de elevada automação ou automação total;\n\ni) «Requerente», a pessoa individual ou coletiva, pública ou privada, que apresenta um pedido de licenciamento, na qualidade de fabricante dos veículos ou dos sistemas a testar ou, quando estes sejam fabricados por entidades distintas, na qualidade de entidade que atua em representação dos respetivos fabricantes;\n\nj) «Sistemas avançados de auxílio à condução (SAAC)», os sistemas desenvolvidos para apoiar os condutores e melhorar a segurança rodoviária através de suporte de informação, incluindo avisos em situações críticas de segurança, auxiliando na execução do controlo lateral ou longitudinal do veículo temporariamente ou de forma sustentada durante a condução normal, sem assumirem esse controlo dinâmico do veículo, e evitando colisões ou mitigando a gravidade da colisão em situações críticas;\n\nk) «Sistema automático de condução (SAC)», o sistema ou conjunto de sistemas do veículo que utiliza hardware e software para exercer o seu controlo dinâmico, incluindo, para efeitos dos testes realizados ao abrigo do presente decreto-lei, os sistemas avançados de auxílio à condução;\n\nl) «Sistema automático de condução de automação condicional», o sistema automático de condução que opera dentro de um DOC específico e limitado e que assume todos os aspetos do controlo dinâmico do veículo, necessitando de supervisão de um condutor que pode, a qualquer momento ou por solicitação do sistema, assumir o seu controlo dinâmico;\n\nm) «Sistema automático de condução de automação total», o sistema automático de condução que opera sem limitações de DOC para algumas ou todas as deslocações, sem a necessidade de intervenção humana para garantir a segurança rodoviária;\n\nn) «Sistema automático de condução de elevada automação», o sistema automático de condução que opera dentro de um DOC específico para algumas ou todas as deslocações, sem a necessidade de intervenção humana como substituta para garantir a segurança rodoviária;\n\no) «Sistemas de conectividade», os sistemas de comunicação entre veículos (V2V), entre veículos e a infraestrutura de transporte (V2I) ou entre veículos e outros pontos de conexão (V2X);\n\np) «Veículo não homologado», veículo que não dispõe de homologação europeia, mas para o qual o fabricante evidencia, à data do pedido de licenciamento, que o mesmo respeita todos os atos regulamentares aplicáveis à categoria em causa, com exceção dos que se referem às novas tecnologias a serem objeto de ensaio."
+  },
+  "a949b856c68e9a22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dados pessoais\n\n1 - O tratamento dos dados pessoais para efeitos do presente decreto-lei observa a legislação aplicável em matéria de proteção de dados pessoais e em matéria de proteção da privacidade no setor das comunicações eletrónicas.\n\n2 - Os dados pessoais devem ser conservados até ao decurso do prazo de prescrição dos procedimentos contraordenacionais aplicáveis.\n\n3 - Os dados pessoais são utilizados exclusivamente para efeitos de licenciamento da atividade e para recolha de elementos de prova das contraordenações rodoviárias e previstas no presente decreto-lei.\n\n4 - No âmbito dos procedimentos administrativos abrangidos pelo presente decreto-lei é obrigatória a identificação da entidade responsável pela partilha de dados, estando esta sujeita ao dever de sigilo e confidencialidade dos dados pessoais recolhidos."
+  },
+  "d170533ab23e321d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — PRINCÍPIOS E REGRAS GERAIS PARA A REALIZAÇÃO DE TESTES DE SISTEMAS AUTOMÁTICOS DE CONDUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — PRINCÍPIOS E REGRAS GERAIS PARA A REALIZAÇÃO DE TESTES DE SISTEMAS AUTOMÁTICOS DE CONDUÇÃO"
+  },
+  "093eb8dde459433d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Licenciamento\n\n1 - A realização de testes de SAC está sujeita a licença, nos termos do presente decreto-lei, e a sua emissão depende da verificação cumulativa dos seguintes requisitos:\n\na) Respeito pelos princípios e regras de atuação dos SAC previstos no artigo seguinte;\n\nb) Detenção, pelos condutores e operadores, de habilitação legal adequada para conduzir e cumprimento dos demais deveres e obrigações previstas no presente decreto-lei;\n\nc) Realização dos testes em vias ou troços de via qualificados como aptos para esse fim;\n\nd) Obrigatoriedade de seguro de responsabilidade civil, nos termos do artigo 11.º e do regime do sistema do seguro obrigatório de responsabilidade civil automóvel;\n\ne) Elaboração de um plano de segurança específico, nos termos do artigo 12.º;\n\nf) Provimento dos veículos com um sistema de registo de dados, nos termos do artigo 13.º;\n\ng) Não transportar mercadorias perigosas, nos termos do [Decreto-Lei n.º 150/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2015-69951097), de 5 de agosto.\n\n2 - São reconhecidas as licenças para a realização de testes de SAC emitidas por outros Estados, nos termos estabelecidos no presente decreto-lei.\n\n3 - Os requerentes devem cooperar com as autoridades licenciadoras para eliminar os riscos potenciais dos veículos."
+  },
+  "d950521fa908c20a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Princípios e regras de atuação dos sistemas automáticos de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Princípios e regras de atuação dos sistemas automáticos de condução\n\n1 - A atuação dos SAC obedece aos seguintes princípios e regras:\n\na) Assumir a segurança rodoviária como prioridade absoluta;\n\nb) Monitorizar e interagir de forma segura com o ambiente rodoviário circundante;\n\nc) Reconhecer os erros dos utilizadores dos veículos e dos outros utentes da via pública e minimizar os seus efeitos potenciais;\n\nd) Cumprir as regras e sinais de trânsito, bem como cumprir as ordens das entidades fiscalizadoras e reguladoras do trânsito;\n\ne) Operar exclusivamente dentro do seu DOC;\n\nf) Notificar de forma clara e eficaz o condutor ou operador se o veículo sair do DOC;\n\ng) Maximizar a segurança rodoviária em caso de falha do SAC ou de outro sistema do veículo;\n\nh) Possibilitar que o condutor ou operador verifique se o SAC está a realizar o controlo dinâmico do veículo;\n\ni) Fornecer aos condutores, operadores e aos outros utentes da via pública informação clara, eficaz e consistente sobre o movimento do veículo, possibilitando uma interação apropriada;\n\nj) Minimizar o perigo para os condutores, operadores, passageiros e demais utentes da via pública quando ocorram situações imprevistas;\n\nk) Permitir a sua desativação de forma evidente, rápida e segura;\n\nl) Prever uma supervisão humana permanente, que pode ser remota.\n\n2 - Os veículos cujos sistemas sejam testados ao abrigo do presente decreto-lei:\n\na) Devem ter um condutor ou um operador apto a intervir e a sobrepor os seus comandos aos do SAC sempre que tal se revele necessário para garantir o respeito pelo disposto no número anterior;\n\nb) Não devem incorporar estratégias ou outros meios que alterem o desempenho apresentado durante os procedimentos de ensaio, bem como nos testes, de forma a prejudicar o cumprimento do disposto no presente decreto-lei."
+  },
+  "1dd372be84a41a0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Habilitação legal para conduzir",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Habilitação legal para conduzir\n\n1 - O condutor e o operador devem ter, há pelo menos seis anos, habilitação legal para conduzir a classe, tipo e categoria de veículo cujos sistemas estejam em teste ou, tratando-se de veículo não homologado ou não subsumível a uma classe, tipo ou categoria previamente definida, à classe, tipo e categoria de veículo cujas características mais se aproximem do veículo cujos sistemas estejam em teste.\n\n2 - O condutor e o operador não podem ter averbado no seu registo individual do condutor a prática de qualquer crime ou contraordenação, nos últimos cinco anos."
+  },
+  "8caff686697cd76a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Deveres do condutor e do operador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres do condutor e do operador\n\n1 - O condutor deve garantir que a circulação do veículo é feita em segurança e em cumprimento das disposições legais aplicáveis, devendo sobrepor os seus comandos aos do SAC sempre que tal se revele necessário para assegurar o respeito pelo disposto no n.º 1 do artigo 6.º\n\n2 - O operador deve assegurar que a circulação do veículo é feita em cumprimento das regras e sinais de trânsito, ainda que o controlo dinâmico do veículo esteja temporariamente a cargo do SAC.\n\n3 - O condutor e o operador devem abster-se da prática de atos que, durante a condução ou operação de veículo cujos sistemas estejam em teste, possam reduzir a sua atenção e comprometer a segurança do trânsito."
+  },
+  "55cd42668614345b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Exercício de funções sob influência de álcool ou de substâncias psicotrópicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exercício de funções sob influência de álcool ou de substâncias psicotrópicas\n\n1 - O condutor e o operador não podem exercer as respetivas funções sob influência de álcool ou substâncias psicotrópicas, sendo aplicável o disposto no artigo 81.º do Código da Estrada.\n\n2 - Os limites de 0,5 g/l e 0,8 g/l de taxa de álcool no sangue estabelecidos no n.º 6 do artigo 81.º do Código da Estrada são reduzidos, respetivamente, para 0,2 g/l e 0,5 g/l para o condutor de veículo em testes ou para o operador com funções de supervisão da atuação do SAC, sendo a violação destes limites punida nos termos do Código da Estrada e legislação complementar.\n\n3 - No caso previsto no número anterior, o órgão do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), que tenha sido responsável pela direção do procedimento notifica, por via eletrónica, a entidade licenciada para, no prazo de 10 dias, indicar novo condutor ou operador."
+  },
+  "fd92051a407929a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Limites diários para o exercício de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Limites diários para o exercício de funções\n\nO condutor e o operador não podem exercer as respetivas funções por períodos com duração superior a três horas, devendo existir um intervalo de descanso entre períodos de trabalho não inferior a uma hora."
+  },
+  "5cacea131aa2d5da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Obrigação de seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigação de seguro\n\n1 - A circulação de veículos em testes de SAC deve encontrar-se coberta por um seguro que garanta a reparação de danos corporais ou materiais causados a terceiros pelos veículos em causa, nos termos do regime do sistema do seguro obrigatório de responsabilidade civil automóvel.\n\n2 - O capital mínimo obrigatoriamente seguro é o quádruplo do valor previsto para o seguro obrigatório de responsabilidade civil automóvel.\n\n3 - A entidade licenciada deve garantir a vigência do contrato de seguro durante a totalidade do período licenciado para a realização dos testes."
+  },
+  "6e2b4e9643df26e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Plano de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Plano de segurança\n\nO plano de segurança dos testes a licenciar deve incluir:\n\na) Os riscos relativos aos utentes da via, nomeadamente os utilizadores vulneráveis;\n\nb) A integridade do SAC contra a intervenção ilegítima de terceiros, incluindo a sua cibersegurança;\n\nc) Os riscos para a infraestrutura rodoviária e demais áreas integradas na zona de jurisdição rodoviária;\n\nd) Os riscos relativos ao processo de transição do controlo dinâmico do veículo com SAC para o condutor;\n\ne) Os riscos relativos à aptidão para o cumprimento dos deveres impostos ao condutor e ao operador;\n\nf) A formação teórica e prática adequada ao condutor e ao operador para operarem o SAC, darem resposta a qualquer problema de segurança e assumirem o controlo dinâmico do veículo em caso de necessidade;\n\ng) A identificação visual do veículo em teste de SAC como sendo um veículo em testes de condução autónoma, se tal se revelar necessário ou conveniente face à análise de risco efetuada;\n\nh) A adoção de condição de risco mínimo face à eventualidade de uma falha do SAC;\n\ni) A demonstração da redundância no registo e gravação de dados do teste."
+  },
+  "dc879d5dd0ffbc51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Sistema de registo de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sistema de registo de dados\n\n1 - Os veículos utilizados nos testes de SAC devem possuir um sistema de registo de dados, com gravação a 10Hz no mínimo, que permita obter a seguinte informação:\n\na) As características do sistema automático, nomeadamente a versão de software e as especificações de hardware;\n\nb) Os momentos em que o veículo é acionado e desligado;\n\nc) A identificação de quem exerce o controlo dinâmico do veículo a todo o tempo;\n\nd) A identificação da posição relativa do veículo durante o período de testes (georreferenciação);\n\ne) A aceleração e desaceleração longitudinal relativa à direção do veículo;\n\nf) A aceleração lateral, quando esta se verifique;\n\ng) A aceleração vertical com vista à deteção de, designadamente, subidas de passeios, ilhéus direcionais, placas e dispositivos semelhantes;\n\nh) A velocidade do veículo;\n\ni) O funcionamento dos comandos de direção e de travagem do veículo;\n\nj) O funcionamento dos sistemas de iluminação e de sinalização luminosa;\n\nk) O funcionamento do sistema de sinalização sonora;\n\nl) A conectividade, a sua latência e acesso a redes;\n\nm) Qualquer intervenção feita pelo condutor ou pelo operador e o momento da realização da mesma;\n\nn) Quaisquer ordens remotas dadas ao veículo que afetem o seu desempenho;\n\no) Os dados provenientes dos sensores de proximidade, ou outros, relativos à proximidade de objetos e de outros utentes da via;\n\np) Os dados resultantes das comunicações V2V, V2I e V2X;\n\nq) As condições de trânsito e da via, designadamente intensidade de tráfego e condições atmosféricas.\n\n2 - Os elementos de prova obtidos através do sistema de registo de dados fazem fé em processo contraordenacional, até prova em contrário."
+  },
+  "2d530347b888d77b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — PROCEDIMENTOS DE LICENCIAMENTO E DE RECONHECIMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — PROCEDIMENTOS DE LICENCIAMENTO E DE RECONHECIMENTO"
+  },
+  "01d97615d29b0454": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — PROCEDIMENTO DE LICENCIAMENTO DE TESTES DE SISTEMAS AUTOMÁTICOS DE CONDUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — PROCEDIMENTO DE LICENCIAMENTO DE TESTES DE SISTEMAS AUTOMÁTICOS DE CONDUÇÃO"
+  },
+  "7466acdf766c01e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Desmaterialização dos procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Desmaterialização dos procedimentos\n\n1 - Nos procedimentos de licenciamento devem ser utilizados mecanismos de autenticação segura, incluindo os do cartão de cidadão e chave móvel digital, com possibilidade de recurso ao sistema de certificação de atributos profissionais (SCAP), bem como outros meios de identificação eletrónica emitidos noutros Estados-Membros reconhecidos para o efeito nos termos do artigo 6.º do [Regulamento (UE) n.º 910/2014](https://data.europa.eu/eli/reg/2014/910/oj?locale=pt) do Parlamento Europeu e do Conselho.\n\n2 - Os documentos submetidos pelas entidades requerentes devem ser assinados com recurso a assinaturas eletrónicas qualificadas, incluindo as do cartão de cidadão e chave móvel digital, com possibilidade de recurso ao SCAP.\n\n3 - As entidades requerentes são dispensadas da apresentação de documentos que já se encontrem na posse de serviços e entidades da Administração Pública, quando derem o seu consentimento para que se proceda à sua obtenção, utilizando a plataforma de interoperabilidade da Administração Pública ou recorrendo ao mecanismo previsto no n.º 2 do artigo 4.º-A da [Lei n.º 37/2014](https://diariodarepublica.pt/dr/detalhe/lei/37-2014-25345579), de 26 de junho.\n\n4 - As notificações aos requerentes são realizadas por carta registada ou pessoalmente, ou, mediante consentimento prévio, por correio eletrónico para o endereço digital indicado pelo requerente, e ainda, cumulativamente, através do serviço público de notificações eletrónicas (SPNE), sempre que se verifique que o notificando a ele tenha aderido, nos termos do [Decreto-Lei n.º 93/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), de 1 de agosto.\n\n5 - A notificação postal presume-se feita no terceiro dia útil posterior ao do registo.\n\n6 - A notificação por via eletrónica presume-se feita no terceiro dia útil posterior ao do envio, salvo quando tenha sido realizada através do SPNE, caso em que se aplica o disposto no artigo 8.º do [Decreto-Lei n.º 93/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2017-107791615), de 1 de agosto."
+  },
+  "c1cb0ca19681afc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Procedimento\n\n1 - O procedimento de licenciamento de testes de SAC rege-se pelo disposto no presente decreto-lei.\n\n2 - O requerente deve demonstrar a segurança dos testes cujo licenciamento é requerido."
+  },
+  "c913059c5c3ebf95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Instrução do pedido de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Instrução do pedido de licenciamento\n\n1 - O pedido de licenciamento efetua-se mediante requerimento dirigido ao presidente do conselho diretivo do IMT, I. P., por via eletrónica.\n\n2 - Do requerimento referido no número anterior deve constar a seguinte informação:\n\na) A identificação da entidade requerente, com indicação da residência ou sede e do número de identificação fiscal;\n\nb) A identificação da tipologia de sistemas a testar, respetiva funcionalidade e descrição das alterações efetuadas aos veículos, quando aplicável;\n\nc) A identificação dos condutores e operadores dos veículos cujos sistemas se pretendam testar, com a respetiva planificação diária, e a indicação dos elementos relativos à respetiva habilitação legal para conduzir;\n\nd) A identificação completa dos veículos cujos sistemas se pretendam testar, através da matrícula, número de homologação e número de quadro, tratando-se de veículos homologados e matriculados;\n\ne) A planificação geográfica e temporal da realização dos testes por veículo;\n\nf) A planificação diária e horária dos testes a realizar por veículo.\n\n3 - O requerimento deve ser acompanhado, relativamente a cada veículo, dos seguintes documentos:\n\na) Cópia do certificado de matrícula do veículo, ou documento equivalente para os veículos de matrícula estrangeira, caso exista;\n\nb) Cópia da ficha de inspeção periódica obrigatória do veículo de matrícula estrangeira, se aplicável;\n\nc) Cópia do certificado internacional de seguro ou de documento equivalente, nos termos do regime do sistema do seguro obrigatório de responsabilidade civil automóvel, de acordo com o estabelecido no artigo 11.º;\n\nd) Declaração da empresa de seguros, com identificação dos sistemas a testar, confirmando que o seguro de responsabilidade civil automóvel, com o capital mínimo definido no n.º 2 do artigo 11.º, cobre os danos corporais ou materiais que possam ser causados pelo veículo no âmbito dos testes a realizar;\n\ne) Declaração de autocertificação;\n\nf) Relatório referido no n.º 2 do artigo 22.º, incluindo, para cada sistema a testar, a identificação das suas capacidades e limitações, objetivos e resultados esperados;\n\ng) Plano de segurança referido no artigo 12.º;\n\nh) Certificado de registo individual do condutor relativo aos condutores e operadores do veículo.\n\n4 - Em situações devidamente fundamentadas, sempre que se verifique um impedimento relativo a condutores ou operadores identificados nos termos da alínea c) do n.º 2, pode a entidade requerente ou licenciada solicitar a substituição dos mesmos, através de requerimento dirigido ao presidente do conselho diretivo do IMT, I. P., por via eletrónica.\n\n5 - Nos casos previstos no número anterior e tendo sido emitida a licença para a realização de testes de SAC, compete ao presidente do conselho diretivo do IMT, I. P., decidir sobre a substituição dos condutores ou dos operadores.\n\n6 - O requerimento referido no n.º 4 é deferido caso o condutor ou operador substituto observe os requisitos previstos no presente decreto-lei."
+  },
+  "4c647885fcdd4fca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competência\n\n1 - A licença é emitida, através de conferência deliberativa, pelas seguintes entidades:\n\na) IMT, I. P.;\n\nb) Autoridade Nacional de Segurança Rodoviária (ANSR);\n\nc) Guarda Nacional Republicana (GNR), no caso de ser a força de segurança territorialmente competente;\n\nd) Polícia de Segurança Pública (PSP), no caso de ser a força de segurança territorialmente competente;\n\ne) Infraestruturas de Portugal, I. P., enquanto Administração Rodoviária.\n\n2 - A conferência deliberativa, realizada nos termos previstos nos artigos 77.º e seguintes do Código do Procedimento Administrativo, é presidida pelo presidente do conselho diretivo do IMT, I. P., com faculdade de delegação em algum dos seus vogais.\n\n3 - A prorrogação prevista no n.º 1 do artigo 81.º do Código do Procedimento Administrativo pode ser efetuada, com a concordância da entidade requerente, por períodos sucessivos até ao limite de um ano."
+  },
+  "f0a3b825eb600459": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Análise do pedido, emissão e conteúdo da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Análise do pedido, emissão e conteúdo da licença\n\n1 - Após a receção do pedido de licenciamento, o presidente do conselho diretivo do IMT, I. P., convoca a conferência deliberativa.\n\n2 - Por decisão do presidente do conselho diretivo do IMT, I. P., devidamente fundamentada, a emissão da licença pode ser antecedida das seguintes formalidades:\n\na) Certificação, por empresa certificada, dos planos de segurança e de cibersegurança;\n\nb) Demonstração do funcionamento do veículo cujos sistemas se pretendam testar, em local segregado e não considerado via pública, perante entidade a designar;\n\nc) Demonstração das aptidões dos condutores e operadores para a condução dos testes, perante entidade a designar;\n\nd) Reformulação do plano de testes e do plano de segurança;\n\ne) Obtenção de pareceres prévios favoráveis das entidades gestoras das vias onde decorrem os testes.\n\n3 - A emissão da licença para a realização de testes de SAC que decorram total ou parcialmente em vias sob jurisdição municipal é antecedida de parecer vinculativo do respetivo município.\n\n4 - O IMT, I. P., comunica imediatamente a emissão e o conteúdo da licença à ANSR, às entidades gestoras das vias e às forças de segurança territorialmente competentes, por via eletrónica, remetendo cópia do processo.\n\n5 - A emissão da licença está sujeita ao pagamento de uma taxa e à prestação de caução, cujos regimes e montantes são fixados por portaria nos termos do artigo 32.º\n\n6 - Da licença fazem parte integrante a identificação dos veículos e dos respetivos condutores ou operadores, a declaração de autocertificação, a tipologia dos sistemas a testar, o plano de segurança dos testes, a planificação diária e horária dos mesmos e a identificação das vias ou troços de via nas quais foi licenciada a realização dos testes.\n\n7 - Em casos devidamente fundamentados, a licença pode determinar:\n\na) Que os testes de SAC são limitados geográfica e temporalmente, consoante o tipo de veículo em causa, designadamente para veículos não homologados;\n\nb) A obrigação de acompanhamento policial ou de outra entidade pública durante toda ou parte da fase de testes;\n\nc) A segregação parcial das vias ou troços de via onde os testes são efetuados;\n\nd) A limitação da velocidade praticada durante os testes;\n\ne) A apresentação dos relatórios de ocorrências com periodicidade diferente da prevista no n.º 6 do artigo 20.º\n\n8 - Os encargos, diretos ou indiretos, associados à realização dos testes de SAC que decorram das obrigações referidas no número anterior são da responsabilidade da entidade licenciada."
+  },
+  "a3cc109958d1e412": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — PROCEDIMENTO DE RECONHECIMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — PROCEDIMENTO DE RECONHECIMENTO"
+  },
+  "79cf4c2cde93964c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Reconhecimento de licenciamento estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reconhecimento de licenciamento estrangeiro\n\n1 - Sem prejuízo dos regimes previstos em acordos mútuos de reconhecimento celebrados pelo Estado português, as licenças para a realização de testes de SAC emitidas por Estado estrangeiro podem ser objeto de reconhecimento.\n\n2 - Para efeitos do número anterior, o pedido de reconhecimento é formulado mediante requerimento dirigido ao presidente do conselho diretivo do IMT, I. P., por via eletrónica.\n\n3 - Após a receção do pedido de reconhecimento, o IMT, I. P., solicita, à entidade gestora da via, a confirmação de que os locais onde se pretende realizar os testes podem ser utilizados, nos dias e horas pretendidos, devendo aquela responder no prazo de 10 dias úteis a contar da data de receção do pedido.\n\n4 - O IMT, I. P., reconhece a licença emitida por Estado estrangeiro, no prazo de 45 dias, contados da data da receção do pedido, o qual contém os termos e as condições da realização dos testes, devendo referir expressamente que o reconhecimento é emitido ao abrigo de acordo mútuo com Estado estrangeiro, se aplicável.\n\n5 - O IMT, I. P., comunica imediatamente o reconhecimento da licença emitida por Estado estrangeiro à ANSR, às entidades gestoras das vias e às forças de segurança dos locais onde se realizam os testes, por via eletrónica, remetendo cópia do processo e dando conhecimento das condições, locais e programação diária e horária da realização dos testes.\n\n6 - Aos testes de SAC realizados ao abrigo de reconhecimento, nos termos do número anterior, é aplicável o disposto no presente decreto-lei em tudo o que não se encontra previsto no acordo mútuo de reconhecimento."
+  },
+  "f1bbbb2359eafa2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — REALIZAÇÃO DE TESTES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — REALIZAÇÃO DE TESTES"
+  },
+  "6d88fdc75402a918": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Testes de sistemas automáticos de condução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Testes de sistemas automáticos de condução\n\n1 - A realização de testes de SAC deve observar o estabelecido na licença ou na decisão de reconhecimento de licença emitida por Estado estrangeiro, consoante o caso.\n\n2 - A entidade licenciada deve assegurar que o condutor ou operador do veículo cujos sistemas estejam em teste tenha em sua posse cópia autenticada da licença, com todos os documentos que dela fazem parte integrante, e de que a mesma é apresentada à entidade fiscalizadora quando solicitada.\n\n3 - Na circulação dos veículos cujos sistemas estejam em teste, os limites gerais de velocidade constantes no n.º 1 do artigo 27.º do Código da Estrada, bem como os limites de velocidade impostos por sinalização nos termos do disposto na alínea b) do n.º 1 do artigo 28.º do Código da Estrada, são reduzidos em 20 km/h, cuja infração é punida nos termos do Código da Estrada.\n\n4 - A redução constante do número anterior não pode importar um limite máximo de velocidade autorizada inferior a 20 km/h.\n\n5 - A redução referida no n.º 3 pode ser dispensada, em casos devidamente fundamentados, devendo essa dispensa constar na licença.\n\n6 - A entidade licenciada remete ao IMT, I. P., no prazo de 10 dias após a conclusão do período de testes, ou mensalmente caso o período de testes seja superior a um mês, um relatório relativo às seguintes ocorrências:\n\na) Acidentes, incidentes graves ou incidentes evitados pelo SAC;\n\nb) Intervenção não programada do condutor ou do operador com vista a evitar um acidente ou incidente grave;\n\nc) Queixas dos demais utentes da via relativamente ao comportamento do veículo em testes.\n\n7 - Os dados referidos no número anterior e os dados previstos no artigo 13.º que com aqueles se relacionem devem ser:\n\na) Conservados até ao decurso do prazo de prescrição dos procedimentos contraordenacionais aplicáveis, exceto se, no período de testes, ocorrer um acidente ou um incidente grave que implique responsabilidade penal, caso em que devem ser conservados até ao final do respetivo processo;\n\nb) Facultados, em ficheiro ou relatório, às entidades com competência de fiscalização sempre que sejam solicitados e nos termos em que o forem;\n\nc) Remetidos à entidade licenciadora em formatos abertos legíveis por máquina."
+  },
+  "36847b4d3c42bda1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Testes de sistemas de conectividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Testes de sistemas de conectividade\n\n1 - A realização de testes de sistemas de conectividade está sujeita a comunicação prévia dirigida pela entidade promotora ao IMT, I. P., da qual se dá conhecimento dos locais previstos para a realização dos testes, da sua duração e da identificação dos veículos, condutores e operadores de comunicações envolvidos nos mesmos.\n\n2 - Os veículos utilizados nos testes referidos no número anterior devem encontrar-se homologados e matriculados nos termos do Código da Estrada, cuja infração é punida nos termos do referido Código.\n\n3 - Os veículos utilizados em testes de sistemas de conectividade devem ter um condutor encarregue do controlo dinâmico do veículo e um operador de comunicações responsável pela monitorização e o funcionamento das comunicações.\n\n4 - A realização dos testes de sistemas de conectividade deve ser precedida de informação ao IMT, I. P., e às forças de segurança com competência territorial na área onde se pretenda que os testes se realizem, com antecedência não inferior a 15 dias.\n\n5 - No prazo de 30 dias após o fim dos testes, a entidade que os realiza remete à ANSR e ao IMT, I. P., um relatório do qual consta a identificação dos sistemas e tecnologias utilizados na conexão, os erros ocorridos e o impacto dos mesmos na segurança rodoviária, bem como o resultado dos testes."
+  },
+  "5d748a0d0a4e31d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Acidente ou incidente grave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Acidente ou incidente grave\n\n1 - Em caso de ocorrência de acidente ou incidente grave no decurso dos testes, o condutor ou o operador do veículo deve solicitar, de imediato, a presença no local de forças de segurança, ficando impedido de prosseguir a marcha do veículo, exceto para cumprimento do disposto no n.º 1 do artigo 87.º do Código da Estrada.\n\n2 - Na situação prevista no número anterior, a entidade licenciada remete ao IMT, I. P., e à respetiva entidade gestora da via, no prazo de 24 horas, um relatório com a seguinte informação:\n\na) A data, hora e localização da ocorrência;\n\nb) O exercício do controlo dinâmico do veículo;\n\nc) As condições de trânsito e da via;\n\nd) O desempenho do veículo, nomeadamente a aceleração positiva e negativa e a deslocação lateral;\n\ne) Os sensores de proximidade e itens detetados;\n\nf) As comunicações V2V, V2I e V2X registadas;\n\ng) A identificação do condutor ou do operador."
+  },
+  "bc8dc04a2da8a48c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — SUSPENSÃO E REVOGAÇÃO DA LICENÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — SUSPENSÃO E REVOGAÇÃO DA LICENÇA"
+  },
+  "da09ae65d1a2cca7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Suspensão\n\n1 - As entidades fiscalizadoras podem suspender provisoriamente a licença, nas seguintes circunstâncias:\n\na) Não for exibida, a seu pedido, cópia autenticada da licença;\n\nb) Ocorra um acidente ou um incidente grave;\n\nc) Considerem não estarem reunidas as condições de segurança necessárias para a continuação do teste devido ao incumprimento dos requisitos do licenciamento ou das obrigações decorrentes da licença.\n\n2 - A suspensão provisória da licença é:\n\na) Notificada no ato de fiscalização ao condutor ou operador, considerando-se, nesses casos, notificada a entidade licenciada;\n\nb) Comunicada imediatamente à ANSR, ao IMT, I. P., e às entidades gestoras das vias para as quais o teste foi licenciado.\n\n3 - Caso seja determinada a suspensão provisória da licença nos termos da alínea b) do n.º 1, as forças de segurança remetem ao IMT, I. P., no prazo de 24 horas, cópia da participação do acidente ou do incidente grave, devidamente anonimizada quanto aos dados de terceiros nele envolvidos.\n\n4 - A suspensão provisória da licença mantém-se:\n\na) Na situação prevista na alínea a) do n.º 1, até ao cumprimento do dever em falta, que se deverá verificar no prazo máximo de 15 dias;\n\nb) Na situação prevista nas alíneas b) e c) do n.º 1, até ao termo do prazo de suspensão que vier a ser fixado pelo IMT, I. P., o qual não pode ser inferior a 15 dias nem superior a 30 dias, a contar da data da comunicação da suspensão.\n\n5 - O IMT, I. P., com base na análise do relatório referido no n.º 2 do artigo 22.º e na participação referida no n.º 3, determina, no prazo máximo de 10 dias contados da data de notificação, o prazo da suspensão da licença e o início do procedimento destinado à sua revogação, se aplicável.\n\n6 - Os veículos com SAC não podem circular na via pública enquanto a licença estiver suspensa.\n\n7 - A licença mantém-se suspensa pelo IMT, I. P., enquanto estiver pendente o procedimento destinado à sua revogação.\n\n8 - O disposto no presente artigo aplica-se, com as necessárias adaptações, ao reconhecimento de licenças de testes de SAC emitidas por Estados estrangeiros."
+  },
+  "b5f19c779680d628": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Revogação\n\n1 - O IMT, I. P., pode revogar a licença nas seguintes circunstâncias:\n\na) Em caso de incumprimento dos requisitos do licenciamento e das obrigações decorrentes da licença que contribuíram, ou que podem contribuir, para a ocorrência de um incidente grave;\n\nb) No termo do prazo máximo da suspensão, se as razões que a motivaram se mantiverem.\n\n2 - A revogação da licença ou do reconhecimento de licença emitida por Estado estrangeiro implica a impossibilidade de emissão de nova licença a favor da mesma entidade no prazo de um ano."
+  },
+  "2da7e44d5ba75de3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — FISCALIZAÇÃO E REGIME SANCIONATÓRIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — FISCALIZAÇÃO E REGIME SANCIONATÓRIO"
+  },
+  "db04b88d5f46f6f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Fiscalização\n\nA fiscalização do cumprimento das disposições do presente decreto-lei compete às seguintes entidades:\n\na) ANSR;\n\nb) GNR;\n\nc) IMT, I. P.;\n\nd) PSP."
+  },
+  "90b170a1e62c5523": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Contraordenações\n\n1 - As infrações às disposições do presente decreto-lei, relativamente ao regime de circulação de veículos, constituem contraordenações rodoviárias nos termos do Código da Estrada e legislação complementar, sendo-lhes aplicável o disposto nesse Código.\n\n2 - Sem prejuízo do disposto no número anterior, para efeitos deste decreto-lei constitui contraordenação:\n\na) A violação do disposto no n.º 1 do artigo 5.º, no n.º 2 do artigo 6.º, no n.º 3 do artigo 11.º, no n.º 1 e alínea a) do n.º 7 do artigo 20.º, no n.º 2 do artigo 22.º e no n.º 6 do artigo 23.º, sancionada com coima de 600,00 € a 3000,00 € ou de 8000,00 € a 40 000,00 €, consoante o infrator seja pessoa singular ou coletiva;\n\nb) A violação do disposto nos n.os2 e 6 do artigo 20.º, sancionada com coima de 300,00 € a 1500,00 € ou de 4000,00 € a 20 000,00 €, consoante o infrator seja pessoa singular ou coletiva;\n\nc) A violação do disposto nas alíneas b) e c) do n.º 7 do artigo 20.º, sancionada com coima de 150,00 € a 750,00 € ou de 2000,00 € a 10 000,00 €, consoante o infrator seja pessoa singular ou coletiva;\n\nd) A violação do disposto no n.º 1 do artigo 22.º, sancionada com coima de 600,00 € a 3000,00 €;\n\ne) A violação do disposto nos n.os1 a 3 do artigo 8.º, no artigo 10.º e nos n.os1 e 3 a 5 do artigo 21.º, sancionada com coima de 250,00 € a 1250,00 €;\n\n3 - Considera-se contraordenação grave a violação do disposto no n.º 1 do artigo 5.º e no n.º 6 do artigo 23.º, aplicando-se, quanto a estas, a sanção acessória de perda de veículo, nos termos do presente decreto-lei.\n\n4 - São contraordenações leves as sancionáveis apenas com coima."
+  },
+  "08b0e8526b84be2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Apreensão de veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Apreensão de veículos\n\n1 - O veículo deve ser apreendido pelas autoridades de fiscalização ou seus agentes quando se verifique a prática de contraordenação por violação do disposto no n.º 1 do artigo 5.º e no n.º 6 do artigo 23.º\n\n2 - Da apreensão é lavrado auto, notificando-se:\n\na) O titular do documento de identificação do veículo na pessoa do condutor ou do operador, no caso de contraordenação por violação do disposto no n.º 1 do artigo 5.º;\n\nb) A entidade licenciada, na pessoa do condutor ou do operador, no caso de contraordenação por violação do disposto no n.º 6 do artigo 23.º"
+  },
+  "d285f318f400a052": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Sanção acessória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Sanção acessória\n\nAs contraordenações por violação do disposto no n.º 1 do artigo 5.º e no n.º 6 do artigo 23.º são sancionadas com a sanção acessória de perda do veículo e de todos os equipamentos, dispositivos e sistemas nele instalados a favor do Estado."
+  },
+  "a0c0ba8a0cd64a4c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Responsabilidade pelas infrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Responsabilidade pelas infrações\n\n1 - A responsabilidade pelas infrações previstas no presente decreto-lei recai no:\n\na) Titular do documento de identificação do veículo relativamente à violação do disposto no n.º 1 do artigo 5.º;\n\nb) Titular da licença relativamente à violação do disposto no n.º 2 do artigo 6.º, no n.º 3 do artigo 11.º, nos n.os1, 2, 6 e 7 do artigo 20.º, no n.º 2 do artigo 22.º e no n.º 6 do artigo 23.º;\n\nc) Condutor do veículo relativamente à violação do disposto nos n.os1 e 3 do artigo 8.º, no artigo 10.º, no n.º 1 do artigo 21.º e no n.º 1 do artigo 22.º;\n\nd) Operador do veículo relativamente à violação do disposto nos n.os2 e 3 do artigo 8.º, e no artigo 10.º e no n.º 1 do artigo 22.º;\n\ne) Entidade promotora relativamente à violação do disposto nos n.os3 a 5 do artigo 21.º\n\n2 - O condutor notificado pela violação do disposto no n.º 1 do artigo 21.º pode excluir a sua responsabilidade se, em sede de defesa, identificar a entidade promotora dos testes de conectividade comprovando a sua relação contratual com a mesma, aplicando-se o disposto nos n.os3 e 4 do artigo 171.º e seguintes do Código da Estrada, com as necessárias adaptações."
+  },
+  "d642a0c841dbcc3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Competência para o processamento e aplicação das sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Competência para o processamento e aplicação das sanções\n\n1 - O processamento das contraordenações previstas no presente decreto-lei compete à ANSR.\n\n2 - A competência para a aplicação das coimas e das sanções acessórias pertence ao presidente da ANSR, podendo ser delegada nos termos previstos no Código da Estrada."
+  },
+  "7fce4e69a9355f81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Produto das coimas\n\nO produto das coimas é distribuído da seguinte forma:\n\na) 20 % para a ANSR;\n\nb) 20 % para a entidade que levanta o auto de notícia;\n\nc) 20 % para o IMT, I. P.;\n\nd) 40 % para o Estado."
+  },
+  "a3c0d48963ac8886": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — DISPOSIÇÕES FINAIS"
+  },
+  "54c7c6b5ab4caba2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regulamentação\n\nSão fixados por portaria dos membros do Governo responsáveis pelas áreas das finanças, das infraestruturas e da administração interna, o valor e a distribuição da taxa prevista, bem como o valor da caução a prestar pela entidade licenciada, previstas no n.º 4 do artigo 18.º"
+  },
+  "f741a6df44689b77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Serviços prestados pelas forças de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Serviços prestados pelas forças de segurança\n\nOs serviços prestados pelas forças de segurança, nos termos do presente decreto-lei, são regulados e remunerados nos termos do disposto na [Portaria n.º 298/2016](https://diariodarepublica.pt/dr/detalhe/portaria/298-2016-105276963), de 29 de novembro."
+  },
+  "e1e40c70656ca932": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regiões autónomas\n\nAs competências atribuídas pelo presente decreto-lei ao IMT, I. P., e à ANSR e respetivo presidente são exercidas, nas Regiões Autónomas, pelos correspondentes órgãos e entidades regionais."
+  },
+  "39613854958c36ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Regime subsidiário\n\nEm tudo o que não se encontre previsto no presente decreto-lei relativamente ao regime contraordenacional e ao processamento das contraordenações, é aplicável subsidiariamente o disposto no Código da Estrada e legislação complementar."
+  },
+  "bec3c05255dce362": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 16 de abril de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Miguel Martinez de Castro Pinto Luz - Paulo Jorge Simões Ribeiro.\n\nPromulgado em 28 de maio de 2026.\n\nPublique-se.\n\nO Presidente da República, António José Martins Seguro.\n\nReferendado em 29 de maio de 2026.\n\nO Primeiro-Ministro, Luís Montenegro.\n\n119948689"
+  },
+  "90a5de5a8cbc7642": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Instrução do pedido de licenciamento",
+   "in_force_from": "2026-07-13",
+   "changed_by": [
+    "Alterado pelo/a [Declaração de Retificação n.º 27/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/27-2026-1146287135), publicado em 2026-07-13."
+   ],
+   "markdown": "###### Artigo 16.º — Instrução do pedido de licenciamento\n\n1 - O pedido de licenciamento efetua-se mediante requerimento dirigido ao presidente do conselho diretivo do IMT, I. P., por via eletrónica.\n\n2 - Do requerimento referido no número anterior deve constar a seguinte informação:\n\na) A identificação da entidade requerente, com indicação da residência ou sede e do número de identificação fiscal;\n\nb) A identificação da tipologia de sistemas a testar, respetiva funcionalidade e descrição das alterações efetuadas aos veículos, quando aplicável;\n\nc) A identificação dos condutores e operadores dos veículos cujos sistemas se pretendam testar, com a respetiva planificação diária, e a indicação dos elementos relativos à respetiva habilitação legal para conduzir;\n\nd) A identificação completa dos veículos cujos sistemas se pretendam testar, através da matrícula, número de homologação e número de quadro, tratando-se de veículos homologados e matriculados;\n\ne) A planificação geográfica e temporal da realização dos testes por veículo;\n\nf) A planificação diária e horária dos testes a realizar por veículo.\n\n3 - O requerimento deve ser acompanhado, relativamente a cada veículo, dos seguintes documentos:\n\na) Cópia do certificado de matrícula do veículo, ou documento equivalente para os veículos de matrícula estrangeira, caso exista;\n\nb) Cópia da ficha de inspeção periódica obrigatória do veículo de matrícula estrangeira, se aplicável;\n\nc) Cópia do certificado internacional de seguro ou de documento equivalente, nos termos do regime do sistema do seguro obrigatório de responsabilidade civil automóvel, de acordo com o estabelecido no artigo 11.º;\n\nd) Declaração da empresa de seguros, com identificação dos sistemas a testar, confirmando que o seguro de responsabilidade civil automóvel, com o capital mínimo definido no n.º 2 do artigo 11.º, cobre os danos corporais ou materiais que possam ser causados pelo veículo no âmbito dos testes a realizar;\n\ne) Declaração de autocertificação;\n\nf) Relatório descritivo, para cada sistema a testar, incluindo a respetiva identificação, capacidades e limitações operacionais, bem como os objetivos dos ensaios e os resultados esperados relativamente a cada veículo;\n\ng) Plano de segurança referido no artigo 12.º;\n\nh) Certificado de registo individual do condutor relativo aos condutores e operadores do veículo.\n\n4 - Em situações devidamente fundamentadas, sempre que se verifique um impedimento relativo a condutores ou operadores identificados nos termos da alínea c) do n.º 2, pode a entidade requerente ou licenciada solicitar a substituição dos mesmos, através de requerimento dirigido ao presidente do conselho diretivo do IMT, I. P., por via eletrónica.\n\n5 - Nos casos previstos no número anterior e tendo sido emitida a licença para a realização de testes de SAC, compete ao presidente do conselho diretivo do IMT, I. P., decidir sobre a substituição dos condutores ou dos operadores.\n\n6 - O requerimento referido no n.º 4 é deferido caso o condutor ou operador substituto observe os requisitos previstos no presente decreto-lei.\n\n> Alterado pelo/a [Declaração de Retificação n.º 27/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/27-2026-1146287135), publicado em 2026-07-13."
+  }
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:662531:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1987-03-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67ed5c497af9ca6d"
+   ]
+  },
+  {
+   "date": "2011-11-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146215:por",
+     "title": "Decreto Legislativo Regional n.º 29/2011/A",
+     "published": "2011-11-16",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/29-2011-146215"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "cc8a69b6991939df",
+    "fc4695629f4b4f61",
+    "6e7828e4d8793dec"
+   ]
+  }
+ ],
+ "fragments": {
+  "67ed5c497af9ca6d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Atribuição da indemnizações pelo abate compulsivo de animais\n\nUma das medidas de polícia sanitário a adaptar no caso da eclosão de surtos de doenças epizoóticas é a occisão dos animais afectados, por forma a evitar que tais surtos, pelo seu alastramento, assumam proporções graves para a economia.\n\nNo [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, que contém as normas fundamentais de defesa sanitária, prevê-se a concessão de indemnizações aos proprietários dos gados abatidos ou vitimados em consequência da aplicação de medidas profilácticas impostas pelas competentes autoridades veterinárias, havendo que proceder à compatibilização de tais princípios com a realidade administrativa actual.\n\nAcresce que os especiais condicionalismos da Região Autónoma dos Açores implicam medidas enérgicas de polícia sanitária, aliás legitimadas pelo artigo 230.º, alínea b), da Constituição, e que a vulnerabilidade do espaço insular justifica.\n\nNestes termos:\n\nA Assembleia Regional dos Açores decreta, ao abrigo da alínea a) do artigo 229.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - Na Região Autónoma dos Açores, compete ao Governo Regional, através da Secretaria Regional da Agricultura e Pescas, determinar o abate compulsivo ou outras medidas de polícia sanitária, e profilácticas no caso do aparecimento de qualquer surto de doença contagiosa de carácter expansivo nos efectivos pecuários.\n\n2 - Tais determinações, uma vez devidamente fundamentadas em pareceres técnicos da Direcção Regional de Veterinária, serão objecto de portaria do Secretário Regional da Agricultura e Pescas.\n\nArt. 2.º - 1 - São devidas indemnizações aos respectivos proprietários quando os seus animais forem mandados abater ou quando venham a morrer em consequência de outras medidas aplicadas ao abrigo deste diploma e da demais legislação aplicável.\n\n2 - O montante das indemnizações será fixado tendo em conta o parecer técnico da Direcção Regional de Veterinária e publicado na portaria referida no n.º 2 do artigo anterior.\n\nAprovado pela Assembleia Regional dos Açores, na Horta, em 21 de Janeiro de 1987.\n\nO Presidente da Assembleia Regional, José Guilherme Reis Leite.\n\nAssinado em Angra do Heroísmo em 17 de Fevereiro de 1987.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira."
+  },
+  "cc8a69b6991939df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Atribuição da indemnizações pelo abate compulsivo de animais\n\nUma das medidas de polícia sanitário a adaptar no caso da eclosão de surtos de doenças epizoóticas é a occisão dos animais afectados, por forma a evitar que tais surtos, pelo seu alastramento, assumam proporções graves para a economia.\n\nNo [Decreto-Lei n.º 39209](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39209-1953-643502), de 14 de Maio de 1953, que contém as normas fundamentais de defesa sanitária, prevê-se a concessão de indemnizações aos proprietários dos gados abatidos ou vitimados em consequência da aplicação de medidas profilácticas impostas pelas competentes autoridades veterinárias, havendo que proceder à compatibilização de tais princípios com a realidade administrativa actual.\n\nAcresce que os especiais condicionalismos da Região Autónoma dos Açores implicam medidas enérgicas de polícia sanitária, aliás legitimadas pelo artigo 230.º, alínea b), da Constituição, e que a vulnerabilidade do espaço insular justifica.\n\nNestes termos:\n\nA Assembleia Regional dos Açores decreta, ao abrigo da alínea a) do artigo 229.º da Constituição, o seguinte:"
+  },
+  "fc4695629f4b4f61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - Na Região Autónoma dos Açores, compete ao Governo Regional, através da Secretaria Regional da Agricultura e Pescas, determinar o abate compulsivo ou outras medidas de polícia sanitária, e profilácticas no caso do aparecimento de qualquer surto de doença contagiosa de carácter expansivo nos efectivos pecuários.\n\n2 - Tais determinações, uma vez devidamente fundamentadas em pareceres técnicos da Direcção Regional de Veterinária, serão objecto de portaria do Secretário Regional da Agricultura e Pescas."
+  },
+  "6e7828e4d8793dec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2011-11-16",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 29/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2011-146215), publicado em 2011-11-16."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - São devidas indemnizações aos respectivos proprietários quando os seus animais forem mandados abater ou quando venham a morrer em consequência de outras medidas aplicadas ao abrigo deste diploma e da demais legislação aplicável.\n\n2 - O montante das indemnizações e os métodos de eliminação e destino final dos subprodutos animais resultantes será fixado tendo em conta o parecer técnico dos departamentos da administração regional autónoma com competência em matéria de sanidade animal e de ambiente e publicado na portaria referida no n.º 2 do artigo anterior.\n\nAprovado pela Assembleia Regional dos Açores, na Horta, em 21 de Janeiro de 1987.\n\nO Presidente da Assembleia Regional, José Guilherme Reis Leite.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 29/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2011-146215), publicado em 2011-11-16.\n\nAssinado em Angra do Heroísmo em 17 de Fevereiro de 1987.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira."
+  }
+ }
+}

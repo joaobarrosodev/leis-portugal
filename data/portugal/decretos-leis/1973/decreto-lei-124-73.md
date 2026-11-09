@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-01-21'
+version_history:
+  file: decreto-lei-124-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-03-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-01-21'
+    amending: pt:dre:283526:por
+    amending_title: Decreto-Lei n.º 14/88
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:26:04Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 14/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-124-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,7 +151,9 @@ Importando, para tanto, a adopção de medidas legais análogas às da [Lei n.º
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. O Ministro das Obras Públicas promoverá que, no prazo de dois anos, contados da data do presente diploma, esteja elaborado, nos termos do [Decreto-Lei n.º 560/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1971-632251), de 17 de Dezembro, e do [Decreto n.º 561/71](https://diariodarepublica.pt/dr/detalhe/decreto/561-1971-632252), da mesma data, o plano geral de urbanização da região do Porto, abreviadamente designado por plano da região do Porto.
+###### Artigo 1.º
+
+1. O Ministro das Obras Públicas promoverá que, no prazo de dois anos, contados da data do presente diploma, esteja elaborado, nos termos do [Decreto-Lei n.º 560/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1971-632251), de 17 de Dezembro, e do [Decreto n.º 561/71](https://diariodarepublica.pt/dr/detalhe/decreto/561-1971-632252), da mesma data, o plano geral de urbanização da região do Porto, abreviadamente designado por plano da região do Porto.
 
 2. A região do Porto, para os efeitos do presente diploma, abrange os seguintes concelhos:
 
@@ -146,13 +163,17 @@ b) No distrito de Braga: Barcelos, Braga, Esposende, Guimarães e Vila Nova de F
 
 3. O Ministro das Obras Públicas poderá determinar na delimitação da região os ajustamentos que, durante a elaboração do plano, vierem a mostrar-se convenientes.
 
-Art. 2.º - 1. A aprovação do plano da região do Porto será da competência do Conselho de Ministros, mediante proposta do Ministro das Obras Públicas e ouvida a Câmara Corporativa.
+###### Artigo 2.º
+
+1. A aprovação do plano da região do Porto será da competência do Conselho de Ministros, mediante proposta do Ministro das Obras Públicas e ouvida a Câmara Corporativa.
 
 2. Aprovado o plano da região do Porto, proceder-se-á imediatamente à revisão dos planos de urbanização locais que estiverem em vigor, a fim de os ajustar àquele, considerando-se desde logo revogadas as disposições que o contrariem.
 
-Art. 3.º 1. Na área definida nos termos do n.º 2 do artigo 1.º e até à aprovação do plano da região do Porto, carecem de autorização do Ministro das Obras Públicas, ouvidas a respectiva câmara municipal, a Direcção-Geral dos Serviços de Urbanização e, consoante os casos, a Direcção-Geral dos Serviços Agrícolas e a Direcção-Geral dos Serviços Florestais e Aquícolas:
+###### Artigo 3.º
 
-a) A criação de novos núcleos populacionais e a construção, reconstrução ou ampliação de instalações industriais de 1.ª ou 2.ª classes, quando, num e noutro caso, se situem fora das zonas previstas, para esse efeito, nos planos de urbanização legalmente aprovados;
+1. Na área definida nos termos do n.º 2 do artigo 1.º e até à aprovação do plano da região do Porto, carecem de autorização do Ministro das Obras Públicas, ouvidas a respectiva câmara municipal, a Direcção-Geral dos Serviços de Urbanização e, consoante os casos, a Direcção-Geral dos Serviços Agrícolas e a Direcção-Geral dos Serviços Florestais e Aquícolas:
+
+a) A criação de novos núcleos populacionais quando se situem fora das zonas previstas, para esse efeito, nos planos de urbanização aprovados;
 
 b) As novas explorações regidas pela legislação referente a pedreiras e a ampliação da área de terreno declarada e na qual a exploração estava autorizada à data do presente decreto-lei, bem como a execução de terraplenagens importantes de qualquer natureza susceptíveis de alterar a configuração geral do terreno e o derrube contínuo de árvores em maciço, salvo nos casos de exploração florestal normal.
 
@@ -174,15 +195,23 @@ b) Para as restantes hipóteses previstas, noventa dias.
 
 8. A falta de decisão nos prazos referidos no número anterior interpreta-se, para todos os efeitos, como consentimento.
 
-Art. 4.º - 1. A Direcção-Geral dos Serviços de Urbanização e as câmaras municipais são competentes para promover o embargo e a demolição das obras executadas com violação do preceituado no artigo anterior.
+> Alterado pelo/a [Decreto-Lei n.º 14/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1988-283526), publicado em 1988-01-16.
+
+###### Artigo 4.º
+
+1. A Direcção-Geral dos Serviços de Urbanização e as câmaras municipais são competentes para promover o embargo e a demolição das obras executadas com violação do preceituado no artigo anterior.
 
 2. A demolição será feita à custa dos proprietários, sem direito a qualquer indemnização.
 
 3. A cobrança das importâncias a que der lugar a aplicação desta disposição, na falta de pagamento voluntário, competirá aos tribunais das contribuições e impostos, constituindo título executivo a certidão passada pelos serviços donde constem todos os requisitos referidos no artigo 156.º do Código de Processo das Contribuições e Impostos.
 
-Art. 5.º O Ministro das Obras Públicas poderá determinar que na área a que se refere o presente diploma, e simultaneamente com os trabalhos referidos no artigo 1.º, sejam revistos os planos de urbanização que estiverem em vigor e elaborados planos sub-regionais.
+###### Artigo 5.º
 
-Art. 6.º - 1. A cooperação das entidades interessadas na elaboração do plano da região do Porto será assegurada por uma comissão, de carácter eventual, a constituir no Ministério das Obras Públicas e na dependência do respectivo Ministro, denominada Comissão do Plano da Região do Porto.
+O Ministro das Obras Públicas poderá determinar que na área a que se refere o presente diploma, e simultaneamente com os trabalhos referidos no artigo 1.º, sejam revistos os planos de urbanização que estiverem em vigor e elaborados planos sub-regionais.
+
+###### Artigo 6.º
+
+1. A cooperação das entidades interessadas na elaboração do plano da região do Porto será assegurada por uma comissão, de carácter eventual, a constituir no Ministério das Obras Públicas e na dependência do respectivo Ministro, denominada Comissão do Plano da Região do Porto.
 
 2. Compete à Comissão:
 
@@ -234,17 +263,27 @@ n) Um técnico da Direcção-Geral dos Serviços de Urbanização, que servirá 
 
 7. A nomeação dos vogais será feita em portaria do Ministro das Obras Públicas.
 
-Art. 7.º Por cada reunião a que assistirem, os membros da Comissão do Plano da Região do Porto terão direito à senha de presença do montante fixado na lei.
+###### Artigo 7.º
 
-Art. 8.º - 1. É criado na Direcção-Geral dos Serviços de Urbanização, na dependência imediata do respectivo director-geral, o Gabinete do Plano da Região do Porto, ao qual compete tudo o que respeita à preparação e elaboração do plano, incluindo a execução das recomendações da Comissão a que se refere o artigo 6.º
+Por cada reunião a que assistirem, os membros da Comissão do Plano da Região do Porto terão direito à senha de presença do montante fixado na lei.
+
+###### Artigo 8.º
+
+1. É criado na Direcção-Geral dos Serviços de Urbanização, na dependência imediata do respectivo director-geral, o Gabinete do Plano da Região do Porto, ao qual compete tudo o que respeita à preparação e elaboração do plano, incluindo a execução das recomendações da Comissão a que se refere o artigo 6.º
 
 2. As funções de director do Gabinete serão exercidas em acumulação pelo director da Circunscrição de Urbanização do Norte.
 
-Art. 9.º O Secretariado Técnico da Presidência do Conselho terá um ou mais representantes junto do Gabinete do Plano, a fim de facilitar a coordenação dos trabalhos do plano com o planeamento nacional e regional.
+###### Artigo 9.º
 
-Art. 10.º São tornadas extensivas ao Gabinete do Plano da Região do Porto as disposições do [Decreto-Lei n.º 43635](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43635-1961-169656), de 1 de Maio de 1961.
+O Secretariado Técnico da Presidência do Conselho terá um ou mais representantes junto do Gabinete do Plano, a fim de facilitar a coordenação dos trabalhos do plano com o planeamento nacional e regional.
 
-Art. 11.º Os encargos a que der lugar a execução do presente diploma serão suportados pelas dotações adequadas do orçamento da Direcção-Geral dos Serviços de Urbanização.
+###### Artigo 10.º
+
+São tornadas extensivas ao Gabinete do Plano da Região do Porto as disposições do [Decreto-Lei n.º 43635](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43635-1961-169656), de 1 de Maio de 1961.
+
+###### Artigo 11.º
+
+Os encargos a que der lugar a execução do presente diploma serão suportados pelas dotações adequadas do orçamento da Direcção-Geral dos Serviços de Urbanização.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 

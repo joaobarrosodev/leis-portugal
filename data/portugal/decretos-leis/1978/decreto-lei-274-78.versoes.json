@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:329868:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-09-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9b0f2cf981f673c5"
+   ]
+  },
+  {
+   "date": "1987-03-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:662361:por",
+     "title": "Decreto-Lei n.º 106/87",
+     "published": "1987-03-06",
+     "dre_path": "/dr/detalhe/decreto-lei/106-1987-662361"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "1d003e0248c4a17d",
+    "dbb4987dea5b7d88",
+    "1845af18f5227a21",
+    "f415f2e63f796ad3",
+    "15df313b1d48034a",
+    "cb9f1bc02bd928ae",
+    "54cb667974a8dce4",
+    "a9388f96544e6fe4",
+    "5aaa0bf8bf4b60ee",
+    "10e5f3ada5b2dced",
+    "189fbb438c640c29"
+   ]
+  }
+ ],
+ "fragments": {
+  "9b0f2cf981f673c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Setembro\n\nO Estatuto dos Magistrados Judiciais e a Lei Orgânica do Ministério Público incluem nos direitos dos magistrados judiciais e do Ministério Público o da utilização de transportes colectivos públicos terrestres e fluviais mediante passe a atribuir pelo Ministério da Justiça.\n\nÉ finalidade do presente decreto-lei desenvolver e dar execução aos princípios enunciados nos referidos diplomas.\n\nAssim:\n\nO Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º Os magistrados judiciais e do Ministério Público têm direito a utilização gratuita de transportes colectivos públicos terrestres e fluviais na área da circunscrição em que exercem funções, nos termos dos artigos seguintes.\n\nArt. 2.º - 1 - A utilização de transportes é concedida:\n\na) Para todo o território, ao Presidente do Supremo Tribunal de Justiça, ao procurador-geral da República, aos juízes do Supremo Tribunal de Justiça, ao vice-procurador-geral da República, aos magistrados membros do Conselho Superior da Magistratura e do Conselho Superior do Ministério Público, aos procuradores-gerais-adjuntos e aos inspectores judiciais e do Ministério Público;\n\nb) Para a área do respectivo distrito judicial, aos juízes do tribunal de relação, aos juízes de tribunal de distrito e aos procuradores da República a que se refere o n.º 2 do artigo 60.º da [Lei n.º 39/78](https://diariodarepublica.pt/dr/detalhe/lei/39-1978-298005), de 5 de Julho;\n\nc) Para a área do respectivo círculo judicial, aos juízes de círculo, aos juízes de tribunal de círculo e aos procuradores da República;\n\nd) Para a área da respectiva comarca ou comarcas, aos juízes de direito e aos delegados do procurador da República.\n\n2 - Os magistrados autorizados a residir fora da circunscrição judicial têm igualmente direito a transporte entre a sua residência e a sede da circunscrição.\n\nArt. 3.º O direito a que se referem os artigos anteriores inclui a utilização da 1.ª classe em qualquer categoria de transporte e, nos casos em que tal modalidade se pratique, a marcação prévia do lugar.\n\nArt. 4.º - 1 - O Ministério da Justiça atribuirá aos magistrados que o requisitem um passe de modelo anexo a este diploma, que servirá, para todos os efeitos, como título justificativo do direito à utilização de transporte.\n\n2 - A requisição faz-se através do Conselho Superior da Magistratura ou da Procuradoria-Geral da República, consoante os casos, que confirmarão os elementos fornecidos pelo requisitante.\n\n3 - Depois de informadas no Ministério da Justiça, as requisições são enviadas ao Ministério dos Transportes e Comunicações para emissão conjunta do passe.\n\nArt. 5.º - 1 - A emissão dos passes faz-se em cartões de cor branca, castanha, verde e azul, conforme sejam válidos, respectivamente, para todo o território, para o distrito judicial, para o círculo judicial ou para mais de uma comarca, e para a comarca.\n\n2 - Os passes são subscritos pelo director-geral dos Serviços Judiciários e pelo secretário-geral do Ministério dos Transportes e Comunicações e autenticados com o selo branco do Ministério da Justiça.\n\nArt. 6.º - 1 - Os passes são validados para cada ano civil, mediante a aposição do selo de modelo anexo e serão substituídos quando se verifique alteração dos elementos deles constantes.\n\n2 - Em caso de extravio, destruição ou deterioração, será passada uma segunda via, de que se fará referência expressa, mantendo-se o número anterior.\n\nArt. 7.º - 1 - Os Ministros da Justiça e dos Transportes e Comunicações fixam anualmente, por despacho conjunto, o encargo a suportar pelo Cofre dos Conservadores, Notários e Funcionários de Justiça com a atribuição de passe a magistrados.\n\n2 - A importância a liquidar constituirá receita do Fundo Especial de Transportes Terrestres.\n\nArt. 8.º As empresas de transporte público podem requerer ao Fundo Especial de Transportes Terrestres compensação pelo transporte realizado nos termos do presente diploma, que será apreciada caso a caso, com base em índices indicadores do grau da respectiva utilização.\n\nArt. 9.º As dúvidas que se suscitarem na interpretação do presente diploma são resolvidas por despacho conjunto dos Ministros da Justiça e dos Transportes e Comunicações.\n\nArt. 10.º Este decreto-lei entra em vigor no dia 31 de Julho de 1978.\n\nMário Firmino Miguel - José Dias dos Santos Pais - Manuel Branco Ferreira Lima.\n\nPromulgado em 10 de Agosto de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/20500/18311832.pdf)\n\nO Ministro da Justiça, José Dias dos Santos Pais."
+  },
+  "1d003e0248c4a17d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Setembro\n\nO Estatuto dos Magistrados Judiciais e a Lei Orgânica do Ministério Público incluem nos direitos dos magistrados judiciais e do Ministério Público o da utilização de transportes colectivos públicos terrestres e fluviais mediante passe a atribuir pelo Ministério da Justiça.\n\nÉ finalidade do presente decreto-lei desenvolver e dar execução aos princípios enunciados nos referidos diplomas.\n\nAssim:\n\nO Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "dbb4987dea5b7d88": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs magistrados judiciais e do Ministério Público têm direito a utilização gratuita de transportes colectivos públicos terrestres e fluviais na área da circunscrição em que exercem funções, nos termos dos artigos seguintes."
+  },
+  "1845af18f5227a21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A utilização de transportes é concedida:\n\na) Para todo o território, ao Presidente do Supremo Tribunal de Justiça, ao procurador-geral da República, aos juízes do Supremo Tribunal de Justiça, ao vice-procurador-geral da República, aos magistrados membros do Conselho Superior da Magistratura e do Conselho Superior do Ministério Público, aos procuradores-gerais-adjuntos e aos inspectores judiciais e do Ministério Público;\n\nb) Para a área do respectivo distrito judicial, aos juízes do tribunal de relação, aos juízes de tribunal de distrito e aos procuradores da República a que se refere o n.º 2 do artigo 60.º da [Lei n.º 39/78](https://diariodarepublica.pt/dr/detalhe/lei/39-1978-298005), de 5 de Julho;\n\nc) Para a área do respectivo círculo judicial, aos juízes de círculo, aos juízes de tribunal de círculo e aos procuradores da República;\n\nd) Para a área da respectiva comarca ou comarcas, aos juízes de direito e aos delegados do procurador da República.\n\n2 - Os magistrados autorizados a residir fora da circunscrição judicial têm igualmente direito a transporte entre a sua residência e a sede da circunscrição."
+  },
+  "f415f2e63f796ad3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO direito a que se referem os artigos anteriores inclui a utilização da 1.ª classe em qualquer categoria de transporte e, nos casos em que tal modalidade se pratique, a marcação prévia do lugar."
+  },
+  "15df313b1d48034a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O Ministério da Justiça atribuirá aos magistrados que o requisitem um passe de modelo anexo a este diploma, que servirá, para todos os efeitos, como título justificativo do direito à utilização de transporte.\n\n2 - A requisição faz-se através do Conselho Superior da Magistratura ou da Procuradoria-Geral da República, consoante os casos, que confirmarão os elementos fornecidos pelo requisitante.\n\n3 - Depois de informadas no Ministério da Justiça, as requisições são enviadas ao Ministério dos Transportes e Comunicações para emissão conjunta do passe."
+  },
+  "cb9f1bc02bd928ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - A emissão dos passes faz-se em cartões de cor branca, castanha, verde e azul, conforme sejam válidos, respectivamente, para todo o território, para o distrito judicial, para o círculo judicial ou para mais de uma comarca, e para a comarca.\n\n2 - Os passes são subscritos pelo director-geral dos Serviços Judiciários e pelo secretário-geral do Ministério dos Transportes e Comunicações e autenticados com o selo branco do Ministério da Justiça."
+  },
+  "54cb667974a8dce4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Os passes são validados para cada ano civil, mediante a aposição do selo de modelo anexo e serão substituídos quando se verifique alteração dos elementos deles constantes.\n\n2 - Em caso de extravio, destruição ou deterioração, será passada uma segunda via, de que se fará referência expressa, mantendo-se o número anterior."
+  },
+  "a9388f96544e6fe4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1987-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 106/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1987-662361), publicado em 1987-03-06."
+   ],
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 106/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1987-662361), publicado em 1987-03-06."
+  },
+  "5aaa0bf8bf4b60ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1987-03-11",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 106/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1987-662361), publicado em 1987-03-06."
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 106/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1987-662361), publicado em 1987-03-06."
+  },
+  "10e5f3ada5b2dced": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs dúvidas que se suscitarem na interpretação do presente diploma são resolvidas por despacho conjunto dos Ministros da Justiça e dos Transportes e Comunicações."
+  },
+  "189fbb438c640c29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nEste decreto-lei entra em vigor no dia 31 de Julho de 1978.\n\nMário Firmino Miguel - José Dias dos Santos Pais - Manuel Branco Ferreira Lima.\n\nPromulgado em 10 de Agosto de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/09/20500/18311832.pdf)\n\nO Ministro da Justiça, José Dias dos Santos Pais."
+  }
+ }
+}

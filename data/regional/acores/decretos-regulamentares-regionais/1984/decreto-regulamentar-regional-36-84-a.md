@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-11-10'
+version_history:
+  file: decreto-regulamentar-regional-36-84-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-10-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-11-10'
+    amending: pt:dre:191989:por
+    amending_title: Decreto Regulamentar Regional n.º 21/2012/A
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:26:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    21/2012/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1984/decreto-regulamentar-regional-36-84-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -102,7 +118,9 @@ Considerando ainda que a defesa da própria população que habita nas zonas lim
 
 Manda o Governo Regional dos Açores, ao abrigo do disposto na alínea d) do artigo 229.º da Constituição e na alínea b) do artigo 44.º do Estatuto da Região Autónoma dos Açores, o seguinte:
 
-Artigo 1.º É estabelecida uma zona geral de protecção em volta do aeródromo da ilha de São Jorge, na qual se distinguem:
+###### Artigo 1.º
+
+1 - É estabelecida uma zona geral de protecção em volta do aeródromo da ilha de São Jorge, na qual se distinguem:
 
 a) Zona de protecção integral - constituída pelos terrenos que limitam os terminais da pista a sudeste, numa extensão de 300 m, onde toda e qualquer actividade é interdita, assinalada na planta anexa com a letra A;
 
@@ -112,11 +130,15 @@ B - 95,15 m a 144 m com uma inclinação de 1/7;
 
 B' - 93,65 m a 144 m com uma inclinação de 1/7;
 
-C - 98,34 m com 2% de inclinação;
+C - 101,5 m com 2 % de inclinação;
 
-C' - 93,65 m com 2% de inclinação.
+C' - 95,5 m com 2 % de inclinação.
 
-Art. 2.º Dentro da zona de protecção parcial é proibida, sem autorização prévia da Secretaria Regional do Equipamento Social:
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 21/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2012-191989), publicado em 2012-11-09.
+
+###### Artigo 2.º
+
+Dentro da zona de proteção parcial é proibida, sem autorização prévia do departamento do Governo Regional com competência em matéria de transportes aéreos:
 
 a) A construção de qualquer natureza;
 
@@ -126,7 +148,11 @@ c) A plantação de árvores ou arbustos;
 
 d) Outros trabalhos ou actividades que possam prejudicar a segurança das instalações do aeródromo.
 
-Art. 3.º A zona de protecção definida no artigo 1.º deste diploma é a que consta da planta anexa e faz parte integrante do mesmo.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 21/2012/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/21-2012-191989), publicado em 2012-11-09.
+
+###### Artigo 3.º
+
+A zona de protecção definida no artigo 1.º deste diploma é a que consta da planta anexa e faz parte integrante do mesmo.
 
 Aprovado em Conselho do Governo Regional em 10 de Agosto de 1984.
 

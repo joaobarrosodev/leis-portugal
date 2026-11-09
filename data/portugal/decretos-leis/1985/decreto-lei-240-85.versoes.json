@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:183004:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-07-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "de4ae505a330289b"
+   ]
+  },
+  {
+   "date": "1986-05-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:227439:por",
+     "title": "Decreto-Lei n.º 80/86",
+     "published": "1986-05-06",
+     "dre_path": "/dr/detalhe/decreto-lei/80-1986-227439"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "3cf1786255f79c03",
+    "d87eafc67d38cd60",
+    "2276d4d8c9697b69",
+    "f318883858891bb8",
+    "0af404c0c187608b",
+    "7f77d2fe61d0eefd",
+    "8976c5ebb860c938"
+   ]
+  }
+ ],
+ "fragments": {
+  "de4ae505a330289b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Julho\n\nAtravés da [Lei n.º 2/84](https://diariodarepublica.pt/dr/detalhe/lei/2-1984-662094), de 13 de Março, o Governo foi autorizado a celebrar com o Fonds de Réétablissement du Conseil de l'Europe (FRCE) contratos de empréstimo em várias moedas estrangeiras até ao contravalor de 100 milhões de dólares para financiamento de vários projectos de investimento que se enquadrem nos objectivos estatutários daquele organismo.\n\nO FRCE concedeu ao Estado Português financiamentos até ao contravalor de 8 milhões de dólares, destinados a investimentos na Região Norte, sendo 6778300 dólares para investimentos a executar pelas autarquias desta Região. O contravalor em escudos dos empréstimos contraídos para esta finalidade ascende a 912900 contos.\n\nImporta, portanto, criar os mecanismos para a canalização interna dos fundos daqueles financiamentos que se destinam à execução da parcela do projecto aprovado que está a cargo dos municípios.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º Fica autorizada a celebração entre os Ministérios da Administração Interna e das Finanças e do Plano e a Caixa Geral de Depósitos (CGD) de um protocolo para abertura de uma linha de crédito a favor dos municípios, destinada ao financiamento de investimentos na Região Norte, até 1272000 contos, dos quais 912900 contos serão objecto de refinanciamento pelo Estado através da aplicação do produto dos empréstimos, do Fonds de Réétablissement du Conseil de l'Europe destinados a estes projectos.\n\nArt. 2.º - 1 - A coordenação dos investimentos a que se refere o artigo 1.º ficará a cargo da Comissão de Coordenação da Região do Norte (CCRN), que deverá para o efeito celebrar acordos de execução dos projectos com as autarquias envolvidas.\n\n2 - A CCRN enviará aos Ministérios das Finanças e do Plano e da Administração Interna relatórios semestrais sobre a execução destes investimentos.\n\nArt. 3.º - 1 - A taxa de juro a praticar pela CGD relativamente a esta linha de crédito será equivalente à taxa legal máxima em vigor para operações de prazo idêntico, deduzida de 4% e de uma bonificação a suportar pela CGD idêntica à que esta instituição vier anualmente a praticar para as restantes linhas de crédito bonificadas para os municípios.\n\n2 - As restantes condições da linha de crédito serão idênticas às praticadas por esta instituição relativamente às restantes linhas de crédito aos municípios.\n\nArt. 4.º A transferência do produto dos empréstimos subscritos pelo Estado junto do FRCE será efectuada a favor da CGD à medida que esta instituição ponha à disposição dos municípios os fundos por ela mutuados ao abrigo da presente linha de crédito.\n\nArt. 5.º - 1 - Reverterá para o Estado a importância correspondente aos juros líquidos cobrados pela CGD dos municípios, deduzida de uma margem de 3% a favor da CGD, referente à parte da linha de crédito refinanciada pelo Estado com o produto dos empréstimos do FRCE.\n\n2 - A CGD ainda porá à disposição do Estado os reembolsos cobrados dos municípios relativamente à parte da linha de crédito refinanciada pelo Estado com o produto dos empréstimos do FRCE.\n\nArt. 6.º - 1 - O Estado porá à disposição da CGD as verbas correspondentes à bonificação de 4% incidente sobre a parcela dos empréstimos aos municípios financiada com fundos próprios da CGD.\n\n2 - Em 1986 e anos seguintes fica autorizada a Direcção-Geral do Tesouro a inscrever no capítulo 60 «Despesas excepcionais» do orçamento do Ministério das Finanças e do Plano as dotações necessárias ao pagamento das bonificações a cargo do Estado com a referida linha de crédito.\n\nVisto e aprovado em Conselho de Ministros de 11 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes.\n\nPromulgado em 26 de Junho de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 1 de Julho de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "3cf1786255f79c03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Julho\n\nAtravés da [Lei n.º 2/84](https://diariodarepublica.pt/dr/detalhe/lei/2-1984-662094), de 13 de Março, o Governo foi autorizado a celebrar com o Fonds de Réétablissement du Conseil de l'Europe (FRCE) contratos de empréstimo em várias moedas estrangeiras até ao contravalor de 100 milhões de dólares para financiamento de vários projectos de investimento que se enquadrem nos objectivos estatutários daquele organismo.\n\nO FRCE concedeu ao Estado Português financiamentos até ao contravalor de 8 milhões de dólares, destinados a investimentos na Região Norte, sendo 6778300 dólares para investimentos a executar pelas autarquias desta Região. O contravalor em escudos dos empréstimos contraídos para esta finalidade ascende a 912900 contos.\n\nImporta, portanto, criar os mecanismos para a canalização interna dos fundos daqueles financiamentos que se destinam à execução da parcela do projecto aprovado que está a cargo dos municípios.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "d87eafc67d38cd60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nFica autorizada a celebração entre os Ministérios da Administração Interna e das Finanças e do Plano e a Caixa Geral de Depósitos (CGD) de um protocolo para abertura de uma linha de crédito a favor dos municípios, destinada ao financiamento de investimentos na Região Norte, até 1272000 contos, dos quais 912900 contos serão objecto de refinanciamento pelo Estado através da aplicação do produto dos empréstimos, do Fonds de Réétablissement du Conseil de l'Europe destinados a estes projectos."
+  },
+  "2276d4d8c9697b69": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A coordenação dos investimentos a que se refere o artigo 1.º ficará a cargo da Comissão de Coordenação da Região do Norte (CCRN), que deverá para o efeito celebrar acordos de execução dos projectos com as autarquias envolvidas.\n\n2 - A CCRN enviará aos Ministérios das Finanças e do Plano e da Administração Interna relatórios semestrais sobre a execução destes investimentos."
+  },
+  "f318883858891bb8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1986-05-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 80/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1986-227439), publicado em 1986-05-06."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - A taxa de juro a praticar pela Caixa Geral de Depósitos relativamente a esta linha de crédito será equivalente à taxa legal máxima em vigor para operações de prazo idêntico, deduzida de 15% da taxa contratual, com arredondamento para o quarto mais próximo, e de uma bonificação a suportar pela CGD pelo valor e nas condições a estabelecer no protocolo.\n\n2 - As restantes condições da linha de crédito serão idênticas às praticadas por esta instituição relativamente às restantes linhas de crédito aos municípios.\n\n> Alterado pelo/a [Decreto-Lei n.º 80/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1986-227439), publicado em 1986-05-06."
+  },
+  "0af404c0c187608b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA transferência do produto dos empréstimos subscritos pelo Estado junto do FRCE será efectuada a favor da CGD à medida que esta instituição ponha à disposição dos municípios os fundos por ela mutuados ao abrigo da presente linha de crédito."
+  },
+  "7f77d2fe61d0eefd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Reverterá para o Estado a importância correspondente aos juros líquidos cobrados pela CGD dos municípios, deduzida de uma margem de 3% a favor da CGD, referente à parte da linha de crédito refinanciada pelo Estado com o produto dos empréstimos do FRCE.\n\n2 - A CGD ainda porá à disposição do Estado os reembolsos cobrados dos municípios relativamente à parte da linha de crédito refinanciada pelo Estado com o produto dos empréstimos do FRCE."
+  },
+  "8976c5ebb860c938": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - O Estado porá à disposição da CGD as verbas correspondentes à bonificação de 4% incidente sobre a parcela dos empréstimos aos municípios financiada com fundos próprios da CGD.\n\n2 - Em 1986 e anos seguintes fica autorizada a Direcção-Geral do Tesouro a inscrever no capítulo 60 «Despesas excepcionais» do orçamento do Ministério das Finanças e do Plano as dotações necessárias ao pagamento das bonificações a cargo do Estado com a referida linha de crédito.\n\nVisto e aprovado em Conselho de Ministros de 11 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes.\n\nPromulgado em 26 de Junho de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 1 de Julho de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  }
+ }
+}

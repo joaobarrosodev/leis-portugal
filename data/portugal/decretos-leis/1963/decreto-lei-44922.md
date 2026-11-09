@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1965-04-15'
+version_history:
+  file: decreto-lei-44922.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-03-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1965-04-15'
+    amending: pt:dre:237799:por
+    amending_title: Decreto-Lei n.º 46274
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:44:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 46274. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1963/decreto-lei-44922.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -99,13 +114,21 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Poderá a reitoria da Universidade de Lisboa contratar, além do quadro, por conta de verbas globais inscritas no orçamento, o pessoal técnico indispensável para a conservação dos edifícios e do material afectos aos seus serviços, bem como o pessoal menor necessário para a guarda e vigilância do edifício do restaurante universitário.
+###### Artigo 1.º
 
-§ único. O número de unidades a contratar e a respectiva remuneração serão fixados por despachos dos Ministros das Finanças e da Educação Nacional.
+Poderá a reitoria da Universidade de Lisboa contratar ou assalariar, além do quadro, por força das dotações especialmente inscritas no orçamento, o pessoal administrativo, técnico e menor indispensável à utilização e conservação dos edifícios e do material afectos aos seus serviços e à guarda e vigilância dos mesmos edifícios, incluindo as instalações académicas.
 
-Art. 2.º Consideram-se, para todos os efeitos, legalmente autorizados os contratos que anteriormente à entrada em vigor do presente diploma tenham sido celebrados nas condições do artigo anterior.
+§ único. O número de unidades a contratar ou a assalariar e a respectiva remuneração serão fixados por despachos dos Ministros das Finanças e da Educação Nacional.
 
-Art. 3.º Este decreto-lei entra imediatamente em vigor.
+> Alterado pelo/a [Decreto-Lei n.º 46274](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46274-1965-237799), publicado em 1965-04-15.
+
+###### Artigo 2.º
+
+Consideram-se, para todos os efeitos, legalmente autorizados os contratos que anteriormente à entrada em vigor do presente diploma tenham sido celebrados nas condições do artigo anterior.
+
+###### Artigo 3.º
+
+Este decreto-lei entra imediatamente em vigor.
 
 Publique-se e cumpra-se como nele se contém.
 

@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:369785:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-09-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e9411fd2105f57df"
+   ]
+  },
+  {
+   "date": "1979-10-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:364908:por",
+     "title": "Despacho Normativo n.º 315/79",
+     "published": "1979-10-13",
+     "dre_path": "/dr/detalhe/despacho-normativo/315-1979-364908"
+    },
+    {
+     "id": "pt:dre:364935:por",
+     "title": "Despacho Normativo n.º 317/79",
+     "published": "1979-10-16",
+     "dre_path": "/dr/detalhe/despacho-normativo/317-1979-364935"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "fce8462643b67c9a",
+    "51efa93bb8848c9c",
+    "b327141f1224f31b",
+    "6b24cad2df393568",
+    "281b8ac7c05bbcdd",
+    "c3d35179b68d44fe",
+    "f82f4ea0461fff1c",
+    "c12bd792fef44e95",
+    "df9f68f3774248dd",
+    "8b272c68356006c3"
+   ]
+  }
+ ],
+ "fragments": {
+  "e9411fd2105f57df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A autonomização dos Ministérios das Finanças e do Plano exige que se definam as áreas de competência de cada um destes departamentos governamentais e que se estabeleçam, ainda que em termos genéricos, as respectivas orgânicas internas.\n\nEntretanto, está-se ciente de que a elaboração de uma nova lei orgânica do Ministério das Finanças, que deve culminar trabalhos há muito empreendidos, não pode prejudicar uma adequada e funcional reordenação das actuais Secretarias de Estado. Só nessa base será possível caracterizar as atribuições e competências dos diversos departamentos, órgãos e serviços dependentes do Ministério ou nele integrados, reestruturar os serviços de forma racionalmente adequada às necessidades da nova estrutura financeira e da elaboração e execução de verdadeiras políticas financeiras e monetárias, obter uma maior desconcentração e produtividade dos serviços e dos organismos dependentes, enfim, criar os organismos, serviços ou departamentos exigidos pelas novas funções que têm sido atribuídas ao Ministério.\n\nNestes termos, ao abrigo do artigo 202.º, alínea d), da Constituição, determino o seguinte, enquanto se não proceder à reestruturação dos serviços:\n\nArtigo 1.º - 1 - O Ministério das Finanças, cuja orientação global cabe ao respectivo Ministro, compreende as seguintes Secretarias de Estado:\n\na) Secretaria de Estado do Orçamento;\n\nb) Secretaria de Estado do Tesouro;\n\nc) Secretaria de Estado das Finanças.\n\n2 - O Conselho Superior de Economia funcionará, até à sua extinção, na directa dependência do Ministro das Finanças.\n\nArt. 2.º Dependem directamente do Ministro das Finanças os serviços seguintes:\n\na) Gabinete do Ministro;\n\nb) Secretaria-Geral;\n\nc) Gabinete de Estudos e Planeamento;\n\nd) Auditoria Jurídica;\n\ne) Gabinete para a Cooperação Económica Externa;\n\nf) Gabinete de Informação e Relações Públicas.\n\nArt. 3.º O Ministro das Finanças exerce, por acumulação, a gestão directa da Secretaria de Estado das Finanças.\n\nArt. 4.º Na dependência do Secretário de Estado do Orçamento funcionarão os serviços seguintes:\n\na) Gabinete do Secretário de Estado;\n\nb) Intendência-Geral do Orçamento;\n\nc) Direcção-Geral da Contabilidade Pública;\n\nd) Direcção-Geral das Contribuições e Impostos;\n\ne) Inspecção-Geral de Finanças;\n\nf) Direcção-Geral das Alfândegas;\n\ng) Guarda Fiscal;\n\nh) Fundo de Abastecimento;\n\ni) Instituto Geográfico e Cadastral;\n\nj) Instituto de Informática;\n\nl) Caixa Geral de Aposentações e Montepio dos Servidores do Estado;\n\nm) Assistência na Doença aos Servidores do Estado.\n\nArt. 5.º Na dependência do Secretário de Estado do Tesouro funcionarão os serviços seguintes:\n\na) Gabinete do Secretário de Estado;\n\nb) Direcção-Geral do Tesouro;\n\nc) Junta do Credito Público;\n\nd) Inspecção de Seguros.\n\nArt. 6.º O Secretário de Estado do Tesouro despachará ainda os assuntos relativos:\n\na) Ao sistema bancário;\n\nb) À Inspecção de Crédito do Banco de Portugal;\n\nc) Ao Instituto Nacional de Seguros;\n\nd) À Comissão de Crédito e de Garantia de Crédito à Exportação e à tutela da Companhia de Seguros de Crédito;\n\ne) À tutela da Imprensa Nacional-Casa da Moeda, E. P.;\n\nf) À tutela das empresas públicas a exercer pelo Ministério das Finanças nos termos do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e sua legislação complementar;\n\ng) Ao Conselho Consultivo do Mercado Financeiro;\n\nh) Às bolsas de valores.\n\nArt. 7.º Na dependência do Secretário de Estado das Finanças funcionarão os serviços seguintes:\n\na) Gabinete do Secretário de Estado;\n\nb) Direcção-Geral do Património;\n\nc) Direcção-Geral do Tribunal de Contas;\n\nd) Serviços Sociais do Ministério das Finanças;\n\ne) Gabinete de Gestão de Veículos do Estado;\n\nf) Serviço de Informação para o Abastecimento Estatal.\n\nArt. 8.º O Secretário de Estado das Finanças despachará ainda os assuntos relativos:\n\na) Ao Instituto das Participações do Estado;\n\nb) Ao Instituto de Cooperação Económica;\n\nc) A empresas em que se registou intervenção do Estado;\n\nd) A financiamentos propostos pela Comissão Interministerial de Financiamento a Retornados superiores a 10000 contos;\n\ne) Aos contratos de viabilização.\n\nArt. 9.º Este despacho entra em vigor no dia 1 de Setembro e revoga o [Despacho Normativo n.º 180/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/180-1979-381505).\n\nMinistério das Finanças, 29 de Agosto de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco."
+  },
+  "fce8462643b67c9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A autonomização dos Ministérios das Finanças e do Plano exige que se definam as áreas de competência de cada um destes departamentos governamentais e que se estabeleçam, ainda que em termos genéricos, as respectivas orgânicas internas.\n\nEntretanto, está-se ciente de que a elaboração de uma nova lei orgânica do Ministério das Finanças, que deve culminar trabalhos há muito empreendidos, não pode prejudicar uma adequada e funcional reordenação das actuais Secretarias de Estado. Só nessa base será possível caracterizar as atribuições e competências dos diversos departamentos, órgãos e serviços dependentes do Ministério ou nele integrados, reestruturar os serviços de forma racionalmente adequada às necessidades da nova estrutura financeira e da elaboração e execução de verdadeiras políticas financeiras e monetárias, obter uma maior desconcentração e produtividade dos serviços e dos organismos dependentes, enfim, criar os organismos, serviços ou departamentos exigidos pelas novas funções que têm sido atribuídas ao Ministério.\n\nNestes termos, ao abrigo do artigo 202.º, alínea d), da Constituição, determino o seguinte, enquanto se não proceder à reestruturação dos serviços:"
+  },
+  "51efa93bb8848c9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - O Ministério das Finanças, cuja orientação global cabe ao respectivo Ministro, compreende as seguintes Secretarias de Estado:\n\na) Secretaria de Estado do Orçamento;\n\nb) Secretaria de Estado do Tesouro;\n\nc) Secretaria de Estado das Finanças.\n\n2 - O Conselho Superior de Economia funcionará, até à sua extinção, na directa dependência do Ministro das Finanças."
+  },
+  "b327141f1224f31b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1979-10-16",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 317/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/317-1979-364935), publicado em 1979-10-16."
+   ],
+   "markdown": "###### Artigo 2.º\n\nDependem directamente do Ministro das Finanças os serviços seguintes:\n\na) Gabinete do Ministro;\n\nb) Secretaria-Geral;\n\nc) Gabinete de Estudos e Planeamento;\n\nd) Auditoria Jurídica;\n\ne) Gabinete para a Cooperação Económica Externa;\n\nf) Gabinete de Informação e Relações Públicas.\n\ng) Biblioteca Central do Ministério das Finanças.\n\n> Alterado pelo/a [Despacho Normativo n.º 317/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/317-1979-364935), publicado em 1979-10-16."
+  },
+  "6b24cad2df393568": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Ministro das Finanças exerce, por acumulação, a gestão directa da Secretaria de Estado das Finanças."
+  },
+  "281b8ac7c05bbcdd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNa dependência do Secretário de Estado do Orçamento funcionarão os serviços seguintes:\n\na) Gabinete do Secretário de Estado;\n\nb) Intendência-Geral do Orçamento;\n\nc) Direcção-Geral da Contabilidade Pública;\n\nd) Direcção-Geral das Contribuições e Impostos;\n\ne) Inspecção-Geral de Finanças;\n\nf) Direcção-Geral das Alfândegas;\n\ng) Guarda Fiscal;\n\nh) Fundo de Abastecimento;\n\ni) Instituto Geográfico e Cadastral;\n\nj) Instituto de Informática;\n\nl) Caixa Geral de Aposentações e Montepio dos Servidores do Estado;\n\nm) Assistência na Doença aos Servidores do Estado."
+  },
+  "c3d35179b68d44fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNa dependência do Secretário de Estado do Tesouro funcionarão os serviços seguintes:\n\na) Gabinete do Secretário de Estado;\n\nb) Direcção-Geral do Tesouro;\n\nc) Junta do Credito Público;\n\nd) Inspecção de Seguros."
+  },
+  "f82f4ea0461fff1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO Secretário de Estado do Tesouro despachará ainda os assuntos relativos:\n\na) Ao sistema bancário;\n\nb) À Inspecção de Crédito do Banco de Portugal;\n\nc) Ao Instituto Nacional de Seguros;\n\nd) À Comissão de Crédito e de Garantia de Crédito à Exportação e à tutela da Companhia de Seguros de Crédito;\n\ne) À tutela da Imprensa Nacional-Casa da Moeda, E. P.;\n\nf) À tutela das empresas públicas a exercer pelo Ministério das Finanças nos termos do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e sua legislação complementar;\n\ng) Ao Conselho Consultivo do Mercado Financeiro;\n\nh) Às bolsas de valores."
+  },
+  "c12bd792fef44e95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1979-10-16",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 315/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/315-1979-364908), publicado em 1979-10-13."
+   ],
+   "markdown": "###### Artigo 7.º\n\nNa dependência do Secretário de Estado das Finanças funcionarão os serviços seguintes:\n\na) Gabinete do Secretário de Estado;\n\nb) Direcção-Geral do Património;\n\nc) Direcção-Geral do Tribunal de Contas;\n\nd) Serviços Sociais do Ministério das Finanças;\n\ne) Gabinete de Gestão de Veículos do Estado;\n\nf) Serviço de Informação para o Abastecimento Estatal.\n\ng) Comissão Liquidatária do Comissariado para os Desalojados.\n\n> Alterado pelo/a [Despacho Normativo n.º 315/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/315-1979-364908), publicado em 1979-10-13."
+  },
+  "df9f68f3774248dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO Secretário de Estado das Finanças despachará ainda os assuntos relativos:\n\na) Ao Instituto das Participações do Estado;\n\nb) Ao Instituto de Cooperação Económica;\n\nc) A empresas em que se registou intervenção do Estado;\n\nd) A financiamentos propostos pela Comissão Interministerial de Financiamento a Retornados superiores a 10000 contos;\n\ne) Aos contratos de viabilização."
+  },
+  "8b272c68356006c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nEste despacho entra em vigor no dia 1 de Setembro e revoga o [Despacho Normativo n.º 180/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/180-1979-381505).\n\nMinistério das Finanças, 29 de Agosto de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco."
+  }
+ }
+}

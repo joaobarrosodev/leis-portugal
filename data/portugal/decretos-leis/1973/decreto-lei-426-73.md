@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-11-09'
+version_history:
+  file: decreto-lei-426-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-08-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-11-09'
+    amending: pt:dre:363280:por
+    amending_title: Decreto-Lei n.º 447/79
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:28:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 447/79. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-426-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,17 +134,31 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º As categorias e os vencimentos do pessoal docente das escolas superiores de belas-artes são os constantes do mapa anexo ao presente diploma.
+###### Artigo 1.º
 
-Art. 2.º Os professores terão direito a uma só diuturnidade, decorridos quinze anos sobre o início das suas funções nesta categoria.
+As categorias e os vencimentos do pessoal docente das escolas superiores de belas-artes são os constantes do mapa anexo ao presente diploma.
 
-Art. 3.º Poderá o Ministro da Educação Nacional, durante dois anos, ouvida uma comissão por ele designada, nomear ou contratar, como professores ou primeiros-assistentes, para as escolas superiores de belas-artes, individualidades especialmente qualificadas.
+###### Artigo 2.º
 
-Art. 4.º Dentro do prazo fixado no artigo anterior serão publicados, de acordo com a lei orientadora do ensino superior, os estatutos dessas escolas, nos quais se estabelecerão os regimes de concurso do seu pessoal docente.
+Os professores terão direito a uma só diuturnidade, decorridos quinze anos sobre o início das suas funções nesta categoria.
 
-Art. 5.º Sem prejuízo do disposto no artigo anterior, ao provimento e recrutamento dos assistentes e dos assistentes eventuais são aplicáveis as disposições previstas no [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, para idênticas categorias.
+###### Artigo 3.º
 
-Art. 6.º - 1. Os segundos-assistentes que à data da entrada em vigor do presente diploma tiverem, pelo menos, dois anos lectivos de serviço passam a assistentes, mediante anotação do Tribunal de Contas.
+Poderá o Ministro da Educação Nacional, durante dois anos, ouvida uma comissão por ele designada, nomear ou contratar, como professores ou primeiros-assistentes, para as escolas superiores de belas-artes, individualidades especialmente qualificadas.
+
+###### Artigo 4.º
+
+Dentro do prazo fixado no artigo anterior serão publicados, de acordo com a lei orientadora do ensino superior, os estatutos dessas escolas, nos quais se estabelecerão os regimes de concurso do seu pessoal docente.
+
+###### Artigo 5.º
+
+Sem prejuízo do disposto no artigo anterior, ao provimento e recrutamento dos assistentes, assistentes eventuais e assistentes especialmente contratados são aplicáveis as disposições previstas no [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
+
+> Alterado pelo/a [Decreto-Lei n.º 447/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1979-363280), publicado em 1979-11-09.
+
+###### Artigo 6.º
+
+1. Os segundos-assistentes que à data da entrada em vigor do presente diploma tiverem, pelo menos, dois anos lectivos de serviço passam a assistentes, mediante anotação do Tribunal de Contas.
 
 2. Os restantes segundos-assistentes ficam sujeitos ao regime definido para a categoria de assistente eventual.
 

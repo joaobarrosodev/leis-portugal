@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:561591:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1981-10-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b5ab8f22c421bde9"
+   ]
+  },
+  {
+   "date": "1984-10-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:399650:por",
+     "title": "Decreto-Lei n.º 314/84",
+     "published": "1984-09-27",
+     "dre_path": "/dr/detalhe/decreto-lei/314-1984-399650"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "091c14959cb3f280",
+    "598cd2a4ca1700f4",
+    "9bff604d4e5ed882",
+    "c14250de07432a79",
+    "aaa9080a7ee6df8d",
+    "6be44148ee4a5e0a",
+    "13fe18af67dc72ad",
+    "0e4f6a641c9f499b",
+    "aae130688d4c9b7a"
+   ]
+  }
+ ],
+ "fragments": {
+  "b5ab8f22c421bde9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Outubro\n\nPelo [Decreto-Lei n.º 143/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1981-574371), de 3 de Junho, foi atribuído ao pessoal da Polícia de Segurança Pública que, por imposição ou escolha, for nomeado para\n\nprestar serviço nas regiões Autónomas da Madeira e dos Açores um subsídio de deslocamento.\n\nA Guarda Fiscal mantém naquelas Regiões Autónomas unidades onde o seu pessoal presta serviço em condições em tudo idênticas às do pessoal da Polícia de Segurança Pública contempladas pelo citado diploma legal.\n\nÉ indispensável e urgente uniformizar as condições de concessão da referida remuneração acessória, sobre as quais, aliás, a CIPRA se pronunciou favoravelmente a respeito da PSP, sendo inviável convocar de novo em tempo útil a referida Comissão para efeito do disposto no artigo 8.º, n.º 2, do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - O pessoal militar da Guarda Fiscal que, por imposição ou escolha, for nomeado para prestar serviço temporariamente nas unidades das Regiões Autónomas da Madeira e dos Açores terá direito ao subsídio mensal de deslocação abaixo designado:\n\na) Oficiais - 5300$00;\n\nb) Sargentos - 4500$00;\n\ne) Praças - 3700$00.\n\n2 - Quando ao militar da Guarda Fiscal for fornecida, consoante os casos, habitação ou alojamento, ser-lhe-ão abonados apenas 2500$00.\n\nArt. 2.º O subsídio referido no artigo anterior não é acumulável com o criado pelos Decretos-Leis n.os 38477, de 29 de Outubro de 1951.º e 47939, de 15 de Setembro de 1967, podendo, contudo, o pessoal deslocado nas ilhas de Santa Maria e de Porto Santo optar pelo quantitativo mais elevado.\n\nArt. 3.º O subsídio criado por este diploma não é atribuído aos soldados quando se trate da sua primeira colocação após o curso de alistados.\n\nArt. 4.º Os oficiais do Exército colocados nas unidades da Guarda Fiscal das Regiões Autónomas serão abonados do subsídio previsto neste diploma ou dos que estiverem em vigor para as forças armadas, conforme os diplomas de nomeação.\n\nArt. 5.º Por despacho do comandante-geral da Guarda Fiscal será estabelecido o tempo de permanência nos comandos insulares do pessoal abrangido pelas disposições deste diploma.\n\nArt. 6.º Os encargos resultantes da execução deste diploma serão satisfeitos no corrente ano económico pela rubrica respectiva do orçamento em vigor para a Guarda Fiscal.\n\nArt. 7.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.\n\nArt. 8.º Este diploma produz efeitos a partir do dia 1 de Julho de 1981.\n\nVisto e aprovado em Conselho de Ministros de 20 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 25 de Setembro de 1981.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "091c14959cb3f280": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 8 de Outubro\n\nPelo [Decreto-Lei n.º 143/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1981-574371), de 3 de Junho, foi atribuído ao pessoal da Polícia de Segurança Pública que, por imposição ou escolha, for nomeado para\n\nprestar serviço nas regiões Autónomas da Madeira e dos Açores um subsídio de deslocamento.\n\nA Guarda Fiscal mantém naquelas Regiões Autónomas unidades onde o seu pessoal presta serviço em condições em tudo idênticas às do pessoal da Polícia de Segurança Pública contempladas pelo citado diploma legal.\n\nÉ indispensável e urgente uniformizar as condições de concessão da referida remuneração acessória, sobre as quais, aliás, a CIPRA se pronunciou favoravelmente a respeito da PSP, sendo inviável convocar de novo em tempo útil a referida Comissão para efeito do disposto no artigo 8.º, n.º 2, do [Decreto-Lei n.º 110-A/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1981-466655), de 14 de Maio.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "598cd2a4ca1700f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1984-10-02",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 314/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1984-399650), publicado em 1984-09-27."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - O pessoal militar da Guarda Fiscal que, por imposição ou escolha, for nomeado para prestar serviço temporariamente nas unidades das Regiões Autónomas dos Açores e da Madeira terá direito ao subsídio mensal de deslocação nos termos seguintes:\n\na) Oficiais ... 14000$00\n\nb) Sargentos ... 12000$00\n\nc) Praças ... 10000$00\n\n2 - Quando aos militares da Guarda Fiscal for fornecida, consoante os casos, habitação ou alojamento, ser-lhes-ão abonados os seguintes quantitativos:\n\na) Oficiais ... 6000$00\n\nb) Sargentos ... 5000$00\n\nc) Praças ... 4000$00\n\n> Alterado pelo/a [Decreto-Lei n.º 314/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1984-399650), publicado em 1984-09-27."
+  },
+  "9bff604d4e5ed882": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO subsídio referido no artigo anterior não é acumulável com o criado pelos Decretos-Leis n.os 38477, de 29 de Outubro de 1951.º e 47939, de 15 de Setembro de 1967, podendo, contudo, o pessoal deslocado nas ilhas de Santa Maria e de Porto Santo optar pelo quantitativo mais elevado."
+  },
+  "c14250de07432a79": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO subsídio criado por este diploma não é atribuído aos soldados quando se trate da sua primeira colocação após o curso de alistados."
+  },
+  "aaa9080a7ee6df8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs oficiais do Exército colocados nas unidades da Guarda Fiscal das Regiões Autónomas serão abonados do subsídio previsto neste diploma ou dos que estiverem em vigor para as forças armadas, conforme os diplomas de nomeação."
+  },
+  "6be44148ee4a5e0a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPor despacho do comandante-geral da Guarda Fiscal será estabelecido o tempo de permanência nos comandos insulares do pessoal abrangido pelas disposições deste diploma."
+  },
+  "13fe18af67dc72ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs encargos resultantes da execução deste diploma serão satisfeitos no corrente ano económico pela rubrica respectiva do orçamento em vigor para a Guarda Fiscal."
+  },
+  "0e4f6a641c9f499b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano."
+  },
+  "aae130688d4c9b7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nEste diploma produz efeitos a partir do dia 1 de Julho de 1981.\n\nVisto e aprovado em Conselho de Ministros de 20 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 25 de Setembro de 1981.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

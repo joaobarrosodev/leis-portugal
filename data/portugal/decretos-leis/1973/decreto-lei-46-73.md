@@ -38,10 +38,63 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-10-12'
+version_history:
+  file: decreto-lei-46-73.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1973-02-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-10-12'
+    amending: pt:dre:328663:por
+    amending_title: Decreto-Lei n.º 303/78
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
+    - Revoga Artigo 39.º
+    - Revoga Artigo 40.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +120,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:28:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 303/78. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1973/decreto-lei-46-73.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -169,39 +223,41 @@ I
 
 Das atribuições e competência
 
-Artigo 1.º A Direcção-Geral da Administração Escolar, instituída pelo [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, é um dos serviços executivos no sector do ensino, ao qual incumbe efectuar a gestão do pessoal e das instalações e equipamento afectos aos diversos estabelecimentos públicos de ensino, bem como exercer a superintendência administrativa e financeira sobre os mesmos estabelecimentos, sem prejuízo da autonomia concedida às Universidades.
+###### Artigo 1.º
 
-Art. 2.º - 1. No desempenho da sua missão e no âmbito do sector das actividades em que superintende, é da competência da Direcção-Geral:
+(Revogado.)
 
-a) Em matéria de pessoal, organizar e manter actualizado o cadastro de todo o pessoal docente, técnico, administrativo e auxiliar dos estabelecimentos de ensino público, dependentes do Ministério da Educação Nacional, e bem assim proceder à preparação e execução das operações administrativas respeitantes ao recrutamento, provimento, colocação e outros aspectos relativos à situação, actualização e remuneração do mesmo pessoal, sem prejuízo da competência própria das direcções-gerais e serviços dependentes;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-b) Em matéria de instalações e equipamento, organizar e manter actualizado o cadastro das instalações e equipamento existentes, velar pela sua guarda e conservação, inventariar as necessidades de novas instalações e equipamento e proceder à preparação e execução das operações atinentes à satisfação dessas necessidades, tendo sobretudo em vista a apresentação, por forma global e sistemática, à Direcção-Geral das Construções Escolares, dos empreendimentos que devam ser executados por esse departamento;
+###### Artigo 2.º
 
-c) Em matéria administrativa e financeira, superintender na preparação e execução de todas as actividades dessa natureza respeitantes aos diversos estabelecimentos de ensino dependentes do Ministério da Educação Nacional.
+(Revogado.)
 
-2. A competência referida no número anterior não abrange os estabelecimentos de ensino superior universitário.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-3. A competência referida na alínea a) não abrange os estabelecimentos de ensino superior não universitário e a referida nas alíneas b) e c), relativamente aos mesmos estabelecimentos, será exercida em coordenação com a Direcção-Geral do Ensino Superior.
+###### Artigo 3.º
 
-Art. 3.º - 1. Na prossecução das atribuições referidas no artigo anterior, compete especialmente à Direcção-Geral da Administração Escolar:
+(Revogado.)
 
-a) Empreender, em colaboração com os serviços centrais do Ministério e outros organismos, públicos ou privados, estudos que interessem ao desempenho das suas atribuições;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-b) Colaborar na organização dos cursos de formação e aperfeiçoamento em administração escolar, previstos no n.º 2 do artigo 30.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, nos termos que vierem a ser estabelecidos pelo Ministro da Educação Nacional;
+###### Artigo 4.º
 
-c) Articular, com a Inspecção-Geral do Ensino Particular, as formas de coordenação entre os ensinos oficial e particular em matéria administrativa e financeira.
+(Revogado.)
 
-2. A Direcção-Geral da Administração Escolar exercerá as suas funções em íntima colaboração com as direcções-gerais de ensino.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-Art. 4.º A Direcção-Geral da Administração Escolar deverá, por si, ou em colaboração com outros órgãos e serviços do Ministério da Educação Nacional, ou outras entidades públicas ou privadas, recorrer às modernas técnicas de gestão, nomeadamente nos domínios do pessoal, das instalações, do apetrechamento e da administração financeira.
+###### Artigo 5.º
 
-Art. 5.º - 1. Compete ao director-geral superintender em todos os serviços da Direcção-Geral, submetendo a despacho ministerial os assuntos que careçam de resolução superior.
+(Revogado.)
 
-2. O director-geral poderá receber do Ministro da Educação Nacional delegação de competência para despachar assuntos relativos às funções de administração geral que pertençam à Direcção-Geral da Administração Escolar.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-3. Para efeitos do disposto no número anterior, consideram-se funções de administração geral as que respeitam à gestão do pessoal, dos meios materiais, dos recursos orçamentais e outras, relativas aos estabelecimentos de ensino e que constituam simples meio de permitir o exercício das suas atribuições específicas.
+###### Artigo 6.º
 
-Art. 6.º O director-geral é coadjuvado pelos directores de serviços, competindo-lhe designar aquele que o deverá substituir nas suas faltas e impedimentos.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
 II
 
@@ -209,317 +265,277 @@ Dos órgãos e serviços
 
 #### SECÇÃO I — Dos serviços em geral
 
-Art. 7.º - 1. A Direcção-Geral da Administração Escolar compreende os seguintes serviços:
+###### Artigo 7.º
 
-a) Direcção dos Serviços de Programação e Instalações;
+(Revogado.)
 
-b) Direcção de Serviços de Pessoal;
-
-c) Divisão de Administração e Finanças;
-
-d) Repartição Administrativa.
-
-2. Os órgãos e serviços externos, referidos no artigo 24.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, serão objecto de legislação especial.
-
-3. Nesta Direcção-Geral funciona ainda a Comissão de Equipamento Escolar.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
 #### SECÇÃO II — Da Direcção de Serviços de Programação e Instalações
 
-Art. 8.º - 1. Compete à Direcção de Serviços de Programação e Instalações proceder ao estudo, programação, preparação e execução das operações atinentes à satisfação das necessidades em instalações e apetrechamento dos estabelecimentos públicos de ensino, dependentes do Ministério da Educação Nacional, sem prejuízo da competência da Comissão de Equipamento Escolar e da Comissão da Rede Escolar.
+###### Artigo 8.º
 
-2. A Direcção de Serviços de Programação e Instalações compreende:
+(Revogado.)
 
-a) A Divisão de Estudos;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-b) A Divisão de Programação;
+###### Artigo 9.º
 
-c) O Gabinete Técnico.
+(Revogado.)
 
-Art. 9.º Cabe à Direcção de Serviços de Programação e Instalações, pela Divisão de Estudos:
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-a) Estudar e propor soluções para os problemas das instalações escolares nos aspectos pedagógico, económico, administrativo e técnico, tendo em vista a rendibilidade do ensino e o melhor aproveitamento dos recursos;
+###### Artigo 10.º
 
-b) Colaborar na definição de normas de manutenção e conservação do apetrechamento dos estabelecimentos de ensino, tendo em vista a sua melhor utilização;
+(Revogado.)
 
-c) Elaborar, em colaboração com outros departamentos do Ministério da Educação Nacional, os programas preliminares das instalações escolares;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-d) Participar, junto dos departamentos executores, na elaboração dos programas base das instalações escolares;
+###### Artigo 11.º
 
-e) Acompanhar, com funções consultivas, a elaboração das fases dos projectos subsequentes das indicadas nas alíneas anteriores, a cargo dos diferentes departamentos intervenientes na construção escolar;
+(Revogado.)
 
-f) Executar ou acompanhar a concretização dos programas relativos a instalações e equipamento dos estabelecimentos de ensino superior, aprovados no âmbito da Direcção-Geral do Ensino Superior;
-
-g) Empreender e colaborar em iniciativas que visem a divulgação de novos tipos de instalações e de apetrechamento escolares;
-
-h) Estudar e definir, em colaboração com os restantes órgãos e serviços do Ministério da Educação Nacional ou recorrendo a outras entidades qualificadas, tipologias de equipamento por graus e ramos de ensino;
-
-i) Estudar critérios e soluções visando a adaptação de instalações para o funcionamento de estabelecimentos de ensino;
-
-j) Participar em experiências pedagógicas no que se refere à concepção e utilização dos espaços, do mobiliário e do material didáctico.
-
-Art. 10.º Cabe à Direcção de Serviços de Programação e Instalações, pela Divisão de Programação:
-
-a) Promover, em colaboração com a Secretaria-Geral, a obtenção de elementos estatísticos referentes a alunos, equipamento e instalações;
-
-b) Participar nos trabalhos do recenseamento escolar dos indivíduos sujeitos ao ensino obrigatório;
-
-c) Organizar e manter actualizado o cadastro das instalações e do apetrechamento afectos aos diversos estabelecimentos públicos de ensino básico e secundário, promovendo a dinamização da sua utilização;
-
-d) Organizar e instruir os processos de criação, modificação ou extinção dos estabelecimentos públicos de ensino e tomar as providências necessárias para dar execução às propostas da Comissão da Rede Escolar, aprovadas pelo Ministro;
-
-e) Inventariar as necessidades em instalações e apetrechamento escolares;
-
-f) Elaborar os projectos de programas plurianuais e anuais dos empreendimentos, nos domínios das instalações e apetrechamento escolares;
-
-g) Garantir a coordenação da intervenção dos diferentes departamentos e serviços na execução dos empreendimentos programados;
-
-h) Coordenar a intervenção do Ministério da Educação Nacional na apreciação de estudos e projectos urbanísticos, nomeadamente os submetidos ao Ministério da Obras Públicas.
-
-Art. 11.º - 1. Cabe à Direcção de Programação e Instalações, pelo Gabinete Técnico:
-
-a) Promover e realizar, nos domínios da arquitectura e engenharia, estudos técnicos e económicos necessários à preparação e realização dos programas relativos à rede escolar;
-
-b) Promover a elaboração dos projectos e a execução, em instalações escolares, das obras cometidas directamente ao Ministério da Educação Nacional;
-
-c) Prestar colaboração, nos domínios referidos na alínea anterior, a outros órgãos e serviços, nomeadamente às autarquias locais e ao Ministério das Obras Públicas, no respeitante a construções escolares ou hospitalares dependentes do Ministério da Educação Nacional ou correlacionadas com as suas actividades;
-
-d) Prestar o apoio técnico, em matéria de construções e equipamento, aos serviços centrais do Ministério.
-
-2. Para efeitos da conservação, reparação ou remodelação de instalações escolares, pode o Ministro da Educação Nacional determinar a execução de obras, de custo não superior a 500 contos, desde que não seja ultrapassada a importância anual de 2000 contos em relação a cada edifício.
-
-3. No que concerne a adaptações destinadas a instalações escolares, de acção social, de actividades juvenis, desportivas ou culturais, pode o Ministro da Educação Nacional determinar a execução de obras cujo custo não ultrapasse a importância de 2000 contos.
-
-4. Pode, ainda, o Ministro da Educação Nacional autorizar a implantação de instalações pré-fabricadas, de acordo com os programas aprovados no âmbito dos planos de fomento ou do orçamento ordinário do Ministério.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
 #### SECÇÃO III — Da Direcção de Serviços de Pessoal
 
-Art. 12.º - 1. Compete à Direcção de Serviços de Pessoal assegurar e coordenar as funções que, em matéria de política, gestão e administração de pessoal, competem à Direcção-Geral, nos termos dos artigos 1.º e 2.º do presente diploma.
+###### Artigo 12.º
 
-2. Compete à Direcção-Geral da Administração Escolar, através desta Direcção de Serviços, o exercício da acção disciplinar sobre o pessoal técnico, administrativo e auxiliar dos estabelecimentos públicos de ensino.
+(Revogado.)
 
-3. A Direcção de Serviços de Pessoal compreende uma divisão e três repartições.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-Art. 13.º Compete a esta Direcção de Serviços, pela Divisão de Pessoal:
+###### Artigo 13.º
 
-a) Realizar, em colaboração com os serviços das direcções-gerais de ensino e outros departamentos do Ministério da Educação Nacional, os estudos relativos aos regimes de pessoal em vigor e das alterações que for conveniente introduzir-lhes;
+(Revogado.)
 
-b) Promover acções de formação e aperfeiçoamento em técnicas de administração do pessoal administrativo dos estabelecimentos de ensino, em colaboração com a Secretaria-Geral;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-c) Colaborar no estudo e resolução dos problemas de relações humanas que se suscitem nos estabelecimentos de ensino.
+###### Artigo 14.º
 
-Art. 14.º - 1. Às repartições da Direcção de Serviços de Pessoal incumbe ocuparem-se do cadastro, recrutamento, provimento, colocação, transferência, exoneração e quaisquer outros assuntos relativos à administração do pessoal dos estabelecimentos públicos de ensino.
+(Revogado.)
 
-2. À 1.ª Repartição cabem as tarefas relativas ao pessoal docente do ensino primário e da educação pré-escolar.
-
-3. À 2.ª Repartição incumbem as actividades relativas ao pessoal docente dos ensinos preparatório e secundário.
-
-4. À 3.ª Repartição cabem as tarefas relativas ao pessoal técnico, administrativo e auxiliar dos estabelecimentos públicos de ensino.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
 #### SECÇÃO IV — Da Divisão de Administração e Finanças
 
-Art. 15.º Compete à Divisão de Administração e Finanças superintender na preparação e execução das actividades de natureza administrativa e financeira respeitantes aos diversos estabelecimentos de ensino dependentes do Ministério da Educação Nacional, prestando-lhes o necessário apoio técnico e sem prejuízo do disposto nos n.os 2 e 3 do artigo 2.º
+###### Artigo 15.º
 
-Art. 16.º - 1. Compete especialmente a esta Divisão:
+(Revogado.)
 
-a) Colaborar na avaliação sistemática dos recursos financeiros necessários à execução das medidas determinadas pelo Ministro da Educação Nacional;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-b) Orientar a preparação dos projectos de orçamento dos estabelecimentos de ensino, apreciá-los em conjunto com os serviços centrais do Ministério da Educação Nacional directamente interessados e acompanhar regularmente a respectiva execução;
+###### Artigo 16.º
 
-c) Orientar e coordenar os processos de administração dos estabelecimentos públicos de ensino e propor as medidas tendentes à sua racionalização, simplificação e uniformização.
+(Revogado.)
 
-2. Para efeitos do disposto na alínea b) do número anterior, os estabelecimentos de ensino deverão enviar a Direcção-Geral da Administração Escolar, até 31 de Maio de cada ano, os projectos de orçamento para o ano seguinte.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
 #### SECÇÃO V — Da Repartição Administrativa
 
-Art. 17.º À Repartição Administrativa compete:
+###### Artigo 17.º
 
-a) Assegurar os serviços de expediente geral, contabilidade, economato e de administração do pessoal da Direcção-Geral, sem prejuízo da competência da Secretaria-Geral;
+(Revogado.)
 
-b) Prestar apoio administrativo aos órgãos e serviços da Direcção-Geral.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
 III
 
 Da Comissão de Equipamento Escolar
 
-Art. 18.º - 1. À Comissão de Equipamento Escolar incumbe tratar dos assuntos relacionados com o apetrechamento inicial e reapetrechamento dos estabelecimentos públicos de ensino dependentes do Ministério da Educação Nacional, excepto os do ensino universitário.
+###### Artigo 18.º
 
-2. A Comissão de Equipamento Escolar goza de autonomia administrativa e financeira.
+(Revogado.)
 
-Art. 19.º Na prossecução das finalidades definidas no artigo anterior, compete especialmente à Comissão de Equipamento Escolar:
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-a) Promover a aquisição, recepção, distribuição e transferência do apetrechamento destinado aos estabelecimentos de ensino, de harmonia com os programas plurianuais ou anuais superiormente aprovados;
+###### Artigo 19.º
 
-b) Estudar as potencialidades e disponibilidades dos mercados com vista às aquisições a efectuar, tendo nomeadamente em conta a evolução das necessidades pedagógico-didáctica e a da produção de material escolar;
+(Revogado.)
 
-c) Colaborar em iniciativas que visem a divulgação de novos tipos de apetrechamento escolar;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-d) Assegurar a intervenção do Ministério da Educação Nacional nas fases de adjudicação e recepção do apetrechamento a cargo de outras entidades;
+###### Artigo 20.º
 
-e) Definir as normas de manutenção e conservação do apetrechamento dos estabelecimentos de ensino, tendo em vista a sua melhor utilização;
+(Revogado.)
 
-f) Colaborar com a Direcção de Serviços de Programação e Instalações na organização e actualização do cadastro do apetrechamento dos estabelecimentos públicos de ensino.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-Art. 20.º Constituem receitas próprias da Comissão de Equipamento Escolar:
+###### Artigo 21.º
 
-a) As dotações inscritas no Orçamento Geral do Estado;
+(Revogado.)
 
-b) Os rendimentos de bens próprios;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-c) As comparticipações ou subsídios concedidos por pessoas colectivas de direito público;
+###### Artigo 22.º
 
-d) As heranças, legados, doações e outros subsídios ou comparticipações atribuídas por quaisquer entidades, oficiais ou particulares, e legalmente aceites;
+(Revogado.)
 
-e) As provenientes da venda de material considerado incapaz ou dispensável;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-f) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas.
+###### Artigo 23.º
 
-Art. 21.º Constituem encargos da Comissão de Equipamento Escolar:
+(Revogado.)
 
-a) As despesas respeitantes à aquisição, instalação e transferência do apetrechamento destinado aos estabelecimentos públicos de ensino dependentes do Ministério;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-b) As despesas relativas ao seu funcionamento.
+###### Artigo 24.º
 
-Art. 22.º A Comissão de Equipamento Escolar tem os seguintes órgãos:
+(Revogado.)
 
-a) Conselho Administrativo;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-b) Conselho Técnico.
+###### Artigo 25.º
 
-Art. 23.º - 1. O Conselho Administrativo é constituído pelo director-geral da Administração Escolar, que preside, e por cinco vogais designados pelo Ministro da Educação Nacional, um dos quais será um representante da Direcção-Geral da Contabilidade Pública.
+(Revogado.)
 
-2. Os vogais do Conselho Administrativo exercerão as suas funções por períodos de três anos, renováveis, sem prejuízo de, a todo o tempo, poderem ser substituídos.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-Art. 24.º Compete em especial ao Conselho Administrativo:
+###### Artigo 26.º
 
-a) Elaborar o programa de trabalhos para o ano seguinte, de harmonia com o plano plurianual em vigor, e executá-lo depois de superiormente aprovado;
+(Revogado.)
 
-b) Elaborar os regulamentos internos para aprovação ministerial;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-c) Elaborar o relatório anual das actividades da Comissão;
+###### Artigo 27.º
 
-d) Submeter à aprovação do Ministro da Educação Nacional o projecto de orçamento para o ano seguinte;
+(Revogado.)
 
-e) Proceder à cobrança das receitas;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-f) Autorizar o pagamento das despesas;
+###### Artigo 28.º
 
-g) Deliberar, ouvida a Direcção-Geral da Fazenda Pública, sobre a alienação de material pertencente aos estabelecimentos públicos de ensino, considerando incapaz ou dispensável, e promover, quando conveniente, a sua venda;
+(Revogado.)
 
-h) Aprovar as contas de gerência para julgamento do Tribunal de Contas.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-Art. 25.º - 1. O Conselho Técnico é constituído por um presidente e sete vogais.
+###### Artigo 29.º
 
-2. O presidente será um dos directores-gerais dos serviços centrais do Ministério da Educação Nacional, designado pelo Ministro, e desempenhará estas funções por períodos de três anos renováveis.
+(Revogado.)
 
-3. Os vogais serão designados pelo Ministro da Educação Nacional de entre o pessoal dirigente e técnico dos serviços centrais do Ministério.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-4. O director-geral da Administração Escolar fará obrigatòriamente parte do Conselho Técnico.
+###### Artigo 30.º
 
-Art. 26.º Compete ao Conselho Técnico formular propostas ou pronunciar-se e emitir parecer sobre todas as questões que sejam submetidas à sua apreciação, e designadamente:
+(Revogado.)
 
-a) Os estudos relacionados com a preparação e execução dos planos e programas de equipamento dos estabelecimentos de ensino nos domínios da competência da Comissão de Equipamento Escolar;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-b) Outros estudos e projectos desenvolvidos pela Direcção-Geral da Administração Escolar.
+###### Artigo 31.º
 
-Art. 27.º - 1. O Conselho Administrativo e o Conselho Técnico deliberam por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
+(Revogado.)
 
-2. Para que o Conselho Administrativo possa deliberar, é necessária a presença da maioria dos seus membros.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-3. Os membros do Conselho Administrativo são solidariamente responsáveis pelos fundos confiados à sua gestão.
+###### Artigo 32.º
 
-4. O secretariado das reuniões do Conselho Administrativo e do Conselho Técnico será confiado a funcionários a designar pelo presidente do Conselho Administrativo de entre o pessoal que preste serviço na Comissão.
+(Revogado.)
 
-Art. 28.º - 1. Todos os fundos postos à disposição da Comissão de Equipamento Escolar, qualquer que seja a sua proveniência, serão depositados na Caixa Geral de Depósitos, Crédito de Previdência.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-2. Todos os documentos relativos a levantamentos de fundos, recebimentos e pagamentos serão obrigatòriamente assinados pelo presidente do Conselho Administrativo, ou por quem suas vezes fizer, e por um vogal do mesmo Conselho.
+###### Artigo 33.º
 
-Art. 29.º Poderão ser constituídos fundos permanentes, em termos a fixar por despacho conjunto dos Ministros das Finanças e da Educação Nacional, sobre proposta do Conselho Administrativo.
+(Revogado.)
 
-Art. 30.º A movimentação dos depósitos da Comissão de Equipamento Escolar está isenta de imposto do selo e de prémio de transferência.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-Art. 31.º Aos membros do Conselho Administrativo e do Conselho Técnico serão abonadas gratificações mensais, a fixar por despacho conjunto dos Ministros das Finanças e da Educação Nacional, mantendo-se, entretanto, as remunerações em vigor para os membros da Comissão de Reapetrechamento em Material das Escolas Superiores e Secundárias e do respectivo Conselho Administrativo.
+###### Artigo 34.º
 
-Art. 32.º O serviço normal da Comissão é assegurado por pessoal dos quadros únicos do Ministério da Educação Nacional, designado pelo Ministro.
+(Revogado.)
 
-Art. 33.º - 1. As necessidades de serviço de natureza técnica ou administrativa que não possam ser asseguradas pelo pessoal referido no número anterior serão satisfeitas por pessoal a contratar ou a assalariar, além do quadro, mediante autorização do Ministro da Educação Nacional.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-2. O pessoal referido no número anterior pode ser autorizado a exercer funções em regime de tempo parcial, percebendo gratificações a fixar nos termos do disposto no [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+###### Artigo 35.º
 
-Art. 34.º Aos membros do Conselho Administrativo e do Conselho Técnico, bem como ao restante pessoal da Comissão e a todos os que nela forem chamados a colaborar, serão abonadas ajudas de custo e despesas de transporte quando tiverem de deslocar-se no desempenho das suas funções.
+(Revogado.)
 
-Art. 35.º - 1. O tesoureiro terá direito a abono para falhas.
-
-2. O abono referido no número anterior será de montante igual ao atribuído ao pessoal das tesourarias da Fazenda Pública, quando haja equivalência de vencimentos, e, nos restantes casos, será fixado por despacho conjunto dos Ministros das Finanças e da Educação Nacional.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
 IV
 
 Do pessoal
 
-Art. 36.º - 1. A Direcção-Geral tem o pessoal dirigente e técnico constante do mapa I anexo ao presente diploma, o qual faz parte do quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.
+###### Artigo 36.º
 
-2. Disporá ainda do pessoal administrativo, técnico auxiliar e auxiliar constante do mapa II anexo ao presente decreto-lei, o qual será acrescentado ao quadro único do Ministério da Educação Nacional a que se refere o n.º 3 do artigo 22.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho.
+(Revogado.)
 
-3. Os quadros referidos nos números anteriores poderão ser alterados por decreto referendado pelos Ministros das Finanças e da Educação Nacional.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-4. O pessoal da Direcção-Geral será distribuído pelos respectivos serviços mediante despacho do director-geral.
+###### Artigo 37.º
 
-Art. 37.º - 1. As formas de recrutamento e os regimes de provimento do pessoal da Direcção-Geral serão estabelecidos no [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), de 19 de Junho, sem prejuízo do disposto nas alíneas seguintes:
+(Revogado.)
 
-a) O lugar de director-geral será provido por escolha do Presidente do Conselho e do Ministro da Educação Nacional, nos termos do artigo 28.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro, de entre diplomados com curso superior adequado e de reconhecida competência, ou de entre inspectores-gerais da Junta Nacional da Educação;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-b) Os lugares de director de serviço serão providos por escolha do Ministro da Educação Nacional, de entre diplomados com curso superior adequado;
+###### Artigo 38.º
 
-c) Os lugares de ingresso nas carreiras de técnicos, arquitectos e engenheiros serão providos por escolha do Ministro, de entre diplomados com cursos superiores apropriados;
+(Revogado.)
 
-d) Os lugares de ingresso de adjuntos técnicos serão providos por concurso de entre diplomados pelos institutos industriais ou comerciais ou ainda de entre indivíduos com formação adequada no domínio da arquitectura;
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-e) O lugar de tesoureiro será provido por escolha do Ministro de entre os chefes de secção, técnicos auxiliares, contabilistas ou primeiros-oficiais do Ministério, ou de entre outros indivíduos de reconhecida competência, sem prejuízo das habilitações exigidas pelo [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969;
+###### Artigo 39.º
 
-f) Os calculadores serão providos por concurso de entre indivíduos habilitados com cursos de formação adequados das escolas técnicas ou com o 2.º ciclo do actual curso liceal;
+(Revogado.)
 
-g) Os lugares de fiscal de obras e de fiel de armazém serão providos por concurso de entre indivíduos com as correspondentes habilitações mínimas exigidas pelo [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-2. O provimento no lugar de director-geral envolve o provimento, a título vitalício, na categoria de inspector-geral da Junta Nacional da Educação, se o nomeado ainda a não tiver.
+###### Artigo 40.º
 
-Art. 38.º - 1. O pessoal dirigente, técnico, técnico auxiliar e administrativo poderá ser autorizado, mediante despacho do Ministro da Educação Nacional, a proceder a inspecções e inquéritos nos estabelecimentos públicos de ensino dependentes da Direcção-Geral da Administração Escolar, nos domínios relativos às instalações, ao equipamento e à administração daqueles estabelecimentos.
+(Revogado.)
 
-2. O pessoal referido no número anterior terá direito a transportes e ajudas de custo, nos termos da legislação em vigor.
-
-Art. 39.º - 1. O Ministro da Educação Nacional poderá autorizar que, pelas disponibilidades de vencimentos ou por força de verbas especialmente inscritas para vencimentos e salários, seja contratado, além dos quadros, pessoal técnico, técnico auxiliar, administrativo ou auxiliar destinado a ocorrer a necessidades eventuais ou extraordinárias dos serviços.
-
-2. A utilização das disponibilidades de vencimentos do pessoal dos quadros, para efeitos do disposto no presente artigo, carece de prévia autorização do Ministro das Finanças.
-
-Art. 40.º O director-geral poderá propor superiormente a admissão de pessoal em regime de prestação de serviço, bem como o convite a entidades nacionais ou estrangeiras para realizarem estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas à Direcção-Geral, nos termos estabelecidos no artigo 35.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193).
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
 V
 
 Disposições finais e transitórias
 
-Art. 41.º No prazo de cento e oitenta dias será aprovado, por decreto, o regulamento da Direcção-Geral da Administração Escolar.
+###### Artigo 41.º
 
-Art. 42.º O Ministro da Educação Nacional pode atribuir dotações ou subsídios a entidades públicas ou privadas destinados à aquisição, construção, arrendamento, remodelação, beneficiação ou apetrechamento de instalações destinadas a fins educacionais.
+(Revogado.)
 
-Art. 43.º É extinta a Comissão de Reapetrechamento - em Material das Escolas Superiores e Secundárias, criada pelo [Decreto-Lei n.º 41114](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41114-1957-282571), de 16 de Maio de 1957, e reorganizada pelo [Decreto-Lei n.º 49043](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49043-1969-200385), de 6 de Junho de 1969, bem como o respectivo conselho administrativo, transitando todos os seus direitos e obrigações para a Comissão de Equipamento Escolar.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-Art. 44.º - 1. É transferida para a Direcção-Geral da Administração Escolar a competência que, nos domínios mencionados no presente diploma, estava atribuída às Direcções-Gerais do Ensino Primário, Liceal e Técnico Profissional e à Direcção de Serviços do Ciclo Preparatório do Ensino Secundário.
+###### Artigo 42.º
 
-2. O Ministro da Educação Nacional determinará, por despacho, as fases, regras e princípios a que deve obedecer a transferência a que alude o número anterior.
+(Revogado.)
 
-Art. 45.º - 1. O pessoal nomeado ou contratado que actualmente presta serviço na Direcção-Geral da Administração Escolar será provido em lugares idênticos ou de categoria equivalente dos quadros anexos ao presente diploma, nos termos estabelecidos no artigo 39.º do [Decreto-Lei n.º 201/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1972-674193), observando-se, no provimento do lugar de director-geral, o disposto no n.º 2 do artigo 37.º
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-2. O disposto no número anterior poderá ser extensivo aos actuais servidores contratados ao abrigo do [Decreto-Lei n.º 129/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1972-396966), de 27 de Abril.
+###### Artigo 43.º
 
-3. O pessoal que actualmente presta serviço nas condições referidas no número anterior, que não for possível prover nos termos previstos no mesmo, transita para a Direcção-Geral da Administração Escolar na situação em que se encontrar à data da publicação deste decreto-lei.
+(Revogado.)
 
-Art. 46.º - 1. Enquanto não for atribuída autonomia financeira às Universidades, os processos de aquisição de apetrechamento para os estabelecimentos de ensino universitários serão organizados na Comissão de Equipamento Escolar.
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-2. Os processos de aquisição referidos no número anterior serão organizados de acordo com os programas aprovados pela Direcção-Geral do Ensino Superior.
+###### Artigo 44.º
 
-3. Os estabelecimentos de ensino universitário poderão fazer-se representar, da forma julgada mais conveniente, na abertura das propostas e no estudo dos processos referidos neste artigo.
+(Revogado.)
 
-Art. 47.º Este diploma entra em vigor no dia 1 de Março, devendo, porém, ser publicada antes dessa data, embora para produzir efeitos a partir dela, a lista a que se refere o n.º 1 do artigo 45.º
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
-Art. 48.º Os encargos resultantes da execução do presente diploma serão suportados pelas dotações inscritas no orçamento da Secretaria-Geral do Ministério da Educação Nacional para o ano de 1973.
+###### Artigo 45.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
+
+###### Artigo 46.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
+
+###### Artigo 47.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
+
+###### Artigo 48.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 303/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1978-328663), publicado em 1978-10-12.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão.
 

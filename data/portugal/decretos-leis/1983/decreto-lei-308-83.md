@@ -30,10 +30,24 @@ notes:
 - Há desconformidade entre o emissor que consta no sumário e o que consta no texto respectivo.
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-03-27'
+version_history:
+  file: decreto-lei-308-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-03-27'
+    amending: pt:dre:326955:por
+    amending_title: Decreto-Lei n.º 73/85
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:52:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 73/85. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1983/decreto-lei-308-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,21 +128,33 @@ Considerando de inteira justiça que aos familiares dos militares e dos funcion�
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º O presente diploma aplica-se aos militares e aos funcionários e agentes da administração central e local e dos institutos públicos nas modalidades de serviços personalizados e de fundos públicos.
+###### Artigo 1.º
 
-Art. 2.º - 1 - Em relação ao pessoal referido no artigo anterior que vier a falecer na efectividade de serviço, as pessoas com legitimidade para requerer, nos termos do artigo 255.º do Código de Registo Civil, a transladação dos respectivos corpos ou cinzas serão compensadas de todas as despesas normais efectuadas com aquela, entre outras com a urna e seu transporte, do seguinte modo:
+O presente diploma aplica-se aos militares e aos funcionários e agentes da administração central e local e dos institutos públicos nas modalidades de serviços personalizados e de fundos públicos.
+
+###### Artigo 2.º
+
+1 - Em relação ao pessoal referido no artigo anterior que vier a falecer na efectividade de serviço, as pessoas com legitimidade para requerer, nos termos do artigo 255.º do Código de Registo Civil, a transladação dos respectivos corpos ou cinzas serão compensadas de todas as despesas normais efectuadas com aquela, entre outras com a urna e seu transporte, do seguinte modo:
 
 a) Relativamente aos militares e aos funcionárias e agentes colocados no estrangeiro, desde que o óbito aí tenha ocorrido e a transladação se faça para a localidade escolhida pelos interessados em território nacional;
 
-b) Relativamente ao restante pessoal, desde que o óbito tenha ocorrido em localidade diferente da do seu domicílio necessário, donde se encontravam deslocados em serviço, e a transladação se faça para localidade escolhida pelos interessados em território nacional.
+b) Relativamente aos restantes funcionários e agentes, desde que o óbito tenha ocorrido em localidade diferente da do seu domicílio necessário, donde se encontravam deslocados em serviço, e a trasladação se faça para localidade escolhida pelos interessados em território nacional;
+
+c) Relativamente aos restantes militares, desde que o óbito tenha ocorrido em localidade diferente da do seu domicílio, donde se encontravam deslocados em serviço, e a trasladação se faça para localidade escolhida pelos interessados em território nacional.
 
 2 - O conceito de domicílio necessário, referido no número anterior, encontra-se definido no artigo 87.º do Código Civil.
 
-Art. 3.º - 1 - A compensação prevista no artigo 2.º será feita mediante requerimento do interessado, dirigido ao chefe do estado-maior do respectivo ramo das Forças Armadas se se tratar de militares ou ao director-geral ou entidades equiparadas caso se trate do restante pessoal, sendo inacumulável com o subsídio de funeral previsto nas normas em vigor.
+> Alterado pelo/a [Decreto-Lei n.º 73/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1985-326955), publicado em 1985-03-22.
+
+###### Artigo 3.º
+
+1 - A compensação prevista no artigo 2.º será feita mediante requerimento do interessado, dirigido ao chefe do estado-maior do respectivo ramo das Forças Armadas se se tratar de militares ou ao director-geral ou entidades equiparadas caso se trate do restante pessoal, sendo inacumulável com o subsídio de funeral previsto nas normas em vigor.
 
 2 - As despesas respeitantes à transladação poderão ser pagas antecipadamente às pessoas com legitimidade para os requerer ou directamente à empresa ou serviço encarregado da mesma, mediante regulamentação interna de cada ramo das Forças Armadas, a definir pelos respectivos chefes de estado-maior, no caso de se tratar de militares ou através de despacho do Primeiro-Ministro caso se trate do restante pessoal.
 
-Art. 4.º As despesas com a transladação serão custeadas, tratando-se de militares, pelo respectivo ramo das Forças Armadas e pelas direcções-gerais ou organismos equiparados no respeitante ao restante pessoal.
+###### Artigo 4.º
+
+As despesas com a transladação serão custeadas, tratando-se de militares, pelo respectivo ramo das Forças Armadas e pelas direcções-gerais ou organismos equiparados no respeitante ao restante pessoal.
 
 Visto e aprovado em Conselho de Ministros de 12 de Maio de 1983. - Gonçalo Pereira Ribeiro Teles - Carlos José Sanches Vaz Pardal - João Maurício Fernandes Salgueiro - José Ângelo Ferreira Correia António Jorge de Figueiredo Lopes.
 

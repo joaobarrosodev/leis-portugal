@@ -1,0 +1,998 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:524038:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2001-08-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "480d307462a8e8c8",
+    "f1006ec61c608d5c",
+    "01b07854f7c59c28",
+    "9a26acdb101d1317",
+    "ab5c848358650c62",
+    "2d05766d0b0e11a3",
+    "16a388cf6175d4e3",
+    "63a6987f30bcc8f2",
+    "8616dca15f4542de",
+    "7c14700fa706d6b1",
+    "48cb8e209be2ddcc",
+    "da12275e609655e8",
+    "f02e108cc59e44ef",
+    "128e059a9fca9942",
+    "9c7814915f90476d",
+    "68f03eaecce839e7",
+    "2057d51ff2f715b3",
+    "904eda89e6d4b86d",
+    "9b3e6d3c696f4176",
+    "345e89ca39e00dec",
+    "6405f48263ddb831",
+    "9bd4e1fa7dbed4ef",
+    "1e19236558bb192a",
+    "8eb63a3e07e34dd9",
+    "83b4b85bd1c304dc",
+    "0dec38ee75c23be3",
+    "be8d8f7681921617",
+    "a4a0bea7ba534f38",
+    "c0eae24e308b4c89",
+    "ebf400784d920879",
+    "3b2243065f1387e3",
+    "f8cfeda44cb26d7d",
+    "29b7b16ae663bd60",
+    "21449f3787dc6351",
+    "e162d48d6501f301",
+    "2bd5fe6199e587e8",
+    "576ec9fd2ac0d571",
+    "2514298f29f53dc5",
+    "d767ecb454ffb8ff",
+    "806e38842059d4ac",
+    "447b2a2bedd98966",
+    "7dc2b29b30e531e3",
+    "3f7114f030b9ee6f",
+    "8e222cf07a598c64",
+    "a27b70bb1ad51990",
+    "ed2843ac580c3087",
+    "4d3a8b7a46b23051",
+    "c227d7a9be8094a3",
+    "7a6fa3d150fbe1e7",
+    "ddab12e3dad46bdd",
+    "d45df431142bed58",
+    "9b90bc933f870fb7",
+    "1a68f87af5675480",
+    "866c7c2c56c0c9d5",
+    "5f1065639054b41d",
+    "f9d23fd7e43fe571",
+    "906d4c681137dcb2",
+    "cd491b7bb2da0e29",
+    "de6ff660147d2585",
+    "cb1f4d7d6e81dd82",
+    "bf6debe64f9251dc",
+    "7c3f7fe5f0f8127d",
+    "a773eda22901a00f",
+    "a67e8aaa38771129",
+    "05da9e04f61790ca",
+    "62a916cf02ab92c2",
+    "8cf1138d5df4ce7c",
+    "b6dc30f0ffe6fab9",
+    "b5168bf2d7ba7dd6",
+    "c10308c85e979871",
+    "55ece38a7252fc62",
+    "0f15d53e39ef2de9",
+    "fa7b480c1884c929",
+    "6b82c4f739cfd9b7",
+    "fd4eb006df168512",
+    "c0c57671d6a7753f",
+    "6b82c4f739cfd9b7",
+    "0c9231a0258c0591",
+    "9c5fa9230669faa7",
+    "6a8eed28b2478366",
+    "13a51e9beae7c5e7",
+    "635dc9653e952745",
+    "0cc7b96ab05efdea",
+    "56a265ff92868b82",
+    "cfcd4c25735d2ba2",
+    "a567d7fa9f1177de",
+    "12e21a9d8c6baa9e",
+    "c0f19cf8c20c380f",
+    "6450f75eff973e89",
+    "57549e2feebf49e2",
+    "e4a3dd27d581124d",
+    "224901373bfcafd3",
+    "68570ff2c417817f",
+    "77af5d72d7eff37e",
+    "6459748c851cf45e",
+    "68a2c45bb3eb7dc2"
+   ]
+  },
+  {
+   "date": "2006-09-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:541581:por",
+     "title": "Decreto-Lei n.º 190/2006",
+     "published": "2006-09-25",
+     "dre_path": "/dr/detalhe/decreto-lei/190-2006-541581"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — REGULAMENTO DE HOMOLOGAÇÃO DOS CINTOS DE SEGURANÇA E DOS SISTEMAS DE RETENÇÃO DOS AUTOMÓVEIS::42.º"
+   ],
+   "fragments": [
+    "480d307462a8e8c8",
+    "f1006ec61c608d5c",
+    "01b07854f7c59c28",
+    "9a26acdb101d1317",
+    "ab5c848358650c62",
+    "2d05766d0b0e11a3",
+    "16a388cf6175d4e3",
+    "63a6987f30bcc8f2",
+    "8616dca15f4542de",
+    "7c14700fa706d6b1",
+    "48cb8e209be2ddcc",
+    "da12275e609655e8",
+    "f02e108cc59e44ef",
+    "128e059a9fca9942",
+    "9c7814915f90476d",
+    "68f03eaecce839e7",
+    "2057d51ff2f715b3",
+    "904eda89e6d4b86d",
+    "9b3e6d3c696f4176",
+    "345e89ca39e00dec",
+    "6405f48263ddb831",
+    "9bd4e1fa7dbed4ef",
+    "1e19236558bb192a",
+    "8eb63a3e07e34dd9",
+    "83b4b85bd1c304dc",
+    "0dec38ee75c23be3",
+    "be8d8f7681921617",
+    "a4a0bea7ba534f38",
+    "c0eae24e308b4c89",
+    "ebf400784d920879",
+    "3b2243065f1387e3",
+    "f8cfeda44cb26d7d",
+    "29b7b16ae663bd60",
+    "21449f3787dc6351",
+    "e162d48d6501f301",
+    "2bd5fe6199e587e8",
+    "576ec9fd2ac0d571",
+    "2514298f29f53dc5",
+    "d767ecb454ffb8ff",
+    "806e38842059d4ac",
+    "447b2a2bedd98966",
+    "7dc2b29b30e531e3",
+    "3f7114f030b9ee6f",
+    "8e222cf07a598c64",
+    "a27b70bb1ad51990",
+    "ed2843ac580c3087",
+    "4d3a8b7a46b23051",
+    "c227d7a9be8094a3",
+    "7a6fa3d150fbe1e7",
+    "ddab12e3dad46bdd",
+    "d45df431142bed58",
+    "9b90bc933f870fb7",
+    "1a68f87af5675480",
+    "9ec996fc98d0c5e7",
+    "5f1065639054b41d",
+    "f9d23fd7e43fe571",
+    "906d4c681137dcb2",
+    "cd491b7bb2da0e29",
+    "de6ff660147d2585",
+    "cb1f4d7d6e81dd82",
+    "bf6debe64f9251dc",
+    "7c3f7fe5f0f8127d",
+    "a773eda22901a00f",
+    "a67e8aaa38771129",
+    "05da9e04f61790ca",
+    "62a916cf02ab92c2",
+    "8cf1138d5df4ce7c",
+    "b6dc30f0ffe6fab9",
+    "b5168bf2d7ba7dd6",
+    "c10308c85e979871",
+    "55ece38a7252fc62",
+    "0f15d53e39ef2de9",
+    "fa7b480c1884c929",
+    "6b82c4f739cfd9b7",
+    "fd4eb006df168512",
+    "c0c57671d6a7753f",
+    "6b82c4f739cfd9b7",
+    "0c9231a0258c0591",
+    "9c5fa9230669faa7",
+    "6a8eed28b2478366",
+    "13a51e9beae7c5e7",
+    "635dc9653e952745",
+    "0cc7b96ab05efdea",
+    "56a265ff92868b82",
+    "cfcd4c25735d2ba2",
+    "a567d7fa9f1177de",
+    "12e21a9d8c6baa9e",
+    "c0f19cf8c20c380f",
+    "6450f75eff973e89",
+    "57549e2feebf49e2",
+    "e4a3dd27d581124d",
+    "224901373bfcafd3",
+    "68570ff2c417817f",
+    "77af5d72d7eff37e",
+    "6459748c851cf45e",
+    "68a2c45bb3eb7dc2"
+   ]
+  }
+ ],
+ "fragments": {
+  "480d307462a8e8c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 11 de Agosto\n\nCom o presente diploma transpõe-se para a ordem jurídica interna a Directiva n.º [2000/3/CE](https://data.europa.eu/eli/dir/2000/3/oj?locale=pt), da Comissão, de 22 de Fevereiro, que veio actualizar as medidas a tomar relativamente aos cintos de segurança e aos sistemas de retenção dos automóveis e ainda alterar a Directiva n.º [77/541/CEE](https://data.europa.eu/eli/dir/1977/541/oj?locale=pt), do Conselho, de 28 de Junho, específica do processo de homologação CE, instituído pela Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt), do Conselho, de 6 de Fevereiro.\n\nPretende-se, com o presente diploma, adoptar medidas para melhorar a protecção dos passageiros, tornando obrigatória a instalação de cintos de segurança de três pontos com retractores em todos os lugares dos automóveis da categoria M1.\n\nSão adoptadas prescrições técnicas uniformes, aplicáveis aos automóveis, aos equipamentos e às peças susceptíveis de serem montadas ou utilizadas num veículo de rodas e às condições de reconhecimento recíproco das homologações emitidas em conformidade com as referidas prescrições.\n\nTendo em conta o Regulamento n.º 44 da CEE/NU, são introduzidos requisitos específicos relativos à homologação de dispositivos de retenção para crianças ocupantes de automóveis denominados «sistemas de retenção para crianças».\n\nFinalmente, com o regulamento ora aprovado, procede-se à regulamentação do n.º 3 do artigo 114.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de Maio, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 2/98, de 3 de Janeiro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "f1006ec61c608d5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação\n\n1 - O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [2000/3/CE](https://data.europa.eu/eli/dir/2000/3/oj?locale=pt), da Comissão, de 22 de Fevereiro, aprovando o Regulamento de Homologação dos Cintos de Segurança e dos Sistemas de Retenção dos Automóveis, cujo texto se publica em anexo ao presente diploma e dele faz parte integrante.\n\n2 - Os anexos ao Regulamento ora aprovado nos termos do número anterior fazem dele parte integrante."
+  },
+  "01b07854f7c59c28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Revogação\n\nÉ revogado o anexo I da Portaria n.º 517-A/96, de 27 de Setembro, com a redacção que lhe foi dada pela Portaria n.º 1080/97, de 29 de Outubro, no que se refere aos cintos de segurança e aos sistemas de retenção dos automóveis."
+  },
+  "9a26acdb101d1317": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\n1 - O Regulamento ora aprovado entra em vigor no dia seguinte ao da sua publicação.\n\n2 - A partir da data referida no número anterior a Direcção-Geral de Viação não pode, se os cintos de segurança ou sistemas de retenção em questão satisfizerem os requisitos do Regulamento ora aprovado:\n\na) Recusar a homologação CE ou a homologação de âmbito nacional a um modelo de automóvel, cinto de segurança, sistema de retenção ou sistema de retenção para crianças;\n\nb) Proibir a matrícula, a venda ou a entrada em circulação de veículos ou a venda ou a entrada em serviço de cintos de segurança, sistemas de retenção ou sistemas de retenção para crianças.\n\n3 - A partir de 1 de Outubro de 2001, se não forem satisfeitos os requisitos do Regulamento ora aprovado, no que respeita aos sistemas de retenção para crianças e à instalação de cintos de segurança em todos os lugares sentados nos veículos da categoria M1, incluindo, se estiverem instalados, os sistemas de retenção integrados, a Direcção-Geral de Viação:\n\na) Deixa de poder conceder a homologação CE;\n\nb) Pode recusar a homologação de âmbito nacional.\n\n4 - A partir de 1 de Abril de 2002, os veículos da categoria M1 terão de dispor de cintos de segurança de três pontos em todos os lugares sentados, sendo, até essa data, os requisitos aplicáveis aos veículos da categoria M1, no que respeita à instalação de cintos de segurança, os prescritos no anexo 17.º ao Regulamento ora aprovado.\n\n5 - A partir de 1 de Outubro de 2002, a Direcção-Geral de Viação pode, por motivos relacionados com os cintos de segurança e sistemas de retenção, se não forem satisfeitos os requisitos do Regulamento ora aprovado:\n\na) Deixar de considerar válidos, para efeitos da secção V do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, os certificados de conformidade que acompanham os veículos novos da categoria M1, nos termos do citado Regulamento, e recusar a matrícula, a venda e a entrada em circulação de veículos novos que não sejam acompanhados de um certificado de conformidade válido, excepto se forem invocadas as disposições constantes dos artigos 24.º a 29.º do mesmo Regulamento;\n\nb) Recusar a matrícula, a venda e a entrada em circulação de veículos novos das categorias N1 e M2 com uma massa não superior a 3,5 t, no que respeita aos sistemas integrados de retenção para crianças, quando instalados.\n\n6 - A partir de 1 de Outubro de 2004, os veículos da categoria M1 terão de dispor de cintos de segurança de três pontos em todos os lugares sentados, sendo, até essa data, os requisitos aplicáveis aos veículos da categoria M1, no que respeita à instalação de cintos de segurança, os prescritos no anexo 17.º ao Regulamento ora aprovado.\n\n7 - A partir de 1 de Janeiro de 2001, os requisitos constantes no Regulamento ora aprovado, relativos aos sistemas integrados de retenção para crianças, se instalados como equipamento de origem num veículo, serão aplicáveis para efeitos do disposto na secção V do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas.\n\nVisto e aprovado em Conselho de Ministros de 1 de Junho de 2001. - António Manuel de Oliveira Guterres - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Vítor Manuel da Silva Santos.\n\nPromulgado em 6 de Julho de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Julho de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "ab5c848358650c62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — REGULAMENTO DE HOMOLOGAÇÃO DOS CINTOS DE SEGURANÇA E DOS SISTEMAS DE RETENÇÃO DOS AUTOMÓVEIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — REGULAMENTO DE HOMOLOGAÇÃO DOS CINTOS DE SEGURANÇA E DOS SISTEMAS DE RETENÇÃO DOS AUTOMÓVEIS"
+  },
+  "2d05766d0b0e11a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Âmbito de aplicação, definições, homologação CE como componente e requisitos de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Âmbito de aplicação, definições, homologação CE como componente e requisitos de instalação"
+  },
+  "16a388cf6175d4e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Do âmbito de aplicação e das definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Do âmbito de aplicação e das definições"
+  },
+  "63a6987f30bcc8f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente Regulamento aplica-se aos cintos de segurança e aos sistemas de retenção destinados a ser instalados nos veículos conformes com a definição constante do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, e a ser utilizados separadamente, como dispositivos individuais, pelos ocupantes dos bancos virados para a frente ou para a retaguarda, bem como aos sistemas de retenção para crianças destinados a instalação nos veículos das categorias M1 e N1."
+  },
+  "8616dca15f4542de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente Regulamento, entende-se por:\n\n1) Cinto de segurança ou cinto: um conjunto de precintas, com fivela de fecho, dispositivos de regulação e peças de fixação, susceptível de ser fixado no interior de um automóvel e concebido de maneira a reduzir o risco de ferimento para o utente, em caso de colisão ou de desaceleração brusca do veículo, limitando as possibilidades de movimento do seu corpo; esta montagem é designada de uma maneira geral pelo termo «conjunto do cinto», termo que engloba igualmente qualquer dispositivo de absorção de energia ou de retracção do cinto;\n\n2) Cinto subabdominal: um cinto que passa pela frente do corpo do utente à altura da bacia;\n\n3) Cinto diagonal: um cinto que passa em diagonal pela frente do tórax, desde a anca até ao ombro do lado oposto;\n\n4) Cinto de três pontos: qualquer cinto formado essencialmente pela combinação de uma precinta subabdominal com uma precinta diagonal;\n\n5) Cinto-arnês: um conjunto do cinto contendo um cinto subabdominal e suspensórios;\n\n6) Tipo de cinto: uma categoria de cintos que não apresentem entre si diferenças em aspectos essenciais, tais como:\n\na) As peças rígidas, nomeadamente a fivela de fecho, os elementos de fixação, o retractor, etc.;\n\nb) O material, a tecelagem, as dimensões e a cor das precintas;\n\nc) A geometria do conjunto do cinto;\n\n7) Precinta: um elemento flexível destinado a segurar o corpo e a transmitir os esforços às peças de fixação dos cintos;\n\n8) Fivela de fecho: um dispositivo de abertura rápida que permita ao utente ser mantido pelo cinto, podendo a fivela conter o dispositivo de regulação, excepto no caso da fivela de fecho de um cinto-arnês;\n\n9) Dispositivo de regulação: um dispositivo que permita regular o cinto conforme as necessidades do utente individual e a posição do banco, podendo fazer parte da fivela ou ser um retractor ou qualquer outra parte do cinto de segurança;\n\n10) Peças de fixação: as partes do conjunto do cinto, incluindo os elementos de fixação necessários, que permitem ligá-lo às fixações;\n\n11) Absorvedor de energia: um dispositivo destinado a dissipar a energia, independentemente da precinta ou conjuntamente com esta e fazendo parte de um conjunto do cinto;\n\n12) Retractor: um dispositivo para o alojamento de parte ou de toda a precinta de um cinto de segurança;\n\n13) Retractor sem bloqueamento tipo 1: um retractor do qual se extrai a precinta em toda a sua extensão com uma fraca tracção exterior e que não permita qualquer regulação do comprimento da precinta desenrolada;\n\n14) Retractor de desbloqueamento manual tipo 2: um retractor que o utente necessita de desbloquear por meio de um dispositivo de comando manual, a fim de poder extrair a precinta na extensão desejada e que bloqueia automaticamente quando o utente deixar de actuar sobre esse dispositivo;\n\n15) Retractor de bloqueamento automático tipo 3: um retractor que permita extrair a precinta na extensão desejada e que, com a fivela fechada, ajusta automaticamente a precinta ao utente; a extracção de uma extensão suplementar da precinta não se pode efectuar sem a intervenção voluntária do utente;\n\n16) Retractor de bloqueamento de emergência tipo 4: um retractor que, em condições normais de condução, não limite a liberdade de movimentos, comportando um dispositivo de regulação do comprimento que ajusta automaticamente a precinta ao utente e um mecanismo de bloqueamento, accionado em caso de emergência por:\n\na) Uma desaceleração do veículo (sensibilidade única);\n\nb) Uma combinação entre a desaceleração do veículo com o movimento da precinta ou qualquer outro meio automático (sensibilidade múltipla);\n\n17) Retractor de bloqueamento de emergência de limiar de reacção mais elevado tipo 4N: um retractor do tipo definido no número anterior, mas apresentando características particulares, tendo em conta a sua utilização nos veículos das categorias M2, M3, N1, N2 e N3;\n\n18) Dispositivo de regulação do cinto em altura: um dispositivo que permita regular em altura a posição da laçada superior de um cinto consoante as necessidades de cada utente e a posição do banco, podendo este dispositivo ser considerado parte do cinto ou parte da fixação do cinto;\n\n19) Fixações do cinto: as partes da estrutura do veículo, ou da estrutura do banco, ou quaisquer outras partes do veículo, às quais os cintos de segurança sejam fixados;\n\n20) Modelo de veículo: no que respeita aos cintos de segurança e sistema de retenção, um conjunto de automóveis que não diferem entre si em aspectos essenciais como as dimensões, as formas e os materiais dos elementos da estrutura do veículo ou da estrutura do banco ou de quaisquer outras partes do veículo, às quais os cintos de segurança e os sistemas de retenção estejam fixados;\n\n21) Sistema de retenção: um sistema resultante da combinação de um banco fixado à estrutura do veículo por meios apropriados com um cinto de segurança do qual, pelo menos, um ponto de fixação esteja situado na estrutura do banco;\n\n22) Banco: uma estrutura, parte integrante ou não da estrutura do veículo, completada pela guarnição respectiva, destinada a sentar um adulto; o vocábulo abrange, tanto um banco individual, como a parte de um banco corrido correspondente a um lugar sentado;\n\n23) Banco de passageiro da frente: qualquer banco cujo ponto H mais avançado se situe no ou para a frente do plano transversal vertical que passa pelo ponto R do condutor;\n\n24) Grupo de bancos: ou um banco do tipo banco corrido, ou bancos separados mas montados lado a lado, de tal forma que as fixações da frente de um dos bancos estejam no alinhamento das fixações da frente ou de trás do outro banco, ou entre as fixações deste, com um ou mais lugares sentados para adultos;\n\n25) Banco corrido: uma estrutura, completa com a guarnição respectiva, que se destine a sentar, pelo menos, dois adultos;\n\n26) Sistema de regulação: o dispositivo que permite ajustar o banco ou as suas partes a uma posição sentada do ocupante adaptada à morfologia deste, podendo permitir, nomeadamente:\n\na) Uma deslocação longitudinal;\n\nb) Uma deslocação vertical;\n\nc) Uma deslocação angular;\n\n27) Fixação do banco: um sistema de fixação do conjunto do banco à estrutura do veículo, incluindo as partes da estrutura do veículo implicadas;\n\n28) Tipo de banco: um conjunto de bancos que não diferem entre si em aspectos essenciais, tais como:\n\na) Estrutura, forma, dimensões e materiais dos bancos;\n\nb) Tipo e dimensões dos sistemas de regulação e de todos os sistemas de bloqueamento;\n\nc) Tipo e dimensões das fixações do cinto ao banco, da fixação do banco e das partes da estrutura do veículo implicadas;\n\n29) Sistema de deslocação: um dispositivo que permita uma deslocação angular ou longitudinal, sem posição intermédia fixa, do banco ou de uma das suas partes para facilitar o acesso dos passageiros;\n\n30) Sistema de bloqueamento: um dispositivo que assegure a conservação do banco e das suas partes em todas as posições de utilização;\n\n31) Botão de desbloqueamento da fivela encastrado: trata-se de uma fivela que não pode ser aberta com a ajuda de uma esfera de 40 mm de diâmetro;\n\n32) Botão de desbloqueamento da fivela não encastrado: trata-se de uma fivela que pode ser aberta com a ajuda de uma esfera de 40 mm de diâmetro;\n\n33) Dispositivo de pré-carregamento: um dispositivo adicional ou integrado que aperta a precinta, de modo a reduzir a folga do cinto durante a sequência de embate;\n\n34) Zona de referência: o espaço compreendido entre dois planos longitudinais verticais, simétricos em relação ao ponto H e dele afastados 400 mm, definido pela rotação do aparelho, da vertical para a horizontal; o aparelho deve ser posicionado e regulado no comprimento máximo de 840 mm;\n\n35) Conjunto de almofada de ar: um dispositivo instalado nos automóveis para complementar os cintos de segurança e os sistemas de retenção, isto é, sistemas que, no caso de colisão severa que afecte o veículo, soltam automaticamente uma estrutura flexível destinada a limitar, por compressão do gás nela contido, a gravidade dos contactos de uma ou mais partes do corpo de um ocupante do veículo com o interior do habitáculo;\n\n36) Almofada de ar do passageiro: um conjunto de almofada de ar destinado a proteger o ou os ocupantes dos bancos, que não sejam o do condutor, no caso de uma colisão frontal;\n\n37) Sistema de retenção para crianças: um conjunto de componentes, que pode incluir uma combinação de precintas ou componentes flexíveis com uma fivela de aperto, dispositivos de regulação, acessórios e, nalguns casos, uma cadeira adicional e ou um escudo contra impactes, capaz de ser fixado a um automóvel, sendo concebido de modo a diminuir o risco de ferimentos do utilizador em caso de colisão ou de desaceleração brusca do veículo, através da limitação da mobilidade do seu corpo;\n\n38) Virado para a retaguarda: virado no sentido oposto ao sentido normal de deslocação do veículo."
+  },
+  "7c14700fa706d6b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Da homologação CE como componente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Da homologação CE como componente"
+  },
+  "48cb8e209be2ddcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Pedido de homologação CE como componente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pedido de homologação CE como componente\n\n1 - O pedido de homologação CE como componente de um tipo de cinto de segurança deve ser apresentado pelo fabricante, em conformidade com os n.os 2 e 3 do artigo 4.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio.\n\n2 - O pedido de homologação CE como componente de um tipo de sistema de retenção deve ser apresentado pelo fabricante do mesmo ou pelo fabricante do veículo no qual se destina a ser instalado, em conformidade com os n.os 2 e 3 do artigo 4.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas.\n\n3 - No anexo 2.º ao presente Regulamento figura um modelo de ficha de informações.\n\n4 - Sem prejuízo do serviço técnico responsável pela realização dos ensaios de homologação como componente poder solicitar mais amostras, devem-lhe ser apresentadas as seguintes:\n\na) Seis amostras, uma das quais para fins de referência;\n\nb) 10 m de cada tipo de precinta utilizado no tipo de cinto em questão.\n\n5 - No caso de sistemas de retenção, o requerente deve fornecer duas amostras ao serviço técnico responsável pelos ensaios de homologação do sistema de retenção em questão, podendo estas ser compostas por duas das amostras de cintos mencionados na alínea a) do número anterior e, à escolha do fabricante, um veículo representativo do modelo de veículo a homologar ou a parte ou partes do veículo consideradas essenciais por aquele.\n\n6 - Sem prejuízo do serviço técnico responsável pela realização dos ensaios de homologação como componente poder solicitar mais amostras, quando se trate de sistemas de retenção para crianças, devem-lhe ser apresentadas as seguintes:\n\na) Quatro amostras;\n\nb) 10 m de cada categoria de precinta utilizada no sistema de retenção para crianças, excepto no que se refere à precinta entre pernas, da qual devem ser apresentados 2 m, e instruções e pormenores da embalagem, em conformidade com o ponto 14 referido no anexo 19.º ao presente Regulamento;\n\nc) No caso dos berços de transporte, se o sistema de retenção do berço puder ser utilizado com vários tipos de berço, o fabricante do sistema de retenção deve fornecer uma lista destes últimos.\n\n7 - Se, para firmar o sistema de retenção para crianças, for utilizado um cinto de segurança para adultos homologado, o pedido de homologação deve indicar a categoria de cinto de segurança para adultos a utilizar, nomeadamente cintos subabdominais estáticos.\n\n8 - A Direcção-Geral de Viação deve verificar a existência de disposições satisfatórias para assegurar o controlo efectivo da conformidade da produção, antes de a homologação ser concedida."
+  },
+  "da12275e609655e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Das marcações e das especificações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Das marcações e das especificações gerais"
+  },
+  "f02e108cc59e44ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Marcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Marcações\n\n1 - As amostras de um tipo de cinto ou de um tipo de sistema de retenção apresentadas para a homologação CE como componente, de acordo com os n.os 4 e 5 do artigo anterior, devem estar clara e indelevelmente marcadas com o nome, a marca de fabrico ou a marca comercial do fabricante.\n\n2 - As amostras de sistemas de retenção para crianças apresentadas para homologação, de acordo com a primeira parte da alínea b) do n.º 6 do artigo anterior, devem estar clara e indelevelmente marcadas com o nome, as iniciais ou a marca comercial do fabricante.\n\n3 - Uma das partes de plástico do dispositivo de retenção para crianças, nomeadamente o casco, o escudo contra impactes ou a almofada elevadora, com excepção do(s) cinto(s) ou do arnês, deve estar marcada clara e indelevelmente com o ano de produção.\n\n4 - No caso de o sistema de retenção se destinar a ser utilizado em combinação com um cinto de segurança para adultos, deve estar permanentemente fixado ao sistema de retenção um desenho que indique com clareza a forma correcta de passar o cinto.\n\n5 - No caso de o sistema de retenção ser mantido no lugar pelo cinto de segurança para adultos, as formas de passar o cinto para as posições «virado para a frente» e «virado para a retaguarda» devem ser claramente distinguidas no produto por meio de um código de cores.\n\n6 - As cores referidas no número anterior, relativas à forma de passar o cinto de segurança a utilizar, são o vermelho, quando o dispositivo for instalado virado para a frente, e o azul, quando o dispositivo for instalado virado para a retaguarda, devendo as cores ser utilizadas nos dísticos do dispositivo ilustrativos dos modos de utilização.\n\n7 - Os percursos distintos das secções subabdominal e escapular do cinto de segurança devem ser distinguidos no produto por meio de um código de cores e ou texto.\n\n8 - A marcação definida no número anterior deve ser visível quando o sistema de retenção estiver instalado no veículo.\n\n9 - No caso dos sistemas de retenção do grupo 0, a referida marcação deve ser visível com a criança instalada no mesmo.\n\n10 - Os sistemas de retenção para crianças virados para a retaguarda devem ter permanentemente afixados um dístico, visível na posição «instalado», com a advertência referida no ponto 1 do anexo 1.º ao presente Regulamento.\n\n11 - No caso dos sistemas de retenção que podem ser utilizados virados para a frente e virados para a retaguarda, deve ser incluída a advertência constante do ponto 2 do anexo 1.º ao presente Regulamento."
+  },
+  "128e059a9fca9942": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Especificações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Especificações gerais\n\n1 - As amostras apresentadas de acordo com o artigo 3.º devem obedecer às especificações referidas no presente artigo até ao artigo 39.º do presente Regulamento.\n\n2 - No caso dos sistemas de retenção para crianças, as amostras apresentadas de acordo com o artigo 3.º devem satisfazer os requisitos pertinentes do anexo 19.º ao presente Regulamento.\n\n3 - O cinto ou sistema de retenção deve ser concebido e construído de tal maneira que, se for correctamente instalado e convenientemente utilizado por um ocupante, o seu bom funcionamento seja garantido e o risco de ferimentos corporais, em caso de acidente, seja reduzido."
+  },
+  "9c7814915f90476d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Partes rígidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Partes rígidas\n\n1 - As partes rígidas do cinto de segurança, nomeadamente as fivelas de fecho, os dispositivos de regulação ou as peças de fixação, não devem ter arestas vivas, susceptíveis de provocar o desgaste ou ruptura das precintas por atrito.\n\n2 - Todas as partes de um conjunto do cinto susceptíveis de serem corroídas devem estar convenientemente protegidas contra a corrosão.\n\n3 - Depois do ensaio de resistência à corrosão, em conformidade com o artigo 20.º do presente Regulamento, não se deve poder detectar qualquer deterioração susceptível de prejudicar o bom funcionamento do dispositivo ou qualquer corrosão importante quando as peças forem examinadas a olho nu por um observador qualificado.\n\n4 - As peças rígidas destinadas a absorver a energia, ou a serem submetidas a uma carga ou a transmiti-la, não devem ser frágeis.\n\n5 - As peças rígidas e as peças em plástico de um cinto de segurança devem estar situadas e ser isoladas, de tal modo que não possam ficar presas sob um banco deslizante ou na porta do veículo, quando da utilização normal de um automóvel.\n\n6 - No caso de algumas das referidas peças não satisfazerem os requisitos especificados no número anterior, deve ser submetida ao ensaio de choque a frio, previsto no n.º 8 do artigo 31.º do presente Regulamento.\n\n7 - Depois do ensaio referido no número anterior, e no caso de as coberturas ou os elementos de retenção em plástico das peças rígidas apresentarem fendas visíveis, devem ser retirados, verificando-se se o resto do conjunto continua a apresentar a mesma segurança.\n\n8 - Se o resto do conjunto continuar a revelar-se seguro, ou se não se detectar nenhuma fenda visível, deve-se verificar de novo se o conjunto obedece aos requisitos referidos nos artigos 7.º, 8.º, 17.º e 18.º do presente Regulamento.\n\n9 - Não devem ser utilizados materiais com propriedades idênticas às da poliamida 6, no que respeita à retenção de água em todas as peças mecânicas, para cujo funcionamento esse fenómeno seja susceptível de ter efeitos adversos."
+  },
+  "68f03eaecce839e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Fivela de fecho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fivela de fecho\n\n1 - A fivela de fecho deve ser concebida de modo a excluir toda a possibilidade de utilização incorrecta, significando que não deve poder ser deixada numa posição semifechada.\n\n2 - O modo de abrir a fivela deve ser perfeitamente evidente, devendo as partes susceptíveis de contactar o corpo do utente apresentar uma secção não inferior a 20 cm2 e, pelo menos, 46 mm de largura, medida num plano situado à distância máxima de 2,5 mm da superfície de contacto.\n\n3 - No caso de fivelas de fecho de cintos-arnês, o último requisito, referido no número anterior, é considerado satisfeito, se a área de contacto da fivela com o corpo do utente estiver compreendida entre 20 cm2 e 40 cm2.\n\n4 - A fivela de fecho, mesmo quando não estiver submetida a uma carga, deve permanecer fechada, qualquer que seja a sua posição, não devendo ser possível abri-la empregando uma força inferior a 1 daN.\n\n5 - A fivela de fecho deve ser concebida de modo a ser fácil utilizá-la e agarrá-la, devendo poder ser desbloqueada sob a carga indicada nos n.os 2 a 7 do artigo 37.º do presente Regulamento.\n\n6 - A fivela de fecho deve ser desbloqueada pressionando um botão ou um dispositivo semelhante.\n\n7 - Estando o referido botão na posição de desbloqueamento, e em projecção num plano perpendicular à direcção do movimento inicial do botão, a superfície sobre a qual essa pressão é aplicada deve ter as seguintes dimensões:\n\na) Quanto aos dispositivos encastrados, uma superfície mínima de 4,5 cm2 e uma largura mínima de 15 mm;\n\nb) Quanto aos dispositivos não encastrados, uma superfície mínima de 2,5 cm2 e uma largura mínima de 10 mm.\n\n8 - A superfície referida no número anterior deve ser de cor vermelha, não podendo nenhuma outra parte da fivela de fecho ser desta cor.\n\n9 - A fivela de fecho deve poder suportar operações repetidas e ser submetida, antes do ensaio dinâmico referido no artigo 36.º, a 5000 ciclos de abertura e fecho nas condições normais de utilização; no caso das fivelas de fecho de cintos-arnês, esse ensaio pode ser conduzido sem que todas as linguetas tenham sido engatadas.\n\n10 - A fivela de fecho deve funcionar normalmente quando for submetida a um ensaio, em conformidade com o n.º 7 do artigo 31.º do presente Regulamento.\n\n11 - Quando do ensaio previsto no artigo 37.º, a força necessária para abrir a fivela de fecho não deve ultrapassar 6 daN.\n\n12 - A fivela de fecho deve ser submetida a ensaios de resistência em conformidade com os n.os 1 a 4 do artigo 31.º e, se for caso disso, com os n.os 9 a 11 do mesmo artigo, não devendo partir-se, nem deformar-se gravemente, nem separar-se sob a carga prescrita.\n\n13 - No caso das fivelas de fecho que contenham um elemento comum a dois conjuntos, se a fivela de um dos conjuntos puder ser montada na prática com o dispositivo de engate desse mesmo conjunto e do outro, os ensaios de resistência e de abertura previstos nos artigos 36.º e 37.º do presente Regulamento são efectuados relativamente às duas possibilidades de montagem."
+  },
+  "2057d51ff2f715b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Dispositivo de regulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dispositivo de regulação\n\n1 - Devem ser submetidas a ensaios duas amostras de cada dispositivo de regulação, em conformidade com o artigo 29.º do presente Regulamento.\n\n2 - O deslizamento da precinta não deve exceder 25 mm por dispositivo de regulação e a soma das deslocações para o conjunto dos dispositivos de regulação de um cinto não deve exceder 40 mm.\n\n3 - Todos os dispositivos de regulação devem ser submetidos a ensaios de resistência, em conformidade com os n.os 1 a 4 do artigo 31.º, não devendo partir-se nem separar-se, por acção da carga prescrita.\n\n4 - Quando o ensaio for efectuado em conformidade com os n.os 12 e 13 do referido artigo 31.º, a força necessária para fazer funcionar o dispositivo de regulação manual não deve ultrapassar 5 daN."
+  },
+  "904eda89e6d4b86d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Peças de fixação e dispositivos de regulação do cinto em altura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Peças de fixação e dispositivos de regulação do cinto em altura\n\n1 - As peças de fixação devem ser submetidas a ensaios de resistência, em conformidade com os n.os 1 a 6 do artigo 31.º do presente Regulamento.\n\n2 - Os dispositivos de regulação do cinto em altura são submetidos a ensaios de resistência, em conformidade com os n.os 5 e 6 do artigo 31.º do presente Regulamento, caso não tenham sido submetidos a ensaios no veículo, relativamente às fixações dos cintos de segurança.\n\n3 - As peças referidas no número anterior não devem partir-se, nem separar-se, quando sujeitas às tensões produzidas pela carga prescrita."
+  },
+  "9b3e6d3c696f4176": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Retractores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Retractores\n\nOs retractores devem satisfazer os requisitos especificados nos artigos seguintes, incluindo os ensaios de resistência previstos nos n.os 1 a 6 do artigo 31.º do presente Regulamento."
+  },
+  "345e89ca39e00dec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Retractores de bloqueamento automático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Retractores de bloqueamento automático\n\n1 - A precinta de um cinto de segurança equipado com um retractor de bloqueamento automático não deve deslocar-se mais de 30 mm entre as posições de bloqueamento do retractor.\n\n2 - Depois de um movimento do utente para trás, o cinto deve permanecer na sua posição inicial ou voltar automaticamente a essa posição, na sequência de movimentos do utente para a frente.\n\n3 - No caso de o retractor fazer parte de um cinto subabdominal, a força de retracção da precinta não deve ser inferior a 0,7 daN, medida no comprimento livre entre o manequim e o retractor, de acordo com o artigo 35.º do presente Regulamento.\n\n4 - Se o retractor fizer parte de uma precinta diagonal, a força de retracção da precinta não deve ser inferior a 0,2 daN e não deve ultrapassar 0,7 daN, medida de modo análogo.\n\n5 - No caso de a precinta passar por uma guia ou por uma roldana, a força de retracção deve ser medida no comprimento livre entre o manequim e a guia ou roldana.\n\n6 - Se o conjunto compreender um dispositivo manual ou automático que impeça a precinta de se retrair completamente, esse dispositivo não deve ser operado quando da avaliação da força de retracção.\n\n7 - A precinta deve ser extraída do retractor e deixada retrair-se, segundo o método descrito no artigo 32.º do presente Regulamento, até que se complete uma série de 5000 ciclos de extracção e retracção.\n\n8 - O retractor deve, em seguida, ser submetido ao ensaio de corrosão previsto no artigo 20.º e depois ao ensaio de resistência ao pó, descrito no artigo 34.º, devendo em seguida suportar, de modo satisfatório, uma nova série de 5000 ciclos, após os quais deve ainda satisfazer os requisitos referidos nos n.os 1 a 6 do presente artigo.\n\n9 - Depois de efectuados os ensaios referidos nos números anteriores, o retractor deve ainda funcionar correctamente e retrair a precinta com eficácia."
+  },
+  "6405f48263ddb831": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Retractores de bloqueamento de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Retractores de bloqueamento de emergência\n\n1 - Um retractor de bloqueamento de emergência deve obedecer às condições a seguir enumeradas, quando ensaiado de acordo com o artigo 33.º do presente Regulamento.\n\n2 - No caso de sensibilidade única, de acordo com a alínea a) do n.º 16) do artigo 2.º do presente Regulamento, só são válidas as especificações relativas à desaceleração do veículo.\n\n3 - Deve bloquear-se com um valor da desaceleração do veículo, no máximo, igual a 0,45 g, para retractores do tipo 4, e 0,85 g, para retractores do tipo 4N.\n\n4 - Não se deve bloquear quando o valor de aceleração da precinta, medido no sentido da extracção desta, for inferior a 0,88 g, para retractores do tipo 4, e a 1 g, para retractores do tipo 4N.\n\n5 - Não se deve ainda bloquear quando o seu dispositivo de detecção estiver inclinado segundo um ângulo não superior a 12º em qualquer direcção em relação à posição de instalação indicada pelo fabricante.\n\n6 - Deve bloquear-se quando o seu dispositivo de detecção estiver inclinado segundo um ângulo não inferior a 27º, para retractores do tipo 4, e a 40º, para retractores do tipo 4N, em qualquer direcção em relação à posição de instalação indicada pelo fabricante.\n\n7 - No caso de o funcionamento do retractor depender de um sinal ou de uma fonte de energia exterior, o dispositivo deve garantir o bloqueamento automático do retractor em caso de avaria ou de interrupção do sinal ou da fonte de energia, não precisando este requisito de ser satisfeito, no caso dos retractores com sensibilidade múltipla, desde que apenas uma dessas sensibilidades esteja dependente de um sinal exterior ou de uma fonte de energia e a avaria do sinal ou da fonte de energia seja indicada ao condutor por meios ópticos e ou acústicos.\n\n8 - Quando ensaiados em conformidade com o artigo 33.º do presente Regulamento, os retractores de bloqueamento de emergência com sensibilidade múltipla, entre as quais a sensibilidade da precinta, devem satisfazer os requisitos especificados nos números anteriores e ainda ficar bloqueados quando a aceleração da precinta, medida no sentido da sua extracção, for superior ou igual a 2 g.\n\n9 - Em cada um dos ensaios indicados nos números anteriores, o comprimento da precinta que pode ser extraído antes de o retractor se bloquear não deve ultrapassar 50 mm, partindo do comprimento previsto no n.º 1 do artigo 33.º do presente Regulamento.\n\n10 - Um retractor deve satisfazer os requisitos referidos no n.º 4 se, para os valores de aceleração da precinta aí prescritos, o bloqueamento não se efectuar ao longo de, pelo menos, os primeiros 50 mm de extracção da precinta, partindo do comprimento previsto no n.º 1 do referido artigo 33.º\n\n11 - No caso de o retractor fazer parte de um cinto subabdominal, a força de retracção da precinta não deve ser inferior a 0,7 daN, medida no comprimento livre entre o manequim e o retractor, em conformidade com o artigo 35.º do presente Regulamento.\n\n12 - No caso de o retractor fazer parte de uma precinta diagonal, a força de retracção da precinta não deve ser inferior a 0,2 daN, nem ultrapassar 0,7 daN, medida de modo análogo.\n\n13 - Se a precinta passar por uma guia ou roldana, a força de retracção deve ser medida no comprimento livre entre o manequim e a guia ou roldana.\n\n14 - Se o conjunto compreender um dispositivo manual ou automático que impeça a precinta de se retrair completamente, esse dispositivo não deve ser operado quando da avaliação da força de retracção.\n\n15 - A precinta deve ser extraída do retractor e deixada retrair-se segundo o método descrito no artigo 32.º, até que se complete uma série de 40000 ciclos de extracção e retracção, devendo-se em seguida submeter o retractor ao ensaio de corrosão previsto no artigo 20.º e depois ao ensaio de resistência ao pó, descrito no artigo 34.º, suportando, satisfatória e posteriormente, uma nova série de 5000 ciclos de extracção e de retracção, após os quais deve, ainda, satisfazer os requisitos referidos nos números anteriores.\n\n16 - Depois de efectuados os ensaios referidos no número anterior, o retractor deve, ainda, funcionar correctamente e retrair a precinta com eficácia."
+  },
+  "9bd4e1fa7dbed4ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Dispositivo de pré-carregamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Dispositivo de pré-carregamento\n\n1 - Após ter sido submetido ao ensaio de corrosão, em conformidade com o artigo 20.º do presente Regulamento, o dispositivo de pré-carregamento, incluindo o sensor de impacte conectado ao dispositivo através das tomadas de origem, mas sem passagem de corrente das mesmas, deve funcionar normalmente.\n\n2 - Deve-se verificar se o funcionamento inadvertido do dispositivo não implica riscos de ferimentos no utente.\n\n3 - No caso de dispositivos de pré-carregamento pirotécnicos, o seu funcionamento não deve ser activado pela temperatura e o dispositivo deve funcionar normalmente após condicionamento, em conformidade com o artigo 38.º do presente Regulamento, devendo-se tomar precauções para evitar que os gases quentes expelidos inflamem materiais adjacentes."
+  },
+  "1e19236558bb192a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Precintas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Precintas\n\n1 - As precintas devem ter características tais que a pressão que exerçam sobre o corpo do utente seja repartida, tão regularmente quanto possível, por toda a sua largura e não se devem torcer, mesmo sob carga, devendo ter capacidades de absorção e de dissipação de energia.\n\n2 - As precintas devem ter virolas rematadas que não se devem desfiar em utilização.\n\n3 - A largura da precinta não deve ser inferior a 46 mm, sob a acção de uma carga de 980 daN, sendo a medição efectuada durante o ensaio de resistência à ruptura, descrito no artigo 30.º do presente Regulamento, sem parar a máquina."
+  },
+  "8eb63a3e07e34dd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Resistência após condicionamento às condições ambientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Resistência após condicionamento às condições ambientes\n\nNo que respeita às duas amostras de precintas condicionadas, de acordo com o referido no artigo 22.º, a carga de ruptura da precinta, determinada de acordo com o artigo 30.º, não pode ser inferior a 1470 daN, não devendo a diferença entre as cargas de ruptura das duas amostras ultrapassar 10% da mais elevada das cargas de ruptura medidas."
+  },
+  "83b4b85bd1c304dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Resistência após condicionamento especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Resistência após condicionamento especial\n\n1 - No que respeita às duas amostras de precintas condicionadas, de acordo com uma das disposições dos artigos 21.º a 28.º, com excepção do artigo 22.º, a carga de ruptura da precinta deve ser, pelo menos, igual a 75% da média das cargas determinadas no ensaio referido no artigo anterior, sem ser inferior a 1470 daN.\n\n2 - O serviço técnico pode dispensar um ou vários destes ensaios, no caso de a composição do material utilizado ou as informações disponíveis o ou os tornar supérfluos."
+  },
+  "0dec38ee75c23be3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Conjunto do cinto ou sistema de retenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conjunto do cinto ou sistema de retenção\n\n1 - O conjunto do cinto ou sistema de retenção deve ser submetido a um ensaio dinâmico, de acordo com o referido no artigo 36.º do presente Regulamento.\n\n2 - O ensaio dinâmico deve ser efectuado sobre dois conjuntos de cintos que não tenham sido previamente sujeitos a cargas, excepto se se tratar de conjuntos de cintos que façam parte de sistemas de retenção, caso em que o ensaio dinâmico é efectuado sobre sistemas de retenção previstos para um grupo de bancos que não tenham sido previamente submetidos a cargas.\n\n3 - As fivelas de fecho dos cintos a ensaiar devem satisfazer os requisitos referidos no n.º 9 do artigo 7.º do presente Regulamento.\n\n4 - No que respeita aos cintos de segurança equipados com retractores, o retractor deve ter sido sujeito ao ensaio de resistência ao pó, descrito no artigo 34.º do presente Regulamento.\n\n5 - No caso de cintos de segurança ou sistemas de retenção equipados com um dispositivo de pré-carregamento que compreenda meios pirotécnicos, o dispositivo deve ter sido submetido ao condicionamento especificado no artigo 38.º do presente Regulamento.\n\n6 - Os cintos devem ter sido submetidos ao ensaio de corrosão previsto no artigo 20.º, após o que devem ser efectuados 500 outros ciclos de abertura e fecho das fivelas de fecho, nas condições normais de utilização.\n\n7 - No que respeita aos cintos de segurança munidos de um retractor, este deve ter sido submetido aos ensaios previstos nos artigos 11.º ou 12.º do presente Regulamento; porém, se um retractor já tiver sido submetido ao ensaio de corrosão, em conformidade com as disposições referidas no número anterior, não é necessário repetir esse ensaio.\n\n8 - Quando um cinto se destinar a ser utilizado com um dispositivo de regulação do cinto em altura, definido no n.º 18) do artigo 2.º do presente Regulamento, o ensaio deve ser efectuado com o dispositivo na ou nas posições mais desfavoráveis recolhidas pelo serviço técnico responsável pelo ensaio.\n\n9 - No caso de o dispositivo de regulação do cinto em altura consistir na própria fixação, o serviço técnico responsável pelos ensaios pode, se o pretender, aplicar o disposto nos n.os 1 a 15 do artigo 36.º do presente Regulamento.\n\n10 - No caso dos cintos de segurança com dispositivo de pré-carregamento, o deslocamento mínimo, especificado nos n.os 12 e 13 do presente artigo, pode ser reduzido a metade, devendo estar, para efeitos deste teste, o referido dispositivo em funcionamento.\n\n11 - Ao ser efectuado o ensaio referido no número anterior é necessário satisfazer os seguintes requisitos:\n\na) Nenhuma parte do cinto ou sistema de retenção que sustém o ocupante se deve romper e nenhuma fivela de fecho, sistema de bloqueamento ou sistema de deslocação se deve desbloquear;\n\nb) A deslocação do manequim para a frente deve estar compreendida entre 80 mm e 200 mm à altura da bacia, para os cintos subabdominais;\n\nc) No caso do cinto-arnês, o deslocamento mínimo especificado para a bacia pode ser reduzido a metade;\n\nd) No caso de outros tipos de cintos, a deslocação para a frente deve estar compreendida entre 80 mm e 200 mm ao nível da bacia e entre 100 mm e 300 mm à altura do tronco;\n\ne) Os valores referidos nas alíneas anteriores referem-se a deslocações relativamente aos pontos de referência ilustrados na figura n.º 6 constante do anexo 11.º ao presente Regulamento;\n\nf) No caso de um cinto de segurança destinado a ser utilizado num lugar sentado lateral da frente, protegido por uma almofada de ar à sua frente, a deslocação do ponto de referência do tórax pode exceder a especificada nas alíneas anteriores se a sua velocidade a esse valor não exceder 24 km/h.\n\n12 - No caso de um sistema de retenção, o movimento do ponto de referência torácico pode ser superior ao indicado no número anterior, se puder ser demonstrado, por cálculos ou um ensaio posterior, que nenhuma parte do tronco ou da cabeça do manequim utilizado no ensaio dinâmico entrou em contacto com qualquer peça rígida da parte da frente do veículo, com excepção de um contacto entre o tórax e o dispositivo de condução, e o contacto não ocorrer a uma velocidade superior a 24 km/h.\n\n13 - Para efeito da avaliação efectuada no número anterior, o banco é considerado na posição definida no n.º 14 do artigo 36.º do presente Regulamento.\n\n14 - No caso dos veículos que utilizem o dispositivo referido no número anterior, os sistemas de deslocação e de bloqueamento que permitem aos ocupantes de todos os bancos sair do veículo devem poder ser sempre desbloqueados à mão depois do ensaio dinâmico.\n\n15 - A título de derrogação, no caso de um sistema de retenção, as deslocações podem ser superiores às especificadas no n.º 11 se a fixação superior instalada no banco beneficiar da derrogação prevista no n.º 5.5.4 do anexo I da Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt).\n\n16 - Os pormenores do sistema de retenção em causa devem ser incluídos na adenda ao certificado de homologação, que consta dos anexos 4.º e 5.º ao presente Regulamento."
+  },
+  "be8d8f7681921617": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Resistência após o procedimento de abrasão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Resistência após o procedimento de abrasão\n\n1 - No que respeita às duas amostras condicionadas, em conformidade com os artigos 27.º e 28.º, a carga de ruptura deve ser avaliada em conformidade com os artigos 15.º e 31.º, devendo ser, pelo menos, igual a 75% da média das cargas de ruptura determinadas no decurso dos ensaios com as precintas não abrasadas, sem ser inferior à carga mínima prescrita para as peças em ensaio.\n\n2 - A diferença entre as cargas de ruptura das duas amostras não deve ultrapassar 20% da maior carga de ruptura medida.\n\n3 - No que respeita aos procedimentos dos tipos 1 e 2, referidos no quadro constante do n.º 3 ao anexo 1.º, o ensaio de ruptura é unicamente efectuado nas amostras da precinta, tal como referido no artigo 30.º do presente Regulamento.\n\n4 - No que respeita ao procedimento do tipo 3, o ensaio de ruptura à tracção deve ser efectuado na precinta e nas partes rígidas, tal como prescrito no artigo 31.º do presente Regulamento.\n\n5 - O quadro referido no ponto 3 constante do anexo 1.º ao presente Regulamento inclui a lista dos elementos que devem ser submetidos a um procedimento de abrasão e os procedimentos a seguir, devendo-se utilizar, em cada procedimento, uma nova amostra."
+  },
+  "a4a0bea7ba534f38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Dos vários tipos de ensaios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Dos vários tipos de ensaios"
+  },
+  "c0eae24e308b4c89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Ensaios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Ensaios\n\n1 - A utilização das amostras apresentadas para homologação CE como componente de um tipo de cinto ou sistema de retenção deve ser em conformidade com o anexo 16.º do presente Regulamento.\n\n2 - São necessários dois cintos ou sistemas de retenção para o exame da fivela de fecho, o ensaio de funcionamento a frio da fivela de fecho, o ensaio a frio descrito no n.º 8 do artigo 31.º, se for caso disso, o ensaio de durabilidade da fivela de fecho, o ensaio de corrosão do cinto, os ensaios de funcionamento dos retractores e o ensaio de abertura da fivela de fecho depois do ensaio dinâmico, sendo o exame do cinto ou sistema de retenção efectuado numa das duas amostras.\n\n3 - É necessário um cinto ou sistema de retenção para o exame da fivela de fecho, os ensaios de resistência da fivela de fecho, das peças de fixação, dos dispositivos de regulação do cinto e, se for caso disso, dos retractores.\n\n4 - São necessários dois cintos ou sistemas de retenção para o exame da fivela de fecho, o ensaio de microdeslizamento e o ensaio de abrasão, devendo o ensaio de funcionamento do dispositivo de regulação do cinto ser efectuado numa das duas amostras.\n\n5 - A amostra de precinta é utilizada para o ensaio de resistência à ruptura da precinta, devendo uma parte da referida amostra ser conservada, enquanto a homologação como componente se mantiver válida."
+  },
+  "ebf400784d920879": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Ensaio de corrosão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Ensaio de corrosão\n\n1 - Deve ser colocado um conjunto completo de cinto de segurança numa câmara de ensaio, como indicado no capítulo III do presente Regulamento, devendo, no caso de um conjunto que comporte um retractor, a precinta ser extraída em todo o seu comprimento, menos 300 mm (mais ou menos) 3 mm.\n\n2 - O ensaio de exposição deve decorrer sem interrupções durante um período de cinquenta horas, excepto durante breves interrupções que se revelem necessárias, nomeadamente para verificar e acrescentar a solução de sal.\n\n3 - Uma vez concluído o ensaio de exposição, o conjunto deve ser lavado com precaução ou imerso em água corrente limpa, a uma temperatura que não ultrapasse 38ºC, a fim de retirar qualquer depósito de sal que possa ter-se formado, sendo em seguida posto a secar à temperatura ambiente durante vinte e quatro horas antes de ser inspeccionado, em conformidade com o n.º 3 do artigo 6.º do presente Regulamento."
+  },
+  "3b2243065f1387e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Condicionamento das precintas para o ensaio de resistência à ruptura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Condicionamento das precintas para o ensaio de resistência à ruptura\n\nAs amostras cortadas da precinta devem ser condicionadas de acordo com os artigos seguintes."
+  },
+  "f8cfeda44cb26d7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Condicionamento às condições ambientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Condicionamento às condições ambientes\n\n1 - A precinta deve ser mantida durante, pelo menos, vinte e quatro horas numa atmosfera cuja temperatura seja de 20ºC (mais ou menos) 5ºC e cuja humidade relativa seja de 65% (mais ou menos) 5%.\n\n2 - No caso de o ensaio não ser efectuado logo a seguir ao condicionamento referido no número anterior, a amostra deve ser colocada num recipiente hermeticamente fechado até ao início do ensaio, devendo a carga de ruptura ser determinada nos cinco minutos seguintes à saída da atmosfera de condicionamento ou do recipiente."
+  },
+  "29b7b16ae663bd60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Condicionamento à luz",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Condicionamento à luz\n\n1 - Devem ser aplicadas as prescrições da Recomendação ISO/R 105-B 02-1978, devendo a precinta ser exposta à luz durante o tempo necessário para a obtenção, no padrão azul tipo 7, do contraste igual ao n.º 4 da escala dos cinzentos.\n\n2 - Depois da exposição referida no número anterior, a precinta deve ser mantida durante, pelo menos, vinte e quatro horas numa atmosfera de temperatura de 20ºC (mais ou menos) 5ºC e humidade relativa de 65% (mais ou menos) 5%.\n\n3 - No caso de o ensaio não poder ser efectuado logo após o condicionamento, a amostra deve ser mantida num recipiente fechado hermeticamente até ao início do ensaio, devendo a resistência à tracção da precinta ser determinada nos cinco minutos subsequentes à saída da atmosfera de condicionamento ou do recipiente."
+  },
+  "21449f3787dc6351": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Condicionamento ao frio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Condicionamento ao frio\n\n1 - A precinta deve ser mantida durante, pelo menos, vinte e quatro horas numa atmosfera de temperatura de 20ºC (mais ou menos) 5ºC e humidade relativa de 65% (mais ou menos) 5%.\n\n2 - Depois de efectuado o referido no número anterior, deve manter-se a precinta durante uma hora e meia sobre uma superfície plana numa câmara fria em que a temperatura do ar seja de - 30ºC (mais ou menos) 5ºC, devendo a precinta ser dobrada e a dobra carregada com uma massa de 2 kg, previamente arrefecida à temperatura referida.\n\n3 - Após se ter mantido a precinta sob carga durante trinta minutos na câmara fria referida no número anterior, deve retirar-se a massa e medir-se a carga de ruptura nos cinco minutos subsequentes à saída da precinta da câmara fria."
+  },
+  "e162d48d6501f301": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Condicionamento ao calor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Condicionamento ao calor\n\n1 - A precinta deve ser mantida durante três horas numa câmara de aquecimento numa atmosfera de temperatura de 60ºC (mais ou menos) 5ºC e humidade relativa de 65% (mais ou menos) 5%.\n\n2 - A carga de ruptura deve ser determinada nos cinco minutos subsequentes à saída da precinta da câmara de aquecimento."
+  },
+  "2bd5fe6199e587e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Exposição à água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Exposição à água\n\n1 - A precinta deve permanecer totalmente imersa em água destilada durante três horas a uma temperatura de 20ºC (mais ou menos) 5ºC, água essa à qual deve ter sido adicionado um pouco de um agente molhante.\n\n2 - Pode ser utilizado qualquer agente molhante que convenha à fibra examinada.\n\n3 - A carga de ruptura deve ser determinada nos dez minutos subsequentes à saída da precinta da água."
+  },
+  "576ec9fd2ac0d571": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Condicionamento por abrasão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Condicionamento por abrasão\n\n1 - O procedimento de abrasão deve ser efectuado em todos os dispositivos em que a precinta entre em contacto com uma peça rígida do cinto, não sendo necessário, no dispositivo de regulação, efectuar o procedimento de abrasão do tipo 1 referido no artigo seguinte, caso o ensaio de microdeslizamento referido no artigo 29.º do presente Regulamento, mostre que a precinta desliza menos de metade do valor prescrito.\n\n2 - A montagem sobre o dispositivo de ensaio deve respeitar, aproximadamente, a posição relativa precinta/superfície de contacto.\n\n3 - Antes de efectuado o ensaio referido no presente artigo, as amostras devem ser mantidas durante, pelo menos, vinte e quatro horas numa atmosfera cuja temperatura seja de 20ºC (mais ou menos) 5ºC e a humidade relativa de 65% (mais ou menos) 5%, devendo o procedimento de abrasão ser efectuado a uma temperatura ambiente compreendida entre 15ºC e 30ºC.\n\n4 - Os requisitos aplicáveis a cada procedimento de abrasão estão referidos no quadro constante do ponto 4 do anexo 1.º ao presente Regulamento."
+  },
+  "2514298f29f53dc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Condições especiais dos procedimentos de abrasão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Condições especiais dos procedimentos de abrasão\n\n1 - O procedimento do tipo 1, aplicável aos casos em que a precinta passe através de um dispositivo de regulação, deve ser efectuado do seguinte modo:\n\na) Deve ser aplicada, permanentemente, uma carga de 2,5 daN verticalmente a um dos retalhos de precinta;\n\nb) O outro retalho, colocado horizontalmente, deve ser sujeito a um movimento de vaivém;\n\nc) O dispositivo de regulação deve ser colocado de maneira que o retalho de precinta horizontal permaneça tenso, tal como consta da figura n.º 1 do anexo 15.º ao presente Regulamento.\n\n2 - O procedimento do tipo 2, aplicável aos casos em que a precinta mude uma vez de direcção ao passar por uma parte rígida, deve ser efectuado do seguinte modo:\n\na) Os ângulos dos dois retalhos da precinta devem ser conformes com a figura n.º 2 constante do anexo 15.º ao presente Regulamento;\n\nb) Deve ser aplicada, permanentemente, uma carga de 0,5 daN;\n\nc) Nos casos em que a precinta mude várias vezes de direcção ao passar por uma parte rígida, a carga de 0,5 daN pode ser aumentada de modo a assegurar que a deslocação da precinta, através dessa parte rígida, atinja os 300 mm prescritos.\n\n3 - O procedimento do tipo 3, aplicável aos casos em que a precinta esteja fixada a uma parte rígida por costura ou processo similar, deve ser com a deslocação total de 300 mm (mais ou menos) 20 mm, aplicando-se uma carga de 5 daN, unicamente durante o intervalo de tempo correspondente a uma deslocação de 100 mm (mais ou menos) 20 mm para cada meio período, como constante da figura n.º 3 do anexo 15.º ao presente Regulamento."
+  },
+  "d767ecb454ffb8ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Ensaio de microdeslizamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Ensaio de microdeslizamento\n\n1 - Os componentes ou dispositivos a submeter ao ensaio de microdeslizamento devem ser mantidos durante, pelo menos, vinte e quatro horas antes do ensaio, numa atmosfera cuja temperatura seja de 20ºC (mais ou menos) 5ºC e humidade relativa de 65% (mais ou menos) 5%.\n\n2 - O ensaio deve ser efectuado a uma temperatura compreendida entre 15ºC e 30ºC.\n\n3 - Deve ser assegurado que no banco de ensaio a secção livre do dispositivo de regulação esteja dirigida ou para cima ou para baixo como no veículo.\n\n4 - Suspende-se uma carga de 5 daN na extremidade inferior da secção de precinta.\n\n5 - A outra extremidade deve ser sujeita a um movimento de vaivém com uma amplitude de 300 mm (mais ou menos) 20 mm, tal como descrito na figura n.º 3 do anexo 15.º ao presente Regulamento.\n\n6 - No caso de existir uma extremidade livre a servir de reserva de precinta, essa extremidade não deve ser presa ou agarrada à secção sob tensão.\n\n7 - Deve ser assegurado que no banco de ensaio a precinta em posição distendida desça do dispositivo de regulação numa curva côncava, como no veículo.\n\n8 - A carga de 5 daN aplicada no banco de ensaio deve ser guiada verticalmente de modo a evitar o balanceamento de carga e a torção do cinto.\n\n9 - A peça de fixação deve ser fixada à carga de 5 daN como no veículo.\n\n10 - Antes do início efectivo do ensaio deve ser efectuada uma série de 20 ciclos, a fim de que o sistema de auto-aperto adquira a posição correcta.\n\n11 - O número de ciclos executado deve ser de 1000, à frequência de 0,5 ciclos por segundo, sendo a amplitude total de 300 mm (mais ou menos) 20 mm, devendo a carga de 5 daN só ser aplicada durante o intervalo de tempo correspondente a uma deslocação de 100 mm (mais ou menos) 20 mm por cada meio período."
+  },
+  "806e38842059d4ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Ensaio de resistência à ruptura da precinta, no que respeita ao ensaio estático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Ensaio de resistência à ruptura da precinta, no que respeita ao ensaio estático\n\n1 - Os ensaios devem ser efectuados de cada vez em duas novas amostras de precintas de comprimento suficiente, condicionadas em conformidade com uma das disposições referidas nos artigos 21.º a 28.º do presente Regulamento.\n\n2 - Cada uma das precintas deve ser agarrada entre as pinças de uma máquina de ensaio de tracção, devendo as pinças ser concebidas de modo a evitar a ruptura da precinta no ponto ou na proximidade do ponto de contacto com as pinças.\n\n3 - A velocidade de deslocação deve ser, aproximadamente, 100 mm por minuto, devendo o comprimento livre da amostra entre as pinças da máquina no início do ensaio ser de 200 mm (mais ou menos) 40 mm.\n\n4 - Quando a carga atingir 980 daN, mede-se a largura da precinta, sem parar a máquina, aumentando-se a tensão até à ruptura da precinta, anotando-se a carga de ruptura.\n\n5 - No caso de a precinta deslizar ou se romper no ponto de contacto com uma das pinças, ou a menos de 10 mm de uma delas, o ensaio deve ser anulado, devendo efectuar-se um novo ensaio com outra amostra."
+  },
+  "447b2a2bedd98966": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Ensaio estático dos componentes do cinto, incluindo as partes rígidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Ensaio estático dos componentes do cinto, incluindo as partes rígidas\n\n1 - A fivela de fecho e o dispositivo de regulação devem estar ligados à máquina de ensaio de tracção pelas peças de fixação normais respectivas, aplicando-se uma carga de 980 daN.\n\n2 - No caso de cintos-arnês, a fivela de fecho deve ser ligada ao aparelho de ensaio pelas precintas que estão agarradas à fivela e o engate ou os dois engates localizados de modo aproximadamente simétrico em relação ao centro geométrico da fivela de fecho.\n\n3 - No caso de a fivela de fecho ou o dispositivo de regulação fazer parte da peça de fixação ou da parte comum de um cinto de três pontos, a referida fivela ou dispositivo de regulação devem ser ensaiados com a peça de fixação, em conformidade com os n.os 5 e 6, com excepção do caso dos retractores com guia na fixação da precinta superior.\n\n4 - No caso referido no número anterior, a carga de ensaio deve ser 980 daN e o comprimento de precinta, que fica enrolado no tambor no momento do bloqueio, deve ser tão próximo quanto possível de 450 mm.\n\n5 - As peças de fixação e quaisquer dispositivos de regulação do cinto em altura são ensaiados do modo indicado nos números anteriores, mas a carga deve ser de 1470 daN, devendo ser aplicada, sem prejuízo do disposto no n.º 2 do artigo 36.º, nas condições mais desfavoráveis que possam ocorrer num veículo em que o cinto esteja correctamente instalado.\n\n6 - No que respeita aos retractores, o ensaio deve ser efectuado com a precinta totalmente desenrolada do tambor.\n\n7 - Devem ser colocadas duas amostras do conjunto do cinto completo numa câmara fria a uma temperatura de - 10ºC (mais ou menos) 1ºC durante duas horas e, imediatamente após terem saído da referida câmara fria, as partes complementares da fivela de fecho devem ser engatadas manualmente.\n\n8 - Devem ser colocadas duas amostras do conjunto do cinto completo numa câmara fria a uma temperatura de - 10ºC (mais ou menos) 1ºC durante duas horas; as peças rígidas e as peças em plástico submetidas ao ensaio devem ser colocadas, uma de cada vez, sobre uma superfície de aço plana (que terá sido colocada com as amostras na câmara fria) colocada sobre a superfície horizontal de um bloco compacto rígido com uma massa de, pelo menos, 100 kg; nos trinta segundos subsequentes à sua saída da câmara fria faz-se cair sobre estas peças, por acção da gravidade, de uma altura de 300 mm, uma massa de aço de 18 kg; a face de impacte desta massa deve ter uma dureza de, pelo menos, 45 HRC e a forma de uma superficie convexa com um raio transversal de 100 mm e um raio longitudinal de 150 mm; em relação a uma das amostras, o ensaio deve ser efectuado colocando o eixo da barra curva no alinhamento da precinta; quanto à outra amostra, o ensaio efectua-se a 90º em relação à precinta.\n\n9 - As fivelas de fecho que tenham partes comuns a dois cintos de segurança devem ser submetidos a uma carga que permita simular as condições de utilização num veículo, cujos bancos estejam regulados na sua posição média.\n\n10 - A direcção de aplicação da carga deve ser estabelecida de acordo com os n.os 1 a 15 do artigo 36.º, devendo ser aplicada, simultaneamente, a cada uma das precintas uma carga de 1470 daN.\n\n11 - No anexo 14.º do presente Regulamento encontra-se a descrição de uma aparelhagem adequada ao ensaio referido nos n.os 9 e 10 do presente artigo.\n\n12 - No ensaio de um dispositivo de regulação manual, a precinta deve ser puxada para fora do dispositivo de modo regular, tendo em conta as condições normais de utilização, a uma velocidade aproximada de 100 mm/s, devendo a força máxima ser medida com a aproximação de 0,1 daN, após terem sido puxados os primeiros 25 mm de precinta.\n\n13 - O ensaio referido no número anterior deve ser efectuado nas duas direcções de movimento da precinta através do dispositivo de regulação, devendo a precinta ser sujeita a 10 ciclos antes da medição."
+  },
+  "7dc2b29b30e531e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Ensaios suplementares para os retractores, no que respeita à durabilidade do mecanismo retractor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Ensaios suplementares para os retractores, no que respeita à durabilidade do mecanismo retractor\n\n1 - A precinta deve ser extraída e deixada retrair-se tantas vezes quantas as prescritas, com uma frequência máxima de 30 ciclos por minuto.\n\n2 - No caso dos retractores de bloqueamento de emergência, deve ser dado a todos os cinco ciclos um impulso mais forte para bloquear o retractor, e um mesmo número de impulsos em cinco posições diferentes, a 90%, 80%, 75%, 70% e 65% do comprimento total da precinta ligada ao retractor; se este comprimento ultrapassar 900 mm, as percentagens indicadas devem referir-se aos últimos 900 mm de precinta que permaneçam enrolados no retractor.\n\n3 - O anexo 7.º descreve a aparelhagem adequada para os ensaios indicados nos números anteriores."
+  },
+  "3f7114f030b9ee6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Bloqueamento dos retractores de bloqueamento de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Bloqueamento dos retractores de bloqueamento de emergência\n\n1 - O retractor deve ser ensaiado quando 300 mm (mais ou menos) 3 mm de precinta continuarem enrolados no tambor do retractor.\n\n2 - No caso de um retractor de bloqueamento accionado pelo movimento da precinta, a extracção deve ser feita na direcção segundo a qual se produz normalmente com o retractor instalado no veículo.\n\n3 - Quando os retractores forem sujeitos a ensaios de sensibilidade à desaceleração do veículo, os ensaios devem ser efectuados com o comprimento indicado no n.º 1, segundo dois eixos perpendiculares, que são horizontais, no caso de o retractor estar instalado num veículo de acordo com as instruções do fabricante do cinto de segurança; um dos eixos deve estar situado na direcção escolhida pelo serviço técnico encarregado dos ensaios de homologação, de modo a representar as condições mais desfavoráveis de funcionamento do mecanismo de bloqueamento.\n\n4 - O anexo 8.º descreve a aparelhagem adequada aos ensaios indicados nos números anteriores.\n\n5 - A aparelhagem deve ser construída de modo a assegurar que seja atingida a aceleração requerida antes de serem retirados do retractor mais de 5 mm de precinta e que essa retirada se efectue a uma taxa média de aumento de aceleração de, pelo menos, 25 g/s e não mais de 150 g/s.\n\n6 - A fim de se verificar a sua conformidade com os requisitos referidos nos n.os 5 e 6 do artigo 12.º, o retractor deve ser montado sobre uma mesa horizontal, sendo esta inclinada a uma velocidade que não ultrapasse 2º por segundo até ao momento de bloqueamento.\n\n7 - O ensaio referido no número anterior deve ser repetido noutras direcções, de forma a assegurar que os referidos requisitos sejam respeitados."
+  },
+  "8e222cf07a598c64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Resistência ao pó",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Resistência ao pó\n\n1 - O retractor deve ser instalado numa câmara de ensaio, tal como ilustrado no anexo 9.º ao presente Regulamento.\n\n2 - A orientação do retractor deve ser a mesma que teria se estivesse montado no veículo.\n\n3 - A câmara de ensaio deve conter a quantidade de pó exigida no n.º 6.\n\n4 - A precinta do retractor deve ser desenrolada num comprimento de 500 mm e assim mantida, excepto durante 10 ciclos completos de extracção e retracção aos quais será sujeita no ou nos dois minutos subsequentes a cada agitação do pó.\n\n5 - Durante um período de cinco horas o pó deve ser agitado durante cinco segundos em cada vinte minutos, por ar comprimido seco e isento de óleo de lubrificação, a uma pressão relativa de 5,5 x 10(elevado a 5) (mais ou menos) 0,5 x 10(elevado a 5) pa, passando por um orifício de 1,5 mm (mais ou menos) 0,1 mm de diâmetro.\n\n6 - O pó utilizado no ensaio descrito nos números anteriores compõe-se de cerca de 1 kg de quartzo seco, devendo a granulometria ser a seguinte:\n\na) Passando por uma abertura de 150 (mi)m, diâmetro do fio 104 (mi)m: 99% a 100%;\n\nb) Passando por uma abertura de 150 (mi)m, diâmetro do fio 64 (mi)m: 76% a 86%;\n\nc) Passando por uma abertura de 75 (mi)m, diâmetro do fio 52 (mi)m: 60% a 70%."
+  },
+  "a27b70bb1ad51990": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Força de retracção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Força de retracção\n\n1 - A força de retracção deve ser medida num conjunto de cinto de segurança instalado sobre um manequim, tal como no ensaio dinâmico prescrito no artigo 36.º do presente Regulamento.\n\n2 - A tensão da precinta deve ser medida tão próximo quanto possível dos pontos de contacto com o manequim, mas ligeiramente antes destes pontos, enquanto a precinta estiver a ser retraída a uma velocidade aproximada de 0,6 m por minuto."
+  },
+  "ed2843ac580c3087": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Ensaios dinâmicos do conjunto do cinto ou do sistema de retenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Ensaios dinâmicos do conjunto do cinto ou do sistema de retenção\n\n1 - O conjunto do cinto deve ser fixado num carrinho equipado com o banco e as fixações definidos no anexo 10.º ao presente Regulamento.\n\n2 - No caso de o conjunto do cinto ser destinado a um determinado veículo ou a determinados modelos de veículo, a distância entre o manequim e as fixações são determinadas pelo serviço que proceder aos ensaios segundo as instruções de montagem fornecidas com o cinto ou de acordo com as indicações fornecidas pelo fabricante do veículo.\n\n3 - No caso referido no número anterior, quando o ensaio dinâmico tiver sido efectuado para um modelo de veículo, não precisa de ser repetido para outros modelos de veículo, nos quais cada ponto de fixação esteja a menos de 50 mm de distância do ponto de fixação correspondente do cinto ensaiado.\n\n4 - Em alternativa ao referido no número anterior, os fabricantes podem determinar posições hipotéticas de fixação para ensaio, de modo a englobar o número máximo de pontos de fixação reais.\n\n5 - No caso de o cinto estar equipado com um dispositivo de regulação em altura, a posição do dispositivo e os meios de o fixar são os mesmos que os da construção do veículo.\n\n6 - No caso de um cinto de segurança ou sistema de retenção equipado com dispositivos de pré-carregamento apoiados em componentes que não façam parte do próprio conjunto do cinto, este deve ser montado no carrinho de ensaio com as peças adicionais do veículo necessárias, segundo o prescrito nos n.os 9 a 15 do presente artigo.\n\n7 - Em alternativa ao referido no número anterior, no caso de os dispositivos não poderem ser ensaiados no carrinho de ensaio, o fabricante pode demonstrar que o dispositivo satisfaz os requisitos do presente Regulamento através de um ensaio de colisão frontal convencional a 50 km/h, em conformidade com o procedimento ISO 3560 (1975/11/01 - veículos rodoviários - método de ensaio de colisão frontal contra uma barreira fixa).\n\n8 - No caso de um cinto que faça parte de um conjunto para o qual é pedida a homologação como componente enquanto sistema de retenção, o referido cinto deve ser montado na parte da estrutura do veículo na qual se encontra normalmente instalado, sendo essa parte fixada ao carrinho de ensaio da forma indicada nos números seguintes.\n\n9 - O método utilizado para segurar o veículo durante o ensaio não deve ter por efeito reforçar as fixações dos bancos ou dos cintos de segurança, nem atenuar a deformação normal da estrutura.\n\n10 - Não se deve utilizar qualquer parte da frente do veículo que, limitando o movimento para a frente do manequim, à excepção dos pés, pudesse reduzir as cargas impostas ao sistema de retenção durante o ensaio, podendo as partes da estrutura eliminadas ser substituídas por partes de resistência equivalente, com a condição de não impedirem nenhum movimento para a frente do manequim.\n\n11 - O dispositivo de fixação é considerado satisfatório se não exercer nenhum efeito sobre uma superfície que cubra toda a largura da estrutura e se o veículo ou a estrutura estiver bloqueado ou imobilizado à frente, a uma distância não inferior a 500 mm do ponto de fixação do sistema de retenção submetido a ensaio, devendo na retaguarda a estrutura estar segura a uma distância para trás dos pontos de fixação suficiente para satisfazer os requisitos dos n.os 9 e 10.\n\n12 - Os bancos devem ser ajustados e colocados na posição de utilização considerada pelo serviço técnico encarregado dos ensaios de homologação como sendo a que oferece as condições mais desfavoráveis de resistência compatíveis com a instalação do manequim no veículo, devendo as posições do banco ser referidas no relatório.\n\n13 - No caso de o banco ter um encosto de inclinação regulável, esse encosto deve estar bloqueado em conformidade com as especificações do fabricante ou, na falta de tais especificações, estar bloqueado de modo a formar um ângulo efectivo, tão próximo quanto possível, de 25º, para os veículos das categorias M1 e N1, ou de 15º, para os veículos das restantes categorias.\n\n14 - O banco deve ser considerado como estando na sua posição de utilização mais avançada, tendo em conta as dimensões do manequim, a fim de se avaliar a satisfação dos requisitos referidos nos n.os 12 e 13 do artigo 17.º do presente Regulamento.\n\n15 - Todos os bancos de um mesmo grupo devem ser ensaiados simultaneamente.\n\n16 - O conjunto do cinto deve ser colocado no manequim descrito no anexo 11.º, sendo colocada uma prancha de 25 mm de espessura entre as costas do manequim e o encosto do banco.\n\n17 - O cinto deve ser bem ajustado ao manequim, sendo a prancha retirada e o manequim colocado de modo que as suas costas estejam, em toda a sua extensão, em contacto com o encosto do banco.\n\n18 - Deve ser feita uma verificação para assegurar que o modo de engate das duas partes da fivela de fecho não provoca riscos de redução da fiabilidade do bloqueamento.\n\n19 - As extremidades livres das precintas devem ultrapassar os dispositivos de regulação num comprimento suficiente para permitir um escorregamento.\n\n20 - O carrinho deve ser propulsionado de tal maneira que, no momento do choque, a sua velocidade livre seja de 50 km/h (mais ou menos) 1 km/h e o manequim permaneça estável, devendo a distância de paragem do carrinho ser de 400 mm (mais ou menos) 50 mm.\n\n21 - O carrinho deve permanecer horizontal durante a desaceleração, devendo esta ser obtida utilizando o dispositivo ilustrado no anexo 10.º do presente Regulamento, ou qualquer outro dispositivo que dê resultados equivalentes.\n\n22 - O aparelho deve estar de acordo com os comportamentos funcionais indicados no anexo 12.º ao presente Regulamento.\n\n23 - Devem ser medidas a velocidade do carrinho imediatamente antes do impacte, a deslocação do manequim para a frente e a velocidade do tórax a uma deslocação de 300 mm deste.\n\n24 - O conjunto do cinto ou o sistema de retenção e as suas partes rígidas devem ser submetidos a um exame visual, logo após o impacte, sem abertura da fivela de fecho, a fim de verificar se houve qualquer deficiência ou ruptura.\n\n25 - No caso de sistemas de retenção, deve igualmente ser verificado, após o ensaio, se as partes da estrutura do veículo ligadas ao carrinho não sofreram deformações permanentes.\n\n26 - No caso de as deformações referidas no número anterior serem notadas, devem ser levadas em conta nos cálculos efectuados, em conformidade com o referido nos n.os 12 e 13 do artigo 17.º do presente Regulamento."
+  },
+  "4d3a8b7a46b23051": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Ensaio de abertura da fivela de fecho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Ensaio de abertura da fivela de fecho\n\n1 - No presente ensaio devem ser utilizados conjuntos de cinto que já tenham sido submetidos ao ensaio dinâmico em conformidade com o artigo anterior.\n\n2 - O cinto deve ser desmontado do carrinho de ensaio sem que a fivela de fecho seja aberta, aplicando-se uma carga à fivela de fecho por tracção directa através das precintas a ela ligadas, de modo que todas as precintas fiquem sujeitas à força de 60/n daN; n é o número de precintas ligadas à fivela de fecho quando esta estiver na posição fechada, sendo o seu valor mínimo considerado igual a 2.\n\n3 - No caso de a fivela de fecho estar ligada a uma parte rígida, a força deve ser aplicada respeitando o ângulo formado pela fivela de fecho e a parte rígida quando do ensaio dinâmico.\n\n4 - Deve ser aplicada uma carga à velocidade de 400 mm (mais ou menos) 20 mm/minuto no centro geométrico do botão de comando da abertura da fivela de fecho, segundo um eixo constante paralelo à direcção de movimento inicial do botão.\n\n5 - Durante a aplicação da força de abertura a fivela de fecho deve ser mantida no seu lugar por um suporte rígido.\n\n6 - A carga referida nos números anteriores não deve ultrapassar o limite previsto no n.º 11 do artigo 7.º do presente Regulamento.\n\n7 - O ponto de contacto da aparelhagem de ensaio deve ser de forma esférica e ter um raio de 2,5 mm (mais ou menos) 0,1 mm, devendo apresentar uma superfície metálica polida.\n\n8 - A força de abertura da fivela de fecho deve ser medida e anotadas todas as suas deficiências.\n\n9 - Após o ensaio de abertura da fivela de fecho, as partes constituintes do conjunto do cinto ou do sistema de retenção, submetidas aos ensaios previstos no artigo anterior, devem ser examinadas e a extensão dos danos sofridos pelo conjunto do cinto ou pelo sistema de retenção no decurso do ensaio dinâmico assinalada no relatório do ensaio."
+  },
+  "c227d7a9be8094a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Ensaios adicionais em cintos de segurança com dispositivos de pré-carregamento - Condicionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Ensaios adicionais em cintos de segurança com dispositivos de pré-carregamento - Condicionamento\n\n1 - O dispositivo de pré-carregamento pode ser separado do cinto de segurança a ensaiar e ser mantido durante vinte e quatro horas à temperatura de 60ºC (mais ou menos) 5ºC, elevando-se a temperatura para 100ºC (mais ou menos) 5ºC durante duas horas.\n\n2 - Depois de efectuado o referido no número anterior, o dispositivo de pré-carregamento deve ser mantido durante vinte e quatro horas à temperatura de - 30ºC (mais ou menos) 5ºC, e, após ter sido retirado do condicionamento, deixa-se aquecer o dispositivo até à temperatura ambiente.\n\n3 - No caso de o dispositivo de pré-carregamento ter sido separado, deve ser novamente montado no cinto de segurança."
+  },
+  "7a6fa3d150fbe1e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Relatório de ensaio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Relatório de ensaio\n\n1 - O relatório de ensaio deve registar os resultados dos ensaios previstos nos artigos anteriores, nomeadamente a velocidade do carrinho, a deslocação máxima para a frente do manequim, a localização da fivela de fecho, a força de abertura da fivela de fecho e qualquer deficiência ou ruptura.\n\n2 - No caso de a localização das fixações prevista no anexo 10.º não ter sido respeitada, nos termos do artigo 36.º, o relatório deve descrever a montagem do conjunto do cinto ou do sistema de retenção, assim como os ângulos e dimensões relevantes.\n\n3 - O relatório deve igualmente mencionar qualquer deformação ou ruptura da fivela de fecho surgida no decurso do ensaio.\n\n4 - No caso de sistemas de retenção, o relatório do ensaio deve especificar o modo de ligação da estrutura do veículo ao carrinho, a posição dos bancos e a inclinação dos encostos dos bancos.\n\n5 - No caso de o deslocamento do manequim para a frente ter excedido os valores prescritos no n.º 11 do artigo 17.º, o relatório deve indicar se os requisitos do n.º 12 do mesmo artigo foram satisfeitos."
+  },
+  "ddab12e3dad46bdd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Da conformidade da produção e das instruções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Da conformidade da produção e das instruções"
+  },
+  "d45df431142bed58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Conformidade da produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Conformidade da produção\n\n1 - Qualquer cinto de segurança ou sistema de retenção homologado nos termos do presente Regulamento deve ser fabricado de modo a estar em conformidade com o tipo homologado, satisfazendo para isso os requisitos estabelecidos nos artigos 5.º a 39.º do presente Regulamento.\n\n2 - Devem ser efectuados controlos adequados da produção a fim de verificar se os requisitos prescritos no número anterior foram cumpridos.\n\n3 - As medidas destinadas a garantir a conformidade da produção, em regra geral, devem ser tomadas de acordo com o disposto no artigo 32.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas.\n\n4 - No anexo 18.º ou no anexo 16.º do documento referido no anexo 19.º do presente Regulamento, consoante o caso, figuram disposições especiais que pormenorizam os ensaios a efectuar e a frequência desses ensaios."
+  },
+  "9b90bc933f870fb7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Instruções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Instruções\n\n1 - No caso de um tipo de cinto de segurança a fornecer separadamente do veículo, a embalagem e as instruções de instalação devem indicar claramente o ou os modelos de veículo a que se destina.\n\n2 - Todos os sistemas de retenção para crianças devem ser acompanhados das instruções que figuram no anexo 13.º ao presente Regulamento."
+  },
+  "1a68f87af5675480": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Das prescrições respeitantes à instalação no veículo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Das prescrições respeitantes à instalação no veículo"
+  },
+  "866c7c2c56c0c9d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Equipamento dos veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Equipamento dos veículos\n\n1 - Para além dos requisitos referidos no presente artigo, a Direcção-Geral de Viação pode aceitar para determinados modelos de veículos outros tipos de cintos de segurança ou sistemas de retenção abrangidos pelo presente Regulamento.\n\n2 - Com excepção dos bancos rebatíveis e dos lugares sentados destinados a ser utilizados exclusivamente com o veículo estacionário, os bancos dos veículos das categorias M e N, com excepção dos veículos das categorias M2 e M3 concebidos para utilização urbana e passageiros de pé simultaneamente, devem ser equipados com cintos de segurança ou sistemas de retenção que satisfaçam os requisitos do presente Regulamento.\n\n3 - Os tipos de cintos de segurança ou sistemas de retenção para cada lugar sentado em que seja exigida a sua instalação devem ser os especificados no anexo 17.º, com os quais não podem ser utilizados retractores sem bloqueamento ou retractores de desbloqueamento manual.\n\n4 - Para todos os lugares sentados em que sejam especificados cintos subabdominais do tipo B no anexo referido no número anterior são admitidos cintos subabdominais do tipo Br3, excepto no caso de, em utilização, se retraírem de tal modo que o conforto, após o fecho normal, se reduza de modo significativo.\n\n5 - No caso de o veículo estar equipado com um sistema de retenção para crianças integrado, deve satisfazer os requisitos pertinentes do anexo 19.º ao presente Regulamento.\n\n6 - No caso de não serem exigidos cintos de segurança, pode ser fornecido, à escolha do fabricante, qualquer tipo de cinto de segurança ou de sistema de retenção, em conformidade com o presente Regulamento.\n\n7 - Em alternativa aos cintos subabdominais para os lugares sentados, em que estes sejam especificados no anexo 17.º, podem ser fornecidos cintos do tipo A dos tipos admitidos no mesmo anexo.\n\n8 - Nos cintos de três pontos munidos de retractores, pelo menos um retractor deve actuar sobre a precinta diagonal.\n\n9 - Com excepção dos veículos da categoria M, pode ser admitido um retractor de bloqueamento de emergência do tipo 4N, em vez de um retractor do tipo 4, se se tiver demonstrado aos serviços responsáveis pelos ensaios que a montagem de um retractor do tipo 4 não seria a prática.\n\n10 - Para os lugares lateral da frente e central da frente indicados no anexo 17.º e marcados com o símbolo (zeta), os cintos subabdominais do tipo especificado no referido anexo são considerados adequados se o pára-brisas estiver localizado fora da zona de referência definida no anexo II da Directiva n.º [74/60/CEE](https://data.europa.eu/eli/dir/1974/60/oj?locale=pt).\n\n11 - No que respeita a cintos de segurança, o pára-brisas é considerado parte da zona de referência se puder entrar em contacto estático com o aparelho de ensaio, de acordo com o método descrito no anexo II da directiva referida no número anterior.\n\n12 - Para todos os lugares sentados indicados no anexo 17.º marcados com o símbolo # devem ser instalados cintos subabdominais dos tipos especificados no referido anexo, se existir um «lugar exposto», conforme definido no número seguinte.\n\n13 - Um «lugar exposto» é um lugar em que não há nenhuma «zona de protecção» em frente do banco dentro do seguinte espaço definido:\n\na) Entre dois planos horizontais, um dos quais passa pelo ponto H e o outro está situado 400 mm acima do precedente;\n\nb) Entre dois planos longitudinais verticais, simétricos em relação ao ponto H e distanciado entre si 400 mm;\n\nc) Atrás de um plano transversal vertical, distando 1,3 m do ponto H.\n\n14 - Para efeitos do requisito referido no número anterior, entende-se por «zona de protecção» uma superfície de resistência adequada e sem descontinuidades tal que, se se projectar geometricamente uma esfera de 165 mm de diâmetro, segundo uma direcção longitudinal horizontal que passe por um ponto qualquer do espaço definido no número anterior e pelo centro da esfera, não exista na zona de protecção nenhuma abertura pela qual se possa fazer passar a projecção geométrica da esfera.\n\n15 - Um banco é considerado «lugar exposto» se as zonas de protecção no interior do espaço definido no número anterior tiverem uma superfície acumulada inferior a 800 cm2.\n\n16 - Cada lugar sentado indicado no anexo 17.º e marcado com o símbolo [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf) deve estar dotado de cintos de três pontos de um tipo especificado no referido anexo, a não ser que uma das seguintes condições seja satisfeita:\n\na) Haja um banco ou outras peças do veículo que estejam em conformidade com o n.º 3.5 do apêndice n.º 1 do anexo III da Directiva n.º [74/408/CEE](https://data.europa.eu/eli/dir/1974/408/oj?locale=pt), do Conselho, directamente à sua frente; ou\n\nb) Nenhuma parte do veículo esteja dentro da zona de referência ou, quando o veículo estiver em movimento, seja capaz de estar dentro dessa zona; ou\n\nc) Partes do veículo dentro da referida zona de referência satisfaçam os requisitos de absorção de energia estabelecidos no apêndice n.º 6 do anexo III da Directiva n.º [74/408/CEE](https://data.europa.eu/eli/dir/1974/408/oj?locale=pt).\n\n17 - No caso de ser satisfeita uma das condições referidas no número anterior, podem ser instalados cintos de segurança de dois pontos, de um tipo especificado no anexo 17.º ao presente Regulamento.\n\n18 - Com excepção dos casos referidos no n.º 21 do presente artigo, cada lugar sentado de passageiro equipado com uma almofada de ar deve ser dotado de um aviso contra a utilização de um sistema de retenção para crianças virado para a retaguarda nesse banco.\n\n19 - A etiqueta de aviso, sob a forma de um pictograma, que pode incluir texto explicativo, deve ser afixada de modo durável e localizada de modo que seja facilmente visível em frente a uma pessoa prestes a instalar um sistema de retenção para crianças virado para a retaguarda no banco em questão, dando a figura 1 constante do anexo 1.º ao presente Regulamento um exemplo de um possível desenho do pictograma.\n\n20 - No caso de o aviso referido no número anterior não ser visível com a porta fechada, deve ser visível em todas as ocasiões uma referência permanente.\n\n21 - Os requisitos referidos nos n.os 18, 19 e 20 do presente artigo não se aplicam se o veículo estiver equipado com um mecanismo que detecte automaticamente a presença de um sistema de retenção para crianças virado para a retaguarda e assegure que a almofada de ar não se solte quando esse sistema de retenção para crianças estiver montado.\n\n22 - No caso dos bancos que podem ser rodados ou orientados para outras posições, a utilizar com o veículo estacionário, as disposições referidas no n.º 2 aplicam-se apenas às orientações destinadas a utilização normal quando o veículo se desloca na estrada, de acordo com o presente Regulamento, devendo a ficha de informações ter uma nota nesse sentido."
+  },
+  "5f1065639054b41d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Prescrições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Prescrições gerais\n\n1 - Os cintos de segurança e os sistemas de retenção devem ser fixados a fixações que obedeçam às especificações da Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt).\n\n2 - Os cintos de segurança e os sistemas de retenção devem ser montados de modo que, quando correctamente usados pelo utente, o seu bom funcionamento seja garantido e o risco de ferimentos em caso de acidente seja reduzido, devendo ser montados de modo:\n\na) Que as precintas do cinto não possam tomar uma configuração perigosa;\n\nb) A reduzir ao mínimo o risco de deslizamento da precinta do ombro do portador durante a sua deslocação para a frente, quando o cinto estiver a ser correctamente usado;\n\nc) A reduzir ao mínimo o risco de deterioração da precinta por contacto com partes rígidas salientes do veículo ou da estrutura do banco;\n\nd) Que a concepção e a instalação de cada cinto de segurança previsto para cada lugar sentado sejam tais que o cinto esteja imediatamente disponível para ser utilizado e, além disso, se o banco todo ou a almofada do banco e ou as costas do banco puderem ser dobrados para permitir o acesso à parte de trás do veículo ou para transportar mercadorias ou bagagem, os cintos de segurança previstos para esses bancos devem ser acessíveis ou poder ser facilmente recuperados debaixo ou detrás do banco por uma pessoa, depois de os bancos serem dobrados e voltarem à posição normal de lugar sentado, de acordo com as instruções no manual do utilizador do veículo, sem que essa pessoa tenha de ter uma formação ou uma prática especiais.\n\n3 - O serviço técnico, estando a lingueta da fivela de fecho introduzida nesta e não havendo nenhum ocupante no banco, deve verificar:\n\na) Que a possível folga do cinto não impeça a instalação correcta dos sistemas de retenção para crianças recomendados pelo fabricante;\n\nb) No caso de cintos de três pontos, possa ser transmitida uma tensão de, pelo menos, 50 N à parte subabdominal do cinto por aplicação externa de uma tensão na parte diagonal do cinto."
+  },
+  "f9d23fd7e43fe571": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Prescrições especiais para as partes rígidas incorporadas nos cintos de segurança ou nos sistemas de retenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Prescrições especiais para as partes rígidas incorporadas nos cintos de segurança ou nos sistemas de retenção\n\n1 - As partes rígidas, nomeadamente as fivelas de fecho, os dispositivos de regulação e as peças de fixação, não devem aumentar o risco de ferimentos do utente ou dos outros ocupantes do veículo em caso de acidente.\n\n2 - O dispositivo de desbloqueamento da fivela de fecho deve ser claramente visível e fácil de alcançar pelo utilizador, não devendo poder ser aberto por inadvertência ou acidentalmente.\n\n3 - A fivela de fecho deve estar colocada numa posição que permita fácil acesso a um salvador que tivesse necessidade de libertar o ocupante em caso de emergência.\n\n4 - A fivela de fecho deve estar montada de modo a poder ser desbloqueada pelo utente, tanto sem carga como quando sustente o peso do utente, com um movimento simples e único e numa só direcção de qualquer das mãos.\n\n5 - No caso de cintos de segurança ou de sistemas de retenção para lugares sentados laterais da frente, excepto se forem cintos-arnês, a fivela de fecho deve igualmente poder ser bloqueada da forma referida no número anterior.\n\n6 - Deve ser verificado se, estando a fivela de fecho em contacto com o utente, a superfície de contacto satisfaz os requisitos referidos nos n.os 1 a 3 do artigo 7.º do presente Regulamento.\n\n7 - Quando o cinto for usado pelo utente, deve ajustar-se automaticamente a ele ou ser concebido de modo que o dispositivo de regulação manual esteja facilmente acessível ao utente sentado e seja de fácil utilização, devendo poder ser apertado com uma mão, de forma a ajustar-se às dimensões do utente e à posição do banco do veículo.\n\n8 - Os cintos de segurança e os sistemas de retenção que comportem retractores devem ser montados de modo a permitir aos retractores funcionarem correctamente e retrair a precinta com eficácia.\n\n9 - Tendo em vista a informação dos utilizadores do veículo das disposições relativas ao transporte de crianças, devem ser satisfeitos os requisitos do anexo 20.º ao presente Regulamento."
+  },
+  "906d4c681137dcb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII\n\nDo pedido da homologação CE, da modificação de modelos e alterações de homologações, no que respeita à instalação dos cintos de segurança e sistemas de retenção."
+  },
+  "cd491b7bb2da0e29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Pedido de homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Pedido de homologação\n\n1 - O pedido de homologação, em conformidade com os n.os 2 e 3 do artigo 4.º do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, de um modelo de veículo, no que respeita à instalação dos seus cintos de segurança e sistemas de retenção, deve ser apresentado pelo fabricante do veículo.\n\n2 - No anexo 3.º ao presente Regulamento figura um modelo de ficha de informações.\n\n3 - Deve ser apresentado ao serviço técnico responsável pela realização dos ensaios de homologação um veículo representativo do modelo a homologar."
+  },
+  "de6ff660147d2585": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Homologação CE\n\n1 - No caso de os requisitos relevantes serem satisfeitos, deve ser concedida a homologação CE, em conformidade com os n.os 1 a 5 do artigo 11.º e, se aplicável, os n.os 6 a 8 do mesmo artigo do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas.\n\n2 - O modelo do certificado de homologação CE figura:\n\na) No anexo 4.º, para os pedidos referidos no artigo 3.º do presente Regulamento;\n\nb) No anexo 5.º, para os pedidos referidos no artigo anterior.\n\n3 - A cada tipo de cinto de segurança ou de sistema de retenção e a cada modelo de veículo homologados deve ser atribuído um número de homologação conforme com o anexo VII do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, não podendo a Direcção-Geral de Viação atribuir o mesmo número a outro tipo de cinto de segurança ou de sistema de retenção, nem a outro modelo de veículo."
+  },
+  "cb1f4d7d6e81dd82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Modificação de modelos e alteração de homologações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Modificação de modelos e alteração de homologações\n\nNo caso de modificações do modelo de veículo ou do tipo de cinto de segurança ou de sistema de retenção homologados, nos termos do presente Regulamento, aplicam-se as disposições da secção III do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas."
+  },
+  "bf6debe64f9251dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Marca de homologação CE como componente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Marca de homologação CE como componente"
+  },
+  "7c3f7fe5f0f8127d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Marca de homologação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Marca de homologação CE\n\n1 - Os cintos de segurança ou sistemas de retenção conformes com o tipo homologado com base no presente Regulamento devem apresentar uma marca de homologação CE como componente.\n\n2 - A marca de homologação CE como componente referida no número anterior deve ser constituída:\n\na) Por um rectângulo envolvendo a letra minúscula «e», seguida das letras ou número distintivos do Estado membro que procedeu à homologação CE como componente, tal como consta do ponto 1 do anexo 6.º ao presente Regulamento;\n\nb) Pelo «número de homologação de base» que constitui a secção 4 do número de homologação objecto do anexo VII do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 72/2000, de 6 de Maio, precedido do número sequencial de dois algarismos atribuído à mais recente alteração técnica significativa à data da concessão da homologação CE como componente, ambos a figurar na proximidade do rectângulo, sendo o número sequencial correspondente ao presente Regulamento, 04 para os cintos de segurança e sistemas de retenção para adultos e 03 para os sistemas de retenção para crianças;\n\nc) Pelo símbolo ou símbolos adicionais, acima do rectângulo, indicados no número seguinte.\n\n3 - O ou os símbolos adicionais referidos na alínea c) do número anterior são:\n\na) Nos cintos de três pontos, a letra «A»;\n\nb) Nos cintos subabdominais, a letra «B»;\n\nc) Nos cintos de tipo especial, a letra «S».\n\n4 - Os símbolos referidos no número anterior devem ser complementados pelas marcas seguintes:\n\na) Nos cintos equipados com um absorvedor de energia, a letra «e»;\n\nb) Nos cintos de segurança equipados com um retractor, a letra «r», seguida do número do tipo do retractor utilizado, de acordo com os n.os 12 a 18 do artigo 2.º, e, se o retractor utilizado for um retractor de bloqueamento de emergência com sensibilidade múltipla, a letra «m»;\n\nc) Nos cintos de segurança com um dispositivo de pré-carregamento, a letra «p».\n\n5 - Quando o cinto fizer parte de um sistema de retenção, os símbolos referidos no n.º 3 devem ser precedidos da letra «Z».\n\n6 - Os cintos equipados com um retractor do tipo 4N devem apresentar igualmente um símbolo constituído por um rectângulo com um veículo da categoria M1 riscado, cujo significado é que a utilização desse tipo de retractor é proibida nos veículos da categoria M1.\n\n7 - No caso de o cinto ser homologado seguindo as disposições da alínea f) do n.º 11 do artigo 17.º do presente Regulamento, esse cinto deve ser marcado num rectângulo com a palavra «Airbag».\n\n8 - No caso dos sistemas de retenção para crianças, o texto adicional seguinte, acima do rectângulo:\n\na) As palavras «universal», «restrito», «semiuniversal» ou «veículo específico», dependendo da categoria de sistema de retenção;\n\nb) O intervalo de massas para o qual o sistema de retenção para crianças foi concebido, designadamente menos de 10 kg; menos de 13 kg; 9 kg-18 kg; 15 kg-25 kg; 22 kg-36 kg; menos de 18 kg; 9 kg-25 kg; 15 kg-36 kg; menos de 25 kg; 9 kg-36 kg; menos de 36 kg;\n\nc) Nos dispositivos com uma precinta entre pernas, o símbolo «y»;\n\nd) Na «retenção para necessidades especiais», o símbolo «S».\n\n9 - Os elementos referidos no presente artigo devem ser claramente legíveis e indeléveis, devendo figurar num dístico ou constituir uma marcação directa; o dístico ou a marcação devem ser resistentes ao desgaste."
+  },
+  "a773eda22901a00f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Esquemas das marcas de homologação CE como componente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Esquemas das marcas de homologação CE como componente\n\nOs esquemas das marcas de homologação CE como componente constam do ponto 2 do anexo 6.º ao presente Regulamento."
+  },
+  "a67e8aaa38771129": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Ensaio de corrosão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Ensaio de corrosão"
+  },
+  "05da9e04f61790ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Aparelhagem de ensaio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Aparelhagem de ensaio\n\n1 - A aparelhagem deve ser constituída por uma câmara de nebulização, um reservatório para a solução de sal, uma alimentação de ar comprimido convenientemente condicionado, um ou vários bicos de pulverização, suportes de amostras, um dispositivo de aquecimento da câmara e os meios de controlo necessários.\n\n2 - As dimensões e os detalhes de construção da aparelhagem devem ser opcionais, desde que as condições de ensaio sejam cumpridas.\n\n3 - As gotas de solução acumuladas no tecto ou na cobertura da câmara não devem cair sobre as amostras testadas.\n\n4 - Caso caiam gotas de solução das amostras testadas, não devem ser reenviadas para o reservatório e novamente pulverizadas.\n\n5 - A aparelhagem não deve ser constituída por materiais que afectem as características corrosivas da neblina."
+  },
+  "62a916cf02ab92c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Posição das amostras testadas na câmara de nebulização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Posição das amostras testadas na câmara de nebulização\n\n1 - As amostras, com excepção dos retractores, devem ser apoiadas ou suspensas segundo uma inclinação compreendida entre 15º e 30º em relação à vertical e de preferência paralelamente à direcção principal do fluxo horizontal da neblina na câmara, determinada em relação à superfície dominante a ensaiar.\n\n2 - Os retractores devem ser apoiados ou suspensos de modo que os eixos das bobinas destinadas a retrair a precinta estejam perpendiculares à direcção principal do fluxo horizontal de neblina na câmara.\n\n3 - A abertura destinada à passagem da precinta no retractor deve encontrar-se virada para a direcção principal referida no número anterior.\n\n4 - Cada amostra deve ser colocada de modo que a neblina possa depositar-se livremente sobre todas as amostras, impedindo que a solução de sal escorra de uma amostra para outra."
+  },
+  "8cf1138d5df4ce7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Solução de cloreto de sódio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Solução de cloreto de sódio\n\n1 - A solução de cloreto de sódio deve ser preparada dissolvendo 5 (mais ou menos) 1 partes em massa de cloreto de sódio em 95 partes de água destilada, devendo o sal ser cloreto de sódio quase completamente isento de níquel e de cobre e não contendo no estado seco mais de 0,1% de iodeto de sódio e mais de 0,3% de impurezas no total.\n\n2 - A solução deve ser tal que, quando pulverizada a 35ºC, a solução recolhida tenha um pH compreendido entre 6,5 e 7,2."
+  },
+  "b6dc30f0ffe6fab9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Alimentação em ar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Alimentação em ar\n\nO ar comprimido que alimenta o ou os bicos que permitem a pulverização da solução de sal deve ser isenta de óleo e de impurezas e mantido a uma pressão compreendida entre 70 kN/m2 e 170 kN/m2."
+  },
+  "b5168bf2d7ba7dd6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — Condições na câmara de nebulização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Condições na câmara de nebulização\n\n1 - A temperatura da zona de exposição da câmara de nebulização deve ser mantida em 35ºC (mais ou menos) 5ºC, devendo, pelo menos, dois colectores de neblina limpos ser colocados na zona de exposição, para evitar uma acumulação de gotas de solução provenientes das amostras de ensaio ou de qualquer outra fonte.\n\n2 - Os colectores devem ser colocados próximo das amostras testadas, um deles o mais próximo possível dos bicos e o outro o mais longe possível dos bicos.\n\n3 - A neblina deve ser tal que para cada porção de 80 cm2 de zona de colecta horizontal o volume médio de solução recolhida em cada colector durante uma hora esteja compreendido entre 1 ml e 2 ml quando as medições forem efectuadas num período de, pelo menos, dezasseis horas.\n\n4 - O ou os bicos devem estar dirigidos ou espaçados de tal maneira que o jacto pulverizado não atinja directamente as amostras testadas."
+  },
+  "c10308c85e979871": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 1.º — (quadros e figuras referentes ao capítulo I)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 1.º — (quadros e figuras referentes ao capítulo I)\n\n1 - Os sistemas de retenção para crianças virados para a retaguarda devem ter permanentemente afixados um dístico, visível na posição «instalado», com a seguinte advertência:\n\n[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nEste dístico deve estar redigido na língua do país no qual o dispositivo é vendido.\n\n2 - No caso dos sistemas de retenção que podem ser utilizados virados para a frente e virados para a retaguarda, deve ser incluída a seguinte advertência:\n\n[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\n3 - A lista dos elementos que devem ser submetidos a um procedimento de abrasão e os procedimentos a seguir constam do seguinte quadro:\n\n[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\n4 - O quadro seguinte indica os requisitos aplicáveis a cada procedimento de abrasão:\n\n[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nA deslocação indicada na quinta coluna do quadro representa a amplitude de um movimento de vaivém dado à precinta.\n\nFigura n.º 1\n\nPictograma\n\n(v. os n.os 18, 19 e 20 do artigo 42.º)\n\n[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)"
+  },
+  "55ece38a7252fc62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 2.º\n\nFicha de informações n.º ...\n\n[Relativa à homologação CE como componente de cintos de segurança e sistemas de retenção (Directiva n.º [77/541/CEE](https://data.europa.eu/eli/dir/1977/541/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [2000/3/CE](https://data.europa.eu/eli/dir/2000/3/oj?locale=pt)).]\n\nAs seguintes informações, se aplicáveis, devem ser fornecidas em triplicado e incluir um índice. Se houver desenhos, devem ser fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, estas devem ter o pormenor suficiente.\n\nNo caso de os sistemas, componentes ou unidades técnicas possuírem controlos electrónicos, fornecer as informações relevantes relacionadas com o seu desempenho.\n\n0 - Generalidades:\n\n0.1 - Marca (firma do fabricante): ...\n\n0.2 - Modelo e designação(ões) comercial(ais) geral(ais): ...\n\n0.5 - Nome e morada do fabricante: ...\n\n0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ...\n\n0.8 - Morada(s) da(s) linha(s) de montagem: ...\n\n1 - Lista do(s) veículo(s) ao(s) qual(is) o dispositivo se destina (se aplicável).\n\n2 - Descrição do dispositivo:\n\n2.1 - Cinto de segurança:\n\n2.1.1 - Configuração do cinto de segurança (cinto de dois pontos, de três pontos, estático, automático): ...\n\n2.1.2 - Elementos sobre a precinta (material, tecelagem, dimensões e cor): ...\n\n2.1.3 - Tipo de retractor [designação do retractor de acordo com a alínea b) do n.º 4 do artigo 48.º do presente Regulamento]: ...\n\n2.1.3.1 - Informações sobre outras funções, se for caso disso: ...\n\n2.1.4 - Desenhos das partes rígidas [de acordo com a alínea a) do n.º 6 do artigo 2.º do presente Regulamento]: ...\n\n2.1.5 - Diagrama do conjunto do cinto de segurança que permita identificar e localizar as partes rígidas: ...\n\n2.1.6 - Instruções de montagem que mostrem, inter alia, o modo de instalação do retractor e respectivo dispositivo sensível: ...\n\n2.1.7 - Se existir um dispositivo de regulação do cinto em altura, indicar se é considerado parte do cinto: ...\n\n2.1.8 - No caso de um dispositivo ou sistema de pré-carregamento, uma descrição técnica completa da sua constituição e funções, abrangendo o dispositivo sensível, caso exista, que descreva o modo de activação e o modo como é evitada uma possível activação por inadvertência, se for esse o caso: ...\n\n2.2 - Sistema de retenção, para além das informações requeridas no n.º 2.1:\n\n2.2.1 - Desenhos das partes relevantes da estrutura do veículo e de eventuais reforços das fixações dos bancos: ...\n\n2.2.2 - Desenhos do banco, mostrando a sua estrutura, sistema de regulação e componentes de fixação, com indicação dos materiais utilizados: ...\n\n2.2.3 - Desenho ou fotografia do sistema de retenção uma vez instalado: ...\n\n2.3 - Sistema de retenção para crianças:\n\n2.3.1 - Categoria(s): ...\n\n2.3.2 - Grupo(s) massa: ...\n\n2.3.3 - Sistema de retenção para crianças virado para a frente/sistema de retenção para crianças virado para a retaguarda/berço de transporte (ver nota 1): ...\n\n2.3.4 - Integral/não integral/parcial/almofada elevadora (ver nota 1): ...\n\n2.3.5 - Tipo de cinto: cinto de três pontos (para adultos)/cinto subabdominal (para adultos)/cinto de tipo especial/retractor (ver nota 1) ...\n\n2.3.6 - Outras características: conjunto cadeira/escudo contra impactes (ver nota 1) ...\n\n2.3.7 - Desenhos, diagramas e planos do sistema de retenção para crianças, incluindo o retractor, o conjunto cadeira e o escudo contra impactes, caso existam: ...\n\n2.3.8 - Declaração relativa à toxicidade, de acordo com o ponto 6.1.5 do anexo 19.º: ...\n\n2.3.9 - Declaração relativa à inflamabilidade, de acordo com o ponto 6.1.6 do anexo 19.º: ...\n\nData, ficheiro.\n\n(nota 1) Riscar o que não interessa."
+  },
+  "0f15d53e39ef2de9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 3.º\n\nFicha de informações n.º ...\n\n[Nos termos do anexo I da Directiva n.º [70/156/CEE](https://data.europa.eu/eli/dir/1970/156/oj?locale=pt), do Conselho (ver nota *), relativa à homologação CE de um veículo no que diz respeito aos cintos de segurança e sistemas de retenção (Directiva n.º [77/541/CEE](https://data.europa.eu/eli/dir/1977/541/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [2000/3/CE](https://data.europa.eu/eli/dir/2000/3/oj?locale=pt)).]\n\nAs seguintes informações, se aplicáveis, devem ser fornecidas em triplicado e incluir um índice. Se houver desenhos, devem ser fornecidos à escala adequada e com pormenor suficiente, em formato A4 ou dobrados nesse formato. Se houver fotografias, estas devem ter o pormenor suficiente. No caso de os sistemas, componentes ou unidades técnicas possuírem controlos electrónicos, fornecer as informações relevantes relacionadas com o seu desempenho.\n\n0 - Generalidades:\n\n0.1 - Marca (firma do fabricante): ...\n\n0.2 - Modelo e designação(ões) comercial(ais) geral(ais): ...\n\n0.3 - Meios de identificação do modelo, se marcados no veículo (b): ...\n\n0.3.1 - Localização dessa marcação: ...\n\n0.4 - Categoria do veículo(c): ...\n\n0.5 - Nome e morada do fabricante: ...\n\n0.8 - Morada(s) da(s) linha(s) de montagem: ...\n\n1 - Constituição geral do veículo:\n\n1.1 - Fotografias e ou desenhos de um veículo representativo: ...\n\n9 - Carroçaria:\n\n9.10.3 - Bancos:\n\n9.10.3.1 - Número: ...\n\n9.10.3.2 - Localização e disposição: ...\n\n9.10.3.2.1 - Lugar(es) sentado(s) destinado(s) a utilização apenas com o veículo estacionário: ...\n\n9.10.3.4 - Características: no que diz respeito aos bancos não homologados como componentes, descrição e desenhos: ...\n\n9.10.3.4.1 - Dos bancos e respectivas fixações: ...\n\n9.10.3.4.2 - Do sistema de regulação: ...\n\n9.10.3.4.3 - Dos sistemas de deslocação e de bloqueamento: ...\n\n9.10.3.4.4 - Das fixações dos cintos de segurança, se incorporadas na estrutura do banco: ...\n\n9.12 - Cintos de segurança e ou outros sistemas de retenção: ...\n\n9.12.1 - Número e localização dos cintos de segurança e dos sistemas de retenção e bancos nos quais podem ser utilizados:\n\n[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\n9.12.2 - Natureza e posição de sistemas de retenção adicionais (indicar: sim/não/opcional):\n\n[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\n9.12.3 - Número e posição das fixações dos cintos de segurança e prova do cumprimento da Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt) (isto é, número de homologação CE ou relatório do ensaio): ...\n\nData, processo.\n\n(nota *) Os números dos pontos e as notas de pé de página utilizados nesta ficha de informações correspondem aos do anexo I do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas. Os pontos não relevantes para efeitos do presente Regulamento são omitidos."
+  },
+  "fa7b480c1884c929": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 4.º — Modelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 4.º — Modelo\n\n[formato máximo: A4 (210 mm x 297 mm)]\n\nCertificado de homologação CE\n\nCarimbo da autoridade administrativa.\n\nComunicação relativa à:\n\nHomologação (ver nota 1);\n\nExtensão da homologação (ver nota 1);\n\nRecusa da homologação (ver nota 1);\n\nRevogação da homologação (ver nota 1);\n\nde um modelo/tipo (ver nota 1) de veículo/componente/unidade técnica (ver nota 1) no que diz respeito à Directiva n.º.../.../CEE, com a última redacção que lhe foi dada pela Directiva n.º.../.../CE.\n\nNúmero de homologação: ...\n\nRazão da extensão: ..."
+  },
+  "6b82c4f739cfd9b7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção I:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I:\n\n0.1 - Marca (firma do fabricante): ...\n\n0.2 - Modelo/tipo (ver nota 1) e designação(ões) comercial(ais) geral(ais): ...\n\n0.3 - Meios de identificação do modelo/tipo (ver nota 1), se marcados no veículo/componente/unidade técnica (ver nota 1) (ver nota 2): ...\n\n0.3.1 - Localização dessa marcação: ...\n\n0.4 - Categoria do veículo (ver nota 1) (ver nota 3): ...\n\n0.5 - Nome e morada do fabricante: ...\n\n0.7 - No caso de componentes e unidades técnicas, localização e método de fixação da marca de homologação CE: ...\n\n0.8 - Morada(s) da(s) linha(s) de montagem: ..."
+  },
+  "fd4eb006df168512": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção II:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II:\n\n1 - Informações adicionais (se aplicável): (v. adenda).\n\n2 - Serviço técnico responsável pela realização dos ensaios: ...\n\n3 - Data do relatório de ensaio: ...\n\n4 - Número do relatório de ensaio: ...\n\n5 - Eventuais observações (v. adenda).\n\n6 - Local: ...\n\n7 - Data: ...\n\n8 - Assinatura: ...\n\n9 - Está anexado o índice do dossier de homologação, que está arquivado nas autoridades de homologação e pode ser obtido a pedido.\n\n(nota 1) Riscar o que não interessa.\n\n(nota 2) Se os meios de identificação do modelo/tipo contiverem caracteres não relevantes para a descrição dos modelos/tipos de veículo, componente ou unidade técnica abrangidos por este certificado de homologação, tais caracteres devem ser apresentados na documentação por meio do símbolo «?» (por exemplo, ABC??123??).\n\n(nota 3) Conforme definida na parte A do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas.\n\nAdenda ao certificado de homologação CE n.º ... relativa à homologação como componente de cintos de segurança e sistemas de retenção no que diz respeito à Directiva n.º [77/541/CEE](https://data.europa.eu/eli/dir/1977/541/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º [2000/3/CE](https://data.europa.eu/eli/dir/2000/3/oj?locale=pt).\n\n1 - Informações adicionais:\n\n1.1 - Configuração: utilizar os símbolos e as marcas prescritas nos pontos 1.3 e 1.4 do anexo III, se aplicável; indicar características adicionais como dispositivos para regulação em altura, dispositivos de pré-carregamento, etc.\n\n1.2 - Veículos aos quais o dispositivo se destina: ...\n\n1.3 - Localização nos veículos em que o dispositivo vai ser montado (ver nota 1): ...\n\n1.4 - Informações suplementares relativas a sistemas de retenção para crianças:\n\n1.4.1 Categoria(s): ...\n\n1.4.2 - Grupo(s) massa: ...\n\n1.4.3 - Sistema de retenção para crianças virado para a frente/sistema de retenção para crianças virado para a retaguarda/berço de transporte (ver nota 2);\n\n1.4.4 - Integral/não integral/parcial/almofada elevadora (ver nota 2);\n\n1.4.5 - Tipo de cinto: cinto de três pontos (para adultos)/cinto subabdominal (para adultos)/cinto de tipo especial/retractor (ver nota 2);\n\n1.4.6 - Outras características: conjunto cadeira/ escudo contra impactes (ver nota 2);\n\n5 - Observações:\n\n(nota 1) Se um cinto for homologado seguindo as disposições da alínea f) do n.º 11 do artigo 17.º do presente Regulamento, esse cinto apenas deve ser instalado num lugar sentado lateral da frente protegido por uma almofada de ar à sua frente, na condição de o veículo em causa ser homologado nos termos da Directiva n.º [96/79/CE](https://data.europa.eu/eli/dir/1996/79/oj?locale=pt), do Parlamento Europeu e do Conselho (JO, n.º L18, de 21 de Janeiro de 1997, p. 7).\n\n(nota 2) Riscar o que não interessa."
+  },
+  "c0c57671d6a7753f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 5.º — Modelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 5.º — Modelo\n\n[formato máximo: A4 (210 mm x 297 mm)]\n\nCertificado de homologação CE\n\n(veículo)\n\nCarimbo da autoridade administrativa.\n\nComunicação relativa à:\n\nHomologação (ver nota 1);\n\nExtensão da homologação (ver nota 1);\n\nRecusa da homologação (ver nota 1);\n\nRevogação da homologação (ver nota 1);\n\nde um modelo/tipo (ver nota 1) de veículo/componente/unidade técnica (ver nota 1) no que diz respeito à Directiva n.º.../.../CEE, com a última redacção que lhe foi dada pela Directiva n.º.../.../CE.\n\nNúmero de homologação: ...\n\nRazão da extensão: ..."
+  },
+  "0c9231a0258c0591": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção II:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II:\n\n1 - Informações adicionais (se aplicável): (v. adenda).\n\n2 - Serviço técnico responsável pela realização dos ensaios: ...\n\n3 - Data do relatório de ensaio: ...\n\n4 - Número do relatório de ensaio: ...\n\n5 - Eventuais observações: (v. adenda).\n\n6 - Local: ...\n\n7 - Data: ...\n\n8 - Assinatura: ...\n\n9 - Está anexado o índice do dossier de homologação, que está arquivado nas autoridades de homologação e pode ser obtido a pedido.\n\n(nota 1) Riscar o que não interessa.\n\n(nota 2) Se os meios de identificação do modelo/tipo contiverem caracteres não relevantes para a descrição dos modelos/tipos de veículo, componente ou unidade técnica abrangidos por este certificado de homologação, tais caracteres devem ser apresentados na documentação por meio do símbolo «?» (por exemplo, ABC??123??).\n\n(nota 3) Conforme definida na parte A do anexo II do Regulamento da Homologação CE de Modelo de Automóveis e Reboques, Seus Sistemas, Componentes e Unidades Técnicas.\n\nAdenda ao certificado de homologação CE n.º ... relativa à homologação de um modelo de veículo no que diz respeito à Directiva n.º [77/541/CEE](https://data.europa.eu/eli/dir/1977/541/oj?locale=pt), com a última redacção que lhe foi dada pela Directiva n.º .../.../CE.\n\n1 - Informações adicionais:\n\n1.1 - Designação dos cintos de segurança ou sistemas de retenção que podem ser instalados no veículo:\n\n1.1.1 - Marca: ...\n\n1.1.2 - Marca de homologação como componente: ...\n\n1.1.3 - Localização no veículo: ...\n\n1.2 - Fixações dos cintos de segurança: ...\n\n1.2.1 - Número de homologação: ...\n\n1.3 - Bancos: ...\n\n1.3.1 - Número de homologação, caso exista: ...\n\n5 - Observações: ..."
+  },
+  "9c5fa9230669faa7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 6.º — (figuras referentes ao capítulo II)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 6.º — (figuras referentes ao capítulo II)\n\n1 - Números distintivos do Estado membro que procedeu à homologação CE como componente:\n\n1 para a Alemanha;\n\n2 para a França;\n\n3 para a Itália;\n\n4 para os Países Baixos;\n\n5 para a Suécia;\n\n6 para a Bélgica;\n\n9 para a Espanha;\n\n11 para o Reino Unido;\n\n12 para a Áustria;\n\n13 para o Luxemburgo;\n\n17 para a Finlândia;\n\n18 para a Dinamarca;\n\n21 para Portugal;\n\n23 para a Grécia;\n\nIRL para a Irlanda.\n\n2 - Esquemas das marcas de homologação CE como componente:\n\n2.1:\n\n[[[[[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nO cinto portador da marca de homologação CE como componente acima é um cinto de três pontos (A) equipado com um absorvedor de energia (e) que foi homologado nos Países Baixos (e4) de acordo com o presente Regulamento (04) com o número de homologação de base 2439.\n\n2.2:\n\n[[[[[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nO cinto portador da marca de homologação CE como componente acima é um cinto subabdominal (B) equipado com um retractor do tipo 4 com sensibilidade múltipla que foi homologado nos Países Baixos (e4) de acordo com o presente Regulamento (04) com o número de homologação de base 2439.\n\n2.3:\n\n[[[[[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nO cinto portador da marca de homologação CE como componente acima é um cinto de tipo especial (S) equipado com um absorvedor de energia (e) e integrado num sistema de retenção (Z) que foi homologado nos Países Baixos (e4) de acordo com o presente Regulamento (04) com o número de homologação de base 2439.\n\n2.4:\n\n[[[[[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nO cinto portador da marca de homologação acima é um cinto de três pontos (A) equipado com um retractor do tipo 4N (r4N) com sensibilidade múltipla (m) que foi objecto de homologação CE como componente nos Países Baixos (e4) de acordo com o presente Regulamento (04) com o número de homologação de base 2439. Este cinto não poderá equipar veículos da categoria M1.\n\nNota. - O número de homologação de base e o(s) símbolo(s) devem figurar na proximidade do rectângulo.\n\n2.5:\n\n[[[[[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nO cinto portador da marca de homologação acima é um cinto de três pontos (A) equipado com um absorvedor de energia (e), homologado como satisfazendo os requisitos específicos da alínea f) do n.º 11 do artigo 17.º, que possui um retractor do tipo 4N (r4) com sensibilidade múltipla (m) que foi objecto de homologação CE como componente nos Países Baixos (e4) de acordo com o presente Regulamento (04) com o número de homologação de base 2439. Este cinto tem de ser instalado num veículo equipado com uma almofada de ar no lugar sentado dado."
+  },
+  "6a8eed28b2478366": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 7.º — Exemplo de aparelhagem para o ensaio de durabilidade do mecanismo retractor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 7.º — Exemplo de aparelhagem para o ensaio de durabilidade do mecanismo retractor\n\n[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)"
+  },
+  "13a51e9beae7c5e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 8.º — Exemplo de aparelhagem para o ensaio de bloqueamento dos retractores de bloqueamento de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 8.º — Exemplo de aparelhagem para o ensaio de bloqueamento dos retractores de bloqueamento de emergência\n\nA figura a seguir representa um aparelho adequado a estes ensaios. Compõe-se de um motor com came cujo rolete está ligado por fios a um carrinho montado sobre trilhos. O rolete da came compreende um dispositivo de «absorção de movimento» que absorve qualquer movimento quando a bobina se prender antes de o curso completo do rolete ter terminado. A combinação da concepção da came e da velocidade do motor será tal que permita obter a aceleração prescrita à taxa de aumento de aceleração indicada nos n.os 4 e 5 do artigo 33.º do presente Regulamento; o curso deve ser superior à deslocação máxima autorizada da precinta antes do bloqueamento.\n\nSobre o carrinho está montado um suporte que pode rodar de forma a permitir que o retractor seja montado em posições diferentes em relação à direcção de deslocação do carrinho.\n\nPara os ensaios de sensibilidade dos retractores às deslocações da precinta, o retractor será montado num suporte fixo apropriado e a precinta ligada ao carrinho.\n\nPara os ensaios acima indicados, os suportes ou outros elementos fornecidos pelo fabricante ou pelo seu mandatário devem ser incorporados na instalação de ensaio a fim de simular tão fielmente quanto possível a montagem no interior de um veículo.\n\nOs suportes ou outros elementos indispensáveis para simular a montagem no interior de um veículo devem ser fornecidos pelo fabricante.\n\n[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)"
+  },
+  "635dc9653e952745": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 9.º — Exemplo de aparelhagem para o ensaio de resistência ao pó dos retractores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 9.º — Exemplo de aparelhagem para o ensaio de resistência ao pó dos retractores\n\n[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)"
+  },
+  "0cc7b96ab05efdea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 10.º — Descrição do carrinho, do banco, das fixações e do dispositivo de paragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 10.º — Descrição do carrinho, do banco, das fixações e do dispositivo de paragem\n\n1 - Carrinho. - Tratando-se de ensaios de cintos de segurança, a massa do carrinho que tenha apenas o banco será de 400 kg (mais ou menos) 20 kg. Tratando-se de ensaios de sistemas de retenção, a massa do carrinho, com a estrutura do veículo ligada, será de 800 kg. Todavia, se necessário, a massa total do carrinho e da estrutura do veículo poderá ser aumentada por incrementos de 200 kg. Em nenhum caso a massa total deve diferir do valor nominal mais de (mais ou menos) 40 kg.\n\n2 - Banco. - Excepto nos ensaios de sistemas de retenção, o banco deve ser rígido e possuir uma superfície lisa. As indicações da figura n.º 1 devem ser respeitadas, assegurando-se que nenhuma parte metálica possa estar em contacto com o cinto.\n\n3 - Fixações. - As fixações estarão dispostas conforme as indicações da figura n.º 1. Os pontos correspondentes à disposição das fixações indicam a posição de ligação das extremidades do cinto ao carrinho ou, se for caso disso, aos dispositivos de medição dos esforços. As fixações normalmente utilizadas serão os pontos A, B e K quando o comprimento da precinta entre o bordo superior da fivela de fecho e o furo de fixação do suporte da precinta for inferior ou igual 250 mm. Caso contrário, devem ser utilizados os pontos A(índice 1) e B(índice 1). A estrutura que suporta as fixações será rígida. A fixação de cima não se deve deslocar mais de 0,2 mm na direcção longitudinal quando lhe for aplicada uma carga de 98 daN nessa direcção. O carrinho deve ser construído de modo que não produza nenhuma deformação permanente nas partes que suportam as fixações durante o ensaio.\n\nA tolerância da posição dos pontos de fixação é tal que cada ponto de fixação deve estar situado no máximo a 50 mm dos pontos correspondentes A, B e K indicados na figura n.º 1, ou A(índice 1), B(índice 1) e K, conforme o caso.\n\nQuando for necessária uma quarta fixação para a ligação de um retractor, tal fixação deverá:\n\nEstar situada num plano vertical longitudinal que passe por K;\n\nPermitir a inclinação do retractor ao ângulo prescrito pelo fabricante;\n\nEstar situada sobre um arco de círculo com centro em K e raio KB(índice 1) = 790 mm quando o comprimento da precinta entre a guia do montante e a saída do retractor for superior ou igual a 540 mm e, caso contrário, estar situada sobre um arco de círculo de centro K e raio de 350 mm.\n\n3.1 - Caso um cinto esteja equipado com um dispositivo de regulação do cinto em altura, definido no n.º 18 do artigo 2.º do presente Regulamento, o dispositivo deve ser fixado a uma estrutura rígida ou a uma parte do veículo em que esteja normalmente montado, a qual será fixada com solidez ao carrinho de ensaio.\n\n4 - Dispositivo de paragem. - Este dispositivo compõem-se de dois absorvedores idênticos montados em paralelo, excepto no caso de sistemas de retenção, em que serão utilizados quatro absorvedores para a massa nominal de 800 kg. Se necessário, será utilizado um absorvedor suplementar para cada aumento de 200 kg da massa nominal.\n\nCada absorvedor é constituído por:\n\nUma cobertura formada por um tubo de aço;\n\nUm tubo absorvedor de energia em poliuretano;\n\nUma saliência em aço polido com a forma de azeitona que penetra no absorvedor;\n\nUma haste e uma placa de choque.\n\nAs dimensões das diferentes partes deste absorvedor de energia estão indicadas nas figuras n.os 2, 3 e 4. As características do material absorvente de energia estão especificadas abaixo. Imediatamente antes de cada ensaio, os tubos devem ser condicionados durante pelo menos doze horas a uma temperatura compreendida entre 15ºC e 25ºC, sem serem utilizados. No decorrer do ensaio dinâmico dos cintos ou sistemas de retenção, o dispositivo de paragem deve estar à mesma temperatura que no decurso do ensaio de calibragem, com uma tolerância de (mais ou menos) 2ºC.\n\nAs exigências às quais o dispositivo de paragem deve corresponder estão indicadas no anexo 12.º ao presente Regulamento. Será admitido qualquer outro dispositivo que dê resultados equivalentes.\n\nCaracterísticas do material absorvedor de energia\n\n(método ASTM D 735, salvo indicação em contrário)\n\nDureza shore A: 95 (mais ou menos) 2 a 20ºC (mais ou menos) 5ºC.\n\nResistência à ruptura: R(índice o) >= 343 daN/cm2.\n\nAlongamento mínimo: A(índice o) >= 4001%.\n\nMódulo:\n\nA 100% de alongamento: >= 108 daN/cm2;\n\nA 300% de alongamento: >= 235 daN/cm2.\n\nFragilidade a frio (método ASTM D 736): cinco horas a - 55ºC.\n\nCompressão set (método B): vinte e duas horas a 70ºC =<45%.\n\nDensidade a 25ºC: 1,05 a 1,10.\n\nEnvelhecimento ao ar (método ASTM D 573) - setenta horas a 100ºC:\n\nDureza shore A: variação máxima de (mais ou menos) 3;\n\nResistência à ruptura: diminuição <10% de R(índice o);\n\nAlongamento: diminuição <10% de A(índice o);\n\nMassa: diminuição <1%.\n\nImersão em óleo (método ASTM n.º 1, oil) - setenta horas a 100ºC:\n\nDureza shore A: variação máxima de (mais ou menos) 4;\n\nResistência à ruptura: diminuição <15% de R(índice o);\n\nAlongamento: diminuição <10% de A(índice o);\n\nVolume: dilatação <5%.\n\nImersão em óleo (método ASTM n.º 3, oil) - setenta horas a 100ºC:\n\nResistência à ruptura: diminuição <15% de R(índice o);\n\nAlongamento: diminuição <15% de A(índice o);\n\nVolume: dilatação <20%.\n\nImersão em água destilada - uma semana a 70ºC:\n\nResistência à ruptura: diminuição <35% de R(índice o);\n\nAlongamento: aumento <20% de A(índice o).\n\nFigura n.º 1\n\nCarrinho, banco e fixação\n\n[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nFigura n.º 2\n\nDispositivo de paragem\n\n[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nFigura n.º 3\n\nDispositivo de paragem\n\n(tubo de poliuretano)\n\n[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nFigura n.º 4\n\nDispositivo de paragem\n\n(saliência em forma de azeitona)\n\n[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)"
+  },
+  "56a265ff92868b82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 11.º — Descrição do manequim",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 11.º — Descrição do manequim\n\n1 - Especificações do manequim:\n\n1.1 - Generalidades. - As principais características do manequim são indicadas nas figuras e nos quadros seguintes:\n\nFigura n.º 1 - vista de lado da cabeça, do pescoço e do tronco;\n\nFigura n.º 2 - vista de frente da cabeça, do pescoço e do tronco;\n\nFigura n.º 3 - vista de lado da anca, da coxa e da perna;\n\nFigura n.º 4 - vista de frente da anca, da coxa e da perna;\n\nFigura n.º 5 - dimensões principais;\n\nFigura n.º 6 - manequim em posição sentada, mostrando:\n\nA posição do centro de gravidade;\n\nA localização dos pontos nos quais é medida a deslocação;\n\nA altura do ombro;\n\nQuadro n.º 1 - massa da cabeça, do pescoço, do tronco, da coxa e da perna;\n\nQuadro n.º 2 - códigos, nomes, materiais e principais dimensões dos elementos do manequim.\n\n1.2 - Descrição do manequim:\n\n1.2.1 - Estrutura da perna (v. as figuras n.os 3 e 4). - A estrutura da perna é composta por três elementos:\n\nPlaca da planta do pé (30);\n\nTubo da perna propriamente dita (29);\n\nTubo do joelho (26).\n\nO tubo do joelho tem duas arestas que limitam o movimento da perna em relação à coxa.\n\nA partir da posição direita, a perna pode rodar para trás cerca de 120.º\n\n1.2.2 - Estrutura da coxa (v. as figuras n.os 3 e 4). - A estrutura da coxa é composta por três elementos:\n\nTubo do joelho (22);\n\nBarra da coxa (21);\n\nTubo da anca (20).\n\nPara limitar os movimentos do joelho, o tubo do joelho (22) tem duas ranhuras que engrenam nas ilhoses da perna.\n\n1.2.3 - Estrutura do tronco (v. as figuras n.os 1 e 2). - A estrutura do tronco compreende os seguintes elementos:\n\nTubo da anca (2);\n\nCorrente de roletes (4);\n\nCostelas (6) e (7);\n\nEsterno (8);\n\nFixação da corrente (3 e, em parte, 7 e 8).\n\n1.2.4 - Pescoço (v. as figuras n.os 1 e 2). - O pescoço é formado por sete discos em poliuretano (9). O grau de rigidez pode ser modificado com a ajuda do dispositivo de regulação da corrente.\n\n1.2.5 - Cabeça (v. as figuras n.os 1 e 2). - A cabeça (15) é oca; o poliuretano foi reforçado por tiras de aço (17). O dispositivo de regulação da corrente que permite regular o pescoço consiste num bloco de poliamida (10), um tubo de afastamento (11) e um esticador (12 e 13). A cabeça pode rodar na articulação da primeira e da segunda vértebras cervicais (articulação atlas-áxis), que compreende o elemento esticador (14 e 18), o tubo de afastamento (16) e o bloco de poliamida (10).\n\n1.2.6 - Ligação da articulação do joelho (v. a figura n.º 4). - A perna e a coxa estão ligadas pelo tubo (27) e pelo elemento esticador (28).\n\n1.2.7 - Ligação da articulação da anca (v. a figura n.º 4). - As coxas e o tronco estão ligadas pelo tubo (23), pelas placas de atrito (24) e pelo elemento esticador (25).\n\n1.2.8 - Poliuretano:\n\nTipo: PU 123 CH compound;\n\nDureza: 50 a 60 shore A.\n\n1.2.9 - Revestimentos. - O manequim tem revestimentos especiais.\n\n2 - Correcção da massa. - A fim de calibrar o manequim à sua massa total, em função de certos valores, a repartição desta massa deve ser regulada pelo emprego de seis massas correctoras de 1 kg cada uma, que possam ser montadas na articulação da anca. Seis outras massas em poliuretano, de 1 kg cada uma, podem ser montadas nas costas do tronco.\n\n3 - Almofada. - Uma almofada especial será colocada entre o tronco do manequim e o revestimento. Esta almofada deve ser feita de espuma de poliuretano obedecendo às seguintes prescrições:\n\nDureza: 7 a 10 shore A;\n\nEspessura: 25 mm (mais ou menos) 5 mm.\n\nDeve poder ser substituída.\n\n4 - Regulação das articulações:\n\n4.1 - Generalidades. - A fim de obter resultados reprodutíveis, é necessário especificar e controlar os atritos entre as diversas articulações.\n\n4.2 - Articulações do joelho. - Regular a articulação do joelho; dispor a coxa e perna verticalmente; rodar a perna 30º; afrouxar muito lentamente a porca do elemento esticador até ao momento em que a perna caia sob a acção do seu próprio peso; a porca deve ser fixada nesta posição.\n\n4.3 - Articulações da anca. - regular as articulações da anca aumentando a sua rigidez; colocar as coxas em posição horizontal e o tronco em posição vertical; rodar o tronco para a frente até que o ângulo formado com as coxas seja de 60º; afrouxar muito lentamente o elemento esticador até ao momento em que o tronco caia para a frente sob a acção do seu próprio peso; fixar a porca nesta posição.\n\n4.4 - Articulação atlas-áxis. - Esta articulação deve ser regulada de modo que, em caso de solicitação para a frente ou para trás, resista apenas ao seu próprio peso.\n\n4.5 - Pescoço. - O pescoço deve ser regulado com o auxílio do dispositivo de regulação da corrente (13); quando o pescoço estiver regulado, a extremidade superior do elemento esticador deslocar-se-á de 40 mm a 60 mm quando for sujeita a uma carga de 10 daN, aplicada horizontalmente.\n\nQUADRO N.º 1\n\n[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nQUADRO N.º 2\n\n[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nFigura n.º 1\n\n[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nFigura n.º 2\n\n[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nFiguras n.os 3 e 4\n\n[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nFiguras n.os 5 e 6\n\n[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)"
+  },
+  "cfcd4c25735d2ba2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 12.º — Descrição da curva de desaceleração do carrinho em função do tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 12.º — Descrição da curva de desaceleração do carrinho em função do tempo\n\n(curva para a verificação dos dispositivos de paragem)\n\n[(ver gráficos no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nA curva de desaceleração do carrinho lastrado com massas inertes para obter uma massa total de 455 kg (mais ou menos) 20 kg, se se tratar de ensaios de cintos de segurança e de 910 kg (mais ou menos) 40 kg, se se tratar de ensaios de sistemas de retenção, quando a massa nominal do carrinho e da estrutura do veículo for de 800 kg, deve inscrever-se na zona tracejada indicada na figura. Se necessário, a massa nominal do carrinho e da estrutura do veículo a ele ligada pode ser aumentada por incrementos de 200 kg, caso em que será adicionada uma massa inerte suplementar de 28 kg por incremento. Em caso algum deve a massa total do carrinho, estrutura do veículo e massas inertes afastar-se do valor nominal para os ensaios de calibragem em mais de (mais ou menos)40 kg. A distância de paragem no decurso da calibragem do carrinho deve ser de 400 mm (mais ou menos) 20 mm e a velocidade do carrinho de 50 km/h (mais ou menos) 1 km/h.\n\nNos dois casos indicados, o material de medição terá uma resposta aproximadamente linear até 60 Hz com corte a 100 Hz. As ressonâncias mecânicas devidas à montagem do transdutor não devem provocar distorções suplementares. É preciso ter em conta o efeito do comprimento do cabo e da temperatura sobre a resposta em frequência (ver nota *).\n\n(nota *) Estes requisitos correspondem à recomendação ISO R 6478/1980."
+  },
+  "a567d7fa9f1177de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 13.º — Instruções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 13.º — Instruções\n\nCada cinto de segurança deve ser acompanhado de instruções respeitantes aos pontos seguidamente indicados, redigidas na língua ou línguas do Estado membro em que se prevê seja comercializado:\n\n1 - Instruções respeitantes à instalação (não necessárias se o fabricante entregar o veículo equipado com cintos de segurança) que indiquem os modelos de veículo aos quais o conjunto convém e o método correcto de fixação do conjunto ao veículo e incluam uma advertência contra a deterioração das precintas.\n\n2 - Instruções respeitantes à utilização (podem figurar no manual de instruções se o fabricante entregar o veículo equipado com cintos de segurança) que forneçam as indicações necessárias para garantir que o utente tire o máximo proveito do cinto de segurança. Nestas condições, convém assinalar:\n\na) A importância do uso do cinto qualquer que seja o trajecto;\n\nb) A maneira correcta de usar o cinto, nomeadamente:\n\nO local previsto para a fivela de fecho;\n\nA necessidade de usar o cinto apertado;\n\nA posição correcta das precintas e a necessidade de evitar torcê-las;\n\nO facto de cada cinto de segurança dever ser utilizado por uma única pessoa e que não se deve colocar um cinto à volta de uma criança sentada nos joelhos de um passageiro;\n\nc) O modo de abrir e de fechar a fivela de fecho;\n\nd) O modo de regulação do cinto;\n\ne) O modo de utilização dos retractores que tenham sido incorporados no conjunto e o método que permite verificar se estão bloqueados;\n\nf) Os métodos recomendados para a limpeza do cinto e a sua montagem depois da limpeza, em caso de necessidade;\n\ng) A necessidade de substituir o cinto de segurança quando tiver sido utilizado num acidente grave ou quando tiver sinais de desfiamento importante ou de corte ou, no caso de um cinto equipado com um dispositivo de pré-carregamento, quando este tiver sido activado;\n\nh) O facto de o cinto não dever de modo algum ser transformado ou modificado, podendo tais alterações torná-lo ineficaz nomeadamente se a construção permitir a separação das partes que o compõem, devem ser fornecidas instruções para uma reconstituição correcta;\n\ni) O facto de o cinto ter sido concebido para ser usado por ocupantes que tenham a estatura de um adulto;\n\nj) O modo de retracção do cinto quando não estiver a ser utilizado.\n\n3 - As instruções de instalação dos cintos de segurança que incluam um retractor do tipo 4N e, no caso de existir, a embalagem desses cintos devem indicar que não são apropriados para instalação nos veículos a motor destinados ao transporte de pessoas que tenham nove lugares sentados no máximo, incluindo o condutor.\n\n4 - O fabricante do veículo deve incluir no manual do veículo informações sobre a adequabilidade de cada lugar sentado para passageiros no que respeita ao transporte de crianças até 12 anos (ou com 1,5 m de altura) ou à instalação de sistemas de retenção para crianças. Essas informações devem ser fornecidas na língua nacional ou em pelo menos uma das línguas nacionais do país no qual o veículo seja colocado à venda.\n\n4.1 - O fabricante deve, no que respeita a cada lugar sentado para passageiros virado para a frente:\n\n4.1.1 - Indicar que o lugar sentado é adequado para sistemas de retenção para crianças da categoria universal;\n\n4.1.2 - Fornecer uma lista dos sistemas de retenção das categorias «universal» ou «semiuniversal», restrita ou específica de um determinado veículo, adequadas para o lugar sentado do veículo em questão, com indicação da faixa etária à qual os sistemas de retenção se destinam;\n\n4.1.3 - Fornecer um sistema de retenção para crianças incorporado com a indicação da ou das faixas etárias às quais o sistema de retenção se destina em cada configuração, se for caso disso; ou\n\n4.1.4 - Qualquer combinação dos pontos 4.1.1., 4.1.2 e 4.1.3 do presente anexo.\n\n4.1.5 - Se uma determinada faixa etária não for abrangida pelos pontos 4.1.1 a 4.1.4 no que respeita a um determinado lugar sentado, o fabricante deve indicar que as crianças dessa faixa etária não devem ser transportadas nesse lugar sentado.\n\n4.1.6 - No anexo 13.º-A do presente Regulamento figura um exemplo da forma como tal informação deve ser apresentada."
+  },
+  "12e21a9d8c6baa9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 13.º-A — [[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 13.º-A — [[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)"
+  },
+  "c0f19cf8c20c380f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 14.º — Ensaio da fivela comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 14.º — Ensaio da fivela comum\n\n(referida no n.º 11 do artigo 31.º)\n\n[[[[[[(ver esquema no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)"
+  },
+  "6450f75eff973e89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 15.º — Ensaios de abrasão e de microdeslizamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 15.º — Ensaios de abrasão e de microdeslizamento\n\n[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)"
+  },
+  "57549e2feebf49e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 16.º — Sequência dos ensaios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 16.º — Sequência dos ensaios\n\n[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)"
+  },
+  "e4a3dd27d581124d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 17.º — Quadro que indica os requisitos mínimos relativos aos cintos de segurança e retractores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 17.º — Quadro que indica os requisitos mínimos relativos aos cintos de segurança e retractores\n\n[[[[[[[[[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)"
+  },
+  "224901373bfcafd3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 18.º — Controlo da conformidade da produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 18.º — Controlo da conformidade da produção\n\n1 - Ensaios. - Exige-se que os cintos de segurança demonstrem cumprir os requisitos em que se baseiam os seguintes ensaios:\n\n1.1 - Verificação do limiar de bloqueamento e durabilidade dos retractores de bloqueamento de emergência. - Em conformidade com as disposições do artigo 33.º, no sentido mais desfavorável, conforme adequado, após ter passado os ensaios de durabilidade especificados nos artigos 20.º, 32.º e 34.º, tal como exigido nos n.os 15 e 16 do artigo 12.º do presente Regulamento;\n\n1.2 - Verificação da durabilidade dos retractores de bloqueamento automático. - Em conformidade com as disposições do artigo 32.º, complementadas pelos ensaios referidos nos artigos 20.º e 34.º, tal como exigido nos n.os 7, 8 e 9 do artigo 11.º do presente Regulamento;\n\n1.3 - Ensaio de resistência das precintas após condicionamento. - Em conformidade com o procedimento descrito no artigo 30.º, após condicionamento de acordo com os requisitos constantes dos artigos 22.º a 26.º do presente Regulamento.\n\n1.3.1 - Ensaio de resistência das precintas após abrasão. - Em conformidade com o procedimento descrito no artigo 30.º, após condicionamento de acordo com os requisitos constantes dos artigos 27.º e 28.º do presente Regulamento;\n\n1.4 - Ensaio de microdeslizamento. - Em conformidade com o procedimento descrito no artigo 29.º do presente Regulamento;\n\n1.5 - Ensaio das partes rígidas. - Em conformidade com o procedimento descrito no artigo 31.º do presente Regulamento;\n\n1.6 - Verificação dos requisitos de comportamento do cinto de segurança ou do sistema de retenção quando sujeito ao ensaio dinâmico:\n\n1.6.1 - Ensaios com condicionamento:\n\n1.6.1.1 - Cintos ou sistemas de retenção equipados com um retractor de bloqueamento de emergência. - Em conformidade com as disposições constantes dos artigos 36.º a 39.º, utilizando um cinto que tenha sido anteriormente submetido a 45000 ciclos do ensaio de resistência do retractor prescrito no artigo 32.º e aos ensaios indicados no n.º 9 do artigo 7.º, no artigo 20.º e no artigo 34.º do presente Regulamento;\n\n1.6.1.2 - Cintos ou sistemas de retenção equipados com um retractor de bloqueamento automático. - Em conformidade com as disposições constantes dos artigos 36.º e 37.º, utilizando um cinto que tenha sido anteriormente submetido a 10000 ciclos do ensaio de resistência do retractor prescrito no artigo 32.º e aos ensaios indicados no n.º 9 do artigo 7.º, no artigo 20.º e no artigo 34.º do presente Regulamento;\n\n1.6.1.3 - Cintos estáticos. - Em conformidade com as disposições constantes dos artigos 36.º e 37.º, num cinto de segurança que tenha sido anteriormente submetido ao ensaio indicado no n.º 9 do artigo 7.º e no artigo 20.º do presente Regulamento;\n\n1.6.2 - Ensaio sem qualquer condicionamento. - Em conformidade com as disposições constantes dos artigos 36.º e 37.º do presente Regulamento.\n\n2 - Frequência dos ensaios e resultados:\n\n2.1 - A frequência dos ensaios relativos aos requisitos dos n.os 1.1 a 1.5 do presente anexo será estabelecida numa base controlada estatisticamente e aleatória em conformidade com um dos procedimentos regulares de garantia de qualidade;\n\n2.1.1 - Além disso, no caso de retractores de bloqueamento de emergência, serão verificados todos os conjuntos:\n\n2.1.1.1 - Quer em conformidade com as disposições constantes do artigo 33.º, no sentido mais desfavorável. Os resultados do ensaio devem satisfazer os requisitos constantes dos n.os 3, 9 e 10 do artigo 12.º do presente Regulamento;\n\n2.1.1.2 - Quer em conformidade com as disposições constantes dos n.os 6 e 7 do artigo 33.º, no sentido mais desfavorável. No entanto, a velocidade de inclinação pode ser superior à velocidade prescrita, desde que isso não afecte os resultados do ensaio. Os resultados do ensaio devem satisfazer os requisitos referidos no n.º 6\n\ndo artigo 12.º do presente Regulamento.\n\n2.2.1 - Ensaios com condicionamento:\n\n2.2.1.1 - No caso de cintos equipados com um retractor de bloqueamento de emergência, serão submetidos ao ensaio prescrito no ponto 1.6.1.1 do presente anexo, por cada espécie de mecanismo de bloqueamento (ver nota 1):\n\nUm em cada 100000 cintos produzidos, com uma frequência mínima de um cinto em cada duas semanas, se a produção diária for superior a 1000 cintos;\n\nUm em cada 10000 cintos produzidos, com uma frequência mínima de um cinto em cada ano, se a produção diária for inferior ou igual a 1000 cintos.\n\n2.2.1.2 - No caso de cintos equipados com um retractor de bloqueamento automático e de cintos estáticos, serão submetidos aos ensaios prescritos, respectivamente, nos pontos 1.6.1.2 ou 1.6.1.3 do presente anexo:\n\nUm em cada 100000 cintos produzidos, com uma frequência mínima de um cinto em cada duas semanas, se a produção diária for superior a 1000 cintos;\n\nUm em cada 10000 cintos produzidos, com uma frequência mínima de um cinto em cada ano, se a produção diária for inferior ou igual a 1000 cintos.\n\n2.2.2 - Ensaios sem condicionamento:\n\n2.2.2.1 - No caso de cintos equipados com um retractor de bloqueamento de emergência, será submetido ao ensaio prescrito no ponto 1.6.2 do presente anexo o seguinte número de amostras:\n\n2.2.2.1.1 - Numa produção não inferior a 5000 cintos por dia, dois por cada 25000 cintos produzidos, com uma frequência mínima de um por dia, por espécie de mecanismo de bloqueamento;\n\n2.2.2.1.2 - Numa produção inferior a 5000 cintos por dia, um por cada 5000 cintos produzidos, com uma frequência mínima de um por ano, por espécie de mecanismo de bloqueamento.\n\n2.2.2.2 - No caso de cintos equipados com um retractor de bloqueamento automático e de cintos estáticos, será submetido ao ensaio prescrito no ponto 1.6.2 do presente anexo o seguinte número de amostras:\n\n2.2.2.2.1 - Numa produção não inferior a 5000 cintos por dia, dois por cada 25000 cintos produzidos, com uma frequência mínima de um por dia, por tipo homologado;\n\n2.2.2.2.2 - Numa produção inferior a 5000 cintos por dia, um por cada 5000 cintos produzidos, com uma frequência mínima de um por ano, por tipo homologado.\n\n2.2.3 - Resultados. - Os resultados dos ensaios devem satisfazer os requisitos constantes da alínea a) do n.º 11 do artigo 17.º do presente Regulamento.\n\nA deslocação do manequim para a frente pode ser controlada, no que respeita às alíneas b), c), d) e e) do n.º 11 do artigo 17.º (ou n.os 12 a 14 do mesmo artigo, quando aplicável), durante um ensaio realizado com condicionamento, em conformidade com o n.º 1.6.1 do presente anexo, por meio de um método adaptado simplificado.\n\n2.2.3.1 - No caso de homologação seguindo a alínea f) do n.º 11 do artigo 17.º e o ponto 1.6.1 do presente anexo, apenas se especifica que nenhuma parte do cinto seja destruída ou libertada e que a velocidade de 24 km/h do ponto de referência do tórax a uma deslocação de 300 mm não seja excedida.\n\n2.3 - Se uma amostra de ensaio não satisfizer o ensaio específico a que tenha sido submetida, será realizado um outro ensaio relativo aos mesmos requisitos em, pelo menos, três outras amostras. No caso de ensaios dinâmicos, se uma dessas amostras não satisfizer o ensaio, o detentor da homologação notificará a autoridade competente que concedeu a homologação, indicando quais as medidas tomadas para restabelecer a conformidade da produção.\n\n(nota 1) Para efeitos do disposto no presente anexo, entende-se por «espécie de mecanismo de bloqueamento» o conjunto de todos os retractores de bloqueamento de emergência cujos mecanismos diferem apenas no(s) ângulo(s) de avanço do dispositivo sensor relativamente ao sistema de eixos de referência do veículo."
+  },
+  "68570ff2c417817f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 19.º — Requisitos aplicáveis aos sistemas de retenção para crianças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 19.º — Requisitos aplicáveis aos sistemas de retenção para crianças\n\nOs requisitos aplicáveis para efeitos da homologação de sistemas de retenção para crianças figuram nos pontos 2, 6, 7, 8, 9 e 14 do Regulamento n.º 44 da Comissão Económica para a Europa das Nações Unidas (ver nota 1), juntamente com os anexos pontos 3 a 22, até à terceira série de alterações, inclusive.\n\nAs referências nos pontos 6 a 8 acima referidos aos Regulamentos n.os 14, 16 e 21 devem ser entendidas como referências à Directiva n.º [76/115/CEE](https://data.europa.eu/eli/dir/1976/115/oj?locale=pt) à presente Directiva e à Directiva n.º [74/60/CEE](https://data.europa.eu/eli/dir/1974/60/oj?locale=pt).)\n\n(nota 1) Reproduzido e publicado no Jornal Oficial."
+  },
+  "77af5d72d7eff37e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 20.º — Requisitos relativos à instalação de sistemas de retenção para crianças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 20.º — Requisitos relativos à instalação de sistemas de retenção para crianças\n\nOs requisitos aplicáveis para efeitos de instalação de sistemas de retenção para crianças figuram no anexo 13 da Resolução Consolidada R. E. 3 da Comissão Económica para a Europa das Nações Unidas, ponto 5.2 e apêndice 2, reproduzido no anexo 20.º-A ao presente Regulamento."
+  },
+  "6459748c851cf45e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 20.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 20.º-A\n\nO texto a seguir reproduzido refere-se ao anexo 13 (ponto 5.2 e apêndice 2) da Resolução Consolidada R. E. 3 da Comissão Económica para a Europa das Nações Unidas (documento TRANS/WP.29/78/REV.I de 11 de Agosto de 1997):"
+  },
+  "68a2c45bb3eb7dc2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO 13",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO 13\n\nRecomendação relativa aos requisitos de instalação de cintos de segurança e sistemas de retenção para ocupantes adultos de veículos a motor nos bancos virados para a frente e para a retaguarda.\n\n5.2 - Por dispositivo de retenção para crianças da categoria «universal» entende-se um dispositivo de retenção para crianças homologado no âmbito da categoria universal do Regulamento n.º 44 da CEE/NU, série 03 de alterações. Os lugares sentados indicados pelo construtor do veículo como adequados à instalação de dispositivos de retenção para crianças da categoria universal devem ser conformes com o dispositivo no apêndice n.º 2 do presente anexo.\n\nAPÊNDICE N.º 2\n\nDisposições relativas à instalação de sistemas de retenção para crianças da categoria «universal» instalados com o equipamento dos cintos de segurança do veículo.\n\n1 - Generalidades:\n\n1.1 - O processo de ensaio e os requisitos indicados no presente apêndice serão utilizados para determinar a adequação dos lugares sentados à instalação de dispositivos de retenção para crianças da categoria «universal».\n\n1.2 - Os ensaios podem ser realizados no veículo ou numa parte representativa do veículo.\n\n2 - Processo de ensaio:\n\n2.1 - Ajustar o lugar na sua posição mais recuada e mais baixa.\n\n2.2 - Ajustar o ângulo das costas do banco à posição prevista no projecto do construtor. Na ausência de especificações, deve utilizar-se um ângulo de 25º a partir da vertical ou a posição fixa das costas do banco mais próxima.\n\n2.3 - Colocar a fixação do ombro na posição mais baixa.\n\n2.4 - Colocar uma peça de algodão nas costas e na almofada do banco.\n\n2.5 - Colocar o dispositivo (tal como descrito na figura n.º 1 do presente apêndice) no banco do veículo.\n\n2.6 - Caso o lugar sentado se destine a receber um sistema de retenção universal virado para a frente ou para a retaguarda, proceder de acordo com o descrito nos pontos 2.6.1, 2.7, 2.8, 2.9 e 2.10. Caso o lugar sentado se destine a receber apenas um sistema de retenção universal virado para a frente, proceder de acordo com o descrito nos pontos 2.6.2, 2.7, 2.8, 2.9 e 2.10.\n\n2.6.1 - Colocar a precinta do cinto de segurança em volta do dispositivo aproximadamente na posição correcta, como se mostra nas figuras n.os 2 e 3; em seguida, apertar a fivela.\n\n2.6.2 - Colocar a precinta subabdominal do cinto de segurança aproximadamente na posição correcta, em volta da parte inferior do dispositivo com raio de 150 mm, como se mostra na figura 3; em seguida, apertar a fivela.\n\n2.7 - Confirmar que o dispositivo tem o seu eixo alinhado com o eixo aparente do lugar sentado (tolerância: (mais ou menos) 25 mm), sendo este eixo paralelo ao eixo do veículo;\n\n2.8 - Confirmar que não existe folga na precinta. Usar força suficiente para eliminar a folga, sem exercer tensão na precinta.\n\n2.9 - Exercer, no ponto central da parte da frente do dispositivo, uma força de 100 N (mais ou menos) 10 N dirigida para a retaguarda paralelamente à superfície inferior, em seguida, suprimir a força.\n\n2.10 - Exercer no ponto central da superfície superior do dispositivo, uma força vertical de 100 N (mais ou menos) 10 N dirigida para baixo, em seguida, suprimir a força.\n\n3 - Requisitos:\n\n3.1 - A base do dispositivo deve estar em contacto com a parte da frente e de trás da superfície da almofada do banco. Caso não se verifique este contacto devido ao entalhe de fixação do cinto no dispositivo de ensaio, este entalhe pode ser coberto de forma a prolongar a superfície inferior do dispositivo de ensaio.\n\n3.2 - A superfície interna da precinta subabdominal deve estar em contacto com o dispositivo em ambas as extremidades deste (v. figura n.º 3).\n\n3.3 - Caso os requisitos acima não sejam cumpridos com os ajustamentos indicados nos pontos 2.1, 2.2 e 2.3, o banco, as costas do banco e os pontos de fixação do cinto de segurança podem ser ajustados numa posição alternativa prevista pelo fabricante para utilização normal, na qual deve ser repetido o processo de instalação atrás descrito e verificado novamente o cumprimento dos requisitos.\n\nFigura n.º 1\n\nEspecificação do dispositivo\n\n[[[[[[(ver figuras no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nFigura n.º 2\n\nInstalação do dispositivo no banco do veículo\n\n(v. o ponto 2.6.1)\n\n[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)\n\nFigura n.º 3\n\nVerificação da compatibilidade\n\n(v. os pontos 2.6.1 e 3.2)\n\n[[[[[[[[[[[[(ver figura no documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf)"
+  },
+  "9ec996fc98d0c5e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Equipamento dos veículos",
+   "in_force_from": "2006-09-26",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 190/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2006-541581), publicado em 2006-09-25."
+   ],
+   "markdown": "###### Artigo 42.º — Equipamento dos veículos\n\n1 - Com excepção dos lugares sentados destinados à utilização apenas com o veículo parado, os bancos dos veículos pertencentes às categorias M1, M2 (das classes III ou B), M3 (das classes III ou B) e N devem ser equipados com cintos de segurança ou sistemas de retenção que cumpram os requisitos do presente Regulamento, podendo os veículos das classes I e II ou os veículos A pertencentes às categorias M2 ou M3 ser equipados com cintos de segurança ou sistemas de retenção desde que cumpram os referidos requisitos.\n\n2 - Os tipos de cintos de segurança ou sistemas de retenção para cada lugar sentado em que seja exigida a sua instalação devem ser os especificados no anexo 17.º, com os quais não podem ser utilizados retractores sem bloqueamento ou retractores de desbloqueamento manual.\n\n3 - Para todos os lugares sentados em que sejam especificados cintos subabdominais do tipo B no anexo referido no número anterior são admitidos cintos subabdominais do tipo Br3, excepto no caso de, em utilização, se retraírem de tal modo que o conforto, após o fecho normal, se reduza de modo significativo.\n\n4 - No caso de o veículo estar equipado com um sistema de retenção para crianças integrado, deve satisfazer os requisitos pertinentes do anexo 19.º ao presente Regulamento.\n\n5 - No caso de não serem exigidos cintos de segurança, pode ser fornecido, à escolha do fabricante, qualquer tipo de cinto de segurança ou de sistema de retenção, em conformidade com o presente Regulamento.\n\n6 - Em alternativa aos cintos subabdominais para os lugares sentados, em que estes sejam especificados no anexo 17.º, podem ser fornecidos cintos do tipo A dos tipos admitidos no mesmo anexo.\n\n7 - Nos cintos de três pontos munidos de retractores, pelo menos um retractor deve actuar sobre a precinta diagonal.\n\n8 - Com excepção dos veículos da categoria M, pode ser admitido um retractor de bloqueamento de emergência do tipo 4N, em vez de um retractor do tipo 4, se se tiver demonstrado aos serviços responsáveis pelos ensaios que a montagem de um retractor do tipo 4 não seria a prática.\n\n9 - Para os lugares lateral da frente e central da frente indicados no anexo 17.º e marcados com o símbolo (zeta), os cintos subabdominais do tipo especificado no referido anexo são considerados adequados se o pára-brisas estiver localizado fora da zona de referência definida no anexo II da Directiva n.º [74/60/CEE](https://data.europa.eu/eli/dir/1974/60/oj?locale=pt).\n\n10 - No que respeita a cintos de segurança, o pára-brisas é considerado parte da zona de referência se puder entrar em contacto estático com o aparelho de ensaio, de acordo com o método descrito no anexo II da directiva referida no número anterior.\n\n11 - Para todos os lugares sentados indicados no anexo 17.º marcados com o símbolo # devem ser instalados cintos subabdominais dos tipos especificados no referido anexo, se existir um «lugar exposto», conforme definido no número seguinte.\n\n12 - Um «lugar exposto» é um lugar em que não há nenhuma «zona de protecção» em frente do banco dentro do seguinte espaço definido:\n\na) Entre dois planos horizontais, um dos quais passa pelo ponto H e o outro está situado 400 mm acima do precedente;\n\nb) Entre dois planos longitudinais verticais, simétricos em relação ao ponto H e distanciado entre si 400 mm;\n\nc) Atrás de um plano transversal vertical, distando 1,3 m do ponto H.\n\n13 - Para efeitos do requisito referido no número anterior, entende-se por «zona de protecção» uma superfície de resistência adequada e sem descontinuidades tal que, se se projectar geometricamente uma esfera de 165 mm de diâmetro, segundo uma direcção longitudinal horizontal que passe por um ponto qualquer do espaço definido no número anterior e pelo centro da esfera, não exista na zona de protecção nenhuma abertura pela qual se possa fazer passar a projecção geométrica da esfera.\n\n14 - Um banco é considerado «lugar exposto» se as zonas de protecção no interior do espaço definido no número anterior tiverem uma superfície acumulada inferior a 800 cm2.\n\n15 - Cada lugar sentado indicado no anexo 17.º e marcado com o símbolo [(ver documento original)](https://files.diariodarepublica.pt/1s/2001/08/186a00/50945132.pdf) deve estar dotado de cintos de três pontos de um tipo especificado no referido anexo, a não ser que uma das seguintes condições seja satisfeita:\n\na) Haja um banco ou outras peças do veículo que estejam em conformidade com o n.º 3.5 do apêndice n.º 1 do anexo III da Directiva n.º [74/408/CEE](https://data.europa.eu/eli/dir/1974/408/oj?locale=pt), do Conselho, directamente à sua frente; ou\n\nb) Nenhuma parte do veículo esteja dentro da zona de referência ou, quando o veículo estiver em movimento, seja capaz de estar dentro dessa zona; ou\n\nc) Partes do veículo dentro da referida zona de referência satisfaçam os requisitos de absorção de energia estabelecidos no apêndice n.º 6 do anexo III da Directiva n.º [74/408/CEE](https://data.europa.eu/eli/dir/1974/408/oj?locale=pt).\n\n16 - No caso de ser satisfeita uma das condições referidas no número anterior, podem ser instalados cintos de segurança de dois pontos, de um tipo especificado no anexo 17.º ao presente Regulamento.\n\n17 - Com excepção dos casos referidos no n.º 21 do presente artigo, cada lugar sentado de passageiro equipado com uma almofada de ar deve ser dotado de um aviso contra a utilização de um sistema de retenção para crianças virado para a retaguarda nesse banco.\n\n18 - A etiqueta de aviso, sob a forma de um pictograma, que pode incluir texto explicativo, deve ser afixada de modo durável e localizada de modo que seja facilmente visível em frente a uma pessoa prestes a instalar um sistema de retenção para crianças virado para a retaguarda no banco em questão, dando a figura 1 constante do anexo 1.º ao presente Regulamento um exemplo de um possível desenho do pictograma.\n\n19 - No caso de o aviso referido no número anterior não ser visível com a porta fechada, deve ser visível em todas as ocasiões uma referência permanente.\n\n20 - Os requisitos referidos nos n.os 18, 19 e 20 do presente artigo não se aplicam se o veículo estiver equipado com um mecanismo que detecte automaticamente a presença de um sistema de retenção para crianças virado para a retaguarda e assegure que a almofada de ar não se solte quando esse sistema de retenção para crianças estiver montado.\n\n21 - No caso dos bancos que podem ser rodados ou orientados para outras posições, a utilizar com o veículo estacionário, as disposições referidas no n.º 2 aplicam-se apenas às orientações destinadas a utilização normal quando o veículo se desloca na estrada, de acordo com o presente Regulamento, devendo a ficha de informações ter uma nota nesse sentido.\n\n> Alterado pelo/a [Decreto-Lei n.º 190/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-2006-541581), publicado em 2006-09-25."
+  }
+ }
+}

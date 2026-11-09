@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:169892:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1961-05-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6986f94f3634045d"
+   ]
+  },
+  {
+   "date": "1969-10-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215933:por",
+     "title": "Decreto-Lei n.º 49294",
+     "published": "1969-10-08",
+     "dre_path": "/dr/detalhe/decreto-lei/49294-1969-215933"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "6155c56d0a542068",
+    "32516ba1c866b4de",
+    "15b549cf6ef84ac5",
+    "b88b3d67f9ba2016",
+    "1098ec72cc05d307"
+   ]
+  }
+ ],
+ "fragments": {
+  "6986f94f3634045d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tornando-se necessário regulamentar o disposto no § 6.º do artigo 10.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º A verba destinada à concessão de comparticipações será distribuída para a realização de obras de interesse colectivo e de interesse individual nas percentagens fixadas anualmente pelo Secretário de Estado da Agricultura, sob proposta da Junta de Colonização Interna.\n\n§ único. Deverá manter-se disponível até final de Junho de cada ano um terço da verba atribuída para melhoramentos de interesse individual, a fim de poder ocorrer a estragos provocados pelas intempéries.\n\nArt. 2.º Serão observadas na concessão de comparticipações as seguintes prioridades:\n\nA) Nas obras de interesse colectivo:\n\n1.º Reparação de estragos provocados pelas intempéries nas propriedades rústicas e obras de rega, enxugo e defesa contra a erosão;\n\n2.º Obras de electrificação ligadas às explorações agrícolas;\n\n3.º Arroteamento de terrenos incultos;\n\n4.º Outras obras.\n\nB) Nas obras de interesse individual:\n\n1.º Reparação dos estragos provocados pelas intempéries nas propriedades rústicas;\n\n2.º Problema da habitação dos pequenos agricultores e assalariados rurais;\n\n3.º Outras obras.\n\nArt. 3.º As percentagens a atribuir a cada uma das categorias de obras serão fixadas tendo em conta as disponibilidades orçamentais existentes na verba respectiva e de acordo com os limites a seguir indicados:\n\n1.º Reparação de estragos provocados pelas intempéries nas propriedades rústicas; problema da habitação dos pequenos agricultores e assalariados rurais, e obras de rega, enxugo e defesa contra a erosão - até 50 por cento;\n\n2.º Obras de electrificação ligadas às explorações agrícolas e arroteamento de terrenos incultos - até 40 por cento;\n\n3.º Outras obras - até 30 por cento.\n\nArt. 4.º Quando a comparticipação seja concedida simultâneamente com o empréstimo, não poderá ser entregue qualquer fracção deste enquanto o montante da comparticipação não estiver totalmente investido na realização da obra.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 4 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Luís Quartin Graça."
+  },
+  "6155c56d0a542068": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tornando-se necessário regulamentar o disposto no § 6.º do artigo 10.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "32516ba1c866b4de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA verba destinada à concessão de comparticipações será distribuída para a realização de obras de interesse colectivo e de interesse individual nas percentagens fixadas anualmente pelo Secretário de Estado da Agricultura, sob proposta da Junta de Colonização Interna.\n\n§ único. Deverá manter-se disponível até final de Junho de cada ano um terço da verba atribuída para melhoramentos de interesse individual, a fim de poder ocorrer a estragos provocados pelas intempéries."
+  },
+  "15b549cf6ef84ac5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSerão observadas na concessão de comparticipações as seguintes prioridades:\n\nA) Nas obras de interesse colectivo:\n\n1.º Reparação de estragos provocados pelas intempéries nas propriedades rústicas e obras de rega, enxugo e defesa contra a erosão;\n\n2.º Obras de electrificação ligadas às explorações agrícolas;\n\n3.º Arroteamento de terrenos incultos;\n\n4.º Outras obras.\n\nB) Nas obras de interesse individual:\n\n1.º Reparação dos estragos provocados pelas intempéries nas propriedades rústicas;\n\n2.º Problema da habitação dos pequenos agricultores e assalariados rurais;\n\n3.º Outras obras."
+  },
+  "b88b3d67f9ba2016": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1969-10-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 49294](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49294-1969-215933), publicado em 1969-10-08."
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs percentagens a atribuir a cada uma das categorias de obras serão fixadas tendo em conta as disponibilidades orçamentais existentes na verba respectiva e de acordo com os limites a seguir indicados:\n\n1.º Reparação de estragos provocados pelas intempéries nas propriedades rústicas; problema da habitação dos pequenos agricultores e assalariados rurais, e obras de rega, enxugo e defesa contra a erosão - até 50 por cento;\n\n2.º Obras de electrificação ligadas às explorações agrícolas e arroteamento de terrenos incultos - até 40 por cento;\n\n3.º Outras obras - até 30 por cento.\n\n§ único. Nas obras de interesse colectivo a comparticipação poderá atingir o limite do custo das obras ou melhoramentos.\n\n> Alterado pelo/a [Decreto-Lei n.º 49294](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49294-1969-215933), publicado em 1969-10-08."
+  },
+  "1098ec72cc05d307": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nQuando a comparticipação seja concedida simultâneamente com o empréstimo, não poderá ser entregue qualquer fracção deste enquanto o montante da comparticipação não estiver totalmente investido na realização da obra.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 4 de Maio de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Luís Quartin Graça."
+  }
+ }
+}

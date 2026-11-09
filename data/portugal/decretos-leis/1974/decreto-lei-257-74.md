@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-11-12'
+version_history:
+  file: decreto-lei-257-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-06-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-11-12'
+    amending: pt:dre:310582:por
+    amending_title: Decreto-Lei n.º 619/75
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:31:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 619/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-257-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,13 +120,23 @@ Considerando que o cumprimento eficaz de determinadas tarefas impõe o recrutame
 
 Usando da faculdade conferida pelo n.º 3.º do n.º 1 do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. Por despacho do chefe do Estado-Maior-General das Forças Armadas, e em casos de reconhecida gravidade ou complexidade, podem ser nomeados ad hoc licenciados em Direito ou técnicos de investigação criminal para servirem como adjuntos dos agentes da Polícia Judiciária Militar ou dos promotores de justiça.
+###### Artigo 1.º
+
+1. Por despacho do chefe do Estado-Maior-General das Forças Armadas ou da entidade em quem o mesmo delegar, e em casos de reconhecida necessidade, podem ser nomeados ad hoc licenciados em Direito ou técnicos de investigação criminal para servirem como adjuntos dos agentes da Polícia Judiciária Militar ou dos promotores de justiça.
 
 2. Os adjuntos recebem a competência que lhes for delegada e podem substituir os promotores de justiça, sem prejuízo da orientação destes.
 
 3. Idênticas funções de adjunto podem ser atribuídas a oficiais com qualificações especiais, ainda que de patente inferior à do arguido.
 
-Art. 2.º Este diploma entra imediatamente em vigor.
+4. Em idênticas condições e pelas entidades referidas no n.º 1 podem ser nomeados ad hoc civis de reconhecida competência para servirem como escrivães dos agentes da Polícia Judiciária Militar ou dos promotores de justiça.
+
+5. Para os fins constantes do número anterior, poder-se-ão requisitar funcionários judiciais ao Ministério da Justiça.
+
+> Alterado pelo/a [Decreto-Lei n.º 619/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/619-1975-310582), publicado em 1975-11-12.
+
+###### Artigo 2.º
+
+Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Adelino da Palma Carlos - Mário Firmino Miguel.
 

@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-11-27'
+version_history:
+  file: decreto-lei-236-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-08-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-11-27'
+    amending: pt:dre:642527:por
+    amending_title: Decreto-Lei n.º 324/2007; Declaração de Rectificação n.º 107/2007
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/236/2001/08/30/p/dre/pt/html
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:26:45Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 324/2007; Declaração
+    de Rectificação n.º 107/2007. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2001/decreto-lei-236-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,13 +150,29 @@ A celebração de casamentos civis fora do horário de funcionamento dos serviç
 
 ###### Artigo 2.º — Competência
 
-A competência para a celebração de casamentos nos termos previstos no artigo anterior é atribuída ao conservador e, sucessivamente, ao respectivo adjunto, aos substitutos do conservador, pela ordem por que foram designados, e aos demais ajudantes da conservatória, por ordem de categoria funcional e de classe pessoal.
+1 - A competência para a celebração de casamentos nos termos previstos no artigo anterior é atribuída a qualquer conservador dos registos, por acordo com os nubentes e independentemente da área de circunscrição territorial a que o conservador pertença.
+
+2 - Na falta do acordo previsto no número anterior, a competência para a celebração do casamento é atribuída ao conservador do registo civil da conservatória da área da celebração do casamento.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 324/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2007-642527), publicado em 2007-09-28.
 
 ###### Artigo 3.º — Substituição
 
-1 - Quando o casamento não seja celebrado pelo conservador, deve o mesmo designar o respectivo substituto para esse efeito, de acordo com a ordem de preferência estabelecida no artigo anterior.
+1 - Quando não haja disponibilidade ou possibilidade por parte dos conservadores referidos no artigo anterior para celebrar o casamento, devem aqueles designar o respectivo substituto para esse efeito, de acordo com a seguinte ordem de preferência:
+
+a) Conservador auxiliar;
+
+b) Adjunto de conservador;
+
+c) Substitutos do conservador, pela ordem por que foram designados;
+
+d) Demais oficiais da conservatória, por ordem de categoria funcional e de classe pessoal.
 
 2 - Sempre que não haja disponibilidade para a celebração de casamento nos termos do número anterior, deve o conservador ou o seu substituto informar e remeter o pedido ao director-geral dos Registos e do Notariado, podendo ser designado, em regime de substituição, conservador, notário ou ajudante de serviços de registo civil do mesmo concelho ou concelho limítrofe.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 324/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-2007-642527), publicado em 2007-09-28.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 107/2007](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/107-2007-628488), publicado em 2007-11-27.
 
 ###### Artigo 4.º — Entrada em vigor
 

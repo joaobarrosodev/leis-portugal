@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-01-20'
+version_history:
+  file: decreto-lei-13-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-01-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-01-20'
+    amending: pt:dre:283366:por
+    amending_title: Decreto-Lei n.º 9/88
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:11:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 9/88. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1986/decreto-lei-13-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -208,11 +223,13 @@ i) A data do contrato.
 
 7 - Quando o contrato não contiver menção do prazo, presume-se que este é o indicado no artigo 1087.º do Código Civil.
 
-###### Artigo 3.º — (Iniciativa da actualização ou correcção)
+###### Artigo 3.º — Iniciativa da actualização ou correcção
 
 1 - Quando o senhorio pretender actualizar a renda, nos termos do artigo 6.º da [Lei n.º 46/85](https://diariodarepublica.pt/dr/detalhe/lei/46-1985-177451), comunicará ao arrendatário, com a antecedência mínima de 30 dias, por meio de carta registada com aviso de recepção, o montante da nova renda e o coeficiente utilizado no seu cálculo.
 
-2 - A correcção anual da renda, nos termos do artigo 12.º da referida lei, está sujeita a comunicação, com formalidades idênticas às mencionadas no número anterior, devendo, no entanto, a assinatura do senhorio ser reconhecida por notário.
+2 - A correcção anual da renda, nos termos do artigo 12.º da referida lei, está sujeita a comunicação, com formalidades idênticas às mencionadas no número anterior.
+
+> Alterado pelo/a [Decreto-Lei n.º 9/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1988-283366), publicado em 1988-01-15.
 
 ###### Artigo 4.º — (Valor dos fogos em renda condicionada)
 

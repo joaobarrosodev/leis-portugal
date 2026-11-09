@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-11-28'
+version_history:
+  file: resolucao-1-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-07-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-11-28'
+    amending: pt:dre:466223:por
+    amending_title: Resolução n.º 4/74
+    changes:
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T10:02:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução n.º 4/74. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/resolucoes/1974/resolucao-1-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -108,11 +123,11 @@ REGIMENTO DO CONSELHO DE ESTADO
 
 ### CAPÍTULO I — Do Conselho de Estado e dos seus membros
 
-###### ARTIGO 1.º
+###### Artigo 1.º
 
 O Conselho de Estado é um órgão de soberania que se rege pelo disposto na Lei Constitucional n.º 3/74, de 14 de Maio, e no presente diploma.
 
-###### ARTIGO 2.º
+###### Artigo 2.º
 
 Constituem o Conselho de Estado:
 
@@ -122,35 +137,37 @@ b) Sete representantes das forças armadas;
 
 c) Sete cidadãos de reconhecido mérito.
 
-###### ARTIGO 3.º
+###### Artigo 3.º
 
 Os membros da Junta de Salvação Nacional são membros natos do Conselho de Estado, não carecendo de nomeação nem de investidura.
 
-###### ARTIGO 4.º
+###### Artigo 4.º
 
 Os membros referidos na alínea b) do artigo 2.º são nomeados pelo Presidente da República, de acordo com as designações feitas pelo Movimento das Forças Armadas.
 
-###### ARTIGO 5.º
+###### Artigo 5.º
 
 Os membros referidos na alínea c) do artigo 2.º são da livre escolha do Presidente da República e por ele nomeados.
 
-###### ARTIGO 6.º
+###### Artigo 6.º
 
 No caso de cessação das funções de qualquer dos membros referidos nas alíneas b) e c) do artigo 2.º, o Presidente da República designará o novo membro no prazo de quinze dias após a verificação do respectivo evento.
 
-###### ARTIGO 7.º
+###### Artigo 7.º
 
 Os membros referidos nas alíneas b) e c) do artigo 2.º tomam posse e prestam compromisso de honra perante o Presidente da República.
 
-###### ARTIGO 8.º
+###### Artigo 8.º
 
-1. As funções de conselheiro de Estado são gratuitas e compatíveis com o exercício de qualquer função política ou administrativa e com o desempenho de qualquer actividade privada.
+1. As funções de conselheiro de Estado são compatíveis com o exercício de qualquer função política ou administrativa e com o desempenho de qualquer actividade privada.
 
 2. Os membros referidos na alínea b) do artigo 2.º não podem ser colocados, sem prévio consentimento do Conselho de Estado, em situações que impeçam o exercício efectivo das suas funções.
 
 3. O exercício das funções de conselheiro de Estado por parte dos membros referidos na alínea b) do artigo 2.º prefere ao de quaisquer outras.
 
-###### ARTIGO 9.º
+> Alterado pelo/a [Resolução n.º 4/74](https://diariodarepublica.pt/dr/detalhe/resolucao/4-1974-466223), publicado em 1974-11-28.
+
+###### Artigo 9.º
 
 1. Determinam a perda da qualidade de conselheiro de Estado os seguintes factos:
 
@@ -164,7 +181,7 @@ c) Impossibilidade física permanente.
 
 ### CAPÍTULO II — Das atribuições e competência do Conselho de Estado
 
-###### ARTIGO 10.º
+###### Artigo 10.º
 
 Compete ao Conselho de Estado:
 
@@ -198,13 +215,13 @@ e) À definição do regime geral do Governo dos territórios ultramarinos;
 
 10.º Pronunciar-se em todas as emergências graves para a vida da Nação e sobre outros assuntos de interesse nacional sempre que o Presidente da República o julgue conveniente.
 
-###### ARTIGO 11.º
+###### Artigo 11.º
 
 1. A iniciativa do exercício dos poderes constituintes que competem ao Conselho de Estado pertence a qualquer dos membros do Conselho.
 
 2. As normas constitucionais emanadas do Conselho de Estado serão decretadas como leis constitucionais e promulgadas pelo Presidente da República, não carecendo de referenda.
 
-###### ARTIGO 12.º
+###### Artigo 12.º
 
 1. Os diplomas do Governo Provisório que devem ser sancionados pelo Conselho de Estado não poderão ser promulgados pelo Presidente da República sem que a sanção tenha sido concedida, devendo mencionar-se nos textos publicados no Diário do Governo o facto de tais diplomas terem sido vistos e aprovados em Conselho de Estado.
 
@@ -212,7 +229,7 @@ e) À definição do regime geral do Governo dos territórios ultramarinos;
 
 3. Se o Conselho de Ministros concordar com a redacção sugerida pelo Conselho de Estado, o texto seguirá sem mais formalidades para promulgação pelo Presidente da República, considerando-se sancionado pelo Conselho de Estado.
 
-###### ARTIGO 13.º
+###### Artigo 13.º
 
 1. A função de vigiar pelo cumprimento das normas constitucionais será exercida por iniciativa de qualquer dos membros do Conselho de Estado.
 
@@ -220,65 +237,65 @@ e) À definição do regime geral do Governo dos territórios ultramarinos;
 
 3. As resoluções do Conselho de Estado que anulem normas inconstitucionais terão força obrigatória geral, mas sempre com ressalva das situações criadas pelos casos julgados.
 
-###### ARTIGO 14.º
+###### Artigo 14.º
 
 1. A fim de vigiar pelo cumprimento das leis ordinárias e de apreciar os actos do Governo e da Administração, poderá o Conselho de Estado solicitar ao Governo que esclareça o Conselho, por escrito ou verbalmente, sobre qualquer assunto da sua competência.
 
 2. A iniciativa do exercício dos poderes referidos no número anterior pertence a qualquer membro do Conselho de Estado, mas o seu seguimento depende de aprovação do Conselho.
 
-###### ARTIGO 15.º
+###### Artigo 15.º
 
 O pedido de autorização para o Presidente da República fazer a guerra ou fazer a paz será apresentado ao Conselho de Estado pelo próprio Presidente da República.
 
-###### ARTIGO 16.º
+###### Artigo 16.º
 
 1. A declaração de impossibilidade física do Presidente da República só pode ser feita pelo Conselho de Estado em reunião especialmente convocada para esse fim, pertencendo o direito de convocação ao membro da Junta de Salvação Nacional que estiver a desempenhar interinamente as funções de Presidente da República.
 
 2. A declaração referida no número anterior será promulgada como resolução do Conselho de Estado pelo Presidente da República interino, não carecendo de referenda, e importa de per si a imediata vacatura do cargo.
 
-###### ARTIGO 17.º
+###### Artigo 17.º
 
 1. O Conselho de Estado só pode emitir parecer sobre a prorrogação do prazo fixado para a aprovação da nova Constituição Política, bem como sobre a declaração do estado de sítio, por iniciativa do Presidente da República.
 
 2. O parecer do Conselho de Estado poderá ser publicado no Diário do Governo se o Presidente da República assim o decidir.
 
-###### ARTIGO 18.º
+###### Artigo 18.º
 
 A designação de novos membros da Junta de Salvação Nacional será promulgada pelo Presidente da República como resolução do Conselho de Estado, não carecendo de referenda.
 
-###### ARTIGO 19.º
+###### Artigo 19.º
 
 As deliberações referidas no n.º 9.º do artigo 10.º serão publicadas no Diário do Governo.
 
-###### ARTIGO 20.º
+###### Artigo 20.º
 
 O parecer do Conselho de Estado sobre qualquer das questões mencionadas no n.º 10.º do artigo 10.º poderá ser publicado no Diário do Governo se o Presidente da República assim o decidir.
 
-###### ARTIGO 21.º
+###### Artigo 21.º
 
 As deliberações do Conselho de Estado que reconheçam a impossibilidade física permanente de algum dos seus membros, bem como a exoneração de qualquer destes resultante de renúncia, serão publicadas no Diário do Governo.
 
 ### CAPÍTULO III — Do funcionamento do Conselho de Estado
 
-###### ARTIGO 22.º
+###### Artigo 22.º
 
 A convocação e a presidência do Conselho de Estado competem ao Presidente da República, salvo nos casos de impedimento ou impossibilidade física dele, em que essa competência pertence ao membro da Junta de Salvação Nacional que estiver a desempenhar interinamente as funções de Presidente da República.
 
-###### ARTIGO 23.º
+###### Artigo 23.º
 
 1. As convocatórias devem ser feitas, salvo casos excepcionais, com uma antecedência mínima de cinco dias e delas constarão o dia, hora e local da reunião, bem como a respectiva ordem do dia.
 
 2. Juntamente com a convocatória serão enviados os textos que hajam de ser apreciados na reunião.
 
-###### ARTIGO 24.º
+###### Artigo 24.º
 
 O Conselho de Estado funciona apenas em reuniões plenárias, sem prejuízo da faculdade de cometer o estudo de assuntos determinados a qualquer dos seus membros ou a grupos de trabalho formados no seu seio.
 
-###### ARTIGO 25.º
+###### Artigo 25.º
 
 O Conselho de Estado só pode deliberar validamente quando estiver presente a maioria do número legal dos seus membros.
 
-###### ARTIGO 26.º
+###### Artigo 26.º
 
 1. As deliberações do Conselho de Estado são tomadas à pluralidade absoluta de votos dos membros presentes.
 
@@ -288,7 +305,7 @@ O Conselho de Estado só pode deliberar validamente quando estiver presente a ma
 
 4. São admitidas as declarações de voto.
 
-###### ARTIGO 27.º
+###### Artigo 27.º
 
 1. De tudo o que ocorrer nas reuniões do Conselho de Estado será lavrada acta em livro especial, cujos termos de abertura e encerramento serão assinados pelo Presidente da República.
 
@@ -296,21 +313,21 @@ O Conselho de Estado só pode deliberar validamente quando estiver presente a ma
 
 3. As actas, depois de lançadas no livro respectivo, serão subscritas pelo secretário e assinadas pelo Presidente da República.
 
-###### ARTIGO 28.º
+###### Artigo 28.º
 
 Os serviços de expediente do Conselho de Estado ficam a cargo da Secretaria-Geral da Presidência da República.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### ARTIGO 29.º
+###### Artigo 29.º
 
 A interpretação deste Regimento e, bem assim, a integração das suas lacunas competem ao próprio Conselho de Estado.
 
-###### ARTIGO 30.º
+###### Artigo 30.º
 
 As alterações ao presente Regimento só poderão ser introduzidas em reunião expressamente convocada para esse fim.
 
-###### ARTIGO 31.º
+###### Artigo 31.º
 
 Este Regimento será promulgado como resolução do Conselho de Estado e publicado no Diário do Governo.
 

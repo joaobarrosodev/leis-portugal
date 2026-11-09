@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1984-03-01'
+version_history:
+  file: portaria-127-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-03-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1984-03-01'
+    amending: pt:dre:661507:por
+    amending_title: Portaria n.º 113/84
+    changes:
+    - Altera Artigo 18.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:51:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 113/84. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1979/portaria-127-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -263,21 +278,17 @@ As bolsas de curta duração representam uma forma de auxílio material ou de co
 
 ###### Artigo 18.º — (Subsídio de manutenção)
 
-1 - O subsídio de manutenção é, em relação aos países a seguir mencionados, o que resultar da aplicação dos valores seguintes:
+1 - O subsídio de manutenção é, em relação aos países da Europa, EUA e Canadá, de 32000$00 mensais.
 
-Espanha - 600$00 (18000$00 mensais);
-
-Países da Europa Ocidental - 700$00 (21000$00 mensais);
-
-Canadá e EUA - 850$00 (25500$00 mensais).
-
-2 - Os quantitativos a atribuir para os restantes países da Europa serão fixados caso a caso, de acordo com as normas e níveis de custo de vida vigentes em cada país.
+2 - Os quantitativos a atribuir aos bolseiros para os restantes países serão fixados caso a caso, de conformidade com as normas e os níveis de custo de vida em cada país.
 
 3 - Para cálculo do subsídio de manutenção far-se-á corresponder a cada mês de duração da bolsa o quantitativo mensal previsto no n.º 1 e a cada dia dos períodos que não perfaçam um mês o subsídio quantitativo diário igualmente previsto no mesmo número.
 
 4 - O quantitativo do subsídio de manutenção para países não referidos nos n.os 1 e 2 é determinado por analogia com os valores neles fixados e dentro dos respectivos limites.
 
 5 - O subsídio de manutenção é concedido pelo período de duração da bolsa fixado nos artigos 4.º e 5.º Porém, nos casos em que a bolsa termine antes da data inicialmente prevista, o subsídio deixa de ser abonado dois dias após o termo daquela.
+
+> Alterado pelo/a [Portaria n.º 113/84](https://diariodarepublica.pt/dr/detalhe/portaria/113-1984-661507), publicado em 1984-02-21.
 
 ###### Artigo 19.º — (Subsídio de viagem)
 

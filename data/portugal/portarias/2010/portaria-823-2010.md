@@ -39,10 +39,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-05-23'
+version_history:
+  file: portaria-823-2010.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2010-08-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-05-23'
+    amending: pt:dre:503053:por
+    amending_title: Portaria n.º 311/2013; Portaria n.º 109/2014
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Adita Artigo 16.º-A
+    - Altera Artigo 17.º
+    - Adita Artigo 18.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/823/2010/08/30/p/dre/pt/html
@@ -68,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:49:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 311/2013; Portaria n.º
+    109/2014. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2010/portaria-823-2010.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -333,6 +353,20 @@ b) No caso de candidaturas conjuntas, o montante máximo por embarcação envolv
 
 2 - Após a recepção das candidaturas podem ser solicitados pelas DRAP quaisquer esclarecimentos ou documentos que se entendam necessários, devendo o promotor responder no prazo máximo de 10 dias, se outro prazo não for fixado, findo o qual, na ausência de resposta, poderá o gestor do PROMAR determinar o seu arquivamento.
 
+3 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.
+
+4 - Ao estabelecer novo período de apresentação de candidaturas ao abrigo do disposto no número anterior, o Gestor pode igualmente determinar:
+
+a) A tipologia de projetos suscetíveis de apoio, no contexto dessa reabertura do período de apresentação de candidaturas;
+
+b) A dotação disponível para novas aprovações, da qual dependerá a análise das candidaturas em carteira, face à dimensão dos investimentos nelas previstos;
+
+c) As regras de seleção das candidaturas, sem prejuízo dos critérios de seleção estabelecidos segundo o disposto no artigo 8.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de maio;
+
+d) Os prazos de execução dos projetos, tendo em conta o período de elegibilidade temporal das despesas previsto no artigo 55.º, n.º 1, do Regulamento n.º 1198/2006, do Conselho, de 27 de julho de 2006.
+
+> Alterado pelo/a [Portaria n.º 109/2014](https://diariodarepublica.pt/dr/detalhe/portaria/109-2014-25345880), publicado em 2014-05-22.
+
 ###### Artigo 13.º — Selecção das candidaturas
 
 1 - As candidaturas relativas aos projectos enquadráveis no n.º 1 do artigo 6.º são seleccionadas e ordenadas em função da ordem de entrada e da verba disponível.
@@ -361,47 +395,73 @@ PF = 0,3 AT + 0,7 AE
 
 ###### Artigo 15.º — Pagamento dos apoios
 
-O pagamento dos apoios é realizado pelo IFAP após apresentação, pelo promotor, nas DRAP, dos documentos comprovativos do pagamento das despesas, em conformidade com formulários próprios e nos seguintes termos:
+O pagamento dos apoios é realizado pelo IFAP após apresentação, pelo promotor, nas DRAP, dos documentos comprovativos do pagamento das despesas em conformidade com formulários próprios e nos seguintes termos:
 
-a) Caso o promotor opte por apresentar mais do que um pedido de pagamento, a primeira prestação dos apoios é paga após a realização de, pelo menos, 20 % do investimento elegível;
+a) Caso o promotor opte por apresentar mais do que um pedido de pagamento, a primeira prestação dos apoios é paga após a realização de, pelo menos, 5% do investimento elegível;
 
-b) Verificada a circunstância prevista no número anterior, o montante da última prestação terá de representar, pelo menos, 20 % do total do apoio;
+b) Verificada a circunstância prevista no número anterior, o montante da última prestação terá de representar, pelo menos, 10% do total do apoio;
 
 c) Sem prejuízo do disposto no artigo 16.º, qualquer pagamento parcial ou total do apoio apenas poderá ser efectuado mediante a comprovação pelo promotor da realização da correspondente despesa, bem como da autorização para modificação da embarcação, nos termos do artigo 70.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, republicado pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio;
 
 d) O pagamento do apoio será efectuado mediante transferência bancária para conta titulada por cada um dos beneficiários, mesmo no caso das candidaturas conjuntas.
 
+> Alterado pelo/a [Portaria n.º 311/2013](https://diariodarepublica.pt/dr/detalhe/portaria/311-2013-503053), publicado em 2013-10-21.
+
 ###### Artigo 16.º — Adiantamentos
 
-1 - Com a apresentação de despesa paga correspondente a 5 % do investimento elegível, o promotor poderá solicitar nas DRAP, até quatro meses após a notificação da decisão de aprovação da candidatura, a concessão de um adiantamento até 50 % do valor dos apoios.
+1 - O promotor poderá solicitar nas DRAP a concessão de um adiantamento até 50% do valor do apoio, após a notificação da decisão de aprovação da candidatura.
 
-2 - O prazo previsto no número anterior não será, por regra, prorrogável, salvo em casos devidamente justificados em que o promotor o requeira e apenas quando a impossibilidade do seu cumprimento ou incumprimento objectivamente verificado não se deva a motivos imputáveis ao promotor.
+2 - (Revogado.)
 
-3 - O promotor disporá de um prazo de seis meses após a concessão do adiantamento para demonstrar a sua aplicação e apresentar os comprovativos da despesa correspondente a esse valor.
+3 - O promotor disporá de um período de seis meses, após a concessão do adiantamento, para demonstrar a realização de 50% do investimento elegível, mediante a apresentação dos correspondentes comprovativos de despesa.
 
-4 - Em caso de atraso na justificação dos adiantamentos será aplicada uma penalização correspondente ao valor dos juros de mora à taxa legal, contados sobre o valor do adiantamento.
+4 - Em caso de incumprimento da obrigação prevista no número 3:
+
+a) É aplicada ao promotor uma penalização correspondente ao valor dos juros de mora à taxa legal, calculados sobre o valor do adiantamento;
+
+b) Decorridos 30 dias após o termo do prazo a que alude o número 3 sem que o promotor tenha ainda cumprido a obrigação aí prevista, poderá ser-lhe exigida a devolução do adiantamento, acrescido de juros de mora à taxa legal.
 
 5 - Os adiantamentos são concedidos mediante a apresentação pelo promotor de garantias a favor do IFAP, nos termos, condições e montantes que esta última entidade vier a estabelecer.
 
 6 - A concessão e o montante dos adiantamentos ficam limitados às disponibilidades financeiras do PROMAR.
 
+7 - O somatório do apoio concedido a título de adiantamento e do apoio pago ao abrigo do disposto no artigo 15º em nenhum momento poderá exceder a totalidade da ajuda pública atribuída ao promotor.
+
+> Alterado pelo/a [Portaria n.º 311/2013](https://diariodarepublica.pt/dr/detalhe/portaria/311-2013-503053), publicado em 2013-10-21.
+
+###### Artigo 16.º-A — Correções financeiras
+
+1 - Sempre que tenham sido concedidos apoios públicos à modernização da embarcação objeto do projeto há menos de cinco anos, o montante máximo da despesa elegível será diminuído pro rata temporis, estipulando -se, como referência inicial e final, a data da última fatura paga imputável ao projeto apoiado e a da apresentação da candidatura ao PROMAR.
+
+2 - Uma ajuda ao investimento a bordo de uma embarcação, concedida ao abrigo do presente regime, será reembolsada pro rata temporis quando a embarcação em causa for cancelada no registo da frota de pesca da União Europeia, antes de decorridos cinco anos a contar da data da última fatura paga imputável ao projeto apoiado, salvo se o cancelamento resultar de motivo de força maior.
+
+> Aditado pelo/a [Portaria n.º 311/2013](https://diariodarepublica.pt/dr/detalhe/portaria/311-2013-503053), publicado em 2013-10-21.
+
 ###### Artigo 17.º — Obrigações dos beneficiários
 
-1 - Sem prejuízo do disposto no artigo 11.º do Decreto-Lei n.º 81/2008, de 16 de Maio, constituem obrigações dos beneficiários:
+1 - Sem prejuízo das obrigações previstas no artigo 11º do Decreto-Lei nº 81/2008, de 16 de maio, quando aplicável, constituem obrigações dos beneficiários:
 
 a) Realizar o investimento mediante a utilização da conta bancária especificada no projecto;
 
 b) Informar as DRAP de qualquer alteração das condições que suportam a decisão de atribuição do apoio;
 
-c) No caso das acções que tenham por objecto investimentos a bordo e selectividade, iniciar a execução dos projectos até 150 dias a contar da data da notificação prevista no n.º 4 do artigo 14.º do presente regime e completar essa execução até 18 meses a contar da mesma data.
+c) No caso das ações que tenham por objeto investimentos a bordo e seletividade, iniciar a execução dos projetos até 180 dias a contar da data da notificação prevista no nº 4 do artigo 14º do presente regime e concluir essa execução até 18 meses a contar da mesma data.
 
 2 - No caso das acções que tenham por objecto a tipologia definida no n.º 2 do artigo 6.º, os prazos de início e conclusão da execução dos projectos serão fixados na decisão de aprovação das candidaturas.
 
-3 - Os prazos previstos nos números anteriores apenas poderão ser prorrogados, a requerimento do promotor, em casos devidamente justificados e quando a impossibilidade do seu cumprimento ou incumprimento objectivamente verificado não se deva a motivos imputáveis ao promotor.
+3 - Excecionalmente, pode ser aceite a prorrogação dos prazos de início e de conclusão do projeto, previstos nos números anteriores, desde que a sua necessidade seja justificada e se fundamente em razões não imputáveis ao promotor.
+
+> Alterado pelo/a [Portaria n.º 311/2013](https://diariodarepublica.pt/dr/detalhe/portaria/311-2013-503053), publicado em 2013-10-21.
 
 ###### Artigo 18.º — Responsabilidade dos beneficiários dos apoios nas candidaturas conjuntas
 
 Os beneficiários dos apoios nas candidaturas conjuntas terão responsabilidade conjunta, ou seja, cada um deles será responsável pela sua quota-parte do investimento realizado e responderá pessoalmente por eventuais deveres de reembolso na exacta proporção do prémio recebido.
+
+###### Artigo 18.º-A — Alteração dos projetos aprovados
+
+Podem ser admitidas alterações técnicas, desde que se mantenha a concepção económica e estrutural do projeto aprovado, seguindo-se o disposto nos n.os 2 e seguintes do artigo 14.º do [Decreto-Lei n.º 81/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2008-249263), de 16 de maio, delas não podendo resultar o aumento do apoio público.
+
+> Aditado pelo/a [Portaria n.º 311/2013](https://diariodarepublica.pt/dr/detalhe/portaria/311-2013-503053), publicado em 2013-10-21.
 
 ###### Artigo 19.º — Cobertura orçamental
 

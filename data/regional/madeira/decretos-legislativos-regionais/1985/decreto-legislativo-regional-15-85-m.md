@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-03-20'
+version_history:
+  file: decreto-legislativo-regional-15-85-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1985-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-03-20'
+    amending: pt:dre:176768:por
+    amending_title: Decreto Legislativo Regional n.º 6/92/M
+    changes:
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:37:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    6/92/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1985/decreto-legislativo-regional-15-85-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,39 +144,67 @@ Assim:
 
 A Assembleia Regional decreta, nos termos da alínea b) do artigo 229.º da Constituição e da alínea c) do artigo 22.º do Estatuto Provisório, aprovado pelo [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
 
-Artigo 1.º O [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, aplica-se aos serviços municipais da Região Autónoma da Madeira, com as especificidades constantes dos artigos seguintes.
+###### Artigo 1.º
 
-Art. 2.º - 1 - A organização dos serviços municipais deverá ser estabelecida por deliberação da assembleia municipal, mediante proposta fundamentada da respectiva câmara municipal, no sentido da prossecução das atribuições legalmente cometidas aos municípios, designadamente pelo artigo 2.º do [Decreto-Lei n.º 100/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1984-661715), de 29 de Março, e das necessidades correspondentes de pessoal.
+O [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, aplica-se aos serviços municipais da Região Autónoma da Madeira, com as especificidades constantes dos artigos seguintes.
+
+###### Artigo 2.º
+
+1 - A organização dos serviços municipais deverá ser estabelecida por deliberação da assembleia municipal, mediante proposta fundamentada da respectiva câmara municipal, no sentido da prossecução das atribuições legalmente cometidas aos municípios, designadamente pelo artigo 2.º do [Decreto-Lei n.º 100/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1984-661715), de 29 de Março, e das necessidades correspondentes de pessoal.
 
 2 - A estrutura e o funcionamento dos serviços municipais adequar-se-ão aos objectivos de carácter permanente do município, bem como, com a necessária flexibilidade, aos objectivos de missão postos pelo desenvolvimento municipal e intermunicipal.
 
 3 - A organização municipal reflectirá a interligação funcional entre os órgãos e serviços da administração autárquica e os da administração central e regional.
 
-Art. 3.º Os funcionários dos quadros da administração central ou regional que ingressem nos quadros próprios dos municípios não perdem, por força da transição, o vínculo ao quadro de origem.
+###### Artigo 3.º
 
-Art. 4.º O recrutamento do pessoal dirigente a que se refere o artigo 7.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566) far-se-á de entre indivíduos vinculados à administração local, regional ou central, com observância das regras no mesmo previstas.
+Os funcionários dos quadros da administração central ou regional que ingressem nos quadros próprios dos municípios não perdem, por força da transição, o vínculo ao quadro de origem.
 
-Art. 5.º - 1 - Sempre que os municípios careçam de pessoal especializado deverão, preferencialmente, recorrer à assessoria dos departamentos técnicos competentes dependentes do Governo Regional.
+###### Artigo 4.º
+
+O recrutamento do pessoal dirigente a que se refere o artigo 7.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566) far-se-á de entre indivíduos vinculados à administração local, regional ou central, com observância das regras no mesmo previstas.
+
+###### Artigo 5.º
+
+1 - Sempre que os municípios careçam de pessoal especializado deverão, preferencialmente, recorrer à assessoria dos departamentos técnicos competentes dependentes do Governo Regional.
 
 2 - A assessoria técnica do Governo poderá ser ampliada segundo modalidades a acordar caso a caso, comparticipando os municípios beneficiários e a administração regional no aumento de despesas daí decorrentes.
 
-Art. 6.º - 1 - A competência atribuída ao Ministério da Administração Interna pelos artigos 11.º e 12.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566) é cometida ao Governo Regional.
+###### Artigo 6.º
 
-2 - Para efeitos do disposto no artigo 10.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), não se consideram encargos com pessoal as despesas com incentivos para fixação estabelecidos ao abrigo do [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro.
+1- A competência atribuída ao Ministério da Administração Interna pelos artigos 11.º e 12.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566) é cometida ao Governo Regional.
 
-Art. 7.º - 1 - Os funcionários providos na categoria de chefe de secretaria transitam para a categoria de assessor autárquico independentemente de quaisquer formalidades ou deliberações, com efeitos desde 6 de Maio de 1984, inclusive, considerando-se a partir da mesma data aditados aos quadros dos municípios os lugares de assessor necessários.
+2 - O limite a que se refere o n.º 2 do artigo 10.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, na redacção dada pela [Lei n.º 44/85](https://diariodarepublica.pt/dr/detalhe/lei/44-1985-177394), de 13 de Setembro, é fixado em 40%.
+
+3 - Para efeitos do disposto no artigo 10.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566), de 6 de Abril, não se consideram encargos com pessoal as despesas com incentivos para fixação estabelecidos ao abrigo do [Decreto-Lei n.º 45/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-1984-367852), de 3 de Fevereiro.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 6/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-1992-176768), publicado em 1992-03-20.
+
+###### Artigo 7.º
+
+1 - Os funcionários providos na categoria de chefe de secretaria transitam para a categoria de assessor autárquico independentemente de quaisquer formalidades ou deliberações, com efeitos desde 6 de Maio de 1984, inclusive, considerando-se a partir da mesma data aditados aos quadros dos municípios os lugares de assessor necessários.
 
 2 - Nos municípios em que esteja vago o lugar de chefe de secretaria o desempenho das competências que lhe são atribuídas pelo artigo 137.º do Código Administrativo e demais legislação será assegurado, até à reorganização dos serviços, pelo funcionário da secretaria de maior categoria ou, havendo mais de um da mesma categoria, pelo que for designado. O substituto terá direito à totalidade do vencimento atribuído ao chefe da secretaria substituído.
 
-Art. 8.º Os funcionários municipais titulares de lugares do quadro geral administrativo que se encontram a desempenhar ou tenham desempenhado cargos do mesmo quadro em regime de interinidade consideram-se providos, a título definitivo, nas categorias que venham ocupando, ou tenham ocupado, desde que contem mais de 1 ano de bom e efectivo serviço nas mesmas à data da entrada em vigor do presente diploma.
+###### Artigo 8.º
 
-Art. 9.º Poderá ser estruturado e ministrado na Região um curso de administração semelhante ao do Centro de Estudos e Formação Autárquica, em moldes a regulamentar por portaria do Governo, tendo em conta a especificidades regionais, cujo diploma é equiparado para todos os efeitos legais ao do curso conferido pelo CEFA.
+Os funcionários municipais titulares de lugares do quadro geral administrativo que se encontram a desempenhar ou tenham desempenhado cargos do mesmo quadro em regime de interinidade consideram-se providos, a título definitivo, nas categorias que venham ocupando, ou tenham ocupado, desde que contem mais de 1 ano de bom e efectivo serviço nas mesmas à data da entrada em vigor do presente diploma.
 
-Art. 10.º A aplicação à Região Autónoma do diploma regulamentar referido no artigo 15.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566) depende de decreto regulamentar regional.
+###### Artigo 9.º
 
-Art. 11.º Até publicação de legislação em contrário não é permitida a admissão de pessoal para além dos seus quadros nas autarquias da Região Autónoma da Madeira.
+Poderá ser estruturado e ministrado na Região um curso de administração semelhante ao do Centro de Estudos e Formação Autárquica, em moldes a regulamentar por portaria do Governo, tendo em conta a especificidades regionais, cujo diploma é equiparado para todos os efeitos legais ao do curso conferido pelo CEFA.
 
-Art. 12.º O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no artigo 7.º, n.º 1.
+###### Artigo 10.º
+
+A aplicação à Região Autónoma do diploma regulamentar referido no artigo 15.º do [Decreto-Lei n.º 116/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1984-654566) depende de decreto regulamentar regional.
+
+###### Artigo 11.º
+
+Até publicação de legislação em contrário não é permitida a admissão de pessoal para além dos seus quadros nas autarquias da Região Autónoma da Madeira.
+
+###### Artigo 12.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no artigo 7.º, n.º 1.
 
 Aprovado em sessão plenária em 5 de Março de 1985.
 

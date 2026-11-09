@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1967-04-10'
+version_history:
+  file: decreto-lei-47027.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1966-05-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1967-04-10'
+    amending: pt:dre:509671:por
+    amending_title: Decreto-Lei n.º 47628
+    changes:
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:57:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 47628. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1966/decreto-lei-47027.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,17 +128,27 @@ Considerando que os factos referidos justificam um acto de clemência, por parte
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º São amnistiados os crimes previstos e punidos pelas seguintes disposições do Código de Justiça Militar: n.º 4.º do artigo 91.º, n.º 2.º do artigo 97.º, n.º 2.º do artigo 98.º, n.os 2.º e 3.º do artigo 99.º, artigo 100.º, n.º 2.º do artigo 101.º, n.º 3.º do artigo 104.º, artigos 111.º, 112.º, 115.º e 116.º, n.º 3.º do artigo 142.º, n.º 4.º do artigo 143.º, n.º 4.º do artigo 144.º, n.º 3.º do artigo 146.º, n.º 4.º do artigo 147.º, n.º 3.º do artigo 148.º, § 1.º do artigo 149.º, n.os 2.º e 3.º do artigo 157.º, artigos 158.º e 160.º, § 1.º com referência á primeira parte do n.º 1.º do artigo 170.º, artigo 182.º, n.º 2.º do artigo 183.º, n.º 2.º com referência à segunda parte do corpo do artigo 184.º, artigos 186.º a 189.º, n.º 2.º do artigo 193.º, § único do artigo 195.º, § 1.º do artigo 211.º, § único do artigo 213.º, § 1.º do artigo 216.º, n.º 2.º do artigo 217.º e ainda os dos artigos 218.º, 226.º, 228.º e 229.º, quando o valor não exceda 2000$00 ou quando o agente tenha reparado totalmente o prejuízo causado, não sendo este superior a 10000$00.
+###### Artigo 1.º
+
+São amnistiados os crimes previstos e punidos pelas seguintes disposições do Código de Justiça Militar: n.º 4.º do artigo 91.º, n.º 2.º do artigo 97.º, n.º 2.º do artigo 98.º, n.os 2.º e 3.º do artigo 99.º, artigo 100.º, n.º 2.º do artigo 101.º, n.º 3.º do artigo 104.º, artigos 111.º, 112.º, 115.º e 116.º, n.º 3.º do artigo 142.º, n.º 4.º do artigo 143.º, n.º 4.º do artigo 144.º, n.º 3.º do artigo 146.º, n.º 4.º do artigo 147.º, n.º 3.º do artigo 148.º, § 1.º do artigo 149.º, n.os 2.º e 3.º do artigo 157.º, artigos 158.º e 160.º, § 1.º com referência á primeira parte do n.º 1.º do artigo 170.º, artigo 182.º, n.º 2.º do artigo 183.º, n.º 2.º com referência à segunda parte do corpo do artigo 184.º, artigos 186.º a 189.º, n.º 2.º do artigo 193.º, § único do artigo 195.º, § 1.º do artigo 211.º, § único do artigo 213.º, § 1.º do artigo 216.º, n.º 2.º do artigo 217.º e ainda os dos artigos 218.º, 226.º, 228.º e 229.º, quando o valor não exceda 2000$00 ou quando o agente tenha reparado totalmente o prejuízo causado, não sendo este superior a 10000$00.
 
 § único. A amnistia do crime de deserção depende da apresentação voluntária do desertor até ao fim do ano corrente.
 
-Art. 2.º São também amnistiados os crimes de abuso de autoridade e todos os outros previstos no Código Penal ou em lei especial puníveis com prisão, ou prisão e multa, não superior a um ano, bem como as contravenções, e ainda as infracções disciplinares cometidas no exercício da condução auto.
+###### Artigo 2.º
 
-Art. 3.º São perdoados 90 dias em cada uma das penas aplicadas, ou que venham a ser aplicadas, por crimes cometidos antes da publicação deste diploma e não previstos nos artigos anteriores.
+São também amnistiados os crimes de abuso de autoridade e todos os outros previstos no Código Penal ou em lei especial puníveis com prisão, ou prisão e multa, não superior a um ano, bem como as contravenções, e ainda as infracções disciplinares cometidas no exercício da condução auto.
 
-Art. 4.º Serão anuladas as penas disciplinares previstas nos n.os 1.º a 3.º do artigo 7.º, nos n.os 1.º a 4.º do artigo 15.º, nos n.os 1.º a 6.º do artigo 21.º, nos n.os 1.º a 9.º do artigo 22.º e nos n.os 1.º a 3.º dos artigos 35.º e 36.º, todos do Regulamento de Disciplina Militar, e cancelados os respectivos registos, quando essas penas tenham sido impostas antes da publicação deste decreto-lei.
+###### Artigo 3.º
 
-Art. 5.º Serão anuladas as penas de prisão disciplinar e de prisão disciplinar agravada aplicadas antes da publicação deste diploma e cancelados os respectivos registos, observando-se, porém, o seguinte:
+São perdoados 90 dias em cada uma das penas aplicadas, ou que venham a ser aplicadas, por crimes cometidos antes da publicação deste diploma e não previstos nos artigos anteriores.
+
+###### Artigo 4.º
+
+Serão anuladas as penas disciplinares previstas nos n.os 1.º a 3.º do artigo 7.º, nos n.os 1.º a 4.º do artigo 15.º, nos n.os 1.º a 6.º do artigo 21.º, nos n.os 1.º a 9.º do artigo 22.º e nos n.os 1.º a 3.º dos artigos 35.º e 36.º, todos do Regulamento de Disciplina Militar, e cancelados os respectivos registos, quando essas penas tenham sido impostas antes da publicação deste decreto-lei.
+
+###### Artigo 5.º
+
+Serão anuladas as penas de prisão disciplinar e de prisão disciplinar agravada aplicadas antes da publicação deste diploma e cancelados os respectivos registos, observando-se, porém, o seguinte:
 
 a) Se o infractor não tiver averbada mais do que uma pena de prisão, a anulação e o cancelamento serão feitos imediatamente;
 
@@ -137,11 +162,17 @@ e) Se, havendo mais do que uma pena de prisão, a sua totalidade, feitas as equi
 
 § único. Nos casos das alíneas b) a e) a anulação das penas e o cancelamento dos respectivos registos só poderão dar-se quando os infractores não tenham cometido qualquer infracção penal ou disciplinar dentro dos prazos estabelecidos.
 
-Art. 6.º Se houver autos de reclamação ou de recurso pendentes à data da publicação deste decreto-lei, a aplicação das medidas de clemência, na parte disciplinar, só poderá, ocorrer depois de ter sido proferida decisão final.
+###### Artigo 6.º
 
-Art. 7.º Os militares já transferidos para o Depósito Disciplinar, nos termos dos artigos 201.º e 202.º do Regulamento de Disciplina Militar, regressarão às suas anteriores situações e não será aplicável o disposto nos mencionados preceitos aos que estejam nas condições neles previstas à data da publicação deste diploma.
+Se houver autos de reclamação ou de recurso pendentes à data da publicação deste decreto-lei, a aplicação das medidas de clemência, na parte disciplinar, só poderá, ocorrer depois de ter sido proferida decisão final.
 
-Art. 8.º O presente decreto-lei apenas se aplica às infracções criminais e disciplinares cometidas durante o período em que os seus autores se encontravam apresentados em qualquer dos departamentos do Estado das forças armadas.
+###### Artigo 7.º
+
+Os militares já transferidos para o Depósito Disciplinar, nos termos dos artigos 201.º e 202.º do Regulamento de Disciplina Militar, regressarão às suas anteriores situações e não será aplicável o disposto nos mencionados preceitos aos que estejam nas condições neles previstas à data da publicação deste diploma.
+
+###### Artigo 8.º
+
+O presente decreto-lei apenas se aplica às infracções criminais e disciplinares cometidas durante o período em que os seus autores se encontram apresentados em qualquer dos departamentos do Estado das forças armadas e das forças militarizadas.
 
 § 1.º Os benefícios constantes deste diploma, na parte criminal, não aproveitam a quaisquer reincidentes, aos delinquentes de difícil correcção, nem aos militares referidos no corpo do artigo 40.º do Código de Justiça Militar, que tenham cometido qualquer dos crimes previstos nesse preceito legal. A baixa de posto, aplicada por força do citado código, não será anulada.
 
@@ -149,9 +180,15 @@ Art. 8.º O presente decreto-lei apenas se aplica às infracções criminais e d
 
 § 3.º As penas disciplinares anuladas nos termos deste decreto-lei serão sempre tomadas em consideração para o efeito do disposto no artigo 187.º do Regulamento de Disciplina Militar.
 
-Art. 9.º A amnistia não extingue a responsabilidade civil emergente dos factos praticados.
+> Alterado pelo/a [Decreto-Lei n.º 47628](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47628-1967-509671), publicado em 1967-04-10.
 
-Art. 10.º Este decreto-lei entra imediatamente em vigor.
+###### Artigo 9.º
+
+A amnistia não extingue a responsabilidade civil emergente dos factos praticados.
+
+###### Artigo 10.º
+
+Este decreto-lei entra imediatamente em vigor.
 
 Publique-se e cumpra-se como nele se contém.
 

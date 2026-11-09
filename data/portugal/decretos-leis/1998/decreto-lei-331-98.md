@@ -39,10 +39,63 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2002-11-27'
+version_history:
+  file: decreto-lei-331-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-11-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-11-27'
+    amending: pt:dre:251983:por
+    amending_title: Decreto-Lei n.º 47/2002; Decreto-Lei n.º 257/2002
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::3.º
+    - Altera Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::4.º
+    - Altera Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::8.º
+    - Altera Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::9.º
+    - Altera Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::22.º
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::1.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::2.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::3.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::4.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::5.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::6.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::7.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::8.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::9.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::10.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::11.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::12.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::13.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::14.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::15.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::16.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::17.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::18.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::19.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::20.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::21.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::22.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 2 do artigo 1.º)::23.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/331/1998/11/03/p/dre/pt/html
@@ -68,7 +121,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:01:57Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 47/2002; Decreto-Lei
+    n.º 257/2002. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-331-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -188,41 +242,27 @@ O Governo, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição
 
 ###### Artigo 1.º — Criação, natureza e regime
 
-1 - É criado o Instituto Marítimo-Portuário (IMP), instituto público dotado de personalidade jurídica, autonomia administrativa e financeira e património próprio, que fica sujeito à tutela e superintendência do Ministro do Equipamento, do Planeamento e da Administração do Território.
+(Revogado.)
 
-2 - O IMP rege-se pelo presente decreto-lei e pelos respectivos Estatutos anexos ao presente diploma, do qual fazem parte integrante.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 2.º — Extinção de organismos
 
-1 - São extintos pelo presente diploma a Direcção-Geral de Portos, Navegação e Transportes Marítimos (DGPNTM), o Instituto Nacional de Pilotagem dos Portos (INPP) e o Instituto do Trabalho Portuário (ITP).
+(Revogado.)
 
-2 - O IMP sucede na titularidade de todos os direitos e obrigações, de qualquer fonte e natureza, que se encontrem directamente relacionados com a actividade e as atribuições da DGPNTM, do INPP, relativamente ao Departamento Central, e do ITP.
-
-3 - Até à entrada em vigor de cada um dos diplomas legais que procedem à reestruturação das juntas autónomas dos portos e das administrações portuárias, compete ao IMP assegurar todas as atribuições e competências do INPP.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 3.º — Património
 
-1 - O património do IMP é constituído pela universalidade dos bens e direitos mobiliários e imobiliários que à data da entrada em vigor do presente diploma se encontrem afectos à DGPNTM, incluindo os saldos orçamentais respectivos provenientes de receitas próprias.
+(Revogado.)
 
-2 - O património do ITP e o património do INPP afecto ao Departamento Central são transferidos para o IMP, bem como o património afecto aos restantes departamentos do INPP, na medida em que seja necessário à prossecução das respectivas atribuições.
-
-3 - A relação dos bens e direitos que constituem o património inicial do IMP constará de lista a submeter, no prazo de 90 dias a contar da data da entrada em vigor do presente diploma, à aprovação dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
-
-4 - Até à aprovação da lista referida no número anterior, manter-se-á transitoriamente em vigor o regime de afectação aplicável aos bens e direitos utilizados pelos organismos extintos.
-
-5 - O IMP promoverá junto das conservatórias competentes o registo dos bens e direitos que lhe pertençam e a que estejam legalmente sujeitos.
-
-6 - Para todos os efeitos legais, incluindo os de registo, constitui título de aquisição bastante dos bens integrados no património do IMP, por força do presente diploma, a lista a que se refere o n.º 3, depois de aprovada nos termos do mesmo número.
-
-7 - Os actos relativos à transferência de bens e direitos prevista no presente artigo ficam isentos de quaisquer taxas e emolumentos.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 4.º — Opção pelo contrato individual de trabalho
 
-1 - Os funcionários vinculados ao quadro da extinta DGPNTM e os trabalhadores do Departamento Central do extinto INPP, na data da entrada em vigor do presente diploma, têm o direito de optar pela celebração de um contrato individual de trabalho com o IMP.
+(Revogado.)
 
-2 - O direito de opção previsto no número anterior deverá ser exercido pelo interessado, mediante declaração escrita dirigida ao conselho de administração do IMP, no prazo de 60 dias a contar da data de entrada em vigor do regime do pessoal do IMP prevista no n.º 1 do artigo 10.º do presente diploma.
-
-3 - A cessação do vínculo à função pública, para os funcionários e trabalhadores que optarem pela celebração do contrato individual de trabalho, torna-se efectiva com a respectiva publicitação em aviso no Diário da República.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 5.º — Quadro especial transitório
 
@@ -252,61 +292,47 @@ c) Afectados à Direcção-Geral da Administração Pública, para efeitos de co
 
 ###### Artigo 6.º — Transição para a carreira de inspecção de navios
 
-Para efeitos de integração no quadro especial transitório a que se refere o artigo anterior, o pessoal da carreira técnica superior da extinta DGPNTM que exerça funções de inspecção de navios e segurança marítima neste serviço público e que não tenha ainda transitado para a carreira de inspecção de navios transita, independentemente das habilitações literárias, para esta carreira nos seguintes termos:
+(Revogado.)
 
-a) Os assessores principais transitam para a categoria de inspector superior assessor principal;
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 47/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2002-251983), publicado em 2002-03-02.
 
-b) Os assessores transitam para a categoria de inspector superior assessor;
-
-c) Os técnicos superiores principais, para a categoria de inspector superior principal.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 7.º — Integração dos trabalhadores do ITP
 
-1 - Os trabalhadores do ITP são integrados no IMP, mantendo o regime de contrato individual de trabalho, sendo-lhes contado, para todos os efeitos, todo o tempo de serviço prestado até à data da integração.
+(Revogado.)
 
-2 - Os trabalhadores referidos no número anterior mantêm o regime da segurança social que detinham nos organismos de origem, podendo, no entanto, optar pelo regime geral da segurança social.
-
-3 - A opção prevista no número anterior deverá ser manifestada por escrito, mediante declaração escrita dirigida ao conselho de administração do IMP, no prazo de 60 dias a contar da publicação do despacho a que se refere o n.º 1 do artigo 9.º do presente diploma.
-
-4 - Os trabalhadores do extinto ITP que à data da entrada em vigor do presente diploma se encontrem destacados, requisitados ou em comissão de serviço em entidades públicas ou privadas distintas do ITP continuarão a prestar serviço nessas entidades até ao termo do respectivo destacamento, requisição ou comissão.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 8.º — Subscritores da Caixa Geral de Aposentações
 
-1 - Relativamente aos trabalhadores abrangidos pelo regime de protecção social da função pública, o IMP contribuirá para o financiamento da Caixa Geral de Aposentações com uma importância mensal de montante igual ao das quotas pagas por esses trabalhadores.
+(Revogado.)
 
-2 - Quando não se prevejam resultados líquidos positivos, os encargos resultantes do disposto no número anterior serão satisfeitos através de dotações do Orçamento de Estado, até 2002.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 9.º — Encargos com aposentações do INPP
 
-1 - O fundo de aposentações do INPP, criado pelo [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829), de 3 de Junho, passa para a responsabilidade do IMP, sem prejuízo de os encargos com este fundo serem repartidos pelas outras entidades que venham a suceder nas atribuições dos departamentos locais do INPP, nos termos a fixar por despacho do ministro da tutela.
+(Revogado.)
 
-2 - As actuais responsabilidades do INPP por encargos com pensões pagas pela Caixa Geral de Aposentações são transferidos para o IMP, sem prejuízo do disposto no número anterior.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 10.º — Regimes transitórios
 
-1 - A entrada em vigor do regime do pessoal do IMP previsto nos Estatutos anexos ao presente diploma verifica-se 30 dias após a aprovação dos regulamentos de carreiras, disciplinar e retributivo, que deverão ser elaborados no prazo máximo de 180 dias a contar da data da publicação do presente diploma.
+(Revogado.)
 
-2 - Até à entrada em vigor do regime de pessoal do IMP, mantém-se transitoriamente em vigor o estatuto do pessoal dos organismos extintos, cabendo aos órgãos do IMP exercer nessa matéria as respectivas competências.
-
-3 - Mantém-se do mesmo modo transitoriamente em vigor, até à aprovação dos correspondentes regulamentos internos do IMP, a orgânica interna dos serviços dos organismos extintos.
-
-4 - A gestão financeira do IMP fica sujeita ao regime legal aplicável à extinta DGPNTM, salvaguardada a especificidade dos regimes financeiros dos restantes organismos extintos até 30 dias depois da entrada em vigor do regime referido no n.º 1.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 11.º — Cessação das comissões de serviço
 
-1 - Com a entrada em vigor do presente diploma cessam as comissões de serviço do pessoal dirigente da DGPNTM e dos membros dos conselhos directivos do ITP e do INPP.
+(Revogado.)
 
-2 - Sem prejuízo do disposto no número anterior, e até à nomeação de dirigentes pelo conselho de administração do IMP, os restantes dirigentes dos organismos extintos mantêm-se no exercício das respectivas funções, com poderes de gestão corrente.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 12.º — Norma revogatória
 
-1 - Sem prejuízo da aplicação das disposições de natureza transitória previstas no presente diploma e nos diplomas que venham a reestruturar as juntas autónomas dos portos e as administrações portuárias, são revogados:
+(Revogado.)
 
-a) O [Decreto-Lei n.º 361/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1978-429270), de 27 de Novembro, com excepção dos n.os 1, alínea d), 2, 3 e 4 do artigo 35.º, artigos 58.º, 59.º e 72.º, com a redacção que lhes foi dada pelos artigos 1.º e 5.º do [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829), de 3 de Junho, mantendo-se ainda em vigor as disposições constantes do [Decreto-Lei n.º 188/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1989-609829), de 3 de Junho;
-
-b) O [Decreto-Lei n.º 282-C/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-c-1984-579346), de 20 de Agosto, com a redacção do [Decreto-Lei n.º 356/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1993-669802), de 9 de Outubro;
-
-c) O [Decreto-Lei n.º 319/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1993-655527), de 21 de Setembro.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - Jaime José Matos da Gama - José Veiga Simão - Fernando Teixeira dos Santos - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Luís Lopes da Mota - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.
 
@@ -328,65 +354,45 @@ Estatutos do Instituto Marítimo-Portuário (IMP)
 
 ###### Artigo 1.º — Natureza e sede
 
-1 - O Instituto Marítimo-Portuário, adiante designado IMP, é uma pessoa colectiva de direito público dotada de autonomia administrativa e financeira e de património próprio.
+(Revogado.)
 
-2 - O IMP tem a sua sede em Lisboa, podendo instalar delegações ou serviços em qualquer ponto do território nacional.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 2.º — Regime
 
-O IMP rege-se pelo presente diploma e pelos seus regulamentos internos, bem como por quaisquer outras normas legais aplicáveis aos institutos públicos dotados de autonomia administrativa e financeira.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 3.º — Tutela e superintendência
 
-1 - O IMP exerce a sua acção na dependência tutelar e sob a superintendência do Ministro do Equipamento, do Planeamento e da Administração do Território.
+(Revogado.)
 
-2 - Para além de outros poderes de controlo estabelecidos na lei, estão sujeitos à aprovação dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território:
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2002-251983), publicado em 2002-03-02.
 
-a) O plano de actividades e o orçamento anual;
-
-b) O relatório anual de gestão e as contas de exercício;
-
-c) Os regulamentos de carreiras e disciplinar, bem como o regime retributivo.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ### CAPÍTULO II — Atribuições
 
 ###### Artigo 4.º — Atribuições do IMP
 
-São atribuições do IMP:
+(Revogado.)
 
-a) Apoiar a tutela na definição da política marítimo-portuária nacional e na preparação de diplomas legais e regulamentares;
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2002-251983), publicado em 2002-03-02.
 
-b) Acompanhar a actividade das administrações dos portos, no caso em que os respectivos estatutos ou a lei geral obriguem a aprovação da tutela;
-
-c) Conceber planos e projectos de infra-estruturas portuárias, bem como analisar e programar a execução de planos de investimento público e privado nas áreas de interesse portuário;
-
-d) Assegurar o cumprimento das normas nacionais e internacionais relativas ao sector marítimo-portuário, bem como assegurar a representação do Estado Português nos correspondentes organismos internacionais, quando de outro modo não for determinado;
-
-e) Propor os princípios gerais de articulação de planos de ordenamento portuário com outros instrumentos de ordenamento do território;
-
-f) Fomentar as actividades relacionadas com a actividade portuária, estabelecendo a articulação entre o transporte marítimo e de outros modos de transporte;
-
-g) Assegurar a coordenação do planeamento e do desenvolvimento estratégico do sistema marítimo-portuário;
-
-h) Estudar e propor as normas e critérios técnicos e económicos em matéria de segurança, tarifas, obras e aquisições, exploração de serviços portuários, concessões e licenças nas áreas de jurisdição dos portos e de relações económicas e comerciais com os utentes;
-
-i) Estudar e propor medidas legislativas e regulamentares relativas aos serviços de pilotagem;
-
-j) Apoiar a tutela na preparação e elaboração das medidas necessárias à introdução na ordem jurídica interna das políticas comunitárias do sector marítimo-portuário;
-
-k) Apoiar a tutela na definição das políticas de ensino e formação no sector marítimo-portuário e fiscalizar o cumprimento das normas internacionais a que Portugal se obriga, por parte dos estabelecimentos de ensino náutico;
-
-l) Promover as acções necessárias nas áreas da formação profissional, tendo em vista a modernização e o acréscimo de produtividade no sector do trabalho marítimo.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 5.º — Inspecção e controlo
 
-1 - Compete ao IMP promover a aplicação e fiscalizar o cumprimento das leis, regulamentos, normas e requisitos técnicos aplicáveis no âmbito das suas atribuições.
+(Revogado.)
 
-2 - Para efeitos do número anterior, tem o IMP competência para, directamente ou através de pessoas ou entidades qualificadas, por si credenciadas, proceder aos necessários exames e verificações.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 6.º — Prestação de serviços
 
-No âmbito das suas atribuições, o IMP pode prestar a outras entidades públicas ou privadas serviços de consultadoria, assistência técnica e quaisquer outros que lhe sejam contratados.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ### CAPÍTULO III — Órgãos e serviços
 
@@ -394,300 +400,120 @@ No âmbito das suas atribuições, o IMP pode prestar a outras entidades públic
 
 ###### Artigo 7.º — Órgãos do IMP
 
-São órgãos do IMP:
+(Revogado.)
 
-a) O conselho de administração;
-
-b) O presidente do conselho de administração;
-
-c) O conselho consultivo;
-
-d) A comissão de fiscalização.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 8.º — Conselho de administração
 
-1 - O conselho de administração do IMP é composto por um presidente e por quatro vogais, nomeados por despacho conjunto do Primeiro-Ministro e dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+(Revogado.)
 
-2 - Compete ao conselho de administração:
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2002-251983), publicado em 2002-03-02.
 
-a) Elaborar e submeter à aprovação do ministro da tutela os regulamentos internos do IMP, bem como quaisquer posteriores alterações;
-
-b) Elaborar o plano anual de actividades, bem como as propostas de orçamento e demais instrumentos de gestão provisional legalmente previstos;
-
-c) Elaborar o relatório anual de gestão e de execução orçamental, as contas do exercício e demais instrumentos de prestação de contas;
-
-d) Celebrar acordos de cooperação com outras entidades públicas ou privadas no domínio das suas atribuições;
-
-e) Exercer os poderes de licenciamento, de autorização e de certificação, bem como quaisquer outros compreendidos nas atribuições do IMP, emitindo os títulos representativos das licenças, autorizações e certificações concedidas;
-
-f) Definir a estrutura interna do IMP e o seu funcionamento;
-
-g) Definir e submeter à aprovação do ministro da tutela o regime retributivo, o regulamento de carreiras, o regulamento disciplinar do pessoal e os mapas de pessoal;
-
-h) Decidir sobre a admissão e afectação dos trabalhadores do IMP e praticar os demais actos relativos à gestão de pessoal e ao desenvolvimento da sua carreira;
-
-i) Aplicar as sanções disciplinares que pela lei ou pelo regulamento disciplinar lhe sejam reservadas;
-
-j) Deliberar sobre a aquisição, alienação ou oneração de bens imóveis;
-
-k) Aceitar heranças, legados e doações;
-
-l) Constituir mandatários e designar representantes do IMP junto de outras entidades;
-
-m) Elaborar o cadastro das infra-estruturas portuárias nacionais e assegurar a sua actualização permanente, em articulação com as autoridades portuárias;
-
-n) Elaborar estudos relativos a sistemas e tecnologias da informação, em articulação com as demais entidades competentes, organizando e mantendo actualizadas bases de dados contendo a informação relevante para o sector;
-
-o) Elaborar o plano orientador do desenvolvimento de infra-estruturas e apoios à náutica de recreio;
-
-p) Autorizar o exercício das actividades de transportes marítimos e da náutica de recreio;
-
-q) Vistoriar as embarcações e outros equipamentos flutuantes e proceder à sua certificação, bem como efectuar as inspecções necessárias em ordem a verificar e assegurar o cumprimento das normas nacionais e internacionais aplicáveis;
-
-r) Fixar as lotações de passageiros e tripulantes das embarcações e emitir os respectivos certificados;
-
-s) Verificar as condições legais e técnicas do exercício da actividade do pessoal do mar, nomeadamente no que se refere à inscrição marítima, carreiras e certificações, bem como as condições de segurança, higiene e bem-estar a bordo;
-
-t) Coordenar e executar as inspecções relativas ao controlo dos navios estrangeiros;
-
-u) Emitir parecer relativamente aos projectos legais e regulamentares na área do trabalho portuário;
-
-v) Emitir parecer relativamente ao licenciamento de empresas de estiva;
-
-w) Exercer outros poderes que sejam necessários à realização das atribuições do IMP e não pertençam à competência de outros órgãos.
-
-3 - O conselho de administração reúne ordinariamente uma vez por semana e extraordinariamente quando for convocado pelo presidente, por iniciativa sua ou mediante solicitação de pelo menos dois dos restantes membros.
-
-4 - As deliberações do conselho de administração tornam-se eficazes logo que se encontrem regularmente aprovadas as respectivas actas.
-
-5 - O IMP obriga-se perante terceiros mediante a assinatura de dois membros do conselho de administração, sendo uma delas a do presidente ou de quem o substitua nas suas ausências e impedimentos, salvos os casos em que este estabelecer outra forma de representação ou designar mandatários para o efeito.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 9.º — Presidente do conselho de administração
 
-1 - Compete ao presidente do conselho de administração do IMP:
+(Revogado.)
 
-a) Convocar e presidir às reuniões do conselho de administração, coordenar a sua actividade e promover a execução das suas deliberações;
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2002-251983), publicado em 2002-03-02.
 
-b) Representar o IMP em juízo e fora dele, incluindo na outorga dos contratos submetidos a um regime de direito público;
-
-c) Assegurar as relações do IMP com o ministro da tutela, apresentando todos os assuntos que devam ser submetidos à sua apreciação;
-
-d) Orientar e coordenar a actividade interna do IMP e prover em tudo o que for necessário à conservação e gestão do seu património;
-
-e) Autorizar despesas dentro dos limites que forem fixados pelo conselho de administração e exercer os demais poderes que lhe forem atribuídos por lei ou regulamento;
-
-f) Aplicar coimas e sanções acessórias em processos de contra-ordenação da competência do IMP.
-
-2 - Sempre que o exijam circunstâncias excepcionais e urgentes e não seja possível reunir extraordinariamente o conselho de administração, o presidente pode praticar quaisquer actos do conselho de administração, os quais deverão, no entanto, ser ratificados na primeira reunião realizada após a sua prática.
-
-3 - O presidente do conselho de administração designará o vogal que o substitui nas suas ausências e impedimentos e, na falta de designação, será substituído pelo vogal mais antigo ou, em caso de igual antiguidade, pelo vogal de mais idade.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 10.º — Delegação de poderes
 
-1 - O conselho de administração pode delegar a sua competência em qualquer dos seus membros.
+(Revogado.)
 
-2 - A delegação de poderes a que se refere o número anterior pode ser feita mediante a atribuição de pelouros especiais correspondentes à gestão de um ou mais serviços ou unidades orgânicas internas do IMP.
-
-3 - A atribuição de um pelouro implica a delegação das competências necessárias para dirigir e fiscalizar os serviços respectivos, para proceder à colocação, afectação e gestão do seu pessoal, para decidir da utilização de equipamentos e para praticar todos os demais actos de gestão corrente dos departamentos envolvidos.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 11.º — Estatuto dos membros do conselho de administração
 
-1 - Os membros do conselho de administração do IMP estão sujeitos ao estatuto dos gestores públicos e auferem a remuneração que for fixada por despacho conjunto do Ministros das Finanças e da tutela e do membro do Governo que tutele a Administração Pública.
+(Revogado.)
 
-2 - É aplicável aos membros do conselho de administração do IMP o regime geral da segurança social, salvo quando pertencerem aos quadros da função pública, caso em que lhes será aplicável o regime próprio do seu lugar de origem.
-
-3 - Os membros do conselho de administração do IMP exercem as suas funções a tempo inteiro e estão sujeitos ao regime de incompatibilidades previsto na lei para os titulares de altos cargos públicos.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 12.º — Conselho consultivo
 
-1 - O conselho consultivo é composto por:
+(Revogado.)
 
-a) O presidente do conselho de administração do IMP, que preside;
-
-b) Um representante da Direcção-Geral da Marinha;
-
-c) Um representante da Direcção-Geral dos Transportes Terrestres;
-
-d) Um representante da Direcção-Geral das Pescas e Aquicultura;
-
-e) Um representante do Ministério do Ambiente;
-
-f) Um representante de cada uma das autoridades portuárias;
-
-g) Um representante da associação representativa dos armadores da marinha do comércio;
-
-h) Um representante da associação representativa dos armadores do tráfego fluvial;
-
-i) Um representante do Conselho Português de Carregadores;
-
-j) Dois representantes dos sindicatos representativos do pessoal do sector portuário;
-
-k) Dois representantes dos sindicatos representativos do pessoal do mar;
-
-l) Um representante das associações dos agentes de navegação;
-
-m) Um representante dos operadores portuários.
-
-2 - Os membros do conselho consultivo são designados pelas entidades que representarem, a solicitação do IMP.
-
-3 - Ao conselho consultivo compete dar parecer sobre quaisquer assuntos relacionados com as atribuições do IMP que lhes sejam submetidos pelo conselho de administração.
-
-4 - Quando o presidente do conselho consultivo entender por conveniente, podem ser convidadas outras entidades a assistir às reuniões do conselho, com estatuto de observador.
-
-5 - O conselho consultivo funciona em sessões plenárias ou por comissões especializadas, de acordo com o respectivo regulamento interno.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 13.º — Comissão de fiscalização
 
-1 - A comissão de fiscalização do IMP é composta por um presidente e dois vogais, um dos quais revisor oficial de contas, a nomear por despacho dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+(Revogado.)
 
-2 - O mandato dos membros da comissão de fiscalização tem a duração de três anos, podendo ser renovado por iguais períodos.
-
-3 - Compete à comissão de fiscalização:
-
-a) Acompanhar a gestão do IMP e fiscalizar o cumprimento das normas legais, financeiras e contabilísticas aplicáveis;
-
-b) Dar parecer sobre o orçamento, o relatório de actividades, as contas anuais de exercício e demais instrumentos de prestação de contas previstos na lei;
-
-c) Verificar a execução do orçamento e do plano de actividades aprovados e examinar regularmente a contabilidade;
-
-d) Fiscalizar a gestão do património do IMP e verificar o respectivo cadastro;
-
-e) Dar parecer sobre a aquisição, alienação ou oneração de bens imóveis;
-
-f) Participar às autoridades competentes as irregularidades de que tomar conhecimento no exercício das suas funções;
-
-g) Colaborar com as auditorias externas realizadas por determinação dos órgãos de administração do IMP, prestando as informações e o apoio que lhe forem solicitados;
-
-h) Pronunciar-se sobre qualquer outro assunto submetido à sua apreciação pelo presidente do IMP.
-
-4 - A comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que for convocada pelo seu presidente, por sua iniciativa, ou por qualquer outro dos seus membros.
-
-5 - O presidente da comissão de fiscalização, por sua iniciativa ou a convite do presidente do conselho de administração, pode tomar parte ou fazer-se representar por outros membros da comissão, sem direito a voto, em reuniões do conselho de administração.
-
-6 - A remuneração dos membros da comissão de fiscalização é fixada por despacho dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território e do membro do Governo que tutele a Administração Pública.
-
-7 - Os membros da comissão de fiscalização podem ser exonerados a todo o tempo, não adquirindo por esse facto direito a qualquer compensação.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 #### SECÇÃO II — Serviços
 
 ###### Artigo 14.º — Organização dos serviços
 
-1 - A organização dos serviços e unidades orgânicas internas do IMP é definida em regulamento próprio, aprovado pelo conselho de administração.
+(Revogado.)
 
-2 - A organização dos serviços obedecerá aos critérios de especialização horizontal e vertical de funções que se mostrarem mais adequados ao bom desempenho do IMP e ao racional aproveitamento dos seus meios.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ### CAPÍTULO IV — Pessoal
 
 ###### Artigo 15.º — Regime contratual
 
-1 - O pessoal do IMP está sujeito ao regime jurídico do contrato individual de trabalho, com as especialidades previstas nos presentes Estatutos e seus regulamentos.
+(Revogado.)
 
-2 - As condições de prestação e de disciplina do trabalho são definidas em regulamento próprio do IMP, com observância das disposições legais imperativas do regime do contrato individual de trabalho, bem como das disposições constantes de instrumentos de regulamentação colectiva de trabalho.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 16.º — Transição dos regimes de segurança social
 
-1 - O pessoal da extinta DGPNTM e os trabalhadores do Departamento Central do extinto INPP que optem pelo regime do contrato individual de trabalho serão integrados no regime geral da segurança social.
+(Revogado.)
 
-2 - Ao pessoal a que se refere o número anterior e ao pessoal do extinto ITP que tenha optado pelo regime geral da segurança social será contado, para todos os efeitos, nomeadamente para o cálculo das pensões a que tenha direito, o tempo de serviço prestado até à data da mudança de regime.
-
-3 - O cálculo das pensões do pessoal que tenha exercido o direito de opção, bem como a repartição dos encargos correspondentes, processar-se-ão nos termos do regime legal da pensão unificada, sem prejuízo dos direitos consagrados na lei geral.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 17.º — Regime de requisição
 
-1 - Os funcionários da extinta DGPNTM e os trabalhadores do Departamento Central do INPP que, no prazo fixado no n.º 2 do artigo 4.º do decreto-lei que aprova os presentes Estatutos, não tenham exercido o direito de opção pelo contrato individual de trabalho serão integrados no quadro especial transitório criado na Secretaria-Geral do Ministério do Equipamento, do Planeamento e da Administração do Território e exercerão as suas funções no IMP em regime de requisição por tempo indeterminado.
+(Revogado.)
 
-2 - A requisição a que se refere o número anterior cessa quando ocorrer algum dos seguintes factos:
-
-a) Desvinculação da função pública;
-
-b) Aposentação;
-
-c) Provimento definitivo noutro cargo público;
-
-d) Licença sem vencimento que implique abertura de vaga.
-
-3 - Sem prejuízo dos direitos adquiridos quanto à relação jurídica de emprego público e sua modificação, remunerações, regalias de carácter social, antiguidade e regimes de aposentação e sobrevivência, os funcionários e agentes do quadro especial transitório ficam sujeitos aos presentes Estatutos e aos regulamentos internos do IMP em tudo quanto respeita à sua situação laboral e disciplinar e ao desenvolvimento da sua carreira, salvo o disposto nos números seguintes.
-
-4 - São aplicáveis aos funcionários e agentes do quadro especial transitório as normas da função pública em matéria de segurança social, designadamente no que se refere a aposentação, pensão de sobrevivência, abono de família e prestações complementares e assistência na doença, incidindo as deduções devidas sobre a totalidade da retribuição correspondente aos cargos exercidos no IMP.
-
-5 - As penas de demissão e de aposentação compulsiva da função pública são da competência exclusiva do ministro da tutela, sendo aplicáveis nos termos previstos no regime disciplinar do funcionalismo público.
-
-6 - A integração dos funcionários e agentes nas carreiras de pessoal do IMP será feita respeitando critérios de progressão não menos favoráveis do que os existentes nos organismos extintos.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 18.º — Mobilidade
 
-1 - Os trabalhadores do IMP podem, qualquer que seja a natureza do seu vínculo, desempenhar funções noutras entidades, em regime de comissão de serviço, destacamento ou requisição, nos termos da lei.
+(Revogado.)
 
-2 - A requisição no IMP é suspensa durante o exercício transitório de funções noutras entidades por parte dos funcionários vinculados ao quadro especial transitório, nos termos do número anterior, sendo automaticamente retomada no termo do exercício das referidas funções.
-
-3 - Os funcionários e agentes da Administração Pública, assim como os trabalhadores de empresas públicas ou privadas e das sociedades de capitais públicos, podem exercer funções no IMP em regime de destacamento, requisição ou comissão de serviço.
-
-4 - As funções desempenhadas nos termos dos números anteriores efectuam-se com garantia do lugar de origem e sem prejuízo de quaisquer direitos, sendo, designadamente, tais funções consideradas, para efeitos de contagem de tempo de serviço, como tendo sido exercidas no lugar de origem.
-
-5 - Para efeitos do disposto no n.º 1, considera-se como remuneração do lugar de origem a auferida no IMP.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 19.º — Poderes de autoridade
 
-1 - O pessoal do IMP que desempenhe funções de inspecção e fiscalização é detentor dos necessários poderes de autoridade e no exercício dessas funções goza das seguintes prerrogativas:
+(Revogado.)
 
-a) Aceder e inspeccionar, a qualquer hora e sem necessidade de aviso prévio, as instalações, equipamentos, serviços e documentos das entidades sujeitas a inspecção e fiscalização do IMP;
-
-b) Requisitar para análise equipamentos e documentos;
-
-c) Identificar as pessoas que se encontrem em violação flagrante das normas cuja observância lhe compete fiscalizar, no caso de não ser possível o recurso à autoridade policial em tempo útil;
-
-d) Solicitar a intervenção das autoridades administrativas e policiais quando o julgue necessário ao desempenho das suas funções.
-
-2 - O disposto nas alíneas a), b) e d) do n.º 1 é igualmente aplicável às entidades e agentes credenciados pelo IMP para o exercício de funções de fiscalização, nos termos do n.º 2 do artigo 5.º destes Estatutos.
-
-3 - Os trabalhadores e agentes credenciados do IMP titulares das prerrogativas previstas neste artigo usarão um documento de identificação próprio, de modelo a fixar por portaria do ministro da tutela, e deverão exibi-lo quando no exercício das suas funções.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ### CAPÍTULO V — Regime financeiro e patrimonial
 
 ###### Artigo 20.º — Receitas do IMP
 
-1 - Constituem receitas próprias do IMP:
+(Revogado.)
 
-a) Uma percentagem das receitas de exploração de cada porto, a fixar anualmente por despacho do ministro da tutela;
-
-b) O produto das taxas devidas pelas prestações de serviço público compreendidas na sua competência e pela emissão de licenças, certificações e títulos análogos;
-
-c) O produto total das coimas que sejam aplicadas pelo IMP;
-
-d) Os rendimentos provenientes da gestão do seu património, mobiliário e imobiliário, assim como o dos bens do domínio público ou privado do Estado confiados à sua administração;
-
-e) O produto da alienação ou oneração dos bens que lhe pertencem;
-
-f) Os rendimentos resultantes de contratos de prestação de serviços;
-
-g) As heranças, legados ou doações que lhe sejam destinados;
-
-h) Quaisquer outras receitas que lhe sejam atribuídas por lei, acto ou contrato.
-
-2 - As receitas a que se refere a alínea a) do n.º 1 serão transferidas trimestralmente pelas respectivas administrações dos portos, tendo em consideração as atribuições a que se refere o artigo 4.º
-
-3 - Constituem ainda receitas do IMP as dotações e transferências do Orçamento do Estado e as comparticipações ou transferências financeiras e subsídios provenientes de quaisquer outras entidades públicas.
-
-4 - A cobrança coerciva de receitas próprias do IMP previstas na alínea b) do n.º 1 será efectuada nos termos previstos na lei, através do processo de execução fiscal.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 21.º — Instrumentos de gestão financeira
 
-A gestão financeira do IMP é disciplinada pelos instrumentos de gestão previsional, pelos documentos de prestação de contas e pelo balanço social previstos na lei geral aplicável aos organismos públicos dotados de autonomia administrativa e financeira.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 22.º — Controlo financeiro e prestação de contas
 
-1 - A actividade financeira do IMP está sujeita ao controlo exercido pela comissão de fiscalização, directamente ou através da realização de auditorias solicitadas a entidades independentes, bem como aos demais sistemas de controlo previstos na lei.
+(Revogado.)
 
-2 - Os actos e contratos do IMP não estão sujeitos a visto do Tribunal de Contas.
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2002-251983), publicado em 2002-03-02.
 
-3 - As contas do IMP, depois de aprovadas pelo ministro da tutela, são remetidas ao Tribunal de Contas, para julgamento.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 23.º — Isenção de taxas
 
-1 - O IMP está isento de todas as taxas, custas e emolumentos nos processos de qualquer natureza, actos notariais e outros em que intervenha.
+(Revogado.)
 
-2 - Ao intervir nos actos previstos no número anterior, o IMP actua no interesse do Estado e, nessa medida, a isenção de emolumentos concedida nos termos daquele número abrange igualmente os emolumentos pessoais e as importâncias correspondentes à participação emolumentar devida aos notários, conservadores e oficiais do registo e notariado pela intervenção nos referidos actos.
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.
 
 ###### Artigo 24.º — Regime subsidiário
 
-Em tudo o que não se encontre expressamente previsto nos presentes Estatutos é aplicável ao IMP o regime financeiro dos organismos da Administração Pública dotados de autonomia administrativa e financeira.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 257/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-2002-448755), publicado em 2002-11-22.

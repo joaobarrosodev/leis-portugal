@@ -38,10 +38,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-05-10'
+version_history:
+  file: decreto-legislativo-regional-21-2000-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-08-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-05-10'
+    amending: pt:dre:313839:por
+    amending_title: Decreto Legislativo Regional n.º 12/2001/M
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 21.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/21/2000/08/21/m/dre/pt/html
@@ -67,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    12/2001/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2000/decreto-legislativo-regional-21-2000-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -294,7 +314,7 @@ c) Critério C - contributo para a consolidação financeira da empresa.
 
 2 - O cálculo da VE resulta da ponderação dos critérios atrás referidos, segundo metodologia a definir por portaria do secretário regional que tutele o IDE-RAM.
 
-###### Artigo 7.º — Natureza e intensidade do incentivo
+###### Artigo 7.º — Natureza, intensidade e cumulação do incentivo
 
 1 - O incentivo a conceder pelo SIPPE-RAM assume a forma mista de incentivo não reembolsável e incentivo reembolsável correspondente a uma percentagem das despesas elegíveis do projecto, a definir por portaria do secretário regional que tutele o IDE-RAM.
 
@@ -302,11 +322,15 @@ c) Critério C - contributo para a consolidação financeira da empresa.
 
 3 - A taxa de majoração e as zonas prioritárias a que se refere o n.º 2 são definidas por portaria do secretário regional que tutele o IDE-RAM.
 
-4 - Dado tratar-se de um sistema com enquadramento «MINIMIS», os incentivos a conceder não podem ultrapassar 100000 euros (20048200$00) por promotor durante um período de três anos, contados a partir da data da aprovação do primeiro incentivo.
+4 - Dado tratar-se de um sistema com enquadramento «MINIMIS», os incentivos a conceder, no âmbito do SIPPE-RAM, revestem a natureza minimis, não podendo exceder os (euro) 100000 (20048200$00), por promotor, durante um período de três anos, contados a partir da data de aprovação do primeiro incentivo.
 
-5 - Ficam igualmente sujeitos a este limite máximo por promotor durante o mesmo período os incentivos concedidos no âmbito de outros regimes, cujo apoio máximo atribuível não possa também ultrapassar os 100000 euros (redacção geral minimis).
+5 - Os incentivos de minimis referidos no número anterior são cumuláveis entre si, não podendo o total de incentivos cumulados ultrapassar o montante máximo de (euro) 100000 (20048200$00), por promotor, durante um período de três anos, contados a partir da data de aprovação do primeiro incentivo.
 
-6 - Para as mesmas despesas elegíveis, os incentivos concedidos ao abrigo do presente regime não são acumuláveis com quaisquer outros da mesma natureza.
+6 - Os incentivos de minimis, referidos no âmbito do SIPPE-RAM, são também cumuláveis com outros sistemas de incentivos de minimis, desde que de tal cumulação resulte o preenchimento das condições referidas no número anterior.
+
+7 - Para as mesmas despesas elegíveis, os incentivos concedidos ao abrigo do presente regime não são acumuláveis com quaisquer outros da mesma natureza.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10.
 
 ###### Artigo 8.º — Processo de decisão
 
@@ -316,7 +340,11 @@ c) Critério C - contributo para a consolidação financeira da empresa.
 
 3 - É criada a comissão de selecção do SIPPE-RAM, presidida pelo IDE-RAM, que integra representantes do IDE-RAM, da Direcção Regional do Planeamento e um representante da Secretaria Regional da Educação para a área da formação profissional.
 
-4 - Podem ser associados à gestão do SIPPE-RAM entes públicos, associações comerciais e industriais, instituições de crédito ou sociedades financeiras com especial vocação para apoio ao investimento produtivo.
+4 - As candidaturas aos apoios financeiros previstos neste diploma são aprovadas pelo gestor regional dos fundos comunitários, sob parecer da unidade de gestão do Programa Operacional Plurifundos da Região Autónoma da Madeira (POPRAM III) e submetidas a homologação do Vice-Presidente do Governo Regional e do Secretário Regional do Plano e Finanças.
+
+5 - Podem ser associados à gestão do SIPPE-RAM entes públicos, associações comerciais e industriais, instituições de crédito ou sociedades financeiras com especial vocação para apoio ao investimento produtivo.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10.
 
 ###### Artigo 9.º — Competências
 
@@ -333,6 +361,10 @@ d) Propor o montante de incentivos a conceder e hierarquizar os projectos de aco
 e) Fiscalizar e acompanhar a execução dos projectos;
 
 f) Efectuar o pagamento dos incentivos.
+
+g) Elaborar as minutas de contrato de concessão de incentivos;
+
+h) Celebrar com os promotores os contratos de concessão de incentivos.
 
 2 - Compete à Direcção Regional de Planeamento, nomeadamente, efectuar a avaliação do impacte dos projectos realizados, tendo em conta os seus objectivos e enquadramento estratégico regional, através dos relatórios remetidos ao gestor do POPRAM.
 
@@ -352,7 +384,9 @@ c) Solicitar, sempre que necessário, parecer a outras entidades;
 
 d) Elaborar a lista dos projectos seleccionados e não seleccionados, devidamente quantificados e fundamentados, em função dos critérios de selecção;
 
-e) Submeter os referidos projectos a homologação do secretário regional que tutela o IDE-RAM.
+e) Submeter os referidos projectos a aprovação do gestor regional dos fundos comunitários, sob parecer da unidade de gestão do POPRAM III.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10.
 
 ###### Artigo 10.º — Processo e prazos de apreciação das candidaturas
 
@@ -378,7 +412,7 @@ e) Submeter os referidos projectos a homologação do secretário regional que t
 
 1 - A concessão dos apoios é formalizada mediante contrato.
 
-2 - A minuta do contrato que formaliza a concessão dos apoios é previamente homologada pelo secretário regional que tutela o IDE-RAM, dela devendo constar cláusulas relativas aos objectivos do projecto, ao montante do apoio financeiro concedido, aos direitos e deveres das partes e, sendo caso disso, às garantias a prestar.
+2 - A minuta de contrato que formaliza a concessão dos apoios é previamente homologada pelo Vice-Presidente do Governo Regional e pelo Secretário Regional do Plano e Finanças, dela devendo constar cláusulas relativas aos objectivos do projecto, ao montante do apoio financeiro concedido, aos direitos e deveres das partes e, sendo caso disso, às garantias a prestar.
 
 3 - A decisão de concessão dos apoios caduca caso os contratos não se celebrem, por razões imputáveis às entidades beneficiárias, no prazo que vier a ser fixado por portaria do secretário que tutela o IDE-RAM.
 
@@ -390,13 +424,15 @@ b) Alteração do projecto que implique modificação do montante dos apoios con
 
 c) Alteração imprevisível dos pressupostos contratuais.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10.
+
 ###### Artigo 13.º — Cessão de posição contratual
 
 A cessão da posição contratual por parte das entidades beneficiárias só pode ter lugar por motivos devidamente justificados e após autorização do secretário regional que tutela o IDE-RAM.
 
 ###### Artigo 14.º — Resolução do contrato
 
-1 - O contrato pode ser resolvido unilateralmente, desde que se verifiquem as seguintes situações:
+1 - O contrato pode ser resolvido por despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional do Plano e Finanças, sob proposta fundamentada da comissão de selecção e parecer da unidade de gestão, com base nas informações fornecidas pelo IDE-RAM, desde que se verifiquem as seguintes situações:
 
 a) Não cumprimento, por facto imputável à entidade beneficiária, dos objectivos e obrigações estabelecidos no contrato, incluindo os prazos relativos ao início da realização do investimento e da sua conclusão;
 
@@ -404,9 +440,13 @@ b) Não cumprimento, por facto imputável à entidade beneficiária, das respect
 
 c) Prestação de informações falsas sobre a situação da entidade beneficiária ou viciação de dados fornecidos na apresentação e apreciação e acompanhamento dos investimentos.
 
-2 - A resolução do contrato implica a devolução do montante do incentivo já recebido, no prazo de 60 dias a contar da data da sua notificação, acrescido de juros calculados à taxa indicada no contrato de concessão dos incentivos.
+2 - A decisão de resolução é comunicada ao promotor pelo IDE-RAM.
 
-3 - Quando a resolução se verificar pelo motivo referido na alínea c) do n.º 1, a entidade beneficiária não poderá apresentar candidaturas a quaisquer apoios pelo período de cinco anos.
+3 - A resolução do contrato implica a devolução do montante do incentivo já recebido, no prazo de 60 dias a contar da data da sua notificação, acrescido de juros calculados à taxa indicada no contrato de concessão dos incentivos.
+
+4 - Quando a resolução se verificar pelo motivo referido na alínea c) do n.º 1, a entidade beneficiária não poderá apresentar candidaturas a quaisquer apoios pelo período de cinco anos.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10.
 
 ###### Artigo 15.º — Pagamento de incentivos
 
@@ -493,6 +533,12 @@ A concessão dos incentivos previstos neste diploma não isenta os promotores do
 3 - Os projectos do Sistema de Apoio às Microempresas Comerciais referido no n.º 1 não estão sujeitos ao limite mínimo previsto na alínea d) do artigo 4.º do presente diploma.
 
 4 - Os projectos cujas candidaturas no âmbito do SIPPE-RAM sejam recepcionadas no âmbito das duas primeiras fases de selecção podem ser comparticipados nas despesas efectuadas após 1 de Julho de 1999.
+
+5 - A recepção, análise e aprovação dos projectos de investimento que se enquadrem nas actividades indicadas na alínea e) do n.º 1 do artigo 2.º e incluídas nas subclasses 60211, 60212, 60220 e 60240, todas da CAE, só serão admitidas, após conclusão do procedimento de notificação prévia da Comissão Europeia, nos termos do n.º 3 do artigo 88.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) e do Regulamento (CE) n.º [69/2001](http://data.europa.eu/eli/reg/2001/69/oj?locale=pt), da Comissão, de 12 de Janeiro, publicado no Jornal Oficial das Comunidades Europeias (JOCE), de 13 de Janeiro de 2001, referente aos auxílios de minimis.
+
+6 - As referências feitas, no Decreto Legislativo Regional n.º 21/2000/M, de 21 de Agosto, ao Secretário Regional que tutela o IDE-RAM e ao Secretário Regional do Plano e Coordenação consideram-se reportadas ao Vice-Presidente do Governo Regional e ao Secretário Regional do Plano e Finanças, respectivamente.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 12/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2001-313839), publicado em 2001-05-10.
 
 ###### Artigo 22.º — Vigência do SIPPE-RAM
 

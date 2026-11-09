@@ -1,0 +1,101 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:313627:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1967-08-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "beda9bdd8e481f9c"
+   ]
+  },
+  {
+   "date": "1974-09-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:473281:por",
+     "title": "Decreto-Lei n.º 469/74",
+     "published": "1974-09-20",
+     "dre_path": "/dr/detalhe/decreto-lei/469-1974-473281"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "de74650c96a7cf5e",
+    "2af420b9c0f8147e",
+    "d6ab1f1c97a6d1e4",
+    "9ab926694adda503",
+    "4d63ea3fe6be3b7b",
+    "6cb88df27b88cb19"
+   ]
+  }
+ ],
+ "fragments": {
+  "beda9bdd8e481f9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que o Grémio dos Industriais de Óleos Vegetais de Moçambique vem utilizando há dez anos empréstimos em conta corrente concedidos, com o aval da Junta do Comércio Externo, pelo Banco Nacional Ultramarino para financiamento das campanhas de comercialização das matérias-primas necessárias ao abastecimento fabril dos seus associados;\n\nVerificada a circunstância, em virtude do aumento do volume das matérias-primas comercializadas por este método e da própria expansão da produção de oleaginosas da província, de o financiamento exigido para a campanha que se inicia este ano ultrapassar os limites permissíveis de acordo com a legislação em vigor e os estatutos daquela instituição bancária para operações sem aval oficial;\n\nReconhecido o interesse que reveste para a economia da província e de todo o espaço económico nacional a manutenção de um sistema que tem assegurado a colocação da produção de oleaginosas da agricultura moçambicana e o regular abastecimento da indústria transformadora local;\n\nTendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por motivo de urgência;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:\n\nArtigo 1.º - 1. É autorizado o Governo-Geral de Moçambique a prestar aval a empréstimo a efectuar por bancos nacionais, em conjunto ou isoladamente, ao Grémio dos Industriais de Óleos Vegetais para aquisição de matérias-primas na província necessárias ao abastecimento dos seus agremiados durante a campanha compreendida entre 7 de Junho de 1967 e 14 de Dezembro de 1968.\n\n2. A responsabilidade da província decorrente do aval não excederá o montante de 200000000$00.\n\n3. O empréstimo, que poderá ser desdobrado em várias operações respeitando a determinadas matérias-primas ou grupos de matérias-primas e válidas por períodos diferentes, mas sempre compreendidos no período previsto na parte final do n.º 1 deste artigo, assumirá, em qualquer caso, a forma de empréstimo em conta corrente. O Grémio dos Industriais de Óleos Vegetais movimentará o ou os créditos concedidos, sacando as importâncias necessárias ao pagamento das matérias-primas que vá adquirindo e depositando uma proporção não inferior a 80 por cento do valor das vendas dos produtos manufacturados com essas matérias-primas.\n\nArt. 2.º - 1. O prazo de utilização dos créditos não excederá por mais de dois meses o período da campanha e o pagamento das responsabilidades garantidas pela província, nos termos do artigo anterior, deverá ser efectuado até seis meses após o fecho da campanha.\n\n2. Findos os prazos previstos no n.º 1, extinguir-se-á o aval prestado pela província de Moçambique.\n\n3. A requerimento do Grémio, e com parecer favorável do Governo-Geral da província, poderá, por simples despacho do Ministro do Ultramar, ser autorizada a renovação por campanhas sucessivas da concessão do aval previsto no n.º 1 do artigo 1.º deste decreto.\n\nArt. 3.º - 1. Na execução do aval observar-se-ão as seguintes normas:\n\na) O Grémio dos Industriais de óleos Vegetais, caso não possa efectuar dentro do prazo fixado no n.º 1 do artigo 2.º do presente decreto o ou os pagamentos avalizados pela província de Moçambique, comunicá-lo-á ao Governo-Geral da província com a antecedência mínima de dois meses, independentemente das comunicações que deva fazer ao banco ou bancos mutuantes;\n\nb) O banco ou bancos mutuantes, caso venha a verificar-se a hipótese prevista na alínea anterior, darão conhecimento ao Governo-Geral da província das medidas tomadas para liquidação das responsabilidades avalizadas com a antecedência mínima de 45 dias sobre o termo do prazo;\n\nc) O Governo-Geral da província, no caso de os pagamentos não poderem ser feitos pelo Grémio beneficiário, abrirá os créditos necessários ao pagamento das importâncias em dívida ao banco ou banco mutuantes.\n\nArt. 4.º - 1. Pelas quantias que despender para satisfação das responsabilidades assumidas por força do disposto no artigo 1.º a província gozará, nos termos do artigo 735.º do Código Civil, de privilégio creditório sobre os bens mobiliários do Grémio e dos seus agremiados, respondendo estes solidàriamente.\n\n2. Se, nos termos do aval prestado, a província de Moçambique tiver que fazer quaisquer pagamentos, os créditos daí resultantes vencerão o juro de redesconto em vigor no banco emissor da província.\n\nArt. 5.º - 1. O Estado terá o direito de nomear um delegado do Governo junto do Grémio durante o período em que existam responsabilidades da província de correntes do aval concedido.\n\n2. O delegado do Governo junto do Grémio poderá tomar conhecimento directo da contabilidade, documentos e quaisquer outros elementos que repute necessários a uma conveniente fiscalização.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 12 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.\n\nPara ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha."
+  },
+  "de74650c96a7cf5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que o Grémio dos Industriais de Óleos Vegetais de Moçambique vem utilizando há dez anos empréstimos em conta corrente concedidos, com o aval da Junta do Comércio Externo, pelo Banco Nacional Ultramarino para financiamento das campanhas de comercialização das matérias-primas necessárias ao abastecimento fabril dos seus associados;\n\nVerificada a circunstância, em virtude do aumento do volume das matérias-primas comercializadas por este método e da própria expansão da produção de oleaginosas da província, de o financiamento exigido para a campanha que se inicia este ano ultrapassar os limites permissíveis de acordo com a legislação em vigor e os estatutos daquela instituição bancária para operações sem aval oficial;\n\nReconhecido o interesse que reveste para a economia da província e de todo o espaço económico nacional a manutenção de um sistema que tem assegurado a colocação da produção de oleaginosas da agricultura moçambicana e o regular abastecimento da indústria transformadora local;\n\nTendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por motivo de urgência;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:"
+  },
+  "2af420b9c0f8147e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1974-09-20",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 469/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/469-1974-473281), publicado em 1974-09-20."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1. É autorizado o Governo-Geral de Moçambique a prestar aval a empréstimo a efectuar por bancos nacionais, em conjunto ou isoladamente, ao Grémio dos Industriais de Óleos Vegetais para aquisição de matérias-primas na província necessárias ao abastecimento dos seus agremiados durante a campanha compreendida entre 7 de Junho de 1967 e 14 de Dezembro de 1968.\n\n2. A responsabilidade do Estado de Moçambique decorrente do aval não excederá o montante de 300000000$00.\n\n3. O empréstimo, que poderá ser desdobrado em várias operações respeitando a determinadas matérias-primas ou grupos de matérias-primas e válidas por períodos diferentes, mas sempre compreendidos no período previsto na parte final do n.º 1 deste artigo, assumirá, em qualquer caso, a forma de empréstimo em conta corrente. O Grémio dos Industriais de Óleos Vegetais movimentará o ou os créditos concedidos, sacando as importâncias necessárias ao pagamento das matérias-primas que vá adquirindo e depositando uma proporção não inferior a 80 por cento do valor das vendas dos produtos manufacturados com essas matérias-primas.\n\n> Alterado pelo/a [Decreto-Lei n.º 469/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/469-1974-473281), publicado em 1974-09-20."
+  },
+  "d6ab1f1c97a6d1e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. O prazo de utilização dos créditos não excederá por mais de dois meses o período da campanha e o pagamento das responsabilidades garantidas pela província, nos termos do artigo anterior, deverá ser efectuado até seis meses após o fecho da campanha.\n\n2. Findos os prazos previstos no n.º 1, extinguir-se-á o aval prestado pela província de Moçambique.\n\n3. A requerimento do Grémio, e com parecer favorável do Governo-Geral da província, poderá, por simples despacho do Ministro do Ultramar, ser autorizada a renovação por campanhas sucessivas da concessão do aval previsto no n.º 1 do artigo 1.º deste decreto."
+  },
+  "9ab926694adda503": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Na execução do aval observar-se-ão as seguintes normas:\n\na) O Grémio dos Industriais de óleos Vegetais, caso não possa efectuar dentro do prazo fixado no n.º 1 do artigo 2.º do presente decreto o ou os pagamentos avalizados pela província de Moçambique, comunicá-lo-á ao Governo-Geral da província com a antecedência mínima de dois meses, independentemente das comunicações que deva fazer ao banco ou bancos mutuantes;\n\nb) O banco ou bancos mutuantes, caso venha a verificar-se a hipótese prevista na alínea anterior, darão conhecimento ao Governo-Geral da província das medidas tomadas para liquidação das responsabilidades avalizadas com a antecedência mínima de 45 dias sobre o termo do prazo;\n\nc) O Governo-Geral da província, no caso de os pagamentos não poderem ser feitos pelo Grémio beneficiário, abrirá os créditos necessários ao pagamento das importâncias em dívida ao banco ou banco mutuantes."
+  },
+  "4d63ea3fe6be3b7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Pelas quantias que despender para satisfação das responsabilidades assumidas por força do disposto no artigo 1.º a província gozará, nos termos do artigo 735.º do Código Civil, de privilégio creditório sobre os bens mobiliários do Grémio e dos seus agremiados, respondendo estes solidàriamente.\n\n2. Se, nos termos do aval prestado, a província de Moçambique tiver que fazer quaisquer pagamentos, os créditos daí resultantes vencerão o juro de redesconto em vigor no banco emissor da província."
+  },
+  "6cb88df27b88cb19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O Estado terá o direito de nomear um delegado do Governo junto do Grémio durante o período em que existam responsabilidades da província de correntes do aval concedido.\n\n2. O delegado do Governo junto do Grémio poderá tomar conhecimento directo da contabilidade, documentos e quaisquer outros elementos que repute necessários a uma conveniente fiscalização.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 12 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.\n\nPara ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha."
+  }
+ }
+}

@@ -29,10 +29,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-12-30'
+version_history:
+  file: decreto-lei-43211.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-10-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-12-30'
+    amending: pt:dre:213063:por
+    amending_title: Decreto-Lei n.º 49479
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:33:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49479. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43211.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -131,13 +150,21 @@ Nestes termos, e considerando o pedido de autorização das Câmaras Municipais 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É criada a Federação das Municípios de Évora, Arraiolos e Redondo, sendo-lhe cometida a execução e a exploração das obras destinadas à pequena distribuição de energia eléctrica nas áreas dos respectivos concelhos, de harmonia com o disposto nas bases XIX e XXI da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), de 26 de Dezembro de 1944.
+###### Artigo 1.º
+
+É criada a Federação das Municípios de Évora, Arraiolos e Redondo, sendo-lhe cometida a execução e a exploração das obras destinadas à pequena distribuição de energia eléctrica nas áreas dos respectivos concelhos, de harmonia com o disposto nas bases XIX e XXI da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), de 26 de Dezembro de 1944.
 
 § único. A comissão administrativa da Federação deverá submeter à aprovação dos Ministros do Interior e da Economia o respectivo regulamento interno, no prazo de sessenta dias.
 
-Art. 2.º Ouvida a comissão administrativa da Federação, poderão integrar-se nela outros concelhos limítrofes, por portaria dos Ministros do Interior e da Economia, mediante proposta da Direcção-Geral dos Serviços Eléctricos, adoptando-se, em relação a esses concelhos, procedimento análogo ao estabelecido para os que já estiverem federados nessa data.
+###### Artigo 2.º
 
-Art. 3.º As instalações de distribuição de energia eléctrica pertencentes aos municípios federados, excluídas as centrais térmicas, são transferidas, em posse e administração, para a Federação, que contabilizará e liquidará os encargos de empréstimos eventualmente contraídos para o estabelecimento daquelas instalações e que onerem a sua exploração.
+Ouvida a comissão administrativa da Federação, poderão integrar-se nesta outros concelhos, por portaria do Ministro do Interior e do Secretário de Estado da Indústria, adoptando-se, em relação a esses concelhos, procedimento análogo ao estabelecido para os que já estiverem federados nessa data.
+
+> Alterado pelo/a [Decreto-Lei n.º 49479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49479-1969-213063), publicado em 1969-12-30.
+
+###### Artigo 3.º
+
+As instalações de distribuição de energia eléctrica pertencentes aos municípios federados, excluídas as centrais térmicas, são transferidas, em posse e administração, para a Federação, que contabilizará e liquidará os encargos de empréstimos eventualmente contraídos para o estabelecimento daquelas instalações e que onerem a sua exploração.
 
 § 1.º Os montantes dos empréstimos a considerar para os efeitos do disposto no corpo do artigo serão limitados ao valor real das instalações transferidas, que será determinado por acordo, ou, na falta deste, por uma comissão de peritos constituída pelo director-delegado da Federação, por um representante de cada uma das câmaras dos municípios federados e por um representante da Direcção-Geral dos Serviços Eléctricos, que presidirá e terá voto de qualidade.
 
@@ -145,25 +172,51 @@ Art. 3.º As instalações de distribuição de energia eléctrica pertencentes 
 
 § 3.º Considerar-se-á como activo de cada município, dentro da Federação, a diferença entre o montante dos empréstimos que onerarem as instalações transferidas e os respectivos valores reais, acrescida da contribuição desse município, por si ou freguesia a ele pertencente, para a execução de novas instalações, e ainda do valor da parte com que porventura cada uma das câmaras tenha entrado para as despesas da Federação.
 
-Art. 4.º É reconhecida, para todos os efeitos, a utilidade pública às instalações de distribuição de energia eléctrica a cargo da Federação.
+###### Artigo 4.º
 
-Art. 5.º As funções de director-delegado dos serviços da Federação serão exercidas por um engenheiro electrotécnico, ou por um agente técnico de engenharia electromecânica, a nomear pelo conselho de administração, com prévio acordo da Direcção-Geral dos Serviços Eléctricos. Se o proposto para director-delegado pertencer aos quadros do Estado, poderá ser considerado em comissão de serviço, mantendo todos os direitos e regalias como se permanecesse na efectividade do quadro.
+É reconhecida, para todos os efeitos, a utilidade pública às instalações de distribuição de energia eléctrica a cargo da Federação.
+
+###### Artigo 5.º
+
+As funções de director-delegado dos serviços da Federação serão exercidas por um engenheiro electrotécnico, ou por um agente técnico de engenharia electromecânica, a nomear pelo conselho de administração, com prévio acordo da Direcção-Geral dos Serviços Eléctricos. Se o proposto para director-delegado pertencer aos quadros do Estado, poderá ser considerado em comissão de serviço, mantendo todos os direitos e regalias como se permanecesse na efectividade do quadro.
 
 § único. Com o parecer favorável da Direcção-Geral dos Serviços Eléctricos, o director-delegado dos serviços municipalizados de Évora poderá acumular as suas funções com as de director-delegado dos serviços da Federação e beneficiar de uma gratificação, mensal a fixar nos termos do artigo 8.º do [Decreto-Lei n.º 40014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40014-1954-674849), de 31 de Dezembro de 1954.
 
-Art. 6.º O director-delegado fica responsável, perante a Federação e a Direcção-Geral dos Serviços Eléctricos, pelo cumprimento dos programas aprovados para a execução de novas instalações e remodelação das existentes, pelo estado de conservação das instalações em que superintende, pelos incidentes da sua exploração e pelo exacto cumprimento dos regulamentos e normas de segurança em vigor, devendo, no caso de a Federação se opor ou não dar seguimento às suas propostas, informar a Direcção-Geral dos Serviços Eléctricos, que apreciará o assunto e tomará as providências que a situação requerer.
+###### Artigo 6.º
 
-Art. 7.º A aprovação do quadro do pessoal técnico e administrativo da Federação é da competência do Ministro do Interior, ouvido o Ministro da Economia, e deverá ser pedida pela Federação no prazo de seis meses, a contar da data da publicação do presente diploma.
+O director-delegado ou, nas suas faltas e impedimentos, o seu substituto legal ficam responsáveis, perante a Federação e a Direcção-Geral dos Serviços Eléctricos, pelo cumprimento dos programas aprovados para a execução de novas instalações e remodelação das existentes, pelo estado de conservação das instalações em que superintende, pelos incidentes da sua exploração e pelo exacto cumprimento dos regulamentos e normas de segurança em vigor, devendo, no caso de a Federação se opor ou não a dar seguimento às suas propostas, informar a Direcção-Geral dos Serviços Eléctricos, que apreciará o assunto e tomará as providências que se justifiquem.
 
-§ único. O pessoal dos serviços municipalizados de Évora e o das outras câmaras municipais federadas, que preste serviço, exclusivamente, na distribuição de electricidade nos respectivos concelhos, transitará para a Federação, independentemente de quaisquer formalidades, na situação actual ou naquela que vier a ser-lhe atribuída no quadro aprovado nos termos do corpo deste artigo, sendo-lhe reconhecido o direito de regresso ao quadro a que pertence, no caso de dissolução da Federação.
+> Alterado pelo/a [Decreto-Lei n.º 49479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49479-1969-213063), publicado em 1969-12-30.
 
-Art. 8.º Até 30 de Junho de cada ano, a Federação deverá submeter à aprovação da Direcção-Geral dos Serviços Eléctricos o plano de obras a realizar no ano seguinte.
+###### Artigo 7.º
 
-Art. 9.º As obras feitas pela Federação, para o estabelecimento de novas instalações, serão custeadas pelo município e freguesias interessadas e pela Federação, em partes iguais, e poderão beneficiar da comparticipação do Estado que competiria ao respectivo concelho, nos termos legais.
+A aprovação do quadro do pessoal técnico e administrativo da Federação é da competência do Ministro do Interior, ouvido o Ministro da Economia, e deverá ser pedida pela Federação no prazo de seis meses, a contar da data da publicação do presente diploma.
 
-Art. 10.º Das receitas líquidas da exploração, consignar-se-á ao fundo de obras a importância necessária à execução do plano a que se refere o artigo 8.º O saldo será distribuído pelas câmaras federadas, numa proporção a determinar no regulamento interno e que deverá ter em conta, em relação a cada concelho, o volume de energia distribuída e o activo da respectiva câmara, tal como foi definido no § 3.º do artigo 3.º
+§ 1.º O pessoal dos quadros das câmaras municipais federadas, ou que com estas venham a federar-se, incluindo os dos respectivos serviços municipalizados, e que preste serviço na distribuição de energia eléctrica nos respectivos concelhos, transitará para o quadro da Federação, independentemente de quaisquer formalidades, na situação que ao tempo tiver ou naquela que no referido quadro vier a ser-lhe atribuída, sendo-lhe reconhecido o direito de reingresso no quadro de origem, no caso de dissolução da Federação.
 
-Art. 11.º Nos termos da base XXV da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758), a Federação poderá contrair empréstimos na Caixa Geral de Depósitos, Crédito e Previdência para novas instalações, consignando ao serviço desses empréstimos as receitas do fundo de obras.
+§ 2.º Poderá igualmente ingressar no quadro de pessoal da Federação, independentemente dos requisitos de habilitações e idade e de quaisquer formalidades, excepto a posse, o pessoal de carácter permanente ao serviço de empresas concessionárias da pequena distribuição de energia eléctrica em concelhos que pretendam, finda a concessão, integrar-se na Federação, desde que preste serviço, exclusivamente, na exploração concedida pelo município.
+
+> Alterado pelo/a [Decreto-Lei n.º 49479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49479-1969-213063), publicado em 1969-12-30.
+
+###### Artigo 8.º
+
+Até 30 de Setembro de cada ano, a Federação deverá submeter a aprovação da Direcção-Geral dos Serviços Eléctricos os projectos e orçamentos das obras a realizar no ano seguinte, para as quais pretenda obter a comparticipação do Estado.
+
+> Alterado pelo/a [Decreto-Lei n.º 49479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49479-1969-213063), publicado em 1969-12-30.
+
+###### Artigo 9.º
+
+As obras feitas pela Federação, para o estabelecimento de novas instalações, serão custeadas pelo município e freguesias interessadas e pela Federação, em partes iguais, e poderão beneficiar da comparticipação do Estado que competiria ao respectivo concelho, nos termos legais.
+
+###### Artigo 10.º
+
+Das receitas líquidas da exploração, consignar-se-á ao fundo de obras a importância necessária à execução do plano a que se refere o artigo 8.º O saldo será distribuído pelas câmaras federadas, numa proporção a determinar no regulamento interno e que deverá ter em conta, em relação a cada concelho, o volume de energia distribuída e o activo da respectiva câmara, tal como foi definido no § 3.º do artigo 3.º
+
+###### Artigo 11.º
+
+A Federação poderá contrair empréstimos nos termos da base XXV da [Lei n.º 2002](https://diariodarepublica.pt/dr/detalhe/lei/2002-1944-568758) e do § único do artigo 175.º do Código Administrativo, consignando aos encargos desses empréstimos as receitas do fundo de obras.
+
+> Alterado pelo/a [Decreto-Lei n.º 49479](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49479-1969-213063), publicado em 1969-12-30.
 
 Publique-se e cumpra-se como nele se contém.
 

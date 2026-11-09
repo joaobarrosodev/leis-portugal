@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:612834:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1989-03-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5483cd6a14404578"
+   ]
+  },
+  {
+   "date": "1990-01-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:313825:por",
+     "title": "Decreto-Lei n.º 5/90",
+     "published": "1990-01-03",
+     "dre_path": "/dr/detalhe/decreto-lei/5-1990-313825"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "814247afa7f2d7b5",
+    "4e9792a2ffc5605a",
+    "cf9c0eff4327160e",
+    "80d6cf536a6b90ad",
+    "505eaa3d9c4bcc1f",
+    "e4d02d8387c4b883",
+    "6471268e819a64bd",
+    "3d79045b1ce01e29",
+    "4a5fbd05806a5a65"
+   ]
+  }
+ ],
+ "fragments": {
+  "5483cd6a14404578": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Março\n\nA reforma agrária veio afectar ao Estado diversos prédios rústicos nacionalizados ou expropriados, muitos dos quais com povoamentos florestais instalados, verificando-se, na prática, uma certa indefinição quanto à entidade responsável pela gestão de tais povoamentos.\n\nPor força do disposto no [Decreto-Lei n.º 150/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1980-474146), de 23 de Maio, e no despacho do Ministro da Agricultura e Pescas de 30 de Junho de 1980, publicado no Diário da República, 2.ª série, n.º 159 de 12 de Julho de 1980, o corte ou arrancamento de árvores e arvoredo nos referidos prédios rústicos exige a autorização prévia da Direcção-Geral das Florestas (DGF), estando tal autorização condicionada à prévia celebração de um contrato escrito relativo ao material lenhoso a abater e ao depósito do respectivo preço à ordem do Instituto de Gestão e Estruturação Fundiária.\n\nO Despacho n.º 484/81, de 28 de Julho, do Secretário de Estado da Produção, publicado no Diário da República, 2.ª série, n.º 233, de 10 de Outubro de 1981, veio definir a percentagem do produto da venda das árvores a entregar aos rendeiros dos prédios rústicos onde as mesmas tivessem sido abatidas.\n\nConsiderando o disposto no [Decreto Regulamentar n.º 51/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604), de 6 de Outubro, que comete à DGF a gestão e desenvolvimento do património florestal sob responsabilidade do Estado;\n\nConsiderando o conhecimento e experiência detidos pela DGF quanto à condução e exploração de povoamentos florestais, incluindo a venda dos bens produzidos pela floresta;\n\nConsiderando a necessidade de melhorar as condições vegetativas e fitossanitárias dos povoamentos florestais existentes nos prédios rústicos nacionalizados ou expropriados;\n\nConsiderando a vantagem de serem reunidas no mesmo organismo todas as acções a desenvolver no âmbito florestal;\n\nConsiderando ainda a recente extinção do Instituto de Gestão e Estruturação Fundiária:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º - 1 - A condução e exploração dos povoamentos florestais situados em prédios rústicos nacionalizados ou expropriados no âmbito da reforma agrária é da exclusiva responsabilidade da Direcção-Geral das Florestas (DGF).\n\n2 - Para efeitos do disposto no número anterior, as direcções regionais de agricultura fornecerão à DGF a identificação dos prédios rústicos em causa.\n\n3 - A DGF poderá atribuir a exploração dos povoamentos florestais a entidades públicas ou privadas, através de concessão, arrendamento ou qualquer outra forma prevista na lei.\n\n4 - Não estão abrangidos pelo n.º 1 os prédios rústicos ou parte de prédios rústicos atribuídos em exploração a pequenos e médios agricultores e cooperativas ao abrigo da legislação da reforma agrária através de contrato que inclua expressamente a exploração florestal.\n\n5 - Nos casos previstos no número anterior, os serviços competentes ouvirão a DGF sobre a viabilidade, na componente florestal, dos planos de exploração a observar pelas entidades beneficiárias de terra entregue em exploração, bem como sobre os pedidos de corte e arrancamento das árvores.\n\nArt. 2.º A DGF tomará as medidas necessárias para assegurar a correcta gestão dos povoamentos, bem como a venda dos produtos resultantes da respectiva exploração, incluindo pinhas e resinas.\n\nArt. 3.º - 1 - Compete à DGF, com as verbas previstas na subalínea 1) da alínea b) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 312/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1985-179847), de 31 de Julho, e no n.º 2 do artigo 5.º do presente diploma, indemnizar os titulares de áreas de reserva pelos cortes de arvoredo nelas efectuados, em períodos anteriores à entrega efectiva das áreas reservadas.\n\n2 - Uma vez iniciado o processo conducente à atribuição daquelas áreas de reserva, deverá a direcção regional de agricultura competente comunicar à DGF este facto, a fim de que sejam sustidos todos os processos de comercialização daquele arvoredo e anulados, na quota-parte que diz respeito à reserva, os respectivos contratos de adjudicação, com vista a evitar prejuízos futuros para a Administração e para os administrados.\n\nArt. 4.º As verbas resultantes da exploração florestal efectuada pela DGF nos prédios rústicos em causa constituem receitas próprias deste organismo, com excepção dos casos previstos no [Decreto-Lei n.º 312/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1985-179847), de 31 de Julho, e no artigo seguinte.\n\nArt. 5.º - 1 - Do produto da venda dos eucaliptos abatidos nos prédios rústicos em questão serão arrecadadas pela DGF as percentagens seguintes, destinadas a liquidação de encargos:\n\na) 20% para as operações inerentes à condução dos eucaliptais;\n\nb) 20% para encargos de estrutura, venda e guardaria.\n\n2 - O valor líquido resultante da dedução das percentagens referidas no número anterior destina-se ao pagamento de indemnizações por frutos pendentes e à cobertura de acções de estruturação fundiária.\n\nArt. 6.º - 1 - Constitui contra-ordenação, punível com coima de 1000$00 a 3000000$00, o corte ou arrancamento de árvores, ou a exploração de outros produtos florestais nos prédios rústicos nacionalizados ou expropriados, sem autorização prévia da DGF ou, no caso previsto no n.º 5 do artigo 1.º, dos serviços competentes nos termos do [Decreto-Lei n.º 63/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1989-612436), de 24 de Fevereiro, sem prejuízo da responsabilidade criminal proveniente de tal conduta.\n\n2 - A negligência é punível.\n\nArt. 7.º - 1 - A fiscalização do disposto no presente diploma compete, em especial, aos serviços da DGF.\n\n2 - A instrução dos processos pelas contra-ordenações previstas neste diploma é da competência das circunscrições florestais da DGF.\n\n3 - Finda a instrução, são os processos remetidos ao director-geral das Florestas, ao qual compete a aplicação das coimas, sem prejuízo da possibilidade de delegação de tal competência nos subdirectores-gerais.\n\n4 - Do produto das coimas aplicadas 50% reverterão para a DGF como receita própria.\n\nArt. 8.º São revogados o [Decreto-Lei n.º 150/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1980-474146), de 23 de Maio, o despacho do Ministro da Agricultura e Pescas de 30 de Junho de 1980, publicado no Diário da República, 2.ª série, n.º 159, de 12 de Julho de 1980, e o Despacho n.º 484/81 do Secretário de Estado da Produção, publicado no Diário da República, 2.ª série, n.º 233, de 10 de Outubro de 1981.\n\nVisto e aprovado em Conselho de Ministros de 19 de Janeiro de 1989. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.\n\nPromulgado em 17 de Fevereiro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 17 de Fevereiro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "814247afa7f2d7b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Março\n\nA reforma agrária veio afectar ao Estado diversos prédios rústicos nacionalizados ou expropriados, muitos dos quais com povoamentos florestais instalados, verificando-se, na prática, uma certa indefinição quanto à entidade responsável pela gestão de tais povoamentos.\n\nPor força do disposto no [Decreto-Lei n.º 150/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1980-474146), de 23 de Maio, e no despacho do Ministro da Agricultura e Pescas de 30 de Junho de 1980, publicado no Diário da República, 2.ª série, n.º 159 de 12 de Julho de 1980, o corte ou arrancamento de árvores e arvoredo nos referidos prédios rústicos exige a autorização prévia da Direcção-Geral das Florestas (DGF), estando tal autorização condicionada à prévia celebração de um contrato escrito relativo ao material lenhoso a abater e ao depósito do respectivo preço à ordem do Instituto de Gestão e Estruturação Fundiária.\n\nO Despacho n.º 484/81, de 28 de Julho, do Secretário de Estado da Produção, publicado no Diário da República, 2.ª série, n.º 233, de 10 de Outubro de 1981, veio definir a percentagem do produto da venda das árvores a entregar aos rendeiros dos prédios rústicos onde as mesmas tivessem sido abatidas.\n\nConsiderando o disposto no [Decreto Regulamentar n.º 51/86](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/51-1986-222604), de 6 de Outubro, que comete à DGF a gestão e desenvolvimento do património florestal sob responsabilidade do Estado;\n\nConsiderando o conhecimento e experiência detidos pela DGF quanto à condução e exploração de povoamentos florestais, incluindo a venda dos bens produzidos pela floresta;\n\nConsiderando a necessidade de melhorar as condições vegetativas e fitossanitárias dos povoamentos florestais existentes nos prédios rústicos nacionalizados ou expropriados;\n\nConsiderando a vantagem de serem reunidas no mesmo organismo todas as acções a desenvolver no âmbito florestal;\n\nConsiderando ainda a recente extinção do Instituto de Gestão e Estruturação Fundiária:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "4e9792a2ffc5605a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A condução e exploração dos povoamentos florestais situados em prédios rústicos nacionalizados ou expropriados no âmbito da reforma agrária é da exclusiva responsabilidade da Direcção-Geral das Florestas (DGF).\n\n2 - Para efeitos do disposto no número anterior, as direcções regionais de agricultura fornecerão à DGF a identificação dos prédios rústicos em causa.\n\n3 - A DGF poderá atribuir a exploração dos povoamentos florestais a entidades públicas ou privadas, através de concessão, arrendamento ou qualquer outra forma prevista na lei.\n\n4 - Não estão abrangidos pelo n.º 1 os prédios rústicos ou parte de prédios rústicos atribuídos em exploração a pequenos e médios agricultores e cooperativas ao abrigo da legislação da reforma agrária através de contrato que inclua expressamente a exploração florestal.\n\n5 - Nos casos previstos no número anterior, os serviços competentes ouvirão a DGF sobre a viabilidade, na componente florestal, dos planos de exploração a observar pelas entidades beneficiárias de terra entregue em exploração, bem como sobre os pedidos de corte e arrancamento das árvores."
+  },
+  "cf9c0eff4327160e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA DGF tomará as medidas necessárias para assegurar a correcta gestão dos povoamentos, bem como a venda dos produtos resultantes da respectiva exploração, incluindo pinhas e resinas."
+  },
+  "80d6cf536a6b90ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1990-01-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 5/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1990-313825), publicado em 1990-01-03."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Uma vez iniciado o processo conducente à atribuição de áreas de reserva ao abrigo da [Lei n.º 109/88](https://diariodarepublica.pt/dr/detalhe/lei/109-1988-355489), de 26 de Setembro, deverá a direcção regional de agricultura competente comunicar à Direcção-Geral das Florestas esse facto, a fim de serem sustados todos os processos de comercialização daquele arvoredo e anulados, na quota-parte que diz respeito à reserva, os respectivos contratos de adjudicação.\n\n2 - Os titulares das áreas de reserva serão indemnizados pela privação temporária dos rendimentos, nos termos do [Decreto-Lei n.º 199/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1988-374255), de 31 de Maio, decorrente dos cortes de arvoredo nelas efectuados em períodos anteriores à entrega efectiva das áreas reservadas.\n\n> Alterado pelo/a [Decreto-Lei n.º 5/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1990-313825), publicado em 1990-01-03."
+  },
+  "505eaa3d9c4bcc1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs verbas resultantes da exploração florestal efectuada pela DGF nos prédios rústicos em causa constituem receitas próprias deste organismo, com excepção dos casos previstos no [Decreto-Lei n.º 312/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1985-179847), de 31 de Julho, e no artigo seguinte."
+  },
+  "e4d02d8387c4b883": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Do produto da venda dos eucaliptos abatidos nos prédios rústicos em questão serão arrecadadas pela DGF as percentagens seguintes, destinadas a liquidação de encargos:\n\na) 20% para as operações inerentes à condução dos eucaliptais;\n\nb) 20% para encargos de estrutura, venda e guardaria.\n\n2 - O valor líquido resultante da dedução das percentagens referidas no número anterior destina-se ao pagamento de indemnizações por frutos pendentes e à cobertura de acções de estruturação fundiária."
+  },
+  "6471268e819a64bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Constitui contra-ordenação, punível com coima de 1000$00 a 3000000$00, o corte ou arrancamento de árvores, ou a exploração de outros produtos florestais nos prédios rústicos nacionalizados ou expropriados, sem autorização prévia da DGF ou, no caso previsto no n.º 5 do artigo 1.º, dos serviços competentes nos termos do [Decreto-Lei n.º 63/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1989-612436), de 24 de Fevereiro, sem prejuízo da responsabilidade criminal proveniente de tal conduta.\n\n2 - A negligência é punível."
+  },
+  "3d79045b1ce01e29": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - A fiscalização do disposto no presente diploma compete, em especial, aos serviços da DGF.\n\n2 - A instrução dos processos pelas contra-ordenações previstas neste diploma é da competência das circunscrições florestais da DGF.\n\n3 - Finda a instrução, são os processos remetidos ao director-geral das Florestas, ao qual compete a aplicação das coimas, sem prejuízo da possibilidade de delegação de tal competência nos subdirectores-gerais.\n\n4 - Do produto das coimas aplicadas 50% reverterão para a DGF como receita própria."
+  },
+  "4a5fbd05806a5a65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nSão revogados o [Decreto-Lei n.º 150/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1980-474146), de 23 de Maio, o despacho do Ministro da Agricultura e Pescas de 30 de Junho de 1980, publicado no Diário da República, 2.ª série, n.º 159, de 12 de Julho de 1980, e o Despacho n.º 484/81 do Secretário de Estado da Produção, publicado no Diário da República, 2.ª série, n.º 233, de 10 de Outubro de 1981.\n\nVisto e aprovado em Conselho de Ministros de 19 de Janeiro de 1989. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto.\n\nPromulgado em 17 de Fevereiro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 17 de Fevereiro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

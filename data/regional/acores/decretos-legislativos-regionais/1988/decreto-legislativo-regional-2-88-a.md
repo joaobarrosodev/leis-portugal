@@ -40,10 +40,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-12-14'
+version_history:
+  file: decreto-legislativo-regional-2-88-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-02-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-12-14'
+    amending: pt:dre:533269:por
+    amending_title: Decreto Legislativo Regional n.º 16/93/A
+    changes:
+    - Adita Artigo ANEXO — Estatuto da SATA Air Açores - Serviço Açoreano de Transportes Aéreos, E. P.::6.º-A
+    - Altera Artigo ANEXO — Estatuto da SATA Air Açores - Serviço Açoreano de Transportes Aéreos, E. P.::7.º
+    - Altera Artigo ANEXO — Estatuto da SATA Air Açores - Serviço Açoreano de Transportes Aéreos, E. P.::9.º
 identifiers:
   celex: null
   eli: null
@@ -69,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:17:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    16/93/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1988/decreto-legislativo-regional-2-88-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -234,6 +251,16 @@ b) Por um membro do CA que, para tanto, haja recebido delegação desse conselho
 
 c) Pelas pessoas a que se referem a alínea m) do n.º 2 e o n.º 3 deste artigo, no âmbito dos poderes que lhes tiverem sido conferidos.
 
+###### Artigo 6.º-A — Comissão executiva
+
+1 - O conselho de administração poderá delegar, numa comissão executiva, formada entre os seus membros, os poderes constantes das alíneas f), g), h), i), j), l) e m) do n.º 2 do artigo anterior, bem como outros que entenda convenientes, para assegurar a gestão corrente da empresa, sem prejuízo do direito de avocação de competências delegadas.
+
+2 - A comissão executiva referida no número anterior laborará em regime de tempo inteiro, será presidida pelo presidente do conselho de administração e constituída por um máximo de três membros, competindo a sua nomeação e exoneração ao Governo Regional, sob proposta do secretário regional da tutela.
+
+3 - Só os membros do conselho de administração que façam parte da comissão executiva se consideram em regime de tempo inteiro.
+
+> Aditado pelo/a [Decreto Legislativo Regional n.º 16/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1993-533269), publicado em 1993-12-14.
+
 ###### Artigo 7.º — Competência do presidente do CA
 
 1 - Compete, especialmente, ao presidente do CA ou ao seu substituto legal:
@@ -252,7 +279,7 @@ f) Assegurar as relações com o Governo Regional;
 
 g) Exercer os poderes que o CA nele delegar.
 
-2 - Sem prejuízo da sua avocação pelo CA e do disposto no n.º 3 do artigo 6.º, os poderes referidos nas alíneas i), j), l) e m) do n.º 2 do artigo 6.º serão desempenhados pelo presidente do CA.
+2 - (Revogado.)
 
 3 - O presidente, ou o seu substituto legal, terá sempre voto de qualidade e poderá opor o seu veto a deliberações que considere contrárias à lei e ao presente estatuto, com a consequente suspensão de executoriedade da deliberação, até que sobre esta se pronuncie o secretário regional da tutela.
 
@@ -260,13 +287,19 @@ g) Exercer os poderes que o CA nele delegar.
 
 5 - A confirmação do veto acarreta a ineficácia da deliberação.
 
+> Alterado pelo/a [Decreto Legislativo Regional n.º 16/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1993-533269), publicado em 1993-12-14.
+
 ###### Artigo 8.º — Competência do vice-presidente do CA
 
 Compete ao vice-presidente substituir o presidente do CA nas suas faltas ou impedimentos.
 
-###### Artigo 9.º — Reuniões do CA
+###### Artigo 9.º — Reuniões
 
-O CA reunirá, ordinariamente, pelo menos duas vezes por mês e, extraordinariamente, sempre que o presidente o convocar.
+1 - O conselho de administração reúne, ordinariamente, uma vez por quinzena e, extraordinariamente, sempre que for convocado pelo presidente, por iniciativa própria ou a solicitação dos seus membros.
+
+2 - A comissão executiva, quando exista, reunirá, ordinariamente, uma vez por semana e, extraordinariamente, nos termos prescritos para o conselho de administração.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 16/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-1993-533269), publicado em 1993-12-14.
 
 #### SECÇÃO III — Comissão de fiscalização
 

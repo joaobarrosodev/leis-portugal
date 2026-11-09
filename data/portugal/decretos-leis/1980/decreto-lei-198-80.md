@@ -28,10 +28,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-11-21'
+version_history:
+  file: decreto-lei-198-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-06-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-11-21'
+    amending: pt:dre:694207:por
+    amending_title: Decreto Regulamentar n.º 49/97
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Altera Artigo 3.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:28:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 49/97. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-198-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,19 +146,21 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º É criada, ao abrigo do artigo 1.º, n.º 1, do [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho, a Reserva Natural Parcial do Paul do Boquilobo.
+###### Artigo 1.º
 
-Art. 2.º A área da Reserva Natural Parcial do Paul do Boquilobo é definida pelos limites cartografados no mapa anexo ao presente diploma, que são os seguintes:
+(Revogado.)
 
-Norte: o caminho dos Canteiros, entre o rio Almonda e a vala Real, e o seu prolongamento para oeste, desde o caminho de ferro; a vala do Couto do Doutor e o seu prolongamento, denominado «vala do Pé da Galinha», entre a vala Real e a vala da Pereira.
+> Revogado pelo/a [Decreto Regulamentar n.º 49/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1997-694207), publicado em 1997-11-20.
 
-Leste: a vala da Pereira, para sul, desde a confluência da vala do Pé da Galinha até ao ponto donde parte um caminho, à esquerda; este caminho até ao ponto em que se junta à vala do Valadão. Uma linha para sul, unindo este ponto ao ponto em que um caminho que parte da estrada nacional n.º 365, a norte do cruzamento com o rio Almonda, flecte para leste; este caminho até à estrada nacional n.º 365.
+###### Artigo 2.º
 
-Sul: a estrada nacional n.º 365, desde a bifurcação do caminho atrás referido até ao monte denominado «Broa», na margem direita do rio Almonda; o caminho que, partindo deste monte, vai até à Quinta do Mirante e o seu prolongamento para noroeste até ao caminho de ferro (antiga passagem de nível).
+(Revogado.)
 
-Oeste: o caminho de ferro, para norte, desde a antiga passagem de nível até a um ponto situado no enfiamento do caminho dos Canteiros.
+> Revogado pelo/a [Decreto Regulamentar n.º 49/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1997-694207), publicado em 1997-11-20.
 
-Art. 3.º - 1 - Na área da Reserva Natural Parcial do Paul do Boquilobo ficam definidas as seguintes zonas, com utilização específica, de acordo com o mapa anexo ao presente diploma:
+###### Artigo 3.º
+
+1 - Na área da Reserva Natural Parcial do Paul do Boquilobo ficam definidas as seguintes zonas, com utilização específica, de acordo com o mapa anexo ao presente diploma:
 
 a) Zona de protecção integral:
 
@@ -147,9 +174,13 @@ Oeste: o limite da área agricultada, para norte, até a intercepção com o cam
 
 b) Zona de uso extensivo, tendo como limites exteriores os descritos no artigo 2.º
 
-2 - A Reserva Natural Parcial do Paul do Boquilobo será sinalizada no terreno por placas de modelos aprovados pelo Secretário de Estado do Ordenamento e Ambiente.
+2 - (Revogado.)
 
-Art. 4.º - 1 - Na zona de protecção integral é expressamente interdito, constituindo contravenção, o acesso de pessoas, bem como qualquer tipo de actividade.
+> Alterado pelo/a [Decreto Regulamentar n.º 49/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1997-694207), publicado em 1997-11-20.
+
+###### Artigo 4.º
+
+1 - Na zona de protecção integral é expressamente interdito, constituindo contravenção, o acesso de pessoas, bem como qualquer tipo de actividade.
 
 2 - A proibição de acesso constante do número anterior não abrange:
 
@@ -165,97 +196,53 @@ a) A captura de animais, plantas, material geológico ou pedológico exclusivame
 
 b) Qualquer outra actividade consentânea com a gestão adequada dos recursos desta zona.
 
-Art. 5.º Na zona de uso extensivo é interdito:
+###### Artigo 5.º
 
-a) Qualquer forma de caça ou captura de espécies animais fora dos casos especiais que o director, ouvidos o conselho geral e a comissão científica da Reserva, venha a ressalvar, especificamente, por motivos ponderosos;
+(Revogado.)
 
-b) Destruir ou danificar ninhos e apanhar ovos;
+> Revogado pelo/a [Decreto Regulamentar n.º 49/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1997-694207), publicado em 1997-11-20.
 
-c) Colher plantas ou parte de plantas, salvo nas operações de limpeza de espécies vegetais ou incluídas nos planos de exploração aprovados pelo director, ouvidos o conselho geral e a comissão científica da Reserva;
+###### Artigo 6.º
 
-d) Introduzir espécies animais ou vegetais exóticas;
+(Revogado.)
 
-e) Fazer lume fora dos locais para o efeito eventualmente estabelecidos;
+> Revogado pelo/a [Decreto Regulamentar n.º 49/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1997-694207), publicado em 1997-11-20.
 
-f) Abandonar detritos ou quaisquer formas de lixo fora dos locais destinados a esse fim;
+###### Artigo 7.º
 
-g) Proceder a qualquer alteração do relevo natural, excepto as que se destinem aos fins da própria Reserva, desde que autorizadas pelo conselho geral e pela comissão científica;
+(Revogado.)
 
-h) A utilização de qualquer tipo de veículo terrestre ou embarcação, excepto quando em missão de serviço para a Reserva, para o exercício das actividades de exploração agrícola ou por motivos fortemente imperativos.
+> Revogado pelo/a [Decreto Regulamentar n.º 49/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1997-694207), publicado em 1997-11-20.
 
-Art. 6.º É proibido em toda a área da Reserva Natural Parcial do Paul do Boquilobo:
+###### Artigo 8.º
 
-a) O sobrevoo por aeronaves que circulem com o tecto de voo inferior a 200 m;
+(Revogado.)
 
-b) A utilização de aparelhos de amplificação sonora e de radiodifusão, excepto quando usados no interior de edifícios;
+> Revogado pelo/a [Decreto Regulamentar n.º 49/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1997-694207), publicado em 1997-11-20.
 
-c) Construir, reconstruir, ampliar ou alterar construções existentes, bem como efectuar qualquer obra de aterro ou escavação e drenagem sem autorização prévia do director, ouvido o conselho geral e em casos devidamente fundamentados.
+###### Artigo 9.º
 
-Art. 7.º - 1 - As infracções ao disposto nos artigos anteriores, sem prejuízo de outras sanções aplicáveis, de acordo com a legislação geral em vigor, são punidas pelo director da Reserva com as seguintes multas:
+(Revogado.)
 
-a) 1000$00 a 10000$00, as do artigo 7.º e da alínea d) do artigo 6.º;
+> Revogado pelo/a [Decreto Regulamentar n.º 49/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1997-694207), publicado em 1997-11-20.
 
-b) 5000$00 a 25000$00, as do n.º 1 do artigo 4.º;
+###### Artigo 10.º
 
-c) 5000$00 a 50000$00, as das alíneas a) e c) do artigo 6.º
+(Revogado.)
 
-2 - Por proposta do director da Reserva, ouvido o conselho geral, a actualização das multas efectuar-se-á, se necessário, durante o mês de Janeiro dos anos pares, mediante despacho do membro do Governo que superintender no ordenamento e ambiente.
+> Revogado pelo/a [Decreto Regulamentar n.º 49/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1997-694207), publicado em 1997-11-20.
 
-3 - A aplicação da multa prevista na alínea c) do artigo 6.º não exonera o infractor da obrigação de demolir as obras ou trabalhos efectuados.
+###### Artigo 11.º
 
-4 - Se o infractor, tendo sido notificado, não demolir as obras ou trabalhos efectuados no prazo que lhe for assinalado, o director da Reserva mandará proceder à demolição coerciva, a obras necessárias para reposição do estado anterior ou, não havendo lugar a demolição, à reposição do estado anterior, tudo à custa do infractor.
+(Revogado.)
 
-5 - Quando o infractor não pague voluntariamente as despesas no prazo de trinta dias contados da notificação, por carta registada, a cobrança será efectuada por via judicial, servindo o auto e nota de despesas de título executivo.
+> Revogado pelo/a [Decreto Regulamentar n.º 49/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1997-694207), publicado em 1997-11-20.
 
-Art. 8.º - 1 - A fiscalização compete:
+###### Artigo 12.º
 
-a) Aos vigilantes do Serviço Nacional de Parques, Reservas e Património Paisagístico;
+(Revogado.)
 
-b) Aos guardas florestais da Direcção-Geral do Ordenamento e Gestão Florestal;
-
-c) A todas as entidades representadas no conselho geral da Reserva Natural Parcial do Paul do Boquilobo.
-
-2 - O policiamento é da competência da comissão venatória regional, da GNR e dos guardas florestais.
-
-3 - A administração do domínio público hidrico na área da Reserva será exercida pelas autoridades a que estiver atribuída, sem prejuízo nem interferência de competência.
-
-4 - As infracções ao disposto neste diploma serão participadas pelos agentes aos seus superiores hierárquicos, que os encaminharão, para decisão, ao director da Reserva.
-
-Art. 9.º - 1 - A Reserva Natural Parcial do Paul do Boquilobo, de acordo com o [Decreto n.º 4/78](https://diariodarepublica.pt/dr/detalhe/decreto/4-1978-468837), de 11 de Janeiro, disporá dos seguintes órgãos e serviços responsáveis pela sua gestão:
-
-a) Director;
-
-b) Conselho geral;
-
-c) Comissão científica;
-
-d) Serviços técnicos.
-
-2 - Do conselho geral farão parte, além do director, um representante indicado por cada uma das seguintes entidades:
-
-Câmara Municipal da Golegã;
-
-Direcção-Geral do Ordenamento e Gestão Florestal;
-
-Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos;
-
-Instituto de Gestão e Estruturação Fundiária;
-
-Junta de Freguesia de Azinhaga,
-
-e um vogal da comissão científica.
-
-3 - Da comissão científica farão parte, além do director da Reserva, os representantes indicados pelo Instituto Superior de Agronomia e pela Faculdade de Ciências.
-
-4 - Os serviços administrativos da Reserva ficarão a cargo dos Serviços Centrais do Serviço Nacional de Parques, Reservas e Património Paisagístico.
-
-Art. 10.º - 1 - As despesas resultantes da execução do presente diploma e, bem assim, as que resultem da necessidade de dar cumprimento às finalidades para que a Reserva foi criada serão suportadas pelas verbas adequadas do orçamento do Serviço Nacional de Parques, Reservas e Património Paisagístico.
-
-2 - Exceptuam-se as despesas com a exploração agrícola, bem como as relativas a obras de hidráulica da Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos, ou outras não previstas no plano de gestão da Reserva, despesas cuja origem se deve a intervenções devidamente autorizadas pela Secretaria de Estado do Ordenamento e Ambiente.
-
-Art. 11.º Por portaria do membro do Governo que superintender no ordenamento e ambiente ou do respectivo Ministro, poderá ser criada uma zona de protecção à Reserva, na qual serão aplicadas, no todo ou em parte, as medidas restritivas e punitivas previstas neste diploma.
-
-Art. 12.º As dúvidas que suscitarem a execução e interpretação do presente diploma serão resolvidas por despacho do membro do Governo que superintender no ordenamento e ambiente e dos titulares de outros departamentos de Estado interessados.
+> Revogado pelo/a [Decreto Regulamentar n.º 49/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/49-1997-694207), publicado em 1997-11-20.
 
 Visto e aprovado em Conselho de Ministros de 22 de Maio de 1980. - Diogo Pinto de Freitas do Amaral.
 

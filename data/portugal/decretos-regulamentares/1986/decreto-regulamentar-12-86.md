@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-06-01'
+version_history:
+  file: decreto-regulamentar-12-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-04-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-06-01'
+    amending: pt:dre:609872:por
+    amending_title: Decreto n.º 23/89
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:12:35Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 23/89. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1986/decreto-regulamentar-12-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,21 +133,29 @@ Assim:
 
 O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º Os dirigentes, o pessoal de investigação criminal e os demais funcionários que exercem funções nos serviços da Polícia Judiciária que têm a seu cargo a prevenção e a investigação da criminalidade de alta violência praticada por grupos armados e dos crimes referidos nas alíneas f) a m) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro, têm direito, doze vezes por ano, a um subsídio mensal pelo risco acrescido dos montantes seguintes:
+###### Artigo 1.º
 
-a) Pessoal dirigente - 8500$00;
+Os dirigentes, o pessoal de investigação criminal e os demais funcionários que exercem funções nos serviços da Polícia Judiciária que têm a seu cargo a prevenção e a investigação da criminalidade de alta violência praticada por grupos armados e dos crimes referidos nas alíneas f) a m) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 458/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1982-380091), de 24 de Novembro, têm direito, doze vezes por ano, a um subsídio mensal pelo risco acrescido dos montantes seguintes:
 
-b) Inspector-coordenador e inspector - 8000$00;
+a) Pessoal dirigente - 13690$00;
 
-c) Subinspector - 7500$00;
+b) Inspector-coordenador e inspector - 12880$00;
 
-d) Agente e agente-motorista - 7000$00;
+c) Subinspector - 12080$00;
 
-e) Restante pessoal - 5000$00.
+d) Agente ou agente-motorista - 11270$00;
 
-Art. 2.º O presente diploma produz efeitos a partir de 1 de Março de 1986.
+e) Restante pessoal - 8050$00.
 
-Art. 3.º Os encargos resultantes da aplicação do presente diploma serão suportados no ano económico de 1986 pelas verbas administradas pelo Gabinete de Gestão Financeira do Ministério da Justiça.
+> Alterado pelo/a [Decreto n.º 23/89](https://diariodarepublica.pt/dr/detalhe/decreto/23-1989-609872), publicado em 1989-05-27.
+
+###### Artigo 2.º
+
+O presente diploma produz efeitos a partir de 1 de Março de 1986.
+
+###### Artigo 3.º
+
+Os encargos resultantes da aplicação do presente diploma serão suportados no ano económico de 1986 pelas verbas administradas pelo Gabinete de Gestão Financeira do Ministério da Justiça.
 
 Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Mário Ferreira Bastos Raposo.
 

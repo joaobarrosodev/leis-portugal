@@ -37,10 +37,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-10-13'
+version_history:
+  file: decreto-lei-318-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-09-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-10-13'
+    amending: pt:dre:287981:por
+    amending_title: Decreto-Lei n.º 373/91
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -66,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:42:15Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 373/91. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-318-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,11 +154,13 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-###### Artigo 1.º — Carreira técnica de aviação civil
+###### Artigo 1.º — Carreira técnica de inspecção de aviação civil
 
-1 - É criada no quadro de pessoal da DGAC a carreira técnica de aviação civil, a qual se insere no grupo de pessoal técnico previsto no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e se desenvolve pelas categorias de técnico especialista principal, técnico especialista, técnico principal, técnico de 1.ª classe e técnico de 2.ª classe, e que, em virtude da sua especialização, goza de regime especial.
+1 - A carreira técnica de inspecção de aviação civil insere-se no grupo de pessoal técnico e desenvolve-se pelas categorias de subinspector especialista principal, subinspector especialista, subinspector principal, subinspector de 1.ª classe e subinspector de 2.ª classe.
 
 2 - A carreira técnica de aviação civil integra funções de natureza técnica internacionalmente regidas pelas normas e recomendações da OACI, ratificadas pelo Estado Português.
+
+> Alterado pelo/a [Decreto-Lei n.º 373/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/373-1991-287981), publicado em 1991-10-08.
 
 ###### Artigo 2.º — Conteúdo funcional da carreira
 

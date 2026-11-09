@@ -1,0 +1,549 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:219166:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1999-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f6382bdf37f569a0",
+    "2ac514f60974d7f1",
+    "3e870954e7f308dd",
+    "b939b9935d1c647b",
+    "5865e49c2006b42a",
+    "4db4e91313066a06",
+    "d4d7024307785095",
+    "3b8dbe79580b6b28",
+    "58e0b74a51be0c8c",
+    "99ca8875f02483a7",
+    "397b911fabcfdf75",
+    "01caadc31c05734c",
+    "183061093f99694b",
+    "ecd16a9d429feb1b",
+    "805d1773668f9366",
+    "90eecdeb7e0ddc74",
+    "98df70e9903cdf0c",
+    "33b6a1d54d4d635c",
+    "f5ae5c852e5aac21",
+    "eb83234e033027c7",
+    "96a517121204fcb0",
+    "5517fdadfffdabb0",
+    "8aa7e95d827a6b08",
+    "d9273f3653611940",
+    "ca43fb2d93bc1359",
+    "ced7a8d9e7cdc69f",
+    "188eb0003c681aa4",
+    "7a472cd537d2b126",
+    "3b052903febfac94",
+    "1a60e4e741aa1a7f",
+    "c3a40375e91601ca",
+    "ccc6cf17bdd22459",
+    "b70d063f7bf84fab",
+    "b423071b7b32cf28",
+    "08d78e1fa5617f23",
+    "49c06bc521d36754",
+    "171d9a436d5b5334",
+    "32da516ebfd61f19",
+    "2acc6271a38a28b6",
+    "3f2d5f31a866c329",
+    "8837190c55da0f1b",
+    "1430dbd8b9656faf",
+    "83a3076f997bcaa7",
+    "05e2ac7036c33982",
+    "8cbdff30dd7cf1af",
+    "c93db4d78a6fa57b",
+    "9d0da0c621ce81e9",
+    "ab76f7d6d7526ac2",
+    "2ab53e68a22a8546"
+   ]
+  },
+  {
+   "date": "2007-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:629169:por",
+     "title": "Decreto Legislativo Regional n.º 15/2007/M",
+     "published": "2007-11-07",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2007-629169"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo ANEXO I — ESTATUTOS DA VIALITORAL, CONCESSÕES RODOVIÁRIAS DA MADEIRA, S. A.::3.º"
+   ],
+   "fragments": [
+    "f6382bdf37f569a0",
+    "2ac514f60974d7f1",
+    "3e870954e7f308dd",
+    "49f2c0c9f12a2d14",
+    "5865e49c2006b42a",
+    "4db4e91313066a06",
+    "d4d7024307785095",
+    "3b8dbe79580b6b28",
+    "58e0b74a51be0c8c",
+    "99ca8875f02483a7",
+    "397b911fabcfdf75",
+    "01caadc31c05734c",
+    "d45a1ea6a966ba00",
+    "ecd16a9d429feb1b",
+    "805d1773668f9366",
+    "90eecdeb7e0ddc74",
+    "98df70e9903cdf0c",
+    "33b6a1d54d4d635c",
+    "f5ae5c852e5aac21",
+    "eb83234e033027c7",
+    "96a517121204fcb0",
+    "5517fdadfffdabb0",
+    "8aa7e95d827a6b08",
+    "d9273f3653611940",
+    "ca43fb2d93bc1359",
+    "ced7a8d9e7cdc69f",
+    "188eb0003c681aa4",
+    "7a472cd537d2b126",
+    "3b052903febfac94",
+    "1a60e4e741aa1a7f",
+    "c3a40375e91601ca",
+    "ccc6cf17bdd22459",
+    "b70d063f7bf84fab",
+    "b423071b7b32cf28",
+    "08d78e1fa5617f23",
+    "49c06bc521d36754",
+    "171d9a436d5b5334",
+    "32da516ebfd61f19",
+    "2acc6271a38a28b6",
+    "3f2d5f31a866c329",
+    "8837190c55da0f1b",
+    "1430dbd8b9656faf",
+    "83a3076f997bcaa7",
+    "05e2ac7036c33982",
+    "8cbdff30dd7cf1af",
+    "c93db4d78a6fa57b",
+    "9d0da0c621ce81e9",
+    "ab76f7d6d7526ac2",
+    "2ab53e68a22a8546"
+   ]
+  }
+ ],
+ "fragments": {
+  "f6382bdf37f569a0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Cria a VIALITORAL, Concessões Rodoviárias da Madeira, S. A., autoriza a adjudicação da concessão da exploração e manutenção, em regime de serviço público, de exclusividade e de portagem sem cobrança aos utilizadores do troço rodoviário da ER 101 compreendido entre Ribeira Brava e Machico, e aprova as respectivas bases de concessão.\n\nA Região Autónoma da Madeira, de modo a permitir um desenvolvimento sustentado, que garanta uma constante melhoria das condições de vida da sua população e o dinamismo da sua economia, necessita de construir um modelo de prestação de serviços públicos moderno.\n\nA sobrecarga repetida do orçamento regional com os encargos de construção e conservação de troços rodoviários de relevante interesse regional carece de ser substituída por uma lógica mais conforme às soluções de financiamento que, de resto, têm sido preferidas em todo o espaço da União Europeia e merecido um incremento muito significativo em Portugal.\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º e da alínea h) do artigo 228.º, ambos da Constituição da República Portuguesa, e da alínea c) do n.º 1 do artigo 29.º e das alíneas d) e x) do artigo 30.º, ambos da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, o seguinte:"
+  },
+  "2ac514f60974d7f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - É criada a VIALITORAL, Concessões Rodoviárias da Madeira, S. A., adiante designada por VIALITORAL, que tem por objecto a exploração e manutenção do troço rodoviário da ER 101 compreendido entre Ribeira Brava e Machico, em regime de concessão de serviço público, de exclusividade e de portagem sem cobrança aos utilizadores (SCUT).\n\n2 - A VIALITORAL é uma sociedade anónima de capitais exclusivamente públicos, que se rege pela lei comercial e pelos seus estatutos, que constam do anexo I do presente diploma, que dele faz parte integrante, sem prejuízo das disposições legais e especiais que lhe sejam aplicáveis."
+  },
+  "3e870954e7f308dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs obrigações entre a Região Autónoma da Madeira e a VIALITORAL serão as definidas no contrato de concessão de serviço público, que integrará e respeitará as bases da concessão, que constam do anexo II a este decreto legislativo regional, que dele faz parte integrante, e ainda pelos documentos complementares posteriormente concluídos nos termos do contrato de concessão."
+  },
+  "b939b9935d1c647b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nFica o Governo Regional autorizado a adjudicar à VIALITORAL, Concessões Rodoviárias da Madeira, S. A., a concessão da exploração e manutenção, em regime de serviço público de exclusividade e de portagem sem cobrança aos utilizadores (SCUT), o troço rodoviário da ER 101 compreendido entre Ribeira Brava e Machico."
+  },
+  "5865e49c2006b42a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Fica a VIALITORAL, Concessões Rodoviárias da Madeira, S. A., autorizada a proceder a quaisquer aumentos do seu capital, desde que a Região Autónoma da Madeira mantenha uma participação social de percentagem não inferior a 20%.\n\n2 - O primeiro aumento de capital será inteiramente subscrito por entidades privadas, que serão seleccionadas no respeito pelos requisitos que forem estabelecidos pela accionista Região Autónoma da Madeira e que previamente forem aprovados por resolução do Governo Regional, obedecendo, no essencial, aos seguintes requisitos:\n\na) Entidades que exerçam actividade compatível com o objecto da concessão, designadamente empreiteiros de construção civil e obras públicas titulares de alvarás compatíveis com o tipo de actividade concessionada;\n\nb) No caso de outros investidores, nomeadamente institucionais ou financeiros, terem os mesmos firmado com as entidades referidas na alínea a) do presente número compromisso compatível com os objectivos da concessão;\n\nc) Só poderão apresentar a sua intenção de participar nos aumentos de capital da sociedade a constituir os agrupamentos de entidades que reúnam todos os requisitos atrás enunciados e assegurem a sua vontade e interesse irrevogáveis em participar no desenvolvimento da sociedade e, em especial, em respeitar os modelos de incremento e realização de capital definidos nos estatutos da sociedade ou no decreto legislativo regional que os enquadre;\n\nd) As sociedades e os agrupamentos referidos só são admitidos a participar se se verificar que quer as primeiras quer todas as sociedades componentes destes últimos se encontram regularmente constituídas e têm situações contributivas regularizadas perante a segurança social e a Fazenda Nacional."
+  },
+  "4db4e91313066a06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs alterações aos estatutos da VIALITORAL são efectuadas nos termos da lei comercial, sem necessidade da aprovação de novos decretos legislativos regionais e segundo a vontade legítima e os direitos de voto dos respectivos accionistas."
+  },
+  "d4d7024307785095": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presente diploma constitui título bastante para a instrução e prática de quaisquer actos necessários à instalação e funcionamento da VIALITORAL, Concessões Rodoviárias da Madeira, S. A, incluindo o do respectivo registo.\n\nAprovado em Sessão Plenária da Assembleia Legislativa Regional da Madeira em 28 de Julho de 1999.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 16 de Agosto de 1999.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "3b8dbe79580b6b28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO I — ESTATUTOS DA VIALITORAL, CONCESSÕES RODOVIÁRIAS DA MADEIRA, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — ESTATUTOS DA VIALITORAL, CONCESSÕES RODOVIÁRIAS DA MADEIRA, S. A."
+  },
+  "58e0b74a51be0c8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Firma, sede, objecto e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Firma, sede, objecto e duração"
+  },
+  "99ca8875f02483a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Firma, sede e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Firma, sede e duração\n\n1 - A sociedade adopta a firma VIALITORAL, Concessões Rodoviárias da Madeira, S. A.\n\n2 - A sede social é na Avenida de Zarco, Palácio do Governo, freguesia da Sé, concelho do Funchal.\n\n3 - A sociedade, nos termos legais, poderá deslocar a sua sede, dentro do mesmo concelho ou para concelho limítrofe, por meio de deliberação do conselho de administração, bem como criar, transferir ou encerrar sucursais, agências, delegações ou quaisquer outras formas de representação social em território nacional ou estrangeiro, onde e quando entender conveniente.\n\n4 - A sociedade durará por período de tempo indeterminado."
+  },
+  "397b911fabcfdf75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\nA sociedade tem por objecto a exploração e manutenção, em regime de concessão de serviço público, do troço rodoviário da ER 101 compreendido entre Ribeira Brava e Machico, nos termos das bases da concessão respectiva."
+  },
+  "01caadc31c05734c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Capital social e acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Capital social e acções"
+  },
+  "183061093f99694b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Capital social\n\n1 - O capital social é de (Euro) 100000, dividido em acções com o valor nominal de (Euro) 5 cada uma, e encontra-se totalmente subscrito e realizado pela Região Autónoma da Madeira.\n\n2 - O capital social poderá ser aumentado, por uma ou mais vezes, por entradas em dinheiro, no prazo de cinco anos, por deliberação da administração, até (Euro) 15000000, através da emissão de novas acções com o valor nominal das já existentes.\n\n3 - O primeiro aumento de capital, feito nos termos do número anterior, será até ao montante de (Euro) 500000 e será integralmente subscrito pelo(s) agrupamento(s) de empresas seleccionado(s) pelo Governo Regional, no respeito pelos requisitos estabelecidos em resolução sua, renunciando o Governo Regional ao direito de acompanhar este aumento."
+  },
+  "ecd16a9d429feb1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Acções\n\n1 - As acções são nominativas.\n\n2 - As acções poderão ser representadas por títulos de incorporação de 1, 5, 10, 50, 100, 1000 e múltiplos de 1000 unidades numeradas a partir de 1, sendo permitida a concentração e divisão dos mesmos.\n\n3 - Todos os encargos, quer com a divisão quer com a concentração, serão sempre suportados pelos accionistas que o solicitem."
+  },
+  "805d1773668f9366": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Aumentos de capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aumentos de capital\n\n1 - Os accionistas terão, na proporção das acções que possuírem à data, direito de preferência em quaisquer aumentos do capital social por entradas em dinheiro.\n\n2 - Exceptua-se do número anterior o aumento de capital a efectuar nos termos do previsto no n.º 3 do artigo 3.º dos presentes estatutos, por o interesse social o justificar."
+  },
+  "90eecdeb7e0ddc74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Amortização de acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Amortização de acções\n\n1 - Assiste à sociedade o direito de amortizar acções sempre que se verifique algum ou alguns dos seguintes factos:\n\na) Por acordo do respectivo titular;\n\nb) Quando as acções sejam objecto de penhora, arresto, arrolamento ou qualquer outra forma de apreensão ou venda judicial ou ainda quando se verifique a iminência destas situações;\n\nc) Quando o titular ou possuidor das acções viole os seus deveres e obrigações para com a sociedade ou pelo seu comportamento desleal perturbar gravemente o funcionamento da sociedade, implicando prejuízos relevantes em qualquer área inerente à actividade da empresa;\n\nd) Quando qualquer accionista utilizar as informações obtidas, no exercício do seu direito à informação ou no exercício das suas funções na sociedade ou sociedades participadas, de modo a causar prejuízo a esta ou a qualquer accionista.\n\n2 - A decisão de amortizar as acções da sociedade será tomada em reunião da assembleia geral convocada para o efeito e a realizar até 90 dias após o conhecimento do facto pela administração.\n\n3 - A contrapartida da amortização será o acordado, no caso da alínea a), e o valor nominal das acções amortizadas nos restantes casos, salvo se o valor das acções resultante do último balanço for inferior, pois neste caso será este o valor da contrapartida a pagar pela amortização.\n\n4 - O pagamento dos valores previstos no número anterior será efectuado mediante depósito do respectivo preço, em seis prestações semestrais, na Caixa Geral de Depósitos, à ordem de quem de direito, salvo se outro prazo e outras condições de pagamento forem deliberados em assembleia geral."
+  },
+  "98df70e9903cdf0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações\n\nA sociedade poderá emitir obrigações e outros títulos de dívida, nos termos da lei."
+  },
+  "33b6a1d54d4d635c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Empréstimos de accionistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Empréstimos de accionistas\n\nQualquer dos accionistas poderá fazer empréstimos à sociedade de que esta careça, nos termos e condições que forem estabelecidos em assembleia geral."
+  },
+  "f5ae5c852e5aac21": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Órgãos sociais"
+  },
+  "eb83234e033027c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Órgãos sociais\n\n1 - São órgãos da sociedade a assembleia geral, o conselho de administração e o fiscal único.\n\n2 - Os membros dos órgãos sociais auferem ou não remuneração, consoante o que for deliberado em assembleia geral ou por uma comissão de accionistas eleita por aquela para esse fim.\n\n3 - A actividade dos membros dos órgãos sociais não carece de caução."
+  },
+  "96a517121204fcb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Da assembleia geral"
+  },
+  "5517fdadfffdabb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Composição da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Composição da assembleia geral\n\n1 - A assembleia geral é constituída por todos os accionistas com direito a voto, cabendo um voto a cada 100 acções.\n\n2 - Os accionistas, pessoas singulares ou colectivas, poderão fazer-se representar nas reuniões da assembleia geral por qualquer pessoa, mediante carta dirigida ao presidente da mesa da assembleia geral, e ainda que tais assembleias se efectuem sem formalidades prévias nos termos do disposto na lei, e o mandato pode vigorar por tempo indefinido."
+  },
+  "8aa7e95d827a6b08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Mesa da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Mesa da assembleia geral\n\n1 - A mesa da assembleia geral é constituída por um presidente e um secretário, os quais serão eleitos, por períodos de três anos, de entre os accionistas ou não, sendo os seus membros reelegíveis.\n\n2 - Compete ao presidente da mesa da assembleia geral convocar e dirigir as reuniões da assembleia geral, dar posse aos membros dos órgãos sociais, bem como exercer as demais funções que lhe são conferidas por lei e pelo presente contrato."
+  },
+  "d9273f3653611940": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Convocação da assembleia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Convocação da assembleia\n\n1 - A assembleia será convocada pelo presidente da mesa, por sua iniciativa, a solicitação do conselho de administração do fiscal único ou de accionistas que, nos termos da lei, reúnam as condições necessárias para requerer a convocação da assembleia geral.\n\n2 - Na primeira convocatória pode, desde logo, ser marcada uma segunda data para reunir, no caso de a assembleia não poder funcionar na primeira data marcada."
+  },
+  "ca43fb2d93bc1359": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Do conselho de administração"
+  },
+  "ced7a8d9e7cdc69f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conselho de administração\n\n1 - A administração dos negócios sociais e a representação em juízo e fora dele, activa e passivamente, competem ao conselho de administração, composto por três, cinco, sete ou nove membros, eleito pela assembleia geral por períodos de três anos, sendo permitida a sua reeleição.\n\n2 - A assembleia geral que eleger o conselho de administração designará desde logo o seu presidente."
+  },
+  "188eb0003c681aa4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Delegação de poderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Delegação de poderes\n\nA delegação da gestão corrente da sociedade ou a designação de mandatários poderá ser efectuada por simples deliberação do conselho de administração, donde conste expressamente a competência e os poderes atribuídos."
+  },
+  "7a472cd537d2b126": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Modo de obrigar a sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Modo de obrigar a sociedade\n\nA sociedade obriga-se, em todos os seus actos e contratos:\n\na) Pela assinatura conjunta de dois membros do conselho de administração;\n\nb) Pela assinatura conjunta de um membro do conselho de administração e de um procurador da sociedade;\n\nc) Pela assinatura de um ou mais mandatários, nos precisos termos dos respectivos mandatos."
+  },
+  "3b052903febfac94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Do fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Do fiscal único"
+  },
+  "1a60e4e741aa1a7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Composição\n\n1 - A fiscalização da sociedade compete a um fiscal único, que, conjuntamente com um fiscal suplente, serão eleitos por um período de três anos pela assembleia geral, podendo ser reeleitos.\n\n2 - O fiscal único e o fiscal suplente deverão ser revisores oficiais de contas ou sociedades revisoras de oficiais de contas."
+  },
+  "c3a40375e91601ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Dos lucros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Dos lucros"
+  },
+  "ccc6cf17bdd22459": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Distribuição de lucros do exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Distribuição de lucros do exercício\n\n1 - Os lucros de exercício, depois de deduzida a percentagem estabelecida por lei para a constituição de reserva legal, terão a aplicação que a assembleia geral livremente determinar, podendo essas deliberações derrogar, total ou parcialmente, o direito dos accionistas aos respectivos lucros.\n\n2 - No decurso de um exercício poderão ser feitos aos accionistas adiantamentos sobre lucros, desde que respeitados os requisitos legais."
+  },
+  "b70d063f7bf84fab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Ano social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Ano social\n\nO ano social coincide com o ano civil, encerrando-se as contas e o balanço com referência ao fim de cada ano."
+  },
+  "b423071b7b32cf28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições gerais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições gerais e transitórias"
+  },
+  "08d78e1fa5617f23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA sociedade assumirá todos os encargos derivados da sua constituição e registo."
+  },
+  "49c06bc521d36754": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nNos termos e para os efeitos das alíneas c) e d) dos artigos 19.º e 277.º do Código das Sociedades Comerciais, fica o conselho de administração autorizado a proceder ao levantamento do capital social para fazer face às despesas de constituição, instalação e funcionamento da sociedade, bem como a abrir e movimentar contas bancárias em nome da sociedade."
+  },
+  "171d9a436d5b5334": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO II — BASES DA CONCESSÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — BASES DA CONCESSÃO"
+  },
+  "32da516ebfd61f19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Objecto, tipo e prazo da Concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Objecto, tipo e prazo da Concessão\n\nBase I\n\nDefinições\n\n1 - Nas presentes Bases, sempre que iniciados por maiúscula, e salvo se do contexto claramente resultar sentido diferente, os termos abaixo indicados terão o significado que a seguir lhes é apontado:\n\na) ) «Bancos Financiadores» - as instituições de crédito financiadoras do desenvolvimento das actividades integradas na Concessão, nos termos titulados por Contratos de Financiamento;\n\nb) «Caso Base» - o conjunto de pressupostos e projecções económico-financeiras que constarão de anexo ao Contrato de Concessão e qualquer alteração das mesmas, decorrente da reposição do equilíbrio financeiro da Concessão;\n\nc) «Concessão» - o conjunto de direitos e obrigações atribuídos à Concessionária por intermédio das Bases da Concessão e do Contrato de Concessão;\n\nd) «Contrato de Concessão» - o contrato celebrado entre o Concedente e a Concessionária, tendo por objecto a manutenção e a exploração das Vias Concessionadas;\n\ne) «Contratos de Financiamento» - os contratos celebrados entre a Concessionária e os Bancos Financiadores, tendo por objecto o financiamento das actividades integradas na Concessão, bem como os demais documentos e instrumentos que a esse financiamento respeitem, os quais constarão de anexo ao Contrato de Concessão;\n\nf) «Empreendimento Concessionado» - conjunto de bens objecto da Concessão, nos termos do que constar no Contrato de Concessão;\n\ng) «Lanços» - as secções viárias em que se dividem as Vias Concessionadas;\n\nh) «Lanços Construídos» - as secções viárias em que se dividem as Vias Concessionadas que já se encontram construídas;\n\ni) «Lanços em Construção» - as secções viárias em que se dividem as Vias Concessionadas cuja construção ainda não se encontra concluída;\n\nj) «Partes» - o Concedente e a Concessionária;\n\nl) «Período Inicial da Concessão» - período de tempo que se inicia às 24 horas do dia da assinatura do Contrato de Concessão e termina às 24 horas do dia da entrada em serviço da totalidade dos Lanços que constituem as Vias Concessionadas;\n\nm) «Portagem SCUT» - importância que a Concessionária tem a receber do Concedente em função dos valores de tráfego registados;\n\nn) «Processo de Arbitragem» - procedimento aplicável à resolução de eventuais conflitos surgidos entre as partes relativamente à interpretação, integração e aplicação das regras por que se rege a Concessão;\n\no) «SCUT» - sem cobrança ao utilizador;\n\np) «Termo da Concessão» - a extinção do Contrato de Concessão independentemente do motivo pelo qual a mesma ocorra;\n\nq) «Vias Concessionadas» - conjunto dos Lanços que constituem o objecto da Concessão, nos termos da base II;\n\nr) «Vias Rodoviárias Concorrentes» - vias rodoviárias cuja entrada em serviço afecte de modo significativo as evoluções normais registadas no tráfego para cada Lanço das Vias Concessionadas, com exclusão expressa das vias de acesso às Vias Concessionadas.\n\nBase II\n\nObjecto e tipo\n\n1 - A concessão é de serviço público e tem por objecto o exclusivo da manutenção e da exploração, em regime de portagem, sem cobrança aos utilizadores (SCUT), do troço rodoviário da ER 101 compreendido entre a Ribeira Brava e Machico.\n\n2 - Os limites físicos da Concessão são definidos em relação às Vias Concessionadas que a integram pelos perfis transversais extremos das mesmas, em conformidade com os traçados definitivos constantes dos projectos oficialmente aprovados.\n\nBase III\n\nBens da Concessão\n\n1 - As Vias Concessionadas pertencem ao domínio público do Concedente, encontrando-se subtraídas ao comércio jurídico privado e não podendo como tal ser, por qualquer forma, cedidas, alienadas, oneradas ou objecto de arresto, penhora ou qualquer providência cautelar.\n\n2 - Encontram-se afectos à Concessão, nos termos estipulados no Contrato de Concessão:\n\na) Os imóveis destinados a casas de guarda e pessoal da exploração, os escritórios e quaisquer outras instalações afectas ao funcionamento dos serviços concessionados;\n\nb) Todas as máquinas, equipamento, aparelhos e acessórios e, em geral, quaisquer outros bens móveis usados na exploração e manutenção das Vias Concessionadas;\n\nc) Os Contratos de Financiamento;\n\nd) As relações jurídicas que se encontrem, a cada momento, relacionadas com a concessão, nomeadamente as laborais, de mútuo, de empreitada, de locação financeira e de prestação de serviços.\n\n3 - Os imóveis adquiridos por via do direito privado ou de expropriação para a instalação e funcionamento dos serviços concessionados, bem como quaisquer edificações construídas pela Concessionária, integrarão igualmente o domínio público da concedente.\n\n4 - A Concessionária elaborará, até 31 de Março de cada ano, um inventário do património afecto à Concessão, que manterá actualizado e à disposição do Concedente.\n\n5 - No inventário a que se refere o número anterior mencionar-se-ão os ónus ou encargos que recaem sobre os bens afectos à Concessão.\n\n6 - No termo da concessão, os bens e direitos a ela afectos revertem para o Concedente.\n\n7 - A Concessionária também não poderá por qualquer forma ceder, alienar ou onerar quaisquer bens referidos na alínea a) do n.º 2 e no n.º 3, os quais, encontrando-se subtraídos do comércio jurídico privado, não podem igualmente ser objecto de alienação ou oneração nem de arresto, penhora ou qualquer providência cautelar.\n\nBase IV\n\nAlienação, substituição e ou oneração de bens móveis\n\n1 - Os bens móveis a que se refere a alínea b) do n.º 2 da base anterior poderão ser substituídos, alienados e ou onerados pela Concessionária, com as limitações resultantes dos números seguintes.\n\n2 - A Concessionária apenas poderá alienar os bens móveis, se proceder à sua imediata substituição por outros com condições de operacionalidade, qualidade e funcionamento idênticas ou superiores, excepto tratando-se de bens que comprovadamente tenham perdido função económica.\n\n3 - Ao longo dos últimos cinco anos de duração da Concessão os negócios jurídicos referidos no n.º 2 da presente base deverão ser comunicados pela Concessionária à Concedente com a antecedência mínima de 30 dias, podendo esta opor-se, fundamentadamente e de acordo com critérios de razoabilidade, à sua concretização nos 10 dias seguintes à recepção daquela comunicação.\n\nBase V\n\nOneração, alienação e trespasse da Concessão\n\n1 - Sem prejuízo do disposto no número seguinte, a Concessionária não poderá alienar ou por qualquer modo onerar, no todo ou em parte, a Concessão, ou realizar negócio jurídico que vise atingir idênticos resultados.\n\n2 - A Concessionária não pode trespassar a Concessão, ou realizar negócio jurídico que vise atingir idênticos resultados, sem prévia autorização do Concedente.\n\n3 - Serão nulos quaisquer actos praticados em violação do disposto nesta base.\n\nBase VI\n\nPrazo da Concessão\n\n1 - A Concessão terá um prazo de duração de 25 anos, contados desde a data da assinatura do Contrato de Concessão, considerando-se o prazo da Concessão automaticamente expirado às 24 horas do 25.º aniversário daquela data.\n\n2 - O prazo de Concessão estabelecido no número anterior apenas poderá ser prorrogado se nisso acordarem por escrito o Concedente e a Concessionária.\n\n3 - O eventual acordo de prorrogação do prazo de Concessão estabelecerá as condições aplicáveis a essa prorrogação e a manutenção em vigor de todas as disposições do Contrato de Concessão que não sejam objecto de alterações."
+  },
+  "2acc6271a38a28b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Sociedade Concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Sociedade Concessionária\n\nBase VII\n\nObjecto social\n\nA Concessionária terá como objecto social o exercício das actividades integradas na Concessão e manterá, ao longo de todo o período de duração da Concessão, a sede na Região Autónoma da Madeira e a forma de sociedade anónima.\n\nBase VIII\n\nEstatutos\n\nQualquer alteração aos estatutos deverá ser objecto de autorização prévia por parte do Concedente, sob pena de nulidade.\n\nBase IX\n\nObtenção de licenças\n\nCompete à Concessionária requerer todas as licenças, autorizações e aprovações necessárias ao exercício das actividades integradas na Concessão, bem como preencher os demais requisitos complementares para o mesmo fim, devendo o Concedente prestar à Concessionária toda a assistência que razoavelmente lhe possa ser exigida.\n\nBase X\n\nRegime fiscal\n\nA Concessionária ficará sujeita, nos termos e condições da legislação aplicável, ao regime fiscal em vigor."
+  },
+  "3f2d5f31a866c329": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Financiamento\n\nBase XI\n\nResponsabilidades da Concessionária\n\nA Concessionária é responsável pela obtenção do financiamento necessário ao desenvolvimento das actividades que integram o objecto da Concessão.\n\nBase XII\n\nContratos de financiamento\n\n1 - Com vista à obtenção dos fundos necessários ao desenvolvimento das actividades objecto da Concessão e à realização dos pagamentos referidos na base XV a Concessionária obriga-se a contrair os Contratos de Financiamento nos termos que forem fixados pelo Contrato de Concessão.\n\n2 - A modificação dos Contratos de Financiamento carece de aprovação prévia do Concedente, nos termos que forem estipulados pelo Contrato de Concessão."
+  },
+  "8837190c55da0f1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Transferências dos Lanços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Transferências dos Lanços\n\nBase XIII\n\nLanços Construídos\n\nOs Lanços Construídos transferem-se para a Concessionária às 24 horas do dia 31 de Dezembro de 1999, tornando-se a respectiva exploração e conservação sua responsabilidade exclusiva a partir de então.\n\nBase XIV\n\nLanços em Construção\n\n1 - Os Lanços em Construção serão transferidos para a Concessionária nos termos fixados no Contrato de Concessão.\n\n2 - Os Lanços em Construção deverão encontrar-se integralmente transferidos para a Concessionária até ao dia 31 de Dezembro de 2001, passando a respectiva exploração e conservação, a partir da data daquela transferência, a ser da sua responsabilidade exclusiva.\n\n3 - A partir das 24 horas do dia em que se encontrar transferida para a Concessionária a integralidade dos Lanços em Construção, a Concessionária terá direito a receber do Concedente um pagamento referente a Portagem SCUT, nos termos estipulados no Contrato de Concessão.\n\nBase XV\n\nPagamento dos Lanços\n\nA Concessionária pagará ao Concedente, pela transferência da totalidade dos Lanços, um montante global de 50000000000$00 nos termos estipulados no Contrato de Concessão."
+  },
+  "1430dbd8b9656faf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Exploração e manutenção das Vias Concessionadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Exploração e manutenção das Vias Concessionadas\n\nBase XVI\n\nExploração das Vias Concessionadas\n\n1 - A Concessionária é responsável pela exploração das Vias Concessionadas, em condições de operacionalidade e segurança.\n\n2 - A Concessionária tem o direito a receber as importâncias relativas às Portagens SCUT devidas em função dos volumes de tráfego registados e as demais importâncias previstas no Contrato de Concessão e, bem assim, quaisquer outros rendimentos obtidos no âmbito da Concessão.\n\nBase XVII\n\nManutenção das Vias Concessionadas\n\n1 - É da responsabilidade da Concessionária a manutenção das Vias Concessionadas em bom estado de conservação e boas condições de utilização, operacionalidade e segurança, bem como a realização de todos os trabalhos necessários para que as mesmas satisfaçam cabal e permanentemente o fim a que se destinam.\n\n2 - Constitui ainda responsabilidade da Concessionária a conservação e manutenção dos sistemas de contagem e classificação de tráfego, incluindo o respectivo centro de controlo, e ainda os sistemas de iluminação, de sinalização e de segurança.\n\nBase XVIII\n\nEquipamento de contagem e classificação de tráfego\n\n1 - A Concessionária tem a obrigação de instalar em cada um dos Lanços que integram as Vias Concessionadas, equipamento de contagem e classificação de tráfego que permita, em tempo real, assegurar ao Concedente o controlo efectivo do número e tipo de veículos que passam nas Vias Concessionadas, os quais constituem a base do cálculo da remuneração à Concessionária, nos termos do Contrato de Concessão.\n\n2 - A localização dos sistemas de contagem deverá permitir a contagem e classificação para efeitos do cálculo do encargo para o Concedente com o sistema de Portagens SCUT em todos os Lanços que constituem a Concessão.\n\nBase XIX\n\nClassificação de veículos\n\nPara efeitos de determinação do valor das Portagens SCUT, nos termos do Contrato de Concessão, deverão prever-se apenas duas classes: veículos ligeiros e veículos pesados.\n\nBase XX\n\nObrigações e direitos dos utilizadores e dos proprietários confinantes das Vias Concessionadas\n\n1 - As obrigações dos utilizadores e os direitos e obrigações dos proprietários confinantes com as Vias Concessionadas, em relação ao seu policiamento, serão as que constam das disposições legais ou regulamentares aplicáveis.\n\n2 - Os utentes têm o direito de serem informados previamente pela Concessionária sobre a realização de obras programadas que afectem as normais condições de circulação nas Vias Concessionadas, designadamente as que reduzam o número de vias em serviço ou as que obriguem a desvios de faixa de rodagem.\n\nBase XXI\n\nManutenção e disciplina de tráfego\n\n1 - A circulação pelas Vias Concessionadas obedecerá ao determinado no Código da Estrada e mais disposições legais ou regulamentares aplicáveis.\n\n2 - A Concessionária será obrigada, salvo caso de força maior devidamente verificado, a assegurar permanentemente, em boas condições de segurança e comodidade, a circulação nas Vias Concessionadas.\n\nBase XXII\n\nAssistência aos utentes\n\nA Concessionária é obrigada a assegurar a assistência aos utentes das Vias Concessionadas, nela se incluindo a vigilância das condições de circulação, nomeadamente no que respeita à sua fiscalização e à prevenção do acidente."
+  },
+  "83a3076f997bcaa7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Pagamentos a efectuar pelo Concedente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Pagamentos a efectuar pelo Concedente\n\nBase XXIII\n\nPagamentos durante o Período Inicial da Concessão\n\n1 - Sem prejuízo do disposto no número seguinte, durante o Período Inicial da Concessão, a Concessionária não receberá qualquer montante do Concedente, pela prestação dos serviços concessionados.\n\n2 - Caso o final do Período Inicial da Concessão ocorra em data posterior a 31 de Dezembro de 2001, o Concedente deverá pagar à Concessionária os montantes que lhe seriam devidos se não se tivesse verificado qualquer atraso na abertura ao tráfego dos Lanços que integram as Vias Concessionadas, de acordo com o que for estabelecido pelos termos do Contrato de Concessão.\n\nBase XXIV\n\nPagamentos após o Período Inicial da Concessão\n\n1 - A partir das 24 horas do dia em que abrir ao tráfego o último dos Lanços que integram as Vias Concessionadas, a Concessionária terá direito a receber do Concedente um pagamento referente a Portagem SCUT calculado com base no que for estipulado no Contrato de Concessão.\n\n2 - As tarifas de portagem SCUT a aplicar em cada ano para cada uma das bandas serão fixadas anualmente, no mês de Janeiro, nos termos estipulados no Contrato de Concessão.\n\n3 - O Concedente procederá à liquidação dos montantes devidos nos termos da presente Base e do Contrato de Concessão.\n\n4 - Sobre todos os pagamentos a efectuar pelo Concedente incidirá IVA à taxa legalmente aplicável."
+  },
+  "05e2ac7036c33982": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Fiscalização e garantia do cumprimento das obrigações da Concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Fiscalização e garantia do cumprimento das obrigações da Concessionária\n\nBase XXV\n\nFiscalização do cumprimento do Contrato de Concessão\n\n1 - Os poderes de fiscalização do cumprimento das obrigações da Concessionária serão os emergentes do Contrato da Concessão e serão exercidos pela Secretaria Regional do Equipamento Social e do Ambiente, através da Direcção Regional de Estradas.\n\n2 - A Concessionária facultará ao Concedente, ou a qualquer entidade por este nomeada, livre acesso ao Empreendimento Concessionado, bem como a todos os livros, registos e documentos relativos às instalações e actividades objecto da Concessão, e prestará sobre esses documentos os esclarecimentos que lhe forem solicitados.\n\n3 - As determinações que vierem a ser emitidas no âmbito dos poderes de fiscalização, serão imediatamente aplicáveis e vincularão a Concessionária, sem prejuízo do posterior recurso ao Processo de Arbitragem.\n\nBase XXVI\n\nGarantias de cumprimento\n\nO cumprimento cabal e atempado das obrigações da Concessionária será garantido, através de caução estabelecida nos montantes e com as condições de execução pelo Concedente nos termos que forem estipulados pelo Contrato de Concessão, devendo manter-se em pleno vigor e eficácia ao longo de todo o período de duração da Concessão.\n\nBase XXVII\n\nCobertura por seguros\n\nA Concessionária deverá assegurar a existência e manutenção em vigor das apólices de seguro necessárias para garantir uma efectiva e integral cobertura dos riscos inerentes ao desenvolvimento das actividades integradas na Concessão, nos termos que forem fixados pelo Contrato de Concessão."
+  },
+  "8cbdff30dd7cf1af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VIII — Responsabilidade extracontratual perante terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VIII — Responsabilidade extracontratual perante terceiros\n\nBase XXVIII\n\nResponsabilidade pela culpa e pelo risco\n\nA Concessionária responderá, nos termos da lei geral, por quaisquer prejuízos causados a terceiros no exercício das actividades que constituem o objecto da Concessão, pela culpa ou pelo risco, não sendo assumido pelo Concedente qualquer tipo de responsabilidade neste âmbito.\n\nBase XXIX\n\nResponsabilidade por prejuízos causados por entidades contratadas\n\nA Concessionária responderá ainda nos termos gerais da relação comitente-comissário, pelos prejuízos causados a terceiros pelas entidades por si contratadas para o desenvolvimento das actividades integradas na Concessão."
+  },
+  "c93db4d78a6fa57b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IX — Incumprimento e cumprimento defeituoso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IX — Incumprimento e cumprimento defeituoso\n\nBase XXX\n\nIncumprimento\n\nSem prejuízo das situações de incumprimento que poderão dar origem a sequestro ou rescisão da Concessão nos termos referidos nas bases XXXIII e XXXIV, o incumprimento pela Concessionária dos deveres e obrigações que emergirem do Contrato da Concessão ou das determinações do Concedente emitidas no âmbito da lei ou do referido contrato originará a aplicação de multas contratuais pelo Concedente, cujo montante variará entre um mínimo de 1000000$00 e um máximo de 100000000$00, conforme a gravidade das infracções cometidas.\n\n2 - As multas impostas pelo Concedente serão imediatamente exigíveis, nos termos fixados na comunicação para o efeito remetida pelo Concedente à Concessionária, a qual produzirá os seus efeitos independentemente de qualquer outra formalidade.\n\nBase XXXI\n\nForça maior\n\n1 - Consideram-se eventos de força maior os eventos imprevisíveis e irresistíveis, exteriores às Partes, que tenham um impacte directo negativo sobre a Concessão.\n\n2 - A ocorrência de um caso de força maior terá por efeito exonerar a Concessionária de responsabilidade pelo não cumprimento das obrigações que emergirem do Contrato de Concessão, na medida em que o seu cumprimento pontual e atempado tenha sido impedido em virtude da referida ocorrência, e dará lugar à reposição do equilíbrio financeiro da Concessão nos termos da base XXVII ou caso a impossibilidade se torne definitiva, à resolução do Contrato de Concessão."
+  },
+  "9d0da0c621ce81e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO X — Extinção e suspensão da Concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO X — Extinção e suspensão da Concessão\n\nBase XXXII\n\nResgate\n\n1 - Nos últimos cinco anos de duração da Concessão, o Concedente poderá resgatar a Concessão sempre que motivos de interesse público o justifiquem, mediante notificação remetida à Concessionária com a antecedência mínima de um ano.\n\n2 - Em caso de resgate, a Concessionária terá direito à prestação pelo Concedente, a título de indemnização e em cada ano, desde a data do resgate até ao termo do prazo da Concessão, de uma quantia nos termos que forem fixados pelo Contrato de Concessão.\n\nBase XXXIII\n\nSequestro\n\n1 - Em caso de incumprimento grave, pela Concessionária, das obrigações emergentes do Contrato de Concessão, o Concedente poderá, mediante sequestro, tomar a seu cargo a realização das actividades integradas na Concessão, nos termos que forem estipulados no Contrato de Concessão.\n\n2 - A Concessionária suportará os encargos resultantes da manutenção dos serviços e as despesas necessárias ao restabelecimento da normalidade.\n\n3 - Logo que cessem as razões que motivaram o sequestro, a Concessionária será notificada para retomar a Concessão, no prazo que razoavelmente lhe for fixado.\n\nBase XXXIV\n\nRescisão imputável à Concessionária\n\nO Concedente poderá pôr fim à Concessão através da rescisão do Contrato de Concessão em casos de violação grave, contínua e não sanada ou não sanável das obrigações da Concessionária, nos termos que forem fixados pelo Contrato de Concessão.\n\nBase XXXV\n\nTermo da Concessão imputável ao Concedente\n\n1 - Caso venha a verificar-se o Termo da Concessão por acto unilateral do Concedente ou por motivo a ele exclusivamente imputável, este será responsável pelo pagamento da totalidade do passivo consubstanciado nos Contratos de Financiamento.\n\n2 - Um atraso superior a seis meses, no pagamento pelo Concedente à Concessionária das Portagens SCUT nos termos que forem fixados no Contrato de Concessão constituirá a Concessionária no direito de proceder à sua rescisão.\n\n3 - No caso previsto no número anterior, o Concedente deverá ainda indemnizar a Concessionária nos termos gerais de direito."
+  },
+  "ab76f7d6d7526ac2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XI — Condição financeira da Concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XI — Condição financeira da Concessionária\n\nBase XXXVI\n\nCaso Base\n\nO Caso Base representará a equação financeira com base na qual será efectuada a reposição do equilíbrio financeiro da Concessão, nos termos da Base seguinte.\n\nBase XXXVII\n\nEquilíbrio financeiro\n\n1 - A Concessionária terá direito à reposição do equilíbrio financeiro da Concessão nos termos gerais de direito administrativo e nomeadamente nos seguintes casos:\n\na) Imposição de modificações unilaterais pelo Concedente;\n\nb) Criação ou beneficiação de Vias Rodoviárias Concorrentes;\n\nc) Prejuízos causados à Concessionária em resultado de deficiências ou omissões na concepção, no projecto ou na execução das Vias Concessionadas;\n\nd) Ocorrência de casos de força maior nos termos da base XXXI, excepto se, em resultado dos mesmos, se verificar a resolução do Contrato de Concessão;\n\ne) Alterações legislativas que tenham impacte significativo sobre as receitas ou custos respeitantes à exploração das Vias Concessionadas.\n\n2 - Sempre que a Concessionária tenha direito à reposição do equilíbrio financeiro da Concessão, tal reposição será efectuada de acordo com o que vier a ser estabelecido no Contrato de Concessão."
+  },
+  "2ab53e68a22a8546": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO XII — Resolução de diferendos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO XII — Resolução de diferendos\n\nBase XXXVIII\n\nResolução de diferendos\n\n1 - Os eventuais conflitos que possam surgir entre as Partes em matéria de aplicação, interpretação ou integração das regras por que se rege a Concessão serão resolvidas de acordo com o Processo de Arbitragem, nos termos que forem fixados no Contrato de Concessão.\n\n2 - A submissão de qualquer questão ao Processo de Arbitragem não exonera a Concessionária do pontual e atempado cumprimento de quaisquer disposições contratuais e das determinações do Concedente que no seu âmbito lhe sejam comunicadas, incluindo as emitidas após a data daquela submissão, nem permite qualquer interrupção do desenvolvimento das actividades integradas na Concessão, que deverão continuar a processar-se nos termos em vigor à data de submissão da questão, até que uma decisão final seja obtida no Processo de Arbitragem relativamente à matéria em causa."
+  },
+  "49f2c0c9f12a2d14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2007-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2007-629169), publicado em 2007-11-07.",
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 15/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2007-629169), publicado em 2007-11-07."
+   ],
+   "markdown": "###### Artigo 3.º\n\nFica o Governo Regional autorizado a adjudicar à VIALITORAL, Concessões Rodoviárias da Madeira, S. A., a concessão da exploração e manutenção, em regime de serviço público de exclusividade e de portagem sem cobrança aos utilizadores (SCUT), o troço rodoviário da ER 101 compreendido entre Ribeira Brava e Machico.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2007-629169), publicado em 2007-11-07.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 15/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2007-629169), publicado em 2007-11-07."
+  },
+  "d45a1ea6a966ba00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Capital social",
+   "in_force_from": "2007-11-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 15/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2007-629169), publicado em 2007-11-07."
+   ],
+   "markdown": "###### Artigo 3.º — Capital social\n\n1 - O capital social é de (euro) 16 125 000, dividido em acções com o valor nominal de (euro) 5 cada uma, e encontra-se totalmente subscrito e realizado pelos accionistas.\n\n2 - O capital social poderá ser aumentado, por uma ou mais vezes, por entradas em dinheiro, no prazo de cinco anos, por deliberação da administração, até (Euro) 15000000, através da emissão de novas acções com o valor nominal das já existentes.\n\n3 - O primeiro aumento de capital, feito nos termos do número anterior, será até ao montante de (Euro) 500000 e será integralmente subscrito pelo(s) agrupamento(s) de empresas seleccionado(s) pelo Governo Regional, no respeito pelos requisitos estabelecidos em resolução sua, renunciando o Governo Regional ao direito de acompanhar este aumento.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 15/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2007-629169), publicado em 2007-11-07."
+  }
+ }
+}

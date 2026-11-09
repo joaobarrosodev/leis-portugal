@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-03-31'
+version_history:
+  file: portaria-843-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-03-31'
+    amending: pt:dre:409490:por
+    amending_title: Declaração de Rectificação n.º 64/93
+    changes:
+    - Altera Artigo 16.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/843/1992/09/01/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:36:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 64/93.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/1992/portaria-843-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -161,7 +176,7 @@ e) Grupo Regional de Trânsito n.º 1 - Lisboa:
 
 4) Destacamento de Trânsito n.º 14 - Carregado;
 
-f) Grupo Regional de Trânsito n.º 2 - Fogueteiro, provisoriamente em:
+f) Grupo Regional de Trânsito n.º 2 - Fogueteiro, provisoriamente em Santarém:
 
 1) Destacamento de Trânsito n.º 21 - Fogueteiro;
 
@@ -206,6 +221,8 @@ i) Grupo Regional de Trânsito n.º 5 - Coimbra:
 5) Destacamento de Trânsito n.º 55 - Castelo Branco.
 
 5 - ...
+
+> Alterado pelo/a [Declaração de Rectificação n.º 64/93](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1993-409490), publicado em 1993-03-31.
 
 ## PARTE II
 

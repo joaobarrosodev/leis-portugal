@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-10-07'
+version_history:
+  file: decreto-regulamentar-10-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-03-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-10-07'
+    amending: pt:dre:548408:por
+    amending_title: Decreto Regulamentar n.º 28/89
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:15:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 28/89. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1988/decreto-regulamentar-10-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,49 +143,45 @@ Assim:
 
 O Governo decreta, ao abrigo do artigo 75.º do [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, e nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º O Conselho Nacional de Cartografia, abreviadamente designado por CNC, criado pelo [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, na dependência do Ministro do Planeamento e da Administração do Território, é um órgão de consulta e apoio do Governo para efeitos da definição e da execução das grandes linhas e orientações da política nacional de cartografia.
+###### Artigo 1.º
 
-Art. 2.º - 1 - Compete ao CNC:
+O Conselho Nacional de Cartografia, abreviadamente designado por CNC, criado pelo [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, na dependência do Ministro do Planeamento e da Administração do Território, é um órgão de consulta e apoio do Governo para efeitos da definição e da execução das grandes linhas e orientações da política nacional de cartografia.
 
-a) Pronunciar-se obrigatoriamente e apresentar propostas sobre a definição e a execução da política nacional de cartografia, tendo em vista as necessidades de desenvolvimento social, económico, regional e de defesa do País, respeitadas as orientações governamentais sobre a matéria e ainda os pareceres de cada instituição nele representada;
+###### Artigo 2.º
 
-b) Elaborar e apresentar planos e programas cartográficos de dimensão nacional a curto, médio e longo prazos, tendo em vista não apenas os seus aspectos técnicos, mas igualmente as suas envolventes económico-financeiras por forma a:
+1 - Compete ao Conselho Nacional de Cartografia:
 
-1) Dar a conveniente realização à política nacional de cartografia aprovada superiormente;
+a) Pronunciar-se obrigatoriamente e apresentar propostas sobre a definição e a execução da política nacional de cartografia, tendo em vista as necessidades de desenvolvimento social, económico, regional e de defesa do País, tendo em conta os pareceres de cada instituição nele representada;
 
-2) Coordenar a programação das pertinentes actividades a nível da administração central, regional, local e do sector privado, tendo em conta as competências definidas para os vários órgãos e entidades em cada domínio específico daquelas actividades;
+b) Propor a realização das séries de cobertura cartográfica que mais satisfaçam os interesses nacionais;
 
-3) Considerar a mais correcta atribuição, descentralização e orientação das actividades cartográficas e tecnológicas afins a cometer aos vários serviços públicos e à actividade privada, de acordo com as suas capacidades actuais e potenciais, evitando duplicações e procurando a maior rentabilidade económica e social para o País, sem prejuízo dos indispensáveis requisitos de segurança;
+c) Emitir parecer sobre a descentralização e orientação das actividades cartográficas e tecnológicas afins a cometer aos vários serviços públicos e à actividade privada, de acordo com as suas capacidades actuais e potenciais, evitando duplicação e procurando a maior rentabilidade económica e social para o País, sem prejuízo dos indispensáveis requisitos de segurança;
 
-c) Apreciar e informar com carácter periódico relatórios sobre a execução dos planos e programas referidos na alínea anterior, tanto os cometidos directamente a departamentos do Estado com os adjudicados ao sector privado da especialidade;
+d) Apreciar e emitir parecer sobre os relatórios anuais das instituições responsáveis pela cartografia no que respeita ao cumprimento da política cartográfica definida;
 
-d) Propor e dar parecer sobre medidas legislativas, estruturais e técnico-normativas relativas à cartografia nacional, designadamente no referente a temáticas cartográficas, escalas, séries, normalizações toponímicas e outras, controle de qualidade da produção, termos de adjudicação de propostas, avaliação de custos e ainda das produtividades e da rentabilidade dos sistemas nacionais de cartografia;
+e) Dar parecer sobre medidas legislativas estruturais e técnico-normativas relativas à cartografia nacional, designadamente no referente à normalização geral e fundamental;
 
-e) Dar parecer sobre a aquisição pelos serviços do Estado ou sobre o estabelecimento de facilidades de ordem fiscal ou de crédito para aquisição pelo sector privado de novos equipamentos que, pelo seu elevado custo ou por introduzirem novas tecnologias, possam ter significado no âmbito da cartografia nacional;
+f) Dar parecer, quando solicitado pelo Governo, sobre a aquisição pelos serviços do Estado ou sobre o estabelecimento de facilidades para aquisição, pelo sector privado, de novos equipamentos;
 
-f) Cooperar com os departamentos da administração central ou regional intervenientes nas relações com organismos das Comunidades Europeias ou com organizações estrangeiras relativamente a projectos cartográficos ou de detecção remota específicos candidatos ou já beneficiários de financiamentos por fundos daquelas organizações internacionais;
+g) Cooperar com organismos congéneres;
 
-g) Propor medidas tendentes:
+h) Propor medidas tendentes à introdução, desenvolvimento e aperfeiçoamento de sistemas cartográficos, fotogramétricos e de tecnologias afins, actualizados e acessíveis ao País, designadamente a utilização sistemática das técnicas informáticas de cálculo, digitalização e desenho automático;
 
-1) À introdução, desenvolvimento e aperfeiçoamento de sistemas cartográficos, fotogramétricos e de tecnologias afins, actualizados e acessíveis ao País, designadamente a utilização sistemática das técnicas informáticas de cálculo, digitalização e desenho automáticos;
+i) Propor medidas tendentes ao melhor aproveitamento dos recursos disponíveis, de modo que sejam utilizados os serviços e sistemas que garantam maior produtividade e rentabilidade, sem afectar, na utilização dos meios militares, a sua missão prioritária;
 
-2) Ao melhor aproveitamento dos recursos disponíveis, de modo que, sem prejuízo da qualidade, sejam utilizados os serviços e sistemas que garantam maior produtividade e rentabilidade, sem afectar, na utilização dos meios militares, a sua missão prioritária;
+j) Propor medidas tendentes à conveniente divulgação, acesso e utilização pública da produção cartográfica nacional, com respeito pelas normas de segurança militar em vigor;
 
-3) À normalização e simplificação de especificações, critérios e procedimentos técnicos, administrativos e de segurança;
+l) Apoiar e acompanhar a constituição de um registo central de cartografia e de um arquivo nacional de dados aerofotográficos e de detecção remota, bem como a actividade do Sistema Nacional de Informação Geográfica;
 
-4) À conveniente divulgação, acesso e utilização pública da produção cartográfica nacional, com respeito pelas normas de segurança militar em vigor;
+m) Fomentar a preparação e aperfeiçoamento dos técnicos das várias especialidades cartográficas.
 
-h) Promover o fomento da exportação de serviços cartográficos e afins e das respectivas cooperações internacionais, tanto por parte de órgãos oficiais como privados da especialidade providenciando igualmente no sentido de garantir a qualidade dessas prestações de serviços;
+2 - Consideram-se actividades cartográficas todas aquelas que tenham como resultado a elaboração de cartas, mapas ou planos.
 
-i) Promover, com o apoio de todos os organismos públicos e privados da especialidade e ainda do sector do ensino, o estudo, a investigação e o desenvolvimento nos domínios da cartografia e ainda das técnicas e ciências afins, tendo em vista, designadamente, a criação, manutenção e desenvolvimento de sistemas de informação geográfica;
+> Alterado pelo/a [Decreto Regulamentar n.º 28/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1989-548408), publicado em 1989-10-02.
 
-j) Apoiar e acompanhar a constituição de um registo central de cartografia e de um arquivo nacional de dados aerofotográficos e detecção remota, bem como a actividade do Sistema Nacional de Informação Geográfica;
+###### Artigo 3.º
 
-l) Fomentar a preparação e aperfeiçoamento dos técnicos das várias especialidades cartográficas e afins.
-
-2 - Consideram-se actividades cartográficas os trabalhos e estudos de cartografia geral e temática no seu sentido restrito, cartografia matemática, geodesia, topografia, fotogrametria, cadastro geométrico e as diversas técnicas de apoio pela detecção remota, nomeadamente a fotografia aérea, espacial e terrestre, o aeromagnetismo e a radiometria, bem como a reprodução e o tratamento científico e técnico de todos os dados e documentação ligados a estas disciplinas.
-
-Art. 3.º - 1 - O CNC é composto por:
+1 - O CNC é composto por:
 
 a) Um presidente, nomeado pelo Ministro do Planeamento e da Administração do Território;
 
@@ -229,17 +241,25 @@ j) Um representante da Associação Nacional de Municípios.
 
 4 - O presidente do CNC poderá convidar a fazerem-se representar nas reuniões do Conselho quaisquer entidades ou personalidades cuja participação seja considerada conveniente.
 
-Art. 4.º - 1 - O CNC dispõe de um secretário, que participa nas reuniões do Conselho sem direito a voto, salvo se for membro do CNC.
+###### Artigo 4.º
+
+1 - O CNC dispõe de um secretário, que participa nas reuniões do Conselho sem direito a voto, salvo se for membro do CNC.
 
 2 - O secretário do CNC é nomeado por despacho do Ministro do Planeamento e da Administração do Território.
 
-Art. 5.º - 1 - O CNC reunirá em plenário, por convocação do seu presidente, pelo menos duas vezes por ano.
+###### Artigo 5.º
+
+1 - O CNC reunirá em plenário, por convocação do seu presidente, pelo menos duas vezes por ano.
 
 2 - As normas referentes ao funcionamento do CNC serão objecto de regimento aprovado pelo Conselho.
 
-Art. 6.º - 1 - Até à entrada em funcionamento do Centro Nacional de Informação Geográfica, o apoio é assegurado pela Secretaria-Geral do Ministério do Planeamento e da Administração do Território.
+###### Artigo 6.º
+
+1 - O apoio ao Conselho Nacional de Cartografia é assegurado pela Secretaria-Geral do Ministério do Planeamento e da Administração do Território.
 
 2 - Na prossecução das suas atribuições, o CNC pode solicitar o apoio e a colaboração técnica dos organismos estatais de coordenação, financiamento e execução de cartografia.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 28/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/28-1989-548408), publicado em 1989-10-02.
 
 Aníbal António Cavaco Silva - Lino Dias Miguel - Vasco Joaquim Rocha Vieira - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins.
 

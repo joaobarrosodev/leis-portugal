@@ -1,0 +1,296 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:446559:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-02-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1425bd3c1faf874c",
+    "99b6323f838287dd",
+    "80c08cf4a970de83",
+    "65cd8bbfda83226f",
+    "fcf2b076f51a6aea",
+    "4fdac3997adfdcd5",
+    "a4798232d812e8a2",
+    "1d1b94c0286a698a",
+    "7762d6128d23061c",
+    "f81a3250b1c80c09",
+    "2291d30733c92876",
+    "6e9c835d0007341a",
+    "ae5244a1b5f5a503",
+    "d91cc1d815522f9b",
+    "1cbe2677fb986e18",
+    "e85bae96cdf5b292",
+    "70d4f65cba0ed0fc",
+    "e34bc0ac51d62394",
+    "b6b041d79e6c684e",
+    "6ca522390246bac8",
+    "16ef6ccc6d35da89",
+    "52e78d7062467017",
+    "76346ba820e41837",
+    "f3482bf1bfa982b9",
+    "282098d283557bf3"
+   ]
+  },
+  {
+   "date": "1985-07-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:183003:por",
+     "title": "Decreto Regulamentar n.º 44/85",
+     "published": "1985-07-08",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/44-1985-183003"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "1425bd3c1faf874c",
+    "99b6323f838287dd",
+    "80c08cf4a970de83",
+    "65cd8bbfda83226f",
+    "fcf2b076f51a6aea",
+    "4fdac3997adfdcd5",
+    "a4798232d812e8a2",
+    "1d1b94c0286a698a",
+    "7762d6128d23061c",
+    "f81a3250b1c80c09",
+    "2291d30733c92876",
+    "6e9c835d0007341a",
+    "ae5244a1b5f5a503",
+    "d91cc1d815522f9b",
+    "1cbe2677fb986e18",
+    "e85bae96cdf5b292",
+    "70d4f65cba0ed0fc",
+    "89ac0193be42ba4b",
+    "b6b041d79e6c684e",
+    "6ca522390246bac8",
+    "16ef6ccc6d35da89",
+    "52e78d7062467017",
+    "76346ba820e41837",
+    "f3482bf1bfa982b9",
+    "282098d283557bf3"
+   ]
+  }
+ ],
+ "fragments": {
+  "1425bd3c1faf874c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Fevereiro\n\n1. Revestindo-se os serviços de socorros de aeroporto de características específicas que os situam em lugar de relevo no âmbito da vida aeroportuária, entendeu-se ser absolutamente necessário, no momento em que se procede à reestruturação dos diferentes serviços da Direcção-Geral da Aeronáutica Civil, definir os princípios gerais que hão-de presidir à sua organização interna e regular, de forma ordenada e coerente.\n\n2. Serão estes princípios básicos que, uma vez erigidos em sistema normativo, hão-de dar forma e conteúdo ao estatuto dos serviços de socorros de aeroporto, destinado não só a proporcionar ao respectivo pessoal uma maior valorização profissional, mas também a vinculá-lo às especiais responsabilidades decorrentes da missão principal e específica que, em primeira linha, lhe é cometida. Tal missão analisa-se numa perfeita conjugação de esforços dirigidos ao salvamento de vidas humanas em perigo, com o recurso a técnicas apuradíssimas de nível internacional e às potencialidades, aproveitadas ao máximo, do complexo e variadíssimo equipamento que modernamente constitui dotação normal dos serviços de socorros de aeroporto.\n\n3. Este processo visa essencialmente criar os meios humanos com a qualificação e a eficiência exigidas pelas normas e recomendações da OACI, a que Portugal está vinculado como Estado Contratante.\n\n4. Assim se justificará a oportunidade e urgência da publicação do presente diploma, que, aproximando os serviços de socorros de aeroporto das modernas estruturas da aviação civil internacional, não perderá de vista, contudo, as realidades nacionais.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "99b6323f838287dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Carreiras do pessoal do serviço de socorros de aeroporto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Carreiras do pessoal do serviço de socorros de aeroporto"
+  },
+  "80c08cf4a970de83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Das carreiras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Das carreiras)\n\nAs carreiras profissionais do pessoal do serviço de socorros de aeroporto desenvolver-se-ão do seguinte modo:\n\n1 - Carreira de assistente de operações de socorros de aeroporto:\n\na) Assistente-chefe de operações de socorros de aeroporto;\n\nb) Assistente principal de operações de socorros de aeroporto;\n\nc) Assistente graduado de operações de socorros de aeroporto;\n\nd) Assistente de operações de socorros de aeroporto.\n\n2 - Carreira de bombeiros de aeroporto:\n\na) Chefe de equipa de socorros de aeroporto;\n\nb) Bombeiro de aeroporto principal;\n\nc) Bombeiro de aeroporto de 1.ª classe;\n\nd) Bombeiro de aeroporto de 2.ª classe."
+  },
+  "65cd8bbfda83226f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Efectivos de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Efectivos de pessoal)\n\n1 - Os efectivos do pessoal a que se refere o artigo anterior são os constantes dos mapas I e II anexos a este diploma, que ficam a constituir parte integrante do mesmo.\n\n2 - A revisão dos efectivos será feita por portaria conjunta dos Ministros das Finanças e dos Transportes e Comunicações e Secretário de Estado da Administração Pública, sempre que as necessidades do serviço ou as exigências da evolução técnica aeronáutica assim o impuserem.\n\n3 - A distribuição do pessoal pelos diversos serviços e organismos da Direcção-Geral da Aeronáutica Civil será feita em mapas a aprovar por despacho do Ministro dos Transportes e Comunicações."
+  },
+  "fcf2b076f51a6aea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Regime jurídico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Regime jurídico)\n\n1 - O pessoal do serviço de socorros de aeroporto fica sujeito ao regime jurídico estabelecido para a função pública, sem prejuízo do disposto neste diploma e noutras normas específicas.\n\n2 - Do mesmo modo, ser-lhe-ão também aplicáveis as normas e procedimentos recomendados pela Organização da Aviação Civil Internacional - OACI -, desde que ratificados pelo Governo Português."
+  },
+  "4fdac3997adfdcd5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Do provimento em lugares da carreira de assistente de operações de socorros de aeroporto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Do provimento em lugares da carreira de assistente de operações de socorros de aeroporto)\n\n1 - O provimento na categoria de assistente-chefe de operações de socorros de aeroporto far-se-á por concurso documental de entre os assistentes principais de operações de socorros de aeroporto que reúnam os seguintes requisitos:\n\na) Tenham prestado, no mínimo, seis anos de bom e efectivo serviço na categoria;\n\nb) Tenham frequentado com aproveitamento o curso complementar de chefia de operações de socorros.\n\n2 - O provimento na categoria de assistente principal de operações de socorros de aeroporto far-se-á de entre os assistentes graduados de operações de socorros de aeroporto que reúnam, cumulativamente, as seguintes condições:\n\na) Tenham prestado, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nb) Tenham obtido aproveitamento no curso de comando de operações de socorros.\n\n3 - O provimento na categoria de assistente graduado de operações de socorros de aeroporto far-se-á de entre os assistentes de operações de socorros de aeroporto com, pelo menos, três anos de bom e efectivo serviço na categoria, incluindo naquele prazo o período do curso básico de assistente de operações de socorros de aeroporto.\n\n4 - O provimento na categoria de assistente de operações de socorros de aeroporto far-se-á mediante concurso de provas práticas de entre indivíduos que satisfaçam as seguintes condições:\n\na) Habilitações literárias não inferiores ao curso geral dos liceus ou equiparado;\n\nb) Ser titular da carta de condução de automóveis pesados;\n\nc) Aptidão psicofísica estabelecida para a função."
+  },
+  "a4798232d812e8a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Do provimento em lugares da carreira de bombeiro de aeroporto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Do provimento em lugares da carreira de bombeiro de aeroporto)\n\n1 - O provimento na categoria de chefe de equipa de socorros de aeroporto far-se-á por concurso documental de entre os bombeiros de aeroporto principais que reúnam os seguintes requisitos:\n\na) Tenham prestado, no mínimo, seis anos de bom e efectivo serviço na categoria;\n\nb) Tenham frequentado com aproveitamento o curso de chefe de equipa de socorros.\n\n2 - O provimento na categoria de bombeiro de aeroporto principal far-se-á por concurso documental de entre os bombeiros de aeroporto de 1.ª classe que reúnam as seguintes condições:\n\na) Tenham prestado, no mínimo, quatro anos de bom e efectivo serviço na categoria;\n\nb) Tenham frequentado com aproveitamento o curso de especialização de operações de desobstrução.\n\n3 - O provimento na categoria de bombeiro de aeroporto de 1.ª classe far-se-á por concurso documental de entre os bombeiros de aeroporto de 2.ª classe que tenham prestado, no mínimo, três anos de bom e efectivo serviço na categoria, incluindo naquele prazo o período de curso básico de bombeiro de aeroporto.\n\n4 - O provimento na categoria de bombeiro de aeroporto de 2.ª classe far-se-á mediante concurso documental de entre os indivíduos que reúnam os seguintes requisitos:\n\na) Idade não superior a 25 anos;\n\nb) Escolaridade obrigatória;\n\nc) Ser titular da carta de condução de automóveis pesados;\n\nd) Aptidão psicofísica estabelecida para a função."
+  },
+  "1d1b94c0286a698a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Preferência na admissão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Preferência na admissão)\n\nEm igualdade de condições, terão preferência para o ingresso nas categorias de assistente de operações de socorros de aeroporto e bombeiro de aeroporto de 2.ª classe os candidatos que:\n\na) Tenham prestado na DGAC, pelo menos, três anos de bom e efectivo serviço numa das categorias de qualquer dos grupos de menores habilitações;\n\nb) Possuam conhecimentos de língua inglesa, no que se refere aos assistentes de operações de socorros de aeroporto;\n\nc) Possuam habilitações superiores aos mínimos exigidos no presente diploma;\n\nd) Tenham cumprido o serviço militar, no que respeita aos bombeiros de aeroporto de 2.ª classe."
+  },
+  "7762d6128d23061c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Formas de provimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Formas de provimento)\n\n1 - A nomeação dos candidatos a que se refere o n.º 4 dos artigos 4.º e 5.º terá carácter provisório até que se verifiquem cumulativamente as seguintes condições:\n\na) Tenham decorrido, pelo menos, dois anos;\n\nb) Tenham concluído com aproveitamento os cursos básicos de assistente de operações de socorros de aeroporto ou de bombeiro de aeroporto de 2.ª classe, respectivamente;\n\nc) Tenham revelado aptidão para o lugar.\n\n2 - Observadas as condições referidas no número anterior, o funcionário será provido definitivamente, ou exonerado no caso contrário."
+  },
+  "f81a3250b1c80c09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Mudança de carreira)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Mudança de carreira)\n\nPoderão transitar para a carreira de assistente de operações de socorros de aeroporto, em categoria correspondente ou imediatamente superior à categoria em que se encontram, os bombeiros de aeroporto que satisfaçam cumulativamente as seguintes condições:\n\na) Tenham adquirido as habilitações previstas para o ingresso na carreira de assistente de operações de socorros de aeroporto;\n\nb) Tenham prestado na Direcção-Geral da Aeronáutica Civil, pelo menos, cinco anos de bom e efectivo serviço na carreira de bombeiro de aeroporto;\n\nc) Possuam, além de formação profissional prevista para o acesso a chefe de equipa, um curso de adaptação intensivo às novas funções, que corresponda à formação exigida para o acesso a assistente principal."
+  },
+  "2291d30733c92876": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Formação profissional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Formação profissional)\n\n1 - A Direcção-Geral da Aeronáutica Civil tomará as providências necessárias para a realização dos cursos de formação previstos no presente diploma e demais acções de actualização e aperfeiçoamento profissionais.\n\n2 - Os planos dos cursos a que se refere o número anterior serão os constantes dos anexos 1 e 2 ao presente decreto, que dele fazem parte integrante.\n\n3 - Os planos dos cursos atrás referidos poderão ser alterados por portaria conjunta do Ministro dos Transportes e Comunicações e do Secretário de Estado da Administração Pública, sempre que o imponham as necessidades do serviço ou a evolução tecnológica."
+  },
+  "6e9c835d0007341a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Funções do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Funções do pessoal"
+  },
+  "ae5244a1b5f5a503": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Funções do pessoal da carreira de assistente de operações de socorros de aeroporto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Funções do pessoal da carreira de assistente de operações de socorros de aeroporto)\n\n1 - Ao assistente-chefe de operações de socorros de aeroporto compete o desempenho das funções de chefia de um órgão ou unidade do serviço e as que lhe vierem a ser cometidas no âmbito das suas qualificações, designadamente:\n\na) Dirigir, coordenar e inspeccionar todas as actividades do órgão ou da unidade de que é responsável;\n\nb) Assegurar a implementação de procedimentos e de novas técnicas de operação e dar parecer e fornecer relatórios que superiormente lhe sejam solicitados;\n\nc) Elaborar a programação da actividade do órgão ou unidade, de acordo com as normas e directivas estabelecidas;\n\nd) Estudar procedimentos, analisar situações e propor a adopção de normas e técnicas com vista a uma maior eficiência do serviço;\n\ne) Desempenhar outras funções que, no âmbito do serviço e de acordo com as suas qualificações, lhe forem atribuídas.\n\n2 - Ao assistente principal de operações de socorros de aeroporto compete o desempenho das funções de comando das operações de emergência e de supervisão, inspecção, coordenação e instrução, designadamente:\n\na) Assumir o comando geral das operações desencadeadas por imperativo de qualquer emergência ou simplesmente para efeitos de treinos de conjunto, abrangendo todo o pessoal integrado no serviço;\n\nb) Assegurar, por inerência do comando geral das operações, a coordenação e cooperação de outros serviços do aeroporto e entidades estranhas cujo envolvimento nas operações se encontra preestabelecido ou é solicitado ou mesmo imposto pelas circunstâncias de momento;\n\nc) Assegurar a cooperação com os serviços e entidades afectas ao sistema de segurança da aviação civil, de acordo com as normas estabelecidas;\n\nd) Verificar as condições de bom funcionamento do serviço, designadamente as relacionadas com a manutenção em perfeitas condições operacionais de todo o equipamento de salvamento, anti-incêndio, desobstrução e operações de segurança;\n\ne) Assegurar a execução dos sistemas de actualização e aperfeiçoamento estabelecidos nos órgãos de serviço;\n\nf) Desempenhar outras funções que, no âmbito do serviço e de acordo com as suas qualificações, lhe forem cometidas, nomeadamente as de coadjuvar na superintendência e chefia do órgão ou unidade do serviço.\n\n3 - Ao assistente graduado de operações de socorros de aeroporto compete coadjuvar o assistente principal, auxiliando-o ou executando as funções que por ele lhe sejam cometidas.\n\n4 - Ao assistente de operações de socorros de aeroporto compete, quando integrado na actividade operacional do serviço, coadjuvar o restante pessoal assistente nas actividades do respectivo serviço, desempenhando as tarefas que lhe forem cometidas."
+  },
+  "d91cc1d815522f9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Funções do pessoal da carreira de bombeiro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Funções do pessoal da carreira de bombeiro)\n\n1 - Ao chefe de equipa de socorros de aeroporto compete executar as missões de serviço que se circunscrevem no âmbito das qualificações profissionais obtidas, designadamente:\n\na) Coadjuvar no comando geral das operações ou assumir este comando, quando para tal designado ou em circunstâncias excepcionais que a isso obriguem;\n\nb) Assumir a chefia de equipas de socorros (salvamento-incêndio-primeiros socorros e evacuação-comunicações-desobstrução-operações de segurança) na medida e pela norma que estiver estabelecida;\n\nc) Assegurar todas as actividades normais do serviço, designadamente as relacionadas com a manutenção em perfeitas condições operacionais de todo o equipamento de salvamento, de incêndio, de desobstrução e de operações de segurança;\n\nd) Desempenhar outras funções que, no âmbito do serviço e de acordo com as suas qualificações, lhe forem cometidas.\n\n2 - Ao bombeiro de aeroporto principal e ao bombeiro de aeroporto de 1.ª classe compete executar as missões de serviço que se circunscrevem no âmbito das qualificações profissionais obtidas, designadamente:\n\na) Coadjuvar na chefia das equipas de socorros (ou assumir esta chefia, quando para tal designado ou em circunstâncias excepcionais que a isso obriguem);\n\nb) Executar as tarefas próprias da actividade do serviço e inerentes às suas qualificações profissionais;\n\nc) Desempenhar outras tarefas que, no âmbito do serviço e de acordo com as suas qualificações, lhe forem cometidas.\n\n3 - Ao bombeiro de aeroporto de 2.ª classe compete, quando integrado na actividade operacional do serviço, desempenhar as funções que lhe forem cometidas."
+  },
+  "1cbe2677fb986e18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Da prestação de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Da prestação de serviço"
+  },
+  "e85bae96cdf5b292": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Duração e horário do serviço normal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Duração e horário do serviço normal)\n\n1 - A duração média de prestação semanal de serviço será a seguinte:\n\na) Pessoal em funções operacionais - regime de turnos: trinta e seis horas;\n\nb) Pessoal em funções de instrução: trinta e seis horas, com o máximo de vinte e duas horas de aulas;\n\nc) Pessoal desempenhando outras funções: a duração que estiver em vigor para o pessoal de secretaria da função pública.\n\n2 - No regime de turnos a escala de serviço deverá obedecer, entre outras, às seguintes condições:\n\na) Elaboração e divulgação mensal dos horários;\n\nb) Intervalo mínimo entre o fim de um turno e o início do turno seguinte não inferior a doze horas;\n\nc) Concessão ao pessoal, sem prejuízo do serviço, de sessenta minutos para refeição, quando o turno inclua um período de refeição principal."
+  },
+  "70d4f65cba0ed0fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Serviço extraordinário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Serviço extraordinário)\n\n1 - A prestação de serviço extraordinário só poderá verificar-se em casos excepcionais, quando razões imperiosas de serviço o exijam, e dependerá sempre de autorização do director-geral ou de entidade em quem aquele delegue competência para o efeito.\n\n2 - O pagamento de horas extraordinárias não poderá verificar-se se o documento de prestação de serviço se não encontrar visado pelo respectivo superior hierárquico.\n\n3 - Quando se verificar a circunstância prevista no n.º 1, o tempo de serviço extraordinário adicionado ao tempo de serviço normal imediatamente seguido ou antecedente não poderá exceder doze horas seguidas."
+  },
+  "e34bc0ac51d62394": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Limitação ao exercício de funções operacionais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Limitação ao exercício de funções operacionais)\n\n1 - Sem prejuízo da observância das condições médicas exigidas, é fixado para o exercício das funções de combate a incêndio e salvamento o limite de idade de 45 anos.\n\n2 - O pessoal abrangido pelo disposto no número anterior exercerá no serviço quaisquer outras funções inerentes à respectiva carreira para as quais possua a necessária formação."
+  },
+  "b6b041d79e6c684e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Primeiro provimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Primeiro provimento)\n\nO primeiro provimento do pessoal, a que se refere o artigo 1.º deste diploma, em lugares das carreiras criadas pelo mesmo será feito mediante lista nominativa aprovada pelo Ministro dos Transportes e Comunicações, visada pelo Tribunal de Contas e publicada no Diário da República, de acordo com as seguintes regras:\n\na) Para qualquer das categorias constantes dos mapas anexos para a qual possua as respectivas habilitações e tempo de serviço na actual carreira, previsto para o acesso a essa categoria, nos termos do presente diploma;\n\nb) Para as categorias que, nos mapas anexos, correspondam às funções que os agentes já actualmente desempenham."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "16ef6ccc6d35da89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Extinção de categorias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Extinção de categorias)\n\nConsiderar-se-ão automaticamente extintas as seguintes categorias, a partir da data em que tenham sido integrados nas novas categorias criadas por este diploma todos os servidores nelas colocados:\n\na) Chefe de bombeiros de 2.ª classe;\n\nb) Subchefe de socorros;\n\nc) Subchefe de bombeiros de 2.ª classe;\n\nd) Subchefe-ajudante de bombeiros;\n\ne) Bombeiro."
+  },
+  "52e78d7062467017": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Encargos decorrentes da execução deste diploma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Encargos decorrentes da execução deste diploma)\n\nOs encargos decorrentes da execução deste diploma serão suportados pelos Ministérios das Finanças e dos Transportes e Comunicações (Direcção-Geral da Aeronáutica Civil), nos termos que vierem a ser acordados."
+  },
+  "76346ba820e41837": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Dúvidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Dúvidas)\n\nAs dúvidas surgidas na aplicação deste diploma serão resolvidas por despacho do Ministro dos Transportes e Comunicações, ouvidos o Ministro das Finanças, quando for caso disso, e o Secretário de Estado da Administração Pública."
+  },
+  "f3482bf1bfa982b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Legislação revogada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Legislação revogada)\n\nÉ revogada toda a legislação contrária ao presente diploma."
+  },
+  "282098d283557bf3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Entrada em vigor)\n\nO presente diploma produz efeitos a partir de 1 de Janeiro de 1978.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Emílio Rui da Veiga Peixoto Vilar.\n\nPromulgado em 6 de Fevereiro de 1978.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nMAPA I\n\nMapa a que se refere o artigo 2.º do Decreto Regulamentar n.º 9/78\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/04500/03980402.pdf)\n\nMAPA II\n\nMapa a que se refere o artigo 2.º do Decreto Regulamentar n.º 9/78\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1978/02/04500/03980402.pdf)\n\nO Ministro dos Transportes e Comunicações, Emílio Rui da Veiga Peixoto Vilar."
+  },
+  "89ac0193be42ba4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Avaliação do exercício de funções operacionais)",
+   "in_force_from": "1985-07-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 44/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1985-183003), publicado em 1985-07-08."
+   ],
+   "markdown": "###### Artigo 14.º — (Avaliação do exercício de funções operacionais)\n\n1 - O exercício de funções de combate a incêndio e salvamento fica condicionado ao resultado apurado em exames médicos periódicos.\n\n2 - Se, em resultado dos exames referidos no número anterior, se verificar a existência de pessoal que não possua as capacidades físicas e psíquicas necessárias ao desempenho daquelas funções ficará o mesmo exercendo no serviço quaisquer outras inerentes à respectiva carreira para as quais possua a necessária formação.\n\n3 - As características, extensão, frequência e comunicação dos resultados dos exames médicos referidos no n.º 1, bem como o seu âmbito de aplicação, serão propostas pelas entidades às quais caiba a gestão das infra-estruturas aeroportuárias e aprovadas por despacho do Ministro do Equipamento Social.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 44/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1985-183003), publicado em 1985-07-08."
+  }
+ }
+}

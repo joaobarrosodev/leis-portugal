@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1995-05-21'
+version_history:
+  file: decreto-lei-406-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-12-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-05-21'
+    amending: pt:dre:503649:por
+    amending_title: Decreto-Lei n.º 106/95
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:04:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 106/95. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-406-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -169,37 +184,61 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º A denominação social do IPE - Investimentos e Participações do Estado, S. A., criado pelo [Decreto-Lei n.º 330/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495), de 18 de Agosto, é alterada para IPE - Investimentos e Participações Empresariais, S. A.
+###### Artigo 1.º
 
-Art. 2.º As acções representativas do capital social da sociedade IPE - Investimentos e Participações Empresariais, S. A., podem ser objecto da titularidade de entidades públicas ou privadas.
+A denominação social do IPE - Investimentos e Participações do Estado, S. A., criado pelo [Decreto-Lei n.º 330/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495), de 18 de Agosto, é alterada para IPE - Investimentos e Participações Empresariais, S. A.
 
-Art. 3.º - 1 - As operações de alienação de participações sociais detidas pelo IPE - Investimentos e Participações, Empresariais, S. A., que hajam sido objecto de nacionalização directa obedecem aos princípios previstos na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
+###### Artigo 2.º
+
+As acções representativas do capital social da sociedade IPE - Investimentos e Participações Empresariais, S. A., podem ser objecto da titularidade de entidades públicas ou privadas.
+
+###### Artigo 3.º
+
+1 - As operações de alienação de participações sociais detidas pelo IPE - Investimentos e Participações, Empresariais, S. A., que hajam sido objecto de nacionalização directa obedecem aos princípios previstos na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.
 
 2 - Enquanto a sociedade detiver as participações a que se refere o número anterior, o seu capital social deverá pertencer exclusivamente a entes públicos, competindo ao conselho de administração daquela propor ao Governo o processo, as modalidades e as condições específicas de cada operação de alienação.
 
-3 - O valor das participações sociais a alienar nos termos do n.º 1 será fixado com base na avaliação feita por duas entidades independentes.
+3 - Para efeitos de aplicação do disposto no número anterior, consideram-se «entes públicos» as entidades indicadas na alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.
 
-4 - O produto da alienação das participações sociais previstas no n.º 1 constitui receita própria da sociedade, devendo ser por esta aplicado em acções de fomento do investimento produtivo, de acordo com a alínea b) do artigo 296.º da Constituição.
+4 - O valor das participações sociais a alienar nos termos do n.º 1 será fixado com base na avaliação feita por duas entidades independentes.
 
-Art. 4.º - No caso de o Estado e outras entidades públicas conjuntamente possuírem entre 10% e 50% das acções representativas do capital social com direito de voto, poderá o Governo nomear um administrador da sociedade, o qual gozará dos poderes previstos na lei geral.
+5 - O produto da alienação das participações sociais previstas no n.º 1 constitui receita própria da sociedade, devendo ser por esta aplicado em acções de fomento do investimento produtivo, de acordo com a alínea b) do artigo 296.º da Constituição.
 
-Art. 5.º Sem prejuízo das situações criadas ao abrigo da legislação anterior, a sociedade deixa de ser, para todos os efeitos, equiparada ao Estado.
+> Alterado pelo/a [Decreto-Lei n.º 106/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1995-503649), publicado em 1995-05-20.
 
-Art. 6.º No prazo de 30 dias subsequentes à data da entrada em vigor do presente diploma, será convocada, com a antecedência mínima permitida por lei, a assembleia geral dos accionistas, tendo por fim deliberar sobre uma proposta de alteração dos estatutos da sociedade, a apresentar pelo representante das acções detidas pelo Estado.
+###### Artigo 4.º
 
-Art. 7.º As alterações estatutárias mencionadas no artigo anterior, e decorrentes da aplicação do presente diploma, produzirão todos os seus efeitos desde que deliberadas nos termos legais e estatuários devendo a respectiva escritura e registos ser feitos com isenção de taxas e emolumentos.
+No caso de o Estado e outras entidades públicas conjuntamente possuírem entre 10% e 50% das acções representativas do capital social com direito de voto, poderá o Governo nomear um administrador da sociedade, o qual gozará dos poderes previstos na lei geral.
 
-Art. 8.º - 1 - É revogado o [Decreto-Lei n.º 330/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495), de 18 de Agosto, com excepção do disposto no artigo 14.º
+###### Artigo 5.º
+
+Sem prejuízo das situações criadas ao abrigo da legislação anterior, a sociedade deixa de ser, para todos os efeitos, equiparada ao Estado.
+
+###### Artigo 6.º
+
+No prazo de 30 dias subsequentes à data da entrada em vigor do presente diploma, será convocada, com a antecedência mínima permitida por lei, a assembleia geral dos accionistas, tendo por fim deliberar sobre uma proposta de alteração dos estatutos da sociedade, a apresentar pelo representante das acções detidas pelo Estado.
+
+###### Artigo 7.º
+
+As alterações estatutárias mencionadas no artigo anterior, e decorrentes da aplicação do presente diploma, produzirão todos os seus efeitos desde que deliberadas nos termos legais e estatuários devendo a respectiva escritura e registos ser feitos com isenção de taxas e emolumentos.
+
+###### Artigo 8.º
+
+1 - É revogado o [Decreto-Lei n.º 330/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495), de 18 de Agosto, com excepção do disposto no artigo 14.º
 
 2 - Os actuais estatutos do IPE, S. A., aprovados pelo [Decreto-Lei n.º 330/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495), de 18 de Agosto, continuam em vigor até à sua alteração, nos termos do artigo anterior.
 
-Art. 9.º - 1 - O IPE - Investimentos e Participações do Estado, S. A., fica desde já autorizado a proceder à venda directa da participação social que detém na COVINA - Companhia Vidreira Nacional, S. A., atendendo à estratégia definida para o sector e à realidade actual dos mercados nacional e internacional.
+###### Artigo 9.º
+
+1 - O IPE - Investimentos e Participações do Estado, S. A., fica desde já autorizado a proceder à venda directa da participação social que detém na COVINA - Companhia Vidreira Nacional, S. A., atendendo à estratégia definida para o sector e à realidade actual dos mercados nacional e internacional.
 
 2 - O IPE - Investimentos e Participações do Estado, S. A., fica também desde já autorizado a proceder à venda directa, total ou parcial, das acções que detém na Companhia de Seguros Garantia, S. A., ou à sua realização em capital social de nova sociedade a constituir, atendendo à situação da empresa no sector e à estratégia para ele definida.
 
 3 - O Conselho de Ministros aprovará, mediante resolução, nos termos e para os efeitos dos artigos 8.º e 14.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, todo o processo das operações previstas nos números anteriores.
 
-Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+###### Artigo 10.º
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
 
 Visto e aprovado em Conselho de Ministros de 15 de Novembro de 1990. - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.
 

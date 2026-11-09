@@ -1,0 +1,453 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:240660:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-09-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2350945148c1ed0b",
+    "fb0e995391fc0baf",
+    "f4ffacb9de168800",
+    "4eef8521bb0f621b",
+    "7a494991556b21c4",
+    "c390dac6e5a68bec",
+    "2bc701435c10bb84",
+    "3a378e73af8a3328",
+    "4e5ad7180a77c0dc",
+    "bd06e42d6c12ba7a",
+    "9d0f557e7ffbe419",
+    "da10ffb73492b1f5",
+    "9a8952b638b8c998",
+    "643abeda2add4f14",
+    "cbf4fae7f4c5ef05",
+    "3172fa3d825ab835",
+    "926d978c3fede1ad",
+    "6e38ac08d8d694ee",
+    "4a34eeaeba235aaa",
+    "12ca0eafc1b0801e",
+    "993a325f42f96a76",
+    "26f448e7fbf29571",
+    "725c101056d38739",
+    "d38fa2bd5b604fbf",
+    "4e427c7cabae9482",
+    "9e22afa10e5abc41",
+    "dbde1ade34db7e85",
+    "a2de990785d0f14a",
+    "f9aca0810f024ef5",
+    "95a6c246b9d903c0",
+    "ece32d12ea98e626",
+    "49b0b16e619d0eeb",
+    "51ded1109ea1b59f",
+    "69d4831fbc8df3f9",
+    "9a0c540ff4a0cda4",
+    "551ddff46724b7e9",
+    "eaeca681e6e157fa",
+    "9ce9d841de981679",
+    "434c5166190c9849"
+   ]
+  },
+  {
+   "date": "1993-08-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:444447:por",
+     "title": "Lei n.º 30-C/92",
+     "published": "1992-12-28",
+     "dre_path": "/dr/detalhe/lei/30-c-1992-444447"
+    },
+    {
+     "id": "pt:dre:345153:por",
+     "title": "Lei n.º 53/93",
+     "published": "1993-07-30",
+     "dre_path": "/dr/detalhe/lei/53-1993-345153"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 31.º"
+   ],
+   "fragments": [
+    "2350945148c1ed0b",
+    "fb0e995391fc0baf",
+    "f4ffacb9de168800",
+    "4eef8521bb0f621b",
+    "7a494991556b21c4",
+    "c390dac6e5a68bec",
+    "2bc701435c10bb84",
+    "3a378e73af8a3328",
+    "4e5ad7180a77c0dc",
+    "bd06e42d6c12ba7a",
+    "9d0f557e7ffbe419",
+    "da10ffb73492b1f5",
+    "9a8952b638b8c998",
+    "8ed2b384c100933e",
+    "cbf4fae7f4c5ef05",
+    "3172fa3d825ab835",
+    "926d978c3fede1ad",
+    "6e38ac08d8d694ee",
+    "4a34eeaeba235aaa",
+    "12ca0eafc1b0801e",
+    "993a325f42f96a76",
+    "26f448e7fbf29571",
+    "725c101056d38739",
+    "d38fa2bd5b604fbf",
+    "4e427c7cabae9482",
+    "9e22afa10e5abc41",
+    "dbde1ade34db7e85",
+    "a2de990785d0f14a",
+    "f9aca0810f024ef5",
+    "95a6c246b9d903c0",
+    "ece32d12ea98e626",
+    "49b0b16e619d0eeb",
+    "51ded1109ea1b59f",
+    "69d4831fbc8df3f9",
+    "9a0c540ff4a0cda4",
+    "551ddff46724b7e9",
+    "e89f990ef2eb6040",
+    "9ce9d841de981679",
+    "434c5166190c9849"
+   ]
+  }
+ ],
+ "fragments": {
+  "2350945148c1ed0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 1 de Setembro\n\nEnquadramento do Orçamento da Região Autónoma da Madeira\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º 1, alínea p), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "fb0e995391fc0baf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nAs regras referentes ao Orçamento da Região Autónoma da Madeira, os procedimentos para a sua elaboração, discussão, aprovação, execução, alteração e fiscalização e a responsabilidade orçamental, bem como as regras relativas à Conta da Região, obedecem aos princípios e normas constantes da presente lei."
+  },
+  "f4ffacb9de168800": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Princípios e regras orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Princípios e regras orçamentais"
+  },
+  "4eef8521bb0f621b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Anualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Anualidade\n\n1 - O Orçamento da Região Autónoma da Madeira é anual, sem prejuízo da possibilidade de nele serem integrados programas e projectos que impliquem encargos plurianuais.\n\n2 - O ano económico coincide com o ano civil."
+  },
+  "7a494991556b21c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Unidade e universalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Unidade e universalidade\n\n1 - O Orçamento da Região Autónoma da Madeira é unitário e compreende todas as receitas e despesas da administração pública regional, incluindo as receitas e despesas de todos os organismos que não tenham natureza, forma e designação de empresa pública, adiante designados por serviços e fundos autónomos.\n\n2 - Os orçamentos das empresas públicas sob tutela do Governo Regional da Madeira e das autarquias locais são independentes na sua elaboração, aprovação e execução do Orçamento da Região Autónoma da Madeira.\n\n3 - Do Orçamento da Região Autónoma da Madeira devem constar, em anexo, os elementos necessários à apreciação da situação financeira dos sectores públicos administrativo e empresarial."
+  },
+  "c390dac6e5a68bec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Equilíbrio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Equilíbrio\n\n1 - O Orçamento da Região Autónoma da Madeira deve prever os recursos necessários para cobrir todas as despesas.\n\n2 - As receitas efectivas têm de ser, pelo menos iguais às despesas efectivas, excluindo os juros da dívida pública, salvo se a conjuntura do período a que se refere o Orçamento justificadamente o não permitir."
+  },
+  "2bc701435c10bb84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Orçamento bruto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Orçamento bruto\n\n1 - Todas as receitas são inscritas no Orçamento da Região Autónoma da Madeira pela importância integral em que foram avaliadas, sem dedução alguma para encargos de cobrança ou de qualquer outra natureza.\n\n2 - Todas as despesas são inscritas no Orçamento da Região Autónoma da Madeira pela sua importância integral, sem dedução de qualquer espécie."
+  },
+  "3a378e73af8a3328": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Não consignação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Não consignação\n\n1 - No Orçamento da Região Autónoma da Madeira não pode afectar-se o produto de quaisquer receitas à cobertura de determinadas despesas.\n\n2 - Exceptuam-se do disposto no número anterior os casos em que, por virtude de autonomia financeira ou de outra razão especial, a lei determine expressamente a afectação de certas receitas a determinadas despesas."
+  },
+  "4e5ad7180a77c0dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Especificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Especificação\n\n1 - O Orçamento da Região Autónoma da Madeira deve especificar suficientemente as receitas nele previstas e as despesas nele fixadas.\n\n2 - Será inscrita no orçamento da Secretaria Regional das Finanças uma dotação provisional destinada a fazer face a despesas não previsíveis e inadiáveis."
+  },
+  "bd06e42d6c12ba7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Classificação das receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Classificação das receitas e despesas\n\n1 - A especificação das receitas rege-se por um código de classificação económica, o qual as agrupa em despesas correntes e de capital.\n\n2 - A especificação das despesas rege-se por códigos de classificação orgânica, funcional e económica, mesmo no caso de o Orçamento ser estruturado, no todo ou em parte, por programas.\n\n3 - A estrutura dos códigos de classificação referidos nos números anteriores deverá ser idêntica à que for aplicada para o Orçamento do Estado."
+  },
+  "9d0f557e7ffbe419": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Procedimentos para a elaboração e organização do Orçamento da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Procedimentos para a elaboração e organização do Orçamento da Região Autónoma da Madeira"
+  },
+  "da10ffb73492b1f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Proposta do Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Proposta do Orçamento\n\n1 - O Governo Regional deve apresentar à Assembleia Legislativa Regional, até 2 de Novembro, uma proposta do Orçamento para o ano económico seguinte, elaborada de harmonia com a proposta das opções do Plano anual.\n\n2 - Na elaboração da proposta do Orçamento deve ser dada prioridade às obrigações decorrentes de lei ou de contrato e à política de investimento e desenvolvimento, devendo o Governo Regional propor à Assembleia Legislativa Regional as restantes prioridades orçamentais, tendo em conta os objectivos económicos e financeiros que pretende prosseguir e a necessária correlação entre as previsões orçamentais e a evolução provável da conjuntura.\n\n3 - O Orçamento da Região Autónoma da Madeira é aprovado através de decreto legislativo regional."
+  },
+  "9a8952b638b8c998": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Conteúdo da proposta do Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conteúdo da proposta do Orçamento\n\nA proposta do Orçamento deve conter o articulado do respectivo decreto legislativo regional e os mapas referidos no presente diploma e ser acompanhada de anexos informativos."
+  },
+  "643abeda2add4f14": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Conteúdo do articulado da proposta do decreto legislativo regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conteúdo do articulado da proposta do decreto legislativo regional\n\nO articulado da proposta do decreto legislativo regional deve conter:\n\n1) As condições de aprovação dos mapas orçamentais e as normas necessárias para orientar a execução orçamental;\n\n2) A indicação das fontes de financiamento que acresçam às receitas efectivas, bem como a indicação do destino a dar aos fundos resultantes de eventual excedente;\n\n3) O montante e as condições gerais de recurso ao crédito público;\n\n4) A indicação do limite dos avales a conceder pelo Governo Regional durante o exercício orçamental;\n\n5) O montante de empréstimos a conceder e de outras operações activas a realizar pela Região, incluindo os fundos e serviços autónomos;\n\n6) Todas as outras medidas que se revelem indispensáveis à correcta gestão orçamental da Região para o ano económico a que o Orçamento se destina."
+  },
+  "cbf4fae7f4c5ef05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Estrutura dos mapas orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Estrutura dos mapas orçamentais\n\n1 - Os mapas orçamentais a que se refere o artigo 10.º da presente lei são os seguintes:\n\nI) Receitas da Região, segundo uma classificação económica especificada por capítulos, grupos e artigos;\n\nII) Despesas da Região, especificadas segundo uma classificação orgânica, por capítulos;\n\nIII) Despesas da Região, especificadas segundo uma classificação funcional;\n\nIV) Despesas da Região, especificadas segundo uma classificação económica;\n\nV) Receitas globais dos serviços e fundos autónomos, segundo uma classificação orgânica, por capítulos;\n\nVI) Despesas globais dos serviços e fundos autónomos, especificadas segundo uma classificação orgânica, por capítulos;\n\nVII) Despesas globais dos serviços e fundos autónomos, especificadas segundo uma classificação funcional;\n\nVIII) Despesas globais dos serviços e fundos autónomos, especificadas segundo uma classificação económica;\n\nIX) Programa de Investimentos e Despesas de Desenvolvimento da Administração Regional (PIDDAR);\n\nX) Despesas correspondentes a programas, especificadas segundo as classificações orgânica, funcional e económica, nos termos do número seguinte.\n\n2 - As despesas da Região e dos serviços e fundos autónomos podem ser apresentadas por programas, os quais deverão conter a definição dos objectivos fundamentais a prosseguir e a quantificação dos meios necessários para o efeito.\n\n3 - O mapa IX deve apresentar os programas e projectos que, integrados no âmbito dos investimentos do Plano, a administração pública regional pretenda realizar e que impliquem encargos plurianuais e evidenciar as fontes de financiamento dos programas.\n\n4 - A proposta deve incluir ainda um mapa com as verbas atribuídas pelo Orçamento do Estado aos municípios da Região Autónoma da Madeira, nos termos da Lei das Finanças Locais."
+  },
+  "3172fa3d825ab835": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Anexos Informativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Anexos Informativos\n\n1 - O Governo Regional apresentará à Assembleia Legislativa Regional, com a proposta do Orçamento, um relatório justificativo desta, designadamente, sobre:\n\na) Justificação das variações das previsões de receitas e despesas relativamente ao Orçamento anterior;\n\nb) Situação da dívida pública regional e das operações de tesouraria;\n\nc) Situação financeira de todos os serviços e fundos autónomos;\n\nd) Transferências do Orçamento do Estado;\n\ne) Benefícios fiscais e estimativa da receita cessante.\n\n2 - Devem ainda ser remetidos à referida Assembleia os relatórios sobre:\n\na) Formas de financiamento do eventual défice orçamental e das amortizações;\n\nb) Transferências orçamentais para as autarquias locais e para as empresas públicas;\n\nc) Receitas e despesas das autarquias locais;\n\nd) Orçamento consolidado do sector público administrativo;\n\ne) Justificação económica e social dos benefícios fiscais;\n\nf) Transferências dos fundos comunitários e relação dos programas que beneficiam de tais financiamentos, acompanhados de um mapa de origem e aplicação de fundos;\n\ng) Justificação das previsões das receitas fiscais, com discriminação da situação dos principais impostos."
+  },
+  "926d978c3fede1ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Discussão e votação do Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Discussão e votação do Orçamento\n\n1 - A Assembleia Legislativa Regional deve votar o Orçamento da Região Autónoma da Madeira até 15 de Dezembro.\n\n2 - O Plenário da Assembleia Legislativa Regional discute e vota obrigatoriamente na especialidade:\n\na) A proposta à Assembleia da República para a criação de imposto e o seu regime de incidência, taxas, isenções e garantias dos contribuintes;\n\nb) A extinção de impostos;\n\nc) As matérias relativas a empréstimos e outros meios de financiamento.\n\n3 - As restantes matérias são discutidas e votadas na Comissão de Planeamento e Finanças, excepto as relativas ao regime fiscal que forem objecto de requerimento subscrito por um décimo dos Deputados em efectividade de funções, as quais serão discutidas e votadas em Plenário.\n\n4 - Serão igualmente discutidas e votadas em Plenário as matérias que forem objecto de avocação, nos termos gerais.\n\n5 - Para efeito das votações na especialidade, a Comissão de Planeamento e Finanças reunirá em sessão pública, que deverá ser integralmente registada e publicada no Diário da Assembleia Legislativa Regional.\n\n6 - No âmbito da preparação do Orçamento da Região Autónoma da Madeira, a Assembleia Legislativa Regional pode convocar directamente, a solicitação da Comissão de Planeamento e Finanças, as entidades cuja audição considerar relevante para o cabal esclarecimento da matéria em apreço."
+  },
+  "6e38ac08d8d694ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Atraso na votação ou aprovação da proposta do Orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Atraso na votação ou aprovação da proposta do Orçamento\n\n1 - Se a Assembleia Legislativa Regional não votar ou, tendo votado, não aprovar a proposta do Orçamento, incluindo o articulado e os mapas orçamentais, de modo que possa entrar em execução no início do ano económico a que se destina, manter-se-á em vigor o Orçamento do ano anterior, incluindo o articulado e os mapas orçamentais, com as alterações que nele tenham sido introduzidas ao longo da sua efectiva execução.\n\n2 - A manutenção da vigência do Orçamento do ano anterior abrange a autorização para a cobrança de todas as receitas nele previstas, bem como a prorrogação da autorização referente aos regimes das receitas que se destinavam apenas a vigorar até ao final do referido ano.\n\n3 - Durante o período em que se mantiver em vigor o Orçamento do ano anterior, a execução do orçamento das despesas deve obedecer ao princípio da utilização por duodécimos das verbas fixadas nos mapas das despesas.\n\n4 - Durante o período transitório referido nos números anteriores, são aplicáveis os princípios sobre alterações orçamentais estabelecidos no artigo 20.º da presente lei.\n\n5 - Quando ocorrer a situação prevista no n.º 1, o Governo Regional deve apresentar à Assembleia Legislativa Regional uma nova proposta do Orçamento para o respectivo ano económico, no prazo de 90 dias sobre a data da rejeição, quando a proposta anterior tenha sido votada e recusada, sobre a data de posse do novo Governo Regional, quando a não votação da proposta anterior tenha resultado da demissão do Governo proponente, ou sobre o facto que tenha determinado, nos restantes casos, a não votação parlamentar.\n\n6 - O novo Orçamento deve integrar a parte do Orçamento anterior que tenha sido executada até à cessação do regime transitório estabelecido nos números anteriores."
+  },
+  "4a34eeaeba235aaa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Execução do Orçamento e alterações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Execução do Orçamento e alterações orçamentais"
+  },
+  "12ca0eafc1b0801e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Execução orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução orçamental\n\nO Governo Regional deve tomar as medidas necessárias para que o Orçamento da Região Autónoma da Madeira possa começar a ser executado no início do ano económico a que se destina, devendo, no exercício do poder de execução orçamental, aprovar os decretos regulamentares contendo as disposições necessárias a tal execução, sem prejuízo da imediata aplicação das normas do decreto legislativo regional que aprovou o Orçamento que sejam directamente exequíveis, e tendo sempre em conta o princípio da mais racional utilização possível das dotações aprovadas e o princípio da melhor gestão de tesouraria."
+  },
+  "993a325f42f96a76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Efeitos do orçamento das receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Efeitos do orçamento das receitas\n\n1 - Nenhuma receita pode ser liquidada ou cobrada, mesmo que seja legal, se não tiver sido objecto de inscrição orçamental.\n\n2 - A cobrança pode, todavia, ser efectuada mesmo para além do montante inscrito no Orçamento.\n\n3 - Os actos administrativos que directamente envolvam perda de receita fiscal devem ser fundamentados e publicados."
+  },
+  "26f448e7fbf29571": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Execução do orçamento das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Execução do orçamento das despesas\n\n1 - As dotações orçamentais constituem o limite máximo a utilizar na realização das despesas, tendo em conta as alterações orçamentais que forem efectuadas ao abrigo do artigo 20.º\n\n2 - Nenhuma despesa pode ser efectuada sem que, além de ser legal, se encontre suficientemente discriminada no Orçamento da Região Autónoma da Madeira, tenha cabimento no correspondente crédito orçamental e obedeça ao princípio da utilização por duodécimos, ressalvadas, nesta última matéria, as excepções autorizadas por lei.\n\n3 - Nenhuma despesa deve ainda ser efectuada sem que, além de satisfazer os requisitos referidos no número anterior, seja justificada quanto à sua economia, eficiência e eficácia.\n\n4 - Nenhum encargo pode ser assumido sem que a correspondente despesa obedeça aos requisitos dos números anteriores."
+  },
+  "725c101056d38739": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Administração orçamental e contabilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Administração orçamental e contabilidade pública\n\n1 - A aplicação das dotações orçamentais e o funcionamento da administração orçamental obedecem às normas da contabilidade pública.\n\n2 - A vigência e a execução do Orçamento da Região obedecem ao regime do ano económico."
+  },
+  "d38fa2bd5b604fbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Alterações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alterações orçamentais\n\n1 - As alterações orçamentais que impliquem aumento da despesa total do Orçamento da Região Autónoma da Madeira só podem ser efectuadas por decreto legislativo da Assembleia Legislativa Regional.\n\n2 - No caso de as despesas, com exclusão das referidas no n.º 7 do presente artigo, não serem integradas em programas, as alterações dos montantes de cada secretaria regional ou capítulo, bem como as que impliquem a transferência de verbas ou a supressão de dotações entre secretarias ou capítulos, ou ainda as de natureza funcional, são também aprovadas por decreto legislativo da Assembleia Legislativa Regional.\n\n3 - No caso de as citadas despesas serem apresentadas por programas, nos termos do n.º 2 do artigo 12.º, as alterações dos montantes de cada secretaria ou capítulo, bem como as que impliquem a transferência de verbas ou a supressão de dotações entre secretarias ou capítulos, são da competência do Governo Regional e podem ser introduzidas, de acordo com os critérios definidos no decreto legislativo regional que aprovou o Orçamento, no âmbito de cada um dos programas orçamentais aprovados pela Assembleia Legislativa Regional tendo em vista a sua plena realização.\n\n4 - Exceptuam-se do disposto nos n.os 1 e 2 as despesas não previsíveis e inadiáveis, para as quais o Governo Regional pode efectuar inscrições ou reforços de verbas com contrapartida em dotação provisional a inscrever no orçamento da Secretaria Regional das Finanças, destinada a essa finalidade.\n\n5 - Exceptuam-se ainda do regime definido nos n.os 1 e 2 as despesas que, por expressa determinação da lei, possam ser realizadas com a utilização de saldos de dotações de anos anteriores, bem como as despesas que tenham compensação em receitas.\n\n6 - Sem prejuízo do disposto nos números anteriores, podem ser reduzidas ou anuladas, mediante decreto regulamentar regional, as dotações que careçam de justificação, desde que fiquem salvaguardadas as obrigações da Região.\n\n7 - São ainda da competência do Governo Regional as alterações nos orçamentos dos serviços e fundos autónomos que não envolvam recurso ao crédito para além dos limites fixados no decreto legislativo regional que aprovou o Orçamento.\n\n8 - O Governo Regional define, por decreto regulamentar regional, as regras gerais a que obedecem as alterações orçamentais que forem da sua competência."
+  },
+  "4e427c7cabae9482": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Fiscalização e responsabilidade orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Fiscalização e responsabilidade orçamentais"
+  },
+  "9e22afa10e5abc41": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Fiscalização orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Fiscalização orçamental\n\n1 - A fiscalização administrativa da execução orçamental compete, além de à própria entidade responsável pela gestão e execução, a entidades hierarquicamente superiores e de tutela, a órgãos gerais de inspecção e controlo administrativo e aos serviços da Direcção Regional de Orçamento e Contabilidade, devendo ser efectuada nos termos da legislação aplicável.\n\n2 - A fiscalização jurisdicional da execução orçamental compete ao Tribunal de Contas através da Secção Regional da Madeira, e é efectuada nos termos da legislação aplicável."
+  },
+  "dbde1ade34db7e85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Responsabilidade pela execução orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Responsabilidade pela execução orçamental\n\n1 - Os titulares de cargos políticos respondem política, civil e criminalmente pelos actos e omissões que pratiquem no âmbito do exercício das suas funções de execução orçamental, nos termos da legislação aplicável.\n\n2 - Os funcionários e agentes são responsáveis civil, criminal e disciplinarmente pelas suas acções e omissões de que resulte violação das normas de execução orçamental, nos termos do artigo 271.º da Constituição e da legislação aplicável."
+  },
+  "a2de990785d0f14a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Informações a prestar à Assembleia Legislativa Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Informações a prestar à Assembleia Legislativa Regional\n\n1 - O Governo Regional deve informar trimestralmente a Assembleia Legislativa Regional acerca do montante, condições entidades financiadoras e utilização de todos os empréstimos contraídos, bem como acerca do montante, condições e entidades beneficiárias de empréstimos e outras operações activas que conceda.\n\n2 - O Governo Regional deve enviar regularmente à Assembleia Legislativa Regional os balancetes trimestrais relativos à execução orçamental elaborados pela Direcção Regional de Orçamento e Contabilidade."
+  },
+  "f9aca0810f024ef5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Contas públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Contas públicas\n\n1 - O resultado da execução orçamental consta de contas provisórias trimestrais e da Conta da Região.\n\n2 - O Governo Regional deve publicar contas provisórias trimestrais 90 dias após o termo do mês a que se referem e apresentar à Assembleia Legislativa Regional a Conta da Região até 31 de Dezembro do ano seguinte àquele a que respeite.\n\n3 - A Assembleia Legislativa Regional aprecia e aprova a Conta da Região, precedendo parecer da Secção Regional do Tribunal de Contas, até 30 de Junho seguinte e, no caso de não aprovação, determina, se a isso houver lugar, a efectivação da correspondente responsabilidade.\n\n4 - O parecer da Secção Regional do Tribunal de Contas será acompanhado das respostas dos serviços e organismos às questões que esse órgão lhes formular."
+  },
+  "95a6c246b9d903c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Âmbito da Conta da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Âmbito da Conta da Região\n\nA Conta da Região abrange as contas de todos os organismos da administração regional que não tenham natureza, forma e designação de empresa pública."
+  },
+  "ece32d12ea98e626": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Princípios fundamentais\n\n1 - A Conta da Região deve ter uma estrutura idêntica à do Orçamento, sendo elaborada com clareza, exactidão e simplicidade, de modo a possibilitar a sua análise económica e financeira.\n\n2 - A Conta pode ser apresentada também sob forma consolidada."
+  },
+  "49b0b16e619d0eeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Estrutura da Conta da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Estrutura da Conta da Região\n\nA Conta da Região compreende:\n\nI) O relatório do Secretário Regional das Finanças sobre os resultados da execução orçamental;\n\nII) O mapa da conta geral dos fluxos financeiros da Região;\n\nIII) Os mapas referentes à execução orçamental:\n\n1) Conta geral das receitas e despesas orçamentais;\n\n2) Receitas da Região, segundo uma classificação económica;\n\n3) Despesas da Região, segundo uma classificação orgânica;\n\n4) Despesas da Região, segundo uma classificação funcional;\n\n5) Despesas da Região, segundo uma classificação económica;\n\n6) Despesas da Região, cruzadas segundo as classificações utilizadas;\n\n7) Conta geral das receitas e despesas dos serviços e fundos autónomos;\n\n8) Receitas globais dos serviços e fundos autónomos, segundo uma classificação orgânica;\n\n9) Receitas globais dos serviços e fundos autónomos, segundo uma classificação económica;\n\n10) Despesas globais dos serviços e fundos autónomos, segundo uma classificação orgânica;\n\n11) Despesas globais dos serviços e fundos autónomos, segundo uma classificação funcional;\n\n12) Despesas globais dos serviços e fundos autónomos, segundo uma classificação económica;\n\nIV) Os mapas relativos à situação de tesouraria:\n\n1) Fundos saídos para pagamento das despesas públicas orçamentais;\n\n2) Reposições abatidas nos pagamentos, por secretarias;\n\n3) Conta geral de operações de tesouraria e transferências de fundos;\n\n4) Conta geral, por cofres, de todo o movimento de receita e despesa e respectivos saldos existentes no início e no final do ano;\n\nV) Os mapas referentes a situação patrimonial:\n\n1) Aplicação do produto dos empréstimos;\n\n2) Movimento da dívida pública."
+  },
+  "51ded1109ea1b59f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Apresentação por programas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Apresentação por programas\n\nAs contas referentes às despesas da Região e dos serviços e fundos autónomos, quando apresentadas por programas, devem respeitar o previsto no n.º 2 do artigo 12.º da presente lei."
+  },
+  "69d4831fbc8df3f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Anexos justificativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Anexos justificativos\n\nO Governo Regional deve remeter à Assembleia Legislativa Regional, com o relatório e os mapas a que se refere o artigo 27.º, todos os elementos necessários à justificação da conta apresentada e, designadamente, os seguintes mapas:\n\na) Despesas com os investimentos do Plano;\n\nb) Despesas excepcionais;\n\nc) Relação nominal dos beneficiários dos avales da Região."
+  },
+  "9a0c540ff4a0cda4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Normas gerais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Normas gerais e transitórias"
+  },
+  "551ddff46724b7e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Operações do Tesouro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Operações do Tesouro\n\nA Direcção Regional de Orçamento e Contabilidade continuará a proceder à conferência de todos os saldos da tesouraria, em colaboração com a Direcção Regional de Finanças."
+  },
+  "eaeca681e6e157fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Conta da Assembleia Legislativa Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Conta da Assembleia Legislativa Regional\n\n1 - O relatório e a conta da Assembleia Legislativa Regional são elaborados pelo Conselho de Administração e aprovados pelo Plenário, após o parecer do Tribunal de Contas, a emitir até 31 de Maio do ano seguinte ao que respeita.\n\n2 - Para efeitos do número anterior, o relatório e a conta da Assembleia Legislativa Regional são remetidos à Secção Regional do Tribunal de Contas até 31 de Março do ano seguinte àquele a que digam respeito."
+  },
+  "9ce9d841de981679": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Remessa da Conta da Secção Regional da Madeira do Tribunal de Contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Remessa da Conta da Secção Regional da Madeira do Tribunal de Contas\n\nA conta anual da Secção Regional da Madeira do Tribunal de Contas, depois de aprovada, é remetida para informação à Assembleia Legislativa Regional até 31 de Maio do ano seguinte àquele a que diz respeito."
+  },
+  "434c5166190c9849": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nA presente lei, com excepção do capítulo II, cuja vigência se inicia com o Orçamento da Região referente a 1993, entra em vigor no dia imediato ao da sua publicação e aplica-se aos processos pendentes em qualquer instância ou secção do Tribunal de Contas.\n\nAprovada em 17 de Julho de 1992.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em 11 de Agosto de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 12 de Agosto de 1992.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  },
+  "8ed2b384c100933e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Conteúdo do articulado da proposta do decreto legislativo regional",
+   "in_force_from": "1993-08-04",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 30-C/92](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), publicado em 1992-12-28."
+   ],
+   "markdown": "###### Artigo 11.º — Conteúdo do articulado da proposta do decreto legislativo regional\n\nO articulado da proposta do decreto legislativo regional deve conter:\n\n1) As condições de aprovação dos mapas orçamentais e as normas necessárias para orientar a execução orçamental;\n\n2) A indicação das fontes de financiamento que acresçam às receitas efectivas, bem como a indicação do destino a dar aos fundos resultantes de eventual excedente;\n\n3) O montante e as condições gerais de recurso ao crédito público;\n\n4) A indicação do limite dos avales a conceder pelo Governo Regional durante o exercício orçamental;\n\n5 - O montante de empréstimos a conceder e de outras operações activas a realizar pela Região, incluindo os fundos e serviços autónomos, desde que não sejam dívida flutuante.\n\n6) Todas as outras medidas que se revelem indispensáveis à correcta gestão orçamental da Região para o ano económico a que o Orçamento se destina.\n\n> Alterado pelo/a [Lei n.º 30-C/92](https://diariodarepublica.pt/dr/detalhe/lei/30-c-1992-444447), publicado em 1992-12-28."
+  },
+  "e89f990ef2eb6040": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Conta da Assembleia Legislativa Regional",
+   "in_force_from": "1993-08-04",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 53/93](https://diariodarepublica.pt/dr/detalhe/lei/53-1993-345153), publicado em 1993-07-30."
+   ],
+   "markdown": "###### Artigo 31.º — Conta da Assembleia Legislativa Regional\n\n1 - O relatório e a conta da Assembleia Legislativa Regional são elaborados pelo Conselho de Administração e aprovados pelo Plenário.\n\n2 - Para efeitos da alínea d) do artigo 8.º da [Lei n.º 86/89](https://diariodarepublica.pt/dr/detalhe/lei/86-1989-547238), de 8 de Setembro, o relatório e a conta da Assembleia Legislativa Regional são remetidos ao Tribunal de Contas até 31 de Março do ano seguinte àquele a que digam respeito.\n\n> Alterado pelo/a [Lei n.º 53/93](https://diariodarepublica.pt/dr/detalhe/lei/53-1993-345153), publicado em 1993-07-30."
+  }
+ }
+}

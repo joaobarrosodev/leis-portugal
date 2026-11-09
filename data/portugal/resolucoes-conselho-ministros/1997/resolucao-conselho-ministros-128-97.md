@@ -38,10 +38,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-07-04'
+version_history:
+  file: resolucao-conselho-ministros-128-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-08-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-07-04'
+    amending: pt:dre:486932:por
+    amending_title: Resolução do Conselho de Ministros n.º 76/98
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Adita Artigo Anexo I
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/128/1997/08/01/p/dre/pt/html
@@ -67,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-26T23:24:30Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 76/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1997/resolucao-conselho-ministros-128-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -164,17 +185,19 @@ ii) Implementação de metodologias de gestão de projectos, desde a concepção
 
 b) Qualidade:
 
-i) Implementação de sistemas de controlo da qualidade em frentes de obra, de materiais e de processos construtivos;
+i) Qualidade na empresa:
 
-ii) Criação de serviços pós-venda;
+Certificação de sistemas de garantia de qualidade;
 
-iii) Implementação de metodologias de controlo de qualidade, desde a concepção até ao produto final;
+Implementação de sistemas de garantia/gestão de qualidade;
 
-iv) Implementação de sistemas de garantia/gestão da qualidade;
+ii) Melhorias de qualidade:
 
-v) Certificação dos produtos;
+Certificação dos produtos;
 
-vi) Certificação de sistemas de garantia da qualidade da empresa;
+Implementação de sistemas de controlo de qualidade em frentes de obra, de
+
+materiais e de processos;
 
 c) Inovação:
 
@@ -194,6 +217,8 @@ e) Mercados:
 
 i) Estudos de mercado;
 
+ii) Criação de serviços pós-venda;
+
 f) Higiene e segurança:
 
 i) Concepção e aplicação de sistemas de prevenção e segurança de acidentes no trabalho;
@@ -202,17 +227,21 @@ ii) Aplicação de melhores condições de higiene e salubridade no trabalho;
 
 g) Formação profissional nas áreas da empresa referidas neste número.
 
-4 - Entende-se por rede de cooperação uma empresa pertencente a um conjunto de empresas sem relações de propriedade entre si, para as quais desenvolve, com sinergias acrescidas, actividades comuns.
+4 - As redes de cooperação podem ser constituídas através de sociedades, comerciais ou cooperativas, de agrupamentos complementares de empresas de consórcios ou sob quaisquer outras formas de cooperação em direito permitidas desde que entre os entes envolvidos não existam relações de pertença e visem desenvolver actividades de interesse estratégico comum.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 76/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932), publicado em 1998-07-03.
 
 ###### Artigo 3.º — Entidades beneficiárias
 
-Os beneficiários deste Regime são pequenas e médias empresas que tenham entre 10 e 250 trabalhadores, incluídas na secção F - Construção da CAE - Rev. 2, aprovada pelo [Decreto-Lei n.º 182/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1993-275862), de 14 de Maio.
+Os beneficiários deste Regime são pequenas e médias empresas com menos de 250 trabalhadores, incluídas na secção F - Construção, da CAE - Rev. 2, aprovada pelo [Decreto-Lei n.º 182/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1993-275862), de 14 de Maio.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 76/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932), publicado em 1998-07-03.
 
 ###### Artigo 4.º — Condições específicas de acesso do promotor
 
 1 - O promotor deve cumprir as seguintes condições específicas, além do previsto no artigo 4.º do [Decreto-Lei n.º 172/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1997-150765) de 16 de Julho:
 
-a) Possuir entre 10 e 250 trabalhadores regularmente inscritos na segurança social no ano anterior ao do início do projecto;
+a) Possuir até 250 trabalhadores regularmente inscritos na segurança social no ano anterior ao do início do projecto;
 
 b) Demonstrar possuir uma situação financeira equilibrada e meios financeiros adequados à sua actividade e à execução do projecto, nomeadamente dispor de autonomia financeira pré-projecto igual ou superior a 20%;
 
@@ -222,45 +251,85 @@ c) Comprovar que tem a situação regularizada em relação ao Instituto de Apoi
 
 AF = (capitais próprios + suprimentos)/(activo líquido)
 
-3 - No caso de aprovação da candidatura, o montante de suprimentos que garante os 20% de autonomia financeira estipulados na alínea b) do n.º 1 deve ser integrado em capital social antes da assinatura do contrato de concessão dos incentivos.
+3 - No caso de aprovação da candidatura, o montante de suprimentos que garante os 20% de autonomia financeira estipulados na alínea b) do n.º 1 deve ser integrado em capital próprio antes da assinatura do contrato de concessão dos incentivos.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 76/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932), publicado em 1998-07-03.
 
 ###### Artigo 5.º — Condições específicas de acesso do projecto
 
 Os projectos candidatos devem satisfazer as seguintes condições específicas, além do previsto no artigo 5.º do [Decreto-Lei n.º 172/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1997-150765), de 16 de Julho:
 
-a) Incluir um diagnóstico estratégico da empresa, com uma identificação sumária de ameaças e oportunidades concorrenciais, bem como a identificação dos seus pontos fortes e fracos, incluindo necessidades de formação, como suporte à justificação do projecto;
+a) Respeitar o esquema de apresentação da candidatura constante do anexo ao presente diploma, que dele faz parte integrante;
 
-b) Respeitar o esquema de apresentação do projecto de investimento constante do anexo ao presente diploma;
+b) Demonstrar viabilidade técnica, económica e financeira, no caso da implementação de programas estratégicos de investimento;
 
-c) Envolver um montante de investimento elegível não directamente produtivo inferior a 30000 contos;
+c) Garantir o financiamento do investimento com um mínimo de 30% de capitais próprios no caso de investimentos não directamente produtivos definidos nos termos da alínea a) do n.º 1 do artigo 2.º;
 
-d) Envolver um montante de investimento elegível directamente produtivo, associado a investimento não produtivo, que não ultrapasse o triplo deste;
+d) Garantir uma situação financeira pós-projecto (ano após a conclusão do projecto) equilibrada, entendida como uma autonomia financeira não inferior a 20%, no caso de programas estratégicos de investimento definidos nos termos da alínea b) do n.º 1 do artigo 2.º
 
-e) Demonstrar viabilidade técnica, económica e financeira, no caso da implementação de programas estratégicos de investimento;
-
-f) Garantir o financiamento do investimento com um mínimo de 30% de capitais próprios, no caso de investimentos não produtivos, definidos nos termos da alínea a) do n.º 1 do artigo 2.º;
-
-g) Garantir uma situação financeira pós-projecto (ano após a conclusão do projecto) equilibrada, entendida como uma autonomia financeira não inferior a 20%, no caso de programas estratégicos de investimento, definidos nos termos da alínea b) do n.º 1 do artigo 2.º
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 76/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932), publicado em 1998-07-03.
 
 ###### Artigo 6.º — Despesas elegíveis
 
-1 - Para efeitos de cálculo do incentivo no âmbito do presente Regime, constituem despesas elegíveis os seguintes custos:
+1 - Despesas de investimento em capital fixo não directamente produtivo, corpóreo e incorpóreo, nomeadamente em:
 
-a) Despesas de investimento em capital fixo não directamente produtivo, corpóreo e incorpóreo, incluindo despesas com formação profissional, nos termos do n.º 3 do artigo 2.º do Decreto-Lei 172/97, de 16 de Julho;
+a) Estudos de mercado e acções de marketing;
 
-b) Despesas de investimento directamente produtivo, com exclusão de:
+b) Equipamentos de telecomunicações avançadas;
 
-i) Aquisição de terrenos;
+c) Sistemas de informação;
 
-ii) Construção de edifícios ou compra de imóveis;
+d) Equipamentos e suportes informáticos de apoio à gestão;
 
-iii) Aquisição de veículos automóveis;
+e) Melhorias da qualidade, integradas ou não em processo de certificação;
 
-iv) Aquisição de equipamentos em estado de uso;
+f) Equipamentos orientados para a racionalização energética e utilização de energias alternativas;
 
-v) Custos internos da empresa.
+g) Procedimentos e equipamentos que visem a protecção do ambiente;
 
-2 - O cálculo das empresas elegíveis é efectuado a preços correntes, deduzido o imposto sobre o valor acrescentado sempre que a entidade promotora seja sujeito passivo do mesmo imposto e possa exercer o direito à sua dedução.
+h) Meios associados à concepção e produção assistida por computador;
+
+i) Sistemas de automatização da produção;
+
+j) Concepção e design de produtos e processos;
+
+k) Higiene e segurança no trabalho;
+
+l) Sistemas de segurança;
+
+m) Equipamentos sociais;
+
+n) Estudos, projectos e serviços de assistência técnica;
+
+o) Planos estratégicos;
+
+p) Formação profissional nos termos do n.º 3 do artigo 2.º do [Decreto-Lei n.º 172/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1997-150765), de 16 de Julho.
+
+2 - Despesas de investimento directamente produtivo quando associado ao investimento não directamente produtivo.
+
+3 - Excluem-se dos pontos anteriores:
+
+a) Aquisição de terrenos;
+
+b) Construção de edifícios ou compra de imóveis e obras de adaptação, salvo quando associadas a investimentos não directamente produtivos e devidamente justificadas;
+
+c) Trespasse;
+
+d) Aquisição de veículos automóveis ligeiros;
+
+e) Aquisição de equipamentos em estado de uso;
+
+f) Trabalhos para a própria empresa.
+
+4 - Os montantes máximos de despesa elegível são:
+
+a) No caso do investimento não directamente produtivo, 100000 contos;
+
+b) No caso do investimento directamente produtivo, o quíntuplo do investimento não directamente produtivo.
+
+5 - O cálculo das despesas elegíveis é efectuado a preços correntes deduzido o imposto sobre o valor acrescentado sempre que a entidade promotora seja sujeito passivo do mesmo imposto e possa exercer o direito à sua dedução.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 76/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932), publicado em 1998-07-03.
 
 ###### Artigo 7.º — Critérios de selecção
 
@@ -290,11 +359,17 @@ a) Subsídios a fundo perdido, com excepção do que se refere à formação pro
 
 b) Subsídio a fundo perdido à formação profissional, nos termos a definir em regulamento específico referido no n.º 3 do artigo 2.º do Decreto-Lei 172/97, de 16 de Julho.
 
-3 - No âmbito da alínea b) do n.º 1, a bonificação é de 50% dos juros referentes ao financiamento aplicado ao investimento elegível directamente produtivo, de acordo com o protocolo a celebrar com as instituições de crédito aderentes ao Programa.
+3 - No âmbito da alínea b) do n.º 1, a bonificação é de 100% dos juros referentes ao financiamento aplicado ao investimento elegível directamente produtivo de acordo com o protocolo celebrado com as instituições de crédito aderentes ao Programa.
 
-4 - No âmbito da alínea c) do n.º 1, a bonificação é de 50% dos juros dos contratos de locação financeira, de acordo com o protocolo a celebrar com as instituições de locação financeira aderentes ao Programa.
+4 - No âmbito da alínea c) do n.º 1, a bonificação é de 100% dos juros dos contratos de locação financeira, de acordo com o protocolo a celebrar com as instituições de locação financeira aderentes ao Programa.
 
-5 - O incentivo a conceder no âmbito da alínea a) do n.º 2 é objecto de majoração em 15%, no caso dos projectos cujo investimento inclua planos de formação profissional.
+5 - O incentivo a conceder no âmbito da alínea a) do n.º 2 é objecto das seguintes majorações:
+
+a) No caso dos projectos cujo investimento inclua planos de formação profissional, 15%;
+
+b) No caso dos projectos de investimento promovidos por empresas aderentes a contratos sectoriais de adaptação ambiental, apenas nas aplicações relevantes relativas a ambiente, 10%.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 76/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932), publicado em 1998-07-03.
 
 ###### Artigo 9.º — Apresentação de candidaturas
 
@@ -303,6 +378,16 @@ A apresentação de candidaturas ao presente Regime é contínua, devendo ser fo
 ###### Artigo 10.º — Encargos
 
 Os encargos nacionais decorrentes da aplicação deste Regulamento são inscritos anualmente no orçamento da Direcção-Geral do Desenvolvimento Regional sob o título «Iniciativa comunitária PME».
+
+###### Artigo Anexo I — Esquema de apresentação da candidatura
+
+I - Apresentação sumária da empresa.
+
+II - Orientação estratégica da empresa.
+
+III - Fundamentação do projecto de investimento.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 76/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932), publicado em 1998-07-03.
 
 ## ANEXO — Esquema de apresentação do projecto de investimento
 

@@ -1,0 +1,266 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:545630:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-05-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f1b6e2ee2a3ca126",
+    "f4fb0cd36da1a364",
+    "b14f5434f61acd7a",
+    "32fefac14364652c",
+    "988943bd6de3d962",
+    "f2038e491c62af57",
+    "2846f2a4006c03c7",
+    "f19584dd0d4d4eed",
+    "98eac01cfacb4f62",
+    "7a7e1ebcabaeb841",
+    "0ca3f5058f502cbf",
+    "f02bcc5ec48c71c6",
+    "ba10669089523574",
+    "4a790f5511ccbcc7",
+    "8a1a62b131acb47b",
+    "d6759e589ae85ad2",
+    "021bf1111e315160",
+    "17675ba88d84705f",
+    "30a064465c74abcc",
+    "4e55a7db40c27cee",
+    "13d24222aaa10819",
+    "34c548e792df8b24"
+   ]
+  },
+  {
+   "date": "2003-09-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:514215:por",
+     "title": "Portaria n.º 911/2003",
+     "published": "2003-08-30",
+     "dre_path": "/dr/detalhe/portaria/911-2003-514215"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO A::7.º"
+   ],
+   "fragments": [
+    "f1b6e2ee2a3ca126",
+    "f4fb0cd36da1a364",
+    "b14f5434f61acd7a",
+    "32fefac14364652c",
+    "988943bd6de3d962",
+    "f2038e491c62af57",
+    "2846f2a4006c03c7",
+    "f19584dd0d4d4eed",
+    "3a77b64bb1905adf",
+    "7a7e1ebcabaeb841",
+    "0ca3f5058f502cbf",
+    "f02bcc5ec48c71c6",
+    "ba10669089523574",
+    "4a790f5511ccbcc7",
+    "8a1a62b131acb47b",
+    "d6759e589ae85ad2",
+    "021bf1111e315160",
+    "17675ba88d84705f",
+    "30a064465c74abcc",
+    "4e55a7db40c27cee",
+    "13d24222aaa10819",
+    "34c548e792df8b24"
+   ]
+  }
+ ],
+ "fragments": {
+  "f1b6e2ee2a3ca126": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Maio\n\nO Decreto-Lei n.º 70-B/2000, de 5 de Maio, aprovou um enquadramento legal de referência para a criação de um conjunto de medidas de acção económica com vista ao desenvolvimento de diversos sectores de actividade da economia portuguesa, através do apoio directo e indirecto às empresas, para o período que decorre entre os anos 2000 e 2006.\n\nA presente portaria cria e regulamenta a atribuição de incentivos ao abrigo daquele enquadramento, tendentes à criação de valor acrescentado tecnológico pelo tecido empresarial nacional, através do apoio à criação de núcleos de investigação e desenvolvimento tecnológico nas empresas.\n\nAssim, ao abrigo do artigo 20.º e nos termos da alínea a) do artigo 6.º do Decreto-Lei n.º 70-B/2000, de 5 de Maio:\n\nManda o Governo, pelos Ministros de Estado e das Finanças e da Economia, que seja criado o Sistema de Incentivos à Criação de Núcleos de Investigação e Desenvolvimento Tecnológico no Sector Empresarial, regulamentado nos termos do anexo à presente portaria e da qual faz parte integrante.\n\nEm 7 de Maio de 2003.\n\nA Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Economia, Carlos Manuel Tavares da Silva."
+  },
+  "f4fb0cd36da1a364": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A\n\nREGULAMENTO DE EXECUÇÃO DO SISTEMA DE INCENTIVOS À CRIAÇÃO DE NÚCLEOS DE INVESTIGAÇÃO E DESENVOLVIMENTO TECNOLÓGICO NO SECTOR EMPRESARIAL."
+  },
+  "b14f5434f61acd7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nPelo presente Regulamento são definidas as regras para execução do Sistema de Incentivos à Criação de Núcleos de Investigação e Desenvolvimento Tecnológico (I&DT) no Sector Empresarial, no âmbito do Programa Operacional da Economia (POE)."
+  },
+  "32fefac14364652c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nAtravés do presente Regulamento pretende-se apoiar a criação de competências internas de I&DT nas empresas, bem como estimular a sua apetência para prosseguir estas valências e, consequentemente, premiar o esforço empresarial desenvolvido ao nível quer da concepção e execução quer da endogeneização de conhecimentos que permitam uma mais efectiva afirmação das empresas nacionais através da disponibilização de soluções e oferta de produtos tecnologicamente inovadores."
+  },
+  "988943bd6de3d962": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\n1 - São susceptíveis de apoio no âmbito do presente Regulamento projectos de investimento que visem o reforço da produtividade, competitividade e inserção no mercado global das empresas através da criação, com consolidação, de núcleos empresariais de I&DT.\n\n2 - Entende-se por núcleo de I&DT uma pequena equipa com características de permanência, constituída no máximo por três pessoas dedicadas unicamente a actividades de endogeneização e desenvolvimento de competências tecnológicas no interior da empresa, assentes em planos de actividades estruturados em projectos, as quais conduzam a novos produtos, processos e ou sistemas ou à introdução de melhorias significativas nos produtos, processos e ou sistemas existentes, com incorporação tecnológica efectiva."
+  },
+  "f2038e491c62af57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidades beneficiárias\n\nAs entidades beneficiárias dos apoios previstos no presente Regulamento são as empresas de qualquer natureza e sob qualquer forma jurídica que se proponham criar núcleos estáveis de I&DT, enquadráveis nas disposições do presente Regulamento, e cujos planos de actividades sejam constituídos por projectos que se insiram nos sectores de actividade abrangidos pelo Decreto-Lei n.º 70-B/2000, de 5 de Maio."
+  },
+  "2846f2a4006c03c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições de elegibilidade do promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de elegibilidade do promotor\n\n1 - O promotor, à data da candidatura, deve:\n\na) Encontrar-se legalmente constituído e registado nos termos da legislação em vigor;\n\nb) Cumprir as condições legais necessárias ao exercício da respectiva actividade, nomeadamente ter a situação regularizada em matéria de licenciamento, quando aplicável;\n\nc) Possuir uma situação regularizada face à administração fiscal, segurança social e entidades pagadoras do incentivo;\n\nd) Dispor de contabilidade organizada de acordo com o Plano Oficial de Contabilidade;\n\ne) Cumprir outras disposições legais obrigatórias específicas do sector de actividade em que se insere, quando aplicável;\n\nf) Comprometer-se a manter afecto à respectiva actividade o investimento a comparticipar no quadro do presente Regulamento, bem como a manter a localização geográfica definida na candidatura, por um período não inferior a cinco anos contados a partir da data de celebração do contrato de concessão de incentivo;\n\ng) Apresentar uma situação económico-financeira equilibrada, verificada pelo cumprimento dos rácios económico-financeiros definidos no anexo B ao presente diploma, do qual faz parte integrante;\n\nh) Possuir capacidade técnica e de gestão ajustada aos requisitos dos projectos a executar pelo núcleo de I&DT no âmbito do respectivo plano de actividades, ou demonstrar que irá possuir estas capacidades em resultado da colaboração de entidades do Sistema Científico e Tecnológico Nacional (SCTN);\n\ni) Possuir um sistema de controlo adequado à análise e acompanhamento dos projectos a desenvolver pelo núcleo de I&DT\n\nj) Não possuir qualquer núcleo ou departamento de I&DT.\n\n2 - Após comunicação da decisão de aprovação, o promotor terá de apresentar, no prazo máximo de 20 dias úteis, comprovantes das condições a que se refere o n.º 1 anterior, o qual poderá ser prorrogado por igual período, desde que o promotor apresente justificação fundamentada à entidade gestora.\n\n3 - Os promotores cujo acto de constituição se tenha verificado nos 60 dias úteis anteriores à data da candidatura apenas são obrigados, para efeitos da alínea a) do n.º 1 anterior, a comprovar que já requereram a sua inscrição na conservatória do registo comercial competente, sem prejuízo da posterior comprovação do cumprimento desta condição."
+  },
+  "f19584dd0d4d4eed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições de elegibilidade do núcleo de I&DT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de elegibilidade do núcleo de I&DT\n\nO núcleo de I&DT a criar tem de:\n\n1) Estar suportado por um plano de actividades estruturado num ou em vários projectos de I&DT de acordo com o modelo padrão constante do formulário de candidatura;\n\n2) Constar do plano de actividades referido no número anterior, com uma duração mínima de dois anos contados a partir da data de início da sua execução;\n\n3) Ser proposto para financiamento no quadro do presente Regulamento antes do início da execução do plano de actividades a que se reporta;\n\n4) Demonstrar que se encontram asseguradas as respectivas fontes de financiamento do investimento."
+  },
+  "98eac01cfacb4f62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas elegíveis\n\n1 - São consideradas despesas elegíveis para efeito de cálculo do incentivo as directamente relacionadas com as actividades do núcleo de I&DT e realizadas com:\n\na) Pessoal técnico do promotor a admitir e que se destine ao exercício de actividades permanentes de investigação e desenvolvimento, de acordo com os critérios definidos no despacho n.º 3007/2001 (2.ª série), de 13 de Fevereiro;\n\nb) Software e equipamento informático para apoio técnico e administrativo;\n\nc) Bibliografia e acesso a bases de dados técnicas;\n\nd) Contratos de transferência ou aquisição de tecnologia que se traduzam na sua efectiva endogeneização por parte do núcleo;\n\ne) Intervenção de revisores oficiais de contas ou técnicos oficiais de contas, no âmbito da comprovação da execução financeira do plano de actividades, prevista na alínea c) do artigo 17.º;\n\nf) Despesas com garantias bancárias exigidas ao promotor, definidas no contrato de concessão de incentivos.\n\n2 - Para efeitos do número anterior, o núcleo de I&DT a apoiar será constituído no máximo por três técnicos e o apoio terá um máximo de cinco anos.\n\n3 - No caso dos investimentos previstos na alínea b), apenas é considerado como despesa elegível o valor das respectivas amortizações correspondentes ao período da sua utilização no plano de actividades do núcleo de I&DT.\n\n4 - A despesa elegível prevista na alínea c) do n.º 1 não pode exceder (euro) 5000.\n\n5 - As despesas elegíveis identificadas nas alíneas b) e c) do n.º 1 não podem, no seu conjunto, exceder as despesas elegíveis identificadas na alínea a) do mesmo número."
+  },
+  "7a7e1ebcabaeb841": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas não elegíveis\n\nNão são elegíveis despesas relativas a:\n\na) Aquisição de bens em estado de uso;\n\nb) Juros relativos a empréstimos;\n\nc) Despesas de natureza fiscal;\n\nd) Trabalhos da empresa para ela própria."
+  },
+  "0ca3f5058f502cbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Critérios de selecção\n\nOs projectos de criação de núcleos empresariais de I&DT serão seleccionados com base na apreciação dos respectivos planos de actividades através da atribuição de uma valia calculada segundo a metodologia e os critérios de selecção definidos no anexo C ao presente Regulamento."
+  },
+  "f02bcc5ec48c71c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Incentivo\n\n1 - O apoio a conceder reveste a forma de incentivo não reembolsável, determinado pela aplicação às despesas elegíveis da taxa base de 30%, a qual pode ser acrescida das seguintes majorações:\n\na) «Desconcentração territorial», a atribuir a núcleos de I&DT localizados fora da NUT II de LVT: 10%;\n\nb) «Tipo de empresa», a atribuir a núcleos de I&DT de PME: 10%;\n\nc) «Tipo de promotor», a atribuir a núcleos de I&DT cuja execução do(s) projecto(s) a desenvolver seja efectuada com recurso à participação de entidades do Sistema Científico e Tecnológico Nacional nos trabalhos de I&DT preconizados, desde que represente pelo menos 5% do valor total das despesas elegíveis: 10%.\n\n2 - O montante total do incentivo a conceder no âmbito do presente Regulamento não pode exceder (euro) 200000.\n\n3 - No âmbito do presente Regulamento, será utilizado o conceito de pequena e média empresa (PME) definido na Recomendação n.º [96/280/CE](http://data.europa.eu/eli/reco/1996/280/oj?locale=pt), da Comissão Europeia, de 3 de Abril.\n\n4 - A taxa base acrescida das majorações definidas no n.º 1 não pode ultrapassar 50% das despesas elegíveis."
+  },
+  "ba10669089523574": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entidade gestora\n\nA entidade responsável pela gestão do presente Sistema de Incentivos é a Agência de Inovação."
+  },
+  "4a790f5511ccbcc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências\n\n1 - Compete à entidade gestora analisar as candidaturas e efectuar o acompanhamento e controlo da execução dos planos de actividades por parte dos núcleos de I&DT.\n\n2 - No âmbito das competências definidas no número anterior, à entidade gestora caberá nomeadamente:\n\na) Verificar as condições de elegibilidade dos promotores e dos núcleos de I&DT\n\nb) Analisar as candidaturas na sua globalidade e emitir pareceres sobre os incentivos a atribuir;\n\nc) Apresentar os pareceres mencionados na alínea b) à unidade de gestão;\n\nd) Notificar as decisões, elaborar os contratos de incentivos e proceder ao seu envio ao promotor;\n\ne) Acompanhar e fiscalizar a execução dos investimentos e a utilização dos incentivos recebidos;\n\nf) Elaborar as propostas de encerramento técnico e financeiro dos investimentos.\n\n3 - No decorrer da análise da candidatura, poderão ser solicitados aos promotores esclarecimentos complementares, os quais deverão ser prestados no prazo de 10 dias úteis, decorridos os quais a ausência de resposta significará a desistência da candidatura."
+  },
+  "8a1a62b131acb47b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apresentação de candidaturas\n\nA apresentação de candidaturas é contínua, devendo ser formalizada em formulário próprio."
+  },
+  "d6759e589ae85ad2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Processo de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Processo de decisão\n\n1 - A entidade gestora enviará à unidade de gestão, no âmbito do POE, proposta de decisão relativa à candidatura no prazo de 30 dias úteis contados a partir da data da candidatura.\n\n2 - O prazo definido no número anterior suspende-se sempre que, nos termos do n.º 3 do artigo 12.º, sejam solicitados esclarecimentos complementares.\n\n3 - Cabe à unidade de gestão emitir, no prazo de 20 dias úteis, proposta de decisão sobre as candidaturas a submeter pelo gestor do POE ao Ministro da Economia.\n\n4 - O gestor do POE deverá submeter a sua decisão para homologação do Ministro da Economia no prazo de 10 dias, tendo o prazo de 5 dias após a recepção da decisão do Ministro da Economia para a remeter à entidade gestora.\n\n5 - A decisão relativa à atribuição de incentivos será notificada ao promotor pela entidade gestora no prazo de 15 dias após a homologação da decisão."
+  },
+  "021bf1111e315160": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Formalização da concessão do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Formalização da concessão do incentivo\n\n1 - O contrato de concessão do incentivo é celebrado entre a ADI - Agência de Inovação e o promotor mediante uma minuta tipo homologada pelo Ministro da Economia.\n\n2 - A não celebração do contrato por motivos imputáveis ao promotor, no prazo de 20 dias úteis contados a partir da data da notificação da decisão de aprovação do apoio, determina a caducidade da decisão de concessão de incentivo."
+  },
+  "17675ba88d84705f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Obrigações dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Obrigações dos promotores\n\n1 - Os promotores ficam sujeitos às seguintes obrigações:\n\na) Executar o plano de actividades previsto para o núcleo de I&DT a apoiar nos termos e prazos fixados no contrato;\n\nb) Cumprir as obrigações legais, designadamente as fiscais;\n\nc) Entregar, nos prazos estabelecidos, todos os elementos que lhes forem solicitados pela entidade gestora, nomeadamente os que respeitem à prestação regular de informações de acordo com os procedimentos a definir por este organismo e com a periodicidade que esta entidade estipular;\n\nd) Comunicar à entidade gestora qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à aprovação do projecto ou à sua realização pontual;\n\ne) Manter as condições legais necessárias ao exercício da respectiva actividade, nomeadamente quanto à sua situação em matéria de licenciamento, quando aplicável;\n\nf) Manter a sua situação regularizada perante as entidades pagadoras do incentivo;\n\ng) Manter a contabilidade organizada de acordo com o Plano Oficial de Contabilidade e contabilizar o investimento e o incentivo em conta exclusivamente dedicada ao contrato em causa;\n\nh) Manter devidamente organizados em dossiers próprios todos os documentos e informações que sustentam ou comprovam os elementos ou as declarações prestadas na candidatura e em posteriores pedidos de esclarecimentos;\n\ni) Publicitar os apoios recebidos nos termos regulamentados.\n\n2 - Os promotores obrigam-se, ainda, a não ceder, locar, alienar ou, por qualquer modo, onerar ou deslocalizar o investimento, no todo ou em parte, sem autorização prévia da entidade gestora, até cinco anos contados a partir da data da celebração do contrato de concessão de incentivos."
+  },
+  "30a064465c74abcc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acompanhamento e controlo\n\nSem prejuízo de outros mecanismos que já existam ou venham a ser adoptados, o acompanhamento e controlo dos projectos de criação de núcleos empresariais de I&DT, aferido através da análise da realização dos respectivos planos de actividades, serão efectuados da seguinte forma:\n\na) Verificação da execução física do plano de actividades do núcleo de I&DT suportada por relatórios técnico-científicos, elaborados com periodicidade a definir no contrato e de acordo com estruturas padrão a fornecer aos promotores na fase de assinatura do contrato;\n\nb) Verificação da execução financeira do investimento suportada por relatórios financeiros, elaborados com periodicidade a definir no contrato e de acordo com estruturas padrão a fornecer aos promotores na fase de assinatura do contrato;\n\nc) A verificação financeira do investimento para efeito de pagamento de incentivos terá por base uma declaração de despesa do investimento apresentada pelo promotor e certificada por um revisor oficial de contas, no caso de candidaturas com investimentos elegíveis superiores a (euro) 150000, ou por um revisor oficial de contas ou técnico de contas, nas restantes situações, que confirme a realização das despesas de investimento indicadas no relatório financeiro em causa e a correcta contabilização dos documentos comprovativos do investimento e do incentivo concedido nos termos definidos na alínea g) do artigo 16.º;\n\nd) A verificação a que se refere a alínea c) não prejudica a necessidade de validação do apuramento das despesas elegíveis do plano de actividades por parte da entidade gestora."
+  },
+  "4e55a7db40c27cee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Acumulação de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Acumulação de incentivos\n\nPara as mesmas despesas elegíveis, os incentivos concedidos ao abrigo do presente Regulamento não são acumuláveis com quaisquer outros de idêntica natureza, nomeadamente os técnicos cujos custos salariais forem comparticipados no âmbito do presente Regulamento não podem ser propostos para obtenção de qualquer outro tipo de subvenção com idêntica incidência."
+  },
+  "13d24222aaa10819": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO B — Situação económica e financeira equilibrada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO B — Situação económica e financeira equilibrada\n\n1 - Para efeitos do disposto na alínea g) do n.º 1 do artigo 5.º do presente Regulamento considera-se que os promotores possuem uma situação económico-financeira equilibrada quando apresentem um rácio de autonomia financeira superior a 25%.\n\n2 - A autonomia financeira referida no número anterior é calculada através da seguinte fórmula:\n\nAF = (CPe/ALe) x 100\n\nem que:\n\nCPe - capitais próprios da empresa, incluindo os suprimentos que não excedam um terço daqueles, desde que venham a ser incorporados em capital próprio até à data da celebração do contrato de concessão de incentivos;\n\nALe - activo líquido da empresa.\n\n3 - Para o cálculo do indicador referido no n.º 2 será utilizado o balanço referente ao final do exercício anterior ao da data da candidatura ou um balanço intercalar reportado a data posterior, desde que legalmente certificado por um revisor oficial de contas.\n\n4 - Em casos devidamente justificados e fundamentados é admissível a apresentação de um balanço corrigido, através do qual se contemplem especificidades relacionadas com práticas habituais no mercado, nomeadamente no que se refere a situações caracterizadas por ciclos de produção longos ou resultantes de concursos públicos.\n\n5 - Mediante proposta do gestor do POE, devidamente fundamentada, pode o Ministro da Economia ajustar, sectorialmente, o limite referido no n.º 1."
+  },
+  "34c548e792df8b24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO C — Critérios de selecção e metodologia para determinação da valia de núcleos de I&DT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO C — Critérios de selecção e metodologia para determinação da valia de núcleos de I&DT\n\n1 - Nos termos do artigo 9.º do presente Regulamento, os projectos de criação de núcleos empresariais de I&DT são seleccionados com base na apreciação dos respectivos planos de actividades classificados consoante a respectiva valia calculada de acordo com a seguinte fórmula:\n\nV = 0,7A + 0,3B\n\nem que V traduz a pontuação atribuída à valia da candidatura e A e B correspondem aos seguintes critérios de selecção:\n\nA - impacte positivo dos resultados das actividades do núcleo de I&DT sobre a produtividade e competitividade da empresa;\n\nB - capacidade técnica e de gestão do promotor adequadas à posterior exploração com benefícios económicos dos conhecimentos, produtos, processos e ou sistemas resultantes da actividade desenvolvida.\n\n2 - A pontuação dos critérios identificados no n.º 1 é obtida considerando as seguintes notações:\n\n1 = Fraco;\n\n2 = Médio;\n\n3 = Forte;\n\n4 = Muito forte.\n\n3 - Não são elegíveis candidaturas com pelo menos um critério com notação de Fraco ou com valia inferior a 2,5."
+  },
+  "3a77b64bb1905adf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Despesas elegíveis",
+   "in_force_from": "2003-09-04",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 911/2003](https://diariodarepublica.pt/dr/detalhe/portaria/911-2003-514215), publicado em 2003-08-30."
+   ],
+   "markdown": "###### Artigo 7.º — Despesas elegíveis\n\n1 - São consideradas despesas elegíveis para efeito de cálculo do incentivo as directamente relacionadas com as actividades do núcleo de I&DT e realizadas com:\n\na) Pessoal técnico do promotor a admitir e que se destine ao exercício de actividades permanentes de investigação e desenvolvimento, de acordo com os critérios definidos no despacho n.º 3007/2001 (2.ª série), de 13 de Fevereiro;\n\nb) Software e equipamento informático para apoio técnico e administrativo;\n\nc) Bibliografia e acesso a bases de dados técnicas;\n\nd) Contratos de transferência ou aquisição de tecnologia que se traduzam na sua efectiva endogeneização por parte do núcleo;\n\ne) Intervenção de revisores oficiais de contas ou técnicos oficiais de contas, no âmbito da comprovação da execução financeira do plano de actividades, prevista na alínea c) do artigo 17.º;\n\n2 - Para efeitos do número anterior, o núcleo de I&DT a apoiar será constituído no máximo por três técnicos e o apoio terá um máximo de cinco anos.\n\n3 - No caso dos investimentos previstos na alínea b), apenas é considerado como despesa elegível o valor das respectivas amortizações correspondentes ao período da sua utilização no plano de actividades do núcleo de I&DT.\n\n4 - A despesa elegível prevista na alínea c) do n.º 1 não pode exceder (euro) 5000.\n\n5 - As despesas elegíveis identificadas nas alíneas b) e c) do n.º 1 não podem, no seu conjunto, exceder as despesas elegíveis identificadas na alínea a) do mesmo número.\n\n> Alterado pelo/a [Portaria n.º 911/2003](https://diariodarepublica.pt/dr/detalhe/portaria/911-2003-514215), publicado em 2003-08-30."
+  }
+ }
+}

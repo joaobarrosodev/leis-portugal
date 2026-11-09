@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-11-27'
+version_history:
+  file: decreto-lei-489-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-10-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-11-27'
+    amending: pt:dre:567933:por
+    amending_title: Decreto-Lei n.º 317/81
+    changes:
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:33:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 317/81. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1980/decreto-lei-489-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,7 +143,7 @@ Desta forma, ouvidas as câmaras municipais interessadas:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-###### ARTIGO 1.º — (Área da Região de Turismo)
+###### Artigo 1.º — (Área da Região de Turismo)
 
 1 - É criada a Região de Turismo do Douro Sul, dotada de personalidade jurídica, abrangendo a área dos seguintes municípios:
 
@@ -138,7 +153,7 @@ Armamar, Cinfães, Lamego, Moimenta da Beira, Penedono, S. João da Pesqueira, S
 
 3 - A Região de Turismo terá a sua sede na cidade de Lamego e delegações em quaisquer outros locais da Região cujo interesse turístico o justifique, de acordo com deliberação do Conselho Regional.
 
-###### ARTIGO 2.º — (Administração)
+###### Artigo 2.º — (Administração)
 
 1 - A Região de Turismo do Douro Sul será administrada por uma comissão regional, constituída pelos seguintes órgãos:
 
@@ -150,13 +165,13 @@ c) A comissão executiva.
 
 2 - A Comissão Regional goza de autonomia administrativa e financeira.
 
-###### ARTIGO 3.º — (Atribuições da Comissão Regional)
+###### Artigo 3.º — (Atribuições da Comissão Regional)
 
 1 - Além das atribuições definidas no artigo 5.º do [Decreto n.º 41035](https://diariodarepublica.pt/dr/detalhe/decreto/41035-1957-653691), de 20 de Março de 1957, à Comissão Regional de Turismo do Douro Sul incumbirá, no quadro das orientações e directivas da política de turismo definida no plano nacional, a gestão dos interesses turísticos da sua área, designadamente em matéria de valorização e desenvolvimento do respectivo património turístico e sua animação e promoção.
 
 2 - A Comissão Regional poderá participar em sociedades, visando o desenvolvimento da respectiva área territorial, criadas em ordem à execução e manutenção de infra-estruturas e equipamentos turísticos.
 
-###### ARTIGO 4.º — (Competência da Comissão Regional)
+###### Artigo 4.º — (Competência da Comissão Regional)
 
 À Comissão Regional de Turismo competirá, em conformidade com a política de turismo definida no plano nacional, designadamente:
 
@@ -170,7 +185,7 @@ d) A promoção ou comparticipação em projectos com interesse para o fomento d
 
 e) O licenciamento, acompanhamento e fiscalização das actividades e empresas turísticas da Região, nos termos a definir por portaria do Ministro do Comércio e Turismo.
 
-###### ARTIGO 5.º — (Do presidente da Comissão Regional)
+###### Artigo 5.º — (Do presidente da Comissão Regional)
 
 1 - O presidente da Comissão Regional será nomeado pelo Ministro do Comércio e Turismo, ouvido o Conselho Regional.
 
@@ -178,7 +193,7 @@ e) O licenciamento, acompanhamento e fiscalização das actividades e empresas t
 
 3 - O mandato do presidente poderá ser revogado, a todo o tempo, pelo Ministro do Comércio e Turismo, ouvido o Conselho Regional.
 
-###### ARTIGO 6.º — (Competência do presidente da Comissão Regional)
+###### Artigo 6.º — (Competência do presidente da Comissão Regional)
 
 1 - Compete ao presidente da Comissão Regional:
 
@@ -200,7 +215,7 @@ h) Coordenar e incentivar a acção dos serviços da Comissão Regional de Turis
 
 2 - Os cheques e demais documentos respeitantes ao movimento financeiro da Comissão Regional deverão conter, obrigatoriamente, duas assinaturas, devendo uma delas ser do presidente ou da pessoa em quem ele expressamente delegar e a outra de um dos vogais da comissão executiva.
 
-###### ARTIGO 7.º — (Do Conselho Regional)
+###### Artigo 7.º — Do Conselho Regional
 
 1 - O Conselho Regional tem a seguinte composição:
 
@@ -222,7 +237,7 @@ h) O delegado distrital de Saúde de Viseu;
 
 i) Um representante de cada uma das câmaras municipais que integram a Região;
 
-j) Um representante da Comissão de Coordenação do Centro;
+j) Um representante da Comissão de Coordenação Regional do Norte;
 
 l) Um representante das associações da indústria hoteleira e similares, residente na área da Região;
 
@@ -240,7 +255,9 @@ n) Representantes dos sindicatos dos trabalhadores da indústria hoteleira, das 
 
 6 - Por decisão do Conselho Regional, os seus vogais poderão ter igualmente direito a abono para transportes e ajudas de custo, nos termos estabelecidos para os funcionários públicos de categoria correspondente à letra E.
 
-###### ARTIGO 8.º — (Competência do Conselho Regional)
+> Alterado pelo/a [Decreto-Lei n.º 317/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-1981-567933), publicado em 1981-11-27.
+
+###### Artigo 8.º — (Competência do Conselho Regional)
 
 1 - Compete ao Conselho Regional de Turismo:
 
@@ -258,7 +275,7 @@ f) Dar parecer sobre assuntos de interesse turístico regional que sejam submeti
 
 2 - Os planos de actividades, orçamentos, relatório anual e contas de gerência referidos nas alíneas b) e c) do número anterior serão submetidos a homologação do Ministro do Comércio e Turismo.
 
-###### ARTIGO 9.º — (Reuniões do Conselho Regional)
+###### Artigo 9.º — (Reuniões do Conselho Regional)
 
 1 - As reuniões do Conselho Regional são ordinárias e extraordinárias.
 
@@ -270,13 +287,13 @@ f) Dar parecer sobre assuntos de interesse turístico regional que sejam submeti
 
 5 - As reuniões do Conselho terão lugar em qualquer local da Região designado pelo presidente.
 
-###### ARTIGO 10.º — (Secretário do Conselho Regional)
+###### Artigo 10.º — (Secretário do Conselho Regional)
 
 1 - O Conselho Regional terá um secretário, que assistirá às reuniões sem direito a voto e ao qual competirá elaborar a acta das mesmas e dar andamento a todo o seu expediente.
 
 2 - Servirá de secretário o funcionário designado para o efeito pelo presidente.
 
-###### ARTIGO 11.º — (Funcionamento do Conselho Regional)
+###### Artigo 11.º — (Funcionamento do Conselho Regional)
 
 1 - O Conselho Regional funcionará desde que esteja presente a maioria dos membros.
 
@@ -288,7 +305,7 @@ f) Dar parecer sobre assuntos de interesse turístico regional que sejam submeti
 
 5 - Das reuniões do Conselho será lavrada acta, em livro próprio, que depois de aprovada, será assinada pelo presidente e secretário.
 
-###### ARTIGO 12.º — (Da comissão executiva)
+###### Artigo 12.º — (Da comissão executiva)
 
 1 - A comissão executiva é constituída pelo presidente da Comissão Regional, que presidirá, e por cinco vogais.
 
@@ -310,7 +327,7 @@ d) Um pelas associações sindicais representadas no Conselho Regional.
 
 6 - Por decisão do Conselho Regional, os vogais referidos no n.º 2 poderão ter direito a abono para transportes e ajudas de custo, em termos semelhantes aos estabelecidos para o funcionalismo público de categoria correspondente à letra E.
 
-###### ARTIGO 13.º — (Competência da comissão executiva)
+###### Artigo 13.º — (Competência da comissão executiva)
 
 1 - Compete à comissão executiva:
 
@@ -338,7 +355,7 @@ l) Submeter à aprovação do Ministro do Comércio e Turismo o quadro de pessoa
 
 m) Sem prejuízo da competência da Direcção-Geral das Contribuições e Impostos e das câmaras municipais, fiscalizar a liquidação e cobrança do imposto de turismo nos concelhos da Região.
 
-###### ARTIGO 14.º — (Receitas)
+###### Artigo 14.º — (Receitas)
 
 Constituem receitas da Comissão Regional de Turismo:
 
@@ -370,7 +387,7 @@ n) A receita resultante da organização de espectáculos;
 
 o) Quaisquer outras receitas resultantes da administração da Região ou que por lei lhe venham a ser atribuídas.
 
-###### ARTIGO 15.º — (Pessoal e serviços)
+###### Artigo 15.º — (Pessoal e serviços)
 
 1 - O quadro de pessoal da Comissão Regional de Turismo será aprovado ou actualizado mediante portaria do Ministro do Comércio e Turismo, sob proposta da comissão executiva.
 
@@ -378,7 +395,7 @@ o) Quaisquer outras receitas resultantes da administração da Região ou que po
 
 3 - Quando houver conveniência, a comissão executiva poderá, com dispensa de quaisquer formalidades, promover que a execução de tarefas, designadamente as que carecem de colaboração de especialistas, seja feita em regime de prestação de serviços, desde que os respectivos encargos tenham cabimento nas verbas especialmente inscritas no orçamento para esse fim.
 
-###### ARTIGO 16.º — (Comissões de serviço e requisições)
+###### Artigo 16.º — (Comissões de serviço e requisições)
 
 1 - Os cargos de presidente ou vogal da comissão executiva, bem como os lugares do quadro da Comissão Regional, poderão ser exercidos, em comissão de serviço, por funcionários dos serviços do Estado e seus institutos públicos ou das autarquias locais, pelo prazo de três anos, renovável, podendo a todo o tempo ser dada como finda a comissão de serviço.
 
@@ -386,21 +403,21 @@ o) Quaisquer outras receitas resultantes da administração da Região ou que po
 
 3 - A Comissão Regional poderá requisitar técnicos do sector privado, de harmonia com a legislação em vigor.
 
-###### ARTIGO 17.º — (Fiscalização)
+###### Artigo 17.º — (Fiscalização)
 
 1 - O pessoal de fiscalização do quadro da Comissão Regional de Turismo tem direito de entrada e permanência, pelo tempo necessário ao exercício das suas funções, em quaisquer locais sujeitos a fiscalização.
 
 2 - É aplicável ao pessoal de fiscalização o disposto no artigo 16.º do [Decreto-Lei n.º 74/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1971-445505), de 17 de Março.
 
-###### ARTIGO 18.º — (Comissão instaladora)
+###### Artigo 18.º — (Comissão instaladora)
 
 No prazo de trinta dias após a publicação do presente decreto-lei será criada uma comissão instaladora, com a composição e condições de funcionamento a estabelecer por despacho conjunto dos Secretários de Estado do Turismo e da Administração Regional e Local.
 
-###### ARTIGO 19.º — (Extinção das zonas de turismo existentes)
+###### Artigo 19.º — (Extinção das zonas de turismo existentes)
 
 São extintas as zonas de turismo compreendidas na área da Região.
 
-###### ARTIGO 20.º — (Transferência do património)
+###### Artigo 20.º — (Transferência do património)
 
 1 - A partir da entrada em vigor deste diploma, consideram-se transferidos para a Comissão Regional, independentemente de qualquer formalidade, todos os direitos e obrigações dos órgãos locais de turismo abrangidos na área da Região.
 
@@ -410,7 +427,7 @@ São extintas as zonas de turismo compreendidas na área da Região.
 
 4 - Outro património reconhecido de interesse para o turismo pertencente às autarquias locais no âmbito da Região de Turismo transitará para a posse e gestão da Comissão Regional, nos termos que vierem a ser acordados entre a comissão executiva e as autarquias locais interessadas.
 
-###### ARTIGO 21.º — (Legislação supletiva)
+###### Artigo 21.º — (Legislação supletiva)
 
 Em tudo o que não for contrário ao presente decreto-lei, é aplicável à Região de Turismo do Douro Sul o regime estabelecido na [Lei n.º 2082](https://diariodarepublica.pt/dr/detalhe/lei/2082-1956-231319), de 4 Junho de 1956, e no [Decreto n.º 41035](https://diariodarepublica.pt/dr/detalhe/decreto/41035-1957-653691), de 20 de Março de 1957.
 

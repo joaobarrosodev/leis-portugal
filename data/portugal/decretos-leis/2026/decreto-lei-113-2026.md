@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2026-07-13'
+version_history:
+  file: decreto-lei-113-2026.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2026-06-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-07-13'
+    amending: pt:dre:1146287135:por
+    amending_title: Declaração de Retificação n.º 27/2026/1
+    changes:
+    - Altera Artigo 16.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/113/2026/06/08/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T18:43:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Retificação n.º 27/2026/1.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2026/decreto-lei-113-2026.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -432,7 +447,7 @@ d) Declaração da empresa de seguros, com identificação dos sistemas a testar
 
 e) Declaração de autocertificação;
 
-f) Relatório referido no n.º 2 do artigo 22.º, incluindo, para cada sistema a testar, a identificação das suas capacidades e limitações, objetivos e resultados esperados;
+f) Relatório descritivo, para cada sistema a testar, incluindo a respetiva identificação, capacidades e limitações operacionais, bem como os objetivos dos ensaios e os resultados esperados relativamente a cada veículo;
 
 g) Plano de segurança referido no artigo 12.º;
 
@@ -443,6 +458,8 @@ h) Certificado de registo individual do condutor relativo aos condutores e opera
 5 - Nos casos previstos no número anterior e tendo sido emitida a licença para a realização de testes de SAC, compete ao presidente do conselho diretivo do IMT, I. P., decidir sobre a substituição dos condutores ou dos operadores.
 
 6 - O requerimento referido no n.º 4 é deferido caso o condutor ou operador substituto observe os requisitos previstos no presente decreto-lei.
+
+> Alterado pelo/a [Declaração de Retificação n.º 27/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/27-2026-1146287135), publicado em 2026-07-13.
 
 ###### Artigo 17.º — Competência
 

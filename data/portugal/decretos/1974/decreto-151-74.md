@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-07-24'
+version_history:
+  file: decreto-151-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-04-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-07-24'
+    amending: pt:dre:227873:por
+    amending_title: Decreto do Governo n.º 8/86
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:33:03Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto do Governo n.º 8/86. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1974/decreto-151-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,11 +134,17 @@ Considerando ainda que o n.º 3 do artigo 2.º do referido [Decreto-Lei n.º 487
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º São desafectados do domínio público marítimo os terrenos do estuário do rio Sado representados na planta anexa e delimitados por uma linha poligonal definida por cinco vértices, numerados de 1 a 5, e com as seguintes coordenadas geográficas:
+###### Artigo 1.º
 
-[(ver documento original)](https://files.diariodarepublica.pt/1s/1974/04/08800/05250526.pdf)
+São desafectados do domínio público marítimo os terrenos do estuário do Sado representados na planta anexa e delimitados por uma linha poligonal com nove vértices, designados pelos n.os 1, 2, 3.2, 3.1, 3, 4, 4.1, 4.2 e 5, com as seguintes coordenadas rectangulares, tendo como origem o Castelo de São Jorge, e o sistema de projecção Hayford, Gauss:
 
-Art. 2.º Os referidos terrenos, que serão destinados à implantação de uma unidade fabril de metalomecânica pesada, continuarão sob a jurisdição da Junta Autónoma do Porto de Setúbal, e quaisquer obras de estabelecimento ou complementares, ou ainda de futura ampliação ou modificação, não poderão neles ser executadas sem que os projectos hajam sido previamente aprovados pelo Ministro das Comunicações.
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1986/07/16800/18281829.pdf)
+
+> Alterado pelo/a [Decreto do Governo n.º 8/86](https://diariodarepublica.pt/dr/detalhe/decreto-governo/8-1986-227873), publicado em 1986-07-24.
+
+###### Artigo 2.º
+
+Os referidos terrenos, que serão destinados à implantação de uma unidade fabril de metalomecânica pesada, continuarão sob a jurisdição da Junta Autónoma do Porto de Setúbal, e quaisquer obras de estabelecimento ou complementares, ou ainda de futura ampliação ou modificação, não poderão neles ser executadas sem que os projectos hajam sido previamente aprovados pelo Ministro das Comunicações.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Rui Alves da Silva Sanches.
 

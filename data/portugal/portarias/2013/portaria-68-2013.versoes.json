@@ -1,0 +1,287 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:258683:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2013-02-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bff1c179b497390b",
+    "2f391706061d46bd",
+    "f74965e5ed3e3611",
+    "02867eb06bd2e402",
+    "1c238c92139b2d3d",
+    "fa9c7839d62e37a8",
+    "f460521c22c48dd4",
+    "e2dbc5ff91d8aa8a",
+    "973a21f9093f7546",
+    "8c5fcb5046af3392",
+    "5bad1f9774a96e90",
+    "04318b65d1772f64",
+    "1dd2c3f17072564c",
+    "fa1e517ed91bab34",
+    "c1004f4cb614e7df",
+    "956a69cc82ffc772",
+    "8e9b70f9c27c7d27",
+    "8f4161653fa93276",
+    "4ab9cc04c7ab8e25",
+    "cab6925a8a248ace",
+    "df10a75a5b57111d",
+    "f335a5638f6b82ce",
+    "bd085009a3437c26"
+   ]
+  },
+  {
+   "date": "2014-12-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:65889974:por",
+     "title": "Portaria n.º 261/2014",
+     "published": "2014-12-16",
+     "dre_path": "/dr/detalhe/portaria/261-2014-65889974"
+    }
+   ],
+   "changes": [
+    "Altera Artigo Anexo — REGULAMENTO DO SISTEMA DE INCENTIVOS DE APOIO LOCAL A MICROEMPRESAS::6.º",
+    "Altera Artigo Anexo — REGULAMENTO DO SISTEMA DE INCENTIVOS DE APOIO LOCAL A MICROEMPRESAS::8.º"
+   ],
+   "fragments": [
+    "bff1c179b497390b",
+    "2f391706061d46bd",
+    "f74965e5ed3e3611",
+    "02867eb06bd2e402",
+    "1c238c92139b2d3d",
+    "fa9c7839d62e37a8",
+    "f460521c22c48dd4",
+    "e2dbc5ff91d8aa8a",
+    "973a21f9093f7546",
+    "de786ef4972f3722",
+    "5bad1f9774a96e90",
+    "1ebc575a4616c701",
+    "1dd2c3f17072564c",
+    "fa1e517ed91bab34",
+    "c1004f4cb614e7df",
+    "956a69cc82ffc772",
+    "8e9b70f9c27c7d27",
+    "8f4161653fa93276",
+    "4ab9cc04c7ab8e25",
+    "cab6925a8a248ace",
+    "df10a75a5b57111d",
+    "f335a5638f6b82ce",
+    "bd085009a3437c26"
+   ]
+  }
+ ],
+ "fragments": {
+  "bff1c179b497390b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de fevereiro\n\nO \"Programa Valorizar\", criado pela Resolução do Conselho de Ministros n.º 7/2013, de 6 de dezembro de 2012, tem por objetivo o desenvolvimento regional, através do estímulo à atividade económica produtiva de base regional e local, promovendo uma atuação articulada potenciadora dos seus efeitos no território.\n\nAgindo sobre as realidades locais e respetivos mercados de trabalho, recorre a instrumentos integrados de intervenção pública assentes na promoção das potencialidades endógenas dos territórios, no reforço da capacitação institucional, na criação de oportunidades de negócio, visando a promoção das economias locais e a criação de postos de trabalho.\n\nEsta iniciativa, integrante da nova Política de Crescimento, de Emprego e de Competitividade adotada pelo Governo tem por objetivo promover a recuperação do crescimento económico, como elemento fundamental para a criação sustentada de emprego e superação da atual crise económica.\n\nEste Programa retoma alguns instrumentos utilizados em anteriores períodos de programação que se revelaram ajustados e, como tal, beneficia da experiência acumulada na gestão de políticas públicas, tendo-se ajustado estes instrumentos ao atual contexto macroeconómico e às disposições regulamentares comunitárias e nacionais aplicáveis.\n\nCom o intuito de combater o desemprego, evitando que se torne estrutural, e de modo a não descurar a forte incidência do desemprego nos jovens, estabelece-se uma majoração dos apoios dirigidos aos jovens entre os 18 e os 30 anos, desempregados ou à procura do primeiro emprego. A presente abordagem encontra-se assim alinhada com a estratégia delineada no programa Impulso Jovem, estando incluída no seu Eixo III.\n\nA atual conjuntura económica impõe agilidade e celeridade na introdução, implementação e gestão dos instrumentos de política para responder aos objetivos de estimular a atividade económica e a criação de emprego e atenuar a situação de emergência social decorrente do processo de ajustamento estrutural da economia Portuguesa, em particular, nos territórios do interior do país caracterizados por uma baixa densidade populacional.\n\nNeste contexto, assume particular relevância a criação de um instrumento de política pública de apoio direto ao investimento e à criação líquida de emprego que atue de forma expedita junto das microempresas, com maior presença em territórios de baixa densidade, primando pela agilidade de procedimentos, pela eficiência na gestão e pela eficácia nos resultados.\n\nNeste sistema, todas as candidaturas que reúnam condições de acesso, nos termos ora estabelecidos, quer para os beneficiários quer para os projetos, são selecionadas para financiamento. Quando os pedidos de financiamento excedam a dotação prevista em cada fase de concurso, terá lugar um processo de seleção através de um método de decisão célere e que garanta, ao mesmo tempo, equidade de tratamento dos candidatos e eficácia do instrumento de política pública.\n\nNeste sentido, trata-se de um instrumento inovador ao serviço da coesão territorial, não só pelos mecanismos de gestão simplificada adotados, como pela sua orientação exclusiva para o apoio a microempresas situadas em territórios com problemas de interioridade, enquanto territórios com menores oportunidades de desenvolvimento decorrentes da sua baixa densidade populacional e institucional.\n\nTrata-se ainda de um instrumento articulado com outros instrumentos de política pública previstos no \"Programa Valorizar\" com forte envolvimento e intervenção dos atores regionais e locais, através da sua participação na Rede Nacional de Parcerias Territoriais de Apoio ao Desenvolvimento Economico e Social de Base Local, sendo complementar, em termos de cobertura do território em investimentos superiores a 5 000 euros, à ação \"Criação e desenvolvimento de microempresas\" financiada pelo programa PRODER e regulamentada pela Portaria n.º 520/2009, de 14 de maio.\n\nO presente sistema de incentivos observa as disposições do Decreto-Lei n.º 287/2007, de 17 de agosto, alterado e republicado pelo Decreto-Lei n.º 65/2009, de 20 de março, que veio criar o Enquadramento Nacional de sistemas de incentivos ao investimento nas empresas, tendo sido já obtido o parecer da comissão técnica previsto no n.º 4 do artigo 6.º do referido diploma.\n\nAssim, ao abrigo do nº. 1 do artigo 6.º do Decreto-Lei n.º 287/2007, de 17 de agosto, alterado e republicado pelo Decreto-Lei n.º 65/2009, de 20 de março, manda o Governo, pelo Ministro da Economia e do Emprego, o seguinte:"
+  },
+  "2f391706061d46bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado, em anexo à presente portaria e da qual faz parte integrante, o Regulamento do Sistema de Incentivos de Apoio Local a Microempresas."
+  },
+  "f74965e5ed3e3611": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação.\n\nO Ministro da Economia e do Emprego, Álvaro Santos Pereira, em 4 de fevereiro de 2013."
+  },
+  "02867eb06bd2e402": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Anexo — REGULAMENTO DO SISTEMA DE INCENTIVOS DE APOIO LOCAL A MICROEMPRESAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DO SISTEMA DE INCENTIVOS DE APOIO LOCAL A MICROEMPRESAS"
+  },
+  "1c238c92139b2d3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Regulamento estabelece a criação do Sistema de Incentivos de Apoio Local a Microempresas e define as regras aplicáveis à concessão de apoios no âmbito do Quadro de Referência Estratégico Nacional (QREN) através dos Programas Operacionais Regionais do Norte, Centro, Alentejo e Algarve."
+  },
+  "fa9c7839d62e37a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Âmbito territorial e setorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito territorial e setorial\n\n1. O presente Regulamento aplica-se aos projetos localizados nas regiões NUTS II do Norte, Centro, Alentejo e Algarve, e dentro destas em áreas territoriais com problemas de interioridade, nos termos da lista que consta em anexo ao presente Regulamento e que corresponde às áreas territoriais previstas na Portaria n.º 1117/2009, de 30 de setembro.\n\n2. O âmbito territorial dos projetos é determinado pela localização do estabelecimento onde se verifica a realização do investimento, independentemente da sede social do promotor.\n\n3. São suscetíveis de apoio no âmbito do presente sistema de incentivo os projetos de desenvolvimento de microempresas que envolvam a realização de investimento e a criação de postos de trabalho e tenham por objeto as atividades económicas previstas no n.º 1 do artigo 9.º do Decreto-Lei n.º 287/2007, de 17 de agosto, com a redação que lhe foi dada pelo Decreto-Lei n.º 65/2009, de 20 de março."
+  },
+  "f460521c22c48dd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos\n\nO presente Regulamento estabelece as condições de aplicação de um instrumento de política pública que tem por objetivos o apoio ao investimento e a criação de emprego e, em geral, o desenvolvimento regional, assentes na dinamização económica e social das comunidades locais."
+  },
+  "e2dbc5ff91d8aa8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\n1. Nos termos do n.º 2 do artigo 10.º do Decreto-Lei n.º 287/2007, de 17 de agosto, com a redação que lhe foi dada pelo Decreto-Lei n.º 65/2009, de 20 de março, podem candidatar-se ao presente sistema de incentivos microempresas, na aceção do disposto na Recomendação CE (2003) 1422 da Comissão de 6 de maio de 2003, aferida no momento da apresentação da candidatura, podendo durante ou com a realização deste projeto a empresa deixar de ter esta classificação em resultado do seu crescimento.\n\n2. Para efeitos de comprovação do estatuto de microempresa, a empresa deve obter ou atualizar a correspondente Certificação Eletrónica prevista no Decreto-Lei n.º 372/2007, de 6 de novembro, alterado pelo Decreto-Lei n.º 143/2009, de 16 de junho, através do sítio de Internet do IAPMEI (www.iapmei.pt)."
+  },
+  "973a21f9093f7546": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Condições gerais de admissibilidade e aceitabilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições gerais de admissibilidade e aceitabilidade dos beneficiários\n\nOs promotores dos projetos candidatos aos apoios previstos no presente Regulamento devem satisfazer as seguintes condições, à data de apresentação da candidatura:\n\na) Estarem constituídos e registados, nos termos da legislação em vigor;\n\nb) Serem microempresas certificadas eletronicamente;\n\nc) Disporem de contabilidade organizada nos termos da legislação aplicável;\n\nd) Terem a sua situação regularizada em matéria de licenciamento aplicável às atividades exercidas e às que sejam objeto dos seus projetos;\n\ne) Apresentarem resultados positivos, antes de impostos, no último exercício económico declarado para efeitos fiscais;\n\nf) Terem a situação contributiva regularizada perante o Estado e a segurança social."
+  },
+  "8c5fcb5046af3392": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições de admissibilidade e aceitabilidade dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de admissibilidade e aceitabilidade dos projetos\n\n1. Os projetos devem cumprir os seguintes requisitos:\n\na) Apresentar um valor de investimento elegível inferior a 5 000 euros, quando localizados em qualquer das regiões previstas no artigo 2º ou igual ou superior a 5 000 euros mas inferior a 25 000 euros desde que localizados nessas regiões em freguesias não consideradas como freguesias rurais;\n\nb) Não estar iniciado à data de apresentação da candidatura;\n\nc) Dispor de financiamento adequado à sua concretização;\n\nd) Apresentar viabilidade económico-financeira devendo neste sentido demonstrar que no pós-projeto atingem uma autonomia financeira igual ou superior a 0,15;\n\ne) Manter afetos à respetiva atividade os ativos respeitantes ao investimento apoiado, bem como a localização geográfica definida no projeto, durante o período de vigência do contrato de concessão de incentivos, e no mínimo, durante três anos após a conclusão do projeto.\n\n2. Os projetos devem ainda conduzir à criação líquida de posto(s) de trabalho, calculada pela diferença entre o número de postos de trabalho existentes à data da contratação do trabalhador e o maior número de postos de trabalho verificado nos meses de junho e de dezembro que precedem a data dessa contratação.\n\n3. Os sócios e gerentes, bem como trabalhadores de outras empresas do grupo contratados pelo beneficiário não são contabilizados para efeitos de aferição da criação líquida de postos de trabalho.\n\n4. A duração máxima do projeto, incluindo a realização do investimento e a criação dos postos de trabalho, é de 18 meses, contados a partir da data de início da sua realização.\n\n5. Considera-se o início da realização do projeto com a realização da primeira despesa ou a primeira contratação do posto de trabalho previsto, a que primeiramente tiver lugar, e conclui-se com a formalização do pedido de pagamento final incluindo o pagamento relativo ao último dos postos de trabalho criados objeto de financiamento."
+  },
+  "5bad1f9774a96e90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas elegíveis e não elegíveis\n\nConsideram-se elegíveis todas as despesas necessárias à realização do projeto, incluindo as despesas relativas à contratação de um revisor oficial de contas ou técnico oficial de contas e as obras de adaptação que se revelem necessárias no âmbito do projeto, exceto as seguintes tipologias de despesas:\n\na) Aquisição de terrenos;\n\nb) Compra ou construção de edifícios;\n\nc) Trespasses e direitos de utilização de espaços;\n\nd) Aquisição de veículos automóveis e outro material de transporte;\n\ne) Aquisição de aeronaves e outro material aeronáutico;\n\nf) Aquisição de bens em estado de uso;\n\ng) Juros durante o período de realização do investimento;\n\nh) Trabalhos da empresa para ela própria."
+  },
+  "04318b65d1772f64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Financiamento\n\n1. O incentivo a conceder assume a forma não reembolsável.\n\n2. O incentivo a conceder ao investimento é calculado através da aplicação de uma taxa de 50% às despesas elegíveis.\n\n3. O pagamento do incentivo ao investimento é feito a pedido do beneficiário a apresentar à Autoridade de Gestão de acordo com as seguintes disposições:\n\na) A título de adiantamento, aquando da celebração do contrato de concessão de incentivos, correspondendo a 50% do incentivo ao investimento aprovado;\n\nb) Seis meses após o pagamento do anterior adiantamento, correspondendo a 50% do incentivo ao investimento aprovado, devendo o beneficiário comprovar a utilização integral do anterior adiantamento e apresentar as faturas, ou documentos de natureza comercial equivalente, relativas à restante parte do investimento elegível aprovado, ficando ainda obrigado a apresentar, no prazo de 30 dias úteis contado a partir da data de pagamento deste adiantamento, os comprovativos do pagamento integral da despesa.\n\n4. A pedido fundamentado do beneficiário pode a Autoridade de Gestão autorizar a prorrogação do prazo de apresentação do pedido de pagamento previsto na alínea b) do número anterior.\n\n5. Ao abrigo do presente sistema de incentivos poderão ser financiados até dois postos de trabalho.\n\n6. O financiamento relativo à criação dos postos de trabalho consiste num montante fixo, por posto de trabalho, correspondente:\n\na) Ao valor do Indexante de Apoios Sociais (IAS), para o trabalhador sem ensino secundário completo, multiplicado por 12 vezes;\n\nb) A 1,25 vezes do valor do IAS, para o trabalhador com ensino secundário completo ou ensino pós-secundário completo, multiplicado por 12 vezes;\n\nc) A 1,65 vezes do valor do IAS, para o trabalhador com licenciatura ou mestrado, multiplicado por 12 vezes.\n\n7. Os postos de trabalho preenchidos por jovens, entre os 18 e os 30 anos, desempregados ou à procura do primeiro emprego, inscritos no centro de emprego há pelo menos 4 meses, terão uma majoração de 50% aplicada aos valores estabelecidos no número anterior.\n\n8. O pagamento do financiamento, por posto de trabalho, é realizado desde que verificada a criação do posto de trabalho, em duas prestações de igual montante, devendo a primeira ser concretizada a pedido do beneficiário, devendo este pedido ser apresentado após o fim do primeiro mês subsequente à celebração do contrato de trabalho sem termo, a tempo inteiro, e a segunda a pedido do beneficiário, devendo este pedido ser apresentado 12 meses após o pagamento da primeira prestação.\n\n9. Considera-se criado o posto de trabalho quando o mesmo se encontre preenchido e tenha sido mantido até ao encerramento do projeto.\n\n10. A partir da contratação e durante o período de vigência do contrato de concessão de incentivos, a empresa deve registar, com periodicidade mensal, um número total de trabalhadores igual ou superior ao número de trabalhadores registados no dia seguinte à data da(s) contratação(ões) objeto de apoio."
+  },
+  "1dd2c3f17072564c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Estruturas de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estruturas de gestão\n\n1. Na gestão deste sistema de incentivos intervêm:\n\na) As Autoridades de Gestão, entidades que asseguram a abertura de concursos, a análise e decisão final sobre a concessão dos incentivos, o seu acompanhamento, controlo e o seu financiamento;\n\nb) A Comissão de Seleção, enquanto órgão de harmonização das práticas de gestão;\n\nc) As Comunidades Intermunicipais e Área Metropolitana do Porto, pertencentes à Rede Nacional de Parcerias Territoriais de Apoio ao Desenvolvimento Economico e Social de Base Local criada no âmbito do \"Programa Valorizar\" que asseguram os serviços de apoio aos beneficiários a nível local.\n\n2. Às Autoridades de Gestão compete, nomeadamente:\n\na) Apreciar as candidaturas e proceder à sua análise e seleção;\n\nb) Celebrar os contratos de concessão de incentivos bem como proceder à sua rescisão;\n\nc) Proceder à emissão dos pedidos de pagamento dos incentivos junto do IFDR, nos termos da al a) do n.º 2 do artigo 16º. do Decreto-Lei 312/2007, de 17 de setembro e do Regulamento Geral FEDER e Fundo de Coesão;\n\nd) Divulgar e promover o sistema de incentivos ao nível da respetiva região;\n\ne) Acompanhar a execução dos projetos apoiados.\n\n3. A Comissão de Seleção é composta por representantes de todas as Autoridades de Gestão envolvidas na gestão deste sistema de incentivos, bem como representante da autoridade de gestão do PO COMPETE na qualidade de coordenador da rede de sistemas de incentivos.\n\n4. As Comunidades Intermunicipais e Área Metropolitana do Porto, pertencentes à Rede Nacional de Parcerias Territoriais de Apoio ao Desenvolvimento Económico e Social de Base Local criada no âmbito do \"Programa Valorizar\" para apoio ao desenvolvimento económico local, prestam no todo ou em parte, em função das competências que lhes forem conferidas, os seguintes serviços:\n\na) Informar sobre o programa e suas potencialidades;\n\nb) Divulgar oportunidades de mercado e negócios adequados à dimensão das empresas;\n\nc) Prestar atendimento personalizado aos promotores, na apresentação dos processos de candidatura;\n\nd) Apoiar a organização do processo de candidatura;\n\ne) Aconselhar quanto à conceção das iniciativas de investimento no âmbito técnico, económico e financeiro;\n\nf) Apoiar a elaboração do projeto de investimento e a organização do processo de candidatura;\n\ng) Apoiar a constituição e legalização das empresas e o licenciamento das suas atividades;\n\nh) Acompanhar e dar assistência à gestão dos projetos de investimento apoiados durante a sua implementação, arranque e consolidação."
+  },
+  "fa1e517ed91bab34": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Aviso de abertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aviso de abertura\n\n1. As Autoridades de Gestão estabelecem, através de aviso de abertura, os períodos de decisão, sendo estes bimestrais, bem como a dotação orçamental específica para cada período de decisão.\n\n2. As Autoridades de Gestão devem divulgar amplamente o aviso de abertura de concurso.\n\n3. Para além do referido no n.º 1, o aviso de abertura deve indicar, nomeadamente, o seguinte:\n\na) Os objetivos e as prioridades visadas;\n\nb) A tipologia das operações a apoiar;\n\nc) A área geográfica elegível;\n\nd) As condições de acesso;\n\ne) Os limites de Incentivos;\n\nf) O prazo de apresentação de candidaturas e prazos de decisão;\n\ng) Os critérios de apreciação do mérito do projeto."
+  },
+  "c1004f4cb614e7df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apresentação de candidaturas\n\n1. A apresentação de candidaturas processa-se em contínuo, sendo a sua decisão faseada nos termos a definir em Aviso.\n\n2. Cada promotor apenas poderá ter um financiamento aprovado por estabelecimento.\n\n3. As candidaturas são enviadas pela Internet através de formulário eletrónico, nos termos seguintes:\n\na) Formulário de candidatura;\n\nb) Documentos que provem o cumprimento das condições constantes dos artigos 4.º a 6.º e os demais que vierem a ser considerados necessários e exigidos no aviso de abertura de concurso."
+  },
+  "956a69cc82ffc772": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Procedimentos e prazos de apreciação e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procedimentos e prazos de apreciação e decisão\n\n1. Cabe a cada Autoridade de Gestão o encerramento da fase de apresentação de candidaturas, em função do esgotamento da dotação disponível de cada programa, devendo as respetivas Autoridades de Gestão dar ampla e prévia, com antecedência mínima de 3 dias úteis, divulgação da decisão de encerramento.\n\n2. As candidaturas são distribuídas de forma automática pelo sistema de informação às Autoridades de Gestão competentes.\n\n3. As Autoridades de Gestão avaliam e decidem sobre as candidaturas apresentadas.\n\n4. No decorrer da avaliação das candidaturas podem ser solicitados ao promotor, de uma única vez, esclarecimentos complementares, a prestar no prazo máximo de 10 dias úteis, decorridos os quais a ausência de resposta significará a desistência da candidatura.\n\n5. Em cada período de decisão, todas as candidaturas apresentadas até à data de encerramento dessa fase da decisão são analisadas pela Autoridade de Gestão de forma a ser aferido se reúnem as condições de admissibilidade e de aceitabilidade.\n\n6. No caso em que o montante de apoio apurado para as candidaturas que reúnem as condições de admissibilidade e de aceitabilidade não excede a dotação estabelecida, todas as candidaturas apresentadas até à data de encerramento dessa fase da decisão serão aprovadas para financiamento em função do seu mérito absoluto aferido pelo pleno preenchimento das condições de admissibilidade e de aceitabilidade.\n\n7. No caso em que a dotação estabelecida nos termos do n.º 1 do artigo 10.º seja excedida as candidaturas que reúnem as condições de admissibilidade e de aceitabilidade serão selecionadas com base numa hierarquização das candidaturas por ordem decrescente com base nos resultados, antes de impostos, do último exercício económico declarado para efeitos fiscais.\n\n8. As candidaturas que não sejam selecionadas para financiamento numa fase transitam para a fase seguinte, desde que continuem a reunir as condições de acesso e sempre que não se registe desistência por parte do promotor.\n\n9. A dotação orçamental global afeta ao presente sistema de incentivos é de 25 milhões de euros, e corresponde à seguinte dotação indicativa por Programa Operacional:\n\na) PO Norte: 12 milhões de euros;\n\nb) PO Centro: 7,5 milhões de euros;\n\nc) PO Alentejo: 3,5 milhões de euros;\n\nd) PO Algarve: 2 milhões de euros."
+  },
+  "8e9b70f9c27c7d27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Formalização da concessão do incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Formalização da concessão do incentivo\n\n1. A concessão do apoio é formalizada através de contrato escrito a celebrar entre o beneficiário e a Autoridade de Gestão, mediante uma minuta tipo homologada pela comissão ministerial de coordenação dos programas operacionais regionais do QREN financiadores, sob proposta conjunta das respetivas Autoridades de Gestão.\n\n2. Após a comunicação da decisão de aprovação e envio do contrato, o beneficiário tem um prazo de 20 dias úteis para celebração do contrato de concessão de incentivos, doravante referido como contrato, sendo que aquele prazo poderá ser prorrogado por igual período desde que o beneficiário apresente justificação fundamentada.\n\n3. A não celebração do contrato por razões imputáveis ao beneficiário, no prazo referido no número anterior, determina a caducidade da decisão de concessão de incentivos."
+  },
+  "8f4161653fa93276": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Obrigações dos beneficiários\n\nOs beneficiários ficam sujeitos às seguintes obrigações, que deverão ser incluídas no contrato:\n\na) Dar início à execução do projeto no prazo de 6 meses contados da data de celebração do contrato de concessão de incentivos, findo o qual caduca a decisão da concessão do apoio financeiro;\n\nb) Demonstrar o cumprimento das obrigações legais, designadamente as fiscais e para com a segurança social;\n\nc) Disponibilizar, nos prazos estabelecidos, todos os elementos que lhe forem solicitados pelas entidades com competências para o acompanhamento, controlo e auditoria;\n\nd) Comunicar à Autoridade de Gestão todas as alterações ou ocorrências relevantes que ponham em causa os pressupostos relativos à aprovação do projeto;\n\ne) Manter ao longo da vigência do contrato de concessão de incentivos as condições legais necessárias ao exercício da respetiva atividade;\n\nf) Manter a contabilidade organizada de acordo com a regulamentação aplicável;\n\ng) Manter devidamente organizado em dossier todos os documentos suscetíveis de comprovar as informações e declarações prestadas no âmbito do projeto, bem como todos os documentos comprovativos da criação dos postos de trabalho, o qual poderá ser consultado a qualquer momento pelos organismos intervenientes no processo de análise, acompanhamento e auditoria, sendo mantido até três anos após a data de encerramento do respetivo programa financiador;\n\nh) Publicitar os apoios atribuídos nos termos da regulamentação e regras aplicáveis;\n\ni) Manter a empresa em funcionamento e manter a criação líquida de emprego não podendo ocorrer redução do número total de trabalhadores ao serviço da empresa, durante a vigência do contrato de concessão de incentivos, sem prejuízo do disposto no n.º 2 do artigo 16.º;\n\nj) Os bens e serviços adquiridos no âmbito dos projetos apoiados não podem, durante o período de vigência do contrato, ser afetos a outras finalidades, nem locados, alienados ou por qualquer modo onerados, no todo ou em parte, sem prévia autorização da entidade competente para a decisão."
+  },
+  "4ab9cc04c7ab8e25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acompanhamento e controlo\n\n1. Sem prejuízo de outros mecanismos de acompanhamento e controlo que venham a ser adotados, o acompanhamento e a verificação do projeto são efetuados nos seguintes termos:\n\na) A verificação financeira do projeto tem por base uma «declaração de despesa do investimento» apresentada pelo beneficiário, certificada por um revisor oficial de contas (ROC) ou técnico oficial de contas (TOC) a qual confirma a realização das despesas de investimento, que os documentos comprovativos daquelas se encontram corretamente lançados na contabilidade e que o incentivo foi contabilizado nos termos legais aplicáveis;\n\nb) As verificações físicas e técnicas do projeto confirmam que o investimento foi realizado, que a empresa está em funcionamento e que os postos de trabalho mantem-se criados.\n\n2. A verificação dos projetos de investimento por parte das Autoridades de Gestão poderá ser feita em qualquer fase de execução do projeto e após a respetiva conclusão."
+  },
+  "cab6925a8a248ace": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Rescisão do contrato de concessão dos incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Rescisão do contrato de concessão dos incentivos\n\n1. Os contratos podem ser rescindidos pelas Autoridades de Gestão nos seguintes casos:\n\na) Não cumprimento dos objetivos e obrigações legais contratuais por facto imputável ao beneficiário, designadamente quando se verifique a não manutenção da empresa em funcionamento e do número de postos de trabalho criados ou a redução do número total de trabalhadores ao serviço da empresa que ponha em causa a existência de criação líquida de postos de trabalho durante a vigência do contrato de concessão de incentivos;\n\nb) Prestação de informações falsas sobre a situação da entidade promotora ou viciação de dados fornecidos nas fases de candidatura e acompanhamento dos projetos;\n\nc) Recusa de prestação de informações sobre o beneficiário ou recusa do acesso ao projeto às entidades com competências de acompanhamento ou controlo.\n\n2. Pode a Autoridade de Gestão aceitar, desde que devidamente fundamentado, que ao longo da vigência do contrato de concessão de incentivos, se verifique incumprimento de criação líquida de emprego no limite de três meses, seguidos ou interpolados.\n\n3. A rescisão do contrato implica a caducidade dos incentivos concedidos, sendo o beneficiário obrigado a repor as importâncias recebidas, acrescidas de juros nos termos da regulamentação aplicável."
+  },
+  "df10a75a5b57111d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Acumulação de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acumulação de incentivos\n\nOs apoios concedidos no âmbito do presente regulamento não são acumuláveis com outros apoios diretos ao emprego aplicáveis ao mesmo posto de trabalho, nomeadamente com a medida Estímulo 2012, prevista na Portaria n.º 45/2012, de 13 de fevereiro, com a medida de Apoio à Contratação via Reembolso da TSU prevista na Portaria n.º 229/2012, de 3 de agosto ou ainda com os apoios à contratação previstos no âmbito dos SI QREN."
+  },
+  "f335a5638f6b82ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Enquadramento Comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Enquadramento Comunitário\n\nO Sistema de Incentivos de Apoio Local às Microempresas respeita o Regulamento (CE) n.º [1998/2006](http://data.europa.eu/eli/reg/2006/1998/oj?locale=pt), de 15 de dezembro, relativo aos auxílios de minimis."
+  },
+  "bd085009a3437c26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO A — Lista de concelhos prevista no artigo 2º do presente regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO A — Lista de concelhos prevista no artigo 2º do presente regulamento\n\n1. Nos termos do artigo 2º do presente regulamento, as áreas territoriais abrangidas pelo presente regulamento são as que constam da lista que ora se publica e que dizem respeito às áreas territoriais com problemas de interioridade.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03300/0092500932.pdf)\n\n2. Nos casos em que o projeto apresenta um valor de investimento superior a 5 000 euros mas inferior a 25 000 euros, as áreas territoriais abrangidas pelo presente regulamento são as que constam da lista que ora se publica e que dizem respeito a freguesias em áreas territoriais com problemas de interioridade não consideradas como freguesias rurais e como tal não cobertas pela ação \"Criação e desenvolvimento de microempresas\" financiada pelo programa PRODER.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2013/02/03300/0092500932.pdf)"
+  },
+  "de786ef4972f3722": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Condições de admissibilidade e aceitabilidade dos projetos",
+   "in_force_from": "2014-12-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 261/2014](https://diariodarepublica.pt/dr/detalhe/portaria/261-2014-65889974), publicado em 2014-12-16."
+   ],
+   "markdown": "###### Artigo 6.º — Condições de admissibilidade e aceitabilidade dos projetos\n\n1. Os projetos devem cumprir os seguintes requisitos:\n\na) Apresentar um valor de investimento elegível inferior a 5 000 euros, quando localizados em qualquer das regiões previstas no artigo 2º ou igual ou superior a 5 000 euros mas inferior a 25 000 euros desde que localizados nessas regiões em freguesias não consideradas como freguesias rurais;\n\nb) Não estar iniciado à data de apresentação da candidatura;\n\nc) Dispor de financiamento adequado à sua concretização;\n\nd) Apresentar viabilidade económico-financeira devendo neste sentido demonstrar que no pós-projeto atingem uma autonomia financeira igual ou superior a 0,15;\n\ne) Manter afetos à respetiva atividade os ativos respeitantes ao investimento apoiado, bem como a localização geográfica definida no projeto, durante o período de vigência do contrato de concessão de incentivos, e no mínimo, durante três anos após a conclusão do projeto.\n\n2. Os projetos devem ainda conduzir à criação líquida de posto(s) de trabalho, calculada pela diferença entre o número de postos de trabalho existentes à data da contratação do trabalhador e o maior número de postos de trabalho verificado nos meses de junho e de dezembro que precedem a data dessa contratação.\n\n3. Os sócios e gerentes, bem como trabalhadores de outras empresas do grupo contratados pelo beneficiário não são contabilizados para efeitos de aferição da criação líquida de postos de trabalho.\n\n4 - A duração máxima do projeto, incluindo a realização do investimento e a criação dos postos de trabalho, é de 24 meses, contados a partir da data de início da sua realização, sem prejuízo de prazo mais curto ditado pelas regras de encerramento do QREN (Quadro de Referência Estratégico Nacional).\n\n5 - Considera-se o início da realização do projeto com a realização da primeira despesa ou a primeira contratação do posto de trabalho previsto, a que primeiramente tiver lugar, e conclui-se com a formalização do pedido de pagamento final incluindo o pedido relativo ao último dos postos de trabalho criados objeto de financiamento.\n\n> Alterado pelo/a [Portaria n.º 261/2014](https://diariodarepublica.pt/dr/detalhe/portaria/261-2014-65889974), publicado em 2014-12-16."
+  },
+  "1ebc575a4616c701": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Financiamento",
+   "in_force_from": "2014-12-17",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 261/2014](https://diariodarepublica.pt/dr/detalhe/portaria/261-2014-65889974), publicado em 2014-12-16."
+   ],
+   "markdown": "###### Artigo 8.º — Financiamento\n\n1. O incentivo a conceder assume a forma não reembolsável.\n\n2. O incentivo a conceder ao investimento é calculado através da aplicação de uma taxa de 50% às despesas elegíveis.\n\n3. O pagamento do incentivo ao investimento é feito a pedido do beneficiário a apresentar à Autoridade de Gestão de acordo com as seguintes disposições:\n\na) A título de adiantamento, aquando da celebração do contrato de concessão de incentivos, correspondendo a 50% do incentivo ao investimento aprovado;\n\nb) Seis meses após o pagamento do anterior adiantamento, correspondendo a 50% do incentivo ao investimento aprovado, devendo o beneficiário comprovar a utilização integral do anterior adiantamento e apresentar as faturas, ou documentos de natureza comercial equivalente, relativas à restante parte do investimento elegível aprovado, ficando ainda obrigado a apresentar, no prazo de 30 dias úteis contado a partir da data de pagamento deste adiantamento, os comprovativos do pagamento integral da despesa.\n\n4. A pedido fundamentado do beneficiário pode a Autoridade de Gestão autorizar a prorrogação do prazo de apresentação do pedido de pagamento previsto na alínea b) do número anterior.\n\n5. Ao abrigo do presente sistema de incentivos poderão ser financiados até dois postos de trabalho.\n\n6. O financiamento relativo à criação dos postos de trabalho consiste num montante fixo, por posto de trabalho, correspondente:\n\na) Ao valor do Indexante de Apoios Sociais (IAS), para o trabalhador sem ensino secundário completo, multiplicado por 12 vezes;\n\nb) A 1,25 vezes do valor do IAS, para o trabalhador com ensino secundário completo ou ensino pós-secundário completo, multiplicado por 12 vezes;\n\nc) A 1,65 vezes do valor do IAS, para o trabalhador com licenciatura ou mestrado, multiplicado por 12 vezes.\n\n7. Os postos de trabalho preenchidos por jovens, entre os 18 e os 30 anos, desempregados ou à procura do primeiro emprego, inscritos no centro de emprego há pelo menos 4 meses, terão uma majoração de 50% aplicada aos valores estabelecidos no número anterior.\n\n8 - O pagamento do financiamento, por posto de trabalho, é realizado desde que verificada a criação do posto de trabalho, em duas prestações de igual montante, sendo concretizadas a pedido do beneficiário, devendo o primeiro pedido ser apresentado após o fim do mês subsequente à celebração do contrato de trabalho sem termo, a tempo inteiro, e o segundo pedido ser apresentado 12 meses após a celebração do contrato de trabalho sem termo.\n\n9. Considera-se criado o posto de trabalho quando o mesmo se encontre preenchido e tenha sido mantido até ao encerramento do projeto.\n\n10. A partir da contratação e durante o período de vigência do contrato de concessão de incentivos, a empresa deve registar, com periodicidade mensal, um número total de trabalhadores igual ou superior ao número de trabalhadores registados no dia seguinte à data da(s) contratação(ões) objeto de apoio.\n\n> Alterado pelo/a [Portaria n.º 261/2014](https://diariodarepublica.pt/dr/detalhe/portaria/261-2014-65889974), publicado em 2014-12-16."
+  }
+ }
+}

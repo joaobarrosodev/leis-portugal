@@ -1,0 +1,318 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:407338:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1976-11-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b8bf1e82aee06d5c",
+    "59324c2ca8f6188c",
+    "9fd5242e1a39b13b",
+    "35063d4ae9f06243",
+    "c42a1a5699a3ab8e",
+    "efd0db11a93f15c0",
+    "f7912a22e4562dc3",
+    "6f26ccc9332a052b",
+    "aa919ee7c0466e92",
+    "6cd98903fa5b4b11",
+    "ea6f2e5efc06c270",
+    "cf50017165d23ff6",
+    "245d0b272e83fb04",
+    "04aa32111dd8127c",
+    "fc4b303a5ecda37e",
+    "df15fa5ad516de0b"
+   ]
+  },
+  {
+   "date": "1977-12-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:279814:por",
+     "title": "Lei n.º 84/77",
+     "published": "1977-12-09",
+     "dre_path": "/dr/detalhe/lei/84-1977-279814"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "b8bf1e82aee06d5c",
+    "08b037eb10d3a104",
+    "1c2c3be918d045dc",
+    "eb717b74356e87d0",
+    "bbfe0f37a99cb255",
+    "234a89f55b542f62",
+    "ad577e10bf083d03",
+    "760cc4301881301b",
+    "85529b3001f354da",
+    "2c28374964da0089",
+    "8861fa2e95008824",
+    "36b496005974a7bd",
+    "621d6af454a65b54",
+    "bb63bab5d047d6a5",
+    "fe5fa3e0d3a3052b",
+    "aa38a35deff0b59a"
+   ]
+  }
+ ],
+ "fragments": {
+  "b8bf1e82aee06d5c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Novembro\n\nDecorridos mais de dois anos e meio sobre a entrada em vigor do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, que, entre outras medidas relativas às casas de renda limitada, criou as bolsas de habitação destinadas a processar a atribuição daqueles fogos, verifica-se que tais serviços, na quase totalidade dos municípios onde deveriam funcionar, não foram criados.\n\nEssa situação prejudica a normal atribuição do assinalável volume de fogos de habitação social cuja conclusão se avizinha, pelo que se torna necessário reestruturar o sistema.\n\nNeste propósito, procurou-se possibilitar a criação nas autarquias municipais de serviços municipais de habitação com a natureza de serviços municipais especiais, dotados de autonomia administrativa e financeira e de personalidade jurídica, ou de serviços municipalizados, para mais expedita prossecução da política de habitação nas respectivas áreas.\n\nA função principal do serviço será a atribuição dos fogos de habitação social, mas terá como função complementar o apoio e resposta aos munícipes no que se refere às questões de inquilinato e habitação, que já constituem, hoje, matéria de atribuição camarária.\n\nO [Decreto-Lei n.º 278/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1971-643320), de 23 de Junho (artigo 6.º), já previu, é certo, que viessem a ser criados serviços municipais para administração e conservação de prédios, propriedade das câmaras, destinados a habitação, o que, dada a timidez com que foi aplicado o referido diploma, não se tornou também realidade. Dão-se agora os meios financeiros e o apoio técnico necessário para que as autarquias municipais - a breve prazo a serem geridas democraticamente - possam melhor responder, dentro da sua esfera própria, aos problemas dos munícipes.\n\nOutro dos objectivos do presente diploma é a generalização do princípio de todos os fogos de habitação social construídos pelo Estado ou com a sua intervenção, a um regime único de atribuição, independentemente da entidade proprietária ou administradora e do regime legal de aquisição, utilização e disposição dos fogos pelos beneficiários, o que passa a ser regulado por decreto, e não por portaria, como até aqui.\n\nAproveitou-se, finalmente, a publicação do presente decreto-lei para regularizar as situações de facto existentes face à violação dos preceitos legais que exigiam a intervenção das bolsas de habitação e em desrespeito dos limites aos preços ou rendas das habitações, partindo do princípio de que a principal responsabilidade de tais situações não cabe aos particulares, mas sim às circunstâncias que tornaram nesse aspecto inoperante o [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro.\n\nNestes termos:\n\nUsando da autorização conferida pela [Lei n.º 4/76](https://diariodarepublica.pt/dr/detalhe/lei/4-1976-408676), de 10 de Setembro:\n\nO Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "59324c2ca8f6188c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º — (Criação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º — (Criação)\n\n1. As câmaras municipais poderão criar, na área do respectivo município, serviços municipais de habitação, de conformidade com o disposto no Código Administrativo e no presente diploma.\n\n2. As bolsas de habitação, criadas ao abrigo do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, serão transformadas em serviços municipais de habitação, transferindo-se o respectivo património e correspondentes obrigações para os referidos serviços.\n\n3. Cumpridas as formalidades da lei, os serviços municipais de habitação podem ser objecto de federação de municípios a constituir ou integrados nas atribuições de outras federações de que os municípios interessados façam parte.\n\n4. Quando em qualquer município ou grupo de municípios não se puder, por qualquer circunstância, instituir ou pôr a funcionar o serviço municipal de habitação, as respectivas funções serão supridas no todo ou em parte, enquanto tal se verificar, pelo serviço de administração Central a quem tal for cometido pelos Ministros de tutela competentes."
+  },
+  "9fd5242e1a39b13b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º — (Natureza e constituição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º — (Natureza e constituição)\n\n1. Os serviços municipais de habitação terão a natureza de serviços especiais dotados de autonomia administrativa e financeira e com personalidade jurídica ou, se e quando a dimensão do parque habitacional a seu cargo o justificar, a de serviços municipalizados.\n\n2. A aprovação dos actos praticados pelos órgãos gestores dos serviços municipais de habitação competirá, quando a ela haja lugar, à câmara municipal ou às câmaras municipais federadas, consoante o serviço tenha jurisdição na área de um ou de mais municípios.\n\n3. O título da constituição dos serviços municipais de Habitação deverá, obrigatoriamente, conter as seguintes menções:\n\na) Data da deliberação camarária da criação dos serviços;\n\nb) Sede dos serviços;\n\nc) Regras de constituição e competência dos órgãos gestores;\n\nd) Área de jurisdição;\n\ne) Funções que são atribuídas aos serviços."
+  },
+  "35063d4ae9f06243": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º — (Objecto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º — (Objecto)\n\n1. Constitui função principal dos serviços municipais de habitação, além de assegurar a gestão do parque habitacional do respectivo município, a atribuição, segundo os regimes legalmente fixados, dos fogos construídos ou adquiridos para fins habitacionais pelo Estado, seus organismos autónomos, institutos públicos personalizados, pessoas colectivas de direito público, instituições de previdência e Misericórdias situados na respectiva área.\n\n2. De conformidade com o número anterior, passa, desde já, a competir aos serviços municipais de habitação do respectivo município a distribuição dos fogos seguintes:\n\na) As casas económicas, reguladas nos Decretos-Leis n.os 23052, de 23 de Novembro de 1933, 39288, de 21 de Julho de 1953, 40246, de 6 de Julho de 1955, e 40552, de 12 de Março de 1956, na [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, no [Decreto-Lei n.º 43973](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43973-1961-182647), de 20 de Outubro de 1961, e no [Decreto-Lei n.º 376/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1976-428220), de 19 de Maio;\n\nb) As casas para famílias pobres, reguladas nos Decretos-Leis n.os 34486, de 6 de Abril de 1945, e 35106, de 6 de Novembro de 1945;\n\nc) As casas de renda económica, reguladas nas Leis n.os 2007, de 7 de Maio de 1945, e 2092, de 9 de Abril de 1958, salvo as construídas pelas empresas para os respectivos trabalhadores, as das associações de socorros mútuos que os respectivos órgãos reservem para sua gestão e as que forem propriedade de cooperativas de habitação destinadas aos respectivos sócios;\n\nd) As casas de renda limitada, reguladas nos Decretos-Leis n.os 36212, de 7 de Abril de 1947, e 608/73, de 14 de Novembro.\n\n3. Além das atribuições referidas no n.º 1, aos serviços municipais de habitação caberão as seguintes funções complementares:\n\na) Inventariar e perspectivar em colaboração com os organismos competentes da Administração Central as necessidades habitacionais a satisfazer pela construção de novos fogos e determinar as respectivas características, tendo em conta a composição e rendimento dos agregados familiares;\n\nb) Conhecer e prever a oferta de fogos, de origem pública e privada, e as respectivas características;\n\nc) Colaborar na conservação e reparação do parque habitacional, incluindo os locais destinados a equipamento social e a comércio, que esteja na propriedade do Estado e das demais entidades referidas no n.º 1 deste artigo;\n\nd) Participar nos demais actos de disposição e de gestão do património referido na alínea anterior;\n\ne) Exercer outras atribuições que lhe sejam cometidas pela lei ou pelos órgãos competentes da administração municipal;\n\nf) Divulgar informação sobre as diferentes modalidades de acesso à habitação social e condições da sua utilização, bem como os programas de construção ou recuperação de fogos aprovados ou em curso, informar o público sobre os mesmos assuntos e ainda esclarecê-lo sempre que para tal solicitados;\n\ng) Colaborar em programas especiais destinados à recuperação de fogos ou imóveis em degradação do parque habitacional público e privado."
+  },
+  "c42a1a5699a3ab8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º — (Representação legal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º — (Representação legal)\n\n1. A pessoa ou órgão a quem esteja cometida a função executiva do serviço municipal de habitação ou, em caso de impedimento daquele, ao seu substituto legal, caberá a representação legal e sem reserva de poderes por parte das entidades proprietárias ou administradores dos fogos a arrendar ou alienar a título oneroso, na celebração dos respectivos contratos.\n\n2. Aos serviços municipais de habitação poderão ser conferidos poderes de representação para o desempenho das restantes funções de disposição e de gestão do património imobiliário referido nas alíneas c) e d) do n.º 3 e na alínea a) do artigo 3.º"
+  },
+  "efd0db11a93f15c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º — (Competência regulamentar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º — (Competência regulamentar)\n\nO exercício das atribuições dos serviços municipais de habitação obedecerá às regras contidas no presente diploma, aos regulamentos que para sua execução venham a ser publicados pelos órgãos competentes da Administração Central e local e às instruções administrativas internas dos próprios serviços."
+  },
+  "f7912a22e4562dc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º — (Receitas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º — (Receitas)\n\nSem prejuízo do disposto no n.º 2 do artigo 1.º, constituirão receitas do serviço municipal de habitação:\n\na) Os meios financeiros que se revelarem necessários para a sua criação e estruturação, postos à sua disposição pelo Ministério da Habitação, Urbanismo e Construção;\n\nb) As comparticipações nos encargos resultantes das funções referidas nas alíneas a), b) e e) do artigo 3.º, a facultar pelos serviços competentes do Ministério da Habitação, Urbanismo e Construção;\n\nc) As compensações e remunerações devidas pelos serviços prestados no âmbito das funções mencionadas no n.º 1, relativas ao património municipal, e nas alíneas c) e d) do n.º 3 do artigo 3.º e identicamente para os fogos de renda limitada, a satisfazer pelas entidades proprietárias ou administradoras do património respectivo, nos termos da legislação aplicável;\n\nd) As compensações e remunerações devidas pelos serviços prestados no âmbito das funções referidas na alínea g) do n.º 3 do artigo 3.º, a facultar pelo Fundo de Fomento da Habitação ou pelas câmaras municipais;\n\ne) As multas devidas pelos proprietários privados, por falta de indicação oportuna da disponibilidade dos fogos a atribuir por via de concursos por sorteio, nos termos da legislação relativa a casas de renda limitada;\n\nf) As perdas das cauções prestadas pelos candidatos a concursos para atribuição de fogos quando desistam ou sejam excluídos por motivo que lhes seja imputável;\n\ng) O excesso de rendas ou outra importância indevidamente cobrada relativamente à renda fixada pelos senhorios de casas de renda limitada;\n\nh) Juros de depósitos ou quaisquer importâncias ou créditos pecuniários que, pelos meios legais, entrarem no seu património."
+  },
+  "6f26ccc9332a052b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º — (Concessão a cooperativas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º — (Concessão a cooperativas)\n\nO serviço municipal de habitação ou a respectiva federação podem conceder as atribuições referidas nas alíneas c) e g) do n.º 3 do artigo 3.º a cooperativas de habitação, nas condições que forem ajustadas e sob inteira responsabilidade do serviço."
+  },
+  "aa919ee7c0466e92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º — (Regime de atribuição das habitações sociais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º — (Regime de atribuição das habitações sociais)\n\n1. A atribuição de habitações, segundo os regimes legais aplicáveis, construídas ou propriedade do Estado e demais entidades referidas no n.º 1 do artigo 3.º e das casas de renda limitada ou sujeitas a condicionamento especial de renda, será feita mediante concurso, cujo regulamento será aprovado por decreto dos Ministros da Administração Interna e da Habitação, Urbanismo e Construção, atento o disposto nos números e artigos seguintes.\n\n2. Têm direito às habitações referidas no número anterior os cidadãos nacionais que não residam em habitação adequada à satisfação das necessidades do seu agregado e que pretendam domiciliar-se na área de jurisdição do serviço municipal de habitação onde tiver sido aberto concurso.\n\n3. A atribuição do direito será feita mediante concurso de classificação, salvo para as casas de renda limitada ou situação de natureza idêntica, as quais serão atribuídas mediante concurso por sorteio.\n\n4. Serão organizados concursos separados, consoante a respectiva modalidade, o regime legal de aquisição, utilização e disposição dos fogos e, no caso dos concursos de classificação, consoante os escalões de rendimentos."
+  },
+  "6cd98903fa5b4b11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º — (Excepções ao regime de atribuição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º — (Excepções ao regime de atribuição)\n\n1. Sempre que tal se justifique em virtude das razões a seguir indicadas, os organismos dependentes do Ministério da Habitação, Urbanismo e Construção e as câmaras municipais poderão, relativamente aos fogos da sua propriedade e mediante acto administrativo devidamente fundamentado, excluir tais fogos do regime de atribuição estabelecido por força do artigo anterior, definindo as regras especiais a aplicar nesses casos:\n\na) Situações de emergência;\n\nb) Necessidades de realojamento decorrentes de operações urbanísticas ou outras impostas pelo [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro (lei de solos);\n\nc) Necessidade de proporcionar habitação a pessoas cuja fixação na região seja indispensável ao interesse público.\n\n2. Os actos administrativos mencionados no número anterior carecem de aprovação do Ministro da Habitação, Urbanismo e Construção."
+  },
+  "ea6f2e5efc06c270": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º — (Disponibilidade de fogos para atribuição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º — (Disponibilidade de fogos para atribuição)\n\n1. Para efeitos de atribuição de fogos, mediante concurso, por sorteio dos fogos de renda limitada, os proprietários ou administradores interessados indicarão ao serviço municipal de habitação a existência dos fogos disponíveis e os seus elementos identificadores necessários para a realização do concurso.\n\n2. A indicação dos fogos a atribuir, nos termos do número anterior, deverá verificar-se dentro do prazo de quinze dias, a contar da obtenção da licença de habitação ou da data em que fiquem devolutos, incorrendo os proprietários ou administradores, no caso de o não fazerem, em multa a aplicar pelos tribunais, entre os limites de 2 (por mil) e 2% do valor do fogo, de harmonia com as circunstâncias do caso, a qual reverterá a favor do respectivo serviço municipal de habitação.\n\n3. Sob pena de responsabilidade disciplinar, os responsáveis pelos serviços ou os titulares dos órgãos das entidades referidas no n.º 1 do artigo 3.º, em relação aos fogos referidos no n.º 2 do mesmo artigo, comunicarão, com cento e vinte dias de antecedência, aos serviços municipais de habitação, a data em que prevêem fiquem concluídos os fogos que construam e devam ser objecto de distribuição pelos serviços."
+  },
+  "cf50017165d23ff6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 11.º — (Fogos das instituições de previdência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 11.º — (Fogos das instituições de previdência)\n\nA atribuição dos fogos cuja construção ou aquisição tenha sido promovida pelas instituições de previdência far-se-á independentemente de os concorrentes serem beneficiários ou sócios de tais instituições."
+  },
+  "245d0b272e83fb04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 12.º — (Instalação dos serviços municipais de habitação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 12.º — (Instalação dos serviços municipais de habitação)\n\nO necessário apoio técnico aos municípios, para a constituição e funcionamento dos respectivos serviços municipais de habitação ou suas federações, será dado pelos serviços da Administração Central ou equipas eventuais que forem designadas ou mandadas constituir pelo Ministro da Habitação, Urbanismo e Construção."
+  },
+  "04aa32111dd8127c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 13.º — (Regularização de situações anteriores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 13.º — (Regularização de situações anteriores)\n\n1. A obrigatoriedade de a atribuição do direito ao arrendamento ou propriedade dos fogos referidos no n.º 2 do artigo 3.º se fazer segundo as regras contidas neste diploma e na sua regulamentação não abrange os processos iniciados ao abrigo da legislação anterior e que ainda se encontram pendentes, entendendo-se como tais aqueles em que ainda não tenham transitado em julgado o acto administrativo da atribuição.\n\n2. Os processos pendentes referidos no número anterior continuarão a reger-se por aquela legislação.\n\n3. Consideram-se automaticamente reduzidos e sem dependência de qualquer formalidade os contratos celebrados em contravenção do disposto nos artigos 4.º, 34.º e 43.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, sem prejuízo, quanto aos arrendamentos e alienação celebrados nos municípios onde já funcionasse bolsa de habitação, da aplicação do artigo 36.º do mesmo diploma, considerando-se suprida, salvo quanto a estas, a nulidade do n.º 2 do artigo 17.º do referido diploma.\n\n4. A redução do contrato implicará, conforme os casos, o reajustamento da primeira renda vincenda a pagar e das seguintes, ou o reajustamento das prestações vincendas aos limites respectivos, considerando-se os vícios do contrato sanados quanto às rendas, prestações ou preço já pagos."
+  },
+  "fc4b303a5ecda37e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 14.º — (Disposição transitória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 14.º — (Disposição transitória)\n\nEste diploma só se aplica às casas que são património das instituições de previdência situadas na área de cada serviço municipal de habitação a partir da data da publicação de portaria conjunta dos Ministros interessados."
+  },
+  "df15fa5ad516de0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 15.º — (Revogação e substituição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 15.º — (Revogação e substituição)\n\n1. Fica revogado o artigo 26.º do [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), de 30 de Dezembro, sem prejuízo de, até à publicação do decreto a que se refere o n.º 1 do artigo 8.º do presente decreto-lei, se manterem em vigor as portarias publicadas em sua execução.\n\n2. As disposições dos capítulos V e VII do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, serão alteradas por decreto do Ministro da Habitação, Urbanismo e Construção, atento o que for estabelecido no decreto a que se refere o n.º 1 do artigo 8.º do presente diploma, considerando-se como fazendo parte dele e inseridos no lugar próprio.\n\n3. Quaisquer referências às bolsas de habitação criadas ao abrigo do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, contidas na legislação anterior, passam a entender-se como feitas aos serviços municipais de habitação.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares.\n\nPromulgado em 18 de Outubro de 1976.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "08b037eb10d3a104": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Criação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Criação)\n\n1. As câmaras municipais poderão criar, na área do respectivo município, serviços municipais de habitação, de conformidade com o disposto no Código Administrativo e no presente diploma.\n\n2. As bolsas de habitação, criadas ao abrigo do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, serão transformadas em serviços municipais de habitação, transferindo-se o respectivo património e correspondentes obrigações para os referidos serviços.\n\n3. Cumpridas as formalidades da lei, os serviços municipais de habitação podem ser objecto de federação de municípios a constituir ou integrados nas atribuições de outras federações de que os municípios interessados façam parte.\n\n4. Quando em qualquer município ou grupo de municípios não se puder, por qualquer circunstância, instituir ou pôr a funcionar o serviço municipal de habitação, as respectivas funções serão supridas no todo ou em parte, enquanto tal se verificar, pelo serviço de administração Central a quem tal for cometido pelos Ministros de tutela competentes."
+  },
+  "1c2c3be918d045dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Natureza)",
+   "in_force_from": "1977-12-09",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 84/77](https://diariodarepublica.pt/dr/detalhe/lei/84-1977-279814), publicado em 1977-12-09."
+   ],
+   "markdown": "###### Artigo 2.º — (Natureza)\n\n1.º Os Serviços Municipais de Habitação regem-se, quanto à natureza, à estrutura e ao funcionamento, pelo disposto nos artigos 143.º, 619.º e seguintes do Código Administrativo.\n\n2.º Os órgãos competentes dos municípios podem deliberar a municipalização dos referidos serviços, em conformidade com a lei.\n\n> Alterado pelo/a [Lei n.º 84/77](https://diariodarepublica.pt/dr/detalhe/lei/84-1977-279814), publicado em 1977-12-09."
+  },
+  "eb717b74356e87d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Objecto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Objecto)\n\n1. Constitui função principal dos serviços municipais de habitação, além de assegurar a gestão do parque habitacional do respectivo município, a atribuição, segundo os regimes legalmente fixados, dos fogos construídos ou adquiridos para fins habitacionais pelo Estado, seus organismos autónomos, institutos públicos personalizados, pessoas colectivas de direito público, instituições de previdência e Misericórdias situados na respectiva área.\n\n2. De conformidade com o número anterior, passa, desde já, a competir aos serviços municipais de habitação do respectivo município a distribuição dos fogos seguintes:\n\na) As casas económicas, reguladas nos Decretos-Leis n.os 23052, de 23 de Novembro de 1933, 39288, de 21 de Julho de 1953, 40246, de 6 de Julho de 1955, e 40552, de 12 de Março de 1956, na [Lei n.º 2092](https://diariodarepublica.pt/dr/detalhe/lei/2092-1958-304997), de 9 de Abril de 1958, no [Decreto-Lei n.º 43973](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43973-1961-182647), de 20 de Outubro de 1961, e no [Decreto-Lei n.º 376/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1976-428220), de 19 de Maio;\n\nb) As casas para famílias pobres, reguladas nos Decretos-Leis n.os 34486, de 6 de Abril de 1945, e 35106, de 6 de Novembro de 1945;\n\nc) As casas de renda económica, reguladas nas Leis n.os 2007, de 7 de Maio de 1945, e 2092, de 9 de Abril de 1958, salvo as construídas pelas empresas para os respectivos trabalhadores, as das associações de socorros mútuos que os respectivos órgãos reservem para sua gestão e as que forem propriedade de cooperativas de habitação destinadas aos respectivos sócios;\n\nd) As casas de renda limitada, reguladas nos Decretos-Leis n.os 36212, de 7 de Abril de 1947, e 608/73, de 14 de Novembro.\n\n3. Além das atribuições referidas no n.º 1, aos serviços municipais de habitação caberão as seguintes funções complementares:\n\na) Inventariar e perspectivar em colaboração com os organismos competentes da Administração Central as necessidades habitacionais a satisfazer pela construção de novos fogos e determinar as respectivas características, tendo em conta a composição e rendimento dos agregados familiares;\n\nb) Conhecer e prever a oferta de fogos, de origem pública e privada, e as respectivas características;\n\nc) Colaborar na conservação e reparação do parque habitacional, incluindo os locais destinados a equipamento social e a comércio, que esteja na propriedade do Estado e das demais entidades referidas no n.º 1 deste artigo;\n\nd) Participar nos demais actos de disposição e de gestão do património referido na alínea anterior;\n\ne) Exercer outras atribuições que lhe sejam cometidas pela lei ou pelos órgãos competentes da administração municipal;\n\nf) Divulgar informação sobre as diferentes modalidades de acesso à habitação social e condições da sua utilização, bem como os programas de construção ou recuperação de fogos aprovados ou em curso, informar o público sobre os mesmos assuntos e ainda esclarecê-lo sempre que para tal solicitados;\n\ng) Colaborar em programas especiais destinados à recuperação de fogos ou imóveis em degradação do parque habitacional público e privado."
+  },
+  "bbfe0f37a99cb255": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Representação legal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Representação legal)\n\n1. A pessoa ou órgão a quem esteja cometida a função executiva do serviço municipal de habitação ou, em caso de impedimento daquele, ao seu substituto legal, caberá a representação legal e sem reserva de poderes por parte das entidades proprietárias ou administradores dos fogos a arrendar ou alienar a título oneroso, na celebração dos respectivos contratos.\n\n2. Aos serviços municipais de habitação poderão ser conferidos poderes de representação para o desempenho das restantes funções de disposição e de gestão do património imobiliário referido nas alíneas c) e d) do n.º 3 e na alínea a) do artigo 3.º"
+  },
+  "234a89f55b542f62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Competência regulamentar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Competência regulamentar)\n\nO exercício das atribuições dos serviços municipais de habitação obedecerá às regras contidas no presente diploma, aos regulamentos que para sua execução venham a ser publicados pelos órgãos competentes da Administração Central e local e às instruções administrativas internas dos próprios serviços."
+  },
+  "ad577e10bf083d03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Receitas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Receitas)\n\nSem prejuízo do disposto no n.º 2 do artigo 1.º, constituirão receitas do serviço municipal de habitação:\n\na) Os meios financeiros que se revelarem necessários para a sua criação e estruturação, postos à sua disposição pelo Ministério da Habitação, Urbanismo e Construção;\n\nb) As comparticipações nos encargos resultantes das funções referidas nas alíneas a), b) e e) do artigo 3.º, a facultar pelos serviços competentes do Ministério da Habitação, Urbanismo e Construção;\n\nc) As compensações e remunerações devidas pelos serviços prestados no âmbito das funções mencionadas no n.º 1, relativas ao património municipal, e nas alíneas c) e d) do n.º 3 do artigo 3.º e identicamente para os fogos de renda limitada, a satisfazer pelas entidades proprietárias ou administradoras do património respectivo, nos termos da legislação aplicável;\n\nd) As compensações e remunerações devidas pelos serviços prestados no âmbito das funções referidas na alínea g) do n.º 3 do artigo 3.º, a facultar pelo Fundo de Fomento da Habitação ou pelas câmaras municipais;\n\ne) As multas devidas pelos proprietários privados, por falta de indicação oportuna da disponibilidade dos fogos a atribuir por via de concursos por sorteio, nos termos da legislação relativa a casas de renda limitada;\n\nf) As perdas das cauções prestadas pelos candidatos a concursos para atribuição de fogos quando desistam ou sejam excluídos por motivo que lhes seja imputável;\n\ng) O excesso de rendas ou outra importância indevidamente cobrada relativamente à renda fixada pelos senhorios de casas de renda limitada;\n\nh) Juros de depósitos ou quaisquer importâncias ou créditos pecuniários que, pelos meios legais, entrarem no seu património."
+  },
+  "760cc4301881301b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Concessão a cooperativas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Concessão a cooperativas)\n\nO serviço municipal de habitação ou a respectiva federação podem conceder as atribuições referidas nas alíneas c) e g) do n.º 3 do artigo 3.º a cooperativas de habitação, nas condições que forem ajustadas e sob inteira responsabilidade do serviço."
+  },
+  "85529b3001f354da": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Regime de atribuição das habitações sociais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Regime de atribuição das habitações sociais)\n\n1. A atribuição de habitações, segundo os regimes legais aplicáveis, construídas ou propriedade do Estado e demais entidades referidas no n.º 1 do artigo 3.º e das casas de renda limitada ou sujeitas a condicionamento especial de renda, será feita mediante concurso, cujo regulamento será aprovado por decreto dos Ministros da Administração Interna e da Habitação, Urbanismo e Construção, atento o disposto nos números e artigos seguintes.\n\n2. Têm direito às habitações referidas no número anterior os cidadãos nacionais que não residam em habitação adequada à satisfação das necessidades do seu agregado e que pretendam domiciliar-se na área de jurisdição do serviço municipal de habitação onde tiver sido aberto concurso.\n\n3. A atribuição do direito será feita mediante concurso de classificação, salvo para as casas de renda limitada ou situação de natureza idêntica, as quais serão atribuídas mediante concurso por sorteio.\n\n4. Serão organizados concursos separados, consoante a respectiva modalidade, o regime legal de aquisição, utilização e disposição dos fogos e, no caso dos concursos de classificação, consoante os escalões de rendimentos."
+  },
+  "2c28374964da0089": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Excepções ao regime de atribuição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Excepções ao regime de atribuição)\n\n1. Sempre que tal se justifique em virtude das razões a seguir indicadas, os organismos dependentes do Ministério da Habitação, Urbanismo e Construção e as câmaras municipais poderão, relativamente aos fogos da sua propriedade e mediante acto administrativo devidamente fundamentado, excluir tais fogos do regime de atribuição estabelecido por força do artigo anterior, definindo as regras especiais a aplicar nesses casos:\n\na) Situações de emergência;\n\nb) Necessidades de realojamento decorrentes de operações urbanísticas ou outras impostas pelo [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro (lei de solos);\n\nc) Necessidade de proporcionar habitação a pessoas cuja fixação na região seja indispensável ao interesse público.\n\n2. Os actos administrativos mencionados no número anterior carecem de aprovação do Ministro da Habitação, Urbanismo e Construção."
+  },
+  "8861fa2e95008824": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Disponibilidade de fogos para atribuição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Disponibilidade de fogos para atribuição)\n\n1. Para efeitos de atribuição de fogos, mediante concurso, por sorteio dos fogos de renda limitada, os proprietários ou administradores interessados indicarão ao serviço municipal de habitação a existência dos fogos disponíveis e os seus elementos identificadores necessários para a realização do concurso.\n\n2. A indicação dos fogos a atribuir, nos termos do número anterior, deverá verificar-se dentro do prazo de quinze dias, a contar da obtenção da licença de habitação ou da data em que fiquem devolutos, incorrendo os proprietários ou administradores, no caso de o não fazerem, em multa a aplicar pelos tribunais, entre os limites de 2 (por mil) e 2% do valor do fogo, de harmonia com as circunstâncias do caso, a qual reverterá a favor do respectivo serviço municipal de habitação.\n\n3. Sob pena de responsabilidade disciplinar, os responsáveis pelos serviços ou os titulares dos órgãos das entidades referidas no n.º 1 do artigo 3.º, em relação aos fogos referidos no n.º 2 do mesmo artigo, comunicarão, com cento e vinte dias de antecedência, aos serviços municipais de habitação, a data em que prevêem fiquem concluídos os fogos que construam e devam ser objecto de distribuição pelos serviços."
+  },
+  "36b496005974a7bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Fogos das instituições de previdência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Fogos das instituições de previdência)\n\nA atribuição dos fogos cuja construção ou aquisição tenha sido promovida pelas instituições de previdência far-se-á independentemente de os concorrentes serem beneficiários ou sócios de tais instituições."
+  },
+  "621d6af454a65b54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Instalação dos serviços municipais de habitação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Instalação dos serviços municipais de habitação)\n\nO necessário apoio técnico aos municípios, para a constituição e funcionamento dos respectivos serviços municipais de habitação ou suas federações, será dado pelos serviços da Administração Central ou equipas eventuais que forem designadas ou mandadas constituir pelo Ministro da Habitação, Urbanismo e Construção."
+  },
+  "bb63bab5d047d6a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — (Regularização de situações anteriores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Regularização de situações anteriores)\n\n1. A obrigatoriedade de a atribuição do direito ao arrendamento ou propriedade dos fogos referidos no n.º 2 do artigo 3.º se fazer segundo as regras contidas neste diploma e na sua regulamentação não abrange os processos iniciados ao abrigo da legislação anterior e que ainda se encontram pendentes, entendendo-se como tais aqueles em que ainda não tenham transitado em julgado o acto administrativo da atribuição.\n\n2. Os processos pendentes referidos no número anterior continuarão a reger-se por aquela legislação.\n\n3. Consideram-se automaticamente reduzidos e sem dependência de qualquer formalidade os contratos celebrados em contravenção do disposto nos artigos 4.º, 34.º e 43.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, sem prejuízo, quanto aos arrendamentos e alienação celebrados nos municípios onde já funcionasse bolsa de habitação, da aplicação do artigo 36.º do mesmo diploma, considerando-se suprida, salvo quanto a estas, a nulidade do n.º 2 do artigo 17.º do referido diploma.\n\n4. A redução do contrato implicará, conforme os casos, o reajustamento da primeira renda vincenda a pagar e das seguintes, ou o reajustamento das prestações vincendas aos limites respectivos, considerando-se os vícios do contrato sanados quanto às rendas, prestações ou preço já pagos."
+  },
+  "fe5fa3e0d3a3052b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Disposição transitória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Disposição transitória)\n\nEste diploma só se aplica às casas que são património das instituições de previdência situadas na área de cada serviço municipal de habitação a partir da data da publicação de portaria conjunta dos Ministros interessados."
+  },
+  "aa38a35deff0b59a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Revogação e substituição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Revogação e substituição)\n\n1. Fica revogado o artigo 26.º do [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), de 30 de Dezembro, sem prejuízo de, até à publicação do decreto a que se refere o n.º 1 do artigo 8.º do presente decreto-lei, se manterem em vigor as portarias publicadas em sua execução.\n\n2. As disposições dos capítulos V e VII do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, serão alteradas por decreto do Ministro da Habitação, Urbanismo e Construção, atento o que for estabelecido no decreto a que se refere o n.º 1 do artigo 8.º do presente diploma, considerando-se como fazendo parte dele e inseridos no lugar próprio.\n\n3. Quaisquer referências às bolsas de habitação criadas ao abrigo do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, contidas na legislação anterior, passam a entender-se como feitas aos serviços municipais de habitação.\n\nVisto e aprovado em Conselho de Ministros. - Mário Soares.\n\nPromulgado em 18 de Outubro de 1976.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

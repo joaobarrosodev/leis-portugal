@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-11-27'
+version_history:
+  file: portaria-516-83.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-05-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-11-27'
+    amending: pt:dre:221496:por
+    amending_title: Portaria n.º 706/86
+    changes:
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:42:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 706/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1983/portaria-516-83.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -195,13 +210,15 @@ f) Para o ramo de engenharia sanitária - licenciatura em Engenharia.
 
 ###### Artigo 7.º — (Júri)
 
-1 - O júri dos concursos de admissão ao estágio da carreira de técnicos superiores de saúde é constituído por um presidente e dois vogais.
+1 - O júri dos concursos de admissão ao estágio da carreira de técnicos superiores de saúde é constituído por um presidente e dois vogais efectivos.
 
-2 - O presidente será um funcionário dirigente do serviço que na Secretaria de Estado da Saúde for competente em matéria de recursos humanos, com funções relacionadas com a carreira dos técnicos superiores de saúde.
+2 - O presidente será um funcionário com categoria não inferior a técnico superior de saúde principal, integrado num dos ramos previstos no artigo 2.º, n.º 1, do [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho.
 
-3 - Um dos vogais será técnico superior de saúde, de categoria não inferior a 1.ª classe, integrado em cada um dos ramos previstos no artigo 2.º n.º 1, do [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho.
+3 - Os dois vogais efectivos serão funcionários com categorias não inferiores a técnico superior de saúde de 1.ª classe e integrados num dos ramos previstos no artigo 2.º, n.º 1, do [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho.
 
-4 - O outro vogal será um psicólogo licenciado, de preferência técnico superior de serviço ou estabelecimento da Secretaria de Estado da Saúde.
+4 - O despacho constitutivo do júri designará ainda, para as situações de falta e impedimento, dois vogais suplentes, escolhidos de entre os funcionários integrados na carreira institucionalizada pelo [Decreto Regulamentar n.º 29/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/29-1981-578332), de 24 de Junho.
+
+> Alterado pelo/a [Portaria n.º 706/86](https://diariodarepublica.pt/dr/detalhe/portaria/706-1986-221496), publicado em 1986-11-22.
 
 ###### Artigo 8.º — (Métodos de selecção)
 

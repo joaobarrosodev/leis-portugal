@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-05-07'
+version_history:
+  file: decreto-lei-343-84.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-10-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-05-07'
+    amending: pt:dre:227423:por
+    amending_title: Decreto-Lei n.º 79/86
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:00:16Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 79/86. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1984/decreto-lei-343-84.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,15 +145,27 @@ Considerando que as razões invocadas constituem fundamento enquadrável nas med
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º Ao pessoal dirigente e técnico de inspecção da Inspecção-Geral de Ensino é atribuída uma gratificação mensal no valor correspondente a 20% do respectivo vencimento.
+###### Artigo 1.º
 
-Art. 2.º A gratificação referida no artigo anterior é extensiva aos inspectores da Direcção-Geral do Ensino Superior.
+Ao pessoal dirigente e técnico de inspecção da Inspecção-Geral de Ensino é atribuída uma gratificação mensal no valor correspondente a 20% do respectivo vencimento.
 
-Art. 3.º O pessoal dirigente e técnico de inspecção da Inspecção-Geral de Ensino continuará a receber, até 31 de Dezembro de 1984, a gratificação que lhe vinha sendo atribuída nos termos do disposto no artigo 65.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro.
+###### Artigo 2.º
 
-Art. 4.º É revogado o [Decreto-Lei n.º 249/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1983-451837), de 11 de Junho, desde a data da sua entrada em vigor.
+A gratificação referida no artigo anterior é extensiva aos inspectores da Direcção-Geral do Ensino Superior e ao inspector do Gabinete Coordenador do Ingresso no Ensino Superior.
 
-Art. 5.º O presente decreto-lei entrará em vigor em 1 de Janeiro de 1985, com excepção dos artigos 3.º e 4.º, que entram imediatamente em vigor.
+> Alterado pelo/a [Decreto-Lei n.º 79/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-1986-227423), publicado em 1986-05-02.
+
+###### Artigo 3.º
+
+O pessoal dirigente e técnico de inspecção da Inspecção-Geral de Ensino continuará a receber, até 31 de Dezembro de 1984, a gratificação que lhe vinha sendo atribuída nos termos do disposto no artigo 65.º do [Decreto-Lei n.º 540/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/540-1979-230890), de 31 de Dezembro.
+
+###### Artigo 4.º
+
+É revogado o [Decreto-Lei n.º 249/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/249-1983-451837), de 11 de Junho, desde a data da sua entrada em vigor.
+
+###### Artigo 5.º
+
+O presente decreto-lei entrará em vigor em 1 de Janeiro de 1985, com excepção dos artigos 3.º e 4.º, que entram imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros de 27 de Setembro de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Alípio Barrosa Pereira Dias - Maria Helena Carvalho dos Santos Oliveira Lopes.
 

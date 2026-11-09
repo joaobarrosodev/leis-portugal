@@ -1,0 +1,987 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:265296:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2002-03-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9522e020edfb9e74",
+    "74d3e4b9f478a65f",
+    "23836370ae405d04",
+    "ceb8bedfe077f21e",
+    "28c1e6902f33cb84",
+    "12e82cb5927518d5",
+    "f7dbd9e974c0852c",
+    "c33c32afe7fbeb74",
+    "645cb042338f195f",
+    "8dad79cb6725aa4a",
+    "7e34873fdba7504c",
+    "b120aa9f167e48e4",
+    "fc417dc0aac067ae",
+    "f83501c734a5c3f5",
+    "e9fe672ddde1d8b6",
+    "7541a9db99cbc2bb",
+    "9f2be446c095f0a1",
+    "e48641d10b82e254",
+    "85641d472d57f7f9",
+    "ce1b77664472ed51",
+    "6e281a41e85f3263",
+    "ba0d8185a41290bd",
+    "08a3c4a46fbf4206",
+    "49f79bf21b1947b9",
+    "61f588dd8e1e2fb6",
+    "45918227cf27ae3d",
+    "1eefcdc4c3c4105e",
+    "896213efa76c2d4e",
+    "d3b39331b30e9c95",
+    "87bc0aead5dc014d",
+    "52b901877e70da28",
+    "6b689824d0753054",
+    "5af8950063c5b1eb",
+    "822d270de0a2c7e8",
+    "05c84375c4110843",
+    "6c2481f5497be35b",
+    "0278defb6e22fb47",
+    "e43722dc13012971",
+    "6d27d423aef4cef0",
+    "1782e410c8761b77",
+    "cb97f627dbece777",
+    "3048203965f7f8f6",
+    "51a31e37b4797877",
+    "7168dacb5fb4ed62",
+    "470ff8582518abc4",
+    "1d423f2d64f26583",
+    "13e0150c7f22c3c0",
+    "a58dbb9be47162ed",
+    "b5c5d8a86c316ac3",
+    "fa23fbd6b737aad2",
+    "77750a2a1c447fb4",
+    "a5e427e6aae6ea67",
+    "02c7dbef391ad463",
+    "ea76450e529c1d38",
+    "05c569b46b926506",
+    "90fb89b493f53e30",
+    "00710bed234109a4",
+    "b5c9c52b1cd73be0",
+    "1e8170751cdef055",
+    "40b378bafbb066eb",
+    "bcea4c12c6c8d375",
+    "555bba7e61ba2dc7",
+    "30d0d6c97d9715f9",
+    "41ac182c3df7b371",
+    "3642552c514a8a76",
+    "553eae8b73b900e3",
+    "9d4b0898ee49a7cd",
+    "4e39d6d2660b61ce",
+    "31883cba8b2345ef",
+    "8f33dcbedf19c897",
+    "63428af30f2b63e6",
+    "ac2753c0040c4c1d",
+    "6c37e34783d29b16",
+    "27eb3c33a1755eac",
+    "6c97fbedfa2e9d57",
+    "25581a1565df6aed",
+    "d6bae1f80078a177",
+    "8b8ff1aa1058c912",
+    "08bfe2ddee8c2cd6",
+    "6f8e7219fb66be7c",
+    "0f787e2735084901",
+    "a18c0757e3a374b4",
+    "b9862ecf11947e10",
+    "f033285393fb4ec0",
+    "cd82133b1defeb7f",
+    "c13eb4b754fb729d",
+    "7ba3cd939c775eec",
+    "3cb88120972f58df",
+    "8b2f348bd534c7f1",
+    "ed3393211e6d8f3e",
+    "1ba426f5857e6d62",
+    "dd18a9ad68d4b7f7",
+    "9f555529f76bcc31"
+   ]
+  },
+  {
+   "date": "2012-10-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175802:por",
+     "title": "Resolução do Conselho de Ministros n.º 80/2012",
+     "published": "2012-10-01",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/80-2012-175802"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — REGULAMENTO DO PLANO DE ORDENAMENTO DAS ALBUFEIRAS DE CABRIL, BOUÇA E SANTA LUZIA::47.º",
+    "Altera Artigo ANEXO — REGULAMENTO DO PLANO DE ORDENAMENTO DAS ALBUFEIRAS DE CABRIL, BOUÇA E SANTA LUZIA::55.º"
+   ],
+   "fragments": [
+    "9522e020edfb9e74",
+    "74d3e4b9f478a65f",
+    "23836370ae405d04",
+    "ceb8bedfe077f21e",
+    "28c1e6902f33cb84",
+    "12e82cb5927518d5",
+    "f7dbd9e974c0852c",
+    "c33c32afe7fbeb74",
+    "645cb042338f195f",
+    "8dad79cb6725aa4a",
+    "7e34873fdba7504c",
+    "b120aa9f167e48e4",
+    "fc417dc0aac067ae",
+    "f83501c734a5c3f5",
+    "e9fe672ddde1d8b6",
+    "7541a9db99cbc2bb",
+    "9f2be446c095f0a1",
+    "e48641d10b82e254",
+    "85641d472d57f7f9",
+    "ce1b77664472ed51",
+    "6e281a41e85f3263",
+    "ba0d8185a41290bd",
+    "08a3c4a46fbf4206",
+    "49f79bf21b1947b9",
+    "61f588dd8e1e2fb6",
+    "45918227cf27ae3d",
+    "1eefcdc4c3c4105e",
+    "896213efa76c2d4e",
+    "d3b39331b30e9c95",
+    "87bc0aead5dc014d",
+    "52b901877e70da28",
+    "6b689824d0753054",
+    "5af8950063c5b1eb",
+    "822d270de0a2c7e8",
+    "05c84375c4110843",
+    "6c2481f5497be35b",
+    "0278defb6e22fb47",
+    "e43722dc13012971",
+    "6d27d423aef4cef0",
+    "1782e410c8761b77",
+    "cb97f627dbece777",
+    "3048203965f7f8f6",
+    "51a31e37b4797877",
+    "7168dacb5fb4ed62",
+    "470ff8582518abc4",
+    "1d423f2d64f26583",
+    "13e0150c7f22c3c0",
+    "a58dbb9be47162ed",
+    "b5c5d8a86c316ac3",
+    "fa23fbd6b737aad2",
+    "77750a2a1c447fb4",
+    "a5e427e6aae6ea67",
+    "02c7dbef391ad463",
+    "ea76450e529c1d38",
+    "05c569b46b926506",
+    "90fb89b493f53e30",
+    "00710bed234109a4",
+    "b5c9c52b1cd73be0",
+    "1e8170751cdef055",
+    "40b378bafbb066eb",
+    "bcea4c12c6c8d375",
+    "555bba7e61ba2dc7",
+    "30d0d6c97d9715f9",
+    "c42a2d97558db385",
+    "3642552c514a8a76",
+    "553eae8b73b900e3",
+    "9d4b0898ee49a7cd",
+    "4e39d6d2660b61ce",
+    "31883cba8b2345ef",
+    "8f33dcbedf19c897",
+    "63428af30f2b63e6",
+    "ac2753c0040c4c1d",
+    "6c37e34783d29b16",
+    "775f6feccd11d066",
+    "6c97fbedfa2e9d57",
+    "25581a1565df6aed",
+    "d6bae1f80078a177",
+    "8b8ff1aa1058c912",
+    "08bfe2ddee8c2cd6",
+    "6f8e7219fb66be7c",
+    "0f787e2735084901",
+    "a18c0757e3a374b4",
+    "b9862ecf11947e10",
+    "f033285393fb4ec0",
+    "cd82133b1defeb7f",
+    "c13eb4b754fb729d",
+    "7ba3cd939c775eec",
+    "3cb88120972f58df",
+    "8b2f348bd534c7f1",
+    "ed3393211e6d8f3e",
+    "1ba426f5857e6d62",
+    "dd18a9ad68d4b7f7",
+    "9f555529f76bcc31"
+   ]
+  }
+ ],
+ "fragments": {
+  "9522e020edfb9e74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O território abrangido pelo Plano de Ordenamento das Albufeiras de Cabril, Bouça e Santa Luzia é caracterizado por uma grande riqueza paisagística dominada por floresta, ocorrendo pequenas manchas agrícolas, normalmente associadas às zonas de vale. As áreas sociais são dispersas e constituem essencialmente aglomerados rurais.\n\nA presença das albufeiras constitui um elemento de referência, responsável por gerar novas possibilidades de desenvolvimento. Nessa medida, o ordenamento dos planos de água e zonas envolventes procura conciliar a conservação dos valores ambientais e ecológicos, o uso público e o aproveitamento dos recursos através de uma abordagem integrada das potencialidades e das limitações do meio, com vista à definição de um modelo de desenvolvimento sustentável para o território.\n\nO Plano de Ordenamento das Albufeiras de Cabril, Bouça e Santa Luzia foi elaborado de acordo com os princípios definidos no [Decreto-Lei n.º 502/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1971-631657), de 18 de Novembro, e do disposto no [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, e no [Decreto Regulamentar n.º 37/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/37-1991-662300), de 23 de Julho, e ainda no [Decreto-Lei n.º 151/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1995-475371), de 24 de Junho.\n\nAtendendo a que o [Decreto-Lei n.º 151/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1995-475371), de 24 de Junho, foi entretanto revogado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, que aprovou o regime jurídico dos instrumentos de gestão territorial, a aprovação terá de ser feita ao seu abrigo.\n\nConsiderando o parecer final da comissão técnica de acompanhamento, na qual estiveram representadas as Câmaras Municipais de Pampilhosa da Serra, Sertã, Oleiros, Pedrógão Grande, Góis e Figueiró dos Vinhos, e ponderados os resultados do inquérito público que decorreu entre 20 de Março e 3 de Maio de 2000;\n\nConsiderando a necessidade urgente de existência de regras de uso e ocupação do solo que disciplinem a localização e realização de actividades nos planos de água e nas margens das albufeiras e as excepcionais condições e potencialidades paisagísticas e recreativas das áreas em causa que importa preservar;\n\nConsiderando o disposto no artigo 49.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro;\n\nNos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Aprovar o Plano de Ordenamento das Albufeiras de Cabril, Bouça e Santa Luzia (POACBSL), cujo Regulamento e respectivas plantas de síntese e de condicionantes são publicados em anexo à presente resolução, dela fazendo parte integrante.\n\n2 - Nas situações em que os planos municipais de ordenamento do território abrangidos não se conformem com as disposições do POACBSL, deve o respectivo plano municipal de ordenamento do território ser objecto das alterações a processar nos termos do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro.\n\n3 - Os originais das plantas referidas no n.º 1, bem como os demais elementos fundamentais que constituem o POACBSL, encontram-se disponíveis, para consulta, na Direcção Regional do Ambiente e do Ordenamento do Território - Centro e no Instituto da Água.\n\nPresidência do Conselho de Ministros, 7 de Fevereiro de 2002. - O Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "74d3e4b9f478a65f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — REGULAMENTO DO PLANO DE ORDENAMENTO DAS ALBUFEIRAS DE CABRIL, BOUÇA E SANTA LUZIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — REGULAMENTO DO PLANO DE ORDENAMENTO DAS ALBUFEIRAS DE CABRIL, BOUÇA E SANTA LUZIA\n\n(projecto do POA)"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "ceb8bedfe077f21e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento constitui o elemento normativo fundamental do Plano de Ordenamento das Albufeiras de Cabril, Bouça e Santa Luzia, adiante designado por POAC."
+  },
+  "28c1e6902f33cb84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Natureza e força vinculativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza e força vinculativa\n\n1 - O POAC é um plano especial de ordenamento do território, elaborado e aprovado de acordo com as regras constantes da [Lei n.º 48/98](https://diariodarepublica.pt/dr/detalhe/lei/48-1998-438067), de 11 de Agosto, e do [Decreto-Lei n.º 151/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1995-475371), de 24 de Junho, com as alterações introduzidas pela [Lei n.º 5/96](https://diariodarepublica.pt/dr/detalhe/lei/5-1996-621345), de 29 de Fevereiro.\n\n2 - As normas e princípios do POAC vinculam as entidades públicas, designadamente os órgãos e serviços da administração pública central, regional e local, à qual compete elaborar, aprovar, ratificar e executar planos, programas ou projectos e adoptar medidas com incidência sobre a ocupação, uso e transformação do solo.\n\n3 - As normas e princípios do POAC vinculam, ainda, os particulares.\n\n4 - Os planos municipais e intermunicipais de ordenamento do território que abranjam a área de intervenção devem conformar-se com as normas e princípios constantes do POAC, em particular, deverão ser revistos os planos municipais de ordenamento do território abrangidos pelas UOPG definidas neste PEOT no prazo de 18 meses, conforme indicado nos artigos 54.º a 65.º\n\n5 - São nulos os actos praticados em violação das normas e princípios constantes do POAC."
+  },
+  "12e82cb5927518d5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito territorial\n\nA área abrangida pelo POAC, adiante designada por área de intervenção, é aquela que se encontra delimitada na planta de síntese, abrangendo território dos municípios de Figueiró dos Vinhos, Góis, Oleiros, Pampilhosa da Serra, Pedrógão Grande e Sertã."
+  },
+  "f7dbd9e974c0852c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objectivos\n\nPara além dos objectivos gerais dos planos especiais de ordenamento do território, são objectivos específicos do POAC:\n\na) Definir regras para a utilização do plano de água e zona envolvente das albufeiras, por forma a salvaguardar a defesa e qualidade dos recursos naturais, em especial a água;\n\nb) Aplicar as disposições legais e regulamentares vigentes, quer do ponto de vista da gestão dos recursos hídricos quer do ponto de vista do ordenamento do território;\n\nc) Garantir a articulação com planos e programas de interesse local, regional e nacional;\n\nd) Compatibilizar os diferentes usos e actividades, existentes ou futuros, com a protecção e valorização ambiental e finalidades primárias das albufeiras, designadamente a produção de energia;\n\ne) Identificar, no plano de água, as áreas mais adequadas para a prática de actividades recreativas, prevendo as suas compatibilidades e complementaridades."
+  },
+  "c33c32afe7fbeb74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Composição\n\n1 - O POAC é constituído pelos seguintes elementos fundamentais:\n\na) Regulamento;\n\nb) Planta de síntese, à escala 1:25000;\n\nc) Planta actualizada de condicionantes, à escala 1:25000.\n\n2 - Integram ainda o Plano os seguintes elementos complementares:\n\na) Relatório;\n\nb) Programa de execução e plano de financiamento;\n\nc) Estudos de caracterização;\n\nd) Planta de enquadramento, à escala 1:350000."
+  },
+  "645cb042338f195f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Definições\n\nPara efeitos da aplicação do presente Regulamento, entende-se por:\n\n«Altura da construção» a dimensão vertical da construção medida a partir do ponto de cota média do terreno no alinhamento da fachada situada na parte mais baixa do terreno, até o ponto mais alto da construção, incluindo a cobertura, mas excluindo acessórios e elementos decorativos;\n\n«Ampliação» qualquer obra realizada numa construção existente de que resulte aumento de qualquer dos seguintes parâmetros de edificabilidade: número de pisos acima e abaixo da cota de soleira; área bruta de construção; área de implantação; cércea ou altura da construção;\n\n«Área bruta de construção» valor numérico, expresso em metros quadrados, resultante do somatório das áreas brutas de todos os pavimentos, acima e abaixo do solo, medida pelo extradorso das paredes exteriores, com exclusão de sótãos não habitáveis, garagens quando localizadas em cave, áreas técnicas (postos de transformação, central térmica, etc.) e de galerias exteriores públicas, arruamentos e outros espaços livres de uso público cobertos pela edificação;\n\n«Área bruta de implantação» valor numérico, expresso em metros quadrados, correspondente ao somatório das áreas resultantes da projecção no plano horizontal de todos os edifícios (residenciais e não residenciais), incluindo anexos, mas excluindo varandas e platibandas;\n\n«Capacidade de carga» número de utentes admitido, em simultâneo, para uma determinada zona, calculado nos termos do regulamento do POA ou definido em estudos e projectos específicos em função da dimensão dessa zona;\n\n«Demolição» corresponde a edificações actuais que vão deixar de existir pelo facto de a sua localização ser nociva e, simultaneamente, a função não justificar a sua existência, remodelação ou relocalização; são ainda contempladas as situações em que a precariedade e falta de qualidade do edifício justifique a sua demolição para viabilizar uma nova construção;\n\n«Espécies folhosas autóctones» árvores folhosas, caducas ou perenifólias, características das formações climácicas locais: castanheiro (Castanea sativa), carvalho-roble ou alvarinho (Quercus robur), sobreiro (Quercus suber), amieiro (Alnus glutinosa), freixo (Fraxinus angustifolia), salgueiro (Salix alba);\n\n«Habitação unifamiliar» o imóvel destinado a alojar apenas um agregado familiar, independentemente do número de pisos;\n\n«Índice de construção» (IC) quociente entre a área bruta de construção e a área da zona definida em plano municipal de ordenamento do território ou a área do prédio sujeito a operação de loteamento, no caso do índice de construção bruto, ou a área da parcela ou do lote, no caso do índice de construção líquido;\n\n«Índice de implantação» (II) quociente entre a área bruta de implantação da construção e a área da zona definida em plano municipal de ordenamento do território ou a área do prédio sujeito a operação de loteamento, no caso do índice de implantação bruto, ou a área da parcela ou do lote, no caso do índice de implantação líquido;\n\n«Manutenção» situações em que o edifício justifica funcional e fisicamente a sua existência, embora possa ser alvo de pequenas reparações e melhoramentos;\n\n«Número de pisos» número de pisos total da construção, com excepção de caves e sótãos não habitáveis, medido na fachada situada na parte mais baixa do terreno;\n\n«NPA» nível de pleno armazenamento da albufeira;\n\n«Operação de loteamento» toda a acção que tenha por objecto ou por efeito a divisão em lotes, qualquer que seja a sua dimensão, de um ou vários prédios, desde que pelo menos um dos lotes se destine imediata ou subsequentemente a construção urbana;\n\n«Plano de água» massa de água e respectivo leito;\n\n«Plano de pormenor» plano municipal de ordenamento do território definido com esta designação na legislação em vigor, podendo assumir características de salvaguarda e valorização quando tem como objectivo incentivar e enquadrar a conservação e revitalização de conjuntos ou núcleos históricos;\n\n«Praia fluvial» conjunto do plano de água ou curso de água e dos terrenos marginais onde poderão ter lugar diversas actividades recreativas complementares da actividade balnear;\n\n«Reconstrução» qualquer obra que consista em realizar de novo, total ou parcialmente, uma construção existente, no local de implantação ocupado por esta após a sua demolição total ou parcial;\n\n«Recreio balnear» conjunto de funções e actividades destinadas ao recreio físico e psíquico do homem, satisfazendo necessidades colectivas que se traduzem em actividades multiformes e modalidades múltiplas conexas com o meio aquático;\n\n«Remodelação» situações em que a existência do edifício se justifica num determinado local, embora este necessite de obras, ligeiras ou profundas, que tenham em vista a sua remodelação/reformulação ao nível estético e ou funcional; poderá corresponder a situações de adequabilidade a um novo uso ou, simplesmente, à exigência de uma melhor prestação ou uso actual;\n\n«Tratamento secundário» tratamento das águas residuais urbanas que envolve geralmente um tratamento biológico com decantação secundária;\n\n«Tratamento terciário» tratamento de efluentes, consistindo na desinfecção, tratamento para redução de sólidos em suspensão, nutrientes e compostos orgânicos refractários;\n\n«Unidades operativas de planeamento e gestão (UOPG)» classes de espaços de intervenção com uma planeada ou pressuposta coerência, os quais requerem uma abordagem integrada e de conjunto, com vista a estabelecer o respectivo ordenamento, identificar as áreas a sujeitar a um planeamento mais detalhado e a estabelecer princípios e regras para esse nível de planeamento."
+  },
+  "8dad79cb6725aa4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Interpretação dos elementos gráficos do plano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Interpretação dos elementos gráficos do plano\n\nOs elementos gráficos constantes da planta actualizada de condicionantes prevalecem sobre os elementos gráficos constantes da planta de síntese, excepto se os desta última forem mais restritivos."
+  },
+  "7e34873fdba7504c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Servidões administrativas e restrições de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Servidões administrativas e restrições de utilidade pública"
+  },
+  "b120aa9f167e48e4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Âmbito e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Âmbito e objectivos\n\n1 - Regem-se pelo disposto no presente capítulo e legislação aplicável as servidões administrativas e restrições de utilidade pública ao uso dos solos seguidamente identificadas:\n\na) Reserva Ecológica Nacional;\n\nb) Reserva Agrícola Nacional;\n\nc) Áreas florestais percorridas por incêndios;\n\nd) Montado de sobro;\n\ne) Zona reservada (50 m para além do NPA);\n\nf) Zona de protecção das albufeiras (500 m para além do NPA) - área de intervenção do POA;\n\ng) Protecção de captações de água para abastecimento público - captação terrestre com área de protecção próxima e com área de protecção à distância;\n\nh) Protecção das infra-estruturas básicas:\n\nRede eléctrica de alta tensão;\n\nRede eléctrica de média e baixa tensões;\n\ni) Protecção a vias de transportes e comunicações:\n\nEstrada nacional;\n\nEstada nacional desclassificada;\n\nEstrada municipal;\n\nj) Cartografia e planeamento - protecção a marcos geodésicos;\n\nl) Protecção a imóveis classificados - monumento nacional;\n\nm) Protecção a sítios arqueológicos;\n\nn) Área de respeito da barragem e dos órgãos de segurança e utilização das albufeiras;\n\no) Regime florestal;\n\np) Aproveitamento hidroagrícola de Malhada do Rei;\n\nq) Domínio hídrico.\n\n2 - As servidões administrativas e restrições de utilidade pública referidas no número anterior estão delimitadas na planta actualizada de condicionantes com grafismo e simbologia próprios, excepto se não cartografáveis decorrentes da aplicação do domínio hídrico."
+  },
+  "fc417dc0aac067ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Usos e construções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Usos e construções\n\n1 - O regime jurídico das áreas, locais ou bens imóveis a que se refere o artigo anterior é o que decorre da legislação em vigor.\n\n2 - Na zona reservada da albufeira (50 m para além do NPA) e sem prejuízo do disposto na legislação aplicável a cada caso, nomeadamente a relativa à Reserva Agrícola Nacional e à Reserva Ecológica Nacional, aplica-se o seguinte regime:\n\na) É interdita a construção de novos edifícios;\n\nb) Nas construções existentes e devidamente legalizadas são permitidas as seguintes obras:\n\n1) Numa faixa de 30 m a partir do NPA - obras de manutenção e remodelação, sem alteração da utilização existente;\n\n2) Numa faixa entre 30 m e 50 m a partir do NPA - obras de manutenção, remodelação, ampliação até um máximo de 30% da área de construção existente e reconstrução, não podendo em caso algum a área bruta de construção total resultante destas obras ser superior a 120 m2.\n\n3 - Nos terrenos objecto de servidões administrativas ou restrições de utilidade pública, os usos e construções que vierem a merecer parecer favorável das entidades competentes, nos termos da legislação aplicável, não dispensam o cumprimento obrigatório das regras constantes do presente Regulamento."
+  },
+  "f83501c734a5c3f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Zonamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Zonamento"
+  },
+  "e9fe672ddde1d8b6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições gerais"
+  },
+  "7541a9db99cbc2bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Classes e categorias de espaços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Classes e categorias de espaços\n\nO Plano institui, na área de intervenção, as seguintes classes e categorias de espaços, constantes da planta de síntese:\n\na) Plano de água da albufeira:\n\nEspaço de utilização livre;\n\nEspaço de utilização restrita;\n\nEspaço de protecção;\n\nb) Plano de água e zona terrestre adjacente:\n\nEspaço de recreio balnear;\n\nÁrea de respeito da barragem e dos órgãos de segurança e utilização da albufeira;\n\nc) Zona de protecção:\n\nEspaço urbano e urbanizável:\n\nEspaço urbano;\n\nEspaço urbanizável;\n\nEspaço urbanizável de vocação turística;\n\nEspaço verde urbano;\n\nEspaço não urbano:\n\nEspaço florestal;\n\nEspaço agrícola;\n\nEspaço natural."
+  },
+  "9f2be446c095f0a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Saneamento básico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Saneamento básico\n\n1 - Todos os aglomerados urbanos têm de ser dotados de sistemas eficazes de drenagem e tratamento de águas residuais.\n\n2 - As estações de tratamento de águas residuais (ETAR) e as respectivas descargas, em fase líquida, na área abrangida pelo Plano, estão, sem prejuízo do regime legal aplicável, sujeitas ao cumprimento das seguintes condições:\n\na) Nos casos em que o efluente final é lançado directamente na albufeira, a ETAR assegurará o tratamento a nível terciário;\n\nb) Nos casos em que o efluente final é lançado numa linha de água afluente à albufeira, a ETAR assegurará o tratamento a nível secundário, desde que o ponto de descarga do efluente se situe a uma distância que garanta uma autodepuração suficiente previamente à chegada à albufeira;\n\nc) As ETAR devem ser inspeccionadas com regularidade, com vista a verificar se o seu funcionamento e manutenção asseguram que o efluente final apresente uma qualidade compatível com o estipulado na legislação em vigor.\n\n3 - As construções e actividades susceptíveis de produzirem efluentes que sejam lançados nas albufeiras devem ser obrigatoriamente ligadas aos sistemas de drenagem municipal ou, caso tal não seja viável, ser dotadas de sistemas de tratamento eficazes, nos termos da legislação em vigor.\n\n4 - Os estabelecimentos industriais, ligados aos sistemas de drenagem municipal, relativamente aos quais se verifique que o efluente não é compatível devem proceder ao tratamento do mesmo, previamente ao seu lançamento no sistema em causa.\n\n5 - O disposto nos números anteriores aplica-se também às instalações aí referidas, mesmo que situadas fora da área de intervenção do POAC, desde que os efluentes produzidos sejam lançados em linhas de água afluentes das albufeiras."
+  },
+  "e48641d10b82e254": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Recolha e tratamento de resíduos sólidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Recolha e tratamento de resíduos sólidos\n\n1 - Todos os aglomerados urbanos situados na área de intervenção do POAC serão servidos por sistema de recolha de resíduos sólidos em que o destino final seja adequado, excluindo-se a sua deposição em lixeiras.\n\n2 - No prazo máximo de dois anos após a entrada em vigor do POAC, as lixeiras existentes e assinaladas na planta de síntese como lixeiras a selar serão convenientemente seladas e os lixiviados produzidos serão drenados e tratados, proibindo-se sempre o seu lançamento nas albufeiras, mesmo após o seu tratamento."
+  },
+  "85641d472d57f7f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Rede viária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Rede viária\n\n1 - Integram a rede rodoviária as seguintes vias, que se encontram representadas graficamente na planta de síntese, à escala 1:25000:\n\na) Na rede nacional, os itinerários complementares (IC), as estradas nacionais e as estradas regionais;\n\nb) Na rede municipal, as estradas municipais (EM) e os caminhos municipais (CM).\n\n2 - O regime de protecção de cada via é o que decorre da legislação em vigor para cada categoria.\n\n3 - Nos troços pertencentes a estradas nacionais a desclassificar, após a sua efectiva entrega à jurisdição da autarquia, manter-se-á em vigor o regime de protecções existentes à data da desclassificação."
+  },
+  "ce1b77664472ed51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Acessos ao plano de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acessos ao plano de água\n\n1 - Os acessos ao plano de água encontram-se representados graficamente na planta de síntese, à escala 1:25000, e classificam-se em:\n\na) Percursos de interesse paisagístico, que são trajectos a que se reconhece elevado valor paisagístico e potenciais funções recreativas e ou culturais, podendo, consoante os casos, classificarem-se em pedonais, equestres, cicloturísticos ou para veículos motorizados;\n\nb) Percursos de acesso ao plano de água, que estabelecem a ligação ao plano de água e às principais infra-estruturas turísticas e recreativas;\n\nc) Pontos secundários de acesso ao plano de água, que são pontos de acesso àquele plano localizados em zonas mais reservadas e que apresentam interesse para a actividade piscatória, para o recreio balnear e, principalmente, para a estrutura de prevenção e combate aos incêndios florestais.\n\n2 - As indicações constantes da planta de síntese para os acessos ao plano de água são indicativas e servem de orientação para a elaboração de estudos ou projectos de maior detalhe.\n\n3 - Na construção das estruturas de acesso ao plano de água, nomeadamente escadas e rampas de acesso, serão tidas em conta as seguintes orientações:\n\na) Os materiais a empregar deverão ser, sempre que possível, a pedra natural ou saibros da região ou madeira devidamente tratada para uso exterior;\n\nb) Deverão respeitar-se zonas de acesso que minimizem as alterações de relevo e uso do solo;\n\nc) Deverá ser feito o seu enquadramento paisagístico com espécies vegetais autóctones ou tradicionais da região;\n\nd) Pavimentos antiderrapantes;\n\ne) As rampas de acesso devem ter características de inclinação, largura e comprimento adaptadas às variações do nível da albufeira.\n\n4 - Os percursos de acesso ao plano de água devem ser pavimentados de forma a permitir a circulação simultânea nos dois sentidos de veículos automóveis e de atrelados com embarcações.\n\n5 - Os pontos secundários de acesso ao plano de água devem ser melhorados e sinalizados.\n\n6 - Os parques de estacionamento automóvel devem ser localizados fora da zona reservada da albufeira (50 m a partir do NPA)."
+  },
+  "6e281a41e85f3263": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Sinalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sinalização\n\nA competência para proceder à colocação da sinalização, quer no plano de água quer na zona de protecção da área abrangida pelo POAC, é da Direcção Regional do Ambiente e do Ordenamento do Território - Centro (DRAOTC), com a colaboração do Instituto da Água (INAG) e demais entidades."
+  },
+  "ba0d8185a41290bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Plano de água da albufeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Plano de água da albufeira"
+  },
+  "08a3c4a46fbf4206": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Espaço de utilização livre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Espaço de utilização livre"
+  },
+  "49f79bf21b1947b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Noção\n\n1 - O espaço de utilização livre corresponde às zonas do plano de água da albufeira que, não possuindo vocação específica, permitem, pelas suas dimensões e características, a respectiva utilização para fins recreativos.\n\n2 - Constitui objectivo de ordenamento deste espaço a possibilidade de utilização recreativa do plano de água como elemento de diversidade da oferta turística e lúdica da região."
+  },
+  "61f588dd8e1e2fb6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Navegação de embarcações de recreio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Navegação de embarcações de recreio\n\n1 - É permitida a navegação de embarcações de recreio, desde que não existam perigos para a mesma devidamente assinalados.\n\n2 - Na navegação de embarcações a motor devem ser cumpridas, para além das constantes do Regulamento da Navegação em Albufeiras, as seguintes regras:\n\na) Utilização exclusiva de óleos biodegradáveis, com as características previstas na legislação em vigor;\n\nb) Circulação a uma velocidade máxima de 30 km/h;\n\nc) Potência máxima de motor de 110 kW.\n\n3 - Numa faixa de 50 m ao longo de toda a margem da albufeira, as embarcações só poderão navegar em velocidade reduzida e entrar e sair do plano de água na direcção perpendicular à margem e nos locais específicos para tal.\n\n4 - É permitida a prática de desportos que envolvam a utilização de embarcações de recreio, desde que da mesma não resultem prejuízos para pessoas e bens.\n\n5 - A realização de competições desportivas que envolvam embarcações de recreio carece de prévia autorização da DRAOTC.\n\n6 - A utilização de motas de água apenas é permitida na albufeira do Cabril, com excepção de uma faixa de 800 m contados da zona de protecção aos órgãos da barragem, para montante."
+  },
+  "45918227cf27ae3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Espaço de utilização restrita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Espaço de utilização restrita"
+  },
+  "1eefcdc4c3c4105e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Noção\n\n1 - O espaço de utilização restrita inclui as zonas do plano de água que, pelas suas características e dimensões, não aconselham a respectiva utilização para fins recreativos, embora não determine a interdição total da mesma.\n\n2 - Constitui objectivo de ordenamento deste espaço assegurar níveis de segurança elevados na utilização do plano de água, compatibilizando-os com algumas ligações ou percursos de navegação a velocidade reduzida."
+  },
+  "896213efa76c2d4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Navegação de embarcações de recreio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Navegação de embarcações de recreio\n\n1 - Na navegação de embarcações a motor devem ser cumpridas, para além das constantes do Regulamento da Navegação em Albufeiras, as seguintes regras:\n\na) Utilização exclusiva de óleos biodegradáveis;\n\nb) Circulação a uma velocidade máxima de 5 km/h.\n\n2 - As manobras de entrada e saída do plano de água devem ser efectuadas na direcção perpendicular à margem e nos locais específicos para tal.\n\n3 - É interdita a utilização de motas de água."
+  },
+  "d3b39331b30e9c95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Espaço de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Espaço de protecção"
+  },
+  "87bc0aead5dc014d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Noção\n\n1 - O espaço de protecção corresponde a zonas nas quais as características ecológicas e as dimensões do plano de água não permitem a utilização de embarcações, salvo as necessárias para fins de segurança ou manutenção, definidos pelas entidades públicas responsáveis pela exploração ou manutenção da barragem ou do plano de água.\n\n2 - Constituem objectivos de ordenamento deste espaço a preservação das características ecológicas de zonas estreitas ou sensíveis do plano de água bem como a manutenção de níveis de segurança elevados na utilização do plano de água."
+  },
+  "52b901877e70da28": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Utilizações proibidas e condicionadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Utilizações proibidas e condicionadas\n\n1 - Neste espaço é interdita a navegação de qualquer tipo de embarcações, com excepção:\n\na) Das embarcações de segurança, fiscalização ou de manutenção;\n\nb) Das embarcações de recreio ou pesca sem motor ou movidas a motor eléctrico, desde que circulem a uma velocidade inferior a 5 km/h.\n\n2 - São ainda proibidos:\n\na) A realização de quaisquer competições desportivas;\n\nb) A construção de embarcadouros ou a instalação de pontos de amarração para embarcações de qualquer tipo;\n\nc) Quaisquer outros actos ou actividades susceptíveis de prejudicar, de forma grave, a tranquilidade e as condições de abrigo, alimentação ou reprodução da fauna selvagem;\n\nd) A utilização de motas de água."
+  },
+  "6b689824d0753054": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Plano de água e zona terrestre adjacente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Plano de água e zona terrestre adjacente"
+  },
+  "5af8950063c5b1eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Espaço de recreio balnear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Espaço de recreio balnear"
+  },
+  "822d270de0a2c7e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Noção\n\n1 - Este espaço, integrado pelas praias fluviais, abrange as zonas que, do ponto de vista ambiental e paisagístico, são indicadas para a prática de actividades relacionadas com o recreio balnear, principalmente para banhos e natação.\n\n2 - Constituem objectivos de ordenamento deste espaço assegurar a manutenção e ou valorização das condições de qualidade ambiental e de segurança do espaço em causa e, ao mesmo tempo, criar condições para a sua utilização com área destinada a recreio das populações a funcionar como pólo de atracção turística."
+  },
+  "05c84375c4110843": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Categorias\n\n1 - O espaço de recreio balnear engloba as seguintes categorias de praias fluviais - praia fluvial do tipo I e praia fluvial do tipo II, assinaladas na planta de síntese.\n\n2 - A praia fluvial do tipo I, também designada por praia urbana, caracteriza-se pela sua localização junto a uma área dotada de infra-estruturas.\n\n3 - A praia fluvial do tipo II, também designada por praia rural, caracteriza-se pela sua localização junto a áreas agrícolas ou rurais."
+  },
+  "6c2481f5497be35b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Infra-estruturas e equipamentos obrigatórios e facultativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Infra-estruturas e equipamentos obrigatórios e facultativos\n\n1 - Nas praias fluviais do tipo I e do tipo II é obrigatória a existência de instalações sanitárias, posto de socorros, comunicações de emergência, rede de infra-estruturas (água, esgotos e electricidade), acesso viário e pedonal, parque de estacionamento, assistência a banhistas e recolha de lixos.\n\n2 - Nas praias fluviais do tipo I e do tipo II é facultativa a existência de balneários, armazéns, restaurante, esplanada, alimentos pré-confeccionados e telefone público.\n\n3 - Os placares informativos, placas de sinalização, postos de vigilância, postos de praia, guardas de protecção, vedações, mesas, bancos e caixotes do lixo serão construídos em madeira devidamente tratada e acabada a verniz marítimo na cor natural, com as ferragens e tirantes acabados a tinta de esmalte preto.\n\n4 - As restantes construções utilizarão a madeira ou a alvenaria em pedra seca exteriormente forrada a madeira devidamente tratada e acabada a verniz marítimo na cor natural; a cobertura será em lousa ou telha de barro da região; as caixilharias, em madeira com igual tratamento e acabamento do forro exterior.\n\n5 - Os arranjos exteriores e os parques de estacionamento utilizarão materiais permeáveis ou semipermeáveis."
+  },
+  "0278defb6e22fb47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Actividades permitidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Actividades permitidas\n\n1 - Não são permitidas quaisquer actividades incompatíveis com o uso de recreio balnear principal, designadamente a navegação a motor, a prática de qualquer forma de desporto motorizado, a pesca, a descarga de efluentes de qualquer natureza ou quaisquer outras actividades susceptíveis de degradar a qualidade da água.\n\n2 - Exceptuam-se do disposto no número anterior a navegação de embarcações de vigilância e socorro.\n\n3 - As embarcações tipo gaivota apenas podem utilizar estas áreas para aceder ou partir da margem, devendo ser demarcado um «corredor» próprio para esse efeito."
+  },
+  "e43722dc13012971": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Sinalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Sinalização\n\nO espaço de recreio balnear deve ser devidamente sinalizado e demarcado no plano de água associado à praia."
+  },
+  "6d27d423aef4cef0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Jangadas e piscinas flutuantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Jangadas e piscinas flutuantes\n\n1 - Neste espaço é permitida a instalação de jangadas e piscinas flutuantes, destinadas a criar condições de animação turística, desde que se destinem à utilização pelo público, pelos utentes dos estabelecimentos turísticos ou pelos utilizadores das infra-estruturas e ou equipamentos pertencentes aos concessionários de usos privativos.\n\n2 - A instalação das jangadas e piscinas flutuantes depende de licenciamento a conceder pela DRAOTC, nos termos do [Decreto-Lei n.º 46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806), de 22 de Fevereiro.\n\n3 - A construção e a instalação das jangadas e piscinas flutuantes devem cumprir os seguintes requisitos:\n\na) Devem pertencer ao concessionário do espaço de praia ou às autarquias respectivas;\n\nb) A sua área não poderá ultrapassar 150 m2, para as jangadas, ou 800 m2, para as piscinas flutuantes;\n\nc) Não devem estar afastadas da margem mais próxima mais de 20 m, salvo em situações excepcionais devidamente justificadas;\n\nd) Não podem constituir perigo para banhistas, embarcações ou para a prática de quaisquer outras actividades permitidas;\n\ne) Devem ser constituídas por estruturas ligeiras que possam ser facilmente removidas;\n\nf) Devem ser mantidas em bom estado de conservação, podendo ser ordenada a sua remoção nos casos em que tal não se verifique;\n\ng) Os materiais a utilizar devem ser de boa qualidade e de baixa reflexão solar."
+  },
+  "1782e410c8761b77": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Usos privativos do domínio hídrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Usos privativos do domínio hídrico\n\n1 - A utilização do domínio hídrico no espaço de recreio balnear pode ser objecto de utilização privativa, titulada por licença, nos termos da lei.\n\n2 - O titular da licença fica obrigado à instalação e manutenção das seguintes estruturas:\n\na) Instalações sanitárias devidamente dimensionadas;\n\nb) Posto de primeiros socorros, posto de vigia e material de salvamento que for determinado;\n\nc) Comunicações de emergência.\n\n3 - O titular da licença é ainda responsável por:\n\na) Dispor do pessoal necessário e devidamente habilitado a prestar serviço de assistência a banhistas durante a época balnear;\n\nb) Afixar em locais bem visíveis os editais respeitantes aos regulamentos de interesse para os utentes;\n\nc) Comunicar às entidades competentes qualquer alteração na qualidade do ambiente ou qualquer infracção ao presente Regulamento;\n\nd) Manter limpa a área concessionada;\n\ne) Cumprir as outras obrigações determinadas pela licença, nomeadamente o controlo da qualidade da água para uso balnear."
+  },
+  "cb97f627dbece777": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Área de respeito da barragem e dos órgãos de segurança e utilização da albufeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Área de respeito da barragem e dos órgãos de segurança e utilização da albufeira"
+  },
+  "3048203965f7f8f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Noção\n\n1 - Esta área é a que foi, como tal, definida pela entidade competente, encontrando-se demarcada na planta de síntese.\n\n2 - Constituem objectivos de ordenamento desta área a preservação da segurança da utilização do plano de água e o funcionamento correcto dos órgãos da barragem.\n\n3 - Esta área deverá ser sinalizada, nos termos do artigo 15.º"
+  },
+  "51a31e37b4797877": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Utilizações proibidas e condicionadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Utilizações proibidas e condicionadas\n\n1 - Neste espaço é interdita a navegação de qualquer tipo de embarcações, com excepção das embarcações de segurança ou de manutenção, bem como as actividades de banhos e natação e a pesca.\n\n2 - Este espaço é de edificação proibida, com excepção das construções necessárias ao funcionamento da barragem."
+  },
+  "7168dacb5fb4ed62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Zona de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Zona de protecção"
+  },
+  "470ff8582518abc4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Disposições gerais"
+  },
+  "1d423f2d64f26583": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Proibições genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Proibições genéricas\n\n1 - São proibidas, nos termos da legislação em vigor, as seguintes actividades:\n\na) O estabelecimento de indústrias que produzam ou usem produtos químicos tóxicos ou com elevados teores de fósforo e azoto;\n\nb) A instalação de explorações pecuárias;\n\nc) O armazenamento de pesticidas e de adubos orgânicos ou químicos, com excepção dos destinados a consumo na exploração, desde que sob coberto e em piso impermeabilizado;\n\nd) O emprego de pesticidas e adubos químicos azotados ou fosfatados, nos casos que impliquem risco de contaminação da água destinada ao abastecimento da população ou de eutrofização da albufeira;\n\ne) O lançamento de excedentes de pesticidas ou de caldas pesticidas e de águas de lavagem com uso de detergentes;\n\nf) A descarga ou infiltração no terreno de esgotos de qualquer natureza, não devidamente tratados e, mesmo tratados, quando seja viável o seu lançamento a jusante da albufeira ou quando excedam determinados valores, a fixar pelos serviços competentes, além de outros parâmetros, dos teores de fósforo, azoto, carbono, mercúrio e outros metais pesados (como o chumbo e o cádmio) e pesticidas.\n\n2 - São ainda proibidas todas as actividades que aumentem, de forma significativa, a erosão do solo e o transporte sólido para a albufeira, nomeadamente:\n\na) A mobilização do solo das encostas adjacentes segundo a linha de maior declive;\n\nb) A constituição de depósitos de terras soltas em áreas declivosas e sem dispositivos que evitem o seu arraste."
+  },
+  "13e0150c7f22c3c0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Licenciamento de construções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Licenciamento de construções\n\n1 - O licenciamento de construções depende do cumprimento das regras constantes do presente Regulamento.\n\n2 - É obrigatória a arborização e tratamento paisagístico adequado nas áreas envolventes de novas construções, a executar de acordo com projecto realizado para o efeito, com vista ao enquadramento paisagístico, à estabilização de terras, à redução dos impactos visuais negativos, bem como à manutenção do coberto vegetal e da arborização existentes nas áreas envolventes.\n\n3 - No decurso dos trabalhos de construção devem ser tomadas as medidas cautelares necessárias para minimizar as perturbações ambientais e reduzir os impactos negativos correspondentes."
+  },
+  "a58dbb9be47162ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Espaços urbanos e urbanizáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Espaços urbanos e urbanizáveis"
+  },
+  "b5c5d8a86c316ac3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Espaço urbano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Espaço urbano\n\n1 - O espaço urbano caracteriza-se pelo elevado nível de infra-estruturação e concentração de edificações, onde o solo se destina predominantemente à construção.\n\n2 - O espaço urbano está sujeito aos seguintes condicionamentos:\n\na) As construções novas devem integrar-se harmoniosamente no tecido urbano construído, mantendo as características de alinhamento, cércea, volumetria e ocupação do lote tradicionais do aglomerado em que se inserem;\n\nb) Nas construções existentes são permitidas obras de ampliação, manutenção e remodelação, aplicando-se em relação a estas obras o disposto na alínea a)."
+  },
+  "fa23fbd6b737aad2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Espaço urbanizável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Espaço urbanizável\n\n1 - O espaço urbanizável é constituído pelas áreas que, não possuindo ainda as características de espaço urbano, se prevê que as venham a adquirir.\n\n2 - O espaço urbanizável está sujeito aos seguintes condicionamentos:\n\na) O índice de implantação bruto máximo é de 0,50;\n\nb) O índice de construção bruto máximo é de 1;\n\nc) A área bruta de construção máxima para habitação unifamiliar é de 300 m2;\n\nd) A altura máxima, com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, é de 10 m;\n\ne) O número máximo de pisos é de dois;\n\nf) Nas construções existentes são permitidas obras de manutenção, remodelação e ampliação.\n\n3 - As características arquitectónicas das construções obedecem às seguintes regras:\n\na) Os materiais a utilizar nos paramentos das fachadas são a pedra da região, o reboco liso ou a madeira tratada;\n\nb) No revestimento exterior das fachadas dos edifícios é proibida a aplicação de rebocos e tintas texturadas, denominadas «roscone», materiais cerâmicos ou azulejos, marmorites, imitações de pedra ou tintas marmoritadas, aglomerados e outros materiais sintéticos, rebocos de cimento à vista, rebocos a imitar a textura de cantarias ou a de outros materiais de construção;\n\nc) As cores a utilizar nas fachadas, para além dos materiais naturais, designadamente a pedra, serão baseadas nas cores de aplicação na arquitectura tradicional da região;\n\nd) As caixilharias são em madeira, ferro pintado ou alumínio termolacado, sendo proibida a utilização de alumínio anodizado de cor natural ou cor bronze, PVC e outros materiais plásticos do mesmo tipo;\n\ne) As guardas de varandas, sacadas e escadas, bem como os portões, são em madeira tratada ou ferro pintado;\n\nf) A inclinação das coberturas não pode ultrapassar 36%;\n\ng) Não são permitidas coberturas em terraço, com excepção de áreas em que tal solução se justifique por razões técnicas e que nunca excederão 20% da área da cobertura total do edifício;\n\nh) Os telhados são revestidos preferencialmente em telha cerâmica da região em cor natural ou em pedra da região, sendo expressamente proibida, nas superfícies visíveis, a utilização de fibrocimento, chapa ondulada e telha de cor diferente ou vidrada."
+  },
+  "77750a2a1c447fb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Espaço urbanizável de vocação turística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Espaço urbanizável de vocação turística\n\n1 - O espaço urbanizável de vocação turística é constituído pelas áreas onde se prevê que a respectiva urbanização tenha como finalidade principal a ocupação turística ou de segunda habitação.\n\n2 - As condições de ocupação do espaço urbanizável de vocação turística são as estabelecidas em planos de pormenor, os quais estão sujeitos às seguintes regras:\n\na) O índice de implantação bruto máximo é de 0,08;\n\nb) O índice de construção bruto máximo é de 0,12;\n\nc) O número máximo de pisos é de dois, com excepção das unidades hoteleiras, em que é de três;\n\nd) Constituem excepção ao disposto nas alíneas c) e d) os silos, depósitos de água ou instalações especiais devidamente justificadas;\n\ne) Nas construções existentes são permitidas obras de manutenção, remodelação e ampliação.\n\n3 - As características arquitectónicas das construções obedecem ao disposto no n.º 3 do artigo 34.º"
+  },
+  "a5e427e6aae6ea67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Espaço verde urbano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Espaço verde urbano\n\n1 - O espaço verde urbano é um espaço integrado na estrutura urbana onde predomina a presença da natureza.\n\n2 - O espaço verde urbano é de edificação proibida, com excepção de construções cuja finalidade se integre nos programas de animação, recreio e de lazer constituídos ou a constituir nestes espaços."
+  },
+  "02c7dbef391ad463": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Aglomerados urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Aglomerados urbanos\n\n1 - Os espaços urbano, urbanizável, urbanizável de vocação turística e verde urbano constituem aglomerados urbanos, delimitados por um perímetro urbano.\n\n2 - Os aglomerados urbanos encontram-se representados na planta de síntese."
+  },
+  "ea76450e529c1d38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Espaços não urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Espaços não urbanos\n\nEspaços agrícolas"
+  },
+  "05c569b46b926506": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Noção\n\n1 - Os espaços agrícolas são aqueles espaços que correspondem a áreas com características pedológicas e topográficas adequadas à actividade agrícola, incluindo as zonas de solos classificados como Reserva Agrícola Nacional.\n\n2 - Os espaços agrícolas classificam-se em espaços agrícolas de produção e espaço de uso ou aptidão agrícola."
+  },
+  "90fb89b493f53e30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Espaço agrícola de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Espaço agrícola de produção\n\n1 - O espaço agrícola de produção correspondente às zonas incluídas na Reserva Agrícola Nacional, que inclui a área de aproveitamento agrícola da Malhada do Rei.\n\n2 - Constituem objectivos de ordenamento deste espaço a manutenção dos usos agrícolas e a salvaguarda da capacidade produtiva máxima dos solos nele integrados.\n\n3 - Se, ao abrigo do regime legal referido no n.º 1, em espaço agrícola de produção coincidente com a zona reservada da albufeira for modificada a utilização do solo para o uso florestal, aplicam-se as regras dos espaços florestais de protecção."
+  },
+  "00710bed234109a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Espaço de uso ou aptidão agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Espaço de uso ou aptidão agrícola\n\n1 - O espaço de uso ou aptidão agrícola corresponde às zonas que, embora não incluídas na Reserva Agrícola Nacional, têm uso ou aptidão para produção agrícola, a manter ou potenciar.\n\n2 - Constituem objectivos de ordenamento deste espaço a manutenção de um tecido agrícola produtivo, quer em áreas que já detêm essa função quer noutras áreas, do tipo «área social rural», que dispõem de um tipo de agricultura complementar à edificação, a conservação do recurso solo, mantendo um uso agrícola existente em áreas com aptidão agrícola, a diversificação paisagística e a manutenção do mosaico de paisagem através da preservação e privilégio do uso agrícola.\n\n3 - Se, em área incluída em espaço de uso ou aptidão agrícola coincidente com a zona reservada da albufeira, for modificada a utilização do solo para o uso florestal, aplicam-se as regras dos espaços florestais de protecção."
+  },
+  "b5c9c52b1cd73be0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Regime de edificabilidade dos espaços agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Regime de edificabilidade dos espaços agrícolas\n\n1 - Sem prejuízo do disposto na legislação aplicável a cada caso, nomeadamente a relativa à Reserva Agrícola Nacional e à Reserva Ecológica Nacional, a câmara municipal poderá autorizar a edificação com as seguintes finalidades:\n\na) Habitação;\n\nb) Anexos agrícolas.\n\n2 - As construções permitidas nos termos do disposto neste artigo estão sujeitas aos seguintes condicionamentos:\n\na) O acesso pavimentado, o abastecimento de água, a drenagem e tratamento de esgotos e o abastecimento de energia eléctrica devem ser assegurados por sistema autónomo;\n\nb) A parcela constitua uma unidade registral e matricial ou cadastral e tenha a área mínima de 3000 m2;\n\nc) A altura máxima, com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, é de 10 m;\n\nd) O número máximo de pisos é de dois;\n\ne) O índice de construção máximo é de 0,05;\n\nf) A área bruta de construção máxima é de 200 m2, podendo ir até 300 m2 se incluir anexos agrícolas.\n\n3 - Nas construções existentes são permitidas obras de manutenção, remodelação e ampliação, desde que cumpram as condições constantes nas alíneas c), d), e) e f) do n.º 2.\n\nEspaços florestais"
+  },
+  "1e8170751cdef055": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Noção\n\n1 - Os espaços florestais são aqueles espaços onde predomina a vocação de acordo com a aptidão dos solos ou uso florestal a manter, compreendendo as funções normalmente definidas como de produção e de protecção.\n\n2 - Os espaços florestais classificam-se em espaços florestais de produção, espaços florestais de produção condicionada e espaços florestais de protecção."
+  },
+  "40b378bafbb066eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Espaços florestais de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Espaços florestais de produção\n\n1 - O espaço florestal de produção corresponde a zonas, não inseridas na Reserva Ecológica Nacional, ocupadas por povoamentos florestais dominados por pinheiro-bravo ou eucalipto e com fins de exploração intensiva.\n\n2 - Constituem objectivos de ordenamento para este espaço a potenciação ou a manutenção da exploração florestal.\n\n3 - As manchas arborizadas com resinosas e eucaliptos não podem exceder 100 ha sem que sejam cantonadas por faixas de folhosas, nomeadamente ao longo das linhas de água.\n\n4 - É interdita a introdução de infestantes arbóreas ou arbustivas (Pittosporum, Acacia, Hakea, Ailhanthus), sem prejuízo do cumprimento do [Decreto-Lei n.º 565/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/565-1999-661769), de 21 de Dezembro.\n\n5 - Sem prejuízo do disposto na legislação aplicável a cada caso, nomeadamente a relativa à Reserva Agrícola Nacional e à Reserva Ecológica Nacional, a câmara municipal poderá autorizar a edificação com as seguintes finalidades:\n\na) Habitação;\n\nb) Anexos agro-florestais;\n\nc) Empreendimentos turísticos destinados ao «turismo em espaço rural».\n\n6 - As construções permitidas nos termos do disposto neste artigo estão sujeitas aos seguintes condicionamentos:\n\na) O acesso pavimentado, o abastecimento de água, a drenagem e tratamento de esgotos e o abastecimento de energia eléctrica devem ser assegurados por sistema autónomo;\n\nb) A parcela constitua uma unidade registral e matricial ou cadastral e tenha a área mínima de 5000 m2, com excepção da zona envolvente da barragem de Santa Luzia, em que essa área mínima é de 30000 m2;\n\nc) A altura máxima, com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, é de 10 m;\n\nd) O número máximo de pisos é de dois;\n\ne) O índice de construção máximo é de 0,05;\n\nf) A área bruta de construção máxima é de 250 m2, podendo ir até 400 m2, se incluir anexos agro-florestais ou empreendimentos turísticos destinados ao «turismo em espaço rural».\n\n7 - Nas construções existentes são permitidas obras de manutenção, remodelação e ampliação, desde que cumpram as condições constantes nas alíneas c), d), e) e f) do n.º 6."
+  },
+  "bcea4c12c6c8d375": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º — Espaço florestal de produção condicionada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Espaço florestal de produção condicionada\n\n1 - O espaço florestal de produção condicionada corresponde a zonas, integradas na Reserva Ecológica Nacional, ocupadas por povoamentos florestais dominados por pinheiro-bravo e eucalipto e com fins de exploração intensiva.\n\n2 - Constituem objectivos de ordenamento para este espaço, sem prejuízo do disposto na demais legislação aplicável, a exploração florestal de bens e serviços associados a estes espaços, devendo ser promovida a biodiversidade, nomeadamente através do aumento gradual da área ocupada por espécies folhosas autóctones, conforme estabelecido no n.º 4.\n\n3 - As manchas arborizadas com resinosas e eucaliptos não podem exceder 100 ha sem que sejam cantonadas por faixas de folhosas, nomeadamente ao longo das linhas de água.\n\n4 - As espécies folhosas autóctones constituem pelo menos 30% dos novos povoamentos e devem ser instaladas em faixas, em manchas, ou ao longo da rede divisional e das linhas de água.\n\n5 - É interdita a introdução de infestantes arbóreas ou arbustivas (Pittosporum, Acacia, Hakea e Ailhanthus), sem prejuízo do cumprimento do [Decreto-Lei n.º 565/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/565-1999-661769), de 21 de Dezembro."
+  },
+  "555bba7e61ba2dc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º — Espaço florestal de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Espaço florestal de protecção\n\n1 - Os espaços florestais de protecção correspondem a zonas já assim classificadas nos PDM em vigor para a área de intervenção do POAC, bem como a zonas com uso ou aptidão florestal inseridas na zona reservada da albufeira, demarcada na planta actualizada de condicionantes.\n\n2 - Constituem objectivos de ordenamento destes espaços a preservação e a regeneração natural do coberto vegetal, a protecção dos escarpados e a minimização dos processos erosivos nas faixas adjacentes ao plano de água.\n\n3 - As manchas arborizadas com resinosa e eucaliptos não podem exceder 100 ha sem que sejam compartimentadas por faixas de folhosas autóctones, especialmente ao longo das linhas de água.\n\n4 - É interdita a introdução de infestantes arbóreas ou arbustivas (Pittosporum, Acacia, Hakea, Ailhanthus).\n\n5 - A exploração nas parcelas de produção deve ser devidamente escalonada no espaço e no tempo, utilizando o método de regeneração mais adequado às espécies e ao local, em função do declive e da natureza do solo, de acordo com a legislação em vigor sobre a matéria.\n\n6 - É interdita a construção de novos edifícios.\n\n7 - Nas construções existentes situadas na zona reservada aplica-se o n.º 2 do artigo 9.º\n\n8 - Nas construções existentes fora da zona reservada são permitidas obras de manutenção, remodelação, ampliação até um máximo de 30% da área de construção existente e reconstrução, não podendo em caso algum a área bruta de construção total resultante destas obras ser superior a 120 m2, sem prejuízo do disposto na legislação aplicável a cada caso, nomeadamente a relativa à Reserva Agrícola Nacional e à Reserva Ecológica Nacional.\n\nEspaços naturais"
+  },
+  "30d0d6c97d9715f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Noção\n\n1 - Os espaços naturais são aqueles espaços que correspondem às áreas e ecossistemas de maior valor paisagístico ou ecológico que devem ser preservados ou valorizados.\n\n2 - Os espaços naturais classificam-se em espaço natural de vocação recreativa e em linhas de água e respectivas margens."
+  },
+  "41ac182c3df7b371": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Espaço natural de vocação recreativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Espaço natural de vocação recreativa\n\n1 - O espaço natural de vocação recreativa corresponde às zonas de relevante valor paisagístico, cujas boa localização e acessibilidade potenciam o seu usufruto recreativo.\n\n2 - Constituem objectivos de ordenamento deste espaço a preservação e valorização das condições paisagísticas, com vista ao seu uso recreativo, mediante a implantação de infra-estruturas e equipamentos compatíveis com as aptidões e condicionantes biofísicas dos locais.\n\n3 - Neste espaço são permitidos os seguintes usos, desde que integrados em UOPG do POAC, como tal delimitada na planta de síntese, ou resultantes de plano de pormenor eficaz: parques de campismo, parques de merendas, instalações destinadas a campos de férias e estabelecimentos hoteleiros, nomeadamente pousadas.\n\n4 - É ainda admitida a localização de campos de golfe, desde que precedida de um estudo de impacte ambiental, no qual se comprove que a utilização em causa não determina a contaminação do plano de água por nutrientes e fitossanitários, quer por infiltração quer por escoamento superficial. Os greens, tees e fairways deverão estar afastados mais de 150 m do NPA, medidos na horizontal, sendo a área sobrante necessariamente ocupada por vegetação autóctone.\n\n5 - As construções permitidas têm uma altura máxima de 6 m.\n\n6 - Nas construções existentes serão permitidas obras de manutenção, remodelação e ampliação até um máximo de 30% da área de implantação e de construção ocupadas.\n\n7 - As características arquitectónicas das construções obedecem ao disposto no n.º 3 do artigo 34.º\n\n8 - As mobilizações de terrenos serão reduzidas ao mínimo indispensável, sendo preservada ao máximo possível a cobertura da vegetação existente no local, especialmente arbórea.\n\n9 - O material vegetal a utilizar para enquadramento e valorização paisagística deste espaço deve ser sempre escolhido dentro das espécies pertencentes à paisagem vegetal climácica ou tradicional da zona de intervenção.\n\n10 - O saneamento básico deste espaço obedece ao disposto no artigo 11.º"
+  },
+  "3642552c514a8a76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º — Linhas de água e respectivas margens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Linhas de água e respectivas margens\n\n1 - As linhas de água e respectivas margens correspondem a cursos de água importantes no contexto hidrológico e ecológico da área de intervenção do plano, muitas vezes associados à presença de povoamentos florestais de alto valor ecológico e paisagístico, pequenas matas de folhosas e galerias ripícolas.\n\n2 - Constituem objectivos de ordenamento destes espaços a manutenção e valorização de estruturas biofísicas fundamentais, com vista à preservação dos valores naturais da paisagem, ao controlo da erosão e à estabilidade e diversidade ecológicas.\n\n3 - A gestão destas áreas terá como objectivo a preservação e a potenciação dos recursos associados a estes ecossistemas, devendo ser favorecida a plantação de espécies ripícolas, designadamente freixos, amieiros e salgueiros.\n\n4 - É interdita a edificação.\n\n5 - Na faixa dos 10 m de todas as linhas de água públicas, deverá privilegiar-se a manutenção das galerias ripícolas, sendo interdita a mobilização do solo e a introdução de espécies exóticas de rápido crescimento."
+  },
+  "553eae8b73b900e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Infra-estruturas turísticas/recreativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Infra-estruturas turísticas/recreativas"
+  },
+  "9d4b0898ee49a7cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º — Localização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Localização\n\n1 - Consideram-se como turísticas/recreativas as seguintes infra-estruturas:\n\na) Pontos de atracagem;\n\nb) Parques de campismo;\n\nc) Parques de merendas.\n\n2 - As infra-estruturas turísticas/recreativas apenas podem localizar-se nas áreas expressamente previstas no presente Regulamento.\n\n3 - A execução de quaisquer edifícios pertencentes a estas infra-estruturas tem de ser feita fora da zona reservada da albufeira, que se encontra devidamente identificada na planta actualizada de condicionantes.\n\n4 - As características destas infra-estruturas obedecem ao disposto nos n.os 3, 4 e 5 do artigo 24.º"
+  },
+  "4e39d6d2660b61ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º — Pontos de atracagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Pontos de atracagem\n\n1 - É permitida, nos locais assinalados na planta de síntese, a instalação de pontões ou outras estruturas de atracagem para apoio à navegação, desde que se destinem à utlização pelo público ou pelos utentes dos estabelecimentos turísticos.\n\n2 - Os pontos de atracagem devem ser constituídos por estruturas móveis com pavimentos antiderrapantes e com características de inclinação, largura e comprimento adaptadas às variações do nível da albufeira e dotadas de sistemas de recolha de lixos e equipamento de emergência destinado a prevenir e combater eventuais acidentes.\n\n3 - Na construção dos pontões devem ser utilizados materiais de boa qualidade e deve ser assegurada a sua integração na paisagem local.\n\n4 - Os acessos ao plano de água que se encontrem directamente relacionados com os pontos de atracagem devem ser regularizados ou consolidados, devendo ainda ser devidamente sinalizados e precedidos de uma área de apoio para estacionamento.\n\n5 - Os pontos de atracagem devem ter na mesma margem uma rampa de acesso a embarcações a uma distância mínima não superior a 100 m, construídas também com pavimentos antiderrapantes e com características de inclinação, largura e comprimento adaptadas às variações do nível das albufeiras.\n\n6 - A instalação dos pontos de atracagem depende de licenciamento a conceder pela DRAOTC, nos termos do [Decreto-Lei n.º 46/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1994-515806), de 22 de Fevereiro."
+  },
+  "31883cba8b2345ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º — Parques de campismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Parques de campismo\n\n1 - É permitida, nos locais assinalados na planta de síntese, a instalação de parques de campismo.\n\n2 - Os parques de campismo a instalar devem ser classificados como de 2 ou 3 estrelas ou rurais, de acordo com a classificação do [Decreto Regulamentar n.º 33/97](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1997-649483), de 17 de Setembro, e do [Decreto-Lei n.º 192/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1982-392467), de 19 de Maio."
+  },
+  "8f33dcbedf19c897": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º — Parques de merendas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Parques de merendas\n\n1 - É permitida, nos locais assinalados na planta de síntese, a instalação de parques de merendas.\n\n2 - As zonas de merendas devem ser obrigatoriamente equipadas com mesas e bancos, acessos viário e pedonal, estacionamento automóvel, instalações sanitárias, rede de infra-estruturas de água e saneamento básico, recolha de lixos e meios precários de combate aos incêndios.\n\n3 - Estas zonas podem ainda ser vedadas e possuir uma rede de trilhos e zonas de estada."
+  },
+  "63428af30f2b63e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Unidades operativas de planeamento e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Unidades operativas de planeamento e gestão"
+  },
+  "ac2753c0040c4c1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Noção\n\n1 - As unidades operativas de planeamento e gestão (UOPG) correspondem a unidades territoriais que podem integrar mais de uma classe de espaço e que, pelas suas características próprias, se individualizam da restante área do POAC.\n\n2 - As UOPG constituem unidades indicativas para a elaboração de planos e projectos específicos que devem obedecer às indicações dos artigos 54.º a 65.º\n\n3 - Nos projectos de execução decorrentes dos planos de pormenor ou de planos de urbanização, deve ser observado o disposto nos n.os 9 a 11 do artigo 47.º do presente Regulamento."
+  },
+  "6c37e34783d29b16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º — UOPG I - Casal da Lapa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — UOPG I - Casal da Lapa\n\n1 - A Câmara Municipal de Pampilhosa da Serra elaborará, no prazo de 18 meses a contar da data de entrada em vigor do POAC, um plano de pormenor para a UOPG I.\n\n2 - O plano de pormenor a elaborar para a UOPG I respeitará obrigatoriamente o seguinte programa:\n\na) Loteamentos urbanos com uma capacidade máxima conjunta de 10 lotes para moradias unifamiliares isoladas com altura máxima de dois pisos;\n\nb) Reabilitação do parque edificado existente;\n\nc) Ocupação obedecendo aos condicionalismos e indicadores máximos constantes dos artigos 34.º e 35.º;\n\nd) Um estabelecimento hoteleiro de pequena dimensão com a capacidade máxima de 25 quartos;\n\ne) Um posto de turismo;\n\nf) Restaurantes;\n\ng) Remodelação da rede viária;\n\nh) Estacionamento com capacidade adequada;\n\ni) Integração paisagística entre os diversos usos."
+  },
+  "27eb3c33a1755eac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — UOPG II - Zona de recreio de Santa Luzia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — UOPG II - Zona de recreio de Santa Luzia\n\n1 - A Câmara Municipal de Pampilhosa da Serra elaborará, no prazo de 18 meses a contar da data de entrada em vigor do POAC, um plano de pormenor para a UOPG II.\n\n2 - O plano de pormenor a elaborar para a UOPG II respeitará obrigatoriamente o seguinte programa:\n\na) Uma unidade hoteleira de pequena dimensão com a capacidade máxima de 20 quartos e com uma altura máxima de três pisos;\n\nb) Um parque de campismo de 2 ou 3 estrelas com uma lotação máxima de 100 campistas ou de tipo rural com uma lotação máxima de 90 campistas;\n\nc) Uma praia fluvial do tipo rural com uma capacidade máxima de 120 pessoas;\n\nd) Cafés/esplanadas;\n\ne) Um parque de merendas;\n\nf) Um percurso de interesse paisagístico, permitindo percorrer a margem de albufeira e atravessar o paredão da barragem, designadamente, a pé ou de bicicleta;\n\ng) Uma estrutura de atracagem para um máximo de 20 embarcações, situada num ponto de fácil acesso e afastada da zona balnear;\n\nh) Integração paisagística entre os diversos usos."
+  },
+  "6c97fbedfa2e9d57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º — UOPG III - Cambas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — UOPG III - Cambas\n\n1 - A Câmara Municipal de Oleiros elaborará, no prazo de 18 meses a contar da data de entrada em vigor do POAC, um plano de pormenor para a UOPG III.\n\n2 - O plano de pormenor a elaborar para a UOPG III respeitará obrigatoriamente o seguinte programa:\n\na) Um estabelecimento hoteleiro de pequena dimensão com a capacidade máxima de 25 quartos e com uma altura máxima de três pisos;\n\nb) Um parque de merendas;\n\nc) Um posto de turismo;\n\nd) Cafés/esplanadas;\n\ne) Uma praia fluvial existente;\n\nf) Estacionamento com capacidade adequada;\n\ng) Um posto de turismo;\n\nh) Um empreendimento turístico, a implementar no espaço urbanizável de vocação turística, obedecendo aos condicionalismos e indicadores máximos constantes do artigo 35.º"
+  },
+  "25581a1565df6aed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º — UOPG IV - Álvaro n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — UOPG IV - Álvaro n.º 1\n\n1 - A Câmara Municipal de Oleiros elaborará, no prazo de 18 meses a contar da data de entrada em vigor do POAC, um plano de pormenor para a UOPG IV.\n\n2 - O plano de pormenor a elaborar para a UOPG IV respeitará obrigatoriamente o seguinte programa:\n\na) Turismo de aldeia;\n\nb) Arranjo paisagístico do adro/miradouro da igreja e da rua de atravessamento do aglomerado;\n\nc) Reabilitação do parque edificado existente;\n\nd) Estacionamento com capacidade adequada;\n\ne) Articulação do percurso de interesse paisagístico com o acesso ao aglomerado;\n\nf) Um posto de turismo;\n\ng) Cafés/esplanadas."
+  },
+  "d6bae1f80078a177": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º — UOPG V - Álvaro n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — UOPG V - Álvaro n.º 2\n\n1 - A Câmara Municipal de Oleiros elaborará, no prazo de 18 meses a contar da data da entrada em vigor do POAC, um plano de pormenor para a UOPG V.\n\n2 - O plano de pormenor a elaborar para a UOPG V respeitará obrigatoriamente o seguinte programa:\n\na) A praia fluvial existente, que deverá ser objecto de um projecto de requalificação, visando uma capacidade máxima de 70 pessoas;\n\nb) Uma estrutura de atracagem para um máximo de 20 embarcações, situada num ponto de fácil acesso e afastada da zona balnear;\n\nc) Um parque de campismo de 2 ou 3 estrelas com uma lotação máxima de 100 campistas ou ainda, de tipo rural com uma lotação máxima de 90 campistas;\n\nd) Um parque de merendas existente;\n\ne) Estacionamento com capacidade adequada."
+  },
+  "8b8ff1aa1058c912": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º — UOPG VI - Vilar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — UOPG VI - Vilar\n\n1 - A Câmara Municipal de Pampilhosa da Serra elaborará, no prazo de 18 meses a contar da data de entrada em vigor do POAC, um plano de pormenor para a UOPG VI.\n\n2 - O plano de pormenor a elaborar para a UOPG VI respeitará obrigatoriamente o seguinte programa:\n\na) Uma praia fluvial do tipo II, rural, com uma capacidade máxima de 160 pessoas;\n\nb) Uma estrutura de atracagem para o máximo de 30 embarcações, situada num ponto de fácil acesso e afastada da zona balnear, assegurando-se as condições de acesso ao plano de água e área para manobras e estacionamento;\n\nc) Um parque de campismo de 2 ou 3 estrelas com a lotação máxima de 100 campistas ou, ainda, de tipo rural com uma lotação máxima de 90 campistas;\n\nd) Loteamentos urbanos com uma capacidade máxima conjunta de 20 lotes para moradias unifamiliares isoladas com uma altura máxima de dois pisos;\n\ne) Restaurantes;\n\nf) Cafés/esplanadas;\n\ng) Parque de merendas;\n\nh) Estacionamento com capacidade adequada."
+  },
+  "08bfe2ddee8c2cd6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º — UOPG VII - Foz de Álvares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — UOPG VII - Foz de Álvares\n\n1 - A Câmara Municipal de Góis elaborará, no prazo de 18 meses a contar da data de entrada em vigor do POAC, um plano de pormenor para a UOPG VII.\n\n2 - O plano de pormenor a elaborar para a UOPG VII respeitará obrigatoriamente o seguinte programa:\n\na) Turismo de aldeia;\n\nb) Reabilitação do parque edificado existente;\n\nc) Remodelação dos acessos ao plano de água;\n\nd) Restaurantes;\n\ne) Integração paisagística entre os diversos usos."
+  },
+  "6f8e7219fb66be7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º — UOPG VIII - Pedrógão Grande n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — UOPG VIII - Pedrógão Grande n.º 1\n\n1 - A Câmara Municipal de Pedrógão Grande elaborará, no prazo de 18 meses a contar da data de entrada em vigor do POAC, um plano de pormenor para a UOPG VIII.\n\n2 - O plano de pormenor a elaborar para a UOPG VIII respeitará obrigatoriamente o seguinte programa:\n\na) A praia fluvial existente;\n\nb) O parque de campismo existente, com a classificação de 2 estrelas, que deverá ser requalificado e mantido para uma capacidade máxima de 180 campistas;\n\nc) A rampa de acesso a embarcações existente;\n\nd) O acesso existente ao plano de água, que deverá ser remodelado;\n\ne) Um estabelecimento hoteleiro de pequena dimensão com a capacidade máxima de 50 quartos e com uma altura máxima de três pisos;\n\nf) Loteamentos urbanos com uma capacidade máxima conjunta de 25 lotes para moradias unifamiliares isoladas com altura máxima de dois pisos;\n\ng) Um parque de merendas;\n\nh) Um clube náutico;\n\ni) Recuperação da casa existente pertencente à Câmara Municipal;\n\nj) Cafés/esplanadas;\n\nl) Dois miradouros."
+  },
+  "0f787e2735084901": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º — UOPG IX - Pedrógão Grande n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — UOPG IX - Pedrógão Grande n.º 2\n\n1 - A Câmara Municipal de Pedrógrão Grande elaborará, no prazo de 18 meses a contar da data de entrada em vigor do POAC, um plano de pormenor para a UOPG IX.\n\n2 - O plano de pormenor a elaborar para a UOPG IX respeitará obrigatoriamente o seguinte programa:\n\na) Loteamentos urbanos com uma capacidade máxima conjunta de 20 lotes para moradias unifamiliares isoladas com uma altura máxima de dois pisos;\n\nb) Restaurantes;\n\nc) Cafés/esplanadas;\n\nd) Estacionamento com capacidade adequada."
+  },
+  "a18c0757e3a374b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º — UOPG X - Nossa Senhora da Confiança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — UOPG X - Nossa Senhora da Confiança\n\n1 - A Câmara Municipal da Sertã elaborará, no prazo de 18 meses a contar da data de entrada em vigor do POAC, um plano de pormenor para a UOPG X.\n\n2 - O plano de pormenor a elaborar para a UOPG X respeitará obrigatoriamente o seguinte programa:\n\na) Estudos para a delimitação, salvaguarda e protecção do castro proto-histórico, os quais terão de ser aprovados pelo Instituto Português de Arqueologia;\n\nb) Um estabelecimento hoteleiro, a instalar nos edifícios existentes junto ao miradouro da Nossa Senhora da Confiança, com a capacidade máxima de 50 quartos e dispondo de equipamento complementar de animação, incluindo, nomeadamente, piscina e campos de ténis;\n\nc) Restaurantes;\n\nd) Cafés/esplanadas;\n\ne) Arranjo paisagístico da zona envolvente do miradouro;\n\nf) Acessos viários e estacionamento.\n\n3 - Os limites da área arqueológica do castro de nossa Senhora da Confiança condicionarão a implantação dos diversos equipamentos, e respectivos acessos, enumerados no número anterior, os quais não poderão ser instalados dentro da área arqueológica ou numa área de 50 m em redor, exceptuando-se os edifícios já construídos referidos na alínea b) do número anterior, mas cuja área de construção coberta não poderá ser aumentada."
+  },
+  "b9862ecf11947e10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º — UOPG XI - Vale Seiboso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — UOPG XI - Vale Seiboso\n\n1 - A Câmara Municipal de Pampilhosa da Serra elaborará, no prazo de 18 meses a contar da data de entrada em vigor do POAC, um plano de pormenor para a UOPG XI.\n\n2 - O plano de pormenor a elaborar para a UOPG XI respeitará obrigatoriamente o seguinte programa:\n\na) Uma pousada de juventude com a capacidade máxima de 35 quartos e disposto de equipamento complementar de animação; deverá implantar-se em espaço natural de vocação recreativa, na proximidade do caminho municipal n.º 1404 e fora da área abrangida pelo regime da REN;\n\nb) Valorização paisagística da zona envolvente à pousada de juventude;\n\nc) Acessos viários e estacionamento."
+  },
+  "f033285393fb4ec0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º — UOPG XII - Valinho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — UOPG XII - Valinho\n\n1 - A Câmara Municipal da Sertã elaborará, no prazo de 18 meses a contar da data de entrada em vigor do POAC, um plano de pormenor para a UOPG XII.\n\n2 - O plano de pormenor a elaborar para a UOPG XII respeitará obrigatoriamente o seguinte programa:\n\na) Uma unidade hoteleira com a capacidade máxima de 40 quartos, situada a mais de 10 m das linhas de água existentes, com uma altura máxima de dois pisos e dispondo de equipamento complementar de animação;\n\nb) Um parque de merendas;\n\nc) Uma praia fluvial do tipo II, rural, visando uma capacidade máxima de 70 pessoas;\n\nd) Uma estrutura de atracagem para um máximo de 20 embarcações, fora da zona interdita, situada num ponto de fácil acesso e afastada da zona balnear;\n\ne) Valorização paisagística da zona envolvente;\n\nf) Acessos viários e estacionamento.\n\n3 - Em toda a área da UOPG XII não ocupada pelos equipamentos propostos, incluindo a unidade hoteleira, será aplicado um regime idêntico ao da REN."
+  },
+  "cd82133b1defeb7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Regime sancionatório"
+  },
+  "c13eb4b754fb729d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 66.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Fiscalização\n\nSem prejuízo das competências conferidas por lei às demais entidades, a fiscalização do cumprimento do disposto no presente Regulamento compete ao INAG, à DRAOTC e às câmaras municipais da área de intervenção do POAC."
+  },
+  "7ba3cd939c775eec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 67.º — Embargo, demolição e reposição da situação anterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Embargo, demolição e reposição da situação anterior\n\nSem prejuízo das competências atribuídas por lei às diversas entidades, e nos termos do [Decreto-Lei n.º 151/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1995-475371), de 24 de Junho, com as alterações introduzidas pela [Lei n.º 5/96](https://diariodarepublica.pt/dr/detalhe/lei/5-1996-621345), de 29 de Fevereiro, o Ministro do Ambiente e do Ordenamento do Território pode determinar o embargo dos trabalhos ou a demolição de obras que violem o disposto no presente."
+  },
+  "3cb88120972f58df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 68.º — Crime de desobediência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Crime de desobediência\n\nO prosseguimento dos trabalhos embargados, nos termos do artigo anterior, constitui crime de desobediência, nos termos do disposto no Código Penal."
+  },
+  "8b2f348bd534c7f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 69.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Responsabilidade\n\nAs entidades públicas que tiverem licenciado obras em violação dos princípios e regras constantes do POAC são civilmente responsáveis pelos prejuízos causados aos titulares das licenças, designadamente com as despesas que estes hajam efectuado com o cumprimento de ordens de embargo, demolição ou reposição do terreno."
+  },
+  "ed3393211e6d8f3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições finais e transitórias"
+  },
+  "1ba426f5857e6d62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 70.º — Regulamento da náutica de recreio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Regulamento da náutica de recreio\n\nEm tudo o que não estiver expressamente previsto no presente Regulamento, aplica-se o Regulamento da Navegação em Albufeiras, aprovado pela [Portaria n.º 783/98](https://diariodarepublica.pt/dr/detalhe/portaria/783-1998-241456), de 19 de Setembro."
+  },
+  "dd18a9ad68d4b7f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 71.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Entrada em vigor\n\nO presente Regulamento entra em vigor 30 dias após a sua publicação."
+  },
+  "9f555529f76bcc31": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 72.º — Validade e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Validade e revisão\n\nO POAC deve ser revisto no prazo de 10 anos após a sua entrada em vigor.\n\n[(ver plantas no documento original)](https://files.diariodarepublica.pt/1s/2002/03/061b00/22572270.pdf)"
+  },
+  "c42a2d97558db385": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º — Espaço natural de vocação recreativa",
+   "in_force_from": "2012-10-06",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 80/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2012-175802), publicado em 2012-10-01."
+   ],
+   "markdown": "###### Artigo 47.º — Espaço natural de vocação recreativa\n\n1 - O espaço natural de vocação recreativa corresponde às zonas de relevante valor paisagístico, cujas boa localização e acessibilidade potenciam o seu usufruto recreativo.\n\n2 - Constituem objectivos de ordenamento deste espaço a preservação e valorização das condições paisagísticas, com vista ao seu uso recreativo, mediante a implantação de infra-estruturas e equipamentos compatíveis com as aptidões e condicionantes biofísicas dos locais.\n\n3 - Neste espaço são permitidos os seguintes usos, desde que integrados em UOPG do POAC, como tal delimitada na planta de síntese, ou resultantes de plano de pormenor eficaz: parques de campismo, parques de merendas, instalações destinadas a campos de férias e empreendimentos turísticos com exceção de apartamentos turísticos ou de edifícios autónomos de caráter unifamiliar.\n\n4 - É ainda admitida a localização de campos de golfe, desde que precedida de um estudo de impacte ambiental, no qual se comprove que a utilização em causa não determina a contaminação do plano de água por nutrientes e fitossanitários, quer por infiltração quer por escoamento superficial. Os greens, tees e fairways deverão estar afastados mais de 150 m do NPA, medidos na horizontal, sendo a área sobrante necessariamente ocupada por vegetação autóctone.\n\n5 - As construções permitidas têm uma altura máxima de 6 m.\n\n6 - Nas construções existentes serão permitidas obras de manutenção, remodelação e ampliação até um máximo de 30% da área de implantação e de construção ocupadas.\n\n7 - As características arquitectónicas das construções obedecem ao disposto no n.º 3 do artigo 34.º\n\n8 - As mobilizações de terrenos serão reduzidas ao mínimo indispensável, sendo preservada ao máximo possível a cobertura da vegetação existente no local, especialmente arbórea.\n\n9 - O material vegetal a utilizar para enquadramento e valorização paisagística deste espaço deve ser sempre escolhido dentro das espécies pertencentes à paisagem vegetal climácica ou tradicional da zona de intervenção.\n\n10 - O saneamento básico deste espaço obedece ao disposto no artigo 11.º\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 80/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2012-175802), publicado em 2012-10-01."
+  },
+  "775f6feccd11d066": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º — UOPG II - Zona de recreio de Santa Luzia",
+   "in_force_from": "2012-10-06",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 80/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2012-175802), publicado em 2012-10-01."
+   ],
+   "markdown": "###### Artigo 55.º — UOPG II - Zona de recreio de Santa Luzia\n\n1 - A Câmara Municipal de Pampilhosa da Serra elaborará, no prazo de 18 meses a contar da data de entrada em vigor do POAC, um plano de pormenor para a UOPG II.\n\n2 - O plano de pormenor a elaborar para a UOPG II respeitará obrigatoriamente o seguinte programa:\n\na) Uma unidade hoteleira de pequena dimensão com a capacidade máxima de 20 quartos e com uma altura máxima de três pisos;\n\nb) Um empreendimento turístico, com a capacidade máxima de 100 camas e a categoria mínima de três estrelas, não sendo admissível a instalação de apartamentos turísticos ou de edifícios autónomos de caráter unifamiliar;\n\nc) Uma praia fluvial do tipo rural com uma capacidade máxima de 120 pessoas;\n\nd) Cafés/esplanadas;\n\ne) Um parque de merendas;\n\nf) Um percurso de interesse paisagístico, permitindo percorrer a margem de albufeira e atravessar o paredão da barragem, designadamente, a pé ou de bicicleta;\n\ng) Uma estrutura de atracagem para um máximo de 20 embarcações, situada num ponto de fácil acesso e afastada da zona balnear;\n\nh) Integração paisagística entre os diversos usos.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 80/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/80-2012-175802), publicado em 2012-10-01."
+  }
+ }
+}

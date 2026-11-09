@@ -1,0 +1,203 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:273637:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1968-07-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7566a02d3cd58cd7"
+   ]
+  },
+  {
+   "date": "1971-09-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632771:por",
+     "title": "Decreto-Lei n.º 388/71",
+     "published": "1971-09-18",
+     "dre_path": "/dr/detalhe/decreto-lei/388-1971-632771"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "1f2397db4bad88fe",
+    "b1a050af4970d254",
+    "a9bd1be00aa108a2",
+    "31b2bcb7a457d915",
+    "b8df87880be46e49",
+    "51564d486919d7ea",
+    "e9c2c5389d3b2acf",
+    "944171227551efe2",
+    "9792b14accf11780",
+    "35c5782c2ce9a107",
+    "d5fb9c0ce945e442",
+    "dbe3c9c1f6d191e8",
+    "b913ed69ea477767",
+    "290d7e64841c2996",
+    "f748cc720546d944",
+    "9485cb7061232419",
+    "5d2da641a814f5a9"
+   ]
+  }
+ ],
+ "fragments": {
+  "7566a02d3cd58cd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Com o presente diploma modifica-se a estrutura e amplia-se a acção da Junta Central das Casas dos Pescadores, que será alargada, através de delegações próprias, às províncias ultramarinas.\n\nSimultâneamente, atribui-se ao presidente da Junta Central assento, com voto consultivo, no conselho da Corporação da Pesca e Conservas, em paralelo com o director do Instituto Português de Conservas de Peixe e o presidente da Comissão Reguladora do Comércio de Bacalhau.\n\nA solução adoptada baseia-se, em grande parte, nas conclusões dos I, II e IV Colóquios Nacionais do Trababalho, da Organização Corporativa e da Segurança Social.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. A Junta Central das Casas dos Pescadores é o organismo orientador e coordenador da acção das Casas dos Pescadores nos sectores da previdência, abono de família, assistência, educação e formação profissional, que lhe cumpre promover directamente sempre que aqueles benefícios sejam comuns à classe piscatória ou a determinados sectores desta classe.\n\n2. A Junta desempenha ainda a função de elemento de ligação entre o Estado e a Corporação da Pesca e Conservas, em cujo conselho, e no da secção da Pesca, o presidente ou quem o substitua tem assento com voto consultivo.\n\nArt. 2.º A Junta Central tem personalidade jurídica, autonomia administrativa e financeira e funciona junto do Ministro das Corporações e Previdência Social.\n\nArt. 3.º A Junta Central exerce a sua acção em todo o território nacional, fomentando a criação de Casas dos Pescadores e estabelecendo delegações nas províncias ultramarinas, nos termos fixados em portaria conjunta dos Ministros do Ultramar e das Corporações e Previdência Social.\n\nArt. 4.º A Junta Central é constituída por:\n\na) Um presidente;\n\nb) Dois vice-presidentes;\n\nc) Quatro vogais eleitos.\n\nArt. 5.º - 1. O presidente é um oficial general ou superior da Armada, nomeado pelo Ministro das Corporações e Previdência Social, com audiência do Ministro da Marinha.\n\n2. Dos vice-presidentes, um será nomeado pelo Ministro do Ultramar, com audiência do Ministro das Corporações e Previdência Social; outro será nomeado pelo Ministro das Corporações e Previdência Social.\n\n3. Os quatro vogais eleitos representam, respectivamente, os grémios dos armadores das pescas da metrópole, os grémios dos armadores das pescas das províncias ultramarinas, ou, se os não houver, as empresas de pesca, as Casas dos Pescadores da metrópole e as Casas dos Pescadores das províncias ultramarinas.\n\n4. O presidente designa o vice-presidente que o substui na sua ausência ou impedimento.\n\nArt. 6.º A eleição dos representantes referidos na alínea c) do artigo 4.º será feita pelos seguintes colégios eleitorais entre os seus membros:\n\na) O representante dos grémios dos armadores das pescas da metrópole é eleito em colégio eleitoral constituído por um delegado de cada direcção;\n\nb) A representação dos grémios dos armadores das pescas ou das empresas de pesca das províncias ultramarinas é confiada, em cada ano, a uma província diferente, competindo a eleição do representante ao colégio eleitoral constituído por um delegado de cada direcção ou, na falta dos grémios, das próprias empresas, em reunião convocada pelo director dos Serviços de Marinha;\n\nc) O representante das Casas dos Pescadores da metrópole é designado em colégio eleitoral constituído por um dos vogais da direcção de cada Casa;\n\nd) As Casas dos Pescadores das províncias ultramarinas são representadas, em cada ano, por uma província diferente e, naquelas onde houver mais do que uma, o representante a enviar à Junta Central é eleito em colégio eleitoral constituído por um dos vogais da direcção de cada Casa.\n\nArt. 7.º A Junta reúne uma vez por mês ou sempre que o seu presidente a convocar e as suas decisões são tomadas por maioria de votos, cabendo ao presidente voto de qualidade.\n\nArt. 8.º - 1. Compete à Junta:\n\na) Organizar e dirigir os serviços de abono de família, pensões de reforma e invalidez e assegurar os benefícios da previdência concedidos ou a conceder aos sócios efectivos das Casas dos Pescadores, aplicando, com as adaptações necessárias aos meios piscatórios, as normas constantes do Regulamento Geral das Caixas Sindicais de Previdência e de Abono de Família, ouvido o Conselho Superior da Previdência e da Habitação Económica;\n\nb) Fomentar a construção de habitações económicas;\n\nc) Construir, por si ou em comparticipação com o Estado, habitações destinadas aos sócios efectivos das Casas dos Pescadores;\n\nd) Dirigir e incrementar os serviços de formação profissional dos pescadores, velando por que a estes sejam atribuídos todos os benefícios estabelecidos no Regulamento da Inscrição Marítima;\n\ne) Coordenar a acção cultural das Casas dos Pescadores;\n\nf) Organizar e dirigir o serviço de vendagem do pescado pertencente aos sócios efectivos das Casas dos Pescadores de harmonia com os usos e costumes locais e, facultativamente, do pertencente aos sócios contribuintes, na medida legalmente necessária à realização dos fins de cooperação social atribuídos àquelas instituições;\n\ng) Fomentar a melhoria dos meios de captura do pescado, nomeadamente das embarcações, aparelhos e utensílios de pesca dos pescadores;\n\nh) Fomentar a celebração de convenções colectivas de trabalho;\n\ni) Inspeccionar e fiscalizar a gestão administrativa e financeira das Casas dos Pescadores;\n\nj) Administrar e distribuir as verbas que constituem o seu Fundo Comum;\n\nl) Elaborar o orçamento anual até 15 de Dezembro e o relatório e contas da gerência anual até 31 de Março, que será submetido à aprovação do Ministro das Corporações e Previdência Social;\n\nm) Elaborar um regulamento interno e todos os regulamentos necessários à boa execução dos serviços.\n\n2. Às habitações a que se refere a alínea c) é aplicável o disposto no artigo 7.º do [Decreto-Lei n.º 34486](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34486-1945-615631), de 6 de Abril de 1945.\n\nA ocupação das casas construídas nos termos da mesma alínea será concedida a título precário, podendo os moradores ser obrigados a desalojá-las mediante aviso prévio de 30 dias, sob pena de despejo pelas autoridades administrativas ou policiais, sem direito a indemnização.\n\nArt. 9.º As delegações da Junta Central em cada uma das províncias ultramarinas são constituídas:\n\na) Pelo director dos Serviços de Marinha, que preside com voto de qualidade, podendo fazer-se substituir pelo subdirector;\n\nb) Pelo presidente do Instituto do Trabalho, Previdência e Acção Social, ou seu substituto;\n\nc) Por um representante dos armadores das pescas da província, designado nos termos da alínea b) do artigo 6.º;\n\nd) Por um representante dos sócios efectivos das Casas dos Pescadores da província, designado, se houver mais do que uma, nos termos da alínea d) do mesmo artigo 6.º\n\nArt. 10.º Compete às delegações nas províncias ultramarinas:\n\na) Exercer as funções das alíneas a) a h) do artigo 8.º, de harmonia com a competência que lhes for conferida pela Junta Central;\n\nb) Dar parecer sobre os assuntos que lhes forem submetidos pela Junta Central;\n\nc) Executar e fazer executar as deliberações da Junta Central;\n\nd) Administrar as verbas que lhes forem concedidas e elaborar o orçamento e o relatório e contas da gerência anual até 30 dias antes dos prazos fixados na alínea j) do artigo 8.º, para serem submetidos à aprovação da Junta Central.\n\nArt. 11.º A Junta Central dispõe de um fundo comum, que gerirá, e que se destina a assegurar a realização dos fins que lhe estão cometidos.\n\nA distribuição do fundo comum pelas diferentes actividades que lhe cumpre prosseguir, incluindo as suas próprias despesas de administração, será feita por percentagens a fixar anualmente.\n\nArt. 12.º As receitas do fundo comum, referido no artigo 11.º, são constituídas por:\n\na) Subsídio do Ministério da Marinha, proveniente de dotação inscrita anualmente no orçamento, para reforma dos pescadores inválidos:\n\nb) Subsídios dos Ministérios do Ultramar e das Corporações e Previdência Social e das províncias ultramarinas;\n\nc) Subsídios entregues pelos fundos de previdência dos grémios dos armadores das pescas;\n\nd) Subsídios dos grémios dos armadores das pescas, das empresas de pesca e de outras entidades, públicas ou privadas;\n\ne) Percentagens a que se referem os artigos 22.º do Decreto-Lei n.º 29755, 23.º do Decreto-Lei n.º 34665 e 31.º do Decreto-Lei n.º 31848;\n\nf) Rendimentos de bens próprios;\n\ng) Resultados das actividades próprias;\n\nh) Parte do produto da quotização dos sécios efectivos das Casas dos Pescadores a fixar por despacho do Ministro das Corporações e Previdência Social;\n\ni) Contribuições arrecadadas, pela Junta ou pelas Casas dos Pescadores, destinadas à realização dos fins submetidos à coordenação, orientação e fiscalização da Junta Central.\n\nArt. 13.º As contribuições das entidades patronais e dos sócios efectivos das Casas dos Pescadores para a previdência, abono de família e para outros fins que à Junta Central cumpra prosseguir devem constar dos contratos de matrícula e outras convenções colectivas de trabalho, incidindo sobre todas as importâncias percebidas pelos referidos sócios a título de ordenados, salários, soldadas, quinhões, partes ou percentagens e ainda sobre as remunerações em espécie que lhe sejam atribuídas.\n\nArt. 14.º - 1. São obrigatòriamente inscritos na Mútua dos Pescadores os sócios efectivos das Casas dos Pescadores que não estejam abrangidos pelas mútuas de seguros dos organismos patronais da pesca.\n\n2. Os prémios do seguro serão fixados pela Mútua dos Pescadores, nos termos da legislação em vigor, e serão cobrados pelas autoridades aduaneiras.\n\nArt. 15.º - 1. À Junta compete aplicar as penalidades que vierem a ser previstas no seu regulamento e promover a cobrança judicial das contribuições não pagas nos devidos prazos.\n\n2. À Junta é permitido o acesso à contabilidade dos grémios das pescas e dos armadores em todos os assuntos que se relacionem com as receitas que, nos termos do presente diploma, lhe são devidas.\n\nArt. 16.º É revogado o [Decreto-Lei n.º 37750](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37750-1950-659142), de 4 de Fevereiro de 1950.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 30 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha."
+  },
+  "1f2397db4bad88fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Com o presente diploma modifica-se a estrutura e amplia-se a acção da Junta Central das Casas dos Pescadores, que será alargada, através de delegações próprias, às províncias ultramarinas.\n\nSimultâneamente, atribui-se ao presidente da Junta Central assento, com voto consultivo, no conselho da Corporação da Pesca e Conservas, em paralelo com o director do Instituto Português de Conservas de Peixe e o presidente da Comissão Reguladora do Comércio de Bacalhau.\n\nA solução adoptada baseia-se, em grande parte, nas conclusões dos I, II e IV Colóquios Nacionais do Trababalho, da Organização Corporativa e da Segurança Social.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "b1a050af4970d254": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A Junta Central das Casas dos Pescadores é o organismo orientador e coordenador da acção das Casas dos Pescadores nos sectores da previdência, abono de família, assistência, educação e formação profissional, que lhe cumpre promover directamente sempre que aqueles benefícios sejam comuns à classe piscatória ou a determinados sectores desta classe.\n\n2. A Junta desempenha ainda a função de elemento de ligação entre o Estado e a Corporação da Pesca e Conservas, em cujo conselho, e no da secção da Pesca, o presidente ou quem o substitua tem assento com voto consultivo."
+  },
+  "a9bd1be00aa108a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Junta Central tem personalidade jurídica, autonomia administrativa e financeira e funciona junto do Ministro das Corporações e Previdência Social."
+  },
+  "31b2bcb7a457d915": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA Junta Central exerce a sua acção em todo o território nacional, fomentando a criação de Casas dos Pescadores e estabelecendo delegações nas províncias ultramarinas, nos termos fixados em portaria conjunta dos Ministros do Ultramar e das Corporações e Previdência Social."
+  },
+  "b8df87880be46e49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Junta Central é constituída por:\n\na) Um presidente;\n\nb) Dois vice-presidentes;\n\nc) Quatro vogais eleitos."
+  },
+  "51564d486919d7ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O presidente é um oficial general ou superior da Armada, nomeado pelo Ministro das Corporações e Previdência Social, com audiência do Ministro da Marinha.\n\n2. Dos vice-presidentes, um será nomeado pelo Ministro do Ultramar, com audiência do Ministro das Corporações e Previdência Social; outro será nomeado pelo Ministro das Corporações e Previdência Social.\n\n3. Os quatro vogais eleitos representam, respectivamente, os grémios dos armadores das pescas da metrópole, os grémios dos armadores das pescas das províncias ultramarinas, ou, se os não houver, as empresas de pesca, as Casas dos Pescadores da metrópole e as Casas dos Pescadores das províncias ultramarinas.\n\n4. O presidente designa o vice-presidente que o substui na sua ausência ou impedimento."
+  },
+  "e9c2c5389d3b2acf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA eleição dos representantes referidos na alínea c) do artigo 4.º será feita pelos seguintes colégios eleitorais entre os seus membros:\n\na) O representante dos grémios dos armadores das pescas da metrópole é eleito em colégio eleitoral constituído por um delegado de cada direcção;\n\nb) A representação dos grémios dos armadores das pescas ou das empresas de pesca das províncias ultramarinas é confiada, em cada ano, a uma província diferente, competindo a eleição do representante ao colégio eleitoral constituído por um delegado de cada direcção ou, na falta dos grémios, das próprias empresas, em reunião convocada pelo director dos Serviços de Marinha;\n\nc) O representante das Casas dos Pescadores da metrópole é designado em colégio eleitoral constituído por um dos vogais da direcção de cada Casa;\n\nd) As Casas dos Pescadores das províncias ultramarinas são representadas, em cada ano, por uma província diferente e, naquelas onde houver mais do que uma, o representante a enviar à Junta Central é eleito em colégio eleitoral constituído por um dos vogais da direcção de cada Casa."
+  },
+  "944171227551efe2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA Junta reúne uma vez por mês ou sempre que o seu presidente a convocar e as suas decisões são tomadas por maioria de votos, cabendo ao presidente voto de qualidade."
+  },
+  "9792b14accf11780": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1971-09-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 388/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1971-632771), publicado em 1971-09-18."
+   ],
+   "markdown": "###### Artigo 8.º\n\n1. Compete à Junta:\n\na) Organizar e dirigir os serviços de abono de família, pensões de reforma e invalidez e assegurar os benefícios da Previdência concedidos ou a conceder aos sócios efectivos das Casas dos Pescadores, aplicando, com as adaptações necessárias aos meios piscatórios, as normas constantes do Regulamento Geral das Caixas Sindicais de Previdência e de Abono de Família, ouvidos na metrópole o Conselho Superior da Acção Social e nas províncias ultramarinas o órgão competente nos termos da lei;\n\nb) Fomentar a construção de habitações económicas;\n\nc) Construir, por si ou em comparticipação com o Estado, habitações destinadas aos sócios efectivos das Casas dos Pescadores;\n\nd) Dirigir e incrementar os serviços de formação profissional dos pescadores, velando por que a estes sejam atribuídos todos os benefícios estabelecidos no Regulamento da Inscrição Marítima;\n\ne) Coordenar a acção cultural das Casas dos Pescadores;\n\nf) Organizar e dirigir o serviço de vendagem do pescado pertencente aos sócios efectivos das Casas dos Pescadores de harmonia com os usos e costumes locais e, facultativamente, do pertencente aos sócios contribuintes, na medida legalmente necessária à realização dos fins de cooperação social atribuídos àquelas instituições;\n\ng) Fomentar a melhoria dos meios de captura do pescado, nomeadamente das embarcações, aparelhos e utensílios de pesca dos pescadores;\n\nh) Fomentar a celebração de convenções colectivas de trabalho;\n\ni) Inspeccionar e fiscalizar a gestão administrativa e financeira das Casas dos Pescadores;\n\nj) Administrar e distribuir as verbas que constituem o seu Fundo Comum;\n\nl) Elaborar o orçamento anual até 15 de Dezembro e o relatório e contas da gerência anual até 31 de Março, que será submetido à aprovação do Ministro das Corporações e Previdência Social;\n\nm) Elaborar um regulamento interno e todos os regulamentos necessários à boa execução dos serviços.\n\n2. Às habitações a que se refere a alínea c) é aplicável o regime fiscal vigente para as instituições de previdência social.\n\nA ocupação das casas construídas nos termos da mesma alínea será concedida a título precário, podendo os moradores ser obrigados a desalojá-las mediante aviso prévio de trinta dias, sob pena de despejo pelas autoridades administrativas ou policiais, sem direito a indemnização.\n\n> Alterado pelo/a [Decreto-Lei n.º 388/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1971-632771), publicado em 1971-09-18."
+  },
+  "35c5782c2ce9a107": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs delegações da Junta Central em cada uma das províncias ultramarinas são constituídas:\n\na) Pelo director dos Serviços de Marinha, que preside com voto de qualidade, podendo fazer-se substituir pelo subdirector;\n\nb) Pelo presidente do Instituto do Trabalho, Previdência e Acção Social, ou seu substituto;\n\nc) Por um representante dos armadores das pescas da província, designado nos termos da alínea b) do artigo 6.º;\n\nd) Por um representante dos sócios efectivos das Casas dos Pescadores da província, designado, se houver mais do que uma, nos termos da alínea d) do mesmo artigo 6.º"
+  },
+  "d5fb9c0ce945e442": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1971-09-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 388/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1971-632771), publicado em 1971-09-18."
+   ],
+   "markdown": "###### Artigo 10.º\n\nCompete às delegações nas províncias ultramarinas:\n\na) Exercer as funções das alíneas a) a h) do artigo 8.º, de harmonia com a competência que lhes for conferida pela Junta Central;\n\nb) Dar parecer sobre os assuntos que lhes forem submetidos pela Junta Central;\n\nc) Executar e fazer executar as deliberações da Junta Central;\n\nd) Administrar as verbas que lhes forem concedidas e elaborar o orçamento e o relatório e contas da gerência anual até trinta dias antes dos prazos fixados na alínea j) do artigo 8.º para serem submetidos à aprovação da Junta Central.\n\n> Alterado pelo/a [Decreto-Lei n.º 388/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1971-632771), publicado em 1971-09-18."
+  },
+  "dbe3c9c1f6d191e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA Junta Central dispõe de um fundo comum, que gerirá, e que se destina a assegurar a realização dos fins que lhe estão cometidos.\n\nA distribuição do fundo comum pelas diferentes actividades que lhe cumpre prosseguir, incluindo as suas próprias despesas de administração, será feita por percentagens a fixar anualmente."
+  },
+  "b913ed69ea477767": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs receitas do fundo comum, referido no artigo 11.º, são constituídas por:\n\na) Subsídio do Ministério da Marinha, proveniente de dotação inscrita anualmente no orçamento, para reforma dos pescadores inválidos:\n\nb) Subsídios dos Ministérios do Ultramar e das Corporações e Previdência Social e das províncias ultramarinas;\n\nc) Subsídios entregues pelos fundos de previdência dos grémios dos armadores das pescas;\n\nd) Subsídios dos grémios dos armadores das pescas, das empresas de pesca e de outras entidades, públicas ou privadas;\n\ne) Percentagens a que se referem os artigos 22.º do Decreto-Lei n.º 29755, 23.º do Decreto-Lei n.º 34665 e 31.º do Decreto-Lei n.º 31848;\n\nf) Rendimentos de bens próprios;\n\ng) Resultados das actividades próprias;\n\nh) Parte do produto da quotização dos sécios efectivos das Casas dos Pescadores a fixar por despacho do Ministro das Corporações e Previdência Social;\n\ni) Contribuições arrecadadas, pela Junta ou pelas Casas dos Pescadores, destinadas à realização dos fins submetidos à coordenação, orientação e fiscalização da Junta Central."
+  },
+  "290d7e64841c2996": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAs contribuições das entidades patronais e dos sócios efectivos das Casas dos Pescadores para a previdência, abono de família e para outros fins que à Junta Central cumpra prosseguir devem constar dos contratos de matrícula e outras convenções colectivas de trabalho, incidindo sobre todas as importâncias percebidas pelos referidos sócios a título de ordenados, salários, soldadas, quinhões, partes ou percentagens e ainda sobre as remunerações em espécie que lhe sejam atribuídas."
+  },
+  "f748cc720546d944": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. São obrigatòriamente inscritos na Mútua dos Pescadores os sócios efectivos das Casas dos Pescadores que não estejam abrangidos pelas mútuas de seguros dos organismos patronais da pesca.\n\n2. Os prémios do seguro serão fixados pela Mútua dos Pescadores, nos termos da legislação em vigor, e serão cobrados pelas autoridades aduaneiras."
+  },
+  "9485cb7061232419": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. À Junta compete aplicar as penalidades que vierem a ser previstas no seu regulamento e promover a cobrança judicial das contribuições não pagas nos devidos prazos.\n\n2. À Junta é permitido o acesso à contabilidade dos grémios das pescas e dos armadores em todos os assuntos que se relacionem com as receitas que, nos termos do presente diploma, lhe são devidas."
+  },
+  "5d2da641a814f5a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nÉ revogado o [Decreto-Lei n.º 37750](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37750-1950-659142), de 4 de Fevereiro de 1950.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 30 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha."
+  }
+ }
+}

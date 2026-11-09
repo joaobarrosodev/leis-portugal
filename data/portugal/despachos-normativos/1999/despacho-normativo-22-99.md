@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1999-05-31'
+version_history:
+  file: despacho-normativo-22-99.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1999-04-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-05-31'
+    amending: pt:dre:347302:por
+    amending_title: Declaração de Rectificação n.º 10-AM/99
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/despnorm/22/1999/04/26/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T08:34:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Declaração de Rectificação n.º 10-AM/99.
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1999/despacho-normativo-22-99.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -149,11 +164,9 @@ Incentivos
 
 1 - Os incentivos a conceder no âmbito deste Regime podem revestir as seguintes formas:
 
-a) Bonificação da taxa de juro, através do pagamento dos juros devidos pelos promotores às instituições de crédito protocoladas;
+a) Bonificação da taxa de juro, através do pagamento de juros devidos pelos promotores às instituições de crédito protocolares, acrescidos do respectivo imposto do selo, resultantes dos empréstimos bancários obtidos para as componentes do projecto de investimento a que se referem as alíneas a) a h), k) e l) do n.º 1 e o n.º 2 do artigo anterior;
 
-b) Acrescidos do respectivo imposto do selo, resultantes dos empréstimos bancários obtidos para as componentes do projecto de investimento a que se referem as alíneas a) a h), k) e l) do n.º 1 e o n.º 2 do artigo anterior;
-
-c) Subsídio a fundo perdido para as restantes componentes, não directamente produtivas do projecto, consideradas no artigo anterior.
+b) Subsídio a fundo perdido para as restantes componentes não directamente produtivas do projecto, consideradas no artigo anterior.
 
 2 - Poderá ainda ser objecto de bonificação da taxa de juro o valor excedente a que se refere a alínea c) do n.º 2 do artigo 10.º, com o limite aí referido.
 
@@ -192,6 +205,8 @@ Bonificação de juros
 1 - A bonificação dos juros corresponderá aos encargos que o promotor suporte durante o período de vida do empréstimo, com o limite de sete anos, incluindo o período de utilização e carência.
 
 2 - As taxas máximas de juro e as outras condições dos empréstimos a bonificar serão reguladas em protocolos a estabelecer entre o IAPMEI e as instituições de crédito financiadoras.»
+
+> Alterado pelo/a [Declaração de Rectificação n.º 10-AM/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-am-1999-347302), publicado em 1999-05-31.
 
 ###### Artigo 2.º
 

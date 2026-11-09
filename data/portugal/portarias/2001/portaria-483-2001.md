@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-04-18'
+version_history:
+  file: portaria-483-2001.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2001-05-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-04-18'
+    amending: pt:dre:239606:por
+    amending_title: Portaria n.º 318/2003
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/483/2001/05/10/p/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:32:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 318/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2001/portaria-483-2001.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -145,9 +161,11 @@ REGULAMENTO DE APOIO FINANCEIRO SELECTIVO À TRANSCRIÇÃO DE OBRAS PARA DVD (DI
 
 ###### Artigo 1.º — Âmbito de aplicação
 
-1 - O presente Regulamento estabelece as bases normativas do sistema de apoio financeiro selectivo a conceder pelo Ministério da Cultura, através do Instituto do Cinema, Audiovisual e Multimedia, adiante designado por ICAM, à transcrição para DVD (digital video disk) de obras cinematográficas, obras áudio-visuais e espectáculos nas áreas da música, teatro e dança.
+1 - O presente Regulamento estabelece as bases normativas do sistema de apoio financeiro selectivo a conceder pelo Ministério da Cultura, através do Instituto do Cinema, Audiovisual e Multimédia, adiante designado por ICAM, à transcrição para DVD (Digital Video Disk) de obras cinematográficas e audiovisuais de produção portuguesa.
 
 2 - Fica excluída do apoio financeiro a conceder no âmbito do presente Regulamento, nomeadamente, a transcrição de obras com conteúdo pornográfico, as que apelem ou incitem ao ódio, violência e racismo, bem como manifestações desportivas, publicidade, televenda, teletexto, reportagens, programas e séries televisivas de carácter comercial, concursos, talk shows, telenovelas e demais obras que não tenham carácter cultural.
+
+> Alterado pelo/a [Portaria n.º 318/2003](https://diariodarepublica.pt/dr/detalhe/portaria/318-2003-239606), publicado em 2003-04-17.
 
 ###### Artigo 2.º — Requerentes e beneficiários
 
@@ -172,6 +190,10 @@ Podem candidatar-se e beneficiar de apoio financeiro, a conceder no âmbito do p
 2 - São igualmente fixados por despacho do Ministro da Cultura os limites máximos de apoio financeiro a conceder a cada projecto, tanto em valor absoluto como em percentagem do respectivo custo total.
 
 3 - O ICAM reserva-se o direito de não atribuir a totalidade do apoio financeiro autorizado desde que as candidaturas apresentadas não satisfaçam os critérios de selecção previstos no presente Regulamento.
+
+4 - Caso um requerente apresente vários projectos no âmbito do mesmo concurso não pode beneficiar de apoio financeiro que exceda 30% do montante global disponível para atribuir no mesmo.
+
+> Alterado pelo/a [Portaria n.º 318/2003](https://diariodarepublica.pt/dr/detalhe/portaria/318-2003-239606), publicado em 2003-04-17.
 
 ###### Artigo 5.º — Concurso público
 

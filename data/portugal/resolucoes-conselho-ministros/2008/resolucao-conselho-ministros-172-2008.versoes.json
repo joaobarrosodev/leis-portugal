@@ -1,0 +1,576 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:439808:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2008-11-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51d1c0a0d29f3889",
+    "23836370ae405d04",
+    "dd5e18f1da20330a",
+    "df7c42f5690f5874",
+    "f064dc480de48b2c",
+    "23a08b0caafb81c6",
+    "acb1a22eb7fd5344",
+    "a926385a20c4d258",
+    "06839ba274af7c7f",
+    "b4f23a0901511ead",
+    "5a45ff8d1429abc0",
+    "ed886a1be79a4508",
+    "de9ec478c7e48efc",
+    "b398d6ab332904ec",
+    "43db04bcb4a5c981",
+    "aab22019bf792c98",
+    "6f370f139625b18d",
+    "9225adc1212dd877",
+    "f6521596e154140e",
+    "8d59514baf5cad16",
+    "fd3f07530ae5a4fd",
+    "44427e72b6cafe22",
+    "68380b364a7b3776",
+    "091b4f8dfe9fefdd",
+    "bf6db861c26b1ebb",
+    "4159acd16311e3e2",
+    "f44ce5dbff4be96d",
+    "a27a54701651cf42",
+    "0b2a50fc99b958b9",
+    "d4f951a8b6289dce",
+    "fae7e25ff35d8887",
+    "b2dadb46222ff734",
+    "64b3760894e8bb92",
+    "802fc594a0cba03b",
+    "a7f07a53158419cb",
+    "7bd21a4a800f3298",
+    "ed34c8cad80d5616",
+    "13a5e8214ccd68fc",
+    "a668aa3faba0954d",
+    "f414ffd050185ba2",
+    "a1c450322c36cc82",
+    "65b4534b325bef36",
+    "228de8e1a1231f22",
+    "cbe2e55dddf82bed",
+    "2dd9c47689c94b58",
+    "cac3a79fda4b2fb4",
+    "7399e442e87962b0",
+    "c7bd5582844dff4b",
+    "529ebde6e9978dba",
+    "da20acd7c821cbe1",
+    "183c11118a484665",
+    "53bc38582c9467ec",
+    "c47c37d68fc97dea"
+   ]
+  },
+  {
+   "date": "2015-04-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66921992:por",
+     "title": "Resolução do Conselho de Ministros n.º 17/2015",
+     "published": "2015-04-06",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/17-2015-66921992"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "51d1c0a0d29f3889",
+    "23836370ae405d04",
+    "dd5e18f1da20330a",
+    "df7c42f5690f5874",
+    "f064dc480de48b2c",
+    "23a08b0caafb81c6",
+    "acb1a22eb7fd5344",
+    "a926385a20c4d258",
+    "06839ba274af7c7f",
+    "b4f23a0901511ead",
+    "5a45ff8d1429abc0",
+    "ed886a1be79a4508",
+    "de9ec478c7e48efc",
+    "b398d6ab332904ec",
+    "43db04bcb4a5c981",
+    "aab22019bf792c98",
+    "6f370f139625b18d",
+    "9225adc1212dd877",
+    "f6521596e154140e",
+    "8d59514baf5cad16",
+    "fd3f07530ae5a4fd",
+    "44427e72b6cafe22",
+    "68380b364a7b3776",
+    "091b4f8dfe9fefdd",
+    "bf6db861c26b1ebb",
+    "4159acd16311e3e2",
+    "045508291dedd318",
+    "a27a54701651cf42",
+    "0b2a50fc99b958b9",
+    "d4f951a8b6289dce",
+    "fae7e25ff35d8887",
+    "b2dadb46222ff734",
+    "64b3760894e8bb92",
+    "802fc594a0cba03b",
+    "a7f07a53158419cb",
+    "7bd21a4a800f3298",
+    "ed34c8cad80d5616",
+    "13a5e8214ccd68fc",
+    "a668aa3faba0954d",
+    "f414ffd050185ba2",
+    "a1c450322c36cc82",
+    "65b4534b325bef36",
+    "228de8e1a1231f22",
+    "cbe2e55dddf82bed",
+    "2dd9c47689c94b58",
+    "cac3a79fda4b2fb4",
+    "7399e442e87962b0",
+    "c7bd5582844dff4b",
+    "529ebde6e9978dba",
+    "da20acd7c821cbe1",
+    "183c11118a484665",
+    "53bc38582c9467ec",
+    "c47c37d68fc97dea"
+   ]
+  }
+ ],
+ "fragments": {
+  "51d1c0a0d29f3889": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A barragem do Sabugal foi concluída em 2000, estando integrada no projecto hidroagrícola da Cova da Beira.\n\nDessa barragem resultou uma albufeira que funcionará como reservatório de água, permitindo a transferência da água, por bombagem, para a albufeira da Meimoa. A albufeira do Sabugal tem como finalidade principal a rega mas permitirá ainda a produção de água para consumo humano, bem como a produção de energia eléctrica, através do aproveitamento do desnível que se verifica na transferência de água interbarragens.\n\nA albufeira do Sabugal localiza-se num troço do rio Côa, estando parcialmente inserida na Reserva Natural da Serra da Malcata. Dispõe, ainda, de uma capacidade total de armazenamento de cerca de 114 300 dam3 e uma superfície inundável, ao nível pleno de armazenamento, de 732 ha.\n\nO Plano de Ordenamento da Albufeira do Sabugal (POAS) incide sobre o plano de água e respectiva zona de protecção com uma largura de 500 m contada a partir do nível de pleno armazenamento (cota 790 m) e medida na horizontal, integrando-se, na sua totalidade, no concelho do Sabugal.\n\nEncontra-se classificada, pelo [Decreto Regulamentar n.º 25/99](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/25-1999-692220), de 27 de Outubro, de acordo com o [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, como albufeira protegida. Nos termos daquele diploma, albufeiras protegidas são «aquelas cuja água é ou se prevê que venha a ser utilizada para abastecimento de populações e aquelas cuja protecção é ditada por razões de defesa ecológica».\n\nO ordenamento do plano de água e zona envolvente procura conciliar a forte procura desta área com a conservação dos valores ambientais e ecológicos e, principalmente, a preservação da qualidade da água e o aproveitamento dos recursos através de uma abordagem integrada das potencialidades e das limitações do meio, desta forma definindo um modelo de desenvolvimento sustentável para o território.\n\nA elaboração do POAS responde assim ao que se encontra definido no Plano de Bacia Hidrográfica do Douro, aprovado pelo [Decreto Regulamentar n.º 19/2001](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/19-2001-576138), de 10 de Dezembro, o qual define, de entre outros objectivos, a programação do ordenamento do território e do domínio hídrico através da elaboração e aprovação de plano de ordenamento de albufeira.\n\nO POAS foi elaborado de acordo com os princípios definidos no [Decreto-Lei n.º 502/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1971-631657), de 18 de Novembro, e do disposto no [Decreto Regulamentar n.º 2/88](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1988-283514), de 20 de Janeiro, com a redacção que lhe foi dada pelos Decretos Regulamentares n.os [37/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/37-1991-662300), de 23 de Julho, e [33/92](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/33-1992-597158), de 2 de Dezembro.\n\nAtento ao parecer final da Comissão Mista de Coordenação, ponderados os resultados da discussão pública, que decorreu entre 21 de Dezembro de 2005 e 31 de Janeiro de 2006, e concluída a versão final do POAS, encontram-se reunidas as condições para a sua aprovação.\n\nO procedimento de elaboração do POAS foi desenvolvido tendo em conta os princípios estabelecidos no Regime Jurídico dos Instrumentos de Gestão Territorial, aprovado pelo [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, com a redacção que lhe foi dada pelos Decretos-Leis n.os [53/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2000-494840), de 7 de Abril, e [310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro, pelas Leis n.os [58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro, e [56/2007](https://diariodarepublica.pt/dr/detalhe/lei/56-2007-641151), de 31 de Agosto, e pelo [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro, diploma legal ao abrigo do qual é aprovado.\n\nAssim:\n\nAo abrigo do disposto no artigo 49.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, com a redacção que lhe foi dada pelos Decretos-Leis n.os [53/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2000-494840), de 7 de Abril, e [310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro, pelas Leis n.os [58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro, e [56/2007](https://diariodarepublica.pt/dr/detalhe/lei/56-2007-641151), de 31 de Agosto, e pelo [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro, bem como no artigo 3.º e na alínea b) do artigo 8.º do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de Março, na sua redacção actual, e nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Aprovar o Plano de Ordenamento da Albufeira do Sabugal (POAS), cujo Regulamento e respectivas plantas de síntese e de condicionantes são publicados em anexo à presente resolução, dela fazendo parte integrante.\n\n2 - Determinar que nas situações em que o plano municipal de ordenamento do território abrangido não se conforme com as disposições do POAS, deve o mesmo ser objecto de alteração por adaptação, nos termos da alínea a) do n.º 1 do artigo 97.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, com a redacção que lhe foi dada pelos Decretos-Leis n.os [53/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2000-494840), de 7 de Abril, e [310/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2003-429407), de 10 de Dezembro, pelas Leis n.os [58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro, e [56/2007](https://diariodarepublica.pt/dr/detalhe/lei/56-2007-641151), de 31 de Agosto, e pelo [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro, no prazo constante no n.º 2 do mesmo artigo.\n\n3 - Estabelecer que os originais das plantas referidas no n.º 1, bem como os demais elementos fundamentais que constituem o POAS, fiquem disponíveis para consulta na Comissão de Coordenação e Desenvolvimento Regional do Centro, na Administração da Região Hidrográfica do Norte, I. P., e na Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano.\n\nPresidência do Conselho de Ministros, 11 de Setembro de 2008. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\nREGULAMENTO DO PLANO DE ORDENAMENTO DA ALBUFEIRA DO SABUGAL"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "dd5e18f1da20330a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito e natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e natureza jurídica\n\n1 - O Plano de Ordenamento da Albufeira do Sabugal, abreviadamente designado por POAS, é, nos termos da legislação em vigor, um plano especial de ordenamento do território.\n\n2 - A área de intervenção do POAS abrange o plano de água e a zona de protecção da albufeira, integrando o território do concelho do Sabugal, encontrando-se delimitada na planta de síntese."
+  },
+  "df7c42f5690f5874": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nPara além dos objectivos gerais dos planos especiais de ordenamento do território, o POAS tem por objectivos específicos:\n\na) Salvaguardar a defesa e qualidade dos recursos naturais, em especial os hídricos, definindo regras de utilização do plano de água e da zona envolvente da albufeira;\n\nb) Definir as cargas para o uso e ocupação do solo que permitam gerir a área objecto de plano, numa perspectiva dinâmica e interligada;\n\nc) Aplicar as disposições legais e regulamentares vigentes, quer do ponto de vista de gestão dos recursos hídricos quer do ponto de vista do ordenamento do território;\n\nd) Planear de forma integrada a área envolvente da albufeira;\n\ne) Compatibilizar os diferentes usos e actividades existentes e ou a serem criados, com a protecção e valorização ambiental e finalidades principais da albufeira;\n\nf) Identificar as áreas mais adequadas para a conservação da natureza e as áreas mais aptas para actividades secundárias, prevendo as compatibilidades e complementaridades de uso entre o plano de água e as margens da albufeira;\n\ng) Recuperar a qualidade da água da albufeira, visando, designadamente, garantir o abastecimento público à população;\n\nh) Estabelecer as regras tendentes à harmonização e compatibilização das actividades secundárias potenciadas pela albufeira do Sabugal, com as finalidades primárias de abastecimento de água para consumo público, produção de energia eléctrica e rega que justificaram a sua criação, numa perspectiva de valorização e salvaguarda dos recursos e valores naturais em presença."
+  },
+  "f064dc480de48b2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - São elementos constituintes do POAS as seguintes peças escritas e desenhadas:\n\na) Regulamento;\n\nb) Planta de síntese, elaborada à escala de 1:25 000.\n\n2 - São elementos que acompanham o POAS as seguintes peças escritas e desenhadas:\n\na) Planta de condicionantes, elaborada à escala de 1:25 000, assinalando as servidões administrativas e as restrições de utilidade pública;\n\nb) Planta de Reserva Ecológica Nacional, elaborada à escala de 1:25 000;\n\nc) Planta de Reserva Agrícola Nacional, elaborada à escala de 1:25 000;\n\nd) Relatório, que fundamenta as principais medidas, indicações e disposições adoptadas;\n\ne) Planta de enquadramento, elaborada à escala de 1:25 000, abrangendo a área de intervenção, bem como a área envolvente e as principais vias de comunicação;\n\nf) Programa de execução e plano de financiamento, contendo disposições indicativas sobre o escalonamento temporal e a estimativas de custo das intervenções previstas e sobre os meios de financiamento das mesmas;\n\ng) Estudos de base, contendo caracterização física, social, económica e urbanística da área de intervenção e um diagnóstico que fundamenta a proposta do Plano;\n\nh) Participações recebidas em sede de discussão pública e respectivo relatório de ponderação."
+  },
+  "23a08b0caafb81c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos da aplicação do presente Regulamento, são adoptadas as seguintes definições e conceitos:\n\na) «Acesso pedonal consolidado» - espaço delimitado e consolidado com recurso a elementos naturais ou obstáculos adequados à minimização dos impactes sobre o meio, que permite o acesso dos utentes à envolvente do plano de água ou ao próprio plano de água em condições de segurança e conforto de utilização, podendo ser constituído por caminhos regularizados, rampas e escadas em madeira;\n\nb) «Acesso pedonal não consolidado» - espaço delimitado, recorrendo a elementos naturais ou obstáculos adequados à minimização dos impactes sobre o meio, que permite o acesso dos utentes à envolvente do plano de água ou ao próprio plano de água em condições de segurança de utilização, e não é construído por elementos ou estruturas permanentes nem pavimentado;\n\nc) «Acesso viário regularizado» - acesso devidamente delimitado, regularizado, com revestimento permeável ou semipermeável e com sistema de drenagem de águas pluviais;\n\nd) «Acesso viário não regularizado» - acesso com revestimento permeável, delimitado com recurso a elementos naturais ou outros obstáculos adequados à minimização dos impactes sobre o meio;\n\ne) «Actividades secundárias» - actividades induzidas ou potenciadas, pela existência do plano de água da albufeira, designadamente banhos e natação, navegação recreativa a remo e vela, navegação a motor, competições desportivas, pesca e caça, devendo estas ser conciliáveis com as utilizações principais a que se destinam as albufeiras, como sejam o abastecimento de água às populações, a rega e a produção de energia;\n\nf) «Albufeira» - totalidade do volume de água retido pela barragem em cada momento cuja cota altimétrica máxima iguala o nível de plena armazenamento e respectivo leito;\n\ng) «Área total do terreno» - superfície total do terreno objecto de intervenção, incluindo infra-estruturas, medida em hectares;\n\nh) «Circuito hidráulico Sabugal-Meimoa» - estrutura de interligação entre as albufeiras do Sabugal e da Meimoa, dotado de tomada de água, sistema de repulsão de fauna, torre de manobra, túnel e conduta forçada;\n\ni) «Fogo» - corresponde a uma parte ou à totalidade de um edifício, dotada de acesso independente, constituída por um ou mais compartimentos destinados à habitação e por espaços privativos complementares;\n\nj) «Leito da albufeira» - terreno coberto pelas águas limitado, quando não influenciadas por cheias extraordinárias, inundações ou tempestades, limitado pela curva de nível a que corresponde o NPA;\n\nl) «Nível de máxima cheia ou NMC» - nível máximo da água alcançado na albufeira para a cheia de projecto que, no caso concreto da albufeira do Sabugal, corresponde à cota altimétrica de 791,8 m;\n\nm) «Nível de pleno armazenamento ou NPA» - cota máxima a que pode realizar-se o armazenamento de água na albufeira que, no caso de albufeira do Sabugal, corresponde à cota de 790 m;\n\nn) «Nível mínimo de exploração ou NmE» - corresponde à cota altimétrica mínima cujos caudais podem ser derivados para o circuito hidráulico Sabugal-Meimoa e que, no caso concreto da albufeira do Sabugal, corresponde à cota altimétrica de 774 m;\n\no) «Número de pisos» - número máximo de andares ou pavimentos sobrepostos de uma edificação, com excepção dos sótãos e caves sem frentes livres;\n\np) «Plano de água» - a superfície da massa da água da albufeira correspondente ao NPA, delimitada pela cota 790 m;\n\nq) «Pontão flutuante» - embarcadouro ou ancoradouro - plataforma flutuante para acostagem e acesso às embarcações, normalmente incluindo passadiço de ligação à margem;\n\nr) «Rampa ou varadouro» - infra-estrutura em rampa que permite o acesso das embarcações ao plano de água;\n\ns) «Zona non aedificandi» - área delimitada geograficamente onde é interdita qualquer espécie de construção;\n\nt) «Zona terrestre de protecção ou zona de protecção da albufeira» - faixa, medida na horizontal, com a largura de 500 m contados a partir da linha do nível de NPA;\n\nu) «Zona de protecção da barragem e dos órgãos de segurança e de utilização da albufeira» - corresponde, no plano de água, à área envolvente aos órgãos de segurança da barragem, conforme delimitado na planta de síntese;\n\nv) «Zona de respeito da barragem e dos órgãos de segurança e de utilização das albufeiras» - corresponde, na zona de protecção da albufeira, à área terrestre adjacente à barragem e aos órgãos de segurança, conforme delimitado na planta de síntese;\n\nx) «Zona reservada da albufeira» - corresponde a uma faixa marginal à albufeira, integrada na zona de protecção da albufeira, com uma largura máxima de 50 m contada horizontalmente a partir da linha do NPA."
+  },
+  "acb1a22eb7fd5344": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Servidões administrativas e restrições de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Servidões administrativas e restrições de utilidade pública\n\n1 - Na área de intervenção do POAS aplicam-se todas as servidões administrativas e restrições de utilidade pública constantes da legislação em vigor, nomeadamente as seguintes, identificadas na planta de condicionantes:\n\na) Reserva Ecológica Nacional (REN);\n\nb) Reserva Agrícola Nacional (RAN);\n\nc) Áreas protegidas: Reserva Natural da Serra da Malcata;\n\nd) Lista Nacional de Sítios e Zonas de Protecção Especial:\n\ni) Sítio de Interesse Comunitário (SIC) Malcata - PTCON 0004;\n\nii) Zona de Protecção Especial (ZPE) Serra da Malcata - PTZPE 0007;\n\ne) Áreas submetidas ao regime florestal;\n\nf) Áreas percorridas por incêndios;\n\ng) Domínio hídrico:\n\ni) Leitos dos cursos de água e respectiva margem (faixa de 10 m);\n\nii) Leito e margem da albufeira (30 m para além do NPA);\n\nh) Zona reservada (50 m para além do NPA);\n\ni) Património arqueológico;\n\nj) Protecção a linhas de alta e média tensão;\n\nl) Estrada municipal;\n\nm) Ponte que restabelece ligação entre EM 539;\n\nn) Circuito hidráulico Sabugal-Meimoa;\n\no) Marcos geodésicos;\n\np) Zona de protecção da barragem e dos órgãos de segurança e de utilização da albufeira;\n\nq) Zona de respeito da barragem e dos órgãos de segurança e de utilização da albufeira;\n\nr) Infra-estrutura de aproveitamento hidroagrícola.\n\n2 - Com excepção das não cartografáveis, as áreas sujeitas às servidões administrativas e restrições de utilidade pública mencionadas no número anterior encontram-se assinaladas na planta de condicionantes."
+  },
+  "a926385a20c4d258": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Modelo de ordenamento da área de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Modelo de ordenamento da área de intervenção"
+  },
+  "06839ba274af7c7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Zonamento da área de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Zonamento da área de intervenção"
+  },
+  "b4f23a0901511ead": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Zonamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Zonamento\n\nTendo como objectivo a salvaguarda de recursos e valores naturais, numa perspectiva de compatibilização e sustentabilidade de utilizações e usos, a área de intervenção divide-se em duas zonas fundamentais:\n\na) Plano de água que compreende:\n\ni) Zona de protecção da barragem e dos órgãos de segurança e de utilização da albufeira;\n\nii) Zona de sensibilidade ecológica total;\n\niii) Zona de sensibilidade ecológica parcial;\n\niv) Zona de navegação livre;\n\nv) Zona preferencial para a prática de pesca;\n\nvi) Zona de instalação de pontões flutuantes ou embarcadouros;\n\nvii) Localização preferencial para implantação do açude;\n\nb) Zona de protecção da albufeira que compreende:\n\ni) Zona de respeito da barragem e dos órgãos de segurança e de utilização da albufeira;\n\nii) Núcleo de Nossa Senhora da Graça;\n\niii) Espaço agrícola de produção;\n\niv) Espaço de protecção total;\n\nv) Espaço de protecção parcial;\n\nvi) Espaço de recreio e lazer da albufeira do Sabugal;\n\nvii) Perímetro urbano da Malcata;\n\nviii) Espaço de protecção complementar;\n\nix) Ilhas;\n\nx) Linhas de água e margens."
+  },
+  "5a45ff8d1429abc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Plano de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Plano de água"
+  },
+  "ed886a1be79a4508": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Zona de protecção da barragem e dos órgãos de segurança e de utilização da albufeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Zona de protecção da barragem e dos órgãos de segurança e de utilização da albufeira\n\n1 - A zona de protecção da barragem e dos órgãos de segurança e de utilização da albufeira é constituída, no plano de água, por uma faixa de protecção com a largura de 250 m para montante do coroamento da barragem, envolvendo esta última e os órgãos de segurança.\n\n2 - A zona de protecção da barragem e dos órgãos de segurança e utilização da albufeira é ainda constituída por uma área onde se localiza o túnel de ligação à albufeira da Meimoa (junto à ribeira da Porqueira), assegurando a transferência de água entre as duas albufeiras e tendo por objectivo a salvaguarda e segurança das pessoas e impedindo a utilização deste espaço para qualquer actividade.\n\n3 - A zona a que se refere o número anterior corresponde à área entre a ponte nova da Malcata e uma linha perpendicular à ribeira da Porqueira, 150 m a jusante da estrutura submersa da tomada de água.\n\n4 - Na zona de protecção da barragem e dos órgãos de segurança e de utilização da albufeira é interdita a prática de quaisquer actividades recreativas e a navegação de qualquer tipo de embarcações, com excepção das embarcações de socorro e das embarcações de monitorização e vigilância afectas à manutenção das infra-estruturas.\n\n5 - A zona de protecção da barragem e órgãos de segurança e utilização da albufeira deve ser convenientemente sinalizada e balizada nos locais respectivos.\n\n6 - A sinalização a que se refere o número anterior e a fiscalização da zona de protecção da barragem e órgãos de segurança e utilização da albufeira constitui responsabilidade da entidade legalmente competente."
+  },
+  "de9ec478c7e48efc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Zona de sensibilidade ecológica total",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Zona de sensibilidade ecológica total\n\n1 - A zona de sensibilidade ecológica total corresponde ao troço localizado mais a montante do rio Côa.\n\n2 - Nesta zona é interdita:\n\na) A prática de actividades náuticas, banhos e natação;\n\nb) A instalação de pontões flutuantes ou embarcadouros para embarcações de qualquer tipo;\n\nc) A realização de quaisquer acções que se revelem susceptíveis de prejudicar a tranquilidade e as condições de abrigo, alimentação ou reprodução da fauna selvagem.\n\n3 - É ainda interdita a navegação de embarcações, excepto as destinadas a actividades de socorro e vigilância e, ainda, de todas as que se destinem à monitorização e manutenção da albufeira.\n\n4 - A Direcção-Geral dos Recursos Florestais pode criar zonas de protecção na zona de sensibilidade ecológica total."
+  },
+  "b398d6ab332904ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Zona de sensibilidade ecológica parcial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Zona de sensibilidade ecológica parcial\n\n1 - Nesta zona é permitida a prática de actividades de recreio e de lazer.\n\n2 - Na zona de sensibilidade ecológica parcial podem ser criadas zonas de protecção pela Direcção-Geral dos Recursos Florestais.\n\n3 - O açude assinalado na planta de síntese pode ser construído nesta zona desde que observado o disposto no artigo 13.º do presente Regulamento.\n\n4 - Até à construção do açude a que se refere o número anterior, são interditas na zona de sensibilidade ecológica parcial as seguintes actividades:\n\na) A navegação de embarcações, excepto as destinadas a actividades de socorro e vigilância e, ainda, de todas as que se destinem à manutenção e monitorização da albufeira;\n\nb) A prática de banhos e natação."
+  },
+  "43db04bcb4a5c981": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Zona de navegação livre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Zona de navegação livre\n\n1 - Na zona de navegação livre são permitidas as seguintes actividades:\n\na) A navegação com embarcações destinadas a actividades de socorro e vigilância e ainda de todas as que se destinem à monitorização e manutenção da barragem;\n\nb) A navegação recreativa com embarcações motorizadas equipadas com propulsão eléctrica;\n\nc) A navegação recreativa não motorizada, nomeadamente a remo, vela e pedais;\n\nd) A pesca;\n\ne) Os banhos e a natação;\n\nf) A construção de pontões flutuantes ou embarcadouros.\n\n2 - A prática de banhos e natação referida na alínea e) do número anterior fica dependente da classificação da água como balnear, nos termos definidos na legislação aplicável.\n\n3 - A Comissão de Coordenação e Desenvolvimento Regional do Centro pode estabelecer restrições sempre que:\n\na) Se verifiquem incompatibilidades entre os vários tipos de navegação recreativa, em particular nas áreas que apresentem maior número de embarcações;\n\nb) Não se encontrem asseguradas as condições de segurança para a prática de navegação livre, designadamente pelas características da albufeira;\n\nc) As utilizações secundárias do plano de água provoquem alterações que possam pôr em risco a utilização principal da albufeira;\n\nd) Sejam ultrapassadas as densidades recomendáveis."
+  },
+  "aab22019bf792c98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Zona preferencial para a prática de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Zona preferencial para a prática de pesca\n\n1 - A zona preferencial para a prática de pesca corresponde ao conjunto de áreas que, pelas suas especiais aptidões e acessibilidades, reúne condições adequadas para o exercício da actividade piscatória recreativa.\n\n2 - O exercício da pesca desportiva individual e da pesca de competição é regulado por legislação própria, devendo os seus praticantes ser detentores de licença para o efeito."
+  },
+  "6f370f139625b18d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Zona de instalação de pontões flutuantes ou embarcadouros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Zona de instalação de pontões flutuantes ou embarcadouros\n\n1 - A zona de instalação de pontões flutuantes ou embarcadouros corresponde às áreas da margem da albufeira em que se permite a acostagem e amarração de embarcações, devendo, para o efeito, estar associada a iniciativas de uso público.\n\n2 - As áreas destinadas à instalação de pontões flutuantes ou embarcadouros correspondem a um total de cinco e encontram-se assinaladas na planta de síntese.\n\n3 - De acordo com a natureza das embarcações e com as variações ocorridas ao nível do armazenamento da albufeira, a instalação de pontões pode corresponder à construção de cais na margem, respectivas rampas de apoio e ancoradouros de madeira.\n\n4 - Cada pontão flutuante ou embarcadouro pode possuir uma capacidade máxima de 10 embarcações, não devendo o número total de embarcações estacionadas em simultâneo nos pontos assinalados na planta de síntese exceder as 50 embarcações.\n\n5 - A instalação de pontões flutuantes ou embarcadouros está sujeito a prévio licenciamento da Comissão de Coordenação e Desenvolvimento Regional do Centro, devendo, nos termos da legislação em vigor, ser objecto de título de utilização e observar o cumprimento das seguintes condições:\n\na) Não criar perigo a banhistas, embarcações ou à prática de quaisquer outras actividades;\n\nb) Ser constituídos por estruturas ligeiras e flutuantes de modo a permitir a sua fácil remoção e adaptação à variação do nível da água;\n\nc) Os materiais utilizados na construção dos pontões flutuantes ou embarcadouros devem integrar-se adequadamente na paisagem e ser de boa qualidade e ter baixa reflexão solar;\n\nd) Ser mantidos em bom estado de conservação, podendo ser ordenada a sua remoção nos casos em que tal não se verifique.\n\n6 - As embarcações de aluguer não podem exceder o total de 25 % da capacidade máxima dos pontões."
+  },
+  "9225adc1212dd877": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Localização preferencial para implantação do açude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Localização preferencial para implantação do açude\n\n1 - É permitida, nas condições definidas no presente Regulamento, a criação de um açude destinado a assegurar a manutenção do plano de água e a minimizar os efeitos negativos da variação de nível, devendo ainda favorecer a valorização ecológica das faixas ribeirinhas e o desenvolvimento de novos habitats.\n\n2 - O açude deve:\n\na) Ser objecto de um projecto específico e localizar-se a montante da ponte que atravessa a ribeira da Porqueira;\n\nb) Ser construído com coroamento à cota do NPA.\n\n3 - O projecto do açude a que se refere a alínea a) do número anterior deve ser sujeito a aprovação pelas entidades competentes e licenciado nos termos legalmente exigíveis.\n\n4 - Com excepção das actividades mencionadas no número seguinte e sempre que o nível da água não for inferior à cota 782 m, é permitida a prática de actividades secundárias na localização preferencial para implantação do açude.\n\n5 - Na localização preferencial para implantação do açude ficam interditas as seguintes actividades:\n\na) A navegação de embarcações, excepto as destinadas a actividades de socorro e vigilância e, ainda, de todas as que se destinem à monitorização e manutenção da barragem;\n\nb) Instalação de embarcadouros e pontões flutuantes.\n\nDIVISÃO I\n\nDisposições gerais"
+  },
+  "f6521596e154140e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Utilizações permitidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Utilizações permitidas\n\n1 - No plano de água são permitidas, nas condições constantes na legislação específica e do disposto no presente Regulamento, as seguintes actividades e utilizações:\n\na) A pesca;\n\nb) Os banhos e natação, condicionados à classificação da água como balnear, nos termos da legislação em vigor;\n\nc) A navegação recreativa com embarcações motorizadas equipadas com propulsão eléctrica, a remo, pedais e vela;\n\nd) A instalação de pontões flutuantes se observado o disposto no artigo 12.º\n\n2 - É permitida a circulação de embarcações de socorro e de emergência, bem como das embarcações das entidades afectas à monitorização, fiscalização e manutenção das infra-estruturas.\n\n3 - O plano de água deve ser demarcado e sinalizado em função das utilizações definidas no presente Regulamento.\n\n4 - A utilização do plano de água por actividades recreativas deve ser temporariamente suspensa sempre que se mostre necessário proceder ao abastecimento de aeronaves afectas a acções de combate a fogos florestais."
+  },
+  "8d59514baf5cad16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Actividades interditas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Actividades interditas\n\n1 - É interdita, no plano de água, a prática das seguintes actividades recreativas:\n\na) A navegação recreativa com embarcações propulsionadas a motor de combustão interna;\n\nb) A actividade cinegética até à aprovação do plano de gestão global a elaborar pela Direcção-Geral dos Recursos Florestais;\n\nc) A pesca profissional de acordo com a legislação em vigor;\n\nd) A aquicultura;\n\ne) O acesso e a permanência de gado;\n\nf) A rejeição de efluentes de origem doméstica ou industrial, independentemente de se encontrarem tratados ou não;\n\ng) A extracção de inertes no leito da albufeira, excepto quando tal se justifique por razões ambientais ou para garantia do normal funcionamento das infra-estruturas hidráulicas;\n\nh) O estacionamento, a lavagem e o abandono de embarcações;\n\ni) O lançamento ou depósito de resíduos sólidos de qualquer tipo;\n\nj) A prática de actividades ruidosas e o uso de buzinas ou outros equipamentos sonoros, com excepção daqueles que sejam indispensáveis para as acções de socorro e vigilância ou decorrentes da actividade da barragem.\n\n2 - A interdição a que se refere a alínea g) do número anterior é igualmente aplicável às linhas de água afluentes à albufeira."
+  },
+  "fd3f07530ae5a4fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Zonamento e actividades na zona de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Zonamento e actividades na zona de protecção\n\nDIVISÃO I\n\nZonamento"
+  },
+  "44427e72b6cafe22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Zona de respeito da barragem e dos órgãos de segurança e de utilização da albufeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Zona de respeito da barragem e dos órgãos de segurança e de utilização da albufeira\n\n1 - Constituem objectivos de ordenamento desta zona a preservação da barragem e o funcionamento correcto dos órgãos de segurança e de utilização da albufeira.\n\n2 - Nesta zona são permitidas actividades de recreio passivo e ainda o passeio em áreas e percursos onde não exista sinalização que proíba expressamente o acesso.\n\n3 - Esta zona deve ser devidamente sinalizada pela entidade competente.\n\n4 - Nesta zona encontra-se totalmente interdita a realização de quaisquer obras de edificação, com excepção das construções necessárias ao funcionamento da barragem e do Centro de Educação Ambiental e ainda dos viveiros integrados na Reserva Natural da Serra da Malcata e de outros equipamentos aprovados pelo INAG e pela Direcção-Geral de Agricultura e Desenvolvimento Rural."
+  },
+  "68380b364a7b3776": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Núcleo de Nossa Senhora da Graça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Núcleo de Nossa Senhora da Graça\n\n1 - Constituem objectivos de ordenamento deste espaço o aproveitamento e valorização dos elementos patrimoniais e culturais presentes, em particular a zona de Nossa Senhora da Graça, espaços envolventes e área correspondente aos antigos estaleiros da barragem.\n\n2 - Neste espaço são permitidos usos e actividades de educação ambiental."
+  },
+  "091b4f8dfe9fefdd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Espaço agrícola de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Espaço agrícola de produção\n\n1 - Integram o espaço agrícola de produção as áreas integradas na Reserva Agrícola Nacional.\n\n2 - Sem prejuízo do disposto na legislação aplicável relativamente à RAN, no espaço agrícola de produção é admitida a edificação afecta às seguintes finalidades e desde que observado o disposto no artigo 32.º:\n\na) Habitação permanente dos proprietários ou titulares dos direitos de exploração;\n\nb) Empreendimentos de turismo no espaço rural ou empreendimentos de turismo de habitação;\n\nc) Construções de apoio à actividade agrícola.\n\n3 - Excepcionam-se do disposto no número anterior as áreas que se insiram em zona reservada, nas quais se permite a realização de obras de alteração e de conservação.\n\n4 - As obras de construção permitidas nos termos deste artigo estão sujeitas aos seguintes condicionamentos:\n\na) Não existir alternativa de localização viável para a construção, a comprovar através de certidão do serviço de finanças, com a descrição dos prédios que o requerente possua na área e respectiva implantação em carta;\n\nb) Existência de parecer prévio da Comissão Regional da Reserva Agrícola;\n\nc) Utilização de materiais de revestimento que garantam uma correcta integração paisagística, em conformidade com o disposto no artigo 32.º do presente Regulamento;\n\nd) Caso não exista rede pública, o abastecimento de água, a drenagem e tratamento de esgotos e o abastecimento de energia eléctrica devem ser assegurados por sistema autónomo;\n\ne) A abertura de novos acessos que sejam devidamente justificados para acesso às edificações é da responsabilidade do proprietário;\n\nf) A parcela esteja legalmente constituída e tenha uma área mínima de 10 000 m2, integralmente abrangida por esta classe de espaços;\n\ng) A parcela onde se pretende realizar a construção esteja integrada numa exploração agrícola onde o requerente desenvolve a sua actividade de agricultor;\n\nh) Ser a necessidade de construção comprovada pelos serviços sectoriais competentes;\n\ni) Seja admitida a construção de apenas um fogo por parcela;\n\nj) Com excepção de silos, depósitos de água ou instalações especiais devidamente justificadas, a altura máxima não deverá ultrapasse os 3,5 m;\n\nl) O número máximo de pisos não exceda um;\n\nm) O índice de construção máximo seja de 0,02;\n\nn) A área bruta de construção máxima é de 200 m2, com excepção dos anexos agrícolas em que é de 300 m2.\n\n5 - Nos casos a que se refere o número anterior e sem prejuízo do cumprimento das condições aí previstas, o requerente deve ser agricultor na exploração, de acordo com a regulamentação existente e a comprovar por declarações fiscais, devendo ainda os serviços sectoriais, sempre que ocorra mão-de-obra permanente, comprovar a sua necessidade.\n\n6 - Excluem-se do disposto no n.º 4 os apoios agrícolas que possam, comprovadamente, gerar problemas de poluição da água.\n\n7 - Com excepção dos edifícios destinados a empreendimentos de turismo no espaço rural ou empreendimentos de turismo de habitação, é permitida a realização de obras de conservação e de alteração, bem como a realização de obras de ampliação nas construções existentes, até ao máximo de 20 % da respectiva área de implantação.\n\n8 - Nas construções destinadas a turismo no espaço rural ou turismo de habitação, é permitida a realização de obras de conservação e de ampliação até ao limite máximo de 50 % da área ocupada e desde que essa ampliação não corresponda a um aumento de cércea.\n\n9 - Nestas zonas não são permitidas operações de loteamento."
+  },
+  "bf6db861c26b1ebb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Espaço de protecção total",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Espaço de protecção total\n\n1 - O espaço de protecção total corresponde ao espaço ocupado pela Reserva Natural da Serra da Malcata, incluindo ainda a zona de protecção especial.\n\n2 - Constituem objectivos de ordenamento deste espaço a manutenção e conservação dos diferentes valores faunísticos e florísticos.\n\n3 - Neste espaço devem ser favorecidas as acções de gestão dos carvalhais existentes e de arborização de novas áreas com recurso às espécies autóctones.\n\n4 - De modo a assegurar o potencial faunístico, os usos agrícolas não devem ser alterados para regimes intensivos, mantendo-se as práticas extensivas e tradicionais.\n\n5 - Excepto nos edifícios que se destinem a empreendimentos de turismo natureza, é permitido neste espaço a realização de obras de conservação, de alteração e de ampliação até 20 % da respectiva área de implantação.\n\n6 - Nas construções que se destinem ao turismo natureza, são permitidas obras de conservação, de reconstrução e de ampliação até o limite máximo de 50 % da área de implantação e desde que essa ampliação não corresponda a um aumento de cércea.\n\n7 - As características arquitectónicas e paisagísticas das construções devem observar o disposto no artigo 32.º do presente Regulamento.\n\n8 - Salvo se previsto em planos de gestão florestal, fica interdito o corte raso dos carvalhais existentes.\n\n9 - Nestas zonas não são permitidas novas construções nem operações de loteamento."
+  },
+  "4159acd16311e3e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Espaço de protecção parcial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Espaço de protecção parcial\n\n1 - O espaço de protecção parcial corresponde à área ocupada pelo sítio da Malcata (classificada na Lista Nacional de Sítios - PTCON0004), integrando ainda as áreas com interesse para a conservação da natureza.\n\n2 - Constituem objectivos de ordenamento deste espaço a manutenção e valorização da vegetação existente e preservação do seu valor ecológico.\n\n3 - São designadamente compatíveis com este espaço as seguintes actividades de recreio e lazer:\n\na) Turismo no espaço rural ou turismo de habitação, de acordo com a legislação em vigor;\n\nb) Actividades de educação ambiental;\n\nc) Instalação de parques de merendas;\n\nd) Percursos pedestres.\n\n4 - As mobilizações de terreno devem ser reduzidas ao mínimo indispensável, devendo ser preservada a cobertura da vegetação existente no local, especialmente a arbórea.\n\n5 - Com o objectivo de assegurar o potencial faunístico, os usos agrícolas não podem ser alterados para regimes intensivos, mantendo-se as práticas extensivas e tradicionais.\n\n6 - É interdita a instalação de estabelecimentos pecuários intensivos, incluindo os avícolas e a instalação ou ampliação de estabelecimentos industriais.\n\n7 - Nas construções existentes é permitida a realização de obras de conservação, reconstrução e de ampliação até 40 % da área de implantação, ou até ao máximo de 200 m2, excepto nos edifícios que se destinem a empreendimentos de turismo no espaço rural ou empreendimentos de turismo de habitação.\n\n8 - Nas construções destinadas a turismo no espaço rural ou turismo de habitação são permitidas obras de conservação e de ampliação até o limite máximo de 50 % da área de implantação e desde que essa ampliação não implique um aumento de cércea.\n\n9 - No espaço de protecção parcial pode ser construído um hotel rural.\n\n10 - As características arquitectónicas e paisagísticas das construções devem observar o disposto no artigo 32.º do presente Regulamento.\n\n11 - Nas áreas junto ao Gravato, à Cabeça de São Domingos e ao Moinho do Rubino, na margem direita do rio Côa, é permitida a criação de:\n\na) Parque de merendas;\n\nb) Estacionamento para o número de veículos previstos na planta de síntese;\n\nc) Zona de instalação de pontões flutuantes ou embarcadouros.\n\n12 - Na área junto ao Relengo localizada na margem esquerda do rio Côa é permitida a criação de:\n\na) Espaço de recreio balnear;\n\nb) Parque de merendas;\n\nc) Estacionamento para o número de veículos previstos na planta de síntese;\n\nd) Zona destinada à instalação de pontões flutuantes ou embarcadouros.\n\n13 - Nestas zonas não são permitidas operações de loteamento."
+  },
+  "f44ce5dbff4be96d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Espaço de recreio e lazer da albufeira do Sabugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Espaço de recreio e lazer da albufeira do Sabugal\n\n1 - O espaço de recreio e lazer da albufeira do Sabugal localiza-se entre o aglomerado urbano da Malcata e o plano de água, estando associado à fruição de valores naturais e culturais, incluindo o plano de água e elementos paisagísticos.\n\n2 - No espaço de recreio e lazer da albufeira do Sabugal podem ser instalados os seguintes empreendimentos turísticos:\n\na) Um estabelecimento hoteleiro;\n\nb) Um aldeamento turístico.\n\n3 - Neste espaço pode ainda admitir-se a instalação de:\n\na) Centro náutico;\n\nb) Pontão flutuante ou embarcadouro;\n\nc) Zona de recreio balnear;\n\nd) Piscina flutuante;\n\ne) Parque de estacionamento;\n\nf) Parque de merendas;\n\ng) Restaurante.\n\n4 - As novas construções não devem exceder o limite máximo de dois pisos, à excepção do estabelecimento hoteleiro que pode dispor de três pisos desde que a respectiva construção se revele adaptada às características morfológicas do terreno e, no mínimo, sejam afastadas do NPA em 250 m.\n\n5 - A capacidade de alojamentos dos empreendimentos turísticos não pode ultrapassar, no seu conjunto, as 300 camas, não podendo aquela capacidade ser preenchida por um único empreendimento.\n\n6 - A área bruta de construção máxima dos dois empreendimentos não pode ultrapassar no seu conjunto 12 000 m2.\n\n7 - As características arquitectónicas e paisagísticas das construções obedecem ao disposto no artigo 32.º do presente Regulamento.\n\n8 - O restaurante deve ficar implantado fora da zona reservada, devendo corresponder a uma construção ligeira ou mista que se integre correctamente na paisagem, e dispor de volumetria máxima de um piso acima da cota natural do terreno e, ainda, de uma área de implantação máxima de 250 m2.\n\n9 - O centro náutico deve, preferencialmente, ser localizado junto à zona de instalação do pontão flutuante ou embarcadouro e afastado da zona de recreio balnear.\n\n10 - A piscina flutuante admitida nesta área deve localizar-se na zona de recreio balnear.\n\n11 - O titular de licença do centro náutico deve assegurar as seguintes infra-estruturas e serviços:\n\na) Acesso pedonal regularizado;\n\nb) Acesso viário regularizado a veículos de emergência;\n\nc) Estacionamento automóvel regularizado fora da zona reservada da albufeira;\n\nd) Recolha de lixo e limpeza.\n\n12 - Deve ser criada uma cortina arbórea que diminua impactes negativos na paisagem e que garanta que o empreendimento não seja visível do plano de água.\n\n13 - O espaço remanescente deve ser objecto de um plano de valorização ambiental e paisagística e, ainda, de um plano de monitorização a curto, médio e longo prazos.\n\n14 - Os equipamentos devem ser instalados de modo que a respectiva cota permita a ligação à ETAR da Malcata."
+  },
+  "a27a54701651cf42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Perímetro urbano da Malcata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Perímetro urbano da Malcata\n\n1 - Este espaço corresponde aos limites do perímetro urbano da Malcata definido no Plano Director Municipal do Sabugal, sendo-lhe aplicáveis as disposições do mesmo.\n\n2 - Na área correspondente ao perímetro urbano da Malcata deve privilegiar-se:\n\na) A reabilitação do edificado existente;\n\nb) A instalação de pequeno comércio e restauração;\n\nc) A criação de locais para produção, promoção e venda de artesanato e produtos regionais;\n\nd) A instalação e funcionamento de infra-estruturas de abastecimento e tratamento de água;\n\ne) A remodelação da rede viária;\n\nf) A criação de estacionamentos com capacidade adequada;\n\ng) A integração paisagística entre os diversos usos;\n\nh) A criação de um posto de turismo."
+  },
+  "0b2a50fc99b958b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Espaço de protecção complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Espaço de protecção complementar\n\n1 - O espaço de protecção complementar corresponde a uma área de reduzida sensibilidade ecológica localizada na envolvente do perímetro urbano da Malcata.\n\n2 - O espaço de protecção complementar assegura a transição entre a área urbana da Malcata e a área rural.\n\n3 - A realização de obras de edificação deste espaço rege-se pelo disposto no plano municipal de ordenamento do território do Sabugal.\n\n4 - Sem prejuízo das disposições constantes no presente Regulamento bem como na legislação específica aplicável, no espaço de protecção complementar as obras de construção ficam condicionadas às disposições constantes dos artigos 32.º e 33.º do presente Regulamento."
+  },
+  "d4f951a8b6289dce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Ilhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Ilhas\n\n1 - As ilhas correspondem a zonas de terra emersa quando a albufeira se encontra em NPA.\n\n2 - Constitui objectivo de ordenamento desta zona a preservação das características ecológicas e de valorização ambiental.\n\n3 - As ilhas constituem zonas non aedificandi."
+  },
+  "fae7e25ff35d8887": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Linhas de água e margens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Linhas de água e margens\n\n1 - As linhas de água e respectivas margens correspondem a importantes cursos de água no contexto hidrológico e ecológico da área de intervenção do presente Plano, assumindo uma presença real ou potencial de povoamentos florestais de alto valor ecológico e paisagístico, pequenas matas de folhosas e ainda de galerias ripícolas.\n\n2 - Constituem objectivos de ordenamento destes espaços a manutenção e valorização de estruturas biofísicas fundamentais, com vista à preservação dos valores naturais da paisagem, ao controlo da erosão e à estabilidade e diversidade ecológicas.\n\n3 - Com vista ao equilíbrio e à diversidade paisagística e ambiental devem ser preservadas e potenciadas as características e possibilidades de revitalização biofísica.\n\n4 - De modo a preservar e a maximizar o seu valor ecológico, biológico e paisagístico, são permitidas acções que visem acelerar a evolução das sucessões naturais com introdução ou manutenção de matas de folhosas autóctones.\n\n5 - As espécies folhosas autóctones devem constituir, pelo menos, 80 % dos novos povoamentos e devem ser instaladas ao longo das linhas de água.\n\n6 - São interditas mobilizações mecânicas do solo nas áreas envolventes das linhas de água até uma distância mínima de 10 m para cada lado.\n\n7 - Estas zonas constituem zonas non aedificandi."
+  },
+  "b2dadb46222ff734": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Parque de merendas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Parque de merendas\n\n1 - É ainda permitida, nas áreas assinaladas na planta de síntese, a instalação de parques de merendas, os quais devem obedecer às seguintes condições:\n\na) Ocupar, cada um, no máximo uma área de 3000 m2 e ter lotação máxima de 40 pessoas;\n\nb) Encontrar-se, obrigatoriamente, equipados com mesas e bancos, acessos viário e pedonal, estacionamento automóvel, instalações sanitárias, rede de infra-estruturas de água e saneamento básico, recolha de lixos e meios precários de combate a incêndios.\n\n2 - As áreas destinadas a parque de merendas podem, ainda, ser vedadas e possuir uma rede de trilhos e zonas de descanso.\n\n3 - Os arranjos exteriores e os parques de estacionamento devem privilegiar a utilização de materiais permeáveis ou semipermeáveis, devendo o material vegetal a utilizar pertencer ao elenco autóctone ou tradicional da paisagem local."
+  },
+  "64b3760894e8bb92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Recreio balnear",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Recreio balnear\n\n1 - O recreio balnear pode ser praticado em zonas que reúnam do ponto de vista ambiental e paisagístico condições para a prática de actividades relacionadas com o recreio e lazer, tal como definidas na planta de síntese.\n\n2 - A utilização destas zonas com fins balneares está dependente de classificação das áreas como balneares, nos termos da legislação em vigor.\n\n3 - Sempre que nos termos da legislação em vigor o plano de água seja classificado como água balnear, a zona de recreio balnear deve ser destinada à prática de banhos e natação, sendo interditas todas as outras actividades secundárias.\n\n4 - Excepciona-se do disposto no número anterior a navegação de embarcações de socorro e emergência.\n\n5 - As zonas de recreio balnear estão sujeitas à obtenção de título de utilização, devendo o respectivo titular garantir, obrigatoriamente, as seguintes infra-estruturas e serviços:\n\na) Acesso pedonal, não consolidado ou consolidado e, a veículos de emergência, entre o estacionamento e o plano de água;\n\nb) Acesso viário, o qual deve terminar em áreas de estacionamento ou de retorno, sendo regularizado ou não regularizado;\n\nc) Instalações sanitárias;\n\nd) Recolha de lixo e limpeza.\n\n6 - O titular fica ainda obrigado a garantir as seguintes infra-estruturas e serviços:\n\na) Balneário/vestiário;\n\nb) Comunicação de emergência e serviços de assistência a banhistas;\n\nc) Afixação, em locais bem visíveis, dos resultados das análises da qualidade da água, com a indicação da aptidão balnear.\n\n7 - O titular pode ainda dispor de um equipamento de apoio e restaurante, a implantar fora da zona reservada, desde que seja uma construção ligeira ou mista e se integre adequadamente na paisagem, com a volumetria máxima de um piso acima da cota natural do terreno e uma área coberta não superior a 120 m2.\n\n8 - As construções referidas nos números anteriores devem, obrigatoriamente, respeitar as disposições referentes ao saneamento básico, de acordo o artigo 33.º do presente Regulamento, bem como a restante legislação em vigor.\n\n9 - Nas zonas de recreio balnear é proibida a rejeição de efluentes de qualquer origem.\n\n10 - Os arranjos exteriores e o parque de estacionamento devem utilizar materiais permeáveis ou semipermeáveis, devendo o material vegetal a utilizar ser do elenco autóctone ou tradicional da paisagem local.\n\n11 - Constituem, ainda, obrigações do titular:\n\na) A realização de análises da qualidade da água, de acordo com a legislação em vigor;\n\nb) Dispor de pessoal necessário e devidamente habilitado para prestar serviço de assistência a banhistas durante a época balnear;\n\nc) Comunicar às autoridades competentes qualquer alteração na qualidade do ambiente ou qualquer infracção ao presente Regulamento;\n\nd) Manter limpa a área.\n\nDIVISÃO II\n\nDisposições gerais"
+  },
+  "802fc594a0cba03b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Actividades proibidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Actividades proibidas\n\nNa zona de protecção, nos termos da legislação em vigor, são proibidas as seguintes actividades:\n\na) A instalação de estabelecimentos industriais e de explorações pecuárias intensivas, incluindo as avícolas;\n\nb) O armazenamento de pesticidas e de adubos orgânicos ou químicos, com excepção dos destinados ao consumo na exploração, desde que em local coberto e em piso impermeabilizado;\n\nc) O emprego de pesticidas, a não ser em casos justificados e condicionados às zonas a tratar e quanto à natureza, características e doses dos produtos a usar;\n\nd) O emprego de adubos químicos azotados ou fosfatados, nos casos que impliquem risco de contaminação da água destinada ao abastecimento das populações e de eutrofização da albufeira;\n\ne) O lançamento de excedentes de pesticidas ou de caldas pesticidas e de águas de lavagem com uso de detergentes;\n\nf) A descarga, rejeição ou infiltração no terreno de esgotos de qualquer natureza, independentemente do seu tratamento dentro dos parâmetros a fixar, quando seja viável o seu lançamento a jusante da albufeira ou quando excedam determinados valores, a fixar pelos serviços competentes;\n\ng) A mobilização de solos efectuada em desconformidade com as curvas de nível, a constituição de depósitos de terras soltas em áreas declivosas e sem dispositivos que evitem o seu arraste e, em geral, todas as demais actividades que aumentem de forma significativa a erosão do solo e o transporte sólido para a albufeira ou, ainda, que induzam alterações ao relevo existente;\n\nh) A instalação de tendas ou equipamentos móveis em locais públicos sem prévio licenciamento;\n\ni) A prática de campismo fora dos locais destinados a esse efeito;\n\nj) A instalação de depósitos de resíduos de qualquer natureza;\n\nl) A instalação de depósitos de sucatas ou de lixeiras;\n\nm) A circulação de veículos de qualquer natureza, nomeadamente motociclos e veículos todo-o-terreno, fora dos acessos e trilhos a esse fim destinados, com excepção dos veículos em serviço de fiscalização, manutenção ou socorro e os decorrentes da actividade agrícola e florestal, aplicando-se, em toda a zona de protecção, o disposto no artigo 2.º do [Decreto-Lei n.º 218/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1995-432458), de 26 de Agosto;\n\nn) A permanência de gado;\n\no) A realização de eventos turístico-culturais ou turístico-desportivos sem prévia autorização das entidades competentes;\n\np) A instalação de aterros sanitários;\n\nq) A extracção de materiais inertes;\n\nr) A aplicação de fertilizantes orgânicos no solo, nomeadamente efluentes pecuários e lamas, numa faixa, medida na horizontal, com a largura de 200 m contados a partir da linha do nível de pleno armazenamento;\n\ns) A descarga de efluentes cujos teores de fósforo, azoto, carbono, mercúrio e outros metais pesados (como o chumbo e o cádmio) e pesticidas excedam os valores fixados na legislação aplicável;\n\nt) A descarga de efluentes de origem doméstica ou industrial não tratados;\n\nu) A prática de actividades desportivas que provoquem poluição ou deteriorem os valores naturais, designadamente o motocross e o karting."
+  },
+  "a7f07a53158419cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Zona reservada da albufeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Zona reservada da albufeira"
+  },
+  "7bd21a4a800f3298": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Zona reservada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Zona reservada\n\n1 - Nesta zona devem ser favorecidas as acções de beneficiação dos carvalhais existentes e de arborização de novas áreas recorrendo às espécies autóctones.\n\n2 - Devem ser preservadas todas as orlas de vegetação ribeirinha existentes, de protecção a linhas de água, caracterizadas por vegetação ripícola autóctone ou tradicionalmente adaptada, bem como incentivada a sua implantação em situações em que estes ecossistemas não existam ou se encontrem degradados.\n\n3 - Nos termos do presente Regulamento, é permitido na zona reservada:\n\na) A criação de taludes de contenção e protecção do plano de água;\n\nb) A instalação de pontões flutuantes ou embarcadouros para apoio às embarcações, preferencialmente associadas a zonas de recreio e lazer.\n\n4 - A intervenção referida na alínea a) do número anterior deve ser realizada acima do NMC nas zonas de interface com as áreas de interesse para a actividade agrícola e pecuária.\n\n5 - Na zona reservada e sem prejuízo do disposto na legislação aplicável, é interdita a edificação, com as seguintes excepções:\n\na) Infra-estruturas de apoio à utilização da albufeira, nos termos do presente Regulamento;\n\nb) Obras de reconstrução, de conservação e de ampliação nas construções existentes devidamente legalizadas desde que devidamente fundamentadas e sem alteração de uso;\n\nc) O abastecimento de água, a drenagem e tratamento de esgotos e o abastecimento de energia eléctrica, caso não exista rede pública, têm de ser assegurados por sistema autónomo;\n\nd) A abertura de novos acessos, devidamente justificados, para acesso às edificações é da responsabilidade do proprietário.\n\n6 - As obras de ampliação a que se refere a alínea b) do número anterior só devem ser permitidas quando sejam destinadas a suprir insuficiências relativas a instalações sanitárias e a cozinhas, não podendo, em qualquer caso, corresponder a um aumento total de área de construção superior a 25 m2 ou a um aumento de cércea, e não devendo ocupar, em relação à albufeira, terrenos mais avançados que a edificação existente.\n\n7 - Qualquer das obras referidas no n.º 5 deve ser precedida de autorização do INAG e de licenciamento da Comissão de Coordenação e Desenvolvimento Regional do Centro, devendo, ainda, observar o que se dispõe no artigo 33.º do presente Regulamento.\n\n8 - Na zona reservada constitui dever das entidades gestoras das zonas de caça aí existentes promover a criação de condicionantes à actividade cinegética.\n\n9 - Não é permitido o acesso de gado à albufeira nem a sua permanência na zona reservada."
+  },
+  "ed34c8cad80d5616": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV — Regimes específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV — Regimes específicos"
+  },
+  "13a5e8214ccd68fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Património arqueológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Património arqueológico\n\n1 - A descoberta de quaisquer vestígios arqueológicos na área de intervenção do POAS obriga imediatamente:\n\na) À suspensão dos trabalhos no local;\n\nb) À comunicação às entidades competentes, nos termos legais.\n\n2 - Nos casos previstos no número anterior, os trabalhos só podem ser retomados após a pronúncia legalmente devida dos órgãos competentes.\n\n3 - Sem prejuízo do disposto nos números anteriores e para efeitos de emissão de parecer, nos sítios arqueológicos assinalados na planta de síntese, quaisquer obras de edificação ou que impliquem a modificação do uso dos solos devem ser previamente comunicadas ao Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P. (IGESPAR, I. P.)"
+  },
+  "a668aa3faba0954d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Zona de protecção à captação superficial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Zona de protecção à captação superficial\n\n1 - A zona de protecção à captação superficial para produção de água para consumo humano encontra-se delimitada na planta de síntese e abrange uma área definida no plano de água com um raio de 100 m.\n\n2 - Na zona de protecção à captação no plano de água são interditas:\n\na) Todas as actividades secundárias;\n\nb) A rejeição de qualquer tipo de efluentes de origem doméstica e industrial no plano de água.\n\n3 - Exceptuam-se do disposto no número anterior:\n\na) A circulação de embarcações de socorro e emergência;\n\nb) A circulação de embarcações de manutenção das infra-estruturas da barragem e da captação;\n\nc) A circulação de embarcações destinadas à colheita de amostras de água para monitorização da qualidade.\n\n4 - A cessação dos efeitos da licença da captação de água, com a respectiva desactivação, é acompanhada da corresponde cessação dos efeitos da zona de protecção e condicionantes associados.\n\n5 - Estas zonas devem ser devidamente sinalizadas no plano de água e demarcadas pela entidade competente."
+  },
+  "f414ffd050185ba2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Normas de edificabilidade, construção e saneamento básico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Normas de edificabilidade, construção e saneamento básico"
+  },
+  "a1c450322c36cc82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Normas de edificabilidade e construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Normas de edificabilidade e construção\n\n1 - O licenciamento de construções depende do cumprimento das regras constantes do presente Regulamento e das demais normas legais e regulamentares em vigor.\n\n2 - Sem prejuízo da aplicação de linguagem arquitectónica e de materiais e tecnologias da construção contemporâneos, as edificações devem enquadrar-se na paisagem envolvente e reflectir os valores culturais e tradicionais da região.\n\n3 - Nas áreas envolventes de novas construções é obrigatório efectuar um adequado tratamento paisagístico, o qual deve ser executado de acordo com projecto realizado para o efeito, com vista ao enquadramento paisagístico, à estabilização de terras, à redução dos impactes visuais negativos, bem como à manutenção do coberto vegetal e da arborização existentes nas áreas envolventes.\n\n4 - De acordo com a legislação em vigor, deve, por razões de segurança, ser realizada a limpeza num raio nunca inferior a 50 m à volta das construções.\n\n5 - No decurso dos trabalhos de construção devem ser tomadas as medidas cautelares necessárias para minimizar as perturbações ambientais e reduzir os impactes negativos correspondentes.\n\n6 - Sempre que existam áreas ocupadas com povoamentos florestais não são permitidas novas construções."
+  },
+  "65b4534b325bef36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Saneamento básico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Saneamento básico\n\n1 - A autorização para o exercício de qualquer actividade ou para a realização de qualquer obra na área de intervenção do POAS só pode ser dada mediante a prévia apresentação do respectivo projecto de saneamento básico, o qual deve contemplar soluções adequadas para o abastecimento de água, drenagem, tratamento e destino final das águas residuais e a remoção e tratamento dos resíduos sólidos.\n\n2 - A fiscalização e a vistoria dos sistemas de tratamento devem ser realizadas antes da emissão de licença de utilização e, periodicamente, de dois em dois anos.\n\n3 - O aglomerado urbano da Malcata assim como as habitações isoladas que produzam efluentes susceptíveis de serem lançados na albufeira devem, obrigatoriamente, ser ligados aos sistemas de drenagem municipal ou, caso tal não seja viável, ser dotados de sistemas de tratamento eficazes.\n\n4 - A entidade responsável pela captação de água para abastecimento público deve propor e executar planos de gestão de quantidade e qualidade de água que prevejam mecanismos de fiscalização, incentivo a práticas positivas de consumo de água e monitorização dos principais parâmetros."
+  },
+  "228de8e1a1231f22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Recolha e tratamento de resíduos sólidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Recolha e tratamento de resíduos sólidos\n\nO aglomerado urbano da Malcata assim como as habitações isoladas, os empreendimentos turísticos propostos e outras construções isoladas devem ser servidos por sistema de recolha de resíduos sólidos que, de acordo com a legislação em vigor, assegure que o destino final seja adequado."
+  },
+  "cbe2e55dddf82bed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Outras disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Outras disposições"
+  },
+  "2dd9c47689c94b58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Publicidade\n\n1 - Na área de intervenção do presente Plano é interdita a publicidade sempre que a mesma seja considerada lesiva dos valores naturais, paisagísticos e culturais em presença.\n\n2 - Sem prejuízo do disposto no número anterior, todas as formas de publicidade carecem das autorizações exigidas na legislação em vigor."
+  },
+  "cac3a79fda4b2fb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Sinalização e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Sinalização e informação\n\nSem prejuízo das obrigações definidas no presente Regulamento para os titulares de infra-estruturas ou equipamentos de uso turístico ou de apoio à fruição do plano de água, devem as entidades competentes articular-se de modo a estabelecer a sinalização indicativa e informativa necessária à prossecução dos objectivos do presente Plano."
+  },
+  "7399e442e87962b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Prioridade na utilização da água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Prioridade na utilização da água\n\nEm situação de escassez e consequente conflito de usos, a utilização da água deve cumprir com o disposto no artigo 64.º da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro, e atender aos objectivos específicos definidos no POAS, dando prioridade ao abastecimento público."
+  },
+  "c7bd5582844dff4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais"
+  },
+  "529ebde6e9978dba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Fiscalização\n\nA fiscalização do cumprimento do presente Regulamento compete à Câmara Municipal do Sabugal, à Administração da Região Hidrográfica do Norte, I. P., e às demais entidades competentes em razão na matéria."
+  },
+  "da20acd7c821cbe1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Compatibilização com os planos municipais de ordenamento do território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Compatibilização com os planos municipais de ordenamento do território\n\n1 - Os planos municipais de ordenamento do território devem conformar-se com os objectivos e as disposições do POAS, nomeadamente quanto à classificação do solo e às disposições do presente Regulamento.\n\n2 - Devem os planos municipais de ordenamento do território existentes à data da entrada em vigor do presente Plano ser objecto de alteração, por adaptação, nos termos do artigo 97.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na redacção dada pelo [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro, e no prazo fixado no n.º 2 do mesmo artigo."
+  },
+  "183c11118a484665": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Avaliação da execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Avaliação da execução\n\nO programa de execução e o plano de financiamento devem ser reavaliados no prazo de cinco anos contados a partir da entrada em vigor do POAS."
+  },
+  "53bc38582c9467ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Revisão\n\nO POAS deve ser revisto nos termos do disposto nos n.os 1 e 2 do artigo 98.º do [Decreto-Lei n.º 380/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1999-559019), de 22 de Setembro, na redacção dada pelo [Decreto-Lei n.º 316/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2007-642219), de 19 de Setembro."
+  },
+  "c47c37d68fc97dea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Entrada em vigor\n\nO POAS entra em vigor no dia seguinte ao da sua publicação.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/2008/11/22700/0825608268.pdf)"
+  },
+  "045508291dedd318": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Espaço de recreio e lazer da albufeira do Sabugal",
+   "in_force_from": "2015-04-06",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 17/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2015-66921992), publicado em 2015-04-06."
+   ],
+   "markdown": "###### Artigo 21.º — Espaço de recreio e lazer da albufeira do Sabugal\n\n1 - O espaço de recreio e lazer da albufeira do Sabugal localiza-se entre o aglomerado urbano da Malcata e o plano de água, estando associado à fruição de valores naturais e culturais, incluindo o plano de água e elementos paisagísticos.\n\n2 - No espaço de recreio e lazer da albufeira do Sabugal podem ser instalados os seguintes empreendimentos turísticos:\n\na) Um estabelecimento hoteleiro;\n\nb) Um aldeamento turístico.\n\n3 - Neste espaço pode ainda admitir-se a instalação de:\n\na) Centro náutico;\n\nb) Pontão flutuante ou embarcadouro;\n\nc) Zona de recreio balnear;\n\nd) Piscina flutuante;\n\ne) Parque de estacionamento;\n\nf) Parque de merendas;\n\ng) Restaurante.\n\n4 - As novas construções não devem exceder o limite máximo de dois pisos, salvo quando se tratar de estabelecimento hoteleiro, que pode dispor de três pisos, desde que a respetiva construção se revele adaptada às características morfológicas do terreno e tenha uma distância do NPA de, no mínimo, 150 m.\n\n5 - A capacidade de alojamentos dos empreendimentos turísticos não pode ultrapassar, no seu conjunto, as 300 camas, não podendo aquela capacidade ser preenchida por um único empreendimento.\n\n6 - A área bruta de construção máxima dos dois empreendimentos não pode ultrapassar no seu conjunto 12 000 m2.\n\n7 - As características arquitectónicas e paisagísticas das construções obedecem ao disposto no artigo 32.º do presente Regulamento.\n\n8 - O restaurante deve ficar implantado fora da zona reservada, devendo corresponder a uma construção ligeira ou mista que se integre correctamente na paisagem, e dispor de volumetria máxima de um piso acima da cota natural do terreno e, ainda, de uma área de implantação máxima de 250 m2.\n\n9 - O centro náutico deve, preferencialmente, ser localizado junto à zona de instalação do pontão flutuante ou embarcadouro e afastado da zona de recreio balnear.\n\n10 - A piscina flutuante admitida nesta área deve localizar-se na zona de recreio balnear e o respetivo projeto deve prever soluções técnicas que se adaptem às variações do plano de água.\n\n11 - O titular da licença do centro náutico deve assegurar as infraestruturas e os serviços a seguir indicados, ficando as atividades ou utilizações que se desenvolvam no plano de água sujeitas a projeto que preveja soluções técnicas que se adaptem às variações do plano de água:\n\na) Acesso pedonal regularizado;\n\nb) Acesso viário regularizado a veículos de emergência;\n\nc) Estacionamento automóvel regularizado fora da zona reservada da albufeira;\n\nd) Recolha de lixo e limpeza.\n\n12 - Deve ser criada uma cortina arbórea que diminua impactes negativos na paisagem e que garanta que o empreendimento não seja visível do plano de água.\n\n13 - O espaço remanescente deve ser objecto de um plano de valorização ambiental e paisagística e, ainda, de um plano de monitorização a curto, médio e longo prazos.\n\n14 - Os equipamentos devem ser instalados de modo que a respectiva cota permita a ligação à ETAR da Malcata.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 17/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2015-66921992), publicado em 2015-04-06."
+  }
+ }
+}

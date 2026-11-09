@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-04-22'
+version_history:
+  file: portaria-17609.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-02-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-04-22'
+    amending: pt:dre:681418:por
+    amending_title: Decreto-Lei n.º 92/80
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:41:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 92/80. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1960/portaria-17609.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,33 +132,65 @@ Regulamento da Caixa Económica das Forças Armadas
 
 ### CAPÍTULO I — Natureza e fins
 
-Artigo 1.º A caixa económica cuja organização está prevista no artigo 2.º do [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958, tem a denominação de Caixa Económica das Forças Armadas e o seu funcionamento é regido pelo presente regulamento, que foi elaborado por força do artigo 10.º do referido diploma.
+###### Artigo 1.º
 
-Art. 2.º A Caixa Económica funciona na direcção dos Serviços Sociais das Forças Armadas, integrada no respectivo secretariado, mas a sua actividade poderá vir a ser exercida também, se for considerado conveniente, nas delegações da direcção dos mesmos Serviços que forem constituídas.
+A caixa económica cuja organização está prevista no artigo 2.º do [Decreto-Lei n.º 42072](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42072-1958-342471), de 31 de Dezembro de 1958, tem a denominação de Caixa Económica das Forças Armadas e o seu funcionamento é regido pelo presente regulamento, que foi elaborado por força do artigo 10.º do referido diploma.
 
-Art. 3.º A Caixa Económica funcionará em instalação apropriada, em ligação com o conselho administrativo do secretariado dos Serviços Sociais das Forças Armadas, que se encarregará de todas as operações de tesouraria que digam respeito à primeira. Para tanto, a escrita da Caixa Económica será orientada pelo referido conselho administrativo, de maneira a permitir, a todo o momento, o necessário contrôle das operações e o conhecimento da sua situação financeira.
+###### Artigo 2.º
+
+A Caixa Económica funciona na direcção dos Serviços Sociais das Forças Armadas, integrada no respectivo secretariado, mas a sua actividade poderá vir a ser exercida também, se for considerado conveniente, nas delegações da direcção dos mesmos Serviços que forem constituídas.
+
+###### Artigo 3.º
+
+A Caixa Económica funcionará em instalação apropriada, em ligação com o conselho administrativo do secretariado dos Serviços Sociais das Forças Armadas, que se encarregará de todas as operações de tesouraria que digam respeito à primeira. Para tanto, a escrita da Caixa Económica será orientada pelo referido conselho administrativo, de maneira a permitir, a todo o momento, o necessário contrôle das operações e o conhecimento da sua situação financeira.
 
 § único. Se no futuro for reconhecida a necessidade de dar autonomia completa à Caixa Económia, desligando-a do conselho administrativo, proceder-se-á a essa operação, efectuando-se os lançamentos de contabilidade que forem necessários para o efeito.
 
-Art. 4.º O fim da Caixa Económica é o de efectuar, com baixos juros, operações de recepção de depósitos e concessão de empréstimos.
+###### Artigo 4.º
+
+1 - À Caixa Económica das Forças Armadas competem as seguintes funções, no âmbito das forças armadas:
+
+a) Promoção com baixos juros de:
+
+Operações de depósitos;
+
+Concessão de empréstimos, incluindo os sujeitos a garantias especiais;
+
+Financiamento de construções de carácter eminentemente social, sem prejuízo da concessão de empréstimos;
+
+b) Recepção e administração de legados ou doações, quer dos beneficiários dos Serviços Sociais das Forças Armadas, quer de entidades públicas ou privadas, que especificamente se destinem ao financiamento de instalações de carácter social, incluindo as importâncias destinadas a servir de contrapartida ao uso vitalício de uma fracção dos alojamentos dos complexos sociais, lares ou centros de repouso, nos moldes que vierem a ser fixados por despacho do Chefe do Estado-Maior-General das Forças Armadas.
+
+2 - A concessão de empréstimos é da competência da Comissão Directiva dos Serviços Sociais das Forças Armadas, que poderá delegar num dos seus membros ou no chefe da Caixa Económica das Forças Armadas.
+
+3 - O financiamento referido na alínea b) do n.º 1 carece de autorização prévia do Chefe do Estado-Maior-General das Forças Armadas.
+
+> Alterado pelo/a [Decreto-Lei n.º 92/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-1980-681418), publicado em 1980-04-22.
 
 ### CAPÍTULO II — Operações
 
 #### SECÇÃO I — Depósitos
 
-Art. 5.º A Caixa Económica recebe depósitos à ordem.
+###### Artigo 5.º
+
+A Caixa Económica recebe depósitos à ordem.
 
 § único. A comissão directiva dos Serviços Sociais das Forças Armadas pode, sob proposta do secretário-geral, autorizar a Caixa Económica a receber também depósitos a prazo ou depósitos com aviso prévio.
 
-Art. 6.º Os limites dos depósitos, bem como as taxas de juros, são fixados pelo Ministro da Defesa Nacional, mediante proposta da comissão directiva.
+###### Artigo 6.º
 
-Art. 7.º Podem constituir depósitos na Caixa Económica:
+Os limites dos depósitos, bem como as taxas de juros, são fixados pelo Ministro da Defesa Nacional, mediante proposta da comissão directiva.
+
+###### Artigo 7.º
+
+Podem constituir depósitos na Caixa Económica:
 
 1.º Os beneficiários dos Serviços Sociais das Forças Armadas e pessoas de família a cargo dos mesmos;
 
 2.º As pessoas de nacionalidade portuguesa, hábeis nos termos da lei, que não estejam compreendidas no número anterior, quando autorizadas pela comissão directiva.
 
-Art. 8.º O levantamento dos depósitos pelos herdeiros ou legatários dos depositantes falecidos far-se-á da forma seguinte:
+###### Artigo 8.º
+
+O levantamento dos depósitos pelos herdeiros ou legatários dos depositantes falecidos far-se-á da forma seguinte:
 
 1.º O saldo da conta de depósito pode ser entregue aos interessados, mediante requerimento dirigido à comissão directiva dos Serviços Sociais das Forças Armadas, acompanhado de certidão de narrativa completa do óbito do depositante e de documento comprovativo de se haver procedido a habilitação judicial ou a inventário;
 
@@ -163,7 +210,9 @@ Art. 8.º O levantamento dos depósitos pelos herdeiros ou legatários dos depos
 
 #### SECÇÃO II — Empréstimos
 
-Art. 9.º A Caixa Económica pode conceder empréstimos, dentro das seguintes modalidades, limites, e condições, aos militares do quadro permanente e aos civis contratados, pertencentes aos quadros dos departamentos militares, que sejam beneficiários dos Serviços Sociais das Forças Armadas:
+###### Artigo 9.º
+
+A Caixa Económica pode conceder empréstimos, dentro das seguintes modalidades, limites, e condições, aos militares do quadro permanente e aos civis contratados, pertencentes aos quadros dos departamentos militares, que sejam beneficiários dos Serviços Sociais das Forças Armadas:
 
 1.º O quantitativo dos empréstimos fica dependente das disponibilidades da Caixa Económica no momento do pedido e do condicionamento imposto pelo n.º 5.º deste artigo, mas, normalmente, não deverá exceder a importância do vencimento mensal líquido do peticionário;
 
@@ -175,9 +224,13 @@ Art. 9.º A Caixa Económica pode conceder empréstimos, dentro das seguintes mo
 
 5.º Para se manter a maior equidade possível nesta acção assistencial, as disponibilidades da Caixa Económica destinadas à concessão de empréstimos aos três ramos das Forças Armadas serão atribuídas por percentagens, fixadas no início de cada ano, propostas pela comissão directiva ao Ministro da Defesa Nacional, em função dos efectivos em pessoal de cada um dos três departamentos militares.
 
-Art. 10.º Em circunstâncias muito excepcionais pode a comissão directiva autorizar empréstimos de quantias superiores ao limite estabelecido no n.º 1.º do artigo 9.º, mas, nesse caso, se o entender conveniente, tem a faculdade de exigir do mutuário garantias especiais, tais como letra, aval bancário ou caução, representada por títulos de crédito.
+###### Artigo 10.º
 
-Art. 11.º São condições de preferência para a concessão de empréstimos as seguintes:
+Em circunstâncias muito excepcionais pode a comissão directiva autorizar empréstimos de quantias superiores ao limite estabelecido no n.º 1.º do artigo 9.º, mas, nesse caso, se o entender conveniente, tem a faculdade de exigir do mutuário garantias especiais, tais como letra, aval bancário ou caução, representada por títulos de crédito.
+
+###### Artigo 11.º
+
+São condições de preferência para a concessão de empréstimos as seguintes:
 
 1.º A urgência e necessidade justificada do pedido;
 
@@ -189,19 +242,29 @@ Art. 11.º São condições de preferência para a concessão de empréstimos as
 
 5.º Quaisquer outras considerações de ordem moral atendíveis não compreendidas nos números anteriores.
 
-Art. 12.º A concessão de empréstimos nos termos dos artigos 9.º e 10.º é da competência da comissão directiva dos Serviços Sociais das Forças Armadas, que a pode delegar, total ou parcialmente, no secretário-geral dos referidos Serviços.
+###### Artigo 12.º
 
-Art. 13.º As petições de empréstimos têm de ser formuladas por escrito pelos interessados em impressos modelo SS/Emp. e delas devem constar sempre, e tão detalhadas quanto possível, as razões justificativas do pedido. Na falta do referido impresso, a petição será apresentada em papel comum, preenchido com todas as indicações e requisitos que são exigidos no impresso citado.
+A concessão de empréstimos nos termos dos artigos 9.º e 10.º é da competência da comissão directiva dos Serviços Sociais das Forças Armadas, que a pode delegar, total ou parcialmente, no secretário-geral dos referidos Serviços.
 
-Art. 14.º Sobre as petições dos interessados, informadas prèviamente pelos conselhos adminstrativos na parte respeitante a vencimentos e a descontos, devem os comandos e chefias das unidades e dos estabelecimentos dos departamentos militares de que dependam os peticionários prestar uma informação precisa acerca da justiça do pedido e das circunstâncias especiais atendíveis que possam esclarecer a decisão dos Serviços Sociais das Forças Armadas.
+###### Artigo 13.º
+
+As petições de empréstimos têm de ser formuladas por escrito pelos interessados em impressos modelo SS/Emp. e delas devem constar sempre, e tão detalhadas quanto possível, as razões justificativas do pedido. Na falta do referido impresso, a petição será apresentada em papel comum, preenchido com todas as indicações e requisitos que são exigidos no impresso citado.
+
+###### Artigo 14.º
+
+Sobre as petições dos interessados, informadas prèviamente pelos conselhos adminstrativos na parte respeitante a vencimentos e a descontos, devem os comandos e chefias das unidades e dos estabelecimentos dos departamentos militares de que dependam os peticionários prestar uma informação precisa acerca da justiça do pedido e das circunstâncias especiais atendíveis que possam esclarecer a decisão dos Serviços Sociais das Forças Armadas.
 
 Estas informações devem ser consideradas rigorosamente confidenciais.
 
 No caso de os peticionários militares ou civis estarem a prestar serviço em regime de contrato, deve a informação do conselho administrativo ser explícita quanto à data em que os respectivos contratos terminam.
 
-Art. 15.º As petições, uma vez completamente informadas, serão enviadas ao secretário-geral dos Serviços Sociais das Forças Armadas, para organização do processo e sua decisão.
+###### Artigo 15.º
 
-Art. 16.º Concedido o empréstimo, o conselho administrativo dos Serviços Sociais das Forças Armadas tratará imediatamente de pôr à disposição dos interessados a quantia pedida, por intermédio dos conselhos administrativos que lhes pagam os vencimentos no momento da decisão. A estes conselhos administrativos serão remetidos os elementos que os habilitem a iniciar e a continuar os descontos nos vencimentos dos mutuários, até à integral liquidação dos empréstimos.
+As petições, uma vez completamente informadas, serão enviadas ao secretário-geral dos Serviços Sociais das Forças Armadas, para organização do processo e sua decisão.
+
+###### Artigo 16.º
+
+Concedido o empréstimo, o conselho administrativo dos Serviços Sociais das Forças Armadas tratará imediatamente de pôr à disposição dos interessados a quantia pedida, por intermédio dos conselhos administrativos que lhes pagam os vencimentos no momento da decisão. A estes conselhos administrativos serão remetidos os elementos que os habilitem a iniciar e a continuar os descontos nos vencimentos dos mutuários, até à integral liquidação dos empréstimos.
 
 1.º Quando o mutuário for transferido ou passar a receber os seus vencimentos por outro conselho administrativo, serão os elementos referentes ao empréstimo remetidos a este último pelo conselho administrativo até aí encarregado desse serviço, a fim de que não se verifique interrupção no pagamento das prestações, isto independentemente da informação - que é obrigatória -, na guia de transferência de vencimentos, acerca da situação de pagamento do empréstimo;
 
@@ -209,7 +272,9 @@ Art. 16.º Concedido o empréstimo, o conselho administrativo dos Serviços Soci
 
 3.º Não será concedido novo empréstimo a qualquer beneficiário sem que esteja completamente liquidado o empréstimo anterior, a não ser em situações excepcionais, muito ponderáveis, levadas à consideração da comissão directiva dos Serviços Sociais das Forças Armadas. Nesse caso, proceder-se-á a uma operação de conversão e subsistirá apenas um único débito.
 
-Art. 17.º A amortização de qualquer empréstimo será, em regra, iniciada no mês seguinte ao do da concessão, por meio de descontos nos vencimentos do mutuário.
+###### Artigo 17.º
+
+A amortização de qualquer empréstimo será, em regra, iniciada no mês seguinte ao do da concessão, por meio de descontos nos vencimentos do mutuário.
 
 1.º A entrega das importâncias descontadas respeitantes às prestações vencidas em cada mês será efectuada, obrigatòriamente, pelos conselhos administrativos ou órgãos equivalentes responsáveis, ao conselho administrativo dos Serviços Sociais das Forças Armadas, até ao dia 10 do mês imediato àquele a que dizem respeito, mediante relações donde constem os postos ou categorias dos mutuários, os nomes completos destes, a importância das prestações e a sua ordem numérica, dentro do plano de amortização autorizado, bem como o número de ordem do empréstimo, para completa identificação.
 
@@ -225,17 +290,27 @@ Se, porém, se comprovar que o atraso é da responsabilidade do mutuário, pagar
 
 ### CAPÍTULO III — Fundo de maneio da Caixa Económica
 
-Art. 18.º Na fase inicial da organização da Caixa Económica, e enquanto o volume de depósitos efectuados na mesma Caixa não permitir, com a necessária amplitude, a concessão de empréstimos nos termos dos artigos 9.º e 10.º, será transferida dos fundos à disposição dos Serviços Sociais das Forças Armadas, ou de outros criados para este efeito, a favor da Caixa Económica, a quantia que for julgada necessária. Com essas importâncias se constituirá um fundo de maneio, que será contabilizado no conselho administrativo dos Serviços Sociais das Forças Armadas sob a designação de «Fundo da Caixa Económica».
+###### Artigo 18.º
 
-Art. 19.º O Fundo da Caixa Económica pode ser reforçado, por uma ou mais vezes, pelos processos estabelecidos no artigo anterior, sempre que seja reconhecida a necessidade desse reforço para manter em actividade a Caixa Económica e houver disponibilidades para o efeito.
+Na fase inicial da organização da Caixa Económica, e enquanto o volume de depósitos efectuados na mesma Caixa não permitir, com a necessária amplitude, a concessão de empréstimos nos termos dos artigos 9.º e 10.º, será transferida dos fundos à disposição dos Serviços Sociais das Forças Armadas, ou de outros criados para este efeito, a favor da Caixa Económica, a quantia que for julgada necessária. Com essas importâncias se constituirá um fundo de maneio, que será contabilizado no conselho administrativo dos Serviços Sociais das Forças Armadas sob a designação de «Fundo da Caixa Económica».
 
-Art. 20.º A atribuição das quantias para constituir inicialmente o Fundo da Caixa Económica, bem como as dos reforços previstos no artigo anterior, é da competência exclusiva do Ministro da Defesa Nacional, mediante proposta escrita da comissão directiva dos Serviços Sociais das Forças Armadas.
+###### Artigo 19.º
 
-Art. 21.º Quando as disponibilidades da Caixa Económica resultantes dos depósitos ali efectuados permitam a esta uma vida de certo desafogo financeiro, proceder-se-á, mediante autorização do Ministro da Defesa Nacional, ao reembolso, parcial ou total, do fundo de maneio, a favor dos fundos à disposição dos Serviços Sociais das Forças Armadas, donde proveio, para ter outra aplicação, contabilizando-se cada reembolso por forma inversa à indicada na última parte do artigo 18.º
+O Fundo da Caixa Económica pode ser reforçado, por uma ou mais vezes, pelos processos estabelecidos no artigo anterior, sempre que seja reconhecida a necessidade desse reforço para manter em actividade a Caixa Económica e houver disponibilidades para o efeito.
+
+###### Artigo 20.º
+
+A atribuição das quantias para constituir inicialmente o Fundo da Caixa Económica, bem como as dos reforços previstos no artigo anterior, é da competência exclusiva do Ministro da Defesa Nacional, mediante proposta escrita da comissão directiva dos Serviços Sociais das Forças Armadas.
+
+###### Artigo 21.º
+
+Quando as disponibilidades da Caixa Económica resultantes dos depósitos ali efectuados permitam a esta uma vida de certo desafogo financeiro, proceder-se-á, mediante autorização do Ministro da Defesa Nacional, ao reembolso, parcial ou total, do fundo de maneio, a favor dos fundos à disposição dos Serviços Sociais das Forças Armadas, donde proveio, para ter outra aplicação, contabilizando-se cada reembolso por forma inversa à indicada na última parte do artigo 18.º
 
 ### CAPÍTULO IV — Fundos e haveres que garantem o pagamento dos depósitos
 
-Art. 22.º Os valores pertencentes à Caixa Económica serão constituídos ou representados por:
+###### Artigo 22.º
+
+Os valores pertencentes à Caixa Económica serão constituídos ou representados por:
 
 a) Empréstimos efectuados aos mutuários nos termos dos artigos 9.º e 10.º do capítulo II;
 
@@ -249,23 +324,37 @@ e) Fundo de reserva, constituído nos termos do artigo 24.º;
 
 f) Imóveis.
 
-Art. 23.º Os valores indicados no artigo 22.º constituem a garantia do pagamento dos depósitos efectuados na Caixa Económica.
+###### Artigo 23.º
+
+Os valores indicados no artigo 22.º constituem a garantia do pagamento dos depósitos efectuados na Caixa Económica.
 
 ### CAPÍTULO V — Resultados de gerência
 
-Art. 24.º Os lucros da Caixa Económica constituirão inicialmente um fundo de reserva, destinado a ocorrer a qualquer eventualidade justificada e a cobrir os prejuízos ou riscos de qualquer natureza que se verifiquem nas operações efectuadas pela Caixa Económica. Ulteriormente, a comissão directiva, se os lucros o justificarem, proporá ao Ministro da Defesa Nacional a repartição que julgar mais adequada.
+###### Artigo 24.º
 
-Art. 25.º Além das operações de depósitos e de empréstimos, pode a Caixa Económica efectuar outras prestações de serviços que sejam autorizadas pela comissão directiva dos Serviços Sociais das Forças Armadas, exceptuada a guarda de valores que envolva responsabilidade de segurança precária.
+Os lucros da Caixa Económica constituirão inicialmente um fundo de reserva, destinado a ocorrer a qualquer eventualidade justificada e a cobrir os prejuízos ou riscos de qualquer natureza que se verifiquem nas operações efectuadas pela Caixa Económica. Ulteriormente, a comissão directiva, se os lucros o justificarem, proporá ao Ministro da Defesa Nacional a repartição que julgar mais adequada.
 
-Art. 26.º Para o funcionamento interno dos serviços da Caixa Económica serão publicadas instruções especiais, aprovadas pela comissão directiva, mediante proposta do secretário-geral.
+###### Artigo 25.º
 
-Art. 27.º Os casos não previstos neste regulamento ou a interpretação de dúvidas que se suscitem na sua aplicação serão regulados por despacho do Ministro da Defesa Nacional, mediante informação da comissão directiva dos Serviços Sociais das Forças Armadas.
+Além das operações de depósitos e de empréstimos, pode a Caixa Económica efectuar outras prestações de serviços que sejam autorizadas pela comissão directiva dos Serviços Sociais das Forças Armadas, exceptuada a guarda de valores que envolva responsabilidade de segurança precária.
+
+###### Artigo 26.º
+
+Para o funcionamento interno dos serviços da Caixa Económica serão publicadas instruções especiais, aprovadas pela comissão directiva, mediante proposta do secretário-geral.
+
+###### Artigo 27.º
+
+Os casos não previstos neste regulamento ou a interpretação de dúvidas que se suscitem na sua aplicação serão regulados por despacho do Ministro da Defesa Nacional, mediante informação da comissão directiva dos Serviços Sociais das Forças Armadas.
 
 ### CAPÍTULO VI — Do pessoal
 
-Art. 28.º A Caixa Económica será gerida por um oficial do secretariado dos Serviços Sociais das Forças Armadas, a nomear pelo secretário-geral, o qual será assistido pelo pessoal auxiliar que vier a ser posto à sua disposição.
+###### Artigo 28.º
 
-Art. 29.º São atribuições do gerente, entre outras, as seguintes:
+A Caixa Económica será gerida por um oficial do secretariado dos Serviços Sociais das Forças Armadas, a nomear pelo secretário-geral, o qual será assistido pelo pessoal auxiliar que vier a ser posto à sua disposição.
+
+###### Artigo 29.º
+
+São atribuições do gerente, entre outras, as seguintes:
 
 1.º Dirigir, segundo a orientação do conselho administrativo dos Serviços Sociais das Forças Armadas, enquanto a Caixa depender do mesmo conselho administrativo, a escrita da Caixa, mantendo-a e fazendo-a manter permanentemente em dia;
 

@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-09-04'
+version_history:
+  file: portaria-441-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-09-04'
+    amending: pt:dre:514215:por
+    amending_title: Portaria n.º 911/2003
+    changes:
+    - Altera Artigo ANEXO A::7.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/441/2003/05/28/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:49:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 911/2003. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2003/portaria-441-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -209,8 +224,6 @@ d) Contratos de transferência ou aquisição de tecnologia que se traduzam na s
 
 e) Intervenção de revisores oficiais de contas ou técnicos oficiais de contas, no âmbito da comprovação da execução financeira do plano de actividades, prevista na alínea c) do artigo 17.º;
 
-f) Despesas com garantias bancárias exigidas ao promotor, definidas no contrato de concessão de incentivos.
-
 2 - Para efeitos do número anterior, o núcleo de I&DT a apoiar será constituído no máximo por três técnicos e o apoio terá um máximo de cinco anos.
 
 3 - No caso dos investimentos previstos na alínea b), apenas é considerado como despesa elegível o valor das respectivas amortizações correspondentes ao período da sua utilização no plano de actividades do núcleo de I&DT.
@@ -218,6 +231,8 @@ f) Despesas com garantias bancárias exigidas ao promotor, definidas no contrato
 4 - A despesa elegível prevista na alínea c) do n.º 1 não pode exceder (euro) 5000.
 
 5 - As despesas elegíveis identificadas nas alíneas b) e c) do n.º 1 não podem, no seu conjunto, exceder as despesas elegíveis identificadas na alínea a) do mesmo número.
+
+> Alterado pelo/a [Portaria n.º 911/2003](https://diariodarepublica.pt/dr/detalhe/portaria/911-2003-514215), publicado em 2003-08-30.
 
 ###### Artigo 8.º — Despesas não elegíveis
 

@@ -39,10 +39,37 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2012-08-17'
+version_history:
+  file: decreto-regulamentar-37-94.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1994-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-08-17'
+    amending: pt:dre:175321:por
+    amending_title: Decreto-Lei n.º 187/2012
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/37/1994/09/01/p/dre/pt/html
@@ -68,7 +95,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:21:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 187/2012. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1994/decreto-regulamentar-37-94.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,211 +166,75 @@ Ao abrigo do disposto no n.º 1 do artigo 36.º do [Decreto-Lei n.º 49/93](http
 
 ###### Artigo 1.º — Natureza e competências
 
-O Hospital da Marinha (HM) é um órgão de execução de serviços, ao qual compete:
+(Revogado.)
 
-a) Efectuar a observação e o tratamento do pessoal militar da Marinha e seus familiares que sejam beneficiários da Assistência na Doença aos Militares da Armada (ADMA);
-
-b) Prestar idêntico apoio aos militares dos outros ramos e seus familiares beneficiários da assistência na doença aos militares do Exército e Força Aérea, ao pessoal civil em serviço na Marinha e, quando superiormente autorizado, a outras pessoas;
-
-c) Assegurar o ensino pré e pós-graduado de médicos, farmacêuticos, enfermeiros, técnicos de diagnóstico e terapêutica e outro pessoal da área da saúde, durante os estágios previstos na legislação em vigor;
-
-d) Assegurar a obtenção e armazenamento de equipamento sanitário, medicamentos e apósitos, bem como o seu fornecimento às unidades, serviços e demais órgãos da Marinha.
+> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.
 
 ###### Artigo 2.º — Estrutura
 
-O HM compreende:
+(Revogado.)
 
-a) O director;
-
-b) O Conselho de Administrativo;
-
-c) O Departamento Médico;
-
-d) O Departamento Farmacêutico;
-
-e) O Departamento Administrativo e Financeiro;
-
-f) O Departamento de Apoio.
+> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.
 
 ###### Artigo 3.º — Director
 
-1 - Ao director do HM, directamente subordinado ao director do Serviço de Saúde, compete planear, organizar, dirigir e controlar as actividades do HM.
+(Revogado.)
 
-2 - O director é coadjuvado e substituído, nas suas ausências e impedimentos, pelo subdirector, ao qual compete, em especial, assegurar a coordenação entre os departamentos.
+> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.
 
 ###### Artigo 4.º — Conselho Administrativo
 
-1 - O Conselho Administrativo é o órgão deliberativo em matéria de gestão financeira e patrimonial.
+(Revogado.)
 
-2 - O Conselho Administrativo do HM tem a seguinte composição:
-
-a) O director, que preside;
-
-b) O subdirector e o chefe do Departamento Administrativo e Financeiro;
-
-c) O chefe do Serviço de Gestão Financeira do Departamento Administrativo e Financeiro, que secretaria.
+> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.
 
 ###### Artigo 5.º — Departamento Médico
 
-1 - Ao Departamento Médico incumbe coordenar todas as actividades hospitalares no âmbito da clínica, serviços complementares de diagnóstico, apoio e formação médica.
+(Revogado.)
 
-2 - O Departamento Médico integra:
-
-a) Os Serviços Clínicos;
-
-b) Os Serviços Complementares de Diagnóstico e Terapêutica;
-
-c) Os Serviços de Urgência e Apoio Médico;
-
-d) O Internato Médico e Ensino Pós-Graduado.
+> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.
 
 ###### Artigo 6.º — Serviços Clínicos
 
-Os Serviços Clínicos do HM, aos quais compete o diagnóstico e tratamento dos respectivos doentes, compreendem:
+(Revogado.)
 
-a) O Serviço de Medicina Interna;
-
-b) O Serviço de Cirurgia Geral;
-
-c) O Serviço de Anestesiologia e Reanimação;
-
-d) O Serviço de Dermatovenereologia;
-
-e) O Serviço de Estomatologia;
-
-f) O Serviço de Neurologia;
-
-g) O Serviço de Oftalmologia;
-
-h) O Serviço de Ortopedia;
-
-i) O Serviço de Otorrinolaringologia;
-
-j) O Serviço de Psiquiatria;
-
-l) O Serviço de Urologia;
-
-m) O Serviço de Cardiologia;
-
-n) O Serviço de Pneumologia;
-
-o) O Serviço de Gastroenterologia;
-
-p) O Serviço de Pediatria;
-
-q) O Serviço de Ginecologia e Obstetrícia;
-
-r) O Serviço de Endocrinologia e Nutrição.
+> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.
 
 ###### Artigo 7.º — Serviços Complementares de Diagnóstico e Terapêutica
 
-1 - Os Serviços Complementares de Diagnóstico e Terapêutica, aos quais compete efectuar exames laboratoriais, radiológicos e outros auxiliares de diagnóstico e a aplicação terapêutica no âmbito da medicina física e de reabilitação, compreendem:
+(Revogado.)
 
-a) O Serviço de Patologia Clínica;
-
-b) O Serviço de Radiodiagnóstico;
-
-c) O Serviço de Fisiatria.
-
-2 - Os Serviços Complementares de Diagnóstico e Terapêutica são chefiados por oficiais, nomeados após aprovação em concurso de provas públicas.
+> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.
 
 ###### Artigo 8.º — Serviços de Urgência e Apoio Médico
 
-1 - Os Serviços de Urgência e Apoio Médico, aos quais compete assegurar a prestação de socorros em regime permanente, a realização de intervenções cirúrgicas, a assistência permanente e especializada em situações médicas ou cirúrgicas, o tratamento e assistência a doentes do foro da hematologia e oncologia, o tratamento por oxigenioterapia a alta pressão e a realização de autópsias, compreendem:
+(Revogado.)
 
-a) O Banco;
-
-b) O Bloco Operatório;
-
-c) A Unidade de Cuidados Especiais;
-
-d) A Unidade de Hematologia Clínica/Oncologia Médica (Hospital de Dia);
-
-e) O Centro de Medicina Hiperbárica;
-
-f) A Sala de Autópsias.
-
-2 - Os Serviços de Urgência e Apoio Médico são chefiados:
-
-a) Por inerência, pelo chefe do Serviço de Cirurgia Geral, os serviços indicados nas alíneas a), b) e f) do n.º 1;
-
-b) Por oficiais com a preparação técnico-profissional adequada, os serviços indicados nas alíneas c), d) e e) do n.º 1.
+> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.
 
 ###### Artigo 9.º — Internato Médico e Ensino Pós-Graduado
 
-1 - Ao Internato Médico e Ensino Pós-Graduado incumbe promover e acompanhar a especialização dos oficiais médicos navais, bem como promover e acompanhar a especialização dos oficiais médicos e a promoção de actividades técnico-científicas.
+(Revogado.)
 
-2 - O Internato Médico e Ensino Pós-Graduado é chefiado por um oficial em regime de acumulação com outras funções clínicas no HM.
+> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.
 
 ###### Artigo 10.º — Departamento Farmacêutico
 
-1 - Ao Departamento Farmacêutico compete:
+(Revogado.)
 
-a) Preparar, propor a aquisição, armazenar e distribuir à Marinha medicamentos, substâncias medicamentosas e produtos afins;
-
-b) Gerir e distribuir os medicamentos pelas enfermarias, preparar a alimentação parentérica e apoiar, no âmbito da farmacologia, o corpo clínico;
-
-c) Fornecer medicamentos aos beneficiários da assistência na doença aos militares das Forças Armadas.
-
-2 - O Departamento Farmacêutico integra:
-
-a) A Farmácia Central do Hospital da Marinha;
-
-b) A Farmácia Hospitalar;
-
-c) As delegações farmacêuticas.
-
-3 - À Farmácia Central do Hospital da Marinha, à Farmácia Hospitalar e às delegações farmacêuticas incumbe o exercício das competências indicadas respectivamente nas alíneas a), b) e c) do n.º 1.
+> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.
 
 ###### Artigo 11.º — Departamento Administrativo e Financeiro
 
-1 - Ao Departamento Administrativo e Financeiro compete:
+(Revogado.)
 
-a) Planear, coordenar e executar as actividades relativas à elaboração dos planos financeiros e correspondentes projectos de orçamento, a organização do sistema contabilístico e elaboração da respectiva documentação, o processamento das despesas e a movimentação e controlo de fundos;
-
-b) Planear, coordenar e executar as actividades relativas à obtenção, armazenagem e distribuição dos equipamentos, bens e serviços necessários ao funcionamento do HM e à respectiva contabilização, inventariação e cadastro.
-
-2 - O Departamento Administrativo e Financeiro compreende:
-
-a) O Serviço de Gestão Financeira;
-
-b) O Serviço de Abastecimento.
-
-3 - Aos Serviços de Gestão Financeira e de Abastecimento incumbe o exercício das competências indicadas respectivamente nas alíneas a) e b) do n.º 1.
+> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.
 
 ###### Artigo 12.º — Departamento de Apoio
 
-1 - Ao Departamento de Apoio compete:
+(Revogado.)
 
-a) Coordenar a actividade inerente à gestão do pessoal militar e civil que presta serviço no HM;
-
-b) Processar a correspondência e expediente do HM;
-
-c) Assegurar o funcionamento dos sistemas de abastecimento de energia e água, dos sistemas de comunicações e demais equipamento do HM;
-
-d) Assegurar os transportes necessários ao HM;
-
-e) Prestar assistência religiosa e apoio moral aos doentes do HM;
-
-f) Propor a aquisição de documentação técnica, divulgar os trabalhos técnicos realizados no HM e promover reuniões de interesse cultural e recreativo.
-
-2 - O Departamento de Apoio compreende:
-
-a) O Serviço de Pessoal;
-
-b) A Secretaria Central;
-
-c) O Serviço de Manutenção;
-
-d) O Serviço de Transportes;
-
-e) O Serviço de Assistência Religiosa;
-
-f) A Biblioteca.
-
-3 - Aos serviços indicados nas alíneas a) a f) do número anterior incumbe o exercício das competências indicadas respectivamente nas alíneas a) a f) do n.º 1.
-
-4 - O Departamento de Apoio é chefiado, em regime de acumulação de funções, pelo subdirector.
+> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.
 
 ### CAPÍTULO II — Laboratório de Análises Fármaco-Toxicológicas da Marinha
 
@@ -450,21 +342,15 @@ f) Assegurar a manutenção da limpeza, arrumação e higienização das instala
 
 ###### Artigo 19.º — Receitas do HM
 
-1 - Constituem receitas afectas ao HM, para além das dotações que lhe forem atribuídas no Orçamento do Estado:
+(Revogado.)
 
-a) O produto resultante da prestação de serviços decorrente da sua actividade, de acordo com o superiormente determinado;
-
-b) O produto resultante da venda de produtos, nomeadamente medicamentos, de acordo com o superiormente determinado;
-
-c) Os subsídios, doações ou comparticipações atribuídos por entidades públicas ou privadas, nacionais ou estrangeiras;
-
-d) Quaisquer outras receitas não compreendidas nas alíneas anteriores e que por lei, acto ou contrato lhe sejam atribuídas.
-
-2 - As receitas enumeradas nas alíneas anteriores são afectas ao pagamento das despesas do HM, mediante inscrição de dotações com compensação em receita.
+> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.
 
 ###### Artigo 20.º — Norma revogatória
 
-É revogada a [Portaria n.º 336/75](https://diariodarepublica.pt/dr/detalhe/portaria/336-1975-335914), de 3 de Junho.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 187/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2012-175321), publicado em 2012-08-16.
 
 Presidência do Conselho de Ministros, 4 de Abril de 1994.
 

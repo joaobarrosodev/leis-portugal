@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-05-29'
+version_history:
+  file: decreto-lei-46495.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1965-08-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-05-29'
+    amending: pt:dre:643950:por
+    amending_title: Decreto-Lei n.º 233/71
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:54:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 233/71. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46495.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,27 +149,43 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer com lei, o seguinte:
 
-Artigo 1.º Os pagamentos nas tesourarias da Fazenda Pública, até ao relaxe, de contribuições e impostos ou de rendimentos de outra natureza, e bem assim os que devam realizar-se noutros cofres do Tesouro, embora respeitem as entradas por operações de tesouraria, efectuar-se-ão em moeda corrente, por vales do correio, por cheques do Banco de Portugal ou da Caixa Geral de Depósitos, Crédito e Previdência ou por cheques emitidos ou visados por qualquer estabelecimento bancário.
+###### Artigo 1.º
+
+Os pagamentos nas tesourarias da Fazenda Pública, até ao relaxe, de contribuições e impostos ou de rendimentos de outra natureza, e bem assim os que devam realizar-se noutros cofres do Tesouro, embora respeitem as entradas por operações de tesouraria, efectuar-se-ão em moeda corrente, por vales do correio, por cheques do Banco de Portugal ou da Caixa Geral de Depósitos, Crédito e Previdência ou por cheques emitidos ou visados por qualquer estabelecimento bancário.
 
 § 1.º Os vales de correio ou cheques a que se refere este artigo serão emitidos ou endossados à ordem do tesoureiro da Fazenda Pública do concelho ou bairro em que se tiverem de efectuar os pagamentos, de qualquer outro exactor do Tesouro ou do Banco de Portugal, como Caixa Geral do Tesouro.
 
 § 2.º Os vales do correio ou cheques deverão conter a sobrecarga a vermelho «Pagamento de dívidas ao Estado».
 
-Art. 2.º Os bancos ou casas bancárias que tiverem visado cheques, nos termos da parte final do artigo anterior, ficarão responsáveis pelo valor dos mesmos, devendo, para isso, cativar logo nos depósitos sacados as respectivas importâncias.
+###### Artigo 2.º
 
-Art. 3.º Os cheques e vales do correio destinados a pagamentos nas tesourarias da Fazenda Pública serão enviados, sob registo, acompanhados de um sobrescrito devidamente endereçado, para devolução imediata como correspondência oficial dos respectivos recibos.
+Os bancos ou casas bancárias que tiverem visado cheques, nos termos da parte final do artigo anterior, ficarão responsáveis pelo valor dos mesmos, devendo, para isso, cativar logo nos depósitos sacados as respectivas importâncias.
+
+###### Artigo 3.º
+
+Os cheques e vales do correio destinados a pagamentos nas tesourarias da Fazenda Pública serão enviados, sob registo, acompanhados de um sobrescrito devidamente endereçado, para devolução imediata como correspondência oficial dos respectivos recibos.
 
 § único. Nenhum exactor do Tesouro poderá arrecadar qualquer importância, a título de emolumento, pela cobrança efectuada nos termos deste decreto-lei.
 
-Art. 4.º As tesourarias da Fazenda Pública dos concelhos capitais de distrito e as dos bairros fiscais procederão, quanto aos vales do correio que lhes sejam enviados para os fins deste decreto-lei, como as demais tesourarias, relativamente ao serviço de pagamento de vales de correio.
+###### Artigo 4.º
 
-Art. 5.º Os cheques referidos no artigo 1.º serão transferidos, nos mesmos prazos e com as formalidades estabelecidas para as passagens de fundos em moeda corrente, para o Banco de Portugal, sede, filial ou agências, como caixa geral do Tesouro, que procederá ao recebimento da respectiva importância das entidades que os tenham emitido ou das que forem responsáveis, nos termos do artigo 2.º deste decreto-lei, por compensação ou cobrança.
+As tesourarias da Fazenda Pública dos concelhos capitais de distrito e as dos bairros fiscais procederão, quanto aos vales do correio que lhes sejam enviados para os fins deste decreto-lei, como as demais tesourarias, relativamente ao serviço de pagamento de vales de correio.
+
+###### Artigo 5.º
+
+Os cheques referidos no artigo 1.º serão transferidos, no prazo de vinte e quatro horas, e com as formalidades estabelecidas para as passagens de fundos em moeda corrente, para o Banco de Portugal, sede, filial ou agências como caixa geral do Tesouro, que procederá ao recebimento da respectiva importância das entidades que os tenham emitido ou das que foram responsáveis, nos termos do artigo 2.º deste decreto-lei, por compensação ou cobrança.
 
 § único. Exceptuam-se do disposto neste artigo os cheques da Caixa Geral de Depósitos, Crédito e Previdência, sacados para o mesmo fim sobre as suas delegações que funcionem nas repartições de finanças concelhias, os quais seguirão a mesma forma de contabilização, cobrança e transferência dos demais cheques sobre o País.
 
-Art. 6.º Sendo efectuados pagamentos de direitos, nos termos do artigo 94.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965. os cheques serão enviados diàriamente ao Banco de Portugal como transferência de fundos, processada nos termos regulamentares, procedendo o Banco à sua cobrança nos termos preceituados na última parte do artigo anterior.
+> Alterado pelo/a [Decreto-Lei n.º 233/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1971-643950), publicado em 1971-05-29.
 
-Art. 7.º Se for aceite como meio de pagamento algum cheque sem os requisitos indicados no presente decreto-lei, será devolvido ao respectivo tesoureiro com as formalidades e as consequências inerentes aos documentos de despesa considerados indevidamente pagos.
+###### Artigo 6.º
+
+Sendo efectuados pagamentos de direitos, nos termos do artigo 94.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965. os cheques serão enviados diàriamente ao Banco de Portugal como transferência de fundos, processada nos termos regulamentares, procedendo o Banco à sua cobrança nos termos preceituados na última parte do artigo anterior.
+
+###### Artigo 7.º
+
+Se for aceite como meio de pagamento algum cheque sem os requisitos indicados no presente decreto-lei, será devolvido ao respectivo tesoureiro com as formalidades e as consequências inerentes aos documentos de despesa considerados indevidamente pagos.
 
 § único. Por forma análoga à prevista no corpo deste artigo se procederá em relação a outros cofres do Tesouro, devendo, neste caso, a devolução dos cheques ser escriturada como transferência de fundos para esses cofres.
 

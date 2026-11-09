@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-10-01'
+version_history:
+  file: decreto-lei-663-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-11-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-10-01'
+    amending: pt:dre:312201:por
+    amending_title: Decreto-Lei n.º 558/75
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 17.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:36:08Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 558/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-663-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,7 +155,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### ARTIGO 1.º — (Conceito)
+###### Artigo 1.º — (Conceito)
 
 1. O Fundo de Fomento da Habitação, a Caixa Geral de Depósitos, a Companhia Geral do Crédito Predial Português e as caixas económicas poderão celebrar com quaisquer empresas ou grupos de empresas que se dediquem à construção civil contratos para execução de projectos específicos ou para reorganização e expansão de actividades, visando a construção de habitações de tipo social ou a produção de bens e serviços que a elas expressamente se destinem, em contrapartida dos benefícios que nos referidos contratos se estipularão, de entre os que se prevêem neste diploma.
 
@@ -157,7 +173,7 @@ Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitu
 
 8. Para execução de determinados projectos particularizados de construção de habitações sociais, poderá, mediante proposta das empresas ou grupos de empresas interessadas, após parecer favorável da Secretaria de Estado da Habitação e Urbanismo, ser pelo Ministro das Finanças autorizado, por despacho, que outras instituições de crédito, além das já designadas no n.º 1, venham a celebrar, para o caso considerado, um contrato de desenvolvimento, nos termos a que o presente diploma diz respeito.
 
-###### ARTIGO 2.º — (Contratos de desenvolvimento com empresas de construção)
+###### Artigo 2.º — (Contratos de desenvolvimento com empresas de construção)
 
 1. Os contratos de desenvolvimento para a habitação podem ser elaborados por empresas de construção civil, com o objectivo de aumentar a oferta de habitações de tipo social ou de reduzir o respectivo custo de construção, desde que tais empresas se comprometam:
 
@@ -167,7 +183,7 @@ b) A, logo que para tal sejam notificadas, pôr à disposição da bolsa de habi
 
 2. Os preços de venda ou de arrendamento que para cada contrato de desenvolvimento venham a ser acordados dentro dos valores máximos nos termos do n.º 4 do artigo 1.º poderão ser objecto de revisões, segundo fórmulas a definir por despacho conjunto do Ministro das Finanças e do Secretário de Estado da Habitação e Urbanismo.
 
-###### ARTIGO 3.º — (Contratos com empresas produtoras de bens e serviços destinados à construção)
+###### Artigo 3.º — (Contratos com empresas produtoras de bens e serviços destinados à construção)
 
 Os contratos de desenvolvimento para a habitação podem ser celebrados com as empresas produtoras de bens e serviços utilizados na habitação social abrangida pelos contratos referidos no artigo 2.º, desde que haja insuficiência na oferta de tais bens e serviços ou se julgue necessário reduzir os respectivos custos, mediante racionalização da produção, normalização de componentes e de materiais ou aumento da produtividade, devendo, para tanto, as empresas referidas comprometer-se:
 
@@ -175,13 +191,23 @@ a) A assegurar às empresas abrangidas pelos contratos referidos no artigo 2.º,
 
 b) A respeitar nas vendas referidas na alínea a) o esquema de disciplina de preços que for definido no contrato.
 
-###### ARTIGO 4.º — (Requisitos das empresas e projectos que podem ser abrangidos pelos contratos de desenvolvimento)
+###### Artigo 4.º — (Requisitos das empresas e projectos que podem ser abrangidos pelos contratos de desenvolvimento)
 
 1. Os contratos de desenvolvimento para a habitação só poderão celebrar-se desde que as empresas beneficiárias possuam uma estrutura financeira equilibrada ou susceptível de o vir a ser através da associação das empresas contratantes ou da execução do próprio contrato.
 
 2. Os projectos, programas ou medidas que as empresas se obriguem a executar, habilitando-se aos benefícios estipulados no contrato, deverão encontrar-se perfeitamente definidos e justificados técnica, económica e financeiramente, com demonstração inequívoca da sua viabilidade e da efectiva existência ou garantia de oportuna obtenção dos capitais próprios necessários.
 
-###### ARTIGO 5.º — (Metas anuais e globais de cuja consecução depende o acesso aos benefícios)
+3. Podem também interessar nos contratos de desenvolvimento para habitação quaisquer proprietários de terrenos que se apresentem em associação com empresas de construção civil. No respectivo contrato, definir-se-ão expressamente:
+
+a) As obrigações dos proprietários no cumprimento do contrato, que poderão abranger ou não a realização das infra-estruturas de urbanização;
+
+b) A quota-parte do preço correspondente ao terreno e sua urbanização.
+
+4. No caso de falta de cumprimento das obrigações correspondentes ao proprietário, poderá a empresa construtora assumir, se houver acordo do Fundo de Fomento da Habitação e da entidade financiadora, as obrigações daquela, sub-rogando-se nos direitos respectivos.
+
+> Alterado pelo/a [Decreto-Lei n.º 558/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1975-312201), publicado em 1975-10-01.
+
+###### Artigo 5.º — (Metas anuais e globais de cuja consecução depende o acesso aos benefícios)
 
 1. O efectivo direito aos benefícios derivados do contrato de desenvolvimento, em especial no que toca aos benefícios financeiros e fiscais que nele se clausulem, dependerá da consecução pelas empresas dos objectivos e metas anuais e globais que, para o efeito, no mesmo contrato se estabelecerão.
 
@@ -193,13 +219,13 @@ b) A respeitar nas vendas referidas na alínea a) o esquema de disciplina de pre
 
 5. Considerar-se-á sempre que há falta de cumprimento, com os efeitos indicados no n.º 2 do artigo 16.º, quando o volume de produção atingido pelas empresas contratantes resultar de acordos com outras empresas não autorizadas previamente pelo Fundo de Fomento da Habitação, ou de qualquer acto doloso ou ilegal por elas praticado.
 
-###### ARTIGO 6.º — (Comprovação e fiscalização da consecução dos objectivos e metas)
+###### Artigo 6.º — (Comprovação e fiscalização da consecução dos objectivos e metas)
 
 1. Cabe à empresa ou empresas contratantes o ónus de provar, até às datas que figurem no contrato de desenvolvimento, a efectiva consecução dos objectivos e metas fixados nos termos do artigo anterior, e bem assim, se for caso disso, que lhes não é imputável a sua eventual falta de cumprimento.
 
 2. O Fundo de Fomento da Habitação e as entidades referidas no n.º 1 ou n.º 8 do artigo 1.º terão o direito de acompanhar o andamento da execução dos projectos, programas e medidas objecto do contrato e, se for caso disso, a evolução das actividades das empresas contratantes, bem como o de exigir das mesmas todas as informações e elementos de prova que considerem indispensáveis para averiguar do efectivo cumprimento do contrato e da medida de quaisquer benefícios a atribuir-lhes.
 
-###### ARTIGO 7.º — (Benefícios a conceder através do contrato)
+###### Artigo 7.º — (Benefícios a conceder através do contrato)
 
 1. Nos contratos de desenvolvimento para a habitação poderão estabelecer-se, a favor das empresas, os seguintes benefícios, sem prejuízo dos que lhes competirem no âmbito dos regimes gerais ou especiais que lhes forem aplicáveis por virtude das actividades que exerçam ou da situação particular em que se encontrem:
 
@@ -225,7 +251,7 @@ j) Isenção de impostos e taxas, estabelecida no artigo 16.º do [Decreto-Lei n
 
 2. O tipo e a medida dos benefícios admitidos em cada caso, bem com as condições de que dependa a sua concessão, fixar-se-ão no contrato, com observância das regras constantes do presente decreto-lei.
 
-###### ARTIGO 8.º — (Assistência e acompanhamento)
+###### Artigo 8.º — (Assistência e acompanhamento)
 
 1. A assistência prevista na alínea a) do n.º 1 do artigo anterior poderá abranger, nomeadamente, a elaboração dos projectos construtivos para assegurar o seu ajustamento aos condicionamentos e especificações observáveis no contexto da habitação social e a sua conformidade com os parâmetros definidos segundo o n.º 4 do artigo 1.º e, ainda, a organização adequada do programa, mediante recurso a métodos apropriados de gestão e a conveniente planificação técnica, económica e financeira, bem como eventual estruturação de associações ou joint-ventures com outras empresas, visando a diminuição dos custos médios da construção que se traduzam favoravelmente nos respectivos preços de venda.
 
@@ -233,7 +259,7 @@ j) Isenção de impostos e taxas, estabelecida no artigo 16.º do [Decreto-Lei n
 
 3. Sempre que a assistência técnica solicitada envolva a realização de quaisquer despesas que se não compreendam no âmbito das despesas normais de funcionamento do Fundo de Fomento da Habitação ou dos serviços, organismos e instituições que com ele eventualmente colaborem, poderão as mesmas ser suportadas a título extraordinário pelo Fundo, na medida e condições em que o contrato de desenvolvimento o preveja.
 
-###### ARTIGO 9.º — (Financiamento)
+###### Artigo 9.º — (Financiamento)
 
 1. Os financiamentos referidos na alínea d) do n.º 1 do artigo 7.º facultá-los-ão a Caixa Geral de Depósitos, a Companhia Geral do Crédito Predial Português, as caixas económicas, ou, ainda, outras instituições de crédito nos casos contemplados pelo n.º 8 do artigo 1.º, directamente à empresa ou empresas signatárias do contrato de desenvolvimento e obedecerão às seguintes condições fundamentais:
 
@@ -251,7 +277,7 @@ e) O Fundo de Fomento da Habitação garantirá, como fiador e principal pagador
 
 3. O disposto no número anterior não se aplicará se a falta de cumprimento dos objectivos e metas for relevada nos termos do n.º 3 do artigo 5.º
 
-###### ARTIGO 10.º — (Fiança do Fundo de Fomento da Habitação)
+###### Artigo 10.º — (Fiança do Fundo de Fomento da Habitação)
 
 1. A fiança prevista na alínea g) do artigo 7.º e alínea e) do n.º 1 do artigo 9.º será inteiramente gratuita, enquanto se verificar o cumprimento pelas empresas dos objectivos e metas fixados no contrato de desenvolvimento.
 
@@ -261,7 +287,7 @@ e) O Fundo de Fomento da Habitação garantirá, como fiador e principal pagador
 
 4. Nos casos em que o Fundo de Fomento da Habitação tenha concedido fiança para financiar a construção de habitações segundo o plano estabelecido num contrato de desenvolvimento celebrado nos termos do presente diploma os edifícios construídos ou a construir e os lotes de terreno aos mesmos destinados não poderão ser oferecidos como garantia hipotecária a terceiros sem autorização expressa do Fundo de Fomento da Habitação.
 
-###### ARTIGO 11.º — (Aceleração das reintegrações e amortizações)
+###### Artigo 11.º — (Aceleração das reintegrações e amortizações)
 
 1. O benefício da aceleração das reintegrações e amortizações contemplado na alínea h) do n.º 1 do artigo 7.º terá a duração máxima de cinco anos e começará a aplicar-se com referência ao ano em que se inicie a execução do contrato de desenvolvimento.
 
@@ -271,23 +297,23 @@ e) O Fundo de Fomento da Habitação garantirá, como fiador e principal pagador
 
 4. Sempre que as empresas exerçam o direito contemplado no presente artigo, deverão mencionar o posto no mapa de reintegrações e amortizações que acompanha a declaração para efeitos de liquidação da contribuição industrial.
 
-###### ARTIGO 12.º — (Outros benefícios fiscais)
+###### Artigo 12.º — (Outros benefícios fiscais)
 
 Os benefícios fiscais previstos nas alíneas i) e j) do n.º 1 do artigo 7.º só serão concedidos quando as finalidades e características dos projectos ou programas a executar e os termos em que se encontrem organizados ou pretendam organizar-se as empresas intervenientes inteiramente o justifiquem pelo alto interesse social ou económico de que se revistam.
 
-###### ARTIGO 13.º — (Prazo do contrato de desenvolvimento)
+###### Artigo 13.º — (Prazo do contrato de desenvolvimento)
 
 1. O prazo do contrato de desenvolvimento será o que se considerar necessário para a consecução dos objectivos e metas globais nele estabelecidos, mas não será, em princípio, superior a cinco anos.
 
 2. O prazo fixado nos termos do número anterior poderá, contudo, mediante despacho conjunto dos Ministros das Finanças e do Equipamento Social e do Ambiente, prorrogar-se pelo tempo indispensável para se atingirem os objectivos e metas referidos quando a sua falta de cumprimento não for imputável às empresas contratantes ou os interesses da economia nacional o aconselharem.
 
-###### ARTIGO 14.º — (Número ou valor dos contratos a celebrar em cada ano)
+###### Artigo 14.º — (Número ou valor dos contratos a celebrar em cada ano)
 
 1. Os Ministros das Finanças e do Equipamento Social e do Ambiente poderão fixar, por despacho conjunto, o número ou o valor global máximo de contratos de desenvolvimento a celebrar em cada ano.
 
 2. A limitação prevista no número anterior não impedirá, todavia, a adesão de qualquer empresa a contratos de desenvolvimento anteriormente celebrados se o objecto e as finalidades destes últimos o permitirem e se, havendo acordo de todos os interessados, os Ministros das Finanças e do Equipamento Social e do Ambiente o autorizarem.
 
-###### ARTIGO 15.º — (Contratos com grupos de empresas)
+###### Artigo 15.º — (Contratos com grupos de empresas)
 
 1. Sendo o contrato de desenvolvimento celebrado com grupos de empresas, definir-se-á precisamente a responsabilidade de cada uma pelo cumprimento das obrigações contratuais, designadamente no que se refere à pontual consecução dos objectivos anuais e globais estabelecidos.
 
@@ -297,7 +323,7 @@ a) Rescindir igualmente o contrato se, em seu juízo, o objecto e as finalidades
 
 b) Manter em vigor o contrato, com as alterações e os ajustamentos que considere adequados.
 
-###### ARTIGO 16.º — (Rescisão do contrato)
+###### Artigo 16.º — (Rescisão do contrato)
 
 1. O Fundo de Fomento da Habitação e a instituição de crédito financiadora poderão rescindir o contrato de desenvolvimento:
 
@@ -311,15 +337,15 @@ d) Quando se verifiquem quaisquer outros factos, mesmo de força maior, que igua
 
 2. Nos casos das alíneas a) e b) do número anterior, e bem assim nos das alíneas c) e d) quando a falta de cumprimento ou o facto impeditivo ali previstos resultarem de culpa grave ou dolo das empresas contratantes, a rescisão do contrato de desenvolvimento implicará igualmente, além da perda e consequente obrigação de restituição do montante de todos os benefícios pecuniários que dele tenham resultado, a simultânea rescisão dos contratos de empréstimos celebrados nos termos do artigo 9.º
 
-###### ARTIGO 17.º — (Do processo)
+###### Artigo 17.º — (Do processo)
 
-1. A empresa ou empresas interessadas na celebração de um contrato de desenvolvimento apresentarão ao Fundo de Fomento da Habitação e à instituição financiadora as suas propostas, juntando-se-lhes todos os documentos definidores do projecto, programa ou medidas a cuja execução se obrigam, identificando precisamente a situação e propriedade dos terrenos em que a construção se processará, bem como o número de habitações e suas características ou ainda a natureza e especificação dos bens e serviços a desenvolver, e sugerindo, para o período de contrato que desejam, os objectivos e metas a estabelecer nos termos do artigo 5.º, com indicação dos benefícios pretendidos.
+1. A empresa ou empresas interessadas na celebração de um contrato de desenvolvimento apresentarão ao Fundo de Fomento da Habitação as suas propostas, juntando-se-lhes os documentos definidores do projecto, mesmo na fase de estudo prévio, acompanhados de uma descrição geral das respectivas características construtivas e de uma estimativa dos preços de venda das habitações, programa ou medidas a cuja execução se obrigam, identificando precisamente a situação e propriedade dos terrenos em que a construção se processará, bem como o número de habitações e suas características ou ainda a natureza e especificação dos bens e serviços a desenvolver, e sugerindo, para o período de contrato que desejam, os objectivos e metas a estabelecer nos termos do artigo 5.º, com indicação dos benefícios pretendidos.
 
-2. Nos trinta dias seguintes à recepção da proposta o Secretário de Estado da Habitação e Urbanismo, ouvidos os serviços, estabelecerá por despacho se a mesma deverá ser admitida, face à localização e necessidades habitacionais da zona a que respeita, dando-se do respectivo teor conhecimento à empresa ou empresas interessadas.
+2. Nos quinze dias seguintes à recepção da proposta, o Secretário de Estado da Habitação e Urbanismo, ouvidos os serviços, estabelecerá por despacho se a mesma deverá ser admitida, face à localização e necessidades habitacionais da zona a que respeita, dando-se do respectivo teor conhecimento à empresa ou empresas interessadas.
 
-3. Nos sessenta dias seguintes à recepção da proposta, em caso de o despacho previsto no número anterior ser favorável, depois de consultada a instituição de crédito financiadora e após despacho conjunto dos Ministros das Finanças e do Equipamento Social e do Ambiente, o Fundo de Fomento da Habitação informará o proponente quanto à admissibilidade ou inadmissibilidade, para efeitos de negociação, da proposta apresentada, considerando-se a mesma admitida se não for objecto de tal comunicação dentro do referido prazo.
+3. No caso de este despacho ser favorável e após a recepção da comunicação do respectivo teor, o proponente completará a sua proposta com projectos completos dos edifícios, respectivas condições técnicas, preços de venda das habitações e documentos que permitam a apreciação da estrutura financeira da empresa.
 
-4. Emitido o despacho conjunto a que se refere o número anterior e definidos os principais parâmetros a considerar nas habitações, em conformidade com o estabelecido no n.º 4 do artigo 1.º, o Fundo de Fomento da Habitação assentará com a empresa ou empresas proponentes nos acertos e alterações que se imponham em ordem a que o projecto apresentado reúna os requisitos de interesse social desejados.
+4. Nos trinta dias seguintes à recepção dos documentos citados no número anterior, depois de consultada a instituição de crédito financiadora e após despacho conjunto dos Ministros das Finanças e do Equipamento Social e do Ambiente, o Fundo de Fomento da Habitação informará o proponente quanto à admissibilidade ou inadmissibilidade, para efeitos de negociação, da proposta apresentada, considerando-se a mesma admitida se não for objecto de tal comunicação dentro do referido prazo.
 
 5. Cabe ao Fundo de Fomento da Habitação, com a colaboração da instituição de crédito financiadora no que respeita à apreciação dos aspectos financeiros do contrato, a elaboração do parecer sobre as propostas admitidas, podendo, para o efeito, estabelecer negociações com os proponentes e solicitar a estes ou a quaisquer serviços públicos as informações e outros elementos que julgue convenientes.
 
@@ -333,25 +359,27 @@ d) Quando se verifiquem quaisquer outros factos, mesmo de força maior, que igua
 
 10. Celebrado o contrato, o Fundo de Fomento da Habitação comunicará à Direcção-Geral das Contribuições e Impostos a data do início da sua vigência, com vista à aplicação dos benefícios fiscais autorizados.
 
-###### ARTIGO 18.º — (Iniciativa do Fundo de Fomento da Habitação)
+> Alterado pelo/a [Decreto-Lei n.º 558/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1975-312201), publicado em 1975-10-01.
+
+###### Artigo 18.º — (Iniciativa do Fundo de Fomento da Habitação)
 
 Poderá o Fundo de Fomento da Habitação, previamente autorizado por despacho do Ministro do Equipamento Social e do Ambiente, obtida a concordância da instituição de crédito financiadora, convidar directamente, ou através de concurso, uma ou mais empresas ou grupos de empresas à celebração de contratos de desenvolvimento com vista à construção de habitações sociais em terrenos de que disponha ou que, para o efeito, lhe hajam sido cedidos pelos municípios interessados, mediante convenção a estabelecer, seguindo-se, depois, na parte aplicável, o disposto no artigo anterior.
 
-###### ARTIGO 19.º — (Cedência dos terrenos)
+###### Artigo 19.º — (Cedência dos terrenos)
 
 A cedência dos terrenos pelo Fundo de Fomento da Habitação à empresa ou empresas contratantes far-se-á em conformidade com o n.º 7 do artigo 1.º, podendo o seu preço acordado, para cada habitação, ser cobrado apenas aquando da respectiva venda pela bolsa de habitação.
 
-###### ARTIGO 20.º — (Financiamento do Fundo de Fomento da Habitação)
+###### Artigo 20.º — (Financiamento do Fundo de Fomento da Habitação)
 
 1. O Fundo de Fomento da Habitação poderá, sempre que o julgue conveniente, participar no financiamento dos projectos, programas ou medidas abrangidas por contratos de desenvolvimento.
 
 2. Nos casos a que se refere o número anterior, o Fundo terá, relativamente às empresas contratantes, além dos direitos que especialmente resultem das condições estabelecidas para o seu financiamento, e no que com estas não for incompatível, todos os demais direitos que no presente decreto-lei se atribuem à Caixa Geral de Depósitos, à Companhia Geral do Crédito Predial Português, às caixas económicas ou outras instituições de crédito que venham a ser admitidas nos termos do n.º 8 do artigo 1.º
 
-###### ARTIGO 21.º — (Participação das câmaras municipais)
+###### Artigo 21.º — (Participação das câmaras municipais)
 
 Mediante despacho favorável dos Ministros da Administração Interna e das Finanças, poderá, em determinados projectos de construção de habitações sociais, a câmara municipal da situação respectiva substituir-se, na parte aplicável e para todos os efeitos que no presente diploma se estabelecem, ao Fundo de Fomento da Habitação, sem prejuízo, todavia, do preceituado no n.º 4 do artigo 1.º
 
-###### ARTIGO 22.º — (Interpretação dos contratos e resolução dos conflitos)
+###### Artigo 22.º — (Interpretação dos contratos e resolução dos conflitos)
 
 1. Quaisquer dúvidas ou lacunas que surjam na aplicação e execução dos contratos de desenvolvimento serão definitivamente esclarecidas por despacho do Secretário de Estado da Habitação e Urbanismo ou, quando se refira à concessão de benefícios fiscais ou creditícios, por despacho do Ministro das Finanças.
 

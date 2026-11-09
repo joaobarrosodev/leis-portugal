@@ -28,10 +28,45 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-11-26'
+version_history:
+  file: decreto-43834.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-11-26'
+    amending: pt:dre:261929:por
+    amending_title: Decreto-Lei n.º 75/74; Decreto-Lei n.º 664/74
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +92,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:24:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 75/74; Decreto-Lei
+    n.º 664/74. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1961/decreto-43834.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,23 +190,29 @@ Regulamento do Exercício da Indústria de Moagem de Trigo com Peneiração
 
 #### SECÇÃO I — Das condições gerais
 
-Artigo 1.º As fábricas de moagem de trigo com peneiração permanecem, nos termos das bases II e III da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalhe/lei/2052-1952-597284), de 11 de Março de 1952, sujeitas ao regime de condicionamento industrial.
+###### Artigo 1.º
 
-Art. 2.º Continuam submetidas à disciplina da Federação Nacional dos Industriais de Moagem (F. N. I. M.) as fábricas de moagem de trigo que exerçam qualquer das seguintes modalidades industriais:
+(Revogado.)
 
-a) Produção de farinhas espoadas panificáveis;
+> Revogado pelo/a [Decreto-Lei n.º 75/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1974-261929), publicado em 1974-02-28.
 
-b) Produção de sêmolas para massas alimentícias;
+###### Artigo 2.º
 
-c) Produção de farinhas espoadas para bolacharia, biscoitaria e confeitaria.
+(Revogado.)
 
-Art. 3.º São aplicáveis à indústria de moagem de trigo com peneiração, além do preceituado neste diploma, as regras de condicionamento industrial prescritas no [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954, as disposições especiais do [Decreto-Lei n.º 43023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43023-1960-503401), de 21 de Junho de 1960, e as do [Decreto n.º 28746](https://diariodarepublica.pt/dr/detalhe/decreto/28746-1938-365553), de 7 de Junho de 1938, não revogadas por outros diplomas.
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
 
-Art. 4.º - 1. Os pedidos de autorização de instalação, transferência, reabertura e remodelação de fábricas de moagem de trigo com peneiração serão feitos nos termos do artigo 5.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898) e instruídos com os elementos nele pedidos e mais os seguintes: o diagrama de fabrico que a instalação passa a utilizar e as indicações necessárias para se verificar a conformidade do pedido com o disposto nos artigos 9.º, 11.º e 12.º do presente diploma e com a boa localização definida nos artigos 29.º a 31.º
+###### Artigo 3.º
 
-2. O diagrama a que se refere o primeiro período deste artigo deverá obedecer às normas usuais, de modo a proporcionar uma compreensão perfeita, fácil e rápida do ordenamento das várias operações a realizar.
+(Revogado.)
 
-3. Nos casos de remodelação de fábricas poderá o Secretário de Estado da Indústria dispensar a obediência aos artigos 29.º a 31.º, mediante pedido devidamente fundamentado.
+> Revogado pelo/a [Decreto-Lei n.º 75/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1974-261929), publicado em 1974-02-28.
+
+###### Artigo 4.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 75/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1974-261929), publicado em 1974-02-28.
 
 #### SECÇÃO II — Das condições especiais
 
@@ -178,175 +220,209 @@ SUBSEÇÃO I
 
 Das condições de laboração
 
-Art. 5.º A preparação, pelas fábricas agremiadas na Federação Nacional dos Industriais de Moagem, de produtos do seu fabrico para usos culinários, nomeadamente a produção de sêmolas para sopa e caldos, não carece de autorização prévia do condicionamento industrial.
+###### Artigo 5.º
 
-§ único. Sempre que a economia das extracções o determinar, podem as fábricas agremiadas na F. N. I. M. ser autorizadas a produzir cumulativamente, como subprodutos da sua actividade normal, as farinhas forrageiras cuja fabricação e características estejam legalmente estabelecidas.
+(Revogado.)
 
-Art. 6.º - 1. A moenda dos cereais destinados à produção das farinhas incorporantes que sejam, ou venham a ser, legalmente permitidas nos produtos da indústria agremiada na F. N. I. M. será realizada pelas fábricas desta indústria em preenchimento das respectivas quotas de rateio e de harmonia com a legislação que vigorar.
+> Revogado pelo/a [Decreto-Lei n.º 75/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1974-261929), publicado em 1974-02-28.
 
-2. Sempre que o volume e a economia da produção o justificarem, a indústria agremiada na F. N. I. M., após autorização conseguida com observância das normas de condicionamento industrial, poderá especializar uma ou mais das suas fábricas na produção dos incorporantes referidos no período anterior.
+###### Artigo 6.º
 
-Art. 7.º - 1. As sêmolas destinadas ao fabrico de massas alimentícias só podem ser produzidas em unidades especializadas para esse fim, designadas semolarias.
+(Revogado.)
 
-2. A modalidade industrial de semolaria para massas alimentícias, mesmo quando coexista em empresa simultâneamente exploradora da indústria de massas alimentícias, constituirá actividade industrial independente desta.
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
 
-§ único. A especialização de unidades industriais referida no primeiro período deste artigo deverá estar concluída dentro do prazo de quatro anos, de acordo com um plano feito pela F. N. I. M. em colaboração com a indústria sua agremiada e que será apresentado para aprovação do Secretário de Estado da Indústria até 30 de Junho de 1962.
+###### Artigo 7.º
 
-Art. 8.º - 1. A fim de assegurar o abastecimento de sêmolas ás empresas masseiras isoladas ou outras que o necessitem, a Direcção-Geral dos Serviços Industriais e a F. N. I. M. promoverão que uma ou mais fábricas existentes de moagem de trigo com peneiração procedam à sua transformação em semolaria de forma a entrarem em laboração dentro do prazo de quatro anos.
+(Revogado.)
 
-2. Sempre que a quota de rateio da fábrica transformada exceder as necessidades do abastecimento de sêmolas de que esta esteja incumbida poderá a F. N. I. M. deslocar para outra fábrica sua associada o remanescente da quota de rateio, não resultando de tal circunstância o regime de concentração temporária de fabrico previsto no § 1.º do artigo 1.º do [Decreto-Lei n.º 43023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43023-1960-503401), de 21 de Junho de 1960.
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
 
-Art. 9.º - 1. As empresas agremiadas na F. N. I. M. que explorem também a indústria de massas alimentícias poderão, dentro da doutrina do § único do artigo 7.º, cindir a sua fábrica de moagem de trigo com peneiração e destinar uma das fracções a semolaria, desde que a esta corresponda uma quota de rateio não inferior a 1 por cento e à outra uma quota não inferior a 2 por cento, de acordo com o artigo 4.º do [Decreto-Lei n.º 43023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43023-1960-503401).
+###### Artigo 8.º
 
-2. As empresas que exploram também a indústria de massas e disponham de mais de uma fábrica de moagem de trigo com peneiração poderão destinar uma das fábricas à produção de sêmolas desde que lhes seja possível, sem prejuízo das disposições do [Decreto-Lei n.º 43023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43023-1960-503401), proceder às operações de cisão e fusão necessárias.
+(Revogado.)
 
-3. Quando se apresentem circunstâncias técnicas irremovíveis, é admissível nas empresas agremiadas na F. N. I. M., simultâneamente masseiras, a utilização, a título excepcional, de diagramas para a produção alternada de farinhas panificáveis e de sêmolas para massas e apenas enquanto tais circunstâncias persistirem.
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
 
-§ único. Às transferências de cereal, autorizadas pela F. N. I. M. entre uma semolaria e uma fábrica de farinhas espoadas de trigo da mesma empresa, a fim de atenderem a ocasionais variações de consumo de sêmolas, não é aplicável o regime de concentração temporária de fabrico previsto no § 1.º do artigo 1.º do [Decreto-Lei n.º 43023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43023-1960-503401).
+###### Artigo 9.º
 
-Art. 10.º As características químico-analíticas e físicas dos produtos resultantes da moenda realizada pela indústria agremiada na F. N. I. M. serão definidas pelo I. N. P., ouvida aquela Federação.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
+
+###### Artigo 10.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
 
 ##### SUBSECÇÃO II — Do condicionamento técnico
 
-Art. 11.º - 1. Nos pedidos de autorização referidos no primeiro período do artigo 4.º deste diploma, salvo nos casos especiais, tècnicamente irremovíveis, o comprimento das linhas de tributação das fábricas, em cilindros de 250 mm de diâmetro, não deve exceder o valor, expresso em milímetros, definido pela expressão:
+###### Artigo 11.º
 
-0,48 Q (7350-120 Q)
+(Revogado.)
 
-onde Q representa a quota de rateio de trigo que cabe à fábrica expressa na percentagem que lhe corresponde no conjunto da indústria agremiada na F. N. I. M.
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
 
-2. O valor dado pela fórmula acima referida será arredondado para o decímetro mais próximo.
+###### Artigo 12.º
 
-3. A fórmula acima referida será revista de cinco em cinco anos, contados a partir de 31 de Dezembro de 1961, tendo em conta o número de horas de utilização diária que, quando da revisão, tiverem as fábricas de moagem.
-
-4. As somas dos comprimentos totais das linhas de desagregação e compressão deverá situar-se em torno de 1,8 vezes o comprimento total da linha de trituração.
-
-Art. 12.º - 1. O comprimento total da linha de desagregação de uma semolaria não deve ser inferior a 1,2 vezes o comprimento total da sua linha de trituração.
+1. O comprimento total da linha de desagregação de uma semolaria não deve ser inferior a 1,2 vezes o comprimento total da sua linha de trituração.
 
 2. O comprimento total da linha de desagregação de uma moagem de trigo produtora de farinhas espoadas não deve exceder 60 por cento da soma dos comprimentos das suas três primeiras passagens de trituração.
 
-Art. 13.º - 1. É obrigatória a existência de silos em todas as fábricas com uma laboração efectiva da ordem das 30 ou mais toneladas diárias.
+###### Artigo 13.º
+
+1. É obrigatória a existência de silos em todas as fábricas com uma laboração efectiva da ordem das 30 ou mais toneladas diárias.
 
 2. A capacidade de armazenamento dos silos em caso algum deve ser inferior a dois meses de laboração efectiva da fábrica.
 
 3. Os silos deverão ser absolutamente impermeáveis, constituídos por células de diversas capacidades, providos de todo o equipamento indispensável à antelimpeza, transvazamento das células, ventilação e mistura do cereal necessário à constituição dos lotes e construídos de molde a permitir as operações de desinfestação dos cereais que arrecadam.
 
-Art. 14.º As fábricas em que não seja obrigatória a existência de silos utilizarão celeiros que, de preferência, serão do tipo em andares, devendo dispor da área indispensável ao padejamento dos cereais e de câmaras de expurgo.
+###### Artigo 14.º
 
-Art. 15.º - 1. O período de trabalho diário da secção de limpeza não será nunca superior ao da secção de moenda.
+As fábricas em que não seja obrigatória a existência de silos utilizarão celeiros que, de preferência, serão do tipo em andares, devendo dispor da área indispensável ao padejamento dos cereais e de câmaras de expurgo.
+
+###### Artigo 15.º
+
+1. O período de trabalho diário da secção de limpeza não será nunca superior ao da secção de moenda.
 
 2. O quociente da capacidade de laboração da secção de limpeza, pela capacidade de laboração da secção de moenda, deve aproximar-se do valor da expressão:
 
 1,15 x (Número de horas de laboração diária da moenda/Número de horas de laboração diária da limpeza)
 
-Art. 16.º - 1. A diagramação da secção de limpeza deverá ser concebida de modo a realizar o mais eficientemente possível esta operação.
+###### Artigo 16.º
+
+1. A diagramação da secção de limpeza deverá ser concebida de modo a realizar o mais eficientemente possível esta operação.
 
 2. Nas instalações de semolaria a diagramação da secção de limpeza deve, além do mais, permitir uma separação muito perfeita dos elementos menores que o grão de trigo rijo e uma desgerminação enérgica do cereal.
 
-Art. 17.º - 1. O piso dos armazéns de produtos acabados deve ser revestido de qualquer material de baixa condutividade térmica.
+###### Artigo 17.º
+
+1. O piso dos armazéns de produtos acabados deve ser revestido de qualquer material de baixa condutividade térmica.
 
 2. O armazenamento de sêmolas para massas far-se-á em sacos, e nunca em silos.
 
 3. A capacidade dos armazéns de produtos acabados não deve ser inferior a duas semanas de produção normal da fábrica.
 
-Art. 18.º As fábricas de moagem espoada de trigo deverão dispor de um laboratório que lhes permita examinar e verificar a qualidade das matérias-primas que utilizam e a dos produtos que fabricam.
+###### Artigo 18.º
+
+As fábricas de moagem espoada de trigo deverão dispor de um laboratório que lhes permita examinar e verificar a qualidade das matérias-primas que utilizam e a dos produtos que fabricam.
 
 ### CAPÍTULO II — Normas de segurança e higiene
 
-Art. 19.º Além das prescritas no presente diploma, são aplicáveis à indústria de moagem de trigo com peneiração as normas de segurança e higiene industriais.
+###### Artigo 19.º
 
-Art. 20.º As fábricas de moagem de trigo com peneiração devem estar munidas de extintores portáteis, em número conveniente e colocados em lugares apropriados e bem à vista, quando não dispuserem de outro sistema mais eficiente de extinção de incêndios.
+Além das prescritas no presente diploma, são aplicáveis à indústria de moagem de trigo com peneiração as normas de segurança e higiene industriais.
 
-Art. 21.º Os tambores de comando e respectivas correias de transmissão devem estar sempre resguardados por estruturas firmes, que inibam por completo qualquer contacto acidental das pessoas com estes órgãos.
+###### Artigo 20.º
 
-Art. 22.º Todas as transmissões, veios de transmissão e tambores situados a menos de 2,60 m do chão devem ser igualmente resguardados.
+As fábricas de moagem de trigo com peneiração devem estar munidas de extintores portáteis, em número conveniente e colocados em lugares apropriados e bem à vista, quando não dispuserem de outro sistema mais eficiente de extinção de incêndios.
 
-Art. 23.º As fábricas de moagem de trigo com peneiração deverão dispor de um posto onde possam ser prestados os primeiros socorros em casos de acidente.
+###### Artigo 21.º
 
-Art. 24.º - 1. Na secção de armazenamento de produtos acabados haverá uma separação completa entre o armazenamento dos produtos nobres e o dos subprodutos, podendo tal separação ser conseguida quer por parede divisória, quer pela localização de cada uma das categorias de produtos em pisos diferentes.
+Os tambores de comando e respectivas correias de transmissão devem estar sempre resguardados por estruturas firmes, que inibam por completo qualquer contacto acidental das pessoas com estes órgãos.
+
+###### Artigo 22.º
+
+Todas as transmissões, veios de transmissão e tambores situados a menos de 2,60 m do chão devem ser igualmente resguardados.
+
+###### Artigo 23.º
+
+As fábricas de moagem de trigo com peneiração deverão dispor de um posto onde possam ser prestados os primeiros socorros em casos de acidente.
+
+###### Artigo 24.º
+
+1. Na secção de armazenamento de produtos acabados haverá uma separação completa entre o armazenamento dos produtos nobres e o dos subprodutos, podendo tal separação ser conseguida quer por parede divisória, quer pela localização de cada uma das categorias de produtos em pisos diferentes.
 
 2. Estes armazéns deverão possuir boa iluminação, bom arejamento e ser construídos de modo a evitar-se por completo tanto o aparecimento de humidades no seu ambiente como o de parasitas.
 
-Art. 25.º Os edifícios fabris devem ser internamente pintados, assim como as respectivas máquinas, de cores claras, que evidenciem bem patentemente qualquer falta de limpeza.
+###### Artigo 25.º
 
-Art. 26.º A iluminação natural de qualquer compartimento fabril deve ser proporcionada por janelas com superfície total não inferior a 12 por cento da área do pavimento respectivo, situadas de modo a permitirem uma distribuição uniforme da luz do dia.
+Os edifícios fabris devem ser internamente pintados, assim como as respectivas máquinas, de cores claras, que evidenciem bem patentemente qualquer falta de limpeza.
 
-Art. 27.º A iluminação artificial consistirá em luz eléctrica e deverá obedecer às normas da Comissão Luminotécnica Portuguesa ou outras oficializadas, tendo em atenção que a iluminação geral não deve ser inferior a 100 lux.
+###### Artigo 26.º
+
+A iluminação natural de qualquer compartimento fabril deve ser proporcionada por janelas com superfície total não inferior a 12 por cento da área do pavimento respectivo, situadas de modo a permitirem uma distribuição uniforme da luz do dia.
+
+###### Artigo 27.º
+
+A iluminação artificial consistirá em luz eléctrica e deverá obedecer às normas da Comissão Luminotécnica Portuguesa ou outras oficializadas, tendo em atenção que a iluminação geral não deve ser inferior a 100 lux.
 
 ### CAPÍTULO III — Da localização da indústria
 
-Art. 28.º - 1. Para o efeito da localização das fábricas de moagem de trigo com peneiração, o território do continente é dividido em dez zonas, definidas como segue:
+###### Artigo 28.º
 
-Zona n.º 1. - É constituída pelos distritos de Braga, Bragança, Porto, Viana do Castelo e Vila Real; os concelhos de Arouca, Castelo de Paiva, Espinho, Feira e S. João da Madeira, do distrito de Aveiro; os concelhos de Armamar, Lamego, Moimenta da Beira, Penedono, S. João da Pesqueira, Cinfães, Tabuaço e Tarouca, do distrito de Viseu, e os concelhos de Figueira de Castelo Rodrigo, Meda e Vila Nova de Foz Côa, do distrito da Guarda.
+(Revogado.)
 
-Zona n.º 2. - Abrange, além de todo o distrito de Coimbra, os distritos de Aveiro e Viseu, com excepção dos concelhos incluídos na zona n.º 1, e dela fazem parte os concelhos de Aguiar da Beira, Fornos de Algodres, Gouveia e Seia, do distrito da Guarda, e ainda o concelho de Castanheira de Pêra, do distrito de Leiria.
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
 
-Zona n.º 3. - Compõe-se do distrito da Guarda, com excepção dos concelhos incluídos nas zonas n.os 1 e 2, e do distrito de Castelo Branco, com excepção dos concelhos incluídos na zona n.º 4.
+###### Artigo 29.º
 
-Zona n.º 4. - É constituída pelo distrito de Leiria, com excepção do concelho incluído na zona n.º 2, e distrito de Santarém, com excepção dos concelhos incluídos na zona n.º 5, além dos concelhos da Sertã e de Vila de Rei, do distrito de Castelo Branco, e o concelho de Gavião, do distrito de Portalegre.
+(Revogado.)
 
-Zona n.º 5. - Comporta todo o distrito de Lisboa e concelhos de Benavente, Coruche e Salvaterra de Magos, do distrito de Santarém, além dos concelhos de Alcochete, Almada, Barreiro, Moita, Montijo, Seixal e Sesimbra, do distrito de Setúbal.
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
 
-Zona n.º 6. - É composta pelo distrito de Portalegre, com excepção do concelho incluído na zona n.º 4.
+###### Artigo 30.º
 
-Zona n.º 7. - É formada pelo distrito de Évora, com excepção do concelho incluído na zona n.º 9.
+(Revogado.)
 
-Zona n.º 8. - Abrange, além do concelho de Odemira, do distrito de Beja, o distrito de Setúbal, com excepção dos concelhos incluídos na zona n.º 5.
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
 
-Zona n.º 9. - Estende-se por todo o distrito de Beja, com excepção do concelho incluído na zona n.º 8, além do concelho de Portel, do distrito de Évora.
+###### Artigo 31.º
 
-Zona n.º 10. - Abrange todo o distrito de Faro.
+(Revogado.)
 
-2. Entende-se por área de consumo denso a área dos concelhos em que o consumo anual de farinhas espoadas de trigo é igual ou superior a 2 t por quilómetro quadrado.
-
-Art. 29.º - 1. Salvo casos excepcionais, devidamente justificados, considerar-se-á bem localizada a fábrica em relação à qual se verifiquem as condições seguintes:
-
-a) Estar situada numa área de consumo denso;
-
-b) Possuir, tidas em conta as outras fábricas situadas na mesma zona, produção que se adapte ao consumo dessa zona e estar situada em relação àquelas de forma que a sua área natural de venda não seja inferior a 1 por cento do consumo total do País;
-
-c) Estar directamente ligada por meio de ramal a uma via férrea.
-
-2. O disposto na alínea c) do número anterior só é aplicável às unidades para as quais se necessite ou se justifique nova localização; a satisfação desta alínea pode justificar, como caso excepcional, em relação a unidades existentes, a não satisfação de alguma das outras duas alíneas.
-
-Art. 30.º As semolarias para massas alimentícias localizar-se-ão de preferência ou nas zonas produtoras de trigos rijos ou junto do consumo de sêmolas, consoante se destinam ou não ao abastecimento dos masseiros que não disponham de semolarias.
-
-Art. 31.º - 1. A transferência de local das fábricas de moagem de trigo com peneiração depende, nos termos da alínea c) da base II da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalhe/lei/2052-1952-597284), de autorização do condicionamento industrial e só é de consentir para as fábricas produtoras de farinhas que disponham do mínimo de 1 por cento de quota de rateio e quando se verificarem mais as duas condições seguintes:
-
-a) A transferência concorrer, nas zonas por ela afectadas, para o ajustar a quota de rateio do conjunto de fábricas existentes na respectiva zona, quando convertida em peso, com o consumo da mesma zona;
-
-b) A fábrica poder ser considerada bem localizada, no novo local, de acordo com o disposto nos artigos 28.º e 29.º deste diploma, com excepção da alínea c) deste último artigo, que não será obrigatória se a transferência se destinar a fusão e a unidade com a qual se vai dar a fusão não necessitar nem justificar nova localização.
-
-2. As fábricas com menos de 1 por cento de quota de rateio poderão ser objecto de transferência quando se destinem a fusão, desde que se verifiquem as restantes condições fixadas no número anterior.
-
-3. Na apreciação dos pedidos de fusão e cisão, previstas no [Decreto-Lei n.º 43023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43023-1960-503401), observar-se-á a doutrina do primeiro período deste artigo, além do que dispõe o artigo 30.º deste diploma, quando tais operações se executem para a especialização de semolarias.
+> Revogado pelo/a [Decreto-Lei n.º 75/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1974-261929), publicado em 1974-02-28.
 
 ### CAPÍTULO IV — Da fiscalização e das penas
 
 #### SECÇÃO I — Da fiscalização
 
-Art. 32.º Compete à Direcção-Geral dos Serviços Industriais, Inspecção-Geral dos Produtos Agrícolas e Industriais e Direcção-Geral de Saúde, bem como ao Instituto Nacional do Pão e à F. N. I. M., fiscalizar o cumprimento do disposto neste diploma.
+###### Artigo 32.º
 
-Art. 33.º Na colheita de amostras, bem como nas análises a que estas forem submetidas, serão obrigatòriamente observados os processos e métodos estabelecidos pela Comissão Técnica dos Métodos Químico-Analíticos, de harmonia com o disposto no artigo 2.º do [Decreto-Lei n.º 37630](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37630-1949-268002), de 24 de Novembro de 1949.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
+
+###### Artigo 33.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
 
 #### SECÇÃO II — Das penas
 
-Art. 34.º - 1. A competência para proceder à instrução preparatória dos processos administrativos referentes às infracções ao preceituado neste diploma, consoante a respectiva esfera de acção, considera-se delegada na Direcção-Geral dos Serviços Industriais, na Inspecção-Geral dos Produtos Agrícolas e Industriais, na Direcção-Geral de Saúde e no Instituto Nacional do Pão, sem prejuízo da que compete à Intendência-Geral dos Abastecimentos.
+###### Artigo 34.º
 
-2. Às infracções contra a saúde pública e à graduação da responsabilidade dos seus agentes é aplicável o preceituado no [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957, e a instrução preparatória dos respectivos processos observará o disposto nos artigos 35.º e 40.º a 45.º desse decreto-lei.
+(Revogado.)
 
-3. As infracções ao condicionamento industrial preceituado neste diploma e às regras aplicáveis do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898) serão punidas de acordo com o disposto nos artigos 27.º, 29.º e 31.º a 33.º desse decreto-lei.
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-Art. 35.º - 1. As sêmolas para o fabrico de massas alimentícias serão as de trigo rijo - preferentemente duro -, mas, sempre que as condições de abastecimento de trigo do País o justificarem, poderá o Secretário de Estado do Comércio determinar que no fabrico de massas alimentícias, de preferência nas de mais baixa qualidade, seja a sêmola daquele cereal substituída, em parte, por sêmola de outro tipo de trigo.
+###### Artigo 35.º
 
-2. Quando o equilíbrio económico assim o determinar, poderá também o Secretário de Estado do Comércio autorizar a incorporação nos produtos de semolaria de mais baixa qualidade de outras substâncias que não alterem profundamente o gosto e o aspecto da massa alimentícia.
+(Revogado.)
 
-Art. 36.º A Direcção-Geral dos Serviços Industriais actualizará, por publicação no Diário do Governo, até 31 de Agosto de cada ano, a lista a que se refere o § 2.º do artigo 1.º do [Decreto-Lei n.º 43023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43023-1960-503401), sempre que a aplicação do preceituado nesse decreto-lei e no presente diploma a isso der ocasião.
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
 
-Art. 37.º O Secretário de Estado da Indústria resolverá, por seu despacho, ouvida a Direcção-Geral dos Serviços Industriais e os organismos de coordenação económica e corporativos competentes, as dúvidas que se suscitarem na aplicação do presente diploma.
+###### Artigo 36.º
 
-Art. 38.º Este decreto entra imediatamente em vigor.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
+
+###### Artigo 37.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
+
+###### Artigo 38.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 664/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/664-1974-466178), publicado em 1974-11-26.
 
 Publique-se e cumpra-se como nele se contém.
 

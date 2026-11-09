@@ -1,0 +1,386 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:383401:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-03-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c25fea71c9b333fa",
+    "3a9c70ff11f5ba07",
+    "923422d89298f3ad",
+    "3c0589c43cee3f30",
+    "ed720d392f7b0891",
+    "116c10482bf6527b",
+    "ad43d4280bd50e58",
+    "84ec29a6f230bfc3",
+    "83437e98950362b4",
+    "467a2014c1316c54",
+    "cd64939ad11d9b36",
+    "e1dda1a0ae3e825c",
+    "f292b8728461daa5",
+    "47a4475a38f2ba8a",
+    "4160a2c89f6fa077",
+    "533955edc5058336",
+    "b45c7136930cb331",
+    "52860198dc532ef8",
+    "9e7d3eb38ba50dca",
+    "becbfe727a4cd912",
+    "0645f3295f0c11b5",
+    "d9163bd6691bdd53",
+    "af962acb27eca5aa",
+    "132d1c6d66fc32be",
+    "d9a8db159c1467f6",
+    "fd8ecf430cf40695",
+    "afcea9d004aa8f4a",
+    "42f21110d0f77a1a",
+    "39808ae8665dbbba",
+    "516874675ff7ea9c",
+    "20ec7ea13838d7d7",
+    "68b40caaf1d80e1e",
+    "44eced20d2e26359",
+    "a057eb4037292ad6"
+   ]
+  },
+  {
+   "date": "1984-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:661507:por",
+     "title": "Portaria n.º 113/84",
+     "published": "1984-02-21",
+     "dre_path": "/dr/detalhe/portaria/113-1984-661507"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "c25fea71c9b333fa",
+    "3a9c70ff11f5ba07",
+    "923422d89298f3ad",
+    "3c0589c43cee3f30",
+    "ed720d392f7b0891",
+    "116c10482bf6527b",
+    "ad43d4280bd50e58",
+    "84ec29a6f230bfc3",
+    "83437e98950362b4",
+    "467a2014c1316c54",
+    "cd64939ad11d9b36",
+    "e1dda1a0ae3e825c",
+    "f292b8728461daa5",
+    "47a4475a38f2ba8a",
+    "4160a2c89f6fa077",
+    "533955edc5058336",
+    "b45c7136930cb331",
+    "52860198dc532ef8",
+    "9d547b6564b35935",
+    "becbfe727a4cd912",
+    "0645f3295f0c11b5",
+    "d9163bd6691bdd53",
+    "af962acb27eca5aa",
+    "132d1c6d66fc32be",
+    "d9a8db159c1467f6",
+    "fd8ecf430cf40695",
+    "afcea9d004aa8f4a",
+    "42f21110d0f77a1a",
+    "39808ae8665dbbba",
+    "516874675ff7ea9c",
+    "20ec7ea13838d7d7",
+    "68b40caaf1d80e1e",
+    "44eced20d2e26359",
+    "a057eb4037292ad6"
+   ]
+  }
+ ],
+ "fragments": {
+  "c25fea71c9b333fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Março\n\nNos termos do disposto no artigo 19.º do [Decreto-Lei n.º 420/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/420-1978-325156), de 21 de Dezembro:\n\nManda o Governo da República Portuguesa, pelo Ministro das Finanças e do Plano e pelo Secretário de Estado da Cultura, aprovar o Regulamento das Bolsas de Estudo de Curta Duração no Estrangeiro, anexo a esta portaria.\n\nPresidência do Conselho de Ministros e Ministério das Finanças e do Plano, 6 de Março de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Secretário de Estado da Cultura, David de Jesus Mourão Ferreira.\n\nREGULAMENTO DAS BOLSAS DE ESTUDO DE CURTA DURAÇÃO NO ESTRANGEIRO\n\nI\n\nDisposições gerais"
+  },
+  "3a9c70ff11f5ba07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — (Duração e função das bolsas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Duração e função das bolsas)\n\nPara os efeitos do presente diploma, designam-se por bolsas de curta duração no estrangeiro as bolsas de estudo concedidas pela Secretaria de Estado da Cultura, através do Gabinete das Relações Culturais Internacionais, a indivíduos de nacionalidade portuguesa, com vista a promover e estimular o aperfeiçoamento e actualização de conhecimentos no estrangeiro e a permitir o contacto com as realidades culturais de outros países, especialmente nos domínios das ciências humanas, das artes e das letras, em geral, por períodos com a duração mínima de um mês e máxima de três meses."
+  },
+  "923422d89298f3ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — (Limitação da concessão de bolsas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Limitação da concessão de bolsas)\n\nA concessão de bolsas de curta duração pode ser limitada, em cada ano, a determinados sectores do conhecimento, de acordo com as necessidades prioritárias do momento e com os interesses gerais do País."
+  },
+  "3c0589c43cee3f30": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — (Locais de realização dos estudos ou estágios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Locais de realização dos estudos ou estágios)\n\nAs bolsas de curta duração destinam-se fundamentalmente à realização de estudos ou estágios em países europeus, podendo, em casos justificados, ser concedidas para estudos em países de outros continentes."
+  },
+  "ed720d392f7b0891": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — (Duração e início das bolsas destinadas a cursos de Verão e equiparados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Duração e início das bolsas destinadas a cursos de Verão e equiparados)\n\n1 - As bolsas de estudo destinadas à frequência de cursos de Verão, seminários, estágios ou outras modalidades de estudos por períodos fixos, estabelecidos pelos centros ou instituições que os organizam, serão concedidas exclusivamente para cada um daqueles períodos.\n\n2 - As bolsas referidas no número anterior têm início entre três e um dias antes da abertura dos estudos a que respeitam, salvo em casos de natureza excepcional."
+  },
+  "116c10482bf6527b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — (Duração e início das bolsas destinadas a realização de outros estudos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Duração e início das bolsas destinadas a realização de outros estudos)\n\n1 - As bolsas destinadas à realização de estudos não compreendidos no artigo anterior são concedidas pelo período que o Secretário de Estado da Cultura repute imprescindível à realização dos respectivos trabalhos, estudos ou estágios.\n\n2 - As bolsas referidas neste artigo têm início entre três e um dias antes da data prevista pelo bolseiro ou pelo seu orientador no estrangeiro para começo dos trabalhos, estudos ou estágios."
+  },
+  "ad43d4280bd50e58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — (Prorrogação das bolsas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Prorrogação das bolsas)\n\n1 - As bolsas de curta duração só podem ser prorrogadas por períodos não superiores a trinta dias, mediante despacho do Secretário de Estado da Cultura, em casos devidamente justificados, nunca excedendo os seis meses na totalidade.\n\n2 - As bolsas destinadas a cursos de Verão, estágios ou outros cursos de duração previamente fixada não podem ser prorrogadas em caso algum."
+  },
+  "84ec29a6f230bfc3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — (Limite de bolsas a conceder ao mesmo indivíduo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Limite de bolsas a conceder ao mesmo indivíduo)\n\n1 - Não pode ser concedida, em cada ano civil, pela Secretaria de Estado da Cultura, mais do que uma bolsa de curta duração ao mesmo indivíduo, salvo em casos excepcionais de justificado interesse para o País e reconhecidos como tais pela comissão de especialistas que proceder à selecção das candidaturas.\n\n2 - A decisão da comissão mencionada no número anterior está sujeita a homologação do Secretário de Estado da Cultura."
+  },
+  "83437e98950362b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — (Concessão de bolsas para cônjuges)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Concessão de bolsas para cônjuges)\n\n1 - Não é permitido conceder aos cônjuges não separados judicialmente de pessoas e bens duas bolsas da Secretaria de Estado da Cultura, quando os estudos devam efectuar-se na mesma localidade ou em localidades que, pela sua vizinhança ou proximidade, permitam fazer vida em comum.\n\n2 - Quando ambos os cônjuges reúnam as condições necessárias à atribuição de bolsas e não possam, nos termos do número anterior, ser-lhes atribuídas duas bolsas, será concedida uma única bolsa ao casal, na qual se compreende um acréscimo de 50% do subsídio de manutenção e os subsídios de transporte, de despesas de inscrição e matrículas, bem como o subsídio destinado a material a que cada um deles tiver direito, além da possibilidade de receber um subsídio global destinado à realização de um contrato de seguro no interesse de cada um deles, nos termos do artigo 22.º\n\n3 - O subsídio global referido no número anterior somente será atribuído contra a entrega de documento comprovativo de que foi efectuado o contrato de seguro a expensas do bolseiro."
+  },
+  "467a2014c1316c54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — (Concessão de bolsas a funcionários e a agentes da Administração Pública Central, das administrações regional e local e dos institutos públicos personalizados.)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Concessão de bolsas a funcionários e a agentes da Administração Pública Central, das administrações regional e local e dos institutos públicos personalizados.)\n\nA concessão de bolsas de curta duração no estrangeiro a funcionários e agentes da Administração Pública Central, das administrações regional e local e dos institutos públicos personalizados que se proponham realizar estudos, estágios ou trabalhos de reconhecido proveito para a cultura nacional e para o organismo ou instituição em que prestem a sua actividade depende de autorização do respectivo superior hierárquico e implica a dispensa total do exercício das respectivas funções pelo período de duração da bolsa, conservando entretanto os servidores as regalias inerentes ao efectivo desempenho dos seus cargos e, designadamente, o abono da respectiva remuneração e a contagem de tempo de serviço para todos os efeitos legais.\n\nII\n\nConcessão das bolsas"
+  },
+  "cd64939ad11d9b36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — (Concurso para a concessão de bolsas e publicidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Concurso para a concessão de bolsas e publicidade)\n\n1 - A concessão, em cada ano, de bolsas de curta duração é feita por meio de concurso, anunciada por editais publicados no Diário da República e na imprensa diária, podendo também ser divulgada na rádio, televisão ou outros meios de comunicação social.\n\n2 - Os editais especificarão os domínios do conhecimento a que se destinam as bolsas, as condições e a documentação exigida aos candidatos e o prazo de entrega dos requerimentos e respectivas candidaturas."
+  },
+  "e1dda1a0ae3e825c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — (Condições de admissão ao concurso)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Condições de admissão ao concurso)\n\n1 - São admitidos a concurso, para concessão de bolsas de curta duração, os candidatos que, reunindo as condições indicadas no respectivo edital, apresentem, juntamente com o requerimento do pedido de bolsa, dirigido ao Secretário de Estado da Cultura, em papel selado, e o impresso próprio da Secretaria de Estado da Cultura, os documentos seguintes:\n\na) Documento comprovativo dos diplomas de estudo requeridos pela natureza dos estágios, estudos ou trabalhos que se proponham realizar, quando os houver, ou que sejam exigidos para a admissão dos cursos que pretendam frequentar;\n\nb) Curriculum vitae;\n\nc) Plano circunstanciado dos estudos ou trabalhos que o candidato se proponha realizar, no qual se definam claramente os objectivos pretendidos, e, se for caso disso, o plano de estágio, seminário ou curso fixado pela instituição organizadora dos mesmos, se indiquem as instituições ou centros a frequentar ou as individualidades sob cuja orientação terão lugar os estudos ou trabalhos e se precise o período de tempo necessário para o fim em vista;\n\nd) Declaração, subscrita pela instituição onde o o concorrente exerça a sua actividade profissional principal, comprovativa de que a eventual concessão de bolsa requerida se revela de interesse para esta e de que não promoverá a interrupção dos estudos dela decorrentes, salvo motivo de força maior, comunicado directamente a este Gabinete, e como tal superiormente reconhecido;\n\ne) Documento comprovativo de que a pretensão do candidato foi aceite pelas instituições em que se propõe realizar os estágios, estudos ou trabalhos ou pelas individualidades por quem pretende ser orientado;\n\nf) Descrição da situação económica do candidato, com discriminação das remunerações que aufere e dos seus encargos permanentes;\n\ng) Cartas abonatórias de, pelo menos, duas individualidades ligadas aos domínios do conhecimento a que a candidatura respeitar.\n\n2 - A Secretaria de Estado da Cultura, através do Gabinete das Relações Culturais Internacionais, pode avisar os candidatos para suprirem quaisquer faltas no preenchimento dos respectivos requerimentos ou a falta de quaisquer documentos, dentro do prazo razoável, bem como apresentarem outros documentos que considere necessários à instrução do processo, ou solicitar-lhes a prestação de provas de adequado domínio da língua utilizada na instituição em que se propõem realizar os seus estágios, estudos ou trabalhos.\n\n3 - Em casos excepcionais, pode a Secretaria de Estado da Cultura dispensar alguma ou algumas das condições exigidas, constantes do presente artigo."
+  },
+  "f292b8728461daa5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — (Prazo de apresentação a concurso)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Prazo de apresentação a concurso)\n\n1 - Só podem ser considerados em cada concurso os candidatos cujos requerimentos, acompanhados da documentação exigida, tenham dado entrada no Gabinete das Relações Culturais Internacionais da Secretaria de Estado da Cultura no prazo indicado nos respectivos editais.\n\n2 - A documentação remetida por via postal somente será considerada se for acompanhada de aviso de recepção, datado dentro do prazo fixado no edital."
+  },
+  "47a4475a38f2ba8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n(Candidatura de funcionários e agentes da Administração Pública Central, das administrações regional e local e dos institutos públicos personalizados).\n\nOs concorrentes que exerçam funções públicas devem apresentar os seus requerimentos através dos serviços em que estiverem colocados, que os remeterão ao Gabinete das Relações Culturais Internacionais da Secretaria de Estado da Cultura, acompanhados de autorização do respectivo superior hierárquico para a sua candidatura e ulterior benefício de bolsa, caso esta lhe vier a ser concedida."
+  },
+  "4160a2c89f6fa077": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — (Exclusão de concorrentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Exclusão de concorrentes)\n\nSão fundamentos da exclusão do concurso:\n\na) A insuficiência ou incorrecção no preenchimento dos impressos ou do requerimento, quando não hajam sido supridas em consequência do aviso a que se refere o n.º 2 do artigo 11.º;\n\nb) A falta de apresentação dos documentos exigidos no artigo 11.º, quando os concorrentes não tenham sido dispensados de o fazer ou não hajam suprido a falta;\n\nc) A apresentação da candidatura depois do termo do prazo fixado no respectivo edital;\n\nd) A remessa de documentação por via postal sem ser acompanhada de aviso de recepção;\n\ne) A recusa de prestação de provas de domínio da língua utilizada na instituição em que os projectos, estudos ou trabalhos iriam ter lugar;\n\nf) A falta de provas das condições exigidas no respectivo edital para a concessão das bolsas;\n\ng) A falta de apresentação do relatório ou certificado referido no artigo 30.º quanto a trabalhos para cuja realização tivesse sido anteriormente concedida uma bolsa."
+  },
+  "533955edc5058336": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — (Selecção dos candidatos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Selecção dos candidatos)\n\n1 - Os candidatos admitidos ao concurso são seleccionados, para efeito de concessão de bolsa de curta duração, por comissões de especialistas do ramo de conhecimento a que respeitem os estágios, estudos ou trabalhos a efectuar e se encontrem previstos no programa de trabalho dos candidatos.\n\n2 - Para a concessão de bolsas de curta duração são condições gerais de preferência, a concretizar pela comissão de especialistas:\n\na) O aperfeiçoamento em sectores ou domínios do conhecimento inexistentes no País e de maior carência para o seu desenvolvimento cultural;\n\nb) A frequência de seminários, cursos de Verão ou estágios curtos que se revelem de maior utilidade e conveniência para a actualização do conhecimento dos candidatos, desde que não existam no País esse cursos ou estágios;\n\nc) A realização ou conclusão de trabalhos ou estudos que visem o desenvolvimento e progresso cultural do País."
+  },
+  "b45c7136930cb331": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — (Concessão das bolsas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Concessão das bolsas)\n\n1 - As bolsas de curta duração são atribuídas aos candidatos seleccionados pelas comissões referidas no número anterior por despacho do Secretário de Estado da Cultura.\n\n2 - Será afixada no Gabinete das Relações Culturais Internacionais da Secretaria de Estado da Cultura a lista dos candidatos a quem foi atribuída uma bolsa de estudo.\n\nIII\n\nQuantitativo das bolsas"
+  },
+  "52860198dc532ef8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — (Conteúdo das bolsas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Conteúdo das bolsas)\n\nAs bolsas de curta duração representam uma forma de auxílio material ou de comparticipação nos encargos inerentes à realização de estágios, estudos ou trabalhos no estrangeiro e compreendem os subsídios adequados à manutenção do bolseiro, à satisfação das despesas de transporte, a ocorrer às despesas resultantes de matrículas e inscrições, encargos com seguro de doença e acidentes pessoais e, eventualmente, um subsídio destinado à compra de livros ou de material imprescindível à prossecução dos estudos ou trabalhos do bolseiro, quando este não possa satisfazê-las directamente."
+  },
+  "9e7d3eb38ba50dca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Subsídio de manutenção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Subsídio de manutenção)\n\n1 - O subsídio de manutenção é, em relação aos países a seguir mencionados, o que resultar da aplicação dos valores seguintes:\n\nEspanha - 600$00 (18000$00 mensais);\n\nPaíses da Europa Ocidental - 700$00 (21000$00 mensais);\n\nCanadá e EUA - 850$00 (25500$00 mensais).\n\n2 - Os quantitativos a atribuir para os restantes países da Europa serão fixados caso a caso, de acordo com as normas e níveis de custo de vida vigentes em cada país.\n\n3 - Para cálculo do subsídio de manutenção far-se-á corresponder a cada mês de duração da bolsa o quantitativo mensal previsto no n.º 1 e a cada dia dos períodos que não perfaçam um mês o subsídio quantitativo diário igualmente previsto no mesmo número.\n\n4 - O quantitativo do subsídio de manutenção para países não referidos nos n.os 1 e 2 é determinado por analogia com os valores neles fixados e dentro dos respectivos limites.\n\n5 - O subsídio de manutenção é concedido pelo período de duração da bolsa fixado nos artigos 4.º e 5.º Porém, nos casos em que a bolsa termine antes da data inicialmente prevista, o subsídio deixa de ser abonado dois dias após o termo daquela."
+  },
+  "becbfe727a4cd912": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — (Subsídio de viagem)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Subsídio de viagem)\n\n1 - O montante do subsídio de viagem corresponde ao custo de uma viagem de ida e volta entre o local da residência permanente do bolseiro e a localidade em que irão decorrer os cursos, estágios, estudos ou trabalhos, sendo calculado de acordo com os preços praticados na data do início da bolsa.\n\n2 - O subsídio de viagem corresponde ao preço da passagem por via aérea em classe turística, por caminho de ferro em 1.ª classe simples ou por via marítima em 2.ª classe, desde que, no último caso, o preço não exceda o da classe turística por via aérea, consoante o meio de transporte efectivamente utilizado pelo bolseiro.\n\n3 - No caso de o bolseiro se fazer transportar por meios próprios, tem apenas direito ao montante do custo da viagem por caminho de ferro em 1.ª classe simples.\n\n4 - Quando o bolseiro se encontre no estrangeiro ao tempo do início da bolsa, o subsídio de viagem a abonar compreende unicamente as despesas da viagem de regresso ao País, calculado nos termos do disposto nos números anteriores.\n\n5 - O bolseiro receberá sempre a passagem e nunca a quantia correspondente, excepto nos casos previstos nos n.os 3 e 4."
+  },
+  "0645f3295f0c11b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — (Subsídio de inscrição e matrícula)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Subsídio de inscrição e matrícula)\n\n1 - O bolseiro tem direito a um subsídio de montante igual ao das despesas obrigatórias de inscrição e matrícula indispensáveis à frequência dos cursos ou à realização de estágios, estudos ou trabalhos para que lhe foi concedida a bolsa.\n\n2 - O reembolso das despesas mencionadas no n.º 1 é feito ao câmbio do dia da respectiva liquidação.\n\n3 - O bolseiro perde o direito ao subsídio de inscrição e matrícula se não apresentar os documentos comprovativos daquelas despesas no prazo de dez dias a contar da liquidação das mesmas, salvo caso de força maior."
+  },
+  "d9163bd6691bdd53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — (Subsídio para compra de livros e material)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Subsídio para compra de livros e material)\n\n1 - Quando os estudos ou trabalhos o justificarem, pode ser atribuído ao bolseiro um subsídio para aquisição de livros ou outro material imprescindível à realização dos referidos estudos ou trabalhos até ao montante de 5000$00.\n\n2 - Material imprescindível é aquele cuja falta, segundo parecer do orientador do bolseiro ou do director da instituição que irá frequentar, impossibilita a realização do estudo ou trabalho em causa."
+  },
+  "af962acb27eca5aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — (Subsídio para contrato de seguro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Subsídio para contrato de seguro)\n\nO bolseiro tem direito a receber um subsídio global, variável e a título individual, tendo em vista a celebração de um contrato de seguro de doença e acidentes pessoais, a expensas do bolseiro, pelo período de duração da bolsa, o qual compreenda a cobertura dos riscos de morte ou invalidez permanente, doença e incapacidade temporária, incluindo o pagamento das despesas médicas, cirúrgicas, hospitalares, e das efectuadas com meios de diagnóstico ou terapêutica ou com medicamentos ocasionados pelo tratamento de doenças ou lesões sofridas em consequência de factos previstos na respectiva apólice.\n\nIV\n\nDeveres dos bolseiros"
+  },
+  "132d1c6d66fc32be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — (Repatriação e cooperação com o Estado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Repatriação e cooperação com o Estado)\n\n1 - A aceitação de bolsas de curta duração constitui o bolseiro na obrigação de regressar ao País no fim da mesma.\n\n2 - Os bolseiros que não regressarem ao País no termo da bolsa ou das respectivas prorrogações para nele continuarem a exercer a sua actividade profissional terão de reembolsar o Fundo de Fomento Cultural dos quantitativos que receberam enquanto beneficiaram do título de bolseiro.\n\n3 - Sendo o bolseiro funcionário ou agente da Administração Pública Central, das administrações regional e local e dos institutos públicos personalizados, terá de regressar ao serviço em que se encontra colocado, sob pena de não lhe ser concedida qualquer outra bolsa ou subsídio que venha a solicitar à Secretaria de Estado da Cultura nos próximos dois anos.\n\n4 - O bolseiro está vinculado a colaborar com o Estado durante três anos, a partir do termo da bolsa, sempre que este o reclame para assuntos relacionados com a bolsa de estudo que lhe foi concedida, excepto nos casos em que demonstre total impossibilidade de prestar colaboração, sob pena de não poder beneficiar de qualquer outra bolsa da Secretaria de Estado da Cultura."
+  },
+  "d9a8db159c1467f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — (Acumulação de bolsas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Acumulação de bolsas)\n\nDurante o período por que é concedida a bolsa de curta duração não é permitido ao bolseiro beneficiar de outra bolsa ou subsídio de estudo concedido por quaisquer entidades, a não ser com prévia autorização da Secretaria de Estado da Cultura e de acordo com as entidades concedentes, sob pena de ter de restituir as quantias já recebidas."
+  },
+  "fd8ecf430cf40695": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — (Interrupção das tarefas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Interrupção das tarefas)\n\n1 - O bolseiro não pode interromper os cursos, estágios, estudos ou trabalhos que está a realizar, salvo caso de força maior, sob pena de ter de restituir as quantias já recebidas.\n\n2 - O reembolso das quantias mencionadas no número anterior é feito ao câmbio do dia em que as quantias foram atribuídas."
+  },
+  "afcea9d004aa8f4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — (Horário de trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Horário de trabalho)\n\n1 - O bolseiro é obrigado a observar, no tocante a assiduidade e horário, o regime que vigorar na instituição em que se realiza o estágio, curso, estudos ou trabalhos ou o que for estabelecido pelo respectivo orientador.\n\n2 - A falta de cumprimento do disposto no n.º 1 determina a suspensão imediata da bolsa de estudo até ao completo esclarecimento das causas que motivaram a infracção."
+  },
+  "42f21110d0f77a1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — (Permanência no local de estudo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Permanência no local de estudo)\n\n1 - Não é permitido ao bolseiro ausentar-se da localidade para a qual foi concedida a bolsa sem autorização da Secretaria de Estado da Cultura, salvo em fins-de-semana, feriados ou períodos de férias de curta duração concedidos pela instituição em que se realizem os seus estágios, cursos e estudos ou pelo orientador dos seus trabalhos; ou ainda, quando se trate de deslocações decorrentes da natureza dos seus trabalhos, pelos períodos estritamente necessários.\n\n2 - A falta de cumprimento do disposto no n.º 1 determina a suspensão imediata da bolsa de estudo."
+  },
+  "39808ae8665dbbba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — (Inalterabilidade dos trabalhos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Inalterabilidade dos trabalhos)\n\n1 - Não é lícito ao bolseiro mudar de curso ou estágio, ou alterar o plano de estudos ou de trabalho que apresentou ao requerer a concessão da bolsa, sob pena de esta ser suspensa.\n\n2 - Pode, contudo, o Secretário de Estado da Cultura autorizar a mudança de curso ou de estágio, ou a alteração do plano de estudos ou trabalhos, mediante pedido do bolseiro no qual se exponham circunstanciadamente as razões que o fundamentam, acompanhado do novo plano de trabalhos que se propõe realizar e do parecer do orientador, quando o haja."
+  },
+  "516874675ff7ea9c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — (Publicação do bolseiro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Publicação do bolseiro)\n\nEm todas as publicações de que o bolseiro seja autor ou em que haja colaborado que resultem dos estágios, estudos ou trabalhos para cuja realização foi concedida a bolsa, deve fazer-se menção da sua qualidade de bolseiro da Secretaria de Estado da Cultura, sob pena de não lhe ser concedida qualquer outra bolsa ou subsídio que venha a solicitar à Secretaria de Estado da Cultura dentro do prazo de um ano."
+  },
+  "20ec7ea13838d7d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — (Relatório dos trabalhos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Relatório dos trabalhos)\n\n1 - No prazo de trinta dias a contar do regresso do bolseiro ao País deve entregar no Gabinete das Relações Culturais Internacionais da Secretaria de Estado da Cultura um relatório pormenorizado e, quanto possível, documentado dos estudos ou trabalhos realizados no período de duração da bolsa, com indicação do orientador ou dos orientadores respectivos, se os houver, sob pena de lhe ser aplicada a sanção prevista no artigo 33.º\n\n2 - Quando a bolsa tenha sido concedida com vista a cursos de Verão, seminários ou estágios em centros e instituições, o relatório referido no número anterior deve ser acompanhado de documento passado pelas competentes entidades daqueles centros ou instituições comprovativo do aproveitamento do bolseiro.\n\nV\n\nSanções"
+  },
+  "68b40caaf1d80e1e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — (Suspensão e cancelamento da bolsa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Suspensão e cancelamento da bolsa)\n\n1 - A bolsa pode ser temporariamente suspensa quando o bolseiro não observar as obrigações quanto a assiduidade e horários, permanência na localidade em que os estágios ou estudos hajam de realizar-se e inalterabilidade dos mesmos, resultantes do disposto nos artigos 26.º, 27.º e 28.º, até à completa regularização e relevação da falta cometida.\n\n2 - Havendo mais do que uma violação das obrigações mencionadas no número anterior, pode a bolsa ser cancelada por despacho do Secretário de Estado da Cultura."
+  },
+  "44eced20d2e26359": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — (Reposição da bolsa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Reposição da bolsa)\n\nO cancelamento da bolsa constitui o antigo bolseiro na obrigação de repor no Fundo de Fomento Cultural as quantias que tenha recebido em consequência da concessão da bolsa."
+  },
+  "a057eb4037292ad6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — (Falta de apresentação de relatório ou certificado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Falta de apresentação de relatório ou certificado)\n\nA falta de apresentação, em devido tempo, do relatório e certificado referidos no artigo 30.º determina a impossibilidade de concessão ao antigo bolseiro de quaisquer bolsas ou subsídios que venha a solicitar à Secretaria de Estado da Cultura.\n\nPresidência do Conselho de Ministros e Ministério das Finanças e do Plano, 6 de Março de 1979. - O Ministro das Finanças e do Plano, Manuel Jacinto Nunes. - O Secretário de Estado da Cultura, David de Jesus Mourão Ferreira."
+  },
+  "9d547b6564b35935": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — (Subsídio de manutenção)",
+   "in_force_from": "1984-03-01",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 113/84](https://diariodarepublica.pt/dr/detalhe/portaria/113-1984-661507), publicado em 1984-02-21."
+   ],
+   "markdown": "###### Artigo 18.º — (Subsídio de manutenção)\n\n1 - O subsídio de manutenção é, em relação aos países da Europa, EUA e Canadá, de 32000$00 mensais.\n\n2 - Os quantitativos a atribuir aos bolseiros para os restantes países serão fixados caso a caso, de conformidade com as normas e os níveis de custo de vida em cada país.\n\n3 - Para cálculo do subsídio de manutenção far-se-á corresponder a cada mês de duração da bolsa o quantitativo mensal previsto no n.º 1 e a cada dia dos períodos que não perfaçam um mês o subsídio quantitativo diário igualmente previsto no mesmo número.\n\n4 - O quantitativo do subsídio de manutenção para países não referidos nos n.os 1 e 2 é determinado por analogia com os valores neles fixados e dentro dos respectivos limites.\n\n5 - O subsídio de manutenção é concedido pelo período de duração da bolsa fixado nos artigos 4.º e 5.º Porém, nos casos em que a bolsa termine antes da data inicialmente prevista, o subsídio deixa de ser abonado dois dias após o termo daquela.\n\n> Alterado pelo/a [Portaria n.º 113/84](https://diariodarepublica.pt/dr/detalhe/portaria/113-1984-661507), publicado em 1984-02-21."
+  }
+ }
+}

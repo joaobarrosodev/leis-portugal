@@ -31,10 +31,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1972-10-13'
+version_history:
+  file: decreto-lei-43345.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-11-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1972-10-13'
+    amending: pt:dre:691619:por
+    amending_title: Decreto-Lei n.º 389/72
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -60,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:34:37Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 389/72. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43345.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,21 +137,33 @@ Nestes termos:
 
 Usando da faculdade conferida na 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. A nomeação dos directores das escolas oficiais do magistério primário será de futuro feita por livre escolha do Ministro entre os professores efectivos dos ensinos liceal e técnico profissional ou inspectores-orientadores do ensino primário.
+###### Artigo 1.º
+
+1. A nomeação dos directores das escolas oficiais do magistério primário será de futuro feita por livre escolha do Ministro da Educação Nacional de entre os professores dos quadros do ciclo preparatório, de qualquer ramo de ensino secundário ou do magistério primário, desde que uns e outros possuam como habilitação mínima o grau de bacharel, podendo ainda recair em inspectores orientadores do ensino primário ou directores de distrito escolar.
 
 2. Os directores desempenharão as suas funções em comissão de serviço por prazo indeterminado, que o Ministro a todo o tempo pode dar por finda, e perceberão, além dos vencimentos que lhes são devidos como professores ou inspectores-orientadores, a gratificação mensal de 800$00.
 
-Art. 2.º As escolas particulares do magistério primário que preparem professores destinados ao ensino oficial e as respectivas escolas anexas ficam, a partir do início do ano lectivo de 1960-1961, dependentes, para efeitos de inspecção e orientação, da Direcção-Geral do Ensino Primário.
+> Alterado pelo/a [Decreto-Lei n.º 389/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1972-691619), publicado em 1972-10-13.
 
-Art. 3.º - 1. Para inspecção e orientação das escolas do magistério primário são criados dois lugares de inspector do ensino normal primário.
+###### Artigo 2.º
+
+As escolas particulares do magistério primário que preparem professores destinados ao ensino oficial e as respectivas escolas anexas ficam, a partir do início do ano lectivo de 1960-1961, dependentes, para efeitos de inspecção e orientação, da Direcção-Geral do Ensino Primário.
+
+###### Artigo 3.º
+
+1. Para inspecção e orientação das escolas do magistério primário são criados dois lugares de inspector do ensino normal primário.
 
 2. O provimento destes lugares faz-se por livre escolha do Ministro entre professores efectivos dos ensinos liceal e técnico profissional com pelo menos cinco anos de efectividade. Os inspectores desempenham as suas funções por períodos prorrogáveis de três anos, em comissão de serviço e perceberão a gratificação mensal de 1500$00, ficando o seu abono sujeito ao preceituado nos §§ 1.º e 2.º do artigo 8.º do [Decreto-Lei n.º 26116](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26116-1935-636886), de 23 de Novembro de 1935.
 
-Art. 4.º - 1. A coordenação de todos os serviços de inspecção do ensino primário será confiada a um inspector superior, que coadjuvará ainda o director-geral noutros serviços por ele designados.
+###### Artigo 4.º
+
+1. A coordenação de todos os serviços de inspecção do ensino primário será confiada a um inspector superior, que coadjuvará ainda o director-geral noutros serviços por ele designados.
 
 2. O inspector superior é escolhido livremente pelo Ministro entre professores universitários ou entre professores efectivos dos ensinos liceal e técnico profissional com pelo menos uma diuturnidade e terá a categoria C do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935. Será nomeado ou em comissão de serviço, pelo prazo de três anos, sucessivamente prorrogável, ou em provimento definitivo, se a escolha recair em pessoa que já tenha exercido as funções de inspector superior do Ministério da Educação Nacional pelo menos durante três anos.
 
-Art. 5.º O serviço prestado pelo inspector superior em comissão, pelos inspectores do ensino normal primário e pelos directores de escolas do magistério primário, quando se tratar de professores, é considerado para todos os efeitos legais como serviço docente nos estabelecimentos de ensino a cujos quadros pertencem.
+###### Artigo 5.º
+
+O serviço prestado pelo inspector superior em comissão, pelos inspectores do ensino normal primário e pelos directores de escolas do magistério primário, quando se tratar de professores, é considerado para todos os efeitos legais como serviço docente nos estabelecimentos de ensino a cujos quadros pertencem.
 
 Publique-se e cumpra-se como nele se contém.
 

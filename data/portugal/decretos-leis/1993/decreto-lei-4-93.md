@@ -38,10 +38,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2009-09-27'
+version_history:
+  file: decreto-lei-4-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-01-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-09-27'
+    amending: pt:dre:490394:por
+    amending_title: Decreto-Lei n.º 246/2009
+    changes:
+    - Revoga Artigo 5.º
+    - Revoga Artigo 24.º
+    - Altera Artigo 5.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/4/1993/01/08/p/dre/pt/html
@@ -67,7 +85,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:28:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 246/2009. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1993/decreto-lei-4-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -224,13 +243,17 @@ l) As entidades abrangidas por legislação específica.
 
 ###### Artigo 5.º — Forma de pagamento
 
-1 - O pagamento será feito nas tesourarias da Fazenda Pública ou no Banco de Portugal no prazo de 30 dias após o envio ao requerente pelo serviço competente das respectivas guias de pagamento em quintuplicado.
+1 - As taxas são pagas, no prazo de 30 dias, mediante documento a emitir pelas entidades competentes, privilegiando o pagamento através de meios electrónicos, nomeadamente através de terminal Multibanco, de sistema de homebanking na Internet.
 
-2 - O requerente, após o pagamento, deve enviar ao serviço competente uma cópia da guia.
+2 - As taxas previstas no presente decreto-lei, quando sejam cobradas no âmbito da administração central, constituem receita, na sua totalidade, das entidades competentes.
 
-3 - O processo de comunicação das cobranças efectuadas, bem como a distribuição das importâncias arrecadadas, rege-se pelo disposto no [Decreto-Lei n.º 5/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1984-531830), de 5 de Janeiro.
+3 - (Revogado.)
 
-4 - Os montantes das taxas que não forem pagos nos prazos indicados no n.º 1 serão cobrados coercivamente através dos serviços de justiça fiscal, servindo de título executivo a certidão emitida pelo serviço processador competente.
+4 - A cobrança coerciva das dívidas provenientes da falta de pagamento das taxas faz-se pelo processo de execução fiscal, servindo de título executivo a certidão passada pela entidade que prestar os serviços.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.
+
+> Alterado pelo/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.
 
 ### CAPÍTULO II — Taxas de estabelecimento
 
@@ -348,7 +371,17 @@ c) Revistoria para verificação de cláusulas impostas;
 
 d) Aprovação de projectos de instalações eléctricas tipo ou elementos tipo de instalações eléctricas.
 
-2 - As taxas de revistoria referidas na alínea c) do número anterior, quando sejam cobradas no âmbito da administração central, constituem receita do serviço competente.
+e) Apreciação de projecto de instalações eléctricas de serviço particular;
+
+f) Averbamentos e emissão de segunda via de licenças;
+
+g) Transferência de titularidade de licenças.
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.
+
+> Alterado pelo/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.
 
 ###### Artigo 25.º — Pagamento
 
@@ -362,23 +395,25 @@ d) Aprovação de projectos de instalações eléctricas tipo ou elementos tipo 
 
 ###### Artigo 26.º — Contra-ordenações
 
-1 - Constituem contra-ordenação punível com coima:
+1 - Constitui contra-ordenação punível com coima de (euro) 100 a (euro) 1000, no caso de pessoas singulares, e de (euro) 500 a (euro) 5000, no caso de pessoas colectivas:
 
-a) De 10000$00 a 50000$00, a falta da comunicação prevista no artigo 13.º;
+a) A falta de comunicação prevista no artigo 13.º;
 
-b) De 10000$00 a 50000$00, a falta dos registos permanentes actualizados nos termos do artigo 21.º;
+b) A falta dos registos permanentes actualizados nos termos do artigo 21.º;
 
-c) De 10000$00 a 60000$00, o não envio dos boletins referidos nos artigos 11.º e 20.º;
+c) O não envio dos boletins referidos nos artigos 11.º e 20.º;
 
-d) De 10000$00 a 70000$00, a falta de participação prevista no artigo 17.º;
+d) A falta de participação prevista no artigo 17.º;
 
-e) De 10000$00 a 100000$00, a desmontagem de uma instalação do 1.º grupo com infracção do disposto no artigo 14.º;
+e) A desmontagem de uma instalação do 1.º grupo com infracção do disposto no artigo 14.º;
 
-f) De 50000$00 a 500000$00, o preenchimento errado dos boletins previstos nos artigos 11.º e 20.º com prejuízos para o Estado.
+f) O preenchimento errado dos boletins previstos nos artigos 11.º e 20.º com prejuízos para o Estado.
 
-2 - A negligência e a tentativa são puníveis.
+2 - A negligência e a tentativa são puníveis, sendo os limites mínimos e máximos das coimas aplicáveis reduzidos a metade.
 
 3 - Simultaneamente com a coima e a título de sanção acessória poderá ser ordenada a suspensão do fornecimento de energia, que se manterá enquanto não for reparada a situação que lhe deu origem.
+
+> Alterado pelo/a [Decreto-Lei n.º 246/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2009-490394), publicado em 2009-09-22.
 
 ###### Artigo 27.º — Tramitação e julgamento
 

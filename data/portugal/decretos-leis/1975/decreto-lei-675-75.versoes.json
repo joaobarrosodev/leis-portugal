@@ -1,0 +1,317 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:309534:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1975-12-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b04bee74483f5a6f"
+   ]
+  },
+  {
+   "date": "1985-10-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178334:por",
+     "title": "Decreto-Lei n.º 411/85",
+     "published": "1985-10-16",
+     "dre_path": "/dr/detalhe/decreto-lei/411-1985-178334"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "8e63dcd9a90b1da8",
+    "44ccc36d079c0fc7",
+    "21f479aa284e47f3",
+    "7299f21fbc596604",
+    "fe71098cc4a7d6cb",
+    "cd9c290f78eacb99",
+    "d1b5322bbaabf1cc",
+    "9aa2c5705fab81ce",
+    "72e32d66d1ca5d49",
+    "304bf21b613c87be",
+    "495dc27b5e389aee",
+    "91d9dd28216f2026",
+    "cd38134bf020a84e",
+    "dd27727ee27d9f3d",
+    "a2b33f25f768f1d2",
+    "a585b6d06a473c97",
+    "485f011f2233abef",
+    "aef89ee5b4391dbc",
+    "03fac20646d98e0e",
+    "3653ba6aa9f0959a",
+    "84263155e7ee4ce3",
+    "e0124c94184816d8",
+    "a79fbbc851229866",
+    "2d925846e6cb53dc",
+    "dd0bbb884e77eb81",
+    "7106369d4d762c02",
+    "1a46856628a94347",
+    "9c3436b1473a63ef",
+    "5b75f32b1726b629",
+    "17025692da3779aa"
+   ]
+  }
+ ],
+ "fragments": {
+  "b04bee74483f5a6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Dezembro\n\nA preparação de especialistas em educação física vem-se processando no Instituto Nacional de Educação Física e nas Escolas de Instrutores de Educação Física de Lisboa e do Porto.\n\nO primeiro, embora de nível superior, não se encontra ligado a nenhuma Universidade. As segundas são escolas que foram criadas para preparar docentes da disciplina de Educação Física, embora nunca se tivesse definido com justiça o estatuto profissional dos respectivos diplomados.\n\nAcontece, porém, que, por estranha aberração, os diplomados por estas escolas oficiais estavam impedidos de fazer o estágio pedagógico e de concorrer para lugares do quadro das escolas preparatórias ou dos estabelecimentos de ensino secundário. Por outro lado, depois da criação do INEF, em 1940, nada se fez digno de registo no capítulo do ensino, a nível superior da educação física. O INEF permaneceu à margem das Universidades e aos seus diplomados não foi reconhecido o título de licenciados.\n\nEstes são, por certo, índices seguros do abandono a que foi votada pelo fascismo a educação física do povo português, como factor de desenvolvimento e elemento de cultura.\n\nEste é, pois, um dos campos onde, praticamente, tudo está por fazer. Aceitando que o bacharelato assegura um nível de preparação suficiente para a docência da Educação Física, atribui-se aos dois Institutos Superiores de Educação Física agora criados a missão de conceder, além do grau de licenciado e até do grau de doutor, o grau de bacharel. Assim se justifica a extinção das escolas de instrutores de educação física.\n\nConsidera-se que outras medidas constantes deste diploma virão resolver situações passíveis de crítica (com realce para as providências adoptadas relativamente aos actuais instrutores de educação física) e espera-se dos dois novos Institutos a dedicação ao trabalho e a seriedade científica necessárias para poderem dar boa conta das enormes responsabilidades que lhes ficam a caber.\n\nO presente decreto-lei tem em vista, pois, um duplo objectivo.\n\nPor um lado, elimina-se uma situação que se apresentava como injustamente discriminatória para a educação física em geral, bem como para os respectivos profissionais e estabelecimentos de ensino - adoptando-se, correlativamente, algumas providências de carácter excepcional, mas que outra coisa não representam do que uma parcial compensação do tratamento desfavorável que ao regime deposto mereceu este sector.\n\nPor outro, e sobretudo, intenta-se lançar as bases da normal integração da Educação Física no ensino superior universitário, assim lhe reconhecendo, enfim, o seu lugar próprio no sistema educativo.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. São criados o Instituto Superior de Educação Física de Lisboa, integrado na Universidade Técnica de Lisboa, e o Instituto Superior de Educação Física do Porto, integrado na Universidade do Porto.\n\n2. São extintos o Instituto Nacional de Educação Física, a Escola de Instrutores de Educação Física de Lisboa e a Escola de Instrutores de Educação Física do Porto.\n\nArt. 2.º Os Institutos Superiores de Educação Física são escolas de ensino superior, dotadas de autonomia administrativa, pedagógica e científica.\n\nArt. 3.º - 1. As intalações e equipamento do Instituto Nacional de Educação Física e da Escola de Instrutores de Educação Física de Lisboa, bem como os direitos e obrigações de sua titularidade, transferem-se, com dispensa de qualquer formalidade, para a Universidade Técnica de Lisboa, ficando as instalações e equipamento afectos ao Instituto Superior de Educação Física de Lisboa.\n\n2. As instalações, equipamento, direitos e obrigações da Escola de Instrutores de Educação Física do Porto transitam, com dispensa de qualquer formalidade, para a Universidade do Porto, ficando as instalações e equipamento afectos ao Instituto Superior de Educação Física do Porto.\n\n3. Os regimes de titularidade e posse das instalações, equipamento, direitos e obrigações mencionados nos números anteriores serão os aplicáveis às respectivas Universidades e Escolas Superiores nestas integradas.\n\nArt. 4.º São atribuições dos Institutos Superiores de Educação Física:\n\na) Ministrar cursos superiores de Educação Física;\n\nb) Organizar cursos de reciclagem e de especialização, principalmente destinados aos docentes de Educação Física;\n\nc) Conceder apoio a acções de formação no campo da educação física e dos desportos;\n\nd) Promover acções de dinamização e extensão cultural no âmbito da educação física;\n\ne) Estimular e dar apoio a iniciativas de organizações locais ou de trabalhadores que visem uma movimentação desportiva de massas;\n\nf) Colaborar na organização e desenvolvimento do desporto universitário e escolar;\n\ng) Desenvolver a investigação e o estudo de matérias relativas à educação física e aos desportos;\n\nh) Promover a edição de publicações de carácter científico, pedagógico e técnico no âmbito da educação física.\n\nArt. 5.º - 1. Serão fixadas por portaria do Ministro da Educação e Investigação Científica as habilitações académicas ou outras de nível equiparado ao destas que dêem acesso aos Institutos Superiores de Educação Física.\n\n2. O Ministro da Educação e Investigação Científica poderá, mediante portaria, definir condições mínimas, a verificar através de exame médico e testes apropriados, para a admissão aos cursos dos Institutos Superiores de Educação Física.\n\nArt. 6.º Os cursos professados nos Institutos Superiores de Educação Física conferem os graus de bacharel e de licenciado.\n\nArt. 7.º O grau de bacharel obtém-se pela aprovação em todas as disciplinas dos três primeiros anos ou dos seis primeiros semestres do respectivo currículo, segundo o plano de estudos elaborado por cada Instituto e homologado pelo Secretário de Estado do Ensino Superior e Investigação Científica.\n\nArt. 8.º O Ministro da Educação e Investigação Científica definirá, em portaria, sobre proposta de cada um dos Institutos, o elenco de especialidades em que se deverá organizar a respectiva licenciatura, cujos planos de estudos serão elaborados e homologados nos termos do artigo anterior.\n\nArt. 9.º As Universidades em que os Institutos Superiores de Educação Física estejam integrados poderão conferir o grau de doutor em matérias relacionadas com o ensino nestes ministrado.\n\nArt. 10.º Os Institutos Superiores de Educação Física poderão organizar-se em departamentos.\n\nArt. 11.º - 1. Constituem receitas próprias dos Institutos Superiores de Educação Física:\n\na) As dotações consignadas no orçamento do Ministério da Educação e Investigação Científica;\n\nb) As retribuições resultantes de serviços prestados a entidades públicas ou particulares;\n\nc) Os rendimentos de bens próprios;\n\nd) O produto da venda de publicações;\n\ne) Os subsídios e comparticipações de entidades públicas e os donativos, heranças ou legados de particulares cuja aceitação seja autorizada pelo Ministro da Educação e Investigação Científica;\n\nf) Quaisquer outras receitas que lhes sejam atribuídas por lei, contrato ou outro título.\n\n2. Competirá aos Institutos administrar as receitas referidas no número anterior, de acordo com as normas constantes da legislação aplicável.\n\nArt. 12.º Os quadros de pessoal de cada um dos Institutos Superiores de Educação Física serão aprovados por decreto referendado pelos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica.\n\nArt. 13.º Durante um período de três anos aplicar-se-á aos Institutos Superiores de Educação Física o disposto nos artigos 24.º e 25.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto.\n\nArt. 14.º Os actuais professores efectivos da Escola de Instrutores de Educação Física de Lisboa e do Instituto Nacional de Educação Física transitam para o Instituto Superior de Educação Física de Lisboa e os da Escola de Instrutores de Educação Física do Porto transitam para o Instituto Superior de Educação Física do Porto, conservando a sua actual categoria e vencimentos e extinguindo-se os respectivos lugares quando vagarem.\n\nArt. 15.º - 1. O pessoal técnico, administrativo e auxiliar dos quadros do Instituto Nacional de Educação Física e das Escolas de Instrutores de Educação Física de Lisboa e do Porto manterá a sua actual situação até aprovação dos quadros de pessoal dos Institutos Superiores de Educação Física, sendo então provido em lugares dos novos quadros, idênticos ou de categoria equivalente aos actuais, ou imediatamente superiores àqueles que actualmente ocupam, nos termos definidos no n.º 1 do artigo seguinte, mediante lista nominativa aprovada pelo Ministro da Educação e Investigação Científica e publicada no Diário do Governo, independentemente de outras formalidades, salvo o visto do Tribunal de Contas.\n\n2. Os lugares dos quadros do Instituto Nacional de Educação Física e das Escolas de Instrutores de Educação Física de Lisboa e do Porto mencionados no número anterior extinguir-se-ão quando vagarem.\n\nArt. 16.º - 1. O Ministro da Educação e Investigação Científica poderá preencher, em primeiro provimento, independentemente de concurso, lugares de pessoal técnico, administrativo e auxiliar dos quadros criados, nos termos do presente diploma, com funcionários de categoria imediatamente inferior do Instituto Nacional de Educação Física e das Escolas de Instrutores de Educação Física de Lisboa e do Porto, desde que possuam boa informação de serviço, as habilitações exigidas para aquele provimento e um mínimo de três anos de exercício na categoria.\n\n2. Poderá ainda o Ministro da Educação e Investigação Científica prover, independentemente de concurso e de limite de idade, em lugares de pessoal técnico, administrativo e auxiliar dos quadros criados nos termos do presente diploma indivíduos colocados além dos quadros, seja qual for o regime em que se encontrem, que estejam a prestar serviço idêntico ou equivalente no Instituto Nacional de Educação Física ou nas Escolas de Instrutores de Educação Física de Lisboa ou do Porto, desde que possuam boa informação, as habilitações exigidas para o provimento e, pelo menos, um ano de serviço.\n\n3. Todos os actuais serventes do Instituto Nacional de Educação Física e das Escolas de Instrutores de Educação Física de Lisboa e do Porto passam a contínuos do Instituto Superior de Educação Física da respectiva cidade.\n\nArt. 17.º - 1. O provimento dos lugares de bibliotecário dos Institutos Superiores de Educação Física será feito nos termos da legislação aplicável às demais escolas de ensino superior.\n\n2. Poderão, contudo, ser providos naqueles lugares licenciados em Educação Física quando se verifique a ausência de candidatos com o respectivo título.\n\nArt. 18.º À comissão instaladora dos Institutos Superiores de Educação Física, criada por despacho do Ministro da Educação e Cultura de 2 de Outubro de 1974, publicado no Diário do Governo, 2.ª série, de 8 dos mesmos mês e ano, competirá preparar as eleições para os órgãos de gestão dos novos Institutos, cessando as suas funções logo que aqueles tomem posse.\n\nArt. 19.º Os encargos resultantes da aplicação do presente diploma serão satisfeitos, no ano de 1975, pelas disponibilidades das verbas inscritas no orçamento do Ministério da Educação e Investigação Científica para o Instituto Nacional de Educação Física e Escolas de Instrutores de Educação Física de Lisboa e do Porto.\n\nArt. 20.º Em tudo o que não contrariar o disposto neste diploma, os Institutos Superiores de Educação Física reger-se-ão pela legislação geral vigente para o ensino superior.\n\nArt. 21.º - 1. Os diplomados com o curso de instrutores de Educação Física são equiparados a bacharéis em Educação Física para efeitos de provimento em lugares da carreira docente dos ensinos básico, secundário e médio e para efeitos de prosseguimento de estudos, desde que tenham três anos de bom e efectivo serviço docente naquela disciplina em qualquer estabelecimento de ensino oficial ou hajam prestado igual tempo de bom e efectivo serviço em organismos oficiais, em funções de natureza pedagógica, científica ou técnica relacionadas com a educação física.\n\n2. A atribuição do grau de bacharel, nos termos do número anterior, produz efeitos a partir da data em que se perfaçam os requisitos nele apontados, ou a partir da entrada em vigor do presente diploma, caso estes requisitos já estivessem cumpridos em momento anterior, e depende de despacho do director-geral do Ensino Superior, sobre requerimento dos interessados, devidamente instruído.\n\n3. Considera-se como ano de serviço, para os efeitos do n.º 1 deste artigo, cada conjunto, seguido ou interpolado, de 365 dias de serviço, ou de 314 dias para os diplomados com o curso de instrutores de Educação Física, aos quais, tendo prestado serviço como docentes eventuais ou provisórios, não haja sido contado o tempo correspondente às férias de Verão.\n\n4. Os diplomados com o curso de instrutores de Educação Física que não estejam nas condições dos números anteriores poderão matricular-se no 1.º ano de bacharelato dos Institutos Superiores de Educação Física.\n\n5. Os indivíduos habilitados com o 1.º ano do curso de instrutores de Educação Física poderão matricular-se, nos Institutos Superiores de Educação Física, num ano preliminar, cuja organização e plano de estudos serão fixados por despacho do Ministro da Educação e Investigação Científica, mediante proposta dos dois Institutos.\n\nArt. 22.º - 1. A habilitação profissional para o efeito de provimento nos quadros de pessoal docente dos ensinos básico, secundário ou médio dos diplomados com o curso de instrutores de Educação Física que estejam ou venham a estar nas condições definidas nos n.os 1 a 3 do artigo anterior considera-se completada mediante a realização, com aproveitamento, de estágio pedagógico com a duração de um ano escolar.\n\n2. O estágio incluirá cursos de informação e aperfeiçoamento e realizar-se-á a partir do próximo ano escolar.\n\n3. A estruturação do estágio e o modo de determinação da classificação profissional dos que nele obtenham aprovação serão definidos em portaria do Ministro da Educação e Investigação Científica.\n\nArt. 23.º - 1. Os estagiários gozarão do estatuto de professores de serviço eventual ou provisório.\n\n2. A remuneração atribuída aos estagiários corresponderá ao exercício do ensino com horário completo e referir-se-á, bem como a contagem de tempo de serviço, a períodos de doze meses.\n\nArt. 24.º Os diplomados com o curso de instrutores de Educação Física passam a ter a designação profisisonal de professores.\n\nArt. 25.º É abolida a subordinação dos diplomados com o curso de instrutores de Educação Física à orientação dos professores com o curso do Instituto Nacional de Educação Física, prevista no artigo 2.º do [Decreto-Lei n.º 49233](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49233-1969-214066), de 11 de Setembro de 1969.\n\nArt. 26.º - 1. Os actuais alunos do Instituto Nacional de Educação Física que concluírem o 3.º ano do respectivo plano de estudos são considerados equiparados a bacharéis para o efeito de se poderem inscrever no 1.º ano de qualquer das licenciaturas dos novos Institutos Superiores de Educação Física.\n\n2. Aos que assim o requererem será facultado frequentar, no Instituto Superior de Educação Física de Lisboa, o estágio pedagógico e outras actividades escolares equivalentes ao 4.º ano de escolaridade do Instituto Nacional de Educação Física, ficando os que tiverem aproveitamento em situação idêntica à dos diplomados por este último estabelecimento.\n\n3. Os Institutos Superiores de Educação Física deverão assegurar a possibilidade de conclusão dos cursos, dentro do prazo máximo de três anos, aos alunos presentemente matriculados no Instituto Nacional de Educação Física, e, no prazo máximo de dois anos, aos alunos presentemente matriculados nas Escolas de Instrutores de Educação Física de Lisboa e do Porto, concedendo-lhes o respectivo diploma.\n\n4. Os alunos do Instituto Nacional de Educação Física que assim o requeiram inserir-se-ão nos planos de estudo dos Institutos Superiores de Educação Física, de acordo com um regime de transição a definir pelos órgãos competentes dos novos Institutos.\n\nArt. 27.º - 1. Consideram-se equiparados a licenciados em Educação Física os diplomados pelo Instituto Nacional de Educação Física que tenham três anos de bom e efectivo serviço docente nesta disciplina em qualquer estabelecimento de ensino oficial ou hajam prestado igual tempo de bom e efectivo serviço em organismos oficiais, em funções de natureza pedagógica, científica ou técnica relacionadas com a Educação Física.\n\n2. À equiparação prevista no número anterior aplicar-se-á, com as devidas adaptações, o disposto nos n.os 2 e 3 do artigo 21.º\n\nArt. 28.º Quaisquer dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica, e também do Ministro das Finanças, se envolverem aumento de encargos.\n\nArt. 29.º O presente decreto-lei entra em vigor na data da publicação.\n\nVisto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Vítor Manuel Rodrigues Alves.\n\nPromulgado em 20 de Novembro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "8e63dcd9a90b1da8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Dezembro\n\nA preparação de especialistas em educação física vem-se processando no Instituto Nacional de Educação Física e nas Escolas de Instrutores de Educação Física de Lisboa e do Porto.\n\nO primeiro, embora de nível superior, não se encontra ligado a nenhuma Universidade. As segundas são escolas que foram criadas para preparar docentes da disciplina de Educação Física, embora nunca se tivesse definido com justiça o estatuto profissional dos respectivos diplomados.\n\nAcontece, porém, que, por estranha aberração, os diplomados por estas escolas oficiais estavam impedidos de fazer o estágio pedagógico e de concorrer para lugares do quadro das escolas preparatórias ou dos estabelecimentos de ensino secundário. Por outro lado, depois da criação do INEF, em 1940, nada se fez digno de registo no capítulo do ensino, a nível superior da educação física. O INEF permaneceu à margem das Universidades e aos seus diplomados não foi reconhecido o título de licenciados.\n\nEstes são, por certo, índices seguros do abandono a que foi votada pelo fascismo a educação física do povo português, como factor de desenvolvimento e elemento de cultura.\n\nEste é, pois, um dos campos onde, praticamente, tudo está por fazer. Aceitando que o bacharelato assegura um nível de preparação suficiente para a docência da Educação Física, atribui-se aos dois Institutos Superiores de Educação Física agora criados a missão de conceder, além do grau de licenciado e até do grau de doutor, o grau de bacharel. Assim se justifica a extinção das escolas de instrutores de educação física.\n\nConsidera-se que outras medidas constantes deste diploma virão resolver situações passíveis de crítica (com realce para as providências adoptadas relativamente aos actuais instrutores de educação física) e espera-se dos dois novos Institutos a dedicação ao trabalho e a seriedade científica necessárias para poderem dar boa conta das enormes responsabilidades que lhes ficam a caber.\n\nO presente decreto-lei tem em vista, pois, um duplo objectivo.\n\nPor um lado, elimina-se uma situação que se apresentava como injustamente discriminatória para a educação física em geral, bem como para os respectivos profissionais e estabelecimentos de ensino - adoptando-se, correlativamente, algumas providências de carácter excepcional, mas que outra coisa não representam do que uma parcial compensação do tratamento desfavorável que ao regime deposto mereceu este sector.\n\nPor outro, e sobretudo, intenta-se lançar as bases da normal integração da Educação Física no ensino superior universitário, assim lhe reconhecendo, enfim, o seu lugar próprio no sistema educativo.\n\nNestes termos:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "44ccc36d079c0fc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. São criados o Instituto Superior de Educação Física de Lisboa, integrado na Universidade Técnica de Lisboa, e o Instituto Superior de Educação Física do Porto, integrado na Universidade do Porto.\n\n2. São extintos o Instituto Nacional de Educação Física, a Escola de Instrutores de Educação Física de Lisboa e a Escola de Instrutores de Educação Física do Porto."
+  },
+  "21f479aa284e47f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Institutos Superiores de Educação Física são escolas de ensino superior, dotadas de autonomia administrativa, pedagógica e científica."
+  },
+  "7299f21fbc596604": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As intalações e equipamento do Instituto Nacional de Educação Física e da Escola de Instrutores de Educação Física de Lisboa, bem como os direitos e obrigações de sua titularidade, transferem-se, com dispensa de qualquer formalidade, para a Universidade Técnica de Lisboa, ficando as instalações e equipamento afectos ao Instituto Superior de Educação Física de Lisboa.\n\n2. As instalações, equipamento, direitos e obrigações da Escola de Instrutores de Educação Física do Porto transitam, com dispensa de qualquer formalidade, para a Universidade do Porto, ficando as instalações e equipamento afectos ao Instituto Superior de Educação Física do Porto.\n\n3. Os regimes de titularidade e posse das instalações, equipamento, direitos e obrigações mencionados nos números anteriores serão os aplicáveis às respectivas Universidades e Escolas Superiores nestas integradas."
+  },
+  "fe71098cc4a7d6cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSão atribuições dos Institutos Superiores de Educação Física:\n\na) Ministrar cursos superiores de Educação Física;\n\nb) Organizar cursos de reciclagem e de especialização, principalmente destinados aos docentes de Educação Física;\n\nc) Conceder apoio a acções de formação no campo da educação física e dos desportos;\n\nd) Promover acções de dinamização e extensão cultural no âmbito da educação física;\n\ne) Estimular e dar apoio a iniciativas de organizações locais ou de trabalhadores que visem uma movimentação desportiva de massas;\n\nf) Colaborar na organização e desenvolvimento do desporto universitário e escolar;\n\ng) Desenvolver a investigação e o estudo de matérias relativas à educação física e aos desportos;\n\nh) Promover a edição de publicações de carácter científico, pedagógico e técnico no âmbito da educação física."
+  },
+  "cd9c290f78eacb99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Serão fixadas por portaria do Ministro da Educação e Investigação Científica as habilitações académicas ou outras de nível equiparado ao destas que dêem acesso aos Institutos Superiores de Educação Física.\n\n2. O Ministro da Educação e Investigação Científica poderá, mediante portaria, definir condições mínimas, a verificar através de exame médico e testes apropriados, para a admissão aos cursos dos Institutos Superiores de Educação Física."
+  },
+  "d1b5322bbaabf1cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs cursos professados nos Institutos Superiores de Educação Física conferem os graus de bacharel e de licenciado."
+  },
+  "9aa2c5705fab81ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO grau de bacharel obtém-se pela aprovação em todas as disciplinas dos três primeiros anos ou dos seis primeiros semestres do respectivo currículo, segundo o plano de estudos elaborado por cada Instituto e homologado pelo Secretário de Estado do Ensino Superior e Investigação Científica."
+  },
+  "72e32d66d1ca5d49": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO Ministro da Educação e Investigação Científica definirá, em portaria, sobre proposta de cada um dos Institutos, o elenco de especialidades em que se deverá organizar a respectiva licenciatura, cujos planos de estudos serão elaborados e homologados nos termos do artigo anterior."
+  },
+  "304bf21b613c87be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs Universidades em que os Institutos Superiores de Educação Física estejam integrados poderão conferir o grau de doutor em matérias relacionadas com o ensino nestes ministrado."
+  },
+  "495dc27b5e389aee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs Institutos Superiores de Educação Física poderão organizar-se em departamentos."
+  },
+  "91d9dd28216f2026": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Constituem receitas próprias dos Institutos Superiores de Educação Física:\n\na) As dotações consignadas no orçamento do Ministério da Educação e Investigação Científica;\n\nb) As retribuições resultantes de serviços prestados a entidades públicas ou particulares;\n\nc) Os rendimentos de bens próprios;\n\nd) O produto da venda de publicações;\n\ne) Os subsídios e comparticipações de entidades públicas e os donativos, heranças ou legados de particulares cuja aceitação seja autorizada pelo Ministro da Educação e Investigação Científica;\n\nf) Quaisquer outras receitas que lhes sejam atribuídas por lei, contrato ou outro título.\n\n2. Competirá aos Institutos administrar as receitas referidas no número anterior, de acordo com as normas constantes da legislação aplicável."
+  },
+  "cd38134bf020a84e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs quadros de pessoal de cada um dos Institutos Superiores de Educação Física serão aprovados por decreto referendado pelos Ministros da Administração Interna, das Finanças e da Educação e Investigação Científica."
+  },
+  "dd27727ee27d9f3d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nDurante um período de três anos aplicar-se-á aos Institutos Superiores de Educação Física o disposto nos artigos 24.º e 25.º do [Decreto-Lei n.º 402/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/402-1973-419197), de 11 de Agosto."
+  },
+  "a2b33f25f768f1d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs actuais professores efectivos da Escola de Instrutores de Educação Física de Lisboa e do Instituto Nacional de Educação Física transitam para o Instituto Superior de Educação Física de Lisboa e os da Escola de Instrutores de Educação Física do Porto transitam para o Instituto Superior de Educação Física do Porto, conservando a sua actual categoria e vencimentos e extinguindo-se os respectivos lugares quando vagarem."
+  },
+  "a585b6d06a473c97": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. O pessoal técnico, administrativo e auxiliar dos quadros do Instituto Nacional de Educação Física e das Escolas de Instrutores de Educação Física de Lisboa e do Porto manterá a sua actual situação até aprovação dos quadros de pessoal dos Institutos Superiores de Educação Física, sendo então provido em lugares dos novos quadros, idênticos ou de categoria equivalente aos actuais, ou imediatamente superiores àqueles que actualmente ocupam, nos termos definidos no n.º 1 do artigo seguinte, mediante lista nominativa aprovada pelo Ministro da Educação e Investigação Científica e publicada no Diário do Governo, independentemente de outras formalidades, salvo o visto do Tribunal de Contas.\n\n2. Os lugares dos quadros do Instituto Nacional de Educação Física e das Escolas de Instrutores de Educação Física de Lisboa e do Porto mencionados no número anterior extinguir-se-ão quando vagarem."
+  },
+  "485f011f2233abef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. O Ministro da Educação e Investigação Científica poderá preencher, em primeiro provimento, independentemente de concurso, lugares de pessoal técnico, administrativo e auxiliar dos quadros criados, nos termos do presente diploma, com funcionários de categoria imediatamente inferior do Instituto Nacional de Educação Física e das Escolas de Instrutores de Educação Física de Lisboa e do Porto, desde que possuam boa informação de serviço, as habilitações exigidas para aquele provimento e um mínimo de três anos de exercício na categoria.\n\n2. Poderá ainda o Ministro da Educação e Investigação Científica prover, independentemente de concurso e de limite de idade, em lugares de pessoal técnico, administrativo e auxiliar dos quadros criados nos termos do presente diploma indivíduos colocados além dos quadros, seja qual for o regime em que se encontrem, que estejam a prestar serviço idêntico ou equivalente no Instituto Nacional de Educação Física ou nas Escolas de Instrutores de Educação Física de Lisboa ou do Porto, desde que possuam boa informação, as habilitações exigidas para o provimento e, pelo menos, um ano de serviço.\n\n3. Todos os actuais serventes do Instituto Nacional de Educação Física e das Escolas de Instrutores de Educação Física de Lisboa e do Porto passam a contínuos do Instituto Superior de Educação Física da respectiva cidade."
+  },
+  "aef89ee5b4391dbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. O provimento dos lugares de bibliotecário dos Institutos Superiores de Educação Física será feito nos termos da legislação aplicável às demais escolas de ensino superior.\n\n2. Poderão, contudo, ser providos naqueles lugares licenciados em Educação Física quando se verifique a ausência de candidatos com o respectivo título."
+  },
+  "03fac20646d98e0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nÀ comissão instaladora dos Institutos Superiores de Educação Física, criada por despacho do Ministro da Educação e Cultura de 2 de Outubro de 1974, publicado no Diário do Governo, 2.ª série, de 8 dos mesmos mês e ano, competirá preparar as eleições para os órgãos de gestão dos novos Institutos, cessando as suas funções logo que aqueles tomem posse."
+  },
+  "3653ba6aa9f0959a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs encargos resultantes da aplicação do presente diploma serão satisfeitos, no ano de 1975, pelas disponibilidades das verbas inscritas no orçamento do Ministério da Educação e Investigação Científica para o Instituto Nacional de Educação Física e Escolas de Instrutores de Educação Física de Lisboa e do Porto."
+  },
+  "84263155e7ee4ce3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nEm tudo o que não contrariar o disposto neste diploma, os Institutos Superiores de Educação Física reger-se-ão pela legislação geral vigente para o ensino superior."
+  },
+  "e0124c94184816d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": "1985-10-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 411/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1985-178334), publicado em 1985-10-16."
+   ],
+   "markdown": "###### Artigo 21.º\n\n1. Os diplomados com o curso de instrutores de Educação Física são equiparados a bacharéis em Educação Física para efeitos de provimento em lugares da carreira docente dos ensinos básico, secundário e médio e para efeitos de prosseguimento de estudos, desde que tenham três anos de bom e efectivo serviço docente naquela disciplina em qualquer estabelecimento de ensino oficial ou hajam prestado igual tempo de bom e efectivo serviço em organismos oficiais, em funções de natureza pedagógica, científica ou técnica relacionadas com a educação física.\n\n2. A atribuição do grau de bacharel, nos termos do número anterior, produz efeitos a partir da data em que se perfaçam os requisitos nele apontados, ou a partir da entrada em vigor do presente diploma, caso estes requisitos já estivessem cumpridos em momento anterior, e depende de despacho do director-geral do Ensino Superior, sobre requerimento dos interessados, devidamente instruído.\n\n3. Considera-se como ano de serviço, para os efeitos do n.º 1 deste artigo, cada conjunto, seguido ou interpolado, de 365 dias de serviço, ou de 314 dias para os diplomados com o curso de instrutores de Educação Física, aos quais, tendo prestado serviço como docentes eventuais ou provisórios, não haja sido contado o tempo correspondente às férias de Verão.\n\n4. Os diplomados com o curso de instrutores de Educação Física que não estejam nas condições dos números anteriores poderão matricular-se no 1.º ano de bacharelato dos Institutos Superiores de Educação Física.\n\n5. Os indivíduos habilitados com o 1.º ano do curso de instrutores de Educação Física poderão matricular-se, nos Institutos Superiores de Educação Física, num ano preliminar, cuja organização e plano de estudos serão fixados por despacho do Ministro da Educação e Investigação Científica, mediante proposta dos dois Institutos.\n\n6 - Os equiparados a bacharéis em Educação Física que pretendam obter o grau de licenciado em Educação Física ficarão sujeitos à frequência e aprovação num plano e regime de estudos a fixar para cada instituto pelo respectivo conselho científico.\n\n7 - Na fixação do plano de estudos previsto no número anterior, que terá em vista assegurar uma formação idêntica à que, em cada momento, corresponda à do plano de estudos de 5 anos para obtenção do grau de licenciado em Educação Física, serão tidos em conta o plano de estudos do curso de instrutores que haja sido efectivamente cursado pelo interessado e, sempre que relevante e documentalmente demonstrável de forma inequívoca, a sua experiência profissional.\n\n> Alterado pelo/a [Decreto-Lei n.º 411/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1985-178334), publicado em 1985-10-16."
+  },
+  "a79fbbc851229866": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. A habilitação profissional para o efeito de provimento nos quadros de pessoal docente dos ensinos básico, secundário ou médio dos diplomados com o curso de instrutores de Educação Física que estejam ou venham a estar nas condições definidas nos n.os 1 a 3 do artigo anterior considera-se completada mediante a realização, com aproveitamento, de estágio pedagógico com a duração de um ano escolar.\n\n2. O estágio incluirá cursos de informação e aperfeiçoamento e realizar-se-á a partir do próximo ano escolar.\n\n3. A estruturação do estágio e o modo de determinação da classificação profissional dos que nele obtenham aprovação serão definidos em portaria do Ministro da Educação e Investigação Científica."
+  },
+  "2d925846e6cb53dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Os estagiários gozarão do estatuto de professores de serviço eventual ou provisório.\n\n2. A remuneração atribuída aos estagiários corresponderá ao exercício do ensino com horário completo e referir-se-á, bem como a contagem de tempo de serviço, a períodos de doze meses."
+  },
+  "dd0bbb884e77eb81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs diplomados com o curso de instrutores de Educação Física passam a ter a designação profisisonal de professores."
+  },
+  "7106369d4d762c02": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nÉ abolida a subordinação dos diplomados com o curso de instrutores de Educação Física à orientação dos professores com o curso do Instituto Nacional de Educação Física, prevista no artigo 2.º do [Decreto-Lei n.º 49233](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49233-1969-214066), de 11 de Setembro de 1969."
+  },
+  "1a46856628a94347": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. Os actuais alunos do Instituto Nacional de Educação Física que concluírem o 3.º ano do respectivo plano de estudos são considerados equiparados a bacharéis para o efeito de se poderem inscrever no 1.º ano de qualquer das licenciaturas dos novos Institutos Superiores de Educação Física.\n\n2. Aos que assim o requererem será facultado frequentar, no Instituto Superior de Educação Física de Lisboa, o estágio pedagógico e outras actividades escolares equivalentes ao 4.º ano de escolaridade do Instituto Nacional de Educação Física, ficando os que tiverem aproveitamento em situação idêntica à dos diplomados por este último estabelecimento.\n\n3. Os Institutos Superiores de Educação Física deverão assegurar a possibilidade de conclusão dos cursos, dentro do prazo máximo de três anos, aos alunos presentemente matriculados no Instituto Nacional de Educação Física, e, no prazo máximo de dois anos, aos alunos presentemente matriculados nas Escolas de Instrutores de Educação Física de Lisboa e do Porto, concedendo-lhes o respectivo diploma.\n\n4. Os alunos do Instituto Nacional de Educação Física que assim o requeiram inserir-se-ão nos planos de estudo dos Institutos Superiores de Educação Física, de acordo com um regime de transição a definir pelos órgãos competentes dos novos Institutos."
+  },
+  "9c3436b1473a63ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. Consideram-se equiparados a licenciados em Educação Física os diplomados pelo Instituto Nacional de Educação Física que tenham três anos de bom e efectivo serviço docente nesta disciplina em qualquer estabelecimento de ensino oficial ou hajam prestado igual tempo de bom e efectivo serviço em organismos oficiais, em funções de natureza pedagógica, científica ou técnica relacionadas com a Educação Física.\n\n2. À equiparação prevista no número anterior aplicar-se-á, com as devidas adaptações, o disposto nos n.os 2 e 3 do artigo 21.º"
+  },
+  "5b75f32b1726b629": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nQuaisquer dúvidas resultantes da aplicação deste diploma serão resolvidas por despacho do Ministro da Educação e Investigação Científica, e também do Ministro das Finanças, se envolverem aumento de encargos."
+  },
+  "17025692da3779aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO presente decreto-lei entra em vigor na data da publicação.\n\nVisto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Vítor Manuel Rodrigues Alves.\n\nPromulgado em 20 de Novembro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  }
+ }
+}

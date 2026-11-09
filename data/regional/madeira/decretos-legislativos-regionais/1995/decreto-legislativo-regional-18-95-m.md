@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-12-30'
+version_history:
+  file: decreto-legislativo-regional-18-95-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-08-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-12-30'
+    amending: pt:dre:187521:por
+    amending_title: Decreto Legislativo Regional n.º 30/98/M
+    changes:
+    - Altera Artigo 16.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/18/1995/08/26/m/dre/pt/html
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    30/98/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1995/decreto-legislativo-regional-18-95-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -263,7 +278,9 @@ Os municípios da Região Autónoma da Madeira podem promover programas de const
 
 ###### Artigo 16.º — Vigência
 
-O regime previsto no presente diploma vigorará até ao fim do ano de 1998.
+O regime previsto no presente diploma vigorará enquanto perdurarem as condições económico-sociais que motivaram a sua elaboração.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 30/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-1998-187521), publicado em 1998-12-29.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional, em 6 de Julho de 1995.
 

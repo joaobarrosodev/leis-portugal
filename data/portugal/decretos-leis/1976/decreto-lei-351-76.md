@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-07-08'
+version_history:
+  file: decreto-lei-351-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-05-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-07-08'
+    amending: pt:dre:431448:por
+    amending_title: Decreto-Lei n.º 532/76
+    changes:
+    - Adita Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:52:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 532/76. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-351-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,11 +157,21 @@ Justo é, portanto, que também as disposições do [Decreto-Lei n.º 43/76](htt
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º As disposições do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, são extensíveis aos militares da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública, e bem assim aos comissários e agentes desta Polícia.
+###### Artigo 1.º
 
-Art. 2.º - 1. As juntas de saúde e juntas extraordinárias de recurso referidas no artigo 6.º do [Decreto-Lei n.º 46/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1976-506021) são substituídas pelas juntas de saúde ou juntas de recurso da corporação a que pertença o interessado.
+As disposições do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, são extensíveis aos militares da Guarda Nacional Republicana, da Guarda Fiscal e da Polícia de Segurança Pública, e bem assim aos comissários e agentes desta Polícia.
+
+###### Artigo 2.º
+
+1. As juntas de saúde e juntas extraordinárias de recurso referidas no artigo 6.º do [Decreto-Lei n.º 46/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1976-506021) são substituídas pelas juntas de saúde ou juntas de recurso da corporação a que pertença o interessado.
 
 2. O despacho referido no n.º 4 do artigo 6.º será proferido pelo comandante-geral da corporação a que o interessado esteja vinculado.
+
+###### Artigo 3.º
+
+O presente diploma produz efeitos a partir de 1 de Setembro de 1975, data a partir da qual terão eficácia os direitos que reconhece aos deficientes.
+
+> Aditado pelo/a [Decreto-Lei n.º 532/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/532-1976-431448), publicado em 1976-07-08.
 
 José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa.
 

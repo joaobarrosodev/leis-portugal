@@ -1,0 +1,411 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:486774:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1966-03-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6315da67578ed7b2",
+    "fc8cdcacb82585ba",
+    "1c4b0ef92c424eae",
+    "c0e5827947a07e11",
+    "c344b56ba7dd4fe5"
+   ]
+  },
+  {
+   "date": "1966-11-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:477629:por",
+     "title": "Decreto-Lei n.º 47320",
+     "published": "1966-11-21",
+     "dre_path": "/dr/detalhe/decreto-lei/47320-1966-477629"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "6315da67578ed7b2",
+    "c7c6f591cd322de5",
+    "b1cf79c05e16095c",
+    "8f6f17daf92bf2d3",
+    "f90e2c41f09d907a",
+    "40f3f1c881da6752",
+    "52706670a3a99814",
+    "4e2c7736307c18e3",
+    "99f108413919bf6c",
+    "db9f377d1cd93379",
+    "f20b1b4fbeb3f9a1",
+    "4c6d7e7eb450c4ef",
+    "06559a40c42e98e9",
+    "1968c74c85b9b2f0",
+    "8d25284972941985",
+    "3d6aba27f16d5796",
+    "8812d06d5f906613",
+    "5ccab4241a00ebb2",
+    "25eb66f7a894975f",
+    "eee69753dae5ef83",
+    "6990bec2fa39142a",
+    "14303edded00e23d",
+    "07b6ff84aaed6e0b",
+    "11b10adc3d8a5b76",
+    "d59b9f66c22d2ee7",
+    "98fe71ffe23bc163",
+    "d003a29f18821794",
+    "a1c9f15c8e67ed52",
+    "5205733ba5be803a",
+    "d011959b1ef60865",
+    "b88c9bb92df8f24c",
+    "be7da990a187010e",
+    "f2f4d31a51caebf5",
+    "d617a7c229359779",
+    "24481bca140fdc22",
+    "337534aa466ab464",
+    "f2dc8b9168c4edcb"
+   ]
+  }
+ ],
+ "fragments": {
+  "6315da67578ed7b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A base IX da [Lei n.º 2123](https://diariodarepublica.pt/dr/detalhe/lei/2123-1964-535034), de 14 de Dezembro de 1954, que autoriza a organização e execução do Plano Intercalar de Fomento para 1965-1967, comete ao Governo, entre o mais, promover:\n\na) O reajustamento da orgânica dos serviços de planeamento, de modo que a execução do Plano se realize de acordo com as condições a que essa execução fica subordinada;\n\nb) A articulação dos órgãos regionais de fomento e assistência técnica dos diversos Ministérios entre si e com o serviço central de planeamento e integração económica, tendo em vista a regionalização do desenvolvimento económico nacional.\n\nNa verdade, com o Plano Intercalar a programação económica em Portugal passa a ser concebida como um instrumento global orientador do desenvolvimento do conjunto da economia portuguesa. Daí que o acompanhamento da sua execução exija a análise constante e pormenorizada da evolução das grandes variáveis da economia, bem como do comportamento dos diversos sectores de actividade, em ordem a determinarem-se a tempo as causas, tanto estruturais como conjunturais, que, porventura, dificultem ou impeçam a prossecução dos objectivos quantitativos e qualitativos atribuídos ao Plano e que o Governo propõe à inteligência e à vontade da Nação.\n\nTambém o cumprimento das condições gerais a que fica sujeita a realização dos grandes objectivos assinalados ao Plano impõe a verificação atenta dos reflexos, directos ou indirectos, dos programas e dos projectos de investimento nele previstos que possam, eventualmente, afectar aquelas condições.\n\nPor outro lado, a necessidade de procurar atenuar as disparidades regionais de desenvolvimento aconselha a dar os primeiros passos no sentido do estabelecimento de uma orgânica administrativa adequada à realização dos indispensáveis estudos de base, à conveniente articulação entre o serviço central de planeamento, os órgãos dos diversos Ministérios e os interesses locais e à definição das linhas orientadoras dos convenientes programas de fomento regional.\n\nMuito importante se torna também garantir a efectiva coordenação do processo de integração económica nacional com o planeamento do desenvolvimento da economia da totalidade do espaço português, sem o que o objectivo da integração não poderá ser atingido, correndo-se o risco de se criarem estrangulamentos ao desenvolvimento equilibrado do conjunto da economia portuguesa.\n\nMas não apenas estas razões determinaram a necessidade do reajustamento dos serviços de planeamento e integração.\n\nO crescente número de problemas objecto de apreciação e decisão pelo Conselho de Ministros para os Assuntos Económicos, a sua complexidade e especialização, resultantes do próprio progresso económico do País. impõem a revisão dos quadros do Secretariado Técnico da Presidência do Conselho, de forma a garantir-se o conveniente apoio do Conselho como órgão superior de definição e coordenação da política económica nacional.\n\nAlém disso, a preocupação de aperfeiçoar constantemente o método de preparação dos nossos planos de fomento, em ordem a torná-los cada vez mais eficazes, aconselha a introduzir alguns ajustamentos na orgânica da Comissão Interministerial de Planeamento e Integração Económica e respectivos grupos de trabalho, nos quais se deve procurar dar ampla participação às actividades privadas como melhor forma de criar, na consciência nacional, a necessária receptividade e compreensão pelos projectos de investimento que o Plano propõe e pelos programas de acção que preconiza e em que se traduz.\n\nFinalmente, a criação de um gabinete de estudos no Secretariado Técnico permitirá melhorar os meios de apoio técnico aos grupos de trabalho que não possam dispor de gabinetes de planeamento nos sectores da actividade económica de que se ocupam, bem como aos serviços de planeamento e integração do ultramar português.\n\nPara a reorganização, a que agora se procede, dos serviços de planeamento e integração económica criados e regulamentados, respectivamente, pelo [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962, e pelo [Decreto n.º 44944](https://diariodarepublica.pt/dr/detalhe/decreto/44944-1963-195407), de 29 de Março de 1963, partiu-se, fundamentalmente, da reflexão crítica sobre a experiência adquirida, tendo-se também aproveitado alguns ensinamentos oferecidos pelos progressos recentes nos métodos do planeamento económico noutros países do Ocidente europeu.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "fc8cdcacb82585ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Do Secretariado Técnico da Presidência do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Do Secretariado Técnico da Presidência do Conselho\n\nArtigo 1.º O Secretariado Técnico da Presidência do Conselho é o serviço nacional destinado a preparar, para apreciação do Governo, os projectos dos planos de desenvolvimento económico e social, à escala do espaço português ou de âmbito regional, e dos esquemas de realização da integração económica daquele espaço, e a prestar ao Conselho de Ministros para os Assuntos Económicos, pelos estudos próprios que realize e pelo exame e coordenação das informações dos serviços dos Ministérios competentes, o conveniente apoio técnico para a fundamentação das decisões do Conselho e seu exacto cumprimento.\n\n§ único. Os Gabinetes dos Ministros e os serviços dos diversos Ministérios devem manter com o Secretariado Técnico os contactos convenientes à pronta preparação e execução das deliberações do Conselho de Ministros para os Assuntos Económicos e ao regular desempenho das restantes atribuições confiadas ao Secretariado pelo presente diploma.\n\nArt. 2.º O Secretariado Técnico constitui uma direcção-geral, a cargo de um director-geral, e compreende os seguintes serviços:\n\na) Gabinete de Estudos;\n\nb) Direcção de Serviços de Planeamento;\n\nc) Direcção de Serviços de Integração Económica Nacional;\n\nd) Secretaria.\n\nArt. 3.º Para o desempenho das atribuições conferidas ao Secretariado Técnico pelo artigo 1.º do presente diploma, compete ao director-geral:\n\n1.º Dirigir e coordenar superiormente os serviços do Secretariado Técnico e presidir à Comissão Interministerial de Planeamento e Integração Económica;\n\n2.º Assegurar o secretariado e expediente do Conselho de Ministros para os Assuntos Económicos e da Comissão Consultiva de Política Económica;\n\n3.º Estabelecer a ligação entre o Secretariado e os serviços competentes dos diversos Ministérios, para os efeitos do disposto no § único do artigo 1.º;\n\n4.º Orientar superiormente os serviços de planeamento e integração económica que funcionem no Ministério do Ultramar e, por intermédio destes serviços, coordenar a actividade das comissões técnicas de planeamento e integração económica das províncias ultramarinas;\n\n5.º Desempenhar as mais funções que lhe sejam cometidas por lei ou despacho superior;\n\n§ único. Para os efeitos do n.º 4.º deste artigo, o director-geral do Secretariado Técnico actua como director-geral do Ministério do Ultramar e despacha com o respectivo Ministro.\n\nArt. 4.º Incumbe ao Gabinete de Estudos:\n\n1.º Promover a realização, segundo a orientação superiormente definida pelo Conselho de Ministros para os Assuntos Económicos, dos estudos respeitantes à determinação dos objectivos e instrumentos da política de desenvolvimento económico-social do País, para o que deverá:\n\na) Realizar os trabalhos de base que interessem ao planeamento do desenvolvimento económico e social em todo o espaço português, ou que visem ao aperfeiçoamento das técnicas de programação económica;\n\nb) Preparar os projectos dos diplomas legais respeitantes à execução dos planos de fomento que não sejam da competência específica de determinado Ministério;\n\nc) Efectuar os estudos que lhe forem ordenados pelo Presidente do Conselho ou pelo director-geral.\n\n2.º Promover os estudos necessários à realização do processo de integração económica nacional e ao conhecimento, tão completo quanto possível, do grau de interdependência recíproca das diversas parcelas do espaço português;\n\n3.º Prestar apoio técnico aos serviços de planeamento e integração económica existentes no Ministério do Ultramar e, por intermédio destes serviços, aos órgãos provinciais correspondentes;\n\n4.º Preparar as informações de carácter geral solicitadas ao Secretariado Técnico por entidades nacionais e estrangeiras;\n\n5.º Coordenar, em colaboração com os órgãos e serviços competentes dos respectivos Ministérios, os programas de assistência técnica externa prestada a projectos que interessem ao desenvolvimento económico-social do País.\n\n6.º Organizar e orientar a publicação do Boletim do Secretariado Técnico.\n\nArt. 5.º À Direcção de Serviços de Planeamento, em colaboração com os serviços dos Ministérios competentes, incumbe, de modo geral, preparar, para apreciação do Conselho de Ministros para os Assuntos Económicos, os projectos dos planos de fomento nacionais, examinando, em função dos objectivos globais e com vista à sua coordenação, os programas de desenvolvimento de cada um dos territórios integrantes da Nação Portuguesa a incluir naqueles planos, bem como acompanhar a execução dos planos aprovados.\n\nArt. 6.º A Direcção de Serviços de Planeamento compreende três divisões:\n\na) Planeamento global;\n\nb) Planeamento sectorial;\n\nc) Planeamento regional.\n\nArt. 7.º Compete à Divisão de planeamento global:\n\n1.º Elaborar as projecções do desenvolvimento económico nacional em termos macroeconómicos;\n\n2.º Examinar a forma como se processa a evolução programada para os diversos sectores da actividade económica nacional e para as várias parcelas do espaço português;\n\n3.º Propor, para deliberação do Conselho de Ministros para os Assuntos Económicos, as opções básicas sobre a estratégia geral do desenvolvimento económico nacional;\n\n4.º Recolher e coordenar os elementos destinados à preparação dos programas anuais de execução dos planos de fomento e dos planos regionais nele incluídos, para aprovação do Conselho de Ministros para os Assuntos Económicos;\n\n5.º Acompanhar a execução dos planos de fomento nacionais e dos planos regionais de desenvolvimento que estiverem em curso, e elaborar, até 31 de Dezembro de cada ano, um relatório sobre a respectiva execução;\n\n6.º Informar das dificuldades que eventualmente surjam no processo do desenvolvimento económico nacional e propor as medidas de correcção julgadas convenientes;\n\n7.º Colaborar com os serviços e organismos competentes no aperfeiçoamento dos métodos e desenvolvimento dos quadros da contabilidade nacional;\n\n8.º Assegurar a ligação do Secretariado Técnico com o Instituto Nacional de Estatística, os serviços competentes do Ministério das Finanças e o Banco de Portugal, bem como com os grupos de trabalho da Comissão Interministerial de Planeamento e Integração Económica que tenham âmbito horizontal ou se ocupem das condições do equilíbrio económico geral;\n\n9.º Submeter ao Conselho de Ministros para os Assuntos Económicos os processos de emissão de títulos e de concessão de isenções fiscais que, nos termos da lei, devam ser presentes à apreciação daquele Conselho.\n\nArt. 8.º Incumbe à Divisão de planeamento sectorial:\n\n1.º Acompanhar e prestar apoio técnico aos trabalhos de planeamento a cargo dos grupos de trabalho de âmbito vertical da Comissão Interministerial de Planeamento e Integração Económica, em colaboração com os serviços competentes dos diversos Ministérios e com os órgãos representativos das actividades privadas;\n\n2.º Transmitir aos referidos grupos de trabalho as orientações superiormente fixadas, bem como as que sejam impostas pela coerência com o planeamento global ou pelas exigências do planeamento regional.\n\nArt. 9.º Compete à Divisão de planeamento regional:\n\n1.º Proceder aos estudos conducentes à definição das diversas regiões a que se deverão aplicar programas próprios de fomento regional;\n\n2.º Preparar, em colaboração com os órgãos regionais e os serviços competentes dos vários Ministérios, os projectos de programas regionais de fomento cuja elaboração haja sido determinada pelo Conselho de Ministros para os Assuntos Económicos;\n\n3.º Estabelecer a coordenação dos programas regionais entre si, tendo em vista a sua integração nos planos nacionais, e acompanhar a respectiva execução;\n\n4.º assegurar a ligação do Secretariado Técnico com os órgãos já existentes ou que venham a ser criados nos vários Ministérios para a acção de fomento regional.\n\nArt. 10.º À Direcção de Serviços de Integração Económica Nacional incumbe:\n\n1.º Propor ao Conselho de Ministros para os Assuntos Económicos as iniciativas destinadas a realizar a progressiva integração económica dos diversos territórios nacionais e a unificação dos mercados portugueses, elaborando os programas de acção para esse fim convenientes;\n\n2.º Zelar pelo cumprimento das disposições legais sobre integração económica do espaço português, em colaboração com os serviços dos Ministérios competentes, e propor ao Conselho de Ministros para os Assuntos Económicos, com a conveniente antecedência, as providências de regulamentação ou de adaptação consideradas necessárias;\n\n3.º Apresentar ao Conselho de Ministros para os Assuntos Económicos um relatório anual sobre as providências tomadas em matéria de integração económica, informando sobre as dificuldades encontradas e os resultados obtidos;\n\n4.º Manter a ligação do Secretariado com os grupos de trabalho da Comissão Interministerial e com os serviços do Ministério do Ultramar que se ocupem de problemas respeitantes à integração económica nacional e prestar-lhes o necessário apoio técnico;\n\n5.º Assegurar as relações entre o Secretariado Técnico e o Banco de Portugal na qualidade de agente do Fundo Monetário da Zona do Escudo.\n\nArt. 11.º À Secretaria incumbirão os serviços gerais de carácter administrativo e burocrático do Secretariado Técnico, designadamente os de expediente, contabilidade, economato, pessoal, arquivo, e a organização e manutenção da biblioteca.\n\nArt. 12.º Para o cumprimento das atribuições que lhe são conferidas, pode o Secretariado Técnico solicitar dos serviços públicos, corpos administrativos, organismos corporativos e entidades privadas as informações necessárias.\n\nArt. 13.º O director-geral do Secretariado Técnico exerce, por inerência, as funções de secretário, sem voto, do Conselho de Ministros para os Assuntos Económicos, e é vogal nato da Comissão Consultiva de Política Económica e do Conselho Nacional de Crédito.\n\nArt. 14.º O Gabinete de Estudos e as duas direcções de serviços do Secretariado Técnico são chefiadas por directores de serviços, que coadjuvam o director-geral no exercício das suas funções e o substituem, por ordem de antiguidade, nas suas faltas ou impedimentos.\n\nArt. 15.º As divisões da Direcção de Serviços de Planeamento são dirigidas por chefes de divisão, aos quais incumbe coadjuvar o respectivo director de serviços no exercício das suas funções, assegurando, por ordem de antiguidade, a respectiva substituição nos casos de falta ou impedimento.\n\nArt. 16.º A Secretaria é dirigida por um chefe dos serviços administrativos, coadjuvado por um chefe de secção, que o substituirá nas suas faltas ou impedimentos."
+  },
+  "1c4b0ef92c424eae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Da Comissão Interministerial de Planeamento e Integração Económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Da Comissão Interministerial de Planeamento e Integração Económica\n\nArt. 17.º A Comissão Interministerial de Planeamento e Integração Económica, criada pelo artigo 40.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962, é um órgão de estudo, coordenação e consulta destinado a assegurar, em matéria de planeamento e integração, a ligação permanente entre o Secretariado Técnico da Presidência do Conselho, os diversos Ministérios e, por intermédio dos serviços competentes do Ministério do Ultramar, as províncias ultramarinas. Incumbe-lhe, além disso, examinar os estudos e relatórios elaborados pelos grupos de trabalho a que se referem os artigos 22.º e seguintes do presente diploma, com vista à sua conveniente coordenação, quer entre os diversos sectores de actividade, quer entre os vários territórios nacionais.\n\nArt. 18.º A Comissão Interministerial é presidida pelo director-geral do Secretariado Técnico e, na sua falta ou impedimento, por quem o Presidente do Conselho determinar, e dela fazem parte representantes dos departamentos ministeriais, serviços e entidades aos quais cabe executar, financiar ou fiscalizar os empreendimentos inscritos nos planos de fomento nacionais e regionais e as medidas de integração económica do espaço português.\n\nArt. 19.º A Comissão Interministerial compreende o plenário e os grupos de trabalho. O plenário funciona em sessões conjuntas ou em reuniões restritas, conforme a natureza dos assuntos a tratar.\n\nArt. 20.º São vogais da Comissão Interministerial:\n\nUm representante do Ministro das Finanças;\n\nUm representante do Ministro da Marinha;\n\nUm representante do Ministro dos Negócios Estrangeiros;\n\nUm representante do Ministro das Obras Públicas;\n\nUm representante do Ministro do Ultramar;\n\nUm representante do Ministro da Educação Nacional;\n\nUm representante do Ministro da Economia;\n\nUm representante do Ministro das Comunicações;\n\nUm representante do Ministro das Corporações e Previdência Social;\n\nUm representante do Ministro da Saúde e Assistência;\n\nUm representante do Secretário de Estado da Agricultura;\n\nUm representante do Secretário de Estado do Comércio;\n\nUm representante do Secretário de Estado da Indústria;\n\nUm representante do Subsecretário de Estado da Presidência do Conselho;\n\nUm representante do Banco de Portugal;\n\nUm representante do Instituto Nacional de Estatística;\n\nOs directores do Gabinete de Estudos e dos Serviços de Planeamento e de Integração Económica Nacional do Secretariado Técnico da Presidência do Conselho;\n\nOs presidentes das comissões técnicas de planeamento e integração económica das províncias ultramarinas, quando se encontrem na metrópole.\n\n§ 1.º As reuniões do plenário são convocadas pelo presidente, por sua iniciativa ou mediante proposta de algum dos seus membros.\n\n§ 2.º Os vogais representantes dos Ministros e Secretários de Estado no plenário, e respectivos suplentes, são designados por despacho do Presidente do Conselho, sobre proposta dos Ministros respectivos, com dispensa de quaisquer outras formalidades, incluindo o visto do Tribunal de Contas. A proposta para a designação do vogal representante do Banco de Portugal é feita pelo governo do Banco, com a dispensa referida para os restantes vogais.\n\n§ 3.º Quando venha a reconhecer-se necessária a presença de representantes de outros departamentos não mencionados neste artigo, ou das províncias ultramarinas, pode a sua inclusão ser determinada por despacho do Presidente do Conselho, ouvido o Ministro respectivo.\n\n§ 4.º Na falta ou impedimento de qualquer dos vogais efectivos, intervirá nas reuniões o suplente.\n\nArt. 21.º Compete especialmente aos vogais da Comissão Interministerial:\n\n1.º Transmitir à Comissão os pareceres e sugestões dos seus Ministérios, bem como dar conta aos Ministros que representam dos trabalhos em curso na Comissão e da orientação que a mesma se propõe seguir na realização desses trabalhos;\n\n2.º Assegurar a ligação administrativa permanente entre o Secretariado Técnico da Presidência do Conselho e os serviços que, nos respectivos Ministérios, tenham a seu cargo a promoção, execução, financiamento ou fiscalização de empreendimentos inscritos nos planos de fomento, e a observância das resoluções destinadas a realizar a progressiva integração económica do espaço português e a unificação dos mercados nacionais.\n\nArt. 22.º Os grupos de trabalho da Comissão Interministerial são constituídos por representantes dos serviços públicos, organismos corporativos, associações económicas e empresas privadas, directamente interessados nas matérias de que cada grupo é chamado a ocupar-se, e reunirão para estudo e informação dos problemas relativos às matérias de planeamento e integração económica do respectivo âmbito que devam ser submetidos à apreciação do Conselho de Ministros para os Assuntos Económicos.\n\n§ único. As corporações podem fazer-se representar directamente ou por intermédio dos organismos gremiais ou sindicais nelas integrados.\n\nArt. 23.º O número, designação e composição dos grupos de trabalho permanentes da Comissão Interministerial serão definidos, sobre proposta do presidente daquela Comissão, por despacho do Conselho de Ministros para os Assuntos Económicos, que aprovará também os respectivos mandatos e fixará, quando necessário, os prazos para execução dos trabalhos de que forem incumbidos.\n\nArt. 24.º Os presidentes dos grupos de trabalho permanentes serão designados pelo Conselho de Ministros para os Assuntos Económicos, por períodos de um ano, renováveis, com dispensa de quaisquer outras formalidades incluindo o visto do Tribunal de Contas.\n\n§ 1.º A indicação dos representantes dos serviços que participam nos diversos grupos de trabalho será feita por despacho do Ministro ou Secretário de Estado de que o serviço depende e com a dispensa referida no corpo do artigo.\n\n§ 2.º Cada serviço ou entidade terá pelo menos um representante efectivo e um suplente. A representação de um serviço, em grupos de trabalho de que faça parte, deve ser, de preferência, assegurada pelo mesmo funcionário, salvo quando se trate de serviço que oriente ou centralize diversos organismos ligados a vários sectores de actividade, caso em que a sua representação poderá variar, consoante os problemas em estudo.\n\nArt. 25.º Independentemente dos grupos permanentes criados por despacho do Conselho de Ministros para os Assuntos Económicos, nos termos do artigo 23.º, poderão constituir-se, por iniciativa do presidente da Comissão Interministerial ou de qualquer dos seus vogais, grupos de trabalho ad hoc para o estudo de problemas específicos.\n\n§ 1.º A presidência, composição e mandato dos grupos de trabalho ad hoc serão definidos pelo presidente da Comissão Interministerial.\n\n§ 2.º Os grupos ad hoc dissolver-se-ão finda a tarefa de que forem incumbidos.\n\n§ 3.º Para o estudo de problemas que respeitem a sectores especializados, no âmbito dos grupos de trabalho permanentes, poderão ainda constituir-se subgrupos, por despacho do presidente da Comissão Interministerial ou dos presidentes dos grupos de trabalho respectivos, fixando-se nesse despacho a composição e o mandato de cada subgrupo.\n\nArt. 26.º As reuniões dos grupos de trabalho são convocadas pelo presidente da Comissão Interministerial ou pelo presidente do respectivo grupo.\n\n§ 1.º Às reuniões dos grupos de trabalho podem ser chamadas todos os membros permanentes ou apenas aqueles que o respectivo presidente considere interessados nas matérias a tratar.\n\n§ 2.º Na falta ou impedimento do presidente de qualquer grupo de trabalho, assumirá as suas funções um dos directores de serviços do Secretariado Técnica da Presidência do Conselho, indicado pelo presidente da Comissão Interministerial.\n\n§ 3.º Em cada grupo de trabalho participará, pelo menos, um técnico ou perito do Secretariada Técnico, ao qual cabe transmitir o ponto de vista deste Secretariado sobre as matérias tratadas pelo grupo e assegurar a coerência dos respectivos trabalhos com as orientações gerais fixadas ao planeamento do desenvolvimento económico nacional e com os princípios da integração económica do espaço português.\n\n§ 4.º O secretariado de cada grupo de trabalho será assegurado pelo Secretariado Técnico, por intermédio do respectivo representante ou de um funcionário administrativo para o efeito designado, podendo, todavia, em casos especiais, mediante despacho do presidente da Comissão Interministerial, essa função ser confiada a pessoa não pertencente aos quadros do Secretariado.\n\n§ 5.º O disposto nos parágrafos anteriores é aplicável, com as necessárias adaptações, ao funcionamento dos subgrupos de trabalho.\n\nArt. 27.º O presidente da Comissão Interministerial e os presidentes dos grupos e subgrupos de trabalho podem chamar a colaborar nos respectivos grupos e subgrupos, a título transitório, mais de um delegado dos serviços representados, bem como representantes de entidades públicas ou privadas que neles não tenham assento permanente, sempre que a sua presença seja julgada útil ao estudo de determinados assuntos.\n\n§ único. O Ministro do Ultramar, por sua iniciativa ou mediante proposta do presidente da Comissão Interministerial, pode chamar a participar nas reuniões dos grupos e subgrupos de trabalho funcionários das comissões técnicas de planeamento e integração económica das províncias ultramarinas e representantes dos serviços públicos e de entidades privadas encarregados da promoção, execução ou financiamento de empreendimentos inscritos ou a inscrever nos programas das mesmas províncias e que sejam objectos de estudo nessas reuniões."
+  },
+  "c0e5827947a07e11": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Da orgânica de planeamento regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Da orgânica de planeamento regional\n\nArt. 28.º Compete ao Conselho de Ministros para os Assuntos Económicos definir as regiões que devam ser objecto de programas regionais de fomento.\n\nArt. 29.º O Governo promoverá a criação dos órgãos encarregados de:\n\na) Recolher e preparar as informações de base destinadas à elaboração de programas de desenvolvimento regional;\n\nb) Assegurar, para efeitos desse planeamento, a conveniente representação dos interesses locais nos grupos de trabalho da Comissão Interministerial;\n\nc) Manter a ligação permanente como Secretariado Técnico e com os serviços dos diversos Ministérios.\n\n§ único. Independentemente do preceituado no corpo deste artigo, podem as autarquias locais, isoladamente ou através das suas federações, criar comissões ou outros órgãos destinados à recolha de elementos informativos e seriação de necessidades e aspirações, com vista à sua oportuna utilização em trabalhos de planeamento regional."
+  },
+  "c344b56ba7dd4fe5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais\n\nArt. 30.º O quadro do pessoal do Secretariado Técnico da Presidência do Conselho, sua forma de provimento e remuneração, e outras disposições relativas à respectiva orgânica e funcionamento, bem como a forma de remuneração do presidente da Comissão Interministerial de Planeamento e Integração Económica, dos membros do plenário e dos grupos e subgrupos de trabalho, e, ainda o regime de cobertura dos encargos com o funcionamento da Comissão Consultiva de Política Económica, serão fixados em diploma referendado pelo Presidente do Conselho e pelo Ministro das Finanças.\n\n§ 1.º As nomeações do pessoal dirigente e técnico do Secretariado Técnico poderão ser feitas directamente para qualquer das categorias, independentemente de se tratar de primeira nomeação e do tempo de serviço prestado em categoria inferior, no caso de a nomeação recair em indivíduos já funcionários públicos, pertencentes ou não aos quadros do mesmo Secretariado.\n\n§ 2.º As gratificações que vierem a ser fixadas ao presidente do plenário da Comissão Interministerial e aos presidentes e secretários dos grupos e subgrupos de trabalho, bem como os valores das senhas de presença que vierem a ser atribuídas aos restantes membros dos referidos órgãos de estudo, serão acumuláveis com a remuneração dos respectivos cargos públicos, sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.\n\nArt. 31.º Os componentes dos grupos de trabalho a que se refere o artigo 23.º, chamados a participar em reuniões preparatórias anteriores à entrada em vigor do presente diploma, têm direito ao abono das respectivas senhas de presença, uma vez sancionadas tais reuniões pelo Conselho de Ministros para os Assuntos Económicos.\n\nArt. 32.º São revogados os artigos 32.º e seguintes do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 19 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.\n\nPara ser presente à Assembleia Nacional.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha."
+  },
+  "c7c6f591cd322de5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Do Secretariado Técnico da Presidência do Conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Do Secretariado Técnico da Presidência do Conselho"
+  },
+  "b1cf79c05e16095c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO Secretariado Técnico da Presidência do Conselho é o serviço nacional destinado a preparar, para apreciação do Governo, os projectos dos planos de desenvolvimento económico e social, à escala do espaço português ou de âmbito regional, e dos esquemas de realização da integração económica daquele espaço, e a prestar ao Conselho de Ministros para os Assuntos Económicos, pelos estudos próprios que realize e pelo exame e coordenação das informações dos serviços dos Ministérios competentes, o conveniente apoio técnico para a fundamentação das decisões do Conselho e seu exacto cumprimento.\n\n§ único. Os Gabinetes dos Ministros e os serviços dos diversos Ministérios devem manter com o Secretariado Técnico os contactos convenientes à pronta preparação e execução das deliberações do Conselho de Ministros para os Assuntos Económicos e ao regular desempenho das restantes atribuições confiadas ao Secretariado pelo presente diploma."
+  },
+  "8f6f17daf92bf2d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Secretariado Técnico constitui uma direcção-geral, a cargo de um director-geral, e compreende os seguintes serviços:\n\na) Gabinete de Estudos;\n\nb) Direcção de Serviços de Planeamento;\n\nc) Direcção de Serviços de Integração Económica Nacional;\n\nd) Secretaria."
+  },
+  "f90e2c41f09d907a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nPara o desempenho das atribuições conferidas ao Secretariado Técnico pelo artigo 1.º do presente diploma, compete ao director-geral:\n\n1.º Dirigir e coordenar superiormente os serviços do Secretariado Técnico e presidir à Comissão Interministerial de Planeamento e Integração Económica;\n\n2.º Assegurar o secretariado e expediente do Conselho de Ministros para os Assuntos Económicos e da Comissão Consultiva de Política Económica;\n\n3.º Estabelecer a ligação entre o Secretariado e os serviços competentes dos diversos Ministérios, para os efeitos do disposto no § único do artigo 1.º;\n\n4.º Orientar superiormente os serviços de planeamento e integração económica que funcionem no Ministério do Ultramar e, por intermédio destes serviços, coordenar a actividade das comissões técnicas de planeamento e integração económica das províncias ultramarinas;\n\n5.º Desempenhar as mais funções que lhe sejam cometidas por lei ou despacho superior;\n\n§ único. Para os efeitos do n.º 4.º deste artigo, o director-geral do Secretariado Técnico actua como director-geral do Ministério do Ultramar e despacha com o respectivo Ministro."
+  },
+  "40f3f1c881da6752": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nIncumbe ao Gabinete de Estudos:\n\n1.º Promover a realização, segundo a orientação superiormente definida pelo Conselho de Ministros para os Assuntos Económicos, dos estudos respeitantes à determinação dos objectivos e instrumentos da política de desenvolvimento económico-social do País, para o que deverá:\n\na) Realizar os trabalhos de base que interessem ao planeamento do desenvolvimento económico e social em todo o espaço português, ou que visem ao aperfeiçoamento das técnicas de programação económica;\n\nb) Preparar os projectos dos diplomas legais respeitantes à execução dos planos de fomento que não sejam da competência específica de determinado Ministério;\n\nc) Efectuar os estudos que lhe forem ordenados pelo Presidente do Conselho ou pelo director-geral.\n\n2.º Promover os estudos necessários à realização do processo de integração económica nacional e ao conhecimento, tão completo quanto possível, do grau de interdependência recíproca das diversas parcelas do espaço português;\n\n3.º Prestar apoio técnico aos serviços de planeamento e integração económica existentes no Ministério do Ultramar e, por intermédio destes serviços, aos órgãos provinciais correspondentes;\n\n4.º Preparar as informações de carácter geral solicitadas ao Secretariado Técnico por entidades nacionais e estrangeiras;\n\n5.º Coordenar, em colaboração com os órgãos e serviços competentes dos respectivos Ministérios, os programas de assistência técnica externa prestada a projectos que interessem ao desenvolvimento económico-social do País.\n\n6.º Organizar e orientar a publicação do Boletim do Secretariado Técnico."
+  },
+  "52706670a3a99814": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nÀ Direcção de Serviços de Planeamento, em colaboração com os serviços dos Ministérios competentes, incumbe, de modo geral, preparar, para apreciação do Conselho de Ministros para os Assuntos Económicos, os projectos dos planos de fomento nacionais, examinando, em função dos objectivos globais e com vista à sua coordenação, os programas de desenvolvimento de cada um dos territórios integrantes da Nação Portuguesa a incluir naqueles planos, bem como acompanhar a execução dos planos aprovados."
+  },
+  "4e2c7736307c18e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA Direcção de Serviços de Planeamento compreende três divisões:\n\na) Planeamento global;\n\nb) Planeamento sectorial;\n\nc) Planeamento regional."
+  },
+  "99f108413919bf6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nCompete à Divisão de planeamento global:\n\n1.º Elaborar as projecções do desenvolvimento económico nacional em termos macroeconómicos;\n\n2.º Examinar a forma como se processa a evolução programada para os diversos sectores da actividade económica nacional e para as várias parcelas do espaço português;\n\n3.º Propor, para deliberação do Conselho de Ministros para os Assuntos Económicos, as opções básicas sobre a estratégia geral do desenvolvimento económico nacional;\n\n4.º Recolher e coordenar os elementos destinados à preparação dos programas anuais de execução dos planos de fomento e dos planos regionais nele incluídos, para aprovação do Conselho de Ministros para os Assuntos Económicos;\n\n5.º Acompanhar a execução dos planos de fomento nacionais e dos planos regionais de desenvolvimento que estiverem em curso, e elaborar, até 31 de Dezembro de cada ano, um relatório sobre a respectiva execução;\n\n6.º Informar das dificuldades que eventualmente surjam no processo do desenvolvimento económico nacional e propor as medidas de correcção julgadas convenientes;\n\n7.º Colaborar com os serviços e organismos competentes no aperfeiçoamento dos métodos e desenvolvimento dos quadros da contabilidade nacional;\n\n8.º Assegurar a ligação do Secretariado Técnico com o Instituto Nacional de Estatística, os serviços competentes do Ministério das Finanças e o Banco de Portugal, bem como com os grupos de trabalho da Comissão Interministerial de Planeamento e Integração Económica que tenham âmbito horizontal ou se ocupem das condições do equilíbrio económico geral;\n\n9.º Submeter ao Conselho de Ministros para os Assuntos Económicos os processos de emissão de títulos e de concessão de isenções fiscais que, nos termos da lei, devam ser presentes à apreciação daquele Conselho."
+  },
+  "db9f377d1cd93379": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nIncumbe à Divisão de planeamento sectorial:\n\n1.º Acompanhar e prestar apoio técnico aos trabalhos de planeamento a cargo dos grupos de trabalho de âmbito vertical da Comissão Interministerial de Planeamento e Integração Económica, em colaboração com os serviços competentes dos diversos Ministérios e com os órgãos representativos das actividades privadas;\n\n2.º Transmitir aos referidos grupos de trabalho as orientações superiormente fixadas, bem como as que sejam impostas pela coerência com o planeamento global ou pelas exigências do planeamento regional."
+  },
+  "f20b1b4fbeb3f9a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nCompete à Divisão de planeamento regional:\n\n1.º Proceder aos estudos conducentes à definição das diversas regiões a que se deverão aplicar programas próprios de fomento regional;\n\n2.º Preparar, em colaboração com os órgãos regionais e os serviços competentes dos vários Ministérios, os projectos de programas regionais de fomento cuja elaboração haja sido determinada pelo Conselho de Ministros para os Assuntos Económicos;\n\n3.º Estabelecer a coordenação dos programas regionais entre si, tendo em vista a sua integração nos planos nacionais, e acompanhar a respectiva execução;\n\n4.º assegurar a ligação do Secretariado Técnico com os órgãos já existentes ou que venham a ser criados nos vários Ministérios para a acção de fomento regional."
+  },
+  "4c6d7e7eb450c4ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nÀ Direcção de Serviços de Integração Económica Nacional incumbe:\n\n1.º Propor ao Conselho de Ministros para os Assuntos Económicos as iniciativas destinadas a realizar a progressiva integração económica dos diversos territórios nacionais e a unificação dos mercados portugueses, elaborando os programas de acção para esse fim convenientes;\n\n2.º Zelar pelo cumprimento das disposições legais sobre integração económica do espaço português, em colaboração com os serviços dos Ministérios competentes, e propor ao Conselho de Ministros para os Assuntos Económicos, com a conveniente antecedência, as providências de regulamentação ou de adaptação consideradas necessárias;\n\n3.º Apresentar ao Conselho de Ministros para os Assuntos Económicos um relatório anual sobre as providências tomadas em matéria de integração económica, informando sobre as dificuldades encontradas e os resultados obtidos;\n\n4.º Manter a ligação do Secretariado com os grupos de trabalho da Comissão Interministerial e com os serviços do Ministério do Ultramar que se ocupem de problemas respeitantes à integração económica nacional e prestar-lhes o necessário apoio técnico;\n\n5.º Assegurar as relações entre o Secretariado Técnico e o Banco de Portugal na qualidade de agente do Fundo Monetário da Zona do Escudo."
+  },
+  "06559a40c42e98e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nÀ Secretaria incumbirão os serviços gerais de carácter administrativo e burocrático do Secretariado Técnico, designadamente os de expediente, contabilidade, economato, pessoal, arquivo, e a organização e manutenção da biblioteca."
+  },
+  "1968c74c85b9b2f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nPara o cumprimento das atribuições que lhe são conferidas, pode o Secretariado Técnico solicitar dos serviços públicos, corpos administrativos, organismos corporativos e entidades privadas as informações necessárias."
+  },
+  "8d25284972941985": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO director-geral do Secretariado Técnico exerce, por inerência, as funções de secretário, sem voto, do Conselho de Ministros para os Assuntos Económicos, e é vogal nato da Comissão Consultiva de Política Económica e do Conselho Nacional de Crédito."
+  },
+  "3d6aba27f16d5796": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1966-11-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47320](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47320-1966-477629), publicado em 1966-11-21."
+   ],
+   "markdown": "###### Artigo 14.º\n\nOs Serviços de Planeamento são chefiados por um director com a categoria de inspector superior, que coadjuvará o director-geral no exercício das suas funções e o substituirá nas suas faltas e impedimentos. O Gabinete de Estudos e os Serviços de Integração Económica Nacional são chefiados por directores de serviços, que coadjuvarão igualmente o director-geral e, no caso de impedimento simultâneo deste e do director do planeamento, os substituirão pela ordem que for superiormente determinada.\n\n> Alterado pelo/a [Decreto-Lei n.º 47320](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47320-1966-477629), publicado em 1966-11-21."
+  },
+  "8812d06d5f906613": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1966-11-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47320](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47320-1966-477629), publicado em 1966-11-21."
+   ],
+   "markdown": "###### Artigo 15.º\n\nAs divisões da Direcção de Serviços de Planeamento são dirigidas por chefes de divisão, aos quais incumbe coadjuvar o respectivo director no exercício das suas funções e substituí-lo, nos casos de falta ou impedimento, pela ordem que for determinada pelo director-geral.\n\n> Alterado pelo/a [Decreto-Lei n.º 47320](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47320-1966-477629), publicado em 1966-11-21."
+  },
+  "5ccab4241a00ebb2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA Secretaria é dirigida por um chefe dos serviços administrativos, coadjuvado por um chefe de secção, que o substituirá nas suas faltas ou impedimentos."
+  },
+  "25eb66f7a894975f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Da Comissão Interministerial de Planeamento e Integração Económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Da Comissão Interministerial de Planeamento e Integração Económica"
+  },
+  "eee69753dae5ef83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA Comissão Interministerial de Planeamento e Integração Económica, criada pelo artigo 40.º do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962, é um órgão de estudo, coordenação e consulta destinado a assegurar, em matéria de planeamento e integração, a ligação permanente entre o Secretariado Técnico da Presidência do Conselho, os diversos Ministérios e, por intermédio dos serviços competentes do Ministério do Ultramar, as províncias ultramarinas. Incumbe-lhe, além disso, examinar os estudos e relatórios elaborados pelos grupos de trabalho a que se referem os artigos 22.º e seguintes do presente diploma, com vista à sua conveniente coordenação, quer entre os diversos sectores de actividade, quer entre os vários territórios nacionais."
+  },
+  "6990bec2fa39142a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nA Comissão Interministerial é presidida pelo director-geral do Secretariado Técnico e, na sua falta ou impedimento, por quem o Presidente do Conselho determinar, e dela fazem parte representantes dos departamentos ministeriais, serviços e entidades aos quais cabe executar, financiar ou fiscalizar os empreendimentos inscritos nos planos de fomento nacionais e regionais e as medidas de integração económica do espaço português."
+  },
+  "14303edded00e23d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA Comissão Interministerial compreende o plenário e os grupos de trabalho. O plenário funciona em sessões conjuntas ou em reuniões restritas, conforme a natureza dos assuntos a tratar."
+  },
+  "07b6ff84aaed6e0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nSão vogais da Comissão Interministerial:\n\nUm representante do Ministro das Finanças;\n\nUm representante do Ministro da Marinha;\n\nUm representante do Ministro dos Negócios Estrangeiros;\n\nUm representante do Ministro das Obras Públicas;\n\nUm representante do Ministro do Ultramar;\n\nUm representante do Ministro da Educação Nacional;\n\nUm representante do Ministro da Economia;\n\nUm representante do Ministro das Comunicações;\n\nUm representante do Ministro das Corporações e Previdência Social;\n\nUm representante do Ministro da Saúde e Assistência;\n\nUm representante do Secretário de Estado da Agricultura;\n\nUm representante do Secretário de Estado do Comércio;\n\nUm representante do Secretário de Estado da Indústria;\n\nUm representante do Subsecretário de Estado da Presidência do Conselho;\n\nUm representante do Banco de Portugal;\n\nUm representante do Instituto Nacional de Estatística;\n\nOs directores do Gabinete de Estudos e dos Serviços de Planeamento e de Integração Económica Nacional do Secretariado Técnico da Presidência do Conselho;\n\nOs presidentes das comissões técnicas de planeamento e integração económica das províncias ultramarinas, quando se encontrem na metrópole.\n\n§ 1.º As reuniões do plenário são convocadas pelo presidente, por sua iniciativa ou mediante proposta de algum dos seus membros.\n\n§ 2.º Os vogais representantes dos Ministros e Secretários de Estado no plenário, e respectivos suplentes, são designados por despacho do Presidente do Conselho, sobre proposta dos Ministros respectivos, com dispensa de quaisquer outras formalidades, incluindo o visto do Tribunal de Contas. A proposta para a designação do vogal representante do Banco de Portugal é feita pelo governo do Banco, com a dispensa referida para os restantes vogais.\n\n§ 3.º Quando venha a reconhecer-se necessária a presença de representantes de outros departamentos não mencionados neste artigo, ou das províncias ultramarinas, pode a sua inclusão ser determinada por despacho do Presidente do Conselho, ouvido o Ministro respectivo.\n\n§ 4.º Na falta ou impedimento de qualquer dos vogais efectivos, intervirá nas reuniões o suplente."
+  },
+  "11b10adc3d8a5b76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nCompete especialmente aos vogais da Comissão Interministerial:\n\n1.º Transmitir à Comissão os pareceres e sugestões dos seus Ministérios, bem como dar conta aos Ministros que representam dos trabalhos em curso na Comissão e da orientação que a mesma se propõe seguir na realização desses trabalhos;\n\n2.º Assegurar a ligação administrativa permanente entre o Secretariado Técnico da Presidência do Conselho e os serviços que, nos respectivos Ministérios, tenham a seu cargo a promoção, execução, financiamento ou fiscalização de empreendimentos inscritos nos planos de fomento, e a observância das resoluções destinadas a realizar a progressiva integração económica do espaço português e a unificação dos mercados nacionais."
+  },
+  "d59b9f66c22d2ee7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs grupos de trabalho da Comissão Interministerial são constituídos por representantes dos serviços públicos, organismos corporativos, associações económicas e empresas privadas, directamente interessados nas matérias de que cada grupo é chamado a ocupar-se, e reunirão para estudo e informação dos problemas relativos às matérias de planeamento e integração económica do respectivo âmbito que devam ser submetidos à apreciação do Conselho de Ministros para os Assuntos Económicos.\n\n§ único. As corporações podem fazer-se representar directamente ou por intermédio dos organismos gremiais ou sindicais nelas integrados."
+  },
+  "98fe71ffe23bc163": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nO número, designação e composição dos grupos de trabalho permanentes da Comissão Interministerial serão definidos, sobre proposta do presidente daquela Comissão, por despacho do Conselho de Ministros para os Assuntos Económicos, que aprovará também os respectivos mandatos e fixará, quando necessário, os prazos para execução dos trabalhos de que forem incumbidos."
+  },
+  "d003a29f18821794": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs presidentes dos grupos de trabalho permanentes serão designados pelo Conselho de Ministros para os Assuntos Económicos, por períodos de um ano, renováveis, com dispensa de quaisquer outras formalidades incluindo o visto do Tribunal de Contas.\n\n§ 1.º A indicação dos representantes dos serviços que participam nos diversos grupos de trabalho será feita por despacho do Ministro ou Secretário de Estado de que o serviço depende e com a dispensa referida no corpo do artigo.\n\n§ 2.º Cada serviço ou entidade terá pelo menos um representante efectivo e um suplente. A representação de um serviço, em grupos de trabalho de que faça parte, deve ser, de preferência, assegurada pelo mesmo funcionário, salvo quando se trate de serviço que oriente ou centralize diversos organismos ligados a vários sectores de actividade, caso em que a sua representação poderá variar, consoante os problemas em estudo."
+  },
+  "a1c9f15c8e67ed52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nIndependentemente dos grupos permanentes criados por despacho do Conselho de Ministros para os Assuntos Económicos, nos termos do artigo 23.º, poderão constituir-se, por iniciativa do presidente da Comissão Interministerial ou de qualquer dos seus vogais, grupos de trabalho ad hoc para o estudo de problemas específicos.\n\n§ 1.º A presidência, composição e mandato dos grupos de trabalho ad hoc serão definidos pelo presidente da Comissão Interministerial.\n\n§ 2.º Os grupos ad hoc dissolver-se-ão finda a tarefa de que forem incumbidos.\n\n§ 3.º Para o estudo de problemas que respeitem a sectores especializados, no âmbito dos grupos de trabalho permanentes, poderão ainda constituir-se subgrupos, por despacho do presidente da Comissão Interministerial ou dos presidentes dos grupos de trabalho respectivos, fixando-se nesse despacho a composição e o mandato de cada subgrupo."
+  },
+  "5205733ba5be803a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nAs reuniões dos grupos de trabalho são convocadas pelo presidente da Comissão Interministerial ou pelo presidente do respectivo grupo.\n\n§ 1.º Às reuniões dos grupos de trabalho podem ser chamadas todos os membros permanentes ou apenas aqueles que o respectivo presidente considere interessados nas matérias a tratar.\n\n§ 2.º Na falta ou impedimento do presidente de qualquer grupo de trabalho, assumirá as suas funções um dos directores de serviços do Secretariado Técnica da Presidência do Conselho, indicado pelo presidente da Comissão Interministerial.\n\n§ 3.º Em cada grupo de trabalho participará, pelo menos, um técnico ou perito do Secretariada Técnico, ao qual cabe transmitir o ponto de vista deste Secretariado sobre as matérias tratadas pelo grupo e assegurar a coerência dos respectivos trabalhos com as orientações gerais fixadas ao planeamento do desenvolvimento económico nacional e com os princípios da integração económica do espaço português.\n\n§ 4.º O secretariado de cada grupo de trabalho será assegurado pelo Secretariado Técnico, por intermédio do respectivo representante ou de um funcionário administrativo para o efeito designado, podendo, todavia, em casos especiais, mediante despacho do presidente da Comissão Interministerial, essa função ser confiada a pessoa não pertencente aos quadros do Secretariado.\n\n§ 5.º O disposto nos parágrafos anteriores é aplicável, com as necessárias adaptações, ao funcionamento dos subgrupos de trabalho."
+  },
+  "d011959b1ef60865": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nO presidente da Comissão Interministerial e os presidentes dos grupos e subgrupos de trabalho podem chamar a colaborar nos respectivos grupos e subgrupos, a título transitório, mais de um delegado dos serviços representados, bem como representantes de entidades públicas ou privadas que neles não tenham assento permanente, sempre que a sua presença seja julgada útil ao estudo de determinados assuntos.\n\n§ único. O Ministro do Ultramar, por sua iniciativa ou mediante proposta do presidente da Comissão Interministerial, pode chamar a participar nas reuniões dos grupos e subgrupos de trabalho funcionários das comissões técnicas de planeamento e integração económica das províncias ultramarinas e representantes dos serviços públicos e de entidades privadas encarregados da promoção, execução ou financiamento de empreendimentos inscritos ou a inscrever nos programas das mesmas províncias e que sejam objectos de estudo nessas reuniões."
+  },
+  "b88c9bb92df8f24c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Da orgânica de planeamento regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Da orgânica de planeamento regional"
+  },
+  "be7da990a187010e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nCompete ao Conselho de Ministros para os Assuntos Económicos definir as regiões que devam ser objecto de programas regionais de fomento."
+  },
+  "f2f4d31a51caebf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO Governo promoverá a criação dos órgãos encarregados de:\n\na) Recolher e preparar as informações de base destinadas à elaboração de programas de desenvolvimento regional;\n\nb) Assegurar, para efeitos desse planeamento, a conveniente representação dos interesses locais nos grupos de trabalho da Comissão Interministerial;\n\nc) Manter a ligação permanente como Secretariado Técnico e com os serviços dos diversos Ministérios.\n\n§ único. Independentemente do preceituado no corpo deste artigo, podem as autarquias locais, isoladamente ou através das suas federações, criar comissões ou outros órgãos destinados à recolha de elementos informativos e seriação de necessidades e aspirações, com vista à sua oportuna utilização em trabalhos de planeamento regional."
+  },
+  "d617a7c229359779": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais"
+  },
+  "24481bca140fdc22": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nO quadro do pessoal do Secretariado Técnico da Presidência do Conselho, sua forma de provimento e remuneração, e outras disposições relativas à respectiva orgânica e funcionamento, bem como a forma de remuneração do presidente da Comissão Interministerial de Planeamento e Integração Económica, dos membros do plenário e dos grupos e subgrupos de trabalho, e, ainda o regime de cobertura dos encargos com o funcionamento da Comissão Consultiva de Política Económica, serão fixados em diploma referendado pelo Presidente do Conselho e pelo Ministro das Finanças.\n\n§ 1.º As nomeações do pessoal dirigente e técnico do Secretariado Técnico poderão ser feitas directamente para qualquer das categorias, independentemente de se tratar de primeira nomeação e do tempo de serviço prestado em categoria inferior, no caso de a nomeação recair em indivíduos já funcionários públicos, pertencentes ou não aos quadros do mesmo Secretariado.\n\n§ 2.º As gratificações que vierem a ser fixadas ao presidente do plenário da Comissão Interministerial e aos presidentes e secretários dos grupos e subgrupos de trabalho, bem como os valores das senhas de presença que vierem a ser atribuídas aos restantes membros dos referidos órgãos de estudo, serão acumuláveis com a remuneração dos respectivos cargos públicos, sem prejuízo do disposto no artigo 20.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935."
+  },
+  "337534aa466ab464": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nOs componentes dos grupos de trabalho a que se refere o artigo 23.º, chamados a participar em reuniões preparatórias anteriores à entrada em vigor do presente diploma, têm direito ao abono das respectivas senhas de presença, uma vez sancionadas tais reuniões pelo Conselho de Ministros para os Assuntos Económicos."
+  },
+  "f2dc8b9168c4edcb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nSão revogados os artigos 32.º e seguintes do [Decreto-Lei n.º 44652](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44652-1962-673217), de 27 de Outubro de 1962.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 19 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.\n\nPara ser presente à Assembleia Nacional.\n\nPara ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha."
+  }
+ }
+}

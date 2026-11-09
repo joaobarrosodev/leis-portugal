@@ -1,0 +1,695 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:172171:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1961-06-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a8839d020dac8994"
+   ]
+  },
+  {
+   "date": "1975-02-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:261929:por",
+     "title": "Decreto-Lei n.º 75/74",
+     "published": "1974-02-28",
+     "dre_path": "/dr/detalhe/decreto-lei/75-1974-261929"
+    },
+    {
+     "id": "pt:dre:159536:por",
+     "title": "Decreto n.º 50/75",
+     "published": "1975-02-04",
+     "dre_path": "/dr/detalhe/decreto/50-1975-159536"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 40.º",
+    "Revoga Artigo 41.º",
+    "Revoga Artigo 42.º",
+    "Revoga Artigo 43.º",
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º",
+    "Revoga Artigo 47.º",
+    "Revoga Artigo 48.º",
+    "Revoga Artigo 49.º",
+    "Revoga Artigo 50.º",
+    "Revoga Artigo 51.º",
+    "Revoga Artigo 52.º",
+    "Revoga Artigo 53.º",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "9038e15814d792b2",
+    "c7b47da16ea46863",
+    "3adc97666e241df3",
+    "eb5d56e79a626dc8",
+    "0e96e7a3007a9bb0",
+    "e67bc4b739d33b12",
+    "e5fcd274ac4d94ff",
+    "f5a85fac397727e9",
+    "cfc7532ec5b005b0",
+    "bcb32d16ebaa703d",
+    "9e53e031020b93bc",
+    "ce3c120abda4f909",
+    "62915d8ade0a1378",
+    "1f1b4baeb9230eba",
+    "d3ffdc444b4d20af",
+    "47073415ad0b1985",
+    "5971e25bd8ab4302",
+    "7ee32bff87184b7f",
+    "4c9b1744f8c16c61",
+    "cb342fb797524ec8",
+    "fff0c99fc402cceb",
+    "e9a5d4627c234aab",
+    "81aff2d3332baeb4",
+    "119b41b436303180",
+    "4aa3c17d6349cbde",
+    "209faa0ccb1a9e74",
+    "5155e2545a65a6fa",
+    "ffc1f46895c86c8f",
+    "6efcdfaaa1732063",
+    "7c52830c253c923e",
+    "b0f175e709054444",
+    "c686c8415304a0c8",
+    "a52c489ff6150944",
+    "09e23935a06ed7ea",
+    "6777d1c6d6b1e8c2",
+    "9f746a4f9dbd59cc",
+    "8aeaed134c2be008",
+    "4ce7dd33eddf6f9d",
+    "36442be347de0be9",
+    "df0ccaa3df7fe865",
+    "010b4f58fee15124",
+    "a793893ced2e7144",
+    "9ab3c169cc1651b1",
+    "1810f9967645eafe",
+    "a2386211141c83d3",
+    "2309cd4d6641609b",
+    "1c475f004bd5698d",
+    "f9e70000f0fb35ae",
+    "9330f13558beb60c",
+    "6b1c0fe8c88dd7e0",
+    "2adce60723534e65",
+    "172119861780afba",
+    "a605cb43b8f99dd1",
+    "f8e71b171e781e01"
+   ]
+  }
+ ],
+ "fragments": {
+  "a8839d020dac8994": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A indústria de acumuladores eléctricos tem particular importância em vários sectores da vida do País, tais como transportes, telecomunicações, defesa nacional, centrais eléctricas e redes de distribuição de energia eléctrica.\n\nEsta indústria está subordinada, em quase todos os países, a normas de salubridade, fabricação e qualidade, já porque apresenta sérios riscos para a saúde do pessoal que nela trabalha, quando não são adoptadas as necessárias medidas de profilaxia e de prevenção, já porque a qualidade dos seus produtos não é fácil de verificar pelos consumidores no momento da compra.\n\nPor outro lado, a concorrência internacional levada a cabo por unidades fabris bem dimensionadas e bem apetrechadas, com quadros de pessoal de elevado nível técnico e com largos mercados à sua disposição, torna indispensável, para que a indústria nacional possa sobreviver, que se promova uma remodelação profunda que, além de assegurar ao seu pessoal boas condições higiénicas de trabalho, com as protecções adequadas, leve as instalações fabris nacionais, por um apetrechamento racional e bem dimensionado, a poder fabricar produtos de boa qualidade e a preços económicos.\n\nEspera-se, com esta remodelação, que as empresas mais pequenas se agrupem de modo a formarem unidades industriais de maior volume, melhor apetrechamento e mais elevado nível técnico e que, por outro lado, as fábricas já hoje com dimensões convenientes venham a aperfeiçoar as suas condições de produção.\n\nNestes termos e de acordo com a base V da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalhe/lei/2052-1952-597284), de 11 de Março de 1952;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nRegulamento do Exercício da Indústria de Acumuladores Eléctricos de Chumbo\n\nI\n\nDisposições gerais\n\nArtigo 1.º O exercício da indústria de acumuladores eléctricos de chumbo fica sujeito às disposições constantes do presente regulamento.\n\nArt. 2.º A indústria de acumuladores eléctricos de chumbo engloba quer o seu fabrico, quer a sua montagem, reconstrução ou reparação, quer ainda o fabrico isolado das respectivas placas.\n\nEntende-se que há:\n\n1) Reparação, quando se não faz mais do que proceder a beneficiação de uma bateria, com aproveitamento total ou parcial dos seus componentes internos;\n\n2) Reconstrução, quando se não faz mais do que proceder a uma montagem com aproveitamento dos componentes exteriores de baterias usadas, nomeadamente os recipientes e respectivas tampas;\n\n3) Montagem, quando o ciclo fabril sòmente incluir as simples operações de agrupamento dos vários constituintes de uma bateria, adquiridos a fabricantes;\n\n4) Fabrico de placas, quando o ciclo fabril incluir algumas das operações próprias das secções fabris referidas de a) a h) do artigo 6.º e não incluir as que correspondem às alíneas i) a n);\n\n5) Fabrico, quando o ciclo fabril incluir algumas das operações próprias das secções referidas de a) a n) do artigo 6.º\n\nArt. 3.º Dependem de prévia autorização do Secretário de Estado da Indústria:\n\na) A instalação de novos estabelecimentos, e a reabertura dos que tiverem suspendido a laboração por período superior a dois anos, que se destinem ao fabrico, montagem ou reconstrução de acumuladores eléctricos de chumbo ou ao fabrico isolado das respectivas placas. Entende-se que se suspendeu a laboração quando se verificarem as condições indicadas no § 1.º do artigo 1.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954;\n\nb) O exercício, em estabelecimento licenciado para qualquer das actividades referidas na alínea anterior, de outra diferente daquelas para que esteja expressamente autorizada;\n\nc) A transferência do local dos estabelecimentos referidos na alínea a) deste artigo, quando implicar mudança de distrito.\n\n§ único. Os estabelecimentos actualmente licenciados para qualquer das actividades citadas no artigo 2.º e que tenham, efectivamente, utilizado essa autorização, consideram-se legalizados sòmente no que se refere à actividade em causa.\n\nArt. 4.º O exercício da indústria de acumuladores eléctricos de chumbo não é consentâneo com o trabalho no domicílio.\n\nArt. 5.º De futuro, não poderá ser passado a qualquer novo estabelecimento, para o exercício das actividades referidas na alínea a) do artigo 3.º, o alvará a que se refere o regulamento aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922, sem que se mostrem cumpridas as prescrições constantes do presente diploma.\n\nII\n\nCondições técnicas\n\nArt. 6.º Os estabelecimentos que se dediquem à indústria de acumuladores de chumbo terão, devidamente diferenciadas, as seguintes secções quando o ciclo fabril do estabelecimento incluir as operações a realizar, respectivamente, nessas secções:\n\na) Preparação do electrólito;\n\nb) Fundição de armaduras e acessórios em ligas de chumbo;\n\nc) Fabricação de óxidos;\n\nd) Mistura de óxidos e preparação de pastas;\n\ne) Empastamento de armaduras;\n\nf) Secagem de tiradas ou placas;\n\ng) Formação de tiradas ou placas;\n\nh) Corte de tiradas e acabamentos de placas;\n\ni) Fabrico de recipientes subdivididos em secções de preparação de lotes, mistura e fabrico de pastas, moldação e acabamentos;\n\nj) Montagem de baterias;\n\nl) Carga de baterias;\n\nm) Acabamento e verificação de baterias;\n\nn) Expedição;\n\no) Oficina de manutenção;\n\np) Armazém de matérias-primas, subdividido em armazém de ácidos e armazém para as restantes matérias-primas;\n\nq) Armazém de produtos acabados;\n\nr) Laboratórios;\n\ns) Refeitórios, vestiários e instalações sanitárias.\n\n§ único. A existência das secções referidas de p) a s) é obrigatória.\n\nArt. 7.º As secções abrangidas pelo artigo anterior e referidas a seguir deverão, respectivamente, possuir como equipamento mínimo:\n\nAlínea b): fornos de cadinho e moldes que permitam a fundição de armaduras em boas condições técnicas;\n\nAlínea d): máquinas misturadoras;\n\nAlínea f): estufa de secagem de tiradas ou placas;\n\nAlínea i): fonte de calor, misturadoras, prensas e moldes, no caso de o recipiente ser de ebonite, ou equipamento específico para a utilização de outros materiais, de modo a conseguir-se a obtenção de recipientes em boas condições técnicas;\n\nAlínea p): no referente ao armazém de ácidos, possuir área que permita a perfeita arrumação, no pavimento, dos recipientes com o ácido necessário à laboração de, pelo menos, quinze dias; no referente às restantes matérias-primas, possuir espaço que permita a sua perfeita arrumação para a laboração de, pelo menos, dois meses;\n\nAlínea q): possuir espaço que permita a arrumação perfeita das baterias para consumo de um mês e de placas, recipientes e acessórios correspondentes à laboração de, pelo menos, dois meses;\n\nAlínea r): equipamento que permita efectuar as análises físico-químicas das matérias-primas e os ensaios, constantes das normas, para verificação das características dos acumuladores produzidos e dos seus componentes.\n\nIII\n\nCondições de segurança e salubridade\n\nArt. 8.º Os estabelecimentos que se dedicarem ao fabrico de acumuladores ou de placas deverão ter os compartimentos em que se funda chumbo ou manipulem matérias tóxicas protegidos por uma zona profiláctica de 50 m, pelo menos, dentro da qual não podem existir habitações, imóveis ou locais públicos de passagem que possam sofrer os seus efeitos nocivos.\n\nArt. 9.º As secções referidas no artigo 6.º deverão satisfazer, necessàriamente, às seguintes condições gerais de salubridade:\n\na) Terem pé direito nunca inferior a 3 m e capacidade superior a 11,5 m3 por pessoa;\n\nb) Terem iluminação natural; se houver necessidade de utilizar iluminação artificial, esta só poderá ser eléctrica e deverá permitir a boa execução dos trabalhos;\n\nc) Terem boa ventilação natural.\n\nArt. 10.º As secções referidas nas alíneas a), g), l) e p) (armazém de ácidos) do artigo 6.º deverão satisfazer, necessàriamente, às seguintes condições:\n\na) Terem paredes e tectos (se os houver) lisos e construídos de material incombustível e impermeável;\n\nb) Terem rodapé liso, construído de material incombustível, impermeável, lavável e resistente à acção dos ácidos;\n\nc) Terem pavimento liso ou esquartelado construído de material incombustível, impermeável, lavável e resistente à acção dos ácidos e com inclinação que permita o escoamento fácil para câmaras de neutralização;\n\nd) Estarem providas de tomadas de água de grande caudal e fácil manobra.\n\nArt. 11.º As secções referidas nas alíneas b), c), d), e), f), h), i), j), m), n), o), p) e q) do artigo 6.º deverão satisfazer, necessàriamente, quanto a paredes, tectos (se os houver) e pavimentos, às seguintes condições:\n\na) Terem paredes e tectos lisos, sem saliências que permitam a acumulação de poeiras, e construídos de material incombustível, impermeável e lavável;\n\nb) Terem pavimento liso ou esquartelado e construído de material incombustível, impermeável e lavável.\n\nArt. 12.º As secções referidas nas alíneas r) e s) do artigo 6.º deverão satisfazer, necessàriamente, quanto a paredes, tectos e pavimentos, às condições indicadas no artigo anterior - nos balneários os pavimentos só poderão ser esquartelados -, devendo ainda as paredes ser revestidas de azulejo ou qualquer revestimento fàcilmente lavável, branco ou de cor muito clara, pelo menos até 1,75 m do pavimento.\n\nArt. 13.º As secções referidas nas alíneas c), d), e) e h) do artigo 6.º deverão, necessàriamente, ter os esgotos ligados a câmaras de decantação, em número suficiente para que, após a última, não saiam para o exterior senão leves vestígios de óxido.\n\nArt. 14.º As secções referidas nas alíneas c), d), e), f), h) e j) do artigo 6.º deverão estar, necessàriamente, providas de tomadas de água.\n\nArt. 15.º A secção referida na alínea s) do artigo 6.º deverá ser necessàriamente situada em local completamente separado das oficinas, bem isolada, independente para cada sexo e equipada com:\n\na) No que se refere a refeitório:\n\nMesas para quatro pessoas, com as dimensões mínimas de 0,80 m x 0,80 m e tampo liso e impermeável, para a totalidade dos operários.\n\nCozinha ou fogão para aquecimento de comida, nas devidas condições de higiene e salubridade.\n\nb) No que se refere a vestiários:\n\nArmários individuais, com as dimensões mínimas de 1,50 m de altura e 0,30 m x 0,40 m, com fechadura e orifícios de arejamento e, para os operários que lidem com produtos tóxicos ou executem tarefas sujas, com compartimentos separados para as roupas de trabalho e de uso pessoal;\n\nArmário para pensos e primeiros socorros em local privativo, limpo e protegido da contaminação de poeiras, convenientemente apetrechado.\n\nc) No que se refere a instalações sanitárias, que deverão necessàriamente ser ligadas a esgotos:\n\nLavatórios com água corrente à temperatura conveniente, um para cada 5 operários;\n\nChuveiros com antecâmaras de vestir, providos de água quente, um para cada 15 operários;\n\nRetretes higiénicas, com descarga de água por autoclismo, uma para cada 15 mulheres ou 25 homens, ventilando directamente para o exterior;\n\nUrinóis higiénicos, um para cada 15 homens.\n\nIV\n\nResguardos do equipamento e protecção para operários\n\nArt. 16.º As secções referidas no artigo 6.º deverão ser providas dos elementos de protecção seguintes:\n\nAlínea b): sistema eficaz de aspiração dos vapores de chumbo e gases de combustão dos fornos de cadinho;\n\nAlínea c): sistema eficaz de captação de poeiras nas máquinas produtoras de óxido de chumbo;\n\nAlínea d): sistema eficaz de captação de poeiras e aspiração de vapores nos misturadores;\n\nAlínea e): sistema eficaz de captação de poeiras e aspiração de vapores no local de trabalho de cada operário; a bancada de empastamento será munida de dispositivo que permita a existência à sua superfície de uma toalha de água, a fim de evitar que sequem os desperdícios de pasta;\n\nAlínea g): sistema eficaz de ventilação de toda a sala;\n\nAlínea h): sistema eficaz de captação de poeiras nas máquinas e locais de trabalho;\n\nAlínea i): sistema eficaz de aspiração de poeiras nas máquinas e locais de trabalho onde se manipulem produtos em pó ou onde se produzam poeiras; quando as poeiras forem ou puderem ser tóxicas será a aspiração substituída por captação;\n\nAlínea j): sistema eficaz de aspiração de gases e vapores nos locais de trabalho; garrafas de gases para soldadura fixadas á parede por braçadeiras de ferro ou enterradas, ao alto, em fossas;\n\nAlínea l): sistema eficaz de ventilação de toda a sala.\n\n§ 1.º Considera-se, no caso de aspiração de vapores de chumbo ou de captação de poeiras de chumbo, que a aspiração ou captação é eficaz quando, junto do local de trabalho, a concentração média desses vapores ou poeiras, durante oito horas de trabalho, é inferior a 0,2 mg/m3 de ar.\n\n§ 2.º Considera-se que a ventilação das salas de formação ou de carga é eficaz quando consegue que a diluição do hidrogénio libertado se mantenha inferior a 1/130 em volume.\n\nArt. 17.º Além do que se especifica no artigo anterior, as máquinas de produção de recipientes deverão satisfazer às condições de segurança a seguir indicadas, relativas ao equipamento de produção de ebonite, ou de outros, no caso de se trabalhar outra matéria-prima:\n\na) Misturadores. - Protecção que impeça o acesso à zona de contacto dos cilindros; varões metálicos estendidos horizontalmente a todo o comprimento dos cilindros, colocados a menos de 1,75 m acima de todo o pavimento e entre 5 cm e 10 cm das superfícies dos rolos anterior e posterior, que comandem dispositivos de segurança quando accionados pelo operário, ou outros dispositivos de acção semelhante;\n\nb) Calandras. - Protecção que impeça o acesso à zona de contacto dos cilindros; varões metálicos estendidos horizontalmente a todo o comprimento dos cilindros e colocados a menos de 1,75 m acima do pavimento, que comandem dispositivos de segurança quando accionados pelo operário, varões metálicos estendidos verticalmente de cada lado da calandra, colocados no máximo a 30 cm dos cilindros e a 25 cm da base da calandra, que comandem dispositivos de segurança quando accionados pelo operário, ou outros dispositivos de acção semelhante;\n\nc) Prensas. - Protecção eficaz, por isolamento térmico, que evite queimaduras;\n\nd) Caldeiras. - Obediência ao Regulamento de Caldeiras em vigor;\n\ne) Autoclaves. - Protecção eficaz, por isolamento térmico, que evite queimaduras; válvulas de segurança, sempre em perfeito estado de funcionamento. Obediência ao Regulamento de Caldeiras em vigor;\n\nf) Esmeriladores. - Quando utilizem rebolos abrasivos de diâmetro superior a 40 mm, protecção com blindagem de aço ou ferro maleável, deixando sòmente à vista a parte da mó indispensável ao trabalho; quando a natureza do trabalho não permite o uso de protecção, emprego exclusivo de rebolos cónicos; quando accionados a ar comprimido ou por corrente eléctrica de alta frequência, emprego exclusivo de mós de aglomerante orgânico.\n\nArt. 18.º Nas secções referidas em a), d), g), l), p) (armazém de ácidos) e r) do artigo 6.º deverá haver, em condições de rápido emprego, soro fisiológico para neutralizar salpicos de ácido nos olhos e na pele e, ainda, nas secções a), d) e p) (armazém de ácidos) chuveiro de emergência.\n\nArt. 19.º A todo o pessoal será fornecido, pela entidade patronal, material de protecção apropriado e fatos de trabalho, cuja conservação e lavagem incumbem àquela.\n\n§ único. Todo o material de protecção e fatos de trabalho serão lavados, pelo menos, uma vez por semana.\n\nArt. 20.º Nas secções onde se manipulem ou produzam materiais sob a forma de pó, ou onde se manuseiem artigos que possam provocar poeiras, as roupas de trabalho deverão ser muito justas no pescoço, punhos e tornozelos.\n\nArt. 21.º Nas secções referidas em a), d), e), g), l) e p) (armazém de ácidos) do artigo 6.º deverão existir:\n\nBoinas.\n\nLuvas de canhão alto resistentes aos ácidos ou pasta própria para revestimento, que as substitua.\n\nCalçado resistente aos ácidos fàcilmente descalçável.\n\nAvental resistente aos ácidos.\n\nÓculos protectores, excepto na secção e).\n\nArt. 22.º Nas secções referidas em c), d), h) e q) (armazém de placas) do artigo 6.º deverão existir boinas e máscaras apropriadas.\n\nArt. 23.º Em cada um dos armários individuais referidos na alínea s) do artigo 6.º deverão existir, fornecidos pela entidade patronal:\n\nToalhas.\n\nCopo para dentes.\n\nEscova para dentes.\n\nPasta dentífrica.\n\nEscova para unhas.\n\nRecipientes com soluto de monossulfureto de sódio a 1/1000.\n\nSabão.\n\nPente.\n\nV\n\nCondições de laboração\n\nArt. 24.º No armazém de ácidos referido na alínea p) do artigo 6.º só poderão ser armazenados, além do ácido, água destilada e electrólito.\n\nArt. 25.º O transporte de recipientes com ácido não pode ser feito manualmente, mas apenas em carros especiais para esse fim.\n\nArt. 26.º O vazamento de recipientes com ácido não pode ser feito manualmente, devendo utilizar-se qualquer dos seguintes meios:\n\nCarro transportador com dispositivo especial de vazamento.\n\nSifões.\n\nAr comprimido a baixa pressão, usando todas as precauções a que este sistema obriga.\n\nBombas.\n\nArt. 27.º O vazamento de óxidos nos misturadores deve ser feito por forma a evitar que se espalhem poeiras na atmosfera.\n\nArt. 28.º Na secção referida na alínea e) do artigo 6.º deverá sempre haver sobre a bancada de empastamento uma toalha de água.\n\nArt. 29.º Na secção referida na alínea j) do artigo 6.º as soldaduras não poderão ser efectuadas a menos de 3 m das garrafas.\n\nArt. 30.º Nas secções referidas nas alíneas a), d), e), g), l) e p) (armazém de ácidos) do artigo 6.º é obrigatório o uso do material de protecção a que se refere o artigo 22.º, salvo os óculos, que só se tornam necessários quando os operários estiverem a manipular ácido ou electrólito.\n\nArt. 31.º Nas secções referidas nas alíneas c), d), h) e q) (armazém de placas) do artigo 6.º é obrigatório o uso de máscara quando estiverem a ser executadas operações que produzam poeiras.\n\nArt. 32.º Não podem ser utilizadas mulheres ou menores de 18 anos nas seguintes operações de fabrico:\n\nPreparação de electrólito ou manuseamento de ácido puro.\n\nFundição de armaduras.\n\nFundição de acessórios (só mulheres).\n\nFabricação e mistura de óxidos e preparação de pastas.\n\nEmpastamento.\n\nFormação de placas (só mulheres).\n\nCorte de tiradas e acabamento de placas (só mulheres).\n\nPreparação de lotes do fabrico de recipientes (só mulheres).\n\nMistura e fabrico de pastas e moldação, no fabrico de recipientes.\n\nArt. 33.º Em todas as secções referidas nas alíneas a) e s) do artigo 6.º, com excepção dos refeitórios, é expressamente proibida a entrada de comidas.\n\nArt. 34.º Nas secções referidas nas alíneas a) a q), excepto o), é expressamente proibido fumar.\n\nArt. 35.º Nas secções referidas nas alíneas g) e l) é expressamente proibido fazer lume, salvo aquele que resulte da operação de soldadura efectuada na secção g), a qual só deve ser iniciada depois de tomadas as convenientes precauções.\n\nArt. 36.º Todos os operários devem tomar, diàriamente, banho de chuveiro, lavando-se com sabão.\n\nArt. 37.º Todos os operários devem lavar muito bem, antes de comer, as mãos e a boca e bochechar com soluta de monossulfureto de sódio a 1/1000.\n\nArt. 38.º Nas secções referidas nas alíneas c), d), e) e h) do artigo 6.º as paredes e tectos deverão ser mantidos sempre limpos e as máquinas e pavimentos deverão ser lavados diàriamente, mantendo-se estes últimos sempre húmidos.\n\nArt. 39.º A limpeza das secções fabris só pode ser feita por aspiração ou por via húmida.\n\nVI\n\nMarcas de fabrico\n\nArt. 40.º Os acumuladores novos serão obrigatòriamente marcados de maneira bem visível e durável, em, pelo menos, uma das faces dos recipientes, com uma marca que identifique a entidade que o fabricou.\n\n§ único. Na face onde for aposta esta marca não poderá apor-se outra.\n\nArt. 41.º Nos acumuladores reconstruídos é obrigatória a destruição da marca e todos os outros indicativos do fabricante ou do anterior reconstrutor e a aposição de nova marca, numa das faces do recipiente, que identifique a entidade que o reconstruiu.\n\nArt. 42.º Na face do recipiente onde for aposta a marca referida nos artigos 40.º e 41.º ou noutra serão obrigatòriamente indicados o tipo, tensão e capacidade nominais e número total de placas.\n\nArt. 43.º São obrigatòriamente marcadas, de modo a ser possível a identificação do fabricante em qualquer momento, as placas, uniões e tampas.\n\nArt. 44.º Qualquer acumulador que seja aberto para reparação levará obrigatòriamente uma marca, aposta no recipiente ou nas uniões de ligação, que identifique a entidade que fez essa operação.\n\nArt. 45.º Dentro do prazo de um ano nenhum acumulador novo, reconstruído ou reparado poderá ser transaccionado sem estar devidamente marcado.\n\nArt. 46.º Os fabricantes, montadores e reconstrutores de acumuladores deverão enviar, em duplicado, à Direcção-Geral dos Serviços Industriais, no prazo de seis meses, uma descrição das marcas que usam.\n\nArt. 47.º Todas as empresas que se dediquem ao fabrico, montagem, ou reconstrução de acumuladores devem editar uma tabela donde constem, pelo menos, as seguintes características de todos os acumuladores que fabricam, montam ou reconstroem:\n\nTensão nominal.\n\nCapacidade nominal expressa de acordo com as normas utilizadas.\n\nTipo de bateria.\n\nDimensões exteriores do recipiente.\n\nNúmero de placas.\n\nArt. 48.º Todas as empresas que fabriquem e vendam placas devem editar uma tabela donde constem, pelo menos, as seguintes características:\n\nTipo.\n\nCapacidade por placa positiva.\n\nDimensões.\n\nPeso.\n\nVII\n\nCaracterísticas dos produtos\n\nArt. 49.º É obrigatória a conformidade de todos os acumuladores, novos ou reconstruídos, com as normas portuguesas que vierem a ser editadas, quanto às suas características.\n\n§ 1.º Enquanto não forem editadas normas portuguesas, os acumuladores eléctricos de chumbo, «tipo arranque», obedecerão obrigatòriamente às Recomendações para os Acumuladores de Chumbo Tipo Arranque, editadas pela Comissão Electrotécnica Internacional.\n\n§ 2.º Para os outros tipos de acumuladores eléctricos de chumbo o fabricante é obrigado a indicar as normas de fabricação e de verificação de características seguidas na sua produção.\n\nArt. 50.º Os diversos constituintes de um acumulador eléctrico devem possuir os requisitos necessários para que o acumulador com eles montado esteja em conformidade com as normas.\n\nVIII\n\nFiscalização\n\nArt. 51.º A fiscalização do cumprimento das prescrições contidas no presente regulamento compete à Direcção-Geral dos Serviços Industriais, sem prejuízo das atribuições da Direcção-Geral de Saúde e da Inspecção-Geral dos Produtos Agrícolas e Industriais.\n\nArt. 52.º Compete à Direcção-Geral dos Serviços Industriais a imposição das condições necessárias ao efectivo cumprimento do disposto neste regulamento, bem como as providências destinadas a impedir o exercício da indústria de acumuladores eléctricos de chumbo em contrário do que no mesmo se prescreve.\n\nIX\n\nDisposições transitórias\n\nArt. 53.º Os estabelecimentos que se dediquem à indústria de acumuladores eléctricos de chumbo, actualmente licenciados ou com processos em curso, cujas instalações e equipamento não obedeçam às prescrições do presente regulamento terão de ser alterados ou transferidos, no prazo de dois anos, por forma a satisfazerem às mesmas prescrições. Caso contrário caducará o respectivo alvará e será impedido o seu funcionamento.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 8 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Alves de Carvalho Fernandes."
+  },
+  "9038e15814d792b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A indústria de acumuladores eléctricos tem particular importância em vários sectores da vida do País, tais como transportes, telecomunicações, defesa nacional, centrais eléctricas e redes de distribuição de energia eléctrica.\n\nEsta indústria está subordinada, em quase todos os países, a normas de salubridade, fabricação e qualidade, já porque apresenta sérios riscos para a saúde do pessoal que nela trabalha, quando não são adoptadas as necessárias medidas de profilaxia e de prevenção, já porque a qualidade dos seus produtos não é fácil de verificar pelos consumidores no momento da compra.\n\nPor outro lado, a concorrência internacional levada a cabo por unidades fabris bem dimensionadas e bem apetrechadas, com quadros de pessoal de elevado nível técnico e com largos mercados à sua disposição, torna indispensável, para que a indústria nacional possa sobreviver, que se promova uma remodelação profunda que, além de assegurar ao seu pessoal boas condições higiénicas de trabalho, com as protecções adequadas, leve as instalações fabris nacionais, por um apetrechamento racional e bem dimensionado, a poder fabricar produtos de boa qualidade e a preços económicos.\n\nEspera-se, com esta remodelação, que as empresas mais pequenas se agrupem de modo a formarem unidades industriais de maior volume, melhor apetrechamento e mais elevado nível técnico e que, por outro lado, as fábricas já hoje com dimensões convenientes venham a aperfeiçoar as suas condições de produção.\n\nNestes termos e de acordo com a base V da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalhe/lei/2052-1952-597284), de 11 de Março de 1952;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nRegulamento do Exercício da Indústria de Acumuladores Eléctricos de Chumbo\n\nI\n\nDisposições gerais"
+  },
+  "c7b47da16ea46863": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "3adc97666e241df3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "eb5d56e79a626dc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 75/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1974-261929), publicado em 1974-02-28."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 75/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1974-261929), publicado em 1974-02-28."
+  },
+  "0e96e7a3007a9bb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "e67bc4b739d33b12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.\n\nII\n\nCondições técnicas"
+  },
+  "e5fcd274ac4d94ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "f5a85fac397727e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.\n\nIII\n\nCondições de segurança e salubridade"
+  },
+  "cfc7532ec5b005b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "bcb32d16ebaa703d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "9e53e031020b93bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "ce3c120abda4f909": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 11.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "62915d8ade0a1378": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "1f1b4baeb9230eba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 13.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "d3ffdc444b4d20af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 14.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "47073415ad0b1985": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 15.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.\n\nIV\n\nResguardos do equipamento e protecção para operários"
+  },
+  "5971e25bd8ab4302": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 16.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "7ee32bff87184b7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 17.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "4c9b1744f8c16c61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 18.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "cb342fb797524ec8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "fff0c99fc402cceb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 20.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "e9a5d4627c234aab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 21.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "81aff2d3332baeb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 22.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "119b41b436303180": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 23.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.\n\nV\n\nCondições de laboração"
+  },
+  "4aa3c17d6349cbde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 24.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "209faa0ccb1a9e74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 25.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "5155e2545a65a6fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 26.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "ffc1f46895c86c8f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 27.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "6efcdfaaa1732063": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 28.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "7c52830c253c923e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 29.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "b0f175e709054444": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 30.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "c686c8415304a0c8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 31.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "a52c489ff6150944": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 32.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "09e23935a06ed7ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 33.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "6777d1c6d6b1e8c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 34.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "9f746a4f9dbd59cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 35.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "8aeaed134c2be008": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 36.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "4ce7dd33eddf6f9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 37.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "36442be347de0be9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 38.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "df0ccaa3df7fe865": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 39.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.\n\nVI\n\nMarcas de fabrico"
+  },
+  "010b4f58fee15124": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 40.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "a793893ced2e7144": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 41.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "9ab3c169cc1651b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 42.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "1810f9967645eafe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 43.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "a2386211141c83d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 44.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "2309cd4d6641609b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 45.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "1c475f004bd5698d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 46.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "f9e70000f0fb35ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 47.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "9330f13558beb60c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 48.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.\n\nVII\n\nCaracterísticas dos produtos"
+  },
+  "6b1c0fe8c88dd7e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 49.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "2adce60723534e65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 50.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.\n\nVIII\n\nFiscalização"
+  },
+  "172119861780afba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 51.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+  },
+  "a605cb43b8f99dd1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 52.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.\n\nIX\n\nDisposições transitórias"
+  },
+  "f8e71b171e781e01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º",
+   "in_force_from": "1975-02-04",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04."
+   ],
+   "markdown": "###### Artigo 53.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 50/75](https://diariodarepublica.pt/dr/detalhe/decreto/50-1975-159536), publicado em 1975-02-04.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 8 de Junho de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Alves de Carvalho Fernandes."
+  }
+ }
+}

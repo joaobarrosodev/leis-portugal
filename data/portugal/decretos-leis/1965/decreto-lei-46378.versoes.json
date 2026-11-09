@@ -1,0 +1,299 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:296231:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1965-06-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6b0c878216f02344"
+   ]
+  },
+  {
+   "date": "1968-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:263974:por",
+     "title": "Decreto-Lei n.º 48630",
+     "published": "1968-10-15",
+     "dre_path": "/dr/detalhe/decreto-lei/48630-1968-263974"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "9d8de82e0ee00045",
+    "dc15a6f6c14351e0",
+    "d575b28ff9ef6322",
+    "97560f64df02bb59",
+    "86c8879331772ffa",
+    "6e82a1e3feccb355",
+    "8443c33f50276dfb",
+    "94c13fa40f0ae911",
+    "b68a38b72173ac9a",
+    "4bfbc11cfbb8cbbd",
+    "90d06ca9bc67b02f",
+    "d2cca1bed3bef85a",
+    "3631c0affa649865",
+    "dc050bd74fadcf2e",
+    "0b82d4a8a4add904",
+    "e626a2ddc64b115f",
+    "cef1ff836e9d9d96",
+    "0de5787f4fb70e71",
+    "0c4b1e4d66add6a8",
+    "71d7cae66b265402",
+    "acd256fb69fd90b2",
+    "08f78c032b66af01",
+    "596e29489693c59a",
+    "e1f4cc0b281741f9",
+    "467f20bde45bd580",
+    "2bfbaca09a52e53b",
+    "bb2e7a34f4c1a654",
+    "8a5954c241cb06de"
+   ]
+  }
+ ],
+ "fragments": {
+  "6b0c878216f02344": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Conforme se dispõe no n.º 2 da base XIII da [Lei n.º 2123](https://diariodarepublica.pt/dr/detalhe/lei/2123-1964-535034), de 14 de Dezembro de 1964, que estabelece o condicionalismo a que deve obedecer a execução do Plano Intercalar de Fomento, compete ao Governo de cada província ultramarina a mobilização dos recursos da província ou dos que devam obter-se nela para financiamento do Plano.\n\nEm obediência ao mencionado princípio, visa-se com o presente diploma a criação de um instrumento susceptível de assegurar a atracção e utilização de poupanças privadas constituídas em Angola na cobertura financeira do Plano Intercalar de Fomento daquela província, ao mesmo tempo que se dá um passo significativo no sentido de promover o aperfeiçoamento do mercado angolano de capitais. Nesta orientação, importa salientar que, por esta forma, se abre também aos investidores institucionais da referida província uma nova possibilidade de alargamento e diversificação da sua carteira de títulos.\n\nPor outro lado, a faculdade, que no diploma ficou prevista, de subscrição de obrigações da dívida pública de Angola por investidores residentes noutros territórios nacionais - nomeadamente pela utilização de fundos obtidos em operações com aquela província - poderá constituir uma contribuição positiva para a atenuação das pressões que se têm exercido sobre as disponibilidades do Fundo Cambial da província em meios de pagamento sobre o exterior.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Fica o governador-geral de Angola autorizado a contrair, naquela província, um empréstimo amortizável denominado «Obrigações do Tesouro de Angola, 5 por cento, 1965, Plano Intercalar de Fomento para 1965-1967» até à importância total nominal de 1 milhão de contos, cujo produto se destina a financiar empreendimentos económicos incluídos no Plano Intercalar do respectivo território.\n\nArt. 2.º As obrigações deste empréstimo gozarão do aval do Estado, que garante o integral pagamento do seu capital e juros, nos termos estabelecidos por este diploma.\n\nArt. 3.º As séries do empréstimo a que alude o artigo 1.º serão emitidas por meio de obrigação geral, organizada pela Direcção Provincial dos Serviços de Fazenda e Contabilidade de Angola, de harmonia com o presente diploma, assinada pelo governador-geral da província e visada pelo respectivo Tribunal Administrativo, como Tribunal de Contas, e da qual constará a declaração, assinada pelo Ministro das Finanças, de que a Nação Portuguesa se constitui garante e principal pagadora, dando o aval do Estado, nos termos atrás referidos, à respectiva obrigação geral.\n\nArt. 4.º Este empréstimo, cujo serviço fica a cargo da Direcção Provincial dos Serviços de Fazenda e Contabilidade de Angola, desdobrar-se-á em séries de 100000 contos, como for determinado pelos Ministros das Finanças e do Ultramar nos diplomas que autorizarem a emissão das correspondentes obrigações gerais.\n\nArt. 5.º - 1. A representação do empréstimo far-se-á em obrigações do valor nominal de 1000$00, em títulos de cupão, ao portador, de uma, cinco e dez obrigações.\n\n2. Os títulos referidos no n.º 1 deste artigo levarão a assinatura de chancela do governador-geral da província, serão autenticados por aposição do selo branco da Direcção Provincial dos Serviços de Fazenda e Contabilidade e conterão ainda a assinatura autógrafa do director dos mesmos serviços.\n\n3. Excepcionalmente, poderão ser provisórios os títulos das primeiras séries emitidas, fazendo-se a sua substituição, no prazo máximo de um ano, por títulos definitivos.\n\nArt. 6.º - 1. Cada série deste empréstimo deverá ser obrigatòriamente amortizada ao par, por sorteio, em catorze anuidades iguais de 6700 contos e uma, que será a última, de 6200 contos, realizando-se a primeira amortização seis anos depois da data da respectiva emissão.\n\n2. O governador-geral da província poderá antecipar a amortização das obrigações em qualquer altura, mediante prévia autorização conjunta dos Ministros das Finanças e do Ultramar, ou efectuar, nos mesmos termos, quaisquer amortizações extraordinárias.\n\nArt. 7.º - 1. O juro das obrigações de que trata o presente diploma será de 5 por cento ao ano, pagável aos semestres, em 15 de Janeiro e 15 de Julho, vencendo-se o primeiro juro das obrigações de cada série numa destas datas, que se indicará expressamente no diploma que autorize a emissão da respectiva obrigação geral.\n\n2. Do mesmo diploma constará a data da primeira amortização de cada série.\n\nArt. 8.º - 1. As obrigações representativas deste empréstimo gozarão dos seguintes direitos, isenções e garantias:\n\na) Pagamento integral dos juros e reembolsos, a partir do vencimento ou amortização, por força das receitas gerais da província de Angola e de harmonia com o preceituado nos n.os II e III da base LVI e na alínea a) do n.º II da base LXI da Lei Orgânica do Ultramar Português;\n\nb) Isenção de todos os impostos, quer ordinários, quer extraordinários, sobre o capital ou juro, inclusive os de selo, salvo o imposto sobre as sucessões e doações, quando devido pela transmissão do capital;\n\nc) Impenhorabilidade, excepto quando voluntàriamente oferecidas;\n\nd) Recebimento por antecipação, dentro do bimestre anterior ao vencimento, de juros correspondentes ao tempo decorrido, mediante pagamento de um prémio sobre a importância antecipada, calculado à taxa de desconto do Banco de Angola e tendo em conta o tempo que faltar para o referido vencimento.\n\n2. Só gozam da isenção consignada na alínea b) os títulos de que sejam detentores pessoas residentes no continente e ilhas adjacentes e na província de Angola.\n\nArt. 9.º Por portaria dos Ministros das Finanças e do Ultramar far-se-á o desdobramento a que se refere o artigo 4.º em séries sucessivas ou simultâneas, consoante se julgar oportuno, e determinar-se-á a emissão das obrigações gerais correspondentes.\n\nArt. 10.º Poderá o governador-geral da província de Angola contratar com o Banco de Angola ou com outras instituições de crédito da província a colocação, no todo ou em parte, dos títulos ou fazê-la por subscrição pública ou por venda no mercado, não devendo, porém, o encargo efectivo do empréstimo, excluídas as despesas da sua representação, exceder 5 1/4 por cento.\n\nArt. 11.º - 1. No exercício das atribuições que lhe competem por força da alínea e) do § 2.º do artigo 25.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963, e da cláusula V do contrato celebrado com o Estado em 23 de Fevereiro de 1963, e de harmonia com o disposto na alínea b) do n.º 6.º do artigo 25.º dos seus estatutos, deverá o Banco de Angola conceder empréstimos caucionados com obrigações emitidas ao abrigo do presente diploma às instituições de crédito da província referidas nas alíneas a), c) e d) do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).\n\n2. Os empréstimos referidos no n.º 1 deste artigo deverão ser concedidos no quantitativo solicitado pelas mencionadas instituições de crédito, o qual não poderá exceder, relativamente a cada uma delas, o montante do respectivo capital e reservas.\n\n3. Para efeitos da concessão dos empréstimos caucionados de que trata o presente artigo, a percentagem do valor dos títulos oferecidos em penhor corresponderá sempre ao limite máximo fixado na alínea c) do § 2.º do artigo 27.º dos estatutos do Banco de Angola, sendo aquela percentagem calculada em relação ao valor nominal dos títulos enquanto estes não tiverem cotação em bolsa de valores criada em Angola.\n\n4. A taxa de juro reguladora destas operações será estabelecida pelo Banco de Angola nos termos do § 2.º da cláusula V do referido contrato de 23 de Fevereiro de 1963, não podendo, porém, o delegado do Governo junto daquele Banco dar o seu acordo à mesma taxa se o seu quantitativo, incluindo eventuais comissões e outros encargos, exceder metade da taxa de desconto directo praticada pelo Banco de Angola, acrescida de 0,5 por cento.\n\nArt. 12.º Fica o Ministro do Ultramar autorizado, atendendo à evolução dos mercados monetário e financeiro da província de Angola, sob parecer do banco emissor prestado nos termos do § 3.º do artigo 25.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), e ouvido o Conselho Nacional de Crédito, a alterar por portaria as condições determinantes, segundo os n.os 2 e 3 do artigo anterior, do montante dos empréstimos a conceder pelo Banco de Angola às instituições de crédito mencionadas naquele artigo, bem como o quantitativo máximo da taxa de juro a que o delegado do Governo poderá dar o seu acordo nos termos do n.º 4 da mesma disposição.\n\nArt. 13.º - 1. É vedado aos bancos emissores das províncias ultramarinas adquirir obrigações do empréstimo regulado pelo presente diploma, salvo por efeito de subscrição para colocação no mercado ou no caso de reembolso de crédito próprio, por qualquer meio legal de aquisição, incluindo a arrematação judicial.\n\n2. Os bancos emissores deverão alienar, no prazo que julgarem compatível com os seus interesses, as obrigações adquiridas nos termos e para os fins previstos no n.º 1 deste artigo, as quais não vencerão quaisquer juros enquanto permanecerem na titularidade dos mesmos bancos.\n\n3. Para os efeitos do número anterior, os mesmos bancos deverão comunicar à Direcção Provincial dos Serviços de Fazenda e Contabilidade de Angola o quantitativo e a identificação dos títulos adquiridos, bem como as respectivas datas de aquisição e posterior alienação, e apresentar, na mesma Direcção, as obrigações de que forem titulares nas datas dos vencimentos dos juros para que se proceda à anulação dos respectivos cupões.\n\nArt. 14.º - 1. No orçamento da província de Angola serão inscritas as verbas indispensáveis para ocorrer aos encargos das diferentes séries, a emitir, do empréstimo autorizado por este decreto-lei.\n\n2. As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais, inscritas nos orçamentos dos anos económicos em que tiverem lugar.\n\nArt. 15.º - 1. As obrigações emitidas em Angola, nos termos do presente diploma, podem ser adquiridas por residentes em qualquer outro território nacional.\n\n2. As operações de importação e exportação de capitais privados inerentes à aquisição prevista no n.º 1 do presente artigo serão realizadas de conformidade com o disposto no artigo 22.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962.\n\nArt. 16.º - 1. O produto da exportação de mercadorias para Angola, em proveniência de qualquer outro território nacional, poderá, com dispensa do preceituado no artigo 9.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), ser total ou parcialmente utilizado na aquisição de obrigações emitidas ao abrigo do presente diploma, desde que ambos os intervenientes naquela operação solicitem a competente autorização à Inspecção de Crédito e Seguros de Angola.\n\n2. Os exportadores de mercadorias que pretendam prevalecer-se das facilidades consignadas no n.º 1 do presente artigo deverão igualmente solicitar à entidade que, no seu território de residência, estiver encarregada do licenciamento das operações de capital a necessária autorização, nos termos do artigo 22.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).\n\n3. Na hipótese contemplada neste artigo deverá seguir-se, com as convenientes adaptações, o processo previsto no artigo 10.º e seu parágrafo do [Decreto n.º 44890](https://diariodarepublica.pt/dr/detalhe/decreto/44890-1963-145866), de 20 de Fevereiro de 1963.\n\nArt. 17.º - 1. O produto da liquidação de operações de invisíveis correntes que impliquem pagamentos por residentes em Angola a residentes noutros territórios nacionais poderá, com dispensa do preceituado no artigo 15.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), ser, total ou parcialmente, utilizado na aquisição de obrigações emitidas ao abrigo do presente diploma, desde que ambos os intervenientes naquela operação solicitem a competente autorização à Inspecção de Crédito e Seguros de Angola.\n\n2. Os intervenientes em operações de invisíveis correntes que ficarem constituídos credores de um residente na província de Angola e pretendam prevalecer-se das facilidades consignadas no n.º 1 do presente artigo deverão igualmente solicitar à entidade que, no seu território de residência, estiver encarregada do licenciamento das operações de capital a necessária autorização, nos termos do artigo 22.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).\n\nArt. 18.º - 1. O regime estabelecido pelos artigos 16.º e 17.º do presente decreto-lei será, nos termos aí consignados, aplicável ao produto das operações já realizadas com a província de Angola, mas para cuja liquidação não foi ainda executada a competente transferência de fundos.\n\n2. O mesmo regime aplica-se, com as adaptações convenientes, às operações realizadas anteriormente a 1 de Março de 1963.\n\nArt. 19.º As autorizações solicitadas nos termos dos artigos 15.º, 16.º e 17.º deverão ser sempre concedidas pelas respectivas autoridades.\n\nArt. 20.º Nos casos contemplados nos artigos 16.º a 18.º do presente decreto-lei, as importâncias adstritas à aquisição de obrigações serão, uma vez cumpridas as formalidades por eles impostas, creditadas em contas especiais abertas no banco emissor da província de Angola.\n\nArt. 21.º - 1. As contas especiais a que alude o artigo anterior só poderão ser abertas pelo banco emissor da província de Angola a favor dos residentes noutros territórios nacionais que se encontrem nas condições previstas nos artigos 15.º a 18.º deste decreto-lei e apenas deverão ser movimentadas, a débito, por contrapartida da aquisição de obrigações pelos respectivos titulares.\n\n2. As ordens para a aquisição das mencionadas obrigações serão dadas, com dispensa de quaisquer formalidades, pelos titulares das contas ao Banco de Angola, quer directamente, quer, para o caso dos residentes no continente e ilhas adjacentes, por intermédio dos serviços da sede daquele banco em Lisboa.\n\nArt. 22.º - 1. A Inspecção de Crédito e Seguros de Angola, por um lado, e cada uma das entidades responsáveis pelo licenciamento das operações de capitais nos restantes territórios, por outro, deverão conceder as autorizações que lhes forem solicitadas pelos portadores de obrigações emitidas ao abrigo do presente diploma, com vista à exportação dos respectivos títulos para o território da sua residência, desde que os mesmos tenham sido adquiridos de conformidade com o disposto nos artigos 15.º a 18.º deste decreto-lei.\n\n2. A Inspecção de Crédito e Seguros de Angola aporá em todas as obrigações cuja exportação permitir carimbo indicativo dessa autorização, referindo, nomeadamente, o território nacional para onde a exportação foi autorizada.\n\nArt. 23.º - 1. As obrigações emitidas em Angola, de harmonia com o estabelecido no presente diploma, são transmissíveis por todos os modos admitidos em direito, mas só podem negociar-se fora daquela província os títulos que tiverem sido legalmente exportados para o território onde se realizarem as transacções.\n\n2. Os intervenientes em operações efectuadas em contravenção do disposto no n.º 1 do presente artigo incorrem nas penalidades previstas nos artigos 89.º e seguintes do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.\n\nArt. 24.º A Inspecção de Crédito e Seguros de Angola deverá conceder as autorizações que lhe forem solicitadas em vista à transferência dos juros do empréstimo previsto neste decreto-lei para os territórios da residência dos portadores das respectivas obrigações, desde que as mesmas tenham sido exportadas para esses territórios em conformidade com o previsto no artigo 22.º\n\nArt. 25.º A Inspecção de Crédito e Seguros de Angola, por um lado, e cada uma das entidades responsáveis pelo licenciamento das operações de capitais nos restantes territórios, por outro, deverão conceder as autorizações que lhes forem solicitadas, com vista à transferência do produto das amortizações do empréstimo previsto neste decreto-lei para os territórios de residência dos portadores das respectivas obrigações, desde que as mesmas tenham sido exportadas para esses territórios em conformidade com o previsto no artigo 22.º\n\nArt. 26.º As transferências a que se referem os artigos 24.º e 25.º do presente decreto-lei serão executadas, relativamente a cada território nacional, com absoluta prioridade sobre todos os outros pagamentos a efectuar por Angola a esse território.\n\nArt. 27.º As obrigações de que trata o presente diploma serão admitidas à cotação nas bolsas de valores existentes no território nacional, com dispensa de todos os encargos, incluindo emolumentos e imposto do selo.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 11 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha."
+  },
+  "9d8de82e0ee00045": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Conforme se dispõe no n.º 2 da base XIII da [Lei n.º 2123](https://diariodarepublica.pt/dr/detalhe/lei/2123-1964-535034), de 14 de Dezembro de 1964, que estabelece o condicionalismo a que deve obedecer a execução do Plano Intercalar de Fomento, compete ao Governo de cada província ultramarina a mobilização dos recursos da província ou dos que devam obter-se nela para financiamento do Plano.\n\nEm obediência ao mencionado princípio, visa-se com o presente diploma a criação de um instrumento susceptível de assegurar a atracção e utilização de poupanças privadas constituídas em Angola na cobertura financeira do Plano Intercalar de Fomento daquela província, ao mesmo tempo que se dá um passo significativo no sentido de promover o aperfeiçoamento do mercado angolano de capitais. Nesta orientação, importa salientar que, por esta forma, se abre também aos investidores institucionais da referida província uma nova possibilidade de alargamento e diversificação da sua carteira de títulos.\n\nPor outro lado, a faculdade, que no diploma ficou prevista, de subscrição de obrigações da dívida pública de Angola por investidores residentes noutros territórios nacionais - nomeadamente pela utilização de fundos obtidos em operações com aquela província - poderá constituir uma contribuição positiva para a atenuação das pressões que se têm exercido sobre as disponibilidades do Fundo Cambial da província em meios de pagamento sobre o exterior.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "dc15a6f6c14351e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nFica o governador-geral de Angola autorizado a contrair, naquela província, um empréstimo amortizável denominado «Obrigações do Tesouro de Angola, 5 por cento, 1965, Plano Intercalar de Fomento para 1965-1967» até à importância total nominal de 1 milhão de contos, cujo produto se destina a financiar empreendimentos económicos incluídos no Plano Intercalar do respectivo território."
+  },
+  "d575b28ff9ef6322": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs obrigações deste empréstimo gozarão do aval do Estado, que garante o integral pagamento do seu capital e juros, nos termos estabelecidos por este diploma."
+  },
+  "97560f64df02bb59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs séries do empréstimo a que alude o artigo 1.º serão emitidas por meio de obrigação geral, organizada pela Direcção Provincial dos Serviços de Fazenda e Contabilidade de Angola, de harmonia com o presente diploma, assinada pelo governador-geral da província e visada pelo respectivo Tribunal Administrativo, como Tribunal de Contas, e da qual constará a declaração, assinada pelo Ministro das Finanças, de que a Nação Portuguesa se constitui garante e principal pagadora, dando o aval do Estado, nos termos atrás referidos, à respectiva obrigação geral."
+  },
+  "86c8879331772ffa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nEste empréstimo, cujo serviço fica a cargo da Direcção Provincial dos Serviços de Fazenda e Contabilidade de Angola, desdobrar-se-á em séries de 100000 contos, como for determinado pelos Ministros das Finanças e do Ultramar nos diplomas que autorizarem a emissão das correspondentes obrigações gerais."
+  },
+  "6e82a1e3feccb355": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1968-10-15",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 48630](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48630-1968-263974), publicado em 1968-10-15."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1. A representação do empréstimo far-se-á em obrigações de valor nominal de 1000$00, em títulos de cupão, ao portador, de 1, 5, 10, 50 e 100 obrigações e em certificados de divida inscrita.\n\n2. Cada certificado de dívida inscrita poderá representar qualquer número de obrigações e ser nominativo ou assentado ao portador.\n\n3. Os títulos e certificados referidos no n.º 1 deste artigo levarão a assinatura de chancela do governador-geral da província, serão autenticados por aposição do selo branco da Direcção Provincial dos Serviços de Fazenda e Contabilidade e conterão ainda a assinatura autógrafa do director dos mesmos Serviços.\n\n4. Os certificados de dívida inscrita, a que se refere o n.º 1 do presente artigo, poderão ser desdobrados mediante pedido fundamentado dos seus titulares.\n\n> Alterado pelo/a [Decreto-Lei n.º 48630](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48630-1968-263974), publicado em 1968-10-15."
+  },
+  "8443c33f50276dfb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Cada série deste empréstimo deverá ser obrigatòriamente amortizada ao par, por sorteio, em catorze anuidades iguais de 6700 contos e uma, que será a última, de 6200 contos, realizando-se a primeira amortização seis anos depois da data da respectiva emissão.\n\n2. O governador-geral da província poderá antecipar a amortização das obrigações em qualquer altura, mediante prévia autorização conjunta dos Ministros das Finanças e do Ultramar, ou efectuar, nos mesmos termos, quaisquer amortizações extraordinárias."
+  },
+  "94c13fa40f0ae911": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O juro das obrigações de que trata o presente diploma será de 5 por cento ao ano, pagável aos semestres, em 15 de Janeiro e 15 de Julho, vencendo-se o primeiro juro das obrigações de cada série numa destas datas, que se indicará expressamente no diploma que autorize a emissão da respectiva obrigação geral.\n\n2. Do mesmo diploma constará a data da primeira amortização de cada série."
+  },
+  "b68a38b72173ac9a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As obrigações representativas deste empréstimo gozarão dos seguintes direitos, isenções e garantias:\n\na) Pagamento integral dos juros e reembolsos, a partir do vencimento ou amortização, por força das receitas gerais da província de Angola e de harmonia com o preceituado nos n.os II e III da base LVI e na alínea a) do n.º II da base LXI da Lei Orgânica do Ultramar Português;\n\nb) Isenção de todos os impostos, quer ordinários, quer extraordinários, sobre o capital ou juro, inclusive os de selo, salvo o imposto sobre as sucessões e doações, quando devido pela transmissão do capital;\n\nc) Impenhorabilidade, excepto quando voluntàriamente oferecidas;\n\nd) Recebimento por antecipação, dentro do bimestre anterior ao vencimento, de juros correspondentes ao tempo decorrido, mediante pagamento de um prémio sobre a importância antecipada, calculado à taxa de desconto do Banco de Angola e tendo em conta o tempo que faltar para o referido vencimento.\n\n2. Só gozam da isenção consignada na alínea b) os títulos de que sejam detentores pessoas residentes no continente e ilhas adjacentes e na província de Angola."
+  },
+  "4bfbc11cfbb8cbbd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nPor portaria dos Ministros das Finanças e do Ultramar far-se-á o desdobramento a que se refere o artigo 4.º em séries sucessivas ou simultâneas, consoante se julgar oportuno, e determinar-se-á a emissão das obrigações gerais correspondentes."
+  },
+  "90d06ca9bc67b02f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nPoderá o governador-geral da província de Angola contratar com o Banco de Angola ou com outras instituições de crédito da província a colocação, no todo ou em parte, dos títulos ou fazê-la por subscrição pública ou por venda no mercado, não devendo, porém, o encargo efectivo do empréstimo, excluídas as despesas da sua representação, exceder 5 1/4 por cento."
+  },
+  "d2cca1bed3bef85a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. No exercício das atribuições que lhe competem por força da alínea e) do § 2.º do artigo 25.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963, e da cláusula V do contrato celebrado com o Estado em 23 de Fevereiro de 1963, e de harmonia com o disposto na alínea b) do n.º 6.º do artigo 25.º dos seus estatutos, deverá o Banco de Angola conceder empréstimos caucionados com obrigações emitidas ao abrigo do presente diploma às instituições de crédito da província referidas nas alíneas a), c) e d) do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).\n\n2. Os empréstimos referidos no n.º 1 deste artigo deverão ser concedidos no quantitativo solicitado pelas mencionadas instituições de crédito, o qual não poderá exceder, relativamente a cada uma delas, o montante do respectivo capital e reservas.\n\n3. Para efeitos da concessão dos empréstimos caucionados de que trata o presente artigo, a percentagem do valor dos títulos oferecidos em penhor corresponderá sempre ao limite máximo fixado na alínea c) do § 2.º do artigo 27.º dos estatutos do Banco de Angola, sendo aquela percentagem calculada em relação ao valor nominal dos títulos enquanto estes não tiverem cotação em bolsa de valores criada em Angola.\n\n4. A taxa de juro reguladora destas operações será estabelecida pelo Banco de Angola nos termos do § 2.º da cláusula V do referido contrato de 23 de Fevereiro de 1963, não podendo, porém, o delegado do Governo junto daquele Banco dar o seu acordo à mesma taxa se o seu quantitativo, incluindo eventuais comissões e outros encargos, exceder metade da taxa de desconto directo praticada pelo Banco de Angola, acrescida de 0,5 por cento."
+  },
+  "3631c0affa649865": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nFica o Ministro do Ultramar autorizado, atendendo à evolução dos mercados monetário e financeiro da província de Angola, sob parecer do banco emissor prestado nos termos do § 3.º do artigo 25.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), e ouvido o Conselho Nacional de Crédito, a alterar por portaria as condições determinantes, segundo os n.os 2 e 3 do artigo anterior, do montante dos empréstimos a conceder pelo Banco de Angola às instituições de crédito mencionadas naquele artigo, bem como o quantitativo máximo da taxa de juro a que o delegado do Governo poderá dar o seu acordo nos termos do n.º 4 da mesma disposição."
+  },
+  "dc050bd74fadcf2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. É vedado aos bancos emissores das províncias ultramarinas adquirir obrigações do empréstimo regulado pelo presente diploma, salvo por efeito de subscrição para colocação no mercado ou no caso de reembolso de crédito próprio, por qualquer meio legal de aquisição, incluindo a arrematação judicial.\n\n2. Os bancos emissores deverão alienar, no prazo que julgarem compatível com os seus interesses, as obrigações adquiridas nos termos e para os fins previstos no n.º 1 deste artigo, as quais não vencerão quaisquer juros enquanto permanecerem na titularidade dos mesmos bancos.\n\n3. Para os efeitos do número anterior, os mesmos bancos deverão comunicar à Direcção Provincial dos Serviços de Fazenda e Contabilidade de Angola o quantitativo e a identificação dos títulos adquiridos, bem como as respectivas datas de aquisição e posterior alienação, e apresentar, na mesma Direcção, as obrigações de que forem titulares nas datas dos vencimentos dos juros para que se proceda à anulação dos respectivos cupões."
+  },
+  "0b82d4a8a4add904": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. No orçamento da província de Angola serão inscritas as verbas indispensáveis para ocorrer aos encargos das diferentes séries, a emitir, do empréstimo autorizado por este decreto-lei.\n\n2. As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais, inscritas nos orçamentos dos anos económicos em que tiverem lugar."
+  },
+  "e626a2ddc64b115f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. As obrigações emitidas em Angola, nos termos do presente diploma, podem ser adquiridas por residentes em qualquer outro território nacional.\n\n2. As operações de importação e exportação de capitais privados inerentes à aquisição prevista no n.º 1 do presente artigo serão realizadas de conformidade com o disposto no artigo 22.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962."
+  },
+  "cef1ff836e9d9d96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. O produto da exportação de mercadorias para Angola, em proveniência de qualquer outro território nacional, poderá, com dispensa do preceituado no artigo 9.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), ser total ou parcialmente utilizado na aquisição de obrigações emitidas ao abrigo do presente diploma, desde que ambos os intervenientes naquela operação solicitem a competente autorização à Inspecção de Crédito e Seguros de Angola.\n\n2. Os exportadores de mercadorias que pretendam prevalecer-se das facilidades consignadas no n.º 1 do presente artigo deverão igualmente solicitar à entidade que, no seu território de residência, estiver encarregada do licenciamento das operações de capital a necessária autorização, nos termos do artigo 22.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460).\n\n3. Na hipótese contemplada neste artigo deverá seguir-se, com as convenientes adaptações, o processo previsto no artigo 10.º e seu parágrafo do [Decreto n.º 44890](https://diariodarepublica.pt/dr/detalhe/decreto/44890-1963-145866), de 20 de Fevereiro de 1963."
+  },
+  "0de5787f4fb70e71": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. O produto da liquidação de operações de invisíveis correntes que impliquem pagamentos por residentes em Angola a residentes noutros territórios nacionais poderá, com dispensa do preceituado no artigo 15.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), ser, total ou parcialmente, utilizado na aquisição de obrigações emitidas ao abrigo do presente diploma, desde que ambos os intervenientes naquela operação solicitem a competente autorização à Inspecção de Crédito e Seguros de Angola.\n\n2. Os intervenientes em operações de invisíveis correntes que ficarem constituídos credores de um residente na província de Angola e pretendam prevalecer-se das facilidades consignadas no n.º 1 do presente artigo deverão igualmente solicitar à entidade que, no seu território de residência, estiver encarregada do licenciamento das operações de capital a necessária autorização, nos termos do artigo 22.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460)."
+  },
+  "0c4b1e4d66add6a8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1. O regime estabelecido pelos artigos 16.º e 17.º do presente decreto-lei será, nos termos aí consignados, aplicável ao produto das operações já realizadas com a província de Angola, mas para cuja liquidação não foi ainda executada a competente transferência de fundos.\n\n2. O mesmo regime aplica-se, com as adaptações convenientes, às operações realizadas anteriormente a 1 de Março de 1963."
+  },
+  "71d7cae66b265402": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nAs autorizações solicitadas nos termos dos artigos 15.º, 16.º e 17.º deverão ser sempre concedidas pelas respectivas autoridades."
+  },
+  "acd256fb69fd90b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nNos casos contemplados nos artigos 16.º a 18.º do presente decreto-lei, as importâncias adstritas à aquisição de obrigações serão, uma vez cumpridas as formalidades por eles impostas, creditadas em contas especiais abertas no banco emissor da província de Angola."
+  },
+  "08f78c032b66af01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. As contas especiais a que alude o artigo anterior só poderão ser abertas pelo banco emissor da província de Angola a favor dos residentes noutros territórios nacionais que se encontrem nas condições previstas nos artigos 15.º a 18.º deste decreto-lei e apenas deverão ser movimentadas, a débito, por contrapartida da aquisição de obrigações pelos respectivos titulares.\n\n2. As ordens para a aquisição das mencionadas obrigações serão dadas, com dispensa de quaisquer formalidades, pelos titulares das contas ao Banco de Angola, quer directamente, quer, para o caso dos residentes no continente e ilhas adjacentes, por intermédio dos serviços da sede daquele banco em Lisboa."
+  },
+  "596e29489693c59a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. A Inspecção de Crédito e Seguros de Angola, por um lado, e cada uma das entidades responsáveis pelo licenciamento das operações de capitais nos restantes territórios, por outro, deverão conceder as autorizações que lhes forem solicitadas pelos portadores de obrigações emitidas ao abrigo do presente diploma, com vista à exportação dos respectivos títulos para o território da sua residência, desde que os mesmos tenham sido adquiridos de conformidade com o disposto nos artigos 15.º a 18.º deste decreto-lei.\n\n2. A Inspecção de Crédito e Seguros de Angola aporá em todas as obrigações cuja exportação permitir carimbo indicativo dessa autorização, referindo, nomeadamente, o território nacional para onde a exportação foi autorizada."
+  },
+  "e1f4cc0b281741f9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. As obrigações emitidas em Angola, de harmonia com o estabelecido no presente diploma, são transmissíveis por todos os modos admitidos em direito, mas só podem negociar-se fora daquela província os títulos que tiverem sido legalmente exportados para o território onde se realizarem as transacções.\n\n2. Os intervenientes em operações efectuadas em contravenção do disposto no n.º 1 do presente artigo incorrem nas penalidades previstas nos artigos 89.º e seguintes do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959."
+  },
+  "467f20bde45bd580": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nA Inspecção de Crédito e Seguros de Angola deverá conceder as autorizações que lhe forem solicitadas em vista à transferência dos juros do empréstimo previsto neste decreto-lei para os territórios da residência dos portadores das respectivas obrigações, desde que as mesmas tenham sido exportadas para esses territórios em conformidade com o previsto no artigo 22.º"
+  },
+  "2bfbaca09a52e53b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nA Inspecção de Crédito e Seguros de Angola, por um lado, e cada uma das entidades responsáveis pelo licenciamento das operações de capitais nos restantes territórios, por outro, deverão conceder as autorizações que lhes forem solicitadas, com vista à transferência do produto das amortizações do empréstimo previsto neste decreto-lei para os territórios de residência dos portadores das respectivas obrigações, desde que as mesmas tenham sido exportadas para esses territórios em conformidade com o previsto no artigo 22.º"
+  },
+  "bb2e7a34f4c1a654": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nAs transferências a que se referem os artigos 24.º e 25.º do presente decreto-lei serão executadas, relativamente a cada território nacional, com absoluta prioridade sobre todos os outros pagamentos a efectuar por Angola a esse território."
+  },
+  "8a5954c241cb06de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nAs obrigações de que trata o presente diploma serão admitidas à cotação nas bolsas de valores existentes no território nacional, com dispensa de todos os encargos, incluindo emolumentos e imposto do selo.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 11 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha."
+  }
+ }
+}

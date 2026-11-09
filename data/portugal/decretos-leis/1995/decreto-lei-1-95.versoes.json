@@ -1,0 +1,413 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:145845:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1995-01-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "814763aa3f11b171",
+    "898ecc9de3c46ca1",
+    "8793e4430f6b1599",
+    "59631c076bc39648",
+    "b853c89707aba254",
+    "17a2b70582f70310",
+    "abc7f03606d2df90",
+    "c75265c3f3372e9f",
+    "e211b6889dcb8b98",
+    "2fc845eef2b96af2",
+    "f4fae754ded0b614",
+    "bf381581af4cc085",
+    "1d26714af4e268d3",
+    "0c396bf609e150a4",
+    "ee354af3ef5650c9",
+    "4f510bf904c15cce",
+    "246892280cf0fd08",
+    "57409090835afaf8",
+    "9cf5e13eb2b4999b",
+    "b667af3baafd6546",
+    "d5b8e22fa9fd0e7e",
+    "b211240ca5d93212",
+    "28bde89802c6a19f",
+    "1a311c078cbb58e9",
+    "eea6e8f650cdeb64",
+    "3a626b391948139f",
+    "4d4079abbc5a8f8a",
+    "2507db9390aac2d8",
+    "e51fd5d4d568cb00",
+    "506e5c3e4342b192",
+    "726b5203888624f1",
+    "6ca522390246bac8",
+    "cb60c35135e14a2a",
+    "94c10b36690f6bc8",
+    "1ec5ea6f58a873a1"
+   ]
+  },
+  {
+   "date": "2004-06-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:684059:por",
+     "title": "Decreto-Lei n.º 115/2003",
+     "published": "2003-06-12",
+     "dre_path": "/dr/detalhe/decreto-lei/115-2003-684059"
+    },
+    {
+     "id": "pt:dre:281195:por",
+     "title": "Decreto-Lei n.º 131/2004",
+     "published": "2004-06-03",
+     "dre_path": "/dr/detalhe/decreto-lei/131-2004-281195"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "814763aa3f11b171",
+    "898ecc9de3c46ca1",
+    "a9c7faa3b7bdb2d0",
+    "59631c076bc39648",
+    "32d42ad31210b5d9",
+    "17a2b70582f70310",
+    "abc7f03606d2df90",
+    "c75265c3f3372e9f",
+    "e211b6889dcb8b98",
+    "2fc845eef2b96af2",
+    "f4fae754ded0b614",
+    "bf381581af4cc085",
+    "1d26714af4e268d3",
+    "0c396bf609e150a4",
+    "ee354af3ef5650c9",
+    "4f510bf904c15cce",
+    "246892280cf0fd08",
+    "57409090835afaf8",
+    "9cf5e13eb2b4999b",
+    "b667af3baafd6546",
+    "d5b8e22fa9fd0e7e",
+    "b211240ca5d93212",
+    "28bde89802c6a19f",
+    "1a311c078cbb58e9",
+    "eea6e8f650cdeb64",
+    "3a626b391948139f",
+    "4d4079abbc5a8f8a",
+    "2507db9390aac2d8",
+    "e51fd5d4d568cb00",
+    "506e5c3e4342b192",
+    "726b5203888624f1",
+    "6ca522390246bac8",
+    "cb60c35135e14a2a",
+    "94c10b36690f6bc8",
+    "1ec5ea6f58a873a1"
+   ]
+  }
+ ],
+ "fragments": {
+  "814763aa3f11b171": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de Janeiro\n\nA reestruturação do Ministério dos Negócios Estrangeiros e a consequente criação da Direcção-Geral dos Assuntos Consulares e das Comunidades Portuguesas constitui oportunidade privilegiada para facilitar a concessão de bilhetes de identidade aos nacionais residentes no estrangeiro, por forma a evitar demoras prejudiciais para os particulares.\n\nOs procedimentos em vigor envolvem um longo e complexo circuito burocrático, necessariamente demorado. O presente diploma visa ultrapassar esta situação, criando o Centro Emissor para a Rede Consular, o qual terá competência para emitir bilhetes de identidade, funcionando em regime de emissão descentralizada daquele documento de identificação.\n\nNa criação deste novo regime de emissão, que altera as práticas actuais e as substitui por procedimentos mais operativos e eficazes, foi especialmente contemplada a plena compatibilidade com as exigências de rigor do serviço público, nomeadamente a necessidade de garantir a fiabilidade, segurança e verdade dos elementos constantes dos bilhetes de identidade.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "898ecc9de3c46ca1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Competências"
+  },
+  "8793e4430f6b1599": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Centro Emissor para a Rede Consular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Centro Emissor para a Rede Consular\n\nÉ criado no Ministério dos Negócios Estrangeiros o Centro Emissor para a Rede Consular, adiante designado por Centro Emissor."
+  },
+  "59631c076bc39648": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competência\n\n1 - Cabe ao Centro Emissor coordenar os serviços de recepção, controlo e emissão dos bilhetes de identidade solicitados, por nacionais residentes no estrangeiro, nos consulados de carreira, nas secções consulares das embaixadas e nos consulados honorários autorizados a receber pedidos de bilhetes de identidade.\n\n2 - Compete, em especial, ao Centro Emissor:\n\na) Receber os pedidos de bilhetes de identidade de cidadãos portugueses residentes no estrangeiro que lhe forem transmitidos pelos postos consulares;\n\nb) Emitir bilhetes de identidade, com garantia de autenticidade, veracidade, univocidade e segurança dos elementos que inserem;\n\nc) Transmitir aos postos consulares as informações, orientações e instruções relativas a identificação civil emanadas da Direcção-Geral dos Registos e do Notariado do Ministério da Justiça."
+  },
+  "b853c89707aba254": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito territorial\n\n1 - A emissão de bilhetes de identidade pelo Centro Emissor é restrita aos pedidos apresentados, nos postos consulares, por cidadãos nacionais residentes no estrangeiro.\n\n2 - A prova de residência do titular na circunscrição consular é feita mediante verificação da inscrição consular."
+  },
+  "17a2b70582f70310": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Orgânica"
+  },
+  "abc7f03606d2df90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direcção\n\n1 - O Centro Emissor é dirigido por um director de serviços.\n\n2 - Compete ao director de serviços:\n\na) Assegurar o funcionamento do Centro Emissor;\n\nb) Superintender em todo o processo de recepção e emissão dos bilhetes de identidade, incluindo o tratamento informático dos dados pessoais transmitidos pelos postos consulares;\n\nc) Propor superiormente as providências necessárias com vista à eficiência e ao aperfeiçoamento do Centro Emissor, nomeadamente em matéria de equipamento, sua manutenção e renovação;\n\nd) Conhecer das reclamações dirigidas ao Centro Emissor."
+  },
+  "c75265c3f3372e9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estrutura\n\nO Centro Emissor integra as seguintes secções:\n\na) A Secção de Recepção e de Contabilidade;\n\nb) A Secção de Controlo de Dados e de Emissão."
+  },
+  "e211b6889dcb8b98": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º"
+  },
+  "2fc845eef2b96af2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção de Recepção e de Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção de Recepção e de Contabilidade\n\nCompete à Secção de Recepção e de Contabilidade:\n\na) Receber o expediente dos postos consulares;\n\nb) Ordenar os modelos de impressos e os documentos que constituem os processos individuais;\n\nc) Proceder ao tratamento informático dos dados pessoais do requerente e do processo de emissão dos bilhetes de identidade;\n\nd) Efectuar os registos informáticos relativos aos meios de pagamento que acompanham os processos e às listas nominais enviados pelos postos consulares;\n\ne) Escriturar os livros de registo de entradas e saídas dos cheques;\n\nf) Requisitar ao Ministério da Justiça os impressos necessários à emissão dos bilhetes de identidade;\n\ng) Verificar a exactidão das quantias recebidas e transferidas."
+  },
+  "f4fae754ded0b614": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º"
+  },
+  "bf381581af4cc085": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção de Controlo de Dados e de Emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção de Controlo de Dados e de Emissão\n\nCompete à Secção de Controlo de Dados e de Emissão:\n\na) Conferir a correcta instrução dos processos individuais;\n\nb) Encaminhar para as respectivas conservatórias os pedidos de certidões de registo civil apresentados pelos interessados;\n\nc) Solicitar informações aos serviços de registo civil em caso de dúvida sobre a autenticidade das certidões apresentadas;\n\nd) Devolver aos postos consulares os pedidos incorrectamente instruídos;\n\ne) Proceder à emissão dos bilhetes de identidade, com observância dos requisitos legais;\n\nf) Enviar aos postos consulares os bilhetes de identidade emitidos;\n\ng) Enviar mensalmente à Direcção-Geral dos Registos e do Notariado os processos individuais correspondentes aos bilhetes de identidade emitidos;\n\nh) Remeter à Direcção-Geral dos Registos e do Notariado, em suporte informático, os dados pessoais correspondentes aos processos individuais, depois de emitidos os bilhetes de identidade;\n\ni) Propor superiormente a consulta, em caso de dúvida fundada, da Direcção-Geral dos Registos e do Notariado sobre questões relacionadas com o processo de emissão."
+  },
+  "1d26714af4e268d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Emissão"
+  },
+  "0c396bf609e150a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Número, valor e restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Número, valor e restrições"
+  },
+  "ee354af3ef5650c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Número e dígito de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Número e dígito de emissão\n\nO número e o dígito relativos à primeira emissão do bilhete de identidade pelo Centro Emissor são atribuídos pela Direcção-Geral dos Registos e do Notariado e mantêm-se na renovação."
+  },
+  "4f510bf904c15cce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Restrições\n\n1 - Não podem ser emitidos pelo Centro Emissor os bilhetes de identidade relativos a titulares declarados contumazes ou que estiverem inibidos de obter bilhete de identidade, bem como àqueles que estejam impedidos de o obter por decisão da Direcção-Geral dos Registos e do Notariado.\n\n2 - Os processos individuais de bilhete de identidade referentes a indivíduos declarados contumazes devem ser remetidos à Direcção-Geral dos Registos e do Notariado, onde aguardarão a cessação da contumácia.\n\n3 - Quando esteja em causa o estabelecimento da filiação, a emissão de bilhetes de identidade só poderá verificar-se após confirmação da Direcção-Geral dos Registos e do Notariado sempre que se trate da emissão de bilhetes de identidade respeitantes a cidadãos nacionais nascidos no estrangeiro, em Macau, em Timor, nos antigos territórios ultramarinos sob administração portuguesa e nas antigas províncias ultramarinas."
+  },
+  "246892280cf0fd08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Autenticação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autenticação\n\nA autenticação dos bilhetes de identidade, depois de plastificados, será efectivada mediante a aposição do selo branco do Ministério dos Negócios Estrangeiros (Centro Emissor)."
+  },
+  "57409090835afaf8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Identificação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Identificação civil"
+  },
+  "9cf5e13eb2b4999b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Elementos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Elementos\n\n1 - O bilhete de identidade emitido pelo Centro Emissor contém os seguintes elementos de identificação civil do seu titular:\n\na) Nacionalidade;\n\nb) Nome completo;\n\nc) Filiação;\n\nd) Estado civil;\n\ne) Naturalidade;\n\nf) Data do nascimento;\n\ng) Sexo;\n\nh) País e local de residência;\n\ni) Impressão digital;\n\nj) Altura;\n\nl) Fotografia;\n\nm) Assinatura.\n\n2 - O local de residência só é impresso no bilhete de identidade se tal for solicitado pelo requerente."
+  },
+  "b667af3baafd6546": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Acesso aos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Acesso aos dados\n\n1 - Para os fins relacionados com a emissão de bilhetes de identidade requeridos nos postos consulares, e com vista à visualização dos dados pessoais dos requerentes, o Centro Emissor tem acesso directo à base de dados de identificação civil do Ministério da Justiça, nas condições e pelas formas previstas na [Lei n.º 12/91](https://diariodarepublica.pt/dr/detalhe/lei/12-1991-640075), de 21 de Maio.\n\n2 - O acesso directo aos dados sobre identificação civil constantes dos processos individuais existentes no Centro Emissor obedece ao estabelecido nos artigos 9.º a 12.º da [Lei n.º 12/91](https://diariodarepublica.pt/dr/detalhe/lei/12-1991-640075), de 21 de Maio.\n\n3 - A Secção de Controlo de Dados e de Emissão assegura o registo informático das pesquisas ou tentativas de pesquisa de dados de identificação civil."
+  },
+  "d5b8e22fa9fd0e7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Segurança e confidencialidade dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Segurança e confidencialidade dos dados\n\n1 - O processamento de dados pessoais pelo Centro Emissor obedece a medidas de segurança determinadas pelo Ministro dos Negócios Estrangeiros, ouvida a Autoridade Nacional de Segurança, destinadas a acautelar a integridade e a confidencialidade dos referidos dados, de acordo com o regime estabelecido na [Lei n.º 10/91](https://diariodarepublica.pt/dr/detalhe/lei/10-1991-599769), de 29 de Abril, e em legislação complementar.\n\n2 - Para os fins previstos no número anterior, os locais do Centro Emissor onde se processa o tratamento de dados pessoais dispõem de sistema de segurança próprio, sendo o acesso aos mesmos restrito aos funcionários devidamente credenciados."
+  },
+  "b211240ca5d93212": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Recolha e utilização dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Recolha e utilização dos dados\n\nA recolha e utilização de dados pessoais pelo Centro Emissor e pelos postos consulares obedece aos princípios consagrados nos artigos 12.º e 15.º da [Lei n.º 10/91](https://diariodarepublica.pt/dr/detalhe/lei/10-1991-599769), de 29 de Abril."
+  },
+  "28bde89802c6a19f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Colaboração com a Comissão Nacional de Protecção de Dados Pessoais Informatizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Colaboração com a Comissão Nacional de Protecção de Dados Pessoais Informatizados\n\nOs postos consulares e o Centro Emissor facultam à Comissão Nacional de Protecção de Dados Pessoais Informatizados todas as informações que esta, no exercício das suas competências, lhes solicitar, nomeadamente as relativas às formas de recolha, transmissão e tratamento informatizado dos dados pessoais."
+  },
+  "1a311c078cbb58e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Organização dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Organização dos processos"
+  },
+  "eea6e8f650cdeb64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Recepção de pedidos nos postos consulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Recepção de pedidos nos postos consulares\n\n1 - Quando os pedidos de bilhetes de identidade de cidadãos nacionais residentes no estrangeiro sejam apresentados nos postos consulares, os processos devem ser organizados de acordo com a legislação em vigor e as informações, orientações e instruções referidas na alínea c) do n.º 2 do artigo 2.º\n\n2 - Aos postos consulares compete, em especial:\n\na) Recolher e actualizar os elementos necessários à identificação civil do requerente enumerados no artigo 11.º;\n\nb) Verificar se o requerente é o apresentante do pedido e a correcção dos elementos de identificação que invoca;\n\nc) Verificar a entrega dos documentos necessários e a sua correcção;\n\nd) Conferir o pedido com os documentos apresentados e lançar, no respectivo impresso, nota de conferência, datada e rubricada pelo funcionário conferente;\n\ne) Colar as fotografias nos locais próprios dos impressos, recolher a assinatura, a impressão digital e a altura do requerente;\n\nf) Cobrar os emolumentos consulares devidos e outros encargos.\n\n3 - Compete aos postos consulares assegurar a autenticidade, a veracidade, a univocidade e a segurança dos elementos de identificação civil referidos na alínea b) do n.º 2 do artigo 2.º, nomeadamente através do apuramento da filiação e da recolha da impressão digital dos requerentes.\n\n4 - Em caso de dúvida, o pedido de confirmação da autenticidade dos documentos exibidos e da veracidade dos elementos de identificação declarados é transmitido, por telecópia, à Direcção-Geral dos Registos e do Notariado, acompanhado de cópia do pedido de emissão ou de renovação do bilhete de identidade, do anterior bilhete, da certidão de nascimento ou do certificado de nacionalidade."
+  },
+  "3a626b391948139f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Envio dos processos pelos postos consulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Envio dos processos pelos postos consulares\n\n1 - Os postos consulares devem enviar ao Centro Emissor os processos relativos a pedidos individuais de bilhete de identidade, depois de se certificarem da sua correcta instrução, bem como as listas nominais mencionadas na alínea d) do artigo 6.º\n\n2 - Para efeitos de actualização dos dados pessoais existentes nos processos pendentes, os postos consulares devem comunicar ao Centro Emissor, de imediato, os novos dados entretanto recolhidos relativos a identificação civil dos requerentes."
+  },
+  "4d4079abbc5a8f8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Fornecimento de impressos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fornecimento de impressos\n\n1 - A Direcção-Geral dos Registos e do Notariado fornece directamente ao Centro Emissor todos os impressos necessários ao pedido de bilhete de identidade, bem como as especificações correspondentes ao material necessário.\n\n2 - Os impressos referidos neste artigo serão os do modelo legal em vigor, com as adaptações necessárias, definidas por despacho conjunto dos Ministros da Justiça e dos Negócios Estrangeiros.\n\n3 - O preço dos impressos e a taxa correspondente à emissão de bilhetes de identidade, que constituam receita da Direcção-Geral dos Registos e do Notariado, são estabelecidos por despacho do Ministro da Justiça."
+  },
+  "2507db9390aac2d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Transmissão de documentos por telecópia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Transmissão de documentos por telecópia\n\nÀ transmissão de documentos entre o Centro Emissor e os serviços do registo civil aplica-se o disposto nos artigos 3.º e 4.º do [Decreto-Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1990-334648), de 13 de Fevereiro."
+  },
+  "e51fd5d4d568cb00": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Emolumentos"
+  },
+  "506e5c3e4342b192": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Emolumentos consulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Emolumentos consulares\n\nNo momento da recepção dos pedidos de bilhete de identidade apresentados nos postos consulares são cobrados os emolumentos previstos na tabela de emolumentos consulares."
+  },
+  "726b5203888624f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Outras taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Outras taxas\n\nA receita da venda dos impressos a que se refere o n.º 2 do artigo 18.º e de outras taxas cobradas pelos postos consulares é remetida, através da Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas, para as contas indicadas pelas entidades a quem essa receita é legalmente atribuída."
+  },
+  "6ca522390246bac8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Disposições finais e transitórias"
+  },
+  "cb60c35135e14a2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Procedimentos de articulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Procedimentos de articulação\n\n1 - O Centro Emissor integra-se na Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas e depende funcionalmente da Direcção-Geral dos Registos e do Notariado.\n\n2 - As regras técnicas de articulação entre a Direcção-Geral dos Registos e do Notariado e a Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas são aprovadas por despacho conjunto dos Ministros da Justiça e dos Negócios Estrangeiros."
+  },
+  "94c10b36690f6bc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Disposição transitória\n\nAté à entrada em vigor da lei de identificação civil e criminal e do respectivo regulamento, o processo de emissão descentralizada de bilhetes de identidade no Centro Emissor obedece ao disposto no [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), de 24 de Janeiro, e demais legislação aplicável, bem como às regras técnicas em vigor elaboradas pelo Ministério da Justiça."
+  },
+  "1ec5ea6f58a873a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 27 de Outubro de 1994. - Aníbal António Cavaco Silva - Álvaro José Brilhante Laborinho Lúcio - José Manuel Durão Barroso.\n\nPromulgado em 22 de Dezembro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 27 de Dezembro de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "a9c7faa3b7bdb2d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Centro Emissor para a Rede Consular",
+   "in_force_from": "2004-06-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 115/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2003-684059), publicado em 2003-06-12."
+   ],
+   "markdown": "###### Artigo 1.º — Centro Emissor para a Rede Consular\n\n1 - É criado no Ministério dos Negócios Estrangeiros o Centro Emissor para a Rede Consular, adiante designado por Centro Emissor.\n\n2 - Por despacho conjunto dos Ministros dos Negócios Estrangeiros e das Comunidades Portuguesas e da Justiça poderão ser criadas extensões do Centro Emissor nos postos consulares portugueses, aplicando-se-lhes, com as necessárias adaptações, o disposto no presente diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 115/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-2003-684059), publicado em 2003-06-12."
+  },
+  "32d42ad31210b5d9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Âmbito territorial",
+   "in_force_from": "2004-06-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 131/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2004-281195), publicado em 2004-06-03."
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito territorial\n\n1 - A emissão de bilhetes de identidade pelo Centro Emissor é restrita aos pedidos apresentados, nos postos consulares, por cidadãos nacionais residentes no estrangeiro.\n\n2 - A emissão de bilhetes de identidade pelas extensões do Centro Emissor é restrita aos pedidos apresentados nos postos consulares por cidadãos nacionais residentes nas áreas consulares que forem definidas no despacho a que se refere o n.º 2 do artigo 1.º\n\n3 - A prova de residência do titular na circunscrição consular é feita mediante verificação da inscrição consular.\n\n> Alterado pelo/a [Decreto-Lei n.º 131/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-2004-281195), publicado em 2004-06-03."
+  }
+ }
+}

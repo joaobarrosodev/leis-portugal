@@ -1,0 +1,425 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:215774:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1969-11-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4fd85ee96f34705d"
+   ]
+  },
+  {
+   "date": "1975-02-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:160298:por",
+     "title": "Decreto n.º 65/75",
+     "published": "1975-02-19",
+     "dre_path": "/dr/detalhe/decreto/65-1975-160298"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "1dd6c14d5ebe4392",
+    "8ccf15f20d734245",
+    "a4ca0fd7f6caa27f",
+    "fad883ddec460c35",
+    "c475f97f262a8f72",
+    "a7bfd12abeb9bfd9",
+    "3bbda70f4cd9e976",
+    "6b1030167d015267",
+    "32d9de55a134ffcb",
+    "113c4a832a7c94de",
+    "f1ff63bf754eb278",
+    "7233408d9bdaab06",
+    "34edfcec35c51cad",
+    "c6978677fa3f8dc5",
+    "8e6a2588d7e514e8",
+    "10800afa91313f92",
+    "05d27fa1de827e20",
+    "368658549fc57653",
+    "16721228176681ff",
+    "ce25d1ea8413494b",
+    "549f42b2aa353b1c",
+    "938f7cf41f094cd8",
+    "ca45caf3e6b6ddaf",
+    "73b1bbe758acb280",
+    "25ddea5f30abc55f",
+    "b2d59c2e5b5db4ca",
+    "a37dfed8e33a4f87",
+    "f6c59746a5feddd4",
+    "c0a5f51b0f5743b9",
+    "e18393bc2bbe7328",
+    "8e13c08f656e771c",
+    "faca27a7a62cb8e7",
+    "828b85d131771dc1",
+    "3a217346b2ca8232",
+    "b7c080a66651370b",
+    "c1ae063d94de407c",
+    "3ac7e2537f3e7381",
+    "1afe8403b7253d4d",
+    "77ba7c72e98f0068",
+    "56c9ad223641c7bb",
+    "6e29c1a62254e27e",
+    "b7d0775db76b53ad"
+   ]
+  }
+ ],
+ "fragments": {
+  "4fd85ee96f34705d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O [Decreto-Lei n.º 46447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46447-1965-291953), de 20 de Julho de 1965, definiu as funções de inspecção e de direcção das actividades de natureza cultural e pedagógica exercidas nas províncias ultramarinas como «paralelas, formando ramos conexos dos serviços de educação». Promulgada, pelo citando decreto-lei, a orgânica dos serviços de inspecção, mostra-se necessário proceder à revisão da dos serviços de direcção, a fim de que o paralelismo enunciado se estabeleça.\n\nAssim:\n\nOuvidos os governos das províncias ultramarinas e o Conselho Ultramarino;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º As funções de direcção das actividades de natureza cultural e pedagógica exercidas nas províncias ultramarinas, a que se refere o [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957, são desempenhadas:\n\nI) No Ministério do Ultramar: pela Direcção-Geral de Educação, nos termos do disposto no [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967 (Lei Orgânica do Ministério do Ultramar);\n\nII) Nas províncias de governo-geral: pelas direcções provinciais dos serviços de educação, a cargo de directores provinciais;\n\nIII) Nas províncias de governo simples: pelas repartições provinciais dos serviços de educação, a cargo de chefes de repartições provinciais.\n\n§ único. Nas províncias de governo simples haverá para o ensino infantil e primário um adjunto do chefe de repartição provincial.\n\nArt. 2.º As funções de direcção compreendem:\n\na) Matérias de ensino, educação e cultura:\n\n1) A criação, o apetrechamento e o funcionamento administrativo das instituições oficiais de ensino, educação e cultura: escolas, arquivos, bibliotecas, museus e demais organismos congéneres;\n\n2) A fiscalização administrativa dos institutos particulares de ensino, educação e cultura e demais organismos de acção cultural, nos termos legais e regulamentares que os disciplinarem;\n\nb) Matérias respeitantes ao exercício dos cultos:\n\n1) As relações do Estado com as missões católicas portuguesas;\n\n2) A intervenção oficial no que se refere ao exercício de outras confissões religiosas;\n\nc) As relações com a Organização Nacional Mocidade Portuguesa e Mocidade Portuguesa Feminina;\n\nd) As relações com os conselhos provinciais de educação física.\n\n§ único. As relações previstas nas alíneas anteriores não afectam a legislação especial por que se regem a Organização Nacional Mocidade Portuguesa e Mocidade Portuguesa Feminina e o conselho provincial de educação física.\n\nArt. 3.º Nas províncias de governo-geral haverá em cada distrito uma repartição escolar, a cargo de um director escolar e de um subdirector escolar, observando-se o disposto no artigo 5.º e seu § único.\n\nArt. 4.º As repartições escolares distritais desempenham nos respectivos distritos as atribuições administrativas dos serviços, em ordem ao ensino infantil e primário, de harmonia com os preceitos regulamentares e as instruções superiores, competindo-lhes, especialmente:\n\n1) Cumprir as determinações superiores e manter informada, com actualização, a direcção provincial sobre os assuntos das atribuições desta;\n\n2) O recenseamento escolar infantil e primário do distrito;\n\n3) A elaboração do projecto de ocupação escolar infantil e primária do distrito e a sua revisão de três em três anos;\n\n4) A estatística escolar do distrito;\n\n5) O despacho com o governador do distrito dos assuntos administrativos da competência deste;\n\n6) Manter com os agentes de inspecção relações de cooperação e entendimento, tendo em vista a ordem do serviço público e o progresso do ensino como objectivos comuns.\n\n§ único. Os subdirectores e os directores escolares percorrerão frequentemente a área dos respectivos distritos, a fim de providenciarem na orientação dos actos administrativos da competência dos agentes docentes, tais como matrículas e estatísticas, e na fiscalização da escrituração e do funcionamento das caixas escolares e se documentarem, para informação superior, sobre o estado dos edifícios e necessidades de mobiliário e material escolares.\n\nArt. 5.º O governador da província colocará em cada distrito um subdirector escolar e um director escolar, se as necessidades do serviço o impuserem.\n\n§ único. Nos distritos onde tiverem sede inspectores escolares serão colocados sempre directores escolares.\n\nArt. 6.º Os reitores e directores dos estabelecimentos do ciclo preparatório do ensino secundário, do ensino secundário e médio, ou equiparados, despacham com os governadores de distrito os assuntos administrativos da competência destes.\n\nArt. 7.º As direcções provinciais, as repartições provinciais dos serviços de educação e as repartições escolares constituem os órgãos por intermédio dos quais os governos ultramarinos exercem as funções directiva e administrativa em matéria de ensino, educação e cultura, paralelas das funções técnicas e de inspecção definidas no [Decreto-Lei n.º 46447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46447-1965-291953), de 20 de Julho de 1965, e demais legislação aplicável.\n\n§ único. Os serviços provinciais de reordenamento rural, de agricultura e florestas e de veterinária intervêm, nos termos da lei, nas diversas modalidades de ensino rural, agrícola e de pecuária.\n\nArt. 8.º Aos agentes de direcção de que trata o presente diploma não é permitido ministrar o ensino oficial, oficializado ou particular, de qualquer grau, nem ser directores, proprietários ou por qualquer forma interessados em estabelecimentos de ensino particular.\n\n§ único. O não cumprimento do disposto no corpo do artigo constitui a infracção disciplinar prevista na primeira parte do n.º 20.º do artigo 366.º do Estatuto do Funcionalismo Ultramarino.\n\nArt. 9.º Os lugares de director dos serviços de educação são providos por escolha do Ministro do Ultramar:\n\na) Entre o director de serviços, os inspectores de educação e os chefes de repartição da Direcção-Geral de Educação; os inspectores provinciais de educação e os chefes de repartições provinciais e chefes de departamento do ciclo preparatório do ensino secundário, do ensino técnico profissional e do ensino liceal;\n\nb) Entre diplomados com curso superior, de preferência habilitados com o curso de Ciências Pedagógicas.\n\nArt. 10.º Os lugares de chefe de repartição provincial dos serviços de educação são providos por escolha do Ministro do Ultramar:\n\na) Entre os chefes das repartições da Direcção-Geral de Educação e os chefes dos departamentos do ensino liceal, do ensino técnico profissional ou do ciclo preparatório do ensino secundário das direcções provinciais dos serviços de educação;\n\nb) Entre diplomados com curso superior, de preferência habilitados com o curso de Ciências Pedagógicas.\n\nArt. 11.º Os directores provinciais e os chefes de repartições provinciais dos serviços de educação são providos em comissão.\n\n§ único. Se o provimento recair em professores efectivos, o tempo da comissão é considerado, para todos os efeitos, como de actividade docente.\n\nArt. 12.º Nas províncias de governo simples, e enquanto nelas não forem criados os serviços autónomos de inspecção, esta funcionará com arquivo e expediente próprios e os agentes de inspecção ficam directamente subordinados aos chefes de repartição provinciais.\n\nArt. 13.º Os directores provinciais são substituídos nas suas faltas, impedimentos e ausências pelo chefe do departamento do ensino liceal ou do ensino técnico profissional e médio, a designar por despacho do governador-geral.\n\n§ único. Os chefes de repartições provinciais são substituídos nas suas faltas, impedimentos e ausências por um reitor ou director de estabelecimento de ensino secundário ou médio da sede da repartição provincial dos serviços, a designar por despacho do governador.\n\nArt. 14.º Os adjuntos dos chefes de repartições provinciais têm a categoria de directores escolares e serão providos por transferência de directores escolares de outra província ou por promoção de escolha do Ministro do Ultramar entre subdirectores escolares com, pelo menos, três anos de exercício de funções deste cargo com boas informações.\n\nArt. 15.º As direcções provinciais dos serviços de educação compreendem os seguintes departamentos:\n\n1.º Do ensino infantil, primário e do magistério primário;\n\n2.º Do ciclo preparatório do ensino secundário;\n\n3.º Do ensino liceal;\n\n4.º Do ensino técnico profissional e médio;\n\n5.º Do ensino particular;\n\n6.º Dos cultos e instituições culturais.\n\n§ 1.º Pelo departamento do ensino infantil, primário e do magistério primário correrá também o expediente das escolas de habilitação de professores de posto escolar.\n\n§ 2.º No departamento do ensino infantil, primário e do magistério primário prestará serviço um director escolar, adjunto do respectivo chefe, para o ensino infantil e primário.\n\n§ 3.º Correrá pelo departamento de cultos e instituições culturais o expediente relativo às funções resultantes do disposto no artigo 1.º do [Decreto n.º 46935](https://diariodarepublica.pt/dr/detalhe/decreto/46935-1966-486364), de 1 de Abril de 1966.\n\n§ 4.º O chefie do departamento dos cultos e instituições culturais é vogal nato da Comissão de Exame e Classificação dos Espectáculos.\n\nArt. 16.º As repartições provinciais dos serviços de educação compreendem as secções seguintes:\n\na) Do ensino infantil e primário;\n\nb) Do ciclo preparatório do ensino secundário;\n\nc) Do ensino liceal e técnico profissional.\n\n§ 1.º Directamente pelo chefe de repartição provincial, coadjuvado pelo pessoal burocrático por ele designado, correrão os assuntos referentes a cultos e instituições culturais.\n\n§ 2.º Nas províncias onde funcionarem escolas de habilitação de professores de posto escolar e ou do magistério primário o expediente delas compete à secção do ensino infantil e primário.\n\n§ 3.º A chefia da secção do ensino infantil e primário é desempenhada pelo adjunto do chefe de repartição provincial.\n\n§ 4.º O expediente administrativo do ensino particular correrá pelas secções dos graus correspondentes.\n\nArt. 17.º Os lugares de chefe de departamento são providos por escolha do Ministro do Ultramar entre diplomados com curso superior adequado ao exercício do cargo, de preferência com o curso de Ciências Pedagógicas.\n\n§ 1.º Os lugares de chefe de departamento do ensino infantil, primário e do magistério primário poderão também ser providos por funcionários que hajam desempenhado as funções de inspectores-adjuntos do ensino primário durante, pelo menos, três anos no cargo com boas informações.\n\n§ 2.º Os chefes de repartições provinciais e de departamento e os inspectores-adjuntos das inspecções provinciais de educação têm a categoria da letra E.\n\nArt. 18.º Os lugares de director escolar são providos:\n\na) Por trânsito de inspectores escolares, nos termos do disposto no artigo 8.º do [Decreto-Lei n.º 46447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46447-1965-291953), de 20 de Julho de 1965;\n\nb) Por escolha entre os subdirectores escolares com mais de três anos de bom exercício no cargo e boas informações.\n\n§ único. Os directores escolares e os inspectores escolares têm a categoria da letra F.\n\nArt. 19.º Os lugares de subdirector escolar são providos:\n\na) Por trânsito de subinspectores escolares, nos termos do disposto no artigo 8.º do [Decreto-Lei n.º 46447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46447-1965-291953), de 20 de Julho de 1965;\n\nb) Por concurso de provas públicas.\n\n§ único. Os lugares de subdirector escolar criados por este diploma poderão ser providos, em primeira nomeação, por escolha do Ministro do Ultramar, sob proposta dos governos das províncias ultramarinas, de entre professores habilitados pelas escolas do magistério primário, com, pelo menos, cinco anos de serviço e boas informações.\n\nArt. 20.º O júri do concurso a que se refere o artigo anterior será presidido pelo director de serviços da Direcção-Geral de Educação, e dele farão parte, como vogais, um director provincial dos serviços de educação, um chefe de departamento do ensino infantil, primário e do magistério primário e dois directores escolares, distritais a designar por despacho ministerial, servindo um dos últimos também de secretário.\n\n§ 1.º No impedimento do director de serviços da Direcção-Geral de Educação, os júris serão presididos por um director provincial dos serviços de educação, e deles fará parte, além do chefe de departamento do ensino infantil, primário e do magistério primário, outro a designar por despacho ministerial.\n\n§ 2.º Os júris funcionarão nas províncias de governo-geral e nas províncias de governo simples onde o número de candidatos exceda o dos seus componentes.\n\n§ 3.º Quando em qualquer província o número de candidatos for inferior ao dos membros do júri, deslocar-se-ão aqueles, com passagens de conta do Estado, à província onde o júri houver de funcionar.\n\n§ 4.º Nestes júris o presidente tem voto de qualidade.\n\n§ 5.º O Ministro do Ultramar fixará na portaria que regulamentar os concursos as gratificações a que terão direito os membros dos júris de que trata o presente artigo. Idênticas gratificações serão abonadas aos membros dos júris dos concursos para subinspectores e inspectores escolares.\n\nArt. 21.º Aos concursos de provas públicas para o provimento dos lugares de subinspector escolar são admitidos os professores habilitados pelas escolas do magistério primário e com o curso de Ciências Pedagógicas e todo o serviço docente qualificado de Suficiente.\n\n§ 1.º Não sendo providas todas as vagas, nos termos do corpo deste artigo, proceder-se-á logo a concurso de provas públicas entre professores do ensino primário com, pelo menos, três anos de serviço docente qualificado de Suficiente, dos quais dois no ultramar.\n\n§ 2.º Se o número de vagas a prover for superior ao dos candidatos referidos no corpo do artigo, poderão ser admitidos ao mesmo concurso os candidatos referidos no parágrafo anterior, devendo, porém, ser classificados e nomeados depois dos primeiros.\n\nArt. 22.º Os directores escolares são substituídos nas suas faltas, impedimentos e ausências pelos subdirectores escolares colocados na mesma repartição.\n\n§ único. Os subdirectores escolares são substituídos nas suas faltas, impedimentos e ausências por professores habilitados por escola do magistério primário, de preferência com o curso de Ciências Pedagógicas, designados por despacho do governador-geral.\n\nArt. 23.º Os directores e os chefes de repartições provinciais dos serviços de educação elaborarão até 28 de Fevereiro o relatório dos serviços referentes ao ano escolar anterior, remetendo à Direcção-Geral de Educação um exemplar.\n\n§ único. Os relatórios dos directores e subdirectores escolares que chefiarem repartições distritais serão remetidos à direcção provincial até 31 de Dezembro.\n\nArt. 24.º Na directa dependência dos directores de serviços provinciais funcionará uma secretaria comum, por onde se processará o expediente referente a entrada, saída e distribuição da correspondência; concursos de admissão e promoção do pessoal burocrático e menor; administração financeira e estatística e outros que, por serem comuns a diversos departamentos, o director provincial determine por ordem de serviço.\n\n§ 1.º O chefe da secretaria é chefe de secção.\n\n§ 2.º O expediente da administração financeira e a estatística estarão a cargo do primeiro-oficial requisitado aos serviços de Fazenda e contabilidade, assistido do demais pessoal de secretaria que o director de serviços considere necessário.\n\nArt. 25.º É mantido o gabinete criado pelo artigo 1.º do [Decreto n.º 43880](https://diariodarepublica.pt/dr/detalhe/decreto/43880-1961-173965), de 25 de Agosto de 1961.\n\nArt. 26.º O quadro comum dos serviços de educação é o que consta do mapa anexo ao presente diploma, com as categorias e gratificações nele indicadas.\n\n§ único. Os actuais directores escolares de 1.ª e 2.ª classes transitam, independentemente de quaisquer formalidades, para os lugares de director escolar criados pelo presente diploma.\n\nArt. 27.º Os lugares de chefe de secção serão preenchidos por promoção dos primeiros-oficiais, mediante qualificação de serviço, habilitações literárias e antiguidade.\n\nArt. 28.º Ficam autorizados os órgãos legislativos dos governos das províncias ultramarinas a fixar os quadros do pessoal de secretaria dos serviços de educação.\n\nArt. 29.º O director provincial reunirá, sempre que necessário e pelo menos uma vez em cada ano, com o chefe do departamento do ensino infantil, primário e do magistério primário e os directores e subdirectores escolares distritais, a fim de assegurar a unidade de acção administrativa e serem emitidos pareceres sobre assuntos de administração escolar que lhes sejam submetidos por despacho do governador-geral.\n\nArt. 30.º Em relação ao ciclo preparatório do ensino secundário e aos ensinos técnico profissional e liceal haverá também e com idênticas finalidades, sempre que necessário e pelo menos uma vez por ano, reuniões do director provincial com os chefes dos departamentos respectivos e, conforme os casos, os directores ou os reitores dos correspondentes estabelecimentos.\n\nArt. 31.º Nas reuniões de que tratam os artigos anteriores tomarão parte os inspectores provinciais e os inspectores-adjuntos do grau ou ramo de ensino a que respeitem.\n\nArt. 32.º Em cada uma das províncias ultramarinas haverá um conselho pedagógico destinado a dar parecer, mediante consulta do governador, sobre problemas de educação no âmbito provincial, especialmente os respeitantes à coordenação geral do ensino, sua harmonização com os interesses sociais e sua actualização como factor do desenvolvimento da respectiva província.\n\n§ 1.º Nas províncias de governo-geral o conselho pedagógico terá a seguinte composição:\n\nPresidente - o secretário provincial de educação.\n\nVice-presidentes - o inspector provincial e o director provincial dos serviços de educação. O secretário provincial poderá delegar as suas funções num dos vice-presidentes, em cada caso, consoante os assuntos da agenda.\n\nVogais - os inspectores adjuntos do inspector provincial e os chefes dos departamentos da direcção provincial; um representante eleito dos estabelecimentos de ensino particular; um representante das dioceses designado pelos prelados; um representante eleito das associações de professores, pais de alunos e antigos alunos dos estabelecimentos de ensino secundário; os comissários provinciais da Mocidade Portuguesa e da Mocidade Portuguesa Feminina e o presidente do conselho provincial de educação física;\n\nSecretário, sem voto - o chefe de secção do gabinete a que se refere o artigo 26.º do presente diploma.\n\n§ 2.º Nas províncias de governo simples o conselho pedagógico terá a seguinte composição:\n\nPresidente - o chefe de repartição provincial dos serviços de educação.\n\nVice-presidente - um dos reitores ou directores dos estabelecimentos de ensino secundário ou médio da sede do governo.\n\nVogais - os restantes reitores ou directores de estabelecimentos de ensino secundário ou médio da província; os inspectores escolares; os directores escolares adjuntos do chefe de repartição provincial e distritais; um representante da diocese designado pelo prelado; um representante eleito dos estabelecimentos de ensino particular; um representante eleito das associações de professores, pais de alunos e antigos alunos dos estabelecimentos de ensino secundário; os comissários provinciais da Mocidade Portuguesa e da Mocidade Portuguesa Feminina, e o presidente do conselho provincial de educação física.\n\nSecretário, sem voto - um chefe de secção da repartição provincial dos serviços de educação designado por despacho do governador.\n\nArt. 33.º Das reuniões de que tratam os artigos 29.º e 30.º e das sessões do conselho pedagógico serão lavradas actas, que, nos trinta dias subsequentes ao termo da reunião, serão remetidas, por cópia, à Direcção-Geral de Educação.\n\n§ único. O governador de cada província fixará, nos termos legais, os quantitativos das senhas de presença a abonar em relação às reuniões previstas nos artigos 29.º e 30.º e às sessões do conselho pedagógico.\n\nArt. 34.º São extintos os conselhos de instrução pública, técnico-pedagógico, do ensino de adaptação e o conselho de educação referido no artigo 4.º do [Decreto n.º 46320](https://diariodarepublica.pt/dr/detalhe/decreto/46320-1965-236691), de 30 de Abril de 1965.\n\nArt. 35.º As atribuições dos órgãos extintos pelo disposto no artigo anterior ficam, no âmbito da competência dos governos das províncias, cometidas às reuniões estabelecidas nos artigos 29.º e 30.º do presente diploma, desde que se enquadrem na competência administrativa que lhes é atribuída, e ao conselho dos inspectores sobre que dispõe o artigo 26.º do [Decreto-Lei n.º 46447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46447-1965-291953), de 20 de Julho de 1965, quanto aos aspectos técnicos do ensino infantil, primário e do magistério primário, sua qualidade e rendimento, e as demais ao conselho pedagógico.\n\nArt. 36.º Em cada um dos estabelecimentos de ensino secundário será constituída uma associação de professores, pais de alunos e antigos alunos, com estatutos aprovados pelo governador da província.\n\n§ 1.º A estas associações compete, especialmente:\n\na) Cooperar com as autoridades escolares na função educativa;\n\nb) Promover o melhor conhecimento dos alunos e de seus ambientes familiares;\n\nc) Esclarecer as famílias quanto às suas obrigações educativas e à cooperação devida às autoridades escolares;\n\nd) Facultar aos alunos de economia débil livros, material escolar de consumo corrente e melhores condições de aplicação;\n\ne) Promover o convívio assíduo das famílias com a vida escolar;\n\nf) Promover a conservação do convívio pós-escolar entre os professores e os antigos alunos;\n\ng) Manter, tanto quanto possível actualizado, o currículo pós-escolar e social dos antigos alunos;\n\nh) De modo geral, contribuir para a melhoria da instituição escolar em ordem aos seus fins.\n\n§ 2.º Nos cento e vinte dias seguintes à publicação do presente diploma no Boletim Oficial da província serão aprovados os estatutos destas associações, cumprindo às reuniões previstas no artigo 30.º para o ensino técnico profissional e para o ensino liceal a elaboração dos respectivos projectos.\n\nArt. 37.º Os actuais chefes de repartição das direcções provinciais dos serviços de educação, de nomeação provisória ou definitiva, passam a designar-se chefes de departamento com a categoria constante do § 2.º do artigo 17.º do presente diploma.\n\nArt. 38.º Ficam os governadores das províncias autorizados a tomar as providências de ordem financeira destinadas à execução do presente diploma.\n\nArt. 39.º Fica revogado o artigo 5.º do [Decreto n.º 43880](https://diariodarepublica.pt/dr/detalhe/decreto/43880-1961-173965), de 25 de Agosto de 1961, cumprindo aos agentes docentes proceder à matrícula dos alunos de suas escolas e postos escolares, bem como o demais expediente respeitante à frequência e estatística escolar, em subordinação hierárquica às repartições escolares distritais correspondentes.\n\n§ único. Para os efeitos do presente artigo, a cada edifício escolar corresponderá uma escola, um posto escolar ou uma escola central, nos termos do disposto no artigo 5.º do [Decreto-Lei n.º 45908](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45908-1964-537580), de 10 de Setembro de 1964.\n\nArt. 40.º A execução do presente diploma em tudo quanto representa aumento de despesas por acréscimo de lugares fica condicionada às disponibilidades orçamentais de cada província.\n\nArt. 41.º Nos casos omissos decidirá o Ministro do Ultramar por despacho, sobre parecer da Direcção-Geral de Educação.\n\nMarcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.\n\nPromulgado em 29 de Outubro de 1969.\n\nPublique-se.\n\nPresidência da República, 8 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.\n\nMapa a que se refere o artigo 26.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/11/26200/15381542.pdf)\n\nMinistério do Ultramar, 29 de Outubro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha."
+  },
+  "1dd6c14d5ebe4392": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O [Decreto-Lei n.º 46447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46447-1965-291953), de 20 de Julho de 1965, definiu as funções de inspecção e de direcção das actividades de natureza cultural e pedagógica exercidas nas províncias ultramarinas como «paralelas, formando ramos conexos dos serviços de educação». Promulgada, pelo citando decreto-lei, a orgânica dos serviços de inspecção, mostra-se necessário proceder à revisão da dos serviços de direcção, a fim de que o paralelismo enunciado se estabeleça.\n\nAssim:\n\nOuvidos os governos das províncias ultramarinas e o Conselho Ultramarino;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "8ccf15f20d734245": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs funções de direcção das actividades de natureza cultural e pedagógica exercidas nas províncias ultramarinas, a que se refere o [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957, são desempenhadas:\n\nI) No Ministério do Ultramar: pela Direcção-Geral de Educação, nos termos do disposto no [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967 (Lei Orgânica do Ministério do Ultramar);\n\nII) Nas províncias de governo-geral: pelas direcções provinciais dos serviços de educação, a cargo de directores provinciais;\n\nIII) Nas províncias de governo simples: pelas repartições provinciais dos serviços de educação, a cargo de chefes de repartições provinciais.\n\n§ único. Nas províncias de governo simples haverá para o ensino infantil e primário um adjunto do chefe de repartição provincial."
+  },
+  "a4ca0fd7f6caa27f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs funções de direcção compreendem:\n\na) Matérias de ensino, educação e cultura:\n\n1) A criação, o apetrechamento e o funcionamento administrativo das instituições oficiais de ensino, educação e cultura: escolas, arquivos, bibliotecas, museus e demais organismos congéneres;\n\n2) A fiscalização administrativa dos institutos particulares de ensino, educação e cultura e demais organismos de acção cultural, nos termos legais e regulamentares que os disciplinarem;\n\nb) Matérias respeitantes ao exercício dos cultos:\n\n1) As relações do Estado com as missões católicas portuguesas;\n\n2) A intervenção oficial no que se refere ao exercício de outras confissões religiosas;\n\nc) As relações com a Organização Nacional Mocidade Portuguesa e Mocidade Portuguesa Feminina;\n\nd) As relações com os conselhos provinciais de educação física.\n\n§ único. As relações previstas nas alíneas anteriores não afectam a legislação especial por que se regem a Organização Nacional Mocidade Portuguesa e Mocidade Portuguesa Feminina e o conselho provincial de educação física."
+  },
+  "fad883ddec460c35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNas províncias de governo-geral haverá em cada distrito uma repartição escolar, a cargo de um director escolar e de um subdirector escolar, observando-se o disposto no artigo 5.º e seu § único."
+  },
+  "c475f97f262a8f72": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs repartições escolares distritais desempenham nos respectivos distritos as atribuições administrativas dos serviços, em ordem ao ensino infantil e primário, de harmonia com os preceitos regulamentares e as instruções superiores, competindo-lhes, especialmente:\n\n1) Cumprir as determinações superiores e manter informada, com actualização, a direcção provincial sobre os assuntos das atribuições desta;\n\n2) O recenseamento escolar infantil e primário do distrito;\n\n3) A elaboração do projecto de ocupação escolar infantil e primária do distrito e a sua revisão de três em três anos;\n\n4) A estatística escolar do distrito;\n\n5) O despacho com o governador do distrito dos assuntos administrativos da competência deste;\n\n6) Manter com os agentes de inspecção relações de cooperação e entendimento, tendo em vista a ordem do serviço público e o progresso do ensino como objectivos comuns.\n\n§ único. Os subdirectores e os directores escolares percorrerão frequentemente a área dos respectivos distritos, a fim de providenciarem na orientação dos actos administrativos da competência dos agentes docentes, tais como matrículas e estatísticas, e na fiscalização da escrituração e do funcionamento das caixas escolares e se documentarem, para informação superior, sobre o estado dos edifícios e necessidades de mobiliário e material escolares."
+  },
+  "a7bfd12abeb9bfd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO governador da província colocará em cada distrito um subdirector escolar e um director escolar, se as necessidades do serviço o impuserem.\n\n§ único. Nos distritos onde tiverem sede inspectores escolares serão colocados sempre directores escolares."
+  },
+  "3bbda70f4cd9e976": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs reitores e directores dos estabelecimentos do ciclo preparatório do ensino secundário, do ensino secundário e médio, ou equiparados, despacham com os governadores de distrito os assuntos administrativos da competência destes."
+  },
+  "6b1030167d015267": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs direcções provinciais, as repartições provinciais dos serviços de educação e as repartições escolares constituem os órgãos por intermédio dos quais os governos ultramarinos exercem as funções directiva e administrativa em matéria de ensino, educação e cultura, paralelas das funções técnicas e de inspecção definidas no [Decreto-Lei n.º 46447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46447-1965-291953), de 20 de Julho de 1965, e demais legislação aplicável.\n\n§ único. Os serviços provinciais de reordenamento rural, de agricultura e florestas e de veterinária intervêm, nos termos da lei, nas diversas modalidades de ensino rural, agrícola e de pecuária."
+  },
+  "32d9de55a134ffcb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAos agentes de direcção de que trata o presente diploma não é permitido ministrar o ensino oficial, oficializado ou particular, de qualquer grau, nem ser directores, proprietários ou por qualquer forma interessados em estabelecimentos de ensino particular.\n\n§ único. O não cumprimento do disposto no corpo do artigo constitui a infracção disciplinar prevista na primeira parte do n.º 20.º do artigo 366.º do Estatuto do Funcionalismo Ultramarino."
+  },
+  "113c4a832a7c94de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs lugares de director dos serviços de educação são providos por escolha do Ministro do Ultramar:\n\na) Entre o director de serviços, os inspectores de educação e os chefes de repartição da Direcção-Geral de Educação; os inspectores provinciais de educação e os chefes de repartições provinciais e chefes de departamento do ciclo preparatório do ensino secundário, do ensino técnico profissional e do ensino liceal;\n\nb) Entre diplomados com curso superior, de preferência habilitados com o curso de Ciências Pedagógicas."
+  },
+  "f1ff63bf754eb278": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs lugares de chefe de repartição provincial dos serviços de educação são providos por escolha do Ministro do Ultramar:\n\na) Entre os chefes das repartições da Direcção-Geral de Educação e os chefes dos departamentos do ensino liceal, do ensino técnico profissional ou do ciclo preparatório do ensino secundário das direcções provinciais dos serviços de educação;\n\nb) Entre diplomados com curso superior, de preferência habilitados com o curso de Ciências Pedagógicas."
+  },
+  "7233408d9bdaab06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nOs directores provinciais e os chefes de repartições provinciais dos serviços de educação são providos em comissão.\n\n§ único. Se o provimento recair em professores efectivos, o tempo da comissão é considerado, para todos os efeitos, como de actividade docente."
+  },
+  "34edfcec35c51cad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nNas províncias de governo simples, e enquanto nelas não forem criados os serviços autónomos de inspecção, esta funcionará com arquivo e expediente próprios e os agentes de inspecção ficam directamente subordinados aos chefes de repartição provinciais."
+  },
+  "c6978677fa3f8dc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs directores provinciais são substituídos nas suas faltas, impedimentos e ausências pelo chefe do departamento do ensino liceal ou do ensino técnico profissional e médio, a designar por despacho do governador-geral.\n\n§ único. Os chefes de repartições provinciais são substituídos nas suas faltas, impedimentos e ausências por um reitor ou director de estabelecimento de ensino secundário ou médio da sede da repartição provincial dos serviços, a designar por despacho do governador."
+  },
+  "8e6a2588d7e514e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs adjuntos dos chefes de repartições provinciais têm a categoria de directores escolares e serão providos por transferência de directores escolares de outra província ou por promoção de escolha do Ministro do Ultramar entre subdirectores escolares com, pelo menos, três anos de exercício de funções deste cargo com boas informações."
+  },
+  "10800afa91313f92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAs direcções provinciais dos serviços de educação compreendem os seguintes departamentos:\n\n1.º Do ensino infantil, primário e do magistério primário;\n\n2.º Do ciclo preparatório do ensino secundário;\n\n3.º Do ensino liceal;\n\n4.º Do ensino técnico profissional e médio;\n\n5.º Do ensino particular;\n\n6.º Dos cultos e instituições culturais.\n\n§ 1.º Pelo departamento do ensino infantil, primário e do magistério primário correrá também o expediente das escolas de habilitação de professores de posto escolar.\n\n§ 2.º No departamento do ensino infantil, primário e do magistério primário prestará serviço um director escolar, adjunto do respectivo chefe, para o ensino infantil e primário.\n\n§ 3.º Correrá pelo departamento de cultos e instituições culturais o expediente relativo às funções resultantes do disposto no artigo 1.º do [Decreto n.º 46935](https://diariodarepublica.pt/dr/detalhe/decreto/46935-1966-486364), de 1 de Abril de 1966.\n\n§ 4.º O chefie do departamento dos cultos e instituições culturais é vogal nato da Comissão de Exame e Classificação dos Espectáculos."
+  },
+  "05d27fa1de827e20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nAs repartições provinciais dos serviços de educação compreendem as secções seguintes:\n\na) Do ensino infantil e primário;\n\nb) Do ciclo preparatório do ensino secundário;\n\nc) Do ensino liceal e técnico profissional.\n\n§ 1.º Directamente pelo chefe de repartição provincial, coadjuvado pelo pessoal burocrático por ele designado, correrão os assuntos referentes a cultos e instituições culturais.\n\n§ 2.º Nas províncias onde funcionarem escolas de habilitação de professores de posto escolar e ou do magistério primário o expediente delas compete à secção do ensino infantil e primário.\n\n§ 3.º A chefia da secção do ensino infantil e primário é desempenhada pelo adjunto do chefe de repartição provincial.\n\n§ 4.º O expediente administrativo do ensino particular correrá pelas secções dos graus correspondentes."
+  },
+  "368658549fc57653": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs lugares de chefe de departamento são providos por escolha do Ministro do Ultramar entre diplomados com curso superior adequado ao exercício do cargo, de preferência com o curso de Ciências Pedagógicas.\n\n§ 1.º Os lugares de chefe de departamento do ensino infantil, primário e do magistério primário poderão também ser providos por funcionários que hajam desempenhado as funções de inspectores-adjuntos do ensino primário durante, pelo menos, três anos no cargo com boas informações.\n\n§ 2.º Os chefes de repartições provinciais e de departamento e os inspectores-adjuntos das inspecções provinciais de educação têm a categoria da letra E."
+  },
+  "16721228176681ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs lugares de director escolar são providos:\n\na) Por trânsito de inspectores escolares, nos termos do disposto no artigo 8.º do [Decreto-Lei n.º 46447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46447-1965-291953), de 20 de Julho de 1965;\n\nb) Por escolha entre os subdirectores escolares com mais de três anos de bom exercício no cargo e boas informações.\n\n§ único. Os directores escolares e os inspectores escolares têm a categoria da letra F."
+  },
+  "ce25d1ea8413494b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs lugares de subdirector escolar são providos:\n\na) Por trânsito de subinspectores escolares, nos termos do disposto no artigo 8.º do [Decreto-Lei n.º 46447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46447-1965-291953), de 20 de Julho de 1965;\n\nb) Por concurso de provas públicas.\n\n§ único. Os lugares de subdirector escolar criados por este diploma poderão ser providos, em primeira nomeação, por escolha do Ministro do Ultramar, sob proposta dos governos das províncias ultramarinas, de entre professores habilitados pelas escolas do magistério primário, com, pelo menos, cinco anos de serviço e boas informações."
+  },
+  "549f42b2aa353b1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO júri do concurso a que se refere o artigo anterior será presidido pelo director de serviços da Direcção-Geral de Educação, e dele farão parte, como vogais, um director provincial dos serviços de educação, um chefe de departamento do ensino infantil, primário e do magistério primário e dois directores escolares, distritais a designar por despacho ministerial, servindo um dos últimos também de secretário.\n\n§ 1.º No impedimento do director de serviços da Direcção-Geral de Educação, os júris serão presididos por um director provincial dos serviços de educação, e deles fará parte, além do chefe de departamento do ensino infantil, primário e do magistério primário, outro a designar por despacho ministerial.\n\n§ 2.º Os júris funcionarão nas províncias de governo-geral e nas províncias de governo simples onde o número de candidatos exceda o dos seus componentes.\n\n§ 3.º Quando em qualquer província o número de candidatos for inferior ao dos membros do júri, deslocar-se-ão aqueles, com passagens de conta do Estado, à província onde o júri houver de funcionar.\n\n§ 4.º Nestes júris o presidente tem voto de qualidade.\n\n§ 5.º O Ministro do Ultramar fixará na portaria que regulamentar os concursos as gratificações a que terão direito os membros dos júris de que trata o presente artigo. Idênticas gratificações serão abonadas aos membros dos júris dos concursos para subinspectores e inspectores escolares."
+  },
+  "938f7cf41f094cd8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nAos concursos de provas públicas para o provimento dos lugares de subinspector escolar são admitidos os professores habilitados pelas escolas do magistério primário e com o curso de Ciências Pedagógicas e todo o serviço docente qualificado de Suficiente.\n\n§ 1.º Não sendo providas todas as vagas, nos termos do corpo deste artigo, proceder-se-á logo a concurso de provas públicas entre professores do ensino primário com, pelo menos, três anos de serviço docente qualificado de Suficiente, dos quais dois no ultramar.\n\n§ 2.º Se o número de vagas a prover for superior ao dos candidatos referidos no corpo do artigo, poderão ser admitidos ao mesmo concurso os candidatos referidos no parágrafo anterior, devendo, porém, ser classificados e nomeados depois dos primeiros."
+  },
+  "ca45caf3e6b6ddaf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs directores escolares são substituídos nas suas faltas, impedimentos e ausências pelos subdirectores escolares colocados na mesma repartição.\n\n§ único. Os subdirectores escolares são substituídos nas suas faltas, impedimentos e ausências por professores habilitados por escola do magistério primário, de preferência com o curso de Ciências Pedagógicas, designados por despacho do governador-geral."
+  },
+  "73b1bbe758acb280": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs directores e os chefes de repartições provinciais dos serviços de educação elaborarão até 28 de Fevereiro o relatório dos serviços referentes ao ano escolar anterior, remetendo à Direcção-Geral de Educação um exemplar.\n\n§ único. Os relatórios dos directores e subdirectores escolares que chefiarem repartições distritais serão remetidos à direcção provincial até 31 de Dezembro."
+  },
+  "25ddea5f30abc55f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nNa directa dependência dos directores de serviços provinciais funcionará uma secretaria comum, por onde se processará o expediente referente a entrada, saída e distribuição da correspondência; concursos de admissão e promoção do pessoal burocrático e menor; administração financeira e estatística e outros que, por serem comuns a diversos departamentos, o director provincial determine por ordem de serviço.\n\n§ 1.º O chefe da secretaria é chefe de secção.\n\n§ 2.º O expediente da administração financeira e a estatística estarão a cargo do primeiro-oficial requisitado aos serviços de Fazenda e contabilidade, assistido do demais pessoal de secretaria que o director de serviços considere necessário."
+  },
+  "b2d59c2e5b5db4ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nÉ mantido o gabinete criado pelo artigo 1.º do [Decreto n.º 43880](https://diariodarepublica.pt/dr/detalhe/decreto/43880-1961-173965), de 25 de Agosto de 1961."
+  },
+  "a37dfed8e33a4f87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nO quadro comum dos serviços de educação é o que consta do mapa anexo ao presente diploma, com as categorias e gratificações nele indicadas.\n\n§ único. Os actuais directores escolares de 1.ª e 2.ª classes transitam, independentemente de quaisquer formalidades, para os lugares de director escolar criados pelo presente diploma."
+  },
+  "f6c59746a5feddd4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1975-02-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19."
+   ],
+   "markdown": "###### Artigo 27.º\n\nOs lugares de chefe de secção são providos, mediante despacho do Governador, por promoção dos primeiros-oficiais dos Serviços de Educação do respectivo território, com boas informações na categoria e por ordem de antiguidade na mesma.\n\n> Alterado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19."
+  },
+  "c0a5f51b0f5743b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nFicam autorizados os órgãos legislativos dos governos das províncias ultramarinas a fixar os quadros do pessoal de secretaria dos serviços de educação."
+  },
+  "e18393bc2bbe7328": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO director provincial reunirá, sempre que necessário e pelo menos uma vez em cada ano, com o chefe do departamento do ensino infantil, primário e do magistério primário e os directores e subdirectores escolares distritais, a fim de assegurar a unidade de acção administrativa e serem emitidos pareceres sobre assuntos de administração escolar que lhes sejam submetidos por despacho do governador-geral."
+  },
+  "8e13c08f656e771c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nEm relação ao ciclo preparatório do ensino secundário e aos ensinos técnico profissional e liceal haverá também e com idênticas finalidades, sempre que necessário e pelo menos uma vez por ano, reuniões do director provincial com os chefes dos departamentos respectivos e, conforme os casos, os directores ou os reitores dos correspondentes estabelecimentos."
+  },
+  "faca27a7a62cb8e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nNas reuniões de que tratam os artigos anteriores tomarão parte os inspectores provinciais e os inspectores-adjuntos do grau ou ramo de ensino a que respeitem."
+  },
+  "828b85d131771dc1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nEm cada uma das províncias ultramarinas haverá um conselho pedagógico destinado a dar parecer, mediante consulta do governador, sobre problemas de educação no âmbito provincial, especialmente os respeitantes à coordenação geral do ensino, sua harmonização com os interesses sociais e sua actualização como factor do desenvolvimento da respectiva província.\n\n§ 1.º Nas províncias de governo-geral o conselho pedagógico terá a seguinte composição:\n\nPresidente - o secretário provincial de educação.\n\nVice-presidentes - o inspector provincial e o director provincial dos serviços de educação. O secretário provincial poderá delegar as suas funções num dos vice-presidentes, em cada caso, consoante os assuntos da agenda.\n\nVogais - os inspectores adjuntos do inspector provincial e os chefes dos departamentos da direcção provincial; um representante eleito dos estabelecimentos de ensino particular; um representante das dioceses designado pelos prelados; um representante eleito das associações de professores, pais de alunos e antigos alunos dos estabelecimentos de ensino secundário; os comissários provinciais da Mocidade Portuguesa e da Mocidade Portuguesa Feminina e o presidente do conselho provincial de educação física;\n\nSecretário, sem voto - o chefe de secção do gabinete a que se refere o artigo 26.º do presente diploma.\n\n§ 2.º Nas províncias de governo simples o conselho pedagógico terá a seguinte composição:\n\nPresidente - o chefe de repartição provincial dos serviços de educação.\n\nVice-presidente - um dos reitores ou directores dos estabelecimentos de ensino secundário ou médio da sede do governo.\n\nVogais - os restantes reitores ou directores de estabelecimentos de ensino secundário ou médio da província; os inspectores escolares; os directores escolares adjuntos do chefe de repartição provincial e distritais; um representante da diocese designado pelo prelado; um representante eleito dos estabelecimentos de ensino particular; um representante eleito das associações de professores, pais de alunos e antigos alunos dos estabelecimentos de ensino secundário; os comissários provinciais da Mocidade Portuguesa e da Mocidade Portuguesa Feminina, e o presidente do conselho provincial de educação física.\n\nSecretário, sem voto - um chefe de secção da repartição provincial dos serviços de educação designado por despacho do governador."
+  },
+  "3a217346b2ca8232": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nDas reuniões de que tratam os artigos 29.º e 30.º e das sessões do conselho pedagógico serão lavradas actas, que, nos trinta dias subsequentes ao termo da reunião, serão remetidas, por cópia, à Direcção-Geral de Educação.\n\n§ único. O governador de cada província fixará, nos termos legais, os quantitativos das senhas de presença a abonar em relação às reuniões previstas nos artigos 29.º e 30.º e às sessões do conselho pedagógico."
+  },
+  "b7c080a66651370b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nSão extintos os conselhos de instrução pública, técnico-pedagógico, do ensino de adaptação e o conselho de educação referido no artigo 4.º do [Decreto n.º 46320](https://diariodarepublica.pt/dr/detalhe/decreto/46320-1965-236691), de 30 de Abril de 1965."
+  },
+  "c1ae063d94de407c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nAs atribuições dos órgãos extintos pelo disposto no artigo anterior ficam, no âmbito da competência dos governos das províncias, cometidas às reuniões estabelecidas nos artigos 29.º e 30.º do presente diploma, desde que se enquadrem na competência administrativa que lhes é atribuída, e ao conselho dos inspectores sobre que dispõe o artigo 26.º do [Decreto-Lei n.º 46447](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46447-1965-291953), de 20 de Julho de 1965, quanto aos aspectos técnicos do ensino infantil, primário e do magistério primário, sua qualidade e rendimento, e as demais ao conselho pedagógico."
+  },
+  "3ac7e2537f3e7381": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nEm cada um dos estabelecimentos de ensino secundário será constituída uma associação de professores, pais de alunos e antigos alunos, com estatutos aprovados pelo governador da província.\n\n§ 1.º A estas associações compete, especialmente:\n\na) Cooperar com as autoridades escolares na função educativa;\n\nb) Promover o melhor conhecimento dos alunos e de seus ambientes familiares;\n\nc) Esclarecer as famílias quanto às suas obrigações educativas e à cooperação devida às autoridades escolares;\n\nd) Facultar aos alunos de economia débil livros, material escolar de consumo corrente e melhores condições de aplicação;\n\ne) Promover o convívio assíduo das famílias com a vida escolar;\n\nf) Promover a conservação do convívio pós-escolar entre os professores e os antigos alunos;\n\ng) Manter, tanto quanto possível actualizado, o currículo pós-escolar e social dos antigos alunos;\n\nh) De modo geral, contribuir para a melhoria da instituição escolar em ordem aos seus fins.\n\n§ 2.º Nos cento e vinte dias seguintes à publicação do presente diploma no Boletim Oficial da província serão aprovados os estatutos destas associações, cumprindo às reuniões previstas no artigo 30.º para o ensino técnico profissional e para o ensino liceal a elaboração dos respectivos projectos."
+  },
+  "1afe8403b7253d4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nOs actuais chefes de repartição das direcções provinciais dos serviços de educação, de nomeação provisória ou definitiva, passam a designar-se chefes de departamento com a categoria constante do § 2.º do artigo 17.º do presente diploma."
+  },
+  "77ba7c72e98f0068": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nFicam os governadores das províncias autorizados a tomar as providências de ordem financeira destinadas à execução do presente diploma."
+  },
+  "56c9ad223641c7bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nFica revogado o artigo 5.º do [Decreto n.º 43880](https://diariodarepublica.pt/dr/detalhe/decreto/43880-1961-173965), de 25 de Agosto de 1961, cumprindo aos agentes docentes proceder à matrícula dos alunos de suas escolas e postos escolares, bem como o demais expediente respeitante à frequência e estatística escolar, em subordinação hierárquica às repartições escolares distritais correspondentes.\n\n§ único. Para os efeitos do presente artigo, a cada edifício escolar corresponderá uma escola, um posto escolar ou uma escola central, nos termos do disposto no artigo 5.º do [Decreto-Lei n.º 45908](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45908-1964-537580), de 10 de Setembro de 1964."
+  },
+  "6e29c1a62254e27e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nA execução do presente diploma em tudo quanto representa aumento de despesas por acréscimo de lugares fica condicionada às disponibilidades orçamentais de cada província."
+  },
+  "b7d0775db76b53ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nNos casos omissos decidirá o Ministro do Ultramar por despacho, sobre parecer da Direcção-Geral de Educação.\n\nMarcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.\n\nPromulgado em 29 de Outubro de 1969.\n\nPublique-se.\n\nPresidência da República, 8 de Novembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.\n\nMapa a que se refere o artigo 26.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/11/26200/15381542.pdf)\n\nMinistério do Ultramar, 29 de Outubro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha."
+  }
+ }
+}

@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1961-12-27'
+version_history:
+  file: decreto-lei-43457.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1960-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1961-12-27'
+    amending: pt:dre:184524:por
+    amending_title: Decreto-Lei n.º 44123
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:35:19Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 44123. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1960/decreto-lei-43457.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,53 +166,87 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É criado no Ministério das Comunicações um Gabinete de Estudos e Planeamento de Transportes Terrestres, abreviadamente G. E. P. T., subordinado directamente ao respectivo Ministro.
+###### Artigo 1.º
 
-Art. 2.º Compete ao G. E. P. T. estudar os problemas e correspondentes soluções relacionadas com o desenvolvimento dos sistemas de transportes terrestres, promovendo o seu planeamento e coordenação, para o que colaborará estreitamente com os serviços do Ministério das Comunicações e outras entidades interessadas naqueles problemas, no sentido de se estabelecer a indispensável unidade de acção.
+É criado no Ministério das Comunicações um Gabinete de Estudos e Planeamento de Transportes Terrestres, abreviadamente G. E. P. T., subordinado directamente ao respectivo Ministro.
+
+###### Artigo 2.º
+
+Compete ao G. E. P. T. estudar os problemas e correspondentes soluções relacionadas com o desenvolvimento dos sistemas de transportes terrestres, promovendo o seu planeamento e coordenação, para o que colaborará estreitamente com os serviços do Ministério das Comunicações e outras entidades interessadas naqueles problemas, no sentido de se estabelecer a indispensável unidade de acção.
 
 § único. O G. E. P. T. apresentará periòdicamente relatórios com os estudos elaborados de acordo com o plano de trabalhos fixados anualmente pelo Ministro das Comunicações.
 
-Art. 3.º As actividades do G. E. P. T. serão dirigidas por um conselho directivo, que, para o efeito, se apoiará em serviços que se poderão dividir em grupos especializados.
+###### Artigo 3.º
 
-Art. 4.º O conselho directivo será constituído por um presidente e três vogais, todos técnicos de reconhecida competência, devendo um ser especialista em questões relacionadas com os transportes terrestres e outro em questões administrativas, os quais serão nomeados por portaria do Ministro das Comunicações.
+As actividades do G. E. P. T. serão dirigidas por um conselho directivo, que, para o efeito, se apoiará em serviços que se poderão dividir em grupos especializados.
+
+###### Artigo 4.º
+
+O conselho directivo será constituído por um presidente e três vogais, todos técnicos de reconhecida competência, devendo um ser especialista em questões relacionadas com os transportes terrestres e outro em questões administrativas, os quais serão nomeados por portaria do Ministro das Comunicações.
 
 § único. A composição fixada no corpo do artigo poderá ser ampliada, mediante portaria do Ministro das Comunicações, se tal vier a mostrar-se necessário.
 
-Art. 5.º Os serviços do G. E. P. T. ficam a cargo de um director-delegado, designado pelo Ministro das Comunicações de entre os vogais do conselho directivo, sob proposta do seu presidente.
+###### Artigo 5.º
 
-Art. 6.º Os vencimentos ou gratificações dos membros do conselho directivo serão fixados segundo normas aprovadas pelo Ministro das Comunicações, ouvido o Ministro das Finanças, e são acumuláveis com os que os nomeados percebam pelo exercício de outras funções, ficando, no entanto, sujeitos ao limite estabelecido no [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, quando se trate de funcionários dos quadros permanentes dos serviços do Estado ou dos corpos administrativos.
+Os serviços do G. E. P. T. ficam a cargo de um director-delegado, designado pelo Ministro das Comunicações de entre os vogais do conselho directivo, sob proposta do seu presidente.
 
-Art. 7.º O pessoal técnico, administrativo e menor necessário aos serviços do G. E. P. T. será contratado ou assalariado, nos termos e com as remunerações que forem aprovadas em conformidade com as leis em vigor, por despacho do Ministro das Comunicações.
+###### Artigo 6.º
 
-Art. 8.º Mediante autorização do Ministro das Comunicações, poderá ser feita requisição de pessoal dos quadros do Ministério das Comunicações necessário ao funcionamento dos serviços do G. E. P. T., o qual será contratado nas condições previstas no artigo anterior.
+Os vencimentos ou gratificações dos membros do conselho directivo serão fixados segundo normas aprovadas pelo Ministro das Comunicações, ouvido o Ministro das Finanças, e são acumuláveis com os que os nomeados percebam pelo exercício de outras funções, ficando, no entanto, sujeitos ao limite estabelecido no [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, quando se trate de funcionários dos quadros permanentes dos serviços do Estado ou dos corpos administrativos.
+
+###### Artigo 7.º
+
+O pessoal técnico, administrativo e menor necessário aos serviços do G. E. P. T. será contratado ou assalariado, nos termos e com as remunerações que forem aprovadas em conformidade com as leis em vigor, por despacho do Ministro das Comunicações.
+
+###### Artigo 8.º
+
+Mediante autorização do Ministro das Comunicações, poderá ser feita requisição de pessoal dos quadros do Ministério das Comunicações necessário ao funcionamento dos serviços do G. E. P. T., o qual será contratado nas condições previstas no artigo anterior.
 
 § 1.º O pessoal assim requisitado considerar-se-á em comissão transitória de serviço, sem prejuízo da contagem do tempo de comissão, para todos os efeitos legais, como de efectivo serviço nos lugares de que foi deslocado.
 
 § 2.º O pessoal requisitado ao abrigo deste artigo poderá ser substituído, a título interino e durante o período que durar a comissão, por acesso de funcionários dos respectivos organismos ou por livre nomeação.
 
-Art. 9.º Aos membros do conselho directivo e ao pessoal dos respectivos serviços, quando hajam de deslocar-se no desempenho das suas funções, serão abonadas ajudas de custo e despesas de transporte. Sendo funcionários públicos ou administrativos, a ajuda de custo será a correspondente à sua categoria; no caso de indivíduos não servidores do Estado, será a ajuda de custo estabelecida conforme o disposto no artigo 11.º do [Decreto-Lei n.º 33834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33834-1944-551428), de 4 de Agosto de 1944.
+###### Artigo 9.º
 
-Art. 10.º O G. E. P. T. poderá contratar ou ajustar com entidades ou indivíduos a ele estranhos a realização de estudos ou trabalhos e elaboração de pareceres, anteprojectos ou projectos, em regime de prestação eventual de serviços ou tarefa.
+Aos membros do conselho directivo e ao pessoal dos respectivos serviços, quando hajam de deslocar-se no desempenho das suas funções, serão abonadas ajudas de custo e despesas de transporte. Sendo funcionários públicos ou administrativos, a ajuda de custo será a correspondente à sua categoria; no caso de indivíduos não servidores do Estado, será a ajuda de custo estabelecida conforme o disposto no artigo 11.º do [Decreto-Lei n.º 33834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33834-1944-551428), de 4 de Agosto de 1944.
 
-§ único. Em casos cuja natureza ou urgência o aconselhem poderá ser autorizada a efectivação dos contratos ou ajustes referidos no corpo do artigo com dispensa do cumprimento de quaisquer formalidades legais, incluindo o visto do Tribunal de Contas, desde que os encargos respectivos não ultrapassem 250000$00.
+###### Artigo 10.º
 
-Art. 11.º Mediante autorização do Ministro das Comunicações, poderá o G. E. P. T. enviar missões ao estrangeiro, a fim de estudarem assuntos relacionados com as suas atribuições.
+O G. E. P. T. poderá contratar ou ajustar com entidades ou indivíduos a ele estranhos a realização de estudos ou trabalhos e elaboração de pareceres, anteprojectos ou projectos, em regime de prestação eventual de serviços ou tarefa.
 
-Art. 12.º Todas as despesas com a instalação e funcionamento do G. E. P. T. serão suportadas pelo Fundo Especial de Transportes Terrestres, que, para o efeito, inscreverá anualmente no seu orçamento a competente verba, a qual será fixada pelo Ministro das Comunicações e constituirá, com os saldos de gerência do G. E. P. T., a sua receita.
+§ 1.º Em casos cuja natureza ou urgência o aconselhem poderá ser autorizada a efectivação dos contratos ou ajustes referidos no corpo do artigo com dispensa da realização de concurso, público ou limitado, e da celebração de contrato escrito.
 
-Art. 13.º A aplicação das receitas referidas no artigo anterior será feita em cada ano mediante orçamentos aprovados pelo Ministro das Comunicações e visado pelo Ministro das Finanças.
+§ 2.º A realização das despesas referidas no corpo do artigo será regulada pelas disposições aplicáveis do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, nomeadamente quanto a competências e limites, os quais serão os constantes dos seus artigos 10.º ou 11.º, consoante os casos.
 
-§ 1.º O presidente tem competência para autorizar a realização de despesas até à importância de 50000$00, podendo, no entanto, delega-la, no todo ou em parte, no director-delegado ou num dos vogais do conselho directivo.
+> Alterado pelo/a [Decreto-Lei n.º 44123](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44123-1961-184524), publicado em 1961-12-27.
 
-§ 2.º A entrega da receita por parte do Fundo Especial de Transportes Terrestres será feita directamente ao G. E. P. T., sendo os seus fundos geridos pelo presidente e por dois vogais do conselho directivo.
+###### Artigo 11.º
 
-§ 3.º No cofre do G. E. P. T. haverá normalmente apenas os fundos necessários para a satisfação das despesas correntes, competindo ao presidente fixar o seu quantitativo e ordenar o depósito da importância excedente.
+Mediante autorização do Ministro das Comunicações, poderá o G. E. P. T. enviar missões ao estrangeiro, a fim de estudarem assuntos relacionados com as suas atribuições.
 
-§ 4.º O levantamento dos fundos da conta de depósito far-se-á por meio de cheques assinados pelo presidente ou director-delegado e um dos vogais do conselho directivo.
+###### Artigo 12.º
 
-Art. 14.º O G. E. P. T. prestará directamente contas da sua gerência ao Tribunal de Contas.
+Todas as despesas com a instalação e funcionamento do G. E. P. T. serão suportadas pelo Fundo Especial de Transportes Terrestres, que, para o efeito, inscreverá anualmente no seu orçamento a competente verba, a qual será fixada pelo Ministro das Comunicações e constituirá, com os saldos de gerência do G. E. P. T., a sua receita.
 
-Art. 15.º A orgânica dos serviços do G. E. P. T., as normas a que este deverá subordinar a sua actividade e as atribuições do conselho directivo serão definidas em regulamento a aprovar por portaria do Ministro das Comunicações.
+###### Artigo 13.º
+
+A aplicação das receitas referidas no artigo anterior será feita em cada ano mediante orçamentos aprovados pelo Ministro das Comunicações e visados pelo Ministro das Finanças.
+
+No orçamento do Ministério das Comunicações inscrever-se-ão por totais as importâncias das respectivas classes de despesa.
+
+§ 1.º O presidente tem competência para autorizar a realização de despesas até à importância de 5000$00, podendo delegá-la, no todo ou em parte, no director-delegado ou num dos vogais do conselho directivo. Aquela competência abrange as despesas referidas no artigo 10.º do presente diploma.
+
+§ 2.º As receitas do G. E. P. T. serão entregues nos cofres do Estado e geridas pelo conselho directivo, com atribuições de conselho administrativo.
+
+> Alterado pelo/a [Decreto-Lei n.º 44123](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44123-1961-184524), publicado em 1961-12-27.
+
+###### Artigo 14.º
+
+O G. E. P. T. prestará directamente contas da sua gerência ao Tribunal de Contas.
+
+###### Artigo 15.º
+
+A orgânica dos serviços do G. E. P. T., as normas a que este deverá subordinar a sua actividade e as atribuições do conselho directivo serão definidas em regulamento a aprovar por portaria do Ministro das Comunicações.
 
 Publique-se e cumpra-se como nele se contém.
 

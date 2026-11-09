@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:281577:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1960-04-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "552da23495d8e754"
+   ]
+  },
+  {
+   "date": "1961-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:514185:por",
+     "title": "Decreto n.º 43340",
+     "published": "1960-11-21",
+     "dre_path": "/dr/detalhe/decreto/43340-1960-514185"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "9b38e41eb862f1ba",
+    "8462eb4829627698",
+    "e7a434e1e0b22611"
+   ]
+  }
+ ],
+ "fragments": {
+  "552da23495d8e754": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo o Governo de Macau exposto a necessidade urgente de se modificar a constituição do comando da Polícia de Segurança Pública daquela província, por forma a aumentar-lhe a sua eficiência;\n\nVisto o disposto no n.º I, alínea d), e no n.º IV, alínea a), da base X da Lei Orgânica do Ultramar Português;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:\n\nArtigo 1.º O comando do Corpo de Polícia de Segurança Pública da província de Macau será constituído pelos seguintes oficiais do quadro permanente do exército metropolitano, nomeados em comissão civil:\n\n1 comandante (major ou capitão);\n\n4 adjuntos (um capitão e três subalternos);\n\nos quais, embora enquadrados, para efeitos de categoria civil, nos grupos das letras, respectivamente, E e F dos mapas I e X anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, terão os vencimentos que na província corresponderem às suas patentes.\n\nArt. 2.º Os actuais chefes de secção do mesmo Corpo de Polícia passam a ter a designação de comissários, sendo-lhes atribuída a categoria da letra L dos mapas referidos no artigo anterior.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 28 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.\n\nPara ser publicado no Boletim Oficial de Macau. - Vasco Lopes Alves."
+  },
+  "9b38e41eb862f1ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo o Governo de Macau exposto a necessidade urgente de se modificar a constituição do comando da Polícia de Segurança Pública daquela província, por forma a aumentar-lhe a sua eficiência;\n\nVisto o disposto no n.º I, alínea d), e no n.º IV, alínea a), da base X da Lei Orgânica do Ultramar Português;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:"
+  },
+  "8462eb4829627698": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1961-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 43340](https://diariodarepublica.pt/dr/detalhe/decreto/43340-1960-514185), publicado em 1960-11-21."
+   ],
+   "markdown": "###### Artigo 1.º\n\nO comando do Corpo da Polícia de Segurança Pública da província de Macau será constituído pelos seguintes oficiais do exército metropolitano:\n\n1 de comandante (major ou capitão do quadro permanente);\n\n4 adjuntos (um capitão e três subalternos do quadro permanente ou do quadro de complemento).\n\n§ único. Os oficiais de que trata o corpo deste arigo, embora enquadrados, e para efeitos de categoria civil, respectivamente, nos grupos E e F dos mapas I e X anexos ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, terão os vencimentos que na província corresponderem às suas patentes.\n\n> Alterado pelo/a [Decreto n.º 43340](https://diariodarepublica.pt/dr/detalhe/decreto/43340-1960-514185), publicado em 1960-11-21."
+  },
+  "e7a434e1e0b22611": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs actuais chefes de secção do mesmo Corpo de Polícia passam a ter a designação de comissários, sendo-lhes atribuída a categoria da letra L dos mapas referidos no artigo anterior.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 28 de Abril de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Vasco Lopes Alves.\n\nPara ser publicado no Boletim Oficial de Macau. - Vasco Lopes Alves."
+  }
+ }
+}

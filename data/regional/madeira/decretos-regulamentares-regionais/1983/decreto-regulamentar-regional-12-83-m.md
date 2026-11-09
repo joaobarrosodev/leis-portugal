@@ -39,10 +39,28 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1987-04-28'
+version_history:
+  file: decreto-regulamentar-regional-12-83-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1983-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1987-04-28'
+    amending: pt:dre:665705:por
+    amending_title: Decreto Regulamentar Regional n.º 9/87/M
+    changes:
+    - Revoga Artigo 10.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:44:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    9/87/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-regulamentares-regionais/1983/decreto-regulamentar-regional-12-83-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,7 +140,9 @@ Tendo em vista estimular o investimento no sector das pescas de forma a dotar a 
 
 Nestes termos, ao abrigo da alínea b) do artigo 229.º da Constituição e da alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, e para efeitos do disposto no artigo 6.º do [Decreto Regional n.º 13/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1982-376191), de 20 de Outubro, o Governo Regional da Madeira decreta o seguinte:
 
-Artigo 1.º Os projectos de investimento considerados de interesse para a modernização da frota pesqueira da Região são os seguintes:
+###### Artigo 1.º
+
+Os projectos de investimento considerados de interesse para a modernização da frota pesqueira da Região são os seguintes:
 
 a) Aquisição de equipamentos de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar;
 
@@ -131,9 +152,13 @@ c) Transformação e reconversão de embarcações de pesca;
 
 d) Aquisição de artes e apetrechos de pesca.
 
-Art. 2.º O auxílio financeiro previsto no n.º 1.º do artigo 1.º do [Decreto Regional n.º 13/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1982-376191) revestirá a forma de comparticipação no pagamento dos juros resultantes do financiamento dos projectos de investimento especificados no artigo 1.º do presente diploma.
+###### Artigo 2.º
 
-Art. 3.º - 1 - No cálculo do montante do auxílio financeiro a atribuir aos projectos de aquisição de embarcações usadas serão aplicadas as deduções constantes do quadro anexo ao presente diploma.
+O auxílio financeiro previsto no n.º 1.º do artigo 1.º do [Decreto Regional n.º 13/82/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1982-376191) revestirá a forma de comparticipação no pagamento dos juros resultantes do financiamento dos projectos de investimento especificados no artigo 1.º do presente diploma.
+
+###### Artigo 3.º
+
+1 - No cálculo do montante do auxílio financeiro a atribuir aos projectos de aquisição de embarcações usadas serão aplicadas as deduções constantes do quadro anexo ao presente diploma.
 
 2 - A idade da embarcação é calculada desde a data do seu primeiro registo.
 
@@ -141,7 +166,9 @@ Art. 3.º - 1 - No cálculo do montante do auxílio financeiro a atribuir aos pr
 
 4 - No entanto, poderá ser objecto de auxílio financeiro por parte do Governo Regional a aquisição de equipamentos de navegação, de propulsão, de detecção e de comunicações e equipamentos auxiliares de pesca, de segurança no mar, artes e apetrechos de pesca para embarcações com idade superior a 10 anos.
 
-Art. 4.º - 1 - A duração dos empréstimos a conceder pelas instituições de crédito que actuam na Região para o financiamento dos projectos de investimento de que trata o presente diploma será a seguinte:
+###### Artigo 4.º
+
+1 - A duração dos empréstimos a conceder pelas instituições de crédito que actuam na Região para o financiamento dos projectos de investimento de que trata o presente diploma será a seguinte:
 
 a) Para a aquisição de equipamento de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar:
 
@@ -169,41 +196,49 @@ Período de reembolso - máximo de 2 anos.
 
 2 - A contagem do período de reembolso tem início despois de esgotado o período de carência.
 
-3 - Durante o período de utilização a taxa de juro a suportar pelo Governo Regional será de 15%.
+3 - Durante o período de utilização a taxa de juro a suportar pelo Governo Regional será de 10%.
 
-Art. 5.º As taxas de juro anuais a suportar pelo Governo Regional para os diferentes projectos de investimento contemplados no presente diploma serão as seguintes:
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27.
+
+###### Artigo 5.º
+
+As taxas de juro anuais a suportar pelo Governo Regional para os diferentes projectos de investimento contemplados no presente diploma serão as seguintes:
 
 a) Para a aquisição de equipamento de propulsão, de navegação, de detecção e de comunicações e equipamentos auxiliares de pesca e de segurança no mar:
 
-1.º ano - 12%;
+1.º ano - 8%;
 
-2.º ano - 10%;
+2.º ano - 6%;
 
-3.º ano - 8%;
+3.º ano - 4%;
 
-4.º ano - 6,5%;
+4.º ano - 3%;
 
-5.º ano - 5%;
+5.º ano - 2%;
 
 b) Para construção, aquisição, transformação e reconversão de embarcações de pesca:
-
-1.º ano - 15%;
-
-2.º ano - 12%;
-
-3.º ano - 10%;
-
-4.º ano - 8%.
-
-5.º ano e seguintes - 6,5%;
-
-c) Para a aquisição de artes e apetrechos de pesca:
 
 1.º ano - 10%;
 
 2.º ano - 8%;
 
-Art. 6.º - 1 - Os interessados na obtenção dos auxílios previstos neste diploma apresentarão às instituições de crédito que actuam na Região os projectos de investimento, elaborados em conformidade com as orientações destas, dos quais deverá, obrigatoriamente, constar o seguinte:
+3.º ano - 6%;
+
+4.º ano - 4%;
+
+5.º ano e seguintes - 3%;
+
+c) Para a aquisição de artes e apetrechos de pesca:
+
+1.º ano - 6%;
+
+2.º ano - 4%.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27.
+
+###### Artigo 6.º
+
+1 - Os interessados na obtenção dos auxílios previstos neste diploma apresentarão às instituições de crédito que actuam na Região os projectos de investimento, elaborados em conformidade com as orientações destas, dos quais deverá, obrigatoriamente, constar o seguinte:
 
 a) Descrição técnica completa do projecto, com indicações detalhadas do respectivo custo;
 
@@ -211,21 +246,39 @@ b) Demonstração da viabilidade económica e financeira, com base no pescado de
 
 c) Elementos demonstrativos da idoneidade do interessado.
 
-2 - As instituições de crédito procederão à análise e avaliação do projecto e remetê-lo-ão à Secretaria Regional de Agricultura e Pescas, acompanhado de parecer que caracterize a operação de crédito aprovada.
+2 - As instituições de crédito procederão à análise e avaliação do projecto e remetê-lo-ão à Secretaria Regional da Economia, acompanhado de parecer que caracterize a operação de crédito aprovada.
 
-3 - No prazo de 45 dias a contar da recepção do projecto, os Secretários Regionais da Agricultura e Pescas e do Planeamento e Finanças decidirão da atribuição dos auxílios previstos neste diploma, sendo respeitadas as orientações consagradas para o sector das pescas e respectivos limites orçamentais.
+3 - No prazo de 45 dias a contar da recepção do projecto, o Secretário Regional da Economia decidirá da atribuição dos auxílios previstos neste diploma, sendo respeitadas as orientações consagradas para o sector das pescas e respectivos limites orçamentais.
 
-Art. 7.º O montante dos encargos financeiros da responsabilidade do Governo Regional será sempre pago directamente às instituições de crédito.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27.
 
-Art. 8.º Cabe à instituição de crédito que tenha concedido um empréstimo para o financiamento do projecto de investimento, bem como à Direcção Regional das Pescas, fiscalizar a correcta aplicação dos capitais mutuados.
+###### Artigo 7.º
 
-Art. 9.º A inobservância, pelos interessados, das condições em que forem concedidos os auxílios previstos neste diploma confere à Secretaria Regional de Agricultura e Pescas o direito de exigir imediatamente a restituição dos auxílios financeiros que hajam sido liquidados e acarreta a perda do direito aos mesmos.
+O montante dos encargos financeiros da responsabilidade do Governo Regional será sempre pago directamente às instituições de crédito.
 
-Art. 10.º A aplicação do regime estabelecido neste diploma relativamente aos projectos de investimento em curso, aquando da sua entrada em vigor, será decidida caso a caso pelos Secretários Regionais da Agricultura e Pescas e do Planeamento e Finanças.
+###### Artigo 8.º
 
-Art. 11.º Os auxílios financeiros previstos neste diploma serão cumulativos com os já existentes e com os que eventualmente venham a ser criados na Região.
+Cabe à instituição de crédito que tenha concedido um empréstimo para o financiamento do projecto de investimento, bem como à Direcção Regional das Pescas, fiscalizar a correcta aplicação dos capitais mutuados.
 
-Art. 12.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+###### Artigo 9.º
+
+A inobservância, pelos interessados, das condições em que forem concedidos os auxílios previstos neste diploma confere à Secretaria Regional de Agricultura e Pescas o direito de exigir imediatamente a restituição dos auxílios financeiros que hajam sido liquidados e acarreta a perda do direito aos mesmos.
+
+###### Artigo 10.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27.
+
+###### Artigo 11.º
+
+Os auxílios financeiros revistos neste diploma não serão comutativos com quaisquer outros, com excepção dos previstos nos programas de reestruturação e modernização da frota de pesca da Região aprovados no âmbito da política de estruturas da pesca da Comunidade Económica Europeia.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 9/87/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1987-665705), publicado em 1987-04-27.
+
+###### Artigo 12.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em Plenário do Governo Regional aos 21 de Abril de 1983.
 

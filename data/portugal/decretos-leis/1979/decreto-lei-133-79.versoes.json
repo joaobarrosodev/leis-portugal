@@ -1,0 +1,128 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:382579:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1979-05-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b708aef9cba0b5ec"
+   ]
+  },
+  {
+   "date": "1983-02-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:311057:por",
+     "title": "Decreto-Lei n.º 100/83",
+     "published": "1983-02-18",
+     "dre_path": "/dr/detalhe/decreto-lei/100-1983-311057"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "e292990bde910016",
+    "b53babb95386f21a",
+    "86232712ec789a32",
+    "e0061f48929bcaa1",
+    "a4414866ed081840",
+    "e7e997b900994204",
+    "27e2f16ca0cf3a73",
+    "75b3dcd7795d63ca",
+    "af847f0e3b761026"
+   ]
+  }
+ ],
+ "fragments": {
+  "b708aef9cba0b5ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Maio\n\nConsiderando que a actual organização das bandas de música foi estabelecida pelo [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, e a das fanfarras do Exército foi estabelecida por determinação do Ministro do Exército, publicada na Ordem do Exército, n.º 1, 1.ª série, de 1959, e não se coadunam com as actuais necessidades;\n\nConsiderando que pelo [Decreto-Lei n.º 949/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/949-1976-390833), de 31 de Dezembro, foi criada a Inspecção das Bandas e Fanfarras do Exército e há necessidade de dotá-la do pessoal indispensável;\n\nConsiderando ser conveniente a criação de uma orquestra ligeira no Exército composta por pessoal do quadro de oficiais chefes de banda de música e de sargentos do ramo de músicos do quadro de sargentos de bandas e fanfarras do Exército;\n\nConsiderando que há necessidade de conferir a algumas bandas de música maior projecção e dotá-las de oficiais chefes e chefe-adjunto de banda;\n\nConsiderando que o actual quadro de oficiais chefes de banda de música é o constante no [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, e o actual quadro de sargentos de bandas e fanfarras do Exército é o constante no n.º 2 do artigo 9.º do [Decreto-Lei n.º 919/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/919-1976-391205), de 31 de Dezembro, e não satisfazem as exigências atrás enunciadas, tornando-se, pois, indispensável aumentar os seus quantitativos:\n\nO Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:\n\nArtigo 1.º São criadas no Exército duas bandas de música de tipo A e seis bandas de música de tipo B.\n\nArt. 2.º São criadas seis fanfarras do Exército.\n\nArt. 3.º É criada a Orquestra Ligeira do Exército.\n\nArt. 4.º O quadro de chefes de banda de música tem, nos respectivos postos, os seguintes quantitativos:\n\n3 majores.\n\n3 capitães.\n\n7 tenentes ou alferes.\n\nArt. 5.º O ramo de músicos do quadro de sargentos de banda e fanfarras do Exército tem, nos respectivos postos, os seguintes quantitativos:\n\n2 sargentos-mores.\n\n12 sargentos-chefes.\n\n30 sargentos-ajudantes.\n\n257 primeiros-sargentos e segundos-sargentos.\n\nArt. 6.º O Regulamento das Bandas de Música, Fanfarras e Orquestra Ligeira do Exército, respectivos quadros orgânicos e sua localização territorial serão estabelecidos por portaria do Chefe do Estado-Maior do Exército.\n\nArt. 7.º Os encargos resultantes da publicação deste decreto-lei serão suportados, no corrente ano, pelas disponibilidades das competentes verbas orçamentais destinadas a oficiais ou sargentos dos quadros aprovados por lei, conforme se trate de uns ou de outros.\n\nArt. 8.º Fica revogada toda a legislação em contrário.\n\nVisto e aprovado em Conselho da Revolução em 30 de Março de 1979.\n\nPromulgado em 4 de Abril de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto."
+  },
+  "e292990bde910016": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de Maio\n\nConsiderando que a actual organização das bandas de música foi estabelecida pelo [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, e a das fanfarras do Exército foi estabelecida por determinação do Ministro do Exército, publicada na Ordem do Exército, n.º 1, 1.ª série, de 1959, e não se coadunam com as actuais necessidades;\n\nConsiderando que pelo [Decreto-Lei n.º 949/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/949-1976-390833), de 31 de Dezembro, foi criada a Inspecção das Bandas e Fanfarras do Exército e há necessidade de dotá-la do pessoal indispensável;\n\nConsiderando ser conveniente a criação de uma orquestra ligeira no Exército composta por pessoal do quadro de oficiais chefes de banda de música e de sargentos do ramo de músicos do quadro de sargentos de bandas e fanfarras do Exército;\n\nConsiderando que há necessidade de conferir a algumas bandas de música maior projecção e dotá-las de oficiais chefes e chefe-adjunto de banda;\n\nConsiderando que o actual quadro de oficiais chefes de banda de música é o constante no [Decreto-Lei n.º 28401](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28401-1937-668687), de 31 de Dezembro de 1937, e o actual quadro de sargentos de bandas e fanfarras do Exército é o constante no n.º 2 do artigo 9.º do [Decreto-Lei n.º 919/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/919-1976-391205), de 31 de Dezembro, e não satisfazem as exigências atrás enunciadas, tornando-se, pois, indispensável aumentar os seus quantitativos:\n\nO Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:"
+  },
+  "b53babb95386f21a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão criadas no Exército duas bandas de música de tipo A e seis bandas de música de tipo B."
+  },
+  "86232712ec789a32": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão criadas seis fanfarras do Exército."
+  },
+  "e0061f48929bcaa1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ criada a Orquestra Ligeira do Exército."
+  },
+  "a4414866ed081840": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1983-02-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 100/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1983-311057), publicado em 1983-02-18."
+   ],
+   "markdown": "###### Artigo 4.º\n\nO quadro de chefes de bandas de música e fanfarras do Exército tem, nos respectivos postos, os seguintes quantitativos:\n\n1 tenente-coronel;\n\n2 majores;\n\n3 capitães;\n\n7 tenentes ou alferes.\n\n> Alterado pelo/a [Decreto-Lei n.º 100/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1983-311057), publicado em 1983-02-18."
+  },
+  "e7e997b900994204": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO ramo de músicos do quadro de sargentos de banda e fanfarras do Exército tem, nos respectivos postos, os seguintes quantitativos:\n\n2 sargentos-mores.\n\n12 sargentos-chefes.\n\n30 sargentos-ajudantes.\n\n257 primeiros-sargentos e segundos-sargentos."
+  },
+  "27e2f16ca0cf3a73": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO Regulamento das Bandas de Música, Fanfarras e Orquestra Ligeira do Exército, respectivos quadros orgânicos e sua localização territorial serão estabelecidos por portaria do Chefe do Estado-Maior do Exército."
+  },
+  "75b3dcd7795d63ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs encargos resultantes da publicação deste decreto-lei serão suportados, no corrente ano, pelas disponibilidades das competentes verbas orçamentais destinadas a oficiais ou sargentos dos quadros aprovados por lei, conforme se trate de uns ou de outros."
+  },
+  "af847f0e3b761026": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nFica revogada toda a legislação em contrário.\n\nVisto e aprovado em Conselho da Revolução em 30 de Março de 1979.\n\nPromulgado em 4 de Abril de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto."
+  }
+ }
+}

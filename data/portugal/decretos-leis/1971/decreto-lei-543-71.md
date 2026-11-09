@@ -29,10 +29,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-05-28'
+version_history:
+  file: decreto-lei-543-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-12-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-05-28'
+    amending: pt:dre:285373:por
+    amending_title: Decreto-Lei n.º 150/88
+    changes:
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +79,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:21:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 150/88. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-543-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,7 +164,9 @@ I
 
 Inscrição
 
-Artigo 1.º - 1. O exercício da indústria de transportes marítimos por quem tenha domicílio profissional ou sede no continente ou ilhas adjacentes depende da inscrição na Direcção-Geral dos Serviços de Fomento Marítimo (D. G. S. F. M.) do Ministério da Marinha, autorizada por despacho do Ministro da Marinha.
+###### Artigo 1.º
+
+1. O exercício da indústria de transportes marítimos por quem tenha domicílio profissional ou sede no continente ou ilhas adjacentes depende da inscrição na Direcção-Geral dos Serviços de Fomento Marítimo (D. G. S. F. M.) do Ministério da Marinha, autorizada por despacho do Ministro da Marinha.
 
 2. Para os efeitos deste diploma, consideram-se como exercendo a indústria de transportes marítimos:
 
@@ -152,7 +176,9 @@ b) Os que explorem a mesma actividade mediante o fretamento de navios de comérc
 
 c) Aqueles a quem, por qualquer contrato e ainda que por período limitado, seja transmitida, total ou parcialmente, a posição de armador inscrito ou seja cedida, total ou parcialmente, a exploração de empresa destinada à mencionada actividade.
 
-Art. 2.º - 1. O pedido de inscrição, que será apresentado na D. G. S. F. M., deverá mencionar as zonas de tráfego que o requerente pretende explorar e ser acompanhado dos seguintes elementos:
+###### Artigo 2.º
+
+1. O pedido de inscrição, que será apresentado na D. G. S. F. M., deverá mencionar as zonas de tráfego que o requerente pretende explorar e ser acompanhado dos seguintes elementos:
 
 a) Certidão da competente conservatória do registo comercial comprovativa de matrícula exclusivamente para a exploração da indústria de transportes marítimos;
 
@@ -174,19 +200,25 @@ c) Se o requerente for pessoa singular e casada, certidão, de narrativa complet
 
 6. Os despachos que autorizem a inscrição nos casos abrangidos pelas alíneas b) e c) do n.º 2 do artigo 1.º poderão dispensar o cumprimento de formalidades impostas pelo presente diploma, bem como impor outras exigências que se mostrem convenientes, em face da especialidade das situações previstas nas citadas alíneas.
 
-Art. 3.º - 1. A inscrição será provisória se o requerente pretender exercer a indústria de transportes marítimos nos termos da alínea a) do n.º 2 do artigo 1.º e não provar ser já proprietário pelo menos de um navio de comércio.
+###### Artigo 3.º
+
+1. A inscrição será provisória se o requerente pretender exercer a indústria de transportes marítimos nos termos da alínea a) do n.º 2 do artigo 1.º e não provar ser já proprietário pelo menos de um navio de comércio.
 
 2. Tal inscrição converter-se-á em definitiva se, dentro do prazo de cento e oitenta dias, a contar da sua data, o requerente fizer prova da aquisição de, pelo menos, um navio de comércio.
 
 3. No caso contrário, caducará a inscrição provisória.
 
-Art. 4.º - 1. Estão sujeitas a averbamento às respectivas inscrições as alterações aos elementos delas constantes e as alterações aos factos ou elementos a que se referem os documentos que instruíram os pedidos de inscrição.
+###### Artigo 4.º
+
+1. Estão sujeitas a averbamento às respectivas inscrições as alterações aos elementos delas constantes e as alterações aos factos ou elementos a que se referem os documentos que instruíram os pedidos de inscrição.
 
 2. Aos pedidos de averbamento às inscrições e à sua autorização é aplicável, com as necessárias adaptações, o disposto no artigo 2.º, devendo os mesmos ser instruídos, porém, com os documentos que sejam necessários para a prova dos factos que os fundamentem.
 
 3. As alterações previstas no n.º 1 não produzem efeitos em relação ao condicionamento legal estabelecido pelo presente diploma enquanto não forem objecto do correspondente averbamento.
 
-Art. 5.º - 1. A morte de pessoa que tenha domicílio profissional no continente ou ilhas adjacentes e exerça a indústria de transportes marítimos deve ser participada à D. G. S. F. M., dentro do prazo de trinta dias e com observância do disposto no n.º 4 do artigo 9.º
+###### Artigo 5.º
+
+1. A morte de pessoa que tenha domicílio profissional no continente ou ilhas adjacentes e exerça a indústria de transportes marítimos deve ser participada à D. G. S. F. M., dentro do prazo de trinta dias e com observância do disposto no n.º 4 do artigo 9.º
 
 2. A participação compete ao cabeça-de-casal e a todos os herdeiros, mas o cumprimento, desse dever por um dos obrigados desonera todos os restantes.
 
@@ -194,13 +226,17 @@ Art. 5.º - 1. A morte de pessoa que tenha domicílio profissional no continente
 
 4. Aqueles que sucedam ao falecido na exploração da indústria devem requerer a sua inscrição no prazo de trinta dias, a contar, conforme os casos, da elaboração da escritura de partilha ou do trânsito em julgado da sentença que homologar a partilha judicial, ou, no caso de haver um só herdeiro, da escritura de habilitação.
 
-Art. 6.º - 1. Será cancelada a inscrição quando o inscrito deixe de ser proprietário de navios de comércio, se, dentro do prazo de um ano, a contar da data do último cancelamento de registo de navio em seu nome, não adquirir outro navio de comércio ou contratar a sua construção, salvo se invocar factos que fundamentem a inscrição nos termos das alíneas b) ou c) do n.º 2 do artigo 1.º
+###### Artigo 6.º
+
+1. Será cancelada a inscrição quando o inscrito deixe de ser proprietário de navios de comércio, se, dentro do prazo de um ano, a contar da data do último cancelamento de registo de navio em seu nome, não adquirir outro navio de comércio ou contratar a sua construção, salvo se invocar factos que fundamentem a inscrição nos termos das alíneas b) ou c) do n.º 2 do artigo 1.º
 
 2. O cancelamento será autorizado por despacho do Ministro da Marinha, em processo organizado nos termos do n.º 4 do artigo 2.º
 
 3. O interessado será prèviamente ouvido no processo, sob pena de nulidade do cancelamento, salvo se a sua audiência não for possível, no caso de pessoa colectiva, por virtude de dissolução, ou, no caso de pessoa singular, por motivo da sua morte ou ausência ou do desconhecimento ou ausência dos seus herdeiros.
 
-Art. 7.º - 1. As inscrições serão também canceladas quando, por qualquer causa, o armador inscrito transmita os seus direitos sobre a empresa ou a exploração da indústria cesse. Em ambos os casos, deverão os interessados requerer ao director-geral dos Serviços de Fomento Marítimo o cancelamento da inscrição.
+###### Artigo 7.º
+
+1. As inscrições serão também canceladas quando, por qualquer causa, o armador inscrito transmita os seus direitos sobre a empresa ou a exploração da indústria cesse. Em ambos os casos, deverão os interessados requerer ao director-geral dos Serviços de Fomento Marítimo o cancelamento da inscrição.
 
 2. O cancelamento previsto no número anterior não depende da audiência ordenada no n.º 3 do artigo anterior.
 
@@ -212,9 +248,13 @@ II
 
 Armadores gerentes
 
-Art. 8.º Quem, com domicílio profissional ou sede no continente ou ilhas adjacentes, explore a indústria de transportes marítimos terá um armador gerente que o represente perante as instâncias oficiais.
+###### Artigo 8.º
 
-Art. 9.º - 1. Em relação às pessoas colectivas, as funções de armador gerente serão exercidas por quem for indicado nos respectivos estatutos ou, nos casos de silêncio destes ou de impossibilidade do seu cumprimento, por quem for designado pela respectiva administração, direcção ou gerência.
+Quem, com domicílio profissional ou sede no continente ou ilhas adjacentes, explore a indústria de transportes marítimos terá um armador gerente que o represente perante as instâncias oficiais.
+
+###### Artigo 9.º
+
+1. Em relação às pessoas colectivas, as funções de armador gerente serão exercidas por quem for indicado nos respectivos estatutos ou, nos casos de silêncio destes ou de impossibilidade do seu cumprimento, por quem for designado pela respectiva administração, direcção ou gerência.
 
 2. Em relação às pessoas singulares, as funções de armador gerente serão exercidas pela própria pessoa, salvo nos seguintes casos:
 
@@ -228,7 +268,9 @@ c) Fora das hipóteses previstas nas alíneas anteriores, no caso de designaçã
 
 4. Na participação do falecimento, ordenada no n.º 1 do artigo 5.º, deverá ser indicada a pessoa a quem compete o cabeçalato, para averbamento à inscrição, do exercício, por aquela, das funções de armador gerente.
 
-Art. 10.º - 1. As designações e substituições dos armadores gerentes, bem como a cessação dos respectivos mandatos, serão comunicadas à D. G. S. F. M., no prazo de trinta dias, pelas entidades que a elas procedam ou pelos tribunais.
+###### Artigo 10.º
+
+1. As designações e substituições dos armadores gerentes, bem como a cessação dos respectivos mandatos, serão comunicadas à D. G. S. F. M., no prazo de trinta dias, pelas entidades que a elas procedam ou pelos tribunais.
 
 2. No caso de pessoas colectivas, a designação do armador gerente deverá ser feita, sempre que possível, no próprio pedido de inscrição; na falta desta indicação, a D. G. S. F. M. notificará o requerente para o fazer no prazo de trinta dias, sob pena de proceder à designação entre os sócios, administradores, directores ou gerentes da pessoa colectiva.
 
@@ -236,59 +278,65 @@ III
 
 Construção e importação de navios
 
-Art. 11.º - 1. A construção, em estaleiros nacionais ou estrangeiros, de navios de comércio destinados a quem tenha domicílio profissional ou sede no continente ou ilhas adjacentes, bem como a importação, no continente ou ilhas adjacentes, de navios de comércio, depende da autorização do Ministro da Marinha, mediante requerimento a que é aplicável o disposto no n.º 4 do artigo 2.º
+###### Artigo 11.º
 
-2. O despacho a que se refere o número anterior atenderá sempre aos efeitos da aquisição pretendida perante os interesses da economia do espaço português e, no caso de navios já construídos, às suas condições de segurança e ao estado de conservação.
+(Revogado.)
 
-3. A concessão da autorização prevista no n.º 1 não dispensa quaisquer aprovações técnicas legalmente exigidas para o navio e para os respectivos pormenores.
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
 
-4. Salvo razões ponderosas, devidamente fundamentadas no despacho de autorização, não poderá permitir-se:
+###### Artigo 12.º
 
-a) A nacionalidade de navios com mais de dez anos, contados desde a data de lançamento ao mar;
+(Revogado.)
 
-b) O registo, como de comércio, de navios importados para qualquer outro tráfego ou actividade e que tenham mais de dez anos, contados desde a data de lançamento ao mar.
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
 
-Art. 12.º - 1. A construção no estrangeiro de navios de comércio destinados a quem exerça a indústria de transportes marítimos com domicílio profissional ou sede no continente ou ilhas adjacentes deve obedecer às normas aplicáveis à construção em Portugal de navios da mesma classe e tipo.
+###### Artigo 13.º
 
-2. Salvo autorização especial, sob informação favorável dos serviços e autoridades competentes, só poderá ser autorizada a importação de navios de comércio cuja construção no estrangeiro tenha obedecido ao princípio enunciado no número anterior.
+(Revogado.)
 
-3. As exigências impostas por convenções internacionais de segurança ou estabelecidas pelo Estado-Maior da Armada só poderão ser dispensadas pelo Ministro da Marinha nos casos excepcionais previstos na lei.
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
 
-4. O registo definitivo de navios de comércio construídos no estrangeiro não poderá ser feito sem os serviços e autoridades competentes terem verificado que foram satisfeitos todos os condicionalismos legalmente exigidos em função da actividade a que o navio se destine, incluindo os de ordem administrativa, fiscal ou militar e os relativos à segurança de navegação.
+###### Artigo 14.º
 
-Art. 13.º - 1. Os navios de comércio construídos em estaleiros nacionais não poderão ser objecto de registo na capitania nem de matrícula na conservatória do registo comercial sem a apresentação de certidão comprovativa de a sua construção ter sido autorizada nos termos do n.º 1 do artigo 11.º
+(Revogado.)
 
-2. Os navios de comércio construídos no estrangeiro não poderão ser objecto de registo no consulado e na capitania, de despacho aduaneiro e de matrícula na conservatória do registo comercial sem a apresentação de certidão comprovativa de a sua construção ou importação ter sido autorizada nos termos do n.º 1 do artigo 11.º
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
 
-Art. 14.º A autorização de importação de navio de comércio caducará se o respectivo processo de nacionalização não for iniciado pelos interessados dentro dos seis meses seguintes à data em que os mesmos tiverem sido notificados do despacho de autorização.
+###### Artigo 15.º
 
-Art. 15.º - 1. A autorização para a construção de navios de comércio caducará:
+(Revogado.)
 
-a) Se não for apresentado para registo na D. G. S. F. M., acompanhado de uma cópia para arquivo e dentro de seis meses a contar do despacho da autorização, o contrato de construção, no qual se fixem a data da entrega do navio ao armador e cláusulas penais adequadas para a falta de cumprimento dessa entrega;
-
-b) Se o assentamento da quilha ou fase idêntica da construção não se verificar dentro de doze meses, a contar da data do registo do contrato, nos termos da alínea anterior;
-
-c) Se os contraentes sem prévia autorização da D. G. S. F. M. acordarem no adiamento da data da entrega do navio;
-
-d) Se decorrerem mais de seis meses sobre a data fixada para a entrega do navio, sem que esta se tenha verificado e sem que a D. G. S. F. M. haja autorizado, dentro daquele prazo, nova data de entrega.
-
-2. Deverão ser comunicadas à D. G. S. F. M. as datas em que os navios tiverem sido entregues e, bem assim, para efeito do disposto na alínea b) do número anterior, as datas de assentamento da quilha ou fase idêntica da construção.
-
-3. O disposto nos números antecedentes não é aplicável aos navios de comércio nos quais o produto das três dimensões de sinal não exceda cem.
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
 
 IV
 
 Disposições gerais e transitórias
 
-Art. 16.º Os prazos fixados nos artigos anteriores só poderão ser prorrogados por despacho do Ministro da Marinha, mediante requerimento a que é aplicável o n.º 4 do artigo 2.º e que deve ser instruído com os documentos justificativos dos fundamentos do pedido.
+###### Artigo 16.º
 
-Art. 17.º As capitanias dos portos do continente e ilhas adjacentes deverão comunicar mensalmente à D. G. S. F. M. os registos de todos os navios de comércio que nelas tenham sido efectuados no mês anterior.
+(Revogado.)
 
-Art. 18.º As inscrições, suas alterações e cancelamentos, bem como a nomeação e cessação de mandato de armadores gerentes serão comunicados pela D. G. S. F. M. à Junta Nacional da Marinha Mercante e às capitanias dos portos.
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
 
-Art. 19.º As inscrições feitas na Direcção da Marinha Mercante, de harmonia com o [Decreto-Lei n.º 23676](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23676-1934-672583), de 16 de Março de 1934, o [Decreto n.º 25304](https://diariodarepublica.pt/dr/detalhe/decreto/25304-1935-577138), de 9 de Maio de 1935, e o [Decreto-Lei n.º 37053](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37053-1948-372264), de 9 de Setembro de 1948, mantêm todo o seu valor.
+###### Artigo 17.º
 
-Art. 20.º Ficam revogados o [Decreto-Lei n.º 37053](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37053-1948-372264), de 9 de Setembro de 1948, alterado pelo [Decreto-Lei n.º 38169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38169-1951-322764), de 13 de Fevereiro de 1951, e pelo [Decreto-Lei n.º 41640](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41640-1958-353505), de 22 de Maio de 1958, e o [Decreto-Lei n.º 37505](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37505-1949-264882), de 6 de Agosto de 1949, alterado pelo [Decreto-Lei n.º 37726](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37726-1950-444974), de 3 de Janeiro de 1950.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
+
+###### Artigo 18.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 150/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1988-285373), publicado em 1988-04-28.
+
+###### Artigo 19.º
+
+As inscrições feitas na Direcção da Marinha Mercante, de harmonia com o [Decreto-Lei n.º 23676](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23676-1934-672583), de 16 de Março de 1934, o [Decreto n.º 25304](https://diariodarepublica.pt/dr/detalhe/decreto/25304-1935-577138), de 9 de Maio de 1935, e o [Decreto-Lei n.º 37053](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37053-1948-372264), de 9 de Setembro de 1948, mantêm todo o seu valor.
+
+###### Artigo 20.º
+
+Ficam revogados o [Decreto-Lei n.º 37053](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37053-1948-372264), de 9 de Setembro de 1948, alterado pelo [Decreto-Lei n.º 38169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38169-1951-322764), de 13 de Fevereiro de 1951, e pelo [Decreto-Lei n.º 41640](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41640-1958-353505), de 22 de Maio de 1958, e o [Decreto-Lei n.º 37505](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37505-1949-264882), de 6 de Agosto de 1949, alterado pelo [Decreto-Lei n.º 37726](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37726-1950-444974), de 3 de Janeiro de 1950.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Pereira Crespo.
 

@@ -1,0 +1,303 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:252004:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-05-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "be4d2e79726b7db1",
+    "af46036161396911",
+    "1788c63b3363bad3",
+    "705b48e8db730b8e"
+   ]
+  },
+  {
+   "date": "1982-05-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:677615:por",
+     "title": "Portaria n.º 140/80",
+     "published": "1980-03-29",
+     "dre_path": "/dr/detalhe/portaria/140-1980-677615"
+    },
+    {
+     "id": "pt:dre:392449:por",
+     "title": "Portaria n.º 497/82",
+     "published": "1982-05-15",
+     "dre_path": "/dr/detalhe/portaria/497-1982-392449"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "be4d2e79726b7db1",
+    "4240a265e9b6fd5d",
+    "3fdf1d86befcecce",
+    "90dd2ccd0fd25a6c",
+    "babe04b5f1932794",
+    "811ba862fa8cf2d2",
+    "a1917ab5a1811918",
+    "c4ec0571227861a2",
+    "8c9c3f39491aec16",
+    "54c8b35dd954c18e",
+    "d9a6083137abe802",
+    "cc39b0bd37303c0f",
+    "0f2093cbd14e7db1",
+    "e4913af39bc74212",
+    "564451cdc7b83f60",
+    "f58f975c95feeb89",
+    "3b9eaf10c3c15067",
+    "ca624b1b22995fb5",
+    "3ff2200214f294a2",
+    "1fd7d8195ddca3cf",
+    "c4ca55d34956a1ea",
+    "b16634b0d0c9d452",
+    "034e29455901824d",
+    "a0bacab8a3207095",
+    "40e34fb363b26c4f"
+   ]
+  }
+ ],
+ "fragments": {
+  "be4d2e79726b7db1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de Maio\n\n1. O Decreto-Lei n.º 678/76, de 1 de Setembro, que constitui o diploma básico da reestruturação da Academia Militar, estabelece no seu título VII várias disposições sobre a vida interna e administração dos alunos, designadamente quanto a gradução militar, direitos, regalias e abonos (artigo 75.º) e quanto às condições de eliminação da frequência da Academia por falta de aproveitamento escolar ou por motivos disciplinares (artigo 78.º), a fixar por portaria dos Chefes dos Estados-Maiores do Exército e da Força Aérea.\n\n2. Com essa finalidade se publica a presente portaria, que se articula em:\n\nCapítulo I «Vida interna e administração»;\n\nCapítulo II «Disciplina»;\n\nCapítulo III «Condições de eliminação dos alunos», e que, por força do disposto no artigo 83.º do citado decreto-lei, revoga as correspondentes disposições constantes dos Decretos-Leis n.os 42151 e 42152, ambos de 12 de Fevereiro de 1959.\n\nNestes termos:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior do Exército e pelo Chefe do Estado-Maior da Força Aérea, aprovar e pôr em execução o seguinte:\n\nREGULAMENTO DA VIDA INTERNA E ADMINISTRAÇÃO DOS ALUNOS DA ACADEMIA MILITAR"
+  },
+  "af46036161396911": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Vida interna e administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Vida interna e administração\n\nArtigo 1.º - 1. Os alunos da Academia Militar estão sujeitos, durante a frequência dos cursos, ao regime de internato obrigatório.\n\n2. Segundo o regime de internato obrigatório a que se refere o número anterior, os alunos obrigam-se à frequência de todos os trabalhos escolares, alimentação e alojamento, incluindo pernoita, na Academia Militar.\n\n3. Pode ser concedido o regime de externato nocturno, que corresponde a pernoitar fora da Academia, aos alunos que, como candidatos militares, no momento da admissão, tenham o estado civil de casados ou que contraiam matrimónio durante a frequência dos cursos.\n\n4. Aos alunos que, excepcionalmente, venham a frequentar cursos com cadeiras ministradas em escolas civis de ensino superior pode ser concedido um regime especial de internato em condições a definir por regulamentação própria.\n\nArt. 2.º As condições de internato são detalhadas em regulamento próprio, designado por ISI (Instruções de Serviço Interno), a aprovar por despacho do comandante da Academia Militar, sob proposta do comandante do Corpo de Alunos.\n\nArt. 3.º Os alunos da Academia Militar estão isentos do pagamento de propinas e inscrições.\n\nArt. 4.º - 1. Para efeitos de hierarquia militar, os alunos, com excepção dos admitidos como oficiais milicianos, são graduados nos seguintes postos:\n\na) Cadetes-alunos, durante a frequência na Academia dos 1.º, 2.º, 3.º e 4.º anos de todos os cursos;\n\nb) Aspirantes a oficiais alunos, no 5.º ano do curso frequentado na Academia e durante o ano do tirocínio de todos os cursos cuja frequência na Academia seja de quatro anos;\n\nc) Alferes-alunos, nos restantes anos de curso, no caso de este ter duração superior cinco anos de frequência na Academia Militar.\n\n2. Os postos referidos no número anterior apenas são considerados enquanto os alunos frequentarem os cursos da Academia Militar, incluindo os tirocínios e estágios.\n\n3. Os alunos admitidos como oficiais milicianos são graduados nas patentes que lhes cabiam nos quadros de complemento.\n\n4. A antiguidade dos alunos é regulada pela seguinte ordem:\n\na) Pelo posto ou antiguidade que porventura tenham como oficiais;\n\nb) Pela antiguidade dos anos dos cursos que frequentam;\n\nc) Pela sua classificação (média das classificações nos anos anteriores de que resultou o seu ordenamento nos cursos que frequentam);\n\nd) Pelo maior tempo de serviço militar;\n\ne) Pela maior idade.\n\nArt. 5.º - 1. Enquanto frequentarem a Academia Militar, os alunos denominam-se cadetes-alunos, com excepção dos alunos admitidos como oficiais milicianos e dos alunos graduados nas condições referidas nos números seguintes deste artigo, os quais serão denominados por aspirantes a oficial, alferes ou tenentes-alunos, consoante a sua graduação.\n\n2. Os cadetes-alunos dos cursos cuja frequência na Academia Militar tenha a duração de quatro anos são graduados em aspirantes a oficial, no início do tirocínio, com data de 1 de Outubro, assim como os cadetes-alunos que frequentam cursos cuja duração de frequência na Academia seja igual ou superior a cinco anos.\n\n3. Os aspirantes a oficial aluno dos cursos cuja duração de frequência na Academia Militar seja igual a seis anos são graduados em alferes-alunos no dia 1 de Outubro do ano em que iniciam o 6.º ano do respectivo curso.\n\n4.º Findo o tirocínio com aproveitamento, os alunos a que se refere o n.º 2 deste artigo ingressam nos quadros permanentes com o posto de alferes, sendo a antiguidade no posto referida a 1 de Novembro do ano civil seguinte àquele em que tiver início o tirocínio.\n\n5. Findo o tirocínio com aproveitamento, os alunos a que se refere o n.º 3 deste artigo ingressam no quadro permanente com o posto de tenente, sendo a antiguidade no posto referida a 1 de Novembro do ano em que terminam o tirocínio.\n\n6. Os alunos dos cursos cuja duração de frequência na Academia Militar seja superior a seis anos são graduados nos postos correspondentes aos dos restantes cursos do mesmo ano de entrada na Academia, ingressando no quadro permanente imediatamente após o tirocínio com a antiguidade da data de graduação em tenente.\n\nArt. 6.º Os alunos admitidos como oficiais milicianos, como sargentos dos quadros permanentes e de complemento e como praças são transferidos para a Academia Militar na data em que forem mandados apresentar naquele estabelecimento de ensino para iniciar a frequência dos respectivos cursos.\n\nArt. 7.º - 1. Os alunos da Academia Militar terão os seguintes vencimentos:\n\na) Cadetes-alunos: vencimento mensal fixado por legislação própria;\n\nb) Alunos graduados em aspirantes a oficial e alferes: os abonos correspondentes aos respectivos postos;\n\nc) Os alunos admitidos como oficiais milicianos têm direito aos abonos correspondentes aos seus postos, pelo conselho administrativo da Academia Militar;\n\nd) Os alunos admitidos como sargentos dos quadros permanentes e de complemento e como praças têm direito aos abonos dos respectivos postos, pelo conselho administrativo da Academia Militar, podendo optar, em relação aos abonos das alíneas a) e b), pelo de mais elevado montante;\n\ne) Todos os alunos, durante a frequência dos tirocínios ou estágios, são abonados dos vencimentos e gratificações correspondentes aos seus postos, pelas respectivas escolas práticas, mantendo-se o direito de opção anteriormente referido;\n\nf) Os alunos do curso de pilotagem aeronáutica, com excepção dos que forem oficiais milicianos e dos oriundos da classe de sargentos dos quadros permanente ou de complemento, têm direito à gratificação de serviço aéreo idêntica à dos soldados cadetes-alunos de pilotagem a partir do mês em que tiver início a instrução de voo;\n\ng) Os alunos que forem oficiais milicianos e os alunos oriundos da classe de sargentos dos quadros permanentes ou de complemento, que frequentam o curso de pilotagem aeronáutica, mantêm as respectivas gratificações de serviço aéreo, sem dependência de quaisquer provas especiais, ficando a gratificação por pilotagem de aviões de reacção sujeita aos respectivos condicionamentos legais.\n\n2. Os alunos da Academia Militar são obrigatoriamente inscritos como subscritores da Caixa Geral de Aposentações e gozam de todas as regalias a que têm direito os subscritores militares.\n\n3. Dado o grau de risco que envolve certas actividades escolares, os alunos da Academia Militar beneficiam de regime especial a definir quanto a invalidez resultante de doença ou desastre em serviço.\n\n4. Aos alunos da Academia Militar é aplicável o regime de diuturnidades decorrente da legislação em vigor.\n\nArt. 8.º - 1. Durante a frequência dos cursos na Academia Militar, os cadetes-alunos têm direito a alojamento, alimentação, fardamento e publicações necessárias ao ensino, por conta do Estado.\n\n2. Todos os alunos, independentemente do seu posto ou graduação, têm direito a alojamento por conta do Estado, nas instalações da Academia ou das escolas práticas, durante a frequência dos respectivos cursos, incluindo o tirocínio.\n\n3. O abono de alimentação corre sempre por conta do Estado durante toda a frequência dos cursos, incluindo o tirocínio, para todos os alunos, mesmo que estes sejam oficiais de complemento ou sargentos dos quadros permanentes ou de complemento com direito ao vencimento do respectivo posto.\n\n4. A aquisição de fardamento é feita por conta própria pelos alunos graduados em alferes ou a partir do 6.º ano dos respectivos cursos, assim como durante a frequência do tirocínio.\n\n5. As publicações necessárias ao ensino serão sempre fornecidas por conta do Estado, durante todos os anos de frequência dos cursos.\n\nArt. 9.º - 1. Durante a frequência dos cursos, os alunos são obrigados a fazer uso de uniforme segundo o plano de uniformes do ramo das forças armadas a que se destinam ou de uniforme privativo da Academia que venha a ser estabelecido.\n\n2. A dotação e distribuição do fardamento é definida em regulamento especial aprovado pelo Chefe do Estado-Maior do Exército, ouvido o Chefe do Estado-Maior da Força Aérea no que respeita ao fardamento dos alunos que frequentam os cursos deste ramo das forças armadas.\n\nArt. 10.º Durante a frequência do curso da Academia Militar, o cadete-aluno admitido como candidato civil deve manter o estado civil de solteiro."
+  },
+  "1788c63b3363bad3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Disciplina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Disciplina\n\nArt. 11.º - 1. Os alunos da Academia Militar estão sujeitos às leis, disciplina e regulamentos militares.\n\n2. De acordo com a natureza particular da Academia e da sua função educativa, é estabelecido um regime especial de recompensas e punições.\n\nArt. 12.º Aos alunos são concedidas as recompensas estabelecidas pelas leis e regulamentos em vigor, tendo particular aplicação o louvor e a dispensa de formaturas, assim como os prémios pecuniários, honoríficos ou outros de natureza especial, nas condições que forem estabelecidas em regulamento próprio.\n\nArt. 13.º - 1. As penas aplicáveis aos alunos são:\n\na) Repreensão;\n\nb) Repreensão agravada;\n\nc) Detenção até trinta dias;\n\nd) Prisão escolar até trinta dias.\n\n2. A repreensão e repreensão agravada consistem em declarar ao aluno que é repreendido por haver praticado qualquer acto que constituiu infracção de um ou mais deveres militares.\n\nSão transmitidas pelo comandante da companhia, devendo observar-se o seguinte:\n\na) A repreensão é dada em particular e a repreensão agravada é dada na presença de alunos de graduação igual e superior à do infractor;\n\nb) No acto da repreensão será entregue ao infractor uma nota da qual conste o facto que motivou a repreensão e os deveres infringidos.\n\n3. A pena de detenção consiste na proibição de sair do aquartelamento, com excepção de saída por motivo de serviço, caso em que será devidamente controlado o respectivo horário pelo oficial de dia. Para efeito de cumprimento desta pena deverá ser observado o seguinte:\n\na) O aluno que receber ordem de detenção apresentar-se-á seguidamente ao oficial de serviço;\n\nb) O aluno punido com esta pena desempenha todo o serviço que lhe competir, incluindo trabalhos escolares, e mantém todos os seus deveres normais, comparecendo:\n\nAo toque de detidos e convalescentes;\n\nAo toque de recolher, apresentando-se ao oficial de serviço, mesmo nos dias em que houver dispensa geral desta formatura.\n\n4. A pena de prisão escolar consiste na reclusão do aluno em dependência para esse fim destinada no aquartelamento.\n\nDurante o cumprimento desta pena o aluno comparece a todos os actos de serviço, incluindo o escolar, só podendo sair em serviço e devidamente acompanhado. A saída e entrada será sempre controlada pelo oficial de dia.\n\nArt. 14.º As recompensas e as penas disciplinares impostas aos alunos, com excepção das penas de repreensão e repreensão agravada, serão publicadas em ordem de serviço.\n\nArt. 15.º - 1. O aluno que for punido com a pena de detenção ficará privado de obter qualquer dispensa durante um número de dias igual ao dobro do número de dias de detenção.\n\n2. O aluno que for punido com pena de prisão escolar ficará privado de obter qualquer dispensa durante um número de dias igual ao quádruplo do número de dias de prisão escolar.\n\n3. Devem ter completa execução as penas que estiverem a ser cumpridas, mesmo quando for atingido qualquer dos períodos de férias escolares, exceptuando os do Natal e Páscoa.\n\n4. As punições aplicadas aos alunos, incluindo os oficiais de complemento e os sargentos dos quadros permanente e de complemento e as praças, só figuram nos registos escolares para os devidos efeitos.\n\nArt. 16.º - 1. O limite da competência disciplinar dos comandos da Academia Militar é o marcado no quadro anexo a este diploma, e que a seguir se discrimina:\n\na) Comandante da Academia Militar - coluna A;\n\nb) 2.os comandantes - coluna B;\n\nc) Comandante do Corpo de Alunos - coluna C;\n\nd) Comandante de batalhão - coluna D;\n\ne) Comandante de companhia - coluna E;\n\nf) Professores militares quando chefiando missões ou comandando destacamentos - coluna C.\n\n2. As decisões do comandante da Academia Militar, no que respeita à aplicação das penas previstas no artigo 13.º, são definitivas.\n\n3. As decisões de natureza disciplinar tomadas pelos 2.os comandantes, pelo comandante do Corpo de Alunos e pelos professores militares no exercício das funções indicadas na alínea f) deste artigo não carecem de homologação."
+  },
+  "705b48e8db730b8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Condições de eliminação dos alunos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Condições de eliminação dos alunos\n\nArt. 17.º - 1. São eliminados da Academia Militar:\n\na) Os alunos dos cursos com duração escolar de cinco anos que percam dois anos seguidos ou alternados;\n\nb) Os alunos dos cursos com duração escolar superior a cinco anos que percam dois anos seguidos ou três alternados;\n\nc) Os alunos dos cursos de pilotagem aeronáutica que forem considerados inaptos para a pilotagem e que não requeiram o ingresso noutro curso para o qual reúnam as necessárias condições;\n\nd) Os alunos que não obtenham aproveitamento nos tirocínios e estágios, salvaguardando-se o caso de doença ou desastre em serviço, só podendo beneficiar desta concessão durante um ano;\n\ne) Os alunos que em qualquer altura dos cursos sejam considerados incapazes para o serviço pela junta hospitalar de inspecção;\n\nf) Os alunos que em qualquer altura dos cursos sejam punidos com penas que excedam vinte dias de prisão escolar, por si ou por suas equivalências, correspondendo, para este efeito, dois dias de detenção a um dia de prisão escolar, quando o excedente dessas penas não lhes tenha sido cancelado;\n\ng) Os alunos que em qualquer altura dos cursos revelem falta de aptidão militar ou de qualidades morais;\n\nh) Os alunos que o requeiram durante o primeiro ano de frequência da Academia, ou na repetição da frequência desse ano, sem que devam qualquer indemnização à Fazenda Nacional;\n\ni) Os alunos que o requeiram durante a frequência de qualquer outro ramo da Academia, incluindo o tirocínio, mediante indemnização à Fazenda Nacional;\n\nj) Os cadetes-alunos que contraiam matrimónio sem autorização superior.\n\n2. A perda de um ano durante a frequência de um curso por faltas motivadas por desastre em serviço não é contada para efeito de eliminação. Os alunos só podem beneficiar desta disposição uma vez até à frequência do tirocínio.\n\n3. A eliminação dos alunos abrangidos pelo disposto nas alíneas f) e g) do n.º 1 deste artigo só tem execução mediante decisão do comandante da Academia Militar sob parecer do conselho de disciplina.\n\n4. Os alunos dos cursos de pilotagem aeronáutica que forem considerados inaptos para a pilotagem durante a frequência da Academia Militar ou no tirocínio podem requerer a transição no ano lectivo imediato para outro curso para o qual reúnam as necessárias condições. Estes alunos, no caso de o requerimento ser deferido, não repetem frequências, promovendo-se todos os ajustamentos viáveis, a fim de que possam concluir o curso no menor tempo possível.\n\n5. As decisões do comandante da Academia Militar sobre a eliminação de alunos são definitivas.\n\nArt. 18.º Os alunos eliminados da frequência dos cursos da Academia Militar nos termos das alíneas d), f), g), i) e j) do n.º 1 do artigo anterior ficam obrigados para com o Estado a indemnização financeira, a propor pela Academia Militar para cada caso e a aprovar pelo Chefe do Estado-Maior do Exército, embora não superior a 50% da totalidade dos abonos percebidos durante a frequência do curso.\n\nArt. 19.º Compete às Direcções do Serviço de Pessoal do Exército e da Força Aérea dar destino aos alunos da Academia Militar eliminados, incluindo os oficiais de complemento, sargentos dos quadros permanente e de complemento e praças, tendo em consideração as causas determinantes da eliminação, assim como a sua situação militar anterior.\n\nArt. 20.º Para efeitos de prestação de serviço militar, aos cadetes-alunos com a frequência completa dos 2.os anos dos cursos ministrados na Academia é dada equivalência ao 1.º ciclo dos cursos de oficiais milicianos.\n\nArt. 21.º De harmonia com o disposto no artigo 83.º do Decreto-Lei n.º 678/76, de 1 de Setembro, com a publicação da presente portaria são revogadas as correspondentes disposições insertas nos Decretos-Leis n.os 42151 e 42152, de 12 de Fevereiro de 1959, com a redacção que lhes foi fixada por força de outros diplomas legais posteriores.\n\nEstados-Maiores do Exército e da Força Aérea, 21 de Março de 1977. - O Chefe do Estado-Maior do Exército, Vasco Joaquim Rocha Vieira, general. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.\n\nQuadro a que se refere o artigo 16.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/05/11800/11771181.pdf)\n\nO Chefe do Estado-Maior do Exército, Vasco Joaquim Rocha Vieira, general. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general."
+  },
+  "4240a265e9b6fd5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Vida interna e administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Vida interna e administração"
+  },
+  "3fdf1d86befcecce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os alunos da Academia Militar estão sujeitos, durante a frequência dos cursos, ao regime de internato obrigatório.\n\n2. Segundo o regime de internato obrigatório a que se refere o número anterior, os alunos obrigam-se à frequência de todos os trabalhos escolares, alimentação e alojamento, incluindo pernoita, na Academia Militar.\n\n3. Pode ser concedido o regime de externato nocturno, que corresponde a pernoitar fora da Academia, aos alunos que, como candidatos militares, no momento da admissão, tenham o estado civil de casados ou que contraiam matrimónio durante a frequência dos cursos.\n\n4. Aos alunos que, excepcionalmente, venham a frequentar cursos com cadeiras ministradas em escolas civis de ensino superior pode ser concedido um regime especial de internato em condições a definir por regulamentação própria."
+  },
+  "90dd2ccd0fd25a6c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs condições de internato são detalhadas em regulamento próprio, designado por ISI (Instruções de Serviço Interno), a aprovar por despacho do comandante da Academia Militar, sob proposta do comandante do Corpo de Alunos."
+  },
+  "babe04b5f1932794": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs alunos da Academia Militar estão isentos do pagamento de propinas e inscrições."
+  },
+  "811ba862fa8cf2d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Para efeitos de hierarquia militar, os alunos, com excepção dos admitidos como oficiais milicianos, são graduados nos seguintes postos:\n\na) Cadetes-alunos, durante a frequência na Academia dos 1.º, 2.º, 3.º e 4.º anos de todos os cursos;\n\nb) Aspirantes a oficiais alunos, no 5.º ano do curso frequentado na Academia e durante o ano do tirocínio de todos os cursos cuja frequência na Academia seja de quatro anos;\n\nc) Alferes-alunos, nos restantes anos de curso, no caso de este ter duração superior cinco anos de frequência na Academia Militar.\n\n2. Os postos referidos no número anterior apenas são considerados enquanto os alunos frequentarem os cursos da Academia Militar, incluindo os tirocínios e estágios.\n\n3. Os alunos admitidos como oficiais milicianos são graduados nas patentes que lhes cabiam nos quadros de complemento.\n\n4. A antiguidade dos alunos é regulada pela seguinte ordem:\n\na) Pelo posto ou antiguidade que porventura tenham como oficiais;\n\nb) Pela antiguidade dos anos dos cursos que frequentam;\n\nc) Pela sua classificação (média das classificações nos anos anteriores de que resultou o seu ordenamento nos cursos que frequentam);\n\nd) Pelo maior tempo de serviço militar;\n\ne) Pela maior idade."
+  },
+  "a1917ab5a1811918": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1982-05-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 140/80](https://diariodarepublica.pt/dr/detalhe/portaria/140-1980-677615), publicado em 1980-03-29."
+   ],
+   "markdown": "###### Artigo 5.º\n\n1. Enquanto frequentarem a Academia Militar, os alunos denominam-se cadetes-alunos, com excepção dos alunos admitidos como oficiais milicianos e dos alunos graduados nas condições referidas nos números seguintes deste artigo, os quais serão denominados por aspirantes a oficial, alferes ou tenentes-alunos, consoante a sua graduação.\n\n2. Os cadetes-alunos dos cursos cuja frequência na Academia Militar tenha a duração de quatro anos são graduados em aspirantes a oficial, no início do tirocínio, com data de 1 de Outubro, assim como os cadetes-alunos que frequentam cursos cuja duração de frequência na Academia seja igual ou superior a cinco anos.\n\n3. Os aspirantes a oficial aluno dos cursos cuja duração de frequência na Academia Militar seja igual a seis anos são graduados em alferes-alunos no dia 1 de Outubro do ano em que iniciam o 6.º ano do respectivo curso.\n\n4 - Findo o tirocínio com aproveitamento, os alunos a que se refere o n.º 2 deste artigo ingressam nos quadros permanentes com o posto de alferes, sendo a antiguidade no posto a da data do referido ingresso.\n\n5 - Findo o tirocínio com aproveitamento, os alunos a que se refere o n.º 3 deste artigo ingressam nos quadros permanentes com o posto de tenente, sendo a antiguidade no posto a da data do referido ingresso.\n\n6. Os alunos dos cursos cuja duração de frequência na Academia Militar seja superior a seis anos são graduados nos postos correspondentes aos dos restantes cursos do mesmo ano de entrada na Academia, ingressando no quadro permanente imediatamente após o tirocínio com a antiguidade da data de graduação em tenente.\n\n> Alterado pelo/a [Portaria n.º 140/80](https://diariodarepublica.pt/dr/detalhe/portaria/140-1980-677615), publicado em 1980-03-29."
+  },
+  "c4ec0571227861a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs alunos admitidos como oficiais milicianos, como sargentos dos quadros permanentes e de complemento e como praças são transferidos para a Academia Militar na data em que forem mandados apresentar naquele estabelecimento de ensino para iniciar a frequência dos respectivos cursos."
+  },
+  "8c9c3f39491aec16": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. Os alunos da Academia Militar terão os seguintes vencimentos:\n\na) Cadetes-alunos: vencimento mensal fixado por legislação própria;\n\nb) Alunos graduados em aspirantes a oficial e alferes: os abonos correspondentes aos respectivos postos;\n\nc) Os alunos admitidos como oficiais milicianos têm direito aos abonos correspondentes aos seus postos, pelo conselho administrativo da Academia Militar;\n\nd) Os alunos admitidos como sargentos dos quadros permanentes e de complemento e como praças têm direito aos abonos dos respectivos postos, pelo conselho administrativo da Academia Militar, podendo optar, em relação aos abonos das alíneas a) e b), pelo de mais elevado montante;\n\ne) Todos os alunos, durante a frequência dos tirocínios ou estágios, são abonados dos vencimentos e gratificações correspondentes aos seus postos, pelas respectivas escolas práticas, mantendo-se o direito de opção anteriormente referido;\n\nf) Os alunos do curso de pilotagem aeronáutica, com excepção dos que forem oficiais milicianos e dos oriundos da classe de sargentos dos quadros permanente ou de complemento, têm direito à gratificação de serviço aéreo idêntica à dos soldados cadetes-alunos de pilotagem a partir do mês em que tiver início a instrução de voo;\n\ng) Os alunos que forem oficiais milicianos e os alunos oriundos da classe de sargentos dos quadros permanentes ou de complemento, que frequentam o curso de pilotagem aeronáutica, mantêm as respectivas gratificações de serviço aéreo, sem dependência de quaisquer provas especiais, ficando a gratificação por pilotagem de aviões de reacção sujeita aos respectivos condicionamentos legais.\n\n2. Os alunos da Academia Militar são obrigatoriamente inscritos como subscritores da Caixa Geral de Aposentações e gozam de todas as regalias a que têm direito os subscritores militares.\n\n3. Dado o grau de risco que envolve certas actividades escolares, os alunos da Academia Militar beneficiam de regime especial a definir quanto a invalidez resultante de doença ou desastre em serviço.\n\n4. Aos alunos da Academia Militar é aplicável o regime de diuturnidades decorrente da legislação em vigor."
+  },
+  "54c8b35dd954c18e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Durante a frequência dos cursos na Academia Militar, os cadetes-alunos têm direito a alojamento, alimentação, fardamento e publicações necessárias ao ensino, por conta do Estado.\n\n2. Todos os alunos, independentemente do seu posto ou graduação, têm direito a alojamento por conta do Estado, nas instalações da Academia ou das escolas práticas, durante a frequência dos respectivos cursos, incluindo o tirocínio.\n\n3. O abono de alimentação corre sempre por conta do Estado durante toda a frequência dos cursos, incluindo o tirocínio, para todos os alunos, mesmo que estes sejam oficiais de complemento ou sargentos dos quadros permanentes ou de complemento com direito ao vencimento do respectivo posto.\n\n4. A aquisição de fardamento é feita por conta própria pelos alunos graduados em alferes ou a partir do 6.º ano dos respectivos cursos, assim como durante a frequência do tirocínio.\n\n5. As publicações necessárias ao ensino serão sempre fornecidas por conta do Estado, durante todos os anos de frequência dos cursos."
+  },
+  "d9a6083137abe802": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Durante a frequência dos cursos, os alunos são obrigados a fazer uso de uniforme segundo o plano de uniformes do ramo das forças armadas a que se destinam ou de uniforme privativo da Academia que venha a ser estabelecido.\n\n2. A dotação e distribuição do fardamento é definida em regulamento especial aprovado pelo Chefe do Estado-Maior do Exército, ouvido o Chefe do Estado-Maior da Força Aérea no que respeita ao fardamento dos alunos que frequentam os cursos deste ramo das forças armadas."
+  },
+  "cc39b0bd37303c0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nDurante a frequência do curso da Academia Militar, o cadete-aluno admitido como candidato civil deve manter o estado civil de solteiro."
+  },
+  "0f2093cbd14e7db1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Disciplina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Disciplina"
+  },
+  "e4913af39bc74212": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1982-05-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 497/82](https://diariodarepublica.pt/dr/detalhe/portaria/497-1982-392449), publicado em 1982-05-15."
+   ],
+   "markdown": "###### Artigo 11.º\n\n1. Os alunos da Academia Militar estão sujeitos às leis, disciplina e regulamentos militares.\n\n2. De acordo com a natureza particular da Academia e da sua função educativa, é estabelecido um regime especial de recompensas e punições.\n\n3 - O regime disciplinar definido neste capítulo é aplicável aos alunos desde a sua admissão na Academia Militar até ao seu ingresso no quadro permanente como oficiais, qualquer que seja a sua situação.\n\n> Alterado pelo/a [Portaria n.º 497/82](https://diariodarepublica.pt/dr/detalhe/portaria/497-1982-392449), publicado em 1982-05-15."
+  },
+  "564451cdc7b83f60": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAos alunos são concedidas as recompensas estabelecidas pelas leis e regulamentos em vigor, tendo particular aplicação o louvor e a dispensa de formaturas, assim como os prémios pecuniários, honoríficos ou outros de natureza especial, nas condições que forem estabelecidas em regulamento próprio."
+  },
+  "f58f975c95feeb89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. As penas aplicáveis aos alunos são:\n\na) Repreensão;\n\nb) Repreensão agravada;\n\nc) Detenção até trinta dias;\n\nd) Prisão escolar até trinta dias.\n\n2. A repreensão e repreensão agravada consistem em declarar ao aluno que é repreendido por haver praticado qualquer acto que constituiu infracção de um ou mais deveres militares.\n\nSão transmitidas pelo comandante da companhia, devendo observar-se o seguinte:\n\na) A repreensão é dada em particular e a repreensão agravada é dada na presença de alunos de graduação igual e superior à do infractor;\n\nb) No acto da repreensão será entregue ao infractor uma nota da qual conste o facto que motivou a repreensão e os deveres infringidos.\n\n3. A pena de detenção consiste na proibição de sair do aquartelamento, com excepção de saída por motivo de serviço, caso em que será devidamente controlado o respectivo horário pelo oficial de dia. Para efeito de cumprimento desta pena deverá ser observado o seguinte:\n\na) O aluno que receber ordem de detenção apresentar-se-á seguidamente ao oficial de serviço;\n\nb) O aluno punido com esta pena desempenha todo o serviço que lhe competir, incluindo trabalhos escolares, e mantém todos os seus deveres normais, comparecendo:\n\nAo toque de detidos e convalescentes;\n\nAo toque de recolher, apresentando-se ao oficial de serviço, mesmo nos dias em que houver dispensa geral desta formatura.\n\n4. A pena de prisão escolar consiste na reclusão do aluno em dependência para esse fim destinada no aquartelamento.\n\nDurante o cumprimento desta pena o aluno comparece a todos os actos de serviço, incluindo o escolar, só podendo sair em serviço e devidamente acompanhado. A saída e entrada será sempre controlada pelo oficial de dia."
+  },
+  "3b9eaf10c3c15067": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs recompensas e as penas disciplinares impostas aos alunos, com excepção das penas de repreensão e repreensão agravada, serão publicadas em ordem de serviço."
+  },
+  "ca624b1b22995fb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. O aluno que for punido com a pena de detenção ficará privado de obter qualquer dispensa durante um número de dias igual ao dobro do número de dias de detenção.\n\n2. O aluno que for punido com pena de prisão escolar ficará privado de obter qualquer dispensa durante um número de dias igual ao quádruplo do número de dias de prisão escolar.\n\n3. Devem ter completa execução as penas que estiverem a ser cumpridas, mesmo quando for atingido qualquer dos períodos de férias escolares, exceptuando os do Natal e Páscoa.\n\n4. As punições aplicadas aos alunos, incluindo os oficiais de complemento e os sargentos dos quadros permanente e de complemento e as praças, só figuram nos registos escolares para os devidos efeitos."
+  },
+  "3ff2200214f294a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1982-05-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 497/82](https://diariodarepublica.pt/dr/detalhe/portaria/497-1982-392449), publicado em 1982-05-15."
+   ],
+   "markdown": "###### Artigo 16.º\n\n1 - A competência disciplinar dos oficiais da Academia Militar exercendo funções de comando sobre os alunos é a indicada no quadro anexo a este diploma.\n\n2 - Os oficiais das unidades, estabelecimentos ou órgãos militares que exerçam funções de comando, direcção ou chefia sobre os alunos da Academia Militar neles apresentados têm sobre estes a competência disciplinar indicada no quadro anexo, em correspondência com as funções de comando dos oficiais da Academia Militar.\n\n3 - A competência disciplinar fixa-se no posto que, organicamente, corresponde à função exercida, quando exista essa correspondência.\n\n4 - Os oficiais comandantes de destacamento ou chefes de missão da Academia Militar têm sobre os alunos que comandam ou chefiam a competência disciplinar correspondente ao seu posto.\n\n5 - Os oficiais subalternos, quando comandantes de destacamento ou chefes de missão, têm sobre os alunos que comandam ou chefiam a competência disciplinar correspondente ao posto de capitão.\n\n6 - O comandante da Academia Militar é a única entidade com a faculdade de atenuar, agravar ou substituir as penas escolares impostas aos alunos por entidades exteriores à Academia Militar.\n\n7 - As decisões do comandante da Academia Militar no que respeita à aplicação das penas previstas no artigo 13.º são definitivas.\n\n> Alterado pelo/a [Portaria n.º 497/82](https://diariodarepublica.pt/dr/detalhe/portaria/497-1982-392449), publicado em 1982-05-15."
+  },
+  "1fd7d8195ddca3cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Condições de eliminação dos alunos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Condições de eliminação dos alunos"
+  },
+  "c4ca55d34956a1ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. São eliminados da Academia Militar:\n\na) Os alunos dos cursos com duração escolar de cinco anos que percam dois anos seguidos ou alternados;\n\nb) Os alunos dos cursos com duração escolar superior a cinco anos que percam dois anos seguidos ou três alternados;\n\nc) Os alunos dos cursos de pilotagem aeronáutica que forem considerados inaptos para a pilotagem e que não requeiram o ingresso noutro curso para o qual reúnam as necessárias condições;\n\nd) Os alunos que não obtenham aproveitamento nos tirocínios e estágios, salvaguardando-se o caso de doença ou desastre em serviço, só podendo beneficiar desta concessão durante um ano;\n\ne) Os alunos que em qualquer altura dos cursos sejam considerados incapazes para o serviço pela junta hospitalar de inspecção;\n\nf) Os alunos que em qualquer altura dos cursos sejam punidos com penas que excedam vinte dias de prisão escolar, por si ou por suas equivalências, correspondendo, para este efeito, dois dias de detenção a um dia de prisão escolar, quando o excedente dessas penas não lhes tenha sido cancelado;\n\ng) Os alunos que em qualquer altura dos cursos revelem falta de aptidão militar ou de qualidades morais;\n\nh) Os alunos que o requeiram durante o primeiro ano de frequência da Academia, ou na repetição da frequência desse ano, sem que devam qualquer indemnização à Fazenda Nacional;\n\ni) Os alunos que o requeiram durante a frequência de qualquer outro ramo da Academia, incluindo o tirocínio, mediante indemnização à Fazenda Nacional;\n\nj) Os cadetes-alunos que contraiam matrimónio sem autorização superior.\n\n2. A perda de um ano durante a frequência de um curso por faltas motivadas por desastre em serviço não é contada para efeito de eliminação. Os alunos só podem beneficiar desta disposição uma vez até à frequência do tirocínio.\n\n3. A eliminação dos alunos abrangidos pelo disposto nas alíneas f) e g) do n.º 1 deste artigo só tem execução mediante decisão do comandante da Academia Militar sob parecer do conselho de disciplina.\n\n4. Os alunos dos cursos de pilotagem aeronáutica que forem considerados inaptos para a pilotagem durante a frequência da Academia Militar ou no tirocínio podem requerer a transição no ano lectivo imediato para outro curso para o qual reúnam as necessárias condições. Estes alunos, no caso de o requerimento ser deferido, não repetem frequências, promovendo-se todos os ajustamentos viáveis, a fim de que possam concluir o curso no menor tempo possível.\n\n5. As decisões do comandante da Academia Militar sobre a eliminação de alunos são definitivas."
+  },
+  "b16634b0d0c9d452": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs alunos eliminados da frequência dos cursos da Academia Militar nos termos das alíneas d), f), g), i) e j) do n.º 1 do artigo anterior ficam obrigados para com o Estado a indemnização financeira, a propor pela Academia Militar para cada caso e a aprovar pelo Chefe do Estado-Maior do Exército, embora não superior a 50% da totalidade dos abonos percebidos durante a frequência do curso."
+  },
+  "034e29455901824d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nCompete às Direcções do Serviço de Pessoal do Exército e da Força Aérea dar destino aos alunos da Academia Militar eliminados, incluindo os oficiais de complemento, sargentos dos quadros permanente e de complemento e praças, tendo em consideração as causas determinantes da eliminação, assim como a sua situação militar anterior."
+  },
+  "a0bacab8a3207095": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nPara efeitos de prestação de serviço militar, aos cadetes-alunos com a frequência completa dos 2.os anos dos cursos ministrados na Academia é dada equivalência ao 1.º ciclo dos cursos de oficiais milicianos."
+  },
+  "40e34fb363b26c4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nDe harmonia com o disposto no artigo 83.º do Decreto-Lei n.º 678/76, de 1 de Setembro, com a publicação da presente portaria são revogadas as correspondentes disposições insertas nos Decretos-Leis n.os 42151 e 42152, de 12 de Fevereiro de 1959, com a redacção que lhes foi fixada por força de outros diplomas legais posteriores.\n\nEstados-Maiores do Exército e da Força Aérea, 21 de Março de 1977. - O Chefe do Estado-Maior do Exército, Vasco Joaquim Rocha Vieira, general. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.\n\nQuadro a que se refere o artigo 16.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1977/05/11800/11771181.pdf)\n\nO Chefe do Estado-Maior do Exército, Vasco Joaquim Rocha Vieira, general. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general."
+  }
+ }
+}

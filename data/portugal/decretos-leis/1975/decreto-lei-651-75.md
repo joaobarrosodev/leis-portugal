@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1976-06-09'
+version_history:
+  file: decreto-lei-651-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-11-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1976-06-09'
+    amending: pt:dre:305375:por
+    amending_title: Decreto-Lei n.º 462-A/76
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:46:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 462-A/76. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-651-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,13 +131,25 @@ Nestes termos:
 
 Usando dos poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O artigo 6.º do [Decreto-Lei n.º 207-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-a-1975-146881), de 17 de Abril, passa a ter a seguinte redacção:
+###### Artigo 1.º
+
+O artigo 6.º do [Decreto-Lei n.º 207-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-a-1975-146881), de 17 de Abril, passa a ter a seguinte redacção:
 
 O conhecimento das infracções previstas neste diploma pertence ao foro militar, excepto quando se trate de infracções respeitantes a armas das referidas no n.º 1 do artigo 1.º que não tenham conexão com crimes sujeitos ao foro militar.
 
-Art. 2.º Os agentes das infracções previstas no [Decreto-Lei n.º 207-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-a-1975-146881), de 17 de Abril, quando detidos em flagrante delito, continuarão nessa situação até julgamento.
+###### Artigo 2.º
 
-Art. 3.º Este diploma entra imediatamente em vigor.
+Os agentes das infracções previstas no [Decreto-Lei n.º 207-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-a-1975-146881), de 17 de Abril, quando detidos em flagrante delito, continuarão nessa situação até ao final do julgamento, salvo quando:
+
+a) Por confissão espontânea ou por qualquer outro modo, tenham contribuído para a descoberta e apreensão das armas;
+
+b) Sejam meros portadores ou simples detentores, sem terem feito ou esboçado a intenção de deles fazerem uso proibido, de armas brancas ou outros instrumentos que, embora susceptíveis de ser usados como arma de agressão, possam, pelo seu formato e dimensões, ser considerados de porte frequente.
+
+> Alterado pelo/a [Decreto-Lei n.º 462-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/462-a-1976-305375), publicado em 1976-06-09.
+
+###### Artigo 3.º
+
+Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 

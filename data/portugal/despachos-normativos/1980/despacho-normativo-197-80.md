@@ -37,10 +37,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1981-01-06'
+version_history:
+  file: despacho-normativo-197-80.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1980-07-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1981-01-06'
+    amending: pt:dre:570490:por
+    amending_title: Despacho Normativo n.º 1/81
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -66,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T07:00:59Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 1/81. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1980/despacho-normativo-197-80.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -128,19 +143,19 @@ De entre estas lacunas destacam-se as situações de reconversão e reorganizaç
 
 Com vista a apoiar as iniciativas que visem a defesa do emprego nas situações acabadas de referir, determina-se o seguinte:
 
-###### ARTIGO 1.º — (Projecto de reemprego)
+###### Artigo 1.º — (Projecto de reemprego)
 
 1 - Para efeitos deste despacho normativo, considera-se projecto de reemprego o projecto de investimento, de reorganização, de utilização de capacidade produtiva, ou outros, de que resulte a possibilidade de reemprego de trabalhadores, cujos postos de trabalho se achem em vias de extinção ou mesmo extintos, sem prejuízo dos direitos decorrentes da antiguidade do trabalhador na empresa onde se encontrava, nem de outros direitos ajustados às condições vigentes na empresa que proporcione o reemprego.
 
 2 - Os apoios previstos neste despacho são concedidos ao abrigo do artigo 11.º, alínea c), do [Decreto-Lei n.º 762/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/762-1974-256808), de 30 de Dezembro, do artigo 7.º, n.º 2, alínea f), do [Decreto-Lei n.º 759/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/759-1975-355308), da mesma data (com a redacção dada pelo artigo 1.º do [Decreto-Lei n.º 423/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1977-279211), de 7 de Outubro), e do [Decreto-Lei n.º 437/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1978-325295), de 28 de Dezembro.
 
-###### ARTIGO 2.º — (Campo de aplicação)
+###### Artigo 2.º — (Campo de aplicação)
 
 1 - Este regime destina-se, especialmente, aos casos em que uma empresa, diferente da que extingue os postos de trabalho, se dispõe a proporcionar emprego ao conjunto ou a uma parte dos trabalhadores atingidos.
 
 2 - Poderá, no entanto, ser aplicado à empresa onde ocorra a extinção, desde que se verifiquem os requisitos constantes do n.º 3, e, se for caso disso, no n.º 4 do artigo 3.º
 
-###### ARTIGO 3.º — (Condições de acesso)
+###### Artigo 3.º — (Condições de acesso)
 
 1 - A concessão do apoio previsto neste despacho encontra-se dependente da verificação das seguintes condições prévias:
 
@@ -172,13 +187,15 @@ b) Cumprimento, ou incumprimento justificado, das condições incluídas no desp
 
 5 - A cumulação de apoios à manutenção de postos de trabalho obedece aos condicionalismos referidos no número anterior.
 
-###### ARTIGO 4.º — (Montantes e aplicações)
+###### Artigo 4.º — (Montantes e aplicações)
 
-1 - O apoio selectivo previsto neste despacho normativo será concedido a fundo perdido e o seu montante será função das necessidades avaliadas pelos serviços do IEFP, não podendo, no entanto, ultrapassar, por trabalhador, o equivalente ao montante máximo do subsídio de desemprego multiplicado por doze nem, por empresa, a importância de dezoito milhões de escudos.
+1 - O apoio selectivo previsto neste despacho normativo será concedido a fundo perdido e o seu montante será função das necessidades avaliadas pelos serviços do IEFP, não podendo, no entanto, ultrapassar por trabalhador o equivalente ao montante máximo do subsídio de desemprego multiplicado por catorze.
 
 2 - Em princípio, o montante da ajuda destinar-se-á a contribuir para o pagamento de salários, correspondentes sobretudo a períodos de desocupação e ou subocupação, e para acções de formação profissional.
 
-###### ARTIGO 5.º — (Processo administrativo)
+> Alterado pelo/a [Despacho Normativo n.º 1/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-1981-570490), publicado em 1981-01-05.
+
+###### Artigo 5.º — (Processo administrativo)
 
 1 - Os pedidos de apoio são apresentados nos serviços de promoção do emprego do IEFP, que instruem e submetem a despacho o respectivo processo.
 
@@ -186,7 +203,7 @@ b) Cumprimento, ou incumprimento justificado, das condições incluídas no desp
 
 3 - Aplica-se a este regime, com as necessárias adaptações, o que se encontra previsto no [Despacho Normativo n.º 316/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/316-1978-326702), de 30 de Novembro, relativo à manutenção de postos de trabalho, designadamente no que se refere ao processo administrativo, aos compromissos assumidos pela empresa e ao acompanhamento do processo.
 
-###### ARTIGO 6.º — (Disposições finais)
+###### Artigo 6.º — (Disposições finais)
 
 1 - Os pareceres e consensos referidos neste despacho normativo serão dispensáveis, sem prejuízo das comunicações às entidades e serviços visados, nas situações de particular urgência em que o atraso na tomada de decisões se reflicta gravemente na evolução dos problemas a resolver.
 

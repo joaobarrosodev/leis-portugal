@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-02-07'
+version_history:
+  file: decreto-regulamentar-regional-26-77-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1977-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-02-07'
+    amending: pt:dre:393181:por
+    amending_title: Decreto Regulamentar Regional n.º 3/A/79
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:24:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar Regional n.º
+    3/A/79. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-regulamentares-regionais/1977/decreto-regulamentar-regional-26-77-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,15 +127,23 @@ Em execução do Decreto Regional n.º 11/77, de 20 de Maio:
 
 O Governo Regional decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
 
-Artigo 1.º Todas as questões emergentes da aplicação da Lei do Arrendamento Rural da Região Autónoma dos Açores, nomeadamente as que dizem respeito ao despejo dos prédios, direitos de preferência, oposição às denúncias, fixação e alteração de rendas e demais questões, serão julgadas no tribunal da comarca da localização dos prédios.
+###### Artigo 1.º
 
-Art. 2.º - 1. Sempre que surjam dúvidas sobre o procedimento e os trâmites processuais a seguir em qualquer questão relacionada com o arrendamento rural na Região Autónoma dos Açores, aplicam-se os princípios gerais do direito processual civil.
+Todas as questões emergentes da aplicação da Lei do Arrendamento Rural da Região Autónoma dos Açores, nomeadamente as que dizem respeito ao despejo dos prédios, direitos de preferência, oposição às denúncias, fixação e alteração de rendas e demais questões, serão julgadas no tribunal da comarca da localização dos prédios.
 
-2. O processo aplicável ao despejo será o previsto nos artigos 964.º e seguintes do Código de Processo Civil.
+###### Artigo 2.º
+
+1. Sempre que surjam dúvidas sobre o procedimento e os trâmites processuais a seguir em qualquer questão relacionada com o arrendamento rural na Região Autónoma dos Açores, aplicam-se os princípios gerais do direito processual civil.
+
+2. O processo aplicável ao despejo será o previsto nos artigos 964.º e seguintes do Código de Processo Civil; o processo aplicável à fixação e alteração de rendas será o previsto nos artigos 1052.º e seguintes do mesmo diploma.
 
 3. Todas as demais questões seguem os termos do processo declarativo comum.
 
-Art. 3.º Os processos pendentes nas comissões arbitrais a que se refere o [Decreto-Lei n.º 201/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1975-162082), de 15 de Abril, no âmbito da aplicação do Decreto Regional n.º 11/77, de 20 de Maio, e que ainda não tenham sido julgados em 1.ª instância, transitarão para os tribunais comuns.
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 3/A/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1979-393181), publicado em 1979-02-07.
+
+###### Artigo 3.º
+
+Os processos pendentes nas comissões arbitrais a que se refere o [Decreto-Lei n.º 201/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1975-162082), de 15 de Abril, no âmbito da aplicação do Decreto Regional n.º 11/77, de 20 de Maio, e que ainda não tenham sido julgados em 1.ª instância, transitarão para os tribunais comuns.
 
 Aprovado em Plenário do Governo Regional em 9 de Agosto de 1977. - O Presidente do Governo Regional, João Bosco Mota Amaral.
 

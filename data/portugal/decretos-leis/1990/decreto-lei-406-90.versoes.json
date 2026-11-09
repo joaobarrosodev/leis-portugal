@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:242053:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1990-12-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "01f3e6d22bdb20c4"
+   ]
+  },
+  {
+   "date": "1995-05-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:503649:por",
+     "title": "Decreto-Lei n.º 106/95",
+     "published": "1995-05-20",
+     "dre_path": "/dr/detalhe/decreto-lei/106-1995-503649"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "d671030c34dad31e",
+    "53171800261d3971",
+    "d087bd78ae6a2696",
+    "a76485737e302bbf",
+    "a95c9accc95b3e70",
+    "aff836d8cf938a44",
+    "769492d254155731",
+    "ebd32f73cb69465b",
+    "3095dc891659fde3",
+    "3c3e1a4494f88cec",
+    "c41581592633c00b"
+   ]
+  }
+ ],
+ "fragments": {
+  "01f3e6d22bdb20c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Dezembro\n\nA sociedade IPE - Investimentos e Participações do Estado, S. A., instituída pelo [Decreto-Lei n.º 330/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495), de 18 de Agosto, resultou da transformação do Instituto das Participações do Estado, E. P., criado pelo [Decreto-Lei n.º 163-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-c-1975-638886), de 25 de Março, com estatuto de empresa pública, aprovado pelo [Decreto-Lei n.º 496/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1976-230969), de 26 de Junho.\n\nNa sua origem encontram-se as nacionalizações verificadas em 1974 e 1975. As empresas nacionalizadas eram detentoras de numerosas participações em outras sociedades, participações essas que foram assim indirectamente nacionalizadas.\n\nO IPE, E. P., surge com o objectivo fundamental de assegurar a gestão e o reordenamento daquele vasto conjunto de participações sociais indirectamente nacionalizadas.\n\nUma primeira reformulação dos objectivos do IPE, E. P., ocorreu em 1979, quando a sua carteira de participações sociais foi drasticamente reduzida, tendo passado de cerca de um milhar para menos de uma centena, com a finalidade de assegurar alguma coerência e nacionalidade ao conjunto e assim permitir uma gestão mais eficaz.\n\nCom a transformação do IPE em sociedade anónima de capitais públicos, em 1982, foi-lhe legalmente definida, a par da gestão da sua carteira de participações sociais, a vocação específica de contribuir para o fomento do investimento produtivo, associando-se sempre que possível a empresários privados. Para tal, com o novo estatuto, foi-lhe confiada maior autonomia de gestão e conferida maior agilidade na alienação e na tomada de participações sociais.\n\nNos últimos anos, a par de uma notória melhoria da gestão e de resultados das empresas em cujo capital participa, o IPE, S. A., desenvolveu uma política activa de alienações, que lhe permitiu também libertar fundos para novos e importantes investimentos, em associação com capitais privados, nacionais e estrangeiros.\n\nAssim, o IPE, S. A., tem-se revelado um instrumento com interesse ao serviço do desenvolvimento, modernização e internacionalizarão da nossa economia. A sua carteira de participações sociais apresenta hoje uma estrutura e configuração completamente diferente daquelas que determinaram a sua criação e condicionaram a sua evolução durante a primeira década da sua existência.\n\nIsto mesmo fora já reconhecido pelo accionista Estado em assembleia geral extraordinária realizada em 29 de Dezembro de 1989, quando definiu como trave mestra da sua actividade a intensificação do seu papel de parceiro de risco da iniciativa privada.\n\nApós a revisão constitucional de Agosto de 1989 e a publicação da Lei Quadro das Reprivatizações, e também tendo em conta as orientações da política económica do Governo, a situação do IPE, S. A., carece de clarificação institucional.\n\nPor um lado, vários dos entes públicos que hoje participam no capital do IPE, S. A., serão a breve prazo privatizados, pelo que a sua permanência como accionistas seria incompatível com o actual enquadramento legal e estatutário do IPE como sociedade anónima de capitais exclusivamente públicos.\n\nPor outro lado, entende o Governo que a progressiva abertura do IPE, S. A., a capitais privados é compatível com os seus objectivos e pode até favorecê-los, desde que feita em moldes adequados e por forma a acautelar o desenvolvimento das potencialidades do que é já hoje um pólo valioso de racionalidade e modernização da estrutura empresarial e industrial portuguesa.\n\nEsta clarificação institucional não pode deixar também de se desenvolver, tendo presente o enquadramento de participações sociais detidas pelo IPE, S. A., a que o Estado confere carácter estratégico no âmbito de reestruturações sectoriais, nomeadamente as relativas aos sectores das telecomunicações, cimentos e infra-estruturas rodoviárias.\n\nSem prejuízo do seu futuro reenquadramento e destino empresarial, estas participações, para as quais se reconhece o maior interesse público, terão necessariamente que passar para o domínio directo do Estado, o que será feito nas condições que forem deliberadas em sede própria, ou seja, em assembleia geral do IPE, S. A., por forma a acautelar os diversos interesses envolvidos.\n\nO presente diploma autoriza ainda, e desde já, a venda directa de participações detidas pelo IPE, S. A., em duas sociedades, decorrendo as respectivas operações na rigorosa observância do regime previsto na Lei Quadro das Reprivatizações.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º A denominação social do IPE - Investimentos e Participações do Estado, S. A., criado pelo [Decreto-Lei n.º 330/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495), de 18 de Agosto, é alterada para IPE - Investimentos e Participações Empresariais, S. A.\n\nArt. 2.º As acções representativas do capital social da sociedade IPE - Investimentos e Participações Empresariais, S. A., podem ser objecto da titularidade de entidades públicas ou privadas.\n\nArt. 3.º - 1 - As operações de alienação de participações sociais detidas pelo IPE - Investimentos e Participações, Empresariais, S. A., que hajam sido objecto de nacionalização directa obedecem aos princípios previstos na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.\n\n2 - Enquanto a sociedade detiver as participações a que se refere o número anterior, o seu capital social deverá pertencer exclusivamente a entes públicos, competindo ao conselho de administração daquela propor ao Governo o processo, as modalidades e as condições específicas de cada operação de alienação.\n\n3 - O valor das participações sociais a alienar nos termos do n.º 1 será fixado com base na avaliação feita por duas entidades independentes.\n\n4 - O produto da alienação das participações sociais previstas no n.º 1 constitui receita própria da sociedade, devendo ser por esta aplicado em acções de fomento do investimento produtivo, de acordo com a alínea b) do artigo 296.º da Constituição.\n\nArt. 4.º - No caso de o Estado e outras entidades públicas conjuntamente possuírem entre 10% e 50% das acções representativas do capital social com direito de voto, poderá o Governo nomear um administrador da sociedade, o qual gozará dos poderes previstos na lei geral.\n\nArt. 5.º Sem prejuízo das situações criadas ao abrigo da legislação anterior, a sociedade deixa de ser, para todos os efeitos, equiparada ao Estado.\n\nArt. 6.º No prazo de 30 dias subsequentes à data da entrada em vigor do presente diploma, será convocada, com a antecedência mínima permitida por lei, a assembleia geral dos accionistas, tendo por fim deliberar sobre uma proposta de alteração dos estatutos da sociedade, a apresentar pelo representante das acções detidas pelo Estado.\n\nArt. 7.º As alterações estatutárias mencionadas no artigo anterior, e decorrentes da aplicação do presente diploma, produzirão todos os seus efeitos desde que deliberadas nos termos legais e estatuários devendo a respectiva escritura e registos ser feitos com isenção de taxas e emolumentos.\n\nArt. 8.º - 1 - É revogado o [Decreto-Lei n.º 330/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495), de 18 de Agosto, com excepção do disposto no artigo 14.º\n\n2 - Os actuais estatutos do IPE, S. A., aprovados pelo [Decreto-Lei n.º 330/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495), de 18 de Agosto, continuam em vigor até à sua alteração, nos termos do artigo anterior.\n\nArt. 9.º - 1 - O IPE - Investimentos e Participações do Estado, S. A., fica desde já autorizado a proceder à venda directa da participação social que detém na COVINA - Companhia Vidreira Nacional, S. A., atendendo à estratégia definida para o sector e à realidade actual dos mercados nacional e internacional.\n\n2 - O IPE - Investimentos e Participações do Estado, S. A., fica também desde já autorizado a proceder à venda directa, total ou parcial, das acções que detém na Companhia de Seguros Garantia, S. A., ou à sua realização em capital social de nova sociedade a constituir, atendendo à situação da empresa no sector e à estratégia para ele definida.\n\n3 - O Conselho de Ministros aprovará, mediante resolução, nos termos e para os efeitos dos artigos 8.º e 14.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, todo o processo das operações previstas nos números anteriores.\n\nArt. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 15 de Novembro de 1990. - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.\n\nPromulgado em 19 de Dezembro de 1990.\n\nPublique-se.\n\nPresidente da República, MÁRIO SOARES.\n\nReferendado em 20 de Dezembro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "d671030c34dad31e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Dezembro\n\nA sociedade IPE - Investimentos e Participações do Estado, S. A., instituída pelo [Decreto-Lei n.º 330/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495), de 18 de Agosto, resultou da transformação do Instituto das Participações do Estado, E. P., criado pelo [Decreto-Lei n.º 163-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-c-1975-638886), de 25 de Março, com estatuto de empresa pública, aprovado pelo [Decreto-Lei n.º 496/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1976-230969), de 26 de Junho.\n\nNa sua origem encontram-se as nacionalizações verificadas em 1974 e 1975. As empresas nacionalizadas eram detentoras de numerosas participações em outras sociedades, participações essas que foram assim indirectamente nacionalizadas.\n\nO IPE, E. P., surge com o objectivo fundamental de assegurar a gestão e o reordenamento daquele vasto conjunto de participações sociais indirectamente nacionalizadas.\n\nUma primeira reformulação dos objectivos do IPE, E. P., ocorreu em 1979, quando a sua carteira de participações sociais foi drasticamente reduzida, tendo passado de cerca de um milhar para menos de uma centena, com a finalidade de assegurar alguma coerência e nacionalidade ao conjunto e assim permitir uma gestão mais eficaz.\n\nCom a transformação do IPE em sociedade anónima de capitais públicos, em 1982, foi-lhe legalmente definida, a par da gestão da sua carteira de participações sociais, a vocação específica de contribuir para o fomento do investimento produtivo, associando-se sempre que possível a empresários privados. Para tal, com o novo estatuto, foi-lhe confiada maior autonomia de gestão e conferida maior agilidade na alienação e na tomada de participações sociais.\n\nNos últimos anos, a par de uma notória melhoria da gestão e de resultados das empresas em cujo capital participa, o IPE, S. A., desenvolveu uma política activa de alienações, que lhe permitiu também libertar fundos para novos e importantes investimentos, em associação com capitais privados, nacionais e estrangeiros.\n\nAssim, o IPE, S. A., tem-se revelado um instrumento com interesse ao serviço do desenvolvimento, modernização e internacionalizarão da nossa economia. A sua carteira de participações sociais apresenta hoje uma estrutura e configuração completamente diferente daquelas que determinaram a sua criação e condicionaram a sua evolução durante a primeira década da sua existência.\n\nIsto mesmo fora já reconhecido pelo accionista Estado em assembleia geral extraordinária realizada em 29 de Dezembro de 1989, quando definiu como trave mestra da sua actividade a intensificação do seu papel de parceiro de risco da iniciativa privada.\n\nApós a revisão constitucional de Agosto de 1989 e a publicação da Lei Quadro das Reprivatizações, e também tendo em conta as orientações da política económica do Governo, a situação do IPE, S. A., carece de clarificação institucional.\n\nPor um lado, vários dos entes públicos que hoje participam no capital do IPE, S. A., serão a breve prazo privatizados, pelo que a sua permanência como accionistas seria incompatível com o actual enquadramento legal e estatutário do IPE como sociedade anónima de capitais exclusivamente públicos.\n\nPor outro lado, entende o Governo que a progressiva abertura do IPE, S. A., a capitais privados é compatível com os seus objectivos e pode até favorecê-los, desde que feita em moldes adequados e por forma a acautelar o desenvolvimento das potencialidades do que é já hoje um pólo valioso de racionalidade e modernização da estrutura empresarial e industrial portuguesa.\n\nEsta clarificação institucional não pode deixar também de se desenvolver, tendo presente o enquadramento de participações sociais detidas pelo IPE, S. A., a que o Estado confere carácter estratégico no âmbito de reestruturações sectoriais, nomeadamente as relativas aos sectores das telecomunicações, cimentos e infra-estruturas rodoviárias.\n\nSem prejuízo do seu futuro reenquadramento e destino empresarial, estas participações, para as quais se reconhece o maior interesse público, terão necessariamente que passar para o domínio directo do Estado, o que será feito nas condições que forem deliberadas em sede própria, ou seja, em assembleia geral do IPE, S. A., por forma a acautelar os diversos interesses envolvidos.\n\nO presente diploma autoriza ainda, e desde já, a venda directa de participações detidas pelo IPE, S. A., em duas sociedades, decorrendo as respectivas operações na rigorosa observância do regime previsto na Lei Quadro das Reprivatizações.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "53171800261d3971": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA denominação social do IPE - Investimentos e Participações do Estado, S. A., criado pelo [Decreto-Lei n.º 330/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495), de 18 de Agosto, é alterada para IPE - Investimentos e Participações Empresariais, S. A."
+  },
+  "d087bd78ae6a2696": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs acções representativas do capital social da sociedade IPE - Investimentos e Participações Empresariais, S. A., podem ser objecto da titularidade de entidades públicas ou privadas."
+  },
+  "a76485737e302bbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1995-05-21",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 106/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1995-503649), publicado em 1995-05-20."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - As operações de alienação de participações sociais detidas pelo IPE - Investimentos e Participações, Empresariais, S. A., que hajam sido objecto de nacionalização directa obedecem aos princípios previstos na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril.\n\n2 - Enquanto a sociedade detiver as participações a que se refere o número anterior, o seu capital social deverá pertencer exclusivamente a entes públicos, competindo ao conselho de administração daquela propor ao Governo o processo, as modalidades e as condições específicas de cada operação de alienação.\n\n3 - Para efeitos de aplicação do disposto no número anterior, consideram-se «entes públicos» as entidades indicadas na alínea e) do n.º 2 do artigo 1.º da [Lei n.º 71/88](https://diariodarepublica.pt/dr/detalhe/lei/71-1988-374423), de 24 de Maio.\n\n4 - O valor das participações sociais a alienar nos termos do n.º 1 será fixado com base na avaliação feita por duas entidades independentes.\n\n5 - O produto da alienação das participações sociais previstas no n.º 1 constitui receita própria da sociedade, devendo ser por esta aplicado em acções de fomento do investimento produtivo, de acordo com a alínea b) do artigo 296.º da Constituição.\n\n> Alterado pelo/a [Decreto-Lei n.º 106/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1995-503649), publicado em 1995-05-20."
+  },
+  "a95c9accc95b3e70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNo caso de o Estado e outras entidades públicas conjuntamente possuírem entre 10% e 50% das acções representativas do capital social com direito de voto, poderá o Governo nomear um administrador da sociedade, o qual gozará dos poderes previstos na lei geral."
+  },
+  "aff836d8cf938a44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSem prejuízo das situações criadas ao abrigo da legislação anterior, a sociedade deixa de ser, para todos os efeitos, equiparada ao Estado."
+  },
+  "769492d254155731": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNo prazo de 30 dias subsequentes à data da entrada em vigor do presente diploma, será convocada, com a antecedência mínima permitida por lei, a assembleia geral dos accionistas, tendo por fim deliberar sobre uma proposta de alteração dos estatutos da sociedade, a apresentar pelo representante das acções detidas pelo Estado."
+  },
+  "ebd32f73cb69465b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs alterações estatutárias mencionadas no artigo anterior, e decorrentes da aplicação do presente diploma, produzirão todos os seus efeitos desde que deliberadas nos termos legais e estatuários devendo a respectiva escritura e registos ser feitos com isenção de taxas e emolumentos."
+  },
+  "3095dc891659fde3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - É revogado o [Decreto-Lei n.º 330/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495), de 18 de Agosto, com excepção do disposto no artigo 14.º\n\n2 - Os actuais estatutos do IPE, S. A., aprovados pelo [Decreto-Lei n.º 330/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1982-397495), de 18 de Agosto, continuam em vigor até à sua alteração, nos termos do artigo anterior."
+  },
+  "3c3e1a4494f88cec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - O IPE - Investimentos e Participações do Estado, S. A., fica desde já autorizado a proceder à venda directa da participação social que detém na COVINA - Companhia Vidreira Nacional, S. A., atendendo à estratégia definida para o sector e à realidade actual dos mercados nacional e internacional.\n\n2 - O IPE - Investimentos e Participações do Estado, S. A., fica também desde já autorizado a proceder à venda directa, total ou parcial, das acções que detém na Companhia de Seguros Garantia, S. A., ou à sua realização em capital social de nova sociedade a constituir, atendendo à situação da empresa no sector e à estratégia para ele definida.\n\n3 - O Conselho de Ministros aprovará, mediante resolução, nos termos e para os efeitos dos artigos 8.º e 14.º da [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, todo o processo das operações previstas nos números anteriores."
+  },
+  "c41581592633c00b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 15 de Novembro de 1990. - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio.\n\nPromulgado em 19 de Dezembro de 1990.\n\nPublique-se.\n\nPresidente da República, MÁRIO SOARES.\n\nReferendado em 20 de Dezembro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

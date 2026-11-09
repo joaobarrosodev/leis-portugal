@@ -40,10 +40,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-06-01'
+version_history:
+  file: decreto-lei-279-2003.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-11-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-01'
+    amending: pt:dre:519977:por
+    amending_title: Decreto-Lei n.º 107/2007
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/279/2003/11/08/p/dre/pt/html
@@ -69,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:40:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 107/2007. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2003/decreto-lei-279-2003.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -195,11 +210,15 @@ c) Dados relativos à execução do contrato, tais como o tipo de movimento, sit
 
 ###### Artigo 5.º — Interconexão de dados
 
-1 - A Direcção-Geral dos Impostos fica autorizada, através de processamento informático, a relacionar os dados regulados no presente diploma com os dados dos seus próprios sistemas informáticos, para efeitos do estritamente indispensável à confirmação da informação relativa aos rendimentos do agregado familiar relevantes para enquadramento na classe de bonificação de juro a suportar pelo Estado.
+1 - A Direcção-Geral dos Impostos fica autorizada, através de processamento informático, a relacionar os dados regulados no presente diploma com os dados dos seus próprios sistemas informáticos, para efeitos do estritamente indispensável à determinação da classe de bonificação de juro a suportar pelo Estado, informando a Direcção-Geral do Tesouro em conformidade.
 
-2 - É vedado à Direcção-Geral dos Impostos utilizar os dados a que aceda nos termos do presente diploma para qualquer fim diverso do fixado no número anterior.
+2 - A determinação da classe de bonificação de juro é feita, exclusivamente, com base em informação prestada pela Direcção-Geral do Tesouro quanto à composição do agregado familiar dos mutuários e respectivos números de contribuinte, considerando-se, para todos os efeitos legais, o acto imputado àquela entidade.
 
-3 - Em caso de verificação de divergência entre os elementos referentes aos rendimentos do agregado familiar declarados para enquadramento nos regimes de crédito à habitação bonificados e os constantes dos seus sistemas informáticos, a Direcção-Geral dos Impostos limitar-se-á a comunicar a natureza da divergência à Direcção-Geral do Tesouro para os efeitos do artigo 29.º-A do [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro, aditado pelo [Decreto-Lei n.º 320/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-2000-583436), de 15 de Dezembro.
+3 - É vedado à Direcção-Geral dos Impostos utilizar os dados a que aceda nos termos do presente diploma para qualquer fim diverso do fixado no número anterior.
+
+4 - A autorização a que se refere o n.º 1 não compreende, em caso algum, a revelação de dados relativos à situação tributária protegidos pelo dever de confidencialidade estabelecido na lei geral tributária, designadamente através de discriminação dos rendimentos pelos respectivos titulares.
+
+> Alterado pelo/a [Decreto-Lei n.º 107/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2007-519977), publicado em 2007-04-10.
 
 ###### Artigo 6.º — Medidas de segurança
 

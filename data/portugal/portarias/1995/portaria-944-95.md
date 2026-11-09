@@ -38,10 +38,31 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1997-04-02'
+version_history:
+  file: portaria-944-95.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1995-08-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-04-02'
+    amending: pt:dre:517384:por
+    amending_title: Portaria n.º 184/97
+    changes:
+    - Altera Artigo ANEXO — Tabela de emolumentos do registo civil::4.º
+    - Altera Artigo ANEXO — Tabela de emolumentos do registo civil::6.º
+    - Altera Artigo ANEXO — Tabela de emolumentos do registo civil::8.º
+    - Altera Artigo ANEXO — Tabela de emolumentos do registo civil::9.º
+    - Altera Artigo ANEXO — Tabela de emolumentos do registo civil::10.º
+    - Altera Artigo ANEXO — Tabela de emolumentos do registo civil::15.º
+    - Altera Artigo ANEXO — Tabela de emolumentos do registo civil::16.º
+    - Altera Artigo ANEXO — Tabela de emolumentos do registo civil::19.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/944/1995/08/01/p/dre/pt/html
@@ -67,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T13:15:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 184/97. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1995/portaria-944-95.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,23 +158,37 @@ Pelo Ministro da Justiça, Maria Eduarda de Almeida Azevedo, Secretária de Esta
 
 ## ANEXO — Tabela de emolumentos do registo civil
 
-Artigo 1.º Assento de nascimento ... Isento
+###### Artigo 1.º
 
-Art. 2.º Assento de declaração de maternidade ou de perfilhação ... Isento
+Assento de nascimento ... Isento
 
-Art. 3.º - 1 - Pelo assento de casamento civil ... 2000$00
+###### Artigo 2.º
+
+Assento de declaração de maternidade ou de perfilhação ... Isento
+
+###### Artigo 3.º
+
+1 - Pelo assento de casamento civil ... 2000$00
 
 2 - Assento de casamento católico ... Isento
 
 3 - Assento de casamento civil ou católico urgente... Isento
 
-Art. 4.º Assento de óbito ou de morte fetal ... Isento
+###### Artigo 4.º
 
-Art. 5.º Por cada assento requerido nos termos dos artigos 95.º ou 123.º ... 600$00
+Assento de óbito ou depósito do certificado médico de morte fetal ... Isento
 
-Art. 6.º - 1 - Assento de transcrição efectuada nos termos do artigo 82.º ... Isento
+> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17.
 
-2 - Pelo assento de transcrição de qualquer acto lavrado nos termos do n.º 2 do artigo 6.º ... 2000$00
+###### Artigo 5.º
+
+Por cada assento requerido nos termos dos artigos 95.º ou 123.º ... 600$00
+
+###### Artigo 6.º
+
+1 - Assento de transcrição efectuada nos termos do artigo 82.º ... Isento
+
+2 - Pelo assento de transcrição de qualquer acto lavrado nos termos do n.º 4 do artigo 6.º ... 2000$00
 
 3 - Assento de transcrição de nascimento lavrado no estrangeiro, perante autoridade estrangeira, respeitante a indivíduo a quem seja atribuída a nacionalidade portuguesa ou que a adquira ... Isento
 
@@ -164,13 +200,21 @@ Art. 6.º - 1 - Assento de transcrição efectuada nos termos do artigo 82.º ..
 
 7 - Assento de transcrição ou integração na Conservatória dos Registos Centrais de actos de registo lavrados pelos órgãos especiais do registo civil ... Isento
 
-Art. 7.º Assento reformado nos termos dos artigos 25.º e seguintes ... Isento
+> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17.
 
-Art. 8.º - 1 - Pela menção ou averbamento de convenção antenupcial ou de alteração de regime de bens em assento de casamento... 2000$00
+###### Artigo 7.º
 
-2 - Pelo assento de transcrição de convenção antenupcial ou de alteração do regime de bens lavrado no estrangeiro, perante autoridade estrangeira, nos termos do n.º 3 do artigo 11.º ... 2000$00
+Assento reformado nos termos dos artigos 25.º e seguintes ... Isento
 
-Art. 9.º - 1 - Pela organização de processo de casamento ... 2000$00
+###### Artigo 8.º
+
+Pela menção ou averbamento de convenção antenupcial ou de alteração de regime de bens em assento de casamento ... 2000$00
+
+> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17.
+
+###### Artigo 9.º
+
+1 - Pela organização de processo de casamento ... 2000$00
 
 2 - Ao emolumento do n.º 1 acrescem:
 
@@ -184,13 +228,21 @@ d) Por cada auto de consentimento para casamento de menores lavrado na conservat
 
 e) Pelo auto de convenção antenupcial ... 6000$00
 
-3 - Pelo certificado previsto no artigo 146.º ... 1500$00
+3 - Por cada um dos certificados previstos nos artigos 146.º e 163.º ... 1500$00
 
-Art. 10.º - 1 - Pelo processo de justificação judicial quando requerido pelos interessados ... 2500$00
+> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17.
 
-2 - Pelo processo de justificação administrativa nos termos do n.º 3 do artigo 92.º ... 2500$00
+###### Artigo 10.º
 
-Art. 11.º - 1 - Processo de impedimento do casamento ... Isento
+1 - Pelo processo de justificação judicial quando requerido pelos interessados ... 2500$00
+
+2 - Pelo processo de justificação administrativa requerido pelos interessados ... 2500$00
+
+> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17.
+
+###### Artigo 11.º
+
+1 - Processo de impedimento do casamento ... Isento
 
 2 - Pelo processo de dispensa de impedimentos matrimoniais ... 2000$00
 
@@ -206,7 +258,9 @@ Art. 11.º - 1 - Processo de impedimento do casamento ... Isento
 
 8 - Processo de autorização para inscrição tardia de nascimento ... Isento
 
-Art. 12.º - 1 - Pelo processo de divórcio e de separação de pessoas e bens, por mútuo consentimento:
+###### Artigo 12.º
+
+1 - Pelo processo de divórcio e de separação de pessoas e bens, por mútuo consentimento:
 
 a) No acto da instauração do processo ... 7500$00
 
@@ -214,17 +268,23 @@ b) No acto da apresentação do pedido da 2.ª conferência ... 7500$00
 
 2 - Pelo termo de reconciliação, no processo de separação, previsto no n.º 2 do artigo 1795.º-C do Código Civil ... 5000$00
 
-Art. 13.º - 1 - Pelo processo de alteração de nome ... 15000$00
+###### Artigo 13.º
+
+1 - Pelo processo de alteração de nome ... 15000$00
 
 2 - O emolumento previsto no número anterior pertence em partes iguais à conservatória instrutora e à Conservatória dos Registos Centrais.
 
-Art. 14.º - 1 - Pela tradução de documentos realizada pelo conservador, por cada lauda da tradução ... 1000$00
+###### Artigo 14.º
+
+1 - Pela tradução de documentos realizada pelo conservador, por cada lauda da tradução ... 1000$00
 
 2 - As fracções de lauda, além da primeira, não são consideradas para fins emolumentares.
 
 3 - Pelo certificado de exactidão de tradução feita por tradutor ajuramentado ... 600$00
 
-Art. 15.º - 1 - Por cada certidão de registo ... 500$00
+###### Artigo 15.º
+
+1 - Por cada certidão de registo ... 500$00
 
 2 - Por cada certidão negativa de registo ... 400$00
 
@@ -236,15 +296,27 @@ Art. 15.º - 1 - Por cada certidão de registo ... 500$00
 
 6 - Pela requisição de qualquer certidão a outra conservatória ... 250$00
 
-Art. 16.º - 1 - Emissão de boletim original de nascimento, casamento, óbito ou morte fetal ... Isento
+7 - Pelo exame de livros para fins de investigação genealógica, por cada período de duas horas de consulta ... 1000$00
 
-2 - Emissão de novo boletim de qualquer daqueles registos ... 500$00
+> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17.
 
-Art. 17.º - 1 - Pela requisição de cada bilhete de identidade, além do custo dos impressos respectivos ... 100$00
+###### Artigo 16.º
+
+1 - Emissão de boletim original de nascimento, casamento, óbito ou morte fetal ... Isento
+
+2 - Emissão de novo boletim de qualquer dos actos referidos no número anterior ... 500$00
+
+> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17.
+
+###### Artigo 17.º
+
+1 - Pela requisição de cada bilhete de identidade, além do custo dos impressos respectivos ... 100$00
 
 2 - Pelo preenchimento, a pedido dos interessados, do conjunto de impressos para bilhete de identidade ... 100$00
 
-Art. 18.º - 1 - Pelo acto de casamento não urgente celebrado, a pedido das partes, fora da conservatória ou nesta, mas fora das horas regulamentares ou em sábado, domingo ou dia de feriado, além do emolumento do assento, acresce o emolumento pessoal de ... 8400$00
+###### Artigo 18.º
+
+1 - Pelo acto de casamento não urgente celebrado, a pedido das partes, fora da conservatória ou nesta, mas fora das horas regulamentares ou em sábado, domingo ou dia de feriado, além do emolumento do assento, acresce o emolumento pessoal de ... 8400$00
 
 2 - Por qualquer outro acto praticado fora da conservatória ou nesta, mas fora das horas regulamentares ou em sábado, domingo ou dia de feriado, sem prejuízo do emolumento respectivo a que houver lugar ... 2000$00
 
@@ -252,7 +324,9 @@ Art. 18.º - 1 - Pelo acto de casamento não urgente celebrado, a pedido das par
 
 4 - Aos emolumentos respectivos acrescem as despesas de transporte.
 
-Art. 19.º Por cada auto de redução a escrito de declaração ou de requerimento verbal:
+###### Artigo 19.º
+
+Por cada auto de redução a escrito de declaração, salvo se respeitante a assento isento ou a depósito de morte fetal, ou de requerimento verbal:
 
 a) Para a prática de acto de registo ... 600$00
 
@@ -260,7 +334,11 @@ b) Para fins de instauração de processo de casamento ... 600$00
 
 c) Para fins de instauração de qualquer outro processo regulado no Código do Registo Civil ... 1600$00
 
-Art. 20.º - 1 - Os emolumentos previstos nos artigos 14.º, n.º 1, 15.º, n.º 6, 17.º, n.º 2, 18.º e 19.º da presente tabela têm a natureza de emolumentos pessoais.
+> Alterado pelo/a [Portaria n.º 184/97](https://diariodarepublica.pt/dr/detalhe/portaria/184-1997-517384), publicado em 1997-03-17.
+
+###### Artigo 20.º
+
+1 - Os emolumentos previstos nos artigos 14.º, n.º 1, 15.º, n.º 6, 17.º, n.º 2, 18.º e 19.º da presente tabela têm a natureza de emolumentos pessoais.
 
 2 - Dos emolumentos do artigo 18.º reverte:
 
@@ -272,12 +350,18 @@ b) Dois terços para o conservador ou para o seu substituto legal e um terço pa
 
 4 - O montante máximo dos emolumentos a perceber mensalmente pelos funcionários nos termos do número anterior é fixado por despacho do Ministro da Justiça.
 
-Art. 21.º - 1 - Para os efeitos do disposto no artigo 300.º, n.º 1, nos processos de casamento e correspondentes assentos e, bem assim, nos processos de divórcio e de separação de pessoas e bens, quando as situações económicas dos intervenientes sejam diferentes, é devido o pagamento de emolumentos se um deles não beneficiar de isenção.
+###### Artigo 21.º
+
+1 - Para os efeitos do disposto no artigo 300.º, n.º 1, nos processos de casamento e correspondentes assentos e, bem assim, nos processos de divórcio e de separação de pessoas e bens, quando as situações económicas dos intervenientes sejam diferentes, é devido o pagamento de emolumentos se um deles não beneficiar de isenção.
 
 2 - Havendo contradição entre o conteúdo de documentos apresentados para prova das condições económicas do mesmo interveniente, atende-se, apenas, ao documento que o indicar em melhor situação.
 
-Art. 22.º - 1 - Não são devidos emolumentos nem outros encargos pela substituição ou rectificação de registo ou acto irregular ou deficiente por razão exclusivamente imputável aos serviços.
+###### Artigo 22.º
+
+1 - Não são devidos emolumentos nem outros encargos pela substituição ou rectificação de registo ou acto irregular ou deficiente por razão exclusivamente imputável aos serviços.
 
 2 - Os actos que não estiverem expressamente compreendidos nesta tabela são praticados a título gratuito.
 
-Art. 23.º Os artigos citados sem indicação do respectivo diploma pertencem ao Código do Registo Civil.
+###### Artigo 23.º
+
+Os artigos citados sem indicação do respectivo diploma pertencem ao Código do Registo Civil.

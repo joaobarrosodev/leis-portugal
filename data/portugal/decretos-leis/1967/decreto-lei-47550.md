@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1968-04-18'
+version_history:
+  file: decreto-lei-47550.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-02-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1968-04-18'
+    amending: pt:dre:234535:por
+    amending_title: Decreto-Lei n.º 48338
+    changes:
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:00:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48338. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-47550.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -142,13 +157,19 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O abono do soldo ou ordenado, do vencimento de exercício e do pré e seus aumentos por períodos de readmissão aos militares dos três ramos das forças armadas em serviço no ultramar regula-se pelos preceitos que vigorarem na metrópole para o pessoal dos respectivos departamentos.
+###### Artigo 1.º
+
+O abono do soldo ou ordenado, do vencimento de exercício e do pré e seus aumentos por períodos de readmissão aos militares dos três ramos das forças armadas em serviço no ultramar regula-se pelos preceitos que vigorarem na metrópole para o pessoal dos respectivos departamentos.
 
 § único. A designação de vencimento-base em relação às praças do Exército e da Força Aérea abrange os aumentos de pré pela readmissão.
 
-Art. 2.º O abono do vencimento complementar e da subvenção de campanha é devido nas mesmas condições em que o forem o soldo, ordenado ou pré, com as excepções previstas, no presente diploma.
+###### Artigo 2.º
 
-Art. 3.º Os militares em tratamento ou na situação de licença da junta hospitalar ou de saúde na província a que pertencem, noutra província ou na metrópole, incluindo o tempo de viagem, por motivo de doença, desastre ou ferimento não relacionados com o serviço, têm direito aos seguintes vencimentos:
+O abono do vencimento complementar e da subvenção de campanha é devido nas mesmas condições em que o forem o soldo, ordenado ou pré, com as excepções previstas, no presente diploma.
+
+###### Artigo 3.º
+
+Os militares em tratamento ou na situação de licença da junta hospitalar ou de saúde na província a que pertencem, noutra província ou na metrópole, incluindo o tempo de viagem, por motivo de doença, desastre ou ferimento não relacionados com o serviço, têm direito aos seguintes vencimentos:
 
 a) Oficiais e sargentos do Exército, Armada e Força Aérea e praças da Armada: os da província a que pertencem, nos termos dos artigos 1.º e 2.º do presente diploma, em conjugação com o artigo 6.º do [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963;
 
@@ -156,15 +177,23 @@ b) Praças do Exército e da Força Aérea oriundas da metrópole: 50 por cento 
 
 c) Praças do Exército e da Força Aérea oriundas do ultramar: o vencimento-base da província deduzido de 50 por cento do equivalente ao pré metropolitano, mantendo os restantes vencimentos. O quantitativo do pré dos recrutas a que se referem os §§ 2.º e 3.º do artigo 3.º do [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229) é considerado, para este efeito, igual ao do soldo oriundo da metrópole.
 
-Art. 4.º Os militares em tratamento ou na situação de licença da junta hospitalar ou de saúde na província a que pertencem, noutra província ou na metrópole, incluindo o tempo de viagem, por motivo de alguma das causas previstas nas alíneas a), b) e c) do artigo 1.º do [Decreto-Lei n.º 45684](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45684-1964-582656), de 27 de Abril de 1964, mantêm o direito ao abono de todos os vencimentos correspondentes à efectividade de serviço na respectiva província, com a excepção da subvenção de campanha, que cessará, para os que dela estavam a ser abonados, após o período de dois anos contados a partir da data da baixa.
+###### Artigo 4.º
 
-Art. 5.º Os militares nas situações indicadas no artigo 3.º serão obrigatòriamente presentes à respectiva junta hospitalar ou de saúde, de acordo com as normas e prazos em vigor na metrópole para o Exército, Marinha e Força Aérea e para os mesmos efeitos.
+Os militares em tratamento ou na situação de licença da junta hospitalar ou de saúde na província a que pertencem, noutra província ou na metrópole, incluindo o tempo de viagem, por motivo de alguma das causas previstas nas alíneas a), b) e c) do artigo 1.º do [Decreto-Lei n.º 45684](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45684-1964-582656), de 27 de Abril de 1964, mantêm o direito ao abono de todos os vencimentos correspondentes à efectividade de serviço na respectiva província, com a excepção da subvenção de campanha, que cessará, para os que dela estavam a ser abonados, após o período de dois anos contados a partir da data da baixa.
 
-Art. 6.º Os militares nas situações indicadas no artigo 4.º serão obrigatòriamente presentes à respectiva junta hospitalar ou de saúde no fim do 1.º e 2.º período de 180 dias de tratamento, se antes as referidas juntas não tiverem tomado sobre eles qualquer decisão.
+###### Artigo 5.º
+
+Os militares nas situações indicadas no artigo 3.º serão obrigatòriamente presentes à respectiva junta hospitalar ou de saúde, de acordo com as normas e prazos em vigor na metrópole para o Exército, Marinha e Força Aérea e para os mesmos efeitos.
+
+###### Artigo 6.º
+
+Os militares nas situações indicadas no artigo 4.º serão obrigatòriamente presentes à respectiva junta hospitalar ou de saúde no fim do 1.º e 2.º período de 180 dias de tratamento, se antes as referidas juntas não tiverem tomado sobre eles qualquer decisão.
 
 § único. Após o 2.º período de 180 dias de tratamento, a presença à respectiva junta passará a efectuar-se no fim de cada período de 90 dias se, entretanto, aquela não tiver tomado qualquer decisão definitiva.
 
-Art. 7.º Das decisões definitivas tomadas pelas juntas competentes resultará para os militares referidos no artigo anterior uma das seguintes situações:
+###### Artigo 7.º
+
+Das decisões definitivas tomadas pelas juntas competentes resultará para os militares referidos no artigo anterior uma das seguintes situações:
 
 a) Pronto para todo o serviço ou apto para os serviviços auxiliares;
 
@@ -172,27 +201,43 @@ b) Apto para a prestação de serviço activo, nos termos do [Decreto-Lei n.º 4
 
 c) Incapaz de todo o serviço.
 
-Art. 8.º As decisões das juntas implicarão para os militares, a partir da data da respectiva homologação, o percebimento dos vencimentos, pensão de reforma extaordinária ou pensão de invalidez que dessas decisões resultarem.
+###### Artigo 8.º
+
+As decisões das juntas implicarão para os militares, a partir da data da respectiva homologação, o percebimento dos vencimentos, pensão de reforma extaordinária ou pensão de invalidez que dessas decisões resultarem.
 
 § único. Quando o militar for considerado pronto para todo o serviço ou apto para os serviços auxiliares, será determinado, simultâneamente com a homologação desta decisão da junta, se deve, ou não, regressar ao ultramar. No caso de regresso, manterá os vencimentos da província a que pertence, sem prejuízo do disposto na parte final do artigo 4.º
 
-Art. 9.º Aos militares a que se refere o artigo 4.º que forem julgados incapazes de todo o serviço será atribuída e paga pelos respectivos departamentos, a partir da data da homologação da decisão da junta competente, a pensão de reforma extraordinária ou de invalidez a que tiverem direito, calculada de harmonia com o disposto no [Decreto-Lei n.º 45684](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45684-1964-582656), de 27 de Abril de 1964, ou no [Decreto-Lei n.º 46046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46046-1964-535420), de 27 de Novembro de 1964, independentemente da conclusão do processo pela Caixa Geral de Aposentações.
+###### Artigo 9.º
 
-Art. 10.º Quando, posteriormente à fixação da pensão de reforma extraordinária ou da pensão de invalidez, o grau da incapacidade atribuído se agravar por efeitos da causa que lhe deu origem, e tal for reconhecido pela respectiva junta hospitalar ou de saúde, mediante parecer devidamente homologado pelo titular do departamento a que o militar pertence, este poderá requerer a revisão da pensão, ainda que já esteja a ser paga pela Caixa Geral de Aposentações.
+Aos militares a que se refere o artigo 4.º que forem julgados incapazes de todo o serviço será atribuída e paga pelos respectivos departamentos, a partir da data da homologação da decisão da junta competente, a pensão de reforma extraordinária ou de invalidez a que tiverem direito, calculada de harmonia com o disposto nos Decretos-Leis n.os 45684, de 27 de Abril de 1964, 46046, de 27 de Novembro de 1964, e 46564, de 1 de Outubro de 1965, independentemente da conclusão do processo pela Caixa Geral de Aposentações.
+
+> Alterado pelo/a [Decreto-Lei n.º 48338](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48338-1968-234535), publicado em 1968-04-18.
+
+###### Artigo 10.º
+
+Quando, posteriormente à fixação da pensão de reforma extraordinária ou da pensão de invalidez, o grau da incapacidade atribuído se agravar por efeitos da causa que lhe deu origem, e tal for reconhecido pela respectiva junta hospitalar ou de saúde, mediante parecer devidamente homologado pelo titular do departamento a que o militar pertence, este poderá requerer a revisão da pensão, ainda que já esteja a ser paga pela Caixa Geral de Aposentações.
 
 § único. Porém, da revisão prevista no corpo deste artigo não poderá resultar diminuição do quantitativo da pensão de reforma extraordinária ou da pensão de invalidez inicialmente atribuído.
 
-Art. 11.º O pagamento das pensões de reforma extraordinária e de invalidez passará a ser feito pela Caixa Geral de Aposentações, logo que tenha concluído os respectivos processos.
+###### Artigo 11.º
 
-Art. 12.º Os vencimentos a abonar aos militares das forças terrestres, navais e aéreas durante as viagens por conta do Estado e períodos de permanência, ou a aguardar transporte, em qualquer ponto fora da província a que pertencem são, de acordo com os motivos que se indicam, os seguintes:
+O pagamento das pensões de reforma extraordinária e de invalidez passará a ser feito pela Caixa Geral de Aposentações, logo que tenha concluído os respectivos processos.
+
+###### Artigo 12.º
+
+Os vencimentos a abonar aos militares das forças terrestres, navais e aéreas durante as viagens por conta do Estado e períodos de permanência, ou a aguardar transporte, em qualquer ponto fora da província a que pertencem são, de acordo com os motivos que se indicam, os seguintes:
 
 1.º Por motivo de chamada do Ministro da Defesa Nacional ou do titular do respectivo departamento ou ainda de missão eventual de serviço: todos os vencimentos que do antecedente vinham percebendo, sem prejuízo do direito aos abonos inerentes à deslocação;
 
 2.º Por motivos diferentes dos mencionados no número anterior e nos artigos 3.º e 4.º: o vencimento-base a que a sua situação militar lhes der direito à data de embarque e os abonos inerentes à deslocação, quando forem devidos.
 
-Art. 13.º Os militares que durante a viagem com destino à província ultramarina para que foram nomeados sejam mandados apresentar noutra província têm direito, após a apresentação nessa província, aos vencimentos que nela vigorarem.
+###### Artigo 13.º
 
-Art. 14.º Os militares apresentados na província ultramarina para que foram nomeados, quando mandados prestar serviço noutra província no desempenho de missões com carácter de permanência:
+Os militares que durante a viagem com destino à província ultramarina para que foram nomeados sejam mandados apresentar noutra província têm direito, após a apresentação nessa província, aos vencimentos que nela vigorarem.
+
+###### Artigo 14.º
+
+Os militares apresentados na província ultramarina para que foram nomeados, quando mandados prestar serviço noutra província no desempenho de missões com carácter de permanência:
 
 a) Mantêm direito aos vencimentos e outros abonos da província onde estavam apresentados se a totalidade destes, incluindo a subvenção de campanha, for superior à da província para onde são deslocados;
 
@@ -200,13 +245,21 @@ b) Têm direito aos vencimentos e outros abonos da província para onde são des
 
 § único. O encargo com os vencimentos e outros abonos militares a que se refere este artigo é suportado pela província para onde são deslocados.
 
-Art. 15.º O pessoal das guarnições dos navios da Armada atribuídos sem carácter permanente aos comandos ultramarinos, em relação ao qual se verifique qualquer das circunstâncias previstas neste diploma, nomeadamente quando careça de tratamento, quer este deva ter lugar na própria província, quer noutra província ou na metrópole, passa à situação de adido ao comando ultramarino respectivo e fica abrangido pelo regime estabelecido para as forças de desembarque pelos artigos 3.º e 4.º do [Decreto-Lei n.º 43773](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43773-1961-172893), de 1 de Julho de 1961, sendo-lhe então aplicáveis as disposições do presente diploma.
+###### Artigo 15.º
 
-Art. 16.º Os militares que passarem à situação de reserva ou de reforma nas províncias onde se encontrem a prestar serviço têm direito, durante o tempo em que estiverem a aguardar embarque, a um vencimento correspondente à pensão de reserva ou de reforma e ao vencimento complementar do seu posto. Porém, a soma da pensão e do vencimento complementar não poderá exceder a soma do vencimento-base e do vencimento complementar do respectivo posto ou da pensão de reserva e o vencimento complementar que percebiam do antecedente.
+O pessoal das guarnições dos navios da Armada atribuídos sem carácter permanente aos comandos ultramarinos, em relação ao qual se verifique qualquer das circunstâncias previstas neste diploma, nomeadamente quando careça de tratamento, quer este deva ter lugar na própria província, quer noutra província ou na metrópole, passa à situação de adido ao comando ultramarino respectivo e fica abrangido pelo regime estabelecido para as forças de desembarque pelos artigos 3.º e 4.º do [Decreto-Lei n.º 43773](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43773-1961-172893), de 1 de Julho de 1961, sendo-lhe então aplicáveis as disposições do presente diploma.
 
-Art. 17.º Aos militares que ainda se encontrem em qualquer das situações previstas no artigo 4.º por motivo de baixa ocorrida posteriormente a 31 de Dezembro de 1960 são aplicáveis, a partir da data da respectiva baixa, as disposições do presente diploma.
+###### Artigo 16.º
 
-Art. 18.º Ficam revogados os artigos 17.º, 18.º e 19.º do [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963, e o artigo 1.º do [Decreto-Lei n.º 46290](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46290-1965-237444), de 24 de Abril de 1965.
+Os militares que passarem à situação de reserva ou de reforma nas províncias onde se encontrem a prestar serviço têm direito, durante o tempo em que estiverem a aguardar embarque, a um vencimento correspondente à pensão de reserva ou de reforma e ao vencimento complementar do seu posto. Porém, a soma da pensão e do vencimento complementar não poderá exceder a soma do vencimento-base e do vencimento complementar do respectivo posto ou da pensão de reserva e o vencimento complementar que percebiam do antecedente.
+
+###### Artigo 17.º
+
+Aos militares que ainda se encontrem em qualquer das situações previstas no artigo 4.º por motivo de baixa ocorrida posteriormente a 31 de Dezembro de 1960 são aplicáveis, a partir da data da respectiva baixa, as disposições do presente diploma.
+
+###### Artigo 18.º
+
+Ficam revogados os artigos 17.º, 18.º e 19.º do [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963, e o artigo 1.º do [Decreto-Lei n.º 46290](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46290-1965-237444), de 24 de Abril de 1965.
 
 Publique-se e cumpra-se como nele se contém.
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-03-25'
+version_history:
+  file: decreto-lei-480-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-12-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-03-25'
+    amending: pt:dre:333290:por
+    amending_title: Decreto-Lei n.º 100/90
+    changes:
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:46:21Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 100/90. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-480-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -262,9 +277,15 @@ Aos enfermeiros habilitados com cursos estrangeiros legalmente reconhecidos nos 
 
 ###### Artigo 10.º — Condições de equivalência
 
-1 - Aos actuais enfermeiros que sejam titulares de uma habilitação que, ao tempo em que foi obtida, fosse considerada como suficiente para o acesso ao ensino superior será concedida equivalência ao bacharelato, ou ao diploma de estudos superiores especializados em enfermagem, conforme, respectivamente, tenham obtido aprovação no curso de Enfermagem Geral ou equivalente legal, ou tenham obtido aprovação nos cursos de especialização em enfermagem a que se refere o [Decreto-Lei n.º 265/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1983-452040), de 16 de Junho, ou no curso de Pedagogia e Administração para enfermeiros especialistas, a que se refere a [Portaria n.º 681/82](https://diariodarepublica.pt/dr/detalhe/portaria/681-1982-394521), de 8 de Julho.
+1 - Aos enfermeiros que sejam titulares de uma habilitação que, ao tempo em que foi obtida, fosse considerada como suficiente para o acesso ao ensino superior é concedida equivalência ao bacharelato, quando tenham obtido aprovação no curso de Enfermagem Geral ou equivalente legal, ou ao diploma de estudos superiores especializados em enfermagem, conforme tenham obtido aprovação num dos cursos a seguir mencionados:
 
-2 - Independentemente do disposto no número anterior, e durante um período de um ano a contar da data da entrada em vigor do presente diploma, a equivalência ao bacharelato poderá ainda ser concedida mediante apreciação curricular efectuada por um júri, a designar por despacho conjunto dos Ministros da Educação e da Saúde, na qual se terá em conta, nomeadamente:
+a) Cursos de especialização em enfermagem, a que se refere o [Decreto-Lei n.º 265/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1983-452040), de 16 de Junho;
+
+b) Curso de pedagogia e administração para enfermeiros especialistas, a que se refere a [Portaria n.º 681/82](https://diariodarepublica.pt/dr/detalhe/portaria/681-1982-394521), de 8 de Julho;
+
+c) Qualquer das secções do curso de Enfermagem Complementar, a que se refere a alínea e) do artigo 7.º do [Decreto-Lei n.º 38884](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38884-1952-668919), de 28 de Agosto de 1952.
+
+2 - Independentemente do disposto no número anterior, e durante um período de dois anos a contar da data da entrada em vigor do presente diploma, a equivalência ao bacharelato e ao diploma de estudos superiores especializados em enfermagem poderá ainda ser concedida mediante apreciação curricular efectuada por um júri a designar por despacho conjunto dos Ministros da Educação e da Saúde, na qual se terá em consideração, nomeadamente:
 
 a) As habilitações literárias do requerente;
 
@@ -281,6 +302,8 @@ f) A formação universitária em outras áreas de conhecimento.
 3 - O júri a que se refere o número anterior poderá condicionar a concessão da equivalência a determinada formação complementar.
 
 4 - As equiparações previstas nos números anteriores serão concedidas por despacho do Ministro da Educação a requerimento dos interessados, verificados os requisitos neles estabelecidos.
+
+> Alterado pelo/a [Decreto-Lei n.º 100/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1990-333290), publicado em 1990-03-20.
 
 ###### Artigo 11.º — Carreira docente
 

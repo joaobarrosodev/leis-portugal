@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:525596:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1969-03-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "39cea5f37eaf64be"
+   ]
+  },
+  {
+   "date": "1969-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215120:por",
+     "title": "Decreto n.º 49345",
+     "published": "1969-10-31",
+     "dre_path": "/dr/detalhe/decreto/49345-1969-215120"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "bf076cf90108850a",
+    "68c91d0930229a5f",
+    "c114fde065b4f065"
+   ]
+  }
+ ],
+ "fragments": {
+  "39cea5f37eaf64be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:\n\nArtigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato para a execução da obra de instalações eléctricas do edifício dos tribunais de polícia e execução das penas do Palácio de Justiça de Lisboa pela importância de 5594317$00.\n\nArt. 2.º O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:\n\nEm 1969 ... 1864772$00\n\nEm 1970 ... 3729545$00\n\n§ único. A importância fixada para o último ano será acrescida do saldo apurado no ano que lhe antecede.\n\nMarcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.\n\nPromulgado em 3 de Março de 1969.\n\nPublique-se.\n\nPresidência da República, 13 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "bf076cf90108850a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968;\n\nUsando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "68c91d0930229a5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato para a execução da obra de instalações eléctricas do edifício dos tribunais de polícia e execução das penas do Palácio de Justiça de Lisboa pela importância de 5594317$00."
+  },
+  "c114fde065b4f065": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1969-10-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 49345](https://diariodarepublica.pt/dr/detalhe/decreto/49345-1969-215120), publicado em 1969-10-31."
+   ],
+   "markdown": "###### Artigo 2.º\n\nO encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:\n\n1969 ... 2000000$00\n\n1970 ... 3594317$00\n\n§ único. A importância fixada para o ano de 1970 será acrescida do saldo eventualmente apurado no ano anterior.\n\n> Alterado pelo/a [Decreto n.º 49345](https://diariodarepublica.pt/dr/detalhe/decreto/49345-1969-215120), publicado em 1969-10-31.\n\nMarcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.\n\nPromulgado em 3 de Março de 1969.\n\nPublique-se.\n\nPresidência da República, 13 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

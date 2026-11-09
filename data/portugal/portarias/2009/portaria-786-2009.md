@@ -40,10 +40,33 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2011-06-14'
+version_history:
+  file: portaria-786-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-07-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-06-14'
+    amending: pt:dre:343948:por
+    amending_title: Portaria n.º 814/2010; Portaria n.º 228/2011
+    changes:
+    - Altera Artigo ANEXO::6.º
+    - Altera Artigo ANEXO::8.º
+    - Altera Artigo ANEXO::10.º
+    - Altera Artigo ANEXO::13.º
+    - Altera Artigo ANEXO::5.º
+    - Revoga Artigo ANEXO::21.º
+    - Altera Artigo ANEXO::6.º
+    - Altera Artigo ANEXO::17.º
+    - Altera Artigo ANEXO::19.º
+    - Altera Artigo ANEXO::20.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/786/2009/07/27/p/dre/pt/html
@@ -69,7 +92,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:42:17Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 814/2010; Portaria n.º
+    228/2011. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2009/portaria-786-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -255,19 +279,21 @@ b) Os OGL abrangidos por um protocolo de cooperação com os GAL, no âmbito da 
 
 a) Possuírem meios humanos e materiais adequados à realização da operação, nomeadamente técnicos com formação e experiência nas áreas temáticas da cooperação;
 
-b) Possuírem a situação regularizada face à administração fiscal e à segurança social;
+b) (Revogada.)
 
 c) Não estarem abrangidos por quaisquer disposições de exclusão resultantes de incumprimento de obrigações decorrentes de quaisquer operações co-financiadas anteriores realizadas desde 2000;
 
-d) Disporem de contabilidade actualizada e organizada de acordo com as especificações do Plano Oficial de Contabilidade.
+d) (Revogada.)
 
 2 - Os candidatos aos apoios à componente dois devem ainda apresentar um protocolo de cooperação onde estejam expressas as obrigações, os deveres e as responsabilidades de todos os parceiros envolvidos, bem como a designação do GAL coordenador do projecto de cooperação.
+
+> Alterado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 6.º — Critérios de elegibilidade das operações
 
 1 - Podem beneficiar dos apoios do presente Regulamento as operações que se enquadrem nos objectivos definidos no artigo 2.º e que reúnam as seguintes condições:
 
-a) Tenham início após a data de apresentação do pedido de apoio, sem prejuízo do disposto no artigo 21.º;
+a) (Revogada.)
 
 b) Apresentem coerência técnica;
 
@@ -284,6 +310,14 @@ b) Apresentar as intenções de cooperação.
 a) Apresentar coerência económica e financeira;
 
 b) Apresentar informação detalhada sobre os parceiros do projecto de cooperação, as actividades a desenvolver e o orçamento.
+
+4 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem.
+
+5 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.
+
+> Alterado pelo/a Artigo 31.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 7.º — Despesas elegíveis e não elegíveis
 
@@ -303,7 +337,7 @@ d) Cumprir as obrigações legais, designadamente as fiscais e para com a segura
 
 e) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;
 
-f) Dispor de contabilizada organizada de acordo com as especificações do Plano Oficial de Contabilidade, bem como uma contabilidade analítica de forma a evidenciar correctamente os fundos públicos de que for beneficiário no âmbito do PRODER;
+f) Ter um sistema de contabilidade organizada ou simplificada de acordo com o legalmente exigido;
 
 g) Não locarem, alienarem ou por qualquer forma onerarem os equipamentos ou as instalações co-financiadas, durante um período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, se tal termo ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão do PRODER;
 
@@ -320,6 +354,8 @@ c) Justificar quaisquer propostas de alteração à programação da operação,
 d) Apresentar à autoridade de gestão, um ano após o recebimento integral dos apoios, um relatório de avaliação relativo aos resultados da operação.
 
 3 - Os beneficiários dos apoios relativos à componente dois devem também, à data da celebração do contrato de financiamento, apresentar os termos de aprovação do projecto de cooperação pelas respectivas autoridades de gestão, sempre que existam GAL reconhecidos no âmbito do PRODERAM e PRORURAL, ou por outros Estados membros da União Europeia.
+
+> Alterado pelo/a Artigo 31.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 9.º — Forma, nível e limites dos apoios
 
@@ -341,6 +377,10 @@ c) Valorização do território de intervenção (VTI), que valoriza o contribut
 
 3 - Os pedidos de apoio mencionados nos números anteriores são hierarquizados em função do resultado do cálculo da respectiva valia global da operação, abreviadamente designada por VGO, cuja fórmula consta do anexo iii, devendo obter uma pontuação mínima de 10 pontos.
 
+4 - A alteração dos critérios de selecção referidos nos números anteriores, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRODER, em www.proder.pt.
+
+> Alterado pelo/a Artigo 31.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
+
 ### CAPÍTULO II — Procedimento
 
 ###### Artigo 11.º — Apresentação dos pedidos de apoio
@@ -361,9 +401,11 @@ c) Valorização do território de intervenção (VTI), que valoriza o contribut
 
 4 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada ao beneficiário ou ao GAL coordenador pelo secretariado técnico no prazo máximo de 15 dias úteis a contar da data de recepção do parecer prevista no n.º 3.
 
-###### Artigo 13.º — Transição de pedidos
+###### Artigo 13.º — Readmissão de pedidos de apoio
 
-Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental transitam automaticamente para o período de candidatura subsequente, sendo definitivamente recusados caso não obtenham aprovação em dois períodos consecutivos.
+Os pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.
+
+> Alterado pelo/a Artigo 31.º do/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ###### Artigo 14.º — Contrato de financiamento
 
@@ -399,9 +441,11 @@ Os pedidos de apoio que tenham sido objecto de parecer favorável e que não ten
 
 3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.
 
-4 - São realizadas visitas aos locais da operação pelo menos uma vez durante o seu período de execução e, preferencialmente, aquando da análise do último pedido de pagamento.
+4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
 
 5 - Para efeitos de pagamento ao beneficiário, o secretariado técnico comunica a validação da despesa ao IFAP, I. P.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 18.º — Pagamentos
 
@@ -409,21 +453,25 @@ Os pagamentos dos apoios são efectuados pelo IFAP, I. P., por transferência ba
 
 ###### Artigo 19.º — Controlo
 
-1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro de 2005.
+1 - A operação está sujeita a acções de controlo a partir da data da celebração do contrato de financiamento, nos termos previstos no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º [1698/2005](http://data.europa.eu/eli/reg/2005/1698/oj?locale=pt), do Conselho, de 20 de Setembro.
 
-2 - Para além do disposto no número anterior, a operação está sujeita a controlo até 24 meses após o pagamento final.
+2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.
 
-3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório de visita.
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ###### Artigo 20.º — Reduções e exclusões
 
-Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis, ao beneficiário, as reduções e as exclusões previstas no Regulamento (CE) n.º [1975/2006](http://data.europa.eu/eli/reg/2006/1975/oj?locale=pt), da Comissão, de 7 de Dezembro.
+Em caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º [65/2011](http://data.europa.eu/eli/reg/2011/65/oj?locale=pt), da Comissão, de 27 de Janeiro.
+
+> Alterado pelo/a [Portaria n.º 228/2011](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), publicado em 2011-06-09.
 
 ### CAPÍTULO III — Disposições finais e transitórias
 
 ###### Artigo 21.º — Disposição transitória
 
-As despesas efectuadas após 1 de Janeiro de 2009 são consideradas elegíveis apenas para a componente um e desde que sejam apresentadas até 31 de Dezembro de 2009.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 814/2010](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), publicado em 2010-08-27.
 
 ## ANEXO I — Despesas elegíveis e não elegíveis
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-08-24'
+version_history:
+  file: decreto-regulamentar-29-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-09-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-08-24'
+    amending: pt:dre:676796:por
+    amending_title: Decreto Regulamentar n.º 42/91
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:17:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 42/91. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1990/decreto-regulamentar-29-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -134,17 +149,27 @@ Assim:
 
 Ao abrigo do disposto do artigo 7.º da [Lei n.º 1/89](https://diariodarepublica.pt/dr/detalhe/lei/1-1989-610272), de 31 de Janeiro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º O presente diploma aplica-se aos doentes portadores de paramiloidose familiar que estejam recenseados no Centro de Estudos de Paramiloidose do Porto ou nas suas delegações, quer directamente quer mediante comunicação efectuada pelos serviços de saúde onde estes doentes se encontrem a ser assistidos.
+###### Artigo 1.º
 
-Art. 2.º - 1 - Encontra-se abrangido pelo presente diploma todo o material clínico de apoio para compensar as desvantagens motoras e perturbações esfincterianas, designadamente cadeiras de rodas, camas articuladas, canadianas, calçado ortopédico, almofadas antiescaras, algálias, sacos para recolha de urina e fraldas.
+O presente diploma aplica-se aos doentes portadores de paramiloidose familiar que estejam recenseados no Centro de Estudos de Paramiloidose do Porto ou nas suas delegações, quer directamente quer mediante comunicação efectuada pelos serviços de saúde onde estes doentes se encontrem a ser assistidos.
+
+###### Artigo 2.º
+
+1 - Encontra-se abrangido pelo presente diploma todo o material clínico de apoio para compensar as desvantagens motoras e perturbações esfincterianas, designadamente cadeiras de rodas, camas articuladas, canadianas, calçado ortopédico, almofadas antiescaras, algálias, sacos para recolha de urina e fraldas.
 
 2 - O material clínico de apoio referido no número anterior é concedido gratuitamente e, no caso de ser recuperável, a título devolutivo.
 
-Art. 3.º - 1 - A prescrição médica e o fornecimento do material clínico referido no artigo anterior competem ao Centro de Estudos de Paramiloidose do Porto, ao Hospital de Santa Maria e aos Centros de Saúde de Braga, Seia, Bom Sucesso, Figueira da Foz, Vila do Conde, Matosinhos, Póvoa de Varzim, Esposende, Barcelos, Unhais da Serra e Covilhã.
+###### Artigo 3.º
+
+1 - A prescrição médica e o fornecimento do material clínico referido no artigo anterior competem ao Centro de Estudo de Paramiloidose do Porto, ao Hospital Geral de Santo António, ao Hospital de Santa Maria e aos Centros de Saúde de Braga, Seia, Bom Sucesso, Figueira da Foz, Vila do Conde, Matosinhos, Póvoa de Varzim, Esposende, Barcelos, Unhais da Serra e Covilhã.
 
 2 - Os encargos decorrentes da prescrição do material de apoio clínico serão suportados pelas entidades prescritoras.
 
-Art. 4.º - 1 - Para os efeitos previstos no presente diploma, os serviços de saúde referidos no n.º 1 do artigo anterior devem proceder ao cálculo dos consumos do material clínico de apoio e enviar as suas previsões para o Serviço de Aprovisionamento da Secretaria-Geral do Ministério da Saúde, tendo em vista a realização dos respectivos concursos públicos para aquisição daquele material.
+> Alterado pelo/a [Decreto Regulamentar n.º 42/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/42-1991-676796), publicado em 1991-08-19.
+
+###### Artigo 4.º
+
+1 - Para os efeitos previstos no presente diploma, os serviços de saúde referidos no n.º 1 do artigo anterior devem proceder ao cálculo dos consumos do material clínico de apoio e enviar as suas previsões para o Serviço de Aprovisionamento da Secretaria-Geral do Ministério da Saúde, tendo em vista a realização dos respectivos concursos públicos para aquisição daquele material.
 
 2 - A acção referida no número anterior deve estar concluída no prazo de três meses após a entrada em vigor deste diploma.
 

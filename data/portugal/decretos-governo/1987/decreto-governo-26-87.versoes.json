@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:420442:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1987-07-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "629773578a95dd18"
+   ]
+  },
+  {
+   "date": "1987-09-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:495687:por",
+     "title": "Decreto do Governo n.º 31/87",
+     "published": "1987-09-16",
+     "dre_path": "/dr/detalhe/decreto-governo/31-1987-495687"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "78d10edfadbab003",
+    "5b105fd4276837d0",
+    "00b34eff6f64ae4b",
+    "054e7bce3d10bac2"
+   ]
+  }
+ ],
+ "fragments": {
+  "629773578a95dd18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Julho\n\nTendo sido apurado, em inquérito, que se têm verificado na Câmara Municipal do Fundão graves ilegalidades no que respeita ao seu funcionamento interno e tomada de decisões;\n\nConsiderando que os factos apurados afectam gravemente a imagem do poder local e se reflectem de forma nociva nos interesses da autarquia e respectivas populações;\n\nConsiderando a situação de bloqueamento do funcionamento da Câmara Municipal do Fundão, resultante da radicalização das posições assumidas pelos seus membros;\n\nTendo em conta que os factos apurados se traduzem na violação, de uma forma grave, do disposto nos artigos 48.º, 70.º, n.os 1 e 2, 79.º, n.º 1, 80.º, n.º 1, e 86.º, n.º 1, do [Decreto-Lei n.º 100/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1984-661715), de 29 de Março, e são, por isso, enquadráveis na alínea a) do n.º 1 do artigo 93.º da [Lei n.º 79/77](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), de 25 de Outubro;\n\nObtido parecer favorável da Assembleia Distrital de Castelo Branco:\n\nO Governo decreta, ao abrigo do n.º 3 do artigo 93.º da [Lei n.º 79/77](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), de 25 de Outubro, e nos termos da alínea d) do artigo 202.º da Constituição, o seguinte:\n\nArtigo 1.º É dissolvida, com os fundamentos constantes do preâmbulo do diploma, a Câmara Municipal do Fundão.\n\nArt. 2.º É nomeada para gerir a Câmara Municipal do Fundão, até à posse dos novos membros eleitos, uma comissão administrativa, composta pelos seguintes cidadãos eleitores:\n\nPresidente:\n\nDr. Luís Afonso Leitão.\n\nVogais:\n\nDr. José Sampaio Lopes;\n\nJoaquim Ferreira Ventura.\n\nArt. 3.º A Assembleia Municipal do Fundão, no prazo máximo de 30 dias, marcará novas eleições para aquele órgão, que deverão ter lugar no prazo de 70 a 80 dias a contar da data da respectiva marcação.\n\nVisto e aprovado em Conselho de Ministros de 9 de Junho de 1987. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.\n\nAssinado em 27 de Junho de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Julho de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "78d10edfadbab003": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Julho\n\nTendo sido apurado, em inquérito, que se têm verificado na Câmara Municipal do Fundão graves ilegalidades no que respeita ao seu funcionamento interno e tomada de decisões;\n\nConsiderando que os factos apurados afectam gravemente a imagem do poder local e se reflectem de forma nociva nos interesses da autarquia e respectivas populações;\n\nConsiderando a situação de bloqueamento do funcionamento da Câmara Municipal do Fundão, resultante da radicalização das posições assumidas pelos seus membros;\n\nTendo em conta que os factos apurados se traduzem na violação, de uma forma grave, do disposto nos artigos 48.º, 70.º, n.os 1 e 2, 79.º, n.º 1, 80.º, n.º 1, e 86.º, n.º 1, do [Decreto-Lei n.º 100/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-1984-661715), de 29 de Março, e são, por isso, enquadráveis na alínea a) do n.º 1 do artigo 93.º da [Lei n.º 79/77](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), de 25 de Outubro;\n\nObtido parecer favorável da Assembleia Distrital de Castelo Branco:\n\nO Governo decreta, ao abrigo do n.º 3 do artigo 93.º da [Lei n.º 79/77](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), de 25 de Outubro, e nos termos da alínea d) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "5b105fd4276837d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ dissolvida, com os fundamentos constantes do preâmbulo do diploma, a Câmara Municipal do Fundão."
+  },
+  "00b34eff6f64ae4b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ nomeada para gerir a Câmara Municipal do Fundão, até à posse dos novos membros eleitos, uma comissão administrativa, composta pelos seguintes cidadãos eleitores:\n\nPresidente:\n\nDr. Luís Afonso Leitão.\n\nVogais:\n\nDr. José Sampaio Lopes;\n\nJoaquim Ferreira Ventura."
+  },
+  "054e7bce3d10bac2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1987-09-16",
+   "changed_by": [
+    "Alterado pelo/a [Decreto do Governo n.º 31/87](https://diariodarepublica.pt/dr/detalhe/decreto-governo/31-1987-495687), publicado em 1987-09-16."
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs eleições para a Câmara Municipal do Fundão realizar-se-ão no dia 18 de Outubro de 1987.\n\n> Alterado pelo/a [Decreto do Governo n.º 31/87](https://diariodarepublica.pt/dr/detalhe/decreto-governo/31-1987-495687), publicado em 1987-09-16.\n\nVisto e aprovado em Conselho de Ministros de 9 de Junho de 1987. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.\n\nAssinado em 27 de Junho de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 2 de Julho de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

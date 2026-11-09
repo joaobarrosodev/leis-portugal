@@ -39,10 +39,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-03-12'
+version_history:
+  file: decreto-legislativo-regional-3-84-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1984-03-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-03-12'
+    amending: pt:dre:326303:por
+    amending_title: Decreto Legislativo Regional n.º 4/85/M
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:37:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    4/85/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/1984/decreto-legislativo-regional-3-84-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -136,9 +153,17 @@ A Região Autónoma da Madeira, dados os seus condicionalismos geográficos, é 
 
 Assim, nos termos das alíneas a) e m) do artigo 229.º e do artigo 234.º da Constituição, a Assembleia Regional da Madeira decreta, para valer como lei, o seguinte:
 
-Artigo 1.º É proibida, a partir de 1 de Janeiro de 1985, a extracção de areia, gravilha, burgau e demais materiais inertes similares no leito das águas do mar (tal como é definido no artigo 2.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro) relativo ao arquipélago da Madeira e até ao limite da zona económica exclusiva portuguesa correspondente a esta Região Autónoma, definida nos termos da [Lei n.º 33/77](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), de 28 de Maio, bem como dos acordos e tratados internacionais sobre a matéria de que Portugal seja ou venha a ser parte, e sem prejuízo destes.
+###### Artigo 1.º
 
-Art. 2.º - 1 - A infracção ao disposto no artigo anterior constitui contra-ordenação punível com a coima de 100000$00 a 200000$00. Sendo o infractor pessoa colectiva, a coima aplicável poderá elevar-se até ao montante máximo de 3000000$00, em caso de dolo.
+1 - É Proibida, a partir de 1 de Janeiro de 1986, a extracção de areia, gravilha, burgau e demais inertes similares no leito das águas do mar (tal como é definido no artigo 2.º do [Decreto-Lei n.º 468/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/468-1971-631400), de 5 de Novembro), relativo ao arquipélago da Madeira e até ao limite da zona económica exclusiva portuguesa correspondente a esta Região Autónoma, definida nos termos da [Lei n.º 33/77](https://diariodarepublica.pt/dr/detalhe/lei/33-1977-252870), de 28 de Maio, bem como dos acordos e tratados internacionais sobre a matéria de que Portugal seja ou venha a ser parte, e sem prejuízo destes.
+
+2 - Os secretários regionais da tutela, mediante autorizações prévias, concederão casuisticamente as autorizações necessárias de entre as empresas que na Região se dedicam a tal actividade, só em ordem a abastecer as quantidades mínimas para um regular fornecimento do mercado consumidor, e sempre dentro do horizonte temporal fixado neste artigo.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 4/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1985-326303), publicado em 1985-03-12.
+
+###### Artigo 2.º
+
+1 - A infracção ao disposto no artigo anterior constitui contra-ordenação punível com a coima de 100000$00 a 200000$00. Sendo o infractor pessoa colectiva, a coima aplicável poderá elevar-se até ao montante máximo de 3000000$00, em caso de dolo.
 
 2 - A tentativa será sempre punida com coima até 50000$00.
 
@@ -146,13 +171,25 @@ Art. 2.º - 1 - A infracção ao disposto no artigo anterior constitui contra-or
 
 4 - Até que se mostre estar findo o processo a instaurar pelo facto da contra-ordenação e paga a coima a que eventualmente haja lugar, aplicar-se-á o disposto no artigo 21.º do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
 
-Art. 3.º O regime do [Decreto-Lei n.º 292/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1980-470795), de 16 de Agosto, abrange, na Região Autónoma da Madeira, não só a extracção de areia na faixa litoral ou em formações cativas como a dos demais materiais inertes referidos no artigo 1.º do presente diploma, seja qual for a sua situação, e a sua infracção é punida nos mesmos termos do artigo 2.º
+###### Artigo 3.º
 
-Art. 4.º A autorização a que se refere o n.º 2 do artigo 4.º do [Decreto-Lei n.º 292/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1980-470795), de 16 de Agosto, é, na Região Autónoma da Madeira, da competência do Secretário Regional do Comércio e Transportes.
+O regime do [Decreto-Lei n.º 292/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1980-470795), de 16 de Agosto, abrange, na Região Autónoma da Madeira, não só a extracção de areia na faixa litoral ou em formações cativas como a dos demais materiais inertes referidos no artigo 1.º do presente diploma, seja qual for a sua situação, e a sua infracção é punida nos mesmos termos do artigo 2.º
 
-Art. 5.º Compete às autoridades marítimas, portuárias, policiais, às câmaras municipais e aos serviços competentes da Secretaria Regional do Comércio e Transportes a fiscalização das infracções ao presente diploma, que levantarão os correspondentes autos de notícia e os remeterão à Capitana do Porto do Funchal ou à Direcção Regional do Comércio e Indústria, consoante a infracção se verifique no domínio público marítimo ou fora deste, para decisão.
+###### Artigo 4.º
 
-Art. 6.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+A autorização a que se refere o n.º 2 do artigo 4.º do [Decreto-Lei n.º 292/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1980-470795), de 16 de Agosto, é, na Região Autónoma da Madeira, da competência do Secretário Regional do Plano ou da Economia, conforme a extracção se verifique dentro ou fora da área do domínio público marítimo, respectivamente.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 4/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1985-326303), publicado em 1985-03-12.
+
+###### Artigo 5.º
+
+Compete às autoridades marítimas, portuárias e policiais, às câmaras municipais e aos serviços competentes das Secretarias Regionais do Plano e da Economia a fiscalização das infracções ao presente diploma, que levantarão os correspondentes autos de notícia e os remeterão à Capitania do Porto do Funchal ou à Direcção Regional do Comércio e Indústria, consoante a infracção se verifique no domínio público marítimo ou forma deste, para decisão.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 4/85/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1985-326303), publicado em 1985-03-12.
+
+###### Artigo 6.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
 
 Aprovado em sessão plenária em 1 de Fevereiro de 1984.
 

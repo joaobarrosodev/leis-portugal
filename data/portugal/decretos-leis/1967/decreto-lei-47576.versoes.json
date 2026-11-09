@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:503791:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1967-03-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b8f9ac003d8e578c"
+   ]
+  },
+  {
+   "date": "1968-01-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:233275:por",
+     "title": "Decreto-Lei n.º 48203",
+     "published": "1968-01-15",
+     "dre_path": "/dr/detalhe/decreto-lei/48203-1968-233275"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "bded0b4efd206928",
+    "272b5516f422b5b1",
+    "1917662eca31a34f",
+    "26106069db67569a",
+    "0afcfb98664d3609"
+   ]
+  }
+ ],
+ "fragments": {
+  "b8f9ac003d8e578c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Têm sido já introduzidas na legislação que regula os provimentos nos diferentes serviços do Ministério da Saúde e Assistência algumas disposições destinadas a remover dificuldades encontradas no preenchimento de certos cargos.\n\nVerifica-se, porém, que importa completar as medidas tomadas, neste sector, esclarecendo outras dúvidas de natureza idêntica, ao mesmo tempo que se alteram critérios de provimento no que respeita a escriturários de 1.ª e 2.ª classes.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º O cargo de escriturário de 1.ª classe ou equivalente passa a constituir categoria de ingresso na carreira do pessoal administrativo dos quadros de todos os serviços do Ministério da Saúde e Assistência, sendo o seu provimento feito por concurso de provas públicas, sem prejuízo do disposto no artigo 3.º do Decreto-Lei 45766, de 18 de Junho de 1964.\n\nArt. 2.º Os lugares da categoria de escriturário de 2.ª classe ou equivalente serão providos precedendo concurso de provas públicas, considerando-se, quanto a habilitações, o estabelecido pelo artigo 21.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.\n\n§ único. O Ministro da Saúde e Assistência poderá, no entanto, dispensar o concurso, quando circunstâncias especiais o justifiquem.\n\nArt. 3.º O Ministro da Saúde e Assistência pode mandar aplicar o disposto no § único do artigo 166.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, com a extensão que lhe foi dada pelo artigo 5.º do [Decreto-Lei n.º 46292](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46292-1965-237446), de 24 de Abril de 1965, a funcionários providos definitivamente em cargos não pertencentes aos quadros do Ministério da Saúde e Assistência e que estejam a servir neste Ministério há mais de um ano.\n\nArt. 4.º Os actuais adjuntos de delegados de saúde, quando hajam sido nomeados nos termos do artigo 65.º, § único, do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), são considerados, para todos os efeitos, delegados de saúde de 2.ª classe desde o início das referidas funções.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 3 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "bded0b4efd206928": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Têm sido já introduzidas na legislação que regula os provimentos nos diferentes serviços do Ministério da Saúde e Assistência algumas disposições destinadas a remover dificuldades encontradas no preenchimento de certos cargos.\n\nVerifica-se, porém, que importa completar as medidas tomadas, neste sector, esclarecendo outras dúvidas de natureza idêntica, ao mesmo tempo que se alteram critérios de provimento no que respeita a escriturários de 1.ª e 2.ª classes.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "272b5516f422b5b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1968-01-15",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 48203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48203-1968-233275), publicado em 1968-01-15."
+   ],
+   "markdown": "###### Artigo 1.º\n\nO cargo de escriturário de 1.ª classe ou equivalente passa a constituir categoria de ingresso na carreira do pessoal administrativo dos quadros de todos os serviços do Ministério da Saúde e Assistência, sendo o seu provimento feito por concurso de provas públicas, sem prejuízo do disposto no artigo 3.º do Decreto-Lei 45766, de 18 de Junho de 1964.\n\n§ único. O disposto neste artigo não se aplica aos concursos cujos editais hajam sido publicados em data anterior à entrada em vigor deste diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 48203](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48203-1968-233275), publicado em 1968-01-15."
+  },
+  "1917662eca31a34f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs lugares da categoria de escriturário de 2.ª classe ou equivalente serão providos precedendo concurso de provas públicas, considerando-se, quanto a habilitações, o estabelecido pelo artigo 21.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.\n\n§ único. O Ministro da Saúde e Assistência poderá, no entanto, dispensar o concurso, quando circunstâncias especiais o justifiquem."
+  },
+  "26106069db67569a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Ministro da Saúde e Assistência pode mandar aplicar o disposto no § único do artigo 166.º do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, com a extensão que lhe foi dada pelo artigo 5.º do [Decreto-Lei n.º 46292](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46292-1965-237446), de 24 de Abril de 1965, a funcionários providos definitivamente em cargos não pertencentes aos quadros do Ministério da Saúde e Assistência e que estejam a servir neste Ministério há mais de um ano."
+  },
+  "0afcfb98664d3609": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs actuais adjuntos de delegados de saúde, quando hajam sido nomeados nos termos do artigo 65.º, § único, do [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), são considerados, para todos os efeitos, delegados de saúde de 2.ª classe desde o início das referidas funções.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 3 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

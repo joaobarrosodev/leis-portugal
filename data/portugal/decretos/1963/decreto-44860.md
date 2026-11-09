@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-03-03'
+version_history:
+  file: decreto-44860.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-01-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-03-03'
+    amending: pt:dre:445554:por
+    amending_title: Decreto n.º 66/71
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:33:27Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 66/71. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1963/decreto-44860.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -96,11 +111,17 @@ Com parecer favorável do Governo-Geral de Moçambique e tendo em atenção a ur
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º É autorizado o Governo-Geral de Moçambique a dar o aval da província, até ao montante de 10000000$00, para uma operação de empréstimo, amortizável em dez anos, a contrair num estabelecimento de crédito por Carlos Abel de Sousa e Brito, proprietário e administrador da Organização de Turismo Estoril, da cidade da Beira.
+###### Artigo 1.º
+
+É autorizado o Governo-Geral de Moçambique a dar o aval da província, até ao montante de 10000000$00, para uma operação de empréstimo, amortizável em dez anos, a contrair num estabelecimento de crédito pela Organização de Turismo Estorial, Lda., da cidade da Beira.
 
 § único. Além de o Governo-Geral dever sancionar a indicação do estabelecimento de crédito escolhido para a operação, aprovará também prèviamente as cláusulas e condições que forem ajustadas para a concessão do empréstimo referido no corpo do artigo.
 
-Art. 2.º A província de Moçambique gozará do privilégio creditório, nos termos do artigo 878.º do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.
+> Alterado pelo/a [Decreto n.º 66/71](https://diariodarepublica.pt/dr/detalhe/decreto/66-1971-445554), publicado em 1971-03-03.
+
+###### Artigo 2.º
+
+A província de Moçambique gozará do privilégio creditório, nos termos do artigo 878.º do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.
 
 Publique-se e cumpra-se como nele se contém.
 

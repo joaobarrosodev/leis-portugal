@@ -37,10 +37,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1993-09-06'
+version_history:
+  file: decreto-360-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-08-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-09-06'
+    amending: pt:dre:367047:por
+    amending_title: Decreto-Lei n.º 459/79; Decreto-Lei n.º 19/91; Decreto-Lei n.º 283/92; Decreto-Lei n.º 304/93; Decreto-Lei
+      n.º 304/93
+    changes:
+    - Altera Artigo 50.º
+    - Altera Artigo 64.º
+    - Altera Artigo 65.º
+    - Altera Artigo 70.º
+    - Altera Artigo 74.º
 identifiers:
   celex: null
   eli: null
@@ -66,7 +85,9 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:18:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 459/79; Decreto-Lei
+    n.º 19/91; Decreto-Lei n.º 283/92; Decreto-Lei n.º 304/93; Decreto-Lei n.º 304/93. Método e verificação: consolidacao/README.md
+    e consolidacao/piloto/portugal/decretos/1971/decreto-360-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -621,13 +642,13 @@ Os sinistrados perdem o direito à renovação ou reparação dos aparelhos de p
 
 2. Quando a retribuição do sinistrado for estipulada por hora, o cálculo da retribuição-base far-se-á em relação ao período efectivo de horas de trabalho a prestar no dia do acidente se este não tivesse ocorrido, sem prejuízo do disposto no n.º 3 da base XXIII.
 
-###### Artigo 50.º — (Limites da retribuição-base)
+###### Artigo 50.º — Limites da retribuição-base
 
-1. Na retribuição-base diária sòmente se atenderá a 50 por cento da parte excedente a 100$00.
+1 - Relativamente a todas as incapacidades temporárias e às permanentes inferiores a 50%, na retribuição base diária somente se atenderá a 70% da parte excedente a 1/30 do salário mínimo nacional.
 
-2. É de 300$00 o máximo da retribuição-base diária.
+2 - Em relação às pensões devidas por incapacidades permanentes iguais ou superiores a 50%, ou por morte, na retribuição base diária apenas se atenderá a 80% da parte excedente a 1/30 do salário mínimo nacional.
 
-3. O disposto nos números anteriores não invalida a transferência facultativa da responsabilidade assumida pelas entidades patronais quanto a retribuições-base mais elevadas.
+> Alterado pelo/a [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), publicado em 1979-11-23.
 
 ###### Artigo 51.º — (Modo de fixação das pensões)
 
@@ -703,35 +724,27 @@ Quando houver necessidade de esclarecer quaisquer dúvidas sobre as incapacidade
 
 ### CAPÍTULO VII — Remição de pensões
 
-###### Artigo 64.º — (Condições de remição)
+###### Artigo 64.º — Condições de remição
 
-1. Serão obrigatòriamente remidas as pensões correspondentes a desvalorizações não superiores a 5 por cento, bem como as devidas aos sinistrados ou aos ascendentes, de montantes não superiores a 1200$00 anuais.
+1 - Serão obrigatoriamente remidas as pensões devidas a sinistrados e ascendentes que, cumulativamente, correspondam a desvalorizações não superiores a 10% e não excedam o valor da pensão calculada com base numa desvalorização de 10% sobre o salário mínimo nacional.
 
-2. As pensões correspondentes a desvalorizações superiores a 5 por cento e até 10 por cento, bem como as devidas aos sinistrados ou aos ascendentes, de montantes superiores a 1200$00 até 2400$00 anuais, poderão ser remidas, com autorização do tribunal competente, a requerimento dos pensionistas ou das entidades responsáveis, averiguada a aplicação útil e judiciosa do capital da remição.
+2 - Poderão ser, a requerimento dos pensionistas ou das entidades responsáveis e com autorização do tribunal competente, remidas as pensões devidas a sinistrados e ascendentes que, cumulativamente, correspondam a desvalorizações superiores a 10% e inferiores a 20% e não excedam o valor da pensão calculada com base numa desvalorização de 20% sobre o salário mínimo nacional e desde que haja uma comprovada aplicação útil do capital de remição.
 
-3. É permitida a remição das pensões correspondentes a desvalorizações superiores a 10 por cento e até 20 por cento, bem como das devidas aos sinistrados ou aos ascendentes, de montantes superiores a 2400$00 até 4800$00 anuais, havendo acordo entre as entidades responsáveis e os pensionistas, observando o condicionalismo do n.º 2 e desde que pelo menos 80 por cento do capital se destine:
+3 - Não são remíveis as pensões devidas a incapazes ou a afectados de doenças profissionais, bem como as fixadas ao abrigo do artigo 48.º, enquanto não for dada alta definitiva.
 
-a) A certificados de renda vitalícia, emitidos pela Junta do Crédito Público, que serão assentados em nome do pensionista;
+4 - As remições previstas no n.º 2 podem incidir apenas sobre parte da pensão, se assim for justificadamente requerido pelos interessados ou entre eles acordado.
 
-b) À construção ou aquisição de bens imóveis pelo pensionista ou ainda a ampliação ou beneficiação de bens dessa natureza que ele já possua;
+5 - Pode ser autorizado o pagamento em prestações da parte do capital a receber pelo pensionista, havendo acordo das partes e garantia do respectivo pagamento integral, pela forma que o juiz determinar.
 
-c) À compra de máquinas ou utensílios para exploração agrícola, piscatória ou de pequena indústria doméstica exercida pelo pensionista.
+> Alterado pelo/a [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), publicado em 1979-11-23.
 
-4. Não são remíveis as pensões devidas a incapazes e aos afectados de doenças profissionais, bem como as fixadas ao abrigo do disposto no artigo 48.º, enquanto não for dada alta em definitivo.
+###### Artigo 65.º — Capital
 
-5. As remições facultativas podem ser autorizadas em relação sòmente à parte da pensão, se assim for requerido, com justificação, pelos interessados ou entre eles acordado, de harmonia com o disposto nos n.os 2 e 3.
+1 - O capital de remição de uma pensão será igual a 95% do valor correspondente ao montante da respectiva provisão matemática, calculada de acordo com as tabelas em vigor para o cálculo das provisões matemáticas das empresas de seguros.
 
-6. A parte do capital que sobejar, depois de satisfeitas as despesas derivadas do cumprimento do disposto no n.º 3, será entregue ao pensionista, na forma legal.
+2 - No cálculo da provisão matemática para os efeitos do disposto no número anterior não serão, no caso de a pensão ser da responsabilidade de empresas de seguros, consideradas as alterações verificadas em pensões fixadas anteriormente a 1 de Outubro de 1979, em consequência da aplicação do artigo 50.º do presente diploma, na redacção que lhe foi dada pelo [Decreto-Lei n.º 459/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1979-367047), de 23 de Novembro, nem tão-pouco a atribuição de prestações suplementares pagáveis no mês de Dezembro de cada ano.
 
-7. Pode ser autorizado o pagamento em prestações da parte do capital a receber pelo pensionista, havendo acordo das partes e garantia do respectivo pagamento integral, pela forma que o juiz determinar.
-
-8. Salvo o disposto no n.º 3 sobre a aplicação de 80 por cento do capital, as remições serão efectuadas mediante certificados de aforro.
-
-###### Artigo 65.º — (Capital)
-
-1. O capital da remição será igual a 95 por cento do valor actual da pensão vitalícia remida, destinando-se 90 por cento ao pensionista e 5 por cento ao Fundo de Garantia e Actualização de Pensões.
-
-2. Para efeito do disposto no número anterior, o valor actual da pensão vitalícia remida será calculado de harmonia com as bases oficialmente adoptadas para a determinação das reservas matemáticas das sociedades de seguros.
+> Alterado pelo/a [Decreto-Lei n.º 304/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/304-1993-633541), publicado em 1993-09-01.
 
 ###### Artigo 66.º — (Impenhorabilidade e inalienabilidade dos imóveis)
 
@@ -767,17 +780,19 @@ c) As pessoas colectivas de utilidade pública administrativa, geral ou local.
 
 #### SECÇÃO II — Caucionamento de pensões
 
-###### Artigo 70.º — (Obrigação do caucionamento)
+###### Artigo 70.º — Obrigação do caucionamento
 
 1. As entidades patronais são obrigadas a caucionar o pagamento das pensões de acidentes de trabalho e doenças profissionais, em que tenham sido condenadas, ou a que se tenham obrigado por acordo homologado, quando não haja ou seja insuficiente o seguro.
 
-2. A caução pode ser feita por depósito de numerário, títulos da dívida pública, ou por afectação ou hipoteca de imóveis.
+2 - A caução pode ser feita por depósito de numerário, títulos de dívida pública, afectação ou hipoteca de imóveis, garantia bancária ou seguro de caução.
 
 3. Os caucionamentos são feitos à ordem do juiz do tribunal do trabalho respectivo, ou a seu favor, nos prazos que ele designar, intervindo nos actos e contratos necessários o agente do Ministério Público do mesmo tribunal.
 
 4. Os títulos da dívida pública são avaliados, para efeitos de caucionamento, pela última cotação na bolsa, e os imóveis e empréstimos hipotecários pelo valor matricial corrigido dos respectivos prédios, competindo ao agente do Ministério Público apreciar e dar parecer sobre a idoneidade dos caucionamentos.
 
 5. Sempre que se verifique que os caucionamentos são insuficientes, deverão eles ser reforçados, observando-se anàlogamente as disposições anteriores.
+
+> Alterado pelo/a [Decreto-Lei n.º 283/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1992-623854), publicado em 1992-12-19.
 
 ###### Artigo 71.º — (Intervenção da Inspecção-Geral de Crédito e Seguros)
 
@@ -801,13 +816,13 @@ c) As pessoas colectivas de utilidade pública administrativa, geral ou local.
 
 2. As isenções compreendidas no número anterior não abrangem a constituição de mandatário judicial.
 
-###### Artigo 74.º — (Representantes das responsáveis)
+###### Artigo 74.º — Representantes das responsáveis
 
-1. As entidades seguradoras são obrigadas a ter nas localidades das sedes dos tribunais do trabalho um representante que possa receber, com validade, as citações, notificações, avisos e correspondência dos mesmos tribunais.
+1 - As entidades seguradoras são obrigadas a ter nas localidades das sedes dos tribunais do trabalho um representante que possa receber as citações, notificações, avisos e correspondência emanados dos mesmos tribunais.
 
-2. Não se considerará cumprida a obrigação imposta no número anterior, quando o representante tiver parentesco de consanguinidade ou afinidade em qualquer grau em linha recta ou até ao segundo grau de linha colateral com alguns dos magistrados ou funcionários daqueles tribunais.
+2 - Para efeitos do referido no número anterior, não podem exercer a representação os cônjuges e os parentes ou os afins, em qualquer grau da linha recta ou até ao 2.º grau da linha colateral, dos magistrados ou funcionários daqueles tribunais.
 
-3. Pode o Ministro das Corporações e Previdência Social, por despacho publicado no Boletim do I. N. T. P., tornar extensivo o disposto no n.º 1 às entidades a que se referem os artigos 68.º e 69.º
+> Alterado pelo/a [Decreto-Lei n.º 19/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1991-694039), publicado em 1991-01-10.
 
 ###### Artigo 75.º — (Afixação obrigatória)
 

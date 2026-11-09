@@ -1,0 +1,636 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:581664:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2000-09-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7e1efa8badea197b",
+    "499a8c88642ab97d",
+    "980860795e9a0ca5",
+    "4ff90418468492af",
+    "a39f7498b49f3079",
+    "bc0b29a0c2851533",
+    "a1ba954fc7f596c2",
+    "de4886fbfd31b927",
+    "e8951e7c892f67a5",
+    "29979bf91faf8dfa",
+    "d5256345e7d4992f",
+    "e4958bbcc2d6ae82",
+    "e422d2181db129f6",
+    "d7d066cfc9c6969f",
+    "2fbe861fecb6fbca",
+    "ef77b9e897d2e3ca",
+    "744a9952eae8b5ca",
+    "93c1f4e2fe514068",
+    "bf9c49ce718d93f3",
+    "ca606b5f06cd349c",
+    "8754a00f4073111f",
+    "63570bf094bd6bb1",
+    "a36d7c7d4f3fd0b0",
+    "36f57355b641b1ba",
+    "f4ca5d6d2a3844c3",
+    "29b4090746507a3a",
+    "41df210a109c18e3",
+    "26f15599386a2e9b",
+    "71e68e597c280f39",
+    "38823e01e410e695",
+    "326678df888686c4",
+    "cacd54225bf2ec3e",
+    "b4f989bd313fd2a4",
+    "7b4c30650547b386",
+    "48283dc419dbff44",
+    "72488095db6bf5ed",
+    "bbdf3b3da0e7f2a1",
+    "45696f021cc45140",
+    "cb01d403742d136d",
+    "24a5778725c3a899",
+    "dda936a21d59e7b1",
+    "4e652bdef322b9b5",
+    "98769aaa616833cc",
+    "8eb14d192948ac0b",
+    "7b9c0f193877bb7f",
+    "6e86a6e9a5853357",
+    "6c4e8493ae524204",
+    "ffc63c0b134d5619",
+    "621c245d8677bb87",
+    "7f6bf2c0ec78ce18",
+    "acf4b4f98834bb43",
+    "d086a56af90f01d6",
+    "c40be841ec838989",
+    "f3bfd2f8798ef8ac",
+    "ab94afa4188142ef",
+    "6023cefcf2f923e9",
+    "66b5e910a6ba9367",
+    "6bf739453bebc479",
+    "45328991bf522af4"
+   ]
+  },
+  {
+   "date": "2001-02-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:386815:por",
+     "title": "Portaria n.º 110/2001",
+     "published": "2001-02-22",
+     "dre_path": "/dr/detalhe/portaria/110-2001-386815"
+    }
+   ],
+   "changes": [
+    "Altera Artigo ANEXO — Estatuto das Ligas dos Amigos dos Museus Militares::23.º"
+   ],
+   "fragments": [
+    "7e1efa8badea197b",
+    "499a8c88642ab97d",
+    "980860795e9a0ca5",
+    "4ff90418468492af",
+    "a39f7498b49f3079",
+    "bc0b29a0c2851533",
+    "a1ba954fc7f596c2",
+    "de4886fbfd31b927",
+    "e8951e7c892f67a5",
+    "29979bf91faf8dfa",
+    "d5256345e7d4992f",
+    "e4958bbcc2d6ae82",
+    "e422d2181db129f6",
+    "d7d066cfc9c6969f",
+    "2fbe861fecb6fbca",
+    "ef77b9e897d2e3ca",
+    "744a9952eae8b5ca",
+    "93c1f4e2fe514068",
+    "bf9c49ce718d93f3",
+    "ca606b5f06cd349c",
+    "8754a00f4073111f",
+    "63570bf094bd6bb1",
+    "a36d7c7d4f3fd0b0",
+    "36f57355b641b1ba",
+    "f4ca5d6d2a3844c3",
+    "29b4090746507a3a",
+    "41df210a109c18e3",
+    "26f15599386a2e9b",
+    "71e68e597c280f39",
+    "38823e01e410e695",
+    "326678df888686c4",
+    "cacd54225bf2ec3e",
+    "bfcf00d552659afb",
+    "7b4c30650547b386",
+    "48283dc419dbff44",
+    "72488095db6bf5ed",
+    "bbdf3b3da0e7f2a1",
+    "45696f021cc45140",
+    "cb01d403742d136d",
+    "24a5778725c3a899",
+    "dda936a21d59e7b1",
+    "4e652bdef322b9b5",
+    "98769aaa616833cc",
+    "8eb14d192948ac0b",
+    "7b9c0f193877bb7f",
+    "6e86a6e9a5853357",
+    "6c4e8493ae524204",
+    "ffc63c0b134d5619",
+    "621c245d8677bb87",
+    "7f6bf2c0ec78ce18",
+    "acf4b4f98834bb43",
+    "d086a56af90f01d6",
+    "c40be841ec838989",
+    "f3bfd2f8798ef8ac",
+    "ab94afa4188142ef",
+    "6023cefcf2f923e9",
+    "66b5e910a6ba9367",
+    "6bf739453bebc479",
+    "45328991bf522af4"
+   ]
+  }
+ ],
+ "fragments": {
+  "7e1efa8badea197b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 7 de Setembro\n\nO [Decreto-Lei n.º 124/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1986-226988), de 31 de Maio, que postula a possibilidade de criação de ligas de amigos dos museus militares afectos ao Exército, estabelece, no seu artigo 3.º, que a forma de constituição, a organização e os objectivos das referidas ligas são definidos em estatuto aprovado por portaria do Ministro da Defesa Nacional.\n\nO Estatuto das Ligas dos Amigos dos Museus Militares afectos ao Exército, aprovado pela [Portaria n.º 311/86](https://diariodarepublica.pt/dr/detalhe/portaria/311-1986-228646), de 24 de Junho, do Ministro da Defesa Nacional, encontra-se actualmente desactualizado e desconforme à Lei Orgânica do Exército, aprovada pelo [Decreto-Lei n.º 50/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-1993-657445), de 26 de Fevereiro, e ao Código do Procedimento Administrativo, aprovado pelo [Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, alterado pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro.\n\nTorna-se, assim, necessário proceder à alteração da [Portaria n.º 311/86](https://diariodarepublica.pt/dr/detalhe/portaria/311-1986-228646), de 24 de Junho, adequando-se o novo Estatuto à organização do Exército prevista na respectiva Lei Orgânica, aproveitando-se ainda para proceder ao aperfeiçoamento da sistemática deste normativo e à sua actualização em conformidade com as disposições que regem o funcionamento dos órgãos colegiais previstas no Código do Procedimento Administrativo.\n\nAssim:\n\nManda o Governo, pelo Ministro da Defesa Nacional, ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 124/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1986-226988), de 31 de Maio, o seguinte:\n\n1.º É aprovado o Estatuto das Ligas dos Amigos dos Museus Militares afectos ao Exército, que se publica em anexo à presente portaria e da qual faz parte integrante.\n\n2.º É revogada a [Portaria n.º 311/86](https://diariodarepublica.pt/dr/detalhe/portaria/311-1986-228646), de 24 de Junho.\n\nO Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas, em 7 de Agosto de 2000."
+  },
+  "499a8c88642ab97d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Estatuto das Ligas dos Amigos dos Museus Militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Estatuto das Ligas dos Amigos dos Museus Militares"
+  },
+  "980860795e9a0ca5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Âmbito de aplicação, objectivos, constituição e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Âmbito de aplicação, objectivos, constituição e sede"
+  },
+  "4ff90418468492af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente Estatuto é aplicável às ligas dos amigos dos museus militares afectos ao Exército."
+  },
+  "a39f7498b49f3079": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nConstitui objectivo de cada liga contribuir para o enriquecimento do património do respectivo museu e para uma maior divulgação da sua actividade e missão."
+  },
+  "bc0b29a0c2851533": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Constituição\n\nA constituição de cada uma das ligas é autorizada por despacho do Chefe do Estado-Maior do Exército, sob proposta do director do museu militar respectivo, ouvido o comando ou chefia de que este depende."
+  },
+  "a1ba954fc7f596c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sede\n\nCada liga tem a sua sede, em regra, no museu militar em função do qual se constitui."
+  },
+  "de4886fbfd31b927": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Actividades\n\nNa prossecução dos seus objectivos, as ligas devem, designadamente, desenvolver as seguintes actividades:\n\na) Procurar obter, através de doações, legados ou pelos próprios fundos, espécimes para as colecções do respectivo museu ou quaisquer testemunhos com interesse histórico-militar;\n\nb) Promover e estimular a elaboração de estudos e a edição de publicações sobre história militar que possam contribuir para a valorização e divulgação da actividade do museu;\n\nc) Promover reuniões, exposições, cursos, concursos e outras actividades que contribuam para a valorização e promoção do museu;\n\nd) Prestar à direcção do museu toda a colaboração que lhes seja solicitada."
+  },
+  "e8951e7c892f67a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Dos sócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Dos sócios"
+  },
+  "29979bf91faf8dfa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Admissão de sócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Admissão de sócios"
+  },
+  "d5256345e7d4992f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Sócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sócios\n\nPodem ser sócios das ligas quaisquer indivíduos, nacionais ou estrangeiros, que demonstrem inequívoco interesse pelos objectivos das mesmas."
+  },
+  "e4958bbcc2d6ae82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Categorias de sócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Categorias de sócios\n\n1 - Os sócios das ligas agrupam-se nas seguintes categorias:\n\na) Sócios por inerência;\n\nb) Sócios honorários;\n\nc) Sócios de mérito;\n\nd) Sócios correspondentes;\n\ne) Sócios efectivos.\n\n2 - O Chefe do Estado-Maior do Exército é sócio por inerência de todas as ligas que forem constituídas.\n\n3 - São ainda sócios por inerência os comandantes dos comandos territoriais onde as ligas se encontram sediadas e o director do museu militar em função do qual a liga se constituiu.\n\n4 - São sócios honorários as individualidades a quem a assembleia geral conceder essa qualidade.\n\n5 - São sócios de mérito aqueles a quem a assembleia geral conceder essa qualidade, em apreço e gratidão pela actividade desenvolvida na prossecução dos objectivos da liga.\n\n6 - São sócios correspondentes aqueles que, a convite da direcção, colaborem com a liga no desenvolvimento de actividades que visem a prossecução dos seus objectivos.\n\n7 - São sócios efectivos aqueles que se candidatem, mediante proposta assinada por si e por três sócios da liga, e cuja admissão seja autorizada pela direcção."
+  },
+  "e422d2181db129f6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Direitos e deveres dos sócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Direitos e deveres dos sócios"
+  },
+  "d7d066cfc9c6969f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Direitos dos sócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direitos dos sócios\n\nSão direitos dos sócios:\n\na) Acompanhar e colaborar nos trabalhos da respectiva liga;\n\nb) Participar nas reuniões da assembleia geral;\n\nc) Eleger e ser eleitos para os corpos sociais da respectiva liga;\n\nd) Subscrever as propostas de admissão de sócios;\n\ne) Frequentar e utilizar as instalações da sede da liga no horário estabelecido;\n\nf) Receber o cartão individual de sócio e um exemplar do Estatuto;\n\ng) Examinar os livros e documentos da liga nas condições e prazos estabelecidos;\n\nh) Convocar extraordinariamente a assembleia geral nos termos previstos no presente Estatuto."
+  },
+  "2fbe861fecb6fbca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Deveres dos sócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Deveres dos sócios\n\nSão deveres dos sócios:\n\na) Pagar a respectiva quota;\n\nb) Desempenhar com zelo as funções inerentes aos cargos para que foram eleitos ou nomeados;\n\nc) Cumprir as disposições constantes do presente Estatuto, os respectivos regulamentos internos e demais normas de funcionamento da liga;\n\nd) Contribuir para a prossecução dos objectivos da liga."
+  },
+  "ef77b9e897d2e3ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Quota e jóia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Quota e jóia\n\nO valor da quota mensal e jóia a pagar pelos sócios efectivos é estabelecido em assembleia geral."
+  },
+  "744a9952eae8b5ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Antiguidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Antiguidade\n\nA antiguidade relativa dos sócios é definida, para todos os efeitos, pela data de apresentação do respectivo pedido de admissão."
+  },
+  "93c1f4e2fe514068": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Perda da qualidade de sócio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Perda da qualidade de sócio"
+  },
+  "bf9c49ce718d93f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Situações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Situações\n\nA qualidade de sócio perde-se pela verificação de alguma das seguintes situações:\n\na) Renúncia expressa do sócio;\n\nb) Falecimento do sócio;\n\nc) Não pagamento de quotizações pelo período de seis meses, depois de notificado para o efeito;\n\nd) Por decisão da assembleia geral justificada por motivos de natureza disciplinar."
+  },
+  "ca606b5f06cd349c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Motivos de natureza disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Motivos de natureza disciplinar\n\nPara efeitos da alínea d) do artigo anterior, são motivos de natureza disciplinar, designadamente:\n\na) O incumprimento deliberado dos deveres a que o sócio se encontre estatutariamente vinculado;\n\nb) A injúria ou difamação, por qualquer meio de expressão, dos corpos sociais ou dos sócios da liga;\n\nc) Todos os actos que prejudiquem o bom nome, os interesses e o regular funcionamento da liga, que ponham em causa a sua existência ou dificultem a prossecução dos seus objectivos."
+  },
+  "8754a00f4073111f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Processo\n\n1 - A perda da qualidade de sócio nos termos do artigo anterior é decidida pela assembleia geral da liga, sob proposta devidamente fundamentada da direcção, tendo por base um inquérito sumário, no qual se permita ao sócio exercer o contraditório.\n\n2 - Concluído o inquérito a que se refere o número anterior, a direcção, com a antecedência mínima de oito dias, notificará o sócio dos motivos da exclusão, bem como da data da reunião da assembleia geral em que a proposta será votada."
+  },
+  "63570bf094bd6bb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Dos corpos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Dos corpos sociais"
+  },
+  "a36d7c7d4f3fd0b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Enumeração, capacidade eleitoral e duração dos mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Enumeração, capacidade eleitoral e duração dos mandatos"
+  },
+  "36f57355b641b1ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Enumeração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Enumeração\n\nOs corpos sociais das ligas são:\n\na) A assembleia geral;\n\nb) A direcção;\n\nc) O conselho fiscal;\n\nd) O conselho consultivo."
+  },
+  "f4ca5d6d2a3844c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Eleição dos corpos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Eleição dos corpos sociais\n\n1 - Os membros da direcção e do conselho fiscal são eleitos em assembleia geral, por escrutínio directo e secreto.\n\n2 - Podem candidatar-se à eleição para os corpos sociais das ligas os sócios efectivos inscritos há mais de seis meses que estejam no pleno gozo dos seus direitos, com excepção daqueles que, a título permanente, exerçam funções remuneradas na liga.\n\n3 - A votação para a eleição dos corpos sociais das ligas efectua-se em listas plurinominais, contendo cada uma a indicação dos candidatos efectivos em número igual ao dos mandatos e a dos respectivos suplentes.\n\n4 - Encerrada a votação, a mesa da assembleia geral procede à contagem dos boletins de voto entrados nas urnas, sendo proclamada vencedora a lista que obtiver maior número de votos validamente expressos."
+  },
+  "29b4090746507a3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Duração dos mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Duração dos mandatos\n\nOs membros eleitos dos corpos sociais das ligas têm mandatos de três anos de duração, podendo ser reeleitos."
+  },
+  "41df210a109c18e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Posse",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Posse\n\nOs membros eleitos dos corpos sociais são empossados pelo presidente da assembleia geral cessante, o qual deve assinar juntamente com aqueles o respectivo termo de posse."
+  },
+  "26f15599386a2e9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Da assembleia geral"
+  },
+  "71e68e597c280f39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Definição e constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Definição e constituição\n\nA assembleia geral é o órgão deliberativo máximo da liga e é constituída por todos os sócios no pleno uso dos seus direitos."
+  },
+  "38823e01e410e695": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências\n\nCompete à assembleia geral, designadamente:\n\na) Eleger os membros dos corpos sociais;\n\nb) Fixar os quantitativos da jóia e da quota mensal;\n\nc) Aprovar o plano anual de actividades;\n\nd) Discutir e votar o balanço e as conclusões do relatório anual da conta de gerência e o parecer do conselho fiscal;\n\ne) Proclamar os sócios honorários e de mérito;\n\nf) Aprovar os regulamentos internos necessários ao funcionamento dos serviços da liga;\n\ng) Apreciar e deliberar sobre as propostas de exclusão de sócios apresentadas pela direcção;\n\nh) Deliberar, de um modo geral, sobre os assuntos que lhe sejam presentes e que interessem à liga."
+  },
+  "326678df888686c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reuniões\n\n1 - A assembleia geral reúne, ordinariamente, uma vez por ano, na 2.ª quinzena de Janeiro, para apreciar o plano anual de actividades, o balanço e o relatório anual de gerência relativo ao ano anterior, e de três em três anos, na 1.ª quinzena de Dezembro, para eleger os corpos sociais.\n\n2 - A assembleia geral pode reunir, extraordinariamente, por iniciativa do presidente da mesa da assembleia geral, a pedido da direcção, do conselho fiscal, do conselho consultivo ou dos sócios, devendo, neste caso, o requerimento respectivo ser subscrito pelo mínimo de 30 sócios, excepto se o número de sócios inscritos na liga for inferior a 90."
+  },
+  "cacd54225bf2ec3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Convocação e deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Convocação e deliberações\n\n1 - A assembleia geral é convocada com a antecedência mínima de oito dias, por anúncio público e avisos a afixar na sede da liga.\n\n2 - As deliberações da assembleia geral são tomadas por maioria simples de votos dos sócios presentes."
+  },
+  "b4f989bd313fd2a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Mesa\n\n1 - A mesa da assembleia geral é constituída por um presidente e dois secretários, eleitos de entre os sócios inscritos há mais de seis meses.\n\n2 - Compete ao presidente da mesa da assembleia geral, designadamente:\n\na) Convocar a assembleia geral e presidir às respectivas reuniões;\n\nb) Verificar a conformidade das listas de candidatos à eleição dos corpos sociais e promover a sua divulgação oportuna entre os sócios;\n\nc) Assinar as actas das reuniões da assembleia geral;\n\nd) Dar posse aos membros dos corpos sociais, assinando os respectivos termos de posse.\n\n3 - O presidente da mesa da assembleia geral pode corresponder-se com qualquer entidade, pública ou privada, sobre assuntos cuja competência não pertença a outros corpos sociais.\n\n4 - Aos secretários da mesa da assembleia geral compete, designadamente:\n\na) Elaborar e assinar as actas das reuniões da assembleia geral;\n\nb) Elaborar e fazer seguir o expediente da mesa da assembleia geral;\n\nc) Arquivar os documentos e zelar pela segurança dos respectivos arquivos."
+  },
+  "7b4c30650547b386": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Da direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Da direcção"
+  },
+  "48283dc419dbff44": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Definição e constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Definição e constituição\n\n1 - A direcção é o órgão executivo da liga.\n\n2 - A direcção é constituída por:\n\na) Presidente;\n\nb) Vice-presidente;\n\nc) Secretário;\n\nd) Tesoureiro;\n\ne) Quatro vogais, sendo dois suplentes."
+  },
+  "72488095db6bf5ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competências\n\nCompete à direcção, designadamente:\n\na) Admitir os sócios efectivos e proceder ao abate dos que tenham perdido essa qualidade;\n\nb) Propor à assembleia geral a nomeação dos sócios honorários e de mérito;\n\nc) Convidar e nomear os sócios correspondentes;\n\nd) Elaborar os regulamentos internos necessários ao funcionamento dos serviços da liga e submetê-los à aprovação da assembleia geral;\n\ne) Elaborar e submeter à aprovação da assembleia geral o plano anual de actividades, o balanço e o relatório anual da conta de gerência;\n\nf) Nomear os elementos para integrar as comissões especiais e convocar a sua reunião, sempre que o julgue necessário;\n\ng) Organizar e manter actualizado o recenseamento geral de sócios;\n\nh) Requerer, sempre que o considere necessário, a convocação de reuniões extraordinárias dos restantes corpos sociais;\n\ni) Organizar e administrar os serviços internos da liga e manter actualizados os respectivos registos e documentos;\n\nj) Decidir sobre a contratação do pessoal necessário ao funcionamento dos serviços da liga;\n\nl) Disponibilizar, para consulta dos sócios, durante o período de oito dias antes da reunião da assembleia geral ordinária, o relatório anual de conta de gerência e o parecer que sobre o mesmo foi emitido pelo conselho fiscal;\n\nm) Submeter os planos de actividades a que se refere o artigo 5.º à apreciação da direcção do respectivo museu;\n\nn) Decidir sobre as restantes questões colocadas à sua apreciação, dando disso conhecimento à assembleia geral na primeira reunião que vier a efectuar-se."
+  },
+  "bbdf3b3da0e7f2a1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reuniões\n\nA direcção reúne ordinariamente uma vez por mês e extraordinariamente por iniciativa do seu presidente, da maioria dos seus membros ou a pedido do conselho fiscal."
+  },
+  "45696f021cc45140": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Deliberações\n\nAs deliberações da direcção são tomadas por maioria de votos dos seus membros."
+  },
+  "cb01d403742d136d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Do conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Do conselho fiscal"
+  },
+  "24a5778725c3a899": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Definição e constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Definição e constituição\n\n1 - O conselho fiscal é o órgão de acompanhamento e fiscalização da gestão financeira e patrimonial da liga.\n\n2 - O conselho fiscal é constituído por um presidente, um secretário e dois relatores, sendo um suplente."
+  },
+  "dda936a21d59e7b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competências\n\nCompete ao conselho fiscal, designadamente:\n\na) Fiscalizar os actos de gestão e administração, examinando, sempre que o considere conveniente, a escrituração e a situação económico-financeira da liga;\n\nb) Emitir parecer sobre o balanço, a conta anual de gerência e demais questões de ordem contabilística e financeira que a direcção submeta à sua apreciação;\n\nc) Apoiar a direcção, satisfazendo, designadamente, os pedidos de consulta que por esta lhe sejam apresentados;\n\nd) Requerer a convocação, quando o considere necessário, de reuniões da direcção e da assembleia geral."
+  },
+  "4e652bdef322b9b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Presidente\n\nAo presidente do conselho fiscal compete, designadamente:\n\na) Convocar as reuniões do conselho fiscal;\n\nb) Assinar a correspondência do conselho fiscal;\n\nc) Requerer, nos termos do presente Estatuto, a convocação de reuniões da direcção e da assembleia geral."
+  },
+  "98769aaa616833cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Do conselho consultivo"
+  },
+  "8eb14d192948ac0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Definição e constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Definição e constituição\n\n1 - O conselho consultivo é o órgão moderador do funcionamento interno da liga.\n\n2 - O conselho consultivo é constituído pelos presidentes da assembleia geral, que preside, da direcção e do conselho fiscal, pelo director do respectivo museu e pelos 10 sócios mais antigos que não integrem qualquer daqueles órgãos."
+  },
+  "7b9c0f193877bb7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Competências\n\nCompete ao conselho consultivo, designadamente, emitir parecer sobre as questões que os restantes corpos sociais entendam submeter à sua apreciação."
+  },
+  "6e86a6e9a5853357": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Comunicação da constituição nominal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Comunicação da constituição nominal\n\nA constituição nominal do conselho consultivo é comunicada à assembleia geral pelo presidente da direcção imediatamente após terem sido conhecidos os resultados das eleições dos corpos sociais."
+  },
+  "6c4e8493ae524204": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Do património e recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Do património e recursos financeiros"
+  },
+  "ffc63c0b134d5619": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Gestão financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Gestão financeira\n\nA gestão financeira da liga compete à direcção, sendo sujeita à fiscalização do conselho fiscal."
+  },
+  "621c245d8677bb87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Recursos económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Recursos económicos\n\nPara a realização e desenvolvimento das suas actividades, as ligas contam com os seguintes recursos:\n\na) Jóias e quotizações dos sócios efectivos;\n\nb) Subsídios concedidos por entidades públicas ou privadas;\n\nc) Doações e legados;\n\nd) Venda de bens e serviços cuja produção ou promoção seja da iniciativa da liga."
+  },
+  "7f6bf2c0ec78ce18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Destino dos recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Destino dos recursos\n\nAs receitas das ligas destinam-se ao pagamento das despesas resultantes do seu funcionamento e de quaisquer outras ocasionadas por actividades determinadas pela assembleia geral que visem prosseguir os objectivos das ligas."
+  },
+  "acf4b4f98834bb43": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições complementares, transitórias e finais"
+  },
+  "d086a56af90f01d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Disposições complementares"
+  },
+  "c40be841ec838989": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Pessoal\n\n1 - Para assegurar o seu normal e regular funcionamento, as ligas podem contratar pessoal, ao qual se aplica o regime jurídico do contrato individual de trabalho.\n\n2 - Sem prejuízo do disposto no número anterior, ao pessoal contratado aplicam-se as tabelas da função pública no que respeita a vencimentos.\n\n3 - Os contratos de trabalho celebrados ao abrigo do disposto no presente artigo são outorgados pelo presidente da direcção."
+  },
+  "f3bfd2f8798ef8ac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Comissões especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Comissões especiais\n\n1 - A direcção pode, sempre que o considere necessário, constituir comissões especiais, de duração limitada, destinadas ao lançamento ou desenvolvimento de actividades específicas.\n\n2 - As comissões a que se refere o número anterior são constituídas por um máximo de cinco elementos, sendo um da direcção, que preside, e os restantes escolhidos de entre os sócios qualificados em razão da finalidade para que a comissão é constituída.\n\n3 - O regulamento das comissões especiais é aprovado pela assembleia geral, sob proposta da direcção."
+  },
+  "ab94afa4188142ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Inspecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Inspecções\n\nO comando ou chefia de que o museu depende pode, sempre que o julgue conveniente, determinar a inspecção ao funcionamento das ligas."
+  },
+  "6023cefcf2f923e9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Dissolução das ligas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Dissolução das ligas\n\n1 - A dissolução das ligas compete ao Chefe do Estado-Maior do Exército, podendo fazê-lo por sua iniciativa ou sob proposta da direcção que tenha merecido a concordância expressa de dois terços dos sócios no pleno gozo dos seus direitos.\n\n2 - A decisão a que se refere o número anterior é comunicada à direcção, devendo esta convocar imediata e extraordinariamente a assembleia geral, para eleição da comissão liquidatária e fixação das condições de liquidação e devolução do activo da liga."
+  },
+  "66b5e910a6ba9367": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Disposições transitórias e finais"
+  },
+  "6bf739453bebc479": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Instruções de funcionamento das comissões especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Instruções de funcionamento das comissões especiais\n\nEnquanto não estiver aprovado o regulamento a que se refere o n.º 3 do artigo 38.º, a direcção definirá, para cada caso, os objectivos a atingir e as instruções necessárias ao funcionamento de cada comissão."
+  },
+  "45328991bf522af4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Capacidade eleitoral dos candidatos a sócios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Capacidade eleitoral dos candidatos a sócios\n\nSempre que seja constituída uma liga, podem participar na eleição e ser eleitos para os corpos sociais dessa liga todos os candidatos a sócios, desde que à data da apresentação das listas à eleição se encontrem devidamente inscritos."
+  },
+  "bfcf00d552659afb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Mesa",
+   "in_force_from": "2001-02-27",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 110/2001](https://diariodarepublica.pt/dr/detalhe/portaria/110-2001-386815), publicado em 2001-02-22."
+   ],
+   "markdown": "###### Artigo 23.º — Mesa\n\n1 - A mesa da assembleia geral é constituída por um presidente, um vice-presidente e dois secretários, eleitos de entre os sócios inscritos há mais de seis meses.\n\n2 - Compete ao presidente da mesa da assembleia geral, designadamente:\n\na) Convocar a assembleia geral e presidir às respectivas reuniões;\n\nb) Verificar a conformidade das listas de candidatos à eleição dos corpos sociais e promover a sua divulgação oportuna entre os sócios;\n\nc) Assinar as actas das reuniões da assembleia geral;\n\nd) Dar posse aos membros dos corpos sociais, assinando os respectivos termos de posse.\n\n3 - O presidente da mesa da assembleia geral pode corresponder-se com qualquer entidade, pública ou privada, sobre assuntos cuja competência não pertença a outros corpos sociais.\n\n4 - Compete ao vice-presidente da mesa da assembleia geral substituir o presidente nas suas faltas e impedimentos.\n\n5 - Aos secretários da mesa da assembleia geral compete, designadamente:\n\na) Elaborar e assinar as actas das reuniões da assembleia geral;\n\nb) Elaborar e fazer seguir o expediente da mesa da assembleia geral;\n\nc) Arquivar os documentos e zelar pela segurança dos respectivos arquivos.\n\n> Alterado pelo/a [Portaria n.º 110/2001](https://diariodarepublica.pt/dr/detalhe/portaria/110-2001-386815), publicado em 2001-02-22."
+  }
+ }
+}

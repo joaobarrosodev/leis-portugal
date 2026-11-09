@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-03-01'
+version_history:
+  file: decreto-lei-75-a-86.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1986-04-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-03-01'
+    amending: pt:dre:332948:por
+    amending_title: Decreto-Lei n.º 65/90
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:17:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 65/90. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1986/decreto-lei-75-a-86.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,9 +141,13 @@ Considerando que se torna necessário complementar o Regulamento (CEE) n.º [802
 
 Usando da autorização conferida pelas alíneas e) e f) do artigo 30.º da Lei n.º 2-B/85, de 28 de Fevereiro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º A noção de origem para os produtos petrolíferos referidos no anexo I deste diploma é definida no artigo 2.º do presente decreto-lei.
+###### Artigo 1.º
 
-Art. 2.º - 1 - Nos termos do artigo 1.º os produtos petrolíferos enumerados no anexo I consideram-se originários de um país:
+A noção de origem para os produtos petrolíferos referidos no anexo I deste diploma é definida no artigo 2.º do presente decreto-lei.
+
+###### Artigo 2.º
+
+1 - Nos termos do artigo 1.º os produtos petrolíferos enumerados no anexo I consideram-se originários de um país:
 
 a) Quando extraídos do seu solo ou dos seus fundos marinhos;
 
@@ -138,33 +157,43 @@ c) Quando submetidos às transformações ou operações de complemento de fabri
 
 2 - A certificação de origem dos produtos petrolíferos referidos no número anterior é feita nos termos do Regulamento (CEE) n.º [553/81](https://data.europa.eu/eli/reg/1981/553/oj?locale=pt) da Comissão, de 12 de Fevereiro de 1980.
 
-Art. 3.º - 1 - A emissão de certificados de origem, em Portugal, compete às entidades abaixo designadas:
+###### Artigo 3.º
+
+1 - A emissão de certificados de origem, em Portugal, compete às entidades abaixo designadas:
 
 Associação Comercial de Lisboa - Câmara de Comércio e Indústria Portuguesa;
 
 Associação Comercial do Porto - Câmara de Comércio e Indústria do Porto;
 
-Associação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira;
-
-Câmara de Comércio de Angra do Heroísmo - Associação de Comerciantes, Industriais, Importadores e Exportadores das Ilhas Terceira, Graciosa e São Jorge;
+Associação Comercial e Industrial do Funchal - Câmara de Comércio de Angra do Heroísmo - Associação de Comerciantes, Industriais, Importadores e Exportadores das Ilhas Terceira, Graciosa e São Jorge;
 
 Câmara de Comércio de Ponta Delgada - Associação de Comerciantes, Industriais, Exportadores e Importadores das Ilhas de São Miguel e Santa Maria;
 
 Câmara de Comércio da Horta - Associação de Comerciantes, Industriais, Importadores e Exportadores das Ilhas do Faial, Pico, Flores e Corvo;
 
-Instituto dos Têxteis: único organismo com competência para certificar a origem dos produtos têxteis dos capítulos 50 a 63 (n.os 50.01.000 a 63.02.500) da Nomenclatura Estatística das Mercadorias do Comércio Externo (NEMCE).
+Instituto do Bordado, Tapeçaria e Artesanato da Madeira, único organismo com competência para certificar a origem do bordado, tapeçaria e artesanato da Região da Madeira.
 
 2 - Deixam de poder emitir certificados de origem outras entidades que à data da entrada em vigor do presente diploma detenham tal competência.
 
-Art. 4.º Compete à Direcção-Geral das Alfândegas solicitar das autoridades estrangeiras o controle a posteriori das provas de origem, bem como responder a idênticos pedidos formulados por aquelas autoridades, ouvida, se necessário, a respectiva entidade emissora.
+> Alterado pelo/a [Decreto-Lei n.º 65/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1990-332948), publicado em 1990-02-24.
 
-Art. 5.º - 1 - Constitui infracção aduaneira a prestação de falsas ou inexactas declarações, quer na emissão, quer na apresentação, de provas de origem, com o intuito de iludir o cumprimento das formalidades aplicáveis no âmbito do regime geral de origem.
+###### Artigo 4.º
+
+Compete à Direcção-Geral das Alfândegas solicitar das autoridades estrangeiras o controle a posteriori das provas de origem, bem como responder a idênticos pedidos formulados por aquelas autoridades, ouvida, se necessário, a respectiva entidade emissora.
+
+###### Artigo 5.º
+
+1 - Constitui infracção aduaneira a prestação de falsas ou inexactas declarações, quer na emissão, quer na apresentação, de provas de origem, com o intuito de iludir o cumprimento das formalidades aplicáveis no âmbito do regime geral de origem.
 
 2 - Os factos descritos no número anterior serão considerados como contra-ordenação, a menos que, nos termos da lei, eles hajam de ser qualificados como crime de descaminho.
 
-Art. 6.º Em tudo o que não se achar contemplado no presente decreto-lei aplicar-se-ão, nomeadamente, os actos legislativos comunitários que dispõem sobre o regime geral de origem das mercadorias, bem como os princípios internacionalmente aceites pelas Comunidades Europeias em matéria de regras de origem, respectiva prova e controle, e ainda a legislação nacional aplicável.
+###### Artigo 6.º
 
-Art. 7.º Fica revogado o Decreto-Lei n.º 107/83, de 19 de Fevereiro.
+Em tudo o que não se achar contemplado no presente decreto-lei aplicar-se-ão, nomeadamente, os actos legislativos comunitários que dispõem sobre o regime geral de origem das mercadorias, bem como os princípios internacionalmente aceites pelas Comunidades Europeias em matéria de regras de origem, respectiva prova e controle, e ainda a legislação nacional aplicável.
+
+###### Artigo 7.º
+
+Fica revogado o Decreto-Lei n.º 107/83, de 19 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 26 de Março de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Fernando Augusto dos Santos Martins.
 

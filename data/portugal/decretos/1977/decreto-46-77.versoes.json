@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:139447:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-04-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "11a869d4c69d99f1"
+   ]
+  },
+  {
+   "date": "1978-05-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:294542:por",
+     "title": "Decreto n.º 52/78",
+     "published": "1978-05-29",
+     "dre_path": "/dr/detalhe/decreto/52-1978-294542"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "4bae2fe1c8157400",
+    "6dc5c9224e06762c",
+    "e9d3336b7a40ca25",
+    "6977c339a83beb99",
+    "b5ee33dd267b4169",
+    "fd50f4fa80de4993",
+    "1c4b19cbc49a1e25",
+    "6a99ee739ec78bf7",
+    "ccfdf7cd544c5be5",
+    "5c7d010434a3602c",
+    "4d7e6b9535152b83"
+   ]
+  }
+ ],
+ "fragments": {
+  "11a869d4c69d99f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Abril\n\nO [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, que criou o Comissariado para os Desalojados, previu, na sua estrutura, brigadas itinerantes e a constituição de comissões regionais, distritais e concelhias, de modo a conseguir-se uma desejável descentralização.\n\nOs desalojados estão representados nas brigadas e nas comissões e, por força do estabelecido nos n.os 4 e 5 do artigo 21.º do [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, os vogais e os secretários das comissões terão direito a uma gratificação mensal certa e ao abono de transporte e ajudas de custo nos termos da lei geral ou, não sendo funcionários, a um subsídio diário.\n\nPara a fixação das gratificações houve que ter em consideração que as brigadas itinerantes são constituídas por funcionários e por não funcionários, sendo indispensável que o nível das remunerações seja semelhante; por outro lado, deve prever-se a necessidade de aceitar a colaboração de vogais não funcionários das comissões distritais e regionais a tempo completo equiparado ao da função pública.\n\nConsiderando ainda que a cooperação solicitada aos desalojados não significa a profissionalização na função pública, admitindo até como desejável a sua rotação periódica como elementos das referidas comissões e brigadas:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:\n\nArtigo 1.º As gratificações mensais devidas aos cidadãos desalojados que integrem as brigadas itinerantes e as comissões regionais, distritais e concelhias são fixadas como se segue:\n\na) Quando seja aplicável regime de prestação de serviço a tempo completo equiparado ao da função pública:\n\n10000$00 aos membros das brigadas itinerantes;\n\n7000$00 aos membros vogais das comissões regionais e distritais;\n\nb) Quando não seja aplicável o regime de prestação de serviço referido na alínea a):\n\n4000$00 aos vogais das comissões concelhias;\n\n3000$00 aos vogais das comissões regionais e distritais.\n\nArt. 2.º - 1. As gratificações mensais devidas aos secretários das comissões regionais, distritais e concelhias são fixadas em 1000$00.\n\n2. As gratificações mensais a que se refere o número anterior são acumuláveis com quaisquer remunerações ou subsídios.\n\nArt. 3.º As gratificações atribuídas aos vogais das comissões e aos membros das brigadas itinerantes que forem funcionários públicos ou administrativos só serão acumuláveis com os vencimentos ou pensões que aufiram na parte excedente.\n\nArt. 4.º - 1. O subsídio diário a que se refere o n.º 5 do artigo 21.º do [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, é fixado num montante igual à ajuda de custo devida aos funcionários públicos com categoria correspondente à letra I.\n\n2. Aos elementos representantes dos desalojados nas brigadas itinerantes é fixado um subsídio idêntico ao estabelecido no n.º 1.\n\n3. O abono de transporte será concedido a todos os membros das brigadas itinerantes e aos vogais das comissões, sejam ou não funcionários públicos ou administrativos, nas mesmas condições em que a estes é atribuído o subsídio diário referido nos números anteriores.\n\nArt. 5.º As senhas de presença a que se refere o n.º 4 do artigo 21.º do [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, serão abonadas nos termos da lei geral.\n\nArt. 6.º Os vogais das comissões e os membros das brigadas itinerantes representantes dos desalojados poderão manter os direitos às formas de apoio para eles estabelecidas nos termos e condições que a lei determinar para cada caso.\n\nArt. 7.º O termo da situação de desalojado faz cessar imediatamente a qualidade, como tal, de membro das brigadas itinerantes ou de vogal das comissões regionais, distritais e concelhias.\n\nArt. 8.º Os encargos financeiros resultantes da execução do presente diploma serão suportados em 1977 pelo Comissariado para os Desalojados.\n\nArt. 9.º As dúvidas referentes ao presente diploma serão resolvidas por despacho do Alto-Comissário.\n\nArt. 10.º Este diploma produz efeitos a partir de 1 de Janeiro de 1977.\n\nHenrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira.\n\nPromulgado em 22 de Março de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "4bae2fe1c8157400": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de Abril\n\nO [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, que criou o Comissariado para os Desalojados, previu, na sua estrutura, brigadas itinerantes e a constituição de comissões regionais, distritais e concelhias, de modo a conseguir-se uma desejável descentralização.\n\nOs desalojados estão representados nas brigadas e nas comissões e, por força do estabelecido nos n.os 4 e 5 do artigo 21.º do [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, os vogais e os secretários das comissões terão direito a uma gratificação mensal certa e ao abono de transporte e ajudas de custo nos termos da lei geral ou, não sendo funcionários, a um subsídio diário.\n\nPara a fixação das gratificações houve que ter em consideração que as brigadas itinerantes são constituídas por funcionários e por não funcionários, sendo indispensável que o nível das remunerações seja semelhante; por outro lado, deve prever-se a necessidade de aceitar a colaboração de vogais não funcionários das comissões distritais e regionais a tempo completo equiparado ao da função pública.\n\nConsiderando ainda que a cooperação solicitada aos desalojados não significa a profissionalização na função pública, admitindo até como desejável a sua rotação periódica como elementos das referidas comissões e brigadas:\n\nO Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "6dc5c9224e06762c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1978-05-29",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 52/78](https://diariodarepublica.pt/dr/detalhe/decreto/52-1978-294542), publicado em 1978-05-29."
+   ],
+   "markdown": "###### Artigo 1.º\n\nAs gratificações mensais devidas aos cidadãos desalojados que integram as brigadas itinerantes e as comissões regionais, distritais e concelhias são fixadas como se segue:\n\na) Quando seja aplicável regime de prestação de serviço a tempo completo equiparado ao da função pública:\n\n10000$00 aos membros das brigadas itinerantes;\n\n8000$00 aos membros vogais das comissões regionais e distritais;\n\nb) Quando não seja aplicável o regime de prestação de serviço referido na alínea a):\n\n6000$00 aos vogais das comissões concelhias;\n\n4000$00 aos vogais das comissões regionais e distritais.\n\n> Alterado pelo/a [Decreto n.º 52/78](https://diariodarepublica.pt/dr/detalhe/decreto/52-1978-294542), publicado em 1978-05-29."
+  },
+  "e9d3336b7a40ca25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As gratificações mensais devidas aos secretários das comissões regionais, distritais e concelhias são fixadas em 1000$00.\n\n2. As gratificações mensais a que se refere o número anterior são acumuláveis com quaisquer remunerações ou subsídios."
+  },
+  "6977c339a83beb99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs gratificações atribuídas aos vogais das comissões e aos membros das brigadas itinerantes que forem funcionários públicos ou administrativos só serão acumuláveis com os vencimentos ou pensões que aufiram na parte excedente."
+  },
+  "b5ee33dd267b4169": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O subsídio diário a que se refere o n.º 5 do artigo 21.º do [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, é fixado num montante igual à ajuda de custo devida aos funcionários públicos com categoria correspondente à letra I.\n\n2. Aos elementos representantes dos desalojados nas brigadas itinerantes é fixado um subsídio idêntico ao estabelecido no n.º 1.\n\n3. O abono de transporte será concedido a todos os membros das brigadas itinerantes e aos vogais das comissões, sejam ou não funcionários públicos ou administrativos, nas mesmas condições em que a estes é atribuído o subsídio diário referido nos números anteriores."
+  },
+  "fd50f4fa80de4993": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs senhas de presença a que se refere o n.º 4 do artigo 21.º do [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, serão abonadas nos termos da lei geral."
+  },
+  "1c4b19cbc49a1e25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs vogais das comissões e os membros das brigadas itinerantes representantes dos desalojados poderão manter os direitos às formas de apoio para eles estabelecidas nos termos e condições que a lei determinar para cada caso."
+  },
+  "6a99ee739ec78bf7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO termo da situação de desalojado faz cessar imediatamente a qualidade, como tal, de membro das brigadas itinerantes ou de vogal das comissões regionais, distritais e concelhias."
+  },
+  "ccfdf7cd544c5be5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs encargos financeiros resultantes da execução do presente diploma serão suportados em 1977 pelo Comissariado para os Desalojados."
+  },
+  "5c7d010434a3602c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs dúvidas referentes ao presente diploma serão resolvidas por despacho do Alto-Comissário."
+  },
+  "4d7e6b9535152b83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nEste diploma produz efeitos a partir de 1 de Janeiro de 1977.\n\nHenrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Manuel da Costa Brás - Henrique Medina Carreira.\n\nPromulgado em 22 de Março de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

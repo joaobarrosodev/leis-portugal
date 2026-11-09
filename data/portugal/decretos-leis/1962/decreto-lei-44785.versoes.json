@@ -1,0 +1,92 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:155194:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1962-12-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "bd79930e53f6881e"
+   ]
+  },
+  {
+   "date": "1963-02-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:193430:por",
+     "title": "Decreto-Lei n.º 44885",
+     "published": "1963-02-18",
+     "dre_path": "/dr/detalhe/decreto-lei/44885-1963-193430"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "718716827375a211",
+    "e0c80aa3ddf2ccd7",
+    "3a979d78fa8678ea",
+    "9e7b2806079265fa",
+    "687867d549d153b0"
+   ]
+  }
+ ],
+ "fragments": {
+  "bd79930e53f6881e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A publicação do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, vem trazer à Direcção-Geral do Trabalho e Corporações novas exigências de serviço, que a sua actual orgânica não comporta, tanto mais que, conforme se dizia no preâmbulo do referido diploma, para além da atenção que merecem os casos de desemprego tecnológico, importa favorecer a mobilidade da mão-de-obra, criar os meios adequados de reclassificação profissional e realizar toda uma política de trabalho que, sem atrasos prejudiciais, se vá adaptando às mutações constantes da economia de hoje.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º É criado na Direcção-Geral do Trabalho e Corporações um quadro de pessoal, com a composição referida no mapa anexo, ao qual compete o estudo e expediente dos assuntos relativos à estrutura do mercado de mão-de-obra, crises de trabalho, aprendizagem, orientação, formação e aperfeiçoamento profissional e política de salários.\n\n§ único. O disposto neste artigo não prejudica a existência dos serviços complementares necessários à execução do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, aos quais se aplicará o disposto no artigo 17.º do mesmo diploma.\n\nArt. 2.º Os lugares de director do Fundo e de técnicos de qualquer classe serão providos pelo Ministro das Corporações e Previdência Social em indivíduos diplomados com curso superior adequado, nos termos do artigo 23.º do [Decreto-Lei n.º 37244](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37244-1948-370221), de 27 de Dezembro de 1948.\n\n§ único. Os demais lugares serão preenchidos de harmonia com o determinado para os lugares idênticos do Ministério das Corporações e Previdência Social.\n\nArt. 3.º Em conformidade com o disposto na alínea e) do artigo 6.º do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), o quadro ora instituído ficará a cargo do Fundo de Desenvolvimento da Mão-de-Obra e a sua composição poderá ser alterada por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social.\n\nArt. 4.º - 1. Os encargos a que se refere o artigo anterior serão inscritos no Orçamento Geral do Estado, reembolsando o Fundo de Desenvolvimento da Mão-de-Obra, trimestralmente, o Tesouro da importância despendida, mediante guia de receita passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa.\n\n2. A inscrição, no Orçamento Geral do Estado, destes encargos terá início no orçamento para o ano de 1963.\n\n3. Até final do corrente ano de 1962 os encargos serão directamente satisfeitos pelo Fundo de Desenvolvimento da Mão-de-Obra.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 7 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser presente à Assembleia Nacional.\n\nMapa do pessoal a que se refere o artigo 1.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28100/16761676.pdf)\n\nMinistério das Corporações e Previdência Social, 7 de Dezembro de 1962. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença."
+  },
+  "718716827375a211": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A publicação do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, vem trazer à Direcção-Geral do Trabalho e Corporações novas exigências de serviço, que a sua actual orgânica não comporta, tanto mais que, conforme se dizia no preâmbulo do referido diploma, para além da atenção que merecem os casos de desemprego tecnológico, importa favorecer a mobilidade da mão-de-obra, criar os meios adequados de reclassificação profissional e realizar toda uma política de trabalho que, sem atrasos prejudiciais, se vá adaptando às mutações constantes da economia de hoje.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "e0c80aa3ddf2ccd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado na Direcção-Geral do Trabalho e Corporações um quadro de pessoal, com a composição referida no mapa anexo, ao qual compete o estudo e expediente dos assuntos relativos à estrutura do mercado de mão-de-obra, crises de trabalho, aprendizagem, orientação, formação e aperfeiçoamento profissional e política de salários.\n\n§ único. O disposto neste artigo não prejudica a existência dos serviços complementares necessários à execução do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, aos quais se aplicará o disposto no artigo 17.º do mesmo diploma."
+  },
+  "3a979d78fa8678ea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs lugares de director do Fundo e de técnicos de qualquer classe serão providos pelo Ministro das Corporações e Previdência Social em indivíduos diplomados com curso superior adequado, nos termos do artigo 23.º do [Decreto-Lei n.º 37244](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37244-1948-370221), de 27 de Dezembro de 1948.\n\n§ único. Os demais lugares serão preenchidos de harmonia com o determinado para os lugares idênticos do Ministério das Corporações e Previdência Social."
+  },
+  "9e7b2806079265fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1963-02-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 44885](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44885-1963-193430), publicado em 1963-02-18."
+   ],
+   "markdown": "###### Artigo 3.º\n\nEm conformidade com o disposto na alínea c) do artigo 6.º do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), o quadro ora instituído ficará a cargo do Fundo de Desenvolvimento da Mão-de-Obra, podendo ser aumentado por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social.\n\n> Alterado pelo/a [Decreto-Lei n.º 44885](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44885-1963-193430), publicado em 1963-02-18."
+  },
+  "687867d549d153b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Os encargos a que se refere o artigo anterior serão inscritos no Orçamento Geral do Estado, reembolsando o Fundo de Desenvolvimento da Mão-de-Obra, trimestralmente, o Tesouro da importância despendida, mediante guia de receita passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa.\n\n2. A inscrição, no Orçamento Geral do Estado, destes encargos terá início no orçamento para o ano de 1963.\n\n3. Até final do corrente ano de 1962 os encargos serão directamente satisfeitos pelo Fundo de Desenvolvimento da Mão-de-Obra.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 7 de Dezembro de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser presente à Assembleia Nacional.\n\nMapa do pessoal a que se refere o artigo 1.º\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1962/12/28100/16761676.pdf)\n\nMinistério das Corporações e Previdência Social, 7 de Dezembro de 1962. - O Ministro das Corporações e Previdência Social, José João Gonçalves de Proença."
+  }
+ }
+}

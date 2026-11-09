@@ -1,0 +1,881 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:548423:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2005-04-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "65d0a885cd11fbc0",
+    "ee73757cad936149",
+    "14e7eacc43655829",
+    "67073b3b353ec9b4",
+    "4edf8dde6774fddb",
+    "3196fc87082e42c5",
+    "9e5e9625ffca0bbf",
+    "94beb43571e63895",
+    "396cfe66f6d1ddf2",
+    "e23ed0f38e469f35",
+    "97bc0d70b76dd85a",
+    "e50e29c40eee0740",
+    "7cfb4a5854cc38e0",
+    "1f4161cece62507b",
+    "b6e08d3c7855c7bc",
+    "b624065f4b974e23",
+    "76f8ee532a076c9e",
+    "686cf251e1927618",
+    "b9cc83811f6088fc",
+    "cc286c2076442d0b",
+    "a7016ef6b895a81f",
+    "84f781235cae0079",
+    "81b3c874e26e5e92",
+    "159b13c4bb8e4010",
+    "05bf5aa979d74ba2",
+    "69c9eddf466f2ba3",
+    "1ef04d114b1ff104",
+    "262f1a238dd700cc",
+    "1172250d308c1392",
+    "a44f70b275023ad0",
+    "64115b81801596f5",
+    "d28823fca88ea142",
+    "8388d22633ebeafc",
+    "12a4d9af466011ce",
+    "831ce84954121c74",
+    "54a5f47c9add4482",
+    "c77c26572ba75772",
+    "cad0866a9bed45a3",
+    "c7b0f8cfedcc3baa",
+    "657200db2678de40",
+    "c20a168dd2e95d18",
+    "e529ca32f6f17c90",
+    "da7c685fae63c51b",
+    "262f1a238dd700cc",
+    "7a68b9425904d53a",
+    "c5c9442e5de5bcbc",
+    "64115b81801596f5",
+    "c752b42ac923a128",
+    "780128f24bcd6b85",
+    "6a2e12625665b0b9",
+    "3124c6ee9fbaabf7",
+    "cdf5548a2bfedc62",
+    "108143fb54c66269",
+    "03f52184d77e0c4f",
+    "7542a568496a49ef",
+    "6ce0150f64f0aab4",
+    "ffa7c097d5ad9471",
+    "612dc6f6ecb4aab9",
+    "2307b40bf5784ebc",
+    "9879c11295d6d558",
+    "5d43d1e730d94bf0",
+    "84f781235cae0079",
+    "cbc417c6734ccbf2",
+    "a5e3db3d9e2916c4",
+    "05bf5aa979d74ba2",
+    "b085c0e0b5c726e0",
+    "fd306169ec351895",
+    "d34bfa73366b5359",
+    "be31654f7bc47cc5",
+    "77d517d50a11382f",
+    "4d0902504b280ac7",
+    "87c2cf5527fdbba3",
+    "1bd358c8760c9155",
+    "9beebd665d7f511d",
+    "5750c4cb7b7604a7",
+    "d81d4a5ef7cfa9c4",
+    "26f477499aff3513",
+    "eeeef51e8bc4f42d",
+    "c3260f33140db187"
+   ]
+  },
+  {
+   "date": "2008-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:456262:por",
+     "title": "Decreto Regulamentar Regional n.º 14/2008/M",
+     "published": "2008-06-30",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/14-2008-456262"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo ANEXO::1.º",
+    "Revoga Artigo ANEXO::2.º",
+    "Revoga Artigo ANEXO::3.º",
+    "Revoga Artigo ANEXO::6.º",
+    "Revoga Artigo ANEXO::34.º",
+    "Revoga Artigo ANEXO::35.º"
+   ],
+   "fragments": [
+    "65d0a885cd11fbc0",
+    "5f5e19f61cf9b449",
+    "7a359110058ffee2",
+    "67073b3b353ec9b4",
+    "4edf8dde6774fddb",
+    "592c7aa01c9f81bc",
+    "556993a1f6fb07a4",
+    "fc145122bc3aae38",
+    "396cfe66f6d1ddf2",
+    "e23ed0f38e469f35",
+    "97bc0d70b76dd85a",
+    "e50e29c40eee0740",
+    "7cfb4a5854cc38e0",
+    "d0d2080d8c772296",
+    "b6e08d3c7855c7bc",
+    "b624065f4b974e23",
+    "76f8ee532a076c9e",
+    "686cf251e1927618",
+    "b9cc83811f6088fc",
+    "cc286c2076442d0b",
+    "a7016ef6b895a81f",
+    "84f781235cae0079",
+    "81b3c874e26e5e92",
+    "159b13c4bb8e4010",
+    "05bf5aa979d74ba2",
+    "69c9eddf466f2ba3",
+    "1ef04d114b1ff104",
+    "262f1a238dd700cc",
+    "1172250d308c1392",
+    "a44f70b275023ad0",
+    "64115b81801596f5",
+    "d28823fca88ea142",
+    "8388d22633ebeafc",
+    "12a4d9af466011ce",
+    "831ce84954121c74",
+    "54a5f47c9add4482",
+    "c77c26572ba75772",
+    "cad0866a9bed45a3",
+    "c7b0f8cfedcc3baa",
+    "657200db2678de40",
+    "c20a168dd2e95d18",
+    "e529ca32f6f17c90",
+    "da7c685fae63c51b",
+    "262f1a238dd700cc",
+    "7a68b9425904d53a",
+    "c5c9442e5de5bcbc",
+    "64115b81801596f5",
+    "c752b42ac923a128",
+    "780128f24bcd6b85",
+    "6a2e12625665b0b9",
+    "3124c6ee9fbaabf7",
+    "cdf5548a2bfedc62",
+    "108143fb54c66269",
+    "03f52184d77e0c4f",
+    "7542a568496a49ef",
+    "6ce0150f64f0aab4",
+    "ffa7c097d5ad9471",
+    "612dc6f6ecb4aab9",
+    "2307b40bf5784ebc",
+    "9879c11295d6d558",
+    "5d43d1e730d94bf0",
+    "84f781235cae0079",
+    "cbc417c6734ccbf2",
+    "a5e3db3d9e2916c4",
+    "05bf5aa979d74ba2",
+    "b085c0e0b5c726e0",
+    "fd306169ec351895",
+    "d34bfa73366b5359",
+    "be31654f7bc47cc5",
+    "77d517d50a11382f",
+    "4d0902504b280ac7",
+    "87c2cf5527fdbba3",
+    "1bd358c8760c9155",
+    "9beebd665d7f511d",
+    "5750c4cb7b7604a7",
+    "d81d4a5ef7cfa9c4",
+    "3335345c7041e410",
+    "727530600a77138d",
+    "c3260f33140db187"
+   ]
+  }
+ ],
+ "fragments": {
+  "65d0a885cd11fbc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprova a orgânica da Direcção Regional de Educação Especial e Reabilitação\n\nO Decreto Regulamentar Regional n.º 16/2004/M, de 17 de Dezembro, que procedeu à organização e funcionamento do Governo Regional da Madeira, consagrou a estrutura e atribuições da Secretaria Regional de Educação.\n\nO Decreto Regulamentar Regional n.º 5/2005/M, de 8 de Março, aprovou a nova orgânica da Secretaria Regional de Educação e do Gabinete do Secretário Regional e órgãos dependentes, a qual integra, nomeadamente, o sector da educação especial e compreende na sua estrutura a Direcção Regional de Educação Especial e Reabilitação (DREER), estatui que a natureza, atribuições, orgânica, funcionamento e pessoal de cada um dos organismos e serviços nela previstos constarão de decreto regulamentar regional.\n\nAcresce que o Decreto Legislativo Regional n.º 10-A/2004/M, de 16 de Junho, além de regular o concurso para selecção e recrutamento do pessoal docente especializado em educação e ensino especial, prevê para aquele pessoal a criação de quadros de instituição de educação especial, quadros de escola e quadros de zona pedagógica, o que altera substancialmente o regime previsto para aquelas matérias no Decreto Regulamentar Regional n.º 28/2001/M, de 20 de Outubro.\n\nNeste contexto urge criar a orgânica da DREER, com a sua nova estrutura, por forma a dotá-la dos meios necessários ao exercício das suas atribuições e competências.\n\nConsagra-se, ainda, sem prejuízo da estrutura hierarquizada, a possibilidade de adoptar um modelo de funcionamento de estrutura matricial.\n\nAssim:\n\nO Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição e da alínea d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, na redacção e numeração das Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, e do Decreto Regulamentar Regional n.º 16/2004/M, de 17 de Dezembro, e dos n.os 2, alínea b), e 4 do artigo 4.º da orgânica aprovada pelo Decreto Regulamentar Regional n.º 5/2005/M, de 8 de Março, o seguinte:"
+  },
+  "ee73757cad936149": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovada a estrutura orgânica da Direcção Regional de Educação Especial e Reabilitação, publicada em anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "14e7eacc43655829": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Conselho do Governo Regional em 10 de Março de 2005.\n\nPelo Presidente do Governo Regional, João Carlos Cunha e Silva.\n\nAssinado em 30 de Março de 2005.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "67073b3b353ec9b4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "4edf8dde6774fddb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I\n\nNatureza e atribuições"
+  },
+  "3196fc87082e42c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direcção Regional de Educação Especial e Reabilitação, designada no presente diploma, abreviadamente, por DREER, dotada de autonomia técnica e administrativa, é o departamento a que se refere a alínea c) do n.º 1 do artigo 4.º do Decreto Regulamentar Regional n.º 5/2005/M, de 8 de Março, cujas atribuições, orgânica, funcionamento e pessoal constam dos artigos seguintes."
+  },
+  "9e5e9625ffca0bbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão\n\nÉ missão da DREER, designadamente:\n\na) Assegurar a educação e integração sócio-familiar de crianças, jovens e adultos portadores de deficiência e ou quaisquer outras necessidades educativas que exijam métodos especiais de intervenção;\n\nb) Colaborar no despiste, encaminhamento e acompanhamento de crianças e jovens sobredotados ou potencialmente sobredotados para os quais sejam aconselháveis estratégias próprias de intervenção, bem como participar em projectos experimentais ligados ao estudo da sobredotação;\n\nc) Assegurar a formação técnico-profissional e o acompanhamento na inserção na vida activa aos jovens portadores de deficiência;\n\nd) Promover e participar em acções tendentes à prevenção, reabilitação e integração social das crianças, jovens e adultos com deficiência;\n\ne) Contribuir para a definição das políticas educativas, em particular no que se refere à educação especial e reabilitação;\n\nf) Promover o levantamento e o planeamento das acções necessárias à cobertura das necessidades da Região em matéria de educação especial e reabilitação;\n\ng) Criar e dirigir o funcionamento de estruturas adequadas, tendo em vista a estimulação, o acompanhamento educativo, a formação profissional e o desenvolvimento das capacidades remanescentes de crianças, jovens e adultos com deficiência;\n\nh) Proceder à observação e avaliação de jovens e adultos e elaborar os respectivos pareceres, tendo em vista a dispensa do cumprimento da escolaridade obrigatória;\n\ni) Participar, em colaboração com as famílias, em todas as acções que exijam intervenções médicas, psicológicas, sociológicas e pedagógicas diferenciadas;\n\nj) Desenvolver acções sensibilizadoras da opinião pública, tendo como objectivo o reforço da solidariedade, da participação e ou da igualdade de oportunidades;\n\nl) Propor medidas legislativas e emitir pareceres sobre propostas e projectos de diplomas legais respeitantes ao desenvolvimento e concretização da política regional de educação especial e reabilitação;\n\nm) Promover e desenvolver relações de cooperação nacional e internacional nos domínios da educação especial e reabilitação;\n\nn) Incentivar e apoiar a actualização, o aperfeiçoamento e a especialização de todo o pessoal em exercício;\n\no) Colaborar com as restantes direcções regionais da Secretaria Regional e ou outros departamentos em acções, programas ou projectos conjuntos a desenvolver;\n\np) Articular com outros serviços, nomeadamente serviços de saúde e segurança social, medidas tendentes à saúde, bem-estar e qualidade de vida;\n\nq) Estabelecer acordos de cooperação com associações desportivas que promovam a actividade motora adaptada e modalidades desportivas específicas para a pessoa portadora de deficiência;\n\nr) Assegurar a coordenação da iniciativa privada comparticipada, a cargo das instituições de utilidade pública, com a oficial, tendo em vista o racional aproveitamento dos recursos e dos meios humanos disponíveis."
+  },
+  "94beb43571e63895": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competências do director regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências do director regional\n\n1 - A DREER é dirigida por um director regional, que superintende na organização, gestão e funcionamento dos estabelecimentos e serviços oficiais afectos à sua área.\n\n2 - Compete, em especial, ao director regional:\n\na) Representar a DREER;\n\nb) Coordenar todos os meios disponíveis para que seja atingida a missão da DREER;\n\nc) Convocar as reuniões dos conselhos técnico e administrativo, dirigir os trabalhos e providenciar pela execução das deliberações tomadas;\n\nd) Promover a publicação de circulares e regulamentos internos.\n\n3 - Por despacho do director regional, que definirá a composição, mandato, funcionamento e demais condições, poderão criar-se, sempre que as áreas operativas possam desenvolver-se por projectos, equipas temporárias tendo em vista o desenvolvimento daqueles projectos, com objectivos especificados numa lógica de matricialidade.\n\n4 - O director regional é substituído, nas suas ausências e impedimentos, pelo director de serviços para o efeito por ele designado.\n\n5 - O director regional pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia."
+  },
+  "396cfe66f6d1ddf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços"
+  },
+  "e23ed0f38e469f35": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estrutura\n\n1 - Para o exercício das suas atribuições, a DREER compreende os seguintes órgãos e serviços de natureza operativa:\n\na) Conselho técnico (CT);\n\nb) Conselho administrativo (CA);\n\nc) Gabinete de Estudos e Pareceres Jurídicos (GEPJ);\n\nd) Divisão de Recursos Humanos (DRH);\n\ne) Serviços de apoio técnico (SAT);\n\nf) Secretariado;\n\ng) Direcção de Serviços Administrativos e Financeiros (DSAF);\n\nh) Direcção de Serviços Técnicos de Educação e Apoio Psicopedagógico (DSTEAP);\n\ni) Direcção de Serviços de Reabilitação Profissional e Programas Ocupacionais (DSRPPO);\n\nj) Direcção de Serviços de Formação e Adaptações Tecnológicas (DSFAT).\n\n2 - Os órgãos e serviços a que se referem as alíneas a) a f) anteriores funcionam na directa dependência do director regional."
+  },
+  "97bc0d70b76dd85a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Conselho técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Conselho técnico"
+  },
+  "e50e29c40eee0740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Natureza e atribuições\n\n1 - O CT é constituído pelo director regional, que preside, pelos directores de serviços e pelos directores técnicos.\n\n2 - São atribuições do CT coadjuvar o director regional, nomeadamente no que se refere a:\n\na) Apreciar os planos de acção da DREER;\n\nb) Avaliar a actuação dos estabelecimentos e serviços, apreciando e propondo alterações ao esquema do seu funcionamento;\n\nc) Garantir a coordenação e articulação entre os vários estabelecimentos e serviços;\n\nd) Pronunciar-se sobre as matérias que respeitem à coordenação e articulação dos serviços que prosseguem actividades afins, tendo em vista uma política de acção coordenada, participada e integrada;\n\ne) Fomentar iniciativas que visem a informação e sensibilização da comunidade relativamente ao problema da educação e integração social das crianças e jovens e adultos com deficiência ou sobredotação.\n\n3 - Nas reuniões do CT poderão participar representantes das instituições privadas, associativas e de solidariedade social, bem como pessoas com deficiência, através das suas organizações representativas, tendo em vista a definição da política de educação especial e reabilitação e a preparação das medidas dela decorrentes."
+  },
+  "7cfb4a5854cc38e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho administrativo"
+  },
+  "1f4161cece62507b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Natureza e atribuições\n\n1 - O CA é constituído pelo director regional, que preside, pelos directores de serviços e pelo chefe de divisão de Serviços Administrativos.\n\n2 - São atribuições do CA coadjuvar o director regional no que se refere, designadamente, a:\n\na) Apreciar os projectos de orçamento e os planos de acção da DREER;\n\nb) Proceder à avaliação económica das despesas;\n\nc) Apreciar as contas de gerência;\n\nd) Pronunciar-se sobre os demais aspectos administrativos que interessem ao bom funcionamento da DREER."
+  },
+  "b6e08d3c7855c7bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Gabinete de Estudos e Pareceres Jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Gabinete de Estudos e Pareceres Jurídicos"
+  },
+  "b624065f4b974e23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Natureza e atribuições\n\n1 - O GEPJ é um órgão de apoio técnico-jurídico ao director regional, com funções exclusivas de mera consulta jurídica, competindo-lhe, nomeadamente:\n\na) Elaborar pareceres e informações de natureza técnico-jurídica sobre quaisquer questões ou processos que lhe sejam submetidos a apreciação;\n\nb) Colaborar na emissão de pareceres sobre propostas de portarias, de decretos regulamentares regionais e de decretos legislativos regionais;\n\nc) Participar na elaboração de pareceres necessários à pronúncia da Região em matéria de educação especial e reabilitação, nos termos da Constituição da República e do Estatuto Político-Administrativo da Região Autónoma da Madeira;\n\nd) Colaborar na preparação de projectos de diplomas relacionados com a actividade da DREER.\n\n2 - O GEPJ é dirigido por um coordenador, equiparado para todos os efeitos legais a chefe de divisão."
+  },
+  "76f8ee532a076c9e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV"
+  },
+  "686cf251e1927618": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Recursos Humanos"
+  },
+  "b9cc83811f6088fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Natureza e atribuições\n\nA DRH é um órgão de apoio ao director regional, na área da gestão dos recursos humanos, competindo-lhe, designadamente:\n\na) Emitir pareceres e elaborar estudos na área da gestão dos recursos humanos;\n\nb) Organizar as bases de dados e recolher toda a estatística sobre o pessoal por forma a elaborar indicadores que permitam uma gestão cada vez mais eficaz;\n\nc) Conceber medidas de desenvolvimento organizacional e de modernização administrativa;\n\nd) Elaborar estudos de previsão de pessoal e coordenar a execução dos procedimentos administrativos relacionados com o recrutamento, selecção e colocação desse pessoal nos serviços, centros e estabelecimentos afectos à DREER;\n\ne) Conceber o sistema de informação e de apoio à dinamização da mobilidade do pessoal;\n\nf) Colaborar com a DAFIC no levantamento das necessidades de formação a nível da DREER, propondo as acções formativas que se afigurem necessárias;\n\ng) Promover a recolha, compilação, sistematização, tratamento e difusão de documentação com interesse para os recursos humanos da DREER;\n\nh) Executar todas as demais tarefas que decorram do normal desempenho das suas funções."
+  },
+  "cc286c2076442d0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Serviços de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Serviços de apoio técnico"
+  },
+  "a7016ef6b895a81f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Natureza e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Natureza e estrutura\n\n1 - Os SAT são organismos de apoio aos serviços, centros e estabelecimentos afectos à DREER.\n\n2 - Os SAT são organismos constituídos pelas:\n\na) Divisão de Apoio Social (DAS);\n\nb) Divisão de Psicologia (DP);\n\nc) Divisão de Motricidade Humana (DMH);\n\nd) Divisão de Arte e Criatividade (DAC)."
+  },
+  "84f781235cae0079": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I"
+  },
+  "81b3c874e26e5e92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Apoio Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Apoio Social"
+  },
+  "159b13c4bb8e4010": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Natureza e atribuições\n\nA DAS é um órgão de apoio aos serviços, centros e estabelecimentos afectos à DREER onde se revele necessária a intervenção social nas situações de deficiência, sobredotação, dificuldades de aprendizagem e formação, competindo-lhe, designadamente:\n\na) Emitir pareceres e elaborar estudos e relatórios sociais;\n\nb) Identificar as situações sociais que possam produzir um défice no processo de aprendizagem e formação dos educandos que frequentem os serviços, centros e estabelecimentos da DREER;\n\nc) Estabelecer a articulação das situações sociais que exijam a intervenção dos serviços de segurança social, de apoio à habitação social e outros;\n\nd) Assegurar o funcionamento de um espaço de informação à pessoa com deficiência ou sobredotação;\n\ne) Promover a recolha, compilação, sistematização, tratamento e difusão de documentação da área social com interesse para a DREER."
+  },
+  "05bf5aa979d74ba2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II"
+  },
+  "69c9eddf466f2ba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Psicologia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Psicologia"
+  },
+  "1ef04d114b1ff104": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Natureza e atribuições\n\nA DP é um órgão de apoio aos serviços, centros e estabelecimentos afectos à DREER, incumbindo-lhe a observação, diagnóstico e orientação dos educandos e futuros utentes com vista à adaptação ou reeducação escolar, profissional e social, consoante as características individuais, disfunções ou perturbações, e o apoio psicoterapêutico, nos casos em que apresentem desvios emocionais e comportamentais resultantes de deficiências ou de sobredotação."
+  },
+  "262f1a238dd700cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III"
+  },
+  "1172250d308c1392": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Motricidade Humana",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Motricidade Humana"
+  },
+  "a44f70b275023ad0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Natureza e atribuições\n\nA DMH é um órgão de apoio aos serviços, centros e estabelecimentos afectos à DREER no despiste, diagnóstico e desenvolvimento das capacidades psicossomáticas no âmbito da motricidade humana, visando a integração na vida activa dos indivíduos portadores de deficiência ou sobredotação, através de processos de estimulação da maturação individual, das aprendizagens escolares, da formação e ou reconversão sócio-profissional, da prática desportiva e da ocupação dos tempos livres e de lazer."
+  },
+  "64115b81801596f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV"
+  },
+  "d28823fca88ea142": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Arte e Criatividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Arte e Criatividade"
+  },
+  "8388d22633ebeafc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Natureza e atribuições\n\nA DAC é um órgão de apoio aos serviços, centros e estabelecimentos afectos à DREER, competindo-lhe, designadamente:\n\na) Conceber e acompanhar acções específicas tendo como objectivo o desenvolvimento das capacidades artísticas e culturais de crianças e jovens com deficiência;\n\nb) Promover e divulgar experiências e projectos de arte e criatividade que contribuam para o desenvolvimento global dos intervenientes e para a modificação de atitudes sociais, numa perspectiva inclusiva, face à pessoa portadora de deficiência."
+  },
+  "12a4d9af466011ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Secretariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Secretariado"
+  },
+  "831ce84954121c74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Natureza e atribuições\n\nO secretariado é o órgão de apoio administrativo do director regional, designadamente na organização e conservação do arquivo do seu gabinete, articulação com o arquivo geral, bem como no atendimento ao público e serviço de agenda, registo e expediente da correspondência e documentação que lhe estão afectos."
+  },
+  "54a5f47c9add4482": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VII — Direcção de Serviços Administrativos e Financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VII — Direcção de Serviços Administrativos e Financeiros"
+  },
+  "c77c26572ba75772": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Estrutura e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Estrutura e funcionamento\n\n1 - A DSAF coordena o apoio a toda a estrutura da DREER em matéria de pessoal, expediente, finanças, orçamento, património, bens e serviços, pagamentos e recebimentos, estatística, arquivo, registo de educandos e futuros utentes e assuntos de natureza genérica.\n\n2 - A DSAF compreende a Divisão de Serviços Administrativos (DSA) e o Departamento de Contabilidade, Património e Tesouraria (DCPT).\n\n3 - A DSA tem competência em matéria de expediente, pessoal, registo, estatística e arquivo e compreende o Departamento de Expediente e Pessoal (DEP).\n\n4 - O DEP é o órgão de apoio administrativo, integrando as seguintes secções:\n\na) Expediente e Pessoal;\n\nb) Registo e Estatística;\n\nc) Organização e Arquivo.\n\n5 - O DCPT é o órgão de apoio logístico, com atribuições em matéria de património, finanças, contabilidade, tesouraria, aprovisionamento, aquisições de serviços, equipamento e conservação, integrando as seguintes secções:\n\na) Aprovisionamento;\n\nb) Contabilidade e Tesouraria;\n\nc) Património;\n\nd) Equipamento e Conservação."
+  },
+  "cad0866a9bed45a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VIII — Direcção de Serviços Técnicos de Educação e Apoio Psicopedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VIII — Direcção de Serviços Técnicos de Educação e Apoio Psicopedagógico"
+  },
+  "c7b0f8cfedcc3baa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Estrutura e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Estrutura e funcionamento\n\n1 - À DSTEAP compete coordenar todos os serviços técnicos de educação e apoio psicopedagógico.\n\n2 - Na dependência da DSTEAP funcionam os seguintes serviços:\n\na) Serviços Técnicos de Educação (STE);\n\nb) Serviço Técnico de Apoio Psicopedagógico (STAP);\n\nc) Divisão Coordenadora de Apoio aos Sobredotados (DCAS);\n\nd) Divisão de Actividade Motora Adaptada (DAMA).\n\n3 - Os Serviços referidos na alínea a) anterior serão objecto de regulamento interno, aprovado pelo director regional, sob proposta do director de serviços, ouvido o respectivo director técnico."
+  },
+  "657200db2678de40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Serviços Técnicos de Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Serviços Técnicos de Educação"
+  },
+  "c20a168dd2e95d18": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Natureza, atribuições e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Natureza, atribuições e funcionamento\n\n1 - Os STE compreendem:\n\na) Serviço Técnico de Educação de Deficientes Auditivos (STEDA);\n\nb) Serviço Técnico de Educação de Deficientes Visuais (STEDV);\n\nc) Serviço Técnico de Educação de Deficientes Motores (STEDM);\n\nd) Serviço Técnico de Educação de Deficientes Intelectuais (STEDI).\n\n2 - Aos STE compete garantir a formação e integração escolar, familiar e social das crianças, jovens e adultos com deficiências sensoriais, intelectuais, motoras e ou outras necessidades educativas especiais que exijam métodos especiais de acção técnico-pedagógica.\n\n3 - Os STE podem englobar uma ou mais instituições de educação especial, de acordo com a respectiva área de especialização, dirigidas por directores técnicos, equiparados a chefe de divisão, com formação adequada, a quem compete coordenar todas as actividades, programas ou projectos a desenvolver no serviço ou instituição.\n\n4 - O director técnico é coadjuvado no exercício das suas funções por um conselho técnico interno (CTI).\n\n5 - O CTI é constituído pelo director técnico, que preside, por representantes do pessoal docente, técnico superior, técnico e técnico-profissional em serviço efectivo, eleitos por dois anos lectivos, na proporção de um por cada grupo profissional e ou área de intervenção.\n\n6 - Sempre que as circunstâncias o aconselhem, podem participar nas reuniões outros técnicos, educandos e outras pessoas especialmente convidadas para o efeito, designadamente pais e encarregados de educação."
+  },
+  "e529ca32f6f17c90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Serviço Técnico de Apoio Psicopedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Serviço Técnico de Apoio Psicopedagógico"
+  },
+  "da7c685fae63c51b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Natureza, atribuições e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Natureza, atribuições e funcionamento\n\n1 - O STAP é constituído por centros de apoio psicopedagógico (CAP), de âmbito concelhio.\n\n2 - O STAP é dirigido por um director técnico, equiparado a chefe de divisão, com formação adequada, a quem compete a coordenação de todas as actividades, programas e projectos a desenvolver pelos CAP e respectiva articulação com os restantes serviços dependentes da DREER.\n\n3 - Os CAP têm as seguintes atribuições:\n\na) Colaborar com as escolas de ensino regular, famílias e unidades de saúde pública no despiste, observação, avaliação e respectivo encaminhamento de crianças e jovens portadores de deficiência e ou outras necessidades educativas especiais;\n\nb) Participar na definição de estratégias e metodologias a desenvolver e utilizar com alunos cujas necessidades aconselhem intervenções específicas;\n\nc) Promover o acompanhamento social, psicológico e pedagógico às crianças e jovens definidos nas alíneas anteriores e respectivas famílias, quer em ambiente escolar quer em ambiente sócio-familiar, nomeadamente no âmbito da intervenção precoce.\n\n4 - Os CAP são orientados por um coordenador, a designar pelo director regional, sob proposta do respectivo director de serviços e director técnico.\n\n5 - A cada CAP é afecta uma equipa multidisciplinar, de acordo com as necessidades do centro e os recursos humanos disponíveis.\n\n6 - As normas de funcionamento dos CAP são objecto de regulamento interno, aprovado pelo director regional, sob proposta conjunta do director de serviços e do director técnico, ouvidos os coordenadores."
+  },
+  "7a68b9425904d53a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão Coordenadora de Apoio aos Sobredotados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão Coordenadora de Apoio aos Sobredotados"
+  },
+  "c5c9442e5de5bcbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Atribuições e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Atribuições e funcionamento\n\nA DCAS tem as seguintes atribuições:\n\na) Assegurar a investigação na área da sobredotação;\n\nb) Coordenar, supervisionar e colaborar na avaliação de todos os programas e projectos experimentais na área da sobredotação;\n\nc) Colaborar na identificação, observação, orientação, encaminhamento e acompanhamento de crianças e jovens sobredotados ou potencialmente sobredotados;\n\nd) Coordenar os recursos humanos necessários à intervenção multidisciplinar em crianças e jovens para os quais se aconselhem estratégias próprias de intervenção psicológica, social ou cognitiva."
+  },
+  "c752b42ac923a128": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Actividade Motora Adaptada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Actividade Motora Adaptada"
+  },
+  "780128f24bcd6b85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Atribuições e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Atribuições e funcionamento\n\nA DAMA tem as seguintes atribuições:\n\na) Promover a formação desportiva de crianças e jovens com necessidades educativas especiais nos estabelecimentos de educação e ensino e nas instituições de educação especial;\n\nb) Promover a avaliação médico-desportiva de alunos portadores de deficiência, de forma a poderem ingressar em clubes;\n\nc) Promover modalidades desportivas específicas para deficientes;\n\nd) Promover a participação das pessoas com deficiência em eventos desportivos."
+  },
+  "6a2e12625665b0b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IX — Direcção de Serviços de Reabilitação Profissional e Programas Ocupacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IX — Direcção de Serviços de Reabilitação Profissional e Programas Ocupacionais"
+  },
+  "3124c6ee9fbaabf7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Estrutura e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Estrutura e funcionamento\n\n1 - À DSRPPO compete coordenar e articular todos os serviços da sua área.\n\n2 - Na dependência da DSRPPO funcionam os seguintes serviços técnicos:\n\na) Serviço Técnico Sócio-Educativo de Deficientes Profundos (STSEDP);\n\nb) Serviço Técnico de Formação e Integração Profissional de Deficientes (STFIPD);\n\nc) Serviço Técnico de Actividades Ocupacionais e Emprego Protegido (STAOEP);\n\nd) Serviço Técnico de Lares e Residências (STLR).\n\n3 - Os serviços técnicos ou estabelecimentos são dirigidos por um director técnico, equiparado a chefe de divisão, a quem compete a coordenação de todas as actividades, programas e projectos do respectivo serviço ou estabelecimento.\n\n4 - As normas de funcionamento de cada serviço técnico ou estabelecimento são objecto de regulamento interno, ratificado pelo director regional, sob proposta do director de serviços e respectivo director técnico."
+  },
+  "cdf5548a2bfedc62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Serviço Técnico Sócio-Educativo de Deficientes Profundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Serviço Técnico Sócio-Educativo de Deficientes Profundos"
+  },
+  "108143fb54c66269": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Atribuições\n\nAo STSEDP compete, nomeadamente:\n\na) Assegurar a estimulação e desenvolvimento das capacidades remanescentes de jovens e adultos com deficiências profundas, tendo como objectivo essencial a sua integração sócio-familiar;\n\nb) Promover, sempre que possível, o encaminhamento e acompanhamento em programas específicos de actividades ocupacionais ou emprego protegido."
+  },
+  "03f52184d77e0c4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Serviço Técnico de Formação e Integração Profissional de Deficientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Serviço Técnico de Formação e Integração Profissional de Deficientes"
+  },
+  "7542a568496a49ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Atribuições\n\nAo STFIPD compete, designadamente:\n\na) Assegurar a formação técnico-profissional de jovens e adultos com deficiência e ou outras necessidades educativas especiais;\n\nb) Promover e acompanhar a inserção dos formados ou formandos no mercado normal de trabalho, em cooperação com as empresas e as instituições;\n\nc) Incentivar e acompanhar iniciativas privadas dos jovens e adultos com deficiência e outras necessidades educativas especiais, tendo em vista a criação de empresas próprias;\n\nd) Fomentar e apoiar experiências de teletrabalho;\n\ne) Colaborar e apoiar os serviços técnicos e estabelecimentos dependentes da DREER, na orientação e despiste vocacional dos seus alunos, bem como no desenvolvimento de programas de pré-profissionalização."
+  },
+  "6ce0150f64f0aab4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Serviço Técnico de Actividades Ocupacionais e Emprego Protegido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Serviço Técnico de Actividades Ocupacionais e Emprego Protegido"
+  },
+  "ffa7c097d5ad9471": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Natureza, atribuições e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Natureza, atribuições e funcionamento\n\n1 - Ao STAOEP compete, nomeadamente:\n\na) Assegurar o processo de reabilitação psicossocial de jovens e adultos cujas deficiências exijam técnicas específicas de intervenção;\n\nb) Contribuir para a conservação e ou restabelecimento do equilíbrio da pessoa com deficiência e das suas relações afectivas e sociais;\n\nc) Garantir os apoios adequados e necessários às famílias envolvidas.\n\n2 - O STAOEP é constituído por centros de actividades ocupacionais (CAO), de âmbito concelhio, orientados por um coordenador a designar pelo director regional, sob proposta do director de serviços e director técnico.\n\n3 - Ao director técnico do STAOEP compete a coordenação de todas as actividades, programas e projectos a desenvolver pelos CAO e a respectiva articulação com os restantes serviços dependentes da DREER.\n\n4 - Os CAO têm as seguintes atribuições:\n\na) Estimular e facilitar o desenvolvimento possível das capacidades remanescentes das pessoas com deficiências graves;\n\nb) Facilitar a sua integração social;\n\nc) Promover o encaminhamento da pessoa com deficiência, sempre que possível, para programas adequados de integração sócio-profissional.\n\n5 - A cada CAO é afecta uma equipa multidisciplinar, de acordo com as necessidades do centro e os recursos humanos disponíveis."
+  },
+  "612dc6f6ecb4aab9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV — Serviço Técnico de Lares e Residências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV — Serviço Técnico de Lares e Residências"
+  },
+  "2307b40bf5784ebc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Atribuições\n\nAo STLR estão cometidas as seguintes atribuições:\n\na) Providenciar o alojamento e acompanhamento de crianças, jovens e adultos que frequentam estruturas da DREER e que, por motivos sócio-familiares ou de deslocação da sua área de residência, estão parcialmente impedidos da integração total nas famílias;\n\nb) Articular com os serviços competentes da segurança social outras medidas possíveis à de alojamento e acompanhamento, nomeadamente a integração em famílias de acolhimento;\n\nc) Promover, em articulação com outras instituições, a criação de diferentes tipos de residência permanente para jovens e adultos que, por razões várias, não têm suporte familiar, desenvolvendo as condições necessárias à sua integração social."
+  },
+  "9879c11295d6d558": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO X — Direcção de Serviços de Formação e Adaptações Tecnológicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO X — Direcção de Serviços de Formação e Adaptações Tecnológicas"
+  },
+  "5d43d1e730d94bf0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Estrutura e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Estrutura e funcionamento\n\n1 - À DSFAT compete, designadamente:\n\na) Promover, coordenar e supervisionar todas as acções no âmbito da formação e das adaptações às novas tecnologias de informação e comunicação;\n\nb) Desenvolver e coordenar os projectos considerados necessários ao estudo e à divulgação dos diferentes percursos evolutivos e das novas perspectivas em matéria de educação especial e reabilitação.\n\n2 - Na dependência da DSFAT funcionam as seguintes divisões:\n\na) Divisão de Apoio à Formação e Investigação Científica (DAFIC);\n\nb) Divisão de Adaptação às Novas Tecnologias de Informação e Comunicação (DANTIC).\n\n3 - Na dependência da DSFAT funcionam, ainda, os seguintes gabinetes:\n\na) Gabinete de Informática (GI);\n\nb) Gabinete do Audiovisual (GAV)."
+  },
+  "cbc417c6734ccbf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Apoio à Formação e Investigação Científica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Apoio à Formação e Investigação Científica"
+  },
+  "a5e3db3d9e2916c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Atribuições\n\nA DAFIC tem as seguintes atribuições:\n\na) Diagnosticar as necessidades e definir as prioridades de formação inicial, contínua e de promoção na carreira de todo o pessoal em exercício na DREER;\n\nb) Promover, organizar e implementar planos anuais de formação;\n\nc) Cooperar com as escolas de ensino regular em acções de formação que visem a inclusão de crianças e jovens com deficiência e ou outras necessidades educativas especiais;\n\nd) Propor protocolos com instituições de ensino superior para efeitos de formação especializada e contínua de docentes e outros técnicos;\n\ne) Incentivar e apoiar a investigação científica na área de educação especial e sobredotação."
+  },
+  "b085c0e0b5c726e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Adaptação às Novas Tecnologias de Informação e Comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Adaptação às Novas Tecnologias de Informação e Comunicação"
+  },
+  "fd306169ec351895": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Atribuições\n\nA DANTIC tem as seguintes atribuições:\n\na) Concepção, desenvolvimento, promoção e divulgação de novos meios tecnológicos de informação e comunicação a serem utilizados por alunos com deficiência e ou outras necessidades educativas especiais;\n\nb) Adaptação de materiais/equipamentos facilitadores da autonomia pessoal e da integração social e escolar;\n\nc) Acompanhamento, promoção e divulgação de estudos e experiências inovadoras ao nível das tecnologias para pessoas com necessidades educativas especiais;\n\nd) Acompanhamento de todos os serviços e ou estabelecimentos que desenvolvam projectos no âmbito das ajudas técnicas e tecnológicas adaptadas à pessoa com deficiência;\n\ne) Promoção e desenvolvimento de projectos ligados ao ensino à distância para alunos impossibilitados de frequentar a escola de forma presencial."
+  },
+  "d34bfa73366b5359": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Gabinete de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Gabinete de Informática"
+  },
+  "be31654f7bc47cc5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Atribuições\n\nO GI tem as seguintes atribuições:\n\na) Apoio à utilização e manutenção de equipamentos informáticos e suas aplicações;\n\nb) Implementação e gestão da rede de comunicações e dados;\n\nc) Promoção e intensificação da utilização das novas tecnologias de informação e comunicação;\n\nd) Análise, desenvolvimento, suporte e administração de bases de dados de apoio às necessidades dos serviços da DREER;\n\ne) Promoção do inter-relacionamento com os restantes serviços de informática da Secretaria Regional de Educação;\n\nf) Dar parecer e apoio nos processos de aquisição de serviços, equipamentos e aplicações informáticas."
+  },
+  "77d517d50a11382f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV — Gabinete do Audiovisual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV — Gabinete do Audiovisual"
+  },
+  "4d0902504b280ac7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Atribuições\n\nO GAV tem as seguintes atribuições:\n\na) Edição gráfica;\n\nb) Execução de trabalhos de gravação e reprodução vídeo e áudio;\n\nc) Transcrição de programas destinados aos diferentes serviços da DREER;\n\nd) Apoio técnico aos projectos dos estabelecimentos, centros e instituições de educação especial e às iniciativas desportivas, de formação e de espectáculo da DREER;\n\ne) Arquivo de material e documentação áudio-visual."
+  },
+  "87c2cf5527fdbba3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO XI — Estrutura matricial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO XI — Estrutura matricial"
+  },
+  "1bd358c8760c9155": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Funcionamento matricial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Funcionamento matricial\n\n1 - No desempenho das suas competências, a DREER pode conceber e realizar, ou apoiar e contratar para a sua realização, estudos, projectos de investigação, programas de formação, cursos de especialização, edições e publicações, congressos, seminários, colóquios e outras reuniões de âmbito científico.\n\n2 - No desempenho das suas competências podem, também, nos termos da lei, ser constituídos grupos de trabalho ou comissões, bem como ser prosseguidos objectivos de administração de missão, através de estruturas de projectos, dispondo qualquer deles da autonomia científica, pedagógica e técnica que se revele adequada à prossecução dos seus objectivos."
+  },
+  "9beebd665d7f511d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Do pessoal"
+  },
+  "5750c4cb7b7604a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Quadro de pessoal\n\n1 - O pessoal do quadro da DREER abrangido pela presente lei orgânica é agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal de informática;\n\nd) Pessoal técnico de diagnóstico e terapêutica;\n\ne) Pessoal de enfermagem;\n\nf) Pessoal técnico;\n\ng) Pessoal técnico-profissional;\n\nh) Pessoal administrativo;\n\ni) Pessoal auxiliar;\n\nj) Pessoal operário.\n\n2 - O cargo de director regional é cargo dirigente qualificado como de direcção superior de 1.º grau.\n\n3 - Os cargos de directores de serviços e chefes de divisão são cargos dirigentes qualificados como de direcção intermédia de 1.º e 2.º graus, respectivamente.\n\n4 - O quadro de pessoal da DREER é o constante do mapa anexo ao presente diploma.\n\n5 - O pessoal da DREER pertence a um quadro único, sem prejuízo da sua distribuição pelos serviços e estabelecimentos integrados.\n\n6 - Os quadros de pessoal docente a que se referem os artigos 1.º, n.º 3, 3.º, 26.º, 27.º e 28.º do Decreto Legislativo Regional n.º 10-A/2004/M, de 16 de Junho, dependem directamente da DREER."
+  },
+  "d81d4a5ef7cfa9c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Carreiras de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Carreiras de pessoal\n\n1 - As condições de ingresso e acesso nas carreiras, bem como as respectivas formas de provimento de pessoal, são as estabelecidas na legislação geral e especial em vigor e pelas formas que forem definidas no presente diploma.\n\n2 - O recrutamento para a carreira técnico-profissional de educação especial, integrada no grupo de pessoal técnico-profissional, obedece às regras do artigo 6.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro.\n\n3 - Não havendo no mercado de ensino e formação adequado curso tecnológico, curso das escolas profissionais, curso que confira certificado de qualificação profissional de nível III, definida pela Decisão n.º [85/368/CEE](http://data.europa.eu/eli/dec/1985/368/oj?locale=pt), do Conselho das Comunidades Europeias, de 16 de Julho, ou curso equiparado, na área da educação especial, ou não havendo candidatos com a mencionada habilitação, o ingresso na carreira técnico-profissional de educação especial é precedido de um estágio, nos termos da alínea c) do n.º 2 do artigo 15.º e do artigo 24.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, adaptado à Região Autónoma da Madeira pelo Decreto Regulamentar Regional n.º 2/90/M, de 2 de Março.\n\n4 - O estágio na carreira técnico-profissional de educação especial integra um curso de formação, cujo regulamento e programa é aprovado por despacho do Secretário Regional de Educação, que confere certificado de qualificação profissional de nível III, definida pela Decisão n.º [85/368/CEE](http://data.europa.eu/eli/dec/1985/368/oj?locale=pt), do Conselho das Comunidades Europeias, de 16 de Julho, conforme o regulamento aprovado pelo despacho n.º 26/98, de 29 de Maio, do Secretário Regional de Educação, publicado no Jornal Oficial, 2.ª série, n.º 106, de 2 de Junho de 1998.\n\n5 - São destinatários desta formação de nível III os indivíduos que tenham concluído o ensino secundário.\n\n6 - Os técnicos profissionais de educação especial estagiários são remunerados pelo índice 184.\n\n7 - Os estagiários da carreira técnico-profissional de educação especial, independentemente da carreira de origem, quando funcionários, são nomeados em comissão de serviço extraordinária durante o período de estágio.\n\n8 - Os estagiários têm aproveitamento no curso referido quando obtiverem classificação final igual ou superior a 10 valores, resultante dos diversos mecanismos de natureza formativa e sumativa, de acordo com o estabelecido no regulamento e programa técnico-pedagógico do curso de formação.\n\n9 - O recrutamento da carreira de cozinheiro, inserida no grupo de pessoal operário, obedece às seguintes regras:\n\na) O acesso à categoria de cozinheiro principal efectua-se de entre cozinheiros que possuam, pelo menos, cinco anos de serviço na categoria com classificação não inferior a Bom;\n\nb) O recrutamento de cozinheiros é feito por concurso de provas práticas de entre indivíduos habilitados com a escolaridade obrigatória e comprovada experiência profissional;\n\nc) A progressão faz-se por módulos de três anos;\n\nd) A relação entre cozinheiros principais e cozinheiros será de um para quatro, para efeitos de dotação do número de lugares.\n\n10 - A carreira de coordenador do grupo de pessoal administrativo desenvolve-se pelas categorias de coordenador especialista e de coordenador.\n\n11 - O recrutamento para as categorias de coordenador especialista e de coordenador far-se-á, respectivamente, de entre coordenadores com três anos na respectiva categoria e de entre chefes de secção com comprovada experiência na área administrativa.\n\n12 - A carreira de coordenador é remunerada de acordo com o estabelecido no Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto.\n\n13 - O chefe de departamento é remunerado de acordo com o estabelecido no Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto.\n\n14 - O pessoal técnico de diagnóstico e terapêutica é remunerado de acordo com o estabelecido no Decreto-Lei n.º 564/99, de 21 de Dezembro.\n\n15 - O pessoal de enfermagem é remunerado de acordo com o estabelecido no Decreto-Lei n.º 437/91, de 8 de Novembro, alterado pelo Decreto-Lei n.º 412/98, de 30 de Dezembro, alterado pelo Decreto-Lei n.º 411/99, de 15 de Outubro.\n\n16 - O monitor de formação profissional e o técnico de emprego são remunerados de acordo com o estabelecido no Decreto Legislativo Regional n.º 16/2000/M, de 15 de Julho.\n\n17 - O técnico profissional de meios áudio-visuais é remunerado de acordo com o estabelecido no Decreto Legislativo Regional n.º 23/99/M, de 26 de Agosto.\n\n18 - O fiel de armazém é remunerado de acordo com o estabelecido no Decreto Regulamentar n.º 30-A/98, de 31 de Dezembro.\n\n19 - O auxiliar de alimentação, o operador de lavandaria e o auxiliar de serviços gerais são remunerados de acordo com o estabelecido no Decreto Regulamentar n.º 30-C/98, de 31 de Dezembro.\n\n20 - O pessoal auxiliar de apoio aos estabelecimentos de educação é remunerado de acordo com o estabelecido no Decreto Legislativo Regional n.º 17/2000/M, de 1 de Agosto."
+  },
+  "26f477499aff3513": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Concursos e estágios pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Concursos e estágios pendentes\n\n1 - Os concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares a prover os correspondentes ao mapa anexo a este diploma.\n\n2 - Os actuais estagiários prosseguem os respectivos estágios, transitando, findos os mesmos e se neles obtiverem aproveitamento, para as categorias objecto dos concursos e constantes do mapa anexo ao presente diploma."
+  },
+  "eeeef51e8bc4f42d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Transição de pessoal\n\n1 - O técnico superior da área jurídica transita para a carreira de consultor jurídico, através de lista nominativa a aprovar por despacho do Secretário Regional de Educação, com efeitos à entrada em vigor do presente diploma, com dispensa de qualquer outra formalidade.\n\n2 - Mantêm-se em funções os coordenadores do Gabinete Coordenador de Apoio aos Sobredotados, do Departamento de Apoio à Formação e Investigação Científica e do Departamento de Adaptações às Novas Tecnologias de Informação e Comunicação, como chefes de divisão, respectivamente, das DCAS, DAFIC e DANTIC, de acordo com a alínea b) do n.º 1 do artigo 25.º da Lei n.º 2/2004, de 15 de Janeiro."
+  },
+  "c3260f33140db187": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — (a que se refere o n.º 4 do artigo 32.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — (a que se refere o n.º 4 do artigo 32.º)\n\n[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/2005/04/076b00/30933106.pdf)"
+  },
+  "5f5e19f61cf9b449": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+  },
+  "7a359110058ffee2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30.\n\nAprovado em Conselho do Governo Regional em 10 de Março de 2005.\n\nPelo Presidente do Governo Regional, João Carlos Cunha e Silva.\n\nAssinado em 30 de Março de 2005.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "592c7aa01c9f81bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+  },
+  "556993a1f6fb07a4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+   ],
+   "markdown": "###### Artigo 2.º — Missão\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+  },
+  "fc145122bc3aae38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competências do director regional",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+   ],
+   "markdown": "###### Artigo 3.º — Competências do director regional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+  },
+  "d0d2080d8c772296": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Natureza e atribuições",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+   ],
+   "markdown": "###### Artigo 6.º — Natureza e atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+  },
+  "3335345c7041e410": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Concursos e estágios pendentes",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+   ],
+   "markdown": "###### Artigo 34.º — Concursos e estágios pendentes\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+  },
+  "727530600a77138d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Transição de pessoal",
+   "in_force_from": "2008-07-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+   ],
+   "markdown": "###### Artigo 35.º — Transição de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 14/2008/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/14-2008-456262), publicado em 2008-06-30."
+  }
+ }
+}

@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-05-11'
+version_history:
+  file: decreto-legislativo-regional-6-2000-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-02-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-05-11'
+    amending: pt:dre:313842:por
+    amending_title: Decreto Legislativo Regional n.º 13/2001/M
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/6/2000/02/28/m/dre/pt/html
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    13/2001/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2000/decreto-legislativo-regional-6-2000-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -166,7 +182,7 @@ O presente diploma visa estabelecer o regime das deduções à colecta relativa 
 
 ###### Artigo 3.º — Investimento elegível
 
-Para efeitos do disposto no artigo anterior, considera-se elegível o investimento em activo imobilizado corpóreo concretizado na Região Autónoma da Madeira que seja afecto à exploração pelo sujeito passivo e que tenha sido adquirido em estado novo, com excepção de:
+1 - Para efeitos do disposto no artigo anterior, considera-se elegível o investimento em activo imobilizado corpóreo concretizado na Região Autónoma da Madeira que seja afecto à exploração pelo sujeito passivo e que tenha sido adquirido em estado novo, com excepção de:
 
 a) Terrenos, salvo no caso de se destinarem a exploração de concessões mineiras, águas minerais naturais e de nascente, pedreiras, barreiros e areeiros em projectos de indústria extractiva;
 
@@ -176,7 +192,15 @@ c) Viaturas ligeiras de passageiros;
 
 d) Artigos de conforto ou de decoração;
 
-e) Outros bens de investimento não directa e imprescindivelmente associados à actividade produtiva executada.
+e) Despesas destinadas à aquisição de material de transporte, no sector dos transportes;
+
+f) Outros bens de investimento não directa e imprescindivelmente associados à actividade produtiva executada.
+
+2 - Atentas as excepções indicadas, entende-se por investimento elegível o investimento inicial em activo imobilizado corpóreo para a criação de um novo estabelecimento, para a extensão de um estabelecimento existente ou para o arranque de uma actividade que implique uma alteração fundamental do produto ou do processo de produção de um estabelecimento existente através da racionalização, diversificação ou modernização.
+
+3 - Os projectos elegíveis devem ser financeira e economicamente viáveis, sendo fixada em 25% a taxa mínima de comparticipação do beneficiário no financiamento dos mesmos.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2001-313842), publicado em 2001-05-10.
 
 ###### Artigo 4.º — Condições de acesso
 
@@ -184,9 +208,11 @@ Da dedução a que se refere o artigo 2.º só poderão beneficiar os sujeitos p
 
 a) O seu lucro tributável não seja determinado por métodos indiciários ou avaliação indirecta;
 
-b) Mantenham na empresa durante um período mínimo de três anos os bens objecto do investimento;
+b) Mantenham na empresa durante um período mínimo de cinco anos os bens objecto do investimento;
 
 c) Não sejam devedores ao Estado e à segurança social de quaisquer impostos ou contribuições ou tenham o pagamento dos débitos devidamente assegurados.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 13/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2001-313842), publicado em 2001-05-10.
 
 ###### Artigo 5.º — Justificação das deduções
 

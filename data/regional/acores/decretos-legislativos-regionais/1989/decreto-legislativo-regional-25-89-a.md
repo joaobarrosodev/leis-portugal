@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1990-12-27'
+version_history:
+  file: decreto-legislativo-regional-25-89-a.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1989-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1990-12-27'
+    amending: pt:dre:274446:por
+    amending_title: Decreto Legislativo Regional n.º 20/90/A
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:17:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    20/90/A. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/acores/decretos-legislativos-regionais/1989/decreto-legislativo-regional-25-89-a.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -135,13 +150,15 @@ Revelando-se insuficientes os recursos entregues pelo Estado à Região Autónom
 
 Os empréstimos a realizar pelo Governo devem subordinar-se às seguintes condições gerais:
 
-a) Não ultrapassarem o montante global correspondente ao limite que vier a ser estabelecido por lei, não podendo em caso algum exceder os 8 milhões de contos;
+a) Não ultrapassarem o montante global de 10 milhões de contos, sendo 2 milhões de contos de curto prazo.
 
 b) Serem empréstimos amortizáveis a colocar junto das instituições financeiras, incluindo o Banco de Portugal, ou outras entidades nacionais e internacionais;
 
 c) Serem aplicados no financiamento de investimentos ou de outros empreendimentos especialmente reprodutivos;
 
 d) Serem os empréstimos externos contraídos, em caso de insuficiência do mercado interno, em condições mais favoráveis do que as praticadas no mercado nacional de capitais em matéria de prazo, taxa de juro e demais encargos.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 20/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-1990-274446), publicado em 1990-12-27.
 
 ###### Artigo 5.º — Garantia de empréstimos
 

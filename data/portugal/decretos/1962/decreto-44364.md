@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-06-24'
+version_history:
+  file: decreto-44364.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-05-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-06-24'
+    amending: pt:dre:627387:por
+    amending_title: Decreto n.º 45083
+    changes:
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:29:25Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 45083. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1962/decreto-44364.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -154,7 +169,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-Artigo 1.º O Ministro do Ultramar ou, por sua delegação dada nos termos dos §§ 1.º e 2.º do artigo 3.º do Estatuto do Funcionalismo Ultramarino, os governos províncias ultramarinas ficam autorizados:
+###### Artigo 1.º
+
+O Ministro do Ultramar ou, por sua delegação dada nos termos dos §§ 1.º e 2.º do artigo 3.º do Estatuto do Funcionalismo Ultramarino, os governos províncias ultramarinas ficam autorizados:
 
 a) A determinar, por meio de portaria, a constituição de missões ou brigadas, com carácter temporário, para a realização de estudos, trabalhos, projecto e obras que estejam considerados ou previstos nas tabelas de despesa das províncias ultramarinas e a fixar na portaria de constituição os respectivos quadros;
 
@@ -164,9 +181,13 @@ b) A celebrar contratos com entidades idóneas ou com indivíduos especializados
 
 § 2.º O pessoal das missões e brigadas, quando não esteja a previsto nos quadros dos serviços, constituirá quadros complementares, Neste caso, o provimento dos encargos será feito por contrato, por nomeação em comissão de serviço (ordinário ou eventual), ora por assalariamento, observadas as disposições legais em vigor.
 
-Art. 2.º As missões poderão agrupar várias brigadas, abrangendo um ou mais ramos de trabalho e exercendo a sua actividade numa ou em várias províncias.
+###### Artigo 2.º
 
-Art. 3.º Os quadros das missões ou brigadas cuja constituição venha a ser determinada abrangerão as seguintes classes:
+As missões poderão agrupar várias brigadas, abrangendo um ou mais ramos de trabalho e exercendo a sua actividade numa ou em várias províncias.
+
+###### Artigo 3.º
+
+Os quadros das missões ou brigadas cuja constituição venha a ser determinada abrangerão as seguintes classes:
 
 a) Pessoal técnico superior;
 
@@ -178,7 +199,9 @@ d) Pessoal técnico auxiliar.
 
 § único. A classe do pessoal técnico superior será constituída pelos membros das missões e brigadas que possuam o curso universitário ou curso técnico superior; à classe do pessoal técnico pertencerão os componentes das missões que possuam curso médio ou secundário; a classe do pessoal técnico auxiliar será formada por todo o restante pessoal, com exclusão do que exerça apenas funções administrativas e dos assalariados eventuais.
 
-Art. 4.º Os cargos técnicos das missões ou brigadas serão preenchidos em cada uma das categorias a seguir enumeradas:
+###### Artigo 4.º
+
+Os cargos técnicos das missões ou brigadas serão preenchidos em cada uma das categorias a seguir enumeradas:
 
 a) Chefes de missão - por pessoal técnico superior de reputada formação profissional, em exercício nos serviços públicos ou actividade particular há mais de oito anos com comprovada competência e idoneidade, de preferência na especialidade que é chamado a servir;
 
@@ -190,7 +213,9 @@ d) Para os restantes cargos observar-se-ão, na parte aplicável, as disposiçõ
 
 § único. Para as brigadas já integradas nos serviços provinciais observar-se-ão, quanto ao provimento dos diversos cargos, as disposições fixadas nos seus diplomas Orgânicos.
 
-Art. 5.º O pessoal das missões e brigadas será equiparado às categorias constantes do artigo 91.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956.
+###### Artigo 5.º
+
+O pessoal das missões e brigadas será equiparado às categorias constantes do artigo 91.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956.
 
 § 1.º São desde já estabelecidas as seguintes equiparações nas categorias que se indicam:
 
@@ -214,53 +239,91 @@ h) Agentes técnicos de engenharia, regentes agrícolas e florestais e topógraf
 
 § 3.º O pessoal das missões e brigadas integradas nos serviços provinciais terá a categoria que lhe couber pela orgânica dos serviços.
 
-Art. 6.º Os vencimentos base e complementar a abonar ao pessoal das missões e brigadas são os que competirem aos funcionários dos quadros da província em que elas actuam, nas categorias a que esteja equiparado.
+###### Artigo 6.º
 
-Art. 7.º Além dos vencimentos referidos no artigo anterior, o pessoal técnico das missões e brigadas pode ser abonado, quando em exercício nas províncias ultramarinas, de subsídios diário e de campo, a fixar por despacho do Ministro do Ultramar ou, por sua delegação, pelos governos das províncias, observado o disposto nos §§ 1.º e 2.º do artigo 3.º do Estatuto do Funcionalismo Ultramarino.
+Os vencimentos base e complementar a abonar ao pessoal das missões e brigadas são os que competirem aos funcionários dos quadros da província em que elas actuam, nas categorias a que esteja equiparado.
+
+###### Artigo 7.º
+
+Além dos vencimentos referidos no artigo anterior, o pessoal técnico das missões e brigadas pode ser abonado, quando em exercício nas províncias ultramarinas, de subsídios diários e de campo, a fixar por despacho do Ministro do Ultramar ou, por sua delegação, pelos governadores das províncias.
 
 § único. Os quantitativos dos subsídios diário e de campo e as condições do seu abono e processamento serão fixados tendo em conta a província, categoria do pessoal, a violência do trabalho, custo de vida, grau de isolamento e quaisquer outras circunstâncias especiais que caracterizem o desempenho da função.
 
-Art. 8.º Com excepção do abono de família, a abonar nos termos legais em vigor em cada província, o pessoal das missões e brigadas não tem direito a quaisquer outros abonos, nomeadamente subsídios para renda de casa ou isolamento, ajudas de custo e gratificações de qualquer espécie.
+> Alterado pelo/a [Decreto n.º 45083](https://diariodarepublica.pt/dr/detalhe/decreto/45083-1963-627387), publicado em 1963-06-24.
 
-Art. 9.º O regime de remunerações previsto nos artigos 7.º e 8.º deste decreto poderá ser aplicado pelos governadores das províncias ao pessoal técnico dos quadros quando no desempenho de funções análogas às do pessoal técnico das missões e brigadas.
+###### Artigo 8.º
 
-Art. 10.º O pessoal das missões e brigadas terá direito a passagens por conta do Estado, nos termos dos artigos 259.º e seguintes do Estatuto do Funcionalismo Ultramarino.
+Com excepção do abono de família, a abonar nos termos legais em vigor em cada província, o pessoal das missões e brigadas não tem direito a quaisquer outros abonos, nomeadamente subsídios para renda de casa ou isolamento, ajudas de custo e gratificações de qualquer espécie.
 
-Art. 11.º Ao pessoal das missões e brigadas fica vedado o exercício de qualquer actividade particular, remunerada ou não.
+###### Artigo 9.º
 
-Art. 12.º Todas as missões ou brigadas existentes à data da publicação deste decreto serão remodeladas, dentro do prazo de 180 dias, segundo os princípios fixados neste diploma, sob propostas dos serviços que nelas superintendem.
+O regime de remunerações previsto nos artigos 7.º e 8.º deste decreto poderá ser aplicado pelos governadores das províncias ao pessoal técnico dos quadros quando no desempenho de funções análogas às do pessoal técnico das missões e brigadas.
+
+###### Artigo 10.º
+
+O pessoal das missões e brigadas terá direito a passagens por conta do Estado, nos termos dos artigos 259.º e seguintes do Estatuto do Funcionalismo Ultramarino.
+
+###### Artigo 11.º
+
+Ao pessoal das missões e brigadas fica vedado o exercício de qualquer actividade particular, remunerada ou não.
+
+###### Artigo 12.º
+
+Todas as missões ou brigadas existentes à data da publicação deste decreto serão remodeladas, dentro do prazo de 180 dias, segundo os princípios fixados neste diploma, sob propostas dos serviços que nelas superintendem.
 
 § 1.º Na remodelação das missões e brigadas, a propor pelos organismos que nelas superintendem dentro do prazo de 90 dias, será feita a uniformização das designações funcionais do pessoal e fixada a sua equiparação, observada a regra do § 2.º do artigo 5.º
 
 § 2.º Para as brigadas que ficam integradas nos serviços provinciais todo o serviço administrativo, de secretaria e contabilidade será assegurado pelos serviços respectivos.
 
-Art. 13.º Sem prejuízo do disposto no artigo 16.º do [Decreto n.º 43895](https://diariodarepublica.pt/dr/detalhe/decreto/43895-1961-180994), de 6 de Setembro de 1961, a remodelação das missões e brigadas exija orientação técnica é assegurada por entidades privadas carece de acordo prévio com as referidas entidades, sem exceder os prazos dos respectivos contratos, e em caso algum o fim de 1964. A remodelação das brigadas existentes e colocadas na situação prevista no artigo 70.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, e sua integração nos serviços provinciais serão reguladas por portaria ministerial, ouvido o Conselho Superior de Fomento Ultramarino.
+###### Artigo 13.º
 
-Art. 14.º Os contratos do pessoal de todas as categorias das actuais missões e brigadas serão substituídos por novos contratos a celebrar segundo o regime fixado neste decreto, se assim convier ao Estado e for requerido pelos interessados no prazo de 30 dias, a contar da publicação no Diário do Governo ou nos Boletins Oficiais das portarias que remodelem as missões e brigadas.
+Sem prejuízo do disposto no artigo 16.º do [Decreto n.º 43895](https://diariodarepublica.pt/dr/detalhe/decreto/43895-1961-180994), de 6 de Setembro de 1961, a remodelação das missões e brigadas exija orientação técnica é assegurada por entidades privadas carece de acordo prévio com as referidas entidades, sem exceder os prazos dos respectivos contratos, e em caso algum o fim de 1964. A remodelação das brigadas existentes e colocadas na situação prevista no artigo 70.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957, e sua integração nos serviços provinciais serão reguladas por portaria ministerial, ouvido o Conselho Superior de Fomento Ultramarino.
+
+###### Artigo 14.º
+
+Os contratos do pessoal de todas as categorias das actuais missões e brigadas serão substituídos por novos contratos a celebrar segundo o regime fixado neste decreto, se assim convier ao Estado e for requerido pelos interessados no prazo de 30 dias, a contar da publicação no Diário do Governo ou nos Boletins Oficiais das portarias que remodelem as missões e brigadas.
 
 § único. Os contratos vigentes consideram-se rescindidos se não for requerida pelos interessados a elaboração de novo contrato, nos termos do corpo do artigo, ou o seu ingresso nos quadros, de harmonia com o disposto no artigo seguinte.
 
-Art. 15.º O pessoal técnico das missões ou brigadas em serviço à data da publicação deste decreto pode ingressar nas vagas dos quadros permanentes do ultramar existentes à data deste diploma, independentemente da idade e sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, se o requerer e assim convier aos interesses do Estado. Desde que tenha mais de cinco anos de serviço nas missões ou brigadas e boas informações, poderá ocupar vagas de 1.ª classe, quando não haja nos quadros funcionários com as condições legais para serem promovidos.
+###### Artigo 15.º
 
-Art. 16.º Sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, o pessoal técnico das missões ou brigadas que forem extintas, no futuro, pode, se assim o requerer e independentemente da idade, ser nomeado para lugares de ingresso nos serviços afins das províncias ultramarinas, desde que tenha boas informações e assim convenha aos interesses do Estado e se no quadro respectivo houver vagas para que não haja candidatos classificados em concursos.
+O pessoal técnico das missões ou brigadas em serviço à data da publicação deste decreto pode ingressar nas vagas dos quadros permanentes do ultramar existentes à data deste diploma, independentemente da idade e sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, se o requerer e assim convier aos interesses do Estado. Desde que tenha mais de cinco anos de serviço nas missões ou brigadas e boas informações, poderá ocupar vagas de 1.ª classe, quando não haja nos quadros funcionários com as condições legais para serem promovidos.
 
-Art. 17.º Nos quadros do ultramar é contado para efeitos de promoção à 1.ª classe o tempo de serviço prestado nas missões ou brigadas pelo pessoal técnico superior e médio, delas oriundo, que tenha obtido provimento nas categorias de ingresso nos quadros ultramarinos.
+###### Artigo 16.º
 
-Art. 18.º Mantêm-se as disposições vigentes, estabelecidas na sua legislação privativa, quanto à constituição, funcionamento e provimento dos diversos cargos dos centros, missões e brigadas dependentes da Junta de Investigações do Ultramar.
+Sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, o pessoal técnico das missões ou brigadas que forem extintas, no futuro, pode, se assim o requerer e independentemente da idade, ser nomeado para lugares de ingresso nos serviços afins das províncias ultramarinas, desde que tenha boas informações e assim convenha aos interesses do Estado e se no quadro respectivo houver vagas para que não haja candidatos classificados em concursos.
+
+###### Artigo 17.º
+
+Nos quadros do ultramar é contado para efeitos de promoção à 1.ª classe o tempo de serviço prestado nas missões ou brigadas pelo pessoal técnico superior e médio, delas oriundo, que tenha obtido provimento nas categorias de ingresso nos quadros ultramarinos.
+
+###### Artigo 18.º
+
+Mantêm-se as disposições vigentes, estabelecidas na sua legislação privativa, quanto à constituição, funcionamento e provimento dos diversos cargos dos centros, missões e brigadas dependentes da Junta de Investigações do Ultramar.
 
 § único. Às remunerações e equiparação de categorias do pessoal das missões e brigadas a que se refere o corpo deste artigo é aplicável o disposto no presente diploma.
 
-Art. 19.º Mediante portaria do Ministro do Ultramar as missões ou brigadas cuja sede na metrópole podem ser transferidas para as províncias em que a sua acção deva exercer-se, e serem ou não integradas nos serviços afins.
+###### Artigo 19.º
 
-Art. 20.º Os funcionários dos quadros do Ministério do Ultramar podem ser colocados nas missões ou brigadas em comissão ordinária, por portaria do Ministro do Ultramar anotada pelo Tribunal de Contas.
+Mediante portaria do Ministro do Ultramar as missões ou brigadas cuja sede na metrópole podem ser transferidas para as províncias em que a sua acção deva exercer-se, e serem ou não integradas nos serviços afins.
 
-Art. 21.º O § 2.º do artigo 45.º do Estatuto do Funcionalismo Ultramarino passa a ter a seguinte redacção:
+###### Artigo 20.º
+
+Os funcionários dos quadros do Ministério do Ultramar podem ser colocados nas missões ou brigadas em comissão ordinária, por portaria do Ministro do Ultramar anotada pelo Tribunal de Contas.
+
+###### Artigo 21.º
+
+O § 2.º do artigo 45.º do Estatuto do Funcionalismo Ultramarino passa a ter a seguinte redacção:
 
 § 2.º Independentemente do provimento de cargos poderá ser contratado outro pessoal necessário aos serviços, desde que, no respectivo orçamento, tenham cabimento as despesas correspondentes, mesmo no por verbas globais.
 
-Art. 22.º Ficam os governadores-gerais e de província autorizados a abrir, cumpridas as formalidades legais, os créditos necessários para a execução deste diploma.
+###### Artigo 22.º
 
-Art. 23.º Ficam revogadas as disposições que contrariem o disposto no presente decreto, em especial: as Portarias n.os 12215, 12276, 14289 e 17209, respectivamente de 26 de Dezembro de 1947, 5 de Fevereiro de 1948, 5 de Março de 1953 e 8 de Junho de 1959; o § único do n.º 4.º e os §§ 5.º, 7.º, 8.º e 9.º do n.º 9.º n.º 10.º e 13.º da [Portaria n.º 17549](https://diariodarepublica.pt/dr/detalhe/portaria/17549-1960-277093), de 23 de Janeiro de 1960, e os quadros, anexos à mesma portaria, n.º 1 (na parte referente a vencimentos, viagens e ajudas de custo) e n.º 2; artigo 7.º do [Decreto n.º 40869](https://diariodarepublica.pt/dr/detalhe/decreto/40869-1956-298607), de 20 de Novembro de 1956, e artigo 11.º do [Decreto n.º 42562](https://diariodarepublica.pt/dr/detalhe/decreto/42562-1959-429848), de 6 de Outubro de 1959, modificado pelo artigo 1.º do [Decreto n.º 43556](https://diariodarepublica.pt/dr/detalhe/decreto/43556-1961-560072), de 24 de Março de 1961.
+Ficam os governadores-gerais e de província autorizados a abrir, cumpridas as formalidades legais, os créditos necessários para a execução deste diploma.
+
+###### Artigo 23.º
+
+Ficam revogadas as disposições que contrariem o disposto no presente decreto, em especial: as Portarias n.os 12215, 12276, 14289 e 17209, respectivamente de 26 de Dezembro de 1947, 5 de Fevereiro de 1948, 5 de Março de 1953 e 8 de Junho de 1959; o § único do n.º 4.º e os §§ 5.º, 7.º, 8.º e 9.º do n.º 9.º n.º 10.º e 13.º da [Portaria n.º 17549](https://diariodarepublica.pt/dr/detalhe/portaria/17549-1960-277093), de 23 de Janeiro de 1960, e os quadros, anexos à mesma portaria, n.º 1 (na parte referente a vencimentos, viagens e ajudas de custo) e n.º 2; artigo 7.º do [Decreto n.º 40869](https://diariodarepublica.pt/dr/detalhe/decreto/40869-1956-298607), de 20 de Novembro de 1956, e artigo 11.º do [Decreto n.º 42562](https://diariodarepublica.pt/dr/detalhe/decreto/42562-1959-429848), de 6 de Outubro de 1959, modificado pelo artigo 1.º do [Decreto n.º 43556](https://diariodarepublica.pt/dr/detalhe/decreto/43556-1961-560072), de 24 de Março de 1961.
 
 Publique-se e cumpra-se como nele se contém.
 

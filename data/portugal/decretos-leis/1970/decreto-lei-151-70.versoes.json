@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:225854:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1970-04-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "79d5e716c85df7c4"
+   ]
+  },
+  {
+   "date": "1971-03-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:445479:por",
+     "title": "Decreto-Lei n.º 87/71",
+     "published": "1971-03-20",
+     "dre_path": "/dr/detalhe/decreto-lei/87-1971-445479"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "3f599295a8c3718c",
+    "c75c2db5200dd237",
+    "37792d315c694476",
+    "eda93e7c138f11cc"
+   ]
+  }
+ ],
+ "fragments": {
+  "79d5e716c85df7c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1. Para assegurar o serviço de urgência, em alguns hospitais tem sido habitual o recurso a trabalho médico para além das horas normais de serviço.\n\nEsta prática considera-se de rever, pois a cobertura dos serviços com presença médica constante deve ser normalmente obtida por meio de turnos, e não pelo recurso ao trabalho extraordinário.\n\nEnquanto, porém, se mantiver a prática acima referida, considera-se de justiça remunerar esse trabalho, devendo, entretanto, tender-se para a orientação apontada de encarar a urgência como fazendo parte da actividade normal do hospital.\n\nEste pagamento está previsto, em princípio, no artigo 14.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, e no artigo 46.º, n.º 4, do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968, mas de algum modo é prejudicado pelo artigo 26.º do [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), da mesma data, pelo que há que promulgar disposição inequívoca.\n\n2. O pessoal de enfermagem, técnico e administrativo é também frequentemente chamado a prestar serviço no período nocturno, compreendido entre as 0 e as 8 horas. Trata-se de uma forma de trabalho que necessàriamente fatiga os profissionais referidos e perturba, òbviamente, a vida familiar e social de quem o pratica, pelo que merece remuneração especial.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. O pessoal médico que participe nas escalas de urgência (banco) e nas escalas de enfermaria receberá, pelas horas que trabalhar além do serviço normal em tempo parcial ou em tempo completo, uma remuneração proporcional ao seu vencimento-hora.\n\n2. O pessoal de enfermagem e outro pessoal técnico e administrativo que for escalado para prestar serviço no período compreendido entre as 0 e as 8 horas receberá uma remuneração complementar a fixar por despacho conjunto dos Ministros das Finanças e da Saúde e Assistência.\n\nArt. 2.º O Ministro da Saúde e Assistência estabelecerá em despacho as normas de organização e funcionamento dos serviços para aplicação dos n.os 1 e 2 do artigo anterior, e para eliminar, logo que possível, o recurso ao trabalho extraordinário.\n\nArt. 3.º - 1. Os abonos a que se refere este diploma são devidos a partir de 1 de Março de 1970 e serão satisfeitos pelas verbas inscritas nos orçamentos dos respectivos estabelecimentos.\n\n2. É revogado o n.º 3.º do artigo 26.º do [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), de 27 de Abril de 1968.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 1 de Abril de 1970.\n\nPublique-se.\n\nPresidência da República, 10 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "3f599295a8c3718c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1. Para assegurar o serviço de urgência, em alguns hospitais tem sido habitual o recurso a trabalho médico para além das horas normais de serviço.\n\nEsta prática considera-se de rever, pois a cobertura dos serviços com presença médica constante deve ser normalmente obtida por meio de turnos, e não pelo recurso ao trabalho extraordinário.\n\nEnquanto, porém, se mantiver a prática acima referida, considera-se de justiça remunerar esse trabalho, devendo, entretanto, tender-se para a orientação apontada de encarar a urgência como fazendo parte da actividade normal do hospital.\n\nEste pagamento está previsto, em princípio, no artigo 14.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, e no artigo 46.º, n.º 4, do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), de 27 de Abril de 1968, mas de algum modo é prejudicado pelo artigo 26.º do [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), da mesma data, pelo que há que promulgar disposição inequívoca.\n\n2. O pessoal de enfermagem, técnico e administrativo é também frequentemente chamado a prestar serviço no período nocturno, compreendido entre as 0 e as 8 horas. Trata-se de uma forma de trabalho que necessàriamente fatiga os profissionais referidos e perturba, òbviamente, a vida familiar e social de quem o pratica, pelo que merece remuneração especial.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "c75c2db5200dd237": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1971-03-20",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 87/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1971-445479), publicado em 1971-03-20."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1. O pessoal médico que participe nas escalas de urgência (banco) e nas escalas de enfermaria receberá, pelas horas que trabalhar além do serviço normal em tempo parcial ou em tempo completo, uma remuneração proporcional ao seu vencimento-hora.\n\n2. O pessoal de enfermagem e outro pessoal técnico, o pessoal administrativo, menor, auxiliar e oficinal que for escalado para prestar serviço no período compreendido entre as 0 e as 8 horas receberá uma remuneração complementar a fixar por despacho conjunto dos Ministros das Finanças e da Saúde e Assistência.\n\n> Alterado pelo/a [Decreto-Lei n.º 87/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-1971-445479), publicado em 1971-03-20."
+  },
+  "37792d315c694476": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Ministro da Saúde e Assistência estabelecerá em despacho as normas de organização e funcionamento dos serviços para aplicação dos n.os 1 e 2 do artigo anterior, e para eliminar, logo que possível, o recurso ao trabalho extraordinário."
+  },
+  "eda93e7c138f11cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os abonos a que se refere este diploma são devidos a partir de 1 de Março de 1970 e serão satisfeitos pelas verbas inscritas nos orçamentos dos respectivos estabelecimentos.\n\n2. É revogado o n.º 3.º do artigo 26.º do [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), de 27 de Abril de 1968.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.\n\nPromulgado em 1 de Abril de 1970.\n\nPublique-se.\n\nPresidência da República, 10 de Abril de 1970. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

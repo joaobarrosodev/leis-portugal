@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:250634:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1977-07-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "741935aa8254406e"
+   ]
+  },
+  {
+   "date": "1977-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:279392:por",
+     "title": "Decreto Regulamentar n.º 67/77",
+     "published": "1977-10-15",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/67-1977-279392"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "ffbe0d0d88412da4",
+    "242fe915d9c84ba0",
+    "be9de154561dc9ca"
+   ]
+  }
+ ],
+ "fragments": {
+  "741935aa8254406e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Julho\n\nConsiderando o volume e a complexidade das funções cometidas à Direcção-Geral dos Desportos;\n\nConsiderando que a experiência até agora colhida aconselha, para maior eficiência dos serviços daquela Direcção-Geral, a criação do lugar de subdirector-geral;\n\nAo abrigo do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:\n\nO Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:\n\nArtigo 1.º - 1. O director-geral dos Desportos será coadjuvado por um subdirector-geral, que exercerá as funções que lhe forem confiadas pelo director-geral.\n\n2. O subdirector-geral substituirá o director-geral nas suas faltas e impedimentos.\n\n3. O lugar de subdirector-geral será provido por escolha do Ministro da Educação e Investigação Científica de entre diplomados com curso superior e de reconhecida competência.\n\nArt. 2.º - 1. Ao quadro do pessoal dirigente e técnico da Direcção-Geral dos Desportos constante do mapa I anexo ao [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março, é acrescentado um lugar de subdirector-geral, que se integra no quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.\n\n2. É extinto o lugar de adjunto do director-geral constante do mapa I anexo ao [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março.\n\n3. O acréscimo de encargos será liquidado, no corrente ano, pelas disponibilidades da verba respectiva, que, para tanto, se considera global.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Mário Augusto Sottomayor Leal Cardia.\n\nPromulgado em 4 de Julho de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "ffbe0d0d88412da4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de Julho\n\nConsiderando o volume e a complexidade das funções cometidas à Direcção-Geral dos Desportos;\n\nConsiderando que a experiência até agora colhida aconselha, para maior eficiência dos serviços daquela Direcção-Geral, a criação do lugar de subdirector-geral;\n\nAo abrigo do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:\n\nO Governo decreta, nos termos da alínea g) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "242fe915d9c84ba0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O director-geral dos Desportos será coadjuvado por um subdirector-geral, que exercerá as funções que lhe forem confiadas pelo director-geral.\n\n2. O subdirector-geral substituirá o director-geral nas suas faltas e impedimentos.\n\n3. O lugar de subdirector-geral será provido por escolha do Ministro da Educação e Investigação Científica de entre diplomados com curso superior e de reconhecida competência."
+  },
+  "be9de154561dc9ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1977-10-15",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 67/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1977-279392), publicado em 1977-10-15."
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. Ao quadro do pessoal dirigente e técnico da Direcção-Geral dos Desportos constante do mapa I anexo ao [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março, é acrescentado um lugar de subdirector-geral, que se integra no quadro único a que se refere o artigo 26.º do [Decreto-Lei n.º 408/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/408-1971-632734), de 27 de Setembro.\n\n2 - É extinto, quando vagar, o lugar de adjunto do director-geral constante do mapa I anexo ao [Decreto-Lei n.º 82/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1973-684451), de 3 de Março.\n\n3. O acréscimo de encargos será liquidado, no corrente ano, pelas disponibilidades da verba respectiva, que, para tanto, se considera global.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 67/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1977-279392), publicado em 1977-10-15.\n\nMário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira - Mário Augusto Sottomayor Leal Cardia.\n\nPromulgado em 4 de Julho de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

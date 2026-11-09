@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2005-01-31'
+version_history:
+  file: decreto-lei-108-2004.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2004-05-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-01-31'
+    amending: pt:dre:624456:por
+    amending_title: Lei n.º 13/2005
+    changes:
+    - Altera Artigo único
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/108/2004/05/11/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:43:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 13/2005. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2004/decreto-lei-108-2004.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -158,9 +173,11 @@ b) ...
 
 c) ...
 
-d) Cônsules e vice-cônsules honorários, quando de nacionalidade portuguesa;
+d) Funcionários de nacionalidade portuguesa, desde que não tenham a nacionalidade do país onde exercem funções, do quadro único de vinculação dos serviços externos do Ministério dos Negócios Estrangeiros, quando não tenham direito à emissão de passaporte diplomático;
 
-e) Indivíduos de nacionalidade portuguesa, desde que não tenham outra nacionalidade, que integrem os quadros únicos de vinculação ou contratação dos serviços externos do Ministério dos Negócios Estrangeiros, sempre que, por imposição das autoridades locais do país em que residem, tal se torne efectivamente indispensável ao exercício das respectivas funções ou à sua acreditação local.
+e) Pessoal de nacionalidade portuguesa, desde que não tenha a nacionalidade do país onde exercem funções, que integra o quadro único de contratação dos serviços externos do Ministério dos Negócios Estrangeiros, sempre que por imposição das autoridades locais do país em que residam tal se torne efectivamente indispensável ao exercício das respectivas funções, ou à sua correspondente acreditação local;
+
+f) Cônsules honorários quando de nacionalidade portuguesa, desde que não tenham a nacionalidade do país onde exercem funções.
 
 3 - ...
 
@@ -170,7 +187,7 @@ Artigo 31.º
 
 1 - ...
 
-a) O Ministro dos Negócios Estrangeiros, sempre que as situações ocorram fora do território nacional ou nos casos a que se referem as alíneas c) a e) do n.º 2 e o n.º 3 do artigo anterior;
+a) O Ministro dos Negócios Estrangeiros sempre que as situações ocorram fora do território nacional ou nos casos a que se referem as alíneas c) a f) do n.º 2 e o n.º 3 do artigo anterior;
 
 b) ...
 
@@ -179,6 +196,8 @@ c) ...
 2 - ...
 
 3 - ...»
+
+> Alterado pelo/a [Lei n.º 13/2005](https://diariodarepublica.pt/dr/detalhe/lei/13-2005-624456), publicado em 2005-01-26.
 
 Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - António Jorge de Figueiredo Lopes.
 

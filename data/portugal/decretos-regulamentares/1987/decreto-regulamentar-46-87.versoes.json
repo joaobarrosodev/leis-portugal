@@ -1,0 +1,86 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:417260:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1987-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "154df9c6e062db0d"
+   ]
+  },
+  {
+   "date": "1988-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:406123:por",
+     "title": "Decreto Regulamentar n.º 66/87",
+     "published": "1987-12-31",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/66-1987-406123"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "48aad00cb157e372",
+    "55a5535c8a7682ce",
+    "f041039e96146f3b",
+    "40761d660011513a"
+   ]
+  }
+ ],
+ "fragments": {
+  "154df9c6e062db0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Julho\n\nA zona dos Jerónimos-Torre de Belém-Junqueira e Ajuda é a zona monumental de Lisboa por excelência, pelo seu conteúdo, pelas proporções do seu desafogo e pela sua identificação com algumas das mais importantes páginas da nossa história. Nela existe apreciável número de imóveis já classificados e respectivas áreas de protecção e outros que, individualmente ou em conjunto, apresentam relevante valor patrimonial, cuja identidade e envolvência convém salvaguardar e valorizar.\n\nNesta perspectiva, com o presente diploma visa-se, através do Instituto Português do Património Cultural (IPPC) e da Direcção-Geral do Ordenamento do Território (DGOT), realizar um plano de salvaguarda e valorização desta zona.\n\nPor outro lado, importa ainda que nesta zona venha a localizar-se um conjunto museológico, incluindo salas de exposições e de reuniões internacionais, o qual, para além da sua imediata justificação no contexto da celebração dos Descobrimentos, permitirá iniciar operações significativas de valorização e fruição da área.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:\n\nArtigo 1.º Para efeitos de aplicação do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas pelo prazo de dois anos a área do Município de Lisboa assinalada na planta anexa a este diploma e que dele faz parte integrante.\n\nArt. 2.º As medidas preventivas referidas no artigo anterior consistem na sujeição a prévia autorização do IPPC, e sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, dos actos ou actividades seguintes:\n\na) Construção, reconstrução, ampliação de edifícios ou outras instalações;\n\nb) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;\n\nc) Derrube de árvores em maciço, com qualquer área;\n\nd) Destruição do solo vivo e do coberto vegetal.\n\nArt. 3.º O IPPC e a DGOT são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.\n\nAníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro.\n\nPromulgado em 4 de Julho de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Julho de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/17200/29572957.pdf)"
+  },
+  "48aad00cb157e372": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 29 de Julho\n\nA zona dos Jerónimos-Torre de Belém-Junqueira e Ajuda é a zona monumental de Lisboa por excelência, pelo seu conteúdo, pelas proporções do seu desafogo e pela sua identificação com algumas das mais importantes páginas da nossa história. Nela existe apreciável número de imóveis já classificados e respectivas áreas de protecção e outros que, individualmente ou em conjunto, apresentam relevante valor patrimonial, cuja identidade e envolvência convém salvaguardar e valorizar.\n\nNesta perspectiva, com o presente diploma visa-se, através do Instituto Português do Património Cultural (IPPC) e da Direcção-Geral do Ordenamento do Território (DGOT), realizar um plano de salvaguarda e valorização desta zona.\n\nPor outro lado, importa ainda que nesta zona venha a localizar-se um conjunto museológico, incluindo salas de exposições e de reuniões internacionais, o qual, para além da sua imediata justificação no contexto da celebração dos Descobrimentos, permitirá iniciar operações significativas de valorização e fruição da área.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:"
+  },
+  "55a5535c8a7682ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos de aplicação do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas pelo prazo de dois anos a área do Município de Lisboa assinalada na planta anexa a este diploma e que dele faz parte integrante."
+  },
+  "f041039e96146f3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1988-01-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 66/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1987-406123), publicado em 1987-12-31."
+   ],
+   "markdown": "###### Artigo 2.º\n\nAs medidas preventivas referidas no artigo anterior consistem na sujeição a prévia autorização do IPPC e da Câmara Municipal de Lisboa, e sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, dos actos ou actividades seguintes:\n\na) Construção, reconstrução, ampliação de edifícios ou outras instalações;\n\nb) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;\n\nc) Derrube de árvores em maciço, com qualquer área;\n\nd) Destruição do solo vivo e do coberto vegetal.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 66/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1987-406123), publicado em 1987-12-31."
+  },
+  "40761d660011513a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1988-01-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 66/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1987-406123), publicado em 1987-12-31."
+   ],
+   "markdown": "###### Artigo 3.º\n\nO IPPC, a DGOT e a Câmara Municipal de Lisboa são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 66/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1987-406123), publicado em 1987-12-31.\n\nAníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro.\n\nPromulgado em 4 de Julho de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Julho de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/07/17200/29572957.pdf)"
+  }
+ }
+}

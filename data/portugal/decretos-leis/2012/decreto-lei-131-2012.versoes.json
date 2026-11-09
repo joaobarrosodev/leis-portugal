@@ -1,0 +1,281 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:178503:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2012-06-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "01805f4f35020ec2",
+    "e44c32f67d561ba4",
+    "d92fe0805babed01",
+    "b9a0c1f31a09a27f",
+    "df1f3e6955deb6a2",
+    "7989e632db467e87",
+    "aaa153116db2cfa6",
+    "c72dde19d4cea570",
+    "e7cc05ea8fe17f95",
+    "25fc32d55e806c05",
+    "82f328f6bd34e534",
+    "2b0da7c0d409f0ae",
+    "6762549949e624ff",
+    "dfec2a44a16e0867",
+    "9d32aeea74aae971",
+    "f7028d84baf3d82b",
+    "f683d08b8368c505",
+    "51e440d190ad7299"
+   ]
+  },
+  {
+   "date": "2015-02-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66463205:por",
+     "title": "Decreto-Lei n.º 28/2015",
+     "published": "2015-02-10",
+     "dre_path": "/dr/detalhe/decreto-lei/28-2015-66463205"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "01805f4f35020ec2",
+    "0bdb2d8a788689df",
+    "d92fe0805babed01",
+    "b9a0c1f31a09a27f",
+    "df1f3e6955deb6a2",
+    "955b254e3532fa20",
+    "5b3ff1209fc64ada",
+    "c72dde19d4cea570",
+    "e7cc05ea8fe17f95",
+    "aedf06a4eade9226",
+    "4e128713a8023573",
+    "2b0da7c0d409f0ae",
+    "9e1b85d141b1fe27",
+    "dfec2a44a16e0867",
+    "9d32aeea74aae971",
+    "f7028d84baf3d82b",
+    "f683d08b8368c505",
+    "51e440d190ad7299"
+   ]
+  }
+ ],
+ "fragments": {
+  "01805f4f35020ec2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 25 de junho\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase de reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o País está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e da melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImporta decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar maior coerência e capacidade de resposta no desempenho de funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNeste contexto, o presente decreto-lei representa um contributo para a concretização da política enunciada, através da reestruturação da Caixa Geral de Aposentações, I. P., abreviadamente designada por CGA, I. P., em consonância com o disposto na orgânica do Ministério das Finanças.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 9.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "e44c32f67d561ba4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Caixa Geral de Aposentações, I. P., abreviadamente designada por CGA, I. P., é um instituto público de regime especial, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - A CGA, I. P., prossegue atribuições do Ministério das Finanças, sob superintendência e tutela do respetivo Ministro."
+  },
+  "d92fe0805babed01": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - A CGA, I. P., é um organismo central com jurisdição sobre todo o território nacional.\n\n2 - A CGA, I. P., tem sede em Lisboa."
+  },
+  "b9a0c1f31a09a27f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - A CGA, I. P., tem por missão gerir o regime de segurança social público em matéria de pensões de aposentação, de reforma, de sobrevivência e de outras de natureza especial.\n\n2 - São atribuições da CGA, I. P.:\n\na) Assegurar a gestão e atribuição de pensões e prestações devidas no âmbito do regime de segurança social do setor público e de outras de natureza especial, nos termos da lei;\n\nb) Assegurar a gestão e controlo das quotas dos subscritores e das contribuições de entidades;\n\nc) Propor ou participar na elaboração de projetos de legislação da segurança social do setor público;\n\nd) Elaborar informação estatística e de gestão."
+  },
+  "df1f3e6955deb6a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos da CGA, I. P.:\n\na) O conselho diretivo;\n\nb) O fiscal único;\n\nc) O conselho consultivo."
+  },
+  "7989e632db467e87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho diretivo\n\n1 - O conselho diretivo da CGA, I. P., abreviadamente designado por CD, é composto por um presidente e dois vogais.\n\n2 - Os membros do CD são designados por despacho conjunto do Primeiro-Ministro e do membro do Governo responsável pela área das finanças, sob proposta deste, de entre os membros do conselho de administração da Caixa Geral de Depósitos, S. A., adiante abreviadamente designada por CGD.\n\n3 - O mandato dos membros do CD caduca automaticamente com a cessação das funções de administrador da CGD.\n\n4 - Os membros do CD não auferem qualquer remuneração pelo exercício destas funções."
+  },
+  "aaa153116db2cfa6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Competências do CD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências do CD\n\n1 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao CD, no âmbito da orientação e gestão da CGA, I. P.:\n\na) Executar e fazer cumprir todas as normas que regulam o objeto da atividade da CGA, I. P., em particular o Estatuto de Aposentação e o Estatuto das Pensões de Sobrevivência do Funcionalismo Público;\n\nb) Celebrar acordos que permitam assegurar os meios e serviços necessários à prossecução dos fins da CGA, I. P.;\n\nc) Promover estudos em matéria de pensões e outras prestações atribuídas pela CGA, I. P., com vista nomeadamente à elaboração de medidas legislativas de revisão e aperfeiçoamento do respetivo regime;\n\nd) Prestar, obrigatoriamente, ao membro do Governo responsável pela área das finanças todas as informações que este lhe solicite sobre a sua atividade.\n\n2 - O presidente do CD pode delegar, ou subdelegar, competências nos vogais."
+  },
+  "c72dde19d4cea570": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competência do presidente do CD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência do presidente do CD\n\n1 - Compete, em especial, ao presidente do CD superintender nos serviços da CGA, I. P., e resolver os assuntos que não sejam da competência exclusiva do CD.\n\n2 - Nas suas faltas ou impedimentos, o presidente é substituído pelo vogal do CD por si designado para o efeito."
+  },
+  "e7cc05ea8fe17f95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fiscal único\n\nO fiscal único é designado e tem as competências previstas na lei-quadro dos institutos públicos."
+  },
+  "25fc32d55e806c05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conselho consultivo\n\n1 - O conselho consultivo, abreviadamente designado por conselho, é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação da CGA, I. P., e nas tomadas de decisão do CD.\n\n2 - O conselho tem a seguinte composição:\n\na) Presidente do CD da CGA, I. P., que preside;\n\nb) Dois vogais do CD da CGA, I. P.;\n\nc) Um representante da Direção-Geral do Orçamento (DGO);\n\nd) Um representante da Direção-Geral das Autarquias Locais (DGAL);\n\ne) Um representante da Direção-Geral da Administração e do Emprego Público (DGAEP);\n\nf) Um representante do Ministério da Solidariedade e da Segurança Social (MSSS);\n\ng) Três representantes, um por cada uma das estruturas sindicais representativas dos trabalhadores que exercem funções públicas.\n\n3 - Nas suas ausências e impedimentos, o presidente do conselho é substituído pelo vogal do CD que para o efeito designar.\n\n4 - Sempre que o presidente do conselho o julgue conveniente, designadamente pela natureza das matérias a tratar, um dos vogais do CD é substituído pelo diretor central da CGA, I. P.\n\n5 - Sem prejuízo das competências conferidas por lei, compete ao conselho emitir parecer sobre:\n\na) O plano e o relatório de atividades;\n\nb) O orçamento e a conta de gerência;\n\nc) Outros assuntos que o CD ou o presidente do conselho decidam submeter à sua apreciação.\n\n6 - Aos membros do conselho é assegurado o acesso à informação relevante para a prossecução das suas competências."
+  },
+  "82f328f6bd34e534": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Meios e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Meios e serviços\n\n1 - A CGA, I. P., não dispõe de estrutura interna, sendo os meios e serviços necessários para o exercício da respetiva atividade assegurados pela CGD.\n\n2 - As modalidades e as condições de prestação dos meios e serviços a que se refere o número anterior são objeto de convenção a celebrar entre a CGA, I. P., e a CGD, sujeita a homologação do membro do Governo responsável pela área das finanças."
+  },
+  "2b0da7c0d409f0ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Estatuto dos membros do CD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Estatuto dos membros do CD\n\nAos membros do CD é aplicável o definido na lei-quadro dos institutos públicos em tudo o que não se encontre previsto no presente decreto-lei."
+  },
+  "6762549949e624ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Orçamento e documentos de prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Orçamento e documentos de prestação de contas\n\n1 - O orçamento anual, acompanhado do parecer do fiscal único, é submetido à aprovação do membro do Governo responsável pela área das finanças.\n\n2 - O CD deve igualmente submeter, até 31 de março de cada ano, à aprovação do membro do Governo responsável pela área das finanças o relatório de atividades e os demais documentos de prestação de contas, acompanhados do parecer previsto na alínea b) do n.º 5 do artigo 9.º"
+  },
+  "dfec2a44a16e0867": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Receitas\n\n1 - A CGA, I. P., dispõe das seguintes receitas próprias:\n\na) As quotas dos subscritores;\n\nb) As contribuições dos empregadores;\n\nc) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n2 - As dívidas à CGA, I. P., estão sujeitas a juros de mora à taxa consagrada na lei fiscal, independentemente da natureza, institucional, associativa ou empresarial, do âmbito territorial, nacional, regional ou municipal, e do grau de independência ou autonomia dos devedores, incluindo entidades reguladoras, de supervisão ou controlo e pessoas singulares.\n\n3 - O disposto no número anterior prevalece sobre quaisquer normas que disponham em sentido diverso."
+  },
+  "9d32aeea74aae971": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Despesas\n\nConstituem despesas da CGA, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições, designadamente as resultantes do pagamento das prestações sociais."
+  },
+  "f7028d84baf3d82b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Património\n\nO património da CGA, I. P., é constituído pela universalidade dos seus bens, direitos e obrigações."
+  },
+  "f683d08b8368c505": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma revogatória\n\nÉ revogado o [Decreto-Lei n.º 84/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2007-520455), de 29 de março."
+  },
+  "51e440d190ad7299": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 26 de abril de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Paulo José de Ribeiro Moita de Macedo - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 12 de junho de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 14 de junho de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "0bdb2d8a788689df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2015-02-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Caixa Geral de Aposentações, I. P., abreviadamente designada por CGA, I. P., é um instituto público de regime especial, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - A CGA, I. P., prossegue atribuições do Ministério da Solidariedade, Emprego e Segurança Social, sob superintendência e tutela do respetivo Ministro, e, nas matérias objeto de negociação coletiva ou de participação dos trabalhadores da Administração Pública, através das suas associações sindicais, e na elaboração de legislação com incidência orçamental, sob superintendência e tutela conjunta dos membros do Governo responsáveis pelas áreas da solidariedade, emprego e segurança social e das finanças e Administração Pública.\n\n> Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10."
+  },
+  "955b254e3532fa20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Conselho diretivo",
+   "in_force_from": "2015-02-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10."
+   ],
+   "markdown": "###### Artigo 5.º — Conselho diretivo\n\n1 - O conselho diretivo da CGA, I. P., abreviadamente designado por CD, é composto por um presidente e dois vogais.\n\n2 - Os membros do CD são designados por despacho do Primeiro-Ministro e do membro do Governo responsável pela área da solidariedade, emprego e segurança social, sob proposta deste, de entre os membros do conselho de administração da Caixa Geral de Depósitos, S. A., adiante abreviadamente designada por CGD.\n\n3 - O mandato dos membros do CD caduca automaticamente com a cessação das funções de administrador da CGD.\n\n4 - Os membros do CD não auferem qualquer remuneração pelo exercício destas funções.\n\n> Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10."
+  },
+  "5b3ff1209fc64ada": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Competências do CD",
+   "in_force_from": "2015-02-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10."
+   ],
+   "markdown": "###### Artigo 6.º — Competências do CD\n\n1 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao CD, no âmbito da orientação e gestão da CGA, I. P.:\n\na) Executar e fazer cumprir todas as normas que regulam o objeto da atividade da CGA, I. P., em particular o Estatuto de Aposentação e o Estatuto das Pensões de Sobrevivência do Funcionalismo Público;\n\nb) Celebrar acordos que permitam assegurar os meios e serviços necessários à prossecução dos fins da CGA, I. P.;\n\nc) Promover estudos em matéria de pensões e outras prestações atribuídas pela CGA, I. P., com vista nomeadamente à elaboração de medidas legislativas de revisão e aperfeiçoamento do respetivo regime;\n\nd) Prestar, obrigatoriamente, ao membro do Governo responsável pela área da solidariedade, emprego e segurança social todas as informações que este lhe solicite sobre a sua atividade.\n\n2 - O presidente do CD pode delegar, ou subdelegar, competências nos vogais.\n\n> Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10."
+  },
+  "aedf06a4eade9226": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Conselho consultivo",
+   "in_force_from": "2015-02-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10."
+   ],
+   "markdown": "###### Artigo 9.º — Conselho consultivo\n\n1 - O conselho consultivo, abreviadamente designado por conselho, é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação da CGA, I. P., e nas tomadas de decisão do CD.\n\n2 - O conselho tem a seguinte composição:\n\na) Presidente do CD da CGA, I. P., que preside;\n\nb) Dois vogais do CD da CGA, I. P.;\n\nc) Um representante da Direção-Geral do Orçamento (DGO);\n\nd) Um representante da Direção-Geral das Autarquias Locais (DGAL);\n\ne) Um representante da Direção-Geral da Administração e do Emprego Público (DGAEP);\n\nf) Um representante do Ministério das Finanças (MF);\n\ng) Um representante do Ministério da Solidariedade, Emprego e Segurança Social (MSESS);\n\nh) Três representantes, um por cada uma das estruturas sindicais representativas dos trabalhadores que exercem funções públicas.\n\n3 - Nas suas ausências e impedimentos, o presidente do conselho é substituído pelo vogal do CD que para o efeito designar.\n\n4 - Sempre que o presidente do conselho o julgue conveniente, designadamente pela natureza das matérias a tratar, um dos vogais do CD é substituído pelo diretor central da CGA, I. P.\n\n5 - Sem prejuízo das competências conferidas por lei, compete ao conselho emitir parecer sobre:\n\na) O plano e o relatório de atividades;\n\nb) O orçamento e a conta de gerência;\n\nc) Outros assuntos que o CD ou o presidente do conselho decidam submeter à sua apreciação.\n\n6 - Aos membros do conselho é assegurado o acesso à informação relevante para a prossecução das suas competências.\n\n> Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10."
+  },
+  "4e128713a8023573": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Meios e serviços",
+   "in_force_from": "2015-02-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10."
+   ],
+   "markdown": "###### Artigo 10.º — Meios e serviços\n\n1 - A CGA, I. P., não dispõe de estrutura interna, sendo os meios e serviços necessários para o exercício da respetiva atividade assegurados pela CGD.\n\n2 - As modalidades e as condições de prestação dos meios e serviços a que se refere o número anterior são objeto de convenção a celebrar entre a CGA, I. P., e a CGD, sujeita a homologação dos membros do Governo responsáveis pelas áreas da solidariedade, emprego e segurança social e das finanças.\n\n> Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10."
+  },
+  "9e1b85d141b1fe27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Orçamento e documentos de prestação de contas",
+   "in_force_from": "2015-02-11",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10."
+   ],
+   "markdown": "###### Artigo 12.º — Orçamento e documentos de prestação de contas\n\n1 - O orçamento anual, acompanhado do parecer do fiscal único, é submetido à aprovação do membro do Governo responsável pela área da solidariedade, emprego e segurança social.\n\n2 - O CD deve igualmente submeter, até 31 de março de cada ano, à aprovação do membro do Governo responsável pela área da solidariedade, emprego e segurança social, o relatório de atividades e os demais documentos de prestação de contas, acompanhados do parecer previsto na alínea b) do n.º 5 do artigo 9.º\n\n> Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10."
+  }
+ }
+}

@@ -1,0 +1,194 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:642730:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-07-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5ab8bff59aacddf2"
+   ]
+  },
+  {
+   "date": "1990-04-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:331978:por",
+     "title": "Decreto-Lei n.º 128/90",
+     "published": "1990-04-17",
+     "dre_path": "/dr/detalhe/decreto-lei/128-1990-331978"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "6102024da68f32c9",
+    "c11d9158d8283f0f",
+    "0683845892ba57f7",
+    "75405e98033febe0",
+    "bced7c4ca619b2b0",
+    "b5c39197fa2efea8",
+    "5f6057047b907814",
+    "f556b5074ddcd695",
+    "eba9c7fb2d6e1436",
+    "8f79c8fd97ce23ca",
+    "87998105482c0b42",
+    "11a60b8c56185dea",
+    "bfc6851302dd775c"
+   ]
+  }
+ ],
+ "fragments": {
+  "5ab8bff59aacddf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Julho\n\nDe acordo com o artigo 44.º da Constituição Política, cumpre ao Estado conceder apoio ao ensino não oficial, «quando os seus programas e categoria do respectivo pessoal docente não forem inferiores aos dos estabelecimentos oficiais similares».\n\nA igreja católica pretende, nestes termos, ver definido o estatuto da Universidade cujas primeiras escolas por ela foram já fundadas no nosso país.\n\nProcura-se que as medidas constantes do presente diploma respeitem os princípios constitucionais e se mostrem adequadas ao sistema concordatário. Distinguem-se para esse efeito os estabelecimentos destinados ao ensino eclesiástico dos que têm por fim o ensino de nível superior paralelo ao do Estado. Em relação aos primeiros, limita-se este decreto-lei às referências indispensáveis, deixando à Igreja autonomia, tanto no que toca à sua organização, como ao ensino neles ministrado, de harmonia com as disposições do n.º 3 do artigo XX da Concordata. Quanto aos segundos, atende-se ao preceito do n.º 1 do mesmo artigo e adoptam-se as providências consideradas necessárias para a garantia dos princípios fundamentais do sistema educativo português, prevendo-se que venham a ser objecto de regulamentação nos respectivos diplomas constitutivos os aspectos pedagógicos e administrativos específicos de cada estabelecimento da Universidade.\n\nNestes termos, ouvida a 1.ª secção da Junta Nacional da Educação:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º A Universidade Católica Portuguesa é uma pessoa colectiva de utilidade pública e tem por fins, além de promover e difundir a cultura no domínio das ciências sagradas e profanas, ministrar o ensino de nível superior em paralelo com as restantes Universidades portuguesas e cultivar a investigação e o progresso das ciências nela professadas.\n\nArt. 2.º - 1. A Universidade Católica Portuguesa é uma instituição de carácter federativo, com sede em Lisboa, que tem como elementos integrantes:\n\na) A Faculdade de Teologia, com sede em Lisboa, a Faculdade de Filosofia de Braga e a escola de Direito Canónico que porventura nela venha a ser criada;\n\nb) Os estabelecimentos de ensino superior análogos aos das restantes Universidades portuguesas cuja criação, dentro dela, venha a ser autorizada;\n\nc) Os centros de investigação e institutos culturais anexos a qualquer dos estabelecimentos de ensino mencionados nas alíneas anteriores.\n\n2. As escolas e estabelecimentos a que este artigo se refere poderão ter as denominações que se harmonizarem com a natureza das disciplinas neles cultivadas, devendo a respectiva designação ser aprovada pelo Ministro da Educação Nacional, ouvida a Junta Nacional da Educação, sob proposta fundamentada do reitor.\n\nArt. 3.º - 1. A organização e funcionamento das Faculdades e institutos superiores referidos na alínea a) do n.º 1 do artigo 2.º são livremente fixados pela autoridade eclesiástica, devendo o reitor da Universidade Católica comunicar ao Ministro da Educação Nacional, até 30 de Novembro de cada ano, o elenco das disciplinas aí professadas e os programas das cadeiras e cursos que não sejam de carácter restritamente teológico, filosófico ou jurídico-canónico.\n\n2. O reitor da Universidade manterá o Governo informado sobre qual a autoridade eclesiástica competente para os efeitos deste artigo.\n\nArt. 4.º - 1. A instituição e reforma das Faculdades e institutos superiores mencionados na alínea b) do n.º 1 do artigo 2.º dependem de autorização do Ministro da Educação Nacional, ouvida a Junta Nacional da Educação, sob proposta da Universidade em que se definam os programas dos cursos e os regimes a observar quanto à apreciação do mérito escolar e à atribuição de títulos e diplomas, aspectos que serão regulamentados pelos diplomas de autorização.\n\n2. Estas Faculdades e institutos superiores observarão as normas jurídicas por que se regem as restantes Universidades portuguesas quanto a recrutamento do pessoal docente, nível do ensino ministrado, habilitações de ingresso, actividades circum-escolares, serviços médico-sociais universitários e, de um modo geral, quanto a todos os aspectos pedagógicos.\n\nArt. 5.º A criação e funcionamento dos centros de investigação ou institutos culturais dependerá da aprovação dos respectivos regulamentos pelo Ministro da Educação Nacional, ouvida a Junta Nacional da Educação.\n\nArt. 6.º A Universidade Católica poderá realizar cursos, conferências e outras actividades de educação permanente, designadamente de extensão universitária, que terão como finalidade principal a divulgação do pensamento cristão dentro das disciplinas nela professadas.\n\nArt. 7.º - 1. As Faculdades e institutos superiores que integram a Universidade Católica poderão atribuir, nas condições constantes dos respectivos diplomas constitutivos, os graus de bacharel, licenciado e doutor, gozando os correspondentes títulos e diplomas do mesmo valor que os das restantes Universidades portuguesas.\n\n2. A concessão de graus académicos por parte das Faculdades e institutos superiores referidos na alínea b) do n.º 1 do artigo 2.º dependerá, porém, da participação nos respectivos júris de exames, dentro das condições que vierem a ser fixadas, de elementos do corpo docente das Universidades oficiais.\n\nArt. 8.º - 1. A representação da Universidade Católica junto das autoridades públicas ficará a cargo do respectivo reitor, a quem especialmente compete velar pelo cumprimento do presente diploma.\n\n2. Todos os assuntos respeitantes à Universidade Católica que sejam submetidos ao Ministério da Educação Nacional correrão pela Direcção-Geral do Ensino Superior e das Belas-Artes.\n\nArt. 9.º O património da Universidade Católica é constituído pelos bens que directamente lhe pertencem, por todos os bens e direitos do Instituto Católico Português, que para ela se transmitem, e ainda por todos os bens que hajam sido doados ou deixados à Igreja, ou a qualquer das suas organizações ou autoridades com expressa menção de deverem ser aplicados aos fins da Universidade Católica.\n\nArt. 10.º Relativamente à aquisição e fruição dos seus bens e às actividades que exerça para a realização dos seus fins, a Universidade Católica goza de isenção de:\n\na) Impostos, contribuições ou taxas do Estado e das autarquias locais, incluindo o imposto do selo;\n\nb) Preparos, custas e imposto de justiça, em processos que corram em quaisquer tribunais em que seja parte principal, assistente ou interveniente.\n\nArt. 11.º O Ministro da Educação Nacional poderá atribuir subsídios à Universidade Católica, devendo o diploma de concessão indicar os fins a que os mesmos se destinam.\n\nArt. 12.º - 1. No que não estiver previsto pelo presente diploma a Universidade Católica reger-se-á, de harmonia com o disposto no artigo XX da Concordata de 7 de Maio de 1940, pela legislação sobre ensino particular.\n\n2. O Ministro da Educação Nacional resolverá, ouvida a Junta Nacional da Educação, as dúvidas suscitadas na execução deste diploma.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - José Veiga Simão.\n\nPromulgado em 8 de Julho de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "6102024da68f32c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Julho\n\nDe acordo com o artigo 44.º da Constituição Política, cumpre ao Estado conceder apoio ao ensino não oficial, «quando os seus programas e categoria do respectivo pessoal docente não forem inferiores aos dos estabelecimentos oficiais similares».\n\nA igreja católica pretende, nestes termos, ver definido o estatuto da Universidade cujas primeiras escolas por ela foram já fundadas no nosso país.\n\nProcura-se que as medidas constantes do presente diploma respeitem os princípios constitucionais e se mostrem adequadas ao sistema concordatário. Distinguem-se para esse efeito os estabelecimentos destinados ao ensino eclesiástico dos que têm por fim o ensino de nível superior paralelo ao do Estado. Em relação aos primeiros, limita-se este decreto-lei às referências indispensáveis, deixando à Igreja autonomia, tanto no que toca à sua organização, como ao ensino neles ministrado, de harmonia com as disposições do n.º 3 do artigo XX da Concordata. Quanto aos segundos, atende-se ao preceito do n.º 1 do mesmo artigo e adoptam-se as providências consideradas necessárias para a garantia dos princípios fundamentais do sistema educativo português, prevendo-se que venham a ser objecto de regulamentação nos respectivos diplomas constitutivos os aspectos pedagógicos e administrativos específicos de cada estabelecimento da Universidade.\n\nNestes termos, ouvida a 1.ª secção da Junta Nacional da Educação:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "c11d9158d8283f0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1990-04-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+  },
+  "0683845892ba57f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1990-04-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+  },
+  "75405e98033febe0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1990-04-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+  },
+  "bced7c4ca619b2b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1990-04-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+  },
+  "b5c39197fa2efea8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1990-04-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+  },
+  "5f6057047b907814": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1990-04-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+   ],
+   "markdown": "###### Artigo 6.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+  },
+  "f556b5074ddcd695": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1990-04-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+   ],
+   "markdown": "###### Artigo 7.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+  },
+  "eba9c7fb2d6e1436": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1990-04-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+   ],
+   "markdown": "###### Artigo 8.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+  },
+  "8f79c8fd97ce23ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1990-04-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+   ],
+   "markdown": "###### Artigo 9.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+  },
+  "87998105482c0b42": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nRelativamente à aquisição e fruição dos seus bens e às actividades que exerça para a realização dos seus fins, a Universidade Católica goza de isenção de:\n\na) Impostos, contribuições ou taxas do Estado e das autarquias locais, incluindo o imposto do selo;\n\nb) Preparos, custas e imposto de justiça, em processos que corram em quaisquer tribunais em que seja parte principal, assistente ou interveniente."
+  },
+  "11a60b8c56185dea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1990-04-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+   ],
+   "markdown": "###### Artigo 11.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+  },
+  "bfc6851302dd775c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1990-04-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17."
+   ],
+   "markdown": "###### Artigo 12.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 128/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-1990-331978), publicado em 1990-04-17.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - José Veiga Simão.\n\nPromulgado em 8 de Julho de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

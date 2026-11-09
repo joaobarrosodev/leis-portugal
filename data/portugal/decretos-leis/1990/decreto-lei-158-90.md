@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1991-07-11'
+version_history:
+  file: decreto-lei-158-90.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1990-05-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-07-11'
+    amending: pt:dre:667945:por
+    amending_title: Decreto-Lei n.º 246/91
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:59:09Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 246/91. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1990/decreto-lei-158-90.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -124,19 +139,19 @@ Assim:
 
 Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - Sempre que as entidades obrigadas à restituição de qualquer quantia recebida no âmbito das comparticipações do Fundo Social Europeu e do Estado Português não cumpram a sua obrigação no prazo estipulado, será a mesma realizada através de execução fiscal.
+###### Artigo 1.º
 
-2 - O pedido de execução fiscal referido no número anterior, a promover pelo Ministério Público em representação do Estado Português, é instruído com os seguintes documentos, que servirão de título executivo para todos os efeitos legais:
+1 - Sempre que as entidades obrigadas à restituição de qualquer quantia recebida no âmbito das comparticipações do Fundo Social Europeu e do Estado Português não cumpram a sua obrigação no prazo estipulado, será a mesma realizada através de execução fiscal.
 
-a) Cópia da notificação da decisão de aprovação do apoio financeiro em causa e da declaração da respectiva aceitação ou documento equivalente;
+2 - A execução fiscal será promovida pelos serviços competentes de justiça fiscal com base em certidão do despacho do director-geral do Departamento para os Assuntos do Fundo Social Europeu que determine a restituição e sua notificação à entidade devedora.
 
-b) Cópia das autorizações de pagamento emitidas pelo Departamento para os Assuntos do Fundo Social Europeu (DAFSE);
+3 - A representação do exequente nos tribunais tributários faz-se nos termos do disposto no artigo 42.º do Código de Processo Tributário, aprovado pelo Decreto-Lei n.º 154/91, de 23 de Abril.
 
-c) Cópia do despacho do director-geral do DAFSE que determinou a restituição;
+> Alterado pelo/a [Decreto-Lei n.º 246/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1991-667945), publicado em 1991-07-06.
 
-d) Cópia da notificação à entidade do despacho referido na alínea anterior.
+###### Artigo 2.º
 
-Art. 2.º Os créditos do DAFSE resultantes da não utilização ou aplicação indevida dos subsídios concedidos pelo Fundo Social Europeu e pelo Estado Português gozam das seguintes garantias especiais:
+Os créditos do DAFSE resultantes da não utilização ou aplicação indevida dos subsídios concedidos pelo Fundo Social Europeu e pelo Estado Português gozam das seguintes garantias especiais:
 
 a) Privilégio mobiliário geral, graduando-se logo após os créditos referidos na alínea a) do n.º 1 do artigo 747.º do Código Civil;
 
@@ -144,7 +159,9 @@ b) Privilégio imobiliário, graduando-se logo após os créditos referidos no a
 
 c) Hipoteca legal, graduando-se nos mesmos termos dos créditos referidos na alínea a) do artigo 705.º do Código Civil.
 
-Art. 3.º O presente diploma aplica-se às reposições pendentes no momento da sua entrada em vigor.
+###### Artigo 3.º
+
+O presente diploma aplica-se às reposições pendentes no momento da sua entrada em vigor.
 
 Visto e aprovado em Conselho de Ministros de 29 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Álvaro José Brilhante Laborinho Lúcio - José Albino da Silva Peneda.
 

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-08-19'
+version_history:
+  file: decreto-lei-45362.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-11-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-08-19'
+    amending: pt:dre:397481:por
+    amending_title: Decreto-Lei n.º 334/82
+    changes:
+    - Altera Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:47:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 334/82. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1963/decreto-lei-45362.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -121,31 +136,55 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Os corpos administrativos poderão ser autorizados pelo Ministro do Interior, ouvida a Direcção-Geral do Ensino Superior e das Belas-Artes, a inutilizar os originais dos documentos que, por lei ou por instruções da Direcção-Geral de Administração Política e Civil, devam manter-se arquivados, desde que procedam à respectiva microfilmagem.
+###### Artigo 1.º
+
+Os corpos administrativos poderão ser autorizados pelo Ministro do Interior, ouvida a Direcção-Geral do Ensino Superior e das Belas-Artes, a inutilizar os originais dos documentos que, por lei ou por instruções da Direcção-Geral de Administração Política e Civil, devam manter-se arquivados, desde que procedam à respectiva microfilmagem.
 
 As fotocópias, autenticadas com o selo branco e assinatura do responsável pelo serviço, substituirão, para todos os efeitos, as certidões dos originais que foram inutilizados após a microfilmagem.
 
-Art. 2.º Os pagamentos nas tesourarias das câmaras municipais, até ao relaxe, provenientes de impostos ou outros rendimentos municipais poderão efectuar-se em moeda corrente, por vales de correio ou por cheque da Caixa Geral de Depósitos, Crédito e Previdência, ou pela mesma Caixa visado, de harmonia com o disposto no [Decreto-Lei n.º 32677](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32677-1943-594102) e do [Decreto n.º 32678](https://diariodarepublica.pt/dr/detalhe/decreto/32678-1943-594103), ambos de 20 de Fevereiro de 1943.
+###### Artigo 2.º
+
+Os pagamentos nas tesourarias das câmaras municipais, até ao relaxe, provenientes de impostos ou outros rendimentos municipais poderão efectuar-se em moeda corrente, por vales de correio ou por cheque da Caixa Geral de Depósitos, Crédito e Previdência, ou pela mesma Caixa visado, de harmonia com o disposto no [Decreto-Lei n.º 32677](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32677-1943-594102) e do [Decreto n.º 32678](https://diariodarepublica.pt/dr/detalhe/decreto/32678-1943-594103), ambos de 20 de Fevereiro de 1943.
 
 § 1.º Os cheques serão passados ou endossados à ordem do tesoureiro da câmara à qual tenha de efectuar-se o pagamento, devendo os cheques visados conter a sobrecarga «Pagamento de dívidas às câmaras municipais».
 
 § 2.º Todos os cheques recebidos nas tesourarias das câmaras para os fins previstos neste artigo serão obrigatòriamente depositados, nos termos do artigo 699.º do Código Administrativo.
 
-Art. 3.º As actas das reuniões do corpos administrativos, do conselho municipal e do conselho distrital poderão ser aprovadas, em minuta, na reunião seguinte, sempre que não seja possível lavrá-las antecipadamente no respectivo livro.
+###### Artigo 3.º
 
-Art. 4.º Poderá ser dispensada a leitura das actas das reuniões ou das respectivas minutas desde que o seu texto haja sido prèviamente distribuído por todos os que participaram nas reuniões e nesse sentido for deliberado.
+As actas das reuniões do corpos administrativos, do conselho municipal e do conselho distrital poderão ser aprovadas, em minuta, na reunião seguinte, sempre que não seja possível lavrá-las antecipadamente no respectivo livro.
 
-Art. 5.º Os planos anuais de actividade, as bases dos orçamentos ordinários, os orçamentos, as contas e o relatório de gerência das câmaras municipais e das juntas distritais poderão deixar de ser transcritos nas actas das reuniões em que forem apreciados, discutidos e votados desde que os originais sejam assinados pelos membros presentes do corpo administrativo, do conselho municipal ou do conselho do distrito, conforme os casos, e por eles rubricados em todas as folhas, sendo depois arquivados em pasta anexa ao respectivo livro de actas.
+###### Artigo 4.º
 
-Art. 6.º A participação do chefe de secretaria da câmara no adicional a que se refere o § 3.º do artigo 746.º do Código Administrativo fica sujeita, relativamente aos processos julgados em cada ano, ao limite correspondente ao respectivo ordenado anual, revertendo o excesso para o cofre municipal.
+Poderá ser dispensada a leitura das actas das reuniões ou das respectivas minutas desde que o seu texto haja sido prèviamente distribuído por todos os que participaram nas reuniões e nesse sentido for deliberado.
 
-Art. 7.º É lícito aos corpos administrativos conceder fardamentos ou resguardos ao pessoal menor, especializado e operário, em termos idênticos aos prescritos para os serviços do Estado.
+###### Artigo 5.º
 
-Art. 8.º É permitido aos corpos administrativos, sem prejuízo do disposto no artigo 676.º do Código Administrativo, instituir obras de carácter social e cultural em benefício dos seus servidores, bem como subsidiar instituições por estes fundadas que tenham aquele carácter.
+1 - Os planos anuais de actividades, os orçamentos, as contas e os relatórios de gerência das câmaras municipais, assembleias distritais e juntas de freguesia, assim como os regimentos dos órgãos deliberativos das autarquias locais, poderão deixar de ser transcritos nas actas das reuniões em que forem apreciados e aprovados, desde que os originais sejam assinados pelos membros presentes e por eles rubricados em todas as folhas, sendo depois arquivados em pasta anexa ao respectivo livro de actas.
 
-Art. 9.º As câmaras municipais são autorizadas a adquirir ou construir casas destinadas a habitação dos seus funcionários ou assalariados, bem como dos das juntas distritais, nos termos e segundo o regime estabelecido pelo [Decreto-Lei n.º 42951](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42951-1960-281452), de 27 de Abril de 1960, sendo a competência e os direitos conferidos por este diploma ao Ministro das Finanças e à Caixa Geral de Depósitos, Crédito e Previdência exercidos, respectivamente, pelo Ministro do Interior e pela câmara municipal.
+2 - O disposto no número anterior aplica-se ainda às posturas e regulamentos que forem aprovados pelos órgãos deliberativos das autarquias locais, sem prejuízo da respectiva publicação nos termos legais.
 
-Art. 10.º O § 2.º do artigo 463.º do Código Administrativo passa a ter a seguinte redacção:
+> Alterado pelo/a [Decreto-Lei n.º 334/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1982-397481), publicado em 1982-08-19.
+
+###### Artigo 6.º
+
+A participação do chefe de secretaria da câmara no adicional a que se refere o § 3.º do artigo 746.º do Código Administrativo fica sujeita, relativamente aos processos julgados em cada ano, ao limite correspondente ao respectivo ordenado anual, revertendo o excesso para o cofre municipal.
+
+###### Artigo 7.º
+
+É lícito aos corpos administrativos conceder fardamentos ou resguardos ao pessoal menor, especializado e operário, em termos idênticos aos prescritos para os serviços do Estado.
+
+###### Artigo 8.º
+
+É permitido aos corpos administrativos, sem prejuízo do disposto no artigo 676.º do Código Administrativo, instituir obras de carácter social e cultural em benefício dos seus servidores, bem como subsidiar instituições por estes fundadas que tenham aquele carácter.
+
+###### Artigo 9.º
+
+As câmaras municipais são autorizadas a adquirir ou construir casas destinadas a habitação dos seus funcionários ou assalariados, bem como dos das juntas distritais, nos termos e segundo o regime estabelecido pelo [Decreto-Lei n.º 42951](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42951-1960-281452), de 27 de Abril de 1960, sendo a competência e os direitos conferidos por este diploma ao Ministro das Finanças e à Caixa Geral de Depósitos, Crédito e Previdência exercidos, respectivamente, pelo Ministro do Interior e pela câmara municipal.
+
+###### Artigo 10.º
+
+O § 2.º do artigo 463.º do Código Administrativo passa a ter a seguinte redacção:
 
 § 2.º O período de validade dos concursos é de três anos, contados da data da publicação dos resultados no Diário do Governo.
 

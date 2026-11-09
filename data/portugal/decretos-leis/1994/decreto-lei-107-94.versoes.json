@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:265561:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-04-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "93a2e917a545cc8a"
+   ]
+  },
+  {
+   "date": "1995-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:668116:por",
+     "title": "Decreto-Lei n.º 281/95",
+     "published": "1995-10-26",
+     "dre_path": "/dr/detalhe/decreto-lei/281-1995-668116"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "42486ce6ae31c669",
+    "449b252ec61e5015",
+    "1fe0d7596a678eac",
+    "6b19f9b3433f09c1",
+    "4612503df47ebc54",
+    "33022c0e9dd16790",
+    "5cb41042a505d46b",
+    "f564854847aaa1ef"
+   ]
+  }
+ ],
+ "fragments": {
+  "93a2e917a545cc8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril\n\nA regularização do processo de extinção do Grémio dos Armadores da Pesca do Arrasto (GAPA), bem como de todas as suas secções, designadamente o Serviço de Abastecimento de Peixe ao País, tornou-se inadiável.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º - 1 - Com a entrada em vigor do presente diploma dá-se como extinto o Grémio dos Armadores da Pesca do Arrasto (GAPA), bem como todas as suas secções.\n\n2 - A personalidade jurídica do GAPA cessa com o efectivo cancelamento do registo.\n\nArt. 2.º Todo o património do GAPA transita para a Direcção-Geral do Tesouro.\n\nArt. 3.º - 1 - As contas de liquidação do GAPA, a apresentar pela comissão liquidatária, serão aprovadas até 31 de Dezembro de 1994, por despacho conjunto dos Ministros das Finanças e do Mar.\n\n2 - É fixado em um mês, contado da data da entrada em vigor do presente diploma, o prazo durante o qual os credores do GAPA residentes no País podem reclamar os seus créditos, sendo tal prazo, para os credores não residentes no País, de três meses.\n\nArt. 4.º O pagamento dos débitos do GAPA, apurados e comunicados pela respectiva comissão liquidatária, será efectuado pela Direcção-Geral do Tesouro.\n\nArt. 5.º - 1 - A extinção do GAPA, operada pelo presente diploma, implica a cessação da contagem de quaisquer juros remuneratórios ou moratórios por dívidas por ele contraídas.\n\n2 - A extinção da secção do GAPA Serviço de Abastecimento de Peixe ao País obedece ao regime previsto no presente diploma.\n\nArt. 6.º É revogado o n.º 2 do artigo 4.º do [Decreto-Lei n.º 240/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1974-622873), de 5 de Junho, com a redacção dada pelo artigo único do [Decreto-Lei n.º 237/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1981-577092), de 6 de Agosto.\n\nArt. 7.º O presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 10 de Março de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Eduardo Eugénio Castro de Azevedo Soares.\n\nPromulgado em 31 de Março de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 6 de Abril de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "42486ce6ae31c669": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril\n\nA regularização do processo de extinção do Grémio dos Armadores da Pesca do Arrasto (GAPA), bem como de todas as suas secções, designadamente o Serviço de Abastecimento de Peixe ao País, tornou-se inadiável.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "449b252ec61e5015": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - Com a entrada em vigor do presente diploma dá-se como extinto o Grémio dos Armadores da Pesca do Arrasto (GAPA), bem como todas as suas secções.\n\n2 - A personalidade jurídica do GAPA cessa com o efectivo cancelamento do registo."
+  },
+  "1fe0d7596a678eac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nTodo o património do GAPA transita para a Direcção-Geral do Tesouro."
+  },
+  "6b19f9b3433f09c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1995-10-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 281/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1995-668116), publicado em 1995-10-26."
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - As contas de liquidação do GAPA, a apresentar pela comissão liquidatária, serão aprovadas até 31 de Dezembro de 1995, por despacho conjunto dos Ministros das Finanças e do Mar.\n\n2 - É fixado em um mês, contado da data da entrada em vigor do presente diploma, o prazo durante o qual os credores do GAPA residentes no País podem reclamar os seus créditos, sendo tal prazo, para os credores não residentes no País, de três meses.\n\n> Alterado pelo/a [Decreto-Lei n.º 281/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1995-668116), publicado em 1995-10-26."
+  },
+  "4612503df47ebc54": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO pagamento dos débitos do GAPA, apurados e comunicados pela respectiva comissão liquidatária, será efectuado pela Direcção-Geral do Tesouro."
+  },
+  "33022c0e9dd16790": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - A extinção do GAPA, operada pelo presente diploma, implica a cessação da contagem de quaisquer juros remuneratórios ou moratórios por dívidas por ele contraídas.\n\n2 - A extinção da secção do GAPA Serviço de Abastecimento de Peixe ao País obedece ao regime previsto no presente diploma."
+  },
+  "5cb41042a505d46b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nÉ revogado o n.º 2 do artigo 4.º do [Decreto-Lei n.º 240/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1974-622873), de 5 de Junho, com a redacção dada pelo artigo único do [Decreto-Lei n.º 237/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-1981-577092), de 6 de Agosto."
+  },
+  "f564854847aaa1ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 10 de Março de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Eduardo Eugénio Castro de Azevedo Soares.\n\nPromulgado em 31 de Março de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 6 de Abril de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

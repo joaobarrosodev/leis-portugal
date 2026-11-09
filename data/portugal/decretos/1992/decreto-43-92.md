@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-06-17'
+version_history:
+  file: decreto-43-92.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1992-10-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-06-17'
+    amending: pt:dre:639133:por
+    amending_title: Decreto n.º 11/2007
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec/43/1992/10/14/p/dre/pt/html
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:05:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 11/2007. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1992/decreto-43-92.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -127,15 +142,23 @@ Assim:
 
 Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
 
-Artigo 1.º - 1 - É excluída do regime florestal parcial, a que foi submetida pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917, uma parcela de terreno do perímetro florestal das dunas de Mira, com a área de 3 ha, conforme demarcação na planta em anexo ao presente diploma, do qual faz parte integrante.
+###### Artigo 1.º
 
-2 - A parcela de terreno referida no número anterior pertence à Câmara Municipal de Mira e destina-se à instalação de um centro de dia para idosos, no âmbito das acções desenvolvidas pela Associação de Idosos do Seixo.
+1 - É excluída do regime florestal parcial, a que foi submetida pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917, uma parcela de terreno do perímetro florestal das dunas de Mira, com a área de 3 ha, conforme demarcação na planta em anexo ao presente diploma, do qual faz parte integrante.
+
+2 - A parcela de terreno referida no número anterior pertence à Câmara Municipal de Mira e destina-se à instalação de um centro de dia e lar para idosos, infra-estruturas de apoio à infância e cuidados de saúde, no âmbito das acções desenvolvidas pelo Centro Social Paroquial do Seixo de Mira.
 
 3 - Caso não venha a concretizar-se o uso referido no número anterior, a área em causa será novamente integrada no perímetro florestal das dunas de Mira.
 
-Art. 2.º O arvoredo a abater será o mínimo indispensável às infra-estruturas a instalar, sendo a sua comercialização feita pela Direcção-Geral das Florestas e a respectiva receita distribuída nos termos legais.
+> Alterado pelo/a [Decreto n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto/11-2007-639133), publicado em 2007-06-12.
 
-Art. 3.º A entrega da parcela só será efectivada depois de a Câmara Municipal de Mira proceder à respectiva demarcação, de acordo com orientações técnicas da Direcção-Geral das Florestas.
+###### Artigo 2.º
+
+O arvoredo a abater será o mínimo indispensável às infra-estruturas a instalar, sendo a sua comercialização feita pela Direcção-Geral das Florestas e a respectiva receita distribuída nos termos legais.
+
+###### Artigo 3.º
+
+A entrega da parcela só será efectivada depois de a Câmara Municipal de Mira proceder à respectiva demarcação, de acordo com orientações técnicas da Direcção-Geral das Florestas.
 
 Presidência do Conselho de Ministros, 14 de Agosto de 1992.
 

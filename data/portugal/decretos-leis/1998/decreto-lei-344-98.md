@@ -38,10 +38,55 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2007-04-01'
+version_history:
+  file: decreto-lei-344-98.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1998-11-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-04-01'
+    amending: pt:dre:520433:por
+    amending_title: Decreto-Lei n.º 80/2007
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Altera Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/344/1998/11/06/p/dre/pt/html
@@ -67,7 +112,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T02:02:07Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 80/2007. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1998/decreto-lei-344-98.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -150,415 +196,205 @@ O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 198.º da Consti
 
 ###### Artigo 1.º — Natureza e missão
 
-1 - A Direcção-Geral do Orçamento, abreviadamente designada por DGO, é o serviço do Ministério das Finanças, integrado na administração directa do Estado, dotado de autonomia administrativa, que tem por missão superintender na elaboração e controlo da execução do Orçamento do Estado, na contabilidade pública e no controlo da legalidade, regularidade e economia da administração financeira do Estado.
+(Revogado.)
 
-2 - A DGO integra-se no sistema de controlo interno da administração financeira do Estado.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 2.º — Âmbito de intervenção
 
-1 - Para a prossecução da sua missão, cabe especialmente à DGO:
+(Revogado.)
 
-a) Preparar o Orçamento do Estado;
-
-b) Elaborar a Conta Geral do Estado;
-
-c) Analisar, acompanhar e controlar a execução orçamental;
-
-d) Propor orientações para o desempenho da política orçamental;
-
-e) Centralizar e coordenar a escrituração e a contabilização das receitas e despesas públicas, das operações do Tesouro e das transferências de fundos;
-
-f) Colaborar na definição das regras e procedimentos necessários à elaboração do balanço do Estado;
-
-g) Coordenar o sistema de gestão e informação orçamental;
-
-h) Elaborar as contas do sector público administrativo;
-
-i) Realizar auditorias internas no âmbito da administração financeira do Estado;
-
-j) Elaborar o quadro plurianual do Orçamento do Estado;
-
-l) Manter actualizado um quadro previsional da evolução das contas orçamentais do sector público administrativo;
-
-m) Preparar os projectos de diploma de execução orçamental e instruções para o seu cumprimento;
-
-n) Liquidar as despesas e autorizar o seu pagamento;
-
-o) Analisar e decidir sobre os pedidos de libertação de créditos e conferir a autorização prevista no n.º 2 do artigo 19.º do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de Julho;
-
-p) Elaborar pareceres sobre os projectos de diplomas que impliquem despesas públicas;
-
-q) Produzir e difundir informação respeitante à execução orçamental e às matérias relativas às finanças públicas;
-
-r) Assegurar a participação, em articulação com o Ministério dos Negócios Estrangeiros, no âmbito das matérias respeitantes às suas atribuições, nos trabalhos dos organismos internacionais, nomeadamente na Organização para a Cooperação e Desenvolvimento Económico (OCDE) e na União Europeia (UE);
-
-s) Assegurar, no âmbito da elaboração do Orçamento do Estado, da contabilidade pública e da conta do sector público administrativo, a aplicação de metodologias que permitam procedimentos coerentes e o tratamento agregado da informação;
-
-t) Prestar apoio e consulta aos serviços e organismos da Administração Pública, no âmbito das atribuições referidas nas alíneas anteriores;
-
-u) Recolher e tratar a informação de carácter financeiro relativa ao conjunto do sector público administrativo e promover e publicar os apuramentos estatísticos, em colaboração com o Instituto Nacional de Estatística;
-
-v) Exercer outras funções que lhe sejam atribuídas por lei.
-
-2 - A acção da DGO exerce-se, no âmbito do sector público administrativo, sobre todos os serviços e organismos da administração central, independentemente do seu grau de autonomia.
-
-3 - A acção da DGO exerce-se ainda sobre as restantes entidades do sector público administrativo no que se refere à recolha e tratamento da informação de natureza financeira a elas respeitante.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 3.º — Auditoria e dever de cooperação
 
-1 - A auditoria a efectuar pela DGO exerce-se no âmbito da gestão financeira dos serviços e organismos referidos no n.º 2 do artigo 2.º, verificando a sua regularidade, a legalidade na realização das despesas públicas, o cumprimento das instruções sobre execução orçamental e a economia no uso de dinheiros públicos e promovendo, com uma acção pedagógica, o seu constante aperfeiçoamento.
+(Revogado.)
 
-2 - Todos os serviços e organismos e, em especial, os seus órgãos de controlo interno e os órgãos de fiscalização existentes nos ministérios e departamentos ministeriais devem cooperar estreitamente com a DGO para a cabal realização dos objectivos referidos no número anterior.
-
-3 - A DGO pode verificar e requisitar todos os processos e documentos relativos à gestão dos serviços e organismos referidos no n.º 2 do artigo 2.º
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ### CAPÍTULO II — Órgãos e serviços
 
 ###### Artigo 4.º — Órgãos e serviços
 
-A DGO dispõe dos seguintes órgãos e serviços:
+(Revogado.)
 
-a) Órgãos de direcção;
-
-b) Serviços centrais;
-
-c) Delegações.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 5.º — Direcção
 
-A DGO é dirigida por um director-geral, coadjuvado por cinco subdirectores-gerais.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 6.º — Serviços centrais
 
-1 - Os serviços centrais são os seguintes:
+(Revogado.)
 
-a) Direcção de Serviços do Orçamento;
-
-b) Direcção de Serviços da Conta;
-
-c) Direcção de Serviços de Auditoria;
-
-d) Direcção de Serviços de Gestão da Informação Orçamental;
-
-e) Direcção de Serviços de Informática;
-
-f) Consultadoria Jurídica;
-
-g) Gabinete de Estudos de Finanças Públicas;
-
-h) Direcção de Serviços de Gestão de Recursos Humanos;
-
-i) Direcção de Serviços de Administração.
-
-2 - Os serviços centrais poderão ser estruturados por divisões, com os limites decorrentes das dotações do quadro de pessoal, a definir por despacho do Ministro das Finanças, sob proposta do director-geral.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 7.º — Direcção de Serviços do Orçamento
 
-À Direcção de Serviços do Orçamento incumbe:
+(Revogado.)
 
-a) Coordenar a preparação do Orçamento do Estado e propor as necessárias orientações;
-
-b) Participar na elaboração da proposta de lei do Orçamento e dos projectos de diplomas de execução orçamental e instruções necessários para o efeito;
-
-c) Acompanhar a execução do Orçamento e tratar a informação contida no sistema de informação de gestão orçamental;
-
-d) Pronunciar-se, sempre que necessário, sobre projectos de diplomas que envolvam despesas públicas;
-
-e) Coordenar, actualizar e normalizar o sistema de classificação das despesas públicas e difundir os critérios que devem presidir a essa classificação;
-
-f) Assegurar a elaboração do boletim mensal da DGO.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 8.º — Direcção de Serviços da Conta
 
-À Direcção de Serviços da Conta incumbe:
+(Revogado.)
 
-a) Elaborar a Conta Geral do Estado;
-
-b) Colaborar na elaboração do balanço do Estado;
-
-c) Coordenar e supervisionar a contabilização das receitas orçamentais, dos fundos saídos para pagamento das despesas públicas orçamentais e do movimento das operações do Tesouro e transferências de fundos, bem como a organização das contas correntes indispensáveis ao controlo dessas operações;
-
-d) Pronunciar-se, sempre que necessário, sobre projectos de diplomas que envolvam receitas públicas;
-
-e) Dar parecer sobre alterações de rubricas de operações do Tesouro;
-
-f) Coordenar, actualizar e normalizar o sistema de classificação das receitas públicas e difundir os critérios que devem presidir a essa classificação;
-
-g) Coordenar e supervisionar a contabilização dos recursos provenientes dos fundos comunitários destinados ao financiamento de programas e acções no âmbito do sector público administrativo.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 9.º — Direcção de Serviços de Auditoria
 
-À Direcção de Serviços de Auditoria incumbe:
+(Revogado.)
 
-a) Propor o plano anual das auditorias a realizar;
-
-b) Promover e coordenar a realização de acções das auditorias que sejam determinadas;
-
-c) Assegurar, em colaboração com outros organismos do Ministério, a eficiência e complementaridade dos controlos da administração financeira do Estado;
-
-d) Propor as orientações necessárias nas matérias das suas competências;
-
-e) Elaborar instruções tendentes à adopção de critérios uniformes do cumprimento das disposições legais sobre despesas públicas, a incluir em circulares normativas, e elaborar um manual de auditoria.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 10.º — Direcção de Serviços de Gestão da Informação Orçamental
 
-À Direcção de Serviços de Gestão da Informação Orçamental incumbe:
+(Revogado.)
 
-a) Gerir o sistema de informação de gestão orçamental;
-
-b) Promover a normalização da informação;
-
-c) Identificar e promover o desenvolvimento e manutenção das aplicações informáticas de interesse para a DGO;
-
-d) Assegurar as funções de administração de dados e de base de dados;
-
-e) Assegurar a articulação com o Instituto de Informática no que respeita ao desenvolvimento e manutenção das aplicações informáticas de suporte ao sistema de gestão e informação orçamental, residentes no Instituto ou por ele desenvolvidas;
-
-f) Definir normas de realização de auditorias às aplicações informáticas e aos sistemas de informação e promover a realização dessas auditorias;
-
-g) Coordenar as acções de implementação das aplicações de suporte aos sistemas de informação contabilística que respeitam à administração financeira do Estado;
-
-h) Promover a avaliação sistemática das aplicações informáticas e a sua adequação aos novos modelos de gestão e organização;
-
-i) Verificar a conformidade dos procedimentos de segurança e protecção das bases de dados dos serviços e organismos da administração financeira do Estado;
-
-j) Promover acções de divulgação dos sistemas de informação contabilística de apoio à reforma da administração financeira do Estado.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 11.º — Direcção de Serviços de Informática
 
-À Direcção de Serviços de Informática incumbe:
+(Revogado.)
 
-a) Definir e aplicar as normas e procedimentos necessários à segurança, integridade física e confidencialidade da informação residente em suportes informáticos;
-
-b) Gerir e assegurar a manutenção do equipamento informático e de telecomunicações;
-
-c) Manter actualizado o cadastro central de equipamento e software informático;
-
-d) Apoiar os serviços internos na utilização do equipamento e suporte lógico de uso individual, bem como dos sistemas de comunicação;
-
-e) Definir as regras a que devem obedecer as configurações dos equipamentos e o respectivo uso;
-
-f) Explorar as aplicações informáticas a serem desenvolvidas interna ou externamente, nomeadamente pelo Instituto de Informática.
-
-g) Assegurar a ligação ao Instituto de Informática no que respeita ao suporte informático e de comunicações.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 12.º — Consultadoria Jurídica
 
-À Consultadoria Jurídica incumbe:
+(Revogado.)
 
-a) Elaborar estudos, pareceres e informações de carácter jurídico, por determinação dos membros do Governo ou do director-geral;
-
-b) Assegurar a elaboração jurídica dos projectos de diplomas legais e regulamentares em matéria de administração financeira do Estado;
-
-c) Intervir na elaboração jurídica da proposta de lei anual do Orçamento do Estado e nos projectos de decreto-lei de execução orçamental, bem como dos outros diplomas necessários para o efeito;
-
-d) Assegurar a coordenação do contencioso da DGO.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 13.º — Gabinete de Estudos de Finanças Públicas
 
-Ao Gabinete de Estudos de Finanças Públicas incumbe:
+(Revogado.)
 
-a) Realizar estudos de base no domínio das finanças públicas, visando, designadamente, o suporte necessário à gestão orçamental e à preparação dos programas e políticas orçamentais e das contas públicas;
-
-b) Efectuar a análise económica e financeira da gestão orçamental;
-
-c) Manter actualizado um quadro previsional da evolução das contas orçamentais do sector público administrativo;
-
-d) Elaborar as necessárias estatísticas orçamentais,
-
-e) Colaborar com o Instituto Nacional de Estatística na elaboração das estatísticas e das contas nacionais do sector público;
-
-f) Preparar as estatísticas das finanças públicas a fornecer a organismos internacionais;
-
-g) Organizar as contas consolidadas do sector público administrativo.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 14.º — Direcção de Serviços de Gestão de Recursos Humanos
 
-À Direcção de Serviços de Gestão de Recursos Humanos incumbe:
+(Revogado.)
 
-a) Assegurar a gestão dos recursos humanos, promovendo, nomeadamente, o recrutamento e a selecção do pessoal, de acordo com os princípios de uma adequada gestão previsional;
-
-b) Proceder ao diagnóstico das necessidades de formação, elaborar o respectivo plano anual e organizar e assegurar a formação interna, em articulação com o Centro de Formação da Secretaria-Geral do Ministério das Finanças, e promover a formação externa do pessoal da DGO, tendo em conta a dinâmica das carreiras e a eficiência dos serviços;
-
-c) Promover a organização das acções de formação no âmbito da implementação da reforma da administração financeira do Estado,
-
-d) Propor as medidas necessárias para a adequação do pessoal às competências dos serviços;
-
-e) Emitir pareceres sobre projectos de diplomas relativos à definição da política de recursos humanos da Administração Pública;
-
-f) Elaborar o balanço social da DGO;
-
-g) Promover a edição das publicações adequadas.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 15.º — Direcção de Serviços de Administração
 
-À Direcção de Serviços de Administração incumbe:
+(Revogado.)
 
-a) Assegurar os procedimentos administrativos dos processos respeitantes à gestão do pessoal da DGO;
-
-b) Elaborar o projecto de orçamento e a conta de gerência da DGO;
-
-c) Efectuar a gestão económica, financeira e patrimonial, promovendo a aquisição dos bens e serviços necessários e a autorização das despesas e do respectivo pagamento;
-
-d) Assegurar a conservação e melhor aproveitamento das instalações e adoptar as medidas adequadas à segurança do pessoal e das instalações;
-
-e) Executar as operações de microfilmagem que se revelem necessárias;
-
-f) Assegurar o serviço de reprografia, incluindo a impressão e a expedição das circulares e outros documentos a divulgar pela DGO;
-
-g) Efectuar o serviço de arquivo geral;
-
-h) Assegurar outras tarefas de apoio geral.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 16.º — Direcção dos serviços centrais
 
-Os serviços centrais previstos no artigo 6.º são dirigidos pelo pessoal dirigente a que se refere o artigo 20.º
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 17.º — Delegações
 
-1 - De acordo com o âmbito de actuação previsto no n.º 2 do artigo 2.º, a DGO dispõe de delegações com competência nas áreas abrangidas pelos ministérios, incluindo os serviços e fundos autónomos sob a sua tutela.
+(Revogado.)
 
-2 - A criação e o ordenamento das delegações previstas no número anterior serão efectuados por despacho do Ministro das Finanças, sob proposta do director-geral.
-
-3 - As delegações poderão ser estruturadas por divisões, competindo a respectiva definição e distribuição ao Ministro das Finanças, sob proposta do director-geral.
-
-4 - Às delegações incumbe, especialmente, o seguinte:
-
-a) Colaborar na preparação do Orçamento do Estado, acompanhando a elaboração dos projectos referentes aos respectivos ministérios e departamentos ministeriais e propondo e divulgando as necessárias orientações;
-
-b) Participar na elaboração da proposta de lei do Orçamento do Estado e na elaboração do projecto de decreto-lei de execução orçamental e outros diplomas necessários para o efeito;
-
-c) Analisar projectos de diploma que envolvam matéria orçamental;
-
-d) Analisar ou propor as alterações orçamentais que devam ser submetidas a autorização superior;
-
-e) Colaborar na elaboração da Conta Geral do Estado;
-
-f) Acompanhar a execução orçamental de todos os serviços e organismos integrados no respectivo ministério e realizar as necessárias operações contabilísticas;
-
-g) Propor as auditorias que se revelem necessárias;
-
-h) Realizar ou participar em auditorias que venham a ser determinadas pelo Ministro das Finanças ou pelo director-geral;
-
-i) Analisar e autorizar os pedidos de libertação de créditos e conferir a autorização prevista no n.º 2 do artigo 19.º do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de Julho;
-
-j) Efectuar o controlo financeiro dos programas e projectos orçamentais;
-
-k) Implementar a reforma da administração financeira do Estado, no âmbito dos respectivos ministérios;
-
-l) Assegurar a coerência da informação contabilística existente nos sistemas centrais e locais.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 18.º — Direcção das delegações
 
-As delegações referidas no artigo 17.º são dirigidas por directores de contabilidade e as divisões por chefes de divisão de contabilidade.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ### CAPÍTULO III — Pessoal
 
 ###### Artigo 19.º — Quadro de pessoal
 
-1 - A DGO dispõe do quadro de pessoal dirigente constante no mapa anexo ao presente diploma, que dele faz parte integrante.
+(Revogado.)
 
-2 - O quadro do restante pessoal da DGO é aprovado por portaria conjunta do Ministro das Finanças e do membro do Governo que tiver a seu cargo a Administração Pública, sendo estruturado por grupos de pessoal, por carreiras e por categorias.
-
-3 - No quadro referido no número anterior, o número de lugares de subdirector de contabilidade será permanentemente acrescido do número de lugares correspondentes aos dos subdirectores de contabilidade nomeados, em comissão de serviço, como chefes de divisão de contabilidade e directores de contabilidade.
-
-4 - A distribuição do pessoal pelos serviços centrais e pelas delegações é da competência do director-geral.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 20.º — Pessoal dirigente
 
-1 - O pessoal dirigente rege-se pelo disposto na legislação geral aplicável e, sem prejuízo dela, pelas especificidades constantes do presente diploma.
+1 - (Revogado.)
 
-2 - O cargo de director de contabilidade é equiparado a director de serviços e o cargo de chefe de divisão de contabilidade a chefe de divisão.
+2 - (Revogado.)
 
 3 - O recrutamento para os cargos referidos no número anterior pode também ser feito de entre subdirectores de contabilidade.
 
+> Alterado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
+
 ###### Artigo 21.º — Competências dos dirigentes e restante pessoal
 
-As competências dos dirigentes e restante pessoal da DGO são reguladas nos termos da lei geral, com as adaptações conformes às atribuições e competências específicas da DGO.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 22.º — Exercício conjunto de funções
 
-1 - Os directores de contabilidade podem exercer conjuntamente as suas funções em mais de um dos serviços centrais ou delegações de contabilidade, mediante determinação do director-geral e quando as necessidades de serviço o imponham.
+(Revogado.)
 
-2 - Os chefes de divisão de contabilidade podem exercer conjuntamente as suas funções em mais de uma divisão dentro de cada serviço central ou delegação, mediante determinação do respectivo director e quando as necessidades de serviço o imponham.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 23.º — Formação interna e externa
 
-O director-geral pode designar funcionários para, na qualidade de monitores e mediante o seu acordo prévio, ministrarem cursos de formação interna, em articulação com o Centro de Formação da Secretaria-Geral do Ministério das Finanças, e externa, no âmbito das atribuições da DGO, incluindo a formação a realizar ao abrigo de protocolos que venham a ser acordados com outras instituições.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 24.º — Deveres e responsabilidades em especial
 
-Além dos deveres gerais inerentes a todo o pessoal da função pública, devem ainda os funcionários da DGO:
+(Revogado.)
 
-a) Velar pelo cumprimento das normas de administração financeira do Estado e sua correcta aplicação, tomando as providências que estiverem nos limites da sua competência na defesa do interesse público, designadamente quanto às actividades geradoras de receitas e de despesas;
-
-b) Guardar sigilo profissional, não podendo, nomeadamente, revelar quaisquer elementos que não sejam objecto de publicação da DGO.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 25.º — Condições do desempenho de funções
 
-1 - O director-geral, os subdirectores-gerais e os directores de contabilidade podem corresponder-se directamente, no desempenho das suas funções, com quaisquer entidades e serviços, civis e militares, dentro e fora do território nacional.
+(Revogado.)
 
-2 - O pessoal da DGO, quando em serviço e sempre que necessário ao desempenho das suas funções, para além de outros direitos previstos na lei geral, tem direito a:
-
-a) Utilização de instalações adequadas ao exercício das suas funções e colaboração de todas as pessoas que integram as entidades que são objecto da intervenção da DGO;
-
-b) Ingresso e trânsito livre em quaisquer locais públicos, mediante a simples exibição do respectivo cartão de identificação profissional;
-
-3 - O pessoal da DGO, quando no exercício das suas funções de auditoria e na medida em que tal se torne necessário, tem direito a:
-
-a) Livre acesso a todos os serviços e dependências das entidades que são objecto da intervenção da DGO;
-
-b) Requisição às autoridades policiais da colaboração que se mostre necessária ao exercício das funções, designadamente em caso de resistência a esse exercício.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 26.º — Coordenação de actividades
 
-1 - Para o desempenho de acções específicas de auditoria interna ou para a realização de trabalhos excepcionais de natureza transitória, devidamente fundamentados e autorizados pelo membro do Governo competente, poderão ser constituídas na DGO, por despacho do director-geral, equipas de trabalho.
+(Revogado.)
 
-2 - No despacho referido no número anterior serão dados os objectivos das equipas, bem como a sua composição e duração.
-
-3 - Os funcionários designados para a chefia das equipas terão um acréscimo salarial correspondente a 30 pontos indiciários, a adicionar ao índice detido, até ao limite da remuneração de chefe de divisão.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
 ###### Artigo 27.º — Concursos a decorrer
 
-Os concursos a decorrer no quadro da DGO mantêm-se até ao termo do prazo da respectiva validade.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 28.º — Transição de pessoal
 
-1 - A transição do pessoal da DGO far-se-á por despacho do Ministro das Finanças, aplicando-se as seguintes regras, sem prejuízo da manutenção dos regimes de estágio que estejam em curso:
+(Revogado.)
 
-a) Para a mesma carreira, categoria e escalão que o pessoal já possui;
-
-b) Com a observância das habilitações legais, para a carreira e categoria que integram as funções que efectivamente o funcionário desempenha, em escalão a que corresponda o mesmo índice remuneratório ou, quando não se verifique coincidência de índice, em escalão a que corresponda o índice superior mais aproximado na estrutura da carreira para que se processa a transição.
-
-2 - O tempo de serviço prestado nas carreiras e categorias que deram origem à transição prevista na alínea a) do n.º 1 conta, para todos os efeitos legais, como prestado na nova carreira e categoria.
-
-3 - A contagem do tempo de serviço na nova categoria dos funcionários a que se refere a alínea b) do n.º 1 inicia-se, para todos os efeitos legais, na data a que se reporta a respectiva transição.
-
-4 - A correspondência de categorias a determinar nas transições previstas na alínea b) do n.º 1 faz-se em função do índice remuneratório correspondente ao escalão 1 da categoria em que o funcionário se encontra e o escalão 1 da categoria da nova carreira.
-
-5 - Os funcionários com mais de 25 anos de serviço na carreira de pessoal técnico de contabilidade que exerçam as funções de director de contabilidade e de chefe de divisão de contabilidade do quadro de pessoal dirigente da DGO transitam para o índice 760, a criar exclusivamente para este efeito na carreira de pessoal técnico de contabilidade, decorridos que sejam três anos de serviço nas referidas funções dirigentes.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 29.º — Carreiras específicas
 
-A estrutura e regime das carreiras específicas existentes ou a criar na DGO, bem como as regras de transição de pessoal para as mesmas, serão objecto de diploma próprio.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 30.º — Providências orçamentais
 
-No corrente ano, os encargos resultantes da aplicação do presente diploma serão satisfeitos pelas disponibilidades existentes nas verbas adequadas.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 31.º — Publicações
 
-1 - Cabe à DGO promover a publicação, mediante a utilização de meios próprios na respectiva impressão, dos volumes do Orçamento do Estado, da Conta Geral do Estado, bem como de quaisquer separatas de receita ou despesa, revistas, boletins e outros trabalhos relacionados com a divulgação da sua actividade.
+(Revogado.)
 
-2 - Constitui receita própria da DGO o produto da venda de publicações cuja edição lhe pertence mediante tabela de preços aprovada pelo Ministro das Finanças.
-
-3 - A receita referida no número anterior será aplicada nas despesas de funcionamento da DGO.
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 ###### Artigo 32.º — Revogação de legislação anterior
 
-São revogados pelo presente decreto-lei os artigos 1.º a 8.º, 10.º a 12.º, 14.º, 15.º e 19.º a 27.º do [Decreto-Lei n.º 499/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/499-1979-365889), de 22 de Dezembro.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 80/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2007-520433), publicado em 2007-03-29.
 
 Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1998. - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.
 

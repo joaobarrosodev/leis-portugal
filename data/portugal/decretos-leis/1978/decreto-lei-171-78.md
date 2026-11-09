@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-02-27'
+version_history:
+  file: decreto-lei-171-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-02-27'
+    amending: pt:dre:679620:por
+    amending_title: Decreto-Lei n.º 16/80
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:11:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 16/80. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1978/decreto-lei-171-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,29 +134,49 @@ Nestes termos:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º É criado o bilhete de identidade do pessoal militarizado da Polícia de Segurança Pública, que substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil, para o que conterá todos os dados essenciais de identificação.
+###### Artigo 1.º
 
-Art. 2.º - 1 - O bilhete de identidade a que se refere o artigo anterior é do modelo anexo ao presente diploma e é impresso, em ambas as faces, sobre campo azul-claro ou verde-azeitona-claro, consoante se destinar, respectivamente, a pessoal em serviço activo ou pessoal aposentado, constituído pelo escudo nacional, por um desenho repetitivo do distintivo da Polícia de Segurança Pública, alternadamente disposto em colunas paralelas, e pelos dizeres «República Portuguesa» e «Polícia de Segurança Pública».
+É criado o bilhete de identidade do pessoal militarizado da Polícia de Segurança Pública, que substitui, para todos os efeitos legais, o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil, para o que conterá todos os dados essenciais de identificação.
+
+###### Artigo 2.º
+
+1 - O bilhete de identidade a que se refere o artigo anterior é do modelo anexo ao presente diploma e é impresso, em ambas as faces, sobre campo azul-claro ou verde-azeitona-claro, consoante se destinar, respectivamente, a pessoal em serviço activo ou pessoal aposentado, constituído pelo escudo nacional, por um desenho repetitivo do distintivo da Polícia de Segurança Pública, alternadamente disposto em colunas paralelas, e pelos dizeres «República Portuguesa» e «Polícia de Segurança Pública».
 
 2 - A inscrição «síntese biossanitária» e os respectivos traços limitativos são impressos a encarnado.
 
 3 - O bilhete de identidade é protegido por um invólucro transparente de matéria plástica aplicada directamente sobre o cartão.
 
-Art. 3.º A fotografia a inserir no bilhete de identidade é do tipo passe, tirada a três quartos, da linha do ombro para cima, com o uniforme tipo D constante da [Portaria n.º 140/70](https://diariodarepublica.pt/dr/detalhe/portaria/140-1970-228387), de 11 de Março.
+###### Artigo 3.º
 
-Art. 4.º No verso do bilhete de identidade são registadas referências aos direitos e faculdades reconhecidos por lei aos seus titulares de mais interesse ao exercício das suas funções.
+A fotografia a inserir no bilhete de identidade é do tipo passe, tirada a três quartos, da linha do ombro para cima, com uniforme do tipo D constante da [Portaria n.º 140/70](https://diariodarepublica.pt/dr/detalhe/portaria/140-1970-228387), de 11 de Março, para o pessoal do activo ou equiparado e em traje civil para os aposentados.
 
-Art. 5.º O bilhete de identidade é emitido pelo Comando-Geral da Polícia de Segurança Pública e autenticado com o selo branco aposto no canto inferior direito da fotografia.
+> Alterado pelo/a [Decreto-Lei n.º 16/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1980-679620), publicado em 1980-02-27.
 
-Art. 6.º - 1 - O bilhete de identidade de que trata o presente diploma é renovado em termos idênticos aos estabelecidos na lei para o bilhete de identidade civil, condicionado pela ocorrência de promoção ou mudança de situação do respectivo titular que não implique perda de condição de elemento militarizado dos quadros da Polícia de Segurança Pública.
+###### Artigo 4.º
+
+No verso do bilhete de identidade são registadas referências aos direitos e faculdades reconhecidos por lei aos seus titulares de mais interesse ao exercício das suas funções.
+
+###### Artigo 5.º
+
+O bilhete de identidade é emitido pelo Comando-Geral da Polícia de Segurança Pública e autenticado com o selo branco aposto no canto inferior direito da fotografia.
+
+###### Artigo 6.º
+
+1 - O bilhete de identidade de que trata o presente diploma é renovado em termos idênticos aos estabelecidos na lei para o bilhete de identidade civil, condicionado pela ocorrência de promoção ou mudança de situação do respectivo titular que não implique perda de condição de elemento militarizado dos quadros da Polícia de Segurança Pública.
 
 2 - Quando se verifique renovação do bilhete de identidade, o novo bilhete será atribuído contra entrega, na Repartição de Pessoal do Comando-Geral ia Polícia de Segurança Pública, do bilhete caducado.
 
-Art. 7.º O bilhete de identidade é de uso obrigatório noventa dias após a entrada em vigor do presente diploma.
+###### Artigo 7.º
 
-Art. 8.º Os tipos de bilhete de identidade criados pelo presente diploma poderão ser alterados mediante portaria conjunta dos Ministros da Administração Interna e da Justiça.
+O bilhete de identidade é de uso obrigatório noventa dias após a entrada em vigor do presente diploma.
 
-Art. 9.º A Polícia de Segurança Pública estabelecerá as normas internas relativas a:
+###### Artigo 8.º
+
+Os tipos de bilhete de identidade criados pelo presente diploma poderão ser alterados mediante portaria conjunta dos Ministros da Administração Interna e da Justiça.
+
+###### Artigo 9.º
+
+A Polícia de Segurança Pública estabelecerá as normas internas relativas a:
 
 a) Emissão do bilhete de identidade;
 

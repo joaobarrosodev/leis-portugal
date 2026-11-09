@@ -28,10 +28,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-07-31'
+version_history:
+  file: decreto-lei-480-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-06-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-07-31'
+    amending: pt:dre:397337:por
+    amending_title: Decreto-Lei n.º 303/82
+    changes:
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +77,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:54:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 303/82. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1976/decreto-lei-480-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -105,7 +126,9 @@ de 18 de Junho
 
 Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O artigo 22.º do Código do Imposto de Transacções passa a ter a seguinte redacção:
+###### Artigo 1.º
+
+O artigo 22.º do Código do Imposto de Transacções passa a ter a seguinte redacção:
 
 Art. 22.º A taxa do imposto é de 10%, salvo nas transacções compreendidas nas alíneas seguintes:
 
@@ -133,7 +156,9 @@ g) Cerveja - taxa específica de 6$00 por litro.
 
 § 3.º Os concentrados de cerveja serão tributados pelo décuplo da taxa referida na alínea g) deste artigo.
 
-Art. 2.º Na lista I, anexa ao Código do Imposto de Transacções, é aditada a verba n.º 38 e alteradas as verbas n.os 15, 19, 22 e 37 e a alínea m) da verba n.º 30, nos seguintes termos:
+###### Artigo 2.º
+
+Na lista I, anexa ao Código do Imposto de Transacções, é aditada a verba n.º 38 e alteradas as verbas n.os 15, 19, 22 e 37 e a alínea m) da verba n.º 30, nos seguintes termos:
 
 15. Farinhas, resíduos e desperdícios das indústrias alimentares e quaisquer outros produtos próprios para alimentação de gados e aves de capoeira e, bem assim, de peixes de viveiro destinados à alimentação humana.
 
@@ -167,7 +192,9 @@ m) Vinhos comuns (de mesa ou de pasto):
 
 Esta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.
 
-Art. 3.º Na lista II, anexa ao Código do Imposto de Transacções, são aditadas as verbas n.os 8-A, 9-A e 9-B, alteradas as n.os 2, 7, 8, 9 e 10 e eliminada a n.º 5, nos seguintes termos:
+###### Artigo 3.º
+
+Na lista II, anexa ao Código do Imposto de Transacções, são aditadas as verbas n.os 8-A, 9-A e 9-B, alteradas as n.os 2, 7, 8, 9 e 10 e eliminada a n.º 5, nos seguintes termos:
 
 2. Bilhetes-postais ilustrados, cartões ilustrados e cromos para saudações e correspondência; papel de carta de fantasia, decalcomanias, estampas e gravuras.
 
@@ -195,7 +222,9 @@ Compreendem-se nesta verba as partes, peças e acessórios, quando reconhecívei
 
 10. Rebuçados, caramelos, granjeias, drops e pastilhas elásticas ou outras edulcoradas; confeitos de amêndoa, de amendoim, de pinhão, de avelã, de licor, de xarope e outros, qualquer que seja o recheio; gelados e sorvetes; frutas cristalizadas, caldeadas ou cobertas e pastas de frutas; frutas secas cobertas com açúcar ou salgadas e frutas recheadas.
 
-Art. 4.º Na lista III, anexa ao Código do Imposto de Transacções, são eliminadas as verbas n.os 8, 11, 12 e 16 e alteradas as n.os 2, 7, 10, 19, 23 e 24, nos seguintes termos:
+###### Artigo 4.º
+
+Na lista III, anexa ao Código do Imposto de Transacções, são eliminadas as verbas n.os 8, 11, 12 e 16 e alteradas as n.os 2, 7, 10, 19, 23 e 24, nos seguintes termos:
 
 2 (a). Aparelhos receptores de radiodifusão e televisão, de valor tributável superior a, respectivamente, 2000$00 e 7000$00.
 
@@ -237,7 +266,9 @@ c) De caixa alta, de valor tributável superior a 10000$00.
 
 Excluem-se desta verba os relógios cujas características os tornem exclusiva ou essencialmente utilizáveis em actividades industriais e comerciais.
 
-Art. 5.º Na lista IV, anexa ao Código do Imposto de Transacções, é eliminada a verba n.º 14, aditada a verba n.º 12-A e alterada a verba n.º 12, nos seguintes termos:
+###### Artigo 5.º
+
+Na lista IV, anexa ao Código do Imposto de Transacções, é eliminada a verba n.º 14, aditada a verba n.º 12-A e alterada a verba n.º 12, nos seguintes termos:
 
 12 (a). Embarcações de recreio ou desporto, de valor tributável igual ou superior a 50000$00.
 
@@ -245,41 +276,51 @@ Excluem-se desta verba os barcos a remos dos tipos skiff, double-scull, shell e 
 
 12-A. Fotografias, filmes, discos, desenhos, livros, folhetos e outro material impresso ou manuscrito, bem como quaisquer objectos que traduzam formas de comunicação áudio-visual, de conteúdo pornográfico ou obsceno, como tal considerado na legislação sobre a matéria.
 
-Art. 6.º - 1. Nas transacções de aparelhos e máquinas referidos nas verbas n.os 2 e 13 da lista III e n.os 2, 4, 5, 17 e 20 da lista IV, anexas ao Código do Imposto de Transacções, o imposto é devido à saída do local de produção, sendo a ele sujeito unicamente o produtor.
+###### Artigo 6.º
 
-2. O imposto correspondente às mercadorias referidas no número anterior, quando importadas, será, porém, sempre cobrado nos serviços aduaneiros que procederem a o respectivo desembaraço alfandegário.
+(Revogado.)
 
-Art. 7.º - 1. O valor tributável, na hipótese do n.º 1 do artigo anterior, será o preço de venda do produtor acrescido de 40%.
+> Revogado pelo/a [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), publicado em 1982-07-31.
 
-2. O valor tributável, no caso de importação, será determinado de acordo com a alínea a) do artigo 9.º do Código do Imposto de Transacções.
+###### Artigo 7.º
 
-Art. 8.º - 1. O prazo estabelecido na alínea a) do artigo 41.º do Código do Imposto de Transacções para a entrega do imposto ao Estado será de seis meses no caso das transacções a que se refere o n.º 1 do artigo 6.º deste decreto-lei.
+(Revogado.)
 
-2. Nas importações das mercadorias a que se refere o n.º 2 do artigo 6.º deste decreto-lei, o imposto de transacções poderá ser pago até seis meses após o desembaraço alfandegário, desde que sejam prestadas garantias consideradas idóneas pelos competentes serviços aduaneiros.
+> Revogado pelo/a [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), publicado em 1982-07-31.
 
-3. O prazo fixado nos números anteriores poderá ser alterado por portaria do Secretário de Estado do Orçamento, quando circunstâncias de ordem financeira do sector o aconselhem.
+###### Artigo 8.º
 
-Art. 9.º Sem prejuízo do disposto nos artigos anteriores, às transacções neles referidas será aplicável, com as necessárias adaptações, o regime do Código do Imposto de Transacções.
+(Revogado.)
 
-Art. 10.º - 1. As mercadorias referidas no artigo 6.º que, à data da entrada em vigor do presente diploma, se encontrem em existência nos estabelecimentos de grossistas ou importadores deverão constar de inventário a organizar, o qual será apresentado no prazo de quinze dias a contar daquela data.
+> Revogado pelo/a [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), publicado em 1982-07-31.
 
-2. O inventário será entregue na repartição de finanças referida no § único do artigo 51.º do Código do Imposto de Transacções, assinado pelo contribuinte ou pelos seus representantes legais ou mandatários e pelo respectivo técnico de contas, quando o houver.
+###### Artigo 9.º
 
-3. Do inventário deverão constar, designadamente, os seguintes elementos:
+(Revogado.)
 
-a) Quantidades e designação explícita, por espécies, das mercadorias;
+> Revogado pelo/a [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), publicado em 1982-07-31.
 
-b) Números e datas das facturas respeitantes à aquisição das mercadorias;
+###### Artigo 10.º
 
-c) Nomes ou denominações dos fornecedores e seus domicílios ou sedes.
+(Revogado.)
 
-Art. 11.º Às transacções de mercadorias sujeitas a inventário nos termos do artigo anterior continuará a ser aplicável o regime estabelecido pelo Código do Imposto de Transacções.
+> Revogado pelo/a [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), publicado em 1982-07-31.
 
-Art. 12.º - 1. A falta de entrega ou a entrega fora de prazo do inventário a que se refere o artigo 10.º será punível nos termos do artigo 107.º do Código do Imposto de Transacções.
+###### Artigo 11.º
 
-2. A falsificação ou viciação do mesmo inventário será punida de acordo com o artigo 109.º do referido Código.
+(Revogado.)
 
-Art. 13.º - 1. Aos vinhos do Porto transaccionados até 31 de Dezembro de 1977 é aplicável o seguinte regime no âmbito do imposto de transacções:
+> Revogado pelo/a [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), publicado em 1982-07-31.
+
+###### Artigo 12.º
+
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 303/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/303-1982-397337), publicado em 1982-07-31.
+
+###### Artigo 13.º
+
+1. Aos vinhos do Porto transaccionados até 31 de Dezembro de 1977 é aplicável o seguinte regime no âmbito do imposto de transacções:
 
 a) De valor tributável até 60$00 por litro - isenção;
 

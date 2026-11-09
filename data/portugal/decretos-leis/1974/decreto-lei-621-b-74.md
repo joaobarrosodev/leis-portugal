@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-01-07'
+version_history:
+  file: decreto-lei-621-b-74.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1974-11-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-01-07'
+    amending: pt:dre:356760:por
+    amending_title: Decreto-Lei n.º 4/75
+    changes:
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:35:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 4/75. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1974/decreto-lei-621-b-74.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -111,7 +126,9 @@ Considerando o disposto no artigo 8.º do [Decreto-Lei n.º 621-A/74](https://di
 
 Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, e tendo sido dado cumprimento ao disposto na alínea a), 2.º, do n.º 1 do artigo 13.º da mesma lei, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Não são eleitores da Assembleia Constituinte os que, entre 28 de Maio de 1926 e 25 de Abril de 1974, tenham sido designados para desempenhar as funções de:
+###### Artigo 1.º
+
+Não são eleitores da Assembleia Constituinte os que, entre 28 de Maio de 1926 e 25 de Abril de 1974, tenham sido designados para desempenhar as funções de:
 
 a) Presidente da República, Presidente do Conselho de Ministros, Ministro e membro do Conselho de Estado;
 
@@ -119,7 +136,7 @@ b) Presidente e Vice-Presidente da Assembleia Nacional ou da Câmara Corporativa
 
 c) Juiz presidente do Supremo Tribunal de Justiça, do Supremo Tribunal Administrativo ou do Supremo Tribunal Militar;
 
-d) Juiz, salvo por inerência do cargo, e acusador dos tribunais militar especial e plenários criminais;
+d) Juiz e acusador dos tribunais militar especial e plenários criminais.
 
 e) Chefe do Estado-Maior-General das Forças Armadas e chefe do estado-maior dos três ramos das forças armadas;
 
@@ -141,7 +158,13 @@ n) Comissário nacional e comissário nacional-adjunto das extintas Mocidade Por
 
 o) Presidente das comissões de censura ou exame prévio à imprensa, espectáculos, rádio e televisão.
 
-Art. 2.º Além dos indicados no artigo anterior, não são também elegíveis para a Assembleia Constituinte os que, entre 28 de Maio de 1926 e 25 de Abril de 1974, tenham sido designados para desempenhar funções de:
+p) Procurador-geral da República.
+
+> Alterado pelo/a [Decreto-Lei n.º 4/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1975-356760), publicado em 1975-01-07.
+
+###### Artigo 2.º
+
+Além dos indicados no artigo anterior, não são também elegíveis para a Assembleia Constituinte os que, entre 28 de Maio de 1926 e 25 de Abril de 1974, tenham sido designados para desempenhar funções de:
 
 a) Presidente da câmara municipal;
 
@@ -157,15 +180,21 @@ f) Informador comprovado das organizações referidas nas alíneas i) e m) do ar
 
 g) Membro da Liga 28 de Maio ou da Liga dos Antigos Graduados da Mocidade Portuguesa.
 
-Art. 3.º Não são abrangidos pelas incapacidades referidas nos artigos anteriores os cidadãos que, após 25 de Abril de 1974, tenham sido nomeados pelo Presidente da República, Movimento das Forças Armadas, Junta de Salvação Nacional ou Governo Provisório para o exercício de funções políticas, públicas ou de interesse público.
+###### Artigo 3.º
 
-Art. 4.º - 1. O tribunal de relação do distrito judicial da residência do interessado poderá, a requerimento deste, declarar não abrangidos pelas incapacidades previstas nos artigos 1.º e 2.º os que, anteriormente a 25 de Abril de 1974, hajam praticado actos de inequívoco repúdio do regime político deposto pelo Movimento das Forças Armadas ou se tenham conduzido em termos de a sua acção não constituir apoio efectivo a esse regime.
+Não são abrangidos pelas incapacidades referidas nos artigos anteriores os cidadãos que, após 25 de Abril de 1974, tenham sido nomeados pelo Presidente da República, Movimento das Forças Armadas, Junta de Salvação Nacional ou Governo Provisório para o exercício de funções políticas, públicas ou de interesse público.
+
+###### Artigo 4.º
+
+1. O tribunal de relação do distrito judicial da residência do interessado poderá, a requerimento deste, declarar não abrangidos pelas incapacidades previstas nos artigos 1.º e 2.º os que, anteriormente a 25 de Abril de 1974, hajam praticado actos de inequívoco repúdio do regime político deposto pelo Movimento das Forças Armadas ou se tenham conduzido em termos de a sua acção não constituir apoio efectivo a esse regime.
 
 2. O tribunal apreciará, livremente e sem recurso, os requerimentos e as provas dos respectivos fundamentos, podendo, para esclarecimento dos mesmos, ordenar oficiosamente as diligências que julgar indispensáveis.
 
 3. A apreciação dos requerimentos terá preferência sobre o exercício das demais funções do tribunal.
 
-Art. 5.º Este diploma entra imediatamente em vigor.
+###### Artigo 5.º
+
+Este diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás.
 

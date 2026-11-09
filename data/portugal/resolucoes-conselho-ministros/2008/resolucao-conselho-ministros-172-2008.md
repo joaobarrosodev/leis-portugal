@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-04-06'
+version_history:
+  file: resolucao-conselho-ministros-172-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-11-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-04-06'
+    amending: pt:dre:66921992:por
+    amending_title: Resolução do Conselho de Ministros n.º 17/2015
+    changes:
+    - Altera Artigo 21.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/172/2008/11/21/p/dre/pt/html
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:57:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 17/2015. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/2008/resolucao-conselho-ministros-172-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -723,7 +738,7 @@ f) Parque de merendas;
 
 g) Restaurante.
 
-4 - As novas construções não devem exceder o limite máximo de dois pisos, à excepção do estabelecimento hoteleiro que pode dispor de três pisos desde que a respectiva construção se revele adaptada às características morfológicas do terreno e, no mínimo, sejam afastadas do NPA em 250 m.
+4 - As novas construções não devem exceder o limite máximo de dois pisos, salvo quando se tratar de estabelecimento hoteleiro, que pode dispor de três pisos, desde que a respetiva construção se revele adaptada às características morfológicas do terreno e tenha uma distância do NPA de, no mínimo, 150 m.
 
 5 - A capacidade de alojamentos dos empreendimentos turísticos não pode ultrapassar, no seu conjunto, as 300 camas, não podendo aquela capacidade ser preenchida por um único empreendimento.
 
@@ -735,9 +750,9 @@ g) Restaurante.
 
 9 - O centro náutico deve, preferencialmente, ser localizado junto à zona de instalação do pontão flutuante ou embarcadouro e afastado da zona de recreio balnear.
 
-10 - A piscina flutuante admitida nesta área deve localizar-se na zona de recreio balnear.
+10 - A piscina flutuante admitida nesta área deve localizar-se na zona de recreio balnear e o respetivo projeto deve prever soluções técnicas que se adaptem às variações do plano de água.
 
-11 - O titular de licença do centro náutico deve assegurar as seguintes infra-estruturas e serviços:
+11 - O titular da licença do centro náutico deve assegurar as infraestruturas e os serviços a seguir indicados, ficando as atividades ou utilizações que se desenvolvam no plano de água sujeitas a projeto que preveja soluções técnicas que se adaptem às variações do plano de água:
 
 a) Acesso pedonal regularizado;
 
@@ -752,6 +767,8 @@ d) Recolha de lixo e limpeza.
 13 - O espaço remanescente deve ser objecto de um plano de valorização ambiental e paisagística e, ainda, de um plano de monitorização a curto, médio e longo prazos.
 
 14 - Os equipamentos devem ser instalados de modo que a respectiva cota permita a ligação à ETAR da Malcata.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 17/2015](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2015-66921992), publicado em 2015-04-06.
 
 ###### Artigo 22.º — Perímetro urbano da Malcata
 

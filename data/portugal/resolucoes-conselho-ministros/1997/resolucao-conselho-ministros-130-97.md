@@ -38,10 +38,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1998-07-04'
+version_history:
+  file: resolucao-conselho-ministros-130-97.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1997-08-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-07-04'
+    amending: pt:dre:486932:por
+    amending_title: Resolução do Conselho de Ministros n.º 76/98
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Adita Artigo Anexo I
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/resolconsmin/130/1997/08/01/p/dre/pt/html
@@ -67,7 +87,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T12:37:41Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Resolução do Conselho de Ministros
+    n.º 76/98. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/resolucoes-conselho-ministros/1997/resolucao-conselho-ministros-130-97.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -146,35 +167,39 @@ O presente diploma regulamenta o Regime de Apoio à Competitividade das Empresas
 
 ###### Artigo 2.º — Âmbito
 
-São susceptíveis de apoio no âmbito do presente Regime os projectos de investimento nas seguintes áreas:
+1 - São susceptíveis de apoio no âmbito do presente Regime projectos que contribuam, de forma significativa, para a melhoria da competitividade da empresa através da:
 
-1) Entende-se por competitividade a capacidade da empresa desenvolver, de forma sustentável, uma relação de sucesso com a sua envolvente;
+a) Execução de investimentos não directamente produtivos que abordem de forma integrada os diversos factores de competitividade da empresa;
 
-2) Entende-se por investimento não directamente produtivo aquele que, não contribuindo directamente para o processo de criação de valor, permite à empresa melhorar significativamente a sua competitividade;
+b) Implementação de programas estratégicos de investimento que, de forma integrada, associem aos investimentos não directamente produtivos investimentos directamente produtivos complementares;
 
-3) Entende-se por rede de cooperação uma empresa pertencente a um conjunto de empresas sem relações de propriedade entre si para as quais desenvolve, com sinergias acrescidas, actividades comuns;
+c) Criação de redes de cooperação empresarial numa óptica de desenvolvimento estratégico.
 
-4) Execução de investimentos não directamente produtivos que abordem, de forma integrada, os diversos factores de competitividade, com especial destaque para:
+2 - Entende-se por competitividade a capacidade de a empresa desenvolver, de forma sustentável, uma relação de sucesso com a sua envolvente.
+
+3 - Entende-se por investimento não directamente produtivo aquele que, não contribuindo directamente para o processo de criação de valor, permite à empresa melhorar significativamente a sua competitividade, com especial destaque para:
 
 a) Peritagens externas e investimentos associados com o objectivo de definir estratégias empresariais nos domínios da melhoria da qualidade, gestão, organização e utilização de sistemas avançados de telecomunicações;
 
 b) Planos de promoção e marketing, incluindo o lançamento de novos produtos;
 
-c) Investimentos para utilização e gestão de energias alternativas, sistemas de segurança e outras tecnologias ambientalmente favoráveis e eficientes;
+c) Investimentos para utilização e gestão de energias alternativas, sistemas de segurança e outras tecnologias ambientalmente favoráveis e eficientes.
 
-5) Implementação de programas estratégicos de investimento que, de forma integrada, associem aos investimentos não directamente produtivos investimentos produtivos complementares;
+4 - As redes de cooperação podem ser constituídas através de sociedades, comerciais ou cooperativas, de agrupamentos complementares de empresas, de consórcios ou sob quaisquer outras formas de cooperação em direito permitidas desde que entre os entes envolvidos não existam relações de pertença e visem desenvolver actividades de interesse estratégico comum.
 
-6) Constituição de redes de cooperação empresarial numa óptica de desenvolvimento estratégico.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 76/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932), publicado em 1998-07-03.
 
 ###### Artigo 3.º — Entidades beneficiárias
 
-Os beneficiários deste Regime são empresas com menos de 50 trabalhadores, do sector do turismo, incluídas na secção H da CAE - Rev. 2, aprovada pelo [Decreto-Lei n.º 182/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1993-275862), de 14 de Maio.
+Os beneficiários deste Regime são empresas com menos de 250 trabalhadores, do sector do turismo, incluídas na secção H, no grupo 633 da secção I e no grupo 711 da secção K da CAE - Rev. 2, aprovada pelo [Decreto-Lei n.º 182/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1993-275862), de 14 de Maio.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 76/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932), publicado em 1998-07-03.
 
 ###### Artigo 4.º — Condições específicas de acesso do promotor
 
 1 - O promotor deve cumprir as seguintes condições específicas, além do previsto no artigo 4.º do [Decreto-Lei n.º 172/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1997-150765), de 16 de Julho:
 
-a) Possuir menos de 50 trabalhadores regularmente inscritos na segurança social no mês imediatamente anterior à data da candidatura;
+a) Possuir menos de 250 trabalhadores regularmente inscritos na segurança social no mês imediatamente anterior à data da candidatura;
 
 b) Demonstrar possuir uma situação financeira equilibrada e meios financeiros adequados à sua actividade e à execução do projecto, nomeadamente dispor de autonomia financeira pré-projecto igual ou superior a 20%;
 
@@ -184,51 +209,79 @@ c) Comprovar que tem a situação regularizada com o Fundo de Turismo.
 
 AF = (capitais próprios + suprimentos)/(activo líquido)
 
-3 - No caso de aprovação da candidatura, o montante de suprimentos que garante os 20% de autonomia financeira, estipulados na alínea b) do n.º 1, deve ser integrado em capital social antes da assinatura do contrato de concessão dos incentivos.
+3 - No caso de aprovação da candidatura, o montante de suprimentos que garante os 20% de autonomia financeira, estipulados na alínea b) do n.º 1, deve ser integrado em capital próprio antes da assinatura do contrato de concessão dos incentivos.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 76/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932), publicado em 1998-07-03.
 
 ###### Artigo 5.º — Condições específicas de acesso do projecto
 
 Os projectos candidatos devem satisfazer as seguintes condições específicas, além do previsto no artigo 5.º do [Decreto-Lei n.º 172/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1997-150765), de 16 de Julho:
 
-a) Incluir um diagnóstico estratégico da empresa, com uma identificação sumária de ameaças e oportunidades concorrenciais, bem como a identificação dos seus pontos fortes e fracos, incluindo necessidades de formação, como suporte à justificação do projecto;
+a) Respeitar o esquema de apresentação da candidatura constante de anexo ao presente diploma;
 
-b) Respeitar o esquema de apresentação do projecto de investimento constante do anexo ao presente diploma;
+b) Demonstrar viabilidade técnica, económica e financeira, no caso da implementação de programas estratégicos de investimento;
 
-c) Envolver um montante de investimento elegível não directamente produtivo inferior a 30000 contos;
+c) Garantir o financiamento do investimento com um mínimo de 30% de capitais próprios, no caso de investimentos não directamente produtivos, definidos nos termos da alínea a) do n.º 1 do artigo 2.º;
 
-d) Envolver um montante de investimento elegível directamente produtivo, associado a investimento não produtivo, que não ultrapasse o triplo deste;
+d) Garantir uma situação financeira pós-projecto (ano após a conclusão do projecto) equilibrada, entendida como uma autonomia financeira não inferior a 20%, no caso de programas estratégicos de investimento definidos nos termos da alínea b) do n.º 1 do artigo 2.º;
 
-e) Demonstrar viabilidade técnica, económica e financeira, no caso da implementação de programas estratégicos de investimento;
+e) Ter parecer favorável do ICEP - Investimentos, Comércio Externo e Turismo de Portugal, quando se trate de projectos que envolvam promoção ou marketing;
 
-f) Garantir o financiamento do investimento com um mínimo de 30% de capitais próprios, no caso de investimentos não directamente produtivos, definidos nos termos do n.º 1 do artigo 2.º;
+f) Ter aprovação das entidades competentes, de acordo com a natureza dos projectos, nomeadamente em matéria ambiental e de energias alternativas.
 
-g) Garantir uma situação financeira pós-projecto (ano após a conclusão do projecto) equilibrada, entendida como uma autonomia financeira não inferior a 20%, no caso de programas estratégicos de investimento definidos nos termos do n.º 2 do artigo 2.º;
-
-h) Ter parecer favorável do ICEP - Investimentos, Comércio Externo e Turismo de Portugal, quando se trate de projectos que envolvam promoção ou marketing;
-
-i) Ter aprovação das entidades competentes, de acordo com a natureza dos projectos, nomeadamente em matéria ambiental e de energias alternativas.
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 76/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932), publicado em 1998-07-03.
 
 ###### Artigo 6.º — Despesas elegíveis
 
-1 - Para efeitos de cálculo do incentivo no âmbito do presente Regime, constituem despesas elegíveis os seguintes custos:
+1 - Despesas de investimento em capital fixo não directamente produtivo, corpóreo e incorpóreo, nomeadamente em:
 
-a) Despesas de investimento não directamente produtivo, corpóreo e incorpóreo, incluindo despesas com formação profissional, nos termos do n.º 3 do artigo 2.º do [Decreto-Lei n.º 172/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1997-150765), de 16 de Julho;
+a) Estudos de mercado, promoção e marketing;
 
-b) Despesas de investimento directamente produtivo, com exclusão de:
+b) Equipamentos de telecomunicações avançadas;
 
-i) Aquisição de terrenos;
+c) Sistemas de informação;
 
-ii) Construção de edifícios ou compra de imóveis;
+d) Equipamentos e suportes informáticos de apoio à gestão;
 
-iii) Aquisição de veículos automóveis;
+e) Melhorias da qualidade, integradas ou não em processo de certificação;
 
-iv) Aquisição de equipamentos em estado de uso;
+f) Equipamentos orientados para a racionalização energética e utilização de energias alternativas;
 
-v) Custos internos da empresa.
+g) Procedimentos e equipamentos orientados para a melhoria do ambiente;
 
-2 - O cálculo das despesas elegíveis é efectuado a preços correntes, deduzido o imposto sobre o valor acrescentado sempre que a entidade promotora seja sujeito passivo do mesmo imposto e possa exercer o direito à sua dedução.
+h) Higiene e segurança no trabalho;
 
-3 - Para efeitos do disposto no n.º 1, o Fundo de Turismo apenas considera os valores correspondentes aos custos médios do mercado.
+i) Sistemas de segurança;
+
+j) Estudos, projectos e serviços de assistência técnica;
+
+k) Formação profissional nos termos do n.º 3 do artigo 2.º do [Decreto-Lei n.º 172/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1997-150765), de 16 Julho.
+
+2 - Despesas de investimento directamente produtivo, quando associado ao investimento não directamente produtivo.
+
+3 - Excluem-se dos pontos anteriores:
+
+a) Aquisição de terrenos;
+
+b) Construção de edifícios ou compra de imóveis e obras de adaptação, salvo quando associadas a investimentos não produtivos e devidamente justificadas;
+
+c) Trespasse;
+
+d) Aquisição de veículos automóveis ligeiros;
+
+e) Aquisição de equipamentos em estado de uso;
+
+f) Trabalhos para a própria empresa.
+
+4 - Os montantes máximos de despesa elegível são:
+
+a) No caso do investimento não directamente produtivo, 100000 contos;
+
+b) No caso do investimento directamente produtivo, o triplo do investimento não directamente produtivo.
+
+5 - O cálculo das despesas elegíveis é efectuado a preços correntes, deduzido o imposto sobre o valor acrescentado sempre que a entidade promotora seja sujeito passivo do mesmo imposto e possa exercer o direito à sua dedução.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 76/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932), publicado em 1998-07-03.
 
 ###### Artigo 7.º — Critérios de selecção
 
@@ -258,11 +311,17 @@ a) Subsídio a fundo perdido, com excepção do que se refere à formação prof
 
 b) Subsídio a fundo perdido à formação profissional, nos termos a definir pelo regulamento específico referido no n.º 3 do artigo 2.º do [Decreto-Lei n.º 172/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1997-150765), de 16 de Julho.
 
-3 - No âmbito da alínea b) do n.º 1, a bonificação é de 50% dos juros referentes ao financiamento aplicado ao investimento elegível directamente produtivo, de acordo com o protocolo a celebrar com as instituições de crédito aderentes ao Programa.
+3 - No âmbito da alínea b) do n.º 1, a bonificação é de 100% dos juros referentes ao financiamento aplicado ao investimento elegível directamente produtivo, de acordo com o protocolo celebrado com as instituições de crédito aderentes ao Programa.
 
-4 - No âmbito da alínea c) do n.º 1, a bonificação é de 50% dos juros dos contratos de locação financeira, de acordo com o protocolo a celebrar com as instituições de locação financeira aderentes ao Programa.
+4 - No âmbito da alínea c) do n.º 1, a bonificação é de 100% dos juros dos contratos de locação financeira, de acordo com o protocolo a celebrar com as instituições de locação financeira aderentes ao Programa.
 
-5 - O incentivo a conceder no âmbito da alínea a) do n.º 2 é objecto de majoração em 15%, no caso dos projectos cujo investimento inclua planos de formação profissional.
+5 - O incentivo a conceder no âmbito da alínea a) do n.º 2 é objecto das seguintes majorações:
+
+a) No caso dos projectos cujo investimento inclua planos de formação profissional, 15%;
+
+b) No caso dos projectos de investimento promovidos por empresas aderentes a contratos sectoriais de adaptação ambiental, apenas nas aplicações relevantes relativas a ambiente, 10%.
+
+> Alterado pelo/a [Resolução do Conselho de Ministros n.º 76/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932), publicado em 1998-07-03.
 
 ###### Artigo 9.º — Apresentação de candidaturas
 
@@ -271,6 +330,16 @@ A apresentação de candidaturas ao presente Regime é contínua, devendo ser fo
 ###### Artigo 10.º — Encargos
 
 Os encargos nacionais decorrentes da aplicação deste Regulamento são inscritos anualmente no orçamento da Direcção-Geral do Desenvolvimento Regional sob o título «Iniciativa comunitária PME».
+
+###### Artigo Anexo I — Esquema de apresentação da candidatura
+
+I - Apresentação sumária da empresa.
+
+II - Orientação estratégica da empresa.
+
+III - Fundamentação do projecto de investimento.
+
+> Aditado pelo/a [Resolução do Conselho de Ministros n.º 76/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/76-1998-486932), publicado em 1998-07-03.
 
 ## ANEXO — Esquema de apresentação do projecto de investimento
 

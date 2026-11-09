@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-10-17'
+version_history:
+  file: despacho-normativo-164-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-07-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-10-17'
+    amending: pt:dre:364762:por
+    amending_title: Despacho Normativo n.º 320/79
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:51:20Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 320/79. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/despachos-normativos/1979/despacho-normativo-164-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -122,7 +138,7 @@ Regulamento Geral de Orgenização e Funcionamento dos Serviços de Lotas e Vend
 
 ### CAPÍTULO I — Organização geral
 
-###### ARTIGO 1.º — (Natureza e fins)
+###### Artigo 1.º — (Natureza e fins)
 
 1 - As secções e postos de vendagem instalados nos diferentes pontos do território nacional ficam sob a orientação, fiscalização e gestão do serviço de lotas e vendagem.
 
@@ -130,7 +146,7 @@ Regulamento Geral de Orgenização e Funcionamento dos Serviços de Lotas e Vend
 
 3 - Para a realização dos seus fins, as lotas serão orientadas de modo a bem servir o público, nas melhores condições de salubridade e formação do preço, tendo em conta os legítimos interesses de todos os utentes do serviço.
 
-###### ARTIGO 2.º — (Distribuição geográfica)
+###### Artigo 2.º — (Distribuição geográfica)
 
 1 - Para a prossecução do disposto no artigo 1.º, as secções e postos de vendagem estão agrupados, no continente, em três zonas:
 
@@ -148,19 +164,19 @@ Lagos, Portimão, Olhão, Tavira, Vila Real de Santo António e respectivos post
 
 2 - As secções e postos de vendagem da Região Autónoma dos Açores consideram-se integrados na zona centro enquanto se mantiverem na dependência da Administração Central.
 
-###### ARTIGO 3.º — (Direcção da secção)
+###### Artigo 3.º — (Direcção da secção)
 
 A direcção da secção será exercida pelo chefe da secção.
 
 § único. Na ausência ou impedimento do chefe da secção, a direcção será assumida por um funcionário proposto pelo chefe da secção à homologação da direcção de zona.
 
-###### ARTIGO 4.º — (Serviços da secção)
+###### Artigo 4.º — (Serviços da secção)
 
 As secções compreendem:
 
 O serviço administrativo e o serviço de exploração, hierarquicamente dependentes do chefe da secção.
 
-###### ARTIGO 5.º — (Atribuições das secções)
+###### Artigo 5.º — (Atribuições das secções)
 
 1 - São atribuições das secções e postos de vendagem:
 
@@ -180,15 +196,15 @@ c) Outras que venham a ser determinadas superiormente.
 
 ### CAPÍTULO II — Funcionamento
 
-###### ARTIGO 6.º — (Da secção)
+###### Artigo 6.º — (Da secção)
 
 Na generalidade, as secções funcionarão de acordo com o presente Regulamento. Atendendo à sua dimensão, especificidade, usos e costumes locais, cada secção elaborará um regulamente privativo para complemento deste.
 
-###### ARTIGO 7.º — (Do serviço administrativo)
+###### Artigo 7.º — (Do serviço administrativo)
 
 O serviço administrativo funcionará de acordo com a estrutura da secção e directrizes do serviço de lotas e vendagem.
 
-###### ARTIGO 8.º — (Do serviço de exploração)
+###### Artigo 8.º — (Do serviço de exploração)
 
 1 - O recinto de lota compreende as seguintes áreas:
 
@@ -230,7 +246,7 @@ b) Após a pesagem, o pescado deverá ser exposto aos compradores.
 
 a) A venda do pescado, enquanto não for introduzido outro método, efectuar-se-á por licitação verbal, em razão do valor decrescente, devendo o pregão ser feito em voz alta e cadenciada, pausando na mudança das centenas ou dezenas, anunciando-as claramente, até ser obtido o primeiro sinal de compra por parte de um comprador;
 
-b) Em caso de dúvida quanto ao comprador que deu o primeiro sinal de compra, o vendedor, de acordo com a autoridade marítima presente à lota, decidirá da entrega do pescado;
+b) No caso de dúvida quanto ao comprador que deu o primeiro sinal de compra, o vendedor fará a entrega do pescado àquele que melhor se tiver feito ouvir. Se a dúvida persistir, o vendedor procederá de imediato a novo leilão.
 
 c) Não será permitido na mesma lota ou noutra, a qualquer título, segundo leilão do pescado, salvo no caso de não levantamento do pescado na primeira venda, de acordo com as normas constantes do regulamento da secção;
 
@@ -266,9 +282,11 @@ b) As entregas do pescado serão devidamente fiscalizadas por um funcionário do
 
 c) Em caso algum o pescado poderá sair da lota sem estar vendido ou a sua saída devidamente legalizada, não sendo consideradas quaisquer reclamações após a saída do mesmo.
 
+> Alterado pelo/a [Despacho Normativo n.º 320/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/320-1979-364762), publicado em 1979-10-17.
+
 ### CAPÍTULO III — Competências
 
-###### ARTIGO 9.º — (Do chefe da secção)
+###### Artigo 9.º — (Do chefe da secção)
 
 1 - Compete ao chefe da secção o exercício dos actos necessários para assegurar a gestão e administração de todos os serviços da secção e postos dela dependentes, de acordo com o regulamento da secção e a orientação superior recebida.
 
@@ -284,7 +302,7 @@ d) Propor à apreciação do director de zona as medidas necessárias à organiz
 
 e) Zelar pela aplicação integral do Plano Oficial de Contas, adaptado para o sector.
 
-###### ARTIGO 10.º — (Do encarregado de lota)
+###### Artigo 10.º — (Do encarregado de lota)
 
 1 - Compete ao encarregado de lota o exercício de todos os actos necessários para assegurar a gestão do Serviço de Exploração, de acordo com a orientação do chefe da secção.
 
@@ -294,29 +312,31 @@ a) Cumprir e fazer cumprir o regulamento da secção referente ao Serviço de Ex
 
 b) Actuar sempre de harmonia com as indicações dadas pelo chefe da secção;
 
-c) Manter a disciplina na lota, e, sempre que necessário, solicitar a intervenção da autoridade, de modo a assegurar o bom funcionamento daquela;
+c) Manter a disciplina na lota e, sempre que necessário, solicitar a intervenção da autoridade marítima, de modo a assegurar o bom funcionamento daquela.
 
 d) Propor ao chefe da secção todas as medidas necessárias ao bom funcionamento da lota.
 
+> Alterado pelo/a [Despacho Normativo n.º 320/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/320-1979-364762), publicado em 1979-10-17.
+
 ### CAPÍTULO IV — Disposições finais
 
-###### ARTIGO 11.º — (Direcções regionais)
+###### Artigo 11.º — (Direcções regionais)
 
 Para apoio local, as secções e postos de vendagem, dispõem da acção das direcções regionais, cujas áreas de actuação são as definidas no artigo 2.º do presente Regulamento.
 
-###### ARTIGO 12.º — (Integração das lacunas)
+###### Artigo 12.º — (Integração das lacunas)
 
 Os casos omissos, quando não puderem ser resolvidos por analogia, serão submetidos a despacho do Secretário de Estado das Pescas.
 
-###### ARTIGO 13.º — (Entrada em vigor)
+###### Artigo 13.º — (Entrada em vigor)
 
 O presente Regulamento entra em vigor no dia imediato ao da sua publicação.
 
-###### ARTIGO 14.º — (Legislação revogada)
+###### Artigo 14.º — (Legislação revogada)
 
 Continuarão em vigor as disposições legais em tudo o que não contrarie as deste Regulamento.
 
-###### ARTIGO 15.º
+###### Artigo 15.º
 
 Os regulamentos das secções serão homologados por despacho do Secretário de Estado das Pescas.
 

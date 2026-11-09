@@ -39,10 +39,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1989-07-25'
+version_history:
+  file: decreto-lei-483-f-88.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1988-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1989-07-25'
+    amending: pt:dre:619960:por
+    amending_title: Decreto-Lei n.º 229/89
+    changes:
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T00:46:31Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 229/89. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1988/decreto-lei-483-f-88.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -253,7 +268,7 @@ A concessão de restituições à indústria portuguesa, para permitir a competi
 
 a) Para efeitos do disposto no artigo 6.º do Regulamento (CEE) n.º [3252/88](http://data.europa.eu/eli/reg/1988/3252/oj?locale=pt) da Comissão, deverá ser apresentado à Direcção-Geral do Comércio Externo um pedido de certificado para a importação de cereal em grão;
 
-b) O certificado para importação de cereal em grão não importado em regime de concurso público será emitido no terceiro dia útil seguinte ao da apresentação do pedido, sem prejuízo do disposto no artigo 274.º do Acto de Adesão;
+b) O certificado para importação de cereal em grão não importado em regime de concurso público será concedido no 3.º dia útil a contar do dia da apresentação do pedido, considerando-se o dia de apresentação como 1.º dia, sem prejuízo do disposto no artigo 274.º do Acto de Adesão;
 
 c) Os pedidos de certificados apresentados depois das 13 horas consideram-se apresentados no primeiro dia útil seguinte;
 
@@ -266,6 +281,10 @@ f) O pedido de certificado será obrigatoriamente acompanhado da constituição 
 g) A caução a constituir a favor da Direcção-Geral do Comércio Externo será efectuada por depósito na Caixa Geral de Depósitos, mediante guia em triplicado, ou por garantia bancária;
 
 h) O montante da caução a que se refere a alínea anterior será de 120$00 por tonelada, sendo o direito nivelador a pagar o direito nivelador em vigor à data do desalfandegamento, e será de 3000$00 por tonelada no caso de o importador desejar usar da faculdade prevista no n.º 8 do presente artigo.
+
+11 - A prefixação pode ser suspensa, caso ocorram perturbações de mercado, por aviso do INGA - Instituto Nacional de Intervenção e Garantia Agrícola à Direcção-Geral do Comércio Externo, com efeitos imediatos após o seu conhecimento por esta Direcção-Geral, devendo o texto do aviso explicitar a data limite da duração da suspensão.
+
+> Alterado pelo/a [Decreto-Lei n.º 229/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1989-619960), publicado em 1989-07-20.
 
 ###### Artigo 13.º — Fixação e divulgação de direitos niveladores, restituições à produção e restituições à exportação
 

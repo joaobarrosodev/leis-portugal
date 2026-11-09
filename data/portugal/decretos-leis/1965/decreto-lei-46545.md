@@ -30,10 +30,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1967-09-08'
+version_history:
+  file: decreto-lei-46545.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1965-09-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1967-09-08'
+    amending: pt:dre:309538:por
+    amending_title: Decreto-Lei n.º 47683; Decreto-Lei n.º 47921
+    changes:
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 9.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +76,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:54:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 47683; Decreto-Lei
+    n.º 47921. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46545.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -116,23 +134,57 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Em caso de guerra, de emergência ou sempre que as necessidades da defesa nacional o justifiquem, o Ministro do Exército poderá ordenar a reclassificação dos indivíduos que tenham sido considerados isentos de todo o serviço ou declarados incapazes.
+###### Artigo 1.º
+
+Em caso de guerra, de emergência ou sempre que as necessidades da defesa nacional o justifiquem, o Ministro do Exército poderá ordenar a reclassificação dos indivíduos que tenham sido considerados isentos de todo o serviço ou declarados incapazes.
 
 § único. A reclassificação poderá ser limitada, conforme as necessidades, a grupos de indivíduos que possuam as aptidões técnicas requeridas para o desempenho de funções militares especializadas.
 
-Art. 2.º Os indivíduos chamados à reclassificação serão presentes a uma junta especial, que julgará da sua aptidão física e psíquica para o serviço militar.
+###### Artigo 2.º
+
+Os indivíduos chamados à reclassificação serão presentes a uma junta especial, que julgará da sua aptidão física e psíquica para o serviço militar.
 
 § único. De acordo com a aptidão demonstrada, a junta especial reclassificará os indivíduos nas categorias de apurados para todo o serviço militar e aptos para serviços auxiliares ou confirmará a isenção ou a incapacidade para todo o serviço militar.
 
-Art. 3.º A junta especial será nomeada pelo Ministro do Exército e terá a seguinte constituição:
+###### Artigo 3.º
+
+A junta especial será nomeada pelo Ministro do Exército e terá a seguinte constituição:
 
 1 oficial general (presidente);
 
 4 oficiais superiores médicos.
 
-Art. 4.º Das decisões da junta especial podem recorrer no prazo de cinco dias, para o Ministro do Exército, os membros das juntas e os reclassificados.
+###### Artigo 4.º
 
-Art. 5.º Os indivíduos diplomados com um curso superior que, pela reclassificação referida neste diploma, forem apurados para todo o serviço militar ou julgados aptos para serviços auxiliares serão ordenados, de acordo com a classificação obtida no curso civil, e integrados, dentro da especialidade respectiva, no primeiro curso de oficiais milicianos que teve lugar após a conclusão do curso civil respectivo e graduados, até preenchimento das condições de promoção, no posto que lhes caberia, no caso de terem sido incorporados naquele curso de oficiais milicianos e cumprido o serviço militar normal.
+Das decisões da junta especial podem recorrer no prazo de cinco dias, para o Ministro do Exército, os membros das juntas e os reclassificados.
+
+###### Artigo 5.º
+
+Os indivíduos diplomados com um curso superior que, pela reclassificação referida neste diploma, forem apurados para todo o serviço militar ou julgados aptos para serviços auxiliares serão ordenados, de acordo com a classificação obtida no curso civil, e integrados, dentro da especialidade respectiva, no primeiro curso de oficiais milicianos que teve lugar após a conclusão do curso civil respectivo e graduados, até preenchimento das condições de promoção, no posto que lhes caberia, no caso de terem sido incorporados naquele curso de oficiais milicianos e cumprido o serviço militar normal.
+
+###### Artigo 6.º
+
+As reclassificações atribuídas pela junta especial prevista no artigo 2.º, nas categorias de apurado para todo o serviço militar e de apto para serviços auxiliares, só poderão ser alteradas por uma junta especial com a constituição prevista no artigo 3.º
+
+> Aditado pelo/a [Decreto-Lei n.º 47683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47683-1967-309538), publicado em 1967-05-08.
+
+###### Artigo 7.º
+
+São considerados compelidos ao serviço militar os indivíduos chamados à reclassificação que, tendo menos de 45 anos, não se apresentem à junta especial até ao último dia da incorporação do curso que se seguir à data marcada para a sua reclassificação.
+
+> Aditado pelo/a [Decreto-Lei n.º 47921](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47921-1967-390784), publicado em 1967-09-08.
+
+###### Artigo 8.º
+
+São considerados refractários ao serviço militar os indivíduos reclassificados nas categorias de apurados para todo o serviço militar e aptos para serviços auxiliares que, sem justificação bastante, não se apresentem, nas unidades a que tenham sido destinados, dentro do prazo fixado.
+
+> Aditado pelo/a [Decreto-Lei n.º 47921](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47921-1967-390784), publicado em 1967-09-08.
+
+###### Artigo 9.º
+
+Os compelidos e refractários ao serviço militar, nos termos dos artigos 7.º e 8.º, podem ser obrigados a prestar serviço no quadro de complemento do Exército até ao dobro do tempo normal, transitando depois para o escalão e classe correspondentes à sua idade e ficando sujeitos às demais consequências atribuídas pela regulamentação em vigor àquelas situações militares.
+
+> Aditado pelo/a [Decreto-Lei n.º 47921](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47921-1967-390784), publicado em 1967-09-08.
 
 Publique-se e cumpra-se como nele se contém.
 

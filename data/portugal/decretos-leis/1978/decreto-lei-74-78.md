@@ -29,10 +29,34 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-07-27'
+version_history:
+  file: decreto-lei-74-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-04-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-07-27'
+    amending: pt:dre:297010:por
+    amending_title: Lei n.º 56/78
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:16:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 56/78. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1978/decreto-lei-74-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,31 +154,57 @@ Importa, contudo, não protelar por mais tempo a situação criada pelo [Decreto
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - A carreira profissional dos professores efectivos dos ensinos pré-escolar, primário, preparatório e secundário é expressa pelo acesso progressivo às fases previstas no [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho.
+###### Artigo 1.º
 
-2 - É igualmente definido um regime de fases para os professores do quadro de adjuntos dos ensinos preparatório e secundário, cujas categorias de vencimento são as constantes do mapa anexo ao presente diploma.
+1 - A carreira profissional dos professores efectivos dos ensinos pré-escolar, primário, preparatório e secundário é expressa pelo acesso progressivo às fases previstas no [Decreto-Lei n.º 290/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1975-335765), de 14 de Junho, transitoriamente e até que seja definida a carreira docente, após audição das organizações representativas dos professores.
 
-Art. 2.º - 1 - O ingresso em cada uma das fases da carreira profissional determina para os professores a obrigatoriedade de exercerem as funções para que vierem a ser designados ou eleitos.
+2 - É igualmente definido um regime de fases para os professores do quadro de adjuntos e extraordinários do quadro dos ensinos preparatório e secundário, cujas categorias de vencimento são as constantes do mapa anexo ao presente diploma.
 
-2 - As funções previstas no número anterior são, para cada fase, as definidas por despacho do Ministro da Educação e Cultura.
+> Alterado pelo/a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), publicado em 1978-07-27.
 
-Art. 3.º Independentemente de quaisquer formalidades, são considerados na 1.ª fase:
+###### Artigo 2.º
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+> Alterado pelo/a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), publicado em 1978-07-27.
+
+###### Artigo 3.º
+
+Independentemente de quaisquer formalidades, são considerados na 1.ª fase:
 
 a) Os professores profissionalizados dos ensinos pré-escolar, primário, preparatório e secundário, desde a data da tomada de posse, na qualidade de professores efectivos, do lugar que lhes coube por concurso;
 
-b) Os professores-adjuntos dos ensinos preparatório e secundário, desde a data da tomada de posse, nessa qualidade, do lugar que lhes coube por concurso.
+b) Os professores adjuntos e extraordinários do quadro dos ensinos preparatório e secundário, desde a tomada de posse, nesta qualidade, do lugar que lhes coube por concurso.
 
-Art. 4.º Podem requerer ingresso na situação da 2.ª fase os professores dos ensinos pré-escolar, primário, preparatório e secundário que tenham prestado, pelo menos, cinco anos de bom e efectivo serviço na 1.ª fase.
+> Alterado pelo/a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), publicado em 1978-07-27.
 
-Art. 5.º Podem ingressar na situação da 3.ª fase os professores dos ensinos pré-escolar, primário, preparatório e secundário e os professores-adjuntos dos ensinos preparatório e secundário que tenham prestado, pelo menos, sete anos de bom e efectivo serviço na 2.ª fase.
+###### Artigo 4.º
 
-Art. 6.º Podem ingressar na situação da 4.ª fase os professores dos ensinos pré-escolar e primário que tenham prestado, pelo menos, oito anos de bom e efectivo serviço na 3.ª fase.
+Podem requerer ingresso na situação da 2.ª fase os professores efectivos dos ensinos pré-escolar e primário e os professores efectivos, adjuntos e extraordinários do quadro dos ensinos preparatório e secundário que tenham prestado, pelo menos, cinco anos de bom e efectivo serviço docente, a partir da profissionalização.
 
-Art. 7.º - 1 - O tempo de serviço referido nos artigos 4.º, 5.º e 6.º do presente diploma é contado dia a dia até perfazer o respectivo número de anos.
+> Alterado pelo/a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), publicado em 1978-07-27.
+
+###### Artigo 5.º
+
+Podem ingressar na situação da 3.ª fase os professores efectivos dos ensinos pré-escolar, primário, preparatório e secundário e os professores adjuntos e extraordinários, do quadro dos ensinos preparatório e secundário, que tenham prestado, pelo menos, doze anos de bom e efectivo serviço docente a partir da profissionalização.
+
+> Alterado pelo/a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), publicado em 1978-07-27.
+
+###### Artigo 6.º
+
+Podem ingressar na situação da 4.ª fase os professores efectivos dos ensinos pré-escolar e primário que tenham prestado pelo menos vinte anos de bom e efectivo serviço docente a partir da profissionalização.
+
+> Alterado pelo/a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), publicado em 1978-07-27.
+
+###### Artigo 7.º
+
+1 - O tempo de serviço referido nos artigos 4.º, 5.º e 6.º do presente diploma é contado dia a dia até perfazer o respectivo número de anos.
 
 2 - Para efeitos do estabelecido no número anterior, ao cômputo final são descontados os dias de faltas dadas, a qualquer título, pelo professor, considerando-se ano completo de serviço o que abrange trezentos e sessenta e cinco dias.
 
-3 - Exceptuam-se ao disposto no número anterior as faltas dadas por motivo de:
+3 - Exceptuam-se do disposto no número anterior as faltas dadas por motivos de:
 
 a) Parto;
 
@@ -163,49 +214,83 @@ c) Casamento;
 
 d) Serviço oficial;
 
-e) Evicção escolar.
+e) Evicção escolar;
+
+f) Doença, devidamente comprovada.
 
 4 - O serviço docente extraordinário não é considerado para efeitos de atribuição de fases.
 
-Art. 8.º - 1 - Para efeitos de atribuição das fases referidas neste diploma é contado o tempo de serviço prestado pelos docentes profissionalizados dos ensinos pré-escolar, primário, preparatório e secundário providos nos quadros de outros estabelecimentos de ensino oficial não dependentes do Ministério da Educação e Cultura ou na qualidade de efectivos de nível ou ramo de ensino diferente daquele onde obtiveram a primeira profissionalização.
+> Alterado pelo/a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), publicado em 1978-07-27.
 
-2 - É igualmente considerado para efeitos de atribuição das fases o tempo de serviço prestado pelos professores efectivos dos ensinos pré-escolar, primário, preparatório e secundário e adjuntos dos ensinos preparatório e secundário na situação de serviço equiparado a docente, ainda que prestado em outro Ministério, desde que tal equiparação tenha sido consignada no despacho de nomeação.
+###### Artigo 8.º
 
-Art. 9.º - 1 - A atribuição da 2.ª ou 3.ª fase aos professores efectivos e adjuntos dos ensinos preparatório e secundário determina a alteração do seu horário de trabalho, expressa na redução de tempo de serviço lectivo semanal obrigatório e consequente acréscimo do tempo de serviço dedicado a outras das suas componentes não lectivas.
+1 - Para efeitos de atribuição das fases referidas neste diploma é contado o tempo de serviço prestado pelos docentes profissionalizados dos ensinos pré-escolar, primário, preparatório e secundário providos nos quadros de outros estabelecimentos de ensino oficial não dependentes do Ministério da Educação e Cultura ou na qualidade de efectivos de nível ou ramo de ensino diferente daquele onde obtiveram a primeira profissionalização.
+
+2 - É igualmente considerado para efeitos de atribuição de fases o tempo de serviço prestado pelos professores efectivos dos ensinos pré-escolar, primário e secundário e adjuntos e extraordinários do quadro dos ensinos preparatório e secundário na situação de serviço equiparado a docente, ainda que prestado em outro Ministério, desde que tal equiparação tenha sido consignada no despacho de nomeação.
+
+> Alterado pelo/a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), publicado em 1978-07-27.
+
+###### Artigo 9.º
+
+1 - A atribuição da 2.ª ou 3.ª fases aos professores efectivos, adjuntos e extraordinários do quadro dos ensinos preparatório e secundário determina a alteração do seu horário de trabalho expressa na redução de tempo de serviço lectivo semanal obrigatório.
 
 2 - As reduções de serviço lectivo para os professores da 2.ª e 3.ª fases são, respectivamente, de duas e quatro horas semanais.
 
-3 - Depois de convertido em horas de serviço lectivo, segundo critérios a definir em despacho do Ministro da Educação e Cultura, o tempo da redução prevista no número anterior corresponderá ao exercício de outras funções, nomeadamente as que vierem a ser fixadas nos termos do n.º 2 do artigo 2.º do presente diploma.
+3 - (Revogado.)
 
 4 - As alterações de horário, a que se referem os números anteriores, só produzem efeitos no início do ano escolar imediatamente posterior à data do ingresso do professor em nova fase.
 
-Art. 10.º - 1 - Aos professores providos nos quadros de outros estabelecimentos de ensino oficial não dependentes do Ministério da Educação e Cultura será atribuída, no momento em que forem providos como efectivos em estabelecimentos dos ensinos pré-escolar, primário, preparatório e secundário dependentes do Ministério da Educação e Cultura, a fase a que tiverem direito em resultado do número de anos de serviço prestado no quadro do anterior estabelecimento de ensino, respeitando-se, porém, o estabelecido no artigo 7.º deste decreto-lei.
+> Alterado pelo/a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), publicado em 1978-07-27.
 
-2 - Aos professores efectivos de qualquer nível ou ramo de ensino será atribuída a fase a que tiverem direito em resultado do número de anos de serviço prestado na qualidade de efectivo, independentemente do nível ou ramo de ensino em que o tenham prestado, respeitando-se, porém, o estabelecido no artigo 7.º do presente diploma.
+###### Artigo 10.º
+
+1 - Aos professores providos nos quadros de outros estabelecimentos de ensino oficial não dependentes do Ministério da Educação e Cultura será atribuída, no momento em que forem providos como efectivos em estabelecimentos dos ensinos pré-escolar, primário, preparatório e secundário dependentes do Ministério da Educação e Cultura, a fase a que tiverem direito em resultado do número de anos de serviço prestado no quadro do anterior estabelecimento de ensino, respeitando-se, porém, o estabelecido no artigo 7.º deste decreto-lei.
+
+2 - Aos professores efectivos de qualquer nível ou ramo de ensino será atribuída a fase a que tiverem direito em resultado do número de anos de serviço prestado a partir da profissionalização, independentemente do nível ou ramo de ensino em que o tenham prestado, respeitando-se, porém, o estabelecido no artigo 7.º do presente diploma.
 
 3 - O serviço já prestado nas condições referidas no n.º 2 do artigo 8.º é contado para efeitos de atribuição de fases.
 
-Art. 11.º - 1 - A atribuição de fases é requerida pelos interessados ao director-geral de Pessoal, devendo o requerimento ser acompanhado do registo biográfico do professor, passado pelo estabelecimento de ensino ou direcção de distrito escolar, confirmado e autenticado nos termos legais pelo presidente do conselho directivo, ou por quem as suas vezes fizer, ou pelo respectivo director de distrito escolar.
+> Alterado pelo/a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), publicado em 1978-07-27.
+
+###### Artigo 11.º
+
+1 - A atribuição de fases é requerida pelos interessados ao director-geral de Pessoal, devendo o requerimento ser acompanhado do registo biográfico do professor, passado pelo estabelecimento de ensino ou direcção de distrito escolar, confirmado e autenticado nos termos legais pelo presidente do conselho directivo, ou por quem as suas vezes fizer, ou pelo respectivo director de distrito escolar.
 
 2 - Relativamente aos professores providos nos quadros de outros estabelecimentos de ensino oficial não dependentes do Ministério da Educação e Cultura, o tempo de serviço será confirmado por certidão pessada pelo estabelecimento de ensino em cujo quadro se encontravam providos.
 
 3 - Independentemente da data do despacho que a conceda, a atribuição de qualquer fase produz efeitos, no que respeita ao abono de vencimentos, desde a data em que o professor a ela adquiriu direito.
 
-Art. 12.º - 1 - A contagem de tempo de serviço prestado anteriormente a 7 de Maio de 1976 é feita com base na legislação então em vigor e produz todos os efeitos dela decorrentes.
+###### Artigo 12.º
+
+1 - A contagem de tempo de serviço prestado anteriormente a 7 de Maio de 1976 é feita com base na legislação então em vigor e produz todos os efeitos dela decorrentes.
 
 2 - Quando o tempo de serviço prestado, calculado de acordo com as condições fixadas no número anterior, exceder o necessário para a atribuição das fases já concedidas ou requeridas, será o mesmo creditado para efeitos do disposto no presente diploma, sem prejuízo, porém, da aplicação das regras previstas no artigo 7.º no que respeita ao tempo que ainda faltar para atribuição de nova fase.
 
-Art. 13.º Para efeitos do presente diploma e enquanto não forem revistas as regras de classificação do serviço, considera-se como Bom o tempo de serviço prestado pelos docentes, salvo disposição legal ou informação que determine o contrário.
+3 - Nos termos do presente diploma e para efeitos de ingresso nas fases, a partir de 7 de Maio de 1976 será contado o tempo de serviço docente após a profissionalização.
 
-Art. 14.º A atribuição das fases referidas no presente diploma não prejudica o direito às diuturnidades previstas no [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio.
+> Alterado pelo/a [Lei n.º 56/78](https://diariodarepublica.pt/dr/detalhe/lei/56-1978-297010), publicado em 1978-07-27.
 
-Art. 15.º - 1 - Todos os encargos resultantes da execução do presente diploma serão liquidados em conta das respectivas dotações destinadas a «Remunerações certas e permanentes» do orçamento do Ministério da Educação e Cultura.
+###### Artigo 13.º
+
+Para efeitos do presente diploma e enquanto não forem revistas as regras de classificação do serviço, considera-se como Bom o tempo de serviço prestado pelos docentes, salvo disposição legal ou informação que determine o contrário.
+
+###### Artigo 14.º
+
+A atribuição das fases referidas no presente diploma não prejudica o direito às diuturnidades previstas no [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio.
+
+###### Artigo 15.º
+
+1 - Todos os encargos resultantes da execução do presente diploma serão liquidados em conta das respectivas dotações destinadas a «Remunerações certas e permanentes» do orçamento do Ministério da Educação e Cultura.
 
 2 - No presente ano económico as despesas resultantes de atribuição de fases serão processadas por duodécimos mensais.
 
-Art. 16.º As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Cultura ou por despacho conjunto dos Ministros das Finanças e do Plano, da Reforma Administrativa e da Educação e Cultura, consoante a sua natureza.
+###### Artigo 16.º
 
-Art. 17.º O presente diploma tem aplicação transitória e será obrigatoriamente revisto quando da execução da lei de reestruturação das carreiras da função pública ou até 31 de Dezembro de 1980.
+As dúvidas resultantes da execução do presente diploma serão resolvidas por despacho do Ministro da Educação e Cultura ou por despacho conjunto dos Ministros das Finanças e do Plano, da Reforma Administrativa e da Educação e Cultura, consoante a sua natureza.
+
+###### Artigo 17.º
+
+O presente diploma tem aplicação transitória e será obrigatoriamente revisto quando da execução da lei de reestruturação das carreiras da função pública ou até 31 de Dezembro de 1980.
 
 Visto e aprovado em Conselho de Ministros. - Mário Soares - Rui Eduardo Ferreira Rodrigues Pena - Mário Augusto Sottomayor Leal Cardia.
 

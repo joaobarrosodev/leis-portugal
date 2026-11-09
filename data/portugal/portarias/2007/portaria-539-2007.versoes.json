@@ -1,0 +1,517 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:521214:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2007-04-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2db3b9009158a1f1",
+    "8ed7c4e8982bc38f",
+    "68ce0bf18e70a591",
+    "04e67b75d48b0915",
+    "9bda5319e908aba2",
+    "9bcdb98171e81334",
+    "f3fa423f7d12ff65",
+    "7494ad267a343b0c",
+    "7ae12306189bc493",
+    "b2eb8855c53dc5c2",
+    "17562be5a3522ea6",
+    "c37a8f78c2ba3345",
+    "70b9b902d1e4acbc",
+    "f4ce3e2ba75bfac3",
+    "e523f2859b53da86",
+    "3dd7341b24935ba8",
+    "0b079756294f0bb4",
+    "4fe2470109773d2c",
+    "5e51620c77ec754e",
+    "6bad7543774b7ebe",
+    "afad9545320e368c",
+    "3fe7cbfd38468984",
+    "5c0c65ccf4158e6f",
+    "b5c76c28bf8a2110"
+   ]
+  },
+  {
+   "date": "2012-10-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176351:por",
+     "title": "Portaria n.º 321/2012",
+     "published": "2012-10-15",
+     "dre_path": "/dr/detalhe/portaria/321-2012-176351"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::1.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::2.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::3.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::4.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::5.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::6.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::7.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::8.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::9.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::10.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::11.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::12.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::13.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::14.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::15.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::16.º",
+    "Altera Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::17.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::18.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::19.º",
+    "Revoga Artigo ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.::20.º"
+   ],
+   "fragments": [
+    "2db3b9009158a1f1",
+    "aa700be6e029859e",
+    "5492ec3c9dad9d1f",
+    "04e67b75d48b0915",
+    "7c750597fa205b64",
+    "8eee018db51d4dd7",
+    "8cc15ccfe7d17511",
+    "3d7db4f1c555ceb8",
+    "2fe43e2f0ee03b82",
+    "45905bdc5c6c6489",
+    "0cd5725e78ef5af9",
+    "d15e658ef6db0fcd",
+    "0faad6aad11c76fc",
+    "bb4b2bde1fe0cb8c",
+    "499a2eba49b44b9b",
+    "385df11f0e098ade",
+    "526836c7fd58d63d",
+    "99ea994632d5e330",
+    "e7d6839d960d3b33",
+    "3641aef60aaa74bb",
+    "0caef048406edcd5",
+    "7afc759caa52bff0",
+    "a5a163433a383efa",
+    "9c3b7921aad4e301"
+   ]
+  }
+ ],
+ "fragments": {
+  "2db3b9009158a1f1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de Abril\n\nO [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), de 27 de Abril, definiu a missão e as atribuições do Instituto do Turismo de Portugal, I. P. Importa agora, no desenvolvimento daquele decreto-lei, determinar a sua organização interna.\n\nAssim:\n\nAo abrigo do artigo 12.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro:\n\nManda o Governo, pelos Ministros de Estado e das Finanças e da Economia e da Inovação, o seguinte:"
+  },
+  "8ed7c4e8982bc38f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nSão aprovados, em anexo à presente portaria e da qual fazem parte integrante, os Estatutos do Instituto do Turismo de Portugal, I. P., que adopta a designação de Turismo de Portugal, I. P."
+  },
+  "68ce0bf18e70a591": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\nEm 24 de Abril de 2007.\n\nO Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho."
+  },
+  "04e67b75d48b0915": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — ESTATUTOS DO INSTITUTO DO TURISMO DE PORTUGAL, I. P."
+  },
+  "9bda5319e908aba2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Regime e natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Regime e natureza\n\nA natureza, regime jurídico, missão e atribuições do Turismo de Portugal, I. P., bem como as competências dos seus órgãos, constam da respectiva lei orgânica, aprovada pelo [Decreto-Lei n.º 141/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2007-520987), de 27 de Abril."
+  },
+  "9bcdb98171e81334": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estrutura orgânica\n\n1 - O Turismo de Portugal, I. P., adopta na sua organização interna o modelo misto de estruturas hierarquizada e matricial.\n\n2 - O Turismo de Portugal, I. P., estrutura-se de acordo com as seguintes áreas de actuação:\n\na) Estudos e planeamento estratégico;\n\nb) Operacionais;\n\nc) Apoio e suporte.\n\n3 - As áreas de actuação organizam-se em direcções e departamentos, de acordo com o modelo de estrutura hierarquizada nos termos definidos nos presentes Estatutos, os quais são dirigidos, respectivamente, por um Director Coordenador e por um Director, cujo estatuto é definido no Regulamento de Pessoal do Turismo de Portugal, I. P.\n\n4 - Sem prejuízo do disposto no número anterior, em qualquer das áreas de actuação anteriormente identificadas, podem ser adoptados modelos matriciais, de acordo com o estabelecido nos presentes Estatutos.\n\n5 - A organização interna das Direcções e a sua estruturação em unidades orgânicas de 2.º nível, designadas por Departamentos, bem como as respectivas competências são definidas por regulamento interno do Turismo de Portugal, I. P., podendo o número destas últimas unidades ser alterado, desde que não ultrapasse, em cada momento, o máximo de 24."
+  },
+  "f3fa423f7d12ff65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Secretário-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Secretário-Geral\n\n1 - O Secretário-Geral desempenha funções de apoio técnico ao conselho directivo do Turismo de Portugal, I. P., e, em especial, ao seu presidente, cabendo-lhe garantir uma eficaz articulação e coordenação entre as diversas direcções e departamentos, com vista a alcançar uma maior simplificação e racionalização dos meios humanos, financeiros e materiais existentes.\n\n2 - Ao Secretário-Geral cabe ainda coordenar todas as actividades de suporte, de carácter técnico e administrativo, necessárias ao normal desenvolvimento da actividade dos departamentos do Turismo de Portugal, I. P."
+  },
+  "7494ad267a343b0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência\n\nCompete ao Secretário-Geral:\n\na) Apoiar o funcionamento dos demais órgãos do Turismo de Portugal, I. P., nomeadamente através da preparação de estudos e pareceres;\n\nb) Assegurar o expediente relativo ao funcionamento dos órgãos colegiais;\n\nc) Coordenar e acompanhar a execução da política de recursos humanos do Turismo de Portugal, I. P.;\n\nd) Coordenar a elaboração dos planos de actividades, do orçamento, do relatório anual de gestão e execução orçamental, do relatório de actividades, do balanço social, dos demais instrumentos de gestão provisional e de prestação de contas;\n\ne) Acompanhar a execução do orçamento e do plano de actividades;\n\nf) Assegurar a gestão dos recursos materiais afectos ao funcionamento do Turismo de Portugal, I. P.;\n\ng) Assegurar o regular funcionamento dos serviços do Turismo de Portugal, I. P.;\n\nh) Diligenciar pelo registo dos bens e direitos do Turismo de Portugal, I. P., junto dos organismos competentes;\n\ni) Exercer as competências que lhe sejam delegadas ou subdelegadas;\n\nj) Exercer quaisquer outras competências previstas na lei."
+  },
+  "7ae12306189bc493": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Estatuto remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estatuto remuneratório\n\nO Secretário-Geral é equiparado, para efeitos remuneratórios, a vogal do conselho directivo."
+  },
+  "b2eb8855c53dc5c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Estrutura dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Estrutura dirigente\n\nSão cargos directivos do Turismo de Portugal, I. P., os de Director Coordenador e de Director, exercidos em regime de comissão de serviço, nos termos previstos no Código do Trabalho."
+  },
+  "17562be5a3522ea6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Área de estudos e planeamento estratégico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Área de estudos e planeamento estratégico\n\n1 - A área de estudos e planeamento estratégico organiza-se numa única direcção, designada por Direcção de Estudos e Planeamento Estratégico.\n\n2 - À Direcção de Estudos e Planeamento Estratégico compete desenvolver um conjunto de funções que visam a monitorização e avaliação da actividade turística nacional e dos seus factores de desenvolvimento, nomeadamente através da estatística, a dinamização de centros de competência em Turismo, a representação e cooperação internacional do Turismo de Portugal, I. P., a intervenção nos domínios do conhecimento, da tecnologia e do I&D aplicados ao Turismo, bem como o planeamento estratégico de desenvolvimento do sector.\n\n3 - A Direcção de Estudos e Planeamento Estratégico compreende os seguintes Departamentos:\n\na) Estudos;\n\nb) Informação Estatística;\n\nc) Assuntos Internacionais;\n\nd) Centro de Documentação."
+  },
+  "c37a8f78c2ba3345": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Áreas operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Áreas operacionais\n\nAs áreas operacionais organizam-se nas seguintes Direcções:\n\na) Qualificação da Oferta;\n\nb) Investimento;\n\nc) Promoção;\n\nd) Formação;\n\ne) Desenvolvimento de Produtos e Destinos."
+  },
+  "70b9b902d1e4acbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Qualificação da Oferta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Qualificação da Oferta\n\n1 - À Direcção de Qualificação da Oferta compete promover uma política de valorização da oferta turística através da intervenção no ordenamento do território e do licenciamento ou autorização, classificação e registo de empreendimentos e actividades turísticas, reconhecendo o seu interesse para o turismo, bem como propor ao Governo a declaração da respectiva utilidade turística.\n\n2 - A Direcção de Qualificação da Oferta compreende os seguintes Departamentos:\n\na) Ordenamento do Território;\n\nb) Empreendimentos e Actividades;\n\nc) Classificação e Qualidade."
+  },
+  "f4ce3e2ba75bfac3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Investimento\n\n1 - À Direcção de Investimento compete colaborar na concepção dos instrumentos de apoio ao desenvolvimento da oferta turística, na análise das candidaturas que tenham por objecto a concretização de projectos turísticos e outras infra-estruturas de interesse para o turismo e na contratação e acompanhamento dos mesmos, nas suas vertentes material, financeira e contratual, prestando ainda o apoio técnico que se afigure necessário.\n\n2 - A Direcção de Investimento compreende os seguintes Departamentos:\n\na) Análise;\n\nb) Execução;\n\nc) Acompanhamento Contratual."
+  },
+  "e523f2859b53da86": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Promoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Promoção\n\n1 - À Direcção de Promoção compete apresentar propostas para a definição da estratégia promocional de Portugal e dos destinos regionais e produtos turísticos, para a captação de eventos internacionais e para a concepção do respectivo plano nacional de promoção turística, coordenando, executando ou acompanhando, em colaboração com agentes públicos e privados, a actividade promocional, informativa e de imagem do Destino Portugal, tanto no país como no estrangeiro.\n\n2 - A Direcção da Promoção compreende os seguintes Departamentos:\n\na) Imagem e Conteúdos;\n\nb) Operação e Eventos."
+  },
+  "3dd7341b24935ba8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Formação\n\n1 - À Direcção de Formação compete definir as prioridades de qualificação dos recursos humanos do sector do turismo, tendo em vista a melhoria do prestígio das profissões turísticas, o reconhecimento de cursos de formação profissional e a certificação da aptidão profissional para o exercício das profissões do sector e, ainda, a gestão ou participação em operações concretas de formação designadamente a das escolas de Hotelaria e Turismo.\n\n2 - A Direcção de Formação compreende os seguintes Departamentos:\n\na) Planeamento e Certificação;\n\nb) Coordenação e Gestão Escolar."
+  },
+  "0b079756294f0bb4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Desenvolvimento de Produtos e Destinos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Desenvolvimento de Produtos e Destinos\n\n1 - À Direcção do Desenvolvimento de Produtos e Destinos compete assegurar a execução da estratégia definida nesta área, criando condições para o desenvolvimento estruturado de produtos e destinos turísticos, através do conhecimento aprofundado da sua realidade e da definição de acções determinantes da sua qualificação, em ligação com agentes públicos e privados relevantes e em conjugação com as restantes áreas do organismo.\n\n2 - A Direcção do Desenvolvimento de Produtos e Destinos compreende os seguintes Departamentos:\n\na) Dinamização;\n\nb) Informação."
+  },
+  "4fe2470109773d2c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Área de apoio e suporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Área de apoio e suporte\n\n1 - A área de apoio e de suporte compreende um conjunto de funções que visam, por um lado, habilitar a uma tomada de decisão por parte dos órgãos do Turismo de Portugal, I. P., e, por outro, assegurar o normal funcionamento de toda a estrutura do organismo.\n\n2 - Esta área organiza-se em duas direcções:\n\na) Gabinete Jurídico, ao qual compete assegurar apoio jurídico e assistência jurídica ao nível do contencioso ao conselho directivo e a todos os demais órgãos do Instituto;\n\nb) Gabinete Financeiro, ao qual compete assegurar a gestão e controlo financeiro, compreendendo os seguintes Departamentos:\n\ni) Planeamento e Controlo de Gestão;\n\nii) Contabilidade e Gestão Geral.\n\n3 - Esta área comporta ainda os seguintes departamentos:\n\na) Departamento de Recursos Humanos;\n\nb) Departamento de Tecnologias;\n\nc) Departamento de Comunicação."
+  },
+  "5e51620c77ec754e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Equipas de projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Equipas de projecto\n\n1 - O conselho directivo pode criar equipas de projecto em função de objectivos específicos, de natureza multidisciplinar e carácter transversal às diversas áreas de actuação, as quais não podem, em cada momento, ultrapassar o limite máximo de 15 equipas.\n\n2 - A deliberação do conselho directivo que cria cada equipa de projecto define, designadamente, a sua composição e modo de funcionamento, bem como os meios materiais e financeiros afectos à sua actividade e o regime aplicável ao respectivo coordenador, nos termos a definir no Regulamento de Pessoal do Turismo de Portugal, I. P."
+  },
+  "6bad7543774b7ebe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Serviço de Inspecção de Jogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Serviço de Inspecção de Jogos\n\n1 - O Serviço de Inspecção de Jogos é um serviço integrado no Turismo de Portugal, I. P., que funciona na dependência da Comissão de Jogos e é dotado de autonomia técnica e funcional, com atribuições de carácter preventivo e fiscalizador, que zela pelo cumprimento da legalidade no âmbito da actividade do jogo.\n\n2 - O Serviço de Inspecção de Jogos integra as seguintes áreas de actuação, estruturadas nos seguintes Departamentos:\n\na) Controlo da Actividade de Jogo;\n\nb) Jogo Ilícito;\n\nc) Tecnologias de Inspecção de Jogos."
+  },
+  "afad9545320e368c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Estrutura dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Estrutura dirigente\n\n1 - O Serviço de Inspecção de Jogos é dirigido por um Director, equiparado, para efeitos remuneratórios, a inspector-geral, coadjuvado por três Directores, designados por Directores-Adjuntos, que dirigem as direcções referidas no n.º 2 do artigo anterior.\n\n2 - O Director do Serviço de Inspecção de Jogos é substituído, nas suas ausências ou impedimentos, pelo Director-Adjunto que designar.\n\n3 - Os cargos directivos do Serviço de Inspecção de Jogos são exercidos em regime de comissão de serviço, prevista no Código do Trabalho."
+  },
+  "3fe7cbfd38468984": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Director do Serviço de Inspecção de Jogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Director do Serviço de Inspecção de Jogos\n\n1 - Compete ao Director do Serviço de Inspecção de Jogos:\n\na) Dirigir, coordenar e orientar o Serviço de Inspecção de Jogos, no quadro dos princípios estabelecidos pela comissão de jogos;\n\nb) Inspeccionar e fiscalizar as actividades de exploração e prática de jogos de fortuna ou azar, nomeadamente o funcionamento das salas de jogo dos casinos, bingos e de outros locais onde esteja concessionada ou autorizada a exploração de jogos;\n\nc) Aplicar medidas preventivas e cautelares de inibição de acesso às salas de jogo;\n\nd) Fiscalizar a contabilidade especial do jogo e a escrita comercial dos concessionários e demais entidades autorizadas à sua exploração, mantendo a Comissão de Jogos informada sobre os resultados apurados;\n\ne) Levantar autos de notícia, sempre que possível testemunhados, os quais têm o valor juridicamente atribuído aos autos levantados por autoridade policial;\n\nf) Fiscalizar a aposta mútua e as demais modalidade de jogo, quando não estejam legalmente submetidas à competência de outras entidades;\n\ng) Fiscalizar as operações respeitantes à exploração de apostas sobre corridas de cavalos, provas de obstáculos, corridas de galgos ou outras que vierem a ser autorizadas e respeitem a provas organizadas em Portugal ou no estrangeiro, bem como os elementos contabilísticos respectivos;\n\nh) Cooperar com as autoridades policiais na actividade de fiscalização e de repressão da prática e exploração de jogos ilícitos;\n\ni) Prestar apoio técnico, consultivo e pericial aos tribunais, regiões autónomas, governos civis, autarquias, e autoridades policiais, em matéria de modalidades afins dos jogos de fortuna ou azar e máquinas de diversão;\n\nj) Classificar temas e licenciar máquinas e suportes de jogos de diversão;\n\nl) Auditar o material e utensílios destinados aos jogos, tendo em vista a sua homologação e garantir o seu regular funcionamento;\n\nm) Liquidar os impostos e contrapartidas aplicáveis em matéria de jogo, dando conta à Comissão de Jogos;\n\nn) Elaborar e submeter à aprovação da Comissão de Jogos os planos e relatório de actividades, o orçamento e as contas anuais do Serviço de Inspecção de Jogos;\n\no) Designar representantes para os júris dos exames do pessoal das salas de jogo;\n\np) Exercer todas as competências que lhe sejam delegadas ou subdelegadas pelo conselho directivo ou pela Comissão de Jogos.\n\n2 - O Director do Serviço de Inspecção de Jogos pode delegar as suas competências nos Directores-Adjuntos e no pessoal integrado nas carreiras de inspecção."
+  },
+  "5c0c65ccf4158e6f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Mobilidade de trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Mobilidade de trabalhadores\n\n1 - Ao abrigo dos mecanismos de mobilidade geral previstos na lei, os trabalhadores que exerçam funções públicas, independentemente do regime de vinculação, incluindo as autarquias locais, bem como os de entidades ou empresas públicas ou privadas e sociedades de capitais públicos, podem exercer funções no Turismo de Portugal, I. P.\n\n2 - O pessoal do Turismo de Portugal, I. P., pode desempenhar funções noutras entidades ao abrigo dos instrumentos de mobilidade geral previstos na lei, com garantia do seu lugar de origem e dos direitos nele adquiridos, considerando-se tal período como tempo de serviço efectivamente prestado no Turismo de Portugal, I. P."
+  },
+  "b5c76c28bf8a2110": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Delegados e representantes no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Delegados e representantes no estrangeiro\n\n1 - O Turismo de Portugal, I. P., dispõe de delegados e representantes no estrangeiro contratados, preferencialmente, de entre o pessoal do quadro ou se necessário recrutado em Portugal ou no estrangeiro.\n\n2 - As condições de exercício da função, designadamente o nível remuneratório, constam do respectivo contrato e do Regulamento de Pessoal do Turismo de Portugal, I. P."
+  },
+  "aa700be6e029859e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "5492ec3c9dad9d1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "7c750597fa205b64": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Regime e natureza",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 1.º — Regime e natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "8eee018db51d4dd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Estrutura orgânica",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 2.º — Estrutura orgânica\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "8cc15ccfe7d17511": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Secretário-Geral",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 3.º — Secretário-Geral\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "3d7db4f1c555ceb8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 4.º — Competência\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "2fe43e2f0ee03b82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Estatuto remuneratório",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 5.º — Estatuto remuneratório\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "45905bdc5c6c6489": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Estrutura dirigente",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 6.º — Estrutura dirigente\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "0cd5725e78ef5af9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Área de estudos e planeamento estratégico",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 7.º — Área de estudos e planeamento estratégico\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "d15e658ef6db0fcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Áreas operacionais",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 8.º — Áreas operacionais\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "0faad6aad11c76fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Qualificação da Oferta",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 9.º — Qualificação da Oferta\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "bb4b2bde1fe0cb8c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Investimento",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 10.º — Investimento\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "499a2eba49b44b9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Promoção",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 11.º — Promoção\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "385df11f0e098ade": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Formação",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 12.º — Formação\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "526836c7fd58d63d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Desenvolvimento de Produtos e Destinos",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 13.º — Desenvolvimento de Produtos e Destinos\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "99ea994632d5e330": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Área de apoio e suporte",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 14.º — Área de apoio e suporte\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "e7d6839d960d3b33": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Equipas de projecto",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 15.º — Equipas de projecto\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "3641aef60aaa74bb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Serviço de Inspecção de Jogos",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 16.º — Serviço de Inspecção de Jogos\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "0caef048406edcd5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Estrutura dirigente",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 17.º — Estrutura dirigente\n\n1 - O Serviço de Inspecção de Jogos é dirigido por um Director, equiparado, para efeitos remuneratórios, a inspector-geral, coadjuvado por três Directores, designados por Directores-Adjuntos, que dirigem as direcções referidas no n.º 2 do artigo anterior.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "7afc759caa52bff0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Director do Serviço de Inspecção de Jogos",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 18.º — Director do Serviço de Inspecção de Jogos\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "a5a163433a383efa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Mobilidade de trabalhadores",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 19.º — Mobilidade de trabalhadores\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  },
+  "9c3b7921aad4e301": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Delegados e representantes no estrangeiro",
+   "in_force_from": "2012-10-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+   ],
+   "markdown": "###### Artigo 20.º — Delegados e representantes no estrangeiro\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 321/2012](https://diariodarepublica.pt/dr/detalhe/portaria/321-2012-176351), publicado em 2012-10-15."
+  }
+ }
+}

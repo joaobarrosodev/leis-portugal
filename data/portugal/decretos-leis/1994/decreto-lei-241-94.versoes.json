@@ -1,0 +1,126 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:604441:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1994-09-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "2bd4f26e76030805",
+    "b75943824153ec7c",
+    "3e8fad452a2029f2",
+    "befb5d54997e40ad",
+    "aa119db830c71581",
+    "eb14a90ef5d45133",
+    "c42a9d1cac012b0b",
+    "7195d76fe2d0167c"
+   ]
+  },
+  {
+   "date": "1997-12-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:420407:por",
+     "title": "Decreto-Lei n.º 365/97",
+     "published": "1997-12-20",
+     "dre_path": "/dr/detalhe/decreto-lei/365-1997-420407"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "2bd4f26e76030805",
+    "b75943824153ec7c",
+    "3e8fad452a2029f2",
+    "cd343666239f3a1a",
+    "aa119db830c71581",
+    "eb14a90ef5d45133",
+    "c42a9d1cac012b0b",
+    "7195d76fe2d0167c"
+   ]
+  }
+ ],
+ "fragments": {
+  "2bd4f26e76030805": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de Setembro\n\nO [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, reformulou o regime legal da carreira dos técnicos superiores de saúde, mantendo um desenvolvimento por ramos consagrados na anterior composição da carreira, com excepção do ramo de física hospitalar, que resultou de um desmembramento do radionuclear. Aquele diploma limitou-se a acolher, nesta matéria, a situação existente.\n\nContudo, o melhor conhecimento que hoje se tem da realidade, no domínio das actividades desenvolvidas pelos psicólogos clínicos nos diversos estabelecimentos de saúde, conduziu à necessidade de perspectivar uma inserção daqueles profissionais em adequada carreira.\n\nNa verdade, as especificidades próprias daquelas actividades, exigindo uma elevada qualificação científica e técnica e exercidas com grande autonomia funcional, mostram ser desadequado o actual enquadramento dos psicólogos clínicos na carreira técnica superior do regime geral.\n\nAssim, ponderada esta situação, designadamente em sede do desajustamento detectado, e valorando positivamente os aspectos que a aproximam dos fundamentos que ditaram a unidade da carreira dos técnicos superiores de saúde, não obstante a diferenciação e qualificação profissionais reflectidas nos seus ramos, considera-se conveniente incluir, no âmbito daquela carreira, o ramo da psicologia clínica.\n\nA possibilidade de inclusão de novos ramos de actividade encontra-se expressamente prevista no n.º 3 do artigo 9.º do [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, através de portaria conjunta dos Ministros da Saúde e das Finanças. Porém, no caso, para além daquela inclusão, pretende-se facultar a transição dos actuais psicólogos clínicos inseridos na carreira técnica superior do regime geral, o que não pode conseguir-se através de acto meramente regulamentar.\n\nAproveita-se ainda a oportunidade para delimitar com precisão o âmbito das situações de equiparação ao estágio susceptíveis de beneficiarem do alargamento do período transitório fixado no artigo 35.º do [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, e introduzir pequenas alterações ao referido diploma.\n\nForam ouvidas as associações sindicais representativas dos técnicos superiores de saúde.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela [Lei n.º 48/90](https://diariodarepublica.pt/dr/detalhe/lei/48-1990-574127), de 24 Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "b75943824153ec7c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Ramo de psicologia clínica e perfil profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Ramo de psicologia clínica e perfil profissional\n\n1 - É incluído nos ramos de actividades da carreira dos técnicos superiores de saúde, previstos no artigo 9.º do [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, o ramo de psicologia clínica, ao qual corresponde a licenciatura em Psicologia Clínica.\n\n2 - O psicólogo clínico é o profissional habilitado com o grau de especialista que desenvolve funções científicas e técnicas de avaliação, psicodiagnóstico e tratamento no campo da saúde.\n\n3 - O psicólogo clínico deve aprofundar o seu perfil profissional orientando-se para o exercício em áreas específicas, a reconhecer por portaria do Ministro da Saúde."
+  },
+  "3e8fad452a2029f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Funções das categorias do ramo de psicologia clínica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Funções das categorias do ramo de psicologia clínica\n\n1 - Ao psicólogo clínico assistente e assistente principal são atribuídas as seguintes funções no domínio da saúde, tendo em conta os níveis de complexidade e responsabilidade em que se desenvolvem:\n\na) O estudo psicológico de indivíduos e elaboração de psicodiagnóstico;\n\nb) O estudo psicológico de grupos populacionais determinados, para fins de prevenção e tratamento;\n\nc) A participação em programas de educação para a saúde, no domínio específico;\n\nd) O aconselhamento psicológico individual, conjugal, familiar ou de grupo;\n\ne) A intervenção psicológica e psicoterapia;\n\nf) A responsabilidade pela escolha, administração e utilização do equipamento técnico específico da psicologia;\n\ng) A integração em equipas multidisciplinares de serviço de urgência, quando tal se mostrar conveniente;\n\nh) A participação em reuniões científicas;\n\ni) A participação em acções de formação na área da especialidade e afins;\n\nj) A participação em programas de investigação em aspectos relacionados com a sua área profissional;\n\nk) A responsabilização por sectores ou unidades de serviços;\n\nl) A participação em júris de concurso e de avaliação.\n\n2 - Ao psicólogo clínico assessor são atribuídas, além de todas as funções do assistente e do assistente principal:\n\na) A participação na elaboração de programas de educação para a saúde em geral e em particular nos domínios que envolvem o comportamento do indivíduo ou do grupo;\n\nb) O planeamento das actividades constantes dos programas para o sector ou unidade e sua coordenação, execução e avaliação;\n\nc) A selecção, concepção e adaptação de instrumentos e de metodologias de avaliação e de intervenção psicológica em fase de experimentação;\n\nd) A emissão de pareceres técnicos e científicos;\n\ne) As funções atribuídas ao assessor superior, caso este não exista, ou nas suas faltas ou impedimentos, quando solicitado.\n\n3 - Ao psicólogo clínico assessor superior são atribuídas, para além das funções do assistente, do assistente principal e do assessor:\n\na) A participação na estruturação e organização dos serviços;\n\nb) A elaboração e coordenação de programas de protocolos de actividades científicas e técnicas;\n\nc) A elaboração, promoção e coordenação de acções de formação complementar de psicólogos e de outros técnicos de saúde;\n\nd) A avaliação e coordenação dos técnicos superiores do ramo da psicologia clínica, integrados na correspondente unidade de acção;\n\ne) A integração em comissões especializadas.\n\n4 - Ao psicólogo clínico que tiver a responsabilidade de um serviço compete, em especial:\n\na) A elaboração do programa de actividades do serviço;\n\nb) A coordenação de todas as actividades de gestão, técnicas, científicas e de formação do serviço;\n\nc) A avaliação da eficácia e eficiência do serviço, promovendo a sua reorganização e actualização, sempre que necessário;\n\nd) A elaboração do relatório de actividades.\n\n5 - Ao psicólogo clínico, quando integrado em serviço de âmbito regional, compete ainda:\n\na) Elaborar planos de acção e relatórios de actividades;\n\nb) A avaliação periódica da eficiência e eficácia dos serviços."
+  },
+  "befb5d54997e40ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Transição do pessoal da área de psicologia clínica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transição do pessoal da área de psicologia clínica\n\n1 - O pessoal provido em lugares da carreira técnica superior do regime geral e que, sendo possuidor de licenciatura em Psicologia Clínica, se encontre no exercício efectivo de funções próprias do ramo de psicologia clínica há, pelo menos, três anos, à data da publicação do presente diploma, comprovado por documento emitido pelo órgão máximo de gestão do estabelecimento, pode transitar para a carreira dos técnicos superiores de saúde, ramo de psicologia clínica, mediante listas de transição homologadas por despacho ministerial e publicadas no Diário da República.\n\n2 - O pessoal que vier a transitar nos termos do número anterior é posicionado em escalão a que corresponda remuneração igual à auferida ou imediatamente superior, se não houver coincidência, de acordo com as seguintes regras:\n\na) Os técnicos superiores de 2.ª e 1.ª classes para a categoria de assistente;\n\nb) Os técnicos superiores principais para a categoria de assistente principal;\n\nc) Os assessores para a categoria de assessor;\n\nd) Os assessores principais para a categoria de assessor superior.\n\n3 - A antiguidade nas novas categorias decorrentes da transição prevista nos n.os 1 e 2, bem como o tempo de serviço a considerar para efeitos de progressão nas mesmas, é contada a partir da data da entrada em vigor do presente diploma."
+  },
+  "aa119db830c71581": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Acesso até à categoria de assessor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Acesso até à categoria de assessor\n\nAos actuais técnicos superiores de saúde que, por força da aplicação da regra definida na alínea g) do n.º 1 do artigo 34.º do [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, tenham transitado para a categoria de assistente principal é facultado o acesso à categoria de assessor mediante concurso de avaliação curricular, sem prejuízo do tempo de serviço legalmente exigido."
+  },
+  "eb14a90ef5d45133": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Salvaguarda de situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Salvaguarda de situações especiais\n\n1 - Nos dois anos subsequentes à entrada em vigor do presente diploma, os estagiários aprovados nos estágios referidos no n.º 1 do artigo 35.º do [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, podem candidatar-se a concursos de provimento em lugares de assistente.\n\n2 - O disposto no número anterior é aplicável aos titulares de equiparação ao estágio obtido ao abrigo do n.º 14.1 do regulamento aprovado pela [Portaria n.º 605/84](https://diariodarepublica.pt/dr/detalhe/portaria/605-1984-382210), de 16 de Agosto, na nova redacção que lhe foi dada pelo n.º 4.º da [Portaria n.º 552/88](https://diariodarepublica.pt/dr/detalhe/portaria/552-1988-376816), de 16 de Agosto, e do despacho ministerial n.º 34/86, de 22 de Agosto de 1986, publicado no Diário da República, 2.ª série, de 10 de Setembro de 1986.\n\n3 - Nos casos em que a preparação profissional relevante para efeitos de equiparação ao estágio teve início até à entrada em vigor do presente diploma, os requerimentos de equiparação devem ser apresentados dentro do prazo de seis meses contado a partir da conclusão daquela preparação, sendo de dois anos o período transitório durante o qual se poderão candidatar a concursos para provimento em lugares de assistente, os quais se contam a partir da data em que for proferida a decisão no processo de equiparação."
+  },
+  "c42a9d1cac012b0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO artigo 13.º do [Decreto-Lei n.º 414/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1991-344424), de 22 de Outubro, passa a ter a seguinte redacção:"
+  },
+  "7195d76fe2d0167c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Funções das categorias do ramo de farmácia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Funções das categorias do ramo de farmácia\n\n1 - ...\n\nb) ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nk) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) A realização de acções de inspecção, quando integrados em estabelecimentos ou serviços que detenham competências fiscalizadoras.\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\n3 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\nVisto e aprovado em Conselho de Ministros de 4 de Agosto de 1994. - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga - Adalberto Paulo da Fonseca Mendo - José Bernardo Veloso Falcão e Cunha.\n\nPromulgado em 5 de Setembro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 8 de Setembro de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "cd343666239f3a1a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Transição do pessoal da área de psicologia clínica",
+   "in_force_from": "1997-12-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 365/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1997-420407), publicado em 1997-12-20."
+   ],
+   "markdown": "###### Artigo 3.º — Transição do pessoal da área de psicologia clínica\n\n1 - O pessoal provido em lugares da carreira técnica superior ou técnica do regime geral e que, sendo possuidor de licenciatura em Psicologia Clínica, em Psicologia, em Filosofia ou em Ciências Histórico-Filosóficas, estas duas últimas obtidas até 1979, se encontre no exercício efectivo de funções próprias do ramo de psicologia clínica há, pelo menos, três anos, à data da publicação do presente diploma, comprovado por documento emitido pelo órgão máximo de gestão do estabelecimento, pode transitar para a carreira de técnico superior de saúde, ramo de psicologia clínica, após parecer favorável de uma comissão técnica a designar por despacho ministerial composta por três individualidades de reconhecida competência.\n\n2 - A transição a que se refere o número anterior efectua-se por listas de transição homologadas por despacho ministerial e publicadas no Diário da República.\n\n3 - O pessoal que vier a transitar nos termos do número anterior é posicionado em escalão a que corresponda remuneração igual à auferida ou imediatamente superior, se não houver coincidência, de acordo com as seguintes regras:\n\na) Os técnicos superiores de 2.ª classe e de 1.ª classe e os técnicos de 2.ª classe, de 1.ª classe, principais e especialistas para a categoria de assistente;\n\nb) Os técnicos superiores principais e técnicos especialistas principais para a categoria de assistente principal;\n\nc) Os assessores para a categoria de assessor;\n\nd) Os assessores principais para a categoria de assessor superior.\n\n4 - A antiguidade nas novas categorias decorrentes da transição prevista nos n.os 1 e 2, bem como o tempo de serviço a considerar para efeitos de progressão nas mesmas, é contada a partir da data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a [Decreto-Lei n.º 365/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/365-1997-420407), publicado em 1997-12-20."
+  }
+ }
+}

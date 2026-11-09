@@ -39,10 +39,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-03-19'
+version_history:
+  file: decreto-lei-729-f-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-03-19'
+    amending: pt:dre:279593:por
+    amending_title: Decreto-Lei n.º 513/77; Decreto-Lei n.º 176/79; Decreto-Lei n.º 49/86
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Altera Artigo 4.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 10.º
+    - Altera Artigo 16.º
 identifiers:
   celex: null
   eli: null
@@ -68,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:47:46Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 513/77; Decreto-Lei
+    n.º 176/79; Decreto-Lei n.º 49/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-729-f-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -168,53 +189,85 @@ Nestes termos, usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3
 
 ### CAPÍTULO I — Âmbito do diploma
 
-Artigo 1.º O presente diploma aplica-se às instituições de crédito nacionalizadas pelo [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março, e, bem assim, ao Banco de Angola e ao Banco Nacional Ultramarino, nacionalizados, respectivamente, pelos Decretos-Leis n.os [450/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1974-473882) e [451/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1974-473765), ambos de 13 de Setembro.
+###### Artigo 1.º
+
+O presente diploma aplica-se às instituições de crédito nacionalizadas pelo [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março, e, bem assim, ao Banco de Angola e ao Banco Nacional Ultramarino, nacionalizados, respectivamente, pelos Decretos-Leis n.os [450/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1974-473882) e [451/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/451-1974-473765), ambos de 13 de Setembro.
 
 ### CAPÍTULO II — Natureza das instituições de crédito nacionalizadas
 
-Art. 2.º As instituições de crédito nacionalizadas são pessoas colectivas de direito público, dotadas de autonomia administrativa e financeira, com a natureza de empresas públicas.
+###### Artigo 2.º
+
+As instituições de crédito nacionalizadas são pessoas colectivas de direito público, dotadas de autonomia administrativa e financeira, com a natureza de empresas públicas.
 
 ### CAPÍTULO III — Capital, fundos de reserva e provisões
 
-Art. 3.º As instituições de crédito nacionalizadas dispõem de um capital inicial, igual ao existente ao tempo da nacionalização, que lhes é afectado pelo Estado.
+###### Artigo 3.º
 
-Art. 4.º - 1. As instituições de crédito têm um fundo de reserva, sem limite máximo, constituído por transferência de lucros líquidos apurados em cada exercício, distribuídos nos termos do artigo 30.º
+As instituições de crédito sob a forma de empresa pública dispõem de um capital inicial, afectado pelo Estado, de montante não inferior ao legalmente exigido às restantes instituições de crédito do mesmo tipo.
 
-2. Além do fundo referido no número anterior, podem os conselhos de gestão das respectivas instituições criar outros fundos e provisões necessários para prevenir riscos de depreciação ou prejuízos a que determinadas espécies de valores ou operações estejam particularmente sujeitas.
+> Alterado pelo/a [Decreto-Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1986-196762), publicado em 1986-03-14.
 
-3. O Ministro das Finanças poderá fixar fundos de reserva de criação obrigatória, bem como critérios para formação de provisões.
+###### Artigo 4.º
+
+1 - As instituições de crédito têm um fundo de reserva, sem limite máximo, constituído pela transferência de lucros líquidos, apurados em cada exercício, distribuídos nos termos do artigo 29.º
+
+2 - Além do fundo referido no número anterior, podem os conselhos de gestão das respectivas instituições, com prévio acordo do Ministro das Finanças, criar outros fundos e provisões necessários para prevenir riscos de depreciação ou prejuízos a que determinadas espécies de valores ou operações estejam particularmente sujeitas.
+
+3 - O Ministro das Finanças poderá fixar fundos de reserva de criação obrigatória, bem como critérios para a formação de provisões.
+
+> Alterado pelo/a [Decreto-Lei n.º 513/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1977-279593), publicado em 1977-12-14.
 
 ### CAPÍTULO IV — Trabalhadores
 
-Art. 5.º - 1. Os trabalhadores das instituições de crédito, incluindo os membros dos conselhos de gestão, estão sujeitos às normas do contrato de trabalho.
+###### Artigo 5.º
+
+1. Os trabalhadores das instituições de crédito, incluindo os membros dos conselhos de gestão, estão sujeitos às normas do contrato de trabalho.
 
 2. Não se aplicam aos membros dos conselhos de gestão as normas do contrato de trabalho sobre despedimentos e as que contrariem as disposições legais sobre administradores de empresas públicas.
 
 3. Deverão prever-se formas adequadas de intervenção dos trabalhadores no desenvolvimento e contrôle da actividade da empresa, tendo em atenção o disposto na lei sobre o contrôle organizado da produção pelos trabalhadores.
 
-Art. 6.º - 1. Os conselhos de gestão devem divulgar, explicitamente e por escrito, a política de pessoal e organizar os instrumentos adequados a essa mesma política.
+###### Artigo 6.º
+
+1. Os conselhos de gestão devem divulgar, explicitamente e por escrito, a política de pessoal e organizar os instrumentos adequados a essa mesma política.
 
 2. A política de pessoal será definida após audição dos órgãos institucionais de representação dos trabalhadores.
 
-Art. 7.º Os membros dos conselhos de gestão, bem como os restantes trabalhadores, e, ainda, os membros das comissões de fiscalização não podem, nos termos da lei, revelar factos ou elementos cujo conhecimento lhes advenha do exercício das funções e exclusivamente por virtude desse exercício.
+###### Artigo 7.º
 
-Art. 8.º Os membros dos conselhos de gestão, bem como os restantes trabalhadores, e, ainda, os membros das comissões de fiscalização não podem, do mesmo modo, depor ou prestar declarações em juízo ou fora dele sobre factos de que devam guardar segredo profissional.
+Os membros dos conselhos de gestão, bem como os restantes trabalhadores, e, ainda, os membros das comissões de fiscalização não podem, nos termos da lei, revelar factos ou elementos cujo conhecimento lhes advenha do exercício das funções e exclusivamente por virtude desse exercício.
+
+###### Artigo 8.º
+
+Os membros dos conselhos de gestão, bem como os restantes trabalhadores, e, ainda, os membros das comissões de fiscalização não podem, do mesmo modo, depor ou prestar declarações em juízo ou fora dele sobre factos de que devam guardar segredo profissional.
 
 ### CAPÍTULO V — Gestão e fiscalização
 
 #### SECÇÃO I — Disposições gerais
 
-Art. 9.º São órgãos das instituições de crédito nacionalizadas o conselho de gestão e a comissão de fiscalização.
+###### Artigo 9.º
 
-Art. 10.º - 1. O conselho de gestão é composto por não mais de sete membros, um dos quais será o presidente.
+São órgãos das instituições de crédito nacionalizadas o conselho de gestão e a comissão de fiscalização.
+
+###### Artigo 10.º
+
+1 - O conselho de gestão é composto por um mínimo de três e um máximo de sete membros, um dos quais é o presidente, podendo, quando as circunstâncias o recomendem, ser designado um vice-presidente.
 
 2. Os membros do conselho de gestão exercem as suas funções por períodos renováveis de três anos, podendo fazê-lo em comissão de serviço.
 
 3. Considera-se termo do período de três anos a data da aprovação das contas do último exercício.
 
-Art. 11.º O presidente e os restantes membros do conselho de gestão são nomeados pelo Conselho de Ministros, sob proposta do Ministro das Finanças.
+> Alterado pelo/a [Decreto-Lei n.º 176/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1979-383391), publicado em 1979-06-07.
 
-Art. 12.º A comissão de fiscalização é constituída por três membros, designados:
+###### Artigo 11.º
+
+O presidente e os restantes membros do conselho de gestão são nomeados pelo Conselho de Ministros, sob proposta do Ministro das Finanças, de entre pessoas que satisfaçam os requisitos de idoneidade e experiência exigidos aos administradores das restantes instituições de crédito do mesmo tipo.
+
+> Alterado pelo/a [Decreto-Lei n.º 49/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-1986-196762), publicado em 1986-03-14.
+
+###### Artigo 12.º
+
+A comissão de fiscalização é constituída por três membros, designados:
 
 a) Um pelo Ministro das Finanças, que presidirá, com voto de qualidade;
 
@@ -222,17 +275,23 @@ b) Um pelos trabalhadores da respectiva instituição de crédito;
 
 c) Um revisor oficial de contas, pelo Ministro das Finanças.
 
-Art. 13.º - 1. Os membros da comissão de fiscalização exercem as suas funções pelo período de três anos, renovável uma só vez para cada membro.
+###### Artigo 13.º
+
+1. Os membros da comissão de fiscalização exercem as suas funções pelo período de três anos, renovável uma só vez para cada membro.
 
 2. As funções de membro da comissão de fiscalização são acumuláveis com o exercício de outras funções profissionais.
 
 #### SECÇÃO II — Conselho de gestão
 
-Art. 14.º - 1. O conselho de gestão terá todos os poderes necessários à prossecução dos fins da respectiva instituição, designadamente com o objectivo de assegurar a gestão e o desenvolvimento da empresa, a administração do seu património, incluindo a aquisição e alienação de bens, e a sua representação em juízo e fora dele.
+###### Artigo 14.º
+
+1. O conselho de gestão terá todos os poderes necessários à prossecução dos fins da respectiva instituição, designadamente com o objectivo de assegurar a gestão e o desenvolvimento da empresa, a administração do seu património, incluindo a aquisição e alienação de bens, e a sua representação em juízo e fora dele.
 
 2. O conselho de gestão pode delegar, por acta, poderes em um ou mais dos seus membros ou em outros trabalhadores e autorizar que se proceda à subdelegação desses poderes, estabelecendo, em cada caso, os respectivos limites e condições.
 
-Art. 15.º - 1. Compete, em especial, ao presidente ou a quem, legalmente, o substituir:
+###### Artigo 15.º
+
+1. Compete, em especial, ao presidente ou a quem, legalmente, o substituir:
 
 a) Representar a respectiva instituição de crédito;
 
@@ -248,27 +307,45 @@ f) Praticar tudo o mais que, nos termos legais, especialmente lhe incumbir.
 
 2. O presidente pode, em acta do conselho de gestão, delegar em um ou mais dos membros do conselho parte das atribuições que lhe são cometidas no número anterior.
 
-Art. 16.º - 1. O presidente será substituído, nas suas faltas ou impedimentos, pelo membro mais antigo do conselho, ou pelo mais velho, em igualdade de circunstâncias.
+###### Artigo 16.º
+
+1 - O presidente será substituído, nas suas faltas ou impedimentos, do modo e pela ordem seguintes:
+
+a) Pelo vice-presidente;
+
+b) Pelo membro mais antigo do conselho ou, em igualdade de circunstâncias, pelo mais velho.
 
 2. A regra de substituição estabelecida no número anterior aplica-se aos casos de vacatura do cargo, enquanto esta se verificar.
 
-Art. 17.º O presidente, ou quem o substituir, tem sempre voto de qualidade nas reuniões a que preside.
+> Alterado pelo/a [Decreto-Lei n.º 176/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1979-383391), publicado em 1979-06-07.
 
-Art. 18.º - 1. A cada membro do conselho de gestão são atribuídos pelouros correspondentes a um ou mais serviços da instituição de crédito.
+###### Artigo 17.º
+
+O presidente, ou quem o substituir, tem sempre voto de qualidade nas reuniões a que preside.
+
+###### Artigo 18.º
+
+1. A cada membro do conselho de gestão são atribuídos pelouros correspondentes a um ou mais serviços da instituição de crédito.
 
 2. A distribuição de pelouros não dispensa o dever, que a todos os membros incumbe, de fiscalizar e tomar conhecimento da generalidade dos assuntos da instituição e de propor providências relativas a qualquer deles.
 
-Art. 19.º - 1. O conselho de gestão reúne, ordinariamente, pelo menos, uma vez por semana, e, extraordinariamente, sempre que seja convocado pelo presidente.
+###### Artigo 19.º
+
+1. O conselho de gestão reúne, ordinariamente, pelo menos, uma vez por semana, e, extraordinariamente, sempre que seja convocado pelo presidente.
 
 2. Para o conselho deliberar validamente é indispensável a presença da maioria absoluta dos membros em exercício, não sendo incluídos nesta categoria os que estiverem impedidos em serviço fora da zona de influência da sede ou por motivo de doença.
 
 3. As deliberações do conselho são tomadas por maioria de votos dos membros presentes, não sendo permitidas abstenções.
 
-Art. 20.º - 1. O conselho de gestão pode subdividir-se nas comissões executivas permanentes ou eventuais que forem consideradas necessárias para a descentralização e bom andamento dos serviços.
+###### Artigo 20.º
+
+1. O conselho de gestão pode subdividir-se nas comissões executivas permanentes ou eventuais que forem consideradas necessárias para a descentralização e bom andamento dos serviços.
 
 2. O conselho de gestão pode delegar nas comissões executivas parte dos poderes que lhe são conferidos.
 
-Art. 21.º - 1. Nas actas do conselho de gestão e das comissões executivas mencionam-se sumariamente, mas com clareza, todos os assuntos tratados nas respectivas reuniões.
+###### Artigo 21.º
+
+1. Nas actas do conselho de gestão e das comissões executivas mencionam-se sumariamente, mas com clareza, todos os assuntos tratados nas respectivas reuniões.
 
 2. As actas são assinadas por todos os membros do conselho de gestão que participaram na reunião e subscritas pelo secretário dos conselhos da instituição.
 
@@ -276,7 +353,9 @@ Art. 21.º - 1. Nas actas do conselho de gestão e das comissões executivas men
 
 #### SECÇÃO III — Comissão de fiscalização
 
-Art. 22.º - 1. Compete à comissão de fiscalização:
+###### Artigo 22.º
+
+1. Compete à comissão de fiscalização:
 
 a) Acompanhar o funcionamento da instituição e o cumprimento das leis e regulamentos que lhe são aplicáveis;
 
@@ -290,7 +369,9 @@ e) Chamar a atenção do conselho de gestão para qualquer assunto que entenda d
 
 2. A comissão de fiscalização pode ser coadjuvada por técnicos especialmente designados ou contratados para esse efeito ou por empresas especializadas em trabalhos de auditoria.
 
-Art. 23.º - 1. A comissão de fiscalização reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que seja convocada pelo presidente.
+###### Artigo 23.º
+
+1. A comissão de fiscalização reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que seja convocada pelo presidente.
 
 2. Para deliberar validamente é indispensável a presença da maioria absoluta dos membros em exercício.
 
@@ -300,21 +381,31 @@ Art. 23.º - 1. A comissão de fiscalização reúne, ordinariamente, uma vez po
 
 5. Os seus membros têm direito a gratificação mensal, fixada pelo Ministro das Finanças.
 
-Art. 24.º Os membros da comissão de fiscalização podem assistir às reuniões do conselho de gestão, com voto meramente consultivo, sendo obrigatória nas reuniões ordinárias, por escala, a presença de um deles.
+###### Artigo 24.º
+
+Os membros da comissão de fiscalização podem assistir às reuniões do conselho de gestão, com voto meramente consultivo, sendo obrigatória nas reuniões ordinárias, por escala, a presença de um deles.
 
 ### CAPÍTULO VI — Organização dos serviços
 
-Art. 25.º O conselho de gestão decide da orgânica e do modo de funcionamento dos serviços e elabora os regulamentos internos necessários.
+###### Artigo 25.º
 
-Art. 26.º Com vista a garantir a possível uniformização de estruturas nas instituições, deverão os projectos de deliberação referidos no artigo anterior, sempre que importem alteração relevante, ser previamente comunicados ao Ministério das Finanças.
+O conselho de gestão decide da orgânica e do modo de funcionamento dos serviços e elabora os regulamentos internos necessários.
+
+###### Artigo 26.º
+
+Com vista a garantir a possível uniformização de estruturas nas instituições, deverão os projectos de deliberação referidos no artigo anterior, sempre que importem alteração relevante, ser previamente comunicados ao Ministério das Finanças.
 
 ### CAPÍTULO VII — Orçamento, balanço e contas
 
-Art. 27.º - 1. Anualmente será elaborado um orçamento de exploração da instituição de crédito.
+###### Artigo 27.º
+
+1. Anualmente será elaborado um orçamento de exploração da instituição de crédito.
 
 2. O orçamento de cada ano será comunicado ao Ministro das Finanças até 30 de Novembro do ano anterior.
 
-Art. 28.º - 1. Até 31 de Março, com referência ao último dia do ano anterior, as instituições de crédito enviarão ao Ministro das Finanças, para aprovação, o relatório, o balanço e contas anuais de gerência, depois de discutidos e apreciados pelo conselho de gestão e com o parecer da comissão de fiscalização.
+###### Artigo 28.º
+
+1. Até 31 de Março, com referência ao último dia do ano anterior, as instituições de crédito enviarão ao Ministro das Finanças, para aprovação, o relatório, o balanço e contas anuais de gerência, depois de discutidos e apreciados pelo conselho de gestão e com o parecer da comissão de fiscalização.
 
 2. Na falta de despacho do Ministro das Finanças, o relatório, balanço e contas consideram-se aprovados decorridos trinta dias após a data do seu recebimento.
 
@@ -322,25 +413,51 @@ Art. 28.º - 1. Até 31 de Março, com referência ao último dia do ano anterio
 
 4. Mantêm-se em vigor as restantes obrigações que, nesta matéria, impendem sobre as instituições de crédito.
 
-Art. 29.º Lei especial virá a regular a afectação dos resultados do exercício; todavia, enquanto não se procede à respectiva publicação, caberá ao Ministro das Finanças competência para definir a sua distribuição.
+###### Artigo 29.º
+
+1 - Uma fracção dos lucros da instituição igual a 10% será destinada ao fundo de reserva mencionado no n.º 1 do artigo 4.º
+
+2 - Uma fracção dos lucros será destinada a remunerar os capitais estatutários atribuídos pelo Estado, nos termos do [Decreto-Lei n.º 75-A/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-a-1977-509011), de 28 de Fevereiro.
+
+3 - Uma fracção dos lucros, de importância a acordar com o Ministro das Finanças, será, eventualmente, destinada aos fundos e provisões indicados nos n.os 2 e 3 do artigo 4.º e à satisfação de quaisquer outros fins a designar pelo Ministro das Finanças.
+
+4 - O remanescente dos lucros reverterá para o Estado.
+
+> Alterado pelo/a [Decreto-Lei n.º 513/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1977-279593), publicado em 1977-12-14.
 
 ### CAPÍTULO VIII — Disposições gerais
 
-Art. 30.º - 1. As instituições de crédito nacionalizadas obrigam-se pela assinatura de dois membros do respectivo conselho de gestão.
+###### Artigo 30.º
+
+1. As instituições de crédito nacionalizadas obrigam-se pela assinatura de dois membros do respectivo conselho de gestão.
 
 2. O conselho de gestão pode, em acta, delegar os poderes referidos no número anterior nos membros que o integram ou em outros trabalhadores da instituição, estabelecendo, em cada caso, os limites e condições.
 
-Art. 31.º - 1. Salvo quando em representação da instituição, é vedado aos membros do conselho de gestão e da comissão de fiscalização, bem como a todos os demais trabalhadores, fazer parte dos corpos gerentes de outra instituição de crédito ou nesta exercer cumulativamente quaisquer funções.
+###### Artigo 31.º
 
-2. Os membros do conselho de gestão não poderão exercer quaisquer funções profissionais remuneradas fora da instituição ou ser membros dos corpos sociais de qualquer sociedade.
+1 - Salvo quando em representação da instituição, é vedado aos membros do conselho de gestão e da comissão de fiscalização, bem como a todos os demais trabalhadores, fazer parte dos corpos gerentes de outra instituição de crédito ou nesta exercer cumulativamente quaisquer funções.
 
-3. Os demais trabalhadores da instituição não poderão exercer funções profissionais remuneradas fora dela ou ser membros dos corpos sociais de qualquer sociedade, salvo autorização expressa do conselho de gestão, que deverá ser renovada anualmente.
+2 - Os membros do conselho de gestão não poderão exercer quaisquer funções profissionais remuneradas fora da instituição ou ser membros dos corpos sociais de qualquer sociedade.
 
-Art. 32.º Na parte não contrariada pelo presente diploma continuam em vigor as normas, gerais ou especiais, que actualmente regem as instituições de crédito.
+3 - Os membros do conselho de administração ou de gestão das instituições de crédito do sector público poderão optar, uma vez cessadas as suas funções, pela carreira de gestor público ou pela de trabalhador bancário, em lugar de responsabilidade directiva ou a esse equiparado, a exercer em qualquer daquelas instituições por designação do Ministro das Finanças.
 
-Art. 33.º Manter-se-ão no pleno exercício das suas funções as comissões administrativas nomeadas nos termos do [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março, e Decreto-Lei n.º 238-A/75, de 12 de Junho, até à tomada de posse dos conselhos de gestão criados pelo presente diploma.
+4 - Sempre que os membros dos órgãos de gestão referidos no número anterior optem pela qualidade de trabalhador bancário, será considerado o tempo de exercício de quaisquer funções no sector público ou no sistema bancário.
 
-Art. 34.º Este diploma entra em vigor na data da sua publicação.
+5 - Os demais trabalhadores da instituição não poderão exercer funções profissionais remuneradas fora dela ou ser membros dos corpos sociais de qualquer sociedade, salvo autorização expressa do conselho de gestão, que deverá ser renovada anualmente.
+
+> Alterado pelo/a [Decreto-Lei n.º 513/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1977-279593), publicado em 1977-12-14.
+
+###### Artigo 32.º
+
+Na parte não contrariada pelo presente diploma continuam em vigor as normas, gerais ou especiais, que actualmente regem as instituições de crédito.
+
+###### Artigo 33.º
+
+Manter-se-ão no pleno exercício das suas funções as comissões administrativas nomeadas nos termos do [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março, e Decreto-Lei n.º 238-A/75, de 12 de Junho, até à tomada de posse dos conselhos de gestão criados pelo presente diploma.
+
+###### Artigo 34.º
+
+Este diploma entra em vigor na data da sua publicação.
 
 Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
 

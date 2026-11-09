@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1967-11-02'
+version_history:
+  file: decreto-lei-47750.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1967-11-02'
+    amending: pt:dre:388801:por
+    amending_title: Decreto-Lei n.º 48018
+    changes:
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:01:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 48018. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-47750.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -114,31 +129,49 @@ Mostrando-se conveniente prorrogar até 30 de Setembro de 1967 o prazo para a li
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É prorrogado até 30 de Setembro de 1967 o prazo para a liquidação dos empréstimos referidos no artigo 27.º do [Decreto-Lei n.º 46595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46595-1965-510663), de 15 de Outubro de 1965.
+###### Artigo 1.º
 
-Art. 2.º A Federação Nacional dos Produtores de Trigo responderá subsidiàriamente, perante a Caixa Nacional de Crédito, pelo reembolso do saldo em dívida do capital mutuado, pelos juros devidos até à liquidação do mesmo saldo e pelos encargos resultantes da cobrança coerciva dos empréstimos referidos no artigo anterior.
+É prorrogado até 30 de Setembro de 1967 o prazo para a liquidação dos empréstimos referidos no artigo 27.º do [Decreto-Lei n.º 46595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46595-1965-510663), de 15 de Outubro de 1965.
+
+###### Artigo 2.º
+
+A Federação Nacional dos Produtores de Trigo responderá subsidiàriamente, perante a Caixa Nacional de Crédito, pelo reembolso do saldo em dívida do capital mutuado, pelos juros devidos até à liquidação do mesmo saldo e pelos encargos resultantes da cobrança coerciva dos empréstimos referidos no artigo anterior.
 
 § único. São consignadas à satisfação das responsabilidades previstas neste artigo, e até à concorrência do respectivo saldo, as receitas percebidas pela Federação Nacional dos Produtores de Trigo, provenientes da importação dos trigos exóticos destinados às ilhas adjacentes.
 
-Art. 3.º Para além da concorrência do saldo referido no § único do artigo anterior, cessa a responsabilidade da Federação Nacional dos Produtores de Trigo, e o Fundo de Abastecimento responderá subsidiàriamente, perante a Caixa Nacional de Crédito, pelo reembolso do capital, juros e encargos referidos no artigo 2.º deste diploma.
+###### Artigo 3.º
 
-Art. 4.º A efectivação da responsabilidade atribuída pelos artigos anteriores à Federação Nacional dos Produtores de Trigo e ao Fundo de Abastecimento só poderá ser exigida pela Caixa Nacional de Crédito quando se verifiquem cumulativamente as seguintes condições:
+Para além da concorrência do saldo referido no § único do artigo anterior, cessa a responsabilidade da Federação Nacional dos Produtores de Trigo, e o Fundo de Abastecimento responderá subsidiàriamente, perante a Caixa Nacional de Crédito, pelo reembolso do capital, juros e encargos referidos no artigo 2.º deste diploma.
+
+###### Artigo 4.º
+
+A efectivação da responsabilidade atribuída pelos artigos anteriores à Federação Nacional dos Produtores de Trigo e ao Fundo de Abastecimento só poderá ser exigida pela Caixa Nacional de Crédito quando se verifiquem cumulativamente as seguintes condições:
 
 1.ª Não se encontrarem liquidados, até 30 de Setembro de 1967, os empréstimos a que se refere o artigo 1.º deste diploma ou os juros correspondentes ao período de moratória;
 
 2.ª Ter sido instaurada execução contra os devedores em mora e seus fiadores, mostrando-se prèviamente excutidos os bens de uns e outros.
 
-Art. 5.º Ao reembolso do capital mutuado, bem como ao pagamento dos juros e encargos resultantes da cobrança coerciva dos empréstimos a que se refere o artigo 1.º, ficam consignadas as garantias constituídas a favor da Caixa Nacional de Crédito, as quais poderão ser acrescidas das que forem julgadas indispensáveis pela Federação Nacional dos Produtores de Trigo ou pelo Fundo de Abastecimento.
+###### Artigo 5.º
 
-Art. 6.º As importâncias já pagas pelos mutuários à data da publicação deste diploma poderão ser restituídas, a pedido dos interessados, com intervenção dos respectivos fiadores, se os houver.
+Ao reembolso do capital mutuado, bem como ao pagamento dos juros e encargos resultantes da cobrança coerciva dos empréstimos a que se refere o artigo 1.º, ficam consignadas as garantias constituídas a favor da Caixa Nacional de Crédito, as quais poderão ser acrescidas das que forem julgadas indispensáveis pela Federação Nacional dos Produtores de Trigo ou pelo Fundo de Abastecimento.
+
+###### Artigo 6.º
+
+As importâncias já pagas pelos mutuários à data da publicação deste diploma poderão ser restituídas, a pedido dos interessados, com intervenção dos respectivos fiadores, se os houver.
 
 § único. O disposto no corpo deste artigo é extensivo às importâncias entregues à Caixa Nacional de Crédito pelas companhias seguradoras a título de indemnização por incêndio de searas.
 
-Art. 7.º O prazo estabelecido no corpo do artigo 27.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963, é prorrogado até 30 de Setembro de 1967.
+###### Artigo 7.º
+
+O prazo estabelecido no corpo do artigo 27.º do [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803), de 2 de Setembro de 1963, é prorrogado até 30 de Setembro de 1968.
 
 § único. O disposto no artigo 6.º deste diploma é aplicável às importâncias pagas pelos mutuários a partir de 1 de Junho de 1966, relativas à primeira prestação da dívida a que se referem os artigos 25.º e 27.º do citado [Decreto-Lei n.º 45223](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45223-1963-685803).
 
-Art. 8.º A Federação Nacional dos Produtores de Trigo não liquidará, nem directamente, nem por intermédio das suas delegações ou dos grémios da lavoura, as importâncias correspondentes aos cereais entregues na campanha de 1966-1967, sem fazer, em cada caso, as seguintes deduções, pela ordem de precedência indicada:
+> Alterado pelo/a [Decreto-Lei n.º 48018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48018-1967-388801), publicado em 1967-11-02.
+
+###### Artigo 8.º
+
+A Federação Nacional dos Produtores de Trigo não liquidará, nem directamente, nem por intermédio das suas delegações ou dos grémios da lavoura, as importâncias correspondentes aos cereais entregues na campanha de 1966-1967, sem fazer, em cada caso, as seguintes deduções, pela ordem de precedência indicada:
 
 1.º Do montante que se mostre em dívida referente aos financiamentos à campanha do trigo de 1965-1966, concedidos pela Caixa Nacional de Crédito e pelas caixas de crédito agrícola mútuo, ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 46595](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46595-1965-510663), de 15 de Outubro de 1965;
 
@@ -148,7 +181,9 @@ Art. 8.º A Federação Nacional dos Produtores de Trigo não liquidará, nem di
 
 4.º Do valor dos cereais e sementes de forragens fornecidos a crédito pela Federação Nacional dos Produtores de Trigo, quer ele se encontre ou não titulado por meio de livranças subscritas ou letras aceites pelos produtores.
 
-Art. 9.º O disposto nos artigos anteriores é extensivo aos empréstimos concedidos pelas caixas de crédito agrícola mútuo.
+###### Artigo 9.º
+
+O disposto nos artigos anteriores é extensivo aos empréstimos concedidos pelas caixas de crédito agrícola mútuo.
 
 Publique-se e cumpra-se como nele se contém.
 

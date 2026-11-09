@@ -40,10 +40,45 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-07-03'
+version_history:
+  file: decreto-lei-235-2009.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2009-09-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-07-03'
+    amending: pt:dre:25345608:por
+    amending_title: Decreto-Lei n.º 106/2014
+    changes:
+    - Revoga Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Adita Artigo 10.º-A
+    - Adita Artigo 10.º-B
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Altera Artigo ANEXO — (a que se refere o n.º 1 do artigo 6.º)::3.º
+    - Altera Artigo ANEXO — (a que se refere o n.º 1 do artigo 6.º)::5.º
+    - Revoga Artigo ANEXO — (a que se refere o n.º 1 do artigo 6.º)::6.º
+    - Altera Artigo ANEXO — (a que se refere o n.º 1 do artigo 6.º)::7.º
+    - Altera Artigo ANEXO — (a que se refere o n.º 1 do artigo 6.º)::8.º
+    - Altera Artigo ANEXO — (a que se refere o n.º 1 do artigo 6.º)::13.º
+    - Altera Artigo ANEXO — (a que se refere o n.º 1 do artigo 6.º)::18.º
+    - Adita Artigo ANEXO — (a que se refere o n.º 1 do artigo 6.º)::24.º-A
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/235/2009/09/15/p/dre/pt/html
@@ -69,7 +104,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:09:01Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 106/2014. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2009/decreto-lei-235-2009.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -218,35 +254,47 @@ c) O sistema multimunicipal de triagem, recolha selectiva, valorização e trata
 
 ###### Artigo 3.º — Alargamento do sistema do Norte Central
 
-1 - O sistema do Norte Central pode ser alargado a outros municípios, mediante reconhecimento de interesse público justificativo.
+(Revogado.)
 
-2 - O interesse público referido no número anterior é reconhecido por despacho do membro do Governo responsável pela área do ambiente, sob proposta da sociedade concessionária do sistema do Norte Central e ouvidos os seus municípios utilizadores.
+> Revogado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 4.º — Constituição da RESINORTE, S. A.
 
-1 - É constituída a sociedade RESINORTE - Valorização e Tratamento de Resíduos Sólidos, S. A., sociedade anónima de capitais exclusivamente públicos, adiante designada por RESINORTE, S. A., por fusão das sociedades REBAT - Valorização e Tratamento de Resíduos Sólidos do Baixo Tâmega, S. A., RESAT - Valorização e Tratamento de Resíduos Sólidos, S. A., e RESIDOURO - Valorização e Tratamento de Resíduos Sólidos, S. A.
+1 - É constituída a sociedade RESINORTE - Valorização e Tratamento de Resíduos Sólidos, S.A., adiante designada por RESINORTE, S.A.
 
-2 - A fusão prevista no número anterior dispensa a elaboração e registo comercial do projecto de fusão.
+2 - (Revogado.)
 
 3 - A fusão não carece de redução a escritura pública, nem de qualquer outra formalidade, devendo o registo comercial, bem como todos os demais registos decorrentes da fusão, nomeadamente comerciais, prediais, de registo automóvel ou de propriedade industrial, ser promovidos pela RESINORTE, S. A., com base na publicação do presente decreto-lei no Diário da República.
 
-4 - Sem prejuízo do disposto no n.º 7, os efeitos previstos nas alíneas a) e b) do artigo 112.º do Código das Sociedades Comerciais, nomeadamente a extinção das sociedades objecto de fusão, nos termos do n.º 1, e a transmissão dos respectivos direitos e obrigações para a RESINORTE, S. A., consideram-se produzidos um mês após a data da entrada em vigor do presente decreto-lei, ou no 1.º dia útil subsequente.
+4 - (Revogado.)
 
 5 - A RESINORTE, S. A., goza de isenção de imposto municipal sobre a transmissão onerosa de imóveis decorrente do acto de concentração identificado no presente decreto-lei e definido na alínea a) do n.º 3 do artigo 60.º do Estatuto dos Benefícios Fiscais, bem como de isenção de outros encargos legais que se mostrem devidos pela prática de todos os actos inseridos no presente processo da sua criação e de transferência das concessões dos sistemas multimunicipais substituídos, nos termos do n.º 2 do artigo 2.º, de acordo com os n.os 1 a 3 do mesmo artigo 60.º, com excepção dos emolumentos registais e notariais.
 
 6 - Os prejuízos fiscais da REBAT - Valorização e Tratamento de Resíduos Sólidos do Baixo Tâmega, S. A., RESAT - Valorização e Tratamento de Resíduos Sólidos, S. A., e RESIDOURO - Valorização e Tratamento de Resíduos Sólidos, S. A., podem, sem necessidade de mais autorizações, ser deduzidos dos lucros tributáveis da RESINORTE, S. A., nos termos e para os efeitos do n.º 1 do artigo 69.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas.
 
-7 - Os efeitos de natureza contabilística e fiscal decorrentes da constituição da RESINORTE, S. A., e bem assim os pressupostos de qualquer acto que impliquem a necessidade de consideração das extintas contas de exploração das sociedades REBAT - Valorização e Tratamento de Resíduos Sólidos do Baixo Tâmega, S. A., RESAT - Valorização e Tratamento de Resíduos Sólidos, S. A., e RESIDOURO - Valorização e Tratamento de Resíduos Sólidos, S. A., são reportados a 1 de Julho de 2009.
+7 - (Revogado.)
 
-8 - O prazo dos credores para deduzirem oposição judicial à fusão referida no n.º 1, com fundamento no prejuízo que dela derive para a realização dos seus direitos, é de um mês a contar da data da entrada em vigor do presente decreto-lei.
+8 - (Revogado.)
 
-9 - A oposição de credores dentro do prazo referido no número anterior não impede a inscrição definitiva da fusão no registo comercial mas obriga a RESINORTE, S. A., a consignar em depósito a importância reclamada pelo oponente.
+9 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 5.º — Objecto social da RESINORTE, S. A.
 
-1 - A RESINORTE, S. A., tem por objecto social a exploração e a gestão do sistema do Norte Central.
+1 - A RESINORTE, S.A., tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos do sistema do Norte Central.
 
-2 - A RESINORTE, S. A., pode exercer outras actividades para além daquelas que constituem o objecto da concessão, desde que consideradas acessórias ou complementares da mesma e previamente autorizadas pelo concedente.
+2 - A exploração e a gestão referidas no número anterior compreendem:
+
+a) A conceção e construção de todas as instalações necessárias ao tratamento de resíduos urbanos gerados nas áreas dos municípios utilizadores, incluindo, nomeadamente, a construção de centrais de processamento, a construção de aterros e de estações de transferência, respetivos acessos e sua extensão, reparação e renovação de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis;
+
+b) A aquisição, manutenção e renovação de todos os equipamentos e meios de transporte necessários ao tratamento dos resíduos urbanos que deva receber;
+
+c) O fornecimento, instalação, gestão, exploração, manutenção e renovação dos equipamentos necessários à recolha seletiva.
+
+3 - A RESINORTE, S.A., pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
+
+> Alterado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 6.º — Estatutos e regime da RESINORTE, S. A.
 
@@ -254,139 +302,95 @@ c) O sistema multimunicipal de triagem, recolha selectiva, valorização e trata
 
 2 - O disposto no n.º 3 do artigo 4.º aplica-se aos estatutos aprovados no número anterior, com as devidas alterações.
 
-3 - As alterações aos estatutos processam-se nos termos da lei comercial.
+3 - A RESINORTE, S.A., rege-se pelo presente decreto-lei, pelos seus estatutos e pela lei comercial.
 
-4 - A RESINORTE, S. A., rege-se pelo presente decreto-lei, pelos seus estatutos e pelo regime jurídico do sector empresarial do Estado, aprovado pelo Decreto-Lei n.º 558/99, de 17 de Dezembro.
+4 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 7.º — Capital social da RESINORTE, S. A.
 
-1 - São titulares originários das acções da RESINORTE, S. A., os municípios de Amarante, Armamar, Baião, Boticas, Cabeceiras de Basto, Celorico de Basto, Chaves, Cinfães, Lamego, Marco de Canaveses, Moimenta da Beira, Mondim de Basto, Montalegre, Penedono, Resende, Ribeira de Pena, São João da Pesqueira, Sernancelhe, Tabuaço, Tarouca, Valpaços, Vila Pouca de Aguiar, a Associação de Municípios do Vale do Ave, a Associação de Municípios do Vale do Douro Norte, a Empreendimentos Hidroeléctricos do Alto Tâmega e Barroso, EIM, S. A., e a Empresa Geral do Fomento, S. A., com o capital social com direito a voto previsto no número seguinte.
+(Revogado.)
 
-2 - O capital social inicial, no montante de (euro) 8 000 000, é representado por 8 000 000 de acções da classe A, do valor nominal de (euro) 1 cada, repartidas da seguinte forma pelos accionistas fundadores:
-
-a) Município de Amarante - 244 470 acções da classe A;
-
-b) Município de Armamar - 28 428 acções da classe A;
-
-c) Município de Baião - 83 105 acções da classe A;
-
-d) Município de Boticas - 30 000 acções da classe A;
-
-e) Município de Cabeceiras de Basto - 70 348 acções da classe A;
-
-f) Município de Celorico de Basto - 78 972 acções da classe A;
-
-g) Município de Chaves - 30 000 acções da classe A;
-
-h) Município de Cinfães - 81 448 acções da classe A;
-
-i) Município de Lamego - 104 033 acções da classe A;
-
-j) Município de Marco de Canaveses - 218 745 acções da classe A;
-
-l) Município de Moimenta da Beira - 43 657 acções da classe A;
-
-m) Município de Mondim de Basto - 33 073 acções da classe A;
-
-n) Município de Montalegre - 30 000 acções da classe A;
-
-o) Município de Penedono - 13 202 acções da classe A;
-
-p) Município de Resende - 46 423 acções da classe A;
-
-q) Município de Ribeira de Pena - 30 000 acções da classe A;
-
-r) Município de São João da Pesqueira - 32 251 acções da classe A;
-
-s) Município de Sernancelhe - 24 084 acções da classe A;
-
-t) Município de Tabuaço - 24 922 acções da classe A;
-
-u) Município de Tarouca - 33 224 acções da classe A;
-
-v) Município de Valpaços - 30 000 acções da classe A;
-
-x) Município de Vila Pouca de Aguiar - 30 000 acções da classe A;
-
-z) Associação de Municípios do Vale do Ave - 602 634 acções da classe A;
-
-aa) Associação de Municípios do Vale do Douro Norte - 132 366 acções da classe A;
-
-ab) Empreendimentos Hidroeléctricos do Alto Tâmega e Barroso, EIM, S. A. - 226 992 acções da classe A;
-
-ac) Empresa Geral do Fomento, S. A. - 5 697 623 acções da classe A.
-
-3 - As acções da classe A devem representar, sempre e pelo menos, 51 % do capital social com direito a voto, e delas apenas podem ser titulares entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da Lei n.º 71/88, de 24 de Maio, ou municípios utilizadores do sistema do Norte Central.
-
-4 - A transmissão de acções em violação do disposto no número anterior é nula.
-
-5 - Sem prejuízo do disposto no n.º 3, as acções da classe A podem ser convertidas em acções da classe B, a pedido do seu titular e mediante prévia deliberação favorável da assembleia geral da RESINORTE, S. A.
+> Revogado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 8.º — Valor e realização do capital social da RESINORTE, S. A.
 
-1 - O valor do capital social resulta da soma dos capitais sociais da REBAT - Valorização e Tratamento de Resíduos Sólidos do Baixo Tâmega, S. A., da RESAT - Valorização e Tratamento de Resíduos Sólidos, S. A., e da RESIDOURO - Valorização e Tratamento de Resíduos Sólidos, S. A., que é de (euro) 6 500 000, acrescido do valor de (euro) 1 500 000 decorrente da participação no capital social da RESINORTE, S. A., das Associações de Municípios do Vale do Ave e do Vale do Douro Norte.
+(Revogado.)
 
-2 - O valor de (euro) 1 500 000, relativo ao acréscimo referido no número anterior, é subscrito do seguinte modo:
-
-a) Empresa Geral do Fomento, S. A.: (euro) 765 000;
-
-b) Associações de Municípios do Vale do Ave e do Vale do Douro Norte: o remanescente, nos valores respectivos indicados no n.º 2 do artigo anterior.
-
-3 - Os accionistas referidos no número anterior realizam, no prazo de cinco dias a contar da data da entrada em vigor do presente decreto-lei, em dinheiro, o montante necessário para perfazer o capital social.
-
-4 - As deliberações de distribuição de dividendos devem ter em conta a data de realização do capital social por parte de cada accionista para efeitos da remuneração accionista prevista nos contratos de concessão, podendo essa distribuição não ser proporcional ao número de acções detidas até que todos os accionistas se encontrem em igualdade de circunstâncias.
+> Revogado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 9.º — Atribuição da concessão do sistema do Norte Central
 
-1 - A exploração e gestão do sistema do Norte Central são atribuídas, em regime de concessão, à RESINORTE, S. A., com exclusividade e até 31 de Dezembro de 2039.
+1 - A exploração e gestão do sistema do Norte Central é atribuída em regime de concessão exclusiva à RESINORTE S.A., até 31 de dezembro de 2034.
 
-2 - A atribuição opera-se mediante outorga do contrato de concessão referido no artigo 11.º
+2 - (Revogado.)
 
-3 - A exploração e a gestão referidas no n.º 1 abrangem a concepção, a construção das obras e equipamentos, bem como a sua exploração, reparação, renovação e manutenção.
+3 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 10.º — Regime da concessão do sistema do Norte Central
 
-1 - A RESINORTE, S. A., enquanto concessionária referida no n.º 1 do artigo anterior, instala os órgãos ou sistemas que se revelem necessários para o bom funcionamento do sistema do Norte Central e que decorram do contrato de concessão.
+1 - (Revogado.)
 
-2 - O sistema do Norte Central tem a configuração constante do projecto global previsto no contrato de concessão e pode ser desenvolvido por fases, com as adaptações técnicas que o seu desenvolvimento aconselhar.
+2 - (Revogado.)
 
-3 - As tarifas a cobrar aos utilizadores são aprovadas pelo concedente, após emissão de parecer do Instituto Regulador de Águas e Resíduos, I. P.
+3 - (Revogado.)
 
-4 - O investimento a cargo da concessionária é objecto de remuneração adequada, nos termos a fixar no contrato de concessão, ponderando a sua repercussão nas tarifas.
+4 - (Revogado.)
 
-5 - A concessão referida no n.º 1 do artigo anterior rege-se pelo presente decreto-lei, pela Lei n.º 88-A/97, de 25 de Julho, pelos Decretos-Leis n.os 379/93, de 5 de Novembro, e 294/94, de 16 de Novembro, pelo respectivo contrato de concessão e, de um modo geral, pelas disposições legais e regulamentares respeitantes às actividades compreendidas no seu objecto.
+5 - A concessão referida no n.º 1 do artigo anterior rege-se pelo presente decreto-lei, pela Lei n.º 88-A/97, de 25 de julho, alterada pelas Leis n.os 17/2012, de 26 de abril, e 35/2013, de 11 de junho, pelas disposições aplicáveis do Decreto-Lei n.º 92/2013, de 11 de julho, pelas bases que a regem e demais legislação aplicável à atividade concessionada e pelo respetivo contrato.
 
-6 - A RESINORTE, S. A., identifica as infra-estruturas e outros meios e direitos dos municípios utilizadores, incluindo associações de municípios e empresas do sector empresarial local, que se revelem necessários ou úteis ao bom funcionamento do sistema do Norte Central que, mediante afectação, passam a integrá-lo, enquanto se mantiver tal necessidade ou utilidade.
+6 - (Revogado.)
 
-7 - A transmissão prevista no número anterior efectiva-se mediante a elaboração de um auto de entrega.
+7 - (Revogado.)
 
-8 - O presente decreto-lei constitui, sem necessidade de apresentação de qualquer outro documento e com dispensa de trato sucessivo, título necessário e suficiente para os registos em nome da RESINORTE, S. A., dos direitos mencionados no n.º 6, que devem ser realizados a seu requerimento.
+8 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
+
+###### Artigo 10.º-A — Conselho consultivo
+
+1 - É criado um conselho consultivo, ao qual compete o acompanhamento da atividade geral da sociedade, nomeadamente dos níveis de serviços praticados e da gestão das infraestruturas afetas à concessão.
+
+2 - Integram o conselho consultivo previsto no número anterior, por inerência, os presidentes de todas as câmaras municipais dos municípios utilizadores do sistema gerido pela RESINORTE, S.A., bem como os membros do respetivo conselho de administração e do conselho fiscal desta.
+
+> Aditado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
+
+###### Artigo 10.º-B — Caução referente à exploração
+
+1 - A RESINORTE, S.A., deve prestar em benefício do concedente uma caução destinada a garantir o cumprimento de todas as obrigações que para si emergem do contrato de concessão.
+
+2 - O valor da caução é de 5 % do volume de negócios da empresa no ano anterior ao da data da sua prestação.
+
+3 - A prestação da caução referida no número anterior deve ocorrer no prazo máximo de 90 dias após a RESINORTE, S.A., deixar de ser detida maioritariamente por entidades públicas.
+
+> Aditado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 11.º — Contrato de concessão do sistema do Norte Central
 
-Fica o membro do Governo responsável pela área do ambiente autorizado a celebrar em nome e representação do Estado o contrato de concessão do sistema do Norte Central.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 12.º — Utilizadores do sistema do Norte Central
 
-1 - A articulação entre o sistema do Norte Central e o sistema correspondente de cada um dos municípios utilizadores é assegurada através de contratos de entrega, recepção e promoção de recolha selectiva ou de recolha indiferenciada e do seu adequado processamento a celebrar entre a RESINORTE, S. A., enquanto concessionária, e cada um dos municípios.
+(Revogado.)
 
-2 - São também considerados utilizadores quaisquer pessoas singulares ou colectivas, públicas ou privadas, nos termos previstos no contrato de concessão.
+> Revogado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 13.º — Disposições transitórias
 
-1 - Os sistemas multimunicipais substituídos pelo sistema do Norte Central consideram-se extintos na data da outorga do contrato de concessão previsto no presente decreto-lei, cessando, também, por caducidade, os respectivos contratos de concessão, sem prejuízo de serem, naquele, devidamente regulados os direitos adquiridos na vigência destes.
+(Revogado.)
 
-2 - Até à data da outorga do contrato de concessão previsto no presente decreto-lei, o regime de prestação de serviços pela RESINORTE, S. A., aos municípios utilizadores dos sistemas multimunicipais substituídos pelo sistema do Norte Central continua a processar-se nos termos em que as concessionárias extintas, REBAT - Valorização e Tratamento de Resíduos Sólidos do Baixo Tâmega, S. A., RESAT - Valorização e Tratamento de Resíduos Sólidos, S. A., e RESIDOURO - Valorização e Tratamento de Resíduos Sólidos, S. A., o vêm fazendo.
-
-3 - A partir da data da outorga do contrato de concessão, o regime de prestação de serviços pela RESINORTE, S. A., aos utilizadores do sistema do Norte Central passa a processar-se nos termos previstos no mesmo, mantendo-se em vigor, até serem substituídos, os contratos de entrega, recepção e promoção de recolha selectiva ou de recolha indiferenciada, celebrados entre os utilizadores e as concessionárias extintas, considerando-se as menções feitas nestes contratos aos respectivos contratos de concessão como efectuadas ao contrato de concessão do sistema do Norte Central, e prevalecendo os termos e condições deste sobre o clausulado dos mesmos.
-
-4 - Na data da assinatura do contrato de concessão, o Estado promove a liberação imediata da caução anteriormente prestada pela REBAT - Valorização e Tratamento de Resíduos Sólidos do Baixo Tâmega, S. A., pela RESAT - Valorização e Tratamento de Resíduos Sólidos, S. A., e pela RESIDOURO - Valorização e Tratamento de Resíduos Sólidos, S. A., no âmbito dos contratos de concessão dos sistemas multimunicipais substituídos pelo sistema do Norte Central.
-
-5 - Pode ser transmitida à concessionária, nos termos que venham a ser fixados no contrato de concessão, e com efeitos a partir da data do início da mesma, a posição contratual dos municípios utilizadores, incluindo associações de municípios e empresas do sector empresarial local, nos contratos respeitantes à exploração do sistema do Norte Central, identificados no contrato de concessão.
+> Revogado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 14.º — Primeira convocatória da assembleia geral
 
-Considera-se convocada a assembleia geral da RESINORTE, S. A., sem necessidade de cumprimento dos requisitos mencionados no artigo anterior dos seus estatutos, para o 10.º dia posterior à data da entrada em vigor do presente decreto-lei, ou para o 1.º dia útil subsequente, pelas 17 horas, com o objectivo de eleger os órgãos sociais da RESINORTE, S. A., e aprovar o respectivo estatuto remuneratório.
+(Revogado.)
+
+> Revogado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 15.º — Norma revogatória
 
@@ -428,11 +432,19 @@ A sociedade criada pelo presente decreto-lei adopta a denominação de RESINORTE
 
 ###### Artigo 3.º — Objecto social
 
-1 - A RESINORTE, S. A., tem por objecto social exclusivo a exploração e gestão do sistema multimunicipal de triagem, recolha, valorização e tratamento de resíduos sólidos urbanos do Norte Central, abreviadamente designado sistema do Norte Central, integrando como utilizadores originários os municípios de Alijó, Amarante, Armamar, Baião, Boticas, Cabeceiras de Basto, Celorico de Basto, Chaves, Cinfães, Fafe, Guimarães, Lamego, Marco de Canaveses, Mesão Frio, Moimenta da Beira, Mondim de Basto, Montalegre, Murça, Penedono, Peso da Régua, Resende, Ribeira de Pena, Sabrosa, Santa Marta de Penaguião, Santo Tirso, São João da Pesqueira, Sernancelhe, Tabuaço, Tarouca, Trofa, Valpaços, Vila Nova de Famalicão, Vila Pouca de Aguiar, Vila Real e Vizela.
+1 - A RESINORTE, S.A., tem por objeto social a exploração e gestão, em regime de serviço público, do sistema multimunicipal de tratamento e recolha seletiva de resíduos urbanos do sistema do Norte Central.
 
-2 - A exploração e a gestão referidas no número anterior incluem o projecto, a construção, extensão, reparação, renovação, manutenção e melhoria das obras e equipamentos necessários para o desenvolvimento das actividades previstas nos números anteriores.
+2 - A exploração e a gestão referidas no número anterior compreendem:
 
-3 - A RESINORTE, S. A., pode, desde que para o efeito esteja habilitada, exercer outras actividades para além daquelas que constituem o objecto da concessão, desde que consideradas acessórias ou complementares e devidamente autorizadas pelo concedente.
+a) A conceção e construção de todas as instalações necessárias ao tratamento de resíduos urbanos gerados nas áreas dos municípios utilizadores, incluindo, nomeadamente, a construção de centrais de processamento, a construção de aterros e de estações de transferência, respetivos acessos e sua extensão, reparação e renovação de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis;
+
+b) A aquisição, manutenção e renovação de todos os equipamentos e meios de transporte necessários ao tratamento dos resíduos urbanos que deva receber;
+
+c) O fornecimento, instalação, gestão, exploração, manutenção e renovação dos equipamentos necessários à recolha seletiva colocados em espaço público e ou privado de utilização pública.
+
+3 - A RESINORTE, S.A., pode, desde que para o efeito esteja habilitada, exercer outras atividades para além daquelas que constituem o objeto da concessão, desde que consideradas complementares ou outras atividades nos termos do contrato de concessão e mediante autorização do concedente.
+
+> Alterado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 4.º — Participação em outras sociedades
 
@@ -442,117 +454,59 @@ A RESINORTE, S. A., pode participar em quaisquer outras sociedades, ou entidades
 
 ###### Artigo 5.º — Capital social
 
-1 - São titulares originários das acções da RESINORTE, S. A., os municípios de Amarante, Armamar, Baião, Boticas, Cabeceiras de Basto, Celorico de Basto, Chaves, Cinfães, Lamego, Marco de Canaveses, Moimenta da Beira, Mondim de Basto, Montalegre, Penedono, Resende, Ribeira de Pena, São João da Pesqueira, Sernancelhe, Tabuaço, Tarouca, Valpaços, Vila Pouca de Aguiar, a Associação de Municípios do Vale do Ave, a Associação de Municípios do Vale do Douro Norte, a Empreendimentos Hidroeléctricos do Alto Tâmega e Barroso, EIM, S. A., e a Empresa Geral do Fomento, S. A., com o capital social com direito a voto previsto no número seguinte.
+1 - O capital social é de (euro) 8 000 000,00, encontrando-se integralmente realizado.
 
-2 - O capital social inicial, no montante de (euro) 8 000 000, é representado por 8 000 000 de acções da classe A, do valor nominal de (euro) 1 cada, repartidas da seguinte forma pelos accionistas fundadores:
+2 - O capital social é representado por 8 000 000 ações com o valor nominal de (euro) 1,00 cada uma.
 
-a) Município de Amarante - 244 470 acções da classe A;
+3 - (Revogado.)
 
-b) Município de Armamar - 28 428 acções da classe A;
+4 - (Revogado.)
 
-c) Município de Baião - 83 105 acções da classe A;
+5 - (Revogado.)
 
-d) Município de Boticas - 30 000 acções da classe A;
+6 - (Revogado.)
 
-e) Município de Cabeceiras de Basto - 70 348 acções da classe A;
+7 - (Revogado.)
 
-f) Município de Celorico de Basto - 78 972 acções da classe A;
+8 - (Revogado.)
 
-g) Município de Chaves - 30 000 acções da classe A;
-
-h) Município de Cinfães - 81 448 acções da classe A;
-
-i) Município de Lamego - 104 033 acções da classe A;
-
-j) Município de Marco de Canaveses - 218 745 acções da classe A;
-
-l) Município de Moimenta da Beira - 43 657 acções da classe A;
-
-m) Município de Mondim de Basto - 33 073 acções da classe A;
-
-n) Município de Montalegre - 30 000 acções da classe A;
-
-o) Município de Penedono - 13 202 acções da classe A;
-
-p) Município de Resende - 46 423 acções da classe A;
-
-q) Município de Ribeira de Pena - 30 000 acções da classe A;
-
-r) Município de São João da Pesqueira - 32 251 acções da classe A;
-
-s) Município de Sernancelhe - 24 084 acções da classe A;
-
-t) Município de Tabuaço - 24 922 acções da classe A;
-
-u) Município de Tarouca - 33 224 acções da classe A;
-
-v) Município de Valpaços - 30 000 acções da classe A;
-
-x) Município de Vila Pouca de Aguiar - 30 000 acções da classe A;
-
-z) Associação de Municípios do Vale do Ave - 602 634 acções da classe A;
-
-aa) Associação de Municípios do Vale do Douro Norte - 132 366 acções da classe A;
-
-ab) Empreendimentos Hidroeléctricos do Alto Tâmega e Barroso, EIM, S. A. - 226 992 acções da classe A;
-
-ac) Empresa Geral do Fomento, S. A. - 5 697 623 acções da classe A.
-
-3 - As acções da classe A devem representar, sempre e pelo menos, 51 % do capital social com direito a voto, e delas apenas podem ser titulares entes públicos, entendidos estes nos termos da alínea e) do n.º 2 do artigo 1.º da Lei n.º 71/88, de 24 de Maio, ou municípios utilizadores do sistema do Norte Central.
-
-4 - Sem prejuízo do disposto no n.º 3, as acções da classe A podem ser convertidas em acções da classe B, a pedido do seu titular e mediante prévia deliberação favorável da assembleia geral da RESINORTE, S. A.
-
-5 - O valor do capital social resulta da soma dos capitais sociais da REBAT - Valorização e Tratamento de Resíduos Sólidos do Baixo Tâmega, S. A., da RESAT - Valorização e Tratamento de Resíduos Sólidos, S. A., e da RESIDOURO - Valorização e Tratamento de Resíduos Sólidos, S. A., que é de (euro) 6 500 000, acrescido do valor de (euro) 1 500 000 decorrente da participação no capital social da RESINORTE, S. A., das Associações de Municípios do Vale do Ave e do Vale do Douro Norte.
-
-6 - O valor de (euro) 1 500 000, relativo ao acréscimo referido no número anterior, é subscrito do seguinte modo:
-
-a) Empresa Geral do Fomento, S. A.: (euro) 765 000;
-
-b) Associações de Municípios do Vale do Ave e do Vale do Douro Norte: o remanescente, nos valores respectivos indicados no n.º 2.
-
-7 - Os accionistas referidos no número anterior realizam, no prazo de cinco dias a contar da data da entrada em vigor do presente decreto-lei, em dinheiro, o montante necessário para perfazer o capital social.
-
-8 - As deliberações de distribuição de dividendos devem ter em conta a data de realização do capital social por parte de cada accionista para efeitos da remuneração accionista prevista nos contratos de concessão, podendo essa distribuição não ser proporcional ao número de acções detidas até que todos os accionistas se encontrem em igualdade de circunstâncias.
+> Alterado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 6.º — Aumento de capital social
 
-1 - Quaisquer eventuais aumentos de capital social são realizados através da emissão de acções da classe A, ou das classes A e B, devendo as acções da classe A representar sempre e pelo menos 51 % do capital social com direito a voto.
+(Revogado.)
 
-2 - A subscrição de acções da classe A é reservada aos accionistas titulares de acções do mesmo tipo.
-
-3 - Os accionistas titulares de acções da classe A têm direito a subscrever um número de acções dessa classe proporcional ao número de acções da mesma classe de que já sejam titulares.
-
-4 - Caso as acções da classe A possam, pela ocorrência de qualquer facto, designadamente pela ocorrência de qualquer das situações referidas no n.º 1 do artigo 9.º, passar a representar uma percentagem do capital social com direito a voto inferior à referida no n.º 1 do presente artigo, a RESINORTE, S. A., deve proceder imediatamente a um aumento de capital social por emissão dessa classe de acções, de forma a garantir o cumprimento daquela percentagem.
-
-5 - As deliberações de aumento de capital devem prever para os accionistas preferentes um prazo de realização das entradas não inferior a 60 dias.
+> Revogado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 7.º — Acções
 
-1 - As acções da classe A são nominativas e assumem a forma escritural.
+1 - As ações são nominativas e assumem a forma escritural ou titulada.
 
-2 - As acções da classe B são nominativas, podendo, no entanto, ser convertidas em acções ao portador a pedido do accionista e mediante deliberação da assembleia geral.
+2 - (Revogado.)
+
+> Alterado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 8.º — Transmissão de acções
 
-1 - As acções da classe A apenas podem ser transmitidas a favor dos demais accionistas da mesma classe de acções, a favor das entidades referidas no n.º 3 do artigo 5.º, e sempre sem prejuízo do aí disposto no caso de cisão ou fusão de uma sociedade detentora desta classe de acções, para as sociedades que resultem dessa fusão ou cisão.
+1 - (Revogado.)
 
-2 - A transmissão de acções em violação do disposto no número anterior é nula.
+2 - (Revogado.)
 
-3 - A transmissão das acções, quer da classe A quer de acções nominativas da classe B, fica subordinada ao consentimento da RESINORTE, S. A.
+3 - A transmissão de ações fica subordinada ao consentimento da RESINORTE, S.A.
 
-4 - Existe direito de preferência na transmissão de acções da classe A a favor dos accionistas titulares da mesma classe de acções.
+4 - Existe direito de preferência dos acionistas na transmissão de ações, devendo o alienante informar cada um dos demais acionistas, por escrito desse facto, indicando o adquirente, o preço oferecido e, se este não for em dinheiro, o seu equivalente em dinheiro, bem como as demais condições de venda.
 
-5 - Todos os accionistas, seja qual for a classe de acções de que sejam titulares, têm direito de preferência na alienação de acções nominativas da classe B.
+5 - (Revogado.)
 
 6 - Querendo o accionista transmitir acções, deve pedir o consentimento, por escrito, à RESINORTE, S. A., mediante carta registada com aviso de recepção, identificando o previsto adquirente, indicando as contrapartidas oferecidas e a respectiva valoração, bem como as demais condições da projectada transmissão.
 
 7 - A RESINORTE, S. A., deve pronunciar-se sobre o pedido de consentimento no prazo de 60 dias contados da data de recepção da carta mencionada no número anterior.
 
-8 - Se a RESINORTE, S. A., não se pronunciar dentro do prazo referido no número anterior, e sempre sem prejuízo do disposto no n.º 1, bem como do direito de preferência dos outros accionistas regulado neste artigo, é livre a transmissão das acções.
+8 - Se a RESINORTE, S.A., não se pronunciar dentro do prazo referido no número anterior, e sempre sem prejuízo do direito de preferência dos outros acionistas regulado no presente artigo, é livre a transmissão das ações.
 
 9 - É lícito recusar o pedido de consentimento com fundamento em qualquer interesse relevante da RESINORTE, S. A., devendo indicar-se sempre na deliberação o motivo da recusa.
 
-10 - No caso de recusar licitamente o consentimento, e sempre sem prejuízo do disposto no n.º 1, a RESINORTE, S. A., fica obrigada a fazer adquirir as acções por outra pessoa nas condições de preço e pagamento do negócio para que foi solicitado o consentimento.
+10 - No caso de recusar licitamente o consentimento, a RESINORTE, S.A., fica obrigada a adquirir as ações por outra pessoa nas condições de preço e pagamento do negócio para que foi solicitado o consentimento.
 
 11 - No caso previsto no número anterior, tratando-se de transmissão a título gratuito, ou provando a RESINORTE, S. A., que naquele negócio houve simulação de preço, a aquisição faz-se pelo valor real, determinado nos termos previstos no n.º 2 do artigo 105.º do Código das Sociedades Comerciais.
 
@@ -560,65 +514,11 @@ b) Associações de Municípios do Vale do Ave e do Vale do Douro Norte: o reman
 
 13 - Querendo vários accionistas preferir, as acções alienadas são distribuídas a cada um, incluindo ao primitivo adquirente, se já for accionista, na proporção das respectivas participações sociais.
 
-14 - Não existe a necessidade de consentimento da RESINORTE, S. A., nem o direito de preferência previsto neste artigo, no caso das seguintes transmissões de acções, a efectuar pela Empresa Geral do Fomento, S. A.:
+14 - (Revogado.)
 
-a) Associação de Municípios do Vale do Ave - 1 326 306 acções da classe A;
+15 - (Revogado.)
 
-b) Associação de Municípios do Vale do Douro Norte - 291 317 acções da classe A.
-
-15 - Após a verificação efectiva das transmissões previstas no número anterior, o capital social da RESINORTE, S. A., passa a ter a seguinte composição:
-
-a) Município de Amarante - 244 470 acções da classe A;
-
-b) Município de Armamar - 28 428 acções da classe A;
-
-c) Município de Baião - 83 105 acções da classe A;
-
-d) Município de Boticas - 30 000 acções da classe A;
-
-e) Município de Cabeceiras de Basto - 70 348 acções da classe A;
-
-f) Município de Celorico de Basto - 78 972 acções da classe A;
-
-g) Município de Chaves - 30 000 acções da classe A;
-
-h) Município de Cinfães - 81 448 acções da classe A;
-
-i) Município de Lamego - 104 033 acções da classe A;
-
-j) Município de Marco de Canaveses - 218 745 acções da classe A;
-
-l) Município de Moimenta da Beira - 43 657 acções da classe A;
-
-m) Município de Mondim de Basto - 33 073 acções da classe A;
-
-n) Município de Montalegre - 30 000 acções da classe A;
-
-o) Município de Penedono - 13 202 acções da classe A;
-
-p) Município de Resende - 46 423 acções da classe A;
-
-q) Município de Ribeira de Pena - 30 000 acções da classe A;
-
-r) Município de São João da Pesqueira - 32 251 acções da classe A;
-
-s) Município de Sernancelhe - 24 084 acções da classe A;
-
-t) Município de Tabuaço - 24 922 acções da classe A;
-
-u) Município de Tarouca - 33 224 acções da classe A;
-
-v) Município de Valpaços - 30 000 acções da classe A;
-
-x) Município de Vila Pouca de Aguiar - 30 000 acções da classe A;
-
-z) Associação de Municípios do Vale do Ave - 1 928 940 acções da classe A;
-
-aa) Associação de Municípios do Vale do Douro Norte - 423 683 acções da classe A;
-
-ab) Empreendimentos Hidroeléctricos do Alto Tâmega e Barroso, EIM, S. A. - 226 992 acções da classe A;
-
-ac) Empresa Geral do Fomento, S. A. - 4 080 000 acções da classe A.
+> Alterado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 9.º — Amortização de acções
 
@@ -658,9 +558,11 @@ c) O conselho fiscal e o revisor oficial de contas, ou sociedade de revisores of
 
 ###### Artigo 13.º — Participação e representação
 
-1 - Os accionistas com direito de voto podem participar nas assembleias gerais, desde que as suas acções estejam registadas ou, no caso de acções ao portador não registadas, depositadas numa instituição de crédito ou na RESINORTE, S. A., até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.
+1 - Os acionistas com direito de voto podem participar nas assembleias gerais desde que as ações estejam averbadas em seu nome no livro de registo da sociedade até 10 dias antes daquele em que a assembleia geral deva reunir em primeira convocatória.
 
 2 - A representação de accionistas em assembleia geral pode fazer-se em qualquer pessoa, sendo instrumento suficiente de representação uma carta dirigida ao presidente da mesa da assembleia geral.
+
+> Alterado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 14.º — Mesa da assembleia geral
 
@@ -714,7 +616,9 @@ h) Fixar as remunerações dos órgãos sociais da RESINORTE, S. A., podendo est
 
 1 - A administração da RESINORTE, S. A., é exercida por um conselho de administração, composto por 5 a 13 membros.
 
-2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respectivo presidente.
+2 - Compete à assembleia geral eleger de entre os membros do conselho de administração o respetivo presidente, que tem voto de qualidade nas deliberações do conselho de administração.
+
+> Alterado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ###### Artigo 19.º — Competência do conselho de administração
 
@@ -763,6 +667,20 @@ c) Pela assinatura de procuradores quanto aos actos ou categorias de actos defin
 2 - O conselho fiscal é composto por três membros efectivos e por um suplente, nomeados em assembleia geral, sendo o seu presidente também por ela nomeado.
 
 3 - O revisor oficial de contas, ou a sociedade de revisores oficiais de contas, é nomeado pela assembleia geral, sob proposta do conselho fiscal.
+
+###### Artigo 24.º-A — Conselho consultivo
+
+1 - Compete ao conselho consultivo o acompanhamento da atividade geral da sociedade, designadamente dos níveis de serviços praticados pela mesma e da gestão das infraestruturas afetas à concessão.
+
+2 - O conselho consultivo pode aprovar, por sua iniciativa ou quando tal lhe seja solicitado pelo concedente, por maioria dos membros presentes, pareceres não vinculativos nas matérias da sua competência.
+
+3 - Fazem parte do conselho consultivo, por inerência, os presidentes das câmaras municipais servidos pela sociedade, bem como os membros do respetivo conselho de administração e do conselho fiscal.
+
+4 - O conselho consultivo reúne trimestralmente mediante convocatória do presidente do conselho de administração e extraordinariamente sempre que convocado para o efeito pelo presidente do conselho de administração ou por pelo menos 1/3 dos utilizadores do sistema.
+
+5 - A sociedade assegura o necessário apoio logístico e administrativo ao funcionamento do conselho consultivo.
+
+> Aditado pelo/a [Decreto-Lei n.º 106/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2014-25345608), publicado em 2014-07-02.
 
 ### CAPÍTULO V — Disposições finais
 

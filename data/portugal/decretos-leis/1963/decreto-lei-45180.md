@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-09-27'
+version_history:
+  file: decreto-lei-45180.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1963-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-09-27'
+    amending: pt:dre:472924:por
+    amending_title: Decreto-Lei n.º 47002; Decreto-Lei n.º 49274
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:45:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 47002; Decreto-Lei
+    n.º 49274. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1963/decreto-lei-45180.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -139,13 +155,21 @@ validation:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Os Estudos Gerais Universitários de Angola e de Moçambique regem-se pela legislação vigente para as Universidades, em tudo o que não for contrariado pelo presente diploma e pelos Decreto-lei n.º 44530, de 21 de Agosto de 1962, e [Decreto n.º 44644](https://diariodarepublica.pt/dr/detalhe/decreto/44644-1962-156596), de 24 de Outubro de 1962.
+###### Artigo 1.º
 
-Art. 2.º A competência atribuída ao Ministro da Educação Nacional para as Universidades será exercida, no que respeita aos Estudos Gerais, pelo Ministro do Ultramar, tratando-se de questões meramente administrativas, pelo Ministro da Educação Nacional, tratando-se de questões meramente pedagógicas, e pelos dois conjuntamente, tratando-se de questões simultâneamente administrativas e pedagógicas.
+Os Estudos Gerais Universitários de Angola e de Moçambique regem-se pela legislação vigente para as Universidades, em tudo o que não for contrariado pelo presente diploma e pelos Decreto-lei n.º 44530, de 21 de Agosto de 1962, e [Decreto n.º 44644](https://diariodarepublica.pt/dr/detalhe/decreto/44644-1962-156596), de 24 de Outubro de 1962.
 
-Art. 3.º A Direcção-Geral do Ensino Superior e das Belas-Artes tem, em relação aos Estudos Gerais, as atribuições que lhe cabem quanto às Universidades, competindo-lhe submeter à apreciação do Ministro do Ultramar, ou do Ministro da Educação Nacional, ou dos dois, conforme os casos, os assuntos respeitantes àqueles Estudos, bem como assegurar a execução dos respectivos despachos.
+###### Artigo 2.º
 
-Art. 4.º Os senados dos Estatutos Gerais são constituídos:
+A competência atribuída ao Ministro da Educação Nacional para as Universidades será exercida, no que respeita aos Estudos Gerais, pelo Ministro do Ultramar, tratando-se de questões meramente administrativas, pelo Ministro da Educação Nacional, tratando-se de questões meramente pedagógicas, e pelos dois conjuntamente, tratando-se de questões simultâneamente administrativas e pedagógicas.
+
+###### Artigo 3.º
+
+A Direcção-Geral do Ensino Superior e das Belas-Artes tem, em relação aos Estudos Gerais, as atribuições que lhe cabem quanto às Universidades, competindo-lhe submeter à apreciação do Ministro do Ultramar, ou do Ministro da Educação Nacional, ou dos dois, conforme os casos, os assuntos respeitantes àqueles Estudos, bem como assegurar a execução dos respectivos despachos.
+
+###### Artigo 4.º
+
+Os senados dos Estudos Gerais são constituídos:
 
 a) Pelo reitor, que é presidente nato;
 
@@ -153,31 +177,43 @@ b) Pelo vice-reitor;
 
 c) Pelo delegado dos professores catedráticos do curso de Ciências Pedagógicas;
 
-d) Pelo delegado dos professores catedráticos do curso Médico-Cirúrgico;
+d) Pelo delegado dos professores catedráticas dos cursos de professor adjunto do 8.º e 11.º grupos do ensino técnico profissional;
 
-e) Pelo delegado dos professores catedráticos dos cursos de Engenharia;
+e) Pelo delegado dos professores catedráticos do curso médico-cirúrgico;
 
-f) Pelo delegado dos professores catedráticos dos cursos de Agronomia e de Silvicultura;
+f) Pelo delegado dos professores catedráticas dos cursos de Engenharia;
 
-g) Pelo delegado dos professores catedráticos do curso de Medicina Veterinária;
+g) Pelo delegado dos professores catedráticos dos cursos de Agronomia e de Silvicultura;
 
-h) Por um representante dos professores extraordinários, encarregados de curso e incumbidos de regência dos Estudos Gerais;
+h) Pelo delegado dos professores catedráticos do curso de Medicina Veterinária;
 
-i) Por um representante dos assistentes dos Estudos Gerais.
+i) Por um representante dos professores extraordinários, encarregados de curso e incumbidos de regência dos Estudos Gerais;
 
-§ único. Na falta de professores catedráticos, os vogais referidos nas alíneas c) a g) serão substituídos pelo elemento docente mais categorizado do respectivo curso e, havendo vários dessa categoria, pelo mais antigo.
+j) Por um representante dos assistentes dos Estudos Gerais.
 
-Art. 5.º Aos senados dos Estudos Gerais cabem as atribuições dos senados e conselho universitários e dos conselhos escolares das Faculdades e escolas e institutos superiores.
+§ único. Na falta de professores catedráticos, os vogais referidos nas alíneas c) a h) serão substituídos pelo elemento docente mais categorizado do respectivo curso e, havendo vários dessa categoria, pelo mais antigo.
 
-Art. 6.º Os reitores dos Estudos Gerais têm a competência dos reitores das Universidades e dos directores das Faculdades, escolas e institutos superiores.
+> Alterado pelo/a [Decreto-Lei n.º 47002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47002-1966-472924), publicado em 1966-05-10.
+
+###### Artigo 5.º
+
+Aos senados dos Estudos Gerais cabem as atribuições dos senados e conselho universitários e dos conselhos escolares das Faculdades e escolas e institutos superiores.
+
+###### Artigo 6.º
+
+Os reitores dos Estudos Gerais têm a competência dos reitores das Universidades e dos directores das Faculdades, escolas e institutos superiores.
 
 § único. Quando algum curso funcione fora da localidade sede da reitoria, poderá o reitor delegar num professor, relativamente a esse curso, as atribuições que os Ministros do Ultramar e da Educação Nacional fixem por despacho conjunto.
 
-Art. 7.º Os assuntos referentes aos Estudos Gerais serão submetidos a despacho do governador-geral exclusivamente pelo reitor.
+###### Artigo 7.º
+
+Os assuntos referentes aos Estudos Gerais serão submetidos a despacho do governador-geral exclusivamente pelo reitor.
 
 § único. A competência do governador-geral não pode ser delegada.
 
-Art. 8.º Os Estudos Gerais compreendem os seguintes cursos:
+###### Artigo 8.º
+
+Os Estudos Gerais compreendem os seguintes cursos:
 
 a) Curso de Ciências Pedagógicas;
 
@@ -201,15 +237,27 @@ j) Curso de Medicina Veterinária.
 
 § único. Para cada um dos cursos das alíneas b) a j) será determinado por despacho conjunto dos Ministros do Ultramar e da Educação Nacional, em função das possibilidades docentes e das necessidades discentes, o número dos anos a professar no ultramar e o dos que deverão ser cursados nos estabelecimentos congéneres da metrópole.
 
-Art. 9.º Os quadros do pessoal dos Estudos Gerais serão fixados em portaria conjunta dos Ministros do Ultramar e da Educação Nacional.
+###### Artigo 9.º
 
-Art. 10.º O pessoal docente será recrutado e provido segundo o regime em vigor para as Universidades, e o restante pessoal nas condições a estabelecer em portaria do Ministro do Ultramar.
+Os quadros do pessoal dos Estudos Gerais serão fixados em portaria conjunta dos Ministros do Ultramar e da Educação Nacional.
 
-Art. 11.º Os cargos docentes, técnicos e administrativos poderão ser desempenhados em comissão de serviço por pessoal das Universidades e das escolas superiores da metrópole.
+###### Artigo 10.º
 
-§ único. O serviço em comissão considera-se, para todos os efeitos legais, prestado na Universidade ou escola a que o funcionário pertencer.
+O pessoal docente será recrutado e provido segundo o regime em vigor para as Universidades, e o restante pessoal nas condições a estabelecer em portaria do Ministro do Ultramar.
 
-Art. 12.º As remunerações mensais que competem ao pessoal docente são as seguintes:
+###### Artigo 11.º
+
+Os cargos docentes, técnicos e administrativos poderão ser desempenhados, em comissão, por pessoal dos serviços do Ministério da Educação Nacional, em qualquer situação.
+
+§ 1.º Os cargos docentes e técnicos poderão ainda ser desempenhados, em comissão, por pessoal dos serviços de outros Ministérios, em qualquer situação.
+
+§ 2.º O serviço em comissão considera-se, para todos os efeitos legais, prestado nos serviços a que o pessoal pertencer.
+
+> Alterado pelo/a [Decreto-Lei n.º 49274](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49274-1969-214258), publicado em 1969-09-27.
+
+###### Artigo 12.º
+
+As remunerações mensais que competem ao pessoal docente são as seguintes:
 
 [(ver documento original)](https://files.diariodarepublica.pt/1s/1963/08/18300/10621063.pdf)
 
@@ -217,11 +265,17 @@ Art. 12.º As remunerações mensais que competem ao pessoal docente são as seg
 
 § 2.º Ao pessoal docente que não exerça qualquer outra actividade remunerada, oficial ou particular, poderá ser atribuído um subsídio, de quantitativo não excedente a 4000$00 mensais, para a realização de determinado trabalho de investigação científica nos Estudos Gerais ou institutos da província.
 
-Art. 13.º É aplicável aos reitores e aos professores, com uma ou duas diuturnidades, o disposto no artigo 274.º do Estatuto do Funcionalismo Ultramarino.
+###### Artigo 13.º
 
-Art. 14.º O pessoal docente, técnico e administrativo terá direito a habitação gratuita fornecida pelo Estado ou, na falta dela, a um subsídio para renda de casa a fixar pelo governador-geral, de harmonia com as condições locais.
+É aplicável aos reitores e aos professores, com uma ou duas diuturnidades, o disposto no artigo 274.º do Estatuto do Funcionalismo Ultramarino.
 
-Art. 15.º Enquanto se não efectivar a integração prevista no artigo 12.º do [Decreto-Lei n.º 44530](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44530-1962-163635), o director de cada um dos institutos de investigação científica será nomeado por portaria conjunta dos Ministros do Ultramar e da Educação Nacional, de entre o pessoal docente dos respectivos Estudos Gerais Universitários, ouvidos o reitor, o presidente da Junta de Investigações do Ultramar e o governador-geral.
+###### Artigo 14.º
+
+O pessoal docente, técnico e administrativo terá direito a habitação gratuita fornecida pelo Estado ou, na falta dela, a um subsídio para renda de casa a fixar pelo governador-geral, de harmonia com as condições locais.
+
+###### Artigo 15.º
+
+Enquanto se não efectivar a integração prevista no artigo 12.º do [Decreto-Lei n.º 44530](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44530-1962-163635), o director de cada um dos institutos de investigação científica será nomeado por portaria conjunta dos Ministros do Ultramar e da Educação Nacional, de entre o pessoal docente dos respectivos Estudos Gerais Universitários, ouvidos o reitor, o presidente da Junta de Investigações do Ultramar e o governador-geral.
 
 § único. O regime estabelecido neste artigo poderá estender-se a outros institutos de investigação mediante despacho conjunto dos dois Ministros.
 

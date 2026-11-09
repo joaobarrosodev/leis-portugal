@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1974-12-31'
+version_history:
+  file: decreto-594-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-12-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-12-31'
+    amending: pt:dre:235962:por
+    amending_title: Decreto n.º 820/74
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:25:53Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 820/74. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1972/decreto-594-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -99,21 +115,27 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º É autorizada a Santa Casa da Misericórdia de Lisboa a celebrar contrato para o fornecimento dos bilhetes para os concursos das apostas mútuas desportivas até à importância de 48180000$00.
+###### Artigo 1.º
 
-Art. 2.º - 1. O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
+É autorizada a Santa Casa da Misericórdia de Lisboa a celebrar contrato para fornecimento dos bilhetes para os concursos das apostas mútuas desportivas até à importância de 55600000$00.
 
-Ano de 1973 ... 9300000$00
+> Alterado pelo/a [Decreto n.º 820/74](https://diariodarepublica.pt/dr/detalhe/decreto/820-1974-235962), publicado em 1974-12-31.
 
-Ano de 1974 ... 9300000$00
+###### Artigo 2.º
 
-Ano de 1975 ... 9860000$00
+1. O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
 
-Ano de 1976 ... 9860000$00
+Ano de 1974 ... 12000000$00
 
-Ano de 1977 ... 9860000$00
+Ano de 1975 ... 13200000$00
+
+Ano de 1976 ... 14500000$00
+
+Ano de 1977 ... 15900000$00
 
 2. O saldo apurado em cada ano será adicionado à importância fixada para o ano seguinte.
+
+> Alterado pelo/a [Decreto n.º 820/74](https://diariodarepublica.pt/dr/detalhe/decreto/820-1974-235962), publicado em 1974-12-31.
 
 Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Baltasar Leite Rebelo de Sousa.
 

@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:226797:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1992-10-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "23e39da3ad6b51f8"
+   ]
+  },
+  {
+   "date": "2007-06-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:639133:por",
+     "title": "Decreto n.º 11/2007",
+     "published": "2007-06-12",
+     "dre_path": "/dr/detalhe/decreto/11-2007-639133"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "d0875e0dc010c4ca",
+    "bae04f66f8ee559b",
+    "4b874f42fa0e4948",
+    "88415a0e8a3d9fc6"
+   ]
+  }
+ ],
+ "fragments": {
+  "23e39da3ad6b51f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Outubro\n\nA Câmara Municipal de Mira solicitou a desafectação do regime florestal parcial de uma parcela de terreno, com a área de 3 ha, do perímetro florestal das dunas de Mira, submetida ao referido regime florestal pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917.\n\nO terreno pertence à Câmara Municipal de Mira, que nele pretende construir um centro de dia para idosos.\n\nTendo em conta o âmbito social do empreendimento;\n\nAssim:\n\nNos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:\n\nArtigo 1.º - 1 - É excluída do regime florestal parcial, a que foi submetida pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917, uma parcela de terreno do perímetro florestal das dunas de Mira, com a área de 3 ha, conforme demarcação na planta em anexo ao presente diploma, do qual faz parte integrante.\n\n2 - A parcela de terreno referida no número anterior pertence à Câmara Municipal de Mira e destina-se à instalação de um centro de dia para idosos, no âmbito das acções desenvolvidas pela Associação de Idosos do Seixo.\n\n3 - Caso não venha a concretizar-se o uso referido no número anterior, a área em causa será novamente integrada no perímetro florestal das dunas de Mira.\n\nArt. 2.º O arvoredo a abater será o mínimo indispensável às infra-estruturas a instalar, sendo a sua comercialização feita pela Direcção-Geral das Florestas e a respectiva receita distribuída nos termos legais.\n\nArt. 3.º A entrega da parcela só será efectivada depois de a Câmara Municipal de Mira proceder à respectiva demarcação, de acordo com orientações técnicas da Direcção-Geral das Florestas.\n\nPresidência do Conselho de Ministros, 14 de Agosto de 1992.\n\nAníbal António Cavaco Silva - José Manuel Nunes Liberato - Arlindo Marques da Cunha.\n\nAssinado em 16 de Agosto de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 20 de Setembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nAnexo a que se refere o n.º 1 do artigo 1.º do Decreto n.º 43/92\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/237b00/48314832.pdf)"
+  },
+  "d0875e0dc010c4ca": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 14 de Outubro\n\nA Câmara Municipal de Mira solicitou a desafectação do regime florestal parcial de uma parcela de terreno, com a área de 3 ha, do perímetro florestal das dunas de Mira, submetida ao referido regime florestal pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917.\n\nO terreno pertence à Câmara Municipal de Mira, que nele pretende construir um centro de dia para idosos.\n\nTendo em conta o âmbito social do empreendimento;\n\nAssim:\n\nNos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "bae04f66f8ee559b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2007-06-17",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto/11-2007-639133), publicado em 2007-06-12."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - É excluída do regime florestal parcial, a que foi submetida pelo [Decreto n.º 3262](https://diariodarepublica.pt/dr/detalhe/decreto/3262-1917-497207), de 27 de Julho de 1917, uma parcela de terreno do perímetro florestal das dunas de Mira, com a área de 3 ha, conforme demarcação na planta em anexo ao presente diploma, do qual faz parte integrante.\n\n2 - A parcela de terreno referida no número anterior pertence à Câmara Municipal de Mira e destina-se à instalação de um centro de dia e lar para idosos, infra-estruturas de apoio à infância e cuidados de saúde, no âmbito das acções desenvolvidas pelo Centro Social Paroquial do Seixo de Mira.\n\n3 - Caso não venha a concretizar-se o uso referido no número anterior, a área em causa será novamente integrada no perímetro florestal das dunas de Mira.\n\n> Alterado pelo/a [Decreto n.º 11/2007](https://diariodarepublica.pt/dr/detalhe/decreto/11-2007-639133), publicado em 2007-06-12."
+  },
+  "4b874f42fa0e4948": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO arvoredo a abater será o mínimo indispensável às infra-estruturas a instalar, sendo a sua comercialização feita pela Direcção-Geral das Florestas e a respectiva receita distribuída nos termos legais."
+  },
+  "88415a0e8a3d9fc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA entrega da parcela só será efectivada depois de a Câmara Municipal de Mira proceder à respectiva demarcação, de acordo com orientações técnicas da Direcção-Geral das Florestas.\n\nPresidência do Conselho de Ministros, 14 de Agosto de 1992.\n\nAníbal António Cavaco Silva - José Manuel Nunes Liberato - Arlindo Marques da Cunha.\n\nAssinado em 16 de Agosto de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 20 de Setembro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nAnexo a que se refere o n.º 1 do artigo 1.º do Decreto n.º 43/92\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1992/10/237b00/48314832.pdf)"
+  }
+ }
+}

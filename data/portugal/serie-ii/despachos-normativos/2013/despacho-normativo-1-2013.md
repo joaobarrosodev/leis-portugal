@@ -41,10 +41,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2017-06-09'
+version_history:
+  file: despacho-normativo-1-2013.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-01-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-06-09'
+    amending: pt:dre:107497627:por
+    amending_title: Despacho Normativo n.º 4/2017
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
 identifiers:
   celex: null
   eli: null
@@ -70,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:07:44Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Despacho Normativo n.º 4/2017. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/despachos-normativos/2013/despacho-normativo-1-2013.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -161,7 +178,9 @@ b) Taça de Portugal ou uma competição equivalente por género masculino e fem
 
 2 - As competições desportivas elegíveis nos termos do número anterior são propostas no início da época por cada uma das federações desportivas nacionais referidas no artigo 1.º e validadas pelo Instituto Português do Desporto e Juventude, I. P. (IPDJ, I.P.).
 
-3 - O número máximo de competições desportivas elegíveis ao abrigo da alínea a) do n.º 1 por federação desportiva nacional, não pode ultrapassar seis, com exceção da federação desportiva nacional de futebol, caso em que não pode ultrapassar dez, considerando as disciplinas de futebol 11 e de futsal.
+3 - O número máximo de competições desportivas elegíveis ao abrigo da alínea a) do n.º 1 por federação desportiva nacional, não pode ultrapassar seis, com exceção da federação desportiva nacional de futebol, caso em que não pode ultrapassar doze, considerando as disciplinas de futebol 11 e de futsal.
+
+> Alterado pelo/a [Despacho Normativo n.º 4/2017](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2017-107497627), publicado em 2017-06-09.
 
 ###### Artigo 4.º — Deslocações comparticipadas
 
@@ -201,9 +220,11 @@ c) Competições desportivas por eliminatória.
 
 6 - A não utilização da jornada dupla, exceto nos casos do número anterior e quando devidamente justificado perante o IPDJ, I.P., determina a não concessão da comparticipação financeira respeitante aos encargos com a respetiva deslocação por via aérea e/ou marítima.
 
-7 - No caso de realização de jornada dupla, nos termos do n.º 4, é concedido um valor adicional de (euro) 60 por elemento da comitiva indicada no n.º 1 do artigo 7.º.
+7 - No caso de realização de jornada dupla, nos termos do n.º 4, é concedido um valor adicional de (euro) 60,00 por elemento da comitiva indicada no n.º 1 do artigo 7.º, até ao valor máximo do apoio estabelecido no Anexo I.
 
-8 - No caso de participação de equipas desportivas de clubes do território do continente em competições da disciplina de futebol 11 que incluam equipas desportivas de clubes das Regiões Autónomas, é concedido um valor adicional de (euro) 60 por elemento da comitiva indicada no n.º 1 do artigo 7.º no caso de ser necessária a estada.
+8 - No caso de participação de equipas desportivas de clubes do território do continente em competições da disciplina de futebol 11 que incluam equipas desportivas de clubes das Regiões Autónomas, é concedido um valor adicional de (euro) 60,00 por elemento da comitiva indicada no n.º 1 do artigo 7.º no caso de ser necessária a estada, até ao valor máximo do apoio estabelecido no Anexo I.
+
+> Alterado pelo/a [Despacho Normativo n.º 4/2017](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2017-107497627), publicado em 2017-06-09.
 
 ###### Artigo 6.º — Situações excecionais
 
@@ -211,9 +232,11 @@ Em casos devidamente fundamentados o IPDJ, I. P. pode autorizar a comparticipaç
 
 ###### Artigo 7.º — Elementos da comitiva
 
-1 - As comitivas das equipas desportivas de clubes que disputam competições desportivas nas Regiões Autónomas, tal como referidas no artigo 4.º, são constituídas pelos praticantes desportivos, treinadores e, facultativamente, por elementos de apoio médico e dirigentes do clube, devendo estes últimos constar dos respetivos boletins de jogo.
+1 - As comitivas das equipas desportivas de clubes que disputam competições desportivas nas Regiões Autónomas, tal como referidas no artigo 4.º, são constituídas pelos praticantes desportivos, treinadores e, facultativamente, por elementos de apoio médico e dirigentes do clube.
 
 2 - O número máximo de árbitros ou juízes, por deslocação para participação em jogo ou conjunto de jogos é o que consta do anexo II do presente despacho, que do mesmo constitui parte integrante.
+
+> Alterado pelo/a [Despacho Normativo n.º 4/2017](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/4-2017-107497627), publicado em 2017-06-09.
 
 ###### Artigo 8.º — Competições e despesas não elegíveis
 

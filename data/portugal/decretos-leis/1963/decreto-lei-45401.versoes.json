@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:683780:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1963-12-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "5f0e8a41e9bea1c6"
+   ]
+  },
+  {
+   "date": "1969-10-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215933:por",
+     "title": "Decreto-Lei n.º 49294",
+     "published": "1969-10-08",
+     "dre_path": "/dr/detalhe/decreto-lei/49294-1969-215933"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "b78afb2ccb8b2a12",
+    "a936ef9fa6e05897",
+    "8051aad6d4736627",
+    "af005ca1244df7f7"
+   ]
+  }
+ ],
+ "fragments": {
+  "5f0e8a41e9bea1c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tem sido preocupação do Governo facultar à lavoura a assistência técnica e os créditos indispensáveis ao fomento das explorações agrícolas, e daí que, entre outras medidas, a [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874) (de melhoramentos agrícolas) tenha vindo a ser objecto das necessárias actualizações, todas no sentido de ampliar o seu campo de acção e por forma a abrangerem os objectivos indispensáveis ao melhor rendimento da agricultura (Decretos-Leis n.os 43355 e 44534).\n\nA experiência tem demonstrado, porém, que quanto ao fomento florestal e frutícola, aliás compreendido no campo de aplicação daquela legislação, o prazo e a forma de amortização legais, para os créditos do Fundo de Melhoramentos Agrícolas, não se adaptam, na maior parte dos casos, às condições especiais da exploração pecuária e do arvoredo, já que estas começam quase sempre alguns anos após o investimento e que, por outro lado, os lucros não são uniformes nos vários anos.\n\nO presente diploma tem em vista solucionar dificuldades, esperando-se que o recurso ao crédito, aliado à assistência técnica a prestar pelos serviços competentes das Direcções-Gerais dos Serviços Florestais e Aquícolas e dos Serviços Agrícolas, de acordo com o artigo 3.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), constituam factores decisivos no fomento florestal, pecuário e frutícola.\n\nAproveita-se a oportunidade para elevar o limite máximo do crédito pessoal, garantido por fiança, pois também resultou da experiência que o limite de 20 contos, ora em vigor, não é suficiente, em certos casos, para que se atinjam as finalidades previstas com a concessão daquela forma de crédito.\n\nAinda se aproveita o presente diploma para tornar extensiva a todas as associações sujeitas à orientação e fiscalização da Repartição das Associações Agrícolas, da Direcção-Geral dos Serviços Agrícolas, a obtenção de empréstimos nas mesmas condições dos organismos corporativos e das cooperativas agrícolas.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º A amortização dos empréstimos concedidos ao abrigo da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, e legislação complementar e destinados a arborizações florestais ou frutícolas terá início quando o arvoredo entrar em exploração.\n\n§ 1.º O capital do empréstimo vencerá juros a partir do ano imediatamente anterior ao início de amortização.\n\n§ 2.º A importância a amortizar, capital e juros, poderá ser dividida em fracções, até três, fixando-se para essas fracções períodos de amortização, no total máximo de 30 anos, e dividindo-se a importância a pagar em cada período em prestações anuais e iguais.\n\nArt. 2.º O limite de 20 contos estabelecido nos §§ 2.º e 3.º do artigo 10.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, passa a ser de 50 contos.\n\nArt. 3.º É aplicável a todas as associações agrícolas com estatutos aprovados pelo Secretário de Estado da Agricultura e sujeitas à fiscalização da repartição respectiva da Direcção-Geral dos Serviços Agrícolas o disposto no § 1.º do artigo 10.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960.\n\nPublique- se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 2 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Luís Le Cocq de Albuquerque de Azevedo Coutinho.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "b78afb2ccb8b2a12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Tem sido preocupação do Governo facultar à lavoura a assistência técnica e os créditos indispensáveis ao fomento das explorações agrícolas, e daí que, entre outras medidas, a [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874) (de melhoramentos agrícolas) tenha vindo a ser objecto das necessárias actualizações, todas no sentido de ampliar o seu campo de acção e por forma a abrangerem os objectivos indispensáveis ao melhor rendimento da agricultura (Decretos-Leis n.os 43355 e 44534).\n\nA experiência tem demonstrado, porém, que quanto ao fomento florestal e frutícola, aliás compreendido no campo de aplicação daquela legislação, o prazo e a forma de amortização legais, para os créditos do Fundo de Melhoramentos Agrícolas, não se adaptam, na maior parte dos casos, às condições especiais da exploração pecuária e do arvoredo, já que estas começam quase sempre alguns anos após o investimento e que, por outro lado, os lucros não são uniformes nos vários anos.\n\nO presente diploma tem em vista solucionar dificuldades, esperando-se que o recurso ao crédito, aliado à assistência técnica a prestar pelos serviços competentes das Direcções-Gerais dos Serviços Florestais e Aquícolas e dos Serviços Agrícolas, de acordo com o artigo 3.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), constituam factores decisivos no fomento florestal, pecuário e frutícola.\n\nAproveita-se a oportunidade para elevar o limite máximo do crédito pessoal, garantido por fiança, pois também resultou da experiência que o limite de 20 contos, ora em vigor, não é suficiente, em certos casos, para que se atinjam as finalidades previstas com a concessão daquela forma de crédito.\n\nAinda se aproveita o presente diploma para tornar extensiva a todas as associações sujeitas à orientação e fiscalização da Repartição das Associações Agrícolas, da Direcção-Geral dos Serviços Agrícolas, a obtenção de empréstimos nas mesmas condições dos organismos corporativos e das cooperativas agrícolas.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "a936ef9fa6e05897": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1969-10-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 49294](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49294-1969-215933), publicado em 1969-10-08."
+   ],
+   "markdown": "###### Artigo 1.º\n\nA amortização dos empréstimos concedidos ao abrigo da [Lei n.º 2017](https://diariodarepublica.pt/dr/detalhe/lei/2017-1946-154874), de 25 de Junho de 1946, e legislação complementar e destinados a arborizações florestais ou frutícolas terá início quando o arvoredo entrar em exploração.\n\n§ 1.º O capital do empréstimo vencerá juros a partir do ano seguinte ao da plantação, contando-se como ano completo o tempo que decorre desde a data da plantação até ao começo do ano seguinte.\n\n§ 2.º A importância a amortizar, capital e juros, poderá ser dividida em fracções, até três, fixando-se para essas fracções períodos de amortização, no total máximo de 30 anos, e dividindo-se a importância a pagar em cada período em prestações anuais e iguais.\n\n> Alterado pelo/a [Decreto-Lei n.º 49294](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49294-1969-215933), publicado em 1969-10-08."
+  },
+  "8051aad6d4736627": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO limite de 20 contos estabelecido nos §§ 2.º e 3.º do artigo 10.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, passa a ser de 50 contos."
+  },
+  "af005ca1244df7f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ aplicável a todas as associações agrícolas com estatutos aprovados pelo Secretário de Estado da Agricultura e sujeitas à fiscalização da repartição respectiva da Direcção-Geral dos Serviços Agrícolas o disposto no § 1.º do artigo 10.º do [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960.\n\nPublique- se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 2 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Luís Le Cocq de Albuquerque de Azevedo Coutinho.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

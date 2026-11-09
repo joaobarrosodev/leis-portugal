@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-10-14'
+version_history:
+  file: portaria-11-93.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1993-01-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-10-14'
+    amending: pt:dre:540856:por
+    amending_title: Portaria n.º 986/2000
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/11/1993/01/06/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T11:43:10Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 986/2000. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/1993/portaria-11-93.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -213,11 +228,9 @@ Otorrinolaringologia;
 
 Departamento de ortopedia, que integra os serviços e áreas funcionais:
 
-Ortopedia:
+Ortopedia;
 
-Serviço 5;
-
-Serviço 9;
+Traumatologia;
 
 Vertebromedular;
 
@@ -248,6 +261,8 @@ Serviço de imagiologia;
 Serviço de imuno-hemoterapia;
 
 Serviço de medicina física e reabilitação.
+
+> Alterado pelo/a [Portaria n.º 986/2000](https://diariodarepublica.pt/dr/detalhe/portaria/986-2000-540856), publicado em 2000-10-13.
 
 ###### Artigo 4.º — Outros serviços assistenciais
 

@@ -1,0 +1,113 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:490391:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1966-03-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b9cf4ab976f37e7a"
+   ]
+  },
+  {
+   "date": "1971-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:445691:por",
+     "title": "Decreto-Lei n.º 131/71",
+     "published": "1971-04-06",
+     "dre_path": "/dr/detalhe/decreto-lei/131-1971-445691"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "e0019128ad92efc8",
+    "593221afccda1458",
+    "c1888b77bf684202",
+    "b5d5d0e6f4e3797e",
+    "9fa1fed0a6610095",
+    "9085a15b28505cc6"
+   ]
+  }
+ ],
+ "fragments": {
+  "b9cf4ab976f37e7a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O acentuado desenvolvimento dos serviços e das actividades do Cofre de Auxílio Mútuo do Comissariado do Desemprego, cujo regulamento foi aprovado por despacho ministerial de 13 de Outubro de 1941, e as possibilidades que se oferecem de ampliar o seu campo de acção a favor não só dos seus actuais beneficiados, como ainda da generalidade dos servidores do Ministério das Obras Públicas, aconselham a criação de um organismo devidamente estruturado para prosseguir com eficiência aqueles fins e em condições de poder aproveitar ùtilmente da organização e experiência daquele.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º É criado o Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas (C. A. F. M. O. P.), dotado de personalidade jurídica, o qual tem por fim facilitar a todos os servidores do Ministério das Obras Públicas o preenchimento de necessidades de ordem económica e social, de modo a contribuir para a melhoria das suas condições de existência e para o estreitamento dos laços de solidariedade entre eles.\n\nArt. 2.º O Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas poderá, mediante autorização do Ministro das Obras Públicas, aceitar doações e subsídios, adquirir e alienar, a título gratuito e oneroso, bens mobiliários e imobiliários e ainda praticar actos de registo e todos os restantes necessários à administração dos mesmos bens.\n\nArt. 3.º O Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas poderá aproveitar da organização e bens do Cofre de Auxílio Mútuo do Comissariado do Desemprego, sem prejuízo dos direitos e regalias dos subscritores do mesmo Cofre, nos termos que forem fixados pelo Ministro das Obras Públicas.\n\nArt. 4.º A gerência do Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas é exercida por uma comissão administrativa, composta de cinco membros nomeados pelo Ministro das Obras Públicas.\n\n§ único. A competência e atribuições da comissão administrativa, bem como as normas necessárias à prossecução dos fins do Cofre, serão definidas, em regulamento, pelo Ministro das Obras Públicas.\n\nArt. 5.º As contas de gerência serão anualmente submetidas à aprovação do Ministro das Obras Públicas, juntamente com o parecer de uma comissão especialmente nomeada para esse fim. A aprovação das contas de gerência pelo Ministro das Obras Públicas legitima, para todos os efeitos, as respectivas receitas e despesas.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 9 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "e0019128ad92efc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O acentuado desenvolvimento dos serviços e das actividades do Cofre de Auxílio Mútuo do Comissariado do Desemprego, cujo regulamento foi aprovado por despacho ministerial de 13 de Outubro de 1941, e as possibilidades que se oferecem de ampliar o seu campo de acção a favor não só dos seus actuais beneficiados, como ainda da generalidade dos servidores do Ministério das Obras Públicas, aconselham a criação de um organismo devidamente estruturado para prosseguir com eficiência aqueles fins e em condições de poder aproveitar ùtilmente da organização e experiência daquele.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "593221afccda1458": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1971-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06."
+   ],
+   "markdown": "###### Artigo 1.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06."
+  },
+  "c1888b77bf684202": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1971-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06."
+  },
+  "b5d5d0e6f4e3797e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1971-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06."
+   ],
+   "markdown": "###### Artigo 3.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06."
+  },
+  "9fa1fed0a6610095": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1971-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06."
+   ],
+   "markdown": "###### Artigo 4.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06."
+  },
+  "9085a15b28505cc6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1971-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06."
+   ],
+   "markdown": "###### Artigo 5.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 131/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/131-1971-445691), publicado em 1971-04-06.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 9 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

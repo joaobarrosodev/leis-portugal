@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-10-31'
+version_history:
+  file: decreto-48909.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1969-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-10-31'
+    amending: pt:dre:215120:por
+    amending_title: Decreto n.º 49345
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:06:36Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 49345. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1969/decreto-48909.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -95,15 +110,21 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato para a execução da obra de instalações eléctricas do edifício dos tribunais de polícia e execução das penas do Palácio de Justiça de Lisboa pela importância de 5594317$00.
+###### Artigo 1.º
 
-Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
+É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato para a execução da obra de instalações eléctricas do edifício dos tribunais de polícia e execução das penas do Palácio de Justiça de Lisboa pela importância de 5594317$00.
 
-Em 1969 ... 1864772$00
+###### Artigo 2.º
 
-Em 1970 ... 3729545$00
+O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
 
-§ único. A importância fixada para o último ano será acrescida do saldo apurado no ano que lhe antecede.
+1969 ... 2000000$00
+
+1970 ... 3594317$00
+
+§ único. A importância fixada para o ano de 1970 será acrescida do saldo eventualmente apurado no ano anterior.
+
+> Alterado pelo/a [Decreto n.º 49345](https://diariodarepublica.pt/dr/detalhe/decreto/49345-1969-215120), publicado em 1969-10-31.
 
 Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
 

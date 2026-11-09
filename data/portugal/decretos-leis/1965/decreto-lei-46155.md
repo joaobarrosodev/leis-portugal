@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1967-03-22'
+version_history:
+  file: decreto-lei-46155.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1965-01-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1967-03-22'
+    amending: pt:dre:503213:por
+    amending_title: Decreto-Lei n.º 47600
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:51:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 47600. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46155.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -118,17 +133,25 @@ Tendo-se reconhecido conveniente que, em determinadas condições, os chefes de 
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Os funcionários destacados na Presidência do Conselho para chefiarem as delegações permanentes junto dos organismos económicos internacionais referidos no [Decreto-Lei n.º 44301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44301-1962-516064), de 27 de Abril de 1962, terão direito a ser abonados pela Comissão Técnica de Cooperação Económica Externa dos vencimentos da sua categoria e de uma importância atribuída a título de representação e compensação.
+###### Artigo 1.º
+
+Os funcionários destacados na Presidência do Conselho para chefiarem as delegações permanentes junto dos organismos económicos internacionais referidos no [Decreto-Lei n.º 44301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44301-1962-516064), de 27 de Abril de 1962, terão direito a ser abonados pela Comissão Técnica de Cooperação Económica Externa dos vencimentos da sua categoria e de uma importância atribuída a título de representação e compensação.
 
 § 1.º Quando os chefes das delegações exercerem as suas funções cumulativamente com as de representante diplomático, terão apenas direito às importâncias correspondentes a representação e compensação.
 
 § 2.º As importâncias atribuídas a título de representação e compensação serão fixadas, em cada caso, por proposta da Comissão Técnica de Cooperação Económica Externa, com o acordo do Presidente do Conselho e do Ministro das Finanças.
 
-Art. 2.º Aos funcionários do Ministério dos Negócios Estrangeiros destacados na Presidência do Conselho para prestarem serviço nas delegações a que se refere o artigo anterior será aplicável o disposto no artigo 120.º do regulamento daquele Ministério, aprovado pelo [Decreto n.º 29970](https://diariodarepublica.pt/dr/detalhe/decreto/29970-1939-186275), de 13 de Outubro de 1939, com as alterações introduzidas pelo artigo 9.º do Decreto n.º 35985, de 23 de Novembro de 1946, bem como o disposto na alínea c) do artigo 123.º Aos chefes de delegação será aplicado também o disposto no artigo 115.º e seu § 4.º, no n.º 2.º da alínea b) do artigo 123.º e no artigo 139.º do citado regulamento, com a alteração introduzida neste último pelo artigo 14.º do [Decreto-Lei n.º 43344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43344-1960-513011), de 22 de Novembro de 1960.
+###### Artigo 2.º
 
-Art. 3.º Quando o representante permanente de Portugal junto dos organismos económicos internacionais referidos no [Decreto-Lei n.º 44301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44301-1962-516064), de 27 de Abril de 1962, exercer, cumulativamente, a chefia de mais de uma das respectivas delegações, poderá, em despacho conjunto do Presidente do Conselho e do Ministro dos Negócios Estrangeiros, ser nomeado um adjunto desse chefe de delegação.
+Aos funcionários do Ministério dos Negócios Estrangeiros destacados na Presidência do Conselho para prestarem serviço nas delegações a que se refere o artigo anterior será aplicável o disposto no artigo 120.º do regulamento daquele Ministério, aprovado pelo [Decreto n.º 29970](https://diariodarepublica.pt/dr/detalhe/decreto/29970-1939-186275), de 13 de Outubro de 1939, com as alterações introduzidas pelo artigo 9.º do Decreto n.º 35985, de 23 de Novembro de 1946, bem como o disposto na alínea c) do artigo 123.º Aos chefes de delegação será aplicado também o disposto no artigo 115.º e seu § 4.º, no n.º 2.º da alínea b) do artigo 123.º e no artigo 139.º do citado regulamento, com a alteração introduzida neste último pelo artigo 14.º do [Decreto-Lei n.º 43344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43344-1960-513011), de 22 de Novembro de 1960.
+
+###### Artigo 3.º
+
+Quando o representante permanente de Portugal junto dos organismos económicos internacionais referidos no [Decreto-Lei n.º 44301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44301-1962-516064), de 27 de Abril de 1962, exercer cumulativamente a chefia de mais de uma das respectivas delegações ou quando as conveniências do serviço de cada delegação assim o aconselhem, poderá, em despacho conjunto dos Ministros dos Negócios Estrangeiros e da Economia, ser nomeado um adjunto desse chefe de delegação.
 
 § único. Será aplicável ao adjunto do chefe de delegação o disposto nos artigos 1.º e 2.º do presente decreto-lei.
+
+> Alterado pelo/a [Decreto-Lei n.º 47600](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47600-1967-503213), publicado em 1967-03-22.
 
 Publique-se e cumpra-se como nele se contém.
 

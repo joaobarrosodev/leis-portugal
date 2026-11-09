@@ -38,10 +38,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1988-01-05'
+version_history:
+  file: decreto-regulamentar-46-87.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1987-07-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-01-05'
+    amending: pt:dre:406123:por
+    amending_title: Decreto Regulamentar n.º 66/87
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +82,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:15:06Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 66/87. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1987/decreto-regulamentar-46-87.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,9 +149,13 @@ Assim:
 
 Ao abrigo do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
 
-Artigo 1.º Para efeitos de aplicação do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas pelo prazo de dois anos a área do Município de Lisboa assinalada na planta anexa a este diploma e que dele faz parte integrante.
+###### Artigo 1.º
 
-Art. 2.º As medidas preventivas referidas no artigo anterior consistem na sujeição a prévia autorização do IPPC, e sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, dos actos ou actividades seguintes:
+Para efeitos de aplicação do disposto no capítulo II do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, fica sujeita a medidas preventivas pelo prazo de dois anos a área do Município de Lisboa assinalada na planta anexa a este diploma e que dele faz parte integrante.
+
+###### Artigo 2.º
+
+As medidas preventivas referidas no artigo anterior consistem na sujeição a prévia autorização do IPPC e da Câmara Municipal de Lisboa, e sem prejuízo de quaisquer outros condicionamentos legalmente exigidos, dos actos ou actividades seguintes:
 
 a) Construção, reconstrução, ampliação de edifícios ou outras instalações;
 
@@ -145,7 +165,13 @@ c) Derrube de árvores em maciço, com qualquer área;
 
 d) Destruição do solo vivo e do coberto vegetal.
 
-Art. 3.º O IPPC e a DGOT são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+> Alterado pelo/a [Decreto Regulamentar n.º 66/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1987-406123), publicado em 1987-12-31.
+
+###### Artigo 3.º
+
+O IPPC, a DGOT e a Câmara Municipal de Lisboa são competentes para promover a fiscalização do cumprimento das medidas estabelecidas neste diploma e para proceder em conformidade com o disposto no artigo 12.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 66/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/66-1987-406123), publicado em 1987-12-31.
 
 Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro.
 

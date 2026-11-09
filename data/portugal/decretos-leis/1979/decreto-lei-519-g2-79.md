@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1980-10-14'
+version_history:
+  file: decreto-lei-519-g2-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-12-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1980-10-14'
+    amending: pt:dre:462017:por
+    amending_title: Decreto-Lei n.º 467/80
+    changes:
+    - Altera Artigo 21.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:25:11Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 467/80. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-519-g2-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -433,7 +448,9 @@ b) Tiverem votado contra essa resolução e o fizeram consignar na acta respecti
 
 1 - Os capitais das instituições são depositados, à ordem ou a prazo, na Caixa Geral de Depósitos, Crédito e Previdência ou em qualquer banco nacional.
 
-2 - Os depósitos a prazo são autorizados pela assembleia geral ou órgão correspondente da instituição, tendo em conta as orientações de carácter financeiro do Instituto de Gestão Financeira da Segurança Social.
+2 - Os depósitos a prazo serão objecto de deliberação do órgão competente da instituição, nos termos dos respectivos estatutos e tendo em conta as orientações técnico-normativas gerais, de carácter financeiro, do Instituto de Gestão Financeira da Segurança Social.
+
+> Alterado pelo/a [Decreto-Lei n.º 467/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/467-1980-462017), publicado em 1980-10-14.
 
 ###### Artigo 22.º — (Regime dos arrendamentos)
 

@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-12-17'
+version_history:
+  file: decreto-lei-279-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-10-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-12-17'
+    amending: pt:dre:379555:por
+    amending_title: Decreto-Lei n.º 473/82
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:38:58Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 473/82. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1981/decreto-lei-279-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -126,25 +141,39 @@ Assim:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - Nos processos de falência instaurados ao abrigo do [Decreto-Lei n.º 4/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1976-480762), de 6 de Janeiro, e no [Decreto-Lei n.º 150/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1978-295156), de 20 de Junho, e em que, à data da entrada em vigor do presente diploma, não tenha havido declaração definitiva de falência são admitidos os meios suspensivos de falência previstos no Código de Processo Civil.
+###### Artigo 1.º
+
+1 - Nos processos de falência instaurados ao abrigo do [Decreto-Lei n.º 4/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1976-480762), de 6 de Janeiro, e no [Decreto-Lei n.º 150/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1978-295156), de 20 de Junho, e em que, à data da entrada em vigor do presente diploma, não tenha havido declaração definitiva de falência são admitidos os meios suspensivos de falência previstos no Código de Processo Civil.
 
 2 - Para os efeitos deste diploma, considera-se que a declaração de falência é definitiva quando a sentença respectiva haja transitado em julgado e não possa já embargar-se ou, havendo sido deduzidos embargos, tenham os mesmos sido rejeitados por decisão com trânsito em julgado.
 
-Art. 2.º - 1 - A faculdade de requerer os meios suspensivos da falência poderá ser exercida nos termos previstos no artigo 1266.º do Código de Processo Civil ou nos noventa dias subsequentes à entrada em vigor do presente diploma ou à declaração de falência, se for posterior.
+###### Artigo 2.º
+
+1 - A faculdade de requerer os meios suspensivos da falência poderá ser exercida nos termos previstos no artigo 1266.º do Código de Processo Civil ou nos noventa dias subsequentes à entrada em vigor do presente diploma ou à declaração de falência, se for posterior.
 
 2 - Se, ao tempo do requerimento, ainda não houver sido proferida sentença de verificação de créditos em primeira instância, será aplicável, com as necessárias adaptações, o disposto no Código de Processo Civil para os meios preventivos da falência.
 
-3 - No caso de, antes do requerimento, haver sido proferida sentença de verificação de créditos em primeira instância, poderá o Ministro das Finanças e do Plano prorrogar o prazo de noventa dias acima referido por período de igual duração, para o efeito de poder ser aplicado o regime previsto no n.º 1 do artigo 5.
+3 - O Ministro das Finanças e do Plano poderá prorrogar o prazo previsto no n.º 1, ou renová-lo, por dois períodos de 90 dias.
 
 4 - Nos casos de falência em que tenham sido deduzidos embargos, não rejeitados por decisão transitada em julgado, poderá ser autorizada a confissão do pedido, desde que não tenha sido proferida sentença de verificação e graduação de créditos, não tenha o Estado efectuado a reserva de bens ou direitos prevista nos diplomas legais referidos no artigo 1.º e não haja ofensa de caso julgado.
 
-Art. 3.º - 1 - Por despacho conjunto do Ministro das Finanças e do Plano e do Ministro da Justiça, pode o Estado renunciar à totalidade ou parte das garantias de que beneficiem os seus créditos, quando tal renúncia se tome indispensável à viabilização da empresa.
+5 - Os prazos referidos no presente artigo têm natureza processual.
+
+> Alterado pelo/a [Decreto-Lei n.º 473/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/473-1982-379555), publicado em 1982-12-17.
+
+###### Artigo 3.º
+
+1 - Por despacho conjunto do Ministro das Finanças e do Plano e do Ministro da Justiça, pode o Estado renunciar à totalidade ou parte das garantias de que beneficiem os seus créditos, quando tal renúncia se tome indispensável à viabilização da empresa.
 
 2 - Pode ainda o Ministro da Justiça, precedendo acordo do Ministro das Finanças e do Plano, autorizar o Ministério Público a conceder prazos para o reembolso dos créditos por si reclamados, se tal se demonstrar necessário para assegurar a viabilização da empresa.
 
-Art. 4.º Requerido o meio suspensivo da falência, o tribunal determinará, se assim lhe for solicitado pelo Ministério Público ou pelo falido, a suspensão da instância nas falências em curso, seus embargos e recursos, até que a concordata ou o acordo de credores sejam rejeitados ou homologados por decisão com trânsito em julgado.
+###### Artigo 4.º
 
-Art. 5.º - 1 - Homologados, com trânsito em julgado, a concordata ou o acordo de credores, e desde que o meio suspensivo haja sido requerido no prazo de noventa dias sobre a data de entrada em vigor do presente diploma ou sobre a data da declaração de falência ou da referida no n.º 3 do artigo 2.º, os bens ou direitos que tenham constituído objecto de reserva previstos nos Decretos-Leis n.os 4/76 ou n.º 150/78, ou aqueles que se lhes houverem sub-rogado, revertem, por simples efeito daquela homologação, para o património do seu original titular ou da sociedade de credores, conforme for o caso, devendo imediatamente ser restituídos à sua posse, por termo no processo.
+Requerido o meio suspensivo da falência, o tribunal determinará, se assim lhe for solicitado pelo Ministério Público ou pelo falido, a suspensão da instância nas falências em curso, seus embargos e recursos, até que a concordata ou o acordo de credores sejam rejeitados ou homologados por decisão com trânsito em julgado.
+
+###### Artigo 5.º
+
+1 - Homologados, com trânsito em julgado, a concordata ou o acordo de credores, e desde que o meio suspensivo haja sido requerido no prazo de noventa dias sobre a data de entrada em vigor do presente diploma ou sobre a data da declaração de falência ou da referida no n.º 3 do artigo 2.º, os bens ou direitos que tenham constituído objecto de reserva previstos nos Decretos-Leis n.os 4/76 ou n.º 150/78, ou aqueles que se lhes houverem sub-rogado, revertem, por simples efeito daquela homologação, para o património do seu original titular ou da sociedade de credores, conforme for o caso, devendo imediatamente ser restituídos à sua posse, por termo no processo.
 
 2 - O Estado, por despacho do Ministro das Finanças e do Plano, poderá sempre, antes de homologação da concordata ou do acordo de credores ou independentemente dela e mediante restituição do que eventualmente haja pago, fazer reverter os bens ou direitos que tenham sido objecto de reserva, os quais ingressarão, nesse caso, na massa falida e ficarão integralmente sujeitos ao regime previsto no Código de Processo Civil.
 
@@ -154,7 +183,9 @@ Art. 5.º - 1 - Homologados, com trânsito em julgado, a concordata ou o acordo 
 
 5 - O Estado, por intermédio dos serviços competentes, ou a empresa a quem os bens hajam sido afectados, prestará ao administrador da falência toda a colaboração que seja necessária e este requeira.
 
-Art. 6.º - 1 - Quando a aquisição dos bens pelo Estado tenha sido integralmente paga por este nos termos da primeira parte do n.º 3 do artigo 4.º do [Decreto-Lei n.º 150/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1978-295156), ficará o mesmo credor da empresa por igual montante, gozando a sua dívida de privilégio mobiliário e imobiliário sobre os bens respectivos.
+###### Artigo 6.º
+
+1 - Quando a aquisição dos bens pelo Estado tenha sido integralmente paga por este nos termos da primeira parte do n.º 3 do artigo 4.º do [Decreto-Lei n.º 150/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1978-295156), ficará o mesmo credor da empresa por igual montante, gozando a sua dívida de privilégio mobiliário e imobiliário sobre os bens respectivos.
 
 2 - Quando no pagamento do preço da aquisição dos bens se tenha verificado a compensação prevista na parte final do n.º 3 do artigo 4.º do [Decreto-Lei n.º 150/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1978-295156), o Estado mantém a posição de credor, com todos os direitos e garantias que detinha anteriormente à aquisição, relativamente às dívidas objecto de compensação e ficará credor pela quantia depositada na data da aquisição, gozando de privilégio mobiliário e imobiliário sobre os bens respectivos.
 
@@ -162,11 +193,15 @@ Art. 6.º - 1 - Quando a aquisição dos bens pelo Estado tenha sido integralmen
 
 4 - Os créditos do Estado previstos neste artigo que não constem da sentença de verificação e graduação de créditos devem computar-se no montante total previsto no n.º 1 do artigo 1153.º do Código de Processo Civil.
 
-Art. 7.º - 1 - Não há lugar a preparos nem a custas nas concordatas ou acordos de credores previstos no presente diploma.
+###### Artigo 7.º
+
+1 - Não há lugar a preparos nem a custas nas concordatas ou acordos de credores previstos no presente diploma.
 
 2 - Homologadas, por sentença transitada em julgado, as concordatas, os acordos de credores ou a confissão do pedido de embargos, ficarão os requeridos nos processos de falência isentos de custas ou selo liquidados ou por liquidar nesses processos e seus apensos, incluindo embargos ou recursos.
 
-Art. 8.º - 1 - O presente decreto-lei entra em vigor na data da sua publicação.
+###### Artigo 8.º
+
+1 - O presente decreto-lei entra em vigor na data da sua publicação.
 
 2 - O [Decreto-Lei n.º 150/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1978-295156), de 20 de Junho, com as alterações aqui introduzidas, é aplicável apenas a processos pendentes à data da entrada em vigor do presente diploma.
 

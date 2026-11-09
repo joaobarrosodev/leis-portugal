@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-05-15'
+version_history:
+  file: decreto-678-76.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1976-09-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-05-15'
+    amending: pt:dre:474511:por
+    amending_title: Decreto-Lei n.º 152/80; Decreto-Lei n.º 91/86
+    changes:
+    - Altera Artigo 76.º
+    - Altera Artigo 81.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T20:43:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 152/80; Decreto-Lei
+    n.º 91/86. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1976/decreto-678-76.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,9 +154,13 @@ Usando dos poderes conferidos pela alínea a) do n.º 1 do artigo 148.º da Cons
 
 ## TÍTULO I — Definição e missões
 
-Artigo 1.º A Academia Militar é um estabelecimento de ensino superior, que funciona na directa dependência do Estado-Maior do Exército, com a finalidade de formar oficiais para os quadros permanentes do Exército e da Força Aérea.
+###### Artigo 1.º
 
-Art. 2.º Para cumprimento da sua finalidade, a Academia Militar tem por missão:
+A Academia Militar é um estabelecimento de ensino superior, que funciona na directa dependência do Estado-Maior do Exército, com a finalidade de formar oficiais para os quadros permanentes do Exército e da Força Aérea.
+
+###### Artigo 2.º
+
+Para cumprimento da sua finalidade, a Academia Militar tem por missão:
 
 a) Ministrar formação técnico-científica e humanística de nível superior, por forma a facultar aos futuros oficiais as bases de conhecimento e cultura indispensáveis ao exercício e dignificação da função militar;
 
@@ -152,7 +172,9 @@ d) Ministrar educação física, com vista a desenvolver nos alunos o desembara�
 
 ## TÍTULO II — Constituição orgânica
 
-Art. 3.º A Academia Militar tem a seguinte constituição orgânica geral:
+###### Artigo 3.º
+
+A Academia Militar tem a seguinte constituição orgânica geral:
 
 a) Comando;
 
@@ -164,7 +186,9 @@ d) Serviços gerais e de administração.
 
 ### CAPÍTULO I — Do Comando
 
-Art. 4.º O Comando é constituído por:
+###### Artigo 4.º
+
+O Comando é constituído por:
 
 a) Comandante;
 
@@ -172,23 +196,37 @@ b) Órgãos de conselho;
 
 c) Gabinetes de apoio.
 
-Art. 5.º O comandante é um oficial general do Exército, nomeado pelo chefe do Estado-Maior do Exército, perante o qual é responsável pela actividade geral da Academia.
+###### Artigo 5.º
 
-Art. 6.º No desempenho das suas funções, o comandante da Academia é coadjuvado por:
+O comandante é um oficial general do Exército, nomeado pelo chefe do Estado-Maior do Exército, perante o qual é responsável pela actividade geral da Academia.
+
+###### Artigo 6.º
+
+No desempenho das suas funções, o comandante da Academia é coadjuvado por:
 
 a) Um consultor científico e pedagógico;
 
 b) Dois segundos-comandantes.
 
-Art. 7.º O consultor científico e pedagógico será uma individualidade civil, a nomear por portaria conjunta do Chefe do Estado-Maior do Exército e do Ministro da Educação e Investigação Científica, de preferência com categoria académica de nível superior ao dos professores civis, e que se destina a servir de elemento de ligação entre o Ministério da Educação e Investigação Científica e o comando da Academia e de consultor técnico, como pedagogo, do comandante.
+###### Artigo 7.º
 
-Art. 8.º Um dos segundos-comandantes é brigadeiro do Exército, nomeado por portaria do Chefe do Estado-Maior do Exército, e o outro, brigadeiro ou coronel da Força Aérea, nomeado por portaria conjunta dos Chefes dos Estados-Maiores do Exército e da Força Aérea, ambos sob proposta do comandante da Academia Militar.
+O consultor científico e pedagógico será uma individualidade civil, a nomear por portaria conjunta do Chefe do Estado-Maior do Exército e do Ministro da Educação e Investigação Científica, de preferência com categoria académica de nível superior ao dos professores civis, e que se destina a servir de elemento de ligação entre o Ministério da Educação e Investigação Científica e o comando da Academia e de consultor técnico, como pedagogo, do comandante.
 
-Art. 9.º Ao segundo-comandante brigadeiro do Exército competem todos os assuntos de natureza administrativa e a superintendência na formação escolar dos alunos destinados ao Exército.
+###### Artigo 8.º
 
-Art. 10.º Ao segundo-comandante brigadeiro ou coronel da Força Aérea compete superintender na formação escolar dos alunos destinados à Força Aérea e demais assuntos que o comandante decida nele delegar.
+Um dos segundos-comandantes é brigadeiro do Exército, nomeado por portaria do Chefe do Estado-Maior do Exército, e o outro, brigadeiro ou coronel da Força Aérea, nomeado por portaria conjunta dos Chefes dos Estados-Maiores do Exército e da Força Aérea, ambos sob proposta do comandante da Academia Militar.
 
-Art. 11.º Os órgãos de conselho compreendem:
+###### Artigo 9.º
+
+Ao segundo-comandante brigadeiro do Exército competem todos os assuntos de natureza administrativa e a superintendência na formação escolar dos alunos destinados ao Exército.
+
+###### Artigo 10.º
+
+Ao segundo-comandante brigadeiro ou coronel da Força Aérea compete superintender na formação escolar dos alunos destinados à Força Aérea e demais assuntos que o comandante decida nele delegar.
+
+###### Artigo 11.º
+
+Os órgãos de conselho compreendem:
 
 a) O Conselho de Comando;
 
@@ -196,9 +234,13 @@ b) O Conselho Académico;
 
 c) O Conselho de Disciplina.
 
-Art. 12.º O Conselho de Comando tem por finalidade analisar todos os assuntos que lhe sejam apresentados pelo comandante e recomendar normas e procedimentos para maior eficiência da acção do Comando e da actividade geral de todos os serviços da Academia Militar.
+###### Artigo 12.º
 
-Art. 13.º O Conselho Académico tem por finalidade analisar todos os assuntos respeitantes às actividades escolares que lhe sejam apresentados pelo comandante e dar parecer sobre:
+O Conselho de Comando tem por finalidade analisar todos os assuntos que lhe sejam apresentados pelo comandante e recomendar normas e procedimentos para maior eficiência da acção do Comando e da actividade geral de todos os serviços da Academia Militar.
+
+###### Artigo 13.º
+
+O Conselho Académico tem por finalidade analisar todos os assuntos respeitantes às actividades escolares que lhe sejam apresentados pelo comandante e dar parecer sobre:
 
 a) As condições de admissão de alunos, a sua educação militar, a orientação pedagógica, horários e programas das disciplinas;
 
@@ -208,9 +250,13 @@ c) A aplicação das verbas do orçamento geral da Academia na parte respeitante
 
 d) O programa de estágios, missões e visitas de estudo.
 
-Art. 14.º O Conselho de Disciplina tem por finalidade proceder ao estudo de normas relacionadas com a disciplina que lhe sejam apresentadas pelo comandante, quer respeitantes aos alunos, quer referentes ao restante pessoal militar da Academia, e proceder à apreciação de qualquer aluno, por motivos disciplinares ou morais, que lhe seja presente.
+###### Artigo 14.º
 
-Art. 15.º Os gabinetes de apoio à acção do Comando compreendem:
+O Conselho de Disciplina tem por finalidade proceder ao estudo de normas relacionadas com a disciplina que lhe sejam apresentadas pelo comandante, quer respeitantes aos alunos, quer referentes ao restante pessoal militar da Academia, e proceder à apreciação de qualquer aluno, por motivos disciplinares ou morais, que lhe seja presente.
+
+###### Artigo 15.º
+
+Os gabinetes de apoio à acção do Comando compreendem:
 
 a) Gabinete de Estudos e Planeamento;
 
@@ -218,9 +264,13 @@ b) Gabinete de Justiça e Procuradoria;
 
 c) Gabinete de Informação Interna, Relações Públicas e Acção Cultural.
 
-Art. 16.º O Gabinete de Estudos e Planeamento tem por função elaborar os estudos e planos que lhe forem determinados pelo comandante.
+###### Artigo 16.º
 
-Art. 17.º O Gabinete de Justiça e Procuradoria tem por funções:
+O Gabinete de Estudos e Planeamento tem por função elaborar os estudos e planos que lhe forem determinados pelo comandante.
+
+###### Artigo 17.º
+
+O Gabinete de Justiça e Procuradoria tem por funções:
 
 a) Apoiar a acção do Comando em matéria de justiça e disciplina;
 
@@ -228,7 +278,9 @@ b) Proceder à revisão, sob o ponto de vista técnico-jurídico, dos anteprojec
 
 c) Facultar conselho jurídico ao pessoal da Academia, em particular aos alunos, desempenhando, a pedido dos próprios interessados, funções de procuradoria para obtenção de documentos legais e outras diligências necessárias junto dos organismos e entidades oficiais e particulares.
 
-Art. 18.º O Gabinete de Informação Interna, Relações Públicas e Acção Cultural tem por funções:
+###### Artigo 18.º
+
+O Gabinete de Informação Interna, Relações Públicas e Acção Cultural tem por funções:
 
 a) Promover a informação interna, com vista ao esclarecimento do pessoal militar e civil que presta serviço na Academia;
 
@@ -242,9 +294,13 @@ e) Promover, orientar e coordenar as actividades sociais, culturais, recreativas
 
 ### CAPÍTULO II — Da Direcção de Instrução
 
-Art. 19.º A Direcção de Instrução, que funciona sob a superintendência do comandante da Academia Militar, tem por funções: a direcção, o estudo, o planeamento e coordenação do ensino, com vista a obter a melhor orientação pedagógica e o maior rendimento da instrução; as ligações com as escolas militares ou civis cuja actividade interessa à Academia Militar; a orientação dos assuntos relativos à biblioteca e museu.
+###### Artigo 19.º
 
-Art. 20.º A Direcção de Instrução compreende:
+A Direcção de Instrução, que funciona sob a superintendência do comandante da Academia Militar, tem por funções: a direcção, o estudo, o planeamento e coordenação do ensino, com vista a obter a melhor orientação pedagógica e o maior rendimento da instrução; as ligações com as escolas militares ou civis cuja actividade interessa à Academia Militar; a orientação dos assuntos relativos à biblioteca e museu.
+
+###### Artigo 20.º
+
+A Direcção de Instrução compreende:
 
 a) Director da Instrução;
 
@@ -266,9 +322,13 @@ i) Biblioteca e museu.
 
 ### CAPÍTULO III — Do corpo de alunos
 
-Art. 21.º O corpo de alunos enquadra e engloba os alunos, cabendo-lhe desempenhar papel fundamental na educação moral, cívica e militar dos mesmos, proporcionando-lhes as condições necessárias ao conhecimento e prática de todas as virtudes militares e cívicas e ao conveniente desembaraço físico.
+###### Artigo 21.º
 
-Art. 22.º O corpo de alunos compreende:
+O corpo de alunos enquadra e engloba os alunos, cabendo-lhe desempenhar papel fundamental na educação moral, cívica e militar dos mesmos, proporcionando-lhes as condições necessárias ao conhecimento e prática de todas as virtudes militares e cívicas e ao conveniente desembaraço físico.
+
+###### Artigo 22.º
+
+O corpo de alunos compreende:
 
 a) Comando;
 
@@ -280,9 +340,13 @@ d) Serviço de internato.
 
 ### CAPÍTULO IV — Dos serviços gerais e de administração
 
-Art. 23.º Os serviços gerais e de administração têm por finalidade garantir o apoio de serviços, a administração e o expediente geral da Academia.
+###### Artigo 23.º
 
-Art. 24.º Os serviços gerais e de administração compreendem:
+Os serviços gerais e de administração têm por finalidade garantir o apoio de serviços, a administração e o expediente geral da Academia.
+
+###### Artigo 24.º
+
+Os serviços gerais e de administração compreendem:
 
 a) Direcção;
 
@@ -298,39 +362,59 @@ f) Formação.
 
 ### CAPÍTULO V — Dos quadros de pessoal
 
-Art. 25.º Os quadros de pessoal para garantir o funcionamento da estrutura orgânica indicada devem ser aprovados por portaria do Chefe do Estado-Maior do Exército, depois de prévia concordância do Governo, no caso de envolver aumento de encargos financeiros.
+###### Artigo 25.º
 
-Art. 26.º A pormenorização da estrutura orgânica interna, dentro dos efectivos que forem fixados nos quadros de pessoal, assim como a definição da finalidade e funções dos respectivos órgãos, devem constar de regulamento interno, aprovado por despacho do Chefe do Estado-Maior do Exército, sob proposta do comandante da Academia Militar.
+Os quadros de pessoal para garantir o funcionamento da estrutura orgânica indicada devem ser aprovados por portaria do Chefe do Estado-Maior do Exército, depois de prévia concordância do Governo, no caso de envolver aumento de encargos financeiros.
+
+###### Artigo 26.º
+
+A pormenorização da estrutura orgânica interna, dentro dos efectivos que forem fixados nos quadros de pessoal, assim como a definição da finalidade e funções dos respectivos órgãos, devem constar de regulamento interno, aprovado por despacho do Chefe do Estado-Maior do Exército, sob proposta do comandante da Academia Militar.
 
 ## TÍTULO III — Organização dos cursos
 
 ### CAPÍTULO I — Dos cursos ministrados
 
-Art. 27.º A Academia Militar deve manter-se preparada para ministrar e superintender nos cursos de formação dos oficiais destinados aos quadros permanentes das armas e serviços do Exército e da Força Aérea, que se indicam:
+###### Artigo 27.º
+
+A Academia Militar deve manter-se preparada para ministrar e superintender nos cursos de formação dos oficiais destinados aos quadros permanentes das armas e serviços do Exército e da Força Aérea, que se indicam:
 
 a) Do Exército: Infantaria, Artilharia, Cavalaria, Engenharia, Transmissões, Serviço de Administração Militar, Serviço de Material e Serviço de Saúde;
 
 b) Da Força Aérea: Pilotagem Aeronáutica, Engenharia Aeronáutica, Engenharia Electrotécnica, Engenharia de Aeródromos e Intendência e Contabilidade.
 
-Art. 28.º Por portaria do Chefe do Estado-Maior do Exército, ouvido, quando necessário, o Chefe do Estado-Maior da Força Aérea, poderão ser ministrados na Academia Militar outros cursos ou desdobrados os constantes do artigo anterior.
+###### Artigo 28.º
 
-Art. 29.º - 1. Os cursos referidos no artigo 27.º, com excepção dos cursos de Engenharia (para o Exército e para a Força Aérea) e do Serviço de Saúde Militar, têm a duração total de cinco anos, em que se inclui, no último ano, o tirocínio.
+Por portaria do Chefe do Estado-Maior do Exército, ouvido, quando necessário, o Chefe do Estado-Maior da Força Aérea, poderão ser ministrados na Academia Militar outros cursos ou desdobrados os constantes do artigo anterior.
+
+###### Artigo 29.º
+
+1. Os cursos referidos no artigo 27.º, com excepção dos cursos de Engenharia (para o Exército e para a Força Aérea) e do Serviço de Saúde Militar, têm a duração total de cinco anos, em que se inclui, no último ano, o tirocínio.
 
 2. Os cursos de Engenharia (para o Exército e para a Força Aérea) e do Serviço de Saúde Militar terão a duração a fixar por portaria do Chefe do Estado-Maior do Exército e do Chefe do Estado-Maior da Força Aérea e do Ministro da Educação e Investigação Científica, quando necessário.
 
-Art. 30.º Compete aos Chefes dos Estados-Maiores do Exército e da Força Aérea a orientação superior dos cursos de formação dos oficiais dos respectivos ramos.
+###### Artigo 30.º
+
+Compete aos Chefes dos Estados-Maiores do Exército e da Força Aérea a orientação superior dos cursos de formação dos oficiais dos respectivos ramos.
 
 Por sua delegação, cabem aos órgãos do Exército e da Força Aérea que superintendem no serviço de instrução funções de inspecção, as quais são sempre exercidas com conhecimento do comandante da Academia Militar.
 
-Art. 31.º Os cursos, incluindo o tirocínio, são considerados como um todo, competindo a sua orientação geral ao comandante da Academia, de acordo com as directivas superiores dimanadas do Estado-Maior do Exército e em ligação com os órgãos que superintendem na preparação especializada das armas e serviços e, no que respeita aos cursos da Força Aérea, em coordenação, através do respectivo Estado-Maior, com a competente Direcção de Serviço de Instrução.
+###### Artigo 31.º
 
-Art. 32.º Os cursos ministrados na Academia Militar para a formação dos oficiais destinados aos quadros permanentes do Exército e da Força Aérea são, para todos os efeitos legais, considerados cursos superiores e conferem o grau académico de licenciado em Ciências Militares.
+Os cursos, incluindo o tirocínio, são considerados como um todo, competindo a sua orientação geral ao comandante da Academia, de acordo com as directivas superiores dimanadas do Estado-Maior do Exército e em ligação com os órgãos que superintendem na preparação especializada das armas e serviços e, no que respeita aos cursos da Força Aérea, em coordenação, através do respectivo Estado-Maior, com a competente Direcção de Serviço de Instrução.
 
-Art. 33.º Os referidos cursos podem também conferir simultaneamente outro ou outros graus académicos, a definir pelo Ministério da Educação e Investigação Científica, face aos currículos e nível desses cursos, designadamente dos que se incluem nas zonas de formação técnico-científica e das ciências sociais.
+###### Artigo 32.º
+
+Os cursos ministrados na Academia Militar para a formação dos oficiais destinados aos quadros permanentes do Exército e da Força Aérea são, para todos os efeitos legais, considerados cursos superiores e conferem o grau académico de licenciado em Ciências Militares.
+
+###### Artigo 33.º
+
+Os referidos cursos podem também conferir simultaneamente outro ou outros graus académicos, a definir pelo Ministério da Educação e Investigação Científica, face aos currículos e nível desses cursos, designadamente dos que se incluem nas zonas de formação técnico-científica e das ciências sociais.
 
 ### CAPÍTULO II — Das cadeiras e instruções
 
-Art. 34.º As matérias professadas na Academia Militar distribuem-se por cadeiras e por instruções, que se integram em grupos de cadeiras e em grupos de instruções, uns e outros englobados nas seguintes zonas de formação:
+###### Artigo 34.º
+
+As matérias professadas na Academia Militar distribuem-se por cadeiras e por instruções, que se integram em grupos de cadeiras e em grupos de instruções, uns e outros englobados nas seguintes zonas de formação:
 
 Cultural-desportiva;
 
@@ -340,15 +424,25 @@ Técnico-militar;
 
 Ciências sociais.
 
-Art. 35.º O enunciado das cadeiras será fixado por portaria do Chefe do Estado-Maior do Exército, ouvido o Chefe do Estado-Maior da Força Aérea e obtida a concordância do Ministro da Educação e Investigação Científica.
+###### Artigo 35.º
 
-Art. 36.º As cadeiras frequentadas na Academia Militar são, para todos os efeitos legais, equivalentes às cadeiras das Universidades e outros estabelecimentos de ensino superior, pelo que os programas respeitantes às cadeiras com tal equivalência carecem de homologação do Ministro da Educação e Investigação Científica. Designadamente, incluem-se neste caso as cadeiras englobadas nas zonas de formação técnico-científica e das ciências sociais, assim como as da zona de formação técnico-militar que possam ter aquela equivalência.
+O enunciado das cadeiras será fixado por portaria do Chefe do Estado-Maior do Exército, ouvido o Chefe do Estado-Maior da Força Aérea e obtida a concordância do Ministro da Educação e Investigação Científica.
 
-Art. 37.º Compete à Academia Militar a elaboração dos planos dos vários cursos, os quais deverão ser aprovados por portaria do Chefe do Estado-Maior do Exército, ouvido o Chefe do Estado-Maior da Força Aérea, para os cursos específicos deste ramo das forças armadas. Para o efeito de atribuição dos graus académicos a que se refere o artigo 33.º, o Ministério da Educação Científica definirá as cadeiras que deverão ser contempladas nos respectivos planos dos cursos.
+###### Artigo 36.º
 
-Art. 38.º O ensino das cadeiras é ministrado em aulas teóricas e práticas e coplementado, conforme os casos, por trabalhos de aplicação e de campo, conferências, simpósios, visitas e missões e exercícios. Deve constituir preocupação permanente dos professores a participação activa dos alunos nas aulas teóricas e práticas e nas demais actividades escolares.
+As cadeiras frequentadas na Academia Militar são, para todos os efeitos legais, equivalentes às cadeiras das Universidades e outros estabelecimentos de ensino superior, pelo que os programas respeitantes às cadeiras com tal equivalência carecem de homologação do Ministro da Educação e Investigação Científica. Designadamente, incluem-se neste caso as cadeiras englobadas nas zonas de formação técnico-científica e das ciências sociais, assim como as da zona de formação técnico-militar que possam ter aquela equivalência.
 
-Art. 39.º Além do ensino das cadeiras, são ministradas na Academia as seguintes instruções:
+###### Artigo 37.º
+
+Compete à Academia Militar a elaboração dos planos dos vários cursos, os quais deverão ser aprovados por portaria do Chefe do Estado-Maior do Exército, ouvido o Chefe do Estado-Maior da Força Aérea, para os cursos específicos deste ramo das forças armadas. Para o efeito de atribuição dos graus académicos a que se refere o artigo 33.º, o Ministério da Educação Científica definirá as cadeiras que deverão ser contempladas nos respectivos planos dos cursos.
+
+###### Artigo 38.º
+
+O ensino das cadeiras é ministrado em aulas teóricas e práticas e coplementado, conforme os casos, por trabalhos de aplicação e de campo, conferências, simpósios, visitas e missões e exercícios. Deve constituir preocupação permanente dos professores a participação activa dos alunos nas aulas teóricas e práticas e nas demais actividades escolares.
+
+###### Artigo 39.º
+
+Além do ensino das cadeiras, são ministradas na Academia as seguintes instruções:
 
 a) Instrução de educação física, que é ministrada em todos os cursos sob a forma de ginástica educativa e de aplicação militar, de desportos, esgrima e luta, de natação e de equitação, sendo estas modalidades distribuídas pelos planos dos cursos, atendendo às exigências da preparação física e do trabalho intelectual dos alunos, e complementadas com actividades circum-escolares;
 
@@ -358,47 +452,73 @@ c) Instrução de condução auto e moto, que é ministrada ao longo da frequên
 
 d) Instrução de pilotagem de aeronaves, que poderá ser ministrada aos alunos do curso de Pilotagem Aeronáutica, a cargo dos órgãos de instrução da Força Aérea.
 
-Art. 40.º Em todos os cursos serão ministradas lições de francês, inglês ou alemão, sendo o inglês obrigatório nos cursos para a Força Aérea.
+###### Artigo 40.º
+
+Em todos os cursos serão ministradas lições de francês, inglês ou alemão, sendo o inglês obrigatório nos cursos para a Força Aérea.
 
 ### CAPÍTULO III — Da distribuição e duração dos trabalhos escolares
 
-Art. 41.º Os trabalhos escolares da Academia são distribuídos em cada ano escolar, com excepção do último ano do curso em que se inclui o tirocínio, da forma seguinte:
+###### Artigo 41.º
+
+Os trabalhos escolares da Academia são distribuídos em cada ano escolar, com excepção do último ano do curso em que se inclui o tirocínio, da forma seguinte:
 
 Primeira parte, que se destina especialmente à frequência das cadeiras, trabalhos práticos e de aplicação, e que compreende dois períodos (primeiro e segundo);
 
 Segunda parte, que se destina a visitas, missões, trabalhos práticos e de campo e exercícios militares, assim como a férias de ponto e exames, quando estes tiverem lugar.
 
-Art. 42.º Os períodos de férias escolares de Natal, Carnaval e Páscoa são definidos, em cada ano, por despacho do Chefe do Estado-Maior do Exército, sendo também reservado um mês de férias escolares entre o final de um ano lectivo e o início do seguinte.
+###### Artigo 42.º
 
-Art. 43.º O número total de tempos de instrução semanais e a duração horária dos trabalhos escolares são definidos por despacho do Chefe do Estado-Maior do Exército, sob proposta do comandante da Academia Militar.
+Os períodos de férias escolares de Natal, Carnaval e Páscoa são definidos, em cada ano, por despacho do Chefe do Estado-Maior do Exército, sendo também reservado um mês de férias escolares entre o final de um ano lectivo e o início do seguinte.
+
+###### Artigo 43.º
+
+O número total de tempos de instrução semanais e a duração horária dos trabalhos escolares são definidos por despacho do Chefe do Estado-Maior do Exército, sob proposta do comandante da Academia Militar.
 
 ### CAPÍTULO IV — Dos tirocínios e estágios
 
-Art. 44.º - 1. O tirocínio referido no artigo 28.º, assim como os estágios, a fazer consoante a natureza dos cursos, são realizados nas escolas práticas e noutros estabelecimentos apropriados durante o último ano do curso e com duração normal de um ano lectivo.
+###### Artigo 44.º
+
+1. O tirocínio referido no artigo 28.º, assim como os estágios, a fazer consoante a natureza dos cursos, são realizados nas escolas práticas e noutros estabelecimentos apropriados durante o último ano do curso e com duração normal de um ano lectivo.
 
 2. O tirocínio e os estágios têm por finalidade proporcionar aos alunos, através de uma instrução caracterizada pela maior objectividade prática, a aplicação dos conhecimentos adquiridos e ainda completar a apreciação da sua personalidade, espírito militar e capacidade técnica.
 
 3. Sempre que possível, o tirocínio deve englobar a participação dos instruendos em exercícios ou manobras.
 
-Art. 45.º - 1. A duração e datas do início dos tirocínios e dos estágios são definidas, em cada ano, por despacho do chefe do Estado-Maior do Exército e do Chefe do Estado-Maior da Força Aérea, para os cursos dos alunos destinados ao Exército e à Força Aérea, respectivamente, mediante informação do comandante da Academia Militar.
+###### Artigo 45.º
+
+1. A duração e datas do início dos tirocínios e dos estágios são definidas, em cada ano, por despacho do chefe do Estado-Maior do Exército e do Chefe do Estado-Maior da Força Aérea, para os cursos dos alunos destinados ao Exército e à Força Aérea, respectivamente, mediante informação do comandante da Academia Militar.
 
 2. Sempre que as circunstâncias o exijam ou aconselhem, pode o Chefe do Estado-Maior do Exército ou o Chefe do Estado-Maior da Força Aérea, conforme os casos, alterar a duração dos tirocínios ou estágios.
 
-Art. 46.º Os programas de instrução dos tirocínios e estágios são estabelecidos pela Direcção de Instrução da Academia Militar, em ligação com as respectivas escolas práticas e em coordenação com as comissões técnicas das respectivas direcções das armas e serviços.
+###### Artigo 46.º
 
-Art. 47.º O tirocínio dos cursos de Infantaria, Artilharia e Cavalaria, além da finalidade expressa no n.º 2 do artigo 44.º, destina-se a ministrar aos alunos a instrução especialmente adequada ao desempenho das funções de oficial subalterno das respectivas armas.
+Os programas de instrução dos tirocínios e estágios são estabelecidos pela Direcção de Instrução da Academia Militar, em ligação com as respectivas escolas práticas e em coordenação com as comissões técnicas das respectivas direcções das armas e serviços.
 
-Art. 48.º O tirocínio dos cursos de Administração Militar (Exército) e de Intendência e Contabilidade (Força Aérea), além da finalidade expressa no n.º 2 do artigo 44.º, destina-se a ministrar aos alunos a instrução especialmente adequada ao desempenho das funções de oficial subalterno dos respectivos serviços e, em particular, de chefe de contabilidade.
+###### Artigo 47.º
 
-Art. 49.º O tirocínio do curso de pilotagem aeronáutica, além da finalidade expressa no n.º 2 do artigo 44.º, destina-se à obtenção por parte dos alunos da qualificação de piloto aviador.
+O tirocínio dos cursos de Infantaria, Artilharia e Cavalaria, além da finalidade expressa no n.º 2 do artigo 44.º, destina-se a ministrar aos alunos a instrução especialmente adequada ao desempenho das funções de oficial subalterno das respectivas armas.
 
-Art. 50.º O tirocínio dos cursos de Engenharia e do Serviço de Saúde (Exército e Força Aérea) compreende duas fases: a primeira fase realiza-se nas respectivas escolas práticas ou em estabelecimentos militares apropriados, com a finalidade expressa no n.º 2 do artigo 44.º; a segunda fase é constituída por estágios de especialização, visando o desempenho das funções de engenheiro do respectivo ramo, ou de médico, a realizar em estabelecimentos apropriados do Exército e da Força Aérea ou de outros departamentos e ainda, se necessário, em empresas públicas ou privadas.
+###### Artigo 48.º
+
+O tirocínio dos cursos de Administração Militar (Exército) e de Intendência e Contabilidade (Força Aérea), além da finalidade expressa no n.º 2 do artigo 44.º, destina-se a ministrar aos alunos a instrução especialmente adequada ao desempenho das funções de oficial subalterno dos respectivos serviços e, em particular, de chefe de contabilidade.
+
+###### Artigo 49.º
+
+O tirocínio do curso de pilotagem aeronáutica, além da finalidade expressa no n.º 2 do artigo 44.º, destina-se à obtenção por parte dos alunos da qualificação de piloto aviador.
+
+###### Artigo 50.º
+
+O tirocínio dos cursos de Engenharia e do Serviço de Saúde (Exército e Força Aérea) compreende duas fases: a primeira fase realiza-se nas respectivas escolas práticas ou em estabelecimentos militares apropriados, com a finalidade expressa no n.º 2 do artigo 44.º; a segunda fase é constituída por estágios de especialização, visando o desempenho das funções de engenheiro do respectivo ramo, ou de médico, a realizar em estabelecimentos apropriados do Exército e da Força Aérea ou de outros departamentos e ainda, se necessário, em empresas públicas ou privadas.
 
 ## TÍTULO IV — Corpo docente
 
-Art. 51.º O ensino das cadeiras e das instruções a ministrar na Academia Militar compete ao corpo docente, ao qual é cometida a realização dos altos fins educativos expressos na missão deste estabelecimento de ensino.
+###### Artigo 51.º
 
-Art. 52.º O corpo docente é constituído por:
+O ensino das cadeiras e das instruções a ministrar na Academia Militar compete ao corpo docente, ao qual é cometida a realização dos altos fins educativos expressos na missão deste estabelecimento de ensino.
+
+###### Artigo 52.º
+
+O corpo docente é constituído por:
 
 a) Todos os professores militares e civis, catedráticos e adjuntos efectivos, interinos e com regência de cadeiras, devendo a sua composição obedecer, em princípio, às seguintes regras gerais:
 
@@ -424,27 +544,39 @@ Dez instrutores (capitães ou tenentes ou civis contratados);
 
 e) Instrutores do corpo de alunos, no quantitativo a definir no respectivo quadro de pessoal.
 
-Art. 53.º Os limites máximos fixados para os quantitativos de professores catedráticos, adjuntos e de línguas poderão ser elevados por portaria do Chefe do Estado-Maior do Exército, depois de prévia concordância do Governo.
+###### Artigo 53.º
 
-Art. 54.º As condições de provimento, direitos e deveres dos professores militares e civis, catedráticos e adjuntos, efectivos, interinos e com regência de cadeiras serão objecto de regulamntação própria, a aprovar por portaria do Chefe do Estado-Maior do Exército, depois de prévia concordância do Governo, através do Ministro da Educação e Investigação Científica.
+Os limites máximos fixados para os quantitativos de professores catedráticos, adjuntos e de línguas poderão ser elevados por portaria do Chefe do Estado-Maior do Exército, depois de prévia concordância do Governo.
+
+###### Artigo 54.º
+
+As condições de provimento, direitos e deveres dos professores militares e civis, catedráticos e adjuntos, efectivos, interinos e com regência de cadeiras serão objecto de regulamntação própria, a aprovar por portaria do Chefe do Estado-Maior do Exército, depois de prévia concordância do Governo, através do Ministro da Educação e Investigação Científica.
 
 ## TÍTULO V — Admissão de alunos
 
-Art. 55.º - 1. A admissão de alunos na Academia Militar para os cursos do Exército e da Força Aérea processa-se através de concurso, cuja abertura é feita por anúncio público, para a matrícula no 1.º ano de todos os cursos e para o preenchimento das vagas anualmente fixadas, com esta finalidade, pelos Estados-Maiores do Exército e da Força Aérea.
+###### Artigo 55.º
+
+1. A admissão de alunos na Academia Militar para os cursos do Exército e da Força Aérea processa-se através de concurso, cuja abertura é feita por anúncio público, para a matrícula no 1.º ano de todos os cursos e para o preenchimento das vagas anualmente fixadas, com esta finalidade, pelos Estados-Maiores do Exército e da Força Aérea.
 
 2. Quando for julgado conveniente, pode ser aberto concurso de admissão aos outros anos dos cursos para vagas existentes ou a criar eventualmente, por despacho dos respectivos Chefes do Estado-Maior.
 
-Art. 56.º À admissão aos cursos da Academia Militar podem concorrer todos os indivíduos que satisfaçam às condições especiais de admissão, nela se distinguindo fundamentalmente duas categorias de concorrentes:
+###### Artigo 56.º
+
+À admissão aos cursos da Academia Militar podem concorrer todos os indivíduos que satisfaçam às condições especiais de admissão, nela se distinguindo fundamentalmente duas categorias de concorrentes:
 
 Candidatos civis;
 
 Candidatos militares, que engloba oficiais dos quadros de complemento e sargentos dos quadros permanentes e de complemento do Exército e da Força Aérea e as praças de qualquer um destes ramos das forças armadas.
 
-Art. 57.º As condições de admissão, inscrição para o concurso de admissão, operações do concurso, selecção e incorporação dos candidatos devem constar de regulamento próprio, a promulgar por portaria do Chefe do Estado-Maior do Exército, ouvindo o Chefe do Estado-Maior da Força Aérea.
+###### Artigo 57.º
+
+As condições de admissão, inscrição para o concurso de admissão, operações do concurso, selecção e incorporação dos candidatos devem constar de regulamento próprio, a promulgar por portaria do Chefe do Estado-Maior do Exército, ouvindo o Chefe do Estado-Maior da Força Aérea.
 
 ### CAPÍTULO I — Das condições gerais de admissão
 
-Art. 58.º São condições gerais de admissão à matrícula na Academia Militar, com destino a qualquer dos cursos do Exército ou da Força Aérea:
+###### Artigo 58.º
+
+São condições gerais de admissão à matrícula na Academia Militar, com destino a qualquer dos cursos do Exército ou da Força Aérea:
 
 a) Ser cidadão português originário, com, pelo menos, um dos pais português originário ou por naturalização;
 
@@ -456,7 +588,9 @@ d) Ter bom comportamento moral e civil;
 
 e) Ser aprovado em exame de admissão, constituído pelas provas que forem fixadas no diploma contendo as normas de admissão.
 
-Art. 59.º Consideram-se ao abrigo da condição expressa na alínea a) do artigo anterior:
+###### Artigo 59.º
+
+Consideram-se ao abrigo da condição expressa na alínea a) do artigo anterior:
 
 a) Os candidatos que sejam originariamente portugueses, filhos de pais portugueses (de nacionalidade originária ou adquirida) ou com um antecedente português, se o outro for juridicamente desconhecido;
 
@@ -464,11 +598,15 @@ b) Os candidatos filhos de portugueses que tenham adquirido a nacionalidade bras
 
 c) Os candidatos, filhos de portugueses, originários dos países de expressão portuguesa (antigas províncias ultramarinas), que tenham adquirido a nacionalidade portuguesa.
 
-Art. 60.º A altura e o índice de robustez referidos na alínea c) do artigo 58.º sofrem correcção adequada à idade dos candidatos, segundo o prudente juízo da junta de inspecção, confirmada em cada caso pelo comandante da Academia Militar.
+###### Artigo 60.º
+
+A altura e o índice de robustez referidos na alínea c) do artigo 58.º sofrem correcção adequada à idade dos candidatos, segundo o prudente juízo da junta de inspecção, confirmada em cada caso pelo comandante da Academia Militar.
 
 ### CAPÍTULO II — Das condições especiais de admissão
 
-Art. 61.º As condições especiais de admissão à matrícula na Academia Militar são fixadas, até 30 de Junho de cada ano, por despacho do Chefe do Estado-Maior do Exército, ouvido o Chefe do Estado-Maior da Força Aérea, em que se definem:
+###### Artigo 61.º
+
+As condições especiais de admissão à matrícula na Academia Militar são fixadas, até 30 de Junho de cada ano, por despacho do Chefe do Estado-Maior do Exército, ouvido o Chefe do Estado-Maior da Força Aérea, em que se definem:
 
 a) Ano, ou anos, dos cursos para os quais é aberto concurso de admissão;
 
@@ -476,7 +614,9 @@ b) Habilitações literárias mínimas exigidas;
 
 c) Limites de idade, máximo e mínimo, dos concorrentes, com referência ao dia 1 de Janeiro do ano do concurso.
 
-Art. 62.º Relativamente aos candidatos que estejam na efectividade de serviço ou se encontrem em prestação de serviço militar ou que já tenham cumprido o serviço militar obrigatório no Exército ou na Força Aérea, são condições especiais de admissão:
+###### Artigo 62.º
+
+Relativamente aos candidatos que estejam na efectividade de serviço ou se encontrem em prestação de serviço militar ou que já tenham cumprido o serviço militar obrigatório no Exército ou na Força Aérea, são condições especiais de admissão:
 
 a) Satisfazer às condições gerais constantes dos artigos 58.º [com excepção da alínea b)], 59.º e 60.º;
 
@@ -490,59 +630,113 @@ e) Ser autorizado a concorrer pelo Chefe do Estado-Maior do ramo das forças arm
 
 f) Satisfazer os limites de idade que forem fixados.
 
-Art. 63.º Os oficiais de complemento e sargentos dos quadros permanentes e de complemento só podem ser admitidos ao curso de pilotagem aeronáutica quando já habilitados com o concurso de pilotagem da Força Aérea.
+###### Artigo 63.º
+
+Os oficiais de complemento e sargentos dos quadros permanentes e de complemento só podem ser admitidos ao curso de pilotagem aeronáutica quando já habilitados com o concurso de pilotagem da Força Aérea.
 
 ## TÍTULO VI — Preenchimento de vagas e distribuição para os cursos
 
-Art. 64.º No acto da inscrição ao concurso para admissão à matrícula no 1.º ano da Academia Militar, os candidatos declarem qual o ramo das forças armadas (Exército ou Força Aérea) em que desejam ingressar, sujeitando-se às opções tomadas às normas que forem estabelecidas para o efeito e ao número de vagas fixadas.
+###### Artigo 64.º
 
-Art. 65.º Compete aos Chefes do Estado-Maior do Exército e do Estado-Maior da Força Aérea fixarem anualmente o número de vagas a preencher em cada um dos ramos e cursos respectivos, tendo em conta as necessidades estimadas, o número de alunos presentes e a capacidade das instalações da Academia Militar.
+No acto da inscrição ao concurso para admissão à matrícula no 1.º ano da Academia Militar, os candidatos declarem qual o ramo das forças armadas (Exército ou Força Aérea) em que desejam ingressar, sujeitando-se às opções tomadas às normas que forem estabelecidas para o efeito e ao número de vagas fixadas.
 
-Art. 66.º É facultado ao comandante da Academia Militar autorizar, a pedido dos interessados, trocas de ramos, desde que tal não afecte o número de vagas superiormente estabelecido para cada ramo.
+###### Artigo 65.º
 
-Art. 67.º Quando as circunstâncias o justificarem, no final do 1.º ano, a distribuição inicial dos alunos pelos ramos das Forças Armadas pode ser objecto de revisão pelos Estados-Maiores respectivos, após consulta mútua, relativamente a alteração no número das vagas previamente estabelecido para cada um dos ramos.
+Compete aos Chefes do Estado-Maior do Exército e do Estado-Maior da Força Aérea fixarem anualmente o número de vagas a preencher em cada um dos ramos e cursos respectivos, tendo em conta as necessidades estimadas, o número de alunos presentes e a capacidade das instalações da Academia Militar.
 
-Art. 68.º Só podem ser destinados à Força Aérea, para a frequência do curso de pilotagem aeronáutica, os candidatos que, tendo declarado no acto da inscrição ao concurso para a matrícula no 1.º ano desejar frequentar este curso, sejam aprovados na inspecção médica e nas provas especiais efectuadas pela Força Aérea.
+###### Artigo 66.º
 
-Art. 69.º Compete ao comando da Academia Militar a distribuição dos alunos pelos diferentes cursos do Exército e da Força Aérea, com excepção do curso de pilotagem aeronáutica, a qual terá lugar no final do 1.º ano e respeitará, em princípio, a ordem de preferência dos alunos, tendo em conta o número de vagas fixado.
+É facultado ao comandante da Academia Militar autorizar, a pedido dos interessados, trocas de ramos, desde que tal não afecte o número de vagas superiormente estabelecido para cada ramo.
 
-Art. 70.º Sempre que o número de vagas para qualquer curso colida com o quantitativo de declarações de preferência dos alunos, será adoptado um sistema de distribuição, a definir em normas a propor pela Academia Militar ao Estado-Maior do Exército ou ao Estado-Maior da Força Aérea, consoante os casos.
+###### Artigo 67.º
+
+Quando as circunstâncias o justificarem, no final do 1.º ano, a distribuição inicial dos alunos pelos ramos das Forças Armadas pode ser objecto de revisão pelos Estados-Maiores respectivos, após consulta mútua, relativamente a alteração no número das vagas previamente estabelecido para cada um dos ramos.
+
+###### Artigo 68.º
+
+Só podem ser destinados à Força Aérea, para a frequência do curso de pilotagem aeronáutica, os candidatos que, tendo declarado no acto da inscrição ao concurso para a matrícula no 1.º ano desejar frequentar este curso, sejam aprovados na inspecção médica e nas provas especiais efectuadas pela Força Aérea.
+
+###### Artigo 69.º
+
+Compete ao comando da Academia Militar a distribuição dos alunos pelos diferentes cursos do Exército e da Força Aérea, com excepção do curso de pilotagem aeronáutica, a qual terá lugar no final do 1.º ano e respeitará, em princípio, a ordem de preferência dos alunos, tendo em conta o número de vagas fixado.
+
+###### Artigo 70.º
+
+Sempre que o número de vagas para qualquer curso colida com o quantitativo de declarações de preferência dos alunos, será adoptado um sistema de distribuição, a definir em normas a propor pela Academia Militar ao Estado-Maior do Exército ou ao Estado-Maior da Força Aérea, consoante os casos.
 
 ## TÍTULO VII — Aproveitamento e situação escolar dos alunos
 
-Art. 71.º Após a matrícula efectiva na Academia Militar, os alunos passam a usufruir do regime jurídico da maioridade, no que se refere exclusivamente a questões relacionadas com as actividades militares.
+###### Artigo 71.º
 
-Art. 72.º Os cursos da Academia Militar são frequentados em regime de internato obrigatório. Pode ser facultado o regime de externato nocturno aos militares, qualquer que seja o seu posto, dos quadros permanentes ou de complemento do Exército e da Força Aérea.
+Após a matrícula efectiva na Academia Militar, os alunos passam a usufruir do regime jurídico da maioridade, no que se refere exclusivamente a questões relacionadas com as actividades militares.
 
-Art. 73.º Durante a frequência dos cursos, os alunos são obrigados a fazer uso de uniforme segundo o plano de uniforme do ramo das forças armadas a que se destinam ou de uniforme privativo da Academia que venha a ser estabelecido.
+###### Artigo 72.º
 
-Art. 74.º Os cursos da Academia Militar podem ser frequentados, em regime especial a definir, por candidatos provenientes de países de expressão portuguesa, dentro do espírito dos acordos de cooperação assinados com aqueles países.
+Os cursos da Academia Militar são frequentados em regime de internato obrigatório. Pode ser facultado o regime de externato nocturno aos militares, qualquer que seja o seu posto, dos quadros permanentes ou de complemento do Exército e da Força Aérea.
 
-Art. 75.º A graduação militar dos alunos nos vários anos dos cursos, bem como os seus direitos e regalias, incluindo abonos para alimentação e alojamento, serão objecto de portaria do Chefe do Estado-Maior respectivo, obtida a concordância do Governo.
+###### Artigo 73.º
 
-Art. 76.º O ingresso nos quadros permanentes dos alunos que tenham concluído os cursos da Academia Militar, incluindo o tirocínio, efectua-se no posto de alferes, sendo a antiguidade no posto referida a 1 de Novembro do ano civil seguinte àquele em que tiver início o tirocínio.
+Durante a frequência dos cursos, os alunos são obrigados a fazer uso de uniforme segundo o plano de uniforme do ramo das forças armadas a que se destinam ou de uniforme privativo da Academia que venha a ser estabelecido.
 
-Art. 77.º As condições de frequência dos cursos, avaliação de conhecimentos, classificações a atribuir e condições de aproveitamento escolar serão fixadas por regulamento a publicar por portaria dos Chefes dos Estados-Maiores do Exército e da Força Aérea.
+###### Artigo 74.º
 
-Art. 78.º As condições de eliminação dos alunos da frequência da Academia, por falta de aproveitamento escolar ou por motivos disciplinares ou morais ou ainda, a pedido dos próprios alunos, assim como a sua eliminação em estágios e tirocínios, serão fixadas por portaria dos Chefes dos Estados-Maiores do Exército e da Força Aérea, obtida a concordância do Governo, no caso de envolver encargos financeiros.
+Os cursos da Academia Militar podem ser frequentados, em regime especial a definir, por candidatos provenientes de países de expressão portuguesa, dentro do espírito dos acordos de cooperação assinados com aqueles países.
 
-Art. 79.º A classificação final registada na carta de curso, e que serve de base para a inscrição na escala geral do quadro permanente das diversas armas e serviços do Exército e da Força Aérea, é calculada entrando em linha de conta com a média da classificação final do curso na Academia Militar e da classificação dos tirocínios e estágios nas escolas práticas e estabelecimentos apropriados, sendo a primeira valorizada pelo coeficiente correspondente ao número de anos do respectivo curso frequentado na Academia.
+###### Artigo 75.º
 
-Art. 80.º A classificação obtida pelo aluno, cujo cálculo é feito nos termos expressos no artigo anterior, é inscrita na carta de curso em valores arredondados até às centésimas, sendo ainda observado o seguinte:
+A graduação militar dos alunos nos vários anos dos cursos, bem como os seus direitos e regalias, incluindo abonos para alimentação e alojamento, serão objecto de portaria do Chefe do Estado-Maior respectivo, obtida a concordância do Governo.
+
+###### Artigo 76.º
+
+1 - O ingresso nos quadros permanentes dos alunos que tenham concluído os cursos da Academia Militar, incluindo o tirocínio, efectua-se no posto de alferes quando tenham sido graduados em aspirantes a oficial no início do tirocínio.
+
+2 - O ingresso nos quadros permanentes dos alunos que tenham concluído os cursos da Academia Militar, incluindo o tirocínio, efectua-se no posto de tenente quando tenham sido graduados em alferes alunos no início do 6.º ano do respectivo curso.
+
+3 - A antiguidade no posto é referida ao dia imediato ao do termo daquele tirocínio.
+
+4 - O ingresso nos quadros permanentes dos alunos da Força Aérea que tenham concluído os cursos na Academia Militar, incluindo o tirocínio, continuará a reger-se pela legislação em vigor na Força Aérea.
+
+> Alterado pelo/a [Decreto-Lei n.º 152/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-1980-474511), publicado em 1980-05-24.
+
+###### Artigo 77.º
+
+As condições de frequência dos cursos, avaliação de conhecimentos, classificações a atribuir e condições de aproveitamento escolar serão fixadas por regulamento a publicar por portaria dos Chefes dos Estados-Maiores do Exército e da Força Aérea.
+
+###### Artigo 78.º
+
+As condições de eliminação dos alunos da frequência da Academia, por falta de aproveitamento escolar ou por motivos disciplinares ou morais ou ainda, a pedido dos próprios alunos, assim como a sua eliminação em estágios e tirocínios, serão fixadas por portaria dos Chefes dos Estados-Maiores do Exército e da Força Aérea, obtida a concordância do Governo, no caso de envolver encargos financeiros.
+
+###### Artigo 79.º
+
+A classificação final registada na carta de curso, e que serve de base para a inscrição na escala geral do quadro permanente das diversas armas e serviços do Exército e da Força Aérea, é calculada entrando em linha de conta com a média da classificação final do curso na Academia Militar e da classificação dos tirocínios e estágios nas escolas práticas e estabelecimentos apropriados, sendo a primeira valorizada pelo coeficiente correspondente ao número de anos do respectivo curso frequentado na Academia.
+
+###### Artigo 80.º
+
+A classificação obtida pelo aluno, cujo cálculo é feito nos termos expressos no artigo anterior, é inscrita na carta de curso em valores arredondados até às centésimas, sendo ainda observado o seguinte:
 
 Se a classificação é inferior a 16 valores, é na mesma carta registada a indicação de Aprovado;
 
 Se a classificação for igual ou superior a 16 valores, é registada a indicação de Aprovado com distinção.
 
-Art. 81.º Em cada um dos diferentes cursos há prémios pecuniários, honoríficos ou outros de natureza especial a conceder aos alunos, nas condições que forem estabelecidas em regulamento próprio a promulgar por portaria dos Chefes dos Estados-Maiores do Exército e da Força Aérea.
+###### Artigo 81.º
+
+Em cada ano lectivo são concedidos aos alunos prémios de natureza honorífica, nas condições que forem definidas em despacho a aprovar pelo Chefe do Estado-Maior do Exército, sob proposta do comandante da Academia Militar.
+
+> Alterado pelo/a [Decreto-Lei n.º 91/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-1986-227594), publicado em 1986-05-10.
 
 ## TÍTULO VIII — Disposições finais e transitórias
 
-Art. 82.º O dia 12 de Janeiro, aniversário da fundação da Escola do Exército, é o dia da Academia Militar, devendo sempre ser comemorado com especial solenidade e brilho.
+###### Artigo 82.º
 
-Art. 83.º O presente decreto-lei entra progressivamente em vigor, à medida que for sendo promulgada a legislação regulamentar e subsidiária, com vista ao início do ano lectivo de 1976-1977, por revogação das correspondentes disposições insertas nos Decretos-Leis n.os 42151 e 42152, de 12 de Fevereiro de 1959, com a redacção que lhes foi fixada por força de outros diplomas legais.
+O dia 12 de Janeiro, aniversário da fundação da Escola do Exército, é o dia da Academia Militar, devendo sempre ser comemorado com especial solenidade e brilho.
 
-Art. 84.º Em relação à organização e funcionamento dos cursos, deverá ser observado o seguinte:
+###### Artigo 83.º
+
+O presente decreto-lei entra progressivamente em vigor, à medida que for sendo promulgada a legislação regulamentar e subsidiária, com vista ao início do ano lectivo de 1976-1977, por revogação das correspondentes disposições insertas nos Decretos-Leis n.os 42151 e 42152, de 12 de Fevereiro de 1959, com a redacção que lhes foi fixada por força de outros diplomas legais.
+
+###### Artigo 84.º
+
+Em relação à organização e funcionamento dos cursos, deverá ser observado o seguinte:
 
 1. Mantêm-se, transitoriamente, os seguintes cursos:
 
@@ -556,7 +750,9 @@ Alunos que se candidatam à Academia Militar para os cursos do Exército, no fin
 
 2. São iniciados os primeiros anos dos novos cursos, com a duração total de cinco anos (incluindo o tirocínio), ao abrigo do presente decreto-lei, a partir de 1 de Outubro de 1976, para os alunos que façam o concurso de admissão à Academia Militar no final do corrente ano lectivo.
 
-Art. 85.º Os casos duvidosos ou omissos que surjam na aplicação do presente diploma serão resolvidos por despacho do Chefe do Estado-Maior do Exército, ouvidos, se necessário, o Chefe do Estado-Maior da Força Aérea e o Ministro da Educação e Investigação Científica.
+###### Artigo 85.º
+
+Os casos duvidosos ou omissos que surjam na aplicação do presente diploma serão resolvidos por despacho do Chefe do Estado-Maior do Exército, ouvidos, se necessário, o Chefe do Estado-Maior da Força Aérea e o Ministro da Educação e Investigação Científica.
 
 Visto e aprovado em Conselho da Revolução.
 

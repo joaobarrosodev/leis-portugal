@@ -1,0 +1,398 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:258767:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2013-03-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "677e1b982054421a",
+    "23836370ae405d04",
+    "bcc8b3d473ffd3ef",
+    "a1a0a855ff2b2004",
+    "05031bf52bc0cd5f",
+    "bf1aa5b1199e6c82",
+    "ed35160fbcf8f65e",
+    "2ea424017e6336d8",
+    "b74b2c3e78935cfd",
+    "56ba5dcc0c75972e",
+    "c92d5e57f8a2e623",
+    "9f1bb71331eefc96",
+    "3c2d0c45b150290e",
+    "e38c0174b01bc47f",
+    "2344ba67c249a6bd",
+    "6d5038a91152dc06",
+    "0fb62139cb519559",
+    "b4e1d9ed64c51321",
+    "d55f0b5b15103b0d",
+    "b4c99a9a85b5bcda",
+    "e45d3443a2646f24",
+    "30a5d5549045366b",
+    "bc66db9260fe8cd7",
+    "38ef38127a68e0a2",
+    "def0f7db942ce315",
+    "8a005e026cef93d3",
+    "e864273aa3822cfe",
+    "a06ae56af2144b46",
+    "260a9f4ecd4b5740",
+    "796b9620b0cfa727",
+    "53603ef4b46cf4dc",
+    "b864cebe72e13f38",
+    "15ee25d640363c0b"
+   ]
+  },
+  {
+   "date": "2016-07-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74967188:por",
+     "title": "Decreto Legislativo Regional n.º 30/2016/M",
+     "published": "2016-07-18",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/30-2016-74967188"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º",
+    "Altera Artigo 16.º",
+    "Revoga Artigo 17.º"
+   ],
+   "fragments": [
+    "677e1b982054421a",
+    "23836370ae405d04",
+    "bcc8b3d473ffd3ef",
+    "a1a0a855ff2b2004",
+    "05031bf52bc0cd5f",
+    "bf1aa5b1199e6c82",
+    "ed35160fbcf8f65e",
+    "2ea424017e6336d8",
+    "b74b2c3e78935cfd",
+    "56ba5dcc0c75972e",
+    "c92d5e57f8a2e623",
+    "9f1bb71331eefc96",
+    "3c2d0c45b150290e",
+    "e38c0174b01bc47f",
+    "2344ba67c249a6bd",
+    "6d5038a91152dc06",
+    "0fb62139cb519559",
+    "b4e1d9ed64c51321",
+    "d55f0b5b15103b0d",
+    "057a30c0714df3b0",
+    "0ef974f6d94da570",
+    "e8233b9df491d907",
+    "bc66db9260fe8cd7",
+    "38ef38127a68e0a2",
+    "def0f7db942ce315",
+    "8a005e026cef93d3",
+    "e864273aa3822cfe",
+    "a06ae56af2144b46",
+    "260a9f4ecd4b5740",
+    "796b9620b0cfa727",
+    "53603ef4b46cf4dc",
+    "b864cebe72e13f38",
+    "15ee25d640363c0b"
+   ]
+  }
+ ],
+ "fragments": {
+  "677e1b982054421a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "ESTABELECE O REGIME JURÍDICO DE INSTALAÇÃO E DE MODIFICAÇÃO DOS ESTABELECIMENTOS DE COMÉRCIO A RETALHO E DOS CONJUNTOS COMERCIAIS\n\nConsiderando que, importa regular a implantação das estruturas empresariais do comércio, de forma a assegurar a sua inserção espacial, de acordo com critérios que promovam um adequado ordenamento do território, salvaguardem a proteção do ambiente e do ambiente urbano, valorizem os centros urbanos existentes e contribuam para a multiplicidade da oferta comercial e para o abastecimento diversificado das populações.\n\nConsiderando que, na avaliação dos novos estabelecimentos e conjuntos comerciais, deve ser dado um especial destaque à contribuição positiva de tais empreendimentos para a promoção da melhoria do ambiente, do desenvolvimento da qualificação do emprego e da responsabilidade social das empresas.\n\nConsiderando necessário reduzir o universo de estabelecimentos de comércio, isolados ou em grupo, sujeitos ao regime de autorização, e promover a simplificação dos procedimentos e a redução dos prazos de decisão, diminuindo os custos de oportunidade para as empresas.\n\nConsiderando que os critérios de autorização de instalação e modificação, devem estar adequados aos imperativos comunitários em matéria de concorrência e de liberdade de estabelecimento, nomeadamente, a Diretiva [2006/123/CE](http://data.europa.eu/eli/dir/2006/123/oj?locale=pt) do Parlamento Europeu e do Conselho, de 12 de dezembro.\n\nForam ouvidas as associações empresariais do sector do comércio e serviços e a Associação de Municípios da Região Autónoma da Madeira.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do nº 1 do artigo 227º e do nº 1 do artigo 228º da Constituição da República Portuguesa e da alínea c) do nº 1 do artigo 37º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei nº 13/91, de 5 de junho, com as alterações introduzidas pelas Leis nºs 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:"
+  },
+  "23836370ae405d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Disposições gerais"
+  },
+  "bcc8b3d473ffd3ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1º — Objeto\n\nO presente diploma estabelece o regime jurídico da instalação e da modificação dos estabelecimentos de comércio a retalho e dos conjuntos comerciais."
+  },
+  "a1a0a855ff2b2004": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2º — Âmbito\n\n1 - Estão abrangidos pelo presente diploma os seguintes estabelecimentos e conjuntos comerciais:\n\na) Estabelecimentos de comércio a retalho, isoladamente considerados ou inseridos em conjuntos comerciais, que tenham uma área de venda igual ou superior a 750 m2;\n\nb) Estabelecimentos de comércio a retalho, isoladamente considerados ou inseridos em conjuntos comerciais, independentemente da respetiva área de venda, que pertençam a uma empresa que utilize uma ou mais insígnias ou estejam integrados num grupo, que disponham, a nível regional, de uma área de venda acumulada igual ou superior a 7.500 m2;\n\nc) Conjuntos comerciais que tenham uma área bruta locável igual ou superior a 6.000 m2.\n\n2 - As disposições do presente diploma não são aplicáveis à instalação ou modificação dos estabelecimentos de comércio a retalho de veículos automóveis, motociclos, embarcações de recreio, tratores, máquinas e equipamentos agrícolas, bem como dos estabelecimentos em que são exercidas atividades de comércio a retalho que sejam objeto de regulamentação específica."
+  },
+  "05031bf52bc0cd5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3º — Interdição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3º — Interdição\n\n1 - Fica interdita a instalação e a ampliação de estabelecimentos de comércio a retalho, alimentar ou misto com uma área de venda superior a 2.500 m2.\n\n2 - Entende-se por área de venda a que é definida na alínea d) do artigo 5º."
+  },
+  "bf1aa5b1199e6c82": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4º — Regime aplicável\n\n1 - Está sujeita ao regime de autorização a instalação dos estabelecimentos e conjuntos comerciais referidos no nº 1 do artigo 2º.\n\n2 - Estão, ainda, sujeitas ao regime de autorização as modificações dos estabelecimentos e conjuntos comerciais referidos no nº 1 do artigo 2º que configurem:\n\na) Alteração de localização dos estabelecimentos com exceção das referidas na alínea a) do número seguinte;\n\nb) Alteração da tipologia dos estabelecimentos;\n\nc) Aumento da área de venda dos estabelecimentos;\n\nd) Alteração de insígnia ou do titular de exploração dos estabelecimentos, que não ocorra dentro do mesmo grupo;\n\ne) Alteração de localização dos conjuntos comerciais;\n\nf) Alteração da tipologia dos conjuntos comerciais;\n\ng) Aumento da área bruta locável dos conjuntos comerciais.\n\n3 - Estão sujeitas a comunicação as modificações dos estabelecimentos e conjuntos comerciais referidos no nº 1 do artigo 2º que configurem:\n\na) Alteração de localização de estabelecimentos comerciais no interior de conjuntos comerciais, que não se traduza em aumento de áreas de venda;\n\nb) Diminuição da área de venda dos estabelecimentos comerciais;\n\nc) Alteração de insígnia ou do titular de exploração dos estabelecimentos, dentro do mesmo grupo;\n\nd) Diminuição da área bruta locável dos conjuntos comerciais;\n\ne) Alteração do titular de exploração dos conjuntos comerciais.\n\n4 - As modificações referidas no número anterior são comunicadas à Direção Regional do Comércio, Indústria e Energia (DRCIE), pelo titular do empreendimento, até 20 dias antes da sua realização."
+  },
+  "ed35160fbcf8f65e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Área de venda acumulada» compreende o somatório da área de venda em funcionamento, da área de venda autorizada no âmbito do Decreto Legislativo Regional nº 1/2006/M, de 3 de janeiro, mas que ainda não entrou em funcionamento e da área de venda autorizada ao abrigo do regime jurídico da urbanização e da edificação;\n\nb) «Área bruta locável (ABL) do conjunto comercial» a área que produz rendimento do conjunto comercial, quer seja uma área arrendada ou vendida, e que inclui os espaços de armazenagem e escritórios afetos a todos os estabelecimentos;\n\nc) «Área de influência» a freguesia ou o conjunto de freguesias que se integrem na área geográfica definida em função de um limite máximo de tempo de deslocação do consumidor ao estabelecimento ou conjunto comercial em causa, contado a partir deste, o qual pode variar, nomeadamente, em função da respetiva dimensão e tipo de comércio exercido, das estruturas de lazer e de serviços que lhe possam estar associadas, da sua inserção em meio urbano ou rural, ou da qualidade das infraestruturas que lhe servem de acesso;\n\nd) «Área de venda do estabelecimento» toda a área destinada a venda, onde compradores têm acesso ou os produtos se encontram expostos ou são preparados para entrega imediata, nela se incluindo a zona ocupada pelas caixas de saída e as zonas de circulação dos consumidores internas ao estabelecimento, nomeadamente as escadas de ligação entre os vários pisos;\n\ne) «Centro urbano» o núcleo urbano consolidado conforme previsto nos instrumentos de planeamento territorial em vigor ou, não estando aí definido, a zona urbana consolidada nos termos do disposto na alínea o) do artigo 2º do Decreto-Lei nº 555/99, de 16 de dezembro, alterado e republicado pelo Decreto-Lei nº 26/2010, de 30 de março, aplicado à Região Autónoma da Madeira, pelo Decreto Legislativo Regional nº 37/2006/M, de 18 de agosto, alterado pelo Decreto Legislativo Regional nº 7/2011/M, de 16 de março;\n\nf) «Conjunto comercial» o empreendimento planeado e integrado, composto por um ou mais edifícios nos quais se encontra instalado um conjunto diversificado de estabelecimentos de comércio a retalho e ou de prestação de serviços, quer sejam ou não propriedade ou explorados pela mesma entidade, que preencha cumulativamente os seguintes requisitos:\n\ni) Disponha de um conjunto de facilidades concebidas para permitir a uma mesma clientela o acesso aos diversos estabelecimentos;\n\nii) Seja objeto de uma gestão comum, responsável, designadamente, pela disponibilização de serviços coletivos, pela instituição de práticas comuns e pela política de comunicação e animação do empreendimento;\n\nAdotando uma das seguintes tipologias:\n\niii) Centro comercial tradicional - compreende estabelecimentos indiferenciados ou especializados integrados em empreendimento fechado ou «a céu aberto»;\n\niv) Centro comercial especializado - compreende, nomeadamente, os denominados retail park, os outlet centre ou os temáticos. Incluem quer estabelecimentos especializados, geralmente de maior dimensão, com acesso direto ao parque de estacionamento ou a áreas pedonais, quer estabelecimentos, de pequena e média dimensão, onde produtores e retalhistas vendem os seus produtos com desconto no preço provenientes de excedentes, bem como artigos com pequenos defeitos, ou outros desenvolvidos em torno de uma categoria específica de comércio especializado.\n\ng) «Empresa», qualquer entidade abrangida pelo nº 1 do artigo 3º da Lei nº 19/2012, de 8 de maio;\n\nh) «Estabelecimento de comércio a retalho» o local no qual se exerce a atividade de comércio a retalho, tal como é definida na alínea b) do nº 1 do artigo 1º do Decreto-Lei nº 339/85, de 21 de agosto;\n\ni) «Estabelecimento de comércio alimentar» o local no qual se exerce exclusivamente uma atividade de comércio alimentar ou onde esta representa uma percentagem igual ou superior a 90 % do respetivo volume total de vendas;\n\nj) «Estabelecimento de comércio não alimentar» o local no qual se exerce exclusivamente uma atividade de comércio não alimentar ou onde esta representa uma percentagem igual ou superior a 90 % do respetivo volume total de vendas;\n\nk) «Estabelecimento de comércio misto» o local no qual se exercem, em simultâneo, atividades de comércio alimentar e não alimentar e a que não seja aplicável o disposto nas alíneas i) e j);\n\nl) «Formato de estabelecimento do ramo alimentar ou misto» a dimensão da sua área de venda. Para a determinação do formato do estabelecimento do ramo alimentar ou misto são consideradas as seguintes áreas de venda:\n\ni) Área de venda (menor que) 300 m2 - minimercado ou pequeno supermercado;\n\nii) Área de venda (igual ou maior que) 300 m2 e (menor que) 1.000 m2 - supermercado;\n\niii) Área de venda (igual ou maior que) 1.000 m2 - hipermercado.\n\nm) «Gestor do processo» o técnico designado pela DRCIE para efeitos de verificação da instrução do pedido de autorização e acompanhamento das várias etapas do processo, constituindo-se como interlocutor privilegiado do requerente;\n\nn) «Grupo» o conjunto de empresas que, embora juridicamente distintas, mantêm entre si laços de interdependência ou subordinação decorrentes da utilização da mesma insígnia ou os direitos ou poderes enumerados no nº 2 do artigo 3º da Lei nº 19/2012, de 8 de maio;\n\no) «Instalação» a criação de um estabelecimento de comércio a retalho ou conjunto comercial, quer tal se traduza em novas edificações, quer resulte de obras em edificações já existentes;\n\np) «Interlocutor responsável pelo projeto» a pessoa ou entidade designada pelo requerente para efeitos de demonstração de que o projeto se encontra em conformidade com a legislação aplicável e para o relacionamento com a DRCIE e as demais entidades intervenientes no processo de autorização;\n\nq) «Responsabilidade social da empresa» a integração voluntária, por parte da empresa, de preocupações sociais na prossecução da sua atividade e interligação da mesma com as comunidades locais e outras partes interessadas;\n\nr) «Tipologia de estabelecimentos comerciais» os estabelecimentos de comércio a retalho alimentar e misto e não alimentar;\n\ns) «Tipologia de conjuntos comerciais» o centro comercial tradicional e o especializado."
+  },
+  "2ea424017e6336d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Autorização de instalação e de modificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Autorização de instalação e de modificação"
+  },
+  "b74b2c3e78935cfd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6º — Informação prévia de localização e declaração de impacte ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6º — Informação prévia de localização e declaração de impacte ambiental\n\n1 - Para efeitos de instrução do processo de autorização de instalação e de modificação dos estabelecimentos e conjuntos comerciais, e desde que o mesmo implique uma operação urbanística sujeita a controlo prévio, os interessados devem solicitar à câmara municipal pedido de informação prévia sobre a conformidade do empreendimento na localização pretendida com os instrumentos de gestão territorial vigentes, nos termos dos artigos 14º e seguintes do Decreto-Lei nº 555/99, de 16 de dezembro, alterado e republicado pelo Decreto-Lei nº 26/2010, de 30 de março, aplicado à Região Autónoma da Madeira, pelo Decreto Legislativo Regional nº 37/2006/M, de 18 de agosto, alterado pelo Decreto Legislativo Regional nº 7/2011/M, de 16 de março.\n\n2 - No caso dos estabelecimentos e conjuntos comerciais abrangidos pelo regime jurídico de avaliação de impacte ambiental (AIA), para além do disposto no número anterior, os interessados devem instruir o processo com declaração de impacte ambiental (DIA) favorável ou condicionalmente favorável e, no caso do procedimento de AIA ter decorrido em fase de estudo prévio, com o parecer relativo à conformidade do projeto de execução com a DIA.\n\n3 - Caso a instalação ou modificação dos estabelecimentos ou conjuntos comerciais ocorra em instalações anteriormente afetas ao uso comercial e desde que o pedido não implique alteração de parâmetros urbanísticos, a informação prévia de localização pode ser substituída pelo alvará de licença de construção ou documento comprovativo da admissão da comunicação prévia que admitam aquele fim ou utilização no referido lote ou prédio ou pelo alvará de autorização de utilização para fins comerciais.\n\n4 - No caso de estabelecimentos de comércio inseridos em conjuntos comerciais, a informação prévia de localização é substituída pelo alvará de autorização de utilização do conjunto comercial ou pela autorização de instalação do conjunto comercial, caso exista."
+  },
+  "56ba5dcc0c75972e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7º — Entidade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7º — Entidade competente\n\nA DRCIE é a entidade competente para autorizar a instalação e a modificação, dos estabelecimentos de comércio a retalho e dos conjuntos comerciais."
+  },
+  "c92d5e57f8a2e623": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8º — Tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8º — Tramitação\n\n1 - Os procedimentos previstos no presente diploma iniciam-se através de requerimento dirigido à DRCIE, acompanhados dos elementos instrutórios referidos no anexo ao presente diploma que dele faz parte integrante, em quatro exemplares, salvo se apresentado em suporte eletrónico.\n\n2 - Com a apresentação do requerimento é emitido recibo de receção.\n\n3 - O requerente deve identificar um interlocutor responsável pelo processo e a DRCIE designa um gestor do processo, a quem compete assegurar o desenvolvimento da tramitação processual, acompanhando, nomeadamente, a instrução, o cumprimento dos prazos e a prestação de informação e esclarecimentos aos requerentes.\n\n4 - Quando na verificação dos documentos instrutórios do processo se constatar que estes não se encontram em conformidade com o disposto no nº 1, a DRCIE rejeita liminarmente o pedido de autorização.\n\n5 - A verificação dos documentos instrutórios do processo de autorização compete à DRCIE, devendo esta, no prazo de cinco dias a contar da data de receção do pedido, devidamente instruído, remeter o processo às seguintes entidades:\n\na) Secretaria Regional do Ambiente e dos Recursos Naturais (SRARN);\n\nb) Câmara municipal da área de implantação do empreendimento.\n\n6 - Quando na verificação dos documentos instrutórios do processo se constatar que este não se encontra em conformidade com o disposto no nº 1 do presente artigo, a DRCIE solicita ao requerente, no prazo de 5 dias a contar da data de receção do pedido, o envio dos elementos em falta, fixando-lhe um prazo máximo de 10 dias para a respetiva remessa.\n\n7 - O processo só se considera devidamente instruído na data de receção do último dos elementos em falta."
+  },
+  "9f1bb71331eefc96": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9º — Pareceres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9º — Pareceres\n\n1 - As entidades referidas no nº 5 do artigo anterior deverão emitir pareceres, no prazo de 20 dias a contar da data de receção do processo remetido pela DRCIE, no que concerne à verificação do cumprimento dos critérios previstos nas alíneas b) e c) do artigo 11º.\n\n2 - As entidades a que se refere o número anterior podem solicitar, nos primeiros 10 dias do respetivo prazo, esclarecimentos ou informações complementares à DRCIE, considerando-se suspenso o prazo para a elaboração do respetivo parecer até à remessa, por esta, dos elementos solicitados.\n\n3 - A DRCIE deve solicitar de imediato ao requerente os elementos referidos no número anterior, o qual dispõe de um prazo de 10 dias a contar da data da receção do respetivo pedido para efeitos de resposta.\n\n4 - Sem prejuízo das suspensões previstas no presente artigo, a falta de emissão dos pareceres solicitados dentro do prazo referido no nº 1 é considerada como parecer favorável."
+  },
+  "3c2d0c45b150290e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10º — Relatório final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10º — Relatório final\n\nO gestor do processo elabora um relatório final efetuado com base nos parâmetros referidos no artigo 11º, no qual formula uma proposta de decisão para a entidade competente, no prazo de 10 dias contados a partir da data de receção dos pareceres referidos no nº 5 do artigo 8º."
+  },
+  "e38c0174b01bc47f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11º — Critérios de decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11º — Critérios de decisão\n\nAs decisões da DRCIE são efetuadas com base nos seguintes critérios:\n\na) Contribuição do estabelecimento para a multiplicidade da oferta comercial, tanto em formatos, no retalho alimentar e misto, como em insígnias, no retalho não alimentar, de forma a promover a concorrência efetiva entre empresas e grupos na área de influência, atendendo-se, nos conjuntos comerciais, à diversidade das suas atividades;\n\nb) Contribuição positiva em matéria de proteção ambiental, valorizando projetos energeticamente mais eficientes e com menor impacte na envolvente;\n\nc) Avaliação da articulação funcional do estabelecimento ou conjunto comercial com o centro urbano, como forma de qualificar as centralidades existentes, promover a atratividade urbana, diminuir as deslocações pendulares e reduzir o congestionamento das infraestruturas;\n\nd) Contribuição para o desenvolvimento da qualidade do emprego, valorizando-se a responsabilidade social;\n\ne) Contribuição para a diversificação e qualificação dos serviços ao consumidor."
+  },
+  "2344ba67c249a6bd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12º — Decisão\n\n1 - A decisão tomada pela DRCIE no prazo de 10 dias, pode ser acompanhada da imposição de condições e obrigações destinadas a garantir o cumprimento de compromissos assumidos pelo requerente e que tenham constituído pressupostos da autorização.\n\n2 - A DRCIE notifica o requerente e a câmara municipal da área de implantação da unidade da decisão tomada, com a devida fundamentação, devendo a respetiva autorização ser emitida só após o pagamento da taxa devida, nos termos do artigo 23º do presente diploma."
+  },
+  "6d5038a91152dc06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13º — Impugnação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13º — Impugnação\n\nDa decisão cabe impugnação para o tribunal administrativo de círculo competente nos termos da lei geral."
+  },
+  "0fb62139cb519559": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14º — Caducidade da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14º — Caducidade da autorização\n\n1 - A autorização concedida caduca se, no prazo de quatro anos a contar da data da sua emissão, não se verificar a entrada em funcionamento, do estabelecimento de comércio ou do conjunto comercial a que a mesma respeita.\n\n2 - No caso dos estabelecimentos comerciais inseridos em conjuntos comerciais, a autorização caduca na data da caducidade da autorização do conjunto comercial.\n\n3 - A título excecional, a DRCIE pode prorrogar a autorização concedida até ao máximo de um ano, quando se trate de estabelecimento de comércio, ou até ao máximo de dois anos, no caso de conjunto comercial, com base em requerimento do interessado, devidamente fundamentado e apresentado, com a antecedência mínima de 45 dias da data da caducidade da autorização, à DRCIE, que emite um parecer sobre o mesmo.\n\n4 - O prazo de caducidade previsto nos números anteriores não se interrompe nem se suspende."
+  },
+  "b4e1d9ed64c51321": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15º — Alterações posteriores à autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15º — Alterações posteriores à autorização\n\n1 - As alterações que o requerente pretenda introduzir no processo entre a data de emissão da autorização e a entrada em funcionamento do estabelecimento ou do conjunto comercial, suscetíveis de alterar os pressupostos em que aquela se baseou e que digam respeito, nomeadamente, ao aumento da área de venda ou da área bruta locável, à tipologia ou à entidade exploradora se configurar alteração de grupo, são obrigatoriamente comunicadas à DRCIE até 45 dias antes da data prevista de entrada em funcionamento do estabelecimento ou do conjunto comercial.\n\n2 - No prazo de três dias contados da data da sua receção, a DRCIE remete o pedido de alteração às entidades que intervieram no processo de autorização, para efeitos de apreciação.\n\n3 - A DRCIE decide no prazo de 10 dias contados a partir da data de receção dos pareceres referidos no nº 5 do artigo 8º."
+  },
+  "d55f0b5b15103b0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Funcionamento"
+  },
+  "b4c99a9a85b5bcda": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16º — Comunicação de abertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16º — Comunicação de abertura\n\n1 - Sem prejuízo da obtenção do alvará de autorização de utilização, previsto no regime jurídico da urbanização e da edificação, o titular do empreendimento, até 20 dias antes da abertura do estabelecimento ou conjunto comercial, comunica tal facto à DRCIE e à câmara municipal respetiva, acompanhado de termo de responsabilidade segundo o qual o estabelecimento ou conjunto comercial cumpre os compromissos que fundamentaram a autorização de instalação ou de modificação.\n\n2 - A comunicação referida no número anterior é considerada para efeitos do disposto no artigo 2º do Decreto Legislativo Regional nº 7/2008/M, de 4 de março, através do modelo constante da Portaria nº 49/2008, de 29 abril."
+  },
+  "e45d3443a2646f24": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17º — Comunicação do encerramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17º — Comunicação do encerramento\n\nO encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente diploma deve ser comunicado à DRCIE, até 20 dias após a sua ocorrência, nos termos do artigo 2º do Decreto Legislativo Regional nº 7/2008/M, de 4 de março, através do modelo constante da Portaria nº 49/2008, de 29 abril."
+  },
+  "30a5d5549045366b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18º — Registo\n\n1 - A abertura, as modificações e o encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente diploma são objeto de registo, efetuado pela DRCIE, o qual é considerado para efeitos do disposto no Decreto Legislativo Regional nº 8/98/M, de 27 de abril, alterado e republicado pelo Decreto Legislativo Regional nº 19/2008/M, de 6 de junho, e do artigo 6º do Decreto-Lei nº 259/2007, de 17 de julho, adaptado à Região Autónoma da Madeira, pelo Decreto Legislativo Regional nº 7/2008/M, de 4 de março.\n\n2 - O registo é efetuado com base nas comunicações efetuadas ao abrigo do nº 4 do artigo 4º, do nº 1 do artigo 16º e do artigo 17º do presente diploma."
+  },
+  "bc66db9260fe8cd7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Pedidos de informação, fiscalização e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Pedidos de informação, fiscalização e sanções"
+  },
+  "38ef38127a68e0a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19º — Prestação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19º — Prestação de informações\n\nA DRCIE pode solicitar a prestação de informações aos promotores e a associações de empresas, fixando, para o efeito, os prazos que entenda razoáveis."
+  },
+  "def0f7db942ce315": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20º — Fiscalização\n\nA fiscalização do cumprimento do disposto no presente diploma, incluindo a verificação regular do cumprimento das condições e dos compromissos assumidos pelos promotores, que condicionaram a emissão da autorização, compete à DRCIE e à Inspeção Regional das Atividades Económicas (IRAE), sem prejuízo das competências legalmente atribuídas a outras entidades."
+  },
+  "8a005e026cef93d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21º — Infrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21º — Infrações\n\n1 - Constituem contraordenações puníveis com as seguintes coimas, quando cometidas por pessoa coletiva:\n\na) De (euro) 10.000 a (euro) 44.000, a instalação ou modificação de um estabelecimento ou conjunto comercial sem a autorização legalmente exigida e o incumprimento das obrigações que fundamentaram a decisão de autorização emitida pela DRCIE;\n\nb) De (euro) 5.000 a (euro) 30.000, a falta de comunicação atempada à DRCIE de quaisquer alterações posteriores à emissão da autorização e anteriores à entrada de funcionamento do estabelecimento ou conjunto comercial, suscetíveis de alterar os pressupostos da decisão de autorização;\n\nc) De (euro) 1.000 a (euro) 5.000, a falta de comunicação atempada das modificações previstas no nº 4 do artigo 4º, a abertura do estabelecimento ou conjunto comercial sem comunicar atempadamente à DRCIE e à câmara municipal respetiva e o encerramento do estabelecimento ou conjunto comercial sem comunicar atempadamente à DRCIE;\n\nd) De (euro) 500 a (euro) 3.000, a falta de envio de informações à DRCIE pelos promotores ou associações de empresas.\n\n2 - Constituem contraordenações puníveis com as seguintes coimas, quando cometidas por pessoa singular:\n\na) De (euro) 1.000 a (euro) 3.740, a instalação ou modificação de um estabelecimento ou conjunto comercial sem a autorização legalmente exigida e o incumprimento das obrigações que fundamentaram a decisão de autorização emitida pela DRCIE;\n\nb) De (euro) 500 a (euro) 3.740, a falta de comunicação atempada à DRCIE de quaisquer alterações posteriores à emissão da autorização e anteriores à entrada de funcionamento do estabelecimento ou conjunto comercial, suscetíveis de alterar os pressupostos da decisão de autorização;\n\nc) De (euro) 500 a (euro) 2.500, a falta de comunicação atempada das modificações previstas no nº 4 do artigo 4º, a abertura do estabelecimento ou conjunto comercial sem comunicar atempadamente à DRCIE e à câmara municipal respetiva e o encerramento do estabelecimento ou conjunto comercial sem comunicar atempadamente à DRCIE;\n\nd) De (euro) 100 a (euro) 1.000, a falta de envio de informações à DRCIE pelos promotores.\n\n3 - A negligência é punível.\n\n4 - A DRCIE pode solicitar a colaboração de quaisquer outras entidades sempre que o julgue necessário ao exercício das suas funções.\n\n5 - A instrução dos processos de contraordenação compete à DRCIE.\n\n6 - A aplicação das coimas e sanções acessórias previstas no presente diploma compete ao Diretor Regional do Comércio, Indústria e Energia.\n\n7 - O produto das coimas aplicadas no âmbito do presente diploma, constitui receita própria da Região Autónoma da Madeira."
+  },
+  "e864273aa3822cfe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22º — Sanção acessória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22º — Sanção acessória\n\nNo caso das contraordenações previstas nas alíneas a) e b) do nº 1 do artigo anterior, simultaneamente com a coima, pode ser aplicada, por período não superior a dois anos, a sanção acessória prevista na alínea f) do nº 1 do artigo 21º do Decreto-Lei nº 433/82, de 27 de outubro, na redação que lhe foi dada pelo Decreto-Lei nº 244/95, de 14 de setembro, ficando o reinício de atividade dependente da concessão de autorização a emitir pela DRCIE nos termos do presente diploma."
+  },
+  "a06ae56af2144b46": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23º — Taxas\n\n1 - Os atos relativos à autorização dos processos de instalação e de modificação dos estabelecimentos de comércio e conjuntos comerciais, incluindo as prorrogações, estão sujeitos ao pagamento da respetiva taxa, cujo montante varia em função da área de venda ou área bruta locável objeto de autorização.\n\n2 - As taxas referidas no número anterior são as seguintes:\n\na) A taxa de autorização dos pedidos de instalação ou de modificação dos estabelecimentos de comércio a retalho é de (euro) 30,00 por m2 de área de venda autorizada;\n\nb) A taxa de autorização de instalação ou de modificação de conjuntos comerciais é de (euro) 20,00 por m2 de área bruta locável autorizada, com um limite máximo de (euro) 1.500.000;\n\nc) As taxas relativas aos processos de modificação de estabelecimentos de comércio a retalho decorrentes de operações de concentração de empresas sujeitas a notificação prévia, nos termos da legislação de concorrência nacional ou comunitária, sofrem uma redução de dois terços em relação aos valores referidos nas alíneas anteriores;\n\nd) As taxas relativas à prorrogação das autorizações de instalação ou modificação de estabelecimentos ou conjuntos comerciais são de:\n\ni) (euro) 300 para os estabelecimentos;\n\nii) (euro) 1.500 para os conjuntos comerciais.\n\n3 - As taxas referidas no número anterior são pagas à DRCIE no prazo de 15 dias após a data da receção pelo promotor da notificação da decisão referida no artigo 12º.\n\n4 - A autorização de instalação e modificação caduca se as taxas não forem liquidadas no prazo indicado no número anterior.\n\n5 - Os valores das taxas constantes do presente diploma são atualizadas, a partir de 1 de março de cada ano, tendo em conta o índice de preços no consumidor (excluindo habitação) na Região Autónoma da Madeira e publicado pelo Instituto Nacional de Estatística."
+  },
+  "260a9f4ecd4b5740": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Disposições finais e transitórias"
+  },
+  "796b9620b0cfa727": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24º — Processos pendentes\n\nOs processos relativos a estabelecimentos e conjuntos comerciais que, por força da alteração do âmbito de aplicação do presente diploma, deixam de estar abrangidos pelo regime de autorização, são considerados extintos."
+  },
+  "53603ef4b46cf4dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25º — Norma revogatória\n\nÉ revogado o Decreto Legislativo Regional nº 1/2006/M, de 3 de janeiro e as Portarias nºs 13/2006, de 14 de fevereiro de 2007 e 8/2012, de 31 de janeiro."
+  },
+  "b864cebe72e13f38": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nAprovado em Sessão Plenária da Assembleia Legislativa da Região Autónoma da Madeira em 24 de janeiro de 2013.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.\n\nAssinado em 15 de fevereiro de 2013.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "15ee25d640363c0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — (a que se refere o nº 1 do artigo 8º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — (a que se refere o nº 1 do artigo 8º)\n\nElementos que devem acompanhar o pedido de instalação ou modificação dos estabelecimentos a retalho e dos conjuntos comerciais, de acordo com o previsto no nº 1 do artigo 8º do presente diploma.\n\nA - Elementos aplicáveis aos estabelecimentos\n\nQuando estejam em causa estabelecimentos de comércio a retalho referidos nas alíneas a) e b) do nº 1 do artigo 2º do presente diploma, os pedidos de autorização devem ser acompanhados dos seguintes elementos:\n\nI - Informação geral:\n\na) Legitimidade para apresentação do pedido - título de propriedade, contrato-promessa ou qualquer outro documento bastante, de que resulte ou possa vir a resultar a legitimidade do requerente para construir o estabelecimento em causa ou, caso estes já existam, para os explorar comercialmente;\n\nb) Número e localização de estabelecimentos que preencham os requisitos previstos no nº 1 do artigo 2º do presente diploma que, eventualmente, já detenha, referindo os respetivos anos de abertura, áreas de venda e número de trabalhadores;\n\nc) Informação prévia de localização favorável ou documento que a substitua, nos termos do previsto no artigo 6º do presente diploma;\n\nd) Declaração de impacte ambiental favorável ou documento que a substitua, nos termos do previsto no artigo 6º do presente diploma, no caso de estabelecimentos comerciais abrangidos pelo regime jurídico de avaliação de impacte ambiental.\n\nII - Caracterização - características do estabelecimento de comércio:\n\nLocalização;\n\nNome/insígnia/designação;\n\nTipologia de comércio (alimentar, não alimentar - com indicação do respetivo ramo de atividade - ou misto);\n\nNúmero de pisos;\n\nÁrea de venda/área de armazenagem, de serviços de apoio e de escritórios;\n\nNúmero de lugares de estacionamento e de cargas e descargas previstos e respetivas áreas;\n\nPrazo previsível de construção e de abertura ao público.\n\nIII - Área de influência:\n\na) Definição da área de influência - identificação, fundamentação e caracterização da área de influência a que se reporta o pedido e apresentação da metodologia subjacente;\n\nb) Descrição da diversidade comercial que se verifica na área de influência a que se reporta o pedido - número e características dos estabelecimentos existentes e que estejam abrangidos pelo nº 1 do artigo 2º do presente diploma, especificando, designadamente, as respetivas localizações, especificando a freguesia, áreas de venda, insígnias, ramos de comércio e métodos de venda.\n\nIV - Apreciação:\n\na) Cumprimento dos parâmetros de apreciação - demonstração do cumprimento dos parâmetros de apreciação referidos no artigo 11º do presente diploma,\n\nb) Para efeito da avaliação prevista na alínea e) do artigo 11º do presente diploma - serviços prestados ao consumidor - deve indicar de forma quantificada e discriminada:\n\ni) Quais os serviços de apoio às pessoas com deficiências e incapacidades;\n\nii) Existência de cartão de desconto ao cliente;\n\niii) Existência de serviço de entrega ao domicílio, se aplicável;\n\niv) Existência de assistência de pós-venda, se aplicável;\n\nv) Existência de vendas à distância, se aplicável;\n\nvi) Adesão ao centro de arbitragem de conflitos de consumo.\n\nc) Para efeito da avaliação prevista na alínea d) do artigo 11º do presente diploma - qualidade do emprego e responsabilidade social - deve indicar de forma quantificada e discriminada:\n\ni) Número de pessoas ao serviço;\n\nii) Número de trabalhadores contratados por tipo de vínculo contratual e categoria profissional;\n\niii) Número de contratos celebrados com pessoas com deficiências e incapacidades;\n\niv) Existência de plano de formação contínua para todos os trabalhadores.\n\nd) Para efeito da avaliação prevista na alínea c) do artigo 11º do presente diploma - localização do estabelecimento no centro urbano - deve apresentar declaração da câmara municipal indicando se o estabelecimento se situa dentro ou fora do centro urbano conforme definido na alínea e) do artigo 4º do presente diploma;\n\ne) Para efeito da avaliação prevista na alínea b) do artigo 11º do presente diploma - eco eficiência - deve indicar de forma discriminada:\n\ni) Existência de certificação energética conforme referido no anexo XI do Decreto-Lei nº 79/2006, de 4 de abril;\n\nii) Adoção de medidas tendentes à melhoria da qualidade ambiental através da utilização de materiais recicláveis e ou degradáveis, nomeadamente, em sacos de compras e embalagens, existência de pontos de recolha de embalagens e outros bens reutilizáveis, produtos poluentes, etc.;\n\niii) Existência de reciclagem de resíduos e qual a percentagem. Ou, em sua substituição, a existência de Certificação Ambiental conforme Norma NP EN ISO 14001:2004.\n\nf) Para efeito da avaliação prevista na alínea a) do artigo 11º do presente diploma - contribuição do estabelecimento para a multiplicidade da oferta comercial - deve indicar de forma quantificada e descriminada as atividades que definem a sua oferta.\n\nTodos os elementos que, à data da apresentação do pedido de instalação, não possam ser objeto de comprovação, são substituídos por declaração sob compromisso de honra.\n\nB - Elementos aplicáveis aos conjuntos comerciais\n\nQuando estejam em causa conjuntos comerciais referidos nas alíneas c) do nº 1 do artigo 2º do presente diploma, os pedidos de autorização devem ser acompanhados dos seguintes elementos:\n\nI - Informação geral:\n\na) Legitimidade para apresentação do pedido - título de propriedade, contrato-promessa ou qualquer outro documento bastante, de que resulte ou possa vir a resultar a legitimidade do requerente para construir o conjunto comercial em causa ou, caso este já exista, para o explorar comercialmente;\n\nb) Número e localização dos conjuntos comerciais que preencham os requisitos previstos no nº 1 do artigo 2º do presente diploma que, eventualmente, já detenha, referindo os respetivos anos de abertura, áreas brutas locáveis, estabelecimentos que os constituem, mix comercial e número de estabelecimentos em funcionamento, número de trabalhadores próprios e das lojas;\n\nc) Informação prévia de localização favorável ou documento que a substitua nos termos do previsto no artigo 6º do presente diploma;\n\nd) Declaração de impacte ambiental favorável ou documento que a substitua, nos termos do previsto no artigo 6º do presente diploma, no caso de conjuntos comerciais abrangidos pelo regime jurídico de avaliação de impacte ambiental.\n\nII - Caracterização - características do conjunto comercial:\n\nLocalização;\n\nNome/designação;\n\nNúmero de pisos;\n\nÁrea bruta locável;\n\nÁreas de armazenagem, de serviços de apoio e de escritórios;\n\nNúmero de lugares de estacionamento e de cargas e descargas previstos e respetivas áreas;\n\nNúmero dos estabelecimentos de comércio que integram o conjunto comercial e mix comercial previsto;\n\nDistribuição das lojas por grupos de atividades;\n\nNúmero de postos de trabalho estimados das lojas e do CC;\n\nPrazo previsível de construção e de abertura ao público.\n\nIII - Área de influência:\n\na) Definição da área de influência - identificação e caracterização da área de influência a que se reporta o pedido e apresentação da metodologia subjacente;\n\nb) Descrição da diversidade comercial que se verifica na área de influência a que se reporta o pedido - número e características dos conjuntos comerciais que preencham os requisitos previstos no nº 1 do artigo 2º do presente diploma, especificando, designadamente, a localização, a freguesia e áreas brutas locáveis.\n\nIV - Apreciação:\n\na) Cumprimento dos parâmetros de apreciação - demonstração do cumprimento dos parâmetros de apreciação referidos no artigo 11º do presente diploma;\n\nb) Para efeito da avaliação prevista na alínea a) do artigo 11º do presente diploma - diversidade de atividades - deve indicar de forma quantificada e discriminada as atividades que definem a sua oferta;\n\nc) Para efeito da avaliação prevista na alínea e) do artigo 11º do presente diploma - serviços prestados ao consumidor - deve indicar de forma quantificada e discriminada:\n\ni) Quais os serviços de apoio ao idoso e à pessoa com deficiência e incapacidade;\n\nii) Existência de serviços de guarda e acompanhamento de crianças e qual o seu custo para o cliente;\n\niii) Existência de estacionamento e qual o seu custo para o cliente;\n\niv) Existência de cartão de desconto para o cliente;\n\nv) Existência de carta de compra com ponto único de entrega das compras;\n\nvi) Adesão ao centro de arbitragem de conflitos de consumo.\n\nd) Para efeito da avaliação prevista na alínea d) do artigo 11º do presente diploma - responsabilidade social da empresa - deve indicar de forma quantificada e discriminada:\n\ni) Existência de espaços de lazer e tomada de refeições para os trabalhadores dos estabelecimentos inseridos no conjunto comercial;\n\nii) Existência de creche para os filhos dos trabalhadores dos estabelecimentos inseridos no conjunto comercial.\n\ne) Para efeito da avaliação prevista na alínea c) do artigo 11º do presente diploma - localização do conjunto comercial no centro urbano - deve apresentar declaração da câmara municipal indicando se o estabelecimento se situa dentro ou fora do centro urbano conforme definido na alínea e) do artigo 5º do presente diploma;\n\nf) Para efeito da avaliação prevista na alínea b) do artigo 11º do presente diploma - eco eficiência - deve indicar de forma discriminada:\n\ni) Existência de certificação energética conforme referido no anexo XI do Decreto-Lei nº 79/2006, de 4 de abril;\n\nii) Adoção de medidas tendentes à melhoria da qualidade ambiental através da utilização de materiais recicláveis e ou degradáveis, nomeadamente, em sacos de compras e embalagens, existência de pontos de recolha de embalagens e outros bens reutilizáveis, produtos poluentes, etc.;\n\niii) Existência de reciclagem de resíduos e qual a percentagem. Ou, em sua substituição, a existência de Certificação Ambiental conforme Norma NP EN ISO 14001:2004.\n\nTodos os elementos que, à data da apresentação do pedido de instalação, não possam ser objeto de comprovação, são substituídos por declaração sob compromisso de honra."
+  },
+  "057a30c0714df3b0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Comunicação de abertura",
+   "in_force_from": "2016-07-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 30/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2016-74967188), publicado em 2016-07-18."
+   ],
+   "markdown": "###### Artigo 16.º — Comunicação de abertura\n\n1 - Sem prejuízo da obtenção do alvará de autorização de utilização, previsto no regime jurídico da urbanização e da edificação, o titular do empreendimento, até 20 dias antes da abertura do estabelecimento ou conjunto comercial, comunica tal facto à DRCIE e à câmara municipal respetiva, acompanhado de termo de responsabilidade segundo o qual o estabelecimento ou conjunto comercial cumpre os compromissos que fundamentaram a autorização de instalação ou de modificação.\n\n2 - (Revogado.)\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 30/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2016-74967188), publicado em 2016-07-18."
+  },
+  "0ef974f6d94da570": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Comunicação do encerramento",
+   "in_force_from": "2016-07-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Legislativo Regional n.º 30/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2016-74967188), publicado em 2016-07-18."
+   ],
+   "markdown": "###### Artigo 17.º — Comunicação do encerramento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 30/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2016-74967188), publicado em 2016-07-18."
+  },
+  "e8233b9df491d907": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Registo",
+   "in_force_from": "2016-07-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2016-74967188), publicado em 2016-07-18."
+   ],
+   "markdown": "###### Artigo 18.º — Registo\n\nA abertura, a modificação e o encerramento dos estabelecimentos e conjuntos comerciais abrangidos pelo presente diploma são objeto de registo, efetuado pela Direção Regional da Economia e Transportes (DRET), e devem ser comunicados até 10 dias após a ocorrência do facto, o qual é considerado para efeitos do cadastro comercial nos termos do artigo 148.º do RJACSR.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 30/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-2016-74967188), publicado em 2016-07-18."
+  }
+ }
+}

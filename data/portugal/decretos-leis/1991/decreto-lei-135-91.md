@@ -38,10 +38,27 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1992-03-14'
+version_history:
+  file: decreto-lei-135-91.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1991-04-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1992-03-14'
+    amending: pt:dre:687016:por
+    amending_title: Lei n.º 51/91; Lei n.º 2/92
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 16.º
+    - Altera Artigo 15.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/135/1991/04/04/p/dre/pt/html
@@ -67,7 +84,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T01:06:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Lei n.º 51/91; Lei n.º 2/92. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1991/decreto-lei-135-91.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -226,21 +244,25 @@ e) Ter havido violação do disposto nos artigos 5.º, 7.º e 8.º que, pela sua
 
 ###### Artigo 8.º — Restrições a operações activas
 
-1 - No desenvolvimento das suas operações activas as SGII obedecerão aos seguintes requisitos:
+1 - No desenvolvimento das suas operações activas, as SGII obedecerão aos seguintes requisitos:
 
-a) Para as SGII que vierem a ser autorizadas a partir da entrada em vigor do presente diploma, um mínimo de 50% da área a que corresponder o seu património imobiliário não afecto a uso próprio será constituído por aplicações em imóveis destinados a arrendamento para habitação, a partir do 3.º ano contado do início da actividade;
+a) Para as SGII que vierem a ser autorizadas a partir da entrada em vigor do presente diploma, um mínimo de 45% da área ou do valor correspondente do seu património imobiliário não afecto a uso próprio será constituído por aplicações em imóveis destinados a arrendamento para habitação, a partir do 3.º ano contado do início da actividade;
 
-b) Para as SGII já constituídas ou autorizadas até à entrada em vigor do presente diploma, nos casos em que as suas aplicações em imóveis não respeitem o limite de 50% referido na alínea anterior, haverá uma aproximação gradual, mediante acréscimos anuais mínimos de 12,5%, a partir do 2.º ano de vigência do presente diploma, até que o referido limite venha a ser alcançado.
+b) Para as SGII já constituídas ou autorizadas até à entrada em vigor do presente diploma, nos casos em que as suas aplicações em imóveis não respeitem o limite de 45% referido na alínea anterior, haverá uma aproximação gradual, mediante acréscimos anuais mínimos de 11,25%, a partir do 2.º ano de vigência do presente diploma, até que o referido limite seja alcançado.
 
 2 - Para efeitos do número anterior, considera-se área do património imobiliário a que corresponder à construção acima do solo e que não seja objecto de uso próprio e ainda a área dos projectos de construção para habitação referidos no n.º 3 do artigo 6.º, contando esta por metade.
 
+> Alterado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
+
 ###### Artigo 9.º — Perda de benefícios fiscais
 
-1 - Sem prejuízo das sanções previstas no artigo 14.º, a infracção ao disposto nos artigos 1.º, 5.º, 7.º e 8.º determinará a perda de quaisquer benefícios fiscais concedidos à SGII se no prazo de 60 dias após notificação da Inspecção-Geral de Finanças a infracção não for completamente sanada.
+1 - Sem prejuízo das sanções previstas no artigo 14.º, a infracção ao disposto nos artigos 1.º, 5.º, 7.º e 8.º determinará a perda de benefícios fiscais a que a SGII tiver direito se no prazo de 60 dias após notificação da Inspecção-Geral de Finanças a infracção não for completamente sanada.
 
-2 - A perda dos benefícios fiscais verifica-se a partir da data da notificação referida no número anterior.
+2 - A perda dos benefícios fiscais referidos no número anterior verifica-se a partir da data da notificação mencionada nesse número.
 
-3 - A revogação da autorização referida no artigo 3.º determina a perda de quaisquer benefícios concedidos à SGII.
+3 - A revogação da autorização referida no artigo 3.º determina a perda de quaisquer benefícios concedidos à SGII a partir da data em que ocorreu a situação que deu origem à citada revogação.
+
+> Alterado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
 ###### Artigo 10.º — Aquisições vedadas
 
@@ -288,7 +310,7 @@ As SGII estão sujeitas à supervisão da Inspecção-Geral de Finanças, a quem
 
 ###### Artigo 15.º — SGII existentes
 
-1 - As SGII constituídas ou autorizadas até à data da entrada em vigor do presente diploma podem deliberar, nos termos do disposto nos n.os 2 e 3 do artigo 383.º e nos n.os 3, 4 e 5 do artigo 386.º do Código das Sociedades Comerciais, renunciar ao seu estatuto de SGII, devendo proceder à consequente alteração do contrato social e comunicar o facto à Inspecção-Geral de Finanças no prazo máximo de 30 dias a contar daquela deliberação.
+1 - As SGII constituídas ou autorizadas até ao dia 9 de Abril de 1991 podem deliberar, nos termos do disposto nos n.os 2 e 3 do artigo 383.º e 3, 4 e 5 do artigo 386.º do Código das Sociedades Comerciais, renunciar ao seu estatuto de SGII, mediante alteração do contrato social, transformação, dissolução, fusão ou cisão, e comunicar o facto à Inspecção-Geral de Finanças no prazo máximo de 30 dias a contar daquela deliberação.
 
 2 - O direito conferido pelo número anterior só pode ser exercido no prazo de 120 dias a contar da data da entrada em vigor do presente decreto-lei.
 
@@ -296,13 +318,25 @@ As SGII estão sujeitas à supervisão da Inspecção-Geral de Finanças, a quem
 
 4 - As sociedades referidas no número anterior deixarão de poder usar a sigla SGII.
 
-5 - Os accionistas das SGII que se dissolverem no prazo referido no n.º 2 beneficiarão de isenção de sisa nas transmissões dos imóveis que integrem o património imobiliário das mesmas sociedades à data de entrada em vigor do presente diploma e que sejam transferidos em consequência daquela dissolução para os seus accionistas ou para empresas exclusivamente por eles detidas.
+5 - Quaisquer transmissões de imóveis que integrem o património imobiliário das SGII à data da deliberação referida no n.º 1 ficam isentas de sisa, desde que resultem de actos celebrados em consequência dessa deliberação e os adquirentes de tais bens sejam os seus accionistas ou empresas por estes exclusivamente detidas ou ainda as sociedades novas ou incorporantes em caso de fusão ou cisão da sociedade.
 
 6 - As SGII abrangidas pelo n.º 2.º da [Portaria n.º 43/89](https://diariodarepublica.pt/dr/detalhe/portaria/43-1989-609629), de 23 de Janeiro, continuarão a beneficiar do regime fixado nos n.os 2.º e 3.º da mesma portaria.
 
+7 - Ficam isentas do imposto do selo e de emolumentos notariais e de registo comercial e predial as escrituras de alteração do contrato social, transformação, dissolução, fusão ou cisão das SGII existentes, celebradas nos termos do presente artigo.
+
+8 - Não é englobado para efeitos de cálculo da base de tributação dos sócios que sejam pessoas colectivas o valor do património imobiliário que lhes seja atribuído em caso de dissolução das SGII, desde que aquele património se mantenha pelo prazo mínimo de cinco anos afecto à exploração das unidades económicas anteriormente tituladas por aquelas e tenham tal exploração por actividade principal.
+
+9 - Se não for observado o prazo referido no número anterior, será aquele valor englobado no exercício em que foi posto à disposição dos sócios, contando-se ainda juros compensatórios desde a data em que o IRC deixou de ser pago até à data da liquidação.
+
+> Alterado pelo/a [Lei n.º 2/92](https://diariodarepublica.pt/dr/detalhe/lei/2-1992-626237), publicado em 1992-03-09.
+
 ###### Artigo 16.º — Norma revogatória
 
-São revogados os Decretos-Leis n.os [291/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1985-183251), de 24 de Julho, com excepção do seu artigo 15.º, e [2/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1990-313831), de 3 de Janeiro.
+1 - Salvo o disposto no número seguinte, são revogados os Decretos-Leis n.os [291/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/291-1985-183251), de 24 de Julho, com excepção do seu artigo 15.º, e [2/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-1990-313831), de 3 de Janeiro.
+
+2 - A legislação referida no número anterior mantém-se, no entanto, em vigor para efeitos do previsto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 65/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-1989-613000), de 1 de Março.
+
+> Alterado pelo/a [Lei n.º 51/91](https://diariodarepublica.pt/dr/detalhe/lei/51-1991-687016), publicado em 1991-08-03.
 
 ###### Artigo 17.º — Entrada em vigor
 

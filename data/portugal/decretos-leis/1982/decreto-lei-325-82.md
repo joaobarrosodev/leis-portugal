@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1986-06-23'
+version_history:
+  file: decreto-lei-325-82.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1982-08-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1986-06-23'
+    amending: pt:dre:229080:por
+    amending_title: Decreto-Lei n.º 151/86
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:45:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 151/86. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1982/decreto-lei-325-82.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -120,17 +135,31 @@ Deste modo:
 
 O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - É cometida ao Ministério do Trabalho a competência necessária à definição do Programa de Construção de Novos Centros de Formação Profissional e de Reabilitação Profissional.
+###### Artigo 1.º
+
+1 - É cometida ao Ministério do Trabalho a competência necessária à definição do Programa de Construção de Novos Centros de Formação Profissional e de Reabilitação Profissional.
 
 2 - Os empreendimentos a incluir neste Programa serão definidos por despacho do Ministro do Trabalho.
 
-Art. 2.º A execução deste Programa cabe ao Instituto de Emprego e Formação Profissional, com verbas do seu orçamento e de outras que lhe venham a ser consignadas no âmbito dos acordos de adesão à Comunidade Económica Europeia.
+###### Artigo 2.º
 
-Art. 3.º As despesas com obras e aquisição de bens e serviços destinados à execução deste Programa poderão, mediante despacho conjunto do Primeiro-Ministro e do Ministro do Trabalho, efectuar-se por ajuste directo, independentemente do seu valor.
+1 - Cabe ao Instituto do Emprego e Formação Profissional superintender e dirigir a execução do Programa de Construção de Novos Centros de Formação Profissional e de Reabilitação Profissional.
 
-Art. 4.º O disposto no presente diploma aplica-se às despesas já efectuadas, desde que as mesmas sejam susceptíveis de enquadramento neste Programa.
+2 - Os encargos com a execução do Programa serão suportados por verbas inscritas no orçamento do Instituto do Emprego e Formação Profissional e por outras que venham a ser atribuídas quer no âmbito dos acordos com entidades internacionais quer no âmbito do orçamento da Segurança Social - PIDDAC para construção de novos centros de formação profissional.
 
-Art. 5.º Para implementação do presente Programa, poderá o Ministro do Trabalho declarar a urgência da expropriação dos terrenos, nos termos do previsto e disposto no artigo 14.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, com a nova redacção do [Decreto-Lei n.º 32/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1982-600964), de 1 de Fevereiro.
+> Alterado pelo/a [Decreto-Lei n.º 151/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1986-229080), publicado em 1986-06-18.
+
+###### Artigo 3.º
+
+As despesas com obras e aquisição de bens e serviços destinados à execução deste Programa poderão, mediante despacho conjunto do Primeiro-Ministro e do Ministro do Trabalho, efectuar-se por ajuste directo, independentemente do seu valor.
+
+###### Artigo 4.º
+
+O disposto no presente diploma aplica-se às despesas já efectuadas, desde que as mesmas sejam susceptíveis de enquadramento neste Programa.
+
+###### Artigo 5.º
+
+Para implementação do presente Programa, poderá o Ministro do Trabalho declarar a urgência da expropriação dos terrenos, nos termos do previsto e disposto no artigo 14.º do [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro, com a nova redacção do [Decreto-Lei n.º 32/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1982-600964), de 1 de Fevereiro.
 
 Visto e aprovado em Conselho de Ministros de 24 de Junho de 1982. - Francisco José Pereira Pinto Balsemão.
 

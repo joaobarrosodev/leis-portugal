@@ -39,10 +39,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-10-16'
+version_history:
+  file: decreto-regulamentar-84-a-2007.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2007-12-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-10-16'
+    amending: pt:dre:449458:por
+    amending_title: Decreto Regulamentar n.º 13/2008; Decreto Regulamentar n.º 4/2010
+    changes:
+    - Altera Artigo 52.º
+    - Altera Artigo 17.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Revoga Artigo 36.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/decregul/84-a/2007/12/10/p/dre/pt/html
@@ -68,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T06:31:43Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 13/2008;
+    Decreto Regulamentar n.º 4/2010. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/2007/decreto-regulamentar-84-a-2007.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -399,6 +420,12 @@ e) Encontrarem-se certificadas nos domínios para os quais solicitam apoio finan
 
 9 - A revogação do estatuto de certificação da entidade, de acordo com o previsto na legislação nacional relativa à certificação de entidades formadoras, no decurso da execução de uma candidatura já aprovada não prejudica a elegibilidade das acções que a integram e que já se tenham iniciado à data dessa revogação.
 
+10 - As entidades beneficiárias em relação às quais tenha sido feita, nos termos do n.º 4, participação criminal podem, na pendência do processo e na ausência de dedução de acusação em processo crime, solicitar, em candidaturas diversas daquela onde foram apurados os factos que originaram a participação, um pagamento anual de reembolso, desde que precedido de acção de controlo que conclua pela inexistência de situações de irregularidade.
+
+11 - O pagamento referido no número anterior é efectuado com dispensa de prestação da respectiva garantia, ou com liberação da garantia anteriormente prestada, deduzindo-se qualquer quantia já recebida.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 4/2010](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2010-307840), publicado em 2010-10-15.
+
 ###### Artigo 18.º — Informação sobre a idoneidade e dívidas ao FSE das entidades beneficiárias
 
 1 - Para efeitos do disposto na alínea a) do n.º 1 do artigo 10.º do presente decreto regulamentar, o IGFSE, I. P., mantém actualizado o sistema de informação da idoneidade e dívidas ao FSE referente às entidades candidatas a apoios ou apoiadas pelo FSE, do qual constem, inseridos em codificação própria, os factos impeditivos ou condicionadores do acesso a apoios do FSE a que se referem a alínea d) do n.º 1 e os n.os 3 a 5 do artigo anterior.
@@ -671,7 +698,7 @@ e) Nas infra-estruturas.
 
 ###### Artigo 35.º — Custos elegíveis
 
-1 - Consideram-se custos elegíveis os que cumpram, cumulativamente, os seguintes requisitos:
+1 - Consideram-se custos elegíveis a título de custos reais de uma operação os que cumpram, cumulativamente, os seguintes requisitos:
 
 a) Os custos susceptíveis de financiamento nos termos da legislação comunitária e nacional relativa ao FSE;
 
@@ -683,31 +710,51 @@ d) Os custos incorridos e pagos no período de elegibilidade, conforme definido 
 
 e) Os custos que respeitem o disposto no despacho normativo referido no artigo 4.º que determina a sua natureza e limites máximos.
 
-2 - Consideram-se ainda elegíveis os custos indirectos declarados numa base fixa, em conformidade com a alínea b) do n.º 3 do artigo 11.º do Regulamento (CE) n.º [1081/2006](https://data.europa.eu/eli/reg/2006/1081/oj?locale=pt), do Parlamento Europeu e do Conselho, de 5 de Julho, para os efeitos previstos na alínea b) do n.º 1 do artigo seguinte, quando tal seja previsto em regulamento específico e nos termos definidos no despacho normativo.
+2 - Consideram-se ainda elegíveis os tipos de custos previstos na alínea b) do n.º 3 do artigo 11.º do Regulamento (CE) n.º 1081/2006, do Parlamento Europeu e do Conselho, de 5 de Julho, alterado pelo Regulamento (CE) n.º 396/2009, do Parlamento Europeu e do Conselho, de 6 de Maio, nos seguintes termos:
 
-3 - O período de elegibilidade das despesas está compreendido entre os 60 dias anteriores à data de apresentação da candidatura e a data final de apresentação do saldo, sem prejuízo do disposto no número seguinte.
+a) Os custos indirectos declarados numa base forfetária, até um máximo de 20 % dos custos directos de cada operação, quando tal seja previsto em regulamento específico, o qual fixa obrigatoriamente qual a taxa efectivamente aplicável relativamente à operação apoiada;
+
+b) Os custos decorrentes da aplicação de escalas normalizadas de custos unitários, nos termos que vierem a ser definidos nos regulamentos específicos em que for adoptada esta modalidade;
+
+c) Os montantes fixos destinados a cobrir a totalidade ou parte dos custos de uma operação, nos termos que vierem a ser definidos nos regulamentos específicos em que for adoptada esta modalidade, e desde que não excedam (euro) 50 000.
+
+3 - O período de elegibilidade das despesas está compreendido entre os 60 dias anteriores à data de apresentação da candidatura e a data final de apresentação do saldo, sem prejuízo do disposto nos n.os 4 e 5.
 
 4 - Na modalidade de acesso por contratação pública, o período de elegibilidade é fixado no programa do respectivo procedimento.
+
+5 - A elegibilidade das despesas associadas a candidaturas decorrentes de um pedido de alteração de um programa operacional pode ser fixada pela respectiva autoridade de gestão, tendo como limite a data de apresentação daquele pedido à Comissão Europeia.
+
+6 - A elegibilidade associada ao pagamento, designadamente no caso de ser efectuado através de cheque, é aferida pela relevância contabilística da respectiva prova legal, salvo se, em sede de verificação ou controlo, se concluir pelo protelamento intencional do pagamento efectivo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 4/2010](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2010-307840), publicado em 2010-10-15.
 
 ###### Artigo 36.º — Modelo de declaração dos custos elegíveis
 
 1 - O financiamento dos custos elegíveis de uma operação, concretizada através de candidatura, depende do modelo de declaração dos custos que for aplicado, de acordo com as seguintes opções:
 
-a) Base real;
+a) Custos reais, em conformidade com o n.º 1 do artigo anterior;
 
-b) Base forfetária.
+b) Base forfetária, em conformidade com a alínea a) do n.º 2 do artigo anterior;
+
+c) Custos unitários, em conformidade com a alínea b) do n.º 2 do artigo anterior;
+
+d) Montante fixo, em conformidade com a alínea c) do n.º 2 do artigo anterior.
 
 2 - Na opção de base real, prevista na alínea a) do n.º 1, todos os custos elegíveis, nos termos do n.º 1 do artigo anterior, são declarados e justificados de acordo com o disposto no artigo 31.º deste decreto regulamentar.
 
-3 - Na opção de base forfetária, prevista na alínea b) do n.º 1, os custos directos elegíveis, nos termos do n.º 1 do artigo anterior, são declarados com base em custos reais e justificados nos termos do artigo 31.º deste decreto regulamentar, sendo os custos indirectos elegíveis, nos termos do n.º 2 do artigo anterior, declarados numa base fixa, sem necessidade de a entidade beneficiária apresentar justificação, de acordo com as condições fixadas no despacho normativo ou em regulamentação específica e constantes da decisão de aprovação da candidatura.
+3 - Na opção de base forfetária, prevista na alínea b) do n.º 1, os custos directos são declarados com base em custos reais, nos termos do n.º 1 do artigo anterior, e justificados nos termos do artigo 31.º, ficando o montante relativo aos custos indirectos dispensado da apresentação de documentos comprovativos de despesa.
 
-4 - A opção de base forfetária é feita na fase de apresentação da candidatura e consta do termo de aceitação, após o que se torna irrevogável.
+4 - As condições de aplicação dos modelos de declaração de custos previstos nas alíneas b), c) e d) do n.º 1 devem constar do termo de aceitação correspondente, momento a partir do qual não é admissível a adopção de outra modalidade de financiamento.
 
-5 - Na opção de base forfetária, sempre que os custos directos sejam objecto de quaisquer reduções, em função da execução da candidatura ou determinadas em sede de auditoria e controlo, o montante dos custos indirectos é recalculado em conformidade.
+5 - No caso da alínea b) do n.º 1, sempre que os custos directos sejam objecto de quaisquer reduções, em função da execução da candidatura ou determinadas em sede de verificação ou controlo, o montante dos custos indirectos é recalculado em conformidade.
 
-6 - Na opção de base forfetária, a entidade beneficiária está dispensada de fornecer quaisquer elementos comprovativos relativamente aos custos indirectos declarados, não havendo consequentemente lugar a verificações pelos serviços de auditoria e controlo quanto aos mesmos, no âmbito do FSE.
+6 - Nos modelos de declaração de custos previstos nas alíneas c) e d) do n.º 1, a entidade beneficiária está dispensada de fornecer quaisquer elementos comprovativos, relativamente aos custos co-financiados nessas modalidades, incidindo as actividades de acompanhamento e controlo na verificação das quantidades declaradas.
 
-7 - Os regulamentos específicos devem expressamente identificar em que condições é admitida a utilização do modelo definido na alínea b) do n.º 1.
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 4/2010](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2010-307840), publicado em 2010-10-15.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 4/2010](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2010-307840), publicado em 2010-10-15.
 
 ### CAPÍTULO VII — Financiamento
 
@@ -847,13 +894,13 @@ n) Detecção, em sede de verificação pela autoridade de gestão ou em auditor
 
 ###### Artigo 44.º — Revogação da decisão
 
-Os fundamentos para a revogação da decisão de aprovação da candidatura são os seguintes:
+1 - Os fundamentos para a revogação da decisão de aprovação da candidatura são os seguintes:
 
 a) Não consecução dos objectivos essenciais previstos na candidatura nos termos constantes da decisão de aprovação;
 
 b) Não comunicação, ou não aceitação pela autoridade de gestão, das alterações aos elementos determinantes da decisão de aprovação, tais como a redução significativa da carga horária ou do número de formandos, que ponham em causa o mérito do projecto ou a sua razoabilidade financeira;
 
-c) Não apresentação atempada dos formulários relativos à execução e aos pedidos de saldo, salvo nos casos em que a fundamentação invocada para este incumprimento venha a ser aceite pela autoridade de gestão, mantendo-se, neste caso, como período elegível para consideração das despesas o definido como prazo de entrega do saldo, de acordo com o disposto no n.º 7 do artigo 40.º;
+c) Não apresentação atempada dos formulários relativos à execução e aos pedidos de saldo, salvo nos casos em que a fundamentação invocada para este incumprimento venha a ser aceite pela autoridade de gestão, observando-se o disposto no n.º 2 quando haja lugar à prorrogação do prazo de apresentação do saldo;
 
 d) Interrupção não autorizada do projecto por prazo superior a 90 dias;
 
@@ -871,11 +918,15 @@ j) Declarações inexactas, incompletas ou desconformes sobre o processo formati
 
 l) Inexistência do processo contabilístico ou técnico-pedagógico a que se referem, respectivamente, os artigos 31.º e 32.º
 
+2 - Nos casos em que a autoridade de gestão autorize a prorrogação do prazo de entrega do saldo para além do período previsto no n.º 7 do artigo 40.º, considera-se elegível a despesa realizada e paga até à nova data fixada, pela autoridade de gestão, para apresentação do referido saldo.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 4/2010](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2010-307840), publicado em 2010-10-15.
+
 ###### Artigo 45.º — Restituições
 
-1 - Quando se verifique que entidades beneficiárias receberam indevidamente ou não justificaram os apoios recebidos, há lugar a restituição dos mesmos, a promover por iniciativa das entidades ou das autoridades de gestão, através de compensação com créditos já apurados, no âmbito do respectivo PO.
+1 - Quando se verifique que as entidades beneficiárias receberam indevidamente ou não justificaram os apoios recebidos, há lugar à restituição dos mesmos, a promover por iniciativa dessas entidades ou das autoridades de gestão, através de compensação com montantes aprovados em sede de reembolsos intermédios ou de saldo, no âmbito do respectivo PO.
 
-2 - Na impossibilidade da compensação de créditos a que se refere o número anterior, as autoridades de gestão devem comunicar ao IGFSE, I. P., de imediato, os montantes a restituir, devendo este promover a restituição dos mesmos, através da compensação, sempre que possível, com créditos apurados no âmbito do FSE.
+2 - Na impossibilidade da compensação a que se refere o número anterior, as autoridades de gestão devem comunicar ao IGFSE, I. P., de imediato, os montantes a restituir, devendo este promover a restituição dos mesmos, através da compensação, sempre que possível, com créditos apurados no âmbito do FSE.
 
 3 - As entidades beneficiárias devem restituir os montantes em causa no prazo de 30 dias a contar da respectiva notificação efectuada pelo IGFSE, I. P., em execução da decisão da autoridade de gestão, após o que os mesmos são acrescidos de juros de mora à taxa em vigor para as dívidas fiscais ao Estado e aplicados da mesma forma.
 
@@ -896,6 +947,8 @@ l) Inexistência do processo contabilístico ou técnico-pedagógico a que se re
 11 - Sempre que as entidades obrigadas à restituição de qualquer quantia recebida no âmbito das comparticipações do FSE e do Estado Português não cumpram a sua obrigação no prazo estipulado, é a mesma realizada através de execução fiscal, a promover pelo IGFSE, I. P., nos termos da legislação aplicável.
 
 12 - Em sede de execução fiscal são subsidiariamente responsáveis pela restituição dos montantes em dívida os administradores, directores, gerentes e outras pessoas que exerçam, ainda que somente de facto, funções de administração ou gestão de pessoas colectivas e entes fiscalmente equiparados, nos termos previstos na lei geral tributária.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 4/2010](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2010-307840), publicado em 2010-10-15.
 
 ###### Artigo 46.º — Notificações
 
@@ -941,7 +994,11 @@ l) Inexistência do processo contabilístico ou técnico-pedagógico a que se re
 
 1 - No âmbito do período de programação 2007-2013, podem ser consideradas elegíveis as despesas efectivamente realizadas e pagas pelas entidades beneficiárias, antes da aprovação das candidaturas que as integram, desde que tenham ocorrido a partir de 1 de Janeiro de 2007, data de início da elegibilidade das despesas susceptíveis de ser financiadas pelos PO apoiados pelo FSE.
 
-2 - O disposto no número anterior aplica-se às candidaturas apresentadas à autoridade de gestão até 31 de Janeiro de 2008.
+2 - O disposto no número anterior aplica-se às candidaturas apresentadas à autoridade de gestão até 30 de Junho de 2008.
+
+3 - As candidaturas apresentadas até ao limite do prazo estabelecido no número anterior não estão sujeitas ao período inicial de elegibilidade das despesas previsto no n.º 3 do artigo 35.º do presente decreto regulamentar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 13/2008](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2008-449458), publicado em 2008-06-18.
 
 ###### Artigo 53.º — Processos pendentes
 

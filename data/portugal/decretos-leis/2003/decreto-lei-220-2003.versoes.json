@@ -1,0 +1,1117 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:500054:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2003-09-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9ff2eadf0d88e873",
+    "7342f7b1dcac3873",
+    "c342fa531d100358",
+    "9009f7f85d8b10f0",
+    "60c2eed8eb97b9f8",
+    "d9e6fa23951bf07a",
+    "326118c472213302",
+    "39ed63baff600217",
+    "f21c8d266df155df",
+    "e6012b51feb71d0b",
+    "a94c678f96fd2eeb",
+    "62aa5fe92d962b05",
+    "8f826681fc16ef53",
+    "b885b292b9c91d2e",
+    "1241e42bb7263f84",
+    "748084ae7ea3e1fe",
+    "fda0be855ba8f106",
+    "34e18774141afde4",
+    "8ec43c7f022548a2",
+    "a6c759fe46897ed6",
+    "a6aa57d3f54cec45",
+    "de63720a263b9502",
+    "16654d8d0b0717e1",
+    "46f44c7ff2366183",
+    "51f969f895933e7b",
+    "741e8ba31c99ee75",
+    "19a9a1a567323558",
+    "3b799c8d2c13b2c5",
+    "e2e31b67abf6ae85",
+    "8c0e470c3c29840b",
+    "cde80e2bd6f62c2f",
+    "26acc4820991ccd9",
+    "2658f22d7fb4ce0f",
+    "8827552efa296273",
+    "10295ca5e735050a",
+    "a105f8de210ff3cf",
+    "1eda9aeb933f0a91",
+    "7bbe492b018fbc0c",
+    "9700e09a6aa9ed47",
+    "4c0fa88b082e2c89",
+    "c0003d3955eb319c",
+    "781a50ffe24db3a6",
+    "9f5574dd463fb81a",
+    "08916f025e70e391",
+    "fbe36746ddc44c39",
+    "fa0dcf7277a247de",
+    "88c9ab2af0bafdef",
+    "7e59c073871f54cf",
+    "b22b1b940f37fb6b",
+    "daa51f5afc6d178b",
+    "acf452117e038d57",
+    "344c54b1971bcdc8",
+    "adec5a9f8c190e08",
+    "ca69b1370fdb7af1",
+    "f2c42092e2b4904d",
+    "0e0c98fb78a64d06",
+    "6aa841e7ac3a25de",
+    "fcdfd7e197258ec7",
+    "496c14506aa187fc",
+    "06e548a8ee4a37c7",
+    "6ac6f1c3b6a6f350",
+    "5a5af396f50a169b"
+   ]
+  },
+  {
+   "date": "2007-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520992:por",
+     "title": "Decreto-Lei n.º 157/2007",
+     "published": "2007-04-27",
+     "dre_path": "/dr/detalhe/decreto-lei/157-2007-520992"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 41.º",
+    "Revoga Artigo 42.º",
+    "Revoga Artigo 43.º"
+   ],
+   "fragments": [
+    "9ff2eadf0d88e873",
+    "7342f7b1dcac3873",
+    "56c968ed050cfe94",
+    "ccdfe9fc55f2140f",
+    "47d6da0e30fd782a",
+    "2b7028ab403e3de2",
+    "8c0eccf11e0ea227",
+    "9462158710937fe3",
+    "f21c8d266df155df",
+    "c641d75e5b2e2c19",
+    "a94c678f96fd2eeb",
+    "2677e3f39573f862",
+    "3a08a53a0846b366",
+    "b885b292b9c91d2e",
+    "fed53871be260c8e",
+    "c9b895de5d74d8f8",
+    "0257598b0988af2f",
+    "34e18774141afde4",
+    "4f44b5cc9643bdf4",
+    "92834e9945387a36",
+    "0f9231922bf7f55d",
+    "de63720a263b9502",
+    "43ff67a5b6e3485c",
+    "172c2128024b49fc",
+    "c828798afcb43c9b",
+    "741e8ba31c99ee75",
+    "aef55787dbad5dcd",
+    "4ddff8a58cffa2c1",
+    "e2e31b67abf6ae85",
+    "32e54b6f29d54d3a",
+    "be07c4e8ebd226be",
+    "e2eefe95bb89d63d",
+    "2658f22d7fb4ce0f",
+    "8827552efa296273",
+    "cb2a38ef3ab5613a",
+    "a105f8de210ff3cf",
+    "b4d72775b6e87c07",
+    "5e40f32a52984882",
+    "c8411f171ed067ad",
+    "4c0fa88b082e2c89",
+    "d9612a95b1322363",
+    "c8bb40cff21e213b",
+    "9f5574dd463fb81a",
+    "6a2721bf83a5692f",
+    "167b05241fd5f47e",
+    "fa0dcf7277a247de",
+    "4b2d6fd5f9e10ff7",
+    "36a0bf5c41d87d63",
+    "185725cd6cab5ec3",
+    "b56301e94621dafc",
+    "acf452117e038d57",
+    "2a476f7847de85ef",
+    "adec5a9f8c190e08",
+    "385ea7f4756d66a9",
+    "d6b642819bf13a65",
+    "0e0c98fb78a64d06",
+    "5912c5d9161c3ec2",
+    "fcdfd7e197258ec7",
+    "ddfb2d95f723b786",
+    "8047a851f6706dc0",
+    "0234c3b2c9ff0f5d",
+    "5a5af396f50a169b"
+   ]
+  }
+ ],
+ "fragments": {
+  "9ff2eadf0d88e873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de Setembro\n\nO Instituto de Meteorologia, herdeiro do Serviço Meteorológico Nacional criado em 29 Agosto de 1946 pelo [Decreto-Lei n.º 35836](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35836-1946-156982), assistiu ao longo da sua história a um progresso notável dos meios de observação, dos meios de monitorização climatológica, sísmica, geofísica e ambiental, acompanhado por uma utilização cada vez mais sistemática de metodologias científicas de análise, processamento e previsão.\n\nSe o Serviço Meteorológico Nacional foi criado tendo como necessidade básica a protecção meteorológica da navegação aérea, a actividade desenvolvida nos dias de hoje pelo Instituto de Meteorologia abarca praticamente todos os campos da actividade humana, repercutindo a sua actividade por exemplo no apoio às actividades agrícolas, à indústria, aos transportes, à gestão de recursos hídricos, à economia de energia, às pescas e à protecção do ambiente.\n\nPor outro lado, num mundo aceleradamente em mudança sujeito a alterações climáticas susceptíveis de influenciar a vida das pessoas e das organizações, é também de extrema importância o serviço público que o Instituto de Meteorologia presta em termos de protecção civil, planeamento estratégico e apoio à defesa nacional.\n\nTorna-se, pois, necessário proceder a uma reorganização funcional da estrutura orgânica do Instituto de Meteorologia, corrigindo os desequilíbrios existentes e acolhendo novas atribuições, com uma lógica de modernização do funcionamento da instituição e de optimização dos meios humanos e técnicos disponíveis.\n\nO presente diploma, em cumprimento do que dispõe a lei orgânica do Ministério da Ciência e do Ensino Superior, aprovada pelo [Decreto-Lei n.º 205/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/205-2002-657223), de 7 de Outubro, aprova a orgânica do Instituto de Meteorologia que tem por missão a prossecução das políticas nacionais nos domínios da meteorologia, da climatologia e da geofísica, sendo ainda a autoridade nacional nesses domínios, bem como para fins aeronáuticos e marítimos.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "7342f7b1dcac3873": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza e atribuições"
+  },
+  "c342fa531d100358": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nO Instituto de Meteorologia, designado abreviadamente por IM, é um laboratório do Estado, sendo dotado de personalidade jurídica e autonomia científica, técnica e administrativa."
+  },
+  "9009f7f85d8b10f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão\n\n1 - O Instituto de Meteorologia tem por missão a prossecução das políticas nacionais nos domínios da meteorologia, da climatologia e da geofísica.\n\n2 - O Instituto de Meteorologia é a autoridade nacional nos domínios da meteorologia, climatologia, geomagnetismo e sismologia.\n\n3 - O Instituto de Meteorologia é a autoridade meteorológica nacional para fins aeronáuticos e marítimos."
+  },
+  "60c2eed8eb97b9f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios orientadores\n\nO Instituto de Meteorologia está sujeito, no exercício da sua actividade, aos seguintes princípios:\n\na) Estabelecimento de ligações entre as suas actividades e os sectores relevantes da economia e da sociedade, podendo para o efeito celebrar protocolos ou acordos de cooperação e contratos de investigação com entidades públicas e privadas, nacionais, estrangeiras e internacionais;\n\nb) Realização de actividades de formação especializada, na sua área de competência, designadamente em colaboração com estabelecimentos de ensino superior;\n\nc) Estabelecimento de um planeamento por objectivos das actividades de investigação e desenvolvimento;\n\nd) Disponibilização de meios e de informação com vista a contribuir para a gestão sustentada do ambiente e recursos naturais."
+  },
+  "d9e6fa23951bf07a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - São atribuições do Instituto de Meteorologia:\n\na) Assegurar a vigilância meteorológica e elaborar e difundir regularmente informações e previsões do tempo para todos os fins, no território nacional;\n\nb) Assegurara a vigilância e o estudo do clima, da sua variabilidade, contribuindo para a análise dos efeitos decorrentes das alterações climáticas e para a definição das correspondentes medidas de adaptação;\n\nc) Assegurar a vigilância sísmica e elaborar e difundir informação adequada;\n\nd) Assegurar o funcionamento da rede de estações magnéticas fixas e móveis e elaborar e difundir informação adequada;\n\ne) Assegurar o funcionamento da rede de medição dos parâmetros atmosféricos e dar apoio nas áreas de competência à definição e exploração dos resultados das redes de monitorização da qualidade do ar;\n\nf) Fornecer às entidades nacionais com responsabilidade em matéria de protecção civil avisos especiais sobre situações meteorológicas e sismológicas adversas;\n\ng) Assistir a navegação aérea com a informação necessária à sua segurança e operações;\n\nh) Contribuir, nas suas áreas de competência, para a definição e implementação das políticas de prevenção e controlo do ambiente;\n\ni) Colaborar com os organismos responsáveis pela gestão dos recursos naturais, em particular os recursos hídricos;\n\nj) Disponibilizar a informação meteorológica necessária para fins de defesa nacional;\n\nl) Certificar as condições de ocorrência de fenómenos meteorológicos, geofísicos e da composição da atmosfera na sua esfera de acção;\n\nm) Apoiar as actividades económicas nacionais através da prestação de serviços nas áreas da sua competência;\n\nn) Realizar, coordenar e promover estudos de investigação científica e de desenvolvimento tecnológico, programados de acordo com os planos de investigação e desenvolvimento estabelecidos pela instituição ou solicitados por entidades públicas ou privadas, nacionais ou estrangeiras, sempre que tais solicitações se enquadrem no âmbito da actividade do Instituto de Meteorologia;\n\no) Promover a difusão de conhecimentos e de resultados obtidos em actividades de investigação e de desenvolvimento tecnológico, próprias ou alheias, bem como recolher, classificar, publicar e difundir bibliografia e outros elementos de informação científica e técnica;\n\np) Promover, coordenar e realizar estudos nos domínios da meteorologia, climatologia e geofísica;\n\nq) Contribuir para o aperfeiçoamento e especialização de quadros científicos e técnicos, nacionais ou estrangeiros, nomeadamente através da promoção e realização de acções de formação, e de colaboração prestada a instituições do ensino superior e de investigação, em especial facultando aos seus quadros os meios e o enquadramento necessários para a realização de trabalhos de investigação;\n\nr) Defender a propriedade intelectual dos resultados da actividade de ciência e tecnologia efectuada no Instituto de Meteorologia;\n\ns) Cooperar com instituições científicas e tecnológicas afins e participar em actividades de ciência e tecnologia, nacionais, estrangeiras e internacionais, designadamente com as dos países de língua portuguesa, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\nt) Promover a formação nas áreas da meteorologia, climatologia e geofísica e colaborar com outras entidades de formação nestes domínios.\n\n2 - No âmbito das suas atribuições, o Instituto de Meteorologia poderá ainda:\n\na) Conceder bolsas e estágios, subvencionados ou não, para a participação em projectos de investigação e desenvolvimento, a obtenção de especialização ou aperfeiçoamento e actualização de conhecimentos;\n\nb) Celebrar contratos e estabelecer convénios e protocolos com entidades nacionais ou estrangeiras, públicas ou privadas;\n\nc) Colaborar, nos termos da lei, com empresas, instituições, associações e fundações com objectos sociais afins ou complementares, mediante aprovação prévia do Ministro da Ciência e do Ensino Superior."
+  },
+  "326118c472213302": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito territorial\n\n1 - O Instituto de Meteorologia exerce as suas competências em todo o território nacional e no espaço aéreo e marítimo sujeito à jurisdição do Estado Português.\n\n2 - O Instituto de Meteorologia tem a sua sede em Lisboa, podendo instalar delegações ou serviços em qualquer parte do território nacional."
+  },
+  "39ed63baff600217": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Tutela e superintendência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tutela e superintendência\n\n1 - No desempenho da sua actividade, o Instituto de Meteorologia está sujeito à tutela do Ministro da Ciência e do Ensino Superior, a qual compreende:\n\na) Aprovar os projectos de orçamento e respectivas alterações, bem como os planos de actividades anuais e plurianuais;\n\nb) Aprovar as contas anuais;\n\nc) Aprovar as tabelas de preços a cobrar pelos serviços prestados;\n\nd) Autorizar a aquisição, oneração ou alienação de bens imóveis;\n\ne) Autorizar a instalação de delegações ou serviços territorialmente desconcentrados;\n\nf) Exercer o poder de fiscalização sobre a organização e funcionamento do Instituto de Meteorologia;\n\ng) Exercer a acção disciplinar sobre os titulares dos órgãos do Instituto de Meteorologia;\n\nh) Apreciar e decidir os recursos interpostos junto do Ministro da Ciência e do Ensino Superior nos termos da lei.\n\n2 - O Ministro da Ciência e do Ensino Superior superintende na actividade do Instituto de Meteorologia, determinando o enquadramento geral em que esta se deve desenvolver e as linhas prioritárias de actuação."
+  },
+  "f21c8d266df155df": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Estrutura orgânica"
+  },
+  "e6012b51feb71d0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos\n\nSão órgãos do Instituto de Meteorologia:\n\na) O presidente;\n\nb) O conselho de orientação;\n\nc) O conselho científico;\n\nd) A unidade de acompanhamento;\n\ne) A comissão paritária;\n\nf) O conselho administrativo."
+  },
+  "a94c678f96fd2eeb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Presidente"
+  },
+  "62aa5fe92d962b05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Presidente\n\n1 - O Instituto de Meteorologia é dirigido pelo presidente, a quem compete coordenar e dirigir todos os serviços que o integram, bem como executar as funções que lhe sejam superiormente determinadas, sendo coadjuvado no exercício das suas funções por dois vice-presidentes.\n\n2 - O presidente é recrutado de entre individualidades de reconhecido mérito, com currículo relevante nos domínios de actuação do Instituto de Meteorologia.\n\n3 - O presidente e os vice-presidentes são equiparados, para todos os efeitos legais, respectivamente, a director-geral e subdirector-geral.\n\n4 - O presidente é substituído nas suas ausências e impedimentos pelo vice-presidente por si designado."
+  },
+  "8f826681fc16ef53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências\n\nCompete ao presidente, designadamente:\n\na) Apresentar ao Ministro da Ciência e do Ensino Superior todos os assuntos que devam ser submetidos à sua apreciação ou aprovação, nos termos da lei;\n\nb) Superintender nas relações internacionais do Instituto de Meteorologia e assegurar a sua representação nas comissões, grupos de trabalho ou actividades de organismos internacionais, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\nc) Assegurar a representação de Portugal junto da Organização Meteorológica Mundial;\n\nd) Representar o Instituto de Meteorologia em juízo e fora dele;\n\ne) Adoptar as medidas indispensáveis para o cumprimento dos objectivos definidos nos programas de actividades e orçamentos;\n\nf) Submeter à aprovação do Ministro da Ciência e do Ensino Superior a colaboração do Instituto de Meteorologia com empresas, instituições, associações e fundações com objectos sociais afins ou complementares;\n\ng) Submeter à aprovação do Ministro da Ciência e do Ensino Superior a tabela geral dos preços dos serviços prestados;\n\nh) Praticar todos os actos necessários à prossecução das atribuições do Instituto de Meteorologia que não sejam da competência de outros órgãos;\n\ni) Exercer as competências que lhe sejam delegadas."
+  },
+  "b885b292b9c91d2e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Conselho de orientação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Conselho de orientação"
+  },
+  "1241e42bb7263f84": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Composição\n\n1 - O conselho de orientação tem a seguinte composição:\n\na) Dois representantes do Ministro da Ciência e do Ensino Superior, sendo um deles, que presidirá, designado pelo Ministro e outro designado pelo Conselho de Reitores das Universidades Portuguesas;\n\nb) Um representante do Ministro da Defesa Nacional;\n\nc) Um representante do Ministro dos Negócios Estrangeiros e das Comunidades Portuguesas;\n\nd) Um representante do Ministro da Administração Interna;\n\ne) Um representante do Ministro da Economia;\n\nf) Um representante do Ministro da Agricultura, Desenvolvimento Rural e Pescas;\n\ng) Um representante do Ministro das Obras Públicas, Transportes e Habitação;\n\nh) Um representante do Ministro das Cidades, Ordenamento do Território e Ambiente.\n\n2 - O mandato dos membros do conselho de orientação tem a duração de três anos, renováveis por iguais períodos, mantendo-se o exercício de funções até à efectiva substituição.\n\n3 - Os membros do conselho de orientação referidos nas alíneas b) a h) são nomeados pelo respectivo ministro, a solicitação do Ministro da Ciência e do Ensino Superior.\n\n4 - Nas reuniões do conselho de orientação participam ainda o presidente e os vice-presidentes do Instituto de Meteorologia, sem direito a voto.\n\n5 - O presidente do conselho de orientação poderá convidar a participar nas suas reuniões, sem direito a voto, outras individualidades cuja presença considere conveniente em razão dos assuntos a tratar."
+  },
+  "748084ae7ea3e1fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências\n\nAo conselho de orientação compete avaliar e acompanhar a actividade do Instituto de Meteorologia, aconselhando o seu presidente na concepção, enquadramento e execução das acções necessárias à concretização das suas atribuições, produzindo, para o efeito, os pareceres e recomendações que entenda formular ou que lhe forem solicitados."
+  },
+  "fda0be855ba8f106": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Funcionamento\n\n1 - O conselho de orientação reúne ordinariamente uma vez por semestre e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou a solicitação de um terço dos seus membros.\n\n2 - As deliberações do conselho de orientação são tomadas por maioria de votos dos membros presentes, tendo o presidente voto de qualidade.\n\n3 - As normas de funcionamento constam de regimento interno a elaborar pelo próprio conselho."
+  },
+  "34e18774141afde4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Conselho científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Conselho científico"
+  },
+  "8ec43c7f022548a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição\n\n1 - O conselho científico é constituído por todos os que, a qualquer título, incluindo o de bolseiro, e quer sejam cidadãos nacionais ou estrangeiros, exerçam actividade no Instituto de Meteorologia, desde que estejam habilitados com o grau de doutor ou equivalente, tenham obtido aprovação nas provas a que se refere o n.º 2 do artigo 17.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629), de 15 de Outubro, ou, ainda os que, não possuindo qualquer dessas qualificações, integrem a carreira de investigação científica em categoria igual ou superior à de investigador auxiliar ou a carreira docente universitária em categoria igual ou superior à de professor auxiliar.\n\n2 - O presidente do conselho científico é eleito directamente de entre os seus membros, por escrutínio secreto e maioria simples dos votos expressos."
+  },
+  "a6c759fe46897ed6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências\n\n1 - O conselho científico é o órgão responsável pela apreciação e acompanhamento da actividade de investigação científica e desenvolvimento tecnológico do Instituto de Meteorologia.\n\n2 - Compete ao conselho científico, em especial:\n\na) Emitir parecer sobre o orçamento, planos e relatório anuais ou plurianuais de actividades do Instituto de Meteorologia, nomeadamente no que respeita às actividades de investigação científica e de desenvolvimento tecnológico;\n\nb) Emitir parecer sobre a definição das áreas científicas do Instituto de Meteorologia;\n\nc) Colaborar com outras instituições em todos os assuntos relacionados com a avaliação e formação de pessoal de investigação;\n\nd) Pronunciar-se sobre todas as questões que lhe forem submetidas pelo presidente;\n\ne) Elaborar o seu regulamento interno."
+  },
+  "a6aa57d3f54cec45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Funcionamento\n\n1 - O mandato do presidente do conselho científico tem a duração de três anos.\n\n2 - As deliberações do conselho científico são tomadas por maioria de votos dos membros presentes, tendo o presidente voto de qualidade.\n\n3 - O conselho científico funciona em plenário e em secções, nos termos a fixar no regulamento interno.\n\n4 - A participação no conselho científico não é remunerada."
+  },
+  "de63720a263b9502": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Unidade de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Unidade de acompanhamento"
+  },
+  "16654d8d0b0717e1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Composição\n\nA unidade de acompanhamento é constituída por cinco especialistas e individualidades exteriores ao Instituto de Meteorologia, a quem seja reconhecida competência na área da sua actividade, devendo, sempre que possível, pelo menos dois deles exercer a sua actividade em instituições não nacionais, nomeados pelo Ministro da Ciência e do Ensino Superior, sob proposta do presidente."
+  },
+  "46f44c7ff2366183": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências\n\n1 - A unidade de acompanhamento exerce funções de avaliação e de aconselhamento interno, de acordo com os parâmetros definidos pelo presidente do Instituto de Meteorologia.\n\n2 - Compete, em especial, à unidade de acompanhamento:\n\na) Analisar regularmente e emitir parecer sobre o funcionamento do Instituto de Meteorologia;\n\nb) Emitir parecer sobre o plano e relatório anuais ou plurianuais de actividades do Instituto de Meteorologia;\n\nc) Emitir parecer sobre todas as questões que lhe sejam submetidas pelo presidente."
+  },
+  "51f969f895933e7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Funcionamento\n\n1 - Os mandatos dos membros da unidade de acompanhamento têm a duração de três anos, renováveis por iguais períodos.\n\n2 - A participação nas reuniões da unidade de acompanhamento confere aos seus membros o direito ao abono das despesas de transporte e ajudas de custo correspondentes ao escalão mais elevado da tabela fixada para o funcionalismo público."
+  },
+  "741e8ba31c99ee75": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO V — Comissão paritária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO V — Comissão paritária"
+  },
+  "19a9a1a567323558": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Composição\n\n1 - A comissão paritária tem a seguinte composição:\n\na) Um representante dos trabalhadores do Instituto de Meteorologia;\n\nb) Um representante do pessoal da carreira de investigação científica;\n\nc) Dois membros designados pelo presidente.\n\n2 - Os membros da comissão paritária são designados por um ano."
+  },
+  "3b799c8d2c13b2c5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências\n\n1 - A comissão paritária é órgão consultivo do Instituto de Meteorologia.\n\n2 - Compete à comissão paritária:\n\na) Pronunciar-se sobre o plano e o relatório anuais e plurianuais de actividades do Instituto de Meteorologia;\n\nb) Pronunciar-se sobre questões laborais, nomeadamente de organização de trabalho e de formação profissional."
+  },
+  "e2e31b67abf6ae85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO VI — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO VI — Conselho administrativo"
+  },
+  "8c0e470c3c29840b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Composição\n\nO conselho administrativo tem a seguinte composição:\n\na) O presidente, que preside;\n\nb) Os vice-presidentes;\n\nc) O chefe da Divisão de Planeamento e Gestão Financeira."
+  },
+  "cde80e2bd6f62c2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competências\n\nO conselho administrativo é o órgão deliberativo em matéria de gestão financeira, ao qual compete:\n\na) Promover a elaboração do orçamento do Instituto de Meteorologia e acompanhar a sua execução;\n\nb) Promover a elaboração dos planos financeiros anuais e plurianuais;\n\nc) Promover a elaboração e aprovar a conta de gerência a remeter ao Tribunal de Contas;\n\nd) Assegurar a arrecadação de receitas;\n\ne) Verificar e controlar a legalidade da realização das despesas e autorizar o respectivo pagamento;\n\nf) Proceder à verificação dos fundos em cofre e em depósito e fiscalizar a escrituração da contabilidade;\n\ng) Fixar o montante do fundo de maneio;\n\nh) Fixar o preço dos produtos e serviços prestados pelo Instituto de Meteorologia;\n\ni) Pronunciar-se sobre assuntos da sua competência que lhe sejam submetidos pelo presidente."
+  },
+  "26acc4820991ccd9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Funcionamento\n\n1 - O conselho administrativo reúne ordinariamente duas vezes por mês e extraordinariamente sempre que o presidente o convocar.\n\n2 - O presidente tem voto de qualidade.\n\n3 - As reuniões são secretariadas por um funcionário, sem direito a voto, designado pelo presidente.\n\n4 - O conselho administrativo pode delegar, total ou parcialmente, as competências para a realização e pagamento das despesas e arrecadação das receitas no presidente ou nos vice-presidentes.\n\n5 - O Instituto de Meteorologia obriga-se mediante a assinatura de dois membros do conselho administrativo.\n\n6 - Pode participar nas reuniões do conselho administrativo, sem direito a voto, qualquer funcionário do Instituto de Meteorologia, sempre que o presidente o entenda conveniente, em função dos assuntos constantes da respectiva ordem de trabalhos."
+  },
+  "2658f22d7fb4ce0f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Estrutura organizativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Estrutura organizativa"
+  },
+  "8827552efa296273": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Estrutura geral"
+  },
+  "10295ca5e735050a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Estrutura geral e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Estrutura geral e funcionamento\n\nPara a prossecução das suas atribuições, o Instituto de Meteorologia dispõe de serviços centrais e de serviços desconcentrados."
+  },
+  "a105f8de210ff3cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Serviços centrais"
+  },
+  "1eda9aeb933f0a91": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Serviços centrais\n\n1 - Os serviços centrais do Instituto de Meteorologia compreendem departamentos de observação, vigilância e acompanhamento meteorológico, sismológico e climático, bem como serviços de administração e de apoio à gestão.\n\n2 - São departamentos de observação, vigilância e acompanhamento meteorológico, sismológico e climático:\n\na) O Departamento de Observação e Vigilância Meteorológica;\n\nb) O Departamento de Acompanhamento do Clima e das Alterações Climáticas;\n\nc) O Departamento de Observação e Vigilância Sismológica e Geofísica.\n\n3 - São serviços de administração e de apoio à gestão:\n\na) A Divisão de Planeamento e Gestão Financeira;\n\nb) A Divisão de Recursos Humanos;\n\nc) A Divisão de Gestão do Equipamento;\n\nd) A Divisão de Relações Externas;\n\ne) A Divisão de Gestão Comercial."
+  },
+  "7bbe492b018fbc0c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Departamento de Observação e Vigilância Meteorológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Departamento de Observação e Vigilância Meteorológica\n\nO Departamento de Observação e Vigilância Meteorológica compreende os seguintes Centros:\n\na) Centro de Observação Meteorológica;\n\nb) Centro de Análise e Previsão do Tempo;\n\nc) Centro de Meteorologia Aeronáutica;\n\nd) Centro de Observação Remota;\n\ne) Centro de Modelação Numérica, Marítima, Planeamento e Arquivo."
+  },
+  "9700e09a6aa9ed47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Estatuto dos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Estatuto dos dirigentes\n\nOs directores dos departamentos e os chefes de centro são equiparados, respectivamente, a director de serviços e a chefe de divisão."
+  },
+  "4c0fa88b082e2c89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Serviços desconcentrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Serviços desconcentrados"
+  },
+  "c0003d3955eb319c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Serviços desconcentrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Serviços desconcentrados\n\n1 - São serviços desconcentrados do Instituto de Meteorologia:\n\na) Delegação Regional dos Açores;\n\nb) Delegação Regional da Madeira.\n\n2 - A nomeação dos delegados regionais dos Açores e da Madeira é feita pelo Ministro da Ciência e do Ensino Superior, sob proposta do presidente do Instituto de Meteorologia, depois de ouvidos os respectivos Governos Regionais.\n\n3 - Os delegados regionais são equiparados a subdirector-geral."
+  },
+  "781a50ffe24db3a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Competências e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competências e funcionamento\n\nAs competências e funcionamento dos departamentos, dos serviços e das delegações regionais do Instituto de Meteorologia serão aprovados por decreto regulamentar, no prazo de 120 dias após a entrada em vigor do presente diploma."
+  },
+  "9f5574dd463fb81a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Unidades funcionais e estruturas de projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Unidades funcionais e estruturas de projecto"
+  },
+  "08916f025e70e391": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Outras unidades funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Outras unidades funcionais\n\n1 - O Instituto de Meteorologia pode ainda constituir, por despacho do Ministro da Ciência e do Ensino Superior, sob proposta do presidente:\n\na) Núcleos regionais;\n\nb) Núcleos de apoio à vigilância meteorológica e sísmica;\n\nc) Observatórios;\n\nd) Estações.\n\n2 - As unidades funcionais referidas no número anterior são coordenadas por técnicos do quadro de pessoal do Instituto de Meteorologia designados pelo presidente."
+  },
+  "fbe36746ddc44c39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Estruturas de projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Estruturas de projecto\n\n1 - O Instituto de Meteorologia funciona também por estruturas de projecto interdepartamentais com o objectivo de desenvolvimento de actividades interdisciplinares, sob a forma de projectos de duração definida, utilizando os recursos humanos e materiais distribuídos aos diversos departamentos e serviços.\n\n2 - Pode o Instituto de Meteorologia, em função dos objectivos do projecto, proceder à requisição de docentes de instituições de ensino superior públicas com vista à coordenação das equipas de projecto."
+  },
+  "fa0dcf7277a247de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Gestão financeira e patrimonial"
+  },
+  "88c9ab2af0bafdef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Gestão financeira e patrimonial\n\n1 - A gestão do Instituto de Meteorologia realizar-se-á de forma a assegurar a prossecução das suas atribuições e o equilíbrio financeiro, com respeito pelos seguintes princípios:\n\na) Fixação de preços pelos serviços a prestar que permita a efectiva cobertura do custo real;\n\nb) Adopção de uma gestão previsional por objectivos;\n\nc) Primazia pela realização de investigação sob contrato;\n\nd) Subordinação da realização de actividades de investigação básica aos meios financeiros disponíveis e, nomeadamente, ao grau de risco e provável taxa de rendibilidade.\n\n2 - Para concretização dos princípios enunciados no número anterior, o Instituto de Meteorologia utiliza os seguintes instrumentos de avaliação e controlo:\n\na) Planos de actividades anuais e plurianuais com definição de objectivos e respectivos planos de acção, devidamente quantificados;\n\nb) Orçamento anual;\n\nc) Relatório anual de actividades;\n\nd) Conta de gerência e relatórios financeiros;\n\ne) Balanço social."
+  },
+  "7e59c073871f54cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Receitas\n\n1 - Constituem receitas do Instituto de Meteorologia, para além das dotações que lhe são atribuídas pelo Orçamento do Estado:\n\na) As quantias que lhe sejam devidas em resultado do exercício da sua actividade, nomeadamente as cobradas pelos serviços prestados pela protecção meteorológica à navegação aérea ou outros;\n\nb) O valor a cobrar pela emissão de certidões e outros valores de natureza pecuniária que, por lei, lhe sejam consignados;\n\nc) O produto da venda de edições, publicações ou outro material por si editado;\n\nd) As verbas devidas pela outorga de contratos de prestação de serviços, nomeadamente os resultantes da realização de estudos e outros trabalhos de carácter técnico e científico;\n\ne) As subvenções, comparticipações, quotizações, doações e legados concedidos por quaisquer entidades, públicas ou privadas, dependendo a respectiva aceitação de autorização do Ministro das Finanças;\n\nf) Quaisquer outras receitas não compreendidas nas alíneas anteriores que lhe sejam atribuídas por lei, acto ou contrato;\n\ng) Remunerações de depósitos e outras aplicações financeiras.\n\n2 - Por portaria conjunta do Ministro das Finanças e do Ministro da Ciência e do Ensino Superior, serão consignadas ao Instituto de Meteorologia, nos termos do artigo 5.º da [Lei n.º 8/90](https://diariodarepublica.pt/dr/detalhe/lei/8-1990-332895), de 20 de Fevereiro, as receitas próprias enumeradas no número anterior, as quais serão afectas ao pagamento das despesas do Instituto de Meteorologia."
+  },
+  "b22b1b940f37fb6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Despesas\n\nConstituem despesas do Instituto de Meteorologia:\n\na) Os encargos com o respectivo funcionamento;\n\nb) Os custos de aquisição, manutenção e conservação de bens ou serviços que tenha que utilizar."
+  },
+  "daa51f5afc6d178b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Património\n\nO património do Instituto de Meteorologia é constituído pela universalidade dos seus bens, direitos e obrigações."
+  },
+  "acf452117e038d57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Pessoal"
+  },
+  "344c54b1971bcdc8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Quadro de pessoal\n\n1 - O quadro de pessoal dirigente do Instituto de Meteorologia é o constante do mapa anexo ao presente diploma, do qual faz parte integrante.\n\n2 - O quadro de pessoal do Instituto de Meteorologia, incluindo o do pessoal da carreira de investigação científica, é aprovado por portaria conjunta dos Ministros das Finanças e da Ciência e do Ensino Superior."
+  },
+  "adec5a9f8c190e08": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Disposições diversas"
+  },
+  "ca69b1370fdb7af1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Confidencialidade\n\nOs membros e as individualidades não pertencentes ao Instituto de Meteorologia que participem nos seus órgãos estão sujeitos a compromisso de confidencialidade e dever de reserva no que respeita às informações que lhes sejam prestadas ou a que tenham acesso no âmbito dessa participação."
+  },
+  "f2c42092e2b4904d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Dever especial de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Dever especial de sigilo\n\n1 - As actividades de ciência e tecnologia provenientes de contratos subscritos pelo Instituto de Meteorologia bem como os seus resultados estão sujeitos a um dever especial de sigilo.\n\n2 - O pessoal do Instituto de Meteorologia que participa nas actividades referidas no número anterior só as pode divulgar, bem como os seus resultados, mediante prévia autorização do presidente, sem prejuízo do dever geral de informação para efeitos de fiscalização, bem como de acesso a informações com interesse fiscal."
+  },
+  "0e0c98fb78a64d06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Disposições finais e transitórias"
+  },
+  "6aa841e7ac3a25de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Normas transitórias de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Normas transitórias de funcionamento\n\n1 - Até à entrada em vigor do decreto regulamentar e portaria referidos, respectivamente nos artigos 29.º e 36.º, mantém-se a organização interna decorrente do [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), de 24 de Maio, bem como o quadro de pessoal actualmente em vigor.\n\n2 - Quando o Instituto de Meteorologia adquirir autonomia administrativa e financeira, passa a dispor de comissão de fiscalização, nos termos do artigo 25.º do [Decreto-Lei n.º 125/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-1999-534998), de 20 de Abril."
+  },
+  "fcdfd7e197258ec7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º — Subsídio de residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Subsídio de residência\n\n1 - O subsídio de residência previsto no artigo 89.º do [Decreto-Lei n.º 633/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1976-430865), de 28 de Julho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), de 9 de Dezembro, é unicamente aplicável aos funcionários do Instituto de Meteorologia que, por conveniência de serviço:\n\na) Sejam colocados nas Regiões Autónomas dos Açores e da Madeira e trabalhem e residam no continente;\n\nb) Sejam colocados no continente e trabalhem e residam numa das Regiões Autónomas;\n\nc) Sejam colocados numa das Regiões Autónomas e trabalhem e residam na outra das Regiões Autónomas.\n\n2 - O disposto no número anterior tem o valor de lei interpretativa."
+  },
+  "496c14506aa187fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Transição de pessoal\n\nO pessoal pertencente ao quadro do ex-Instituto Nacional de Meteorologia e Geofísica transita para o quadro de pessoal a que se refere o n.º 2 do artigo 36.º do presente diploma, nos termos do disposto no [Decreto-Lei n.º 193/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-2002-647501), de 25 de Setembro."
+  },
+  "06e548a8ee4a37c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Norma revogatória\n\nSem prejuízo do disposto no artigo 39.º, são revogadas as disposições do [Decreto-Lei n.º 192/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1993-283524), de 24 de Maio, bem como as disposições legais e regulamentares que contrariem o presente diploma, mantendo-se, contudo, em vigor o artigo 89.º do [Decreto-Lei n.º 633/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1976-430865), de 28 de Julho, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 335/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1981-567458), de 9 de Dezembro, e a clarificação constante do artigo 28.º do presente diploma."
+  },
+  "6ac6f1c3b6a6f350": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 26 de Junho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Pedro Lynce de Faria - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.\n\nPromulgado em 1 de Setembro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 8 de Setembro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "5a5af396f50a169b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — Quadro de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — Quadro de pessoal dirigente\n\n(artigo 36.º, n.º 1)\n\n[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2003/09/218a00/61306137.pdf)"
+  },
+  "56c968ed050cfe94": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "ccdfe9fc55f2140f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 2.º — Missão\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "47d6da0e30fd782a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Princípios orientadores",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 3.º — Princípios orientadores\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "2b7028ab403e3de2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "8c0eccf11e0ea227": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Âmbito territorial",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 5.º — Âmbito territorial\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "9462158710937fe3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Tutela e superintendência",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 6.º — Tutela e superintendência\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "c641d75e5b2e2c19": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 7.º — Órgãos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "2677e3f39573f862": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Presidente",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 8.º — Presidente\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "3a08a53a0846b366": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 9.º — Competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "fed53871be260c8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Composição",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 10.º — Composição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "c9b895de5d74d8f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 11.º — Competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "0257598b0988af2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Funcionamento",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 12.º — Funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "4f44b5cc9643bdf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Composição",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 13.º — Composição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "92834e9945387a36": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 14.º — Competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "0f9231922bf7f55d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Funcionamento",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 15.º — Funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "43ff67a5b6e3485c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Composição",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 16.º — Composição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "172c2128024b49fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Competências",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 17.º — Competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "c828798afcb43c9b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Funcionamento",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 18.º — Funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "aef55787dbad5dcd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Composição",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 19.º — Composição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "4ddff8a58cffa2c1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Competências",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 20.º — Competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "32e54b6f29d54d3a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Composição",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 21.º — Composição\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "be07c4e8ebd226be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Competências",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 22.º — Competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "e2eefe95bb89d63d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Funcionamento",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 23.º — Funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "cb2a38ef3ab5613a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Estrutura geral e funcionamento",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 24.º — Estrutura geral e funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "b4d72775b6e87c07": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Serviços centrais",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 25.º — Serviços centrais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "5e40f32a52984882": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Departamento de Observação e Vigilância Meteorológica",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 26.º — Departamento de Observação e Vigilância Meteorológica\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "c8411f171ed067ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Estatuto dos dirigentes",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 27.º — Estatuto dos dirigentes\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "d9612a95b1322363": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Serviços desconcentrados",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 28.º — Serviços desconcentrados\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "c8bb40cff21e213b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Competências e funcionamento",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 29.º — Competências e funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "6a2721bf83a5692f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Outras unidades funcionais",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 30.º — Outras unidades funcionais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "167b05241fd5f47e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Estruturas de projecto",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 31.º — Estruturas de projecto\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "4b2d6fd5f9e10ff7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Gestão financeira e patrimonial",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 32.º — Gestão financeira e patrimonial\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "36a0bf5c41d87d63": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Receitas",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 33.º — Receitas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "185725cd6cab5ec3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Despesas",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 34.º — Despesas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "b56301e94621dafc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Património",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 35.º — Património\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "2a476f7847de85ef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º — Quadro de pessoal",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 36.º — Quadro de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "385ea7f4756d66a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º — Confidencialidade",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 37.º — Confidencialidade\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "d6b642819bf13a65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º — Dever especial de sigilo",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 38.º — Dever especial de sigilo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "5912c5d9161c3ec2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º — Normas transitórias de funcionamento",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 39.º — Normas transitórias de funcionamento\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "ddfb2d95f723b786": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º — Transição de pessoal",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 41.º — Transição de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "8047a851f6706dc0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º — Norma revogatória",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 42.º — Norma revogatória\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+  },
+  "0234c3b2c9ff0f5d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º — Entrada em vigor",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27."
+   ],
+   "markdown": "###### Artigo 43.º — Entrada em vigor\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 157/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2007-520992), publicado em 2007-04-27.\n\nVisto e aprovado em Conselho de Ministros de 26 de Junho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António Manuel de Mendonça Martins da Cruz - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Pedro Lynce de Faria - António Pedro de Nobre Carmona Rodrigues - Amílcar Augusto Contel Martins Theias.\n\nPromulgado em 1 de Setembro de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 8 de Setembro de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1965-09-15'
+version_history:
+  file: decreto-lei-45951.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-10-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1965-09-15'
+    amending: pt:dre:509817:por
+    amending_title: Decreto-Lei n.º 46537
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:50:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 46537. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-45951.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -102,11 +117,21 @@ Considerando que estes serviços vêm sendo desempenhados a título precário po
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O quadro orgânico do pessoal civil da Escola Prática de Engenharia é o constante do mapa anexo ao presente decreto-lei.
+###### Artigo 1.º
 
-Art. 2.º O pessoal civil, a que se refere o artigo anterior, será provido nos respectivos cargos, desde que satisfaça às condições legais estabelecidas, por proposta fundamentada do comandante da Escola, aprovada pelo Ministro do Exército.
+O quadro orgânico do pessoal civil da Escola Prática de Engenharia é o constante do mapa anexo ao presente decreto-lei.
 
-Art. 3.º O pessoal que for mantido ao serviço, transitando para o novo quadro orgânico, continuará a perceber os vencimentos pelas disponibilidades das verbas descritas no orçamento ordinário do Ministério do Exército para 1964, até à abertura do competente crédito reforçando a dotação.
+###### Artigo 2.º
+
+A admissão e demissão do pessoal civil contratado serão feitas pelo Ministro do Exército, mediante proposta da Escola Prática de Engenharia, nos termos da legislação em vigor.
+
+O pessoal civil assalariado é admitido e despedido pelo comandante da Escola Prática de Engenharia, cumpridas as disposições legais em vigor e depois de ouvida a Direcção do Serviço de Pessoal, no que respeita à admissão do pessoal civil assalariado permanente.
+
+> Alterado pelo/a [Decreto-Lei n.º 46537](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46537-1965-509817), publicado em 1965-09-15.
+
+###### Artigo 3.º
+
+O pessoal que for mantido ao serviço, transitando para o novo quadro orgânico, continuará a perceber os vencimentos pelas disponibilidades das verbas descritas no orçamento ordinário do Ministério do Exército para 1964, até à abertura do competente crédito reforçando a dotação.
 
 Publique-se e cumpra-se como nele se contém.
 

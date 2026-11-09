@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-11-05'
+version_history:
+  file: decreto-45664.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-04-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-11-05'
+    amending: pt:dre:517412:por
+    amending_title: Decreto n.º 46068; Decreto-Lei n.º 49356
+    changes:
+    - Altera Artigo 99.º
+    - Altera Artigo 143.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:40:14Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto n.º 46068; Decreto-Lei n.º
+    49356. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos/1964/decreto-45664.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -229,7 +245,9 @@ REGULAMENTO DO HOSPITAL DO ULTRAMAR
 
 ### CAPÍTULO I — Das atribuições do Hospital
 
-Artigo 1.º O Hospital do Ultramar é um organismo dependente do Ministério do Ultramar, dotado de autonomia administrativa nos termos do [Decreto-Lei n.º 28326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28326-1937-443530), de 27 de Dezembro de 1937, e sujeito à superintendência exclusiva da Direcção-Geral de Saúde e Assistência do Ultramar. São suas atribuições:
+###### Artigo 1.º
+
+O Hospital do Ultramar é um organismo dependente do Ministério do Ultramar, dotado de autonomia administrativa nos termos do [Decreto-Lei n.º 28326](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28326-1937-443530), de 27 de Dezembro de 1937, e sujeito à superintendência exclusiva da Direcção-Geral de Saúde e Assistência do Ultramar. São suas atribuições:
 
 a) Prestar assistência clínica aos portadores de doenças adquiridas no ultramar, nomeadamente doenças tropicais;
 
@@ -249,11 +267,15 @@ g) Preparar e aperfeiçoar o pessoal médico e auxiliar dos quadros de saúde e 
 
 #### SECÇÃO I — Do director e do conselho técnico
 
-Art. 2.º O director tem a seu cargo a direcção técnica e a fiscalização e coordenação dos diversos serviços, por forma a conseguir-se o melhor rendimento e eficiência em todos os sectores do Hospital.
+###### Artigo 2.º
+
+O director tem a seu cargo a direcção técnica e a fiscalização e coordenação dos diversos serviços, por forma a conseguir-se o melhor rendimento e eficiência em todos os sectores do Hospital.
 
 Será coadjuvado pelo subdirector, que o substituirá em todas as suas faltas e impedimentos, com excepção da de presidente da Junta de Saúde do Ultramar, da qual não fará parte como vogal.
 
-Art. 3.º Ao director compete:
+###### Artigo 3.º
+
+Ao director compete:
 
 1.º Executar e fazer executar as disposições deste regulamento e as ordens que lhe forem transmitidas pela Direcção-Geral de Saúde e Assistência do Ultramar;
 
@@ -293,27 +315,43 @@ Art. 3.º Ao director compete:
 
 19.º Corresponder-se com todas as autoridade sobre assuntos que digam respeito ao Hospital.
 
-Art. 4.º O director não tomará resolução alguma de que resulte despesa sem prévia anuência do conselho administrativo, salvo em casos de reconhecida e extrema urgência, de que dará conta ao conselho na sua primeira reunião.
+###### Artigo 4.º
 
-Art. 5.º Com funções consultivas e de apoio aos órgãos de direcção, funcionará no Hospital um conselho técnico, com a missão de dar parecer sobre os assuntos de natureza técnica, submetidos à sua apreciação, e formular as sugestões que tiver por mais convenientes à boa eficiência do serviços.
+O director não tomará resolução alguma de que resulte despesa sem prévia anuência do conselho administrativo, salvo em casos de reconhecida e extrema urgência, de que dará conta ao conselho na sua primeira reunião.
+
+###### Artigo 5.º
+
+Com funções consultivas e de apoio aos órgãos de direcção, funcionará no Hospital um conselho técnico, com a missão de dar parecer sobre os assuntos de natureza técnica, submetidos à sua apreciação, e formular as sugestões que tiver por mais convenientes à boa eficiência do serviços.
 
 § único. O conselho técnico reunir-se-á pelo menos uma vez por mês e, extraordinàriamente, sempre que o director o julgue conveniente.
 
-Art. 6.º O conselho técnico será presidido pelo director do Hospital, tendo como vogais o subdirector, o delegado do Instituto de Medicina Tropical designado pelo respectivo conselho escolar, o director clínico, o chefe do serviço de cirurgia, o chefe do serviço de medicina, o adjunto administrativo, o chefe do serviço do arquivo médico e estatística, o farmacêutico e a superintendente de enfermagem.
+###### Artigo 6.º
+
+O conselho técnico será presidido pelo director do Hospital, tendo como vogais o subdirector, o delegado do Instituto de Medicina Tropical designado pelo respectivo conselho escolar, o director clínico, o chefe do serviço de cirurgia, o chefe do serviço de medicina, o adjunto administrativo, o chefe do serviço do arquivo médico e estatística, o farmacêutico e a superintendente de enfermagem.
 
 #### SECÇÃO II — Do conselho administrativo
 
-Art. 7.º A administração do Hospital do Ultramar estará a cargo de um conselho administrativo constituído pelo director, que presidirá, pelo subdirector e o adjunto administrativo, que serão vogais, e pelo chefe da secretaria, como secretário.
+###### Artigo 7.º
+
+A administração do Hospital do Ultramar estará a cargo de um conselho administrativo constituído pelo director, que presidirá, pelo subdirector e o adjunto administrativo, que serão vogais, e pelo chefe da secretaria, como secretário.
 
 § único. Enquanto o Hospital não dispuser de tesoureiro privativo, ficam estas funções a cargo do secretário.
 
-Art. 8.º O conselho administrativo reunir-se-á, pelo menos, uma vez por semana e, extraordinàriamente, quando os assuntos de que houver a tratar o exijam.
+###### Artigo 8.º
 
-Art. 9.º As deliberações do conselho serão tomadas à pluralidade de votos, e, em caso de empate, o presidente terá voto de qualidade. Quando algum dos membros discordar do parecer da maioria, justificará a respectiva declaração na acta.
+O conselho administrativo reunir-se-á, pelo menos, uma vez por semana e, extraordinàriamente, quando os assuntos de que houver a tratar o exijam.
 
-Art. 10.º As actas das sessões serão assinadas por todos os membros do conselho adminitrativo que estiverem presentes.
+###### Artigo 9.º
 
-Art. 11.º Compete ao conselho administrativo:
+As deliberações do conselho serão tomadas à pluralidade de votos, e, em caso de empate, o presidente terá voto de qualidade. Quando algum dos membros discordar do parecer da maioria, justificará a respectiva declaração na acta.
+
+###### Artigo 10.º
+
+As actas das sessões serão assinadas por todos os membros do conselho adminitrativo que estiverem presentes.
+
+###### Artigo 11.º
+
+Compete ao conselho administrativo:
 
 a) Definir as linhas gerais da administração e fiscalização da acção dos serviços hospitalares;
 
@@ -333,7 +371,9 @@ h) Elaborar e propor em cada ano o projecto de orçamento para o ano seguinte;
 
 i) Organizar, de harmonia com as disposições legais, a respectiva conta de gerência e submetê-la à aprovação do Tribunal de Contas nos prazos fixados.
 
-Art. 12.º Ao secretário do conselho administrativo compete:
+###### Artigo 12.º
+
+Ao secretário do conselho administrativo compete:
 
 a) Redigir, em livro especial, as actas das reuniões e a correspondência que houver de ser dirigida pelo presidente, em nome do conselho;
 
@@ -343,7 +383,9 @@ c) Lavrar os termos que houverem de ser assinados pelo conselho;
 
 d) Extrair ou mandar extrair dos documentos de despesa os elementos necessários para o movimento do inventário.
 
-Art. 13.º Ao tesoureiro do conselho administrativo compete:
+###### Artigo 13.º
+
+Ao tesoureiro do conselho administrativo compete:
 
 a) Receber e guardar no cofre todas as quantias destinadas às despesas;
 
@@ -357,7 +399,9 @@ d) Escriturar a conta de caixa e apresentá-la mensalmente, ou quando for pedida
 
 #### SECÇÃO I — Dos serviços em geral
 
-Art. 14.º O Hospital do Ultramar disporá dos seguintes serviços:
+###### Artigo 14.º
+
+O Hospital do Ultramar disporá dos seguintes serviços:
 
 1.º Serviços administrativos;
 
@@ -373,13 +417,19 @@ Art. 14.º O Hospital do Ultramar disporá dos seguintes serviços:
 
 7.º Serviço religioso.
 
-Art. 15.º Os serviços mencionados no artigo anterior têm autonomia técnica, mas ficam subordinados à orientação e disciplina estabelecidas pela direcção do Hospital, perante a qual respondem pelos resultados do exercício da sua actividade, no limite da competência de cada um deles.
+###### Artigo 15.º
 
-Art. 16.º O funcionamento dos serviços será coordenado pela direcção do Hospital, de modo a obter-se a maior eficiência e rendimento assistencial, com o mais económico aproveitamento dos meios de acção postos ao seu dispor.
+Os serviços mencionados no artigo anterior têm autonomia técnica, mas ficam subordinados à orientação e disciplina estabelecidas pela direcção do Hospital, perante a qual respondem pelos resultados do exercício da sua actividade, no limite da competência de cada um deles.
+
+###### Artigo 16.º
+
+O funcionamento dos serviços será coordenado pela direcção do Hospital, de modo a obter-se a maior eficiência e rendimento assistencial, com o mais económico aproveitamento dos meios de acção postos ao seu dispor.
 
 #### SECÇÃO II — Dos serviços administrativos
 
-Art. 17.º Os serviços administrativos compreenderão os seguintes departamentos:
+###### Artigo 17.º
+
+Os serviços administrativos compreenderão os seguintes departamentos:
 
 1.º Secretaria;
 
@@ -387,15 +437,21 @@ Art. 17.º Os serviços administrativos compreenderão os seguintes departamento
 
 3.º Serviços gerais.
 
-Art. 18.º A superintendência directa em todos os serviços administrativos pertence ao adjunto administrativo do Hospital.
+###### Artigo 18.º
+
+A superintendência directa em todos os serviços administrativos pertence ao adjunto administrativo do Hospital.
 
 § único. Enquanto não for provido o lugar de adjunto administrativo, ou, quando provido, na ausência ou impedimento do titular, o director do Hospital designará o funcionário de categoria imediatamente inferior que deverá superintender no conjunto dos diversos departamentos dos serviços administrativos.
 
-Art. 19.º Os serviços administrativos, além das funções designadas nas subsecções seguintes, desempenharão todas as que lhes forem atribuídas pela administração.
+###### Artigo 19.º
+
+Os serviços administrativos, além das funções designadas nas subsecções seguintes, desempenharão todas as que lhes forem atribuídas pela administração.
 
 ##### SUBSECÇÃO I — Da secretaria
 
-Art. 20.º A secretaria, que deverá assegurar a ligação burocrática do Hospital com as entidades a ele estranhas e dos vários serviços hospitalares entre si, dividir-se-á nos seguintes sectores:
+###### Artigo 20.º
+
+A secretaria, que deverá assegurar a ligação burocrática do Hospital com as entidades a ele estranhas e dos vários serviços hospitalares entre si, dividir-se-á nos seguintes sectores:
 
 1.º Expediente, contencioso e arquivo, com o serviço de:
 
@@ -433,7 +489,9 @@ b) Guarda de dinheiros e outros valores do Hospital;
 
 c) Guarda de dinheiros e valores depositados pelos doentes ou pelos fornecedores.
 
-Art. 21.º O chefe da secretaria será um chefe de secção, a quem compete:
+###### Artigo 21.º
+
+O chefe da secretaria será um chefe de secção, a quem compete:
 
 1.º Fazer cumprir o serviço da secretaria;
 
@@ -449,7 +507,9 @@ Art. 21.º O chefe da secretaria será um chefe de secção, a quem compete:
 
 ##### SUBSECÇÃO II — Da contabilidade e abastecimentos
 
-Art. 22.º A contabilidade e abastecimentos dividir-se-á nos seguintes sectores:
+###### Artigo 22.º
+
+A contabilidade e abastecimentos dividir-se-á nos seguintes sectores:
 
 1.º Contabilidade orçamental e contas correntes, com os serviços de:
 
@@ -489,7 +549,9 @@ d) Expediente relativo a apreciação de concursos por forma a facilitar a taref
 
 e) Fiscalização, no acto de recepção, dos artigos comprados.
 
-Art. 23.º O chefe da contabilidade e abastecimentos será um primeiro-oficial, a quem compete:
+###### Artigo 23.º
+
+O chefe da contabilidade e abastecimentos será um primeiro-oficial, a quem compete:
 
 1.º Fazer cumprir o serviço da contabilidade e abastecimentos;
 
@@ -507,7 +569,9 @@ Art. 23.º O chefe da contabilidade e abastecimentos será um primeiro-oficial, 
 
 ##### SUBSECÇÃO III — Dos serviços gerais
 
-Art. 24.º Os serviços gerais compreenderão:
+###### Artigo 24.º
+
+Os serviços gerais compreenderão:
 
 1.º A lavadaria e rouparia, com os serviços de:
 
@@ -541,13 +605,17 @@ e) Transportes e comunicações;
 
 f) Diversos.
 
-Art. 25.º Os serviços gerais estão a cargo de um primeiro-oficial da secretaria do Hospital especialmente designado para esse fim pela direcção do Hospital.
+###### Artigo 25.º
+
+Os serviços gerais estão a cargo de um primeiro-oficial da secretaria do Hospital especialmente designado para esse fim pela direcção do Hospital.
 
 DIVISÃO I
 
 Da lavadaria e rouparia
 
-Art. 26.º A lavadaria e rouparia funcionarão sob a chefia directa de uma encarregada, à qual compete especialmente:
+###### Artigo 26.º
+
+A lavadaria e rouparia funcionarão sob a chefia directa de uma encarregada, à qual compete especialmente:
 
 a) Receber a roupa utilizada mediante rol apresentado pela enfermeira e restituí-la depois de lavada e passada a ferro;
 
@@ -567,7 +635,9 @@ DIVISÃO II
 
 Cozinha
 
-Art. 27.º A cozinha funcionará sob a responsabilidade directa da dietista, à qual compete:
+###### Artigo 27.º
+
+A cozinha funcionará sob a responsabilidade directa da dietista, à qual compete:
 
 1.º Elaborar, segundo as regras, as dietas especiais prescritas aos doentes pelos médicos assistentes;
 
@@ -595,19 +665,29 @@ Art. 27.º A cozinha funcionará sob a responsabilidade directa da dietista, à 
 
 13.º Manter ligação com a superintendente de enfermagem, pessoal clínico e secção de nutrição do Instituto de Medicina Tropical para tudo que diga respeito as suas funções.
 
-Art. 28.º O Hospital terá um cozinheiro-chefe, que será coadjuvado por pessoal treinado que dê provas da sua competência profissional.
+###### Artigo 28.º
 
-Art. 29.º A cozinha do Hospital, bem como todas as máquinas e utensílios nela empregados, estará a cargo do cozinheiro-chefe, que responderá pelo seu asseio e conservação.
+O Hospital terá um cozinheiro-chefe, que será coadjuvado por pessoal treinado que dê provas da sua competência profissional.
 
-Art. 30.º Todo o pessoal de cozinha deverá trabalhar segundo os preceitos da melhor higiene e devidamente uniformizado.
+###### Artigo 29.º
 
-Art. 31.º Ao pessoal em serviço na cozinha serão distribuídos os seguintes uniformes:
+A cozinha do Hospital, bem como todas as máquinas e utensílios nela empregados, estará a cargo do cozinheiro-chefe, que responderá pelo seu asseio e conservação.
+
+###### Artigo 30.º
+
+Todo o pessoal de cozinha deverá trabalhar segundo os preceitos da melhor higiene e devidamente uniformizado.
+
+###### Artigo 31.º
+
+Ao pessoal em serviço na cozinha serão distribuídos os seguintes uniformes:
 
 a) Cozinheiros: calça de cotim, casaco branco, avental branco, gorro branco e alpargatas;
 
 b) Serventes: bata azul, avental branco, lenço branco e alpargatas;
 
-Art. 32.º Ao cozinheiro-chefe, dentro da orientação que lhe for dada pela dietista, compete:
+###### Artigo 32.º
+
+Ao cozinheiro-chefe, dentro da orientação que lhe for dada pela dietista, compete:
 
 a) Fazer a requisição diária do combustível e dos condimentos para as dietas;
 
@@ -617,7 +697,9 @@ c) Responder pela boa preparação e exactidão das quantidades determinadas nas
 
 d) Ter as dietas prontas para serem distribuídas às horas estabelecidas no regulamento.
 
-Art. 33.º As dietas gerais e especiais destinadas aos doentes internados regular-se-ão por tabela a aprovar superiormente.
+###### Artigo 33.º
+
+As dietas gerais e especiais destinadas aos doentes internados regular-se-ão por tabela a aprovar superiormente.
 
 § 1.º As dietas gerais 5.ª, 6.ª e 7.ª serão abonadas, respectivamente, aos doentes internados nos quartos especiais e de 1.ª classe, aos de 2.ª classe e nas enfermarias (3.ª classe).
 
@@ -627,21 +709,37 @@ Art. 33.º As dietas gerais e especiais destinadas aos doentes internados regula
 
 § 4.º As dietas gerais acima mencionadas poderão, desde que surjam situações de emergência, ser reduzidas com autorização superior, mas de maneira que a sua com posição não seja desfalcada em qualidade e valor energético.
 
-Art. 34.º As dietas são abonadas em cada dia para o dia seguinte, excepto quando for urgente aboná-las para o mesmo dia.
+###### Artigo 34.º
 
-Art. 35.º Os alimentos serão enviados para as enfermarias e quartos convenientemente acondicionados.
+As dietas são abonadas em cada dia para o dia seguinte, excepto quando for urgente aboná-las para o mesmo dia.
 
-Art. 36.º As refeições dos doentes serão requisitadas por mapas a elaborar diàriamente pela dietista mediante a informação do movimento de doentes prestada pelo serviço de enfermagem.
+###### Artigo 35.º
 
-Art. 37.º As requisições das refeições do pessoal devem ser feitas até às 11 horas da véspera do dia em que devem ser fornecidas.
+Os alimentos serão enviados para as enfermarias e quartos convenientemente acondicionados.
 
-Art. 38.º As refeições dos doentes e do pessoal são as que constam da tabela existente em funcionamento no Hospital.
+###### Artigo 36.º
 
-Art. 39.º As ementas das dietas deverão ser periòdicamente renovadas pela dietista, a fim de quebrar a monotonia das refeições.
+As refeições dos doentes serão requisitadas por mapas a elaborar diàriamente pela dietista mediante a informação do movimento de doentes prestada pelo serviço de enfermagem.
 
-Art. 40.º Os pequenos almoços e merendas são preparados nas copas dos respectivos serviços, bem como as dietas especiais, quando constem de leite, farinha, etc.
+###### Artigo 37.º
 
-Art. 41.º O horário da distribuição das dietas será o seguinte:
+As requisições das refeições do pessoal devem ser feitas até às 11 horas da véspera do dia em que devem ser fornecidas.
+
+###### Artigo 38.º
+
+As refeições dos doentes e do pessoal são as que constam da tabela existente em funcionamento no Hospital.
+
+###### Artigo 39.º
+
+As ementas das dietas deverão ser periòdicamente renovadas pela dietista, a fim de quebrar a monotonia das refeições.
+
+###### Artigo 40.º
+
+Os pequenos almoços e merendas são preparados nas copas dos respectivos serviços, bem como as dietas especiais, quando constem de leite, farinha, etc.
+
+###### Artigo 41.º
+
+O horário da distribuição das dietas será o seguinte:
 
 Pequeno almoço - 8 horas.
 
@@ -655,7 +753,9 @@ DIVISÃO III
 
 Dos serviços de conservação do património, limpeza e outros
 
-Art. 42.º As funções destes serviços ficam a cargo do primeiro-oficial de secretaria do Hospital a quem compete especialmente:
+###### Artigo 42.º
+
+As funções destes serviços ficam a cargo do primeiro-oficial de secretaria do Hospital a quem compete especialmente:
 
 1.º Dirigir e coordenar os serviços gerais, imprimindo-lhes unidade, continuidade e eficiência de modo a assegurar as regulares relações em todos os serviços hospitalares;
 
@@ -665,7 +765,9 @@ Art. 42.º As funções destes serviços ficam a cargo do primeiro-oficial de se
 
 4.º Vigiar a utilização e o consumo dos bens hospitalares e propor as providências necessárias ao equilíbrio administrativo e à defesa do património a seu cargo;
 
-Art. 43.º Ao funcionário referido no artigo anterior compete ainda:
+###### Artigo 43.º
+
+Ao funcionário referido no artigo anterior compete ainda:
 
 1.º Fiscalizar e dar cumprimento as ordens e instruções do director;
 
@@ -715,7 +817,9 @@ Art. 43.º Ao funcionário referido no artigo anterior compete ainda:
 
 #### SECÇÃO III — Dos serviços de arquivo médico e estatística
 
-Art. 44.º Os serviços de arquivo médico e estatística compreenderão os seguintes departamentos:
+###### Artigo 44.º
+
+Os serviços de arquivo médico e estatística compreenderão os seguintes departamentos:
 
 1.º Inscrição e admissão, com o serviço de:
 
@@ -753,7 +857,9 @@ b) Actualização das revistas, jornais e outras publicações que interessem ao
 
 c) Relações e intercâmbio com serviços congéneres nacionais e estrangeiros.
 
-Art. 45.º O arquivo médico e estatístico será dirigido por um médico dos quadros do Hospital, designado pela direcção, a quem compete especialmente:
+###### Artigo 45.º
+
+O arquivo médico e estatístico será dirigido por um médico dos quadros do Hospital, designado pela direcção, a quem compete especialmente:
 
 a) Orientar a classificação das histórias clínicas, esclarecendo de todas as dúvidas o pessoal encarregado desse serviço;
 
@@ -765,7 +871,9 @@ d) Zelar pela boa ordem dos serviços da biblioteca e sua actualização.
 
 #### SECÇÃO IV — Dos serviços clínicos
 
-Art. 46.º Os serviços clínicos do Hospital compreendem:
+###### Artigo 46.º
+
+Os serviços clínicos do Hospital compreendem:
 
 a) Serviços gerais de medicina;
 
@@ -773,29 +881,47 @@ b) Serviços de cirurgia e de especialidade;
 
 c) Serviços auxiliares de diagnóstico e terapêutica.
 
-Art. 47.º Os serviços clínicos são orientados pelo director clínico, ao qual pertence coordenar a sua acção de modo a conseguir o maior rendimento assistencial e fiscalizar toda a actividade hospitalar que se relacione com o tratamento de doentes, escalas e horários dos serviços clínicos, higiene hospitalar, etc.
+###### Artigo 47.º
+
+Os serviços clínicos são orientados pelo director clínico, ao qual pertence coordenar a sua acção de modo a conseguir o maior rendimento assistencial e fiscalizar toda a actividade hospitalar que se relacione com o tratamento de doentes, escalas e horários dos serviços clínicos, higiene hospitalar, etc.
 
 § único. O director clínico será coadjuvado por um adjunto, que também o substituirá nas faltas ou impedimentos.
 
-Art. 48.º As funções de director clínico serão exercidas por um médico dos quadros do Hospital designado pelo Ministro do Ultramar sob proposta da Direcção-Geral de Saúde e Assistência do Ultramar, ouvida a direcção do Hospital.
+###### Artigo 48.º
+
+As funções de director clínico serão exercidas por um médico dos quadros do Hospital designado pelo Ministro do Ultramar sob proposta da Direcção-Geral de Saúde e Assistência do Ultramar, ouvida a direcção do Hospital.
 
 § único. Um dos médicos de 1.ª classe do quadro médico comum do ultramar exercendo funções no Hospital servirá de adjunto do director clínico.
 
-Art. 49.º Os serviços clínicos do Hospital prestarão assistência em regime de internamento e de consulta externa, sendo a admissão de doentes feita nas condições deste regulamento.
+###### Artigo 49.º
 
-Art. 50.º A inscrição para as consultas externas será feita sempre antes da hora do início das mesmas, não havendo limitações na inscrição para os beneficiários referidos no artigo 143.º deste diploma que se sujeitarão, no entanto, ao horário em vigor.
+Os serviços clínicos do Hospital prestarão assistência em regime de internamento e de consulta externa, sendo a admissão de doentes feita nas condições deste regulamento.
+
+###### Artigo 50.º
+
+A inscrição para as consultas externas será feita sempre antes da hora do início das mesmas, não havendo limitações na inscrição para os beneficiários referidos no artigo 143.º deste diploma que se sujeitarão, no entanto, ao horário em vigor.
 
 § único. A ordem de chamada nas consultas será a mencionada no artigo 142.º deste regulamento.
 
-Art. 51.º Os doentes internados só serão presentes às consultas de especialidade acompanhados pela respectiva papeleta onde o médico assistente deve indicar a necessidade dessa observação.
+###### Artigo 51.º
 
-Art. 52.º Os médicos promoverão um eficiente funcionamento das consultas a seu cargo propondo ao director clínico, para aprovação pela direcção do Hospital, os respectivos horários, tendo em atenção as conveniências dos beneficiários e a necessidade de evitar, tanto quanto possível, longas esperas por parte dos doentes e a sua aglomeração.
+Os doentes internados só serão presentes às consultas de especialidade acompanhados pela respectiva papeleta onde o médico assistente deve indicar a necessidade dessa observação.
 
-Art. 53.º Os serviços de internamento geral ou de especialidade destinam-se a prestar assistência médica, cirúrgica ou de especialidade aos doentes que necessitem de ser hospitalizados.
+###### Artigo 52.º
 
-Art. 54.º Em cumprimento do artigo 5.º do [Decreto n.º 35913](https://diariodarepublica.pt/dr/detalhe/decreto/35913-1946-150092), de 23 de Outubro de 1946, será criado o internato hospitalar para os médicos que frequentarem o curso de Medicina Tropical, feito por escala entre eles. Dirigirá o serviço de internato o professor da 2.ª cadeira do Instituto de Medicina Tropical ou o seu delegado, ao qual competirá propor oportunamente a sua regulamentação de acordo com os horários do curso.
+Os médicos promoverão um eficiente funcionamento das consultas a seu cargo propondo ao director clínico, para aprovação pela direcção do Hospital, os respectivos horários, tendo em atenção as conveniências dos beneficiários e a necessidade de evitar, tanto quanto possível, longas esperas por parte dos doentes e a sua aglomeração.
 
-Art. 55.º O serviço hospitalar do Instituto de Medicina Tropical funcionará no Hospital do Ultramar em enfermarias escolares privativas, onde, em regra, serão admitidos doentes que constituam casos clínicos de interesse para o estudo da patologia tropical. Para as enfermarias que lhe forem destinadas, pode o Instituto, sob proposta do professor da cadeira referida no artigo anterior, promover a vinda, das províncias ultramarinas ou da metrópole, de doentes que sejam portadores de enfermidades próprias das regiões tropicais ou afins.
+###### Artigo 53.º
+
+Os serviços de internamento geral ou de especialidade destinam-se a prestar assistência médica, cirúrgica ou de especialidade aos doentes que necessitem de ser hospitalizados.
+
+###### Artigo 54.º
+
+Em cumprimento do artigo 5.º do [Decreto n.º 35913](https://diariodarepublica.pt/dr/detalhe/decreto/35913-1946-150092), de 23 de Outubro de 1946, será criado o internato hospitalar para os médicos que frequentarem o curso de Medicina Tropical, feito por escala entre eles. Dirigirá o serviço de internato o professor da 2.ª cadeira do Instituto de Medicina Tropical ou o seu delegado, ao qual competirá propor oportunamente a sua regulamentação de acordo com os horários do curso.
+
+###### Artigo 55.º
+
+O serviço hospitalar do Instituto de Medicina Tropical funcionará no Hospital do Ultramar em enfermarias escolares privativas, onde, em regra, serão admitidos doentes que constituam casos clínicos de interesse para o estudo da patologia tropical. Para as enfermarias que lhe forem destinadas, pode o Instituto, sob proposta do professor da cadeira referida no artigo anterior, promover a vinda, das províncias ultramarinas ou da metrópole, de doentes que sejam portadores de enfermidades próprias das regiões tropicais ou afins.
 
 § 1.º Para o efeito, o Instituto de Medicina Tropical disporá de enfermarias para homens e mulheres e secções de isolamento. Quando as necessidades do ensino o justifiquem, poderão ser utilizados os doentes do Hospital, ouvido o respectivo director.
 
@@ -805,7 +931,9 @@ Art. 55.º O serviço hospitalar do Instituto de Medicina Tropical funcionará n
 
 ##### SUBSECÇÃO I — Dos serviços auxiliares de diagnóstico e terapêutica
 
-Art. 56.º Como serviços auxiliares de diagnóstico e terapêutica funcionarão, entre outros, os seguintes:
+###### Artigo 56.º
+
+Como serviços auxiliares de diagnóstico e terapêutica funcionarão, entre outros, os seguintes:
 
 a) Laboratório de análises clínicas;
 
@@ -821,55 +949,91 @@ f) Serviço de transfusão de sangue;
 
 g) Laboratório de análises hormonais.
 
-Art. 57.º Cada um destes serviços funciona sob a orientação e responsabilidade de um médico especialista pertencente ao quadro complementar de cirurgiões, especialistas e internistas ou de outros técnicos especializados do Hospital do Ultramar, aos quais será adstrito o pessoal técnico coadjuvante necessário.
+###### Artigo 57.º
 
-Art. 58.º Aos serviços requisitantes será sempre enviado o resultado dos exames efectuados no mais curto espaço de tempo e assinados pelo especialista responsável.
+Cada um destes serviços funciona sob a orientação e responsabilidade de um médico especialista pertencente ao quadro complementar de cirurgiões, especialistas e internistas ou de outros técnicos especializados do Hospital do Ultramar, aos quais será adstrito o pessoal técnico coadjuvante necessário.
 
-Art. 59.º Entre os serviços de anatomia patológica e análises clínicas do Hospital do Ultramar e do Instituto de Medicina Tropical será estabelecida íntima coordenação de trabalho, de modo que se utilizem mùtuamente os respectivos serviços e dependências, no sentido de poder ser recolhido todo o material de ensino e investigação considerado necessário ao ensino e efectuadas as autópsias dos doentes falecidos na enfermaria escolar.
+###### Artigo 58.º
+
+Aos serviços requisitantes será sempre enviado o resultado dos exames efectuados no mais curto espaço de tempo e assinados pelo especialista responsável.
+
+###### Artigo 59.º
+
+Entre os serviços de anatomia patológica e análises clínicas do Hospital do Ultramar e do Instituto de Medicina Tropical será estabelecida íntima coordenação de trabalho, de modo que se utilizem mùtuamente os respectivos serviços e dependências, no sentido de poder ser recolhido todo o material de ensino e investigação considerado necessário ao ensino e efectuadas as autópsias dos doentes falecidos na enfermaria escolar.
 
 § único. A consulta externa que funciona no Instituto de Medicina Tropical é extinta, passando a funcionar no Hospital do Ultramar sob a direcção do professor da 2.ª cadeira do referido Instituto.
 
-Art. 60.º Nos serviços de radiologia deverão ser escriturados:
+###### Artigo 60.º
+
+Nos serviços de radiologia deverão ser escriturados:
 
 a) Registo de películas utilizadas, com a menção do número de observação, data, procedência, nome, categoria, assunto, espécie de películas gastas e número de talão da cobrança ou de crédito e, neste último caso, deverá ser mencionado o facto a tinta vermelha. Este registo deverá ser somado mensalmente para apuramento do seu rendimento;
 
 b) Livro para contas correntes de radiografias, contendo o registo diário das películas fornecidas pela farmácia e bem assim as consumidas no serviço, de modo a obter com facilidade a sua existência ou saldo.
 
-Art. 61.º As requisições de películas e outros serviços destinados a trabalhos de interesse científico reconhecidos pelo director do Hospital só deverão ser feitas mediante proposta prévia e autorização superior para cada caso.
+###### Artigo 61.º
 
-Art. 62.º Nos serviços de radioterapia haverá um livro de registo geral de doentes, com riscado que permita o lançamento da receita e encerramento das contas mensais.
+As requisições de películas e outros serviços destinados a trabalhos de interesse científico reconhecidos pelo director do Hospital só deverão ser feitas mediante proposta prévia e autorização superior para cada caso.
 
-Art. 63.º Junto do laboratório de biofísica e radioisótopos funcionará o Centro de Estudos de Física Médica do Instituto de Alta Cultura.
+###### Artigo 62.º
 
-Art. 64.º Anexo ao serviço de endocrinologia e como seu complemento indispensável funcionará o laboratório de análises hormonais, junto do qual poderá funcionar um centro de estudos endocrinológicos.
+Nos serviços de radioterapia haverá um livro de registo geral de doentes, com riscado que permita o lançamento da receita e encerramento das contas mensais.
+
+###### Artigo 63.º
+
+Junto do laboratório de biofísica e radioisótopos funcionará o Centro de Estudos de Física Médica do Instituto de Alta Cultura.
+
+###### Artigo 64.º
+
+Anexo ao serviço de endocrinologia e como seu complemento indispensável funcionará o laboratório de análises hormonais, junto do qual poderá funcionar um centro de estudos endocrinológicos.
 
 #### SECÇÃO V — Dos serviços farmacêuticos
 
-Art. 65.º Os serviços farmacêuticos do Hospital serão dirigidos pelo farmacêutico deles encarregado, coadjuvado por ajudantes de farmácia e pessoal serventuário.
+###### Artigo 65.º
 
-Art. 66.º O serviço ordinário da farmácia e do depósito de medicamentos começará às 9 horas.
+Os serviços farmacêuticos do Hospital serão dirigidos pelo farmacêutico deles encarregado, coadjuvado por ajudantes de farmácia e pessoal serventuário.
 
-Art. 67.º Haverá no Hospital um depósito de medicamentos, instrumentos cirúrgicos, apósitos e utensílios destinado aos seus serviços.
+###### Artigo 66.º
 
-Art. 68.º A entrega dos medicamentos para os serviços requisitantes será feita ordinàriamente até às 15 horas, depois de conferidos pela enfermeira de serviço que os vem receber, e extraordinàriamente às horas indicadas pelos clínicos.
+O serviço ordinário da farmácia e do depósito de medicamentos começará às 9 horas.
 
-Art. 69.º Estes serviços podem fornecer a pronto pagamento, e sem desfalcar a dotação orçamental, medicamentos ao preço do custo aos beneficiários da assistência e seus familiares como mencionado nas alíneas a) a i) do artigo 143.º
+###### Artigo 67.º
+
+Haverá no Hospital um depósito de medicamentos, instrumentos cirúrgicos, apósitos e utensílios destinado aos seus serviços.
+
+###### Artigo 68.º
+
+A entrega dos medicamentos para os serviços requisitantes será feita ordinàriamente até às 15 horas, depois de conferidos pela enfermeira de serviço que os vem receber, e extraordinàriamente às horas indicadas pelos clínicos.
+
+###### Artigo 69.º
+
+Estes serviços podem fornecer a pronto pagamento, e sem desfalcar a dotação orçamental, medicamentos ao preço do custo aos beneficiários da assistência e seus familiares como mencionado nas alíneas a) a i) do artigo 143.º
 
 § único. Aos doentes econòmicamente débeis assistidos em consulta externa poderá ser fornecida medicação gratuita desde que seja superiormente autorizado para cada caso.
 
-Art. 70.º Em cada serviço ou sector hospitalar existirá um livro próprio para requisições à farmácia.
+###### Artigo 70.º
 
-Art. 71.º O fornecimento de medicamentos, apósitos, reagentes, etc., só pode ser feito por intermédio da Farmácia do Estado.
+Em cada serviço ou sector hospitalar existirá um livro próprio para requisições à farmácia.
 
-Art. 72.º Nestes serviços haverá um talonário para o material fornecido às dependências do Hospital para ser aumentado à carga e um outro destinado aos medicamentos fornecidos que devem ser contabilizados na secretaria do Hospital.
+###### Artigo 71.º
+
+O fornecimento de medicamentos, apósitos, reagentes, etc., só pode ser feito por intermédio da Farmácia do Estado.
+
+###### Artigo 72.º
+
+Nestes serviços haverá um talonário para o material fornecido às dependências do Hospital para ser aumentado à carga e um outro destinado aos medicamentos fornecidos que devem ser contabilizados na secretaria do Hospital.
 
 § único. Das facturas passadas neste talonário de medicamentos fornecidos para serem contabilizados devem constar mais elementos de identificação, com citação do documento hospitalar respectivo (papeleta, livro, etc.) respeitante ao doente.
 
 #### SECÇÃO VI — Do serviço de enfermagem
 
-Art. 73.º O serviço de enfermagem exerce a sua acção junto dos serviços clínicos e auxiliares e de todos os demais que lhes forem designados. Pode ser de enfermagem geral, especializada e auxiliar.
+###### Artigo 73.º
 
-Art. 74.º Compete a este serviço:
+O serviço de enfermagem exerce a sua acção junto dos serviços clínicos e auxiliares e de todos os demais que lhes forem designados. Pode ser de enfermagem geral, especializada e auxiliar.
+
+###### Artigo 74.º
+
+Compete a este serviço:
 
 a) Aplicar as técnicas que lhes são próprias;
 
@@ -887,11 +1051,15 @@ g) Informar por escrito a dietista e outros serviços hospitalares do movimento 
 
 § único. O pessoal de enfermagem é responsável pela conservação do património hospitalar à sua guarda ou que lhe for entregue para utilização.
 
-Art. 75.º O serviço de enfermagem é dirigido pela superintendente, que será substituída nas suas ausências ou impedimentos pela enfermeira-geral.
+###### Artigo 75.º
+
+O serviço de enfermagem é dirigido pela superintendente, que será substituída nas suas ausências ou impedimentos pela enfermeira-geral.
 
 #### SECÇÃO VII — Do serviço social e de ensino
 
-Art. 76.º Compete ao serviço social exercer com o maior interesse e dedicação as funções próprias da sua actividade e as que lhe forem distribuídas, nomeadamente:
+###### Artigo 76.º
+
+Compete ao serviço social exercer com o maior interesse e dedicação as funções próprias da sua actividade e as que lhe forem distribuídas, nomeadamente:
 
 a) Coadjuvar os serviços clínicos e de enfermagem nas funções que a estes respeitem;
 
@@ -905,17 +1073,23 @@ e) Efectuar os inquéritos sociais e económicos que forem determinados;
 
 f) Colaborar especialmente com os serviços religiosos, clínicos e de enfermagem.
 
-Art. 77.º O serviço social e de ensino será dirigido por uma assistente social, a qual receberá a colaboração de uma professora do ensino primário.
+###### Artigo 77.º
+
+O serviço social e de ensino será dirigido por uma assistente social, a qual receberá a colaboração de uma professora do ensino primário.
 
 #### SECÇÃO VIII — Dos serviços religiosos
 
-Art. 78.º Os serviços religiosos são dirigidos por um capelão, de harmonia com o disposto no artigo 98.º do [Decreto n.º 38552](https://diariodarepublica.pt/dr/detalhe/decreto/38552-1951-567679), de 1 de Dezembro de 1951, com direito a uma gratificação, e será exercido por sacerdote designado pela competente autoridade eclesiástica, produzindo esta designação efeitos desde a sua data, logo que haja despacho de concordância do Ministro do Ultramar e visto do Tribunal de Contas relativamente ao mesmo despacho.
+###### Artigo 78.º
+
+Os serviços religiosos são dirigidos por um capelão, de harmonia com o disposto no artigo 98.º do [Decreto n.º 38552](https://diariodarepublica.pt/dr/detalhe/decreto/38552-1951-567679), de 1 de Dezembro de 1951, com direito a uma gratificação, e será exercido por sacerdote designado pela competente autoridade eclesiástica, produzindo esta designação efeitos desde a sua data, logo que haja despacho de concordância do Ministro do Ultramar e visto do Tribunal de Contas relativamente ao mesmo despacho.
 
 ### CAPÍTULO IV — Do pessoal
 
 #### SECÇÃO I — Dos quadros de pessoal
 
-Art. 79.º Os serviços os hospitalares serão assegurados por pessoal pertencente Aos seguintes quadros quadros:
+###### Artigo 79.º
+
+Os serviços os hospitalares serão assegurados por pessoal pertencente Aos seguintes quadros quadros:
 
 a) Quadros comuns dos serviços de saúde e assistência do ultramar;
 
@@ -927,7 +1101,9 @@ d) Quadros privativos.
 
 #### SECÇÃO II — Do pessoal dos quadros comuns dos serviços de saúde e assistência do ultramar
 
-Art. 80.º Serão desempenhados em comissão de serviço, por pessoal dos quadros comuns dos serviços de saúde e assistência do ultramar, os seguintes cargos:
+###### Artigo 80.º
+
+Serão desempenhados em comissão de serviço, por pessoal dos quadros comuns dos serviços de saúde e assistência do ultramar, os seguintes cargos:
 
 a) Director do Hospital;
 
@@ -945,11 +1121,15 @@ d) Farmacêutico de 1.ª classe;
 
 #### SECÇÃO III — Do pessoal do quadro complementar de cirurgiões, especialistas e internistas
 
-Art. 81.º O quadro complementar de cirurgiões especialistas e internistas reunirá o pessoal necessário não só à formação de novos especialistas destinados aos quadros de saúde do ultramar, mas também à execução dos servidos clínicos especializados e os de medicina interna.
+###### Artigo 81.º
+
+O quadro complementar de cirurgiões especialistas e internistas reunirá o pessoal necessário não só à formação de novos especialistas destinados aos quadros de saúde do ultramar, mas também à execução dos servidos clínicos especializados e os de medicina interna.
 
 § único. Este quadro será fixado anualmente no diploma que aprovar o orçamento privativo do Hospital do Ultramar.
 
-Art. 82.º Neste quadro serão providos médicos diplomados pelas Faculdades de Medicina nacionais como segue:
+###### Artigo 82.º
+
+Neste quadro serão providos médicos diplomados pelas Faculdades de Medicina nacionais como segue:
 
 a) Por nomeação, precedendo concurso documental, ou por contrato entre professores catedráticos, extraordinários ou agregados das Faculdades de Medicina nacionais;
 
@@ -959,47 +1139,71 @@ c) Por nomeação, precedendo concurso documental, ou por contrato entre médico
 
 d) Por nomeação, em comissão, de médicos do quadro complementar de cirurgiões, especialistas e internistas das províncias ultramarinas.
 
-Art. 83.º Cada serviço de especialidade ou de medicina interna estará a cargo de um especialista qualificado que assegurará a sua direcção, a formação de novos especialistas e o aperfeiçoamento dos existentes e poderá ser coadjuvado por outros médicos especialistas.
+###### Artigo 83.º
+
+Cada serviço de especialidade ou de medicina interna estará a cargo de um especialista qualificado que assegurará a sua direcção, a formação de novos especialistas e o aperfeiçoamento dos existentes e poderá ser coadjuvado por outros médicos especialistas.
 
 § único. A designação para o exercício da chefia de cada um destes serviços de especialidade será feita por despacho do Ministro do Ultramar, sob proposta da Direcção-Geral de Saúde e Assistência, ouvida a direcção do Hospital.
 
-Art. 84.º Aos médicos do quadro complementar de cirurgiões, especialistas e internistas serão atribuídos os vencimentos do grupo L a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feita pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
+###### Artigo 84.º
+
+Aos médicos do quadro complementar de cirurgiões, especialistas e internistas serão atribuídos os vencimentos do grupo L a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feita pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
 § 1.º Aos médicos deste quadro que tenham a seu cargo a formação, preparação e aperfeiçoamento de especialistas destinados ao ultramar será atribuída o vencimento do grupo J a que se refere o artigo 12.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com o escalonamento feito pelo artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958.
 
 § 2.º O serviço prestado no Hospital do Ultramar no quadro complementar de cirurgiões, especialistas e internistas constitui preferência para o ingresso nos correspondentes quadros das províncias ultramarinas, desde que o serviço prestado seja de um período nunca inferior a dois anos.
 
-Art. 85.º Quando as circunstâncias do serviço o aconselhem, poderá o Ministro do Ultramar transferir médicos do quadro complementar de cirurgiões, especialistas e internistas do Hospital do Ultramar para lugares correspondentes no quadro complementar de cirurgiões, especialistas e internistas das províncias ultramarinas.
+###### Artigo 85.º
 
-Art. 86.º Nas mesmas circunstâncias, poderá o Ministro do Ultramar transferir médicos do quadro complementar de cirurgiões, especialistas e internistas das províncias ultramarinas para lugares correspondentes do quadro complementar de cirurgiões, especialistas e internistas do Hospital do Ultramar.
+Quando as circunstâncias do serviço o aconselhem, poderá o Ministro do Ultramar transferir médicos do quadro complementar de cirurgiões, especialistas e internistas do Hospital do Ultramar para lugares correspondentes no quadro complementar de cirurgiões, especialistas e internistas das províncias ultramarinas.
+
+###### Artigo 86.º
+
+Nas mesmas circunstâncias, poderá o Ministro do Ultramar transferir médicos do quadro complementar de cirurgiões, especialistas e internistas das províncias ultramarinas para lugares correspondentes do quadro complementar de cirurgiões, especialistas e internistas do Hospital do Ultramar.
 
 § único. Os médicos transferidos ao abrigo das disposições constantes do corpo deste artigo e do artigo antecedente passam a exercer funções no quadro para onde forem transferidos em comissão ordinária de serviço.
 
-Art. 87.º O Ministro do Ultramar poderá autorizar que médicos oficiais ou particulares, em regime de voluntariado, frequentem estágios de especialidades sem prejuízo dos estagiários que os frequentem oficialmente.
+###### Artigo 87.º
 
-Art. 88.º Excepcionalmente, poderá o Ministro do Ultramar autorizar a execução de determinada tarefa por médicos estranhos aos quadros do Hospital, ouvido para cada caso o director do Hospital, que formulará a respectiva proposta de acordo com o chefe do respectivo serviço.
+O Ministro do Ultramar poderá autorizar que médicos oficiais ou particulares, em regime de voluntariado, frequentem estágios de especialidades sem prejuízo dos estagiários que os frequentem oficialmente.
 
-Art. 89.º Aos médicos do quadro complementar de cirurgiões, especialistas e internistas do Hospital do Ultramar, porque não têm acesso, ser-lhes-á atribuído, após 15 anos de bom e efectivo serviço, uma diuturnidade igual a 10 por cento do vencimento-base a que tenham direito.
+###### Artigo 88.º
 
-Art. 90.º Aos médicos do mesmo quadro poderá ser estabelecido o regime de ocupação exclusiva, sempre que esse procedimento se mostre conveniente, devendo, porém, nesse caso, ser-lhes atribuída uma gratificação que será fixada no diploma que determinar esse regime.
+Excepcionalmente, poderá o Ministro do Ultramar autorizar a execução de determinada tarefa por médicos estranhos aos quadros do Hospital, ouvido para cada caso o director do Hospital, que formulará a respectiva proposta de acordo com o chefe do respectivo serviço.
+
+###### Artigo 89.º
+
+Aos médicos do quadro complementar de cirurgiões, especialistas e internistas do Hospital do Ultramar, porque não têm acesso, ser-lhes-á atribuído, após 15 anos de bom e efectivo serviço, uma diuturnidade igual a 10 por cento do vencimento-base a que tenham direito.
+
+###### Artigo 90.º
+
+Aos médicos do mesmo quadro poderá ser estabelecido o regime de ocupação exclusiva, sempre que esse procedimento se mostre conveniente, devendo, porém, nesse caso, ser-lhes atribuída uma gratificação que será fixada no diploma que determinar esse regime.
 
 #### SECÇÃO IV — Do quadro complementar de técnicos especializados
 
-Art. 91.º Haverá um quadro complementar de técnicos especializados constituído por todo o pessoal dos serviços hospitalares não compreendido nos quadros anteriores, diplomado com curso superior, como o médico especializado em estatística hospitalar, o adjunto administrativo e outros técnicos que vierem a ser considerados necessários à boa eficiência dos serviços em qualquer ramo auxiliar da administração e da medicina.
+###### Artigo 91.º
+
+Haverá um quadro complementar de técnicos especializados constituído por todo o pessoal dos serviços hospitalares não compreendido nos quadros anteriores, diplomado com curso superior, como o médico especializado em estatística hospitalar, o adjunto administrativo e outros técnicos que vierem a ser considerados necessários à boa eficiência dos serviços em qualquer ramo auxiliar da administração e da medicina.
 
 § 1.º Pertencerá a este quadro o director do laboratório de biofísica e radioisótopos do Hospital do Ultramar.
 
 § 2.º Este quadro será fixado anualmente no diploma que aprovar o orçamento privativo do Hospital do Ultramar.
 
-Art. 92.º O lugar de adjunto administrativo do Hospital do Ultramar deverá ser exercido por funcionário dessa categoria destacado, em comissão de serviço, dos serviços de saúde e assistência do ultramar.
+###### Artigo 92.º
+
+O lugar de adjunto administrativo do Hospital do Ultramar deverá ser exercido por funcionário dessa categoria destacado, em comissão de serviço, dos serviços de saúde e assistência do ultramar.
 
 § único. Ao adjunto administrativo e reconhecido o direito aos vencimentos previstos no artigo 7.º e seu § único do Decreto n.º 44585, de 20 de Setembro de 1962.
 
 #### SECÇÃO V — Dos quadros privativos
 
-Art. 93.º No Hospital do Ultramar haverá o pessoal coadjuvante que for necessário, constituindo o quadro privativo com diferentes ramos de pessoal.
+###### Artigo 93.º
 
-Art. 94.º Os ramos do pessoal coadjuvante são os seguintes:
+No Hospital do Ultramar haverá o pessoal coadjuvante que for necessário, constituindo o quadro privativo com diferentes ramos de pessoal.
+
+###### Artigo 94.º
+
+Os ramos do pessoal coadjuvante são os seguintes:
 
 a) Administrativo;
 
@@ -1015,7 +1219,9 @@ f) Serviços gerais.
 
 ##### SUBSECÇÃO I — Do pessoal administrativo
 
-Art. 95.º O ramo do pessoal administrativo ou de secretaria compreende as seguintes categorias:
+###### Artigo 95.º
+
+O ramo do pessoal administrativo ou de secretaria compreende as seguintes categorias:
 
 a) Chefe de secção;
 
@@ -1027,13 +1233,17 @@ d) Terceiro-oficial;
 
 e) Aspirante.
 
-Art. 96.º O ingresso no ramo administrativo far-se-á pela categoria de aspirante, mediante concurso de provas práticas, exigindo-se aos candidatos, além dos requisitos gerais para o exercício da função pública, a aprovação no exame do 2.º ciclo dos liceus ou equivalente.
+###### Artigo 96.º
+
+O ingresso no ramo administrativo far-se-á pela categoria de aspirante, mediante concurso de provas práticas, exigindo-se aos candidatos, além dos requisitos gerais para o exercício da função pública, a aprovação no exame do 2.º ciclo dos liceus ou equivalente.
 
 § único. Os funcionários do ramo administrativo com três anos na respectiva categoria que tenham boas informações serão promovidos nas vagas que se derem na categoria imediatamente superior, mediante concurso de provas práticas, cujos programas serão elaborados por júri prèviamente nomeado pelo Ministro do Ultramar, sob proposta do director-geral de Saúde e Assistência do Ultramar.
 
 ##### SUBSECÇÃO II — Do pessoal de enfermagem
 
-Art. 97.º O pessoal de enfermagem agrupa-se nas seguintes classes:
+###### Artigo 97.º
+
+O pessoal de enfermagem agrupa-se nas seguintes classes:
 
 a) Enfermagem geral;
 
@@ -1061,27 +1271,51 @@ b) Enfermeira ou enfermeiro com outras especializações.
 
 § 3.º A classe de enfermagem auxiliar compreende os auxiliares de enfermagem de ambos os sexos.
 
-Art. 98.º O ingresso no ramo de enfermagem geral far-se-á na categoria de enfermeiro de 2.ª classe, mediante concurso documental, exigindo-se aos candidatos, além dos requisitos gerais para o exercício da função pública, a habilitação com o curso de enfermagem geral.
+###### Artigo 98.º
+
+O ingresso no ramo de enfermagem geral far-se-á na categoria de enfermeiro de 2.ª classe, mediante concurso documental, exigindo-se aos candidatos, além dos requisitos gerais para o exercício da função pública, a habilitação com o curso de enfermagem geral.
 
 § único. Os enfermeiros ou enfermeiras de 2.ª classe que tenham boas informações e um mínimo de três anos de serviço serão promovidos à categoria imediata por antiguidade nas vagas que vierem a dar-se.
 
-Art. 99.º Os lugares de enfermeiro ou enfermeira-chefe serão providos mediante concurso documental por enfermeiros ou enfermeiras de 1.ª classe habilitados com o curso complementar de enfermagem quando tenham boas informações e um mínimo de três anos de serviço.
+###### Artigo 99.º
 
-Art. 100.º O lugar de enfermeiro ou enfermeira-geral será provido por escolha de entre os enfermeiros ou enfermeiras-chefes que possuam o curso complementar de enfermagem e, pelo menos, três anos de exercício no cargo de enfermeiro-chefe.
+Os lugares de enfermeiro ou enfermeira-chefe serão providos mediante concurso documental por enfermeiros ou enfermeiras de 1.ª classe habilitados com o curso complementar de enfermagem, quando tenham boas informações e um mínimo de três anos de exercício de enfermagem hospitalar.
 
-Art. 101.º O lugar de superintendente de enfermagem será provido por enfermeiro ou enfermeira-geral desde que no exercício do seu cargo tenha revelado qualidades de chefia e tenha um mínimo de três anos de serviço.
+§ 1.º Se não houver candidatos nas condições previstas no corpo do artigo ou se o número for insuficiente para o preenchimento das vagas existentes, poderão candidatar-se ao referido concurso enfermeiros ou enfermeiras de 2.ª classe, quando habilitados com o curso de enfermagem complementar e desde que tenham boas informações e, pelo menos, cinco anos de exercício de enfermagem hospitalar.
 
-Art. 102.º O ingresso no ramo de enfermagem especializada será feito por concurso documental, ao qual poderão concorrer todos os indivíduos que provarem possuir estágios idóneos na respectiva especialidade no mínimo de um ano ou título de especialização.
+§ 2.º Se o número de candidatos presentes a concurso nos termos do corpo do artigo e no seu § 1.º for insuficiente, poderão candidatar-se ao referido concurso enfermeiros de 1.ª e 2.ª classes que não pertençam aos quadros do Hospital do Ultramar, desde que satisfaçam aos requisitos legais, sempre sem prejuízo da preferência dada aos enfermeiros ou enfermeiras do Hospital do Ultramar.
 
-Art. 103.º O ingresso no ramo de enfermagem auxiliar far-se-á na sua única classe por meio de concurso documental, exigindo-se aos candidatos, além dos requisitos legais para o exercício da função pública, a habilitação com o curso de auxiliar de enfermagem.
+> Alterado pelo/a [Decreto-Lei n.º 49356](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49356-1969-215157), publicado em 1969-11-05.
+
+###### Artigo 100.º
+
+O lugar de enfermeiro ou enfermeira-geral será provido por escolha de entre os enfermeiros ou enfermeiras-chefes que possuam o curso complementar de enfermagem e, pelo menos, três anos de exercício no cargo de enfermeiro-chefe.
+
+###### Artigo 101.º
+
+O lugar de superintendente de enfermagem será provido por enfermeiro ou enfermeira-geral desde que no exercício do seu cargo tenha revelado qualidades de chefia e tenha um mínimo de três anos de serviço.
+
+###### Artigo 102.º
+
+O ingresso no ramo de enfermagem especializada será feito por concurso documental, ao qual poderão concorrer todos os indivíduos que provarem possuir estágios idóneos na respectiva especialidade no mínimo de um ano ou título de especialização.
+
+###### Artigo 103.º
+
+O ingresso no ramo de enfermagem auxiliar far-se-á na sua única classe por meio de concurso documental, exigindo-se aos candidatos, além dos requisitos legais para o exercício da função pública, a habilitação com o curso de auxiliar de enfermagem.
 
 ##### SUBSECÇÃO III — Dos outros ramos do pessoal
 
-Art. 104.º O ramo do pessoal técnico auxiliar de terapêutica e diagnóstico compreende o pessoal coadjuvante das classes dos preparadores de laboratório, radiologia, radioterapia, fisioterapia, prótese dentária e outras, electrotecnia, dietética, ajudantes de farmácia e demais classes que careçam de preparação técnica.
+###### Artigo 104.º
 
-Art. 105.º O ingresso nas diferentes classes atrás referidas far-se-á por nomeação, precedendo concurso documental ou por contrato, na categoria mais baixa da respectiva hierarquia, entre candidatos que, além dos requisitos gerais para o exercício da função pública, estejam habilitados com os correspondentes cursos professados em escola oficial ou particular, devidamente reconhecida.
+O ramo do pessoal técnico auxiliar de terapêutica e diagnóstico compreende o pessoal coadjuvante das classes dos preparadores de laboratório, radiologia, radioterapia, fisioterapia, prótese dentária e outras, electrotecnia, dietética, ajudantes de farmácia e demais classes que careçam de preparação técnica.
 
-Art. 106.º O ramo do serviço social compreende as seguintes categorias:
+###### Artigo 105.º
+
+O ingresso nas diferentes classes atrás referidas far-se-á por nomeação, precedendo concurso documental ou por contrato, na categoria mais baixa da respectiva hierarquia, entre candidatos que, além dos requisitos gerais para o exercício da função pública, estejam habilitados com os correspondentes cursos professados em escola oficial ou particular, devidamente reconhecida.
+
+###### Artigo 106.º
+
+O ramo do serviço social compreende as seguintes categorias:
 
 a) Assistente social;
 
@@ -1089,13 +1323,21 @@ b) Auxiliar social;
 
 c) Agente de educação familiar rural.
 
-Art. 107.º O ingresso no ramo de serviço social far-se-á por concurso documental entre os candidatos possuidores dos respectivos cursos e o provimento será por nomeação ou contrato.
+###### Artigo 107.º
 
-Art. 108.º O ensino primário ficará a cargo de uma professora destacada dos quadros das províncias ultramarinas em comissão nos termos do [Decreto-Lei n.º 44077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44077-1961-185076), de 7 de Dezembro de 1961.
+O ingresso no ramo de serviço social far-se-á por concurso documental entre os candidatos possuidores dos respectivos cursos e o provimento será por nomeação ou contrato.
 
-Art. 109.º O serviço religioso ficará a cargo de um capelão, nos termos do [Decreto n.º 38552](https://diariodarepublica.pt/dr/detalhe/decreto/38552-1951-567679), de 7 de Dezembro de 1951, que será designado pela competente autoridade eclesiástica, produzindo esta designação efeitos desde a data do despacho do Ministro do Ultramar e do respectivo visto do Tribunal de Contas.
+###### Artigo 108.º
 
-Art. 110.º O ramo dos serviços gerais compreenderá os arquivistas, os dactilógrafos, os auxiliares de secretaria e da administração, os operários, os contínuos, os porteiros, o pessoal de cozinha, o pessoal da lavadaria e rouparia, o fiel de depósito e outro pessoal que exerça no estabelecimento actividades análogas.
+O ensino primário ficará a cargo de uma professora destacada dos quadros das províncias ultramarinas em comissão nos termos do [Decreto-Lei n.º 44077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44077-1961-185076), de 7 de Dezembro de 1961.
+
+###### Artigo 109.º
+
+O serviço religioso ficará a cargo de um capelão, nos termos do [Decreto n.º 38552](https://diariodarepublica.pt/dr/detalhe/decreto/38552-1951-567679), de 7 de Dezembro de 1951, que será designado pela competente autoridade eclesiástica, produzindo esta designação efeitos desde a data do despacho do Ministro do Ultramar e do respectivo visto do Tribunal de Contas.
+
+###### Artigo 110.º
+
+O ramo dos serviços gerais compreenderá os arquivistas, os dactilógrafos, os auxiliares de secretaria e da administração, os operários, os contínuos, os porteiros, o pessoal de cozinha, o pessoal da lavadaria e rouparia, o fiel de depósito e outro pessoal que exerça no estabelecimento actividades análogas.
 
 § único. O provimento destes lugares far-se-á por contrato, exceptuando-se os operários, serventes, barbeiros, lavadeiras, costureiras, sacristão e trabalhadores do parque e jardins, que serão assalariados.
 
@@ -1103,17 +1345,29 @@ Art. 110.º O ramo dos serviços gerais compreenderá os arquivistas, os dactil�
 
 ##### SUBSECÇÃO I — Normas gerais
 
-Art. 111.º Salvo as disposições do presente regulamento, o pessoal dos quadros do Hospital tem os direitos e deveres previstos no Estatuto dos Funcionários Públicos, ficando designadamente sujeito na parte aplicável ao regime disciplinar aí estabelecido.
+###### Artigo 111.º
 
-Art. 112.º Nos termos do artigo 82.º do [Decreto n.º 39028](https://diariodarepublica.pt/dr/detalhe/decreto/39028-1952-305459), de 6 de Dezembro de 1952, ao pessoal sem residência no recinto hospitalar, quando por motivo de serviço haja de permanecer demoradamente no Hospital, poderá ser fornecida alimentação, devendo-lhe ser descontada nos seus vencimentos a importância do custo das refeições, a qual será fixada semestralmente pelo conselho administrativo.
+Salvo as disposições do presente regulamento, o pessoal dos quadros do Hospital tem os direitos e deveres previstos no Estatuto dos Funcionários Públicos, ficando designadamente sujeito na parte aplicável ao regime disciplinar aí estabelecido.
 
-Art. 113.º Ao pessoal que haja de permanecer em actividade de serviço durante 24 horas, de harmonia com o artigo 6.º do [Decreto-Lei n.º 41431](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41431-1957-252178), de 7 de Dezembro de 1957, será fornecida gratuitamente alimentação.
+###### Artigo 112.º
 
-Art. 114.º Aos médicos, farmacêuticos, ajudantes de farmácia, pessoal de enfermagem, pessoal técnico coadjuvante e serventes serão fornecidas gratuitamente blusas de tecidos diferenciados para uso nos respectivos serviços.
+Nos termos do artigo 82.º do [Decreto n.º 39028](https://diariodarepublica.pt/dr/detalhe/decreto/39028-1952-305459), de 6 de Dezembro de 1952, ao pessoal sem residência no recinto hospitalar, quando por motivo de serviço haja de permanecer demoradamente no Hospital, poderá ser fornecida alimentação, devendo-lhe ser descontada nos seus vencimentos a importância do custo das refeições, a qual será fixada semestralmente pelo conselho administrativo.
 
-Art. 115.º Ao pessoal menor do Hospital é concedido fardamento de 2.ª qualidade nas mesmas condições em que o do quadro do Ministério do Ultramar. O referido pessoal goza da regalia estabelecida pelo § 1.º do artigo 154.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957.
+###### Artigo 113.º
 
-Art. 116.º São deveres gerais de todos os funcionários do Hospital:
+Ao pessoal que haja de permanecer em actividade de serviço durante 24 horas, de harmonia com o artigo 6.º do [Decreto-Lei n.º 41431](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41431-1957-252178), de 7 de Dezembro de 1957, será fornecida gratuitamente alimentação.
+
+###### Artigo 114.º
+
+Aos médicos, farmacêuticos, ajudantes de farmácia, pessoal de enfermagem, pessoal técnico coadjuvante e serventes serão fornecidas gratuitamente blusas de tecidos diferenciados para uso nos respectivos serviços.
+
+###### Artigo 115.º
+
+Ao pessoal menor do Hospital é concedido fardamento de 2.ª qualidade nas mesmas condições em que o do quadro do Ministério do Ultramar. O referido pessoal goza da regalia estabelecida pelo § 1.º do artigo 154.º do [Decreto-Lei n.º 41169](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41169-1957-149817), de 29 de Junho de 1957.
+
+###### Artigo 116.º
+
+São deveres gerais de todos os funcionários do Hospital:
 
 a) Desempenhar com dedicação, zelo e assiduidade as funções que lhes forem atribuídas;
 
@@ -1137,7 +1391,9 @@ j) Aperfeiçoar e desenvolver os conhecimentos nas matérias que respeitam ao ex
 
 ##### SUBSECÇÃO II — Do pessoal médico
 
-Art. 117.º Compete ao pessoal médico do Hospital:
+###### Artigo 117.º
+
+Compete ao pessoal médico do Hospital:
 
 1.º Vigiar toda a actividade hospitalar que se relacione com os doentes, chamando a atenção para quaisquer deficiências que possam ter influência desfavorável no seu tratamento, procurando manter a indispensável disciplina e o melhor nível moral e científico;
 
@@ -1177,9 +1433,13 @@ DIVISÃO I
 
 Do médico de dia
 
-Art. 118.º O serviço do médico de dia é feito por escala, entre médicos do Hospital, sendo cada serviço contado com a sua permanência no Hospital entre as 13 horas de um dia e as 13 horas do dia seguinte.
+###### Artigo 118.º
 
-Art. 119.º Além das obrigações gerais referidas no artigo 116.º, compete ao médico de dia:
+O serviço do médico de dia é feito por escala, entre médicos do Hospital, sendo cada serviço contado com a sua permanência no Hospital entre as 13 horas de um dia e as 13 horas do dia seguinte.
+
+###### Artigo 119.º
+
+Além das obrigações gerais referidas no artigo 116.º, compete ao médico de dia:
 
 1.º Receber, examinar e tratar na medida do possível os doentes que se apresentem com afecção considerada de urgência e promover o seu internamento, designando-lhes quarto ou enfermaria;
 
@@ -1199,7 +1459,9 @@ Art. 119.º Além das obrigações gerais referidas no artigo 116.º, compete ao
 
 ##### SUBSECÇÃO III — Do farmacêutico
 
-Art. 120.º Compete ao farmacêutico:
+###### Artigo 120.º
+
+Compete ao farmacêutico:
 
 1.º Responder por todos os medicamentos e utensílios a seu cargo, pela sua boa arrumação e conservação e pelo asseio e ordem da farmácia e do depósito;
 
@@ -1221,13 +1483,21 @@ Art. 120.º Compete ao farmacêutico:
 
 10.º Escriturar para cada medicamento e em livro próprio a venda de medicamentos e mais artigos feitos pela farmácia a particulares, onde conste o preço da aquisição, o lucro realizado na venda e o custo da manipulação.
 
-Art. 121.º O fornecimento diário dos produtos medicamentosos e laboratoriais será feito pelo adjudicatário em face de requisições formuladas pelo farmacêutico e visadas pelo director do Hospital.
+###### Artigo 121.º
 
-Art. 122.º A responsabilidade do farmacêutico envolve não só a parte técnica, mas ainda a referente à existência de todos os artigos em carga.
+O fornecimento diário dos produtos medicamentosos e laboratoriais será feito pelo adjudicatário em face de requisições formuladas pelo farmacêutico e visadas pelo director do Hospital.
 
-Art. 123.º Em face dos livros de receituário, o farmacêutico deverá elaborar um mapa mensal do movimento dos seus serviços, nomeadamente dos medicamentos consumidos, que será rubricado pelo director do Hospital.
+###### Artigo 122.º
 
-Art. 124.º O farmacêutico escriturará um livro de receita e despesa onde lançará sucessiva e cronològicamente:
+A responsabilidade do farmacêutico envolve não só a parte técnica, mas ainda a referente à existência de todos os artigos em carga.
+
+###### Artigo 123.º
+
+Em face dos livros de receituário, o farmacêutico deverá elaborar um mapa mensal do movimento dos seus serviços, nomeadamente dos medicamentos consumidos, que será rubricado pelo director do Hospital.
+
+###### Artigo 124.º
+
+O farmacêutico escriturará um livro de receita e despesa onde lançará sucessiva e cronològicamente:
 
 1.º De um lado, todos os artigos recebidos, como sejam:
 
@@ -1247,17 +1517,27 @@ c) Nas requisições devidamente autorizadas;
 
 d) Nos artigos inutilizados.
 
-Art. 125.º Todos os lançamentos deste livro deverão ser devidamente documentados.
+###### Artigo 125.º
 
-Art. 126.º Serão documentos comprovativos da receita as guias de remessa dos artigos fornecidos pelo depósito em virtude das ordens diárias e as contas dos fornecedores de medicamentos e utensílios de farmácia feitas no Hospital.
+Todos os lançamentos deste livro deverão ser devidamente documentados.
+
+###### Artigo 126.º
+
+Serão documentos comprovativos da receita as guias de remessa dos artigos fornecidos pelo depósito em virtude das ordens diárias e as contas dos fornecedores de medicamentos e utensílios de farmácia feitas no Hospital.
 
 § único. As facturas dos fornecedores, depois de conferidas pelo farmacêutico e registados no respectivo livro os produtos e mais artigos delas constantes, serão apresentadas ao conselho administrativo para efeitos de pagamento.
 
-Art. 127.º Serão documentos comprovativos de despesa os mapas mensais referidos no artigo 123.º termos de inutilização e outras despesas diárias visadas pelo director.
+###### Artigo 127.º
 
-Art. 128.º Os artigos propostos para a inutilização, por não se encontrarem em condições de serviço, serão examinados pelo conselho administrativo, que mandará lavrar o respectivo termo de inutilização.
+Serão documentos comprovativos de despesa os mapas mensais referidos no artigo 123.º termos de inutilização e outras despesas diárias visadas pelo director.
 
-Art. 129.º O farmacêutico não deverá ausentar-se do Hospital sem haver concluído o serviço ordinário da farmácia ou sem licença do director ou de quem o substituir.
+###### Artigo 128.º
+
+Os artigos propostos para a inutilização, por não se encontrarem em condições de serviço, serão examinados pelo conselho administrativo, que mandará lavrar o respectivo termo de inutilização.
+
+###### Artigo 129.º
+
+O farmacêutico não deverá ausentar-se do Hospital sem haver concluído o serviço ordinário da farmácia ou sem licença do director ou de quem o substituir.
 
 ##### SUBSECÇÃO IV — Do pessoal de enfermagem
 
@@ -1265,7 +1545,9 @@ DIVISÃO I
 
 Da superintendente de enfermagem
 
-Art. 130.º À superintendente de enfermagem compete especialmente:
+###### Artigo 130.º
+
+À superintendente de enfermagem compete especialmente:
 
 1.º Instruir, orientar e fiscalizar os serviços de enfermagem;
 
@@ -1299,9 +1581,13 @@ DIVISÃO II
 
 Do pessoal de enfermagem em geral
 
-Art. 131.º O enfermeiro ou enfermeira-geral colaborará em todas as actividades com a superintendente e poderá dela receber delegação na responsabilidade de determinados serviços, quando seja autorizada.
+###### Artigo 131.º
 
-Art. 132.º Compete aos enfermeiros ou enfermeiras-chefes, enfermeiros e enfermeiras de uma maneira geral coordenar os serviços de enfermagem do seu sector, pavilhão ou enfermaria, e designadamente:
+O enfermeiro ou enfermeira-geral colaborará em todas as actividades com a superintendente e poderá dela receber delegação na responsabilidade de determinados serviços, quando seja autorizada.
+
+###### Artigo 132.º
+
+Compete aos enfermeiros ou enfermeiras-chefes, enfermeiros e enfermeiras de uma maneira geral coordenar os serviços de enfermagem do seu sector, pavilhão ou enfermaria, e designadamente:
 
 1.º Criar e manter o conforto dos doentes que lhes são confiados,
 
@@ -1339,7 +1625,9 @@ Art. 132.º Compete aos enfermeiros ou enfermeiras-chefes, enfermeiros e enferme
 
 18.º Enviar pontualmente à secretaria as papeletas dos doentes com alta, devidamente escrituradas.
 
-Art. 133.º Fica sujeito a estas obrigações e a todas as demais que forem ordenadas pelos respectivos clínicos o pessoal que trabalha nos seguintes sectores:
+###### Artigo 133.º
+
+Fica sujeito a estas obrigações e a todas as demais que forem ordenadas pelos respectivos clínicos o pessoal que trabalha nos seguintes sectores:
 
 a) Serviços de fisioterapia;
 
@@ -1359,7 +1647,9 @@ g) Serviços de biofísica.
 
 ##### SUBSECÇÃO V — Do capelão
 
-Art. 134.º Compete ao capelão:
+###### Artigo 134.º
+
+Compete ao capelão:
 
 1.º Prestar aos doentes e pessoal hospitalar todos os socorros espirituais que lhe sejam solicitados;
 
@@ -1379,7 +1669,9 @@ DIVISÃO I
 
 Dos operários
 
-Art. 135.º Compete aos operários em geral:
+###### Artigo 135.º
+
+Compete aos operários em geral:
 
 1.º Permanecer no Hospital durante as horas normais de serviço e extraordinàriamente sempre que sejam convocados;
 
@@ -1395,7 +1687,9 @@ DIVISÃO II
 
 Dos motoristas
 
-Art. 136.º Compete aos motoristas:
+###### Artigo 136.º
+
+Compete aos motoristas:
 
 1.º Cuidar das viaturas a seu cargo, requisitar todo o material, combustível e lubrificantes necessários ao seu normal funcionamento e justificar por escrito o seu consumo;
 
@@ -1411,7 +1705,9 @@ DIVISÃO III
 
 Do porteiro
 
-Art. 137.º São obrigações do porteiro:
+###### Artigo 137.º
+
+São obrigações do porteiro:
 
 1.º Abrir e fechar o portão do Hospital às horas que lhe forem determinadas;
 
@@ -1429,7 +1725,9 @@ DIVISÃO IV
 
 Do barbeiro
 
-Art. 138.º São obrigações do barbeiro:
+###### Artigo 138.º
+
+São obrigações do barbeiro:
 
 1.º Fazer a barba e cortar o cabelo aos doentes, aos recém-falecidos e ao pessoal menor do Hospital;
 
@@ -1443,7 +1741,9 @@ DIVISÃO V
 
 Da telefonista
 
-Art. 139.º São obrigações da telefonista:
+###### Artigo 139.º
+
+São obrigações da telefonista:
 
 1.º Assegurar pelos meios ao seu alcance todas as ligações telefónicas;
 
@@ -1455,7 +1755,9 @@ DIVISÃO VI
 
 Dos serventes em geral
 
-Art. 140.º São obrigações dos serventes de uma maneira geral:
+###### Artigo 140.º
+
+São obrigações dos serventes de uma maneira geral:
 
 1.º Permanecer no Hospital nas horas normais de serviço e extraordinàriamente sempre que as circunstâncias o exijam;
 
@@ -1467,7 +1769,9 @@ DIVISÃO VII
 
 Dos serventes das enfermarias
 
-Art. 141.º Aos serventes das enfermarias compete:
+###### Artigo 141.º
+
+Aos serventes das enfermarias compete:
 
 1.º Fazer a limpeza das enfermarias e dos doentes e quaisquer outros servidos do Hospital que lhes forem ordenados;
 
@@ -1489,7 +1793,9 @@ Art. 141.º Aos serventes das enfermarias compete:
 
 #### SECÇÃO I — Da classificação dos doentes e respectivas contribuições de tratamento
 
-Art. 142.º Os doentes admitidos para tratamento em qualquer dos serviços hospitalares classificam-se em:
+###### Artigo 142.º
+
+Os doentes admitidos para tratamento em qualquer dos serviços hospitalares classificam-se em:
 
 1.º Funcionários e equiparados;
 
@@ -1497,7 +1803,9 @@ Art. 142.º Os doentes admitidos para tratamento em qualquer dos serviços hospi
 
 3.º Particulares.
 
-Art. 143.º Consideram-se abrangidos na classificação de funcionários e equiparados:
+###### Artigo 143.º
+
+Consideram-se abrangidos na classificação de funcionários e equiparados:
 
 a) Funcionários civis dos quadros das províncias ultramarinas, incluindo os dos organismos de coordenação económica, do Ministério do Ultramar e dos seus organismos dependentes e consultivos;
 
@@ -1519,7 +1827,7 @@ i) Estudantes provenientes do ultramar que provem ser econòmicamente débeis, q
 
 j) Trabalhadores econòmicamente débeis, do comércio, da indústria e da agricultura das províncias ultramarinas, com remunerações mensais iguais ou inferiores aos vencimentos dos funcionários públicos da categoria da letra U;
 
-l) Pensionistas do Instituto Ultramarino;
+L) Pensionistas do Instituto Ultramarino e das províncias ultramarinas;
 
 m) Doentes internados pelo Instituto de Medicina Tropical.
 
@@ -1527,7 +1835,11 @@ m) Doentes internados pelo Instituto de Medicina Tropical.
 
 § 2.º Os funcionários mencionados nas alíneas a) e b) deste artigo quando na situação de licença ilimitada, assim como os seus familiares, não beneficiam da assistência prevista neste regulamento.
 
-Art. 144.º Consideram-se pobres:
+> Alterado pelo/a [Decreto n.º 46068](https://diariodarepublica.pt/dr/detalhe/decreto/46068-1964-517412), publicado em 1964-12-07.
+
+###### Artigo 144.º
+
+Consideram-se pobres:
 
 a) Todos os indivíduos que, tendo vivido pelo menos durante dez anos no ultramar e se encontrem residindo na metrópole provem ser econòmicamente débeis;
 
@@ -1539,15 +1851,21 @@ c) Os portadores de doenças tropicais quando igualmente se encontrem impossibil
 
 § 2.º Aos doentes pobres vindos do ultramar portadores de cancro, doença mental ou lepra, que se apresentem no Hospital do Ultramar ser-lhes-á sempre prestada assistência gratuita em estabelecimento nosocomial adequado, ficando os encargos do tratamento e hospitalização a cargo do Hospital do Ultramar, que os mandará baixar àqueles estabelecimentos quando não disponha de meios para a prestação daquela assistência.
 
-Art. 145.º Consideram-se doentes particulares todos os restantes doentes que possam vir a ser admitidos no Hospital, em regime ambulatório ou de internamento, não beneficiando de regalias da prioridade na assistência ou bonificação nos respectivos encargos de tratamento.
+###### Artigo 145.º
 
-Art. 146.º A assistência aos funcionários e suas famílias quando portadores das doenças referidas no § 2.º do artigo 144.º obedecerá às seguintes regras, desde que o Hospital do Ultramar não disponha de meios de tratamento:
+Consideram-se doentes particulares todos os restantes doentes que possam vir a ser admitidos no Hospital, em regime ambulatório ou de internamento, não beneficiando de regalias da prioridade na assistência ou bonificação nos respectivos encargos de tratamento.
+
+###### Artigo 146.º
+
+A assistência aos funcionários e suas famílias quando portadores das doenças referidas no § 2.º do artigo 144.º obedecerá às seguintes regras, desde que o Hospital do Ultramar não disponha de meios de tratamento:
 
 a) As despesas com o tratamento e internamento em estabelecimento nosocomial adequado correrão por verba própria do Hospital do Ultramar, quando se trate de funcionários do Ministério do Ultramar e seus organismos dependentes ou consultivos;
 
 b) As despesas com o tratamento e internamento de funcionários ultramarinos e suas famílias nos mesmos estabelecimentos correrão por conta das dotações inscritas no orçamento das respectivas províncias para esse fim inscritos ou nos respectivos orçamentos privativos quando se trate de funcionários dos serviços autónomos ou dos organismos de coordenação económica das províncias ultramarinas.
 
-Art. 147.º Por cada acto de assistência em regime ambulatório, sem qualquer excepção, os doentes funcionários ou equiparados pagarão a importância de 10$00 e, quando internados, as seguintes taxas diárias de hospitalização, compreendendo toda a assistência médica e cirúrgica, meios de diagnóstico, assistência de enfermagem, medicamentos, etc.:
+###### Artigo 147.º
+
+Por cada acto de assistência em regime ambulatório, sem qualquer excepção, os doentes funcionários ou equiparados pagarão a importância de 10$00 e, quando internados, as seguintes taxas diárias de hospitalização, compreendendo toda a assistência médica e cirúrgica, meios de diagnóstico, assistência de enfermagem, medicamentos, etc.:
 
 1.ª classe (quartos especiais) ... 80$00
 
@@ -1583,9 +1901,13 @@ g) O pessoal missionário será hospitalizado nas classes correspondentes àquel
 
 § 6.º O pessoal do Hospital do Ultramar é isento do pagamento das taxas previstas neste regulamento tanto em regime de internamento como em consulta externa.
 
-Art. 148.º Os doentes pobres do ultramar receberão assistência gratuita tanto em regime ambulatório como de internamento.
+###### Artigo 148.º
 
-Art. 149.º Os doentes particulares, além das taxas e preços previstos na tabela de honorários médico-cirúrgicos que vier a ser aprovada superiormente, pagarão como taxa diária do internamento o seguinte:
+Os doentes pobres do ultramar receberão assistência gratuita tanto em regime ambulatório como de internamento.
+
+###### Artigo 149.º
+
+Os doentes particulares, além das taxas e preços previstos na tabela de honorários médico-cirúrgicos que vier a ser aprovada superiormente, pagarão como taxa diária do internamento o seguinte:
 
 1.ª classe (quartos especiais) ... 300$00
 
@@ -1595,63 +1917,105 @@ Art. 149.º Os doentes particulares, além das taxas e preços previstos na tabe
 
 3.ª classe (quartos normais) ... 50$00
 
-Art. 150.º Os doentes particulares depositarão a importância julgada bastante pelo conselho administrativo do Hospital para garantir as despesas com o seu internamento. E se assim se reconhecer necessário, poderá ser-lhes exigida carta abonatória de firma comercial ou industrial idónea responsabilizando-se pelos respectivos encargos.
+###### Artigo 150.º
+
+Os doentes particulares depositarão a importância julgada bastante pelo conselho administrativo do Hospital para garantir as despesas com o seu internamento. E se assim se reconhecer necessário, poderá ser-lhes exigida carta abonatória de firma comercial ou industrial idónea responsabilizando-se pelos respectivos encargos.
 
 § único. Igual procedimento poderá ser estabelecido para outros doentes quando a sua situação especial não ofereça a necessária garantia à cobrança de receita do Estado.
 
-Art. 151.º Quando, por qualquer motivo, se não obtenha o pagamento voluntário dos débitos resultantes do internamento dos doentes, proceder-se-á à sua cobrança coerciva por intermédio do juízo de execuções fiscais, constituindo documento bastante a respectiva certidão de dívida extraída pelo conselho administrativo do Hospital.
+###### Artigo 151.º
+
+Quando, por qualquer motivo, se não obtenha o pagamento voluntário dos débitos resultantes do internamento dos doentes, proceder-se-á à sua cobrança coerciva por intermédio do juízo de execuções fiscais, constituindo documento bastante a respectiva certidão de dívida extraída pelo conselho administrativo do Hospital.
 
 #### SECÇÃO II — Da admissão e transferência de doentes
 
-Art. 152.º A admissão dos doentes às consultas externas será feita sempre mediante guia passada pela entidade competente, documento bastante ou inquérito imediato que permita identificar o doente de qualquer dos grupos referidos nos artigos 143.º e 144.º do presente regulamento.
+###### Artigo 152.º
+
+A admissão dos doentes às consultas externas será feita sempre mediante guia passada pela entidade competente, documento bastante ou inquérito imediato que permita identificar o doente de qualquer dos grupos referidos nos artigos 143.º e 144.º do presente regulamento.
 
 § único. Em casos excepcionais e de urgência justificada poderá o director do Hospital permitir que a apresentação da guia ou do documento de identificação seja feita posteriormente.
 
 Esta dispensa só terá lugar para a primeira consulta.
 
-Art. 153.º A admissão dos doentes em regime de internamento só terá lugar, em regra, após observação em consulta externa e quando se confirme a necessidade de internamento.
+###### Artigo 153.º
+
+A admissão dos doentes em regime de internamento só terá lugar, em regra, após observação em consulta externa e quando se confirme a necessidade de internamento.
 
 § único. Exceptuam-se das disposições do corpo do artigo os casos de reconhecida urgência devidamente autorizados pelo director do Hospital.
 
-Art. 154.º Os doentes particulares só poderão ser admitidos, tanto em regime de consulta externa como em regime de internamento, desde que dessa admissão não resulte prejuízo para a missão fundamental do Hospital e após autorização expressa do respectivo director para cada caso.
+###### Artigo 154.º
 
-Art. 155.º Os doentes portadores de doenças transmissíveis só poderão ser admitidos a tratamento se as instalações e outras circunstâncias inerentes ao bom funcionamento do Hospital o permitirem.
+Os doentes particulares só poderão ser admitidos, tanto em regime de consulta externa como em regime de internamento, desde que dessa admissão não resulte prejuízo para a missão fundamental do Hospital e após autorização expressa do respectivo director para cada caso.
 
-Art. 156.º A entrada de doentes para internamento terá lugar, ordinàriamente, das 16 às 17 horas de cada dia útil, depois de satisfeitas as elementares regras de higiene corporal e fornecidas roupas do Hospital.
+###### Artigo 155.º
 
-Art. 157.º Os objectos ou valores que o doente deseje confiar à guarda do Hospital serão encerrados em volume ou envelope lacrado, onde constará a relação discriminada desses objectos ou valores, assinada pelo responsável pela admissão e pelo doente ou pessoa que o acompanhe, devidamente identificada, a quem será passado competente recibo.
+Os doentes portadores de doenças transmissíveis só poderão ser admitidos a tratamento se as instalações e outras circunstâncias inerentes ao bom funcionamento do Hospital o permitirem.
 
-Art. 158.º As roupas pessoais do doente serão recolhidas e esterilizadas em sacos adequados e depois guardadas em locais próprios. Delas se fará relação circunstanciada, que será assinada nos mesmos moldes do artigo anterior.
+###### Artigo 156.º
 
-Art. 159.º Para cada doente haverá um processo administrativo, do qual constarão os documentos relativos ao seu internamento, e também um processo clínico com a história clínica e documentos anexos relativos à terapêutica e diagnóstico.
+A entrada de doentes para internamento terá lugar, ordinàriamente, das 16 às 17 horas de cada dia útil, depois de satisfeitas as elementares regras de higiene corporal e fornecidas roupas do Hospital.
 
-Art. 160.º Na ficha de admissão será anotada a morada das pessoas que devem ser avisadas de todas as ocorrências relativas a evolução de doença ou por virtude de desejos manifestados pelo enfermo.
+###### Artigo 157.º
 
-Art. 161.º A transferência de doentes entre o regime de consulta externa e o internamento ou vice-versa implica a baixa dada no serviço de origem e competente registo de admissão naquele que recebe o enfermo.
+Os objectos ou valores que o doente deseje confiar à guarda do Hospital serão encerrados em volume ou envelope lacrado, onde constará a relação discriminada desses objectos ou valores, assinada pelo responsável pela admissão e pelo doente ou pessoa que o acompanhe, devidamente identificada, a quem será passado competente recibo.
+
+###### Artigo 158.º
+
+As roupas pessoais do doente serão recolhidas e esterilizadas em sacos adequados e depois guardadas em locais próprios. Delas se fará relação circunstanciada, que será assinada nos mesmos moldes do artigo anterior.
+
+###### Artigo 159.º
+
+Para cada doente haverá um processo administrativo, do qual constarão os documentos relativos ao seu internamento, e também um processo clínico com a história clínica e documentos anexos relativos à terapêutica e diagnóstico.
+
+###### Artigo 160.º
+
+Na ficha de admissão será anotada a morada das pessoas que devem ser avisadas de todas as ocorrências relativas a evolução de doença ou por virtude de desejos manifestados pelo enfermo.
+
+###### Artigo 161.º
+
+A transferência de doentes entre o regime de consulta externa e o internamento ou vice-versa implica a baixa dada no serviço de origem e competente registo de admissão naquele que recebe o enfermo.
 
 § único. O processo clínico acompanhará sempre o doente transferido.
 
-Art. 162.º Sempre que o período de internamento ultrapasse largamente a média observada no internamento geral hospitalar, deverá ser anotada no respectivo processo a necessária justificação para apreciação e conhecimento do director do Hospital.
+###### Artigo 162.º
+
+Sempre que o período de internamento ultrapasse largamente a média observada no internamento geral hospitalar, deverá ser anotada no respectivo processo a necessária justificação para apreciação e conhecimento do director do Hospital.
 
 #### SECÇÃO III — Das regalias e obrigações dos doentes
 
-Art. 163.º Os doentes receberão do Hospital o conforto e a assistência, possíveis para tratamento dos seus males.
+###### Artigo 163.º
 
-Art. 164.º No caso de o Hospital não dispor de meios especializados para estudo ou tratamento de determinada doença, poderão os beneficiários referidos nos artigos 143.º e 144.º deste regulamento, quando internados, ser enviados, por recomendação do médico assistente, a outro departamento de assistência especializado para, em regime ambulatório, serem observados ou tratados, correndo por conta do Hospital as respectivas despesas.
+Os doentes receberão do Hospital o conforto e a assistência, possíveis para tratamento dos seus males.
+
+###### Artigo 164.º
+
+No caso de o Hospital não dispor de meios especializados para estudo ou tratamento de determinada doença, poderão os beneficiários referidos nos artigos 143.º e 144.º deste regulamento, quando internados, ser enviados, por recomendação do médico assistente, a outro departamento de assistência especializado para, em regime ambulatório, serem observados ou tratados, correndo por conta do Hospital as respectivas despesas.
 
 § único. Se as condições de assistência obrigarem o internamento noutro estabelecimento hospitalar especializado, a respectiva despesa será de conta do beneficiário, salvo os casos previstos no § 2.º do artigo 144.º e artigo 146.º do presente regulamento.
 
-Art. 165.º Havendo motivo justificado para reclamação sobre deficiências de serviço, deverá ela ser dirigida ao clínico assistente ou ao médico de dia e, na sua ausência, à superintendente de enfermagem, para os fins convenientes.
+###### Artigo 165.º
 
-Art. 166.º É facultado aos doentes o uso dos locais de descanso e recreio que lhes são designados, mas eles deverão conformar-se com as limitações impostas pelas normas de correcção, higiene e bons costumes e ainda com as constantes da regulamentação interna do Hospital.
+Havendo motivo justificado para reclamação sobre deficiências de serviço, deverá ela ser dirigida ao clínico assistente ou ao médico de dia e, na sua ausência, à superintendente de enfermagem, para os fins convenientes.
 
-Art. 167.º As visitas são recebidas no Hospital nos dias e horas para isso designados, mas deverão evitar incomodar os doentes com barulho ou conversas e procurarão não sujar ou desarrumar os locais em que são recebidas.
+###### Artigo 166.º
 
-Art. 168.º Haverá visitas gratuitas aos domingos e quintas-feiras, das 16 às 18 horas.
+É facultado aos doentes o uso dos locais de descanso e recreio que lhes são designados, mas eles deverão conformar-se com as limitações impostas pelas normas de correcção, higiene e bons costumes e ainda com as constantes da regulamentação interna do Hospital.
 
-Art. 169.º As visitas nos dias não designados no artigo anterior obrigam ao pagamento da taxa que estiver fixada e quando fora das horas regulamentares carecem ainda de autorização especial.
+###### Artigo 167.º
 
-Art. 170.º São proibidas as visitas aos doentes em cujas papeletas os clínicos o tenham declarado por conveniência de tratamento.
+As visitas são recebidas no Hospital nos dias e horas para isso designados, mas deverão evitar incomodar os doentes com barulho ou conversas e procurarão não sujar ou desarrumar os locais em que são recebidas.
+
+###### Artigo 168.º
+
+Haverá visitas gratuitas aos domingos e quintas-feiras, das 16 às 18 horas.
+
+###### Artigo 169.º
+
+As visitas nos dias não designados no artigo anterior obrigam ao pagamento da taxa que estiver fixada e quando fora das horas regulamentares carecem ainda de autorização especial.
+
+###### Artigo 170.º
+
+São proibidas as visitas aos doentes em cujas papeletas os clínicos o tenham declarado por conveniência de tratamento.
 
 § 1.º As crianças só podem ser admitidas como visitas no Hospital depois dos 10 anos, salvo casos devidamente justificados perante a superintendente de enfermagem.
 
@@ -1659,13 +2023,21 @@ Art. 170.º São proibidas as visitas aos doentes em cujas papeletas os clínico
 
 § 3.º É proibida a entrada no Hospital a visitantes em estado de embriaguez e aos que se apresentem em condições precárias de asseio.
 
-Art. 171.º Os doentes devem observar diàriamente as indispensáveis regras de higiene consigo próprios, mantendo-se limpos, barbeados e com o cabelo cortado.
+###### Artigo 171.º
 
-Art. 172.º Os doentes deverão zelar pela conservação de roupas, objectos e utensílios de que se sirvam, sendo responsáveis pelos prejuízos causados que causarem.
+Os doentes devem observar diàriamente as indispensáveis regras de higiene consigo próprios, mantendo-se limpos, barbeados e com o cabelo cortado.
 
-Art. 173.º É proibido aos doentes perturbar a ordem e disciplina do Hospital. Pela infracção desta regra poderão ser repreendidos e nos casos graves ou de reincidência poderá ser proposta a sua alta, ponderando-se sempre as consequências clínicas de tal atitude.
+###### Artigo 172.º
 
-Art. 174.º Aos doentes hospitalizados é proibido:
+Os doentes deverão zelar pela conservação de roupas, objectos e utensílios de que se sirvam, sendo responsáveis pelos prejuízos causados que causarem.
+
+###### Artigo 173.º
+
+É proibido aos doentes perturbar a ordem e disciplina do Hospital. Pela infracção desta regra poderão ser repreendidos e nos casos graves ou de reincidência poderá ser proposta a sua alta, ponderando-se sempre as consequências clínicas de tal atitude.
+
+###### Artigo 174.º
+
+Aos doentes hospitalizados é proibido:
 
 1.º Usar roupas que não sejam do Hospital;
 
@@ -1691,27 +2063,45 @@ Art. 174.º Aos doentes hospitalizados é proibido:
 
 #### SECÇÃO IV — Da alta dos doentes
 
-Art. 175.º A alta clínica dos doentes será dada sempre por escrito no processo clínico pelo médico assistente, mas a saída terá lugar depois de regularizada a situação do doente em relação à administração.
+###### Artigo 175.º
 
-Art. 176.º Os valores, objectos e roupas serão devolvidos aos doentes em troca de recibo passado no acto da admissão e ao enfermeiro serão entregues as roupas do Hospital.
+A alta clínica dos doentes será dada sempre por escrito no processo clínico pelo médico assistente, mas a saída terá lugar depois de regularizada a situação do doente em relação à administração.
 
-Art. 177.º O pessoal de enfermagem procurará instruir os doentes e pessoas de família sobre as noções gerais de higiene, defesa de saúde e cuidados especiais da convalescença, indicados pelo respectivo clínico.
+###### Artigo 176.º
 
-Art. 178.º No caso de falecimento, será imediatamente avisada a família e, se for caso disso, o respectivo superior hierárquico, comunicando-se o dia e hora em que deverá efectuar-se o enterramento.
+Os valores, objectos e roupas serão devolvidos aos doentes em troca de recibo passado no acto da admissão e ao enfermeiro serão entregues as roupas do Hospital.
 
-Art. 179.º A certidão de óbito será passada pelo médico assistente ou verificador e enviada à secretaria.
+###### Artigo 177.º
 
-Art. 180.º Aos espólios dos doentes falecidos no Hospital depois de relacionados ser-lhes-á dado o destino legal.
+O pessoal de enfermagem procurará instruir os doentes e pessoas de família sobre as noções gerais de higiene, defesa de saúde e cuidados especiais da convalescença, indicados pelo respectivo clínico.
 
-Art. 181.º Se algum doente se evadir do Hospital, será o facto participado à autoridade competente, a quem se remeterá o respectivo título de alta.
+###### Artigo 178.º
+
+No caso de falecimento, será imediatamente avisada a família e, se for caso disso, o respectivo superior hierárquico, comunicando-se o dia e hora em que deverá efectuar-se o enterramento.
+
+###### Artigo 179.º
+
+A certidão de óbito será passada pelo médico assistente ou verificador e enviada à secretaria.
+
+###### Artigo 180.º
+
+Aos espólios dos doentes falecidos no Hospital depois de relacionados ser-lhes-á dado o destino legal.
+
+###### Artigo 181.º
+
+Se algum doente se evadir do Hospital, será o facto participado à autoridade competente, a quem se remeterá o respectivo título de alta.
 
 #### SECÇÃO V — Do transporte de doentes na ambulância do Hospital
 
-Art. 182.º A condução em ambulâncias dos doentes oficiais e suas famílias, por motivo premente de saúde, dentro da área de Lisboa, é gratuita.
+###### Artigo 182.º
+
+A condução em ambulâncias dos doentes oficiais e suas famílias, por motivo premente de saúde, dentro da área de Lisboa, é gratuita.
 
 § único. Para fora da capital a ambulância só poderá ser utilizada depois de autorizada a sua saída pelo director do Hospital, nas condições estabelecidas nas alíneas a) e b) do n.º 2.º do artigo seguinte.
 
-Art. 183.º O director poderá autorizar para cada caso que os doentes particulares possam ser transportados na ambulância do Hospital mediante as seguintes taxas:
+###### Artigo 183.º
+
+O director poderá autorizar para cada caso que os doentes particulares possam ser transportados na ambulância do Hospital mediante as seguintes taxas:
 
 1.º Dentro de Lisboa: 50$00 a 100$00, acrescidos de 30$00 por cada hora ou fracção de demora da viatura;
 
@@ -1731,7 +2121,9 @@ b) Além dos 100 km, 2$50 por quilómetro.
 
 #### SECÇÃO I — Das receitas e despesas
 
-Art. 184.º As receitas do Hospital são constituídas:
+###### Artigo 184.º
+
+As receitas do Hospital são constituídas:
 
 1.º Pelas importâncias recebidas pela hospitalização dos doentes;
 
@@ -1747,11 +2139,15 @@ Art. 184.º As receitas do Hospital são constituídas:
 
 § único. Quando os beneficiários oficiais de assistência do Hospital não satisfaçam directamente na secretaria do Hospital as despesas de hospitalização, ser-lhes-ão descontadas nos seus vencimentos por intermédio das respectivas repartições de contabilidade ou dos serviços de que dependem.
 
-Art. 185.º A tabela de despesa orçamental será ordenada segundo os preceitos estabelecidos no [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e demais legislação em vigor.
+###### Artigo 185.º
+
+A tabela de despesa orçamental será ordenada segundo os preceitos estabelecidos no [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e demais legislação em vigor.
 
 #### SECÇÃO II — Dos responsáveis para com a Fazenda Nacional e para com o conselho administrativo
 
-Art. 186.º São responsáveis para com a Fazenda Nacional e para com o conselho administrativo:
+###### Artigo 186.º
+
+São responsáveis para com a Fazenda Nacional e para com o conselho administrativo:
 
 a) O farmacêutico
 
@@ -1763,7 +2159,9 @@ d) O encarregado do arsenal cirúrgico;
 
 e) Os encarregados de outras secções hospitalares, designadas pelo conselho administrativo, que tenham valores do Estado à sua guarda e responsabilidade.
 
-Art. 187.º Nenhum género ou artigo poderá ser considerado inútil sem autorização do conselho administrativo, devendo neste caso ser lavrado o competente termo.
+###### Artigo 187.º
+
+Nenhum género ou artigo poderá ser considerado inútil sem autorização do conselho administrativo, devendo neste caso ser lavrado o competente termo.
 
 § 1.º Os artigos cujo prazo de utilização tenha sido ultrapassado e sejam susceptíveis de outras aplicações serão vendidos em hasta pública, observadas as formalidades legais, ou então lançados novamente em carga para uso do Hospital com a designação do novo destino que se lhes der.
 
@@ -1771,9 +2169,13 @@ Art. 187.º Nenhum género ou artigo poderá ser considerado inútil sem autoriz
 
 #### SECÇÃO III — Dos concursos para aquisição de material
 
-Art. 188.º Todos os fornecimentos de material para uso do Hospital devem ser feitos nas condições estabelecidas no [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, ou em legislação especial sobre o assunto.
+###### Artigo 188.º
 
-Art. 189.º Os concursos para fornecimentos serão anunciados com antecipação não inferior a quinze dias, devendo deles constar:
+Todos os fornecimentos de material para uso do Hospital devem ser feitos nas condições estabelecidas no [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, ou em legislação especial sobre o assunto.
+
+###### Artigo 189.º
+
+Os concursos para fornecimentos serão anunciados com antecipação não inferior a quinze dias, devendo deles constar:
 
 1.º O lugar, o dia e hora em que se verificará a abertura das propostas;
 
@@ -1787,75 +2189,129 @@ Art. 189.º Os concursos para fornecimentos serão anunciados com antecipação 
 
 6.º A cláusula pela qual fica expressa não serem admitidos a licitar senão os proponentes ou então os seus representantes quando munidos de procuração bastante.
 
-Art. 190.º As cauções serão depositadas, nos termos da legislação em vigor, na Caixa Geral de Depósitos, Crédito e Previdência à ordem do conselho administrativo, só podendo ser levantadas depois de se verificar oficialmente que não houve adjudicação ou que foram cumpridos integralmente os contratos.
+###### Artigo 190.º
 
-Art. 191.º O fornecimento de géneros alimentares será feito mediante concurso limitado para qualquer período, segundo o conselho administrativo entender por mais conveniente aos interesses da Fazenda Nacional, atendidas as circunstâncias de mercado com respeito a cada género ou à aproximação de nova colheita.
+As cauções serão depositadas, nos termos da legislação em vigor, na Caixa Geral de Depósitos, Crédito e Previdência à ordem do conselho administrativo, só podendo ser levantadas depois de se verificar oficialmente que não houve adjudicação ou que foram cumpridos integralmente os contratos.
 
-Art. 192.º Os concorrentes depositarão no Hospital, dentro do prazo marcado e antes da arrematação, as amostras dos géneros que o conselho administrativo exigir.
+###### Artigo 191.º
 
-Art. 193.º Nos dias e horas fixados nos anúncios, o conselho administrativo, em sessão pública, procederá à abertura das propostas para apreciação e aprovação das que oferecerem condições mais vantajosas. Havendo duas ou mais propostas iguais no preço, abrir-se-á licitação verbal entre os concorrentes que as apresentaram.
+O fornecimento de géneros alimentares será feito mediante concurso limitado para qualquer período, segundo o conselho administrativo entender por mais conveniente aos interesses da Fazenda Nacional, atendidas as circunstâncias de mercado com respeito a cada género ou à aproximação de nova colheita.
+
+###### Artigo 192.º
+
+Os concorrentes depositarão no Hospital, dentro do prazo marcado e antes da arrematação, as amostras dos géneros que o conselho administrativo exigir.
+
+###### Artigo 193.º
+
+Nos dias e horas fixados nos anúncios, o conselho administrativo, em sessão pública, procederá à abertura das propostas para apreciação e aprovação das que oferecerem condições mais vantajosas. Havendo duas ou mais propostas iguais no preço, abrir-se-á licitação verbal entre os concorrentes que as apresentaram.
 
 § único. As propostas entregues depois da hora anunciada não serão admitidas.
 
-Art. 194.º Se os preços oferecidos no concurso forem superiores aos do mercado, o conselho procederá à sua compra directa, fazendo disso menção nas actas do conselho administrativo.
+###### Artigo 194.º
 
-Art. 195.º Aprovada a adjudicação, será celebrado o respectivo contrato, devendo o concorrente fazer, nos termos do artigo 10.º deste regulamento, o depósito definitivo para garantia do seu cumprimento. Este depósito deve ser efectuado na Caixa Geral de Depósitos, Crédito e Previdência ou, em sua substituição, apresentada garantia bancária, devidamente aceite em conformidade com o disposto no [Decreto n.º 13667](https://diariodarepublica.pt/dr/detalhe/decreto/13667-1927-687431), de 21 de Maio de 1927, e no n.º 4,º do artigo 9.º do Decreto n.º 22470, de 11 de Abril de 1933.
+Se os preços oferecidos no concurso forem superiores aos do mercado, o conselho procederá à sua compra directa, fazendo disso menção nas actas do conselho administrativo.
 
-Art. 196.º Nos contratos deverá constar que o arrematante se responsabiliza pelo exacto cumprimento em quantidade e qualidade do fornecimento que lhe for adjudicado e que se obriga a substituí-lo quando o conselho entender não satisfazer às condições estipuladas. Nos fornecimentos de géneros para dietas e sempre que estes não satisfaçam as condições, ficará o conselho administrativo com o direito de os comprar por conta do fornecedor quando não forem devidamente substituídos.
+###### Artigo 195.º
 
-Art. 197.º Os géneros comprados directamente no mercado serão escolhidos pelos empregados designados pelo conselho.
+Aprovada a adjudicação, será celebrado o respectivo contrato, devendo o concorrente fazer, nos termos do artigo 10.º deste regulamento, o depósito definitivo para garantia do seu cumprimento. Este depósito deve ser efectuado na Caixa Geral de Depósitos, Crédito e Previdência ou, em sua substituição, apresentada garantia bancária, devidamente aceite em conformidade com o disposto no [Decreto n.º 13667](https://diariodarepublica.pt/dr/detalhe/decreto/13667-1927-687431), de 21 de Maio de 1927, e no n.º 4,º do artigo 9.º do Decreto n.º 22470, de 11 de Abril de 1933.
+
+###### Artigo 196.º
+
+Nos contratos deverá constar que o arrematante se responsabiliza pelo exacto cumprimento em quantidade e qualidade do fornecimento que lhe for adjudicado e que se obriga a substituí-lo quando o conselho entender não satisfazer às condições estipuladas. Nos fornecimentos de géneros para dietas e sempre que estes não satisfaçam as condições, ficará o conselho administrativo com o direito de os comprar por conta do fornecedor quando não forem devidamente substituídos.
+
+###### Artigo 197.º
+
+Os géneros comprados directamente no mercado serão escolhidos pelos empregados designados pelo conselho.
 
 ### CAPÍTULO VII — Disposições finais e transitórias
 
-Art. 198.º O pessoal dos quadros a que se refere o artigo 79.º é o constante dos mapas anexos ao presente diploma.
+###### Artigo 198.º
 
-Art. 199.º A direcção do Hospital e a administração deverão elaborar as ordens de serviço necessárias à boa execução deste regulamento. Os casos omissos serão resolvidos de harmonia com as leis a aplicáveis, as instruções superiores e as tradições e costumes do Hospital do Ultramar.
+O pessoal dos quadros a que se refere o artigo 79.º é o constante dos mapas anexos ao presente diploma.
 
-Art. 200.º Os modelos dos impressos adoptados no Hospital do Ultramar são os que estão aprovados e, sempre que as circunstâncias o aconselhem, poderão ser alterados no intuito de maior economia, simplificação e adaptação às necessidades do serviço, por determinação superior, mediante parecer da Direcção-Geral de Saúde e Assistência do Ultramar.
+###### Artigo 199.º
 
-Art. 201.º O actual director do Hospital continuará a desempenhar as funções que vem exercendo ao abrigo do disposto no artigo 254,º e § único do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, independentemente de nomeação, visto ou posse.
+A direcção do Hospital e a administração deverão elaborar as ordens de serviço necessárias à boa execução deste regulamento. Os casos omissos serão resolvidos de harmonia com as leis a aplicáveis, as instruções superiores e as tradições e costumes do Hospital do Ultramar.
 
-Art. 202.º O lugar de subdirector do Hospital do Ultramar, previsto no presente diploma, de harmonia com o disposto na alínea g) do artigo 109.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, será exercido por um médico inspector do quadro médico comum do ultramar.
+###### Artigo 200.º
+
+Os modelos dos impressos adoptados no Hospital do Ultramar são os que estão aprovados e, sempre que as circunstâncias o aconselhem, poderão ser alterados no intuito de maior economia, simplificação e adaptação às necessidades do serviço, por determinação superior, mediante parecer da Direcção-Geral de Saúde e Assistência do Ultramar.
+
+###### Artigo 201.º
+
+O actual director do Hospital continuará a desempenhar as funções que vem exercendo ao abrigo do disposto no artigo 254,º e § único do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, independentemente de nomeação, visto ou posse.
+
+###### Artigo 202.º
+
+O lugar de subdirector do Hospital do Ultramar, previsto no presente diploma, de harmonia com o disposto na alínea g) do artigo 109.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, será exercido por um médico inspector do quadro médico comum do ultramar.
 
 § único. O médico de 1.ª classe que presentemente exerce cargo de adjunto referido no § 1.º do artigo 7.º do [Decreto n.º 35913](https://diariodarepublica.pt/dr/detalhe/decreto/35913-1946-150092), de 23 de Outubro de 1946, transita para o lugar de médico-inspector do quadro médico comum do ultramar, independentemente de nomeação, visto ou posse e passará a exercer, em comissão, o cargo de subdirector do Hospital do Ultramar.
 
-Art. 203.º Os actuais assistente cirurgião e analista transitarão sem mais formalidades e sem carecer de nomeação, visto ou posse, para igual número de lugares previstos no artigo 198.º do presente diploma, com direito a remuneração referida no § 1.º do seu artigo 84.º
+###### Artigo 203.º
 
-Art. 204.º O actual médico isotopista transita sem mais formalidades e sem carecer de nomeação, visto ou posse para o lugar de director do laboratório de biofísica a e radioisótopos, previsto no artigo 198.º do presente diploma e referido no § 1.º do seu artigo 91.º, com direito à remuneração considerada no § 1.º do seu artigo 84.º
+Os actuais assistente cirurgião e analista transitarão sem mais formalidades e sem carecer de nomeação, visto ou posse, para igual número de lugares previstos no artigo 198.º do presente diploma, com direito a remuneração referida no § 1.º do seu artigo 84.º
 
-Art. 205.º Os actuais directores de serviços transitarão sem mais formalidades e sem carecer de nomeação, visto ou posse, para igual número de lugares previstos no artigo 198.º do presente diploma, com direito à remuneração referida no § 1.º do seu artigo 84.º
+###### Artigo 204.º
 
-Art. 206.º Os actuais chefes de clínica transitarão sem mais formalidades e sem carecer de nomeação, visto ou posse, para igual número de lugares previstos no artigo 198.º deste diploma, com direito à remuneração referida no § 1.º do seu artigo 84.º
+O actual médico isotopista transita sem mais formalidades e sem carecer de nomeação, visto ou posse para o lugar de director do laboratório de biofísica a e radioisótopos, previsto no artigo 198.º do presente diploma e referido no § 1.º do seu artigo 91.º, com direito à remuneração considerada no § 1.º do seu artigo 84.º
 
-Art. 207.º Os actuais internos estagiários e internos graduados em serviço no Hospital do Ultramar transitarão sem mais formalidades e sem carecer de nomeação, visto ou posse para igual número de lugares de médico do quadro complementar de cirurgiões, especialistas e internistas, previstos no artigo 198.º do presente diploma, com direito à remuneração referida no seu artigo 84.º
+###### Artigo 205.º
 
-Art. 208.º Os actuais chefe de secretaria e ecónomo do Hospital do Ultramar transitarão sem mais formalidades e sem carecer de nomeação, visto ou posse para os lugares, respectivamente, de chefe de secção e de primeiro-oficial dos serviços administrativos do mesmo Hospital.
+Os actuais directores de serviços transitarão sem mais formalidades e sem carecer de nomeação, visto ou posse, para igual número de lugares previstos no artigo 198.º do presente diploma, com direito à remuneração referida no § 1.º do seu artigo 84.º
+
+###### Artigo 206.º
+
+Os actuais chefes de clínica transitarão sem mais formalidades e sem carecer de nomeação, visto ou posse, para igual número de lugares previstos no artigo 198.º deste diploma, com direito à remuneração referida no § 1.º do seu artigo 84.º
+
+###### Artigo 207.º
+
+Os actuais internos estagiários e internos graduados em serviço no Hospital do Ultramar transitarão sem mais formalidades e sem carecer de nomeação, visto ou posse para igual número de lugares de médico do quadro complementar de cirurgiões, especialistas e internistas, previstos no artigo 198.º do presente diploma, com direito à remuneração referida no seu artigo 84.º
+
+###### Artigo 208.º
+
+Os actuais chefe de secretaria e ecónomo do Hospital do Ultramar transitarão sem mais formalidades e sem carecer de nomeação, visto ou posse para os lugares, respectivamente, de chefe de secção e de primeiro-oficial dos serviços administrativos do mesmo Hospital.
 
 § 1.º No caso do ecónomo referido no corpo do artigo, aplicar-se-á o disposto nos artigos 10.º e 11,º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
 § 2.º Nos restantes casos em que, por virtude do presente diploma, se verifique diminuição dos actuais vencimentos, aplicar-se-á aos respectivos agentes o disposto nos artigos 10.º e 11.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-Art. 209.º O restante pessoal, cuja transição não está prevista expressamente, transita sem mais formalidades e sem carecer de nomeação, visto ou posse para idênticos lugares inscritos nos mapas anexos ao presente diploma.
+###### Artigo 209.º
 
-Art. 210.º Os lugares, actualmente providos, cujas designações não constem do presente regulamento manter-se-ão apenas até à regularização de cada caso, de acordo com as disposições deste diploma ou até que se verifique a sua vacatura.
+O restante pessoal, cuja transição não está prevista expressamente, transita sem mais formalidades e sem carecer de nomeação, visto ou posse para idênticos lugares inscritos nos mapas anexos ao presente diploma.
 
-Art. 211.º Os lugares dos diferentes quadros que excederem os descritos actualmente nas tabelas orçamentais serão providos à medida que forem dotados.
+###### Artigo 210.º
 
-Art. 212.º A execução do presente diploma em tudo o que represente aumento de despesa fica condicionada às disponibilidades orçamentais.
+Os lugares, actualmente providos, cujas designações não constem do presente regulamento manter-se-ão apenas até à regularização de cada caso, de acordo com as disposições deste diploma ou até que se verifique a sua vacatura.
 
-Art. 213.º A nomeação em comissão de serviço dos funcionários referidos nas alíneas a) a d) do artigo 80.º, alínea d) do artigo 82.º, artigo 86.º e artigo 92.º aplicam-se as disposições da comissão ordinária de serviço previstas no Estatuto do Funcionalismo Ultramarino.
+###### Artigo 211.º
+
+Os lugares dos diferentes quadros que excederem os descritos actualmente nas tabelas orçamentais serão providos à medida que forem dotados.
+
+###### Artigo 212.º
+
+A execução do presente diploma em tudo o que represente aumento de despesa fica condicionada às disponibilidades orçamentais.
+
+###### Artigo 213.º
+
+A nomeação em comissão de serviço dos funcionários referidos nas alíneas a) a d) do artigo 80.º, alínea d) do artigo 82.º, artigo 86.º e artigo 92.º aplicam-se as disposições da comissão ordinária de serviço previstas no Estatuto do Funcionalismo Ultramarino.
 
 § 1.º Os funcionários referidos no corpo do artigo que presentemente estão providos em cargos dos quadros do Hospital do Ultramar e que por força do disposto no presente diploma transitam para lugares nele previstos consideram-se, sem necessidade de mais formalidades, providos nesses lugares em comissão de serviço, nos termos do artigo 37.º do Estatuto do Funcionalismo Ultramarino, devendo contar-se o início da comissão a partir da data da publicação deste decreto.
 
 § 2.º Logo que findos os biénios da recondução e sejam nomeados definitivamente os funcionários referidos no corpo do artigo, deixam de ter direito aos vencimentos previsto no presente diploma, passando a ser abonados de vencimentos correspondentes a idênticas categorias dos quadros dos serviços metropolitanos.
 
-Art. 214.º A execução do disposto nos artigos 98.º a 101.º do presente diploma fica dependente da integração no respectivo quadro do actual pessoal de enfermagem, nos termos do Decreto n.º 47786, de 7 de Dezembro de 1962, e da [Portaria n.º 19718](https://diariodarepublica.pt/dr/detalhe/portaria/19718-1963-193439), de 19 de Fevereiro de 1963.
+###### Artigo 214.º
 
-Art. 215.º Enquanto não se dispuser na zona da cidade de Lisboa onde se encontra situado o Hospital do Ultramar de um hospital civil, poderão ser extensivos às classes pobres da população local os benefícios da consulta externa do Hospital do Ultramar, de acordo com as disposições do § único do artigo 2.º do [Decreto n.º 35913](https://diariodarepublica.pt/dr/detalhe/decreto/35913-1946-150092), de 23 de Outubro de 1946.
+A execução do disposto nos artigos 98.º a 101.º do presente diploma fica dependente da integração no respectivo quadro do actual pessoal de enfermagem, nos termos do Decreto n.º 47786, de 7 de Dezembro de 1962, e da [Portaria n.º 19718](https://diariodarepublica.pt/dr/detalhe/portaria/19718-1963-193439), de 19 de Fevereiro de 1963.
+
+###### Artigo 215.º
+
+Enquanto não se dispuser na zona da cidade de Lisboa onde se encontra situado o Hospital do Ultramar de um hospital civil, poderão ser extensivos às classes pobres da população local os benefícios da consulta externa do Hospital do Ultramar, de acordo com as disposições do § único do artigo 2.º do [Decreto n.º 35913](https://diariodarepublica.pt/dr/detalhe/decreto/35913-1946-150092), de 23 de Outubro de 1946.
 
 § único. Estes doentes pagarão uma taxa de admissão única de 5$00 correspondente a cada acto de assistência que lhes for prestado.
 
-Art. 216.º É revogada toda a legislação que contrarie as disposições deste diploma.
+###### Artigo 216.º
+
+É revogada toda a legislação que contrarie as disposições deste diploma.
 
 Publique-se e cumpra-se como nele se contém.
 

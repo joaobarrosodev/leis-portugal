@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-08-28'
+version_history:
+  file: portaria-484-2003-2-a-serie.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2003-04-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-08-28'
+    amending: pt:dre:2171638:por
+    amending_title: Portaria n.º 1129/2003 (2.ª série)
+    changes:
+    - Altera Artigo ANEXO — Regulamento da organização interna dos serviços::6.º
+    - Altera Artigo ANEXO — Regulamento da organização interna dos serviços::7.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T16:40:00Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1129/2003 (2.ª série).
+    Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/serie-ii/portarias/2003/portaria-484-2003-2-a-serie.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -229,7 +245,7 @@ d) A Unidade de Gestão e Planeamento (UGP);
 
 e) A Unidade de Inspecção, Fiscalização e Avaliação (UIFA).
 
-3 - A UEF é dirigida por um responsável de unidade e é constituída pela área de contabilidade, a qual exerce as competências definidas na primeira parte da alínea m) do artigo 24.º dos Estatutos, com excepção do processamento dos vencimentos, e pela área de aprovisionamento e património, a qual exerce as competências definidas na alínea l) do artigo 24.º dos Estatutos.
+3 - A UEF é dirigida por um responsável de unidade e é constituída pela área de contabilidade, a qual exerce as competências definidas na primeira parte da alínea m) do artigo 24.º dos Estatutos, com excepção do processamento de vencimentos, e pelas áreas de aprovisionamento e de património, as quais exercem as competências definidas na alínea i) do artigo 24.º dos Estatutos.
 
 4 - A UGRH é dirigida por um responsável de unidade e é constituída pela área de pessoal, a qual exerce as competências definidas na alínea a) e na primeira parte da alínea m), no que aos vencimentos diz respeito, do artigo 24.º dos Estatutos, pela área de gestão de concursos, a qual exerce a competência definida na segunda parte da alínea m) do artigo 24.º dos Estatutos, e pela área de expediente e arquivo, a qual exerce as competências definidas nas alíneas b), c) e d) do artigo 24.º dos Estatutos.
 
@@ -239,13 +255,15 @@ e) A Unidade de Inspecção, Fiscalização e Avaliação (UIFA).
 
 7 - A UIFA é dirigida por um responsável de unidade e tem por missão assegurar a qualidade dos serviços prestados pelas entidades ligadas à droga e toxicodependência, bem como garantir, a pedido do conselho de administração, o regular funcionamento dos serviços internos do IDT.
 
+> Alterado pelo/a [Portaria n.º 1129/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/1129-2003-2171638), publicado em 2003-08-28.
+
 ###### Artigo 7.º — Observatório de Drogas e Toxicodependências
 
 1 - É criado o Observatório de Drogas e Toxicodependências (ODT), que é dirigido por um director, ao qual compete o desenvolvimento das atribuições do IDT referidas nas alíneas e), f), g) e j) do artigo 5.º, nomeadamente através das seguintes competências:
 
 a) Proceder à recolha, tratamento e divulgação dos dados reunidos nos diversos serviços da Administração Pública e organizações privadas com intervenção em matéria de droga e de toxicodependência, bem como assegurar a gestão das respectivas bases de dados;
 
-b) Estudar e desenvolver, em articulação com as instâncias competentes, metodologias de recolha e análise de dados e informação que sirvam de quadro de referência, nomeadamente para o previsto na alínea l) do artigo 29.º dos Estatutos, e que assegurem a qualidade da produção final e a comparabilidade dos mesmos;
+b) Estudar e desenvolver, em articulação com as instâncias competentes, metodologias de recolha e análise de dados e informação que sirvam de quadro de referência, nomeadamente para o previsto na alínea i) do artigo 27.º dos Estatutos, e que assegurem a qualidade da produção final e a comparabilidade dos mesmos;
 
 c) Proceder à recepção, tratamento e divulgação das informações previstas no artigo 12.º do [Decreto Regulamentar n.º 61/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/61-1994-619306), de 12 de Outubro;
 
@@ -261,7 +279,7 @@ h) Apoiar a edição e divulgação das publicações do IDT;
 
 i) Desenvolver e apoiar a investigação científica sobre as drogas e as toxicodependências, por si ou através da celebração de protocolos, acordos de colaboração ou contratos com entidades, públicas ou privadas, designadamente com instituições universitárias;
 
-j) Estabelecer, em colaboração com os respectivos serviços centrais e regionais, metodologias e procedimentos de avaliação das iniciativas públicas e privadas nas áreas da prevenção, tratamento, redução de danos e reinserção, que sirvam de quadro de referência, nomeadamente para o previsto nas alíneas e) do artigo 24.º, a) do artigo 25.º e b), d), i) e l) do artigo 29.º dos Estatutos.
+j) Estabelecer, em colaboração com os respectivos serviços centrais e regionais, metodologias e procedimentos de avaliação das iniciativas públicas e privadas nas áreas da prevenção, do tratamento, da redução de danos e da reinserção que sirvam de quadro de referência, nomeadamente para o previsto nas alíneas e) do artigo 22.º, a) do n.º 1 do artigo 23.º e b), c), i) e j) do artigo 27.º dos Estatutos.
 
 2 - O ODT compreende os seguintes núcleos:
 
@@ -272,6 +290,8 @@ b) O Núcleo de Informação, Publicações e Documentação (NIPD), ao qual cab
 c) O Núcleo de Investigação (NI), ao qual cabe o exercício das competências previstas nas alíneas i) e j).
 
 3 - Cada um dos núcleos referidos no número anterior é dirigido por um responsável de núcleo.
+
+> Alterado pelo/a [Portaria n.º 1129/2003 (2.ª série)](https://diariodarepublica.pt/dr/detalhe/portaria/1129-2003-2171638), publicado em 2003-08-28.
 
 ###### Artigo 8.º — Departamento de Apoio às Comissões para a Dissuasão
 

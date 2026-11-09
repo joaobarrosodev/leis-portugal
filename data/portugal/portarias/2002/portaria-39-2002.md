@@ -38,10 +38,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2006-09-13'
+version_history:
+  file: portaria-39-2002.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2002-01-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-09-13'
+    amending: pt:dre:540047:por
+    amending_title: Portaria n.º 939/2006
+    changes:
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/39/2002/01/10/p/dre/pt/html
@@ -67,7 +81,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:40:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 939/2006. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2002/portaria-39-2002.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -338,7 +353,9 @@ O apoio financeiro é atribuído sob a forma de subsídio a fundo perdido e comp
 
 4 - A ausência de resposta do promotor equivale à desistência da candidatura a que se refere, excepto se o interessado demonstrar que a causa não lhe é imputável.
 
-5 - O fecho das candidaturas ocorrerá em 30 de Junho de 2006, se outra data não for determinada pelo gestor.
+5 - O fecho das candidaturas ocorre em 30 de Setembro de 2006.
+
+> Alterado pelo/a [Portaria n.º 939/2006](https://diariodarepublica.pt/dr/detalhe/portaria/939-2006-540047), publicado em 2006-09-08.
 
 ###### Artigo 13.º — Análise e decisão
 

@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:643944:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1971-05-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7b823bb5de8e12a7"
+   ]
+  },
+  {
+   "date": "1985-01-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:328435:por",
+     "title": "Decreto-Lei n.º 30/85",
+     "published": "1985-01-24",
+     "dre_path": "/dr/detalhe/decreto-lei/30-1985-328435"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "62080f1f7a35b435",
+    "8136834949b8f074",
+    "9c879a2c0557f2a6",
+    "cef3f437a75655ae",
+    "53777fa2afef2cb5",
+    "479ddcfd8da10897",
+    "43cf1b3f9ac526a2",
+    "9cbd0959b1235178",
+    "88553c43a97be386",
+    "cb8867ada7a7ec20",
+    "894ab562d19c4cb0",
+    "8370efe6a22a4ff2"
+   ]
+  }
+ ],
+ "fragments": {
+  "7b823bb5de8e12a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Maio\n\nConvindo reunir num só fundo as receitas a despesas que actualmente se encontram consignadas a diversas finalidades nas unidades da Guarda Fiscal;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º - 1. As receitas arrecadadas pelas unidades e subunidades da Guarda Fiscal dotadas de autonomia administrativa, provenientes de actividades privadas ou resultantes do exercício de outras funções, serão inscritas em orçamento privativo.\n\n2. A cobrança das receitas será efectuada de harmonia com as disposições legais aplicáveis.\n\nArt. 2.º Os actuais fundos de farmácia, transportes e gabinete de radiologia são integrados com o seu activo e passivo nos Serviços Sociais da Guarda Fiscal, criados pelo [Decreto-Lei n.º 48802](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48802-1968-256604), de 27 de Dezembro de 1968.\n\nArt. 3.º - 1. As importâncias provenientes do Orçamento Geral do Estado que se destinam a auxiliar a manutenção de serviços de assistência médica e de hospitalização nas enfermarias da corporação são movimentadas no orçamento do Fundo Privativo, através das correspondentes rubricas consignadas àqueles fins.\n\n2. Os excedentes verificados em cada ano económico na aplicação das dotações provenientes do Orçamento Geral do Estado, movimentadas pelos fundos privativos, serão repostos nos cofres do Tesouro pelo Comando-Geral até 14 de Fevereiro seguinte.\n\nArt. 4.º - 1. A administração das receitas referidas nos artigos anteriores constituirá um fundo único, que se designará por «Fundo Privativo de ...» (comando, unidade ou subunidade).\n\n2. Do mesmo orçamento constará o desenvolvimento da despesa, que obedecerá ao preceituado na legislação em vigor para os demais serviços do Estado.\n\nArt. 5.º - 1. Não se podem realizar despesas que não tenham cabimento nas verbas inscritas no orçamento.\n\n2. Quando se verifique a necessidade de introduzir alterações ao orçamento já aprovado, deverão estas ser efectuadas através de orçamento suplementar, dentro dos limites estabelecidos na lei.\n\nArt. 6.º A competência para autorizar despesas e as formalidades a observar na sua realização são reguladas pelas leis gerais de contabilidade pública e regime especiais estabelecidos para a Guarda Fiscal.\n\nArt. 7.º Os orçamentos privativos, quer ordinários, quer suplementares, serão visados pelo Ministro, através da Direcção-Geral da Contabilidade Pública.\n\nArt. 8.º - 1. A Guarda Fiscal organizará conta de gerência unificada dos fundos privativos com base nas contas a remeter pelos diferentes conselhos administrativos.\n\n2. A conta de gerência unificada está sujeita ao julgamento do Tribunal de Contas.\n\nArt. 9.º A Guarda Fiscal expedirá as instruções necessárias à boa execução do presente diploma, depois de aprovadas pelo Ministro das Finanças, através da Direcção-Geral da Contabilidade Pública.\n\nArt. 10.º O presente diploma revoga as leis especiais anteriores que estabeleçam regimes diferentes.\n\nArt. 11.º O presente diploma entra em vigor no próximo ano económico.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.\n\nPromulgado em 19 de Maio de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "62080f1f7a35b435": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 28 de Maio\n\nConvindo reunir num só fundo as receitas a despesas que actualmente se encontram consignadas a diversas finalidades nas unidades da Guarda Fiscal;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "8136834949b8f074": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. As receitas arrecadadas pelas unidades e subunidades da Guarda Fiscal dotadas de autonomia administrativa, provenientes de actividades privadas ou resultantes do exercício de outras funções, serão inscritas em orçamento privativo.\n\n2. A cobrança das receitas será efectuada de harmonia com as disposições legais aplicáveis."
+  },
+  "9c879a2c0557f2a6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1985-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 30/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1985-328435), publicado em 1985-01-24."
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs actuais fundos da farmácia e de transportes são integrados com o seu activo e passivo nos Serviços Sociais da Guarda Fiscal, criados pelo [Decreto-Lei n.º 48802](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48802-1968-256604), de 27 de Dezembro de 1968.\n\n> Alterado pelo/a [Decreto-Lei n.º 30/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-1985-328435), publicado em 1985-01-24."
+  },
+  "cef3f437a75655ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As importâncias provenientes do Orçamento Geral do Estado que se destinam a auxiliar a manutenção de serviços de assistência médica e de hospitalização nas enfermarias da corporação são movimentadas no orçamento do Fundo Privativo, através das correspondentes rubricas consignadas àqueles fins.\n\n2. Os excedentes verificados em cada ano económico na aplicação das dotações provenientes do Orçamento Geral do Estado, movimentadas pelos fundos privativos, serão repostos nos cofres do Tesouro pelo Comando-Geral até 14 de Fevereiro seguinte."
+  },
+  "53777fa2afef2cb5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A administração das receitas referidas nos artigos anteriores constituirá um fundo único, que se designará por «Fundo Privativo de ...» (comando, unidade ou subunidade).\n\n2. Do mesmo orçamento constará o desenvolvimento da despesa, que obedecerá ao preceituado na legislação em vigor para os demais serviços do Estado."
+  },
+  "479ddcfd8da10897": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Não se podem realizar despesas que não tenham cabimento nas verbas inscritas no orçamento.\n\n2. Quando se verifique a necessidade de introduzir alterações ao orçamento já aprovado, deverão estas ser efectuadas através de orçamento suplementar, dentro dos limites estabelecidos na lei."
+  },
+  "43cf1b3f9ac526a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA competência para autorizar despesas e as formalidades a observar na sua realização são reguladas pelas leis gerais de contabilidade pública e regime especiais estabelecidos para a Guarda Fiscal."
+  },
+  "9cbd0959b1235178": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs orçamentos privativos, quer ordinários, quer suplementares, serão visados pelo Ministro, através da Direcção-Geral da Contabilidade Pública."
+  },
+  "88553c43a97be386": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A Guarda Fiscal organizará conta de gerência unificada dos fundos privativos com base nas contas a remeter pelos diferentes conselhos administrativos.\n\n2. A conta de gerência unificada está sujeita ao julgamento do Tribunal de Contas."
+  },
+  "cb8867ada7a7ec20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA Guarda Fiscal expedirá as instruções necessárias à boa execução do presente diploma, depois de aprovadas pelo Ministro das Finanças, através da Direcção-Geral da Contabilidade Pública."
+  },
+  "894ab562d19c4cb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO presente diploma revoga as leis especiais anteriores que estabeleçam regimes diferentes."
+  },
+  "8370efe6a22a4ff2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO presente diploma entra em vigor no próximo ano económico.\n\nVisto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.\n\nPromulgado em 19 de Maio de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  }
+ }
+}

@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1985-07-08'
+version_history:
+  file: decreto-regulamentar-9-78.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1978-02-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-07-08'
+    amending: pt:dre:183003:por
+    amending_title: Decreto Regulamentar n.º 44/85
+    changes:
+    - Altera Artigo 14.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T05:59:26Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Regulamentar n.º 44/85. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-regulamentares/1978/decreto-regulamentar-9-78.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -336,11 +351,15 @@ c) Concessão ao pessoal, sem prejuízo do serviço, de sessenta minutos para re
 
 3 - Quando se verificar a circunstância prevista no n.º 1, o tempo de serviço extraordinário adicionado ao tempo de serviço normal imediatamente seguido ou antecedente não poderá exceder doze horas seguidas.
 
-###### Artigo 14.º — (Limitação ao exercício de funções operacionais)
+###### Artigo 14.º — (Avaliação do exercício de funções operacionais)
 
-1 - Sem prejuízo da observância das condições médicas exigidas, é fixado para o exercício das funções de combate a incêndio e salvamento o limite de idade de 45 anos.
+1 - O exercício de funções de combate a incêndio e salvamento fica condicionado ao resultado apurado em exames médicos periódicos.
 
-2 - O pessoal abrangido pelo disposto no número anterior exercerá no serviço quaisquer outras funções inerentes à respectiva carreira para as quais possua a necessária formação.
+2 - Se, em resultado dos exames referidos no número anterior, se verificar a existência de pessoal que não possua as capacidades físicas e psíquicas necessárias ao desempenho daquelas funções ficará o mesmo exercendo no serviço quaisquer outras inerentes à respectiva carreira para as quais possua a necessária formação.
+
+3 - As características, extensão, frequência e comunicação dos resultados dos exames médicos referidos no n.º 1, bem como o seu âmbito de aplicação, serão propostas pelas entidades às quais caiba a gestão das infra-estruturas aeroportuárias e aprovadas por despacho do Ministro do Equipamento Social.
+
+> Alterado pelo/a [Decreto Regulamentar n.º 44/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/44-1985-183003), publicado em 1985-07-08.
 
 ###### Artigo 15.º — (Primeiro provimento)
 

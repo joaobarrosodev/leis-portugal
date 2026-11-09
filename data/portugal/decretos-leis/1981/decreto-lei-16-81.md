@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1982-08-13'
+version_history:
+  file: decreto-lei-16-81.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1981-01-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1982-08-13'
+    amending: pt:dre:397913:por
+    amending_title: Decreto-Lei n.º 324/82
+    changes:
+    - Altera Artigo 1.º
+    - Adita Artigo 5.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:36:49Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 324/82. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1981/decreto-lei-16-81.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -112,7 +128,9 @@ Usando da autorização conferida pelo artigo 3.º da [Lei n.º 47/80](https://d
 
 O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
 
-Artigo 1.º - 1 - As mercadorias que sejam objecto de pequenas remessas sem carácter comercial expedidas do estrangeiro por um particular com destino a um outro particular que se encontre no território aduaneiro nacional beneficiam da franquia de direitos de importação nas condições previstas por este decreto-lei.
+###### Artigo 1.º
+
+1 - As mercadorias que sejam objecto de pequenas remessas sem carácter comercial expedidas do estrangeiro por um particular com destino a um outro particular que se encontre no território aduaneiro nacional beneficiam da franquia de direitos de importação nas condições previstas por este decreto-lei.
 
 2 - Para efeitos do n.º 1, entende-se por:
 
@@ -122,13 +140,17 @@ Tenham um carácter ocasional;
 
 Contenham exclusivamente mercadorias reservadas ao uso pessoal ou familiar dos destinatários, não representando essas mercadorias pela sua natureza ou quantidade qualquer preocupação de ordem comercial;
 
-Sejam constituídas por mercadorias cujo valor global, incluindo o dos produtos visados no artigo 2.º, não ultrapasse 30 unidades de conta europeias;
+Sejam constituídas por mercadorias cujo valor global, incluindo o dos produtos visados no artigo 2.º, não ultrapasse 35 unidades de conta europeias;
 
-Sejam enviadas pelo expedidor ao destinatário sem que este tenha que efectuar qualquer pagamento;
+Sejam enviadas pelo expedidor ao destinatário sem que este tenha de efectuar qualquer pagamento;
 
 b) «Direitos de importação», tanto os direitos aduaneiros como as taxas de efeito equivalente.
 
-Art. 2.º A franquia visada no artigo 1.º apenas se aplica às mercadorias abaixo mencionadas dentro dos limites quantitativos fixados para cada uma delas:
+> Alterado pelo/a [Decreto-Lei n.º 324/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1982-397913), publicado em 1982-08-13.
+
+###### Artigo 2.º
+
+A franquia visada no artigo 1.º apenas se aplica às mercadorias abaixo mencionadas dentro dos limites quantitativos fixados para cada uma delas:
 
 a) «Tabaco»: 50 cigarros, ou 25 cigarrilhas (charutos com um peso máximo de 3 g por unidade), ou 10 charutos, ou 50 g de tabaco picado;
 
@@ -142,9 +164,19 @@ Vinhos comuns: 2 l;
 
 c) «Perfumes» (50 g) ou «águas de toucador» (0,25 l).
 
-Art. 3.º As mercadorias mencionadas no artigo 2.º contidas numa pequena remessa sem carácter comercial em quantidades que excedam as fixadas no referido artigo serão excluídas, na totalidade, do benefício da franquia, sem prejuízo da aplicação dos artigos 1.º a 4.º do [Decreto-Lei n.º 6/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1981-390029), de 24 de Janeiro.
+###### Artigo 3.º
 
-Art. 4.º É dispensada a cobrança de taxas para os organismos de coordenação económica na importação das mercadorias referidas no artigo 1.º
+As mercadorias mencionadas no artigo 2.º contidas numa pequena remessa sem carácter comercial em quantidades que excedam as fixadas no referido artigo serão excluídas, na totalidade, do benefício da franquia, sem prejuízo da aplicação dos artigos 1.º a 4.º do [Decreto-Lei n.º 6/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1981-390029), de 24 de Janeiro.
+
+###### Artigo 4.º
+
+É dispensada a cobrança de taxas para os organismos de coordenação económica na importação das mercadorias referidas no artigo 1.º
+
+###### Artigo 5.º
+
+A concessão de novas franquias e a alteração das existentes, no âmbito deste decreto-lei, serão objecto de portaria do Ministro de Estado e das Finanças e do Plano.
+
+> Aditado pelo/a [Decreto-Lei n.º 324/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/324-1982-397913), publicado em 1982-08-13.
 
 Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1980. - Diogo Pinto de Freitas do Amaral.
 

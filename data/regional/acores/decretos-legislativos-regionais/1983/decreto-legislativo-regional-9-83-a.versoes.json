@@ -1,0 +1,154 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:310441:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1983-03-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6df4057fbf8526cf"
+   ]
+  },
+  {
+   "date": "1988-07-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:372619:por",
+     "title": "Decreto Legislativo Regional n.º 25/88/A",
+     "published": "1988-07-22",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/25-1988-372619"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Adita Artigo 6.º-A"
+   ],
+   "fragments": [
+    "5a4220a112a1aecf",
+    "0197524d7abcd24b",
+    "4c7b0aa05c162aba",
+    "40f34a93aceed112",
+    "31ae585e35917123",
+    "5c8bcc0adab52c2f",
+    "fceee5e13aa9dbe3",
+    "97b26744a428b5d3",
+    "a0979b8d3a78c078",
+    "ba6b1b2a6e8ac58c",
+    "aa4b765aeda5f6ad"
+   ]
+  }
+ ],
+ "fragments": {
+  "6df4057fbf8526cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Circulação de veículos de características especiais\n\nAs características gerais da grande maioria das estradas da Região não se coadunam com o peso e mesmo com as dimensões de alguns dos veículos que nelas já circulam, justificando, portanto, medidas tendentes a salvaguardar a facilidade da circulação de veículos e segurança geral dos utentes das estradas.\n\nAssim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:\n\nArtigo 1.º - 1 - Sem prejuízo de outros limites já fixados no n.º 1 do artigo 18.º do Código da Estrada, a circulação nas estradas regionais de veículos com peso bruto superior a:\n\n16 t - veículos de 3 ou mais eixos;\n\n16 t - veículos articulados de 3 eixos;\n\n32 t - veículos articulados de 5 ou mais eixos;\n\n32 t - conjuntos veículo-reboque de 5 ou mais eixos;\n\n16 t - reboques de 3 ou mais eixos;\n\nsó será permitida mediante autorização a conceder caso por caso.\n\n2 - A circulação nas mesmas estradas de veículos articulados ou de conjuntos veículo-reboque com comprimento superior a 12 m fica sujeita a idêntica autorização.\n\n3 - As autorizações referidas nos números anteriores poderão condicionar o trânsito dos veículos em causa a horas ou nos troços de estrada que sejam considerados compatíveis.\n\nArt. 2.º Por despacho normativo conjunto das Secretarias Regionais dos Transportes e Turismo e do Equipamento Social poderão ser eventualmente fixados limites inferiores àqueles referidos nos n.os 1 e 2 do artigo anterior, quando circunstâncias pontuais locais assim o aconselhem.\n\nArt. 3.º - 1 - Tais autorizações serão passadas pela Direcção Regional dos Transportes Terrestres (DRTT), ouvida, em cada caso, a Direcção Regional de Obras Públicas e Equipamento (DROPE), cujo parecer será sempre vinculativo.\n\n2 - Os interessados requererão na DRTT a necessária autorização, que deverá justificar devidamente os motivos que levam a considerar ser imprescindível, por razões técnicas, económicas ou outras, a circulação na Região dos veículos em causa.\n\nArt. 4.º - 1 - Os veículos já em circulação na Região e cujo peso ou comprimento excedam os valores referidos nos artigos 1.º e 2.º deverão requerer a necessária autorização de circulação no prazo de 60 dias, a contar da data da entrada em vigor do presente decreto.\n\n2 - A autorização referida no número anterior será sempre concedida sem necessidade da condição prevista no n.º 1 do artigo 3.º\n\n3 - Para os veículos não afectos ao serviço público, a autorização em causa terá a validade de 1 ano, sendo renovada por iguais períodos após inspecção anual a realizar pela autoridade competente a requerimento do interessado.\n\nArt. 5.º As autorizações referidas anteriormente deverão acompanhar sempre o veículo e ser exibidas quando solicitadas por qualquer agente de fiscalização, incorrendo o condutor faltoso nas infracções previstas na lei para a falta de apresentação de livrete.\n\nArt. 6.º A DRTT emitirá as necessárias instruções com vista à aplicação das disposições do presente diploma.\n\nArt. 7.º A falta de autorização prevista neste diploma ou a inobservância dos condicionamentos fixados na mesma serão punidas com a coima de 10000$00 a 50000$00, e o veículo ficará imobilizado na localidade mais próxima, ou naquela que lhe for indicada, até ser autorizado a concluir o percurso.\n\nArt. 8.º Para o veículo ou reboque em relação ao qual se verifiquem as infracções previstas no artigo 7.º, não será concedida dentro do prazo de 1 ano qualquer das autorizações previstas neste diploma.\n\nArt. 9.º O presente diploma entra em vigor no dia da respectiva publicação.\n\nAprovado pela Assembleia Regional dos Açores em 3 de Fevereiro de 1983.\n\nO Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.\n\nAssinado em Angra do Heroísmo em 1 de Março de 1983.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva."
+  },
+  "5a4220a112a1aecf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Circulação de veículos de características especiais\n\nAs características gerais da grande maioria das estradas da Região não se coadunam com o peso e mesmo com as dimensões de alguns dos veículos que nelas já circulam, justificando, portanto, medidas tendentes a salvaguardar a facilidade da circulação de veículos e segurança geral dos utentes das estradas.\n\nAssim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do artigo 229.º da Constituição, o seguinte:"
+  },
+  "0197524d7abcd24b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1988-07-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Legislativo Regional n.º 25/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1988-372619), publicado em 1988-07-22.",
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 25/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1988-372619), publicado em 1988-07-22."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Sem prejuízo de outros limites já fixados no n.º 1 do artigo 18.º do Código da Estrada, com a redacção que lhe foi dada pelo [Decreto Regulamentar n.º 78/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-1985-170482), de 26 de Novembro, a circulação, nas estradas regionais, de veículos com peso bruto superior a 19 t só será permitida mediante autorização a conceder caso a caso.\n\n2 - A circulação nas mesmas estradas de veículos articulados ou de conjuntos veículo-reboque com comprimento superior a 12 m fica sujeita a idêntica autorização.\n\n> Revogado pelo/a [Decreto Legislativo Regional n.º 25/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1988-372619), publicado em 1988-07-22.\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 25/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1988-372619), publicado em 1988-07-22."
+  },
+  "4c7b0aa05c162aba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPor despacho normativo conjunto das Secretarias Regionais dos Transportes e Turismo e do Equipamento Social poderão ser eventualmente fixados limites inferiores àqueles referidos nos n.os 1 e 2 do artigo anterior, quando circunstâncias pontuais locais assim o aconselhem."
+  },
+  "40f34a93aceed112": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Tais autorizações serão passadas pela Direcção Regional dos Transportes Terrestres (DRTT), ouvida, em cada caso, a Direcção Regional de Obras Públicas e Equipamento (DROPE), cujo parecer será sempre vinculativo.\n\n2 - Os interessados requererão na DRTT a necessária autorização, que deverá justificar devidamente os motivos que levam a considerar ser imprescindível, por razões técnicas, económicas ou outras, a circulação na Região dos veículos em causa."
+  },
+  "31ae585e35917123": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1988-07-22",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Legislativo Regional n.º 25/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1988-372619), publicado em 1988-07-22."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - Os proprietários dos veículos já em circulação na Região, cujos modelos tenham sido homologados e cujo peso bruto venha a exceder o valor referido no n.º 1 do artigo 1.º, deverão requerer, no prazo de 60 dias a contar da data da entrada em vigor do presente diploma, a substituição da autorização já concedida.\n\n2 - A nova autorização não poderá conter restrições que derivem da alteração introduzida pelo n.º 1 do artigo 1.º\n\n> Alterado pelo/a [Decreto Legislativo Regional n.º 25/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1988-372619), publicado em 1988-07-22."
+  },
+  "5c8bcc0adab52c2f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs autorizações referidas anteriormente deverão acompanhar sempre o veículo e ser exibidas quando solicitadas por qualquer agente de fiscalização, incorrendo o condutor faltoso nas infracções previstas na lei para a falta de apresentação de livrete."
+  },
+  "fceee5e13aa9dbe3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA DRTT emitirá as necessárias instruções com vista à aplicação das disposições do presente diploma."
+  },
+  "97b26744a428b5d3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º-A",
+   "in_force_from": "1988-07-22",
+   "changed_by": [
+    "Aditado pelo/a [Decreto Legislativo Regional n.º 25/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1988-372619), publicado em 1988-07-22."
+   ],
+   "markdown": "###### Artigo 6.º-A\n\nAs autoridades com jurisdição nas áreas de circulação dos veículos a que se refere o n.º 1 do artigo 1.º estabelecerão, por meio de sinalização adequada, os condicionamentos e proibições que forem julgados necessários.\n\n> Aditado pelo/a [Decreto Legislativo Regional n.º 25/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1988-372619), publicado em 1988-07-22."
+  },
+  "a0979b8d3a78c078": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA falta de autorização prevista neste diploma ou a inobservância dos condicionamentos fixados na mesma serão punidas com a coima de 10000$00 a 50000$00, e o veículo ficará imobilizado na localidade mais próxima, ou naquela que lhe for indicada, até ser autorizado a concluir o percurso."
+  },
+  "ba6b1b2a6e8ac58c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara o veículo ou reboque em relação ao qual se verifiquem as infracções previstas no artigo 7.º, não será concedida dentro do prazo de 1 ano qualquer das autorizações previstas neste diploma."
+  },
+  "aa4b765aeda5f6ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO presente diploma entra em vigor no dia da respectiva publicação.\n\nAprovado pela Assembleia Regional dos Açores em 3 de Fevereiro de 1983.\n\nO Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.\n\nAssinado em Angra do Heroísmo em 1 de Março de 1983.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva."
+  }
+ }
+}

@@ -28,10 +28,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-09-18'
+version_history:
+  file: decreto-lei-48507.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1968-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-09-18'
+    amending: pt:dre:632771:por
+    amending_title: Decreto-Lei n.º 388/71
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:06:13Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 388/71. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1968/decreto-lei-48507.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,15 +145,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. A Junta Central das Casas dos Pescadores é o organismo orientador e coordenador da acção das Casas dos Pescadores nos sectores da previdência, abono de família, assistência, educação e formação profissional, que lhe cumpre promover directamente sempre que aqueles benefícios sejam comuns à classe piscatória ou a determinados sectores desta classe.
+###### Artigo 1.º
+
+1. A Junta Central das Casas dos Pescadores é o organismo orientador e coordenador da acção das Casas dos Pescadores nos sectores da previdência, abono de família, assistência, educação e formação profissional, que lhe cumpre promover directamente sempre que aqueles benefícios sejam comuns à classe piscatória ou a determinados sectores desta classe.
 
 2. A Junta desempenha ainda a função de elemento de ligação entre o Estado e a Corporação da Pesca e Conservas, em cujo conselho, e no da secção da Pesca, o presidente ou quem o substitua tem assento com voto consultivo.
 
-Art. 2.º A Junta Central tem personalidade jurídica, autonomia administrativa e financeira e funciona junto do Ministro das Corporações e Previdência Social.
+###### Artigo 2.º
 
-Art. 3.º A Junta Central exerce a sua acção em todo o território nacional, fomentando a criação de Casas dos Pescadores e estabelecendo delegações nas províncias ultramarinas, nos termos fixados em portaria conjunta dos Ministros do Ultramar e das Corporações e Previdência Social.
+A Junta Central tem personalidade jurídica, autonomia administrativa e financeira e funciona junto do Ministro das Corporações e Previdência Social.
 
-Art. 4.º A Junta Central é constituída por:
+###### Artigo 3.º
+
+A Junta Central exerce a sua acção em todo o território nacional, fomentando a criação de Casas dos Pescadores e estabelecendo delegações nas províncias ultramarinas, nos termos fixados em portaria conjunta dos Ministros do Ultramar e das Corporações e Previdência Social.
+
+###### Artigo 4.º
+
+A Junta Central é constituída por:
 
 a) Um presidente;
 
@@ -145,7 +169,9 @@ b) Dois vice-presidentes;
 
 c) Quatro vogais eleitos.
 
-Art. 5.º - 1. O presidente é um oficial general ou superior da Armada, nomeado pelo Ministro das Corporações e Previdência Social, com audiência do Ministro da Marinha.
+###### Artigo 5.º
+
+1. O presidente é um oficial general ou superior da Armada, nomeado pelo Ministro das Corporações e Previdência Social, com audiência do Ministro da Marinha.
 
 2. Dos vice-presidentes, um será nomeado pelo Ministro do Ultramar, com audiência do Ministro das Corporações e Previdência Social; outro será nomeado pelo Ministro das Corporações e Previdência Social.
 
@@ -153,7 +179,9 @@ Art. 5.º - 1. O presidente é um oficial general ou superior da Armada, nomeado
 
 4. O presidente designa o vice-presidente que o substui na sua ausência ou impedimento.
 
-Art. 6.º A eleição dos representantes referidos na alínea c) do artigo 4.º será feita pelos seguintes colégios eleitorais entre os seus membros:
+###### Artigo 6.º
+
+A eleição dos representantes referidos na alínea c) do artigo 4.º será feita pelos seguintes colégios eleitorais entre os seus membros:
 
 a) O representante dos grémios dos armadores das pescas da metrópole é eleito em colégio eleitoral constituído por um delegado de cada direcção;
 
@@ -163,11 +191,15 @@ c) O representante das Casas dos Pescadores da metrópole é designado em colég
 
 d) As Casas dos Pescadores das províncias ultramarinas são representadas, em cada ano, por uma província diferente e, naquelas onde houver mais do que uma, o representante a enviar à Junta Central é eleito em colégio eleitoral constituído por um dos vogais da direcção de cada Casa.
 
-Art. 7.º A Junta reúne uma vez por mês ou sempre que o seu presidente a convocar e as suas decisões são tomadas por maioria de votos, cabendo ao presidente voto de qualidade.
+###### Artigo 7.º
 
-Art. 8.º - 1. Compete à Junta:
+A Junta reúne uma vez por mês ou sempre que o seu presidente a convocar e as suas decisões são tomadas por maioria de votos, cabendo ao presidente voto de qualidade.
 
-a) Organizar e dirigir os serviços de abono de família, pensões de reforma e invalidez e assegurar os benefícios da previdência concedidos ou a conceder aos sócios efectivos das Casas dos Pescadores, aplicando, com as adaptações necessárias aos meios piscatórios, as normas constantes do Regulamento Geral das Caixas Sindicais de Previdência e de Abono de Família, ouvido o Conselho Superior da Previdência e da Habitação Económica;
+###### Artigo 8.º
+
+1. Compete à Junta:
+
+a) Organizar e dirigir os serviços de abono de família, pensões de reforma e invalidez e assegurar os benefícios da Previdência concedidos ou a conceder aos sócios efectivos das Casas dos Pescadores, aplicando, com as adaptações necessárias aos meios piscatórios, as normas constantes do Regulamento Geral das Caixas Sindicais de Previdência e de Abono de Família, ouvidos na metrópole o Conselho Superior da Acção Social e nas províncias ultramarinas o órgão competente nos termos da lei;
 
 b) Fomentar a construção de habitações económicas;
 
@@ -191,11 +223,15 @@ l) Elaborar o orçamento anual até 15 de Dezembro e o relatório e contas da ge
 
 m) Elaborar um regulamento interno e todos os regulamentos necessários à boa execução dos serviços.
 
-2. Às habitações a que se refere a alínea c) é aplicável o disposto no artigo 7.º do [Decreto-Lei n.º 34486](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34486-1945-615631), de 6 de Abril de 1945.
+2. Às habitações a que se refere a alínea c) é aplicável o regime fiscal vigente para as instituições de previdência social.
 
-A ocupação das casas construídas nos termos da mesma alínea será concedida a título precário, podendo os moradores ser obrigados a desalojá-las mediante aviso prévio de 30 dias, sob pena de despejo pelas autoridades administrativas ou policiais, sem direito a indemnização.
+A ocupação das casas construídas nos termos da mesma alínea será concedida a título precário, podendo os moradores ser obrigados a desalojá-las mediante aviso prévio de trinta dias, sob pena de despejo pelas autoridades administrativas ou policiais, sem direito a indemnização.
 
-Art. 9.º As delegações da Junta Central em cada uma das províncias ultramarinas são constituídas:
+> Alterado pelo/a [Decreto-Lei n.º 388/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1971-632771), publicado em 1971-09-18.
+
+###### Artigo 9.º
+
+As delegações da Junta Central em cada uma das províncias ultramarinas são constituídas:
 
 a) Pelo director dos Serviços de Marinha, que preside com voto de qualidade, podendo fazer-se substituir pelo subdirector;
 
@@ -205,7 +241,9 @@ c) Por um representante dos armadores das pescas da província, designado nos te
 
 d) Por um representante dos sócios efectivos das Casas dos Pescadores da província, designado, se houver mais do que uma, nos termos da alínea d) do mesmo artigo 6.º
 
-Art. 10.º Compete às delegações nas províncias ultramarinas:
+###### Artigo 10.º
+
+Compete às delegações nas províncias ultramarinas:
 
 a) Exercer as funções das alíneas a) a h) do artigo 8.º, de harmonia com a competência que lhes for conferida pela Junta Central;
 
@@ -213,13 +251,19 @@ b) Dar parecer sobre os assuntos que lhes forem submetidos pela Junta Central;
 
 c) Executar e fazer executar as deliberações da Junta Central;
 
-d) Administrar as verbas que lhes forem concedidas e elaborar o orçamento e o relatório e contas da gerência anual até 30 dias antes dos prazos fixados na alínea j) do artigo 8.º, para serem submetidos à aprovação da Junta Central.
+d) Administrar as verbas que lhes forem concedidas e elaborar o orçamento e o relatório e contas da gerência anual até trinta dias antes dos prazos fixados na alínea j) do artigo 8.º para serem submetidos à aprovação da Junta Central.
 
-Art. 11.º A Junta Central dispõe de um fundo comum, que gerirá, e que se destina a assegurar a realização dos fins que lhe estão cometidos.
+> Alterado pelo/a [Decreto-Lei n.º 388/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/388-1971-632771), publicado em 1971-09-18.
+
+###### Artigo 11.º
+
+A Junta Central dispõe de um fundo comum, que gerirá, e que se destina a assegurar a realização dos fins que lhe estão cometidos.
 
 A distribuição do fundo comum pelas diferentes actividades que lhe cumpre prosseguir, incluindo as suas próprias despesas de administração, será feita por percentagens a fixar anualmente.
 
-Art. 12.º As receitas do fundo comum, referido no artigo 11.º, são constituídas por:
+###### Artigo 12.º
+
+As receitas do fundo comum, referido no artigo 11.º, são constituídas por:
 
 a) Subsídio do Ministério da Marinha, proveniente de dotação inscrita anualmente no orçamento, para reforma dos pescadores inválidos:
 
@@ -239,17 +283,25 @@ h) Parte do produto da quotização dos sécios efectivos das Casas dos Pescador
 
 i) Contribuições arrecadadas, pela Junta ou pelas Casas dos Pescadores, destinadas à realização dos fins submetidos à coordenação, orientação e fiscalização da Junta Central.
 
-Art. 13.º As contribuições das entidades patronais e dos sócios efectivos das Casas dos Pescadores para a previdência, abono de família e para outros fins que à Junta Central cumpra prosseguir devem constar dos contratos de matrícula e outras convenções colectivas de trabalho, incidindo sobre todas as importâncias percebidas pelos referidos sócios a título de ordenados, salários, soldadas, quinhões, partes ou percentagens e ainda sobre as remunerações em espécie que lhe sejam atribuídas.
+###### Artigo 13.º
 
-Art. 14.º - 1. São obrigatòriamente inscritos na Mútua dos Pescadores os sócios efectivos das Casas dos Pescadores que não estejam abrangidos pelas mútuas de seguros dos organismos patronais da pesca.
+As contribuições das entidades patronais e dos sócios efectivos das Casas dos Pescadores para a previdência, abono de família e para outros fins que à Junta Central cumpra prosseguir devem constar dos contratos de matrícula e outras convenções colectivas de trabalho, incidindo sobre todas as importâncias percebidas pelos referidos sócios a título de ordenados, salários, soldadas, quinhões, partes ou percentagens e ainda sobre as remunerações em espécie que lhe sejam atribuídas.
+
+###### Artigo 14.º
+
+1. São obrigatòriamente inscritos na Mútua dos Pescadores os sócios efectivos das Casas dos Pescadores que não estejam abrangidos pelas mútuas de seguros dos organismos patronais da pesca.
 
 2. Os prémios do seguro serão fixados pela Mútua dos Pescadores, nos termos da legislação em vigor, e serão cobrados pelas autoridades aduaneiras.
 
-Art. 15.º - 1. À Junta compete aplicar as penalidades que vierem a ser previstas no seu regulamento e promover a cobrança judicial das contribuições não pagas nos devidos prazos.
+###### Artigo 15.º
+
+1. À Junta compete aplicar as penalidades que vierem a ser previstas no seu regulamento e promover a cobrança judicial das contribuições não pagas nos devidos prazos.
 
 2. À Junta é permitido o acesso à contabilidade dos grémios das pescas e dos armadores em todos os assuntos que se relacionem com as receitas que, nos termos do presente diploma, lhe são devidas.
 
-Art. 16.º É revogado o [Decreto-Lei n.º 37750](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37750-1950-659142), de 4 de Fevereiro de 1950.
+###### Artigo 16.º
+
+É revogado o [Decreto-Lei n.º 37750](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37750-1950-659142), de 4 de Fevereiro de 1950.
 
 Publique-se e cumpra-se como nele se contém.
 

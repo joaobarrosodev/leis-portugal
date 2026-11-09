@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-10-10'
+version_history:
+  file: decreto-lei-46380.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1965-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-10-10'
+    amending: pt:dre:215959:por
+    amending_title: Decreto-Lei n.º 49296
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:53:39Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49296. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46380.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -130,45 +147,81 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º As condições de emissão e circulação dos títulos de obrigação denominados «Promissórias de fomento ultramarino» são reguladas pelo presente decreto-lei.
+###### Artigo 1.º
 
-Art. 2.º - 1. As promissórias de fomento ultramarino são títulos nominativos expressos em moeda com curso legal na província ultramarina em que forem emitidos, reembolsáveis no prazo de cinco anos e averbáveis ùnicamente a favor das instituições de crédito mencionadas nas alíneas b) e c) do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963.
+As condições de emissão e circulação dos títulos de obrigação denominados «Promissórias de fomento ultramarino» são reguladas pelo presente decreto-lei.
+
+###### Artigo 2.º
+
+1. As promissórias de fomento ultramarino são títulos nominativos expressos em moeda com curso legal na província ultramarina em que forem emitidos, reembolsáveis no prazo de cinco anos e averbáveis ùnicamente a favor das instituições de crédito mencionadas nas alíneas b) e c) do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963.
 
 2. O valor de cada título não será inferior a 1000000$00 nem excederá 10000000$00.
 
-Art. 3.º A emissão de promissórias de fomento ultramarino será efectuada, em cada província ultramarina, pelo respectivo governador, sendo o seu produto exclusivamente destinado ao financiamento de investimentos previstos em planos de fomento da província- onde a emissão se realizar, devidamente aprovados pelo Conselho de Ministros para os Assuntos Económicos.
+###### Artigo 3.º
 
-Art. 4.º A emissão de promissórias de fomento ultramarino depende de prévia autorização conjunta dos Ministros das Finanças e do Ultramar, dada por decreto no qual se estabelecerá o quantitativo global de cada emissão.
+A emissão de promissórias de fomento ultramarino será efectuada, em cada província ultramarina, pelo respectivo governador, sendo o seu produto exclusivamente destinado ao financiamento de investimentos previstos em planos de fomento da província- onde a emissão se realizar, devidamente aprovados pelo Conselho de Ministros para os Assuntos Económicos.
 
-Art. 5.º Ao estabelecer o quantitativo global de cada emissão de promissórias de fomento ultramarino, os Ministros das Finanças e do Ultramar terão em conta as necessidades de financiamento da província onde os títulos deverão ser emitidos e as possibilidades da sua colocação, nos termos dos artigos 7.º e 8.º do presente decreto-lei.
+###### Artigo 4.º
 
-Art. 6.º O serviço dos empréstimos contraídos pelas províncias ultramarinas em virtude da emissão de promissórias de fomento ultramarino ficará a cargo dos serviços de Fazenda e contabilidade das províncias a que respeitarem as emissões efectuadas.
+A emissão de promissórias de fomento ultramarino depende de prévia autorização conjunta dos Ministros das Finanças e do Ultramar, dada por decreto no qual se estabelecerá o quantitativo global de cada emissão.
 
-Art. 7.º As instituições de crédito mencionadas na alínea c) do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) não serão obrigadas a subscrever promissórias emitidas na província ultramarina onde exercerem a sua actividade por quantitativo superior ao que corresponder à percentagem das suas disponibilidades de caixa que for fixada de harmonia com o disposto na parte final do artigo 77.º do mesmo decreto-lei.
+###### Artigo 5.º
 
-Art. 8.º O quantitativo das promissórias a subscrever pelo banco emissor de cada província ultramarina será estabelecido, caso por caso, por acordo entre o Estado, representado pelo Ministro do Ultramar, e o referido banco emissor.
+Ao estabelecer o quantitativo global de cada emissão de promissórias de fomento ultramarino, os Ministros das Finanças e do Ultramar terão em conta as necessidades de financiamento da província onde os títulos deverão ser emitidos e as possibilidades da sua colocação, nos termos dos artigos 7.º e 8.º do presente decreto-lei.
 
-Art. 9.º - 1. Em casos de reconhecidas dificuldades financeiras de bancos comerciais detentores de promissórias de fomento ultramarino que imponham a imediata liquidação dos respectivos títulos, ou ainda quando o volume de promissórias em carteiras ultrapasse o limite considerado no artigo 7.º deste decreto-lei, o governo da província emitente das promissórias obriga-se a promover a sua transferência para outras entidades ou, se necessário, a proceder ao reembolso antecipado das mesmas.
+###### Artigo 6.º
+
+O serviço dos empréstimos contraídos pelas províncias ultramarinas em virtude da emissão de promissórias de fomento ultramarino ficará a cargo dos serviços de Fazenda e contabilidade das províncias a que respeitarem as emissões efectuadas.
+
+###### Artigo 7.º
+
+As instituições de crédito mencionadas na alínea c) do corpo do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) poderão subscrever, sem qualquer limite, promissórias de fomento ultramarino emitidas nas províncias onde exercerem a sua actividade, mas só lhes será permitido incluir, nas respectivas disponibilidades de caixa, o quantitativo correspondente à percentagem que for fixada de harmonia com o disposto no artigo 7.º, alínea a), do [Decreto-Lei n.º 48369](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48369-1968-274851), de 6 de Maio de 1968.
+
+> Alterado pelo/a [Decreto-Lei n.º 49296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49296-1969-215959), publicado em 1969-10-10.
+
+###### Artigo 8.º
+
+Por contrato entre o Estado, representado pelo Ministro do Ultramar, e os bancos emissores das províncias ultramarinas, serão fixados os quantitativos das promissórias a subscrever directamente pelas referidas instituições de crédito, bem como estabelecidas as condições em que as mesmas se obrigarão a adquirir, aos bancos comerciais das respectivas províncias, as promissórias que, para o efeito, por estes lhes vierem a ser oferecidas.
+
+> Alterado pelo/a [Decreto-Lei n.º 49296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49296-1969-215959), publicado em 1969-10-10.
+
+###### Artigo 9.º
+
+1. Enquanto os bancos emissores ultramarinos não assumirem, por contrato com o Estado. as obrigações previstas na parte final do artigo anterior, os governos das províncias emitentes das promissórias, quando solicitados pelos bancos comerciais detentores dos referidos títulos, deverão promover a sua transferência para outras entidades ou, se necessário, proceder ao reembolso antecipado das mesmas.
 
 2. Com vista à consecução das finalidades procuradas no n.º 1 do presente artigo, o Ministro do Ultramar poderá, nomeadamente, fazer uso da faculdade conferida na parte final do artigo 77.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
-Art. 10.º As promissórias de fomento ultramarino vencerão juro de taxa anual não superior a 2 por cento, pagável no fim de cada semestre; serão inconvertíveis e beneficiarão de todas as garantias, privilégios e isenções concedidos aos títulos de dívida pública fundada e seus rendimentos.
+> Alterado pelo/a [Decreto-Lei n.º 49296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49296-1969-215959), publicado em 1969-10-10.
 
-Art. 11.º As promissórias de fomento ultramarino são transmissíveis por todos os modos admitidos em direito entre as instituições de crédito tomadoras de cada província, mas a sua transmissão só produzirá efeitos relativamente à província emitente e a terceiros desde a data da respectiva inscrição no livro de registo a cargo dos serviços de Fazenda e contabilidade da província a que a emissão respeitar.
+###### Artigo 10.º
 
-Art. 12.º - 1. As transmissões a título oneroso de promissórias de fomento ultramarino serão efectuadas pelo capital nominal.
+As promissórias de fomento ultramarino vencerão juro de taxa anual não superior a 2 por cento, pagável no fim de cada semestre; serão inconvertíveis e beneficiarão de todas as garantias, privilégios e isenções concedidos aos títulos de dívida pública fundada e seus rendimentos.
+
+###### Artigo 11.º
+
+As promissórias de fomento ultramarino são transmissíveis por todos os modos admitidos em direito entre as instituições de crédito tomadoras de cada província, mas a sua transmissão só produzirá efeitos relativamente à província emitente e a terceiros desde a data da respectiva inscrição no livro de registo a cargo dos serviços de Fazenda e contabilidade da província a que a emissão respeitar.
+
+###### Artigo 12.º
+
+1. As transmissões a título oneroso de promissórias de fomento ultramarino serão efectuadas pelo capital nominal.
 
 2. Quando as transmissões se efectuarem antes do vencimento do juro do período semestral que estiver em curso, o adquirente antecipará o juro correspondente ao tempo decorrido, podendo cobrar, como compensação, um prémio sobre a importância antecipada de taxa não superior à de desconto do banco emissor da província onde a operação se realizar e pelo tempo que faltar para o referido vencimento.
 
 3. As instituições de crédito escriturarão as promissórias de que forem possuidoras pelos respectivos valores nominal.
 
-Art. 13.º Tanto a aquisição como a alienação, por acto entre vivos e a título oneroso, de promissórias de fomento ultramarino efectuadas com infracção do disposto no artigo anterior são puníveis nos termos previstos no artigo 122.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
+###### Artigo 13.º
 
-Art. 14.º - 1. As províncias ultramarinas, em qualquer das datas do vencimento de juros das promissórias, poderão antecipar aos portadores o reembolso do respectivo capital.
+Tanto a aquisição como a alienação, por acto entre vivos e a título oneroso, de promissórias de fomento ultramarino efectuadas com infracção do disposto no artigo anterior são puníveis nos termos previstos no artigo 122.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
+
+###### Artigo 14.º
+
+1. As províncias ultramarinas, em qualquer das datas do vencimento de juros das promissórias, poderão antecipar aos portadores o reembolso do respectivo capital.
 
 2. O director ou o chefe, conforme o caso, dos serviços de Fazenda e contabilidade da província onde as promissórias houverem sido emitidas notificará, com quinze dias de antecedência, pelo menos, o exercício dessa faculdade às instituições de crédito em cujo nome as promissórias se encontrem registadas.
 
-Art. 15.º - 1. Das promissórias de fomento ultramarino constarão sempre:
+###### Artigo 15.º
+
+1. Das promissórias de fomento ultramarino constarão sempre:
 
 a) Número do título;
 
@@ -180,9 +233,13 @@ d) Taxa de juro e respectivos vencimentos.
 
 2. Os pagamentos de juros serão anotados no próprio título.
 
-Art. 16.º As promissórias de fomento ultramarino conterão a assinatura do director ou chefe dos serviços de Fazenda e contabilidade da província a que a emissão respeitar, autenticada com o selo branco dos respectivos serviços, e serão visadas pelo governador da província.
+###### Artigo 16.º
 
-Art. 17.º - 1. Os serviços de Fazenda e contabilidade das províncias onde forem emitidas promissórias de fomento ultramarino terão um livro de registo dessas promissórias, do qual constarão:
+As promissórias de fomento ultramarino conterão a assinatura do director ou chefe dos serviços de Fazenda e contabilidade da província a que a emissão respeitar, autenticada com o selo branco dos respectivos serviços, e serão visadas pelo governador da província.
+
+###### Artigo 17.º
+
+1. Os serviços de Fazenda e contabilidade das províncias onde forem emitidas promissórias de fomento ultramarino terão um livro de registo dessas promissórias, do qual constarão:
 
 a) A identificação dos títulos emitidos;
 
@@ -194,25 +251,43 @@ d) As transmissões.
 
 2. As inscrições neste registo serão datadas e conterão a assinatura ou a rubrica do respectivo director ou chefe dos serviços de Fazenda e contabilidade.
 
-Art. 18.º O produto da emissão de promissórias de fomento ultramarino poderá, nomeadamente, ser objecto, no todo ou em parte, de empréstimos a conceder pelas províncias ultramarinas às instituições de crédito mencionadas nas alíneas a) e d) do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) para ser por elas utilizado de harmonia com os contratos a estabelecer, em cada caso, entre o governo da respectiva província e as instituições mutuárias.
+###### Artigo 18.º
 
-Art. 19.º - 1. Os empréstimos mencionados no artigo anterior, cujas condições gerais ficam sujeitas a aprovação por despacho do Ministro do Ultramar, publicado no Diário ao Governo e no Boletim Oficial da província ultramarina interessada, serão titulados por via de escritura assinada pelo respectivo director ou chefe dos serviços de Fazenda e contabilidade e pelos legais representantes das instituições de crédito mutuárias.
+O produto da emissão de promissórias de fomento ultramarino poderá, nomeadamente, ser objecto, no todo ou em parte, de empréstimos a conceder pelas províncias ultramarinas às instituições de crédito mencionadas nas alíneas a) e d) do artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) para ser por elas utilizado de harmonia com os contratos a estabelecer, em cada caso, entre o governo da respectiva província e as instituições mutuárias.
+
+###### Artigo 19.º
+
+1. Os empréstimos mencionados no artigo anterior, cujas condições gerais ficam sujeitas a aprovação por despacho do Ministro do Ultramar, publicado no Diário ao Governo e no Boletim Oficial da província ultramarina interessada, serão titulados por via de escritura assinada pelo respectivo director ou chefe dos serviços de Fazenda e contabilidade e pelos legais representantes das instituições de crédito mutuárias.
 
 2. Dos despachos de aprovação deverão constar, além das importâncias dos empréstimos, as condições de juro e de reembolso, as garantias e a indicação expressa das aplicações reprodutivas a que se destinam os capitais mutuados, bem como as condições de juro ou outras a que as instituições de crédito interessadas devam obedecer na utilização dos mesmos capitais.
 
-Art. 20.º As instituições de crédito mutuárias não poderão empregar para fins diferentes dos acordados os capitais recebidos nos termos dos artigos precedentes, sob pena de os respectivos empréstimos se considerarem desde logo vencidos, sem prejuízo de outras penalidades legais ou contratuais aplicáveis.
+###### Artigo 20.º
 
-Art. 21.º As instituições de crédito mutuárias deverão escriturar nos seus livros e levar aos respectivos balanços, os empréstimos recebidos das províncias ultramarinas pelo valor do respectivo capital em dívida e sob a designação «Empréstimos da província de ... - Conta aplicação de promissórias de fomento ultramarino», indicando nos mesmos balanços, por categorias, as operações resultantes da aplicação dos capitais dos referidos empréstimos.
+As instituições de crédito mutuárias não poderão empregar para fins diferentes dos acordados os capitais recebidos nos termos dos artigos precedentes, sob pena de os respectivos empréstimos se considerarem desde logo vencidos, sem prejuízo de outras penalidades legais ou contratuais aplicáveis.
 
-Art. 22.º Os serviços de Fazenda e contabilidade das províncias onde forem emitidas promissórias de fomento ultramarino tomarão as providências necessárias para que seja aberta na escrita dessas províncias uma conta especial sob a designação «Empréstimos em aplicação do produto da emissão de promissórias de fomento ultramarino», na qual serão escrituradas as operações referidas nos artigos 18.º e 19.º do presente decreto-lei.
+###### Artigo 21.º
 
-Art. 23.º Os juros dos empréstimos concedidos pelas províncias ultramarinas a instituições de crédito, nos termos previstos no presente diploma, tal como os de outras operações de crédito que venham a efectuar-se em aplicação do produto da emissão de promissórias de fomento ultramarino, serão escriturados em cada província em «Operações de tesouraria», numa conta sob a designação de «Conta de liquidação de juros de créditos», pela qual serão pagos os juros das promissórias em circulação.
+As instituições de crédito mutuárias deverão escriturar nos seus livros e levar aos respectivos balanços, os empréstimos recebidos das províncias ultramarinas pelo valor do respectivo capital em dívida e sob a designação «Empréstimos da província de ... - Conta aplicação de promissórias de fomento ultramarino», indicando nos mesmos balanços, por categorias, as operações resultantes da aplicação dos capitais dos referidos empréstimos.
 
-Art. 24.º Tudo o que não estiver especialmente previsto no presente diploma acerca do serviço dos empréstimos contraídos pela emissão de promissórias de fomento ultramarino será regulado, em portaria, pelo Ministro do Ultramar.
+###### Artigo 22.º
 
-Art. 25.º É aprovado o modelo das promissórias de fomento ultramarino publicado em anexo a este decreto-lei, do qual constitui parte integrante.
+Os serviços de Fazenda e contabilidade das províncias onde forem emitidas promissórias de fomento ultramarino tomarão as providências necessárias para que seja aberta na escrita dessas províncias uma conta especial sob a designação «Empréstimos em aplicação do produto da emissão de promissórias de fomento ultramarino», na qual serão escrituradas as operações referidas nos artigos 18.º e 19.º do presente decreto-lei.
 
-Art. 26.º São revogados os artigos 41.º, 42.º e 43.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
+###### Artigo 23.º
+
+Os juros dos empréstimos concedidos pelas províncias ultramarinas a instituições de crédito, nos termos previstos no presente diploma, tal como os de outras operações de crédito que venham a efectuar-se em aplicação do produto da emissão de promissórias de fomento ultramarino, serão escriturados em cada província em «Operações de tesouraria», numa conta sob a designação de «Conta de liquidação de juros de créditos», pela qual serão pagos os juros das promissórias em circulação.
+
+###### Artigo 24.º
+
+Tudo o que não estiver especialmente previsto no presente diploma acerca do serviço dos empréstimos contraídos pela emissão de promissórias de fomento ultramarino será regulado, em portaria, pelo Ministro do Ultramar.
+
+###### Artigo 25.º
+
+É aprovado o modelo das promissórias de fomento ultramarino publicado em anexo a este decreto-lei, do qual constitui parte integrante.
+
+###### Artigo 26.º
+
+São revogados os artigos 41.º, 42.º e 43.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
 Publique-se e cumpra-se como nele se contém.
 

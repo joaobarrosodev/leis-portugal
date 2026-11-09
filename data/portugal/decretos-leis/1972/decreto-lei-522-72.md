@@ -29,10 +29,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-06-05'
+version_history:
+  file: decreto-lei-522-72.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1972-12-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-06-05'
+    amending: pt:dre:335907:por
+    amending_title: Decreto-Lei n.º 280/75
+    changes:
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 44.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:25:02Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 280/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1972/decreto-lei-522-72.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -152,9 +169,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É criado em Lisboa, no Ministério da Educação Nacional e no âmbito da Direcção-Geral do Ensino Superior, o Instituto Superior de Ciências do Trabalho da Empresa, em substituição do Instituto de Estudos Sociais, que é extinto.
+###### Artigo 1.º
 
-Art. 2.º O Instituto tem por fim:
+É criado em Lisboa, no Ministério da Educação Nacional e no âmbito da Direcção-Geral do Ensino Superior, o Instituto Superior de Ciências do Trabalho da Empresa, em substituição do Instituto de Estudos Sociais, que é extinto.
+
+###### Artigo 2.º
+
+O Instituto tem por fim:
 
 a) Proporcionar preparação básica nos domínios das ciências sociais e económicas;
 
@@ -166,7 +187,9 @@ d) Realizar e estimular a investigação científica nas matérias relacionadas 
 
 e) Difundir os conhecimentos respeitantes às matérias incluídas nos seus planos de estudo e de investigação.
 
-Art. 3.º Para efectivação dos seus fins, compete ao Instituto:
+###### Artigo 3.º
+
+Para efectivação dos seus fins, compete ao Instituto:
 
 a) Assegurar a realização de cursos de nível superior;
 
@@ -182,39 +205,61 @@ f) Promover a publicação de trabalhos de carácter científico e de divulgaç�
 
 g) Conceder bolsas de estudo para frequência do Instituto ou preparação do pessoal docente.
 
-Art. 4.º O ensino do Instituto deverá assegurar um constante contacto com as realidades nacionais, bem como a actualização permanente dos conhecimentos.
+###### Artigo 4.º
 
-Art. 5.º O Instituto deverá estabelecer estreita colaboração com outras instituições de ensino, os serviços públicos, as empresas, os organismos corporativos e de coordenação económica, as instituições de previdência, assistência e saúde, as associações profissionais e científicas e as demais entidades por qualquer forma interessadas no ensino e na investigação das matérias da sua competência.
+O ensino do Instituto deverá assegurar um constante contacto com as realidades nacionais, bem como a actualização permanente dos conhecimentos.
 
-Art. 6.º - 1. O Instituto tem personalidade jurídica e, sem prejuízo do que vier a ser estabelecido, goza de autonomia administrativa e pedagógica, independentemente das orientações gerais que vierem a ser fixadas pelo Ministério da Educação Nacional no que respeita ao regime de estudos e programas e à coordenação das suas actividades.
+###### Artigo 5.º
+
+O Instituto deverá estabelecer estreita colaboração com outras instituições de ensino, os serviços públicos, as empresas, os organismos corporativos e de coordenação económica, as instituições de previdência, assistência e saúde, as associações profissionais e científicas e as demais entidades por qualquer forma interessadas no ensino e na investigação das matérias da sua competência.
+
+###### Artigo 6.º
+
+1. O Instituto tem personalidade jurídica e, sem prejuízo do que vier a ser estabelecido, goza de autonomia administrativa e pedagógica, independentemente das orientações gerais que vierem a ser fixadas pelo Ministério da Educação Nacional no que respeita ao regime de estudos e programas e à coordenação das suas actividades.
 
 2. O Centro de Formação Empresarial, mencionado no n.º 1 do artigo 12.º, tem autonomia técnica e administrativa, podendo receber heranças, legados e donativos, possuir bens próprios e administrar as suas receitas.
 
-Art. 7.º - 1. O Instituto assegurará a realização decursos de nível superior, de modo que neles sejam conferidos os graus de bacharel e de licenciado em Ciências do Trabalho e em Organização e Gestão de Empresas.
+###### Artigo 7.º
+
+1. O Instituto assegurará a realização decursos de nível superior, de modo que neles sejam conferidos os graus de bacharel e de licenciado em Ciências do Trabalho e em Organização e Gestão de Empresas.
 
 2. Os planos de estudo dos bacharelatos e das licenciaturas, referidos no número anterior, e os respectivos regimes de estudo constarão de diploma especial.
 
-Art. 8.º O Instituto Superior de Ciências do Trabalho e da Empresa organizará cursos de pós-graduação nos termos do diploma referido no n.º 2 do artigo anterior.
+###### Artigo 8.º
 
-Art. 9.º Pode ainda o Instituto organizar cursos de formação e de aperfeiçoamento, os quais têm por objectivo, respectivamente, a preparação de categorias profissionais reconhecidas como indispensáveis em determinada oportunidade ou o aperfeiçoamento e actualização cultural e técnica de pessoal superior dos quadros da administração pública e privada.
+O Instituto Superior de Ciências do Trabalho e da Empresa organizará cursos de pós-graduação nos termos do diploma referido no n.º 2 do artigo anterior.
 
-Art. 10.º - 1. Pela matrícula nos cursos superiores professados no Instituto e pelas inscrições são devidas propinas.
+###### Artigo 9.º
+
+Pode ainda o Instituto organizar cursos de formação e de aperfeiçoamento, os quais têm por objectivo, respectivamente, a preparação de categorias profissionais reconhecidas como indispensáveis em determinada oportunidade ou o aperfeiçoamento e actualização cultural e técnica de pessoal superior dos quadros da administração pública e privada.
+
+###### Artigo 10.º
+
+1. Pela matrícula nos cursos superiores professados no Instituto e pelas inscrições são devidas propinas.
 
 2. O pagamento da propina de matrícula será feito por uma só vez, no acto da assinatura do respectivo boletim, sendo o seu valor de 100$00.
 
 3. As propinas de inscrição serão pagas no início do semestre respectivo, sendo o seu valor de 150$00 por cada disciplina.
 
-Art. 11.º A concessão de bolsas de estudo e isenção e redução de propinas é determinada nos termos fixados para os alunos das Universidades.
+###### Artigo 11.º
 
-Art. 12.º - 1. No Instituto Superior de Ciências do Trabalho e da Empresa existirá um Centro de Formação Empresarial, directamente subordinado ao director do Instituto, no qual serão ministrados os cursos referidos no artigo 9.º
+A concessão de bolsas de estudo e isenção e redução de propinas é determinada nos termos fixados para os alunos das Universidades.
+
+###### Artigo 12.º
+
+1. No Instituto Superior de Ciências do Trabalho e da Empresa existirá um Centro de Formação Empresarial, directamente subordinado ao director do Instituto, no qual serão ministrados os cursos referidos no artigo 9.º
 
 2. A organização destes cursos pertence exclusivamente ao Instituto, sempre que se trate de cursos livres ou de cursos que apenas dêem lugar a certificado especial de frequência.
 
 3. Se os cursos derem lugar à atribuição de diplomas de aproveitamento, obedecerão a normas a definir por despacho do Ministro da Educação Nacional, que poderá ouvir outras entidades.
 
-Art. 13.º A organização e o funcionamento dos cursos referidos no n.º 3 do artigo anterior constará de diploma especial.
+###### Artigo 13.º
 
-Art. 14.º O Instituto tem como órgãos directivos:
+A organização e o funcionamento dos cursos referidos no n.º 3 do artigo anterior constará de diploma especial.
+
+###### Artigo 14.º
+
+O Instituto tem como órgãos directivos:
 
 a) O director e subdirector;
 
@@ -222,9 +267,13 @@ b) O conselho escolar;
 
 c) O conselho administrativo.
 
-Art. 15.º O director do Instituto será designado pelo Ministro da Educação Nacional de entre individualidades de reconhecida competência, podendo servir em regime de comissão de serviço.
+###### Artigo 15.º
 
-Art. 16.º Compete ao director:
+O director do Instituto será designado pelo Ministro da Educação Nacional de entre individualidades de reconhecida competência, podendo servir em regime de comissão de serviço.
+
+###### Artigo 16.º
+
+Compete ao director:
 
 1.º Representar e dirigir o Instituto com perfeita observância da lei e em estreito contacto com a Direcção-Geral do Ensino Superior, fazendo executar as disposições legais e as determinações superiores, despachando os casos correntes e informando sobre os que excederem a sua competência ou ofereçam dúvida fundada;
 
@@ -248,25 +297,37 @@ um relatório sobre a vida do Instituto, ou os progressos alcançados e as neces
 
 10.º Promover tudo o que possa contribuir para o aperfeiçoamento dos serviços e o prestígio da escola;
 
-Art. 17.º - 1. Na falta ou impedimento do director, assumirá a direcção do Instituto o subdirector.
+###### Artigo 17.º
+
+1. Na falta ou impedimento do director, assumirá a direcção do Instituto o subdirector.
 
 2. O subdirector será designado pelo Ministro da Educação Nacional de entre professores do Instituto.
 
 3. Fora dos casos previstos no n.º 1, o subdirector coadjuva o director em todas as circunstâncias em que, para tanto, for solicitado, podendo, para esses efeitos específicos, receber delegação anual.
 
-Art. 18.º O secretário é eleito pelo conselho escolar, nos termos do [Decreto-Lei n.º 45892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45892-1964-539426), de 27 de Agosto de 1964.
+###### Artigo 18.º
 
-Art. 19.º - 1. A administração do Instituto pertence ao conselho administrativo, constituído pelo director, que preside, pelo secretário e pelo chefe da secretaria.
+O secretário é eleito pelo conselho escolar, nos termos do [Decreto-Lei n.º 45892](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45892-1964-539426), de 27 de Agosto de 1964.
+
+###### Artigo 19.º
+
+1. A administração do Instituto pertence ao conselho administrativo, constituído pelo director, que preside, pelo secretário e pelo chefe da secretaria.
 
 2. Na falta ou impedimento de qualquer dos membros do conselho administrativo será chamado o respectivo substituto legal.
 
-Art. 20.º - 1. O conselho administrativo reunir-se-á ordinàriamente uma vez por semana, em dia e hora certos, e extraordinàriamente sempre que o director o determine.
+###### Artigo 20.º
+
+1. O conselho administrativo reunir-se-á ordinàriamente uma vez por semana, em dia e hora certos, e extraordinàriamente sempre que o director o determine.
 
 2. As actas serão lavradas, pelo chefe da secretaria e assinadas por todos os membros do conselho, nelas se indicando o assuntos tratados nas reuniões, sempre com menção expressa da importância dos levantamentos de fundos e dos pagamentos autorizados e ainda do número de ordem dos documentos respectivos.
 
-Art. 21.º Os membros do conselho administrativo são solidários na responsabilidade dos levantamentos de fundos e dos pagamentos, desde que tenham estado presentes à reunião em que esses actos foram aprovados e não tenham feito declaração expressa de discordância.
+###### Artigo 21.º
 
-Art. 22.º Compete ao conselho administrativo:
+Os membros do conselho administrativo são solidários na responsabilidade dos levantamentos de fundos e dos pagamentos, desde que tenham estado presentes à reunião em que esses actos foram aprovados e não tenham feito declaração expressa de discordância.
+
+###### Artigo 22.º
+
+Compete ao conselho administrativo:
 
 1.º Requisitar à 10.ª Repartição da Direcção-Geral da Contabilidade Pública a importância das dotações inscritas no Orçamento Geral do Estado a favor do Instituto, bem como receber os rendimentos dos bens próprios destes;
 
@@ -292,31 +353,49 @@ Art. 22.º Compete ao conselho administrativo:
 
 12.º Providenciar no sentido de os mapas de distribuição do serviço docente serem organizados em perfeita harmonia com as disposições legais e outras determinações em vigor.
 
-Art. 23.º As requisições de fundos, as ordens de pagamento e os recibos serão assinados, em nome do conselho administrativo, pelo director ou pelo seu substituto legal e pelo chefe da secretaria.
+###### Artigo 23.º
 
-Art. 24.º O director, quando for professor, terá direito a uma gratificação pelo desempenho das funções directivas.
+As requisições de fundos, as ordens de pagamento e os recibos serão assinados, em nome do conselho administrativo, pelo director ou pelo seu substituto legal e pelo chefe da secretaria.
 
-Art. 25.º As gratificações a atribuir aos elementos directivos são as que estão fixadas para as escolas superiores universitárias.
+###### Artigo 24.º
 
-Art. 26.º - 1. Em tudo o que não for contrariado pelo presente diploma aplica-se ao Instituto o disposto no [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
+O director, quando for professor, terá direito a uma gratificação pelo desempenho das funções directivas.
+
+###### Artigo 25.º
+
+As gratificações a atribuir aos elementos directivos são as que estão fixadas para as escolas superiores universitárias.
+
+###### Artigo 26.º
+
+1. Em tudo o que não for contrariado pelo presente diploma aplica-se ao Instituto o disposto no [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
 
 2. O pessoal do Instituto e os seus vencimentos são os constantes do mapa anexo a este diploma e dele faz parte integrante.
 
 3. Os quadros insertos no mapa referido no número anterior poderão ser revistos anualmente por decreto referendado pelos Ministros das Finanças e da Educação Nacional.
 
-Art. 27.º Poderá excepcionalmente e durante três anos o Ministro da Educação Nacional, ouvida uma comissão por ele designada, nomear ou contratar para o mesmo Instituto individualidades especialmente qualificadas como professores catedráticos, extraordinários e auxiliares.
+###### Artigo 27.º
 
-Art. 28.º As funções docentes no Instituto podem também ser desempenhadas por professores e assistentes de outras escolas superiores, contratados nos termos do n.º 5 do artigo 9.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
+Poderá excepcionalmente e durante três anos o Ministro da Educação Nacional, ouvida uma comissão por ele designada, nomear ou contratar para o mesmo Instituto individualidades especialmente qualificadas como professores catedráticos, extraordinários e auxiliares.
+
+###### Artigo 28.º
+
+As funções docentes no Instituto podem também ser desempenhadas por professores e assistentes de outras escolas superiores, contratados nos termos do n.º 5 do artigo 9.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
 
 Os professores e assistentes do Instituto poderão ser contratados nos mesmos termos para exercerem funções docentes noutras escolas superiores.
 
-Art. 29.º Poderá o Ministro da Educação Nacional preencher, em primeiro provimento, independentemente de concurso, lugares de pessoal administrativo e técnico, criados por este diploma, com funcionários de igual categoria ou imediatamente inferior dos quadros dos Ministérios da Educação Nacional e das Corporações e Previdência Social que tenham, pelo menos, três anos de serviço nesses quadros, desde que possuam boa informação e as habilitações literárias exigidas para aquele provimento.
+###### Artigo 29.º
 
-Art. 30.º - 1. Poderá o director do Instituto admitir bacharéis, em regime de prestação de serviço, sem outras formalidades, como monitores para coadjuvarem o ensino.
+Poderá o Ministro da Educação Nacional preencher, em primeiro provimento, independentemente de concurso, lugares de pessoal administrativo e técnico, criados por este diploma, com funcionários de igual categoria ou imediatamente inferior dos quadros dos Ministérios da Educação Nacional e das Corporações e Previdência Social que tenham, pelo menos, três anos de serviço nesses quadros, desde que possuam boa informação e as habilitações literárias exigidas para aquele provimento.
+
+###### Artigo 30.º
+
+1. Poderá o director do Instituto admitir bacharéis, em regime de prestação de serviço, sem outras formalidades, como monitores para coadjuvarem o ensino.
 
 2. Os monitores recrutados nos termos do número anterior serão remunerados desde a data da entrada no exercício efectivo das suas funções.
 
-Art. 31.º - 1. Constituem receitas do Instituto:
+###### Artigo 31.º
+
+1. Constituem receitas do Instituto:
 
 a) As verbas inscritas no Orçamento Geral do Estado, nas quais se incluirá aquela a que se refere o artigo 45.º;
 
@@ -332,51 +411,95 @@ f) Quaisquer outras receitas autorizadas pelo Ministro da Educação Nacional.
 
 2. Os donativos, subsídios e legados podem ser concedidos ao Centro de Formação Empresarial para fins expressamente definidos.
 
-Art. 32.º O Instituto Superior de Ciências do Trabalho e da Empresa utilizará, para o seu funcionamento, as actuais instalações e equipamento do Instituto de Estudos Sociais do Ministério das Corporações e Previdência Social, bem como as instalações e equipamento do Instituto Nacional de Investigação Industrial, afectas a actividades de formação e de aperfeiçoamento, ficando estas últimas dependentes de acordo a estabelecer entre os Ministros da Economia e da Educação Nacional.
+###### Artigo 32.º
 
-Art. 33.º O equipamento e as instalações a que se refere o artigo anterior são transferidos, com dispensa de quaisquer formalidades, para o Instituto Superior de Ciências do Trabalho e da Empresa, o qual se substitui à Junta da Acção Social e ao Instituto Nacional de Investigação Industrial em todos os direitos e obrigações para com terceiros, relativamente a esta matéria, nomeadamente no que se refere ao arrendamento de prédios.
+O Instituto Superior de Ciências do Trabalho e da Empresa utilizará, para o seu funcionamento, as actuais instalações e equipamento do Instituto de Estudos Sociais do Ministério das Corporações e Previdência Social, bem como as instalações e equipamento do Instituto Nacional de Investigação Industrial, afectas a actividades de formação e de aperfeiçoamento, ficando estas últimas dependentes de acordo a estabelecer entre os Ministros da Economia e da Educação Nacional.
 
-Art. 34.º - 1. No prazo máximo de um ano, o Ministério da Educação Nacional fará publicar, por decreto, o regulamento do Instituto, e, por decreto-lei, emanado dos Ministérios da Economia e da Educação Nacional, publicar-se-á o diploma relativo ao Centro de Formação Empresarial, a que se refere o artigo 12.º
+###### Artigo 33.º
+
+O equipamento e as instalações a que se refere o artigo anterior são transferidos, com dispensa de quaisquer formalidades, para o Instituto Superior de Ciências do Trabalho e da Empresa, o qual se substitui à Junta da Acção Social e ao Instituto Nacional de Investigação Industrial em todos os direitos e obrigações para com terceiros, relativamente a esta matéria, nomeadamente no que se refere ao arrendamento de prédios.
+
+###### Artigo 34.º
+
+1. No prazo máximo de um ano, o Ministério da Educação Nacional fará publicar, por decreto, o regulamento do Instituto, e, por decreto-lei, emanado dos Ministérios da Economia e da Educação Nacional, publicar-se-á o diploma relativo ao Centro de Formação Empresarial, a que se refere o artigo 12.º
 
 2. O funcionamento do Centro de Formação Empresarial e a transferência, para este, das actividades do Instituto Nacional de Investigação industrial só terão lugar após a publicação do diploma respectivo.
 
-Art. 35.º - 1. Os primeiros-oficiais, segundos-oficiais e terceiros-oficiais do quadro do Instituto passam a fazer parte do quadro referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957, para efeitos de ingresso, transferência e promoção.
+###### Artigo 35.º
+
+1. Os primeiros-oficiais, segundos-oficiais e terceiros-oficiais do quadro do Instituto passam a fazer parte do quadro referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957, para efeitos de ingresso, transferência e promoção.
 
 2. O restante pessoal administrativo do Instituto é de livre nomeação do Ministro da Educação Nacional, sob proposta do director.
 
-Art. 36.º O lugar de chefe de secção será provido nos termos do n.º 1 do artigo 6.º do [Decreto-Lei n.º 407/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1970-138828), de 24 de Agosto.
+###### Artigo 36.º
 
-Art. 37.º O lugar de primeiro-bibliotecário fica integrado no quadro único a que se refere o artigo 15.º do [Decreto-Lei n.º 46350](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46350-1965-294971), de 22 de Maio de 1965.
+O lugar de chefe de secção será provido nos termos do n.º 1 do artigo 6.º do [Decreto-Lei n.º 407/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1970-138828), de 24 de Agosto.
 
-Art. 38.º Os restantes lugares de pessoal técnico e auxiliar serão providos, por livre escolha do Ministro da Educação Nacional, sob proposta do director do Instituto.
+###### Artigo 37.º
 
-Art. 39.º - 1. O pessoal técnico e administrativo actualmente ao serviço do Instituto de Estudos Sociais poderá ser colocado nos lugares da mesma categoria do quadro do Instituto Superior de Ciências do Trabalho e da Empresa, mediante relação nominal aprovada pelo Ministro da Educação Nacional e publicada no Diário do Governo, com dispensa de quaisquer outras formalidades, excepto visto do Tribunal de Contas, desde que possua as habilitações legais exigidas para o cargo.
+O lugar de primeiro-bibliotecário fica integrado no quadro único a que se refere o artigo 15.º do [Decreto-Lei n.º 46350](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46350-1965-294971), de 22 de Maio de 1965.
+
+###### Artigo 38.º
+
+Os restantes lugares de pessoal técnico e auxiliar serão providos, por livre escolha do Ministro da Educação Nacional, sob proposta do director do Instituto.
+
+###### Artigo 39.º
+
+1. O pessoal técnico, administrativo e auxiliar actualmente ao serviço do Instituto de Estudos Sociais poderá ser colocado nos lugares da mesma categoria do quadro do Instituto Superior de Ciências do Trabalho e da Empresa, mediante relação nominal aprovada pelo Ministro da Educação e Cultura e publicada no Diário do Governo, com dispensa de quaisquer outras formalidades, excepto a anotação pela Direcção-Geral do Tribunal de Contas, desde que possua as habilitações legais exigidas para o cargo.
 
 2. O pessoal que se encontra em regime de comissão de serviço pode manter a mesma forma de provimento.
 
-Art. 40.º Os actuais docentes do Instituto de Estudos Sociais podem manter-se ao serviço por um período de dois anos, na situação em que se encontram à data da promulgação do presente diploma, desde que neles se verifiquem as condições exigidas pela legislação universitária.
+> Alterado pelo/a [Decreto-Lei n.º 280/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1975-335907), publicado em 1975-06-05.
 
-Art. 41.º Os docentes do Instituto Superior de Ciências do Trabalho e da Empresa a quem, para efeito do disposto no artigo 43.º venha a ser atribuído serviço relativo à conclusão dos cursos do extinto Instituto de Estudos Sociais recebem, pelas verbas a que se refere o artigo 45.º, as gratificações de regência previstas no artigo 55.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
+###### Artigo 40.º
 
-Art. 42.º - 1. O pessoal docente do Instituto Superior de Ciências do Trabalho e da Empresa poderá ser utilizado no Centro de Formação Empresarial nos termos que vierem a ser definidos no diploma a que se refere o artigo 34.º
+1. Os actuais docentes do Instituto de Estudos Sociais podem manter-se ao serviço por um período de dois anos, na situação em que se encontram à data da promulgação do presente diploma, desde que neles se verifiquem as condições exigidas pela legislação universitária.
+
+2. Sob proposta do Instituto, o período referido no número anterior poderá ser prolongado por períodos anuais automaticamente renováveis, até ao limite do prazo fixado no n.º 1 do artigo 43.º
+
+> Alterado pelo/a [Decreto-Lei n.º 280/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1975-335907), publicado em 1975-06-05.
+
+###### Artigo 41.º
+
+Os docentes do Instituto Superior de Ciências do Trabalho e da Empresa a quem, para efeito do disposto no artigo 43.º venha a ser atribuído serviço relativo à conclusão dos cursos do extinto Instituto de Estudos Sociais recebem, pelas verbas a que se refere o artigo 45.º, as gratificações de regência previstas no artigo 55.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
+
+###### Artigo 42.º
+
+1. O pessoal docente do Instituto Superior de Ciências do Trabalho e da Empresa poderá ser utilizado no Centro de Formação Empresarial nos termos que vierem a ser definidos no diploma a que se refere o artigo 34.º
 
 2. De igual modo o pessoal técnico superior do Centro de Formação Empresarial pode ser utilizado para serviço docente nos cursos referidos no artigo 7.º, nas condições previstas no n.º 5 do artigo 9.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março.
 
-Art. 43.º - 1. O Instituto Superior de Ciências do Trabalho e da Empresa deverá assegurar a possibilidade de conclusão dos cursos, dentro do prazo máximo de cinco anos, aos alunos presentemente matriculados no Instituto de Estudos Sociais, concedendo-lhes o respectivo diploma.
+###### Artigo 43.º
+
+1. O Instituto Superior de Ciências do Trabalho e da Empresa deverá assegurar a possibilidade de conclusão dos cursos, dentro do prazo máximo de cinco anos, aos alunos presentemente matriculados no Instituto de Estudos Sociais, concedendo-lhes o respectivo diploma.
 
 2. Nas disciplinas em que esses alunos forem reprovados essa possibilidade poderá ficar restringida ao regime de voluntariado.
 
-Art. 44.º Considerar-se-ão como possuidores de um curso superior os diplomados pelo Instituto de Estudos Sociais que à data da sua admissão possuíssem o curso complementar dos liceus.
+###### Artigo 44.º
 
-Art. 45.º Para efeito do disposto no artigo 43.º, o Ministério das Corporações e Previdência Social concederá ao Instituto Superior de Ciências do Trabalho e da Empresa, durante cinco anos e através da Junta da Acção Social, um subsídio anual equivalente ao total dos encargos programados para o corrente ano de 1972.
+Consideram-se, para todos os efeitos, como bacharéis os diplomados pelo Instituto de Estudos Sociais.
 
-Art. 46.º A Junta da Acção Social satisfará, até ao final do corrente ano, os encargos do Instituto Superior de Ciências do Trabalho e da Empresa, dentro das dotações consignadas à manutenção do Instituto de Estudos Sociais no ano de 1972.
+> Alterado pelo/a [Decreto-Lei n.º 280/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1975-335907), publicado em 1975-06-05.
 
-Art. 47.º Enquanto não for publicado o regulamento, cabe ao director desempenhar as funções dos demais órgãos directivos, nomeadamente para efeitos do disposto no artigo 9.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, com as limitações que forem estabelecidas pelo Ministro da Educação Nacional.
+###### Artigo 45.º
 
-Art. 48.º O Instituto Superior de Ciências do Trabalho e da Empresa rege-se ainda pela legislação vigente para as Universidades em tudo o que não for contrariado pelo presente diploma.
+Para efeito do disposto no artigo 43.º, o Ministério das Corporações e Previdência Social concederá ao Instituto Superior de Ciências do Trabalho e da Empresa, durante cinco anos e através da Junta da Acção Social, um subsídio anual equivalente ao total dos encargos programados para o corrente ano de 1972.
 
-Art. 49.º As dúvidas suscitadas na execução deste diploma serão resolvidas por despacho do Ministro da Educação Nacional.
+###### Artigo 46.º
+
+A Junta da Acção Social satisfará, até ao final do corrente ano, os encargos do Instituto Superior de Ciências do Trabalho e da Empresa, dentro das dotações consignadas à manutenção do Instituto de Estudos Sociais no ano de 1972.
+
+###### Artigo 47.º
+
+Enquanto não for publicado o regulamento, cabe ao director desempenhar as funções dos demais órgãos directivos, nomeadamente para efeitos do disposto no artigo 9.º do [Decreto-Lei n.º 132/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1970-229116), de 30 de Março, com as limitações que forem estabelecidas pelo Ministro da Educação Nacional.
+
+###### Artigo 48.º
+
+O Instituto Superior de Ciências do Trabalho e da Empresa rege-se ainda pela legislação vigente para as Universidades em tudo o que não for contrariado pelo presente diploma.
+
+###### Artigo 49.º
+
+As dúvidas suscitadas na execução deste diploma serão resolvidas por despacho do Ministro da Educação Nacional.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 

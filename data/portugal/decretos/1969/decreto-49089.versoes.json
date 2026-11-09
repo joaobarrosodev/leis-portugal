@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:200376:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1969-06-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f46ff5ff9b5dc61b"
+   ]
+  },
+  {
+   "date": "1975-02-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:160298:por",
+     "title": "Decreto n.º 65/75",
+     "published": "1975-02-19",
+     "dre_path": "/dr/detalhe/decreto/65-1975-160298"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "b2f9567fea18bc8a",
+    "5255bab537ef882b",
+    "b6947bd4156efcbc",
+    "0689f477593a31a3",
+    "63202338f8a79385",
+    "d5280800713f3de9",
+    "21ba112ad72db24b"
+   ]
+  }
+ ],
+ "fragments": {
+  "f46ff5ff9b5dc61b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando-se a conveniência de, no prosseguimento da doutrina já expressa em diplomas anteriores, promover a concessão de mais amplos benefícios no âmbito das relações humanas, designadamente nos da previdência e acção social, em favor dos servidores do Estado e seus familiares;\n\nConsiderando-se oportuno facultar-lhes, assistência médica, medicamentosa e hospitalar quando em viagem por conta da Fazenda Nacional entre as diversas parcelas do território português;\n\nConsiderando-se justo que igual tratamento seja dispensado também a todos quantos, não sendo funcionários mas carecendo de recursos, beneficiem, em idênticas situações, de abono de passagens por conta do Estado;\n\nOuvido o Conselho Ultramarino;\n\nUsando da faculdade conferida no n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:\n\nArtigo 1.º Todos os servidores do Estado, dependentes do Ministério do Ultramar ou ao seu serviço, e seus familiares, quando com passagens por conta da Fazenda Nacional, têm direito, durante a viagem, a assistência médica e medicamentosa e ao internamento na enfermaria de bordo, nos precisos termos dos artigos 303.º e 304.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.\n\nArt. 2.º A igual assistência têm direito, nos termos do artigo 81.º do regulamento aprovado pelo [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, todos aqueles que, econòmicamente débeis, não sendo funcionários, viajem com passagens a expensas da Fazenda Nacional ou dos organismos assistenciais das províncias ultramarinas, especificadamente:\n\na) Doentes pobres que, por opinião das juntas provinciais de saúde, venham à metrópole a fim de receberem tratamento adequado no Hospital do Ultramar ou em estabelecimentos metropolitanos especialmente destinados ao estudo e tratamento de doenças tropicais e outras de natureza diversa, de acordo com o que se acha disposto no [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964;\n\nb) Repatriados, mesmo no caso de utilizarem alguma das passagens oferecidas gratuitamente pelas companhias de navegação;\n\nc) Colonos e seus familiares.\n\nArt. 3.º Esta assistência, porém, apenas será concedida nos casos de doença ou acidente ocorrido a bordo, salvo se, antes do embarque, médico de estabelecimento oficial emitir o parecer de que a saúde do interessado corre perigo se for interrompido o tratamento.\n\nArt. 4.º As companhias de navegação apresentarão ao Ministério do Ultramar relação das pessoas tratadas, assinada pelo médico de bordo e confirmada pelos assistidos e pelo comandante do barco, com a indicação das doenças e ainda se estas se declararam a bordo.\n\nArt. 5.º A despesa só será liquidada depois de a Junta de Saúde do Ultramar ou de as juntas provinciais de saúde haverem emitido parecer favorável, conforme a doença se tenha verificado em viagem para a metrópole ou vice-versa.\n\nArt. 6.º Os serviços de saúde respectivos darão parecer acerca dos preços dos medicamentos e dos honorários médicos e de enfermagem que tenham sido debitados pelas companhias de navegação; e só se fará a liquidação da despesa quanto este seja favorável.\n\nMarcello Caetano - Joaquim Moreira da Silva Cunha.\n\nPromulgado em 14 de Junho de 1969.\n\nPublique-se.\n\nPresidência da República, 27 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha."
+  },
+  "b2f9567fea18bc8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando-se a conveniência de, no prosseguimento da doutrina já expressa em diplomas anteriores, promover a concessão de mais amplos benefícios no âmbito das relações humanas, designadamente nos da previdência e acção social, em favor dos servidores do Estado e seus familiares;\n\nConsiderando-se oportuno facultar-lhes, assistência médica, medicamentosa e hospitalar quando em viagem por conta da Fazenda Nacional entre as diversas parcelas do território português;\n\nConsiderando-se justo que igual tratamento seja dispensado também a todos quantos, não sendo funcionários mas carecendo de recursos, beneficiem, em idênticas situações, de abono de passagens por conta do Estado;\n\nOuvido o Conselho Ultramarino;\n\nUsando da faculdade conferida no n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:"
+  },
+  "5255bab537ef882b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1975-02-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1. Todas as pessoas que viajem por conta dos territórios ultramarinos têm direito, durante a viagem, a assistência médica e medicamentosa e ao internamento na enfermaria de bordo, nos precisos termos dos artigos 303.º e 304.º do Estatuto do Funcionalismo Ultramarino.\n\n2. A igual assistência têm direito os repatriados que utilizem as passagens fornecidas gratuitamente pela Junta Nacional da Marinha Mercante.\n\n> Alterado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19."
+  },
+  "b6947bd4156efcbc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1975-02-19",
+   "changed_by": [
+    "Revogado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19."
+   ],
+   "markdown": "###### Artigo 2.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19."
+  },
+  "0689f477593a31a3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nEsta assistência, porém, apenas será concedida nos casos de doença ou acidente ocorrido a bordo, salvo se, antes do embarque, médico de estabelecimento oficial emitir o parecer de que a saúde do interessado corre perigo se for interrompido o tratamento."
+  },
+  "63202338f8a79385": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1975-02-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19."
+   ],
+   "markdown": "###### Artigo 4.º\n\n1. As companhias de navegação apresentarão na Direcção-Geral de Saúde e Assistência, do Ministério da Coordenação Interterritorial, ou nos Serviços Provinciais de Saúde, conforme o local de destino das viagens, factura com relação das pessoas tratadas, assinada pelo médico de bordo e confirmada pelos assistidos e pelo comandante do barco.\n\n2. Com essas relações serão apresentados elementos que identifiquem os assistidos e os serviços a que pertençam ou devam suportar os encargos, indicação das doenças e ainda se estas se declararam a bordo.\n\n> Alterado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19."
+  },
+  "d5280800713f3de9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1975-02-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19."
+   ],
+   "markdown": "###### Artigo 5.º\n\nAs despesas só serão liquidadas na metrópole ou nos territórios ultramarinos, consoante o local de destino das viagens, depois de a Junta de Saúde do Ultramar ou de as juntas provinciais de saúde haverem emitido parecer favorável, conforme a doença se tenha verificado em viagem para a metrópole ou vice-versa.\n\n> Alterado pelo/a [Decreto n.º 65/75](https://diariodarepublica.pt/dr/detalhe/decreto/65-1975-160298), publicado em 1975-02-19."
+  },
+  "21ba112ad72db24b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs serviços de saúde respectivos darão parecer acerca dos preços dos medicamentos e dos honorários médicos e de enfermagem que tenham sido debitados pelas companhias de navegação; e só se fará a liquidação da despesa quanto este seja favorável.\n\nMarcello Caetano - Joaquim Moreira da Silva Cunha.\n\nPromulgado em 14 de Junho de 1969.\n\nPublique-se.\n\nPresidência da República, 27 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha."
+  }
+ }
+}

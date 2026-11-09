@@ -30,10 +30,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1963-02-18'
+version_history:
+  file: decreto-lei-44785.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1962-12-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1963-02-18'
+    amending: pt:dre:193430:por
+    amending_title: Decreto-Lei n.º 44885
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -59,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:43:33Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 44885. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1962/decreto-lei-44785.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -119,17 +134,27 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º É criado na Direcção-Geral do Trabalho e Corporações um quadro de pessoal, com a composição referida no mapa anexo, ao qual compete o estudo e expediente dos assuntos relativos à estrutura do mercado de mão-de-obra, crises de trabalho, aprendizagem, orientação, formação e aperfeiçoamento profissional e política de salários.
+###### Artigo 1.º
+
+É criado na Direcção-Geral do Trabalho e Corporações um quadro de pessoal, com a composição referida no mapa anexo, ao qual compete o estudo e expediente dos assuntos relativos à estrutura do mercado de mão-de-obra, crises de trabalho, aprendizagem, orientação, formação e aperfeiçoamento profissional e política de salários.
 
 § único. O disposto neste artigo não prejudica a existência dos serviços complementares necessários à execução do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), de 10 de Agosto de 1962, aos quais se aplicará o disposto no artigo 17.º do mesmo diploma.
 
-Art. 2.º Os lugares de director do Fundo e de técnicos de qualquer classe serão providos pelo Ministro das Corporações e Previdência Social em indivíduos diplomados com curso superior adequado, nos termos do artigo 23.º do [Decreto-Lei n.º 37244](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37244-1948-370221), de 27 de Dezembro de 1948.
+###### Artigo 2.º
+
+Os lugares de director do Fundo e de técnicos de qualquer classe serão providos pelo Ministro das Corporações e Previdência Social em indivíduos diplomados com curso superior adequado, nos termos do artigo 23.º do [Decreto-Lei n.º 37244](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37244-1948-370221), de 27 de Dezembro de 1948.
 
 § único. Os demais lugares serão preenchidos de harmonia com o determinado para os lugares idênticos do Ministério das Corporações e Previdência Social.
 
-Art. 3.º Em conformidade com o disposto na alínea e) do artigo 6.º do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), o quadro ora instituído ficará a cargo do Fundo de Desenvolvimento da Mão-de-Obra e a sua composição poderá ser alterada por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social.
+###### Artigo 3.º
 
-Art. 4.º - 1. Os encargos a que se refere o artigo anterior serão inscritos no Orçamento Geral do Estado, reembolsando o Fundo de Desenvolvimento da Mão-de-Obra, trimestralmente, o Tesouro da importância despendida, mediante guia de receita passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa.
+Em conformidade com o disposto na alínea c) do artigo 6.º do [Decreto-Lei n.º 44506](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44506-1962-163242), o quadro ora instituído ficará a cargo do Fundo de Desenvolvimento da Mão-de-Obra, podendo ser aumentado por despacho conjunto dos Ministros das Finanças e das Corporações e Previdência Social.
+
+> Alterado pelo/a [Decreto-Lei n.º 44885](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44885-1963-193430), publicado em 1963-02-18.
+
+###### Artigo 4.º
+
+1. Os encargos a que se refere o artigo anterior serão inscritos no Orçamento Geral do Estado, reembolsando o Fundo de Desenvolvimento da Mão-de-Obra, trimestralmente, o Tesouro da importância despendida, mediante guia de receita passada pela repartição da Direcção-Geral da Contabilidade Pública que tiver autorizado a despesa.
 
 2. A inscrição, no Orçamento Geral do Estado, destes encargos terá início no orçamento para o ano de 1963.
 

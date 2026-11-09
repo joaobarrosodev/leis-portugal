@@ -38,10 +38,29 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2015-02-11'
+version_history:
+  file: decreto-lei-131-2012.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2012-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-02-11'
+    amending: pt:dre:66463205:por
+    amending_title: Decreto-Lei n.º 28/2015
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/131/2012/06/25/p/dre/pt/html
@@ -67,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:16:52Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 28/2015. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2012/decreto-lei-131-2012.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -185,7 +205,9 @@ Ao abrigo do disposto no n.º 1 do artigo 9.º da [Lei n.º 3/2004](https://diar
 
 1 - A Caixa Geral de Aposentações, I. P., abreviadamente designada por CGA, I. P., é um instituto público de regime especial, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.
 
-2 - A CGA, I. P., prossegue atribuições do Ministério das Finanças, sob superintendência e tutela do respetivo Ministro.
+2 - A CGA, I. P., prossegue atribuições do Ministério da Solidariedade, Emprego e Segurança Social, sob superintendência e tutela do respetivo Ministro, e, nas matérias objeto de negociação coletiva ou de participação dos trabalhadores da Administração Pública, através das suas associações sindicais, e na elaboração de legislação com incidência orçamental, sob superintendência e tutela conjunta dos membros do Governo responsáveis pelas áreas da solidariedade, emprego e segurança social e das finanças e Administração Pública.
+
+> Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10.
 
 ###### Artigo 2.º — Jurisdição territorial e sede
 
@@ -221,11 +243,13 @@ c) O conselho consultivo.
 
 1 - O conselho diretivo da CGA, I. P., abreviadamente designado por CD, é composto por um presidente e dois vogais.
 
-2 - Os membros do CD são designados por despacho conjunto do Primeiro-Ministro e do membro do Governo responsável pela área das finanças, sob proposta deste, de entre os membros do conselho de administração da Caixa Geral de Depósitos, S. A., adiante abreviadamente designada por CGD.
+2 - Os membros do CD são designados por despacho do Primeiro-Ministro e do membro do Governo responsável pela área da solidariedade, emprego e segurança social, sob proposta deste, de entre os membros do conselho de administração da Caixa Geral de Depósitos, S. A., adiante abreviadamente designada por CGD.
 
 3 - O mandato dos membros do CD caduca automaticamente com a cessação das funções de administrador da CGD.
 
 4 - Os membros do CD não auferem qualquer remuneração pelo exercício destas funções.
+
+> Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10.
 
 ###### Artigo 6.º — Competências do CD
 
@@ -237,9 +261,11 @@ b) Celebrar acordos que permitam assegurar os meios e serviços necessários à 
 
 c) Promover estudos em matéria de pensões e outras prestações atribuídas pela CGA, I. P., com vista nomeadamente à elaboração de medidas legislativas de revisão e aperfeiçoamento do respetivo regime;
 
-d) Prestar, obrigatoriamente, ao membro do Governo responsável pela área das finanças todas as informações que este lhe solicite sobre a sua atividade.
+d) Prestar, obrigatoriamente, ao membro do Governo responsável pela área da solidariedade, emprego e segurança social todas as informações que este lhe solicite sobre a sua atividade.
 
 2 - O presidente do CD pode delegar, ou subdelegar, competências nos vogais.
+
+> Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10.
 
 ###### Artigo 7.º — Competência do presidente do CD
 
@@ -267,9 +293,11 @@ d) Um representante da Direção-Geral das Autarquias Locais (DGAL);
 
 e) Um representante da Direção-Geral da Administração e do Emprego Público (DGAEP);
 
-f) Um representante do Ministério da Solidariedade e da Segurança Social (MSSS);
+f) Um representante do Ministério das Finanças (MF);
 
-g) Três representantes, um por cada uma das estruturas sindicais representativas dos trabalhadores que exercem funções públicas.
+g) Um representante do Ministério da Solidariedade, Emprego e Segurança Social (MSESS);
+
+h) Três representantes, um por cada uma das estruturas sindicais representativas dos trabalhadores que exercem funções públicas.
 
 3 - Nas suas ausências e impedimentos, o presidente do conselho é substituído pelo vogal do CD que para o efeito designar.
 
@@ -285,11 +313,15 @@ c) Outros assuntos que o CD ou o presidente do conselho decidam submeter à sua 
 
 6 - Aos membros do conselho é assegurado o acesso à informação relevante para a prossecução das suas competências.
 
+> Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10.
+
 ###### Artigo 10.º — Meios e serviços
 
 1 - A CGA, I. P., não dispõe de estrutura interna, sendo os meios e serviços necessários para o exercício da respetiva atividade assegurados pela CGD.
 
-2 - As modalidades e as condições de prestação dos meios e serviços a que se refere o número anterior são objeto de convenção a celebrar entre a CGA, I. P., e a CGD, sujeita a homologação do membro do Governo responsável pela área das finanças.
+2 - As modalidades e as condições de prestação dos meios e serviços a que se refere o número anterior são objeto de convenção a celebrar entre a CGA, I. P., e a CGD, sujeita a homologação dos membros do Governo responsáveis pelas áreas da solidariedade, emprego e segurança social e das finanças.
+
+> Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10.
 
 ###### Artigo 11.º — Estatuto dos membros do CD
 
@@ -297,9 +329,11 @@ Aos membros do CD é aplicável o definido na lei-quadro dos institutos público
 
 ###### Artigo 12.º — Orçamento e documentos de prestação de contas
 
-1 - O orçamento anual, acompanhado do parecer do fiscal único, é submetido à aprovação do membro do Governo responsável pela área das finanças.
+1 - O orçamento anual, acompanhado do parecer do fiscal único, é submetido à aprovação do membro do Governo responsável pela área da solidariedade, emprego e segurança social.
 
-2 - O CD deve igualmente submeter, até 31 de março de cada ano, à aprovação do membro do Governo responsável pela área das finanças o relatório de atividades e os demais documentos de prestação de contas, acompanhados do parecer previsto na alínea b) do n.º 5 do artigo 9.º
+2 - O CD deve igualmente submeter, até 31 de março de cada ano, à aprovação do membro do Governo responsável pela área da solidariedade, emprego e segurança social, o relatório de atividades e os demais documentos de prestação de contas, acompanhados do parecer previsto na alínea b) do n.º 5 do artigo 9.º
+
+> Alterado pelo/a [Decreto-Lei n.º 28/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), publicado em 2015-02-10.
 
 ###### Artigo 13.º — Receitas
 

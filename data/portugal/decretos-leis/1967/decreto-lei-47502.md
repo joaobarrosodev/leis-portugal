@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1967-05-22'
+version_history:
+  file: decreto-lei-47502.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1967-01-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1967-05-22'
+    amending: pt:dre:312823:por
+    amending_title: Decreto-Lei n.º 47725
+    changes:
+    - Adita Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:59:56Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 47725. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1967/decreto-lei-47502.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -117,15 +132,29 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º O Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas e os seus órgãos de execução e cantinas ficam equiparados a armazenistas para efeito de aquisição de géneros alimentares e outros de cujo fornecimento sejam encarregados ou sejam objecto da sua laboração normal.
+###### Artigo 1.º
 
-Art. 2.º Fica o Ministro das Finanças autorizado a ceder definitivamente ao Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas, mediante justa compensação, para a construção de habitações destinadas aos funcionários do Ministério das Obras Públicas, terrenos pertencentes ao domínio privado do Estado.
+O Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas e os seus órgãos de execução e cantinas ficam equiparados a armazenistas para efeito de aquisição de géneros alimentares e outros de cujo fornecimento sejam encarregados ou sejam objecto da sua laboração normal.
+
+###### Artigo 2.º
+
+Fica o Ministro das Finanças autorizado a ceder definitivamente ao Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas, mediante justa compensação, para a construção de habitações destinadas aos funcionários do Ministério das Obras Públicas, terrenos pertencentes ao domínio privado do Estado.
 
 § 1.º As cessões a que respeita este artigo serão isentas de impostos e efectuar-se-ão por meio de auto lavrado na Direcção-Geral da Fazenda Pública.
 
 § 2.º Os terrenos cedidos poderão reverter para o Estado por simples despacho do Ministro das Finanças, se lhe for dada aplicação diferente da que fundamentou a cessão e sem que isso implique restituição das importâncias pagas pelo Cofre.
 
-Art. 3.º As câmaras municipais ficam autorizadas a contratar com o mesmo Cofre a venda ou troca dos terrenos necessários aos fins habitacionais previstos neste decreto-lei.
+###### Artigo 3.º
+
+As câmaras municipais ficam autorizadas a contratar com o mesmo Cofre a venda ou troca dos terrenos necessários aos fins habitacionais previstos neste decreto-lei.
+
+###### Artigo 4.º
+
+O Cofre de Auxílio dos Funcionários do Ministério das Obras Públicas está isento de custas e selos em todos os processos em que for parte ou interessado e de quaisquer emolumentos, taxas, contribuições ou impostos e beneficia de todas as facilidades conferidas por lei às instituições oficiais de assistência.
+
+§ único. O disposto no corpo deste artigo é aplicável aos processos em que o Cofre já teve intervenção.
+
+> Aditado pelo/a [Decreto-Lei n.º 47725](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47725-1967-312823), publicado em 1967-05-22.
 
 Publique-se e cumpra-se como nele se contém.
 

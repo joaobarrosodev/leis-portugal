@@ -38,10 +38,26 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2014-01-28'
+version_history:
+  file: portaria-286-a-2013.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2013-09-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-01-28'
+    amending: pt:dre:571061:por
+    amending_title: Portaria n.º 17/2014
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/286-a/2013/09/16/p/dre/pt/html
@@ -67,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:55:34Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 17/2014. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/portarias/2013/portaria-286-a-2013.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -243,11 +260,17 @@ e) Dispor de contabilidade organizada de acordo com o previsto na lei, quando ap
 
 ###### Artigo 4.º — Procedimento de candidatura
 
-1. Para efeitos de obtenção do apoio financeiro, o empregador apresenta a candidatura ao Incentivo no momento da formalização da admissão do trabalhador na segurança social.
+1 - Para efeitos de obtenção do apoio financeiro, o empregador apresenta a candidatura online, no sítio https://incentivoempreso.sov.pt.
 
-2. Para efeitos do disposto no número anterior, a candidatura ao Incentivo exige a formalização online da admissão do trabalhador, no sítio eletrónico do Serviço Segurança Social Direta.
+2 - A candidatura ao Incentivo é apresentada no decurso do trimestre civil em que se efetua a comunicação de admissão do trabalhador à segurança social.
 
-3. Compete ao Instituto de Informática, I.P. (II, I.P.) verificar as condições e os requisitos necessários à atribuição do Incentivo previstos nos artigos 2.º e 3.º, devendo o IEFP, I.P., relativamente ao requisito referido na alínea c) do n.º 1 do artigo anterior, fornecer a respetiva informação ao II, I.P..
+3 - No caso de a comunicação de admissão do trabalhador à segurança social ocorrer nos últimos 10 dias do trimestre, a candidatura pode, ainda, ser apresentada até ao dia 15 do mês subsequente.
+
+4 - A verificação dos requisitos de atribuição do Incentivo compete ao IEFP, I. P.
+
+5 - O procedimento referido no número anterior é assegurado por um sistema de informação desenvolvido pelo Instituto de Informática, I. P. (II, I. P.).
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/portaria/17-2014-571061), publicado em 2014-01-27.
 
 ###### Artigo 5.º — Indeferimento da candidatura
 
@@ -279,7 +302,7 @@ d) Até ao dia 25 de janeiro, relativamente ao trimestre correspondente aos mese
 
 ###### Artigo 7.º — Pagamento do apoio financeiro
 
-1. O pagamento do apoio financeiro é da responsabilidade do IEFP, I.P., mediante apuramentos trimestrais, a efetuar pelo II, I.P., dos montantes a atribuir a cada empregador.
+1 - O pagamento do apoio financeiro é da responsabilidade do IEFP, I. P., mediante apuramentos trimestrais dos montantes a atribuir a cada empregador.
 
 2. Sem prejuízo do disposto no artigo seguinte, o pagamento do apoio financeiro é efetuado nos prazos seguintes:
 
@@ -291,9 +314,11 @@ c) Até ao dia 31 de outubro, relativamente ao trimestre correspondente aos mese
 
 d) Até ao dia 31 de janeiro, relativamente ao trimestre correspondente aos meses de outubro, novembro e dezembro.
 
+> Alterado pelo/a [Portaria n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/portaria/17-2014-571061), publicado em 2014-01-27.
+
 ###### Artigo 8.º — Suspensão e cessação do apoio financeiro
 
-1. Sempre que o II, I.P., detete a não verificação dos requisitos que condicionam a atribuição do Incentivo, o IEFP, I.P., suspende o pagamento do apoio financeiro ao empregador até à respetiva regularização, a efetuar até ao termo da verificação trimestral seguinte.
+1 - Sempre que seja detetada a não verificação dos requisitos que condicionam a atribuição do Incentivo, o IEFP, I. P., suspende o pagamento do apoio financeiro ao empregador até à respetiva regularização, a efetuar até ao termo da verificação trimestral seguinte.
 
 2. A verificação trimestral é efetuada nos prazos seguintes:
 
@@ -312,6 +337,8 @@ d) Até ao dia 25 de janeiro, relativamente ao trimestre correspondente aos mese
 5. Para efeito do pagamento do apoio financeiro, a regularização referida no n.º 1 não pode ter lugar após o termo de vigência da presente Portaria.
 
 6. O empregador deve restituir ao IEFP, I.P., os eventuais montantes indevidamente recebidos, sem prejuízo de participação criminal por eventuais indícios da prática do crime de fraude na obtenção de subsídio de natureza pública.
+
+> Alterado pelo/a [Portaria n.º 17/2014](https://diariodarepublica.pt/dr/detalhe/portaria/17-2014-571061), publicado em 2014-01-27.
 
 ###### Artigo 9.º — Cumulação de apoios
 

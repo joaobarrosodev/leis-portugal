@@ -1,0 +1,559 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:191142:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "2012-11-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "296f13f5bbbfb8e0",
+    "6384d22c08d043d6",
+    "c5d3956a1a045e3b",
+    "c87f63aadd011429",
+    "4e32b038fcdf0ffd",
+    "320752d33f740159",
+    "73d74d590b51792e",
+    "2ec80315661d494b",
+    "57305019eeb85ed0",
+    "f5aaf56c7b38990e",
+    "d4022f62fb02b22b",
+    "fa79f72cc0a34a40",
+    "493ccc9fa1fa0088",
+    "4a0e923301ffcc13",
+    "658df4f08a9ac154",
+    "08c11d2d8a926eea",
+    "1e14ac67db6f2f87",
+    "084eb8830e3fa3bc",
+    "8f64fb30cab518aa",
+    "121f014cfc5e5d39",
+    "ac19e5e73b7898c7",
+    "93cc18e2eb09164d",
+    "861e3a7f68123f09",
+    "58dfb949f3e92c6b",
+    "fd3f6d9c8b6dcb7e",
+    "ace0daa32b170995"
+   ]
+  },
+  {
+   "date": "2014-07-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:55021043:por",
+     "title": "Decreto Regulamentar Regional n.º 12/2014/A",
+     "published": "2014-07-24",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 25.º"
+   ],
+   "fragments": [
+    "296f13f5bbbfb8e0",
+    "36c1a482a84b33ec",
+    "7875d26abeee5d7f",
+    "f37c698b0c4a2885",
+    "90d223896fb5022e",
+    "05d6c1a4ad1d997f",
+    "da6d6cdbed862a67",
+    "7fe12cfc65cdd85f",
+    "49de1b3185c038f4",
+    "f465a63c499c53e7",
+    "0720e2dd52ff70af",
+    "e1d13962a7ba9fdc",
+    "2199f4b3f3630267",
+    "777f55fb9d54ace6",
+    "bb9a204c700f338e",
+    "3b69f52622b873ce",
+    "236fa4fe089358c9",
+    "82004e39981821eb",
+    "8ee61e01f22c1331",
+    "7e61984ed99d6924",
+    "47178db82d4eaea1",
+    "607b0408c91a07f0",
+    "c359233f25facd2a",
+    "52d5fd3bfabcf8d6",
+    "fd3f6d9c8b6dcb7e",
+    "867752d66c1c7e85"
+   ]
+  }
+ ],
+ "fragments": {
+  "296f13f5bbbfb8e0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Orgânica do XI Governo Regional dos Açores\n\nO XI Governo Regional dos Açores, tendo a consciência nítida dos desafios que se colocam à Região, assume como prioridades a criação de emprego e a competitividade das empresas, bem como o de apoio às famílias para fazer face às consequências sociais da conjuntura financeira e económica que atravessamos.\n\nTendo em atenção estes pressupostos torna-se essencial, nas presentes circunstâncias, ter um Governo mais pequeno, mais ágil e no qual se reforce a articulação entre políticas e entre departamentos.\n\nContudo, o critério principal para alcançar este objetivo não foi o de uma simples redução aritmética de departamentos do Governo Regional com a consequente junção de pastas, mas antes uma verdadeira reorganização das áreas de competência, tendo em vista alcançar os objetivos referidos.\n\nAssim, às tradicionais áreas de tutela da Vice-Presidência - Finanças e Planeamento - agregaram-se os sectores do Emprego e da Competitividade Empresarial, conferindo, deste modo, especial prioridade política às medidas de criação de emprego, bem como à sua articulação com as questões de dinamização da atividade económica, fomento das exportações e da inovação, capital de risco e promoção do investimento privado, entre outras.\n\nÀ Secretaria Regional da Solidariedade Social ficam cometidas as matérias que dizem respeito às políticas de apoio e ação social, à habitação, à segurança social, ao relacionamento com as instituições particulares do sector, bem como às políticas de igualdade de género, igualdade perante o trabalho e combate às discriminações.\n\nA Secretaria Regional da Saúde, para além das competências que decorrem diretamente do respetivo sector de tutela, nas quais assume relevância primordial a questão da sustentabilidade do Serviço Regional de Saúde, assumirá também as políticas de prevenção e combate às dependências e de Proteção Civil.\n\nA Secretaria Regional da Educação, Ciência e Cultura abrange a intervenção em áreas como a educação, formação profissional inicial, a juventude e desporto.\n\nA Secretaria Regional do Turismo e Transportes autonomizará estas duas áreas com especial interligação e, para além dessas, abrangerá ainda as matérias relativas às obras públicas, comunicações, tecnologia e energia.\n\nTendo em atenção o reforço da importância das atividades produtivas tradicionais e, para além disso, o pleno aproveitamento das potencialidades naturais da nossa Região, a Secretaria Regional dos Recursos Naturais tem a seu cargo as políticas relativas à agricultura, ambiente e mar, quer no âmbito mais específico das pescas, quer no âmbito mais vasto de aproveitamento das potencialidades deste recurso natural que é o Mar dos Açores.\n\nCompleta o elenco orgânico do XI Governo Regional dos Açores a Subsecretaria Regional da Presidência para as Relações Externas, cujo âmbito de ação inclui as questões relativas aos assuntos europeus e cooperação externa, imigração e emigração, e comunidades Açorianas residentes no exterior.\n\nO resultado deste trabalho é uma estrutura orgânica menor, verificando-se uma redução do número global de secretarias e subsecretarias regionais, bem como das direções regionais e serviços equiparados.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do n.º 6 do artigo 231.º da Constituição, o Governo Regional decreta o seguinte:"
+  },
+  "6384d22c08d043d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Constituição do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Constituição do Governo Regional\n\nO Governo Regional é constituído pelo Presidente do Governo Regional, pelo Vice-Presidente do Governo Regional, pelos secretários regionais e pelo subsecretário regional, previstos no presente diploma."
+  },
+  "c5d3956a1a045e3b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Membros do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Membros do Governo Regional\n\n1 - Integram o Governo Regional os seguintes membros:\n\na) Presidente do Governo Regional (PGR);\n\nb) Vice-Presidente do Governo Regional (VPGR);\n\nc) Secretária Regional da Solidariedade Social (SRSS);\n\nd) Secretário Regional da Saúde (SRS);\n\ne) Secretário Regional da Educação, Ciência e Cultura (SRECC);\n\nf) Secretário Regional do Turismo e Transportes (SRTT);\n\ng) Secretário Regional dos Recursos Naturais (SRRN).\n\n2 - Integra, ainda, o Governo Regional o Subsecretário Regional da Presidência para as Relações Externas (SsRPRE), na dependência do Presidente do Governo Regional."
+  },
+  "c87f63aadd011429": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Departamentos do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Departamentos do Governo Regional\n\nOs departamentos do Governo Regional são os seguintes:\n\na) Presidência do Governo Regional (PGR), que compreende o Subsecretário Regional da Presidência para as Relações Externas (SsRPRE);\n\nb) Vice-Presidência, Emprego e Competitividade Empresarial (VPECE);\n\nc) Secretaria Regional da Solidariedade Social (SRSS);\n\nd) Secretaria Regional da Saúde (SRS);\n\ne) Secretaria Regional da Educação, Ciência e Cultura (SRECC);\n\nf) Secretaria Regional do Turismo e Transportes (SRTT);\n\ng) Secretaria Regional dos Recursos Naturais (SRRN)."
+  },
+  "4e32b038fcdf0ffd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Sede dos departamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sede dos departamentos\n\n1 - A Presidência e a Vice-Presidência do Governo Regional, a Secretaria Regional do Turismo e Transportes e o Subsecretário Regional da Presidência para as Relações Externas ficam sediados na cidade de Ponta Delgada.\n\n2 - As Secretarias Regionais da Solidariedade Social, da Saúde e da Educação, Ciência e Cultura ficam sediadas na cidade de Angra do Heroísmo.\n\n3 - A Secretaria Regional dos Recursos Naturais fica sediada na cidade da Horta."
+  },
+  "320752d33f740159": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competência do Presidente do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência do Presidente do Governo Regional\n\n1 - O Presidente do Governo Regional possui competência própria e competência delegada nos termos da lei.\n\n2 - O Presidente do Governo Regional pode delegar em qualquer membro do Governo Regional os poderes que possui relativamente às matérias que, nos termos do presente diploma, são da sua competência.\n\n3 - O Presidente do Governo Regional pode delegar em qualquer membro do Governo Regional, com faculdade de subdelegação, a competência relativa aos organismos e serviços dele dependentes.\n\n4 - A competência atribuída por lei ou regulamento ao Governo Regional ou ao respetivo Conselho, no âmbito dos assuntos correntes da Administração Pública, considera-se delegada no Presidente do Governo Regional, com faculdade de subdelegação em qualquer membro do Governo Regional.\n\n5 - O Presidente do Governo Regional pode delegar em qualquer membro do Governo Regional, com faculdade de subdelegação, a competência que, no domínio dos assuntos correntes da Administração Pública, lhe é conferida por lei ou regulamento.\n\n6 - Para além da competência genérica de coordenação global que lhe é própria, o Presidente do Governo Regional exerce os poderes que a lei confere ao Governo Regional nas seguintes matérias:\n\na) Relações com os órgãos de soberania, com o Representante da República e com a Assembleia Legislativa;\n\nb) Tratados e acordos internacionais que digam diretamente respeito à Região;\n\nc) Relações com entidades governamentais externas;\n\nd) Assuntos Europeus;\n\ne) Cooperação Externa;\n\nf) Imigração, Emigração e Comunidades;\n\ng) Relações com os sistemas de Segurança, de Justiça e de Defesa;\n\nh) Comunicação Social;\n\ni) Comunicação Institucional;\n\nj) Legística;\n\nk) Jornal Oficial.\n\n7 - Sem prejuízo da coordenação que incumbe ao Presidente do Governo Regional, são, desde já, genericamente delegadas, no Subsecretário Regional da Presidência para as Relações Externas, as competências previstas nas alíneas d), e) e f) do número anterior."
+  },
+  "73d74d590b51792e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Substituição do Presidente do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Substituição do Presidente do Governo Regional\n\nO Presidente do Governo Regional será substituído, nas suas ausências e impedimentos, pelo Vice-Presidente do Governo Regional ou pelo secretário regional que indicar."
+  },
+  "2ec80315661d494b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competências dos membros do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências dos membros do Governo Regional\n\n1 - O Vice-Presidente do Governo Regional e os secretários regionais possuem as competências próprias que a lei lhes atribui e as que lhes forem delegadas pelo Conselho do Governo Regional ou por despacho do Presidente do Governo Regional.\n\n2 - O Subsecretário Regional da Presidência para as Relações Externas possui as competências previstas no presente diploma e as que lhe forem delegadas pelo Conselho do Governo Regional ou por despacho do Presidente do Governo Regional."
+  },
+  "57305019eeb85ed0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Competências do Vice-Presidente do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências do Vice-Presidente do Governo Regional\n\nO Vice-Presidente do Governo Regional exerce as suas competências nas seguintes matérias:\n\na) Finanças e Património;\n\nb) Orçamento e Planeamento;\n\nc) Gestão global de fundos comunitários;\n\nd) Setor Público Empresarial Regional;\n\ne) Comércio e Indústria;\n\nf) Fomento da Competitividade e da Inovação Empresariais;\n\ng) Fomento das Exportações;\n\nh) Capital de Risco;\n\ni) Promoção do Investimento Privado;\n\nj) Políticas ativas de Emprego;\n\nk) Formação e reconversão de ativos;\n\nl) Administração Pública Regional;\n\nm) Assuntos Parlamentares;\n\nn) Autarquias Locais;\n\no) Inspeção Administrativa Regional;\n\np) Estatística;\n\nq) Polícia Administrativa;\n\nr) Assuntos eleitorais;\n\ns) Artesanato;\n\nt) Defesa do Consumidor e da Concorrência;\n\nu) Desenvolvimento e Coesão Regional."
+  },
+  "f5aaf56c7b38990e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competências do Secretário Regional da Solidariedade Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências do Secretário Regional da Solidariedade Social\n\nO Secretário Regional da Solidariedade Social exerce a sua competência nas seguintes matérias:\n\na) Emergência Social;\n\nb) Habitação;\n\nc) Solidariedade Social;\n\nd) Segurança Social;\n\ne) Relações com IPSS's;\n\nf) Políticas de igualdade de género, igualdade perante o trabalho e combate às discriminações;\n\ng) Voluntariado;\n\nh) Natalidade."
+  },
+  "d4022f62fb02b22b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competências do Secretário Regional da Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências do Secretário Regional da Saúde\n\nO Secretário Regional da Saúde exerce as suas competências nas seguintes matérias:\n\na) Saúde;\n\nb) Prevenção e combate às dependências;\n\nc) Cuidados continuados;\n\nd) Serviço Regional de Proteção Civil e Bombeiros dos Açores."
+  },
+  "fa79f72cc0a34a40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competências do Secretário Regional da Educação, Ciência e Cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências do Secretário Regional da Educação, Ciência e Cultura\n\nO Secretário Regional da Educação, Ciência e Cultura exerce as suas competências nas seguintes matérias:\n\na) Educação;\n\nb) Formação profissional inicial, incluindo supervisão das escolas profissionais;\n\nc) Ciência;\n\nd) Cultura;\n\ne) Desporto;\n\nf) Juventude;\n\ng) Relações com a Universidade dos Açores e demais entidades de formação superior."
+  },
+  "493ccc9fa1fa0088": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competências do Secretário Regional do Turismo e Transportes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competências do Secretário Regional do Turismo e Transportes\n\nO Secretário Regional do Turismo e Transportes exerce as suas competências nas seguintes matérias:\n\na) Turismo;\n\nb) Transportes;\n\nc) Obras Públicas;\n\nd) Comunicações;\n\ne) Tecnologia;\n\nf) Energia;\n\ng) Edifícios públicos;\n\nh) Sociedade da Informação."
+  },
+  "4a0e923301ffcc13": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Competências do Secretário Regional dos Recursos Naturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências do Secretário Regional dos Recursos Naturais\n\nO Secretário Regional dos Recursos Naturais exerce as suas competências nas seguintes matérias:\n\na) Agricultura e Pecuária;\n\nb) Desenvolvimento Rural;\n\nc) Formação agrária e extensão rural;\n\nd) Florestas e produção florestal;\n\ne) Pescas e Aquicultura;\n\nf) Exploração oceanográfica e licenciamento de usos do mar e seus fundos;\n\ng) Ambiente;\n\nh) Ordenamento do território;\n\ni) Recursos Hídricos;\n\nj) Orlas costeiras;\n\nk) Cooperação com a polícia marítima."
+  },
+  "658df4f08a9ac154": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direções regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direções regionais\n\nOs departamentos do Governo Regional referidos no artigo 3.º integram as direções regionais ou serviços equiparados seguintes:\n\n1 - Presidência do Governo Regional:\n\na) Secretaria-Geral da Presidência.\n\n2 - Vice-Presidência do Governo Regional, Emprego e Competitividade Empresarial:\n\na) Na ilha de São Miguel:\n\nDireção Regional do Orçamento e Tesouro (DROT);\n\nDireção Regional de Apoio ao Investimento e à Competitividade (DRAIC);\n\nDireção Regional do Emprego e Qualificação Profissional (DREQP);\n\nb) Na ilha Terceira:\n\nDireção Regional da Organização e Administração Pública (DROAP);\n\nDireção Regional do Planeamento e Fundos Estruturais (DRPFE);\n\nServiço Regional de Estatística dos Açores (SREA).\n\n3 - Secretaria Regional da Solidariedade Social:\n\na) Na ilha de São Miguel:\n\nDireção Regional da Habitação (DRH);\n\nInstituto para o Desenvolvimento Social dos Açores (IDSA);\n\nb) Na ilha Terceira:\n\nDireção Regional da Solidariedade Social (DRSS).\n\n4 - Secretaria Regional da Saúde:\n\na) Na ilha Terceira:\n\nDireção Regional da Saúde (DRS);\n\nServiço Regional de Proteção Civil e Bombeiros dos Açores (SRPCBA).\n\n5 - Secretaria Regional da Educação, Ciência e Cultura:\n\na) Na ilha Terceira:\n\nDireção Regional da Educação (DRE);\n\nDireção Regional da Cultura (DRC);\n\nDireção Regional do Desporto (DRD);\n\nb) Na ilha de São Miguel:\n\nDireção Regional da Juventude (DRJ).\n\n6 - Secretaria Regional do Turismo e Transportes:\n\na) Na ilha de São Miguel:\n\nDireção Regional dos Transportes (DRT);\n\nDireção Regional das Obras Públicas, Tecnologia e Comunicações (DROPTC);\n\nDireção Regional da Energia (DRE);\n\nb) Na ilha do Faial:\n\nDireção Regional do Turismo (DRT).\n\n7 - Secretaria Regional dos Recursos Naturais:\n\na) Na ilha de São Miguel:\n\nDireção Regional dos Recursos Florestais (DRRF);\n\nInstituto de Alimentação e Mercados Agrícolas (IAMA);\n\nb) Na ilha Terceira:\n\nDireção Regional da Agricultura e Desenvolvimento Rural (DRADR);\n\nc) Na ilha do Faial:\n\nDireção Regional do Ambiente (DRA);\n\nDireção Regional dos Assuntos do Mar (DRAM);\n\nDireção Regional das Pescas (DRP).\n\n8 - Subsecretário Regional da Presidência para as Relações Externas:\n\na) Na ilha do Faial:\n\nDireção Regional das Comunidades (DRC)."
+  },
+  "08c11d2d8a926eea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Alterações orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Alterações orgânicas\n\n1 - A estrutura orgânica constante do [Decreto Regulamentar Regional n.º 25/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/25-2008-444253), de 31 de dezembro, com as alterações introduzidas pelo [Decreto Regulamentar Regional n.º 17/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2010-342079), de 21 de setembro, é substituída pela estabelecida no presente diploma.\n\n2 - Todos os serviços e organismos cujo enquadramento departamental é alterado mantêm a mesma natureza jurídica, modificando-se apenas, conforme os casos, o superior hierárquico ou o órgão que exerce os poderes de superintendência e tutela, sem prejuízo do que nesta matéria as respetivas leis orgânicas vierem a dispor.\n\n3 - A superintendência e a tutela da administração pública regional indireta, das empresas do sector público regional, das sociedades participadas ou a elas equiparadas serão exercidas pelo membro do Governo Regional que tenha a seu cargo o sector em que se integram, sem prejuízo do disposto no [Decreto Legislativo Regional n.º 7/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2008-246794), de 24 de março, na redação dos Decretos Legislativos Regionais n.os [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435) e [7/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2011-278763), respetivamente, de 14 de outubro e de 22 de março, que estabelece o regime do sector público empresarial da Região Autónoma dos Açores.\n\n4 - As referências feitas em diplomas legais aos departamentos do Governo Regional alterados ou extintos consideram-se, para todos os efeitos, reportados aos departamentos do Governo Regional que, de acordo com o presente diploma, detenham a tutela do sector.\n\n5 - Nos termos da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, os departamentos do Governo Regional procederão às reestruturações orgânicas decorrentes do presente diploma, devendo, no prazo de 90 dias a contar da data de entrada em vigor do presente diploma, submeter ao Conselho do Governo Regional as propostas de decreto regulamentar regional que consagrem as alterações que se revelem necessárias."
+  },
+  "1e14ac67db6f2f87": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Reestruturações orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reestruturações orgânicas\n\n1 - São criadas as seguintes Direções Regionais, chefiadas por diretores regionais:\n\na) A Direção Regional das Obras Públicas, Tecnologia e Comunicações e a Direção Regional dos Transportes, na dependência do Secretário Regional do Turismo e Transportes;\n\nb) A Direção Regional da Agricultura e Desenvolvimento Rural e a Direção Regional das Pescas, na dependência do Secretário Regional dos Recursos Naturais.\n\n2 - Sem prejuízo das novas atribuições que lhes sejam cometidas por força do presente diploma, mudam de designação, mantendo os meios, efetivos, competências, direitos e obrigações que lhe estavam afetos, as seguintes Direções Regionais:\n\na) A anterior Direção Regional do Trabalho, Qualificação Profissional e Defesa do Consumidor passa a designar-se por Direção Regional do Emprego e Qualificação Profissional;\n\nb) A anterior Direção Regional da Educação e Formação passa a designar-se por Direção Regional da Educação.\n\n3 - São extintas:\n\na) A Direção Regional da Prevenção e Combate às Dependências, transitando os meios, efetivos, competências, direitos e obrigações que lhe estavam afetos para a Direção Regional da Saúde;\n\nb) A Direção Regional da Ciência, Tecnologia e Comunicações, transitando os meios, efetivos, competências, direitos e obrigações que lhe estavam afetos para o Gabinete do Secretário Regional da Educação, Ciência e Cultura, no que respeita ao sector da Ciência, e para a Direção Regional das Obras Públicas, Tecnologia e Comunicações, no que respeita aos sectores da Tecnologia e Comunicações;\n\nc) A Direção Regional dos Equipamentos e Transportes Terrestres, transitando os meios, efetivos, competências, direitos e obrigações que lhe estavam afetos para a Direção Regional dos Transportes, no que respeita ao sector dos transportes terrestres, e para a Direção Regional das Obras Públicas, Tecnologia e Comunicações, no que respeita ao sector dos Equipamentos;\n\nd) A Direção Regional do Desenvolvimento Rural e a Direção Regional dos Assuntos Comunitários da Agricultura, transitando os meios, efetivos, competências, direitos e obrigações que lhe estavam afetos para a Direção Regional da Agricultura e Desenvolvimento Rural.\n\n4 - Transitam para a dependência do Vice-Presidente do Governo os seguintes serviços, organismos e entidades:\n\na) A Inspeção Regional das Atividades Económicas;\n\nb) A Inspeção Administrativa Regional;\n\nc) A Inspeção Regional do Trabalho;\n\nd) O Centro de Formação da Administração Pública dos Açores;\n\ne) O Fundo Regional do Emprego;\n\nf) O Serviço Regional de Conciliação e Arbitragem do Trabalho;\n\ng) O Centro Regional de Apoio ao Artesanato.\n\n5 - Transitam para a dependência do Secretário Regional da Solidariedade Social os seguintes serviços, organismos e entidades:\n\na) O Instituto de Gestão Financeira da Segurança Social dos Açores.\n\n6 - Transitam para a dependência do Secretário Regional da Saúde os seguintes serviços, organismos e entidades:\n\na) A Inspeção Regional da Saúde;\n\nb) A Inspeção Regional de Bombeiros.\n\n7 - Transitam para a dependência do Secretário Regional da Educação Ciência e Cultura os seguintes serviços, organismos e entidades:\n\na) A Inspeção Regional da Educação;\n\nb) A Inspeção Regional das Atividades Culturais dos Açores;\n\nc) O Fundo Regional para a Ciência e Tecnologia, que passa a designar-se Fundo Regional para a Ciência.\n\n8 - Transitam para a dependência do Secretário Regional do Turismo e Transportes os seguintes serviços e organismos:\n\na) A Inspeção Regional do Turismo;\n\nb) O Fundo Regional de Apoio à Coesão e Desenvolvimento Económico;\n\nc) O Fundo Regional dos Transportes Terrestres, IPRA;\n\nd) O Serviço Coordenador dos Transportes Terrestres;\n\ne) O Laboratório Regional de Engenharia Civil.\n\n9 - Transitam para a dependência do Secretário Regional dos Recursos Naturais os seguintes serviços e organismos:\n\na) A Inspeção Regional do Ambiente;\n\nb) A Inspeção Regional das Pescas.\n\n10 - Transitam para a dependência do Subsecretário Regional da Presidência para as Relações Externas os serviços até agora dependentes do Subsecretário Regional dos Assuntos Europeus e Cooperação Externa.\n\n11 - Transitam para a Direção Regional das Pescas os serviços até agora dependentes do Subsecretário Regional das Pescas."
+  },
+  "084eb8830e3fa3bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Movimentações de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Movimentações de pessoal\n\n1 - As alterações na estrutura orgânica são acompanhadas pelo consequente movimento de pessoal, sem dependência de quaisquer formalidades e sem prejuízo dos direitos consagrados na lei.\n\n2 - O movimento referido no número anterior não poderá implicar a deslocação do trabalhador da Administração Pública para ilha diferente daquela onde presta serviço sem a sua anuência.\n\n3 - Os concursos de pessoal, pendentes à data da entrada em vigor do presente diploma, mantêm-se válidos, sendo os lugares a prover os que lhes corresponderem na nova orgânica.\n\n4 - O pessoal que se encontra na situação de licença mantém os direitos que detinha à data de início da mesma, nos termos da legislação aplicável.\n\n5 - A Vice-Presidência do Governo Regional providenciará a publicação na Bolsa de Emprego Público - Açores das listas nominativas atualizadas de afetação de pessoal a cada serviço e organismo, dentro de cada quadro regional de ilha."
+  },
+  "8f64fb30cab518aa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Reafetação de pessoal e património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Reafetação de pessoal e património\n\nAté à aprovação das orgânicas e das listas nominativas de afetação de pessoal dos departamentos governamentais criados pelo presente diploma, a reafetação de pessoal e património é efetuada através de despacho conjunto do Vice-Presidente do Governo Regional e dos membros do Governo Regional envolvidos."
+  },
+  "121f014cfc5e5d39": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Comissões de serviço do pessoal dirigente e de chefia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comissões de serviço do pessoal dirigente e de chefia\n\nNos termos da alínea c) do n.º 1 do artigo 25.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, com as alterações que lhe foram introduzidas pela [Lei n.º 64/2011](https://diariodarepublica.pt/dr/detalhe/lei/64-2011-145045), de 22 de dezembro, aplicada à Região Autónoma dos Açores com as adaptações introduzidas pelos Decretos Legislativos Regionais n.os [2/2005/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2005-534789), [2/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2006-168230), [8/2008/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2008-246536), [17/2009/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491435) e [34/2010/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2010-306589), de 9 de maio, de 6 de janeiro, de 31 de março, de 14 de outubro e de 29 de dezembro, respetivamente, mantêm-se as comissões de serviço de todos os diretores de serviço, chefes de divisão e outras chefias dos organismos, serviços e entidades objeto de alteração ou reestruturação orgânica, por força das alterações introduzidas pelo presente diploma."
+  },
+  "ac19e5e73b7898c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Transferência de competências, direitos e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Transferência de competências, direitos e obrigações\n\nAs competências, os direitos e as obrigações de que eram titulares os departamentos, organismos ou serviços, objeto de alteração por força do presente diploma, são automaticamente transferidos para os correspondentes novos departamentos, organismos ou serviços que os substituem, ou que os passam a integrar em razão da respetiva matéria de competências, sem dependência de quaisquer formalidades."
+  },
+  "93cc18e2eb09164d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Atos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Atos financeiros\n\nTodos os atos dos membros do Governo Regional que se relacionem com as alterações na estrutura orgânica aprovada pelo presente diploma e que envolvam aumento de despesas ou diminuição de receitas serão obrigatoriamente aprovados pelo Vice-Presidente do Governo Regional."
+  },
+  "861e3a7f68123f09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Encargos orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Encargos orçamentais\n\n1 - Até à aprovação e entrada em vigor do Orçamento da Região para o ano de 2013, mantém-se a expressão orçamental da estrutura governamental anterior, com as adaptações decorrentes do estabelecido nos números seguintes.\n\n2 - Os encargos com o funcionamento dos departamentos e os gabinetes dos membros do Governo Regional criados ou reestruturados, bem como os relativos aos serviços objeto de alteração de enquadramento orgânico por força do presente diploma, continuam a ser suportados por conta das verbas que lhes estão afetas.\n\n3 - O Governo Regional tomará as necessárias providências, mantendo a expressão orçamental existente, para fazer face às alterações decorrentes do estabelecido no presente diploma."
+  },
+  "58dfb949f3e92c6b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Composição dos gabinetes dos membros do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Composição dos gabinetes dos membros do Governo Regional\n\n1 - O Vice-Presidente do Governo Regional, no exercício das suas funções, será apoiado por um gabinete composto por um chefe de gabinete, um secretário pessoal e um máximo de três adjuntos.\n\n2 - O Subsecretário Regional da Presidência para as Relações Externas, no exercício das suas funções, será apoiado por um gabinete composto por um chefe de gabinete, um secretário pessoal e um máximo de dois adjuntos.\n\n3 - Relativamente aos restantes membros do Governo Regional, mantêm-se em vigor as disposições do [Decreto Regulamentar Regional n.º 18/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1999-661748), de 21 de dezembro."
+  },
+  "fd3f6d9c8b6dcb7e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Revogação\n\nÉ revogado o disposto no n.º 2 do artigo 23.º do [Decreto Regulamentar Regional n.º 30/2006/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-2006-546024), de 31 de outubro."
+  },
+  "ace0daa32b170995": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nO presente diploma produz efeitos à data da posse do XI Governo Regional dos Açores.\n\nAprovado em Conselho do Governo Regional, na Horta, em 6 de novembro de 2012.\n\nO Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.\n\nAssinado em Angra do Heroísmo em 19 de novembro de 2012.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  },
+  "36c1a482a84b33ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Constituição do Governo Regional",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 1.º — Constituição do Governo Regional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "7875d26abeee5d7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Membros do Governo Regional",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 2.º — Membros do Governo Regional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "f37c698b0c4a2885": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Departamentos do Governo Regional",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 3.º — Departamentos do Governo Regional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "90d223896fb5022e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Sede dos departamentos",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 4.º — Sede dos departamentos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "05d6c1a4ad1d997f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Competência do Presidente do Governo Regional",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 5.º — Competência do Presidente do Governo Regional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "da6d6cdbed862a67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Substituição do Presidente do Governo Regional",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 6.º — Substituição do Presidente do Governo Regional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "7fe12cfc65cdd85f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Competências dos membros do Governo Regional",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 7.º — Competências dos membros do Governo Regional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "49de1b3185c038f4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Competências do Vice-Presidente do Governo Regional",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 8.º — Competências do Vice-Presidente do Governo Regional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "f465a63c499c53e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Competências do Secretário Regional da Solidariedade Social",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 9.º — Competências do Secretário Regional da Solidariedade Social\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "0720e2dd52ff70af": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º — Competências do Secretário Regional da Saúde",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 10.º — Competências do Secretário Regional da Saúde\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "e1d13962a7ba9fdc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Competências do Secretário Regional da Educação, Ciência e Cultura",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 11.º — Competências do Secretário Regional da Educação, Ciência e Cultura\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "2199f4b3f3630267": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Competências do Secretário Regional do Turismo e Transportes",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 12.º — Competências do Secretário Regional do Turismo e Transportes\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "777f55fb9d54ace6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º — Competências do Secretário Regional dos Recursos Naturais",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 13.º — Competências do Secretário Regional dos Recursos Naturais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "bb9a204c700f338e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Direções regionais",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 14.º — Direções regionais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "3b69f52622b873ce": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Alterações orgânicas",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 15.º — Alterações orgânicas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "236fa4fe089358c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º — Reestruturações orgânicas",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 16.º — Reestruturações orgânicas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "82004e39981821eb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Movimentações de pessoal",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 17.º — Movimentações de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "8ee61e01f22c1331": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Reafetação de pessoal e património",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 18.º — Reafetação de pessoal e património\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "7e61984ed99d6924": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º — Comissões de serviço do pessoal dirigente e de chefia",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 19.º — Comissões de serviço do pessoal dirigente e de chefia\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "47178db82d4eaea1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Transferência de competências, direitos e obrigações",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 20.º — Transferência de competências, direitos e obrigações\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "607b0408c91a07f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Atos financeiros",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 21.º — Atos financeiros\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "c359233f25facd2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Encargos orçamentais",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 22.º — Encargos orçamentais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "52d5fd3bfabcf8d6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º — Composição dos gabinetes dos membros do Governo Regional",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 23.º — Composição dos gabinetes dos membros do Governo Regional\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+  },
+  "867752d66c1c7e85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": "2014-07-24",
+   "changed_by": [
+    "Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24."
+   ],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto Regulamentar Regional n.º 12/2014/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-2014-55021043), publicado em 2014-07-24.\n\nAprovado em Conselho do Governo Regional, na Horta, em 6 de novembro de 2012.\n\nO Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.\n\nAssinado em Angra do Heroísmo em 19 de novembro de 2012.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  }
+ }
+}

@@ -32,10 +32,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1978-07-19'
+version_history:
+  file: decreto-lei-343-71.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1971-08-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-07-19'
+    amending: pt:dre:297416:por
+    amending_title: Decreto-Lei n.º 196/78
+    changes:
+    - Altera Artigo 2.º
 identifiers:
   celex: null
   eli: null
@@ -61,7 +75,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:19:40Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 196/78. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1971/decreto-lei-343-71.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -133,15 +148,23 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. É declarada a utilidade pública da expropriação, com carácter urgente, dos terrenos, edifícios, servidões ou outros direitos necessários à execução das obras da barragem e central, represamento e derivação das águas, restabelecimento de vias de comunicação, acessos e exploração de pedreiras respeitantes ao 1.º escalão do aproveitamento hidroeléctrico do rio Mondego, ficando a cargo da Companhia Portuguesa de Electricidade - C. P. E., S. A. R. L., com sede no Porto, na Rua de Sá da Bandeira, 567, a liquidação e pagamento das indemnizações, nos termos da legislação aplicável.
+###### Artigo 1.º
+
+1. É declarada a utilidade pública da expropriação, com carácter urgente, dos terrenos, edifícios, servidões ou outros direitos necessários à execução das obras da barragem e central, represamento e derivação das águas, restabelecimento de vias de comunicação, acessos e exploração de pedreiras respeitantes ao 1.º escalão do aproveitamento hidroeléctrico do rio Mondego, ficando a cargo da Companhia Portuguesa de Electricidade - C. P. E., S. A. R. L., com sede no Porto, na Rua de Sá da Bandeira, 567, a liquidação e pagamento das indemnizações, nos termos da legislação aplicável.
 
 2. É garantido à C. P. E. o direito de atravessar ou ocupar prédios particulares, na conformidade dos estudos ou projectos aprovados pelo Ministro das Obras Públicas, com canais, condutas subterrâneas ou caminhos de circulação necessários ou impostos pela realização do empreendimento. Aos proprietários são devidas indemnizações por estes ónus quando deles resulte diminuição do valor ou do rendimento da propriedade, ou redução da sua área, sendo, em tais casos, fixadas as indemnizações pelos tribunais civis, quando não haja acordo entre as partes.
 
 3. A C. P. E. poderá utilizar as estradas, caminhos e cursos de água, bem como terrenos ao longo do caminho de ferro e de quaisquer vias de comunicação do domínio público ou municipal, para o estabelecimento ou passagem das diferentes partes do empreendimento.
 
-Art. 2.º Os terrenos a ocupar peles obras a que se refere o artigo anterior ficam situados nas freguesias de Barreiro de Besteiros, Parada, Currelos, Papízios, Ázere, Tábua, Póvoa de Midões, Ovoa, Pinheiro de Ázere, S. João das Areias, Santa Comba Dão, Vimieiro, Treixedo, Couto do Mosteiro, S. Joaninho, Mortágua, Sobral, Almaça, Travanca, S. Pedro de Alva, S. Paio e Oliveira do Mondego, dos concelhos de Tondela, Carregal do Sal, Tábua, Santa Comba Dão, Mortágua e Penacova, e constarão de plantas parcelares a aprovar pelo Ministério das Obras Públicas.
+###### Artigo 2.º
 
-Art. 3.º Serão oportunamente integrados no aproveitamento e na concessão os terrenos e direitos adquiridos pela C. P. E. ao abrigo do presente diploma, tendo em conta o disposto no artigo 99.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960.
+Os terrenos a ocupar pelas obras a que se refere o artigo anterior ficam situados nas freguesias de Barreiro de Besteiros e Dardavaz, do concelho de Tondela, nas freguesias de Parada, Currelos, Papízios e Oliveira do Conde, do concelho de Carregal do Sal, nas freguesias de Ázere, Tábua, Póvoa de Midões e Covelo, do concelho de Tábua, nas freguesias de Ovoa, Pinheiro de Ázere, S. João das Areias, Santa Comba Dão, Vimeiro, Treixedo, Couto do Mosteiro e S. Joaninho, do concelho de Santa Comba Dão, nas freguesias de Mortágua, Sobral, Almaça e Cercosa, do concelho de Mortágua, e nas freguesias de Travanca, Penacova, S. Pedro de Alva, S. Paio e Oliveira do Mondego, do concelho de Penacova, e constarão de plantas parcelares a aprovar pelo Ministério da Habitação e Obras Públicas.
+
+> Alterado pelo/a [Decreto-Lei n.º 196/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1978-297416), publicado em 1978-07-19.
+
+###### Artigo 3.º
+
+Serão oportunamente integrados no aproveitamento e na concessão os terrenos e direitos adquiridos pela C. P. E. ao abrigo do presente diploma, tendo em conta o disposto no artigo 99.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - Manuel Pereira Crespo - Rui Manuel de Medeiros d'Espiney Patrício - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Veiga Simão - Baltasar Leite Rebelo de Sousa.
 

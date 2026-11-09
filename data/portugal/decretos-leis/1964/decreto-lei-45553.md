@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1970-04-29'
+version_history:
+  file: decreto-lei-45553.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1964-02-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1970-04-29'
+    amending: pt:dre:141868:por
+    amending_title: Decreto-Lei n.º 184/70
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:47:54Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 184/70. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1964/decreto-lei-45553.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -113,19 +128,35 @@ Considerando a necessidade de estabelecer as condições em que se verificará a
 
 Usando da faculdade conferida pela 1.ª parte do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º Compete ao Ministro da Marinha, de harmonia com as directivas aprovadas pelo Ministro da Defesa Nacional, assegurar a manutenção, funcionamento e defesa das infra-estruturas N. A. T. O. existentes em Portugal na dependência do Ministério da Marinha.
+###### Artigo 1.º
+
+Compete ao Ministro da Marinha, de harmonia com as directivas aprovadas pelo Ministro da Defesa Nacional, assegurar a manutenção, funcionamento e defesa das infra-estruturas N. A. T. O. existentes em Portugal na dependência do Ministério da Marinha.
 
 § único. A administração financeira destas infra-estruturas será regulada segundo normas a fixar pelos organismos de manutenção de infra-estruturas N. A. T. O. do Secretariado-Geral da Defesa Nacional e é exercida pelos organismos executivos de manutenção de infra-estruturas N. A. T. O. do Ministério da Marinha.
 
-Art. 2.º Por despacho do Ministro da Marinha serão definidos os organismos da Armada que apoiarão dos pontos de vista militar, técnico e logístico as referidas infra-estruturas e reguladas as condições em que se realizará esse apoio.
+###### Artigo 2.º
 
-Art. 3.º Por despacho do Ministro da Defesa Nacional, sob proposta do Ministro da Marinha, serão fixadas as lotações das infra-estruturas N. A. T. O. dependentes do Ministério da Marinha em pessoal militar e em pessoal civil ou militar em comissão civil.
+Por despacho do Ministro da Marinha serão definidos os organismos da Armada que apoiarão dos pontos de vista militar, técnico e logístico as referidas infra-estruturas e reguladas as condições em que se realizará esse apoio.
 
-Art. 4.º O pessoal civil oriundo do funcionalismo público manterá, quando em serviço nas infra-estruturas N. A. T. O., todos os seus direitos como se estivesse em serviço nos respectivos quadros, nomeadamente no que se refere à contagem de tempo de serviço, desconto para a Caixa Geral de Aposentações e organismos de previdência ou quaisquer outros de que por imposição legal sejam contribuintes.
+###### Artigo 3.º
 
-Art. 5.º O pessoal militar, quando em serviço nas infra-estruturas N. A. T. O., mantém os direitos consignados na legislação especial que lhe diz respeito relativamente às situações em que prestar serviço nas mesmas infra-estruturas.
+Por despacho do Ministro da Defesa Nacional, sob proposta do Ministro da Marinha, serão fixadas as lotações das infra-estruturas N. A. T. O. dependentes do Ministério da Marinha em pessoal militar e em pessoal civil ou militar em comissão civil.
 
-Art. 6.º Fica revogado o [Decreto n.º 44680](https://diariodarepublica.pt/dr/detalhe/decreto/44680-1962-155849), de 12 de Novembro de 1962, considerando-se, porém, legalizadas todas as disposições que ao seu abrigo foram tomadas.
+###### Artigo 4.º
+
+O pessoal civil oriundo do funcionalismo público manterá, quando em serviço nas infra-estruturas N. A. T. O., todos os seus direitos como se estivesse em serviço nos respectivos quadros, nomeadamente no que se refere à contagem de tempo de serviço, desconto para a Caixa Geral de Aposentações e organismos de previdência ou quaisquer outros de que por imposição legal sejam contribuintes.
+
+§ único. Os lugares deixados vagos nos quadros de origem por este pessoal poderão ser preenchidos, até terminar o impedimento dos titulares respectivos, por funcionários de nomeação provisória ou interina que possuam idêntica aptidão profissional, devendo ser dada preferência a indivíduos já classificados em concurso a aguardar vacatura.
+
+> Alterado pelo/a [Decreto-Lei n.º 184/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1970-141868), publicado em 1970-04-29.
+
+###### Artigo 5.º
+
+O pessoal militar, quando em serviço nas infra-estruturas N. A. T. O., mantém os direitos consignados na legislação especial que lhe diz respeito relativamente às situações em que prestar serviço nas mesmas infra-estruturas.
+
+###### Artigo 6.º
+
+Fica revogado o [Decreto n.º 44680](https://diariodarepublica.pt/dr/detalhe/decreto/44680-1962-155849), de 12 de Novembro de 1962, considerando-se, porém, legalizadas todas as disposições que ao seu abrigo foram tomadas.
 
 Publique-se e cumpra-se como nele se contém.
 

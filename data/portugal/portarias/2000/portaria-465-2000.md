@@ -39,10 +39,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2000-09-02'
+version_history:
+  file: portaria-465-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-07-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-09-02'
+    amending: pt:dre:643516:por
+    amending_title: Portaria n.º 705-B/2000
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 65.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/465/2000/07/21/p/dre/pt/html
@@ -68,7 +83,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:23:42Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 705-B/2000. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-465-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -253,7 +269,7 @@ a) Contingente especial para candidatos oriundos da Região Autónoma dos Açore
 
 b) Contingente especial para candidatos oriundos da Região Autónoma da Madeira, a que são atribuídos 3,5% das vagas fixadas para a 1.ª fase;
 
-c) Contingente especial para candidatos emigrantes portugueses e familiares que com eles residam, a que são atribuídos 7% das vagas fixadas para a 1.ª fase;
+c) Contingente especial para candidatos emigrantes e familiares que com eles residam, a que são atribuídos 7%, acrescidos excepcionalmente de 2%, das vagas fixadas para a 1.ª fase;
 
 d) Contingente especial para candidatos que se encontrem a prestar serviço militar efectivo nos regimes de voluntariado ou de contrato, a que são atribuídos 2% das vagas fixadas para a 1.ª fase;
 
@@ -266,6 +282,8 @@ a) É arredondado para o inteiro superior, se tiver parte decimal maior ou igual
 b) Assume o valor 1, se for inferior a 0,5.
 
 4 - As vagas atribuídas ao contingente geral são o resultado da diferença entre o número de vagas fixadas para a 1.ª fase e as vagas afectadas aos contingentes especiais nos termos dos n.os 2 e 3.
+
+> Alterado pelo/a [Portaria n.º 705-B/2000](https://diariodarepublica.pt/dr/detalhe/portaria/705-b-2000-643516), publicado em 2000-09-01.
 
 ###### Artigo 10.º — Contingentes especiais para candidatos oriundos das Regiões Autónomas dos Açores e da Madeira
 
@@ -1040,6 +1058,10 @@ Com a matrícula e inscrição dos candidatos colocados na 3.ª fase do concurso
 1 - A título excepcional, para a candidatura à matrícula e inscrição no ano lectivo de 2000-2001, e para efeitos de aplicação do disposto no artigo 12.º, considera-se como residência em país estrangeiro a residência no território de Macau sob administração portuguesa.
 
 2 - Igualmente a título excepcional, consideram-se abrangidos, em segunda prioridade, pelo contingente especial para candidatos emigrantes e seus familiares, os estudantes que residiram no território de Macau sob administração portuguesa e que comprovem satisfazer aos requisitos que se encontravam previstos no n.º 2 do artigo 10.º do Regulamento do Concurso Nacional de Acesso ao Ensino Superior Público para Matrícula e Inscrição no Ano Lectivo de 1999-2000, aprovado pela [Portaria n.º 505-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/505-a-1999-449730), de 15 de Julho, reportada a contagem do prazo referido na alínea b) dessa norma ao momento da presente candidatura.
+
+3 - Ainda a título excepcional, os candidatos referidos nos n.os 1 e 2 têm prioridade absoluta na colocação até 2% das vagas do contigente especial para emigrantes portugueses e familiares que com eles residam.
+
+> Alterado pelo/a [Portaria n.º 705-B/2000](https://diariodarepublica.pt/dr/detalhe/portaria/705-b-2000-643516), publicado em 2000-09-01.
 
 ## ANEXO I — Prazos
 

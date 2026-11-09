@@ -37,10 +37,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1979-12-01'
+version_history:
+  file: decreto-lei-201-a-79.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1979-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1979-12-01'
+    amending: pt:dre:254430:por
+    amending_title: Decreto-Lei n.º 463-A/79
+    changes:
+    - Altera Artigo 15.º
 identifiers:
   celex: null
   eli: null
@@ -66,7 +80,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T23:18:51Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 463-A/79. Método
+    e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1979/decreto-lei-201-a-79.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -923,7 +938,7 @@ e) Outras despesas correntes.
 
 3 - Do disposto nos dois números anteriores ficam exceptuados os departamentos militares e militarizados e os serviços do Ministério dos Negócios Estrangeiros.
 
-###### Artigo 15.º — (Finanças locais)
+###### Artigo 15.º — Finanças locais
 
 1 - A distribuição pelos municípios das receitas fiscais a que têm direito em 1979, por força das alíneas b) e c) do artigo 5.º da [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), e nos termos do artigo 8.º da [Lei n.º 21-A/79](https://diariodarepublica.pt/dr/detalhe/lei/21-a-1979-432798), de 25 de Junho, consta do mapa anexo n.º 4 ao presente decreto-lei e respeitará os princípios e as regras constantes dos números seguintes.
 
@@ -945,9 +960,11 @@ e) O disposto nas alíneas anteriores não se aplica aos compromissos relativos 
 
 5 - As verbas já processadas a favor dos municípios serão deduzidas aos quantitativos correspondentes a transferir em 1979, nos termos deste artigo, devendo o acerto de contas efectuar-se aquando do primeiro processamento ou, quando se torne indispensável, nos subsequentes.
 
-6 - O imposto de comércio e indústria relativo a 1979, cobrado pelos municípios, reverte para o Estado, devendo dar entrada nos cofres públicos até ao fim do mês seguinte ao da sua cobrança.
+6 - O imposto de comércio e indústria relativo a 1979, cobrado pelos municípios, reverte para o Estado, devendo dar entrada nos cofres públicos até ao fim do mês seguinte ao da sua cobrança, com excepção do cobrado no período de 1 a 21 de Dezembro de 1979, cuja entrega nos referidos cofres se efectuará até ao dia 31 desse mês.
 
 7 - O Ministro da Administração Interna publicará, por despacho, as disposições necessárias à execução deste artigo, bem como a discriminação por empreendimentos do mapa anexo n.º 5 referido no n.º 3.
+
+> Alterado pelo/a [Decreto-Lei n.º 463-A/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/463-a-1979-254430), publicado em 1979-11-30.
 
 ###### Artigo 16.º — (Dotações para encargos com reclusos)
 

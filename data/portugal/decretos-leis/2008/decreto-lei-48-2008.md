@@ -42,10 +42,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2010-03-30'
+version_history:
+  file: decreto-lei-48-2008.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2008-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-03-30'
+    amending: pt:dre:601678:por
+    amending_title: Decreto-Lei n.º 31/2009; Decreto-Lei n.º 25/2010
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 1.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/dec-lei/48/2008/03/13/p/dre/pt/html
@@ -71,7 +86,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T03:05:55Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 31/2009; Decreto-Lei
+    n.º 25/2010. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/2008/decreto-lei-48-2008.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -148,11 +164,17 @@ Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo
 
 A contratação de empreitadas de obras públicas e aquisição ou locação de bens ou serviços, sob qualquer regime, cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior aos limiares previstos para aplicação das directivas comunitárias sobre contratação pública podem realizar-se, até 31 de Dezembro de 2008, com recurso aos procedimentos por negociação, consulta prévia ou ajuste directo, quando efectuadas:
 
-a) Pelas administrações regionais de saúde, I. P., e visem a instalação das unidades de saúde familiar ou outros projectos que se insiram no processo de instalação ou de requalificação dos cuidados de saúde primários, dos serviços de urgência básica e dos serviços de saúde que se integrem na Rede Nacional de Cuidados Continuados Integrados;
+a) Pelas administrações regionais de saúde, I. P., e visem a instalação das unidades de saúde familiar ou outros projectos que se insiram no processo de instalação ou de requalificação dos cuidados de saúde primários e dos serviços de saúde que se integrem na Rede Nacional de Cuidados Continuados Integrados;
 
-b) Pelos hospitais do Serviço Nacional de Saúde e visem a requalificação dos serviços de urgência básica, médico-cirúrgica e polivalente;
+b) (Revogada.)
 
-c) Pelo Instituto Nacional de Emergência Médica, I. P., e visem o reforço dos meios de socorro pré-hospitalar.
+c) (Revogada.)
+
+d) Pelas entidades constantes do n.º 2 do artigo 2.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro, quando as mesmas se encontrem em regime de colaboração com a Rede Nacional de Cuidados Continuados Integrados e os seus financiamentos sejam executados em regime de comparticipação com a referida Rede.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2009-601678), publicado em 2009-02-04.
+
+> Alterado pelo/a [Decreto-Lei n.º 25/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2010-612642), publicado em 2010-03-29.
 
 ###### Artigo 2.º — Produção de efeitos
 

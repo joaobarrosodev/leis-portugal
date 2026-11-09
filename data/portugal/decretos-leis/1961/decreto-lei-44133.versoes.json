@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:178853:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1961-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "f12023485d2e95b5"
+   ]
+  },
+  {
+   "date": "1971-11-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:631389:por",
+     "title": "Decreto-Lei n.º 472/71",
+     "published": "1971-11-06",
+     "dre_path": "/dr/detalhe/decreto-lei/472-1971-631389"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "1d622637054271e6",
+    "aa38c4afbd8c70cb",
+    "a571d852a36b72e2"
+   ]
+  }
+ ],
+ "fragments": {
+  "f12023485d2e95b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando a conveniência de assegurar o bom funcionamento do serviço de saúde e da inspecção administrativa da Polícia de Segurança Pública, o que só é possível desde que se garanta a continuidade dos oficiais no exercício das suas funções;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\nArtigo 1.º Os lugares de chefe do serviço de saúde da Polícia de Segurança Pública e de oficiais médicos dos comandos de Lisboa e Porto, a que se referem os artigos 1.º e 2.º do [Decreto-Lei n.º 42942](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42942-1960-281470), de 25 de Abril de 1960, poderão ser desempenhados, em comissão, por oficiais das seguintes patentes:\n\nChefe do serviço de saúde: major ou tenente-coronel;\n\nComandos de Lisboa e Porto: capitão ou major;\n\nComando de Coimbra: tenente ou capitão.\n\n§ único. Os vencimentos inerentes a estes cargos são os já fixados no § 2.º do artigo 2.º do mencionado diploma.\n\nArt. 2.º O cargo de inspector do Comando-Geral da Polícia de Segurança Pública será desempenhado por um major ou tenente-coronel do serviço de administração militar.\n\n§ único. Os vencimentos atribuídos a este cargo são os consignados no artigo 1.º do [Decreto-Lei n.º 42364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42364-1959-433002), de 4 de Julho de 1959.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 30 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "1d622637054271e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando a conveniência de assegurar o bom funcionamento do serviço de saúde e da inspecção administrativa da Polícia de Segurança Pública, o que só é possível desde que se garanta a continuidade dos oficiais no exercício das suas funções;\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "aa38c4afbd8c70cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1971-11-06",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 472/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1971-631389), publicado em 1971-11-06."
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs lugares de chefe do serviço de saúde da Polícia de Segurança Pública e de inspector do serviço de saúde dos Comandos de Lisboa, Porto e Coimbra, a que se referem os artigos 1.º e 2.º do [Decreto-Lei n.º 42942](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42942-1960-281470), de 25 de Abril de 1960, poderão ser desempenhados, em comissão, por oficiais médicos do Exército, do activo ou da reserva, das seguintes patentes:\n\nChefe do serviço de saúde: tenente-coronel ou coronel;\n\nInspectores do serviço de saúde de Lisboa, Porto e Coimbra: capitão ou major.\n\n§ único. Os vencimentos destes cargos são os fixados no artigo 1.º do [Decreto-Lei n.º 49477](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49477-1969-213061), de 30 de Dezembro de 1969.\n\n> Alterado pelo/a [Decreto-Lei n.º 472/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1971-631389), publicado em 1971-11-06."
+  },
+  "a571d852a36b72e2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO cargo de inspector do Comando-Geral da Polícia de Segurança Pública será desempenhado por um major ou tenente-coronel do serviço de administração militar.\n\n§ único. Os vencimentos atribuídos a este cargo são os consignados no artigo 1.º do [Decreto-Lei n.º 42364](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42364-1959-433002), de 4 de Julho de 1959.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 30 de Dezembro de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

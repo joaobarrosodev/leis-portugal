@@ -29,10 +29,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1971-02-20'
+version_history:
+  file: decreto-lei-46348.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1965-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1971-02-20'
+    amending: pt:dre:216350:por
+    amending_title: Decreto-Lei n.º 49458; Decreto-Lei n.º 47/71
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +73,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T21:53:23Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49458; Decreto-Lei
+    n.º 47/71. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1965/decreto-lei-46348.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -138,9 +154,13 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º A Junta Nacional da Educação é um órgão técnico e consultivo que funciona junto do Ministro da Educação Nacional e tem por fim estudar problemas relativos ao ensino e à educação e sobre eles emitir parecer.
+###### Artigo 1.º
 
-Art. 2.º A Junta é constituída pelo Conselho Permanente da Acção Educativa e pelas seguintes secções:
+A Junta Nacional da Educação é um órgão técnico e consultivo que funciona junto do Ministro da Educação Nacional e tem por fim estudar problemas relativos ao ensino e à educação e sobre eles emitir parecer.
+
+###### Artigo 2.º
+
+A Junta é constituída pelo Conselho Permanente da Acção Educativa e pelas seguintes secções:
 
 1.ª Ensino superior;
 
@@ -178,21 +198,41 @@ Art. 2.º A Junta é constituída pelo Conselho Permanente da Acção Educativa 
 
 3.ª Ensino comercial.
 
-Art. 3.º A Junta tem um presidente, um vice-presidente e os demais membros indicados no respectivo regimento.
+###### Artigo 3.º
 
-§ 1.º O presidente é nomeado pelo Ministro de entre pessoas que tenham dado relevantes provas de interesse pelos problemas da educação nacional, podendo, quando professor, ser dispensado do exercício das funções docentes.
+A Junta tem um presidente, um vice-presidente e os demais membros indicados no respectivo Regimento.
 
-§ 2.º O vice-presidente é o secretário-geral do Ministério, cabendo-lhe substituir o presidente nas suas faltas ou impedimentos.
+§ 1.º O presidente é nomeado por despacho conjunto do Presidente do Conselho e do Ministro de entre pessoas que tenham dado relevantes provas de interesse pelos problemas da educação nacional, podendo, quando professor, ser dispensado do exercício das funções docentes.
 
-§ 3.º Os restantes membros, à excepção dos que tenham essa qualidade por inerência a outros cargos, são nomeados pelo Ministro de entre pessoas de reconhecida competência.
+§ 2.º Se a escolha recair em funcionário dos serviços centrais do Ministério da Educação Nacional, a nomeação implicará dispensa total do serviço no quadro a que pertencer.
 
-§ 4.º As nomeações são feitas, em princípio, por três anos e renováveis por iguais períodos, mas o Ministro pode, em qualquer momento, substituir as pessoas nomeadas.
+§ 3.º O presidente da Junta Nacional da Educação tem a categoria de director-geral, de harmonia com o quadro anexo ao presente decreto-lei, e precede em hierarquia os demais funcionários do Ministério.
 
-§ 5.º As nomeações para vacaturas que ocorrerem no decurso do triénio entendem-se feitas até ao termo deste.
+§ 4.º O vice-presidente é o secretário-geral do Ministério, cabendo-lhe substituir o presidente nas suas faltas ou impedimentos.
 
-Art. 4.º O Conselho Permanente da Acção Educativa é constituído pelo presidente da Junta, pelos presidentes das secções desta e pelo inspector superior do Ensino Particular.
+§ 5.º Os restantes membros, com excepção dos que tenham essa qualidade por inerência a outros cargos, são nomeados pelo Ministro de entre pessoas de reconhecida competência, sendo em todos os casos a aceitação da nomeação obrigatória quando se trate de professores ou outros funcionários dependentes do Ministério da Educação Nacional.
 
-Art. 5.º As secções são presididas:
+§ 6.º A nomeação do presidente da Junta será feita por um período de três anos, ao fim do qual poderá tornar-se definitiva por despacho do Ministro da Educação Nacional, mas em casos justificados poderá revestir logo de início carácter definitivo; as nomeações dos demais membros são feitas por três anos e renováveis por iguais períodos, mas o Ministro pode em qualquer momento substituir as pessoas nomeadas.
+
+§ 7.º Se o presidente for funcionário dos quadros do Ministério, abrirá vaga no respectivo quadro, a qual será provida interinamente enquanto a nomeação para a presidência da Junta se não converter em definitiva.
+
+§ 8.º As nomeações para vacaturas que ocorrerem no decurso do triénio entendem-se feitas até ao termo deste.
+
+> Alterado pelo/a [Decreto-Lei n.º 47/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-1971-446892), publicado em 1971-02-20.
+
+###### Artigo 4.º
+
+O Conselho Permanente da Acção Educativa é constituído pelo presidente da Junta Nacional da Educação, pelos presidentes das secções desta, pelo presidente da direcção do Gabinete de Estudos e Planeamento da Acção Educativa, pelo presidente da direcção do Instituto de Meios Áudio-Visuais de Educação, pelo inspector superior do Ensino Particular e por outras personalidades, até ao limite de dez, com serviços relevantes prestados à educação nacional e nomeadas pelo Ministro.
+
+§ 1.º Quando as personalidades referidas na parte final do artigo 4.º façam parte dos quadros do Ministério da Educação Nacional, poderão ser dispensadas do serviço no quadro a que pertencem, continuando, no entanto, a ser abonadas pelas dotações do mesmo quadro.
+
+§ 2.º No caso da dispensa de serviço a que se refere o parágrafo anterior, poderá o Ministro nomear para o lugar funcionário de outro quadro, que continuará a ser abonado pelas dotações do seu quadro de origem, acrescendo uma gratificação mensal a fixar em portaria dos Ministros das Finanças e da Educação Nacional.
+
+> Alterado pelo/a [Decreto-Lei n.º 49458](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49458-1969-216350), publicado em 1969-12-24.
+
+###### Artigo 5.º
+
+As secções são presididas:
 
 a) A 1.ª, a 2.ª e a 3.º pelo director-geral do Ensino Superior e das Belas-Artes;
 
@@ -206,9 +246,13 @@ e) A 7.ª pelo director-geral da Educação Física, Desportos e Saúde Escolar;
 
 f) A 8.ª por pessoa nomeada pelo Ministro.
 
-Art. 6.º Com autorização do Ministro podem ser agregadas temporàriamente ao Conselho Permanente da Acção Educativa ou a qualquer das secções ou subsecções, como vogais extraordinários, individualidades de especial competência nos assuntos a tratar, as quais terão direito de voto nesses assuntos.
+###### Artigo 6.º
 
-Art. 7.º Compete à Junta Nacional da Educação pronunciar-se sobre os assuntos que lhe sejam apresentados por determinação ministerial ou em cumprimento de disposição de lei, dentro da finalidade geral expressa no artigo 1.º
+Com autorização do Ministro podem ser agregadas temporàriamente ao Conselho Permanente da Acção Educativa ou a qualquer das secções ou subsecções, como vogais extraordinários, individualidades de especial competência nos assuntos a tratar, as quais terão direito de voto nesses assuntos.
+
+###### Artigo 7.º
+
+Compete à Junta Nacional da Educação pronunciar-se sobre os assuntos que lhe sejam apresentados por determinação ministerial ou em cumprimento de disposição de lei, dentro da finalidade geral expressa no artigo 1.º
 
 § 1.º As consultas feitas à Junta podem dizer respeito tanto a decisões a tomar segundo a legislação vigente como à modificação desta.
 
@@ -216,29 +260,49 @@ Art. 7.º Compete à Junta Nacional da Educação pronunciar-se sobre os assunto
 
 § 3.º A Junta pode por sua iniciativa, independentemente de determinação ministerial ou legal, formular propostas ou sugestões sobre quaisquer problemas relativos à educação nacional.
 
-Art. 8.º O Conselho Permanente da Acção Educativa é o órgão central da Junta e, dentro de uma função coordenadora e consultiva, compete-lhe especialmente assegurar, através da hierarquia, a unidade e continuidade de acção do Ministério e emitir parecer sobre determinados assuntos.
+###### Artigo 8.º
 
-Art. 9.º O Conselho, as secções e as subsecções têm as atribuições fixadas no regimento da Junta.
+O Conselho Permanente da Acção Educativa é o órgão central da Junta e, dentro de uma função coordenadora e consultiva, compete-lhe especialmente assegurar, através da hierarquia, a unidade e continuidade de acção do Ministério e emitir parecer sobre determinados assuntos.
 
-Art. 10.º A Junta funciona em sessões plenárias, em sessões do Conselho e em sessões de secções ou subsecções.
+###### Artigo 9.º
 
-Art. 11.º O Ministro pode, sempre que o julgue conveniente, comparecer às sessões plenárias, às do Conselho ou às das secções ou subsecções, e nesses caso assumirá a presidência.
+O Conselho, as secções e as subsecções têm as atribuições fixadas no regimento da Junta.
 
-Art. 12.º Os pareceres da Junta emitidos em sessão plenária ou do Conselho serão submetidos a despacho do Ministro pelo presidente ou vice-presidente da Junta e os restantes pelo presidente da respectiva secção.
+###### Artigo 10.º
 
-Art. 13.º A 2.ª secção poderá ter delegados permanentes nos concelhos, escolhidos de entre pessoas de reconhecida competência que se prestem a auxiliá-la no desempenho das suas atribuições.
+A Junta funciona em sessões plenárias, em sessões do Conselho e em sessões de secções ou subsecções.
+
+###### Artigo 11.º
+
+O Ministro pode, sempre que o julgue conveniente, comparecer às sessões plenárias, às do Conselho ou às das secções ou subsecções, e nesses caso assumirá a presidência.
+
+###### Artigo 12.º
+
+Os pareceres da Junta emitidos em sessão plenária ou do Conselho serão submetidos a despacho do Ministro pelo presidente ou vice-presidente da Junta e os restantes pelo presidente da respectiva secção.
+
+###### Artigo 13.º
+
+A 2.ª secção poderá ter delegados permanentes nos concelhos, escolhidos de entre pessoas de reconhecida competência que se prestem a auxiliá-la no desempenho das suas atribuições.
 
 § 1.º Os delegados concelhios serão nomeados pelo Ministro, ouvida a secção.
 
 § 2.º Os directores dos museus de arte, história ou arqueologia pertencentes ao Ministério da Educação Nacional são delegados natos da secção.
 
-Art. 14.º O serviço prestado pelos membros, pelos agregados e pelos delegados da Junta que forem funcionários públicos considera-se, para todos os efeitos legais, como exercício do cargo de que são titulares.
+###### Artigo 14.º
 
-Art. 15.º Aos membros, aos agregados e aos delegados da Junta que em serviço dela se ausentarem do lugar da sua residência serão abonadas despesas de transporte, bem como ajudas de custo, cuja importância será fixada pelos Ministros das Finanças e da Educação Nacional.
+O serviço prestado pelos membros, pelos agregados e pelos delegados da Junta que forem funcionários públicos considera-se, para todos os efeitos legais, como exercício do cargo de que são titulares.
 
-Art. 16.º Ficam revogadas as disposições do [Decreto-Lei n.º 26111](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26111-1935-538229), de 19 de Maio de 1936, relativas à Junta Nacional da Educação.
+###### Artigo 15.º
 
-Art. 17.º Em harmonia com os preceitos deste diploma, o Ministro da Educação Nacional publicará o Regimento da Junta Nacional da Educação.
+Aos membros, aos agregados e aos delegados da Junta que em serviço dela se ausentarem do lugar da sua residência serão abonadas despesas de transporte, bem como ajudas de custo, cuja importância será fixada pelos Ministros das Finanças e da Educação Nacional.
+
+###### Artigo 16.º
+
+Ficam revogadas as disposições do [Decreto-Lei n.º 26111](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26111-1935-538229), de 19 de Maio de 1936, relativas à Junta Nacional da Educação.
+
+###### Artigo 17.º
+
+Em harmonia com os preceitos deste diploma, o Ministro da Educação Nacional publicará o Regimento da Junta Nacional da Educação.
 
 Publique-se e cumpra-se como nele se contém.
 

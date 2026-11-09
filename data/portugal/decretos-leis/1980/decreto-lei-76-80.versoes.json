@@ -1,0 +1,119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:681997:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1980-04-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6f108233bf7f4779"
+   ]
+  },
+  {
+   "date": "1982-05-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:392838:por",
+     "title": "Decreto-Lei n.º 156/82",
+     "published": "1982-05-06",
+     "dre_path": "/dr/detalhe/decreto-lei/156-1982-392838"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "a9b062a0f6ef11a9",
+    "2717871b76604816",
+    "82f76772fc21e110",
+    "bda4917d307da67e",
+    "6f9903b46e2ed902",
+    "d5e3be1d516a7a4e",
+    "cfc1eced7a9267dc",
+    "3f0738dddc55040a"
+   ]
+  }
+ ],
+ "fragments": {
+  "6f108233bf7f4779": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Abril\n\nA carência de instalações escolares que se faz sentir no País, em especial nas zonas de grande densidade populacional, aconselha que seja criado um programa especial de execução de escolas preparatórias e secundárias visando a construção e apetrechamento, a curto prazo, de empreendimentos escolares desses graus de ensino.\n\nA efectivação desse programa exige que sejam tomadas medidas de excepção tendentes à simplificação das formalidades exigidas por lei para a adjudicação das empreitadas e fornecimentos que tenham como objecto a construção e apetrechamento dos empreendimentos escolares que o integram.\n\nDeste modo:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo 1.º É criado o Programa Especial de Execução de Escolas Preparatórias e Secundárias, adiante designado por Programa.\n\nArt. 2.º A inclusão no Programa dos empreendimentos escolares cujo grau de prioridade aconselhe a adopção das medidas de carácter excepcional contidas no presente diploma é feita por despacho conjunto dos Ministros da Educação e Ciência e da Habitação e Obras Públicas.\n\nArt. 3.º A execução do Programa cabe ao Ministério da Habitação e Obras Públicas, através da Direcção-Geral das Construções Escolares, com verbas do seu orçamento.\n\nArt. 4.º As despesas com obras e aquisição de bens, destinadas à execução do Programa, poderão efectuar-se por ajuste directo, independentemente do seu valor.\n\nArt. 5.º É declarada a utilidade pública e urgência da expropriação dos terrenos destinados à execução do Programa e autorizada a sua posse administrativa imediata.\n\nArt. 6.º - 1 - É atribuída competência à Direcção-Geral das Construções Escolares para a construção de habitações quando da execução do Programa surja a necessidade de realojamento.\n\n2 - As disposições dos artigos 4.º e 5.º do presente diploma aplicam-se, respectivamente, às despesas com as obras e aquisições de bens e à aquisição dos terrenos destinados ao realojamento.\n\nArt. 7.º - 1 - O presente diploma entra imediatamente em vigor.\n\n2 - As suas disposições aplicam-se às despesas com obras e aquisição de bens efectuadas anteriormente à sua vigência, desde que as mesmas respeitem à realização de empreendimentos escolares que venham a ser integrados no Programa.\n\nVisto e aprovado em Conselho de Ministros de 20 de Março de 1980. - Francisco Sá Carneiro.\n\nPromulgado em 31 de Março de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "a9b062a0f6ef11a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de Abril\n\nA carência de instalações escolares que se faz sentir no País, em especial nas zonas de grande densidade populacional, aconselha que seja criado um programa especial de execução de escolas preparatórias e secundárias visando a construção e apetrechamento, a curto prazo, de empreendimentos escolares desses graus de ensino.\n\nA efectivação desse programa exige que sejam tomadas medidas de excepção tendentes à simplificação das formalidades exigidas por lei para a adjudicação das empreitadas e fornecimentos que tenham como objecto a construção e apetrechamento dos empreendimentos escolares que o integram.\n\nDeste modo:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "2717871b76604816": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado o Programa Especial de Execução de Escolas Preparatórias e Secundárias, adiante designado por Programa."
+  },
+  "82f76772fc21e110": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA inclusão no Programa dos empreendimentos escolares cujo grau de prioridade aconselhe a adopção das medidas de carácter excepcional contidas no presente diploma é feita por despacho conjunto dos Ministros da Educação e Ciência e da Habitação e Obras Públicas."
+  },
+  "bda4917d307da67e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1982-05-06",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 156/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1982-392838), publicado em 1982-05-06."
+   ],
+   "markdown": "###### Artigo 3.º\n\nA execução do Programa cabe aos Ministérios da Educação e das Universidades e da Habitação, Obras Públicas e Transportes através, respectivamente, das Direcções-Gerais do Equipamento Escolar e das Construções Escolares, com verbas dos orçamentos de ambos os Ministérios.\n\n> Alterado pelo/a [Decreto-Lei n.º 156/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-1982-392838), publicado em 1982-05-06."
+  },
+  "6f9903b46e2ed902": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs despesas com obras e aquisição de bens, destinadas à execução do Programa, poderão efectuar-se por ajuste directo, independentemente do seu valor."
+  },
+  "d5e3be1d516a7a4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nÉ declarada a utilidade pública e urgência da expropriação dos terrenos destinados à execução do Programa e autorizada a sua posse administrativa imediata."
+  },
+  "cfc1eced7a9267dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - É atribuída competência à Direcção-Geral das Construções Escolares para a construção de habitações quando da execução do Programa surja a necessidade de realojamento.\n\n2 - As disposições dos artigos 4.º e 5.º do presente diploma aplicam-se, respectivamente, às despesas com as obras e aquisições de bens e à aquisição dos terrenos destinados ao realojamento."
+  },
+  "3f0738dddc55040a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O presente diploma entra imediatamente em vigor.\n\n2 - As suas disposições aplicam-se às despesas com obras e aquisição de bens efectuadas anteriormente à sua vigência, desde que as mesmas respeitem à realização de empreendimentos escolares que venham a ser integrados no Programa.\n\nVisto e aprovado em Conselho de Ministros de 20 de Março de 1980. - Francisco Sá Carneiro.\n\nPromulgado em 31 de Março de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

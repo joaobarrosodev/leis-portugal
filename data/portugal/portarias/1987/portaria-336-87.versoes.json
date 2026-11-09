@@ -1,0 +1,438 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:665947:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1987-04-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e5158867133e98dc",
+    "e3b92b5d4962c54b"
+   ]
+  },
+  {
+   "date": "2008-09-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:453862:por",
+     "title": "Portaria n.º 1040/2008",
+     "published": "2008-09-15",
+     "dre_path": "/dr/detalhe/portaria/1040-2008-453862"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo ANEXO::23.º",
+    "Revoga Artigo ANEXO::24.º",
+    "Revoga Artigo ANEXO::25.º",
+    "Revoga Artigo ANEXO::26.º",
+    "Revoga Artigo ANEXO::27.º",
+    "Revoga Artigo ANEXO::28.º",
+    "Revoga Artigo ANEXO::29.º",
+    "Revoga Artigo ANEXO::30.º",
+    "Revoga Artigo ANEXO::31.º",
+    "Revoga Artigo ANEXO::32.º",
+    "Revoga Artigo ANEXO::33.º"
+   ],
+   "fragments": [
+    "e5158867133e98dc",
+    "8aafc9cf6fe9db81",
+    "402a0140ba8fc3e8",
+    "c300e149d0bc4378",
+    "9631675f82b1477e",
+    "a0436d3c680aca7b",
+    "aa1c58f17853959a",
+    "c05c2f09041a0e25",
+    "1fb5297dfabe1286",
+    "15de2798f8944a93",
+    "f0d329b809dbfeba",
+    "b25e46caef762742",
+    "b3865a3f668956c9",
+    "8aedd33ec709dece",
+    "70851070dd719fbb",
+    "3722a34cf5c163e7",
+    "c7e0fcaa5667230e",
+    "3d6cda684c840f62",
+    "f96749636fa2dca7",
+    "dc9f48820a9af41f",
+    "5d8d3b2576627656",
+    "ca3d55e18dcf8323",
+    "a22b16f16e755127",
+    "fbaca34596b8eba2",
+    "0f28f15166c64a95",
+    "572b45868260bba7",
+    "f965c8bbc5519c0e",
+    "cf6bbf53b182eac4",
+    "d6bd4713334b8dbf",
+    "354050e33f2052ff",
+    "f7d8bda250c36b04",
+    "33aea36e1cb4ba56",
+    "357d0df2702fcb5e",
+    "ffa76c52780c3fe8",
+    "02298d7f0be6fcf6",
+    "f2a56fb2693230f8",
+    "d4fd5b22f23b2531",
+    "e87b6953182df63e",
+    "e0b249c62809ffae",
+    "8714f0f041656892"
+   ]
+  }
+ ],
+ "fragments": {
+  "e5158867133e98dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 24 de Abril\n\nConsiderando que o actual Regulamento de Uniformes para Uso do Pessoal Civil do Instituto de Socorros a Náufragos e do Pessoal de Assistência aos Banhistas nas Praias, aprovado e posto em execução pela [Portaria n.º 249/71](https://diariodarepublica.pt/dr/detalhe/portaria/249-1971-644480), de 11 de Maio, se encontra bastante desactualizado;\n\nTornando-se conveniente que todo o pessoal de assistência a banhistas seja perfeitamente identificável nas praias onde actua;\n\nVerificando-se a necessidade de atribuir uniforme aos condutores de viaturas do Instituto de Socorros a Náufragos;\n\nTendo em conta o estipulado no artigo 19.º do [Decreto n.º 137/71](https://diariodarepublica.pt/dr/detalhe/decreto/137-1971-445729), de 9 de Abril, mantido em vigor pelo n.º 2 do artigo 14.º do [Decreto-Lei n.º 349/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1985-181190), de 26 de Agosto, conjugado com o disposto na alínea e) do n.º 2 do artigo 44.º da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro:\n\nManda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o seguinte:\n\n1.º É aprovado o Regulamento de Uniformes do Pessoal Civil do Instituto de Socorros a Náufragos e do Pessoal de Assistência aos Banhistas nas Praias, anexo ao presente diploma.\n\n2.º Fica revogada a [Portaria n.º 249/71](https://diariodarepublica.pt/dr/detalhe/portaria/249-1971-644480), de 11 de Maio.\n\nMinistério da Defesa Nacional.\n\nAssinada em 31 de Março de 1987.\n\nO Ministro da Defesa Nacional, Leonardo Eugénio Ramos Ribeiro de Almeida."
+  },
+  "e3b92b5d4962c54b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nRegulamento de Uniformes do Pessoal Civil do Instituto de Socorros a Náufragos e do Pessoal de Assistência aos Banhistas nas Praias.\n\nArtigo 1.º Os artigos de uniforme do pessoal civil do Instituto de Socorros a Náufragos (ISN) compreendem:\n\n1) Artigos distribuídos ao pessoal que constitui as tripulações dos salva-vidas;\n\n2) Artigos atribuídos às estações salva-vidas para utilização do pessoal durante a execução de serviços que o recomendem;\n\n3) Artigos distribuídos aos condutores de viaturas;\n\n4) Artigos distribuídos aos monitores de nadador-salvador.\n\nArt. 2.º - 1 - Os artigos de uniforme do pessoal de assistência aos banhistas (vigias e nadadores-salvadores) devem ser adquiridos pelos concessionários das respectivas praias.\n\n2 - Quando os concessionários referidos no n.º 1 estejam no primeiro ano de actividade e disponham de fracos recursos económicos, ambos os factos comprovados pela competente capitania do porto, poderá o Chefe do Estado-Maior da Armada autorizar o fornecimento gratuito dos artigos de uniforme do pessoal de assistência aos banhistas, mediante proposta do ISN, através da Direcção-Geral de Marinha.\n\nArt. 3.º Os nadadores-salvadores e os monitores de nadadores-salvadores que não sejam pessoal do ISN nem estejam contratados por qualquer entidade chamam-se voluntários e devem, por razões de rápida identificação, o que tem a ver directamente com a segurança dos banhistas, usar artigos de uniforme iguais aos descritos neste Regulamento.\n\nArt. 4.º O uso de uniformes, nas composições indicadas no presente Regulamento, é obrigatório durante as horas de serviço.\n\nArt. 5.º - 1 - Os uniformes do pessoal a que alude o n.º 1) do artigo 1.º são constituídos de acordo com a tabela I anexa ao presente Regulamento.\n\n2 - A descrição dos artigos que compõem estes uniformes é a indicada nos artigos 6.º a 14.º\n\nArt. 6.º O boné azul é de terylene azul-naval, com pala, tendo inscrita na parte frontal a sigla ISN em cor branca.\n\nArt. 7.º - 1 - O boné branco é idêntico na forma ao usado pelos sargentos da Armada.\n\n2 - Os botões de metal que seguram o francalete são do padrão n.º 2, conforme o modelo referido no artigo 8.º\n\n3 - O emblema do boné, bordado a fio de algodão perlé, é constituído (fig. 1) por uma faixa branca oblíqua com a largura de 0,008 m assente sobre um fundo de cor vermelha e contendo as iniciais ISN a vermelho, com 0,005 m de altura, tudo dentro de uma elipse, com as dimensões de 0,0035 m por 0,025 m, formada por duas serrilhas de ouro.\n\n4 - A elipse referida no número anterior é encimada por um escudo nacional assente sobre uma esfera armilar com 0,020 m de diâmetro, tudo bordado a ouro e com o fundo do escudo de prata.\n\nArt. 8.º Os botões de metal, a inserir quando indicado, são dourados, redondos e com as armas nacionais em relevo (fig. 2) e pertencem a dois padrões:\n\na) N.º 1, com 0,020 m de diâmetro;\n\nb) n.º 2, com 0,010 m de diâmetro.\n\nArt. 9.º As calcas azuis de passeio, as calcas brancas, a camisa branca de manga comprida, a camisa branca de manga curta, a capa branca para boné, a gravata preta e os sapatos pretos são idênticos aos usados pelos sargentos da Armada nos uniformes de passeio.\n\nArt. 10.º As calcas azuis, a camisa azul de manga comprida, a camisa azul de manga curta, a camisola de lã azul e as peúgas pretas são idênticas às usadas pelos militares da Armada nos uniformes de serviço interno.\n\nArt. 11.º O cinto azul e o cinto branco são idênticos aos usados pelas praças da Armada.\n\nArt. 12.º Os sapatos tipo ténis são idênticos aos sapatos de ginástica usados pelos militares da Armada.\n\nArt. 13.º - 1 - O jaquetão azul é do mesmo tecido e modelo usados pelos sargentos da Armada, mas os botões maiores são do padrão n.º 1 e os mais pequenos do padrão n.º 2.\n\n2 - Nas mangas direita e esquerda, na parte exterior, leva cosido, a 0,140 m do pregado das mangas, o distintivo da categoria do pessoal.\n\nArt. 14.º As passadeiras são de modelo idêntico ao usado pelos sargentos da Armada, guarnecidas cada uma com o distintivo da categoria do pessoal, deixando livros, nas extremidades das passadeiras viradas para a gola e para o ombro, uma margem de 0,004 m.\n\nArt. 15.º Os distintivos das categorias do pessoal são os que constam, em tamanho natural, da figura 3 e são bordados com fio de algodão perlé de cor vermelha cochonilha, para serem usados:\n\na) Na manga do jaquetão, sobre uma elipse de pano azul-ferrete, com 0,060 m de altura por 0,055 m de largura;\n\nb) Nas passadeiras, sobre fundo de pano azul-ferrete;\n\nc) Na manga das camisolas, para os nadadores-salvadores em serviço nas praias de banho, sobre uma elipse de algodão e terylene branco, com 0,060 m de altura por 0,055 m de largura, pregada com molas brancas.\n\nArt. 16.º Os artigos de uniforme a que se refere o n.º 2) do artigo 1.º são os seguintes:\n\n1) Capote de abafo;\n\n2) Blusão impermeável e calça impermeável.\n\nArt. 17.º Os artigos de uniforme mencionados no artigo 16.º são idênticos aos utilizados pelos militares da Armada.\n\nArt. 18.º - 1 - Os uniformes do pessoal a que alude o n.º 3) do artigo 1.º são constituídos de acordo com a tabela II anexa ao presente Regulamento.\n\n2 - A descrição dos artigos que compõem estes uniformes é indicada nos artigos 19.º a 22.º\n\nArt. 19.º O boné branco, as calças azuis de passeio, a camisa branca de manga comprida, a camisa branca de manga curta, o cinto branco, a gravata preta, as peúgas pretas sapatos pretos são iguais aos utilizados pelas tripulações dos salva-vidas.\n\nArt. 20.º - 1 - O jaquetão é do mesmo tecido e modelo usados pelos sargentos da Armada, mas os botões maiores são do padrão n.º 1 e os mais pequenos do padrão n.º 2.\n\n2 - Nas mangas direita e esquerda, na parte exterior, leva cosido, a 0,140 m do pregado das mangas, o distintivo da categoria do pessoal.\n\nArt. 21.º As passadeiras são de modelo idêntico ao usado pelos sargentos da Armada, guarnecidas cada uma com o distintivo da categoria do pessoal, deixando livres, nas extremidades das passadeiras viradas para a gola e para o ombro, uma margem de 0,004 m.\n\nArt. 22.º Os distintivos dos condutores de viaturas são os que constam, em tamanho natural, na figura 4, são bordados com fio de algodão perlé de cor vermelha cochonilha e são usados nas mangas do jaquetão, a 0,140 m do pregado, sobre uma elipse de pano azul-ferrete, com 0,060 m de altura por 0,055 m de largura, e nas passadeiras sobre fundo de azul-ferrete.\n\nArt. 23.º - 1 - Os uniformes do pessoal a que alude o n.º 4) do artigo 1.º são constituídos por:\n\na) Calções de banho;\n\nb) Camisola de algodão;\n\nc) Fato de treino (facultativo);\n\nd) Boné de monitor de nadador-salvador.\n\n2 - A descrição dos artigos que compõem estes uniformes é a indicada nos artigos 24.º a 27.º\n\nArt. 24.º Os calções de banho são de cor vermelha, com uma lista branca de cada lado, e levam a palavra «monitor» estampada a preto sobre cada uma das faixas laterais brancas.\n\nArt. 25.º - 1 - A camisola de algodão é de malha de algodão branco, decotada e com manga até 0,025 m acima da curva do cotovelo.\n\n2 - Na parte exterior das mangas é estampado o distintivo de monitor de nadador-salvador.\n\n3 - A frente da camisola leva as palavras «assistência nas praias» estampadas a preto, com letras de 0,035 m de altura rodeando o desenho de uma bóia atravessada por âncoras cruzadas (fig. 4).\n\nArt. 26.º O fato de treino é de tecido e cor vermelha.\n\nArt. 27.º O boné de monitor de nadador-salvador é de terylene de cor vermelha, com pala, tendo inscrita na parte frontal a sigla ISN em cor branca.\n\nArt. 28.º Os uniformes do pessoal a que alude o n.º 1 do artigo 2.º têm uma composição idêntica à referida no n.º 1 do artigo 23.º, com as particularidades constantes dos artigos 29.º a 32.º\n\nArt. 29.º Os calções de banho dos nadadores-salvadores levam as palavras «nadador-salvador» estampadas a preto sobre cada uma das faixas laterais brancas.\n\nArt. 30.º Os calções de banho dos vigias levam a palavra «vigia» estampada a preto sobre cada uma das faixas laterais brancas.\n\nArt. 31.º Na camisola de algodão dos nadadores-salvadores é estampado o distintivo de nadador-salvador na parte exterior das mangas.\n\nArt. 32.º Na camisola de algodão dos vigias não é aplicado qualquer distintivo.\n\nArt. 33.º O boné de nadador-salvador é igual ao de monitor e ao de vigia.\n\nArt. 34.º As quantidades a distribuir e os prazos de duração dos artigos de uniforme do pessoal civil são fixados pelo director do ISN de acordo com a qualidade dos materiais de confecção e o serviço em que são usados, tendo em atenção o que se encontra estabelecido para artigos semelhantes relativamente aos militares da Armada.\n\nArt. 35.º - 1 - O pessoal civil deverá apresentar-se ao serviço rigorosamente uniformizado, de acordo com o presente Regulamento, substituindo os artigos de uniforme visivelmente deteriorados antes do respectivo prazo de duração, mediante indemnização ao ISN no valor proporcional do tempo que ainda falte para completar esse prazo.\n\n2 - Serão substituídos por conta do ISN os artigos de uniforme deteriorados, desde que se verifique não ter havido negligência por parte dos utilizadores.\n\nArt. 36.º - 1 - O pessoal civil do ISN que por qualquer motivo deixe de prestar serviço é obrigado a entregar os artigos de uniforme que lhe foram distribuídos.\n\n2 - Caso os artigos de uniforme do pessoal civil do ISN sejam entregues em mau estado relativamente ao prazo de duração ou sejam extraviados, será exigível uma indemnização calculada em termos semelhantes ao estipulado no n.º 1 do artigo 35.º\n\nArt. 37.º Os capitães dos portos são responsáveis pelo cumprimento deste Regulamento relativamente ao pessoal situado na sua dependência ou jurisdição, designadamente pela fiscalização do uso correcto dos uniformes, estado de conservação e asseio dos artigos.\n\nArt. 38.º - 1 - Os patrões dos salva-vidas respondem pelos artigos atribuídos às estações salva-vidas.\n\n2 - Sempre que se verificar desvio, inutilização ou danificação injustificada de qualquer dos artigos confiados, os patrões dos salva-vidas devem entregar na capitania do porto competente a respectiva participação de ocorrência para averiguação de eventual culpabilidade do pessoal.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09500/16421646.pdf)"
+  },
+  "8aafc9cf6fe9db81": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nRegulamento de Uniformes do Pessoal Civil do Instituto de Socorros a Náufragos e do Pessoal de Assistência aos Banhistas nas Praias."
+  },
+  "402a0140ba8fc3e8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs artigos de uniforme do pessoal civil do Instituto de Socorros a Náufragos (ISN) compreendem:\n\n1) Artigos distribuídos ao pessoal que constitui as tripulações dos salva-vidas;\n\n2) Artigos atribuídos às estações salva-vidas para utilização do pessoal durante a execução de serviços que o recomendem;\n\n3) Artigos distribuídos aos condutores de viaturas;\n\n4) Artigos distribuídos aos monitores de nadador-salvador."
+  },
+  "c300e149d0bc4378": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Os artigos de uniforme do pessoal de assistência aos banhistas (vigias e nadadores-salvadores) devem ser adquiridos pelos concessionários das respectivas praias.\n\n2 - Quando os concessionários referidos no n.º 1 estejam no primeiro ano de actividade e disponham de fracos recursos económicos, ambos os factos comprovados pela competente capitania do porto, poderá o Chefe do Estado-Maior da Armada autorizar o fornecimento gratuito dos artigos de uniforme do pessoal de assistência aos banhistas, mediante proposta do ISN, através da Direcção-Geral de Marinha."
+  },
+  "9631675f82b1477e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs nadadores-salvadores e os monitores de nadadores-salvadores que não sejam pessoal do ISN nem estejam contratados por qualquer entidade chamam-se voluntários e devem, por razões de rápida identificação, o que tem a ver directamente com a segurança dos banhistas, usar artigos de uniforme iguais aos descritos neste Regulamento."
+  },
+  "a0436d3c680aca7b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO uso de uniformes, nas composições indicadas no presente Regulamento, é obrigatório durante as horas de serviço."
+  },
+  "aa1c58f17853959a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Os uniformes do pessoal a que alude o n.º 1) do artigo 1.º são constituídos de acordo com a tabela I anexa ao presente Regulamento.\n\n2 - A descrição dos artigos que compõem estes uniformes é a indicada nos artigos 6.º a 14.º"
+  },
+  "c05c2f09041a0e25": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO boné azul é de terylene azul-naval, com pala, tendo inscrita na parte frontal a sigla ISN em cor branca."
+  },
+  "1fb5297dfabe1286": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O boné branco é idêntico na forma ao usado pelos sargentos da Armada.\n\n2 - Os botões de metal que seguram o francalete são do padrão n.º 2, conforme o modelo referido no artigo 8.º\n\n3 - O emblema do boné, bordado a fio de algodão perlé, é constituído (fig. 1) por uma faixa branca oblíqua com a largura de 0,008 m assente sobre um fundo de cor vermelha e contendo as iniciais ISN a vermelho, com 0,005 m de altura, tudo dentro de uma elipse, com as dimensões de 0,0035 m por 0,025 m, formada por duas serrilhas de ouro.\n\n4 - A elipse referida no número anterior é encimada por um escudo nacional assente sobre uma esfera armilar com 0,020 m de diâmetro, tudo bordado a ouro e com o fundo do escudo de prata."
+  },
+  "15de2798f8944a93": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs botões de metal, a inserir quando indicado, são dourados, redondos e com as armas nacionais em relevo (fig. 2) e pertencem a dois padrões:\n\na) N.º 1, com 0,020 m de diâmetro;\n\nb) n.º 2, com 0,010 m de diâmetro."
+  },
+  "f0d329b809dbfeba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs calcas azuis de passeio, as calcas brancas, a camisa branca de manga comprida, a camisa branca de manga curta, a capa branca para boné, a gravata preta e os sapatos pretos são idênticos aos usados pelos sargentos da Armada nos uniformes de passeio."
+  },
+  "b25e46caef762742": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs calcas azuis, a camisa azul de manga comprida, a camisa azul de manga curta, a camisola de lã azul e as peúgas pretas são idênticas às usadas pelos militares da Armada nos uniformes de serviço interno."
+  },
+  "b3865a3f668956c9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO cinto azul e o cinto branco são idênticos aos usados pelas praças da Armada."
+  },
+  "8aedd33ec709dece": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs sapatos tipo ténis são idênticos aos sapatos de ginástica usados pelos militares da Armada."
+  },
+  "70851070dd719fbb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - O jaquetão azul é do mesmo tecido e modelo usados pelos sargentos da Armada, mas os botões maiores são do padrão n.º 1 e os mais pequenos do padrão n.º 2.\n\n2 - Nas mangas direita e esquerda, na parte exterior, leva cosido, a 0,140 m do pregado das mangas, o distintivo da categoria do pessoal."
+  },
+  "3722a34cf5c163e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs passadeiras são de modelo idêntico ao usado pelos sargentos da Armada, guarnecidas cada uma com o distintivo da categoria do pessoal, deixando livros, nas extremidades das passadeiras viradas para a gola e para o ombro, uma margem de 0,004 m."
+  },
+  "c7e0fcaa5667230e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs distintivos das categorias do pessoal são os que constam, em tamanho natural, da figura 3 e são bordados com fio de algodão perlé de cor vermelha cochonilha, para serem usados:\n\na) Na manga do jaquetão, sobre uma elipse de pano azul-ferrete, com 0,060 m de altura por 0,055 m de largura;\n\nb) Nas passadeiras, sobre fundo de pano azul-ferrete;\n\nc) Na manga das camisolas, para os nadadores-salvadores em serviço nas praias de banho, sobre uma elipse de algodão e terylene branco, com 0,060 m de altura por 0,055 m de largura, pregada com molas brancas."
+  },
+  "3d6cda684c840f62": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs artigos de uniforme a que se refere o n.º 2) do artigo 1.º são os seguintes:\n\n1) Capote de abafo;\n\n2) Blusão impermeável e calça impermeável."
+  },
+  "f96749636fa2dca7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs artigos de uniforme mencionados no artigo 16.º são idênticos aos utilizados pelos militares da Armada."
+  },
+  "dc9f48820a9af41f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - Os uniformes do pessoal a que alude o n.º 3) do artigo 1.º são constituídos de acordo com a tabela II anexa ao presente Regulamento.\n\n2 - A descrição dos artigos que compõem estes uniformes é indicada nos artigos 19.º a 22.º"
+  },
+  "5d8d3b2576627656": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO boné branco, as calças azuis de passeio, a camisa branca de manga comprida, a camisa branca de manga curta, o cinto branco, a gravata preta, as peúgas pretas sapatos pretos são iguais aos utilizados pelas tripulações dos salva-vidas."
+  },
+  "ca3d55e18dcf8323": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - O jaquetão é do mesmo tecido e modelo usados pelos sargentos da Armada, mas os botões maiores são do padrão n.º 1 e os mais pequenos do padrão n.º 2.\n\n2 - Nas mangas direita e esquerda, na parte exterior, leva cosido, a 0,140 m do pregado das mangas, o distintivo da categoria do pessoal."
+  },
+  "a22b16f16e755127": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nAs passadeiras são de modelo idêntico ao usado pelos sargentos da Armada, guarnecidas cada uma com o distintivo da categoria do pessoal, deixando livres, nas extremidades das passadeiras viradas para a gola e para o ombro, uma margem de 0,004 m."
+  },
+  "fbaca34596b8eba2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs distintivos dos condutores de viaturas são os que constam, em tamanho natural, na figura 4, são bordados com fio de algodão perlé de cor vermelha cochonilha e são usados nas mangas do jaquetão, a 0,140 m do pregado, sobre uma elipse de pano azul-ferrete, com 0,060 m de altura por 0,055 m de largura, e nas passadeiras sobre fundo de azul-ferrete."
+  },
+  "0f28f15166c64a95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": "2008-09-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+   ],
+   "markdown": "###### Artigo 23.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+  },
+  "572b45868260bba7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": "2008-09-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+   ],
+   "markdown": "###### Artigo 24.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+  },
+  "f965c8bbc5519c0e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": "2008-09-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+   ],
+   "markdown": "###### Artigo 25.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+  },
+  "cf6bbf53b182eac4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": "2008-09-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+   ],
+   "markdown": "###### Artigo 26.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+  },
+  "d6bd4713334b8dbf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": "2008-09-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+   ],
+   "markdown": "###### Artigo 27.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+  },
+  "354050e33f2052ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": "2008-09-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+   ],
+   "markdown": "###### Artigo 28.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+  },
+  "f7d8bda250c36b04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": "2008-09-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+   ],
+   "markdown": "###### Artigo 29.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+  },
+  "33aea36e1cb4ba56": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": "2008-09-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+   ],
+   "markdown": "###### Artigo 30.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+  },
+  "357d0df2702fcb5e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": "2008-09-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+   ],
+   "markdown": "###### Artigo 31.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+  },
+  "ffa76c52780c3fe8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": "2008-09-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+   ],
+   "markdown": "###### Artigo 32.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+  },
+  "02298d7f0be6fcf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": "2008-09-16",
+   "changed_by": [
+    "Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+   ],
+   "markdown": "###### Artigo 33.º\n\n(Revogado.)\n\n> Revogado pelo/a [Portaria n.º 1040/2008](https://diariodarepublica.pt/dr/detalhe/portaria/1040-2008-453862), publicado em 2008-09-15."
+  },
+  "f2a56fb2693230f8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nAs quantidades a distribuir e os prazos de duração dos artigos de uniforme do pessoal civil são fixados pelo director do ISN de acordo com a qualidade dos materiais de confecção e o serviço em que são usados, tendo em atenção o que se encontra estabelecido para artigos semelhantes relativamente aos militares da Armada."
+  },
+  "d4fd5b22f23b2531": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1 - O pessoal civil deverá apresentar-se ao serviço rigorosamente uniformizado, de acordo com o presente Regulamento, substituindo os artigos de uniforme visivelmente deteriorados antes do respectivo prazo de duração, mediante indemnização ao ISN no valor proporcional do tempo que ainda falte para completar esse prazo.\n\n2 - Serão substituídos por conta do ISN os artigos de uniforme deteriorados, desde que se verifique não ter havido negligência por parte dos utilizadores."
+  },
+  "e87b6953182df63e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1 - O pessoal civil do ISN que por qualquer motivo deixe de prestar serviço é obrigado a entregar os artigos de uniforme que lhe foram distribuídos.\n\n2 - Caso os artigos de uniforme do pessoal civil do ISN sejam entregues em mau estado relativamente ao prazo de duração ou sejam extraviados, será exigível uma indemnização calculada em termos semelhantes ao estipulado no n.º 1 do artigo 35.º"
+  },
+  "e0b249c62809ffae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nOs capitães dos portos são responsáveis pelo cumprimento deste Regulamento relativamente ao pessoal situado na sua dependência ou jurisdição, designadamente pela fiscalização do uso correcto dos uniformes, estado de conservação e asseio dos artigos."
+  },
+  "8714f0f041656892": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1 - Os patrões dos salva-vidas respondem pelos artigos atribuídos às estações salva-vidas.\n\n2 - Sempre que se verificar desvio, inutilização ou danificação injustificada de qualquer dos artigos confiados, os patrões dos salva-vidas devem entregar na capitania do porto competente a respectiva participação de ocorrência para averiguação de eventual culpabilidade do pessoal.\n\n[(ver documento original)](https://files.diariodarepublica.pt/1s/1987/04/09500/16421646.pdf)"
+  }
+ }
+}

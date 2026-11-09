@@ -1,0 +1,450 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:512248:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1965-11-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8bce83f425506eab",
+    "a9bff1064b0cfd15",
+    "c9f817affe7a7536",
+    "600546adf4bbadf6",
+    "7f3f1b0ff22ae11e"
+   ]
+  },
+  {
+   "date": "1967-04-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:310246:por",
+     "title": "Decreto-Lei n.º 47658",
+     "published": "1967-04-28",
+     "dre_path": "/dr/detalhe/decreto-lei/47658-1967-310246"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Adita Artigo 27.º",
+    "Adita Artigo 28.º",
+    "Adita Artigo 29.º",
+    "Adita Artigo 30.º",
+    "Adita Artigo 31.º",
+    "Adita Artigo 32.º"
+   ],
+   "fragments": [
+    "8bce83f425506eab",
+    "36d3ea42c729ff4f",
+    "c72bba691a648da0",
+    "780f465ea145685f",
+    "158f8c80fa8cf2d7",
+    "e1c2a659bca66a90",
+    "c1ae1de6d70e768b",
+    "46ec80e15d125d61",
+    "274355d3b774e0f2",
+    "c14955eb9f981d0b",
+    "af97b448c5503e9d",
+    "a6395cdf7a63dd85",
+    "8a7c234b08662747",
+    "fc71e702012768bf",
+    "54be56a5afe79e23",
+    "5604fb798bbb67ae",
+    "b59e324b9c9e98b2",
+    "0a20d983e480183c",
+    "fbf4bfd754af84b5",
+    "0b8edea66f44da2b",
+    "8198487e525b5993",
+    "1e72c7df7eb8c9d8",
+    "f193d16e12fed0f7",
+    "f94a99d4b16d8765",
+    "f10e156e65b1e2b3",
+    "16d684d8250ee1f3",
+    "76816a45897851e3",
+    "0afd7290641cf906",
+    "f2d48f00f1eb9a70",
+    "280d6f37c6d71364",
+    "d310892a26d2c111",
+    "f3c24ca2d0a4f495",
+    "7a78eefe8765efe0",
+    "0f1bc6cd3e7fa38f",
+    "c12abc685b913ae5",
+    "e5c07cec0e41f2dd",
+    "4db8732fab2b7d9f"
+   ]
+  }
+ ],
+ "fragments": {
+  "8bce83f425506eab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando que desde a sua criação, em 1942, vem o Centro Universitário do Porto prestando à respectiva Universidade os mais altos serviços;\n\nConsiderando que tem sido preocupação constante do Centro colaborar na formação integral dos alunos, proporcionando-lhes boas condições para se consagrarem ao estudo e a outras actividades complementares, dentro de um espírito de perfeita cooperação e harmonia entre os membros do corpo docente e os do corpo discente;\n\nConsiderando que o Centro tem procurado, sobretudo, assegurar o funcionamento regular e permanente dos serviços considerados essenciais para a realização desses fins;\n\nConsiderando a necessidade de o Centro prosseguir a sua importante obra e de, para isso, se definir melhor a sua estrutura jurídica, segundo os moldes decorrentes da experiência;\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "a9bff1064b0cfd15": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Fins e atribuições do Centro Universitário do Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Fins e atribuições do Centro Universitário do Porto\n\nArtigo 1.º - 1. O Centro Universitário do Porto é um organismo que se encontra na dependência directa do reitor da Universidade do Porto e tem por fim colaborar na formação integral dos alunos, proporcionando-lhes boas condições para se consagrarem ao estudo e a outras actividades complementares, dentro de um espírito de perfeita cooperação e harmonia entre os membros do corpo docente e os do corpo discente.\n\n2. O Centro passa a reger-se pelas disposições deste diploma.\n\nArt. 2.º - 1. As actividades do Centro, que não excluem as análogas actividades de outros organismos, destinam-se, de modo primacial, a assegurar o funcionamento regular e permanente dos serviços considerados essenciais para a realização dos fins previstos no artigo anterior.\n\n2. Os serviços do Centro serão definidos em despacho do Ministro da Educação Nacional, mediante prévia audiência do reitor.\n\nArt. 3.º O Centro procurará chamar os membros do corpo docente e os do corpo discente a colaborarem nas suas actividades, de modo a realizar-se o ideal assinalado no artigo 1.º e proporcionar-se aos segundos uma experiência directiva e de organização."
+  },
+  "c9f817affe7a7536": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Órgãos do Centro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Órgãos do Centro\n\nArt. 4.º O Centro tem os seguintes órgãos:\n\na) Direcção;\n\nb) Conselho administrativo.\n\nArt. 5.º A direcção tem a seu cargo a orientação das actividades do Centro e compõe-se dos seguintes membros:\n\na) Director do Centro, que presidirá;\n\nb) Subdirector do Centro;\n\nc) Directores dos serviços.\n\nArt. 6.º - 1. Compete em especial à direcção deliberar:\n\na) Sobre os planos de acção, orçamento e relatório do Centro;\n\nb) Sobre o modo de execução dos referidos planos;\n\nc) Sobre qualquer outro assunto que o director do Centro lhe submeta.\n\n2. O reitor poderá mandar suspender quaisquer actividades do Centro que considere contrárias aos interesses gerais da Universidade.\n\nArt. 7.º Compete ao director do Centro:\n\na) Convocar as reuniões da direcção e orientar os seus trabalhos;\n\nb) Levar ao conhecimento do reitor as deliberações da direcção;\n\nc) Promover o cumprimento dessas deliberações;\n\nd) Superintender na administração de todos os serviços do Centro.\n\nArt. 8.º Compete ao subdirector coadjuvar o director do Centro e substituí-lo nas suas faltas ou impedimentos.\n\nArt. 9.º - 1. Compete aos directores de serviços administrar os mesmos.\n\n2. Os directores de serviços poderão ter adjuntos, que os coadjuvarão e substituirão nas suas faltas ou impedimentos, cabendo a substituição, quando haja mais de um adjunto no serviço, àquele que o director do Centro designar para o efeito.\n\nArt. 10.º O conselho administrativo auxilia o director do Centro na superintendência da administração dos serviços e compõe-se dos seguintes membros:\n\na) Director do Centro, que presidirá, podendo delegar no subdirector;\n\nb) Duas pessoas com competência em assuntos administrativos e financeiros.\n\nArt. 11.º - 1. Compete em especial ao conselho administrativo:\n\na) Elaborar o projecto de orçamento a submeter à direcção;\n\nb) Organizar a contabilidade e fiscalizar a sua escrituração;\n\nc) Apreciar as contas mensais de cada um dos serviços, apresentadas pelos respectivos directores;\n\nd) Elaborar as contas anuais do Centro.\n\n2. As contas anuais do Centro serão sujeitas à aprovação do conselho administrativo da Universidade.\n\nArt. 12.º Tanto a direcção como o conselho administrativo reunirão, ordinàriamente, uma vez por mês e, extraordinàriamente, sempre que sejam convocados pelo seu presidente.\n\nArt. 13.º - 1. O director do Centro é nomeado pelo Ministro da Educação Nacional, sobre proposta do reitor.\n\n2. O subdirector do Centro, os directores de serviços e os vogais do conselho administrativo são nomeados pelo reitor, sobre proposta do director do Centro.\n\n3. Os adjuntos dos directores de serviços são nomeados por este último.\n\n4. As nomeações do director e do subdirector do Centro devem recair em membros do corpo docente da Universidade do Porto e as dos directores de serviços e seus adjuntos em membros desse corpo ou do corpo discente da mesma Universidade; os vogais do conselho administrativo podem deixar de possuir qualquer destas qualidades.\n\n5. As nomeações, que terão por objecto pessoas de reconhecida competência para o desempenho das respectivas funções, serão feitas por períodos de três anos, ou de um quanto aos directores de serviços e seus adjuntos, podendo ser renovadas por iguais períodos, uma ou mais vezes, e podendo os nomeados ser livremente exonerados em qualquer momento.\n\nArt. 14.º - 1. Poderá haver em cada escola uma delegação do Centro.\n\n2. Compete à delegação representar o Centro na escola respectiva, tomando iniciativas dentro do plano geral de acção aprovado e formulando propostas a submeter à direcção do Centro, no interesse dos estudantes da mesma escola."
+  },
+  "600546adf4bbadf6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Receitas e despesas do Centro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Receitas e despesas do Centro\n\nArt. 15.º Constituem receitas do Centro:\n\na) A dotação que, como subsídio, lhe for consignada no Orçamento Geral do Estado;\n\nb) Os subsídios que lhe forem concedidos por quaisquer entidades públicas ou privadas;\n\nc) O produto de liberalidades que lhe forem feitas em vida ou por morte;\n\nd) O produto da venda de textos que edite ou de outras publicações ou material didáctico;\n\ne) O produto do pagamento de taxas por utilização de serviços especiais;\n\nf) As quotizações previstas no artigo 22.º;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei, por contrato ou por diverso título.\n\nArt. 16.º - 1. Haverá na Caixa Geral de Depósitos, Crédito e Previdência uma conta aberta à ordem do conselho administrativo, sendo nela depositadas as receitas e por ela satisfeitas as despesas do Centro.\n\n2. Só podem realizar-se quaisquer despesas depois de verificado o seu cabimento nas dotações orçamentais do Centro.\n\nArt. 17.º - 1. Os pagamentos são feitos mediante cheques assinados pelo director do Centro, ou pelo subdirector quando o substituir na presidência do conselho administrativo.\n\n2. Exceptuam-se os pagamentos das despesas inerentes à gestão ordinária dos serviços, os quais podem ser realizados em numerário pelo director do Centro ou com autorização sua.\n\n3. Para esse efeito, poderá haver permanentemente em cofre importância não superior a 10000$00, resultante da arrecadação de receitas ou levantada por meio de cheques emitidos nos termos do n.º 1."
+  },
+  "7f3f1b0ff22ae11e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Disposições diversas\n\nArt. 18.º O pessoal técnico, administrativo e menor do Centro e os respectivos vencimentos constarão de quadro a estabelecer em portaria conjunta dos Ministros das Finanças e da Educação Nacional, definindo-se em despacho deste último as condições de provimento dos lugares, com prioridade para o pessoal já existente.\n\nArt. 19.º O director do Centro pode autorizar a realização para este, e por quaisquer pessoas, de trabalhos eventuais, em regime de prestação de serviços, mediante a remuneração que fixar caso a caso.\n\nArt. 20.º - 1. Aos membros da direcção e do conselho administrativo, bem como, ao, pessoal do Centro e aos indivíduos chamados a prestar serviços nos termos do artigo anterior, serão abonadas ajudas de custo e despesas de transporte, nos termos da lei geral, quando tenham de se deslocar em serviço do Centro.\n\n2. Aos que desempenhem funções no Centro e não percebam deste um vencimento poderá o Ministro da Educação Nacional atribuir gratificações ou senhas de presença, cujo montante fixará em despacho, com o acordo do Ministro das Finanças.\n\nArt. 21.º O tempo de serviço prestado ao Centro pelo pessoal docente de qualquer estabelecimento de ensino dependente do Ministério da Educação Nacional é considerado, para todos os efeitos legais, como serviço docente, desde que a dispensa deste seja prèviamente autorizada por despacho ministerial.\n\nArt. 22.º Os antigos alunos da Universidade podem inscrever-se como amigos do Centro, pagando as quotizações e gozando dos direitos que forem fixados no regulamento interno do Centro.\n\nArt. 23.º - 1. Durante o prazo de três anos, a partir da entrada em vigor deste decreto-lei, poderá o Ministro da Educação Nacional estabelecer, por meio de portaria, as providências necessárias para adaptar a organização e funcionamento do Centro às circunstâncias que forem ocorrendo.\n\n2. As portarias deverão ser assinadas também pelo Ministro das Finanças se envolverem aumento de despesa.\n\nArt. 24.º Dentro de seis meses, a contar da entrada em vigor do presente diploma, a direcção submeterá à aprovação do reitor um regulamento interno do Centro.\n\nArt. 25.º As dúvidas que surgirem na interpretação e aplicação deste decreto-lei e diplomas complementares serão resolvidas pelo Ministro da Educação Nacional, com o acordo do Ministro das Finanças sempre que se trate de assunto de carácter financeiro.\n\nArt. 26.º - 1. O regime constante do presente diploma poderá, por meio de portaria, ser tornado extensivo, com as adaptações que se mostrem necessárias ou vantajosas, aos outros centros universitários já existentes, assim como, por meio de portaria, poderão ser criados novos centros e fazer-se-lhes essa mesma extensão.\n\n2. As portarias serão expedidas pelo Ministro da Educação Nacional, juntamente com o das Finanças, quanto à metrópole, e com o do Ultramar, quanto às províncias ultramarinas.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 24 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  },
+  "36d3ea42c729ff4f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Fins e atribuições do Centro Universitário do Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Fins e atribuições do Centro Universitário do Porto"
+  },
+  "c72bba691a648da0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 1.º\n\n1. O Centro Universitário do Porto é um organismo que se encontra na dependência directa do reitor da Universidade do Porto e tem por fim colaborar na formação integral dos alunos, proporcionando-lhes boas condições para se consagrarem ao estudo e a outras actividades complementares, dentro de um espírito de perfeita cooperação e harmonia entre os membros do corpo docente e os do corpo discente.\n\n2. O Centro Universitário do Porto tem personalidade jurídica e governa-se autònomamente, nos termos do presente diploma, mas sem prejuízo da faculdade que assiste ao reitor de lhe dar instruções para o seu bom funcionamento e perfeita realização dos seus fins.\n\n> Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+  },
+  "780f465ea145685f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As actividades do Centro, que não excluem as análogas actividades de outros organismos, destinam-se, de modo primacial, a assegurar o funcionamento regular e permanente dos serviços considerados essenciais para a realização dos fins previstos no artigo anterior.\n\n2. Os serviços do Centro serão definidos em despacho do Ministro da Educação Nacional, mediante prévia audiência do reitor."
+  },
+  "158f8c80fa8cf2d7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Centro procurará chamar os membros do corpo docente e os do corpo discente a colaborarem nas suas actividades, de modo a realizar-se o ideal assinalado no artigo 1.º e proporcionar-se aos segundos uma experiência directiva e de organização."
+  },
+  "e1c2a659bca66a90": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Órgãos do Centro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Órgãos do Centro"
+  },
+  "c1ae1de6d70e768b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO Centro tem os seguintes órgãos:\n\na) Direcção;\n\nb) Conselho administrativo."
+  },
+  "46ec80e15d125d61": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA direcção tem a seu cargo a orientação das actividades do Centro e compõe-se dos seguintes membros:\n\na) Director do Centro, que presidirá;\n\nb) Subdirector do Centro;\n\nc) Directores dos serviços."
+  },
+  "274355d3b774e0f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Compete em especial à direcção deliberar:\n\na) Sobre os planos de acção, orçamento e relatório do Centro;\n\nb) Sobre o modo de execução dos referidos planos;\n\nc) Sobre qualquer outro assunto que o director do Centro lhe submeta.\n\n2. O reitor poderá mandar suspender quaisquer actividades do Centro que considere contrárias aos interesses gerais da Universidade."
+  },
+  "c14955eb9f981d0b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nCompete ao director do Centro:\n\na) Convocar as reuniões da direcção e orientar os seus trabalhos;\n\nb) Levar ao conhecimento do reitor as deliberações da direcção;\n\nc) Promover o cumprimento dessas deliberações;\n\nd) Superintender na administração de todos os serviços do Centro."
+  },
+  "af97b448c5503e9d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nCompete ao subdirector coadjuvar o director do Centro e substituí-lo nas suas faltas ou impedimentos."
+  },
+  "a6395cdf7a63dd85": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Compete aos directores de serviços administrar os mesmos.\n\n2. Os directores de serviços poderão ter adjuntos, que os coadjuvarão e substituirão nas suas faltas ou impedimentos, cabendo a substituição, quando haja mais de um adjunto no serviço, àquele que o director do Centro designar para o efeito."
+  },
+  "8a7c234b08662747": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO conselho administrativo auxilia o director do Centro na superintendência da administração dos serviços e compõe-se dos seguintes membros:\n\na) Director do Centro, que presidirá, podendo delegar no subdirector;\n\nb) Duas pessoas com competência em assuntos administrativos e financeiros."
+  },
+  "fc71e702012768bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Compete em especial ao conselho administrativo:\n\na) Elaborar o projecto de orçamento a submeter à direcção;\n\nb) Organizar a contabilidade e fiscalizar a sua escrituração;\n\nc) Apreciar as contas mensais de cada um dos serviços, apresentadas pelos respectivos directores;\n\nd) Elaborar as contas anuais do Centro.\n\n2. As contas anuais do Centro serão sujeitas à aprovação do conselho administrativo da Universidade."
+  },
+  "54be56a5afe79e23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nTanto a direcção como o conselho administrativo reunirão, ordinàriamente, uma vez por mês e, extraordinàriamente, sempre que sejam convocados pelo seu presidente."
+  },
+  "5604fb798bbb67ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 13.º\n\n1. O director do Centro é nomeado pelo Ministro da Educação Nacional, sobre proposta do reitor.\n\n2. O subdirector do Centro, os directores de serviços e os vogais do conselho administrativo são nomeados pelo reitor, sobre proposta do director do Centro.\n\n3. Os adjuntos dos directores de serviços são nomeados por este último.\n\n4. As nomeações do director e do subdirector do Centro devem recair em membros do corpo docente da Universidade do Porto e as dos directores de serviços e seus adjuntos em membros desse corpo ou do corpo discente da mesma Universidade; os vogais do conselho administrativo podem deixar de possuir qualquer destas qualidades.\n\n5. As nomeações, que terão por objecto pessoas de reconhecida competência para o desempenho das respectivas funções, serão feitas por períodos de três anos, ou de um quanto aos directores de serviços e seus adjuntos, podendo ser renovadas por iguais períodos, uma ou mais vezes, e podendo os nomeados ser livremente exonerados em qualquer momento.\n\n6. Os períodos previstos no número anterior começam em 1 de Outubro e findam em 30 de Setembro; mas os nomeados devem continuar no exercício das funções enquanto não forem substituídos.\n\n7. As nomeações feitas no decurso do período de três anos ou de um, conforme os casos, entendem-se feitas até ao termo desse período.\n\n> Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+  },
+  "b59e324b9c9e98b2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Poderá haver em cada escola uma delegação do Centro.\n\n2. Compete à delegação representar o Centro na escola respectiva, tomando iniciativas dentro do plano geral de acção aprovado e formulando propostas a submeter à direcção do Centro, no interesse dos estudantes da mesma escola."
+  },
+  "0a20d983e480183c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Receitas e despesas do Centro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Receitas e despesas do Centro"
+  },
+  "fbf4bfd754af84b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nConstituem receitas do Centro:\n\na) A dotação que, como subsídio, lhe for consignada no Orçamento Geral do Estado;\n\nb) Os subsídios que lhe forem concedidos por quaisquer entidades públicas ou privadas;\n\nc) O produto de liberalidades que lhe forem feitas em vida ou por morte;\n\nd) O produto da venda de textos que edite ou de outras publicações ou material didáctico;\n\ne) O produto do pagamento de taxas por utilização de serviços especiais;\n\nf) As quotizações previstas no artigo 22.º;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei, por contrato ou por diverso título."
+  },
+  "0b8edea66f44da2b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Haverá na Caixa Geral de Depósitos, Crédito e Previdência uma conta aberta à ordem do conselho administrativo, sendo nela depositadas as receitas e por ela satisfeitas as despesas do Centro.\n\n2. Só podem realizar-se quaisquer despesas depois de verificado o seu cabimento nas dotações orçamentais do Centro."
+  },
+  "8198487e525b5993": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. Os pagamentos são feitos mediante cheques assinados pelo director do Centro, ou pelo subdirector quando o substituir na presidência do conselho administrativo.\n\n2. Exceptuam-se os pagamentos das despesas inerentes à gestão ordinária dos serviços, os quais podem ser realizados em numerário pelo director do Centro ou com autorização sua.\n\n3. Para esse efeito, poderá haver permanentemente em cofre importância não superior a 10000$00, resultante da arrecadação de receitas ou levantada por meio de cheques emitidos nos termos do n.º 1."
+  },
+  "1e72c7df7eb8c9d8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Disposições diversas"
+  },
+  "f193d16e12fed0f7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 18.º\n\nO pessoal técnico, administrativo e menor do Centro e os respectivos vencimentos constarão de quadro a estabelecer em portaria conjunta dos Ministros das Finanças e da Educação Nacional, definindo-se em despacho deste último as condições de provimento dos lugares, com prioridade para o pessoal já existente.\n\n2. O director do centro poderá ajustar pessoal segundo o regime aplicável nas empresas privadas, ficando pois esse pessoal com estatuto idêntico ao do que trabalha nestas empresas, quanto a direitos e obrigações, e podendo designadamente ser despedido nos mesmos termos.\n\n3. O disposto nos números anteriores deve entender-se sem prejuízo do preceituado no [Decreto-Lei n.º 47205](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47205-1966-480368), de 16 de Setembro de 1966.\n\n> Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+  },
+  "f94a99d4b16d8765": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO director do Centro pode autorizar a realização para este, e por quaisquer pessoas, de trabalhos eventuais, em regime de prestação de serviços, mediante a remuneração que fixar caso a caso."
+  },
+  "f10e156e65b1e2b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 20.º\n\nOs membros da direcção e do conselho administrativo do Centro, bem como os adjuntos dos directores de serviços, poderão perceber gratificações ou senhas de presença, cujo montante será fixado pelo Ministro da Educação Nacional.\n\n> Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+  },
+  "16d684d8250ee1f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 21.º\n\nO Ministro da Educação Nacional pode determinar que pessoal docente de qualquer estabelecimento de ensino dependente do seu Ministério, seja qual for a modalidade do provimento, preste serviço no centro, dispensando-o total ou parcialmente do exercício das funções próprias e continuando as remunerações correspondentes ao desempenho efectivo destas a ser abonada pelos respectivos serviços.\n\n2. O serviço prestado no Centro nas condições do número anterior é considerado, para todos os efeitos legais, como serviço docente e, quando qualificado pelo Centro como bom, constitui razão de preferência na colocação dos professores.\n\n> Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+  },
+  "76816a45897851e3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs antigos alunos da Universidade podem inscrever-se como amigos do Centro, pagando as quotizações e gozando dos direitos que forem fixados no regulamento interno do Centro."
+  },
+  "0afd7290641cf906": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 23.º\n\n1. O centro de alojamento criado na Universidade do Porto por efeito do [Decreto-Lei n.º 46834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46834-1966-233339), de 11 de Janeiro de 1966, fica integrado no Centro Universitário, em conformidade com o disposto no artigo 9.º, n.º 2, primeira parte, e n.º 3, desse decreto-lei.\n\n2. O referido centro de alojamento fica fazendo parte do serviço de lares do Centro Universitário, estando como tal sujeito às disposições do presente diploma, nomeadamente no tocante à nomeação do director e dos adjuntos do director e ao regime do pessoal.\n\n> Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+  },
+  "f2d48f00f1eb9a70": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 24.º\n\nO Centro Universitário pode adquirir ou alienar bens imobiliários, por qualquer título, e dá-los ou tomá-los de arrendamento, mediante prévia autorização do Ministro da Educação Nacional, concedida caso a caso.\n\n> Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+  },
+  "280d6f37c6d71364": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 25.º\n\nO Centro está isento de encargos fiscais e de licenças administrativas, nos mesmos termos do Estado.\n\n> Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+  },
+  "d310892a26d2c111": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 26.º\n\nSão alargadas ao Centro as vantagens de que goza a Manutenção Militar em matéria de aquisição de géneros alimentícios e outros produtos.\n\n> Alterado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+  },
+  "f3c24ca2d0a4f495": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 27.º\n\nA aplicação das verbas do Centro depende de despacho do respectivo director, sem sujeição aos preceitos da contabilidade pública.\n\n> Aditado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+  },
+  "7a78eefe8765efe0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 28.º\n\nÀs publicações, periódicas ou não, editadas pelo Centro é aplicável regime igual ao estabelecido no artigo 445.º, n.º 4, do [Decreto n.º 36508](https://diariodarepublica.pt/dr/detalhe/decreto/36508-1947-637472), de 17 de Setembro de 1947.\n\n> Aditado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+  },
+  "0f1bc6cd3e7fa38f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 29.º\n\n1. Durante o prazo de três anos, a partir da entrada em vigor deste decreto-lei, poderá o Ministro da Educação Nacional estabelecer, por meio de portaria, as providências necessárias para adaptar a organização e funcionamento do Centro às circunstâncias que forem ocorrendo.\n\n2. As portarias deverão ser assinadas também pelo Ministro das Finanças se envolverem aumento de despesa.\n\n> Aditado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+  },
+  "c12abc685b913ae5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 30.º\n\nDentro de seis meses, a contar da entrada em vigor do presente diploma, a direcção submeterá à aprovação do reitor um regulamento interno do Centro.\n\n> Aditado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+  },
+  "e5c07cec0e41f2dd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 31.º\n\nAs dúvidas que surgirem na interpretação e aplicação deste decreto-lei e diplomas complementares serão resolvidas pelo Ministro da Educação Nacional, com o acordo do Ministro das Finanças sempre que se trate de assunto de carácter financeiro.\n\n> Aditado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+  },
+  "4db8732fab2b7d9f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": "1967-04-28",
+   "changed_by": [
+    "Aditado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28."
+   ],
+   "markdown": "###### Artigo 32.º\n\n1. O regime constante do presente diploma poderá, por meio de portaria, ser tornado extensivo, com as adaptações que se mostrem necessárias ou vantajosas, aos outros centros universitários já existentes, assim como, por meio de portaria, poderão ser criados novos centros e fazer-se-lhes essa mesma extensão.\n\n2. As portarias serão expedidas pelo Ministro da Educação Nacional, juntamente com o das Finanças, quanto à metrópole, e com o do Ultramar, quanto às províncias ultramarinas.\n\n> Aditado pelo/a [Decreto-Lei n.º 47658](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47658-1967-310246), publicado em 1967-04-28.\n\nPublique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 24 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  }
+ }
+}

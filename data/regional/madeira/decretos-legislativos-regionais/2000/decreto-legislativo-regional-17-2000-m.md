@@ -30,10 +30,25 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2001-06-30'
+version_history:
+  file: decreto-legislativo-regional-17-2000-m.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-08-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-06-30'
+    amending: pt:dre:350101:por
+    amending_title: Decreto Legislativo Regional n.º 19/2001/M
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 11.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/declegreg/17/2000/08/01/m/dre/pt/html
@@ -59,7 +74,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T15:39:48Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto Legislativo Regional n.º
+    19/2001/M. Método e verificação: consolidacao/README.md e consolidacao/piloto/regional/madeira/decretos-legislativos-regionais/2000/decreto-legislativo-regional-17-2000-m.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -206,17 +222,19 @@ Os conteúdos funcionais das carreiras de ajudante de acção sócio-educativa, 
 
 3 - O pessoal que à data da entrada em vigor do presente diploma se encontre integrado nas carreiras de ajudante domiciliário e ajudante familiar do quadro de pessoal do Centro de Segurança Social da Madeira transita para a carreira de ajudante de acção familiar, nos termos do n.º 1.
 
-4 - A transição a que se referem os números anteriores será feita de acordo com as seguintes regras:
+4 - A transição a que se refere o número anterior será feita de acordo com as seguintes regras:
 
-a) De imediato, desde que habilitados com o 9.º ano de escolaridade ou equivalente e antiguidade na carreira igual ou superior a três anos;
+a) De imediato, desde que habilitados com o 9.º ano de escolaridade ou equivalente e antiguidade igual ou superior a um ano na carreira, ou desde que, não cumprindo o requisito da habilitação, tenham antiguidade igual ou superior a três anos na carreira;
 
-b) Caso não reúnam os requisitos previstos na alínea anterior, após a frequência, com aproveitamento, de um curso de formação profissional, de duração não inferior a seis meses, que deverá ser efectuado no prazo máximo de dois anos a contar da data da publicação do presente diploma.
+b) À medida que perfizerem um ano de antiguidade na carreira, desde que habilitados com o 9.º ano de escolaridade ou equivalente;
 
-5 - O programa do curso referido na alínea b) do número anterior será aprovado por portaria conjunta dos Secretários Regionais do Plano e Coordenação, de Educação e dos Assuntos Sociais e Parlamentares.
+c) À medida que perfizerem três anos de antiguidade na carreira, nos restantes casos.
 
-6 - O tempo de serviço prestado nas actuais carreiras conta para efeitos de promoção e de antiguidade na carreira para que se operar a transição.
+5 - O tempo de serviço prestado nas actuais carreiras conta para efeitos de promoção e de antiguidade na carreira para que se operar a transição.
 
-7 - Nos casos em que da aplicação dos n.os 1, 2 e 3 deste artigo resulte um impulso salarial igual ou inferior a 10 pontos, releva para efeitos de progressão o tempo de permanência no índice de origem.
+6 - Nos casos em que da aplicação dos n.os 1, 2 e 3 deste artigo resulte um impulso salarial igual ou inferior a 10 pontos, releva para efeitos de progressão o tempo de permanência no índice de origem.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 19/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2001-350101), publicado em 2001-06-29.
 
 ###### Artigo 6.º — Acesso nas carreiras
 
@@ -242,7 +260,9 @@ Logo que se verifique a extinção a que se refere o n.º 1 do artigo 7.º do pr
 
 ###### Artigo 11.º — Produção de efeitos
 
-O presente diploma produz efeitos remuneratórios reportados a 1 de Novembro de 1999, no que respeita à transição prevista na alínea a) do n.º 4 do artigo 5.º, e a partir da data da conclusão do curso de formação profissional, no que respeita à transição prevista na alínea b) do mesmo número e artigo.
+O presente diploma produz efeitos remuneratórios reportados a 1 de Novembro de 1999, no que respeita à transição prevista na alínea a) do n.º 4 do artigo 5.º, e à data em que ficar preenchido o requisito da antiguidade, no que respeita à transição estabelecida nas alíneas b) e c) do mesmo número e artigo.
+
+> Alterado pelo/a [Decreto Legislativo Regional n.º 19/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2001-350101), publicado em 2001-06-29.
 
 Aprovado em sessão plenária da Assembleia Legislativa Regional em 20 de Junho de 2000.
 

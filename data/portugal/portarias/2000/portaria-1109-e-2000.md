@@ -39,10 +39,30 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '2003-10-18'
+version_history:
+  file: portaria-1109-e-2000.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '2000-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-10-18'
+    amending: pt:dre:650304:por
+    amending_title: Portaria n.º 1103-B/2001; Portaria n.º 1196/2003
+    changes:
+    - Altera Artigo ANEXO::3.º
+    - Altera Artigo ANEXO::4.º
+    - Altera Artigo ANEXO::6.º
+    - Altera Artigo ANEXO::20.º
+    - Revoga Artigo ANEXO::23.º
+    - Revoga Artigo ANEXO::24.º
+    - Altera Artigo ANEXO::8.º
 identifiers:
   celex: null
   eli: https://data.dre.pt/eli/port/1109-e/2000/11/27/p/dre/pt/html
@@ -68,7 +88,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-23T14:19:50Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Portaria n.º 1103-B/2001; Portaria
+    n.º 1196/2003. Método e verificação: consolidacao/README.md e consolidacao/piloto/portugal/portarias/2000/portaria-1109-e-2000.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -201,7 +222,7 @@ b) UDE - unidade de dimensão europeia, correspondente a 1200 euros de margem br
 
 c) Dimensão económica de uma exploração - resultado da divisão da margem bruta padrão total da exploração por 1200 euros;
 
-d) Agricultor - titular de uma exploração e responsável pela respectiva gestão, com residência na freguesia ou nas freguesias limítrofes daquela ou daquelas em que estão localizados os prédios rústicos que integram a exploração;
+d) 'Agricultor' o titular de uma exploração e responsável pela respectiva gestão, com residência no concelho ou concelhos limítrofes daquele ou daqueles em que estão localizados os prédios rústicos que integram a exploração;
 
 e) Exploração - unidade técnico-económica na qual se desenvolve a actividade agrícola, silvícola e ou pecuária, caracterizada pela utilização em comum dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização, e que inclui o assento de lavoura;
 
@@ -223,6 +244,8 @@ j) Turismo no espaço rural - actividade turística definida nos termos do Decre
 
 2 - Para efeitos das alíneas b) e c) do número anterior, são utilizadas as margens brutas padrão divulgadas pelo Gabinete de Planeamento e Política Agro-Alimentar.
 
+> Alterado pelo/a [Portaria n.º 1196/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1196-2003-481480), publicado em 2003-10-13.
+
 ###### Artigo 4.º — Condições de acesso
 
 1 - Os apoios previstos neste Regulamento são concedidos às explorações que reúnam, cumulativamente, as seguintes condições:
@@ -237,11 +260,13 @@ d) Cumpra as normas comunitárias relativas ao ambiente, higiene e bem-estar ani
 
 e) Não tenha beneficiado de ajudas no âmbito da medida n.º 1 do Programa AGRO.
 
-2 - Para candidaturas apresentadas até 31 de Dezembro de 2002, as condições referidas nas alíneas c) e d) do número anterior podem ser satisfeitas no prazo máximo de três anos a contar da data da celebração do contrato de atribuição de ajudas.
+2 - (Revogado.)
 
 3 - As condições previstas nas alíneas c), d) e e) do n.º 1 não se aplicam às candidaturas que recorram exclusivamente às ajudas previstas no capítulo III.
 
 4 - Ficam excluídas as explorações exclusivamente florestais.
+
+> Alterado pelo/a [Portaria n.º 1196/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1196-2003-481480), publicado em 2003-10-13.
 
 ###### Artigo 5.º — Beneficiários
 
@@ -259,13 +284,15 @@ d) Indiquem um substituto que assuma o compromisso de assegurar a continuidade d
 
 ###### Artigo 6.º — Limites à apresentação de projectos
 
-1 - Sem prejuízo do disposto no número seguinte, as ajudas previstas neste Regulamento incidem sobre um montante máximo de investimento elegível de 45000 euros por beneficiário e de 25000 euros por projecto.
+1 - Sem prejuízo do disposto no número seguinte, as ajudas previstas neste Regulamento incidem sobre um montante máximo de investimento elegível de (euro) 45000 por beneficiário.
 
 2 - Quando se trate de candidaturas conjuntas, as ajudas incidem sobre um montante máximo de investimento de 45000 euros para o conjunto dos candidatos.
 
 3 - Ao abrigo deste regime de ajudas só podem ser aceites, no máximo, três projectos de investimento por beneficiário, não podendo os investimentos susceptíveis de beneficiar de ajudas exceder os limites referidos nos números anteriores.
 
 4 - A apresentação do segundo e terceiro projectos só poderão ocorrer após a execução integral do anterior.
+
+> Alterado pelo/a [Portaria n.º 1196/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1196-2003-481480), publicado em 2003-10-13.
 
 ### CAPÍTULO II — Apoio à pequena agricultura
 
@@ -295,11 +322,17 @@ c) Melhoramentos funcionais destinados à melhoria das condições económicas d
 
 d) Aquisição de animais reprodutores, sem prejuízo do disposto no artigo seguinte, quando em início de actividade ou aumento do efectivo.
 
+e) Elaboração do projecto de investimento.
+
 2 - O montante máximo elegível das despesas referidas na alínea c) do número anterior não pode exceder 50% do investimento elegível ao abrigo deste Regulamento.
 
-3 - Nas actividades em que a disciplina de mercado legalmente estabelecida implique a existência de direitos individuais de produção, a elegibilidade dos investimentos fica sujeita à compatibilidade com esses direitos.
+3 - A despesa referida na alínea e) do n.º 1 é elegível até ao montante de 1% do total das despesas elegíveis.
 
-4 - No caso de investimentos que impliquem um aumento de produção, deve estar assegurado o escoamento desse acréscimo nomeadamente nos mercados locais.
+4 - Nas actividades em que a disciplina de mercado legalmente estabelecida implique a existência de direitos individuais de produção, a elegibilidade dos investimentos fica sujeita à compatibilidade com esses direitos.
+
+5 - No caso de investimentos que impliquem um aumento de produção, deve estar assegurado o escoamento desse acréscimo nomeadamente nos mercados locais.
+
+> Alterado pelo/a [Portaria n.º 1103-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/1103-b-2001-650304), publicado em 2001-09-15.
 
 ###### Artigo 9.º — Despesas não elegíveis
 
@@ -395,7 +428,9 @@ O gestor formula as propostas de decisão sobre as candidaturas e submete-as a p
 
 1 - A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos celebrados entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e o beneficiário, no prazo máximo de 30 dias a contar da data de comunicação ao interessado e ao IFADAP da aprovação da candidatura.
 
-2 - Poderá ser exigida a prestação de garantias a favor do IFADAP para segurança do reembolso das ajudas atribuídas.
+2 - (Revogado.)
+
+> Alterado pelo/a [Portaria n.º 1196/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1196-2003-481480), publicado em 2003-10-13.
 
 ###### Artigo 21.º — Execução do investimento
 
@@ -415,8 +450,12 @@ O gestor formula as propostas de decisão sobre as candidaturas e submete-as a p
 
 ###### Artigo 23.º — Despesas já realizadas
 
-As despesas efectuadas a partir de 19 de Novembro de 1999 serão consideradas elegíveis, desde que os proponentes apresentem a respectiva candidatura no prazo de 60 dias contados a partir da data de entrada em vigor deste Regulamento.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 1196/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1196-2003-481480), publicado em 2003-10-13.
 
 ###### Artigo 24.º — Candidaturas já apresentadas
 
-O disposto no presente Regulamento aplica-se às candidaturas apresentadas ao abrigo da Portaria n.º 533-H/2000, de 1 de Agosto, e ainda não contratadas, relativamente às quais o limite previsto na alínea b) do n.º 1 do artigo 4.º é de 8 UDE.
+(Revogado.)
+
+> Revogado pelo/a [Portaria n.º 1196/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1196-2003-481480), publicado em 2003-10-13.

@@ -1,0 +1,1049 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:401911:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1996-08-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9ef3d69706c8c87f",
+    "8a71b73e62758182",
+    "302069fc5850ecd6",
+    "80307d008292af40",
+    "ad915963ab40902f",
+    "396cfe66f6d1ddf2",
+    "8827552efa296273",
+    "c59a003be0be986b",
+    "f3593d96ae27287d",
+    "feb13adc77c108a5",
+    "c4434e9be2c7a930",
+    "3878035f08e91240",
+    "500484777955442c",
+    "1e6782ad27368467",
+    "df68bfc73bd03cec",
+    "94dcabae2ef6125a",
+    "b82e67482471ab8d",
+    "056058dbfc1acadd",
+    "8b675f1819448727",
+    "9e707b8174eb98de",
+    "193b3b9550997497",
+    "462d91b182155c52",
+    "b1d48bcfafefd2d0",
+    "e5caddd871ea0e4a",
+    "8d4b2e42131bdfef",
+    "01569560f8a1fd59",
+    "5318fdfe8307840a",
+    "eacbd11153af0af8",
+    "3090080b1e3adec9",
+    "6292ae6182588625",
+    "6e43215c525d7db2",
+    "7dff340b176d02e7",
+    "64115b81801596f5",
+    "4559ad47e1d50020",
+    "805b0ab691536130",
+    "7abd9d2f1649d67a",
+    "2a70937071925935",
+    "cb8d7ff2ba61a3a9",
+    "c2749a645bd6b1c4",
+    "d0efb81b04cc4753",
+    "e6746131c4fe7678",
+    "f32eaa70878bbab0",
+    "5f37d2dbdb81423a",
+    "665f4c14dd6141ff",
+    "f3db2fd1759841cd",
+    "10901a727bb268e7",
+    "ac756d4f16a24e99",
+    "3fb5842b18228677",
+    "3fe2e1d097effe4e",
+    "b7d044704199bb17",
+    "a812a52456296dde",
+    "56627f3546895d92",
+    "de294dbf3ca69f58",
+    "6fc7cb7827cc9268",
+    "acf452117e038d57",
+    "76f523c3d19b472d",
+    "d77be2947a45476a",
+    "441fc5750a6094ba",
+    "4fc04dbb9b57e7ff",
+    "0e0c98fb78a64d06",
+    "8ffd2b2fe749502d",
+    "e5c54923c17fa846",
+    "816b84cf879590de",
+    "327d662a8a7f96bc"
+   ]
+  },
+  {
+   "date": "2002-10-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:432449:por",
+     "title": "Decreto-Lei n.º 208/2002",
+     "published": "2002-10-17",
+     "dre_path": "/dr/detalhe/decreto-lei/208-2002-432449"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º"
+   ],
+   "fragments": [
+    "9ef3d69706c8c87f",
+    "8a71b73e62758182",
+    "3dda0326fdc74767",
+    "557ede0c26e9ee2a",
+    "18cefbbc064e6b10",
+    "396cfe66f6d1ddf2",
+    "8827552efa296273",
+    "edb7d8c2fae89f7f",
+    "ac5c052ed3a7fc1f",
+    "feb13adc77c108a5",
+    "c4434e9be2c7a930",
+    "2be2d8bba9891b68",
+    "500484777955442c",
+    "6a50ca4725eeafa8",
+    "4f581348aa22ed23",
+    "94dcabae2ef6125a",
+    "b82e67482471ab8d",
+    "51800a71c420e1fd",
+    "a07987eee4b6f8ec",
+    "9e707b8174eb98de",
+    "e6729a8b8840b253",
+    "81e696ebe8325594",
+    "1710dda78c59001f",
+    "e5caddd871ea0e4a",
+    "feece44c0e95f70e",
+    "01569560f8a1fd59",
+    "796d092f0c60a41c",
+    "eed08778c79e9e7d",
+    "3090080b1e3adec9",
+    "703fe5dab712215f",
+    "6e43215c525d7db2",
+    "c270ad0d00985422",
+    "64115b81801596f5",
+    "4559ad47e1d50020",
+    "3f87ce8a0e85dbf2",
+    "7abd9d2f1649d67a",
+    "2a70937071925935",
+    "e002a7ed43cb3411",
+    "c2749a645bd6b1c4",
+    "43988dac148624ee",
+    "e6746131c4fe7678",
+    "68806801e513c960",
+    "74db93cc8bb39b12",
+    "665f4c14dd6141ff",
+    "0dc3b2e1b862c851",
+    "10901a727bb268e7",
+    "fdbdf8c8770ee23e",
+    "3fb5842b18228677",
+    "3fe2e1d097effe4e",
+    "6f341393381fb7dc",
+    "59d5c29c2b078f2d",
+    "56627f3546895d92",
+    "0c41d9c6b87c156f",
+    "47f467e0950d51c3",
+    "acf452117e038d57",
+    "e62187aa92766962",
+    "48bdbf340d943072",
+    "441fc5750a6094ba",
+    "4fc04dbb9b57e7ff",
+    "0e0c98fb78a64d06",
+    "72cda0f6a5facd10",
+    "f81f379c1cbde8a2",
+    "964fa9325d712999",
+    "327d662a8a7f96bc"
+   ]
+  }
+ ],
+ "fragments": {
+  "9ef3d69706c8c87f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de Agosto\n\nA Secretaria-Geral do Ministério da Educação tem uma relevante função de apoio à administração do sistema educativo e deve organizar-se de forma a melhor prosseguir esse objectivo, de acordo com a política traçada pelo Governo no seu Programa e o futuro que se pretende para a Educação.\n\nAssim, a gestão dos recursos humanos do quadro único do Ministério da Educação e a gestão de recursos materiais, patrimoniais e financeiros exigem uma organização diferente dos serviços da Secretaria-Geral e das suas competências, associada à dignificação de áreas de intervenção que não podem continuar como frágeis e informais estruturas de apoio cuja funcionalidade obriga às soluções agora adoptadas.\n\nÉ nesta óptica que os assuntos relativos à gestão dos recursos humanos são organicamente enquadrados em face da sua dimensão, dispersão, relevância e especificidade; do mesmo modo entende-se, por razões óbvias, ser necessário prestigiar a área jurídica e de formação, dotando-as das estruturas adequadas.\n\nPor outro lado, a criação da Divisão de Arquivo e do Arquivo Histórico, bem como a definição do Arquivo Intermédio e Arquivo Corrente visam recuperar e disponibilizar a memória do Ministério da Educação, passo fundamental para o estudo e investigação sobre a história da educação em Portugal. Finalmente, ao fixar a dependência hierárquico-funcional das áreas de informação e de relações públicas, explicita-se a prioridade que se atribui às relações do Ministério com os utentes, que, de facto, são a quase totalidade da população portuguesa.\n\nAo adoptarem-se, de forma clara e inequívoca, linhas de orientação que privilegiam os novos sistemas e tecnologias de informação, com a preocupação de que o processamento da informação para decisão utilize novos métodos estruturais e atinja níveis de qualidade compatíveis com as exigências das sociedades modernas, evidencia-se a vontade de contribuir para flexibilizar a máquina administrativa, ajustando-a à mudança, cujo ritmo aumenta rapidamente.\n\nNuma época que muitos designam já por idade da informação, o recurso a meios informáticos generaliza-se; por isso, a Secretaria-Geral deverá aumentar significativamente a sua utilização no sentido de tornar cada vez mais fluida e actualizada a informação de modo que esteja sempre acessível aos diferentes tipos de utentes dentro dos princípios de transparência que norteiam a actividade da Administração Pública.\n\nFinalmente, com a presente orgânica, procura-se, estrategicamente, elevar as competências da Secretaria-Geral para poder diagnosticar o ambiente, perscrutar o futuro e as tendências, analisar as situações, fixar objectivos de gestão, definir planos de acção e organizar, implantar, dirigir, motivar e liderar, não dispensando as nobres funções de controlo e de avaliação, numa lógica de risco crescente e de desenvolvimento descontínuo, incerto, e no contexto de crescente internacionalização, no entendimento que a inserção dos recursos humanos e a cultura organizacional são vectores determinantes e estruturantes em qualquer processo gestionário.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "8a71b73e62758182": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Natureza, funções e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Natureza, funções e competências"
+  },
+  "302069fc5850ecd6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria-Geral, adiante designada por SG, é um serviço central do Ministério da Educação, adiante designado por ME, dotado de autonomia administrativa."
+  },
+  "80307d008292af40": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Funções\n\n1 - A SG tem funções de concepção, coordenação e apoio técnico, informático e administrativo nas áreas de:\n\na) Gestão e formação dos recursos humanos;\n\nb) Arquivo e documentação;\n\nc) Organização;\n\nd) Informação e relações públicas;\n\ne) Gestão dos recursos materiais e patrimoniais dos serviços centrais, regionais e tutelados do ME e dos gabinetes dos membros do Governo.\n\n2 - As competências da SG são também exercidas na concretização de acções que não se insiram nas atribuições específicas dos serviços centrais, regionais e tutelados do ME e dos gabinetes dos membros do Governo.\n\n3 - A SG assegura ainda o apoio técnico e administrativo nas áreas referidas no n.º 1 aos gabinetes dos membros do Governo e às entidades relativamente às quais a respectiva legislação atribuir essa responsabilidade à SG.\n\n4 - A SG é o interlocutor do ME junto dos serviços e departamentos da Administração Pública no âmbito das suas competências.\n\n5 - A SG presta à Auditoria Jurídica do ME o apoio administrativo necessário ao exercício das suas funções."
+  },
+  "ad915963ab40902f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - Cabe à SG na área de gestão e formação de recursos humanos:\n\na) Assegurar a gestão dos recursos humanos do quadro único de pessoal do ME;\n\nb) Conceber, programar e executar planos anuais e ou plurianuais de formação;\n\nc) Proceder à realização de estudos e à aplicação dos normativos em vigor na Administração Pública relativos a recursos humanos, nomeadamente em matéria de carreiras e concursos.\n\n2 - Compete à SG na área do arquivo e documentação:\n\na) Assegurar a guarda, registo, tratamento, recuperação e conservação dos documentos de acordo com modernos processos, técnicas e métodos de conservação e arquivo, ao nível do Arquivo Corrente da Secretaria-Geral, do Arquivo Intermédio e Arquivo Histórico do Ministério da Educação;\n\nb) Assegurar a instalação adequada do Arquivo Histórico, bem como as condições para o seu estudo e consulta, de acordo com princípios a fixar por portaria dos Ministros da Educação e da Cultura;\n\nc) Recolher, tratar e divulgar documentação e informação de interesse para o ME e seus utentes, designadamente estudos, publicações, informações, pareceres, normas e instruções produzidos no ME.\n\n3 - Compete à SG na área da organização e dos recursos materiais:\n\na) Promover estudos e proceder à aplicação dos normativos em vigor na Administração Pública relativos à racionalização e utilização de instalações e equipamento do ME e à modernização dos procedimentos administrativos;\n\nb) Contribuir para o aperfeiçoamento da organização, funcionamento e funcionalidade dos serviços do ME, bem como para o aumento da sua eficiência e eficácia;\n\nc) Assegurar a concepção, montagem, funcionamento e manutenção de sistemas que garantam o processamento, tratamento e divulgação de informação entre os serviços do ME, entre o ME e a restante Administração Pública e junto dos utentes;\n\nd) Assegurar a gestão do parque informático e da rede informática da SG, propiciando condições para a utilização permanente da informação disponível pelas diferentes unidades orgânicas da SG.\n\n4 - Compete à SG na área da informação e relações públicas:\n\na) Assegurar um sistema moderno e flexível de recolha, tratamento e divulgação da informação;\n\nb) Garantir as funções de relações públicas do ME.\n\n5 - Cabe à SG na área dos recursos materiais e patrimoniais:\n\na) Gerir os edifícios do ME quanto à sua ocupação e destino e definir o equipamento necessário de acordo com as instalações dos serviços nelas instalados;\n\nb) Desenvolver os procedimentos administrativos destinados à aquisição de bens e serviços para os serviços centrais e regionais e organismos tutelados do ME, sem prejuízo das respectivas autonomias;\n\nc) Definir regras que permitam o exercício eficaz de manutenção e segurança das instalações e equipamento do ME;\n\nd) Coordenar e assegurar a aquisição de veículos e gerir a frota automóvel.\n\n6 - À SG compete ainda:\n\na) Assegurar a coordenação da actividade dos serviços de manutenção, vigilância e segurança das pessoas e instalações dos serviços centrais do ME e gabinetes dos membros do Governo;\n\nb) Assegurar, no âmbito do PIDDAC, a gestão dos programas de modernização administrativa e de instalações dos serviços centrais e regionais do ME, bem como de outros de que seja incumbida."
+  },
+  "396cfe66f6d1ddf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — Órgãos e serviços"
+  },
+  "8827552efa296273": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Estrutura geral"
+  },
+  "c59a003be0be986b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos da SG:\n\na) O secretário-geral;\n\nb) O conselho administrativo."
+  },
+  "f3593d96ae27287d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços\n\nA SG integra os seguintes serviços:\n\na) A Direcção de Serviços de Recursos Humanos;\n\nb) A Direcção de Serviços de Arquivo e Documentação;\n\nc) O Gabinete de Organização, Gestão e Informática;\n\nd) O Centro de Informação e Relações Públicas;\n\ne) A Divisão de Instalações e Equipamento;\n\nf) O Gabinete Jurídico;\n\ng) A Repartição de Administração Geral."
+  },
+  "feb13adc77c108a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Órgãos"
+  },
+  "c4434e9be2c7a930": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Secretário-geral"
+  },
+  "3878035f08e91240": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Secretário-geral\n\n1 - A SG é dirigida pelo secretário-geral, ao qual compete superintender em todos os serviços que a integram, bem como executar as funções que lhe sejam superiormente cometidas.\n\n2 - O secretário-geral é coadjuvado no exercício das suas funções por dois secretários-gerais-adjuntos.\n\n3 - O secretário-geral é substituído, nas suas ausências e impedimentos, pelo secretário-geral-adjunto que, para o efeito, for designado.\n\n4 - O secretário-geral é, por inerência, presidente do conselho de administração da Editorial do ME.\n\n5 - Na directa dependência do secretário-geral funciona o centro de Caparide, cujos critérios de gestão e utilização serão fixados por portaria do Ministro da Educação."
+  },
+  "500484777955442c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Conselho administrativo"
+  },
+  "1e6782ad27368467": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho administrativo\n\nO conselho administrativo é o órgão de gestão financeira, ao qual compete:\n\na) Aprovar os projectos de orçamento e controlar a sua execução, propondo as alterações julgadas convenientes;\n\nb) Aprovar os planos financeiros adequados aos programas anuais e plurianuais de actividades da SG;\n\nc) Verificar e controlar a realização de despesas e autorizar o respectivo pagamento;\n\nd) Proceder à verificação dos fundos em cofre e em depósito e fiscalizar a escrituração da contabilidade;\n\ne) Superintender na organização anual da conta de gerência, aprová-la e submetê-la ao Tribunal de Contas;\n\nf) Deliberar sobre o montante dos fundos de maneio;\n\ng) Fixar o preço dos produtos e serviços;\n\nh) Autorizar a venda de material, equipamento e outros bens móveis considerados inoperacionais ou dispensáveis, após a desafectação do património a cargo da SG;\n\ni) Assegurar a arrecadação de receitas e promover o seu depósito no sistema bancário;\n\nj) Autorizar dotações e subsídios, dentro da competência fixada pelo Ministro da Educação;\n\nl) Apreciar, permanentemente, a situação financeira da SG."
+  },
+  "df68bfc73bd03cec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Composição e funcionamento do conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição e funcionamento do conselho administrativo\n\n1 - O conselho administrativo tem a seguinte composição:\n\na) O secretário-geral, que preside;\n\nb) Os secretários-gerais-adjuntos;\n\nc) O chefe da Repartição de Administração Geral.\n\n2 - O conselho administrativo é secretariado por um funcionário da SG, designado, para o efeito, pelo secretário-geral.\n\n3 - O conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocado pelo seu presidente."
+  },
+  "94dcabae2ef6125a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Serviços"
+  },
+  "b82e67482471ab8d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Direcção de Serviços de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Direcção de Serviços de Recursos Humanos"
+  },
+  "056058dbfc1acadd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcção de Serviços de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção de Serviços de Recursos Humanos\n\nA Direcção de Serviços de Recursos Humanos compreende:\n\na) A Divisão de Pessoal;\n\nb) O Gabinete de Formação;\n\nc) A Repartição Financeira dos Recursos Humanos."
+  },
+  "8b675f1819448727": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º"
+  },
+  "9e707b8174eb98de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Pessoal\n\n1 - À Divisão de Pessoal compete:\n\na) Realizar estudos relativos à aplicação das medidas conducentes à melhor racionalização da gestão do pessoal;\n\nb) Recolher e tratar os dados relevantes para a gestão integrada dos recursos humanos e elaborar, periodicamente, os respectivos relatórios;\n\nc) Desenvolver as acções tendentes à preparação de decisões em matéria de gestão provisional de efectivos;\n\nd) Promover e implementar sistemas de avaliação da produtividade e preparar as instruções necessárias à sua aplicação;\n\ne) Desencadear, de acordo com o disposto na lei geral, o processo periódico de avaliação do serviço desempenhado pelo pessoal, acompanhar o seu desenvolvimento e propor a adaptação do sistema geral a situações específicas, nomeadamente as carreiras de regime especial;\n\nf) Executar as acções necessárias à organização e instrução dos processos relativos ao pessoal do quadro único do ME;\n\ng) Assegurar os procedimentos relativos a concursos;\n\nh) Assegurar a organização e actualização do cadastro de pessoal;\n\ni) Assegurar, nos termos legais, a preparação e divulgação da lista de antiguidades do pessoal;\n\nj) Estudar a aplicação da legislação sobre vencimentos e abonos de pessoal e propor as medidas necessárias à sua correcta e efectiva execução;\n\nl) Propor e proceder à afectação do pessoal do quadro único do ME e garantir a mobilidade nos termos da lei.\n\n2 - A Divisão de Pessoal organiza-se e desenvolve as suas competências, designadamente, através das áreas técnica, cadastro e provimentos."
+  },
+  "193b3b9550997497": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Gabinete de Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Gabinete de Formação\n\nAo Gabinete de Formação, coordenado por um técnico superior designado pelo secretário-geral, compete:\n\na) Elaborar planos anuais e ou plurianuais de formação de recursos humanos e realizar cursos de formação, seminários, conferências e outras acções de formação, com a prioridade superiormente determinada;\n\nb) Assegurar a divulgação dos planos de formação a todos os serviços do ME e entidades e instituições do sistema educativo;\n\nc) Avaliar casuisticamente e de acordo com os métodos superiormente aprovados as diferentes acções de formação realizadas, bem como os respectivos planos de formação;\n\nd) Colaborar em programas de formação promovidos por outros ministérios e organismos públicos."
+  },
+  "462d91b182155c52": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Repartição Financeira dos Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Repartição Financeira dos Recursos Humanos\n\nA Repartição Financeira dos Recursos Humanos compreende as seguintes secções:\n\na) A Secção de Processamento de Abonos;\n\nb) A Secção de Processamento de Prestações Complementares, Ajudas de Custo e Serviço Extraordinário."
+  },
+  "b1d48bcfafefd2d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º"
+  },
+  "e5caddd871ea0e4a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção de Processamento de Abonos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção de Processamento de Abonos\n\nÀ Secção de Processamento de Abonos compete:\n\na) Processar os vencimentos e outras remunerações certas do pessoal do quadro único do ME de acordo com as normas vigentes sobre a matéria, utilizando, designadamente, meios informáticos;\n\nb) Processar os vencimentos e outras remunerações certas dos membros do Governo e do pessoal afecto aos respectivos gabinetes;\n\nc) Processar, de modo idêntico ao referido na alínea a), as remunerações relativas aos agentes que a qualquer título prestem serviço na SG;\n\nd) Estabelecer, de acordo com o previsto na alínea anterior, as ligações necessárias com o Centro de Informática do Ministério das Finanças e com a respectiva delegação da Direcção-Geral da Contabilidade Pública;\n\ne) Garantir informação regular aos funcionários e assegurar o respectivo atendimento individual, nomeadamente através da resposta atempada às respectivas solicitações e de acordo com orientações e decisões superiores."
+  },
+  "8d4b2e42131bdfef": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Secção de Processamento de Prestações Complementares, Ajudas de Custo e Serviço Extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Secção de Processamento de Prestações Complementares, Ajudas de Custo e Serviço Extraordinário\n\nÀ Secção de Processamento de Prestações Complementares, Ajudas de Custo e Serviço Extraordinário compete:\n\na) Processar abonos, não inseridos em vencimentos e remunerações certas, ao pessoal da SG, nomeadamente ajudas de custo, reembolsos e despesas de viagem e ainda gratificações ao pessoal do quadro único do ME nos casos em que a lei lhe atribui tal competência, bem como proceder às reposições relativas a funcionários e outros agentes;\n\nb) Processar os abonos referidos na alínea anterior aos membros do Governo e ao pessoal afecto aos seus gabinetes;\n\nc) Veicular junto da Direcção-Geral de Protecção Social a Funcionários e Agentes da Administração Pública (ADSE) os pedidos de reembolso e comparticipação dos funcionários afectos à SG e dos agentes que aí prestem serviço, bem como outros assuntos relativos à protecção social;\n\nd) Prestar apoio administrativo aos gabinetes dos membros do Governo em matéria de abonos que não respeitem a vencimentos e que não se incluam na alínea b)."
+  },
+  "01569560f8a1fd59": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Direcção de Serviços de Arquivo e Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Direcção de Serviços de Arquivo e Documentação"
+  },
+  "5318fdfe8307840a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Direcção de Serviços de Arquivo e Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direcção de Serviços de Arquivo e Documentação\n\nA Direcção de Serviços de Arquivo e Documentação compreende:\n\na) A Divisão de Arquivo;\n\nb) O Centro de Documentação."
+  },
+  "eacbd11153af0af8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º"
+  },
+  "3090080b1e3adec9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Arquivo\n\n1 - À Divisão de Arquivo compete:\n\na) Estudar e propor normas tendentes à uniformização da classificação de documentos e respectivos prazos de conservação e destruição;\n\nb) Elaborar um regulamento geral de arquivos corrente e intermédio do ME, a aprovar por despacho do Ministro da Educação;\n\nc) Organizar e manter o Arquivo Histórico, o Arquivo Intermédio e o Arquivo Corrente;\n\nd) Promover a instalação do Arquivo Histórico e propor o regulamento específico da sua consulta e utilização por parte dos utentes, interessados, estudiosos, investigadores e órgãos da comunicação social;\n\ne) Elaborar, actualizar e divulgar um catálogo do Arquivo Histórico, bem como guias e roteiros que facilitem a difusão do espólio classificado;\n\nf) Elaborar e actualizar as tabelas gerais de avaliação, selecção e eliminação de documentos de acordo com a legislação em vigor relativamente aos serviços do ME e ainda aos estabelecimentos dos ensinos básico e secundário, esta última em articulação com os serviços responsáveis pela educação básica e pelo ensino secundário;\n\ng) Organizar bases de dados para os arquivos do ME;\n\n2 - A Divisão de Arquivo dispõe de um sector de registo e tratamento de arquivo."
+  },
+  "6292ae6182588625": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Centro de Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Centro de Documentação\n\n1 - Ao Centro de Documentação, dirigido por um chefe de divisão, compete:\n\na) Assegurar a gestão de toda a documentação não classificada produzida pelo ME, em condições a fixar por despacho do Ministro da Educação;\n\nb) Assegurar a ligação a centros de documentação nacionais e estrangeiros e às respectivas bases de dados;\n\nc) Organizar e assegurar o funcionamento da biblioteca especializada, utilizando tecnologias multimédia;\n\nd) Elaborar, utilizando meios informáticos, e manter actualizado o inventário e cadastro documental e bibliográfico;\n\ne) Organizar bases de dados de legislação permanentemente actualizadas, viabilizando, de acordo com o regulamento a aprovar por despacho do secretário-geral, a sua consulta por todos os serviços do ME e utentes e assegurando a sua ligação a outras bases de dados específicas;\n\nf) Reunir e actualizar a informação relativa à actividade e funcionamento de comissões, grupos de trabalho e outras estruturas existentes no âmbito do ME ou em que este esteja representado;\n\ng) Apoiar, em matéria de documentação e informação, os gabinetes dos membros do Governo, os serviços do ME e outras entidades, nomeadamente do sistema educativo;\n\nh) Promover a publicação de um roteiro do ME e de outras edições de interesse;\n\ni) Assegurar o registo e a gestão, em processo informatizado, dos documentos em arquivo e a coordenação e gestão dos serviços de reprografia.\n\n2 - O Centro de Documentação dispõe de um serviço de reprografia."
+  },
+  "6e43215c525d7db2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Centro de Informação e Relações Públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Centro de Informação e Relações Públicas"
+  },
+  "7dff340b176d02e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Centro de Informação e Relações Públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Centro de Informação e Relações Públicas\n\n1 - Ao Centro de Informação e Relações Públicas, dirigido por um chefe de divisão, compete:\n\na) Promover a divulgação das actividades desenvolvidas pelo ME e prestar informação sobre o procedimento administrativo respeitante ao sistema educativo;\n\nb) Apoiar os interessados na resolução das pretensões formuladas, prestando os esclarecimentos adequados ou estabelecendo os contactos necessários com os serviços responsáveis pelos respectivos processos, assegurando a existência de circuitos de informação interna eficazes;\n\nc) Assegurar, em articulação com outros serviços do ME, a divulgação da informação por eles produzida e a organização dos fora nacionais ou internacionais;\n\nd) Estabelecer contactos com os utentes e com entidades públicas ou privadas e encaminhar para os serviços competentes os pedidos, sugestões e reclamações, assegurando a existência de circuitos de informação eficazes;\n\ne) Assegurar a recepção e o encaminhamento dos utentes e visitantes dos serviços do ME;\n\nf) Utilizar, de acordo com orientações superiores, meios informáticos e das novas tecnologias gráficas e de informação existentes na SG.\n\n2 - Os serviços do ME enviarão ao Centro de Informação e Relações Públicas, em termos a regulamentar por despacho do Ministro da Educação, os documentos por si produzidos."
+  },
+  "64115b81801596f5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO IV"
+  },
+  "4559ad47e1d50020": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Instalações e Equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Instalações e Equipamento"
+  },
+  "805b0ab691536130": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º"
+  },
+  "7abd9d2f1649d67a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Divisão de Instalações e Equipamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão de Instalações e Equipamento\n\nÀ Divisão de Instalações e Equipamento compete:\n\na) Gerir, conservar, remodelar e manter as instalações e equipamento relativos a edifícios do ME que por lei dependam da SG;\n\nb) Proceder a estudos e à elaboração de normas de utilização das instalações e equipamentos afectos aos serviços do ME;\n\nc) Assegurar as funções técnicas e administrativas inerentes à planificação e realização de obras de construção, reparação, remodelação e conservação dos edifícios e seu apetrechamento afectos do ME;\n\nd) Proceder à análise dos processos, pareceres técnicos e elaboração de propostas para aquisição de terrenos, imóveis ou fracções, articulando todos os aspectos de ordem legal com o Gabinete Jurídico;\n\ne) Fiscalizar o cumprimento dos contratos, nos seus aspectos técnicos, administrativos e financeiros, de acordo com a legislação em vigor e em articulação com o Gabinete Jurídico;\n\nf) Proceder ao levantamento das necessidades relativas a instalações e equipamentos a afectar ao ME, elaborando propostas de actuação tendo em vista a preparação do plano global de intervenção;\n\ng) Proceder à análise dos processos, pareceres técnicos e elaboração de propostas sobre pedidos de actualização de rendas de prédios arrendados pelo ME, bem como proceder aos trâmites necessários à realização de novos contratos de arrendamento;\n\nh) Conduzir os processos de aquisição, instalação e conservação do equipamento a instalar nos edifícios afectos ao ME;\n\ni) Planear, coordenar e gerir o sistema de telecomunicações do ME, de acordo com as necessidades do serviço e a evolução tecnológica;\n\nj) Planear e coordenar as actividades relacionadas com a segurança das instalações e o equipamento afecto ao ME;\n\nl) Elaborar e divulgar normas, procedimentos e manuais de utilização do equipamento, visando garantir a segurança das pessoas e das instalações;\n\nm) Propor a aquisição de viaturas para o ME;\n\nn) Elaborar e manter actualizado, em colaboração com o Gabinete de Organização, Gestão e Informática, uma base de dados dos terrenos, instalações e equipamento cuja gestão esteja cometida à SG, contendo, nomeadamente, elementos referentes à sua localização, utilização, estado de conservação e taxa de ocupação."
+  },
+  "2a70937071925935": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO V — Gabinete de Organização, Gestão e Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO V — Gabinete de Organização, Gestão e Informática"
+  },
+  "cb8d7ff2ba61a3a9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Gabinete de Organização, Gestão e Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Gabinete de Organização, Gestão e Informática\n\n1 - Ao Gabinete de Organização, Gestão e Informática, dirigido por um director de serviços, compete:\n\na) Elaborar relatórios de progresso relativos à execução do orçamento e do plano de actividades da SG, em articulação com a Repartição de Administração Geral, e preparar o plano anual de actividades da SG;\n\nb) Elaborar as normas internas e instruções destinadas a garantir a aplicação, no âmbito do ME, dos diplomas legais e orientações emitidos relativamente à Administração Pública e garantir o contacto regular com os serviços responsáveis;\n\nc) Proceder a estudos de carácter organizativo e de análise dos circuitos administrativos, dos fluxos da informação e da automação de tarefas e informatização de procedimentos, tendo em vista a racionalização e melhoria da eficácia e eficiência de funcionamento dos serviços, propondo as medidas necessárias;\n\nd) Proceder, em estreita ligação com a Direcção de Serviços de Recursos Humanos, à definição e classificação das diversas funções, tendo em vista a adequação dos recursos humanos às necessidades dos serviços, e ao cálculo dos efectivos para a sua satisfação;\n\ne) Colaborar e participar no plano director de informática para a Administração Pública, designadamente no seu desenvolvimento;\n\nf) Assegurar a gestão da rede informática da SG e garantir a sua ligação a outras redes informáticas;\n\ng) Coordenar, em articulação com as respectivas unidades orgânicas e sem prejuízo das suas competências, a gestão integrada das bases de dados existentes na SG, acompanhando a análise das necessidades, a concepção das soluções e a sua implementação, bem como a respectiva avaliação continuada;\n\nh) Instalar, activar e manter o serviço de correio electrónico da SG;\n\ni) Prestar apoio técnico no domínio do equipamento e do suporte lógico aos serviços da SG;\n\nj) Elaborar e difundir manuais de procedimentos.\n\n2 - O Gabinete de Organização, Gestão e Informática exercerá as suas competências em estreita colaboração com os serviços do ME, com vista a uniformizar a rede de informação e comunicação do ME."
+  },
+  "c2749a645bd6b1c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO VI — Gabinete Jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO VI — Gabinete Jurídico"
+  },
+  "d0efb81b04cc4753": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Gabinete Jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Gabinete Jurídico\n\nAo Gabinete Jurídico, coordenado por um técnico superior designado pelo secretário-geral, compete:\n\na) Preparar e organizar os processos administrativos relativos a recursos, designadamente os contenciosos, e acompanhar o respectivo andamento, nomeadamente nos tribunais de círculo e no Supremo Tribunal Administrativo;\n\nb) Emitir pareceres, elaborar informações, proceder a estudos de natureza jurídica e apreciar e elaborar projectos de diplomas legais e de quaisquer outros actos jurídicos que lhe sejam solicitados;\n\nc) Colaborar na emissão de instruções, regulamentos ou circulares normativas;\n\nd) Prestar apoio técnico-jurídico aos serviços da SG, mediante despacho do secretário-geral ou dos secretários-gerais-adjuntos;\n\ne) Assegurar o patrocínio judiciário nas acções em que a SG ou a Editorial do ME sejam partes;\n\nf) Proceder ao registo das associações de estudantes do ensino não superior, disponibilizando, em base de dados, a informação relevante para consulta dos serviços e dos utentes;\n\ng) Promover a organização de uma base de dados de legislação e jurisprudência e de toda a documentação jurídica com interesse para a sua actividade, assegurando a integração e utilização das bases de dados especializadas existentes;\n\nh) Intervir em qualquer inspecção, inquérito, sindicância ou processo disciplinar."
+  },
+  "e6746131c4fe7678": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO VII — Repartição de Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO VII — Repartição de Administração Geral"
+  },
+  "f32eaa70878bbab0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Repartição de Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Repartição de Administração Geral\n\n1 - A Repartição de Administração Geral é o serviço de apoio administrativo nas áreas do expediente geral, da administração financeira e patrimonial e do economato e património.\n\n2 - A Repartição de Administração Geral compreende as seguintes secções:\n\na) A Secção de Expediente Geral;\n\nb) A Secção de Administração Financeira;\n\nc) A Secção de Economato e Património."
+  },
+  "5f37d2dbdb81423a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º"
+  },
+  "665f4c14dd6141ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção de Expediente Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção de Expediente Geral\n\nÀ Secção de Expediente Geral compete, em especial, proceder à recepção, classificação, registo e distribuição de toda a correspondência e demais documentos, bem como assegurar a expedição da correspondência a enviar pela SG."
+  },
+  "f3db2fd1759841cd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º"
+  },
+  "10901a727bb268e7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção de Administração Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção de Administração Financeira\n\nÀ Secção de Administração Financeira compete:\n\na) Elaborar, em articulação com o serviço competente do ME e tendo em consideração o plano anual de actividades da SG, a proposta de orçamento;\n\nb) Organizar a conta anual de gerência e preparar os elementos necessários à elaboração de relatórios de execução financeira;\n\nc) Assegurar os serviços de contabilidade e tesouraria;\n\nd) Assegurar uma contabilidade analítica como instrumento de apoio à gestão;\n\ne) Instruir os processos relativos a despesas e informar quanto à sua legalidade e cabimento, efectuando processamentos, liquidações e pagamentos;\n\nf) Processar as requisições mensais de fundos por conta das dotações orçamentais consignadas no Orçamento do Estado à SG;\n\ng) Apoiar os gabinetes dos membros do Governo, comissões e estruturas de missão relativamente às competências referidas nas alíneas anteriores;\n\nh) Promover a regularização dos fundos permanentes."
+  },
+  "ac756d4f16a24e99": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º"
+  },
+  "3fb5842b18228677": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Secção de Economato e Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção de Economato e Património\n\nÀ Secção de Economato e Património compete:\n\na) Proceder ao apetrechamento dos serviços do ME e manter actualizado o respectivo inventário e cadastro, utilizando meios informáticos;\n\nb) Assegurar os aprovisionamentos para a SG e gabinetes dos membros do Governo, procedendo ao controlo da qualidade dos bens e produtos adquiridos;\n\nc) Organizar na sua globalidade os processos de aquisição e distribuição de bens e serviços a afectar aos serviços centrais do ME e assegurar a gestão do armazém, mantendo em depósito o material necessário ao seu funcionamento;\n\nd) Assegurar a gestão de viaturas ao serviço do ME;\n\ne) Proceder à aquisição e distribuição de fardamento do pessoal;\n\nf) Superintender no pessoal auxiliar afecto à SG e executar a tramitação dos processos que possibilitem assegurar o serviço de limpeza e o serviço de vigilância das instalações que dela dependam."
+  },
+  "3fe2e1d097effe4e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Princípios de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Princípios de gestão"
+  },
+  "b7d044704199bb17": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Princípios gerais\n\n1 - A SG deve observar, na gestão financeira e patrimonial, os seguintes princípios:\n\na) Gestão por objectivos, tendo em conta uma desconcentração das decisões com base em objectivos precisos;\n\nb) Controlo orçamental pelos resultados, tendo em vista a avaliação da produtividade dos serviços;\n\nc) Sistema integrado de informações de gestão, necessário à elaboração dos programas e projectos e à sua correcta execução e avaliação.\n\n2 - Os vários serviços da SG colaborarão na elaboração dos intrumentos de planeamento e programação, assegurando o acompanhamento da execução dos projectos e acções a seu cargo."
+  },
+  "a812a52456296dde": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Instrumentos de gestão\n\n1 - A SG utilizará os seguintes instrumentos de gestão:\n\na) Planos anual e plurianual de actividades;\n\nb) Orçamento anual;\n\nc) Relatório de actividades e relatórios financeiros.\n\n2 - Os planos anual e plurianual de actividades devem equacionar os programas, propostas e acções a realizar, no período em referência, pelos vários serviços da SG, enunciando as áreas prioritárias de intervenção.\n\n3 - A preparação dos orçamentos respeitará o plano de actividades em vigor."
+  },
+  "56627f3546895d92": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Regime financeiro"
+  },
+  "de294dbf3ca69f58": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Receitas\n\nConstituem receitas da SG:\n\na) As dotações provenientes do Orçamento do Estado;\n\nb) As quantias cobradas pela prestação de serviços no âmbito das suas competências;\n\nc) O produto da venda de publicações editadas pela SG;\n\nd) O produto de venda de bens patrimoniais não indispensáveis ao seu funcionamento;\n\ne) Quaisquer outras receitas que lhe advenham por lei, por contrato ou por outro título, designadamente os saldos das receitas consignadas nos termos do n.º 2.º da [Portaria n.º 727/93](https://diariodarepublica.pt/dr/detalhe/portaria/727-1993-354346), de 12 de Agosto, ou de legislação que lhe for subsequente."
+  },
+  "6fc7cb7827cc9268": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Despesas\n\n1 - Os encargos decorrentes do exercício das competências da SG são suportados pelo respectivo orçamento.\n\n2 - Os pagamentos serão efectuados por meio de cheque contra recibos impressos e emitidos nos termos da lei.\n\n3 - O conselho administrativo poderá levantar e manter em tesouraria as importâncias indispensáveis ao pagamento das despesas que devam ser satisfeitas em dinheiro."
+  },
+  "acf452117e038d57": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Pessoal"
+  },
+  "76f523c3d19b472d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Equipas de projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Equipas de projecto\n\n1 - Sempre que a natureza dos objectivos o aconselhe, poderão ser constituídas, com carácter transitório, equipas de projecto, integradas por técnicos oriundos de uma ou de diversas unidades orgânicas da SG ou de diferentes serviços do ME.\n\n2 - As equipas de projecto serão constituídas por despacho do Ministro da Educação, quando integrem técnicos dos diferentes serviços do ME, ou por despacho do secretário-geral, quando os respectivos membros estiverem afectos à SG.\n\n3 - Quando os projectos, pelo seu carácter interdisciplinar ou especificidade própria, não possam ser eficazmente desenvolvidos através do estabelecido nos números anteriores, poderá ser criada uma estrutura de projecto, nos termos previstos no artigo 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro."
+  },
+  "d77be2947a45476a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Quadros de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Quadros de pessoal\n\n1 - A SG dispõe do pessoal dirigente constante do quadro anexo ao presente diploma, que dele faz parte integrante.\n\n2 - A SG dispõe de um quadro de afectação, integrado por pessoal do quadro único do ME e fixado por despacho do Ministro da Educação.\n\n3 - A afectação à SG do pessoal do quadro único é feita por despacho do secretário-geral."
+  },
+  "441fc5750a6094ba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VI — Editorial do Ministério da Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VI — Editorial do Ministério da Educação"
+  },
+  "4fc04dbb9b57e7ff": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º — Editorial do Ministério da Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Editorial do Ministério da Educação\n\n1 - À Editorial do Ministério da Educação são acrescidas as seguintes atribuições:\n\na) Concepção, orientação, tratamento gráfico e promoção da qualidade global de todos os documentos;\n\nb) Promoção e venda das publicações do ME por si editadas;\n\nc) Prestação de serviços, no âmbito das suas actividades, a entidades públicas ou privadas;\n\nd) Organização e realização de formação profissional, na sua área de actividade, destinada a jovens habilitados com cursos do ensino secundário, das escolas profissionais e das escolas superiores, de acordo com orientações a estabelecer por despacho do Ministro da Educação.\n\n2 - O conselho de gestão da Editorial do Ministério da Educação passa a designar-se por conselho de administração e é constituído pelo presidente e por quatro vogais, um dos quais exercerá as funções de director executivo e terá as competências que lhe forem delegadas pelo conselho de administração por proposta do presidente.\n\n3 - Os restantes três vogais são responsáveis pelos sectores administrativo-financeiro, de produção e de distribuição.\n\n4 - O vogal director executivo e os restantes vogais, se recrutados de entre funcionários públicos, são equiparados, para todos os efeitos legais, respectivamente a subdirector-geral e a director de serviços.\n\n5 - Quando o recrutamento para os mesmos lugares recair sobre indivíduos não vinculados à função pública, estes são contratados ao abrigo do regime geral de trabalho e ser-lhe-á atribuída a remuneração correspondente aos cargos referidos no número anterior.\n\n6 - O conselho coordenador da Editorial do Ministério da Educação passa a designar-se por conselho consultivo.\n\n7 - A comissão verificadora de contas passa a designar-se por comissão de fiscalização, sendo composta por três membros, a designar por despacho conjunto dos Ministros das Finanças e da Educação e do membro do Governo que tutela a Administração Pública, sendo-lhes devidas senhas de presença por cada reunião, de montante a fixar no despacho referido.\n\n8 - Os encargos resultantes da aplicação deste artigo são assumidos pela Editorial do Ministério da Educação.\n\n9 - É dado por findo o exercício de funções dos vogais do conselho de gestão e da comissão verificadora de contas da Editorial do Ministério da Educação que as estiverem a exercer à data da entrada em vigor deste diploma."
+  },
+  "0e0c98fb78a64d06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO VII — Disposições finais e transitórias"
+  },
+  "8ffd2b2fe749502d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Comercialização de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Comercialização de documentos\n\nA Secretaria-Geral pode assegurar a comercialização de:\n\na) Publicações e documentos editados por si, pela Editorial do Ministério da Educação ou por outros serviços públicos;\n\nb) Impressos;\n\nc) Selos fiscais;\n\nd) Informações sobre o sistema educativo em suporte informático."
+  },
+  "e5c54923c17fa846": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Acção social complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Acção social complementar\n\n1 - Todos os apoios sociais complementares do ME são assegurados pela SG até que se proceda à respectiva reinserção orgânico-funcional.\n\n2 - Para efeitos do disposto no número anterior o Secretário-Geral designará o serviço transitoriamente responsável pela execução daqueles apoios.\n\n3 - Para efeitos do disposto neste artigo, transitam para o orçamento da SG as verbas inscritas nos orçamentos das direcções regionais de educação, no âmbito da acção social complementar."
+  },
+  "816b84cf879590de": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Norma revogatória\n\nÉ revogado o [Decreto-Lei n.º 134/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-1993-665343), de 26 de Abril, e a alínea h) do artigo 6.º do [Decreto-Lei n.º 141/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1993-665341), de 26 de Abril.\n\nVisto e aprovado em Conselho de Ministros de 3 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo - Manuel Maria Ferreira Carrilho - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 25 de Julho de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Julho de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "327d662a8a7f96bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/197a00/26862694.pdf)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO — [(ver documento original)](https://files.diariodarepublica.pt/1s/1996/08/197a00/26862694.pdf)"
+  },
+  "3dda0326fdc74767": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "557ede0c26e9ee2a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º — Funções",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 2.º — Funções\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "18cefbbc064e6b10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 3.º — Competências\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "edb7d8c2fae89f7f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "ac5c052ed3a7fc1f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º — Serviços",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 5.º — Serviços\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "2be2d8bba9891b68": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º — Secretário-geral",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 6.º — Secretário-geral\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "6a50ca4725eeafa8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º — Conselho administrativo",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 7.º — Conselho administrativo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "4f581348aa22ed23": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º — Composição e funcionamento do conselho administrativo",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 8.º — Composição e funcionamento do conselho administrativo\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "51800a71c420e1fd": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º — Direcção de Serviços de Recursos Humanos",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 9.º — Direcção de Serviços de Recursos Humanos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "a07987eee4b6f8ec": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 10.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "e6729a8b8840b253": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º — Gabinete de Formação",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 11.º — Gabinete de Formação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "81e696ebe8325594": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º — Repartição Financeira dos Recursos Humanos",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 12.º — Repartição Financeira dos Recursos Humanos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "1710dda78c59001f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 13.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "feece44c0e95f70e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º — Secção de Processamento de Prestações Complementares, Ajudas de Custo e Serviço Extraordinário",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 14.º — Secção de Processamento de Prestações Complementares, Ajudas de Custo e Serviço Extraordinário\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "796d092f0c60a41c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º — Direcção de Serviços de Arquivo e Documentação",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 15.º — Direcção de Serviços de Arquivo e Documentação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "eed08778c79e9e7d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 16.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "703fe5dab712215f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º — Centro de Documentação",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 17.º — Centro de Documentação\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "c270ad0d00985422": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º — Centro de Informação e Relações Públicas",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 18.º — Centro de Informação e Relações Públicas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "3f87ce8a0e85dbf2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 19.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "e002a7ed43cb3411": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º — Gabinete de Organização, Gestão e Informática",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 20.º — Gabinete de Organização, Gestão e Informática\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "43988dac148624ee": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º — Gabinete Jurídico",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 21.º — Gabinete Jurídico\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "68806801e513c960": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º — Repartição de Administração Geral",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 22.º — Repartição de Administração Geral\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "74db93cc8bb39b12": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 23.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "0dc3b2e1b862c851": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 24.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "fdbdf8c8770ee23e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 25.º\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "6f341393381fb7dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º — Princípios gerais",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 26.º — Princípios gerais\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "59d5c29c2b078f2d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º — Instrumentos de gestão",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 27.º — Instrumentos de gestão\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "0c41d9c6b87c156f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º — Receitas",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 28.º — Receitas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "47f467e0950d51c3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º — Despesas",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 29.º — Despesas\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "e62187aa92766962": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º — Equipas de projecto",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 30.º — Equipas de projecto\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "48bdbf340d943072": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º — Quadros de pessoal",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 31.º — Quadros de pessoal\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "72cda0f6a5facd10": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º — Comercialização de documentos",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 33.º — Comercialização de documentos\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "f81f379c1cbde8a2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º — Acção social complementar",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 34.º — Acção social complementar\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+  },
+  "964fa9325d712999": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º — Norma revogatória",
+   "in_force_from": "2002-10-22",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17."
+   ],
+   "markdown": "###### Artigo 35.º — Norma revogatória\n\n(Revogado.)\n\n> Revogado pelo/a [Decreto-Lei n.º 208/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2002-432449), publicado em 2002-10-17.\n\nVisto e aprovado em Conselho de Ministros de 3 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo - Manuel Maria Ferreira Carrilho - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 25 de Julho de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 26 de Julho de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

@@ -28,10 +28,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1969-10-08'
+version_history:
+  file: decreto-43661.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1961-05-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1969-10-08'
+    amending: pt:dre:215933:por
+    amending_title: Decreto-Lei n.º 49294
+    changes:
+    - Altera Artigo 3.º
 identifiers:
   celex: null
   eli: null
@@ -57,7 +71,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T19:23:38Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 49294. Método e verificação:
+    consolidacao/README.md e consolidacao/piloto/portugal/decretos/1961/decreto-43661.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -106,11 +121,15 @@ Tornando-se necessário regulamentar o disposto no § 6.º do artigo 10.º do [D
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-Artigo 1.º A verba destinada à concessão de comparticipações será distribuída para a realização de obras de interesse colectivo e de interesse individual nas percentagens fixadas anualmente pelo Secretário de Estado da Agricultura, sob proposta da Junta de Colonização Interna.
+###### Artigo 1.º
+
+A verba destinada à concessão de comparticipações será distribuída para a realização de obras de interesse colectivo e de interesse individual nas percentagens fixadas anualmente pelo Secretário de Estado da Agricultura, sob proposta da Junta de Colonização Interna.
 
 § único. Deverá manter-se disponível até final de Junho de cada ano um terço da verba atribuída para melhoramentos de interesse individual, a fim de poder ocorrer a estragos provocados pelas intempéries.
 
-Art. 2.º Serão observadas na concessão de comparticipações as seguintes prioridades:
+###### Artigo 2.º
+
+Serão observadas na concessão de comparticipações as seguintes prioridades:
 
 A) Nas obras de interesse colectivo:
 
@@ -130,7 +149,9 @@ B) Nas obras de interesse individual:
 
 3.º Outras obras.
 
-Art. 3.º As percentagens a atribuir a cada uma das categorias de obras serão fixadas tendo em conta as disponibilidades orçamentais existentes na verba respectiva e de acordo com os limites a seguir indicados:
+###### Artigo 3.º
+
+As percentagens a atribuir a cada uma das categorias de obras serão fixadas tendo em conta as disponibilidades orçamentais existentes na verba respectiva e de acordo com os limites a seguir indicados:
 
 1.º Reparação de estragos provocados pelas intempéries nas propriedades rústicas; problema da habitação dos pequenos agricultores e assalariados rurais, e obras de rega, enxugo e defesa contra a erosão - até 50 por cento;
 
@@ -138,7 +159,13 @@ Art. 3.º As percentagens a atribuir a cada uma das categorias de obras serão f
 
 3.º Outras obras - até 30 por cento.
 
-Art. 4.º Quando a comparticipação seja concedida simultâneamente com o empréstimo, não poderá ser entregue qualquer fracção deste enquanto o montante da comparticipação não estiver totalmente investido na realização da obra.
+§ único. Nas obras de interesse colectivo a comparticipação poderá atingir o limite do custo das obras ou melhoramentos.
+
+> Alterado pelo/a [Decreto-Lei n.º 49294](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49294-1969-215933), publicado em 1969-10-08.
+
+###### Artigo 4.º
+
+Quando a comparticipação seja concedida simultâneamente com o empréstimo, não poderá ser entregue qualquer fracção deste enquanto o montante da comparticipação não estiver totalmente investido na realização da obra.
 
 Publique-se e cumpra-se como nele se contém.
 

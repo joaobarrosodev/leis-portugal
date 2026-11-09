@@ -1,0 +1,1072 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:546432:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1985-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e30d84ad6baced09",
+    "472eb799c81b0d3e",
+    "330c6d50ed149a5a",
+    "70fea8fe9cd6e2ed",
+    "cf896816ed3d849b",
+    "4059dc0467233bf4",
+    "7f653f076e7933b1",
+    "1c3cd11937a28cf5",
+    "ebd066732d51177d",
+    "21749171315af061",
+    "bca30553eabfedb0",
+    "04a059c790705137",
+    "ce44697136d58805",
+    "f7bc9e34e2f7a351",
+    "06ff40b7425ba751",
+    "ec60a3d1df76f8c2",
+    "71cc586cdc41ba26",
+    "552d4d051927078c",
+    "7eaf7e00ce761fe0",
+    "b33c913d8ea5dd89",
+    "9b5d18d906af58cf",
+    "be2fcdb2d515215b",
+    "0dd6b9045a65c672",
+    "712eba422207c3d1",
+    "df8b54ea1152449c",
+    "3898cd834a9d92fc",
+    "193a87833da0e0ab",
+    "71ca8e66fdd9b7c6"
+   ]
+  },
+  {
+   "date": "1991-07-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:557466:por",
+     "title": "Decreto-Lei n.º 288/90",
+     "published": "1990-09-20",
+     "dre_path": "/dr/detalhe/decreto-lei/288-1990-557466"
+    },
+    {
+     "id": "pt:dre:667897:por",
+     "title": "Decreto-Lei n.º 239/91",
+     "published": "1991-07-05",
+     "dre_path": "/dr/detalhe/decreto-lei/239-1991-667897"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 58.º",
+    "Altera Artigo 62.º"
+   ],
+   "fragments": [
+    "e30d84ad6baced09",
+    "1d4a0eedb7716ff3",
+    "09349716c23251b3",
+    "330c6d50ed149a5a",
+    "a1cbb6580c1ed765",
+    "b088a03fdbf082ed",
+    "cf896816ed3d849b",
+    "5f78d54e9748fee5",
+    "53fdb3662dc29709",
+    "970b81b7302edbac",
+    "1c7c4bd7be5769b9",
+    "a6823249c8f351f3",
+    "5d2d874e222f049c",
+    "5459c550483f0ac1",
+    "2c52447ca2bc5d1d",
+    "dfc6c4bb0102dd3c",
+    "447bedff29dcde95",
+    "5fe62898898ef0d1",
+    "a36826b62514f6c4",
+    "1dab61d38b4ed70a",
+    "e6549b46363180be",
+    "bec01f29793bf43c",
+    "ebd066732d51177d",
+    "0f91760be817bcfa",
+    "a1ec390cfa3fc219",
+    "bca30553eabfedb0",
+    "f3fd38670f3bbfb1",
+    "931ef3ef6f448417",
+    "105094bff9676cc7",
+    "e05b6555dba5ca09",
+    "9dfc6ade8e410e3c",
+    "2d1b7026791b1dea",
+    "9f113ec8f169324d",
+    "39a138440d26be83",
+    "ac8ef5eb378db5d0",
+    "9d0f9d5ca853a0cb",
+    "e64fe2db9233cee7",
+    "48ee67d22a32d5d2",
+    "a872ac1eea234c05",
+    "4e9fd1d22c8877c2",
+    "b1c3944acc85cf67",
+    "e554d69b97d498fa",
+    "41058520c727fc47",
+    "426b8c58b75a1032",
+    "c10a50236ce0ddcb",
+    "19f3eb212698e72e",
+    "ec60a3d1df76f8c2",
+    "3698d4bf52dac4bf",
+    "418df29770cc4c1c",
+    "e2878f436b67bcad",
+    "c70f0414db5eb56a",
+    "9058e3c6a57f2fba",
+    "43ea7fd2bb758674",
+    "5e9a1dad57d15099",
+    "373876edfc1bd154",
+    "daa596d199d9402d",
+    "b4e4b9569accf1c7",
+    "445c09aa2cf68ee7",
+    "e75fd528c3b90a06",
+    "23286467fd1f8826",
+    "20177269256a90f0",
+    "aa39e5f445d41ed3",
+    "b33c913d8ea5dd89",
+    "9b5d18d906af58cf",
+    "c94da00bc19d731f",
+    "5325a07bd50f2e4d",
+    "f2d8746b5fbc5972",
+    "ccca0ef565a19d04",
+    "6f6b1699065b5d53",
+    "9621e77300d99d1b",
+    "c51e5160d7b1072f",
+    "5aa5193ffa66e0a7",
+    "59e02990f52854b3",
+    "3283e94530e181fe",
+    "8d369f8debddbe27",
+    "9df5e5776e650a03",
+    "56e02e99076fd0ad",
+    "8f553be8eac60d0d",
+    "a5e2d81edb8378e6",
+    "39a998538f7ec3b9",
+    "8a959a5e016230f2",
+    "a691ce50536d6a8a",
+    "a11083696edb26a5",
+    "af2ecda4440095cc",
+    "3a3b314ce29923bc",
+    "0ac4b2b2ef56a095",
+    "ac8af8635126f7ae",
+    "05b436403ac5125e",
+    "aa33915dd39ed838",
+    "dca8d1a5d6088f65",
+    "61e6add21e27b92b",
+    "f4f63e91edbac053",
+    "36ef604502876466"
+   ]
+  }
+ ],
+ "fragments": {
+  "e30d84ad6baced09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 31 de Dezembro\n\nTendo em vista a adesão de Portugal à Comunidade Económica Europeia;\n\nConsiderando que de tal facto decorre a necessidade de adaptar a legislação nacional à comunitária;\n\nConsiderando que é esse o caso da Directiva do Conselho (CEE) n.º 79/695/CEE, de 24 de Julho de 1979, relativa à harmonização dos procedimentos de introdução em livre prática das mercadorias;\n\nTendo em conta que, se é certo que a entrada em vigor daquela directiva criou formalmente uma distinção entre as normas comunitárias que regulam a introdução em livre prática das mercadorias e as normas nacionais aplicáveis ao desalfandegamento na importação para consumo, tal não impede, antes aconselha, que se promova, na medida do possível, o alinhamento das normas nacionais pelas comunitárias, até por razões de ordem prática bem evidentes;\n\nPonderadas as implicações que adviriam de se proceder de forma diversa, dada a estreita semelhança entre aqueles dois regimes aduaneiros, tanto mais que se impõe adoptar de imediato, no ordenamento jurídico-aduaneiro interno, as normas necessárias à aplicação do regime comunitário de introdução em livre prática das mercadorias;\n\nConsiderando que as regras processuais nacionais sobre a importação para consumo apresentam distorções que, a não serem corrigidas, poderão afectar gravemente a eficiência das alfândegas e reflexamente o papel insubstituível que lhes cabe no contexto da situação nova e complexa criada pela adesão do País à Comunidade Económica Europeia:\n\nO Governo decreta, ao abrigo da alínea f) do artigo 30.º da [Lei n.º 2-B/85](https://diariodarepublica.pt/dr/detalhe/lei/2-b-1985-190671), de 28 de Fevereiro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "472eb799c81b0d3e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO I — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Definições\n\nArtigo 1.º Para efeitos de aplicação do presente decreto-lei, entende-se por:\n\na) «Direitos de importação», os direitos aduaneiros, os encargos de efeito equivalente a direitos, os direitos niveladores agrícolas e outras imposições previstas no âmbito da política agrícola comum ou no de regimes específicos aplicáveis na importação a certas mercadorias resultantes da transformação dos produtos agrícolas;\n\nb) «Saída das mercadorias para livre prática», a colocação das mercadorias declaradas para o regime de introdução em livre prática à disposição do declarante ou do seu representante, segundo as modalidades previstas nas leis e regulamentos aduaneiros e para os fins previstos nesse regime."
+  },
+  "330c6d50ed149a5a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO II — Regime geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO II — Regime geral"
+  },
+  "70fea8fe9cd6e2ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Âmbito de aplicação\n\nArt. 2.º As mercadorias destinadas a livre prática devem ser objecto de uma declaração de introdução em livre prática na estância aduaneira competente, designada em conformidade com o disposto no artigo 13.º"
+  },
+  "cf896816ed3d849b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO II — A declaração de introdução em livre prática das mercadorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO II — A declaração de introdução em livre prática das mercadorias"
+  },
+  "4059dc0467233bf4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Características gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Características gerais\n\nArt. 3.º A declaração de introdução em livre prática, a seguir designada «declaração», deve ser feita por escrito, num formulário conforme ao modelo oficial aprovado pelo Ministro das Finanças, sob proposta do director-geral das Alfândegas.\n\nArt. 4.º - 1 - A declaração pode ser feita pelo importador ou pelo seu representante legal, desde que habilitados a despachar nos termos da legislação aplicável.\n\n2 - A pessoa que, reunindo os requisitos indicados no número anterior, assine, ou em nome da qual seja assinada, a declaração é a seguir designada «declarante».\n\nArt. 5.º Quando sejam declaradas, no mesmo formulário, mercadorias a que correspondam designações pautais diferentes, os elementos correspondentes a cada uma delas são considerados como constituindo declarações separadas.\n\nArt. 6.º A declaração deve conter os elementos e ser acompanhada dos documentos necessários à identificação das mercadorias, ao cálculo dos direitos de importação e à aplicação das demais disposições que regulam a introdução em livre prática das mercadorias.\n\nArt.7.º - 1 - Os elementos exigidos no artigo anterior são os seguintes:\n\na) O nome, a morada e o código de identificação da entidade habilitada a despachar;\n\nb) O nome e a morada do importador, bem como os números de identificação de pessoa colectiva e do conhecimento da contribuição industrial;\n\nc) A contramarca fiscal, se for caso disso;\n\nd) Para as mercadorias que tenham sido objecto de uma declaração sumária, a referência a essa declaração;\n\ne) Para as mercadorias que não tenham sido objecto de uma declaração sumária:\n\nDeclaradas directamente para importação para livre prática, as indicações necessárias à identificação do meio de transporte a bordo do qual chegaram à estância aduaneira;\n\nDeclaradas para livre prática após terem sido colocadas sob um outro regime aduaneiro, a referência a esse regime;\n\nf) A data de apresentaçao das mercadorias na estância aduaneira;\n\ng) As marcas, números, quantidade e natureza dos volumes ou, tratando-se de mercadorias a granel, a quantidade e a qualidade, em peso ou volume;\n\nh) O local onde se encontram as mercadorias;\n\ni) O código pautal, assim como a designação das mercadorias correspondente a esse código ou uma designação em termos suficientemente precisos que permitam aos serviços aduaneiros determinar imediatamente e sem ambiguidade a correspondência das mercadorias com o código pautal declarado;\n\nj) O peso bruto das mercadorias;\n\nk) O valor aduaneiro e, se for caso disso, os dados quantitativos necessários à sua determinação;\n\nl) Tratando-se de mercadorias sujeitas a direitos específicos, os dados quantitativos e as especificações complementares eventualmente necessárias à aplicação desses direitos;\n\nm) Tratando-se de mercadorias sujeitas a direitos ad valorem com um mínimo ou máximo de percepção baseada em dados específicos, o conjunto dos elementos indicados nas alíneas k) e l);\n\nn) O país de origem e o país de procedência das mercadorias;\n\no) O número da licença, declaração ou certificado de importação, se for caso disso;\n\np) A taxa dos direitos aplicáveis às mercadorias declaradas;\n\nq) O montante das imposições devidas, tal como foi calculado pelo declarante;\n\nr) O número, precedido da letra ou letras indicativas do país de emissão, do certificado de importação ou de prefixação apresentados nos termos das disposições aplicáveis em matéria de política agrícola comum;\n\ns) A enumeração dos documentos juntos à declaração;\n\nt) Quaisquer outros elementos necessários à aplicação das disposições que regulam a introdução em livre prática das mercadorias.\n\n2 - Para efeitos do disposto na alínea i) do número anterior, entende-se por código pautal o conjunto formado pelo número estatístico constante da Nomenclatura Estatística das Mercadorias do Comércio Externo (NEMCE) e pelos dígitos correspondentes aos desdobramentos aduaneiros.\n\nArt. 8.º - 1 - Devem ser juntos ou apresentados com a declaração, para efeitos do disposto no artigo 6.º:\n\na) A factura comercial;\n\nb) O conhecimento de carga, a carta de porte aéreo ou documentos equivalentes, apresentados em conformidade com as disposições regulamentares aplicáveis;\n\nc) A declaração relativa ao valor aduaneiro;\n\nd) Os certificados de origem ou de circulação necessários à aplicação de um regime pautal preferencial ou de qualquer outra medida para que sejam exigíveis;\n\ne) A licença, declaração ou certificado de importação, se for caso disso, assim como as autorizações, certificados ou outros documentos exigidos por força de medidas de proibição, restrição ou controle;\n\nf) A lista de volumes ou documento equivalente indicando o conteúdo de cada um deles, quando as mercadorias sejam apresentadas em vários volumes;\n\ng) Quaisquer outros documentos necessários à aplicação das disposições que regulam a introdução em livre prática das mercadorias.\n\n2 - Quando o considerem necessário, poderão os serviços aduaneiros exigir, aquando da entrega da declaração, a apresentação dos documentos relativos ao regime aduaneiro anterior.\n\nArt. 9.º Os documentos mencionados no artigo anterior devem ser conservados pelos serviços aduaneiros, salvo quando possam ser utilizados pelo declarante para outras operações.\n\nNestes casos, aqueles serviços tomarão as medidas necessárias para que os documentos em causa apenas possam ser utilizados para as quantidades ou valores para que continuam válidos."
+  },
+  "7f653f076e7933b1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Exame prévio e extracção de amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Exame prévio e extracção de amostras\n\nArt. 10.º - 1 - Quando o declarante se não achar habilitado a preencher a declaração no que respeita à descrição das mercadorias, a estância aduaneira competente autorizará o mesmo a proceder a exame prévio ou a extracção de amostras, mediante pedido escrito.\n\n2 - O pedido referido no número anterior é formulado em impresso próprio e deverá conter os seguintes elementos:\n\nO nome, a morada e o código de identificação da entidade habilitada a despachar;\n\nO nome e a morada do importador, bem como os números de identificação de pessoa colectiva e do conhecimento da contribuição industrial;\n\nO número da declaração sumária, se a houver, ou a referência ao regime aduaneiro anterior, ou as indicações necessárias à identificação do meio de transporte a bordo do qual as mercadorias chegaram à estância aduaneira, consoante os casos;\n\nA quantidade, qualidade, marcas e números dos volumes, o peso bruto e a designação comercial das mercadorias;\n\nO local onde se encontram as mercadorias.\n\nArt. 11.º - 1 - O exame prévio ou a extracção de amostras são autorizadas pelo chefe da estância aduaneira na qual as mercadorias tenham sido apresentadas, nos termos do artigo 13.º, indicando-se, no caso de uma extracção de amostras, as quantidades a extrair.\n\n2 - O exame prévio ou a extracção de amostras são efectuados sob controle da estância aduaneira, sendo as manipulações das mercadorias feitas por conta e risco do declarante.\n\nArt. 12.º Quando as amostras extraídas não forem posteriormente declaradas para introdução em livre prática conjuntamente com as mercadorias a que respeitam, os direitos de importação de que sejam passíveis serão liquidados com base nos elementos constantes do pedido referido no artigo 10.º e de acordo com as taxas em vigor na data da aceitação do mesmo."
+  },
+  "1c3cd11937a28cf5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Entrada da declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Entrada da declaração\n\nArt. 13.º - 1 - A declaração deve ser entregue na estância aduaneira competente para a realização da operação em causa, durante o respectivo horário normal de funcionamento e após apresentação das mercadorias nessa estância.\n\n2 - A pedido e expensas do declarante pode a declaração ser entregue fora do horário normal de funcionamento da estância aduaneira referida no número anterior.\n\n3 - Para efeitos do disposto neste artigo consideram-se apresentadas numa estância aduaneira as mercadorias cuja chegada a essa estância ou a qualquer outro local designado ou aprovado pelas autoridades aduaneiras tenha sido comunicada a estas autoridades a fim de lhes permitir assegurar a fiscalização ou o controle das mercadorias.\n\nArt. 14.º - 1 - Em derrogação do disposto no n.º 1 do artigo anterior e a pedido do declarante, pode a estância aduaneira autorizar a entrega da declaração antes de as mercadorias lhe terem sido apresentadas, fixando um prazo para esse efeito.\n\n2 - Se, decorrido o prazo previsto no número anterior, as mercadorias não tiverem sido apresentadas, a declaração será restituída ao declarante.\n\n3 - As declarações entregues nas condições previstas no n.º 1 deste artigo apenas poderão ser aceites após comprovação, pela estância aduaneira, de que as mercadorias lhe foram efectivamente apresentadas."
+  },
+  "ebd066732d51177d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO IV — Aceitação da declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO IV — Aceitação da declaração"
+  },
+  "21749171315af061": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Declarações completas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Declarações completas\n\nArt. 15.º - 1 - As declarações que, nos termos dos artigos 7.º e 8.º, contenham todos os elementos e a que tenham sido juntos todos os documentos necessários à realização da operação em causa são, após efectivado o controle de aceitação previsto no número seguinte, aceites, numeradas e registadas de imediato pela estância aduaneira competente.\n\n2 - Para efeitos do disposto no número anterior, entende-se por controle de aceitação o conjunto de operações destinadas a averiguar se nada obsta à aceitação da declaração, incidindo, designadamente, sobre a competência da estância aduaneira a habilitação do declarante para despachar, os requisitos de forma relativa à declaração, os elementos declarados e a apresentação ou junção à declaração dos documentos cuja entrega ou apresentação seja obrigatória.\n\n3 - A data da aceitação deve ser aposta na declaração para efeitos do disposto no artigo 43.º"
+  },
+  "bca30553eabfedb0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Declarações incompletas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Declarações incompletas"
+  },
+  "04a059c790705137": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "DIVISÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### DIVISÃO I\n\nArt. 16.º - 1 - Em derrogação do disposto no artigo anterior, podem as estâncias aduaneiras, a pedido do declarante e por motivos por elas considerados válidos, aceitar as declarações a que faltem determinados elementos ou a que não tenham sido juntos alguns dos documentos a que se refere o artigo 8.º\n\n2 - À aceitação das declarações incompletas é aplicável o disposto no artigo 15.º\n\nArt. 17.º Para poderem ser aceites, devem as declarações incompletas conter, pelo menos, os elementos indicados nas alíneas a), c), d) ou e) e g) do artigo 7.º, assim como:\n\nA designação das mercadorias em termos suficientemente precisos que permitam aos serviços aduaneiros determinar, imediatamente e sem ambiguidade, o código pautal correspondente às mercadorias;\n\nO valor aduaneiro, tratando-se de mercadorias passíveis de direitos ad valorem, ou, quando os serviços aduaneiros constatarem que o declarante não está em condições de declarar esse valor, a indicação provisória do mesmo considerada aceitável por aqueles serviços, tendo em conta, designadamente, os elementos de que o declarante dispuser;\n\nQuaisquer outros elementos considerados necessários pelos serviços aduaneiros para identificação e aplicação das disposições que regulam a sua introdução em livre prática, assim como, se for caso disso, para a determinação da garantia a que poderá ficar subordinada a saída das mercadorias para livre prática.\n\nArt. 18.º - 1 - As declarações incompletas podem igualmente ser aceites sem que tenham sido juntos ou apresentados os documentos mencionados no artigo 8.º, desde que sejam acompanhadas, pelo menos, dos documentos a cuja entrega ou apresentação está subordinada a introdução em livre prática das mercadorias.\n\n2 - Em derrogação do disposto no n.º 1, as declarações não acompanhadas dos documentos a cuja apresentação está subordinada a introdução em livre prática das mercadorias podem ser aceites, uma vez estabelecido, a contento dos serviços aduaneiros:\n\na) Que o documento em causa existe e está válido;\n\nb) Que por circunstâncias alheias à vontade do declarante o documento não foi junto ou apresentado com a declaração;\n\nc) Que qualquer atraso na aceitação da declaração impediria a introdução em livre prática das mercadorias ou teria como resultado sujeitá-las a uma taxa de direitos de importação mais elevada.\n\n3 - Os elementos relativos à identificação dos documentos em falta devem, em qualquer caso, ser indicados na declaração.\n\nArt. 19.º As declarações incompletas, aceites nos termos do artigo 16.º, podem ser, relativamente aos elementos em falta:\n\na) Completadas pelo declarante;\n\nb) Substituídas, com a concordância dos serviços aduaneiros, por outras que obedeçam às condições fixadas no n.º 1 do artigo 15.º\n\nNestes casos, a data a considerar para aplicação do disposto no artigo 43.º é a data da aceitação da declaração incompleta."
+  },
+  "ce44697136d58805": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "DIVISÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### DIVISÃO II\n\nArt. 20.º Sem prejuízo das disposições comunitárias aplicáveis em matéria de valor aduaneiro e do disposto no artigo seguinte, o prazo concedido ao declarante para comunicação dos elementos ou apresentação dos documentos em falta não poderá exceder 1 mês, contado a partir da data da aceitação da declaração.\n\nArt. 21.º Quando as mercadorias possam beneficiar da aplicação de um direito de importação reduzido ou nulo, tal facto não levante dúvidas aos serviços aduaneiros e quando a concessão daquele benefício esteja dependente da apresentação de um certificado de origem ou de circulação, ou de um documento equivalente, pode, a pedido do declarante, o prazo previsto no artigo 20.º ser prorrogado por 3 meses, para apresentação do documento em falta.\n\nArt. 22.º Se um direito de importação reduzido ou nulo apenas for aplicável às mercadorias introduzidas em livre prática dentro de um contingente ou de um plafond pautal, a imputação a efectuar nos limites autorizados apenas poderá verificar-se no momento da apresentação efectiva do documento a que está subordinada a concessão desse direito reduzido ou nulo, devendo, em qualquer caso, a apresentação do documento ter lugar:\n\nTratando-se de um plafond pautal, antes da data em que sejam reintroduzidos, por um regulamento comunitário ad hoc, os direitos normais de importação;\n\nTratando-se de um contingente pautal, antes que os limites estabelecidos tenham sido atingidos.\n\nArt. 23.º Sem prejuízo do disposto nos artigos 21.º e 22.º, o documento a cuja apresentação está subordinada a aplicação de um direito de importação reduzido ou nulo pode ser apresentado após a data em que tiver expirado o período para o qual foi fixado esse direito, desde que a declaração relativa às mercadorias em causa tenha sido aceite antes dessa data."
+  },
+  "f7bc9e34e2f7a351": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "DIVISÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### DIVISÃO III\n\nArt. 24.º A aceitação de uma declaração incompleta não pode ter por efeito impedir ou retardar a saída das mercadorias para livre prática, salvo se outras razões o não permitirem.\n\nSem prejuízo do disposto nos artigos 46.º a 49.º, os serviços aduaneiros darão saída às mercadorias, se tal for solicitado pelo declarante, observando-se o disposto nos artigos seguintes, consoante os casos.\n\nArt. 25.º Quando a apresentação ulterior de um elemento ou de um documento em falta no momento da aceitação da declaração não afectar o montante dos direitos de importação aplicáveis às mercadorias objecto da declaração, os serviços aduaneiros procederão, nos termos do n.º 2 do artigo 42.º, ao registo imediato da liquidação dos direitos devidos.\n\nArt. 26.º Quando, nas situações previstas no segundo parágrafo do artigo 17.º, se afigure necessário diferir a determinação definitiva do valor, os serviços aduaneiros:\n\na) Procederão nos termos do n.º 2 do artigo 42.º, ao registo imediato da liquidação do montante dos direitos de importação, calculados com base no valor declarado provisoriamente;\n\nb) Exigirão, se for caso disso, a prestação de uma garantia suficiente para cobrir a diferença entre o montante indicado na alínea anterior e aquele a que as mercadorias podem ficar definitivamente sujeitas.\n\nArt. 27.º - 1 - Quando, fora dos casos previstos no artigo anterior, a apresentação ulterior de um elemento ou de um documento em falta no momento da aceitação da declaração afectar o montante dos direitos de importação aplicáveis às mercadorias declaradas, seguir-se-á o disposto nos números seguintes, consoante os casos.\n\n2 - Se da apresentação ulterior do elemento ou do documento em falta puder resultar a aplicação de um direito de importação de taxa reduzida, os serviços aduaneiros:\n\na) Procederão, nos termos do n.º 2 do artigo 42.º, ao registo imediato da liquidação do montante dos direitos de importação calculados com base nessa taxa reduzida;\n\nb) Exigirão a prestação de uma garantia suficiente para cobrir a diferença entre o montante indicado na alínea anterior e aquele que resultaria da aplicação às mercadorias dos direitos de importação calculados com base na taxa normal.\n\n3 - Se da apresentação ulterior de um elemento ou de um documento em falta puder resultar que as mercadorias venham a beneficiar de uma isenção total dos direitos de importação, os serviços aduaneiros exigirão a prestação de uma garantia suficiente para cobrir a percepção eventual do montante dos direitos de importação calculados com base na taxa normal.\n\nArt. 28.º Quando, expirados os prazos previstos nos artigos 20.º ou 21.º, o declarante não tiver apresentado os elementos necessários à determinação definitiva do valor aduaneiro, ou não tiver comunicado os elementos ou apresentado os documentos em falta, os serviços aduaneiros procederão, nos termos do n.º 2 do artigo 42.º, ao registo imediato da liquidação a título de direitos de importação, dos montantes devidos, cativando, para o efeito, a garantia prestada em conformidade com o disposto na alínea b) do artigo 26.º, na alínea b) do n.º 2 do artigo 27.º, ou no n.º 3 do mesmo preceito, consoante os casos."
+  },
+  "06ff40b7425ba751": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Rectificação e anulação das declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Rectificação e anulação das declarações\n\nArt. 29.º Sob reserva do disposto no artigo seguinte, pode o declarante ser autorizado a rectificar, desde que o requeira, um ou mais elementos de uma declaração já aceite pelos serviços aduaneiros:\n\na) Por correcção, na própria declaração, do elemento ou elementos em causa;\n\nb) Mediante a entrega de uma nova declaração destinada a substituir a declaração primitiva.\n\nNestes casos, a data a considerar para efeitos do disposto no artigo 43.º é a data da aceitação da declaração primitiva.\n\nArt. 30.º Para efeitos de aplicação do disposto no artigo anterior, a rectificação:\n\na) Deverá ser requerida antes de ter sido autorizada a saída das mercadorias para livre prática;\n\nb) Não será concedida se o respectivo pedido tiver sido formulado após os serviços aduaneiros terem informado o declarante da sua intenção de proceder a um exame das mercadorias, ou constatado a inexactidão do elemento ou elementos em causa;\n\nc) Não poderá ter por efeito fazer incidir a declaração sobre mercadorias diferentes das inicialmente declaradas.\n\nConsideram-se diferentes das inicialmente declaradas as mercadorias a que correspondam, nos termos da alínea i) do n.º 1 do artigo 7.º, designações diferentes das inicialmente indicadas na declaração.\n\nArt. 31.º - 1 - Os serviços aduaneiros podem, a solicitação do declarante, autorizar a anulação de uma declaração já aceite, desde que o pedido tenha sido formulado antes de autorizada a saída das mercadorias para livre prática e o declarante prove, a contento daqueles serviços:\n\na) Que as mercadorias foram declaradas por erro para livre prática;\n\nb) Que, devido a circunstâncias excepcionais, a entrada das mercadorias em livre prática deixou de se justificar.\n\n2 - A anulação da declaração implica igualmente a anulação dos averbamentos a ela referentes efectuados nos documentos apresentados conjuntamente ou em apoio da declaração ou, sendo caso disso, a anulação ou cancelamento desses documentos."
+  },
+  "ec60a3d1df76f8c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO III — Controle da declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO III — Controle da declaração"
+  },
+  "71cc586cdc41ba26": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Controle documental e exame das mercadorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Controle documental e exame das mercadorias\n\nArt. 32.º Sem prejuízo do controle de aceitação previsto no artigo 15.º, os serviços aduaneiros procederão, nos termos das disposições regulamentares aplicáveis que não contrariem o estabelecido neste decreto-lei e observando-se o disposto nesta secção, à conferência da declaração, à verificação e à reverificação das mercadorias, consoante os casos, para efeitos de controle da declaração.\n\nArt. 33.º - 1 - Quando, para os fins previstos no artigo anterior, haja que proceder ao exame das mercadorias, será o mesmo efectuado nos locais e durante as horas para o efeito estabelecidas.\n\nA pedido do declarante, podem os serviços aduaneiros autorizar o exame das mercadorias em horas e locais diferentes dos anteriormente referidos, sendo, nestes casos, as despesas daí resultantes suportadas pelo declarante.\n\n2 - O transporte das mercadorias para os locais onde haja de procede-se ao respectivo exame, a desembalagem, a reembalagem ou quaisquer manipulações necessárias são efectuadas pelo declarante ou sob sua responsabilidade, correndo as despesas por conta do declarante.\n\nArt. 34.º - 1 - Quando, para os fins previstos no artigo 32.º, haja lugar a exame das mercadorias, o declarante tem o direito de assistir a esse exame, por si ou seu representante.\n\nQuando, para os mesmos fins, os serviços aduaneiros decidirem proceder ao exame das mercadorias, informarão dessa decisão o declarante ou o seu representante.\n\n2 - O declarante ou a pessoa por ele designada para assistir ao exame das mercadorias prestará aos serviços aduaneiros a assistência por estes julgada necessária para o efeito, podendo estes serviços, quando a assistência não for considerada satisfatória, exigir que o declarante designe uma pessoa apta para esse fim.\n\n3 - Em caso de recusa do declarante em assistir ao exame das mercadorias ou em designar uma pessoa apta para o fim previsto no número anterior, os serviços aduaneiros fixar-lhe-ão um prazo para o efeito.\n\nSe, decorrido o prazo fixado, o declarante não tiver cumprido o determinado pelos serviços aduaneiros, estes serviços procederão oficiosamente, para efeitos do disposto no artigo 50.º, na parte aplicável, por conta e risco do declarante, ao exame das mercadorias, recorrendo, quando o considerem necessário, à colaboração de um perito.\n\n4 - As constatações a que os serviços aduaneiros chegarem durante o exame realizado nas condições previstas no número anterior têm a mesma validade que teriam se o exame tivesse sido feito na presença do declarante.\n\nArt. 35.º - 1 - Caso os serviços aduaneiros decidam proceder a exame de apenas uma parte das mercadorias declaradas, indicarão, sem que o declarante possa opor-se a essa escolha, quais as que pretendem examinar.\n\n2 - Sem prejuízo do direito reconhecido ao declarante de exigir que o exame incida sobre a totalidade das mercadorias objecto da declaração quando considerar que os resultados parciais obtidos não são válidos para o resto das mercadorias declaradas, os resultados do exame realizado nas condições previstas no número anterior são extensivos à totalidade das mercadorias declaradas."
+  },
+  "552d4d051927078c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Extracção de amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Extracção de amostras\n\nArt. 36.º - 1 - Aquando da realização dos exames previstos na secção anterior, podem os serviços aduaneiros extrair amostras para análise ou controle aprofundado das mercadorias objecto da declaração, informando deste facto o declarante ou o seu representante.\n\nAs despesas ocasionadas por essa análise ou controle são suportadas pela administração aduaneira.\n\n2 - Quando, em virtude da extracção das amostras, haja eventualmente lugar à suspensão do exame das mercadorias, deverá essa suspensão ser expressamente mencionada na declaração.\n\n3 - Os serviços aduaneiros poderão exigir, se o considerarem útil, que o declarante assista, por si ou seu representante, à extracção das amostras, a fim de lhes prestar a necessária assistência.\n\n4 - Em caso de recusa do declarante em assistir à extracção das amostras ou em designar outra pessoa para o fim previsto no número anterior, ou, ainda, caso não preste toda a assistência necessária com vista a facilitar a operação, aplica-se-á o disposto nos n.os 3 e 4 do artigo 34.º\n\nArt. 37.º As extracções de amostras são efectuadas pelos serviços aduaneiros, ou, se estes serviços assim o entenderem e sob seu controle, pelo declarante ou outra pessoa por este designada.\n\nArt. 38.º As quantidades extraídas a título de amostras não devem exceder as necessárias para permitir a análise ou o controle aprofundado previstos no artigo 36.º, incluindo uma eventual contra-análise.\n\nArt. 39.º - 1 - Salvo se outras razões o impedirem, podem os serviços aduaneiros, enquanto aguardam os resultados da análise ou do controle referido no artigo anterior, dar saída às mercadorias para livre prática.\n\nA saída terá lugar sem prejuízo do disposto nos artigos 46.º a 49.º e implica o registo imediato da liquidação, nos termos do n.º 2 do artigo 42.º, do montante dos direitos de importação calculados com base nos elementos constantes da declaração.\n\n2 - Para efeitos da determinação do montante dos direitos de importação aplicáveis às mercadorias objecto da declaração, as quantidades extraídas a título de amostras não são deduzidas da quantidade declarada.\n\n3 - Sem embargo do disposto no número anterior, as amostras devolvidas ao declarante não podem ser introduzidas no consumo sem que previamente tenham sido liquidados e objecto de registo, nos termos do artigo 42.º, os direitos de importação a elas referentes, calculados com base nos elementos de tributação constantes da declaração como tal reconhecidos ou aceites pelos serviços aduaneiros.\n\nArt. 40.º - 1 - A pedido e a expensas do declarante, e a menos que tenham ficado destruídas em resultado da análise ou do controle efectuados, as amostras extraídas são restituídas ao declarante, desde que a sua conservação pelos serviços aduaneiros se mostre desnecessária, nomeadamente após esgotadas pelo declarante as possibilidades de recurso das decisões tomadas, em processo técnico, pelo tribunal competente, com base nos resultados da análise ou do controle efectuados.\n\n2 - As amostras cuja restituição não tenha sido requerida pelo declarante podem ser destruídas ou conservadas pelos serviços aduaneiros, sem embargo da faculdade cometida a estes serviços de exigir que o declarante promova, em casos especiais, a remoção das amostras restantes."
+  },
+  "7eaf7e00ce761fe0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Liquidações e cobranças das imposições devidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Liquidações e cobranças das imposições devidas\n\nArtigo 41.º - 1 - Os resultados da conferência da declaração, acompanhada ou não da verificação ou da reverificação das mercadorias, ou, quando haja lugar a processo técnico, as decisões do tribunal competente servem de base ao cálculo dos direitos de importação e à aplicação de outras disposições que regulam a introdução em livre prática das mercadorias.\n\n2 - O disposto no número anterior não obsta ao exercício eventual de controle a posteriori, nem às consequências que daí possam resultar, nos termos da legislação aplicável, designadamente no que respeita à alteração dos direitos de importação aplicados às mercadorias.\n\nArt. 42.º - 1 - A liquidação prevista no artigo anterior será efectuada por funcionários da carreira técnica ou da carreira técnica superior, a não ser que, não existindo funcionários daquelas carreiras colocados numa dada distância aduaneira, de outro modo disponha o director da respectiva alfândega.\n\n2 - Sem prejuízo das modificações susceptíveis de ocorrer por força do n.º 2 do artigo anterior, o montante dos direitos de importação liquidados é registado pelos serviços aduaneiros e comunicado ao declarante segundo os procedimentos administrativos previstos para o efeito.\n\n3 - Os procedimentos aplicáveis à liquidação e ao registo da liquidação das declarações que sejam objecto do tratamento informatizado serão definidos por despacho do Ministro das Finanças.\n\nArt. 43.º - 1 - Sem prejuízo das regras especiais aplicáveis no âmbito de regulamentações comunitárias gerais ou específicas e com ressalva do disposto no número seguinte, os direitos de importação serão cobrados de acordo com as taxas ou montantes em vigor na data da aceitação da declaração.\n\nSem prejuízo das regras especiais acima referidas, será tomada em consideração esta mesma data para determinação de outros elementos de tributação das mercadorias e para aplicação de quaisquer outras disposições que regulam a sua introdução em livre prática.\n\n2 - Em caso de redução da taxa dos direitos aduaneiros, ocorrida após a data da aceitação da declaração, pode o declarante solicitar a aplicação da taxa mais favorável, se a saída das mercadorias para livre prática não tiver sido dada.\n\n3 - O disposto no n.º 2 não é aplicável às mercadorias cuja saída não tenha sido dada por motivos imputáveis unicamente ao declarante."
+  },
+  "b33c913d8ea5dd89": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO V — Destino das mercadorias declaradas para livre prática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO V — Destino das mercadorias declaradas para livre prática"
+  },
+  "9b5d18d906af58cf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Saída das mercadorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Saída das mercadorias"
+  },
+  "be2fcdb2d515215b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Regras gerais\n\nArt. 44.º Sem prejuízo das medidas de proibição, restrição ou controle eventualmente aplicáveis, os serviços aduaneiros não podem autorizar a saída das mercadorias declaradas para introdução em livre prática sem que os respectivos direitos de importação tenham sido pagos, garantidos ou objecto de diferimento do pagamento, nos termos e segundo as modalidades previstos na legislação aplicável.\n\nArt. 45.º - 1 - A saída das mercadorias para livre prática é dada de uma só vez para a totalidade das mercadorias objecto da declaração, nos termos das leis e regulamentos aduaneiros aplicáveis, tendo em conta os locais onde as mesmas se encontram e, consoante os casos, as formas de fiscalização aduaneira sobre elas exercida.\n\nA data de autorização da saída é aposta na declaração.\n\n2 - A saída considera-se dada ou autorizada e as mercadorias colocadas à disposição do declarante ou do seu representante a partir do momento da entrega ao interessado, pelo reverificador, verificador ou conferente da declaração, consoante os casos, do documento com base no qual pode proceder-se ao respectivo levantamento.\n\n3 - Enquanto a saída não tiver sido dada, as mercadorias não podem ser removidas do local onde se encontrem nem, por qualquer forma, ser manipuladas sem autorização dos serviços aduaneiros."
+  },
+  "0dd6b9045a65c672": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Saídas condicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Saídas condicionais\n\nArt. 46.º Quando, enquanto aguardam os resultados dos controles efectuados relativos à conferência da declaração ou ao exame das mercadorias, os serviços aduaneiros:\n\na) Não se acharem em condições de determinar o montante dos direitos de importação a que as mercadorias estão sujeitas;\n\nb) Considerarem que os controles efectuados podem levar à determinação de um montante dos direitos de importação superior ao que resulta dos elementos da declaração;\n\nc) Determinarem um montante dos direitos de importação diferente do que resulta dos elementos da declaração,\n\npodem, a pedido do declarante, dar saída às mercadorias para livre prática, observando-se, consoante os casos, o disposto nos artigos seguintes.\n\nArt. 47.º - 1 - Nos casos previstos na alínea a) do artigo anterior, a saída das mercadorias para livre prática não pode ser recusada apenas com o fundamento de ter sido diferida a determinação definitiva do valor aduaneiro ou de não estar definitivamente comprovada a origem das mercadorias para as quais foi solicitado um tratamento preferencial em virtude dessa origem.\n\n2 - A saída das mercadorias para livre prática implica o registo imediato da liquidação, nos termos do n.º 2 do artigo 42.º, dos direitos de importação determinados segundo os elementos da declaração.\n\nArt. 48.º Nos casos previstos na alínea b) do artigo 46.º, a saída das mercadorias para livre prática implica:\n\na) O registo imediato da liquidação, nos termos do n.º 2 do artigo 42.º, dos direitos de importação determinados segundo os elementos da declaração;\n\nb) A prestação de uma garantia suficiente para cobrir a diferença entre o montante referido na alínea anterior e aquele a que as mercadorias poderão em definitivo ficar sujeitas.\n\nArt. 49.º Nos casos previstos na alínea c) do artigo 46.º, a saída das mercadorias para livre prática implica o registo imediato da liquidação, nos termos do n.º 2 do artigo 42.º, do montante dos direitos de importação determinado pelos serviços aduaneiros."
+  },
+  "712eba422207c3d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Regularização de situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Regularização de situações especiais\n\nArt. 50.º - 1 - Os serviços aduaneiros tomarão todas as medidas, incluindo a venda em hasta pública, com vista a regularizar a situação das mercadorias cuja saída não pôde ocorrer:\n\na) Porque a verificação ou a reverificação não puderam ser iniciadas ou prosseguidas nos prazos fixados por motivos imputáveis ao declarante;\n\nb) Porque os documentos a cuja apresentação se encontra subordinada a introdução das mercadorias em livre prática não foram apresentados;\n\nc) Porque os direitos de importação não foram nem pagos nem garantidos nos prazos fixados.\n\n2 - Em caso de necessidade, poderão os serviços aduaneiros mandar proceder à destruição das mercadorias que se encontrem nas condições previstas no n.º 1, aplicando-se, quando haja lugar à tributação dos desperdícios e fragmentos, o disposto no n.º 2 do artigo 56.º\n\n3 - À venda das mercadorias em hasta pública, se for caso disso, é aplicável o disposto no título IV do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941.\n\nArt. 51.º Quando a saída das mercadorias para livre prática não tiver ocorrido pelos motivos indicados nas alíneas b) ou c) do artigo anterior, os serviços aduaneiros fixarão ao declarante um prazo para regularizar a situação.\n\nArt. 52.º Se, antes de decorrido o prazo fixado no artigo anterior, o declarante não tiver apresentado os documentos em falta exigidos na alínea b) do artigo 50.º, a declaração será anulada.\n\nArt. 53.º Nos casos previstos na alínea c) do n.º 1 do artigo 50.º e sem prejuízo da eventual anulação da declaração, nos termos do artigo 31.º, ou do abandono ou destruição das mercadorias, nos termos do artigo 54.º, quando o declarante não tiver pago ou garantido o montante dos direitos de importação devidos antes de decorrido o prazo previsto no artigo 51.º, os serviços aduaneiros procederão à venda das mercadorias em hasta pública, observando-se, na parte aplicável, o disposto no título IV do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941."
+  },
+  "df8b54ea1152449c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Abandono e destruição das mercadorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Abandono e destruição das mercadorias\n\nArt. 54.º O declarante pode ser autorizado, antes de ter sido dada saída às mercadorias para livre prática:\n\na) A abandoná-las, livres de encargos, a favor da Fazenda Nacional;\n\nb) A mandar proceder à sua destruição, sob controle dos serviços aduaneiros, correndo por conta do declarante as despesas daí resultantes.\n\nO abandono ou a destruição das mercadorias, desde que devidamente autorizados, dispensam o declarante do pagamento dos respectivos direitos de importação.\n\nArt. 55.º - 1 - Os pedidos de abandono a favor da Fazenda Nacional ou de destruição das mercadorias devem ser feitos por escrito e assinados pelo declarante, podendo ser feitos na própria declaração.\n\n2 - A autorização dada pelos serviços aduaneiros para abandonar ou proceder à destruição das mercadorias deve constar da declaração.\n\n3 - A autorização para abandonar as mercadorias origina a anulação da declaração.\n\nArt. 56.º - 1 - A destruição das mercadorias é feita sob controle das autoridades aduaneiras, devendo ser por estas mencionada na declaração, ou num documento a ela junto, quer a destruição quer a natureza e a quantidade dos desperdícios e fragmentos daí resultantes, a fim de permitir a sua eventual tributação.\n\n2 - A introdução em livre prática dos desperdícios e fragmentos resultantes da destruição das mercadorias é efectuada, quando tenha lugar, com base nos elementos de tributação que lhes são aplicáveis, tais como são reconhecidos ou aceites pelos serviços aduaneiros à data da destruição."
+  },
+  "3898cd834a9d92fc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO III — Regimes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Regimes especiais\n\nArt. 57.º Sem prejuízo do disposto no artigo seguinte, os requisitos e as condições a preencher pelos interessados para poderem beneficiar da aplicação de regimes especiais de desalfandegamento das mercadorias declaradas para livre prática serão definidos por portaria do Ministro das Finanças.\n\nArt. 58.º - 1 - Com ressalva das disposições especiais aplicáveis aos objectos de correspondência postal e às encomendas postais, a declaração mencionada no artigo 3.º não é exigida relativamente às mercadorias:\n\na) Importadas para fins não comerciais, nos termos da legislação aplicável;\n\nb) Integradas em pequenas remessas enviadas a particulares ou contidas nas bagagens pessoas dos viajantes, desde que não revistam carácter comercial;\n\nc) Contidas em pequenos volumes, vindos por qualquer via, quando na sua totalidade o peso não for superior a 20 kg e o valor não exceda 15000$00.\n\n2 - Sem prejuízo da aplicação de quaisquer medidas de proibição ou restrição a que eventualmente estejam sujeitas, as mercadorias referidas no n.º 1 são tributadas oficiosamente, com base em declaração verbal do interessado e nos resultados da verificação, utilizando-se, para o efeito, os formulários apropriados em uso nos serviços.\n\nArt. 59.º - 1 - Os requisitos e as condições a preencher pelos interessados para serem autorizados a apresentar ou a inserir posteriormente determinados elementos da declaração mencionada no artigo 3.º sob a forma de declarações complementares que apresentem um carácter global, periódico ou recapitulativo, assim como as modalidades práticas da sua aplicação, serão definidos por portaria do Ministro das Finanças, sob proposta do director-geral das Alfândegas, tendo em conta o grau de desenvolvimento da organização e funcionamento do sistema aduaneiro.\n\n2 - As menções complementares serão consideradas como constituindo, conjuntamente com as menções das declarações a que respeitam, um acto único e indivisível, produzindo efeitos à data da aceitação da declaração inicial correspondente.\n\n3 - Para poderem beneficiar do disposto neste artigo os interessados deverão prestar garantia apropriada, em termos a definir no diploma referido no n.º 1.\n\n4 - Sem prejuízo do disposto nos números anteriores, cada declaração relativa a cada operação de importação deve, em qualquer caso, conter os elementos necessários à identificação das mercadorias e ser acompanhada dos documentos, sem a apresentação dos quais as mercadorias não podem ser introduzidas em livre prática."
+  },
+  "193a87833da0e0ab": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO IV — Importação para consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Importação para consumo\n\nArt. 60.º - 1 - Sem prejuízo da aplicação das disposições autónomas ou convencionais que, respeitando exclusivamente à importação para consumo, não contrariem o disposto no presente diploma, este decreto-lei é aplicável à introdução no consumo das mercadorias declaradas para aquele regime.\n\n2 - Os serviços aduaneiros não podem autorizar a saída das mercadorias declaradas para consumo sem que previamente tenham sido pagos, garantidos ou objecto de diferimento do pagamento, nos termos e segundo as modalidades previstos no artigo 44.º, os direitos de importação, se for caso disso, e as demais imposições devidas."
+  },
+  "71ca8e66fdd9b7c6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — Disposições finais e transitórias\n\nArt. 61.º - 1 - Todas as referências a pedido, a declaração ou aos dois conjuntamente, com o significado que a estes termos é atribuído, respectivamente, nos artigos 241.º e 245.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, devem ser entendidas como referindo-se a declaração, com o significado que a este termo é dado no presente decreto-lei e para os efeitos nele previstos.\n\n2 - Para efeitos de aplicação do regime geral regulado no título II, a conferência do título de propriedade ou documento que legalmente o substitua prevista no artigo 240.º do Regulamento das Alfândegas referido no número anterior terá lugar antes da aceitação da declaração.\n\nArt. 62.º Com ressalva das disposições aplicáveis à liquidação, ao registo de liquidação e à garantia ou pagamento das imposições devidas, as formalidades previstas no artigo 240.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, passam a ser, relativamente ao regime geral regulado no título II, as seguintes: entrega da declaração, controle de aceitação, aceitação, controle da declaração e saída.\n\nArt. 63.º As disposições do presente decreto-lei prevalecem sobre quaisquer normas que estabeleçam em sentido contrário.\n\nArt. 64.º As instruções necessárias à aplicação do presente diploma serão aprovadas por despacho do Ministro das Finanças.\n\nArt. 65.º O presente decreto-lei entra em vigor em 1 de Janeiro de 1986.\n\nVisto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 31 de Dezembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 31 de Dezembro de 1985.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1d4a0eedb7716ff3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO I — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO I — Definições"
+  },
+  "09349716c23251b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nPara efeitos de aplicação do presente decreto-lei, entende-se por:\n\na) «Direitos de importação», os direitos aduaneiros, os encargos de efeito equivalente a direitos, os direitos niveladores agrícolas e outras imposições previstas no âmbito da política agrícola comum ou no de regimes específicos aplicáveis na importação a certas mercadorias resultantes da transformação dos produtos agrícolas;\n\nb) «Saída das mercadorias para livre prática», a colocação das mercadorias declaradas para o regime de introdução em livre prática à disposição do declarante ou do seu representante, segundo as modalidades previstas nas leis e regulamentos aduaneiros e para os fins previstos nesse regime."
+  },
+  "a1cbb6580c1ed765": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO I — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO I — Âmbito de aplicação"
+  },
+  "b088a03fdbf082ed": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs mercadorias destinadas a livre prática devem ser objecto de uma declaração de introdução em livre prática na estância aduaneira competente, designada em conformidade com o disposto no artigo 13.º"
+  },
+  "5f78d54e9748fee5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Características gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Características gerais"
+  },
+  "53fdb3662dc29709": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA declaração de introdução em livre prática, a seguir designada «declaração», deve ser feita por escrito, num formulário conforme ao modelo oficial aprovado pelo Ministro das Finanças, sob proposta do director-geral das Alfândegas."
+  },
+  "970b81b7302edbac": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A declaração pode ser feita pelo importador ou pelo seu representante legal, desde que habilitados a despachar nos termos da legislação aplicável.\n\n2 - A pessoa que, reunindo os requisitos indicados no número anterior, assine, ou em nome da qual seja assinada, a declaração é a seguir designada «declarante»."
+  },
+  "1c7c4bd7be5769b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nQuando sejam declaradas, no mesmo formulário, mercadorias a que correspondam designações pautais diferentes, os elementos correspondentes a cada uma delas são considerados como constituindo declarações separadas."
+  },
+  "a6823249c8f351f3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA declaração deve conter os elementos e ser acompanhada dos documentos necessários à identificação das mercadorias, ao cálculo dos direitos de importação e à aplicação das demais disposições que regulam a introdução em livre prática das mercadorias."
+  },
+  "5d2d874e222f049c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Os elementos exigidos no artigo anterior são os seguintes:\n\na) O nome, a morada e o código de identificação da entidade habilitada a despachar;\n\nb) O nome e a morada do importador, bem como os números de identificação de pessoa colectiva e do conhecimento da contribuição industrial;\n\nc) A contramarca fiscal, se for caso disso;\n\nd) Para as mercadorias que tenham sido objecto de uma declaração sumária, a referência a essa declaração;\n\ne) Para as mercadorias que não tenham sido objecto de uma declaração sumária:\n\nDeclaradas directamente para importação para livre prática, as indicações necessárias à identificação do meio de transporte a bordo do qual chegaram à estância aduaneira;\n\nDeclaradas para livre prática após terem sido colocadas sob um outro regime aduaneiro, a referência a esse regime;\n\nf) A data de apresentaçao das mercadorias na estância aduaneira;\n\ng) As marcas, números, quantidade e natureza dos volumes ou, tratando-se de mercadorias a granel, a quantidade e a qualidade, em peso ou volume;\n\nh) O local onde se encontram as mercadorias;\n\ni) O código pautal, assim como a designação das mercadorias correspondente a esse código ou uma designação em termos suficientemente precisos que permitam aos serviços aduaneiros determinar imediatamente e sem ambiguidade a correspondência das mercadorias com o código pautal declarado;\n\nj) O peso bruto das mercadorias;\n\nk) O valor aduaneiro e, se for caso disso, os dados quantitativos necessários à sua determinação;\n\nl) Tratando-se de mercadorias sujeitas a direitos específicos, os dados quantitativos e as especificações complementares eventualmente necessárias à aplicação desses direitos;\n\nm) Tratando-se de mercadorias sujeitas a direitos ad valorem com um mínimo ou máximo de percepção baseada em dados específicos, o conjunto dos elementos indicados nas alíneas k) e l);\n\nn) O país de origem e o país de procedência das mercadorias;\n\no) O número da licença, declaração ou certificado de importação, se for caso disso;\n\np) A taxa dos direitos aplicáveis às mercadorias declaradas;\n\nq) O montante das imposições devidas, tal como foi calculado pelo declarante;\n\nr) O número, precedido da letra ou letras indicativas do país de emissão, do certificado de importação ou de prefixação apresentados nos termos das disposições aplicáveis em matéria de política agrícola comum;\n\ns) A enumeração dos documentos juntos à declaração;\n\nt) Quaisquer outros elementos necessários à aplicação das disposições que regulam a introdução em livre prática das mercadorias.\n\n2 - Para efeitos do disposto na alínea i) do número anterior, entende-se por código pautal o conjunto formado pelo número estatístico constante da Nomenclatura Estatística das Mercadorias do Comércio Externo (NEMCE) e pelos dígitos correspondentes aos desdobramentos aduaneiros."
+  },
+  "5459c550483f0ac1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Devem ser juntos ou apresentados com a declaração, para efeitos do disposto no artigo 6.º:\n\na) A factura comercial;\n\nb) O conhecimento de carga, a carta de porte aéreo ou documentos equivalentes, apresentados em conformidade com as disposições regulamentares aplicáveis;\n\nc) A declaração relativa ao valor aduaneiro;\n\nd) Os certificados de origem ou de circulação necessários à aplicação de um regime pautal preferencial ou de qualquer outra medida para que sejam exigíveis;\n\ne) A licença, declaração ou certificado de importação, se for caso disso, assim como as autorizações, certificados ou outros documentos exigidos por força de medidas de proibição, restrição ou controle;\n\nf) A lista de volumes ou documento equivalente indicando o conteúdo de cada um deles, quando as mercadorias sejam apresentadas em vários volumes;\n\ng) Quaisquer outros documentos necessários à aplicação das disposições que regulam a introdução em livre prática das mercadorias.\n\n2 - Quando o considerem necessário, poderão os serviços aduaneiros exigir, aquando da entrega da declaração, a apresentação dos documentos relativos ao regime aduaneiro anterior."
+  },
+  "2c52447ca2bc5d1d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs documentos mencionados no artigo anterior devem ser conservados pelos serviços aduaneiros, salvo quando possam ser utilizados pelo declarante para outras operações.\n\nNestes casos, aqueles serviços tomarão as medidas necessárias para que os documentos em causa apenas possam ser utilizados para as quantidades ou valores para que continuam válidos."
+  },
+  "dfc6c4bb0102dd3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Exame prévio e extracção de amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Exame prévio e extracção de amostras"
+  },
+  "447bedff29dcde95": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Quando o declarante se não achar habilitado a preencher a declaração no que respeita à descrição das mercadorias, a estância aduaneira competente autorizará o mesmo a proceder a exame prévio ou a extracção de amostras, mediante pedido escrito.\n\n2 - O pedido referido no número anterior é formulado em impresso próprio e deverá conter os seguintes elementos:\n\nO nome, a morada e o código de identificação da entidade habilitada a despachar;\n\nO nome e a morada do importador, bem como os números de identificação de pessoa colectiva e do conhecimento da contribuição industrial;\n\nO número da declaração sumária, se a houver, ou a referência ao regime aduaneiro anterior, ou as indicações necessárias à identificação do meio de transporte a bordo do qual as mercadorias chegaram à estância aduaneira, consoante os casos;\n\nA quantidade, qualidade, marcas e números dos volumes, o peso bruto e a designação comercial das mercadorias;\n\nO local onde se encontram as mercadorias."
+  },
+  "5fe62898898ef0d1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - O exame prévio ou a extracção de amostras são autorizadas pelo chefe da estância aduaneira na qual as mercadorias tenham sido apresentadas, nos termos do artigo 13.º, indicando-se, no caso de uma extracção de amostras, as quantidades a extrair.\n\n2 - O exame prévio ou a extracção de amostras são efectuados sob controle da estância aduaneira, sendo as manipulações das mercadorias feitas por conta e risco do declarante."
+  },
+  "a36826b62514f6c4": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nQuando as amostras extraídas não forem posteriormente declaradas para introdução em livre prática conjuntamente com as mercadorias a que respeitam, os direitos de importação de que sejam passíveis serão liquidados com base nos elementos constantes do pedido referido no artigo 10.º e de acordo com as taxas em vigor na data da aceitação do mesmo."
+  },
+  "1dab61d38b4ed70a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO III — Entrada da declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO III — Entrada da declaração"
+  },
+  "e6549b46363180be": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - A declaração deve ser entregue na estância aduaneira competente para a realização da operação em causa, durante o respectivo horário normal de funcionamento e após apresentação das mercadorias nessa estância.\n\n2 - A pedido e expensas do declarante pode a declaração ser entregue fora do horário normal de funcionamento da estância aduaneira referida no número anterior.\n\n3 - Para efeitos do disposto neste artigo consideram-se apresentadas numa estância aduaneira as mercadorias cuja chegada a essa estância ou a qualquer outro local designado ou aprovado pelas autoridades aduaneiras tenha sido comunicada a estas autoridades a fim de lhes permitir assegurar a fiscalização ou o controle das mercadorias."
+  },
+  "bec01f29793bf43c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - Em derrogação do disposto no n.º 1 do artigo anterior e a pedido do declarante, pode a estância aduaneira autorizar a entrega da declaração antes de as mercadorias lhe terem sido apresentadas, fixando um prazo para esse efeito.\n\n2 - Se, decorrido o prazo previsto no número anterior, as mercadorias não tiverem sido apresentadas, a declaração será restituída ao declarante.\n\n3 - As declarações entregues nas condições previstas no n.º 1 deste artigo apenas poderão ser aceites após comprovação, pela estância aduaneira, de que as mercadorias lhe foram efectivamente apresentadas."
+  },
+  "0f91760be817bcfa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Declarações completas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Declarações completas"
+  },
+  "a1ec390cfa3fc219": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - As declarações que, nos termos dos artigos 7.º e 8.º, contenham todos os elementos e a que tenham sido juntos todos os documentos necessários à realização da operação em causa são, após efectivado o controle de aceitação previsto no número seguinte, aceites, numeradas e registadas de imediato pela estância aduaneira competente.\n\n2 - Para efeitos do disposto no número anterior, entende-se por controle de aceitação o conjunto de operações destinadas a averiguar se nada obsta à aceitação da declaração, incidindo, designadamente, sobre a competência da estância aduaneira a habilitação do declarante para despachar, os requisitos de forma relativa à declaração, os elementos declarados e a apresentação ou junção à declaração dos documentos cuja entrega ou apresentação seja obrigatória.\n\n3 - A data da aceitação deve ser aposta na declaração para efeitos do disposto no artigo 43.º"
+  },
+  "f3fd38670f3bbfb1": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "DIVISÃO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### DIVISÃO I"
+  },
+  "931ef3ef6f448417": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - Em derrogação do disposto no artigo anterior, podem as estâncias aduaneiras, a pedido do declarante e por motivos por elas considerados válidos, aceitar as declarações a que faltem determinados elementos ou a que não tenham sido juntos alguns dos documentos a que se refere o artigo 8.º\n\n2 - À aceitação das declarações incompletas é aplicável o disposto no artigo 15.º"
+  },
+  "105094bff9676cc7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nPara poderem ser aceites, devem as declarações incompletas conter, pelo menos, os elementos indicados nas alíneas a), c), d) ou e) e g) do artigo 7.º, assim como:\n\nA designação das mercadorias em termos suficientemente precisos que permitam aos serviços aduaneiros determinar, imediatamente e sem ambiguidade, o código pautal correspondente às mercadorias;\n\nO valor aduaneiro, tratando-se de mercadorias passíveis de direitos ad valorem, ou, quando os serviços aduaneiros constatarem que o declarante não está em condições de declarar esse valor, a indicação provisória do mesmo considerada aceitável por aqueles serviços, tendo em conta, designadamente, os elementos de que o declarante dispuser;\n\nQuaisquer outros elementos considerados necessários pelos serviços aduaneiros para identificação e aplicação das disposições que regulam a sua introdução em livre prática, assim como, se for caso disso, para a determinação da garantia a que poderá ficar subordinada a saída das mercadorias para livre prática."
+  },
+  "e05b6555dba5ca09": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - As declarações incompletas podem igualmente ser aceites sem que tenham sido juntos ou apresentados os documentos mencionados no artigo 8.º, desde que sejam acompanhadas, pelo menos, dos documentos a cuja entrega ou apresentação está subordinada a introdução em livre prática das mercadorias.\n\n2 - Em derrogação do disposto no n.º 1, as declarações não acompanhadas dos documentos a cuja apresentação está subordinada a introdução em livre prática das mercadorias podem ser aceites, uma vez estabelecido, a contento dos serviços aduaneiros:\n\na) Que o documento em causa existe e está válido;\n\nb) Que por circunstâncias alheias à vontade do declarante o documento não foi junto ou apresentado com a declaração;\n\nc) Que qualquer atraso na aceitação da declaração impediria a introdução em livre prática das mercadorias ou teria como resultado sujeitá-las a uma taxa de direitos de importação mais elevada.\n\n3 - Os elementos relativos à identificação dos documentos em falta devem, em qualquer caso, ser indicados na declaração."
+  },
+  "9dfc6ade8e410e3c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nAs declarações incompletas, aceites nos termos do artigo 16.º, podem ser, relativamente aos elementos em falta:\n\na) Completadas pelo declarante;\n\nb) Substituídas, com a concordância dos serviços aduaneiros, por outras que obedeçam às condições fixadas no n.º 1 do artigo 15.º\n\nNestes casos, a data a considerar para aplicação do disposto no artigo 43.º é a data da aceitação da declaração incompleta."
+  },
+  "2d1b7026791b1dea": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "DIVISÃO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### DIVISÃO II"
+  },
+  "9f113ec8f169324d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nSem prejuízo das disposições comunitárias aplicáveis em matéria de valor aduaneiro e do disposto no artigo seguinte, o prazo concedido ao declarante para comunicação dos elementos ou apresentação dos documentos em falta não poderá exceder 1 mês, contado a partir da data da aceitação da declaração."
+  },
+  "39a138440d26be83": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nQuando as mercadorias possam beneficiar da aplicação de um direito de importação reduzido ou nulo, tal facto não levante dúvidas aos serviços aduaneiros e quando a concessão daquele benefício esteja dependente da apresentação de um certificado de origem ou de circulação, ou de um documento equivalente, pode, a pedido do declarante, o prazo previsto no artigo 20.º ser prorrogado por 3 meses, para apresentação do documento em falta."
+  },
+  "ac8ef5eb378db5d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nSe um direito de importação reduzido ou nulo apenas for aplicável às mercadorias introduzidas em livre prática dentro de um contingente ou de um plafond pautal, a imputação a efectuar nos limites autorizados apenas poderá verificar-se no momento da apresentação efectiva do documento a que está subordinada a concessão desse direito reduzido ou nulo, devendo, em qualquer caso, a apresentação do documento ter lugar:\n\nTratando-se de um plafond pautal, antes da data em que sejam reintroduzidos, por um regulamento comunitário ad hoc, os direitos normais de importação;\n\nTratando-se de um contingente pautal, antes que os limites estabelecidos tenham sido atingidos."
+  },
+  "9d0f9d5ca853a0cb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nSem prejuízo do disposto nos artigos 21.º e 22.º, o documento a cuja apresentação está subordinada a aplicação de um direito de importação reduzido ou nulo pode ser apresentado após a data em que tiver expirado o período para o qual foi fixado esse direito, desde que a declaração relativa às mercadorias em causa tenha sido aceite antes dessa data."
+  },
+  "e64fe2db9233cee7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "DIVISÃO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### DIVISÃO III"
+  },
+  "48ee67d22a32d5d2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nA aceitação de uma declaração incompleta não pode ter por efeito impedir ou retardar a saída das mercadorias para livre prática, salvo se outras razões o não permitirem.\n\nSem prejuízo do disposto nos artigos 46.º a 49.º, os serviços aduaneiros darão saída às mercadorias, se tal for solicitado pelo declarante, observando-se o disposto nos artigos seguintes, consoante os casos."
+  },
+  "a872ac1eea234c05": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nQuando a apresentação ulterior de um elemento ou de um documento em falta no momento da aceitação da declaração não afectar o montante dos direitos de importação aplicáveis às mercadorias objecto da declaração, os serviços aduaneiros procederão, nos termos do n.º 2 do artigo 42.º, ao registo imediato da liquidação dos direitos devidos."
+  },
+  "4e9fd1d22c8877c2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nQuando, nas situações previstas no segundo parágrafo do artigo 17.º, se afigure necessário diferir a determinação definitiva do valor, os serviços aduaneiros:\n\na) Procederão nos termos do n.º 2 do artigo 42.º, ao registo imediato da liquidação do montante dos direitos de importação, calculados com base no valor declarado provisoriamente;\n\nb) Exigirão, se for caso disso, a prestação de uma garantia suficiente para cobrir a diferença entre o montante indicado na alínea anterior e aquele a que as mercadorias podem ficar definitivamente sujeitas."
+  },
+  "b1c3944acc85cf67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1 - Quando, fora dos casos previstos no artigo anterior, a apresentação ulterior de um elemento ou de um documento em falta no momento da aceitação da declaração afectar o montante dos direitos de importação aplicáveis às mercadorias declaradas, seguir-se-á o disposto nos números seguintes, consoante os casos.\n\n2 - Se da apresentação ulterior do elemento ou do documento em falta puder resultar a aplicação de um direito de importação de taxa reduzida, os serviços aduaneiros:\n\na) Procederão, nos termos do n.º 2 do artigo 42.º, ao registo imediato da liquidação do montante dos direitos de importação calculados com base nessa taxa reduzida;\n\nb) Exigirão a prestação de uma garantia suficiente para cobrir a diferença entre o montante indicado na alínea anterior e aquele que resultaria da aplicação às mercadorias dos direitos de importação calculados com base na taxa normal.\n\n3 - Se da apresentação ulterior de um elemento ou de um documento em falta puder resultar que as mercadorias venham a beneficiar de uma isenção total dos direitos de importação, os serviços aduaneiros exigirão a prestação de uma garantia suficiente para cobrir a percepção eventual do montante dos direitos de importação calculados com base na taxa normal."
+  },
+  "e554d69b97d498fa": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nQuando, expirados os prazos previstos nos artigos 20.º ou 21.º, o declarante não tiver apresentado os elementos necessários à determinação definitiva do valor aduaneiro, ou não tiver comunicado os elementos ou apresentado os documentos em falta, os serviços aduaneiros procederão, nos termos do n.º 2 do artigo 42.º, ao registo imediato da liquidação a título de direitos de importação, dos montantes devidos, cativando, para o efeito, a garantia prestada em conformidade com o disposto na alínea b) do artigo 26.º, na alínea b) do n.º 2 do artigo 27.º, ou no n.º 3 do mesmo preceito, consoante os casos."
+  },
+  "41058520c727fc47": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Rectificação e anulação das declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Rectificação e anulação das declarações"
+  },
+  "426b8c58b75a1032": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nSob reserva do disposto no artigo seguinte, pode o declarante ser autorizado a rectificar, desde que o requeira, um ou mais elementos de uma declaração já aceite pelos serviços aduaneiros:\n\na) Por correcção, na própria declaração, do elemento ou elementos em causa;\n\nb) Mediante a entrega de uma nova declaração destinada a substituir a declaração primitiva.\n\nNestes casos, a data a considerar para efeitos do disposto no artigo 43.º é a data da aceitação da declaração primitiva."
+  },
+  "c10a50236ce0ddcb": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nPara efeitos de aplicação do disposto no artigo anterior, a rectificação:\n\na) Deverá ser requerida antes de ter sido autorizada a saída das mercadorias para livre prática;\n\nb) Não será concedida se o respectivo pedido tiver sido formulado após os serviços aduaneiros terem informado o declarante da sua intenção de proceder a um exame das mercadorias, ou constatado a inexactidão do elemento ou elementos em causa;\n\nc) Não poderá ter por efeito fazer incidir a declaração sobre mercadorias diferentes das inicialmente declaradas.\n\nConsideram-se diferentes das inicialmente declaradas as mercadorias a que correspondam, nos termos da alínea i) do n.º 1 do artigo 7.º, designações diferentes das inicialmente indicadas na declaração."
+  },
+  "19f3eb212698e72e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1 - Os serviços aduaneiros podem, a solicitação do declarante, autorizar a anulação de uma declaração já aceite, desde que o pedido tenha sido formulado antes de autorizada a saída das mercadorias para livre prática e o declarante prove, a contento daqueles serviços:\n\na) Que as mercadorias foram declaradas por erro para livre prática;\n\nb) Que, devido a circunstâncias excepcionais, a entrada das mercadorias em livre prática deixou de se justificar.\n\n2 - A anulação da declaração implica igualmente a anulação dos averbamentos a ela referentes efectuados nos documentos apresentados conjuntamente ou em apoio da declaração ou, sendo caso disso, a anulação ou cancelamento desses documentos."
+  },
+  "3698d4bf52dac4bf": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO I — Controle documental e exame das mercadorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO I — Controle documental e exame das mercadorias"
+  },
+  "418df29770cc4c1c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nSem prejuízo do controle de aceitação previsto no artigo 15.º, os serviços aduaneiros procederão, nos termos das disposições regulamentares aplicáveis que não contrariem o estabelecido neste decreto-lei e observando-se o disposto nesta secção, à conferência da declaração, à verificação e à reverificação das mercadorias, consoante os casos, para efeitos de controle da declaração."
+  },
+  "e2878f436b67bcad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1 - Quando, para os fins previstos no artigo anterior, haja que proceder ao exame das mercadorias, será o mesmo efectuado nos locais e durante as horas para o efeito estabelecidas.\n\nA pedido do declarante, podem os serviços aduaneiros autorizar o exame das mercadorias em horas e locais diferentes dos anteriormente referidos, sendo, nestes casos, as despesas daí resultantes suportadas pelo declarante.\n\n2 - O transporte das mercadorias para os locais onde haja de procede-se ao respectivo exame, a desembalagem, a reembalagem ou quaisquer manipulações necessárias são efectuadas pelo declarante ou sob sua responsabilidade, correndo as despesas por conta do declarante."
+  },
+  "c70f0414db5eb56a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1 - Quando, para os fins previstos no artigo 32.º, haja lugar a exame das mercadorias, o declarante tem o direito de assistir a esse exame, por si ou seu representante.\n\nQuando, para os mesmos fins, os serviços aduaneiros decidirem proceder ao exame das mercadorias, informarão dessa decisão o declarante ou o seu representante.\n\n2 - O declarante ou a pessoa por ele designada para assistir ao exame das mercadorias prestará aos serviços aduaneiros a assistência por estes julgada necessária para o efeito, podendo estes serviços, quando a assistência não for considerada satisfatória, exigir que o declarante designe uma pessoa apta para esse fim.\n\n3 - Em caso de recusa do declarante em assistir ao exame das mercadorias ou em designar uma pessoa apta para o fim previsto no número anterior, os serviços aduaneiros fixar-lhe-ão um prazo para o efeito.\n\nSe, decorrido o prazo fixado, o declarante não tiver cumprido o determinado pelos serviços aduaneiros, estes serviços procederão oficiosamente, para efeitos do disposto no artigo 50.º, na parte aplicável, por conta e risco do declarante, ao exame das mercadorias, recorrendo, quando o considerem necessário, à colaboração de um perito.\n\n4 - As constatações a que os serviços aduaneiros chegarem durante o exame realizado nas condições previstas no número anterior têm a mesma validade que teriam se o exame tivesse sido feito na presença do declarante."
+  },
+  "9058e3c6a57f2fba": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1 - Caso os serviços aduaneiros decidam proceder a exame de apenas uma parte das mercadorias declaradas, indicarão, sem que o declarante possa opor-se a essa escolha, quais as que pretendem examinar.\n\n2 - Sem prejuízo do direito reconhecido ao declarante de exigir que o exame incida sobre a totalidade das mercadorias objecto da declaração quando considerar que os resultados parciais obtidos não são válidos para o resto das mercadorias declaradas, os resultados do exame realizado nas condições previstas no número anterior são extensivos à totalidade das mercadorias declaradas."
+  },
+  "43ea7fd2bb758674": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Extracção de amostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Extracção de amostras"
+  },
+  "5e9a1dad57d15099": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1 - Aquando da realização dos exames previstos na secção anterior, podem os serviços aduaneiros extrair amostras para análise ou controle aprofundado das mercadorias objecto da declaração, informando deste facto o declarante ou o seu representante.\n\nAs despesas ocasionadas por essa análise ou controle são suportadas pela administração aduaneira.\n\n2 - Quando, em virtude da extracção das amostras, haja eventualmente lugar à suspensão do exame das mercadorias, deverá essa suspensão ser expressamente mencionada na declaração.\n\n3 - Os serviços aduaneiros poderão exigir, se o considerarem útil, que o declarante assista, por si ou seu representante, à extracção das amostras, a fim de lhes prestar a necessária assistência.\n\n4 - Em caso de recusa do declarante em assistir à extracção das amostras ou em designar outra pessoa para o fim previsto no número anterior, ou, ainda, caso não preste toda a assistência necessária com vista a facilitar a operação, aplica-se-á o disposto nos n.os 3 e 4 do artigo 34.º"
+  },
+  "373876edfc1bd154": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nAs extracções de amostras são efectuadas pelos serviços aduaneiros, ou, se estes serviços assim o entenderem e sob seu controle, pelo declarante ou outra pessoa por este designada."
+  },
+  "daa596d199d9402d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nAs quantidades extraídas a título de amostras não devem exceder as necessárias para permitir a análise ou o controle aprofundado previstos no artigo 36.º, incluindo uma eventual contra-análise."
+  },
+  "b4e4b9569accf1c7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n1 - Salvo se outras razões o impedirem, podem os serviços aduaneiros, enquanto aguardam os resultados da análise ou do controle referido no artigo anterior, dar saída às mercadorias para livre prática.\n\nA saída terá lugar sem prejuízo do disposto nos artigos 46.º a 49.º e implica o registo imediato da liquidação, nos termos do n.º 2 do artigo 42.º, do montante dos direitos de importação calculados com base nos elementos constantes da declaração.\n\n2 - Para efeitos da determinação do montante dos direitos de importação aplicáveis às mercadorias objecto da declaração, as quantidades extraídas a título de amostras não são deduzidas da quantidade declarada.\n\n3 - Sem embargo do disposto no número anterior, as amostras devolvidas ao declarante não podem ser introduzidas no consumo sem que previamente tenham sido liquidados e objecto de registo, nos termos do artigo 42.º, os direitos de importação a elas referentes, calculados com base nos elementos de tributação constantes da declaração como tal reconhecidos ou aceites pelos serviços aduaneiros."
+  },
+  "445c09aa2cf68ee7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\n1 - A pedido e a expensas do declarante, e a menos que tenham ficado destruídas em resultado da análise ou do controle efectuados, as amostras extraídas são restituídas ao declarante, desde que a sua conservação pelos serviços aduaneiros se mostre desnecessária, nomeadamente após esgotadas pelo declarante as possibilidades de recurso das decisões tomadas, em processo técnico, pelo tribunal competente, com base nos resultados da análise ou do controle efectuados.\n\n2 - As amostras cuja restituição não tenha sido requerida pelo declarante podem ser destruídas ou conservadas pelos serviços aduaneiros, sem embargo da faculdade cometida a estes serviços de exigir que o declarante promova, em casos especiais, a remoção das amostras restantes."
+  },
+  "e75fd528c3b90a06": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "CAPÍTULO IV — Liquidações e cobranças das imposições devidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CAPÍTULO IV — Liquidações e cobranças das imposições devidas"
+  },
+  "23286467fd1f8826": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1 - Os resultados da conferência da declaração, acompanhada ou não da verificação ou da reverificação das mercadorias, ou, quando haja lugar a processo técnico, as decisões do tribunal competente servem de base ao cálculo dos direitos de importação e à aplicação de outras disposições que regulam a introdução em livre prática das mercadorias.\n\n2 - O disposto no número anterior não obsta ao exercício eventual de controle a posteriori, nem às consequências que daí possam resultar, nos termos da legislação aplicável, designadamente no que respeita à alteração dos direitos de importação aplicados às mercadorias."
+  },
+  "20177269256a90f0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1 - A liquidação prevista no artigo anterior será efectuada por funcionários da carreira técnica ou da carreira técnica superior, a não ser que, não existindo funcionários daquelas carreiras colocados numa dada distância aduaneira, de outro modo disponha o director da respectiva alfândega.\n\n2 - Sem prejuízo das modificações susceptíveis de ocorrer por força do n.º 2 do artigo anterior, o montante dos direitos de importação liquidados é registado pelos serviços aduaneiros e comunicado ao declarante segundo os procedimentos administrativos previstos para o efeito.\n\n3 - Os procedimentos aplicáveis à liquidação e ao registo da liquidação das declarações que sejam objecto do tratamento informatizado serão definidos por despacho do Ministro das Finanças."
+  },
+  "aa39e5f445d41ed3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1 - Sem prejuízo das regras especiais aplicáveis no âmbito de regulamentações comunitárias gerais ou específicas e com ressalva do disposto no número seguinte, os direitos de importação serão cobrados de acordo com as taxas ou montantes em vigor na data da aceitação da declaração.\n\nSem prejuízo das regras especiais acima referidas, será tomada em consideração esta mesma data para determinação de outros elementos de tributação das mercadorias e para aplicação de quaisquer outras disposições que regulam a sua introdução em livre prática.\n\n2 - Em caso de redução da taxa dos direitos aduaneiros, ocorrida após a data da aceitação da declaração, pode o declarante solicitar a aplicação da taxa mais favorável, se a saída das mercadorias para livre prática não tiver sido dada.\n\n3 - O disposto no n.º 2 não é aplicável às mercadorias cuja saída não tenha sido dada por motivos imputáveis unicamente ao declarante."
+  },
+  "c94da00bc19d731f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO I — Regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO I — Regras gerais"
+  },
+  "5325a07bd50f2e4d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nSem prejuízo das medidas de proibição, restrição ou controle eventualmente aplicáveis, os serviços aduaneiros não podem autorizar a saída das mercadorias declaradas para introdução em livre prática sem que os respectivos direitos de importação tenham sido pagos, garantidos ou objecto de diferimento do pagamento, nos termos e segundo as modalidades previstos na legislação aplicável."
+  },
+  "f2d8746b5fbc5972": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n1 - A saída das mercadorias para livre prática é dada de uma só vez para a totalidade das mercadorias objecto da declaração, nos termos das leis e regulamentos aduaneiros aplicáveis, tendo em conta os locais onde as mesmas se encontram e, consoante os casos, as formas de fiscalização aduaneira sobre elas exercida.\n\nA data de autorização da saída é aposta na declaração.\n\n2 - A saída considera-se dada ou autorizada e as mercadorias colocadas à disposição do declarante ou do seu representante a partir do momento da entrega ao interessado, pelo reverificador, verificador ou conferente da declaração, consoante os casos, do documento com base no qual pode proceder-se ao respectivo levantamento.\n\n3 - Enquanto a saída não tiver sido dada, as mercadorias não podem ser removidas do local onde se encontrem nem, por qualquer forma, ser manipuladas sem autorização dos serviços aduaneiros."
+  },
+  "ccca0ef565a19d04": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO II — Saídas condicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO II — Saídas condicionais"
+  },
+  "6f6b1699065b5d53": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nQuando, enquanto aguardam os resultados dos controles efectuados relativos à conferência da declaração ou ao exame das mercadorias, os serviços aduaneiros:\n\na) Não se acharem em condições de determinar o montante dos direitos de importação a que as mercadorias estão sujeitas;\n\nb) Considerarem que os controles efectuados podem levar à determinação de um montante dos direitos de importação superior ao que resulta dos elementos da declaração;\n\nc) Determinarem um montante dos direitos de importação diferente do que resulta dos elementos da declaração,\n\npodem, a pedido do declarante, dar saída às mercadorias para livre prática, observando-se, consoante os casos, o disposto nos artigos seguintes."
+  },
+  "9621e77300d99d1b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\n1 - Nos casos previstos na alínea a) do artigo anterior, a saída das mercadorias para livre prática não pode ser recusada apenas com o fundamento de ter sido diferida a determinação definitiva do valor aduaneiro ou de não estar definitivamente comprovada a origem das mercadorias para as quais foi solicitado um tratamento preferencial em virtude dessa origem.\n\n2 - A saída das mercadorias para livre prática implica o registo imediato da liquidação, nos termos do n.º 2 do artigo 42.º, dos direitos de importação determinados segundo os elementos da declaração."
+  },
+  "c51e5160d7b1072f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nNos casos previstos na alínea b) do artigo 46.º, a saída das mercadorias para livre prática implica:\n\na) O registo imediato da liquidação, nos termos do n.º 2 do artigo 42.º, dos direitos de importação determinados segundo os elementos da declaração;\n\nb) A prestação de uma garantia suficiente para cobrir a diferença entre o montante referido na alínea anterior e aquele a que as mercadorias poderão em definitivo ficar sujeitas."
+  },
+  "5aa5193ffa66e0a7": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nNos casos previstos na alínea c) do artigo 46.º, a saída das mercadorias para livre prática implica o registo imediato da liquidação, nos termos do n.º 2 do artigo 42.º, do montante dos direitos de importação determinado pelos serviços aduaneiros."
+  },
+  "59e02990f52854b3": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SUBSECÇÃO III — Regularização de situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### SUBSECÇÃO III — Regularização de situações especiais"
+  },
+  "3283e94530e181fe": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\n1 - Os serviços aduaneiros tomarão todas as medidas, incluindo a venda em hasta pública, com vista a regularizar a situação das mercadorias cuja saída não pôde ocorrer:\n\na) Porque a verificação ou a reverificação não puderam ser iniciadas ou prosseguidas nos prazos fixados por motivos imputáveis ao declarante;\n\nb) Porque os documentos a cuja apresentação se encontra subordinada a introdução das mercadorias em livre prática não foram apresentados;\n\nc) Porque os direitos de importação não foram nem pagos nem garantidos nos prazos fixados.\n\n2 - Em caso de necessidade, poderão os serviços aduaneiros mandar proceder à destruição das mercadorias que se encontrem nas condições previstas no n.º 1, aplicando-se, quando haja lugar à tributação dos desperdícios e fragmentos, o disposto no n.º 2 do artigo 56.º\n\n3 - À venda das mercadorias em hasta pública, se for caso disso, é aplicável o disposto no título IV do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941."
+  },
+  "8d369f8debddbe27": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nQuando a saída das mercadorias para livre prática não tiver ocorrido pelos motivos indicados nas alíneas b) ou c) do artigo anterior, os serviços aduaneiros fixarão ao declarante um prazo para regularizar a situação."
+  },
+  "9df5e5776e650a03": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nSe, antes de decorrido o prazo fixado no artigo anterior, o declarante não tiver apresentado os documentos em falta exigidos na alínea b) do artigo 50.º, a declaração será anulada."
+  },
+  "56e02e99076fd0ad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\nNos casos previstos na alínea c) do n.º 1 do artigo 50.º e sem prejuízo da eventual anulação da declaração, nos termos do artigo 31.º, ou do abandono ou destruição das mercadorias, nos termos do artigo 54.º, quando o declarante não tiver pago ou garantido o montante dos direitos de importação devidos antes de decorrido o prazo previsto no artigo 51.º, os serviços aduaneiros procederão à venda das mercadorias em hasta pública, observando-se, na parte aplicável, o disposto no título IV do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941."
+  },
+  "8f553be8eac60d0d": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "SECÇÃO II — Abandono e destruição das mercadorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### SECÇÃO II — Abandono e destruição das mercadorias"
+  },
+  "a5e2d81edb8378e6": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nO declarante pode ser autorizado, antes de ter sido dada saída às mercadorias para livre prática:\n\na) A abandoná-las, livres de encargos, a favor da Fazenda Nacional;\n\nb) A mandar proceder à sua destruição, sob controle dos serviços aduaneiros, correndo por conta do declarante as despesas daí resultantes.\n\nO abandono ou a destruição das mercadorias, desde que devidamente autorizados, dispensam o declarante do pagamento dos respectivos direitos de importação."
+  },
+  "39a998538f7ec3b9": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\n1 - Os pedidos de abandono a favor da Fazenda Nacional ou de destruição das mercadorias devem ser feitos por escrito e assinados pelo declarante, podendo ser feitos na própria declaração.\n\n2 - A autorização dada pelos serviços aduaneiros para abandonar ou proceder à destruição das mercadorias deve constar da declaração.\n\n3 - A autorização para abandonar as mercadorias origina a anulação da declaração."
+  },
+  "8a959a5e016230f2": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\n1 - A destruição das mercadorias é feita sob controle das autoridades aduaneiras, devendo ser por estas mencionada na declaração, ou num documento a ela junto, quer a destruição quer a natureza e a quantidade dos desperdícios e fragmentos daí resultantes, a fim de permitir a sua eventual tributação.\n\n2 - A introdução em livre prática dos desperdícios e fragmentos resultantes da destruição das mercadorias é efectuada, quando tenha lugar, com base nos elementos de tributação que lhes são aplicáveis, tais como são reconhecidos ou aceites pelos serviços aduaneiros à data da destruição."
+  },
+  "a691ce50536d6a8a": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO III — Regimes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO III — Regimes especiais"
+  },
+  "a11083696edb26a5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\nSem prejuízo do disposto no artigo seguinte, os requisitos e as condições a preencher pelos interessados para poderem beneficiar da aplicação de regimes especiais de desalfandegamento das mercadorias declaradas para livre prática serão definidos por portaria do Ministro das Finanças."
+  },
+  "af2ecda4440095cc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 58.º",
+   "in_force_from": "1991-07-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 239/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1991-667897), publicado em 1991-07-05."
+   ],
+   "markdown": "###### Artigo 58.º\n\n1 - Sem prejuízo das disposições especiais aplicáveis aos objectos de correspondência postal e às encomendas postais, e com excepção dos casos em que deva ser apresentada uma licença, uma autorização ou um certificado de importação, não será exigida declaração escrita relativamente às mercadorias:\n\na) Importadas para fins não comerciais, nos termos da legislação aplicável;\n\nb) Integradas em pequenas remessas enviadas de particular a particular ou contidas nas bagagens pessoais dos viajantes desde que não revistam carácter comercial;\n\nc) Contidas em pequenos volumes, vindos por qualquer via, desde que enviadas a título ocasional, quando na sua totalidade o peso não for superior a 50 kg e o valor não exceda 100000$00.\n\n2 - As mercadorias referidas no n.º 1 são tributadas oficiosamente, com base em declaração verbal do interessado e nos resultados da verificação, utilizando-se, para o efeito, os formulários apropriados em uso nos serviços.\n\n> Alterado pelo/a [Decreto-Lei n.º 239/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1991-667897), publicado em 1991-07-05."
+  },
+  "3a3b314ce29923bc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\n1 - Os requisitos e as condições a preencher pelos interessados para serem autorizados a apresentar ou a inserir posteriormente determinados elementos da declaração mencionada no artigo 3.º sob a forma de declarações complementares que apresentem um carácter global, periódico ou recapitulativo, assim como as modalidades práticas da sua aplicação, serão definidos por portaria do Ministro das Finanças, sob proposta do director-geral das Alfândegas, tendo em conta o grau de desenvolvimento da organização e funcionamento do sistema aduaneiro.\n\n2 - As menções complementares serão consideradas como constituindo, conjuntamente com as menções das declarações a que respeitam, um acto único e indivisível, produzindo efeitos à data da aceitação da declaração inicial correspondente.\n\n3 - Para poderem beneficiar do disposto neste artigo os interessados deverão prestar garantia apropriada, em termos a definir no diploma referido no n.º 1.\n\n4 - Sem prejuízo do disposto nos números anteriores, cada declaração relativa a cada operação de importação deve, em qualquer caso, conter os elementos necessários à identificação das mercadorias e ser acompanhada dos documentos, sem a apresentação dos quais as mercadorias não podem ser introduzidas em livre prática."
+  },
+  "0ac4b2b2ef56a095": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO IV — Importação para consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO IV — Importação para consumo"
+  },
+  "ac8af8635126f7ae": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\n1 - Sem prejuízo da aplicação das disposições autónomas ou convencionais que, respeitando exclusivamente à importação para consumo, não contrariem o disposto no presente diploma, este decreto-lei é aplicável à introdução no consumo das mercadorias declaradas para aquele regime.\n\n2 - Os serviços aduaneiros não podem autorizar a saída das mercadorias declaradas para consumo sem que previamente tenham sido pagos, garantidos ou objecto de diferimento do pagamento, nos termos e segundo as modalidades previstos no artigo 44.º, os direitos de importação, se for caso disso, e as demais imposições devidas."
+  },
+  "05b436403ac5125e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "TÍTULO V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## TÍTULO V — Disposições finais e transitórias"
+  },
+  "aa33915dd39ed838": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\n1 - Todas as referências a pedido, a declaração ou aos dois conjuntamente, com o significado que a estes termos é atribuído, respectivamente, nos artigos 241.º e 245.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, devem ser entendidas como referindo-se a declaração, com o significado que a este termo é dado no presente decreto-lei e para os efeitos nele previstos.\n\n2 - Para efeitos de aplicação do regime geral regulado no título II, a conferência do título de propriedade ou documento que legalmente o substitua prevista no artigo 240.º do Regulamento das Alfândegas referido no número anterior terá lugar antes da aceitação da declaração."
+  },
+  "dca8d1a5d6088f65": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 62.º",
+   "in_force_from": "1991-07-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 288/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1990-557466), publicado em 1990-09-20."
+   ],
+   "markdown": "###### Artigo 62.º\n\n1 - Com ressalva das disposições aplicáveis à liquidação, ao registo de liquidação e à garantia ou pagamento das imposições devidas, as formalidades previstas no artigo 240.º do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de 1941, passam a ser, relativamente ao regime geral, as seguintes:\n\na) Entrega da declaração;\n\nb) Controlo de aceitação;\n\nc) Aceitação;\n\nd) Controlo da declaração;\n\ne) Saída.\n\n2 - A conferência da declaração, nos casos em que tenha lugar, em conformidade com os critérios de amostragem definidos por despacho do Ministro das Finanças, pode ser efectuada após ter sido dada a autorização de saída das mercadorias.\n\n> Alterado pelo/a [Decreto-Lei n.º 288/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1990-557466), publicado em 1990-09-20."
+  },
+  "61e6add21e27b92b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\nAs disposições do presente decreto-lei prevalecem sobre quaisquer normas que estabeleçam em sentido contrário."
+  },
+  "f4f63e91edbac053": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º\n\nAs instruções necessárias à aplicação do presente diploma serão aprovadas por despacho do Ministro das Finanças."
+  },
+  "36ef604502876466": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\nO presente decreto-lei entra em vigor em 1 de Janeiro de 1986.\n\nVisto e aprovado em Conselho de Ministros de 26 de Dezembro de 1985. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 31 de Dezembro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 31 de Dezembro de 1985.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

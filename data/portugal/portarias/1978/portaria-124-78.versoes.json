@@ -1,0 +1,228 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:445964:por",
+ "consolidated_url": null,
+ "consolidated_by": "leis-portugal (consolidacao/, fase 2 do PLANO-RAG.md)",
+ "source_lastmod": null,
+ "versions": [
+  {
+   "date": "1978-03-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "8a1ba5345d64e49c",
+    "6ad89c6c97af0f5f",
+    "2968bf5f1509ce74",
+    "df76d3aee6b25ded",
+    "8ba13d286fb67816",
+    "9a1239b461af8aa0",
+    "6ea6db1e8cfd85b5",
+    "c45e1aac9485ce67",
+    "9012fd96a71adb20",
+    "1f5de9ae6b882923",
+    "82e9437f634f8b45"
+   ]
+  },
+  {
+   "date": "1979-01-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:392246:por",
+     "title": "Portaria n.º 33/79",
+     "published": "1979-01-20",
+     "dre_path": "/dr/detalhe/portaria/33-1979-392246"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "8a1ba5345d64e49c",
+    "1dfa9ec3d8bddda8",
+    "67593c56c568fd8e",
+    "50d00baea7114cad",
+    "6bdf4901a9eff94b",
+    "909de07761936d76",
+    "684548c19147ea51",
+    "30b514d5c4573120",
+    "3b6ff468a04919dc",
+    "ecacae3ba157f183",
+    "0ffa8dde9d0b15d0"
+   ]
+  }
+ ],
+ "fragments": {
+  "8a1ba5345d64e49c": {
+   "fragment_id": null,
+   "type": null,
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 3 de Março\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar o Regulamento do Prémio Escolar Distrito de Aveiro, anexo à presente portaria.\n\nMinistério da Educação e Cultura, 21 de Fevereiro de 1978. - O Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia.\n\nREGULAMENTO DO PRÉMIO ESCOLAR DISTRITO DE AVEIRO"
+  },
+  "6ad89c6c97af0f5f": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 1.º\n\nO Prémio Escolar Distrito de Aveiro, criado pelo pessoal administrativo e auxiliar dos estabelecimentos de ensino oficial dependentes do Ministério da Educação e Cultura situados nos actuais concelhos de Águeda, Albergaria-a-Velha, Anadia, Arouca, Aveiro, Castelo de Paiva, Espinho, Estarreja, Feira, Ílhavo, Mealhada, Murtosa, Oliveira de Azeméis, Oliveira do Bairro, Ovar, S. João da Madeira, Sever do Vouga, Vagos e Vale de Cambra, é destinado a filhos de funcionários administrativos e auxiliares dos estabelecimentos de ensino oficial daqueles concelhos."
+  },
+  "2968bf5f1509ce74": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 2.º\n\nO Prémio referido no artigo anterior é constituído pela renda vitalícia atribuída à Direcção do Distrito Escolar de Aveiro, ou do organismo que a possa vir a substituir, resultante do depósito de 70000$00, feito a favor daquela direcção do distrito escolar na agência da Caixa Geral de Depósitos de Espinho pela comissão pró-sindical dos trabalhadores administrativos e auxiliares do Ministério da Educação e Cultura do distrito de Aveiro."
+  },
+  "df76d3aee6b25ded": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 3.º\n\nO Prémio Escolar Distrito de Aveiro destina-se a ser anualmente distribuído, em partes iguais, por um aluno do ensino preparatório e outro do ensino secundário pertencentes a estabelecimentos de ensino situados nos concelhos referidos no artigo 1.º que se mostrem carecidos de recursos e desde que tenham no ano escolar anterior obtido o melhor aproveitamento escolar dentro dos seguintes mínimos:\n\na) Ensino preparatório - média final igual ou superior a nível 4 em todas as disciplinas;\n\nb) Ensino secundário - média final igual ou superior a nível 4 em todas as disciplinas ou média final não inferior a 14 valores e nota não inferior a 12 valores em qualquer disciplina."
+  },
+  "8ba13d286fb67816": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 4.º\n\nNo caso de existir mais do que um aluno em cada nível de ensino em igualdade de condições, poderá a comissão referida no artigo 7.º deste Regulamento, deliberar que o Prémio seja dividido pelo máximo de dois alunos em cada nível de ensino."
+  },
+  "9a1239b461af8aa0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 5.º\n\nA deliberação referida no artigo anterior será tomada por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade; constará de acta assinada por todos os presentes e da mesma deliberação não caberá recurso."
+  },
+  "6ea6db1e8cfd85b5": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 6.º\n\nSe em determinado ano escolar não houver candidatos que reúnam as condições fixadas no presente Regulamento, o valor do Prémio transitará para o ano escolar seguinte, podendo ser distribuído pelo dobro dos alunos referidos no artigo 3.º"
+  },
+  "c45e1aac9485ce67": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 7.º\n\nA determinação anual do aluno ou alunos dos ensinos preparatório e secundário contemplados com o Prémio Escolar Distrito de Aveiro será feita por uma comissão composta pelo director do Distrito Escolar de Aveiro, que será o presidente, e por dois funcionários administrativos e dois funcionários auxiliares dos estabelecimentos referidos no artigo 1.º designados pelo director-geral de Pessoal."
+  },
+  "9012fd96a71adb20": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 8.º\n\nOs candidatos ao Prémio Escolar Distrito de Aveiro deverão remeter, até 31 de Dezembro de cada ano, requerimento, em papel comum, dirigido à comissão referida no artigo anterior, com indicação do nome, idade, naturalidade, filiação, morada, aproveitamento escolar e indicação do estabelecimento de ensino que frequentam ou frequentaram e local onde exerce funções o pai ou a mãe."
+  },
+  "1f5de9ae6b882923": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 9.º\n\nO requerimento referido no artigo anterior deverá ser acompanhado de certidão comprovativa do aproveitamento do aluno passada pelo respectivo estabelecimento de ensino."
+  },
+  "82e9437f634f8b45": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "ARTIGO 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### ARTIGO 10.º\n\nO Prémio será entregue pela comissão referida no artigo 7.º, em sessão solene, a realizar na Direcção do Distrito Escolar de Aveiro, em data a marcar pela mesma comissão.\n\nO Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia."
+  },
+  "1dfa9ec3d8bddda8": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1979-01-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 33/79](https://diariodarepublica.pt/dr/detalhe/portaria/33-1979-392246), publicado em 1979-01-20."
+   ],
+   "markdown": "###### Artigo 1.º\n\nO Prémio Escolar Distrito de Aveiro, criado pelo pessoal administrativo e auxiliar da respectiva Direcção Escolar e dos estabelecimentos de ensino oficial dependentes do Ministério da Educação e Investigação Científica situados nos actuais concelhos de Águeda, Albergaria-a-Velha, Anadia, Arouca, Aveiro, Castelo de Paiva, Espinho, Estarreja, Feira, Ílhavo, Mealhada, Murtosa, Oliveira de Azeméis, Oliveira do Bairro, Ovar, S. João da Madeira, Sever do Vouga, Vagos e Vale de Cambra, é destinado a filhos de funcionários administrativos e auxiliares da Direcção Escolar do distrito e dos estabelecimentos de ensino oficial daqueles concelhos.\n\n> Alterado pelo/a [Portaria n.º 33/79](https://diariodarepublica.pt/dr/detalhe/portaria/33-1979-392246), publicado em 1979-01-20."
+  },
+  "67593c56c568fd8e": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Prémio referido no artigo anterior é constituído pela renda vitalícia atribuída à Direcção do Distrito Escolar de Aveiro, ou do organismo que a possa vir a substituir, resultante do depósito de 70000$00, feito a favor daquela direcção do distrito escolar na agência da Caixa Geral de Depósitos de Espinho pela comissão pró-sindical dos trabalhadores administrativos e auxiliares do Ministério da Educação e Cultura do distrito de Aveiro."
+  },
+  "50d00baea7114cad": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Prémio Escolar Distrito de Aveiro destina-se a ser anualmente distribuído, em partes iguais, por um aluno do ensino preparatório e outro do ensino secundário pertencentes a estabelecimentos de ensino situados nos concelhos referidos no artigo 1.º que se mostrem carecidos de recursos e desde que tenham no ano escolar anterior obtido o melhor aproveitamento escolar dentro dos seguintes mínimos:\n\na) Ensino preparatório - média final igual ou superior a nível 4 em todas as disciplinas;\n\nb) Ensino secundário - média final igual ou superior a nível 4 em todas as disciplinas ou média final não inferior a 14 valores e nota não inferior a 12 valores em qualquer disciplina."
+  },
+  "6bdf4901a9eff94b": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNo caso de existir mais do que um aluno em cada nível de ensino em igualdade de condições, poderá a comissão referida no artigo 7.º deste Regulamento, deliberar que o Prémio seja dividido pelo máximo de dois alunos em cada nível de ensino."
+  },
+  "909de07761936d76": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA deliberação referida no artigo anterior será tomada por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade; constará de acta assinada por todos os presentes e da mesma deliberação não caberá recurso."
+  },
+  "684548c19147ea51": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSe em determinado ano escolar não houver candidatos que reúnam as condições fixadas no presente Regulamento, o valor do Prémio transitará para o ano escolar seguinte, podendo ser distribuído pelo dobro dos alunos referidos no artigo 3.º"
+  },
+  "30b514d5c4573120": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA determinação anual do aluno ou alunos dos ensinos preparatório e secundário contemplados com o Prémio Escolar Distrito de Aveiro será feita por uma comissão composta pelo director do Distrito Escolar de Aveiro, que será o presidente, e por dois funcionários administrativos e dois funcionários auxiliares dos estabelecimentos referidos no artigo 1.º designados pelo director-geral de Pessoal."
+  },
+  "3b6ff468a04919dc": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs candidatos ao Prémio Escolar Distrito de Aveiro deverão remeter, até 31 de Dezembro de cada ano, requerimento, em papel comum, dirigido à comissão referida no artigo anterior, com indicação do nome, idade, naturalidade, filiação, morada, aproveitamento escolar e indicação do estabelecimento de ensino que frequentam ou frequentaram e local onde exerce funções o pai ou a mãe."
+  },
+  "ecacae3ba157f183": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO requerimento referido no artigo anterior deverá ser acompanhado de certidão comprovativa do aproveitamento do aluno passada pelo respectivo estabelecimento de ensino."
+  },
+  "0ffa8dde9d0b15d0": {
+   "fragment_id": null,
+   "type": null,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO Prémio será entregue pela comissão referida no artigo 7.º, em sessão solene, a realizar na Direcção do Distrito Escolar de Aveiro, em data a marcar pela mesma comissão.\n\nO Ministro da Educação e Cultura, Mário Augusto Sottomayor Leal Cardia."
+  }
+ }
+}

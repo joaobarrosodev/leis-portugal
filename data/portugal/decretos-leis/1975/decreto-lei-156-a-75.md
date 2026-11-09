@@ -29,10 +29,24 @@ legal_status: in_force
 notes: []
 language: por
 version:
-  kind: original
-  label: Texto publicado no Diário da República
+  kind: consolidated
+  label: 'Versão consolidada pelo leis-portugal, sem valor oficial: alterações aplicadas com um LLM e verificadas às cegas'
   language: por
-  consolidation_date: null
+  consolidation_date: '1975-07-12'
+version_history:
+  file: decreto-lei-156-a-75.versoes.json
+  count: 2
+  source_lastmod: null
+  versions:
+  - date: '1975-03-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1975-07-12'
+    amending: pt:dre:336988:por
+    amending_title: Decreto-Lei n.º 366/75
+    changes:
+    - Altera Artigo 4.º
 identifiers:
   celex: null
   eli: null
@@ -58,7 +72,8 @@ provenance:
   collector_version: 0.1.0
   generated_by: leis-portugal collect dre
   generated_at: '2026-10-22T22:39:05Z'
-  notes: null
+  notes: 'Texto em vigor consolidado pelo leis-portugal com as alterações publicadas em: Decreto-Lei n.º 366/75. Método e
+    verificação: consolidacao/README.md e consolidacao/piloto/portugal/decretos-leis/1975/decreto-lei-156-a-75.alteracoes.json'
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -129,15 +144,23 @@ Nestes termos:
 
 Usando os poderes conferidos pelo artigo 6.º da Lei Constitucional n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
 
-Artigo 1.º - 1. O Primeiro-Ministro, ouvidos os Ministros das Finanças e dos Assuntos Sociais e os sindicatos dos bancários, nomeará, por despacho, uma comissão administrativa para o Montepio Geral, associação de socorros mútuos, com sede em Lisboa.
+###### Artigo 1.º
+
+1. O Primeiro-Ministro, ouvidos os Ministros das Finanças e dos Assuntos Sociais e os sindicatos dos bancários, nomeará, por despacho, uma comissão administrativa para o Montepio Geral, associação de socorros mútuos, com sede em Lisboa.
 
 2. A comissão administrativa será composta por três a cinco elementos de reconhecida competência, entre os quais dois sócios do Montepio Geral no pleno exercício dos seus direitos.
 
-Art. 2.º Consideram-se dissolvidos, a partir da publicação do despacho de nomeação da comissão administrativa, os actuais corpos sociais do Montepio Geral, associação de socorros mútuos, com sede em Lisboa.
+###### Artigo 2.º
 
-Art. 3.º A comissão administrativa, nomeada nos termos do artigo 1.º, exercerá funções até à entrada em funcionamento dos órgãos de gestão que venham a ser constituídos, nos termos da legislação especial prevista na alínea b) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março.
+Consideram-se dissolvidos, a partir da publicação do despacho de nomeação da comissão administrativa, os actuais corpos sociais do Montepio Geral, associação de socorros mútuos, com sede em Lisboa.
 
-Art. 4.º - 1. A comissão administrativa terá todos os poderes que, pela lei ou pelos estatutos, pertenciam à direcção do Montepio Geral, com excepção:
+###### Artigo 3.º
+
+A comissão administrativa, nomeada nos termos do artigo 1.º, exercerá funções até à entrada em funcionamento dos órgãos de gestão que venham a ser constituídos, nos termos da legislação especial prevista na alínea b) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 132-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-a-1975-317347), de 14 de Março.
+
+###### Artigo 4.º
+
+1. A comissão administrativa terá todos os poderes que, pela lei ou pelos estatutos, pertenciam, com ou sem prévia concordância dos corpos sociais, à direcção do Montepio Geral, com excepção:
 
 a) Da faculdade de admissão, promoção, transferência, demissão ou alteração de remunerações ou quaisquer outras regalias dos trabalhadores;
 
@@ -145,19 +168,33 @@ b) Da capacidade para a prática de actos que não estejam estritamente relacion
 
 2. A prática de actos mencionados nas alíneas a) e b) do número anterior dependerá, em cada caso, de despacho de autorização dos Ministros das Finanças e dos Assuntos Sociais.
 
-Art. 5.º - 1. Por proposta da comissão administrativa, o Banco de Portugal poderá autorizar genericamente a realização, pela Caixa Económica de Lisboa, anexa ao Montepio Geral, de outras operações bancárias além das enunciadas nos seus estatutos.
+> Alterado pelo/a [Decreto-Lei n.º 366/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1975-336988), publicado em 1975-07-12.
+
+###### Artigo 5.º
+
+1. Por proposta da comissão administrativa, o Banco de Portugal poderá autorizar genericamente a realização, pela Caixa Económica de Lisboa, anexa ao Montepio Geral, de outras operações bancárias além das enunciadas nos seus estatutos.
 
 2. Não se aplica à Caixa Económica de Lisboa, anexa ao Montepio Geral, o disposto no corpo do artigo 79.º do [Decreto n.º 20944](https://diariodarepublica.pt/dr/detalhe/decreto/20944-1932-523236), de 27 de Fevereiro de 1932.
 
-Art. 6.º As remunerações dos membros da comissão administrativa, a atribuir enquanto esses membros exercerem tais funções, serão fixadas por despacho dos Ministros das Finanças e dos Assuntos Sociais, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, constituindo encargo da respectiva instituição.
+###### Artigo 6.º
 
-Art. 7.º A responsabilidade perante terceiros decorrente dos actos de gestão praticados pelos membros da comissão administrativa será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
+As remunerações dos membros da comissão administrativa, a atribuir enquanto esses membros exercerem tais funções, serão fixadas por despacho dos Ministros das Finanças e dos Assuntos Sociais, observados os limites estabelecidos no [Decreto-Lei n.º 446/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1974-473881), de 13 de Setembro, constituindo encargo da respectiva instituição.
 
-Art. 8.º A comissão administrativa elaborará, após o termo do seu mandato, relatório circunstanciado sobre a sua actividade e prestará contas da mesma para apreciação pelos Ministros das Finanças e dos Assuntos Sociais.
+###### Artigo 7.º
 
-Art. 9.º Os membros da direcção e do conselho fiscal, a dissolver nos termos do presente diploma, ficam obrigados a prestar à comissão administrativa as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
+A responsabilidade perante terceiros decorrente dos actos de gestão praticados pelos membros da comissão administrativa será directa e exclusivamente assumida pelo Estado, perante o qual tais membros responderão pelos referidos actos.
 
-Art. 10.º O presente diploma entra imediatamente em vigor.
+###### Artigo 8.º
+
+A comissão administrativa elaborará, após o termo do seu mandato, relatório circunstanciado sobre a sua actividade e prestará contas da mesma para apreciação pelos Ministros das Finanças e dos Assuntos Sociais.
+
+###### Artigo 9.º
+
+Os membros da direcção e do conselho fiscal, a dissolver nos termos do presente diploma, ficam obrigados a prestar à comissão administrativa as informações e esclarecimentos que se tornarem necessários para o normal exercício das suas funções, sob pena de incorrerem no crime de desobediência qualificada.
+
+###### Artigo 10.º
+
+O presente diploma entra imediatamente em vigor.
 
 Visto e aprovado em Conselho da Revolução.
 
